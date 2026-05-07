@@ -42,7 +42,7 @@
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end }}
 
-<link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 
 {{/* Preconnect for Spreaker embed */}}
 {{ if eq .Section "episodi" }}
