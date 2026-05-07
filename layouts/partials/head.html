@@ -1,0 +1,50 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{{ $title := .Title }}
+{{ $desc  := .Params.description | default .Site.Params.description }}
+{{ if .IsHome }}
+  {{ $title = .Site.Title }}
+{{ else }}
+  {{ $title = printf "%s — %s" .Title .Site.Title }}
+{{ end }}
+{{ if and (eq .Section "episodi") .Params.episodeNumber }}
+  {{ $title = printf "Ep. %d — %s | %s" .Params.episodeNumber .Title .Site.Title }}
+{{ end }}
+
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $desc }}">
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{/* Open Graph */}}
+<meta property="og:type"        content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:title"       content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url"         content="{{ .Permalink }}">
+<meta property="og:site_name"   content="{{ .Site.Title }}">
+<meta property="og:locale"      content="it_IT">
+<meta property="og:image"       content="{{ .Site.Params.podcastImage }}">
+<meta property="og:image:alt"   content="Logo A2 Podcast">
+
+{{/* Twitter Card */}}
+<meta name="twitter:card"        content="summary">
+<meta name="twitter:title"       content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image"       content="{{ .Site.Params.podcastImage }}">
+
+{{/* Podcast RSS autodiscovery */}}
+<link rel="alternate" type="application/rss+xml"
+      title="{{ .Site.Params.podcastTitle }}"
+      href="{{ .Site.Params.podcastFeedUrl }}">
+
+{{/* Hugo RSS */}}
+{{ range .AlternativeOutputFormats -}}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end }}
+
+<link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+
+{{/* Preconnect for Spreaker embed */}}
+{{ if eq .Section "episodi" }}
+<link rel="preconnect" href="https://widget.spreaker.com">
+{{ end }}

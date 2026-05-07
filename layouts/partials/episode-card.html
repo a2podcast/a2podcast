@@ -1,0 +1,13 @@
+<article class="episode-card">
+  <div class="episode-card-number">Ep. {{ .Params.episodeNumber }}</div>
+  <h2 class="episode-card-title">
+    <a href="{{ .Permalink }}">{{ .Title | replaceRE `^\d+:\s*` "" }}</a>
+  </h2>
+  {{ with .Params.description }}
+  <p class="episode-card-description">{{ . | truncate 130 }}</p>
+  {{ end }}
+  <div class="episode-card-meta">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
+    {{ with .Params.duration }}<span class="episode-card-duration"> · {{ . }}</span>{{ end }}
+  </div>
+</article>

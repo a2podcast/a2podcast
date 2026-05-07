@@ -1,0 +1,13 @@
+<header class="site-header">
+  <div class="page-wrapper site-header-inner">
+    <a href="{{ "/" | relURL }}" class="site-logo" aria-label="A2 Podcast — torna alla home">
+      <span class="site-logo-mark">A2</span>
+      <span class="site-logo-text">Podcast</span>
+    </a>
+    <nav class="site-nav" aria-label="Navigazione principale">
+      <a href="{{ "/episodi/" | relURL }}"{{ if eq .Section "episodi" }} aria-current="page"{{ end }}>Episodi</a>
+      <a href="{{ "/about/" | relURL }}"{{ if eq .RelPermalink "/about/" }} aria-current="page"{{ end }}>Chi siamo</a>
+      <a href="{{ .Site.Params.podcastFeedUrl }}" class="nav-subscribe btn btn-sm" target="_blank" rel="noopener">Ascolta</a>
+    </nav>
+  </div>
+</header>

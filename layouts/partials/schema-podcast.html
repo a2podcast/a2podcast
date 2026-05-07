@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastSeries",
+  "name": "{{ .Site.Params.podcastTitle }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description | htmlEscape }}",
+  "inLanguage": "it",
+  "image": "{{ .Site.Params.podcastImage }}",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Filippo Strozzi",
+      "url": "https://www.avvocati-e-mac.it"
+    },
+    {
+      "@type": "Person",
+      "name": "Roberto Marin",
+      "url": "https://youtube.com/@architecday"
+    }
+  ],
+  "webFeed": {
+    "@type": "DataFeed",
+    "url": "{{ .Site.Params.podcastFeedUrl }}"
+  }
+}
+</script>

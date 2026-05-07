@@ -1,0 +1,41 @@
+baseURL = "https://a2podcast.it/"
+languageCode = "it-IT"
+defaultContentLanguage = "it"
+title = "A2 Podcast"
+enableRobotsTXT = true
+enableEmoji = false
+
+[pagination]
+  pagerSize = 20
+
+[outputs]
+  home    = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  page    = ["HTML"]
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  episodi = "/:slug/"
+
+[params]
+  description    = "Il podcast italiano su tecnologia Apple per avvocati e architetti. Due professionisti, Filippo e Roberto, ti spiegano come ottenere il massimo dalla tua tecnologia Apple."
+  podcastTitle   = "A2 Podcast"
+  podcastAuthor  = "Filippo Strozzi e Roberto Marin"
+  podcastFeedUrl = "https://www.spreaker.com/show/6519470/episodes/feed"
+  spreakerShowId = "6519470"
+  podcastImage   = "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a924cb252d74ea199e46dc0348f4822b.jpg"
+  network        = "Runtime Radio"
+  networkUrl     = "https://runtimeradio.com"
+
+  applePodcastsUrl = "https://podcasts.apple.com/us/podcast/a2/id1555104264"
+  spreakerUrl      = "https://www.spreaker.com/podcast/a2--6519470"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3

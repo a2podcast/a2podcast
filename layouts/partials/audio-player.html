@@ -1,0 +1,16 @@
+{{ with .Params.spreakerEpisodeId }}
+<div class="audio-player">
+  <iframe
+    src="https://widget.spreaker.com/player?episode_id={{ . }}&theme=light&playlist=false&playlist-continuous=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=false"
+    width="100%"
+    height="200px"
+    frameborder="0"
+    title="Ascolta {{ $.Title }} su Spreaker"
+    loading="lazy"
+    allow="autoplay">
+  </iframe>
+  <p class="audio-player-fallback">
+    <a href="{{ $.Params.audioUrl }}" target="_blank" rel="noopener">Apri episodio su Spreaker ↗</a>
+  </p>
+</div>
+{{ end }}

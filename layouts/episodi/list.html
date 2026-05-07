@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="page-wrapper">
+  <header class="section-header">
+    <h1 class="section-title">Episodi</h1>
+    <p class="section-description">{{ len .Site.RegularPages }} episodi su Apple e tecnologia per professionisti italiani.</p>
+  </header>
+
+  <div class="episode-grid">
+    {{ range .Paginator.Pages }}
+      {{ partial "episode-card.html" . }}
+    {{ end }}
+  </div>
+
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

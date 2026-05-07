@@ -1,0 +1,85 @@
+{{ define "main" }}
+{{ $episodes := (where .Site.RegularPages "Section" "episodi").ByDate.Reverse }}
+
+{{/* ── Hero ── */}}
+<section class="hero">
+  <div class="page-wrapper hero-inner">
+    <div class="hero-content">
+      <p class="hero-eyebrow">Il podcast italiano su Apple</p>
+      <h1 class="hero-title">Scopri come ottenere&nbsp;il massimo dalla tua tecnologia&nbsp;Apple</h1>
+      <p class="hero-lead">Due professionisti — un avvocato e un architetto — ti spiegano come usare iPhone, iPad e Mac nel lavoro di ogni giorno.</p>
+      <div class="hero-actions">
+        <a href="{{ .Site.Params.applePodcastsUrl }}" class="btn btn-primary" target="_blank" rel="noopener">
+          Apple Podcasts
+        </a>
+        <a href="{{ .Site.Params.spreakerUrl }}" class="btn btn-secondary" target="_blank" rel="noopener">
+          Spreaker
+        </a>
+        <a href="{{ "/episodi/" | relURL }}" class="btn btn-ghost">
+          Tutti gli episodi →
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{/* ── Latest episodes ── */}}
+<section class="latest-episodes">
+  <div class="page-wrapper">
+    <h2 class="section-title">Ultimi episodi</h2>
+    <div class="episode-grid">
+      {{ range first 6 $episodes }}
+        {{ partial "episode-card.html" . }}
+      {{ end }}
+    </div>
+    <div class="section-footer">
+      <a href="{{ "/episodi/" | relURL }}" class="btn btn-secondary">Tutti gli episodi →</a>
+    </div>
+  </div>
+</section>
+
+{{/* ── Hosts teaser ── */}}
+<section class="hosts-teaser">
+  <div class="page-wrapper">
+    <h2 class="section-title">Chi siamo</h2>
+    <div class="hosts-teaser-grid">
+      {{ range (index hugo.Data "hosts").hosts }}
+      <div class="host-teaser-card">
+        <div class="host-teaser-photo">
+          {{ $host := . }}
+          {{ $aboutPage := $.Site.GetPage "/about" }}
+          {{ if $aboutPage }}
+            {{ with $aboutPage.Resources.GetMatch $host.photo }}
+              <img src="{{ .RelPermalink }}" alt="{{ $host.photoAlt }}" width="80" height="80" loading="lazy">
+            {{ else }}
+              <div class="host-avatar" aria-label="{{ $host.name }}">{{ $host.name | substr 0 1 }}</div>
+            {{ end }}
+          {{ else }}
+            <div class="host-avatar">{{ .name | substr 0 1 }}</div>
+          {{ end }}
+        </div>
+        <div class="host-teaser-info">
+          <h3 class="host-teaser-name">{{ .name }}</h3>
+          <p class="host-teaser-role">{{ .role }}{{ with .location }} · {{ . }}{{ end }}</p>
+          <p class="host-teaser-bio">{{ .bio | truncate 100 }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    <div class="section-footer">
+      <a href="{{ "/about/" | relURL }}" class="btn btn-secondary">Scopri chi siamo →</a>
+    </div>
+  </div>
+</section>
+
+{{/* ── Network badge ── */}}
+<section class="network-badge">
+  <div class="page-wrapper">
+    <p>
+      Fa parte di
+      <a href="{{ .Site.Params.networkUrl }}" target="_blank" rel="noopener">{{ .Site.Params.network }}</a>
+    </p>
+  </div>
+</section>
+
+{{ end }}

@@ -1,0 +1,45 @@
+[[hosts]]
+name        = "Filippo Strozzi"
+role        = "Avvocato"
+location    = "Reggio Emilia"
+bio         = "Avvocato appassionato di tecnologia Apple. Autore del blog e podcast \"Avvocati e Mac: Compendium\", dove esplora come usare gli strumenti Apple nella professione legale."
+photo       = "filippo.jpg"
+photoAlt    = "Filippo Strozzi"
+
+[[hosts.links]]
+label = "Avvocati e Mac"
+url   = "https://www.avvocati-e-mac.it"
+icon  = "web"
+
+[[hosts.links]]
+label = "@StrozziFilippo"
+url   = "https://twitter.com/StrozziFilippo"
+icon  = "twitter"
+
+[[hosts.links]]
+label = "LinkedIn"
+url   = "https://linkedin.com/in/filippostrozzi/"
+icon  = "linkedin"
+
+[[hosts]]
+name        = "Roberto Marin"
+role        = "Architetto"
+location    = "Torino"
+bio         = "Architetto freelance e BIM specialist. Host del podcast \"SNAP — Architettura Imperfetta\", riconosciuto da AD Italia, Domus e Fuorisalone. Crea contenuti educativi per architetti su tecnologia e design digitale."
+photo       = "roberto.jpg"
+photoAlt    = "Roberto Marin"
+
+[[hosts.links]]
+label = "SNAP — Architettura Imperfetta"
+url   = "https://www.spreaker.com/show/snap-archiettura-imperfetta"
+icon  = "podcast"
+
+[[hosts.links]]
+label = "YouTube @architecday"
+url   = "https://youtube.com/@architecday"
+icon  = "youtube"
+
+[[hosts.links]]
+label = "@Architecday"
+url   = "https://twitter.com/Architecday"
+icon  = "twitter"

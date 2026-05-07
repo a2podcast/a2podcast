@@ -1,0 +1,25 @@
+{{ if eq .Section "episodi" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "name": "{{ .Title | htmlEscape }}",
+  "url": "{{ .Permalink }}",
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "description": "{{ .Params.description | htmlEscape }}",
+  "episodeNumber": {{ .Params.episodeNumber }},
+  "associatedMedia": {
+    "@type": "MediaObject",
+    "contentUrl": "{{ .Params.audioUrl }}",
+    "encodingFormat": "audio/mpeg"{{ with .Params.duration }},
+    "duration": "{{ . }}"{{ end }}
+  },
+  "partOfSeries": {
+    "@type": "PodcastSeries",
+    "name": "{{ .Site.Params.podcastTitle }}",
+    "url": "{{ .Site.BaseURL }}"
+  }{{ if .Params.hasTranscript }},
+  "transcript": "{{ printf "%strascrizioni/ep-%d.srt" .Site.BaseURL .Params.episodeNumber }}"{{ end }}
+}
+</script>
+{{ end }}

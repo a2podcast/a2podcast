@@ -1,0 +1,18 @@
+{{ $hosts := (index hugo.Data "hosts").hosts }}
+{{ if $hosts }}
+<aside class="hosts-contact">
+  <h2 class="hosts-contact-title">Dove ci potete trovare?</h2>
+  <div class="hosts-contact-grid">
+    {{ range $hosts }}
+    <div class="host-contact-card">
+      <h3 class="host-contact-name">{{ .name }}</h3>
+      <ul class="host-contact-links">
+        {{ range .links }}
+        <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .label }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </div>
+</aside>
+{{ end }}

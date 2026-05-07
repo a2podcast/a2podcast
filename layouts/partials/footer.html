@@ -1,0 +1,21 @@
+<footer class="site-footer">
+  <div class="page-wrapper site-footer-inner">
+    <div class="footer-brand">
+      <span class="site-logo-mark">A2</span>
+      <span class="site-logo-text">Podcast</span>
+      <p class="footer-tagline">Apple per professionisti</p>
+    </div>
+    <nav class="footer-nav" aria-label="Link footer">
+      <a href="{{ "/episodi/" | relURL }}">Episodi</a>
+      <a href="{{ "/about/" | relURL }}">Chi siamo</a>
+      <a href="{{ .Site.Params.applePodcastsUrl }}" target="_blank" rel="noopener">Apple Podcasts</a>
+      <a href="{{ .Site.Params.spreakerUrl }}" target="_blank" rel="noopener">Spreaker</a>
+      <a href="{{ "/feed" | relURL }}">RSS</a>
+    </nav>
+    <div class="footer-network">
+      Fa parte di
+      <a href="{{ .Site.Params.networkUrl }}" target="_blank" rel="noopener">{{ .Site.Params.network }}</a>
+    </div>
+    <p class="footer-copy">&copy; {{ now.Format "2006" }} A2 Podcast</p>
+  </div>
+</footer>
