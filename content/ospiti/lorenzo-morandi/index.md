@@ -1,6 +1,7 @@
 +++
 title = "Lorenzo Morandi"
 slug = "lorenzo-morandi"
+photo = "lorenzo-morandi.jpg"
 role = "Fotografo, storyteller"
 website = "https://www.lorenzomorandi.com"
 instagram = "https://www.instagram.com/lorenzomorandi.it/"

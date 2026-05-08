@@ -1,6 +1,7 @@
 +++
 title = "Alex Raccuglia"
 slug = "alex-raccuglia"
+photo = "alex-raccuglia.jpg"
 role = "Developer, podcaster"
 website = "https://ulti.media"
 episodes = [6, 23, 58]

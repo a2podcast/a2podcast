@@ -1,6 +1,7 @@
 +++
 title = "Matteo Scandolin"
 slug = "matteo-scandolin"
+photo = "matteo-scandolin.jpg"
 role = "Musicista, content creator"
 website = "https://scandol.in"
 youtube = "https://www.youtube.com/c/MatteoScandolin"

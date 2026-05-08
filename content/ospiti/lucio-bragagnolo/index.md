@@ -1,6 +1,7 @@
 +++
 title = "Lucio Bragagnolo"
 slug = "lucio-bragagnolo"
+photo = "lucio-bragagnolo.jpg"
 role = "Developer & Apple enthusiast"
 website = "https://macintelligence.org"
 twitter = "https://twitter.com/loox"

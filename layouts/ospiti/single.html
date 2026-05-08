@@ -3,8 +3,23 @@
 
   <header class="guest-header">
     <a href="{{ "/ospiti/" | relURL }}" class="guest-back">← Tutti gli ospiti</a>
-    <h1 class="guest-name">{{ .Title }}</h1>
-    {{ with .Params.role }}<p class="guest-role">{{ . }}</p>{{ end }}
+    <div class="guest-header-top">
+      <div class="guest-header-avatar">
+        {{ with .Params.photo }}
+          {{ with $.Resources.GetMatch . }}
+            <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" width="120" height="120">
+          {{ else }}
+            <div class="guest-avatar-placeholder guest-avatar-lg">{{ $.Title | truncate 1 "" }}</div>
+          {{ end }}
+        {{ else }}
+          <div class="guest-avatar-placeholder guest-avatar-lg">{{ .Title | truncate 1 "" }}</div>
+        {{ end }}
+      </div>
+      <div>
+        <h1 class="guest-name">{{ .Title }}</h1>
+        {{ with .Params.role }}<p class="guest-role">{{ . }}</p>{{ end }}
+      </div>
+    </div>
     <div class="guest-links">
       {{ with .Params.website }}
       <a href="{{ . }}" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">Sito web</a>

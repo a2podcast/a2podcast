@@ -1,6 +1,7 @@
 +++
 title = "Giuseppe Pugliese"
 slug = "giuseppe-pugliese"
+photo = "giuseppe-pugliese.jpg"
 role = "Divulgatore, blogger"
 website = "https://magnetarman.com"
 episodes = [71]

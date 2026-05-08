@@ -1,6 +1,7 @@
 +++
 title = "Valentina De Poli"
 slug = "valentina-de-poli"
+photo = "valentina-de-poli.jpg"
 role = "Professionista, consulente"
 website = "https://linktr.ee/valentinadepoli"
 episodes = [72]

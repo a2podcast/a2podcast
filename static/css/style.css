@@ -818,34 +818,88 @@ a:hover { color: var(--color-link-hover); }
 }
 
 .guest-card {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-md);
   background: var(--color-bg-alt);
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   padding: var(--space-lg);
-  transition: border-color .15s;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color .15s, box-shadow .15s;
 }
 
-.guest-card:hover { border-color: var(--color-brand); }
+.guest-card:hover {
+  border-color: var(--color-brand);
+  box-shadow: 0 2px 12px rgba(193,58,10,.08);
+  color: inherit;
+}
+
+.guest-card-avatar {
+  flex-shrink: 0;
+}
+
+.guest-card-avatar img {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--color-border);
+}
+
+.guest-avatar-placeholder {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: var(--color-brand);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.guest-avatar-lg {
+  width: 120px;
+  height: 120px;
+  font-size: 2.5rem;
+}
 
 .guest-card-name {
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 700;
   margin-bottom: var(--space-xs);
+  color: var(--color-text);
 }
 
-.guest-card-name a { text-decoration: none; color: var(--color-text); }
-.guest-card-name a:hover { color: var(--color-brand); }
-
 .guest-card-role {
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   color: var(--color-text-muted);
   margin-bottom: var(--space-xs);
 }
 
 .guest-card-episodes {
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   color: var(--color-brand);
   font-weight: 600;
+}
+
+.guest-header-top {
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+  margin-bottom: var(--space-lg);
+}
+
+.guest-header-avatar img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--color-border);
 }
 
 .guest-single { padding: var(--space-xl) 0 var(--space-2xl); }
