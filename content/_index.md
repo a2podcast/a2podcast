@@ -1,4 +1,4 @@
 +++
 title = "A2 Podcast"
-description = "Il podcast italiano su tecnologia Apple per avvocati e architetti."
+description = "Scopri come ottenere il massimo dalla tua tecnologia Apple. Due professionisti — Filippo e Roberto — te lo spiegano con argomenti monotematici e ospiti che raccontano il loro flusso di lavoro."
 +++
