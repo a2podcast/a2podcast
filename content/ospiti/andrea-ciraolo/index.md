@@ -1,6 +1,7 @@
 +++
 title = "Andrea Ciraolo"
 slug = "andrea-ciraolo"
+photo = "andrea-ciraolo.jpg"
 role = "Designer, consulente"
 website = "https://ciraolo.me"
 episodes = [74]

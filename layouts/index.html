@@ -90,6 +90,53 @@
     </div>
   </div>
 </div>
+<script>
+(function(){
+  var c = document.querySelector('.evergreen-carousel');
+  if (!c) return;
+  var paused = false;
+  var cardW = 0;
+  var dir = 1;
+  var raf;
+  var lastTs = 0;
+  var px = 0; // sub-pixel accumulator
+
+  function getCardW() {
+    var card = c.querySelector('.evergreen-card');
+    if (!card) return 256;
+    var gap = parseInt(getComputedStyle(c).gap) || 16;
+    return card.offsetWidth + gap;
+  }
+
+  function step(ts) {
+    if (!paused) {
+      var dt = ts - lastTs;
+      if (dt > 100) dt = 16; // tab was hidden
+      px += (dt / 1000) * 60; // 60px per second
+      if (px >= 1) {
+        var move = Math.floor(px);
+        px -= move;
+        c.scrollLeft += move * dir;
+        var maxScroll = c.scrollWidth - c.clientWidth;
+        if (c.scrollLeft >= maxScroll - 2) dir = -1;
+        if (c.scrollLeft <= 2) dir = 1;
+      }
+    }
+    lastTs = ts;
+    raf = requestAnimationFrame(step);
+  }
+
+  c.addEventListener('mouseenter', function(){ paused = true; });
+  c.addEventListener('mouseleave', function(){ paused = false; });
+  c.addEventListener('touchstart', function(){ paused = true; }, {passive:true});
+  c.addEventListener('touchend',   function(){
+    setTimeout(function(){ paused = false; }, 2000);
+  }, {passive:true});
+
+  lastTs = performance.now();
+  raf = requestAnimationFrame(step);
+})();
+</script>
 
 {{/* ── Latest episodes ── */}}
 <section class="latest-episodes">

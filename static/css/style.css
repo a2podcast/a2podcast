@@ -617,7 +617,36 @@ a:hover { color: var(--color-link-hover); }
   color: var(--color-brand);
 }
 
-/* ── 14. Episode nav ───────────────────────────────────────────────── */
+/* ── 14. Episode tags ──────────────────────────────────────────────── */
+.episode-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+  margin: var(--space-xl) 0;
+}
+
+.episode-tags .tag {
+  display: inline-block;
+  padding: 0.25em 0.75em;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: lowercase;
+  text-decoration: none;
+  background: var(--color-bg-alt);
+  color: var(--color-brand);
+  border: 1px solid var(--color-border);
+  transition: background .15s, border-color .15s, color .15s;
+}
+
+.episode-tags .tag:hover {
+  background: var(--color-brand);
+  border-color: var(--color-brand);
+  color: #fff;
+}
+
+/* ── 15. Episode nav ───────────────────────────────────────────────── */
 .episode-nav {
   display: grid;
   grid-template-columns: 1fr 1fr;
