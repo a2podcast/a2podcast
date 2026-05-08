@@ -174,8 +174,16 @@ a:hover { color: var(--color-link-hover); }
 
 .hero-inner {
   display: flex;
-  align-items: center;
-  gap: var(--space-2xl);
+  flex-direction: column;
+  gap: var(--space-xl);
+}
+
+@media (min-width: 700px) {
+  .hero-inner {
+    flex-direction: row;
+    align-items: center;
+    gap: var(--space-2xl);
+  }
 }
 
 .hero-content {
@@ -185,19 +193,26 @@ a:hover { color: var(--color-link-hover); }
 
 .hero-logo-wrap {
   flex-shrink: 0;
-  display: none;
+  order: -1;
 }
 
 @media (min-width: 700px) {
-  .hero-logo-wrap { display: block; }
+  .hero-logo-wrap { order: 0; }
 }
 
 .hero-logo {
-  width: 220px;
-  height: 220px;
+  width: 160px;
+  height: 160px;
   border-radius: 18%;
   box-shadow: 0 4px 24px rgba(0,0,0,.15);
   display: block;
+}
+
+@media (min-width: 700px) {
+  .hero-logo {
+    width: 240px;
+    height: 240px;
+  }
 }
 
 /* ── Pause notice / carosello ── */
@@ -206,6 +221,7 @@ a:hover { color: var(--color-link-hover); }
   border-top: 3px solid var(--color-brand);
   border-bottom: 1px solid var(--color-border);
   padding: var(--space-xl) 0;
+  overflow: hidden;
 }
 
 .pause-intro {
@@ -213,6 +229,21 @@ a:hover { color: var(--color-link-hover); }
   color: var(--color-text-muted);
   font-weight: 500;
   margin-bottom: var(--space-md);
+}
+
+.evergreen-carousel-wrap {
+  position: relative;
+}
+
+.evergreen-carousel-wrap::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 60px;
+  height: 100%;
+  background: linear-gradient(to right, transparent, #fff8f0);
+  pointer-events: none;
 }
 
 .evergreen-carousel {
@@ -231,7 +262,7 @@ a:hover { color: var(--color-link-hover); }
 .evergreen-carousel::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 2px; }
 
 .evergreen-card {
-  flex: 0 0 220px;
+  flex: 0 0 240px;
   scroll-snap-align: start;
   background: #fff;
   border: 1px solid var(--color-border);
