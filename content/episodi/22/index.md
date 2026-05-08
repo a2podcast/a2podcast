@@ -6,11 +6,13 @@ slug = "22"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336049/d1d67323_63de_4ff9_b5f0_fc36002580dd.mp3"
 spreakerEpisodeId = "64336049"
 duration = "1:02:25"
-description = "Oggi Roberto e Filippo parlano di Comandi Rapidi (in inglese Shortcuts) e delle possibilità di automatizzazione su iPhone ed iPad e, con Monterey, su Mac. Inoltre l'ospite d'eccezione, Daniele Borghi, farà un approfondimento sull'applicazione Craft"
+description = "Roberto e Filippo esplorano Comandi Rapidi (Shortcuts) e l'automazione su iPhone, iPad e Mac. Con ospite Daniele Borghi per un approfondimento su Craft."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["shortcuts", "automazione", "craft", "iphone", "ipad"]
+guest = "daniele-borghi"
 +++
 
 > Oggi Roberto e Filippo parlano di Comandi Rapidi (in inglese Shortcuts) e delle possibilità di automatizzazione su iPhone ed iPad e, con Monterey, su Mac. Inoltre l'ospite d'eccezione, Daniele Borghi, farà un approfondimento sull'applicazione Craft

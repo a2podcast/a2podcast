@@ -6,11 +6,13 @@ slug = "28"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336036/9ac31e15_682f_4cba_835c_83018f167ebf.mp3"
 spreakerEpisodeId = "64336036"
 duration = "1:03:12"
-description = "In questa puntata l’amico e ospite Nicola Losito parla a tutto tondo della sua esperienza di internet dagli albori ad oggi, del suo impegno nella comunità WordPress e del software ed hardware di utilizzo quotidiano (in salsa Apple) nel suo lavoro presso il CNR."
+description = "Nicola Losito racconta la sua esperienza online, il suo lavoro al CNR e il flusso di lavoro Apple quotidiano. Ospite speciale sulla comunità WordPress e software."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["apple", "workflow", "wordpress", "cnr", "nicola-losito"]
+guest = "nicola-losito"
 +++
 
 > In questa puntata l’amico e ospite Nicola Losito parla a tutto tondo della sua  esperienza di internet dagli albori ad oggi, del suo impegno nella comunità WordPress e del software ed hardware di utilizzo quotidiano (in salsa Apple) nel suo lavoro presso il CNR.

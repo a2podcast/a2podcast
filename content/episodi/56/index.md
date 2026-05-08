@@ -6,11 +6,12 @@ slug = "56"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335997/ce677938_b1e5_4320_80ec_d066bd87012c.mp3"
 spreakerEpisodeId = "64335997"
 duration = "1:01:35"
-description = "Hazel sorveglia qualsiasi cartella tu gli dica, organizzando automaticamente i tuoi file in base alle regole che gli hai dato. Chiedi a Hazel di spostare i file in base a nome, data, tipo, da quale sito proviene e molto altro. Ordina automaticamente i tuoi film o archivia le tue bollette. Tieni i tu"
+description = "Scopri Hazel, l'applicazione macOS per automatizzare l'archiviazione digitale dei file. Roberto e Filippo ti spiegano come controllare le cartelle e organizzare i documenti in modo intelligente."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["hazel", "automazione", "macos", "archiviazione-digitale", "produttivita"]
 +++
 
 In questa puntata Roberto e Filippo ti parlano dell'applicazione per macOS Hazel. Hazel permette di controllare il contenuto di una cartella e automatizzare l'archiviazione digitale dei file in essa contenuti.

@@ -6,11 +6,12 @@ slug = "67"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335976/a98fefe8_dd28_426c_b870_2f7ea9f4d011.mp3"
 spreakerEpisodeId = "64335976"
 duration = "1:08:32"
-description = "Roberto e Filippo, dopo lo speciale estivo in presenza ma non in diretta, affrontano un approfondimento sul concetto di Value 4 Value e sul suo funzionamento parlando anche delle Cryptomonete, Bitcoin e Lightning."
+description = "Roberto e Filippo approfondiscono Value4Value, Bitcoin, Lightning e il modello di monetizzazione del Podcast 2.0. Cryptomonete e nuove forme di sostegno ai creator."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["value4value", "bitcoin", "podcast 2.0", "cryptomonete", "lightning"]
 +++
 
 > Roberto e Filippo, dopo lo speciale estivo in presenza ma non in diretta, affrontano un approfondimento sul concetto di Value 4 Value e sul suo funzionamento parlando anche delle Cryptomonete, Bitcoin e Lightning.

@@ -5,9 +5,10 @@
 <section class="hero">
   <div class="page-wrapper hero-inner">
     <div class="hero-content">
-      <p class="hero-eyebrow">Il podcast italiano su Apple</p>
+      <img src="{{ "/img/logo.jpg" | relURL }}" alt="A2 Podcast" width="120" height="120" class="hero-logo">
+      <p class="hero-eyebrow">A2 Podcast</p>
       <h1 class="hero-title">Scopri come ottenere&nbsp;il massimo dalla tua tecnologia&nbsp;Apple</h1>
-      <p class="hero-lead">Due professionisti — un avvocato e un architetto — ti spiegano come usare iPhone, iPad e Mac nel lavoro di ogni giorno.</p>
+      <p class="hero-lead">Due professionisti — Filippo, avvocato, e Roberto, architetto — ti spiegano con argomenti monotematici e ospiti che raccontano il loro flusso di lavoro.</p>
       <div class="hero-actions">
         <a href="{{ .Site.Params.applePodcastsUrl }}" class="btn btn-primary" target="_blank" rel="noopener">
           Apple Podcasts
@@ -22,6 +23,25 @@
     </div>
   </div>
 </section>
+
+{{/* ── Pausa notice ── */}}
+<div class="pause-notice">
+  <div class="page-wrapper">
+    <p>Il podcast è attualmente in pausa — ma il catalogo è ricco di episodi evergreen su cui vale la pena tornare:</p>
+    <ul class="pause-episodes">
+      <li><a href="{{ "/8/" | relURL }}">Ep. 8 — Backup, questo sconosciuto!</a></li>
+      <li><a href="{{ "/9/" | relURL }}">Ep. 9 — La sicurezza delle password e il gestore di password</a></li>
+      <li><a href="{{ "/16/" | relURL }}">Ep. 16 — Editor di testi</a></li>
+      <li><a href="{{ "/17/" | relURL }}">Ep. 17 — Apple Keynote</a></li>
+      <li><a href="{{ "/20/" | relURL }}">Ep. 20 — Cucinare le idee</a></li>
+      <li><a href="{{ "/22/" | relURL }}">Ep. 22 — Introduzione a Comandi Rapidi e focus sull'app Craft</a></li>
+      <li><a href="{{ "/56/" | relURL }}">Ep. 56 — Automazione dell'archiviazione digitale con Hazel</a></li>
+      <li><a href="{{ "/61/" | relURL }}">Ep. 61 — Strumenti per lavorare concentrati (Parte 1)</a></li>
+      <li><a href="{{ "/73/" | relURL }}">Ep. 73 — Gestione della conoscenza personale redux</a></li>
+      <li><a href="{{ "/74/" | relURL }}">Ep. 74 — Flusso di lavoro con Andrea Ciraolo</a></li>
+    </ul>
+  </div>
+</div>
 
 {{/* ── Latest episodes ── */}}
 <section class="latest-episodes">

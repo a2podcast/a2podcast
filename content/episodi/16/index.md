@@ -6,11 +6,12 @@ slug = "16"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336037/4c581aa3_c8fe_42d1_b6a8_a806b18045fa.mp3"
 spreakerEpisodeId = "64336037"
 duration = "1:09:48"
-description = "In questa puntata Roberto e Filippo esaminano gli editor di testo dopo aver esaminato nella puntata precedente i programmi di video-scrittura."
+description = "Roberto e Filippo esaminano gli editor di testo per professionisti. Scopri come scegliere lo strumento giusto per la produttività con Apple."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["editor-testo", "produttività", "apple", "markdown", "workflow"]
 +++
 
 > In questa puntata Roberto e Filippo esaminano gli editor di testo dopo aver esaminato nella puntata precedente i programmi di video-scrittura.

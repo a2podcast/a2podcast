@@ -6,11 +6,12 @@ slug = "15"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335986/84d74406_fffd_4ba2_bea5_ccd07f7e5796.mp3"
 spreakerEpisodeId = "64335986"
 duration = "1:03:37"
-description = "Roberto e Filippo oggi esaminano lo stato dell’arte dei programmi di video-scrittura. Come nascono quali sono i loro limiti ed i software più conosciuti."
+description = "Roberto e Filippo esaminano i programmi di video-scrittura: come nascono, i loro limiti e i software più conosciuti nel mercato attuale."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["video-scrittura", "software", "produttività", "tools", "apple"]
 +++
 
 > Roberto e Filippo oggi esaminano lo stato dell’arte dei programmi di video-scrittura. Come nascono quali sono i loro limiti ed i software più conosciuti.

@@ -43,6 +43,24 @@
   </div>
   {{ end }}
 
+  {{ with .Params.guest }}
+  {{ $guestPage := $.Site.GetPage (printf "/ospiti/%s" .) }}
+  {{ if $guestPage }}
+  <div class="episode-guest-link">
+    <span class="episode-guest-label">Ospite:</span>
+    <a href="{{ $guestPage.Permalink }}" class="btn btn-ghost btn-sm">{{ $guestPage.Title }} →</a>
+  </div>
+  {{ end }}
+  {{ end }}
+
+  {{ with .Params.tags }}
+  <div class="episode-tags">
+    {{ range . }}
+    <a href="{{ printf "/tags/%s/" . | relURL }}" class="tag">{{ . }}</a>
+    {{ end }}
+  </div>
+  {{ end }}
+
   {{ partial "hosts-contact.html" . }}
 
   <nav class="episode-nav" aria-label="Episodi precedente e successivo">

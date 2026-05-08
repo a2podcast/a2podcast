@@ -6,11 +6,12 @@ slug = "41"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336016/c4ef120c_05f3_428a_8f95_2ea3a72d7db6.mp3"
 spreakerEpisodeId = "64336016"
 duration = "1:06:09"
-description = "In questa puntata Roberto e Filippo fanno un approfondimento sull’applicazione Promemoria di Apple. Gratuita, presente su iPhone, iPad e Mac o su iCloud è una semplice applicazione per gestire le attività che tuttavia, sotto le apparenze, nelle sue ultime interazioni permette di fare molto di più."
+description = "Approfondimento dettagliato su Promemoria di Apple. Scopri come usare l'app nativa gratuita per gestire attività su iPhone, iPad, Mac e iCloud oltre le apparenze."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["promemoria", "apple", "task-manager", "produttivita", "gtd"]
 +++
 
 > In questa puntata Roberto e Filippo fanno un approfondimento sull’applicazione Promemoria di Apple. Gratuita, presente su iPhone, iPad e Mac o su iCloud è una semplice applicazione per gestire le attività che tuttavia, sotto le apparenze, nelle sue ultime interazioni permette di fare molto di più.

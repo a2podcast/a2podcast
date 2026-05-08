@@ -1,0 +1,55 @@
+{{ define "main" }}
+<div class="page-wrapper guest-single">
+
+  <header class="guest-header">
+    <a href="{{ "/ospiti/" | relURL }}" class="guest-back">← Tutti gli ospiti</a>
+    <h1 class="guest-name">{{ .Title }}</h1>
+    {{ with .Params.role }}<p class="guest-role">{{ . }}</p>{{ end }}
+    <div class="guest-links">
+      {{ with .Params.website }}
+      <a href="{{ . }}" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">Sito web</a>
+      {{ end }}
+      {{ with .Params.twitter }}
+      <a href="{{ . }}" class="btn btn-ghost btn-sm" target="_blank" rel="noopener">Twitter</a>
+      {{ end }}
+      {{ with .Params.youtube }}
+      <a href="{{ . }}" class="btn btn-ghost btn-sm" target="_blank" rel="noopener">YouTube</a>
+      {{ end }}
+      {{ with .Params.linkedin }}
+      <a href="{{ . }}" class="btn btn-ghost btn-sm" target="_blank" rel="noopener">LinkedIn</a>
+      {{ end }}
+      {{ with .Params.instagram }}
+      <a href="{{ . }}" class="btn btn-ghost btn-sm" target="_blank" rel="noopener">Instagram</a>
+      {{ end }}
+    </div>
+  </header>
+
+  {{ with .Content }}
+  <div class="guest-bio">{{ . }}</div>
+  {{ end }}
+
+  {{ with .Params.episodes }}
+  <section class="guest-episodes">
+    <h2 class="guest-episodes-title">Episodi</h2>
+    <ul class="guest-episodes-list">
+      {{ $site := $.Site }}
+      {{ range . }}
+        {{ $epNum := . }}
+        {{ $ep := $site.GetPage (printf "/%d" $epNum) }}
+        {{ if $ep }}
+        <li>
+          <a href="{{ $ep.Permalink }}">
+            <span class="guest-ep-number">Ep. {{ $epNum }}</span>
+            <span class="guest-ep-title">{{ $ep.Title | replaceRE `^\d+:\s*` "" }}</span>
+          </a>
+        </li>
+        {{ else }}
+        <li><a href="{{ printf "/%d/" $epNum | relURL }}">Ep. {{ $epNum }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
+</div>
+{{ end }}

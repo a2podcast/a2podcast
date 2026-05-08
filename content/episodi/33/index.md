@@ -6,11 +6,12 @@ slug = "33"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336019/a6a8fd7d_bd70_400d_944a_363d2a6bf9d8.mp3"
 spreakerEpisodeId = "64336019"
 duration = "1:04:43"
-description = "In questa puntata Roberto e Filippo parlano di una applicazione che può interessare a tutti i nostri ascoltatori che scrivono in maniera semi-professionale, parleremo di Scrivener."
+description = "Introduzione a Scrivener, l'applicazione ideale per chi scrive professionalmente. Scopri caratteristiche, prezzi e come integrarla nel tuo flusso di lavoro."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["scrivener", "scrittura", "produttività", "apple", "software"]
 +++
 
 > In questa puntata Roberto e Filippo parlano di una applicazione che può interessare a tutti i nostri ascoltatori che scrivono in maniera semi-professionale, parleremo di Scrivener.

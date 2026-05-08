@@ -6,7 +6,7 @@
   "url": "{{ .Site.BaseURL }}",
   "description": "{{ .Site.Params.description | htmlEscape }}",
   "inLanguage": "it",
-  "image": "{{ .Site.Params.podcastImage }}",
+  "image": "{{ .Site.Params.podcastImage | absURL }}",
   "author": [
     {
       "@type": "Person",

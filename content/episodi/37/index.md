@@ -6,11 +6,12 @@ slug = "37"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335984/00e9e2a7_8e84_4585_a5c1_d2a288288392.mp3"
 spreakerEpisodeId = "64335984"
 duration = "1:08:44"
-description = "In questa puntata Roberto e Filippo parlano di come tracciare il tempo e del perché è importante."
+description = "Roberto e Filippo discutono di come tracciare il tempo e perché è importante per la produttività. Scopri strategie per gestire le 4000 settimane di vita che abbiamo a disposizione."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["time tracking", "produttività", "gestione del tempo", "apple", "professionisti"]
 +++
 
 > In questa puntata Roberto e Filippo parlano di come tracciare il tempo e del perché è importante.

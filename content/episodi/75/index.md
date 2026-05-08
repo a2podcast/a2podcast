@@ -6,11 +6,12 @@ slug = "75"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335972/54844ce2_53f7_40fc_91ca_ee1a2c07dcb0.mp3"
 spreakerEpisodeId = "64335972"
 duration = "1:47:53"
-description = "In questa puntata Roberto e Filippo, dopo l’interesse mostrato l’anno scorso, hanno deciso di riproporre il tema dell”anno (ep. 51) per aggiornasi a vicenda e per partire col piede giusto l’anno nuovo."
+description = "Roberto e Filippo ripropongono il tema dell'anno per aggiornarsi e iniziare il nuovo anno. Una conversazione sui propositi personali e professionali ispirati da CGP Grey."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["tema dell'anno", "propositi", "produttività", "filosofia", "riflessione personale"]
 +++
 
 > In questa puntata Roberto e Filippo, dopo l’interesse mostrato l’anno scorso, hanno deciso di riproporre il tema dell”anno (ep. 51) per aggiornasi a vicenda e per partire col piede giusto l’anno nuovo.

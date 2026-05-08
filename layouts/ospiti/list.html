@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="page-wrapper">
+  <header class="section-header" style="padding: var(--space-2xl) 0 var(--space-xl)">
+    <h1 class="section-title">Ospiti</h1>
+    <p class="section-description">Professionisti che hanno raccontato il loro flusso di lavoro con la tecnologia Apple.</p>
+  </header>
+
+  <div class="guests-grid">
+    {{ range .Pages.ByTitle }}
+    <article class="guest-card">
+      <div class="guest-card-info">
+        <h2 class="guest-card-name"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        {{ with .Params.role }}<p class="guest-card-role">{{ . }}</p>{{ end }}
+        <p class="guest-card-episodes">
+          {{ $count := len .Params.episodes }}
+          {{ if eq $count 1 }}1 episodio{{ else }}{{ $count }} episodi{{ end }}
+        </p>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

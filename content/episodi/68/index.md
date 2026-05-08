@@ -6,11 +6,12 @@ slug = "68"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336005/bf59f033_7555_47f9_a8f5_9702f92952e1.mp3"
 spreakerEpisodeId = "64336005"
 duration = "1:03:16"
-description = "Roberto e Filippo parlano delle novità di iOS e iPadOS che usciranno dopo l’evento Apple del 12 Settembre."
+description = "Roberto e Filippo analizzano le novità di iOS 17 e iPadOS 17 presentate da Apple. Un aggiornamento che migliora la qualità della vita con funzioni dedicate ai dispositivi recenti."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["ios17", "ipados17", "apple", "novità", "stage-manager"]
 +++
 
 > Roberto e Filippo parlano delle novità di iOS e iPadOS che usciranno dopo l’evento Apple del 12 Settembre.

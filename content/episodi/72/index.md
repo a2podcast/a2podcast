@@ -6,11 +6,13 @@ slug = "72"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335981/4ccd8e25_139a_4e2e_940e_381ab97c46c5.mp3"
 spreakerEpisodeId = "64335981"
 duration = "1:36:02"
-description = "In questa puntata Roberto e Filippo chiacchierano con Valentina De Poli. Parleremo della sua esperienza corporate e da libera professionista ovviamente in salsa Apple."
+description = "Roberto e Filippo intervistano Valentina De Poli su esperienza corporate e libera professione nell'ecosistema Apple. Scopri produttività e workflow tra i paperi."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["valentina-de-poli", "apple", "produttivita", "libera-professione", "ospiti"]
+guest = "valentina-de-poli"
 +++
 
 > In questa puntata Roberto e Filippo chiacchierano con Valentina De Poli. Parleremo della sua esperienza corporate e da libera professionista ovviamente in salsa Apple.

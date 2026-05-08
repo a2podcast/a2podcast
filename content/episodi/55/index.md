@@ -6,11 +6,12 @@ slug = "55"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335993/1e132db9_5701_4ec5_a89a_ad5c8299bf56.mp3"
 spreakerEpisodeId = "64335993"
 duration = "59:59"
-description = "In questa puntata Roberto e Filippo parlano dei c.d. Launcher o lanciatori di Applicazioni, di cosa fanno e perché potrebbero esserti utili su macOS."
+description = "Scopri i lanciatori di applicazioni su macOS: strumenti essenziali per professionisti che vogliono aumentare la produttività restando sulla tastiera. Roberto e Filippo analizzano funzioni, utilità e storia."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["macOS", "launcher", "produttività", "applicazioni", "workflow"]
 +++
 
 > In questa puntata Roberto e Filippo parlano dei c.d. Launcher o lanciatori di Applicazioni, di cosa fanno e perché potrebbero esserti utili su macOS.
@@ -118,4 +119,4 @@ Raycast è un lanciatore incredibilmente veloce e totalmente estendibile. Ti con
 ### Multipiattaforma
 
 - [Cerebro](https://www.cerebroapp.com)
-	- Opensource 
+	- Opensource

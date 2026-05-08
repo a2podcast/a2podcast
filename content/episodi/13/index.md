@@ -6,11 +6,12 @@ slug = "13"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335987/1e5911d1_bb48_4948_969a_ae68cd6a06b0.mp3"
 spreakerEpisodeId = "64335987"
 duration = "59:33"
-description = "In questa puntata Roberto e Filippo di 10 utility da avere sul vostro Mac."
+description = "Le 10 utility essenziali per Mac secondo Filippo e Roberto: Homebrew, Tripmode e altri strumenti indispensabili per professionisti Apple. Scopri come ottimizzare il tuo Mac."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["mac", "utility", "homebrew", "produttivita", "strumenti"]
 +++
 
 # 13 - 10 utility per Mac

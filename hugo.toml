@@ -18,6 +18,7 @@ enableEmoji = false
 
 [permalinks]
   episodi = "/:slug/"
+  ospiti  = "/ospiti/:slug/"
 
 [params]
   description    = "Il podcast italiano su tecnologia Apple per avvocati e architetti. Due professionisti, Filippo e Roberto, ti spiegano come ottenere il massimo dalla tua tecnologia Apple."
@@ -25,7 +26,7 @@ enableEmoji = false
   podcastAuthor  = "Filippo Strozzi e Roberto Marin"
   podcastFeedUrl = "https://www.spreaker.com/show/6519470/episodes/feed"
   spreakerShowId = "6519470"
-  podcastImage   = "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a924cb252d74ea199e46dc0348f4822b.jpg"
+  podcastImage   = "/img/logo.jpg"
   network        = "Runtime Radio"
   networkUrl     = "https://runtimeradio.com"
 

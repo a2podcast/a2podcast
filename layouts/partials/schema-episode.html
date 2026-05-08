@@ -8,6 +8,13 @@
   "datePublished": "{{ .Date.Format "2006-01-02" }}",
   "description": "{{ .Params.description | htmlEscape }}",
   "episodeNumber": {{ .Params.episodeNumber }},
+  "inLanguage": "it",
+  "author": [
+    {"@type": "Person", "name": "Filippo Strozzi", "url": "https://www.avvocati-e-mac.it"},
+    {"@type": "Person", "name": "Roberto Marin", "url": "https://youtube.com/@architecday"}
+  ],
+  {{ with .Params.tags }}"keywords": "{{ delimit . ", " | htmlEscape }}",{{ end }}
+  {{ with .Params.guest }}{{ $guestPage := $.Site.GetPage (printf "/ospiti/%s" .) }}"performer": {"@type": "Person", "name": "{{ if $guestPage }}{{ $guestPage.Title | htmlEscape }}{{ else }}{{ . | htmlEscape }}{{ end }}"{{ if $guestPage }}{{ with $guestPage.Params.website }}, "url": "{{ . }}"{{ end }}{{ end }}},{{ end }}
   "associatedMedia": {
     "@type": "MediaObject",
     "contentUrl": "{{ .Params.audioUrl }}",

@@ -6,11 +6,12 @@ slug = "5"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335990/a3e71ece_9fc6_46ec_b846_17df2f0e62bc.mp3"
 spreakerEpisodeId = "64335990"
 duration = "1:21:43"
-description = "In questa puntata Roberto e Filippo vi introducono alle particolarità di iPadOS il sistema operativo degli iPad. Oltre a parlare di come funziona il multitasking di iPadOS esamineranno in dettaglio l'app File, come navigare con Safari con la modalità desktop ed infine dell'utilizzo di iPad con l’_Ap"
+description = "Introduzione alle particolarità di iPadOS: multitasking, app File, Safari desktop, Apple Pencil, mouse, trackpad e tastiere esterne (Brydge, Smart Folio, Magic Keyboard)."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["ipados", "ipad", "apple pencil", "multitasking", "accessori"]
 +++
 
 > In questa puntata Roberto e Filippo vi introducono alle particolarità di iPadOS il sistema operativo degli iPad. Oltre a parlare di come funziona il multitasking di iPadOS esamineranno in dettaglio l'app File, come navigare con Safari con la modalità desktop ed infine dell'utilizzo di iPad con l’_Apple Pencil,_ il mouse o il trackpad e le tastiere esterne tra cui: la [Bridge Keyboard](https://www.brydge.com/), la [Smart Folio Keyboard ](https://www.apple.com/it/ipad-keyboards/) e la [Magic Keyboard](https://www.apple.com/it/ipad-keyboards/).

@@ -6,11 +6,13 @@ slug = "48"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336020/70bbf1b7_eef1_4b08_b812_d39a08bf6e76.mp3"
 spreakerEpisodeId = "64336020"
 duration = "1:42:45"
-description = "In questa puntata Roberto e Filippo hanno il piacere di chiacchierare con Franco Solerio, patrono di Digitalia, creatore dell'app Castamatic, medico, velista e (non da ultimo) utilizzatore di dispositivi Apple. Note episodio Franco Podcaster Rockast Italia 2005 Digitalia dal 2009 (https://digitalia."
+description = "Franco Solerio, fondatore di Digitalia e creatore di Castamatic, racconta il passato e il futuro del podcasting italiano, Podcast 2.0 e l'ecosistema Apple."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["franco-solerio", "podcast", "digitalia", "castamatic", "podcasting-2.0"]
+guest = "franco-solerio"
 +++
 
 In questa puntata Roberto e Filippo hanno il piacere di chiacchierare con Franco Solerio, patrono di Digitalia, creatore dell'app Castamatic, medico, velista e (non da ultimo) utilizzatore di dispositivi Apple.

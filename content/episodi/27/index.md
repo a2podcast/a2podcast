@@ -6,11 +6,13 @@ slug = "27"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336030/87347477_8665_452b_8122_fd312ce95300.mp3"
 spreakerEpisodeId = "64336030"
 duration = "1:03:05"
-description = "Nella puntata di oggi Roberto e Filippo chiacchierano con il fotografo ed architetto Lorenzo Morandi del suo flusso di lavoro “minimale” in ambito fotografico."
+description = "Roberto e Filippo intervistano Lorenzo Morandi, fotografo e architetto, sul suo approccio minimalista alla fotografia digitale e al flusso di lavoro professionale."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["fotografia", "minimale", "flusso di lavoro", "lorenzo-morandi", "apple"]
+guest = "lorenzo-morandi"
 +++
 
 > Nella puntata di oggi Roberto e Filippo chiacchierano con il fotografo ed architetto Lorenzo Morandi del suo flusso di lavoro “minimale” in ambito fotografico.

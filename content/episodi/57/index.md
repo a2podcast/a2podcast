@@ -6,11 +6,13 @@ slug = "57"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336010/7a2c1481_ad40_40aa_ba27_64cf7c1b16d2.mp3"
 spreakerEpisodeId = "64336010"
 duration = "1:15:44"
-description = "In questa puntata Roberto e Filippo assieme a Lucio Bragagnolo parlano di Intelligenza Artificiale o quello che viene passato per essere e del futuro dell’assistente vocale di Apple."
+description = "Roberto e Filippo discutono di Intelligenza Artificiale e ChatGPT con Lucio Bragagnolo. Scopri come funziona il linguaggio AI, la differenza tra motori semantici e il pensiero umano, e il futuro degli assistenti vocali Apple."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["intelligenza-artificiale", "chatgpt", "apple", "assistente-vocale", "linguaggio-naturale"]
+guest = "lucio-bragagnolo"
 +++
 
 > In questa puntata Roberto e Filippo assieme a Lucio Bragagnolo parlano di Intelligenza Artificiale o quello che viene passato per essere e del futuro dell’assistente vocale di Apple.

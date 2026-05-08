@@ -6,11 +6,12 @@ slug = "60"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336008/2b1991a5_fc4a_4c78_9e6d_b069a4c9d188.mp3"
 spreakerEpisodeId = "64336008"
 duration = "55:50"
-description = "In questa puntata Roberto e Filippo parlano del perché è importante concentrarsi, le possibili tecniche e trucchi per farlo al meglio."
+description = "Roberto e Filippo analizzano l'importanza della concentrazione nel mondo moderno e le tecniche per mantenerla: sonno, esercizio, idratazione e alimentazione consapevole."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["concentrazione", "produttivita", "salute", "benessere", "tecniche"]
 +++
 
 > In questa puntata Roberto e Filippo parlano del perché è importante concentrarsi, le possibili tecniche e trucchi per farlo al meglio.

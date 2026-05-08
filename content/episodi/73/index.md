@@ -6,11 +6,12 @@ slug = "73"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335975/a91edbab_01d5_4a19_887d_f967e7a4bf04.mp3"
 spreakerEpisodeId = "64335975"
 duration = "1:20:35"
-description = "In questa puntata Roberto e Filippo riprendo il tema diel \"secondo cervello\" e di come gestire la conoscenza e le informazioni in digitale e se e quando ha senso farlo. Sarà uno sguardo d’insieme ed un approfondimento rispetto alla puntata 39."
+description = "Gestione della conoscenza personale e secondo cervello digitale: approfondimento su PKM, note-taking intelligente e organizzazione delle informazioni. Proseguo della puntata 39."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["pkm", "gestione-conoscenza", "note-taking", "secondo-cervello", "produttivita"]
 +++
 
 > In questa puntata Roberto e Filippo riprendo il tema diel "secondo cervello" e di come gestire la conoscenza e le informazioni in digitale e se e quando ha senso farlo. Sarà uno sguardo d’insieme ed un approfondimento rispetto alla puntata 39.

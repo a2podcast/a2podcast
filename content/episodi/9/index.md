@@ -6,11 +6,13 @@ slug = "9"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336050/e8c303e9_1cb9_4c43_bf91_8168807c2c83.mp3"
 spreakerEpisodeId = "64336050"
 duration = "1:01:02"
-description = "In questo episodio Andrea, Roberto e Filippo vi parlano di sicurezza delle password e di come utilizzare i programmi di gestione delle password per renderci la vita più semplice!"
+description = "Come proteggere i tuoi account con password forti e gestori di password affidabili. Andrea, Roberto e Filippo spiegano la sicurezza online per professionisti."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["sicurezza", "password", "gestori-password", "privacy", "cybersecurity"]
+guest = "andrea-ciraolo"
 +++
 
 > In questo episodio Andrea, Roberto e Filippo vi parlano di sicurezza delle password e di come utilizzare i programmi di gestione delle password per renderci la vita più semplice!

@@ -6,11 +6,12 @@ slug = "11"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336038/6b9f956e_9a2d_4351_b0d7_5e2a2c402dda.mp3"
 spreakerEpisodeId = "64336038"
 duration = "1:04:13"
-description = "In questo primo episodio sul paperless (ovvero digitalizzazione) Andrea, Roberto e Filippo vi parlano di come acquisire i documenti con iPhone ed iPad o con il vostro Mac."
+description = "Come digitalizzare i documenti con iPhone, iPad e Mac. Andrea, Roberto e Filippo spiegano il workflow paperless per avvocati e professionisti: acquisire, organizzare e accedere ai documenti ovunque."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["paperless", "digitalizzazione", "documenti", "iphone", "organizzazione"]
 +++
 
 > In questo primo episodio sul paperless (ovvero digitalizzazione) Andrea, Roberto e Filippo vi parlano di come acquisire i documenti con iPhone ed iPad o con il vostro Mac.

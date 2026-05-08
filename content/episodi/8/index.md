@@ -6,11 +6,12 @@ slug = "8"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336028/4c96f50f_d6a1_481b_9cbd_98b653fa7e5d.mp3"
 spreakerEpisodeId = "64336028"
 duration = "1:01:21"
-description = "In questa puntata Bianca, Roberto e Filippo vi parlano di che cos'è un backup, perché è importante farlo e quali sono le strategie e soluzioni migliori."
+description = "Backup, questo sconosciuto! Scopri cos'è un backup, perché è essenziale e quali sono le migliori strategie e soluzioni per proteggere i tuoi dati su Mac."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["backup", "sicurezza dati", "macos", "storage", "produttivita"]
 +++
 
 > In questa puntata Bianca, Roberto e Filippo vi parlano di che cos'è un backup, perché è importante farlo e quali sono le strategie e soluzioni migliori.

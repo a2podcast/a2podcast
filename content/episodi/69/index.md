@@ -6,11 +6,12 @@ slug = "69"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335982/28db6bc1_5f92_490b_ad53_7cf98fd52f63.mp3"
 spreakerEpisodeId = "64335982"
 duration = "57:37"
-description = "In questa puntata Roberto e Filippo parlano delle novità di macOS 14 Sonoma che è uscito il 26 settembre 2023."
+description = "macOS 14 Sonoma: le novità di Apple con focus su gaming, widget, password sicura, messaggi, PDF, note e tastiera intelligente con correttore migliorato."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["macos", "sonoma", "apple", "gaming", "produttivita"]
 +++
 
 > In questa puntata Roberto e Filippo parlano delle novità di macOS 14 Sonoma che è uscito il 26 settembre 2023.

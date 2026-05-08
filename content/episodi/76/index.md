@@ -6,11 +6,12 @@ slug = "76"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335970/1f622bcd_89c8_4ef1_b76b_be06a429106b.mp3"
 spreakerEpisodeId = "64335970"
 duration = "1:05:36"
-description = "In questa puntata Roberto e Filippo, dopo l’interesse mostrato l’anno scorso, hanno deciso di riproporre il tema dell”anno (ep. 51) per aggiornasi a vicenda e per partire col piede giusto l’anno nuovo."
+description = "Roberto e Filippo riprendono il tema dell'anno per aggiornamenti reciproci e ripartire con il 2024. Il podcast passa a cadenza mensile con 12 episodi annuali."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["tema dell'anno", "retrospettiva", "riflessioni", "planning", "a2podcast"]
 +++
 
 # 76 - 2024 Il Tema dell’anno - parte II

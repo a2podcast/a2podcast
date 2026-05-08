@@ -6,11 +6,13 @@ slug = "23"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336043/a38f5366_8825_4d12_b469_9b2263e85bc1.mp3"
 spreakerEpisodeId = "64336043"
 duration = "1:25:01"
-description = "In questa puntata Roberto e Filippo sono in compagnia dell’amico Alex Raccuglia che ci racconterà la sua esperienza con i Mac e come, grazie alle sue capacità di programmatore, ha creato delle piccole utility (e non solo!) per velocizzare il suo flusso di lavoro di video-maker. La chiacchierata meri"
+description = "Alex Raccuglia racconta il suo flusso di lavoro di video-maker con Mac e le utility che ha creato per velocizzare la produzione. Trucchi, automazioni e strumenti per podcast."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["mac", "flusso-di-lavoro", "video-making", "automazioni", "alex-raccuglia"]
+guest = "alex-raccuglia"
 +++
 
 > In questa puntata Roberto e Filippo sono in compagnia dell’amico Alex Raccuglia che ci racconterà la sua esperienza con i Mac e come, grazie alle sue capacità di programmatore, ha creato delle piccole utility (e non solo!) per velocizzare il suo flusso di lavoro di video-maker. La chiacchierata merita anche per chi non svolge il lavoro di Alex perché nel corso della chiacchierata ci sono tanti piccoli trucchi ed idee utili. Da ultimo si parla anche un po' di podcast perché Alex non solo è anche un PodCaster ma ha creato un programma per editare i podcast.

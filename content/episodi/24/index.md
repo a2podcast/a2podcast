@@ -6,11 +6,12 @@ slug = "24"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336025/143be723_2cbb_411e_9e03_42d5d4a12694.mp3"
 spreakerEpisodeId = "64336025"
 duration = "1:12:00"
-description = "Per la tua gioia di Filippo facciamo un ulteriore approfondimento su Comandi Rapidi. Ne abbiamo già parlato nella precedente puntata 22 che, se non avete ascoltato, vi consigliamo di recuperare prima di ascoltare questa. Infatti daremo per scontato l’introduzione già fatta in quella puntata. In ques"
+description = "Approfondimento pratico su Comandi Rapidi per iPhone, iPad e Mac. Creiamo insieme la nostra prima automazione partendo dalle basi. Episodio 24 della serie dedicata alla produttività Apple."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["comandi-rapidi", "automazione", "ios", "mac", "produttivita"]
 +++
 
 > Per la tua gioia di Filippo facciamo un ulteriore approfondimento su Comandi Rapidi. Ne abbiamo già parlato nella precedente puntata 22 che, se non avete ascoltato, vi consigliamo di recuperare prima di ascoltare questa. Infatti daremo per scontato l’introduzione già fatta in quella puntata. In questa puntata creeremo il nostro primo Comando Rapido

@@ -172,6 +172,41 @@ a:hover { color: var(--color-link-hover); }
   border-bottom: 1px solid var(--color-border);
 }
 
+.hero-logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 22%;
+  margin-bottom: var(--space-lg);
+  box-shadow: 0 2px 12px rgba(0,0,0,.12);
+}
+
+.pause-notice {
+  background: #fff8f0;
+  border-top: 3px solid var(--color-brand);
+  border-bottom: 1px solid var(--color-border);
+  padding: var(--space-lg) 0;
+  font-size: 0.9rem;
+}
+
+.pause-notice p {
+  margin-bottom: var(--space-sm);
+  color: var(--color-text-muted);
+  font-weight: 500;
+}
+
+.pause-episodes {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs) var(--space-md);
+  padding: 0;
+}
+
+.pause-episodes li::before {
+  content: "→ ";
+  color: var(--color-brand);
+}
+
 .hero-eyebrow {
   font-size: 0.8rem;
   font-weight: 700;
@@ -765,6 +800,126 @@ a:hover { color: var(--color-link-hover); }
 
 /* ── 19. Single page ───────────────────────────────────────────────── */
 .page-single { padding: var(--space-xl) 0 var(--space-2xl); }
+
+/* ── 20. Guests (ospiti) ───────────────────────────────────────────── */
+.guests-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-md);
+  padding-bottom: var(--space-2xl);
+}
+
+@media (min-width: 600px) {
+  .guests-grid { grid-template-columns: 1fr 1fr; }
+}
+
+@media (min-width: 900px) {
+  .guests-grid { grid-template-columns: 1fr 1fr 1fr; }
+}
+
+.guest-card {
+  background: var(--color-bg-alt);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: var(--space-lg);
+  transition: border-color .15s;
+}
+
+.guest-card:hover { border-color: var(--color-brand); }
+
+.guest-card-name {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: var(--space-xs);
+}
+
+.guest-card-name a { text-decoration: none; color: var(--color-text); }
+.guest-card-name a:hover { color: var(--color-brand); }
+
+.guest-card-role {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-xs);
+}
+
+.guest-card-episodes {
+  font-size: 0.8rem;
+  color: var(--color-brand);
+  font-weight: 600;
+}
+
+.guest-single { padding: var(--space-xl) 0 var(--space-2xl); }
+
+.guest-header { margin-bottom: var(--space-xl); }
+
+.guest-back {
+  display: inline-block;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  text-decoration: none;
+  margin-bottom: var(--space-lg);
+}
+
+.guest-back:hover { color: var(--color-brand); }
+
+.guest-name {
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: var(--space-xs);
+}
+
+.guest-role {
+  font-size: 1rem;
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-lg);
+}
+
+.guest-links { display: flex; flex-wrap: wrap; gap: var(--space-sm); margin-bottom: var(--space-xl); }
+
+.guest-bio {
+  max-width: var(--content-width);
+  margin-bottom: var(--space-xl);
+  line-height: 1.7;
+}
+
+.guest-episodes-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: var(--space-md);
+}
+
+.guest-episodes-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.guest-episodes-list a {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-sm);
+  text-decoration: none;
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius);
+  border: 1px solid var(--color-border);
+  transition: border-color .15s;
+}
+
+.guest-episodes-list a:hover { border-color: var(--color-brand); }
+
+.guest-ep-number {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--color-brand);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+
+.guest-ep-title { color: var(--color-text); font-size: 0.95rem; }
 
 .page-content {
   max-width: var(--content-width);

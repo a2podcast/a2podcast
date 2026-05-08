@@ -6,11 +6,12 @@ slug = "14"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336046/6a5b12ed_a519_41ca_b938_a19012f6dbf7.mp3"
 spreakerEpisodeId = "64336046"
 duration = "52:04"
-description = "In questa puntata introduciamo un argomento molto caro a Filippo: l’automazione! Oggi non entreremo troppo nel dettaglio di come creare una automazione o degli specifici programmi per automatizzare con macOS e iOS / iPadOS ma ci soffermeremo sul perché è importante automatizzare e quali “trappole” d"
+description = "Introduzione all'automazione su macOS e iOS. Scopri perché automatizzare è importante e quali trappole evitare con Filippo e Roberto."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["automazione", "macOS", "iOS", "produttività", "workflow"]
 +++
 
 > In questa puntata introduciamo un argomento molto caro a Filippo: l’automazione! Oggi non entreremo troppo nel dettaglio di come creare una automazione o degli specifici programmi per automatizzare con macOS e iOS / iPadOS ma ci soffermeremo sul perché è importante automatizzare e quali “trappole” dobbiamo evitare.

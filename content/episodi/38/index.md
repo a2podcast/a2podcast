@@ -6,11 +6,13 @@ slug = "38"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336017/76761596_5f4c_4371_8a16_60f34f67067a.mp3"
 spreakerEpisodeId = "64336017"
 duration = "1:28:30"
-description = "In questa puntata Roberto e Filippo fanno 4 (o forse 8) chiacchiere con Lucio Bragagnolo: veterano Apple, autore, blogger e molto altro."
+description = "Lucio Bragagnolo, veterano Apple, autore e blogger, condivide la sua esperienza nel podcast A2. Scopri come vivere consapevolmente nel mondo Apple."
 draft = false
 
 [params]
   hasTranscript = false
+tags = ["apple", "ospiti", "bbedit", "produttività", "autori"]
+guest = "lucio-bragagnolo"
 +++
 
 > In questa puntata Roberto e Filippo fanno 4 (o forse 8) chiacchiere con Lucio Bragagnolo: veterano Apple, autore, blogger e molto altro.
