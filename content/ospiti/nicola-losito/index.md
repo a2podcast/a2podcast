@@ -1,6 +1,7 @@
 +++
 title = "Nicola Losito"
 slug = "nicola-losito"
+photo = "nicola-losito.jpg"
 role = "Developer, blogger"
 website = "https://nicolalosito.it"
 episodes = [28]

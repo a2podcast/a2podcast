@@ -1,6 +1,7 @@
 +++
 title = "Claudia Mongini"
 slug = "claudia-mongini"
+photo = "claudia-mongini.jpg"
 role = "Security consultant"
 website = "https://www.bcyber.ch"
 linkedin = "https://www.linkedin.com/in/cgmongini/"

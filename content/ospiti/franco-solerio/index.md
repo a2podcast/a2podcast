@@ -1,6 +1,7 @@
 +++
 title = "Franco Solerio"
 slug = "franco-solerio"
+photo = "franco-solerio.jpg"
 role = "Podcaster, giornalista tech"
 website = "https://digitalia.fm/francosolerio/"
 episodes = [48]

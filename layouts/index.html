@@ -94,6 +94,15 @@
 (function(){
   var c = document.querySelector('.evergreen-carousel');
   if (!c) return;
+
+  // Fisher-Yates shuffle
+  var cards = Array.from(c.querySelectorAll('.evergreen-card'));
+  for (var i = cards.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var tmp = cards[i]; cards[i] = cards[j]; cards[j] = tmp;
+  }
+  cards.forEach(function(card){ c.appendChild(card); });
+
   var paused = false;
   var cardW = 0;
   var dir = 1;
