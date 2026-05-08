@@ -1,6 +1,7 @@
 +++
 title = "Davide Gatti"
 slug = "davide-gatti"
+photo = "davide-gatti.jpg"
 role = "Blogger, YouTuber"
 website = "http://www.survivalhacking.com"
 youtube = "https://www.youtube.com/c/SurvivalHacking"
