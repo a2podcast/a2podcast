@@ -517,9 +517,9 @@ a:hover { color: var(--color-link-hover); }
 
 /* ── 11. YouTube embed ──────────────────────────────────────────────── */
 .episode-youtube {
-  margin: var(--space-xl) 0;
+  margin: var(--space-xl) auto;
   width: 100%;
-  max-width: 640px;
+  max-width: 800px;
 }
 
 .episode-youtube-title {
