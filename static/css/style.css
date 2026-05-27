@@ -854,7 +854,7 @@ a:hover { color: var(--color-link-hover); }
 .host-about-links {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-xs);
+  gap: var(--space-sm);
 }
 
 .host-link-pill {
@@ -873,6 +873,7 @@ a:hover { color: var(--color-link-hover); }
 }
 
 .host-link-pill svg {
+  display: block;
   width: 13px;
   height: 13px;
   flex-shrink: 0;
