@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "Mhq2YnKDih8"
 tags = ["sicurezza", "password", "gestori-password", "privacy", "cybersecurity"]
 guest = "andrea-ciraolo"
 +++

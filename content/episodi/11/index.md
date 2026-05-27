@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "U0qduoyDZn8"
 tags = ["paperless", "digitalizzazione", "documenti", "iphone", "organizzazione"]
 +++
 

@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "HzSa45BurI8"
 tags = ["scrivener", "scrittura", "produttività", "apple", "software"]
 +++
 

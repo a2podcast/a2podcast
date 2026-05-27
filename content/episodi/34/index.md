@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "-bGCq9ZbVsY"
 tags = ["mac", "flusso-lavoro", "ospiti", "podcast", "produttività"]
 guest = "matteo-scandolin"
 +++

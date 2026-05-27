@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "6jKhG2E_83I"
 tags = ["concentrazione", "time blocking", "apple", "produttività", "focus"]
 +++
 

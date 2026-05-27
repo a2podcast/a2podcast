@@ -48,7 +48,12 @@
     "name": "{{ .Site.Params.podcastTitle }}",
     "url": "{{ .Site.BaseURL }}"
   }{{ if .Params.hasTranscript }},
-  "transcript": "{{ printf "%strascrizioni/ep-%d.srt" .Site.BaseURL .Params.episodeNumber }}"{{ end }}
+  "transcript": "{{ printf "%strascrizioni/ep-%d.srt" .Site.BaseURL .Params.episodeNumber }}"{{ end }}{{ with .Params.youtubeId }},
+  "video": {
+    "@type": "VideoObject",
+    "url": "https://www.youtube.com/watch?v={{ . }}",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/{{ . }}"
+  }{{ end }}
 }
 </script>
 <script type="application/ld+json">

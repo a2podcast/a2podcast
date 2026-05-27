@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "At0BEW9c77A"
 tags = ["iOS", "Apple", "gesti touch", "migrazione Android", "sicurezza iPhone"]
 +++
 

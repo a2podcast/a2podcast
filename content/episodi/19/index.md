@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "N8_lkBbQJLA"
 tags = ["ipados-15", "ios-15", "apple", "novita-sistema", "ipad"]
 +++
 

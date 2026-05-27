@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "vfq3DKprbKI"
 tags = ["mac", "macos", "transizione-pc", "scelta-mac", "principianti"]
 +++
 

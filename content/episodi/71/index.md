@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "Kf-uLAACb3E"
 tags = ["crypto", "privacy", "sicurezza", "giuseppe-pugliese", "tecnologia"]
 guest = "giuseppe-pugliese"
 +++

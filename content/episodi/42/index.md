@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "PV8-yZsebIk"
 tags = ["apple", "note", "produttivita", "iphone", "ipad"]
 +++
 

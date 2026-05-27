@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "lV14XbD_v1I"
 tags = ["mac", "manutenzione", "sicurezza", "antivirus", "utility"]
 +++
 

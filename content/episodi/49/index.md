@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "pdqM2DWAcNs"
 tags = ["ipad", "apple", "hardware", "daniele-borghi", "produttività"]
 guest = "daniele-borghi"
 +++

@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "rc__msv84Ls"
 tags = ["tema-annuale", "produttività", "intenzionalità", "planning", "yearly-theme"]
 +++
 

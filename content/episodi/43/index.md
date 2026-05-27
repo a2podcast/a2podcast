@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "_zu2bcuBcaI"
 tags = ["mappe-mentali", "produttività", "appunti", "visualizzazione", "organizzazione"]
 +++
 

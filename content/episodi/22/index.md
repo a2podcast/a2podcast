@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "1UG5rn2P36c"
 tags = ["shortcuts", "automazione", "craft", "iphone", "ipad"]
 guest = "daniele-borghi"
 +++

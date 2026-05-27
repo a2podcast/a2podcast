@@ -14,6 +14,7 @@ Ospitato su Spreaker, network Runtime Radio da feb 2025.
 hugo server -D                  # dev server locale
 python3 scripts/ingest.py       # sincronizza episodi da RSS + note
 hugo --gc --minify              # build produzione
+python3 scripts/test-site.py   # test automatici completi (build + HTTP + frontmatter)
 ```
 
 ---
@@ -22,14 +23,31 @@ hugo --gc --minify              # build produzione
 
 1. Crea `../note episodi/NN - Titolo episodio.md` con le note in markdown
 2. `python3 scripts/ingest.py` — genera/aggiorna `content/episodi/NN/index.md`
-3. `git add content/episodi/NN/ && git commit -m "Ep. NN: Titolo"`
-4. `git push` → Cloudflare Pages rebuild automatico (~1 min)
+3. (Opzionale) Se esiste la diretta YouTube, aggiungi a `content/episodi/NN/index.md`:
+   ```toml
+   [params]
+     youtubeId = "ID_VIDEO"   # 11 caratteri dall'URL youtube.com/watch?v=XXXXX
+   ```
+4. `git add content/episodi/NN/ && git commit -m "ep: Ep. NN: Titolo"`
+5. `git push` → Cloudflare Pages rebuild automatico (~1 min)
 
 ## Workflow: aggiungere trascrizione
 
 1. Carica il file SRT su Spreaker (dashboard episodio)
 2. `python3 scripts/ingest.py` — scarica SRT in `static/trascrizioni/ep-NN.srt` e imposta `hasTranscript = true`
 3. Commit + push
+
+## Workflow: associare video YouTube agli episodi
+
+```bash
+python3 scripts/match-youtube.py            # recupera video dal canale, propone match interattivo
+python3 scripts/match-youtube.py --apply    # applica tutti i match automaticamente
+python3 scripts/match-youtube.py --ep 74   # solo episodio 74
+python3 scripts/match-youtube.py --dry-run # mostra match senza scrivere
+```
+
+Richiede `yt-dlp` (`pip install yt-dlp`). Per titoli anomali usa Claude Haiku (richiede `ANTHROPIC_API_KEY`).  
+In alternativa passa `--csv FILE` con un file CSV a due colonne: `ep_num,youtube_id`.
 
 ## Workflow: aggiungere/aggiornare tag episodi
 

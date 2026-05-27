@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "Vs1PnYQa4Ns"
 tags = ["digitalizzazione", "organizzazione-documenti", "paperless", "ios", "productivita"]
 +++
 

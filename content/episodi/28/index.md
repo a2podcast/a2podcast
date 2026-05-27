@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "0JxBJqC-GtA"
 tags = ["apple", "workflow", "wordpress", "cnr", "nicola-losito"]
 guest = "nicola-losito"
 +++

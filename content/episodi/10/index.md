@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "O8hMs4iHzgg"
 tags = ["markdown", "testo-semplice", "app-scrittura", "produttività", "apple"]
 +++
 

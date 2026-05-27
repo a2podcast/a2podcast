@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "banxIKrxPzw"
 tags = ["mac", "flusso-di-lavoro", "video-making", "automazioni", "alex-raccuglia"]
 guest = "alex-raccuglia"
 +++

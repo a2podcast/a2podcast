@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "KaLU8utCNns"
 tags = ["machine-learning", "apple", "sviluppo", "ai", "alex-raccuglia"]
 guest = "alex-raccuglia"
 +++

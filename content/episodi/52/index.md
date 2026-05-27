@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "Ad5CPa8KFUA"
 tags = ["keyboard-maestro", "automazione", "macos", "produttivita", "apple"]
 +++
 

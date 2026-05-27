@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "9RM490lKIHI"
 tags = ["concentrazione", "produttivita", "salute", "benessere", "tecniche"]
 +++
 

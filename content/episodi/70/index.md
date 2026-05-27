@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "uyO5hsx6dOw"
 tags = ["intervista", "workflow", "esport", "sicurezza", "ospiti"]
 guest = "claudia-mongini"
 +++

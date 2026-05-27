@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "b55jQMLzSw0"
 tags = ["calendari", "produttività", "applicazioni", "gestione-tempo", "apple"]
 +++
 

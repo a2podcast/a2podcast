@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "ViG_mL8rlJU"
 tags = ["automazione", "macOS", "iOS", "produttività", "workflow"]
 +++
 

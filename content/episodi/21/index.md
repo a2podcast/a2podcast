@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "CslWCsvepJg"
 tags = ["macos", "monterey", "processori-apple", "m1-pro", "innovazione"]
 +++
 

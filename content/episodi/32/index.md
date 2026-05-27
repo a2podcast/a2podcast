@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "5OGvLz9ZDZY"
 tags = ["email", "imap", "pop3", "sicurezza", "posta-elettronica"]
 +++
 

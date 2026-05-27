@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "0uDG5H_jqcg"
 tags = ["mac", "utility", "homebrew", "produttivita", "strumenti"]
 +++
 

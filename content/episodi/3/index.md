@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "mBJrg6qp2F8"
 tags = ["macos", "mac", "windows", "big-sur", "principianti"]
 +++
 

@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "KFNWIq5vjTc"
 tags = ["flusso-di-lavoro", "produttivita", "todoist", "organizzazione", "ospiti"]
 guest = "andrea-ciraolo"
 +++
