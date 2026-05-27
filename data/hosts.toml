@@ -48,3 +48,13 @@ icon  = "youtube"
 label = "@Architecday"
 url   = "https://twitter.com/Architecday"
 icon  = "twitter"
+
+[[hosts.links]]
+label = "marchdotnet"
+url   = "https://marchdotnet.wordpress.com/"
+icon  = "web"
+
+[[hosts.links]]
+label = "LinkedIn"
+url   = "https://www.linkedin.com/in/robertomarinarchitetto/"
+icon  = "linkedin"

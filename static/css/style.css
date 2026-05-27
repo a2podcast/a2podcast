@@ -587,6 +587,8 @@ a:hover { color: var(--color-link-hover); }
   font-style: italic;
 }
 
+.episode-notes--has-desc > blockquote:first-child { display: none; }
+
 /* ── 12. Transcript ────────────────────────────────────────────────── */
 .episode-transcript {
   background: var(--color-bg-alt);
