@@ -6,13 +6,13 @@ slug = "47"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336002/e1e9681a_3313_4f33_bccf_4fdf442e29ff.mp3"
 spreakerEpisodeId = "64336002"
 duration = "1:05:48"
-description = "Approfondimento sulla dettatura vocale con dispositivi Apple. Roberto e Filippo analizzano le novità di iOS 16, iPadOS 16 e macOS Ventura, con consigli pratici su come usarla al meglio."
+description = "In questa puntata Roberto e Filippo faranno un approfondimento sullo stato della dettatura vocale con i dispositivi Apple e le novità di iOS e iPadOS 16 e macOS Ventura."
+tags = ["dettatura vocale", "apple", "ios 16", "macOS Ventura", "accessibilità"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "TNTlip_nYEw"
-tags = ["dettatura vocale", "apple", "ios 16", "macOS Ventura", "accessibilità"]
 +++
 
 > In questa puntata Roberto e Filippo faranno un approfondimento sullo stato della dettatura vocale con i dispositivi Apple e le novità di iOS e iPadOS 16 e macOS Ventura.

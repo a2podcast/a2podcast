@@ -1,0 +1,7360 @@
+1
+00:00:01,760 --> 00:00:02,400
+Roberto Marin: A2
+
+2
+00:00:02,560 --> 00:00:03,440
+Roberto Marin: Podcast.
+
+3
+00:00:03,440 --> 00:00:07,040
+Roberto Marin: Scopri come ottenere il massimo dalla tua tecnologia Apple.
+
+4
+00:00:07,040 --> 00:00:08,240
+Roberto Marin: Due professionisti
+
+5
+00:00:08,200 --> 00:00:14,520
+Roberto Marin: Filippo e Roberto te lo spiegano con argomenti monotematici ed ospiti che raccontano il loro flusso di lavoro.
+
+6
+00:00:19,480 --> 00:00:23,000
+Filippo Strozzi: Benvenuti all'episodio 74 di A2.
+
+7
+00:00:22,380 --> 00:00:30,460
+Filippo Strozzi: Per questo episodio facciamo a 3, visto che abbiamo un ospite in cui scoprire come tenere il massimo dal tecnologia Apple e non solo.
+
+8
+00:00:29,800 --> 00:00:30,359
+Filippo Strozzi: Io sono Filippo
+
+9
+00:00:30,519 --> 00:00:33,720
+Filippo Strozzi: Strozzi e sono il vostro ospite, assieme all'amico Roberto Marina.
+
+10
+00:00:33,720 --> 00:00:34,680
+Filippo Strozzi: Di che cosa parliamo e
+
+11
+00:00:34,840 --> 00:00:36,200
+Filippo Strozzi: con chi, mio caro Roberto?
+
+12
+00:00:36,200 --> 00:00:37,960
+Roberto Marin: Beh, questa volta sono proprio senza parole
+
+13
+00:00:38,120 --> 00:00:41,239
+Roberto Marin: perché non ho altro da dire che due parole.
+
+14
+00:00:40,800 --> 00:00:43,760
+Roberto Marin: Due parole che riguardano l'ospite in questione.
+
+15
+00:00:43,760 --> 00:00:46,800
+Roberto Marin: È un ospite veramente enorme, chiamiamolo così.
+
+16
+00:00:46,800 --> 00:00:47,280
+Roberto Marin: Perché
+
+17
+00:00:47,440 --> 00:00:47,920
+Roberto Marin: è.
+
+18
+00:00:47,920 --> 00:00:48,559
+Roberto Marin: Non perché
+
+19
+00:00:48,879 --> 00:00:50,559
+Roberto Marin: è grande dal punto di vista fisico.
+
+20
+00:00:50,800 --> 00:00:54,239
+Roberto Marin: Anzi, volevo fargli i complimenti direttamente subito, perché.
+
+21
+00:00:53,860 --> 00:00:57,620
+Roberto Marin: l'ho seguito praticamente da quando è nato nel mondo social
+
+22
+00:00:58,020 --> 00:00:59,780
+Roberto Marin: e l'ho visto adesso proprio
+
+23
+00:01:00,100 --> 00:01:02,180
+Roberto Marin: il suo cambiamento fisico è veramente dimagrito
+
+24
+00:01:02,340 --> 00:01:03,380
+Roberto Marin: molto asciutto è veramente
+
+25
+00:01:03,380 --> 00:01:03,860
+Roberto Marin: Non so come
+
+26
+00:01:04,019 --> 00:01:06,100
+Roberto Marin: abbia fatto, è stato veramente grandissimo.
+
+27
+00:01:06,180 --> 00:01:07,540
+Roberto Marin: Sta facendo vedere i bicipiti,
+
+28
+00:01:07,940 --> 00:01:08,740
+Roberto Marin: grandissimo,
+
+29
+00:01:08,900 --> 00:01:09,620
+Roberto Marin: grandissimo.
+
+30
+00:01:09,620 --> 00:01:10,180
+Roberto Marin: E abbiamo
+
+31
+00:01:10,340 --> 00:01:10,659
+Roberto Marin: con noi
+
+32
+00:01:10,900 --> 00:01:11,860
+Roberto Marin: perché non ne parli?
+
+33
+00:01:11,860 --> 00:01:13,140
+Roberto Marin: Adesso ne parliamo subito.
+
+34
+00:01:13,140 --> 00:01:15,540
+Roberto Marin: Abbiamo il nostro grandissimo, nonché
+
+35
+00:01:15,780 --> 00:01:17,300
+Roberto Marin: muscolosissimo.
+
+36
+00:01:17,060 --> 00:01:17,380
+Roberto Marin: Andrea
+
+37
+00:01:17,620 --> 00:01:18,420
+Roberto Marin: Ciraulo.
+
+38
+00:01:18,420 --> 00:01:20,580
+Andrea Ciraolo: Ciao ragazzi, ciao, grazie per l'invito.
+
+39
+00:01:20,580 --> 00:01:25,620
+Roberto Marin: Il piacere è tutto nostro, anzi, è veramente fantastico avere un personaggio come te qui.
+
+40
+00:01:25,560 --> 00:01:26,040
+Roberto Marin: Con noi
+
+41
+00:01:26,200 --> 00:01:34,760
+Roberto Marin: finalmente siamo riusciti a concludere i tre terzi di organizzazione per Negati, come avete sentito, siamo partiti da Matteo Scandolini, siamo passati da Valentina De Poli.
+
+42
+00:01:34,760 --> 00:01:37,400
+Roberto Marin: E finalmente è arrivato anche Andrea Tra di noi.
+
+43
+00:01:36,900 --> 00:01:37,220
+Roberto Marin: Andrea
+
+44
+00:01:37,380 --> 00:01:37,940
+Roberto Marin: Tarinoi
+
+45
+00:01:38,100 --> 00:01:43,220
+Roberto Marin: che è veramente un personaggio per quanto mi riguarda, adesso cerca di essere sintetico, che davvero
+
+46
+00:01:43,380 --> 00:01:44,820
+Roberto Marin: ho conosciuto quando ho iniziato e
+
+47
+00:01:44,980 --> 00:01:45,620
+Roberto Marin: iniziato
+
+48
+00:01:45,780 --> 00:01:47,860
+Roberto Marin: a fare il podcast.
+
+49
+00:01:47,400 --> 00:01:57,640
+Roberto Marin: E mi è piaciuto subito perché proprio in quel periodo lì, stavo iniziando anch'io, è iniziato con una frase che mi è piaciuta tantissimo e ce l'ho ancora qua in testa, dove diceva appunto nella sua primissima puntata.
+
+50
+00:01:57,400 --> 00:01:58,360
+Roberto Marin: Ciao, sono Andrea
+
+51
+00:01:58,520 --> 00:01:59,240
+Roberto Marin: Ciraulo
+
+52
+00:01:59,400 --> 00:02:01,880
+Roberto Marin: e non sono capace a fare podcast.
+
+53
+00:02:01,880 --> 00:02:06,120
+Roberto Marin: E qua hai avuto la mia massima simpatia e capisco benissimo.
+
+54
+00:02:06,100 --> 00:02:07,700
+Roberto Marin: Qual era la situazione all'inizio?
+
+55
+00:02:07,700 --> 00:02:15,700
+Roberto Marin: Perché all'inizio abbiamo affronquentato tutti quanti delle difficoltà, e appunto, Andrea, tu hai iniziato a registrare, se non ricordo male, anche tu in auto.
+
+56
+00:02:15,700 --> 00:02:18,660
+Andrea Ciraolo: Ma io prima di tutto mi sto chiedendo se tu hai volutamente
+
+57
+00:02:18,900 --> 00:02:20,980
+Andrea Ciraolo: taciuto e fatto passare in sordina.
+
+58
+00:02:21,260 --> 00:02:23,580
+Andrea Ciraolo: La cosa più grave di questa puntata
+
+59
+00:02:23,980 --> 00:02:26,220
+Roberto Marin: cerco di fare il furbo e sto in sordina.
+
+60
+00:02:26,460 --> 00:02:27,020
+Andrea Ciraolo: Perché
+
+61
+00:02:27,260 --> 00:02:27,900
+Andrea Ciraolo: io
+
+62
+00:02:28,140 --> 00:02:31,020
+Andrea Ciraolo: non vi permetterò di cominciare senza una polemica
+
+63
+00:02:31,260 --> 00:02:32,860
+Andrea Ciraolo: gravissima.
+
+64
+00:02:33,120 --> 00:02:34,400
+Andrea Ciraolo: Che è legata al fatto, voi
+
+65
+00:02:34,560 --> 00:02:37,440
+Andrea Ciraolo: ridete su T i baffi, ma il problema è molto serio.
+
+66
+00:02:37,440 --> 00:02:40,960
+Andrea Ciraolo: È legata al fatto che voi avete invitato prima di me.
+
+67
+00:02:40,500 --> 00:02:51,940
+Andrea Ciraolo: I miei compagni, il mio compagno è la mia compagna di podcast, cioè voi avete invitato prima Mattia Scandolini, poi avete invitato Valentina De Poli e, come ultima ruota del carro, avete invitato il sottoscritto, e non solo, lo avete fatto solo perché
+
+68
+00:02:52,180 --> 00:02:53,940
+Andrea Ciraolo: noi abbiamo avuto.
+
+69
+00:02:53,879 --> 00:02:54,360
+Andrea Ciraolo: Così
+
+70
+00:02:54,680 --> 00:02:58,680
+Andrea Ciraolo: la gentilezza, vi abbiamo fatto la gentilezza di citarvi nel nostro podcast, se no
+
+71
+00:02:58,840 --> 00:03:00,760
+Andrea Ciraolo: io non sarei neanche stato invitato.
+
+72
+00:03:00,760 --> 00:03:06,280
+Andrea Ciraolo: Quindi, ora io voglio che voi mi diciate, se no io non aprirò la bocca durante questa puntata, io voglio che voi mi diciate.
+
+73
+00:03:05,700 --> 00:03:06,819
+Andrea Ciraolo: Qual è il motivo?
+
+74
+00:03:06,819 --> 00:03:08,980
+Andrea Ciraolo: Che cosa vi fa preferire Matteo e Valentina a me?
+
+75
+00:03:09,060 --> 00:03:14,019
+Roberto Marin: Ah dunque, la metti su questo piano, invece io la mettevo su un altro piano, ma dunque, per la preferenza,
+
+76
+00:03:14,580 --> 00:03:15,459
+Roberto Marin: dunque.
+
+77
+00:03:15,440 --> 00:03:16,080
+Roberto Marin: Secondo me
+
+78
+00:03:16,239 --> 00:03:17,360
+Roberto Marin: rispetto a loro due
+
+79
+00:03:17,520 --> 00:03:18,640
+Roberto Marin: hai solo più barba.
+
+80
+00:03:19,200 --> 00:03:19,280
+Andrea Ciraolo: Ma
+
+81
+00:03:19,599 --> 00:03:22,720
+Andrea Ciraolo: è ovvio che voi non preferiate me, voglio sapere perché preferite loro, perché
+
+82
+00:03:22,879 --> 00:03:24,239
+Andrea Ciraolo: loro sono più simpatici di me.
+
+83
+00:03:24,600 --> 00:03:25,000
+Andrea Ciraolo: Cosa hanno
+
+84
+00:03:25,160 --> 00:03:26,200
+Andrea Ciraolo: fatto loro che io non ho fatto?
+
+85
+00:03:26,360 --> 00:03:27,880
+Roberto Marin: E la barba, vedi, c'è già Filippo
+
+86
+00:03:28,040 --> 00:03:30,440
+Roberto Marin: che ha già la barba lunga e quindi
+
+87
+00:03:30,600 --> 00:03:31,960
+Roberto Marin: ne abbiamo già troppi di barba.
+
+88
+00:03:32,040 --> 00:03:32,200
+Andrea Ciraolo: Loro
+
+89
+00:03:32,360 --> 00:03:33,640
+Andrea Ciraolo: mi fanno pesare.
+
+90
+00:03:33,000 --> 00:03:35,560
+Andrea Ciraolo: Loro mi fanno pesare questa cosa ogni puntata del podcast.
+
+91
+00:03:35,560 --> 00:03:38,920
+Andrea Ciraolo: Prima di iniziare a registrare, loro ci tengono sempre a sottolineare.
+
+92
+00:03:38,920 --> 00:03:42,760
+Andrea Ciraolo: Guarda, Andre, che noi siamo andati da due podcast, e tu no, mi trattano
+
+93
+00:03:43,000 --> 00:03:45,400
+Andrea Ciraolo: veramente come se fossi il bambino scemo del gruppo
+
+94
+00:03:45,560 --> 00:03:47,160
+Andrea Ciraolo: per colpa vostra.
+
+95
+00:03:47,040 --> 00:03:49,120
+Filippo Strozzi: Siamo delle brutte persone, effettivamente.
+
+96
+00:03:49,120 --> 00:03:50,400
+Roberto Marin: No, è colpa di Filippo.
+
+97
+00:03:50,400 --> 00:03:51,120
+Roberto Marin: La realtà è che
+
+98
+00:03:51,280 --> 00:03:52,000
+Roberto Marin: colpa di Filippo.
+
+99
+00:03:52,159 --> 00:03:54,319
+Roberto Marin: Tu sei un avvocato, ti saprai ben difendere.
+
+100
+00:03:54,319 --> 00:03:54,480
+Roberto Marin: Io
+
+101
+00:03:54,640 --> 00:03:55,920
+Filippo Strozzi: purtroppo sono solo un architetto.
+
+102
+00:03:55,920 --> 00:03:59,120
+Filippo Strozzi: Allora, questo io non lo sapevo, ma appunto io ho detto: ma Andrea
+
+103
+00:03:59,420 --> 00:04:04,380
+Filippo Strozzi: ha fatto tantissime cose ma lavora solo con Windows invece poi Matteo mi ha detto ma no non è vero
+
+104
+00:04:04,700 --> 00:04:05,100
+Filippo Strozzi: Andrea
+
+105
+00:04:05,260 --> 00:04:07,100
+Filippo Strozzi: ha anche avuto un'esperienza ma
+
+106
+00:04:07,580 --> 00:04:08,540
+Filippo Strozzi: malvenuta fuori
+
+107
+00:04:09,020 --> 00:04:10,220
+Filippo Strozzi: da questo punto di vista
+
+108
+00:04:10,500 --> 00:04:13,060
+Filippo Strozzi: Con Apple e allora ho detto adesso possiamo chiamarci
+
+109
+00:04:14,100 --> 00:04:20,660
+Andrea Ciraolo: quindi voi non mi invitavate perché sapevate che avremmo fatto polemica anche con Apple, noi siamo critici.
+
+110
+00:04:21,200 --> 00:04:22,560
+Filippo Strozzi: Noi siamo critici, eh.
+
+111
+00:04:22,560 --> 00:04:23,040
+Filippo Strozzi: Vabbè, allora
+
+112
+00:04:23,600 --> 00:04:25,200
+Filippo Strozzi: lo avete fatto per vostra tutela.
+
+113
+00:04:25,360 --> 00:04:26,720
+Roberto Marin: No, no, ma non era quella la questione.
+
+114
+00:04:26,720 --> 00:04:28,960
+Roberto Marin: La questione è appunto, tendenzialmente qua in
+
+115
+00:04:29,120 --> 00:04:29,680
+Roberto Marin: due podcast
+
+116
+00:04:29,840 --> 00:04:31,120
+Roberto Marin: passa persone che.
+
+117
+00:04:30,960 --> 00:04:33,520
+Roberto Marin: Utilizzano Apple nel loro lavoro.
+
+118
+00:04:33,520 --> 00:04:34,080
+Roberto Marin: In realtà
+
+119
+00:04:34,319 --> 00:04:40,319
+Roberto Marin: noi siamo abbastanza aperti come mentalità, perché in realtà pensiamo che qualsiasi strumento vada bene, l'importante
+
+120
+00:04:40,479 --> 00:04:43,199
+Roberto Marin: è essere produttivo e sul pezzo.
+
+121
+00:04:42,600 --> 00:04:45,240
+Roberto Marin: Che tu utilizzi Windows o Apple, chi se ne frega.
+
+122
+00:04:45,240 --> 00:04:48,760
+Roberto Marin: L'importante è che fai del meglio con la tecnologia che hai.
+
+123
+00:04:48,760 --> 00:04:50,520
+Roberto Marin: E quindi tendenzialmente siamo sempre.
+
+124
+00:04:50,760 --> 00:04:51,160
+Andrea Ciraolo: Scusa,
+
+125
+00:04:51,320 --> 00:04:53,800
+Andrea Ciraolo: rispetto a questa frase, cosa c'entra Valentina De Poli?
+
+126
+00:04:53,800 --> 00:04:55,160
+Roberto Marin: Fammi capire: Valentina
+
+127
+00:04:55,800 --> 00:04:57,480
+Roberto Marin: usa strumenti Apple?
+
+128
+00:04:57,400 --> 00:05:01,240
+Andrea Ciraolo: No, no, no, tu hai detto fare il meglio con la tecnologia.
+
+129
+00:05:01,240 --> 00:05:02,919
+Andrea Ciraolo: Fammi un attimo capire.
+
+130
+00:05:02,919 --> 00:05:03,960
+Roberto Marin: Aiutami.
+
+131
+00:05:03,960 --> 00:05:06,759
+Roberto Marin: Ha fatto il suo meglio con la tecnologia.
+
+132
+00:05:06,500 --> 00:05:06,980
+Andrea Ciraolo: Ah ok
+
+133
+00:05:07,140 --> 00:05:12,900
+Andrea Ciraolo: ha fatto il suo meglio quindi un po' come si fa con i bambini dici comunque sei riuscito ad accendere il computer brava hai fatto del tuo meglio
+
+134
+00:05:13,460 --> 00:05:14,900
+Roberto Marin: Ma no, non è vero Allora
+
+135
+00:05:14,680 --> 00:05:20,360
+Roberto Marin: Bisogna capire anche la questione, che lei ha avuto forse un impatto un po' diverso con la tecnologia,
+
+136
+00:05:20,920 --> 00:05:22,200
+Roberto Marin: cioè il suo forse il lavoro.
+
+137
+00:05:22,200 --> 00:05:22,280
+Roberto Marin: .
+
+138
+00:05:22,440 --> 00:05:25,000
+Andrea Ciraolo: Aspetta perché le stai dicendo che è anziana?
+
+139
+00:05:24,760 --> 00:05:25,560
+Roberto Marin: No, ma glielo
+
+140
+00:05:25,720 --> 00:05:28,280
+Roberto Marin: ho già detto anche in puntata in realtà purtroppo.
+
+141
+00:05:28,520 --> 00:05:35,000
+Roberto Marin: Quindi ormai sono già nella valle di lacrime e sono quasi sommerso, scendere due centimetri in più.
+
+142
+00:05:34,500 --> 00:05:38,500
+Roberto Marin: O salire due centimetri in più non cambia niente, ormai sono nella valle di lacrime.
+
+143
+00:05:38,500 --> 00:05:41,860
+Roberto Marin: Ma in realtà ha avuto un impatto, secondo me, abbastanza
+
+144
+00:05:42,020 --> 00:05:42,740
+Roberto Marin: difficoltoso
+
+145
+00:05:42,900 --> 00:05:47,300
+Roberto Marin: in linea di massima con la tecnologia, anche perché se io vedo, ad esempio,
+
+146
+00:05:47,080 --> 00:05:52,040
+Roberto Marin: Mia moglie, che fa il mio stesso lavoro, ha veramente un impatto diverso con la tecnologia.
+
+147
+00:05:52,040 --> 00:05:54,520
+Roberto Marin: Io sono appassionato e quindi cerco di
+
+148
+00:05:54,760 --> 00:05:56,920
+Roberto Marin: estrapolare il meglio.
+
+149
+00:05:56,400 --> 00:05:59,840
+Roberto Marin: Lei lo usa soltanto per quello che gli serve, che è anche un atteggiamento giusto.
+
+150
+00:05:59,919 --> 00:06:00,000
+Roberto Marin: È
+
+151
+00:06:00,160 --> 00:06:01,680
+Roberto Marin: uno strumento, come è giusto che sia.
+
+152
+00:06:01,680 --> 00:06:03,440
+Roberto Marin: È uno strumento come tutti gli altri.
+
+153
+00:06:03,440 --> 00:06:04,479
+Roberto Marin: Io il martello
+
+154
+00:06:04,639 --> 00:06:05,440
+Roberto Marin: posso usarlo per
+
+155
+00:06:05,600 --> 00:06:06,240
+Roberto Marin: sì, per
+
+156
+00:06:06,479 --> 00:06:09,600
+Roberto Marin: metterci dentro un chiodo come farebbe mia moglie.
+
+157
+00:06:08,900 --> 00:06:11,540
+Roberto Marin: ma per esempio posso anche martellare la macchina di Filippo
+
+158
+00:06:11,699 --> 00:06:13,540
+Roberto Marin: se mi serve ad esempio un nome a caso
+
+159
+00:06:13,699 --> 00:06:13,940
+Roberto Marin: comunque
+
+160
+00:06:14,100 --> 00:06:17,220
+Roberto Marin: al di là di quello la cosa interessante è che appunto
+
+161
+00:06:17,460 --> 00:06:19,860
+Roberto Marin: non sapevamo di questo trascorso
+
+162
+00:06:19,860 --> 00:06:20,900
+Roberto Marin: Con il mondo Apple
+
+163
+00:06:21,300 --> 00:06:22,020
+Roberto Marin: sappiamo benissimo
+
+164
+00:06:22,180 --> 00:06:24,260
+Roberto Marin: perché ti seguiamo che lavori con Windows.
+
+165
+00:06:24,260 --> 00:06:28,980
+Roberto Marin: E quindi mi sembrava molto carino sentire il tuo punto di vista,
+
+166
+00:06:29,220 --> 00:06:29,940
+Roberto Marin: che appunto
+
+167
+00:06:30,100 --> 00:06:32,260
+Roberto Marin: ha visto i due mondi.
+
+168
+00:06:31,800 --> 00:06:34,759
+Roberto Marin: E riuscire un po' a confrontarci e a parlare di questo tuo
+
+169
+00:06:35,240 --> 00:06:36,039
+Roberto Marin: trascorso
+
+170
+00:06:36,280 --> 00:06:37,720
+Roberto Marin: da quello che ci ha detto Matteo
+
+171
+00:06:37,879 --> 00:06:38,840
+Roberto Marin: abbastanza negativo.
+
+172
+00:06:38,840 --> 00:06:41,000
+Andrea Ciraolo: Quindi cerchiamo di far arrabbiare un po' tutti oggi.
+
+173
+00:06:41,000 --> 00:06:41,639
+Roberto Marin: Sì?
+
+174
+00:06:41,440 --> 00:06:43,680
+Roberto Marin: Sì, assolutamente sì, siamo qui per questo.
+
+175
+00:06:43,680 --> 00:06:44,560
+Andrea Ciraolo: E quindi cosa
+
+176
+00:06:45,440 --> 00:06:47,840
+Andrea Ciraolo: gradite che io vi dica in particolare?
+
+177
+00:06:48,720 --> 00:06:50,080
+Filippo Strozzi: Raccontaci un po' appunto
+
+178
+00:06:50,240 --> 00:06:50,560
+Filippo Strozzi: perché
+
+179
+00:06:50,800 --> 00:06:51,920
+Filippo Strozzi: hai provato Apple?
+
+180
+00:06:51,920 --> 00:06:53,680
+Filippo Strozzi: Quali sono i motivi per cui
+
+181
+00:06:54,280 --> 00:06:56,440
+Filippo Strozzi: Non ti ci sei trovato perché poi
+
+182
+00:06:56,759 --> 00:06:57,720
+Filippo Strozzi: questo è il risultato
+
+183
+00:06:57,879 --> 00:06:58,440
+Filippo Strozzi: finale.
+
+184
+00:06:58,440 --> 00:07:05,400
+Andrea Ciraolo: Ma allora intanto io sono tuttora un felice utente Apple perché utilizzo un iPhone come mio telefono.
+
+185
+00:07:05,080 --> 00:07:06,200
+Andrea Ciraolo: Un paio d'anni, credo.
+
+186
+00:07:06,200 --> 00:07:09,640
+Andrea Ciraolo: È un iPhone 13 mini, quindi da quando è uscito sostanzialmente, cosa
+
+187
+00:07:09,800 --> 00:07:10,760
+Andrea Ciraolo: saranno due anni più o meno?
+
+188
+00:07:10,840 --> 00:07:11,560
+Filippo Strozzi: Sì, due o tre anni.
+
+189
+00:07:11,800 --> 00:07:12,200
+Andrea Ciraolo: E già
+
+190
+00:07:13,000 --> 00:07:17,560
+Andrea Ciraolo: in precedenza avevo usato iPhone, per cui sono assolutamente soddisfatto.
+
+191
+00:07:17,020 --> 00:07:17,180
+Andrea Ciraolo: di
+
+192
+00:07:17,340 --> 00:07:18,460
+Andrea Ciraolo: questo dispositivo.
+
+193
+00:07:18,460 --> 00:07:25,500
+Andrea Ciraolo: Per quanto riguarda il computer, quello che era successo è stato che a un certo punto io utilizzo per lavoro quasi.
+
+194
+00:07:25,580 --> 00:07:27,500
+Andrea Ciraolo: esclusivamente il computer fisso.
+
+195
+00:07:25,900 --> 00:07:26,220
+Andrea Ciraolo: .
+
+196
+00:07:27,500 --> 00:07:32,540
+Andrea Ciraolo: Il mio vecchio computer portatile iniziava a perdere colpi e allora ero in una fase in cui dovevo
+
+197
+00:07:32,700 --> 00:07:33,900
+Andrea Ciraolo: sostituirlo.
+
+198
+00:07:33,780 --> 00:07:36,500
+Andrea Ciraolo: E proprio in concomitanza con quella fase
+
+199
+00:07:36,660 --> 00:07:43,300
+Andrea Ciraolo: ho realizzato un corso su OBS Studio, che è un software che si usa per registrare video e per fare live streaming, e mi sono detto, beh.
+
+200
+00:07:43,100 --> 00:07:45,660
+Andrea Ciraolo: A questo punto io potrei acquistare un Mac
+
+201
+00:07:46,220 --> 00:07:46,860
+Andrea Ciraolo: anche con
+
+202
+00:07:47,020 --> 00:07:47,900
+Andrea Ciraolo: i proventi
+
+203
+00:07:48,540 --> 00:07:49,420
+Andrea Ciraolo: delle vendite,
+
+204
+00:07:50,220 --> 00:07:52,460
+Andrea Ciraolo: i primi ricavi delle vendite del corso, così
+
+205
+00:07:52,620 --> 00:07:55,820
+Andrea Ciraolo: da poter fare delle lezioni del corso anche sul Mac.
+
+206
+00:07:55,820 --> 00:07:57,580
+Andrea Ciraolo: Perché.
+
+207
+00:07:57,040 --> 00:08:00,479
+Andrea Ciraolo: Quei piccoli ambiti in cui il software ha delle differenze.
+
+208
+00:08:00,479 --> 00:08:02,960
+Andrea Ciraolo: Nel caso di OBS Studio non sono molti, però ci sono.
+
+209
+00:08:02,960 --> 00:08:04,080
+Andrea Ciraolo: E così ho fatto
+
+210
+00:08:03,900 --> 00:08:10,060
+Andrea Ciraolo: Di fatto, per quanto riguarda i video su OBS Studio, l'idea è stata assolutamente un'ottima idea, perché ha funzionato molto bene.
+
+211
+00:08:10,060 --> 00:08:13,259
+Andrea Ciraolo: Ma per quanto riguarda poi la mia esperienza da utente, invece
+
+212
+00:08:13,419 --> 00:08:15,660
+Andrea Ciraolo: l'esperienza non è stata particolarmente positiva.
+
+213
+00:08:15,660 --> 00:08:18,780
+Andrea Ciraolo: A differenza di quello che ci si potrebbe aspettare, cioè magari.
+
+214
+00:08:19,139 --> 00:08:25,540
+Andrea Ciraolo: I nostri ascoltatori e le nostre ascoltatrici potrebbero aspettarsi un po' di sangue in questo momento, un po' di cattiveria.
+
+215
+00:08:25,540 --> 00:08:29,220
+Andrea Ciraolo: Ma la verità è che purtroppo la risposta è molto più banale di quello che potrebbe essere.
+
+216
+00:08:29,220 --> 00:08:33,300
+Andrea Ciraolo: Cioè, semplicemente mi sono reso conto che la mia.
+
+217
+00:08:33,120 --> 00:08:34,399
+Andrea Ciraolo: memoria motoria
+
+218
+00:08:34,719 --> 00:08:35,839
+Andrea Ciraolo: scorciatoie
+
+219
+00:08:36,080 --> 00:08:41,039
+Andrea Ciraolo: dove si trovano un po' le cose, eccetera, eccetera, è troppo abituata a Windows
+
+220
+00:08:41,200 --> 00:08:43,200
+Andrea Ciraolo: e non ho trovato dei vantaggi
+
+221
+00:08:43,360 --> 00:08:47,680
+Andrea Ciraolo: nell'affrontare questo Switch che avrebbe richiesto alcuni mesi di adattamento.
+
+222
+00:08:47,740 --> 00:08:49,660
+Andrea Ciraolo: Molto pesanti per il mio utilizzo.
+
+223
+00:08:49,660 --> 00:08:53,020
+Andrea Ciraolo: Io sono un utilizzatore estremamente veloce del computer.
+
+224
+00:08:53,020 --> 00:08:54,780
+Andrea Ciraolo: Vi basti pensare che io tengo il mouse?
+
+225
+00:08:54,780 --> 00:08:56,380
+Andrea Ciraolo: Le persone che vengono.
+
+226
+00:08:56,100 --> 00:09:02,740
+Andrea Ciraolo: Alla mia scrivania si stupiscono di quanto è veloce il mio mouse, il puntatore proprio del mouse perché lo metto alla massima velocità possibile.
+
+227
+00:09:02,740 --> 00:09:03,940
+Andrea Ciraolo: In modo che io
+
+228
+00:09:03,700 --> 00:09:08,420
+Andrea Ciraolo: Senza mai muovere il polso arrivo a tutti gli angoli dello schermo e di tutti gli schermi che ho a disposizione.
+
+229
+00:09:04,259 --> 00:09:04,579
+Andrea Ciraolo: ,
+
+230
+00:09:08,420 --> 00:09:12,500
+Andrea Ciraolo: E quindi questo per farvi capire che per me la velocità è proprio importante se non mi viene proprio.
+
+231
+00:09:12,200 --> 00:09:12,360
+Andrea Ciraolo: Mi
+
+232
+00:09:12,520 --> 00:09:13,800
+Andrea Ciraolo: sento stressato quando ho
+
+233
+00:09:14,280 --> 00:09:15,080
+Andrea Ciraolo: dei limiti
+
+234
+00:09:15,240 --> 00:09:17,560
+Andrea Ciraolo: e quando devo pensare a che cosa
+
+235
+00:09:17,960 --> 00:09:18,360
+Andrea Ciraolo: qualità
+
+236
+00:09:18,520 --> 00:09:19,240
+Andrea Ciraolo: stipremere.
+
+237
+00:09:19,240 --> 00:09:20,200
+Andrea Ciraolo: E quindi un passaggio a Mac
+
+238
+00:09:20,440 --> 00:09:22,040
+Andrea Ciraolo: sarebbe stato possibile.
+
+239
+00:09:21,580 --> 00:09:28,620
+Andrea Ciraolo: Al netto che sarebbe stato reso difficile dal fatto che avevo ancora un computer fisso Windows, ma anche volendo pensare un passaggio totale
+
+240
+00:09:28,860 --> 00:09:31,420
+Andrea Ciraolo: avrebbe richiesto dei mesi di adattamento.
+
+241
+00:09:31,060 --> 00:09:32,100
+Andrea Ciraolo: E sinceramente
+
+242
+00:09:32,260 --> 00:09:32,500
+Andrea Ciraolo: che
+
+243
+00:09:32,820 --> 00:09:41,700
+Andrea Ciraolo: voi ne diciate, amici del Mac, non ci sono dei reali vantaggi per cui fare quello sbatti e quegli sforzi, perché di fatto i due sistemi operativi.
+
+244
+00:09:41,740 --> 00:09:45,740
+Andrea Ciraolo: Se non si è, diciamo, degli utenti con dei gravi handicap cognitivi
+
+245
+00:09:45,980 --> 00:09:50,300
+Andrea Ciraolo: sono assolutamente equivalenti in ogni loro singola funzionalità.
+
+246
+00:09:50,300 --> 00:09:53,500
+Roberto Marin: Io mi metto tra quelli che ha dei problemi cognitivi, lo ammetto, perché
+
+247
+00:09:53,820 --> 00:09:56,380
+Roberto Marin: dico a te, Andrea, per raccontare anche un po' quale.
+
+248
+00:09:56,660 --> 00:09:57,060
+Roberto Marin: stata
+
+249
+00:09:57,460 --> 00:10:00,180
+Roberto Marin: il mio passaggio da Windows a Mac.
+
+250
+00:10:00,180 --> 00:10:03,460
+Roberto Marin: Io mi ricordo, era l'epoca di XP giù di lì
+
+251
+00:10:03,700 --> 00:10:06,420
+Roberto Marin: che vedevo l'interfaccia grafica del Mac
+
+252
+00:10:07,060 --> 00:10:09,780
+Roberto Marin: veramente molto bella, molto accattivante.
+
+253
+00:10:09,300 --> 00:10:11,380
+Roberto Marin: E quello mi aveva sempre attirato molto.
+
+254
+00:10:11,380 --> 00:10:11,700
+Roberto Marin: Poi
+
+255
+00:10:11,940 --> 00:10:19,459
+Roberto Marin: c'era un problema dal punto di vista software che non potevo utilizzare il software che uso adesso per lavoro e all'epoca non si poteva utilizzare, quindi era un
+
+256
+00:10:19,860 --> 00:10:20,980
+Roberto Marin: tagliato fuori dal mondo Mac
+
+257
+00:10:21,220 --> 00:10:22,820
+Roberto Marin: però lo vedevo lì sempre molto bello
+
+258
+00:10:22,980 --> 00:10:25,140
+Roberto Marin: molto carino tant'è che utilizzavo anche delle skin
+
+259
+00:10:25,300 --> 00:10:29,220
+Roberto Marin: apposta per riuscire a rendere Windows almeno dal punto di vista grafico
+
+260
+00:10:29,160 --> 00:10:29,240
+Roberto Marin: molto
+
+261
+00:10:29,480 --> 00:10:30,680
+Roberto Marin: simile al Mac.
+
+262
+00:10:30,680 --> 00:10:32,040
+Roberto Marin: Alla fine sono riuscito a passare al Mac
+
+263
+00:10:32,280 --> 00:10:34,040
+Roberto Marin: velocemente e poi recentemente, perché
+
+264
+00:10:34,200 --> 00:10:36,680
+Roberto Marin: ogni tanto mi tocca anche farlo, devo mettere
+
+265
+00:10:36,920 --> 00:10:38,040
+Roberto Marin: le mani sul Mac
+
+266
+00:10:38,200 --> 00:10:38,280
+Roberto Marin: ,
+
+267
+00:10:38,520 --> 00:10:39,560
+Roberto Marin: sul scusate, sul
+
+268
+00:10:39,780 --> 00:10:47,140
+Roberto Marin: Windows di mia moglie e devo essere sincero, questo ve lo dico sinceramente, mi sento un po' perso, nel senso che con la nuova interfaccia grafica
+
+269
+00:10:47,300 --> 00:10:49,540
+Roberto Marin: parlo di Windows 10 in questo momento.
+
+270
+00:10:49,259 --> 00:10:53,100
+Roberto Marin: Mi sento un po' sempre un po' perso, che non riesco a capire bene dove sono, mentre
+
+271
+00:10:53,259 --> 00:10:55,339
+Roberto Marin: devo dire la sincera verità, che
+
+272
+00:10:55,980 --> 00:10:56,940
+Roberto Marin: con il MEC
+
+273
+00:10:57,300 --> 00:11:00,660
+Roberto Marin: Tutto sommato mi trovo sempre un', come si dice, nel mio ambito.
+
+274
+00:11:02,100 --> 00:11:02,260
+Andrea Ciraolo: Però
+
+275
+00:11:02,260 --> 00:11:09,780
+Andrea Ciraolo: quello che tu forse stai facendo intendere, non so se è il tuo caso Roberto, il problema degli appassionati del mondo Apple?
+
+276
+00:11:09,000 --> 00:11:13,320
+Andrea Ciraolo: E che c'è un atteggiamento del tutto religioso e ricco di bias.
+
+277
+00:11:13,480 --> 00:11:15,960
+Andrea Ciraolo: Perché quello che succede a te nel passaggio da Mac
+
+278
+00:11:16,120 --> 00:11:18,520
+Andrea Ciraolo: a Windows è la stessa cosa che succede a me da Windows.
+
+279
+00:11:18,520 --> 00:11:19,080
+Andrea Ciraolo: Assolutamente.
+
+280
+00:11:19,080 --> 00:11:20,920
+Andrea Ciraolo: Cioè, questa cosa non accade.
+
+281
+00:11:20,740 --> 00:11:21,140
+Andrea Ciraolo: Perché
+
+282
+00:11:21,460 --> 00:11:21,780
+Andrea Ciraolo: come
+
+283
+00:11:22,020 --> 00:11:24,100
+Andrea Ciraolo: a molte persone un po' impalinate
+
+284
+00:11:24,340 --> 00:11:28,100
+Andrea Ciraolo: piacerebbe credere, perché ci sono delle differenze migliorative
+
+285
+00:11:28,340 --> 00:11:30,100
+Andrea Ciraolo: del sistema operativo.
+
+286
+00:11:29,500 --> 00:11:37,900
+Andrea Ciraolo: Accade semplicemente perché se una persona abituata a stare per anni su un sistema operativo è normale che si senta spaesata in un altro sistema operativo.
+
+287
+00:11:37,100 --> 00:11:42,380
+Andrea Ciraolo: E se io fossi stato, diciamo, un po' più ottuso nel mio modo di ragionare, avrei detto la stessa cosa del Mac
+
+288
+00:11:42,620 --> 00:11:43,500
+Andrea Ciraolo: quando ci sono passato.
+
+289
+00:11:43,500 --> 00:11:44,380
+Andrea Ciraolo: Cioè avrei detto il Mac
+
+290
+00:11:44,540 --> 00:11:46,540
+Andrea Ciraolo: è confusionario, le cose nel Mac
+
+291
+00:11:46,779 --> 00:11:48,699
+Andrea Ciraolo: richiedono il doppio del tempo.
+
+292
+00:11:48,200 --> 00:11:49,880
+Andrea Ciraolo: le cose sono più complicate nel Mac
+
+293
+00:11:50,120 --> 00:11:51,640
+Andrea Ciraolo: e la verità è che è molto semplice
+
+294
+00:11:51,800 --> 00:11:55,880
+Andrea Ciraolo: basta fare un minimo di autoanalisi per rendersi conto che semplicemente abbiamo delle abitudini
+
+295
+00:11:56,280 --> 00:11:58,040
+Andrea Ciraolo: e la domanda che dobbiamo farci è
+
+296
+00:11:57,940 --> 00:11:59,860
+Andrea Ciraolo: Vale la pena in un determinato
+
+297
+00:12:00,100 --> 00:12:01,300
+Andrea Ciraolo: momento della nostra vita
+
+298
+00:12:01,540 --> 00:12:04,580
+Andrea Ciraolo: fare degli sforzi per un passaggio oppure no?
+
+299
+00:12:04,580 --> 00:12:08,100
+Roberto Marin: Sono d'accordo, infatti nel mio caso il diciamo.
+
+300
+00:12:07,959 --> 00:12:10,360
+Roberto Marin: La differenza l'ho sentita appunto da Windows a Mac
+
+301
+00:12:10,519 --> 00:12:15,800
+Roberto Marin: , nel senso che è quella che hai sentito tu, la stessa diretta, solo che per me era importante
+
+302
+00:12:16,120 --> 00:12:22,120
+Roberto Marin: riuscire a utilizzare questo sistema operativo, uno perché mi piaceva molto dal punto di vista grafico e purtroppo.
+
+303
+00:12:21,500 --> 00:12:24,620
+Roberto Marin: Anche per la mia professione, questo ha un peso.
+
+304
+00:12:24,620 --> 00:12:26,780
+Roberto Marin: Ma la seconda parte, che, secondo me,
+
+305
+00:12:27,100 --> 00:12:29,340
+Roberto Marin: ha avuto peso all'epoca e continua a avere
+
+306
+00:12:29,580 --> 00:12:32,380
+Roberto Marin: peso adesso, è che un certo di stabilità
+
+307
+00:12:32,540 --> 00:12:35,980
+Roberto Marin: all'epoca che non c'era per il sistema operativo.
+
+308
+00:12:35,300 --> 00:12:37,300
+Roberto Marin: Soprattutto anche perché bisogna sempre
+
+309
+00:12:37,459 --> 00:12:40,420
+Roberto Marin: ed era una costante, smanettare con driver
+
+310
+00:12:40,580 --> 00:12:45,860
+Roberto Marin: con il registro di sistema e riuscire a fare una serie di cose per riuscire a farlo funzionare come volevo io.
+
+311
+00:12:45,860 --> 00:12:48,180
+Roberto Marin: La differenza per me è grossa, che è quella che mi ha.
+
+312
+00:12:48,160 --> 00:12:50,240
+Roberto Marin: mi ha aiutato in questo passaggio è appunto
+
+313
+00:12:50,480 --> 00:12:51,120
+Roberto Marin: non solo
+
+314
+00:12:51,280 --> 00:12:56,800
+Roberto Marin: l'utilizzo del sistema operativo che mi piaceva dal punto di vista grafico e continua a piacermi.
+
+315
+00:12:56,300 --> 00:12:56,459
+Roberto Marin: Ma
+
+316
+00:12:56,779 --> 00:13:02,860
+Roberto Marin: era anche una stabilità intrinseca del sistema che obiettivamente adesso, devo dire che, vedendo mia moglie, Windows
+
+317
+00:13:03,019 --> 00:13:03,339
+Roberto Marin: 10
+
+318
+00:13:03,500 --> 00:13:03,740
+Roberto Marin: ha
+
+319
+00:13:04,060 --> 00:13:05,100
+Roberto Marin: Raggiunto, ma anche penso
+
+320
+00:13:05,260 --> 00:13:06,060
+Roberto Marin: 11 che abbiamo.
+
+321
+00:13:06,140 --> 00:13:07,020
+Filippo Strozzi: Siamo all'11, eh.
+
+322
+00:13:07,020 --> 00:13:07,900
+Filippo Strozzi: Siamo all'11.
+
+323
+00:13:07,900 --> 00:13:08,460
+Roberto Marin: Sì, sì.
+
+324
+00:13:08,460 --> 00:13:08,620
+Roberto Marin: Appunto
+
+325
+00:13:08,780 --> 00:13:11,900
+Roberto Marin: dicevo 10 perché ce l'ha avuto sotto, ma immagino anche 11.
+
+326
+00:13:12,140 --> 00:13:13,340
+Roberto Marin: Quasi 12, quasi 12.
+
+327
+00:13:13,420 --> 00:13:15,020
+Roberto Marin: Speriamo nel 12.
+
+328
+00:13:14,600 --> 00:13:15,720
+Roberto Marin: E che mi sembra.
+
+329
+00:13:15,880 --> 00:13:24,040
+Andrea Ciraolo: Guarda, la cosa che fa ridere dei sostenitori del Mac, e ripeto, io non sono affatto un sostenitore di Windows, perché utilizzo dispositivi Apple con grande soddisfazione.
+
+330
+00:13:24,040 --> 00:13:26,440
+Andrea Ciraolo: Ma la cosa che fa ridere è che di solito.
+
+331
+00:13:26,060 --> 00:13:26,620
+Andrea Ciraolo: Chi
+
+332
+00:13:26,780 --> 00:13:27,740
+Andrea Ciraolo: sostiene il Mac
+
+333
+00:13:28,140 --> 00:13:29,420
+Andrea Ciraolo: fa un confronto tra il Mac
+
+334
+00:13:29,580 --> 00:13:30,700
+Andrea Ciraolo: di oggi e Windows
+
+335
+00:13:30,860 --> 00:13:31,500
+Andrea Ciraolo: XP.
+
+336
+00:13:31,580 --> 00:13:37,020
+Andrea Ciraolo: E uno dice: Eh no, perché Windows, per come me lo ricordo io, era un colabrodo.
+
+337
+00:13:36,600 --> 00:13:40,120
+Andrea Ciraolo: Sì, ma cavoli, ma tu stai parlando di un Windows di 20 anni fa, porca miseria.
+
+338
+00:13:40,120 --> 00:13:42,360
+Andrea Ciraolo: Cioè, anche io se ti faccio il confronto col DOS,
+
+339
+00:13:42,519 --> 00:13:43,480
+Andrea Ciraolo: è ovvio che vince
+
+340
+00:13:43,720 --> 00:13:48,360
+Andrea Ciraolo: Mac, ma confrontiamoci col sistema operativo di oggi e vi dirò la verità.
+
+341
+00:13:47,800 --> 00:13:54,680
+Andrea Ciraolo: Io ho questo ricordo perché ricordo proprio che lo notavo anche in virtù di questo trigger di cui stiamo parlando, ma quel Mac
+
+342
+00:13:54,839 --> 00:13:56,839
+Andrea Ciraolo: che io ho avuto per alcuni mesi.
+
+343
+00:13:56,300 --> 00:13:56,459
+Andrea Ciraolo: Si
+
+344
+00:13:56,620 --> 00:13:57,500
+Andrea Ciraolo: è impallato
+
+345
+00:13:57,740 --> 00:14:03,420
+Andrea Ciraolo: almeno tre volte che io ricordi, cioè io ricordo tre volte in cui si è spento il computer.
+
+346
+00:14:03,420 --> 00:14:07,580
+Andrea Ciraolo: E ho detto che sta succedendo, cosa che non mi è successa ad oggi con il mio bel
+
+347
+00:14:07,899 --> 00:14:08,220
+Andrea Ciraolo: Dell
+
+348
+00:14:08,380 --> 00:14:10,940
+Andrea Ciraolo: XPS, quel cavolo che è.
+
+349
+00:14:10,280 --> 00:14:11,240
+Andrea Ciraolo: Non si è mai spento.
+
+350
+00:14:11,240 --> 00:14:11,960
+Andrea Ciraolo: Questo cosa vuol dire?
+
+351
+00:14:11,960 --> 00:14:13,800
+Andrea Ciraolo: Che è meglio il Dell, che è meglio Windows?
+
+352
+00:14:14,040 --> 00:14:16,440
+Andrea Ciraolo: No, vuol dire che quando noi valutiamo queste cose
+
+353
+00:14:16,680 --> 00:14:18,600
+Andrea Ciraolo: siamo sempre guidati dai nostri bias.
+
+354
+00:14:19,240 --> 00:14:19,400
+Roberto Marin: No,
+
+355
+00:14:19,800 --> 00:14:21,720
+Roberto Marin: sicuramente sono d'accordo anch'io perché.
+
+356
+00:14:21,720 --> 00:14:24,360
+Roberto Marin: Continuo a dire, io sono partito dall'esperienza di XP
+
+357
+00:14:24,520 --> 00:14:25,560
+Roberto Marin: perché poi da lì
+
+358
+00:14:25,800 --> 00:14:30,440
+Roberto Marin: l'ho abbandonato, però riconosco obiettivamente che il Windows di adesso non è.
+
+359
+00:14:30,360 --> 00:14:31,960
+Roberto Marin: paragonabile a quello dell'epoca
+
+360
+00:14:32,120 --> 00:14:34,440
+Roberto Marin: ma sicuramente è decisamente molto più stabile.
+
+361
+00:14:34,440 --> 00:14:38,760
+Roberto Marin: Ribadisco, come ho detto nella premessa, secondo me non esiste un sistema operativo o
+
+362
+00:14:39,060 --> 00:14:41,140
+Roberto Marin: un hardware migliore alla fine, nel senso che
+
+363
+00:14:41,460 --> 00:14:43,700
+Roberto Marin: forse un hardware forse probabilmente sì, perché
+
+364
+00:14:43,940 --> 00:14:45,380
+Roberto Marin: deve essere ritagliato
+
+365
+00:14:45,540 --> 00:14:46,580
+Roberto Marin: sulla propria professione.
+
+366
+00:14:46,580 --> 00:14:49,860
+Roberto Marin: Ad esempio io come dal punto di vista architetto in quello che sto facendo
+
+367
+00:14:49,959 --> 00:14:54,040
+Roberto Marin: mi trovo bene con quello che ho ma è chiaro che se dovessi puntare a
+
+368
+00:14:54,360 --> 00:14:56,440
+Roberto Marin: fare un esempio che è il render
+
+369
+00:14:56,920 --> 00:15:00,920
+Roberto Marin: probabilmente il sistema operativo e l'hardware che sto utilizzando non sarebbe più
+
+370
+00:15:00,880 --> 00:15:06,080
+Roberto Marin: per niente adatto e dovrei cambiare proprio squadra e lì c'è poco da dire, nel senso che
+
+371
+00:15:06,320 --> 00:15:07,040
+Roberto Marin: ribadisco
+
+372
+00:15:07,200 --> 00:15:12,959
+Roberto Marin: c'è un sistema operativo, un hardware adatto a quello che si fa e del migliore in quel momento.
+
+373
+00:15:12,300 --> 00:15:15,580
+Roberto Marin: Ovviamente non esiste il migliore in assoluto sotto questo punto di vista.
+
+374
+00:15:15,740 --> 00:15:18,220
+Roberto Marin: La cosa che mi ricordo che mi hai portato alla luce
+
+375
+00:15:18,380 --> 00:15:18,700
+Roberto Marin: Andrea
+
+376
+00:15:18,860 --> 00:15:19,019
+Roberto Marin: era
+
+377
+00:15:19,180 --> 00:15:20,140
+Roberto Marin: anche questa questione:
+
+378
+00:15:20,459 --> 00:15:22,779
+Roberto Marin: erano le formatazioni, le famose formatazioni.
+
+379
+00:15:22,779 --> 00:15:23,980
+Roberto Marin: Adesso io non so tu,
+
+380
+00:15:24,300 --> 00:15:24,459
+Roberto Marin: io
+
+381
+00:15:24,620 --> 00:15:25,100
+Roberto Marin: potrei dire
+
+382
+00:15:25,260 --> 00:15:27,180
+Roberto Marin: sono con esperienza da XP.
+
+383
+00:15:26,800 --> 00:15:28,560
+Roberto Marin: Però mi ricordo che era
+
+384
+00:15:28,800 --> 00:15:32,080
+Roberto Marin: normale amministrazione fare, dico, una formatazione una volta l'anno
+
+385
+00:15:32,240 --> 00:15:32,720
+Roberto Marin: circa.
+
+386
+00:15:32,720 --> 00:15:37,440
+Roberto Marin: Anche questo mi aveva lasciato un po' perplesso e ne avevo anche un po' abbastanza.
+
+387
+00:15:37,000 --> 00:15:40,360
+Roberto Marin: ed è per quello che poi sono passato a me che ho trovato un po' diciamo
+
+388
+00:15:40,600 --> 00:15:43,000
+Roberto Marin: un sistema che mi permetteva di essere
+
+389
+00:15:43,560 --> 00:15:44,280
+Roberto Marin: operativo
+
+390
+00:15:44,520 --> 00:15:45,400
+Roberto Marin: tant'è che io
+
+391
+00:15:45,800 --> 00:15:51,080
+Roberto Marin: Filippo mi guarda sempre in modo storto quando lo dico, però io dal 2010 che faccio.
+
+392
+00:15:51,800 --> 00:15:55,959
+Roberto Marin: Io non so come si faccia una formatazione, sono continui, quando cambio il computer
+
+393
+00:15:56,060 --> 00:16:00,460
+Roberto Marin: Faccio il ripristino da time machine, delle impostazioni in un'ora e mezza sono in piedi.
+
+394
+00:16:00,460 --> 00:16:04,620
+Roberto Marin: E io, francamente, dovessi chiedermi adesso come si fa a portare a zero
+
+395
+00:16:04,940 --> 00:16:05,900
+Roberto Marin: il mio computer.
+
+396
+00:16:05,900 --> 00:16:07,660
+Roberto Marin: Non lo so, non ho la minima idea:
+
+397
+00:16:07,980 --> 00:16:10,700
+Andrea Ciraolo: impostazioni e ripristino dati di fabbrica.
+
+398
+00:16:10,640 --> 00:16:11,120
+Roberto Marin: Probabilmente
+
+399
+00:16:11,280 --> 00:16:12,240
+Roberto Marin: sì, probabilmente
+
+400
+00:16:13,280 --> 00:16:15,360
+Andrea Ciraolo: ad ogni modo non è molto diversa da un'esperienza
+
+401
+00:16:15,520 --> 00:16:16,240
+Andrea Ciraolo: Windows.
+
+402
+00:16:17,200 --> 00:16:17,680
+Andrea Ciraolo: Ancora
+
+403
+00:16:17,920 --> 00:16:19,040
+Andrea Ciraolo: altro bias, noi
+
+404
+00:16:19,520 --> 00:16:22,400
+Andrea Ciraolo: paragoniamo i MacBook Pro da 2500
+
+405
+00:16:22,640 --> 00:16:23,280
+Andrea Ciraolo: euro.
+
+406
+00:16:23,060 --> 00:16:26,340
+Andrea Ciraolo: con i portatili Asus da 199 euro.
+
+407
+00:16:26,340 --> 00:16:30,900
+Andrea Ciraolo: Voglio dire, è ovvio che a livello di prestazioni di manutenzione c'è un abisso
+
+408
+00:16:31,540 --> 00:16:32,180
+Andrea Ciraolo: tra questi
+
+409
+00:16:32,500 --> 00:16:33,700
+Andrea Ciraolo: dispositivi.
+
+410
+00:16:33,500 --> 00:16:40,220
+Andrea Ciraolo: Ma se noi prendiamo un computer Windows da 2000-2500 euro, ma io i miei non li ho mai formattati.
+
+411
+00:16:40,220 --> 00:16:43,580
+Andrea Ciraolo: Poi non lo so se sto sbagliando qualcosa io, se magari.
+
+412
+00:16:43,580 --> 00:16:43,900
+Andrea Ciraolo: .
+
+413
+00:16:43,900 --> 00:16:44,220
+Andrea Ciraolo: .
+
+414
+00:16:44,500 --> 00:16:46,500
+Andrea Ciraolo: Magari sto ignorando delle problematiche.
+
+415
+00:16:46,500 --> 00:16:46,980
+Andrea Ciraolo: Che ne so.
+
+416
+00:16:46,980 --> 00:16:47,300
+Andrea Ciraolo: Io.
+
+417
+00:16:47,300 --> 00:16:52,260
+Andrea Ciraolo: Quello che so è che io, utente medio, utilizzo i miei dispositivi senza alcun problema.
+
+418
+00:16:52,260 --> 00:16:52,500
+Andrea Ciraolo: Della
+
+419
+00:16:52,660 --> 00:16:56,580
+Andrea Ciraolo: stessa cosa che mi risultano fare gli utenti degli altri sistemi operativi.
+
+420
+00:16:56,580 --> 00:16:58,100
+Roberto Marin: Probabilmente così, nel senso.
+
+421
+00:16:57,700 --> 00:16:57,940
+Roberto Marin: Perché
+
+422
+00:16:58,100 --> 00:16:58,740
+Roberto Marin: forse era
+
+423
+00:16:58,900 --> 00:17:01,300
+Roberto Marin: anche il mio hardware dell'epoca che non era dei migliori, ma
+
+424
+00:17:01,540 --> 00:17:04,820
+Roberto Marin: ovviamente non lavoravo all'epoca e quindi non è che potessi permettermi
+
+425
+00:17:04,980 --> 00:17:05,699
+Roberto Marin: chissà che
+
+426
+00:17:05,500 --> 00:17:05,579
+Roberto Marin: E
+
+427
+00:17:05,819 --> 00:17:06,620
+Roberto Marin: continuo dire,
+
+428
+00:17:06,780 --> 00:17:09,260
+Roberto Marin: è in effetti legato ai bias e
+
+429
+00:17:09,500 --> 00:17:16,780
+Roberto Marin: come giustamente hai sottolineato, la questione è che era molto interessante riuscire a sentire il tuo punto di vista.
+
+430
+00:17:16,199 --> 00:17:16,279
+Roberto Marin: Il
+
+431
+00:17:16,439 --> 00:17:23,959
+Roberto Marin: tuo punto di vista che secondo me è molto interessante perché, insomma, noi ti abbiamo conosciuto che facevi podcast per intenderci, almeno io.
+
+432
+00:17:23,959 --> 00:17:27,959
+Roberto Marin: Ti abbiamo visto entrambi sia io Filippo e anche altre persone ti abbiamo visto al.
+
+433
+00:17:28,019 --> 00:17:28,820
+Roberto Marin: famoso
+
+434
+00:17:28,980 --> 00:17:29,700
+Roberto Marin: Festival
+
+435
+00:17:30,019 --> 00:17:30,179
+Roberto Marin: del
+
+436
+00:17:30,340 --> 00:17:32,019
+Roberto Marin: Podcasting a Milano.
+
+437
+00:17:32,019 --> 00:17:38,340
+Roberto Marin: Noi abbiamo avuto modo di piacere di conoscerci di persona ma comunque ti abbiamo visto, è la cosa importante.
+
+438
+00:17:37,800 --> 00:17:37,960
+Roberto Marin: Ma
+
+439
+00:17:38,280 --> 00:17:40,600
+Roberto Marin: quello che volevo definire io, perché
+
+440
+00:17:40,920 --> 00:17:41,560
+Roberto Marin: secondo me
+
+441
+00:17:41,800 --> 00:17:46,200
+Roberto Marin: fai tantissimo, ed è difficile riuscire a metterti dentro un cappello.
+
+442
+00:17:46,200 --> 00:17:48,920
+Roberto Marin: Volevo sapere da te a questo punto: Che lavoro fai?
+
+443
+00:17:48,920 --> 00:17:49,720
+Roberto Marin: Mettiti tu
+
+444
+00:17:49,700 --> 00:17:56,340
+Roberto Marin: Mettiti tu un cappello e spiegaci come usi il tuo computer Windows nel tuo lavoro, partendo dal lavoro.
+
+445
+00:17:56,340 --> 00:17:56,740
+Andrea Ciraolo: Ok.
+
+446
+00:17:56,740 --> 00:18:00,659
+Andrea Ciraolo: Allora guarda, io sono in una fase della mia vita in cui.
+
+447
+00:18:00,400 --> 00:18:00,560
+Andrea Ciraolo: La
+
+448
+00:18:00,880 --> 00:18:02,480
+Andrea Ciraolo: tecnologia è davvero
+
+449
+00:18:02,640 --> 00:18:04,560
+Andrea Ciraolo: un mero strumento per me, cioè
+
+450
+00:18:04,720 --> 00:18:09,040
+Andrea Ciraolo: più diventa trasparente la tecnologia che utilizzo e più ne sono contento.
+
+451
+00:18:08,700 --> 00:18:11,980
+Andrea Ciraolo: A differenza di altri momenti della mia vita in cui provavo anche
+
+452
+00:18:12,220 --> 00:18:17,419
+Andrea Ciraolo: una forma di eccitazione nello smanettarci, nell'usarla, nell'ottimizzarla, nel
+
+453
+00:18:17,899 --> 00:18:20,220
+Andrea Ciraolo: inventare, creare cose, oggi
+
+454
+00:18:20,140 --> 00:18:27,820
+Andrea Ciraolo: sostanzialmente ciò che io desidero dai miei dispositivi elettronici che mi connettano col mondo che mi circonda e in particolare con altre
+
+455
+00:18:28,160 --> 00:18:28,720
+Andrea Ciraolo: Diciamo
+
+456
+00:18:28,880 --> 00:18:29,920
+Andrea Ciraolo: in input
+
+457
+00:18:30,080 --> 00:18:35,600
+Andrea Ciraolo: con cose che posso imparare, informazioni che posso acquisire, e in output con le persone
+
+458
+00:18:35,840 --> 00:18:38,560
+Andrea Ciraolo: a cui voglio arrivare e con cui voglio comunicare.
+
+459
+00:18:38,560 --> 00:18:41,760
+Andrea Ciraolo: Tutto ciò che non rientra in questi due scopi.
+
+460
+00:18:41,260 --> 00:18:44,780
+Andrea Ciraolo: per me è una distrazione ed è qualcosa che cerco di eliminare
+
+461
+00:18:45,100 --> 00:18:45,980
+Andrea Ciraolo: o di togliere.
+
+462
+00:18:45,980 --> 00:18:47,100
+Andrea Ciraolo: Purtroppo per fortuna
+
+463
+00:18:47,340 --> 00:18:50,539
+Andrea Ciraolo: la grandissima parte della mia giornata lavorativa è.
+
+464
+00:18:50,519 --> 00:18:56,039
+Andrea Ciraolo: a questa scrivania di fronte a questo computer e quindi inevitabilmente la tecnologia è una parte
+
+465
+00:18:56,200 --> 00:18:56,840
+Andrea Ciraolo: molto importante
+
+466
+00:18:57,080 --> 00:18:57,960
+Andrea Ciraolo: per le mie attività
+
+467
+00:18:58,120 --> 00:18:59,159
+Andrea Ciraolo: e quello che ci faccio
+
+468
+00:18:59,480 --> 00:19:06,120
+Andrea Ciraolo: Credo che sia quello che più o meno ci fanno tutti, cioè ci mando mail infinite, messaggi, Whatsapp, Telegram
+
+469
+00:19:06,280 --> 00:19:09,240
+Andrea Ciraolo: e già così abbiamo esaurito più o meno il 95
+
+470
+00:19:09,400 --> 00:19:09,560
+Andrea Ciraolo: %
+
+471
+00:19:09,720 --> 00:19:10,520
+Andrea Ciraolo: del mio tempo.
+
+472
+00:19:10,520 --> 00:19:14,360
+Andrea Ciraolo: Tutto il resto del tempo è trascorso a registrare video e caricato.
+
+473
+00:19:14,880 --> 00:19:15,200
+Andrea Ciraolo: su youtube
+
+474
+00:19:15,360 --> 00:19:16,000
+Andrea Ciraolo: sostanzialmente
+
+475
+00:19:16,160 --> 00:19:17,840
+Roberto Marin: vabbè ma no ma è già tanto perché
+
+476
+00:19:18,000 --> 00:19:21,360
+Roberto Marin: io ho provato a fare un video un po' più di alto livello nel senso
+
+477
+00:19:21,520 --> 00:19:23,760
+Roberto Marin: ho provato ad alzare la mia asticella
+
+478
+00:19:23,700 --> 00:19:27,220
+Roberto Marin: Ed è stato, non dico, un bagno di sangue, ma tu considera che l'ho registrata
+
+479
+00:19:27,380 --> 00:19:27,940
+Roberto Marin: ad agosto
+
+480
+00:19:28,100 --> 00:19:31,059
+Roberto Marin: ed è uscito praticamente a inizio novembre.
+
+481
+00:19:31,059 --> 00:19:31,220
+Roberto Marin: Quindi
+
+482
+00:19:31,380 --> 00:19:31,700
+Roberto Marin: Beato
+
+483
+00:19:31,860 --> 00:19:33,620
+Andrea Ciraolo: te che ci metti poco, io ci ho messo.
+
+484
+00:19:33,560 --> 00:19:34,600
+Andrea Ciraolo: Una vita infinita
+
+485
+00:19:34,840 --> 00:19:35,480
+Andrea Ciraolo: è perché
+
+486
+00:19:35,800 --> 00:19:38,120
+Andrea Ciraolo: non mi hai seguito abbastanza, evidentemente.
+
+487
+00:19:38,440 --> 00:19:39,800
+Filippo Strozzi: Sicuramente,
+
+488
+00:19:40,360 --> 00:19:41,960
+Filippo Strozzi: è vero, è vero.
+
+489
+00:19:41,980 --> 00:19:42,780
+Filippo Strozzi: effettivamente
+
+490
+00:19:43,100 --> 00:19:44,700
+Filippo Strozzi: Andrea è decisamente molto
+
+491
+00:19:45,340 --> 00:19:48,380
+Filippo Strozzi: focalizzato anche sulla produzione di contenuti, cioè sulle modalità
+
+492
+00:19:48,860 --> 00:19:50,300
+Filippo Strozzi: su come produrre contenuti.
+
+493
+00:19:50,300 --> 00:19:50,780
+Filippo Strozzi: Vedo proprio che
+
+494
+00:19:51,100 --> 00:19:53,260
+Filippo Strozzi: ci hai ragionato sopra e hai creato il
+
+495
+00:19:53,300 --> 00:19:55,540
+Filippo Strozzi: Il tuo sistema, chiamiamolo in questi termini.
+
+496
+00:19:55,540 --> 00:19:56,660
+Andrea Ciraolo: Sì, credo che sia così.
+
+497
+00:19:56,660 --> 00:19:57,860
+Andrea Ciraolo: Credo che sia così.
+
+498
+00:19:57,860 --> 00:19:58,820
+Andrea Ciraolo: C'è stato.
+
+499
+00:19:58,820 --> 00:20:02,660
+Andrea Ciraolo: diciamo che io ho un po' questa cosa che quando provo interesse.
+
+500
+00:20:02,660 --> 00:20:03,860
+Andrea Ciraolo: Nei confronti di qualcosa
+
+501
+00:20:04,100 --> 00:20:05,060
+Andrea Ciraolo: trovo molto
+
+502
+00:20:05,380 --> 00:20:05,860
+Andrea Ciraolo: interesse
+
+503
+00:20:06,020 --> 00:20:07,140
+Andrea Ciraolo: nei confronti di quella cosa.
+
+504
+00:20:07,140 --> 00:20:10,820
+Andrea Ciraolo: E quando il mio interesse è diventato la creazione di contenuti,
+
+505
+00:20:10,560 --> 00:20:12,000
+Andrea Ciraolo: Sono andato in fissa
+
+506
+00:20:12,320 --> 00:20:12,400
+Andrea Ciraolo: con
+
+507
+00:20:12,720 --> 00:20:13,360
+Andrea Ciraolo: questo tema
+
+508
+00:20:13,520 --> 00:20:17,440
+Andrea Ciraolo: e l'ho approfondito, studiato e messo in pratica così tanto,
+
+509
+00:20:17,760 --> 00:20:20,720
+Andrea Ciraolo: effettivamente, hai ragione nel dire che ho un po' ideato
+
+510
+00:20:21,280 --> 00:20:22,240
+Andrea Ciraolo: il mio metodo.
+
+511
+00:20:22,240 --> 00:20:23,360
+Filippo Strozzi: Traspare, io adesso
+
+512
+00:20:23,520 --> 00:20:24,320
+Filippo Strozzi: qui.
+
+513
+00:20:23,700 --> 00:20:24,980
+Filippo Strozzi: Ovviamente in preparazione
+
+514
+00:20:25,299 --> 00:20:28,419
+Filippo Strozzi: avevo già visto un sacco di video tuoi su OBS
+
+515
+00:20:28,740 --> 00:20:29,059
+Filippo Strozzi: e
+
+516
+00:20:29,460 --> 00:20:29,700
+Filippo Strozzi: chiudo
+
+517
+00:20:29,860 --> 00:20:31,059
+Filippo Strozzi: una parentesi,
+
+518
+00:20:31,299 --> 00:20:31,620
+Filippo Strozzi: ma
+
+519
+00:20:31,860 --> 00:20:33,220
+Filippo Strozzi: personalmente poi casomai
+
+520
+00:20:33,380 --> 00:20:34,980
+Filippo Strozzi: sono io che sbaglio.
+
+521
+00:20:34,400 --> 00:20:34,960
+Filippo Strozzi: Ma su Mac
+
+522
+00:20:35,120 --> 00:20:36,400
+Filippo Strozzi: io trovo che OBS funzioni
+
+523
+00:20:36,560 --> 00:20:37,760
+Filippo Strozzi: veramente male.
+
+524
+00:20:37,760 --> 00:20:38,480
+Filippo Strozzi: Infatti
+
+525
+00:20:39,360 --> 00:20:40,480
+Filippo Strozzi: è una cosa che
+
+526
+00:20:40,720 --> 00:20:43,840
+Filippo Strozzi: visto che hai detto che ci hai anche fatto un corso sopra, volevo.
+
+527
+00:20:43,840 --> 00:20:44,000
+Filippo Strozzi: .
+
+528
+00:20:43,860 --> 00:20:44,580
+Filippo Strozzi: volevo
+
+529
+00:20:44,899 --> 00:20:45,059
+Filippo Strozzi: perché
+
+530
+00:20:45,220 --> 00:20:47,380
+Filippo Strozzi: effettivamente la mia esperienza con OBS su Mac
+
+531
+00:20:48,019 --> 00:20:48,659
+Filippo Strozzi: in talent
+
+532
+00:20:48,980 --> 00:20:49,700
+Filippo Strozzi: and a precisare
+
+533
+00:20:50,260 --> 00:20:50,500
+Filippo Strozzi: gli
+
+534
+00:20:50,659 --> 00:20:51,220
+Filippo Strozzi: M1
+
+535
+00:20:51,660 --> 00:20:51,820
+Filippo Strozzi: sono
+
+536
+00:20:52,060 --> 00:20:53,420
+Filippo Strozzi: già un'altra bestia
+
+537
+00:20:53,660 --> 00:20:53,980
+Filippo Strozzi: ma
+
+538
+00:20:54,300 --> 00:20:55,100
+Filippo Strozzi: veramente non
+
+539
+00:20:55,580 --> 00:20:55,900
+Filippo Strozzi: cioè
+
+540
+00:20:56,140 --> 00:20:58,220
+Andrea Ciraolo: ma e che cosa in particolare ti viene in mente perché
+
+541
+00:20:58,700 --> 00:20:59,500
+Filippo Strozzi: proprio funziona male
+
+542
+00:20:59,820 --> 00:21:00,380
+Filippo Strozzi: funziona male
+
+543
+00:21:00,860 --> 00:21:03,340
+Filippo Strozzi: Tu fai conto che io in pandemia ho comprato
+
+544
+00:21:03,659 --> 00:21:09,899
+Filippo Strozzi: il MacBook Pro 16 Pollici, quello Super Mega Galattico Intel, mettiamola così, addirittura.
+
+545
+00:21:09,760 --> 00:21:12,720
+Filippo Strozzi: E proprio perché, vabbè, nelle mie idee di fondo
+
+546
+00:21:12,880 --> 00:21:19,520
+Filippo Strozzi: era il computer che avrei utilizzato da casa e anche per fare dei video appunto perché c'erano tutto il discorso di fare formazione online
+
+547
+00:21:19,679 --> 00:21:20,000
+Filippo Strozzi: ,
+
+548
+00:21:20,160 --> 00:21:20,799
+Filippo Strozzi: fare.
+
+549
+00:21:20,799 --> 00:21:21,120
+Filippo Strozzi: .
+
+550
+00:21:20,960 --> 00:21:21,120
+Filippo Strozzi: fare
+
+551
+00:21:21,280 --> 00:21:22,080
+Filippo Strozzi: tante cose online
+
+552
+00:21:22,240 --> 00:21:24,080
+Filippo Strozzi: per cui effettivamente un computer
+
+553
+00:21:24,400 --> 00:21:24,720
+Filippo Strozzi: ben
+
+554
+00:21:24,880 --> 00:21:25,200
+Filippo Strozzi: ben
+
+555
+00:21:25,360 --> 00:21:28,960
+Filippo Strozzi: ben carrozzato era era una cosa sensata all'epoca
+
+556
+00:21:29,120 --> 00:21:29,280
+Filippo Strozzi: nella
+
+557
+00:21:29,440 --> 00:21:29,920
+Filippo Strozzi: sostanza
+
+558
+00:21:30,080 --> 00:21:30,240
+Filippo Strozzi: questo
+
+559
+00:21:30,400 --> 00:21:30,880
+Filippo Strozzi: computer
+
+560
+00:21:31,040 --> 00:21:32,240
+Filippo Strozzi: che è Intel appunto
+
+561
+00:21:32,400 --> 00:21:33,600
+Filippo Strozzi: con OBS sopra
+
+562
+00:21:33,760 --> 00:21:36,960
+Filippo Strozzi: non sono mai riuscito a farci niente sostanzialmente addirittura
+
+563
+00:21:37,120 --> 00:21:38,400
+Filippo Strozzi: le dirette streaming
+
+564
+00:21:38,620 --> 00:21:41,420
+Filippo Strozzi: Ho avuto svariatissimi problemi e nell'assurdo
+
+565
+00:21:41,580 --> 00:21:41,900
+Filippo Strozzi: diciamo
+
+566
+00:21:42,220 --> 00:21:45,100
+Filippo Strozzi: sto registrando e sto parlando dal mio iMac
+
+567
+00:21:45,340 --> 00:21:47,260
+Filippo Strozzi: invece del 2017, fa tutto
+
+568
+00:21:47,560 --> 00:21:48,520
+Filippo Strozzi: senza problemi,
+
+569
+00:21:49,000 --> 00:21:50,280
+Filippo Strozzi: ho fatto i miei webinar perché
+
+570
+00:21:50,520 --> 00:21:53,000
+Filippo Strozzi: io faccio anche formazione per gli avvocati, direttamente tre
+
+571
+00:21:53,160 --> 00:21:56,280
+Filippo Strozzi: ore di webinar in diretta senza battere ciglio
+
+572
+00:21:56,440 --> 00:21:57,080
+Filippo Strozzi: sempre con OBS
+
+573
+00:21:57,320 --> 00:21:58,440
+Filippo Strozzi: tengo a precisare perché
+
+574
+00:21:58,400 --> 00:22:00,080
+Filippo Strozzi: L'altra opzione sarebbe ICAM
+
+575
+00:22:00,240 --> 00:22:01,680
+Filippo Strozzi: Live, ma diciamo
+
+576
+00:22:02,960 --> 00:22:07,040
+Filippo Strozzi: la remunerazione di queste cose non ha senso che io lo paghi, mentre so che.
+
+577
+00:22:07,100 --> 00:22:08,380
+Filippo Strozzi: che Matteo è
+
+578
+00:22:07,200 --> 00:22:07,520
+Filippo Strozzi: .
+
+579
+00:22:08,620 --> 00:22:10,860
+Filippo Strozzi: super appassionato e effettivamente pensato su Mac
+
+580
+00:22:11,179 --> 00:22:13,820
+Filippo Strozzi: e la differenza a livello proprio hardware, cioè
+
+581
+00:22:14,059 --> 00:22:15,260
+Filippo Strozzi: la fatica che fa il Mac
+
+582
+00:22:15,419 --> 00:22:17,340
+Filippo Strozzi: per lavorare con OBS e con ICAM
+
+583
+00:22:17,500 --> 00:22:19,340
+Filippo Strozzi: è un mondo lontano ecco
+
+584
+00:22:20,140 --> 00:22:21,340
+Andrea Ciraolo: E il fatto è che
+
+585
+00:22:22,140 --> 00:22:25,100
+Andrea Ciraolo: dovremmo fare degli esempi concreti, nel senso che io
+
+586
+00:22:25,260 --> 00:22:27,500
+Andrea Ciraolo: questa cosa non la so perché non ho mai usato OBS
+
+587
+00:22:27,980 --> 00:22:29,900
+Andrea Ciraolo: per lungo tempo su Mac.
+
+588
+00:22:29,600 --> 00:22:33,440
+Andrea Ciraolo: E le volte che l'ho usato anche per il corso, così non ho avuto dei problemi particolari.
+
+589
+00:22:33,440 --> 00:22:36,480
+Andrea Ciraolo: È possibile perché ci sono alcuni software che sono ottimizzati per Windows
+
+590
+00:22:36,640 --> 00:22:41,919
+Andrea Ciraolo: e non sorprenderebbe se fosse OBS uno di questi perché nasce per il mondo del gaming OBS.
+
+591
+00:22:42,400 --> 00:22:46,320
+Andrea Ciraolo: Potrebbe anche essere che questa cosa abbia una ragione di esistere, cosa
+
+592
+00:22:46,560 --> 00:22:50,400
+Andrea Ciraolo: che non ti saprei dire, se hai degli esempi concreti magari mi viene in mente
+
+593
+00:22:50,580 --> 00:22:52,180
+Filippo Strozzi: Sì, così anche su Windows per dire.
+
+594
+00:22:52,180 --> 00:22:52,260
+Filippo Strozzi: .
+
+595
+00:22:52,580 --> 00:22:54,420
+Filippo Strozzi: Tu fai conto che a un certo punto
+
+596
+00:22:54,660 --> 00:22:57,460
+Filippo Strozzi: con comunque connessione buona e tutto il resto,
+
+597
+00:22:57,620 --> 00:22:57,940
+Filippo Strozzi: adesso
+
+598
+00:22:58,340 --> 00:23:00,020
+Filippo Strozzi: ti potrei anche mandare il link a una
+
+599
+00:23:00,740 --> 00:23:02,020
+Filippo Strozzi: di queste cose.
+
+600
+00:23:01,600 --> 00:23:07,200
+Filippo Strozzi: c'era proprio la disincronizzazione audio-video proprio perché il computer non riusciva a gestirlo cioè
+
+601
+00:23:07,360 --> 00:23:09,039
+Filippo Strozzi: il flusso audio e il flusso video
+
+602
+00:23:09,600 --> 00:23:11,280
+Filippo Strozzi: lo impallavano a tale livello
+
+603
+00:23:12,300 --> 00:23:13,900
+Filippo Strozzi: che la vicenda era ingestibile
+
+604
+00:23:14,060 --> 00:23:14,860
+Filippo Strozzi: e effettivamente
+
+605
+00:23:15,020 --> 00:23:17,020
+Filippo Strozzi: perché mi ero confrontato all'epoca con Matteo mi fa
+
+606
+00:23:17,180 --> 00:23:18,620
+Filippo Strozzi: no no no non è un problema del
+
+607
+00:23:18,860 --> 00:23:19,020
+Filippo Strozzi: perché
+
+608
+00:23:19,180 --> 00:23:21,500
+Filippo Strozzi: avevo un microfono wireless all'epoca
+
+609
+00:23:21,840 --> 00:23:26,159
+Filippo Strozzi: Non è il problema del microfono wireless che comunica male, è un problema.
+
+610
+00:23:26,159 --> 00:23:26,240
+Filippo Strozzi: .
+
+611
+00:23:26,399 --> 00:23:26,720
+Filippo Strozzi: adesso
+
+612
+00:23:26,960 --> 00:23:29,840
+Filippo Strozzi: c'è un termine tecnico che non mi viene in mente, quello.
+
+613
+00:23:30,120 --> 00:23:34,040
+Filippo Strozzi: Che sostanzialmente l'hardware non riesce a codificare i dati
+
+614
+00:23:34,200 --> 00:23:35,480
+Filippo Strozzi: in tempo reale, quindi
+
+615
+00:23:35,640 --> 00:23:36,280
+Filippo Strozzi: ovviamente è
+
+616
+00:23:36,520 --> 00:23:38,440
+Filippo Strozzi: una desincronizzazione delle cose.
+
+617
+00:23:38,440 --> 00:23:39,560
+Andrea Ciraolo: Eh però sai cosa?
+
+618
+00:23:39,560 --> 00:23:41,800
+Andrea Ciraolo: Guarda, io vi porto questa riflessione che è un po'
+
+619
+00:23:41,960 --> 00:23:44,760
+Andrea Ciraolo: più, diciamo, estesa, generalizziamola un po' naturalmente
+
+620
+00:23:44,880 --> 00:23:47,120
+Andrea Ciraolo: Naturalmente, però quando prima parlavamo di bias
+
+621
+00:23:47,280 --> 00:23:47,440
+Andrea Ciraolo: vi
+
+622
+00:23:47,600 --> 00:23:50,400
+Andrea Ciraolo: faccio notare proprio come si creano questi bias.
+
+623
+00:23:50,400 --> 00:23:50,640
+Andrea Ciraolo: Cioè
+
+624
+00:23:50,800 --> 00:23:54,400
+Andrea Ciraolo: che cosa ha portato il tuo processo logico?
+
+625
+00:23:54,240 --> 00:23:55,120
+Andrea Ciraolo: Dal dire
+
+626
+00:23:55,440 --> 00:23:59,280
+Andrea Ciraolo: la mia esperienza con OBS Studio è stata negativa
+
+627
+00:23:59,520 --> 00:24:00,000
+Andrea Ciraolo: al dire
+
+628
+00:24:00,160 --> 00:24:02,960
+Andrea Ciraolo: OBS Studio non funziona bene sul Mac.
+
+629
+00:24:03,280 --> 00:24:04,080
+Andrea Ciraolo: Perché?
+
+630
+00:24:04,100 --> 00:24:04,500
+Andrea Ciraolo: Tra le
+
+631
+00:24:04,660 --> 00:24:06,100
+Andrea Ciraolo: due cose c'è una grossa differenza.
+
+632
+00:24:06,100 --> 00:24:09,220
+Andrea Ciraolo: E molte volte noi prendiamo la nostra singola esperienza
+
+633
+00:24:09,700 --> 00:24:13,940
+Andrea Ciraolo: e quella di persone che, come dire, hanno esperienze simili a noi
+
+634
+00:24:14,100 --> 00:24:16,660
+Andrea Ciraolo: in una sorta di bias di conferma.
+
+635
+00:24:16,200 --> 00:24:17,639
+Andrea Ciraolo: Perché poi figurati, se io apro
+
+636
+00:24:17,799 --> 00:24:24,519
+Andrea Ciraolo: adesso qualsiasi forum troverò sicuramente OBS non funziona sul Mac, OBS non funziona su Windows, OBS non funziona su Linux, ovviamente.
+
+637
+00:24:24,519 --> 00:24:25,320
+Andrea Ciraolo: Al dirci
+
+638
+00:24:25,360 --> 00:24:27,679
+Andrea Ciraolo: Questo software non funziona su questa piattaforma.
+
+639
+00:24:27,679 --> 00:24:28,399
+Andrea Ciraolo: Poi ripeto,
+
+640
+00:24:28,559 --> 00:24:30,320
+Andrea Ciraolo: magari nel caso di UBS, è assolutamente così.
+
+641
+00:24:30,320 --> 00:24:32,240
+Andrea Ciraolo: E io questa roba qua non la so, però
+
+642
+00:24:32,399 --> 00:24:36,880
+Andrea Ciraolo: mi chiedo cosa ci porta noi esseri umani a generalizzare la nostra singola esperienza.
+
+643
+00:24:38,640 --> 00:24:39,520
+Filippo Strozzi: Avendo
+
+644
+00:24:39,840 --> 00:24:40,560
+Filippo Strozzi: fatto varie
+
+645
+00:24:40,960 --> 00:24:41,760
+Filippo Strozzi: test, diciamo che
+
+646
+00:24:41,920 --> 00:24:43,920
+Filippo Strozzi: su M1 mi sono sempre trovato bene, questo
+
+647
+00:24:44,080 --> 00:24:46,160
+Filippo Strozzi: altro computer mi sono trovato, cioè funziona.
+
+648
+00:24:46,160 --> 00:24:46,240
+Filippo Strozzi: .
+
+649
+00:24:46,260 --> 00:24:46,900
+Filippo Strozzi: funziona
+
+650
+00:24:47,220 --> 00:24:51,220
+Filippo Strozzi: fa fatica ma funziona mettiamolo in questi termini ma un computer del 2017 quindi
+
+651
+00:24:51,380 --> 00:24:54,179
+Filippo Strozzi: proprio ti dico e ho anche il dubbio che sia un problema
+
+652
+00:24:54,740 --> 00:24:55,220
+Filippo Strozzi: del Mac
+
+653
+00:24:55,539 --> 00:24:56,500
+Filippo Strozzi: portatile che ho io
+
+654
+00:24:56,820 --> 00:24:57,059
+Filippo Strozzi: tendo
+
+655
+00:24:57,220 --> 00:24:57,380
+Filippo Strozzi: infatti
+
+656
+00:24:58,820 --> 00:24:59,700
+Filippo Strozzi: O di quel Mac
+
+657
+00:24:59,940 --> 00:25:01,380
+Filippo Strozzi: o di quella generazione di Mac.
+
+658
+00:25:01,380 --> 00:25:02,900
+Filippo Strozzi: Tu considera che io poi ho fatto questo
+
+659
+00:25:03,060 --> 00:25:05,380
+Filippo Strozzi: acquisto nel 2020, appunto,
+
+660
+00:25:05,540 --> 00:25:06,020
+Filippo Strozzi: aprile,
+
+661
+00:25:06,500 --> 00:25:09,860
+Filippo Strozzi: proprio in mezzo alla pandemia, mettiamola così, non mi ricordo più se a ma
+
+662
+00:25:10,020 --> 00:25:10,500
+Filippo Strozzi: a giugno
+
+663
+00:25:10,660 --> 00:25:12,100
+Filippo Strozzi: o a settembre.
+
+664
+00:25:11,580 --> 00:25:12,460
+Filippo Strozzi: sono usciti gli M1
+
+665
+00:25:12,700 --> 00:25:14,860
+Filippo Strozzi: quindi alla fine era il top di gamma
+
+666
+00:25:15,020 --> 00:25:18,299
+Filippo Strozzi: all'epoca di Apple e gli ho dato anche dei bei soldi all'epoca
+
+667
+00:25:18,460 --> 00:25:20,780
+Filippo Strozzi: e nel giro di pochissimo un MacBook
+
+668
+00:25:20,940 --> 00:25:21,100
+Filippo Strozzi: era
+
+669
+00:25:21,260 --> 00:25:21,660
+Filippo Strozzi: faccio
+
+670
+00:25:21,760 --> 00:25:22,880
+Filippo Strozzi: fa di più probabilmente
+
+671
+00:25:23,200 --> 00:25:26,000
+Filippo Strozzi: del mio portatile super carrozzato, mettiamoli in questi
+
+672
+00:25:26,160 --> 00:25:27,280
+Filippo Strozzi: in questi termini.
+
+673
+00:25:27,280 --> 00:25:28,240
+Filippo Strozzi: Poi è ovvio che
+
+674
+00:25:28,640 --> 00:25:30,880
+Filippo Strozzi: sono quelli acquisi sbagliati.
+
+675
+00:25:31,080 --> 00:25:33,320
+Andrea Ciraolo: Ebbè, che dire, che dire Filippo?
+
+676
+00:25:33,320 --> 00:25:34,520
+Andrea Ciraolo: Viva il Mac!
+
+677
+00:25:34,520 --> 00:25:38,760
+Andrea Ciraolo: È assolutamente un ecosistema solido, bravi, molto bravi ragazzi.
+
+678
+00:25:38,760 --> 00:25:42,440
+Roberto Marin: Sì, in effetti è vero, siamo rimasti schiavi da questi bias.
+
+679
+00:25:42,000 --> 00:25:44,640
+Roberto Marin: Ma appunto sui bias, che era interessante secondo me
+
+680
+00:25:44,800 --> 00:25:46,400
+Roberto Marin: come punto di vista, ma
+
+681
+00:25:46,640 --> 00:25:48,560
+Roberto Marin: che tu giustamente ne hai parlato
+
+682
+00:25:48,880 --> 00:25:49,840
+Roberto Marin: in questo ambito
+
+683
+00:25:50,080 --> 00:25:50,720
+Roberto Marin: Windows.
+
+684
+00:25:51,040 --> 00:25:51,200
+Roberto Marin: Mac
+
+685
+00:25:51,200 --> 00:25:51,520
+Roberto Marin: .
+
+686
+00:25:51,520 --> 00:25:51,840
+Roberto Marin: .
+
+687
+00:25:51,520 --> 00:25:54,480
+Roberto Marin: oppure dei sistemi e delle proprie percezioni.
+
+688
+00:25:54,480 --> 00:26:00,800
+Roberto Marin: Ma in realtà è decisamente più profonda la questione, nel senso, soprattutto in questo epoco proprio preciso, in questo momento
+
+689
+00:26:01,040 --> 00:26:02,640
+Roberto Marin: in cui spesso e volentieri
+
+690
+00:26:02,800 --> 00:26:04,240
+Roberto Marin: ci appoggiamo.
+
+691
+00:26:03,900 --> 00:26:12,460
+Roberto Marin: All'utilizzo dell'intelligenza artificiale che io potrei dire non chiamata intelligenza artificiale perché non ha quasi niente di intelligenza, sono solo dei semplici acceleratori
+
+692
+00:26:12,620 --> 00:26:12,940
+Roberto Marin: dei propri
+
+693
+00:26:13,100 --> 00:26:14,300
+Roberto Marin: workflow.
+
+694
+00:26:13,860 --> 00:26:14,580
+Roberto Marin: E però
+
+695
+00:26:14,740 --> 00:26:22,260
+Roberto Marin: dietro a questi acceleratori, questa intelligenza artificiale, in realtà si potrebbero nascondere un sacco di bias cognitivi,
+
+696
+00:26:21,919 --> 00:26:22,240
+Roberto Marin: Che
+
+697
+00:26:22,480 --> 00:26:27,919
+Roberto Marin: non sono impliciti di chi magari programma, perché magari ci li ha e non lo sa.
+
+698
+00:26:27,919 --> 00:26:29,600
+Roberto Marin: E appunto, visto che eravamo entrati
+
+699
+00:26:29,760 --> 00:26:32,640
+Roberto Marin: nell'argomento, volevo chiederti una tua opinione a riguardo, Andrea.
+
+700
+00:26:32,640 --> 00:26:34,880
+Roberto Marin: Nel senso, cosa ne pensi dei?
+
+701
+00:26:35,519 --> 00:26:40,000
+Roberto Marin: Bayesi cognitivi che si possono nascondere dietro all'intelligenza artificiale.
+
+702
+00:26:40,000 --> 00:26:44,159
+Roberto Marin: Ci sono, non ci sono, o riusciremo a riconoscerli?
+
+703
+00:26:43,700 --> 00:26:45,220
+Roberto Marin: O perlomeno come faremo
+
+704
+00:26:45,460 --> 00:26:47,779
+Roberto Marin: a riconoscerli e quindi a non caderci?
+
+705
+00:26:47,779 --> 00:26:53,380
+Andrea Ciraolo: Guarda, in realtà secondo me la risposta era già insita nella tua domanda e di fatto io credo.
+
+706
+00:26:53,100 --> 00:26:54,460
+Andrea Ciraolo: Su questo, io in generale
+
+707
+00:26:54,780 --> 00:27:01,660
+Andrea Ciraolo: sull'intelligenza artificiale, ho un'opinione forse un po' forte, che andrebbe smussata su alcuni aspetti, ma non essendo una cosa che
+
+708
+00:27:01,980 --> 00:27:04,539
+Andrea Ciraolo: riveste un grandissimo interesse nella mia vita, mi
+
+709
+00:27:04,780 --> 00:27:06,220
+Andrea Ciraolo: basta un'opinione
+
+710
+00:27:06,900 --> 00:27:08,179
+Andrea Ciraolo: Un po' superficiale.
+
+711
+00:27:08,179 --> 00:27:10,740
+Andrea Ciraolo: E il fatto è che credo che sia un non problema.
+
+712
+00:27:10,740 --> 00:27:16,500
+Andrea Ciraolo: Nel senso che l'intelligenza artificiale, come hai detto tu, non fa altro che amplificare cose umane.
+
+713
+00:27:16,500 --> 00:27:17,299
+Andrea Ciraolo: E di fatto
+
+714
+00:27:17,539 --> 00:27:19,059
+Andrea Ciraolo: non aggiunge.
+
+715
+00:27:19,080 --> 00:27:23,080
+Andrea Ciraolo: Conoscenza all'umanità, in questo momento, quantomeno, né al
+
+716
+00:27:23,320 --> 00:27:26,679
+Andrea Ciraolo: singolo individuo, l'unica cosa che fa è semplificare dei processi.
+
+717
+00:27:26,679 --> 00:27:27,400
+Andrea Ciraolo: E quindi,
+
+718
+00:27:27,640 --> 00:27:31,160
+Andrea Ciraolo: se io utilizzo l'intelligenza artificiale oggi per
+
+719
+00:27:31,260 --> 00:27:33,580
+Andrea Ciraolo: Acquisire competenze o conoscenze.
+
+720
+00:27:33,580 --> 00:27:36,059
+Andrea Ciraolo: Beh, il bias non è dell'intelligenza artificiale, il bias
+
+721
+00:27:36,220 --> 00:27:42,140
+Andrea Ciraolo: è mio, come essere umano, ed è ovvio che l'intelligenza artificiale mi porterà quello che è in grado di portarmi, cioè
+
+722
+00:27:42,380 --> 00:27:43,660
+Andrea Ciraolo: molto poco.
+
+723
+00:27:43,100 --> 00:27:43,260
+Andrea Ciraolo: Ma
+
+724
+00:27:43,419 --> 00:27:46,620
+Andrea Ciraolo: non cambia molto rispetto a quando 20 anni fa
+
+725
+00:27:46,780 --> 00:27:50,860
+Andrea Ciraolo: i nostri zii si informavano su Facebook, no forse dieci anni fa
+
+726
+00:27:50,700 --> 00:27:50,779
+Andrea Ciraolo: si
+
+727
+00:27:50,940 --> 00:27:52,139
+Andrea Ciraolo: informavano su Facebook
+
+728
+00:27:51,179 --> 00:27:51,500
+Andrea Ciraolo: ,
+
+729
+00:27:52,380 --> 00:27:54,779
+Andrea Ciraolo: e ci riportavano i rimedi
+
+730
+00:27:54,940 --> 00:27:55,659
+Andrea Ciraolo: medicinali
+
+731
+00:27:56,779 --> 00:27:59,260
+Andrea Ciraolo: miracolosi perché li avevano letti su Facebook.
+
+732
+00:27:59,260 --> 00:28:00,940
+Andrea Ciraolo: Cioè prima c'era quello
+
+733
+00:28:00,700 --> 00:28:03,019
+Andrea Ciraolo: Oggi c'è l'intelligenza artificiale e
+
+734
+00:28:03,179 --> 00:28:04,299
+Andrea Ciraolo: non credo che faccia
+
+735
+00:28:04,539 --> 00:28:06,220
+Andrea Ciraolo: una grande differenza sostanziale.
+
+736
+00:28:06,220 --> 00:28:08,299
+Andrea Ciraolo: Gli esseri umani hanno sempre bisogno di
+
+737
+00:28:08,200 --> 00:28:11,399
+Andrea Ciraolo: Qualcuno che li rassicuri con soluzioni semplici.
+
+738
+00:28:11,399 --> 00:28:19,639
+Andrea Ciraolo: Oggi queste soluzioni semplici sono date dall'intelligenza artificiale, non sono peggio di quelle che davano i social network poco tempo fa e non saranno peggio di quelle che ci daranno.
+
+739
+00:28:19,300 --> 00:28:21,940
+Andrea Ciraolo: I chip impiantati nel cervello, fra vent'anni.
+
+740
+00:28:21,940 --> 00:28:28,980
+Andrea Ciraolo: Alla fine il concetto è sempre quello: sta all'individuo scegliere gli strumenti con cui cerca di migliorarsi.
+
+741
+00:28:28,980 --> 00:28:29,940
+Roberto Marin: Mi piace come idea
+
+742
+00:28:30,100 --> 00:28:34,180
+Roberto Marin: e volevo chiederti un'altra cosa, un'altra, diciamo, mia curiosità a questo punto.
+
+743
+00:28:34,000 --> 00:28:38,000
+Roberto Marin: E nel tuo lavoro ne utilizzi di questi strumenti o riesci a farne a meno?
+
+744
+00:28:38,000 --> 00:28:38,400
+Andrea Ciraolo: Utilizzo
+
+745
+00:28:38,560 --> 00:28:39,600
+Andrea Ciraolo: praticamente zero.
+
+746
+00:28:39,600 --> 00:28:40,480
+Roberto Marin: Ok, perfetto.
+
+747
+00:28:40,480 --> 00:28:42,720
+Andrea Ciraolo: Non è che riesco a farne a meno.
+
+748
+00:28:42,200 --> 00:28:50,360
+Andrea Ciraolo: Cioè, questi strumenti non sono strumenti di cui fare a meno, al contrario sono strumenti da utilizzare nel momento in cui hanno un'utilità.
+
+749
+00:28:50,360 --> 00:28:51,240
+Andrea Ciraolo: Nel momento
+
+750
+00:28:51,399 --> 00:28:52,279
+Andrea Ciraolo: attuale
+
+751
+00:28:52,360 --> 00:29:01,960
+Andrea Ciraolo: E credo che cambierà questa cosa nel corso degli anni, perché vanno a una velocità incredibile questi strumenti oggi, ma nel momento attuale il mio livello di creatività nelle cose che faccio.
+
+752
+00:29:01,960 --> 00:29:02,279
+Andrea Ciraolo: .
+
+753
+00:29:02,060 --> 00:29:02,220
+Andrea Ciraolo: è
+
+754
+00:29:02,540 --> 00:29:07,100
+Andrea Ciraolo: ancora, diciamo, molto superiore all'utilità che mi può dare l'intelligenza artificiale.
+
+755
+00:29:07,100 --> 00:29:08,860
+Andrea Ciraolo: Nel tempo questa cosa cambierà forse?
+
+756
+00:29:08,860 --> 00:29:08,940
+Andrea Ciraolo: O
+
+757
+00:29:09,100 --> 00:29:11,100
+Andrea Ciraolo: perché io mi sentirò più stanco.
+
+758
+00:29:10,600 --> 00:29:20,120
+Andrea Ciraolo: o perché l'intelligenza artificiale farà dei passi ulteriori, ma oggi la utilizzo molto poco, cioè io potrei aprire ChatGPT per dirti, non so se ce l'ha data nelle chat.
+
+759
+00:29:19,500 --> 00:29:20,780
+Andrea Ciraolo: Ah, dovrei fare il login.
+
+760
+00:29:20,780 --> 00:29:26,700
+Andrea Ciraolo: Vabbè, ma la lascio aperto niente, però io che l'ultima volta che l'ho usato sarà stato un mesetto e mezzo fa, qualcosa del genere.
+
+761
+00:29:26,860 --> 00:29:27,660
+Roberto Marin: Ok,
+
+762
+00:29:27,200 --> 00:29:27,519
+Roberto Marin: Perché
+
+763
+00:29:27,679 --> 00:29:28,399
+Roberto Marin: ad esempio
+
+764
+00:29:28,720 --> 00:29:29,600
+Roberto Marin: nel mio caso
+
+765
+00:29:29,840 --> 00:29:34,559
+Roberto Marin: faccio un esempio pratico, l'utilizzo dell'intelligenza artificiale in effetti accelera una fase che
+
+766
+00:29:34,720 --> 00:29:35,760
+Roberto Marin: tendenzialmente
+
+767
+00:29:36,000 --> 00:29:36,720
+Roberto Marin: nel workflow
+
+768
+00:29:36,880 --> 00:29:37,519
+Roberto Marin: lavorativo
+
+769
+00:29:37,660 --> 00:29:42,700
+Roberto Marin: nel mio caso di architetto, era veramente una perdita di tempo, anche se era necessaria.
+
+770
+00:29:42,700 --> 00:29:43,020
+Roberto Marin: Che
+
+771
+00:29:43,340 --> 00:29:44,140
+Roberto Marin: esempio appunto
+
+772
+00:29:44,460 --> 00:29:46,380
+Roberto Marin: riguarda la creatività.
+
+773
+00:29:46,120 --> 00:29:46,280
+Roberto Marin: La
+
+774
+00:29:46,600 --> 00:29:49,000
+Roberto Marin: creatività, nel caso mio,
+
+775
+00:29:49,320 --> 00:29:51,800
+Roberto Marin: viene spesso sollecitata dal
+
+776
+00:29:52,120 --> 00:29:53,000
+Roberto Marin: visionare
+
+777
+00:29:53,320 --> 00:29:54,600
+Roberto Marin: progetti.
+
+778
+00:29:54,679 --> 00:29:55,799
+Roberto Marin: immagini o
+
+779
+00:29:56,039 --> 00:29:57,240
+Roberto Marin: altri tipi di
+
+780
+00:29:57,880 --> 00:29:58,519
+Roberto Marin: idee
+
+781
+00:29:58,840 --> 00:29:59,159
+Roberto Marin: che
+
+782
+00:29:59,399 --> 00:30:00,039
+Roberto Marin: possono
+
+783
+00:30:00,360 --> 00:30:05,399
+Roberto Marin: essere integrate nel progetto che sto facendo e nell'idea che ho io in testa.
+
+784
+00:30:04,800 --> 00:30:05,040
+Roberto Marin: Quindi
+
+785
+00:30:05,200 --> 00:30:08,800
+Roberto Marin: può diventare utile, ad esempio, utilizzare da li o mid journey
+
+786
+00:30:08,960 --> 00:30:12,720
+Roberto Marin: per creare delle immagini e andare sempre a iterare il lavoro
+
+787
+00:30:12,600 --> 00:30:21,400
+Roberto Marin: In modo tale da avere una panoramica di idee da cui poter riuscire appunto con l'intelletto umano, chiamiamolo così, metterle assieme e tirare fuori qualcosa di nuovo.
+
+788
+00:30:21,400 --> 00:30:24,520
+Roberto Marin: In questo caso ho notato che in effetti aiuta davvero
+
+789
+00:30:24,679 --> 00:30:27,160
+Roberto Marin: tanto dal punto di vista della progettazione.
+
+790
+00:30:26,800 --> 00:30:28,400
+Roberto Marin: C'è anche da dire che
+
+791
+00:30:28,560 --> 00:30:31,120
+Roberto Marin: recentemente, questo lo dico per dare
+
+792
+00:30:31,600 --> 00:30:33,120
+Roberto Marin: una chiusura verso
+
+793
+00:30:33,360 --> 00:30:39,600
+Roberto Marin: l'intelligenza artificiale che sta entrando veramente in modo pesante, almeno nel mio ambito.
+
+794
+00:30:39,000 --> 00:30:39,160
+Roberto Marin: È
+
+795
+00:30:39,480 --> 00:30:41,480
+Roberto Marin: che attualmente esiste un plugin
+
+796
+00:30:41,640 --> 00:30:43,960
+Roberto Marin: per un sistema di progettazione che si chiama Revit
+
+797
+00:30:44,520 --> 00:30:48,920
+Roberto Marin: Software, che praticamente riesce a andare a controllare tutti i progetti
+
+798
+00:30:49,080 --> 00:30:50,200
+Roberto Marin: che hai fatto.
+
+799
+00:30:50,060 --> 00:31:00,220
+Roberto Marin: Precedentemente con lo stesso software, e quindi riesce a dare direttamente lui la soluzione, o, perlomeno, le soluzioni più simili a quello che è progettato fino a qualche giorno prima?
+
+800
+00:31:00,860 --> 00:31:04,620
+Roberto Marin: Quindi è interessante anche questo sviluppo che sta prendendo.
+
+801
+00:31:04,100 --> 00:31:08,020
+Roberto Marin: Dell'intelligenza artificiale, che in realtà mi sembra più un
+
+802
+00:31:08,260 --> 00:31:13,299
+Roberto Marin: sistema di sintesi, forse non cognitivo, chiamiamolo così.
+
+803
+00:31:12,900 --> 00:31:16,180
+Roberto Marin: Che ti permette di avere, in effetti, delle idee su cui poter lavorare.
+
+804
+00:31:16,180 --> 00:31:18,740
+Roberto Marin: Almeno, questa qui è la mia personale impressione.
+
+805
+00:31:18,740 --> 00:31:19,700
+Roberto Marin: Invece, Filippo, tu
+
+806
+00:31:20,020 --> 00:31:20,500
+Roberto Marin: lo usi?
+
+807
+00:31:20,660 --> 00:31:21,220
+Andrea Ciraolo: Guarda, no,
+
+808
+00:31:21,620 --> 00:31:23,380
+Andrea Ciraolo: volevo solo aggiungere una cosa, scusami
+
+809
+00:31:23,540 --> 00:31:24,180
+Andrea Ciraolo: Roberto.
+
+810
+00:31:24,180 --> 00:31:24,900
+Andrea Ciraolo: Allora, è molto.
+
+811
+00:31:25,060 --> 00:31:26,740
+Andrea Ciraolo: Capisco bene quello che tu dici.
+
+812
+00:31:26,740 --> 00:31:27,780
+Andrea Ciraolo: Da un lato.
+
+813
+00:31:27,500 --> 00:31:35,900
+Andrea Ciraolo: Io mi rendo conto di avere meno bisogno di questa cosa proprio perché a differenza tua, e forse in questo posso supporre di essere più simile a Filippo, io sono molto più.
+
+814
+00:31:35,860 --> 00:31:40,580
+Andrea Ciraolo: legato all'intelligenza artificiale diciamo di tipo testuale, nel senso che tutta la parte di immagini
+
+815
+00:31:40,740 --> 00:31:44,100
+Andrea Ciraolo: nel lavoro che faccio e nelle cose che faccio tutti i giorni sono meno rilevanti.
+
+816
+00:31:44,100 --> 00:31:46,500
+Andrea Ciraolo: E quindi per me il trovare
+
+817
+00:31:46,460 --> 00:31:47,420
+Andrea Ciraolo: stimoli creativi
+
+818
+00:31:47,580 --> 00:31:55,340
+Andrea Ciraolo: forse un pochino più semplice o il vantaggio che mi dà chat GPT è un po' più attutito perché comunque sono una persona che legge molto
+
+819
+00:31:55,500 --> 00:31:55,660
+Andrea Ciraolo: che
+
+820
+00:31:55,820 --> 00:31:57,340
+Andrea Ciraolo: guarda molti video che fa
+
+821
+00:31:57,200 --> 00:32:02,480
+Andrea Ciraolo: che fa già molte cose di suo mi rendo conto che in questo momento il valore dell'intelligenza artificiale è molto
+
+822
+00:32:02,720 --> 00:32:04,240
+Andrea Ciraolo: improntato sulla creatività
+
+823
+00:32:04,399 --> 00:32:04,480
+Andrea Ciraolo: sul
+
+824
+00:32:04,639 --> 00:32:05,600
+Andrea Ciraolo: brainstorming
+
+825
+00:32:05,840 --> 00:32:06,000
+Andrea Ciraolo: sul
+
+826
+00:32:06,240 --> 00:32:07,360
+Andrea Ciraolo: avere idee
+
+827
+00:32:07,360 --> 00:32:12,639
+Andrea Ciraolo: sull'avere spunti, sull'avere incipit, su cose che alimentano la nostra creatività.
+
+828
+00:32:12,639 --> 00:32:15,919
+Andrea Ciraolo: Cosa di cui io in questo momento, ma ripeto, voglio sottolineare
+
+829
+00:32:16,159 --> 00:32:17,519
+Andrea Ciraolo: in questo momento.
+
+830
+00:32:17,100 --> 00:32:20,299
+Andrea Ciraolo: Della mia vita e del mio lavoro, di cui oggi sento meno il bisogno.
+
+831
+00:32:20,299 --> 00:32:24,380
+Andrea Ciraolo: Io aspetto con grande ansia, perché sono convinto che lì io ci andrò sotto
+
+832
+00:32:24,539 --> 00:32:26,940
+Andrea Ciraolo: quando l'intelligenza artificiale sarà invece
+
+833
+00:32:27,179 --> 00:32:28,940
+Andrea Ciraolo: improntabile all'operatività.
+
+834
+00:32:28,940 --> 00:32:31,900
+Andrea Ciraolo: Cioè il giorno in cui Siri o Alexa
+
+835
+00:32:31,800 --> 00:32:35,720
+Andrea Ciraolo: Speriamo che non si svegliano nel giorno in cui questi due tizi
+
+836
+00:32:36,600 --> 00:32:38,280
+Andrea Ciraolo: saranno davvero intelligenti.
+
+837
+00:32:38,280 --> 00:32:45,400
+Andrea Ciraolo: E cavoli, lì cambierà la mia vita senza dubbio farò uno switch, perché a quel punto sarà molto più semplice fare determinate cose.
+
+838
+00:32:44,800 --> 00:32:47,520
+Andrea Ciraolo: che oggi di fatto sono tutto forché intelligenti.
+
+839
+00:32:47,520 --> 00:32:48,160
+Filippo Strozzi: Invece tu Filippo
+
+840
+00:32:48,320 --> 00:32:49,040
+Filippo Strozzi: le utilizzi?
+
+841
+00:32:49,040 --> 00:32:52,160
+Filippo Strozzi: No, sto cercando di utilizzarle, non per utilizzarle, ma per
+
+842
+00:32:52,400 --> 00:32:52,880
+Filippo Strozzi: prendersi
+
+843
+00:32:53,120 --> 00:32:54,880
+Filippo Strozzi: la mano non so come come definirla
+
+844
+00:32:55,680 --> 00:32:56,640
+Filippo Strozzi: diversamente.
+
+845
+00:32:56,640 --> 00:33:00,000
+Filippo Strozzi: Sposo sostanzialmente tutto quello che ha detto Andrea, nel senso che
+
+846
+00:33:00,240 --> 00:33:04,640
+Filippo Strozzi: sono creativo nel senso come avvocato perché ovviamente comunque devo scrivere testi.
+
+847
+00:33:04,600 --> 00:33:05,960
+Filippo Strozzi: devo fare cose poi vabbè
+
+848
+00:33:06,440 --> 00:33:06,679
+Filippo Strozzi: nella
+
+849
+00:33:07,000 --> 00:33:09,159
+Filippo Strozzi: diciamo cosiddetta fase delle mie
+
+850
+00:33:09,720 --> 00:33:10,600
+Filippo Strozzi: delle mie passioni
+
+851
+00:33:10,840 --> 00:33:11,639
+Filippo Strozzi: creo contenuti
+
+852
+00:33:11,799 --> 00:33:13,399
+Filippo Strozzi: mettiamoli in questi termini
+
+853
+00:33:13,360 --> 00:33:14,240
+Filippo Strozzi: collateralmente
+
+854
+00:33:14,399 --> 00:33:18,000
+Filippo Strozzi: per passione però il discorso di fondo è questo cioè uno
+
+855
+00:33:18,639 --> 00:33:20,240
+Filippo Strozzi: vendendo il tuo ragionamento
+
+856
+00:33:20,399 --> 00:33:20,720
+Filippo Strozzi: cos'è
+
+857
+00:33:20,960 --> 00:33:21,279
+Filippo Strozzi: che
+
+858
+00:33:21,840 --> 00:33:25,039
+Filippo Strozzi: la cosiddetta intelligenza artificiale potrebbe darti di più
+
+859
+00:33:24,900 --> 00:33:25,060
+Filippo Strozzi: quando
+
+860
+00:33:25,300 --> 00:33:26,820
+Filippo Strozzi: è andata a guardare i tuoi progetti
+
+861
+00:33:27,220 --> 00:33:30,660
+Filippo Strozzi: peraltro presumibilmente te li accoppiati e a questo punto li utilizzerà
+
+862
+00:33:31,220 --> 00:33:32,420
+Filippo Strozzi: a futura memoria
+
+863
+00:33:32,800 --> 00:33:37,440
+Filippo Strozzi: Per altri soggetti che non puoi fare tu, cioè, nel senso, secondo me, è il solito discorso.
+
+864
+00:33:37,440 --> 00:33:41,920
+Filippo Strozzi: Attualmente, l'intelligenza artificiale è semplicemente quello che era l'email
+
+865
+00:33:42,080 --> 00:33:43,760
+Filippo Strozzi: all'inizio: invece di
+
+866
+00:33:44,000 --> 00:33:47,440
+Filippo Strozzi: perderci del tempo a scrivere qualcosa di complesso.
+
+867
+00:33:47,300 --> 00:33:47,620
+Filippo Strozzi: e
+
+868
+00:33:48,260 --> 00:33:56,660
+Filippo Strozzi: mando un'email, ci metto tre secondi, non la ragiono neanche, te la mando via e rompo le scatole al prossimo gratuitamente, tra virgolette, ma sulla mia scrivania
+
+869
+00:33:56,820 --> 00:33:57,780
+Filippo Strozzi: io ho mandato la mail,
+
+870
+00:33:58,100 --> 00:34:01,220
+Filippo Strozzi: ho fatto quello che doveva fare, non sono più fatti i miei.
+
+871
+00:34:00,740 --> 00:34:02,260
+Filippo Strozzi: Ok, ti faccio due esempi.
+
+872
+00:34:02,260 --> 00:34:03,060
+Filippo Strozzi: Non capito dove
+
+873
+00:34:03,220 --> 00:34:03,620
+Filippo Strozzi: sta andando.
+
+874
+00:34:03,700 --> 00:34:07,940
+Filippo Strozzi: Lo stesso discorso all'intelligenza artificiale, cioè, di fatto, tu demandi
+
+875
+00:34:08,500 --> 00:34:10,980
+Filippo Strozzi: a un algoritmo, mettiamola così, una migliore l'ipotesi,
+
+876
+00:34:11,139 --> 00:34:11,620
+Filippo Strozzi: che sa, fine
+
+877
+00:34:11,780 --> 00:34:12,260
+Filippo Strozzi: sono quelli
+
+878
+00:34:12,500 --> 00:34:12,820
+Filippo Strozzi: ,
+
+879
+00:34:13,139 --> 00:34:13,460
+Filippo Strozzi: di
+
+880
+00:34:13,700 --> 00:34:15,220
+Filippo Strozzi: proporti.
+
+881
+00:34:14,760 --> 00:34:16,040
+Filippo Strozzi: Qualcosa che hai già fatto
+
+882
+00:34:16,200 --> 00:34:17,160
+Filippo Strozzi: e che bene o male
+
+883
+00:34:17,560 --> 00:34:18,360
+Filippo Strozzi: dovrebbe essere
+
+884
+00:34:18,920 --> 00:34:19,720
+Filippo Strozzi: un qualcosa di tuo.
+
+885
+00:34:19,720 --> 00:34:20,520
+Filippo Strozzi: Non so se mi spiega.
+
+886
+00:34:20,600 --> 00:34:24,120
+Roberto Marin: Hai perfettamente ragione, ma la questione è che, come
+
+887
+00:34:24,600 --> 00:34:27,880
+Roberto Marin: stavo cercando di spiegare, non è che ti sta dando.
+
+888
+00:34:27,639 --> 00:34:27,799
+Roberto Marin: una
+
+889
+00:34:27,960 --> 00:34:30,599
+Roberto Marin: soluzione o ti sta dando la soluzione
+
+890
+00:34:30,839 --> 00:34:34,200
+Roberto Marin: sta semplicemente accelerando quel processo che dovresti fare tu
+
+891
+00:34:34,359 --> 00:34:35,399
+Roberto Marin: ma non è detto che
+
+892
+00:34:35,559 --> 00:34:35,720
+Roberto Marin: perché
+
+893
+00:34:35,879 --> 00:34:36,039
+Roberto Marin: tu
+
+894
+00:34:36,359 --> 00:34:36,520
+Roberto Marin: tu
+
+895
+00:34:37,540 --> 00:34:39,860
+Roberto Marin: Il lavoro dell'architetto è vero che.
+
+896
+00:34:39,860 --> 00:34:39,940
+Roberto Marin: .
+
+897
+00:34:40,100 --> 00:34:44,660
+Roberto Marin: però non c'è solo quello, c'è anche tutta una serie di sistemi attorno che derivano dall'importo.
+
+898
+00:34:44,820 --> 00:34:45,220
+Filippo Strozzi: Ovviamente,
+
+899
+00:34:45,460 --> 00:34:46,900
+Filippo Strozzi: non è che tu puoi dire io voglio far
+
+900
+00:34:47,060 --> 00:34:47,700
+Filippo Strozzi: farlo.
+
+901
+00:34:47,200 --> 00:34:51,760
+Filippo Strozzi: Faccio il disegno così e poi dopo chi si è visto si è visto calatravi insegna e poi vengono i punti giù.
+
+902
+00:34:52,159 --> 00:34:52,639
+Filippo Strozzi: Lui fa un
+
+903
+00:34:52,879 --> 00:34:54,960
+Filippo Strozzi: disegno bellissimo ma poi non funziona.
+
+904
+00:34:54,960 --> 00:34:56,320
+Roberto Marin: Oppure mette.
+
+905
+00:34:56,080 --> 00:34:59,200
+Roberto Marin: Oppure mette le passerelle con le lastre di
+
+906
+00:34:59,680 --> 00:35:00,160
+Roberto Marin: vetro
+
+907
+00:35:00,640 --> 00:35:03,920
+Roberto Marin: in una zona che molto probabilmente potrebbe anche essere un po'
+
+908
+00:35:04,100 --> 00:35:08,180
+Roberto Marin: Con umido e salsedine, magari qualcuno potrebbe farsi male, magari ragionarci un
+
+909
+00:35:08,340 --> 00:35:08,420
+Roberto Marin: tipo
+
+910
+00:35:08,580 --> 00:35:08,820
+Roberto Marin: sopra.
+
+911
+00:35:08,820 --> 00:35:10,340
+Roberto Marin: Ma non è tanto quella questione.
+
+912
+00:35:10,340 --> 00:35:17,140
+Roberto Marin: La questione è: ma per esempio, utilizzando Da Lì e Mijun, che invece è più vicino alla mia esperienza, tu puoi scrivere.
+
+913
+00:35:16,660 --> 00:35:17,620
+Roberto Marin: Quello che vuoi, o
+
+914
+00:35:17,780 --> 00:35:25,060
+Roberto Marin: perlomeno, qualcosa che si avvicina molto a quello che vuoi, e hai delle soluzioni che ti vengono date,
+
+915
+00:35:24,800 --> 00:35:27,200
+Roberto Marin: Ti danno essenzialmente quattro soluzioni.
+
+916
+00:35:27,200 --> 00:35:29,200
+Roberto Marin: Si tratta in realtà di una progettazione
+
+917
+00:35:29,520 --> 00:35:31,200
+Roberto Marin: generativa, quella su cui
+
+918
+00:35:31,840 --> 00:35:33,200
+Roberto Marin: si sta nascendo, nel
+
+919
+00:35:33,360 --> 00:35:37,280
+Roberto Marin: senso che lui genera delle soluzioni all'inizio.
+
+920
+00:35:36,840 --> 00:35:38,040
+Roberto Marin: ma poi è sempre
+
+921
+00:35:38,280 --> 00:35:39,000
+Roberto Marin: l'interesse
+
+922
+00:35:39,160 --> 00:35:42,680
+Roberto Marin: umano che modifica e trasforma quello che viene dato.
+
+923
+00:35:42,680 --> 00:35:46,520
+Roberto Marin: Diciamo che io perdevo tantissimo tempo perché tu cosa fai?
+
+924
+00:35:45,900 --> 00:35:46,619
+Roberto Marin: Vai a farti
+
+925
+00:35:47,180 --> 00:35:56,140
+Roberto Marin: una ricerca su Google, cerchi Pinterest, cerchi Instagram, vai a una serie di posti e vai a cercare delle soluzioni, le metti su una bacheca, te le guardi
+
+926
+00:35:56,299 --> 00:35:56,460
+Roberto Marin: tutto
+
+927
+00:35:56,700 --> 00:35:57,339
+Roberto Marin: quanto.
+
+928
+00:35:57,000 --> 00:36:00,440
+Roberto Marin: cerchi di tirare fuori qualcosa che ci assomiglia perché magari non è proprio quello che cercavi
+
+929
+00:36:00,600 --> 00:36:02,760
+Roberto Marin: e vai avanti così e un po di tempo
+
+930
+00:36:03,000 --> 00:36:04,360
+Roberto Marin: secondo me lo accelera
+
+931
+00:36:04,520 --> 00:36:05,000
+Roberto Marin: ma una
+
+932
+00:36:05,540 --> 00:36:07,380
+Roberto Marin: Quello che volevo invece
+
+933
+00:36:07,700 --> 00:36:09,060
+Roberto Marin: richiamare Andrea
+
+934
+00:36:09,700 --> 00:36:15,220
+Roberto Marin: nel discorso, perché ci siamo un po' persi, ovviamente, con me e Filippo, non può essere diversamente.
+
+935
+00:36:16,620 --> 00:36:23,020
+Roberto Marin: stavamo parlando dei workflow lavorativi ero molto curioso visto che sono entrato anch'io in questo mondo dei video
+
+936
+00:36:23,180 --> 00:36:24,780
+Roberto Marin: magari un po' in punta di piedi
+
+937
+00:36:24,940 --> 00:36:25,820
+Roberto Marin: facendomi male come
+
+938
+00:36:25,980 --> 00:36:26,860
+Roberto Marin: giusto che sia
+
+939
+00:36:26,940 --> 00:36:28,700
+Roberto Marin: Volevo chiedere appunto ad Andrea
+
+940
+00:36:29,260 --> 00:36:31,900
+Roberto Marin: che tipi di software utilizza e qual è magari
+
+941
+00:36:32,060 --> 00:36:33,420
+Roberto Marin: la sua scaletta
+
+942
+00:36:33,740 --> 00:36:34,940
+Roberto Marin: personale nella
+
+943
+00:36:35,099 --> 00:36:36,700
+Roberto Marin: creazione di un contenuto video.
+
+944
+00:36:36,700 --> 00:36:38,619
+Andrea Ciraolo: Allora, guarda, sui software che utilizzo,
+
+945
+00:36:38,859 --> 00:36:39,900
+Andrea Ciraolo: sai cosa facciamo?
+
+946
+00:36:39,900 --> 00:36:40,220
+Andrea Ciraolo: Forse
+
+947
+00:36:40,380 --> 00:36:41,660
+Andrea Ciraolo: ti dico quali sono quali.
+
+948
+00:36:41,700 --> 00:36:43,140
+Andrea Ciraolo: Quelli che ho pinnato
+
+949
+00:36:43,940 --> 00:36:44,980
+Andrea Ciraolo: nella mia barra di
+
+950
+00:36:45,220 --> 00:36:45,700
+Andrea Ciraolo: Windows
+
+951
+00:36:45,859 --> 00:36:46,900
+Andrea Ciraolo: qui sotto, così
+
+952
+00:36:47,540 --> 00:36:48,980
+Andrea Ciraolo: che penso che sia abbastanza
+
+953
+00:36:49,300 --> 00:36:49,940
+Roberto Marin: esplicativo!
+
+954
+00:36:50,099 --> 00:36:51,220
+Andrea Ciraolo: Come si dice.
+
+955
+00:36:51,080 --> 00:36:52,120
+Andrea Ciraolo: Esplicativo, esatto.
+
+956
+00:36:52,120 --> 00:36:59,480
+Andrea Ciraolo: Allora in ordine da sinistra verso destra e quindi per certi versi forse anche di importanza o esplora risorse, ovviamente esplora file.
+
+957
+00:36:59,260 --> 00:37:00,780
+Andrea Ciraolo: o Chrome o Telegram
+
+958
+00:37:01,020 --> 00:37:01,820
+Andrea Ciraolo: o Whatsapp
+
+959
+00:37:02,060 --> 00:37:03,180
+Andrea Ciraolo: poi ho una serie di
+
+960
+00:37:03,340 --> 00:37:05,580
+Andrea Ciraolo: applicazioni che ho estrapolato dal Mac, non so
+
+961
+00:37:05,900 --> 00:37:06,220
+Andrea Ciraolo: scusate
+
+962
+00:37:06,460 --> 00:37:08,300
+Andrea Ciraolo: da Chrome, non so come si chiama
+
+963
+00:37:08,100 --> 00:37:11,700
+Andrea Ciraolo: Quando fai diventare un sito, una specie di applicazione a sé stante?
+
+964
+00:37:11,700 --> 00:37:12,980
+Filippo Strozzi: Sì, un'applicazione esatto.
+
+965
+00:37:12,980 --> 00:37:14,660
+Andrea Ciraolo: Quindi ho Gmail o il calendario
+
+966
+00:37:14,820 --> 00:37:15,620
+Andrea Ciraolo: o tu, Dwist
+
+967
+00:37:15,860 --> 00:37:16,980
+Andrea Ciraolo: o Spotify, poi
+
+968
+00:37:17,140 --> 00:37:17,380
+Andrea Ciraolo: come
+
+969
+00:37:17,540 --> 00:37:22,820
+Andrea Ciraolo: altre app native, o Obsidian, che è un'applicazione per prendere note, diciamo.
+
+970
+00:37:22,700 --> 00:37:31,260
+Andrea Ciraolo: Ho chat GPT che non utilizzo da molto, Visual Studio Code per programmare, ma è una cosa che ormai non faccio praticamente mai, OBS Studio, e poi ho alcuni
+
+971
+00:37:31,540 --> 00:37:35,300
+Andrea Ciraolo: Ulteriori strumenti che però in realtà sono qui solo perché non li ho mai tolti.
+
+972
+00:37:35,300 --> 00:37:38,260
+Andrea Ciraolo: Che sono Free File Sync, che è una roba che mi serve per
+
+973
+00:37:38,420 --> 00:37:43,780
+Andrea Ciraolo: sincronizzare diversi hard disk, o GoodSync, che invece mi serve per fare il backup.
+
+974
+00:37:43,340 --> 00:37:45,100
+Andrea Ciraolo: Di Google Drive e poi ho anche
+
+975
+00:37:45,660 --> 00:37:46,940
+Andrea Ciraolo: uno strumento per
+
+976
+00:37:47,900 --> 00:37:49,260
+Andrea Ciraolo: flash cards per
+
+977
+00:37:49,820 --> 00:37:50,460
+Andrea Ciraolo: studiare cosa
+
+978
+00:37:50,700 --> 00:37:51,260
+Roberto Marin: interessante.
+
+979
+00:37:51,580 --> 00:37:51,980
+Roberto Marin: Non l'avrei
+
+980
+00:37:52,140 --> 00:37:52,780
+Roberto Marin: mai detto,
+
+981
+00:37:52,940 --> 00:37:55,900
+Roberto Marin: detto francamente, nel senso che non mi aspettavo.
+
+982
+00:37:56,039 --> 00:37:56,680
+Roberto Marin: Questa
+
+983
+00:37:56,920 --> 00:38:00,440
+Roberto Marin: declinazione molto sulla comunicazione, diciamo, che
+
+984
+00:38:00,599 --> 00:38:01,640
+Roberto Marin: tendenzialmente
+
+985
+00:38:02,200 --> 00:38:05,319
+Roberto Marin: uno si aspetta che magari, non so, abbia.
+
+986
+00:38:05,320 --> 00:38:06,520
+Roberto Marin: La comunicazione
+
+987
+00:38:08,120 --> 00:38:09,640
+Roberto Marin: è difficile da spiegare,
+
+988
+00:38:09,880 --> 00:38:15,480
+Roberto Marin: messa in secondo piano ma che sia sempre lì, nel senso che in qualche modo riesce ad arrivarci.
+
+989
+00:38:15,240 --> 00:38:15,880
+Roberto Marin: Che è
+
+990
+00:38:16,200 --> 00:38:21,240
+Roberto Marin: il mio caso, nel senso, le mail, Telegram, Whatsapp, per fortuna me ne sto tenendo fuori,
+
+991
+00:38:21,400 --> 00:38:24,920
+Roberto Marin: dico per fortuna più che altro per una questione di gestione.
+
+992
+00:38:25,720 --> 00:38:26,200
+Roberto Marin: Diciamo
+
+993
+00:38:26,360 --> 00:38:29,560
+Roberto Marin: dei gruppi della scuola, ma solo per questo motivo.
+
+994
+00:38:29,560 --> 00:38:30,840
+Roberto Marin: Ma diciamo che
+
+995
+00:38:31,080 --> 00:38:34,040
+Roberto Marin: sono sempre presenti nel mio lavoro, ma non li ho mai messi.
+
+996
+00:38:34,040 --> 00:38:34,440
+Roberto Marin: Diciamo
+
+997
+00:38:34,600 --> 00:38:35,640
+Roberto Marin: all'inizio
+
+998
+00:38:35,960 --> 00:38:36,840
+Roberto Marin: della barra, che
+
+999
+00:38:37,160 --> 00:38:39,080
+Roberto Marin: avete tutti quanti sotto.
+
+1000
+00:38:38,820 --> 00:38:39,060
+Roberto Marin: come
+
+1001
+00:38:39,380 --> 00:38:40,980
+Roberto Marin: programmi di partenza.
+
+1002
+00:38:40,980 --> 00:38:47,940
+Roberto Marin: Molto interessante questa cosa, ma anche interessante il fatto che hai creato delle applicazioni che si appoggiano direttamente al web.
+
+1003
+00:38:47,600 --> 00:38:47,920
+Roberto Marin: che
+
+1004
+00:38:48,080 --> 00:38:51,280
+Roberto Marin: in realtà ce ne sono moltissime che sono magari fatte.
+
+1005
+00:38:51,280 --> 00:38:51,360
+Roberto Marin: .
+
+1006
+00:38:51,920 --> 00:38:56,400
+Roberto Marin: vengono chiamate app, magari rilasciate dagli sviluppatori, ma in realtà non sono nient'altro che delle
+
+1007
+00:38:56,720 --> 00:38:57,440
+Roberto Marin: Versioni
+
+1008
+00:38:58,079 --> 00:38:58,400
+Roberto Marin: web
+
+1009
+00:38:58,559 --> 00:38:58,880
+Roberto Marin: delle
+
+1010
+00:38:59,039 --> 00:38:59,279
+Roberto Marin: app
+
+1011
+00:38:59,440 --> 00:39:02,160
+Roberto Marin: confezionate all'interno di un eseguibile, per intenderci.
+
+1012
+00:39:02,720 --> 00:39:05,279
+Roberto Marin: Adesso non entro nel metodo perché non è proprio la mia
+
+1013
+00:39:06,079 --> 00:39:08,960
+Roberto Marin: pane, però comunque l'idea è questa.
+
+1014
+00:39:08,460 --> 00:39:09,900
+Roberto Marin: Ed è molto interessante.
+
+1015
+00:39:09,900 --> 00:39:16,860
+Roberto Marin: E quindi, per quanto riguarda la creazione dei video, se ho capito bene, correggimi se sbaglio, OBS
+
+1016
+00:39:17,180 --> 00:39:20,700
+Roberto Marin: è il tuo strumento principe, sì, esatto.
+
+1017
+00:39:20,260 --> 00:39:22,660
+Andrea Ciraolo: In realtà è forse l'unico
+
+1018
+00:39:22,900 --> 00:39:28,180
+Andrea Ciraolo: strumento che differenzia il pc fisso da quello portatile, nel senso che poi
+
+1019
+00:39:28,240 --> 00:39:30,480
+Andrea Ciraolo: quasi tutto il mio lavoro è sul web.
+
+1020
+00:39:30,480 --> 00:39:32,080
+Andrea Ciraolo: Adesso io sto guardando di fatto
+
+1021
+00:39:32,240 --> 00:39:36,640
+Andrea Ciraolo: è letteralmente tutto sul web eccetto Obsidian che pure è sincronizzato
+
+1022
+00:39:36,800 --> 00:39:38,400
+Andrea Ciraolo: su internet.
+
+1023
+00:39:37,800 --> 00:39:37,880
+Andrea Ciraolo: e
+
+1024
+00:39:38,120 --> 00:39:41,240
+Andrea Ciraolo: Telegram per cui ho l'applicazione nativa, ma già Whatsapp
+
+1025
+00:39:41,400 --> 00:39:45,480
+Andrea Ciraolo: per dire non ho neanche installato Whatsapp web, ma sto usando quello del browser.
+
+1026
+00:39:46,000 --> 00:39:50,640
+Andrea Ciraolo: C'è soltanto OBS che utilizzo per registrare video e tutto il resto è dentro Chrome sostanzialmente.
+
+1027
+00:39:50,640 --> 00:39:54,480
+Andrea Ciraolo: Cioè, se io oggi dovessi formattare, appunto ci dicevamo, il mio computer, dovrei
+
+1028
+00:39:54,640 --> 00:39:55,600
+Andrea Ciraolo: installare Chrome.
+
+1029
+00:39:55,680 --> 00:39:56,080
+Andrea Ciraolo: è vero,
+
+1030
+00:39:56,800 --> 00:39:56,880
+Andrea Ciraolo: sto
+
+1031
+00:39:57,040 --> 00:39:57,680
+Andrea Ciraolo: pensando proprio a quello
+
+1032
+00:39:58,000 --> 00:39:59,120
+Roberto Marin: scaricare tutti i file
+
+1033
+00:40:00,000 --> 00:40:00,480
+Roberto Marin: ed è
+
+1034
+00:40:01,120 --> 00:40:02,400
+Roberto Marin: un bel aiuto questo perché
+
+1035
+00:40:02,560 --> 00:40:03,040
+Roberto Marin: in effetti
+
+1036
+00:40:04,560 --> 00:40:05,280
+Roberto Marin: rimanendo
+
+1037
+00:40:05,640 --> 00:40:05,799
+Roberto Marin: alla
+
+1038
+00:40:06,039 --> 00:40:12,200
+Roberto Marin: mia esperienza vecchia, che alla fine mi ha fatto passare al Mac, la questione è decisamente cambiata perché
+
+1039
+00:40:12,440 --> 00:40:14,920
+Roberto Marin: non hai più bisogno di tanti software.
+
+1040
+00:40:14,660 --> 00:40:18,260
+Roberto Marin: Installati sulla macchina in questo momento storico, in effetti,
+
+1041
+00:40:18,500 --> 00:40:22,260
+Roberto Marin: l'atteggiamento o il workflow che sta utilizzando Andrea è davvero
+
+1042
+00:40:22,640 --> 00:40:22,799
+Roberto Marin: molto
+
+1043
+00:40:23,119 --> 00:40:25,520
+Roberto Marin: molto interessante perché vi permette tutto sommato
+
+1044
+00:40:25,680 --> 00:40:27,839
+Roberto Marin: e correggimi se sbaglio anche qua Andrea
+
+1045
+00:40:28,079 --> 00:40:31,200
+Roberto Marin: che tu in realtà potessi essere operativo
+
+1046
+00:40:31,000 --> 00:40:33,320
+Roberto Marin: Anche con una macchina di qualcun altro.
+
+1047
+00:40:33,320 --> 00:40:34,200
+Andrea Ciraolo: Sì, esattamente.
+
+1048
+00:40:34,200 --> 00:40:37,240
+Andrea Ciraolo: Cosa che in alcuni sporadici casi succede.
+
+1049
+00:40:37,240 --> 00:40:38,440
+Andrea Ciraolo: Ricordo, per esempio,
+
+1050
+00:40:38,760 --> 00:40:40,200
+Andrea Ciraolo: un annetto fa più o meno
+
+1051
+00:40:40,360 --> 00:40:42,200
+Andrea Ciraolo: sono andato a un evento.
+
+1052
+00:40:42,579 --> 00:40:44,339
+Andrea Ciraolo: Arrivo all'evento, apro
+
+1053
+00:40:44,660 --> 00:40:50,420
+Andrea Ciraolo: il lo zaino per prendere il computer e mi rendo conto che nello zaino c'è solo la custodia del computer.
+
+1054
+00:40:49,600 --> 00:40:50,400
+Andrea Ciraolo: E non il computer.
+
+1055
+00:40:50,480 --> 00:40:51,360
+Filippo Strozzi: Urca, urca!
+
+1056
+00:40:51,520 --> 00:40:56,880
+Andrea Ciraolo: In quel caso una collega mi ha prestato il suo Mac, tra l'altro, e non ho avuto assolutamente nessun problema, perché
+
+1057
+00:40:57,040 --> 00:41:00,320
+Andrea Ciraolo: una volta che sono entrato con Chrome, navigazione in incognito.
+
+1058
+00:41:00,100 --> 00:41:04,820
+Andrea Ciraolo: Sono entrato in quei due o tre account che mi servivano e ho fatto tutto quello che devo fare.
+
+1059
+00:41:04,820 --> 00:41:08,900
+Andrea Ciraolo: Comunque non avrei registrato video in quella situazione, e quindi c'era tutto quello che mi serviva.
+
+1060
+00:41:08,900 --> 00:41:12,260
+Andrea Ciraolo: In particolare la parte di messaggi, diciamo così, per me.
+
+1061
+00:41:12,500 --> 00:41:16,980
+Andrea Ciraolo: Un aspetto molto sensibile, tornando un attimo un passo indietro a quello che tu dicevi.
+
+1062
+00:41:16,980 --> 00:41:18,740
+Andrea Ciraolo: Forse l'hai notato anche tu, Roberto, per dire
+
+1063
+00:41:18,900 --> 00:41:20,340
+Andrea Ciraolo: vediamo questo piccolo dietro le quinte.
+
+1064
+00:41:20,340 --> 00:41:25,220
+Andrea Ciraolo: Tu Roberto mi hai detto a un certo punto, facciamo un gruppo su Telegram per le parti organizzative.
+
+1065
+00:41:24,600 --> 00:41:28,360
+Andrea Ciraolo: Io ti ho detto, guarda, se è possibile, questa cosa magari facciamola via mail.
+
+1066
+00:41:28,360 --> 00:41:30,040
+Andrea Ciraolo: Perché devo ammettere che un po'
+
+1067
+00:41:30,200 --> 00:41:37,640
+Andrea Ciraolo: per necessità di sopravvivenza e un po' per mia attitudine personale, io tendo ad essere molto, diciamo, rigido, tra virgolette, o.
+
+1068
+00:41:37,760 --> 00:41:44,960
+Andrea Ciraolo: dalle persone, a volte viene vista come rigidità, ad avere molta attenzione ai miei flussi di input legati
+
+1069
+00:41:45,200 --> 00:41:46,400
+Andrea Ciraolo: alle comunicazioni.
+
+1070
+00:41:46,400 --> 00:41:48,000
+Andrea Ciraolo: E quindi sostanzialmente
+
+1071
+00:41:48,000 --> 00:41:50,000
+Andrea Ciraolo: Cerco di porci attenzione, per esempio
+
+1072
+00:41:50,160 --> 00:41:58,160
+Andrea Ciraolo: togliendo le notifiche sicuramente dal computer, ma spesso anche dal telefono e così via, e cercando di dirottare le comunicazioni, diciamo.
+
+1073
+00:41:58,140 --> 00:42:03,660
+Andrea Ciraolo: in canali specifici in base al tenore di quella conversazione, in particolare per esempio
+
+1074
+00:42:03,819 --> 00:42:07,900
+Andrea Ciraolo: tutte le cose che possono in qualche modo rientrare nel mio ambito lavorativo
+
+1075
+00:42:07,760 --> 00:42:15,760
+Andrea Ciraolo: Cerco di dirottarle sulla mail piuttosto che sugli altri strumenti che invece tengo più per tutta la mia vita, diciamo così, più privata.
+
+1076
+00:42:15,540 --> 00:42:17,940
+Andrea Ciraolo: E una cosa che è carina, per esempio, del mio workflow
+
+1077
+00:42:18,100 --> 00:42:19,620
+Andrea Ciraolo: rispetto a questo aspetto è che
+
+1078
+00:42:19,940 --> 00:42:22,500
+Andrea Ciraolo: io utilizzo moltissimo uno stream deck, che è
+
+1079
+00:42:23,380 --> 00:42:27,300
+Andrea Ciraolo: un tastierino con dei pulsanti programmabili sostanzialmente.
+
+1080
+00:42:26,800 --> 00:42:28,720
+Andrea Ciraolo: e ognuno di questi pulsanti ha
+
+1081
+00:42:28,960 --> 00:42:31,440
+Andrea Ciraolo: un effetto, diciamo, fa delle cose.
+
+1082
+00:42:31,520 --> 00:42:32,880
+Andrea Ciraolo: Io ho in una fila
+
+1083
+00:42:33,040 --> 00:42:38,080
+Andrea Ciraolo: i pulsanti che mi aprono le applicazioni per mandare e ricevere messaggi.
+
+1084
+00:42:37,600 --> 00:42:38,400
+Andrea Ciraolo: Quindi io apro
+
+1085
+00:42:38,560 --> 00:42:39,360
+Andrea Ciraolo: Telegram, poi apro
+
+1086
+00:42:39,520 --> 00:42:40,480
+Andrea Ciraolo: Whatsapp, poi apro
+
+1087
+00:42:40,640 --> 00:42:47,840
+Andrea Ciraolo: la mail, faccio tutto quello che devo fare e l'ultimo pulsante l'ho programmato io e mi chiude tutte quelle cose che ho appena aperto.
+
+1088
+00:42:47,080 --> 00:42:49,160
+Andrea Ciraolo: Quindi ho il pulsante con una piantina
+
+1089
+00:42:49,480 --> 00:42:56,120
+Andrea Ciraolo: che chiude tutti i messaggi, per cui sostanzialmente quello che cerco di fare quando lavoro non ci riesco sempre purtroppo.
+
+1090
+00:42:55,680 --> 00:43:01,120
+Andrea Ciraolo: e gestisco i messaggi, leggo e rispondo, poi chiudo tutto e mi metto a fare altri task.
+
+1091
+00:43:01,120 --> 00:43:03,920
+Filippo Strozzi: Bello, se sei molto organizzato, ah io lo adoro, poi
+
+1092
+00:43:05,040 --> 00:43:05,840
+Filippo Strozzi: adesso.
+
+1093
+00:43:05,660 --> 00:43:06,380
+Filippo Strozzi: per chi non
+
+1094
+00:43:06,860 --> 00:43:07,660
+Filippo Strozzi: ci ascolta
+
+1095
+00:43:07,980 --> 00:43:09,980
+Filippo Strozzi: e non vede quello che stiamo vedendo noi
+
+1096
+00:43:10,140 --> 00:43:11,260
+Filippo Strozzi: io bramavo
+
+1097
+00:43:12,140 --> 00:43:13,500
+Filippo Strozzi: nell'inquadratore di Andrea
+
+1098
+00:43:13,740 --> 00:43:14,940
+Filippo Strozzi: c'è lo stream deck ben
+
+1099
+00:43:15,160 --> 00:43:16,040
+Filippo Strozzi: ben in vista
+
+1100
+00:43:16,360 --> 00:43:17,960
+Filippo Strozzi: ed è uno di quegli oggetti magici
+
+1101
+00:43:18,120 --> 00:43:18,760
+Filippo Strozzi: che io
+
+1102
+00:43:19,240 --> 00:43:20,360
+Filippo Strozzi: abramerei per
+
+1103
+00:43:21,000 --> 00:43:22,520
+Filippo Strozzi: lanciare tutte le automazioni che
+
+1104
+00:43:22,680 --> 00:43:24,840
+Filippo Strozzi: mi piace fare ma che mi sto astenendo perché
+
+1105
+00:43:25,080 --> 00:43:25,640
+Filippo Strozzi: di fatto
+
+1106
+00:43:25,700 --> 00:43:28,820
+Filippo Strozzi: È un acquisto compulsivo, secondo me.
+
+1107
+00:43:29,060 --> 00:43:36,339
+Andrea Ciraolo: Guarda, nel mio caso ti dirò: non credevo che questo affare fosse così tanto utile quanto poi si è rivelato.
+
+1108
+00:43:36,339 --> 00:43:37,859
+Andrea Ciraolo: Cioè io oggi.
+
+1109
+00:43:37,380 --> 00:43:39,700
+Andrea Ciraolo: mi rendo conto proprio che a livello motorio
+
+1110
+00:43:39,860 --> 00:43:41,700
+Andrea Ciraolo: è di una comodità pazzesca.
+
+1111
+00:43:41,700 --> 00:43:46,100
+Andrea Ciraolo: Fa poche cose, se ci penso, ma quelle poche cose che fa.
+
+1112
+00:43:47,300 --> 00:43:50,820
+Andrea Ciraolo: Mi velocizzano di quei microsecondi che mi fa molto piacere.
+
+1113
+00:43:50,820 --> 00:43:57,860
+Andrea Ciraolo: Cioè, vi dico una stupidaggine: io ho nella riga superiore dello Stream Deck le emoji più frequenti che utilizzo.
+
+1114
+00:43:57,700 --> 00:44:01,300
+Andrea Ciraolo: E quindi se devo mandare un cuoricino io premo il tasto del cuoricino.
+
+1115
+00:44:01,380 --> 00:44:03,860
+Andrea Ciraolo: Voi dite, cosa ti costa premere Windows.
+
+1116
+00:44:04,420 --> 00:44:07,460
+Andrea Ciraolo: e scrivere cuore e mettere il cuore?
+
+1117
+00:44:06,900 --> 00:44:10,740
+Andrea Ciraolo: Non mi costa nulla, certamente, ma poterlo fare con un tasto
+
+1118
+00:44:10,980 --> 00:44:13,619
+Andrea Ciraolo: mi toglie quella piccolissima frizione
+
+1119
+00:44:13,779 --> 00:44:14,099
+Andrea Ciraolo: che
+
+1120
+00:44:14,420 --> 00:44:15,859
+Andrea Ciraolo: ammetto che mi fa piacere togliermi.
+
+1121
+00:44:15,859 --> 00:44:16,579
+Roberto Marin: Eh sì, perché togli
+
+1122
+00:44:16,740 --> 00:44:17,539
+Roberto Marin: frizione qua, trogli
+
+1123
+00:44:17,700 --> 00:44:19,859
+Roberto Marin: frizione là, alla fine guadagni.
+
+1124
+00:44:19,700 --> 00:44:22,099
+Roberto Marin: Un po' di minuti alla giornata, tutto sommato.
+
+1125
+00:44:22,099 --> 00:44:22,339
+Filippo Strozzi: Ecco
+
+1126
+00:44:22,579 --> 00:44:23,540
+Filippo Strozzi: ti faccio una domanda perché
+
+1127
+00:44:23,700 --> 00:44:24,099
+Filippo Strozzi: appunto
+
+1128
+00:44:24,420 --> 00:44:25,380
+Filippo Strozzi: cercherò di non comprare
+
+1129
+00:44:25,540 --> 00:44:26,099
+Filippo Strozzi: lo stream,
+
+1130
+00:44:26,420 --> 00:44:27,380
+Filippo Strozzi: lo dico in diretta.
+
+1131
+00:44:28,140 --> 00:44:31,180
+Roberto Marin: Non ci crede nessuno, non ti crede nessuno.
+
+1132
+00:44:31,180 --> 00:44:33,820
+Filippo Strozzi: Ho anche messo il camer camera per controllare i prezzi,
+
+1133
+00:44:34,140 --> 00:44:35,900
+Filippo Strozzi: ma mi sono a stiluto varie roba,
+
+1134
+00:44:36,700 --> 00:44:37,740
+Andrea Ciraolo: non scende molto.
+
+1135
+00:44:37,900 --> 00:44:39,660
+Filippo Strozzi: Lo so, infatti appunto.
+
+1136
+00:44:39,240 --> 00:44:40,120
+Filippo Strozzi: Ovviamente adesso
+
+1137
+00:44:40,520 --> 00:44:46,920
+Filippo Strozzi: anche tu lavori prevalentemente, chiamiamola così da una scrivania, però ovviamente ogni tanto ti tocca anche fare le cose fuori
+
+1138
+00:44:47,680 --> 00:44:49,120
+Filippo Strozzi: Il mio terrore, diciamo, è
+
+1139
+00:44:49,280 --> 00:44:50,880
+Filippo Strozzi: io ho sempre cercato, vabbè
+
+1140
+00:44:51,040 --> 00:44:54,000
+Filippo Strozzi: adesso è un setup un po' diverso, ma ho sempre cercato di avere
+
+1141
+00:44:54,480 --> 00:44:59,600
+Filippo Strozzi: computer di casa, computer dell'ufficio, diciamo, non solo sincronizzati, ma anche con le stesse.
+
+1142
+00:44:59,480 --> 00:45:04,119
+Filippo Strozzi: capacità, non so se mi spiego, di modo che non devo fare il cambio mentale di
+
+1143
+00:45:04,520 --> 00:45:05,880
+Filippo Strozzi: impostazione.
+
+1144
+00:45:06,200 --> 00:45:07,960
+Filippo Strozzi: Quando non hai lo stream deck,
+
+1145
+00:45:09,160 --> 00:45:09,559
+Filippo Strozzi: ti senti
+
+1146
+00:45:09,720 --> 00:45:10,599
+Filippo Strozzi: rallentato?
+
+1147
+00:45:10,599 --> 00:45:14,279
+Filippo Strozzi: O alla fine poi sì, è una comodità, ma non è.
+
+1148
+00:45:14,560 --> 00:45:17,520
+Filippo Strozzi: Non ti cambia la vita, non so se mi spiego, comunque non ti rallenti.
+
+1149
+00:45:17,520 --> 00:45:19,120
+Andrea Ciraolo: No, no, è molto corretto quello che dici
+
+1150
+00:45:19,280 --> 00:45:19,840
+Andrea Ciraolo: ed è
+
+1151
+00:45:20,320 --> 00:45:24,080
+Andrea Ciraolo: una paura super fondata, cioè è esattamente quello che succede.
+
+1152
+00:45:23,500 --> 00:45:29,020
+Andrea Ciraolo: Ma questo non vale solo per lo Stream Deck per me ma vale proprio PC fisso versus PC portatile.
+
+1153
+00:45:29,020 --> 00:45:31,820
+Andrea Ciraolo: Io vivo il passaggio dal fisso al portatile
+
+1154
+00:45:32,339 --> 00:45:36,020
+Andrea Ciraolo: Con la stessa frizione che ho quando passo dal portatile al telefono, cioè
+
+1155
+00:45:36,260 --> 00:45:40,980
+Andrea Ciraolo: è proprio un altro dispositivo col quale faccio altre cose in maniera diversa.
+
+1156
+00:45:41,860 --> 00:45:43,380
+Andrea Ciraolo: Non sono due computer,
+
+1157
+00:45:43,620 --> 00:45:55,460
+Andrea Ciraolo: ma uno è il computer e l'altro è il portatile, sono proprio due cose diverse e il portatile mi crea uno stress maggiore del fisso, così come il telefono mi crea uno stress maggiore del portatile del fisso.
+
+1158
+00:45:54,700 --> 00:46:02,220
+Andrea Ciraolo: cioè più è piccolo il dispositivo che sto usando e meno funzioni ha, diciamo, fisiche, il mouse, la tastiera
+
+1159
+00:46:02,380 --> 00:46:03,500
+Andrea Ciraolo: meccanica.
+
+1160
+00:46:03,260 --> 00:46:05,980
+Andrea Ciraolo: Lo stream deck, lo schermo da
+
+1161
+00:46:06,220 --> 00:46:08,300
+Andrea Ciraolo: 34 pollici, quello che è, più
+
+1162
+00:46:08,460 --> 00:46:10,060
+Andrea Ciraolo: i due schermi di supporto.
+
+1163
+00:46:10,060 --> 00:46:10,860
+Andrea Ciraolo: Meno cose ha
+
+1164
+00:46:11,020 --> 00:46:15,100
+Andrea Ciraolo: l'hardware che sto usando, più cose devo tenere nella mia testa.
+
+1165
+00:46:14,700 --> 00:46:17,900
+Andrea Ciraolo: E per me è un gran casino tenere cose nella testa, per cui
+
+1166
+00:46:18,060 --> 00:46:19,740
+Andrea Ciraolo: sento proprio quella frizione.
+
+1167
+00:46:19,740 --> 00:46:21,339
+Andrea Ciraolo: Nel caso del portatile
+
+1168
+00:46:21,500 --> 00:46:24,940
+Andrea Ciraolo: addirittura a volte succede, anche se sporadicamente,
+
+1169
+00:46:24,800 --> 00:46:28,640
+Andrea Ciraolo: Che la mia mano sinistra vada a cercare uno stream deck che non c'è, a volte.
+
+1170
+00:46:28,640 --> 00:46:30,640
+Andrea Ciraolo: E poi mi ricordo che no, per fare questa roba sul
+
+1171
+00:46:30,800 --> 00:46:32,560
+Andrea Ciraolo: portatile devo usare la scorciatoia.
+
+1172
+00:46:32,560 --> 00:46:33,440
+Andrea Ciraolo: Devo dirti che
+
+1173
+00:46:33,680 --> 00:46:36,400
+Andrea Ciraolo: questo ha sicuramente lo svantaggio che io sono molto
+
+1174
+00:46:36,640 --> 00:46:37,360
+Andrea Ciraolo: crivania
+
+1175
+00:46:37,600 --> 00:46:39,520
+Andrea Ciraolo: oriented, quindi.
+
+1176
+00:46:38,900 --> 00:46:41,539
+Andrea Ciraolo: Quando non ho la mia scrivania ne sento la mancanza.
+
+1177
+00:46:41,539 --> 00:46:42,420
+Andrea Ciraolo: Tutto sommato
+
+1178
+00:46:42,660 --> 00:46:42,980
+Andrea Ciraolo: nel
+
+1179
+00:46:43,140 --> 00:46:44,819
+Andrea Ciraolo: calcolo costi-benefici che ho fatto
+
+1180
+00:46:44,980 --> 00:46:45,299
+Andrea Ciraolo: mi sono detto
+
+1181
+00:46:45,460 --> 00:46:45,940
+Andrea Ciraolo: la scrivania
+
+1182
+00:46:46,099 --> 00:46:46,980
+Andrea Ciraolo: fortunatamente ce l'ho
+
+1183
+00:46:47,140 --> 00:46:53,460
+Andrea Ciraolo: è a mia disposizione, quindi posso sopportare lo svantaggio di sentirmi un po' castrato quella volta che devo lavorare al bar o.
+
+1184
+00:46:53,380 --> 00:46:56,340
+Andrea Ciraolo: oppure in albergo, ma visto che succede così raramente
+
+1185
+00:46:56,500 --> 00:47:00,420
+Andrea Ciraolo: preferisco essere più performante invece nel 95% del mio tempo.
+
+1186
+00:47:01,460 --> 00:47:02,020
+Filippo Strozzi: Infatti io
+
+1187
+00:47:02,000 --> 00:47:02,240
+Filippo Strozzi: Adesso
+
+1188
+00:47:02,480 --> 00:47:04,880
+Filippo Strozzi: io vivo più di scorciatoia da tastiera,
+
+1189
+00:47:05,600 --> 00:47:06,240
+Filippo Strozzi: proprio perché
+
+1190
+00:47:06,400 --> 00:47:07,360
+Filippo Strozzi: tra virgolette
+
+1191
+00:47:07,520 --> 00:47:07,760
+Filippo Strozzi: sono.
+
+1192
+00:47:07,760 --> 00:47:07,840
+Filippo Strozzi: .
+
+1193
+00:47:08,000 --> 00:47:11,760
+Filippo Strozzi: le posso spostare in qualsiasi computer, mettiamolo così, poi è ovvio che.
+
+1194
+00:47:11,920 --> 00:47:14,160
+Filippo Strozzi: Io davanti un 27 pollici 5k
+
+1195
+00:47:12,080 --> 00:47:12,400
+Filippo Strozzi: .
+
+1196
+00:47:12,400 --> 00:47:12,720
+Filippo Strozzi: .
+
+1197
+00:47:14,640 --> 00:47:14,960
+Filippo Strozzi: che
+
+1198
+00:47:15,280 --> 00:47:16,080
+Filippo Strozzi: è vecchio
+
+1199
+00:47:16,240 --> 00:47:19,520
+Filippo Strozzi: ma appunto mi concede di avere sostanzialmente due fogli
+
+1200
+00:47:19,680 --> 00:47:24,880
+Filippo Strozzi: a quattro uno di fianco all'altro, quindi avere da una parte dove scrivo, dall'altra dove leggo.
+
+1201
+00:47:24,480 --> 00:47:26,240
+Filippo Strozzi: quello su cui devo scrivere casomai
+
+1202
+00:47:26,400 --> 00:47:31,359
+Filippo Strozzi: quindi è ovviamente un flusso di lavoro molto comodo sì già anche il 16 pollici che è uno schermo enorme
+
+1203
+00:47:31,520 --> 00:47:32,480
+Filippo Strozzi: tra virgolette
+
+1204
+00:47:33,080 --> 00:47:33,880
+Filippo Strozzi: Non mi dà
+
+1205
+00:47:34,360 --> 00:47:35,880
+Filippo Strozzi: lo stesso comfort,
+
+1206
+00:47:36,680 --> 00:47:38,600
+Filippo Strozzi: la stessa comodità, mettiamola così.
+
+1207
+00:47:38,600 --> 00:47:39,880
+Filippo Strozzi: Infatti, lo stream deck,
+
+1208
+00:47:40,040 --> 00:47:41,960
+Filippo Strozzi: appunto, anche io prenderei quello enorme
+
+1209
+00:47:42,120 --> 00:47:43,240
+Filippo Strozzi: se devo prenderlo.
+
+1210
+00:47:43,240 --> 00:47:47,480
+Filippo Strozzi: Però poi appunto è un oggetto che non porti in giro, cioè, o se lo porti in giro.
+
+1211
+00:47:47,200 --> 00:47:54,320
+Filippo Strozzi: è rischiosissimo romperlo secondo me e comunque non è che poi tiro fuori il portatile lo stream deck e tutto il resto
+
+1212
+00:47:54,480 --> 00:47:55,200
+Filippo Strozzi: si è proprio così
+
+1213
+00:47:55,520 --> 00:47:56,720
+Filippo Strozzi: dalla chat mi dicono
+
+1214
+00:47:56,700 --> 00:47:59,180
+Filippo Strozzi: che c'è anche la possibilità di usare lo sa iPad però se
+
+1215
+00:47:59,579 --> 00:48:00,140
+Filippo Strozzi: io sono
+
+1216
+00:48:00,300 --> 00:48:01,500
+Filippo Strozzi: un amante del tablet
+
+1217
+00:48:01,660 --> 00:48:05,500
+Filippo Strozzi: mettiamola in questi termini anche se progressivamente lo uso sempre meno
+
+1218
+00:48:05,660 --> 00:48:07,579
+Filippo Strozzi: però il problema è il solito cioè
+
+1219
+00:48:07,280 --> 00:48:09,280
+Filippo Strozzi: se devo portarmi il tablet e
+
+1220
+00:48:09,440 --> 00:48:10,800
+Filippo Strozzi: il portatile cioè
+
+1221
+00:48:10,960 --> 00:48:12,640
+Filippo Strozzi: che mobilità è dal mio punto di vista
+
+1222
+00:48:12,800 --> 00:48:13,839
+Filippo Strozzi: mettiamolo in questi termini
+
+1223
+00:48:14,000 --> 00:48:17,359
+Andrea Ciraolo: sì soprattutto se si riferisce allo stream deck in realtà lo stream
+
+1224
+00:48:17,380 --> 00:48:25,140
+Andrea Ciraolo: stream deck lo puoi installare anche sul telefono, non necessariamente sul tablet, per cui da un punto di vista della portabilità non sarebbe un problema.
+
+1225
+00:48:25,140 --> 00:48:27,460
+Andrea Ciraolo: Devo dirti che perderebbe un po' il suo
+
+1226
+00:48:27,660 --> 00:48:36,060
+Andrea Ciraolo: scopo, nel senso che lo scopo di uno strumento come lo Stream Deck è proprio tattile, nel senso che questi tastini sono tasti fisici, sono tasti in rilievo.
+
+1227
+00:48:35,700 --> 00:48:35,859
+Andrea Ciraolo: E
+
+1228
+00:48:36,180 --> 00:48:40,820
+Andrea Ciraolo: tu praticamente non li guardi quando li premi, ma sai già dove si trovano posizionati, perché
+
+1229
+00:48:41,060 --> 00:48:43,140
+Andrea Ciraolo: è un oggetto che è qui con questo scopo.
+
+1230
+00:48:43,140 --> 00:48:45,060
+Filippo Strozzi: È una fisicità sua, diciamo, esatto.
+
+1231
+00:48:45,140 --> 00:48:47,460
+Andrea Ciraolo: Eh sì, ma per dirti, quando io apro.
+
+1232
+00:48:47,260 --> 00:48:57,020
+Andrea Ciraolo: Finestre dei messaggi di cui ti parlavo prima, io semplicemente so che sono una dopo l'altra, quindi io col dito non guardo neanche, io premo una, poi mi rendo conto quando sono al tasto successivo, lo premo e poi vado avanti.
+
+1233
+00:48:57,020 --> 00:49:01,180
+Andrea Ciraolo: Fare la stessa cosa sul telefono, non è lo stesso, poi certo.
+
+1234
+00:49:00,940 --> 00:49:11,020
+Andrea Ciraolo: Ognuno ha le sue esigenze, ognuno ha le sue piccole fisse, ognuno ha le sue idiosincrasie, per cui probabilmente il 99% delle persone si troveranno bene.
+
+1235
+00:49:10,760 --> 00:49:11,400
+Andrea Ciraolo: Con il A
+
+1236
+00:49:11,560 --> 00:49:16,360
+Andrea Ciraolo: si troverebbero bene anche con lo stream deck sul telefono, nel mio caso, non credo che sarebbe la stessa cosa.
+
+1237
+00:49:16,360 --> 00:49:16,680
+Roberto Marin: Sarebbe
+
+1238
+00:49:17,240 --> 00:49:21,320
+Roberto Marin: interessante provarlo, nel senso che io, per esempio, non ne sento francamente molto
+
+1239
+00:49:21,480 --> 00:49:23,000
+Roberto Marin: la necessità.
+
+1240
+00:49:22,620 --> 00:49:22,940
+Roberto Marin: Ma
+
+1241
+00:49:23,260 --> 00:49:24,140
+Roberto Marin: sicuramente
+
+1242
+00:49:24,380 --> 00:49:27,500
+Roberto Marin: ne avessi bisogno, probabilmente sarei molto attirato
+
+1243
+00:49:27,740 --> 00:49:28,700
+Roberto Marin: da averlo
+
+1244
+00:49:28,860 --> 00:49:35,020
+Roberto Marin: sull'iPhone, sul telefono, ma per il semplice fatto che, a differenza forza, purtroppo da un certo punto di vista.
+
+1245
+00:49:34,400 --> 00:49:37,680
+Roberto Marin: lavoro anche spesso in mobilità e la cosa mi diverte anche molto
+
+1246
+00:49:37,920 --> 00:49:41,440
+Roberto Marin: sarebbe interessante avere in effetti avere lì l'iPhone che ti permette di far
+
+1247
+00:49:41,599 --> 00:49:42,319
+Roberto Marin: di comandare
+
+1248
+00:49:42,880 --> 00:49:45,599
+Roberto Marin: qualcosa direttamente sul computer.
+
+1249
+00:49:45,599 --> 00:49:45,760
+Roberto Marin: Con
+
+1250
+00:49:45,920 --> 00:49:46,400
+Filippo Strozzi: la modica
+
+1251
+00:49:46,559 --> 00:49:49,440
+Filippo Strozzi: cifra che non mi ricordo puoi aver la licenza Lifetime
+
+1252
+00:49:49,760 --> 00:49:51,200
+Filippo Strozzi: recentemente hanno fatto, perché
+
+1253
+00:49:51,359 --> 00:49:53,440
+Filippo Strozzi: prima era pagamento, c'è abbonamento.
+
+1254
+00:49:53,700 --> 00:49:55,859
+Filippo Strozzi: Era veramente inutile dal mio punto di vista però.
+
+1255
+00:49:56,020 --> 00:49:56,339
+Roberto Marin: E di fare
+
+1256
+00:49:56,579 --> 00:49:57,619
+Roberto Marin: per quello che avevano cambiato
+
+1257
+00:49:57,780 --> 00:49:58,740
+Roberto Marin: sistema probabilmente.
+
+1258
+00:49:58,820 --> 00:49:58,900
+Roberto Marin: Non
+
+1259
+00:49:59,060 --> 00:50:02,820
+Filippo Strozzi: lo so, il gatto fa delle cose ben fatte, io continuo a ripetere, sono.
+
+1260
+00:50:02,820 --> 00:50:02,980
+Filippo Strozzi: .
+
+1261
+00:50:03,000 --> 00:50:03,400
+Filippo Strozzi: Bravo
+
+1262
+00:50:03,640 --> 00:50:04,280
+Filippo Strozzi: troppe cose del
+
+1263
+00:50:04,440 --> 00:50:05,800
+Filippo Strozzi: gato nell'ultimo periodo.
+
+1264
+00:50:05,800 --> 00:50:09,880
+Filippo Strozzi: Però so anche che sono acquisti compulsivi e che bisogna che mi trattenga, come
+
+1265
+00:50:10,040 --> 00:50:10,760
+Filippo Strozzi: si suol dire.
+
+1266
+00:50:10,760 --> 00:50:17,960
+Andrea Ciraolo: Il gato è uno di quei brand molto improntati all'entertainment e al gaming in particolare, ma.
+
+1267
+00:50:17,340 --> 00:50:21,020
+Andrea Ciraolo: Come tanti brand, poi quelle cose lì possono essere usate
+
+1268
+00:50:21,180 --> 00:50:23,740
+Roberto Marin: per la produttività, certo, come tante cose
+
+1269
+00:50:24,460 --> 00:50:28,860
+Roberto Marin: abbiamo visto almeno nel mio settore, ad esempio, i motori grafici dei videogiochi
+
+1270
+00:50:29,020 --> 00:50:29,980
+Roberto Marin: adesso sono.
+
+1271
+00:50:29,859 --> 00:50:30,740
+Roberto Marin: A pieno titolo
+
+1272
+00:50:30,900 --> 00:50:32,900
+Roberto Marin: Sistemi per fare dei rendering, e quindi
+
+1273
+00:50:33,220 --> 00:50:36,099
+Roberto Marin: direi che chiude perfettamente il cerchio
+
+1274
+00:50:36,980 --> 00:50:38,099
+Roberto Marin: dell'entertainment.
+
+1275
+00:50:38,440 --> 00:50:41,320
+Roberto Marin: alla fine rientra in tutti i nostri lavori praticamente
+
+1276
+00:50:42,280 --> 00:50:43,560
+Roberto Marin: a proposito di lavoro
+
+1277
+00:50:43,720 --> 00:50:45,480
+Roberto Marin: adesso penso che dopo un'ora
+
+1278
+00:50:45,640 --> 00:50:47,640
+Roberto Marin: e qualcosa possiamo andare tranquillamente
+
+1279
+00:50:47,840 --> 00:50:52,080
+Roberto Marin: andare a chiudere la puntata visto che immagino che anche il nostro Andrea
+
+1280
+00:50:52,240 --> 00:50:53,760
+Roberto Marin: abbia un sacco di cose da fare
+
+1281
+00:50:53,920 --> 00:50:56,880
+Roberto Marin: tipicamente e conoscendolo ma vado così a stima
+
+1282
+00:50:56,940 --> 00:50:57,260
+Roberto Marin: Volevo
+
+1283
+00:50:57,420 --> 00:50:57,660
+Roberto Marin: tanto
+
+1284
+00:50:57,820 --> 00:51:01,660
+Roberto Marin: farti questa domanda, che poi bisogna lasciare anche un po' di spazio a Filippo.
+
+1285
+00:51:01,660 --> 00:51:03,020
+Roberto Marin: Che, nella scaletta, ovviamente
+
+1286
+00:51:03,180 --> 00:51:06,700
+Roberto Marin: ne ha messo finché basta, perché giustamente lui è molto preciso.
+
+1287
+00:51:07,900 --> 00:51:09,980
+Roberto Marin: Non è necessario.
+
+1288
+00:51:10,140 --> 00:51:11,660
+Roberto Marin: Mettiamone che può essere interessante.
+
+1289
+00:51:11,859 --> 00:51:13,460
+Roberto Marin: Abbiamo tempo comunque, non vi preoccupate.
+
+1290
+00:51:13,460 --> 00:51:14,500
+Roberto Marin: Ah ok, perfetto.
+
+1291
+00:51:14,500 --> 00:51:14,980
+Roberto Marin: Comunque è
+
+1292
+00:51:15,140 --> 00:51:15,940
+Roberto Marin: interessante secondo me
+
+1293
+00:51:16,099 --> 00:51:17,700
+Roberto Marin: anche questo tipo di raffronto e anche
+
+1294
+00:51:17,859 --> 00:51:20,820
+Roberto Marin: soprattutto vi raccontiamo anche il dietro al quinte di questa scaletta
+
+1295
+00:51:20,980 --> 00:51:21,460
+Roberto Marin: che così vi
+
+1296
+00:51:21,619 --> 00:51:22,579
+Roberto Marin: dice bene.
+
+1297
+00:51:22,380 --> 00:51:24,220
+Roberto Marin: che tipo di persone siamo
+
+1298
+00:51:24,380 --> 00:51:29,500
+Roberto Marin: e la domanda che ci siamo poste verso la parte finale di questa puntata era chiedere ad Andrea
+
+1299
+00:51:29,660 --> 00:51:31,020
+Roberto Marin: se ci poteva parlare di.
+
+1300
+00:51:31,059 --> 00:51:35,140
+Roberto Marin: tre software di cui non può fare a meno nel suo lavoro digitale.
+
+1301
+00:51:35,140 --> 00:51:36,260
+Andrea Ciraolo: Direi forse tre
+
+1302
+00:51:36,420 --> 00:51:38,660
+Andrea Ciraolo: software barra applicazioni web.
+
+1303
+00:51:38,660 --> 00:51:41,460
+Andrea Ciraolo: Allora se devo dirvi quelle più aperte
+
+1304
+00:51:43,660 --> 00:51:44,060
+Andrea Ciraolo: Sì,
+
+1305
+00:51:44,300 --> 00:51:47,500
+Andrea Ciraolo: ci ho pensato un attimo per essere sicuro, ma quelle più aperte
+
+1306
+00:51:47,740 --> 00:51:51,420
+Andrea Ciraolo: in assoluto in termini proprio di percentuale di tempo.
+
+1307
+00:51:50,840 --> 00:51:54,440
+Andrea Ciraolo: Sono Gmail, Google Calendar e Tudoist.
+
+1308
+00:51:54,440 --> 00:51:58,120
+Andrea Ciraolo: Sono senza dubbio le cose su cui proprio io vivo letteralmente durante
+
+1309
+00:51:58,520 --> 00:51:59,000
+Andrea Ciraolo: il mio lavoro
+
+1310
+00:51:59,160 --> 00:52:02,360
+Andrea Ciraolo: e senza le quali non riuscirei a fare quello che faccio.
+
+1311
+00:52:01,800 --> 00:52:03,720
+Andrea Ciraolo: Gmail per ovvi motivi,
+
+1312
+00:52:03,880 --> 00:52:04,600
+Andrea Ciraolo: calendar
+
+1313
+00:52:04,760 --> 00:52:05,560
+Andrea Ciraolo: perché per me
+
+1314
+00:52:05,720 --> 00:52:14,200
+Andrea Ciraolo: al netto della quantità di appuntamenti e di attività che svolgo, ma così come Tudoist, per certi versi, io ho proprio bisogno.
+
+1315
+00:52:13,700 --> 00:52:14,579
+Andrea Ciraolo: Per ragioni
+
+1316
+00:52:14,740 --> 00:52:16,900
+Andrea Ciraolo: diciamo strutturali del mio cervello
+
+1317
+00:52:17,220 --> 00:52:22,740
+Andrea Ciraolo: di scaricare la RAM del cervello su dei supporti fisici e quindi trasferire su hard disk
+
+1318
+00:52:22,980 --> 00:52:23,780
+Andrea Ciraolo: sostanzialmente
+
+1319
+00:52:24,020 --> 00:52:25,220
+Andrea Ciraolo: e calendar e to do list
+
+1320
+00:52:25,460 --> 00:52:27,700
+Andrea Ciraolo: fanno esattamente questa cosa, cioè calendar.
+
+1321
+00:52:27,200 --> 00:52:28,240
+Andrea Ciraolo: e ciò che mi dice
+
+1322
+00:52:28,400 --> 00:52:31,040
+Andrea Ciraolo: cosa farò nell'arco della mia giornata, solo
+
+1323
+00:52:31,280 --> 00:52:38,560
+Andrea Ciraolo: per farvi un esempio che potrebbe farvi sorridere, ma io ho ricordato stamattina perché ho guardato calendar di avere questa intervista.
+
+1324
+00:52:38,000 --> 00:52:41,280
+Andrea Ciraolo: Ed è quello che succede per tutti i miei appuntamenti, ovviamente.
+
+1325
+00:52:41,280 --> 00:52:41,600
+Andrea Ciraolo: E tu
+
+1326
+00:52:41,760 --> 00:52:41,920
+Andrea Ciraolo: di
+
+1327
+00:52:42,080 --> 00:52:45,360
+Andrea Ciraolo: ist è la stessa cosa per le cose che devo fare: per cui io le scarico dalla testa e
+
+1328
+00:52:45,760 --> 00:52:47,440
+Andrea Ciraolo: le metto lì sopra.
+
+1329
+00:52:47,560 --> 00:52:49,640
+Andrea Ciraolo: Questi sono sicuramente i tre che uso di più.
+
+1330
+00:52:49,640 --> 00:52:53,080
+Filippo Strozzi: Ti faccio una domanda a questo punto, visto che mi hai lanciato un assist
+
+1331
+00:52:53,240 --> 00:52:53,880
+Filippo Strozzi: tra virgolette
+
+1332
+00:52:54,360 --> 00:52:55,640
+Filippo Strozzi: notevole.
+
+1333
+00:52:55,440 --> 00:52:56,480
+Filippo Strozzi: Anzi, due domande di
+
+1334
+00:52:56,640 --> 00:52:57,119
+Filippo Strozzi: televerdi.
+
+1335
+00:52:57,200 --> 00:52:57,520
+Filippo Strozzi: Guarda come
+
+1336
+00:52:57,680 --> 00:52:59,200
+Filippo Strozzi: sono messo, mi sono messo così
+
+1337
+00:52:59,839 --> 00:53:00,079
+Filippo Strozzi: ,
+
+1338
+00:53:01,200 --> 00:53:02,400
+Filippo Strozzi: calendario, cioè
+
+1339
+00:53:02,880 --> 00:53:05,119
+Filippo Strozzi: se puoi e se vuoi.
+
+1340
+00:53:04,820 --> 00:53:10,420
+Filippo Strozzi: Cioè, lo usi solo per appuntamenti, fai time blocking, fai cose strane, o sei molto, cioè, vuoi
+
+1341
+00:53:10,580 --> 00:53:10,900
+Filippo Strozzi: solo
+
+1342
+00:53:11,220 --> 00:53:11,460
+Filippo Strozzi: dire
+
+1343
+00:53:11,620 --> 00:53:14,180
+Filippo Strozzi: io oggi devo fare questo, questo, questo, in questo, questo
+
+1344
+00:53:14,660 --> 00:53:18,020
+Filippo Strozzi: orario, giusto come curiosità, visto che sono un appassionato di queste cose.
+
+1345
+00:53:18,500 --> 00:53:20,500
+Andrea Ciraolo: Il mio calendario nasce
+
+1346
+00:53:20,660 --> 00:53:21,940
+Andrea Ciraolo: decisamente per una
+
+1347
+00:53:22,180 --> 00:53:22,660
+Andrea Ciraolo: come dire
+
+1348
+00:53:22,820 --> 00:53:29,540
+Andrea Ciraolo: per una necessità super pratica di ricordarmi le cose che devo fare con altre persone, per cui sostanzialmente gli appuntamenti.
+
+1349
+00:53:29,540 --> 00:53:30,500
+Andrea Ciraolo: Ok.
+
+1350
+00:53:29,800 --> 00:53:32,120
+Andrea Ciraolo: E quello è lo scopo principale del mio calendario.
+
+1351
+00:53:32,360 --> 00:53:37,800
+Andrea Ciraolo: Successivamente si è aggiunto un altro scopo che è diventato quello di integrarlo con Calendly.
+
+1352
+00:53:37,300 --> 00:53:45,620
+Andrea Ciraolo: E quindi il mio calendario diventa anche lo strumento che serve alle persone per sapere quando io sono libero per prendere appuntamento con me.
+
+1353
+00:53:45,200 --> 00:53:47,599
+Andrea Ciraolo: E quindi io giro il calendry alle persone
+
+1354
+00:53:47,839 --> 00:53:51,280
+Andrea Ciraolo: che possono prenotarsi gli appuntamenti in autonomia.
+
+1355
+00:53:51,280 --> 00:53:51,920
+Andrea Ciraolo: Con persone
+
+1356
+00:53:52,079 --> 00:53:52,560
+Andrea Ciraolo: intendo
+
+1357
+00:53:52,800 --> 00:53:56,320
+Andrea Ciraolo: coloro che seguo nelle consulenze o nei channel check.
+
+1358
+00:53:55,900 --> 00:53:58,140
+Andrea Ciraolo: nelle attività professionali che svolgo.
+
+1359
+00:53:58,140 --> 00:53:58,539
+Andrea Ciraolo: Quindi,
+
+1360
+00:53:58,779 --> 00:54:00,220
+Andrea Ciraolo: secondo utilizzo.
+
+1361
+00:54:00,220 --> 00:54:02,940
+Andrea Ciraolo: Terzo e ultimo utilizzo che però è legato
+
+1362
+00:54:03,260 --> 00:54:03,579
+Andrea Ciraolo: più
+
+1363
+00:54:03,900 --> 00:54:10,779
+Andrea Ciraolo: squisitamente all'esigenza di bloccare i momenti così che non siano prenotabili dalle persone.
+
+1364
+00:54:11,020 --> 00:54:20,859
+Andrea Ciraolo: Il time blocking che tu citi, che tendo a fare, ma non perché io abbia, come dire, trovi efficace nell'usare la tecnica del time blocking, che purtroppo ad oggi per mio limite
+
+1365
+00:54:21,020 --> 00:54:23,099
+Andrea Ciraolo: non funziona benissimo con me.
+
+1366
+00:54:22,600 --> 00:54:24,360
+Andrea Ciraolo: Ma perché io devo proprio dirmi
+
+1367
+00:54:24,520 --> 00:54:25,080
+Andrea Ciraolo: per dire
+
+1368
+00:54:25,320 --> 00:54:26,520
+Andrea Ciraolo: lunedì a ora
+
+1369
+00:54:26,680 --> 00:54:29,960
+Andrea Ciraolo: di pranzo vado in palestra e se io questa cosa non la segno nel calendario
+
+1370
+00:54:30,120 --> 00:54:32,520
+Andrea Ciraolo: rischio che qualcuno si prenota un appuntamento in quel momento.
+
+1371
+00:54:32,520 --> 00:54:34,920
+Andrea Ciraolo: E allora devo necessariamente farlo.
+
+1372
+00:54:34,599 --> 00:54:35,079
+Filippo Strozzi: Ti faccio
+
+1373
+00:54:35,400 --> 00:54:40,280
+Filippo Strozzi: una domanda piccola parentesi, perché poi noi lo diamo per scontato perché ti conosciamo e così via.
+
+1374
+00:54:40,520 --> 00:54:40,680
+Filippo Strozzi: Metti
+
+1375
+00:54:40,839 --> 00:54:44,440
+Filippo Strozzi: il caso che qualcuno non ti conosca, oltre a ovviamente avere un canale YouTube,
+
+1376
+00:54:44,599 --> 00:54:46,760
+Filippo Strozzi: avere dei podcast e così via, cosa fai anche?
+
+1377
+00:54:46,760 --> 00:54:48,119
+Filippo Strozzi: Perché poi non l'abbiamo mai detto
+
+1378
+00:54:48,280 --> 00:54:48,920
+Filippo Strozzi: in.
+
+1379
+00:54:48,760 --> 00:54:49,880
+Filippo Strozzi: In maniera seria.
+
+1380
+00:54:49,880 --> 00:54:50,440
+Andrea Ciraolo: Beh, in realtà
+
+1381
+00:54:50,600 --> 00:54:54,440
+Andrea Ciraolo: il mio lavoro deriva tutto da questo, nel senso che avere un canale YouTube
+
+1382
+00:54:54,680 --> 00:54:57,560
+Andrea Ciraolo: fa sì che tu diventi un magnete di opportunità.
+
+1383
+00:54:57,100 --> 00:55:00,460
+Andrea Ciraolo: E quindi sostanzialmente il mio lavoro è avere un canale YouTube.
+
+1384
+00:55:00,780 --> 00:55:04,300
+Andrea Ciraolo: Se invece la domanda è come monetizzi il canale YouTube?
+
+1385
+00:55:04,860 --> 00:55:06,380
+Andrea Ciraolo: E come diciamo.
+
+1386
+00:55:06,440 --> 00:55:10,839
+Andrea Ciraolo: espandi l'ambito di quello che è lo scopo della tua vita professionale
+
+1387
+00:55:11,079 --> 00:55:12,680
+Andrea Ciraolo: allora la risposta è
+
+1388
+00:55:13,000 --> 00:55:16,920
+Andrea Ciraolo: faccio consulenze alle persone che vogliono imparare a comunicare online
+
+1389
+00:55:17,160 --> 00:55:20,120
+Andrea Ciraolo: Vendo corsi più o meno su questo stesso scopo.
+
+1390
+00:55:20,360 --> 00:55:20,920
+Andrea Ciraolo: Monetizzo.
+
+1391
+00:55:20,920 --> 00:55:21,400
+Andrea Ciraolo: Con.
+
+1392
+00:55:21,400 --> 00:55:22,040
+Filippo Strozzi: Aperta e chiusa
+
+1393
+00:55:22,200 --> 00:55:22,680
+Filippo Strozzi: parentesi.
+
+1394
+00:55:22,680 --> 00:55:23,000
+Filippo Strozzi: Avete fatto
+
+1395
+00:55:23,240 --> 00:55:25,240
+Filippo Strozzi: e Matteo un corso per fare podcast.
+
+1396
+00:55:25,240 --> 00:55:27,080
+Filippo Strozzi: Lo mettiamo così, visto che è recente.
+
+1397
+00:55:27,480 --> 00:55:30,440
+Andrea Ciraolo: Bravo, bravo, facciamo un po' di pubblicità.
+
+1398
+00:55:29,900 --> 00:55:35,020
+Andrea Ciraolo: Fai podcast com un fabbro e poi monetizzo con la monetizzazione di YouTube, con i video sponsorizzati, eccetera, eccetera.
+
+1399
+00:55:35,099 --> 00:55:35,900
+Filippo Strozzi: Sì sì, quindi comunque
+
+1400
+00:55:36,220 --> 00:55:38,220
+Filippo Strozzi: è un'attività anche relativamente complessa, perché
+
+1401
+00:55:38,380 --> 00:55:39,260
+Filippo Strozzi: cambia anche
+
+1402
+00:55:39,500 --> 00:55:41,339
+Filippo Strozzi: modo di lavorare, chiamiamolo così, cioè fare
+
+1403
+00:55:41,500 --> 00:55:42,140
+Filippo Strozzi: immagino, eh.
+
+1404
+00:55:42,220 --> 00:55:42,299
+Filippo Strozzi: fare
+
+1405
+00:55:42,460 --> 00:55:44,700
+Filippo Strozzi: un video richiede determinate sch.
+
+1406
+00:55:44,280 --> 00:55:44,440
+Filippo Strozzi: skill
+
+1407
+00:55:44,599 --> 00:55:45,720
+Filippo Strozzi: mettiamolo in questi termini,
+
+1408
+00:55:45,960 --> 00:55:49,560
+Filippo Strozzi: fare coaching o comunque attività di consulenza
+
+1409
+00:55:49,800 --> 00:55:50,680
+Filippo Strozzi: conto terzi
+
+1410
+00:55:50,839 --> 00:55:51,079
+Filippo Strozzi: è
+
+1411
+00:55:51,320 --> 00:55:51,880
+Filippo Strozzi: una cosa
+
+1412
+00:55:51,960 --> 00:55:53,400
+Filippo Strozzi: Presumo abbastanza diversa
+
+1413
+00:55:54,040 --> 00:55:55,720
+Filippo Strozzi: come approccio, come tutto.
+
+1414
+00:55:55,720 --> 00:56:03,080
+Andrea Ciraolo: Non solo, sono delle attività che richiedono una elevatissima creatività, anche quelle dove non penseresti di dover usare creatività.
+
+1415
+00:56:03,080 --> 00:56:05,320
+Andrea Ciraolo: Prendiamo per esempio una consulenza.
+
+1416
+00:56:04,900 --> 00:56:07,539
+Andrea Ciraolo: Di fatto quando io faccio una consulenza con un cliente
+
+1417
+00:56:07,859 --> 00:56:13,940
+Andrea Ciraolo: sono una specie di ChatGPT on steroids, quindi sono un ampliamento della sua mente.
+
+1418
+00:56:13,500 --> 00:56:22,940
+Andrea Ciraolo: Ma per ampliare la sua mente, per fargli vedere le cose, come direbbero quelli bravi, out of the box, per aiutarlo a individuare strade percorribili, in quel momento devo essere.
+
+1419
+00:56:22,940 --> 00:56:23,260
+Andrea Ciraolo: .
+
+1420
+00:56:23,020 --> 00:56:25,099
+Andrea Ciraolo: In uno stato di creatività molto
+
+1421
+00:56:25,579 --> 00:56:26,619
+Andrea Ciraolo: alto, perché se no
+
+1422
+00:56:27,260 --> 00:56:28,540
+Andrea Ciraolo: non sarei efficace.
+
+1423
+00:56:28,540 --> 00:56:29,820
+Andrea Ciraolo: E per ottenere questa cosa
+
+1424
+00:56:29,980 --> 00:56:36,300
+Andrea Ciraolo: mi sono reso conto: almeno questo è valido per me, per la mia vita, io devo considerare come lavorative.
+
+1425
+00:56:35,100 --> 00:56:39,100
+Andrea Ciraolo: Anche tante attività che per altri professionisti sono considerate di svago.
+
+1426
+00:56:39,100 --> 00:56:45,660
+Andrea Ciraolo: Per esempio l'attività fisica, per esempio la parte di crescita personale, il percorso psicologico, introspettivo.
+
+1427
+00:56:45,200 --> 00:56:48,079
+Andrea Ciraolo: Tutti questi aspetti sono parte del mio lavoro
+
+1428
+00:56:48,240 --> 00:56:53,839
+Andrea Ciraolo: perché sono elementi che mi servono a ottenere quello stato di creatività elevato.
+
+1429
+00:56:53,059 --> 00:56:53,700
+Andrea Ciraolo: In maniera
+
+1430
+00:56:54,660 --> 00:56:57,299
+Andrea Ciraolo: un pochino costante nell'arco della mia giornata settimanale.
+
+1431
+00:56:57,380 --> 00:56:59,140
+Filippo Strozzi: No, no, ok, ok, perfetto, perfetto.
+
+1432
+00:56:59,140 --> 00:57:02,660
+Filippo Strozzi: Secondo discorso, non so se hai fatto io dei video, devo dirti la verità.
+
+1433
+00:57:04,160 --> 00:57:05,119
+Andrea Ciraolo: Vediamo se li ho fatti.
+
+1434
+00:57:05,119 --> 00:57:06,000
+Filippo Strozzi: Ti sgrido.
+
+1435
+00:57:06,640 --> 00:57:06,720
+Filippo Strozzi: Però
+
+1436
+00:57:06,880 --> 00:57:07,520
+Filippo Strozzi: su Tudoist
+
+1437
+00:57:07,680 --> 00:57:09,200
+Filippo Strozzi: ho fatto anche delle ricerche, quindi
+
+1438
+00:57:09,839 --> 00:57:11,839
+Filippo Strozzi: saresti dovuto saltare fuori quantomeno
+
+1439
+00:57:12,000 --> 00:57:13,040
+Filippo Strozzi: dall'algoritmo.
+
+1440
+00:57:13,040 --> 00:57:13,440
+Filippo Strozzi: Hai fatto
+
+1441
+00:57:13,920 --> 00:57:16,960
+Filippo Strozzi: su Tudoist, e come lo usi a questo punto?
+
+1442
+00:57:16,740 --> 00:57:18,180
+Filippo Strozzi: Allora, mentre cerca,
+
+1443
+00:57:20,340 --> 00:57:22,340
+Filippo Strozzi: lo dico solo per giustificazione.
+
+1444
+00:57:22,340 --> 00:57:23,060
+Filippo Strozzi: No, no, no, no,
+
+1445
+00:57:23,300 --> 00:57:23,940
+Andrea Ciraolo: non mettiamo le mani
+
+1446
+00:57:24,100 --> 00:57:24,500
+Filippo Strozzi: alzate,
+
+1447
+00:57:24,660 --> 00:57:26,820
+Filippo Strozzi: io sono un amante dei contenuti in lingua inglese.
+
+1448
+00:57:26,900 --> 00:57:27,860
+Filippo Strozzi: Infatti, Matteo
+
+1449
+00:57:28,180 --> 00:57:28,820
+Filippo Strozzi: mi cazza
+
+1450
+00:57:29,060 --> 00:57:29,620
+Filippo Strozzi: sempre.
+
+1451
+00:57:29,620 --> 00:57:31,140
+Andrea Ciraolo: Perché io adesso.
+
+1452
+00:57:30,700 --> 00:57:34,140
+Andrea Ciraolo: Io adesso scrivo su YouTube, ok, scrivo semplicemente to
+
+1453
+00:57:34,300 --> 00:57:36,619
+Andrea Ciraolo: doist, non è che scrivo chissà che cosa.
+
+1454
+00:57:36,859 --> 00:57:38,380
+Andrea Ciraolo: E vieni fuori tuist.
+
+1455
+00:57:38,380 --> 00:57:41,180
+Andrea Ciraolo: E peccato che il primo risultato di ricerca.
+
+1456
+00:57:42,180 --> 00:57:44,740
+Andrea Ciraolo: il primo dei risultati di ricerca sia proprio il mio video.
+
+1457
+00:57:44,819 --> 00:57:47,619
+Filippo Strozzi: Ma dai, allora adesso guardati, ci provo anch'io in diretta così
+
+1458
+00:57:47,779 --> 00:57:49,380
+Filippo Strozzi: vediamo se sono così miei.
+
+1459
+00:57:49,620 --> 00:57:51,540
+Filippo Strozzi: Poco bravo, come si suol dire.
+
+1460
+00:57:51,620 --> 00:57:52,020
+Roberto Marin: Mi tocca
+
+1461
+00:57:52,180 --> 00:57:52,980
+Roberto Marin: soltanto fare una.
+
+1462
+00:57:53,140 --> 00:57:53,300
+Roberto Marin: Niente
+
+1463
+00:57:53,540 --> 00:57:56,580
+Roberto Marin: sta cercando, volevo tanto dirvi: che in effetti, c'è una cosa
+
+1464
+00:57:56,740 --> 00:57:58,740
+Roberto Marin: molto interessante che ha detto Andrea.
+
+1465
+00:57:58,740 --> 00:58:00,900
+Roberto Marin: E secondo me va davvero sottolineata.
+
+1466
+00:58:00,900 --> 00:58:04,100
+Filippo Strozzi: Allora, sei il terzo, dal mio, sei il terzo, giusto.
+
+1467
+00:58:03,900 --> 00:58:03,980
+Filippo Strozzi: sono
+
+1468
+00:58:04,140 --> 00:58:05,020
+Filippo Strozzi: il terzo dopo to
+
+1469
+00:58:05,180 --> 00:58:05,580
+Filippo Strozzi: twist
+
+1470
+00:58:05,900 --> 00:58:06,060
+Filippo Strozzi: no
+
+1471
+00:58:06,220 --> 00:58:07,820
+Filippo Strozzi: dopo to twist e poi dopo c'è stato
+
+1472
+00:58:08,060 --> 00:58:10,940
+Filippo Strozzi: i video sponsorizzati esatto esatto dopo i video sponsorizzati si hai ragione
+
+1473
+00:58:12,180 --> 00:58:12,900
+Filippo Strozzi: Allora adesso.
+
+1474
+00:58:13,380 --> 00:58:15,220
+Andrea Ciraolo: Quindi sono il primo organico.
+
+1475
+00:58:15,220 --> 00:58:16,020
+Filippo Strozzi: Sì, hai ragione.
+
+1476
+00:58:16,740 --> 00:58:18,820
+Filippo Strozzi: Sei troppo bravo, troppo bravo,
+
+1477
+00:58:19,140 --> 00:58:19,700
+Roberto Marin: Filippo.
+
+1478
+00:58:20,579 --> 00:58:21,859
+Filippo Strozzi: Devi guardare le cose
+
+1479
+00:58:22,020 --> 00:58:24,020
+Roberto Marin: in italiano, non solo le cose in inglese.
+
+1480
+00:58:24,820 --> 00:58:26,339
+Filippo Strozzi: Apre e chiudo una parentesi.
+
+1481
+00:58:26,940 --> 00:58:28,140
+Filippo Strozzi: del vero ma non lo faccio
+
+1482
+00:58:28,300 --> 00:58:31,420
+Filippo Strozzi: io ho un account specifico per navigare su
+
+1483
+00:58:31,660 --> 00:58:32,619
+Filippo Strozzi: su youtube
+
+1484
+00:58:32,859 --> 00:58:33,820
+Filippo Strozzi: che probabilmente
+
+1485
+00:58:34,940 --> 00:58:37,660
+Filippo Strozzi: è allenato per guardare solo in inglese
+
+1486
+00:58:37,460 --> 00:58:40,260
+Andrea Ciraolo: Sull'inglese, sì sì, ma in questo siamo simili anche.
+
+1487
+00:58:40,500 --> 00:58:41,060
+Filippo Strozzi: Adesso per esempio
+
+1488
+00:58:41,300 --> 00:58:42,740
+Filippo Strozzi: ho fatto il login con
+
+1489
+00:58:44,180 --> 00:58:45,380
+Filippo Strozzi: l'account che ho attivo
+
+1490
+00:58:45,540 --> 00:58:46,100
+Filippo Strozzi: adesso di.
+
+1491
+00:58:46,280 --> 00:58:49,560
+Filippo Strozzi: di a due podcast perché stiamo facendo la diretta e tutte le cose in diretta
+
+1492
+00:58:46,420 --> 00:58:46,740
+Filippo Strozzi: .
+
+1493
+00:58:49,800 --> 00:58:51,320
+Filippo Strozzi: effettivamente però in italiano
+
+1494
+00:58:51,480 --> 00:58:52,520
+Filippo Strozzi: poi vabbè ti abbiamo anche
+
+1495
+00:58:53,160 --> 00:58:54,200
+Filippo Strozzi: ho messo anche il
+
+1496
+00:58:54,400 --> 00:58:56,079
+Filippo Strozzi: La chiocciolina c'era
+
+1497
+00:58:56,240 --> 00:58:59,440
+Filippo Strozzi: a Lune, quindi, direi che probabilmente ha due podcast è
+
+1498
+00:58:59,599 --> 00:59:00,799
+Filippo Strozzi: legato decisamente
+
+1499
+00:59:01,039 --> 00:59:02,319
+Filippo Strozzi: a te adesso.
+
+1500
+00:59:04,480 --> 00:59:07,280
+Filippo Strozzi: Però a questo punto, a prescindere che hai fatto i video, come lo usi
+
+1501
+00:59:07,520 --> 00:59:08,000
+Filippo Strozzi: velocemente?
+
+1502
+00:59:08,000 --> 00:59:08,080
+Filippo Strozzi: Perché
+
+1503
+00:59:08,240 --> 00:59:08,720
+Filippo Strozzi: poi dopo
+
+1504
+00:59:09,520 --> 00:59:10,800
+Filippo Strozzi: non voglio tediarti.
+
+1505
+00:59:11,200 --> 00:59:15,120
+Andrea Ciraolo: No, ma in realtà io nell'utilizzo di tutti gli strumenti tecnologici
+
+1506
+00:59:15,280 --> 00:59:16,960
+Andrea Ciraolo: sono estremamente minimale.
+
+1507
+00:59:17,140 --> 00:59:17,460
+Andrea Ciraolo: Quindi
+
+1508
+00:59:17,940 --> 00:59:21,220
+Andrea Ciraolo: mai vi racconterò di metodi strani o metodi particolari, così
+
+1509
+00:59:21,380 --> 00:59:25,859
+Andrea Ciraolo: come per il calendario io semplicemente ci segno sopra gli appuntamenti, la stessa cosa vale per Tudwist.
+
+1510
+00:59:25,859 --> 00:59:29,460
+Andrea Ciraolo: Io in Tudwist ci scrivo le cose che devo fare e poi le faccio.
+
+1511
+00:59:29,600 --> 00:59:30,080
+Filippo Strozzi: Però quindi
+
+1512
+00:59:30,240 --> 00:59:31,920
+Filippo Strozzi: struttura molto semplice, snella.
+
+1513
+00:59:32,960 --> 00:59:34,000
+Filippo Strozzi: Per esempio, io come
+
+1514
+00:59:34,880 --> 00:59:35,680
+Filippo Strozzi: lo uso ormai
+
+1515
+00:59:36,400 --> 00:59:40,400
+Filippo Strozzi: da tempo, diciamo, anch'io ho preferito un approccio snello, cioè prima ero
+
+1516
+00:59:40,560 --> 00:59:41,040
+Filippo Strozzi: adesso non
+
+1517
+00:59:41,200 --> 00:59:42,480
+Filippo Strozzi: so se conosci, ma
+
+1518
+00:59:42,280 --> 00:59:44,359
+Filippo Strozzi: Omnifocus è il super mega
+
+1519
+00:59:44,680 --> 00:59:45,000
+Filippo Strozzi: sistema
+
+1520
+00:59:46,520 --> 00:59:48,599
+Filippo Strozzi: del mondo Apple per la gestione
+
+1521
+00:59:48,760 --> 00:59:49,960
+Filippo Strozzi: dell'attività da fare.
+
+1522
+00:59:49,960 --> 00:59:50,920
+Filippo Strozzi: Però effettivamente
+
+1523
+00:59:51,160 --> 00:59:51,320
+Filippo Strozzi: pur
+
+1524
+00:59:51,560 --> 00:59:52,200
+Filippo Strozzi: avendo
+
+1525
+00:59:52,360 --> 00:59:58,440
+Filippo Strozzi: attività complesse nel senso che sono spesso e volentieri una collegata all'altra con varie scadenze lunghe nel tempo perché
+
+1526
+00:59:58,760 --> 01:00:00,040
+Filippo Strozzi: la giustizia italiana è veloce
+
+1527
+01:00:00,200 --> 01:00:02,920
+Filippo Strozzi: mettiamola in questi termini e quindi devo ricordarmi cose
+
+1528
+01:00:03,160 --> 01:00:03,800
+Filippo Strozzi: Nel futuro
+
+1529
+01:00:03,960 --> 01:00:05,800
+Filippo Strozzi: non prossimo, ma lontano.
+
+1530
+01:00:05,800 --> 01:00:06,360
+Filippo Strozzi: To doist
+
+1531
+01:00:06,520 --> 01:00:07,160
+Filippo Strozzi: è una via di
+
+1532
+01:00:07,560 --> 01:00:11,320
+Filippo Strozzi: lavoro da solo, quindi posso permettermi di scegliere la piattaforma che voglio sostanzialmente.
+
+1533
+01:00:11,320 --> 01:00:12,040
+Filippo Strozzi: To doist
+
+1534
+01:00:12,360 --> 01:00:17,880
+Filippo Strozzi: diciamo che mette assieme complessità da un certo punto di vista, cioè non arriva a una complessità eccessiva.
+
+1535
+01:00:17,840 --> 01:00:18,480
+Filippo Strozzi: Ma anche
+
+1536
+01:00:18,800 --> 01:00:23,440
+Filippo Strozzi: ti permette di fare robe relativamente complesse, se le vuoi fare, voglio dire.
+
+1537
+01:00:23,760 --> 01:00:23,920
+Filippo Strozzi: Tu
+
+1538
+01:00:24,080 --> 01:00:25,840
+Filippo Strozzi: che approccio hai alla vicenda?
+
+1539
+01:00:25,840 --> 01:00:26,480
+Filippo Strozzi: Come si suona?
+
+1540
+01:00:26,560 --> 01:00:27,440
+Andrea Ciraolo: Allora, io
+
+1541
+01:00:27,760 --> 01:00:31,920
+Andrea Ciraolo: le ho passate tutte, nel senso che, così come molti nerd.
+
+1542
+01:00:31,600 --> 01:00:33,360
+Andrea Ciraolo: Sono passato dal getting
+
+1543
+01:00:33,600 --> 01:00:34,400
+Andrea Ciraolo: things done
+
+1544
+01:00:34,720 --> 01:00:38,080
+Andrea Ciraolo: a tutti i metodi della produttività possibili immaginare,
+
+1545
+01:00:38,240 --> 01:00:41,200
+Andrea Ciraolo: metodo agile, cioè tutti, tutti.
+
+1546
+01:00:41,480 --> 01:00:41,960
+Andrea Ciraolo: Li ho
+
+1547
+01:00:42,520 --> 01:00:44,360
+Andrea Ciraolo: in qualche modo mi hanno affascinato.
+
+1548
+01:00:44,360 --> 01:00:53,400
+Andrea Ciraolo: Ciò di cui mi sono reso conto è che quando sei un singolo, e quindi non un team, perché nel caso di un team, alcuni processi sono necessari, ma quando sei un singolo,
+
+1549
+01:00:52,900 --> 01:00:56,740
+Andrea Ciraolo: la maggior parte di questi sistemi non fanno altro che appesantire
+
+1550
+01:00:56,980 --> 01:00:58,339
+Andrea Ciraolo: la tua operatività
+
+1551
+01:00:58,500 --> 01:01:02,579
+Andrea Ciraolo: e quindi tu passi più tempo a cambiare categoria del task
+
+1552
+01:01:02,500 --> 01:01:04,740
+Andrea Ciraolo: piuttosto che a farlo quel maledetto task.
+
+1553
+01:01:04,740 --> 01:01:06,820
+Andrea Ciraolo: Per cui ciò che io faccio sostanzialmente su Tudist
+
+1554
+01:01:07,060 --> 01:01:07,140
+Andrea Ciraolo: è
+
+1555
+01:01:07,300 --> 01:01:12,100
+Andrea Ciraolo: l'unica piccola particolarità è avere sostanzialmente tre categorie
+
+1556
+01:01:11,880 --> 01:01:12,040
+Andrea Ciraolo: tre
+
+1557
+01:01:12,200 --> 01:01:12,440
+Andrea Ciraolo: progetti
+
+1558
+01:01:12,600 --> 01:01:17,080
+Andrea Ciraolo: che poi io racchiudo in un'unica schermata che sono l'inbox dove butto dentro le cose
+
+1559
+01:01:17,240 --> 01:01:21,960
+Andrea Ciraolo: man mano che mi vengono in mente con le scorciatoie dell'iPhone con tutta una serie di strumenti
+
+1560
+01:01:21,800 --> 01:01:23,640
+Andrea Ciraolo: in modo che siano super velocizzate.
+
+1561
+01:01:23,640 --> 01:01:24,040
+Andrea Ciraolo: Dopo
+
+1562
+01:01:24,200 --> 01:01:30,440
+Andrea Ciraolo: la categoria che io definisco lavoro, che si chiama proprio lavoro, dove sostanzialmente non faccio altro che spostare da sopra a sotto
+
+1563
+01:01:30,440 --> 01:01:34,040
+Andrea Ciraolo: le cose che devo fare e poi un'ultima categoria che
+
+1564
+01:01:34,200 --> 01:01:40,440
+Andrea Ciraolo: è quella dove ci sono alcuni task che condivido con le mie collaboratrici ma quello mi serve solo per ragioni tecniche
+
+1565
+01:01:40,420 --> 01:01:41,380
+Andrea Ciraolo: Differenziarlo.
+
+1566
+01:01:41,380 --> 01:01:43,380
+Andrea Ciraolo: E l'ultima cosa che faccio è a volte
+
+1567
+01:01:43,540 --> 01:01:54,420
+Andrea Ciraolo: mettere delle scadenze, nel senso che se una cosa non la devo fare adesso, la metto con una scadenza nel futuro e con un filtro la tolgo dalla visualizzazione, per cui io vedo soltanto le cose che devo fare.
+
+1568
+01:01:53,800 --> 01:01:55,640
+Andrea Ciraolo: Nel momento in cui devo fare,
+
+1569
+01:01:56,200 --> 01:02:01,640
+Andrea Ciraolo: e basta, l'obiettivo è stare super minimali su questa cosa, perché quando poi si ha una to-doist
+
+1570
+01:02:01,820 --> 01:02:02,140
+Andrea Ciraolo: con
+
+1571
+01:02:02,620 --> 01:02:05,980
+Andrea Ciraolo: decine di tasca al suo interno vuol dire che qualcosa è andato storto
+
+1572
+01:02:06,140 --> 01:02:08,380
+Andrea Ciraolo: per cui l'obiettivo è sostanzialmente
+
+1573
+01:02:08,540 --> 01:02:09,340
+Andrea Ciraolo: metterla
+
+1574
+01:02:10,400 --> 01:02:11,440
+Andrea Ciraolo: E quello che faccio.
+
+1575
+01:02:11,440 --> 01:02:12,800
+Andrea Ciraolo: Per esempio, se io adesso,
+
+1576
+01:02:12,960 --> 01:02:14,080
+Andrea Ciraolo: cosa che ho appena fatto, apro
+
+1577
+01:02:14,240 --> 01:02:18,400
+Andrea Ciraolo: la mia to-wist, vedo che i task superano la lunghezza della pagina
+
+1578
+01:02:18,560 --> 01:02:21,520
+Andrea Ciraolo: dell'applicazione, quindi devo scrollare per guardarli tutti.
+
+1579
+01:02:21,520 --> 01:02:24,400
+Andrea Ciraolo: E in questo momento mi rendo conto che c'è qualcosa che non va.
+
+1580
+01:02:24,000 --> 01:02:24,320
+Andrea Ciraolo: Quindi
+
+1581
+01:02:24,560 --> 01:02:25,280
+Andrea Ciraolo: sostanzialmente
+
+1582
+01:02:25,520 --> 01:02:34,160
+Andrea Ciraolo: me li guardo, faccio quelli che ha senso fare, cerco di delegare quelli che non ha senso fare e cancello quelli che posso permettermi di cancellare.
+
+1583
+01:02:34,060 --> 01:02:35,660
+Filippo Strozzi: Ma quindi hai anche delle collaboratrici.
+
+1584
+01:02:35,820 --> 01:02:36,860
+Filippo Strozzi: Questo non lo sapevo, sai?
+
+1585
+01:02:36,860 --> 01:02:37,740
+Andrea Ciraolo: Io sì.
+
+1586
+01:02:38,060 --> 01:02:41,100
+Filippo Strozzi: Io sono ignorante, lo ammetto: leggi
+
+1587
+01:02:41,340 --> 01:02:44,380
+Filippo Strozzi: cose in inglese, segui cose in inglese, non può essere diverso.
+
+1588
+01:02:44,380 --> 01:02:46,540
+Andrea Ciraolo: È vero, evidentemente, non ascolti organizzazione
+
+1589
+01:02:46,700 --> 01:02:47,660
+Andrea Ciraolo: per negati, per cui
+
+1590
+01:02:47,900 --> 01:02:48,380
+Andrea Ciraolo: no.
+
+1591
+01:02:48,980 --> 01:02:51,140
+Andrea Ciraolo: No, ma non ascota neanche il mio di podcast.
+
+1592
+01:02:51,940 --> 01:02:52,500
+Filippo Strozzi: Probabilmente
+
+1593
+01:02:52,660 --> 01:02:53,540
+Filippo Strozzi: probabilmente neanche
+
+1594
+01:02:54,180 --> 01:02:55,940
+Filippo Strozzi: non è vero, non è vero, impreparato
+
+1595
+01:02:56,080 --> 01:02:57,760
+Filippo Strozzi: Ho anche ascoltato per te, Valentino.
+
+1596
+01:02:57,760 --> 01:02:59,360
+Filippo Strozzi: Ascoltata, ma adesso Matteo mi
+
+1597
+01:02:59,520 --> 01:03:00,160
+Filippo Strozzi: cazza perché
+
+1598
+01:03:00,720 --> 01:03:01,040
+Filippo Strozzi: ma
+
+1599
+01:03:01,600 --> 01:03:03,360
+Filippo Strozzi: il fatto che tu l'abbia fatto in preparazione non ti
+
+1600
+01:03:03,600 --> 01:03:03,680
+Andrea Ciraolo: fa
+
+1601
+01:03:03,840 --> 01:03:04,080
+Andrea Ciraolo: personalmente
+
+1602
+01:03:05,040 --> 01:03:06,080
+Andrea Ciraolo: in preparazione il minimo che tu.
+
+1603
+01:03:06,160 --> 01:03:07,760
+Roberto Marin: Infatti, non ascolteresti neanche a due
+
+1604
+01:03:07,920 --> 01:03:08,640
+Filippo Strozzi: potri.
+
+1605
+01:03:08,400 --> 01:03:09,360
+Filippo Strozzi: Se non dovresti editarlo.
+
+1606
+01:03:09,360 --> 01:03:10,560
+Filippo Strozzi: Ma io l'ho sempre detto,
+
+1607
+01:03:10,960 --> 01:03:14,960
+Filippo Strozzi: io mi ascolto solo perché devo editare, ma se no, non ascolterei neanche me stesso.
+
+1608
+01:03:14,960 --> 01:03:19,360
+Andrea Ciraolo: Ad ogni modo, sì, nonostante questa tua gravissima lacuna,
+
+1609
+01:03:19,260 --> 01:03:27,260
+Andrea Ciraolo: Ti confermo che ho delle collaboratrici che mi supportano in tutti quei compiti che non richiedono una mia creatività diretta
+
+1610
+01:03:27,580 --> 01:03:27,740
+Andrea Ciraolo: e
+
+1611
+01:03:27,900 --> 01:03:30,540
+Andrea Ciraolo: in particolare magari non amo molto fare.
+
+1612
+01:03:30,540 --> 01:03:31,420
+Andrea Ciraolo: Poi.
+
+1613
+01:03:30,960 --> 01:03:35,600
+Andrea Ciraolo: Diciamo che in alcuni casi, per esempio, sono due figure un po' diverse, Francesca e Deborah.
+
+1614
+01:03:35,600 --> 01:03:37,840
+Andrea Ciraolo: Nel caso di Francesca c'è anche proprio
+
+1615
+01:03:38,160 --> 01:03:39,920
+Andrea Ciraolo: un badantaggio personale.
+
+1616
+01:03:39,920 --> 01:03:41,360
+Andrea Ciraolo: Cioè Francesca mi.
+
+1617
+01:03:41,160 --> 01:03:41,720
+Andrea Ciraolo: Mi fa tipo
+
+1618
+01:03:41,360 --> 01:03:41,680
+Andrea Ciraolo: .
+
+1619
+01:03:41,680 --> 01:03:42,000
+Andrea Ciraolo: .
+
+1620
+01:03:41,880 --> 01:03:46,680
+Andrea Ciraolo: è una via di mezzo tra una badante e una mamma, sostanzialmente, che cerca di
+
+1621
+01:03:47,000 --> 01:03:48,680
+Andrea Ciraolo: mettere dei confini
+
+1622
+01:03:49,640 --> 01:03:52,040
+Andrea Ciraolo: alla mia testa caotica.
+
+1623
+01:03:51,700 --> 01:03:53,300
+Andrea Ciraolo: Per cui a volte lei proprio mi dice
+
+1624
+01:03:53,540 --> 01:03:55,780
+Andrea Ciraolo: Andre oggi dobbiamo metterci facciamo questo video
+
+1625
+01:03:55,940 --> 01:03:56,740
+Andrea Ciraolo: mi raccomando.
+
+1626
+01:03:56,740 --> 01:03:57,619
+Andrea Ciraolo: Io le dico fra
+
+1627
+01:03:57,780 --> 01:04:00,020
+Andrea Ciraolo: non ho voglia, oggi non lo faccio.
+
+1628
+01:03:59,400 --> 01:04:05,400
+Andrea Ciraolo: E lei mi dice no dai proviamo a farlo, oppure mi dice no, allora prendiamo un appuntamento e lo facciamo domani, per cui è proprio
+
+1629
+01:04:06,359 --> 01:04:08,440
+Andrea Ciraolo: un supporto che va anche oltre
+
+1630
+01:04:08,680 --> 01:04:09,559
+Andrea Ciraolo: la semplice
+
+1631
+01:04:10,040 --> 01:04:11,160
+Andrea Ciraolo: Assistenza tecnica.
+
+1632
+01:04:11,640 --> 01:04:12,120
+Filippo Strozzi: Però, cioè
+
+1633
+01:04:12,360 --> 01:04:15,000
+Filippo Strozzi: avere una persona, diciamo, anche nei confronti della
+
+1634
+01:04:15,160 --> 01:04:15,480
+Filippo Strozzi: quale
+
+1635
+01:04:15,640 --> 01:04:16,280
+Filippo Strozzi: chiamiamola così
+
+1636
+01:04:16,440 --> 01:04:19,000
+Filippo Strozzi: responsabile, cioè che ti responsabilizza su quello che devi fare.
+
+1637
+01:04:19,000 --> 01:04:19,720
+Filippo Strozzi: Io l'ho trovato,
+
+1638
+01:04:19,880 --> 01:04:22,040
+Filippo Strozzi: io ho avuto pochissimo la segretaria.
+
+1639
+01:04:21,940 --> 01:04:23,140
+Filippo Strozzi: Per vari motivi.
+
+1640
+01:04:23,140 --> 01:04:26,900
+Filippo Strozzi: Però effettivamente quando ti mettevi lì così, che dovevamo scrivere la lettera,
+
+1641
+01:04:27,060 --> 01:04:29,859
+Filippo Strozzi: fare la cosa, la facevi, non so se mi spiego.
+
+1642
+01:04:29,940 --> 01:04:30,980
+Andrea Ciraolo: È proprio quello che succede:
+
+1643
+01:04:31,220 --> 01:04:34,099
+Andrea Ciraolo: io con Francesca faccio video che da solo non farei mai, perché
+
+1644
+01:04:34,339 --> 01:04:36,420
+Andrea Ciraolo: la responsabilità nei confronti del
+
+1645
+01:04:36,559 --> 01:04:36,720
+Andrea Ciraolo: del
+
+1646
+01:04:36,880 --> 01:04:37,359
+Andrea Ciraolo: suo tempo
+
+1647
+01:04:37,520 --> 01:04:38,640
+Andrea Ciraolo: mi impone poi di
+
+1648
+01:04:38,799 --> 01:04:40,880
+Andrea Ciraolo: tirare fuori quelle energie che diversamente non
+
+1649
+01:04:41,039 --> 01:04:46,160
+Andrea Ciraolo: riuscirei a trovare se fosse solo per me in certe circostanze mi direi questa cosa la faccio domani
+
+1650
+01:04:45,900 --> 01:04:48,140
+Andrea Ciraolo: E poi domani va avanti all'infinito
+
+1651
+01:04:48,539 --> 01:04:49,980
+Andrea Ciraolo: e alcune cose non le faccio.
+
+1652
+01:04:49,980 --> 01:04:57,819
+Andrea Ciraolo: Sai, avendo anche il lusso e il privilegio di lavorare per conto proprio e di dover rendere conto solo a se stessi, lo svantaggio.
+
+1653
+01:04:57,400 --> 01:04:57,720
+Andrea Ciraolo: E
+
+1654
+01:04:57,880 --> 01:04:59,640
+Andrea Ciraolo: che quelle cose che non ti piace fare
+
+1655
+01:04:59,799 --> 01:05:01,000
+Andrea Ciraolo: rischi di non farle.
+
+1656
+01:05:01,000 --> 01:05:02,760
+Filippo Strozzi: Ho presente, purtroppo.
+
+1657
+01:05:03,559 --> 01:05:05,960
+Filippo Strozzi: È qualcosa che c'è comuna, come si suol dire.
+
+1658
+01:05:06,039 --> 01:05:12,279
+Andrea Ciraolo: Diciamo che la presenza di Francesca in queste attività mi dà due vantaggi: da un lato, la responsabilità.
+
+1659
+01:05:11,800 --> 01:05:15,480
+Andrea Ciraolo: dall'altro anche il piacere di fare certe cose perché fare certi video
+
+1660
+01:05:16,040 --> 01:05:16,280
+Andrea Ciraolo: che
+
+1661
+01:05:16,520 --> 01:05:18,440
+Andrea Ciraolo: a volte devo fare per il mio lavoro
+
+1662
+01:05:18,680 --> 01:05:20,840
+Andrea Ciraolo: a volte rischia di essere molto noioso
+
+1663
+01:05:20,700 --> 01:05:22,700
+Andrea Ciraolo: Farli magari insieme a lei,
+
+1664
+01:05:22,859 --> 01:05:28,540
+Andrea Ciraolo: sai, diventa anche divertente perché poi un gioco si può scherzare, si ironizza, diciamo cose
+
+1665
+01:05:28,859 --> 01:05:34,859
+Andrea Ciraolo: off camera che sono indicibili, poi ci accorgiamo di averle registrate per sbaglio, allora dobbiamo rifare.
+
+1666
+01:05:34,500 --> 01:05:36,180
+Andrea Ciraolo: cioè diventa molto divertente
+
+1667
+01:05:36,420 --> 01:05:36,820
+Filippo Strozzi: no no
+
+1668
+01:05:37,060 --> 01:05:37,700
+Filippo Strozzi: capisco che
+
+1669
+01:05:38,020 --> 01:05:40,260
+Filippo Strozzi: c'è anche un modo di lavorare in gruppo che lavorare da solo
+
+1670
+01:05:40,500 --> 01:05:40,660
+Filippo Strozzi: poi
+
+1671
+01:05:40,820 --> 01:05:42,580
+Filippo Strozzi: appunto da un certo punto di vista tu
+
+1672
+01:05:42,400 --> 01:05:44,799
+Filippo Strozzi: Vivi in quella stanzetta tra virgolette, ma
+
+1673
+01:05:45,119 --> 01:05:46,480
+Filippo Strozzi: non limitando.
+
+1674
+01:05:46,480 --> 01:05:47,359
+Filippo Strozzi: Però è vero,
+
+1675
+01:05:48,000 --> 01:05:50,400
+Filippo Strozzi: alla fine, per esempio, una cosa che io amo,
+
+1676
+01:05:50,720 --> 01:05:53,920
+Filippo Strozzi: amavo, perché adesso è cambiato molto, era il fatto che
+
+1677
+01:05:54,079 --> 01:05:54,240
+Filippo Strozzi: ,
+
+1678
+01:05:54,720 --> 01:05:56,559
+Filippo Strozzi: avendo anche l'udienza.
+
+1679
+01:05:56,280 --> 01:05:58,280
+Filippo Strozzi: meno male anche dei momenti di gruppo
+
+1680
+01:05:58,680 --> 01:06:00,920
+Filippo Strozzi: non so come definirli differentemente
+
+1681
+01:06:01,240 --> 01:06:03,400
+Filippo Strozzi: dove ti confronti con colleghi e così via
+
+1682
+01:06:03,640 --> 01:06:05,480
+Filippo Strozzi: che spesso e volentieri invece in altre situazioni
+
+1683
+01:06:05,359 --> 01:06:06,000
+Filippo Strozzi: situazione non hai
+
+1684
+01:06:06,320 --> 01:06:11,760
+Filippo Strozzi: e anche se è bello fare queste chiacchierate tra virgolette a distanza è diverso farle in presenza e non c'è niente da fare
+
+1685
+01:06:11,920 --> 01:06:13,680
+Filippo Strozzi: quindi stai proponendo una pizzata
+
+1686
+01:06:13,960 --> 01:06:14,520
+Filippo Strozzi: Volentieri
+
+1687
+01:06:14,680 --> 01:06:15,160
+Filippo Strozzi: quello sì.
+
+1688
+01:06:15,160 --> 01:06:16,039
+Filippo Strozzi: Allora io in questo
+
+1689
+01:06:16,760 --> 01:06:18,200
+Filippo Strozzi: devo ancora vedere Matteo.
+
+1690
+01:06:18,200 --> 01:06:20,760
+Filippo Strozzi: Perché tu hai avuto anche l'autografo di Matteo, ma io no
+
+1691
+01:06:21,100 --> 01:06:22,940
+Filippo Strozzi: Sto aspettando ancora l'autografo.
+
+1692
+01:06:22,940 --> 01:06:25,180
+Andrea Ciraolo: Pure l'autografo, a me non me l'ha mai fatto l'autografo.
+
+1693
+01:06:25,180 --> 01:06:26,060
+Filippo Strozzi: È sul suo libro,
+
+1694
+01:06:26,700 --> 01:06:29,740
+Filippo Strozzi: visto che abbiamo acquistato il suo libro del podcast.
+
+1695
+01:06:31,100 --> 01:06:31,420
+Andrea Ciraolo: Io
+
+1696
+01:06:31,300 --> 01:06:36,660
+Andrea Ciraolo: Che mi sono dovuto comprare il libro di uno dei miei più cari amici che non mi è neanche stato regalato.
+
+1697
+01:06:37,300 --> 01:06:39,300
+Andrea Ciraolo: Non credo di avere la dedica: Ecco,
+
+1698
+01:06:39,620 --> 01:06:42,660
+Filippo Strozzi: vedi che ti abbiamo dato delle idee interessanti.
+
+1699
+01:06:42,660 --> 01:06:46,180
+Roberto Marin: Eh, ma io l'ho messo proprio alle strette, mi sono presentato col libro e ho detto adesso.
+
+1700
+01:06:46,460 --> 01:06:46,620
+Roberto Marin: Tu
+
+1701
+01:06:46,780 --> 01:06:50,620
+Roberto Marin: questo, ci metti una firma almeno e non te ne vai fuori da Torino
+
+1702
+01:06:51,180 --> 01:06:52,300
+Roberto Marin: se non mi fai la firma.
+
+1703
+01:06:52,300 --> 01:06:53,420
+Roberto Marin: Quindi l'ho proprio messo un po' alle
+
+1704
+01:06:53,580 --> 01:06:56,060
+Roberto Marin: strette, quindi è colpa mia, ammetto.
+
+1705
+01:06:55,400 --> 01:06:57,799
+Roberto Marin: Ma prende la palla al balzo perché secondo me
+
+1706
+01:06:58,039 --> 01:06:59,559
+Roberto Marin: di questo discorso,
+
+1707
+01:07:00,039 --> 01:07:03,160
+Roberto Marin: diciamo che partito dalle tre applicazioni che
+
+1708
+01:07:03,480 --> 01:07:04,039
+Roberto Marin: Andrea
+
+1709
+01:07:04,279 --> 01:07:05,960
+Roberto Marin: non può fare a meno, in realtà.
+
+1710
+01:07:06,320 --> 01:07:07,680
+Roberto Marin: Secondo me ci ha dato tre
+
+1711
+01:07:07,840 --> 01:07:15,360
+Roberto Marin: perle all'interno di questo suo discorso che ne vale davvero la pena sottolineare e che forse dovremmo far rientrare tutti quanti noi.
+
+1712
+01:07:15,260 --> 01:07:19,740
+Roberto Marin: all'interno della nostra vita, perché in realtà sono tre perle che sono importantissime.
+
+1713
+01:07:19,740 --> 01:07:20,300
+Roberto Marin: La prima
+
+1714
+01:07:20,460 --> 01:07:22,460
+Roberto Marin: che ha detto è riguardava
+
+1715
+01:07:23,020 --> 01:07:27,740
+Roberto Marin: il lavoro, il suo lavoro creativo, che in realtà non può fare a meno che rendere
+
+1716
+01:07:28,220 --> 01:07:31,980
+Roberto Marin: degli altri aspetti della sua vita come un lavoro, come può essere appunto
+
+1717
+01:07:32,000 --> 01:07:35,440
+Roberto Marin: l'esercizio fisico e tanti altri aspetti della sua vita.
+
+1718
+01:07:35,440 --> 01:07:42,720
+Roberto Marin: Questo è importantissimo ragazzi, nel senso che non lo date per scontato, è un aspetto che deve entrare come lavoro.
+
+1719
+01:07:42,460 --> 01:07:49,580
+Roberto Marin: Per il semplice fatto che vi aiuterà nel lavoro e quindi ha bisogno della stessa importanza, questo aspetto che può essere
+
+1720
+01:07:49,820 --> 01:07:51,660
+Roberto Marin: l'esercizio fisico.
+
+1721
+01:07:51,359 --> 01:07:57,520
+Roberto Marin: Ma ci sono magari altri aspetti nella vostra vita che vi rendono creativi, quindi non sottovalutateli, rendeteli
+
+1722
+01:07:57,760 --> 01:07:58,800
+Roberto Marin: allo stesso livello
+
+1723
+01:07:58,960 --> 01:08:05,839
+Roberto Marin: nella vostra scaletta, importanti quanto il lavoro, perché in effetti vi aiuterà nel lavoro, questo è importantissimo.
+
+1724
+01:08:05,100 --> 01:08:09,660
+Roberto Marin: L'altra cosa che secondo me è da sottolineare è questa questione di svuotare il cervello
+
+1725
+01:08:09,820 --> 01:08:11,740
+Roberto Marin: ed è questo famoso inbox.
+
+1726
+01:08:11,740 --> 01:08:14,860
+Roberto Marin: Questo famoso inbox che in realtà è un sistema
+
+1727
+01:08:15,020 --> 01:08:15,820
+Roberto Marin: che può essere
+
+1728
+01:08:16,060 --> 01:08:17,819
+Roberto Marin: applicato a qualsiasi tipo
+
+1729
+01:08:18,140 --> 01:08:21,420
+Roberto Marin: di sistema che avete voi davanti al naso, nel senso che può essere
+
+1730
+01:08:21,980 --> 01:08:24,859
+Roberto Marin: dal foglio di carta dove vi appuntate qualcosa per
+
+1731
+01:08:25,000 --> 01:08:29,720
+Roberto Marin: All'inizio, alla mattina, quando vi svegliate, dovete appuntarvi delle cose, a qualcosa di più tecnologico.
+
+1732
+01:08:29,720 --> 01:08:30,920
+Roberto Marin: Ad esempio, Andrea
+
+1733
+01:08:31,080 --> 01:08:32,359
+Roberto Marin: ci ha fatto degli esempi.
+
+1734
+01:08:32,359 --> 01:08:34,440
+Roberto Marin: Io, personalmente, ho trovato la quadra con pro
+
+1735
+01:08:34,600 --> 01:08:37,319
+Roberto Marin: memoria di Apple, ma recentemente, perché fino a poco tempo fa
+
+1736
+01:08:37,480 --> 01:08:38,920
+Roberto Marin: usavo Notion.
+
+1737
+01:08:38,460 --> 01:08:40,380
+Roberto Marin: Ma questo è tutto un altro discorso.
+
+1738
+01:08:40,380 --> 01:08:41,099
+Roberto Marin: E concludo
+
+1739
+01:08:41,259 --> 01:08:43,980
+Roberto Marin: con l'ultima cosa, che è altrettanto importante
+
+1740
+01:08:44,139 --> 01:08:45,420
+Roberto Marin: a quelle che ha messo, giustamente,
+
+1741
+01:08:45,579 --> 01:08:46,059
+Roberto Marin: Andrea
+
+1742
+01:08:46,219 --> 01:08:46,859
+Roberto Marin: in pista:
+
+1743
+01:08:47,179 --> 01:08:48,219
+Roberto Marin: la collaborazione.
+
+1744
+01:08:48,219 --> 01:08:49,020
+Roberto Marin: La collaborazione è
+
+1745
+01:08:49,179 --> 01:08:53,179
+Roberto Marin: trovare delle persone fidate su cui appoggiarsi e riuscire a delegare.
+
+1746
+01:08:53,240 --> 01:08:53,799
+Roberto Marin: è davvero
+
+1747
+01:08:54,040 --> 01:09:01,480
+Roberto Marin: importante perché vi solleva tanto e non solo dal punto di vista lavorativo perché in effetti vi aiuta a portare avanti il lavoro
+
+1748
+01:09:01,640 --> 01:09:04,839
+Roberto Marin: ma anche a svolgerlo e a renderlo anche meno pesante.
+
+1749
+01:09:04,839 --> 01:09:06,359
+Roberto Marin: Quindi, queste qui, secondo me,
+
+1750
+01:09:06,520 --> 01:09:13,640
+Roberto Marin: sono delle grandissime perle che ha inserito nel suo discorso e andavano sottolineate veramente con l'evidenziatore.
+
+1751
+01:09:13,260 --> 01:09:13,420
+Roberto Marin: alla
+
+1752
+01:09:13,660 --> 01:09:13,900
+Roberto Marin: grande
+
+1753
+01:09:14,060 --> 01:09:16,620
+Roberto Marin: perché non è giusto che passino sotto i ponti.
+
+1754
+01:09:16,620 --> 01:09:19,020
+Roberto Marin: Dalle tre applicazioni siamo passati alle
+
+1755
+01:09:19,180 --> 01:09:23,660
+Roberto Marin: tre perle che ci aiuteranno, penso, indipendentemente dal sistema.
+
+1756
+01:09:23,299 --> 01:09:26,500
+Roberto Marin: Che utilizziamo a portare avanti il lavoro nel modo migliore.
+
+1757
+01:09:26,500 --> 01:09:30,900
+Roberto Marin: E per questo ti ringraziamo Andrea per queste parole che hai messo all'interno del podcast.
+
+1758
+01:09:31,139 --> 01:09:35,380
+Andrea Ciraolo: L'altra perla che tu, però, hai voluto mettere è che Windows è meglio di me, certo, ma
+
+1759
+01:09:35,779 --> 01:09:37,699
+Roberto Marin: quello è implicito.
+
+1760
+01:09:37,100 --> 01:09:39,580
+Roberto Marin: Direi che non c'è altro da aggiungere.
+
+1761
+01:09:42,859 --> 01:09:44,220
+Andrea Ciraolo: Grazie ragazzi.
+
+1762
+01:09:46,780 --> 01:09:48,940
+Filippo Strozzi: Almeno non volevamo rubarti altro tempo,
+
+1763
+01:09:50,560 --> 01:09:50,880
+Filippo Strozzi: Appunto
+
+1764
+01:09:51,040 --> 01:09:52,239
+Filippo Strozzi: sei un ospite.
+
+1765
+01:09:52,239 --> 01:09:55,360
+Andrea Ciraolo: Allora grazie, grazie per questa chiacchierata, è stato un piacere.
+
+1766
+01:09:55,360 --> 01:09:56,480
+Filippo Strozzi: Il piacere, è stato un
+
+1767
+01:09:56,880 --> 01:09:57,520
+Roberto Marin: grosso piacere.
+
+1768
+01:09:57,679 --> 01:09:59,840
+Roberto Marin: Assolutamente, penso anche per gli ascoltatori
+
+1769
+01:10:00,000 --> 01:10:00,640
+Roberto Marin: perché.
+
+1770
+01:10:00,400 --> 01:10:05,520
+Roberto Marin: Ovviamente, tra ridendo e scherzando, sono venute fuori veramente delle cose davvero
+
+1771
+01:10:05,679 --> 01:10:06,480
+Roberto Marin: molto interessanti.
+
+1772
+01:10:06,480 --> 01:10:07,120
+Roberto Marin: A partire
+
+1773
+01:10:08,000 --> 01:10:13,280
+Roberto Marin: da quello che può essere il sistema operativo, che era soltanto un pretesto, alla fine.
+
+1774
+01:10:12,800 --> 01:10:19,360
+Roberto Marin: Per riuscire ad arrivare veramente a fine puntata, per riuscire a dirvi, e in effetti, forse, che più del software
+
+1775
+01:10:19,599 --> 01:10:20,639
+Roberto Marin: conta proprio
+
+1776
+01:10:20,740 --> 01:10:27,460
+Roberto Marin: La parte che sta tra il computer e la sedia, che è l'essere umano, che deve, ovviamente, avere un suo perché
+
+1777
+01:10:27,620 --> 01:10:27,780
+Roberto Marin: e
+
+1778
+01:10:28,100 --> 01:10:29,700
+Roberto Marin: un suo modo di procedere.
+
+1779
+01:10:29,700 --> 01:10:32,580
+Roberto Marin: Grazie anche ai workflow che ci ha indicato Andrea.
+
+1780
+01:10:32,580 --> 01:10:33,700
+Roberto Marin: Che ovviamente.
+
+1781
+01:10:33,640 --> 01:10:34,360
+Roberto Marin: non solo con
+
+1782
+01:10:34,840 --> 01:10:36,040
+Roberto Marin: il suo canale youtube
+
+1783
+01:10:36,760 --> 01:10:39,320
+Roberto Marin: e l'aiuto che mette all'interno di questi canali
+
+1784
+01:10:39,480 --> 01:10:41,159
+Roberto Marin: ci ha aiutato anche in questo caso
+
+1785
+01:10:41,400 --> 01:10:41,560
+Roberto Marin: grazie
+
+1786
+01:10:41,719 --> 01:10:41,960
+Roberto Marin: grazie
+
+1787
+01:10:42,120 --> 01:10:43,640
+Roberto Marin: benissimo direi che a questo punto
+
+1788
+01:10:43,500 --> 01:10:46,860
+Roberto Marin: Invece io che mi sono perso come al solito vado invece a prendere
+
+1789
+01:10:47,180 --> 01:10:47,660
+Roberto Marin: le note
+
+1790
+01:10:47,820 --> 01:10:52,060
+Roberto Marin: di chiusura che sono scritte perché ovviamente non mi posso ricordare tutto.
+
+1791
+01:10:51,740 --> 01:11:02,220
+Roberto Marin: Oltre a ringraziarvi per essere stati qua con noi ad ascoltare Andrea ma soprattutto Filippo, e questa qui ovviamente è una piccola frecciatina così buttata lì, gratuita.
+
+1792
+01:11:01,940 --> 01:11:06,740
+Roberto Marin: Se volete supportare il podcast, come sempre, sapete cosa fare, andare a fare una bella recensione
+
+1793
+01:11:07,220 --> 01:11:07,380
+Roberto Marin: sul
+
+1794
+01:11:07,540 --> 01:11:08,660
+Roberto Marin: sistema che preferite.
+
+1795
+01:11:08,660 --> 01:11:09,780
+Roberto Marin: Tendenzialmente Apple Podcast
+
+1796
+01:11:09,940 --> 01:11:13,540
+Roberto Marin: oppure Spotify, o quello che vi viene in mente o dove ci trovate, anche Splica.
+
+1797
+01:11:13,700 --> 01:11:16,580
+Roberto Marin: Comunque, in ogni caso, se non sapete come fare, trovate tutto quanto.
+
+1798
+01:11:16,700 --> 01:11:16,780
+Roberto Marin: All
+
+1799
+01:11:16,940 --> 01:11:18,060
+Roberto Marin: 'interno delle note
+
+1800
+01:11:18,220 --> 01:11:19,980
+Roberto Marin: dell'episodio con un apposito link.
+
+1801
+01:11:19,980 --> 01:11:27,260
+Roberto Marin: Se invece volete tirarci un po' l'orecchio, che fa sempre bene e ci aiuta anche ad aprire la testa, potete iscrivere liberamente a scrivi.
+
+1802
+01:11:29,340 --> 01:11:30,220
+Roberto Marin: it.
+
+1803
+01:11:29,840 --> 01:11:30,640
+Roberto Marin: Come sempre
+
+1804
+01:11:30,960 --> 01:11:32,320
+Roberto Marin: troverete tutto quanto
+
+1805
+01:11:32,560 --> 01:11:33,440
+Roberto Marin: all'interno della
+
+1806
+01:11:34,080 --> 01:11:36,320
+Roberto Marin: puntata oppure seguendo al duepodcast.
+
+1807
+01:11:36,560 --> 01:11:36,720
+Roberto Marin: it
+
+1808
+01:11:36,960 --> 01:11:37,440
+Roberto Marin: slash
+
+1809
+01:11:37,600 --> 01:11:41,120
+Roberto Marin: come dice il nostro simpatico connazionale.
+
+1810
+01:11:40,719 --> 01:11:41,600
+Roberto Marin: 74
+
+1811
+01:11:41,920 --> 01:11:44,159
+Roberto Marin: e invece, se volete andare a cercare Andrea
+
+1812
+01:11:44,320 --> 01:11:47,840
+Roberto Marin: Ciralo, io non lo dico neanche perché mi sembra veramente di dire una bestemmia.
+
+1813
+01:11:47,840 --> 01:11:49,040
+Roberto Marin: Dove ti possiamo trovare, Andrea?
+
+1814
+01:11:49,040 --> 01:11:49,360
+Roberto Marin: Dicci un
+
+1815
+01:11:49,600 --> 01:11:49,840
+Andrea Ciraolo: Beh,
+
+1816
+01:11:49,840 --> 01:11:50,880
+Andrea Ciraolo: intanto, se scrivete.
+
+1817
+01:11:50,680 --> 01:11:54,280
+Andrea Ciraolo: Tu doist su YouTube, io esco come primo risultato di ricerca
+
+1818
+01:11:56,200 --> 01:11:56,520
+Andrea Ciraolo: :
+
+1819
+01:11:56,680 --> 01:11:56,920
+Roberto Marin: dire
+
+1820
+01:11:57,160 --> 01:11:57,880
+Roberto Marin: di partire da questo
+
+1821
+01:11:58,120 --> 01:11:59,400
+Roberto Marin: tipo di ricerca.
+
+1822
+01:11:59,640 --> 01:12:03,480
+Andrea Ciraolo: Io partirei da lì e poi trovate tutto il resto.
+
+1823
+01:12:04,820 --> 01:12:07,700
+Roberto Marin: Benissimo, direi che invece per quanto mi riguarda
+
+1824
+01:12:07,940 --> 01:12:10,900
+Roberto Marin: sapete dove trovarmi dalla mia casa che si trova.
+
+1825
+01:12:11,679 --> 01:12:16,480
+Roberto Marin: In formato web all'interno di un sito che raccoglie più o meno quello che faccio, che si chiama Mac
+
+1826
+01:12:16,800 --> 01:12:17,440
+Roberto Marin: Architettura.
+
+1827
+01:12:17,520 --> 01:12:18,719
+Roberto Marin: Potete trovare all'indirizzo
+
+1828
+01:12:18,880 --> 01:12:19,280
+Roberto Marin: mark.
+
+1829
+01:12:19,440 --> 01:12:19,840
+Roberto Marin: net.
+
+1830
+01:12:20,000 --> 01:12:20,480
+Roberto Marin: wordpress.
+
+1831
+01:12:20,719 --> 01:12:20,880
+Roberto Marin: com.
+
+1832
+01:12:20,960 --> 01:12:21,280
+Roberto Marin: Invece
+
+1833
+01:12:21,440 --> 01:12:22,400
+Roberto Marin: Filippo, dove lo troviamo?
+
+1834
+01:12:22,400 --> 01:12:23,280
+Roberto Marin: Avocateve.
+
+1835
+01:12:23,440 --> 01:12:23,520
+Roberto Marin: it
+
+1836
+01:12:23,760 --> 01:12:25,760
+Roberto Marin: Quindi, molto probabilmente dopo aver ingrazzato.
+
+1837
+01:12:26,199 --> 01:12:29,559
+Roberto Marin: Andrea per l'aiuto che ci ha dato per confezionare questa bellissima puntata.
+
+1838
+01:12:29,559 --> 01:12:32,360
+Roberto Marin: Ci troviamo molto probabilmente tra due settimane.
+
+1839
+01:12:32,360 --> 01:12:33,559
+Speaker 4: Alla prossima, ciao!
+
+1840
+01:12:33,559 --> 01:12:34,599
+Speaker 4: Ciao!
+

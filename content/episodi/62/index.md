@@ -6,13 +6,13 @@ slug = "62"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335979/742d6aec_fdc6_4ec5_82a1_272fbcc66e6a.mp3"
 spreakerEpisodeId = "64335979"
 duration = "1:01:30"
-description = "Strategie e strumenti Apple per aumentare la concentrazione e lavorare senza distrazioni. Tecniche di time blocking e metodi pratici per professionisti."
+description = "In questa puntata Roberto e Filippo parlano del perché è importante concentrarsi, le possibili tecniche e trucchi per farlo al meglio e come utilizzare la tecnologia Apple per avere un ulteriore aumento dell’effetto."
+tags = ["concentrazione", "time blocking", "apple", "produttività", "focus"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "6jKhG2E_83I"
-tags = ["concentrazione", "time blocking", "apple", "produttività", "focus"]
 +++
 
 > In questa puntata Roberto e Filippo parlano del perché è importante concentrarsi, le possibili tecniche e trucchi per farlo al meglio e come utilizzare la tecnologia Apple per avere un ulteriore aumento dell’effetto.

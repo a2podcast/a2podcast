@@ -6,13 +6,13 @@ slug = "31"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336032/e620d53a_1aa6_4425_bdcb_03cbea070dfd.mp3"
 spreakerEpisodeId = "64336032"
 duration = "1:03:28"
-description = "Come usare iPad e Apple Pencil per annotare documenti, prendere appunti e organizzare la giornata con il Bullet Journal. Guida pratica ai migliori programmi."
+description = "In questa puntata Roberto e Filippo concludono l'approfondimento su come usare iPad ed Apple Pencil per annotare documenti, prendere appunti ed organizzare la giornata lavorativa con il Bullet Journal."
+tags = ["ipad", "apple-pencil", "appunti", "bullet-journal", "produttivita"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "eMKVhCrSTRk"
-tags = ["ipad", "apple-pencil", "appunti", "bullet-journal", "produttivita"]
 +++
 
 > In questa puntata Roberto e Filippo concludono l'approfondimento su come usare iPad ed Apple Pencil per annotare documenti, prendere appunti ed organizzare la giornata lavorativa con il Bullet Journal.

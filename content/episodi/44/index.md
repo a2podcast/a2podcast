@@ -6,13 +6,13 @@ slug = "44"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336013/98996ae1_4fbf_4e71_a613_10812a10ea1a.mp3"
 spreakerEpisodeId = "64336013"
 duration = "1:13:20"
-description = "Roberto intervista Matteo Scandolin sul nuovo Mac Studio e Logic Pro. Parliamo di audio, podcasting, microfoni e workflow creativo su Mac."
+description = "In questa puntata Roberto (lasciato solo da Filippo) chiacchiera con Matteo Scandolin sul suo nuovo Mac Studio, Logic Pro e di tante altre cose …"
+tags = ["mac-studio", "logic-pro", "audio", "podcasting", "apple"]
 draft = false
 
 [params]
   hasTranscript = false
-tags = ["mac-studio", "logic-pro", "audio", "podcasting", "apple"]
-guest = "matteo-scandolin"
+  guest = "matteo-scandolin"
 +++
 
 > In questa puntata Roberto (lasciato solo da Filippo) chiacchiera con Matteo Scandolin sul suo nuovo Mac Studio, Logic Pro e di tante altre cose …

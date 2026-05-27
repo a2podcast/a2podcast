@@ -6,13 +6,13 @@ slug = "61"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336004/d2bddd84_bf04_4cd4_9392_b692e398e940.mp3"
 spreakerEpisodeId = "64336004"
 duration = "1:09:14"
-description = "Approfondimento su Pages e Numbers, gli strumenti di videoscrittura e fogli di calcolo di Apple. Scopri funzioni, particolarità e come sfruttare la collaborazione via iCloud."
+description = "In questa puntata Roberto e Filippo fanno un approfondimento sul programma di videoscrittura di Apple e su quello per i fogli di calcolo rispettivamente Pages e Numbers."
+tags = ["pages", "numbers", "iwork", "apple", "produttivita"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "MqsAQ7PUWdw"
-tags = ["pages", "numbers", "iwork", "apple", "produttivita"]
 +++
 
 > In questa puntata Roberto e Filippo fanno un approfondimento sul programma di videoscrittura di Apple e su quello per i fogli di calcolo rispettivamente Pages e Numbers.

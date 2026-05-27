@@ -1,0 +1,23 @@
+{{ $epNum := .Params.episodeNumber }}
+{{ $srtPath := printf "static/trascrizioni/ep-%d.srt" $epNum }}
+{{ $srtContent := readFile $srtPath }}
+{{ if $srtContent }}
+<section class="episode-transcript" id="trascrizione">
+  <details class="transcript-details">
+    <summary class="transcript-summary">Leggi la trascrizione completa</summary>
+    <div class="transcript-body">
+      {{ range split $srtContent "\n" }}
+        {{ $line := . | strings.TrimSpace }}
+        {{/* Salta: righe vuote, numeri di sequenza (solo cifre), righe con timestamp --> */}}
+        {{ if and $line (not (findRE `^\d+$` $line)) (not (findRE `-->` $line)) }}
+          <p>{{ $line }}</p>
+        {{ end }}
+      {{ end }}
+    </div>
+  </details>
+  <a href="{{ printf "/trascrizioni/ep-%d.srt" $epNum }}"
+     class="btn btn-secondary btn-sm transcript-download" download>
+    ↓ Scarica SRT
+  </a>
+</section>
+{{ end }}

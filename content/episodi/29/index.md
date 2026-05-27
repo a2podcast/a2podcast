@@ -6,13 +6,13 @@ slug = "29"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336024/e4e53bf7_426c_4918_b120_ca00de308dc8.mp3"
 spreakerEpisodeId = "64336024"
 duration = "1:13:18"
-description = "Introduzione alla gestione delle email: scopri i problemi principali della posta elettronica e le strategie per risolverli. Prima puntata di una serie dedicata."
+description = "Oggi parliamo di email. È la prima puntata di una serie (ma non credo che le registreremo in successione) in cui inizieremo ad affrontare l’argomento delle email, come funzionano, quali sono i programmi ed i servizi utili etc … ma prima di fare ciò, nella puntata di oggi, vedremo perché le email son"
+tags = ["email", "gestione posta", "produttività", "comunicazione digitale", "organizzazione"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "e2iAOeH8hXY"
-tags = ["email", "gestione posta", "produttività", "comunicazione digitale", "organizzazione"]
 +++
 
 > Oggi parliamo di email. È la prima puntata di una serie (ma non credo che le registreremo in successione) in cui inizieremo ad affrontare l’argomento delle email, come funzionano, quali sono i programmi ed i servizi utili etc … ma prima di fare ciò, nella puntata di oggi, vedremo perché le email sono un problema ed alcuni modi per arginare il problema delle email.
@@ -124,4 +124,4 @@ Le regole di base dell’**Inbox zero**
 
 - Email di lavoro 
 - Email amici / famiglia 
-- Email newsletter
+- Email newsletter 

@@ -6,14 +6,14 @@ slug = "54"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335983/d1a8f550_2380_44a1_aae2_d9c578274f12.mp3"
 spreakerEpisodeId = "64335983"
 duration = "1:20:52"
-description = "Roberto e Filippo esplorano Freeform con Lucio Bragagnolo: il canvas infinito di Apple per organizzare foto, forme, appunti e idee in uno spazio flessibile."
+description = "In questa puntata Roberto e Filippo, assieme all’amico Lucio Bragagnolo, ti racconteranno la loro esperienza con Freeform. Freeform è uno spazio flessibile in cui riunire tutti gli elementi, come foto, forme, appunti e altro, e visualizzare rapidamente i concetti. Note episodio Cosa abbiamo fatto? T"
+tags = ["freeform", "apple", "ospiti", "produttivita", "brainstorming"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "H0QbmnCYzKE"
-tags = ["freeform", "apple", "ospiti", "produttivita", "brainstorming"]
-guest = "lucio-bragagnolo"
+  guest = "lucio-bragagnolo"
 +++
 
 In questa puntata Roberto e Filippo, assieme all’amico Lucio Bragagnolo, ti racconteranno la loro esperienza con Freeform. 

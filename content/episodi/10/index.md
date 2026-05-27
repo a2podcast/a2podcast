@@ -6,13 +6,13 @@ slug = "10"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336040/e38fdfac_ab57_4556_831e_b56a3fa68a70.mp3"
 spreakerEpisodeId = "64336040"
 duration = "1:21:58"
-description = "Roberto e Filippo esplorano Markdown e le migliori app per scrivere con testo semplice. Una guida pratica al formato ideale per professionisti che amano la semplicità."
+description = "In questo episodio Roberto e Filippo vi parlano di Markdown e delle applicazioni per scrivere con il testo semplice!"
+tags = ["markdown", "testo-semplice", "app-scrittura", "produttività", "apple"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "O8hMs4iHzgg"
-tags = ["markdown", "testo-semplice", "app-scrittura", "produttività", "apple"]
 +++
 
 > In questo episodio Roberto e Filippo vi parlano di Markdown e delle applicazioni per scrivere con il testo semplice!

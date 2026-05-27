@@ -6,13 +6,13 @@ slug = "51"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335999/b3efb163_5a41_4fff_9f93_e789df789958.mp3"
 spreakerEpisodeId = "64335999"
 duration = "1:36:21"
-description = "Roberto e Filippo discutono come essere più intenzionali nel 2023 usando il tema dell'anno. Esplorano il Yearly Theme System e le tecnologie per implementarlo con successo."
+description = "In questa puntata di inizio anno Roberto e Filippo ragionano su come essere più intenzionali nel 2023 e quali tecnologie usare per farlo. Come funziona? Yearly Theme Cortex Link utili Planner cartaceo Sito (https://www.themesystem.com) Video (https://youtu.be/fSwpe8r50_o) Video spiegazione di CGP Gr"
+tags = ["tema-annuale", "produttività", "intenzionalità", "planning", "yearly-theme"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "rc__msv84Ls"
-tags = ["tema-annuale", "produttività", "intenzionalità", "planning", "yearly-theme"]
 +++
 
 In questa puntata di inizio anno Roberto e Filippo ragionano su come essere più intenzionali nel 2023 e quali tecnologie usare per farlo.

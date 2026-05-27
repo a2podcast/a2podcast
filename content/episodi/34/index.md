@@ -6,14 +6,14 @@ slug = "34"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336035/f3a8692f_fdee_4d30_8986_f2416a1bca30.mp3"
 spreakerEpisodeId = "64336035"
 duration = "1:27:54"
-description = "Roberto e Filippo ospitano Matteo Scandolin per approfondire il suo flusso di lavoro su Mac e scoprire i segreti della produttività su Apple."
+description = "In questa puntata Roberto e Filippo ospitano Matteo Scandolin e chiacchierano con lui di podcast Mac e molte molte altre cose …"
+tags = ["mac", "flusso-lavoro", "ospiti", "podcast", "produttività"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "-bGCq9ZbVsY"
-tags = ["mac", "flusso-lavoro", "ospiti", "podcast", "produttività"]
-guest = "matteo-scandolin"
+  guest = "matteo-scandolin"
 +++
 
 > In questa puntata Roberto e Filippo ospitano Matteo Scandolin e chiacchierano con lui di podcast Mac e molte molte altre cose …

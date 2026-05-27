@@ -6,14 +6,14 @@ slug = "74"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335973/03e8be2a_adb7_4f7e_985a_54f6f1e90b8b.mp3"
 spreakerEpisodeId = "64335973"
 duration = "1:12:41"
-description = "Andrea Ciraolo ospite per discutere del suo flusso di lavoro, organizzazione personale e strumenti come Todoist, OBS e Stream Deck. Un'analisi approfondita della produttività per professionisti."
+description = "In questa puntata Roberto e Filippo hanno l’onore di ospitare Andrea Ciraolo e parlare con lui del suo flusso di lavoro, della sua esperienza non riuscita con Apple ed altro ancora."
+tags = ["flusso-di-lavoro", "produttivita", "todoist", "organizzazione", "ospiti"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "KFNWIq5vjTc"
-tags = ["flusso-di-lavoro", "produttivita", "todoist", "organizzazione", "ospiti"]
-guest = "andrea-ciraolo"
+  guest = "andrea-ciraolo"
 +++
 
 > In questa puntata Roberto e Filippo hanno l’onore di ospitare Andrea Ciraolo e parlare con lui del suo flusso di lavoro, della sua esperienza non riuscita con Apple ed altro ancora.

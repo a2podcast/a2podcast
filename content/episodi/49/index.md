@@ -6,14 +6,14 @@ slug = "49"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335995/ba2e1356_3b0d_484d_a696_4c06fe03d379.mp3"
 spreakerEpisodeId = "64335995"
 duration = "1:31:43"
-description = "Roberto, Filippo e Daniele Borghi analizzano i modelli di iPad disponibili nel 2022-2023. Scopri quale scegliere in base alle tue esigenze: consumo contenuti, creazione, note digitali, grafica o come secondo schermo."
+description = "In questa puntata Roberto e Filippo, accompagnati da Daniele Borghi parlano dei modelli di iPad acquistabili nel 2022 ed inizio 2023 e delle loro differente. iPad super longevi Budget o longevità? Consumare contenuti o crearli? Attività specifiche Esiste un software fondamentale per quel che si vuol"
+tags = ["ipad", "apple", "hardware", "daniele-borghi", "produttività"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "pdqM2DWAcNs"
-tags = ["ipad", "apple", "hardware", "daniele-borghi", "produttività"]
-guest = "daniele-borghi"
+  guest = "daniele-borghi"
 +++
 
 In questa puntata Roberto e Filippo, accompagnati da Daniele Borghi parlano dei modelli di iPad acquistabili nel 2022 ed inizio 2023 e delle loro differente.

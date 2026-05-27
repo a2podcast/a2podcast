@@ -6,13 +6,13 @@ slug = "53"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336014/4ab90e3b_7991_47ec_aa68_a9422643ba9e.mp3"
 spreakerEpisodeId = "64336014"
 duration = "1:18:58"
-description = "Roberto e Filippo esplorano Notion, la web app freemium per la produttività. Scopri come creare note, database, liste di compiti e organizzare progetti con pagine, modelli e integrazioni."
+description = "In questa puntata Roberto e Filippo approfondiscono una web app che può fare un po' tutto: Notion."
+tags = ["notion", "produttivita", "appweb", "organizzazione", "database"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "zu4sk3QL7dE"
-tags = ["notion", "produttivita", "appweb", "organizzazione", "database"]
 +++
 
 > In questa puntata Roberto e Filippo approfondiscono una web app che può fare un po' tutto: Notion.

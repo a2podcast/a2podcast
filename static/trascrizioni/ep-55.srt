@@ -1,0 +1,6472 @@
+1
+00:00:00,560 --> 00:00:08,640
+Roberto Marin: Benvenuti all'episodio 55 di A2, in cui scoprire come ottenere il massimo dalla vostra tecnologia Apple.
+
+2
+00:00:08,640 --> 00:00:13,520
+Roberto Marin: Io sono Roberto Marin e sono il vostro ospite assieme all'amico Filippo Strozzi.
+
+3
+00:00:13,000 --> 00:00:13,240
+Roberto Marin: Di
+
+4
+00:00:13,400 --> 00:00:15,480
+Roberto Marin: cosa ci parli in questo episodio, Filippo?
+
+5
+00:00:15,480 --> 00:00:20,680
+Filippo Strozzi: Allora, in questo episodio parleremo dei cosiddetti lanciar o lanciatori
+
+6
+00:00:21,080 --> 00:00:21,400
+Filippo Strozzi: come
+
+7
+00:00:21,560 --> 00:00:23,480
+Filippo Strozzi: un'ottima traduzione.
+
+8
+00:00:24,840 --> 00:00:26,119
+Filippo Strozzi: in italiano
+
+9
+00:00:26,439 --> 00:00:27,080
+Filippo Strozzi: ma prima
+
+10
+00:00:27,240 --> 00:00:31,800
+Filippo Strozzi: di questo faccio partire la sigla e ti metto a posto l'audio che non si sente invece nella
+
+11
+00:00:32,040 --> 00:00:32,680
+Filippo Strozzi: diretta
+
+12
+00:00:33,220 --> 00:00:33,540
+Roberto Marin: Quindi
+
+13
+00:00:33,780 --> 00:00:34,500
+Roberto Marin: sigla
+
+14
+00:00:35,700 --> 00:00:36,260
+Roberto Marin: a due
+
+15
+00:00:36,420 --> 00:00:37,300
+Roberto Marin: podcast.
+
+16
+00:00:37,300 --> 00:00:41,220
+Roberto Marin: Scopri come ottenere il massimo dalla tua tecnologia Apple.
+
+17
+00:00:40,700 --> 00:00:48,380
+Roberto Marin: Due professionisti, Filippo e Roberto, te lo spiegano con argomenti monotematici ed ospiti che raccontano il loro flusso di lavoro.
+
+18
+00:00:53,820 --> 00:00:55,500
+Filippo Strozzi: E va bene, va bene, quindi.
+
+19
+00:00:56,020 --> 00:00:56,340
+Filippo Strozzi: quindi
+
+20
+00:00:56,900 --> 00:00:57,380
+Filippo Strozzi: allora
+
+21
+00:00:58,260 --> 00:00:59,540
+Filippo Strozzi: parlavamo di
+
+22
+00:00:59,780 --> 00:00:59,940
+Filippo Strozzi: dei
+
+23
+00:01:00,100 --> 00:01:01,060
+Filippo Strozzi: nostri mitici
+
+24
+00:01:01,380 --> 00:01:02,820
+Filippo Strozzi: dei nostri mitici
+
+25
+00:01:03,060 --> 00:01:03,860
+Filippo Strozzi: lanchar
+
+26
+00:01:04,020 --> 00:01:04,180
+Filippo Strozzi: uh
+
+27
+00:01:04,500 --> 00:01:04,739
+Filippo Strozzi: ho fatto
+
+28
+00:01:04,900 --> 00:01:07,460
+Filippo Strozzi: anche una foto mentre guardavo il mitico
+
+29
+00:01:08,040 --> 00:01:08,760
+Filippo Strozzi: FaceTime.
+
+30
+00:01:09,400 --> 00:01:12,840
+Filippo Strozzi: Oggi abbiamo, innanzitutto, una serie di problemi di diretta.
+
+31
+00:01:12,840 --> 00:01:17,800
+Filippo Strozzi: Perché effettivamente abbiamo fatto qualche cambiamento, però, questo mi permette almeno di
+
+32
+00:01:18,360 --> 00:01:20,360
+Filippo Strozzi: farvi vedere e sentire.
+
+33
+00:01:20,000 --> 00:01:22,960
+Filippo Strozzi: Adesso io in cuffia lo sento male, ma fa lo stesso.
+
+34
+00:01:23,600 --> 00:01:27,520
+Filippo Strozzi: Roberto, con i nostri potenti mezzi, perché con FaceTime
+
+35
+00:01:27,760 --> 00:01:30,640
+Filippo Strozzi: riusciamo comunque a sentirci e parlarci un
+
+36
+00:01:30,800 --> 00:01:32,000
+Filippo Strozzi: meglio, direi.
+
+37
+00:01:32,800 --> 00:01:35,840
+Filippo Strozzi: Roberto, anche tu dimmi se effettivamente
+
+38
+00:01:36,480 --> 00:01:36,800
+Filippo Strozzi: questa
+
+39
+00:01:37,040 --> 00:01:38,160
+Filippo Strozzi: configurazione è
+
+40
+00:01:38,640 --> 00:01:39,680
+Filippo Strozzi: più performante
+
+41
+00:01:40,480 --> 00:01:43,040
+Filippo Strozzi: per i nostri amici criticeti.
+
+42
+00:01:42,300 --> 00:01:44,300
+Roberto Marin: Ecco diciamo che dalla mia parte
+
+43
+00:01:44,860 --> 00:01:47,420
+Roberto Marin: ti vedo molto male, nel senso che non,
+
+44
+00:01:47,660 --> 00:01:49,020
+Roberto Marin: evidentemente,
+
+45
+00:01:50,040 --> 00:01:53,800
+Roberto Marin: La questione audio è privilegiata rispetto al video, perché
+
+46
+00:01:53,960 --> 00:01:57,000
+Roberto Marin: in effetti col video, con la mia linea Criticiti, ti vedo a
+
+47
+00:01:57,160 --> 00:02:00,680
+Roberto Marin: stanghette, per intenderci, con tutte tante barre.
+
+48
+00:02:00,620 --> 00:02:03,500
+Roberto Marin: Ma in ogni caso ti sento molto bene in confronto.
+
+49
+00:02:03,500 --> 00:02:04,300
+Filippo Strozzi: Sì, anch'io.
+
+50
+00:02:04,380 --> 00:02:05,020
+Filippo Strozzi: Cioè, adesso
+
+51
+00:02:05,180 --> 00:02:05,500
+Filippo Strozzi: prima,
+
+52
+00:02:05,660 --> 00:02:08,619
+Filippo Strozzi: adesso non so esattamente cosa ho fatto, però direi che
+
+53
+00:02:08,860 --> 00:02:10,940
+Filippo Strozzi: da quel che vedo, diciamo, nel.
+
+54
+00:02:11,240 --> 00:02:11,480
+Filippo Strozzi: nella
+
+55
+00:02:11,640 --> 00:02:13,160
+Filippo Strozzi: gestione dell'audio
+
+56
+00:02:14,120 --> 00:02:15,320
+Filippo Strozzi: ti vedo bene
+
+57
+00:02:15,480 --> 00:02:16,360
+Filippo Strozzi: quindi mi va bene
+
+58
+00:02:16,520 --> 00:02:16,840
+Filippo Strozzi: ottimo
+
+59
+00:02:17,000 --> 00:02:18,440
+Filippo Strozzi: speriamo che tutto vada
+
+60
+00:02:19,240 --> 00:02:21,400
+Filippo Strozzi: come debba poi eventualmente
+
+61
+00:02:21,560 --> 00:02:23,560
+Filippo Strozzi: gestiremo meglio la nostra diretta
+
+62
+00:02:23,880 --> 00:02:24,840
+Filippo Strozzi: youtube
+
+63
+00:02:24,920 --> 00:02:25,720
+Filippo Strozzi: per le prossime
+
+64
+00:02:25,880 --> 00:02:26,200
+Filippo Strozzi: anzi
+
+65
+00:02:26,520 --> 00:02:27,560
+Filippo Strozzi: lunedì prossimo
+
+66
+00:02:27,800 --> 00:02:31,560
+Filippo Strozzi: perché dobbiamo fare il recupero delle puntate perché siamo veramente
+
+67
+00:02:31,880 --> 00:02:32,200
+Filippo Strozzi: a
+
+68
+00:02:33,960 --> 00:02:34,280
+Filippo Strozzi: quella
+
+69
+00:02:34,840 --> 00:02:35,080
+Filippo Strozzi: gola
+
+70
+00:02:35,320 --> 00:02:35,720
+Filippo Strozzi: esatto
+
+71
+00:02:35,880 --> 00:02:36,920
+Filippo Strozzi: esatto esatto
+
+72
+00:02:37,080 --> 00:02:37,880
+Filippo Strozzi: esatto
+
+73
+00:02:37,920 --> 00:02:38,240
+Filippo Strozzi: Quindi
+
+74
+00:02:39,040 --> 00:02:40,000
+Filippo Strozzi: dobbiamo fare
+
+75
+00:02:40,320 --> 00:02:42,160
+Filippo Strozzi: a sprombattuto puntate.
+
+76
+00:02:42,160 --> 00:02:47,520
+Filippo Strozzi: Quindi, venendo all'argomento di oggi, cosa sono esattamente i lanchar?
+
+77
+00:02:47,760 --> 00:02:50,320
+Filippo Strozzi: E perché, secondo me.
+
+78
+00:02:50,520 --> 00:02:57,720
+Filippo Strozzi: queste applicazioni possono essere interessanti sia per il nostro amico Roberto che di fatto da quello che ne so io come al suo solito
+
+79
+00:02:57,800 --> 00:03:00,360
+Filippo Strozzi: Non li usa o non li usa più di tanto direi.
+
+80
+00:03:00,360 --> 00:03:05,960
+Roberto Marin: Esatto, e poi tra l'altro faccio un'avvertenza, io in questa puntata tenderò a fare l'avvocato del diavolo, ovvero
+
+81
+00:03:06,120 --> 00:03:08,120
+Roberto Marin: quello che è contro i launcher.
+
+82
+00:03:08,220 --> 00:03:08,620
+Roberto Marin: Giusto
+
+83
+00:03:08,780 --> 00:03:14,220
+Roberto Marin: per ravivare un po' la puntata, perché purtroppo io su questo tipo di applicazioni non ho molto da dire
+
+84
+00:03:14,379 --> 00:03:20,939
+Roberto Marin: perché ne utilizzo uno e potete immaginare quale sia, ma invece il buon Filippo, che è uno che prova, fa, disfa
+
+85
+00:03:21,099 --> 00:03:22,299
+Roberto Marin: e rimonta.
+
+86
+00:03:22,080 --> 00:03:26,720
+Roberto Marin: ci spiegherà per quale motivo i launcher sono meglio che non averli, mentre io cercherò di fare
+
+87
+00:03:26,880 --> 00:03:28,000
+Roberto Marin: le domande che
+
+88
+00:03:28,160 --> 00:03:30,960
+Roberto Marin: rendino chiaro molto di più questa differenza.
+
+89
+00:03:30,960 --> 00:03:32,400
+Roberto Marin: Benissimo, benissimo.
+
+90
+00:03:34,040 --> 00:03:37,080
+Filippo Strozzi: Ne abbiamo parlato, non abbiamo specificato cosa sono.
+
+91
+00:03:37,080 --> 00:03:38,280
+Filippo Strozzi: Sono sostanzialmente
+
+92
+00:03:38,520 --> 00:03:38,840
+Filippo Strozzi: appunto
+
+93
+00:03:39,000 --> 00:03:40,040
+Filippo Strozzi: i lancia, sono
+
+94
+00:03:40,280 --> 00:03:40,600
+Filippo Strozzi: delle
+
+95
+00:03:41,080 --> 00:03:46,440
+Filippo Strozzi: applicazioni, adesso ne vedremo di vario tipo, diciamo che.
+
+96
+00:03:46,440 --> 00:03:49,959
+Filippo Strozzi: Io ne utilizzo una in particolare, Roberto presumo
+
+97
+00:03:50,120 --> 00:03:53,319
+Filippo Strozzi: utilizza quella di base, diciamo, di MECOS.
+
+98
+00:03:54,519 --> 00:03:57,080
+Filippo Strozzi: Vedremo anche, diciamo, i competitor.
+
+99
+00:03:58,600 --> 00:03:58,840
+Filippo Strozzi: perché
+
+100
+00:03:59,160 --> 00:04:00,680
+Filippo Strozzi: attualmente io sono
+
+101
+00:04:02,120 --> 00:04:10,280
+Filippo Strozzi: nella vecchia guardia, nel senso che utilizzo una vecchia applicazione che tuttora funziona perfettamente, di cui sono molto soddisfatto.
+
+102
+00:04:10,040 --> 00:04:10,680
+Filippo Strozzi: A me
+
+103
+00:04:11,240 --> 00:04:11,960
+Filippo Strozzi: velocizza
+
+104
+00:04:12,120 --> 00:04:13,320
+Filippo Strozzi: drasticamente
+
+105
+00:04:13,480 --> 00:04:15,880
+Filippo Strozzi: l'utilizzo del computer, quindi per me è
+
+106
+00:04:16,200 --> 00:04:17,160
+Filippo Strozzi: un'ottima
+
+107
+00:04:17,400 --> 00:04:19,640
+Filippo Strozzi: soluzione, chiamiamola così.
+
+108
+00:04:19,200 --> 00:04:20,720
+Filippo Strozzi: Però ammetto che
+
+109
+00:04:21,040 --> 00:04:22,400
+Filippo Strozzi: il vero competitor
+
+110
+00:04:22,560 --> 00:04:22,880
+Filippo Strozzi: che
+
+111
+00:04:24,320 --> 00:04:28,960
+Filippo Strozzi: dovrei approfondire, non ho voglia, proprio perché non voglio perdermi in mille rivoli, sarebbe
+
+112
+00:04:29,120 --> 00:04:30,160
+Filippo Strozzi: Alfred.
+
+113
+00:04:29,900 --> 00:04:31,820
+Filippo Strozzi: Questi lanciar cosa fanno?
+
+114
+00:04:31,820 --> 00:04:32,380
+Filippo Strozzi: Nella
+
+115
+00:04:32,540 --> 00:04:37,500
+Filippo Strozzi: maggior parte dei casi i lanciar fanno una cosa, cioè lanciano altre applicazioni.
+
+116
+00:04:37,500 --> 00:04:41,340
+Filippo Strozzi: E giustamente tu Roberto mi dirai, ma perché invece di
+
+117
+00:04:41,660 --> 00:04:42,860
+Filippo Strozzi: cliccare.
+
+118
+00:04:43,360 --> 00:04:44,879
+Filippo Strozzi: Sull'Aunchpad
+
+119
+00:04:45,039 --> 00:04:45,680
+Filippo Strozzi: o quello che è.
+
+120
+00:04:45,680 --> 00:04:46,800
+Filippo Strozzi: Aspetta, vediamo come si chiama.
+
+121
+00:04:47,039 --> 00:04:52,960
+Roberto Marin: Infatti, ho tutta una serie di belle applicazioni che posso trovare nella mia cartella applicazioni, oppure ho
+
+122
+00:04:53,599 --> 00:04:56,879
+Roberto Marin: tutte le applicazioni che ho nel mondo, c'ho nella mia.
+
+123
+00:04:57,639 --> 00:04:59,479
+Roberto Marin: Nella barra sotto non mi ricordo come si chiama
+
+124
+00:05:00,440 --> 00:05:00,680
+Roberto Marin: Doc
+
+125
+00:05:01,479 --> 00:05:04,520
+Roberto Marin: ecco, ho tutte le mie applicazioni infinite
+
+126
+00:05:04,840 --> 00:05:05,720
+Roberto Marin: sul Doc.
+
+127
+00:05:05,720 --> 00:05:07,560
+Roberto Marin: Se vedete qualche youtuber.
+
+128
+00:05:07,300 --> 00:05:09,060
+Roberto Marin: Potete anche vedere che hanno delle doc
+
+129
+00:05:09,300 --> 00:05:17,860
+Roberto Marin: lunghissime con le cucine piccole perché appunto hanno tutte le applicazioni lì, oppure possono trovarlo, che ne so, ad esempio con come dicevi tu, con.
+
+130
+00:05:18,780 --> 00:05:19,820
+Roberto Marin: il launch pad
+
+131
+00:05:20,139 --> 00:05:21,340
+Roberto Marin: che praticamente
+
+132
+00:05:21,660 --> 00:05:22,860
+Roberto Marin: potete richiamarlo col
+
+133
+00:05:23,020 --> 00:05:23,580
+Roberto Marin: trackpad
+
+134
+00:05:23,820 --> 00:05:24,380
+Roberto Marin: se non ricordo
+
+135
+00:05:24,540 --> 00:05:24,860
+Roberto Marin: male
+
+136
+00:05:25,100 --> 00:05:26,060
+Roberto Marin: io ho messo
+
+137
+00:05:26,539 --> 00:05:28,300
+Roberto Marin: Una scorciatoia,
+
+138
+00:05:28,539 --> 00:05:39,020
+Roberto Marin: diciamo da mouse, chiamiamola così, ovvero ho usato un angolo attivo dello schermo, o l'angolo attivo in basso a destra, che se io sposto il mouse sull'angolo attivo in basso a destra.
+
+139
+00:05:38,820 --> 00:05:40,340
+Roberto Marin: mi apre tutte
+
+140
+00:05:42,100 --> 00:05:44,500
+Roberto Marin: la pletora di applicazioni che ci sono sulla
+
+141
+00:05:44,660 --> 00:05:45,380
+Roberto Marin: Launchpad
+
+142
+00:05:45,780 --> 00:05:46,100
+Roberto Marin: e
+
+143
+00:05:46,280 --> 00:05:48,840
+Roberto Marin: ricorda molto l'iPad per intenderci.
+
+144
+00:05:48,840 --> 00:05:52,600
+Filippo Strozzi: Sì, allora, invece, invece, io che sono un amante
+
+145
+00:05:53,560 --> 00:05:53,720
+Filippo Strozzi: del
+
+146
+00:05:53,960 --> 00:05:55,640
+Filippo Strozzi: lavorare a tastiera
+
+147
+00:05:55,740 --> 00:05:56,860
+Filippo Strozzi: Sostanzialmente
+
+148
+00:05:57,180 --> 00:05:58,540
+Filippo Strozzi: trovo abbastanza
+
+149
+00:05:58,860 --> 00:06:00,780
+Filippo Strozzi: una perdita di tempo notevole
+
+150
+00:06:00,940 --> 00:06:02,700
+Filippo Strozzi: il fatto di dovermi sempre
+
+151
+00:06:02,940 --> 00:06:08,220
+Filippo Strozzi: muovere con il mouse a destra manca e andare a accedere in una qualche maniera appunto
+
+152
+00:06:08,380 --> 00:06:10,380
+Filippo Strozzi: o all'angolo.
+
+153
+00:06:10,440 --> 00:06:10,680
+Filippo Strozzi: della
+
+154
+00:06:10,840 --> 00:06:13,800
+Filippo Strozzi: scrivania appunto virtuale e così via.
+
+155
+00:06:13,960 --> 00:06:15,000
+Filippo Strozzi: Il concetto
+
+156
+00:06:15,319 --> 00:06:16,120
+Filippo Strozzi: dei launchar
+
+157
+00:06:16,520 --> 00:06:20,360
+Filippo Strozzi: è quello che premendo due tasti abitualmente command spazio
+
+158
+00:06:21,060 --> 00:06:24,820
+Filippo Strozzi: Si apreciamo una finestrella in mezzo allo schermo
+
+159
+00:06:25,060 --> 00:06:31,940
+Filippo Strozzi: e digitando con la tastiera io posso da una parte digitare per esempio il nome di un'applicazione e aprirla.
+
+160
+00:06:31,920 --> 00:06:32,240
+Filippo Strozzi: E
+
+161
+00:06:32,560 --> 00:06:34,000
+Filippo Strozzi: lo ripeto,
+
+162
+00:06:34,320 --> 00:06:34,640
+Filippo Strozzi: quando
+
+163
+00:06:35,280 --> 00:06:37,040
+Filippo Strozzi: fai queste operazioni
+
+164
+00:06:37,520 --> 00:06:39,280
+Filippo Strozzi: la velocità con cui
+
+165
+00:06:39,600 --> 00:06:42,400
+Filippo Strozzi: riesci a lanciare un'applicazione è mille
+
+166
+00:06:42,640 --> 00:06:43,520
+Filippo Strozzi: volte.
+
+167
+00:06:43,620 --> 00:06:43,860
+Filippo Strozzi: di
+
+168
+00:06:44,020 --> 00:06:48,659
+Filippo Strozzi: più di quella di andare a cercare per esempio non so all'interno del delunchpad
+
+169
+00:06:48,979 --> 00:06:50,500
+Filippo Strozzi: l'applicazione che ti interessa
+
+170
+00:06:50,740 --> 00:06:51,060
+Filippo Strozzi: ok
+
+171
+00:06:51,800 --> 00:06:55,320
+Filippo Strozzi: Stesso discorso si deve andare a cercare nella cartella dell'applicazione o nella
+
+172
+00:06:55,479 --> 00:06:55,639
+Filippo Strozzi: doc
+
+173
+00:06:55,880 --> 00:06:56,600
+Filippo Strozzi: e così via, anzi
+
+174
+00:06:56,759 --> 00:06:58,280
+Filippo Strozzi: abitualmente io poi per
+
+175
+00:06:58,840 --> 00:07:00,040
+Filippo Strozzi: comodità.
+
+176
+00:06:59,800 --> 00:07:00,280
+Filippo Strozzi: o l'ado
+
+177
+00:07:00,759 --> 00:07:01,400
+Filippo Strozzi: che si
+
+178
+00:07:01,639 --> 00:07:05,159
+Filippo Strozzi: oscura sostanzialmente quindi solo se ci porto il mouse
+
+179
+00:07:06,280 --> 00:07:08,759
+Filippo Strozzi: nella parte di destra dello schermo, nel mio caso
+
+180
+00:07:09,000 --> 00:07:11,879
+Filippo Strozzi: per molti, probabilmente nella parte bassa dello schermo
+
+181
+00:07:12,120 --> 00:07:14,440
+Filippo Strozzi: l'adoc compare.
+
+182
+00:07:14,220 --> 00:07:14,540
+Filippo Strozzi: Quindi
+
+183
+00:07:15,020 --> 00:07:17,020
+Filippo Strozzi: tendenzialmente cosa faccio?
+
+184
+00:07:17,180 --> 00:07:17,740
+Filippo Strozzi: Attraverso
+
+185
+00:07:17,979 --> 00:07:19,100
+Filippo Strozzi: questo sistema?
+
+186
+00:07:19,100 --> 00:07:20,060
+Filippo Strozzi: Ho la possibilità
+
+187
+00:07:20,220 --> 00:07:23,020
+Filippo Strozzi: appunto di lanciare tutte le applicazioni.
+
+188
+00:07:22,600 --> 00:07:23,000
+Filippo Strozzi: Questo
+
+189
+00:07:23,160 --> 00:07:25,880
+Filippo Strozzi: però, e lo dico già, diciamo, il lancia
+
+190
+00:07:26,040 --> 00:07:26,440
+Filippo Strozzi: principale
+
+191
+00:07:26,600 --> 00:07:27,720
+Filippo Strozzi: gratuito che
+
+192
+00:07:28,040 --> 00:07:29,320
+Filippo Strozzi: si trova su tutti i Mac
+
+193
+00:07:29,880 --> 00:07:30,200
+Filippo Strozzi: è
+
+194
+00:07:30,360 --> 00:07:31,800
+Filippo Strozzi: Spotlight.
+
+195
+00:07:31,940 --> 00:07:33,379
+Filippo Strozzi: Ne abbiamo già parlato
+
+196
+00:07:33,699 --> 00:07:35,699
+Filippo Strozzi: nelle puntate precedenti, se
+
+197
+00:07:35,860 --> 00:07:36,659
+Filippo Strozzi: non va da errato
+
+198
+00:07:36,819 --> 00:07:41,379
+Filippo Strozzi: ne abbiamo parlato nella puntata 3, quindi proprio all'inizio della nostra carriera
+
+199
+00:07:41,539 --> 00:07:43,060
+Filippo Strozzi: di A2.
+
+200
+00:07:43,020 --> 00:07:43,340
+Filippo Strozzi: e
+
+201
+00:07:43,980 --> 00:07:46,460
+Filippo Strozzi: oggi non ne parleremo più di tanto
+
+202
+00:07:46,780 --> 00:07:49,020
+Filippo Strozzi: il discorso è che progressivamente
+
+203
+00:07:49,180 --> 00:07:50,140
+Filippo Strozzi: lo vedremo
+
+204
+00:07:50,380 --> 00:07:50,700
+Filippo Strozzi: appunto
+
+205
+00:07:50,940 --> 00:07:52,220
+Filippo Strozzi: spotlight ha
+
+206
+00:07:52,380 --> 00:07:52,940
+Filippo Strozzi: aggiunto
+
+207
+00:07:53,100 --> 00:07:53,740
+Filippo Strozzi: funzioni
+
+208
+00:07:54,060 --> 00:07:55,340
+Filippo Strozzi: ma abitualmente
+
+209
+00:07:55,760 --> 00:07:58,960
+Filippo Strozzi: i lanciar a pagamento tutte le applicazioni di cui parliamo oggi
+
+210
+00:07:59,120 --> 00:07:59,520
+Filippo Strozzi: tranne
+
+211
+00:07:59,840 --> 00:08:00,160
+Filippo Strozzi: una
+
+212
+00:08:00,720 --> 00:08:00,960
+Filippo Strozzi: sono
+
+213
+00:08:01,120 --> 00:08:02,000
+Filippo Strozzi: a pagamento
+
+214
+00:08:02,800 --> 00:08:04,320
+Filippo Strozzi: non lanciano solo
+
+215
+00:08:04,640 --> 00:08:05,920
+Filippo Strozzi: le applicazioni
+
+216
+00:08:05,800 --> 00:08:05,960
+Filippo Strozzi: ma
+
+217
+00:08:06,199 --> 00:08:06,520
+Filippo Strozzi: per esempio
+
+218
+00:08:06,680 --> 00:08:15,080
+Filippo Strozzi: fanno di conto, danno la possibilità di convertire le misure, c'è la possibilità per esempio di lanciare script o comandi rapidi
+
+219
+00:08:15,160 --> 00:08:16,040
+Filippo Strozzi: è possibile
+
+220
+00:08:17,240 --> 00:08:20,440
+Filippo Strozzi: cercare o aprire documenti all'interno
+
+221
+00:08:21,080 --> 00:08:21,960
+Filippo Strozzi: del computer
+
+222
+00:08:22,280 --> 00:08:22,920
+Filippo Strozzi: e quindi
+
+223
+00:08:23,240 --> 00:08:25,960
+Filippo Strozzi: ti permettono sostanzialmente di accedere
+
+224
+00:08:26,200 --> 00:08:26,520
+Filippo Strozzi: al
+
+225
+00:08:28,180 --> 00:08:29,460
+Filippo Strozzi: Al materiale
+
+226
+00:08:29,699 --> 00:08:33,779
+Filippo Strozzi: che è presente sul tuo computer in maniera veramente, veramente molto
+
+227
+00:08:33,940 --> 00:08:34,899
+Filippo Strozzi: molto rapida.
+
+228
+00:08:34,899 --> 00:08:38,099
+Roberto Marin: Ok, però, ma perché devo usare un'applicazione a pagamento?
+
+229
+00:08:38,099 --> 00:08:39,300
+Roberto Marin: Se io il mio.
+
+230
+00:08:39,259 --> 00:08:44,219
+Roberto Marin: Spotlight, che praticamente da quelli che hai nominato, non ne fa solo uno, che è quello di lanciare gli script.
+
+231
+00:08:44,300 --> 00:08:44,459
+Roberto Marin: Se no
+
+232
+00:08:44,699 --> 00:08:44,779
+Roberto Marin: ,
+
+233
+00:08:45,819 --> 00:08:48,220
+Filippo Strozzi: attualmente, Spotlight riesce anche a lanciare
+
+234
+00:08:49,019 --> 00:08:51,259
+Filippo Strozzi: i comandi rapidi sostanzialmente.
+
+235
+00:08:51,259 --> 00:08:52,779
+Roberto Marin: Ok, benissimo.
+
+236
+00:08:52,600 --> 00:08:54,040
+Filippo Strozzi: Allora, quindi qual è la differenza?
+
+237
+00:08:54,279 --> 00:08:57,399
+Filippo Strozzi: Il discorso è differente, per esempio, comandi rapidi,
+
+238
+00:08:57,560 --> 00:08:59,160
+Filippo Strozzi: sì, scusami, spotlight
+
+239
+00:09:00,360 --> 00:09:02,839
+Filippo Strozzi: ha una ricerca completa, chiamiamola così.
+
+240
+00:09:03,200 --> 00:09:03,840
+Filippo Strozzi: se tu inizi
+
+241
+00:09:04,000 --> 00:09:06,320
+Filippo Strozzi: a digitare del testo o addirittura non so
+
+242
+00:09:06,480 --> 00:09:07,040
+Filippo Strozzi: per esempio
+
+243
+00:09:07,280 --> 00:09:08,480
+Filippo Strozzi: esempio banale
+
+244
+00:09:09,600 --> 00:09:11,600
+Filippo Strozzi: inizi a digitare pignoramento
+
+245
+00:09:12,140 --> 00:09:13,420
+Filippo Strozzi: Spotlight cosa fa?
+
+246
+00:09:13,420 --> 00:09:14,700
+Filippo Strozzi: Va a cercare,
+
+247
+00:09:15,020 --> 00:09:15,500
+Filippo Strozzi: siccome è
+
+248
+00:09:15,660 --> 00:09:19,660
+Filippo Strozzi: indicizzato, Spotlight è anche un sistema di indicizzazione
+
+249
+00:09:20,300 --> 00:09:23,100
+Filippo Strozzi: dei file all'interno del nostro computer.
+
+250
+00:09:23,660 --> 00:09:24,620
+Filippo Strozzi: lo vedremo
+
+251
+00:09:26,220 --> 00:09:26,860
+Filippo Strozzi: meglio
+
+252
+00:09:27,500 --> 00:09:28,460
+Filippo Strozzi: più avanti
+
+253
+00:09:28,780 --> 00:09:30,140
+Filippo Strozzi: ma appunto ha delle funzioni
+
+254
+00:09:30,300 --> 00:09:30,620
+Filippo Strozzi: di
+
+255
+00:09:31,340 --> 00:09:32,700
+Filippo Strozzi: indicizzazione
+
+256
+00:09:33,220 --> 00:09:34,180
+Filippo Strozzi: dei documenti
+
+257
+00:09:34,420 --> 00:09:35,940
+Filippo Strozzi: mi tirerà fuori tutti
+
+258
+00:09:36,100 --> 00:09:37,860
+Filippo Strozzi: cioè nell'elenco diciamo di
+
+259
+00:09:38,100 --> 00:09:39,460
+Filippo Strozzi: questa finestra che si apre
+
+260
+00:09:39,620 --> 00:09:40,180
+Filippo Strozzi: appunto
+
+261
+00:09:40,660 --> 00:09:41,700
+Filippo Strozzi: lo ripeto
+
+262
+00:09:42,580 --> 00:09:45,140
+Filippo Strozzi: premendo il tasto command e spazio
+
+263
+00:09:45,680 --> 00:09:51,120
+Filippo Strozzi: Inizieranno a venire fuori tutti gli atti di pignoramento che ho fatto o comunque tutti i documenti che hanno
+
+264
+00:09:51,280 --> 00:09:52,320
+Filippo Strozzi: all'interno della
+
+265
+00:09:53,540 --> 00:09:56,420
+Filippo Strozzi: Del file, la parola pignoramento.
+
+266
+00:09:56,420 --> 00:09:56,820
+Filippo Strozzi: Il problema
+
+267
+00:09:56,980 --> 00:09:57,380
+Filippo Strozzi: qual è?
+
+268
+00:09:57,380 --> 00:10:04,820
+Filippo Strozzi: Per esempio, io invece voglio aprire il pignoramento che è all'interno della cartella Pincopallino, la numero 100.
+
+269
+00:10:04,640 --> 00:10:04,960
+Filippo Strozzi: e
+
+270
+00:10:05,120 --> 00:10:07,600
+Filippo Strozzi: vedere tutti i documenti di quella cartella.
+
+271
+00:10:07,600 --> 00:10:09,600
+Filippo Strozzi: Spotlight non te lo permette di fare.
+
+272
+00:10:09,600 --> 00:10:10,240
+Filippo Strozzi: Launchbar
+
+273
+00:10:10,400 --> 00:10:16,160
+Filippo Strozzi: per esempio che è l'applicazione che utilizzo io, ma quasi tutte le altre applicazioni lo fanno.
+
+274
+00:10:15,600 --> 00:10:16,000
+Filippo Strozzi: appunto
+
+275
+00:10:16,160 --> 00:10:20,639
+Filippo Strozzi: ti permette di navigare velocemente all'interno delle cartelle del sistema.
+
+276
+00:10:20,639 --> 00:10:23,759
+Filippo Strozzi: Uzzando semplicemente appunto il Lanchar
+
+277
+00:10:23,640 --> 00:10:23,960
+Filippo Strozzi: e
+
+278
+00:10:24,200 --> 00:10:25,960
+Filippo Strozzi: la tastiera, quindi
+
+279
+00:10:26,600 --> 00:10:27,960
+Filippo Strozzi: nel mio caso specifico
+
+280
+00:10:28,120 --> 00:10:29,800
+Filippo Strozzi: una cosa che faccio quotidianamente
+
+281
+00:10:29,960 --> 00:10:31,480
+Filippo Strozzi: più volte al giorno
+
+282
+00:10:31,560 --> 00:10:33,880
+Filippo Strozzi: devo aprire una posizione
+
+283
+00:10:34,120 --> 00:10:34,760
+Filippo Strozzi: io
+
+284
+00:10:35,080 --> 00:10:35,400
+Filippo Strozzi: ho
+
+285
+00:10:35,880 --> 00:10:37,400
+Filippo Strozzi: indicato all'Aunchbar
+
+286
+00:10:37,720 --> 00:10:38,840
+Filippo Strozzi: la cartella
+
+287
+00:10:39,160 --> 00:10:40,840
+Filippo Strozzi: la root chiamiamola così
+
+288
+00:10:41,640 --> 00:10:44,440
+Filippo Strozzi: delle mie pratiche quindi io digitando PF
+
+289
+00:10:44,759 --> 00:10:47,639
+Filippo Strozzi: Ho la possibilità di entrare direttamente in quella cartella.
+
+290
+00:10:47,639 --> 00:10:49,639
+Filippo Strozzi: Da lì mi muovo velocemente perché vabbè
+
+291
+00:10:49,800 --> 00:10:55,560
+Filippo Strozzi: le cartelle sono numerate, quindi ogni posizione ha un numero di pratica e quindi in base al numero della pratica
+
+292
+00:10:55,560 --> 00:10:56,680
+Filippo Strozzi: io riesco
+
+293
+00:10:57,000 --> 00:11:02,840
+Filippo Strozzi: ad andare in quella cartella e dentro quella cartella poi posso appunto aprire la singola cartella
+
+294
+00:11:03,000 --> 00:11:04,040
+Filippo Strozzi: aprire il singolo file
+
+295
+00:11:04,200 --> 00:11:06,920
+Filippo Strozzi: copiare il singolo file spostare il singolo file
+
+296
+00:11:06,959 --> 00:11:12,880
+Filippo Strozzi: Posso fare tutta una serie di cose senza mai alzare le mani dalla tastiera.
+
+297
+00:11:12,880 --> 00:11:15,040
+Filippo Strozzi: E questo ovviamente diventa molto
+
+298
+00:11:15,200 --> 00:11:18,320
+Filippo Strozzi: molto vantaggioso per mille motivi.
+
+299
+00:11:17,959 --> 00:11:19,959
+Filippo Strozzi: un altro esempio che ti posso fare
+
+300
+00:11:20,200 --> 00:11:22,440
+Filippo Strozzi: recentemente ho fatto dei webinar
+
+301
+00:11:22,600 --> 00:11:24,279
+Filippo Strozzi: e tra le varie cose che
+
+302
+00:11:24,600 --> 00:11:25,560
+Filippo Strozzi: facevo
+
+303
+00:11:25,740 --> 00:11:28,300
+Filippo Strozzi: C'era quella di mettere un QR code
+
+304
+00:11:28,540 --> 00:11:30,860
+Filippo Strozzi: all'interno delle slide per far vedere
+
+305
+00:11:31,500 --> 00:11:34,060
+Filippo Strozzi: il riferimento alla norma piuttosto che.
+
+306
+00:11:34,060 --> 00:11:34,380
+Filippo Strozzi: .
+
+307
+00:11:34,200 --> 00:11:35,720
+Filippo Strozzi: riferimento a una pagina web
+
+308
+00:11:34,380 --> 00:11:34,700
+Filippo Strozzi: .
+
+309
+00:11:35,880 --> 00:11:36,200
+Filippo Strozzi: ok
+
+310
+00:11:36,440 --> 00:11:37,720
+Filippo Strozzi: quindi cosa succedeva
+
+311
+00:11:38,040 --> 00:11:40,600
+Filippo Strozzi: per fare questo ho creato una un comando rapido
+
+312
+00:11:40,760 --> 00:11:44,760
+Filippo Strozzi: che è un comando rapido veramente stupido tra l'altro cioè prende
+
+313
+00:11:45,080 --> 00:11:46,040
+Filippo Strozzi: l'URL
+
+314
+00:11:46,360 --> 00:11:50,120
+Filippo Strozzi: salvato negli appunti, ok, quindi io ovviamente
+
+315
+00:11:51,400 --> 00:11:52,280
+Filippo Strozzi: copiavo
+
+316
+00:11:52,520 --> 00:11:55,640
+Filippo Strozzi: negli appunti l'URL della pagina piuttosto che l'URL
+
+317
+00:11:55,800 --> 00:11:58,040
+Filippo Strozzi: della norma a cui volevo fare riferimento
+
+318
+00:11:58,000 --> 00:11:58,080
+Filippo Strozzi: e
+
+319
+00:11:58,400 --> 00:11:59,200
+Filippo Strozzi: che poi col
+
+320
+00:11:59,360 --> 00:12:00,960
+Filippo Strozzi: cellulare chi guardava
+
+321
+00:12:02,240 --> 00:12:03,440
+Filippo Strozzi: dallo schermo
+
+322
+00:12:03,600 --> 00:12:05,920
+Filippo Strozzi: poteva ovviamente recuperare
+
+323
+00:12:07,140 --> 00:12:07,780
+Filippo Strozzi: A questo
+
+324
+00:12:07,940 --> 00:12:09,060
+Filippo Strozzi: punto, fatto
+
+325
+00:12:09,300 --> 00:12:10,740
+Filippo Strozzi: questo, digitavo
+
+326
+00:12:10,980 --> 00:12:11,220
+Filippo Strozzi: Co
+
+327
+00:12:11,460 --> 00:12:14,900
+Filippo Strozzi: per comandi rapidi, poi digitavo QR
+
+328
+00:12:16,540 --> 00:12:19,420
+Filippo Strozzi: QR per QR code che è il nome della shortcut
+
+329
+00:12:20,140 --> 00:12:22,940
+Filippo Strozzi: a cui avevo dato, a questo punto cliccavo invio
+
+330
+00:12:23,180 --> 00:12:26,620
+Filippo Strozzi: e in automatico veniva lanciato il comando rapido
+
+331
+00:12:26,300 --> 00:12:26,459
+Filippo Strozzi: per
+
+332
+00:12:26,779 --> 00:12:27,100
+Filippo Strozzi: cui
+
+333
+00:12:27,740 --> 00:12:35,180
+Filippo Strozzi: il link veniva convertito in un QR code e il QR code veniva salvato a sua volta negli appunti quindi io in Keynote cosa facevo?
+
+334
+00:12:35,180 --> 00:12:37,100
+Filippo Strozzi: Selezionavo e copiavo il
+
+335
+00:12:37,560 --> 00:12:38,120
+Filippo Strozzi: L'URL
+
+336
+00:12:38,440 --> 00:12:40,440
+Filippo Strozzi: e praticamente facevo CTRL-V
+
+337
+00:12:41,160 --> 00:12:42,920
+Filippo Strozzi: dopo aver lanciato questo comando
+
+338
+00:12:44,840 --> 00:12:47,960
+Filippo Strozzi: per copiare, diciamo, incollare anzi
+
+339
+00:12:48,200 --> 00:12:50,520
+Filippo Strozzi: il QR code direttamente in
+
+340
+00:12:51,320 --> 00:12:52,200
+Filippo Strozzi: Keynote.
+
+341
+00:12:52,339 --> 00:12:53,300
+Filippo Strozzi: Tutto questo
+
+342
+00:12:53,540 --> 00:12:57,620
+Filippo Strozzi: ci metto più tempo a raccontartelo che a farlo sostanzialmente, proprio perché
+
+343
+00:12:57,860 --> 00:13:02,579
+Filippo Strozzi: è tutto svolto attraverso la tastiera digitando velocemente qualche tasto.
+
+344
+00:13:02,259 --> 00:13:02,500
+Filippo Strozzi: perché
+
+345
+00:13:03,779 --> 00:13:04,899
+Filippo Strozzi: alla fine appunto
+
+346
+00:13:05,220 --> 00:13:06,180
+Filippo Strozzi: tutto il sistema
+
+347
+00:13:06,500 --> 00:13:09,380
+Filippo Strozzi: diventa utile e funzionante proprio perché
+
+348
+00:13:09,699 --> 00:13:10,420
+Filippo Strozzi: ti richiede
+
+349
+00:13:11,160 --> 00:13:12,360
+Filippo Strozzi: pochissimo sforzo
+
+350
+00:13:12,519 --> 00:13:19,079
+Filippo Strozzi: ovviamente una volta che hai memorizzato diciamo il funzionamento di questi sogni ok ma se volessi usare spotlight
+
+351
+00:13:19,319 --> 00:13:20,040
+Roberto Marin: sul mio Mac
+
+352
+00:13:20,279 --> 00:13:21,000
+Roberto Marin: cosa devo fare
+
+353
+00:13:21,160 --> 00:13:21,800
+Roberto Marin: per esempio
+
+354
+00:13:22,060 --> 00:13:23,740
+Roberto Marin: L'abrivazione della tastiera dove la.
+
+355
+00:13:23,820 --> 00:13:23,980
+Roberto Marin: No,
+
+356
+00:13:24,140 --> 00:13:26,940
+Filippo Strozzi: Spotlight non ti fa tutta questa cosa qua, per esempio.
+
+357
+00:13:26,940 --> 00:13:27,260
+Filippo Strozzi: Quindi
+
+358
+00:13:28,060 --> 00:13:33,180
+Filippo Strozzi: dopo Spotlight ha tutta una serie di problemi, nel senso che, per esempio, dovresti cercare di utilizzare
+
+359
+00:13:33,500 --> 00:13:36,540
+Filippo Strozzi: per lanciare il comando rapido, devi.
+
+360
+00:13:36,800 --> 00:13:38,560
+Roberto Marin: No, no, ferma, ferma.
+
+361
+00:13:38,560 --> 00:13:41,040
+Roberto Marin: Ti chiedevo come impostare l'abbreviazione
+
+362
+00:13:41,200 --> 00:13:43,600
+Roberto Marin: tastiera per lanciare spotlight?
+
+363
+00:13:43,600 --> 00:13:46,320
+Filippo Strozzi: Allora, spotlight è già preimpostato,
+
+364
+00:13:46,959 --> 00:13:48,640
+Filippo Strozzi: non devi fare nulla.
+
+365
+00:13:49,279 --> 00:13:49,760
+Filippo Strozzi: Il Mac
+
+366
+00:13:49,920 --> 00:13:51,680
+Filippo Strozzi: è già preimpostato il comando.
+
+367
+00:13:51,920 --> 00:13:53,519
+Filippo Strozzi: Command spazio
+
+368
+00:13:54,160 --> 00:13:55,120
+Filippo Strozzi: e automaticamente
+
+369
+00:13:55,519 --> 00:13:56,079
+Roberto Marin: te lo chiedo
+
+370
+00:13:56,240 --> 00:13:56,560
+Roberto Marin: perché
+
+371
+00:13:58,000 --> 00:13:59,680
+Roberto Marin: non ne sono sicurissimo, nel
+
+372
+00:13:59,839 --> 00:14:00,319
+Roberto Marin: senso che
+
+373
+00:14:00,880 --> 00:14:01,759
+Roberto Marin: sono sicuro io per
+
+374
+00:14:02,399 --> 00:14:02,800
+Roberto Marin: memoria
+
+375
+00:14:03,440 --> 00:14:03,760
+Roberto Marin: ok
+
+376
+00:14:04,640 --> 00:14:05,280
+Filippo Strozzi: appunto
+
+377
+00:14:05,600 --> 00:14:05,920
+Filippo Strozzi: quando
+
+378
+00:14:06,160 --> 00:14:06,480
+Filippo Strozzi: tu
+
+379
+00:14:06,720 --> 00:14:07,600
+Filippo Strozzi: installi questa
+
+380
+00:14:07,760 --> 00:14:08,240
+Filippo Strozzi: applicazione
+
+381
+00:14:08,400 --> 00:14:11,360
+Filippo Strozzi: al posto di ovviamente spotlight
+
+382
+00:14:13,259 --> 00:14:19,500
+Filippo Strozzi: La scorsa storia della tastiera va in conflitto, chiamiamola così, e quindi devi bloccare o modificare,
+
+383
+00:14:20,380 --> 00:14:23,339
+Filippo Strozzi: se vuoi mantenere ovviamente Spotlight funzionante.
+
+384
+00:14:23,339 --> 00:14:25,019
+Roberto Marin: Aspetta un attimo.
+
+385
+00:14:25,120 --> 00:14:27,279
+Roberto Marin: Perché se tu guardi un attimo
+
+386
+00:14:28,480 --> 00:14:31,839
+Roberto Marin: sulla nostra mappa mentale, e vai a vedere diciamo
+
+387
+00:14:32,000 --> 00:14:34,160
+Roberto Marin: gli screenshot che hai fatto per guardare la
+
+388
+00:14:34,320 --> 00:14:34,800
+Roberto Marin: relazione
+
+389
+00:14:34,959 --> 00:14:36,240
+Roberto Marin: da tastiera,
+
+390
+00:14:36,060 --> 00:14:37,420
+Roberto Marin: Vedi che c'è su un mostro della
+
+391
+00:14:37,580 --> 00:14:39,420
+Roberto Marin: ricerca spotlight che ha
+
+392
+00:14:40,540 --> 00:14:43,820
+Roberto Marin: un comando da tastiera diverso rispetto a quello che utilizziamo.
+
+393
+00:14:43,820 --> 00:14:45,580
+Filippo Strozzi: Eh sì, perché io l'ho cambiato,
+
+394
+00:14:45,820 --> 00:14:45,900
+Filippo Strozzi: gli
+
+395
+00:14:46,060 --> 00:14:48,860
+Filippo Strozzi: screenshot sono del mio computer.
+
+396
+00:14:49,180 --> 00:14:49,420
+Roberto Marin: E
+
+397
+00:14:49,580 --> 00:14:50,940
+Roberto Marin: di fatti è quello che.
+
+398
+00:14:53,820 --> 00:14:56,940
+Roberto Marin: mi pare di aver preso un computer di un'altra persona.
+
+399
+00:14:56,839 --> 00:15:00,440
+Roberto Marin: E non era command spazio, era impostato su qualcos'altro.
+
+400
+00:15:00,440 --> 00:15:01,560
+Filippo Strozzi: Ah, vabbè, è ovvio che se lo
+
+401
+00:15:01,720 --> 00:15:02,279
+Roberto Marin: modifichi,
+
+402
+00:15:02,759 --> 00:15:03,399
+Filippo Strozzi: ma questo è.
+
+403
+00:15:03,560 --> 00:15:04,519
+Roberto Marin: No, no, no,
+
+404
+00:15:04,920 --> 00:15:06,600
+Roberto Marin: senza modificarlo.
+
+405
+00:15:07,079 --> 00:15:10,600
+Roberto Marin: Mi pare di averlo fatto anche sul mio di aver impostato command spazio.
+
+406
+00:15:13,160 --> 00:15:13,320
+Roberto Marin: Quello
+
+407
+00:15:13,480 --> 00:15:14,200
+Roberto Marin: che ne so io come
+
+408
+00:15:14,600 --> 00:15:19,720
+Filippo Strozzi: spazio fa partire Spotlight, posso quasi garantirtelo al 100%.
+
+409
+00:15:20,040 --> 00:15:21,000
+Roberto Marin: Ok.
+
+410
+00:15:21,420 --> 00:15:23,100
+Filippo Strozzi: Poi, cioè, è il solito
+
+411
+00:15:23,259 --> 00:15:24,779
+Filippo Strozzi: discorso, configurazione base
+
+412
+00:15:24,940 --> 00:15:25,740
+Filippo Strozzi: del sistema.
+
+413
+00:15:26,380 --> 00:15:28,220
+Filippo Strozzi: Poi è ovvio che se tu nel mentre
+
+414
+00:15:28,540 --> 00:15:28,860
+Filippo Strozzi: ci hai
+
+415
+00:15:29,100 --> 00:15:31,579
+Filippo Strozzi: allambincato, a quel punto lì è.
+
+416
+00:15:31,579 --> 00:15:31,899
+Filippo Strozzi: .
+
+417
+00:15:31,660 --> 00:15:34,700
+Filippo Strozzi: Quando l'hai personalizzato l'hai personalizzato, tant'è vero che appunto
+
+418
+00:15:36,700 --> 00:15:37,020
+Filippo Strozzi: il
+
+419
+00:15:37,820 --> 00:15:37,980
+Filippo Strozzi: quando
+
+420
+00:15:38,300 --> 00:15:39,740
+Filippo Strozzi: ho fatto gli screenshot
+
+421
+00:15:39,980 --> 00:15:41,740
+Filippo Strozzi: Tu considera proprio che
+
+422
+00:15:41,980 --> 00:15:43,740
+Filippo Strozzi: che il mio è modificato proprio perché
+
+423
+00:15:43,900 --> 00:15:46,540
+Filippo Strozzi: sennò io non riesco a invocare spotlight
+
+424
+00:15:46,860 --> 00:15:48,780
+Filippo Strozzi: che raramente ma ogni tanto mi diventa
+
+425
+00:15:48,940 --> 00:15:50,620
+Filippo Strozzi: mi viene comodo soprattutto se
+
+426
+00:15:50,959 --> 00:15:56,880
+Filippo Strozzi: Non mi ricordo il nome del file, ma so cosa c'è scritto dentro il file e quindi faccio la ricerca direttamente
+
+427
+00:15:57,200 --> 00:15:58,160
+Filippo Strozzi: sulla base dati
+
+428
+00:15:58,880 --> 00:16:00,080
+Filippo Strozzi: dei file e
+
+429
+00:16:01,279 --> 00:16:04,720
+Filippo Strozzi: non vado a puntare direttamente su.
+
+430
+00:16:05,360 --> 00:16:10,240
+Filippo Strozzi: Su quella pratica, su quel file, o su quella situazione, sì, sì, ma mi ricordavo male.
+
+431
+00:16:10,959 --> 00:16:12,959
+Roberto Marin: Niente di grave, diciamo.
+
+432
+00:16:14,640 --> 00:16:15,600
+Filippo Strozzi: Una piccola chicca
+
+433
+00:16:15,760 --> 00:16:17,440
+Filippo Strozzi: storica, diciamo.
+
+434
+00:16:17,000 --> 00:16:17,160
+Filippo Strozzi: Quindi
+
+435
+00:16:17,800 --> 00:16:19,000
+Filippo Strozzi: piccolo cenno
+
+436
+00:16:19,320 --> 00:16:19,560
+Filippo Strozzi: sulla
+
+437
+00:16:19,800 --> 00:16:23,960
+Filippo Strozzi: vicenda storica diciamo, Spotlight nasce come
+
+438
+00:16:24,920 --> 00:16:26,520
+Filippo Strozzi: Sherlock.
+
+439
+00:16:26,480 --> 00:16:26,800
+Filippo Strozzi: e
+
+440
+00:16:27,600 --> 00:16:28,240
+Filippo Strozzi: appunto
+
+441
+00:16:28,720 --> 00:16:31,440
+Filippo Strozzi: la spiegazione del termine Sherlocked
+
+442
+00:16:31,600 --> 00:16:32,640
+Filippo Strozzi: che è tipica
+
+443
+00:16:33,840 --> 00:16:34,000
+Filippo Strozzi: del
+
+444
+00:16:34,240 --> 00:16:35,120
+Filippo Strozzi: mondo Apple
+
+445
+00:16:35,280 --> 00:16:36,320
+Filippo Strozzi: in pratica
+
+446
+00:16:36,360 --> 00:16:42,600
+Filippo Strozzi: è che nella sostanza Apple ha introdotto Sherlock che è la versione molto base chiamiamola così di Spotlight
+
+447
+00:16:42,760 --> 00:16:44,680
+Filippo Strozzi: Spotlight nel tempo credo che
+
+448
+00:16:45,400 --> 00:16:46,920
+Filippo Strozzi: si è stato introdotto
+
+449
+00:16:47,240 --> 00:16:48,040
+Filippo Strozzi: con Tiger
+
+450
+00:16:48,280 --> 00:16:50,280
+Filippo Strozzi: o Judile, una roba del genere.
+
+451
+00:16:50,280 --> 00:16:53,640
+Filippo Strozzi: Sherlock invece era appunto la funzione di ricerca
+
+452
+00:16:53,960 --> 00:16:55,640
+Filippo Strozzi: di Mekos.
+
+453
+00:16:55,540 --> 00:16:55,700
+Filippo Strozzi: e
+
+454
+00:16:56,019 --> 00:16:58,820
+Filippo Strozzi: praticamente è andato a copiare
+
+455
+00:16:58,980 --> 00:16:59,860
+Filippo Strozzi: in pratica
+
+456
+00:17:00,180 --> 00:17:01,940
+Filippo Strozzi: una versione simile di un programma
+
+457
+00:17:02,100 --> 00:17:02,660
+Filippo Strozzi: pagamento
+
+458
+00:17:02,820 --> 00:17:04,339
+Filippo Strozzi: che si chiamava Watson.
+
+459
+00:17:04,740 --> 00:17:06,020
+Filippo Strozzi: tra l'altro appunto
+
+460
+00:17:06,339 --> 00:17:07,300
+Filippo Strozzi: Apple ha
+
+461
+00:17:08,100 --> 00:17:11,459
+Filippo Strozzi: virgolette proprio copiato anche l'idea di fondo
+
+462
+00:17:11,780 --> 00:17:12,900
+Filippo Strozzi: di questa software
+
+463
+00:17:13,459 --> 00:17:14,420
+Filippo Strozzi: che si chiamava
+
+464
+00:17:14,919 --> 00:17:16,919
+Filippo Strozzi: Carelia software LCC
+
+465
+00:17:17,160 --> 00:17:18,199
+Filippo Strozzi: e in pratica
+
+466
+00:17:18,360 --> 00:17:21,959
+Filippo Strozzi: il fenomeno di Apple che rilascia una funzione che soppianta
+
+467
+00:17:23,160 --> 00:17:23,959
+Filippo Strozzi: o ovvia
+
+468
+00:17:24,199 --> 00:17:27,400
+Filippo Strozzi: software di terze parti è appunto, noto.
+
+469
+00:17:28,539 --> 00:17:30,700
+Filippo Strozzi: Come Sherlock, appunto
+
+470
+00:17:31,340 --> 00:17:36,860
+Filippo Strozzi: ed è diventato un termine accettato e usato all'interno della comunità diciamo di sviluppatori
+
+471
+00:17:37,340 --> 00:17:37,500
+Filippo Strozzi: Mac
+
+472
+00:17:37,820 --> 00:17:39,980
+Filippo Strozzi: e iOS, per esempio, non so la
+
+473
+00:17:40,539 --> 00:17:41,820
+Filippo Strozzi: funzione.
+
+474
+00:17:42,360 --> 00:17:48,280
+Filippo Strozzi: Di utilizzare la webcam, quindi l'iPhone come webcam, che all'inizio
+
+475
+00:17:48,440 --> 00:17:53,080
+Filippo Strozzi: richiedeva il software di terze parti, chiamiamolo così, e adesso da
+
+476
+00:17:53,400 --> 00:17:53,960
+Filippo Strozzi: Mecos
+
+477
+00:17:54,120 --> 00:17:55,160
+Filippo Strozzi: Ventura.
+
+478
+00:17:55,540 --> 00:17:56,900
+Filippo Strozzi: e con iOS
+
+479
+00:17:57,140 --> 00:17:59,860
+Filippo Strozzi: 16 è possibile utilizzarlo su tutti i Mac
+
+480
+00:18:01,140 --> 00:18:01,460
+Filippo Strozzi: è
+
+481
+00:18:01,700 --> 00:18:03,460
+Filippo Strozzi: un tipico esempio
+
+482
+00:18:04,340 --> 00:18:04,660
+Filippo Strozzi: di
+
+483
+00:18:04,820 --> 00:18:06,340
+Filippo Strozzi: applicazione Sherlock
+
+484
+00:18:06,660 --> 00:18:07,780
+Filippo Strozzi: cosiddetta
+
+485
+00:18:07,980 --> 00:18:08,300
+Filippo Strozzi: Quindi
+
+486
+00:18:08,940 --> 00:18:12,060
+Filippo Strozzi: tornando al nostro amico Spotlight sostanzialmente
+
+487
+00:18:12,380 --> 00:18:15,660
+Filippo Strozzi: andiamo a vedere come si va a modificare
+
+488
+00:18:15,900 --> 00:18:16,620
+Filippo Strozzi: invece
+
+489
+00:18:16,800 --> 00:18:18,800
+Filippo Strozzi: L'abbreviazione della tastiera, così
+
+490
+00:18:19,120 --> 00:18:21,040
+Filippo Strozzi: finalmente facciamo chiarezza
+
+491
+00:18:21,840 --> 00:18:23,920
+Filippo Strozzi: nelle nostre confusioni.
+
+492
+00:18:23,920 --> 00:18:25,520
+Filippo Strozzi: Innanzitutto, per
+
+493
+00:18:26,160 --> 00:18:30,320
+Filippo Strozzi: andare a personalizzare le impostazioni, appunto.
+
+494
+00:18:30,540 --> 00:18:33,900
+Filippo Strozzi: dell'abbreviazione da tastiera bisogna andare nell'impostazione di sistema
+
+495
+00:18:34,060 --> 00:18:35,740
+Filippo Strozzi: io adesso parlo
+
+496
+00:18:35,980 --> 00:18:36,300
+Filippo Strozzi: con
+
+497
+00:18:37,580 --> 00:18:38,220
+Filippo Strozzi: Mecos
+
+498
+00:18:38,380 --> 00:18:38,940
+Filippo Strozzi: Ventura
+
+499
+00:18:39,180 --> 00:18:41,980
+Filippo Strozzi: perché prima si chiamavano preferenze di sistema
+
+500
+00:18:42,440 --> 00:18:43,000
+Filippo Strozzi: Adesso
+
+501
+00:18:43,159 --> 00:18:43,399
+Filippo Strozzi: appunto
+
+502
+00:18:43,559 --> 00:18:43,799
+Filippo Strozzi: Damme
+
+503
+00:18:44,120 --> 00:18:45,480
+Filippo Strozzi: Cross Ventura,
+
+504
+00:18:46,679 --> 00:18:47,399
+Filippo Strozzi: il nome è
+
+505
+00:18:47,559 --> 00:18:48,600
+Filippo Strozzi: impostazione di sistema
+
+506
+00:18:48,760 --> 00:18:49,080
+Filippo Strozzi: ,
+
+507
+00:18:49,320 --> 00:18:52,200
+Filippo Strozzi: no, scusa, sì, impostazioni di sistema.
+
+508
+00:18:52,019 --> 00:18:52,340
+Filippo Strozzi: E
+
+509
+00:18:53,059 --> 00:18:53,700
+Filippo Strozzi: appunto
+
+510
+00:18:54,019 --> 00:18:55,779
+Filippo Strozzi: l'interfaccia grafica
+
+511
+00:18:56,100 --> 00:18:59,460
+Filippo Strozzi: è molto simile a quella dell'iPhone e dell'iPad.
+
+512
+00:18:59,460 --> 00:19:00,820
+Filippo Strozzi: Quindi si va appunto
+
+513
+00:19:01,139 --> 00:19:03,220
+Filippo Strozzi: all'interno delle impostazioni
+
+514
+00:19:03,460 --> 00:19:06,580
+Filippo Strozzi: di sistema, si va alla voce tastiera.
+
+515
+00:19:06,960 --> 00:19:07,280
+Filippo Strozzi: E
+
+516
+00:19:07,920 --> 00:19:10,400
+Filippo Strozzi: in questa, scendendo un attimo, sulla
+
+517
+00:19:10,720 --> 00:19:12,400
+Filippo Strozzi: destra si trova abbreviazioni
+
+518
+00:19:12,560 --> 00:19:14,320
+Filippo Strozzi: a tastiera.
+
+519
+00:19:14,519 --> 00:19:15,799
+Filippo Strozzi: A questo punto
+
+520
+00:19:16,440 --> 00:19:16,760
+Filippo Strozzi: Nina
+
+521
+00:19:18,120 --> 00:19:18,760
+Filippo Strozzi: abbrevazione
+
+522
+00:19:18,919 --> 00:19:19,720
+Filippo Strozzi: da tastiera
+
+523
+00:19:19,960 --> 00:19:20,200
+Filippo Strozzi: abbiamo
+
+524
+00:19:21,159 --> 00:19:21,480
+Filippo Strozzi: un
+
+525
+00:19:21,720 --> 00:19:23,159
+Filippo Strozzi: menu, diciamo.
+
+526
+00:19:23,159 --> 00:19:23,480
+Filippo Strozzi: .
+
+527
+00:19:23,320 --> 00:19:23,480
+Filippo Strozzi: sulla
+
+528
+00:19:23,720 --> 00:19:24,200
+Filippo Strozzi: sinistra
+
+529
+00:19:24,360 --> 00:19:25,000
+Filippo Strozzi: scendendo
+
+530
+00:19:25,160 --> 00:19:27,160
+Filippo Strozzi: si va sulla ricerca spotlight
+
+531
+00:19:27,320 --> 00:19:28,360
+Filippo Strozzi: appunto che è
+
+532
+00:19:28,520 --> 00:19:30,200
+Filippo Strozzi: l'icona col simbolo della
+
+533
+00:19:30,360 --> 00:19:31,240
+Filippo Strozzi: della lente
+
+534
+00:19:33,000 --> 00:19:33,880
+Roberto Marin: di ingrandimento
+
+535
+00:19:34,240 --> 00:19:44,960
+Filippo Strozzi: E a questo punto abbiamo due opzioni che possiamo attivare o disattivare, cioè mostra alla ricerca di Spotlight, che è la prima, e che dovrebbe abitualmente essere configurata come
+
+536
+00:19:45,920 --> 00:19:46,480
+Filippo Strozzi: Command
+
+537
+00:19:46,640 --> 00:19:48,000
+Filippo Strozzi: Spazio.
+
+538
+00:19:47,880 --> 00:19:48,680
+Filippo Strozzi: Invece
+
+539
+00:19:49,000 --> 00:19:53,320
+Filippo Strozzi: mostra la finestra di ricerca del Finder, quindi vi permette di fare le ricerche
+
+540
+00:19:54,600 --> 00:19:54,920
+Filippo Strozzi: dei
+
+541
+00:19:55,080 --> 00:19:58,520
+Filippo Strozzi: file sostanzialmente, solo quello invece.
+
+542
+00:19:58,660 --> 00:19:58,980
+Filippo Strozzi: Che
+
+543
+00:19:59,299 --> 00:19:59,940
+Filippo Strozzi: credo
+
+544
+00:20:00,260 --> 00:20:00,580
+Filippo Strozzi: perché
+
+545
+00:20:00,740 --> 00:20:06,100
+Filippo Strozzi: attualmente io ce l'ho configurata così e credo che sia configurato normalmente in questa maniera
+
+546
+00:20:06,160 --> 00:20:09,600
+Filippo Strozzi: è Alt, Command e Spazio, dunque sulla
+
+547
+00:20:09,760 --> 00:20:10,720
+Roberto Marin: mia dovrebbe essere
+
+548
+00:20:10,880 --> 00:20:11,600
+Roberto Marin: mostra che cerca
+
+549
+00:20:11,760 --> 00:20:12,400
+Roberto Marin: spot del co
+
+550
+00:20:12,800 --> 00:20:12,960
+Roberto Marin: e
+
+551
+00:20:15,280 --> 00:20:16,080
+Roberto Marin: Aspetta, fammi
+
+552
+00:20:16,240 --> 00:20:17,440
+Roberto Marin: un po' vedere.
+
+553
+00:20:17,760 --> 00:20:19,360
+Roberto Marin: È il contrario, essenzialmente.
+
+554
+00:20:19,360 --> 00:20:23,920
+Roberto Marin: Quello che vedi tu a video è quella che ho io per mostrare la finestra di ricerca del finder,
+
+555
+00:20:24,080 --> 00:20:26,160
+Roberto Marin: tu ce l'hai come mostra la ricerca di spotlight.
+
+556
+00:20:26,160 --> 00:20:28,640
+Filippo Strozzi: Si possono personalizzare, ovviamente.
+
+557
+00:20:28,540 --> 00:20:30,060
+Filippo Strozzi: La ricerca parte
+
+558
+00:20:31,020 --> 00:20:32,460
+Filippo Strozzi: digitando delle lettere
+
+559
+00:20:32,620 --> 00:20:34,140
+Filippo Strozzi: sostanzialmente, quindi
+
+560
+00:20:34,460 --> 00:20:34,780
+Filippo Strozzi: più
+
+561
+00:20:34,940 --> 00:20:35,580
+Filippo Strozzi: digiti
+
+562
+00:20:35,740 --> 00:20:36,860
+Filippo Strozzi: lettere.
+
+563
+00:20:36,500 --> 00:20:37,060
+Filippo Strozzi: E più
+
+564
+00:20:37,220 --> 00:20:38,100
+Filippo Strozzi: abitualmente
+
+565
+00:20:38,740 --> 00:20:38,980
+Filippo Strozzi: il
+
+566
+00:20:39,300 --> 00:20:39,620
+Filippo Strozzi: sistema
+
+567
+00:20:39,940 --> 00:20:48,180
+Filippo Strozzi: raffina la ricerca in base a quello che stai cercando, quindi se io inizio a digitare sa, casomai non mi trova subito Safari, ma se inizia a digitare sa
+
+568
+00:20:48,420 --> 00:20:48,740
+Filippo Strozzi: f
+
+569
+00:20:48,900 --> 00:20:49,780
+Filippo Strozzi: a.
+
+570
+00:20:49,560 --> 00:20:53,560
+Filippo Strozzi: progressivamente mi tira fuori l'applicazione e sotto
+
+571
+00:20:53,880 --> 00:20:56,600
+Filippo Strozzi: verranno fatte vedere tutta una serie di cose
+
+572
+00:20:56,760 --> 00:20:57,400
+Filippo Strozzi: tra cui
+
+573
+00:20:57,640 --> 00:20:58,280
+Filippo Strozzi: appunto
+
+574
+00:20:59,860 --> 00:21:00,660
+Filippo Strozzi: Per esempio
+
+575
+00:21:00,980 --> 00:21:08,500
+Filippo Strozzi: cartelle che iniziano con la SA, file che iniziano con la SA, Spotlight ha la possibilità di configurare, cioè
+
+576
+00:21:08,660 --> 00:21:09,620
+Filippo Strozzi: di cercare
+
+577
+00:21:09,780 --> 00:21:10,100
+Filippo Strozzi: anche
+
+578
+00:21:11,040 --> 00:21:14,320
+Filippo Strozzi: Su internet, quindi anche delle ricerche e così via.
+
+579
+00:21:14,960 --> 00:21:17,520
+Filippo Strozzi: In particolar modo, appunto,
+
+580
+00:21:17,840 --> 00:21:21,600
+Filippo Strozzi: se si vuole, se si va nelle preferenze delle ricerche e le
+
+581
+00:21:21,760 --> 00:21:22,880
+Filippo Strozzi: impostazioni
+
+582
+00:21:23,200 --> 00:21:23,520
+Filippo Strozzi: ,
+
+583
+00:21:24,020 --> 00:21:25,940
+Filippo Strozzi: quindi sempre nel nel menu delle
+
+584
+00:21:26,500 --> 00:21:26,660
+Filippo Strozzi: delle
+
+585
+00:21:26,820 --> 00:21:28,100
+Filippo Strozzi: impostazioni di sistema
+
+586
+00:21:28,260 --> 00:21:29,220
+Filippo Strozzi: e si va in
+
+587
+00:21:29,460 --> 00:21:31,060
+Filippo Strozzi: Siri e Spotlight
+
+588
+00:21:31,340 --> 00:21:39,340
+Filippo Strozzi: Si può scegliere o di escludere determinate categorie di voci, diciamo, dalla ricerca.
+
+589
+00:21:38,800 --> 00:21:43,920
+Filippo Strozzi: Quindi non so, per esempio c'è applicazioni, calcolatrice, cartelle, contatti,
+
+590
+00:21:44,400 --> 00:21:47,600
+Filippo Strozzi: conversione, definizioni, documenti.
+
+591
+00:21:47,760 --> 00:21:50,080
+Filippo Strozzi: documenti pdf, si possono
+
+592
+00:21:50,320 --> 00:21:55,120
+Filippo Strozzi: per esempio non mi interessa fare ricerche nei fogli di calcolo perché io non uso i fogli di calcolo
+
+593
+00:21:55,280 --> 00:21:56,160
+Filippo Strozzi: o per esempio
+
+594
+00:21:57,860 --> 00:21:58,980
+Filippo Strozzi: non utilizzo
+
+595
+00:21:59,540 --> 00:22:01,540
+Filippo Strozzi: Apple Music, musica,
+
+596
+00:22:01,780 --> 00:22:02,980
+Filippo Strozzi: posso togliere
+
+597
+00:22:03,540 --> 00:22:04,740
+Filippo Strozzi: musica dal.
+
+598
+00:22:04,960 --> 00:22:06,240
+Filippo Strozzi: dalle ricerche diciamo
+
+599
+00:22:06,400 --> 00:22:07,520
+Filippo Strozzi: di spotlight
+
+600
+00:22:07,840 --> 00:22:10,880
+Filippo Strozzi: l'altra cosa di cui appunto volevo parlare perché
+
+601
+00:22:11,040 --> 00:22:11,440
+Filippo Strozzi: secondo me
+
+602
+00:22:11,680 --> 00:22:12,640
+Filippo Strozzi: nella puntata che
+
+603
+00:22:12,880 --> 00:22:15,120
+Filippo Strozzi: abbiamo già fatto non ne abbiamo parlato
+
+604
+00:22:15,360 --> 00:22:16,399
+Filippo Strozzi: è il fatto che
+
+605
+00:22:16,880 --> 00:22:18,399
+Filippo Strozzi: a volte può essere
+
+606
+00:22:19,440 --> 00:22:25,679
+Filippo Strozzi: che ci siano dei problemi di indicizzazione e che quindi Spotlight faccia fatica a trovare i nostri documenti
+
+607
+00:22:25,840 --> 00:22:27,200
+Filippo Strozzi: Come si fa a
+
+608
+00:22:27,440 --> 00:22:30,240
+Filippo Strozzi: ricostruire l'indice di Spotlight su Mac?
+
+609
+00:22:30,240 --> 00:22:32,400
+Filippo Strozzi: Si va appunto in impostazioni, Sire
+
+610
+00:22:32,559 --> 00:22:34,720
+Filippo Strozzi: Spotlight e Privacy Spotlight
+
+611
+00:22:35,039 --> 00:22:35,360
+Filippo Strozzi: che
+
+612
+00:22:36,320 --> 00:22:38,240
+Filippo Strozzi: non ti dà l'idea di.
+
+613
+00:22:38,160 --> 00:22:40,480
+Filippo Strozzi: Di essere il posto giusto dove andare a cercare
+
+614
+00:22:40,640 --> 00:22:42,560
+Filippo Strozzi: come si suol dire.
+
+615
+00:22:42,560 --> 00:22:42,880
+Filippo Strozzi: Ma
+
+616
+00:22:43,360 --> 00:22:45,040
+Filippo Strozzi: se andiamo qui, diciamo
+
+617
+00:22:45,280 --> 00:22:45,600
+Filippo Strozzi: abbiamo
+
+618
+00:22:46,080 --> 00:22:47,840
+Filippo Strozzi: una doppia opzione: cioè
+
+619
+00:22:48,080 --> 00:22:52,720
+Filippo Strozzi: possiamo inserire, per esempio, una cartella o una serie di cartelle.
+
+620
+00:22:52,200 --> 00:22:53,799
+Filippo Strozzi: che non vogliamo indicizzare perché
+
+621
+00:22:53,960 --> 00:22:56,200
+Filippo Strozzi: casomai sono cartelle appunto private
+
+622
+00:22:56,360 --> 00:22:59,240
+Filippo Strozzi: non vogliamo che questi documenti vengano fuori da una cartella
+
+623
+00:22:59,480 --> 00:23:01,000
+Roberto Marin: volevamo soltanto aggiungere una c<unk>a
+
+624
+00:23:00,760 --> 00:23:02,360
+Roberto Marin: Cosa, che in effetti, questo
+
+625
+00:23:02,600 --> 00:23:03,720
+Roberto Marin: dell'indicizzazione?
+
+626
+00:23:03,720 --> 00:23:04,520
+Roberto Marin: A me, francamente, non
+
+627
+00:23:04,679 --> 00:23:10,039
+Roberto Marin: è mai capitato, ma buono a sapersi, perché non lo conoscevo, questa, diciamo, barbatrucco.
+
+628
+00:23:10,039 --> 00:23:14,919
+Roberto Marin: Volevo soltanto accennare una cosa per quanto riguarda la ricerca su Spotlight.
+
+629
+00:23:14,840 --> 00:23:15,799
+Roberto Marin: Se voi fate
+
+630
+00:23:15,960 --> 00:23:17,640
+Roberto Marin: ad esempio una ricerca con
+
+631
+00:23:17,880 --> 00:23:20,200
+Roberto Marin: TE per lanciare ad esempio
+
+632
+00:23:21,000 --> 00:23:21,880
+Roberto Marin: Telegram
+
+633
+00:23:22,519 --> 00:23:22,679
+Roberto Marin: Vi
+
+634
+00:23:22,840 --> 00:23:24,120
+Roberto Marin: verrà fornito
+
+635
+00:23:24,440 --> 00:23:27,399
+Roberto Marin: nel mio computer almeno tre risposte, ovvero
+
+636
+00:23:27,559 --> 00:23:30,679
+Roberto Marin: terminale, Telegram e TextEdit.
+
+637
+00:23:31,120 --> 00:23:31,920
+Roberto Marin: Se voi però
+
+638
+00:23:32,160 --> 00:23:33,680
+Roberto Marin: fate una cosa: se
+
+639
+00:23:34,000 --> 00:23:36,320
+Roberto Marin: volete usare semplicemente la T
+
+640
+00:23:36,640 --> 00:23:38,480
+Roberto Marin: per inviare Telegram,
+
+641
+00:23:38,720 --> 00:23:41,120
+Roberto Marin: voi dovete selezionare.
+
+642
+00:23:41,120 --> 00:23:44,240
+Roberto Marin: La risposta che vi serve che sia indicato con T.
+
+643
+00:23:44,240 --> 00:23:46,800
+Roberto Marin: Per esempio, a me, indica Telegram, FaceTime
+
+644
+00:23:47,280 --> 00:23:49,120
+Roberto Marin: e un'altra applicazione.
+
+645
+00:23:49,240 --> 00:23:51,240
+Roberto Marin: Se selezionate uno di questi
+
+646
+00:23:51,400 --> 00:23:52,600
+Roberto Marin: risultati con
+
+647
+00:23:53,320 --> 00:23:55,720
+Roberto Marin: la lettera T selezionata,
+
+648
+00:23:56,120 --> 00:23:57,960
+Roberto Marin: ogni volta che.
+
+649
+00:23:57,560 --> 00:24:04,440
+Roberto Marin: Darete la lettera T su spotlight andrà direttamente a prendere quella che avete selezionata in modo tale che ce l'avete subito
+
+650
+00:24:04,680 --> 00:24:05,000
+Roberto Marin: come
+
+651
+00:24:05,440 --> 00:24:07,919
+Roberto Marin: Applicazione che verrà lanciata immediatamente.
+
+652
+00:24:07,919 --> 00:24:16,000
+Roberto Marin: Quindi capite bene che se voi dovete lanciare un'applicazione come Telegram e l'avete selezionato nel modo che vi ho detto, voi fate com
+
+653
+00:24:16,320 --> 00:24:16,960
+Roberto Marin: spazio
+
+654
+00:24:17,200 --> 00:24:17,519
+Roberto Marin: T
+
+655
+00:24:17,740 --> 00:24:18,380
+Roberto Marin: Invio
+
+656
+00:24:19,100 --> 00:24:25,580
+Roberto Marin: ed l'avete già mandata in esecuzione, stessa cosa, ad esempio, se nella ricerca avete, che ne so.
+
+657
+00:24:25,820 --> 00:24:26,780
+Roberto Marin: Usate
+
+658
+00:24:27,100 --> 00:24:27,900
+Roberto Marin: due lettere
+
+659
+00:24:28,220 --> 00:24:35,660
+Roberto Marin: perché ci sono dei conflitti, chiamiamolo così, ad esempio, che sia solo la T, o avete bisogno di un'altra lettera per indicare un'altra applicazione.
+
+660
+00:24:35,660 --> 00:24:37,820
+Roberto Marin: Potete anche selezionare tra quelle che
+
+661
+00:24:38,140 --> 00:24:39,580
+Roberto Marin: vi viene.
+
+662
+00:24:39,360 --> 00:24:40,000
+Roberto Marin: Diciamo
+
+663
+00:24:40,320 --> 00:24:41,120
+Roberto Marin: dato da
+
+664
+00:24:41,440 --> 00:24:46,160
+Roberto Marin: Spotlight come risultato, e ogni volta che utilizzate quelle due lettere, verrà sempre
+
+665
+00:24:46,320 --> 00:24:47,600
+Roberto Marin: utilizzata quell'applicazione.
+
+666
+00:24:47,680 --> 00:24:47,920
+Roberto Marin: Attenzione
+
+667
+00:24:48,080 --> 00:24:48,720
+Filippo Strozzi: brevemente alla
+
+668
+00:24:50,000 --> 00:24:52,720
+Filippo Strozzi: ricostruzione dell'indice di Spotlight.
+
+669
+00:24:52,260 --> 00:24:52,500
+Filippo Strozzi: nella
+
+670
+00:24:52,660 --> 00:24:53,460
+Filippo Strozzi: sostanza
+
+671
+00:24:53,780 --> 00:24:54,419
+Filippo Strozzi: appunto
+
+672
+00:24:54,660 --> 00:24:58,419
+Filippo Strozzi: se trasciniamo tutta la tutta la root diciamo nel nostro
+
+673
+00:24:58,740 --> 00:24:59,940
+Filippo Strozzi: nel nostro computer
+
+674
+00:25:00,240 --> 00:25:00,560
+Filippo Strozzi: e
+
+675
+00:25:00,800 --> 00:25:03,840
+Filippo Strozzi: poi la togliamo, ovviamente verrà
+
+676
+00:25:04,000 --> 00:25:05,280
+Filippo Strozzi: riindicizzato tutto.
+
+677
+00:25:05,280 --> 00:25:07,920
+Filippo Strozzi: Questa è la guida diciamo che da Apple
+
+678
+00:25:07,900 --> 00:25:09,660
+Filippo Strozzi: L'altra opzione, che è un po' più
+
+679
+00:25:10,620 --> 00:25:15,020
+Filippo Strozzi: da smanettoni, è quella di utilizzare un comando a terminale, si deve digitare sudo
+
+680
+00:25:15,180 --> 00:25:16,220
+Filippo Strozzi: mdutil
+
+681
+00:25:17,340 --> 00:25:17,580
+Filippo Strozzi: e
+
+682
+00:25:17,700 --> 00:25:18,179
+Filippo Strozzi: Comunque
+
+683
+00:25:18,419 --> 00:25:18,899
+Filippo Strozzi: nelle note
+
+684
+00:25:19,059 --> 00:25:21,059
+Filippo Strozzi: dell'episodio troverete
+
+685
+00:25:21,220 --> 00:25:22,100
+Filippo Strozzi: ovviamente
+
+686
+00:25:22,659 --> 00:25:29,380
+Filippo Strozzi: tutti i link ai riferimenti alle guide e così via, quindi non vi preoccupate, la situazione è molto semplice.
+
+687
+00:25:29,340 --> 00:25:29,500
+Filippo Strozzi: come
+
+688
+00:25:29,740 --> 00:25:32,380
+Filippo Strozzi: al solito appunto cercheremo di
+
+689
+00:25:32,700 --> 00:25:34,539
+Filippo Strozzi: darvi un minimo di
+
+690
+00:25:35,340 --> 00:25:38,220
+Filippo Strozzi: feedback e di link utili
+
+691
+00:25:38,539 --> 00:25:40,059
+Filippo Strozzi: per le varie cose
+
+692
+00:25:40,419 --> 00:25:41,620
+Filippo Strozzi: Segnalo sempre
+
+693
+00:25:41,940 --> 00:25:43,620
+Filippo Strozzi: che sotto iOS
+
+694
+00:25:43,780 --> 00:25:44,580
+Filippo Strozzi: e iPados
+
+695
+00:25:45,460 --> 00:25:46,100
+Filippo Strozzi: esiste
+
+696
+00:25:46,740 --> 00:25:47,700
+Filippo Strozzi: allo stesso modo
+
+697
+00:25:47,860 --> 00:25:49,460
+Filippo Strozzi: Spotlight, anche se
+
+698
+00:25:49,700 --> 00:25:51,940
+Filippo Strozzi: di fatto non si vede, mettiamola
+
+699
+00:25:52,260 --> 00:25:52,900
+Filippo Strozzi: in questi
+
+700
+00:25:53,140 --> 00:25:54,100
+Filippo Strozzi: termini.
+
+701
+00:25:54,220 --> 00:25:54,540
+Filippo Strozzi: Ma
+
+702
+00:25:54,700 --> 00:25:56,220
+Filippo Strozzi: facendo uno swipe
+
+703
+00:25:56,460 --> 00:26:00,540
+Filippo Strozzi: con due dita dall'alto verso il basso direi o sempre utilizzando
+
+704
+00:26:00,940 --> 00:26:03,340
+Filippo Strozzi: se avete una tastiera collegata all'iPad
+
+705
+00:26:04,040 --> 00:26:04,840
+Filippo Strozzi: non esiste il suo
+
+706
+00:26:05,000 --> 00:26:11,560
+Filippo Strozzi: iPhone, mettiamola così, o comunque si può attaccare una tastiera iPhone ma non è molto comodo, è command spazio, anche qui si attiva
+
+707
+00:26:11,720 --> 00:26:15,480
+Filippo Strozzi: la ricerca di spotlight, di iOS e di iPadOS.
+
+708
+00:26:16,100 --> 00:26:18,020
+Filippo Strozzi: Funziona abbastanza bene,
+
+709
+00:26:18,420 --> 00:26:23,380
+Filippo Strozzi: bisogna saperlo, il discorso di fondo sostanzialmente è che mentre su
+
+710
+00:26:23,540 --> 00:26:24,180
+Filippo Strozzi: Mecos
+
+711
+00:26:24,340 --> 00:26:28,500
+Filippo Strozzi: è possibile decidere di utilizzare altri programmi.
+
+712
+00:26:27,900 --> 00:26:28,780
+Filippo Strozzi: Invece su
+
+713
+00:26:28,940 --> 00:26:29,340
+Filippo Strozzi: iPados
+
+714
+00:26:29,580 --> 00:26:30,140
+Filippo Strozzi: e iOS
+
+715
+00:26:30,860 --> 00:26:36,780
+Filippo Strozzi: non c'è modo, l'unico modo per interagire con questi sistemi è utilizzare appunto
+
+716
+00:26:37,100 --> 00:26:38,620
+Filippo Strozzi: Spotlight.
+
+717
+00:26:38,620 --> 00:26:41,820
+Filippo Strozzi: Per esempio per lanciare velocemente i comandi rapidi
+
+718
+00:26:42,540 --> 00:26:43,420
+Filippo Strozzi: bisogna
+
+719
+00:26:44,940 --> 00:26:46,300
+Filippo Strozzi: perfezionare bene
+
+720
+00:26:46,620 --> 00:26:47,420
+Filippo Strozzi: il sistema.
+
+721
+00:26:47,420 --> 00:26:49,180
+Filippo Strozzi: Un trucchetto su iPad
+
+722
+00:26:49,460 --> 00:26:51,380
+Filippo Strozzi: che può diventare molto comodo
+
+723
+00:26:51,780 --> 00:26:52,100
+Filippo Strozzi: è
+
+724
+00:26:52,260 --> 00:26:52,900
+Filippo Strozzi: creare
+
+725
+00:26:53,140 --> 00:26:53,220
+Filippo Strozzi: delle
+
+726
+00:26:53,380 --> 00:26:55,940
+Filippo Strozzi: scorciatie a tastiera dicendo con
+
+727
+00:26:56,740 --> 00:26:59,860
+Filippo Strozzi: il nome del comando rapido che quindi si espande
+
+728
+00:26:59,900 --> 00:27:03,740
+Filippo Strozzi: E a quel punto lì c'entra direttamente il comando rapido che volete
+
+729
+00:27:03,900 --> 00:27:05,180
+Filippo Strozzi: lanciare,
+
+730
+00:27:05,500 --> 00:27:06,220
+Filippo Strozzi: altrimenti
+
+731
+00:27:06,380 --> 00:27:07,420
+Filippo Strozzi: ammetto che
+
+732
+00:27:07,740 --> 00:27:08,380
+Filippo Strozzi: il sistema
+
+733
+00:27:08,700 --> 00:27:09,820
+Filippo Strozzi: è abbastanza
+
+734
+00:27:10,140 --> 00:27:11,100
+Filippo Strozzi: complicato,
+
+735
+00:27:11,260 --> 00:27:11,900
+Filippo Strozzi: non sempre
+
+736
+00:27:12,220 --> 00:27:12,380
+Filippo Strozzi: si
+
+737
+00:27:12,540 --> 00:27:14,460
+Filippo Strozzi: trova tutto velocemente.
+
+738
+00:27:14,200 --> 00:27:20,120
+Roberto Marin: Oppure ho usato un widget, dicevo, nel senso che basta avere il widget dei comandi rapidi e ce l'avete lì in on
+
+739
+00:27:20,279 --> 00:27:21,080
+Roberto Marin: screen.
+
+740
+00:27:21,880 --> 00:27:22,200
+Filippo Strozzi: Adesso
+
+741
+00:27:22,360 --> 00:27:23,559
+Filippo Strozzi: Roberto, piccola parentesi
+
+742
+00:27:23,720 --> 00:27:24,600
+Filippo Strozzi: internos.
+
+743
+00:27:25,000 --> 00:27:28,440
+Filippo Strozzi: Io vedo tutto bianco, quindi probabilmente hai il.
+
+744
+00:27:28,240 --> 00:27:31,200
+Filippo Strozzi: La connessione che va e viene, però, insomma,
+
+745
+00:27:31,520 --> 00:27:34,240
+Filippo Strozzi: è peggio del cartonato, come si suol dire
+
+746
+00:27:35,200 --> 00:27:37,680
+Filippo Strozzi: l'audio, però, ci si sente perfettamente.
+
+747
+00:27:37,680 --> 00:27:38,880
+Filippo Strozzi: Quindi, almeno FaceTime.
+
+748
+00:27:39,040 --> 00:27:40,160
+Roberto Marin: Hai visto?
+
+749
+00:27:39,660 --> 00:27:44,220
+Filippo Strozzi: Almeno uno l'abbiamo salvato, esatto, esatto, quello che ci interessa di più l'abbiamo salvato.
+
+750
+00:27:44,220 --> 00:27:47,340
+Filippo Strozzi: Quindi direi che a questo punto passiamo ai
+
+751
+00:27:48,060 --> 00:27:50,540
+Filippo Strozzi: concorrenti, chiamiamoli così, di Spotlight.
+
+752
+00:27:50,540 --> 00:27:52,140
+Filippo Strozzi: Quindi Spotlight è.
+
+753
+00:27:52,060 --> 00:27:53,900
+Filippo Strozzi: di default nel sistema operativo
+
+754
+00:27:54,140 --> 00:27:55,340
+Filippo Strozzi: non costa niente
+
+755
+00:27:55,500 --> 00:27:58,300
+Filippo Strozzi: e ovviamente piuttosto che niente io sono sempre nella
+
+756
+00:27:58,460 --> 00:27:58,700
+Filippo Strozzi: teoria
+
+757
+00:27:59,020 --> 00:28:00,380
+Filippo Strozzi: imparato a utilizzare spotlight
+
+758
+00:28:00,540 --> 00:28:02,140
+Filippo Strozzi: che comunque è utile
+
+759
+00:28:02,419 --> 00:28:03,860
+Filippo Strozzi: e permette di fare veramente
+
+760
+00:28:04,260 --> 00:28:06,740
+Filippo Strozzi: tante piccole cosette progressivamente
+
+761
+00:28:08,500 --> 00:28:11,140
+Filippo Strozzi: di sistema operativo in sistema operativo
+
+762
+00:28:11,580 --> 00:28:12,380
+Filippo Strozzi: abitualmente
+
+763
+00:28:13,179 --> 00:28:15,340
+Filippo Strozzi: viene implementato qualcosino di nuovo
+
+764
+00:28:15,500 --> 00:28:15,740
+Filippo Strozzi: di
+
+765
+00:28:15,980 --> 00:28:17,660
+Filippo Strozzi: più performante e così via
+
+766
+00:28:17,980 --> 00:28:20,860
+Filippo Strozzi: e quello che il sistema che utilizzo io
+
+767
+00:28:21,000 --> 00:28:21,160
+Filippo Strozzi: Quindi
+
+768
+00:28:21,400 --> 00:28:23,880
+Filippo Strozzi: il lancio che utilizzo io si chiama appunto launch
+
+769
+00:28:24,120 --> 00:28:26,760
+Filippo Strozzi: bar, cioè la barra che lancia.
+
+770
+00:28:27,080 --> 00:28:29,160
+Filippo Strozzi: È a pagamento, costa
+
+771
+00:28:29,320 --> 00:28:31,160
+Filippo Strozzi: più o meno 29 dollari,
+
+772
+00:28:31,640 --> 00:28:33,640
+Filippo Strozzi: 29 euro, scusami.
+
+773
+00:28:33,620 --> 00:28:33,940
+Filippo Strozzi: È
+
+774
+00:28:34,260 --> 00:28:39,220
+Filippo Strozzi: un'applicazione che credo di avere comprato ormai 5, 6, 7, 8 anni fa
+
+775
+00:28:39,380 --> 00:28:39,700
+Filippo Strozzi: e
+
+776
+00:28:40,180 --> 00:28:41,220
+Filippo Strozzi: la versione 6
+
+777
+00:28:41,700 --> 00:28:44,180
+Filippo Strozzi: di Launchbar, siamo alla versione 6.
+
+778
+00:28:44,180 --> 00:28:44,500
+Filippo Strozzi: 9
+
+779
+00:28:46,020 --> 00:28:53,620
+Filippo Strozzi: Non è stata ad oggi aggiornata, chiamiamolo in questi termini, quindi alla fine comunque per il costo che ha avuto per me.
+
+780
+00:28:54,220 --> 00:28:55,020
+Filippo Strozzi: Sicuramente
+
+781
+00:28:55,340 --> 00:29:02,300
+Filippo Strozzi: è stato vantaggioso, nel senso che è stato un costo irrisorio se è spalmato nell'arco di tanti anni.
+
+782
+00:29:02,000 --> 00:29:05,600
+Filippo Strozzi: E devo dire la verità, io abitualmente Launch Bar
+
+783
+00:29:05,840 --> 00:29:06,640
+Filippo Strozzi: lo uso
+
+784
+00:29:06,880 --> 00:29:10,480
+Filippo Strozzi: non quotidianamente, ma centinaia di volte al giorno.
+
+785
+00:29:10,480 --> 00:29:11,760
+Filippo Strozzi: Cioè abitualmente.
+
+786
+00:29:12,120 --> 00:29:13,160
+Filippo Strozzi: Per esempio
+
+787
+00:29:13,720 --> 00:29:17,080
+Filippo Strozzi: per far partire, per accedere alle note
+
+788
+00:29:17,320 --> 00:29:18,200
+Filippo Strozzi: dell'episodio, alla
+
+789
+00:29:18,360 --> 00:29:19,080
+Filippo Strozzi: scaletta
+
+790
+00:29:19,400 --> 00:29:24,360
+Filippo Strozzi: di questa puntata, la prima cosa che ho fatto, appunto, ho fatto Command Spazio.
+
+791
+00:29:24,140 --> 00:29:25,260
+Filippo Strozzi: digitato Podc
+
+792
+00:29:25,900 --> 00:29:33,820
+Filippo Strozzi: che sta per podcast e a quel punto lì sono entrato nella cartella di A2, ho digitato 55 che è il numero dell'episodio
+
+793
+00:29:33,760 --> 00:29:34,480
+Filippo Strozzi: Mi si è aperta
+
+794
+00:29:34,640 --> 00:29:36,240
+Filippo Strozzi: la cartella con appunto
+
+795
+00:29:36,480 --> 00:29:37,120
+Filippo Strozzi: le note
+
+796
+00:29:37,440 --> 00:29:37,760
+Filippo Strozzi: e
+
+797
+00:29:38,080 --> 00:29:39,200
+Filippo Strozzi: la scaletta
+
+798
+00:29:39,360 --> 00:29:43,440
+Filippo Strozzi: e quindi ero già operativo a fare le cose.
+
+799
+00:29:43,460 --> 00:29:44,900
+Filippo Strozzi: Addirittura, ecco
+
+800
+00:29:45,060 --> 00:29:45,380
+Filippo Strozzi: questo
+
+801
+00:29:46,740 --> 00:29:47,700
+Filippo Strozzi: cercherò di
+
+802
+00:29:48,500 --> 00:29:51,220
+Filippo Strozzi: spiegare le differenze rispetto a Spotlight.
+
+803
+00:29:51,220 --> 00:29:52,900
+Filippo Strozzi: Addirittura.
+
+804
+00:29:52,640 --> 00:29:55,440
+Filippo Strozzi: Un altro trucco che avrei potuto fare
+
+805
+00:29:55,760 --> 00:29:57,200
+Filippo Strozzi: per lanciare velocemente
+
+806
+00:29:57,360 --> 00:30:00,320
+Filippo Strozzi: la mappa mentale che stiamo guardando io e Roberto
+
+807
+00:30:00,640 --> 00:30:02,080
+Filippo Strozzi: di questo episodio
+
+808
+00:30:02,320 --> 00:30:06,080
+Filippo Strozzi: sarebbe stata quella di digitare Mind, che sta per Mind
+
+809
+00:30:06,560 --> 00:30:09,440
+Filippo Strozzi: ovviamente, a questo punto freccia destra
+
+810
+00:30:09,680 --> 00:30:10,000
+Filippo Strozzi: e
+
+811
+00:30:10,320 --> 00:30:13,920
+Filippo Strozzi: non tutte le applicazioni, ma buona parte delle applicazioni, le buone applicazioni
+
+812
+00:30:14,160 --> 00:30:14,640
+Filippo Strozzi: per Mac
+
+813
+00:30:15,040 --> 00:30:15,680
+Filippo Strozzi: Che hanno
+
+814
+00:30:16,000 --> 00:30:17,200
+Filippo Strozzi: sostanzialmente
+
+815
+00:30:17,440 --> 00:30:18,560
+Filippo Strozzi: la cronistoria
+
+816
+00:30:18,720 --> 00:30:25,200
+Filippo Strozzi: dei file aperti nell'ultimo periodo, ti dà accesso, appunto, a questo sistema.
+
+817
+00:30:25,200 --> 00:30:26,640
+Filippo Strozzi: Quindi se io digito mind
+
+818
+00:30:27,120 --> 00:30:29,120
+Filippo Strozzi: e poi tasto destro.
+
+819
+00:30:28,800 --> 00:30:29,520
+Filippo Strozzi: Io per esempio
+
+820
+00:30:29,680 --> 00:30:35,360
+Filippo Strozzi: avrei la possibilità, tra le varie cose, ho la puntata 55 appunto, che sui lanchar
+
+821
+00:30:35,600 --> 00:30:39,280
+Filippo Strozzi: ho la puntata 56 che faremo lunedì e che quindi.
+
+822
+00:30:39,560 --> 00:30:43,080
+Filippo Strozzi: ho già preparato e così via, non so ho le ultime lezioni del corso
+
+823
+00:30:43,240 --> 00:30:44,840
+Filippo Strozzi: PCT che ho fatto,
+
+824
+00:30:45,000 --> 00:30:46,760
+Filippo Strozzi: ho tutto sotto mano e quindi
+
+825
+00:30:47,000 --> 00:30:47,640
+Filippo Strozzi: anche.
+
+826
+00:30:47,840 --> 00:30:51,679
+Filippo Strozzi: dall'applicazione, cioè digitando l'applicazione, posso anche scegliere i file di questa
+
+827
+00:30:51,840 --> 00:30:53,760
+Filippo Strozzi: applicazione da lanciare, ovviamente
+
+828
+00:30:53,919 --> 00:30:55,919
+Filippo Strozzi: se li ho già utilizzati
+
+829
+00:30:56,240 --> 00:30:57,600
+Filippo Strozzi: precedentemente, se no
+
+830
+00:30:58,640 --> 00:31:00,480
+Filippo Strozzi: non se li inventa.
+
+831
+00:31:00,000 --> 00:31:01,680
+Filippo Strozzi: L'altra cosa interessante
+
+832
+00:31:02,000 --> 00:31:02,640
+Filippo Strozzi: è che
+
+833
+00:31:03,120 --> 00:31:03,840
+Filippo Strozzi: Launch Bar
+
+834
+00:31:04,480 --> 00:31:04,640
+Filippo Strozzi: e
+
+835
+00:31:04,960 --> 00:31:05,280
+Filippo Strozzi: tutti
+
+836
+00:31:05,600 --> 00:31:09,200
+Filippo Strozzi: i Launchar che vedremo adesso, ma credo anche Spotlight in
+
+837
+00:31:09,440 --> 00:31:10,480
+Filippo Strozzi: qualche maniera
+
+838
+00:31:10,740 --> 00:31:12,180
+Filippo Strozzi: autoapprende, cioè
+
+839
+00:31:12,340 --> 00:31:13,300
+Filippo Strozzi: se io abitualmente
+
+840
+00:31:13,460 --> 00:31:15,140
+Filippo Strozzi: digitando determinate lettere
+
+841
+00:31:15,620 --> 00:31:16,020
+Filippo Strozzi: attivo
+
+842
+00:31:16,180 --> 00:31:18,740
+Filippo Strozzi: un'applicazione e l'attivo spesso e volentieri
+
+843
+00:31:18,900 --> 00:31:19,700
+Filippo Strozzi: Questa applicazione
+
+844
+00:31:19,860 --> 00:31:20,340
+Filippo Strozzi: dopo due
+
+845
+00:31:20,500 --> 00:31:23,380
+Filippo Strozzi: o tre volte che l'ho attivata sempre con quella combinazione di tasti
+
+846
+00:31:23,540 --> 00:31:27,060
+Filippo Strozzi: comparirà tra i primi risultati se non come primo risultato.
+
+847
+00:31:27,060 --> 00:31:28,020
+Filippo Strozzi: Quindi anche qui
+
+848
+00:31:28,340 --> 00:31:28,740
+Filippo Strozzi: diventa
+
+849
+00:31:28,900 --> 00:31:29,860
+Filippo Strozzi: molto comodo perché
+
+850
+00:31:30,020 --> 00:31:30,580
+Filippo Strozzi: per esempio
+
+851
+00:31:30,820 --> 00:31:33,059
+Filippo Strozzi: la cartella podcast che non ho mai
+
+852
+00:31:33,220 --> 00:31:36,419
+Filippo Strozzi: indicizzato nel senso di dire non gli ho mai dato una scorciatoia
+
+853
+00:31:36,580 --> 00:31:39,860
+Filippo Strozzi: tastiera per accedere direttamente a quella cartella
+
+854
+00:31:40,019 --> 00:31:41,220
+Filippo Strozzi: ma siccome per mille
+
+855
+00:31:41,460 --> 00:31:42,260
+Filippo Strozzi: motivi
+
+856
+00:31:42,419 --> 00:31:43,860
+Filippo Strozzi: vi accedo almeno 3-4
+
+857
+00:31:44,179 --> 00:31:45,539
+Filippo Strozzi: volte a settimane
+
+858
+00:31:45,700 --> 00:31:46,019
+Filippo Strozzi: quindi
+
+859
+00:31:46,260 --> 00:31:46,980
+Filippo Strozzi: launch bar
+
+860
+00:31:47,860 --> 00:31:55,700
+Filippo Strozzi: Si rende conto, diciamo che è una ricerca che faccio spesso, ormai io senza neanche doverci pensare più di tanto.
+
+861
+00:31:55,660 --> 00:31:59,100
+Filippo Strozzi: Ho come primo risultato della mia ricerca quando inizio a digitare Pod
+
+862
+00:31:59,580 --> 00:32:01,980
+Filippo Strozzi: la cartella dove ho i podcast e quindi
+
+863
+00:32:02,300 --> 00:32:04,380
+Filippo Strozzi: ci accedo velocemente.
+
+864
+00:32:04,200 --> 00:32:04,360
+Filippo Strozzi: Ed
+
+865
+00:32:04,600 --> 00:32:06,600
+Filippo Strozzi: è questo il motivo anche per cui
+
+866
+00:32:06,919 --> 00:32:07,080
+Filippo Strozzi: questa
+
+867
+00:32:07,240 --> 00:32:12,600
+Filippo Strozzi: applicazione per me è indispensabile, perché in pratica, salvo che appunto non sappiamo
+
+868
+00:32:14,540 --> 00:32:15,180
+Filippo Strozzi: So cosa
+
+869
+00:32:15,340 --> 00:32:17,260
+Filippo Strozzi: sto cercando ma non so dove si trova,
+
+870
+00:32:17,500 --> 00:32:21,180
+Filippo Strozzi: se si trova nella struttura d'albero delle mie cartelle.
+
+871
+00:32:21,040 --> 00:32:21,200
+Filippo Strozzi: dove
+
+872
+00:32:21,360 --> 00:32:25,280
+Filippo Strozzi: uso Spotlight, allora in questo caso, quindi sono solitamente dei file che
+
+873
+00:32:25,440 --> 00:32:28,400
+Filippo Strozzi: utilizzo pochissimo, mettiamolo in questi termini.
+
+874
+00:32:28,400 --> 00:32:32,480
+Filippo Strozzi: Abitualmente invece io mi muovo molto velocemente e quotidianamente.
+
+875
+00:32:32,560 --> 00:32:32,720
+Filippo Strozzi: più
+
+876
+00:32:32,960 --> 00:32:33,760
+Filippo Strozzi: volte al giorno
+
+877
+00:32:33,920 --> 00:32:35,040
+Filippo Strozzi: perché spesso e volentieri
+
+878
+00:32:35,280 --> 00:32:36,880
+Filippo Strozzi: apropo dalle 3 alle 4 alle
+
+879
+00:32:37,040 --> 00:32:38,560
+Filippo Strozzi: 5 pratiche differenti
+
+880
+00:32:38,880 --> 00:32:39,200
+Filippo Strozzi: e
+
+881
+00:32:39,440 --> 00:32:42,960
+Filippo Strozzi: ha altri materiali e così via e quindi è ovvio che io rapidamente
+
+882
+00:32:43,260 --> 00:32:43,900
+Filippo Strozzi: Accedo
+
+883
+00:32:44,220 --> 00:32:45,419
+Filippo Strozzi: a queste cartelle
+
+884
+00:32:45,580 --> 00:32:53,660
+Filippo Strozzi: utilizzando queste scorciatoie a tastiera utilizzando quindi l'Aunchbar, un'altra cosa comodissima, appunto, l'ho già raccontata.
+
+885
+00:32:53,980 --> 00:32:56,460
+Filippo Strozzi: Recentemente nella versione, appunto, secondo me, 6.
+
+886
+00:32:56,460 --> 00:32:57,419
+Filippo Strozzi: 9.
+
+887
+00:32:56,800 --> 00:33:00,880
+Filippo Strozzi: c'è l'accesso diretto ai comandi rapidi, quindi in pratica
+
+888
+00:33:01,200 --> 00:33:01,920
+Filippo Strozzi: attraverso
+
+889
+00:33:02,080 --> 00:33:03,040
+Filippo Strozzi: digitando
+
+890
+00:33:03,600 --> 00:33:04,080
+Filippo Strozzi: Co.
+
+891
+00:33:06,419 --> 00:33:06,740
+Filippo Strozzi: e
+
+892
+00:33:07,059 --> 00:33:09,220
+Filippo Strozzi: freccia diciamo a destra
+
+893
+00:33:09,700 --> 00:33:09,860
+Filippo Strozzi: o
+
+894
+00:33:10,100 --> 00:33:13,220
+Filippo Strozzi: l'accesso a tutti i comandi rapidi che ho presenti sul sistema
+
+895
+00:33:13,460 --> 00:33:14,020
+Filippo Strozzi: e quindi
+
+896
+00:33:14,640 --> 00:33:14,960
+Filippo Strozzi: anche
+
+897
+00:33:15,280 --> 00:33:15,600
+Filippo Strozzi: qui
+
+898
+00:33:16,640 --> 00:33:21,040
+Filippo Strozzi: dopo due o tre volte adesso devo dire la verità ho un po' di confusione nei miei comandi rapidi
+
+899
+00:33:21,200 --> 00:33:24,160
+Filippo Strozzi: ho tipo 300 comandi rapidi che sono più o meno sp
+
+900
+00:33:24,260 --> 00:33:25,539
+Filippo Strozzi: spesso e volentieri anche
+
+901
+00:33:25,700 --> 00:33:27,539
+Filippo Strozzi: che non utilizzo quotidianamente
+
+902
+00:33:27,700 --> 00:33:29,140
+Filippo Strozzi: ma che ho creato
+
+903
+00:33:29,380 --> 00:33:29,460
+Filippo Strozzi: perché
+
+904
+00:33:29,620 --> 00:33:32,900
+Filippo Strozzi: volevo fare un test su questa cosa piuttosto che su quell'altra
+
+905
+00:33:33,220 --> 00:33:35,059
+Filippo Strozzi: dovrei fare un po' di pulizia
+
+906
+00:33:34,700 --> 00:33:38,539
+Filippo Strozzi: Però abitualmente i comandi rapidi che invece utilizzo quotidianamente
+
+907
+00:33:38,860 --> 00:33:44,940
+Filippo Strozzi: velocemente riesco a interagirvi e quindi riesco appunto a fare tutta una serie di cose
+
+908
+00:33:45,040 --> 00:33:48,400
+Filippo Strozzi: Che altrimenti non sarebbe possibile fare.
+
+909
+00:33:48,400 --> 00:33:51,760
+Filippo Strozzi: Un'altra cosa interessantissima di LaunchBar, per esempio,
+
+910
+00:33:51,920 --> 00:33:54,000
+Filippo Strozzi: è che se io ho una cartella aperta
+
+911
+00:33:54,160 --> 00:33:54,400
+Filippo Strozzi: ,
+
+912
+00:33:54,560 --> 00:33:59,360
+Filippo Strozzi: abitualmente, sono nei download e quindi ho scaricato un file.
+
+913
+00:33:58,960 --> 00:34:03,040
+Filippo Strozzi: Che devo posizionare, per esempio, all'interno di una pratica.
+
+914
+00:34:03,120 --> 00:34:04,320
+Filippo Strozzi: C'è un trucco.
+
+915
+00:34:04,320 --> 00:34:05,680
+Filippo Strozzi: Io ho associato
+
+916
+00:34:06,000 --> 00:34:09,200
+Filippo Strozzi: alla pressione del tasto Shift due volte, quindi
+
+917
+00:34:09,520 --> 00:34:11,040
+Filippo Strozzi: premo due volte il tasto
+
+918
+00:34:11,600 --> 00:34:12,720
+Filippo Strozzi: shift.
+
+919
+00:34:12,940 --> 00:34:13,179
+Filippo Strozzi: Di
+
+920
+00:34:13,420 --> 00:34:13,740
+Filippo Strozzi: fatto
+
+921
+00:34:14,140 --> 00:34:14,940
+Filippo Strozzi: Launchbar
+
+922
+00:34:15,100 --> 00:34:15,660
+Filippo Strozzi: cattura
+
+923
+00:34:17,420 --> 00:34:18,220
+Filippo Strozzi: il file selezionato
+
+924
+00:34:18,620 --> 00:34:21,340
+Filippo Strozzi: o i file selezionati nel finder, ok
+
+925
+00:34:21,840 --> 00:34:24,080
+Filippo Strozzi: A questo punto mi permette
+
+926
+00:34:24,720 --> 00:34:28,880
+Filippo Strozzi: di movimentare o comunque di fare determinata azioni con questi file.
+
+927
+00:34:28,880 --> 00:34:30,800
+Filippo Strozzi: Abitualmente cosa succede?
+
+928
+00:34:30,720 --> 00:34:35,200
+Filippo Strozzi: Voglio spostarli, voglio spostarli nella cartella della pratica di appartenenza
+
+929
+00:34:35,359 --> 00:34:37,039
+Filippo Strozzi: e quindi cosa faccio?
+
+930
+00:34:37,039 --> 00:34:38,000
+Filippo Strozzi: Semplicemente
+
+931
+00:34:38,240 --> 00:34:39,520
+Filippo Strozzi: appunto, siccome
+
+932
+00:34:40,159 --> 00:34:41,119
+Filippo Strozzi: con il sistema di
+
+933
+00:34:42,000 --> 00:34:43,119
+Filippo Strozzi: indicizzazione
+
+934
+00:34:43,440 --> 00:34:44,720
+Filippo Strozzi: di.
+
+935
+00:34:44,539 --> 00:34:45,419
+Filippo Strozzi: Launchbar
+
+936
+00:34:45,659 --> 00:34:45,980
+Filippo Strozzi: ,
+
+937
+00:34:46,299 --> 00:34:47,819
+Filippo Strozzi: ho associato alla
+
+938
+00:34:48,059 --> 00:34:48,299
+Filippo Strozzi: stazione
+
+939
+00:34:48,460 --> 00:34:50,859
+Filippo Strozzi: di tasti PF, cioè che sta per pratiche Filippo
+
+940
+00:34:51,339 --> 00:34:52,059
+Filippo Strozzi: e appunto
+
+941
+00:34:52,220 --> 00:34:55,500
+Filippo Strozzi: le pratiche dell'ufficio, digito PF.
+
+942
+00:34:55,080 --> 00:35:02,120
+Filippo Strozzi: Digito il numero della pratica e posso tranquillamente spostare i documenti all'interno della pratica in 4 secondi.
+
+943
+00:35:02,120 --> 00:35:03,480
+Filippo Strozzi: Quindi molto comodo.
+
+944
+00:35:03,540 --> 00:35:03,700
+Filippo Strozzi: molto
+
+945
+00:35:04,020 --> 00:35:05,460
+Filippo Strozzi: utile e così via
+
+946
+00:35:05,620 --> 00:35:06,180
+Filippo Strozzi: ovviamente
+
+947
+00:35:06,340 --> 00:35:07,860
+Filippo Strozzi: muoversi all'interno del sistema delle
+
+948
+00:35:08,020 --> 00:35:08,740
+Filippo Strozzi: cartelle
+
+949
+00:35:09,380 --> 00:35:14,180
+Filippo Strozzi: c'è tutto il sistema della gestione della clipboard quindi ho una clipboard history
+
+950
+00:35:14,420 --> 00:35:15,140
+Filippo Strozzi: si chiama
+
+951
+00:35:15,080 --> 00:35:16,120
+Filippo Strozzi: c'è una storia
+
+952
+00:35:16,440 --> 00:35:18,120
+Filippo Strozzi: degli appunti che ho salvato
+
+953
+00:35:18,360 --> 00:35:19,240
+Filippo Strozzi: quindi non non
+
+954
+00:35:19,480 --> 00:35:19,800
+Filippo Strozzi: solo
+
+955
+00:35:20,200 --> 00:35:21,080
+Filippo Strozzi: l'ultima
+
+956
+00:35:22,700 --> 00:35:24,940
+Filippo Strozzi: L'ultimo file o l'ultimo
+
+957
+00:35:25,260 --> 00:35:28,060
+Filippo Strozzi: testo che ho salvato negli appunti del sistema
+
+958
+00:35:28,220 --> 00:35:30,140
+Filippo Strozzi: operativo, ma arriva credo
+
+959
+00:35:30,300 --> 00:35:31,099
+Filippo Strozzi: fino a 100 o
+
+960
+00:35:31,900 --> 00:35:33,660
+Filippo Strozzi: 1000 salvataggi.
+
+961
+00:35:33,100 --> 00:35:34,220
+Filippo Strozzi: e quindi posso andare
+
+962
+00:35:34,460 --> 00:35:35,900
+Filippo Strozzi: se mi ricordo per esempio che
+
+963
+00:35:37,420 --> 00:35:38,780
+Filippo Strozzi: cinque minuti fa
+
+964
+00:35:39,100 --> 00:35:39,420
+Filippo Strozzi: ho
+
+965
+00:35:39,740 --> 00:35:41,100
+Filippo Strozzi: salvato un
+
+966
+00:35:41,420 --> 00:35:42,060
+Filippo Strozzi: sito
+
+967
+00:35:42,000 --> 00:35:42,160
+Filippo Strozzi: E
+
+968
+00:35:42,320 --> 00:35:42,880
+Filippo Strozzi: voglio
+
+969
+00:35:43,040 --> 00:35:46,480
+Filippo Strozzi: recuperare quell'URL, posso andare indietro, chiamiamo così nel tempo
+
+970
+00:35:46,640 --> 00:35:49,760
+Filippo Strozzi: quindi andare digitando clie che sta per clipboard
+
+971
+00:35:50,240 --> 00:35:53,520
+Filippo Strozzi: e poi scegliendo appunto nell'elenco
+
+972
+00:35:53,840 --> 00:35:54,000
+Filippo Strozzi: delle
+
+973
+00:35:54,240 --> 00:35:56,240
+Filippo Strozzi: ultime copie che ho fatto sostanzialmente
+
+974
+00:35:56,400 --> 00:35:58,000
+Filippo Strozzi: posso anche recuperare delle vecchie
+
+975
+00:35:59,000 --> 00:36:00,040
+Filippo Strozzi: Per cui per esempio
+
+976
+00:36:00,200 --> 00:36:03,880
+Filippo Strozzi: in determinati casi, non so, devo copiare i dati
+
+977
+00:36:04,040 --> 00:36:05,160
+Filippo Strozzi: di un contratto
+
+978
+00:36:05,480 --> 00:36:05,800
+Filippo Strozzi: delle
+
+979
+00:36:05,960 --> 00:36:06,839
+Filippo Strozzi: persone, quindi
+
+980
+00:36:07,079 --> 00:36:09,160
+Filippo Strozzi: un nome, cognome.
+
+981
+00:36:09,220 --> 00:36:12,180
+Filippo Strozzi: residenze così via e casomai li ho dovuti recuperare
+
+982
+00:36:12,339 --> 00:36:14,180
+Filippo Strozzi: in fila mettiamoli in questi termini
+
+983
+00:36:14,420 --> 00:36:15,940
+Filippo Strozzi: posso fare tanti copie
+
+984
+00:36:16,099 --> 00:36:16,980
+Filippo Strozzi: tante copie
+
+985
+00:36:17,220 --> 00:36:17,539
+Filippo Strozzi: nome
+
+986
+00:36:17,700 --> 00:36:19,299
+Filippo Strozzi: cognome e così via durante
+
+987
+00:36:19,619 --> 00:36:20,660
+Filippo Strozzi: all'interno del
+
+988
+00:36:20,900 --> 00:36:21,460
+Filippo Strozzi: documento
+
+989
+00:36:21,619 --> 00:36:22,500
+Filippo Strozzi: diciamo
+
+990
+00:36:22,860 --> 00:36:23,340
+Filippo Strozzi: Poi
+
+991
+00:36:23,580 --> 00:36:24,860
+Filippo Strozzi: in una botta unica
+
+992
+00:36:25,900 --> 00:36:29,100
+Filippo Strozzi: posso appunto ricopiarli nel file che mi interessa.
+
+993
+00:36:29,100 --> 00:36:31,260
+Filippo Strozzi: Quindi è molto comodo anche da questo punto di vista
+
+994
+00:36:31,420 --> 00:36:36,220
+Filippo Strozzi: recuperare la storia del Clipboard e avere un Clipboard Manager sostanzialmente.
+
+995
+00:36:35,960 --> 00:36:38,040
+Filippo Strozzi: All'interno dell'Aancia
+
+996
+00:36:38,360 --> 00:36:38,680
+Filippo Strozzi: ,
+
+997
+00:36:39,320 --> 00:36:42,440
+Filippo Strozzi: altre cose di nota, un po' forse
+
+998
+00:36:42,600 --> 00:36:44,120
+Filippo Strozzi: più tecnologiche,
+
+999
+00:36:44,280 --> 00:36:47,720
+Filippo Strozzi: diciamo, ma l'AunchBar ha tutto un sistema
+
+1000
+00:36:47,960 --> 00:36:48,920
+Filippo Strozzi: di.
+
+1001
+00:36:48,960 --> 00:36:51,200
+Filippo Strozzi: azioni, chiamiamole in questi termini,
+
+1002
+00:36:51,440 --> 00:36:52,080
+Filippo Strozzi: e di
+
+1003
+00:36:52,320 --> 00:36:52,800
+Filippo Strozzi: sistemi
+
+1004
+00:36:53,040 --> 00:36:54,560
+Filippo Strozzi: che ti permettono di
+
+1005
+00:36:54,880 --> 00:36:55,200
+Filippo Strozzi: anche
+
+1006
+00:36:55,360 --> 00:36:57,920
+Filippo Strozzi: fare delle cose abbastanza avanzate.
+
+1007
+00:36:58,120 --> 00:37:06,280
+Filippo Strozzi: Non lo utilizzo spesso volentieri, però mi ci sono divertito in alcuni casi e si possono fare cose.
+
+1008
+00:37:05,840 --> 00:37:07,520
+Filippo Strozzi: effettivamente molto interessanti.
+
+1009
+00:37:07,520 --> 00:37:09,760
+Filippo Strozzi: Ah, ecco, non l'ho detto, ma
+
+1010
+00:37:10,080 --> 00:37:14,160
+Filippo Strozzi: un'altra cosa molto utile dei lanchar è quella di.
+
+1011
+00:37:14,160 --> 00:37:14,480
+Filippo Strozzi: .
+
+1012
+00:37:14,480 --> 00:37:14,800
+Filippo Strozzi: .
+
+1013
+00:37:14,560 --> 00:37:14,720
+Filippo Strozzi: fare
+
+1014
+00:37:14,960 --> 00:37:17,920
+Filippo Strozzi: delle ricerche specifiche nei singoli motori di ricerca
+
+1015
+00:37:18,160 --> 00:37:18,480
+Filippo Strozzi: quindi
+
+1016
+00:37:18,720 --> 00:37:19,200
+Filippo Strozzi: per esempio
+
+1017
+00:37:19,360 --> 00:37:19,680
+Filippo Strozzi: non so
+
+1018
+00:37:19,840 --> 00:37:22,080
+Filippo Strozzi: voglio andare a cercare la parola
+
+1019
+00:37:22,240 --> 00:37:22,960
+Filippo Strozzi: Sherlock
+
+1020
+00:37:23,360 --> 00:37:24,560
+Filippo Strozzi: Wikipedia
+
+1021
+00:37:25,080 --> 00:37:25,400
+Filippo Strozzi: o
+
+1022
+00:37:25,560 --> 00:37:29,000
+Filippo Strozzi: fare una ricerca su internet o fare una ricerca su Amazon e così via
+
+1023
+00:37:29,160 --> 00:37:33,960
+Filippo Strozzi: posso andare e scegliere di fare la ricerca specifica per un determinato motore
+
+1024
+00:37:34,140 --> 00:37:36,380
+Filippo Strozzi: L'altra cosa carina per esempio di Lunchmar
+
+1025
+00:37:36,700 --> 00:37:44,940
+Filippo Strozzi: è che spesso e volentieri voglio vedere se ho scritto un articolo o quali articoli ho scritto su determinati argomenti.
+
+1026
+00:37:45,640 --> 00:37:47,800
+Filippo Strozzi: Posso creare una ricerca specifica per
+
+1027
+00:37:48,040 --> 00:37:49,160
+Filippo Strozzi: esempio Avocati e Mac
+
+1028
+00:37:49,960 --> 00:37:52,040
+Filippo Strozzi: da fare direttamente lanciata
+
+1029
+00:37:53,240 --> 00:37:54,200
+Filippo Strozzi: da Lanchar,
+
+1030
+00:37:54,360 --> 00:37:57,080
+Filippo Strozzi: quindi si possono fare veramente tutta una serie di.
+
+1031
+00:37:57,080 --> 00:37:57,400
+Filippo Strozzi: .
+
+1032
+00:37:57,240 --> 00:37:58,280
+Filippo Strozzi: Operazioni
+
+1033
+00:37:58,440 --> 00:37:58,760
+Filippo Strozzi: molto
+
+1034
+00:37:59,640 --> 00:38:00,040
+Filippo Strozzi: utili
+
+1035
+00:38:00,280 --> 00:38:04,120
+Roberto Marin: volevo aggiungere un'operazione che secondo me è molto interessante di lancio
+
+1036
+00:38:04,280 --> 00:38:05,480
+Roberto Marin: par.
+
+1037
+00:38:04,859 --> 00:38:10,300
+Roberto Marin: Che stavo appunto leggendo qua nelle sue caratteristiche, che c'è anche la possibilità di creare eventi pro memoria
+
+1038
+00:38:10,460 --> 00:38:12,220
+Roberto Marin: dal calendario in pochi secondi.
+
+1039
+00:38:12,220 --> 00:38:12,700
+Filippo Strozzi: Sì,
+
+1040
+00:38:13,660 --> 00:38:15,740
+Filippo Strozzi: diciamo che io non lo utilizzo perché
+
+1041
+00:38:15,900 --> 00:38:19,579
+Filippo Strozzi: abitualmente ho Fantastical e quindi utilizzo quello.
+
+1042
+00:38:19,000 --> 00:38:23,880
+Filippo Strozzi: Però sì, addirittura si possono cercare i contatti, si possono proprio creare
+
+1043
+00:38:24,040 --> 00:38:25,080
+Filippo Strozzi: eventi, anche
+
+1044
+00:38:25,240 --> 00:38:25,400
+Filippo Strozzi: qui
+
+1045
+00:38:25,560 --> 00:38:27,240
+Filippo Strozzi: non l'ho detto, ma effettivamente
+
+1046
+00:38:27,480 --> 00:38:29,960
+Filippo Strozzi: può essere interessante per molti.
+
+1047
+00:38:29,960 --> 00:38:32,520
+Filippo Strozzi: Non solo si possono cercare i contatti.
+
+1048
+00:38:32,460 --> 00:38:32,860
+Filippo Strozzi: ma anche
+
+1049
+00:38:33,020 --> 00:38:37,340
+Filippo Strozzi: una funzione di espansione del testo nel senso che ti mette il testo a
+
+1050
+00:38:37,580 --> 00:38:38,780
+Filippo Strozzi: tutto schermo quindi
+
+1051
+00:38:39,260 --> 00:38:40,380
+Filippo Strozzi: per esempio
+
+1052
+00:38:40,200 --> 00:38:45,079
+Filippo Strozzi: Devi chiamare un numero di telefono, lo vai a cercare nella rubrica dei contatti.
+
+1053
+00:38:45,079 --> 00:38:45,960
+Filippo Strozzi: Quando schiacci
+
+1054
+00:38:46,119 --> 00:38:50,040
+Filippo Strozzi: spazio, ti compare il numero di telefono a tutto schermo, e quindi tu
+
+1055
+00:38:50,359 --> 00:38:51,880
+Filippo Strozzi: non devi stare lì.
+
+1056
+00:38:53,940 --> 00:38:56,660
+Filippo Strozzi: A incrociare gli occhi per leggere il numero, casomai
+
+1057
+00:38:56,820 --> 00:38:58,820
+Filippo Strozzi: in contatti, che non è proprio la cosa più semplice
+
+1058
+00:38:58,980 --> 00:39:00,420
+Filippo Strozzi: sulla faccia da terra, ma
+
+1059
+00:39:00,740 --> 00:39:02,820
+Filippo Strozzi: soprattutto se hello schermo generoso
+
+1060
+00:39:03,060 --> 00:39:04,660
+Filippo Strozzi: ti compara il numero di telefono
+
+1061
+00:39:04,900 --> 00:39:08,180
+Filippo Strozzi: completo, e quindi tu.
+
+1062
+00:39:08,760 --> 00:39:09,720
+Filippo Strozzi: ha tutta una serie di
+
+1063
+00:39:09,960 --> 00:39:10,040
+Filippo Strozzi: cioè
+
+1064
+00:39:10,280 --> 00:39:10,360
+Filippo Strozzi: sono
+
+1065
+00:39:10,520 --> 00:39:15,640
+Filippo Strozzi: cose che non è che ti cambiano la vita in maniera clamorosa però sono tutte quelle utilità diciamo
+
+1066
+00:39:15,800 --> 00:39:17,800
+Filippo Strozzi: che una volta che impari a utilizzare
+
+1067
+00:39:18,040 --> 00:39:21,320
+Filippo Strozzi: poi ti rendono più facile la vita e quindi
+
+1068
+00:39:21,560 --> 00:39:24,200
+Filippo Strozzi: io continuo a ripetere per il costo che ha
+
+1069
+00:39:24,420 --> 00:39:26,100
+Filippo Strozzi: Ne vale la pena, secondo me.
+
+1070
+00:39:26,100 --> 00:39:28,500
+Roberto Marin: Sì, tra le altre cose che ha aggiunto
+
+1071
+00:39:28,740 --> 00:39:31,220
+Roberto Marin: anche un report di statistiche
+
+1072
+00:39:31,540 --> 00:39:32,660
+Roberto Marin: per capire.
+
+1073
+00:39:32,960 --> 00:39:33,120
+Roberto Marin: cosa
+
+1074
+00:39:33,280 --> 00:39:36,080
+Roberto Marin: utilizzate di più e cosa utilizzate di meno di launch bar che
+
+1075
+00:39:36,240 --> 00:39:37,280
+Roberto Marin: secondo me è interessante perché
+
+1076
+00:39:37,440 --> 00:39:38,640
+Roberto Marin: ci sono magari delle caratteristiche
+
+1077
+00:39:39,440 --> 00:39:40,800
+Filippo Strozzi: adesso guarda se vuoi
+
+1078
+00:39:41,040 --> 00:39:41,840
+Filippo Strozzi: ti dico
+
+1079
+00:39:42,160 --> 00:39:43,200
+Filippo Strozzi: Vabbè, ho
+
+1080
+00:39:44,160 --> 00:39:45,440
+Filippo Strozzi: Send 2, quindi
+
+1081
+00:39:46,000 --> 00:39:47,120
+Filippo Strozzi: inviare i documenti
+
+1082
+00:39:47,280 --> 00:39:52,160
+Filippo Strozzi: 15%, browsing 25%, 30% di ricerche
+
+1083
+00:39:53,120 --> 00:39:54,400
+Filippo Strozzi: e 22%
+
+1084
+00:39:54,560 --> 00:39:56,640
+Filippo Strozzi: di subsearch.
+
+1085
+00:39:56,080 --> 00:39:56,160
+Filippo Strozzi: e
+
+1086
+00:39:56,400 --> 00:39:57,120
+Filippo Strozzi: instance end
+
+1087
+00:39:57,520 --> 00:39:58,240
+Filippo Strozzi: sono l'8
+
+1088
+00:39:58,480 --> 00:39:58,720
+Filippo Strozzi: %
+
+1089
+00:39:59,680 --> 00:40:00,000
+Filippo Strozzi: e
+
+1090
+00:40:02,480 --> 00:40:05,280
+Filippo Strozzi: adesso tu fai conto che è attivo su questo McMini
+
+1091
+00:40:05,440 --> 00:40:09,040
+Filippo Strozzi: dal 3 luglio del 2022 quindi non è tantissimo tempo
+
+1092
+00:40:09,300 --> 00:40:09,940
+Filippo Strozzi: Però
+
+1093
+00:40:10,100 --> 00:40:11,140
+Filippo Strozzi: sostiene che io
+
+1094
+00:40:11,300 --> 00:40:12,100
+Filippo Strozzi: grazie a questa cosa
+
+1095
+00:40:12,260 --> 00:40:14,100
+Filippo Strozzi: ho risparmiato 2 ore 19
+
+1096
+00:40:14,340 --> 00:40:19,060
+Filippo Strozzi: che alla fine è abbastanza, nel senso che tu fai conto che per esempio.
+
+1097
+00:40:19,060 --> 00:40:19,300
+Filippo Strozzi: .
+
+1098
+00:40:19,359 --> 00:40:20,000
+Filippo Strozzi: Ho fatto
+
+1099
+00:40:20,640 --> 00:40:23,359
+Filippo Strozzi: accesso all'applicazione 1600
+
+1100
+00:40:23,599 --> 00:40:24,560
+Filippo Strozzi: volte,
+
+1101
+00:40:24,800 --> 00:40:25,119
+Filippo Strozzi: accesso
+
+1102
+00:40:25,280 --> 00:40:26,240
+Filippo Strozzi: a documenti
+
+1103
+00:40:26,560 --> 00:40:27,920
+Filippo Strozzi: 364
+
+1104
+00:40:28,079 --> 00:40:30,400
+Filippo Strozzi: volte, in neanche un anno
+
+1105
+00:40:30,500 --> 00:40:31,540
+Filippo Strozzi: Tra l'altro,
+
+1106
+00:40:31,700 --> 00:40:32,660
+Roberto Marin: e aggiungo un'altra
+
+1107
+00:40:32,820 --> 00:40:32,980
+Roberto Marin: cosa
+
+1108
+00:40:33,300 --> 00:40:33,620
+Roberto Marin: ancora
+
+1109
+00:40:33,860 --> 00:40:37,940
+Roberto Marin: in fondo: che da quello che ho visto io sul sito, siamo alla versione 6.
+
+1110
+00:40:37,940 --> 00:40:38,980
+Roberto Marin: 16, pare
+
+1111
+00:40:39,860 --> 00:40:40,020
+Roberto Marin: e
+
+1112
+00:40:40,260 --> 00:40:41,780
+Roberto Marin: un'altra piccola chicca
+
+1113
+00:40:42,299 --> 00:40:42,700
+Roberto Marin: Io ho
+
+1114
+00:40:42,859 --> 00:40:43,020
+Roberto Marin: la
+
+1115
+00:40:43,420 --> 00:40:43,980
+Roberto Marin: 6.
+
+1116
+00:40:43,980 --> 00:40:44,460
+Roberto Marin: 16
+
+1117
+00:40:44,700 --> 00:40:45,740
+Roberto Marin: e un'altra kic
+
+1118
+00:40:45,900 --> 00:40:45,900
+Roberto Marin: che
+
+1119
+00:40:46,059 --> 00:40:56,059
+Roberto Marin: leggevo qua sul sito che diceva che oltre a un periodo di prova di 30 giorni, l'Aunch Bar 6 può essere utilizzato gratuitamente per tutto il tempo e tutte le volte che si vuole.
+
+1120
+00:40:55,500 --> 00:40:56,860
+Roberto Marin: Senza registrazione
+
+1121
+00:40:57,020 --> 00:41:02,220
+Roberto Marin: si invita soltanto occasionalmente a fare una breve pausa permettendo di respirare e rilassarti.
+
+1122
+00:41:02,220 --> 00:41:04,540
+Roberto Marin: Non ho la minima idea di cosa voglia dire questo
+
+1123
+00:41:04,700 --> 00:41:04,860
+Roberto Marin: perché
+
+1124
+00:41:05,100 --> 00:41:07,500
+Roberto Marin: come sapete io non lo utilizzo.
+
+1125
+00:41:07,420 --> 00:41:07,740
+Roberto Marin: Ma
+
+1126
+00:41:07,980 --> 00:41:12,700
+Roberto Marin: potrebbe essere interessante per l'utilizzo anche semi-gratuito, chiamiamolo così.
+
+1127
+00:41:13,020 --> 00:41:13,660
+Filippo Strozzi: Devo dirti
+
+1128
+00:41:13,820 --> 00:41:15,740
+Filippo Strozzi: la verità, appunto, l'applicazione
+
+1129
+00:41:15,900 --> 00:41:16,300
+Filippo Strozzi: comunque
+
+1130
+00:41:16,620 --> 00:41:17,820
+Filippo Strozzi: ti dicevo.
+
+1131
+00:41:19,060 --> 00:41:23,140
+Filippo Strozzi: La versione 6, chiamiamola in questi termini, c'è da almeno 5-6
+
+1132
+00:41:23,300 --> 00:41:24,180
+Filippo Strozzi: anni, quindi
+
+1133
+00:41:25,060 --> 00:41:26,260
+Filippo Strozzi: tant'è vero che io
+
+1134
+00:41:26,900 --> 00:41:29,460
+Filippo Strozzi: non ho avuto spese di nessun genere
+
+1135
+00:41:29,700 --> 00:41:31,860
+Filippo Strozzi: e devo dirti la verità.
+
+1136
+00:41:31,920 --> 00:41:32,800
+Filippo Strozzi: probabilmente
+
+1137
+00:41:35,200 --> 00:41:36,560
+Filippo Strozzi: non ci sono novità
+
+1138
+00:41:36,720 --> 00:41:37,200
+Filippo Strozzi: significative
+
+1139
+00:41:37,600 --> 00:41:38,960
+Filippo Strozzi: per cui raramente
+
+1140
+00:41:39,620 --> 00:41:41,140
+Filippo Strozzi: ci sono aggiornamenti
+
+1141
+00:41:41,380 --> 00:41:42,900
+Filippo Strozzi: come tale quindi la compri
+
+1142
+00:41:43,060 --> 00:41:44,900
+Filippo Strozzi: una volta adesso anche loro secondo me
+
+1143
+00:41:45,060 --> 00:41:46,500
+Filippo Strozzi: non hanno un business
+
+1144
+00:41:47,300 --> 00:41:48,180
+Filippo Strozzi: diciamo
+
+1145
+00:41:48,740 --> 00:41:49,780
+Filippo Strozzi: tale per cui
+
+1146
+00:41:50,660 --> 00:41:51,380
+Roberto Marin: Diciamo che
+
+1147
+00:41:52,260 --> 00:41:55,860
+Roberto Marin: l'ultima versione è del 7 novembre 2022.
+
+1148
+00:41:55,860 --> 00:41:59,060
+Filippo Strozzi: Andiamo invece alla versione, all'applicazione, diciamo.
+
+1149
+00:41:58,800 --> 00:42:00,240
+Filippo Strozzi: ormai più blasonata
+
+1150
+00:42:00,400 --> 00:42:00,880
+Filippo Strozzi: quella che
+
+1151
+00:42:01,120 --> 00:42:02,160
+Filippo Strozzi: utilizzano cioè
+
+1152
+00:42:02,480 --> 00:42:04,960
+Filippo Strozzi: che ormai è considerata migliore
+
+1153
+00:42:05,200 --> 00:42:06,320
+Filippo Strozzi: che è Alfred
+
+1154
+00:42:06,660 --> 00:42:07,380
+Filippo Strozzi: Alfred
+
+1155
+00:42:07,700 --> 00:42:08,820
+Filippo Strozzi: ha la versione 5
+
+1156
+00:42:09,060 --> 00:42:13,620
+Filippo Strozzi: in questo caso, Alfred effettivamente sta avendo delle evoluzioni e
+
+1157
+00:42:13,860 --> 00:42:16,740
+Filippo Strozzi: gli stanno facendo fare delle cose interessanti.
+
+1158
+00:42:16,520 --> 00:42:22,520
+Filippo Strozzi: Tendenzialmente Alfred fa più o meno tutte le cose che fa l'Aunchbar, ha
+
+1159
+00:42:23,000 --> 00:42:23,960
+Filippo Strozzi: secondo me
+
+1160
+00:42:24,280 --> 00:42:24,920
+Filippo Strozzi: alcuni
+
+1161
+00:42:25,160 --> 00:42:28,119
+Filippo Strozzi: aspetti forse più interessanti.
+
+1162
+00:42:28,760 --> 00:42:29,080
+Filippo Strozzi: e
+
+1163
+00:42:30,040 --> 00:42:31,160
+Filippo Strozzi: in pratica
+
+1164
+00:42:31,560 --> 00:42:32,920
+Filippo Strozzi: la cosa che tra virgolette
+
+1165
+00:42:33,080 --> 00:42:36,280
+Filippo Strozzi: mi incuriosisce molto del sistema è che sono i workflow
+
+1166
+00:42:36,440 --> 00:42:42,520
+Filippo Strozzi: cioè la possibilità diciamo di creare delle automazioni direttamente all'interno di Alfred.
+
+1167
+00:42:42,520 --> 00:42:45,800
+Filippo Strozzi: Quindi si possono fare veramente delle cosette interessanti perché
+
+1168
+00:42:46,119 --> 00:42:49,560
+Filippo Strozzi: si collegano dei blocchi e quindi si riescono a far fare
+
+1169
+00:42:49,740 --> 00:42:49,980
+Filippo Strozzi: cose
+
+1170
+00:42:50,140 --> 00:42:51,820
+Filippo Strozzi: differenti a fronte di
+
+1171
+00:42:52,300 --> 00:42:54,780
+Filippo Strozzi: richieste di strutture differenti
+
+1172
+00:42:55,500 --> 00:42:56,780
+Filippo Strozzi: la cosa carina
+
+1173
+00:42:57,020 --> 00:42:57,660
+Filippo Strozzi: è che
+
+1174
+00:42:57,980 --> 00:42:58,300
+Filippo Strozzi: anche
+
+1175
+00:42:58,780 --> 00:43:02,140
+Filippo Strozzi: una galleria di flussi di lavoro, chiamiamoli così, da rubare
+
+1176
+00:43:02,300 --> 00:43:02,940
+Filippo Strozzi: e quindi
+
+1177
+00:43:04,300 --> 00:43:06,060
+Filippo Strozzi: c'è un sistema diciamo per
+
+1178
+00:43:06,380 --> 00:43:07,660
+Filippo Strozzi: anche copiare
+
+1179
+00:43:07,980 --> 00:43:09,260
+Filippo Strozzi: da altri.
+
+1180
+00:43:09,539 --> 00:43:13,539
+Filippo Strozzi: Il modello di business qui è diverso, cioè c'è una parte base
+
+1181
+00:43:14,099 --> 00:43:16,819
+Filippo Strozzi: gratuita, quindi si può scaricare Alfred, infatti
+
+1182
+00:43:16,980 --> 00:43:18,420
+Filippo Strozzi: l'ho scaricato.
+
+1183
+00:43:18,560 --> 00:43:19,920
+Filippo Strozzi: e poi c'è un
+
+1184
+00:43:21,040 --> 00:43:23,520
+Filippo Strozzi: diciamo che le funzioni di base sono abbastanza limitate
+
+1185
+00:43:24,160 --> 00:43:24,880
+Roberto Marin: che c'è un power
+
+1186
+00:43:25,120 --> 00:43:26,960
+Roberto Marin: pack aggiuntivo quello è a pagamento
+
+1187
+00:43:27,120 --> 00:43:28,240
+Filippo Strozzi: quello a pagamento
+
+1188
+00:43:28,560 --> 00:43:30,800
+Filippo Strozzi: costa intorno alle 34 sterline
+
+1189
+00:43:31,260 --> 00:43:31,580
+Filippo Strozzi: e
+
+1190
+00:43:31,820 --> 00:43:35,820
+Filippo Strozzi: di fatto ci sono le funzioni però fondamentali cioè gli snippet
+
+1191
+00:43:36,460 --> 00:43:36,780
+Filippo Strozzi: quindi
+
+1192
+00:43:37,020 --> 00:43:39,820
+Filippo Strozzi: la possibilità di fare le espansioni del testo la clip
+
+1193
+00:43:39,980 --> 00:43:40,540
+Filippo Strozzi: of history
+
+1194
+00:43:40,940 --> 00:43:41,820
+Filippo Strozzi: i contatti
+
+1195
+00:43:42,260 --> 00:43:46,420
+Filippo Strozzi: la gestione della musica quindi puoi far partire e fermare la musica
+
+1196
+00:43:46,740 --> 00:43:53,380
+Filippo Strozzi: hai l'accesso al terminale quindi fare anche partire degli script o addirittura fare direttamente da terminale cioè
+
+1197
+00:43:53,280 --> 00:43:54,160
+Filippo Strozzi: dall'alfred
+
+1198
+00:43:54,400 --> 00:43:55,119
+Filippo Strozzi: lanciare
+
+1199
+00:43:55,440 --> 00:43:55,680
+Filippo Strozzi: dei
+
+1200
+00:43:55,839 --> 00:44:04,240
+Filippo Strozzi: comandi a terminale, la navigazione appunto dei file e il buffer dei file, quindi spostare, copiare i file.
+
+1201
+00:44:03,700 --> 00:44:06,180
+Filippo Strozzi: e soprattutto la cosa molto interessante
+
+1202
+00:44:06,500 --> 00:44:07,859
+Filippo Strozzi: è quella appunto dei
+
+1203
+00:44:08,020 --> 00:44:08,820
+Filippo Strozzi: workflow
+
+1204
+00:44:08,980 --> 00:44:10,020
+Filippo Strozzi: che è molto potente
+
+1205
+00:44:10,180 --> 00:44:12,260
+Filippo Strozzi: che ti permette di veramente fare
+
+1206
+00:44:12,500 --> 00:44:13,060
+Filippo Strozzi: tante cose
+
+1207
+00:44:13,220 --> 00:44:14,820
+Filippo Strozzi: di personalizzare molto
+
+1208
+00:44:16,440 --> 00:44:16,520
+Filippo Strozzi: il
+
+1209
+00:44:16,680 --> 00:44:17,720
+Filippo Strozzi: flusso di lavoro
+
+1210
+00:44:17,880 --> 00:44:19,640
+Filippo Strozzi: io come dicevo non lo utilizzo
+
+1211
+00:44:19,800 --> 00:44:22,520
+Filippo Strozzi: però ho visto nell'ambiente dell'automazione
+
+1212
+00:44:22,680 --> 00:44:23,400
+Filippo Strozzi: Alfred
+
+1213
+00:44:23,840 --> 00:44:24,320
+Filippo Strozzi: soprattutto
+
+1214
+00:44:24,720 --> 00:44:25,600
+Filippo Strozzi: i workflow
+
+1215
+00:44:25,760 --> 00:44:26,240
+Filippo Strozzi: sono sono
+
+1216
+00:44:26,400 --> 00:44:28,240
+Filippo Strozzi: il fior all'occhiello di questa applicazione
+
+1217
+00:44:28,480 --> 00:44:30,560
+Filippo Strozzi: sostanzialmente è il motivo per cui questo power
+
+1218
+00:44:30,800 --> 00:44:31,360
+Filippo Strozzi: pack
+
+1219
+00:44:31,559 --> 00:44:34,839
+Filippo Strozzi: Ha un suo senso logico d'acquisto, e diciamo
+
+1220
+00:44:35,000 --> 00:44:35,559
+Filippo Strozzi: Alfred
+
+1221
+00:44:35,720 --> 00:44:38,599
+Filippo Strozzi: senza il power pack, è abbastanza castrato come
+
+1222
+00:44:38,839 --> 00:44:39,240
+Filippo Strozzi: sistema.
+
+1223
+00:44:39,480 --> 00:44:44,920
+Roberto Marin: Aggiungo solo un altro paio di cose per quanto riguarda il Power Pack di cui stavamo parlando.
+
+1224
+00:44:44,660 --> 00:44:46,980
+Roberto Marin: È che in effetti sono 34
+
+1225
+00:44:47,140 --> 00:44:47,860
+Roberto Marin: sterline
+
+1226
+00:44:48,180 --> 00:44:48,500
+Roberto Marin: ,
+
+1227
+00:44:49,300 --> 00:44:53,300
+Roberto Marin: però per la singola licenza e per la versione 5.
+
+1228
+00:44:53,300 --> 00:44:55,700
+Roberto Marin: Invece c'è anche una versione un po' più
+
+1229
+00:44:55,600 --> 00:44:56,080
+Roberto Marin: Diciamo
+
+1230
+00:44:56,320 --> 00:45:01,840
+Roberto Marin: interessante secondo me perché è da mega supporter, così la chiamano, per 59 sterline
+
+1231
+00:45:02,000 --> 00:45:04,080
+Roberto Marin: che ti permette però il free lifetime
+
+1232
+00:45:04,320 --> 00:45:05,680
+Roberto Marin: upgrades.
+
+1233
+00:45:05,300 --> 00:45:05,620
+Roberto Marin: Quindi
+
+1234
+00:45:05,780 --> 00:45:07,220
+Roberto Marin: praticamente con questo
+
+1235
+00:45:07,540 --> 00:45:11,540
+Roberto Marin: tipo di pagamento lo fate una volta sola, avete tutti gli upgrade
+
+1236
+00:45:11,860 --> 00:45:15,620
+Roberto Marin: a pagamento, cioè tutti gli upgrade gratuiti.
+
+1237
+00:45:15,340 --> 00:45:15,980
+Roberto Marin: con questo
+
+1238
+00:45:16,220 --> 00:45:17,900
+Roberto Marin: Power Pack quindi quando uscirà
+
+1239
+00:45:18,060 --> 00:45:20,140
+Roberto Marin: la versione 6 probabilmente gli
+
+1240
+00:45:20,380 --> 00:45:23,900
+Roberto Marin: upgrade saranno gratuiti poi c'è un'altra cosa molto interessante che
+
+1241
+00:45:24,260 --> 00:45:25,060
+Roberto Marin: c'è l'Alfred
+
+1242
+00:45:25,380 --> 00:45:27,380
+Roberto Marin: Remote for iOS,
+
+1243
+00:45:27,620 --> 00:45:33,700
+Roberto Marin: nel senso che praticamente permette di trasformare il vostro dispositivo iOS come un telecomando
+
+1244
+00:45:34,660 --> 00:45:38,900
+Roberto Marin: dal quale potete lanciare delle azioni che vanno poi fatte sul Mac.
+
+1245
+00:45:38,900 --> 00:45:40,339
+Roberto Marin: Questo può essere interessante
+
+1246
+00:45:40,500 --> 00:45:41,460
+Roberto Marin: per chi è
+
+1247
+00:45:41,859 --> 00:45:42,020
+Roberto Marin: o
+
+1248
+00:45:42,180 --> 00:45:44,900
+Roberto Marin: almeno gli piace avere qualcosa di
+
+1249
+00:45:45,140 --> 00:45:45,780
+Roberto Marin: molto.
+
+1250
+00:45:45,960 --> 00:45:53,960
+Roberto Marin: diciamo domotico chiamiamolo così in modo tale che potete anche controllare qualcosa a distanza e fargli fare cose a distanza che può essere interessante
+
+1251
+00:45:54,000 --> 00:45:56,720
+Roberto Marin: Ad esempio se avete un server, io lo vedo molto bene
+
+1252
+00:45:56,880 --> 00:45:58,560
+Roberto Marin: come un server che è sempre acceso
+
+1253
+00:45:58,720 --> 00:46:02,400
+Roberto Marin: e voi dal vostro iPhone potete iniziare a fargli fare delle cose.
+
+1254
+00:46:02,400 --> 00:46:04,800
+Filippo Strozzi: Sì, sì, sì, sicuramente molto.
+
+1255
+00:46:05,320 --> 00:46:06,840
+Filippo Strozzi: Molto interessante.
+
+1256
+00:46:07,720 --> 00:46:08,920
+Filippo Strozzi: L'ultimo applicativo
+
+1257
+00:46:09,880 --> 00:46:10,200
+Filippo Strozzi: che
+
+1258
+00:46:10,680 --> 00:46:11,640
+Filippo Strozzi: nella triade
+
+1259
+00:46:12,200 --> 00:46:15,720
+Filippo Strozzi: degli applicativi è un applicativo non a pagamento, o meglio.
+
+1260
+00:46:15,100 --> 00:46:15,260
+Filippo Strozzi: È
+
+1261
+00:46:15,420 --> 00:46:16,300
+Filippo Strozzi: a pagamento
+
+1262
+00:46:16,620 --> 00:46:16,940
+Filippo Strozzi: ma
+
+1263
+00:46:17,340 --> 00:46:17,980
+Filippo Strozzi: diciamo
+
+1264
+00:46:18,220 --> 00:46:22,860
+Filippo Strozzi: per uso, chiamiamolo così, professionale, cioè per uso per i team, perché
+
+1265
+00:46:23,180 --> 00:46:25,980
+Filippo Strozzi: Recast, di cui stiamo parlando.
+
+1266
+00:46:27,080 --> 00:46:27,720
+Filippo Strozzi: Il lancia
+
+1267
+00:46:27,880 --> 00:46:28,760
+Filippo Strozzi: più nuovo, credo.
+
+1268
+00:46:30,280 --> 00:46:30,840
+Filippo Strozzi: Il lancio
+
+1269
+00:46:31,000 --> 00:46:31,640
+Filippo Strozzi: nuovo
+
+1270
+00:46:32,520 --> 00:46:35,560
+Filippo Strozzi: è il cosiddetto nuovo ragazzo di quartiere, New
+
+1271
+00:46:35,720 --> 00:46:36,280
+Filippo Strozzi: Kids
+
+1272
+00:46:36,440 --> 00:46:37,640
+Filippo Strozzi: of the Block.
+
+1273
+00:46:37,320 --> 00:46:37,480
+Filippo Strozzi: e
+
+1274
+00:46:38,040 --> 00:46:38,920
+Filippo Strozzi: credo che abbia
+
+1275
+00:46:39,240 --> 00:46:39,320
+Filippo Strozzi: due
+
+1276
+00:46:39,480 --> 00:46:41,320
+Filippo Strozzi: tre anni non di più nel
+
+1277
+00:46:42,280 --> 00:46:44,760
+Filippo Strozzi: nell'ecosistema Apple diciamo
+
+1278
+00:46:45,680 --> 00:46:47,520
+Filippo Strozzi: Questa applicazione, però, è
+
+1279
+00:46:47,760 --> 00:46:48,240
+Filippo Strozzi: appunto a
+
+1280
+00:46:48,400 --> 00:46:49,360
+Filippo Strozzi: uso personale
+
+1281
+00:46:49,520 --> 00:46:50,560
+Filippo Strozzi: gratuita.
+
+1282
+00:46:51,120 --> 00:46:53,760
+Filippo Strozzi: Credo fino a 5 utenti,
+
+1283
+00:46:54,480 --> 00:46:58,080
+Filippo Strozzi: anche lì gratuita con alcune limitazioni.
+
+1284
+00:46:58,020 --> 00:46:58,339
+Filippo Strozzi: e
+
+1285
+00:46:58,660 --> 00:47:00,260
+Filippo Strozzi: è prevalentemente
+
+1286
+00:47:00,900 --> 00:47:03,060
+Filippo Strozzi: ragionata, cioè pensata
+
+1287
+00:47:03,380 --> 00:47:07,220
+Filippo Strozzi: per uso, chiamiamoli così, corporate, cioè per un
+
+1288
+00:47:07,700 --> 00:47:09,220
+Filippo Strozzi: uso d'ufficio.
+
+1289
+00:47:09,460 --> 00:47:13,060
+Filippo Strozzi: per grosse aziende dove tutti usano Raycast
+
+1290
+00:47:13,540 --> 00:47:14,980
+Filippo Strozzi: per fare queste cose
+
+1291
+00:47:15,620 --> 00:47:20,020
+Filippo Strozzi: è un modello di business abbastanza particolare ed è per quello che mi lascia
+
+1292
+00:47:21,380 --> 00:47:21,460
+Filippo Strozzi: pur
+
+1293
+00:47:22,020 --> 00:47:23,380
+Filippo Strozzi: essendoci tanti che
+
+1294
+00:47:23,540 --> 00:47:27,780
+Filippo Strozzi: credo che anche Vitici li utilizzi, ci sono tanti molto entusiasti, diciamo
+
+1295
+00:47:27,940 --> 00:47:28,980
+Filippo Strozzi: a me come sistema
+
+1296
+00:47:29,300 --> 00:47:32,020
+Filippo Strozzi: lascia perplesso nel senso che sono quelle applicazioni che dici
+
+1297
+00:47:32,300 --> 00:47:32,380
+Filippo Strozzi: perché
+
+1298
+00:47:33,420 --> 00:47:35,980
+Filippo Strozzi: non costa nulla o costa solo a questi soggetti
+
+1299
+00:47:36,140 --> 00:47:36,620
+Filippo Strozzi: a meno
+
+1300
+00:47:37,020 --> 00:47:38,700
+Filippo Strozzi: insomma mi lascio un po' così
+
+1301
+00:47:38,860 --> 00:47:42,620
+Filippo Strozzi: sicuramente comunque il loro target non è il piccolo utente
+
+1302
+00:47:42,780 --> 00:47:43,660
+Filippo Strozzi: diciamo
+
+1303
+00:47:44,020 --> 00:47:44,579
+Filippo Strozzi: E questo
+
+1304
+00:47:44,740 --> 00:47:45,220
+Filippo Strozzi: comunque
+
+1305
+00:47:45,380 --> 00:47:46,900
+Filippo Strozzi: dal mio punto di vista
+
+1306
+00:47:47,140 --> 00:47:51,220
+Filippo Strozzi: lascia un po' a desiderare, è molto veloce, è molto
+
+1307
+00:47:51,540 --> 00:47:52,260
+Filippo Strozzi: spandibile
+
+1308
+00:47:52,500 --> 00:47:53,300
+Filippo Strozzi: rispetto
+
+1309
+00:47:53,619 --> 00:47:58,099
+Filippo Strozzi: agli altri lanciar, soprattutto rispetto ad Alfred.
+
+1310
+00:47:57,740 --> 00:48:01,020
+Filippo Strozzi: È sì, possibile creare delle estensioni e ci sono
+
+1311
+00:48:01,260 --> 00:48:05,900
+Filippo Strozzi: tutto un sistema di estensioni molto potente, chiamiamole in questi termini.
+
+1312
+00:48:06,260 --> 00:48:06,579
+Filippo Strozzi: ma
+
+1313
+00:48:06,900 --> 00:48:08,020
+Filippo Strozzi: in pratica devi essere
+
+1314
+00:48:08,180 --> 00:48:09,140
+Filippo Strozzi: un programmatore
+
+1315
+00:48:09,380 --> 00:48:11,140
+Filippo Strozzi: per fare queste estensioni.
+
+1316
+00:48:11,140 --> 00:48:11,460
+Filippo Strozzi: Quindi
+
+1317
+00:48:11,780 --> 00:48:13,060
+Filippo Strozzi: diciamo che
+
+1318
+00:48:13,380 --> 00:48:13,619
+Filippo Strozzi: se
+
+1319
+00:48:14,260 --> 00:48:16,260
+Filippo Strozzi: hai un'applicazione che ha l'estensione.
+
+1320
+00:48:16,760 --> 00:48:17,720
+Filippo Strozzi: In pratica
+
+1321
+00:48:17,880 --> 00:48:18,200
+Filippo Strozzi: appunto
+
+1322
+00:48:18,360 --> 00:48:19,640
+Filippo Strozzi: Raycast si può
+
+1323
+00:48:20,040 --> 00:48:22,840
+Filippo Strozzi: interfacciare ad altre applicazioni, quindi non so
+
+1324
+00:48:23,080 --> 00:48:23,960
+Filippo Strozzi: c'è il plugin
+
+1325
+00:48:24,120 --> 00:48:26,600
+Filippo Strozzi: o l'estensione per Obsidian piuttosto
+
+1326
+00:48:26,760 --> 00:48:27,320
+Filippo Strozzi: che.
+
+1327
+00:48:27,680 --> 00:48:35,680
+Filippo Strozzi: Per Thing, piuttosto che tutta una serie di applicazioni, diciamo, nell'ecosistema Apple, anche se si parla di
+
+1328
+00:48:35,920 --> 00:48:37,200
+Filippo Strozzi: espandere Raycast
+
+1329
+00:48:37,520 --> 00:48:39,760
+Filippo Strozzi: oltre all'ecosistema Apple.
+
+1330
+00:48:41,020 --> 00:48:41,660
+Filippo Strozzi: Però
+
+1331
+00:48:42,220 --> 00:48:43,020
+Filippo Strozzi: se hai bisogno
+
+1332
+00:48:43,500 --> 00:48:44,140
+Filippo Strozzi: di crearti
+
+1333
+00:48:44,780 --> 00:48:49,180
+Filippo Strozzi: una tua automazione, chiamiamola in questi termini, mentre con Alfred.
+
+1334
+00:48:49,540 --> 00:48:50,900
+Filippo Strozzi: e in un certo qual
+
+1335
+00:48:51,060 --> 00:48:52,340
+Filippo Strozzi: modo anche con l'Anchbar
+
+1336
+00:48:52,580 --> 00:48:53,540
+Filippo Strozzi: riesce a farlo
+
+1337
+00:48:53,780 --> 00:48:54,580
+Filippo Strozzi: più o meno in
+
+1338
+00:48:54,740 --> 00:48:55,380
+Filippo Strozzi: autonomia
+
+1339
+00:48:55,540 --> 00:48:56,900
+Filippo Strozzi: e invece Recast
+
+1340
+00:48:57,220 --> 00:48:58,580
+Filippo Strozzi: da quello che ho capito io
+
+1341
+00:48:58,900 --> 00:49:00,100
+Filippo Strozzi: richiede comunque
+
+1342
+00:49:00,260 --> 00:49:01,940
+Filippo Strozzi: scritto in javascript
+
+1343
+00:49:01,800 --> 00:49:01,960
+Filippo Strozzi: e
+
+1344
+00:49:02,200 --> 00:49:03,080
+Filippo Strozzi: richiede
+
+1345
+00:49:04,280 --> 00:49:07,320
+Filippo Strozzi: conoscenze informatiche di un certo tipo da programmatore.
+
+1346
+00:49:07,320 --> 00:49:13,720
+Roberto Marin: Sì, una cosa interessante di questo launcher è che permette di controllare le finestre, nel senso che.
+
+1347
+00:49:13,580 --> 00:49:13,820
+Roberto Marin: pare
+
+1348
+00:49:13,980 --> 00:49:16,620
+Roberto Marin: che abbia la possibilità appunto di vedere
+
+1349
+00:49:16,940 --> 00:49:17,100
+Roberto Marin: e
+
+1350
+00:49:17,420 --> 00:49:22,060
+Roberto Marin: mettere le finestre da un lato o in mezzo o sulla destra di uno schermo
+
+1351
+00:49:22,380 --> 00:49:23,340
+Roberto Marin: facilmente
+
+1352
+00:49:23,840 --> 00:49:24,160
+Roberto Marin: E
+
+1353
+00:49:24,400 --> 00:49:25,520
+Roberto Marin: tra le altre cose che
+
+1354
+00:49:25,840 --> 00:49:26,400
+Roberto Marin: stavo guardando
+
+1355
+00:49:26,560 --> 00:49:32,480
+Roberto Marin: adesso mentre stavo sfogliando, adesso mi è sfuggito da sottomano, ma comunque è un'applicazione interessante, sembra
+
+1356
+00:49:32,640 --> 00:49:36,640
+Roberto Marin: in effetti molto giovane, anche dal punto di vista della comunicazione.
+
+1357
+00:49:36,640 --> 00:49:36,799
+Roberto Marin: anche
+
+1358
+00:49:36,960 --> 00:49:39,520
+Roberto Marin: i colori che sono stati utilizzati decisamente
+
+1359
+00:49:39,760 --> 00:49:42,319
+Roberto Marin: e di un altro livello rispetto ai
+
+1360
+00:49:42,480 --> 00:49:44,720
+Roberto Marin: primi due lanchar di cui abbiamo parlato.
+
+1361
+00:49:44,720 --> 00:49:45,039
+Roberto Marin: Quindi
+
+1362
+00:49:45,359 --> 00:49:48,079
+Roberto Marin: è interessante, devi avere delle.
+
+1363
+00:49:48,580 --> 00:49:49,140
+Roberto Marin: Belle
+
+1364
+00:49:49,780 --> 00:49:52,740
+Roberto Marin: capacità di programmazione, probabilmente
+
+1365
+00:49:52,900 --> 00:49:58,580
+Roberto Marin: è anche questo uno scoglio da poter superare per renderlo più accattivante anche per le imprese, perché
+
+1366
+00:49:58,740 --> 00:50:01,860
+Roberto Marin: io mi immagino che magari una cosa del genere potrebbe essere.
+
+1367
+00:50:01,740 --> 00:50:03,900
+Roberto Marin: Interessante appunto all'interno di team
+
+1368
+00:50:04,060 --> 00:50:04,380
+Roberto Marin: perché
+
+1369
+00:50:05,020 --> 00:50:09,900
+Roberto Marin: permette di avere, che ne so, comandi condivisi, collegamenti rapidi condivisi,
+
+1370
+00:50:10,220 --> 00:50:11,500
+Roberto Marin: frammenti di
+
+1371
+00:50:12,140 --> 00:50:13,900
+Roberto Marin: codice o di.
+
+1372
+00:50:14,359 --> 00:50:15,640
+Roberto Marin: Non so, la clipboard
+
+1373
+00:50:15,800 --> 00:50:17,800
+Roberto Marin: condivisa e quindi può essere molto
+
+1374
+00:50:18,040 --> 00:50:18,760
+Roberto Marin: interessante.
+
+1375
+00:50:19,079 --> 00:50:21,800
+Roberto Marin: Al di là di questo, però, non ho idea
+
+1376
+00:50:22,119 --> 00:50:27,480
+Roberto Marin: di quale possa essere la sua vera utilità che possa differenziarla dagli altri.
+
+1377
+00:50:27,240 --> 00:50:27,960
+Roberto Marin: E qua
+
+1378
+00:50:28,120 --> 00:50:31,720
+Roberto Marin: ovviamente si rimanda un', come si dice, al lettore
+
+1379
+00:50:32,280 --> 00:50:34,040
+Roberto Marin: di vecchia data. Esatto.
+
+1380
+00:50:34,040 --> 00:50:34,680
+Filippo Strozzi: L'altra,
+
+1381
+00:50:34,680 --> 00:50:37,640
+Filippo Strozzi: per esempio, cosa carina. Anche qui, però,
+
+1382
+00:50:37,640 --> 00:50:37,960
+Filippo Strozzi: molto
+
+1383
+00:50:38,120 --> 00:50:38,680
+Filippo Strozzi: da hype
+
+1384
+00:50:38,840 --> 00:50:39,080
+Filippo Strozzi: ,
+
+1385
+00:50:39,320 --> 00:50:41,320
+Filippo Strozzi: mettiamola in questi termini.
+
+1386
+00:50:40,900 --> 00:50:40,980
+Filippo Strozzi: è
+
+1387
+00:50:41,220 --> 00:50:42,339
+Filippo Strozzi: che per esempio
+
+1388
+00:50:43,299 --> 00:50:45,619
+Filippo Strozzi: stanno puntando tantissimo sul
+
+1389
+00:50:46,260 --> 00:50:50,980
+Filippo Strozzi: adesso c'è la beta, credo che sia gratuita una volta che ti fanno entrare
+
+1390
+00:50:51,120 --> 00:50:53,440
+Filippo Strozzi: l'utilizzo dell'intelligenza artificiale
+
+1391
+00:50:53,680 --> 00:50:56,240
+Filippo Strozzi: quindi ti permettono per esempio di fare tutta una cosa
+
+1392
+00:50:56,400 --> 00:50:58,800
+Filippo Strozzi: ecco da te per esempio potrebbe essere interessare
+
+1393
+00:50:59,160 --> 00:51:00,520
+Filippo Strozzi: Perché Raycast
+
+1394
+00:51:00,760 --> 00:51:01,560
+Filippo Strozzi: si integra
+
+1395
+00:51:01,720 --> 00:51:03,960
+Filippo Strozzi: profondamente con Notion, quindi
+
+1396
+00:51:05,080 --> 00:51:07,400
+Filippo Strozzi: quello ti potrebbe interessare perché probabilmente.
+
+1397
+00:51:07,400 --> 00:51:07,480
+Filippo Strozzi: .
+
+1398
+00:51:07,580 --> 00:51:08,540
+Filippo Strozzi: puoi fare inserimento
+
+1399
+00:51:08,700 --> 00:51:10,860
+Filippo Strozzi: dati anche direttamente da Recast
+
+1400
+00:51:11,020 --> 00:51:11,260
+Filippo Strozzi: dentro
+
+1401
+00:51:11,420 --> 00:51:13,580
+Filippo Strozzi: Notion e ci sono tutta una serie di
+
+1402
+00:51:13,900 --> 00:51:15,100
+Filippo Strozzi: da quel che ho visto velocemente
+
+1403
+00:51:15,500 --> 00:51:15,900
+Filippo Strozzi: ti dico
+
+1404
+00:51:16,300 --> 00:51:16,620
+Filippo Strozzi: anche
+
+1405
+00:51:16,940 --> 00:51:17,820
+Filippo Strozzi: anche lì
+
+1406
+00:51:18,020 --> 00:51:18,900
+Filippo Strozzi: per esempio non so
+
+1407
+00:51:19,060 --> 00:51:19,619
+Filippo Strozzi: Thing
+
+1408
+00:51:20,180 --> 00:51:20,579
+Filippo Strozzi: credo
+
+1409
+00:51:20,900 --> 00:51:21,700
+Filippo Strozzi: vado a memoria
+
+1410
+00:51:21,940 --> 00:51:22,260
+Filippo Strozzi: qui
+
+1411
+00:51:22,579 --> 00:51:24,260
+Filippo Strozzi: ha tutta una serie di
+
+1412
+00:51:26,500 --> 00:51:28,020
+Filippo Strozzi: espansioni per Thing
+
+1413
+00:51:28,260 --> 00:51:29,700
+Filippo Strozzi: quindi ti permette di inserire
+
+1414
+00:51:29,860 --> 00:51:31,700
+Filippo Strozzi: dati velocemente proprio anche
+
+1415
+00:51:31,860 --> 00:51:34,340
+Filippo Strozzi: molto nidificati all'interno dell'applicazione
+
+1416
+00:51:34,580 --> 00:51:35,380
+Filippo Strozzi: proprio perché
+
+1417
+00:51:36,040 --> 00:51:36,520
+Filippo Strozzi: appunto
+
+1418
+00:51:36,680 --> 00:51:37,000
+Filippo Strozzi: è
+
+1419
+00:51:37,320 --> 00:51:37,640
+Filippo Strozzi: molto
+
+1420
+00:51:38,920 --> 00:51:40,280
+Filippo Strozzi: credo che siano stati addirittura
+
+1421
+00:51:40,440 --> 00:51:41,080
+Filippo Strozzi: gli sviluppatori
+
+1422
+00:51:41,240 --> 00:51:41,880
+Filippo Strozzi: a farlo
+
+1423
+00:51:42,040 --> 00:51:44,200
+Filippo Strozzi: e riesce effettivamente a.
+
+1424
+00:51:44,260 --> 00:51:47,380
+Filippo Strozzi: accedere alla struttura dati poi di questi sistemi e quant'altro
+
+1425
+00:51:47,540 --> 00:51:49,060
+Roberto Marin: e questo può essere molto interessante
+
+1426
+00:51:49,220 --> 00:51:51,140
+Roberto Marin: certo questa questione che bisogna avere un po'
+
+1427
+00:51:51,300 --> 00:51:51,620
+Roberto Marin: di
+
+1428
+00:51:52,180 --> 00:51:55,460
+Roberto Marin: manualità con il codice per me è un bel blocco.
+
+1429
+00:51:55,460 --> 00:51:56,660
+Roberto Marin: Sì, sì, sì, sì, ma
+
+1430
+00:51:56,900 --> 00:52:01,060
+Filippo Strozzi: poi devi sperare che casomai lo sviluppatore di quell'applicazione poi.
+
+1431
+00:52:01,220 --> 00:52:01,380
+Filippo Strozzi: Tra
+
+1432
+00:52:01,539 --> 00:52:02,819
+Filippo Strozzi: virgolette si sbatta
+
+1433
+00:52:03,460 --> 00:52:03,700
+Filippo Strozzi: per
+
+1434
+00:52:04,020 --> 00:52:04,339
+Filippo Strozzi: fare
+
+1435
+00:52:04,980 --> 00:52:06,579
+Filippo Strozzi: l'espansione e l'integrazione.
+
+1436
+00:52:06,980 --> 00:52:07,539
+Roberto Marin: Ok,
+
+1437
+00:52:07,700 --> 00:52:09,859
+Roberto Marin: fino adesso abbiamo parlato di MacOS.
+
+1438
+00:52:09,859 --> 00:52:12,819
+Roberto Marin: Vuoi iniziare a parlare anche di altri sistemi operativi?
+
+1439
+00:52:12,819 --> 00:52:13,940
+Filippo Strozzi: Almeno decenni?
+
+1440
+00:52:13,940 --> 00:52:15,460
+Filippo Strozzi: Sì, allora.
+
+1441
+00:52:15,980 --> 00:52:18,060
+Filippo Strozzi: Non so se ne abbiamo mai parlato qui
+
+1442
+00:52:19,260 --> 00:52:19,579
+Filippo Strozzi: su
+
+1443
+00:52:19,820 --> 00:52:24,220
+Filippo Strozzi: A2, però recentemente, soprattutto a cavallo della fine del 2022
+
+1444
+00:52:24,460 --> 00:52:26,540
+Filippo Strozzi: ho fatto delle incursioni su Windows
+
+1445
+00:52:26,700 --> 00:52:28,140
+Filippo Strozzi: e tra le varie cose
+
+1446
+00:52:28,380 --> 00:52:29,020
+Filippo Strozzi: che ho
+
+1447
+00:52:29,260 --> 00:52:29,820
+Filippo Strozzi: guardato
+
+1448
+00:52:29,980 --> 00:52:30,940
+Filippo Strozzi: proprio perché per me
+
+1449
+00:52:31,180 --> 00:52:32,220
+Filippo Strozzi: senza un lancer
+
+1450
+00:52:32,700 --> 00:52:34,060
+Filippo Strozzi: un sistema operativo
+
+1451
+00:52:34,960 --> 00:52:36,000
+Filippo Strozzi: non è affrontabile
+
+1452
+00:52:36,160 --> 00:52:37,360
+Filippo Strozzi: dal mio punto di vista
+
+1453
+00:52:37,600 --> 00:52:37,760
+Filippo Strozzi: sono
+
+1454
+00:52:37,920 --> 00:52:41,440
+Filippo Strozzi: andato a vedere ed effettivamente ho scoperto anche se con
+
+1455
+00:52:42,080 --> 00:52:44,720
+Filippo Strozzi: meno evoluti dal mio punto di vista
+
+1456
+00:52:45,020 --> 00:52:46,060
+Filippo Strozzi: rispetto a Mycos
+
+1457
+00:52:46,700 --> 00:52:48,940
+Filippo Strozzi: esistono delle soluzioni simili
+
+1458
+00:52:49,260 --> 00:52:51,420
+Filippo Strozzi: anche per Windows e per Linux vabbè
+
+1459
+00:52:51,579 --> 00:52:52,940
+Filippo Strozzi: Linux tra virgolette
+
+1460
+00:52:53,099 --> 00:52:54,859
+Filippo Strozzi: ha veramente di tutto e di più
+
+1461
+00:52:55,520 --> 00:52:57,040
+Filippo Strozzi: è altamente configurabile
+
+1462
+00:52:57,200 --> 00:52:58,079
+Filippo Strozzi: e così via.
+
+1463
+00:52:58,079 --> 00:52:59,200
+Filippo Strozzi: Per Linux
+
+1464
+00:52:59,839 --> 00:53:00,480
+Filippo Strozzi: esiste
+
+1465
+00:53:01,040 --> 00:53:02,800
+Filippo Strozzi: questo software che si chiama ULancher
+
+1466
+00:53:02,960 --> 00:53:03,839
+Filippo Strozzi: che è ovviamente
+
+1467
+00:53:04,079 --> 00:53:05,200
+Filippo Strozzi: open source
+
+1468
+00:53:05,200 --> 00:53:05,280
+Filippo Strozzi: e
+
+1469
+00:53:05,520 --> 00:53:12,720
+Filippo Strozzi: che ti permette di fare buona parte di quello che abbiamo raccontato sostanzialmente con i lanciar di MECOS
+
+1470
+00:53:12,900 --> 00:53:15,859
+Filippo Strozzi: Invece, su Windows abbiamo, secondo me, due
+
+1471
+00:53:16,099 --> 00:53:19,140
+Filippo Strozzi: contendenti principali: quello che è Power Toys
+
+1472
+00:53:19,460 --> 00:53:19,539
+Filippo Strozzi: ,
+
+1473
+00:53:19,940 --> 00:53:21,539
+Filippo Strozzi: in particolare Power Toys
+
+1474
+00:53:21,779 --> 00:53:26,420
+Filippo Strozzi: Run, che funziona proprio con lo stesso sistema, cioè invece di Command Spazio e Alt
+
+1475
+00:53:26,660 --> 00:53:27,700
+Filippo Strozzi: Spazio.
+
+1476
+00:53:27,400 --> 00:53:29,160
+Filippo Strozzi: Ed è un'applicazione,
+
+1477
+00:53:29,480 --> 00:53:32,520
+Filippo Strozzi: credo, open source, sviluppata da Microsoft
+
+1478
+00:53:32,680 --> 00:53:33,559
+Filippo Strozzi: stessa.
+
+1479
+00:53:33,559 --> 00:53:37,480
+Filippo Strozzi: Se no, c'è anche quest'altra applicazione che ho utilizzato e che è carina.
+
+1480
+00:53:37,480 --> 00:53:41,319
+Filippo Strozzi: Non fa tutto quello che, per esempio, fa Launchar, però.
+
+1481
+00:53:41,400 --> 00:53:45,640
+Filippo Strozzi: Launch bar, scusami, però effettivamente comunque il grosso
+
+1482
+00:53:45,800 --> 00:53:46,440
+Filippo Strozzi: del sistema
+
+1483
+00:53:46,760 --> 00:53:51,080
+Filippo Strozzi: te lo fornisce, mettiamolo in questi termini, che si chiama Flow Launcher.
+
+1484
+00:53:51,080 --> 00:53:52,040
+Filippo Strozzi: Quindi comunque
+
+1485
+00:53:52,520 --> 00:53:52,839
+Filippo Strozzi: anche
+
+1486
+00:53:53,400 --> 00:53:55,000
+Filippo Strozzi: negli altri mondi il
+
+1487
+00:53:55,400 --> 00:53:59,000
+Filippo Strozzi: lanchar che è tipicamente di Macendo a precisare
+
+1488
+00:53:59,160 --> 00:54:00,040
+Filippo Strozzi: nel senso che
+
+1489
+00:54:00,200 --> 00:54:00,760
+Filippo Strozzi: appunto
+
+1490
+00:54:01,320 --> 00:54:01,960
+Filippo Strozzi: Il sistema
+
+1491
+00:54:02,600 --> 00:54:03,240
+Filippo Strozzi: di base
+
+1492
+00:54:04,840 --> 00:54:05,480
+Filippo Strozzi: è stato
+
+1493
+00:54:06,040 --> 00:54:07,800
+Filippo Strozzi: introdotto prevalentemente
+
+1494
+00:54:09,080 --> 00:54:10,680
+Filippo Strozzi: nel mondo Apple e poi
+
+1495
+00:54:11,640 --> 00:54:11,880
+Filippo Strozzi: si è
+
+1496
+00:54:12,040 --> 00:54:12,440
+Filippo Strozzi: un po'
+
+1497
+00:54:12,600 --> 00:54:13,560
+Filippo Strozzi: diramato
+
+1498
+00:54:13,880 --> 00:54:14,520
+Filippo Strozzi: nei vari
+
+1499
+00:54:14,680 --> 00:54:15,880
+Filippo Strozzi: altri sistemi.
+
+1500
+00:54:15,800 --> 00:54:16,120
+Filippo Strozzi: Un
+
+1501
+00:54:16,280 --> 00:54:17,800
+Filippo Strozzi: altro software
+
+1502
+00:54:18,040 --> 00:54:21,800
+Filippo Strozzi: carino, chiamiamolo così, ha il vantaggio che è multipiattaforma, quindi
+
+1503
+00:54:22,200 --> 00:54:23,000
+Filippo Strozzi: tra virgolette
+
+1504
+00:54:23,240 --> 00:54:24,440
+Filippo Strozzi: lo puoi utilizzare sia su Mac
+
+1505
+00:54:24,600 --> 00:54:26,920
+Filippo Strozzi: che su Windows che su Linux.
+
+1506
+00:54:26,400 --> 00:54:27,440
+Filippo Strozzi: Si chiama Cerbro
+
+1507
+00:54:27,680 --> 00:54:29,599
+Filippo Strozzi: e anche qui è open source, quindi
+
+1508
+00:54:29,920 --> 00:54:34,400
+Filippo Strozzi: può essere interessante, soprattutto se si lavora a molti piattaforme e quindi
+
+1509
+00:54:34,799 --> 00:54:39,760
+Filippo Strozzi: per esempio una delle cose che mi infastidisce di più è quando metto mano a un computer che non è mio.
+
+1510
+00:54:39,559 --> 00:54:39,799
+Filippo Strozzi: o
+
+1511
+00:54:40,119 --> 00:54:42,279
+Filippo Strozzi: un computer Windows e non fare
+
+1512
+00:54:42,440 --> 00:54:44,839
+Filippo Strozzi: ricerche velocemente come faccio io
+
+1513
+00:54:45,160 --> 00:54:46,119
+Filippo Strozzi: utilizzando Command
+
+1514
+00:54:46,359 --> 00:54:46,839
+Filippo Strozzi: Spazio
+
+1515
+00:54:47,240 --> 00:54:50,599
+Filippo Strozzi: una volta che sei abituato a muoverti in una certa maniera e ti rallenta
+
+1516
+00:54:50,960 --> 00:54:52,480
+Filippo Strozzi: Il sistema operativo diciamo
+
+1517
+00:54:52,720 --> 00:54:54,880
+Filippo Strozzi: è fastidioso, almeno dal mio punto di vista.
+
+1518
+00:54:54,880 --> 00:55:00,160
+Roberto Marin: Tra l'altro, Cerebro si tira giù da GitHub, giusto per darvi un indizio di dove potete trovarlo.
+
+1519
+00:55:00,160 --> 00:55:01,360
+Filippo Strozzi: Sì, poi ovviamente
+
+1520
+00:55:01,760 --> 00:55:02,640
+Filippo Strozzi: metteremo
+
+1521
+00:55:02,800 --> 00:55:03,440
+Filippo Strozzi: nel.
+
+1522
+00:55:03,780 --> 00:55:04,820
+Filippo Strozzi: Tutti i link nelle note
+
+1523
+00:55:04,980 --> 00:55:05,780
+Filippo Strozzi: dell'episodio, anzi
+
+1524
+00:55:05,940 --> 00:55:07,060
+Filippo Strozzi: di fatto è tutto pronto perché
+
+1525
+00:55:07,220 --> 00:55:10,900
+Filippo Strozzi: ho già preparato la mappa mentale con i link, quindi devo solo convertirla.
+
+1526
+00:55:11,060 --> 00:55:11,300
+Roberto Marin: Intanto
+
+1527
+00:55:11,540 --> 00:55:13,940
+Roberto Marin: sto guardando un po' invece cosa fa questo.
+
+1528
+00:55:14,800 --> 00:55:15,920
+Roberto Marin: multipiattaforma
+
+1529
+00:55:16,560 --> 00:55:17,760
+Roberto Marin: di particolare
+
+1530
+00:55:18,320 --> 00:55:20,480
+Roberto Marin: oltre ad essere gratuito da quello che ho capito
+
+1531
+00:55:20,720 --> 00:55:21,040
+Roberto Marin: perché
+
+1532
+00:55:21,600 --> 00:55:23,440
+Roberto Marin: non mi pare di aver visto
+
+1533
+00:55:24,240 --> 00:55:25,600
+Roberto Marin: Punti in cui si
+
+1534
+00:55:25,920 --> 00:55:28,000
+Roberto Marin: parla di pagamento, essendo un.
+
+1535
+00:55:28,240 --> 00:55:31,680
+Filippo Strozzi: No, dovrebbe essere open source proprio, quindi non.
+
+1536
+00:55:32,000 --> 00:55:37,280
+Roberto Marin: È molto interessante, purtroppo non riesco a vedere l'interfaccia grafica o quello che riesce a fare, essendo.
+
+1537
+00:55:37,160 --> 00:55:41,160
+Roberto Marin: su github diciamo che è un po' più verticale sugli sviluppatori
+
+1538
+00:55:41,480 --> 00:55:42,360
+Roberto Marin: e lascia
+
+1539
+00:55:42,600 --> 00:55:43,880
+Roberto Marin: un po' meno
+
+1540
+00:55:44,440 --> 00:55:50,440
+Roberto Marin: diciamo la parte all'occhio per gli utenti come noi anche se c'è un brevissimo filmato
+
+1541
+00:55:50,500 --> 00:55:53,140
+Roberto Marin: Dove si vede appunto su un sistema Meco
+
+1542
+00:55:53,300 --> 00:55:53,540
+Roberto Marin: S
+
+1543
+00:55:53,700 --> 00:55:56,740
+Roberto Marin: e non è per niente male, nel senso che ricorda molto
+
+1544
+00:55:57,060 --> 00:55:58,500
+Roberto Marin: Spotlight,
+
+1545
+00:55:58,740 --> 00:56:02,420
+Roberto Marin: però, dal punto di vista delle capacità, anche qua bisogna vedere un
+
+1546
+00:56:02,800 --> 00:56:06,720
+Roberto Marin: Come se la cava ci sono dei plugins, vedo che ci sono, e
+
+1547
+00:56:06,880 --> 00:56:08,000
+Roberto Marin: anche dei cambiamenti
+
+1548
+00:56:08,240 --> 00:56:09,360
+Roberto Marin: del colore di sistema
+
+1549
+00:56:09,520 --> 00:56:11,440
+Roberto Marin: che questo può essere utile.
+
+1550
+00:56:11,320 --> 00:56:12,920
+Roberto Marin: Perché ad esempio
+
+1551
+00:56:13,240 --> 00:56:16,280
+Roberto Marin: Spotlight è integrato all'interno del sistema
+
+1552
+00:56:16,520 --> 00:56:21,240
+Roberto Marin: e quindi se avete l'interfaccia scura questo vi aiuta ad avere l'interfaccia scura.
+
+1553
+00:56:22,859 --> 00:56:25,980
+Roberto Marin: Praticamente tutti i programmi che avevamo nominato fino adesso
+
+1554
+00:56:26,220 --> 00:56:31,180
+Roberto Marin: hanno la possibilità di installare dei temi che appunto riescono a rendere ancora più integrato
+
+1555
+00:56:31,260 --> 00:56:31,420
+Roberto Marin: questo
+
+1556
+00:56:31,580 --> 00:56:34,380
+Roberto Marin: sistema di launcher all'interno del sistema grafico che avete
+
+1557
+00:56:34,540 --> 00:56:36,300
+Roberto Marin: io ad esempio vivo con tutto
+
+1558
+00:56:36,540 --> 00:56:36,860
+Roberto Marin: quanto
+
+1559
+00:56:37,100 --> 00:56:37,420
+Roberto Marin: in
+
+1560
+00:56:37,660 --> 00:56:38,540
+Roberto Marin: night mode
+
+1561
+00:56:38,700 --> 00:56:40,460
+Roberto Marin: non so se sono solo io il malato
+
+1562
+00:56:40,620 --> 00:56:40,940
+Roberto Marin: ma
+
+1563
+00:56:40,780 --> 00:56:42,619
+Roberto Marin: se ce ne sono tanti altri come me
+
+1564
+00:56:42,780 --> 00:56:47,740
+Roberto Marin: e nel caso ci fosse qualcuno di malato come me potete trovare in questi temi
+
+1565
+00:56:47,980 --> 00:56:52,380
+Roberto Marin: la vostra risorsa utile per integrare al meglio nel vostro sistema
+
+1566
+00:56:53,500 --> 00:56:55,579
+Roberto Marin: questo tipo di launcher.
+
+1567
+00:56:55,540 --> 00:56:59,940
+Roberto Marin: Se non hai altro da aggiungere, Filippo, io andrei a chiudere la puntata, cosa ne dici?
+
+1568
+00:56:59,940 --> 00:57:00,260
+Filippo Strozzi: Direi
+
+1569
+00:57:00,500 --> 00:57:03,700
+Filippo Strozzi: che va benissimo così, nel senso che cerchiamo di.
+
+1570
+00:57:03,840 --> 00:57:05,840
+Filippo Strozzi: Anche perché poi abbiamo fatto la nostra oretta
+
+1571
+00:57:06,000 --> 00:57:07,840
+Filippo Strozzi: secondo me alla fine, adesso con qualche
+
+1572
+00:57:08,000 --> 00:57:09,600
+Filippo Strozzi: taglio qua e là direi che
+
+1573
+00:57:10,640 --> 00:57:11,760
+Roberto Marin: ci possiamo stare
+
+1574
+00:57:11,920 --> 00:57:13,120
+Roberto Marin: e quindi.
+
+1575
+00:57:13,440 --> 00:57:17,359
+Roberto Marin: Rimaniamo alle ultime note e i saluti finali.
+
+1576
+00:57:17,359 --> 00:57:21,440
+Roberto Marin: Vi ricordiamo che se volete supportarci, vi chiediamo come sempre
+
+1577
+00:57:21,599 --> 00:57:24,480
+Roberto Marin: di lasciare qualche stellina all'interno
+
+1578
+00:57:24,800 --> 00:57:26,320
+Roberto Marin: del vostro.
+
+1579
+00:57:27,099 --> 00:57:33,180
+Roberto Marin: Sistema di ascolto, tendenzialmente Apple Podcast o anche Spotify su mobile, potete lasciare le stelline.
+
+1580
+00:57:33,180 --> 00:57:37,500
+Roberto Marin: Questo sicuramente aiuterà il podcast a farsi riconoscere di più.
+
+1581
+00:57:37,240 --> 00:57:37,880
+Roberto Marin: e a
+
+1582
+00:57:38,040 --> 00:57:46,440
+Roberto Marin: richiamare altre persone che sono interessate ai stessi argomenti che ci piacciono, ma se volete essere proprio bravi bravi bravi potete anche lasciare
+
+1583
+00:57:46,680 --> 00:57:48,520
+Roberto Marin: una bella recensione.
+
+1584
+00:57:48,340 --> 00:57:58,180
+Roberto Marin: Questa invece ci aiuterà a capire se è la nostra direzione giusta e vi invitiamo anche a scriverci qualcosa via mail in modo tale che se volete proporre degli argomenti.
+
+1585
+00:57:57,880 --> 00:57:59,400
+Roberto Marin: O avere dei dubbi, o
+
+1586
+00:57:59,960 --> 00:58:03,880
+Roberto Marin: qualsiasi cosa che vi viene in mente, potete sempre iscriverci, all'indirizzo di posta
+
+1587
+00:58:04,040 --> 00:58:05,000
+Roberto Marin: elettronica,
+
+1588
+00:58:05,240 --> 00:58:06,200
+Roberto Marin: scrivi.
+
+1589
+00:58:10,280 --> 00:58:11,240
+Roberto Marin: it.
+
+1590
+00:58:11,520 --> 00:58:12,160
+Roberto Marin: Per quanto
+
+1591
+00:58:12,320 --> 00:58:20,480
+Roberto Marin: riguarda invece tutte le cose di cui vi abbiamo parlato, come vi ha già detto il nostro simpatico Filippo, ma oltre a essere simpatico e super
+
+1592
+00:58:20,720 --> 00:58:21,599
+Roberto Marin: produttivo
+
+1593
+00:58:21,600 --> 00:58:23,600
+Roberto Marin: troverete tutto quanto all'interno delle note
+
+1594
+00:58:21,920 --> 00:58:22,240
+Roberto Marin: ,
+
+1595
+00:58:23,760 --> 00:58:25,200
+Roberto Marin: dell'episodio come sempre.
+
+1596
+00:58:25,200 --> 00:58:27,200
+Roberto Marin: Volete ascoltare il podcast?
+
+1597
+00:58:27,200 --> 00:58:28,400
+Roberto Marin: Avete anche un indirizzo
+
+1598
+00:58:28,560 --> 00:58:29,840
+Roberto Marin: internet a cui potete.
+
+1599
+00:58:30,140 --> 00:58:32,460
+Roberto Marin: accedere per riuscire ad ascoltarci
+
+1600
+00:58:32,619 --> 00:58:33,099
+Roberto Marin: che a due
+
+1601
+00:58:33,260 --> 00:58:33,980
+Roberto Marin: podcast.
+
+1602
+00:58:34,059 --> 00:58:34,380
+Roberto Marin: it
+
+1603
+00:58:35,020 --> 00:58:35,740
+Roberto Marin: 55
+
+1604
+00:58:35,900 --> 00:58:37,099
+Roberto Marin: mi pare che sia questa
+
+1605
+00:58:37,339 --> 00:58:38,380
+Roberto Marin: puntata.
+
+1606
+00:58:38,380 --> 00:58:41,819
+Roberto Marin: Per quanto mi riguarda, mi potete trovare sul mio
+
+1607
+00:58:42,680 --> 00:58:46,200
+Roberto Marin: sito principale dove praticamente vedete tutto quello che faccio
+
+1608
+00:58:46,440 --> 00:58:47,079
+Roberto Marin: si chiama Mac
+
+1609
+00:58:47,400 --> 00:58:48,280
+Roberto Marin: Architettura
+
+1610
+00:58:48,680 --> 00:58:50,680
+Roberto Marin: che potete trovare all'indirizzo markdonnet.
+
+1611
+00:58:50,920 --> 00:58:51,720
+Roberto Marin: wordpress.
+
+1612
+00:58:51,960 --> 00:58:52,280
+Roberto Marin: com
+
+1613
+00:58:52,200 --> 00:58:53,880
+Roberto Marin: E invece il nostro Filippo dove lo troviamo?
+
+1614
+00:58:54,040 --> 00:58:54,680
+Roberto Marin: catemec.
+
+1615
+00:58:54,920 --> 00:58:56,040
+Roberto Marin: it.
+
+1616
+00:58:56,440 --> 00:58:59,160
+Roberto Marin: Benissimo, ci sentiamo tra due settimane.
+
+1617
+00:58:59,160 --> 00:59:00,520
+Roberto Marin: Alla prossima!
+
+1618
+00:59:58,460 --> 00:59:59,340
+Roberto Marin: PHP!
+

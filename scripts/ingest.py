@@ -142,7 +142,25 @@ def toml_str(s: str) -> str:
     return s.replace("\\", "\\\\").replace('"', '\\"')
 
 
-# ── Transcript fetching ───────────────────────────────────────────────────────
+# ── Transcript helpers ────────────────────────────────────────────────────────
+
+def normalize_transcript_names():
+    """Rinomina 'A2 NN Titolo.srt' → 'ep-NN.srt' nella dir delle trascrizioni."""
+    transcript_dir = os.path.abspath(TRANSCRIPT_DIR)
+    if not os.path.isdir(transcript_dir):
+        return
+    pattern = re.compile(r'^A2\s+(\d+)\s+.*\.srt$', re.IGNORECASE)
+    for filename in os.listdir(transcript_dir):
+        m = pattern.match(filename)
+        if m:
+            ep_num = int(m.group(1))
+            new_name = f"ep-{ep_num}.srt"
+            old_path = os.path.join(transcript_dir, filename)
+            new_path = os.path.join(transcript_dir, new_name)
+            if not os.path.exists(new_path):
+                os.rename(old_path, new_path)
+                print(f"  Renamed: {filename} → {new_name}")
+
 
 def fetch_transcript(ep_num: int, spreaker_ep_id: str) -> bool:
     """
@@ -324,6 +342,9 @@ draft = false
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
+    print("Normalizing transcript filenames...")
+    normalize_transcript_names()
+
     rss_data = parse_rss()
     md_data  = parse_notes()
     output_dir = os.path.abspath(OUTPUT_DIR)

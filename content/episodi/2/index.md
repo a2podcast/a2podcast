@@ -6,13 +6,13 @@ slug = "2"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336039/fb359288_5fe2_4a3a_9d65_9d5aed6b609a.mp3"
 spreakerEpisodeId = "64336039"
 duration = "1:05:34"
-description = "Come passare da Windows a Mac nel 2021: guida pratica su Boot Camp, macchine virtuali, installazione e gestione app con MacAppStore e Homebrew."
+description = "In questa puntata vi parliamo di come passare da Windows a Mac, le accortezze da utilizzare, di Boot Camp, Macchine virtuali, installazione da zero e come installare tutte le vecchie applicazioni del vostro Mac con MAcAppStore e Homebrew."
+tags = ["mac", "windows", "migrazione", "boot camp", "homebrew"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "3bx_8i2jCPo"
-tags = ["mac", "windows", "migrazione", "boot camp", "homebrew"]
 +++
 
 > In questa puntata vi parliamo di come passare da Windows a Mac, le accortezze da utilizzare, di Boot Camp, Macchine virtuali, installazione da zero e come installare tutte le vecchie applicazioni del vostro Mac con MAcAppStore e Homebrew.

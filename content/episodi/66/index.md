@@ -6,12 +6,12 @@ slug = "66"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335989/3cff6a49_fd44_478c_b085_b496f13449cc.mp3"
 spreakerEpisodeId = "64335989"
 duration = "45:13"
-description = "Episodio speciale estivo registrato dal vivo dalle montagne di Torino. Roberto e Filippo condividono riflessioni e conversazioni in una location particolare."
+description = "Roberto e Filippo si trovano tra le montagna di Torino e registrano dal vivo per un episodio speciale estivo."
+tags = ["apple", "podcast", "speciale estivo", "torino", "conduttori"]
 draft = false
 
 [params]
   hasTranscript = false
-tags = ["apple", "podcast", "speciale estivo", "torino", "conduttori"]
 +++
 
 > Roberto e Filippo si trovano tra le montagna di Torino e registrano dal vivo per un episodio speciale estivo.

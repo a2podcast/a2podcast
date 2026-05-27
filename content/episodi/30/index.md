@@ -6,13 +6,13 @@ slug = "30"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336029/58f4abbd_4d5d_4ea2_b30f_b1a1e8b4b71e.mp3"
 spreakerEpisodeId = "64336029"
 duration = "1:00:57"
-description = "Roberto e Filippo esplorano le possibilità di scrivere e prendere note a mano su iPad con Apple Pencil. Scopri come funziona, i modelli disponibili e le loro differenze."
+description = "In questa puntata Roberto e Filippo iniziano a parlare delle possibilità di scrivere e prendere note \"a mano\" su iPad con l’aiuto di Apple Pencil"
+tags = ["ipad", "apple-pencil", "note", "produttivita", "apple"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "P2PPuJGBCI0"
-tags = ["ipad", "apple-pencil", "note", "produttivita", "apple"]
 +++
 
 > In questa puntata Roberto e Filippo iniziano a parlare delle possibilità di scrivere e prendere note "a mano" su iPad con l’aiuto di Apple Pencil

@@ -6,13 +6,13 @@ slug = "7"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336034/50020470_14b4_4ed1_9888_81ddff04d8d9.mp3"
 spreakerEpisodeId = "64336034"
 duration = "59:35"
-description = "Roberto e Filippo parlano di manutenzione Mac: antivirus, sicurezza macOS, Gatekeeper, Pi-Hole e utility essenziali per tenere il Mac in perfetta forma."
+description = "In questa puntata Roberto e Filippo vi parlano di come tenere il vostro Mac in perfetta forma. 1. Antivirus ? Ha senso installare un antivirus / anti-malware??? Sicurezza su macOS (https://www.apple.com/it/macos/security/) Gatekeeper supporto Apple (https://support.apple.com/it-it/guide/deployment-r"
+tags = ["mac", "manutenzione", "sicurezza", "antivirus", "utility"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "lV14XbD_v1I"
-tags = ["mac", "manutenzione", "sicurezza", "antivirus", "utility"]
 +++
 
 In questa puntata Roberto e Filippo vi parlano di come tenere il vostro Mac in perfetta forma.

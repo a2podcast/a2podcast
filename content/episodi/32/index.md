@@ -6,13 +6,13 @@ slug = "32"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336041/04862468_92b5_4038_89a5_8988cdb9f6a6.mp3"
 spreakerEpisodeId = "64336041"
 duration = "59:11"
-description = "Email parte II: approfondimento tecnico su IMAP, POP3, sicurezza e archiviazione. Scopri come funzionano davvero le email e come proteggerle."
+description = "Oggi parleremo delle email ma con un taglio più tecnico rispetto alla puntata 29. Infatti approfondiremo il funzionamento sotto il cofano delle email (cos'è IMAP e POP3), alcune particolarità dei servizi di posta elettronica più famosi , come rendere più sicure le email, come salvare le email sul vo"
+tags = ["email", "imap", "pop3", "sicurezza", "posta-elettronica"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "5OGvLz9ZDZY"
-tags = ["email", "imap", "pop3", "sicurezza", "posta-elettronica"]
 +++
 
 > Oggi parleremo delle email ma con un taglio più tecnico rispetto alla puntata 29. Infatti approfondiremo il funzionamento sotto il cofano delle email (cos'è IMAP e POP3), alcune particolarità dei servizi di posta elettronica più famosi , come rendere più sicure le email, come salvare le email sul vostro computer.

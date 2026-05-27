@@ -6,13 +6,13 @@ slug = "12"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336048/3088adda_26c3_468c_bbf9_90244daf8ba2.mp3"
 spreakerEpisodeId = "64336048"
 duration = "57:37"
-description = "Episodio 12 - Concludiamo la serie sulla digitalizzazione: organizzazione documenti, nomenclatura, workflow digitale e gestione carta. Con Roberto e Filippo."
+description = "In questa puntata Roberto e Filippo concludono l'approfondimento sulla digitalizzazione iniziato nella scorsa puntata."
+tags = ["digitalizzazione", "organizzazione-documenti", "paperless", "ios", "productivita"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "Vs1PnYQa4Ns"
-tags = ["digitalizzazione", "organizzazione-documenti", "paperless", "ios", "productivita"]
 +++
 
 > In questa puntata Roberto e Filippo concludono l'approfondimento sulla digitalizzazione iniziato nella scorsa puntata.

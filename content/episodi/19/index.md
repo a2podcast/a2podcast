@@ -6,13 +6,13 @@ slug = "19"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336027/89f7778d_d825_4377_883b_408be2539d16.mp3"
 spreakerEpisodeId = "64336027"
 duration = "1:11:25"
-description = "Roberto e Filippo analizzano le novità di iPadOS 15 e i nuovi sistemi operativi Apple. Scopri le funzioni interessanti tra cui drag & drop su iOS e ricerca nei documenti."
+description = "A conclusione della puntata scorsa, Roberto e Filippo parlano delle novità di iPadOS 15 ed alcune novità interessanti di Apple collegate ai nuovi sistemi operativi “mobile”."
+tags = ["ipados-15", "ios-15", "apple", "novita-sistema", "ipad"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "N8_lkBbQJLA"
-tags = ["ipados-15", "ios-15", "apple", "novita-sistema", "ipad"]
 +++
 
 > A conclusione della puntata scorsa, Roberto e Filippo parlano delle novità di iPadOS 15 ed alcune novità interessanti di Apple collegate ai nuovi sistemi operativi “mobile”.

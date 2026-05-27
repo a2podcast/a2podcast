@@ -6,13 +6,13 @@ slug = "59"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335977/68214cb9_7f43_4b47_9bc2_530adf7baf53.mp3"
 spreakerEpisodeId = "64335977"
 duration = "1:04:41"
-description = "Scopri come velocizzare la scrittura con le espansioni di testo su Mac, iPhone e iPad. Roberto e Filippo esaminano sostituzioni automatiche e i migliori software per implementarle."
+description = "In questa puntata Roberto e Filippo esaminano le c.d. sostituzioni del testo. Digitare una serie di lettere e, a queste, si sostituisce un testo differente, abitualmente più lungo. Esaminato come funziona il principio di base ed alcuni trucchi utili da conoscere, il magico duo esaminerà i software p"
+tags = ["espansioni testo", "produttività", "mac", "iphone", "automazione"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "Fj1R_KxMlxU"
-tags = ["espansioni testo", "produttività", "mac", "iphone", "automazione"]
 +++
 
 > In questa puntata Roberto e Filippo esaminano le c.d. sostituzioni del testo. Digitare una serie di lettere e, a queste, si sostituisce un testo differente, abitualmente più lungo. Esaminato come funziona il principio di base ed alcuni trucchi utili da conoscere, il magico duo esaminerà i software per implementare le sostituzioni sul tuo Mac, iPhone e iPad.

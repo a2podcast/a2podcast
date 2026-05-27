@@ -6,14 +6,14 @@ slug = "6"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336051/c8a36891_1e23_4acf_8954_e04b334c4dd0.mp3"
 spreakerEpisodeId = "64336051"
 duration = "1:04:50"
-description = "Alex Raccuglia spiega come montare video con iMovie, il software gratuito di Apple. Scopri tecniche di editing per creare contenuti professionali su Mac."
+description = "In questa puntata il nostro ospite Alex Raccuglia parla di come montare i nostri video attraverso il programma gratuito di Apple: iMovie. Comunicazioni di servizio È operativo anche il sito ufficiale con le note degli episodi a2podcast.it (http://a2podcast.it) a2podcast.it/youtube (http://www.a2podc"
+tags = ["imovie", "montaggio-video", "apple", "video-editing", "alex-raccuglia"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "NSZVw0mNDXQ"
-tags = ["imovie", "montaggio-video", "apple", "video-editing", "alex-raccuglia"]
-guest = "alex-raccuglia"
+  guest = "alex-raccuglia"
 +++
 
 In questa puntata il nostro ospite **Alex Raccuglia** parla di come montare i nostri video attraverso il programma gratuito di Apple: **iMovie**.

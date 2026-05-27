@@ -6,14 +6,14 @@ slug = "70"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335974/70ef3583_ba83_4208_80d1_4c1a85eb5907.mp3"
 spreakerEpisodeId = "64335974"
 duration = "1:42:25"
-description = "Roberto e Filippo intervistano Claudia Mongini sul suo workflow, esperienze lavorative e passione per gli eSport. Scopri il suo percorso da QLASH a BCyber."
+description = "In questa puntata Roberto e Filippo chiacchierano con Claudia Mongini del suo workflow e delle sue varie esperienze lavorative."
+tags = ["intervista", "workflow", "esport", "sicurezza", "ospiti"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "uyO5hsx6dOw"
-tags = ["intervista", "workflow", "esport", "sicurezza", "ospiti"]
-guest = "claudia-mongini"
+  guest = "claudia-mongini"
 +++
 
 >  In questa puntata Roberto e Filippo chiacchierano con Claudia Mongini del suo workflow e delle sue varie esperienze lavorative.

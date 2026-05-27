@@ -32,23 +32,7 @@
   </div>
   {{ end }}
 
-  {{ if .Params.hasTranscript }}
-  <div class="episode-transcript">
-    <h2 class="episode-transcript-title">Trascrizione</h2>
-    <div class="episode-transcript-actions">
-      <a href="{{ printf "/trascrizioni/ep-%d.srt" .Params.episodeNumber }}"
-         class="btn btn-secondary" download>
-        ↓ Scarica trascrizione (SRT)
-      </a>
-      {{ $transcriptPage := .Site.GetPage (printf "/episodi/%s/trascrizione" .Params.slug) }}
-      {{ if $transcriptPage }}
-      <a href="{{ $transcriptPage.Permalink }}" class="btn btn-ghost">
-        Leggi trascrizione
-      </a>
-      {{ end }}
-    </div>
-  </div>
-  {{ end }}
+  {{ partial "transcript-inline.html" . }}
 
   {{ with .Params.guest }}
   {{ $guestPage := $.Site.GetPage (printf "/ospiti/%s" .) }}

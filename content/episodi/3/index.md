@@ -6,13 +6,13 @@ slug = "3"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336045/f5321f32_6cb0_4321_b5c5_34e49c435864.mp3"
 spreakerEpisodeId = "64336045"
 duration = "1:17:00"
-description = "Le basi di macOS per chi passa da Windows a Mac nel 2021. Scopri le differenze tra i sistemi operativi e le novità di Big Sur per iniziare con il piede giusto."
+description = "In questa ultima puntata su come passare a Mac nel 2021 parliamo delle diversità tra Mac e Windows che potrebbero spiazzare il nuovo utente. Ci addentriamo quindi nel funzionamento di base del sistema operativo di Apple e nelle novità di Big Sur."
+tags = ["macos", "mac", "windows", "big-sur", "principianti"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "mBJrg6qp2F8"
-tags = ["macos", "mac", "windows", "big-sur", "principianti"]
 +++
 
 > In questa ultima puntata su come passare a Mac nel 2021 parliamo delle diversità tra Mac e Windows che potrebbero spiazzare il nuovo utente. Ci addentriamo quindi nel funzionamento di base del sistema operativo di Apple e nelle novità di Big Sur.

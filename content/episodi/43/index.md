@@ -6,13 +6,13 @@ slug = "43"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336021/855c6d13_0d0e_4383_b925_2abef9f2513c.mp3"
 spreakerEpisodeId = "64336021"
 duration = "49:44"
-description = "Approfondimento sulle mappe mentali: cosa sono, come usarle in modo analogico e digitale, e quali app consigliano Roberto e Filippo."
+description = "Una mappa mentale (mind map) è una forma di rappresentazione grafica del pensiero teorizzata dal cognitivista inglese Tony Buzan, a partire da alcune riflessioni sulle tecniche per prendere appunti. Il fine consiste nell'implementare la memoria visiva e quindi la memorizzazione di concetti e informa"
+tags = ["mappe-mentali", "produttività", "appunti", "visualizzazione", "organizzazione"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "_zu2bcuBcaI"
-tags = ["mappe-mentali", "produttività", "appunti", "visualizzazione", "organizzazione"]
 +++
 
 In questa puntata Roberto e Filippo fanno un approfondimento non su una specifica applicazione ma sulle mappe mentali. Cosa sono, come utilizzarle in modo analogico e digitale e quali applicazioni si possono usare e usano i nostri “eroi”. Se volete anche vederci trovate il [video su YouTube](https://youtu.be/_zu2bcuBcaI) con la versione non finalizzata della puntata.

@@ -6,13 +6,13 @@ slug = "36"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336023/12e9d469_5493_4d85_bbdd_0bb342705c7a.mp3"
 spreakerEpisodeId = "64336023"
 duration = "1:12:32"
-description = "Roberto e Filippo discutono di minimalismo digitale su Mac, ispirati da un video di YouTube. Scopri come semplificare il tuo flusso di lavoro con gli strumenti Apple."
+description = "In questa puntata Roberto e Filippo prendono spunto da un video di YouTube per parlare di come rendere minimale il proprio Mac."
+tags = ["minimalismo digitale", "mac", "produttività", "apple", "organizzazione"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "CNDwUR7foBo"
-tags = ["minimalismo digitale", "mac", "produttività", "apple", "organizzazione"]
 +++
 
 > In questa puntata Roberto e Filippo prendono spunto da un video di YouTube per parlare di come rendere minimale il proprio Mac.

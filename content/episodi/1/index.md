@@ -6,13 +6,13 @@ slug = "1"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336044/f69ff6f7_cd39_44a9_8a3c_591aed7e35be.mp3"
 spreakerEpisodeId = "64336044"
 duration = "1:12:39"
-description = "Come scegliere il vostro Mac nel 2021 e passare da PC a macOS. Scopri i trucchi utili per imparare velocemente il nuovo sistema operativo Apple."
+description = "In questo primo episodio vi parliamo di: - Come scegliere il vostro nuovo Mac nel 2021; - Come affrontare il passaggio dal vostro vecchio PC ad un Mac; - Come funziona macOS e quali sono i trucchi utili per imparare velocemente. Se avete domande o richieste potete farcele direttamente in chat in dir"
+tags = ["mac", "macos", "transizione-pc", "scelta-mac", "principianti"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "vfq3DKprbKI"
-tags = ["mac", "macos", "transizione-pc", "scelta-mac", "principianti"]
 +++
 
 In questo primo episodio vi parliamo di:

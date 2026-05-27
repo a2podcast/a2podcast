@@ -6,13 +6,13 @@ slug = "40"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335996/84f16baa_7c8e_4388_935d_2849a8cecdd8.mp3"
 spreakerEpisodeId = "64335996"
 duration = "1:37:31"
-description = "Speciale estivo WWDC 2022: Roberto e Filippo discutono con Lucio Bragagnolo le novità Apple presentate alla conferenza sviluppatori, in una conversazione approfondita su innovazioni e annunci del momento."
+description = "In questa puntata Roberto e Filippo con l'ospite Lucio Bragagnolo ragionano sulle novità presentate all’ultimo WWDC 2022 da Apple in una lunga chiacchierata come speciale estivo di Agosto."
+tags = ["wwdc", "apple", "freeform", "sviluppatori", "ospiti"]
 draft = false
 
 [params]
   hasTranscript = false
-tags = ["wwdc", "apple", "freeform", "sviluppatori", "ospiti"]
-guest = "lucio-bragagnolo"
+  guest = "lucio-bragagnolo"
 +++
 
 > In questa puntata Roberto e Filippo con l'ospite Lucio Bragagnolo ragionano sulle novità presentate all’ultimo WWDC 2022 da Apple in una lunga chiacchierata come speciale estivo di Agosto.

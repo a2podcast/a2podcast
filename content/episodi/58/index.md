@@ -6,14 +6,14 @@ slug = "58"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336012/97415564_c34f_41ca_9b49_6ae37dc46b7d.mp3"
 spreakerEpisodeId = "64336012"
 duration = "1:20:34"
-description = "Machine Learning in salsa Apple con Alex Raccuglia: possibilità attuali e prospettive future dal punto di vista dello sviluppatore e dell'utente finale."
+description = "In questa puntata Roberto e Filippo con l'ospite d'eccezione, Alex Raccuglia, – dopo aver parlato di IA con Lucio Bragagnolo – chiacchierano di Machine Learning in salsa Apple: delle sue possibilità attuali e delle speranze future dal punto di uno sviluppatore e dell'utente finale."
+tags = ["machine-learning", "apple", "sviluppo", "ai", "alex-raccuglia"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "KaLU8utCNns"
-tags = ["machine-learning", "apple", "sviluppo", "ai", "alex-raccuglia"]
-guest = "alex-raccuglia"
+  guest = "alex-raccuglia"
 +++
 
 > In questa puntata Roberto e Filippo con l'ospite d'eccezione, Alex Raccuglia, – dopo aver parlato di IA con Lucio Bragagnolo – chiacchierano di Machine Learning in salsa Apple: delle sue possibilità attuali e delle speranze future dal punto di uno sviluppatore e dell'utente finale.

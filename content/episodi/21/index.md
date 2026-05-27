@@ -6,13 +6,13 @@ slug = "21"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336015/cc03c375_5840_4926_ba23_c0cfbdc59a54.mp3"
 spreakerEpisodeId = "64336015"
 duration = "1:16:15"
-description = "Analisi di macOS 12 Monterey e dei nuovi processori Apple M1 Pro e M1 Max. Roberto e Filippo discutono le novità presentate da Apple a ottobre 2021."
+description = "Il 25 ottobre è uscito macOS 12, Monterey. Inoltre il 18 ottobre Apple ha presentato i nuovi proccesori \"pro\" ed i nuovi portatili. Oggi Roberto e Filippo di vi parleranno di queste novità."
+tags = ["macos", "monterey", "processori-apple", "m1-pro", "innovazione"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "CslWCsvepJg"
-tags = ["macos", "monterey", "processori-apple", "m1-pro", "innovazione"]
 +++
 
 > Il 25 ottobre è uscito macOS 12, Monterey. Inoltre il 18 ottobre Apple ha presentato i nuovi proccesori "pro" ed i nuovi portatili. Oggi Roberto e Filippo  di vi parleranno di queste novità.

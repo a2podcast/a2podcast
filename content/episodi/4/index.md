@@ -6,13 +6,13 @@ slug = "4"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336052/98a996b4_6655_4ce6_9a2b_6a5f119ebf59.mp3"
 spreakerEpisodeId = "64336052"
 duration = "1:32:22"
-description = "Le basi di iOS: storia del sistema, gesti touch di Apple, migrazione da Android, impostazioni essenziali e app pre-installate. Una guida completa per principianti con focus sulla sicurezza."
+description = "In questa puntata Roberto e Filippo aprono le danze con iOS, la sua storia, come funzionano i “gesti” del sistema touch di Apple e come è possibile passare da Android ad iOS. Poi esaminano le più importanti impostazioni di iOS per passare alle principali applicazioni pre-installate sull’iPhone. Con "
+tags = ["iOS", "Apple", "gesti touch", "migrazione Android", "sicurezza iPhone"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "At0BEW9c77A"
-tags = ["iOS", "Apple", "gesti touch", "migrazione Android", "sicurezza iPhone"]
 +++
 
 > In questa puntata Roberto e Filippo aprono le danze con iOS, la sua storia, come funzionano i “gesti” del sistema touch di Apple e come è possibile passare da Android ad iOS. Poi esaminano le più importanti impostazioni di iOS per passare alle principali applicazioni pre-installate sull’iPhone. Con anche un piccolo sguardo alla sicurezza.

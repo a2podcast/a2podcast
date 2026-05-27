@@ -6,13 +6,13 @@ slug = "20"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336026/057ff4ca_df8c_48c3_8f69_8ee5916f2d4b.mp3"
 spreakerEpisodeId = "64336026"
 duration = "53:24"
-description = "Roberto e Filippo spiegano come cucinare le idee in digitale: strategie, strumenti e flusso di lavoro per trasformare concetti in progetti concreti su Mac."
+description = "In questa puntata Roberto e Filippo vi raccontano me \"cucinare le idee\" in digitale, quali strumenti utilizzare ed il loro flusso di lavoro."
+tags = ["ideazione", "flusso-di-lavoro", "produttività", "mac", "tools"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "GDOYSAo3d88"
-tags = ["ideazione", "flusso-di-lavoro", "produttività", "mac", "tools"]
 +++
 
 > In questa puntata Roberto e Filippo vi raccontano me "cucinare le idee" in digitale, quali strumenti utilizzare ed il loro flusso di lavoro.

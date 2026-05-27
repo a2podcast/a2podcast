@@ -6,13 +6,13 @@ slug = "26"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336011/bae0eb8f_10f7_484d_bcd1_57e1fab1ffec.mp3"
 spreakerEpisodeId = "64336011"
 duration = "59:07"
-description = "Concludiamo l'approfondimento sui calendari con azioni di Comandi Rapidi e app utili per gestire appuntamenti. Scopri automazioni e strumenti per organizzare il tuo tempo."
+description = "Come promesso nella scorsa puntata oggi concludiamo l’approfondimento sui calendari: vedremo alcune azioni di comandi rapidi interessanti e tutta una serie di applicazioni che non sono proprio dei calendari ma che permettono di aiutare a gestire i calendari e gli appuntamenti."
+tags = ["comandi-rapidi", "calendario", "automazione", "appuntamenti", "productivity"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "FvskHBRqOg0"
-tags = ["comandi-rapidi", "calendario", "automazione", "appuntamenti", "productivity"]
 +++
 
 > Come promesso nella scorsa puntata oggi concludiamo l’approfondimento sui calendari: vedremo alcune azioni di comandi rapidi interessanti e tutta una serie di applicazioni che non sono proprio dei calendari ma che permettono di aiutare a gestire i calendari e gli appuntamenti.

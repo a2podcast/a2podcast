@@ -1,0 +1,3888 @@
+1
+00:00:01,760 --> 00:00:03,440
+Roberto Marin: A2 Podcast.
+
+2
+00:00:03,440 --> 00:00:07,040
+Roberto Marin: Scopri come ottenere il massimo dalla tua tecnologia Apple.
+
+3
+00:00:07,040 --> 00:00:08,240
+Roberto Marin: Due professionisti
+
+4
+00:00:08,200 --> 00:00:14,360
+Roberto Marin: Filippo e Roberto te lo spiegano con argomenti monotematici ed ospiti che raccontano il loro flusso di lavoro.
+
+5
+00:00:14,680 --> 00:00:21,400
+Roberto Marin: Benvenuti all'episodio 75 di A2, in cui potete scoprire come ottenere il massimo della vostra tecnologia Apple.
+
+6
+00:00:21,400 --> 00:00:23,160
+Roberto Marin: Io sono Roberto Marin e sono il vostro.
+
+7
+00:00:23,520 --> 00:00:26,080
+Roberto Marin: Ospite assieme all'amico Filippo Strozzi.
+
+8
+00:00:26,080 --> 00:00:27,840
+Roberto Marin: Di cosa parliamo in questo episodio, Filippo?
+
+9
+00:00:27,840 --> 00:00:33,600
+Filippo Strozzi: Allora, questo episodio, e anche il prossimo, a dirti la verità: parleremo di un argomento di cui abbiamo già trattato.
+
+10
+00:00:33,600 --> 00:00:38,080
+Filippo Strozzi: Siamo a fine anno, stiamo registrando, vabbè, agli inizi di dicembre, ma è.
+
+11
+00:00:37,900 --> 00:00:41,340
+Filippo Strozzi: Tu, caro ascoltatore, ascolterai questa puntata?
+
+12
+00:00:41,340 --> 00:00:46,060
+Filippo Strozzi: A Natale, auguri, 25 dicembre usciremo con una pantata.
+
+13
+00:00:46,380 --> 00:00:50,300
+Filippo Strozzi: con questa puntata natalizia e poi per non farci mancare niente si.
+
+14
+00:00:50,300 --> 00:00:55,500
+Filippo Strozzi: Effettivamente gli argomenti che tratteremo rischiano, diciamo di esondare.
+
+15
+00:00:55,500 --> 00:00:56,379
+Filippo Strozzi: Abbiamo deciso.
+
+16
+00:00:56,540 --> 00:00:58,460
+Filippo Strozzi: Rischiano.
+
+17
+00:01:00,620 --> 00:01:06,220
+Filippo Strozzi: Abbiamo deciso di spezzare sia la registrazione che la puntata in due.
+
+18
+00:01:06,220 --> 00:01:09,100
+Filippo Strozzi: Cavallo dell'anno sostanzialmente parleremo.
+
+19
+00:01:08,960 --> 00:01:09,840
+Filippo Strozzi: Del tema dell'anno.
+
+20
+00:01:09,840 --> 00:01:13,360
+Filippo Strozzi: Ne abbiamo parlato credo all'inizio del 2023.
+
+21
+00:01:13,360 --> 00:01:19,680
+Filippo Strozzi: Quest'anno, si avevamo fatto un breve riepilogo di tutte le vicende che ci hanno portato a ragionare in questo termine.
+
+22
+00:01:19,680 --> 00:01:23,360
+Filippo Strozzi: Quest'anno, appunto, lo speziamo di modo che sia anche più.
+
+23
+00:01:23,060 --> 00:01:35,300
+Filippo Strozzi: più fruibile da un certo punto di vista, quindi faremo in questa puntata chiamiamo così un recap di cos'è il tema dell'anno, se non se non è mai ascoltato, e di come è andato alla fine a fronte del.
+
+24
+00:01:35,540 --> 00:01:46,420
+Filippo Strozzi: delle promesse e delle speranze di inizio 2023 come è andata effettivamente il nostro 2023 e poi la prossima puntata invece parleremo di
+
+25
+00:01:35,620 --> 00:01:35,940
+Filippo Strozzi: .
+
+26
+00:01:35,940 --> 00:01:36,260
+Filippo Strozzi: .
+
+27
+00:01:46,480 --> 00:01:54,240
+Filippo Strozzi: cosa speriamo per il 2024 e poi se tutto va bene a fine 2024 faremo lo stesso gioco più o meno diciamo che attualmente
+
+28
+00:01:54,400 --> 00:02:05,360
+Filippo Strozzi: È una puntata la puntata 51 in cui appunto se vuoi puoi ascoltare il nostro 2022-2023 diciamo è andato abbastanza bene, credo che sia piaciuto.
+
+29
+00:02:05,460 --> 00:02:15,380
+Filippo Strozzi: format e tutto il resto quindi a noi è piaciuto nel senso che è stato anche uno strumento utile per la nostra crescita e i nostri ragionamenti nel corso dell'anno
+
+30
+00:02:15,200 --> 00:02:23,519
+Filippo Strozzi: Per cui l'idea è quella di mantenere la tradizione, o comunque iniziare una tradizione per poi vedere da che parte andrà a finire, e quindi fare le nostre cose.
+
+31
+00:02:23,519 --> 00:02:29,599
+Filippo Strozzi: La prossima puntata da 76 invece uscirà l'8 di gennaio, quindi all'inizio dell'anno del 2024.
+
+32
+00:02:30,000 --> 00:02:38,880
+Filippo Strozzi: Innanzitutto auguri il buon Natale se ci ascolti perché appunto siamo proprio a Natale nell'uscita di questa puntata.
+
+33
+00:02:38,580 --> 00:02:42,100
+Filippo Strozzi: Unica avvertenza di tutto questo discorso.
+
+34
+00:02:42,100 --> 00:02:46,420
+Filippo Strozzi: Ovviamente sarà una puntata piena di esempi e abbastanza personale.
+
+35
+00:02:46,360 --> 00:02:58,040
+Filippo Strozzi: per il motivo che noi vi parliamo delle nostre cose, ma perché non potremmo fare altrimenti, il tema dell'anno è il nostro tema dell'anno, chiamiamolo in questi termini, ma ovviamente l'idea è di darvi un esempio, di darci un esempio per
+
+36
+00:02:58,240 --> 00:03:02,400
+Filippo Strozzi: creare il tuo tema dell'anno o per ragionare sul tuo tema dell'anno e così via.
+
+37
+00:03:02,400 --> 00:03:07,600
+Filippo Strozzi: Come tutte le cose potrebbe sembrare un po' autoreferenziale o detto a
+
+38
+00:03:08,340 --> 00:03:19,780
+Filippo Strozzi: all'Emiliana da sboroni però l'idea sostanzialmente è quella di dimostrare i concetti parlando
+
+39
+00:03:19,880 --> 00:03:29,240
+Filippo Strozzi: sia dei nostri successi ma anche, come in tutte le vite, degli insuccessi che sono presenti e che spesso e volentieri sono più importanti nei successi, ricordiamolo.
+
+40
+00:03:28,800 --> 00:03:39,120
+Filippo Strozzi: Perché se impari da un insuccesso o da un errore, sicuramente cresci molto di più di avere tutto dritto e spianato senza problemi, impari meglio, come si dice?
+
+41
+00:03:39,360 --> 00:03:43,680
+Roberto Marin: Nel senso che dai propri errori e da quello che ti capita nella vita, tendenzialmente.
+
+42
+00:03:44,280 --> 00:03:54,200
+Roberto Marin: c'è sempre qualcosa da imparare nel bene e nel male dunque indicando circa che cos'è un tema dell'anno per chi non avesse ascoltato
+
+43
+00:03:54,000 --> 00:04:02,720
+Roberto Marin: Tutto nasce da un video che ovviamente io non ho visto, o forse l'ho visto e non mi ricordo, sapevo, lo sapevo.
+
+44
+00:04:04,540 --> 00:04:10,860
+Filippo Strozzi: Ho paura che sia ancora in coda giusto per chi non può vedere le note del nostro episodio della s.
+
+45
+00:04:10,180 --> 00:04:19,380
+Filippo Strozzi: scaletta la mappa mentale non solo ho messo il video ma ho messo anche il link al video giusto perché appunto mi sembrava giusto qualcuno lo guardasse
+
+46
+00:04:19,660 --> 00:04:21,500
+Filippo Strozzi: Lo guarderò sicuramente.
+
+47
+00:04:21,500 --> 00:04:27,420
+Roberto Marin: Comunque, il video in questione è un proposito per il nuovo anno, ovviamente certamente.
+
+48
+00:04:27,740 --> 00:04:33,340
+Roberto Marin: Anzi, non lo faccio adesso perché oppure che mi si pianti tutta quanta la connessione, ma lo farò fidati.
+
+49
+00:04:33,280 --> 00:04:40,000
+Roberto Marin: Comunque, questo simpatico video fatto per mano di CGP Grey e riguarda appunto il tema dell'anno.
+
+50
+00:04:40,000 --> 00:04:45,280
+Roberto Marin: Immagino che il buon Filippo metterà un simpatico link nelle note dell'episodio, come troverete sempre
+
+51
+00:04:45,360 --> 00:04:54,800
+Roberto Marin: I link tendenzialmente di quello che trattiamo, è un po' difficile mettere le cose personali all'interno dei link, ma in qualche modo troveremo il modo di farvi vedere di cosa ci stiamo occupando.
+
+52
+00:04:54,800 --> 00:04:58,000
+Roberto Marin: E la cosa importante è che questo tema dell'anno.
+
+53
+00:04:57,860 --> 00:05:11,940
+Roberto Marin: Buttato lì così, non è, diciamo, un imperativo di quello che si vuole fare all'inizio dell'anno, quello che si fa sempre tutte le volte, ovvero una bella lista con i buoni propositi, e si prende la lista e si comincia a seguirla a capofitto.
+
+54
+00:05:11,300 --> 00:05:19,940
+Roberto Marin: Invece il tema dell'anno in realtà è veramente un tema che deve seguire l'anno, quindi deve far risuonare l'anno.
+
+55
+00:05:19,940 --> 00:05:32,900
+Roberto Marin: Che state per iniziare ad affrontare in modo tale da avere una linea guida, una direzione in cui andare, magari probabilmente è più facile che non abbia una meta precisa, ma almeno c'è la direzione che vi guida.
+
+56
+00:05:32,479 --> 00:05:42,720
+Roberto Marin: nel corso di quest'anno io e Filippo ci siamo imposti o perlomeno più che imposti ci siamo detti assieme a voi ascoltatori e ve l'abbiamo ripetuto
+
+57
+00:05:42,500 --> 00:05:50,580
+Roberto Marin: Quali potevano essere le nostre linee guida dell'anno, e punto questa puntata è essenzialmente un recap di
+
+58
+00:05:50,400 --> 00:05:59,120
+Roberto Marin: Di quello che ci siamo detti l'anno scorso, una valutazione di come è andato il nostro tema dell'anno, il nostro rispettivo tema dell'anno,
+
+59
+00:05:57,900 --> 00:06:03,340
+Roberto Marin: E chiaramente non possiamo che raccontarvi anche qual è il futuro nostro tema dell'anno.
+
+60
+00:06:03,340 --> 00:06:09,900
+Roberto Marin: Ovviamente non si può che partire da Filippo, perché Filippo ha iniziato la scorsa puntata ed è giusto che.
+
+61
+00:06:09,760 --> 00:06:17,760
+Roberto Marin: inizi anche questa puntata iniziando dal suo recap allora raccontaci un po' Filippo com'è andato quest'anno il 2023
+
+62
+00:06:18,060 --> 00:06:24,139
+Filippo Strozzi: Faccio un piccolino passo indietro, nel senso che volevo fare una precisazione appunto sul concetto del tema dell'anno.
+
+63
+00:06:24,139 --> 00:06:26,460
+Filippo Strozzi: L'idea di fondo di tutta la vicenda è che
+
+64
+00:06:26,680 --> 00:06:30,760
+Filippo Strozzi: secondo me è molto azzeccata è quella di dire spesso all'inizio dell'anno cosa si fa?
+
+65
+00:06:30,760 --> 00:06:37,800
+Filippo Strozzi: voglio perdere 10 kg o voglio perdere 5 kg o voglio andare in palestra tutti i giorni o due volte a settimana e così via
+
+66
+00:06:37,760 --> 00:06:50,160
+Filippo Strozzi: Progressivamente il primo periodo lo si fa perché appunto se carichi e si dice questo è il mio proposito dell'anno, poi per mille motivi la vita ci va in mezzo e mio ma quello che
+
+67
+00:06:50,160 --> 00:06:54,800
+Filippo Strozzi: Che era il nostro proposito, salta per aria progressivamente.
+
+68
+00:06:54,800 --> 00:07:00,320
+Filippo Strozzi: E tra l'altro, in questa maniera saltando per aria, quindi invece di perdere 10 kg, ne ho persi solo 5.
+
+69
+00:07:00,640 --> 00:07:02,800
+Filippo Strozzi: Da un certo punto di vista, posso essere soddisfatto.
+
+70
+00:07:02,800 --> 00:07:03,760
+Filippo Strozzi: Però.
+
+71
+00:07:03,220 --> 00:07:17,780
+Filippo Strozzi: Di fatto non aver perso quei dieci kg che mi hanno ripromesso all'inizio dell'anno di perdere può essere anche una causa di delusione, non so se mi spiego, cioè non ce l'ho fatta, ho fallito e tutto questo discorso.
+
+72
+00:07:17,560 --> 00:07:27,320
+Filippo Strozzi: L'idea del tema dell'anno invece è proprio questo, svincolarsi cioè da un discorso di ho fatto bene, ho fatto male, mettiamola così anche, perché poi è un qualcosa che.
+
+73
+00:07:27,320 --> 00:07:27,639
+Filippo Strozzi: .
+
+74
+00:07:27,360 --> 00:07:42,000
+Filippo Strozzi: che deve accrescerti sostanzialmente, ma invece avere appunto una bussola nel momento in cui faccio A o faccio B, cioè oggi non ho voglia di andare in palestra, ci vado o non ci vado, il tema dell'anno è rimettermi in forma, cerco di andarci.
+
+75
+00:07:41,639 --> 00:07:52,360
+Filippo Strozzi: la vita ti si complica a mille oggi non sei andato in palestra non succede niente però nel momento in cui hai del tempo libero o vuoi leggere di più o invece di guardare un video su YouTube
+
+76
+00:07:52,760 --> 00:07:56,840
+Filippo Strozzi: mi metto, apro l'iPad o apro il mio libro e mi metto a leggere.
+
+77
+00:07:56,840 --> 00:08:05,400
+Filippo Strozzi: Nell'ultimo periodo per esempio, tra le varie cose, spoiler alert, ma se io che Roberto l'anno scorso, o meglio all'inizio dell'anno, avevamo detto dobbiamo leggere di più
+
+78
+00:08:05,200 --> 00:08:17,520
+Filippo Strozzi: Una delle cose che ho cercato di sforzarmi e effettivamente in parte ci sono riuscito è quella di aumentare la quantità di ora di lettura e di cose lette e così via.
+
+79
+00:08:16,979 --> 00:08:24,979
+Filippo Strozzi: Anzi, a proposito, e così lo ricordo anche Roberto per il futuro, visto che ho guardato le la scaletta delle prossime puntate.
+
+80
+00:08:25,140 --> 00:08:33,060
+Filippo Strozzi: diciamo che abbiamo in programma ti ricordo ti ricordo che è un libro da leggere lo ricordo anche gli ascoltatori in questo caso che pensa
+
+81
+00:08:33,259 --> 00:08:41,659
+Roberto Marin: ci ancora di Adam Grant credo che sia Adam Grant adesso dopo che è già iniziato bravo non so che pagina sono adesso te lo dico anche a che pagina sono
+
+82
+00:08:41,620 --> 00:08:51,380
+Filippo Strozzi: bravo bravo per cui anche qui l'idea puoi leggere assieme a noi e poi ne parleremo in una prossima una futura puntata quando Roberto ha finito di leggerlo
+
+83
+00:08:51,200 --> 00:08:59,920
+Filippo Strozzi: Io posso dire di aver già letto il nuovo libro di Adam Grant, che in parte mi è piaciuto, in parte no, ma questo poi lo discuteremo.
+
+84
+00:08:59,500 --> 00:09:07,900
+Filippo Strozzi: Però questo è in inglese, quello che invece andiamo a leggerci, pensiersci ancora, invece è un libro totalmente in italiano, ovviamente lo si può trovare
+
+85
+00:09:07,600 --> 00:09:22,480
+Filippo Strozzi: sia in libreria su Amazon e compagnia briscola e sia lo ricordiamo perché ne parliamo abbastanza spesso ma secondo me una cosa importante da ricordare MLOL che è sostanzialmente una biblioteca online almeno in Piemonte come in Emilia Romagna
+
+86
+00:09:23,240 --> 00:09:36,360
+Filippo Strozzi: disponibile diciamo ma credo anche in lombardia perché ne parlavo con un con un amico collega che è lombardo quindi ti permette di leggere i libri gratuitamente prendendo i libri digitali
+
+87
+00:09:36,259 --> 00:09:48,740
+Filippo Strozzi: così da non avere la carta in giro comunque si può anche andare in biblioteca normalmente ecco ovviamente c'era da vedere se nella tua biblioteca hanno comprato quel libro sono a pagina 35 credo che siano intorno alle 300 pagine
+
+88
+00:09:49,399 --> 00:09:52,920
+Filippo Strozzi: Abbiamo 315, ho superato il 10%.
+
+89
+00:09:52,920 --> 00:09:53,959
+Filippo Strozzi: Ok, ottimo.
+
+90
+00:09:54,279 --> 00:09:57,720
+Filippo Strozzi: Direi che la puntata sarà a metà anno a questo punto.
+
+91
+00:09:59,120 --> 00:10:08,080
+Filippo Strozzi: le mie previsioni ok va bene no adesso a parte gli scherzire lo scopriremo tutti vivendo lo scopriremo nelle prossime puntate
+
+92
+00:10:08,680 --> 00:10:09,480
+Filippo Strozzi: Esatto, esatto.
+
+93
+00:10:09,480 --> 00:10:13,000
+Filippo Strozzi: Comunque, chiudendo tutta questa parentesi, diciamo, torniamo a noi.
+
+94
+00:10:13,000 --> 00:10:22,279
+Filippo Strozzi: E quindi adesso io direi: poi appunto, vediamo un po' come va, nel senso che abbiamo buttato giù delle cose, diciamo, ciascuno.
+
+95
+00:10:22,279 --> 00:10:23,480
+Filippo Strozzi: E poi.
+
+96
+00:10:24,120 --> 00:10:28,600
+Roberto Marin: La faccia è una delle mappe mentali più lunghe che ho visto e non è ancora completa.
+
+97
+00:10:29,080 --> 00:10:36,040
+Filippo Strozzi: Sono due puntate, però quindi abbiamo diviso appunto 2023-2024 e sul 2023-2024 Roberto Filippo.
+
+98
+00:10:36,200 --> 00:10:38,440
+Filippo Strozzi: Questa è la struttura di base che andremo.
+
+99
+00:10:38,680 --> 00:10:44,520
+Filippo Strozzi: Io con Roberto interrompi quando vuoi anche per fare gli approfondimenti per fare ragionamenti.
+
+100
+00:10:43,900 --> 00:10:46,060
+Filippo Strozzi: Io interromperò di sicuro Roberto.
+
+101
+00:10:46,300 --> 00:10:48,780
+Filippo Strozzi: Anche perché ho letto alcune cose.
+
+102
+00:10:48,780 --> 00:10:57,660
+Filippo Strozzi: Perché poi, appunto, ognuno ha scritto la sua, mettiamola così: infatti, noi sappiamo di che parliamo, e ha letto quella dell'altro.
+
+103
+00:10:57,759 --> 00:10:59,120
+Filippo Strozzi: Esatto, esatto, esatto.
+
+104
+00:10:59,120 --> 00:11:02,560
+Filippo Strozzi: Allora, il mio facendo il recap, appunto.
+
+105
+00:11:02,560 --> 00:11:06,560
+Filippo Strozzi: Il mio anno deve essere dell'intenzionalità e della crescita.
+
+106
+00:11:06,560 --> 00:11:08,639
+Roberto Marin: Anche qui, spoiler alert.
+
+107
+00:11:08,639 --> 00:11:11,199
+Roberto Marin: Allora, dici un po' subito così, Al Brucio.
+
+108
+00:11:11,440 --> 00:11:12,480
+Filippo Strozzi: Sì, è andata.
+
+109
+00:11:12,820 --> 00:11:15,300
+Roberto Marin: è andata bene o è andata male?
+
+110
+00:11:15,380 --> 00:11:23,300
+Filippo Strozzi: diciamo che a conclusione dell'anno posso dire che è andata meno peggio di quello che mi aspettassi mettiamola in questi termini ok
+
+111
+00:11:23,480 --> 00:11:25,720
+Roberto Marin: Dai, diciamo relativamente positivo.
+
+112
+00:11:25,720 --> 00:11:31,000
+Filippo Strozzi: A metà anno era abbastanza sconsolato, ma probabilmente tutta una serie.
+
+113
+00:11:31,000 --> 00:11:32,680
+Roberto Marin: L'ho seguito anche in diretta.
+
+114
+00:11:32,680 --> 00:11:34,120
+Roberto Marin: Io questa situazione,
+
+115
+00:11:34,900 --> 00:11:42,740
+Roberto Marin: N effetti, Filippo ha attraversato un brutto momento e dico sincero, da questa parte o dico sinceramente: era anche difficile.
+
+116
+00:11:42,660 --> 00:11:45,860
+Roberto Marin: riuscire ad aiutarlo a questa distanza.
+
+117
+00:11:45,860 --> 00:11:50,900
+Roberto Marin: Probabilmente fossi stato lì, magari portarlo fuori e discutere.
+
+118
+00:11:50,900 --> 00:12:00,100
+Roberto Marin: direttamente di quello che gli passasse per la testa avrebbe sicuramente aiutato purtroppo qui la distanza non ha aiutato assolutamente nulla e vi garantisco che Filippo era veramente
+
+119
+00:12:00,259 --> 00:12:12,420
+Filippo Strozzi: in un momento un po' difficile però anche qui il solito discorso momento difficile sembra sembra banale ma è dalle difficoltà solitamente se ti sollevi o comunque se poi la vita ti
+
+120
+00:12:12,600 --> 00:12:21,560
+Filippo Strozzi: ti dà tregua, mettiamola in questi termini, che poi la situazione migliora e comunque appunto dalle necessità poi nascono anche momenti interessanti.
+
+121
+00:12:21,560 --> 00:12:25,319
+Filippo Strozzi: In quel periodo, questo è un approccio che ho notato
+
+122
+00:12:25,360 --> 00:12:34,880
+Filippo Strozzi: avere da tempo, cioè nei momenti di difficoltà penso e volentieri mi rifugio in letture che mi aiutino da una parte a ragionare, dall'altra
+
+123
+00:12:35,360 --> 00:12:41,520
+Filippo Strozzi: Mi accrescono, quindi appunto adesso ne abbiamo accennato forse anche un po' nelle puntate scorse, ho letto Sene.
+
+124
+00:12:41,680 --> 00:12:48,720
+Roberto Marin: Quindi non fai come me: che invece di andare a prenderti letture erudite, io o prendo.
+
+125
+00:12:48,720 --> 00:12:57,280
+Roberto Marin: qualcosa di alcolico oppure vado su per qualche salita no niente tu leggi ok è così sono quell'approzzo si fa quell'approzzo
+
+126
+00:12:57,820 --> 00:12:59,900
+Roberto Marin: Rispetto, molto rispetto.
+
+127
+00:12:59,900 --> 00:13:06,140
+Filippo Strozzi: Comunque, morale della favola, è ovvio che è stato un anno un po' particolare per mille ragioni e ovviamente non.
+
+128
+00:13:06,140 --> 00:13:06,460
+Filippo Strozzi: .
+
+129
+00:13:06,240 --> 00:13:11,360
+Filippo Strozzi: Adesso ci sono cose personali quindi non ha senso neanche metterle sul piatto così inutilmente.
+
+130
+00:13:11,360 --> 00:13:16,080
+Filippo Strozzi: Diciamo che era sicuramente un anno di passaggio, è stato un anno di passaggio, penso che.
+
+131
+00:13:16,080 --> 00:13:16,160
+Filippo Strozzi: .
+
+132
+00:13:16,100 --> 00:13:29,300
+Filippo Strozzi: che anche il prossimo sarà comunque un anno di passaggio per mille motivi perché stanno succedendo nella mia vita varie vicende varie cose diciamo che a livello di score mettiamola così
+
+133
+00:13:29,620 --> 00:13:39,140
+Filippo Strozzi: mi ero prefissato di di fare il nuovo sito dell'ufficio che ho fatto ma facendo una ricerca mi sono reso conto perché poi era un sito veramente minimale anzi adesso
+
+134
+00:13:39,200 --> 00:13:44,800
+Filippo Strozzi: Provo a riaprire il link per vedere se effettivamente è successo.
+
+135
+00:13:44,800 --> 00:13:48,000
+Filippo Strozzi: Eh no niente, è down, adesso devo mettermi.
+
+136
+00:13:48,000 --> 00:13:48,080
+Filippo Strozzi: .
+
+137
+00:13:48,140 --> 00:13:55,820
+Filippo Strozzi: lì non ho capito perché nella sostanza l'anno lo volevo dedicare al passaggio a creare da un certo punto di vista sì sì ma non carica
+
+138
+00:13:56,860 --> 00:14:08,140
+Filippo Strozzi: Sia un passaggio di avvocati e Mac da una soluzione diciamo a pagamento e gestita da Squarespace sostanzialmente con una gestione invece
+
+139
+00:14:08,459 --> 00:14:18,779
+Filippo Strozzi: è più semplice un sito statico sostanzialmente una landing e quindi il primo step è stato quello di creare tra virgolette il sito dell'ufficio
+
+140
+00:14:18,780 --> 00:14:27,180
+Filippo Strozzi: che dovevo fare poi da millenni tra l'altro l'ho fatto e funzionava poi non so che cosa si è rotto adesso devo andare a vedere e decidere
+
+141
+00:14:27,360 --> 00:14:38,320
+Filippo Strozzi: Quale è stato il problema, quando è stato, invece, il momento di mettere mano in maniera abbastanza pesante, perché dovevo anche recuperare tutti gli articoli, quindi c'era da fare tutto un trasbordo di cose.
+
+142
+00:14:38,320 --> 00:14:41,600
+Filippo Strozzi: Mettiamole in questi termini su Avocati e MEC.
+
+143
+00:14:41,000 --> 00:14:50,680
+Filippo Strozzi: Il passaggio appunto da Vocate Mac da Squarespace a Hugo che è questo sistema, che è un sito statico sostanzialmente, quindi ci sono delle pagine HTML
+
+144
+00:14:51,080 --> 00:14:52,120
+Filippo Strozzi: statiche e così via.
+
+145
+00:14:52,120 --> 00:14:57,640
+Filippo Strozzi: Ho fatto i primi test, sono funzionati, credo che ancora la versione beta, se andate su beta.
+
+146
+00:14:57,880 --> 00:14:58,920
+Filippo Strozzi: avvocatemac.
+
+147
+00:14:58,920 --> 00:15:04,600
+Filippo Strozzi: it dovrebbe esserci una serie di articoli che era la base poi per far funzionare tutto il sistema.
+
+148
+00:15:04,600 --> 00:15:15,240
+Filippo Strozzi: Per mille motivi, a luglio sono stato via tutto il mese in gestione familiare e altre cose, mamma non ce l'ho fatta, come si suol dire, ho fatto un trasloco, insomma.
+
+149
+00:15:15,160 --> 00:15:22,520
+Filippo Strozzi: Ci sono stati tutti i mesi estivi, diciamo, sono stati più complicati di quello che mi sarei legittimamente aspettato, mettiamolo così.
+
+150
+00:15:23,160 --> 00:15:29,960
+Filippo Strozzi: È stata una cosa positiva, nel senso che appunto ho venduto una casa, casa dove di fatto poi avevo trascorto.
+
+151
+00:15:30,000 --> 00:15:41,600
+Filippo Strozzi: trasferito l'ufficio, questo però ha fatto sì che da una parte sono molto soddisfatto di essermi liberato di un immobile ed aver avuto una un ingresso di liquidi mettiamoli in questi termini
+
+152
+00:15:41,400 --> 00:15:53,880
+Filippo Strozzi: dall'alto ho concluso l'affare a giugno e a settembre ho consegnato la casa quindi c'è stato un momento e sono stato via un mese quindi e la casa ovviamente aveva
+
+153
+00:15:54,459 --> 00:16:02,459
+Filippo Strozzi: aveva roba dentro e così via forse ne abbiamo anche accennato appunto a tutto sono stati due anni dove ho fatto due traslock in due anni e
+
+154
+00:16:02,680 --> 00:16:17,480
+Filippo Strozzi: Quest'ultimo è stato ancora più impegnativo perché dovevo far spazio alla roba nella casa attuale dove vivo, quindi è stato proprio un catartico da un certo punto di vista, poi ho buttato via un quintale di roba e mi sono dato anche ulteriori ricchi.
+
+155
+00:16:16,780 --> 00:16:25,500
+Filippo Strozzi: riferimenti proprio per non che non accada più, mettiamola così, o comunque il fatto di accumulare roba, come si suol dire
+
+156
+00:16:25,740 --> 00:16:36,220
+Filippo Strozzi: venga ridotto nei limiti del possibile, poi tendenzialmente sono figlio di accumulatori seriali e credo che farò fatica a uscirne tranquillamente però
+
+157
+00:16:36,080 --> 00:16:46,000
+Filippo Strozzi: Come sa Roberto, sto cercando anche qui di migliorare il mio approccio alla vita e anche il fatto di leggere solo in digitale.
+
+158
+00:16:45,500 --> 00:16:52,220
+Filippo Strozzi: Sono appassionato anche di tenere i libri fisicamente, però effettivamente i libri poi occupano spazio e così via.
+
+159
+00:16:52,380 --> 00:16:57,580
+Filippo Strozzi: Avendo liberato cantine piene di roba dei miei genitori, effettivamente sì.
+
+160
+00:16:57,360 --> 00:17:06,240
+Filippo Strozzi: Insomma, è un insegnamento utile, mettiamola in questi termini, anzi è un insegnamento che cerco di condividere con più persone possibile perché effettivamente.
+
+161
+00:17:06,240 --> 00:17:06,560
+Filippo Strozzi: .
+
+162
+00:17:06,540 --> 00:17:16,060
+Filippo Strozzi: Non ci rendiamo conto spesso e volentieri perché poi la roba che non usiamo non è davanti ai nostri occhi ma ci troviamo anche a volte anche siamo frusali, adesso appunto.
+
+163
+00:17:15,960 --> 00:17:26,440
+Filippo Strozzi: recentemente chiedevo a Roberto se voleva uno dei miei svariati Mac che io nel tempo dal 2006 ho comprato Mac fino ad oggi accumulandone nel tempo
+
+164
+00:17:16,060 --> 00:17:16,380
+Filippo Strozzi: .
+
+165
+00:17:16,380 --> 00:17:16,700
+Filippo Strozzi: .
+
+166
+00:17:26,600 --> 00:17:31,640
+Filippo Strozzi: E alla fine ho cercato di riciclarne e così via.
+
+167
+00:17:31,799 --> 00:17:40,600
+Filippo Strozzi: L'amico Nicola Rosito ci ha fatto vedere un meraviglioso Mac Pro il Trash Can che ha appena comprato, super carrozzato, anche se ovviamente.
+
+168
+00:17:41,100 --> 00:17:42,460
+Roberto Marin: Apriamo una parentesi.
+
+169
+00:17:42,460 --> 00:17:43,419
+Roberto Marin: Io quella roba lì.
+
+170
+00:17:43,419 --> 00:17:52,539
+Roberto Marin: Guarda, che ci sto un po' sbavando, perché con tutta quella roba lì che ha addosso quel prezzo, è veramente almeno per quanto mi guarda, potrebbe essere tornarmi utile.
+
+171
+00:17:52,160 --> 00:18:00,640
+Filippo Strozzi: veramente allora è meglio di una scherza guarda è meglio di una e GPU allora sì però tu considera che dentro dell'XEON infatti io con
+
+172
+00:18:00,960 --> 00:18:15,600
+Filippo Strozzi: con Nicola appunto gli dicevo guarda anche qui nell'ultimo periodo ho cercato anche di ridurre la quantità di computer accesi in casa perché appunto mi sono reso conto facendo i conti della serva soprattutto nella vecchia casa che poi ho venduto dove avevo
+
+173
+00:18:16,040 --> 00:18:25,400
+Filippo Strozzi: solo i computer che chiamiamolo così dell'ufficio ma avevo vari mac mini sempre accesi e così via dei consumi elettrici visto che praticamente c'ero solo io e
+
+174
+00:18:25,600 --> 00:18:31,600
+Roberto Marin: A parte il caffè è fatto con la macchinetta del caffè, quindi c'eri tu e il terzo incomodo che è in tella.
+
+175
+00:18:31,919 --> 00:18:39,039
+Filippo Strozzi: Esatto, però effettivamente per un immobile diciamo non abitato, mettiamola in senso tecnico, ma.
+
+176
+00:18:38,860 --> 00:18:49,019
+Filippo Strozzi: utilizzato solo come ufficio i consumi erano da una famiglia come se ci fosse per esempio una famiglia che facesse lavatrici, lavastoviglie e quant'altro.
+
+177
+00:18:49,019 --> 00:18:51,740
+Filippo Strozzi: Mi sono decisamente spaventato
+
+178
+00:18:51,820 --> 00:19:05,100
+Filippo Strozzi: Prima di giugno, dove poi di fatto ho chiuso sull'ufficio, lì da maggio ho iniziato a chiudere tutti i computer e così via e effettivamente ho notato una significativa riduzione dei costi elettrici.
+
+179
+00:19:05,500 --> 00:19:15,500
+Filippo Strozzi: Anche dei consumi elettrici proprio, poi adesso è ovvio che io me ne sono accorto, l'anno scorso in questo periodo c'era l'aumento esponenziale delle bollette elettriche.
+
+180
+00:19:15,600 --> 00:19:25,840
+Filippo Strozzi: E del gas, quindi effettivamente il passaggio proprio si vedeva, ma perché l'elettricità costava il doppio o il triplo di quello che abitualmente costava.
+
+181
+00:19:26,640 --> 00:19:29,679
+Filippo Strozzi: In questa maniera ovviamente ti rendi anche conto.
+
+182
+00:19:29,260 --> 00:19:40,780
+Filippo Strozzi: del fatto che poi appunto cose che diamo per scontate consumano e sono, cioè eppure offrendomi un servizio da un certo punto di vista sono un servizio a caro prezzo.
+
+183
+00:19:40,320 --> 00:19:48,400
+Filippo Strozzi: quindi anche qui adesso ho cercato di ottimizzare e tra virgolette perché quando lo dico a Roberto mi guarda come se fosse un
+
+184
+00:19:48,500 --> 00:19:58,500
+Filippo Strozzi: un mica normale attualmente ho un Mac sempre acceso che è il Mac Mini M1 però che è quindi quello che consumo che consuma meno sostanzialmente
+
+185
+00:19:58,519 --> 00:20:05,720
+Filippo Strozzi: Che il mio server, chiamiamolo così, ho un NAS dove ho tutti i dati e le varie cose, o il mio server Proxmos che
+
+186
+00:20:05,800 --> 00:20:15,240
+Filippo Strozzi: che è un pc Intel esatto e poi ho il mio i Mac che è il computer con cui lavoro siamo a quattro sì sì basta no beh poi ogni tanto alla bisogna accendo gli altri
+
+187
+00:20:17,840 --> 00:20:27,440
+Filippo Strozzi: Perché ho un computer su cui gira il gestionale che adesso tengo spento tranne quando devo fare la fatturazione e altre cose ho un computer che mi serve per fare un'altra cosa ho tutta una serie di c
+
+188
+00:20:27,660 --> 00:20:38,780
+Filippo Strozzi: Ho comunque il portatile che ogni tanto utilizzo, quindi quelli poi ogni tanto vengono fuori, però sì, appunto, ho ridotto, dal mio punto di vista ho ridotto al minimo, ecco, mettiamone in questi termini.
+
+189
+00:20:38,000 --> 00:20:48,880
+Roberto Marin: Ecco, volevo raccontare soltanto questo perché ne stavo parlando proprio oggi con la mia moglie riguardo a una considerazione di questo tipo che in effetti in realtà stiamo vivendo veramente.
+
+190
+00:20:49,060 --> 00:20:58,900
+Roberto Marin: di lusso nel senso che possiamo permetterci come Filippo tenersi quattro computer io e Mara anche se ci lavoriamo comunque abbiamo due computer ci sono gli ipad dei ragazzi il mio
+
+191
+00:20:59,179 --> 00:21:10,860
+Roberto Marin: con i cellulari vi discorrendo tutto fa un bel diciamo un bel consumo dal punto di vista della vita in generale tornando indietro vi svelo questa mia piccola parte di vita privata quando ero
+
+192
+00:21:11,040 --> 00:21:21,680
+Roberto Marin: piccolo fino a circa 10-11 anni poi quando ho cambiato casa nella vecchia casa in cui abitavo nella stanza da letto in cui dormivo non c'era il riscaldamento ma proprio
+
+193
+00:21:22,480 --> 00:21:23,919
+Roberto Marin: Non c'è nemmeno il termosifone.
+
+194
+00:21:24,320 --> 00:21:25,360
+Roberto Marin: Se voi considero.
+
+195
+00:21:25,360 --> 00:21:26,240
+Roberto Marin: Sì, sì.
+
+196
+00:21:26,880 --> 00:21:29,919
+Roberto Marin: Come quando dico che arrivo da una casa da,
+
+197
+00:21:29,300 --> 00:21:35,220
+Roberto Marin: una famiglia non troppo, diciamo, con le spalle coperte non scherzo, è veramente così.
+
+198
+00:21:35,220 --> 00:21:37,940
+Roberto Marin: La cosa che se voi andate a pensare però.
+
+199
+00:21:37,940 --> 00:21:46,419
+Roberto Marin: dietro a questa mancanza che comunque tutto sommato sono ancora qua che vi racconto non sono morto ma diciamo che comunque facendo due righe
+
+200
+00:21:46,860 --> 00:21:48,779
+Roberto Marin: Conti della serva, abbiamo detto va bene, ok.
+
+201
+00:21:48,779 --> 00:21:59,100
+Roberto Marin: Proviamo a pensare cosa vuol dire a togliere un termosifone in casa nostra, che può essere quello della stanza dei ragazzi, e valutiamo quanto risparmiamo.
+
+202
+00:21:58,700 --> 00:22:09,500
+Roberto Marin: Ma in realtà non è un risparmio, è un benessere che all'interno della nostra vita ed è un prezzo che paghiamo giornalmente e non ce ne rendiamo conto perché
+
+203
+00:22:09,820 --> 00:22:19,260
+Roberto Marin: lo diamo come diciamo come livello minimo ma non è il livello minimo nel senso che abbiamo tutti dei livelli probabilmente alti
+
+204
+00:22:19,540 --> 00:22:27,780
+Roberto Marin: comunque per un certo tipo di minimi ma quelli veri e in questo senso voglio dire quindi molti cose che diamo per scontato come
+
+205
+00:22:28,040 --> 00:22:35,320
+Roberto Marin: può essere come ha detto Filippo avere quattro computer accesi la sua ragionamento è corretto nel senso affinché non è arrivata questa
+
+206
+00:22:35,720 --> 00:22:48,040
+Roberto Marin: Diciamo, problematica del consumo, che quindi ti ha fatto guardare questa cosa qua, fino all'epoca non era per te un problema mantenere questo stato di cose.
+
+207
+00:22:47,720 --> 00:22:51,240
+Roberto Marin: No, anzi, non ci pensavo neanche proprio.
+
+208
+00:22:51,240 --> 00:22:55,480
+Roberto Marin: E quindi il ragionamento è molto corretto, esatto.
+
+209
+00:22:55,480 --> 00:22:59,960
+Roberto Marin: Quindi l'idea è anche questo: nel senso, questo piccolo messaggio che è passato.
+
+210
+00:22:59,840 --> 00:23:07,520
+Roberto Marin: sotto banco ma secondo me bisogna un po' sottolinearle è che tante volte il nostro livello di consumo e di agiatezza
+
+211
+00:23:07,940 --> 00:23:09,220
+Roberto Marin: Anche se ci sono.
+
+212
+00:23:09,220 --> 00:23:20,580
+Roberto Marin: Anche se essendo umani continuiamo a guardare l'erba del vicino, che è sempre più verde, sempre più alta e renderizzata meglio, però se siamo un po' obiettivi, veramente, cominciamo a guardare dentro.
+
+213
+00:23:20,340 --> 00:23:29,780
+Roberto Marin: di noi nella mia fattispecie posso dire ok ragazzi io sono passato da una situazione in cui dormivo essenzialmente senza il termosifone in camera
+
+214
+00:23:29,600 --> 00:23:38,559
+Roberto Marin: a riuscire a garantire però a mio figlio in qualche modo ai miei due figli di dormire tranquillamente con il loro termosifone e sembra una banalità
+
+215
+00:23:38,740 --> 00:23:47,540
+Roberto Marin: Ma se la guardi in questo senso capisci che non è più una cosa banale e probabilmente dovresti veramente ringraziare di quello che sia.
+
+216
+00:23:48,460 --> 00:23:51,180
+Roberto Marin: Quattro computer che hanno il nostro simpatico Filippo.
+
+217
+00:23:51,180 --> 00:23:53,260
+Roberto Marin: Nel senso, e questo qui l'indirizzo.
+
+218
+00:23:53,260 --> 00:23:54,940
+Filippo Strozzi: Come ti dicevo, ne ho di più.
+
+219
+00:23:56,380 --> 00:23:59,980
+Roberto Marin: Non lo so, ne hai un sacco di più, ma spenti questa volta sono spenti.
+
+220
+00:24:00,300 --> 00:24:10,140
+Filippo Strozzi: Poi effettivamente l'altro discorso è che ormai sono, alcuni di questi hanno più di dieci anni, è vero i Mac lo ripetiamo un po'.
+
+221
+00:24:10,760 --> 00:24:15,640
+Filippo Strozzi: Alla marolla sono computer che comunque invecchiano bene, mettiamolo in questi termini.
+
+222
+00:24:15,640 --> 00:24:21,400
+Filippo Strozzi: E un più, tra l'altro appunto, quello di cui ti parlavo con me due o tre anni fa.
+
+223
+00:24:21,260 --> 00:24:29,419
+Filippo Strozzi: gli ho fatto mettere 16 GB di RAM e l'SSD che quindi non aveva originariamente ma quindi lo ho ulteriormente
+
+224
+00:24:29,960 --> 00:24:43,000
+Filippo Strozzi: ha aggiornato con 200-300 euro si è fatto, è un IMAC del 2011-2012 che comunque alla fine adesso infatti stavo ragionando per esempio montandoci sopra un sistema operativo Linux
+
+225
+00:24:42,860 --> 00:24:50,380
+Filippo Strozzi: probabilmente un computer che oggi può tranquillamente essere utilizzato come un computer di tutti i giorni e
+
+226
+00:24:50,780 --> 00:24:57,740
+Filippo Strozzi: Discreto perché comunque è due all'cora e intel e alla fine tra ram
+
+227
+00:24:57,900 --> 00:25:03,500
+Filippo Strozzi: e tutto il resto ha uno schermo comunque da 21,5 è una cosa fattibile.
+
+228
+00:25:03,500 --> 00:25:09,900
+Filippo Strozzi: Poi al solito discorso questi computer comunque consumano sicuramente molto di più dei computer moderni
+
+229
+00:25:09,580 --> 00:25:17,020
+Filippo Strozzi: Tant'è vero che appunto quando ho fatto tutti i miei cambiamenti, diciamo, nell'assetto, quindi qua no, ho smobilitato l'ufficio e ho deciso di
+
+230
+00:25:17,480 --> 00:25:27,320
+Filippo Strozzi: prevalentemente lavorare da casa perché poi ho un appoggio esterno diciamo per ricevere i clienti, ho deciso con un po' di rimpianto nel cuore, nel senso che il McMini era il
+
+231
+00:25:27,620 --> 00:25:38,980
+Filippo Strozzi: è tuttora il mio miglior computer tra virgolette cioè il più moderno l'M1 però l'ho trasformato chiamiamolo così nel mio server cioè quindi mi ci collego da remoto e lo utilizzo
+
+232
+00:25:38,700 --> 00:25:46,700
+Filippo Strozzi: Tra l'altro anche dall'iPad quindi diventa molto comodo, quindi i depositi telematici, tutta una serie di cose che richiedono una configurazione specifica
+
+233
+00:25:46,679 --> 00:25:54,360
+Filippo Strozzi: sono sul Mac Mini il Mac Mini ovviamente è cosiddetto endless cioè non ha un monitor non ha una tastiera non ha un mauso
+
+234
+00:25:54,279 --> 00:26:02,360
+Filippo Strozzi: scollegato mi ci collego solo da remoto e a parte qualche piccolo problema perché il McMini come si lamentava Davide sostanzialmente è molto
+
+235
+00:26:03,360 --> 00:26:15,040
+Filippo Strozzi: Gli ultimi Mcors sostanzialmente, soprattutto sugli M1, sono molto attenti al risparmio energetico, chiamiamolo in questi termini, quindi ha comunque dei cicli di sonno, chiamiamoli in questa maniera.
+
+236
+00:26:15,679 --> 00:26:20,720
+Filippo Strozzi: spesso e volentieri mi trovo che non è sempre operativo e quindi lo devo risvegliare.
+
+237
+00:26:21,120 --> 00:26:27,760
+Filippo Strozzi: Adesso facciamo una piccola parentesi, è una cosa che probabilmente interessa non tantissimi, cioè chi fa questo.
+
+238
+00:26:28,120 --> 00:26:36,040
+Filippo Strozzi: Questa modalità di gestione, ma il cosiddetto wake on lun c'è un comando che viene lanciato all'interno della rete, ovviamente diretto
+
+239
+00:26:36,080 --> 00:26:43,120
+Filippo Strozzi: Uno specifico computer, nel caso specifico, home, al MAC address della scheda di rete di quel computer, e
+
+240
+00:26:43,380 --> 00:26:52,100
+Filippo Strozzi: Sei in modalità di sonno sleep il computer si sveglia e quindi dopo ci puoi collegare e puoi gestirlo e non devi andare a muoverti
+
+241
+00:26:52,679 --> 00:27:03,799
+Filippo Strozzi: sostanzialmente fisicamente nei confronti del computer l'unica cosa che non sapevo che invece ero conventissimo che i Mac facessero invece non è così lo fanno solo lo facevano solo i server della dell'aerop
+
+242
+00:27:03,800 --> 00:27:15,960
+Filippo Strozzi: Ma parliamo di tempo addietro, non si accendono da soli, cioè, se tu hai spento il Mac, devi fisicamente schiacciare il tasto di accensione, o il ragionamento che ho fatto adesso.
+
+243
+00:27:16,200 --> 00:27:25,080
+Filippo Strozzi: l'avendo con dei dubitativi, c'è una presa smart o comunque telecomandata, chiamiamola così, e gli imposti di accendersi al calo di tensione sostanzialmente.
+
+244
+00:27:25,080 --> 00:27:27,240
+Filippo Strozzi: Una volta che l'hai spento e la.
+
+245
+00:27:28,220 --> 00:27:32,620
+Filippo Strozzi: Stacchi la corrente, diciamo, alla presa elettrica di alimentazione del Mac.
+
+246
+00:27:32,620 --> 00:27:41,660
+Filippo Strozzi: Quando ridai corrente alla presa, teoricamente il Mac si dovrebbe riattivare e accendere, quindi fare tutto il boot.
+
+247
+00:27:40,900 --> 00:27:50,420
+Filippo Strozzi: Però poi hai un altro problema, nel mio caso specifico, perché i miei Mac sono tutti con l'hard disk cifrato e quindi devi inserire la password e a quel punto lì sei comunque fuori.
+
+248
+00:27:50,140 --> 00:28:02,140
+Filippo Strozzi: quindi il problema grosso è quello ovviamente io avendo i dati di lavoro su Mac che mi fa appunto da server tra le altre cose purtroppo non c'è modo tant'è vero che
+
+249
+00:28:02,100 --> 00:28:16,100
+Filippo Strozzi: Quando mi tocca fare il riavvio, chiamiamo così manuale, non quello che faccio apposta, che mi evita di inserire la password, devo proprio andare lì fisicamente, attaccarci una tastiera e alla cieca digitare la password del computer per sbloccarlo.
+
+250
+00:28:16,100 --> 00:28:16,900
+Filippo Strozzi: Ah, beh, eh!
+
+251
+00:28:17,260 --> 00:28:24,860
+Roberto Marin: Non c'è molto altro da fare, la vita difficile dei sistemisti, è questa, no, continua a ripetere:
+
+252
+00:28:25,620 --> 00:28:31,860
+Filippo Strozzi: Mini è veramente come server remoto, come server diciamole di gestione è veramente una macchina splendida.
+
+253
+00:28:31,860 --> 00:28:33,940
+Filippo Strozzi: Consuma poco gli menu.
+
+254
+00:28:33,000 --> 00:28:43,160
+Filippo Strozzi: gli M1 e M2, gli M1 sono quelli che consumano di meno a dire la verità perché anche gli M2 hanno aumentato i consumi rispetto agli M1 però nella sostanza per il lavoro diciamo
+
+255
+00:28:43,380 --> 00:28:51,060
+Filippo Strozzi: che faccio io cioè non devo fare rendering non devo fare cose particolari e anche se per esempio ho fatto dei test di trascrizione
+
+256
+00:28:51,200 --> 00:29:04,000
+Filippo Strozzi: Del testo per i nostri podcast sull'M1, perché al chip che mi permetteva di farlo in maniera sensata, cioè non mettendoci degli eoni, mettiamoli in questi termini, però anche lì comunque si riesce proprio perché io lo.
+
+257
+00:29:03,860 --> 00:29:08,179
+Filippo Strozzi: Telecomando da remoto e quindi faccio tutto collegandomi.
+
+258
+00:29:08,179 --> 00:29:11,220
+Filippo Strozzi: Ecco già che siamo in questa parentesi enorme.
+
+259
+00:29:11,220 --> 00:29:18,019
+Filippo Strozzi: Così, tanto abbiamo un trucco che segnalo: se si utilizzano i Mac Mini, diciamo come
+
+260
+00:29:18,200 --> 00:29:28,760
+Filippo Strozzi: Come computer remoti senza collegarli a un televisore, abitualmente, se non attacchi niente, il McMini ovviamente ha la risoluzione minima, che credo che sia 1080p.
+
+261
+00:29:28,919 --> 00:29:32,679
+Filippo Strozzi: Ma se compri un dungle da 5 euro.
+
+262
+00:29:31,900 --> 00:29:44,380
+Filippo Strozzi: che simula l'inserimento del monitor 4K anche da remoto puoi avere il 4K ovviamente dipende dalla banda e tutto il mio McMini nel caso specifico è attaccato a una fibra FTTH quindi
+
+263
+00:29:44,519 --> 00:29:54,760
+Filippo Strozzi: ha la potenza per passare la banda bene, mettiamola in questi termini, infatti uno dei motivi per cui ho deciso anche di fare tutto questo sistema è perché è collegato
+
+264
+00:29:55,160 --> 00:30:05,480
+Filippo Strozzi: alla dorsale della fibra effettivamente mi permette in qualunque diciamo l'unico collo di bottiglia è la connessione verso
+
+265
+00:30:05,600 --> 00:30:14,480
+Filippo Strozzi: il McMini non è la connessione del McMini e quindi è molto comodo perché abitualmente se non sono posti dove praticamente non tira non tira il segnale
+
+266
+00:30:15,240 --> 00:30:24,600
+Filippo Strozzi: Posso collegarmi, posso gestirmi totalmente come se fosse uno schermo virtuale, quindi un computer remoto direttamente, nella peggiore dell'ipotesi.
+
+267
+00:30:24,360 --> 00:30:39,000
+Filippo Strozzi: come diceva Roberto c'è sempre la possibilità ma è un po più diciamo ad alto livello di collegarsi via SSH e quindi a terminale sostanzialmente lì ovviamente hai dei vincoli maggiori anche se dal mio punto di vista non mi cambia la vita perché appunto lavoro abitualmente
+
+268
+00:30:39,519 --> 00:30:48,399
+Filippo Strozzi: terminale quindi non è che ma ho decisamente esagerato come al mio solito nelle parentesi quindi tornando a bomba come si suol dire
+
+269
+00:30:48,720 --> 00:30:57,200
+Filippo Strozzi: L'altra grossa cosa diciamo che volevo fare quest'anno, che a inizio anno non mi ha dato minimamente soddisfazione, mentre a fine anno, diciamo.
+
+270
+00:30:57,300 --> 00:31:04,660
+Filippo Strozzi: perché finalmente ovviamente dalle esperienze negative si impara sempre, mettiamole in questi termini, sono i webinar e lo volevo
+
+271
+00:31:05,380 --> 00:31:10,820
+Filippo Strozzi: Tuttora penso che lo farò nel 2024, ma non voglio andare oltre col discorso.
+
+272
+00:31:10,980 --> 00:31:13,940
+Filippo Strozzi: Volevo iniziare a fare webinar.
+
+273
+00:31:13,820 --> 00:31:22,220
+Filippo Strozzi: accreditati quindi che potessero per la formazione continua degli avvocati ovviamente sempre nei miei temi soliti quindi processi civili
+
+274
+00:31:22,300 --> 00:31:24,380
+Filippo Strozzi: Processi telematici e cose simili.
+
+275
+00:31:24,940 --> 00:31:25,340
+Roberto Marin: Roberto?
+
+276
+00:31:25,340 --> 00:31:27,900
+Roberto Marin: Ti faccio una domanda che non ti ho mai chiesto, credo.
+
+277
+00:31:27,900 --> 00:31:34,060
+Roberto Marin: Ma per questi webinar è fatto con la tua sola volontà, o ti davano anche un compenso dietro?
+
+278
+00:31:34,140 --> 00:31:36,140
+Filippo Strozzi: Eh, no, ho fatto tutto io.
+
+279
+00:31:35,400 --> 00:31:42,600
+Filippo Strozzi: Cioè nel senso io ero artefice, fautore e organizzatore.
+
+280
+00:31:42,600 --> 00:31:45,960
+Filippo Strozzi: Quindi nella sostanza ci ho speso dei soldi, dire la verità.
+
+281
+00:31:45,279 --> 00:31:54,639
+Filippo Strozzi: perché nella sostanza per vivere meglio io tendo a precisare ho fatto la richiesta di accreditamento al CNF che è il Consiglio Nazionale Forense
+
+282
+00:31:54,500 --> 00:32:02,820
+Filippo Strozzi: che però ha dei tempi abbastanza lunghi, infatti all'inizio anno è stato un delirio perché sostanzialmente io avevo devi hanno 45 giorni
+
+283
+00:32:03,220 --> 00:32:11,300
+Filippo Strozzi: per accreditarti quindi tu fai la domanda e 45 giorni dopo teoricamente te l'accreditano nella sostanza i tempi sono più lunghi sono tra i
+
+284
+00:32:11,660 --> 00:32:13,500
+Filippo Strozzi: Intorno ai 60 se va bene.
+
+285
+00:32:13,500 --> 00:32:14,540
+Filippo Strozzi: Poi appunto c'erano.
+
+286
+00:32:14,620 --> 00:32:14,700
+Filippo Strozzi: .
+
+287
+00:32:14,700 --> 00:32:21,180
+Filippo Strozzi: Nel mio caso specifico li ho fatti a inizio anno, quindi ho fatto l'accreditamento a fine novembre.
+
+288
+00:32:21,560 --> 00:32:32,200
+Filippo Strozzi: soltanto che col periodo natalizio e così via in pratica credo il primo o il secondo webinar che ho fatto non era ancora accreditato ufficialmente era in fase di accreditamento quindi poi questo ha creato tutto
+
+289
+00:32:32,260 --> 00:32:39,780
+Filippo Strozzi: tutta una serie a cascato qui non ho fatto pubblicità in estrema sintesi non ho non non non ho fatto non ho detto l'ho detto ai pochi
+
+290
+00:32:39,860 --> 00:32:48,100
+Filippo Strozzi: che sapevano mettiamola così è andata bene perché alla fine comunque erano webinar gratuiti quindi c'è stata affluenza e
+
+291
+00:32:48,260 --> 00:33:01,299
+Filippo Strozzi: ho avuto un feedback positivo diciamo che però per tempo diciamo investito che ormai io parlo di investimento in queste cose comunque tempo investito da me e soldi spesi perché comunque
+
+292
+00:33:01,300 --> 00:33:09,300
+Filippo Strozzi: Ho utilizzato una piattaforma che di fatto faceva tutto controllare la presenza degli iscritti perché per l'accreditamento devi anche
+
+293
+00:33:09,640 --> 00:33:21,720
+Filippo Strozzi: controllare che la gente sia presente e così via sia gli attestati che sono l'altra aronia spaziale mettiamola così soprattutto nel solito discorso sei poca gente cioè 5-10 persone a fare 5-10 attest
+
+294
+00:33:21,740 --> 00:33:30,700
+Filippo Strozzi: stati è una cosa che tutto sommato ti richiede del tempo ma non è così drammatico se inizia ad avere delle affluenze più significative questo primo corso comunque ha avuto una
+
+295
+00:33:30,779 --> 00:33:43,340
+Filippo Strozzi: affluenza 100-150 persone se ho capito bene perché poi i dati io non ce li ho direttamente peraltro per quattro lezioni quindi per ogni lezione un attestato diventava una roba ingestibile quindi
+
+296
+00:33:43,260 --> 00:33:51,179
+Filippo Strozzi: collega che è molto più bravo di me ha creato una piattaforma apposta io ovviamente ho pagato la piattaforma e ho fatto tutto questo però diciamo la soddisfazione è
+
+297
+00:33:51,300 --> 00:33:54,260
+Filippo Strozzi: Alla fine c'è stata ma non è stata clamorosa.
+
+298
+00:33:54,260 --> 00:34:00,260
+Filippo Strozzi: Invece a fine anno ho fatto un ulteriore webinar, l'ultimo di quest'anno accreditato.
+
+299
+00:33:59,600 --> 00:34:09,679
+Filippo Strozzi: sto giro sono stato molto attento alla cosa quindi ho chiesto l'accreditamento a giugno a giugno del 2023 me l'hanno dato
+
+300
+00:34:09,580 --> 00:34:18,940
+Filippo Strozzi: credo a settembre-ottobre quindi comunque però il webinar era a metà il webinar era a metà novembre è il 10 novembre è stato e era più compatto
+
+301
+00:34:18,899 --> 00:34:26,899
+Filippo Strozzi: nel senso che anche lì avevo fatto quattro lezioni da 2 ore perché effettivamente ritenevo che fare 3-4 ore in un pomeriggio via webinar dove
+
+302
+00:34:27,159 --> 00:34:39,560
+Filippo Strozzi: solo io parlavo tra l'altro e era da distruzione alle persone il problema è che diciamo i costi mi sono lievitati alla fine comunque era un impegno grosso lo stesso
+
+303
+00:34:39,460 --> 00:34:48,980
+Filippo Strozzi: stesso e quindi alla fine invece ho fatto questo ultimo webinar di tre ore dove alla fine ho fatto in un colpo solo tre ore e più credit formativi diciamo e credo che
+
+304
+00:34:50,260 --> 00:35:01,620
+Filippo Strozzi: nel caso lo linkerò tutto nel ovviamente a chi fosse interessato ma credo che sia venuto meglio in tutto il sistema ce ne ho potuto fare relativamente la
+
+305
+00:35:01,859 --> 00:35:14,740
+Filippo Strozzi: pubblicità che poi pubblicità è l'ho anticipato sul mio sito internet e sui social network non ho fatto nulla di di clamoroso ho comunque avuto un feedback positivo eravamo anche a fine anno quindi
+
+306
+00:35:14,760 --> 00:35:26,760
+Filippo Strozzi: però mi è stato detto 280 persone che hanno partecipato e quindi comunque un buon risultato effettivamente anche dai feedback di YouTube è stata una visualizzazione notevole quindi
+
+307
+00:35:26,920 --> 00:35:34,840
+Filippo Strozzi: dal mio punto di vista è stato utile e in più era molto di nicchia che era un'altra cosa che mi interessava quindi volevo che fosse appunto tra virgolette il successo
+
+308
+00:35:34,900 --> 00:35:48,260
+Filippo Strozzi: era anche legato al fatto che volevo appunto condividere con più persone possibili c'era appunto la creazione dei miei atti telematici avanzati con l'atec e cose del genere diciamo che è abbastanza come sa Roberto
+
+309
+00:35:48,880 --> 00:35:51,600
+Filippo Strozzi: abbastanza abbastanza di nicchia?
+
+310
+00:35:51,600 --> 00:35:57,120
+Filippo Strozzi: di nicchia sì lo so lo so però appunto anche qui io lo continuo a ripetere
+
+311
+00:35:57,059 --> 00:36:05,380
+Filippo Strozzi: Ho fatto tutto un percorso abbastanza complicato per trovare una soluzione il più semplice possibile e il più aperta possibile.
+
+312
+00:36:04,900 --> 00:36:13,059
+Filippo Strozzi: L'ho trovata, effettivamente attualmente sto continuando a lavorare con questo sistema anche se io ne avevo un altro e devo dire la verità come al solito adesso
+
+313
+00:36:13,260 --> 00:36:21,260
+Filippo Strozzi: tra le varie cose che ho letto recentemente e condividevo anche con Roberto appunto per imparare una cosa la miglior cosa da fare è insegnare e ammettere
+
+314
+00:36:21,740 --> 00:36:30,380
+Filippo Strozzi: che effettivamente come sempre da tutte queste da tutti questi risultati ho creato comandi rapidi per automatizzare questo piuttosto che
+
+315
+00:36:30,660 --> 00:36:39,620
+Filippo Strozzi: quell'altro aspetto e ovviamente ho imparato un sacco di cose perché poi comunque dal mio punto di vista pur per esempio nel primo corso
+
+316
+00:36:39,700 --> 00:36:47,220
+Filippo Strozzi: Che erano cose più o meno già fatte, tranne la notifica mezzo pech, che comunque ho dovuto ristudiare, riapprofondire, riragionare e così via.
+
+317
+00:36:47,220 --> 00:36:54,579
+Filippo Strozzi: Ho anche, per esempio, creato delle automazioni per sostanzialmente creare in automatico la relata di notifica e far inviare, diciamo.
+
+318
+00:36:54,940 --> 00:37:06,619
+Filippo Strozzi: le pack direttamente in automatico ai destinatari insomma effettivamente facendo questo ho anche ottimizzato tutta una serie di cose che prima non avevo fatto e quindi a prescindere dalla conoscenza che ho
+
+319
+00:37:07,000 --> 00:37:16,840
+Filippo Strozzi: che ho ottenuto diciamo approfondendo gli argomenti ovviamente ho anche ottenuto come piace a me perché poi ovviamente tutto quello che faccio abitualmente al pallino
+
+320
+00:37:17,140 --> 00:37:26,740
+Filippo Strozzi: non il panino dell'automazione ma comunque rendermi la vita più semplice per il futuro e quindi tutti questi sistemi che mi fanno guadagnare un secondo qua, un secondo là, un secondo su, un secondo giù
+
+321
+00:37:26,500 --> 00:37:34,340
+Filippo Strozzi: però poi complessivamente mi rendo la vita molto più semplice lo ripeterò tantissime volte anche anche lì
+
+322
+00:37:34,100 --> 00:37:36,420
+Filippo Strozzi: Volevo chiudere la newsletter del.
+
+323
+00:37:36,580 --> 00:37:36,660
+Filippo Strozzi: .
+
+324
+00:37:37,060 --> 00:37:42,180
+Filippo Strozzi: chiamando mensilmente sostanzialmente a chi è scritto la mia newsletter, perché era.
+
+325
+00:37:42,180 --> 00:37:49,860
+Filippo Strozzi: Era oggettivamente dispendioso da fare peraltro a fine mese, peraltro dovendo fare tutta una serie di attività e così via.
+
+326
+00:37:42,500 --> 00:37:42,820
+Filippo Strozzi: .
+
+327
+00:37:42,820 --> 00:37:43,140
+Filippo Strozzi: .
+
+328
+00:37:49,860 --> 00:37:53,380
+Filippo Strozzi: Ho creato un sistema per cui in automatico io salvo.
+
+329
+00:37:53,380 --> 00:37:53,700
+Filippo Strozzi: .
+
+330
+00:37:53,559 --> 00:37:56,279
+Filippo Strozzi: Nel corso del mese salvo i link che voglio condividere.
+
+331
+00:37:57,400 --> 00:38:01,000
+Filippo Strozzi: Faccio tradurre in automatico a comandi rapidi e quindi a S
+
+332
+00:38:01,140 --> 00:38:15,460
+Filippo Strozzi: Quindi io ho già tutta la pappina pronta, diciamo, per la base della newsletter, poi devo scrivere sostanzialmente un articolo o comunque un piccolo pensiero diciamo di quel mese lì, ma creare quella newsletter adesso a me richiede.
+
+333
+00:38:15,059 --> 00:38:20,660
+Filippo Strozzi: Boh, dai 30 minuti ai 60 minuti compreso anche tutto il resto.
+
+334
+00:38:20,660 --> 00:38:25,059
+Filippo Strozzi: E lo faccio nei ritagli di tempo, non so se mi spiego, perché per esempio mentre leggo gli archi
+
+335
+00:38:24,880 --> 00:38:36,560
+Filippo Strozzi: articoli che mi interessano dico questo potrebbe essere interessare non solo a me ma anche a qualcun altro salvo il link adesso non racconto tutta la il comando rapido che gestisce questa cosa però nella sostanza
+
+336
+00:38:36,400 --> 00:38:49,440
+Filippo Strozzi: Mi semplifica la vita, mi rende un compito che stava diventando pesante, diciamo, molto più fluido, molto appunto effortless, come senza sforzo, e in quest'ottica sto sto vedendo che
+
+337
+00:38:49,820 --> 00:38:53,820
+Filippo Strozzi: Sono queste piccole cose che progressivamente invece stanno migliorando la vita.
+
+338
+00:38:53,820 --> 00:38:59,100
+Filippo Strozzi: E appunto, se mettiamo i primi mesi dell'anno non sono andati benissimo, appunto.
+
+339
+00:38:59,200 --> 00:39:07,680
+Filippo Strozzi: avevo ragionato di smettere tante cose perché ovviamente se vuoi fare tante cose devi anche dire tante no in pratica
+
+340
+00:39:07,400 --> 00:39:15,319
+Filippo Strozzi: o comunque per fare una cosa devi dire almeno no a 3-4 altre cose e stavo ragionando di forbiciare tante cose o
+
+341
+00:39:15,340 --> 00:39:28,540
+Filippo Strozzi: Ho comunque fatto dei tagli, non nego l'evidenza, ma appunto sono riuscito comunque in questa maniera e con questi chiamiamoli così stratagemmi a ottimizzare e effettivamente devo dire la verità.
+
+342
+00:39:28,100 --> 00:39:39,780
+Filippo Strozzi: A fine anno, per esempio, mentre i primi tre mesi dell'anno quando ho finito i webinar ho detto cavoli, ho investito tantissime ore nella preparazione, mi è costato comunque un po' di soldi.
+
+343
+00:39:39,380 --> 00:39:49,620
+Filippo Strozzi: Non una follia, tendo a precisare, però comunque se devo ragionare tra tempo speso e soldi spesi ero sicuramente indecisa perdita, mettiamola così.
+
+344
+00:39:49,660 --> 00:40:03,180
+Filippo Strozzi: a livello pratico, a fine anno posso dire che invece da quell'esperienza ho migliorato notevolmente, per esempio ho già fatto domanda per l'accreditamento di un nuovo ciclo di corsi che devo aver programmato lì a marzo.
+
+345
+00:40:02,559 --> 00:40:10,480
+Filippo Strozzi: e in più teoricamente qui ho già buona parte del materiale pronto quindi sarà molto più semplice fare tutta una serie di cose proprio perché ho iniziato a prendere le misure su
+
+346
+00:40:10,580 --> 00:40:17,700
+Filippo Strozzi: Su questa attività che comunque è un'attività e lo vedremo poi prossima puntata che ho scoperto piacermi e che voglio curare.
+
+347
+00:40:17,700 --> 00:40:18,420
+Filippo Strozzi: Voglio,
+
+348
+00:40:18,080 --> 00:40:25,440
+Filippo Strozzi: se possibile far crescere in un futuro quindi è sicuramente sicuramente molto meglio appunto anche
+
+349
+00:40:25,760 --> 00:40:32,560
+Filippo Strozzi: Stupidamente la questione della vendita della casa che è stata decisamente una cosa inaspettata, mettiamola così, perché
+
+350
+00:40:33,460 --> 00:40:46,260
+Filippo Strozzi: addirittura io non volevo vendere, si sono fatti sotto iciamo i venditori immobiliari a dire la verità, gli ho detto io voglio questa cifra qua, se no non vendo andate a quel paese e ho detto tanto non venderemo mai
+
+351
+00:40:46,000 --> 00:40:57,600
+Filippo Strozzi: Ho venduto la cifra che volevo, quindi alla fine ho portato a casa i miei soldini e sono contento alla fine di aver venduto, ho tutta una serie di spese in meno, oltretutto che è un altro che è bello fare
+
+352
+00:40:57,700 --> 00:41:02,020
+Filippo Strozzi: È bello avere immobili, ma gli immobili costano, mettiamola in questi termini.
+
+353
+00:41:02,339 --> 00:41:03,380
+Filippo Strozzi: O se costano.
+
+354
+00:41:03,540 --> 00:41:08,820
+Filippo Strozzi: E effettivamente anche lì rotture di scatole in meno, perché comunque c'è da.
+
+355
+00:41:09,240 --> 00:41:19,720
+Filippo Strozzi: Un immobile comunque ci devi stare dietro purtroppo, non c'è modo diverso dalle piccole riparazioni, dalle piccole cose, dalle piccole cure, dalle piccole.
+
+356
+00:41:19,380 --> 00:41:28,020
+Filippo Strozzi: piccoli, qualunque cosa, e sono appunto quello stilicidio che dopo un po', mettiamola così si sente esatto, esatto, esatto adesso
+
+357
+00:41:27,780 --> 00:41:35,700
+Filippo Strozzi: vabbè ormai è ancora troppo presto per fare ragionamento su questo però sicuramente la vendita dell'immobile e il fatto di aver dovuto
+
+358
+00:41:36,040 --> 00:41:42,120
+Filippo Strozzi: organizzare e ridurre drasticamente anche cose che avevo, perché fisicamente non.
+
+359
+00:41:42,120 --> 00:41:46,920
+Filippo Strozzi: cioè avrei dovuto comprare un altro immobile per metterceli dentro, quindi non aveva veramente senso.
+
+360
+00:41:46,920 --> 00:41:50,520
+Filippo Strozzi: Mi ha dato un senso anche maggiore di pulizia, anche se effettivamente appunto.
+
+361
+00:41:50,800 --> 00:41:59,600
+Filippo Strozzi: adesso stavo cercando di posizionare dei computer da Roberto ma proprio per questo discorso cioè io non li sto usando
+
+362
+00:41:59,600 --> 00:42:03,040
+Roberto Marin: Sì no ti aiuta Roma, tranquillo, non ti preoccupare, ti aiuto.
+
+363
+00:42:03,040 --> 00:42:10,240
+Filippo Strozzi: Non li sto usando, non mi servono, non ha senso che stiano lì a prendere la polvere, preferisco regalarle a qualcuno che li utilizza e.
+
+364
+00:42:09,900 --> 00:42:18,539
+Filippo Strozzi: e dare nuova vita per chi è l'ascolto sono già davanti io alla lista eh ragazzi sì no non chiedete vogliamo dei Mac Anche perché poi sono vecchi devo no no
+
+365
+00:42:19,560 --> 00:42:23,000
+Roberto Marin: Ci sono io davanti, non vi preoccupate, ci penso io, è roba mia.
+
+366
+00:42:23,000 --> 00:42:26,680
+Filippo Strozzi: E quindi è stato, in ultima analisi è stato un.
+
+367
+00:42:26,859 --> 00:42:30,780
+Filippo Strozzi: Un anno su e giù, mettiamola così, però sicuramente interessante.
+
+368
+00:42:30,780 --> 00:42:32,780
+Filippo Strozzi: Alla fine, comunque mi ero dato.
+
+369
+00:42:33,260 --> 00:42:35,020
+Filippo Strozzi: Volevo essere più intenzionale.
+
+370
+00:42:35,020 --> 00:42:40,300
+Filippo Strozzi: Sono sicuramente stato più intenzionale, volevo crescere.
+
+371
+00:42:39,700 --> 00:42:50,820
+Filippo Strozzi: e col senno di poi tra virgolette posso dire di essere cresciuto in alcuni ambiti e quindi sono soddisfatto dei risultati poi ovvio che appunto ci sono
+
+372
+00:42:51,460 --> 00:42:59,060
+Filippo Strozzi: ci sono tantissime cose adesso ho anche fatto ho messo insieme una cosiddetta spending review e quindi ho appunto
+
+373
+00:42:59,160 --> 00:43:08,680
+Filippo Strozzi: tagliato dove secondo me abituate al tanto si faceva presto adesso ho cercato di anche essere più essenziale mettiamolo in questi termini e di togliere il superfluo o quello che poi
+
+374
+00:43:08,700 --> 00:43:17,420
+Filippo Strozzi: È inutile, l'ultima stupidata era da tempo che volevo trovare una soluzione per fare appunto questi webinar che faccio.
+
+375
+00:43:18,320 --> 00:43:31,360
+Filippo Strozzi: con gli strumenti che attualmente ho e in pratica ho trovato il modo di utilizzare l'iPad come teleprompter chiamiamolo così cioè come gobbo proprio per aiutarmi e attualmente io sto parlando con Roberto
+
+376
+00:43:31,839 --> 00:43:40,480
+Filippo Strozzi: guardando l'iPad, sullo schermo grosso del Mac dell'i Mac 27 pollici 5K ci sono tutte le varie strutture
+
+377
+00:43:40,760 --> 00:43:51,560
+Filippo Strozzi: strumentazioni diciamo per registrare il podcast e per fare la diretta e così via però in questa maniera effettivamente ci guardiamo in faccia pur appur a 315 chilometri di distanza perché sappi che
+
+378
+00:43:51,980 --> 00:43:59,420
+Filippo Strozzi: Ho iniziato a guardare quanto ci vuole per venire a trovarti da Reggio Emilia, però se ce ne vuole, devo dirti la verità.
+
+379
+00:43:59,000 --> 00:44:02,280
+Filippo Strozzi: Ci vuole un bel pezzo di strada ragazzi miei.
+
+380
+00:44:02,280 --> 00:44:05,640
+Filippo Strozzi: Sono tre orette buone di strada, tre ore e un qualcosa.
+
+381
+00:44:05,720 --> 00:44:07,160
+Roberto Marin: Eh se ti va bene, perché.
+
+382
+00:44:07,680 --> 00:44:09,440
+Roberto Marin: Puoi mettere anche tranquillamente 4.
+
+383
+00:44:09,440 --> 00:44:10,000
+Roberto Marin: No, 4.
+
+384
+00:44:10,079 --> 00:44:12,640
+Filippo Strozzi: 4 van in malle d'aostra adesso non me ne vuol dire.
+
+385
+00:44:12,640 --> 00:44:13,760
+Filippo Strozzi: Eh, tu sei più vicino.
+
+386
+00:44:13,760 --> 00:44:14,880
+Roberto Marin: Eh, ma hai visto che
+
+387
+00:44:14,880 --> 00:44:16,720
+Roberto Marin: Per arrivare da me, non è arrivare a Torino.
+
+388
+00:44:16,800 --> 00:44:19,840
+Filippo Strozzi: Ah no, no, sono d'accordo che è lunga.
+
+389
+00:44:20,400 --> 00:44:24,880
+Filippo Strozzi: La sui moti con Annetta effettivamente è impegnativo.
+
+390
+00:44:24,500 --> 00:44:27,140
+Roberto Marin: E i criceti che vanno avanti e indietro a portare la linea.
+
+391
+00:44:27,140 --> 00:44:34,820
+Roberto Marin: Tra l'altro, piccola notizia: nel capoluogo dove abito, finalmente stanno facendo gli scavi e stanno mettendo giù la fibra.
+
+392
+00:44:34,200 --> 00:44:42,599
+Roberto Marin: Ovviamente a casa mia non arriverà mai perché abito lontano, però nel capoluogo stanno mettendo la fibra, quindi siamo tutti molto lieti, chissà che magari.
+
+393
+00:44:42,580 --> 00:44:51,700
+Filippo Strozzi: abbia dei benefici anch'io un povero Cristo io te l'ho detto purtroppo Starlink è la tua soluzione attuale però so che è impegnativo anche se
+
+394
+00:44:42,599 --> 00:44:42,920
+Roberto Marin: .
+
+395
+00:44:51,859 --> 00:45:04,099
+Roberto Marin: Un'altra cosa che fa un po' anche arrabbiare che veramente ho la fibra, l'ultimo tombino della fibra, ma questo da anni ce l'ho a circa metri da casa, 700 metri da casa.
+
+396
+00:45:03,700 --> 00:45:16,980
+Filippo Strozzi: Che dove abito io è veramente poco, vuol dire che ce l'ho dietro a quattro cube, però appunto è il saluto discorso devi fare 700 metri di cavo in fibra, ma ne li pago io, gli faccio una tesata con la fibra fino a cascata quando ti dicono faccio una cosa.
+
+397
+00:45:16,940 --> 00:45:20,540
+Filippo Strozzi: Secondo me il buon Roberto Bello.
+
+398
+00:45:20,940 --> 00:45:22,780
+Roberto Marin: Salgo su, metto sul.
+
+399
+00:45:22,780 --> 00:45:24,700
+Roberto Marin: No, vabbè, lo porto sulla tesata.
+
+400
+00:45:24,700 --> 00:45:29,100
+Filippo Strozzi: Faccio prima, secondo me ci sono dei problemi lo stesso, ma comunque
+
+401
+00:45:29,640 --> 00:45:37,320
+Filippo Strozzi: se no dopo andiamo oltre come al solito e io devo finire l'altra cosa che quindi è successo tutto questo
+
+402
+00:45:37,600 --> 00:45:46,240
+Filippo Strozzi: questo bailam, mettiamolo in questi termini quindi tra maggio tra maggio e settembre effettivamente c'è stato un po' di tutto e di più e proprio in quel periodo lì ne abbiamo
+
+403
+00:45:46,400 --> 00:45:53,440
+Filippo Strozzi: Ne ho già cennato sostanzialmente una puntata di Ferragostana, chiamiamola in questi termini, che adesso non mi ricordo più qual è.
+
+404
+00:45:53,440 --> 00:45:55,599
+Filippo Strozzi: Però ho anche comprato uno standing desk.
+
+405
+00:45:55,599 --> 00:46:00,559
+Filippo Strozzi: Lo standing desk effettivamente è diventato una cosa interessante, nel senso che ne ho parlato anche.
+
+406
+00:46:01,200 --> 00:46:12,240
+Filippo Strozzi: se ti interessa nella mia ultimissima newsletter ho creato sostanzialmente in un tavolo da 120x60 che è piccolo che è veramente piccolo però
+
+407
+00:46:12,080 --> 00:46:23,920
+Filippo Strozzi: L'ho voluto così proprio perché lo standing desk, quindi lo standing desk, per chi non lo sapesse, è un tavolo che si può alzare in altezza e quindi io per esempio adesso sto registrando in piedi, sto parlando al microfono
+
+408
+00:46:24,099 --> 00:46:34,260
+Filippo Strozzi: in piedi e spesso volentieri durante la giornata scrivo anche in piedi cioè nel senso ovviamente adattando la l'altezza del tavolo e del monitor del ventolo
+
+409
+00:46:34,539 --> 00:46:44,619
+Roberto Marin: il 5k perché dico 25 pollici ma non è un 25 pollici ma è un 27 è una crash il polliciaggio e la scusa e quindi cosa ho fatto
+
+410
+00:46:44,960 --> 00:46:55,039
+Filippo Strozzi: Già avevo questo iMac 5K 27 pollici montato su un braccio meccanico che era montato sul tavolo del mio ufficio.
+
+411
+00:46:54,620 --> 00:47:02,300
+Filippo Strozzi: L'ho montato sullo standing desk, quindi sostanzialmente il monitor si muove con lo standing desk e posso alzare abbastanza
+
+412
+00:47:02,400 --> 00:47:14,640
+Filippo Strozzi: il monitor in base ovviamente a se sono seduto o se sono in piedi sullo standing desk ho attaccato tutto quello che potevo attaccare e quindi ho la webcam montata su un braccio il microfono del podcast
+
+413
+00:47:14,760 --> 00:47:24,280
+Filippo Strozzi: anche lì col braccio e l'aragno e tutto e quindi nella sostanza io su questo tavolino che posso spostare tra l'altro in giro per casa perché ha le rotelle
+
+414
+00:47:24,300 --> 00:47:33,180
+Filippo Strozzi: E quindi è un tavolo mobile perché, aperto e chiusa parentesi, uno dei problemi maggiori che avevo è che il mio piccolo studiolo di casa è.
+
+415
+00:47:33,100 --> 00:47:42,940
+Roberto Marin: che adoro però ha un difetto non ha l'aria condizionata quindi d'estate in pianura padana è abbastanza impegnativo ecco esatto esatto mentre adesso per esempio soprattutto sei
+
+416
+00:47:33,180 --> 00:47:33,500
+Filippo Strozzi: .
+
+417
+00:47:43,059 --> 00:47:51,460
+Roberto Marin: soprattutto se hai computer Intel che aiuta ad aumentare la temperatura esatto esatto esatto beh ma allora devo dirti la verità questo i Mac
+
+418
+00:47:51,940 --> 00:47:59,380
+Filippo Strozzi: scalda sì perché adesso è a 66 gradi ma non scalda come il MacBook Pro ma questo è un altro discorso ancora che non andrei
+
+419
+00:47:59,700 --> 00:48:01,220
+Filippo Strozzi: Non ritogliamo, mettiamolo qui.
+
+420
+00:48:01,380 --> 00:48:03,940
+Roberto Marin: Adesso mi posso vantare, vediamo se mi posso vantare.
+
+421
+00:48:03,940 --> 00:48:08,260
+Filippo Strozzi: Ah vabbè, avrai il Mac Mini e il MacBooke a 37
+
+422
+00:48:08,200 --> 00:48:12,280
+Roberto Marin: 738 gradi, guardo, e danna vita che non li guardo più.
+
+423
+00:48:12,359 --> 00:48:15,320
+Roberto Marin: In questo momento la temperatura più alta è 38 gradi,
+
+424
+00:48:16,260 --> 00:48:19,140
+Filippo Strozzi: E' fanless oltretutto cioè senza vento.
+
+425
+00:48:19,300 --> 00:48:19,619
+Roberto Marin: Sì, sì.
+
+426
+00:48:19,859 --> 00:48:23,619
+Filippo Strozzi: Poi vabbè, a casa tua comunque là sui monti con Anannette c'è anche fresco.
+
+427
+00:48:23,619 --> 00:48:26,020
+Roberto Marin: Però vabbè, dentro no.
+
+428
+00:48:26,980 --> 00:48:29,700
+Roberto Marin: Sono in maglietta, anche ma io.
+
+429
+00:48:30,160 --> 00:48:32,400
+Filippo Strozzi: Tra l'altro chiudendo la porta per cercare di.
+
+430
+00:48:32,400 --> 00:48:32,480
+Filippo Strozzi: .
+
+431
+00:48:32,640 --> 00:48:38,560
+Filippo Strozzi: nel mio studiolo per cercare di evitare la confusione, di fare confusione perché è di là, certo.
+
+432
+00:48:38,560 --> 00:48:42,880
+Filippo Strozzi: La famiglia che fa i fatti suoi è probabilmente il figlio che dorme.
+
+433
+00:48:43,200 --> 00:48:49,280
+Filippo Strozzi: Qua io sto morendo perché io sono in maglietta a maniche corte, effettivamente così.
+
+434
+00:48:49,700 --> 00:48:52,420
+Filippo Strozzi: Comunque, capisco bene anch'io sto nella stessa situazione.
+
+435
+00:48:52,420 --> 00:48:56,260
+Filippo Strozzi: Questo tavolo è effettivamente, ma mi ha tolto la vita: è una parola grossa.
+
+436
+00:48:56,260 --> 00:49:01,540
+Filippo Strozzi: Però, per tante piccole cose, ho montato direttamente sul tavolo il gruppo di continuità.
+
+437
+00:49:01,540 --> 00:49:04,100
+Filippo Strozzi: Quindi, il tavolo, addirittura, come la pre.
+
+438
+00:49:04,339 --> 00:49:16,740
+Filippo Strozzi: elettrico diciamo l'alzata e l'abbassata il tavolo anche mentre lo muovo posso posso ovviamente alzarlo abbassarlo e non solo posso vabbè non lo faccio però posso lavorare al computer perché la batteria tampone
+
+439
+00:49:16,600 --> 00:49:30,760
+Filippo Strozzi: secondo me dura 25-30 minuti non di più ma nella sostanza posso non spegnere il computer posso spostarlo dove voglio io ovviamente nei limiti di spazio della casa e lavorare spesso e volentieri non so quest'ate lavoravo in sala
+
+440
+00:49:30,580 --> 00:49:38,900
+Filippo Strozzi: con l'area condizionata o addirittura nell'unica camera diciamo con direttamente l'area condizionata
+
+441
+00:49:39,460 --> 00:49:49,140
+Filippo Strozzi: all'interno ed è veramente molto comodo e il discorso di poter lavorare liberi chiamiamolo così perché è molto diverso lavorare una scrivania e lavorare in piedi
+
+442
+00:49:48,960 --> 00:49:50,480
+Filippo Strozzi: Quello posso.
+
+443
+00:49:50,480 --> 00:49:50,560
+Filippo Strozzi: .
+
+444
+00:49:50,800 --> 00:49:59,920
+Filippo Strozzi: ormai sono sei mesi che ho questo tavolo e devo dire la verità, ma anche non so se si sente o si percepisce, ma anche.
+
+445
+00:49:59,859 --> 00:50:11,380
+Filippo Strozzi: registrare un podcast io adesso sto gesticolando sono in piedi e ho massima libertà e effettivamente mi dà un modo di interagire notevole
+
+446
+00:50:11,200 --> 00:50:16,880
+Filippo Strozzi: Per esempio fare un webinar di tre ore seduto a un certo punto hai il sedere che praticamente non lo senti più.
+
+447
+00:50:16,880 --> 00:50:20,000
+Filippo Strozzi: Invece in piedi è impegnativo, ovviamente, perché parlava per.
+
+448
+00:50:19,960 --> 00:50:31,480
+Filippo Strozzi: tre ore è negabile che sia impegnativo ma il podcast mi aiuta però però devo dire la verità ho notato notevoli miglioramento miglioramenti su vari fronti mettiamola così
+
+449
+00:50:20,000 --> 00:50:20,079
+Filippo Strozzi: .
+
+450
+00:50:31,400 --> 00:50:42,039
+Filippo Strozzi: nel senso poi non è che sto sempre in piedi anche perché a un certo punto poi ti affatichi altrimenti mettiamola in questi termini ma sicuramente è molto utile e avere tutto
+
+451
+00:50:42,520 --> 00:50:53,640
+Filippo Strozzi: avere questo tavolo che è convertibile come piace definirlo a me dove posso fare qualunque cosa io voglia fare quindi lavorare registrare podcast
+
+452
+00:50:53,660 --> 00:50:58,460
+Filippo Strozzi: fare video, webinar e così via è molto comodo e in uno spazio ho ridottissimo.
+
+453
+00:50:58,460 --> 00:51:03,180
+Filippo Strozzi: Lo studiolo sarà da mettere a posto, ma questo è un altro discorso ancora, perché è abbastanza comodo
+
+454
+00:51:03,440 --> 00:51:04,480
+Filippo Strozzi: Confusionato.
+
+455
+00:51:04,480 --> 00:51:06,000
+Filippo Strozzi: Un po' di lavoro ancora da fare.
+
+456
+00:51:06,640 --> 00:51:10,160
+Filippo Strozzi: L'ultimissima cosa, poi se no qua la tiriamo veramente troppo.
+
+457
+00:51:10,160 --> 00:51:10,240
+Filippo Strozzi: .
+
+458
+00:51:10,240 --> 00:51:12,400
+Filippo Strozzi: la tiro veramente troppo lunga.
+
+459
+00:51:11,700 --> 00:51:20,660
+Filippo Strozzi: Una cosa che ci tenevo anche se so che Roberto va in panico ogni volta che lo dico e ne abbiamo parlato anche con Valentina De Poli e sostanzialmente io ho iniziato
+
+460
+00:51:20,980 --> 00:51:35,700
+Filippo Strozzi: credo da settembre è una sorta di metodo analogico dell'attività quotidiana e in pratica uso un foglio di un quarto di A4 quindi doveva essere no non è neanche una 5 una 6 una 5 no la 5 è la metà
+
+461
+00:51:37,260 --> 00:51:38,859
+Filippo Strozzi: Esatto, la 6 credo.
+
+462
+00:51:40,539 --> 00:51:45,579
+Filippo Strozzi: Sì, vabbè, adesso ovviamente chi ci ascolta non lo può vedere, ma a Roberto lo può vedere.
+
+463
+00:51:45,579 --> 00:51:46,619
+Filippo Strozzi: Sì, sì, sì.
+
+464
+00:51:46,180 --> 00:51:48,020
+Filippo Strozzi: È la dimensione che mi aspettavo, sì.
+
+465
+00:51:48,180 --> 00:51:50,100
+Filippo Strozzi: È un fogliettino molto semplice.
+
+466
+00:51:50,100 --> 00:51:50,980
+Filippo Strozzi: È una sei.
+
+467
+00:51:50,980 --> 00:51:55,860
+Filippo Strozzi: Esatto, o alla sera o al mattino, appena inizio, faccio la lista della
+
+468
+00:51:55,880 --> 00:52:05,800
+Filippo Strozzi: spesa delle cose che devo fare quella giornata vabbè valentina dice che sono molto precisino e molto molto puntuale nello scrivere ma comunque col mio checkbox quindi con il mio
+
+469
+00:52:06,059 --> 00:52:16,779
+Filippo Strozzi: quadratino che posso spuntare e poi l'attività che posso ovviamente cancellare è molto comoda o meglio nel senso molto operativa mettiamola in questi termini nel senso che
+
+470
+00:52:16,760 --> 00:52:24,600
+Filippo Strozzi: Beno male sotto gli occhi sulla scrivania, poi vabbè io addirittura avendo la tastiera pezzata metà, mettiamola così, io la metto
+
+471
+00:52:24,440 --> 00:52:34,440
+Filippo Strozzi: in mezzo alla tastiera, mettiamola in questi termini, quindi proprio quando abbasso gli occhi vedo il fogliettino, vedo le cose che devo fare, molto utile e devo dirti la verità adesso
+
+472
+00:52:34,640 --> 00:52:44,480
+Filippo Strozzi: probabilmente nella prossima puntata faremo un cenno e spero anche un approfondimento sul multi sul multiscale planning di Cal Newport che
+
+473
+00:52:45,599 --> 00:52:55,359
+Filippo Strozzi: di cui questo fogliettino è una parte, mettiamola in questi termini, però il connubio analogico digitale lo trovo molto comodo.
+
+474
+00:52:54,900 --> 00:53:03,779
+Filippo Strozzi: nel senso che appunto il fogliettino una volta che è finita la giornata io lo prendo quello che ho fatto ho fatto quello che non ho fatto lo riporto su
+
+475
+00:53:03,980 --> 00:53:15,339
+Roberto Marin: fogliettino successivo del giorno dopo e vado avanti così e borguccio il fogliettino dimmi Roberto e ovviamente la domanda che ti continuo a fare e continuerò a fare ma questa volta ti obbligo a dare la risposta in diretta
+
+476
+00:53:15,760 --> 00:53:19,200
+Roberto Marin: Ma perché non usi sto cacchio di iPad con la sua pencil?
+
+477
+00:53:19,200 --> 00:53:23,119
+Filippo Strozzi: Allora, devo dirti la verità, l'ho fatto, cioè, questa roba qua non è.
+
+478
+00:53:23,400 --> 00:53:31,240
+Filippo Strozzi: Non è la novità dal mio punto di vista, lo facevo già tempo dietro e cosa facevo, ho fatto varie cose ma comunque io sono una passiona
+
+479
+00:53:31,060 --> 00:53:39,860
+Filippo Strozzi: di Good Note anche se la versione 6 mi lascia un po' perplesso ma questo è un discorso per un'altra puntata mettiamola in questi termini e addirittura il vantaggio di good note
+
+480
+00:53:40,460 --> 00:53:50,060
+Filippo Strozzi: era che oltre a scrivere a mano comunque chiamiamolo così comunque un fogliettino a prescindere che l'iPad Pro non è un fogliettino mettiamolo in questi termini e già questo è diverso
+
+481
+00:53:50,760 --> 00:53:58,040
+Filippo Strozzi: in più devo usare l'iPad e è scomodo cioè nel senso il fogliettino ce l'ho sotto comodo è
+
+482
+00:53:58,100 --> 00:54:00,180
+Filippo Strozzi: è anche poco ingombrante, non so se mi spiego.
+
+483
+00:54:00,180 --> 00:54:08,820
+Filippo Strozzi: Con GoodNote addirittura io potevo le cose che non avevo fatto le potevo semplicemente copia e incollare nel giorno successivo.
+
+484
+00:54:08,400 --> 00:54:16,240
+Filippo Strozzi: Il problema che alla fine era comunque tedioso non ce l'hai sempre sotto gli occhi, so che sembra una banalità, però
+
+485
+00:54:16,220 --> 00:54:23,579
+Filippo Strozzi: Il discorso è che spesso volentieri abitualmente se lavoro a computer non uso l'iPad a meno che non debba leggere, non so se mi spiego.
+
+486
+00:54:23,600 --> 00:54:33,040
+Filippo Strozzi: Ma anche se devo leggere, cioè se sto già lavorando sull'i Mac, che peraltro avendo un 27 pollici comunque mi permette di leggere qualsiasi cosa comodamente.
+
+487
+00:54:32,780 --> 00:54:43,420
+Filippo Strozzi: tu considera che questa i Mac sostanzialmente a livello di monitor è più di due fogli a quattro quindi comunque non ho problemi da una parte avere dove scrivo e dall'altra avere i documenti
+
+488
+00:54:43,059 --> 00:54:57,779
+Filippo Strozzi: che devo esaminare e così via o devo leggere sottolineare e così via e alla fine diventa più comodo cioè se tu stai lavorando da una parte e lavorare un pezzo a un pezzo diventa è ovvio che non so mi metto a leggere un libro prendo il mio iPad mi metto sulla poltrona mi metto dove vo
+
+489
+00:54:58,059 --> 00:55:11,420
+Filippo Strozzi: voglio e prendo l'iPad e leggo il libro non so se mi spiego cose che leggere un libro sul sul Mac ammetto che non abbia molto senso ma abitualmente non devo leggere 100 pagine di roba devo leggere 3-4 pagine
+
+490
+00:55:11,380 --> 00:55:17,140
+Filippo Strozzi: esaminare un documento, trovare quel riferimento, fare, guardare, leggere una norma e così via.
+
+491
+00:55:17,140 --> 00:55:19,460
+Filippo Strozzi: Quindi alla fine per il lavoro normale
+
+492
+00:55:19,559 --> 00:55:27,640
+Filippo Strozzi: vado direttamente tutto sul computer e quindi puoi ho l'iPad che a parte che su questo tavolo oggettivamente fa fatica cioè
+
+493
+00:55:27,200 --> 00:55:37,680
+Filippo Strozzi: o lo monto come è montato adesso cioè io io sto guardando l'iPad, adesso ovviamente i telescoltatori non ci vedono ma Roberto mi vede
+
+494
+00:55:37,700 --> 00:55:52,099
+Filippo Strozzi: E io sto indicando l'iPad sostanzialmente in questo momento e sto guardando dritto negli occhi Roberto, sostanzialmente, pur a distanza, mettiamoli in questi termini, e in questo caso è molto comodo.
+
+495
+00:55:51,600 --> 00:56:04,480
+Filippo Strozzi: Devo dire la verità, con un 27 pollice, appunto, lavorare anche con di fianco all'iPad se non c'è uno scopo specifico, mettiamolo in questi termini, è relativamente inutile, cioè nel senso, un 12 i 9, quindi un 13 pollice.
+
+496
+00:56:04,440 --> 00:56:05,400
+Filippo Strozzi: Contro un 27.
+
+497
+00:56:05,400 --> 00:56:08,280
+Filippo Strozzi: Sì, ci potrei mettere, non so, il calendario.
+
+498
+00:56:08,280 --> 00:56:12,280
+Filippo Strozzi: Cioè, alla fine non e ti dico la verità.
+
+499
+00:56:11,900 --> 00:56:23,980
+Filippo Strozzi: Sì, mi piace, però ammetto che scrivere a mano al suo fascino, mettiamola così, anche perché appunto se ho fatto poche robe, mettiamola così, il giorno prima
+
+500
+00:56:23,900 --> 00:56:32,539
+Filippo Strozzi: e quindi mi tocca ricopiarle nel giorno dopo è anche una fatica fisica non so se mi spiego quindi dice ma non hai fatto un cacchio ieri eh
+
+501
+00:56:33,460 --> 00:56:36,740
+Roberto Marin: Ti stai avvicinando piano piano al bullet journal.
+
+502
+00:56:36,740 --> 00:56:43,540
+Roberto Marin: Vediamo se entro il 2024 ti vedo lì col tuo libricino che ti fa il planning, quello che.
+
+503
+00:56:44,640 --> 00:56:48,960
+Roberto Marin: Ovviamente sti foglietti sono carta riciclata bestiale, tagliata a mano.
+
+504
+00:56:48,960 --> 00:56:55,040
+Roberto Marin: Guarda, io non penso di mettere la mano sul fuoco, ma non penso di andare tanto lontano.
+
+505
+00:56:55,020 --> 00:57:03,020
+Roberto Marin: Pensando al metodo che mi avevi accennato prima quello multiplans che lo sto citando, multi-scale plan, scusami.
+
+506
+00:57:02,300 --> 00:57:11,660
+Filippo Strozzi: E fidati che sicuramente sarà qualcosa di molto vicino al bullet journal simile, sì adesso non andiamo avanti, anche perché devi parlare tu adesso.
+
+507
+00:57:13,180 --> 00:57:15,260
+Roberto Marin: Tocca a me, ok, va bene.
+
+508
+00:57:14,800 --> 00:57:24,320
+Roberto Marin: Comunque dai, nel complesso possiamo dire che il tuo quest'anno tra alti e bassi comunque l'hai portato a casa in modo dignitoso, cioè ci sono dei lati positivi.
+
+509
+00:57:24,000 --> 00:57:33,040
+Roberto Marin: I lati negativi ti hanno lasciato un po', come si può dire, del lavoro da fare, da studiare, da imparare, diciamo più che altro, da quello che ti ha dato questo nuovo anno.
+
+510
+00:57:33,040 --> 00:57:35,040
+Roberto Marin: Hai imparato molto, diciamo.
+
+511
+00:57:34,460 --> 00:57:38,300
+Roberto Marin: Invece il mio era nato con l'anno del miglioramento.
+
+512
+00:57:38,540 --> 00:57:42,140
+Roberto Marin: Ho fatto dei miglioramenti, ragazzi, incredibili!
+
+513
+00:57:42,140 --> 00:57:43,580
+Roberto Marin: Beh, a parte gli scherzi.
+
+514
+00:57:43,580 --> 00:57:47,740
+Roberto Marin: Dunque, allora, il primo, la prima cosa che ho pensato.
+
+515
+00:57:47,100 --> 00:57:50,460
+Roberto Marin: che quello che pensiamo tutti è lavorare di meno e guadagnare di più.
+
+516
+00:57:50,460 --> 00:57:51,260
+Roberto Marin: Come è andata?
+
+517
+00:57:51,260 --> 00:57:56,460
+Roberto Marin: Non è andata proprio benissimo, nel senso che non ci sono riuscito, ma non mi aspettavo niente di meglio.
+
+518
+00:57:55,900 --> 00:58:07,260
+Roberto Marin: Cioè ci ho provato ma in parte sono riuscito a farlo proprio per delle piccole cose che sono riuscito a delegare, in qualche modo ne ho guadagnato.
+
+519
+00:58:06,859 --> 00:58:11,260
+Roberto Marin: Ma in linea generale, in effetti, ho mantenuto la posizione che è già qualcosa.
+
+520
+00:58:11,260 --> 00:58:18,619
+Filippo Strozzi: E infatti, appunto, io te lo stavo per dire: nell'ultimo periodo da libero professionista già andare pari.
+
+521
+00:58:18,460 --> 00:58:22,300
+Filippo Strozzi: Con l'anno precedente, vista la situazione, è già qualquale.
+
+522
+00:58:22,700 --> 00:58:32,700
+Roberto Marin: Adesso che mi ci si devi pensare, ho un po' perso di vista con il passaggio che sto facendo, da notion a promemoria e note alla accoppiata.
+
+523
+00:58:32,440 --> 00:58:39,240
+Roberto Marin: Mi sono perso un po' di vista l'andamento che mi ero fatto trimestrale per vedere il fatturato.
+
+524
+00:58:39,240 --> 00:58:43,720
+Roberto Marin: A naso dovrei essere andato sulle aspettative che mi aspettavo.
+
+525
+00:58:43,280 --> 00:58:51,119
+Roberto Marin: Cioè, sulle aspettative che mi hanno impostato, quindi mi pare di aver messo un aumento di percentuale minimo rispetto all'anno scorso
+
+526
+00:58:50,900 --> 00:58:59,940
+Roberto Marin: doveva esserci riuscito ad arrivare in qualche modo se non sono lì però sono lì vicino comunque diciamo che in linea di massima la posizione è stata mantenuta
+
+527
+00:58:59,900 --> 00:59:04,299
+Roberto Marin: Ed è già qualcosa di veramente positivo secondo il mio punto di vista.
+
+528
+00:59:04,299 --> 00:59:13,900
+Roberto Marin: Prossimo anno ho i miei dubbi di riuscire a farlo, lo metto già adesso, in conto che il prossimo anno sarà un po' più dura, però ne parleremo di quello che sarà.
+
+529
+00:59:13,280 --> 00:59:21,599
+Roberto Marin: la previsione per il prossimo anno quest'anno sono riuscito a fare quel famoso passaggio che vi avevo raccontato che ormai era diventato necessario è arrivato questo famoso
+
+530
+00:59:21,780 --> 00:59:33,220
+Roberto Marin: Mabucchia 13 pollici M2 che direi che ne sono ampiamente soddisfatto oltre le mie aspettative praticamente non so neanche più cos'è una presa elettrica fra poco perché non lo collego praticamente più alla.
+
+531
+00:59:33,100 --> 00:59:35,420
+Roberto Marin: All'elettricità questo va avanti in continuazione.
+
+532
+00:59:35,500 --> 00:59:41,260
+Roberto Marin: Considerate che in questo momento, oltre a registrare, visto che comunque tiene tanto così, la batteria, mi sono collo.
+
+533
+00:59:40,859 --> 00:59:50,780
+Roberto Marin: pure lanciato avendo una piccola lampada a LED appoggiata sullo schermo che viene alimentata dal MEC e quindi non è neanche impresa elettrica cioè siamo a questo punto
+
+534
+00:59:50,559 --> 01:00:01,440
+Roberto Marin: In ogni caso lo spunto del MacBook Air mi ha dato anche la possibilità di creare un video che ne parla, nel senso che ho fatto una specie di piccola recensione di come lo farei io da architetto.
+
+535
+01:00:00,840 --> 01:00:13,640
+Roberto Marin: difatti è molto tagliato verso quello che potrebbe essere un possibile utilizzo del MacBookare nell'ambito dell'architettura e devo dire che per le mie aspettative ovviamente è uno dei primi video che ho fatto un po' più
+
+536
+01:00:13,820 --> 01:00:21,020
+Roberto Marin: Diciamo, elaborati rispetto agli altri video che ho fatto, un po' più leccato, mettiamo la cosa: esatto, un po' più leccato.
+
+537
+01:00:21,020 --> 01:00:25,660
+Roberto Marin: Ma perché volevo appunto volevo fare una certa cosa, ci sono riuscito.
+
+538
+01:00:26,300 --> 01:00:28,220
+Roberto Marin: Per me è soddisfacente.
+
+539
+01:00:28,540 --> 01:00:35,820
+Roberto Marin: Non è che punto a tanto più in alto, secondo me da lì in avanti si può migliorare in qualche modo, ovviamente con l'esperienza vi discorrendo.
+
+540
+01:00:35,820 --> 01:00:42,940
+Roberto Marin: Però, sinceramente, è un livello molto valido per i miei mezzi, per quello che posso fare io con i miei tempi.
+
+541
+01:00:42,540 --> 01:00:51,740
+Roberto Marin: I miei tempi che tra l'altro si sono rispecchiati tranquillamente perché l'ho registrata ad agosto ed è uscito a novembre praticamente, un po' l'ho lasciato bollire, un po'.
+
+542
+01:00:51,660 --> 01:01:03,420
+Roberto Marin: Volevo fare una cosa fatta bene e non ho avuto anche tempo d'altra parte, però comunque per i miei standard è stato un successone, le visualizzazioni miracolosamente sono arrivate a tre cifre.
+
+543
+01:01:02,800 --> 01:01:10,800
+Roberto Marin: e quindi tantissima roba per quanto riguarda il mio canale che tutto sommato non è così curato come il podcast, come vi ho sempre detto
+
+544
+01:01:10,500 --> 01:01:18,980
+Roberto Marin: Ho tante cose da fare nella vita, la parte finale che perde un po' i pezzi in tutto questo casino che sto facendo è appunto la parte della registrazione.
+
+545
+01:01:19,060 --> 01:01:27,300
+Roberto Marin: che piano piano sto migliorando, non avrò un workflow dei migliori però insomma incomincio a avere le idee un po' più chiare di dove poter
+
+546
+01:01:27,540 --> 01:01:36,500
+Roberto Marin: tagliare e migliorare la questione quindi anche sotto questo punto di vista sono molto soddisfatto ho imparato delle cose sull'editing e qualche trucchetto qua e là perché
+
+547
+01:01:36,740 --> 01:01:42,980
+Roberto Marin: Ovviamente andando a cercare di arrivare a un certo livello bisogna anche capire come arrivarci, no?
+
+548
+01:01:42,980 --> 01:01:44,500
+Roberto Marin: È un po' come spiegavi prima
+
+549
+01:01:44,559 --> 01:01:54,319
+Roberto Marin: dovevo insegnare a me stesso come arrivare a un certo risultato in qualche modo imparato perché alla fine si tratta di questo perché finché lo vedi dice sì vabbè è una cosa semplice sì
+
+550
+01:01:54,200 --> 01:01:55,400
+Roberto Marin: Allora falla.
+
+551
+01:01:55,400 --> 01:02:08,359
+Roberto Marin: Quando la fai, capisci che in effetti ti sembra semplice vista, ma in realtà dietro c'è tutta una lavorazione che richiede appunto fare un video di soli 12 minuti, perché alla fine è stato fuori un video di 12 minuti.
+
+552
+01:02:07,700 --> 01:02:17,540
+Roberto Marin: E ho imparato qualcosa, tra cui iniziamo, si vedeva benissimo, ma la cosa non mi interessava assolutamente nulla, anche perché sono alle prime armi, leggevo alla grande.
+
+553
+01:02:17,240 --> 01:02:28,680
+Roberto Marin: Non sono come adesso che vado a braccio, sarà probabilmente la telecamera, sarà che probabilmente avevo veramente tante cose da dire in quel video perché sono 12 minuti ma sono 12 minuti decisamente condensati.
+
+554
+01:02:28,860 --> 01:02:34,540
+Roberto Marin: Avevo bisogno di uno script da perseguire anche perché c'erano anche dei dati tecnici, quindi non è che potevo tenermi tutti a memoria.
+
+555
+01:02:37,780 --> 01:02:44,740
+Filippo Strozzi: Un discorso è parlare appunto a braccio come stiamo facendo noi e parliamo anche per tanto tempo abitualmente, ma.
+
+556
+01:02:44,900 --> 01:02:45,220
+Filippo Strozzi: .
+
+557
+01:02:45,339 --> 01:02:52,700
+Filippo Strozzi: chi ci ascolta presumibilmente lo fa in tenendo solo l'orecchio attento eventualmente e non anche la vista
+
+558
+01:02:53,640 --> 01:03:01,319
+Filippo Strozzi: focalizzati su un schermo sostanzialmente e lì ci vuole un approccio totalmente diverso soprattutto credo anche
+
+559
+01:03:01,720 --> 01:03:11,240
+Filippo Strozzi: Per lo standard che si è creato nel tempo, io recentemente nel corso dell'anno sono andato con mia moglie a vedere al cinema Frankenstein Jr.
+
+560
+01:03:11,319 --> 01:03:14,680
+Filippo Strozzi: Cheh non so, al venticinquesimo-cinquantesimo anno
+
+561
+01:03:14,780 --> 01:03:23,099
+Filippo Strozzi: dalla realizzazione quindi rimasterizzato al cinema ho detto beh dai facciamo questo giro e devo dire la verità e abituati a youtube
+
+562
+01:03:23,900 --> 01:03:32,859
+Filippo Strozzi: ma anche solo i film d'azione moderni voglio dire o comunque hai film Marvel e così via ammetto
+
+563
+01:03:33,740 --> 01:03:44,860
+Filippo Strozzi: che da quel punto di vista lì, e non so l'inquadratura che va avanti pian pianino, ma io dicevo, ma non finisce mai, cioè la partura di Frankenstein Jr.
+
+564
+01:03:45,100 --> 01:03:45,580
+Filippo Strozzi: è.
+
+565
+01:03:45,200 --> 01:03:48,079
+Filippo Strozzi: L'inquadratura che va verso il castello, ok?
+
+566
+01:03:48,079 --> 01:03:51,040
+Filippo Strozzi: Ma ci mette dei minuti ad andare al castello.
+
+567
+01:03:51,040 --> 01:03:53,119
+Roberto Marin: Io non è così, ma e quindi?
+
+568
+01:03:53,460 --> 01:04:05,700
+Roberto Marin: È vero, bisogna tenere un po' alta l'attenzione, ma potete anche vedere tranquillamente: una cosa che sto facendo recentemente con mia figlia: sto facendo vedere la saga di guerre stellari e sono partito da quelli centrali.
+
+569
+01:04:06,020 --> 01:04:08,020
+Roberto Marin: Vedere la differenza.
+
+570
+01:04:08,240 --> 01:04:20,960
+Roberto Marin: anche da quello che conosciamo un po' meglio in questo periodo e vedere quello che era all'epoca vedete proprio la differenza lo sentite e youtube ovviamente tutto partito diciamo a stecca
+
+571
+01:04:20,700 --> 01:04:26,940
+Roberto Marin: Perché l'idea è quella di mantenere l'attenzione a tutti i costi, perché se no perdi follower, perdi tutto e vi discorrendo.
+
+572
+01:04:26,940 --> 01:04:28,700
+Roberto Marin: La mia idea non era quella
+
+573
+01:04:30,480 --> 01:04:37,520
+Filippo Strozzi: L'algoritmo vuole vuole quello, quindi devono essere contenuti incalzanti e comunque.
+
+574
+01:04:37,680 --> 01:04:48,800
+Filippo Strozzi: più io ti trattengo più sono chiamiamo così ricompensato per cui è ovvio che è appunto un business dell'attenzione che ha i suoi pro terribile e io continuo a ripetere
+
+575
+01:04:48,940 --> 01:05:01,420
+Filippo Strozzi: La sintesi è sicuramente utile, quindi fare queste cose noi ci possiamo permettere appunto di chiacchierare, di perdere tempo, mettiamola così, a prescindere che probabilmente io lo faccio di sicuro, molti lo faranno di sicuro.
+
+576
+01:05:01,220 --> 01:05:11,539
+Filippo Strozzi: Matteo per esempio scandolì l'ultima volta che è venuto da noi diceva ho sentito la sigla finalmente a velocità normale perché io l'ascolto sempre a velocità.
+
+577
+01:05:11,700 --> 01:05:12,020
+Filippo Strozzi: .
+
+578
+01:05:11,740 --> 01:05:20,060
+Filippo Strozzi: aumentata e quindi ho sentito la vostra sigla per la prima volta alla velocità giusta mettiamo in questi termini
+
+579
+01:05:19,800 --> 01:05:21,000
+Filippo Strozzi: Ma lo faccio anch'io, eh?
+
+580
+01:05:21,000 --> 01:05:24,120
+Filippo Strozzi: Cioè, ma anch'io addirittura faccio editing a velocità doppia.
+
+581
+01:05:24,120 --> 01:05:25,640
+Filippo Strozzi: Quindi potessi, lo farei anch'io.
+
+582
+01:05:25,640 --> 01:05:26,840
+Filippo Strozzi: E quindi capisco.
+
+583
+01:05:27,000 --> 01:05:33,960
+Filippo Strozzi: Però, quando ti inizi a abituare a fare così, è un sistema comunque abbastanza particolare, e però.
+
+584
+01:05:33,800 --> 01:05:37,560
+Filippo Strozzi: È ovvio che più veloce vai, più ti perdi cose.
+
+585
+01:05:37,560 --> 01:05:43,000
+Filippo Strozzi: Poi nel nostro caso specifico secondo me appunto le nostre puntate sono lunghe, chiacchieramo
+
+586
+01:05:43,100 --> 01:05:52,620
+Filippo Strozzi: è ovvio che alla fine aiuta a condensare io poi addirittura con l'editing che faccio esattamente aumenta questa questa cosa nel senso che
+
+587
+01:05:53,180 --> 01:05:56,620
+Filippo Strozzi: Sfalcio tutto quello che è inutile, mettiamolo così quando posso.
+
+588
+01:05:56,620 --> 01:06:01,980
+Filippo Strozzi: Però appunto stiamo andando verso un'economia dell'attenzione.
+
+589
+01:06:01,539 --> 01:06:08,420
+Filippo Strozzi: e quindi è complicato e utile da un certo punto di vista perché pulire pulire quello che fai
+
+590
+01:06:08,720 --> 01:06:19,119
+Filippo Strozzi: sintetizzare quello che dici e ovviamente tirando il sodo, rendendo semplice ma non semplificando troppo, mettiamolo in questi termini, è sicuramente uno sforzo utile e comodo.
+
+591
+01:06:19,339 --> 01:06:33,099
+Filippo Strozzi: Per YouTube, diciamo, per poche cose che ho fatto anch'io su YouTube, appunto, nell'ultimo anno mi sono reso molto conto di quanto sia importante evitare le tangenti che sono invece abbastanza un nostro segno di marchio.
+
+592
+01:06:32,800 --> 01:06:36,640
+Roberto Marin: Un marchio di fabbrica, come si suol diceva: Difatti, su YouTube.
+
+593
+01:06:36,640 --> 01:06:39,360
+Roberto Marin: È difficile perché devi condensare tutto quanto.
+
+594
+01:06:39,360 --> 01:06:42,640
+Roberto Marin: Venite qua ce la raccontiamo come al suo solito.
+
+595
+01:06:42,640 --> 01:06:46,720
+Filippo Strozzi: Ma infatti, poi, per esempio, gli ascolti del podcast, diciamo.
+
+596
+01:06:46,540 --> 01:07:01,020
+Filippo Strozzi: che non viene neanche ditato, diciamo, noi registriamo, non lo diciamo quasi mai, ma in maniera randomica, perché non abbiamo ancora trovato un giorno fisso nell'ultimo periodo, ma noi registriamo su YouTube in diretta.
+
+597
+01:07:00,400 --> 01:07:10,880
+Filippo Strozzi: e poi dopo una volta che è finita la diretta viene tirata giù la puntata diciamo e programmata per l'uscita assieme al podcast chiamiamolo in questi termini ma ovviamente su youtube c'è
+
+598
+01:07:11,000 --> 01:07:19,400
+Filippo Strozzi: c'è la diretta, mettiamola così, nuda e cruda, senza editing, senza niente, come è veramente successo, però ovviamente
+
+599
+01:07:19,400 --> 01:07:26,680
+Filippo Strozzi: Le nostre puntate non hanno nessun tipo di riscontro ecco su YouTube, ma giustamente da un certo punto di vista, proprio perché non c'è neanche.
+
+600
+01:07:27,000 --> 01:07:28,680
+Roberto Marin: Non sono pensate per quello, tra l'altro.
+
+601
+01:07:28,680 --> 01:07:33,720
+Filippo Strozzi: Esatto, abbiamo cercato anche di fare il video, ma alla fine per mille motivi diventava troppo complicato.
+
+602
+01:07:35,200 --> 01:07:44,960
+Filippo Strozzi: limitato alla banda dalla banda di Roberto però comunque alla fine anche vederci in faccia appunto questo podcast nasce come podcast
+
+603
+01:07:44,700 --> 01:07:52,300
+Filippo Strozzi: e quindi come tale non ha molto senso dovremmo proprio ripensare anche il format per farlo in video e probabilmente
+
+604
+01:07:52,640 --> 01:08:02,559
+Roberto Marin: Potrebbe essere, ma non lo so, in realtà un format del genere magari su YouTube non potrebbe funzionare, ma magari su Twitch potrebbe avere un senso.
+
+605
+01:08:02,559 --> 01:08:03,200
+Roberto Marin: Chi lo sa?
+
+606
+01:08:03,200 --> 01:08:06,400
+Roberto Marin: Bis ragionarci su questo comunque.
+
+607
+01:08:05,859 --> 01:08:10,740
+Filippo Strozzi: Vedremo come al solito, tangente nella tangente, vai.
+
+608
+01:08:10,740 --> 01:08:12,260
+Roberto Marin: Tando al mio video.
+
+609
+01:08:12,260 --> 01:08:17,859
+Roberto Marin: Diciamo che lo dico giusto per gli ascoltatori che magari sono interessati.
+
+610
+01:08:17,600 --> 01:08:24,000
+Roberto Marin: Non è che abbia usato chissà che, anzi, proprio niente di particolarmente entusiasmante, nel senso che.
+
+611
+01:08:24,080 --> 01:08:29,359
+Filippo Strozzi: No, infatti, anzi, no, ma secondo me invece va valorizzato adesso.
+
+612
+01:08:28,900 --> 01:08:33,060
+Filippo Strozzi: Io sono quello che è l'oggettino meraviglioso, la funzione meravigliosa.
+
+613
+01:08:33,060 --> 01:08:35,620
+Filippo Strozzi: Però tu, Roberto, invece, hai la capacità.
+
+614
+01:08:35,620 --> 01:08:42,659
+Filippo Strozzi: Io, per esempio, di mettermi a fare editing con i movie non ci avrei mai pensato, cioè non mi ci metto neanche, non so se mi spiego.
+
+615
+01:08:42,100 --> 01:08:47,700
+Filippo Strozzi: Poi è vero che io faccio delle cose diverse quindi ai movie diventava diventerebbe troppo scomodo dal mio punto di vista.
+
+616
+01:08:47,700 --> 01:08:50,340
+Filippo Strozzi: Però tu ti sei messo lì con i movie.
+
+617
+01:08:49,700 --> 01:08:56,340
+Filippo Strozzi: E hai dimostrato che anche con strumenti, tra virgolette, semplici ma comunque efficaci si riesce a fare tutto.
+
+618
+01:08:56,340 --> 01:09:00,980
+Roberto Marin: Sì, sì, perché tutto sommato ho utilizzato, come diceva giustamente Filippo, iMovie.
+
+619
+01:09:01,280 --> 01:09:07,600
+Roberto Marin: Sul mio Mac, un iPhone, il microfono che sto usando adesso, in questo momento è sempre lo stesso, e basta.
+
+620
+01:09:07,600 --> 01:09:14,400
+Roberto Marin: Essenzialmente, non c'è stato nient'altro in più a parte una luce a LED che utilizzavo soltanto di tre quarti.
+
+621
+01:09:14,140 --> 01:09:19,500
+Roberto Marin: Ma è un po' più intensa di quello che sto utilizzando adesso che invece attaccato al Mac, ma niente di più.
+
+622
+01:09:19,500 --> 01:09:22,060
+Roberto Marin: Quello lì è la mia strumentazione.
+
+623
+01:09:21,500 --> 01:09:32,620
+Roberto Marin: E diciamo che quello che ho cercato appunto per soperire un po' e dare un po' di movimento a questo video sono questi famosi b-roll che mi ha fatto conoscere Filippo perché io non so neanche che si chiamassero così.
+
+624
+01:09:32,900 --> 01:09:42,659
+Roberto Marin: Poi alla fine ci ho pensato a cosa servono, come funzionano e devo dire che tutto sommato ero partito con un'idea di video che forse doveva essere più in primo piano.
+
+625
+01:09:43,160 --> 01:09:47,319
+Roberto Marin: Pensato proprio anche per questo perché dovevo un po' sfatare questa cosa qua di mettermi.
+
+626
+01:09:47,480 --> 01:09:52,359
+Roberto Marin: Era il mio primo video in cui mi si vedeva in faccia, quindi dovevo fare anche questo passaggio di gradino.
+
+627
+01:09:52,359 --> 01:09:55,400
+Roberto Marin: Ma la cosa interessante è appunto questo b-rol che.
+
+628
+01:09:55,080 --> 01:10:05,640
+Roberto Marin: sono la parte che è più divertente che mi è capitato di girare perché li facevo in giro di dieci minuti tempo di fare l'inquadratura e pensare cosa dovevo fare lo facevo e poi lo mettevo
+
+629
+01:10:05,600 --> 01:10:12,000
+Roberto Marin: su iMovie e via, buon problema risolto e mi ha aiutato un sacco a fare questa questa parte.
+
+630
+01:10:12,000 --> 01:10:15,440
+Roberto Marin: Mi ha aiutato anche tanto il tema che era tutto sommato.
+
+631
+01:10:15,360 --> 01:10:23,520
+Roberto Marin: sentito non solo da me ma visto gli ascolti anche da chi stava dall'altra parte e anche dai commenti che ho ricevuto i complimenti anche chi
+
+632
+01:10:23,940 --> 01:10:33,780
+Roberto Marin: Ringrazio anche chi mi ha dato oltre i complimenti, mi ha dato anche dei consigli per quanto riguarda il video dove migliorare perché io ho il mio punto di vista ma giustamente chi lo guarda da fuori.
+
+633
+01:10:33,760 --> 01:10:43,600
+Roberto Marin: a un'altra ottica ed è giusto ad ascoltarla e nonostante tutto quello è una cosa che ho visto proprio oggi perché ho detto vabbè dobbiamo parlare di questo argomento
+
+634
+01:10:34,100 --> 01:10:34,420
+Roberto Marin: .
+
+635
+01:10:34,420 --> 01:10:34,740
+Roberto Marin: .
+
+636
+01:10:43,560 --> 01:10:45,719
+Roberto Marin: Andiamo a vedere in effetti di che si tratta.
+
+637
+01:10:45,719 --> 01:10:53,719
+Roberto Marin: Ho notato che nella mia, diciamo, con YouTube Studio puoi vedere tutte le statistiche dell'anno, ma non solo dell'anno, anche di più se volete.
+
+638
+01:10:53,300 --> 01:11:02,579
+Roberto Marin: però io ho richiuso nell'anno perché volevo vedere un po' di che si parlava nonostante il tema fosse molto sentito di questo video che mi ha come avete sentito mi ha preso un sacco di tempo
+
+639
+01:11:02,660 --> 01:11:10,580
+Roberto Marin: però non ha superato le view o in questo caso sono le view di un altro video in cui ci ho messo probabilmente molto meno
+
+640
+01:11:10,660 --> 01:11:19,140
+Roberto Marin: ed era che riguardava l'utilizzo di Morfolio Trace per scalare un disegno vettoriale e questo video era completamente diverso
+
+641
+01:11:19,100 --> 01:11:30,780
+Roberto Marin: è un video preso di tre quarti dalla schiena che fa vedere io che disegno e spiego come utilizzare Morfolio Trace in questo caso il video è decisamente diverso e non ci sono tanti b-roll
+
+642
+01:11:30,920 --> 01:11:39,240
+Roberto Marin: nel senso che uno è il video che viene recuperato dallo schermo dell'iPad e l'altro video è quello che viene fatto dalla mia schiena quindi
+
+643
+01:11:39,300 --> 01:11:43,780
+Roberto Marin: Io sovrappongo in base a quello che mi serve questi due video qua e me la cavo con quello.
+
+644
+01:11:43,780 --> 01:11:52,500
+Roberto Marin: E tutto sommato ci ha messo meno tempo, e quindi anche questo deve aiutare chi lavora come me e sta cercando di fare queste cose qua su YouTube.
+
+645
+01:11:52,160 --> 01:11:57,920
+Roberto Marin: che non sempre cercare di arrivare a un livello che ti prende più via più tempo ti dà lo stesso risultato.
+
+646
+01:11:57,920 --> 01:12:00,640
+Roberto Marin: Può dartelo come non può dartelo, ma comunque.
+
+647
+01:12:00,540 --> 01:12:06,619
+Roberto Marin: La cosa è stata interessante, era un livello a cui volevo arrivare e ci sono arrivato e sono decisamente molto contento.
+
+648
+01:12:06,619 --> 01:12:12,940
+Roberto Marin: L'altro aspetto di cui mi sono occupato nel corso di quest'anno è migliorare la postazione del podcast che sto utilizzando in questo momento.
+
+649
+01:12:12,300 --> 01:12:18,780
+Roberto Marin: Ho messo delle luci, come vedete lì dietro per chi mi vede in video, o perlomeno chi non mi vede abbastanza pixellato.
+
+650
+01:12:18,780 --> 01:12:19,579
+Roberto Marin: Comunque ho.
+
+651
+01:12:19,579 --> 01:12:21,340
+Roberto Marin: Ti vedo solo io, comunque.
+
+652
+01:12:21,340 --> 01:12:27,020
+Roberto Marin: Quindi esatto, diciamo che ci sono sui pensili.
+
+653
+01:12:26,840 --> 01:12:34,760
+Roberto Marin: Che ci sono all'interno di questa stanza sono state montate delle luci LED per illuminare la stanza in modo molto più omogeneo.
+
+654
+01:12:34,200 --> 01:12:44,920
+Roberto Marin: e poi ho aggiunto una luce questa qua che vi parlavo prima che viene alimentata direttamente dal Mac questa è una lucetta che serve appunto quando si fanno i video
+
+655
+01:12:44,880 --> 01:12:57,199
+Roberto Marin: spiegano in tutti i tutorial che hai bisogno di una luce d'ambiente da tutte le parti, qualcosa di tendenzialmente morbido, chiamiamolo così, e poi hai bisogno di una luce di tre quarti che ti illumini il volto.
+
+656
+01:12:56,500 --> 01:13:08,180
+Roberto Marin: perché in effetti cosa succede è che ti rimane piatto perché tutte le luci che ci sono attorno ti rimane scura la sfiga vuole che avendo gli occhiali c'è sempre il riflesso che io tendo a tenere la testa bassa e non si vede
+
+657
+01:13:08,400 --> 01:13:17,120
+Roberto Marin: come faccio vedere a Filippo però come alzo un po' la testa batte subito sulla lente e si fa vedere gli occhiali sono tremendi non c'è niente da fare pazienza
+
+658
+01:13:16,800 --> 01:13:19,760
+Roberto Marin: Ce ne faremo una ragione e pazienza.
+
+659
+01:13:19,760 --> 01:13:26,800
+Roberto Marin: Il tavolo è stato sostituito, nel senso che avevo un tavolo forse un po' più diverso, un po' più grande.
+
+660
+01:13:26,640 --> 01:13:30,960
+Roberto Marin: L'ho ridotto, nel senso che avevo un tavolo con un piano da 100x60.
+
+661
+01:13:30,960 --> 01:13:38,159
+Roberto Marin: Utilizzo quello perché per fortuna io su in questa postazione, anzi, sono anche abbastanza largo, forse un po' più piccolo, però sarei anche meglio.
+
+662
+01:13:37,600 --> 01:13:46,320
+Roberto Marin: Diciamo che tiene il braccio, ho il mixer sulla sinistra, sul destro l'iPad se mi serve per prendere appunti, davanti ho il mio portatile.
+
+663
+01:13:46,540 --> 01:13:57,900
+Roberto Marin: che è di fronte a me e qui non è che occupi chissà tanto però c'è ancora abbastanza spazio sì leggermente rialzato perché ha uno stand che lo tiene leggermente alzato ma è uno stand che mi porto dietro anche quando lavoro
+
+664
+01:13:57,860 --> 01:14:05,620
+Roberto Marin: tanto da remoto e quindi quando lavoro su un tavolo qualsiasi che non sia la mia scrivania me lo porto dietro montale che sta un po più inclinato non devo tenere la testa
+
+665
+01:14:05,680 --> 01:14:12,880
+Roberto Marin: Troppo inclinata e mi faccia male al collo, un'altra cosa, ho fatto qualche piccola aggiunta che è essenzialmente un panno di
+
+666
+01:14:12,960 --> 01:14:21,040
+Roberto Marin: peltro che dovrebbe essere questo il materiale che è stato poggiato sul sul tavolo essendo di legno ed essendo laccato ovviamente qui rimbalzano tutto quanto
+
+667
+01:14:21,200 --> 01:14:30,480
+Roberto Marin: come se non ci fosse un domani e poi ho messo un pannello self made ovviamente giustamente perché l'ho visto l'ho visto perché l'ho visto qua appoggiato sul
+
+668
+01:14:30,800 --> 01:14:42,079
+Roberto Marin: sul tavolo ma forse non so se l'hai visto nell'ultima versione perché questo era rivestito con un tessuto grigio no esatto esatto rivestito e appoggiato qua sul mio fronte in modo tale che
+
+669
+01:14:41,900 --> 01:14:49,980
+Roberto Marin: le onde sonore possono rimbalzare un po' meno perché io sono in un angolo di una stanza aiuta tantissimo il microfono che non è di quelle condensatore
+
+670
+01:14:50,000 --> 01:15:01,200
+Roberto Marin: e conseguentemente essendo di quelli dinamici becca le onde fino a un certo punto quindi devo proprio risolvere la questione qua intorno e risolto anche con un piccolo tappeto che ho messo
+
+671
+01:15:00,980 --> 01:15:11,699
+Roberto Marin: sotto i miei piedi perché anche in questo senso rimbalzano un po' tutto quanto e decisamente per quello che ho io qua ho fatto dei gran miracoli e funziona bene insomma la qualità auto
+
+672
+01:15:12,160 --> 01:15:22,880
+Roberto Marin: scusate la qualità audio non è male è accettabile e quindi tutto sommato sono molto soddisfatto e poter dire anche grazie agli indizi che mi ha dato
+
+673
+01:15:23,060 --> 01:15:34,500
+Roberto Marin: Matteo Scandolin che è stato veramente di grandissimo cuore, mi ha aiutato sotto questo punto di vista sia dal punto di vista dell'equalizzazione del mixer ma anche dal punto di vista dell'intervento.
+
+674
+01:15:34,260 --> 01:15:42,900
+Roberto Marin: in seconda battuta con diciamo dei non dei filtri audio ma diciamo un un'equalizzazione audio anche sul
+
+675
+01:15:43,340 --> 01:15:47,420
+Roberto Marin: Sistema di equalizzazione, quindi sono riuscito a risolvere molto la questione così.
+
+676
+01:15:47,420 --> 01:15:56,940
+Roberto Marin: D'altra parte, però, ovviamente, c'è qualcosa di negativo: che questo negativo in quest'area è la discesa del mio blog, Mac Architettura, nel senso che
+
+677
+01:15:56,700 --> 01:16:06,220
+Roberto Marin: Devo dire che un po' me la son cercata perché quest'anno pensavo di scrivere molto di più, non ho scritto un cacchio di niente, nel senso che non è che non ho proprio scritto niente.
+
+678
+01:16:05,900 --> 01:16:17,900
+Roberto Marin: Non ho scritto dei veri e propri articoli, nel senso che lì ci sono andate a finire tutti gli aggiornamenti dei podcast che ho pubblicato, quindi Snap, Architettura Imperfetta, Archica Talks.
+
+679
+01:16:17,600 --> 01:16:21,760
+Roberto Marin: E poi anche gli articoli del blog Archicad Italia.
+
+680
+01:16:21,760 --> 01:16:29,520
+Roberto Marin: Perché ovviamente gli sforzi sono indirizzati sotto quel punto di vista, anche perché mi pagano, quindi è anche giusto che li indirizzi lì.
+
+681
+01:16:29,520 --> 01:16:32,480
+Roberto Marin: Però, d'altra parte, ho notato che.
+
+682
+01:16:31,980 --> 01:16:42,540
+Roberto Marin: Non so se un bene o un male, dovrei valutarlo in un altro momento, non ho avuto modo di pensarci troppo, che se non scrivo cose nuove comunque non si abbassa, mi aspettavo che andasse giù a picco.
+
+683
+01:16:42,540 --> 01:16:44,540
+Roberto Marin: Invece no, rimane abbastanza.
+
+684
+01:16:44,360 --> 01:16:51,320
+Roberto Marin: Costante, ha perso ancora qualcosina rispetto all'anno scorso, ma niente di così devastante come era stato negli anni precedenti.
+
+685
+01:16:51,320 --> 01:16:58,520
+Roberto Marin: Quindi c'è un futuro, anche perché devo aggiornare, chi lo sa, con calma, tranquillità, anche questo.
+
+686
+01:16:58,000 --> 01:17:05,040
+Roberto Marin: L'articolo che deriva dal test che ho fatto in parte nel video che riguarda la renderizzazione.
+
+687
+01:17:05,040 --> 01:17:12,720
+Roberto Marin: Avevo fatto un articolo apposta sul blog, che ha avuto anche quello, molto successo perché non se ne parla nel mio ambiente, non so per quale motivo.
+
+688
+01:17:12,340 --> 01:17:22,500
+Roberto Marin: Non si parla di qualcuno che pensi a fare dei test di questo tipo, ci penso io, però bisogna avere un attimo di pazienza, che ci vuole anche il tempo per portare anche la pagnotta a casa.
+
+689
+01:17:22,500 --> 01:17:25,380
+Roberto Marin: Per quanto riguarda le valutazioni dell'anno, cosa possiamo dire?
+
+690
+01:17:25,380 --> 01:17:26,900
+Roberto Marin: Dunque, come sapete.
+
+691
+01:17:26,680 --> 01:17:29,480
+Roberto Marin: Ve l'ho appena accennato, mi occupo di Archicad Tolks.
+
+692
+01:17:29,480 --> 01:17:40,920
+Roberto Marin: Mi occupo di Archicad Tolks, il podcast dedicato alla digitalizzazione, al BIM e a Archicad, perché è il podcast ufficiale di Grafisoft Italia.
+
+693
+01:17:40,500 --> 01:17:50,980
+Roberto Marin: E devo dire che quest'anno ho dato un'occhiata alle statistiche recentemente e devo dire che è un ottimo risultato dal punto di vista degli ascolti.
+
+694
+01:17:50,640 --> 01:17:58,960
+Roberto Marin: In senso assoluto perché si sta avvicinando a un totale di download con cifre a sei numeri da quando ha aperto, quindi vuol dire che sta facendo.
+
+695
+01:18:01,900 --> 01:18:08,140
+Roberto Marin: Un bel progresso non solo perché ci sono io, ma da quando ho aperto il podcast, sta migliorando ogni giorno di più.
+
+696
+01:18:08,380 --> 01:18:13,500
+Roberto Marin: La cosa che mi ha fatto abbastanza mi ha fatto molto piacere, e ho visto che l'85% di
+
+697
+01:18:14,660 --> 01:18:24,980
+Roberto Marin: questi download è stato fatto quest'anno quest'anno in cui in effetti ho fatto un anno completo quindi è stato apprezzato questo diciamo cambio di paradigma che c'è dietro
+
+698
+01:18:24,800 --> 01:18:31,520
+Roberto Marin: Ad Archicat Talks, nel senso che rispetto ai conduttori precedenti, ho dato un mio taglio personale.
+
+699
+01:18:31,840 --> 01:18:34,079
+Roberto Marin: Sembra sia stato apprezzato.
+
+700
+01:18:34,079 --> 01:18:38,239
+Roberto Marin: Dal punto di vista relativo del podcast di quest'anno.
+
+701
+01:18:37,760 --> 01:18:40,240
+Roberto Marin: Ho potuto notare che a maggio c'è stato.
+
+702
+01:18:45,480 --> 01:18:57,960
+Roberto Marin: Esplosione con un aumento di 2,5 volte degli ascolti, quindi è salito, ma la cosa interessante è che a novembre, cioè lo scorso mese, ha raggiunto 3 volte quelle di maggio.
+
+703
+01:18:58,360 --> 01:19:03,240
+Roberto Marin: Potete capire che se si guarda un attimo il grafico, ha una bella curva.
+
+704
+01:19:03,400 --> 01:19:11,320
+Roberto Marin: Non penso che lo potrà mantenere per molto, però diciamo che dal punto di vista degli ascolti, vuol dire che la strada è giusta.
+
+705
+01:19:11,320 --> 01:19:12,600
+Roberto Marin: Cioè.
+
+706
+01:19:11,760 --> 01:19:20,640
+Roberto Marin: Mi sta dicendo non tanto incensati per questo, perché è come sempre merito degli ascoltatori che ascoltano, ma mi incenso perché
+
+707
+01:19:20,940 --> 01:19:27,740
+Roberto Marin: vedo che la strada che è stata decisa è quella giusta e i risultati in qualche modo stanno arrivando.
+
+708
+01:19:29,880 --> 01:19:34,599
+Roberto Marin: via di Graphisoft, mi occupo anche del blog di Archica d'Italia.
+
+709
+01:19:34,599 --> 01:19:38,840
+Roberto Marin: Tiro fuori un articolo al mese e sono abbastanza apprezzati perché
+
+710
+01:19:39,320 --> 01:19:50,680
+Roberto Marin: Anche qui ho dato un taglio molto personale perché non sono un venditore, nel senso che non ti vuole vendere il suo prodotto, d'altra parte però sono un tecnico che utilizza il tuo prodotto e quindi ha un
+
+711
+01:19:50,840 --> 01:19:57,400
+Roberto Marin: E lo usa anche nella professione, quindi dà un taglio completamente diverso e ti dice: Per me è stato funzionale in questo senso.
+
+712
+01:19:57,400 --> 01:20:05,400
+Roberto Marin: Probabilmente lo sarà anche per te, si parla sì di Archicat, ma in realtà parlo veramente di tanti temi che riguardano questo famoso BIM.
+
+713
+01:20:05,540 --> 01:20:14,099
+Roberto Marin: Questo famoso PIM che è diventato a parte molto importante, tant'è che spesso mi sono sentito indicare come divulgatore del BIM.
+
+714
+01:20:14,179 --> 01:20:19,540
+Roberto Marin: La cosa mi fa abbastanza sorridere perché non era questa la mia intenzione, ma alla fine, ci sono caduto dentro.
+
+715
+01:20:19,119 --> 01:20:27,840
+Roberto Marin: Ma nonostante questo non voglio mettermi su un piedistallo, anzi sono quello che sta ancora imparando adesso, tant'è che sto ampliando la conoscenza.
+
+716
+01:20:27,760 --> 01:20:34,080
+Roberto Marin: di quello che è questo questa filosofia nel mondo delle costruzioni che si sta avviando verso il BIM 2.
+
+717
+01:20:34,080 --> 01:20:38,160
+Roberto Marin: 0 e di cui ne parlo su Snap architettura imperfetta, che comunque ha
+
+718
+01:20:38,260 --> 01:20:47,220
+Roberto Marin: sempre un'evoluzione devo dire che però in questo momento sto evolvendo io dal punto di vista della mia professione e di quello che sto imparando appunto grazie
+
+719
+01:20:47,440 --> 01:20:56,800
+Roberto Marin: Nonostante tutto, nel senso che non era il fine ultimo in questo senso, ma mi sta dando degli altri risultati che appunto portare avanti
+
+720
+01:20:56,780 --> 01:21:00,940
+Roberto Marin: Archicat Tolks, il podcast Snap architettura imperfetta.
+
+721
+01:21:00,940 --> 01:21:08,860
+Roberto Marin: E poi recentemente sto completando anche il corso specialistico per la figura di BIM specialist di Graphs of Italia.
+
+722
+01:21:08,860 --> 01:21:09,180
+Roberto Marin: Quindi
+
+723
+01:21:09,000 --> 01:21:15,960
+Roberto Marin: sto ampliando sotto questo punto di vista anche le mie conoscenze lo sto facendo con Luca Manelli come docente e quindi
+
+724
+01:21:16,600 --> 01:21:25,240
+Roberto Marin: La cosa è diventata molto molto interessante e soprattutto vedo proprio ormai la strada è quella, non si può più tornare indietro e bisogna abbandonare
+
+725
+01:21:25,340 --> 01:21:28,940
+Roberto Marin: La precedente tecnologia, che è quella del CAD essenzialmente.
+
+726
+01:21:28,940 --> 01:21:36,540
+Roberto Marin: Un'altra cosa che dicevo, appunto, con parlando di Luca Manelli, che ho avuto piacere di nuovo di rincontrarlo di persona quest'anno.
+
+727
+01:21:36,960 --> 01:21:48,880
+Roberto Marin: Ho incontrato anche altre persone direttamente, ho potuto parlarci di Snapper, che sono praticamente chi segue il mio podcast, ne cito due, giusto per dare dei nomi, che è Diego Bortolato, architetto anche lui.
+
+728
+01:21:48,300 --> 01:21:55,659
+Roberto Marin: e poi l'astronascente del bimen che è Mario Napolitano che è una persona molto giovane ma decisamente molto molto preparata e che mi fa molto piacere.
+
+729
+01:21:55,659 --> 01:21:56,699
+Roberto Marin: Mario Napolitano
+
+730
+01:21:57,300 --> 01:22:06,179
+Roberto Marin: Quando riusciamo, ci vediamo una volta al mese, non sempre, e facciamo un pranzo insieme, scambiamo quattro chiacchiere sul BIM e non il BIM, ed è stato molto divertente.
+
+731
+01:22:06,179 --> 01:22:11,860
+Roberto Marin: E poi, ovviamente, il pranzo con Filippo, di cui la gredi abbiamo fatto partecipe.
+
+732
+01:22:11,200 --> 01:22:21,520
+Roberto Marin: La grigliata con Filippo di cui abbiamo fatto partecipe in qualche modo perché dopo la grigliata abbiamo fatto anche la puntata insieme che è stata veramente divertente.
+
+733
+01:22:21,200 --> 01:22:31,600
+Roberto Marin: Però diciamo che dietro a questo mondo che vi ho appena raccontato comunque non è stato così tutto semplice come sembra perché poi alla fine da fuori
+
+734
+01:22:31,660 --> 01:22:37,740
+Roberto Marin: sembra tutto bello, semplice, scintillante, tutto perfetto, la tua vita è una figata e vi discorrendo.
+
+735
+01:22:37,740 --> 01:22:41,820
+Roberto Marin: Arrivano anche a me le legnate, è arrivata una bella legnata.
+
+736
+01:22:41,840 --> 01:22:52,400
+Roberto Marin: Intorno a giugno è stata abbastanza tosta quest'estate perché ve lo dico sinceramente non me la sono goduta quest'estate, nonostante sia venuto Filippo, ma non è per quello.
+
+737
+01:22:51,860 --> 01:23:00,180
+Roberto Marin: E che non avevo la presenza d'animo giusta per godermi tutto quanto come dovevo nel senso, la quella giornata che ho passato con Filippo è stata bellissima.
+
+738
+01:22:59,400 --> 01:23:01,800
+Roberto Marin: È stata molto spensierata, mi ha aiutato tanto.
+
+739
+01:23:01,800 --> 01:23:10,679
+Roberto Marin: Però nel corso dell'estate è stata veramente difficile l'estate perché ho dovuto fare una valutazione profonda, chiamiamolo così, della vita che stavo.
+
+740
+01:23:10,600 --> 01:23:11,480
+Roberto Marin: Trascorrendo.
+
+741
+01:23:11,480 --> 01:23:16,520
+Roberto Marin: È uno di quei momenti classici dove a me piace parlare molto per senso figurato.
+
+742
+01:23:16,520 --> 01:23:19,560
+Roberto Marin: Dove ti dici: ti svegli, dici cazzo, sto veramente bene.
+
+743
+01:23:19,560 --> 01:23:25,320
+Roberto Marin: Cioè, posso dire che la mia vita è, non dico perfetta, ma sono nel punto in cui volevo.
+
+744
+01:23:24,960 --> 01:23:31,280
+Roberto Marin: Tempo che finisci la parola, arriva uno, tira una bastonata sulla pancia e ti piega in due perché è così che funziona.
+
+745
+01:23:31,280 --> 01:23:34,960
+Roberto Marin: Giuro che è andata così in senso figurato.
+
+746
+01:23:34,740 --> 01:23:42,100
+Roberto Marin: Ma il risultato è stato quello, nel senso che ho dovuto rivalutare tante cose della mia vita a tutti i livelli, e
+
+747
+01:23:42,380 --> 01:23:51,020
+Roberto Marin: Francamente non so se ne sono tanto fuori, ma diciamo che la situazione complessiva mi è molto chiara e come in tutte le situazioni complessive nel momento in cui ti prendi
+
+748
+01:23:51,340 --> 01:24:04,940
+Roberto Marin: Come si può dire, prendi coscienza di quello che è, e ovviamente ci sono dei pro e dei contro, delle cose le puoi mettere a posto, delle cose te le devi far andare bene e devi cercare di fare in modo che ci siano.
+
+749
+01:24:04,340 --> 01:24:16,900
+Roberto Marin: meno danni possibili nella tua vita e altre cose purtroppo non si possono cambiare quindi c'è poco da fare non ne sono ancora come so dire fuori completamente perché con una cosa del genere ci vuole un po' di tempo
+
+750
+01:24:16,900 --> 01:24:24,260
+Roberto Marin: Devo dire che la mia idea è che forse questo dicembre me la passerò meglio come vacanza rispetto a quella di agosto.
+
+751
+01:24:24,260 --> 01:24:28,980
+Roberto Marin: Probabilmente riuscirò a riposarmi un po' di più, a tirare un po' di più il fiato.
+
+752
+01:24:28,500 --> 01:24:37,220
+Roberto Marin: Vi dico veramente che io a settembre ero senza forze perché era stata un'estate completamente difficile e avevo davanti tutta la parte di.
+
+753
+01:24:37,220 --> 01:24:37,540
+Roberto Marin: .
+
+754
+01:24:37,340 --> 01:24:38,300
+Roberto Marin: dell'autunno.
+
+755
+01:24:38,300 --> 01:24:46,140
+Roberto Marin: In questo momento mi sento altrettanto stanco ma un'altra diversa stanchezza, nel senso che so cosa mi attende e diciamo che.
+
+756
+01:24:46,240 --> 01:24:55,760
+Roberto Marin: È una cosa che mettiamola così ho subito quando ero più giovane, però questa volta ho gli strumenti, però d'altra parte ho anche tante altre cose da fare.
+
+757
+01:24:56,460 --> 01:25:04,699
+Roberto Marin: particolarmente difficile ma in ogni caso chiusa questa parentesi che come vi dicevo non è tutto scintillante da fuori questo vale per tutti
+
+758
+01:25:04,600 --> 01:25:14,600
+Roberto Marin: Nel senso che, sì, l'erba del vicino magari può sembrare più verde, ma se vi mettete dalla loro parte, vedete che le foglie magari sono marroni, non sono verde come le fa vedere a voi.
+
+759
+01:25:14,600 --> 01:25:19,400
+Filippo Strozzi: Recentemente ti ho girato una frase mitica: l'erba del vicino è sempre più verde.
+
+760
+01:25:19,200 --> 01:25:34,080
+Roberto Marin: Perché con cimata stronzate che mi ha fatto ridere un sacco, però, è perfetto ed è giustissimo, è una citazione che ci sta: ogntanto arrivano queste pillole da Filippo, che è.
+
+761
+01:25:33,000 --> 01:25:35,800
+Roberto Marin: Mi mettono sempre di buon umore, comunque, grazie Filippo.
+
+762
+01:25:35,800 --> 01:25:42,520
+Filippo Strozzi: Anche lì non è farina del mio sacco, è semplicemente la traduzione letterale del libro che sto leggendo.
+
+763
+01:25:42,760 --> 01:25:44,440
+Roberto Marin: È vero, è vero.
+
+764
+01:25:44,140 --> 01:25:55,900
+Roberto Marin: Appunto perché forse ho preso questa bastonata ma era già in itinere questa mia idea di fare più esercizio fisico perché mi sono reso conto che la mia testa funziona automaticamente molto meglio.
+
+765
+01:25:55,619 --> 01:26:03,460
+Roberto Marin: C'è poco da fare e forse anche grazie a questo esercizio fisico che il problema che ho avuto quest'ate sono riuscito a gestirlo un po' meglio, nel senso che.
+
+766
+01:26:03,460 --> 01:26:15,460
+Roberto Marin: che io credo che dal punto di vista familiare questo l'abbiano subito veramente pochissimo, cioè nel senso che forse c'è mia moglie che ogni tanto mi ha chiesto stai bene ma una o due volte ma in realtà la situazione era decisamente peggiore
+
+767
+01:26:03,619 --> 01:26:03,780
+Roberto Marin: .
+
+768
+01:26:15,100 --> 01:26:18,380
+Roberto Marin: Quindi vuol dire che di testa in effetti cero e riuscivo a gestire la questione.
+
+769
+01:26:18,460 --> 01:26:23,500
+Roberto Marin: Esercizio fisico che mi ha permesso di arrivare a un traguardo che.
+
+770
+01:26:23,300 --> 01:26:34,260
+Roberto Marin: io non mi ero francamente posto nel senso che non era la mia idea quella però alla fine il risultato che poi alla fine sono quelli che sono i numeri che ti dicono cosa cambia ho perso 18 kg 18 kg che è la mia schiena
+
+771
+01:26:34,280 --> 01:26:43,480
+Roberto Marin: Ringraziala grandissima perché voi pensate di andare in giro con uno zaino di 18 kg in giro per tutto il giorno e capite che arrivate a fine giornata in un modo con lo zaino
+
+772
+01:26:43,300 --> 01:26:49,619
+Roberto Marin: È un altro modo senza zaino a fine giornata, vi viaggiate in un altro modo.
+
+773
+01:26:49,619 --> 01:26:58,099
+Roberto Marin: Questa è una fortuna, nel senso che probabilmente il mio fisico ha iniziato a rispondere all'esercizio fisico che facevo già dall'anno prima.
+
+774
+01:26:57,900 --> 01:27:04,060
+Roberto Marin: L'anno prima devo dire che non ho avuto particolari risultati, era molto altalenante, rimanevo sempre più o meno fisso lì.
+
+775
+01:27:04,060 --> 01:27:09,420
+Roberto Marin: Invece a un certo punto ha preso il deciso e iniziato a scendere anche in casa del fatto della testa che mi ha detto.
+
+776
+01:27:09,000 --> 01:27:18,200
+Roberto Marin: Senti, ma che ne dici di sentire un po' lo stomaco per capire se sei pieno o no, e quando è ora di fermarsi e non mangiare per golosità, ad esempio.
+
+777
+01:27:09,420 --> 01:27:09,739
+Roberto Marin: .
+
+778
+01:27:09,739 --> 01:27:10,060
+Roberto Marin: .
+
+779
+01:27:18,200 --> 01:27:23,320
+Roberto Marin: E questo mi ha permesso di far scendere la bilancia di tanto.
+
+780
+01:27:23,100 --> 01:27:33,740
+Roberto Marin: Una cosa che mi ha fatto abbastanza ridere è che sulla mountain bike che utilizzo per andare in giro, in bici, c'è la forcella anteriore che è ammortizzata e che si regola appunto sul peso.
+
+781
+01:27:33,740 --> 01:27:36,780
+Roberto Marin: Quindi mi ha fatto abbastanza ridere farlo girare da.
+
+782
+01:27:36,300 --> 01:27:44,059
+Roberto Marin: Farlo abbassare piano piano, e anche questo dà un bel risultato, anche dal punto di vista visuale, non solo dal punto di vista fisico.
+
+783
+01:27:44,059 --> 01:27:45,739
+Roberto Marin: Da cosa siamo partiti?
+
+784
+01:27:45,739 --> 01:27:51,179
+Roberto Marin: A parte gli esercizi che faccio, praticamente mi sono imposto proprio recentemente di fare.
+
+785
+01:27:50,980 --> 01:27:59,460
+Roberto Marin: Esercizio fisico come se fosse un lavoro, fa parte del mio lavoro, nel senso che prendo una parte dell'orario lavorativo per fare esercizio fisico perché.
+
+786
+01:27:59,460 --> 01:27:59,540
+Roberto Marin: .
+
+787
+01:27:59,560 --> 01:28:01,560
+Roberto Marin: Quello mi aiuta a fare il lavoro meglio.
+
+788
+01:28:01,560 --> 01:28:13,560
+Roberto Marin: Quello l'ho notato perché, ad esempio, non solo dal punto di vista di testa che ci metto di meno a fare le cose perché i collegamenti arrivano prima, anche una parte del mio lavoro va anche in cantiere quindi.
+
+789
+01:28:12,400 --> 01:28:24,560
+Roberto Marin: C'è anche del movimento e conseguentemente anche riuscire a muovermi più agilmente e arrivare, vedo anche a chi mi segue che non ce la fa, perché non dico che corro sui ponteggi, ma poco ci manca.
+
+790
+01:28:24,560 --> 01:28:26,880
+Roberto Marin: Quindi sono decisamente più agile.
+
+791
+01:28:26,560 --> 01:28:30,960
+Roberto Marin: Riesco a vedere le cose prima, faccio tutte le cose prima e questo aiuta davvero tantissimo.
+
+792
+01:28:30,960 --> 01:28:40,080
+Roberto Marin: Comunque, parte tutto un po' dall'esercizio fisico, come vi dicevo: faccio una volta sì e una volta no, durante la settimana, nel senso che un giorno.
+
+793
+01:28:39,480 --> 01:28:47,960
+Roberto Marin: gli dedico non è che tanto tempo perdo mezz'ora tre quarti d'ora con la doccia e questo qui è il mio lavoro fisico ogni
+
+794
+01:28:48,740 --> 01:28:58,500
+Roberto Marin: un giorno sì, un giorno no, adesso ho aggiunto anche sulla parte no 10 minuti di esercizio fisico giusto per tenermi in allenamento però
+
+795
+01:28:58,200 --> 01:29:07,560
+Roberto Marin: non è niente di particolare, io lo chiamo allenamento funzionale perché tutto questo alla fine è nato da un problema che è saltato fuori due anni fa
+
+796
+01:29:07,300 --> 01:29:15,139
+Roberto Marin: che è arrivato dalla mia schiena che mi ha detto ok basta non ce la faccio più adesso la pianti ti fermi tre giorni a letto perché questo qui è
+
+797
+01:29:14,960 --> 01:29:24,400
+Roberto Marin: quello che mi ha fatto fare perché alla fine era un'ernia è uscita probabilmente molto poco mi è andato a beccare proprio i nervi che servivano quindi non riuscivo a muovere non riuscivo a dormire
+
+798
+01:29:24,100 --> 01:29:28,260
+Roberto Marin: Io ho detto, dall'epoca ho detto ok, basta così, va bene, ho toccato il fondo.
+
+799
+01:29:28,340 --> 01:29:38,020
+Roberto Marin: La mia schiena mi ha detto che va bene per questa vita, hai dato, nel senso che ti sei divertito fino a adesso, adesso non puoi più divertirti, mi ha detto, adesso la pianti perché se no non riesci più.
+
+800
+01:29:37,560 --> 01:29:39,560
+Roberto Marin: Arrivare magari a 80 anni in piedi.
+
+801
+01:29:39,560 --> 01:29:49,800
+Roberto Marin: E conseguentemente un po' è arrivato da questo, dalla costanza di fare questo esercizio fisico e d'altra parte utilizzo questa mountain bike che ho riscoperto piano piano.
+
+802
+01:29:49,920 --> 01:29:58,160
+Roberto Marin: anche grazie a qualche consiglio di qualche amico snapper che tra l'altro ha anche intervistato e questo mi riferisco a Michele Bondanelli che ho conosciuto grazie ad Archicatalks
+
+803
+01:29:58,200 --> 01:30:07,880
+Roberto Marin: E poi e anche lui podcast, ci siamo sentiti sui rispettivi podcast, quindi capite che anche conoscere nuove persone ti apporta, ti migliora tutto quanto.
+
+804
+01:30:07,880 --> 01:30:12,280
+Roberto Marin: Quindi devo ringraziare quest'anno anche per questo, non solo perché li ho visti di persona, ma.
+
+805
+01:30:11,560 --> 01:30:23,640
+Roberto Marin: Anche in modo indiretto mi hanno sempre dato tanto queste persone che ascoltano il podcast, che alla fine nasce tutto da lì e tutto ritorna, come notate, anche qua con Filippo ci siamo riconosciuti grazie al podcast.
+
+806
+01:30:24,600 --> 01:30:27,160
+Roberto Marin: Tutto torna, tant'è che ne facciamo uno insieme.
+
+807
+01:30:28,120 --> 01:30:38,440
+Roberto Marin: Un piccolo, diciamo, tra virgolette, in questa mountain bike famosa che utilizzo spesso tutte le settimane, nel weekend, cerco di utilizzarla appena c'è bel tempo, anche adesso.
+
+808
+01:30:38,780 --> 01:30:48,220
+Roberto Marin: è inverno, sono uscito recentemente con 4 gradi ed ero anche bello contento potete andarlo a vedere sul mio profilo instagram vedete anche dov'è che vado
+
+809
+01:30:48,320 --> 01:30:55,680
+Roberto Marin: e sono posti particolarmente belli, sono posti abbastanza incontaminati, c'è un sentiero e un sacco di alberi, sono sempre in mezzo alla natura.
+
+810
+01:30:56,420 --> 01:31:04,740
+Roberto Marin: È una mountain bike a pedalata muscolare, quindi non c'è assolutamente nessun ausilio se non richiedere aiuto alle mie gambe.
+
+811
+01:31:04,160 --> 01:31:15,280
+Roberto Marin: E come è classico nella mia vita, come avete capito, l'ho comprata usata perché secondo me spendere all'epoca costava 450 euro nuove mi sembrava un
+
+812
+01:31:15,300 --> 01:31:18,579
+Roberto Marin: Un po' un'esagerazione nel senso che soprattutto col doppio avevo comprato.
+
+813
+01:31:18,739 --> 01:31:21,540
+Roberto Marin: Non sai neanche se la userai tanto, perché poi all'inizio.
+
+814
+01:31:21,699 --> 01:31:23,860
+Roberto Marin: Infatti, però nella mia testa ho fatto il conto.
+
+815
+01:31:23,860 --> 01:31:28,900
+Roberto Marin: Ho detto sì, col doppio della cifra mi sono comprato lo scorso MacBoo Pro.
+
+816
+01:31:28,460 --> 01:31:37,739
+Roberto Marin: Quindi faccio un attimo di paragone, ho detto ok, per me è troppo quella cifra, allora sono andato a pena me l'ha usata e mi lancio essenzialmente in questi trail che sono essenzialmente dei sentieri.
+
+817
+01:31:37,200 --> 01:31:50,800
+Roberto Marin: Ho la fortuna di abitare in un posto che non sapevo fino a poco tempo fa, che adesso mi sono informato, che è pieno di sentieri, cioè io esco di casa, esco di casa, faccio 10 metri e parto con tre sentieri.
+
+818
+01:31:50,520 --> 01:32:01,320
+Roberto Marin: Quindi ho solo l'imbrazzo della scelta, prendo questi sentieri e vado verso dove voglio essenzialmente, e poi l'altro del problema è che essendo abitando in una zona collinare
+
+819
+01:32:01,480 --> 01:32:03,960
+Roberto Marin: Scendo, mi diverto, però poi devo anche risalire.
+
+820
+01:32:03,960 --> 01:32:06,199
+Roberto Marin: Quindi anche questa è una parte diventente.
+
+821
+01:32:06,199 --> 01:32:09,960
+Roberto Marin: La cosa che è interessante è che nel corso di questi mesi
+
+822
+01:32:09,800 --> 01:32:22,679
+Roberto Marin: Ho dato che certe salite che facevano veramente paura, e Filippo le ha fatte anche in macchina, adesso non dico che le faccio agilmente, ma le faccio senza pensieri, nel senso che so che riesco a farlo, il mio fisico riesce a portare.
+
+823
+01:32:22,400 --> 01:32:29,440
+Roberto Marin: Sulla bici, anche grazie al miglioramento dei muscoli, ma soprattutto allo sport e via discorrendo.
+
+824
+01:32:29,440 --> 01:32:36,080
+Roberto Marin: In questo ritaglio del mountain bike, ovviamente, ha risvegliato qualche spirito anche in famiglia, perché finalmente sono riuscito anche.
+
+825
+01:32:35,780 --> 01:32:47,940
+Roberto Marin: a regalare a mia moglie una bicicletta pedalata assistita e sono molto contento perché lei ha provato a uscire con me con la bicicletta normale ma ovviamente fa molta fatica
+
+826
+01:32:47,960 --> 01:32:54,119
+Roberto Marin: Invece, con questa penso di riuscire a portarla fuori e a fargli fare anche un po' più di chilometri, quindi si divertirà anche lui.
+
+827
+01:32:54,119 --> 01:32:58,280
+Roberto Marin: Ultima chicca, che questa la dico sempre a tutti quelli che mi guardano dimagrito così.
+
+828
+01:32:58,280 --> 01:33:02,520
+Roberto Marin: C'è stata anche mia socio che mi ha detto: sei dimagrito troppo.
+
+829
+01:33:02,620 --> 01:33:06,860
+Roberto Marin: Mi ha detto addirittura quello, ma in realtà sto benissimo, nel senso mi sento molto bene.
+
+830
+01:33:07,179 --> 01:33:12,460
+Roberto Marin: Mi prendevo in giro l'anno scorso dicendo che ho la tartaruga io sulla pancia.
+
+831
+01:33:11,900 --> 01:33:16,699
+Roberto Marin: Soltanto che è girata dall'altra parte, cioè dalla parte della pancia, cioè quindi c'era la pancia.
+
+832
+01:33:16,699 --> 01:33:26,699
+Roberto Marin: Invece adesso finalmente incomincio a riintravedere un po' di muscolatura degli addominali e una cosa che mi fa molto piacere perché ci sto anche lavorando un po' sopra.
+
+833
+01:33:26,100 --> 01:33:38,260
+Roberto Marin: Comunque, questo ovviamente non basta solo lo sforzo fisico perché non è che poi a fare lo sforzo fisico e ad andare a casa e farti 200 grammi di pasta, sto mangiando effettivamente un po' meno, ovviamente.
+
+834
+01:33:38,160 --> 01:33:42,160
+Roberto Marin: in famiglia mi ha dito tutti, ecco, non mangi per mantenere la linea e vi discorri.
+
+835
+01:33:42,160 --> 01:33:47,760
+Roberto Marin: In realtà è che a un certo punto arrivi che si tratta semplicemente che lo stomaco incomincia ad auto.
+
+836
+01:33:48,480 --> 01:33:54,320
+Roberto Marin: A riprendere le sue dimensioni normali, nel senso che se tu mangi tanto, il tuo stomaco chiede sempre tanto.
+
+837
+01:33:55,040 --> 01:33:56,239
+Roberto Marin: Se tu incominci
+
+838
+01:33:56,440 --> 01:33:57,560
+Roberto Marin: Se tu cominci a.
+
+839
+01:33:57,560 --> 01:33:57,880
+Roberto Marin: .
+
+840
+01:33:58,040 --> 01:34:04,520
+Roberto Marin: non è che abbia fatto chissà cosa, non è che sono a dieta, io mangio sempre le stesse cose e mangio, probabilmente.
+
+841
+01:34:04,920 --> 01:34:05,000
+Roberto Marin: .
+
+842
+01:34:05,580 --> 01:34:10,780
+Roberto Marin: Non è che mi tolgo delle cose, tolgo soltanto una piccola porzione di quello che mangiavo normalmente.
+
+843
+01:34:10,780 --> 01:34:15,980
+Roberto Marin: Mangio sempre le stesse cose ma un po' meno e questo mi ha dato sicuramente un aiuto.
+
+844
+01:34:15,980 --> 01:34:16,940
+Roberto Marin: Ho notato che
+
+845
+01:34:16,900 --> 01:34:30,580
+Roberto Marin: Nel momento in cui aumento, mangio un po' di più, lo sento direttamente nella testa e nello stomaco, perché sento che lo stomaco ha bisogno di più energia, quindi il mio fisico ha bisogno di più, trasferisce più energia allo stomaco per mangiare, per digerire quello che ho mangiato.
+
+846
+01:34:29,900 --> 01:34:38,060
+Roberto Marin: E la testa di conseguenza riceve anche probabilmente meno sangue, diciamo, e rimane più annebiato.
+
+847
+01:34:37,600 --> 01:34:44,400
+Roberto Marin: Chiamiamolo così, vi do questa idea qua, ma se fate un esperimento lo capirete subito bene, perché basta provarlo.
+
+848
+01:34:44,400 --> 01:34:49,600
+Roberto Marin: Invece, andando verso le ultime parti, che insomma c'è ancora qualcosina, snap.
+
+849
+01:34:49,280 --> 01:34:57,840
+Roberto Marin: Snap architettura imperfetta, devo dire che ho messo appunto il metodo, funziona, non ho più problemi, nel senso che a parte stasera che.
+
+850
+01:34:58,140 --> 01:35:06,140
+Roberto Marin: Grazie alle feste domani lo pubblicherò, ma probabilmente nel pomeriggio invece che la mattina, comunque venerdì e sono soddisfatto anche per questo.
+
+851
+01:35:05,600 --> 01:35:10,000
+Roberto Marin: E pazienza, cioè nel senso, è festa anche per me, però esce la puntata comunque.
+
+852
+01:35:10,000 --> 01:35:16,080
+Roberto Marin: Quest'anno ho dato un'occhiata alle statistiche anche prima di fare questa puntata, ho notato che.
+
+853
+01:35:15,500 --> 01:35:24,620
+Roberto Marin: All'interno del network di Runtime on Radio che ospita il mio podcast ma anche quello di Alex Traculia, Davide Gatti, e insomma c'è anche un pezzo da 90 come.
+
+854
+01:35:24,660 --> 01:35:34,580
+Roberto Marin: il nostro data nightmare di Walter Vannini e nonostante tutto Snap è il quinto per ascolti quest'anno e sono molto contento, molto fiero di questo perché insomma
+
+855
+01:35:34,500 --> 01:35:44,260
+Roberto Marin: è nato dal piccolo però piano piano sta salendo e guardando un po' l'andamento del podcast di ascolti è abbastanza costante devo dire quindi
+
+856
+01:35:44,360 --> 01:35:51,880
+Roberto Marin: Niente di nuovo, ho avuto un picco a giugno, non so per quale motivo, però ho avuto questo picco a giugno e ringraziamo tutti gli ascoltatori che hanno ascoltato a giugno.
+
+857
+01:35:51,880 --> 01:35:54,680
+Roberto Marin: La cosa interessante è che è stata inserita all'interno di Snap
+
+858
+01:35:54,660 --> 01:35:58,260
+Roberto Marin: Un inserto che mancava che è quello dei render imperfetti.
+
+859
+01:35:58,260 --> 01:36:08,020
+Roberto Marin: Che, grazie a Mariano Di Benedetto, che si è presa la briga, essendo lui molto bravo dal punto di vista dei render, segue molto la scena, ha indicato.
+
+860
+01:36:07,740 --> 01:36:21,340
+Roberto Marin: Tantissime cose che riguardano i render, che io ovviamente sono un po' carente perché non me ne occupo direttamente, invece, lui è molto sul pezzo ed è veramente stato molto piacevole perché vedo che c'è questa collaborazione che è piaciuta tantissimo anche agli ascoltatori.
+
+861
+01:36:20,900 --> 01:36:24,820
+Roberto Marin: E questo mi fa decisamente molto molto piacere.
+
+862
+01:36:24,980 --> 01:36:33,940
+Roberto Marin: Facendo un po' le somme, l'andamento di YouTube, gli iscritti sono andati oltre le mie aspettative, non è che sia chissà numeri, ma io pensavo di arrivare a 10 iscritti.
+
+863
+01:36:34,040 --> 01:36:44,600
+Roberto Marin: a fine anno invece sono molti di più non pensavo però sono molto contento ho notato che nonostante ci sia Morfolio Trace che tiene banco perché in effetti è un'applicazione verticale
+
+864
+01:36:44,640 --> 01:36:53,280
+Roberto Marin: per il disegno digitale per gli architetti vedo che anche la questione dell'hardware utilizzato per gli architetti è interessante
+
+865
+01:36:53,200 --> 01:37:03,520
+Roberto Marin: e soprattutto finalmente sciogliere in qualche modo la famosa domanda che gli architetti possono usare un Macintosh per lavorare e ovviamente darò la risposta all'interno del.
+
+866
+01:37:04,180 --> 01:37:14,980
+Roberto Marin: Grazie a Filippo, ho letto di più, sempre con MLOL, grazie alle dritte che mi dà, insomma sono sempre lì che leggo qualcosina, devo dire che questa è stata e ho dato il meglio.
+
+867
+01:37:14,400 --> 01:37:24,480
+Roberto Marin: perché nonostante la testa che stava svarionando però avevo quel momento di pace e tranquillità superiore che era durante la colazione dove c'era il mondo che dormiva ovvero
+
+868
+01:37:24,560 --> 01:37:26,880
+Roberto Marin: I miei figli e mia moglie che dormivano.
+
+869
+01:37:26,880 --> 01:37:38,080
+Roberto Marin: Io ero da solo, praticamente in cucina, potevo prepararmi la mia colazione in santa tranquillità e aprire il libro e leggevo col libro in mano, e intanto tiravo su e mangiavo.
+
+870
+01:37:37,500 --> 01:37:48,300
+Roberto Marin: E quindi era molto bello, questo mi è piaciuto e anche se poco riuscire a leggere quelle tre pagine la mattina mi ha permesso di completare un paio di libri.
+
+871
+01:37:47,760 --> 01:37:56,320
+Roberto Marin: e andare avanti comunque con altri libri che sto leggendo in questo momento in digitale seguendo la linea di Filippo ma ovviamente la sera
+
+872
+01:37:56,580 --> 01:38:01,780
+Roberto Marin: Tiro le cuoie, perché le forze sono quelle.
+
+873
+01:38:01,780 --> 01:38:06,500
+Roberto Marin: Dal punto di vista invece della mountain bike, come obiettivo, ho finito quasi la gomma.
+
+874
+01:38:06,180 --> 01:38:14,740
+Roberto Marin: Posteriore ovviamente me ne sono accorto molto adesso in inverno, perché in inverno avendo il terreno leggermente più scivoloso, avendo un po' più fango,
+
+875
+01:38:14,100 --> 01:38:22,420
+Roberto Marin: Ho notato che in effetti da gran genio che ero ho detto sì, io a fine estate arriverò a una gomma posteriore quasi finita, ma non perché freno.
+
+876
+01:38:22,719 --> 01:38:27,040
+Roberto Marin: Perché appunto ho forza di usarla, però adesso ne sto pagando le conseguenze.
+
+877
+01:38:27,040 --> 01:38:33,600
+Roberto Marin: E probabilmente a breve cambierò la gomma: perché meglio che non mi ammazzi per le discesa: esatto, le tue
+
+878
+01:38:33,860 --> 01:38:35,780
+Roberto Marin: Ho una famiglia da mantenere, diciamo.
+
+879
+01:38:35,780 --> 01:38:42,500
+Roberto Marin: Ultima cosa, che questa qui è proprio recente: e questo passaggio che grazie a Apple posso fare.
+
+880
+01:38:42,200 --> 01:38:54,040
+Roberto Marin: che è quello di abbandonare relativamente, perché lo sto facendo piano piano, non sono ancora nella fase completa di passaggio, ma sto abbandonando Notion e secondo me è anche possibile farlo.
+
+881
+01:38:53,640 --> 01:39:01,400
+Roberto Marin: grazie alla binata di promemoria e note ho già impostato la settimana come sapete
+
+882
+01:39:01,920 --> 01:39:10,080
+Roberto Marin: Mi ero impostato grazie al template di Eric Reynolds 30 by 40 Workshop, che è il mio punto di riferimento.
+
+883
+01:39:10,480 --> 01:39:16,160
+Roberto Marin: È il mio guru, nel senso lo conoscesse, e delle volte ci ho scambiato anche delle mail, molto simpatico.
+
+884
+01:39:15,800 --> 01:39:18,360
+Roberto Marin: Comunque, utilizzo quello.
+
+885
+01:39:18,360 --> 01:39:24,760
+Roberto Marin: Uzzavo quello, però ho utilizzato quella base lì che ho trasportato in promemoria e per adesso sta funzionando.
+
+886
+01:39:24,760 --> 01:39:29,400
+Roberto Marin: Devo dire che ho delle pro Memoria mi ha sorpreso perché.
+
+887
+01:39:29,100 --> 01:39:40,940
+Roberto Marin: grazie a tante piccole chicche ti permette anche di avere forse un quadro migliore di quello che pensavo, uno tra tutti per esempio impostato nel modo migliore nonostante abbia fatto questa gestione settimanale molto simile
+
+888
+01:39:40,700 --> 01:39:51,740
+Roberto Marin: a quella di Eric Reynolds però c'è questa questo diciamo elenco automatico smart che oggi che però ti dà già una bella impostazione poi soprattutto
+
+889
+01:39:51,719 --> 01:40:05,239
+Roberto Marin: Questa idea di avere l'inbox che grazie a tutta una serie di automazioni, ma di piccole chicche che ci sono all'interno di iOS e iPad OS, è possibile utilizzare, devo dire che purtroppo ho lato.
+
+890
+01:40:05,740 --> 01:40:18,460
+Roberto Marin: lato negativo della medaglia ma relativamente che note visto che ha la possibilità di fare collegamenti come link alle altre note e mi sono fatto anche lì una bellissima paginetta dove posso fare tutta la raccolta delle mie note
+
+891
+01:40:18,660 --> 01:40:27,220
+Roberto Marin: suddiviso per i vari ambienti lavorativi che vi avevo spiegato tempo fa, che avevo su Notion, adesso l'ho riportato di là, ma avendo il sistema operativo
+
+892
+01:40:27,320 --> 01:40:37,880
+Roberto Marin: del desktop indietro non posso usare il link ma è una cosa di poco conto perché comunque in realtà questa situazione della pagina di riepilogo ti viene comoda perché c'hai subito davanti
+
+893
+01:40:38,020 --> 01:40:48,340
+Roberto Marin: con i sistemi come iOS e PadOS ma invece con il Mac che hai l'elenco a sinistra che non ti occupa troppo spazio e lo puoi richiamare in qualsiasi modo ho fatto la stessa cosa
+
+894
+01:40:48,200 --> 01:40:57,400
+Roberto Marin: e così me la sono cavata, nel senso che sulla sinistra ho una specie di raggruppamento con le cartelle e sotto cartelle che anche queste sono novità che ha messo.
+
+895
+01:40:57,400 --> 01:40:57,720
+Roberto Marin: .
+
+896
+01:40:57,520 --> 01:41:05,440
+Roberto Marin: Che ha messo Apple, di cui probabilmente, forse io in prima persona non gli ho dato giusto peso, ma che in questo momento devo dire che tanto di capire,
+
+897
+01:41:05,620 --> 01:41:13,380
+Roberto Marin: C'è soltanto come dicevamo con Daniele Borghi manca soltanto la notazione Markdown in note e io veramente
+
+898
+01:41:13,800 --> 01:41:22,280
+Roberto Marin: per me Note ha vinto su tutto, perché tra le altre cose una cosa che in notion manca, anche se Filippo mi aveva dato il barbatucco per poterlo sfruttare
+
+899
+01:41:22,200 --> 01:41:36,600
+Roberto Marin: È la notazione a penna che io utilizzo tantissimo, delle note, e una cosa che è interessante, che non so se avete mai provato, ma se voi fate le nota, se prendete le note con la vostra scrittura, potete anche ricercare delle parole all'interno della vostra scrittura e le trova.
+
+900
+01:41:36,600 --> 01:41:46,120
+Roberto Marin: perché ho fatto un bel po' di esperimenti e perché io ho delle notazioni molto lunghe perché magari sto guardando un corso come quello di Beam Specialist che sto facendo oppure
+
+901
+01:41:45,960 --> 01:41:58,119
+Roberto Marin: per dei lavori che magari è una notazione che continua nel corso degli anni scusate degli anni dei mesi è una notazione che continua nei mesi e quindi mi viene comodo riuscire ad andare a beccare che ne so anche solo la data o
+
+902
+01:41:58,420 --> 01:42:05,540
+Roberto Marin: un argomento specifico che io mi sono notato a penna normalmente come se facessi su un foglietto invece ti permette di fare una ricerca avanzata.
+
+903
+01:42:05,540 --> 01:42:08,580
+Roberto Marin: Io direi che abbiamo concluso queste due ore di registrazione
+
+904
+01:42:08,760 --> 01:42:12,120
+Roberto Marin: Direi che i nostri ascoltatori hanno il sangue che esce dalle.
+
+905
+01:42:12,520 --> 01:42:16,680
+Roberto Marin: Dalle orecchie, anche tu immagino ad ascoltarmi.
+
+906
+01:42:15,800 --> 01:42:20,760
+Roberto Marin: Ma volevo chiederci se avevi qualche domanda, se no passavo direttamente alla chiusura della puntata.
+
+907
+01:42:20,760 --> 01:42:25,159
+Filippo Strozzi: No, allora direi che possiamo andare effettivamente in chiusura più che altro perché.
+
+908
+01:42:25,100 --> 01:42:36,220
+Filippo Strozzi: Sei stato molto chiaro, quindi devo dire la verità, appunto, ti ho ascoltato volentieri proprio perché alcune cose le avevo già lette ma volevo.
+
+909
+01:42:36,220 --> 01:42:36,380
+Filippo Strozzi: .
+
+910
+01:42:36,699 --> 01:42:45,500
+Filippo Strozzi: capirle meglio dalle tue stesse parole mettiamola così e appunto a questo punto visto che comunque un po' di tangenti le abbiamo prese come il nostro solito
+
+911
+01:42:45,900 --> 01:42:48,380
+Filippo Strozzi: Abbiamo fatto bene a spezzare in due la puntata, avete?
+
+912
+01:42:48,460 --> 01:42:57,900
+Roberto Marin: Eh sì, ma come mi aspettavo, perché col tema dell'anno parliamo veramente come se fossimo davanti a una birra con tanti ascoltatori che ci ascoltano.
+
+913
+01:42:57,900 --> 01:43:00,780
+Roberto Marin: E io e te che ci raccontiamo com'è andata e magari.
+
+914
+01:43:00,960 --> 01:43:10,239
+Roberto Marin: Anche i nostri ascoltatori, ripensando al loro anno, magari pensano alle stesse cose, magari danno degli spunti, magari si avvicinano a quello che è successo a noi.
+
+915
+01:43:09,800 --> 01:43:18,440
+Roberto Marin: e magari trovano anche una strada da percorrere, un indizio e quindi può essere utile per tutti quanti.
+
+916
+01:43:17,900 --> 01:43:28,620
+Roberto Marin: E quindi penso che a me piace molto il tema dell'anno, perché da quando è stato introdotto l'anno scorso mi sono molto divertito l'anno scorso e mi sto divertendo ancora quest'anno, quindi penso che si rifarà anche il prossimo anno.
+
+917
+01:43:28,620 --> 01:43:32,380
+Roberto Marin: Ma direi che davvero direi di concludere qua perché.
+
+918
+01:43:31,600 --> 01:43:33,520
+Roberto Marin: Sono due ore e siamo anche un po' strano.
+
+919
+01:43:33,600 --> 01:43:37,520
+Roberto Marin: No, un po' meno di due ore alla fine di tutta l'operazione, ma sì.
+
+920
+01:43:37,520 --> 01:43:41,280
+Roberto Marin: Certo, però comincia a diventare corposo, come si dice?
+
+921
+01:43:41,280 --> 01:43:46,480
+Roberto Marin: Se volete supportare questo corpo, ovvero il podcast, sapete come fare.
+
+922
+01:43:46,180 --> 01:43:54,980
+Roberto Marin: Una bella recensione, se volete, non è obbligatorio, bastano anche un sacco di stelline, probabilmente il numero di ispera è superiore a 4, quindi cercate di trovare la sua
+
+923
+01:43:55,060 --> 01:44:08,100
+Roberto Marin: soluzione e se volete invece scriverci due righe per sapere come va, se abbiamo risolto, oppure avere qualche idea indizio di come abbiamo risolto noi, magari vi può tornare utile, o anche semplicemente dirci.
+
+924
+01:44:07,500 --> 01:44:10,460
+Roberto Marin: Anch'io ho passato un anno così, ve lo racconto.
+
+925
+01:44:10,460 --> 01:44:17,660
+Roberto Marin: Trovate ovviamente il link all'interno del nostro episodio e io ve lo dico qua a voce: potete scrivere tutto quanto a scrivi.
+
+926
+01:44:19,660 --> 01:44:20,540
+Roberto Marin: it.
+
+927
+01:44:19,900 --> 01:44:30,380
+Roberto Marin: Se volete fare una recensione c'è una guida che ha fatto Filippo e invece non so su questa puntata se troverete tutto quanto, ma diciamo che in linea di massima troverete.
+
+928
+01:44:30,260 --> 01:44:35,460
+Roberto Marin: come sempre i link di degli strumenti o delle cose di cui abbiamo parlato all'interno dell'episodio.
+
+929
+01:44:35,460 --> 01:44:37,940
+Roberto Marin: Potete andare a visitare tutto quanto in
+
+930
+01:44:37,880 --> 01:44:38,840
+Roberto Marin: a duepodcast.
+
+931
+01:44:38,840 --> 01:44:48,520
+Roberto Marin: it slash 75 dove ci potete trovare il sottoscritto partendo dal mio blog che nonostante non sia cresciuto però è il punto di riferimento da cui tutto è partito
+
+932
+01:44:48,300 --> 01:44:56,300
+Roberto Marin: e vi rimando lì perché praticamente c'è scritto tutto lì, o perlomeno è raggruppato tutto lì, lo trovate all'indirizzo marc.
+
+933
+01:44:56,460 --> 01:44:56,860
+Roberto Marin: net.
+
+934
+01:44:57,020 --> 01:44:57,900
+Roberto Marin: wordpress.
+
+935
+01:44:58,059 --> 01:45:01,500
+Roberto Marin: com e il sito si chiama Mac e Architettura.
+
+936
+01:45:00,900 --> 01:45:02,739
+Roberto Marin: Invece Filippo, dove lo ascoltiamo?
+
+937
+01:45:02,739 --> 01:45:03,780
+Roberto Marin: O dove lo vediamo?
+
+938
+01:45:03,780 --> 01:45:05,460
+Roberto Marin: Mi trovate su avvocatemec.
+
+939
+01:45:05,699 --> 01:45:10,179
+Filippo Strozzi: it e segnalo, giusto perché a Roberto fa sempre piacere, quindi io lo dico.
+
+940
+01:45:10,980 --> 01:45:12,820
+Filippo Strozzi: È ripartito il mio.
+
+941
+01:45:12,780 --> 01:45:19,180
+Filippo Strozzi: Piccolo podcast compendium dovrebbe rimanere a cadenza messile almeno per un po'.
+
+942
+01:45:19,180 --> 01:45:20,860
+Filippo Strozzi: Mettiamola in questi termini.
+
+943
+01:45:20,719 --> 01:45:28,880
+Filippo Strozzi: Adesso ne parleremo nella prossima puntata o dei programmi per il 2024, vediamo come andranno, mettiamola così.
+
+944
+01:45:28,880 --> 01:45:32,400
+Roberto Marin: Andatevi ad ascoltare Compendium che con l'ultima puntata in cui.
+
+945
+01:45:32,560 --> 01:45:42,080
+Roberto Marin: Stiamo parlando adesso, era molto interessante il tema, l'ho ascoltato molto, molto volentieri e ovviamente lo sentite anche voi, ha dato degli spunti di riflessione su cui riflettere.
+
+946
+01:45:33,040 --> 01:45:33,360
+Roberto Marin: .
+
+947
+01:45:42,080 --> 01:45:46,880
+Roberto Marin: Io non so se dirvi se ci sentiamo tra due settimane, ma sicuramente vi possiamo dire.
+
+948
+01:45:46,340 --> 01:45:54,340
+Roberto Marin: una cosa ovvero passate tantissime belle feste di buon natale divertitevi riposatevi fate un sacco di regali pensate anche a noi se vi
+
+949
+01:45:54,460 --> 01:46:06,059
+Roberto Marin: capita che insomma ci fa sempre piacere e magari anche a capodanno come sempre passatela bene non esagerate non alzate troppo il gomito perché poi la pagate il giorno dopo
+
+950
+01:46:05,900 --> 01:46:09,900
+Roberto Marin: o anche i giorni dopo, se non fate cose troppo eccessive.
+
+951
+01:46:09,900 --> 01:46:16,620
+Roberto Marin: Noi, come sempre, cercheremo di dare una programmazione per due podcast che non vi abbandona.
+
+952
+01:46:16,620 --> 01:46:19,580
+Roberto Marin: Ci saranno un sacco di cose che vi terranno.
+
+953
+01:46:19,100 --> 01:46:30,940
+Roberto Marin: Probabilmente incollati, ma sicuramente ci sarà un'altra puntata che vi sta aspettando lì, che sta per friggere, perché la registeremo a breve, che inizierà l'anno, che dovrebbe essere l'8 gennaio, mi ricordo di bene, Filippo?
+
+954
+01:46:30,940 --> 01:46:32,140
+Roberto Marin: Sì, l'8 gennaio.
+
+955
+01:46:33,120 --> 01:46:40,080
+Roberto Marin: Il 8 gennaio ci sarà la nuova puntata dove vi faremo essenzialmente la raccolta di quello che vorremmo fare noi per il nuovo
+
+956
+01:46:40,140 --> 01:46:54,699
+Roberto Marin: anno in cui saremo che per adesso lo vediamo là col binocolo io cercherò di arrivare con le ossa intere grazie al 110 cercando di arrivare a fine anno senza che nessuno mi aspetti a casa anche se so già che almeno vi dico quattro cantieri vanno
+
+957
+01:46:55,300 --> 01:47:08,340
+Roberto Marin: fuori dal da dicembre con le lavorazioni e vediamo come se la cavano adesso vi sarà un bel punto interrogativo vedremo come andrà a finire ci sono tanti altri bei progetti di cui vi parleremo come sempre nella prossima puntata per ora
+
+958
+01:47:08,100 --> 01:47:09,860
+Roberto Marin: Rinnoviamo i nostri auguri, Filippo.
+
+959
+01:47:09,860 --> 01:47:10,500
+Roberto Marin: Fagli auguri.
+
+960
+01:47:10,580 --> 01:47:13,300
+Roberto Marin: Buongiorno a tutti, giusto?
+
+961
+01:47:13,300 --> 01:47:14,340
+Roberto Marin: E divertiti.
+
+962
+01:47:14,340 --> 01:47:20,580
+Roberto Marin: Noi ci vediamo da qualche parte su YouTube con i video, su Instagram, nel mio canale Instagram, magari mi troverete.
+
+963
+01:47:20,900 --> 01:47:22,980
+Roberto Marin: Mi lancio ancora da qualche parte perché.
+
+964
+01:47:23,100 --> 01:47:32,460
+Roberto Marin: Per altre cose non l'ho detto, uno dei miei obiettivi di questo inverno invece è mettere le ruote su una neve e lo farò, ne sono assolutamente certo, quindi vedrete magari.
+
+965
+01:47:32,360 --> 01:47:39,080
+Roberto Marin: Una pista fatta dalle orme della mia bicicletta, poi vedrete io che vi saluto.
+
+966
+01:47:32,460 --> 01:47:32,780
+Roberto Marin: .
+
+967
+01:47:32,780 --> 01:47:33,100
+Roberto Marin: .
+
+968
+01:47:39,080 --> 01:47:41,320
+Roberto Marin: E quello vi sarà il mio saluto per quest'anno.
+
+969
+01:47:41,400 --> 01:47:43,080
+Roberto Marin: Speriamo di arrivarci tranquillamente.
+
+970
+01:47:43,240 --> 01:47:47,160
+Roberto Marin: In ogni caso, divertitevi, buon riposo, buon Natale, passatevela bene.
+
+971
+01:47:47,200 --> 01:47:49,200
+Roberto Marin: Bene, iniziate un buon anno.
+
+972
+01:47:49,200 --> 01:47:50,240
+Roberto Marin: Ci sentiamo presto.
+

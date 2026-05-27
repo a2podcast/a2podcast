@@ -6,14 +6,14 @@ slug = "65"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335980/488989fa_dc54_423b_ac52_60fbfddedc63.mp3"
 spreakerEpisodeId = "64335980"
 duration = "1:42:45"
-description = "Roberto e Filippo commentano con Lucio Bragagnolo le novità hardware e software presentate ad WWDC 2023. Analisi approfondita degli annunci Apple."
+description = "Roberto e Filippo, con l'ormai immancabile Lucio Bragagnolo, commentano le novità hardware e software del WWDC 2023."
+tags = ["wwdc", "apple", "hardware", "software", "lucio-bragagnolo"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "YiFsS6oE9zs"
-tags = ["wwdc", "apple", "hardware", "software", "lucio-bragagnolo"]
-guest = "lucio-bragagnolo"
+  guest = "lucio-bragagnolo"
 +++
 
 > Roberto e Filippo, con l'ormai immancabile Lucio Bragagnolo, commentano le novità hardware e software del WWDC 2023.

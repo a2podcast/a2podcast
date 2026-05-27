@@ -6,13 +6,13 @@ slug = "42"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336009/bbffeaeb_50e5_4212_bc48_6abc939ea69b.mp3"
 spreakerEpisodeId = "64336009"
 duration = "1:12:13"
-description = "Approfondimento su Note di Apple: evoluzione, funzionalità e utilizzo su iPhone, iPad, Mac e iCloud per gestire appunti e note."
+description = "In questa puntata Roberto e Filippo fanno un approfondimento sull’applicazione Note di Apple. Gratuita, presente su iPhone, iPad e Mac o su iCloud è una semplice applicazione per gestire prendere note che tuttavia, negli ultimi anni si è evoluta in qualcosa di più."
+tags = ["apple", "note", "produttivita", "iphone", "ipad"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "PV8-yZsebIk"
-tags = ["apple", "note", "produttivita", "iphone", "ipad"]
 +++
 
 > In questa puntata Roberto e Filippo fanno un approfondimento sull’applicazione Note di Apple. Gratuita, presente su iPhone, iPad e Mac o su iCloud è una semplice applicazione per gestire prendere note che tuttavia, negli ultimi anni si è evoluta in qualcosa di più.

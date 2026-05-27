@@ -6,13 +6,13 @@ slug = "18"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336033/afee0c46_248c_413b_ae06_0f349bc9a66a.mp3"
 spreakerEpisodeId = "64336033"
 duration = "56:57"
-description = "Scopri le novità più interessanti di iOS 15 con Roberto e Filippo. Analisi approfondita delle funzioni utili per professionisti Apple, escludendo FaceTime e Messaggi."
+description = "In questa puntata Roberto e Filippo vi parlano delle novità interessanti di iOS 15."
+tags = ["iOS 15", "Apple", "novità", "iPad", "Comandi Rapidi"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "ZyV-qS_A_Gs"
-tags = ["iOS 15", "Apple", "novità", "iPad", "Comandi Rapidi"]
 +++
 
 > In questa puntata Roberto e Filippo vi parlano delle novità interessanti di iOS 15.

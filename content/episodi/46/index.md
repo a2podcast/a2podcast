@@ -6,13 +6,13 @@ slug = "46"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336000/6f31013e_d435_4349_b63b_2b65af7bf5ff.mp3"
 spreakerEpisodeId = "64336000"
 duration = "1:19:52"
-description = "Approfondimento su cosa sono i Task Manager, software per gestire progetti semplici e complessi. Scopri come sono nati, si sono sviluppati e perché utilizzarli nella tua produttività quotidiana."
+description = "In questa puntata Roberto e Filippo fanno un approfondimento su cosa sono i c.d. Task Manager (software che ti permettono di gestire progetti sia semplici che complessi), su come sono nati e si sono sviluppati, sul perché può essere utile utilizzarli."
+tags = ["task manager", "gestione progetti", "produttività", "software", "organizzazione"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "2d7ZCMniyfw"
-tags = ["task manager", "gestione progetti", "produttività", "software", "organizzazione"]
 +++
 
 > In questa puntata Roberto e Filippo fanno un approfondimento su cosa sono i c.d. Task Manager (software che ti permettono di gestire progetti sia semplici che complessi), su come sono nati e si sono sviluppati, sul perché può essere utile utilizzarli.

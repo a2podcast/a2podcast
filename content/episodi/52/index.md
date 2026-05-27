@@ -6,13 +6,13 @@ slug = "52"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335998/45a7a928_8347_4683_8d48_48407381cfdf.mp3"
 spreakerEpisodeId = "64335998"
 duration = "1:14:50"
-description = "Roberto e Filippo esplorano Keyboard Maestro, l'applicazione macOS più potente per automatizzare attività complesse. Scopri come ottimizzare la produttività con trigger e azioni."
+description = "In questa puntata di inizio anno Roberto e Filippo approfondiscono una delle applicazioni (a pagamento) più utili per automatizzare e velocizzare lo svolgimento di attività su macOS: Keyboard Maestro Comunicazioni di servizio Libro su come fare podcast dell’amico Matteo Scandolin (https://amzn.to/3i"
+tags = ["keyboard-maestro", "automazione", "macos", "produttivita", "apple"]
 draft = false
 
 [params]
   hasTranscript = false
   youtubeId = "Ad5CPa8KFUA"
-tags = ["keyboard-maestro", "automazione", "macos", "produttivita", "apple"]
 +++
 
 In questa puntata di inizio anno Roberto e Filippo approfondiscono una delle applicazioni (a pagamento) più utili per automatizzare e velocizzare lo svolgimento di attività su macOS: Keyboard Maestro
