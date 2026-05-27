@@ -1,4 +1,26 @@
 {{ if eq .Section "episodi" }}
+{{/* Convert HH:MM:SS or MM:SS duration string to ISO 8601 (PT...) for schema.org */}}
+{{ $isoDuration := "" }}
+{{ with .Params.duration }}
+  {{ $parts := split . ":" }}
+  {{/* trimLeft "0" removes leading zeros that cause Go's strconv to fail (e.g. "09") */}}
+  {{ if eq (len $parts) 3 }}
+    {{ $hs := index $parts 0 | strings.TrimLeft "0" }}{{ if eq $hs "" }}{{ $hs = "0" }}{{ end }}
+    {{ $ms := index $parts 1 | strings.TrimLeft "0" }}{{ if eq $ms "" }}{{ $ms = "0" }}{{ end }}
+    {{ $ss := index $parts 2 | strings.TrimLeft "0" }}{{ if eq $ss "" }}{{ $ss = "0" }}{{ end }}
+    {{ $h := $hs | int }}{{ $m := $ms | int }}{{ $s := $ss | int }}
+    {{ if $h }}
+      {{ $isoDuration = printf "PT%dH%dM%dS" $h $m $s }}
+    {{ else }}
+      {{ $isoDuration = printf "PT%dM%dS" $m $s }}
+    {{ end }}
+  {{ else if eq (len $parts) 2 }}
+    {{ $ms := index $parts 0 | strings.TrimLeft "0" }}{{ if eq $ms "" }}{{ $ms = "0" }}{{ end }}
+    {{ $ss := index $parts 1 | strings.TrimLeft "0" }}{{ if eq $ss "" }}{{ $ss = "0" }}{{ end }}
+    {{ $m := $ms | int }}{{ $s := $ss | int }}
+    {{ $isoDuration = printf "PT%dM%dS" $m $s }}
+  {{ end }}
+{{ end }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -18,8 +40,8 @@
   "associatedMedia": {
     "@type": "MediaObject",
     "contentUrl": "{{ .Params.audioUrl }}",
-    "encodingFormat": "audio/mpeg"{{ with .Params.duration }},
-    "duration": "{{ . }}"{{ end }}
+    "encodingFormat": "audio/mpeg"{{ if $isoDuration }},
+    "duration": "{{ $isoDuration }}"{{ end }}
   },
   "partOfSeries": {
     "@type": "PodcastSeries",
@@ -27,6 +49,17 @@
     "url": "{{ .Site.BaseURL }}"
   }{{ if .Params.hasTranscript }},
   "transcript": "{{ printf "%strascrizioni/ep-%d.srt" .Site.BaseURL .Params.episodeNumber }}"{{ end }}
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ .Site.BaseURL }}"},
+    {"@type": "ListItem", "position": 2, "name": "Episodi", "item": "{{ "episodi/" | absURL }}"},
+    {"@type": "ListItem", "position": 3, "name": "Ep. {{ .Params.episodeNumber }}", "item": "{{ .Permalink }}"}
+  ]
 }
 </script>
 {{ end }}

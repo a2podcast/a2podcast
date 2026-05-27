@@ -17,7 +17,9 @@
 <link rel="canonical" href="{{ .Permalink }}">
 
 {{/* Open Graph */}}
-<meta property="og:type"        content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+{{ $ogType := "website" }}
+{{ if and (not .IsHome) (eq .Section "episodi") }}{{ $ogType = "article" }}{{ end }}
+<meta property="og:type"        content="{{ $ogType }}">
 <meta property="og:title"       content="{{ $title }}">
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:url"         content="{{ .Permalink }}">
@@ -25,12 +27,21 @@
 <meta property="og:locale"      content="it_IT">
 <meta property="og:image"       content="{{ .Site.Params.podcastImage | absURL }}">
 <meta property="og:image:alt"   content="Logo A2 Podcast">
+<meta property="og:image:width"  content="1200">
+<meta property="og:image:height" content="630">
+{{ if eq $ogType "article" }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:author"         content="Filippo Strozzi">
+<meta property="article:author"         content="Roberto Marin">
+{{ end }}
 
 {{/* Twitter Card */}}
 <meta name="twitter:card"        content="summary">
 <meta name="twitter:title"       content="{{ $title }}">
 <meta name="twitter:description" content="{{ $desc }}">
 <meta name="twitter:image"       content="{{ .Site.Params.podcastImage | absURL }}">
+<meta name="twitter:site"        content="@a2podcast">
+<meta name="twitter:creator"     content="@StrozziFilippo">
 
 {{/* Podcast RSS autodiscovery */}}
 <link rel="alternate" type="application/rss+xml"
@@ -47,4 +58,5 @@
 {{/* Preconnect for Spreaker embed */}}
 {{ if eq .Section "episodi" }}
 <link rel="preconnect" href="https://widget.spreaker.com">
+<link rel="dns-prefetch" href="https://widget.spreaker.com">
 {{ end }}
