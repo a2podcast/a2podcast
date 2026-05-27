@@ -145,3 +145,5 @@ security: restringe img-src nella CSP
 ```
 
 **Push → deploy automatico** su Cloudflare Pages (~1 min). Non serve altro.
+
+**Regola:** quando l'utente chiede di fare commit, merge o "pubblica/deploya", eseguire sempre anche `git push` (con `gh auth switch --user a2podcast` se necessario) senza aspettare ulteriore conferma.

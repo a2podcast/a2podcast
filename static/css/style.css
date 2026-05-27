@@ -159,6 +159,10 @@ a:hover { color: var(--color-link-hover); }
   border-color: rgba(255,255,255,.6);
   color: #fff;
   background: rgba(255,255,255,.1);
+  padding: 0.35em 0.5em;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
 }
 .nav-subscribe:hover {
   background: rgba(255,255,255,.25);
