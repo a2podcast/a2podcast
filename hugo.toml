@@ -22,7 +22,7 @@ enableEmoji = false
 
 [params]
   tagline        = "Tecnologia Apple per professionisti"
-  description    = "Il podcast italiano su tecnologia Apple per avvocati e architetti. Due professionisti, Filippo e Roberto, ti spiegano come ottenere il massimo dalla tua tecnologia Apple."
+  description    = "Un podcast sull'uso della tecnologia Apple per professionisti. Filippo (avvocato) e Roberto (architetto) ti spiegano come ottenere il massimo dai tuoi dispositivi Apple in puntate monotematiche o con la partecipazione di ospiti"
   podcastTitle   = "A2 Podcast"
   podcastAuthor  = "Filippo Strozzi e Roberto Marin"
   podcastFeedUrl = "https://www.spreaker.com/show/6519470/episodes/feed"
