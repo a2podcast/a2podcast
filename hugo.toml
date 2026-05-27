@@ -35,6 +35,10 @@ enableEmoji = false
   spreakerUrl      = "https://www.spreaker.com/podcast/a2--6519470"
   youtubeUrl       = "https://www.youtube.com/@a2podcast688/streams"
 
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

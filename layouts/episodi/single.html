@@ -22,7 +22,13 @@
   {{ with .Params.youtubeId }}
   <div class="episode-youtube">
     <h2 class="episode-youtube-title">Guarda la diretta</h2>
-    {{ partial "youtube-player.html" $ }}
+    <div class="episode-youtube-embed">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ . }}"
+              title="Diretta YouTube: {{ $.Title | htmlEscape }}"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+              loading="lazy"></iframe>
+    </div>
   </div>
   {{ end }}
 
