@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "kE-ZRN-31r4"
 tags = ["ios17", "ipados17", "apple", "novità", "stage-manager"]
 +++
 

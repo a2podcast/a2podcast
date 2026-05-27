@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "HfcS717sjFM"
 tags = ["macOS", "launcher", "produttività", "applicazioni", "workflow"]
 +++
 

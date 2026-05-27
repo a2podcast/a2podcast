@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "TNTlip_nYEw"
 tags = ["dettatura vocale", "apple", "ios 16", "macOS Ventura", "accessibilità"]
 +++
 

@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "ybMrz9Nglx0"
 tags = ["ipados", "ipad", "apple pencil", "multitasking", "accessori"]
 +++
 

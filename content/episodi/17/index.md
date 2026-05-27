@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "y387qcREUBU"
 tags = ["keynote", "apple", "presentazioni", "produttività", "professionisti"]
 +++
 

@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "LyyfCF7EZ3M"
 tags = ["apple", "vision pro", "spatial computing", "wwdc 2023", "lucio-bragagnolo"]
 guest = "lucio-bragagnolo"
 +++

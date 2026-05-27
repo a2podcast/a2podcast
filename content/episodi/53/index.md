@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "zu4sk3QL7dE"
 tags = ["notion", "produttivita", "appweb", "organizzazione", "database"]
 +++
 

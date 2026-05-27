@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "ObNc3_33C4U"
 tags = ["comandi-rapidi", "automazione", "ios", "mac", "produttivita"]
 +++
 

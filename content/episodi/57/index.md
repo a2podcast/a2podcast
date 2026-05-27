@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "fJ33GN29PqU"
 tags = ["intelligenza-artificiale", "chatgpt", "apple", "assistente-vocale", "linguaggio-naturale"]
 guest = "lucio-bragagnolo"
 +++

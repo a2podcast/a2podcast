@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "X5wZSGc994w"
 tags = ["podcast", "apple", "garageband", "produzione audio", "matteo-scandolin"]
 guest = "matteo-scandolin"
 +++

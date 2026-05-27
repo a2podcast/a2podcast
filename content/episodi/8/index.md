@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "9L5K_jdat34"
 tags = ["backup", "sicurezza dati", "macos", "storage", "produttivita"]
 +++
 

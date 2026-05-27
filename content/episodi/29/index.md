@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "e2iAOeH8hXY"
 tags = ["email", "gestione posta", "produttività", "comunicazione digitale", "organizzazione"]
 +++
 

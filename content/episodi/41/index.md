@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "umdInHvrWRA"
 tags = ["promemoria", "apple", "task-manager", "produttivita", "gtd"]
 +++
 

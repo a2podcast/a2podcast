@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "FkuX6c6x-Ao"
 tags = ["fotografia", "minimale", "flusso di lavoro", "lorenzo-morandi", "apple"]
 guest = "lorenzo-morandi"
 +++

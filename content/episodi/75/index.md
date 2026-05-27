@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "N5ns5AhwH0M"
 tags = ["tema dell'anno", "propositi", "produttività", "filosofia", "riflessione personale"]
 +++
 

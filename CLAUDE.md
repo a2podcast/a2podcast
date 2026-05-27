@@ -36,6 +36,18 @@ hugo --gc --minify              # build produzione
 2. `python3 scripts/ingest.py` — scarica SRT in `static/trascrizioni/ep-NN.srt` e imposta `hasTranscript = true`
 3. Commit + push
 
+## Workflow: associare video YouTube agli episodi
+
+```bash
+python3 scripts/match-youtube.py            # recupera video dal canale, propone match interattivo
+python3 scripts/match-youtube.py --apply    # applica tutti i match automaticamente
+python3 scripts/match-youtube.py --ep 74   # solo episodio 74
+python3 scripts/match-youtube.py --dry-run # mostra match senza scrivere
+```
+
+Richiede `yt-dlp` (`pip install yt-dlp`). Per titoli anomali usa Claude Haiku (richiede `ANTHROPIC_API_KEY`).  
+In alternativa passa `--csv FILE` con un file CSV a due colonne: `ep_num,youtube_id`.
+
 ## Workflow: aggiungere/aggiornare tag episodi
 
 ```bash

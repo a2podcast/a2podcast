@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "QkACGZ2kf5M"
 tags = ["time tracking", "produttività", "gestione del tempo", "apple", "professionisti"]
 +++
 

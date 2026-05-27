@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "ZyV-qS_A_Gs"
 tags = ["iOS 15", "Apple", "novità", "iPad", "Comandi Rapidi"]
 +++
 

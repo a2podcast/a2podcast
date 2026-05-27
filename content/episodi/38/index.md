@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "9E02cYz_j3A"
 tags = ["apple", "ospiti", "bbedit", "produttività", "autori"]
 guest = "lucio-bragagnolo"
 +++

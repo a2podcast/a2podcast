@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "NSZVw0mNDXQ"
 tags = ["imovie", "montaggio-video", "apple", "video-editing", "alex-raccuglia"]
 guest = "alex-raccuglia"
 +++

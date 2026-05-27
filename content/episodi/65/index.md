@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "YiFsS6oE9zs"
 tags = ["wwdc", "apple", "hardware", "software", "lucio-bragagnolo"]
 guest = "lucio-bragagnolo"
 +++

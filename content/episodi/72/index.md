@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "ysvagMwiNMo"
 tags = ["valentina-de-poli", "apple", "produttivita", "libera-professione", "ospiti"]
 guest = "valentina-de-poli"
 +++

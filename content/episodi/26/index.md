@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "FvskHBRqOg0"
 tags = ["comandi-rapidi", "calendario", "automazione", "appuntamenti", "productivity"]
 +++
 

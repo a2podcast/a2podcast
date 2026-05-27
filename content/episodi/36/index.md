@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "CNDwUR7foBo"
 tags = ["minimalismo digitale", "mac", "produttività", "apple", "organizzazione"]
 +++
 

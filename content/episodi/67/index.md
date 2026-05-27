@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "hhgYrD93UCs"
 tags = ["value4value", "bitcoin", "podcast 2.0", "cryptomonete", "lightning"]
 +++
 

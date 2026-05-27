@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "avs0oAIX2KY"
 tags = ["franco-solerio", "podcast", "digitalia", "castamatic", "podcasting-2.0"]
 guest = "franco-solerio"
 +++

@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "3eg0MzogD7s"
 tags = ["hazel", "automazione", "macos", "archiviazione-digitale", "produttivita"]
 +++
 

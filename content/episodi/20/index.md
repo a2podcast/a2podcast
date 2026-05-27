@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "GDOYSAo3d88"
 tags = ["ideazione", "flusso-di-lavoro", "produttività", "mac", "tools"]
 +++
 

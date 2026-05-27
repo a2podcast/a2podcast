@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "r0ke_mxT2Wk"
 tags = ["minimalismo", "iphone", "ipad", "produttività", "configurazione"]
 +++
 

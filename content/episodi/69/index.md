@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "yvxU0T24v74"
 tags = ["macos", "sonoma", "apple", "gaming", "produttivita"]
 +++
 

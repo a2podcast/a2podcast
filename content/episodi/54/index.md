@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "H0QbmnCYzKE"
 tags = ["freeform", "apple", "ospiti", "produttivita", "brainstorming"]
 guest = "lucio-bragagnolo"
 +++

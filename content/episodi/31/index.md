@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "eMKVhCrSTRk"
 tags = ["ipad", "apple-pencil", "appunti", "bullet-journal", "produttivita"]
 +++
 

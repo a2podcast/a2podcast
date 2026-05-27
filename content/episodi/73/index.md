@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "J5rFZkbHcn8"
 tags = ["pkm", "gestione-conoscenza", "note-taking", "secondo-cervello", "produttivita"]
 +++
 

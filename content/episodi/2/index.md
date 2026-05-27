@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "3bx_8i2jCPo"
 tags = ["mac", "windows", "migrazione", "boot camp", "homebrew"]
 +++
 

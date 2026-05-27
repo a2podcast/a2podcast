@@ -282,9 +282,10 @@ def write_episode(ep_num: int, rss: dict, body: str, description: str,
     os.makedirs(ep_dir, exist_ok=True)
     out_path = os.path.join(ep_dir, "index.md")
 
-    # Preserve existing tags and guest if file already exists
+    # Preserve existing tags, guest, and youtubeId if file already exists
     existing_tags = ""
     existing_guest = ""
+    existing_youtube_id = ""
     if os.path.exists(out_path):
         with open(out_path, encoding="utf-8") as f:
             existing_content = f.read()
@@ -294,6 +295,9 @@ def write_episode(ep_num: int, rss: dict, body: str, description: str,
         guest_match = re.search(r'^\s*guest\s*=\s*"([^"]+)"', existing_content, re.MULTILINE)
         if guest_match:
             existing_guest = f'\n  guest = "{guest_match.group(1)}"'
+        yt_match = re.search(r'^\s*youtubeId\s*=\s*"([^"]+)"', existing_content, re.MULTILINE)
+        if yt_match:
+            existing_youtube_id = f'\n  youtubeId = "{yt_match.group(1)}"'
 
     frontmatter = f"""+++
 title = "{toml_str(rss['title'])}"
@@ -307,7 +311,7 @@ description = "{toml_str(description)}"{existing_tags}
 draft = false
 
 [params]
-  hasTranscript = {str(has_transcript).lower()}{existing_guest}
+  hasTranscript = {str(has_transcript).lower()}{existing_youtube_id}{existing_guest}
 +++
 
 {body}

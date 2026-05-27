@@ -11,6 +11,7 @@ draft = false
 
 [params]
   hasTranscript = false
+  youtubeId = "D-vqtCZFT8M"
 tags = ["tema dell'anno", "retrospettiva", "riflessioni", "planning", "a2podcast"]
 +++
 
