@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335992"
 duration = "1:31:33"
 description = "Roberto e Filippo, con l'ormai immancabile Lucio Bragagnolo, commentano le novità del WWDC 2023 sulla presentazione del Vision Pro."
-tags = ["apple", "vision pro", "spatial computing", "wwdc 2023", "lucio-bragagnolo"]
+tags = ["apple", "vision-pro", "wwdc"]
 draft = false
 
 [params]

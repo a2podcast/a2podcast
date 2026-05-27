@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336013"
 duration = "1:13:20"
 description = "In questa puntata Roberto (lasciato solo da Filippo) chiacchiera con Matteo Scandolin sul suo nuovo Mac Studio, Logic Pro e di tante altre cose …"
-tags = ["mac-studio", "logic-pro", "audio", "podcasting", "apple"]
+tags = ["audio", "podcasting", "apple"]
 draft = false
 
 [params]

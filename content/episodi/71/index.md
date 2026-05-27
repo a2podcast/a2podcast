@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335988"
 duration = "1:28:03"
 description = "In questa puntata Roberto e Filippo chiacchierano con Giuseppe Pugliese @MagnetarMan per fare un approfondimento su quanto già detto nella puntata 67."
-tags = ["crypto", "privacy", "sicurezza", "giuseppe-pugliese", "tecnologia"]
+tags = ["privacy", "sicurezza"]
 draft = false
 
 [params]

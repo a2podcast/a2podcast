@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335975"
 duration = "1:20:35"
 description = "In questa puntata Roberto e Filippo riprendo il tema diel \"secondo cervello\" e di come gestire la conoscenza e le informazioni in digitale e se e quando ha senso farlo. Sarà uno sguardo d’insieme ed un approfondimento rispetto alla puntata 39."
-tags = ["pkm", "gestione-conoscenza", "note-taking", "secondo-cervello", "produttivita"]
+tags = ["pkm", "produttivita"]
 draft = false
 
 [params]

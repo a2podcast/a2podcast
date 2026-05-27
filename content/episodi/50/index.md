@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335978"
 duration = "1:26:31"
 description = "In questa puntata Roberto e Filippo faranno un approfondimento sul programma di posta elettronica montato sui dispositivi Apple: Mail. Puntate precedenti sulle email e come gestirle 29: Email (Introduzione): il problema delle email e come cercare di risolverlo (https://a2podcast.it/29/) 32: "
-tags = ["apple-mail", "email", "mac", "iphone", "ipad"]
+tags = ["email", "mac", "iphone", "ipad"]
 draft = false
 
 [params]

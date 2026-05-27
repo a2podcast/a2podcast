@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336051"
 duration = "1:04:50"
 description = "In questa puntata il nostro ospite Alex Raccuglia parla di come montare i nostri video attraverso il programma gratuito di Apple: iMovie. Comunicazioni di servizio È operativo anche il sito ufficiale con le note degli episodi a2podcast.it (http://a2podcast.it) a2podcast.it/youtube (http://www.a2podc"
-tags = ["imovie", "montaggio-video", "apple", "video-editing", "alex-raccuglia"]
+tags = ["video", "apple"]
 draft = false
 
 [params]

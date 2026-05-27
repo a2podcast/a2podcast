@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336024"
 duration = "1:13:18"
 description = "Oggi parliamo di email. È la prima puntata di una serie (ma non credo che le registreremo in successione) in cui inizieremo ad affrontare l’argomento delle email, come funzionano, quali sono i programmi ed i servizi utili etc … ma prima di fare ciò, nella puntata di oggi, vedremo perché le email son"
-tags = ["email", "gestione posta", "produttività", "comunicazione digitale", "organizzazione"]
+tags = ["email", "produttivita", "organizzazione"]
 draft = false
 
 [params]

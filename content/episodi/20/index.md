@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336026"
 duration = "53:24"
 description = "In questa puntata Roberto e Filippo vi raccontano me \"cucinare le idee\" in digitale, quali strumenti utilizzare ed il loro flusso di lavoro."
-tags = ["ideazione", "flusso-di-lavoro", "produttività", "mac", "tools"]
+tags = ["brainstorming", "workflow", "produttivita", "mac", "app"]
 draft = false
 
 [params]

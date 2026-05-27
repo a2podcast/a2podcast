@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336030"
 duration = "1:03:05"
 description = "Nella puntata di oggi Roberto e Filippo chiacchierano con il fotografo ed architetto Lorenzo Morandi del suo flusso di lavoro “minimale” in ambito fotografico."
-tags = ["fotografia", "minimale", "flusso di lavoro", "lorenzo-morandi", "apple"]
+tags = ["fotografia", "minimale", "workflow", "apple"]
 draft = false
 
 [params]

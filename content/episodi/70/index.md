@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335974"
 duration = "1:42:25"
 description = "In questa puntata Roberto e Filippo chiacchierano con Claudia Mongini del suo workflow e delle sue varie esperienze lavorative."
-tags = ["intervista", "workflow", "esport", "sicurezza", "ospiti"]
+tags = ["intervista", "workflow", "gaming", "sicurezza", "ospite"]
 draft = false
 
 [params]

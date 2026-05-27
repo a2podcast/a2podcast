@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336022"
 duration = "1:29:58"
 description = "È con piacere che oggi ospitiamo, un amico, podcaster e (da qualche anno ormai) YouTuber: Davide Gatti. Con lui parliamo di tutto sul fonte Mac."
-tags = ["mac", "hackintosh", "pixelmator", "password-manager", "produttivita"]
+tags = ["mac", "pixelmator", "password-manager", "produttivita"]
 draft = false
 
 [params]

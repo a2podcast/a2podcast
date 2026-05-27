@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336046"
 duration = "52:04"
 description = "In questa puntata introduciamo un argomento molto caro a Filippo: l’automazione! Oggi non entreremo troppo nel dettaglio di come creare una automazione o degli specifici programmi per automatizzare con macOS e iOS / iPadOS ma ci soffermeremo sul perché è importante automatizzare e quali “trappole” d"
-tags = ["automazione", "macOS", "iOS", "produttività", "workflow"]
+tags = ["automazione", "macos", "ios", "produttivita", "workflow"]
 draft = false
 
 [params]

@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336052"
 duration = "1:32:22"
 description = "In questa puntata Roberto e Filippo aprono le danze con iOS, la sua storia, come funzionano i “gesti” del sistema touch di Apple e come è possibile passare da Android ad iOS. Poi esaminano le più importanti impostazioni di iOS per passare alle principali applicazioni pre-installate sull’iPhone. Con "
-tags = ["iOS", "Apple", "gesti touch", "migrazione Android", "sicurezza iPhone"]
+tags = ["ios", "apple", "sicurezza"]
 draft = false
 
 [params]

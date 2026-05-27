@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336039"
 duration = "1:05:34"
 description = "In questa puntata vi parliamo di come passare da Windows a Mac, le accortezze da utilizzare, di Boot Camp, Macchine virtuali, installazione da zero e come installare tutte le vecchie applicazioni del vostro Mac con MAcAppStore e Homebrew."
-tags = ["mac", "windows", "migrazione", "boot camp", "homebrew"]
+tags = ["mac", "app"]
 draft = false
 
 [params]

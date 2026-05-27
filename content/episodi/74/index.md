@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335973"
 duration = "1:12:41"
 description = "In questa puntata Roberto e Filippo hanno l’onore di ospitare Andrea Ciraolo e parlare con lui del suo flusso di lavoro, della sua esperienza non riuscita con Apple ed altro ancora."
-tags = ["flusso-di-lavoro", "produttivita", "todoist", "organizzazione", "ospiti"]
+tags = ["workflow", "produttivita", "task-manager", "organizzazione", "ospite"]
 draft = false
 
 [params]

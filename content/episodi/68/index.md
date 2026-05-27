@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336005"
 duration = "1:03:16"
 description = "Roberto e Filippo parlano delle novità di iOS e iPadOS che usciranno dopo l’evento Apple del 12 Settembre."
-tags = ["ios17", "ipados17", "apple", "novità", "stage-manager"]
+tags = ["ios", "ipados", "apple"]
 draft = false
 
 [params]

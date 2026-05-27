@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336031"
 duration = "57:55"
 description = "In questa puntata Roberto e Filippo vi parlano della gestione dei calendari digitali, delle applicazioni utili e di alcuni trucchi da conoscere per sfruttare al meglio i calendari."
-tags = ["calendari", "produttività", "applicazioni", "gestione-tempo", "apple"]
+tags = ["calendario", "produttivita", "app", "time-management", "apple"]
 draft = false
 
 [params]

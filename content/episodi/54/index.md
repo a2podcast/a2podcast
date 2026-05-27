@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335983"
 duration = "1:20:52"
 description = "In questa puntata Roberto e Filippo, assieme all’amico Lucio Bragagnolo, ti racconteranno la loro esperienza con Freeform. Freeform è uno spazio flessibile in cui riunire tutti gli elementi, come foto, forme, appunti e altro, e visualizzare rapidamente i concetti. Note episodio Cosa abbiamo fatto? T"
-tags = ["freeform", "apple", "ospiti", "produttivita", "brainstorming"]
+tags = ["app", "apple", "ospite", "produttivita", "brainstorming"]
 draft = false
 
 [params]

@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335976"
 duration = "1:08:32"
 description = "Roberto e Filippo, dopo lo speciale estivo in presenza ma non in diretta, affrontano un approfondimento sul concetto di Value 4 Value e sul suo funzionamento parlando anche delle Cryptomonete, Bitcoin e Lightning."
-tags = ["value4value", "bitcoin", "podcast 2.0", "cryptomonete", "lightning"]
+tags = ["podcasting"]
 draft = false
 
 [params]

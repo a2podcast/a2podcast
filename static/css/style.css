@@ -517,7 +517,7 @@ a:hover { color: var(--color-link-hover); }
 
 /* ── 11. YouTube player (click-to-load) ────────────────────────────── */
 .episode-youtube {
-  margin: var(--space-xl) auto;
+  margin: var(--space-xl) 0;
   width: 100%;
   max-width: 640px;
 }
@@ -530,6 +530,7 @@ a:hover { color: var(--color-link-hover); }
 
 .yt-player {
   position: relative;
+  width: 100%;
   aspect-ratio: 16 / 9;
   background: #000;
   border-radius: var(--radius);
@@ -1246,7 +1247,7 @@ details[open] .transcript-summary::before {
   overflow-y: auto;
   margin-top: var(--space-md);
   padding: var(--space-md) var(--space-lg);
-  background: var(--color-surface);
+  background: var(--color-bg-alt);
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   font-size: 0.88rem;

@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336048"
 duration = "57:37"
 description = "In questa puntata Roberto e Filippo concludono l'approfondimento sulla digitalizzazione iniziato nella scorsa puntata."
-tags = ["digitalizzazione", "organizzazione-documenti", "paperless", "ios", "productivita"]
+tags = ["organizzazione", "ios", "produttivita"]
 draft = false
 
 [params]

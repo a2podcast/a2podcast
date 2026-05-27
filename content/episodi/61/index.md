@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336004"
 duration = "1:09:14"
 description = "In questa puntata Roberto e Filippo fanno un approfondimento sul programma di videoscrittura di Apple e su quello per i fogli di calcolo rispettivamente Pages e Numbers."
-tags = ["pages", "numbers", "iwork", "apple", "produttivita"]
+tags = ["scrittura", "app", "apple", "produttivita"]
 draft = false
 
 [params]

@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336010"
 duration = "1:15:44"
 description = "In questa puntata Roberto e Filippo assieme a Lucio Bragagnolo parlano di Intelligenza Artificiale o quello che viene passato per essere e del futuro dell’assistente vocale di Apple."
-tags = ["intelligenza-artificiale", "chatgpt", "apple", "assistente-vocale", "linguaggio-naturale"]
+tags = ["intelligenza-artificiale", "apple"]
 draft = false
 
 [params]

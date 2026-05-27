@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336023"
 duration = "1:12:32"
 description = "In questa puntata Roberto e Filippo prendono spunto da un video di YouTube per parlare di come rendere minimale il proprio Mac."
-tags = ["minimalismo digitale", "mac", "produttività", "apple", "organizzazione"]
+tags = ["minimalismo", "mac", "produttivita", "apple", "organizzazione"]
 draft = false
 
 [params]

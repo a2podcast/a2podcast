@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336041"
 duration = "59:11"
 description = "Oggi parleremo delle email ma con un taglio più tecnico rispetto alla puntata 29. Infatti approfondiremo il funzionamento sotto il cofano delle email (cos'è IMAP e POP3), alcune particolarità dei servizi di posta elettronica più famosi , come rendere più sicure le email, come salvare le email sul vo"
-tags = ["email", "imap", "pop3", "sicurezza", "posta-elettronica"]
+tags = ["email", "sicurezza"]
 draft = false
 
 [params]

@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336028"
 duration = "1:01:21"
 description = "In questa puntata Bianca, Roberto e Filippo vi parlano di che cos'è un backup, perché è importante farlo e quali sono le strategie e soluzioni migliori."
-tags = ["backup", "sicurezza dati", "macos", "storage", "produttivita"]
+tags = ["backup", "sicurezza", "macos", "storage", "produttivita"]
 draft = false
 
 [params]

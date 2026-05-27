@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336050"
 duration = "1:01:02"
 description = "In questo episodio Andrea, Roberto e Filippo vi parlano di sicurezza delle password e di come utilizzare i programmi di gestione delle password per renderci la vita più semplice!"
-tags = ["sicurezza", "password", "gestori-password", "privacy", "cybersecurity"]
+tags = ["sicurezza", "password-manager", "privacy", "cybersecurity"]
 draft = false
 
 [params]

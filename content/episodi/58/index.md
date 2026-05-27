@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336012"
 duration = "1:20:34"
 description = "In questa puntata Roberto e Filippo con l'ospite d'eccezione, Alex Raccuglia, – dopo aver parlato di IA con Lucio Bragagnolo – chiacchierano di Machine Learning in salsa Apple: delle sue possibilità attuali e delle speranze future dal punto di uno sviluppatore e dell'utente finale."
-tags = ["machine-learning", "apple", "sviluppo", "ai", "alex-raccuglia"]
+tags = ["intelligenza-artificiale", "apple"]
 draft = false
 
 [params]

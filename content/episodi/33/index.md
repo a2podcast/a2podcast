@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336019"
 duration = "1:04:43"
 description = "In questa puntata Roberto e Filippo parlano di una applicazione che può interessare a tutti i nostri ascoltatori che scrivono in maniera semi-professionale, parleremo di Scrivener."
-tags = ["scrivener", "scrittura", "produttività", "apple", "software"]
+tags = ["scrittura", "produttivita", "apple", "app"]
 draft = false
 
 [params]

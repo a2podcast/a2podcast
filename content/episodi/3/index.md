@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336045"
 duration = "1:17:00"
 description = "In questa ultima puntata su come passare a Mac nel 2021 parliamo delle diversità tra Mac e Windows che potrebbero spiazzare il nuovo utente. Ci addentriamo quindi nel funzionamento di base del sistema operativo di Apple e nelle novità di Big Sur."
-tags = ["macos", "mac", "windows", "big-sur", "principianti"]
+tags = ["macos", "mac"]
 draft = false
 
 [params]

@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64402537"
 duration = "59:17"
 description = "Benvenuti in Runtime Radio!A2 Podcast è ora parte del network e questo episodio speciale live celebra questo nuovo inizio.Chi siamo? Filippo e Roberto si presentano:Filippo, avvocato specializzato nell’uso della tecnologia Apple per l’automazione del lavoro. Blogger su Avvocati e Mac.Roberto, archit"
-tags = ["runtime-radio", "podcast", "tecnologia", "community", "launch"]
+tags = ["podcast"]
 draft = false
 
 [params]

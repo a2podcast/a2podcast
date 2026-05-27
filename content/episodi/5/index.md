@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335990"
 duration = "1:21:43"
 description = "In questa puntata Roberto e Filippo vi introducono alle particolarità di iPadOS il sistema operativo degli iPad. Oltre a parlare di come funziona il multitasking di iPadOS esamineranno in dettaglio l'app File, come navigare con Safari con la modalità desktop ed infine dell'utilizzo di iPad con l’_Ap"
-tags = ["ipados", "ipad", "apple pencil", "multitasking", "accessori"]
+tags = ["ipados", "ipad", "apple-pencil", "hardware"]
 draft = false
 
 [params]

@@ -1,6 +1,6 @@
 {{ with .Params.youtubeId }}
 <div class="yt-player" data-ytid="{{ . }}">
-  <div class="yt-player-preview" onclick="var p=this.parentElement;p.classList.add('yt-player--active');var f=p.querySelector('iframe');f.src=f.dataset.src;" role="button" tabindex="0" aria-label="Guarda la diretta su YouTube">
+  <div class="yt-player-preview" onclick="var p=this.parentElement;p.classList.add('yt-player--active');var f=p.querySelector('iframe');f.src=f.dataset.src;" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();var p=this.parentElement;p.classList.add('yt-player--active');var f=p.querySelector('iframe');f.src=f.dataset.src;}" role="button" tabindex="0" aria-label="Guarda la diretta su YouTube">
     <img src="https://i.ytimg.com/vi/{{ . }}/hqdefault.jpg"
          alt="Anteprima diretta YouTube: {{ $.Title }}"
          width="480" height="360" loading="lazy">

@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335989"
 duration = "45:13"
 description = "Roberto e Filippo si trovano tra le montagna di Torino e registrano dal vivo per un episodio speciale estivo."
-tags = ["apple", "podcast", "speciale estivo", "torino", "conduttori"]
+tags = ["apple", "podcast", "speciale", "conduttori"]
 draft = false
 
 [params]

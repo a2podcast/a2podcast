@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336038"
 duration = "1:04:13"
 description = "In questo primo episodio sul paperless (ovvero digitalizzazione) Andrea, Roberto e Filippo vi parlano di come acquisire i documenti con iPhone ed iPad o con il vostro Mac."
-tags = ["paperless", "digitalizzazione", "documenti", "iphone", "organizzazione"]
+tags = ["organizzazione", "iphone"]
 draft = false
 
 [params]

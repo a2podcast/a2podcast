@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336000"
 duration = "1:19:52"
 description = "In questa puntata Roberto e Filippo fanno un approfondimento su cosa sono i c.d. Task Manager (software che ti permettono di gestire progetti sia semplici che complessi), su come sono nati e si sono sviluppati, sul perché può essere utile utilizzarli."
-tags = ["task manager", "gestione progetti", "produttività", "software", "organizzazione"]
+tags = ["task-manager", "produttivita", "app", "organizzazione"]
 draft = false
 
 [params]

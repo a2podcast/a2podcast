@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335994"
 duration = "1:47:37"
 description = "In questa puntata Roberto e Filippo parlano di come fare un podcast con gli strumenti Apple in compagnia del maestro Matteo Scandolin."
-tags = ["podcast", "apple", "garageband", "produzione audio", "matteo-scandolin"]
+tags = ["podcast", "apple", "audio"]
 draft = false
 
 [params]

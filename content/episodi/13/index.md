@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335987"
 duration = "59:33"
 description = "In questa puntata Roberto e Filippo di 10 utility da avere sul vostro Mac."
-tags = ["mac", "utility", "homebrew", "produttivita", "strumenti"]
+tags = ["mac", "app", "produttivita"]
 draft = false
 
 [params]

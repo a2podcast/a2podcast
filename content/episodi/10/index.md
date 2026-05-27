@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336040"
 duration = "1:21:58"
 description = "In questo episodio Roberto e Filippo vi parlano di Markdown e delle applicazioni per scrivere con il testo semplice!"
-tags = ["markdown", "testo-semplice", "app-scrittura", "produttività", "apple"]
+tags = ["markdown", "scrittura", "produttivita", "apple"]
 draft = false
 
 [params]

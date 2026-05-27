@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335997"
 duration = "1:01:35"
 description = "Hazel sorveglia qualsiasi cartella tu gli dica, organizzando automaticamente i tuoi file in base alle regole che gli hai dato. Chiedi a Hazel di spostare i file in base a nome, data, tipo, da quale sito proviene e molto altro. Ordina automaticamente i tuoi film o archivia le tue bollette. Tieni i tu"
-tags = ["hazel", "automazione", "macos", "archiviazione-digitale", "produttivita"]
+tags = ["automazione", "macos", "organizzazione", "produttivita"]
 draft = false
 
 [params]

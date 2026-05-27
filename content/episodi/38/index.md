@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336017"
 duration = "1:28:30"
 description = "In questa puntata Roberto e Filippo fanno 4 (o forse 8) chiacchiere con Lucio Bragagnolo: veterano Apple, autore, blogger e molto altro."
-tags = ["apple", "ospiti", "bbedit", "produttività", "autori"]
+tags = ["apple", "ospite", "bbedit", "produttivita", "autori"]
 draft = false
 
 [params]

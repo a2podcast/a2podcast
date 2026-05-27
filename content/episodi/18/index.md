@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336033"
 duration = "56:57"
 description = "In questa puntata Roberto e Filippo vi parlano delle novità interessanti di iOS 15."
-tags = ["iOS 15", "Apple", "novità", "iPad", "Comandi Rapidi"]
+tags = ["ios", "apple", "ipad", "shortcuts"]
 draft = false
 
 [params]

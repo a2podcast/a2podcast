@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335995"
 duration = "1:31:43"
 description = "In questa puntata Roberto e Filippo, accompagnati da Daniele Borghi parlano dei modelli di iPad acquistabili nel 2022 ed inizio 2023 e delle loro differente. iPad super longevi Budget o longevità? Consumare contenuti o crearli? Attività specifiche Esiste un software fondamentale per quel che si vuol"
-tags = ["ipad", "apple", "hardware", "daniele-borghi", "produttività"]
+tags = ["ipad", "apple", "hardware", "produttivita"]
 draft = false
 
 [params]

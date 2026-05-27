@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335993"
 duration = "59:59"
 description = "In questa puntata Roberto e Filippo parlano dei c.d. Launcher o lanciatori di Applicazioni, di cosa fanno e perché potrebbero esserti utili su macOS."
-tags = ["macOS", "launcher", "produttività", "applicazioni", "workflow"]
+tags = ["macos", "launcher", "produttivita", "app", "workflow"]
 draft = false
 
 [params]

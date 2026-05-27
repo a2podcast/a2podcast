@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336011"
 duration = "59:07"
 description = "Come promesso nella scorsa puntata oggi concludiamo l’approfondimento sui calendari: vedremo alcune azioni di comandi rapidi interessanti e tutta una serie di applicazioni che non sono proprio dei calendari ma che permettono di aiutare a gestire i calendari e gli appuntamenti."
-tags = ["comandi-rapidi", "calendario", "automazione", "appuntamenti", "productivity"]
+tags = ["shortcuts", "calendario", "automazione", "produttivita"]
 draft = false
 
 [params]

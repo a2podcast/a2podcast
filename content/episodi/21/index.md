@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336015"
 duration = "1:16:15"
 description = "Il 25 ottobre è uscito macOS 12, Monterey. Inoltre il 18 ottobre Apple ha presentato i nuovi proccesori \"pro\" ed i nuovi portatili. Oggi Roberto e Filippo di vi parleranno di queste novità."
-tags = ["macos", "monterey", "processori-apple", "m1-pro", "innovazione"]
+tags = ["macos", "apple-silicon"]
 draft = false
 
 [params]

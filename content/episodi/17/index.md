@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335985"
 duration = "1:13:38"
 description = "In questa puntata Roberto e Filippo approfondiscono l'utilizzo di Keynote l'applicazione gratuita di Apple per creare presentazioni."
-tags = ["keynote", "apple", "presentazioni", "produttività", "professionisti"]
+tags = ["app", "apple", "produttivita"]
 draft = false
 
 [params]

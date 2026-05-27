@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335982"
 duration = "57:37"
 description = "In questa puntata Roberto e Filippo parlano delle novità di macOS 14 Sonoma che è uscito il 26 settembre 2023."
-tags = ["macos", "sonoma", "apple", "gaming", "produttivita"]
+tags = ["macos", "apple", "gaming", "produttivita"]
 draft = false
 
 [params]

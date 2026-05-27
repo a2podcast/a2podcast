@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335979"
 duration = "1:01:30"
 description = "In questa puntata Roberto e Filippo parlano del perché è importante concentrarsi, le possibili tecniche e trucchi per farlo al meglio e come utilizzare la tecnologia Apple per avere un ulteriore aumento dell’effetto."
-tags = ["concentrazione", "time blocking", "apple", "produttività", "focus"]
+tags = ["focus", "time-management", "apple", "produttivita"]
 draft = false
 
 [params]

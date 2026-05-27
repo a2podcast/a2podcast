@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335977"
 duration = "1:04:41"
 description = "In questa puntata Roberto e Filippo esaminano le c.d. sostituzioni del testo. Digitare una serie di lettere e, a queste, si sostituisce un testo differente, abitualmente più lungo. Esaminato come funziona il principio di base ed alcuni trucchi utili da conoscere, il magico duo esaminerà i software p"
-tags = ["espansioni testo", "produttività", "mac", "iphone", "automazione"]
+tags = ["espansioni testo", "produttivita", "mac", "iphone", "automazione"]
 draft = false
 
 [params]

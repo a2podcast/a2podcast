@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336006"
 duration = "1:04:26"
 description = "In questa puntata Roberto e Filippo parlano di PKM o di gestione della conoscenza personale. LA puntata affronta la parte teorica ed individua alcune applicazioni per gestire la conoscenza personale. All’inizio Filippo e Roberto parlano anche del “nuovo” MacMini M1 di Filippo."
-tags = ["pkm", "gestione-conoscenza", "produttività", "mac", "knowledge-management"]
+tags = ["pkm", "produttivita", "mac"]
 draft = false
 
 [params]

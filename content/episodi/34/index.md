@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336035"
 duration = "1:27:54"
 description = "In questa puntata Roberto e Filippo ospitano Matteo Scandolin e chiacchierano con lui di podcast Mac e molte molte altre cose …"
-tags = ["mac", "flusso-lavoro", "ospiti", "podcast", "produttività"]
+tags = ["mac", "workflow", "ospite", "podcast", "produttivita"]
 draft = false
 
 [params]

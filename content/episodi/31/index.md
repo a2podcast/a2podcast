@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336032"
 duration = "1:03:28"
 description = "In questa puntata Roberto e Filippo concludono l'approfondimento su come usare iPad ed Apple Pencil per annotare documenti, prendere appunti ed organizzare la giornata lavorativa con il Bullet Journal."
-tags = ["ipad", "apple-pencil", "appunti", "bullet-journal", "produttivita"]
+tags = ["ipad", "apple-pencil", "note", "pkm", "produttivita"]
 draft = false
 
 [params]

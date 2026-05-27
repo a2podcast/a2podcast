@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336014"
 duration = "1:18:58"
 description = "In questa puntata Roberto e Filippo approfondiscono una web app che può fare un po' tutto: Notion."
-tags = ["notion", "produttivita", "appweb", "organizzazione", "database"]
+tags = ["pkm", "produttivita", "app", "organizzazione"]
 draft = false
 
 [params]

@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336027"
 duration = "1:11:25"
 description = "A conclusione della puntata scorsa, Roberto e Filippo parlano delle novità di iPadOS 15 ed alcune novità interessanti di Apple collegate ai nuovi sistemi operativi “mobile”."
-tags = ["ipados-15", "ios-15", "apple", "novita-sistema", "ipad"]
+tags = ["ipados", "ios", "apple", "ipad"]
 draft = false
 
 [params]

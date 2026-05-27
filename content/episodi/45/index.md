@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336003"
 duration = "1:03:54"
 description = "In questa puntata Roberto e Filippo fanno un approfondimento su come configurare il tuo iPhone o iPad in modo minimalista per ottenere di più con meno. 1. Cosa intendiamo per Minimalismo? iPhone ed iPad sono potenziali strumento di distrazione Usare bene pochi strumenti Utilizzare solo quel che è es"
-tags = ["minimalismo", "iphone", "ipad", "produttività", "configurazione"]
+tags = ["minimalismo", "iphone", "ipad", "produttivita"]
 draft = false
 
 [params]

@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335999"
 duration = "1:36:21"
 description = "In questa puntata di inizio anno Roberto e Filippo ragionano su come essere più intenzionali nel 2023 e quali tecnologie usare per farlo. Come funziona? Yearly Theme Cortex Link utili Planner cartaceo Sito (https://www.themesystem.com) Video (https://youtu.be/fSwpe8r50_o) Video spiegazione di CGP Gr"
-tags = ["tema-annuale", "produttività", "intenzionalità", "planning", "yearly-theme"]
+tags = ["tema-annuale", "produttivita", "planning"]
 draft = false
 
 [params]

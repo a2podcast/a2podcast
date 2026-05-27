@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336037"
 duration = "1:09:48"
 description = "In questa puntata Roberto e Filippo esaminano gli editor di testo dopo aver esaminato nella puntata precedente i programmi di video-scrittura."
-tags = ["editor-testo", "produttività", "apple", "markdown", "workflow"]
+tags = ["scrittura", "produttivita", "apple", "markdown", "workflow"]
 draft = false
 
 [params]

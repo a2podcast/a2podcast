@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335972"
 duration = "1:47:53"
 description = "In questa puntata Roberto e Filippo, dopo l’interesse mostrato l’anno scorso, hanno deciso di riproporre il tema dell”anno (ep. 51) per aggiornasi a vicenda e per partire col piede giusto l’anno nuovo."
-tags = ["tema dell'anno", "propositi", "produttività", "filosofia", "riflessione personale"]
+tags = ["tema-annuale", "produttivita"]
 draft = false
 
 [params]

@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335984"
 duration = "1:08:44"
 description = "In questa puntata Roberto e Filippo parlano di come tracciare il tempo e del perché è importante."
-tags = ["time tracking", "produttività", "gestione del tempo", "apple", "professionisti"]
+tags = ["time-management", "produttivita", "apple"]
 draft = false
 
 [params]

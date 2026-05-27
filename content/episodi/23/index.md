@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336043"
 duration = "1:25:01"
 description = "In questa puntata Roberto e Filippo sono in compagnia dell’amico Alex Raccuglia che ci racconterà la sua esperienza con i Mac e come, grazie alle sue capacità di programmatore, ha creato delle piccole utility (e non solo!) per velocizzare il suo flusso di lavoro di video-maker. La chiacchierata meri"
-tags = ["mac", "flusso-di-lavoro", "video-making", "automazioni", "alex-raccuglia"]
+tags = ["mac", "workflow", "video", "automazione"]
 draft = false
 
 [params]

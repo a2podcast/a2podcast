@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335998"
 duration = "1:14:50"
 description = "In questa puntata di inizio anno Roberto e Filippo approfondiscono una delle applicazioni (a pagamento) più utili per automatizzare e velocizzare lo svolgimento di attività su macOS: Keyboard Maestro Comunicazioni di servizio Libro su come fare podcast dell’amico Matteo Scandolin (https://amzn.to/3i"
-tags = ["keyboard-maestro", "automazione", "macos", "produttivita", "apple"]
+tags = ["automazione", "macos", "produttivita", "apple"]
 draft = false
 
 [params]

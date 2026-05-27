@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64335981"
 duration = "1:36:02"
 description = "In questa puntata Roberto e Filippo chiacchierano con Valentina De Poli. Parleremo della sua esperienza corporate e da libera professionista ovviamente in salsa Apple."
-tags = ["valentina-de-poli", "apple", "produttivita", "libera-professione", "ospiti"]
+tags = ["apple", "produttivita", "ospite"]
 draft = false
 
 [params]

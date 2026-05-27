@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336002"
 duration = "1:05:48"
 description = "In questa puntata Roberto e Filippo faranno un approfondimento sullo stato della dettatura vocale con i dispositivi Apple e le novità di iOS e iPadOS 16 e macOS Ventura."
-tags = ["dettatura vocale", "apple", "ios 16", "macOS Ventura", "accessibilità"]
+tags = ["shortcuts", "apple", "ios", "macos", "accessibilita"]
 draft = false
 
 [params]

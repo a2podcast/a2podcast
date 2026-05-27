@@ -7,7 +7,7 @@ audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episo
 spreakerEpisodeId = "64336008"
 duration = "55:50"
 description = "In questa puntata Roberto e Filippo parlano del perché è importante concentrarsi, le possibili tecniche e trucchi per farlo al meglio."
-tags = ["concentrazione", "produttivita", "salute", "benessere", "tecniche"]
+tags = ["focus", "produttivita"]
 draft = false
 
 [params]
