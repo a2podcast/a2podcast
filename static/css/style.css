@@ -531,7 +531,7 @@ a:hover { color: var(--color-link-hover); }
 .yt-player {
   position: relative;
   width: 100%;
-  aspect-ratio: 16 / 9;
+  padding-top: 56.25%; /* 16:9 — padding hack per Safari */
   background: #000;
   border-radius: var(--radius);
   overflow: hidden;
