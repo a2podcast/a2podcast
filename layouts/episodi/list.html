@@ -2,7 +2,7 @@
 <div class="page-wrapper">
   <header class="section-header">
     <h1 class="section-title">Episodi</h1>
-    <p class="section-description">{{ len .Site.RegularPages }} episodi su Apple e tecnologia per professionisti italiani.</p>
+    {{ with .Description }}<p class="section-description">{{ . }}</p>{{ end }}
   </header>
 
   <div class="episode-grid">

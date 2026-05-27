@@ -531,32 +531,35 @@ a:hover { color: var(--color-link-hover); }
 .yt-player {
   position: relative;
   width: 100%;
-  padding-top: 56.25%; /* 16:9 — padding hack per Safari */
+  padding-top: 56.25%; /* 16:9 */
   background: #000;
   border-radius: var(--radius);
   overflow: hidden;
   border: 1px solid var(--color-border);
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
 }
 
 .yt-player-preview {
   position: absolute;
-  inset: 0;
+  top: 0; right: 0; bottom: 0; left: 0;
   cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .yt-player-preview img {
   position: absolute;
-  inset: 0;
+  top: 0; right: 0; bottom: 0; left: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 
 .yt-play-btn {
-  position: relative;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   z-index: 1;
   background: none;
   border: none;
@@ -567,7 +570,8 @@ a:hover { color: var(--color-link-hover); }
 
 .yt-player-preview:hover .yt-play-btn,
 .yt-player-preview:focus .yt-play-btn {
-  transform: scale(1.1);
+  -webkit-transform: translate(-50%, -50%) scale(1.1);
+  transform: translate(-50%, -50%) scale(1.1);
 }
 
 .yt-player-notice {
@@ -586,7 +590,7 @@ a:hover { color: var(--color-link-hover); }
 .yt-player-iframe {
   display: none;
   position: absolute;
-  inset: 0;
+  top: 0; right: 0; bottom: 0; left: 0;
   width: 100%;
   height: 100%;
   border: 0;
