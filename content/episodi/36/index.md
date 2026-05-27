@@ -76,7 +76,7 @@ Chi è ThisisE ?
   * No wi-fi è accessibile via preferenze
   * [Bartender 4](https://www.macbartender.com/) (a pagamento)
   * [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) (gratuito)
-    * [Ep. 13 - 10 utility per Mac](https://a2podcast.fireside.fm/13)
+    * [Ep. 13 - 10 utility per Mac](https://a2podcast.it/13/)
 * Usare Spotlight
   * Accesso
     * app
@@ -85,7 +85,7 @@ Chi è ThisisE ?
     * Molto altro
   * Alternative
     * [Launchbar](https://obdev.at/products/launchbar/index.html)
-      * [Ep. 14 - Introduzione all’automazione](https://a2podcast.fireside.fm/14)
+      * [Ep. 14 - Introduzione all’automazione](https://a2podcast.it/14/)
     * [Alfred](https://www.alfredapp.com/)
 * Togliere app che non si usano spesso
   * Riscaricare quando serve con
@@ -104,7 +104,7 @@ Chi è ThisisE ?
 * Idea di installare da zero macOS o iOS per vedere veramente cosa ci manca
   * Esempi di Filippo
     * con Dropbox che non usa più
-    * Scrivener (vedi [puntata 33](https://a2podcast.fireside.fm/33))
+    * Scrivener (vedi [puntata 33](https://a2podcast.it/33/))
 
 ### Reddit su Minimalismo digitale
 

@@ -59,9 +59,9 @@ A prescindere dal come … è importante indirizzare (anche solo a grandi linee)
 ### Analogico
 - Un [planner](https://amzn.to/3XDz4qW) come quello di Cortex
 ### Digitale
-- [Goodnotes](https://www.goodnotes.com/) o simili per un approccio digital-analogico: ne abbiamo parlato nella [puntata 30](https://a2podcast.fireside.fm/31) e [31](https://a2podcast.fireside.fm/32)
+- [Goodnotes](https://www.goodnotes.com/) o simili per un approccio digital-analogico: ne abbiamo parlato nella [puntata 30](https://a2podcast.it/31/) e [31](https://a2podcast.it/32/)
 - Totalmente digitale
-	- Potenzialmente con automazioni: alcuni spunti su possibili applicazioni li puoi trovare nella [puntata 39](https://a2podcast.fireside.fm/39)
+	- Potenzialmente con automazioni: alcuni spunti su possibili applicazioni li puoi trovare nella [puntata 39](https://a2podcast.it/39/)
 
 ## Come potete sostenerci
 

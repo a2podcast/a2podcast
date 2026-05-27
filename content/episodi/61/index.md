@@ -21,7 +21,7 @@ draft = false
 
 # A2 ep.60 - iWorks - Pages e Numbers
 
-Già parlato di Keynote in [ep. 17](https://a2podcast.fireside.fm/17). Roberto segnala uso interessante anche per i video in abbinata ad iMovie.
+Già parlato di Keynote in [ep. 17](https://a2podcast.it/17/). Roberto segnala uso interessante anche per i video in abbinata ad iMovie.
 
 Non possiamo spiegare come funzionano un programma di video scrittura, un foglio di calcolo MA
 cercheremo di segnalare :

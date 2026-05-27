@@ -61,7 +61,7 @@ Circolarità delle idee
 ### Digitale 
 
 - Disegno digitale
-	- [GoodNotes](https://www.goodnotes.com/): ne abbiamo parlato nella [puntata 31 ](https://a2podcast.fireside.fm/31)del podcast.
+	- [GoodNotes](https://www.goodnotes.com/): ne abbiamo parlato nella [puntata 31 ](https://a2podcast.it/31/)del podcast.
 	- [Notability](https://notability.com/it)
 	- Altri …
 

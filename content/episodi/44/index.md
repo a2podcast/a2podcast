@@ -24,7 +24,7 @@ draft = false
 # 44 - Mac Studio e Logic Pro con Matteo Scandolin
 
 * [Cosa fa matteo](https://scandol.in/)
-* [Puntata 34 di A2 con Matteo](https://a2podcast.fireside.fm/34)
+* [Puntata 34 di A2 con Matteo](https://a2podcast.it/34/)
 * [Radio Speaker](https://www.radiospeaker.it/)
 * Microfono [Blue Yeti](https://amzn.to/3M1hcli)
 * Microfono [Behringer Xm8500 che usa Roberto](https://amzn.to/3SAjo5O)

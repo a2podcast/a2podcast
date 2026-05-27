@@ -21,6 +21,7 @@ enableEmoji = false
   ospiti  = "/ospiti/:slug/"
 
 [params]
+  tagline        = "Tecnologia Apple per professionisti"
   description    = "Il podcast italiano su tecnologia Apple per avvocati e architetti. Due professionisti, Filippo e Roberto, ti spiegano come ottenere il massimo dalla tua tecnologia Apple."
   podcastTitle   = "A2 Podcast"
   podcastAuthor  = "Filippo Strozzi e Roberto Marin"

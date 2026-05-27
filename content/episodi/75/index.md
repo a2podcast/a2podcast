@@ -20,7 +20,7 @@ draft = false
 > In questa puntata Roberto e Filippo, dopo l’interesse mostrato l’anno scorso, hanno deciso di riproporre il tema dell”anno (ep. 51) per aggiornasi a vicenda e per partire col piede giusto l’anno nuovo.
 
 # Note dell’episodio
-Abbiamo già parlato del tema nell’[episodio precedente N. 51](https://a2podcast.fireside.fm/51
+Abbiamo già parlato del tema nell’[episodio precedente N. 51](https://a2podcast.it/51/
 
 ## Breve recap del Tema dell’anno
 

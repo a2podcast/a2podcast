@@ -40,7 +40,7 @@ Non alzi le mani dalla tastiera, molto più rapidi del punta e clicca
 
 ## [Spotlight](https://support.apple.com/it-it/guide/mac-help/mchlp1008/mac)
 
-Ne abbiamo già parlato nelle puntate: [Episodio 3](https://a2podcast.fireside.fm/3)
+Ne abbiamo già parlato nelle puntate: [Episodio 3](https://a2podcast.it/3/)
 [Abbreviazione da tastiera](https://support.apple.com/it-it/guide/mac-help/mh26783/13.0/mac/13.0)
 - Personalizzazione
 con una o più lettere iniziali dell’app

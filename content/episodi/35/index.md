@@ -28,7 +28,7 @@ draft = false
 - [Cryptomator](https://cryptomator.org)
 - [1Password](https://1password.com/it/)
 - [Bitwarden](https://bitwarden.com)
-- Trovate un approfondimento sui gestori di password nella [puntata n. 9](https://a2podcast.fireside.fm/9)
+- Trovate un approfondimento sui gestori di password nella [puntata n. 9](https://a2podcast.it/9/)
 - [iMazing](https://imazing.com/it)
 
 https://imazing.com/it)

@@ -31,7 +31,7 @@ Le nuove puntate verranno pubblicate il primo lunedì del mese:
 - 12 puntate l’anno
 - Con eventuali puntate speciali: per ospiti o eventi di cui riteniamo di voler parlare
 
-Abbiamo parlato del tema dell’anno nell’[episodio precedente N. 51](https://a2podcast.fireside.fm/51)
+Abbiamo parlato del tema dell’anno nell’[episodio precedente N. 51](https://a2podcast.it/51/)
 
 ### Pianificazione multiscala (multi-scale plan)
 - Cal Newport 

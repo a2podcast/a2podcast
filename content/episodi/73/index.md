@@ -129,7 +129,7 @@ draft = false
 - Pensiero laterale
 - Link
 	- [Cucinare (in digitale) le idee](https://www.avvocati-e-mac.it/blog/2016/4/3/cucinare-in-digitale-le-idee?rq=cucinare)
-	- [Cucinare le idee A2 podcast](https://a2podcast.fireside.fm/20)
+	- [Cucinare le idee A2 podcast](https://a2podcast.it/20/)
 	- [Mac Power Users n. 82](https://www.relay.fm/mpu/82)
 
 ### Secondo Cervello
