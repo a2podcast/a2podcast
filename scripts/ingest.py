@@ -4,22 +4,29 @@ A2 Podcast — ingest.py
 Parses the Spreaker RSS feed + local episode note files and generates
 Hugo-ready content/episodi/<slug>/index.md files with TOML frontmatter.
 
+Also fetches transcripts from Spreaker API when available and saves them
+to static/trascrizioni/ep-NN.srt, setting hasTranscript = true.
+
 Run from the project root (a2podcast/):
-    pip install feedparser python-slugify
+    pip install feedparser python-slugify requests
     python3 scripts/ingest.py
 """
 
 import os
 import re
 import sys
+import time
 from datetime import datetime, timezone, timedelta
 
 import feedparser
+import requests
 from slugify import slugify
 
-FEED_URL   = "https://www.spreaker.com/show/6519470/episodes/feed"
-NOTES_DIR  = os.path.join(os.path.dirname(__file__), "..", "..", "note episodi")
-OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..", "content", "episodi")
+FEED_URL       = "https://www.spreaker.com/show/6519470/episodes/feed"
+SPREAKER_API   = "https://api.spreaker.com/v2/episodes/{ep_id}"
+NOTES_DIR      = os.path.join(os.path.dirname(__file__), "..", "..", "note episodi")
+OUTPUT_DIR     = os.path.join(os.path.dirname(__file__), "..", "content", "episodi")
+TRANSCRIPT_DIR = os.path.join(os.path.dirname(__file__), "..", "static", "trascrizioni")
 
 ROME_TZ = timezone(timedelta(hours=1))
 
@@ -135,6 +142,56 @@ def toml_str(s: str) -> str:
     return s.replace("\\", "\\\\").replace('"', '\\"')
 
 
+# ── Transcript fetching ───────────────────────────────────────────────────────
+
+def fetch_transcript(ep_num: int, spreaker_ep_id: str) -> bool:
+    """
+    Check Spreaker API for a transcript URL for the given episode.
+    If found, download and save to static/trascrizioni/ep-NN.srt.
+    Returns True if transcript was saved, False otherwise.
+    """
+    if not spreaker_ep_id:
+        return False
+
+    transcript_path = os.path.join(
+        os.path.abspath(TRANSCRIPT_DIR), f"ep-{ep_num}.srt"
+    )
+
+    # Skip download if file already exists
+    if os.path.exists(transcript_path):
+        return True
+
+    try:
+        url = SPREAKER_API.format(ep_id=spreaker_ep_id)
+        resp = requests.get(url, timeout=10)
+        if resp.status_code != 200:
+            return False
+
+        data = resp.json()
+        transcript_url = (
+            data.get("response", {})
+                .get("episode", {})
+                .get("transcription_url", "")
+        )
+        if not transcript_url:
+            return False
+
+        # Download the SRT file
+        srt_resp = requests.get(transcript_url, timeout=30)
+        if srt_resp.status_code != 200:
+            return False
+
+        os.makedirs(os.path.abspath(TRANSCRIPT_DIR), exist_ok=True)
+        with open(transcript_path, "w", encoding="utf-8") as f:
+            f.write(srt_resp.text)
+
+        print(f"    ✓ Transcript downloaded: ep-{ep_num}.srt")
+        return True
+
+    except (requests.RequestException, ValueError, KeyError):
+        return False
+
+
 # ── RSS parsing ───────────────────────────────────────────────────────────────
 
 def parse_rss() -> dict:
@@ -217,13 +274,26 @@ def parse_notes() -> dict:
 
 # ── Episode generation ────────────────────────────────────────────────────────
 
-def write_episode(ep_num: int, rss: dict, body: str, description: str, output_dir: str):
-    # Slug is just the episode number (e.g. "74" → URL /74/)
+def write_episode(ep_num: int, rss: dict, body: str, description: str,
+                  has_transcript: bool, output_dir: str):
     slug = str(ep_num)
 
     ep_dir = os.path.join(output_dir, slug)
     os.makedirs(ep_dir, exist_ok=True)
     out_path = os.path.join(ep_dir, "index.md")
+
+    # Preserve existing tags and guest if file already exists
+    existing_tags = ""
+    existing_guest = ""
+    if os.path.exists(out_path):
+        with open(out_path, encoding="utf-8") as f:
+            existing_content = f.read()
+        tags_match = re.search(r'^tags\s*=\s*(\[.*?\])', existing_content, re.MULTILINE)
+        if tags_match:
+            existing_tags = f"\ntags = {tags_match.group(1)}"
+        guest_match = re.search(r'^\s*guest\s*=\s*"([^"]+)"', existing_content, re.MULTILINE)
+        if guest_match:
+            existing_guest = f'\n  guest = "{guest_match.group(1)}"'
 
     frontmatter = f"""+++
 title = "{toml_str(rss['title'])}"
@@ -233,11 +303,11 @@ slug = "{slug}"
 audioUrl = "{toml_str(rss['audio_url'])}"
 spreakerEpisodeId = "{rss['spreaker_ep_id']}"
 duration = "{rss['duration']}"
-description = "{toml_str(description)}"
+description = "{toml_str(description)}"{existing_tags}
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = {str(has_transcript).lower()}{existing_guest}
 +++
 
 {body}
@@ -255,13 +325,13 @@ def main():
     output_dir = os.path.abspath(OUTPUT_DIR)
     os.makedirs(output_dir, exist_ok=True)
 
+    print("\nChecking transcripts via Spreaker API...")
     generated = 0
     for ep_num in sorted(rss_data.keys()):
         rss  = rss_data[ep_num]
         raw  = md_data.get(ep_num)
 
         if raw is None:
-            # No markdown file — use RSS description as placeholder body
             body        = f"> {rss['rss_description']}"
             description = rss["rss_description"]
             print(f"  EP {ep_num:02d}: no note file — using RSS description as placeholder")
@@ -269,7 +339,12 @@ def main():
             body        = clean_body(raw)
             description = extract_description(raw, fallback=rss["rss_description"])
 
-        write_episode(ep_num, rss, body, description, output_dir)
+        # Check for transcript on Spreaker API (rate-limit: small delay)
+        has_transcript = fetch_transcript(ep_num, rss["spreaker_ep_id"])
+        if rss["spreaker_ep_id"]:
+            time.sleep(0.1)  # gentle rate limiting
+
+        write_episode(ep_num, rss, body, description, has_transcript, output_dir)
         generated += 1
 
     print(f"\nDone. Generated {generated} episode files in {output_dir}")
