@@ -26,7 +26,7 @@
         <p class="host-about-role">{{ .role }}{{ with .location }} — {{ . }}{{ end }}</p>
         <div class="host-about-links">
           {{ range .links }}
-          <a href="{{ .url }}" class="host-link-pill" target="_blank" rel="me noopener noreferrer">{{ partial "host-icon.html" .icon }}{{ .label }}</a>
+          <a href="{{ .url }}" class="host-link-pill" target="_blank" rel="me noopener noreferrer">{{ partial "host-icon.html" .icon }}<span>{{ .label }}</span></a>
           {{ end }}
         </div>
       </div>

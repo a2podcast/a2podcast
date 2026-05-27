@@ -147,3 +147,20 @@ security: restringe img-src nella CSP
 **Push → deploy automatico** su Cloudflare Pages (~1 min). Non serve altro.
 
 **Regola:** quando l'utente chiede di fare commit, merge o "pubblica/deploya", eseguire sempre anche `git push` (con `gh auth switch --user a2podcast` se necessario) senza aspettare ulteriore conferma.
+
+---
+
+## Check di fine attività (suggerire sempre a fine sessione)
+
+Al termine di ogni sessione di lavoro significativa, suggerire proattivamente:
+
+```bash
+hugo --gc --minify   # build senza errori prima del commit finale
+```
+
+E verificare che siano stati aggiornati:
+- `SEO-ottimizzazione.md` — se sono state fatte modifiche SEO, UI o ai contenuti
+- `ARCHITETTURA.md` — se sono stati aggiunti/modificati/rimossi file di sistema (template, script, CSS)
+- Commit e push di tutti i file modificati inclusi i documenti
+
+**Non aspettare che l'utente lo chieda.** Proporre il check al termine naturale di ogni attività.

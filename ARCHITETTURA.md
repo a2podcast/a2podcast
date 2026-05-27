@@ -106,11 +106,12 @@ a2podcast/
 │       ├── episode-card.html        # card riusabile (home + lista)
 │       ├── audio-player.html        # embed Spreaker iframe
 │       ├── hosts-contact.html       # "Dove ci potete trovare" da data/hosts.toml
+│       ├── host-icon.html           # SVG inline per icone link host (web/twitter/linkedin/youtube/podcast)
 │       ├── schema-podcast.html      # JSON-LD PodcastSeries (ogni pagina)
 │       ├── schema-episode.html      # JSON-LD PodcastEpisode (solo episodi)
 │       └── matomo.html              # snippet analytics Matomo
 ├── static/
-│   ├── css/style.css                # CSS (~1100 righe, no framework, mobile-first)
+│   ├── css/style.css                # CSS (~1270 righe, no framework, mobile-first)
 │   ├── js/matomo.js                 # snippet Matomo estratto (richiesto da CSP)
 │   ├── img/logo.jpg                 # logo podcast (usato in OG e JSON-LD)
 │   ├── _headers                     # Cloudflare Pages: HTTP headers, CSP, cache
@@ -119,6 +120,8 @@ a2podcast/
 └── scripts/
     ├── ingest.py                    # genera content/episodi/ da RSS + note MD
     ├── tag-episodes.py              # aggiunge tag agli episodi via Claude API
+    ├── match-youtube.py             # associa video YouTube agli episodi (interattivo o --apply)
+    ├── fix-fireside-links.py        # sostituisce link a2podcast.fireside.fm → a2podcast.it
     └── requirements.txt             # feedparser, python-slugify
 ```
 

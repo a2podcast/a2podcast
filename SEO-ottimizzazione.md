@@ -64,6 +64,27 @@ Documento cronologico degli interventi SEO sul sito a2podcast.it.
 
 ---
 
+## Fase 3 — Maggio 2026 (UI/UX e contenuto)
+
+### Sezione "Dove ci potete trovare?" — link con icone
+- Aggiunto `layouts/partials/host-icon.html`: SVG inline per 5 tipi di link (web/globo, twitter/X, linkedin, youtube, podcast/microfono)
+- `hosts-contact.html` e `about/single.html`: link diventano pill con icona + span label (gap flexbox funzionante)
+- `data/hosts.toml`: aggiunto link "Avvocati e Mac: Compendium" (`icon = "podcast"`) per Filippo
+- Stile pill: sfondo rosso brand `#c13a0a`, testo e icona bianchi, hover scurisce a `brand-dark`
+
+### Player YouTube nelle pagine episodio
+- `.episode-youtube` portato da `max-width: 1100px` a `max-width: 640px` centrato — video a larghezza media (~60%), non più ristretto alla colonna testo
+
+### Fix contenuto episodi
+- Rimossi blockquote duplicati in ep. 75 e 76 (la descrizione appariva due volte sotto il video)
+- 11 episodi: link `a2podcast.fireside.fm` sostituiti con `a2podcast.it` via script `fix-fireside-links.py`
+
+### Testi
+- Homepage hero: testo aggiornato con nuova formulazione
+- Meta description globale sito aggiornata (più specifica, introduce professioni dei conduttori)
+
+---
+
 ## Cosa è stato valutato e scartato
 
 | Intervento | Motivo del no |
