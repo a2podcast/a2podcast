@@ -14,6 +14,7 @@ Ospitato su Spreaker, network Runtime Radio da feb 2025.
 hugo server -D                  # dev server locale
 python3 scripts/ingest.py       # sincronizza episodi da RSS + note
 hugo --gc --minify              # build produzione
+python3 scripts/test-site.py   # test automatici completi (build + HTTP + frontmatter)
 ```
 
 ---
