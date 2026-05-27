@@ -85,6 +85,28 @@ Documento cronologico degli interventi SEO sul sito a2podcast.it.
 
 ---
 
+## Fase 4 — Maggio 2026 (tag, YouTube, pagina episodi)
+
+### Normalizzazione tag
+- Ridotti da 167 tag caotici a **60 tag canonici** tramite `scripts/normalize-tags.py`
+- Eliminati: nomi propri ospiti (già gestiti da pagine `/ospiti/`), versioni OS specifiche (ios-15, monterey, sonoma → tag generico), tag irrilevanti o troppo specifici
+- Normalizzati: maiuscolo → minuscolo, spazi → trattini, accenti rimossi (`produttività` → `produttivita`)
+- Impatto SEO: pagine tag più dense e significative, meno pagine thin con 1–2 episodi
+
+### Player YouTube riscritto
+- Sostituito player click-to-load custom (CSS complesso, JavaScript) con iframe diretto `youtube-nocookie.com`
+- Aggiunto `[privacy.youtube] privacyEnhanced = true` in `hugo.toml`
+- Video centrato (`margin: auto`) e allargato a `max-width: 800px`
+- Nessun cambiamento SEO diretto, ma migliore UX su tutti i browser (Safari, Chromium)
+
+### Pagina /episodi/ — description SEO
+- Rimosso conteggio hardcoded errato (`len .Site.RegularPages` = 89 invece di 77)
+- Sostituito con description da `content/episodi/_index.md`:
+  > "Ogni episodio di A2 Podcast è una conversazione pratica su Apple, produttività e tecnologia — pensata per professionisti italiani che vogliono lavorare meglio. Mac, iPhone, iPad, automazioni, workflow: scegli l'argomento e inizia ad ascoltare."
+- Keyword: Apple, produttività, tecnologia, professionisti italiani, Mac, iPhone, iPad, automazioni, workflow
+
+---
+
 ## Cosa è stato valutato e scartato
 
 | Intervento | Motivo del no |
@@ -98,6 +120,6 @@ Documento cronologico degli interventi SEO sul sito a2podcast.it.
 ## Prossimi step suggeriti (se il podcast riprende)
 
 - **Google Search Console**: richiedere re-crawl dopo ogni batch di modifiche
-- **Tag cleanup**: valutare se ridurre il numero di tag per episodio (molti hanno 1 sola occorrenza)
+- **Tag cleanup**: ✅ fatto (Fase 4) — 60 tag canonici
 - **Immagine copertina**: aggiornare a 1400×1400 su Spreaker dashboard
 - **Descrizioni episodi**: alcune sono troncate nel frontmatter — allungarle a 150–300 caratteri migliora CTR

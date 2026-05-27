@@ -36,7 +36,7 @@ baseof.html
 └── matomo.html          ← analytics
 ```
 
-Ogni pagina episodio include anche `schema-episode.html` (JSON-LD PodcastEpisode) e i partial `audio-player.html`, `hosts-contact.html`.
+Ogni pagina episodio include anche `schema-episode.html` (JSON-LD PodcastEpisode) e i partial `audio-player.html`, `hosts-contact.html`, `transcript-inline.html`.
 
 ---
 
@@ -109,6 +109,7 @@ a2podcast/
 │       ├── host-icon.html           # SVG inline per icone link host (web/twitter/linkedin/youtube/podcast)
 │       ├── schema-podcast.html      # JSON-LD PodcastSeries (ogni pagina)
 │       ├── schema-episode.html      # JSON-LD PodcastEpisode (solo episodi)
+│       ├── transcript-inline.html   # trascrizione SRT inline con <details>
 │       └── matomo.html              # snippet analytics Matomo
 ├── static/
 │   ├── css/style.css                # CSS (~1270 righe, no framework, mobile-first)
@@ -121,6 +122,7 @@ a2podcast/
     ├── ingest.py                    # genera content/episodi/ da RSS + note MD
     ├── tag-episodes.py              # aggiunge tag agli episodi via Claude API
     ├── match-youtube.py             # associa video YouTube agli episodi (interattivo o --apply)
+    ├── normalize-tags.py            # normalizza tag esistenti verso lista canonica (dry-run / --apply)
     ├── fix-fireside-links.py        # sostituisce link a2podcast.fireside.fm → a2podcast.it
     └── requirements.txt             # feedparser, python-slugify
 ```
@@ -229,6 +231,36 @@ Lo script Matomo vive in `static/js/matomo.js` (file esterno) per evitare `'unsa
 | Env var | `HUGO_VERSION = 0.145.0` |
 
 Push su `main` → build automatico in ~1 minuto.
+
+---
+
+## Player YouTube
+
+Le pagine episodio con `youtubeId` nel frontmatter mostrano un iframe YouTube diretto:
+
+```html
+<!-- layouts/episodi/single.html -->
+<div class="episode-youtube-embed">
+  <iframe src="https://www.youtube-nocookie.com/embed/{{ .Params.youtubeId }}" ...></iframe>
+</div>
+```
+
+Configurazione privacy in `hugo.toml`:
+```toml
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true
+```
+
+Il CSS `.episode-youtube` ha `max-width: 800px; margin: auto` (centrato, più largo della colonna testo). Non viene usato lo shortcode `{{< youtube >}}` (funziona solo nel content markdown, non nei template layout).
+
+---
+
+## Sistema tag
+
+Tag normalizzati verso una lista canonica di ~60 tag (da 167 originali caotici). Script di normalizzazione: `scripts/normalize-tags.py` — modalità dry-run di default, `--apply` per scrivere.
+
+Lista canonica: apple, mac, macos, ios, ipad, iphone, ipados, apple-silicon, apple-pencil, vision-pro, produttivita, workflow, automazione, organizzazione, task-manager, gtd, focus, time-management, planning, brainstorming, app, shortcuts, note, email, calendario, backup, password-manager, markdown, sicurezza, privacy, intelligenza-artificiale, hardware, storage, podcast, podcasting, video, audio, fotografia, scrittura, gaming, pkm, minimalismo, accessibilita, cybersecurity, intervista, ospite, retrospettiva, tema-annuale, speciale, conduttori.
 
 ---
 
