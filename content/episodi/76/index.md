@@ -19,8 +19,6 @@ draft = false
 
 > In questa puntata Roberto e Filippo, dopo l’interesse mostrato l’anno scorso, hanno deciso di riproporre il tema dell”anno (ep. 51) per aggiornasi a vicenda e per partire col piede giusto l’anno nuovo.
 
-> In questa puntata Roberto e Filippo, dopo l’interesse mostrato l’anno scorso, hanno deciso di riproporre il tema dell”anno (ep. 51) per aggiornasi a vicenda e per partire col piede giusto l’anno nuovo.
-
 # Note dell’episodio
 
 ## Comunicazioni di servizio
