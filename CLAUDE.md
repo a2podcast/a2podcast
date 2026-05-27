@@ -19,6 +19,25 @@ python3 scripts/test-site.py   # test automatici completi (build + HTTP + frontm
 
 ---
 
+## Regola Hugo: verifica sempre le funzionalità native
+
+Prima di implementare qualsiasi soluzione custom (partial, CSS, JavaScript), verificare sempre:
+
+1. **Hugo ha già questa funzione?** Consultare la documentazione ufficiale: https://gohugo.io/documentation/
+2. **Esiste uno shortcode built-in?** Hugo include shortcode nativi per YouTube, Vimeo, figure, highlight, ecc.
+3. **Esiste una funzione template?** Hugo ha centinaia di funzioni template built-in (format, transform, collections, ecc.)
+
+**Esempi di funzionalità native Hugo da preferire sempre al codice custom:**
+- Video YouTube/Vimeo → `{{< youtube ID >}}` / `{{< vimeo ID >}}`
+- Evidenziazione codice → `{{< highlight >}}`
+- Privacy (GDPR) → `[privacy]` in `hugo.toml`
+- Paginazione → `{{ template "_internal/pagination.html" . }}`
+- Sitemap, RSS, OpenGraph → template interni Hugo
+
+**Riferimento:** https://gohugo.io/documentation/
+
+---
+
 ## Workflow: nuovo episodio
 
 1. Crea `../note episodi/NN - Titolo episodio.md` con le note in markdown
