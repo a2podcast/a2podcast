@@ -695,14 +695,12 @@ a:hover { color: var(--color-link-hover); }
 .host-contact-links {
   list-style: none;
   padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
 }
 
-.host-contact-links li { margin-bottom: var(--space-xs); }
-
-.host-contact-links a {
-  font-size: 0.875rem;
-  color: var(--color-brand);
-}
+.host-contact-links li { margin: 0; }
 
 /* ── 14. Episode tags ──────────────────────────────────────────────── */
 .episode-tags {
@@ -860,14 +858,25 @@ a:hover { color: var(--color-link-hover); }
 }
 
 .host-link-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
   font-size: 0.78rem;
-  padding: 2px 10px;
+  padding: 4px 12px;
   border: 1px solid var(--color-border);
   border-radius: 99px;
   text-decoration: none;
   color: var(--color-brand);
   background: var(--color-bg-alt);
   white-space: nowrap;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.host-link-pill svg {
+  width: 13px;
+  height: 13px;
+  flex-shrink: 0;
+  fill: currentColor;
 }
 
 .host-link-pill:hover {

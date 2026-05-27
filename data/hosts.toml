@@ -12,6 +12,11 @@ url   = "https://www.avvocati-e-mac.it"
 icon  = "web"
 
 [[hosts.links]]
+label = "Avvocati e Mac: Compendium"
+url   = "https://avvocati-e-mac.it/podcast/"
+icon  = "podcast"
+
+[[hosts.links]]
 label = "@StrozziFilippo"
 url   = "https://twitter.com/StrozziFilippo"
 icon  = "twitter"
