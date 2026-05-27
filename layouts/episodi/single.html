@@ -19,6 +19,13 @@
 
   {{ partial "audio-player.html" . }}
 
+  {{ with .Params.youtubeId }}
+  <div class="episode-youtube">
+    <h2 class="episode-youtube-title">Guarda la diretta</h2>
+    {{ partial "youtube-player.html" $ }}
+  </div>
+  {{ end }}
+
   {{ with .Content }}
   <div class="episode-notes">
     {{ . }}

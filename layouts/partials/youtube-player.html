@@ -1,0 +1,18 @@
+{{ with .Params.youtubeId }}
+<div class="yt-player" data-ytid="{{ . }}">
+  <div class="yt-player-preview" onclick="this.parentElement.classList.add('yt-player--active')" role="button" tabindex="0" aria-label="Guarda la diretta su YouTube">
+    <img src="https://i.ytimg.com/vi/{{ . }}/hqdefault.jpg"
+         alt="Anteprima diretta YouTube: {{ $.Title }}"
+         width="480" height="360" loading="lazy">
+    <div class="yt-play-btn" aria-hidden="true">
+      <svg viewBox="0 0 68 48" width="68" height="48"><path d="M66.5 7.7c-.8-2.9-3-5.1-5.8-5.9C55.8.5 34 .5 34 .5S12.2.5 7.3 1.8C4.5 2.6 2.3 4.9 1.5 7.7.2 12.7.2 24 .2 24s0 11.3 1.3 16.3c.8 2.9 3 5.1 5.8 5.9C12.2 47.5 34 47.5 34 47.5s21.8 0 26.7-1.3c2.8-.8 5-3 5.8-5.9 1.3-5 1.3-16.3 1.3-16.3s0-11.3-1.3-16.3z" fill="#ff0000"/><path d="M27.1 34.5l17.8-10.5-17.8-10.5v21z" fill="#fff"/></svg>
+    </div>
+    <p class="yt-player-notice">Il video viene caricato da YouTube solo al clic</p>
+  </div>
+  <iframe class="yt-player-iframe"
+          src="https://www.youtube-nocookie.com/embed/{{ . }}?autoplay=1"
+          title="Diretta YouTube: {{ $.Title | htmlEscape }}"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+</div>
+{{ end }}

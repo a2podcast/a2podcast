@@ -22,8 +22,13 @@ hugo --gc --minify              # build produzione
 
 1. Crea `../note episodi/NN - Titolo episodio.md` con le note in markdown
 2. `python3 scripts/ingest.py` — genera/aggiorna `content/episodi/NN/index.md`
-3. `git add content/episodi/NN/ && git commit -m "Ep. NN: Titolo"`
-4. `git push` → Cloudflare Pages rebuild automatico (~1 min)
+3. (Opzionale) Se esiste la diretta YouTube, aggiungi a `content/episodi/NN/index.md`:
+   ```toml
+   [params]
+     youtubeId = "ID_VIDEO"   # 11 caratteri dall'URL youtube.com/watch?v=XXXXX
+   ```
+4. `git add content/episodi/NN/ && git commit -m "ep: Ep. NN: Titolo"`
+5. `git push` → Cloudflare Pages rebuild automatico (~1 min)
 
 ## Workflow: aggiungere trascrizione
 
