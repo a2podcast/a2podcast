@@ -1,0 +1,7612 @@
+1
+00:00:01,760 --> 00:00:02,400
+Roberto Marin: A2
+
+2
+00:00:02,560 --> 00:00:03,440
+Roberto Marin: Podcast.
+
+3
+00:00:03,440 --> 00:00:07,040
+Roberto Marin: Scopri come ottenere il massimo dalla tua tecnologia Apple.
+
+4
+00:00:07,040 --> 00:00:08,240
+Roberto Marin: Due professionisti
+
+5
+00:00:08,200 --> 00:00:14,440
+Roberto Marin: Filippo e Roberto te lo spiegano con argomenti monotematici ed ospiti che raccontano il loro flusso di lavoro.
+
+6
+00:00:16,840 --> 00:00:22,439
+Filippo Strozzi: Episodio 76 di A2, in cui scoprire come ottenere il massimo della vostra tecnologia Apple.
+
+7
+00:00:22,439 --> 00:00:23,080
+Filippo Strozzi: Io sono Filippo.
+
+8
+00:00:23,280 --> 00:00:25,040
+Filippo Strozzi: Pastorazzi e sono il vostro ospite
+
+9
+00:00:25,200 --> 00:00:27,200
+Filippo Strozzi: assieme all'amico Roberto Marin.
+
+10
+00:00:27,200 --> 00:00:30,320
+Filippo Strozzi: Di che cosa parliamo in questo episodio, mio caro Roberto?
+
+11
+00:00:30,320 --> 00:00:30,640
+Filippo Strozzi: Fammi
+
+12
+00:00:30,800 --> 00:00:32,400
+Filippo Strozzi: finire di parlare!
+
+13
+00:00:32,880 --> 00:00:36,239
+Roberto Marin: Eh, ma è andata giù la connessione, mi son perso tutto.
+
+14
+00:00:36,239 --> 00:00:37,840
+Roberto Marin: Ah, ok.
+
+15
+00:00:39,040 --> 00:00:42,080
+Roberto Marin: Quindi non sapevo niente, quindi vai, riparti.
+
+16
+00:00:41,660 --> 00:00:42,300
+Roberto Marin: Scusami,
+
+17
+00:00:43,020 --> 00:00:43,180
+Roberto Marin: tanto
+
+18
+00:00:43,420 --> 00:00:44,380
+Roberto Marin: va bene così,
+
+19
+00:00:44,620 --> 00:00:45,980
+Roberto Marin: c'è anche lo scherzo.
+
+20
+00:00:46,220 --> 00:00:51,100
+Roberto Marin: Ah ok, allora buon anno ragazzi, benvenuti in una nuova puntata di A2.
+
+21
+00:00:50,880 --> 00:00:54,640
+Roberto Marin: Nuova fiammante, proprio in partenza con la mia connessione
+
+22
+00:00:54,800 --> 00:00:54,960
+Roberto Marin: che
+
+23
+00:00:55,120 --> 00:00:58,640
+Roberto Marin: nonostante abbiano finalmente cablato, buttato un po' di fibra
+
+24
+00:00:58,879 --> 00:01:00,720
+Roberto Marin: nel capoluogo di dove.
+
+25
+00:01:00,660 --> 00:01:01,300
+Roberto Marin: di dove
+
+26
+00:01:01,780 --> 00:01:02,900
+Roberto Marin: lavoro e vivo
+
+27
+00:01:03,140 --> 00:01:05,700
+Roberto Marin: ma purtroppo la rete è sempre a Criceti
+
+28
+00:01:05,940 --> 00:01:07,780
+Roberto Marin: e attendiamo che finiscano i lavori
+
+29
+00:01:07,940 --> 00:01:10,020
+Roberto Marin: intanto che siamo solo nel 2024
+
+30
+00:01:10,420 --> 00:01:11,060
+Roberto Marin: allora
+
+31
+00:01:11,100 --> 00:01:11,500
+Roberto Marin: Filippo
+
+32
+00:01:11,659 --> 00:01:16,940
+Roberto Marin: non ti chiedo come è andato, come è passato le vacanze perché noi stiamo registrando prima delle vacanze, difatti
+
+33
+00:01:17,100 --> 00:01:18,060
+Roberto Marin: sentirete che
+
+34
+00:01:18,299 --> 00:01:19,420
+Roberto Marin: la connessione.
+
+35
+00:01:19,300 --> 00:01:20,180
+Roberto Marin: E va a Rotoli
+
+36
+00:01:20,340 --> 00:01:21,780
+Roberto Marin: appunto perché è stanca anche lei.
+
+37
+00:01:21,780 --> 00:01:22,820
+Roberto Marin: Noi siamo stanchi
+
+38
+00:01:22,980 --> 00:01:23,300
+Roberto Marin: perché
+
+39
+00:01:23,540 --> 00:01:26,100
+Roberto Marin: siamo praticamente a cavallo di Natale.
+
+40
+00:01:26,100 --> 00:01:27,700
+Roberto Marin: Però questa puntata uscirà
+
+41
+00:01:27,860 --> 00:01:29,860
+Roberto Marin: il prossimo anno, nel 2024.
+
+42
+00:01:30,080 --> 00:01:33,200
+Roberto Marin: Sarà, diciamo dal punto di vista temporale, un buon anno a tutti quanti.
+
+43
+00:01:33,200 --> 00:01:34,960
+Roberto Marin: Spero che ve la siate passate bene.
+
+44
+00:01:34,960 --> 00:01:37,040
+Roberto Marin: Noi speriamo di essercela passata bene.
+
+45
+00:01:37,040 --> 00:01:37,760
+Roberto Marin: Riposati
+
+46
+00:01:38,000 --> 00:01:43,440
+Roberto Marin: e si riparte di slancio con una nuova puntata di A2, nuova puntata di A2 che è praticamente
+
+47
+00:01:43,600 --> 00:01:44,880
+Roberto Marin: il proseguo.
+
+48
+00:01:44,500 --> 00:01:44,660
+Roberto Marin: Di
+
+49
+00:01:44,820 --> 00:01:47,460
+Roberto Marin: quello che abbiamo già raccontato nel 2023.
+
+50
+00:01:47,460 --> 00:01:51,780
+Roberto Marin: Nel 2023 vi abbiamo raccontato, o, per lo meno, abbiamo cercato di fare un
+
+51
+00:01:51,940 --> 00:01:52,660
+Roberto Marin: sintetico.
+
+52
+00:01:52,740 --> 00:01:57,780
+Roberto Marin: Non so se lo vedete, se lo sentite al microfono, che sto facendo sintetico con le virgolette.
+
+53
+00:01:57,340 --> 00:01:57,820
+Roberto Marin: recap
+
+54
+00:01:58,060 --> 00:02:11,740
+Roberto Marin: dell'anno precedente di come l'abbiamo passato, di cosa ci è andato storto e invece di cosa è andato per il verso giusto, e invece siamo qua nel 2024 a iniziare la puntata raccontandovi cos'è che faremo il prossimo anno.
+
+55
+00:02:11,000 --> 00:02:17,160
+Roberto Marin: Allora, la prima cosa che faremo di sicuro, come comunicazione di servizio, vi dobbiamo dare una triste notizia, ma non tanto triste.
+
+56
+00:02:17,400 --> 00:02:17,720
+Roberto Marin: Neanche
+
+57
+00:02:17,880 --> 00:02:18,200
+Roberto Marin: triste
+
+58
+00:02:20,280 --> 00:02:24,280
+Roberto Marin: non è particolarmente triste, ma diciamo che eviteremo un po' meno compagnia.
+
+59
+00:02:24,180 --> 00:02:24,819
+Roberto Marin: Non perché
+
+60
+00:02:25,140 --> 00:02:26,260
+Roberto Marin: finalmente Filippo
+
+61
+00:02:26,580 --> 00:02:28,980
+Roberto Marin: ha smesso di tenere podcast da un'ora
+
+62
+00:02:29,140 --> 00:02:33,380
+Roberto Marin: e mezza, non per quel motivo lì, perché ovviamente bisogna tenere botta.
+
+63
+00:02:32,860 --> 00:02:36,220
+Roberto Marin: Invece, no, diciamo, abbiamo deciso per impegni
+
+64
+00:02:36,540 --> 00:02:42,860
+Roberto Marin: personali, professionali, e vi discorrendo, e soprattutto cercare di vivere un po' meglio i pochi anni che abbiamo davanti.
+
+65
+00:02:44,220 --> 00:02:45,420
+Roberto Marin: La metto sempre lì.
+
+66
+00:02:45,840 --> 00:02:47,600
+Roberto Marin: Iniziamo bene l'anno, come si dice?
+
+67
+00:02:47,840 --> 00:02:50,720
+Roberto Marin: Abbiamo deciso di passare a una programmazione mensile.
+
+68
+00:02:52,720 --> 00:02:52,800
+Roberto Marin: È
+
+69
+00:02:52,960 --> 00:02:54,320
+Roberto Marin: così, oggi gira così.
+
+70
+00:02:54,320 --> 00:02:56,000
+Roberto Marin: Io ho bisogno di riposo
+
+71
+00:02:56,560 --> 00:02:58,640
+Roberto Marin: anche se siamo nel nuovo anno,
+
+72
+00:02:58,800 --> 00:02:59,120
+Roberto Marin: ho fatto
+
+73
+00:02:59,280 --> 00:03:00,560
+Roberto Marin: già subito che ho bisogno di riposo.
+
+74
+00:03:00,760 --> 00:03:04,440
+Roberto Marin: Comunque, in ogni caso, l'idea è quella di passare a una
+
+75
+00:03:04,600 --> 00:03:06,200
+Roberto Marin: programmazione mensile,
+
+76
+00:03:06,520 --> 00:03:15,080
+Roberto Marin: se Dio vuole, senza grossi problemi, riuscendo a mettere a posto tutte le cose che vogliamo fare, tra cui vi racconterà Filippo che ha un sacco di cose.
+
+77
+00:03:14,800 --> 00:03:16,480
+Roberto Marin: che bolano in pentola
+
+78
+00:03:16,720 --> 00:03:17,040
+Roberto Marin: perché
+
+79
+00:03:17,280 --> 00:03:18,480
+Roberto Marin: ovviamente lui è
+
+80
+00:03:18,800 --> 00:03:20,160
+Roberto Marin: la parte che sprezza
+
+81
+00:03:20,320 --> 00:03:21,280
+Roberto Marin: idee da tutte le parti
+
+82
+00:03:21,440 --> 00:03:23,440
+Roberto Marin: mentre invece io sono un po' più basic
+
+83
+00:03:23,600 --> 00:03:25,360
+Roberto Marin: come avete iniziato a capire
+
+84
+00:03:25,200 --> 00:03:25,440
+Roberto Marin: Ma
+
+85
+00:03:25,680 --> 00:03:33,760
+Roberto Marin: lui invece ha un sacco di idee, vuole mettere tutte in campo e bisogna anche lasciargli anche un po' di spazio per queste idee che spero che vadano dove devono andare.
+
+86
+00:03:33,200 --> 00:03:36,480
+Roberto Marin: e ci spiegherà nel corso da puntata quali sono queste idee.
+
+87
+00:03:36,480 --> 00:03:41,040
+Roberto Marin: Non vi lasceremo solo con 12 puntate l'anno, probabilmente conoscendoci, insomma
+
+88
+00:03:41,280 --> 00:03:42,480
+Roberto Marin: da 70 puntate
+
+89
+00:03:42,640 --> 00:03:44,480
+Roberto Marin: passa che ci conoscete.
+
+90
+00:03:44,060 --> 00:03:48,939
+Roberto Marin: Sicuramente qualcosa salterà fuori, qualche speciale qua e là, giusto per buttare giù un po'
+
+91
+00:03:49,260 --> 00:03:52,379
+Roberto Marin: di parole e chiacchiere insieme, appunto perché.
+
+92
+00:03:52,340 --> 00:03:52,740
+Roberto Marin: probabilmente
+
+93
+00:03:52,900 --> 00:03:56,580
+Roberto Marin: saranno delle chiacchiere fatti con degli ospiti che inviteremo in puntata
+
+94
+00:03:56,740 --> 00:03:58,980
+Roberto Marin: e poi probabilmente ci saranno una serie di eventi
+
+95
+00:03:59,140 --> 00:04:02,260
+Roberto Marin: qualcuno ha pensato ad Apple e avete pensato proprio bene
+
+96
+00:04:02,340 --> 00:04:02,660
+Roberto Marin: Che
+
+97
+00:04:02,820 --> 00:04:09,220
+Roberto Marin: ci terranno, diciamo, davanti ai microfoni, vi racconteremo un po' come vanno le cose fuori dalla programmazione normale.
+
+98
+00:04:09,220 --> 00:04:13,620
+Roberto Marin: Quindi saranno 12 puntate, ma molto probabilmente saranno più vicino alle 20 che alle 12.
+
+99
+00:04:13,620 --> 00:04:14,660
+Roberto Marin: Conoscendo Filippo
+
+100
+00:04:15,140 --> 00:04:16,740
+Roberto Marin: andrà più o meno così.
+
+101
+00:04:16,539 --> 00:04:16,780
+Roberto Marin: Quindi
+
+102
+00:04:17,019 --> 00:04:17,819
+Roberto Marin: non dico che
+
+103
+00:04:17,979 --> 00:04:23,900
+Roberto Marin: siamo una via di mezzo tra quelle che dovremmo fare tendenzialmente e quelle che vorremmo fare
+
+104
+00:04:24,060 --> 00:04:25,180
+Roberto Marin: con gli speciali.
+
+105
+00:04:25,180 --> 00:04:26,860
+Filippo Strozzi: Hai qualcosa da aggiungere, Filippo, a riguardo?
+
+106
+00:04:27,020 --> 00:04:27,819
+Filippo Strozzi: Diciamo che
+
+107
+00:04:28,020 --> 00:04:34,500
+Filippo Strozzi: Garantiamo 12 puntate e poi se ne vengono di più meglio, ma effettivamente tra una palla e quell'altra
+
+108
+00:04:34,740 --> 00:04:35,620
+Filippo Strozzi: varie motivazioni
+
+109
+00:04:35,940 --> 00:04:36,420
+Filippo Strozzi: anche.
+
+110
+00:04:36,400 --> 00:04:44,639
+Filippo Strozzi: Il fatto che così abbiamo un mese per preparare la singola puntata e quindi anche fare degli approfondimenti, casomai diventeranno sempre puntate più lunghe, almeno
+
+111
+00:04:45,199 --> 00:04:45,840
+Filippo Strozzi: una al mese.
+
+112
+00:04:46,260 --> 00:04:49,460
+Filippo Strozzi: poi eventualmente i teleascoltatori potranno dividere come
+
+113
+00:04:49,700 --> 00:04:51,860
+Filippo Strozzi: meglio credono e ascoltare come
+
+114
+00:04:52,580 --> 00:04:54,020
+Filippo Strozzi: le 12 saranno diciamo
+
+115
+00:04:54,180 --> 00:04:54,660
+Filippo Strozzi: nostre
+
+116
+00:04:54,699 --> 00:04:58,139
+Filippo Strozzi: mettiamola in questi termini e in questa maniera poi se avremo ospiti
+
+117
+00:04:58,379 --> 00:05:04,780
+Filippo Strozzi: le possiamo mettere come speciali e a quel punto lì anche tutta la programmazione diciamo degli ospiti diventa più semplice
+
+118
+00:05:04,940 --> 00:05:06,139
+Filippo Strozzi: nel senso che base alle
+
+119
+00:05:06,760 --> 00:05:07,480
+Filippo Strozzi: Diciamo che è sempre
+
+120
+00:05:07,640 --> 00:05:10,600
+Filippo Strozzi: stato abbastanza complicato incastrare tutte le varie cose
+
+121
+00:05:10,840 --> 00:05:14,040
+Filippo Strozzi: tra un ospite e l'altro, la programmazione, così via.
+
+122
+00:05:14,040 --> 00:05:15,320
+Filippo Strozzi: Io sto già programmando le prime
+
+123
+00:05:15,480 --> 00:05:15,560
+Filippo Strozzi: sei
+
+124
+00:05:15,720 --> 00:05:19,000
+Filippo Strozzi: puntate dell'anno in questa maniera, e anzi lo dico in diretta
+
+125
+00:05:19,160 --> 00:05:19,480
+Filippo Strozzi: perché.
+
+126
+00:05:19,800 --> 00:05:20,120
+Filippo Strozzi: .
+
+127
+00:05:20,360 --> 00:05:22,040
+Roberto Marin: Io invece non so a che santo voti
+
+128
+00:05:23,560 --> 00:05:24,199
+Roberto Marin: compenso.
+
+129
+00:05:24,199 --> 00:05:25,000
+Roberto Marin: Tu programmi.
+
+130
+00:05:25,000 --> 00:05:26,199
+Filippo Strozzi: Io non so che santo votare
+
+131
+00:05:26,440 --> 00:05:27,160
+Filippo Strozzi: dico in diretta
+
+132
+00:05:27,539 --> 00:05:28,259
+Filippo Strozzi: conto già di
+
+133
+00:05:28,500 --> 00:05:29,780
+Filippo Strozzi: ai primi di gennaio di
+
+134
+00:05:30,259 --> 00:05:32,099
+Filippo Strozzi: registrare le prime due così abbiamo
+
+135
+00:05:32,740 --> 00:05:33,060
+Filippo Strozzi: abbiamo
+
+136
+00:05:33,300 --> 00:05:34,900
+Filippo Strozzi: fino a marzo libero
+
+137
+00:05:35,379 --> 00:05:35,539
+Filippo Strozzi: ok
+
+138
+00:05:35,780 --> 00:05:36,180
+Filippo Strozzi: va bene
+
+139
+00:05:36,419 --> 00:05:36,500
+Filippo Strozzi: così
+
+140
+00:05:36,659 --> 00:05:37,699
+Filippo Strozzi: roberto lo sistemo
+
+141
+00:05:37,860 --> 00:05:38,419
+Filippo Strozzi: io
+
+142
+00:05:38,940 --> 00:05:40,940
+Filippo Strozzi: E basta, queste sono
+
+143
+00:05:41,580 --> 00:05:45,900
+Filippo Strozzi: le novità e a questo punto direi che possiamo andare a veleggiare
+
+144
+00:05:46,539 --> 00:05:47,419
+Filippo Strozzi: nell'argomento della
+
+145
+00:05:47,580 --> 00:05:49,099
+Filippo Strozzi: puntata di oggi.
+
+146
+00:05:48,760 --> 00:05:51,240
+Filippo Strozzi: Lo ricordiamo, il tema dell'anno, diciamo,
+
+147
+00:05:52,040 --> 00:05:52,360
+Filippo Strozzi: abbiamo
+
+148
+00:05:52,520 --> 00:05:53,240
+Filippo Strozzi: spezzato.
+
+149
+00:05:53,240 --> 00:05:56,600
+Filippo Strozzi: Diciamo il tema dell'anno che è iniziato con la puntata 51 dell'anno
+
+150
+00:05:56,760 --> 00:05:58,120
+Filippo Strozzi: scorso, nel 2023.
+
+151
+00:05:58,120 --> 00:06:00,440
+Filippo Strozzi: Siamo ancora nel 2023, mettiamola così
+
+152
+00:06:00,680 --> 00:06:03,400
+Filippo Strozzi: mentre registriamo, ma caro ascoltatore.
+
+153
+00:06:03,400 --> 00:06:03,960
+Filippo Strozzi: invece se
+
+154
+00:06:04,120 --> 00:06:05,720
+Filippo Strozzi: nel 2024, anzi
+
+155
+00:06:06,040 --> 00:06:07,080
+Filippo Strozzi: dovrebbe essere
+
+156
+00:06:07,400 --> 00:06:08,040
+Filippo Strozzi: passato
+
+157
+00:06:08,280 --> 00:06:12,680
+Filippo Strozzi: l'8 di gennaio, data di pubblicazione futura di questa puntata, e quindi.
+
+158
+00:06:12,600 --> 00:06:13,240
+Filippo Strozzi: E quindi
+
+159
+00:06:13,400 --> 00:06:16,840
+Filippo Strozzi: possiamo andare a concludere i nostri discorsi, non facciamo ovviamente
+
+160
+00:06:17,000 --> 00:06:18,920
+Filippo Strozzi: recap della puntata precedente perché sennò
+
+161
+00:06:19,080 --> 00:06:23,640
+Filippo Strozzi: finiamo mai più, anzi io già mi scuso perché ho preparato e ho caricato
+
+162
+00:06:23,560 --> 00:06:25,800
+Filippo Strozzi: Sul nostro sistema, diciamo,
+
+163
+00:06:26,840 --> 00:06:28,360
+Filippo Strozzi: la prima parte.
+
+164
+00:06:29,000 --> 00:06:30,120
+Filippo Strozzi: Questo giro è
+
+165
+00:06:30,440 --> 00:06:31,400
+Filippo Strozzi: stata colpa mia.
+
+166
+00:06:31,880 --> 00:06:37,720
+Filippo Strozzi: Ho fatto una serie di incisi notevoli, va bene, spero che siano interessanti, mettiamoli in questi termini.
+
+167
+00:06:37,200 --> 00:06:38,720
+Filippo Strozzi: Oggi cerchiamo
+
+168
+00:06:39,360 --> 00:06:39,680
+Filippo Strozzi: di
+
+169
+00:06:40,240 --> 00:06:41,760
+Filippo Strozzi: andare dritti al sodo
+
+170
+00:06:41,920 --> 00:06:42,240
+Filippo Strozzi: ma
+
+171
+00:06:42,880 --> 00:06:48,160
+Filippo Strozzi: facendo però una piccola premessa, nel senso che, lo dico sempre piano,
+
+172
+00:06:48,120 --> 00:06:50,199
+Filippo Strozzi: Non credo di aver tantissimo da dire
+
+173
+00:06:50,440 --> 00:06:52,520
+Filippo Strozzi: per il 2024, anche perché adesso
+
+174
+00:06:52,759 --> 00:06:53,560
+Filippo Strozzi: Roberto
+
+175
+00:06:53,800 --> 00:06:55,560
+Filippo Strozzi: fa il mega galattico, ma
+
+176
+00:06:55,879 --> 00:06:56,840
+Filippo Strozzi: diciamo che
+
+177
+00:06:57,159 --> 00:06:58,440
+Filippo Strozzi: ho intenzione di
+
+178
+00:06:58,759 --> 00:06:59,560
+Filippo Strozzi: semplicemente.
+
+179
+00:06:59,560 --> 00:06:59,639
+Filippo Strozzi: .
+
+180
+00:06:59,760 --> 00:07:03,040
+Filippo Strozzi: testare varie cose, mettiamola così, e probabilmente
+
+181
+00:07:03,200 --> 00:07:04,000
+Filippo Strozzi: 90 su
+
+182
+00:07:04,160 --> 00:07:04,560
+Filippo Strozzi: 100
+
+183
+00:07:05,200 --> 00:07:06,880
+Filippo Strozzi: non andranno come spero io.
+
+184
+00:07:06,880 --> 00:07:08,320
+Filippo Strozzi: Ma prima di parlare
+
+185
+00:07:08,480 --> 00:07:08,800
+Filippo Strozzi: diciamo
+
+186
+00:07:09,120 --> 00:07:14,560
+Filippo Strozzi: delle aspettative e di come vogliamo, quali saranno i nostri temi per il 2024, mettiamoli in questi.
+
+187
+00:07:14,760 --> 00:07:19,000
+Filippo Strozzi: termini e volevo fare una piccola un piccolo spunto diciamo
+
+188
+00:07:19,240 --> 00:07:21,640
+Filippo Strozzi: su una cosa che è collegata chiamiamolo così
+
+189
+00:07:21,800 --> 00:07:23,560
+Filippo Strozzi: al tema dell'anno nel senso che
+
+190
+00:07:24,260 --> 00:07:24,900
+Filippo Strozzi: e la
+
+191
+00:07:25,700 --> 00:07:27,460
+Filippo Strozzi: possiamo chiamarla
+
+192
+00:07:28,260 --> 00:07:29,860
+Filippo Strozzi: programmazione spicciola
+
+193
+00:07:30,180 --> 00:07:32,260
+Filippo Strozzi: o la gestione dell'attività spicciola
+
+194
+00:07:31,680 --> 00:07:32,960
+Filippo Strozzi: spicciola diciamo nel
+
+195
+00:07:33,200 --> 00:07:36,400
+Filippo Strozzi: corso dell'anno ed è un un'idea molto carina
+
+196
+00:07:37,040 --> 00:07:37,440
+Filippo Strozzi: nel note
+
+197
+00:07:37,760 --> 00:07:41,360
+Filippo Strozzi: nell'episodio ovviamente troverete nel dettaglio tutti i link sia
+
+198
+00:07:41,520 --> 00:07:42,080
+Filippo Strozzi: i video
+
+199
+00:07:42,280 --> 00:07:46,680
+Filippo Strozzi: che sono prevalentemente in inglese però lo dico già sull'argomento e da cui poi abbiamo
+
+200
+00:07:47,320 --> 00:07:48,760
+Filippo Strozzi: tratto tutta la vicenda
+
+201
+00:07:48,920 --> 00:07:51,000
+Filippo Strozzi: però è la pianificazione multiscala
+
+202
+00:07:51,160 --> 00:07:51,800
+Filippo Strozzi: che è di Cal
+
+203
+00:07:51,960 --> 00:07:52,520
+Filippo Strozzi: Newport
+
+204
+00:07:52,680 --> 00:07:53,480
+Filippo Strozzi: diciamo
+
+205
+00:07:53,300 --> 00:07:53,379
+Filippo Strozzi: e
+
+206
+00:07:53,699 --> 00:07:55,699
+Filippo Strozzi: che è sostanzialmente un modo
+
+207
+00:07:56,020 --> 00:07:56,340
+Filippo Strozzi: di
+
+208
+00:07:56,900 --> 00:08:03,139
+Filippo Strozzi: organizzare a livelli, mettiamole in questi termini, l'attività quotidiana, settimanale e trimestrale.
+
+209
+00:08:03,139 --> 00:08:03,940
+Filippo Strozzi: Perché queste.
+
+210
+00:08:03,940 --> 00:08:04,259
+Filippo Strozzi: .
+
+211
+00:08:04,340 --> 00:08:04,900
+Filippo Strozzi: queste
+
+212
+00:08:05,220 --> 00:08:05,860
+Filippo Strozzi: scale
+
+213
+00:08:06,820 --> 00:08:07,620
+Filippo Strozzi: di ampiezza
+
+214
+00:08:07,780 --> 00:08:08,340
+Filippo Strozzi: diversa
+
+215
+00:08:08,500 --> 00:08:09,300
+Filippo Strozzi: l'idea appunto
+
+216
+00:08:09,460 --> 00:08:09,940
+Filippo Strozzi: abbiamo detto
+
+217
+00:08:10,100 --> 00:08:12,420
+Filippo Strozzi: il tema dell'anno è anche come vivere l'anno
+
+218
+00:08:12,580 --> 00:08:12,820
+Filippo Strozzi: in mano
+
+219
+00:08:12,879 --> 00:08:14,080
+Filippo Strozzi: in maniera chiamiamola così
+
+220
+00:08:14,240 --> 00:08:16,000
+Filippo Strozzi: programmatica e intenzionale
+
+221
+00:08:16,240 --> 00:08:17,360
+Filippo Strozzi: per cui appunto
+
+222
+00:08:17,680 --> 00:08:18,240
+Filippo Strozzi: fare un
+
+223
+00:08:18,479 --> 00:08:19,520
+Filippo Strozzi: programma diciamo
+
+224
+00:08:19,840 --> 00:08:20,720
+Filippo Strozzi: trimestrale
+
+225
+00:08:20,960 --> 00:08:22,720
+Filippo Strozzi: quindi avere un modo di
+
+226
+00:08:23,120 --> 00:08:23,840
+Filippo Strozzi: ragionare
+
+227
+00:08:24,160 --> 00:08:30,720
+Filippo Strozzi: su un periodo medio e lungo, cioè i tre mesi, e poi invece lavorare sulla settimana e nel dettaglio
+
+228
+00:08:31,040 --> 00:08:32,159
+Filippo Strozzi: sul giorno,
+
+229
+00:08:32,400 --> 00:08:32,800
+Filippo Strozzi: appunto
+
+230
+00:08:33,039 --> 00:08:34,159
+Filippo Strozzi: questa scala diciamo
+
+231
+00:08:34,479 --> 00:08:35,680
+Filippo Strozzi: di dimensioni
+
+232
+00:08:36,120 --> 00:08:37,719
+Filippo Strozzi: ti permette poi di
+
+233
+00:08:37,959 --> 00:08:42,760
+Filippo Strozzi: organizzarti meglio nel corso dell'anno e anche essere più intenzionale e
+
+234
+00:08:43,080 --> 00:08:44,440
+Filippo Strozzi: più pratico e più
+
+235
+00:08:44,600 --> 00:08:44,839
+Filippo Strozzi: anche
+
+236
+00:08:45,160 --> 00:08:46,839
+Filippo Strozzi: sapere dove andare, mettiamola
+
+237
+00:08:47,000 --> 00:08:47,320
+Filippo Strozzi: così
+
+238
+00:08:47,620 --> 00:08:47,779
+Filippo Strozzi: nel
+
+239
+00:08:47,940 --> 00:08:48,980
+Filippo Strozzi: corso dell'anno.
+
+240
+00:08:48,980 --> 00:08:51,779
+Filippo Strozzi: Ok, e praticamente la metodologia
+
+241
+00:08:52,019 --> 00:08:53,620
+Roberto Marin: bujo, ma delle bullet
+
+242
+00:08:53,779 --> 00:08:54,180
+Roberto Marin: journey,
+
+243
+00:08:55,300 --> 00:08:56,660
+Roberto Marin: vedi che sei contento
+
+244
+00:08:56,899 --> 00:08:57,860
+Filippo Strozzi: così, allora
+
+245
+00:08:58,279 --> 00:08:59,080
+Filippo Strozzi: Praticamente
+
+246
+00:08:59,240 --> 00:09:00,040
+Filippo Strozzi: è certo, ho
+
+247
+00:09:00,760 --> 00:09:02,600
+Roberto Marin: ero sul pezzo.
+
+248
+00:09:03,160 --> 00:09:04,519
+Filippo Strozzi: Vabbè, adesso ovviamente
+
+249
+00:09:04,839 --> 00:09:05,080
+Filippo Strozzi: cal
+
+250
+00:09:05,839 --> 00:09:06,319
+Filippo Strozzi: A tutte
+
+251
+00:09:07,120 --> 00:09:11,279
+Filippo Strozzi: le sue cose, bene o male, il quadro generale l'abbiamo già visto.
+
+252
+00:09:11,279 --> 00:09:14,079
+Filippo Strozzi: L'idea di fondo, che poi si sposa abbastanza bene con
+
+253
+00:09:14,240 --> 00:09:15,839
+Filippo Strozzi: il tema dell'anno, è appunto
+
+254
+00:09:16,079 --> 00:09:16,880
+Filippo Strozzi: avere un
+
+255
+00:09:17,199 --> 00:09:17,519
+Filippo Strozzi: sistema
+
+256
+00:09:17,680 --> 00:09:18,720
+Filippo Strozzi: principale di valore.
+
+257
+00:09:18,720 --> 00:09:19,920
+Filippo Strozzi: Quindi è.
+
+258
+00:09:18,980 --> 00:09:26,820
+Filippo Strozzi: Sapere dove si vuole andare, mettiamola così, o comunque quali sono neanche i punti d'arrivo, ma la direzione in cui si vuole andare, mettiamola in questi termini.
+
+259
+00:09:26,820 --> 00:09:28,580
+Filippo Strozzi: Così riprendiamo alcuni concetti
+
+260
+00:09:28,740 --> 00:09:28,980
+Filippo Strozzi: poi della
+
+261
+00:09:29,140 --> 00:09:29,620
+Filippo Strozzi: puntata
+
+262
+00:09:29,940 --> 00:09:32,660
+Filippo Strozzi: puntata scorsa, e grazie appunto.
+
+263
+00:09:32,560 --> 00:09:33,440
+Filippo Strozzi: A questo sistema
+
+264
+00:09:33,760 --> 00:09:36,080
+Filippo Strozzi: di scala di valori, a un
+
+265
+00:09:36,240 --> 00:09:37,040
+Filippo Strozzi: piano che
+
+266
+00:09:37,840 --> 00:09:38,800
+Filippo Strozzi: strategico, cioè,
+
+267
+00:09:39,040 --> 00:09:40,000
+Filippo Strozzi: vedere come
+
+268
+00:09:40,420 --> 00:09:40,660
+Filippo Strozzi: come
+
+269
+00:09:40,819 --> 00:09:41,620
+Filippo Strozzi: programmarsi
+
+270
+00:09:41,860 --> 00:09:47,139
+Filippo Strozzi: nel trimestre e poi calarlo quotidianamente nella settimana prima e poi dopo
+
+271
+00:09:47,380 --> 00:09:49,940
+Filippo Strozzi: nell'attività giornaliera diventa effettivamente
+
+272
+00:09:50,100 --> 00:09:50,579
+Filippo Strozzi: secondo me
+
+273
+00:09:50,740 --> 00:09:52,019
+Filippo Strozzi: un bello scritto
+
+274
+00:09:51,540 --> 00:09:52,180
+Filippo Strozzi: strumento
+
+275
+00:09:52,500 --> 00:09:52,820
+Filippo Strozzi: per
+
+276
+00:09:53,540 --> 00:09:56,180
+Filippo Strozzi: irregimentare tutta la vicenda tra l'altro
+
+277
+00:09:56,339 --> 00:09:57,300
+Filippo Strozzi: cosa interessante
+
+278
+00:09:57,700 --> 00:09:59,940
+Filippo Strozzi: adesso non so se anche questo qua è
+
+279
+00:10:00,420 --> 00:10:00,740
+Filippo Strozzi: è
+
+280
+00:10:01,060 --> 00:10:01,380
+Filippo Strozzi: sempre
+
+281
+00:10:01,540 --> 00:10:02,500
+Filippo Strozzi: legato al
+
+282
+00:10:02,740 --> 00:10:03,220
+Filippo Strozzi: bullet
+
+283
+00:10:03,459 --> 00:10:04,019
+Filippo Strozzi: journal
+
+284
+00:10:04,259 --> 00:10:04,579
+Filippo Strozzi: come
+
+285
+00:10:05,220 --> 00:10:05,699
+Filippo Strozzi: ama
+
+286
+00:10:05,940 --> 00:10:06,740
+Filippo Strozzi: roberto
+
+287
+00:10:06,899 --> 00:10:07,380
+Filippo Strozzi: e cal
+
+288
+00:10:08,060 --> 00:10:09,740
+Filippo Strozzi: suggerisce sostanzialmente la
+
+289
+00:10:09,980 --> 00:10:12,300
+Filippo Strozzi: cosiddetta shutdown routine, cioè la
+
+290
+00:10:13,900 --> 00:10:17,500
+Filippo Strozzi: routine di chiusura della giornata, che sostanzialmente ha lo scopo
+
+291
+00:10:17,860 --> 00:10:18,260
+Filippo Strozzi: appunto
+
+292
+00:10:18,580 --> 00:10:20,500
+Filippo Strozzi: di chiudere i loop aperti
+
+293
+00:10:20,660 --> 00:10:21,780
+Filippo Strozzi: quindi le cose che se non
+
+294
+00:10:22,100 --> 00:10:23,700
+Filippo Strozzi: casomai non si è riuscita a fare in quella
+
+295
+00:10:23,940 --> 00:10:24,100
+Filippo Strozzi: pur
+
+296
+00:10:24,260 --> 00:10:25,460
+Filippo Strozzi: avendo programmato di fare a
+
+297
+00:10:25,620 --> 00:10:26,100
+Filippo Strozzi: b e c
+
+298
+00:10:26,500 --> 00:10:27,140
+Filippo Strozzi: in quel giorno
+
+299
+00:10:27,300 --> 00:10:29,620
+Filippo Strozzi: si è riuscita a fare invece
+
+300
+00:10:29,780 --> 00:10:29,940
+Filippo Strozzi: sol
+
+301
+00:10:30,260 --> 00:10:30,500
+Filippo Strozzi: solo
+
+302
+00:10:30,959 --> 00:10:37,279
+Filippo Strozzi: A e B, chiudendo la giornata e quindi chiudendo i loop e riprogrammando sostanzialmente quello che non si è riuscito a fare
+
+303
+00:10:37,440 --> 00:10:37,680
+Filippo Strozzi: o
+
+304
+00:10:37,920 --> 00:10:39,600
+Filippo Strozzi: riassestandosi diciamo
+
+305
+00:10:39,700 --> 00:10:41,860
+Filippo Strozzi: Questo poi aiuta ulteriormente
+
+306
+00:10:42,020 --> 00:10:46,260
+Filippo Strozzi: nella gestione anche tranquilla, cioè nella chiusura appunto dell'attività chiamiamo
+
+307
+00:10:46,420 --> 00:10:47,380
+Filippo Strozzi: così, lavorativa,
+
+308
+00:10:47,700 --> 00:10:50,260
+Filippo Strozzi: può anche non essere solo lavorativa, e
+
+309
+00:10:50,580 --> 00:10:51,860
+Filippo Strozzi: a questo punto
+
+310
+00:10:51,980 --> 00:10:52,540
+Filippo Strozzi: Avere la mente
+
+311
+00:10:53,420 --> 00:10:54,140
+Filippo Strozzi: sgombra
+
+312
+00:10:54,460 --> 00:10:56,860
+Filippo Strozzi: per rilassarsi perché è importante anche
+
+313
+00:10:57,020 --> 00:10:58,060
+Filippo Strozzi: bilanciare
+
+314
+00:10:58,380 --> 00:10:58,700
+Filippo Strozzi: tra
+
+315
+00:10:59,020 --> 00:10:59,660
+Filippo Strozzi: lavoro
+
+316
+00:10:59,820 --> 00:11:00,140
+Filippo Strozzi: e.
+
+317
+00:11:00,460 --> 00:11:00,780
+Filippo Strozzi: .
+
+318
+00:11:00,780 --> 00:11:01,100
+Filippo Strozzi: .
+
+319
+00:11:01,560 --> 00:11:06,600
+Filippo Strozzi: ricarica delle energie e a questo punto invece lavorare sul giorno successivo
+
+320
+00:11:06,760 --> 00:11:07,880
+Filippo Strozzi: a questo punto Roberto
+
+321
+00:11:08,040 --> 00:11:09,000
+Filippo Strozzi: hai qualcosa
+
+322
+00:11:10,520 --> 00:11:11,240
+Filippo Strozzi: del metodo
+
+323
+00:11:11,459 --> 00:11:13,060
+Filippo Strozzi: Che volevi specificare
+
+324
+00:11:13,300 --> 00:11:13,540
+Roberto Marin: allora
+
+325
+00:11:13,700 --> 00:11:14,019
+Roberto Marin: sì, del
+
+326
+00:11:14,260 --> 00:11:15,220
+Roberto Marin: bullet journal
+
+327
+00:11:15,380 --> 00:11:15,940
+Roberto Marin: funziona così.
+
+328
+00:11:15,940 --> 00:11:18,980
+Roberto Marin: Nel senso che nel momento in cui c'è un task che
+
+329
+00:11:19,300 --> 00:11:22,180
+Roberto Marin: non si riesce a fare nella giornata, si mette un
+
+330
+00:11:22,420 --> 00:11:22,899
+Roberto Marin: diciamo
+
+331
+00:11:23,060 --> 00:11:25,779
+Roberto Marin: un segno di fianco a questo task.
+
+332
+00:11:25,540 --> 00:11:27,860
+Roberto Marin: Che potrebbe essere, se non ricordo male, il
+
+333
+00:11:28,180 --> 00:11:31,940
+Roberto Marin: segno di maggiore, che vuol dire che lo
+
+334
+00:11:32,180 --> 00:11:34,100
+Roberto Marin: sposta a una data da destra, come
+
+335
+00:11:34,260 --> 00:11:35,220
+Filippo Strozzi: una freccia, esatto, esatto,
+
+336
+00:11:35,860 --> 00:11:36,660
+Roberto Marin: ma solo la parte della
+
+337
+00:11:36,820 --> 00:11:37,779
+Roberto Marin: testa, solo il maggiore
+
+338
+00:11:38,019 --> 00:11:39,060
+Filippo Strozzi: che simbolizza la freccia.
+
+339
+00:11:39,300 --> 00:11:40,100
+Roberto Marin: Questo cos'è?
+
+340
+00:11:39,880 --> 00:11:41,720
+Roberto Marin: Tu esatto tu in questo momento cosa fai?
+
+341
+00:11:41,720 --> 00:11:44,760
+Roberto Marin: Verso fine giornata, ovviamente vedi cosa c'è e cosa non c'è.
+
+342
+00:11:44,760 --> 00:11:46,200
+Roberto Marin: Ma la cosa che secondo me è
+
+343
+00:11:46,360 --> 00:11:47,320
+Roberto Marin: molto interessante
+
+344
+00:11:47,960 --> 00:11:48,840
+Roberto Marin: E che questo
+
+345
+00:11:49,080 --> 00:11:50,200
+Roberto Marin: sistema di reiterazione
+
+346
+00:11:50,440 --> 00:11:51,880
+Roberto Marin: di quello che sta succedendo
+
+347
+00:11:52,120 --> 00:11:53,400
+Roberto Marin: nella tua programmazione
+
+348
+00:11:53,640 --> 00:11:57,720
+Roberto Marin: viene fatta non solo alla giornata ma anche a fine settimana.
+
+349
+00:11:58,080 --> 00:12:01,200
+Roberto Marin: A fine mese e poi, ovviamente, a scalare anche
+
+350
+00:12:01,520 --> 00:12:02,720
+Roberto Marin: all'anno, nel
+
+351
+00:12:02,880 --> 00:12:05,600
+Roberto Marin: senso che è un giusto controllo
+
+352
+00:12:05,760 --> 00:12:08,480
+Roberto Marin: di quello di come sta andando la situazione,
+
+353
+00:12:08,800 --> 00:12:09,520
+Roberto Marin: veramente il posto
+
+354
+00:12:09,680 --> 00:12:10,960
+Roberto Marin: della situazione.
+
+355
+00:12:10,600 --> 00:12:10,759
+Roberto Marin: che
+
+356
+00:12:11,079 --> 00:12:11,319
+Roberto Marin: quindi
+
+357
+00:12:11,800 --> 00:12:12,519
+Roberto Marin: come dicevo
+
+358
+00:12:13,160 --> 00:12:14,199
+Roberto Marin: non si blocca
+
+359
+00:12:14,519 --> 00:12:17,000
+Roberto Marin: alla giornata che si fa un recap sulla giornata
+
+360
+00:12:17,160 --> 00:12:21,160
+Roberto Marin: ma nel momento in cui tu devi cambiare pagina e fai la settimana dopo
+
+361
+00:12:21,000 --> 00:12:30,760
+Roberto Marin: Devi riprendere tutto quello che c'è nella settimana precedente e te lo riporti nella settimana dopo per capire quello che hai fatto, cosa non hai fatto, le cose che si sono aggiunte o le cose che si sono tolte.
+
+362
+00:12:30,760 --> 00:12:32,120
+Filippo Strozzi: Ok, ok, adesso
+
+363
+00:12:31,900 --> 00:12:32,540
+Filippo Strozzi: Secondo me
+
+364
+00:12:32,780 --> 00:12:33,500
+Filippo Strozzi: con la connessione
+
+365
+00:12:33,740 --> 00:12:35,420
+Filippo Strozzi: ballerina non hai visto quello che ti ho fatto
+
+366
+00:12:35,580 --> 00:12:36,140
+Filippo Strozzi: vedere,
+
+367
+00:12:37,020 --> 00:12:38,620
+Filippo Strozzi: ma va bene comunque.
+
+368
+00:12:39,180 --> 00:12:42,220
+Roberto Marin: È che non ti stavo guardando in questo momento nel video, stavo guardando proprio.
+
+369
+00:12:42,500 --> 00:12:42,819
+Filippo Strozzi: Adesso
+
+370
+00:12:43,779 --> 00:12:46,660
+Filippo Strozzi: guardavi altrove, guardavi altrove, non mi guardavi.
+
+371
+00:12:46,660 --> 00:12:47,699
+Filippo Strozzi: Sì, mi sto facendo.
+
+372
+00:12:47,699 --> 00:12:48,339
+Filippo Strozzi: Stavo guardando
+
+373
+00:12:48,579 --> 00:12:49,060
+Filippo Strozzi: in giro.
+
+374
+00:12:49,620 --> 00:12:50,259
+Filippo Strozzi: Ti volevo fare
+
+375
+00:12:50,420 --> 00:12:50,579
+Filippo Strozzi: ,
+
+376
+00:12:51,779 --> 00:12:53,860
+Filippo Strozzi: il mio solito bigliettino.
+
+377
+00:12:55,139 --> 00:12:56,899
+Roberto Marin: Il tuo bigliettino.
+
+378
+00:12:56,400 --> 00:12:56,800
+Roberto Marin: Il bulle
+
+379
+00:12:56,960 --> 00:12:57,360
+Roberto Marin: giorno
+
+380
+00:12:57,520 --> 00:12:58,720
+Roberto Marin: di nostro Filippo
+
+381
+00:12:58,880 --> 00:13:00,320
+Roberto Marin: è praticamente un me
+
+382
+00:13:00,560 --> 00:13:02,480
+Roberto Marin: neanche un mezzo a cinque, cos'è una
+
+383
+00:13:02,720 --> 00:13:03,360
+Roberto Marin: sei, una
+
+384
+00:13:03,600 --> 00:13:03,840
+Roberto Marin: sei
+
+385
+00:13:04,080 --> 00:13:04,240
+Roberto Marin: con
+
+386
+00:13:05,360 --> 00:13:06,000
+Roberto Marin: le to-do
+
+387
+00:13:06,320 --> 00:13:07,440
+Roberto Marin: e poi dei.
+
+388
+00:13:07,459 --> 00:13:07,940
+Roberto Marin: Diciamo
+
+389
+00:13:08,100 --> 00:13:08,420
+Roberto Marin: delle
+
+390
+00:13:08,660 --> 00:13:09,620
+Roberto Marin: annotazioni
+
+391
+00:13:09,779 --> 00:13:12,580
+Roberto Marin: a margine e nel basso, che non ho letto così.
+
+392
+00:13:12,740 --> 00:13:13,380
+Roberto Marin: Comunque immagino che
+
+393
+00:13:13,700 --> 00:13:13,779
+Filippo Strozzi: sono
+
+394
+00:13:14,019 --> 00:13:14,339
+Filippo Strozzi: le cose
+
+395
+00:13:14,500 --> 00:13:14,820
+Filippo Strozzi: lunghe
+
+396
+00:13:14,900 --> 00:13:19,780
+Filippo Strozzi: Respiro che tra l'altro mi sto trascinando da troppo tempo, quello lo so perché le sto ricopiando come accesso.
+
+397
+00:13:19,940 --> 00:13:23,540
+Roberto Marin: Le sto ricopiando, e la cosa più fastidiosa è proprio quella: ricopiare le stesse cose.
+
+398
+00:13:23,540 --> 00:13:25,220
+Filippo Strozzi: Esatto, infatti adesso.
+
+399
+00:13:24,980 --> 00:13:27,140
+Filippo Strozzi: Secondo che purtroppo, come al solito,
+
+400
+00:13:27,780 --> 00:13:28,020
+Filippo Strozzi: ne
+
+401
+00:13:28,180 --> 00:13:31,700
+Filippo Strozzi: discutevamo nei giorni scorsi, il mondo sta finendo di nuovo
+
+402
+00:13:31,860 --> 00:13:32,180
+Filippo Strozzi: perché
+
+403
+00:13:33,060 --> 00:13:33,700
+Filippo Strozzi: è di nuovo
+
+404
+00:13:33,860 --> 00:13:35,780
+Filippo Strozzi: Natale e questo è poco.
+
+405
+00:13:36,820 --> 00:13:38,580
+Filippo Strozzi: Non ci si salta fuori, quindi
+
+406
+00:13:38,820 --> 00:13:39,060
+Filippo Strozzi: ero
+
+407
+00:13:39,300 --> 00:13:41,220
+Filippo Strozzi: tutto bello pacifico e tranquillo e
+
+408
+00:13:42,020 --> 00:13:43,140
+Filippo Strozzi: puntavo a
+
+409
+00:13:43,380 --> 00:13:44,740
+Filippo Strozzi: fare questa settimana in re.
+
+410
+00:13:44,740 --> 00:13:44,820
+Filippo Strozzi: .
+
+411
+00:13:44,780 --> 00:13:47,180
+Filippo Strozzi: Quasi relax, mettiamola in questi termini, e
+
+412
+00:13:47,980 --> 00:13:48,940
+Filippo Strozzi: invece,
+
+413
+00:13:49,100 --> 00:13:51,180
+Filippo Strozzi: forse venerdì mattina dovrei essere
+
+414
+00:13:51,340 --> 00:13:55,180
+Filippo Strozzi: a scarico, ma lo dico piano a questo punto perché non vorrei tirarmi
+
+415
+00:13:56,660 --> 00:13:59,540
+Filippo Strozzi: praticamente all'antivigilia sei scarico ok
+
+416
+00:13:59,700 --> 00:13:59,940
+Filippo Strozzi: va bene
+
+417
+00:14:00,980 --> 00:14:02,020
+Filippo Strozzi: c'è poco da fare
+
+418
+00:14:02,340 --> 00:14:02,500
+Filippo Strozzi: come
+
+419
+00:14:02,660 --> 00:14:03,460
+Filippo Strozzi: al solito
+
+420
+00:14:03,780 --> 00:14:05,060
+Filippo Strozzi: il problema è sempre
+
+421
+00:14:05,220 --> 00:14:05,460
+Filippo Strozzi: che
+
+422
+00:14:05,759 --> 00:14:07,440
+Filippo Strozzi: Le cose che hai programmato
+
+423
+00:14:07,759 --> 00:14:09,839
+Filippo Strozzi: per motivi vari ed eventuali
+
+424
+00:14:10,720 --> 00:14:11,519
+Filippo Strozzi: non vanno
+
+425
+00:14:11,759 --> 00:14:14,160
+Filippo Strozzi: come dovevano, quindi una cosa che dovevo fare almeno due
+
+426
+00:14:14,319 --> 00:14:17,519
+Filippo Strozzi: o tre settimane fa non è stata fatta, se tutto va bene domani è
+
+427
+00:14:17,680 --> 00:14:17,759
+Filippo Strozzi: fatto
+
+428
+00:14:17,940 --> 00:14:20,660
+Filippo Strozzi: La concludo, ma l'ho dovuta concludere stasera e
+
+429
+00:14:21,140 --> 00:14:21,620
+Filippo Strozzi: domani la
+
+430
+00:14:21,780 --> 00:14:22,340
+Filippo Strozzi: mando via.
+
+431
+00:14:22,340 --> 00:14:22,740
+Filippo Strozzi: Domani ho
+
+432
+00:14:22,900 --> 00:14:24,020
+Filippo Strozzi: appuntamento con dei clienti.
+
+433
+00:14:24,020 --> 00:14:26,660
+Filippo Strozzi: Giovedì pomeriggio punto di domanda e quindi non
+
+434
+00:14:26,820 --> 00:14:28,020
+Filippo Strozzi: ci sto neanche troppo.
+
+435
+00:14:28,020 --> 00:14:28,100
+Filippo Strozzi: .
+
+436
+00:14:28,120 --> 00:14:30,279
+Filippo Strozzi: dietro e venerdì a quel punto lì forse
+
+437
+00:14:30,440 --> 00:14:34,920
+Filippo Strozzi: riesco a sbrigare tutta una serie di cose che dovevo sbrigare in in ottica
+
+438
+00:14:35,080 --> 00:14:36,360
+Filippo Strozzi: poi è tra altre cose nata
+
+439
+00:14:36,519 --> 00:14:36,680
+Filippo Strozzi: lì
+
+440
+00:14:36,900 --> 00:14:38,020
+Filippo Strozzi: Perché vabbè, lasciamo
+
+441
+00:14:38,180 --> 00:14:38,980
+Filippo Strozzi: stare, che è
+
+442
+00:14:39,140 --> 00:14:40,100
+Filippo Strozzi: meglio.
+
+443
+00:14:41,060 --> 00:14:41,940
+Roberto Marin: Detto io che era
+
+444
+00:14:42,100 --> 00:14:46,740
+Roberto Marin: un periodo un po' tosto, questo, ma nessuno mi vuole ascoltare in questo podcast.
+
+445
+00:14:46,660 --> 00:14:47,220
+Roberto Marin: Ma perché
+
+446
+00:14:47,540 --> 00:14:50,660
+Filippo Strozzi: non doveva esserlo, ma comunque va bene, fa lo stesso, fa
+
+447
+00:14:50,819 --> 00:14:51,860
+Filippo Strozzi: lo stesso.
+
+448
+00:14:52,259 --> 00:14:56,180
+Filippo Strozzi: Andiamo al sodo e quindi a questo punto parliamo del mio.
+
+449
+00:14:56,480 --> 00:14:58,800
+Filippo Strozzi: sperato, mettiamola così, nel mio tema del
+
+450
+00:14:56,819 --> 00:14:57,139
+Filippo Strozzi: .
+
+451
+00:14:59,120 --> 00:15:00,560
+Filippo Strozzi: 2024.
+
+452
+00:15:00,560 --> 00:15:01,520
+Filippo Strozzi: Ok.
+
+453
+00:15:01,520 --> 00:15:02,720
+Filippo Strozzi: Così, casomai
+
+454
+00:15:02,880 --> 00:15:06,800
+Filippo Strozzi: questa puntata di inizio anno non la teniamo così lunga come l'ultima.
+
+455
+00:15:06,300 --> 00:15:07,339
+Filippo Strozzi: Partiamola così, i
+
+456
+00:15:07,899 --> 00:15:08,220
+Filippo Strozzi: famosi
+
+457
+00:15:08,380 --> 00:15:10,140
+Filippo Strozzi: buoni propositi.
+
+458
+00:15:10,220 --> 00:15:12,220
+Filippo Strozzi: Esatto, iniziamo subito.
+
+459
+00:15:12,220 --> 00:15:16,540
+Filippo Strozzi: La mia idea del nuovo anno è un anno di esperimento e insegnamento.
+
+460
+00:15:17,259 --> 00:15:18,620
+Filippo Strozzi: ti vado a spiegare perché
+
+461
+00:15:18,940 --> 00:15:19,180
+Filippo Strozzi: perché
+
+462
+00:15:19,339 --> 00:15:20,220
+Filippo Strozzi: questi due termini
+
+463
+00:15:20,459 --> 00:15:20,699
+Filippo Strozzi: dimmi
+
+464
+00:15:20,860 --> 00:15:23,819
+Filippo Strozzi: uno assieme all'altro tra l'altro vabbè l'idea di fondo
+
+465
+00:15:24,139 --> 00:15:24,860
+Filippo Strozzi: questo credo che
+
+466
+00:15:25,000 --> 00:15:25,160
+Filippo Strozzi: Col
+
+467
+00:15:25,320 --> 00:15:26,440
+Filippo Strozzi: senno di poi, mettiamola
+
+468
+00:15:26,600 --> 00:15:29,000
+Filippo Strozzi: così, è abbastanza facile.
+
+469
+00:15:29,000 --> 00:15:32,680
+Filippo Strozzi: Insegnamento, devo dire la verità, ci ho messo nel tempo a ragionarci, a
+
+470
+00:15:32,840 --> 00:15:35,480
+Filippo Strozzi: ragionarci, a vederlo io da solo.
+
+471
+00:15:34,700 --> 00:15:34,860
+Filippo Strozzi: ma
+
+472
+00:15:35,100 --> 00:15:35,420
+Filippo Strozzi: questo
+
+473
+00:15:35,580 --> 00:15:36,060
+Filippo Strozzi: appunto
+
+474
+00:15:36,380 --> 00:15:37,260
+Filippo Strozzi: solitamente
+
+475
+00:15:38,220 --> 00:15:39,580
+Filippo Strozzi: non vedi bene vicino a te
+
+476
+00:15:39,740 --> 00:15:40,940
+Filippo Strozzi: ho notato un
+
+477
+00:15:41,340 --> 00:15:42,380
+Filippo Strozzi: modello diciamo che
+
+478
+00:15:42,540 --> 00:15:43,500
+Filippo Strozzi: poi sto seguendo
+
+479
+00:15:43,820 --> 00:15:44,540
+Filippo Strozzi: con a con
+
+480
+00:15:44,700 --> 00:15:45,020
+Filippo Strozzi: a due
+
+481
+00:15:45,940 --> 00:15:46,260
+Filippo Strozzi: Con
+
+482
+00:15:47,060 --> 00:15:48,180
+Filippo Strozzi: l'attività formativa
+
+483
+00:15:48,500 --> 00:15:51,220
+Filippo Strozzi: che faccio da praticamente ormai una decina d'anni.
+
+484
+00:15:51,300 --> 00:15:53,300
+Filippo Strozzi: Stavo ragionando di riffo di raff
+
+485
+00:15:53,240 --> 00:15:54,360
+Filippo Strozzi: con gli articoli che scrivo
+
+486
+00:15:54,600 --> 00:15:55,560
+Filippo Strozzi: su avvocati e mec
+
+487
+00:15:55,880 --> 00:15:57,320
+Filippo Strozzi: appunto dal 2015
+
+488
+00:15:57,640 --> 00:15:57,960
+Filippo Strozzi: no dal
+
+489
+00:15:58,440 --> 00:15:58,760
+Filippo Strozzi: boh sì
+
+490
+00:15:58,920 --> 00:16:00,200
+Filippo Strozzi: dal 2015 e così via
+
+491
+00:16:00,360 --> 00:16:03,240
+Filippo Strozzi: effettivamente nel tempo mi sono appassionato a
+
+492
+00:16:03,540 --> 00:16:04,260
+Filippo Strozzi: tra virgolette
+
+493
+00:16:04,420 --> 00:16:07,540
+Filippo Strozzi: insegnare mettiamoli in questi termini cioè a comunque creare
+
+494
+00:16:08,339 --> 00:16:10,820
+Filippo Strozzi: creare contenuti non piace come affermazione
+
+495
+00:16:11,060 --> 00:16:12,420
+Filippo Strozzi: mi piace approfondire
+
+496
+00:16:12,580 --> 00:16:13,060
+Filippo Strozzi: le cose
+
+497
+00:16:13,220 --> 00:16:15,300
+Filippo Strozzi: e tra l'altro ho notato
+
+498
+00:16:15,800 --> 00:16:18,120
+Filippo Strozzi: Nelle ultime letture, secondo me,
+
+499
+00:16:18,440 --> 00:16:18,600
+Filippo Strozzi: lo
+
+500
+00:16:18,840 --> 00:16:20,200
+Filippo Strozzi: valutavo bene,
+
+501
+00:16:20,520 --> 00:16:21,000
+Filippo Strozzi: come.
+
+502
+00:16:21,000 --> 00:16:21,080
+Filippo Strozzi: .
+
+503
+00:16:22,280 --> 00:16:24,600
+Filippo Strozzi: è vero che chi.
+
+504
+00:16:24,600 --> 00:16:24,920
+Filippo Strozzi: .
+
+505
+00:16:24,860 --> 00:16:25,580
+Filippo Strozzi: Chi non
+
+506
+00:16:25,980 --> 00:16:28,940
+Filippo Strozzi: sa fare insegna, dice il motto, ma
+
+507
+00:16:29,180 --> 00:16:31,340
+Filippo Strozzi: abitualmente anche insegnare
+
+508
+00:16:31,660 --> 00:16:34,380
+Filippo Strozzi: significa poi imparare cose nuove.
+
+509
+00:16:34,380 --> 00:16:35,820
+Filippo Strozzi: Abitualmente diciamo.
+
+510
+00:16:36,480 --> 00:16:37,440
+Filippo Strozzi: se non ti siedi
+
+511
+00:16:37,600 --> 00:16:38,000
+Filippo Strozzi: diciamo
+
+512
+00:16:38,240 --> 00:16:40,560
+Filippo Strozzi: sull'attività e effettivamente appunto
+
+513
+00:16:41,360 --> 00:16:42,959
+Filippo Strozzi: la creazione di queste puntate
+
+514
+00:16:43,120 --> 00:16:44,720
+Filippo Strozzi: la creazione dei vari contenuti
+
+515
+00:16:45,140 --> 00:16:47,780
+Filippo Strozzi: che propongo a chi vuole ascoltarmi
+
+516
+00:16:47,940 --> 00:16:50,980
+Filippo Strozzi: è in quest'ottica cioè di accrescimento mio personale da una parte
+
+517
+00:16:51,140 --> 00:16:52,180
+Filippo Strozzi: ma dall'altro
+
+518
+00:16:52,340 --> 00:16:53,300
+Filippo Strozzi: di insegnamento
+
+519
+00:16:53,460 --> 00:16:56,340
+Filippo Strozzi: e sostanzialmente sto ragionando di
+
+520
+00:16:56,980 --> 00:16:57,620
+Filippo Strozzi: vedere
+
+521
+00:16:57,780 --> 00:16:57,940
+Filippo Strozzi: se
+
+522
+00:16:58,259 --> 00:17:03,459
+Filippo Strozzi: sarà possibile in una qualche maniera, o delle perplessità, mettiamole in questi termini,
+
+523
+00:17:04,419 --> 00:17:04,660
+Filippo Strozzi: cioè
+
+524
+00:17:04,900 --> 00:17:05,539
+Filippo Strozzi: rendere
+
+525
+00:17:05,860 --> 00:17:06,660
+Filippo Strozzi: parzialmente
+
+526
+00:17:07,240 --> 00:17:10,680
+Filippo Strozzi: un'attività, un'attività economica, mettiamola così, anche questa
+
+527
+00:17:10,839 --> 00:17:11,319
+Filippo Strozzi: questo mio
+
+528
+00:17:11,560 --> 00:17:12,760
+Filippo Strozzi: chiamiamolo così hobby.
+
+529
+00:17:12,760 --> 00:17:13,240
+Filippo Strozzi: Nella peggiore delle
+
+530
+00:17:13,400 --> 00:17:13,800
+Filippo Strozzi: ipotesi
+
+531
+00:17:13,959 --> 00:17:15,000
+Filippo Strozzi: rimarrà il mio
+
+532
+00:17:15,480 --> 00:17:15,800
+Filippo Strozzi: hobby
+
+533
+00:17:15,959 --> 00:17:21,560
+Filippo Strozzi: e il mio svago, mettiamolo in questi termini, però effettivamente ho notato, e dopo parlerò anche di
+
+534
+00:17:21,540 --> 00:17:21,700
+Filippo Strozzi: degli
+
+535
+00:17:21,860 --> 00:17:24,100
+Filippo Strozzi: altri motivi, diciamo, che mi stanno spingendo
+
+536
+00:17:24,340 --> 00:17:27,860
+Filippo Strozzi: in questa direzione, ho notato questo modello di di cose.
+
+537
+00:17:27,860 --> 00:17:28,100
+Filippo Strozzi: Che si
+
+538
+00:17:28,260 --> 00:17:28,340
+Filippo Strozzi: ne
+
+539
+00:17:28,820 --> 00:17:29,140
+Filippo Strozzi: quei
+
+540
+00:17:29,080 --> 00:17:29,240
+Filippo Strozzi: questi
+
+541
+00:17:29,400 --> 00:17:32,280
+Filippo Strozzi: puntini che se vanno in quella direzione e effettivamente
+
+542
+00:17:33,480 --> 00:17:35,560
+Filippo Strozzi: l'inizio del 2024
+
+543
+00:17:35,960 --> 00:17:39,640
+Filippo Strozzi: almeno i primi sei mesi diciamo mi sono dato un termine minimo
+
+544
+00:17:39,960 --> 00:17:41,320
+Filippo Strozzi: saranno dedicati
+
+545
+00:17:41,460 --> 00:17:42,100
+Filippo Strozzi: ovviamente
+
+546
+00:17:42,420 --> 00:17:53,940
+Filippo Strozzi: se il lavoro non sarà così pressante come credo, mettiamolo in questi termini, a ampliare, diciamo, quello che già sto facendo, vedere se da cosa nasce cosa o se invece.
+
+547
+00:17:54,100 --> 00:17:56,260
+Filippo Strozzi: rimarrà per sempre una passione
+
+548
+00:17:56,419 --> 00:17:57,860
+Filippo Strozzi: mettiamola in questi termini
+
+549
+00:17:58,179 --> 00:17:59,460
+Filippo Strozzi: e invece
+
+550
+00:17:59,779 --> 00:18:01,299
+Filippo Strozzi: mi dedicherò a fare dell'ale
+
+551
+00:18:01,620 --> 00:18:02,500
+Filippo Strozzi: Nella sostanza
+
+552
+00:18:02,660 --> 00:18:04,420
+Filippo Strozzi: adesso non voglio neanche
+
+553
+00:18:04,580 --> 00:18:08,580
+Filippo Strozzi: andare troppo nel dettaglio, però da quello che ho visto nel mondo legale
+
+554
+00:18:08,740 --> 00:18:09,220
+Filippo Strozzi: c'è.
+
+555
+00:18:09,160 --> 00:18:16,120
+Filippo Strozzi: poco spazio per l'insegnamento remunerato, mettiamola in questo termine se non nell'ambito accademico, ma ormai diciamo quel treno è
+
+556
+00:18:16,360 --> 00:18:18,040
+Filippo Strozzi: passato, cioè è passato da
+
+557
+00:18:18,200 --> 00:18:21,080
+Filippo Strozzi: mo, mettiamola in questi termini, e tra l'altro
+
+558
+00:18:20,860 --> 00:18:27,260
+Filippo Strozzi: L'insegnamento che ritengo io non è l'insegnamento del diritto e roba del genere, anche se poi è legato in parte a queste cose, ma è
+
+559
+00:18:27,820 --> 00:18:29,179
+Filippo Strozzi: l'insegnante di queste cose,
+
+560
+00:18:29,340 --> 00:18:31,820
+Filippo Strozzi: queste competenze ibride, chiamiamola così,
+
+561
+00:18:32,059 --> 00:18:33,260
+Filippo Strozzi: tra diritto.
+
+562
+00:18:33,240 --> 00:18:34,200
+Filippo Strozzi: informatica
+
+563
+00:18:34,440 --> 00:18:35,160
+Filippo Strozzi: gestione
+
+564
+00:18:35,640 --> 00:18:36,760
+Filippo Strozzi: gestione delle risorse
+
+565
+00:18:36,920 --> 00:18:37,640
+Filippo Strozzi: gestione
+
+566
+00:18:37,960 --> 00:18:39,160
+Filippo Strozzi: strutturazione anche
+
+567
+00:18:39,720 --> 00:18:40,120
+Filippo Strozzi: di come
+
+568
+00:18:40,440 --> 00:18:40,840
+Filippo Strozzi: di come
+
+569
+00:18:41,620 --> 00:18:43,220
+Filippo Strozzi: ottimizzare i processi
+
+570
+00:18:43,380 --> 00:18:45,700
+Filippo Strozzi: lavorativi in generale quindi queste sono un po'
+
+571
+00:18:46,020 --> 00:18:47,380
+Filippo Strozzi: le macro aree che
+
+572
+00:18:47,780 --> 00:18:48,420
+Filippo Strozzi: ho notato
+
+573
+00:18:48,580 --> 00:18:50,260
+Filippo Strozzi: essere il mio live motive
+
+574
+00:18:50,660 --> 00:18:50,980
+Filippo Strozzi: e
+
+575
+00:18:51,300 --> 00:18:52,980
+Filippo Strozzi: ci leggo, ci ragiono,
+
+576
+00:18:53,300 --> 00:18:55,700
+Filippo Strozzi: faccio e così via, quindi questa è l'idea
+
+577
+00:18:55,940 --> 00:18:56,260
+Filippo Strozzi: e
+
+578
+00:18:56,420 --> 00:18:58,100
+Filippo Strozzi: sostanzialmente appunto
+
+579
+00:18:58,980 --> 00:19:00,580
+Filippo Strozzi: imparare insegnando
+
+580
+00:19:00,820 --> 00:19:02,900
+Filippo Strozzi: che è poi il tema.
+
+581
+00:19:02,800 --> 00:19:04,560
+Filippo Strozzi: Così oggi parliamo di un altro libro,
+
+582
+00:19:04,720 --> 00:19:06,000
+Filippo Strozzi: mettiamoli in questi termini
+
+583
+00:19:06,240 --> 00:19:06,560
+Filippo Strozzi: perché
+
+584
+00:19:06,800 --> 00:19:08,480
+Filippo Strozzi: la sto prendendo come
+
+585
+00:19:10,320 --> 00:19:12,640
+Filippo Strozzi: in maniera positiva la cosa dei libri.
+
+586
+00:19:13,200 --> 00:19:13,919
+Filippo Strozzi: Attualmente
+
+587
+00:19:14,159 --> 00:19:16,320
+Filippo Strozzi: stiamo ricevendo abbastanza feedback positivi
+
+588
+00:19:16,639 --> 00:19:17,919
+Filippo Strozzi: sul fatto anche di
+
+589
+00:19:18,559 --> 00:19:19,679
+Filippo Strozzi: intermezzare
+
+590
+00:19:20,880 --> 00:19:22,960
+Filippo Strozzi: queste letture che comunque tanto noi facciamo.
+
+591
+00:19:23,279 --> 00:19:24,399
+Filippo Strozzi: Nella sostanza,
+
+592
+00:19:24,720 --> 00:19:26,240
+Filippo Strozzi: il libro che mi ha dato.
+
+593
+00:19:26,480 --> 00:19:28,000
+Filippo Strozzi: Mentre preparavo, diciamo.
+
+594
+00:19:28,160 --> 00:19:29,120
+Filippo Strozzi: la scaletta
+
+595
+00:19:31,040 --> 00:19:32,240
+Filippo Strozzi: di questa puntata
+
+596
+00:19:32,480 --> 00:19:32,800
+Filippo Strozzi: show
+
+597
+00:19:33,120 --> 00:19:33,680
+Filippo Strozzi: your work
+
+598
+00:19:34,000 --> 00:19:34,240
+Filippo Strozzi: cioè
+
+599
+00:19:34,400 --> 00:19:36,320
+Filippo Strozzi: mostra il tuo lavoro che da noi
+
+600
+00:19:36,940 --> 00:19:37,899
+Filippo Strozzi: È stato tradotto
+
+601
+00:19:38,059 --> 00:19:38,700
+Filippo Strozzi: ovviamente
+
+602
+00:19:38,940 --> 00:19:41,419
+Filippo Strozzi: alla maniera italiana: semina come un artista.
+
+603
+00:19:41,419 --> 00:19:41,980
+Filippo Strozzi: Il motivo
+
+604
+00:19:42,139 --> 00:19:44,380
+Filippo Strozzi: del semina come un artista è perché
+
+605
+00:19:44,600 --> 00:19:44,679
+Filippo Strozzi: Lo
+
+606
+00:19:45,000 --> 00:19:48,840
+Filippo Strozzi: scrittore è il suo secondo libro e il primo libro
+
+607
+00:19:49,000 --> 00:19:50,039
+Filippo Strozzi: da noi è stato tradotto
+
+608
+00:19:50,360 --> 00:19:51,799
+Filippo Strozzi: Ruba come un artista, cioè
+
+609
+00:19:51,960 --> 00:19:52,520
+Filippo Strozzi: Steel.
+
+610
+00:19:52,760 --> 00:19:53,000
+Filippo Strozzi: like
+
+611
+00:19:53,160 --> 00:19:54,520
+Filippo Strozzi: an artist, l'autore
+
+612
+00:19:54,679 --> 00:19:56,280
+Filippo Strozzi: Austin Cleon, il libro
+
+613
+00:19:56,520 --> 00:19:57,480
+Filippo Strozzi: non è neanche definibile
+
+614
+00:19:57,640 --> 00:20:00,520
+Filippo Strozzi: un libro, mettiamola così, è un volumetto
+
+615
+00:20:01,100 --> 00:20:01,340
+Filippo Strozzi: di
+
+616
+00:20:01,659 --> 00:20:01,899
+Filippo Strozzi: sarà
+
+617
+00:20:02,059 --> 00:20:03,340
+Filippo Strozzi: 60-70 pagine
+
+618
+00:20:03,500 --> 00:20:03,980
+Filippo Strozzi: tra altre cose
+
+619
+00:20:04,139 --> 00:20:04,700
+Filippo Strozzi: illustrato
+
+620
+00:20:05,019 --> 00:20:07,580
+Filippo Strozzi: Cleon è sostanzialmente un artista che
+
+621
+00:20:08,220 --> 00:20:08,860
+Filippo Strozzi: appunto
+
+622
+00:20:09,679 --> 00:20:14,720
+Filippo Strozzi: parla ovviamente per gli artisti, ma il messaggio generale effettivamente
+
+623
+00:20:14,960 --> 00:20:15,279
+Filippo Strozzi: è
+
+624
+00:20:16,240 --> 00:20:21,360
+Filippo Strozzi: più a 360 gradi, io l'ho sempre utilizzato anche nella mia attività quotidiana.
+
+625
+00:20:21,760 --> 00:20:22,320
+Filippo Strozzi: appunto
+
+626
+00:20:22,960 --> 00:20:25,520
+Filippo Strozzi: ruba come un artista il concetto è
+
+627
+00:20:25,760 --> 00:20:28,320
+Filippo Strozzi: prendi le cose buone ovviamente che trovi
+
+628
+00:20:28,640 --> 00:20:29,440
+Filippo Strozzi: fatte da altri
+
+629
+00:20:29,600 --> 00:20:32,880
+Filippo Strozzi: fai le tue e ovviamente reinventale e reinterpretale
+
+630
+00:20:33,120 --> 00:20:34,000
+Filippo Strozzi: Alla tua maniera,
+
+631
+00:20:34,560 --> 00:20:36,880
+Filippo Strozzi: la sintetizzo in maniera veramente.
+
+632
+00:20:36,880 --> 00:20:39,520
+Filippo Strozzi: come fanno tutti gli architetti, essenzialmente.
+
+633
+00:20:39,840 --> 00:20:40,800
+Filippo Strozzi: Semina come
+
+634
+00:20:41,120 --> 00:20:42,080
+Filippo Strozzi: un artista,
+
+635
+00:20:42,240 --> 00:20:43,280
+Filippo Strozzi: cioè.
+
+636
+00:20:42,760 --> 00:20:45,000
+Filippo Strozzi: mostra il tuo lavoro e l'idea
+
+637
+00:20:45,160 --> 00:20:47,640
+Filippo Strozzi: di Cleone è effettivamente interessante
+
+638
+00:20:47,960 --> 00:20:48,200
+Filippo Strozzi: e
+
+639
+00:20:48,440 --> 00:20:49,000
+Filippo Strozzi: a volte
+
+640
+00:20:49,160 --> 00:20:51,320
+Filippo Strozzi: in parte mi sono reso conto di averlo fatto
+
+641
+00:20:51,500 --> 00:20:53,740
+Filippo Strozzi: senza rendermi conto che lo facevo non so se mi spiego
+
+642
+00:20:53,900 --> 00:20:57,820
+Filippo Strozzi: e quindi la mia idea poi è quella di rendere tutti questi processi più
+
+643
+00:20:58,059 --> 00:20:59,580
+Filippo Strozzi: a me stesso più
+
+644
+00:20:59,900 --> 00:21:00,059
+Filippo Strozzi: più
+
+645
+00:21:00,299 --> 00:21:01,900
+Filippo Strozzi: chiari e più evidenti
+
+646
+00:21:02,240 --> 00:21:02,880
+Filippo Strozzi: è che
+
+647
+00:21:03,040 --> 00:21:03,440
+Filippo Strozzi: appunto
+
+648
+00:21:03,600 --> 00:21:09,840
+Filippo Strozzi: l'idea è quella di pensare al processo e non al prodotto, quindi è ovvio che io per esempio non posso far vedere
+
+649
+00:21:10,140 --> 00:21:10,460
+Filippo Strozzi: come
+
+650
+00:21:11,100 --> 00:21:17,820
+Filippo Strozzi: il mio atto bellissimo tra virgolette e così via perché comunque è qualcosa di riservato e legato al mondo legale
+
+651
+00:21:17,980 --> 00:21:18,780
+Filippo Strozzi: ma per esempio
+
+652
+00:21:18,940 --> 00:21:21,420
+Filippo Strozzi: in parte posso fare vedere il mio processo
+
+653
+00:21:21,400 --> 00:21:22,040
+Filippo Strozzi: e quindi
+
+654
+00:21:22,200 --> 00:21:22,520
+Filippo Strozzi: anche
+
+655
+00:21:22,760 --> 00:21:24,360
+Filippo Strozzi: documentare il processo, cioè
+
+656
+00:21:24,680 --> 00:21:30,120
+Filippo Strozzi: come lavori, come fai le cose e così via, e quindi anche mostrare il lavoro che poi c'è dietro
+
+657
+00:21:30,440 --> 00:21:32,040
+Filippo Strozzi: all'attività che svolgi
+
+658
+00:21:32,240 --> 00:21:32,560
+Filippo Strozzi: o
+
+659
+00:21:32,800 --> 00:21:34,000
+Filippo Strozzi: alle cose che fai
+
+660
+00:21:34,320 --> 00:21:36,080
+Filippo Strozzi: è sicuramente utile e
+
+661
+00:21:36,320 --> 00:21:37,920
+Filippo Strozzi: ti permette da una parte
+
+662
+00:21:38,320 --> 00:21:43,120
+Filippo Strozzi: appunto di condividere e quindi di insegnare, di mostrare quello che sai fare e anche
+
+663
+00:21:43,440 --> 00:21:44,640
+Filippo Strozzi: avere anche un feedback
+
+664
+00:21:44,800 --> 00:21:46,000
+Filippo Strozzi: in modo da.
+
+665
+00:21:46,340 --> 00:21:46,659
+Filippo Strozzi: anche
+
+666
+00:21:46,980 --> 00:21:51,860
+Filippo Strozzi: renderti raggiungibile diciamo dalle persone poi che eventualmente possono essere interessate
+
+667
+00:21:52,019 --> 00:21:52,820
+Filippo Strozzi: alle tue cose
+
+668
+00:21:52,980 --> 00:21:54,019
+Filippo Strozzi: quindi è appunto questa
+
+669
+00:21:54,360 --> 00:21:58,760
+Filippo Strozzi: Stanno, diciamo, la mia idea nei primi sei mesi è quella di creare, anche qui
+
+670
+00:21:59,399 --> 00:22:03,559
+Filippo Strozzi: non mi piace come cosa, ma di creare più contenuti, mettiamola in questi termini,
+
+671
+00:22:03,720 --> 00:22:05,639
+Filippo Strozzi: proprio per mostrare ed essere
+
+672
+00:22:05,799 --> 00:22:09,159
+Filippo Strozzi: più intenzionale, mettiamola così, nel mostrare quello che faccio.
+
+673
+00:22:09,519 --> 00:22:14,000
+Filippo Strozzi: come lo faccio ottimizzare anche i miei processi e parlare di come faccio queste
+
+674
+00:22:14,159 --> 00:22:15,679
+Filippo Strozzi: queste cose sostanzialmente
+
+675
+00:22:15,919 --> 00:22:16,559
+Filippo Strozzi: l'altro
+
+676
+00:22:16,860 --> 00:22:18,220
+Filippo Strozzi: argomento che mi ha intrippato
+
+677
+00:22:18,380 --> 00:22:20,779
+Filippo Strozzi: ed è sempre collaterale mettiamolo così
+
+678
+00:22:21,019 --> 00:22:21,659
+Filippo Strozzi: a questo
+
+679
+00:22:21,899 --> 00:22:22,220
+Filippo Strozzi: è
+
+680
+00:22:22,380 --> 00:22:24,860
+Filippo Strozzi: quello delle procedure operative standard
+
+681
+00:22:24,800 --> 00:22:27,120
+Filippo Strozzi: che ho notato si colloca bene, diciamo, nel
+
+682
+00:22:27,280 --> 00:22:28,960
+Filippo Strozzi: mio contesto, diciamo, dove
+
+683
+00:22:29,200 --> 00:22:37,520
+Filippo Strozzi: bene o male, appunto, ho cercato in tutte le maniere, nella mia attività professionale, di ottimizzare il mio flusso di lavoro, quindi appunto il mio processo, per
+
+684
+00:22:38,260 --> 00:22:39,140
+Filippo Strozzi: velocizzare
+
+685
+00:22:39,380 --> 00:22:39,940
+Filippo Strozzi: semplificare
+
+686
+00:22:40,179 --> 00:22:41,140
+Filippo Strozzi: rendere più
+
+687
+00:22:41,620 --> 00:22:42,500
+Filippo Strozzi: lineare
+
+688
+00:22:42,740 --> 00:22:47,299
+Filippo Strozzi: evitare gli errori di quello che faccio e effettivamente mi piace anche
+
+689
+00:22:47,580 --> 00:22:50,140
+Filippo Strozzi: tutta la fase organizzativa, quindi nella sostanza
+
+690
+00:22:50,300 --> 00:22:56,220
+Filippo Strozzi: l'ottimizzazione dei processi lavorativi e creativi è una cosa di cui voglio approfondire.
+
+691
+00:22:56,519 --> 00:22:56,600
+Filippo Strozzi: fare
+
+692
+00:22:56,760 --> 00:22:57,799
+Filippo Strozzi: gli approfondimenti maggiori
+
+693
+00:22:57,960 --> 00:22:59,159
+Filippo Strozzi: li sto già facendo adesso
+
+694
+00:22:59,559 --> 00:23:01,320
+Filippo Strozzi: mentre parliamo nel senso che
+
+695
+00:23:01,559 --> 00:23:03,559
+Filippo Strozzi: che ho già messo in pista varie cose
+
+696
+00:23:03,720 --> 00:23:04,039
+Filippo Strozzi: varie
+
+697
+00:23:04,440 --> 00:23:04,760
+Filippo Strozzi: vari
+
+698
+00:23:04,919 --> 00:23:05,799
+Filippo Strozzi: ragionamenti
+
+699
+00:23:05,960 --> 00:23:07,880
+Filippo Strozzi: e in futuro si vedranno spero
+
+700
+00:23:08,039 --> 00:23:08,440
+Filippo Strozzi: spero
+
+701
+00:23:08,760 --> 00:23:09,080
+Filippo Strozzi: anzi
+
+702
+00:23:09,240 --> 00:23:09,399
+Filippo Strozzi: ho
+
+703
+00:23:09,880 --> 00:23:10,120
+Filippo Strozzi: sto
+
+704
+00:23:10,200 --> 00:23:11,399
+Filippo Strozzi: Sto contattando
+
+705
+00:23:11,639 --> 00:23:12,760
+Filippo Strozzi: conoscenti diciamo
+
+706
+00:23:12,919 --> 00:23:18,600
+Filippo Strozzi: per anche fare degli esperimenti pratici non solo su me stesso ma con Tersi, mettiamola così.
+
+707
+00:23:18,440 --> 00:23:19,639
+Filippo Strozzi: eventualmente se
+
+708
+00:23:19,880 --> 00:23:20,519
+Filippo Strozzi: ci sarà mod
+
+709
+00:23:20,679 --> 00:23:21,559
+Filippo Strozzi: e se le cose vanno com'è
+
+710
+00:23:21,720 --> 00:23:21,799
+Filippo Strozzi: spero
+
+711
+00:23:21,960 --> 00:23:22,760
+Filippo Strozzi: io non l'ho detto
+
+712
+00:23:23,000 --> 00:23:23,799
+Filippo Strozzi: ne parlerò
+
+713
+00:23:23,960 --> 00:23:24,279
+Filippo Strozzi: adesso
+
+714
+00:23:24,440 --> 00:23:25,639
+Filippo Strozzi: dove come quando perché
+
+715
+00:23:25,880 --> 00:23:26,120
+Filippo Strozzi: non
+
+716
+00:23:26,360 --> 00:23:27,399
+Filippo Strozzi: so ancora in questa
+
+717
+00:23:27,720 --> 00:23:28,360
+Filippo Strozzi: maniera
+
+718
+00:23:28,600 --> 00:23:29,000
+Filippo Strozzi: però
+
+719
+00:23:29,260 --> 00:23:29,419
+Filippo Strozzi: questo
+
+720
+00:23:29,580 --> 00:23:29,740
+Filippo Strozzi: è
+
+721
+00:23:32,460 --> 00:23:34,220
+Filippo Strozzi: l'aspetto diciamo del
+
+722
+00:23:34,780 --> 00:23:36,299
+Filippo Strozzi: insegnamento e della creazione
+
+723
+00:23:36,460 --> 00:23:38,140
+Filippo Strozzi: e poi dall'altra
+
+724
+00:23:39,520 --> 00:23:40,560
+Filippo Strozzi: Ho notato che pur
+
+725
+00:23:40,720 --> 00:23:41,360
+Filippo Strozzi: essendo
+
+726
+00:23:41,600 --> 00:23:47,200
+Filippo Strozzi: una persona che vivo online, anche diciamo che è una sola entità online, perché ho comunque un senso
+
+727
+00:23:47,060 --> 00:23:47,620
+Filippo Strozzi: Sito, perché
+
+728
+00:23:47,780 --> 00:23:49,220
+Filippo Strozzi: ho i podcast,
+
+729
+00:23:49,540 --> 00:23:51,380
+Filippo Strozzi: anche questo piccolo canale YouTube.
+
+730
+00:23:51,380 --> 00:23:52,900
+Filippo Strozzi: Mi sono reso conto che
+
+731
+00:23:53,220 --> 00:23:56,260
+Filippo Strozzi: non sono un uomo social, non lo sarò mai, credo.
+
+732
+00:23:56,260 --> 00:24:00,740
+Filippo Strozzi: Ma appunto l'idea di fondo è di ottimizzare, diciamo, il tutto.
+
+733
+00:24:01,480 --> 00:24:04,760
+Filippo Strozzi: farmi andare giù cose che attualmente non mi vanno molto giù
+
+734
+00:24:04,920 --> 00:24:05,960
+Filippo Strozzi: come si soldi
+
+735
+00:24:07,480 --> 00:24:09,720
+Filippo Strozzi: ingoiare il buccone amaro
+
+736
+00:24:09,400 --> 00:24:09,560
+Filippo Strozzi: Ma
+
+737
+00:24:09,800 --> 00:24:10,040
+Filippo Strozzi: sì,
+
+738
+00:24:10,280 --> 00:24:10,520
+Filippo Strozzi: cioè
+
+739
+00:24:11,240 --> 00:24:12,280
+Filippo Strozzi: continua a ripetere
+
+740
+00:24:12,440 --> 00:24:12,760
+Filippo Strozzi: adesso.
+
+741
+00:24:12,760 --> 00:24:13,000
+Filippo Strozzi: Io
+
+742
+00:24:13,480 --> 00:24:13,960
+Filippo Strozzi: appunto
+
+743
+00:24:14,120 --> 00:24:16,440
+Filippo Strozzi: su piattaforme come Facebook, Instagram
+
+744
+00:24:17,080 --> 00:24:18,120
+Filippo Strozzi: non esisto e.
+
+745
+00:24:18,540 --> 00:24:19,100
+Filippo Strozzi: E in
+
+746
+00:24:19,260 --> 00:24:20,940
+Filippo Strozzi: buona parte non voglio esistere.
+
+747
+00:24:20,940 --> 00:24:23,100
+Filippo Strozzi: Non so se mi spiego, anzi,
+
+748
+00:24:23,580 --> 00:24:24,940
+Filippo Strozzi: lo dico sempre: non ho neanche
+
+749
+00:24:25,100 --> 00:24:26,300
+Filippo Strozzi: WhatsApp, quindi sono veramente
+
+750
+00:24:26,700 --> 00:24:26,860
+Filippo Strozzi: pur
+
+751
+00:24:27,180 --> 00:24:33,180
+Filippo Strozzi: essendo un appassionato tecnologico, intendo a precisare, diciamo che appunto su certe cose sto.
+
+752
+00:24:33,560 --> 00:24:35,720
+Filippo Strozzi: Non mi ci sto ripensando, ma diciamo sto
+
+753
+00:24:35,880 --> 00:24:36,920
+Filippo Strozzi: ragionando, adesso
+
+754
+00:24:37,160 --> 00:24:41,320
+Filippo Strozzi: per esempio, secondo me, ne accennavo anche Roberto, sto mettendo mano
+
+755
+00:24:41,480 --> 00:24:42,600
+Filippo Strozzi: a varie cose
+
+756
+00:24:42,840 --> 00:24:43,160
+Filippo Strozzi: su
+
+757
+00:24:43,320 --> 00:24:44,840
+Filippo Strozzi: possibili attuazione.
+
+758
+00:24:44,600 --> 00:24:45,799
+Filippo Strozzi: Cose pratiche del
+
+759
+00:24:45,960 --> 00:24:48,600
+Filippo Strozzi: cosiddetto intelligenza artificiale, leme
+
+760
+00:24:48,840 --> 00:24:49,799
+Filippo Strozzi: sarebbe più corretto
+
+761
+00:24:49,960 --> 00:24:50,919
+Filippo Strozzi: dire, così via.
+
+762
+00:24:50,919 --> 00:24:51,159
+Filippo Strozzi: Quanto
+
+763
+00:24:51,320 --> 00:24:51,960
+Filippo Strozzi: meno rim
+
+764
+00:24:51,960 --> 00:24:54,600
+Filippo Strozzi: rimanere legato a queste nuove tecnologie
+
+765
+00:24:54,760 --> 00:24:56,760
+Filippo Strozzi: non perché ci creda molto per esempio
+
+766
+00:24:56,920 --> 00:24:57,160
+Filippo Strozzi: perché
+
+767
+00:24:57,400 --> 00:24:58,360
+Filippo Strozzi: continuo a ripetere
+
+768
+00:24:58,600 --> 00:25:00,280
+Filippo Strozzi: ho delle grosse perplessità su tutte
+
+769
+00:25:00,340 --> 00:25:01,140
+Filippo Strozzi: tante cose
+
+770
+00:25:01,460 --> 00:25:03,460
+Filippo Strozzi: però effettivamente sono cose nuove
+
+771
+00:25:03,620 --> 00:25:04,419
+Filippo Strozzi: probabilmente
+
+772
+00:25:04,660 --> 00:25:06,179
+Filippo Strozzi: verranno introdotte
+
+773
+00:25:07,140 --> 00:25:11,539
+Filippo Strozzi: più o meno a forza o più o meno perché gli altri le usano nella nostra vita
+
+774
+00:25:11,400 --> 00:25:15,000
+Filippo Strozzi: La mia idea è quella di ragionare se e come
+
+775
+00:25:15,320 --> 00:25:16,680
+Filippo Strozzi: possono far parte poi
+
+776
+00:25:17,480 --> 00:25:21,720
+Filippo Strozzi: della mia vita tecnologica, mettiamola in questi termini, e quindi anche.
+
+777
+00:25:21,720 --> 00:25:22,040
+Filippo Strozzi: .
+
+778
+00:25:21,860 --> 00:25:21,940
+Filippo Strozzi: anche
+
+779
+00:25:22,100 --> 00:25:24,100
+Filippo Strozzi: il discorso media diciamo che
+
+780
+00:25:24,500 --> 00:25:26,659
+Filippo Strozzi: non amo anzi che tendenzialmente
+
+781
+00:25:26,820 --> 00:25:27,779
+Filippo Strozzi: cerco di tener
+
+782
+00:25:28,340 --> 00:25:30,419
+Filippo Strozzi: da cui cerco di tenermi molto lontano
+
+783
+00:25:30,580 --> 00:25:32,980
+Filippo Strozzi: devo trovare o almeno la mia idea appunto
+
+784
+00:25:33,139 --> 00:25:33,299
+Filippo Strozzi: di
+
+785
+00:25:33,560 --> 00:25:40,120
+Filippo Strozzi: di sperimentare e trovare una mia via, mettiamola in questi termini, in questo, in questo flusso, l'ultima cosa cioè, o me,
+
+786
+00:25:40,360 --> 00:25:41,400
+Filippo Strozzi: le ultime due cose
+
+787
+00:25:41,200 --> 00:25:47,120
+Filippo Strozzi: che diciamo sono legate a tutto questo sistema è sicuramente l'ottimizzazione del mio spazio di lavoro che come dicevo la volta scorsa
+
+788
+00:25:47,279 --> 00:25:47,679
+Filippo Strozzi: adesso non
+
+789
+00:25:48,159 --> 00:25:51,360
+Filippo Strozzi: mi ripeto molto ma ormai lavoro prevalentemente da casa
+
+790
+00:25:51,679 --> 00:25:52,240
+Filippo Strozzi: a parte
+
+791
+00:25:52,720 --> 00:25:53,679
+Filippo Strozzi: ricevere i c<unk>i
+
+792
+00:25:53,460 --> 00:25:56,820
+Filippo Strozzi: clienti sostanzialmente nel vecchio ufficio il mio piccolo studiolo
+
+793
+00:25:56,980 --> 00:25:57,860
+Filippo Strozzi: come lo definisco io
+
+794
+00:25:58,020 --> 00:25:58,260
+Filippo Strozzi: è ben
+
+795
+00:25:58,500 --> 00:25:58,900
+Filippo Strozzi: messo
+
+796
+00:25:59,060 --> 00:25:59,620
+Filippo Strozzi: adesso
+
+797
+00:25:59,780 --> 00:26:00,100
+Filippo Strozzi: l'ho fatto
+
+798
+00:26:00,260 --> 00:26:01,060
+Filippo Strozzi: vedere a Roberto
+
+799
+00:26:01,220 --> 00:26:02,340
+Filippo Strozzi: qualcosa sta migliorando
+
+800
+00:26:02,820 --> 00:26:04,100
+Filippo Strozzi: ho avuto un momento di
+
+801
+00:26:04,200 --> 00:26:09,720
+Filippo Strozzi: e ho anche un po' ottimizzato due o tre cose, devo ancora ottimizzarlo anche perché appunto deve diventare
+
+802
+00:26:11,480 --> 00:26:12,200
+Filippo Strozzi: uno strumento
+
+803
+00:26:12,679 --> 00:26:15,720
+Filippo Strozzi: dove posso fare un po' di tutto dall'attività professionale alle.
+
+804
+00:26:15,720 --> 00:26:15,799
+Filippo Strozzi: .
+
+805
+00:26:15,980 --> 00:26:17,740
+Filippo Strozzi: chiamiamole così attività ricreative
+
+806
+00:26:17,980 --> 00:26:19,260
+Filippo Strozzi: di registrazione podcast
+
+807
+00:26:19,420 --> 00:26:20,460
+Filippo Strozzi: video e così via
+
+808
+00:26:20,620 --> 00:26:20,940
+Filippo Strozzi: quindi
+
+809
+00:26:21,740 --> 00:26:21,900
+Filippo Strozzi: sto
+
+810
+00:26:22,060 --> 00:26:23,740
+Filippo Strozzi: ragionando dei piccoli acquisti
+
+811
+00:26:23,980 --> 00:26:24,620
+Filippo Strozzi: cercando di
+
+812
+00:26:24,780 --> 00:26:25,580
+Filippo Strozzi: non spare
+
+813
+00:26:25,260 --> 00:26:26,220
+Filippo Strozzi: spendere troppo ma
+
+814
+00:26:26,380 --> 00:26:28,059
+Filippo Strozzi: ottenere il massimo risultato
+
+815
+00:26:28,860 --> 00:26:30,940
+Filippo Strozzi: dagli acquisti proprio per rendere questo
+
+816
+00:26:31,260 --> 00:26:32,940
+Filippo Strozzi: questo piccolo spazio
+
+817
+00:26:33,179 --> 00:26:33,419
+Filippo Strozzi: sempre
+
+818
+00:26:33,659 --> 00:26:36,059
+Filippo Strozzi: più efficace, utile, efficiente
+
+819
+00:26:36,220 --> 00:26:37,340
+Filippo Strozzi: e poi ovviamente
+
+820
+00:26:37,659 --> 00:26:38,139
+Filippo Strozzi: appunto
+
+821
+00:26:38,380 --> 00:26:39,260
+Filippo Strozzi: il live motive
+
+822
+00:26:39,419 --> 00:26:40,539
+Filippo Strozzi: di tutta questa vicenda
+
+823
+00:26:40,779 --> 00:26:43,260
+Filippo Strozzi: e poi il motore diciamo purtroppo
+
+824
+00:26:43,419 --> 00:26:45,980
+Filippo Strozzi: che mi ha portato a fare tutta una serie di ragionamenti
+
+825
+00:26:46,220 --> 00:26:46,779
+Filippo Strozzi: è.
+
+826
+00:26:47,040 --> 00:26:47,440
+Filippo Strozzi: appunto
+
+827
+00:26:47,600 --> 00:26:49,520
+Filippo Strozzi: un periodo di spending review
+
+828
+00:26:49,680 --> 00:26:50,000
+Filippo Strozzi: perché
+
+829
+00:26:50,480 --> 00:26:56,240
+Filippo Strozzi: comunque la situazione è quella che è, il futuro non è tremendo ma è diciamo più incerto
+
+830
+00:26:57,200 --> 00:27:00,320
+Filippo Strozzi: dei periodi precedenti almeno dal mio punto di vista
+
+831
+00:26:59,960 --> 00:27:01,880
+Filippo Strozzi: il lavoro non sta andando così bene
+
+832
+00:27:02,360 --> 00:27:02,520
+Filippo Strozzi: come
+
+833
+00:27:02,680 --> 00:27:05,880
+Filippo Strozzi: speravo e da un certo punto di vista questo è un pro e anche un contro
+
+834
+00:27:06,840 --> 00:27:08,840
+Filippo Strozzi: mi permette di sperimentare da una parte
+
+835
+00:27:09,080 --> 00:27:09,880
+Filippo Strozzi: dall'altra
+
+836
+00:27:10,160 --> 00:27:11,200
+Filippo Strozzi: ovviamente è
+
+837
+00:27:11,440 --> 00:27:12,000
+Filippo Strozzi: un problema
+
+838
+00:27:12,160 --> 00:27:13,120
+Filippo Strozzi: mettiamola così
+
+839
+00:27:13,360 --> 00:27:16,960
+Filippo Strozzi: quindi soprattutto non vedo possibilità breve di
+
+840
+00:27:17,600 --> 00:27:19,280
+Filippo Strozzi: un ritornare agli splendori
+
+841
+00:27:19,440 --> 00:27:19,600
+Filippo Strozzi: ai
+
+842
+00:27:19,760 --> 00:27:20,560
+Filippo Strozzi: fasti del tempo
+
+843
+00:27:20,720 --> 00:27:21,920
+Filippo Strozzi: mettiamoli in questi termini
+
+844
+00:27:22,080 --> 00:27:22,720
+Filippo Strozzi: premetto
+
+845
+00:27:22,960 --> 00:27:24,320
+Filippo Strozzi: non mi è mai andata male
+
+846
+00:27:24,480 --> 00:27:24,640
+Filippo Strozzi: quindi
+
+847
+00:27:25,320 --> 00:27:25,880
+Filippo Strozzi: appunto è
+
+848
+00:27:26,280 --> 00:27:27,480
+Filippo Strozzi: ovvio punti di vista
+
+849
+00:27:27,800 --> 00:27:28,680
+Filippo Strozzi: bicchiere mezzo pieno
+
+850
+00:27:28,840 --> 00:27:29,320
+Filippo Strozzi: mezzo vuoto
+
+851
+00:27:29,480 --> 00:27:30,760
+Filippo Strozzi: mettiamole in questi termini
+
+852
+00:27:30,920 --> 00:27:31,400
+Filippo Strozzi: diciamo
+
+853
+00:27:31,640 --> 00:27:34,440
+Filippo Strozzi: però oggettivamente rispetto agli anni passati c'è stato
+
+854
+00:27:34,460 --> 00:27:34,700
+Filippo Strozzi: stato
+
+855
+00:27:35,980 --> 00:27:40,060
+Filippo Strozzi: un significativo calo, mettiamolo in questi termini, che ha richiesto
+
+856
+00:27:40,300 --> 00:27:42,380
+Filippo Strozzi: ovviamente di accorgimenti
+
+857
+00:27:42,440 --> 00:27:43,000
+Filippo Strozzi: per tempo
+
+858
+00:27:43,399 --> 00:27:43,559
+Filippo Strozzi: non
+
+859
+00:27:44,039 --> 00:27:47,720
+Filippo Strozzi: vado in un fosso a breve mettiamola in questi termini nessuno si preoccupi
+
+860
+00:27:48,440 --> 00:27:49,480
+Filippo Strozzi: mettiamola così
+
+861
+00:27:49,639 --> 00:27:50,360
+Filippo Strozzi: sicuramente
+
+862
+00:27:50,519 --> 00:27:53,080
+Filippo Strozzi: questa situazione mi ha fatto ragionare di più
+
+863
+00:27:53,240 --> 00:27:53,559
+Filippo Strozzi: cioè
+
+864
+00:27:53,720 --> 00:27:54,039
+Filippo Strozzi: ho
+
+865
+00:27:54,200 --> 00:27:54,279
+Filippo Strozzi: mi
+
+866
+00:27:54,440 --> 00:27:54,519
+Filippo Strozzi: ha
+
+867
+00:27:54,679 --> 00:27:59,159
+Filippo Strozzi: fatto prendere coscienza di alcune cose, ragionare su altre
+
+868
+00:27:59,480 --> 00:28:00,200
+Filippo Strozzi: e appunto
+
+869
+00:28:00,360 --> 00:28:05,880
+Filippo Strozzi: l'idea di fondo è finché c'è il margine per dare le sterzate e per fare.
+
+870
+00:28:05,860 --> 00:28:06,820
+Filippo Strozzi: degli esperimenti
+
+871
+00:28:05,880 --> 00:28:06,200
+Filippo Strozzi: .
+
+872
+00:28:06,200 --> 00:28:06,519
+Filippo Strozzi: .
+
+873
+00:28:07,059 --> 00:28:07,700
+Filippo Strozzi: ho intenzione
+
+874
+00:28:07,860 --> 00:28:08,340
+Filippo Strozzi: di farlo
+
+875
+00:28:08,500 --> 00:28:10,740
+Filippo Strozzi: poi ovvio che a fronte di
+
+876
+00:28:11,059 --> 00:28:11,860
+Filippo Strozzi: varie cose
+
+877
+00:28:12,500 --> 00:28:14,659
+Filippo Strozzi: farò scelte in base anche a un
+
+878
+00:28:14,960 --> 00:28:16,240
+Filippo Strozzi: a un feedback
+
+879
+00:28:16,800 --> 00:28:18,960
+Filippo Strozzi: più o meno negativo che mi darà la vita
+
+880
+00:28:19,280 --> 00:28:20,560
+Filippo Strozzi: concreta mettiamone
+
+881
+00:28:21,120 --> 00:28:21,920
+Filippo Strozzi: queste cose
+
+882
+00:28:22,560 --> 00:28:22,880
+Roberto Marin: Ah beh
+
+883
+00:28:23,040 --> 00:28:23,600
+Roberto Marin: certo.
+
+884
+00:28:23,600 --> 00:28:24,400
+Roberto Marin: Tra l'altro
+
+885
+00:28:24,720 --> 00:28:25,680
+Roberto Marin: sono cose che
+
+886
+00:28:25,920 --> 00:28:26,960
+Roberto Marin: io giudico
+
+887
+00:28:27,520 --> 00:28:30,480
+Roberto Marin: del tutto normali che all'interno di una vita
+
+888
+00:28:30,640 --> 00:28:33,360
+Roberto Marin: professionale, o anche la vita normale.
+
+889
+00:28:33,060 --> 00:28:39,620
+Roberto Marin: ci si trovi comunque, non dico in difficoltà, ma che comunque bisogna arrivare a un certo punto che bisogna rivedere un po' la situazione
+
+890
+00:28:39,940 --> 00:28:41,540
+Roberto Marin: e normale amministrazione.
+
+891
+00:28:41,400 --> 00:28:42,600
+Roberto Marin: non è secondo me
+
+892
+00:28:42,840 --> 00:28:43,160
+Roberto Marin: un
+
+893
+00:28:43,400 --> 00:28:43,640
+Roberto Marin: come
+
+894
+00:28:43,800 --> 00:28:47,880
+Roberto Marin: si può dire non si può definire una sconfitta o qualcosa del genere
+
+895
+00:28:48,120 --> 00:28:48,440
+Roberto Marin: anzi
+
+896
+00:28:48,680 --> 00:28:50,440
+Roberto Marin: probabilmente è più un insegnamento
+
+897
+00:28:50,600 --> 00:28:50,840
+Roberto Marin: volevo
+
+898
+00:28:51,080 --> 00:28:52,360
+Roberto Marin: solo far passare questa
+
+899
+00:28:52,400 --> 00:28:53,040
+Roberto Marin: Questa cosa
+
+900
+00:28:53,200 --> 00:28:53,520
+Roberto Marin: perché
+
+901
+00:28:54,000 --> 00:28:54,560
+Roberto Marin: Filippo
+
+902
+00:28:54,880 --> 00:28:55,840
+Roberto Marin: sa bene che
+
+903
+00:28:56,000 --> 00:28:57,600
+Roberto Marin: aveva dei bei fasti.
+
+904
+00:28:57,600 --> 00:28:58,240
+Roberto Marin: Obiettivamente.
+
+905
+00:28:58,240 --> 00:29:01,840
+Roberto Marin: Adesso è tornato un po' tra i comuni mortali come me, e quindi
+
+906
+00:29:02,080 --> 00:29:02,400
+Roberto Marin: il
+
+907
+00:29:03,040 --> 00:29:03,360
+Roberto Marin: so
+
+908
+00:29:03,760 --> 00:29:05,120
+Roberto Marin: d'altra parte che passare
+
+909
+00:29:05,440 --> 00:29:08,880
+Roberto Marin: fare questi tipi di passaggi si può anche andare
+
+910
+00:29:09,039 --> 00:29:12,960
+Roberto Marin: non dico in depressione ma incominciare a farsi forse le domande sbagliate
+
+911
+00:29:12,600 --> 00:29:16,760
+Roberto Marin: Invece devo dire che Filippo è riuscito a mantenere salda la rotta
+
+912
+00:29:17,000 --> 00:29:17,320
+Roberto Marin: e
+
+913
+00:29:17,640 --> 00:29:22,919
+Roberto Marin: soprattutto dalla persona che è, che è una bella persona, è veramente una bella persona.
+
+914
+00:29:22,300 --> 00:29:25,180
+Roberto Marin: È riuscito a ragionare su quello che sta capitando
+
+915
+00:29:25,420 --> 00:29:29,740
+Roberto Marin: e, come diceva, a sterzare dove doveva e a prendere insegnamento.
+
+916
+00:29:29,740 --> 00:29:35,020
+Roberto Marin: Tant'è che questo insegnamento, come avete sentito dalle sue parole, non è stato solo
+
+917
+00:29:35,180 --> 00:29:37,180
+Roberto Marin: un semplice insegnamento.
+
+918
+00:29:37,000 --> 00:29:37,160
+Roberto Marin: ma
+
+919
+00:29:37,320 --> 00:29:38,440
+Roberto Marin: la cosa più bella è che gli
+
+920
+00:29:38,920 --> 00:29:40,360
+Roberto Marin: ha anche spronato verso
+
+921
+00:29:40,520 --> 00:29:42,360
+Roberto Marin: fare delle cose che probabilmente
+
+922
+00:29:42,520 --> 00:29:44,120
+Roberto Marin: non vorrei dire ma 4-5
+
+923
+00:29:44,280 --> 00:29:46,680
+Roberto Marin: anni fa non gli passavano neanche per la testa
+
+924
+00:29:46,300 --> 00:29:46,940
+Roberto Marin: Invece
+
+925
+00:29:47,100 --> 00:29:50,220
+Roberto Marin: adesso si sta rimettendo in gioco, e quindi
+
+926
+00:29:50,780 --> 00:29:53,180
+Roberto Marin: tutto il mio massimo rispetto per quello che sta facendo.
+
+927
+00:29:57,100 --> 00:29:57,660
+Roberto Marin: Esatto,
+
+928
+00:29:57,820 --> 00:30:00,059
+Roberto Marin: auguro le migliori fortune come sempre.
+
+929
+00:30:00,860 --> 00:30:00,940
+Roberto Marin: Si
+
+930
+00:30:01,100 --> 00:30:05,660
+Roberto Marin: inizia ed da qualche parte si va, ma hai le possibilità e le capacità, soprattutto di testa.
+
+931
+00:30:05,660 --> 00:30:11,100
+Roberto Marin: Invece, passando al mio di anno 2024, insomma, che vi posso dire, ragazzi miei,
+
+932
+00:30:11,260 --> 00:30:11,900
+Roberto Marin: quell'anno che
+
+933
+00:30:12,260 --> 00:30:14,820
+Roberto Marin: è andato a chiudere e secondo me è stato molto positivo
+
+934
+00:30:15,059 --> 00:30:15,940
+Roberto Marin: continuo a dirlo
+
+935
+00:30:16,100 --> 00:30:18,980
+Roberto Marin: per me è stato non dico un successo dietro l'altro
+
+936
+00:30:19,140 --> 00:30:20,260
+Roberto Marin: ma è stato veramente
+
+937
+00:30:20,519 --> 00:30:21,880
+Roberto Marin: piacevole il 2023
+
+938
+00:30:23,480 --> 00:30:24,919
+Roberto Marin: nonostante quello che stesse
+
+939
+00:30:25,080 --> 00:30:26,120
+Roberto Marin: capitando nel mondo
+
+940
+00:30:26,279 --> 00:30:26,919
+Roberto Marin: e quindi
+
+941
+00:30:27,399 --> 00:30:27,960
+Roberto Marin: da parte
+
+942
+00:30:28,120 --> 00:30:28,440
+Roberto Marin: questo
+
+943
+00:30:28,600 --> 00:30:29,080
+Roberto Marin: diciamo
+
+944
+00:30:29,320 --> 00:30:30,760
+Roberto Marin: problema che ho avuto
+
+945
+00:30:31,640 --> 00:30:35,800
+Roberto Marin: Ad agosto, intorno a giugno e si è portato fino ad agosto,
+
+946
+00:30:36,040 --> 00:30:37,160
+Roberto Marin: diciamo che
+
+947
+00:30:37,800 --> 00:30:41,560
+Roberto Marin: mi ha dato anche in questo caso un po' di insegnamento.
+
+948
+00:30:41,100 --> 00:30:42,780
+Roberto Marin: Un po' di insegnamento perché
+
+949
+00:30:42,940 --> 00:30:44,780
+Roberto Marin: questo mi ha fatto capire che
+
+950
+00:30:45,100 --> 00:30:45,740
+Roberto Marin: forse
+
+951
+00:30:45,900 --> 00:30:47,820
+Roberto Marin: erivato a un punto che
+
+952
+00:30:48,460 --> 00:30:50,940
+Roberto Marin: ho messo a posto tante cose nella mia vita, ma non
+
+953
+00:30:51,660 --> 00:30:54,140
+Roberto Marin: avevo perso di vista una cosa molto
+
+954
+00:30:54,620 --> 00:30:55,419
+Roberto Marin: semplice.
+
+955
+00:30:56,060 --> 00:30:59,340
+Roberto Marin: Il sottoscritto, nel senso che sembra un po'
+
+956
+00:31:00,540 --> 00:31:00,860
+Roberto Marin: un
+
+957
+00:31:01,100 --> 00:31:04,620
+Roberto Marin: contresso, ma in realtà si tratta proprio di questo.
+
+958
+00:31:05,480 --> 00:31:06,440
+Roberto Marin: Diciamo che quest'anno
+
+959
+00:31:06,600 --> 00:31:10,279
+Roberto Marin: l'ho intitolato per me stesso, myself, ovvero
+
+960
+00:31:11,399 --> 00:31:14,919
+Roberto Marin: voglio dedicare più attenzione alle mie esigenze.
+
+961
+00:31:15,080 --> 00:31:18,039
+Roberto Marin: Non si tratta di egoismo, ve lo dico già subito.
+
+962
+00:31:18,000 --> 00:31:19,840
+Roberto Marin: Perché ho notato che io,
+
+963
+00:31:20,240 --> 00:31:23,360
+Roberto Marin: come mi dicevano, questa frase che mi hanno detto gli elementari
+
+964
+00:31:23,520 --> 00:31:24,320
+Roberto Marin: mi è rimasto
+
+965
+00:31:24,720 --> 00:31:26,880
+Roberto Marin: nella testa, e non so per quale motivo.
+
+966
+00:31:27,120 --> 00:31:30,560
+Roberto Marin: Una mia compagna mi ha detto: Ah, tu sei altruista.
+
+967
+00:31:30,560 --> 00:31:33,600
+Roberto Marin: Quindi sarai destinato a vivere male
+
+968
+00:31:33,840 --> 00:31:34,560
+Roberto Marin: perché, giustamente
+
+969
+00:31:34,720 --> 00:31:35,760
+Roberto Marin: ha fatto uno più uno,
+
+970
+00:31:35,920 --> 00:31:38,800
+Roberto Marin: tu farei tantissimo per gli altri,
+
+971
+00:31:38,200 --> 00:31:39,960
+Roberto Marin: e per te farai ben poco.
+
+972
+00:31:39,960 --> 00:31:40,039
+Roberto Marin: Oh
+
+973
+00:31:40,200 --> 00:31:40,279
+Roberto Marin: questa
+
+974
+00:31:40,440 --> 00:31:42,360
+Roberto Marin: l'elementare è notevole però.
+
+975
+00:31:42,360 --> 00:31:43,559
+Roberto Marin: E devo dire che
+
+976
+00:31:43,960 --> 00:31:48,519
+Roberto Marin: me l'ha detto l'elementare è stato un flash, me l'ha detto così io vabbè
+
+977
+00:31:49,000 --> 00:31:52,120
+Roberto Marin: Subito non ci ha dato peso, perché ammetto all'epoca di
+
+978
+00:31:52,680 --> 00:31:54,760
+Roberto Marin: averci dato assolutamente peso.
+
+979
+00:31:54,760 --> 00:32:02,040
+Roberto Marin: Tuttavia, nella maturità, questa cosa qua è saltata fuori ed è rimasta lì e sta saltando fuori anche adesso.
+
+980
+00:32:01,660 --> 00:32:02,300
+Roberto Marin: Ed è
+
+981
+00:32:02,460 --> 00:32:09,820
+Roberto Marin: essenzialmente, non dico che ha ragione, è stata estremizzata, però la realtà è che tante, tante, tante volte.
+
+982
+00:32:10,060 --> 00:32:19,180
+Roberto Marin: Mi sono visto durante il corso del 2023 a dire no a me e dire sì agli altri, gli altri di qualsiasi forma genere e dimensione.
+
+983
+00:32:19,120 --> 00:32:25,520
+Roberto Marin: A partire dai figli, dalla moglie, dalle conoscenze, dagli amici, dai professionisti con cui lavoro e vi discorrendo.
+
+984
+00:32:25,520 --> 00:32:25,840
+Roberto Marin: Quindi
+
+985
+00:32:26,080 --> 00:32:28,000
+Roberto Marin: voglio avere un atteggiamento
+
+986
+00:32:28,160 --> 00:32:32,640
+Roberto Marin: più maturo: più maturo, nel senso che dire no quando serve.
+
+987
+00:32:32,200 --> 00:32:33,559
+Roberto Marin: Perché sento che
+
+988
+00:32:33,960 --> 00:32:38,440
+Roberto Marin: serve dire no, e piuttosto di dire no, non gli dico no, per il semplice fatto
+
+989
+00:32:38,600 --> 00:32:38,919
+Roberto Marin: che
+
+990
+00:32:39,240 --> 00:32:39,880
+Roberto Marin: andrei
+
+991
+00:32:40,039 --> 00:32:42,519
+Roberto Marin: contro la mia natura di essere altruista.
+
+992
+00:32:42,519 --> 00:32:44,279
+Roberto Marin: Ma mi rendo conto che questo
+
+993
+00:32:44,660 --> 00:32:48,820
+Roberto Marin: Sì, forzato, chiamiamolo così, va contro la mia natura umana.
+
+994
+00:32:48,820 --> 00:32:53,460
+Roberto Marin: Nel senso che devo incominciare a gestire quello che sento.
+
+995
+00:32:54,220 --> 00:32:55,660
+Roberto Marin: e come distribuirlo perché
+
+996
+00:32:55,900 --> 00:32:56,380
+Roberto Marin: ridendo
+
+997
+00:32:56,620 --> 00:32:57,340
+Roberto Marin: e scherzando
+
+998
+00:32:57,500 --> 00:32:58,220
+Roberto Marin: mettiamola così
+
+999
+00:32:58,380 --> 00:33:01,740
+Roberto Marin: ridendo e scherzando fino a un certo punto però sono alla metà della mia vita
+
+1000
+00:33:01,900 --> 00:33:02,220
+Roberto Marin: no
+
+1001
+00:33:02,240 --> 00:33:04,080
+Roberto Marin: Anzi, forse anche superata,
+
+1002
+00:33:04,560 --> 00:33:05,280
+Filippo Strozzi: esatto.
+
+1003
+00:33:05,280 --> 00:33:06,000
+Roberto Marin: Quindi bisogna
+
+1004
+00:33:06,800 --> 00:33:14,960
+Roberto Marin: incominciare a pensare che i capelli bianchi servono anche a questo, e ho intenzione di proseguire su questa strada.
+
+1005
+00:33:14,400 --> 00:33:19,120
+Roberto Marin: Come ho intenzione di proseguire su questa strada, ho notato che per me è veramente
+
+1006
+00:33:19,440 --> 00:33:21,920
+Roberto Marin: di supporto l'energia fisica.
+
+1007
+00:33:21,920 --> 00:33:25,600
+Roberto Marin: Energia fisica che avevo perso, avevo trasferuto.
+
+1008
+00:33:24,800 --> 00:33:31,280
+Roberto Marin: Trascurato nel corso degli anni, lo ammetto, da quando sono nati i miei figli, mi sono decisamente molto trascurato.
+
+1009
+00:33:31,280 --> 00:33:31,760
+Roberto Marin: Questo però
+
+1010
+00:33:31,920 --> 00:33:33,280
+Roberto Marin: ha avuto delle ripercussioni.
+
+1011
+00:33:33,280 --> 00:33:34,480
+Roberto Marin: Ha avuto delle ripercussioni,
+
+1012
+00:33:34,720 --> 00:33:35,280
+Roberto Marin: lo spiego
+
+1013
+00:33:35,520 --> 00:33:37,040
+Roberto Marin: sempre perché magari.
+
+1014
+00:33:36,560 --> 00:33:37,920
+Roberto Marin: ci sono dei nuovi ascoltatori
+
+1015
+00:33:38,160 --> 00:33:38,320
+Roberto Marin: era
+
+1016
+00:33:38,480 --> 00:33:39,280
+Roberto Marin: due anni fa
+
+1017
+00:33:39,600 --> 00:33:40,400
+Roberto Marin: facendo un
+
+1018
+00:33:40,720 --> 00:33:43,760
+Roberto Marin: banale gesto di spostamento di un taglia
+
+1019
+00:33:43,920 --> 00:33:46,880
+Roberto Marin: erba cioè mi sono chinato sulle ginocchia lo spostato
+
+1020
+00:33:46,380 --> 00:33:47,820
+Roberto Marin: spostato verso il muro
+
+1021
+00:33:47,980 --> 00:33:52,140
+Roberto Marin: mi sono tirato su non sono più riuscito a tirarmi su e vuol dire che lì la schiena mi ha detto ok
+
+1022
+00:33:52,300 --> 00:33:54,780
+Roberto Marin: ragazzo mio qua si è arrivato al limite
+
+1023
+00:33:54,760 --> 00:33:54,919
+Roberto Marin: Al
+
+1024
+00:33:55,080 --> 00:33:56,120
+Roberto Marin: limite, e quindi
+
+1025
+00:33:56,360 --> 00:33:57,799
+Roberto Marin: me lo sono attaccato all'orecchio.
+
+1026
+00:33:58,120 --> 00:34:00,440
+Roberto Marin: Come si dice: attaccato al dito non all'orecchio,
+
+1027
+00:34:00,760 --> 00:34:02,679
+Roberto Marin: e quindi ho investito.
+
+1028
+00:34:02,679 --> 00:34:04,120
+Roberto Marin: Si dice all'orecchio da noi, vabbè,
+
+1029
+00:34:04,280 --> 00:34:05,720
+Roberto Marin: ho anche al dito, comunque è in difende.
+
+1030
+00:34:05,720 --> 00:34:05,960
+Roberto Marin: Comunque,
+
+1031
+00:34:06,360 --> 00:34:08,359
+Roberto Marin: me lo sono appuntato, diciamo.
+
+1032
+00:34:08,740 --> 00:34:14,020
+Roberto Marin: Ciò investito, non dico molto, ma ho incominciato a crederci, che è la parte più difficile, secondo me.
+
+1033
+00:34:14,020 --> 00:34:16,580
+Roberto Marin: La parte più difficile è proprio quella, nel senso che
+
+1034
+00:34:16,300 --> 00:34:17,179
+Roberto Marin: In questo momento
+
+1035
+00:34:17,420 --> 00:34:18,300
+Roberto Marin: ho avuto
+
+1036
+00:34:18,620 --> 00:34:25,179
+Roberto Marin: i risconti, e quindi ci credo che l'energia fisica è veramente qualcosa che vi può portare al risultato.
+
+1037
+00:34:25,179 --> 00:34:31,020
+Roberto Marin: Per il semplice fatto che non c'è solo la testa, il ragionamento ci deve essere, chiaramente.
+
+1038
+00:34:30,600 --> 00:34:32,840
+Roberto Marin: ma deve essere supportato dal vostro fisico.
+
+1039
+00:34:32,920 --> 00:34:36,680
+Roberto Marin: Vostro fisico che non vuol dire andare a fare culturismo, capiamoci bene.
+
+1040
+00:34:36,680 --> 00:34:38,840
+Roberto Marin: Si tratta semplicemente di fare.
+
+1041
+00:34:39,159 --> 00:34:42,520
+Roberto Marin: Esercizio, esercizio aerobico tendenzialmente, neanche
+
+1042
+00:34:42,840 --> 00:34:43,399
+Roberto Marin: tanto di
+
+1043
+00:34:43,720 --> 00:34:44,600
+Roberto Marin: potenziamento.
+
+1044
+00:34:44,600 --> 00:34:47,800
+Roberto Marin: Parlo di aerobico tipo corsa, bicicletta.
+
+1045
+00:34:47,300 --> 00:34:49,540
+Roberto Marin: Un po' di esercizi per quanto riguarda il resto del
+
+1046
+00:34:49,700 --> 00:34:54,020
+Roberto Marin: corpo per mantenerlo in forma, la parte alta, gli addominali, le gambi, vi discorrendo.
+
+1047
+00:34:54,020 --> 00:34:54,340
+Roberto Marin: Ma
+
+1048
+00:34:54,500 --> 00:34:55,140
+Roberto Marin: deve essere
+
+1049
+00:34:55,260 --> 00:34:59,260
+Roberto Marin: Sta entrando in questo momento, lo sto facendo entrare io non più come un
+
+1050
+00:34:59,500 --> 00:35:02,700
+Roberto Marin: non dico passatempo, ma come tempo per me stesso.
+
+1051
+00:35:02,700 --> 00:35:05,500
+Roberto Marin: E quindi potevo dedicare al di fuori della sfera
+
+1052
+00:35:05,660 --> 00:35:08,220
+Roberto Marin: lavorativa, devo trovargli un posto.
+
+1053
+00:35:07,680 --> 00:35:09,280
+Roberto Marin: a di fronte della sfera lavorativa
+
+1054
+00:35:09,440 --> 00:35:11,280
+Roberto Marin: l'ho fatto rientrare come
+
+1055
+00:35:11,440 --> 00:35:11,920
+Roberto Marin: lavoro
+
+1056
+00:35:12,160 --> 00:35:15,040
+Roberto Marin: nel senso che per me il lavoro è anche fare
+
+1057
+00:35:15,200 --> 00:35:16,560
+Roberto Marin: esercizio fisico
+
+1058
+00:35:16,660 --> 00:35:16,900
+Roberto Marin: Quindi
+
+1059
+00:35:17,060 --> 00:35:17,860
+Roberto Marin: non è una cosa
+
+1060
+00:35:18,340 --> 00:35:24,260
+Roberto Marin: che tendo a trascurare perché arrivi in secondo piano, l'ho fatto salire a livello del lavoro perché vedo
+
+1061
+00:35:24,260 --> 00:35:24,340
+Roberto Marin: e
+
+1062
+00:35:24,500 --> 00:35:26,580
+Roberto Marin: ho visto nel corso del del duemilaventitré
+
+1063
+00:35:24,580 --> 00:35:24,900
+Roberto Marin: ,
+
+1064
+00:35:26,820 --> 00:35:31,380
+Roberto Marin: che questo non mi permette di essere efficiente ed efficace in quello che faccio.
+
+1065
+00:35:31,380 --> 00:35:31,940
+Roberto Marin: Quindi,
+
+1066
+00:35:31,760 --> 00:35:34,160
+Roberto Marin: sta diventando una parte fondamentale
+
+1067
+00:35:34,400 --> 00:35:35,120
+Roberto Marin: chiaramente
+
+1068
+00:35:35,920 --> 00:35:40,080
+Roberto Marin: ha i suoi risvolti perché dal punto di vista fisico migliora anche l'aspetto fisico
+
+1069
+00:35:40,400 --> 00:35:41,760
+Roberto Marin: si perde peso
+
+1070
+00:35:41,740 --> 00:35:44,700
+Roberto Marin: e si resiste anche di più sotto sforzo,
+
+1071
+00:35:45,660 --> 00:35:49,020
+Roberto Marin: sotto sforzo che può essere qualsiasi tipo di sforzo, come potrebbe
+
+1072
+00:35:49,180 --> 00:35:49,740
+Roberto Marin: essere.
+
+1073
+00:35:49,660 --> 00:35:53,580
+Roberto Marin: Ad esempio, fare una camminata prolungata, perché devi andare a prendere
+
+1074
+00:35:53,820 --> 00:35:54,540
+Roberto Marin: il tram
+
+1075
+00:35:54,700 --> 00:35:57,020
+Roberto Marin: e sotto una temperatura molto alta.
+
+1076
+00:35:57,020 --> 00:35:58,540
+Roberto Marin: Ad esempio, può essere quello.
+
+1077
+00:35:58,540 --> 00:35:59,980
+Roberto Marin: Magari in certe condizioni
+
+1078
+00:36:00,300 --> 00:36:01,500
+Roberto Marin: ti fermi.
+
+1079
+00:36:01,100 --> 00:36:03,580
+Roberto Marin: Perché dici il tuo cuore non riesce ad assistarti,
+
+1080
+00:36:03,820 --> 00:36:04,140
+Roberto Marin: la tua
+
+1081
+00:36:04,300 --> 00:36:09,740
+Roberto Marin: muscolatura non riesce a portarti fino lì, il tuo cervello vorrebbe andare lì.
+
+1082
+00:36:08,859 --> 00:36:12,220
+Roberto Marin: Ma se il tuo fisico non ti assiste è come se tu avessi
+
+1083
+00:36:12,700 --> 00:36:17,500
+Roberto Marin: una macchina con una ruota bucata essenzialmente, non puoi andare avanti più di tanto.
+
+1084
+00:36:17,940 --> 00:36:18,820
+Roberto Marin: Quella situazione.
+
+1085
+00:36:18,820 --> 00:36:22,180
+Roberto Marin: La mia idea, quindi è quella di mantenere queste quattro ruote gonfie.
+
+1086
+00:36:22,180 --> 00:36:22,660
+Roberto Marin: E questo
+
+1087
+00:36:22,980 --> 00:36:25,700
+Roberto Marin: perché riesca a portare anche energia mentale.
+
+1088
+00:36:25,700 --> 00:36:28,260
+Roberto Marin: Perché sono analisi abbastanza stupide.
+
+1089
+00:36:28,260 --> 00:36:30,500
+Roberto Marin: Ma nel momento in cui ci si entra
+
+1090
+00:36:30,740 --> 00:36:32,579
+Roberto Marin: nel mood, mi sono reso conto.
+
+1091
+00:36:32,780 --> 00:36:35,339
+Roberto Marin: che addirittura anche l'alimentazione
+
+1092
+00:36:36,140 --> 00:36:37,020
+Roberto Marin: influisce
+
+1093
+00:36:37,500 --> 00:36:40,140
+Roberto Marin: sul ragionamento, nel senso che banalmente
+
+1094
+00:36:40,300 --> 00:36:44,540
+Roberto Marin: quando si mangia tanto o si alza un po' il gomito, ma alzare il gomito diventa
+
+1095
+00:36:44,700 --> 00:36:45,660
+Roberto Marin: naturale.
+
+1096
+00:36:45,260 --> 00:36:49,100
+Roberto Marin: Intuitivamente, che hai un po' la percezione alterate.
+
+1097
+00:36:49,100 --> 00:36:51,820
+Roberto Marin: Ma io ho notato che ho un rallentamento
+
+1098
+00:36:52,460 --> 00:36:52,780
+Roberto Marin: del
+
+1099
+00:36:52,940 --> 00:36:56,940
+Roberto Marin: lavoro del cervello nel momento in cui esagero troppo nel mangiare.
+
+1100
+00:36:56,940 --> 00:36:57,260
+Roberto Marin: Quindi
+
+1101
+00:36:57,440 --> 00:36:58,400
+Roberto Marin: Anche questo
+
+1102
+00:36:58,720 --> 00:37:02,240
+Roberto Marin: fa parte di questo lavoro e quindi sto arrivando anche
+
+1103
+00:37:02,480 --> 00:37:05,200
+Roberto Marin: dal punto di vista dell'alimentazione, di
+
+1104
+00:37:05,359 --> 00:37:07,599
+Roberto Marin: non dico di cambiare completamente quello che faccio
+
+1105
+00:37:07,760 --> 00:37:10,160
+Roberto Marin: o semplicemente in questo momento.
+
+1106
+00:37:09,760 --> 00:37:13,760
+Roberto Marin: Ha mangiato leggermente di meno e la cosa sta già funzionando alla grande.
+
+1107
+00:37:13,760 --> 00:37:16,320
+Roberto Marin: Ma voglio portare un po' più ad attenzione: perché
+
+1108
+00:37:16,480 --> 00:37:19,120
+Roberto Marin: nel corso di questi anni ho notato che, ad esempio,
+
+1109
+00:37:19,360 --> 00:37:20,080
+Roberto Marin: una cosa banale
+
+1110
+00:37:20,240 --> 00:37:23,280
+Roberto Marin: come il latte, io, ad esempio, non riesco più a reggerlo.
+
+1111
+00:37:23,240 --> 00:37:24,360
+Roberto Marin: fisicamente, nel senso
+
+1112
+00:37:24,520 --> 00:37:25,880
+Roberto Marin: non riesco più a digerirlo.
+
+1113
+00:37:25,880 --> 00:37:26,120
+Roberto Marin: Ma
+
+1114
+00:37:26,280 --> 00:37:27,800
+Roberto Marin: una banalità che ho visto.
+
+1115
+00:37:27,800 --> 00:37:27,880
+Roberto Marin: .
+
+1116
+00:37:28,040 --> 00:37:29,640
+Filippo Strozzi: Benvenuto, benvenuto.
+
+1117
+00:37:29,960 --> 00:37:30,760
+Roberto Marin: Sì, benvenuto.
+
+1118
+00:37:30,760 --> 00:37:30,840
+Roberto Marin: Eh
+
+1119
+00:37:31,000 --> 00:37:31,400
+Roberto Marin: lo so.
+
+1120
+00:37:31,100 --> 00:37:33,340
+Roberto Marin: Lo so, però io vivo a latte, quindi puoi immaginare.
+
+1121
+00:37:33,340 --> 00:37:39,660
+Roberto Marin: Ho notato una cosa stupidissima, che è veramente di una banalità estrema, ma che veramente ti apre la testa.
+
+1122
+00:37:39,359 --> 00:37:40,560
+Roberto Marin: che per esempio
+
+1123
+00:37:40,880 --> 00:37:42,079
+Roberto Marin: da quest'estate
+
+1124
+00:37:42,320 --> 00:37:43,200
+Roberto Marin: fino adesso
+
+1125
+00:37:43,760 --> 00:37:46,079
+Roberto Marin: ho iniziato a portare i ragazzi a
+
+1126
+00:37:46,560 --> 00:37:47,359
+Roberto Marin: mangiavamo
+
+1127
+00:37:47,680 --> 00:37:49,359
+Roberto Marin: nel centro di un paese
+
+1128
+00:37:49,300 --> 00:37:50,660
+Roberto Marin: E c'è una panetteria,
+
+1129
+00:37:50,900 --> 00:37:52,420
+Roberto Marin: fanno le focacce normalmente.
+
+1130
+00:37:52,420 --> 00:37:55,220
+Roberto Marin: Di fianco hanno aperto sempre della stessa panetteria, però
+
+1131
+00:37:55,380 --> 00:37:56,020
+Roberto Marin: la parte
+
+1132
+00:37:56,340 --> 00:37:58,340
+Roberto Marin: chiamiamola vegana, ma io metto
+
+1133
+00:37:58,580 --> 00:37:59,780
+Roberto Marin: tra virgolette, in realtà
+
+1134
+00:37:59,940 --> 00:38:01,060
+Roberto Marin: è semplicemente
+
+1135
+00:38:01,160 --> 00:38:02,600
+Roberto Marin: La focaccia ha fatto
+
+1136
+00:38:03,240 --> 00:38:03,880
+Roberto Marin: senza
+
+1137
+00:38:04,040 --> 00:38:05,640
+Roberto Marin: le farine, praticamente
+
+1138
+00:38:05,800 --> 00:38:06,200
+Roberto Marin: esatto,
+
+1139
+00:38:06,360 --> 00:38:07,640
+Filippo Strozzi: ha costrutto,
+
+1140
+00:38:08,680 --> 00:38:09,880
+Filippo Strozzi: senza farine, è impossibile, non
+
+1141
+00:38:10,120 --> 00:38:10,600
+Filippo Strozzi: revoluere.
+
+1142
+00:38:10,600 --> 00:38:11,160
+Roberto Marin: No, scusa,
+
+1143
+00:38:11,700 --> 00:38:12,579
+Roberto Marin: Scusami,
+
+1144
+00:38:13,619 --> 00:38:16,180
+Roberto Marin: mi ero corretto giusto te, perché stavo pensando senza fermare, ma mi ho detto
+
+1145
+00:38:16,339 --> 00:38:17,380
+Roberto Marin: che cacchio stai dicendo?
+
+1146
+00:38:17,380 --> 00:38:18,980
+Roberto Marin: No, senza strutto
+
+1147
+00:38:19,140 --> 00:38:22,020
+Roberto Marin: questa parte qua, ragazzi miei, io.
+
+1148
+00:38:21,900 --> 00:38:28,140
+Roberto Marin: non riesco più a mangiare l'altra focaccia perché ho notato che non mi rimane sullo stomaco mi sento più leggero cioè
+
+1149
+00:38:28,300 --> 00:38:28,860
+Roberto Marin: lo mangio
+
+1150
+00:38:29,020 --> 00:38:29,740
+Roberto Marin: nel senso che
+
+1151
+00:38:29,940 --> 00:38:32,420
+Roberto Marin: Mi alimenta, ma non mi appesantisce.
+
+1152
+00:38:32,420 --> 00:38:33,460
+Roberto Marin: E quindi questa
+
+1153
+00:38:34,020 --> 00:38:39,540
+Roberto Marin: scoperta mi sta iniziando a portare anche, magari a fare delle scelte alimentari un po' più calibrate.
+
+1154
+00:38:39,540 --> 00:38:41,060
+Roberto Marin: Diciamo, nel senso che
+
+1155
+00:38:41,040 --> 00:38:41,680
+Roberto Marin: Se prima
+
+1156
+00:38:41,840 --> 00:38:46,720
+Roberto Marin: andava bene tutto, magari adesso incomincio a buttarci un occhio a quello che mangio
+
+1157
+00:38:46,880 --> 00:38:48,400
+Roberto Marin: e a farci anche un po' più attenzione.
+
+1158
+00:38:48,400 --> 00:38:50,960
+Roberto Marin: Ti do una bruttissima notizia, quando ti abitavo.
+
+1159
+00:38:50,920 --> 00:38:54,840
+Filippo Strozzi: A mangiare bene, fai fatica a mangiare il cosiddetto jump food?
+
+1160
+00:38:55,240 --> 00:38:55,720
+Roberto Marin: Eh, sì.
+
+1161
+00:38:55,720 --> 00:38:55,880
+Roberto Marin: No,
+
+1162
+00:38:56,280 --> 00:38:56,600
+Roberto Marin: ma lì
+
+1163
+00:38:56,920 --> 00:38:59,640
+Roberto Marin: io sono molto goloso, quindi la mangio molto volentieri.
+
+1164
+00:38:59,640 --> 00:39:02,440
+Roberto Marin: Io se va a McDonald's o Burger King, io so sempre se
+
+1165
+00:39:02,600 --> 00:39:03,800
+Roberto Marin: si va, però
+
+1166
+00:39:04,300 --> 00:39:04,940
+Roberto Marin: C'è
+
+1167
+00:39:05,180 --> 00:39:10,220
+Roberto Marin: questo aspetto perché io non sono un tipo particolarmente estremista, cerco sempre di trovare una
+
+1168
+00:39:10,380 --> 00:39:11,020
+Roberto Marin: via di mezzo
+
+1169
+00:39:11,180 --> 00:39:11,820
+Roberto Marin: e dove
+
+1170
+00:39:12,060 --> 00:39:12,700
+Roberto Marin: posso
+
+1171
+00:39:12,600 --> 00:39:12,760
+Roberto Marin: Ho
+
+1172
+00:39:13,000 --> 00:39:15,080
+Roberto Marin: intenzione di fare questo, e quindi
+
+1173
+00:39:15,400 --> 00:39:19,640
+Roberto Marin: diciamo questo sforzo è appunto indirizzato in questo senso.
+
+1174
+00:39:19,640 --> 00:39:20,520
+Roberto Marin: Poi c'è
+
+1175
+00:39:20,359 --> 00:39:21,800
+Roberto Marin: Un'altra cosa che mi ha
+
+1176
+00:39:22,119 --> 00:39:26,839
+Roberto Marin: molto incuriosito, e che era una cosa che non conoscevo, che ho fatto vedere anche Filippo, che invece invece
+
+1177
+00:39:27,000 --> 00:39:30,680
+Roberto Marin: lui lo conosceva, perché lui ovviamente è più erudito di me e quindi c'è poco da fare.
+
+1178
+00:39:30,680 --> 00:39:34,119
+Roberto Marin: Cioè, io sono uno zappatore, ve lo dico tutte le volte, ma non mi credete.
+
+1179
+00:39:33,700 --> 00:39:35,140
+Roberto Marin: però in ogni caso
+
+1180
+00:39:35,619 --> 00:39:36,420
+Roberto Marin: quello che
+
+1181
+00:39:36,740 --> 00:39:37,220
+Roberto Marin: sono molto
+
+1182
+00:39:37,380 --> 00:39:39,859
+Roberto Marin: a conoscenza è della terapia del freddo
+
+1183
+00:39:40,099 --> 00:39:41,540
+Roberto Marin: terapia del freddo
+
+1184
+00:39:41,300 --> 00:39:42,100
+Roberto Marin: Che io subito
+
+1185
+00:39:42,260 --> 00:39:44,420
+Roberto Marin: essendo uno zappatore, quindi essendo proprio
+
+1186
+00:39:44,580 --> 00:39:50,660
+Roberto Marin: di bassa lega, ho subito pensato che fosse la terapia del freddo che facevo anch'io, quando hai uno strappo,
+
+1187
+00:39:52,180 --> 00:39:55,220
+Roberto Marin: o hai un muscolo particolarmente infiammato.
+
+1188
+00:39:54,600 --> 00:39:54,680
+Roberto Marin: E
+
+1189
+00:39:54,840 --> 00:40:00,600
+Roberto Marin: invece no, non è quello, non si tratta di utilizzare il freddo per calmirare
+
+1190
+00:40:00,920 --> 00:40:01,240
+Roberto Marin: un
+
+1191
+00:40:01,480 --> 00:40:01,720
+Roberto Marin: stato
+
+1192
+00:40:01,880 --> 00:40:05,640
+Roberto Marin: infiammatorio, ma bensì si tratta di tutt'altro
+
+1193
+00:40:05,500 --> 00:40:05,580
+Roberto Marin: Che
+
+1194
+00:40:05,820 --> 00:40:08,540
+Roberto Marin: io non sapevo che si tratta appunto di
+
+1195
+00:40:09,260 --> 00:40:13,740
+Roberto Marin: un parte da questo personaggio che non ho ancora letto il libro, ma prima o poi lo leggo,
+
+1196
+00:40:13,100 --> 00:40:15,260
+Roberto Marin: Che si chiama Wim Off, che è già il nome
+
+1197
+00:40:15,580 --> 00:40:17,980
+Roberto Marin: interessante, che ha messo su un metodo, e che
+
+1198
+00:40:18,140 --> 00:40:26,060
+Roberto Marin: è anche in questo caso, secondo me, è un po' estremo, perché è arrivato a dei livelli di mantenimento della temperatura interna.
+
+1199
+00:40:25,820 --> 00:40:26,380
+Roberto Marin: Nonostante
+
+1200
+00:40:26,540 --> 00:40:30,060
+Roberto Marin: ci fossero delle temperature sotto zero ma parecchio sotto zero,
+
+1201
+00:40:31,180 --> 00:40:32,220
+Filippo Strozzi: quello che si lancia
+
+1202
+00:40:32,780 --> 00:40:36,860
+Filippo Strozzi: nel lago ghiacciato, fa il buco nel lago e quelle cose lì.
+
+1203
+00:40:36,839 --> 00:40:37,800
+Roberto Marin: Cose del genere che
+
+1204
+00:40:38,040 --> 00:40:39,880
+Roberto Marin: a me vengono solo i bevi di solito adesso.
+
+1205
+00:40:39,880 --> 00:40:41,480
+Roberto Marin: Tuttavia, la cosa interessante
+
+1206
+00:40:41,800 --> 00:40:42,440
+Roberto Marin: è che
+
+1207
+00:40:42,760 --> 00:40:44,680
+Roberto Marin: questa terapia del freddo
+
+1208
+00:40:44,920 --> 00:40:45,240
+Roberto Marin: si
+
+1209
+00:40:45,560 --> 00:40:50,040
+Roberto Marin: basa essenzialmente sulla respirazione e la concentrazione.
+
+1210
+00:40:49,200 --> 00:40:49,440
+Roberto Marin: È
+
+1211
+00:40:49,680 --> 00:40:57,280
+Roberto Marin: una sorta di stato meditativo che permette di aumentare la temperatura interna migliorando la respirazione che si ha essenzialmente.
+
+1212
+00:40:57,280 --> 00:41:02,240
+Roberto Marin: Proprio questo in estremissima sintesi, perché è molto più complesso, molto più difficile.
+
+1213
+00:41:01,800 --> 00:41:03,800
+Roberto Marin: E ci vuole molto molto allenamento.
+
+1214
+00:41:03,800 --> 00:41:06,120
+Roberto Marin: Ma la cosa interessante è che questo
+
+1215
+00:41:06,440 --> 00:41:06,760
+Roberto Marin: stato
+
+1216
+00:41:07,400 --> 00:41:13,880
+Roberto Marin: di terapia del freddo, che io ho iniziato a fare proprio nel modo più blando, ma che avevo iniziato senza saperlo.
+
+1217
+00:41:13,780 --> 00:41:14,260
+Roberto Marin: Di fare
+
+1218
+00:41:14,500 --> 00:41:23,300
+Roberto Marin: può partire semplicemente dalla doccia, che è una cosa che sto facendo: famose doccia fredda esattamente, e io ho trovato molto beneficio sotto questo punto di vista.
+
+1219
+00:41:23,300 --> 00:41:27,220
+Roberto Marin: Ovviamente non prendo e mi butto sotto la doccia fredda perché forse adesso.
+
+1220
+00:41:26,920 --> 00:41:28,920
+Roberto Marin: in questo momento che lo faccio da un po' potrei
+
+1221
+00:41:29,080 --> 00:41:30,200
+Roberto Marin: reggerla un po' di più
+
+1222
+00:41:30,440 --> 00:41:31,400
+Roberto Marin: ma mi ricordo che
+
+1223
+00:41:31,560 --> 00:41:31,800
+Roberto Marin: tempo
+
+1224
+00:41:31,960 --> 00:41:36,360
+Roberto Marin: indietro se non era a temperatura da scottarsi non mettevo neanche il piede nella doccia
+
+1225
+00:41:36,300 --> 00:41:36,620
+Roberto Marin: Quindi
+
+1226
+00:41:36,780 --> 00:41:38,540
+Roberto Marin: sono passato da una situazione.
+
+1227
+00:41:38,540 --> 00:41:39,100
+Roberto Marin: No, a me
+
+1228
+00:41:39,740 --> 00:41:42,540
+Roberto Marin: piaceva molto la doccia calda, mi rilassa tantissimo.
+
+1229
+00:41:42,540 --> 00:41:44,060
+Roberto Marin: Mi infastidisce notevolmente.
+
+1230
+00:41:44,060 --> 00:41:45,820
+Roberto Marin: Mi è sempre rilassato tantissimo.
+
+1231
+00:41:45,500 --> 00:41:46,220
+Roberto Marin: Però adesso
+
+1232
+00:41:46,380 --> 00:41:53,740
+Roberto Marin: adottando questa cosa che sto facendo, praticamente anche qui da quest'estate, ho iniziato ad abbassare, mentre sono sotto la doccia, gradualmente la temperatura.
+
+1233
+00:41:53,740 --> 00:41:55,500
+Roberto Marin: E sono arrivato a del temperature.
+
+1234
+00:41:55,660 --> 00:41:59,580
+Roberto Marin: Sto sotto l'acqua fredda, diciamo non in fase meditativa, ma.
+
+1235
+00:41:59,240 --> 00:42:02,520
+Roberto Marin: controllo il respiro e cerco di rimanere concentrato
+
+1236
+00:42:02,760 --> 00:42:09,400
+Roberto Marin: e noto che arrivo a temperature decisamente basse io ricordo che comunque ho l'acqua dalla fonte nel senso che
+
+1237
+00:42:09,400 --> 00:42:09,799
+Roberto Marin: Non è
+
+1238
+00:42:10,359 --> 00:42:10,839
+Roberto Marin: l'acquedotto
+
+1239
+00:42:11,079 --> 00:42:12,760
+Roberto Marin: la mia, arriva proprio fredda, ghiacciata.
+
+1240
+00:42:12,760 --> 00:42:15,319
+Roberto Marin: Quando arriva fredda arriva fredda ma veramente fredda.
+
+1241
+00:42:15,319 --> 00:42:19,720
+Roberto Marin: E sono riuscito ad arrivare a delle temperature che se io provo a mettere la mano
+
+1242
+00:42:19,800 --> 00:42:24,200
+Roberto Marin: Dopo che ho fatto la doccia, ho passato un po' di tempo, metto la mano alla stessa temperatura in cui ero
+
+1243
+00:42:24,360 --> 00:42:27,960
+Roberto Marin: mi sembra veramente impossibile di essere arrivato a quella temperatura.
+
+1244
+00:42:27,960 --> 00:42:30,360
+Roberto Marin: Mi sta facendo bene, tant'è che adesso.
+
+1245
+00:42:30,100 --> 00:42:31,780
+Roberto Marin: Sto sentendo le temperature in modo diverso.
+
+1246
+00:42:31,780 --> 00:42:36,100
+Roberto Marin: Io, ad esempio, adesso sono in maglietta da un', ma qua non c'è riscaldamento, è spento. Sono
+
+1247
+00:42:36,100 --> 00:42:42,020
+Roberto Marin: sotto in taverna, è spento, ci saranno 20, 19, 20 gradi, no, ci saranno 17, 18 gradi. Dopo
+
+1248
+00:42:42,020 --> 00:42:43,060
+Roberto Marin: guardo, per sicurezza
+
+1249
+00:42:43,300 --> 00:42:44,260
+Roberto Marin: controllo.
+
+1250
+00:42:43,960 --> 00:42:45,320
+Roberto Marin: controllo bene comunque
+
+1251
+00:42:45,640 --> 00:42:47,640
+Roberto Marin: fa freddo ma non sento freddo
+
+1252
+00:42:47,800 --> 00:42:49,720
+Roberto Marin: ho notato d'altra parte che
+
+1253
+00:42:50,040 --> 00:42:51,800
+Roberto Marin: questo mi ha detto anche mia moglie che ho la
+
+1254
+00:42:52,360 --> 00:42:52,760
+Roberto Marin: sento
+
+1255
+00:42:52,960 --> 00:42:53,280
+Roberto Marin: Sente
+
+1256
+00:42:53,520 --> 00:42:53,840
+Roberto Marin: tanto
+
+1257
+00:42:54,160 --> 00:42:54,720
+Roberto Marin: le mani
+
+1258
+00:42:54,880 --> 00:42:59,280
+Roberto Marin: fredde o le estremità particolarmente fredde, però che io non sento freddo.
+
+1259
+00:42:59,280 --> 00:43:03,600
+Roberto Marin: Una cosa un po' particolare, non credo che sia il caso di indagare, però
+
+1260
+00:43:03,359 --> 00:43:03,520
+Roberto Marin: è
+
+1261
+00:43:03,760 --> 00:43:04,720
+Roberto Marin: molto interessante
+
+1262
+00:43:05,040 --> 00:43:05,359
+Roberto Marin: perché
+
+1263
+00:43:05,680 --> 00:43:06,640
+Roberto Marin: ho notato che
+
+1264
+00:43:06,800 --> 00:43:07,760
+Roberto Marin: quest'inverno
+
+1265
+00:43:07,920 --> 00:43:09,599
+Roberto Marin: anche se c'era molto freddo
+
+1266
+00:43:09,839 --> 00:43:11,760
+Roberto Marin: riuscivo a mettermi giacche
+
+1267
+00:43:11,920 --> 00:43:13,599
+Roberto Marin: decisamente meno spesse
+
+1268
+00:43:13,760 --> 00:43:14,480
+Roberto Marin: in cantiere
+
+1269
+00:43:14,800 --> 00:43:17,120
+Roberto Marin: faceva freddo sì ma lo sentivo molto meno
+
+1270
+00:43:17,280 --> 00:43:18,400
+Roberto Marin: ero più abituato
+
+1271
+00:43:18,640 --> 00:43:19,920
+Roberto Marin: e forse questo
+
+1272
+00:43:20,480 --> 00:43:21,680
+Roberto Marin: fa parte di questa
+
+1273
+00:43:22,559 --> 00:43:26,160
+Roberto Marin: Io l'ho messa anche dal punto di vista psicologico e questa parte di
+
+1274
+00:43:26,480 --> 00:43:34,640
+Roberto Marin: benessere che abbiamo, che ormai siamo abituati a stare al caldo, sotto tutti i punti di vista, entriamo in macchina a riscaldamento, ci vuole poco
+
+1275
+00:43:34,799 --> 00:43:36,480
+Roberto Marin: ed è subito calda.
+
+1276
+00:43:36,560 --> 00:43:36,720
+Roberto Marin: abbiamo
+
+1277
+00:43:36,960 --> 00:43:39,360
+Roberto Marin: una macchina, non si va più in bici, non si va più correre
+
+1278
+00:43:39,520 --> 00:43:39,840
+Roberto Marin: freddo
+
+1279
+00:43:40,000 --> 00:43:40,960
+Roberto Marin: fuori al freddo
+
+1280
+00:43:41,120 --> 00:43:42,400
+Roberto Marin: e anche questo sto
+
+1281
+00:43:42,720 --> 00:43:44,080
+Roberto Marin: facendo queste cose
+
+1282
+00:43:44,400 --> 00:43:45,600
+Roberto Marin: attualmente con
+
+1283
+00:43:46,180 --> 00:43:46,500
+Roberto Marin: La
+
+1284
+00:43:46,740 --> 00:43:50,180
+Roberto Marin: diciamo, un pizzico, diciamo così, di abbigliamento
+
+1285
+00:43:50,420 --> 00:43:52,020
+Roberto Marin: tecnico, che non è quel
+
+1286
+00:43:52,180 --> 00:43:52,579
+Roberto Marin: che ti
+
+1287
+00:43:52,980 --> 00:43:55,140
+Roberto Marin: svena, però nel senso che
+
+1288
+00:43:55,059 --> 00:43:57,140
+Roberto Marin: in questa fase d'inverno che
+
+1289
+00:43:57,619 --> 00:43:58,260
+Roberto Marin: sono arrivato a
+
+1290
+00:43:58,740 --> 00:44:00,819
+Roberto Marin: uscire in bici con 4 gradi
+
+1291
+00:44:00,980 --> 00:44:04,099
+Roberto Marin: e devo dire che non è stato questa morte civile
+
+1292
+00:44:04,260 --> 00:44:04,579
+Roberto Marin: nel senso
+
+1293
+00:44:04,740 --> 00:44:05,940
+Roberto Marin: bisogna essere un po' più coperti
+
+1294
+00:44:06,099 --> 00:44:06,900
+Roberto Marin: d'accordo
+
+1295
+00:44:06,840 --> 00:44:07,080
+Roberto Marin: ma
+
+1296
+00:44:07,240 --> 00:44:09,320
+Roberto Marin: riesco a reggerlo meglio e
+
+1297
+00:44:09,560 --> 00:44:15,240
+Roberto Marin: speriamo soltanto di non avere il riscontro quest'estate invece che sento molto più caldo ma vediamo come
+
+1298
+00:44:15,380 --> 00:44:15,540
+Roberto Marin: come
+
+1299
+00:44:15,700 --> 00:44:16,180
+Roberto Marin: si mette.
+
+1300
+00:44:16,180 --> 00:44:18,020
+Roberto Marin: Ho intenzione di approfondire, appunto
+
+1301
+00:44:18,180 --> 00:44:19,140
+Roberto Marin: leggendo un po'
+
+1302
+00:44:19,380 --> 00:44:25,940
+Roberto Marin: di che si tratta di questa terapia del freddo, sicuramente la mia idea non è quella di sperimentarla in totale.
+
+1303
+00:44:25,740 --> 00:44:29,420
+Roberto Marin: L'idea è quello quest'estate, se riesco a buttarmi
+
+1304
+00:44:29,740 --> 00:44:35,820
+Roberto Marin: in un torrente che ho qua di fianco, vicino a casa, dove ci saranno le temperature molto basse di quell'acqua, ho intenzione
+
+1305
+00:44:35,980 --> 00:44:40,380
+Roberto Marin: di provare a stare lì almeno un minuto, due minuti.
+
+1306
+00:44:40,240 --> 00:44:40,800
+Roberto Marin: Senza
+
+1307
+00:44:41,120 --> 00:44:43,120
+Roberto Marin: suicidarmi per il freddo.
+
+1308
+00:44:43,360 --> 00:44:44,960
+Roberto Marin: Sono molto curioso, voglio provare.
+
+1309
+00:44:44,960 --> 00:44:45,520
+Roberto Marin: Questo è un
+
+1310
+00:44:45,680 --> 00:44:46,000
+Roberto Marin: esperimento
+
+1311
+00:44:46,160 --> 00:44:46,960
+Roberto Marin: che voglio fare.
+
+1312
+00:44:46,960 --> 00:44:48,800
+Roberto Marin: Uno degli esperimenti che voglio fare in
+
+1313
+00:44:49,200 --> 00:44:49,520
+Roberto Marin: quest'anno
+
+1314
+00:44:49,920 --> 00:44:52,160
+Roberto Marin: mi piacerebbe tantissimo farmi.
+
+1315
+00:44:51,680 --> 00:44:54,960
+Roberto Marin: Una giornata interamente in bici, vorrei fare un giro molto largo.
+
+1316
+00:44:54,960 --> 00:44:57,520
+Roberto Marin: Prendemi il mio tempo per fare questo giro
+
+1317
+00:44:57,760 --> 00:44:59,360
+Roberto Marin: e probabilmente anche
+
+1318
+00:44:59,680 --> 00:45:04,160
+Roberto Marin: non fermarmi in qualche posto dove ci sia un bar essenzialmente.
+
+1319
+00:45:03,920 --> 00:45:04,640
+Roberto Marin: per mangiare.
+
+1320
+00:45:04,640 --> 00:45:07,120
+Roberto Marin: Quindi mi piacerebbe veramente partire la mattina,
+
+1321
+00:45:07,360 --> 00:45:09,360
+Roberto Marin: salutare tutti quanti e tornare la sera
+
+1322
+00:45:09,520 --> 00:45:10,080
+Roberto Marin: e facendo
+
+1323
+00:45:10,320 --> 00:45:14,560
+Roberto Marin: mangiandomi un panino o due panini o portandomi dell'acqua dietro e essere.
+
+1324
+00:45:14,460 --> 00:45:14,780
+Roberto Marin: completamente
+
+1325
+00:45:14,940 --> 00:45:25,180
+Roberto Marin: indipendente per fare un viaggio un po' così, proprio con me stesso e vedere un po' più a largo raggio la possibilità di vedere il mondo che c'è qua attorno.
+
+1326
+00:45:24,600 --> 00:45:25,400
+Roberto Marin: E poi
+
+1327
+00:45:25,560 --> 00:45:27,960
+Roberto Marin: un'altra cosa che probabilmente mi porterò con me
+
+1328
+00:45:28,120 --> 00:45:33,720
+Roberto Marin: è portarmi un libro digitale perché pesa molto meno, posso leggerlo sul cellulare o sul tablet.
+
+1329
+00:45:33,160 --> 00:45:35,400
+Roberto Marin: ma vorrei mantenere la quantità di libri
+
+1330
+00:45:35,720 --> 00:45:36,440
+Roberto Marin: che ho letto quest'anno
+
+1331
+00:45:36,600 --> 00:45:38,360
+Roberto Marin: e che sono molto soddisfatto.
+
+1332
+00:45:38,360 --> 00:45:39,400
+Roberto Marin: Come sentite
+
+1333
+00:45:39,640 --> 00:45:41,640
+Roberto Marin: dalle mie parole, non è.
+
+1334
+00:45:41,880 --> 00:45:42,039
+Roberto Marin: questo
+
+1335
+00:45:42,200 --> 00:45:44,680
+Roberto Marin: non sarà un anno in cui punto al
+
+1336
+00:45:44,839 --> 00:45:45,559
+Roberto Marin: miglioramento
+
+1337
+00:45:45,799 --> 00:45:47,160
+Roberto Marin: ad aumentare qualcosa
+
+1338
+00:45:47,319 --> 00:45:47,400
+Roberto Marin: e
+
+1339
+00:45:47,559 --> 00:45:47,960
+Roberto Marin: tendo
+
+1340
+00:45:48,200 --> 00:45:48,599
+Roberto Marin: quest'anno
+
+1341
+00:45:48,839 --> 00:45:48,920
+Roberto Marin: ho
+
+1342
+00:45:49,079 --> 00:45:49,559
+Roberto Marin: attenzione
+
+1343
+00:45:49,720 --> 00:45:49,799
+Roberto Marin: di
+
+1344
+00:45:49,960 --> 00:45:55,720
+Roberto Marin: Concentrarmi su di me stesso, ma di mantenere i livelli, almeno in cui sono arrivato quest'anno.
+
+1345
+00:45:55,720 --> 00:46:01,560
+Roberto Marin: Quest'anno, anzi, il prossimo anno sarà un anno movimentato, possiamo definirlo così: in parte
+
+1346
+00:46:01,700 --> 00:46:05,140
+Roberto Marin: Per colpa della scuola dei figli, mia figlia passerà alle superiori.
+
+1347
+00:46:05,140 --> 00:46:15,780
+Roberto Marin: Mio figlio, probabilmente, per caso non imputabili a lui, dovrà cambiare scuola, nel senso che per problemi organizzativi dovrà essere accorpata a una scuola, diciamo, locale.
+
+1348
+00:46:15,559 --> 00:46:17,240
+Roberto Marin: Con quella che c'è nel capoluogo
+
+1349
+00:46:17,400 --> 00:46:19,559
+Roberto Marin: e quindi dovrà probabilmente cambiare.
+
+1350
+00:46:19,559 --> 00:46:21,960
+Roberto Marin: E conseguentemente ci sarà un po' di movimento.
+
+1351
+00:46:21,960 --> 00:46:23,079
+Roberto Marin: Anche perché purtroppo
+
+1352
+00:46:24,440 --> 00:46:33,160
+Roberto Marin: L'iscrizione alle scuole superiori, tornando invece alla figlia più grande, non è così automatica, nel senso che tu ti puoi sì dare la preferenza per andare in quella scuola, ma non è detto che
+
+1353
+00:46:33,480 --> 00:46:35,080
+Roberto Marin: ti prendano così.
+
+1354
+00:46:34,600 --> 00:46:41,080
+Roberto Marin: Mentre io mi ricordo che, non so tu Filippo, sei andata così, ma io dove mi sono iscritto mi hanno mandato anche se era la lettera G.
+
+1355
+00:46:41,080 --> 00:46:42,680
+Roberto Marin: A te cosa è successo?
+
+1356
+00:46:43,100 --> 00:46:43,500
+Roberto Marin: Quando ti sei
+
+1357
+00:46:43,660 --> 00:46:44,460
+Filippo Strozzi: scritto al superiore.
+
+1358
+00:46:45,500 --> 00:46:46,780
+Filippo Strozzi: Allora, tristemente
+
+1359
+00:46:47,340 --> 00:46:51,580
+Filippo Strozzi: purtroppo mia moglie mi sta facendo la testa così, quindi ti posso dire che
+
+1360
+00:46:52,540 --> 00:46:53,180
+Filippo Strozzi: da quello che
+
+1361
+00:46:53,440 --> 00:46:55,280
+Filippo Strozzi: capito io però prendetelo con
+
+1362
+00:46:55,440 --> 00:46:56,720
+Filippo Strozzi: gli insegnanti preh
+
+1363
+00:46:56,960 --> 00:47:00,720
+Filippo Strozzi: che eventualmente stanno ascoltando non mi non mi fulminino sostanzialmente da
+
+1364
+00:47:00,880 --> 00:47:02,320
+Filippo Strozzi: dall'uscita dalle medie
+
+1365
+00:47:02,480 --> 00:47:05,520
+Filippo Strozzi: hai un giudizio da parte dei tuoi insegnanti
+
+1366
+00:47:05,680 --> 00:47:06,640
+Filippo Strozzi: quel giudizio
+
+1367
+00:47:06,620 --> 00:47:08,300
+Filippo Strozzi: chiamano così è vincolante
+
+1368
+00:47:08,540 --> 00:47:11,420
+Filippo Strozzi: nel senso che se ti hanno detto che vai bene
+
+1369
+00:47:11,740 --> 00:47:12,060
+Filippo Strozzi: per
+
+1370
+00:47:12,380 --> 00:47:13,100
+Filippo Strozzi: i tecnici
+
+1371
+00:47:13,340 --> 00:47:14,700
+Filippo Strozzi: non puoi andare ai
+
+1372
+00:47:15,020 --> 00:47:16,460
+Filippo Strozzi: licei per intenderci o
+
+1373
+00:47:17,020 --> 00:47:17,900
+Filippo Strozzi: contrario
+
+1374
+00:47:18,220 --> 00:47:22,539
+Filippo Strozzi: Comunque se ti dicono che devi andare al liceo, se vuoi andare al tecnico
+
+1375
+00:47:22,859 --> 00:47:23,180
+Filippo Strozzi: che
+
+1376
+00:47:24,140 --> 00:47:25,740
+Filippo Strozzi: ti interessava fare quello,
+
+1377
+00:47:26,299 --> 00:47:27,339
+Filippo Strozzi: sono le novità
+
+1378
+00:47:28,299 --> 00:47:29,339
+Filippo Strozzi: delle nuove.
+
+1379
+00:47:29,339 --> 00:47:31,020
+Roberto Marin: Ah, ma non solo.
+
+1380
+00:47:30,540 --> 00:47:31,340
+Roberto Marin: Ad esempio
+
+1381
+00:47:31,580 --> 00:47:32,300
+Roberto Marin: ho scoperto
+
+1382
+00:47:32,700 --> 00:47:33,340
+Roberto Marin: mie spese.
+
+1383
+00:47:33,500 --> 00:47:35,020
+Filippo Strozzi: Anche se devo dirti la verità
+
+1384
+00:47:35,180 --> 00:47:35,500
+Filippo Strozzi: che
+
+1385
+00:47:35,740 --> 00:47:37,340
+Filippo Strozzi: c'erano già anche i miei team.
+
+1386
+00:47:37,340 --> 00:47:40,060
+Filippo Strozzi: Cioè io me lo ricordo, all'epoca io.
+
+1387
+00:47:40,000 --> 00:47:42,240
+Filippo Strozzi: Mi avevano consegnato di andare non a un liceo.
+
+1388
+00:47:42,240 --> 00:47:46,080
+Filippo Strozzi: Da me avevano consegnato di fare un professionale invece di fare un istituto tecnico.
+
+1389
+00:47:46,240 --> 00:47:46,720
+Filippo Strozzi: Non lo so
+
+1390
+00:47:47,200 --> 00:47:51,440
+Filippo Strozzi: dopo questo, non te lo so dire, devo dirti la verità, i miei amici andavano al liceo e io sono andata al liceo.
+
+1391
+00:47:51,440 --> 00:47:52,960
+Filippo Strozzi: Questo è stato il mio.
+
+1392
+00:47:55,359 --> 00:48:00,800
+Roberto Marin: Passaggio, no, no, io invece la scelta era molto molto facile, nel senso che mi sono chiesto
+
+1393
+00:48:00,960 --> 00:48:02,320
+Roberto Marin: cosa ti piace fare, nel senso,
+
+1394
+00:48:02,480 --> 00:48:04,320
+Roberto Marin: in queste medie, cosa ti è piaciuto fare
+
+1395
+00:48:04,480 --> 00:48:05,760
+Roberto Marin: disegnare.
+
+1396
+00:48:05,200 --> 00:48:12,240
+Roberto Marin: Allora unisco il disegno tecnico con il disegno che avevo una mano abbastanza buona all'epoca e quindi sono andato a fare poi geometri.
+
+1397
+00:48:12,240 --> 00:48:12,640
+Roberto Marin: Però
+
+1398
+00:48:13,280 --> 00:48:16,800
+Roberto Marin: la mia votazione era quella di fare il professionale.
+
+1399
+00:48:16,300 --> 00:48:16,380
+Roberto Marin: e
+
+1400
+00:48:16,700 --> 00:48:19,660
+Roberto Marin: non il tecnico, però me ne sono stato frequentemente
+
+1401
+00:48:19,820 --> 00:48:23,500
+Roberto Marin: sbattuto, ma ho scoperto che c'è un altro livello che non sapevo, che
+
+1402
+00:48:23,660 --> 00:48:24,700
+Roberto Marin: gli istituti.
+
+1403
+00:48:24,760 --> 00:48:29,160
+Roberto Marin: Danno la preferenza in base, tra le altre cose che
+
+1404
+00:48:29,400 --> 00:48:32,680
+Roberto Marin: fa impazzire, alla vicinanza dell'istituto, sì, quello sì.
+
+1405
+00:48:32,840 --> 00:48:33,400
+Roberto Marin: Non danno
+
+1406
+00:48:33,960 --> 00:48:35,480
+Roberto Marin: il peso di quello che hai fatto alle
+
+1407
+00:48:35,640 --> 00:48:35,880
+Roberto Marin: media
+
+1408
+00:48:36,040 --> 00:48:38,600
+Roberto Marin: essenzialmente è relativo, perché a parte il
+
+1409
+00:48:38,700 --> 00:48:40,060
+Roberto Marin: Il giudizio che danno
+
+1410
+00:48:40,780 --> 00:48:42,060
+Roberto Marin: si chiama stradario
+
+1411
+00:48:42,460 --> 00:48:43,339
+Roberto Marin: esatto, ma
+
+1412
+00:48:43,820 --> 00:48:44,940
+Roberto Marin: io veramente
+
+1413
+00:48:45,579 --> 00:48:46,859
+Roberto Marin: non commento perché
+
+1414
+00:48:47,420 --> 00:48:50,380
+Roberto Marin: voglio iniziare bene l'anno, visto che questo qui.
+
+1415
+00:48:49,600 --> 00:48:53,760
+Roberto Marin: È l'anno nuovo, mi sono già proiettato lì, non voglio commentare in modo molto molto
+
+1416
+00:48:54,320 --> 00:48:54,960
+Roberto Marin: cattivo
+
+1417
+00:48:55,280 --> 00:48:57,360
+Roberto Marin: questa ideologia che è stata buttata
+
+1418
+00:48:57,520 --> 00:49:00,320
+Roberto Marin: lì dentro per il passaggio dalle medie alle superiori.
+
+1419
+00:48:59,859 --> 00:49:00,260
+Roberto Marin: e ai
+
+1420
+00:49:00,420 --> 00:49:00,980
+Roberto Marin: criteri
+
+1421
+00:49:01,220 --> 00:49:01,700
+Filippo Strozzi: per cui
+
+1422
+00:49:02,260 --> 00:49:04,099
+Filippo Strozzi: allora ti do una notizia
+
+1423
+00:49:04,500 --> 00:49:05,859
+Filippo Strozzi: vale uguale anche per le medie
+
+1424
+00:49:06,020 --> 00:49:07,780
+Filippo Strozzi: io sto affrontando il passaggio
+
+1425
+00:49:08,340 --> 00:49:09,700
+Filippo Strozzi: elementari medie
+
+1426
+00:49:09,860 --> 00:49:13,700
+Filippo Strozzi: e appunto sto a raccontare tutto perché mi è toccato anche subire
+
+1427
+00:49:13,860 --> 00:49:14,420
+Filippo Strozzi: varie
+
+1428
+00:49:15,060 --> 00:49:15,860
+Filippo Strozzi: varie vari
+
+1429
+00:49:16,020 --> 00:49:16,740
+Filippo Strozzi: meeting
+
+1430
+00:49:16,900 --> 00:49:18,580
+Filippo Strozzi: su queste vicende qua
+
+1431
+00:49:19,140 --> 00:49:19,940
+Filippo Strozzi: che come poi vi
+
+1432
+00:49:20,100 --> 00:49:23,460
+Filippo Strozzi: vederò ho apprezzato da morire, come sai.
+
+1433
+00:49:23,540 --> 00:49:23,940
+Filippo Strozzi: Sì,
+
+1434
+00:49:24,180 --> 00:49:25,700
+Filippo Strozzi: immagino, immagino, perché
+
+1435
+00:49:25,860 --> 00:49:26,900
+Filippo Strozzi: ci sono passati.
+
+1436
+00:49:27,600 --> 00:49:28,000
+Filippo Strozzi: appunto
+
+1437
+00:49:28,400 --> 00:49:31,280
+Filippo Strozzi: sì sì c'erano tutte queste queste disquisizioni
+
+1438
+00:49:31,840 --> 00:49:37,280
+Filippo Strozzi: di fatto c'è tutto il sistema poi adesso vabbè probabilmente credo che sia regionale quindi casomai
+
+1439
+00:49:37,600 --> 00:49:37,760
+Filippo Strozzi: noi
+
+1440
+00:49:37,920 --> 00:49:39,520
+Filippo Strozzi: abbiamo regioni abbastanza in
+
+1441
+00:49:39,700 --> 00:49:40,579
+Filippo Strozzi: Sì, mi li mettiamola
+
+1442
+00:49:40,740 --> 00:49:42,339
+Filippo Strozzi: in questi termini, diciamo.
+
+1443
+00:49:42,420 --> 00:49:43,460
+Filippo Strozzi: Mettiamola così.
+
+1444
+00:49:43,460 --> 00:49:43,940
+Filippo Strozzi: Perché hanno
+
+1445
+00:49:44,180 --> 00:49:45,380
+Filippo Strozzi: delle compagini
+
+1446
+00:49:45,540 --> 00:49:46,500
+Filippo Strozzi: abbastanza
+
+1447
+00:49:47,540 --> 00:49:50,420
+Filippo Strozzi: dove ci gemiliamo spesso e volentieri, mettiamola
+
+1448
+00:49:50,740 --> 00:49:52,260
+Filippo Strozzi: in questi termini.
+
+1449
+00:49:52,400 --> 00:49:58,320
+Filippo Strozzi: Però sì, di fatto tu fai un percorso in determinati canali, nel bene e nel male, poi dopo
+
+1450
+00:49:58,560 --> 00:50:00,400
+Filippo Strozzi: non ho le competenze per
+
+1451
+00:50:00,640 --> 00:50:01,520
+Filippo Strozzi: valutare
+
+1452
+00:50:01,760 --> 00:50:05,440
+Filippo Strozzi: l'opportunità o meno della cosa, è ovvio che si.
+
+1453
+00:50:05,420 --> 00:50:06,940
+Filippo Strozzi: Noi abbiamo scelto
+
+1454
+00:50:07,180 --> 00:50:08,860
+Filippo Strozzi: quella più vicina, e quindi
+
+1455
+00:50:09,820 --> 00:50:11,660
+Filippo Strozzi: quella di stradario, mettiamola così.
+
+1456
+00:50:11,660 --> 00:50:13,100
+Filippo Strozzi: Però anche lì dipende molto da
+
+1457
+00:50:13,340 --> 00:50:14,380
+Filippo Strozzi: dove ti collochi.
+
+1458
+00:50:14,540 --> 00:50:15,820
+Roberto Marin: Sono molto curioso, però
+
+1459
+00:50:16,060 --> 00:50:16,700
+Roberto Marin: questa.
+
+1460
+00:50:17,040 --> 00:50:18,160
+Roberto Marin: Incertezza
+
+1461
+00:50:18,720 --> 00:50:18,880
+Roberto Marin: di
+
+1462
+00:50:19,120 --> 00:50:19,280
+Roberto Marin: dove
+
+1463
+00:50:19,440 --> 00:50:20,400
+Roberto Marin: andare a finire mia figlia alle
+
+1464
+00:50:20,560 --> 00:50:21,920
+Roberto Marin: superiori, mi lascia un po'.
+
+1465
+00:50:22,880 --> 00:50:24,640
+Filippo Strozzi: Farai sorteggi, immagino.
+
+1466
+00:50:24,640 --> 00:50:26,240
+Filippo Strozzi: Fai i sorteggi immagino.
+
+1467
+00:50:26,400 --> 00:50:26,880
+Roberto Marin: Probabilmente
+
+1468
+00:50:27,040 --> 00:50:29,040
+Roberto Marin: ci saranno dei sorteggi, la cosa mi fa abbastanza già
+
+1469
+00:50:29,200 --> 00:50:30,400
+Roberto Marin: riscatto perché.
+
+1470
+00:50:30,980 --> 00:50:32,820
+Roberto Marin: Questa sicurezza insita nel
+
+1471
+00:50:33,140 --> 00:50:34,500
+Roberto Marin: sistema scolastico.
+
+1472
+00:50:35,140 --> 00:50:39,300
+Filippo Strozzi: Io ho un caro amico professore che mi raccontava tutta una serie di robe che.
+
+1473
+00:50:39,480 --> 00:50:41,160
+Filippo Strozzi: che appunto avevo insieme al liceo, addirittura
+
+1474
+00:50:41,319 --> 00:50:43,240
+Filippo Strozzi: adesso hanno cambiato le classi, quindi la classe
+
+1475
+00:50:43,559 --> 00:50:46,119
+Filippo Strozzi: almeno in Emilia Romagna e parlo, e la classe Mina
+
+1476
+00:50:46,279 --> 00:50:49,720
+Filippo Strozzi: mi diceva, perché io non ho nessuno nulla, sono 27.
+
+1477
+00:50:49,980 --> 00:50:50,540
+Filippo Strozzi: 27
+
+1478
+00:50:51,420 --> 00:50:52,859
+Filippo Strozzi: perché poi dopo c'è tutto un
+
+1479
+00:50:55,260 --> 00:50:56,780
+Filippo Strozzi: andiamo in tangente anche perché
+
+1480
+00:50:57,420 --> 00:50:57,980
+Filippo Strozzi: rischiamo di
+
+1481
+00:50:59,099 --> 00:51:01,660
+Filippo Strozzi: prendere nomi inutilmente.
+
+1482
+00:51:01,400 --> 00:51:01,799
+Filippo Strozzi: Esatto,
+
+1483
+00:51:02,520 --> 00:51:02,760
+Roberto Marin: brutta
+
+1484
+00:51:02,920 --> 00:51:04,680
+Roberto Marin: i tangenti, brutte tangenti, meglio
+
+1485
+00:51:04,839 --> 00:51:05,799
+Roberto Marin: parlarne al bar,
+
+1486
+00:51:06,119 --> 00:51:08,279
+Roberto Marin: forse è meglio, che almeno siamo anche un po' più liberi.
+
+1487
+00:51:08,279 --> 00:51:09,319
+Roberto Marin: Invece, l'altra parte
+
+1488
+00:51:09,559 --> 00:51:09,880
+Roberto Marin: Che
+
+1489
+00:51:10,200 --> 00:51:11,559
+Roberto Marin: mi movimenterà quest'anno
+
+1490
+00:51:11,720 --> 00:51:12,760
+Roberto Marin: il lavoro, perché
+
+1491
+00:51:13,319 --> 00:51:21,319
+Roberto Marin: possiamo tranquillamente salutare il 110, come sapete, a meno di cose che salteranno probabilmente tra Natale e Capodanno, ma io ho
+
+1492
+00:51:22,119 --> 00:51:23,000
+Filippo Strozzi: mille proroghe.
+
+1493
+00:51:23,000 --> 00:51:23,799
+Filippo Strozzi: Si parla, mille
+
+1494
+00:51:23,960 --> 00:51:24,200
+Filippo Strozzi: pro.
+
+1495
+00:51:24,160 --> 00:51:24,560
+Filippo Strozzi: proroghe
+
+1496
+00:51:24,720 --> 00:51:24,800
+Filippo Strozzi: sì
+
+1497
+00:51:25,040 --> 00:51:25,280
+Roberto Marin: mille
+
+1498
+00:51:25,440 --> 00:51:27,520
+Roberto Marin: proroghe che lo fanno tra natale e capodanno
+
+1499
+00:51:27,760 --> 00:51:29,760
+Roberto Marin: giustamente e uno vorrebbe anche programmare l'anno
+
+1500
+00:51:30,000 --> 00:51:30,560
+Roberto Marin: vabbè ovvio
+
+1501
+00:51:30,720 --> 00:51:31,040
+Roberto Marin: quando tu
+
+1502
+00:51:31,360 --> 00:51:31,600
+Filippo Strozzi: quando
+
+1503
+00:51:32,000 --> 00:51:33,360
+Filippo Strozzi: Ma no, scusami,
+
+1504
+00:51:33,840 --> 00:51:34,080
+Filippo Strozzi: quando
+
+1505
+00:51:34,320 --> 00:51:35,440
+Filippo Strozzi: possono votare in punti
+
+1506
+00:51:35,840 --> 00:51:36,960
+Filippo Strozzi: a decidere.
+
+1507
+00:51:37,520 --> 00:51:40,000
+Roberto Marin: Esatto, siamo lì tutti ad aspettare.
+
+1508
+00:51:40,240 --> 00:51:41,840
+Roberto Marin: Vabbè, chi se ne frega, intanto
+
+1509
+00:51:42,160 --> 00:51:43,040
+Roberto Marin: in caso.
+
+1510
+00:51:43,020 --> 00:51:43,500
+Roberto Marin: bisogna
+
+1511
+00:51:43,660 --> 00:51:45,820
+Roberto Marin: compensare questa mancanza di lavoro
+
+1512
+00:51:45,980 --> 00:51:49,339
+Roberto Marin: diciamo che probabilmente genererà il 110 che
+
+1513
+00:51:49,500 --> 00:51:50,060
+Roberto Marin: potrà dire
+
+1514
+00:51:50,220 --> 00:51:54,060
+Roberto Marin: io non l'ho preso di petto ma l'ho preso molto di striscio dal punto di vista lavorativo
+
+1515
+00:51:54,220 --> 00:51:54,540
+Roberto Marin: quindi
+
+1516
+00:51:54,300 --> 00:51:56,140
+Roberto Marin: E' per quello che sono qua a raccontarvelo perché
+
+1517
+00:51:56,380 --> 00:51:57,900
+Roberto Marin: molti miei colleghi invece che hanno
+
+1518
+00:51:58,060 --> 00:52:04,620
+Roberto Marin: preso di peto ci hanno rimesso un po' di sanità mentale, quindi bisogna compensare con nuove opportunità di lavoro essenzialmente.
+
+1519
+00:52:04,100 --> 00:52:10,500
+Roberto Marin: Bisogna cercarsi lavoro, cercare di mantenere almeno il fatturato del 2023 per non andare proprio a gamba all'aria
+
+1520
+00:52:10,900 --> 00:52:18,020
+Roberto Marin: e quindi bisogna valutare essenzialmente le nuove collaborazioni, migliorare quelle che ci sono, lavorare meglio.
+
+1521
+00:52:17,740 --> 00:52:18,860
+Roberto Marin: Vi discorrendo.
+
+1522
+00:52:18,860 --> 00:52:19,820
+Roberto Marin: E ampliare,
+
+1523
+00:52:20,300 --> 00:52:22,700
+Roberto Marin: diciamo, anzi, coprire
+
+1524
+00:52:22,860 --> 00:52:26,140
+Roberto Marin: quello spazio che è stato lasciato dal 110 nella mia
+
+1525
+00:52:26,300 --> 00:52:28,220
+Roberto Marin: diciamo giornata lavorativa.
+
+1526
+00:52:28,460 --> 00:52:32,140
+Roberto Marin: Si sta saltando fuori un'idea che mi è stata gentilmente passata.
+
+1527
+00:52:32,740 --> 00:52:34,820
+Roberto Marin: Un collega che mi ha aper questa
+
+1528
+00:52:34,980 --> 00:52:35,380
+Roberto Marin: idea ne
+
+1529
+00:52:35,540 --> 00:52:39,140
+Roberto Marin: sto parlando un po' a tutti i livelli di conoscenza che ho più che altro perché
+
+1530
+00:52:39,460 --> 00:52:40,500
+Roberto Marin: riguarda
+
+1531
+00:52:40,359 --> 00:52:41,800
+Roberto Marin: Un certo tipo di lavoro
+
+1532
+00:52:41,960 --> 00:52:42,280
+Roberto Marin: e
+
+1533
+00:52:42,599 --> 00:52:43,320
+Roberto Marin: un'idea, ve la
+
+1534
+00:52:43,480 --> 00:52:45,160
+Roberto Marin: bozzo qua che mette assieme
+
+1535
+00:52:45,560 --> 00:52:48,760
+Roberto Marin: essenzialmente il video, il podcast e l'architettura.
+
+1536
+00:52:49,460 --> 00:52:55,540
+Roberto Marin: Praticamente tre cose di cui io potrei occuparmi, e quindi mettere un format di questo tipo, magari
+
+1537
+00:52:55,780 --> 00:52:56,420
+Roberto Marin: probabilmente
+
+1538
+00:52:56,660 --> 00:53:00,820
+Roberto Marin: potrei essere la persona giusta, ma vediamo come si evolve la questione.
+
+1539
+00:53:00,820 --> 00:53:02,420
+Roberto Marin: Anche perché, comunque.
+
+1540
+00:53:02,000 --> 00:53:07,120
+Roberto Marin: Qui si sale parecchio di livello e quando sali di livello ti puoi anche far male facilmente.
+
+1541
+00:53:07,120 --> 00:53:10,640
+Roberto Marin: Ma detto questo, l'altra cosa che voglio fare,
+
+1542
+00:53:10,880 --> 00:53:15,120
+Roberto Marin: oltre a rimanere a galla dal punto di vista lavorativo per il 2023.
+
+1543
+00:53:14,460 --> 00:53:14,700
+Roberto Marin: È
+
+1544
+00:53:14,940 --> 00:53:15,260
+Roberto Marin: il
+
+1545
+00:53:15,500 --> 00:53:17,740
+Roberto Marin: terminare il processo di abbandonato di notion
+
+1546
+00:53:18,300 --> 00:53:21,580
+Roberto Marin: che era il sistema che ho usato fino all'anno scorso.
+
+1547
+00:53:21,580 --> 00:53:23,500
+Roberto Marin: Adesso, con le novità di pro memoria
+
+1548
+00:53:23,740 --> 00:53:24,060
+Roberto Marin: e
+
+1549
+00:53:24,300 --> 00:53:26,220
+Roberto Marin: note, sto passando a questa fase.
+
+1550
+00:53:26,220 --> 00:53:28,220
+Roberto Marin: Ovviamente ci vuole un po' di tempo.
+
+1551
+00:53:27,940 --> 00:53:28,099
+Roberto Marin: Pro
+
+1552
+00:53:28,260 --> 00:53:28,579
+Roberto Marin: Memoria
+
+1553
+00:53:28,740 --> 00:53:29,780
+Roberto Marin: è dato per assodato
+
+1554
+00:53:29,940 --> 00:53:30,099
+Roberto Marin: note
+
+1555
+00:53:30,339 --> 00:53:30,579
+Roberto Marin: ancora lì
+
+1556
+00:53:30,740 --> 00:53:33,140
+Roberto Marin: in bilico perché sono un po' di qua e un po' di là, però
+
+1557
+00:53:33,300 --> 00:53:37,540
+Roberto Marin: ho intenzione di passare il più velocemente possibile a note e abbandonare
+
+1558
+00:53:37,700 --> 00:53:42,099
+Roberto Marin: Notion, ma non perché mi sa antipatico, ma per il semplice fatto che.
+
+1559
+00:53:41,480 --> 00:53:43,640
+Roberto Marin: Ho già degli strumenti che ho
+
+1560
+00:53:43,880 --> 00:53:51,880
+Roberto Marin: in pancia e non vedo perché non potrei utilizzare quelli di Apple, che praticamente mi trovo sincronizzato da tutte le parti, senza grossi problemi, e non ci devo neanche tanto pensare.
+
+1561
+00:53:51,880 --> 00:53:52,599
+Filippo Strozzi: E detto questo
+
+1562
+00:53:53,359 --> 00:53:57,520
+Filippo Strozzi: Ti blocco lì e adesso poi più avanti con calma quando avrai
+
+1563
+00:53:57,760 --> 00:54:00,960
+Filippo Strozzi: formalizzato ci racconterai a questo punto il passaggio.
+
+1564
+00:54:00,960 --> 00:54:04,079
+Roberto Marin: Sì, devo dire che mi ha molto sorpreso.
+
+1565
+00:54:04,020 --> 00:54:05,460
+Roberto Marin: Nel senso che è
+
+1566
+00:54:05,700 --> 00:54:06,820
+Roberto Marin: molto intuitivo
+
+1567
+00:54:06,980 --> 00:54:09,220
+Roberto Marin: e ci sono alcuni aspetti che Notion
+
+1568
+00:54:09,460 --> 00:54:16,180
+Roberto Marin: non ti potrà mai dare, te dico già subito l'anteprima, che è quello di dirmi, chiedere mentre sono in auto, chiedere a.
+
+1569
+00:54:16,059 --> 00:54:17,180
+Roberto Marin: Siri, di dirmi
+
+1570
+00:54:17,339 --> 00:54:18,779
+Roberto Marin: quali sono i promemoria di oggi,
+
+1571
+00:54:19,500 --> 00:54:21,980
+Roberto Marin: invece, non potrei farlo, conoscio, non posso chiederlo.
+
+1572
+00:54:21,980 --> 00:54:22,700
+Filippo Strozzi: Tuttavia, ragazzi,
+
+1573
+00:54:23,339 --> 00:54:26,779
+Filippo Strozzi: sto programmando la giornata, forse sì, ma è complicato.
+
+1574
+00:54:26,779 --> 00:54:27,260
+Filippo Strozzi: Diciamo,
+
+1575
+00:54:27,740 --> 00:54:29,660
+Filippo Strozzi: e tu che sei un braccio.
+
+1576
+00:54:29,500 --> 00:54:29,660
+Filippo Strozzi: è
+
+1577
+00:54:29,900 --> 00:54:30,780
+Filippo Strozzi: molto complicato
+
+1578
+00:54:31,339 --> 00:54:33,420
+Filippo Strozzi: soprattutto è improbabile perché
+
+1579
+00:54:33,900 --> 00:54:36,380
+Filippo Strozzi: devi probabilmente utilizzare le shortcut
+
+1580
+00:54:36,780 --> 00:54:36,940
+Filippo Strozzi: posta
+
+1581
+00:54:37,099 --> 00:54:37,420
+Filippo Strozzi: per noi
+
+1582
+00:54:37,900 --> 00:54:38,700
+Roberto Marin: esatto
+
+1583
+00:54:38,300 --> 00:54:39,580
+Roberto Marin: E invece, così
+
+1584
+00:54:39,740 --> 00:54:40,940
+Roberto Marin: ho visto che è molto
+
+1585
+00:54:41,100 --> 00:54:43,900
+Roberto Marin: molto interessante, nel senso che, ovviamente,
+
+1586
+00:54:44,060 --> 00:54:48,060
+Roberto Marin: c'è l'integrazione con Apple, e come sapete, è una delle parti
+
+1587
+00:54:48,300 --> 00:54:48,540
+Roberto Marin: che
+
+1588
+00:54:49,260 --> 00:54:52,300
+Roberto Marin: a noi due piace di più, nel senso che.
+
+1589
+00:54:51,500 --> 00:54:55,100
+Roberto Marin: C'è questa integrazione estrema tra tutte quante le cose.
+
+1590
+00:54:55,100 --> 00:54:59,500
+Roberto Marin: E permetterti di fare il punto della situazione mentre sei in auto e chiedere promemoria
+
+1591
+00:54:59,660 --> 00:55:00,380
+Roberto Marin: della giornata.
+
+1592
+00:55:00,380 --> 00:55:04,380
+Roberto Marin: Per me non dico che mi ha svoltato la vita, ma diciamo che
+
+1593
+00:55:04,359 --> 00:55:07,960
+Roberto Marin: Ho questa possibilità che posso utilizzare semplicemente
+
+1594
+00:55:08,119 --> 00:55:09,800
+Roberto Marin: e quindi mi aiuta davvero
+
+1595
+00:55:10,040 --> 00:55:10,359
+Roberto Marin: tanto
+
+1596
+00:55:10,680 --> 00:55:16,280
+Roberto Marin: nel lavoro, ma anche nell'organizzazione della giornata, e anche a far passare le giornate in auto quando capito.
+
+1597
+00:55:15,640 --> 00:55:18,279
+Roberto Marin: Per quanto riguarda invece gli altri processi
+
+1598
+00:55:18,920 --> 00:55:20,920
+Roberto Marin: collaterali, che essenzialmente uno,
+
+1599
+00:55:21,079 --> 00:55:21,319
+Roberto Marin: perché
+
+1600
+00:55:21,559 --> 00:55:24,359
+Roberto Marin: il resto più o meno rimarrà lì.
+
+1601
+00:55:23,460 --> 00:55:24,340
+Roberto Marin: probabilmente
+
+1602
+00:55:24,580 --> 00:55:26,660
+Roberto Marin: spero forse quello di alzare un po' più
+
+1603
+00:55:27,220 --> 00:55:28,100
+Roberto Marin: l'asticella
+
+1604
+00:55:28,260 --> 00:55:29,380
+Roberto Marin: nel senso che
+
+1605
+00:55:29,700 --> 00:55:30,340
+Roberto Marin: vorrei
+
+1606
+00:55:30,660 --> 00:55:31,860
+Roberto Marin: migliorare la questione
+
+1607
+00:55:32,020 --> 00:55:33,460
+Roberto Marin: nel senso come avete sentito
+
+1608
+00:55:33,720 --> 00:55:40,200
+Roberto Marin: Quest'anno non si tratta di migliorare da nessuna parte se non per il rapporto con me stesso, di me stesso, con me stesso.
+
+1609
+00:55:40,200 --> 00:55:41,240
+Roberto Marin: Diciamo che
+
+1610
+00:55:41,280 --> 00:55:42,880
+Roberto Marin: L'idea è quello per YouTube
+
+1611
+00:55:43,200 --> 00:55:44,240
+Roberto Marin: di migliorare il workflow.
+
+1612
+00:55:44,240 --> 00:55:48,560
+Roberto Marin: Miglioramento del workflow che ho fatto un esperimento, ma proprio perché ho avuto l'occasione
+
+1613
+00:55:49,040 --> 00:55:49,200
+Roberto Marin: mi
+
+1614
+00:55:49,359 --> 00:55:50,480
+Roberto Marin: è stata gettata addosso
+
+1615
+00:55:50,640 --> 00:55:51,760
+Roberto Marin: e non mi sono scusato.
+
+1616
+00:55:51,260 --> 00:55:56,300
+Roberto Marin: spostato due giorni fa e due giorni fa per chi sta ascoltando adesso nel 2024 non è
+
+1617
+00:55:56,540 --> 00:55:59,740
+Roberto Marin: nel 2024 ma nel 2023 prima di natale
+
+1618
+00:55:59,900 --> 00:56:01,260
+Roberto Marin: dove ho fatto praticamente
+
+1619
+00:56:01,260 --> 00:56:02,220
+Roberto Marin: mi sono imposto
+
+1620
+00:56:02,460 --> 00:56:04,220
+Roberto Marin: una cosa e mi sono anche chiesto
+
+1621
+00:56:04,380 --> 00:56:05,260
+Roberto Marin: come realizzare
+
+1622
+00:56:05,740 --> 00:56:07,180
+Roberto Marin: in tempi celeri.
+
+1623
+00:56:07,180 --> 00:56:11,020
+Roberto Marin: Si tratta di un video breve, mi pare che sia sui due minuti e mezzo o tre
+
+1624
+00:56:11,240 --> 00:56:15,000
+Roberto Marin: Ma l'ho fatto in modo molto celere ottimizzando un po' di cose
+
+1625
+00:56:15,240 --> 00:56:21,320
+Roberto Marin: e la cosa che mi ha stupito è che in effetti ci sono margini, ma grossi margini di miglioramento.
+
+1626
+00:56:20,800 --> 00:56:20,880
+Roberto Marin: e
+
+1627
+00:56:21,200 --> 00:56:28,880
+Roberto Marin: quindi si può intervenire sul workflow in modo abbastanza, non dico semplice, un po' mirato, mettiamola così, almeno per questo tipo di video
+
+1628
+00:56:28,960 --> 00:56:29,120
+Roberto Marin: dove
+
+1629
+00:56:29,680 --> 00:56:32,400
+Roberto Marin: essenzialmente non sono inquadrato in faccia perché
+
+1630
+00:56:32,800 --> 00:56:33,600
+Roberto Marin: faccio dei
+
+1631
+00:56:34,640 --> 00:56:35,200
+Roberto Marin: VD
+
+1632
+00:56:35,440 --> 00:56:37,200
+Roberto Marin: come in perfetto italiano
+
+1633
+00:56:37,059 --> 00:56:37,859
+Roberto Marin: divulgativi
+
+1634
+00:56:38,099 --> 00:56:38,420
+Roberto Marin: quindi
+
+1635
+00:56:38,980 --> 00:56:41,700
+Roberto Marin: la concentrazione non deve essere sul mio faccione che vi spiego
+
+1636
+00:56:41,859 --> 00:56:44,260
+Roberto Marin: le cose ma bensì su quello che sto facendo
+
+1637
+00:56:44,420 --> 00:56:48,260
+Roberto Marin: e quindi in questo caso si tratta di disegno digitale e quindi la mia faccia
+
+1638
+00:56:48,359 --> 00:56:48,920
+Roberto Marin: E relativa
+
+1639
+00:56:49,079 --> 00:56:50,760
+Roberto Marin: può esserci non esserci.
+
+1640
+00:56:50,760 --> 00:56:51,560
+Roberto Marin: In questi ti
+
+1641
+00:56:51,880 --> 00:56:56,280
+Roberto Marin: video divulgativi vedo che c'è molto margine per riuscire a farne di più
+
+1642
+00:56:56,000 --> 00:57:01,360
+Roberto Marin: e quindi ho intenzione di farlo visto che probabilmente potrei anche riuscire a farlo senza ammazzarmi troppo
+
+1643
+00:57:02,240 --> 00:57:02,800
+Roberto Marin: senza ammazzarmi
+
+1644
+00:57:03,200 --> 00:57:04,240
+Roberto Marin: ti do delle idee dove
+
+1645
+00:57:04,680 --> 00:57:06,359
+Roberto Marin: Ho paura, ho paura,
+
+1646
+00:57:06,599 --> 00:57:09,560
+Roberto Marin: e poi l'ultima cosa che invece
+
+1647
+00:57:09,800 --> 00:57:13,720
+Roberto Marin: ho unito assieme alla bicicletta: la fotografia, non la fotografia in tipo
+
+1648
+00:57:14,040 --> 00:57:15,720
+Roberto Marin: professionale, ma proprio
+
+1649
+00:57:15,820 --> 00:57:18,140
+Roberto Marin: la possibilità di migliorare
+
+1650
+00:57:18,460 --> 00:57:22,300
+Roberto Marin: la fotografia e soprattutto di imparare a utilizzare l'iPhone
+
+1651
+00:57:22,540 --> 00:57:27,260
+Roberto Marin: che ci sono alcune cose che nessuno ti dice alcune possibilità che hai.
+
+1652
+00:57:26,500 --> 00:57:26,580
+Roberto Marin: da
+
+1653
+00:57:26,820 --> 00:57:29,940
+Roberto Marin: utilizzare con l'iPhone che in un uso normale che potrei fare io
+
+1654
+00:57:30,100 --> 00:57:32,420
+Roberto Marin: me le potevo tranquillamente scordare invece adesso
+
+1655
+00:57:32,580 --> 00:57:34,420
+Roberto Marin: ponendo un pochino di attenzione
+
+1656
+00:57:34,660 --> 00:57:37,620
+Roberto Marin: non solo dal punto di vista di come lo utilizzo ma soprattutto
+
+1657
+00:57:37,760 --> 00:57:41,840
+Roberto Marin: Di chi spiega di come fa le fotografie, di come le imposta, di come utilizza l'iPhone
+
+1658
+00:57:42,000 --> 00:57:45,760
+Roberto Marin: in questo caso perché è il mio strumento con cui faccio le fotografie, ho visto che
+
+1659
+00:57:45,660 --> 00:57:50,780
+Roberto Marin: qualcosa di buono ne sta uscendo e mi piacerebbe rimanere sul pezzo perché è comunque
+
+1660
+00:57:51,020 --> 00:57:54,460
+Roberto Marin: molto interessante ed è uno di quei pallini che mi è rimasto sempre
+
+1661
+00:57:54,740 --> 00:57:55,620
+Roberto Marin: in giro.
+
+1662
+00:57:55,620 --> 00:58:03,700
+Roberto Marin: L'ultimo pallino che non ho segnato in scaletta e che mi piacerebbe disegnare di nuovo architettura, cioè avere il tempo di sedermi.
+
+1663
+00:58:03,280 --> 00:58:06,000
+Roberto Marin: guardare un'architettura e disegnarla su iPad però
+
+1664
+00:58:06,160 --> 00:58:08,400
+Roberto Marin: però questo qui è un pallino molto lontano
+
+1665
+00:58:08,560 --> 00:58:08,640
+Roberto Marin: così
+
+1666
+00:58:08,880 --> 00:58:09,920
+Roberto Marin: ci puoi fare anche il video
+
+1667
+00:58:10,079 --> 00:58:10,960
+Roberto Marin: ci puoi fare anche il video
+
+1668
+00:58:11,119 --> 00:58:11,280
+Roberto Marin: ah
+
+1669
+00:58:11,440 --> 00:58:11,839
+Roberto Marin: pure
+
+1670
+00:58:11,940 --> 00:58:17,859
+Roberto Marin: volendosi e vai e buttiamo dentro anche quello e facciamo di tutto un po' e questo qui dovrebbe essere il 2024
+
+1671
+00:58:18,099 --> 00:58:18,900
+Roberto Marin: se tutto va bene
+
+1672
+00:58:19,140 --> 00:58:19,859
+Roberto Marin: siamo all'inizio
+
+1673
+00:58:20,020 --> 00:58:21,220
+Roberto Marin: vediamo come si smette
+
+1674
+00:58:21,540 --> 00:58:23,460
+Roberto Marin: Soprattutto che, cosa può succedere?
+
+1675
+00:58:23,460 --> 00:58:24,820
+Roberto Marin: Insomma, sono tutti dei bei progetti.
+
+1676
+00:58:24,820 --> 00:58:27,460
+Roberto Marin: Viviamo in tempi interessanti, come diceva qualcuno
+
+1677
+00:58:28,100 --> 00:58:28,260
+Roberto Marin: alla
+
+1678
+00:58:28,420 --> 00:58:30,020
+Roberto Marin: faccia di interessanti, ragazzi.
+
+1679
+00:58:30,740 --> 00:58:33,060
+Roberto Marin: Segni molto molto interessanti.
+
+1680
+00:58:33,120 --> 00:58:34,000
+Roberto Marin: questo punto di vista
+
+1681
+00:58:34,160 --> 00:58:34,480
+Roberto Marin: e
+
+1682
+00:58:34,640 --> 00:58:35,200
+Roberto Marin: bisogna un po
+
+1683
+00:58:35,360 --> 00:58:35,920
+Roberto Marin: come si dice
+
+1684
+00:58:36,080 --> 00:58:38,160
+Roberto Marin: portare la pelle a casa in qualche modo
+
+1685
+00:58:38,400 --> 00:58:38,960
+Roberto Marin: ma insomma
+
+1686
+00:58:39,120 --> 00:58:41,040
+Roberto Marin: sono ottimista sotto questo punto di vista
+
+1687
+00:58:41,280 --> 00:58:42,080
+Roberto Marin: lo spero che
+
+1688
+00:58:42,320 --> 00:58:43,360
+Roberto Marin: siate anche voi
+
+1689
+00:58:43,359 --> 00:58:46,160
+Roberto Marin: Nei vostri progetti.
+
+1690
+00:58:46,160 --> 00:58:50,160
+Filippo Strozzi: Poi lo dico sempre, siamo alla fine dell'anno, non siamo all'inizio, quindi probabilmente
+
+1691
+00:58:50,320 --> 00:58:50,960
+Filippo Strozzi: anche questo
+
+1692
+00:58:51,100 --> 00:58:53,820
+Filippo Strozzi: Questo mood di stanchezza generale che
+
+1693
+00:58:54,060 --> 00:58:55,500
+Filippo Strozzi: ci sta prendendo.
+
+1694
+00:58:55,740 --> 00:58:56,460
+Filippo Strozzi: Approccio tremendo.
+
+1695
+00:58:56,620 --> 00:58:57,020
+Filippo Strozzi: Ce l'abbiamo
+
+1696
+00:58:57,180 --> 00:58:58,540
+Filippo Strozzi: le caviglie, questa stanchezza
+
+1697
+00:58:58,940 --> 00:59:00,300
+Filippo Strozzi: esatto, esatto, esatto.
+
+1698
+00:59:00,460 --> 00:59:01,660
+Filippo Strozzi: Effettivamente.
+
+1699
+00:59:01,860 --> 00:59:02,500
+Filippo Strozzi: Adesso
+
+1700
+00:59:03,940 --> 00:59:05,220
+Filippo Strozzi: sono sicuramente
+
+1701
+00:59:05,780 --> 00:59:08,820
+Filippo Strozzi: anni particolari per tutti, non solo per noi, tendo a precisarlo.
+
+1702
+00:59:09,140 --> 00:59:11,140
+Filippo Strozzi: Sì, sì, sì, assolutamente sì.
+
+1703
+00:59:10,900 --> 00:59:11,539
+Filippo Strozzi: Assolutamente, perché
+
+1704
+00:59:11,779 --> 00:59:18,020
+Filippo Strozzi: stanno cambiando tante cose e ci sono tanti problemi, ma come ci sono sempre stati, come probabilmente sempre ci saranno.
+
+1705
+00:59:18,020 --> 00:59:22,500
+Filippo Strozzi: È ovvio che questa serata qui io ho finito di lavorare il 7 e Roberto.
+
+1706
+00:59:22,780 --> 00:59:23,820
+Filippo Strozzi: Più o meno
+
+1707
+00:59:24,380 --> 00:59:25,580
+Filippo Strozzi: è ovvio che
+
+1708
+00:59:26,220 --> 00:59:26,940
+Filippo Strozzi: casomai
+
+1709
+00:59:27,340 --> 00:59:29,900
+Filippo Strozzi: ci ha preso un po' più del previsto, ma
+
+1710
+00:59:30,300 --> 00:59:31,180
+Filippo Strozzi: non vogliamo neanche
+
+1711
+00:59:31,340 --> 00:59:33,660
+Filippo Strozzi: essere troppo negativi, anzi, secondo me.
+
+1712
+00:59:33,660 --> 00:59:34,780
+Filippo Strozzi: No, anzi.
+
+1713
+00:59:34,320 --> 00:59:36,800
+Filippo Strozzi: L'idea di fondo è proprio quella, cioè di
+
+1714
+00:59:37,040 --> 00:59:38,320
+Filippo Strozzi: andare verso.
+
+1715
+00:59:38,320 --> 00:59:39,840
+Filippo Strozzi: anche se le cose non vanno bene
+
+1716
+00:59:40,000 --> 00:59:40,800
+Filippo Strozzi: e quello
+
+1717
+00:59:41,120 --> 00:59:42,880
+Filippo Strozzi: non possiamo mai controllarlo.
+
+1718
+00:59:42,880 --> 00:59:44,400
+Filippo Strozzi: Cioè, cosa ci capiterà
+
+1719
+00:59:44,880 --> 00:59:47,360
+Filippo Strozzi: non è qualcosa che noi possiamo controllare.
+
+1720
+00:59:47,940 --> 00:59:51,220
+Filippo Strozzi: semplicemente controllare come noi reagiremo a quello che ci capita
+
+1721
+00:59:51,380 --> 00:59:52,099
+Filippo Strozzi: e questo vuole
+
+1722
+00:59:52,420 --> 00:59:53,540
+Filippo Strozzi: cioè la parte più difficile
+
+1723
+00:59:53,700 --> 00:59:54,260
+Filippo Strozzi: certamente
+
+1724
+00:59:54,420 --> 00:59:56,260
+Filippo Strozzi: però appunto l'intenzionalità
+
+1725
+00:59:56,980 --> 00:59:58,099
+Filippo Strozzi: di approcciare
+
+1726
+00:59:58,420 --> 00:59:59,860
+Filippo Strozzi: sostanzialmente quello che
+
+1727
+01:00:00,180 --> 01:00:00,660
+Filippo Strozzi: arriva
+
+1728
+01:00:00,820 --> 01:00:02,420
+Filippo Strozzi: quindi anche di ragionare di più su
+
+1729
+01:00:02,580 --> 01:00:04,740
+Filippo Strozzi: quello che ci capita mettiamola così adesso apro
+
+1730
+01:00:04,900 --> 01:00:05,140
+Filippo Strozzi: chiudere
+
+1731
+01:00:05,300 --> 01:00:06,660
+Filippo Strozzi: una parentesi nell'ultimo periodo
+
+1732
+01:00:06,820 --> 01:00:08,260
+Filippo Strozzi: per i podcast che ascolto
+
+1733
+01:00:08,420 --> 01:00:10,100
+Filippo Strozzi: per le letture che faccio
+
+1734
+01:00:10,160 --> 01:00:10,560
+Filippo Strozzi: Una
+
+1735
+01:00:11,200 --> 01:00:11,440
+Filippo Strozzi: delle
+
+1736
+01:00:11,760 --> 01:00:13,520
+Filippo Strozzi: cose che noto di più è che
+
+1737
+01:00:13,840 --> 01:00:16,800
+Filippo Strozzi: in questo mondo frenetico diciamo c'è sempre meno tempo
+
+1738
+01:00:17,040 --> 01:00:21,840
+Filippo Strozzi: per pensare, nel senso di avere un attimo di tranquillità, di non.
+
+1739
+01:00:22,559 --> 01:00:25,599
+Filippo Strozzi: di stare un attimo con se stessi, di ragionare le cose.
+
+1740
+01:00:25,599 --> 01:00:28,400
+Filippo Strozzi: Lo vedo in colleghi, amici e così via
+
+1741
+01:00:28,640 --> 01:00:28,960
+Filippo Strozzi: dove
+
+1742
+01:00:29,119 --> 01:00:30,480
+Filippo Strozzi: tra le tante cose
+
+1743
+01:00:30,720 --> 01:00:32,000
+Filippo Strozzi: vedo, cioè, sono.
+
+1744
+01:00:32,000 --> 01:00:32,079
+Filippo Strozzi: .
+
+1745
+01:00:32,240 --> 01:00:33,520
+Filippo Strozzi: devo fare questo, devo fare questo
+
+1746
+01:00:33,460 --> 01:00:34,740
+Filippo Strozzi: quello devo fare quell'altro, sì
+
+1747
+01:00:34,900 --> 01:00:37,460
+Filippo Strozzi: certo, ma spesso e volentieri questo affanno
+
+1748
+01:00:37,620 --> 01:00:39,460
+Filippo Strozzi: è dovuto anche al fatto appunto,
+
+1749
+01:00:39,620 --> 01:00:42,260
+Filippo Strozzi: ricollegandomi anche al discorso che faceva Roberto.
+
+1750
+01:00:42,359 --> 01:00:43,560
+Filippo Strozzi: di dire sempre di sì.
+
+1751
+01:00:43,560 --> 01:00:44,839
+Filippo Strozzi: A volte bisogna sapere
+
+1752
+01:00:45,160 --> 01:00:45,800
+Filippo Strozzi: di no.
+
+1753
+01:00:46,119 --> 01:00:46,200
+Filippo Strozzi: È
+
+1754
+01:00:46,359 --> 01:00:47,720
+Filippo Strozzi: brutto da dire, io adesso
+
+1755
+01:00:48,280 --> 01:00:48,760
+Filippo Strozzi: ho delle
+
+1756
+01:00:49,320 --> 01:00:53,320
+Filippo Strozzi: squisizioni abbastanza infervorate con la moglie su questo.
+
+1757
+01:00:52,980 --> 01:00:56,740
+Filippo Strozzi: su questi argomenti, però quello che mi rendo conto è che ormai è sempre
+
+1758
+01:00:56,900 --> 01:01:04,819
+Filippo Strozzi: ah ma perché tizio fa anche quello e quindi lo dovremmo fare anche noi, il discorso è spesso e volentieri per dire di se una cosa devi dire no a dici
+
+1759
+01:01:05,140 --> 01:01:06,500
+Filippo Strozzi: altre cose.
+
+1760
+01:01:05,859 --> 01:01:07,540
+Filippo Strozzi: È una questione di scelte
+
+1761
+01:01:07,859 --> 01:01:10,020
+Filippo Strozzi: e se ci si ferma un attimo a pensare su
+
+1762
+01:01:10,260 --> 01:01:11,140
+Filippo Strozzi: è banale.
+
+1763
+01:01:11,859 --> 01:01:12,660
+Filippo Strozzi: Potevamo dire che
+
+1764
+01:01:12,900 --> 01:01:14,740
+Filippo Strozzi: invece di andare una volta al mese
+
+1765
+01:01:15,060 --> 01:01:15,380
+Filippo Strozzi: andiamo
+
+1766
+01:01:15,540 --> 01:01:17,700
+Filippo Strozzi: una puntata a settimana, certo.
+
+1767
+01:01:17,340 --> 01:01:19,580
+Filippo Strozzi: Per fare una puntata a settimana vuol dire che io
+
+1768
+01:01:19,900 --> 01:01:23,420
+Filippo Strozzi: dovremmo dedicare un giorno a settimana a preparare tutti i contenuti
+
+1769
+01:01:23,580 --> 01:01:23,900
+Filippo Strozzi: perché
+
+1770
+01:01:24,220 --> 01:01:27,740
+Filippo Strozzi: diventerebbe una sfacchinata infernale e non diventerebbe
+
+1771
+01:01:27,900 --> 01:01:28,220
+Filippo Strozzi: più
+
+1772
+01:01:28,380 --> 01:01:29,660
+Filippo Strozzi: il momento.
+
+1773
+01:01:30,119 --> 01:01:31,079
+Filippo Strozzi: piacevole
+
+1774
+01:01:31,319 --> 01:01:32,440
+Filippo Strozzi: che passiamo
+
+1775
+01:01:32,680 --> 01:01:34,119
+Filippo Strozzi: a raccontare cose
+
+1776
+01:01:34,520 --> 01:01:35,880
+Filippo Strozzi: nel tempo appunto
+
+1777
+01:01:37,240 --> 01:01:39,160
+Filippo Strozzi: abbiamo ragionato sulle cose
+
+1778
+01:01:39,580 --> 01:01:41,580
+Filippo Strozzi: E così via è il momento in cui io e Roberto
+
+1779
+01:01:42,300 --> 01:01:43,660
+Filippo Strozzi: chiacchieriamo, ci scambiamo
+
+1780
+01:01:43,820 --> 01:01:45,020
+Filippo Strozzi: opinione e quant'altro.
+
+1781
+01:01:45,420 --> 01:01:48,860
+Filippo Strozzi: Se si perde la gioia di questa cosa qua, è ovvio poi che.
+
+1782
+01:01:48,860 --> 01:01:49,180
+Filippo Strozzi: .
+
+1783
+01:01:49,000 --> 01:01:50,120
+Filippo Strozzi: e quindi alla fine
+
+1784
+01:01:50,280 --> 01:01:52,280
+Filippo Strozzi: appunto nessuno ci vita di farne di più
+
+1785
+01:01:52,440 --> 01:01:54,040
+Filippo Strozzi: questa è nel 2024
+
+1786
+01:01:54,280 --> 01:01:56,120
+Filippo Strozzi: ma 12 puntate
+
+1787
+01:01:56,440 --> 01:01:57,880
+Filippo Strozzi: fatte con calma
+
+1788
+01:01:59,160 --> 01:02:01,480
+Filippo Strozzi: organizzate per non diventare a
+
+1789
+01:02:01,580 --> 01:02:02,780
+Filippo Strozzi: affannose per noi
+
+1790
+01:02:03,020 --> 01:02:03,980
+Filippo Strozzi: vuol dire anche
+
+1791
+01:02:04,140 --> 01:02:05,180
+Filippo Strozzi: poterle fare meglio
+
+1792
+01:02:05,340 --> 01:02:06,060
+Filippo Strozzi: probabilmente
+
+1793
+01:02:06,300 --> 01:02:06,860
+Filippo Strozzi: si spera
+
+1794
+01:02:07,100 --> 01:02:07,660
+Filippo Strozzi: quantomeno
+
+1795
+01:02:08,060 --> 01:02:08,380
+Filippo Strozzi: e
+
+1796
+01:02:09,900 --> 01:02:10,540
+Filippo Strozzi: dedicare
+
+1797
+01:02:10,700 --> 01:02:11,420
+Filippo Strozzi: cioè il
+
+1798
+01:02:11,740 --> 01:02:12,060
+Filippo Strozzi: no
+
+1799
+01:02:12,240 --> 01:02:16,160
+Filippo Strozzi: a fare delle puntate in più, a fare 12 puntate in più rispetto a quelle che faremo
+
+1800
+01:02:16,320 --> 01:02:17,600
+Filippo Strozzi: e anche un sì
+
+1801
+01:02:17,840 --> 01:02:19,440
+Filippo Strozzi: a fare dell'altro o
+
+1802
+01:02:19,600 --> 01:02:21,680
+Filippo Strozzi: a prendersi quel tempo, quel.
+
+1803
+01:02:21,680 --> 01:02:22,000
+Filippo Strozzi: .
+
+1804
+01:02:21,680 --> 01:02:22,000
+Filippo Strozzi: quei
+
+1805
+01:02:22,160 --> 01:02:23,520
+Filippo Strozzi: momenti per approfondire
+
+1806
+01:02:23,840 --> 01:02:25,680
+Filippo Strozzi: per fare le cose con più calma per
+
+1807
+01:02:26,000 --> 01:02:28,640
+Filippo Strozzi: fare le cose anche semplicemente in maniera più ragionata
+
+1808
+01:02:28,800 --> 01:02:30,720
+Filippo Strozzi: per lasciare decantare le idee
+
+1809
+01:02:30,880 --> 01:02:31,120
+Filippo Strozzi: non
+
+1810
+01:02:31,360 --> 01:02:32,320
+Filippo Strozzi: muoversi tutto
+
+1811
+01:02:32,480 --> 01:02:34,960
+Filippo Strozzi: di corsa e a volte è necessario adesso
+
+1812
+01:02:35,520 --> 01:02:36,480
+Filippo Strozzi: vado con una chiusura
+
+1813
+01:02:37,160 --> 01:02:37,560
+Filippo Strozzi: Molto
+
+1814
+01:02:37,720 --> 01:02:39,000
+Filippo Strozzi: esistenzialista
+
+1815
+01:02:39,480 --> 01:02:45,240
+Roberto Marin: io direi che non posso aggiungere nient'altro che se non condividere quello che hai detto, di farne, ovviamente,
+
+1816
+01:02:45,400 --> 01:02:45,880
+Roberto Marin: tesoro
+
+1817
+01:02:46,040 --> 01:02:48,040
+Roberto Marin: per questo 2024.
+
+1818
+01:02:47,400 --> 01:02:47,559
+Roberto Marin: su
+
+1819
+01:02:47,720 --> 01:02:49,319
+Roberto Marin: questo ragionamento che ha fatto Filippo
+
+1820
+01:02:49,480 --> 01:02:51,160
+Roberto Marin: che è assolutamente condivisibile
+
+1821
+01:02:51,319 --> 01:02:56,599
+Roberto Marin: ma soprattutto prendetelo come spunto per il vostro di tempo come abbiamo fatto
+
+1822
+01:02:56,760 --> 01:02:57,240
+Roberto Marin: Io, Filippo
+
+1823
+01:02:57,400 --> 01:03:00,920
+Roberto Marin: insomma, vi aiuterà e sicuramente ne troverete dei benefici.
+
+1824
+01:03:00,920 --> 01:03:05,400
+Roberto Marin: Se trovate il tempo, chiaramente sapete cosa fare, una bella recensione volendo.
+
+1825
+01:03:05,400 --> 01:03:06,360
+Roberto Marin: Si, delle stelline
+
+1826
+01:03:06,520 --> 01:03:06,840
+Roberto Marin: tante.
+
+1827
+01:03:06,840 --> 01:03:07,960
+Roberto Marin: Si, grazie anche questi.
+
+1828
+01:03:08,040 --> 01:03:10,440
+Roberto Marin: Se volete, potete anche scrivere, abbiamo un indirizzo di posta
+
+1829
+01:03:10,600 --> 01:03:11,480
+Roberto Marin: elettronica.
+
+1830
+01:03:11,300 --> 01:03:11,780
+Roberto Marin: scrivi.
+
+1831
+01:03:11,860 --> 01:03:13,540
+Roberto Marin: a chiocciola2podcast.
+
+1832
+01:03:13,540 --> 01:03:13,700
+Roberto Marin: it
+
+1833
+01:03:14,020 --> 01:03:19,300
+Roberto Marin: e se invece volete approfondire i temi di cui abbiamo trattato in qualche modo troverete il link
+
+1834
+01:03:19,380 --> 01:03:21,220
+Roberto Marin: all'interno della nota delle puntate
+
+1835
+01:03:21,380 --> 01:03:24,180
+Roberto Marin: oppure direttamente sulla pagina aduepodcast.
+
+1836
+01:03:24,180 --> 01:03:24,340
+Roberto Marin: it
+
+1837
+01:03:24,900 --> 01:03:26,100
+Roberto Marin: slash76
+
+1838
+01:03:26,260 --> 01:03:27,700
+Roberto Marin: 76 che è il mio anno di nascita
+
+1839
+01:03:29,140 --> 01:03:29,380
+Roberto Marin: che
+
+1840
+01:03:29,400 --> 01:03:31,319
+Roberto Marin: Si inizia il 2024 con il
+
+1841
+01:03:31,559 --> 01:03:33,000
+Roberto Marin: 66 e anche il tuo ovviamente
+
+1842
+01:03:33,160 --> 01:03:34,440
+Roberto Marin: era sottointeso.
+
+1843
+01:03:34,599 --> 01:03:35,400
+Roberto Marin: L'ultima cosa
+
+1844
+01:03:35,559 --> 01:03:36,920
+Roberto Marin: dove ci potete trovare?
+
+1845
+01:03:36,920 --> 01:03:39,319
+Roberto Marin: Per quanto mi riguarda sapete dove trovarmi.
+
+1846
+01:03:39,280 --> 01:03:42,320
+Roberto Marin: Prezzemolino Roberto ha un sacco di posti,
+
+1847
+01:03:42,480 --> 01:03:42,720
+Roberto Marin: mai
+
+1848
+01:03:42,960 --> 01:03:45,440
+Roberto Marin: diciamo che la partenza obbligata
+
+1849
+01:03:45,760 --> 01:03:46,400
+Roberto Marin: è dal
+
+1850
+01:03:46,560 --> 01:03:49,839
+Roberto Marin: mio blog dove praticamente sto cercando di metterci dentro di tutto.
+
+1851
+01:03:50,260 --> 01:03:51,220
+Roberto Marin: anche la parte video
+
+1852
+01:03:51,380 --> 01:03:53,460
+Roberto Marin: che in questo momento non ho curato molto
+
+1853
+01:03:53,620 --> 01:03:55,140
+Roberto Marin: ma ci sto mettendo una pezza
+
+1854
+01:03:55,300 --> 01:03:56,900
+Roberto Marin: qua e là con delle idee
+
+1855
+01:03:57,060 --> 01:03:58,740
+Roberto Marin: stanno venendo abbastanza bene
+
+1856
+01:03:58,600 --> 01:04:02,200
+Roberto Marin: Devo cercare un po' di confezionare la questione, il blog è
+
+1857
+01:04:02,680 --> 01:04:07,320
+Roberto Marin: la parte iniziale da cui sono iniziato, le mie sperimentazioni, ma
+
+1858
+01:04:07,640 --> 01:04:08,440
+Roberto Marin: è quello che è.
+
+1859
+01:04:08,460 --> 01:04:13,180
+Roberto Marin: in realtà ha bisogno di più cura e deve dedicarci un po' più di tempo tra le altre cose.
+
+1860
+01:04:13,180 --> 01:04:15,580
+Roberto Marin: Comunque questo blog lo trovate all'indirizzo
+
+1861
+01:04:15,740 --> 01:04:16,300
+Roberto Marin: mark.
+
+1862
+01:04:16,460 --> 01:04:16,780
+Roberto Marin: net.
+
+1863
+01:04:17,020 --> 01:04:17,740
+Roberto Marin: wordpress.
+
+1864
+01:04:17,900 --> 01:04:18,060
+Roberto Marin: com
+
+1865
+01:04:18,220 --> 01:04:19,100
+Roberto Marin: il suo titolo è
+
+1866
+01:04:19,260 --> 01:04:19,420
+Roberto Marin: Mac
+
+1867
+01:04:19,580 --> 01:04:19,660
+Roberto Marin: e
+
+1868
+01:04:19,820 --> 01:04:22,940
+Roberto Marin: architettura, e da lì potete trovare bene o male quello che faccio.
+
+1869
+01:04:22,940 --> 01:04:23,260
+Roberto Marin: Filippo
+
+1870
+01:04:23,420 --> 01:04:25,500
+Roberto Marin: invece noi ti troviamo a katemac.
+
+1871
+01:04:25,740 --> 01:04:25,980
+Filippo Strozzi: it
+
+1872
+01:04:26,220 --> 01:04:26,540
+Filippo Strozzi: e
+
+1873
+01:04:27,180 --> 01:04:27,740
+Filippo Strozzi: visto che
+
+1874
+01:04:27,900 --> 01:04:30,300
+Filippo Strozzi: uscite a seltuare e quant'altro, però
+
+1875
+01:04:30,540 --> 01:04:30,860
+Filippo Strozzi: sono
+
+1876
+01:04:31,820 --> 01:04:33,980
+Filippo Strozzi: almeno la puntata natalizia.
+
+1877
+01:04:34,340 --> 01:04:36,740
+Filippo Strozzi: di dicembre uscirà anche per compendium
+
+1878
+01:04:36,980 --> 01:04:37,300
+Filippo Strozzi: quindi
+
+1879
+01:04:37,620 --> 01:04:39,540
+Filippo Strozzi: per ora ho già registrato due
+
+1880
+01:04:39,940 --> 01:04:40,660
+Filippo Strozzi: due episodi
+
+1881
+01:04:41,060 --> 01:04:41,620
+Filippo Strozzi: in seguito
+
+1882
+01:04:41,780 --> 01:04:44,340
+Filippo Strozzi: se tutto va bene nel periodo natalizio appunto
+
+1883
+01:04:44,500 --> 01:04:45,460
+Filippo Strozzi: in previsione di
+
+1884
+01:04:45,620 --> 01:04:46,020
+Filippo Strozzi: mettere
+
+1885
+01:04:46,340 --> 01:04:47,540
+Filippo Strozzi: di mettere da parte
+
+1886
+01:04:47,700 --> 01:04:48,020
+Filippo Strozzi: alcuni
+
+1887
+01:04:47,900 --> 01:04:50,059
+Filippo Strozzi: Alcune cose proprio per poi permettermi di farne
+
+1888
+01:04:50,220 --> 01:04:56,779
+Filippo Strozzi: altre, spero di registrare invece le puntate di inizio 2024, e qualcosa mi dice,
+
+1889
+01:04:55,760 --> 01:05:00,800
+Roberto Marin: Che a questo elenco si aggiungerà un po' di cose che farà Filippo nel 2024.
+
+1890
+01:05:00,800 --> 01:05:01,680
+Roberto Marin: Dove trovarle?
+
+1891
+01:05:01,680 --> 01:05:02,640
+Filippo Strozzi: Vedremo, vedremo.
+
+1892
+01:05:02,640 --> 01:05:03,600
+Filippo Strozzi: Non è detto
+
+1893
+01:05:03,820 --> 01:05:04,220
+Filippo Strozzi: Qualcosa
+
+1894
+01:05:04,380 --> 01:05:05,740
+Roberto Marin: mi dice che andrà a finire così?
+
+1895
+01:05:05,740 --> 01:05:05,900
+Roberto Marin: È
+
+1896
+01:05:06,860 --> 01:05:09,740
+Roberto Marin: un grosso punto di domanda, quello.
+
+1897
+01:05:09,740 --> 01:05:14,540
+Roberto Marin: Come in tutti i punti interrogativi che abbiamo messo all'interno di questa puntata.
+
+1898
+01:05:13,900 --> 01:05:14,299
+Roberto Marin: Abbiamo
+
+1899
+01:05:14,460 --> 01:05:18,700
+Roberto Marin: messo un sacco di buoni propositi, ma alla fine se guardate bene in fondo
+
+1900
+01:05:18,859 --> 01:05:20,859
+Roberto Marin: sono tutti con un bel punto interrogativo perché
+
+1901
+01:05:21,020 --> 01:05:25,020
+Roberto Marin: ovviamente certezza non abbiamo, ma di una cosa siamo certi, del nostro impegno.
+
+1902
+01:05:25,260 --> 01:05:28,859
+Roberto Marin: Io direi che per questa puntata è tutto, ci sentiamo alla prossima puntata.
+
+1903
+01:05:29,059 --> 01:05:29,539
+Roberto Marin: Alla prossima
+

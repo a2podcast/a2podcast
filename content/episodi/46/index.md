@@ -11,7 +11,7 @@ tags = ["task manager", "gestione progetti", "produttività", "software", "organ
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "2d7ZCMniyfw"
 +++
 

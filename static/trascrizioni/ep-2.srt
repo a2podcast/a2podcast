@@ -1,0 +1,6980 @@
+1
+00:00:00,240 --> 00:00:09,600
+Filippo Strozzi: Benvenuto all'episodio 2 di A2, bellissimo, in cui scoprire come ottenere il massimo dalla tua tecnologia Apple.
+
+2
+00:00:09,600 --> 00:00:10,240
+Filippo Strozzi: Io sono Filippo
+
+3
+00:00:10,400 --> 00:00:14,400
+Filippo Strozzi: Strozzi e sono il vostro ospite assieme all'amico Roberto Marin.
+
+4
+00:00:13,940 --> 00:00:16,660
+Filippo Strozzi: Di cosa parliamo in questo episodio, Roberto?
+
+5
+00:00:16,660 --> 00:00:19,779
+Roberto Marin: E dammi un attimo che vado a cercare qualcuno fuori per chiedergli
+
+6
+00:00:19,939 --> 00:00:22,099
+Roberto Marin: di cosa parliamo, perché sono un po' impreparato.
+
+7
+00:00:22,099 --> 00:00:25,460
+Roberto Marin: Ma vista la scorsa puntata di cui abbiamo parlato
+
+8
+00:00:25,640 --> 00:00:26,359
+Roberto Marin: si e no
+
+9
+00:00:25,779 --> 00:00:26,099
+Roberto Marin: ,
+
+10
+00:00:26,520 --> 00:00:28,119
+Roberto Marin: di cosa sono le novità del Mac
+
+11
+00:00:28,360 --> 00:00:29,080
+Roberto Marin: e che è hardware
+
+12
+00:00:29,240 --> 00:00:29,640
+Roberto Marin: comprare
+
+13
+00:00:29,800 --> 00:00:32,599
+Roberto Marin: a questo punto si tratta semplicemente dei
+
+14
+00:00:32,840 --> 00:00:33,720
+Roberto Marin: di parlare
+
+15
+00:00:33,900 --> 00:00:38,620
+Roberto Marin: Di come fare con i dati e le impostazioni, e dare, magari se riusciamo stasera, se no
+
+16
+00:00:38,780 --> 00:00:40,540
+Roberto Marin: lo facciamo anche il prossimo venerdì, così
+
+17
+00:00:40,860 --> 00:00:42,780
+Roberto Marin: mi sento un po' più preparato: uno
+
+18
+00:00:42,940 --> 00:00:44,460
+Roberto Marin: sguardo su come funziona Mac
+
+19
+00:00:44,620 --> 00:00:47,740
+Roberto Marin: OS e il sistema operativo di Apple.
+
+20
+00:00:46,900 --> 00:00:46,980
+Roberto Marin: Eh
+
+21
+00:00:47,140 --> 00:00:49,940
+Roberto Marin: se non hai fatto i compiti a casa non è colpa mia.
+
+22
+00:00:51,060 --> 00:00:55,940
+Roberto Marin: Senti, te lo devo ricordare che sono un architetto, io lo sai che tutto ciò che.
+
+23
+00:00:55,700 --> 00:00:58,740
+Roberto Marin: Riguardo, regole sono fatte per essere rotte.
+
+24
+00:00:58,740 --> 00:00:59,620
+Roberto Marin: Quindi io
+
+25
+00:00:59,780 --> 00:01:01,300
+Roberto Marin: mi dai una scaletta.
+
+26
+00:01:01,300 --> 00:01:01,460
+Roberto Marin: La
+
+27
+00:01:01,620 --> 00:01:04,340
+Roberto Marin: prima cosa che penso è salire sul tetto con la scala.
+
+28
+00:01:04,340 --> 00:01:08,100
+Roberto Marin: Non la guardo la scaletta, vengo così tutto al brucio.
+
+29
+00:01:08,340 --> 00:01:10,180
+Filippo Strozzi: Evviva la diretta!
+
+30
+00:01:10,320 --> 00:01:11,760
+Filippo Strozzi: Benissimo, benissimo.
+
+31
+00:01:11,760 --> 00:01:12,400
+Filippo Strozzi: Allora,
+
+32
+00:01:12,720 --> 00:01:13,680
+Filippo Strozzi: conduco io
+
+33
+00:01:14,000 --> 00:01:14,800
+Filippo Strozzi: a questo punto
+
+34
+00:01:15,200 --> 00:01:18,479
+Filippo Strozzi: e il primo argomento che dobbiamo affrontare.
+
+35
+00:01:18,460 --> 00:01:19,260
+Filippo Strozzi: nell'ottica
+
+36
+00:01:19,420 --> 00:01:19,820
+Filippo Strozzi: appunto
+
+37
+00:01:20,140 --> 00:01:21,500
+Filippo Strozzi: di nuovi utenti
+
+38
+00:01:21,660 --> 00:01:21,900
+Filippo Strozzi: Mac
+
+39
+00:01:22,220 --> 00:01:25,980
+Filippo Strozzi: è quello di passare da Macare
+
+40
+00:01:26,620 --> 00:01:28,060
+Filippo Strozzi: da Windows a Mac
+
+41
+00:01:28,940 --> 00:01:31,580
+Filippo Strozzi: Questo comporta tutta una serie di
+
+42
+00:01:32,140 --> 00:01:34,700
+Filippo Strozzi: attività preliminari, chiamiamole così,
+
+43
+00:01:35,020 --> 00:01:35,340
+Filippo Strozzi: perché
+
+44
+00:01:35,580 --> 00:01:38,540
+Filippo Strozzi: ovviamente non è un passaggio totalmente indolore
+
+45
+00:01:38,700 --> 00:01:39,340
+Filippo Strozzi: anche.
+
+46
+00:01:39,740 --> 00:01:42,460
+Filippo Strozzi: Se lo ammetto, ormai sono passati
+
+47
+00:01:43,420 --> 00:01:47,420
+Filippo Strozzi: 14 anni da quando sono utente Apple, e quindi
+
+48
+00:01:48,060 --> 00:01:51,340
+Filippo Strozzi: quella che era stata la mia esperienza passata, probabilmente
+
+49
+00:01:51,580 --> 00:01:53,100
+Filippo Strozzi: per molti versi.
+
+50
+00:01:52,700 --> 00:01:59,340
+Filippo Strozzi: Oggi non è più così, le compatibilità sono decisamente aumentate, ma i miei ricordi di 14
+
+51
+00:01:59,500 --> 00:02:00,539
+Filippo Strozzi: anni fa sono.
+
+52
+00:02:00,539 --> 00:02:00,700
+Filippo Strozzi: .
+
+53
+00:02:00,939 --> 00:02:03,820
+Filippo Strozzi: Di fatiche, difficoltà, soprattutto
+
+54
+00:02:04,140 --> 00:02:14,860
+Filippo Strozzi: su vari fronti, l'attività preliminare, verificare sicuramente la compatibilità delle periferiche, soprattutto se dovete lavorare anche se.
+
+55
+00:02:14,060 --> 00:02:23,019
+Filippo Strozzi: Da uomo digitale quale sono io ormai non serve più a niente, comunque scanna, stampanti, dischi esterni e anche macchine fotografiche.
+
+56
+00:02:22,600 --> 00:02:24,920
+Filippo Strozzi: Sono tutta una serie di periferiche
+
+57
+00:02:25,240 --> 00:02:25,560
+Filippo Strozzi: che
+
+58
+00:02:25,800 --> 00:02:27,000
+Filippo Strozzi: ormai, secondo me
+
+59
+00:02:27,160 --> 00:02:28,360
+Filippo Strozzi: nell'80-90%
+
+60
+00:02:28,520 --> 00:02:30,920
+Filippo Strozzi: dei casi, sono compatibili con Mac
+
+61
+00:02:31,240 --> 00:02:32,840
+Filippo Strozzi: senza troppi problemi.
+
+62
+00:02:32,740 --> 00:02:33,700
+Filippo Strozzi: però è
+
+63
+00:02:33,940 --> 00:02:34,820
+Filippo Strozzi: opportuno
+
+64
+00:02:35,380 --> 00:02:36,260
+Filippo Strozzi: ovviamente
+
+65
+00:02:36,580 --> 00:02:38,180
+Filippo Strozzi: fare dei controlli prima
+
+66
+00:02:38,420 --> 00:02:39,380
+Filippo Strozzi: di pensare di
+
+67
+00:02:39,700 --> 00:02:41,380
+Filippo Strozzi: anche solo acquistare un Mac
+
+68
+00:02:41,740 --> 00:02:45,580
+Filippo Strozzi: Perché è ovvio, soprattutto in un ambito professionale, ma non solo
+
+69
+00:02:45,740 --> 00:02:46,060
+Filippo Strozzi: ,
+
+70
+00:02:46,380 --> 00:02:48,940
+Filippo Strozzi: avere una stampante che non funziona sotto Mac
+
+71
+00:02:49,420 --> 00:02:50,700
+Filippo Strozzi: ormai è difficile
+
+72
+00:02:50,860 --> 00:02:51,420
+Filippo Strozzi: il sistema
+
+73
+00:02:51,580 --> 00:02:53,260
+Filippo Strozzi: cosiddetto CAPS.
+
+74
+00:02:53,459 --> 00:02:55,700
+Filippo Strozzi: È molto efficiente e quantomeno
+
+75
+00:02:55,939 --> 00:02:58,019
+Filippo Strozzi: se non riesci ad avere tutte le funzioni
+
+76
+00:02:58,260 --> 00:02:58,900
+Filippo Strozzi: complete
+
+77
+00:02:59,060 --> 00:03:01,220
+Filippo Strozzi: della stampante che avete,
+
+78
+00:03:00,880 --> 00:03:03,840
+Filippo Strozzi: sicuramente almeno una stampa di base ve la riesce a fare
+
+79
+00:03:04,160 --> 00:03:04,800
+Filippo Strozzi: però
+
+80
+00:03:05,360 --> 00:03:06,720
+Filippo Strozzi: sarebbe opportuno
+
+81
+00:03:06,880 --> 00:03:07,360
+Filippo Strozzi: avere i
+
+82
+00:03:08,080 --> 00:03:10,240
+Filippo Strozzi: driver giusti e così via questo ovviamente
+
+83
+00:03:10,640 --> 00:03:13,280
+Filippo Strozzi: può fare in maniera relativamente semplice
+
+84
+00:03:13,599 --> 00:03:15,840
+Filippo Strozzi: si va sul sito dello sviluppo
+
+85
+00:03:16,159 --> 00:03:19,040
+Filippo Strozzi: del del produttore di hardware dove abitualmente
+
+86
+00:03:19,280 --> 00:03:20,319
+Filippo Strozzi: dico abitualmente
+
+87
+00:03:20,760 --> 00:03:22,600
+Filippo Strozzi: Ci dovrebbero essere i driver
+
+88
+00:03:22,840 --> 00:03:24,040
+Filippo Strozzi: per le stampanti, gli
+
+89
+00:03:24,200 --> 00:03:26,040
+Filippo Strozzi: scanner e così via.
+
+90
+00:03:26,360 --> 00:03:28,520
+Filippo Strozzi: Oppure, se non si ha tutto questo
+
+91
+00:03:28,760 --> 00:03:30,040
+Filippo Strozzi: armamentario
+
+92
+00:03:30,520 --> 00:03:31,560
+Filippo Strozzi: già in casa
+
+93
+00:03:31,720 --> 00:03:33,080
+Filippo Strozzi: e si vuole.
+
+94
+00:03:33,160 --> 00:03:34,520
+Filippo Strozzi: espandere tutto il sistema
+
+95
+00:03:34,680 --> 00:03:37,480
+Filippo Strozzi: il mio suggerimento è ovviamente di andare a comprare
+
+96
+00:03:38,280 --> 00:03:42,200
+Filippo Strozzi: delle periferiche che siano certificate compatibili MECOS
+
+97
+00:03:42,360 --> 00:03:43,560
+Filippo Strozzi: però devo dire la verità
+
+98
+00:03:43,960 --> 00:03:44,360
+Filippo Strozzi: appunto
+
+99
+00:03:44,520 --> 00:03:48,440
+Filippo Strozzi: ormai guardando su su amazon quando faccio acquisto e così via
+
+100
+00:03:48,680 --> 00:03:50,440
+Filippo Strozzi: è raro che l'hard disk
+
+101
+00:03:50,600 --> 00:03:51,320
+Filippo Strozzi: non sia compatibile
+
+102
+00:03:51,480 --> 00:03:51,800
+Filippo Strozzi: con me
+
+103
+00:03:51,960 --> 00:03:52,120
+Filippo Strozzi: cos
+
+104
+00:03:52,600 --> 00:03:53,480
+Filippo Strozzi: e così via
+
+105
+00:03:53,800 --> 00:03:54,520
+Filippo Strozzi: i problemi
+
+106
+00:03:54,680 --> 00:03:55,000
+Filippo Strozzi: secondo
+
+107
+00:03:55,160 --> 00:03:55,480
+Filippo Strozzi: me
+
+108
+00:03:55,660 --> 00:03:59,180
+Filippo Strozzi: Ormai sono abbastanza risolti nel tempo, però
+
+109
+00:03:59,500 --> 00:04:01,260
+Filippo Strozzi: la seconda fase
+
+110
+00:04:01,420 --> 00:04:01,500
+Filippo Strozzi: :
+
+111
+00:04:01,740 --> 00:04:02,700
+Filippo Strozzi: vabbè,
+
+112
+00:04:03,020 --> 00:04:07,500
+Filippo Strozzi: Roberto voleva anche che io parlassi sulle chiavette di firme digitale.
+
+113
+00:04:07,500 --> 00:04:09,180
+Filippo Strozzi: Questa è una parentesi.
+
+114
+00:04:08,980 --> 00:04:10,500
+Filippo Strozzi: Più da professionisti
+
+115
+00:04:10,739 --> 00:04:10,980
+Filippo Strozzi: che
+
+116
+00:04:12,739 --> 00:04:13,060
+Filippo Strozzi: persone
+
+117
+00:04:13,379 --> 00:04:13,700
+Filippo Strozzi: ,
+
+118
+00:04:14,340 --> 00:04:14,659
+Filippo Strozzi: anche
+
+119
+00:04:14,900 --> 00:04:15,220
+Filippo Strozzi: qui
+
+120
+00:04:15,540 --> 00:04:18,340
+Filippo Strozzi: argomento complessissimo che oggi ovviamente non
+
+121
+00:04:19,380 --> 00:04:22,100
+Filippo Strozzi: possiamo evadere completamente.
+
+122
+00:04:21,900 --> 00:04:23,100
+Filippo Strozzi: Diciamo che il mio consiglio
+
+123
+00:04:24,300 --> 00:04:25,259
+Filippo Strozzi: nelle prossime puntate
+
+124
+00:04:25,500 --> 00:04:26,139
+Filippo Strozzi: senza problemi
+
+125
+00:04:26,300 --> 00:04:28,540
+Filippo Strozzi: anche perché io ho programmo di fare
+
+126
+00:04:29,340 --> 00:04:30,220
+Filippo Strozzi: dei video su YouTube
+
+127
+00:04:30,460 --> 00:04:32,060
+Filippo Strozzi: sull'argomento, quindi.
+
+128
+00:04:32,039 --> 00:04:32,680
+Filippo Strozzi: Sicuramente
+
+129
+00:04:33,159 --> 00:04:36,919
+Filippo Strozzi: farò gli approfondimenti del caso e quindi ne potremo parlare anche
+
+130
+00:04:37,080 --> 00:04:38,360
+Filippo Strozzi: qui in diretta.
+
+131
+00:04:38,360 --> 00:04:41,159
+Filippo Strozzi: Diciamo che il consiglio attuale mio è non comprare
+
+132
+00:04:41,319 --> 00:04:41,879
+Filippo Strozzi: Ruba,
+
+133
+00:04:42,039 --> 00:04:45,800
+Filippo Strozzi: che attualmente è quella più problematica su Mac.
+
+134
+00:04:46,020 --> 00:04:48,580
+Filippo Strozzi: se avete a ruba ci sono dei trucchetti
+
+135
+00:04:48,980 --> 00:04:49,300
+Filippo Strozzi: tipo
+
+136
+00:04:49,700 --> 00:04:53,380
+Filippo Strozzi: se nelle note dell'episodio troverete il link per l'acquisto di
+
+137
+00:04:54,460 --> 00:04:56,140
+Filippo Strozzi: Un dispositivo USB
+
+138
+00:04:56,940 --> 00:04:57,900
+Filippo Strozzi: che permette di
+
+139
+00:04:58,380 --> 00:05:05,260
+Filippo Strozzi: multifunzione, chiamiamolo così, che ho acquistato esattamente oggi, quindi ve ne posso parlare brevemente, e che permette.
+
+140
+00:05:05,260 --> 00:05:05,340
+Filippo Strozzi: .
+
+141
+00:05:05,500 --> 00:05:07,340
+Filippo Strozzi: potete sfilare sostanzialmente.
+
+142
+00:05:07,340 --> 00:05:07,420
+Filippo Strozzi: .
+
+143
+00:05:08,020 --> 00:05:08,580
+Filippo Strozzi: La sim
+
+144
+00:05:09,780 --> 00:05:10,100
+Filippo Strozzi: della
+
+145
+00:05:10,660 --> 00:05:11,460
+Filippo Strozzi: vostra
+
+146
+00:05:12,020 --> 00:05:13,380
+Filippo Strozzi: chiavetta, ovvero
+
+147
+00:05:13,540 --> 00:05:14,180
+Filippo Strozzi: inserire una
+
+148
+00:05:14,340 --> 00:05:15,699
+Filippo Strozzi: smart card, è
+
+149
+00:05:15,860 --> 00:05:18,180
+Filippo Strozzi: un lettore altamente compatibile con Mac.
+
+150
+00:05:18,620 --> 00:05:22,060
+Filippo Strozzi: è una ottima soluzione se avete dei problemi con
+
+151
+00:05:22,300 --> 00:05:23,020
+Filippo Strozzi: le chiavette
+
+152
+00:05:23,259 --> 00:05:26,620
+Filippo Strozzi: InfoChart e Namirial sono secondo me quelle che
+
+153
+00:05:27,120 --> 00:05:28,240
+Filippo Strozzi: attualmente,
+
+154
+00:05:28,560 --> 00:05:28,879
+Filippo Strozzi: nel
+
+155
+00:05:29,120 --> 00:05:29,360
+Filippo Strozzi: momento
+
+156
+00:05:29,759 --> 00:05:35,680
+Filippo Strozzi: in cui registriamo la puntata, le più compatibili perché non lo garantisco per il futuro, anzi.
+
+157
+00:05:35,700 --> 00:05:39,380
+Filippo Strozzi: Potrebbe essere esatto contrario, però sono le più compatibili
+
+158
+00:05:39,540 --> 00:05:39,860
+Filippo Strozzi: con
+
+159
+00:05:40,180 --> 00:05:42,180
+Filippo Strozzi: Mac, soprattutto con i nuovi Mac
+
+160
+00:05:42,420 --> 00:05:43,460
+Filippo Strozzi: M1.
+
+161
+00:05:43,460 --> 00:05:44,740
+Filippo Strozzi: Attualmente Aruba
+
+162
+00:05:44,980 --> 00:05:45,700
+Filippo Strozzi: ha un problema
+
+163
+00:05:46,500 --> 00:05:48,500
+Filippo Strozzi: con Sia Big Sur.
+
+164
+00:05:48,500 --> 00:05:49,460
+Filippo Strozzi: Non so anche
+
+165
+00:05:49,620 --> 00:05:50,260
+Filippo Strozzi: se con
+
+166
+00:05:50,940 --> 00:05:54,139
+Filippo Strozzi: Coni nuovi processori, comunque è una cosa da tenere presente.
+
+167
+00:05:54,139 --> 00:05:55,180
+Roberto Marin: Sì, sicuramente.
+
+168
+00:05:55,180 --> 00:05:57,020
+Roberto Marin: Aggiungo solo un paio di cose così
+
+169
+00:05:57,180 --> 00:05:58,860
+Roberto Marin: per dare un po' di respiro anche a Filippo
+
+170
+00:05:59,020 --> 00:06:02,139
+Roberto Marin: che gli si stava seccando la bocca, lo vedevo io in diretta da qua.
+
+171
+00:06:02,180 --> 00:06:04,580
+Roberto Marin: Stai cominciando a boccheggiare.
+
+172
+00:06:05,700 --> 00:06:07,860
+Roberto Marin: Le mie esperienze: dunque,
+
+173
+00:06:08,180 --> 00:06:08,660
+Roberto Marin: avevo
+
+174
+00:06:08,900 --> 00:06:09,220
+Roberto Marin: un po'
+
+175
+00:06:09,380 --> 00:06:11,780
+Roberto Marin: il terrore quando sono passato a Mac
+
+176
+00:06:12,100 --> 00:06:15,380
+Roberto Marin: per sapere un po' come si comportavano le periferiche esterne
+
+177
+00:06:15,540 --> 00:06:16,900
+Roberto Marin: che utilizzavo.
+
+178
+00:06:16,500 --> 00:06:18,260
+Roberto Marin: Nel mio normale lavoro.
+
+179
+00:06:18,260 --> 00:06:20,900
+Roberto Marin: E sotto questo punto di vista devo dire che
+
+180
+00:06:21,540 --> 00:06:22,100
+Roberto Marin: il Mac
+
+181
+00:06:22,420 --> 00:06:25,220
+Roberto Marin: ha un punto di forza che Windows non ha.
+
+182
+00:06:25,320 --> 00:06:31,880
+Roberto Marin: almeno all'epoca adesso è un po' migliorato da quello che ho potuto vedere e che praticamente riconosce anche le padelle
+
+183
+00:06:32,120 --> 00:06:35,800
+Roberto Marin: in qualche modo riesce a riconoscerle e si si può
+
+184
+00:06:35,960 --> 00:06:41,800
+Roberto Marin: Utilizzare l'hardware che avete in casa, almeno in prima battuta, senza scaricare il driver.
+
+185
+00:06:41,800 --> 00:06:48,199
+Roberto Marin: Dico in prima battuta perché mi è capitato recentemente con una stampante HP.
+
+186
+00:06:47,760 --> 00:06:50,320
+Roberto Marin: Che stampa in formato A3, che insomma,
+
+187
+00:06:50,960 --> 00:06:51,280
+Roberto Marin: tutti
+
+188
+00:06:51,520 --> 00:06:54,880
+Roberto Marin: più o meno, gli architetti hanno in casa.
+
+189
+00:06:55,200 --> 00:06:55,840
+Roberto Marin: E quindi
+
+190
+00:06:56,080 --> 00:07:00,960
+Roberto Marin: ho provato a installarla, l'ha riconosciuta, però non stampava in modo corretto.
+
+191
+00:07:00,639 --> 00:07:10,000
+Roberto Marin: A quel punto ho dovuto semplicemente andare sul sito dell'HP, scaricare i driver corretti per il sistema operativo e voilà tutto funzionava senza problemi.
+
+192
+00:07:09,760 --> 00:07:15,200
+Roberto Marin: Stessa cosa per quanto riguarda le poche periferiche che ci sono in giro, gli ho chiesto appunto a Filippo
+
+193
+00:07:15,520 --> 00:07:17,680
+Roberto Marin: per le chiavette digitali che secondo me
+
+194
+00:07:18,000 --> 00:07:23,040
+Roberto Marin: essendo questo un podcast dedicato tendenzialmente ai professionisti.
+
+195
+00:07:22,400 --> 00:07:25,040
+Roberto Marin: Più o meno tutti i professionisti si sono dovuti
+
+196
+00:07:25,520 --> 00:07:26,240
+Roberto Marin: diciamo
+
+197
+00:07:26,479 --> 00:07:31,040
+Roberto Marin: scontrare, per dirla in modo carino, con questi dispositivi.
+
+198
+00:07:31,040 --> 00:07:32,960
+Roberto Marin: Lo scontro era decisamente
+
+199
+00:07:33,199 --> 00:07:34,160
+Roberto Marin: duro.
+
+200
+00:07:34,420 --> 00:07:34,660
+Roberto Marin: tipo
+
+201
+00:07:34,900 --> 00:07:35,620
+Roberto Marin: 4-5
+
+202
+00:07:35,780 --> 00:07:39,300
+Roberto Marin: anni fa dove si parlava di dispositivi smart card
+
+203
+00:07:39,540 --> 00:07:43,940
+Roberto Marin: che facevano veramente pietà e per riuscire a farli funzionare era più facile
+
+204
+00:07:44,640 --> 00:07:48,000
+Roberto Marin: Mettere un coltello nel lettore CD
+
+205
+00:07:48,240 --> 00:07:48,800
+Roberto Marin: del MEC
+
+206
+00:07:48,960 --> 00:07:52,400
+Roberto Marin: e cercare di sentirci nella musica essenzialmente.
+
+207
+00:07:52,400 --> 00:07:56,880
+Roberto Marin: Però, per fortuna le cose sono molto migliorate nel corso degli anni.
+
+208
+00:07:56,720 --> 00:07:59,440
+Roberto Marin: Mi ricordo che c'è stato qualche impuntamento
+
+209
+00:07:59,680 --> 00:08:02,160
+Roberto Marin: con Safari per quanto riguarda il
+
+210
+00:08:02,479 --> 00:08:03,199
+Roberto Marin: log.
+
+211
+00:08:04,260 --> 00:08:10,580
+Roberto Marin: I siti istituzionali, ma devo dire che in questo momento non ci si può lamentare, grazie anche
+
+212
+00:08:10,900 --> 00:08:11,220
+Roberto Marin: a
+
+213
+00:08:11,460 --> 00:08:18,580
+Roberto Marin: dispositivi virtuali come lo Speed, che ha permesso, grazie all'autentificazione, anche grazie.
+
+214
+00:08:18,460 --> 00:08:19,740
+Roberto Marin: all'autenticazione
+
+215
+00:08:20,139 --> 00:08:22,220
+Roberto Marin: che c'è sul cellulare ad esempio
+
+216
+00:08:22,460 --> 00:08:22,780
+Roberto Marin: di
+
+217
+00:08:23,020 --> 00:08:26,300
+Roberto Marin: autenticarsi senza grossi problemi e lasciare
+
+218
+00:08:26,620 --> 00:08:28,139
+Roberto Marin: esattamente con l'OTP
+
+219
+00:08:28,620 --> 00:08:29,979
+Roberto Marin: Perché adesso, giusto
+
+220
+00:08:30,139 --> 00:08:30,379
+Roberto Marin: perché
+
+221
+00:08:30,940 --> 00:08:31,580
+Roberto Marin: anche questo,
+
+222
+00:08:31,740 --> 00:08:35,099
+Roberto Marin: lo speed lo utilizziamo bene o male tutti i professionisti
+
+223
+00:08:35,419 --> 00:08:38,700
+Roberto Marin: e c'è una parte essenzialmente software dietro
+
+224
+00:08:38,860 --> 00:08:39,580
+Roberto Marin: e basta.
+
+225
+00:08:39,580 --> 00:08:41,339
+Roberto Marin: E l'hardware riguarda
+
+226
+00:08:41,360 --> 00:08:44,080
+Roberto Marin: La carta d'identità che bisogna inviare, in qualche modo
+
+227
+00:08:44,240 --> 00:08:45,200
+Roberto Marin: essenzialmente.
+
+228
+00:08:45,200 --> 00:08:46,480
+Roberto Marin: Tuttavia, detto questo,
+
+229
+00:08:46,960 --> 00:08:47,280
+Roberto Marin: è
+
+230
+00:08:47,520 --> 00:08:50,000
+Roberto Marin: una possibilità che permette di logarsi presso
+
+231
+00:08:50,320 --> 00:08:51,120
+Roberto Marin: i siti
+
+232
+00:08:51,680 --> 00:08:53,120
+Roberto Marin: istituzionali.
+
+233
+00:08:53,240 --> 00:08:54,520
+Roberto Marin: utilizzando la Speed
+
+234
+00:08:54,920 --> 00:08:56,440
+Roberto Marin: e conseguentemente
+
+235
+00:08:58,040 --> 00:08:59,000
+Roberto Marin: si hanno i propri
+
+236
+00:08:59,160 --> 00:09:04,760
+Roberto Marin: dati direttamente all'interno dello sito istituzionale senza inserirli tutte le volte.
+
+237
+00:09:04,940 --> 00:09:06,140
+Roberto Marin: la firma digitale
+
+238
+00:09:06,300 --> 00:09:08,459
+Roberto Marin: almeno dal mio punto di vista e nel mio lavoro
+
+239
+00:09:08,620 --> 00:09:10,860
+Roberto Marin: serve solo più per firmare i documenti in forma
+
+240
+00:09:11,019 --> 00:09:11,740
+Roberto Marin: digitale
+
+241
+00:09:11,899 --> 00:09:12,140
+Roberto Marin: e
+
+242
+00:09:12,660 --> 00:09:13,780
+Roberto Marin: Sinceramente, io ho
+
+243
+00:09:14,180 --> 00:09:16,820
+Roberto Marin: utilizzato sempre quella della camera di commercio
+
+244
+00:09:17,460 --> 00:09:20,420
+Roberto Marin: italiana e ha funzionato sempre molto bene.
+
+245
+00:09:20,420 --> 00:09:20,820
+Roberto Marin: Anche
+
+246
+00:09:21,300 --> 00:09:24,500
+Roberto Marin: la versione con la smart card, ho sempre trovato comunque
+
+247
+00:09:24,660 --> 00:09:26,580
+Roberto Marin: una.
+
+248
+00:09:27,680 --> 00:09:30,639
+Roberto Marin: Oggi le parole non mi vengono ma fa lo stesso.
+
+249
+00:09:31,120 --> 00:09:31,440
+Roberto Marin: Un
+
+250
+00:09:31,600 --> 00:09:33,199
+Roberto Marin: supporto da parte dei tecnici
+
+251
+00:09:33,360 --> 00:09:37,759
+Roberto Marin: della Camera di Commercio è sempre molto a livello, mi hanno sempre risolto i problemi.
+
+252
+00:09:37,000 --> 00:09:37,080
+Roberto Marin: e
+
+253
+00:09:37,320 --> 00:09:39,240
+Roberto Marin: qua chiudo la mia parentesi perché
+
+254
+00:09:39,480 --> 00:09:42,600
+Roberto Marin: francamente delle macchine fotografiche da quando l'iPhone
+
+255
+00:09:42,760 --> 00:09:44,360
+Roberto Marin: le ho abbandonate tutte
+
+256
+00:09:44,600 --> 00:09:44,840
+Roberto Marin: e
+
+257
+00:09:45,660 --> 00:09:47,900
+Roberto Marin: E poi c'è pochissimo hardware, ad esempio
+
+258
+00:09:48,060 --> 00:09:49,740
+Roberto Marin: sto utilizzando un microfono
+
+259
+00:09:49,900 --> 00:09:54,620
+Roberto Marin: che ha un dispositivo, un mixer esterno, io francamente devo sarebbe fare un plugin
+
+260
+00:09:54,860 --> 00:09:59,180
+Roberto Marin: e viene riconosciuto automaticamente senza grossi problemi.
+
+261
+00:09:58,800 --> 00:09:59,680
+Filippo Strozzi: Sì, sì,
+
+262
+00:10:00,160 --> 00:10:00,959
+Filippo Strozzi: come dicevo
+
+263
+00:10:01,120 --> 00:10:03,760
+Filippo Strozzi: effettivamente c'è stato un notevole miglioramento
+
+264
+00:10:04,080 --> 00:10:05,279
+Filippo Strozzi: nella compatibilità con
+
+265
+00:10:05,440 --> 00:10:05,680
+Filippo Strozzi: Mac
+
+266
+00:10:06,000 --> 00:10:07,760
+Filippo Strozzi: e nell'ultimo periodo.
+
+267
+00:10:07,900 --> 00:10:09,500
+Filippo Strozzi: c'è stato sicuramente
+
+268
+00:10:09,740 --> 00:10:11,660
+Filippo Strozzi: un piccolo aumento della fetta di mercato di
+
+269
+00:10:11,820 --> 00:10:12,540
+Filippo Strozzi: MECOS
+
+270
+00:10:13,180 --> 00:10:13,820
+Filippo Strozzi: e quindi
+
+271
+00:10:14,700 --> 00:10:17,580
+Filippo Strozzi: più produttori sono interessati o quantomeno
+
+272
+00:10:17,740 --> 00:10:20,300
+Filippo Strozzi: sviluppano e risolvono i problemi
+
+273
+00:10:20,040 --> 00:10:20,279
+Filippo Strozzi: anche
+
+274
+00:10:20,519 --> 00:10:20,839
+Filippo Strozzi: se
+
+275
+00:10:21,000 --> 00:10:22,120
+Filippo Strozzi: fino a 10-15
+
+276
+00:10:22,360 --> 00:10:22,760
+Filippo Strozzi: anni fa
+
+277
+00:10:22,920 --> 00:10:24,680
+Filippo Strozzi: oggettivamente invece
+
+278
+00:10:26,760 --> 00:10:28,120
+Filippo Strozzi: eravamo utenti di
+
+279
+00:10:29,480 --> 00:10:31,160
+Filippo Strozzi: classe B come si suol dire
+
+280
+00:10:31,780 --> 00:10:32,420
+Filippo Strozzi: Ma perché
+
+281
+00:10:32,580 --> 00:10:33,300
+Filippo Strozzi: il predominio
+
+282
+00:10:33,460 --> 00:10:35,140
+Filippo Strozzi: Windows è innegabile e
+
+283
+00:10:35,380 --> 00:10:36,580
+Filippo Strozzi: innegato anche.
+
+284
+00:10:36,580 --> 00:10:38,180
+Roberto Marin: Ma è anche giusto, nel senso,
+
+285
+00:10:38,340 --> 00:10:39,940
+Roberto Marin: è giusto che gli sviluppatori
+
+286
+00:10:40,180 --> 00:10:41,860
+Roberto Marin: si dedichino alle.
+
+287
+00:10:42,160 --> 00:10:44,960
+Roberto Marin: piattaforme più utilizzate nel lavoro, chiaramente se
+
+288
+00:10:45,120 --> 00:10:46,960
+Roberto Marin: vince Windows da tutte le parti è giusto
+
+289
+00:10:47,120 --> 00:10:47,440
+Roberto Marin: che
+
+290
+00:10:49,040 --> 00:10:50,800
+Roberto Marin: venga aiutato l'utente
+
+291
+00:10:50,960 --> 00:10:51,520
+Roberto Marin: Windows
+
+292
+00:10:51,680 --> 00:10:52,640
+Roberto Marin: quello.
+
+293
+00:10:52,200 --> 00:10:52,280
+Roberto Marin: per
+
+294
+00:10:52,440 --> 00:10:53,800
+Roberto Marin: cui mi arrabbio sempre
+
+295
+00:10:53,960 --> 00:10:54,840
+Roberto Marin: tutte le volte
+
+296
+00:10:55,080 --> 00:10:57,000
+Roberto Marin: è che non è possibile che
+
+297
+00:10:57,320 --> 00:10:57,640
+Roberto Marin: un
+
+298
+00:10:57,960 --> 00:10:59,160
+Roberto Marin: sito pubblico
+
+299
+00:10:59,400 --> 00:11:00,920
+Roberto Marin: un un software
+
+300
+00:11:00,800 --> 00:11:00,959
+Roberto Marin: Che
+
+301
+00:11:01,279 --> 00:11:07,440
+Roberto Marin: viene dato in licenza gratuita dal punto di vista pubblico, come può essere il DOCFA, giusto per dirne
+
+302
+00:11:07,600 --> 00:11:10,080
+Roberto Marin: uno: che è quello che permette di fare gli accattastamenti.
+
+303
+00:11:10,240 --> 00:11:11,760
+Roberto Marin: Non hai mai citato,
+
+304
+00:11:12,640 --> 00:11:15,519
+Roberto Marin: infatti, giusto per dirne uno.
+
+305
+00:11:15,140 --> 00:11:15,300
+Roberto Marin: E
+
+306
+00:11:15,620 --> 00:11:19,140
+Roberto Marin: queste, diciamo, queste
+
+307
+00:11:19,780 --> 00:11:21,300
+Roberto Marin: attività pubbliche
+
+308
+00:11:21,620 --> 00:11:23,300
+Roberto Marin: per quanto mi riguarda
+
+309
+00:11:23,560 --> 00:11:30,280
+Roberto Marin: non devono fare distinzione e se voglio usare un tavolo l'amministrazione pubblica me lo deve lasciare fare
+
+310
+00:11:30,520 --> 00:11:32,440
+Roberto Marin: se voglio utilizzare linux
+
+311
+00:11:32,459 --> 00:11:36,459
+Roberto Marin: non devono avere nessun tipo di problemi o nessun tipo di attrito
+
+312
+00:11:36,620 --> 00:11:40,940
+Roberto Marin: stessa cosa per macOS o Windows e se voglio usare un iPad
+
+313
+00:11:41,100 --> 00:11:42,940
+Roberto Marin: che me lo facciano utilizzare
+
+314
+00:11:42,880 --> 00:11:42,959
+Roberto Marin: e
+
+315
+00:11:43,200 --> 00:11:46,480
+Roberto Marin: quello che manca dal punto di vista della pubblica amministrazione
+
+316
+00:11:46,720 --> 00:11:51,839
+Roberto Marin: capisco che avete le risorse ridotte ma non potete fare in modo che venga
+
+317
+00:11:52,140 --> 00:11:52,380
+Roberto Marin: fatto
+
+318
+00:11:52,700 --> 00:11:57,580
+Roberto Marin: un preferenzialismo di questo tipo verso un sistema operativo perché è sbagliato.
+
+319
+00:11:57,580 --> 00:12:00,220
+Filippo Strozzi: Siete pubblici, accettate tutti.
+
+320
+00:12:00,220 --> 00:12:04,540
+Filippo Strozzi: Diciamo che probabilmente non c'è neanche questo ragionamento sotto, ma appunto.
+
+321
+00:12:04,540 --> 00:12:04,700
+Filippo Strozzi: nel
+
+322
+00:12:04,940 --> 00:12:08,940
+Filippo Strozzi: mondo pubblico si lavora con quello che si ha quindi quello che si ha è Windows
+
+323
+00:12:09,100 --> 00:12:11,500
+Filippo Strozzi: e quindi tutto il resto del mondo è
+
+324
+00:12:11,740 --> 00:12:12,460
+Filippo Strozzi: sconosciuto e
+
+325
+00:12:12,620 --> 00:12:12,940
+Filippo Strozzi: di più
+
+326
+00:12:13,100 --> 00:12:15,020
+Filippo Strozzi: comunque andiamo oltre
+
+327
+00:12:15,259 --> 00:12:16,860
+Roberto Marin: Eh, ma spesso queste
+
+328
+00:12:17,019 --> 00:12:19,259
+Roberto Marin: si appoggiano a software house
+
+329
+00:12:19,420 --> 00:12:20,779
+Roberto Marin: esterne, comunque
+
+330
+00:12:21,420 --> 00:12:23,819
+Filippo Strozzi: è un indirizzo che viene dato dal pubblico.
+
+331
+00:12:23,819 --> 00:12:24,620
+Filippo Strozzi: Sì, sì, ma
+
+332
+00:12:24,860 --> 00:12:27,420
+Filippo Strozzi: nel momento in cui loro utilizzano quello non.
+
+333
+00:12:27,380 --> 00:12:28,420
+Filippo Strozzi: Sono interessati
+
+334
+00:12:28,580 --> 00:12:29,459
+Filippo Strozzi: a fare altro
+
+335
+00:12:29,620 --> 00:12:29,779
+Filippo Strozzi: e
+
+336
+00:12:30,019 --> 00:12:31,459
+Filippo Strozzi: ovviamente non conoscono altri.
+
+337
+00:12:34,580 --> 00:12:38,980
+Filippo Strozzi: Il secondo step preliminare per passare ovviamente da Windows a Mac
+
+338
+00:12:39,380 --> 00:12:41,620
+Filippo Strozzi: è verificare i software.
+
+339
+00:12:41,220 --> 00:12:41,380
+Filippo Strozzi: Che
+
+340
+00:12:41,620 --> 00:12:42,420
+Filippo Strozzi: si utilizza
+
+341
+00:12:42,660 --> 00:12:46,740
+Filippo Strozzi: se esistono sotto Mac, non è sempre detto: attenzione!
+
+342
+00:12:49,259 --> 00:12:49,819
+Filippo Strozzi: di mac
+
+343
+00:12:49,980 --> 00:12:50,699
+Filippo Strozzi: su macos
+
+344
+00:12:51,180 --> 00:12:52,779
+Filippo Strozzi: i software che sono
+
+345
+00:12:53,100 --> 00:12:56,940
+Filippo Strozzi: presenti comunque sono compatibili o uguali a quelli per windows
+
+346
+00:12:57,100 --> 00:12:57,420
+Filippo Strozzi: perché
+
+347
+00:12:57,740 --> 00:12:58,380
+Filippo Strozzi: anche qui
+
+348
+00:12:58,540 --> 00:12:59,420
+Filippo Strozzi: a volte
+
+349
+00:13:00,040 --> 00:13:01,720
+Filippo Strozzi: Non è detto che il software
+
+350
+00:13:02,280 --> 00:13:02,840
+Filippo Strozzi: per Mac
+
+351
+00:13:03,400 --> 00:13:03,720
+Filippo Strozzi: sia
+
+352
+00:13:04,360 --> 00:13:07,640
+Filippo Strozzi: uguale a quello di Windows, giusto ad esempio
+
+353
+00:13:08,520 --> 00:13:10,280
+Filippo Strozzi: per fare l'esempio più tipico
+
+354
+00:13:11,500 --> 00:13:14,300
+Filippo Strozzi: Microsoft Office fino a poco tempo fa
+
+355
+00:13:14,540 --> 00:13:15,180
+Filippo Strozzi: non era
+
+356
+00:13:15,420 --> 00:13:16,380
+Filippo Strozzi: identico
+
+357
+00:13:17,019 --> 00:13:19,420
+Filippo Strozzi: a quello presente su Windows.
+
+358
+00:13:19,060 --> 00:13:19,700
+Filippo Strozzi: e quindi
+
+359
+00:13:19,940 --> 00:13:22,020
+Filippo Strozzi: era una versione apposta addirittura
+
+360
+00:13:22,180 --> 00:13:22,980
+Filippo Strozzi: solo per Mac,
+
+361
+00:13:23,140 --> 00:13:23,620
+Filippo Strozzi: quindi con
+
+362
+00:13:23,780 --> 00:13:24,900
+Filippo Strozzi: le stesse funzioni
+
+363
+00:13:25,700 --> 00:13:26,660
+Filippo Strozzi: interoperative
+
+364
+00:13:27,300 --> 00:13:28,980
+Filippo Strozzi: per Windows e per Mac.
+
+365
+00:13:28,980 --> 00:13:30,020
+Filippo Strozzi: Recentemente
+
+366
+00:13:30,200 --> 00:13:30,280
+Filippo Strozzi: sono
+
+367
+00:13:30,520 --> 00:13:33,160
+Filippo Strozzi: uscite nuove versioni e tranne quella per ipad
+
+368
+00:13:33,320 --> 00:13:34,280
+Filippo Strozzi: che è un po' castrata
+
+369
+00:13:34,520 --> 00:13:35,160
+Filippo Strozzi: chiamiamolo
+
+370
+00:13:35,320 --> 00:13:35,640
+Filippo Strozzi: così
+
+371
+00:13:36,360 --> 00:13:37,880
+Filippo Strozzi: per il resto direi che
+
+372
+00:13:38,640 --> 00:13:43,840
+Filippo Strozzi: Adesso non sono un grande utilizzatore dei prototi e Microsoft, ma da quel che ho visto
+
+373
+00:13:44,080 --> 00:13:44,880
+Filippo Strozzi: bene o male
+
+374
+00:13:45,120 --> 00:13:46,480
+Filippo Strozzi: è abbastanza simile
+
+375
+00:13:46,860 --> 00:13:47,100
+Filippo Strozzi: e
+
+376
+00:13:47,740 --> 00:13:49,180
+Filippo Strozzi: l'interfaccia è uguale
+
+377
+00:13:49,660 --> 00:13:50,460
+Filippo Strozzi: o quasi
+
+378
+00:13:50,700 --> 00:13:51,340
+Filippo Strozzi: e quindi
+
+379
+00:13:51,660 --> 00:13:53,580
+Filippo Strozzi: chi passa da Windows a Mac
+
+380
+00:13:53,900 --> 00:13:58,140
+Filippo Strozzi: in queste situazioni ovviamente si trova bene perché non ha nessun tipo di problema
+
+381
+00:13:58,720 --> 00:13:59,680
+Filippo Strozzi: A volte
+
+382
+00:14:00,000 --> 00:14:00,320
+Filippo Strozzi: sotto
+
+383
+00:14:00,560 --> 00:14:00,720
+Filippo Strozzi: Mac
+
+384
+00:14:01,040 --> 00:14:08,560
+Filippo Strozzi: esistono applicazioni differenti ma che fanno cose simili, giusto per parlare di grafica, per esempio, affinity design
+
+385
+00:14:08,880 --> 00:14:10,560
+Filippo Strozzi: e tutta la serie di
+
+386
+00:14:11,280 --> 00:14:12,800
+Filippo Strozzi: finiti foto e così via
+
+387
+00:14:13,200 --> 00:14:13,440
+Filippo Strozzi: sono
+
+388
+00:14:13,680 --> 00:14:16,560
+Filippo Strozzi: una versione meno costosa tra l'altro
+
+389
+00:14:16,880 --> 00:14:17,200
+Filippo Strozzi: delle
+
+390
+00:14:17,520 --> 00:14:17,920
+Filippo Strozzi: suite
+
+391
+00:14:18,080 --> 00:14:18,800
+Filippo Strozzi: adobe
+
+392
+00:14:18,960 --> 00:14:19,600
+Filippo Strozzi: anche se
+
+393
+00:14:20,720 --> 00:14:21,040
+Filippo Strozzi: tipo
+
+394
+00:14:21,360 --> 00:14:23,440
+Filippo Strozzi: Photoshop e così via
+
+395
+00:14:23,840 --> 00:14:31,280
+Filippo Strozzi: anche se ovviamente sono applicazioni diverse e quindi bisogna riprendere mano con queste cose però tendenzialmente
+
+396
+00:14:31,440 --> 00:14:32,240
+Filippo Strozzi: diciamo
+
+397
+00:14:32,740 --> 00:14:34,339
+Filippo Strozzi: Nell'80-90%
+
+398
+00:14:34,500 --> 00:14:41,940
+Filippo Strozzi: dei casi, se non parliamo proprio di software molto molto specifici, sviluppati per una nicchia specifica
+
+399
+00:14:42,160 --> 00:14:47,120
+Filippo Strozzi: che vanno in una determinata direzione che tendenzialmente funzionano solo con Windows
+
+400
+00:14:47,280 --> 00:14:50,880
+Filippo Strozzi: addirittura alcuni software funzionano con le vecchie versioni di Windows
+
+401
+00:14:50,600 --> 00:14:52,360
+Filippo Strozzi: L'assurdità è questa,
+
+402
+00:14:53,160 --> 00:14:55,959
+Filippo Strozzi: diciamo che non ci sono grossi problemi.
+
+403
+00:14:55,959 --> 00:14:59,800
+Roberto Marin: Sì, dal mio punto di vista, la parte software.
+
+404
+00:15:00,160 --> 00:15:01,040
+Roberto Marin: Devo dire
+
+405
+00:15:01,360 --> 00:15:01,680
+Roberto Marin: che
+
+406
+00:15:02,480 --> 00:15:07,839
+Roberto Marin: il passaggio a me, che per me era come avevo raccontato la scorsa volta, era blindato da.
+
+407
+00:15:08,160 --> 00:15:08,480
+Roberto Marin: .
+
+408
+00:15:08,480 --> 00:15:08,800
+Roberto Marin: .
+
+409
+00:15:08,520 --> 00:15:08,680
+Roberto Marin: della
+
+410
+00:15:09,000 --> 00:15:10,200
+Roberto Marin: mancanza di AutoCAD
+
+411
+00:15:10,600 --> 00:15:10,920
+Roberto Marin: quindi
+
+412
+00:15:11,160 --> 00:15:12,120
+Roberto Marin: non è così
+
+413
+00:15:12,280 --> 00:15:15,880
+Roberto Marin: scontato che non ci sia un software che non
+
+414
+00:15:16,200 --> 00:15:18,840
+Roberto Marin: che utilizzate su Windows che manca su.
+
+415
+00:15:19,580 --> 00:15:24,540
+Roberto Marin: però quello che voglio aggiungere è che potete trovare magari dei software diversi
+
+416
+00:15:25,100 --> 00:15:25,260
+Roberto Marin: nella
+
+417
+00:15:25,500 --> 00:15:27,020
+Roberto Marin: fattispecie posso dire
+
+418
+00:15:27,180 --> 00:15:29,180
+Roberto Marin: per chi si occupa di architettura
+
+419
+00:15:29,420 --> 00:15:31,660
+Roberto Marin: che si occupa anche di BIM
+
+420
+00:15:31,759 --> 00:15:33,040
+Roberto Marin: che esiste Revit
+
+421
+00:15:33,279 --> 00:15:40,480
+Roberto Marin: per Windows ma non esiste per Mac, in compenso c'è Archicad che è un altro tipo di beam che esiste sia per Mac
+
+422
+00:15:40,680 --> 00:15:54,040
+Roberto Marin: Che per Windows, ma vuol dire semplicemente che non bisogna scoraggiarsi di fronte alla mancanza di un software, ma si può trovare una buona alternativa all'interno del panorama Mac, perché comunque.
+
+423
+00:15:53,720 --> 00:15:54,040
+Roberto Marin: di
+
+424
+00:15:54,200 --> 00:15:54,840
+Roberto Marin: sviluppatori
+
+425
+00:15:55,000 --> 00:15:58,280
+Roberto Marin: in gamba ci sono anche per questo tipo di piattaforma.
+
+426
+00:15:58,280 --> 00:15:59,160
+Filippo Strozzi: Sì, anzi
+
+427
+00:16:00,040 --> 00:16:04,600
+Filippo Strozzi: la cosa particolare è che proprio per l'approccio Apple.
+
+428
+00:16:04,600 --> 00:16:04,759
+Filippo Strozzi: e
+
+429
+00:16:05,079 --> 00:16:12,040
+Filippo Strozzi: per la struttura del sistema operativo, devo dire la verità, una volta che si inizia ad apprezzare i software
+
+430
+00:16:12,279 --> 00:16:13,480
+Filippo Strozzi: diciamo per.
+
+431
+00:16:13,940 --> 00:16:15,220
+Filippo Strozzi: per piattaforma Apple
+
+432
+00:16:15,460 --> 00:16:17,220
+Filippo Strozzi: difficilmente si torna indietro perché
+
+433
+00:16:17,700 --> 00:16:20,500
+Filippo Strozzi: tanti piccoli dettagli e tante piccole
+
+434
+00:16:20,660 --> 00:16:23,540
+Filippo Strozzi: finezze grafiche o di interfaccia
+
+435
+00:16:23,660 --> 00:16:23,740
+Filippo Strozzi: dove
+
+436
+00:16:24,140 --> 00:16:26,220
+Filippo Strozzi: nel mondo Windows casomai a volte
+
+437
+00:16:26,460 --> 00:16:26,780
+Filippo Strozzi: sono
+
+438
+00:16:27,100 --> 00:16:28,700
+Filippo Strozzi: molto lasciato andare
+
+439
+00:16:28,860 --> 00:16:30,460
+Filippo Strozzi: e nel mondo Apple sono
+
+440
+00:16:30,780 --> 00:16:31,740
+Filippo Strozzi: molto sentite
+
+441
+00:16:31,980 --> 00:16:32,620
+Filippo Strozzi: da sempre
+
+442
+00:16:32,959 --> 00:16:33,600
+Filippo Strozzi: e quindi
+
+443
+00:16:33,839 --> 00:16:34,959
+Filippo Strozzi: tendenzialmente
+
+444
+00:16:35,279 --> 00:16:36,080
+Filippo Strozzi: gli sviluppatori
+
+445
+00:16:36,320 --> 00:16:39,360
+Filippo Strozzi: Apple sono molto più attenti a cose che
+
+446
+00:16:40,959 --> 00:16:42,160
+Filippo Strozzi: a cose fashion
+
+447
+00:16:42,240 --> 00:16:43,680
+Filippo Strozzi: ma che effettivamente
+
+448
+00:16:43,840 --> 00:16:45,280
+Filippo Strozzi: dovendo lavorare casomai
+
+449
+00:16:45,440 --> 00:16:46,800
+Filippo Strozzi: con una determinata applicazione
+
+450
+00:16:46,960 --> 00:16:48,480
+Filippo Strozzi: anche tante ore al giorno
+
+451
+00:16:48,720 --> 00:16:50,960
+Filippo Strozzi: fanno la differenza sul lungo periodo
+
+452
+00:16:52,000 --> 00:16:54,080
+Filippo Strozzi: Comunque, fatte queste dovute
+
+453
+00:16:54,240 --> 00:16:55,600
+Filippo Strozzi: premesse, ovviamente
+
+454
+00:16:55,760 --> 00:16:57,520
+Filippo Strozzi: c'è il passaggio epocale.
+
+455
+00:16:57,520 --> 00:17:02,240
+Filippo Strozzi: Avete comprato il Mac, avete il vostro PC Windows da una parte
+
+456
+00:17:02,480 --> 00:17:05,280
+Filippo Strozzi: e dovete passare a trasbordare.
+
+457
+00:17:05,060 --> 00:17:05,860
+Filippo Strozzi: i dati
+
+458
+00:17:06,420 --> 00:17:07,540
+Filippo Strozzi: da un pc
+
+459
+00:17:07,780 --> 00:17:09,940
+Filippo Strozzi: a un computer Apple.
+
+460
+00:17:09,940 --> 00:17:13,300
+Filippo Strozzi: Questo è possibile farlo se lo volete fare.
+
+461
+00:17:13,959 --> 00:17:14,280
+Filippo Strozzi: Con
+
+462
+00:17:14,600 --> 00:17:18,520
+Filippo Strozzi: quello che viene chiamato Windows Migration Assistant, ovvero
+
+463
+00:17:18,680 --> 00:17:22,439
+Filippo Strozzi: assistente di migrazione Windows, e che è un software.
+
+464
+00:17:23,339 --> 00:17:25,179
+Filippo Strozzi: Sviluppato da Apple stessa
+
+465
+00:17:25,419 --> 00:17:29,740
+Filippo Strozzi: che permette di traghettare in maniera, diciamo, indolore
+
+466
+00:17:29,900 --> 00:17:30,700
+Filippo Strozzi: e per chi
+
+467
+00:17:31,340 --> 00:17:33,419
+Filippo Strozzi: non è proprio avvezzo
+
+468
+00:17:33,660 --> 00:17:35,260
+Filippo Strozzi: alla.
+
+469
+00:17:35,580 --> 00:17:35,740
+Filippo Strozzi: alla
+
+470
+00:17:35,980 --> 00:17:37,100
+Filippo Strozzi: gestione dei dati
+
+471
+00:17:37,260 --> 00:17:38,059
+Filippo Strozzi: diciamo
+
+472
+00:17:38,940 --> 00:17:40,220
+Filippo Strozzi: il vostro pc
+
+473
+00:17:40,460 --> 00:17:41,340
+Filippo Strozzi: windows
+
+474
+00:17:42,380 --> 00:17:43,100
+Filippo Strozzi: in un Mac
+
+475
+00:17:43,179 --> 00:17:45,260
+Filippo Strozzi: In estrema sintesi, non entreremo
+
+476
+00:17:45,980 --> 00:17:46,860
+Filippo Strozzi: nel dettaglio.
+
+477
+00:17:46,860 --> 00:17:48,140
+Filippo Strozzi: Nelle note dell'episodio
+
+478
+00:17:48,299 --> 00:17:49,179
+Filippo Strozzi: trovate
+
+479
+00:17:49,340 --> 00:17:50,940
+Filippo Strozzi: due link: uno
+
+480
+00:17:52,059 --> 00:17:54,700
+Filippo Strozzi: alla guida del supporto Apple,
+
+481
+00:17:54,940 --> 00:17:55,179
+Filippo Strozzi: apro
+
+482
+00:17:55,419 --> 00:17:57,100
+Filippo Strozzi: chiudo una parentesi.
+
+483
+00:17:57,140 --> 00:17:59,860
+Filippo Strozzi: Lo vedrete in queste puntate, io
+
+484
+00:18:00,420 --> 00:18:01,700
+Filippo Strozzi: nei vari link
+
+485
+00:18:02,020 --> 00:18:02,340
+Filippo Strozzi: ho
+
+486
+00:18:02,500 --> 00:18:04,660
+Filippo Strozzi: messo veramente un sacco di
+
+487
+00:18:05,060 --> 00:18:07,540
+Filippo Strozzi: riferimenti al supporto Apple.
+
+488
+00:18:07,100 --> 00:18:08,299
+Filippo Strozzi: Che devo dire la verità?
+
+489
+00:18:08,299 --> 00:18:09,580
+Filippo Strozzi: Questo sono passato
+
+490
+00:18:09,900 --> 00:18:10,140
+Filippo Strozzi: a
+
+491
+00:18:10,460 --> 00:18:10,700
+Filippo Strozzi: Mac
+
+492
+00:18:10,940 --> 00:18:11,020
+Filippo Strozzi: ,
+
+493
+00:18:11,179 --> 00:18:11,820
+Filippo Strozzi: non ho mai
+
+494
+00:18:11,980 --> 00:18:12,140
+Filippo Strozzi: ,
+
+495
+00:18:12,299 --> 00:18:15,260
+Filippo Strozzi: non sapevo neanche dell'esistenza, e devo dire invece
+
+496
+00:18:15,419 --> 00:18:19,740
+Filippo Strozzi: la verità: Apple, anche se non sempre in maniera perfetta
+
+497
+00:18:19,960 --> 00:18:21,240
+Filippo Strozzi: Ha veramente una
+
+498
+00:18:20,059 --> 00:18:20,380
+Filippo Strozzi: ,
+
+499
+00:18:21,400 --> 00:18:27,960
+Filippo Strozzi: serie di materiale in svariate lingue tra cui anche l'italiano quindi un passaggio abbastanza indolore.
+
+500
+00:18:27,980 --> 00:18:32,940
+Filippo Strozzi: A volte non sempre tradotto in italiano, ma nell'80-90% dei casi c'è
+
+501
+00:18:33,100 --> 00:18:34,860
+Filippo Strozzi: il materiale che trovate in inglese
+
+502
+00:18:35,020 --> 00:18:35,820
+Filippo Strozzi: che comunque
+
+503
+00:18:36,140 --> 00:18:36,460
+Filippo Strozzi: copre
+
+504
+00:18:36,620 --> 00:18:38,780
+Filippo Strozzi: tutto lo scibile, diciamo.
+
+505
+00:18:39,260 --> 00:18:39,900
+Filippo Strozzi: Apple
+
+506
+00:18:40,220 --> 00:18:44,700
+Filippo Strozzi: lo trovate anche in italiano, quindi è molto utile, e è una cosa
+
+507
+00:18:44,860 --> 00:18:47,580
+Filippo Strozzi: da tenere presente quando si passa a Apple.
+
+508
+00:18:47,580 --> 00:18:51,660
+Filippo Strozzi: Secondo me, andare a spulciare e approfondire.
+
+509
+00:18:51,679 --> 00:18:52,880
+Filippo Strozzi: Il supporto Apple
+
+510
+00:18:53,120 --> 00:18:57,760
+Filippo Strozzi: dove ci sono il manuale di come funziona il Mac, come funziona l'iPhone,
+
+511
+00:18:58,159 --> 00:18:59,760
+Filippo Strozzi: come funziona l'iPad.
+
+512
+00:18:59,760 --> 00:19:01,840
+Filippo Strozzi: Ci sono veramente tutta una serie di
+
+513
+00:19:02,080 --> 00:19:03,120
+Filippo Strozzi: utili guide,
+
+514
+00:19:03,279 --> 00:19:05,279
+Filippo Strozzi: utili indicazioni.
+
+515
+00:19:05,660 --> 00:19:07,500
+Filippo Strozzi: Appunto, in una serie di pagine
+
+516
+00:19:07,820 --> 00:19:10,540
+Filippo Strozzi: che si intrecciano l'una con l'altra
+
+517
+00:19:11,100 --> 00:19:11,340
+Filippo Strozzi: per
+
+518
+00:19:11,500 --> 00:19:15,100
+Filippo Strozzi: prendere dimestichezza col nuovo sistema operativo, cosa che
+
+519
+00:19:15,420 --> 00:19:16,300
+Filippo Strozzi: purtroppo
+
+520
+00:19:16,620 --> 00:19:18,060
+Filippo Strozzi: per forza di cose va fatta
+
+521
+00:19:18,220 --> 00:19:18,860
+Filippo Strozzi: perché.
+
+522
+00:19:19,060 --> 00:19:21,540
+Filippo Strozzi: nessuno nasce imparato come si suol dire
+
+523
+00:19:21,700 --> 00:19:26,980
+Filippo Strozzi: e quindi è ovvio che in un primo momento il passaggio da Windows a Mac
+
+524
+00:19:27,780 --> 00:19:30,820
+Filippo Strozzi: è complicato e richiede un minimo di informazioni
+
+525
+00:19:30,980 --> 00:19:32,180
+Filippo Strozzi: speriamo di
+
+526
+00:19:32,340 --> 00:19:33,620
+Filippo Strozzi: Essere tra quelli che
+
+527
+00:19:34,100 --> 00:19:35,700
+Filippo Strozzi: ve le danno velocemente, così
+
+528
+00:19:36,260 --> 00:19:38,660
+Filippo Strozzi: potete fare un passaggio veloce.
+
+529
+00:19:39,220 --> 00:19:39,620
+Filippo Strozzi: Quindi,
+
+530
+00:19:39,940 --> 00:19:40,260
+Filippo Strozzi: questo
+
+531
+00:19:40,500 --> 00:19:44,100
+Filippo Strozzi: sistema, appunto, questa assistenza di migrazione, cosa fa?
+
+532
+00:19:43,900 --> 00:19:52,060
+Filippo Strozzi: Di fatto da quello che ho visto io, perché devo dire la verità, non l'ho mai usato in vita mia, ed ormai da tanto tempo sono diventato utente Apple, quindi non.
+
+533
+00:19:52,240 --> 00:19:53,600
+Filippo Strozzi: Non è qualcosa che
+
+534
+00:19:52,380 --> 00:19:52,700
+Filippo Strozzi: .
+
+535
+00:19:52,700 --> 00:19:53,020
+Filippo Strozzi: .
+
+536
+00:19:55,760 --> 00:19:58,560
+Filippo Strozzi: ho possibilità di fare adesso.
+
+537
+00:19:59,040 --> 00:19:59,760
+Filippo Strozzi: Sposta
+
+538
+00:19:59,920 --> 00:20:03,600
+Filippo Strozzi: dati e utenti dal PC Windows al Mac.
+
+539
+00:20:03,419 --> 00:20:03,740
+Filippo Strozzi: Quindi
+
+540
+00:20:04,059 --> 00:20:05,419
+Filippo Strozzi: praticamente sposta
+
+541
+00:20:07,179 --> 00:20:12,220
+Filippo Strozzi: l'interfaccia di base di Windows, chiamiamola così, cioè la struttura cartelle di base di Windows con l'utente
+
+542
+00:20:12,380 --> 00:20:14,539
+Filippo Strozzi: anche che avevate da Windows
+
+543
+00:20:14,260 --> 00:20:14,419
+Filippo Strozzi: sul
+
+544
+00:20:14,660 --> 00:20:14,900
+Filippo Strozzi: Mac
+
+545
+00:20:15,220 --> 00:20:19,299
+Filippo Strozzi: e vi ritroverete quindi tutti i documenti che avete da una parte e dall'altra
+
+546
+00:20:19,460 --> 00:20:23,059
+Filippo Strozzi: ovviamente i due computer devono essere sotto la stessa rete
+
+547
+00:20:23,160 --> 00:20:27,320
+Filippo Strozzi: possono addirittura essere collegati a due cavi di rete direttamente
+
+548
+00:20:27,560 --> 00:20:27,720
+Filippo Strozzi: anche
+
+549
+00:20:27,880 --> 00:20:30,280
+Filippo Strozzi: se lì è un po' più complicato da gestire
+
+550
+00:20:30,440 --> 00:20:31,960
+Filippo Strozzi: se siete sotto wifi
+
+551
+00:20:32,200 --> 00:20:35,000
+Filippo Strozzi: per esempio basta collegarvi sotto lo stesso wifi
+
+552
+00:20:35,760 --> 00:20:35,919
+Filippo Strozzi: far
+
+553
+00:20:36,159 --> 00:20:37,120
+Filippo Strozzi: vedere il Mac
+
+554
+00:20:37,600 --> 00:20:39,200
+Filippo Strozzi: a Windows e Windows a Mac
+
+555
+00:20:39,519 --> 00:20:43,440
+Filippo Strozzi: e a questo punto seguire le istruzioni appunto del supporto Apple
+
+556
+00:20:43,600 --> 00:20:46,399
+Filippo Strozzi: c'è una piccola parte, lo dichiaro
+
+557
+00:20:46,360 --> 00:20:49,159
+Filippo Strozzi: Che richiede comunque, ma è fatto passo passo
+
+558
+00:20:49,320 --> 00:20:50,519
+Filippo Strozzi: che richiede comunque
+
+559
+00:20:51,159 --> 00:20:52,519
+Filippo Strozzi: il cosiddetto prompt
+
+560
+00:20:52,679 --> 00:20:53,880
+Filippo Strozzi: di Windows per
+
+561
+00:20:54,519 --> 00:21:00,600
+Filippo Strozzi: inserire alcuni comandi a riga di comando, diciamo in Windows, ma non è nulla di apocalittico.
+
+562
+00:21:01,860 --> 00:21:02,180
+Filippo Strozzi: E
+
+563
+00:21:02,340 --> 00:21:04,740
+Filippo Strozzi: da quel che ho visto io seguendo questa guida
+
+564
+00:21:04,900 --> 00:21:08,500
+Filippo Strozzi: il passaggio è abbastanza indolore, ci vorrà ovviamente del tempo perché
+
+565
+00:21:08,660 --> 00:21:10,900
+Filippo Strozzi: soprattutto se avete molti dati.
+
+566
+00:21:10,740 --> 00:21:11,700
+Filippo Strozzi: Ma di fatto
+
+567
+00:21:11,940 --> 00:21:14,100
+Filippo Strozzi: se avete il PC e se avete un Mac
+
+568
+00:21:14,500 --> 00:21:18,580
+Filippo Strozzi: riuscite a trasbordare in maniera abbastanza semplice e indolore
+
+569
+00:21:19,060 --> 00:21:19,940
+Filippo Strozzi: tutti i dati
+
+570
+00:21:20,100 --> 00:21:20,740
+Filippo Strozzi: e a.
+
+571
+00:21:20,740 --> 00:21:20,820
+Filippo Strozzi: .
+
+572
+00:21:21,220 --> 00:21:22,500
+Filippo Strozzi: diventare operativi
+
+573
+00:21:22,740 --> 00:21:23,780
+Filippo Strozzi: dal primo momento
+
+574
+00:21:24,420 --> 00:21:25,380
+Filippo Strozzi: direttamente
+
+575
+00:21:25,620 --> 00:21:25,940
+Filippo Strozzi: anche
+
+576
+00:21:26,260 --> 00:21:26,500
+Filippo Strozzi: con
+
+577
+00:21:26,660 --> 00:21:26,900
+Filippo Strozzi: Mac
+
+578
+00:21:27,300 --> 00:21:27,780
+Roberto Marin: no ma
+
+579
+00:21:27,940 --> 00:21:28,420
+Roberto Marin: volevo tanto
+
+580
+00:21:28,580 --> 00:21:29,860
+Roberto Marin: aggiungere solo un paio di
+
+581
+00:21:30,260 --> 00:21:31,460
+Roberto Marin: Dettagli che
+
+582
+00:21:31,780 --> 00:21:35,220
+Roberto Marin: l'assistente migrazione funziona con Windows 7
+
+583
+00:21:35,380 --> 00:21:37,059
+Roberto Marin: in avanti, quindi
+
+584
+00:21:37,539 --> 00:21:41,380
+Roberto Marin: occhio per chi vuole passare da sistemi operativi precedenti.
+
+585
+00:21:41,260 --> 00:21:41,419
+Roberto Marin: chi
+
+586
+00:21:41,580 --> 00:21:43,179
+Filippo Strozzi: chi ha è chi è su Windows
+
+587
+00:21:43,419 --> 00:21:44,940
+Filippo Strozzi: XP devo dire la verità
+
+588
+00:21:45,100 --> 00:21:46,940
+Filippo Strozzi: dovrebbe comunque cambiare
+
+589
+00:21:47,179 --> 00:21:48,299
+Filippo Strozzi: piuttosto che comprate
+
+590
+00:21:48,780 --> 00:21:48,940
+Filippo Strozzi: un
+
+591
+00:21:49,660 --> 00:21:49,980
+Filippo Strozzi: nuovo
+
+592
+00:21:50,140 --> 00:21:51,740
+Filippo Strozzi: pc e anche windows 7
+
+593
+00:21:51,980 --> 00:21:53,260
+Filippo Strozzi: credo che abbia finito la
+
+594
+00:21:53,960 --> 00:21:55,640
+Filippo Strozzi: Che non si è più supportato
+
+595
+00:21:55,800 --> 00:21:56,440
+Filippo Strozzi: da quest'anno.
+
+596
+00:21:56,440 --> 00:21:57,560
+Roberto Marin: No, penso anch'io.
+
+597
+00:21:59,320 --> 00:22:02,840
+Roberto Marin: Un'altra particolarità è occhio a OneDrive, perché
+
+598
+00:22:03,000 --> 00:22:03,880
+Roberto Marin: da quello che leggo
+
+599
+00:22:04,040 --> 00:22:04,840
+Roberto Marin: bisognerebbe.
+
+600
+00:22:05,160 --> 00:22:06,360
+Roberto Marin: Disinstallare
+
+601
+00:22:06,520 --> 00:22:08,680
+Roberto Marin: OneDrive dal proprio sistema
+
+602
+00:22:09,000 --> 00:22:12,520
+Roberto Marin: Windows prima di procedere alla migrazione dei dati
+
+603
+00:22:12,680 --> 00:22:17,480
+Roberto Marin: e questi dati, giusto per dare una infarinatura.
+
+604
+00:22:16,860 --> 00:22:19,659
+Roberto Marin: riguardano contatti, calendari, account
+
+605
+00:22:19,899 --> 00:22:24,779
+Roberto Marin: email, altri dati che poi vengono copiati n giuste
+
+606
+00:22:24,940 --> 00:22:27,659
+Roberto Marin: posizioni nel proprio Mac.
+
+607
+00:22:27,080 --> 00:22:35,160
+Roberto Marin: Neanmeno io ho usato questa procedura, non ho la minima idea di come si possa fare, ma per il semplice fatto che ho usato la procedura
+
+608
+00:22:36,360 --> 00:22:38,600
+Roberto Marin: che descriveremo più avanti.
+
+609
+00:22:38,200 --> 00:22:38,279
+Roberto Marin: Che
+
+610
+00:22:38,519 --> 00:22:39,320
+Roberto Marin: riguarda appunto
+
+611
+00:22:39,480 --> 00:22:41,480
+Roberto Marin: Bootcamp, ho
+
+612
+00:22:41,639 --> 00:22:43,399
+Roberto Marin: utilizzato per un certo periodo
+
+613
+00:22:43,559 --> 00:22:44,200
+Roberto Marin: assieme
+
+614
+00:22:44,840 --> 00:22:46,200
+Roberto Marin: sia Windows che
+
+615
+00:22:46,360 --> 00:22:48,760
+Roberto Marin: Mac, tramite Bootcamp.
+
+616
+00:22:48,400 --> 00:22:48,560
+Roberto Marin: perché
+
+617
+00:22:48,960 --> 00:22:51,120
+Roberto Marin: volevo adattarmi alla situazione
+
+618
+00:22:51,360 --> 00:22:51,680
+Roberto Marin: quindi
+
+619
+00:22:51,920 --> 00:22:52,560
+Roberto Marin: questo tipo
+
+620
+00:22:52,880 --> 00:22:53,200
+Roberto Marin: di
+
+621
+00:22:53,840 --> 00:22:54,960
+Roberto Marin: configurazione
+
+622
+00:22:55,120 --> 00:22:59,120
+Roberto Marin: permette di fare anche dei parallelismi tra i due sistemi operativi
+
+623
+00:22:59,120 --> 00:22:59,280
+Roberto Marin: E
+
+624
+00:22:59,520 --> 00:23:00,240
+Roberto Marin: soprattutto
+
+625
+00:23:00,480 --> 00:23:01,760
+Roberto Marin: per chi passa da Windows
+
+626
+00:23:01,920 --> 00:23:02,320
+Roberto Marin: a Mac
+
+627
+00:23:02,880 --> 00:23:05,040
+Roberto Marin: ha un certo paracadute che non fa
+
+628
+00:23:05,200 --> 00:23:05,840
+Roberto Marin: male.
+
+629
+00:23:05,840 --> 00:23:08,080
+Roberto Marin: Nel momento in cui io utilizzo il Mac
+
+630
+00:23:08,240 --> 00:23:12,960
+Roberto Marin: e non so che santo votarmi, ma dopo domani devo fare una consegna.
+
+631
+00:23:12,919 --> 00:23:13,240
+Roberto Marin: se
+
+632
+00:23:13,559 --> 00:23:16,120
+Roberto Marin: nel caso io con Windows sono ancora
+
+633
+00:23:16,360 --> 00:23:16,679
+Roberto Marin: più
+
+634
+00:23:17,480 --> 00:23:20,760
+Roberto Marin: operativo, molto più veloce e molto più.
+
+635
+00:23:21,540 --> 00:23:21,940
+Roberto Marin: bravo
+
+636
+00:23:22,100 --> 00:23:25,220
+Roberto Marin: a utilizzare i programmi perché non ho ancora preso
+
+637
+00:23:25,540 --> 00:23:26,180
+Roberto Marin: diciamo
+
+638
+00:23:26,500 --> 00:23:29,940
+Roberto Marin: confidenza con quello che è il Macintosh allora a questo punto
+
+639
+00:23:30,100 --> 00:23:33,460
+Roberto Marin: il sistema bootcamp aiuta moltissimo
+
+640
+00:23:33,300 --> 00:23:33,940
+Roberto Marin: La cosa
+
+641
+00:23:34,100 --> 00:23:34,740
+Roberto Marin: interessante
+
+642
+00:23:35,060 --> 00:23:35,700
+Roberto Marin: del sistema
+
+643
+00:23:35,940 --> 00:23:37,300
+Roberto Marin: Boot Camp è che
+
+644
+00:23:37,620 --> 00:23:41,780
+Roberto Marin: detto tra di noi vuol dire semplicemente questo: c'è
+
+645
+00:23:42,100 --> 00:23:42,420
+Roberto Marin: un
+
+646
+00:23:42,740 --> 00:23:44,020
+Roberto Marin: programmino che
+
+647
+00:23:44,340 --> 00:23:44,660
+Roberto Marin: si
+
+648
+00:23:45,720 --> 00:23:51,160
+Roberto Marin: Inserisce tra l'avvio del computer e l'avvio del sistema operativo.
+
+649
+00:23:51,160 --> 00:23:51,480
+Roberto Marin: Quindi
+
+650
+00:23:51,720 --> 00:23:58,600
+Roberto Marin: questo programmino chiede all'utente se vuole utilizzare il Macintosh oppure Windows.
+
+651
+00:23:58,440 --> 00:23:59,880
+Roberto Marin: Questo permette quindi
+
+652
+00:24:00,440 --> 00:24:05,399
+Roberto Marin: a ogni riavvio di partire con quello che si vuole e si preferisce.
+
+653
+00:24:05,399 --> 00:24:06,679
+Roberto Marin: La cosa interessante
+
+654
+00:24:06,919 --> 00:24:11,960
+Roberto Marin: è che, a differenza delle macchine virtuali di cui vi parleremo più avanti.
+
+655
+00:24:11,740 --> 00:24:13,740
+Roberto Marin: un sistema di questo tipo sfrutta
+
+656
+00:24:13,980 --> 00:24:14,540
+Roberto Marin: completamente
+
+657
+00:24:14,780 --> 00:24:17,740
+Roberto Marin: l'hardware all'interno del proprio Mac.
+
+658
+00:24:17,740 --> 00:24:20,380
+Roberto Marin: Questo vuol dire semplicemente che chi
+
+659
+00:24:20,860 --> 00:24:21,019
+Roberto Marin: fa
+
+660
+00:24:21,419 --> 00:24:21,899
+Roberto Marin: render
+
+661
+00:24:22,059 --> 00:24:22,700
+Roberto Marin: ad esempio
+
+662
+00:24:22,940 --> 00:24:24,460
+Roberto Marin: è meglio che lo faccia
+
+663
+00:24:24,779 --> 00:24:29,659
+Roberto Marin: con un sistema bootcamp piuttosto che ricorrere a macchine virtuali
+
+664
+00:24:29,500 --> 00:24:30,140
+Roberto Marin: Perché
+
+665
+00:24:30,300 --> 00:24:34,060
+Roberto Marin: la differenza è che la macchina virtuale è effettivamente
+
+666
+00:24:34,300 --> 00:24:34,940
+Roberto Marin: un sistema
+
+667
+00:24:35,340 --> 00:24:37,020
+Roberto Marin: virtuale hardware
+
+668
+00:24:37,340 --> 00:24:37,980
+Roberto Marin: emulato
+
+669
+00:24:38,140 --> 00:24:42,700
+Roberto Marin: virtualizzato all'interno di un sistema operativo ospite.
+
+670
+00:24:42,820 --> 00:24:43,140
+Roberto Marin: Quindi
+
+671
+00:24:43,300 --> 00:24:46,260
+Roberto Marin: la situazione vuol dire semplicemente che
+
+672
+00:24:46,580 --> 00:24:48,500
+Roberto Marin: una parte dell'hardware verrà
+
+673
+00:24:48,660 --> 00:24:51,380
+Roberto Marin: utilizzato per il sistema operativo
+
+674
+00:24:51,360 --> 00:24:52,320
+Roberto Marin: che ospita
+
+675
+00:24:52,480 --> 00:24:55,279
+Roberto Marin: e l'altro gli rimane quello che ha
+
+676
+00:24:55,440 --> 00:24:56,399
+Roberto Marin: essenzialmente
+
+677
+00:24:56,639 --> 00:24:57,279
+Roberto Marin: in base
+
+678
+00:24:57,440 --> 00:24:57,760
+Roberto Marin: alle
+
+679
+00:24:59,360 --> 00:25:01,200
+Roberto Marin: indicazioni che gli diamo noi
+
+680
+00:25:01,620 --> 00:25:09,460
+Roberto Marin: Avevi forse qualcosa da aggiungere per quanto riguarda le macchine virtuali, ma ti rimando perché sicuramente mi sarò sbagliato tra virtualizzazione.
+
+681
+00:25:09,400 --> 00:25:09,880
+Roberto Marin: e compagnia
+
+682
+00:25:10,040 --> 00:25:10,760
+Roberto Marin: briskola perché
+
+683
+00:25:10,920 --> 00:25:14,200
+Roberto Marin: anche questo non sono un amante di questo tipo di sistemi
+
+684
+00:25:14,360 --> 00:25:17,480
+Roberto Marin: ma in ogni caso bootcamp è molto interessante
+
+685
+00:25:18,220 --> 00:25:22,220
+Roberto Marin: Perché, tra le altre cose, nel momento in cui viene utilizzato,
+
+686
+00:25:22,700 --> 00:25:24,220
+Roberto Marin: ci permette anche di
+
+687
+00:25:24,540 --> 00:25:26,060
+Roberto Marin: arrivare all'hard disk
+
+688
+00:25:26,620 --> 00:25:28,300
+Roberto Marin: dell'altro sistema operativo
+
+689
+00:25:28,620 --> 00:25:30,860
+Roberto Marin: con pochi passaggi.
+
+690
+00:25:30,820 --> 00:25:31,140
+Roberto Marin: quindi
+
+691
+00:25:31,540 --> 00:25:36,260
+Roberto Marin: se voi avete i dati che ne so su Windows e volete iniziare a utilizzarle con
+
+692
+00:25:37,460 --> 00:25:37,780
+Roberto Marin: sistema
+
+693
+00:25:37,940 --> 00:25:39,140
+Roberto Marin: Macintosh
+
+694
+00:25:39,380 --> 00:25:39,700
+Roberto Marin: sul
+
+695
+00:25:41,260 --> 00:25:46,220
+Roberto Marin: Su una partizione, a questo punto voi potete accedere, ovviamente, ci vuole un attimino di
+
+696
+00:25:48,940 --> 00:25:55,980
+Roberto Marin: capacità informatiche, ma non è niente di trascendentale, perché se ce l'ho fatta io, ce la può fare chiunque.
+
+697
+00:25:55,940 --> 00:25:59,700
+Roberto Marin: Detto questo, passo direttamente la palla al mio amico Filippo
+
+698
+00:25:59,860 --> 00:26:02,500
+Roberto Marin: che frigge un po' per le sue macchine virtuali.
+
+699
+00:26:02,500 --> 00:26:04,820
+Filippo Strozzi: No, allora, due precisazioni.
+
+700
+00:26:04,820 --> 00:26:07,460
+Filippo Strozzi: Anzitutto, giusto solo perché.
+
+701
+00:26:07,100 --> 00:26:09,179
+Filippo Strozzi: Siccome siamo in fase introduttiva,
+
+702
+00:26:09,500 --> 00:26:10,700
+Filippo Strozzi: ritengo sia opportuno
+
+703
+00:26:10,860 --> 00:26:12,700
+Filippo Strozzi: specificarlo, tutte le due
+
+704
+00:26:12,860 --> 00:26:18,220
+Filippo Strozzi: soluzioni, quindi boot camp come macchine virtuali, richiedono una licenza Windows
+
+705
+00:26:18,700 --> 00:26:21,260
+Filippo Strozzi: che ha un suo certo costo.
+
+706
+00:26:21,019 --> 00:26:22,139
+Filippo Strozzi: Nel caso
+
+707
+00:26:22,620 --> 00:26:23,019
+Filippo Strozzi: siate
+
+708
+00:26:23,179 --> 00:26:24,620
+Filippo Strozzi: interessati a vivere ancora
+
+709
+00:26:24,779 --> 00:26:25,820
+Filippo Strozzi: come giusto che sia,
+
+710
+00:26:25,980 --> 00:26:27,740
+Filippo Strozzi: io ho fatto la stessa cosa
+
+711
+00:26:28,059 --> 00:26:28,380
+Filippo Strozzi: quando
+
+712
+00:26:28,539 --> 00:26:29,500
+Filippo Strozzi: sono passato
+
+713
+00:26:29,659 --> 00:26:33,659
+Filippo Strozzi: a Apple, avevo la mia macchina virtuale con dentro Windows.
+
+714
+00:26:34,260 --> 00:26:43,539
+Filippo Strozzi: Se volete fare questa scelta, diciamo, il consiglio è quello di comprare la licenza Windows contestualmente all'acquisto del Mac.
+
+715
+00:26:43,240 --> 00:26:44,200
+Filippo Strozzi: Questo perché
+
+716
+00:26:44,520 --> 00:26:45,480
+Filippo Strozzi: si addirittura uno
+
+717
+00:26:45,640 --> 00:26:49,720
+Filippo Strozzi: sconto con quelle che vengono chiamate licenze OM, ovvero
+
+718
+00:26:50,040 --> 00:26:51,240
+Filippo Strozzi: quelle licenze
+
+719
+00:26:52,140 --> 00:26:52,460
+Filippo Strozzi: che
+
+720
+00:26:53,020 --> 00:26:54,780
+Filippo Strozzi: in pratica vengono
+
+721
+00:26:55,340 --> 00:27:01,260
+Filippo Strozzi: date nel momento in cui si acquista la macchina e sono collegate direttamente alla macchina
+
+722
+00:27:01,100 --> 00:27:05,179
+Filippo Strozzi: Io infatti quando compro un nuovo Mac, tranne questo, cioè
+
+723
+00:27:05,419 --> 00:27:06,299
+Filippo Strozzi: il MacBook
+
+724
+00:27:06,460 --> 00:27:07,340
+Filippo Strozzi: Pro che ho
+
+725
+00:27:08,299 --> 00:27:11,100
+Filippo Strozzi: acquistato in piena pandemia,
+
+726
+00:27:10,919 --> 00:27:11,400
+Filippo Strozzi: Compro
+
+727
+00:27:11,640 --> 00:27:11,960
+Filippo Strozzi: sempre
+
+728
+00:27:12,440 --> 00:27:18,200
+Filippo Strozzi: non solo il Mac, ma anche una licenza Windows, perché non si sa mai come si suol dire, nel
+
+729
+00:27:18,360 --> 00:27:25,400
+Filippo Strozzi: senso che, alla fine, attualmente io non uso quasi mai Windows, è una cosa abbastanza rara.
+
+730
+00:27:25,419 --> 00:27:25,820
+Filippo Strozzi: Però
+
+731
+00:27:26,059 --> 00:27:30,220
+Filippo Strozzi: avere l'ancora di salvezza in alcune situazioni è sicuramente una
+
+732
+00:27:30,460 --> 00:27:31,500
+Filippo Strozzi: cosa utile.
+
+733
+00:27:31,500 --> 00:27:33,340
+Filippo Strozzi: E ovviamente, appunto,
+
+734
+00:27:34,299 --> 00:27:35,660
+Filippo Strozzi: indipendentemente dal
+
+735
+00:27:35,980 --> 00:27:37,500
+Filippo Strozzi: fatto che utilizziate
+
+736
+00:27:38,100 --> 00:27:45,220
+Filippo Strozzi: Bootcamp è quindi una partizione nel vostro hard disk, sostanzialmente sia dedicata esclusivamente a Windows, una cosa che
+
+737
+00:27:45,380 --> 00:27:45,779
+Filippo Strozzi: secondo me
+
+738
+00:27:45,940 --> 00:27:48,019
+Filippo Strozzi: Roberto si è scordato di dire.
+
+739
+00:27:48,019 --> 00:27:49,059
+Filippo Strozzi: Bootcamp
+
+740
+00:27:49,700 --> 00:27:52,019
+Filippo Strozzi: vi permette di fatto di avere.
+
+741
+00:27:51,760 --> 00:27:54,480
+Filippo Strozzi: adesso nelle proporzioni che scegliete voi
+
+742
+00:27:54,720 --> 00:27:55,039
+Filippo Strozzi: ma
+
+743
+00:27:55,200 --> 00:27:56,320
+Filippo Strozzi: metà hard disk
+
+744
+00:27:56,880 --> 00:27:58,720
+Filippo Strozzi: per Windows e metà hard disk
+
+745
+00:27:58,960 --> 00:27:59,440
+Filippo Strozzi: per Mac
+
+746
+00:27:59,919 --> 00:28:00,240
+Filippo Strozzi: E
+
+747
+00:28:00,720 --> 00:28:01,440
+Filippo Strozzi: ovviamente
+
+748
+00:28:02,080 --> 00:28:02,320
+Filippo Strozzi: Mac
+
+749
+00:28:02,720 --> 00:28:04,000
+Filippo Strozzi: riesce a leggere l'hard
+
+750
+00:28:04,160 --> 00:28:04,320
+Filippo Strozzi: disk
+
+751
+00:28:04,559 --> 00:28:08,799
+Filippo Strozzi: Windows, ma Windows credo che abbia invece dei problemi a leggere
+
+752
+00:28:10,400 --> 00:28:12,559
+Filippo Strozzi: la formatazione poi.
+
+753
+00:28:12,240 --> 00:28:12,400
+Filippo Strozzi: del
+
+754
+00:28:12,640 --> 00:28:17,760
+Filippo Strozzi: sistema operativo di Apple a meno che tu non mi dica qualcosa di diverso ma devo dire la verità io non ho fatto
+
+755
+00:28:18,640 --> 00:28:20,640
+Roberto Marin: nella mia esperienza non ho mai avuto
+
+756
+00:28:21,419 --> 00:28:22,299
+Roberto Marin: Necessità
+
+757
+00:28:22,539 --> 00:28:25,980
+Roberto Marin: di andare a leggere da Windows da Windows
+
+758
+00:28:26,140 --> 00:28:28,380
+Roberto Marin: cose sul Mac, perché essenzialmente
+
+759
+00:28:29,340 --> 00:28:36,780
+Roberto Marin: Utilizzavo più Windows, poi, piano piano, incominciavo a trasferire le cose di là e conseguentemente non sono più tornato indietro.
+
+760
+00:28:36,780 --> 00:28:41,740
+Roberto Marin: Probabilmente non si riesce a fare, ma visto che stiamo abbandonando Windows, sta anche bene.
+
+761
+00:28:42,560 --> 00:28:43,520
+Filippo Strozzi: D'accordo, d'accordo.
+
+762
+00:28:43,520 --> 00:28:45,120
+Filippo Strozzi: Però credo anche qui
+
+763
+00:28:47,040 --> 00:28:55,440
+Filippo Strozzi: non ho fatto degli approfondimenti, ma credo che ci siano dei software a pagamento apposta che permettano sotto Windows di vedere le partizioni Mac.
+
+764
+00:28:55,440 --> 00:28:57,200
+Filippo Strozzi: E stessa cosa vale.
+
+765
+00:28:57,240 --> 00:28:57,720
+Filippo Strozzi: da Mac
+
+766
+00:28:57,960 --> 00:28:58,680
+Filippo Strozzi: a Windows
+
+767
+00:28:58,840 --> 00:28:59,160
+Filippo Strozzi: perché
+
+768
+00:28:59,640 --> 00:29:00,680
+Filippo Strozzi: qui entriamo in
+
+769
+00:29:02,200 --> 00:29:03,320
+Filippo Strozzi: una piccola rabbit
+
+770
+00:29:03,480 --> 00:29:03,640
+Filippo Strozzi: hall
+
+771
+00:29:03,800 --> 00:29:05,160
+Filippo Strozzi: come si suol dire in
+
+772
+00:29:05,400 --> 00:29:06,360
+Filippo Strozzi: americano
+
+773
+00:29:07,720 --> 00:29:09,000
+Filippo Strozzi: Nella sostanza
+
+774
+00:29:09,320 --> 00:29:09,560
+Filippo Strozzi: ,
+
+775
+00:29:10,040 --> 00:29:10,280
+Filippo Strozzi: Mac
+
+776
+00:29:10,920 --> 00:29:11,800
+Filippo Strozzi: già ha
+
+777
+00:29:12,440 --> 00:29:15,160
+Filippo Strozzi: buone possibilità diciamo di leggere
+
+778
+00:29:15,560 --> 00:29:16,920
+Filippo Strozzi: il partizionamento Windows
+
+779
+00:29:17,160 --> 00:29:20,040
+Filippo Strozzi: nelle sue varie forme, che sono il DOS.
+
+780
+00:29:20,880 --> 00:29:21,920
+Filippo Strozzi: Il FAT e l'ex
+
+781
+00:29:22,080 --> 00:29:22,560
+Filippo Strozzi: FAT
+
+782
+00:29:22,720 --> 00:29:22,800
+Filippo Strozzi: ,
+
+783
+00:29:23,120 --> 00:29:27,440
+Filippo Strozzi: ma l'NSTF, credo che sia la sigla.
+
+784
+00:29:27,440 --> 00:29:29,680
+Filippo Strozzi: Lo riesce solo a leggere ma non a scrivere.
+
+785
+00:29:29,680 --> 00:29:31,600
+Filippo Strozzi: Quindi c'è anche quel piccolo problema
+
+786
+00:29:31,840 --> 00:29:34,640
+Filippo Strozzi: lì: cioè riesce a leggere i dati.
+
+787
+00:29:34,419 --> 00:29:37,539
+Filippo Strozzi: di Windows ma non riesce a scriverci
+
+788
+00:29:37,700 --> 00:29:41,059
+Filippo Strozzi: e per fare questo anche qui bisogna acquistare un
+
+789
+00:29:41,299 --> 00:29:42,260
+Filippo Strozzi: software a posto
+
+790
+00:29:42,419 --> 00:29:43,059
+Filippo Strozzi: comunque
+
+791
+00:29:43,340 --> 00:29:45,660
+Filippo Strozzi: È un'ipotesi tendenzialmente
+
+792
+00:29:45,820 --> 00:29:47,820
+Filippo Strozzi: per chi veramente deve vivere
+
+793
+00:29:47,980 --> 00:29:49,660
+Filippo Strozzi: in maniera molto specifica
+
+794
+00:29:49,820 --> 00:29:51,980
+Filippo Strozzi: a cavallo dei due mondi.
+
+795
+00:29:51,840 --> 00:29:52,480
+Filippo Strozzi: Perché
+
+796
+00:29:52,720 --> 00:30:01,679
+Filippo Strozzi: anche qui, per esempio, per accedere al server Windows non ci sono problemi perché il protocollo Samba, che è il protocollo di comunicazione, diciamo
+
+797
+00:30:02,080 --> 00:30:03,039
+Filippo Strozzi: di rete
+
+798
+00:30:03,360 --> 00:30:04,480
+Filippo Strozzi: Microsoft
+
+799
+00:30:04,799 --> 00:30:08,160
+Filippo Strozzi: è stato ampiamente sviscerato ed è compatibile
+
+800
+00:30:08,480 --> 00:30:10,080
+Filippo Strozzi: con la tecnologia Apple
+
+801
+00:30:10,240 --> 00:30:10,480
+Filippo Strozzi: quindi
+
+802
+00:30:10,500 --> 00:30:12,420
+Filippo Strozzi: non ci sono nessun tipo di problemi
+
+803
+00:30:12,660 --> 00:30:16,660
+Filippo Strozzi: originariamente per esempio io accedevo a un server Windows dal mio Mac
+
+804
+00:30:16,900 --> 00:30:18,420
+Filippo Strozzi: senza nessun tipo di problema
+
+805
+00:30:19,380 --> 00:30:21,780
+Filippo Strozzi: che condivideva poi tutti i dati dell'ufficio
+
+806
+00:30:22,060 --> 00:30:22,700
+Filippo Strozzi: estremasia.
+
+807
+00:30:22,780 --> 00:30:26,860
+Filippo Strozzi: Vedendo invece alle macchine virtuali, sì, Roberto l'ha già detto, in pratica
+
+808
+00:30:27,260 --> 00:30:27,580
+Filippo Strozzi: in V
+
+809
+00:30:27,740 --> 00:30:29,820
+Filippo Strozzi: Bootcamp prende.
+
+810
+00:30:29,820 --> 00:30:30,140
+Filippo Strozzi: .
+
+811
+00:30:30,140 --> 00:30:33,340
+Filippo Strozzi: Il sistema operativo nativo è Windows.
+
+812
+00:30:33,340 --> 00:30:38,380
+Filippo Strozzi: Quindi Windows è collegato direttamente all'hardware della macchina, prende il 100%
+
+813
+00:30:38,940 --> 00:30:41,740
+Filippo Strozzi: della potenza di calcolo del sistema, della RAM
+
+814
+00:30:41,900 --> 00:30:43,340
+Filippo Strozzi: e così via.
+
+815
+00:30:42,860 --> 00:30:44,139
+Filippo Strozzi: e utilizza il Mac
+
+816
+00:30:44,460 --> 00:30:46,940
+Filippo Strozzi: come se fosse un qualunque pc.
+
+817
+00:30:46,940 --> 00:30:51,019
+Filippo Strozzi: Le macchine virtuali invece sono una soluzione software
+
+818
+00:30:50,960 --> 00:30:51,520
+Filippo Strozzi: e sono
+
+819
+00:30:51,840 --> 00:30:51,920
+Filippo Strozzi: una
+
+820
+00:30:52,080 --> 00:30:54,800
+Filippo Strozzi: soluzione alternativa, cioè all'interno di MECOS
+
+821
+00:30:55,120 --> 00:31:02,480
+Filippo Strozzi: possiamo far girare dei sistemi operativi ospiti, virtuali ovviamente, e possiamo
+
+822
+00:31:02,640 --> 00:31:03,600
+Filippo Strozzi: decidere
+
+823
+00:31:03,640 --> 00:31:05,800
+Filippo Strozzi: Appunto, attraverso questo
+
+824
+00:31:05,960 --> 00:31:06,760
+Filippo Strozzi: software,
+
+825
+00:31:07,400 --> 00:31:07,640
+Filippo Strozzi: quanto
+
+826
+00:31:08,120 --> 00:31:08,920
+Filippo Strozzi: hardware
+
+827
+00:31:09,080 --> 00:31:12,600
+Filippo Strozzi: della macchina principale, quindi del sistema operativo MECOS,
+
+828
+00:31:12,840 --> 00:31:13,160
+Filippo Strozzi: dare
+
+829
+00:31:13,320 --> 00:31:15,960
+Filippo Strozzi: in gestione alla macchina virtuale.
+
+830
+00:31:15,840 --> 00:31:20,080
+Filippo Strozzi: La virtualizzazione, ovviamente, essendo un software,
+
+831
+00:31:20,720 --> 00:31:21,360
+Filippo Strozzi: consuma
+
+832
+00:31:21,520 --> 00:31:22,240
+Filippo Strozzi: risorse
+
+833
+00:31:22,480 --> 00:31:23,039
+Filippo Strozzi: di fatto
+
+834
+00:31:23,200 --> 00:31:24,080
+Filippo Strozzi: e quindi.
+
+835
+00:31:24,140 --> 00:31:27,740
+Filippo Strozzi: A parità di prestazioni, a parità di hardware, anche
+
+836
+00:31:28,540 --> 00:31:32,300
+Filippo Strozzi: limitato, è ovvio che la macchina virtuale è meno performante
+
+837
+00:31:32,620 --> 00:31:33,660
+Filippo Strozzi: di un computer
+
+838
+00:31:33,820 --> 00:31:37,420
+Filippo Strozzi: con sopra installato Windows direttamente sull'hardware.
+
+839
+00:31:36,840 --> 00:31:43,640
+Filippo Strozzi: Questo è da tenere ben presente, però ha il vantaggio che la macchina virtuale di fatto è un software, quindi
+
+840
+00:31:43,880 --> 00:31:46,840
+Filippo Strozzi: come un qualsiasi programma si può spegnere e accendere.
+
+841
+00:31:46,840 --> 00:31:50,280
+Filippo Strozzi: Quindi se mi serve saltuariamente Windows,
+
+842
+00:31:49,300 --> 00:31:51,220
+Filippo Strozzi: E non voglio riavviare il Mac, ecco
+
+843
+00:31:51,380 --> 00:31:52,100
+Filippo Strozzi: l'altra
+
+844
+00:31:52,260 --> 00:31:53,300
+Filippo Strozzi: particolarità,
+
+845
+00:31:53,700 --> 00:31:58,740
+Filippo Strozzi: chiamiamola così, scomodità di bootcamp è che io devo riavviare ogni volta la macchina.
+
+846
+00:31:58,740 --> 00:31:59,780
+Filippo Strozzi: Cioè se da Mac
+
+847
+00:31:59,940 --> 00:32:01,060
+Filippo Strozzi: voglio passare a Windows
+
+848
+00:32:01,220 --> 00:32:03,620
+Filippo Strozzi: devo spegnere il Mac, o meglio.
+
+849
+00:32:03,460 --> 00:32:05,460
+Filippo Strozzi: spegnere il sistema operativo macOS
+
+850
+00:32:05,620 --> 00:32:06,420
+Filippo Strozzi: spegnere il Mac
+
+851
+00:32:06,660 --> 00:32:07,860
+Filippo Strozzi: ovviamente nel contempo
+
+852
+00:32:08,020 --> 00:32:09,060
+Filippo Strozzi: riavviare il Mac
+
+853
+00:32:09,620 --> 00:32:10,580
+Filippo Strozzi: scegliere la
+
+854
+00:32:11,580 --> 00:32:18,140
+Filippo Strozzi: La partizione Windows, far caricare Windows con tutti i tempi d'attesa, ovviamente, della chiusura e dell'apertura del sistema operativo
+
+855
+00:32:18,300 --> 00:32:19,740
+Filippo Strozzi: e poi mettermi a lavorare.
+
+856
+00:32:19,740 --> 00:32:21,180
+Filippo Strozzi: Quindi è ovvio che
+
+857
+00:32:21,500 --> 00:32:25,820
+Filippo Strozzi: c'è un'interruzione nel flusso di lavoro da tenere presente.
+
+858
+00:32:25,300 --> 00:32:26,660
+Filippo Strozzi: La macchina virtuale
+
+859
+00:32:26,820 --> 00:32:33,460
+Filippo Strozzi: quindi ha lo svantaggio di essere meno potente nella sostanza, per esempio soprattutto la grafica 3D
+
+860
+00:32:33,820 --> 00:32:34,140
+Filippo Strozzi: Su
+
+861
+00:32:34,300 --> 00:32:35,340
+Filippo Strozzi: virtualizzazione
+
+862
+00:32:35,660 --> 00:32:38,700
+Filippo Strozzi: fa fatica ad andare, o comunque non è
+
+863
+00:32:38,860 --> 00:32:40,140
+Filippo Strozzi: scattante come
+
+864
+00:32:40,780 --> 00:32:42,860
+Filippo Strozzi: sull'hardware fisico, a meno
+
+865
+00:32:43,340 --> 00:32:46,060
+Filippo Strozzi: di non avere delle macchine veramente molto
+
+866
+00:32:46,220 --> 00:32:46,460
+Filippo Strozzi: molto
+
+867
+00:32:46,940 --> 00:32:48,220
+Filippo Strozzi: performanti.
+
+868
+00:32:49,059 --> 00:32:50,500
+Filippo Strozzi: però ha il vantaggio che
+
+869
+00:32:50,660 --> 00:32:51,299
+Filippo Strozzi: appunto
+
+870
+00:32:51,940 --> 00:32:56,900
+Filippo Strozzi: ne ho bisogno, non la utilizzo, ne ho bisogno, l'accendo 10 minuti e poi dopo la spengo
+
+871
+00:32:57,059 --> 00:32:58,980
+Filippo Strozzi: e quindi poi alla fine.
+
+872
+00:32:58,980 --> 00:33:00,580
+Filippo Strozzi: Per esempio nel mio ambito
+
+873
+00:33:00,820 --> 00:33:01,140
+Filippo Strozzi: dove
+
+874
+00:33:01,940 --> 00:33:03,140
+Filippo Strozzi: eventualmente appunto
+
+875
+00:33:03,380 --> 00:33:08,020
+Filippo Strozzi: inizialmente il PCT per esempio io lo utilizzavo attraverso le macchine virtuali perché su Mac
+
+876
+00:33:08,260 --> 00:33:10,180
+Filippo Strozzi: non sapevo come si faceva.
+
+877
+00:33:10,100 --> 00:33:11,220
+Filippo Strozzi: Quindi utilizzavo
+
+878
+00:33:11,380 --> 00:33:12,260
+Filippo Strozzi: Windows
+
+879
+00:33:12,580 --> 00:33:16,740
+Filippo Strozzi: per poter accedere al PCT, alle ferme digitali e così via.
+
+880
+00:33:16,740 --> 00:33:18,980
+Filippo Strozzi: Perché poi le macchine virtuali di fatto
+
+881
+00:33:19,299 --> 00:33:22,419
+Filippo Strozzi: possono pescare le periferiche collegate
+
+882
+00:33:22,740 --> 00:33:23,620
+Filippo Strozzi: al.
+
+883
+00:33:24,000 --> 00:33:24,880
+Filippo Strozzi: Macintosh
+
+884
+00:33:25,520 --> 00:33:25,840
+Filippo Strozzi: e
+
+885
+00:33:26,559 --> 00:33:27,039
+Filippo Strozzi: appunto
+
+886
+00:33:27,200 --> 00:33:30,559
+Filippo Strozzi: catturarle e gestirle direttamente nel sistema virtuale.
+
+887
+00:33:30,559 --> 00:33:34,480
+Filippo Strozzi: Quindi è un sistema abbastanza evoluto che ovviamente richiede un minimo di.
+
+888
+00:33:35,180 --> 00:33:37,100
+Filippo Strozzi: Di apprendimento anche perché
+
+889
+00:33:37,340 --> 00:33:40,060
+Filippo Strozzi: i vari sistemi di cui vi parlerò adesso
+
+890
+00:33:40,300 --> 00:33:42,300
+Filippo Strozzi: danno anche la possibilità di
+
+891
+00:33:42,660 --> 00:33:42,820
+Filippo Strozzi: far
+
+892
+00:33:42,980 --> 00:33:46,340
+Filippo Strozzi: convivere i due sistemi operativi l'uno con l'altro.
+
+893
+00:33:46,340 --> 00:33:53,140
+Filippo Strozzi: Esistono varie funzioni in parallel come in VMware, che sono questi due software di virtualizzazione.
+
+894
+00:33:54,100 --> 00:34:00,180
+Filippo Strozzi: che permettono di avere le applicazioni Windows come se fossero applicazioni Mac, cioè
+
+895
+00:34:00,340 --> 00:34:03,940
+Filippo Strozzi: in parallel credo che venga chiamata coerenza, cioè
+
+896
+00:34:04,000 --> 00:34:11,679
+Filippo Strozzi: In estrema sintesi, per esempio, volete Explorer, far funzionare Explorer come finestra, chiamiamola così, come applicazione a finestra
+
+897
+00:34:11,840 --> 00:34:12,639
+Filippo Strozzi: di Mecos
+
+898
+00:34:12,859 --> 00:34:15,820
+Filippo Strozzi: è possibile farlo attraverso questo sistema
+
+899
+00:34:16,139 --> 00:34:18,139
+Filippo Strozzi: di coerenza e così via.
+
+900
+00:34:18,139 --> 00:34:20,540
+Filippo Strozzi: Io non l'ho mai amato particolarmente
+
+901
+00:34:21,560 --> 00:34:29,399
+Filippo Strozzi: Ho sempre apprezzato avere Windows nella sua finestra complessiva e all'interno di Windows avere tutti gli applicativi Windows.
+
+902
+00:34:29,200 --> 00:34:30,879
+Filippo Strozzi: Però è un sistema
+
+903
+00:34:31,200 --> 00:34:31,839
+Filippo Strozzi: e anche
+
+904
+00:34:32,159 --> 00:34:36,399
+Filippo Strozzi: queste macchine virtuali, spesso e volentieri, danno la possibilità di condividere
+
+905
+00:34:36,720 --> 00:34:38,320
+Filippo Strozzi: le cartelle, chiamiamolo
+
+906
+00:34:38,480 --> 00:34:39,440
+Filippo Strozzi: così.
+
+907
+00:34:39,000 --> 00:34:39,159
+Filippo Strozzi: E
+
+908
+00:34:39,320 --> 00:34:42,440
+Filippo Strozzi: quindi di permettere di dialogare tra una macchina e l'altra, quindi casomai
+
+909
+00:34:42,600 --> 00:34:43,720
+Filippo Strozzi: genero un file in Windows
+
+910
+00:34:43,879 --> 00:34:47,879
+Filippo Strozzi: lo posso prendere e utilizzare poi,
+
+911
+00:34:46,960 --> 00:34:47,760
+Filippo Strozzi: su Mecos
+
+912
+00:34:48,160 --> 00:34:49,600
+Filippo Strozzi: in maniera trasparente
+
+913
+00:34:50,080 --> 00:34:52,240
+Filippo Strozzi: senza fare particolari configurazioni.
+
+914
+00:34:52,240 --> 00:34:57,840
+Filippo Strozzi: Quindi il vantaggio grosso di queste soluzioni è che bene o male rendono trasparenti un sistema
+
+915
+00:34:58,000 --> 00:34:59,280
+Filippo Strozzi: con l'altro.
+
+916
+00:34:58,680 --> 00:35:02,360
+Filippo Strozzi: Le ho già nominati, quindi ne parlo adesso velocemente.
+
+917
+00:35:02,360 --> 00:35:03,080
+Filippo Strozzi: Parallels
+
+918
+00:35:03,320 --> 00:35:04,920
+Filippo Strozzi: è un software a pagamento
+
+919
+00:35:05,240 --> 00:35:05,320
+Filippo Strozzi: ,
+
+920
+00:35:05,880 --> 00:35:06,520
+Filippo Strozzi: come tutti
+
+921
+00:35:06,760 --> 00:35:09,800
+Filippo Strozzi: questi software, la cosa fastidiosa, sia
+
+922
+00:35:09,960 --> 00:35:10,840
+Filippo Strozzi: parallels che
+
+923
+00:35:11,000 --> 00:35:12,600
+Filippo Strozzi: VMware.
+
+924
+00:35:12,140 --> 00:35:15,980
+Filippo Strozzi: Che in pratica ogni anno con ogni nuovo sistema operativo Apple
+
+925
+00:35:16,220 --> 00:35:18,140
+Filippo Strozzi: ne esce una nuova versione.
+
+926
+00:35:18,140 --> 00:35:22,859
+Filippo Strozzi: E se volete passare al nuovo sistema operativo Apple, dovete comprarvi la versione aggiornata
+
+927
+00:35:23,020 --> 00:35:24,059
+Filippo Strozzi: con un upgrade
+
+928
+00:35:24,220 --> 00:35:26,619
+Filippo Strozzi: intorno ai 50-70 euro.
+
+929
+00:35:26,720 --> 00:35:27,039
+Filippo Strozzi: Di
+
+930
+00:35:27,200 --> 00:35:27,440
+Filippo Strozzi: questo
+
+931
+00:35:27,599 --> 00:35:29,119
+Filippo Strozzi: software a pagamento,
+
+932
+00:35:29,599 --> 00:35:30,960
+Filippo Strozzi: una bella gabella,
+
+933
+00:35:31,200 --> 00:35:33,359
+Filippo Strozzi: esatto, esatto, che non è una cosa
+
+934
+00:35:33,680 --> 00:35:35,200
+Filippo Strozzi: meravigliosa.
+
+935
+00:35:35,660 --> 00:35:36,780
+Filippo Strozzi: Infatti io
+
+936
+00:35:37,100 --> 00:35:41,660
+Filippo Strozzi: attualmente, dopo un primo tentendamento, sono andato
+
+937
+00:35:41,820 --> 00:35:44,780
+Filippo Strozzi: con l'utilizzo di VirtualBox, che è un software
+
+938
+00:35:45,180 --> 00:35:48,940
+Filippo Strozzi: di Oracle, ma è open source, quindi è gratuito.
+
+939
+00:35:49,240 --> 00:35:49,480
+Filippo Strozzi: è
+
+940
+00:35:49,800 --> 00:35:50,440
+Filippo Strozzi: meno
+
+941
+00:35:50,760 --> 00:35:51,560
+Filippo Strozzi: friendly
+
+942
+00:35:51,720 --> 00:35:52,200
+Filippo Strozzi: diciamo
+
+943
+00:35:52,360 --> 00:35:57,000
+Filippo Strozzi: di VMware e Parallel, ovviamente loro sono a pagamento, questo no
+
+944
+00:35:57,200 --> 00:36:02,480
+Filippo Strozzi: Però una volta che si inizia a utilizzarlo in maniera appropriata
+
+945
+00:36:03,119 --> 00:36:03,440
+Filippo Strozzi: e
+
+946
+00:36:03,680 --> 00:36:05,040
+Filippo Strozzi: spulciando un po' su internet
+
+947
+00:36:05,200 --> 00:36:08,320
+Filippo Strozzi: sono riuscito a fare anche delle cose abbastanza interessanti.
+
+948
+00:36:08,520 --> 00:36:09,960
+Filippo Strozzi: non entro qua nel dettaglio perché
+
+949
+00:36:10,119 --> 00:36:11,160
+Filippo Strozzi: è una roba un po
+
+950
+00:36:12,599 --> 00:36:13,000
+Filippo Strozzi: un po
+
+951
+00:36:13,160 --> 00:36:14,359
+Filippo Strozzi: molto avanzata
+
+952
+00:36:14,760 --> 00:36:15,400
+Filippo Strozzi: però
+
+953
+00:36:16,420 --> 00:36:21,620
+Filippo Strozzi: È un sistema che comunque si presta a un'integrazione anche spinta tra Mac
+
+954
+00:36:22,020 --> 00:36:26,500
+Filippo Strozzi: e Windows, quindi ha le principali funzioni degli altri, è gratuito.
+
+955
+00:36:26,100 --> 00:36:28,100
+Filippo Strozzi: e quindi vi permette anche di
+
+956
+00:36:28,340 --> 00:36:31,460
+Filippo Strozzi: non avere la solita gabella da pagare
+
+957
+00:36:31,620 --> 00:36:34,660
+Filippo Strozzi: ogni volta che aggiornate il vostro sistema operativo
+
+958
+00:36:34,620 --> 00:36:35,260
+Filippo Strozzi: chiudo
+
+959
+00:36:35,580 --> 00:36:35,900
+Filippo Strozzi: con
+
+960
+00:36:37,180 --> 00:36:38,620
+Filippo Strozzi: un passaggio laterale
+
+961
+00:36:38,780 --> 00:36:40,140
+Filippo Strozzi: Windows su M1
+
+962
+00:36:40,620 --> 00:36:43,100
+Filippo Strozzi: attualmente ovviamente il processore M1
+
+963
+00:36:44,020 --> 00:36:46,900
+Filippo Strozzi: Di Apple è un processore ARM, quindi
+
+964
+00:36:47,140 --> 00:36:48,180
+Filippo Strozzi: Windows e
+
+965
+00:36:48,660 --> 00:36:53,140
+Filippo Strozzi: tutta una serie di altri software non sono compatibili teoricamente.
+
+966
+00:36:53,460 --> 00:36:54,099
+Filippo Strozzi: Parallels
+
+967
+00:36:54,260 --> 00:36:56,020
+Filippo Strozzi: credo che ci stia lavorando ma non
+
+968
+00:36:56,180 --> 00:36:57,540
+Filippo Strozzi: abbia ancora.
+
+969
+00:36:57,340 --> 00:36:57,420
+Filippo Strozzi: fatto
+
+970
+00:36:57,580 --> 00:36:58,860
+Filippo Strozzi: un software apposta
+
+971
+00:36:59,180 --> 00:37:00,300
+Filippo Strozzi: per l'M1
+
+972
+00:37:00,700 --> 00:37:03,740
+Filippo Strozzi: anche se nelle presentazioni del primo M1
+
+973
+00:37:04,540 --> 00:37:04,700
+Filippo Strozzi: al
+
+974
+00:37:04,860 --> 00:37:05,900
+Filippo Strozzi: Worldwide
+
+975
+00:37:07,620 --> 00:37:08,340
+Filippo Strozzi: developer
+
+976
+00:37:08,660 --> 00:37:09,700
+Filippo Strozzi: conference
+
+977
+00:37:11,300 --> 00:37:13,700
+Filippo Strozzi: c'era effettivamente la presentazione
+
+978
+00:37:13,940 --> 00:37:18,580
+Filippo Strozzi: l'anteprima di questo software di virtualizzazione che però ad oggi non è uscito da quel che
+
+979
+00:37:18,559 --> 00:37:19,520
+Filippo Strozzi: Ne so io.
+
+980
+00:37:19,520 --> 00:37:24,559
+Filippo Strozzi: Probabilmente se ascoltate dopo più avanti questa puntata sarà uscito.
+
+981
+00:37:25,119 --> 00:37:27,599
+Filippo Strozzi: Ci sono, però, degli accrocchi
+
+982
+00:37:27,920 --> 00:37:29,520
+Filippo Strozzi: fatti da vari sviluppatori
+
+983
+00:37:29,839 --> 00:37:32,640
+Filippo Strozzi: che permettono già di virtualizzare su.
+
+984
+00:37:33,980 --> 00:37:34,300
+Filippo Strozzi: Apple
+
+985
+00:37:34,540 --> 00:37:35,340
+Filippo Strozzi: Silicon
+
+986
+00:37:35,580 --> 00:37:41,180
+Filippo Strozzi: M1, questo attraverso tutta una serie di cose che non ha senso parlarne qua.
+
+987
+00:37:41,120 --> 00:37:41,440
+Filippo Strozzi: Ma
+
+988
+00:37:42,640 --> 00:37:43,520
+Filippo Strozzi: esistono già
+
+989
+00:37:43,680 --> 00:37:48,480
+Filippo Strozzi: vari software open source, ovviamente, che permettono di fare tutta una serie di cose.
+
+990
+00:37:48,940 --> 00:37:50,940
+Filippo Strozzi: tendenzialmente dedicato a persone
+
+991
+00:37:51,260 --> 00:37:51,579
+Filippo Strozzi: che
+
+992
+00:37:52,460 --> 00:37:55,020
+Filippo Strozzi: sono smanettoni e che vogliono comunque
+
+993
+00:37:55,180 --> 00:37:57,420
+Filippo Strozzi: perdere il tempo per svegliare
+
+994
+00:37:57,620 --> 00:38:04,180
+Filippo Strozzi: installare Windows su Mac, la cosa particolare è che bisogna installare la versione ARM di Windows.
+
+995
+00:38:04,180 --> 00:38:04,500
+Filippo Strozzi: Questo
+
+996
+00:38:04,820 --> 00:38:06,740
+Filippo Strozzi: attualmente è un limite
+
+997
+00:38:06,859 --> 00:38:07,180
+Filippo Strozzi: perché
+
+998
+00:38:07,660 --> 00:38:09,020
+Filippo Strozzi: in estrema sintesi
+
+999
+00:38:09,180 --> 00:38:15,020
+Filippo Strozzi: da quello che ne so io, non essendo un grande utente Windows, la versione Windows Arma
+
+1000
+00:38:16,680 --> 00:38:18,839
+Filippo Strozzi: ha meno compatibilità rispetto
+
+1001
+00:38:19,240 --> 00:38:25,079
+Filippo Strozzi: quindi ci sono meno software rispetto a quelli presenti invece nel mondo complessivo di Windows
+
+1002
+00:38:25,400 --> 00:38:26,200
+Filippo Strozzi: per Intel
+
+1003
+00:38:27,160 --> 00:38:29,000
+Filippo Strozzi: cioè x86
+
+1004
+00:38:29,320 --> 00:38:31,400
+Filippo Strozzi: e quindi è da tenere presente
+
+1005
+00:38:31,720 --> 00:38:32,920
+Filippo Strozzi: in varie maniere
+
+1006
+00:38:33,080 --> 00:38:34,840
+Filippo Strozzi: diciamo che per ora secondo me
+
+1007
+00:38:35,000 --> 00:38:38,280
+Filippo Strozzi: è un gioco per chi è appassionato di queste cose
+
+1008
+00:38:38,559 --> 00:38:44,319
+Filippo Strozzi: ma non credo che possa diventare uno strumento di lavoro quotidiano, soprattutto se avete le esigenze
+
+1009
+00:38:44,960 --> 00:38:45,279
+Filippo Strozzi: di
+
+1010
+00:38:45,599 --> 00:38:46,799
+Filippo Strozzi: vivere a cavallo
+
+1011
+00:38:46,960 --> 00:38:48,559
+Filippo Strozzi: tra Windows e Mac.
+
+1012
+00:38:48,720 --> 00:38:52,400
+Filippo Strozzi: Se invece non avete queste esigenze e vi volete divertire, allora li
+
+1013
+00:38:52,559 --> 00:38:53,359
+Filippo Strozzi: ha più senso, infatti
+
+1014
+00:38:53,520 --> 00:38:53,680
+Filippo Strozzi: anche
+
+1015
+00:38:53,839 --> 00:38:57,359
+Filippo Strozzi: i processori M1, da quel punto di vista lì.
+
+1016
+00:38:56,800 --> 00:38:56,960
+Filippo Strozzi: Ne
+
+1017
+00:38:57,120 --> 00:38:58,960
+Filippo Strozzi: abbiamo parlato la volta scorsa.
+
+1018
+00:38:58,960 --> 00:39:00,720
+Filippo Strozzi: Ma c'è da valutare appunto
+
+1019
+00:39:00,880 --> 00:39:01,200
+Filippo Strozzi: se
+
+1020
+00:39:01,360 --> 00:39:04,560
+Filippo Strozzi: avete la necessità di utilizzare Windows a tutti i costi.
+
+1021
+00:39:04,560 --> 00:39:07,040
+Filippo Strozzi: Poi esistono svariate soluzioni: cioè
+
+1022
+00:39:07,200 --> 00:39:11,680
+Filippo Strozzi: per esempio, potete collegarvi a una macchina Windows su un altro computer.
+
+1023
+00:39:11,740 --> 00:39:14,940
+Filippo Strozzi: quindi se passate dal vostro vecchio pc al Mac
+
+1024
+00:39:15,260 --> 00:39:15,900
+Filippo Strozzi: volete già
+
+1025
+00:39:16,540 --> 00:39:18,700
+Filippo Strozzi: comprare l'M1 è possibile farlo
+
+1026
+00:39:19,660 --> 00:39:20,940
+Filippo Strozzi: vi dovrete però
+
+1027
+00:39:21,160 --> 00:39:22,520
+Filippo Strozzi: collegare in remoto
+
+1028
+00:39:22,680 --> 00:39:24,840
+Filippo Strozzi: sulla macchina vecchia diciamo
+
+1029
+00:39:25,000 --> 00:39:26,200
+Filippo Strozzi: dove avete ancora tutto
+
+1030
+00:39:26,360 --> 00:39:29,080
+Filippo Strozzi: quindi questo è possibile farlo un'altra soluzione
+
+1031
+00:39:29,240 --> 00:39:30,200
+Filippo Strozzi: è possibile
+
+1032
+00:39:30,540 --> 00:39:32,860
+Filippo Strozzi: e a questo punto direi che avendo
+
+1033
+00:39:33,020 --> 00:39:33,820
+Filippo Strozzi: ah no,
+
+1034
+00:39:34,060 --> 00:39:34,460
+Filippo Strozzi: eh sì
+
+1035
+00:39:34,620 --> 00:39:35,900
+Filippo Strozzi: avendo quasi finito
+
+1036
+00:39:36,060 --> 00:39:37,500
+Filippo Strozzi: passiamo invece alla
+
+1037
+00:39:38,000 --> 00:39:40,720
+Filippo Strozzi: lo step successivo, cioè se siete utenti Mac
+
+1038
+00:39:40,960 --> 00:39:42,320
+Filippo Strozzi: e volete passare a un nuovo Mac
+
+1039
+00:39:42,640 --> 00:39:44,080
+Filippo Strozzi: che cosa che cosa fare?
+
+1040
+00:39:44,080 --> 00:39:46,800
+Filippo Strozzi: Che credo comunque possa essere un qualcosa
+
+1041
+00:39:47,560 --> 00:39:49,960
+Filippo Strozzi: Di utile, lo trovi Roberto?
+
+1042
+00:39:49,960 --> 00:39:50,920
+Roberto Marin: Sì, esattamente.
+
+1043
+00:39:50,920 --> 00:39:55,400
+Roberto Marin: Aggiungo ancora un paio di cose riguardo al capitolo precedente.
+
+1044
+00:39:56,360 --> 00:39:57,000
+Roberto Marin: Parallels
+
+1045
+00:39:57,160 --> 00:39:59,480
+Roberto Marin: , non mi è mai piaciuto perché.
+
+1046
+00:39:59,440 --> 00:40:00,800
+Roberto Marin: C'è una grossa
+
+1047
+00:40:01,040 --> 00:40:05,119
+Roberto Marin: confusione tra i due sistemi operativi, nel senso che tendono a essere
+
+1048
+00:40:05,359 --> 00:40:06,640
+Roberto Marin: un po' fusi
+
+1049
+00:40:06,800 --> 00:40:08,720
+Roberto Marin: insieme, e a me non è mai piaciuto.
+
+1050
+00:40:08,720 --> 00:40:10,400
+Roberto Marin: Preferivo un approccio come quello di.
+
+1051
+00:40:10,640 --> 00:40:11,119
+Roberto Marin: Volutamente,
+
+1052
+00:40:11,280 --> 00:40:12,480
+Roberto Marin: sì, sì, sì, volutamente, in modo
+
+1053
+00:40:12,640 --> 00:40:13,839
+Roberto Marin: tale da avere.
+
+1054
+00:40:13,359 --> 00:40:15,599
+Roberto Marin: le applicazioni che partono in un ambiente Mac
+
+1055
+00:40:15,920 --> 00:40:16,560
+Roberto Marin: non te ne rendi
+
+1056
+00:40:16,960 --> 00:40:18,800
+Roberto Marin: neanche conto che sono di Windows
+
+1057
+00:40:18,960 --> 00:40:20,400
+Roberto Marin: ma io visto che voglio renderne
+
+1058
+00:40:20,640 --> 00:40:21,920
+Roberto Marin: conto cos'è che gira su Windows
+
+1059
+00:40:22,079 --> 00:40:23,440
+Roberto Marin: non mi è mai piaciuto
+
+1060
+00:40:23,100 --> 00:40:24,780
+Roberto Marin: e anch'io ho sposato
+
+1061
+00:40:25,100 --> 00:40:27,900
+Roberto Marin: VirtualBox per le virtualizzazioni
+
+1062
+00:40:28,060 --> 00:40:29,420
+Roberto Marin: che tutto sommato se la
+
+1063
+00:40:29,580 --> 00:40:31,980
+Roberto Marin: cava parecchio bene non è un grosso problema
+
+1064
+00:40:32,100 --> 00:40:33,300
+Roberto Marin: Quello che volevo dire è
+
+1065
+00:40:33,460 --> 00:40:34,740
+Roberto Marin: un'altra cosa molto
+
+1066
+00:40:35,060 --> 00:40:35,380
+Roberto Marin: importante
+
+1067
+00:40:35,700 --> 00:40:39,780
+Roberto Marin: per quanto riguarda i sistemi virtualizzati è che voi potete fare
+
+1068
+00:40:40,100 --> 00:40:42,020
+Roberto Marin: il backup.
+
+1069
+00:40:41,680 --> 00:40:46,160
+Roberto Marin: Chiamiamolo così, della macchina virtuale, semplicemente spostando un file.
+
+1070
+00:40:46,160 --> 00:40:49,680
+Roberto Marin: Ad esempio, con VirtualBox, se non mi sbaglio, l'estensione dovrebbe
+
+1071
+00:40:49,840 --> 00:40:54,080
+Roberto Marin: essere VXD o qualcosa del genere, comunque.
+
+1072
+00:40:53,400 --> 00:40:56,599
+Roberto Marin: La vedete subito.
+
+1073
+00:40:56,599 --> 00:41:00,440
+Roberto Marin: Quindi voi potete trasferire questo file come backup.
+
+1074
+00:41:00,440 --> 00:41:00,920
+Roberto Marin: Io, per esempio,
+
+1075
+00:41:01,079 --> 00:41:03,480
+Roberto Marin: qua il backup vecchia delle mie vecchie
+
+1076
+00:41:03,960 --> 00:41:05,240
+Roberto Marin: macchine virtuali, ce ho
+
+1077
+00:41:05,400 --> 00:41:06,200
+Roberto Marin: direttamente
+
+1078
+00:41:06,200 --> 00:41:06,920
+Roberto Marin: su un hard disk
+
+1079
+00:41:07,240 --> 00:41:11,079
+Roberto Marin: esterno e nel momento in cui volete recuperare quella macchina virtuale
+
+1080
+00:41:11,240 --> 00:41:12,200
+Roberto Marin: è abbastanza semplice
+
+1081
+00:41:12,359 --> 00:41:14,680
+Roberto Marin: ve la riportate nella cartella in cui
+
+1082
+00:41:15,120 --> 00:41:21,520
+Roberto Marin: Virtual Box va a cercare le macchine virtuali e si riparte da capo senza grossi problemi.
+
+1083
+00:41:21,520 --> 00:41:22,720
+Roberto Marin: Questo è utile perché?
+
+1084
+00:41:22,720 --> 00:41:25,120
+Roberto Marin: Perché magari con sistemi.
+
+1085
+00:41:25,880 --> 00:41:26,119
+Roberto Marin: Mac
+
+1086
+00:41:26,520 --> 00:41:26,839
+Roberto Marin: base
+
+1087
+00:41:27,079 --> 00:41:28,920
+Roberto Marin: che hanno poco spazio sull'hard disk
+
+1088
+00:41:29,319 --> 00:41:31,559
+Roberto Marin: spostare una macchina virtuale è molto utile
+
+1089
+00:41:31,720 --> 00:41:35,880
+Roberto Marin: visto che se non mi ricordo male l'ultima che ho spostato portava via 20 giga
+
+1090
+00:41:35,800 --> 00:41:37,880
+Roberto Marin: E conseguentemente, se avete una disk
+
+1091
+00:41:38,040 --> 00:41:39,320
+Roberto Marin: da 128 GB,
+
+1092
+00:41:39,480 --> 00:41:41,880
+Filippo Strozzi: era anche piccolina, secondo me.
+
+1093
+00:41:41,880 --> 00:41:43,320
+Filippo Strozzi: Perché secondo me ormai viaggiano
+
+1094
+00:41:43,880 --> 00:41:44,440
+Filippo Strozzi: era molto ridotta
+
+1095
+00:41:44,600 --> 00:41:46,360
+Filippo Strozzi: al minimo, ormai anche
+
+1096
+00:41:46,520 --> 00:41:50,680
+Filippo Strozzi: 30 GB, ed è una cosa che effettivamente non avevo detto.
+
+1097
+00:41:50,559 --> 00:41:57,520
+Filippo Strozzi: Le macchine virtuali sono veramente un sistema operativo completo, quindi addirittura se caricate molti file per esempio all'interno del
+
+1098
+00:41:58,280 --> 00:41:58,440
+Filippo Strozzi: della
+
+1099
+00:41:58,599 --> 00:42:03,079
+Filippo Strozzi: macchina virtuale, la macchina virtuale cresce, cresce, cresce e quindi può diventare anche
+
+1100
+00:42:03,880 --> 00:42:05,240
+Filippo Strozzi: una macchina da 100 megabyte
+
+1101
+00:42:05,640 --> 00:42:06,520
+Filippo Strozzi: 100 gigabyte
+
+1102
+00:42:07,640 --> 00:42:09,400
+Filippo Strozzi: Quindi comunque è richiesto
+
+1103
+00:42:09,960 --> 00:42:14,920
+Filippo Strozzi: risorse hardware per farla funzionare bene, perché secondo me meno di 4 GB
+
+1104
+00:42:15,400 --> 00:42:16,520
+Filippo Strozzi: da dedicare a
+
+1105
+00:42:17,000 --> 00:42:18,440
+Filippo Strozzi: una macchina virtuale Windows
+
+1106
+00:42:18,599 --> 00:42:20,760
+Filippo Strozzi: sono niente in pratica.
+
+1107
+00:42:20,300 --> 00:42:21,420
+Filippo Strozzi: E quindi la macchina dopo
+
+1108
+00:42:21,580 --> 00:42:23,020
+Filippo Strozzi: sarebbe molto lenta.
+
+1109
+00:42:23,020 --> 00:42:23,500
+Filippo Strozzi: Ma anche
+
+1110
+00:42:24,460 --> 00:42:26,220
+Filippo Strozzi: lo spazio fisico su hard disk
+
+1111
+00:42:26,780 --> 00:42:28,620
+Filippo Strozzi: può diventare impegnativo, cioè già
+
+1112
+00:42:28,780 --> 00:42:30,780
+Filippo Strozzi: avere due macchine virtuali su
+
+1113
+00:42:31,340 --> 00:42:32,620
+Filippo Strozzi: un computer.
+
+1114
+00:42:32,840 --> 00:42:35,880
+Filippo Strozzi: Può essere impegnativo, soprattutto a livello di spazio,
+
+1115
+00:42:36,040 --> 00:42:37,080
+Filippo Strozzi: hai fatto bene a
+
+1116
+00:42:37,320 --> 00:42:38,280
+Filippo Strozzi: accennarne.
+
+1117
+00:42:38,280 --> 00:42:38,840
+Filippo Strozzi: Certamente.
+
+1118
+00:42:38,840 --> 00:42:45,400
+Roberto Marin: E poi un'altra cosa che, mentre Filippo parlava, sono andato a farmi un giro per vedere qual è la situazione di parallels.
+
+1119
+00:42:45,000 --> 00:42:49,080
+Roberto Marin: Se non sbaglio è ancora in versione beta, la versione per M1.
+
+1120
+00:42:49,080 --> 00:42:54,200
+Roberto Marin: Le ultime notizie che ho letto erano quelle di dicembre, mi pare che sia la versione 16.
+
+1121
+00:42:54,200 --> 00:42:55,160
+Roberto Marin: L'ho letto un po'
+
+1122
+00:42:55,720 --> 00:42:57,720
+Roberto Marin: molto velocemente, ma.
+
+1123
+00:42:57,200 --> 00:42:57,359
+Roberto Marin: come
+
+1124
+00:42:57,520 --> 00:42:59,040
+Roberto Marin: diceva giustamente buon filippo
+
+1125
+00:42:59,200 --> 00:43:01,440
+Roberto Marin: bisogna avere un windows per
+
+1126
+00:43:01,680 --> 00:43:02,320
+Roberto Marin: arma
+
+1127
+00:43:02,720 --> 00:43:03,040
+Roberto Marin: quindi
+
+1128
+00:43:03,200 --> 00:43:05,440
+Roberto Marin: una versione molto particolare
+
+1129
+00:43:05,400 --> 00:43:10,680
+Roberto Marin: Che non è neanche facile da ritrovare in giro per la rete o richiedere a Microsoft.
+
+1130
+00:43:10,680 --> 00:43:14,039
+Roberto Marin: Comunque, detto questo, questi primi accenni
+
+1131
+00:43:14,200 --> 00:43:18,440
+Roberto Marin: iniziamo a pensare invece a chi vuole trasferire i dati da
+
+1132
+00:43:18,760 --> 00:43:19,079
+Roberto Marin: un
+
+1133
+00:43:21,300 --> 00:43:23,140
+Roberto Marin: diciamo da una vecchia macchina Mac
+
+1134
+00:43:23,460 --> 00:43:24,260
+Roberto Marin: a un nuovo Mac
+
+1135
+00:43:24,820 --> 00:43:25,060
+Roberto Marin: questo
+
+1136
+00:43:25,300 --> 00:43:25,940
+Roberto Marin: per fortuna
+
+1137
+00:43:26,100 --> 00:43:26,980
+Roberto Marin: è molto semplice
+
+1138
+00:43:27,140 --> 00:43:28,180
+Roberto Marin: io mi sono ritrovato
+
+1139
+00:43:28,340 --> 00:43:29,940
+Roberto Marin: in mezzo più e più volte
+
+1140
+00:43:30,180 --> 00:43:31,780
+Roberto Marin: visto che i miei trascorsi
+
+1141
+00:43:32,220 --> 00:43:32,539
+Roberto Marin: di
+
+1142
+00:43:33,180 --> 00:43:34,140
+Roberto Marin: utente
+
+1143
+00:43:34,460 --> 00:43:36,299
+Roberto Marin: macintosh riguardano
+
+1144
+00:43:36,539 --> 00:43:37,180
+Roberto Marin: il primo Mac
+
+1145
+00:43:37,420 --> 00:43:38,299
+Roberto Marin: che avevo era una i
+
+1146
+00:43:38,460 --> 00:43:38,539
+Roberto Marin: Mac
+
+1147
+00:43:38,859 --> 00:43:41,500
+Roberto Marin: e lì ho fatto i miei esperimenti con boot camp
+
+1148
+00:43:41,820 --> 00:43:42,140
+Roberto Marin: e
+
+1149
+00:43:42,780 --> 00:43:44,940
+Roberto Marin: basta perché lì c'era solo boot camp
+
+1150
+00:43:45,100 --> 00:43:49,980
+Roberto Marin: mentre nel secondo ho iniziato a usare il MacBook Air del 2010
+
+1151
+00:43:50,220 --> 00:43:52,300
+Roberto Marin: con le macchine virtuali
+
+1152
+00:43:51,900 --> 00:43:53,660
+Roberto Marin: Dopodiché da lì in avanti
+
+1153
+00:43:53,980 --> 00:44:00,140
+Roberto Marin: semplicemente ho iniziato a usare sempre di più il Macintosh, quindi anche le macchine virtuali dopo un po' le ho anche salutate.
+
+1154
+00:44:00,160 --> 00:44:01,200
+Roberto Marin: Di conseguenza
+
+1155
+00:44:01,440 --> 00:44:03,440
+Roberto Marin: può capitare che chi cambia
+
+1156
+00:44:03,680 --> 00:44:03,920
+Roberto Marin: Mac
+
+1157
+00:44:04,400 --> 00:44:07,600
+Roberto Marin: si trova di fronte all'alnoso problema.
+
+1158
+00:44:07,600 --> 00:44:08,880
+Roberto Marin: Riparto da capo
+
+1159
+00:44:09,040 --> 00:44:13,680
+Roberto Marin: oppure utilizzo il backup che mi sono fatto con Time Machine.
+
+1160
+00:44:13,300 --> 00:44:18,740
+Roberto Marin: Bene, per chi non è utente Macintosh esiste un sistema che si chiama Time Machine
+
+1161
+00:44:18,900 --> 00:44:22,180
+Roberto Marin: che permette di avere il backup dei propri
+
+1162
+00:44:22,420 --> 00:44:24,500
+Roberto Marin: dati all'interno di un hard disk
+
+1163
+00:44:24,820 --> 00:44:25,940
+Roberto Marin: esterno.
+
+1164
+00:44:25,880 --> 00:44:27,319
+Roberto Marin: essenzialmente succede così
+
+1165
+00:44:27,480 --> 00:44:27,640
+Roberto Marin: voi
+
+1166
+00:44:27,880 --> 00:44:28,839
+Roberto Marin: comprate un hard disk
+
+1167
+00:44:29,240 --> 00:44:31,880
+Roberto Marin: di 7800 milioni di giga
+
+1168
+00:44:32,119 --> 00:44:34,520
+Roberto Marin: e lo attaccate al vostro
+
+1169
+00:44:34,839 --> 00:44:35,960
+Roberto Marin: simpatico Mac
+
+1170
+00:44:36,440 --> 00:44:36,599
+Roberto Marin: e
+
+1171
+00:44:36,960 --> 00:44:38,160
+Roberto Marin: Giustamente il Mac
+
+1172
+00:44:38,400 --> 00:44:40,000
+Roberto Marin: riconosce che avete attaccato un hard disk
+
+1173
+00:44:40,160 --> 00:44:41,120
+Roberto Marin: e vi chiede se lo volete
+
+1174
+00:44:41,360 --> 00:44:46,720
+Roberto Marin: utilizzare come un sistema di backup esterno grazie a Time Machine.
+
+1175
+00:44:46,240 --> 00:44:48,400
+Roberto Marin: Time Machine ve lo dico sinceramente
+
+1176
+00:44:48,640 --> 00:44:54,800
+Roberto Marin: una grandissima figata ed è una di quelle cose che mi ha sempre piaciuto.
+
+1177
+00:44:53,760 --> 00:44:56,240
+Roberto Marin: All'interno del sistema operativo Macintosh
+
+1178
+00:44:56,480 --> 00:44:57,360
+Roberto Marin: essenzialmente
+
+1179
+00:44:57,600 --> 00:45:01,200
+Roberto Marin: permette, grazie a un'interfaccia grafica che definire
+
+1180
+00:45:01,520 --> 00:45:02,160
+Roberto Marin: perfetta
+
+1181
+00:45:02,640 --> 00:45:03,600
+Roberto Marin: e dire poco
+
+1182
+00:45:03,840 --> 00:45:04,160
+Roberto Marin: perché
+
+1183
+00:45:04,480 --> 00:45:05,120
+Roberto Marin: è molto
+
+1184
+00:45:05,440 --> 00:45:05,760
+Roberto Marin: molto
+
+1185
+00:45:07,240 --> 00:45:08,600
+Roberto Marin: Come si può dire?
+
+1186
+00:45:08,600 --> 00:45:09,240
+Roberto Marin: È molto
+
+1187
+00:45:10,520 --> 00:45:12,760
+Roberto Marin: spettacolare, ma nello stesso tempo
+
+1188
+00:45:12,920 --> 00:45:13,720
+Roberto Marin: molto pratica.
+
+1189
+00:45:13,720 --> 00:45:15,400
+Roberto Marin: Permette di recuperare i file
+
+1190
+00:45:15,640 --> 00:45:17,160
+Roberto Marin: all'indietro nel tempo
+
+1191
+00:45:17,400 --> 00:45:18,360
+Roberto Marin: in un modo davvero
+
+1192
+00:45:18,600 --> 00:45:19,880
+Roberto Marin: semplice.
+
+1193
+00:45:19,359 --> 00:45:25,680
+Roberto Marin: Essenzialmente, se siete in una cartella e avete visto che non c'è il file che cercate.
+
+1194
+00:45:25,680 --> 00:45:26,000
+Roberto Marin: Voi
+
+1195
+00:45:26,240 --> 00:45:27,200
+Roberto Marin: andate a
+
+1196
+00:45:27,359 --> 00:45:28,320
+Roberto Marin: cercare in time
+
+1197
+00:45:28,480 --> 00:45:30,640
+Roberto Marin: machine, gli chiedete di cercare
+
+1198
+00:45:30,960 --> 00:45:32,560
+Roberto Marin: il file.
+
+1199
+00:45:32,440 --> 00:45:35,000
+Roberto Marin: all'interno di quella cartella dentro Time Machine
+
+1200
+00:45:35,160 --> 00:45:36,119
+Roberto Marin: e semplicemente vi apro
+
+1201
+00:45:36,280 --> 00:45:45,480
+Roberto Marin: un'interfaccia grafica nella stessa cartella vi fa vedere cosa c'è in quella cartella lungo un arco temporale che troverete poi sulla destra dello schermo.
+
+1202
+00:45:45,020 --> 00:45:45,339
+Roberto Marin: Ma
+
+1203
+00:45:45,579 --> 00:45:49,579
+Roberto Marin: detto questo, ritorniamo al fatto che comunque
+
+1204
+00:45:49,740 --> 00:45:53,020
+Roberto Marin: Time Machine permette di avere un hard disk
+
+1205
+00:45:53,579 --> 00:45:57,900
+Roberto Marin: con l'ultima versione del backup che avete fatto.
+
+1206
+00:45:57,200 --> 00:45:58,000
+Roberto Marin: Chiaramente
+
+1207
+00:45:58,160 --> 00:46:06,000
+Roberto Marin: state attenti a quello che fate perché il backup è una cosa importantissima, ci ritorneremo anche nelle prossime puntate di A2, fatelo
+
+1208
+00:46:05,859 --> 00:46:09,220
+Roberto Marin: Non dico tutti i giorni, ma fatelo in modo intelligente
+
+1209
+00:46:09,380 --> 00:46:10,820
+Roberto Marin: perché è l'unica ancora
+
+1210
+00:46:10,980 --> 00:46:15,060
+Roberto Marin: di salvezza che avete nel momento in cui ci sia un casino di qualsiasi
+
+1211
+00:46:15,260 --> 00:46:15,420
+Roberto Marin: tipo
+
+1212
+00:46:15,740 --> 00:46:17,580
+Roberto Marin: forma e specie e dimensione.
+
+1213
+00:46:17,660 --> 00:46:21,340
+Roberto Marin: L'unica cosa che vi metto al sicuro, perché sapete benissimo che
+
+1214
+00:46:21,580 --> 00:46:24,300
+Roberto Marin: uno, i dati sono importantissimi
+
+1215
+00:46:24,540 --> 00:46:26,620
+Roberto Marin: per le nostre professioni.
+
+1216
+00:46:26,000 --> 00:46:26,240
+Roberto Marin: perché
+
+1217
+00:46:27,600 --> 00:46:29,840
+Roberto Marin: ci aiutano a portare la pagnotta
+
+1218
+00:46:30,000 --> 00:46:30,400
+Roberto Marin: a casa
+
+1219
+00:46:30,560 --> 00:46:31,760
+Roberto Marin: ma soprattutto 2
+
+1220
+00:46:32,000 --> 00:46:35,440
+Roberto Marin: nel momento in cui voi avete fatto un backup di una settimana
+
+1221
+00:46:35,600 --> 00:46:40,080
+Roberto Marin: voi avete perso una settimana di lavoro che nessuno vi paga
+
+1222
+00:46:40,059 --> 00:46:40,299
+Roberto Marin: quindi
+
+1223
+00:46:40,460 --> 00:46:42,619
+Roberto Marin: il backup è super importante
+
+1224
+00:46:43,500 --> 00:46:43,660
+Roberto Marin: time
+
+1225
+00:46:43,819 --> 00:46:44,619
+Roberto Marin: ma scena appunto
+
+1226
+00:46:44,859 --> 00:46:47,740
+Roberto Marin: questa possibilità di avere un backup del
+
+1227
+00:46:48,640 --> 00:46:48,799
+Roberto Marin: dell
+
+1228
+00:46:48,960 --> 00:46:52,240
+Roberto Marin: 'ultima versione della macchina che avete fatto e quindi
+
+1229
+00:46:53,039 --> 00:46:53,359
+Roberto Marin: il
+
+1230
+00:46:53,599 --> 00:46:54,559
+Roberto Marin: la la cosa
+
+1231
+00:46:54,720 --> 00:46:58,319
+Roberto Marin: positiva è che vi permette con un sistema operativo making
+
+1232
+00:46:58,480 --> 00:46:58,880
+Roberto Marin: toch
+
+1233
+00:46:59,039 --> 00:46:59,599
+Roberto Marin: nuovo
+
+1234
+00:46:59,740 --> 00:47:02,620
+Roberto Marin: di avere essenzialmente la stessa macchina
+
+1235
+00:47:02,860 --> 00:47:05,740
+Roberto Marin: un po' come succede con i sistemi iOS
+
+1236
+00:47:06,060 --> 00:47:06,380
+Roberto Marin: quando
+
+1237
+00:47:06,540 --> 00:47:09,500
+Roberto Marin: fate un ripristino così lo chiamano
+
+1238
+00:47:09,820 --> 00:47:13,420
+Roberto Marin: Se non sbaglio, il ripristino e la formatazione, correggimi.
+
+1239
+00:47:13,420 --> 00:47:14,860
+Roberto Marin: Sì, sì, è il ripristino
+
+1240
+00:47:15,500 --> 00:47:16,780
+Roberto Marin: del sistema, proprio
+
+1241
+00:47:17,020 --> 00:47:20,060
+Roberto Marin: del sistema, esattamente, e quindi vi permette anche di
+
+1242
+00:47:20,460 --> 00:47:23,420
+Roberto Marin: portare dietro tutto il.
+
+1243
+00:47:22,800 --> 00:47:28,320
+Roberto Marin: L'ultimo backup che avete fatto su iOS, vi portate il cellulare come ce l'avevate prima.
+
+1244
+00:47:28,320 --> 00:47:30,720
+Roberto Marin: Quindi funziona essenzialmente così:
+
+1245
+00:47:30,960 --> 00:47:31,600
+Roberto Marin: la cosa
+
+1246
+00:47:31,920 --> 00:47:32,240
+Roberto Marin: importante
+
+1247
+00:47:32,480 --> 00:47:37,680
+Roberto Marin: per quanto riguarda i Macintosh, su cui farete questo tipo di procedura.
+
+1248
+00:47:37,620 --> 00:47:38,580
+Roberto Marin: E semplicemente
+
+1249
+00:47:38,820 --> 00:47:40,820
+Roberto Marin: che devono essere aggiornati
+
+1250
+00:47:41,380 --> 00:47:41,940
+Roberto Marin: ovviamente
+
+1251
+00:47:42,180 --> 00:47:50,980
+Roberto Marin: entrambi all'ultima versione, nel senso che devono avere lo stesso sistema operativo entrambi, se no ci potrebbero essere dei grossissimi problemi.
+
+1252
+00:47:51,140 --> 00:47:52,100
+Roberto Marin: Detto questo
+
+1253
+00:47:52,420 --> 00:47:52,740
+Roberto Marin: ,
+
+1254
+00:47:53,220 --> 00:47:53,540
+Roberto Marin: voi
+
+1255
+00:47:53,700 --> 00:47:54,500
+Roberto Marin: collegate
+
+1256
+00:47:54,660 --> 00:47:56,580
+Roberto Marin: una volta che avete acceso il vostro Mac
+
+1257
+00:47:56,740 --> 00:47:57,620
+Roberto Marin: e avete fatto le prime
+
+1258
+00:47:57,780 --> 00:47:58,980
+Roberto Marin: configurazioni, voi
+
+1259
+00:47:59,140 --> 00:48:02,660
+Roberto Marin: essenzialmente utilizzate l'assistente migrazione
+
+1260
+00:48:02,820 --> 00:48:04,420
+Roberto Marin: che vi fa.
+
+1261
+00:48:04,220 --> 00:48:04,460
+Roberto Marin: tre
+
+1262
+00:48:04,779 --> 00:48:06,940
+Roberto Marin: simpatiche domande.
+
+1263
+00:48:06,940 --> 00:48:09,180
+Roberto Marin: La prima è se vuoi passare da
+
+1264
+00:48:09,500 --> 00:48:09,980
+Roberto Marin: un Mac
+
+1265
+00:48:10,140 --> 00:48:14,299
+Roberto Marin: , da un backup di Time Machine, che è quello che ho sempre fatto io.
+
+1266
+00:48:14,240 --> 00:48:16,080
+Roberto Marin: oppure da un pc Windows
+
+1267
+00:48:16,240 --> 00:48:17,760
+Roberto Marin: come abbiamo fatto precedentemente
+
+1268
+00:48:18,320 --> 00:48:18,480
+Roberto Marin: come
+
+1269
+00:48:18,640 --> 00:48:18,800
+Roberto Marin: abbiamo
+
+1270
+00:48:18,960 --> 00:48:20,000
+Roberto Marin: spiegato Filippo
+
+1271
+00:48:20,400 --> 00:48:22,080
+Roberto Marin: oppure da un altro Mac
+
+1272
+00:48:22,400 --> 00:48:25,680
+Roberto Marin: Infatti c'è la possibilità anche di trasferire
+
+1273
+00:48:26,000 --> 00:48:27,760
+Roberto Marin: i dati da un Mac
+
+1274
+00:48:28,000 --> 00:48:30,400
+Roberto Marin: all'altro avendo la stessa interfaccia.
+
+1275
+00:48:30,400 --> 00:48:32,240
+Roberto Marin: Io intendo con la stessa interfaccia
+
+1276
+00:48:32,740 --> 00:48:33,380
+Roberto Marin: in questo
+
+1277
+00:48:33,540 --> 00:48:33,940
+Roberto Marin: senso
+
+1278
+00:48:34,180 --> 00:48:35,700
+Roberto Marin: che voi vi ritrovate
+
+1279
+00:48:36,260 --> 00:48:36,820
+Roberto Marin: dal Mac
+
+1280
+00:48:36,980 --> 00:48:39,380
+Roberto Marin: che avete lasciato avete le stesse cose sul Mac
+
+1281
+00:48:39,620 --> 00:48:40,020
+Roberto Marin: nuovo
+
+1282
+00:48:40,260 --> 00:48:42,660
+Roberto Marin: praticamente non ve ne rendete conto
+
+1283
+00:48:42,880 --> 00:48:46,880
+Roberto Marin: Dal mio punto di vista, ho sempre usato, invece di partire con
+
+1284
+00:48:47,359 --> 00:48:48,000
+Roberto Marin: un sistema
+
+1285
+00:48:48,160 --> 00:48:49,359
+Roberto Marin: pulito, sono sempre
+
+1286
+00:48:49,680 --> 00:48:51,200
+Roberto Marin: partito da un sistema
+
+1287
+00:48:51,440 --> 00:48:54,000
+Roberto Marin: che arriva da un time machine precedente.
+
+1288
+00:48:54,000 --> 00:48:54,799
+Roberto Marin: Questo perché
+
+1289
+00:48:54,700 --> 00:48:54,940
+Roberto Marin: perché
+
+1290
+00:48:55,099 --> 00:49:01,099
+Roberto Marin: ho avuto la fortuna di non avere mai grossi problemi all'interno della macchina dal punto di vista software
+
+1291
+00:49:01,260 --> 00:49:02,700
+Roberto Marin: e conseguentemente
+
+1292
+00:49:03,020 --> 00:49:07,180
+Roberto Marin: non mi sono portato dietro dei problemi software.
+
+1293
+00:49:06,660 --> 00:49:15,060
+Roberto Marin: Una delle cose negative di queste cose è che se voi avete un problema software di instabilità della macchina dovuto a chissà cosa
+
+1294
+00:49:15,100 --> 00:49:15,260
+Roberto Marin: È
+
+1295
+00:49:15,300 --> 00:49:15,620
+Roberto Marin: ,
+
+1296
+00:49:15,420 --> 00:49:17,100
+Roberto Marin: facile che ve lo portate dietro.
+
+1297
+00:49:17,100 --> 00:49:21,260
+Roberto Marin: Io non ho mai avuto questo tipo di problemi, molti utenti non hanno questo tipo
+
+1298
+00:49:21,420 --> 00:49:22,140
+Roberto Marin: di problemi
+
+1299
+00:49:22,380 --> 00:49:22,540
+Roberto Marin: e
+
+1300
+00:49:22,700 --> 00:49:26,540
+Roberto Marin: conseguentemente è una delle cose che dal mio punto di vista consiglio
+
+1301
+00:49:26,780 --> 00:49:27,420
+Roberto Marin: fare.
+
+1302
+00:49:26,960 --> 00:49:38,800
+Roberto Marin: per il semplice fatto che risparmiate tempo, non avete bisogno di andarvi a cercarvi tutti i vostri software, non dovete andarvi a cercare tutti i vostri dati, rimettervi nella stessa posizione.
+
+1303
+00:49:38,300 --> 00:49:43,100
+Roberto Marin: Voi prendete, attaccate l'artistica esterno e gli dite: prendi le informazioni
+
+1304
+00:49:43,420 --> 00:49:45,740
+Roberto Marin: da questo time machine dell'ultimo backup.
+
+1305
+00:49:45,740 --> 00:49:49,180
+Roberto Marin: Lui prende e comincia a macinare, andate a mangiare un panino.
+
+1306
+00:49:49,180 --> 00:49:51,340
+Roberto Marin: Quando tornate, avete il vostro simpatico Mac
+
+1307
+00:49:51,740 --> 00:49:53,020
+Roberto Marin: che.
+
+1308
+00:49:52,140 --> 00:49:52,299
+Roberto Marin: come
+
+1309
+00:49:52,460 --> 00:49:56,059
+Roberto Marin: l'avete lasciato ed è la cosa assolutamente importante
+
+1310
+00:49:56,299 --> 00:49:56,460
+Roberto Marin: perché
+
+1311
+00:49:56,700 --> 00:50:00,140
+Roberto Marin: risparmiate tempo non dovete fare nessun tipo di configurazione
+
+1312
+00:50:00,000 --> 00:50:03,440
+Roberto Marin: C'è anche la possibilità di collegare direttamente un Mac
+
+1313
+00:50:03,760 --> 00:50:04,400
+Roberto Marin: con un altro.
+
+1314
+00:50:04,400 --> 00:50:06,240
+Roberto Marin: Però, francamente, mi sfuggio, come
+
+1315
+00:50:06,400 --> 00:50:09,680
+Roberto Marin: probabilmente con la porta Ethernet per chi ne è dotato.
+
+1316
+00:50:09,680 --> 00:50:12,160
+Roberto Marin: Se non sbaglio, vado così a memoria: perché.
+
+1317
+00:50:12,480 --> 00:50:12,960
+Filippo Strozzi: Sì,
+
+1318
+00:50:13,280 --> 00:50:14,800
+Filippo Strozzi: in rete, credo.
+
+1319
+00:50:15,020 --> 00:50:17,020
+Filippo Strozzi: Credo che debbano essere tutte e due in rete
+
+1320
+00:50:17,579 --> 00:50:18,619
+Filippo Strozzi: direttamente in rete.
+
+1321
+00:50:19,020 --> 00:50:19,980
+Filippo Strozzi: A quel punto lì riescono
+
+1322
+00:50:20,140 --> 00:50:20,460
+Filippo Strozzi: a
+
+1323
+00:50:20,700 --> 00:50:21,180
+Roberto Marin: parlarsi
+
+1324
+00:50:21,339 --> 00:50:22,540
+Roberto Marin: a parlarsi essenzialmente.
+
+1325
+00:50:22,540 --> 00:50:24,140
+Roberto Marin: Io ho sempre usato la parte di time
+
+1326
+00:50:24,300 --> 00:50:26,060
+Roberto Marin: machine, mi sono sempre trovato bene.
+
+1327
+00:50:26,060 --> 00:50:28,780
+Roberto Marin: E continuo a dire: è una grandissima.
+
+1328
+00:50:29,340 --> 00:50:31,500
+Roberto Marin: Rottura di scatole, portarsi dietro
+
+1329
+00:50:31,740 --> 00:50:36,540
+Roberto Marin: tutti gli applicativi, andarsi a cercare, installare, mettersi le proprie preferenze
+
+1330
+00:50:36,860 --> 00:50:37,020
+Roberto Marin: può
+
+1331
+00:50:37,260 --> 00:50:38,540
+Roberto Marin: essere divertente perché
+
+1332
+00:50:38,700 --> 00:50:41,340
+Roberto Marin: partire da nuovo è sempre bello, però.
+
+1333
+00:50:41,120 --> 00:50:47,760
+Roberto Marin: Essendo professionisti, noi dobbiamo fatturare, noi dobbiamo essere operativi nel minor tempo possibile.
+
+1334
+00:50:47,760 --> 00:50:50,400
+Roberto Marin: E conseguentemente, io consiglio come sempre
+
+1335
+00:50:50,560 --> 00:50:52,240
+Roberto Marin: di usare il Time Machine
+
+1336
+00:50:52,560 --> 00:50:53,200
+Roberto Marin: in questo
+
+1337
+00:50:53,520 --> 00:50:54,480
+Filippo Strozzi: modo.
+
+1338
+00:50:53,800 --> 00:50:55,560
+Filippo Strozzi: Esatto, io facendo invece il bastan
+
+1339
+00:50:55,720 --> 00:50:57,240
+Filippo Strozzi: contrario faccio esattamente
+
+1340
+00:50:57,720 --> 00:50:59,800
+Filippo Strozzi: l'operazione inversa, ovvero
+
+1341
+00:51:00,120 --> 00:51:01,320
+Filippo Strozzi: sono un amante
+
+1342
+00:51:01,640 --> 00:51:03,880
+Filippo Strozzi: dell'installazione da zero.
+
+1343
+00:51:04,460 --> 00:51:05,420
+Filippo Strozzi: Questo perché
+
+1344
+00:51:05,820 --> 00:51:06,460
+Filippo Strozzi: di fatto
+
+1345
+00:51:06,700 --> 00:51:08,540
+Filippo Strozzi: il grosso vantaggio dell'installazione
+
+1346
+00:51:08,780 --> 00:51:09,660
+Filippo Strozzi: da zero
+
+1347
+00:51:10,460 --> 00:51:12,700
+Filippo Strozzi: a fronte ovviamente dei difetti che.
+
+1348
+00:51:13,040 --> 00:51:15,120
+Filippo Strozzi: Concordo con Roberto, ci sono,
+
+1349
+00:51:15,360 --> 00:51:15,680
+Filippo Strozzi: perché
+
+1350
+00:51:15,840 --> 00:51:19,120
+Filippo Strozzi: ovviamente la necessità di reinstallare
+
+1351
+00:51:19,600 --> 00:51:19,840
+Filippo Strozzi: tot
+
+1352
+00:51:20,160 --> 00:51:21,760
+Filippo Strozzi: software e comunque
+
+1353
+00:51:22,480 --> 00:51:24,560
+Filippo Strozzi: ripristinare le configurazioni del vecchio
+
+1354
+00:51:24,720 --> 00:51:25,440
+Filippo Strozzi: computer.
+
+1355
+00:51:25,640 --> 00:51:28,119
+Filippo Strozzi: È una perdita di tempo innegabile.
+
+1356
+00:51:28,119 --> 00:51:31,400
+Filippo Strozzi: Però ovviamente si viaggia con un sistema molto più snello
+
+1357
+00:51:31,640 --> 00:51:31,960
+Filippo Strozzi: e
+
+1358
+00:51:32,200 --> 00:51:33,559
+Filippo Strozzi: spesso e volentieri
+
+1359
+00:51:33,880 --> 00:51:34,760
+Filippo Strozzi: si evita
+
+1360
+00:51:34,920 --> 00:51:36,920
+Filippo Strozzi: tutta quella roba che casomai
+
+1361
+00:51:37,079 --> 00:51:38,599
+Filippo Strozzi: nel tempo si è installata sul
+
+1362
+00:51:38,760 --> 00:51:40,279
+Filippo Strozzi: sistema operativo.
+
+1363
+00:51:39,960 --> 00:51:42,760
+Filippo Strozzi: ma che poi oggettivamente non utilizziamo.
+
+1364
+00:51:42,760 --> 00:51:43,320
+Filippo Strozzi: Io sono
+
+1365
+00:51:43,560 --> 00:51:44,280
+Filippo Strozzi: abitualmente
+
+1366
+00:51:44,520 --> 00:51:45,080
+Filippo Strozzi: faccio
+
+1367
+00:51:45,400 --> 00:51:48,120
+Filippo Strozzi: una partenza da zero ogni 2-3
+
+1368
+00:51:48,280 --> 00:51:48,600
+Filippo Strozzi: anni
+
+1369
+00:51:48,840 --> 00:51:50,440
+Filippo Strozzi: e lo faccio proprio per
+
+1370
+00:51:51,380 --> 00:51:52,980
+Filippo Strozzi: togliermi di dosso
+
+1371
+00:51:53,220 --> 00:51:54,420
+Filippo Strozzi: tutto il passato
+
+1372
+00:51:54,660 --> 00:51:57,539
+Filippo Strozzi: e invece partire fresco, partire con un Mac
+
+1373
+00:51:57,859 --> 00:51:58,500
+Filippo Strozzi: molto più
+
+1374
+00:51:58,819 --> 00:51:59,779
+Filippo Strozzi: reattivo
+
+1375
+00:52:00,120 --> 00:52:00,440
+Filippo Strozzi: e
+
+1376
+00:52:01,080 --> 00:52:02,840
+Filippo Strozzi: evitarmi tra l'altro appunto
+
+1377
+00:52:03,000 --> 00:52:03,960
+Filippo Strozzi: eventuali problemi
+
+1378
+00:52:04,120 --> 00:52:04,280
+Filippo Strozzi: perché
+
+1379
+00:52:04,440 --> 00:52:04,760
+Filippo Strozzi: appunto
+
+1380
+00:52:04,920 --> 00:52:07,000
+Filippo Strozzi: a me è già capitato vari colleghi
+
+1381
+00:52:07,160 --> 00:52:07,400
+Filippo Strozzi: che
+
+1382
+00:52:07,700 --> 00:52:08,820
+Filippo Strozzi: e si sono trovati
+
+1383
+00:52:09,380 --> 00:52:09,700
+Filippo Strozzi: con
+
+1384
+00:52:10,260 --> 00:52:13,780
+Filippo Strozzi: delle anomalie diciamo dovute proprio al passaggio ovviamente
+
+1385
+00:52:13,940 --> 00:52:15,619
+Filippo Strozzi: attraverso Time Machine
+
+1386
+00:52:15,700 --> 00:52:17,460
+Filippo Strozzi: Che non è un passaggio perfetto.
+
+1387
+00:52:17,460 --> 00:52:17,619
+Filippo Strozzi: È
+
+1388
+00:52:17,780 --> 00:52:22,180
+Filippo Strozzi: già un ottimo lavoro quello che fa Apple, però a volte l'inghippo
+
+1389
+00:52:22,500 --> 00:52:23,220
+Filippo Strozzi: può nascere
+
+1390
+00:52:23,460 --> 00:52:28,579
+Filippo Strozzi: e questo può essere fastidioso e fa perdere anche molto più tempo perché dopo c'è da.
+
+1391
+00:52:28,540 --> 00:52:30,540
+Filippo Strozzi: ripristinare da zero e
+
+1392
+00:52:30,860 --> 00:52:32,220
+Filippo Strozzi: ripartire, cosa
+
+1393
+00:52:32,380 --> 00:52:33,660
+Filippo Strozzi: c'è da fare per l'installazione
+
+1394
+00:52:33,900 --> 00:52:35,020
+Filippo Strozzi: da zero?
+
+1395
+00:52:35,020 --> 00:52:38,460
+Filippo Strozzi: La prima cosa che io faccio sempre e comunque:
+
+1396
+00:52:38,460 --> 00:52:46,460
+Filippo Strozzi: Su un disco esterno faccio un backup completo della macchina che vado a ripristinare da zero, di modo che, se
+
+1397
+00:52:46,620 --> 00:52:52,380
+Filippo Strozzi: per caso qualcosa andasse a buon fine o avessi bisogno di.
+
+1398
+00:52:52,539 --> 00:52:57,260
+Filippo Strozzi: accedere ai dati perché casomai non li ho salvati nella maniera corretta
+
+1399
+00:52:57,500 --> 00:52:58,700
+Filippo Strozzi: della vecchia macchina
+
+1400
+00:52:58,859 --> 00:52:59,740
+Filippo Strozzi: ce li ho
+
+1401
+00:53:00,820 --> 00:53:01,540
+Filippo Strozzi: Copiati
+
+1402
+00:53:01,780 --> 00:53:02,980
+Filippo Strozzi: tranquilli, sicuri
+
+1403
+00:53:03,140 --> 00:53:08,340
+Filippo Strozzi: e posso addirittura io abitualmente faccio un clone della macchina, quindi praticamente
+
+1404
+00:53:08,380 --> 00:53:08,460
+Filippo Strozzi: sul
+
+1405
+00:53:08,620 --> 00:53:14,380
+Filippo Strozzi: disco esterno, lo posso collegare al Mac, dirgli di partire dal disco esterno e lui mi parte
+
+1406
+00:53:14,540 --> 00:53:19,100
+Filippo Strozzi: come se il disco esterno fosse il precedente disco della macchina interna.
+
+1407
+00:53:18,700 --> 00:53:19,820
+Filippo Strozzi: E quindi è come
+
+1408
+00:53:19,980 --> 00:53:23,980
+Filippo Strozzi: lo stesso computer, la stessa macchina, esattamente come l'ho lasciata prima
+
+1409
+00:53:24,300 --> 00:53:24,619
+Filippo Strozzi: di
+
+1410
+00:53:25,180 --> 00:53:26,940
+Filippo Strozzi: devastarla, distruggerla
+
+1411
+00:53:27,180 --> 00:53:28,060
+Filippo Strozzi: e distruggere
+
+1412
+00:53:28,220 --> 00:53:29,500
+Filippo Strozzi: tutti i dati.
+
+1413
+00:53:29,960 --> 00:53:30,600
+Filippo Strozzi: Ovviamente
+
+1414
+00:53:30,760 --> 00:53:31,480
+Filippo Strozzi: prima di fare questa
+
+1415
+00:53:31,640 --> 00:53:34,680
+Filippo Strozzi: operazione, oltre al clone della macchina, bisogna avere
+
+1416
+00:53:35,000 --> 00:53:36,120
+Filippo Strozzi: spacchettizzato
+
+1417
+00:53:36,520 --> 00:53:37,960
+Filippo Strozzi: tutti i dati che ci servono.
+
+1418
+00:53:38,960 --> 00:53:48,720
+Filippo Strozzi: Nel caso mio da avvocato, per esempio, ho tutta una serie di cartelle dedicate alle pratiche dell'ufficio e ad altre cose che devo avere.
+
+1419
+00:53:49,020 --> 00:53:50,619
+Filippo Strozzi: messo da qualche parte
+
+1420
+00:53:51,099 --> 00:53:54,140
+Filippo Strozzi: per poi poterle reinstallare all'interno
+
+1421
+00:53:54,460 --> 00:53:55,339
+Filippo Strozzi: del computer
+
+1422
+00:53:55,500 --> 00:53:55,980
+Filippo Strozzi: ovviamente
+
+1423
+00:53:56,140 --> 00:53:57,740
+Filippo Strozzi: una volta che ho fatto la
+
+1424
+00:53:57,900 --> 00:53:59,820
+Filippo Strozzi: installazione da zero.
+
+1425
+00:53:59,820 --> 00:54:03,340
+Filippo Strozzi: Fatto ciò, a questo punto siamo pronti
+
+1426
+00:54:03,660 --> 00:54:11,820
+Filippo Strozzi: per ripartire da zero e devo dire la verità, se è vero che era una rottura di scatole farlo e se è una rottura di scatole farlo a mano
+
+1427
+00:54:12,140 --> 00:54:12,460
+Filippo Strozzi: ,
+
+1428
+00:54:12,140 --> 00:54:14,059
+Filippo Strozzi: Ci sono due grosse opzioni
+
+1429
+00:54:14,380 --> 00:54:16,059
+Filippo Strozzi: per risolvere questi problemi.
+
+1430
+00:54:16,059 --> 00:54:20,859
+Filippo Strozzi: Uno è il Make Up Store, cioè se avete comprato delle applicazioni dal Make Up Store.
+
+1431
+00:54:20,820 --> 00:54:21,140
+Filippo Strozzi: quando
+
+1432
+00:54:21,620 --> 00:54:24,180
+Filippo Strozzi: una volta che avete inserito le vostre credenziali
+
+1433
+00:54:24,500 --> 00:54:26,180
+Filippo Strozzi: Apple e quindi il Mac
+
+1434
+00:54:26,500 --> 00:54:28,420
+Filippo Strozzi: conosce il vostro Apple ID
+
+1435
+00:54:28,200 --> 00:54:37,000
+Filippo Strozzi: In estrema sintesi potete scaricare, ci metterà ovviamente del tempo in base al vostro collegamento a internet, scaricare tutti i software che avete già comprato
+
+1436
+00:54:37,400 --> 00:54:37,720
+Filippo Strozzi: e
+
+1437
+00:54:39,040 --> 00:54:39,440
+Roberto Marin: Rido
+
+1438
+00:54:39,760 --> 00:54:40,000
+Roberto Marin: perché
+
+1439
+00:54:40,480 --> 00:54:41,120
+Roberto Marin: se avete
+
+1440
+00:54:41,520 --> 00:54:43,840
+Roberto Marin: un collegamento come quello del sottoscritto
+
+1441
+00:54:44,000 --> 00:54:44,960
+Roberto Marin: dove veramente
+
+1442
+00:54:45,520 --> 00:54:47,360
+Roberto Marin: portano i dati a mano
+
+1443
+00:54:47,680 --> 00:54:48,880
+Roberto Marin: dalla centralina
+
+1444
+00:54:49,260 --> 00:54:55,100
+Roberto Marin: fino al mio computer diventate subito vecchi e vi passa la voglia di utilizzare questo metodo.
+
+1445
+00:54:55,100 --> 00:54:56,860
+Filippo Strozzi: Però se avete tipo la fibra come
+
+1446
+00:54:57,020 --> 00:54:58,460
+Filippo Strozzi: sottoscritto, allora
+
+1447
+00:54:59,200 --> 00:55:01,200
+Filippo Strozzi: Allora, la cosa è veramente
+
+1448
+00:55:01,440 --> 00:55:04,320
+Filippo Strozzi: semplice, immediata, quasi.
+
+1449
+00:55:04,320 --> 00:55:06,880
+Filippo Strozzi: L'altra cosa per tutti i software invece che
+
+1450
+00:55:07,200 --> 00:55:07,839
+Filippo Strozzi: non sono
+
+1451
+00:55:08,079 --> 00:55:08,560
+Filippo Strozzi: nel Mac
+
+1452
+00:55:08,720 --> 00:55:10,240
+Filippo Strozzi: App Store, e io, per esempio, ne
+
+1453
+00:55:10,480 --> 00:55:11,599
+Filippo Strozzi: ho tanti.
+
+1454
+00:55:11,559 --> 00:55:15,240
+Filippo Strozzi: Io quello che utilizzo e che a me ha cambiato veramente la vita
+
+1455
+00:55:15,480 --> 00:55:15,799
+Filippo Strozzi: è
+
+1456
+00:55:15,960 --> 00:55:16,920
+Filippo Strozzi: Ombriu.
+
+1457
+00:55:16,920 --> 00:55:20,200
+Filippo Strozzi: Ne ho parlato in un articolo, in un video che linkerò ovviamente
+
+1458
+00:55:20,520 --> 00:55:21,240
+Filippo Strozzi: nelle note
+
+1459
+00:55:21,559 --> 00:55:23,160
+Filippo Strozzi: dell'episodio.
+
+1460
+00:55:22,700 --> 00:55:25,180
+Filippo Strozzi: In estrema sintesi, Umbrio
+
+1461
+00:55:25,420 --> 00:55:27,099
+Filippo Strozzi: è un sistema di gestione dei pacchetti
+
+1462
+00:55:27,260 --> 00:55:29,420
+Filippo Strozzi: che permette sia di installare
+
+1463
+00:55:29,740 --> 00:55:35,420
+Filippo Strozzi: dei pacchetti software più legati all'open source e Linux, ma la cosa interessante
+
+1464
+00:55:35,700 --> 00:55:38,099
+Filippo Strozzi: e che ha la funzione cosiddetta cask
+
+1465
+00:55:35,740 --> 00:55:36,060
+Filippo Strozzi: è
+
+1466
+00:55:38,420 --> 00:55:41,940
+Filippo Strozzi: e che permette di scaricare software proprietari, anche
+
+1467
+00:55:42,740 --> 00:55:43,940
+Filippo Strozzi: di cui avete comprato
+
+1468
+00:55:43,680 --> 00:55:49,120
+Filippo Strozzi: Ovviamente la licenza, presumibilmente, e installarli automaticamente da riga di comando
+
+1469
+00:55:49,360 --> 00:55:50,720
+Filippo Strozzi: sul vostro Mac.
+
+1470
+00:55:50,720 --> 00:55:57,040
+Filippo Strozzi: Questo sembrerebbe controintuitivo, ma è una cosa clamorosa perché basta fare la lista della spesa
+
+1471
+00:55:57,280 --> 00:55:58,400
+Filippo Strozzi: in pratica.
+
+1472
+00:55:58,359 --> 00:55:58,599
+Filippo Strozzi: avere
+
+1473
+00:55:58,760 --> 00:56:03,560
+Filippo Strozzi: un minimo di dimestichezza ovviamente con la linea di comando ma è veramente sono tre comandi in croce
+
+1474
+00:56:03,800 --> 00:56:04,119
+Filippo Strozzi: quindi
+
+1475
+00:56:04,280 --> 00:56:04,599
+Filippo Strozzi: dire
+
+1476
+00:56:04,920 --> 00:56:05,880
+Filippo Strozzi: ad ombrew
+
+1477
+00:56:06,040 --> 00:56:07,079
+Filippo Strozzi: di scaricare
+
+1478
+00:56:07,960 --> 00:56:13,720
+Filippo Strozzi: 10 software, lui li va, prende dal sito ovviamente dei vari sviluppatori, quindi voi non dovete
+
+1479
+00:56:13,960 --> 00:56:15,160
+Filippo Strozzi: andare su internet
+
+1480
+00:56:15,400 --> 00:56:17,880
+Filippo Strozzi: alla ricerca di OnePassword piuttosto che
+
+1481
+00:56:18,320 --> 00:56:18,800
+Filippo Strozzi: Audio e
+
+1482
+00:56:18,960 --> 00:56:22,400
+Filippo Strozzi: Jack, giusto per fare dei nomi o LibreOffice e così via, lui
+
+1483
+00:56:22,560 --> 00:56:26,080
+Filippo Strozzi: in automatico ve li scarica giù, ve li installa e si è da
+
+1484
+00:56:26,320 --> 00:56:26,880
+Filippo Strozzi: posto.
+
+1485
+00:56:26,940 --> 00:56:32,780
+Filippo Strozzi: Devo dire la verità: l'ho utilizzato in maniera abbastanza intensiva su questo MacBook
+
+1486
+00:56:33,020 --> 00:56:35,420
+Filippo Strozzi: Pro, sia con Catalina
+
+1487
+00:56:35,579 --> 00:56:37,099
+Filippo Strozzi: sia soprattutto con
+
+1488
+00:56:37,660 --> 00:56:39,420
+Filippo Strozzi: Big Sur, la versione beta
+
+1489
+00:56:39,579 --> 00:56:39,900
+Filippo Strozzi: che
+
+1490
+00:56:39,960 --> 00:56:40,680
+Filippo Strozzi: Ogni tanto
+
+1491
+00:56:41,000 --> 00:56:41,720
+Filippo Strozzi: utilizzo
+
+1492
+00:56:42,040 --> 00:56:42,920
+Filippo Strozzi: su questo Mac
+
+1493
+00:56:43,480 --> 00:56:45,240
+Filippo Strozzi: e devo dire la verità:
+
+1494
+00:56:45,800 --> 00:56:48,040
+Filippo Strozzi: l'operazione è abbastanza banale.
+
+1495
+00:56:48,040 --> 00:56:51,880
+Filippo Strozzi: Quando mi viene in mente, casomai, un software che non ho installato, lo scarico così
+
+1496
+00:56:52,040 --> 00:56:52,760
+Filippo Strozzi: ormai.
+
+1497
+00:56:53,260 --> 00:56:55,100
+Filippo Strozzi: Lavoro sono in questa maniera.
+
+1498
+00:56:55,100 --> 00:56:57,820
+Filippo Strozzi: Pochissimi software, cioè i software principali,
+
+1499
+00:56:58,220 --> 00:57:00,060
+Filippo Strozzi: si trovano tranquillamente.
+
+1500
+00:57:00,060 --> 00:57:00,220
+Filippo Strozzi: Quindi
+
+1501
+00:57:00,380 --> 00:57:02,300
+Filippo Strozzi: LibreOffice, Acrobat
+
+1502
+00:57:02,540 --> 00:57:04,460
+Filippo Strozzi: Reader, per esempio.
+
+1503
+00:57:04,100 --> 00:57:05,940
+Filippo Strozzi: Tutta una serie di software,
+
+1504
+00:57:06,100 --> 00:57:12,180
+Filippo Strozzi: basta digitare il nome o fare una ricerca per sapere se c'è già il sistema, poi
+
+1505
+00:57:12,420 --> 00:57:12,740
+Filippo Strozzi: per
+
+1506
+00:57:13,620 --> 00:57:14,420
+Filippo Strozzi: scaricare
+
+1507
+00:57:15,060 --> 00:57:16,500
+Filippo Strozzi: questi software.
+
+1508
+00:57:17,039 --> 00:57:20,559
+Filippo Strozzi: Li installa direttamente, quindi ve le trovate nelle app, è tutto
+
+1509
+00:57:21,039 --> 00:57:23,200
+Filippo Strozzi: veramente trasparente e appunto
+
+1510
+00:57:23,440 --> 00:57:28,000
+Filippo Strozzi: essendo a riga di comando basta digitare i nomi del software che volete scrivere.
+
+1511
+00:57:26,880 --> 00:57:29,120
+Filippo Strozzi: scaricare quindi molto rapido molto veloce
+
+1512
+00:57:29,360 --> 00:57:32,320
+Filippo Strozzi: vi permette addirittura se fate la lista della spesa
+
+1513
+00:57:32,480 --> 00:57:34,800
+Filippo Strozzi: e giusto per chi fosse interessato
+
+1514
+00:57:35,040 --> 00:57:36,560
+Filippo Strozzi: basta digitare brew
+
+1515
+00:57:36,800 --> 00:57:37,040
+Filippo Strozzi: list
+
+1516
+00:57:37,600 --> 00:57:37,760
+Filippo Strozzi: per
+
+1517
+00:57:38,080 --> 00:57:41,280
+Filippo Strozzi: avere la lista di tutti i software che avete installato con Umbrio.
+
+1518
+00:57:41,280 --> 00:57:43,600
+Filippo Strozzi: Quindi a quel punto lì copiate questa lista
+
+1519
+00:57:43,920 --> 00:57:44,240
+Filippo Strozzi: e
+
+1520
+00:57:44,560 --> 00:57:46,480
+Filippo Strozzi: ovviamente nel vostro nuovo Mac
+
+1521
+00:57:46,720 --> 00:57:48,320
+Filippo Strozzi: potete scaricarli
+
+1522
+00:57:48,340 --> 00:57:52,500
+Filippo Strozzi: Ovviamente ci metterà il solito tempo per scaricare da internet, perché quello
+
+1523
+00:57:53,460 --> 00:57:59,060
+Filippo Strozzi: non ve ne uscite, ma se avete un collegamento veloce, l'operazione di installazione di una decina
+
+1524
+00:57:59,220 --> 00:58:00,580
+Filippo Strozzi: di software è qualcosa.
+
+1525
+00:58:00,840 --> 00:58:04,440
+Filippo Strozzi: di automatico ed è molto simile appunto al Metaph Store
+
+1526
+00:58:04,600 --> 00:58:07,400
+Filippo Strozzi: quindi ottenete diciamo il mondo completo
+
+1527
+00:58:08,040 --> 00:58:08,680
+Filippo Strozzi: in base
+
+1528
+00:58:09,000 --> 00:58:10,600
+Filippo Strozzi: alle vostre esigenze
+
+1529
+00:58:10,540 --> 00:58:12,220
+Filippo Strozzi: per cui io lo consiglio
+
+1530
+00:58:12,380 --> 00:58:12,940
+Filippo Strozzi: veramente
+
+1531
+00:58:13,100 --> 00:58:15,980
+Filippo Strozzi: poi ovviamente dipende da tante cose
+
+1532
+00:58:16,140 --> 00:58:19,820
+Filippo Strozzi: un'altra particolarità di Time Machine che voglio specificare
+
+1533
+00:58:19,900 --> 00:58:20,059
+Filippo Strozzi: È
+
+1534
+00:58:20,299 --> 00:58:24,940
+Filippo Strozzi: quella che teoricamente, io non ci ho mai provato, ma credo che fosse Davide Gatti
+
+1535
+00:58:25,099 --> 00:58:27,740
+Filippo Strozzi: che ci ha confermato che funziona.
+
+1536
+00:58:28,860 --> 00:58:29,580
+Filippo Strozzi: potete
+
+1537
+00:58:29,820 --> 00:58:31,340
+Filippo Strozzi: far partire il vostro Mac
+
+1538
+00:58:31,500 --> 00:58:34,540
+Filippo Strozzi: da un backup di Time Machine quindi per esempio avete l'hard disk
+
+1539
+00:58:34,780 --> 00:58:36,060
+Filippo Strozzi: danneggiato del vostro Mac
+
+1540
+00:58:36,300 --> 00:58:36,700
+Filippo Strozzi: quindi il Mac
+
+1541
+00:58:36,860 --> 00:58:37,740
+Filippo Strozzi: è bloccato
+
+1542
+00:58:38,059 --> 00:58:42,859
+Filippo Strozzi: Dovete lavorare a tutti i costi, è possibile far ripartire il vostro Mac, ovviamente
+
+1543
+00:58:43,819 --> 00:58:44,460
+Filippo Strozzi: solo l'hard disk
+
+1544
+00:58:44,700 --> 00:58:45,900
+Filippo Strozzi: che ha dei problemi
+
+1545
+00:58:46,020 --> 00:58:46,900
+Filippo Strozzi: O comunque
+
+1546
+00:58:47,060 --> 00:58:49,700
+Filippo Strozzi: utilizzare il backup di Time Machine su un altro Mac
+
+1547
+00:58:49,940 --> 00:58:51,380
+Filippo Strozzi: facendolo partire dall'hard disk
+
+1548
+00:58:51,540 --> 00:58:55,619
+Filippo Strozzi: di Time Machine per avere la macchina operativa, chiamiamola così
+
+1549
+00:58:55,940 --> 00:58:56,180
+Filippo Strozzi: ,
+
+1550
+00:58:56,500 --> 00:58:57,619
+Filippo Strozzi: temporaneamente
+
+1551
+00:58:57,859 --> 00:59:00,260
+Filippo Strozzi: se è una questione di vita e di morte.
+
+1552
+00:58:59,820 --> 00:59:00,460
+Roberto Marin: Esattamente,
+
+1553
+00:59:00,620 --> 00:59:02,220
+Roberto Marin: tutto molto giusto.
+
+1554
+00:59:02,220 --> 00:59:06,460
+Roberto Marin: Come avete notato, io e Filippo abbiamo due approcci diversi,
+
+1555
+00:59:07,340 --> 00:59:08,700
+Roberto Marin: complementari direi.
+
+1556
+00:59:08,700 --> 00:59:09,340
+Roberto Marin: Sì, esatto,
+
+1557
+00:59:09,660 --> 00:59:10,940
+Roberto Marin: è proprio bello, secondo me,
+
+1558
+00:59:11,180 --> 00:59:11,820
+Roberto Marin: questo perché
+
+1559
+00:59:12,560 --> 00:59:14,400
+Roberto Marin: avendo due approcci diversi
+
+1560
+00:59:14,640 --> 00:59:14,960
+Roberto Marin: così
+
+1561
+00:59:16,240 --> 00:59:18,480
+Roberto Marin: complementari allo stesso problema
+
+1562
+00:59:18,800 --> 00:59:19,920
+Roberto Marin: capite anche cos'è
+
+1563
+00:59:20,080 --> 00:59:20,720
+Roberto Marin: meglio per voi
+
+1564
+00:59:20,960 --> 00:59:21,280
+Roberto Marin: perché
+
+1565
+00:59:21,440 --> 00:59:22,640
+Roberto Marin: può essere meglio
+
+1566
+00:59:22,760 --> 00:59:29,320
+Roberto Marin: andarvi a mangiare un panino mentre il computer lavora oppure metterci le mani dentro e digitare un po' di
+
+1567
+00:59:29,960 --> 00:59:30,440
+Roberto Marin: diciamo
+
+1568
+00:59:30,600 --> 00:59:31,560
+Roberto Marin: di caratteri
+
+1569
+00:59:31,760 --> 00:59:35,440
+Roberto Marin: su Hombrew e tirarvi fuori il problema e sentirvi soddisfatti
+
+1570
+00:59:35,600 --> 00:59:36,080
+Roberto Marin: anche di più
+
+1571
+00:59:36,400 --> 00:59:37,680
+Roberto Marin: di quello che può essere
+
+1572
+00:59:37,840 --> 00:59:40,240
+Roberto Marin: la degustazione di un panino.
+
+1573
+00:59:39,880 --> 00:59:41,560
+Roberto Marin: Dico bene Filippo,
+
+1574
+00:59:42,120 --> 00:59:42,840
+Roberto Marin: oppure fare
+
+1575
+00:59:43,000 --> 00:59:44,840
+Roberto Marin: la stessa cosa mangiando un panino.
+
+1576
+00:59:44,840 --> 00:59:51,400
+Roberto Marin: Ah no, no, no, no, ragazzi, poi sarà un'altra cosa che adesso lì mi in punto: è la pulizia del computer, perché
+
+1577
+00:59:51,500 --> 00:59:51,660
+Roberto Marin: è
+
+1578
+00:59:51,980 --> 00:59:52,940
+Roberto Marin: una cosa che
+
+1579
+00:59:53,180 --> 00:59:54,380
+Roberto Marin: non sopporto
+
+1580
+00:59:54,540 --> 00:59:56,300
+Roberto Marin: e ne parleremo anche in
+
+1581
+00:59:56,620 --> 00:59:57,500
+Roberto Marin: un altro momento
+
+1582
+00:59:57,660 --> 00:59:57,980
+Roberto Marin: perché
+
+1583
+00:59:58,460 --> 01:00:03,180
+Roberto Marin: credo che grandi parti dei problemi delle tastiere sia dovuto anche a quello
+
+1584
+01:00:02,900 --> 01:00:03,460
+Roberto Marin: nel senso
+
+1585
+01:00:03,700 --> 01:00:03,859
+Roberto Marin: no
+
+1586
+01:00:04,020 --> 01:00:06,099
+Roberto Marin: mangio un panino mentre sto digitando
+
+1587
+01:00:06,260 --> 01:00:09,779
+Roberto Marin: sto cercando su facebook o via discorrendo poi mi lamento
+
+1588
+01:00:10,020 --> 01:00:10,260
+Roberto Marin: che
+
+1589
+01:00:10,500 --> 01:00:12,020
+Roberto Marin: è caduta la briciola
+
+1590
+01:00:11,900 --> 01:00:15,500
+Roberto Marin: Sotto la lettera T non riesco più a scrivere qualcosa tipo
+
+1591
+01:00:15,819 --> 01:00:16,059
+Roberto Marin: tutto
+
+1592
+01:00:17,020 --> 01:00:17,420
+Roberto Marin: vabbè
+
+1593
+01:00:17,579 --> 01:00:17,900
+Roberto Marin: dobbiamo
+
+1594
+01:00:18,059 --> 01:00:19,500
+Roberto Marin: pensarci anche prima no?
+
+1595
+01:00:19,500 --> 01:00:20,380
+Roberto Marin: Vabbè comunque
+
+1596
+01:00:20,539 --> 01:00:22,460
+Roberto Marin: dettagli, dettagli.
+
+1597
+01:00:22,240 --> 01:00:23,760
+Filippo Strozzi: allora cosa vogliamo fare
+
+1598
+01:00:24,080 --> 01:00:24,720
+Filippo Strozzi: siamo
+
+1599
+01:00:24,880 --> 01:00:26,240
+Filippo Strozzi: a un'ora di diretta
+
+1600
+01:00:26,400 --> 01:00:27,600
+Filippo Strozzi: vogliamo interrompere
+
+1601
+01:00:27,760 --> 01:00:29,120
+Filippo Strozzi: fare la terza parte
+
+1602
+01:00:29,700 --> 01:00:31,700
+Filippo Strozzi: La prossima settimana o proviamo a lavorare?
+
+1603
+01:00:32,180 --> 01:00:32,980
+Filippo Strozzi: Ma sì, no!
+
+1604
+01:00:33,220 --> 01:00:34,660
+Filippo Strozzi: Andiamo alla prossima settimana così
+
+1605
+01:00:34,820 --> 01:00:36,020
+Filippo Strozzi: abbiamo già del materiale.
+
+1606
+01:00:36,020 --> 01:00:36,500
+Filippo Strozzi: Vai!
+
+1607
+01:00:36,660 --> 01:00:40,740
+Filippo Strozzi: Bene, bene, allora io direi che a questo punto ricapituliamo.
+
+1608
+01:00:41,100 --> 01:00:42,780
+Filippo Strozzi: Diciamo che la prima puntata che
+
+1609
+01:00:43,580 --> 01:00:44,940
+Filippo Strozzi: avete ascoltato, visto
+
+1610
+01:00:45,740 --> 01:00:48,300
+Filippo Strozzi: se siete in diretta su YouTube, abbiamo
+
+1611
+01:00:48,940 --> 01:00:49,900
+Filippo Strozzi: visto qual
+
+1612
+01:00:50,140 --> 01:00:52,140
+Filippo Strozzi: è la scelta del Mac.
+
+1613
+01:00:52,120 --> 01:00:52,360
+Filippo Strozzi: come
+
+1614
+01:00:52,520 --> 01:00:53,240
+Filippo Strozzi: scegliere il Mac
+
+1615
+01:00:53,560 --> 01:00:57,800
+Filippo Strozzi: e quali sono le opzioni ovviamente per passare a MacOS.
+
+1616
+01:00:58,120 --> 01:01:01,320
+Filippo Strozzi: Oggi abbiamo visto come passare da Windows a Macos
+
+1617
+01:01:01,480 --> 01:01:02,280
+Filippo Strozzi: e come.
+
+1618
+01:01:02,420 --> 01:01:03,380
+Filippo Strozzi: Fare il passaggio
+
+1619
+01:01:04,740 --> 01:01:06,420
+Filippo Strozzi: da un precedente Mac
+
+1620
+01:01:06,660 --> 01:01:08,100
+Filippo Strozzi: a un nuovo Mac.
+
+1621
+01:01:08,100 --> 01:01:10,260
+Filippo Strozzi: La volta prossima, a questo punto
+
+1622
+01:01:11,000 --> 01:01:12,359
+Filippo Strozzi: Prenderemo confidenza col
+
+1623
+01:01:12,599 --> 01:01:16,839
+Filippo Strozzi: sistema operativo e vedremo un po' di cose che credo siano utili
+
+1624
+01:01:17,160 --> 01:01:19,400
+Filippo Strozzi: per chi non è ancora avvezzo
+
+1625
+01:01:19,720 --> 01:01:21,960
+Filippo Strozzi: al sistema operativo di Apple.
+
+1626
+01:01:21,840 --> 01:01:22,480
+Filippo Strozzi: e quindi
+
+1627
+01:01:22,800 --> 01:01:24,720
+Filippo Strozzi: finalmente poi entreremo
+
+1628
+01:01:25,040 --> 01:01:26,880
+Filippo Strozzi: nel vivo, chiamiamolo così
+
+1629
+01:01:27,200 --> 01:01:27,520
+Filippo Strozzi: ,
+
+1630
+01:01:29,200 --> 01:01:33,760
+Filippo Strozzi: di noi utenti Apple che lavoriamo prevalentemente con Mac.
+
+1631
+01:01:33,620 --> 01:01:34,260
+Filippo Strozzi: Poi
+
+1632
+01:01:34,420 --> 01:01:40,500
+Filippo Strozzi: dovremo decidere anche cosa fare nelle prossime puntate, ma questo lo vedremo più avanti.
+
+1633
+01:01:41,220 --> 01:01:41,460
+Roberto Marin: È
+
+1634
+01:01:41,779 --> 01:01:42,099
+Roberto Marin: tutto
+
+1635
+01:01:42,339 --> 01:01:42,660
+Roberto Marin: un
+
+1636
+01:01:43,619 --> 01:01:47,779
+Roberto Marin: percorso a ostacoli tra gli impegni e quello di cui vogliamo
+
+1637
+01:01:47,940 --> 01:01:48,740
+Roberto Marin: parlare, perché
+
+1638
+01:01:48,900 --> 01:01:52,660
+Roberto Marin: continuo a dire, noi avevamo una scaletta unica che.
+
+1639
+01:01:52,500 --> 01:01:55,300
+Roberto Marin: Come per magia è diventata di tre puntate
+
+1640
+01:01:55,460 --> 01:02:00,500
+Roberto Marin: e comincio a avere paura per le prossime puntate, perché mi sa che parleremo un argomento e
+
+1641
+01:02:00,820 --> 01:02:02,900
+Roberto Marin: vai, ne parleremo fino a due
+
+1642
+01:02:03,060 --> 01:02:03,220
+Roberto Marin: -tre
+
+1643
+01:02:03,380 --> 01:02:04,900
+Roberto Marin: puntate di continuo perché
+
+1644
+01:02:05,700 --> 01:02:07,220
+Roberto Marin: lo scopo.
+
+1645
+01:02:06,700 --> 01:02:10,220
+Filippo Strozzi: Lo scopo di questo podcast è entrare nel dettaglio e
+
+1646
+01:02:10,540 --> 01:02:11,180
+Filippo Strozzi: dare
+
+1647
+01:02:11,820 --> 01:02:13,820
+Filippo Strozzi: la visuale più completa possibile.
+
+1648
+01:02:13,820 --> 01:02:15,020
+Filippo Strozzi: Direi che tre episodi sono
+
+1649
+01:02:15,260 --> 01:02:15,980
+Filippo Strozzi: Come passare Mac
+
+1650
+01:02:16,140 --> 01:02:16,220
+Filippo Strozzi: ,
+
+1651
+01:02:16,700 --> 01:02:18,540
+Filippo Strozzi: più completo di così si muore.
+
+1652
+01:02:18,540 --> 01:02:19,340
+Filippo Strozzi: Ah, sì, che siamo solo.
+
+1653
+01:02:19,580 --> 01:02:21,820
+Filippo Strozzi: Poi probabilmente ci siamo scordati di qualcosa.
+
+1654
+01:02:22,300 --> 01:02:22,540
+Filippo Strozzi: Però
+
+1655
+01:02:22,780 --> 01:02:23,740
+Filippo Strozzi: sì, sì, sì, probabilmente
+
+1656
+01:02:24,540 --> 01:02:24,860
+Filippo Strozzi: spero
+
+1657
+01:02:25,020 --> 01:02:25,580
+Filippo Strozzi: che appunto
+
+1658
+01:02:25,820 --> 01:02:26,700
+Filippo Strozzi: gli utenti novizi
+
+1659
+01:02:26,940 --> 01:02:28,780
+Filippo Strozzi: o chi è incuriosito nella.
+
+1660
+01:02:28,480 --> 01:02:29,440
+Filippo Strozzi: nel passare da Mac
+
+1661
+01:02:29,839 --> 01:02:32,000
+Filippo Strozzi: possano trovare spunti utili
+
+1662
+01:02:32,400 --> 01:02:32,960
+Filippo Strozzi: adesso
+
+1663
+01:02:33,200 --> 01:02:34,559
+Filippo Strozzi: in particolar modo quando
+
+1664
+01:02:34,720 --> 01:02:36,559
+Filippo Strozzi: uscirà veramente il podcast
+
+1665
+01:02:37,119 --> 01:02:37,279
+Filippo Strozzi: quando
+
+1666
+01:02:37,440 --> 01:02:38,319
+Filippo Strozzi: lo fai uscire
+
+1667
+01:02:38,559 --> 01:02:39,440
+Filippo Strozzi: Io direi
+
+1668
+01:02:39,680 --> 01:02:41,599
+Filippo Strozzi: a questo punto facciamo altre due o tre
+
+1669
+01:02:41,760 --> 01:02:43,279
+Filippo Strozzi: puntate e poi dopo facciamo partire
+
+1670
+01:02:43,520 --> 01:02:43,920
+Filippo Strozzi: tutto.
+
+1671
+01:02:44,960 --> 01:02:46,559
+Filippo Strozzi: Mi piace, mi piace.
+
+1672
+01:02:46,640 --> 01:02:48,960
+Filippo Strozzi: Aggiungeremo anche delle corpose note
+
+1673
+01:02:49,119 --> 01:02:50,000
+Filippo Strozzi: dell'episodi
+
+1674
+01:02:50,480 --> 01:02:55,039
+Filippo Strozzi: proprio per darvi la possibilità di avere dei link e delle ulteriori risorse
+
+1675
+01:02:55,200 --> 01:02:56,319
+Filippo Strozzi: se volete approfondire
+
+1676
+01:02:56,480 --> 01:02:56,640
+Filippo Strozzi: perché
+
+1677
+01:02:56,799 --> 01:02:58,079
+Filippo Strozzi: per forza di cose.
+
+1678
+01:02:57,680 --> 01:02:58,000
+Filippo Strozzi: un po
+
+1679
+01:02:58,160 --> 01:02:58,480
+Filippo Strozzi: perché
+
+1680
+01:02:58,640 --> 01:02:59,760
+Filippo Strozzi: lo facciamo in audo
+
+1681
+01:02:59,920 --> 01:03:00,640
+Filippo Strozzi: un po' perché
+
+1682
+01:03:01,200 --> 01:03:03,600
+Filippo Strozzi: comunque non possiamo perderci
+
+1683
+01:03:03,760 --> 01:03:05,680
+Filippo Strozzi: l'infinito e oltre
+
+1684
+01:03:06,060 --> 01:03:06,620
+Filippo Strozzi: Dobbiamo
+
+1685
+01:03:06,780 --> 01:03:10,060
+Filippo Strozzi: ogni tanto tagliare qua e là, anzi io ogni tanto
+
+1686
+01:03:11,020 --> 01:03:14,540
+Filippo Strozzi: blocco Roberto che è quello più ciarliero.
+
+1687
+01:03:15,000 --> 01:03:16,680
+Filippo Strozzi: Perché anche oggi avevi detto che
+
+1688
+01:03:16,920 --> 01:03:18,760
+Filippo Strozzi: non avresti parlato per niente?
+
+1689
+01:03:19,000 --> 01:03:19,720
+Filippo Strozzi: Te lo ricordo.
+
+1690
+01:03:19,720 --> 01:03:21,400
+Roberto Marin: È vero, è vero,
+
+1691
+01:03:22,900 --> 01:03:25,059
+Roberto Marin: Mi sentivo un po' impreparato, ma
+
+1692
+01:03:25,539 --> 01:03:27,059
+Roberto Marin: ero lì che ci stavo ragionando.
+
+1693
+01:03:27,059 --> 01:03:29,220
+Roberto Marin: Ho detto: Boh, io vado, abbraccio.
+
+1694
+01:03:29,220 --> 01:03:32,740
+Roberto Marin: Ormai avete capito che, insomma, sono poco impostato e
+
+1695
+01:03:32,980 --> 01:03:37,220
+Roberto Marin: racconto un po' quello che mi viene in testa, e cerco di dire.
+
+1696
+01:03:36,960 --> 01:03:39,840
+Roberto Marin: Quello che potrebbe essere utile ad un utente che era
+
+1697
+01:03:40,320 --> 01:03:42,240
+Roberto Marin: inesperto come me all'inizio.
+
+1698
+01:03:42,240 --> 01:03:44,640
+Filippo Strozzi: Benissimo, allora a questo punto direi che siamo arrivati ai
+
+1699
+01:03:44,800 --> 01:03:45,600
+Filippo Strozzi: saluti.
+
+1700
+01:03:45,840 --> 01:03:49,920
+Filippo Strozzi: Ovviamente ci risentiamo venerdì prossimo in diretta.
+
+1701
+01:03:49,700 --> 01:03:52,420
+Filippo Strozzi: Se ci seguite in diretta, altrimenti
+
+1702
+01:03:53,380 --> 01:03:56,660
+Filippo Strozzi: nelle prossime puntate del podcast.
+
+1703
+01:03:56,660 --> 01:03:59,220
+Roberto Marin: Io aggiungo soltanto una cosa che mi dice Filippo
+
+1704
+01:03:59,380 --> 01:04:00,339
+Roberto Marin: di seguire
+
+1705
+01:04:00,280 --> 01:04:05,000
+Roberto Marin: La scaletta, ma ci siamo dimenticati di ricordarvi come potete sostenerci.
+
+1706
+01:04:05,000 --> 01:04:06,280
+Roberto Marin: Come potete fare?
+
+1707
+01:04:06,280 --> 01:04:08,520
+Roberto Marin: Sendo i link affiliati che troverete nel
+
+1708
+01:04:08,680 --> 01:04:10,280
+Roberto Marin: note dell'episodio, o probabilmente
+
+1709
+01:04:10,440 --> 01:04:11,960
+Roberto Marin: anche sui vari.
+
+1710
+01:04:11,559 --> 01:04:12,359
+Roberto Marin: blog mio
+
+1711
+01:04:12,520 --> 01:04:13,319
+Roberto Marin: e di Filippo
+
+1712
+01:04:13,559 --> 01:04:15,079
+Roberto Marin: utilizzando PayPal
+
+1713
+01:04:15,880 --> 01:04:19,240
+Roberto Marin: sponsorizzando il podcast direttamente in questo modo
+
+1714
+01:04:19,660 --> 01:04:26,380
+Roberto Marin: Grazie anche magari a qualche recensione che potete fare su iTunes, iscriversi al feed RSS
+
+1715
+01:04:26,700 --> 01:04:29,820
+Roberto Marin: del podcast quando ci sarai, quando Filippo.
+
+1716
+01:04:30,440 --> 01:04:32,440
+Roberto Marin: Si degnerà di farlo.
+
+1717
+01:04:32,440 --> 01:04:34,280
+Roberto Marin: No, non è più degnerà, ma più che altro
+
+1718
+01:04:34,440 --> 01:04:39,560
+Roberto Marin: troverà il tempo, perché so che sta facendo un milione e mezzo di cose che io, francamente,
+
+1719
+01:04:39,880 --> 01:04:42,119
+Roberto Marin: da essere umano, perché.
+
+1720
+01:04:41,400 --> 01:04:44,279
+Roberto Marin: Lui chiaramente non è un essere umano perché non può.
+
+1721
+01:04:44,279 --> 01:04:44,359
+Roberto Marin: .
+
+1722
+01:04:44,440 --> 01:04:48,760
+Roberto Marin: Lui ha leggermente di 48 ore e non si capisce perché lui ce le abbia e io no.
+
+1723
+01:04:48,760 --> 01:04:50,119
+Roberto Marin: Vorrei fare il cambio perché così
+
+1724
+01:04:50,279 --> 01:04:50,760
+Roberto Marin: almeno.
+
+1725
+01:04:50,580 --> 01:04:54,820
+Roberto Marin: riuscirei a fare quelle due cose in più che mi mancano da fare tutte le volte
+
+1726
+01:04:50,760 --> 01:04:51,079
+Roberto Marin: .
+
+1727
+01:04:55,060 --> 01:04:55,300
+Roberto Marin: comunque
+
+1728
+01:04:55,540 --> 01:04:57,940
+Roberto Marin: tornando a noi invece per quanto riguarda
+
+1729
+01:04:58,100 --> 01:04:58,420
+Roberto Marin: youtube
+
+1730
+01:04:58,740 --> 01:05:01,060
+Roberto Marin: potete iscrivervi al canale
+
+1731
+01:05:01,140 --> 01:05:02,420
+Roberto Marin: iniziare a
+
+1732
+01:05:02,660 --> 01:05:07,299
+Roberto Marin: premere la campanella in modo tale siate avvertiti quando parte una diretta
+
+1733
+01:05:07,539 --> 01:05:08,660
+Roberto Marin: oppure magari
+
+1734
+01:05:08,500 --> 01:05:10,420
+Roberto Marin: Chi lo sa, in un futuro partirà
+
+1735
+01:05:10,580 --> 01:05:11,460
+Roberto Marin: una mini diretta
+
+1736
+01:05:11,620 --> 01:05:17,300
+Roberto Marin: di 10 minuti dove vi vogliamo salutare e ci lasciamo magari bombardare dalle domande.
+
+1737
+01:05:17,059 --> 01:05:18,660
+Roberto Marin: ci potrebbe anche essere questo
+
+1738
+01:05:18,900 --> 01:05:19,539
+Roberto Marin: tipo di
+
+1739
+01:05:19,700 --> 01:05:20,980
+Roberto Marin: sfruttamento di youtube
+
+1740
+01:05:21,380 --> 01:05:22,099
+Roberto Marin: chi lo sa
+
+1741
+01:05:22,260 --> 01:05:23,539
+Roberto Marin: ma la cosa più importante
+
+1742
+01:05:23,700 --> 01:05:26,500
+Roberto Marin: è condividere con tutti gli amici o persone che
+
+1743
+01:05:26,740 --> 01:05:28,260
+Roberto Marin: possono essere interessati
+
+1744
+01:05:28,359 --> 01:05:31,240
+Roberto Marin: A questo simpatico podcast condotto da Filippo
+
+1745
+01:05:31,400 --> 01:05:33,880
+Roberto Marin: Strozzi e Roberto Marin.
+

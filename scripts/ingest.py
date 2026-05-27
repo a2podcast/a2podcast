@@ -95,7 +95,8 @@ def clean_body(raw: str) -> str:
     if cutoff is not None:
         lines = lines[:cutoff]
 
-    # 4. Deduplicate consecutive identical blockquote lines
+    # 4. Deduplicate blockquote blocks separated by blank lines
+    # Pass 1: remove identical blockquote lines consecutive (no blank between)
     cleaned = []
     prev = None
     for line in lines:
@@ -103,6 +104,24 @@ def clean_body(raw: str) -> str:
             continue
         cleaned.append(line)
         prev = line
+    # Pass 2: remove blockquote blocks separated only by blank lines if text matches
+    seen_bq = set()
+    final = []
+    i = 0
+    while i < len(cleaned):
+        line = cleaned[i]
+        if line.startswith(">"):
+            bq_text = line.lstrip("> ").strip()
+            if bq_text in seen_bq:
+                # skip this blockquote and any trailing blank line
+                i += 1
+                while i < len(cleaned) and not cleaned[i].strip():
+                    i += 1
+                continue
+            seen_bq.add(bq_text)
+        final.append(line)
+        i += 1
+    cleaned = final
 
     # 5. Strip trailing blank lines
     while cleaned and not cleaned[-1].strip():

@@ -30,7 +30,6 @@ Il [markdown](https://daringfireball.net/projects/markdown/) nasce da un'idea di
 > Markdown is a text-to-HTML conversion tool for web writers.
 >
 > Markdown è uno strumento di conversione da testo a HTML per gli scrittori del web.
->
 > *John Gruber* introduzione al markdown ([link](https://daringfireball.net/projects/markdown/))
 
 *Gruber* all’epoco aveva iniziato a scrivere il proprio blog e non c'aveva voglia di scrivere tutto in HTML (altro linguagigo di markup alla base del web). Così pensò di implementare (aiutato poi da Swartz che dei due è il vero programmatore) un interprete Perl per scrivere in modo semplice e solamente testuale i suoi post del blog che poi, grazie allo script Perl, venivano convertiti in formato HTML e pubblicabile poi sul web.

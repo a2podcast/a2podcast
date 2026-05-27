@@ -11,7 +11,7 @@ tags = ["pkm", "gestione-conoscenza", "produttività", "mac", "knowledge-managem
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "P2Rdq0k6Grs"
 +++
 
