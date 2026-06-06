@@ -124,6 +124,10 @@ Mostra all'utente il risultato (o il diff). Verifica:
 - `## Note dell’episodio` è subito dopo il teaser/descrizione;
 - i link seguono immediatamente `## Note dell’episodio`;
 - ogni link usa il formato `- [Nome](https://url): descrizione`;
+- nessuna descrizione link usa formule generiche come `risorsa citata nelle note originali`,
+  `pagina di riferimento usata nelle note originali`, `risorsa Apple o Mac citata nelle note
+  originali`, `episodio A2 collegato agli argomenti trattati`;
+- nessun link di servizio/outro è entrato nelle note finali, salvo sia oggetto reale della puntata;
 - `## Sinossi[^sinossi-ai]` arriva dopo i link, non prima;
 - esiste la definizione footnote `[^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.`;
 - non c'è un blockquote di nota IA sotto il titolo Sinossi;

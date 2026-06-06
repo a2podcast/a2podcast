@@ -53,8 +53,29 @@ supporto Apple ufficiale, oppure ometti il link se è una funzione nativa ovvia.
 - Formato riga esatto: `- [Nome prodotto / software / pagina web di riferimento](https://url-completo): <breve descrizione>`
 - Il nome nel link deve essere pulito e leggibile; la descrizione dopo i due punti deve spiegare
   in una frase breve perché quella risorsa è citata o utile per la puntata.
+- La descrizione deve essere **specifica** e derivata dal contesto dell'episodio, dalla nota
+  originaria o dalla pagina verificata. Deve dire cosa fa quella risorsa o perché entra nel tema.
+- Per ricavare la descrizione usa, in quest'ordine:
+  1. la frase subito prima/dopo il link nelle note originarie;
+  2. le heading padre della sezione in cui appare il link;
+  3. il blocco della trascrizione in cui la risorsa viene discussa;
+  4. titolo/metadati della pagina verificata.
+- Descrizioni generiche come `risorsa citata nelle note originali dell’episodio`, `risorsa Apple
+  o Mac citata nelle note originali`, `episodio A2 collegato agli argomenti trattati` sono vietate:
+  se stai per scriverle, non hai abbastanza contesto e devi tornare alla trascrizione/nota o
+  segnalare il link come da validare.
+- Non usare label vaghe come `link qui`, `podcast`, `lavoro`, `dove è partito`, `inutile` se non
+  riesci a ricostruire il nome reale della pagina. In quel caso verifica l'URL, rinomina la risorsa
+  con il titolo corretto oppure escludila e segnala il dubbio.
+- Non usare URL nudi come testo del link (`https://...`). Se nelle note originarie il link è scritto
+  come URL, ricostruisci un nome leggibile dalla pagina o dal contesto, ad esempio `Prezzi Notion`,
+  `Profilo Instagram Soya`, `Backlink`.
 - Link ad **altri episodi A2**: sempre `https://a2podcast.it/NN/` (con slash finale).
   MAI `a2podcast.fireside.fm` (vecchio dominio).
+- Escludi dalla sezione Note i link di servizio o di chiusura che non sono "cose trattate" nella
+  puntata: homepage A2, canale YouTube A2, istruzioni per recensioni, contatti dei conduttori,
+  siti personali dei conduttori, newsletter inesistenti, pagine "dove trovarci", feed/pagine
+  podcast generiche. Possono restare solo se sono davvero oggetto sostanziale della conversazione.
 - Per URL incerti: includi con commento `<!-- DA VERIFICARE -->` a fine riga, così l'utente
   li controlla prima del commit.
 - Nella sinossi usa link inline solo per URL `NOTE_ESISTENTI` o `VERIFICATO`. Non linkare inline
@@ -69,3 +90,21 @@ supporto Apple ufficiale, oppure ometti il link se è una funzione nativa ovvia.
 - Non conservare liste link separate, titoli di link grezzi o sezioni `## Link`: tutto confluisce
   in `## Note dell’episodio`.
 - Non inventare URL. Se non sei sicuro, marca DA_VERIFICARE.
+
+## Esempi di descrizioni accettabili e non accettabili
+
+Non accettabile:
+
+```markdown
+- [Backblaze](https://www.backblaze.com/home-1.html): risorsa citata nelle note originali dell’episodio.
+- [Metodo BuJo](https://en.wikipedia.org/wiki/Bullet_journal): pagina di riferimento usata nelle note originali.
+- [Eric 30x40 template](https://courses.thirtybyforty.com/p/30x40-s-notion-template): risorsa citata nelle note originali dell’episodio.
+```
+
+Accettabile:
+
+```markdown
+- [Backblaze](https://www.backblaze.com/home-1.html): servizio di backup cloud citato come esempio di copia remota/off-site, con costi e tempi di ripristino da valutare.
+- [Metodo BuJo](https://en.wikipedia.org/wiki/Bullet_journal): metodo Bullet Journal usato come riferimento per organizzare attività, appuntamenti e note dentro Notion.
+- [Eric 30x40 template](https://courses.thirtybyforty.com/p/30x40-s-notion-template): template Notion per architetti da cui Roberto prende spunto per roadmap settimanale, ToDo e note.
+```
