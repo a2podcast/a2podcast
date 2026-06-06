@@ -57,7 +57,7 @@ Regole di struttura:
 
 - Usa solo `###` per i capitoli principali.
 - Se servono sottosezioni, usa `#### 1.1 Titolo`, `#### 1.2 Titolo`.
-- Non usare mai `#` o `##` dentro la sinossi: `## Sinossi` viene aggiunto dal merge.
+- Non usare mai `#` o `##` dentro la sinossi: `## Sinossi[^sinossi-ai]` viene aggiunto dal merge.
 - Il numero di capitoli **non è fisso**: dipende dagli argomenti reali della trascrizione.
 - Crea un capitolo per ogni macrotema sostanziale; se un macrotema contiene 2-3 sottoargomenti
   tecnici, usa sottosezioni o punti elenco.

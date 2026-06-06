@@ -18,13 +18,12 @@ La pagina deve avere, nell'ordine:
 - [Nome prodotto / software / pagina web di riferimento](https://link.com): breve descrizione.
 - [Altro nome](https://link.com): breve descrizione.
 
-## Sinossi
-
-> Questa sinossi è generata con l'intelligenza artificiale a partire dalla trascrizione
-> della puntata, per aiutarti a trovare gli argomenti che ti interessano.
+## Sinossi[^sinossi-ai]
 
 ### 1. Primo capitolo
 ...
+
+[^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.
 ```
 
 `## Note dell’episodio` deve quindi stare **subito dopo il teaser/descrizione** e prima della
@@ -38,8 +37,8 @@ heading.
 2. **Teaser**: preserva il blockquote iniziale `>`. Se manca, inserisci le sezioni subito dopo
    il front matter.
 3. **Heading note**: crea o normalizza la sezione come `## Note dell’episodio` subito dopo il
-   teaser. Se nel file esiste `## Note episodio`, `## Note Episodio` o equivalente, trattala
-   come la stessa sezione e normalizzala.
+   teaser. Se nel file esiste `## Note episodio`, `## Note Episodio`, `## Note episiodo` o
+   equivalente, trattala come la stessa sezione e normalizzala.
 4. **Formato link note**: ogni link finale deve usare questo formato esatto:
    `- [Nome prodotto / software / pagina web di riferimento](https://link.com): <breve descrizione>`
 5. **Merge dei link**: fondi i link già presenti nelle note iniziali con quelli emersi da
@@ -54,8 +53,9 @@ heading.
      sinossi più pertinente.
    - Se è ambiguo, contraddittorio o non riconciliabile con la trascrizione, non decidere in
      silenzio: segnala il problema all'utente.
-8. **Sinossi**: inserisci `## Sinossi` dopo `## Note dell’episodio` e la lista link normalizzata.
-   Poi aggiungi la nota fissa e i capitoli numerati prodotti in Fase 3.
+8. **Sinossi**: inserisci `## Sinossi[^sinossi-ai]` dopo `## Note dell’episodio` e la lista link
+   normalizzata. Poi aggiungi i capitoli numerati prodotti in Fase 3 e la footnote IA alla fine
+   della sinossi.
 9. **Heading**: nel corpo usa solo `##`, `###`, `####`. MAI `#`.
 10. **Numerazione**: i capitoli della sinossi devono restare numerati (`### 1. ...`,
     `### 2. ...`); eventuali sottosezioni usano `#### 1.1 ...`, `#### 1.2 ...`.
@@ -93,17 +93,19 @@ Formato della segnalazione:
 Le opzioni devono essere 2 o 3, concrete e valutabili dall'utente. Non inserire questa sezione
 nel file episodio salvo richiesta esplicita: è un checkpoint editoriale.
 
-## Nota fissa sotto `## Sinossi`
+## Footnote IA della sinossi
 
 ```markdown
-## Sinossi
-
-> Questa sinossi è generata con l'intelligenza artificiale a partire dalla trascrizione
-> della puntata, per aiutarti a trovare gli argomenti che ti interessano.
+## Sinossi[^sinossi-ai]
 
 ### 1. [primo capitolo dalla Fase 3]
 ...
+
+[^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.
 ```
+
+La footnote deve essere una vera nota a piè di pagina Markdown, non un blockquote e non una frase
+visibile sotto il titolo. Usa sempre l'identificatore `[^sinossi-ai]`.
 
 ## Come applicare la modifica
 
@@ -122,7 +124,9 @@ Mostra all'utente il risultato (o il diff). Verifica:
 - `## Note dell’episodio` è subito dopo il teaser/descrizione;
 - i link seguono immediatamente `## Note dell’episodio`;
 - ogni link usa il formato `- [Nome](https://url): descrizione`;
-- `## Sinossi` arriva dopo i link, non prima;
+- `## Sinossi[^sinossi-ai]` arriva dopo i link, non prima;
+- esiste la definizione footnote `[^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.`;
+- non c'è un blockquote di nota IA sotto il titolo Sinossi;
 - nel markdown non ci sono heading `# `;
 - non ci sono accenti scritti con apostrofo;
 - non ci sono link duplicati;

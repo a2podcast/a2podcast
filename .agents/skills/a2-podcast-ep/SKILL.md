@@ -54,7 +54,7 @@ Questi punti distinguono A2 da altri podcast — verificali sempre:
 | Tag | **kebab-case minuscolo** (convenzione reale A2): `task-manager`, `apple-pencil`, `intelligenza-artificiale`, `time-management`. NON forma con spazi/maiuscole. Vedi `references/tags-a2.md`. |
 | Link interni ad altri episodi | sempre `https://a2podcast.it/NN/` (con slash). MAI `a2podcast.fireside.fm` (vecchio dominio). |
 | Link ospite | Se `[params].guest` esiste, alla **prima occorrenza** del nome dell'ospite nella sinossi usare `https://a2podcast.it/ospiti/slug/`, dove `slug` è il valore del front matter. |
-| Output | **MERGE** nel file esistente: preserva front matter e teaser; subito dopo il teaser metti `## Note dell’episodio` con i link fusi e normalizzati, poi `## Sinossi`. Le scalette/mappe grezze vanno tolte se ridondanti o integrate nella sinossi se aggiungono contenuto. Non sovrascrivere. |
+| Output | **MERGE** nel file esistente: preserva front matter e teaser; subito dopo il teaser metti `## Note dell’episodio` con i link fusi e normalizzati, poi `## Sinossi[^sinossi-ai]` con footnote Markdown. Le scalette/mappe grezze vanno tolte se ridondanti o integrate nella sinossi se aggiungono contenuto. Non sovrascrivere. |
 
 ## Flusso
 

@@ -57,12 +57,15 @@ supporto Apple ufficiale, oppure ometti il link se è una funzione nativa ovvia.
   MAI `a2podcast.fireside.fm` (vecchio dominio).
 - Per URL incerti: includi con commento `<!-- DA VERIFICARE -->` a fine riga, così l'utente
   li controlla prima del commit.
-- Nella sinossi usa link inline solo per URL `ESISTENTE` o `VERIFICATO`. Non linkare inline
-  risorse `DA_VERIFICARE`; al massimo mettile nella sezione link con il commento.
+- Nella sinossi usa link inline solo per URL `NOTE_ESISTENTI` o `VERIFICATO`. Non linkare inline
+  risorse `DA_VERIFICARE`; al massimo mettile nella sezione note con il commento.
 - Se un link è già presente nelle note, usalo inline nella sinossi ma non aggiungerlo una
   seconda volta alla lista: normalizza la riga esistente nel formato finale.
 - Se due link puntano alla stessa risorsa, conserva quello più ufficiale o quello già scelto dai
   conduttori nelle note, segnando eventuali dubbi nel checkpoint.
+- Se le note originarie non contengono link, la ricerca dalla trascrizione è obbligatoria: non
+  lasciare `## Note dell’episodio` vuota nel merge finale. Se non trovi nessun URL verificabile,
+  fermati e segnala all'utente che la sezione link richiede una scelta editoriale.
 - Non conservare liste link separate, titoli di link grezzi o sezioni `## Link`: tutto confluisce
   in `## Note dell’episodio`.
 - Non inventare URL. Se non sei sicuro, marca DA_VERIFICARE.
