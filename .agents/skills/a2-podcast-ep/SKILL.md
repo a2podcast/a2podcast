@@ -44,7 +44,7 @@ Questi punti distinguono A2 da altri podcast — verificali sempre:
 | Front matter | **TOML** tra `+++`. Generato da `scripts/ingest.py`. **NON riscriverlo da zero.** Campi: `title`, `date`, `episodeNumber`, `slug`, `audioUrl`, `spreakerEpisodeId`, `duration`, `description`, `tags`, `draft`, e `[params]` con `hasTranscript`/`guest`/`youtubeId`. |
 | Conduttori | **Filippo Strozzi E Roberto Marin** (due persone). Sinossi in terza persona su entrambi: "Filippo e Roberto…", "i conduttori…". |
 | Lingua | Italiano corretto con lettere accentate: **è, é, à, ò, ù, ì**. MAI sostituire gli accenti con apostrofi (`e'`, `qualita'`, `piu'`). |
-| Sinossi | Deve essere un riassunto dettagliato e bilanciato della trascrizione, non un commento editoriale. Densa di fatti, passaggi, esempi, strumenti, decisioni, "perle" dell'ospite o dei conduttori. |
+| Sinossi | Deve essere un riassunto dettagliato e bilanciato della trascrizione, non un commento editoriale. Minimo normale 1000 parole, proporzionale a durata e densità. Ogni capitolo deve dare insight/conoscenza concreta. |
 | Chiusure | NON concludere i capitoli o la sinossi con frasi retoriche/generiche tipo "il risultato è...", "un workflow da artigiano", "una fotografia di...", "il valore della puntata sta...". L'ultimo capitolo deve riassumere l'ultimo argomento reale della trascrizione. |
 | Citazioni | Inserire citazioni brevi, virgolettate e verificate dalla trascrizione, in blockquote, quando contengono una perla o una formulazione forte. |
 | Heading sezioni | **`## ` (H2) o inferiore. MAI `# ` (H1)**: la pagina ha già un solo H1 (il titolo, dal template). Un H1 nel corpo è un bug SEO. |
@@ -54,7 +54,7 @@ Questi punti distinguono A2 da altri podcast — verificali sempre:
 | Tag | **kebab-case minuscolo** (convenzione reale A2): `task-manager`, `apple-pencil`, `intelligenza-artificiale`, `time-management`. NON forma con spazi/maiuscole. Vedi `references/tags-a2.md`. |
 | Link interni ad altri episodi | sempre `https://a2podcast.it/NN/` (con slash). MAI `a2podcast.fireside.fm` (vecchio dominio). |
 | Link ospite | Se `[params].guest` esiste, alla **prima occorrenza** del nome dell'ospite nella sinossi usare `https://a2podcast.it/ospiti/slug/`, dove `slug` è il valore del front matter. |
-| Output | **MERGE** nel file esistente: preserva front matter, note e link già presenti; aggiungi solo ciò che manca. Non sovrascrivere. |
+| Output | **MERGE** nel file esistente: preserva front matter, note e link già presenti; aggiungi solo ciò che manca. La sinossi va tra teaser e note, non in fondo dopo scalette grezze. Non sovrascrivere. |
 
 ## Flusso
 
@@ -63,7 +63,7 @@ Questi punti distinguono A2 da altri podcast — verificali sempre:
 | 0 | Individua episodio e file | — (sotto) |
 | 1 | Correzione SRT + estrazione passaggi/citazioni | `references/correzione-srt-a2.md` |
 | 2 | Ricerca e verifica link delle cose citate | `references/ricerca-link.md` |
-| 3 | Sinossi dettagliata per capitoli numerati | `references/sinossi-a2.md` |
+| 3 | Sinossi dettagliata, densa e proporzionata | `references/sinossi-a2.md` |
 | 4 | Merge nel file episodio | `references/merge-episodio-a2.md` + `references/tags-a2.md` |
 
 ## Fase 0 — Individua episodio e file
@@ -93,7 +93,9 @@ Se non puoi verificare un URL, non fingere: marca `DA_VERIFICARE`.
 Leggi `references/sinossi-a2.md`. Scrivi tu la sinossi dettagliata per capitoli H3 numerati,
 allineati ai cambi argomento della Fase 1. Deve essere un riassunto bilanciato della trascrizione,
 non un commento: includi esempi, passaggi operativi, strumenti, obiezioni, perle dell'ospite o
-dei conduttori e citazioni brevi verificate. Non creare capitoli finali di sintesi o morale.
+dei conduttori e citazioni brevi verificate. Il numero di capitoli dipende dagli argomenti reali,
+non da un valore fisso. Minimo normale 1000 parole, da aumentare per episodi lunghi o densi.
+Non creare capitoli finali di sintesi o morale.
 
 ## Fase 4 — Merge nel file episodio
 

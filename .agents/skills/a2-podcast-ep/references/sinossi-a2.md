@@ -6,19 +6,25 @@ Il tuo scopo è creare una sinossi della trascrizione di un episodio del podcast
 presentato da **Filippo Strozzi** e **Roberto Marin**. Se c'è un ospite, considera l'ospite
 parte centrale della puntata e attribuisci chiaramente le sue idee.
 
-La sinossi deve permettere agli ascoltatori di sapere con precisione gli argomenti trattati.
-Deve essere un riassunto dettagliato della trascrizione, non un commento editoriale sulla
-puntata.
+La sinossi deve permettere agli ascoltatori di sapere con precisione gli argomenti trattati,
+ma deve anche dare **insight e conoscenza** a chi legge. Non deve essere una recensione della
+puntata e non deve limitarsi a invogliare l'ascolto: deve essere utile anche come contenuto
+SEO autonomo, senza sostituire il valore della puntata.
 
 ## Prima di scrivere
 
 1. Leggi la trascrizione SRT.
 2. Ignora introduzione, saluti iniziali, saluti finali e parti di servizio non sostanziali.
-3. Crea mentalmente una scaletta cronologica degli argomenti trattati, con timestamp indicativi.
-4. Suddividi la puntata nelle sue parti fondamentali.
-5. Cerca le "perle" dell'ospite, se presente; altrimenti cerca le migliori intuizioni di
-   Filippo e Roberto.
-6. Estrai 2-5 citazioni brevi dalla trascrizione, utili e dense, evitando battute vuote o saluti.
+3. Crea una scaletta cronologica degli argomenti trattati, con timestamp indicativi.
+4. Per ogni blocco della scaletta annota:
+   - tema;
+   - persone coinvolte;
+   - app/prodotti/servizi citati;
+   - esempi concreti;
+   - insight o "perle";
+   - eventuali link verificati disponibili.
+5. Decidi i capitoli in base agli argomenti reali, non a un numero fisso.
+6. Estrai 3-6 citazioni brevi dalla trascrizione, utili e dense, evitando battute vuote o saluti.
 
 ## Struttura
 
@@ -34,8 +40,8 @@ Testo del capitolo...
 > "Citazione breve presa dalla trascrizione."
 > — Nome, 00:12:34
 
-- **Punto chiave:** spiegazione.
-- **Altro punto:** spiegazione.
+- **Punto chiave:** spiegazione concreta.
+- **Conseguenza pratica:** spiegazione concreta.
 
 ### 2. Titolo del capitolo
 ```
@@ -45,7 +51,11 @@ Regole di struttura:
 - Usa solo `###` per i capitoli principali.
 - Se servono sottosezioni, usa `#### 1.1 Titolo`, `#### 1.2 Titolo`.
 - Non usare mai `#` o `##` dentro la sinossi: `## Sinossi` viene aggiunto dal merge.
-- Crea 5-10 capitoli, in base alla durata e densità della puntata.
+- Il numero di capitoli **non è fisso**: dipende dagli argomenti reali della trascrizione.
+- Crea un capitolo per ogni macrotema sostanziale; se un macrotema contiene 2-3 sottoargomenti
+  tecnici, usa sottosezioni o punti elenco.
+- Per episodi oltre 60 minuti di solito servono almeno 7 capitoli; per episodi oltre 90 minuti
+  o molto densi possono servire 9-12 capitoli.
 - I capitoli devono seguire l'ordine reale della trascrizione.
 - Ogni capitolo deve corrispondere a un blocco reale della conversazione.
 - Non creare un capitolo finale di sintesi, bilancio, morale o commento editoriale.
@@ -66,7 +76,7 @@ Regole di struttura:
   - "Una fotografia del momento..."
   - "Un workflow da artigiano..."
   - "A2 propone di..."
-- Non giudicare la puntata: riassumi cosa viene detto.
+- Non giudicare la puntata: riassumi cosa viene detto e spiega perché è utile o rilevante.
 
 ## Contenuto
 
@@ -81,7 +91,27 @@ Per ogni capitolo includi, quando presenti:
 - decisioni operative o consigli pratici;
 - passaggi tecnici spiegati;
 - limiti, dubbi e cautele;
-- perle di saggezza dell'ospite o dei conduttori.
+- perle di saggezza dell'ospite o dei conduttori;
+- implicazioni pratiche per professionisti, creator, utenti Mac/iPhone/iPad.
+
+Ogni capitolo deve superare il test "cosa impara il lettore?":
+
+- Se nomini una funzione, spiega cosa fa e perché entra nel discorso.
+- Se nomini un prodotto, spiega il criterio con cui viene valutato.
+- Se nomini un metodo, spiega come viene applicato.
+- Se riporti un'opinione, attribuiscila e spiega il ragionamento dietro.
+- Se scrivi una frase generica, sostituiscila con dettagli dalla trascrizione.
+
+Esempio di frase **non sufficiente**:
+
+> Lucio osserva come Apple porti funzioni simili su piattaforme diverse, ma adattandole al contesto.
+
+Esempio di trasformazione accettabile:
+
+> Lucio collega widget, profili di Safari e gestione dei PDF a una strategia comune: Apple porta
+> funzioni simili su Mac, iPad e iPhone, ma cambia l'interfaccia in base al dispositivo. Per chi
+> lavora ogni giorno tra più schermi, questo significa poter usare lo stesso concetto operativo
+> senza replicare identicamente la stessa UI.
 
 Formatta per punti quando aiuta la leggibilità:
 
@@ -100,6 +130,8 @@ La sinossi deve coprire in modo proporzionato tutta la puntata.
 - Se un tema è solo una digressione breve, non trasformarlo in un capitolo dominante.
 - Se ci sono note dell'episodio molto ricche, usale per riconoscere i temi, ma dai priorità alla
   trascrizione.
+- Se le note sono scarne, la scaletta cronologica dalla trascrizione diventa obbligatoria:
+  non compensare con commenti generici.
 
 ## Link
 
@@ -113,7 +145,7 @@ La sinossi deve coprire in modo proporzionato tutta la puntata.
 
 ## Citazioni
 
-Inserisci 2-5 citazioni brevi in blockquote.
+Inserisci 3-6 citazioni brevi in blockquote.
 
 Regole:
 
@@ -132,10 +164,13 @@ Formato:
 
 ## Lunghezza
 
-- Obiettivo normale: 700-1000 parole.
-- Episodi molto densi: fino a 1200 parole.
-- Episodi brevi o poveri di contenuti: 500-700 parole.
-- Non allungare con commenti generici: se mancano contenuti, resta più breve.
+- Minimo normale: **1000 parole**.
+- Episodi densi o oltre 75 minuti: 1200-1800 parole.
+- Episodi molto densi o oltre 90 minuti: 1600-2200 parole, se i contenuti lo giustificano.
+- Episodi brevi o poveri di contenuti possono stare sotto le 1000 parole solo se la trascrizione
+  non contiene abbastanza argomenti sostanziali.
+- Non allungare con commenti generici: aumenta la lunghezza con esempi, spiegazioni, criteri,
+  differenze tra posizioni e dettagli verificati dalla trascrizione.
 
 ## Controllo finale
 
@@ -143,12 +178,15 @@ Prima di consegnare, verifica:
 
 - nessun `#` o `##` nella sinossi;
 - capitoli numerati progressivamente;
+- numero capitoli proporzionato agli argomenti reali, non scelto a priori;
 - niente capitolo finale di morale o commento;
 - niente apostrofi al posto degli accenti;
 - ospite linkato alla prima occorrenza, se presente;
 - citazioni presenti e attribuite;
 - nessun link inventato;
 - copertura bilanciata della trascrizione;
+- almeno 1000 parole salvo episodio davvero breve o povero;
+- ogni capitolo insegna qualcosa di specifico o chiarisce un passaggio concreto;
 - testo scritto come riassunto dettagliato, non come recensione della puntata.
 
 > La sinossi confluisce nel file della Fase 4 — non è un file separato. Dopo averla scritta,
