@@ -91,7 +91,6 @@ a:hover { color: var(--color-link-hover); }
 .site-logo-text {
   font-size: 0.9rem;
   font-weight: 500;
-  opacity: 0.85;
 }
 
 .site-nav {
@@ -101,7 +100,7 @@ a:hover { color: var(--color-link-hover); }
 }
 
 .site-nav a {
-  color: rgba(255,255,255,.85);
+  color: #fff;
   text-decoration: none;
   font-size: 0.9rem;
   font-weight: 500;
@@ -919,7 +918,7 @@ a:hover { color: var(--color-link-hover); }
 
 .footer-tagline {
   font-size: 0.8rem;
-  opacity: 0.7;
+  opacity: 0.92;
   margin-top: var(--space-xs);
 }
 
@@ -930,7 +929,7 @@ a:hover { color: var(--color-link-hover); }
 }
 
 .footer-nav a {
-  color: rgba(255,255,255,.75);
+  color: rgba(255,255,255,.92);
   text-decoration: none;
   font-size: 0.875rem;
 }
@@ -939,16 +938,16 @@ a:hover { color: var(--color-link-hover); }
 
 .footer-network {
   font-size: 0.8rem;
-  opacity: 0.7;
+  opacity: 0.92;
 }
 
 .footer-network a {
-  color: rgba(255,255,255,.9);
+  color: #fff;
 }
 
 .footer-copy {
   font-size: 0.75rem;
-  opacity: 0.5;
+  opacity: 0.85;
   grid-column: 1 / -1;
 }
 
