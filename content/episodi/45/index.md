@@ -17,119 +17,104 @@ draft = false
 
 In questa puntata Roberto e Filippo fanno un approfondimento su come configurare il tuo iPhone o iPad in modo minimalista per ottenere di più con meno.
 
-## 1. Cosa intendiamo per Minimalismo?
+## Note dell’episodio
+- [Usare la funzione Cerca su iPhone, iPad o iPod touch](https://support.apple.com/it-it/HT201285): pagina Apple citata per usare la ricerca dalla schermata Home e richiamare rapidamente app, calcoli e conversioni senza riempire la Home di icone.
+- [Usare i widget su iPhone e iPod touch](https://support.apple.com/it-it/HT207122): riferimento Apple sui widget, usati nella puntata come strumenti per avere informazioni essenziali senza aprire continuamente le app.
+- [Usare i widget su iPad](https://support.apple.com/it-it/HT211328): guida Apple per configurare widget e raccolte smart su iPad, tema centrale della parte dedicata alla Home minimale.
+- [Usare Full immersion su iPhone o iPad](https://support.apple.com/it-it/HT212608): documentazione Apple sulla modalità Full immersion, discussa come base per creare ambienti di lavoro separati e meno disturbanti.
+- [Widgetsmith](https://apps.apple.com/it/app/widgetsmith/id1523682319): app citata per creare widget personalizzati e dare alla schermata Home un aspetto più coerente e informativo.
+- [Widgetsmith FAQ](https://david-smith.org/widgetsmith-faq.html): domande frequenti ufficiali dell’autore di Widgetsmith, utili per capire limiti e possibilità dell’app.
+- [Widgy Widgets](https://apps.apple.com/it/app/widgy-widgets/id1524540481?platform=iphone): app usata da Roberto per costruire un widget personalizzato con ora, data, calendario settimanale, meteo e scorciatoie.
+- [MacStories Shortcuts Icons](https://www.macstories.net/pixel/shortcuts/): set di icone a pagamento citato per personalizzare le icone dei comandi rapidi su iOS e iPadOS.
+- [FS Bookmarks: A Shortcut to Reopen Files and Folders Directly in the Files App](https://www.macstories.net/ios/fs-bookmarks-a-shortcut-to-reopen-files-and-folders-directly-in-the-files-app/): comando rapido di MacStories citato nelle note per creare collegamenti diretti a file e cartelle nell’app File.
+- [iPadOS Home Page minimale](https://marchdotnet.wordpress.com/2022/08/29/ipados-home-page-minimale/): articolo di Roberto Marin da cui nasce una parte della puntata, dedicato alla costruzione di una Home iPad più essenziale e produttiva.
+- [Best iPad Widgets](https://gridfiti.com/best-ipad-widgets/): raccolta di widget per iPad citata nelle note come ispirazione per progettare una schermata più informativa e meno dispersiva.
+- [iOS 14 Home Screen Setup: Productivity Minimalism Edition](https://medium.com/productivity-depth/ios-14-home-screen-setup-productivity-minimalism-edition-f875bd04ccc2): articolo citato nelle note sul rapporto tra schermata Home, produttività e minimalismo.
+- [Six Years With a Distraction-Free iPhone](https://medium.com/make-time/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3): articolo citato nelle note sulla configurazione di un iPhone orientato a ridurre le distrazioni.
 
-- iPhone ed iPad sono potenziali strumento di distrazione
-- Usare bene pochi strumenti
-- Utilizzare solo quel che è essenziale
+## Sinossi[^sinossi-ai]
 
-### 2. Ridurre la confusione
-- Strumenti che permettono di ottimizzare e rendere più focalizzati, più “affilati” i nostri dispositivi mobili
--  Su AppStore milioni di applicazioni
-- Spesso i nostri dispositivi sono pieni di un’accozzaglia di applicazioni che non usiamo mai
+### 1. Minimalismo digitale e dispositivi che distraggono
 
-### 2.1 Se non si è sicuri di utilizzare o quanto si utilizzerà un app
+Filippo e Roberto aprono la puntata spiegando che il tema nasce dagli articoli scritti da Roberto su iPadOS, modalità produttiva e Home Page minimale. L’idea di partenza è semplice: iPhone e iPad sono strumenti potenti per lavorare, creare, comunicare e informarsi, ma proprio per questa ricchezza diventano facilmente ambienti di distrazione. Roberto sottolinea che l’iPad, soprattutto con Apple Pencil, è uno strumento professionale molto importante per chi lavora in ambiti creativi o tecnici, ma porta con sé anche una forte componente ludica e comunicativa. Email, messaggi, notifiche, app social e stimoli continui possono interrompere il lavoro e ridurre la concentrazione.
 
-- Provate a fare questo:
-	- Impostazioni 
-		- App Store
-			- Rimuovi app che non usi
-			- I dati dell’app rimangono salvati sul dispositivo
-	- Nato per “liberare spazio” su iPhone ed iPad ma anche strumento utile per vedere cosa si usa e quanto
+Filippo precisa quindi cosa intendono per minimalismo in questa puntata. Non si tratta di estetica fine a sé stessa o di una moda, ma di usare pochi strumenti scelti bene, ridurre la confusione e rendere il dispositivo più adatto al compito che deve svolgere. Il minimalismo digitale diventa una strategia per scegliere cosa è essenziale, eliminare ciò che non serve e creare un ambiente meno rumoroso.
 
-### 2.2 Accesso rapido alle applicazioni
+> "L’idea di fondo è utilizzare solo quello che è essenziale e ridurre appunto la confusione."
+> — Filippo, 00:05:45
 
-**Libreria App**
+Roberto collega il tema al libro *Digital Minimalism* di Cal Newport, che descrive il problema degli strumenti digitali che reclamano continuamente attenzione. Per Roberto il punto non è rinunciare alla tecnologia, perché i dispositivi servono per lavorare, comunicare e informarsi, ma imparare a distinguere ciò che è davvero utile da ciò che occupa solo spazio mentale. Porta l’esempio di avere più applicazioni che fanno quasi la stessa cosa: il minimalismo aiuta a scegliere quella più adatta e a smettere di domandarsi ogni volta quale strumento usare.
 
-- Accesso rapido alle App installate
-- [Usare la funzione Cerca](https://support.apple.com/it-it/HT201285)
+### 2. Ripulire le app e capire cosa si usa davvero
 
-- 1	Scorri verso il basso dal centro della schermata Home.
-- 2	Tocca il campo di ricerca e poi inserisci quello che ti serve
-- Scorciatoia a tastiera
-	- ⌘ + SPAZIO
+La prima proposta concreta riguarda la pulizia delle applicazioni. Filippo osserva che sull’App Store esistono milioni di app e che spesso i dispositivi si riempiono di strumenti scaricati per prova, doppioni o applicazioni usate una sola volta. L’approccio radicale sarebbe inizializzare l’iPhone o l’iPad e ripartire da zero, reinstallando solo quello che serve davvero. È però una soluzione rischiosa o scomoda, soprattutto se i dati non sono ben sincronizzati o se alcune informazioni restano dentro le app.
 
-**Widget**
-Con i widget puoi ottenere informazioni tempestive dalle tue app preferite a colpo d'occhio
+Per questo Filippo suggerisce una soluzione meno estrema: attivare nelle impostazioni di App Store l’opzione per rimuovere automaticamente le app non usate. La funzione nasce per liberare spazio, ma in questa puntata viene reinterpretata come strumento di consapevolezza. iOS e iPadOS rimuovono l’app, mantenendo i dati; quando si prova a riaprirla, il sistema la riscarica. Se un’app resta rimossa a lungo, diventa evidente che probabilmente non è così indispensabile.
 
-- [Pagina supporto Apple](https://support.apple.com/it-it/HT207122)
-- [Widget su iPad](https://support.apple.com/it-it/HT211328)
+Roberto conferma l’utilità pratica di questa funzione, soprattutto su dispositivi con poco spazio, come vecchi iPad da 16 GB. Il vantaggio non è solo tecnico: il sistema fa emergere le app dimenticate e aiuta a decidere cosa cancellare definitivamente.
 
-**Raccolte smart**
-- Una raccolta smart è una pila precostituita di widget che mostra il widget giusto in base a fattori come l'ora, la tua posizione e quello che stai facendo. Una raccolta smart alterna automaticamente i widget per mostrare le informazioni più pertinenti durante la giornata.
-- Possibilità di personalizzarle
+> "C’è iOS che fa il lavoro sporco che dovremmo fare in teoria noi."
+> — Roberto, 00:15:12
 
-### Widgetrsmith
+La pulizia delle app si lega anche alla Libreria app. Roberto racconta di avere su iPhone una Home quasi vuota, con una sola applicazione e la dock, mentre su iPad mantiene una sola pagina principale. Tutto il resto viene recuperato dalla Libreria app o dalla ricerca. Questo approccio costringe, almeno all’inizio, a compiere un gesto intenzionale prima di aprire un’app. Con il tempo, però, la memoria muscolare può rendere lo swipe verso la Libreria quasi automatico; per questo la rimozione automatica delle app non usate resta utile come secondo livello di controllo.
 
-- [FAQ in inglese](https://david-smith.org/widgetsmith-faq.html)
-- A pagamento opzioni pro
-- [Link AppStore](https://apps.apple.com/it/app/widgetsmith/id1523682319)
+### 3. Cerca, Spotlight e una Home meno affollata
 
-### Widgy Widgets
+Filippo e Roberto passano poi alla funzione Cerca di iOS e iPadOS, paragonandola a Spotlight su macOS. Scorrendo verso il basso dalla Home, o usando `Comando + Spazio` con una tastiera su iPad, si può cercare e aprire rapidamente un’app senza tenerla visibile nella schermata principale. Filippo richiama il suo uso abituale su Mac: digitare poche lettere e premere invio è più veloce che cercare l’icona.
 
-- [Link AppStore](https://apps.apple.com/it/app/widgy-widgets/id1524540481?platform=iphone)
+La funzione Cerca non serve solo ad aprire app. Filippo segnala che può eseguire calcoli e conversioni, proprio come Spotlight. Questo permette di ridurre ulteriormente la dipendenza da icone, widget o app dedicate per piccole operazioni quotidiane. Roberto apre una parentesi su macOS e racconta di aver perso l’abitudine al vecchio widget della calcolatrice nel centro notifiche, usando più spesso Spotlight per operazioni rapide, pur rimpiangendo alcune funzioni come il nastro della calcolatrice.
 
-## icone per iOS e iPadOS
-A pagamento: 
-- [MacStories](https://www.macstories.net/pixel/shortcuts/)
+Dentro la logica minimalista, Cerca diventa quindi uno strumento centrale: meno icone in Home, meno pagine, meno stimoli visivi, ma accesso rapido a ciò che serve. L’obiettivo non è rendere il dispositivo scomodo, bensì togliere dalla vista ciò che invita a distrarsi e mantenere disponibili gli strumenti davvero utili.
 
-## Full immersion
+### 4. Widget, raccolte smart e dashboard essenziali
 
-- [Pagina supporto Apple](https://support.apple.com/it-it/HT212608)
+La parte successiva è dedicata ai widget. Filippo racconta di averli inizialmente considerati belli ma poco utili, salvo poi capirne il valore con il tempo. Roberto descrive la Home di Filippo come una sorta di ferro di cavallo di widget attorno allo schermo, mentre la sua configurazione è più minimale ma con più icone. I widget vengono trattati non come decorazione, ma come viste sintetiche sulle app: mostrano informazioni utili senza obbligare ad aprire l’applicazione.
 
-## Le nuove schermate Home di iOS ed iPadOS 15 e 16
+Roberto spiega la sua “modalità produttiva” per iPad, nata dall’incrocio tra Home personalizzate, Full immersion, widget e comandi rapidi. Ha creato una pagina generale per l’uso quotidiano e una pagina produttiva con solo le app necessarie al lavoro. La pagina produttiva è collegata a una Full immersion che silenzia quasi tutto: niente email, niente messaggi, niente Telegram, con poche eccezioni realmente utili. Un widget dei comandi rapidi consente di passare da una modalità all’altra con un tocco.
 
-- Accessibilità 
-	-  Schermo in toni di grigio
-	- Comando rapido Filippo
+> "Avevo bisogno di un’area protetta, chiamiamola così, per la produzione."
+> — Roberto, 00:25:00
 
-### iOS ed iPadOS 16
+Roberto racconta anche di aver rivalutato le raccolte smart dopo aver capito che potevano essere personalizzate. Le raccolte smart sono pile di widget che possono cambiare in base al contesto, ma possono anche essere configurate manualmente. Filippo le usa come parte di una dashboard: calendario, attività della giornata, foto e altre informazioni. Roberto sottolinea che una raccolta smart può liberare spazio nella Home, perché permette di nascondere più app o viste dentro un unico blocco consultabile.
 
-### Filtro colore
+### 5. Widget personalizzati, Widgy e Widgetsmith
 
-- Per rendere in scala di grigi il tuo dispositivo e renderlo meno “accattivante”
+Dopo i widget di sistema, i conduttori discutono delle app che permettono di personalizzare ulteriormente la Home. Filippo cita Widgetsmith, molto noto nella comunità Apple, e Widgy Widgets, usato da Roberto. Queste app permettono di costruire widget con grafica, sfondi, calendari, orologi, meteo e altre informazioni, trasformando la Home in uno spazio più coerente e adatto al proprio modo di lavorare.
 
-### Imposta suoni di sottofondo
+Roberto racconta di aver cercato soprattutto un orologio grande e leggibile a colpo d’occhio. Con Widgy ha adottato un widget già preparato e poi modificato: in alto mostra l’ora, sotto il giorno, poi una riga con i giorni della settimana e un indicatore rosso sul giorno corrente, oltre alle previsioni meteo ogni tre ore. La forza del widget, per Roberto, è la densità informativa: in un solo elemento vede ora, data, settimana e meteo.
 
-- Non ce ne sono tantissimi
-- Aiuta la concentrazione
-- Esistono app di terze parti anche
+Widgy permette anche di associare azioni a zone diverse del widget. Toccando la parte della settimana, per esempio, Roberto apre il calendario; su iPhone può aprire anche l’app Meteo. Pur ammettendo che costruire un widget da zero non è immediato, Roberto spiega che partire da modelli già pronti rende la personalizzazione più accessibile. Il risultato è una Home più utile e meno frammentata, perché un solo widget può sostituire più icone o app aperte continuamente.
 
-### Home Screen personalizzata
+### 6. Icone, comandi rapidi e pagine produttive
 
-### Personalizzare lo sfondo
+Un altro tema importante è la personalizzazione delle icone tramite Comandi Rapidi. Filippo ricorda che esistono pacchetti di icone gratuiti e a pagamento, tra cui quelli di MacStories. Roberto chiarisce che su iOS e iPadOS la personalizzazione delle icone passa dai comandi rapidi: ogni icona, in pratica, può diventare un comando rapido travestito da launcher. Questo introduce qualche limite, ma anche molta potenza, perché l’icona può aprire un’app oppure eseguire azioni più complesse.
 
-### Link a documenti
+Nella sua Home produttiva, Roberto ha scelto icone senza nome, con sfondo nero, abbinate a uno sfondo nero dell’iPad. Il risultato è una schermata molto asciutta, dove icone e widget sembrano fondersi con lo sfondo e restano visibili solo gli elementi più importanti. Ammette però che una configurazione del genere diventa molto personale: chi prende in mano il suo iPad non sa necessariamente a cosa corrispondano quelle icone senza etichetta.
 
-- Con [FS bookmark](https://www.macstories.net/ios/fs-bookmarks-a-shortcut-to-reopen-files-and-folders-directly-in-the-files-app/)
+Filippo aggiunge il trucco del carattere invisibile per rimuovere il nome sotto le icone. Questo consente di ottenere una Home più pulita, soprattutto con sfondi neri o molto uniformi. Il tema resta sempre lo stesso: non personalizzare per puro gusto grafico, ma costruire un ambiente visivo che riduca il rumore e renda più immediato il passaggio alla modalità di lavoro.
 
-### Attivare timer
+### 7. Full immersion, automazioni e il futuro dei comandi rapidi
 
-- Per tracciare il tempo
+Durante la puntata arriva anche una domanda dalla diretta: meglio Comandi Rapidi o Automator? Filippo risponde che Automator sta progressivamente perdendo centralità, mentre Comandi Rapidi è il futuro delle automazioni su macOS, iOS e iPadOS. Il vantaggio principale è la portabilità tra piattaforme e il supporto delle app moderne, che possono offrire azioni specifiche ai comandi rapidi.
 
-### Attivare un particolare focus mode o full immersion
+Filippo porta un esempio concreto legato proprio ad A2: ha creato un comando rapido per generare le note dell’episodio, usando Data Jar per gestire il numero della puntata successiva. Ogni volta che genera una nuova puntata, il contatore viene aggiornato automaticamente e sincronizzato via iCloud. È un tipo di integrazione che Automator non può offrire nello stesso modo, soprattutto perché non esiste su iOS.
 
-## Link
+> "Automator sta morendo. Qui meglio comandi rapidi se ci vuole avere qualcosa per il futuro."
+> — Filippo, 00:47:01
 
-### Video
+Roberto riconosce che Automator può essere stato più semplice da capire all’inizio, mentre Comandi Rapidi richiede un po’ di lavoro per entrare nella logica. Però la potenza è maggiore, soprattutto quando i comandi vengono collegati a widget, Home personalizzate e Full immersion. Un singolo tocco può cambiare pagina, attivare una modalità, bloccare notifiche, avviare un timer o modificare il contesto visivo.
 
-- https://www.youtube.com/watch?v=Tuh_jVcMu10
+### 8. Scala di grigi, suoni di sottofondo e timer di lavoro
 
-### Articoli interessanti
+Nella parte finale Filippo racconta alcune idee sperimentate con le novità di iOS 16 e iPadOS 16. Una delle più interessanti riguarda il filtro colore per rendere lo schermo in scala di grigi. L’idea nasce dal fatto che i colori attirano l’attenzione: icone, foto e interfacce sono progettate per essere visivamente stimolanti. Uno schermo in bianco e nero rende l’iPhone o l’iPad molto meno accattivante e può aiutare a ridurre la distrazione.
 
-- https://gridfiti.com/best-ipad-widgets/
-- https://medium.com/productivity-depth/ios-14-home-screen-setup-productivity-minimalism-edition-f875bd04ccc2
-- https://marchdotnet.wordpress.com/2022/08/29/ipados-home-page-minimale/
-- https://medium.com/make-time/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3
+Il problema, in passato, era la scomodità: per attivare o disattivare la scala di grigi bisognava entrare nelle impostazioni di accessibilità. Questo rendeva la soluzione poco pratica, soprattutto quando serviva tornare rapidamente ai colori per fare foto o visualizzare correttamente alcuni contenuti. Con Comandi Rapidi, invece, Filippo immagina un sistema in cui una Full immersion attiva automaticamente la scala di grigi durante il lavoro e la disattiva quando si esce da quella modalità.
 
+> "Se tu guardi l’iPhone in bianco e nero e un iPhone a colori è totalmente una cosa diversa."
+> — Filippo, 00:50:42
 
+Filippo cita anche i suoni di sottofondo, come rumori bianchi o ambientali, attivabili tramite comandi rapidi. Non ci sono moltissimi suoni integrati, ma è possibile usare app di terze parti per scenari più specifici, come rumore del fuoco o brusio da bar. Anche il volume di questi suoni può essere regolato automaticamente, rendendoli parte di un ambiente di concentrazione.
 
-## Come potete sostenerci
+Un altro esempio riguarda i timer. Filippo usa una Full immersion per l’editing dei podcast che avvia timer dedicati: uno per tracciare il tempo di lavoro e uno per ricordargli quando ha lavorato per un’ora. Roberto collega questo approccio al Pomodoro timer e cita l’app Minimalist, che unisce lista minimale delle attività e timer da 25 minuti. Nell’ultimo tratto della puntata, l’attenzione resta quindi sulle automazioni pratiche: un tap o una Full immersion possono cambiare schermata, sfondo, notifiche, suoni e timer, trasformando iPhone e iPad da strumenti dispersivi a dispositivi più orientati al lavoro.
 
-Se volete **supportare il podcast** vi chiediamo con il cuore di fare una **recensione su Apple Podcast.** In questo fase iniziale tante recensioni ci permetteranno di essere visti da più persone possibili.
-Se volete sapere come fare una recensione trovate a questo [link](https://www.avvocati-e-mac.it/podcast/itunes).
-Potete anche scriverci a scrivi.a🐌a2podcast.it
-
-## Outro
-
-Trovate le **note dell'episodio con i link** agli argomenti che abbiamo trattato in questa puntata e tutti i nostri riferimenti su **a2podcast.it/45**
+[^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.
