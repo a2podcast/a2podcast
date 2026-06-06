@@ -1,0 +1,4511 @@
+1
+00:00:01,840 --> 00:00:06,800
+Benvenuti all'episodio 6 di A2, qui scoprire come tenere il massimo con
+
+2
+00:00:06,800 --> 00:00:08,320
+la vostra tecnologia Apple.
+
+3
+00:00:08,320 --> 00:00:12,960
+Io sono Filippo Strozzi e sono il vostro ospite abitualmente assieme all'amico
+
+4
+00:00:12,960 --> 00:00:17,680
+Roberto Marin, che oggi forse ci raggiungerà nel corso della puntata.
+
+5
+00:00:18,000 --> 00:00:23,280
+Ma udite udite, abbiamo il nostro primo ospite speciale, che è Alex
+
+6
+00:00:23,280 --> 00:00:24,160
+Racuglia.
+
+7
+00:00:24,160 --> 00:00:28,080
+Ciao ciao, buonasera, grazie a tutti, grazie a te di avermi qua.
+
+8
+00:00:28,080 --> 00:00:29,760
+E ciao a tutti gli ascoltatori.
+
+9
+00:00:29,760 --> 00:00:31,920
+Allora, una piccola introduzione di Alex.
+
+10
+00:00:31,920 --> 00:00:35,600
+Alex, oltre a essere il papà puntativo di questo podcast, quindi onora
+
+11
+00:00:35,600 --> 00:00:36,320
+il merito.
+
+12
+00:00:36,320 --> 00:00:41,120
+Infatti, senza di lui non esisterebbe questo podcast, perché se io che
+
+13
+00:00:41,120 --> 00:00:46,640
+Roberto abbiamo iniziato i nostri primi esperimenti da podcaster con Alex e
+
+14
+00:00:46,640 --> 00:00:51,200
+con gli strumenti che ci dà, ci permette di utilizzare Alex.
+
+15
+00:00:51,200 --> 00:00:55,040
+Quindi senza lui proprio non ci sarebbe mai stato niente.
+
+16
+00:00:55,040 --> 00:00:58,880
+Inoltre, il logo di A2 è fatto da Alex.
+
+17
+00:00:58,880 --> 00:01:03,760
+Quindi un grazie, grazie, grazie in diretta è necessario, ovviamente.
+
+18
+00:01:03,760 --> 00:01:10,480
+Alex è un podcaster e fa vari podcast sul gruppo Ranta M
+
+19
+00:01:10,480 --> 00:01:15,520
+Radio, tra cui Tecno Pill e tanti altri, per cui non riesco
+
+20
+00:01:15,520 --> 00:01:16,720
+a citare tutti.
+
+21
+00:01:16,720 --> 00:01:21,200
+Nella vita reale, però, Alex è un regista di video commerciali, correggimi
+
+22
+00:01:21,200 --> 00:01:22,160
+se sbaglio, vero?
+
+23
+00:01:22,160 --> 00:01:24,560
+Ma video pubblicitari nella sostanza.
+
+24
+00:01:24,560 --> 00:01:27,120
+Sì, sì, faccio allora fino a due anni fa, il mio core
+
+25
+00:01:27,120 --> 00:01:32,160
+business era lo spot televisivo ed ero abbastanza specializzato in spot televisivi
+
+26
+00:01:32,160 --> 00:01:34,240
+di giocattoli per bambini piccoli.
+
+27
+00:01:34,240 --> 00:01:38,560
+Negli ultimi due anni, tre anni, la mia azienda ha un po'
+
+28
+00:01:38,640 --> 00:01:42,320
+cambiato direzione perché le cose cambiano, il mondo cambia e sono anche
+
+29
+00:01:42,320 --> 00:01:45,920
+contento perché sarebbe stato problematico con la pandemia.
+
+30
+00:01:46,080 --> 00:01:50,560
+Adesso la maggior parte dei nostri clienti sono case farmaceutiche e mi
+
+31
+00:01:50,560 --> 00:01:56,800
+occupo della comunicazione o interna oppure diretta ai medici, per cui c'è
+
+32
+00:01:56,800 --> 00:01:59,360
+molta più informativa e molta meno promozionalità.
+
+33
+00:01:59,480 --> 00:02:03,880
+Tuttavia, è un mercato che devo dire che resiste nonostante tutto.
+
+34
+00:02:03,880 --> 00:02:10,120
+Ah, beh, anzi, in questo periodo storico particolare direi qualcosa di più.
+
+35
+00:02:10,760 --> 00:02:14,040
+Sì, ma è cambiato molto anche quello, devo dire la verità, perché
+
+36
+00:02:15,000 --> 00:02:19,640
+prima il contatto con i medici, con gli eventi, con un sacco
+
+37
+00:02:19,640 --> 00:02:23,640
+di cose, era molto più ricco, adesso è tutto molto più offline,
+
+38
+00:02:23,800 --> 00:02:28,200
+molto più online, molto più virtuale, di conseguenza, anche molta la comunicazione
+
+39
+00:02:28,200 --> 00:02:32,920
+si è un po' si è ridimensionata ed ha cambiato anche natura.
+
+40
+00:02:34,200 --> 00:02:39,000
+Immagine, immagino l'oggetto, ovviamente, di questa puntata di oggi, dopo le giuste
+
+41
+00:02:39,160 --> 00:02:45,080
+introduzioni, è quella di sfruttare le competenze specifiche, ovviamente di Alex, perché
+
+42
+00:02:45,240 --> 00:02:48,280
+io e Roberto non ne siamo minimamente in grado.
+
+43
+00:02:48,280 --> 00:02:53,880
+Per parlarvi di uno dei programmi gratuiti di Apple per il montaggio
+
+44
+00:02:53,880 --> 00:02:55,400
+video, ovvero i Movie.
+
+45
+00:02:55,400 --> 00:03:00,840
+Ovviamente Alex non utilizza i Movie nella vita professionale, utilizza la versione
+
+46
+00:03:00,840 --> 00:03:06,760
+più professionale appunto che è Final Cut Pro se lo dico giusto,
+
+47
+00:03:06,760 --> 00:03:09,320
+perché ogni tanto c'era la X, poi non so se l'hanno tolto
+
+48
+00:03:09,320 --> 00:03:10,360
+la X e così via.
+
+49
+00:03:10,360 --> 00:03:12,520
+L'hanno tolta da pochi mesi.
+
+50
+00:03:12,520 --> 00:03:13,240
+Ok, ok.
+
+51
+00:03:13,640 --> 00:03:16,360
+Allora mi ricordo qualcosa di giusto.
+
+52
+00:03:16,920 --> 00:03:21,240
+Ovviamente ai Movie è la versione povera, chiamiamola così il fratello minore,
+
+53
+00:03:21,240 --> 00:03:26,520
+però sicuramente è uno strumento gratuito che tutti possono avere e che
+
+54
+00:03:26,520 --> 00:03:31,720
+casomai può diventare utile per farsi una prima esperienza di montaggio video
+
+55
+00:03:32,040 --> 00:03:39,880
+per fare il passo ulteriore tra ovviamente la ripresa così nude e
+
+56
+00:03:39,880 --> 00:03:44,920
+cruda, amatoriale e invece un montaggio anche un po' più strutturato.
+
+57
+00:03:45,120 --> 00:03:49,520
+Priare la parola ad Alex, perché sarà lui poi fondamentalmente a parlare
+
+58
+00:03:49,520 --> 00:03:53,760
+durante questo episodio, piccola comunicazione di servizio.
+
+59
+00:03:53,760 --> 00:03:59,040
+Il podcast è ufficialmente online e lo trovate sia su Apple Podcast
+
+60
+00:03:59,040 --> 00:04:03,280
+che su Spotify e su Amazon, da cui, tra l'altro, ho scoperto
+
+61
+00:04:03,520 --> 00:04:08,400
+per caso che ci ascolta tanta gente da Amazon, mai avrei detto
+
+62
+00:04:08,400 --> 00:04:10,080
+che fosse possibile.
+
+63
+00:04:10,080 --> 00:04:16,880
+Il sito del podcast è a due numeropodcast.it e se volete partecipare
+
+64
+00:04:16,880 --> 00:04:22,320
+alle dirette su YouTube, come questa che stiamo facendo stasera.
+
+65
+00:04:22,320 --> 00:04:26,960
+Basta digitare a due podcast.it slash YouTube.
+
+66
+00:04:27,200 --> 00:04:33,760
+Come sempre, per supportare il podcast potete tranquillamente fare una cosa, ovvero
+
+67
+00:04:33,760 --> 00:04:36,000
+scrivere una recensione su iTunes.
+
+68
+00:04:36,320 --> 00:04:40,720
+Abbiamo già ricevute le nostre prime 5 stelle da quando una settimana
+
+69
+00:04:40,720 --> 00:04:44,640
+fa siamo arrivati su iTunes Apple Podcast.
+
+70
+00:04:44,640 --> 00:04:49,840
+Ma ovviamente più recensioni ci sono, più abbiamo la possibilità di farci
+
+71
+00:04:49,840 --> 00:04:50,800
+conoscere.
+
+72
+00:04:50,800 --> 00:04:54,320
+Se non sapete come fare una recensione, trovate nel link delle note
+
+73
+00:04:54,320 --> 00:04:58,080
+dell'episodio anche una mia breve guida su come farlo.
+
+74
+00:04:58,080 --> 00:05:03,440
+Ed infine, se volete raggiungerci, potete iscriverci a scrivi a anzi, scrivi.
+
+75
+00:05:06,880 --> 00:05:11,040
+A questo punto la parola ad Alex e io direi di iniziare
+
+76
+00:05:11,040 --> 00:05:16,960
+dalle basi: cioè iniziamo a vedere innanzitutto qualche consiglio diciamo per il
+
+77
+00:05:16,960 --> 00:05:22,080
+video amatore che vuole iniziare a fare dei video, casomai per la
+
+78
+00:05:22,080 --> 00:05:27,760
+famiglia o anche per eventi personali o professionali, con qualche strumento.
+
+79
+00:05:27,760 --> 00:05:32,120
+Che strumenti casomai è possibile utilizzare e come ottimizzarli.
+
+80
+00:05:32,520 --> 00:05:37,000
+Buonasera a tutti, sono rientrato a Bomba dopo una settimana di ferro
+
+81
+00:05:37,000 --> 00:05:41,640
+e fuoco che spiegherò chiaramente nel podcast Snap che questo venerdì è
+
+82
+00:05:41,640 --> 00:05:42,360
+saltato.
+
+83
+00:05:42,360 --> 00:05:46,040
+Ma alla fine sono riuscito anche a collegarmi a questo bellissimo podcast
+
+84
+00:05:46,040 --> 00:05:48,520
+con i nostri amici Filippo ed Alex.
+
+85
+00:05:48,520 --> 00:05:49,800
+Allora, dove siamo rimasti?
+
+86
+00:05:49,800 --> 00:05:53,320
+Raccatevi: stavo per iniziare a parlare di movie e però volevo fare
+
+87
+00:05:53,320 --> 00:05:58,040
+una sorta di una piccola digressione all'inizio, una prefazione per parlare del
+
+88
+00:05:58,040 --> 00:06:03,800
+video, perché secondo me se capiamo un po' tutti come funziona sotto
+
+89
+00:06:03,800 --> 00:06:06,520
+il cofono, la cosa, non sto dicendo di aprire il motore e
+
+90
+00:06:06,520 --> 00:06:07,240
+di smontarlo.
+
+91
+00:06:07,240 --> 00:06:10,280
+Però di avere una minima idea di che cosa c'è sotto, capiamo
+
+92
+00:06:10,280 --> 00:06:12,360
+anche meglio di come gestirlo.
+
+93
+00:06:12,360 --> 00:06:14,760
+Fare video è abbastanza semplice per certi versi.
+
+94
+00:06:14,760 --> 00:06:18,680
+Adesso abbiamo tutti in tasca un telefono che è 500 volte più
+
+95
+00:06:18,680 --> 00:06:22,040
+bello della mia prima telecamera, per cui è fighissimo.
+
+96
+00:06:22,040 --> 00:06:29,240
+Fare video in 4K con bassa luminosità, fare rallentatore, veramente è stratosferico
+
+97
+00:06:29,320 --> 00:06:31,160
+quello che può fare un telefono cellulare oggi.
+
+98
+00:06:31,160 --> 00:06:34,680
+Finché c'è da fare un video: girare, il video selfie dove ci
+
+99
+00:06:34,680 --> 00:06:38,920
+salutiamo, quando diciamo, oggi ho comprato la pasta asciutta, la sto cucinando
+
+100
+00:06:38,920 --> 00:06:41,720
+e facciamo la storia su Instagram va tutto bene.
+
+101
+00:06:42,200 --> 00:06:42,760
+Il problema
+
+102
+00:06:43,960 --> 00:06:47,880
+le cose diventano divertenti quando vogliamo mettere insieme più clip per fare
+
+103
+00:06:48,520 --> 00:06:50,120
+un montaggio.
+
+104
+00:06:50,360 --> 00:06:53,160
+La cosa che mi viene in mente è: una volta si faceva
+
+105
+00:06:53,160 --> 00:06:55,640
+il video delle vacanze, adesso non si fa più perché durante le
+
+106
+00:06:55,640 --> 00:06:58,840
+vacanze si continua a fare video che vengono postati subito.
+
+107
+00:06:58,840 --> 00:07:03,480
+Tuttavia, la cosa che si fa adesso tendenzialmente si fa sempre: capita
+
+108
+00:07:03,480 --> 00:07:06,680
+sempre di partecipare a una festa di compleanno, che ne so, il
+
+109
+00:07:06,680 --> 00:07:10,200
+cinquantesimo, il sessantesimo, il millesimo compleanno di X.
+
+110
+00:07:10,440 --> 00:07:13,720
+E tendenzialmente viene chiesto ad ognuno di noi di fare una sorta
+
+111
+00:07:13,720 --> 00:07:17,440
+di video di video saluto che poi viene proiettato durante la serata.
+
+112
+00:07:17,680 --> 00:07:21,200
+Ecco, cioè la persona che si occupa di fare questo montaggio, poi
+
+113
+00:07:21,360 --> 00:07:23,440
+a questo punto, a parte il fatto che ha tutta la mia
+
+114
+00:07:23,440 --> 00:07:27,360
+stima, perché si becca del materiale girato con ci sono 20 persone
+
+115
+00:07:27,360 --> 00:07:31,520
+che partecipano, ci sono 20 formati di file differenti, probabilmente.
+
+116
+00:07:31,520 --> 00:07:35,440
+Girati in condizioni, in qualsiasi tipo di condizioni sia di luce che
+
+117
+00:07:35,440 --> 00:07:38,480
+di audio, per cui mettere insieme tutte queste cose diventa complicato.
+
+118
+00:07:38,480 --> 00:07:41,600
+Ecco, questa è ancora una di quelle cose che ancora si fa
+
+119
+00:07:41,680 --> 00:07:45,040
+nonostante il mondo sia cambiato dal punto di vista della comunicazione.
+
+120
+00:07:45,040 --> 00:07:48,960
+Mentre dieci anni fa tutti facevano video, facevano montaggi, adesso siamo ritornati
+
+121
+00:07:48,960 --> 00:07:53,040
+a essere noi che fondamentalmente ci viviamo con questa roba qua, è
+
+122
+00:07:53,040 --> 00:07:57,200
+perché la comunicazione è diventata sempre più parcializzata fino a diventare atomica
+
+123
+00:07:57,200 --> 00:08:00,720
+per quanto concerne la storia di Instagram, il post sul social network.
+
+124
+00:08:00,720 --> 00:08:03,280
+Non voglio citare Facebook perché magari non lo usa più nessuno, mi
+
+125
+00:08:03,280 --> 00:08:03,840
+sa.
+
+126
+00:08:03,840 --> 00:08:06,640
+E poi ci sono gli youtuber che invece fanno produzioni video, però
+
+127
+00:08:06,720 --> 00:08:09,120
+quelle sono diventano una sorta di passo in più.
+
+128
+00:08:09,120 --> 00:08:12,800
+Il video più semplice, quello che possiamo fare veramente tutti.
+
+129
+00:08:13,120 --> 00:08:15,120
+Diventa una cosa un po' strana e complicata.
+
+130
+00:08:15,280 --> 00:08:19,920
+Di conseguenza è anche difficile trovare gli strumenti per farlo senza impazzire.
+
+131
+00:08:19,920 --> 00:08:23,200
+In questo devo dire Apple ha fatto un grandissimo lavoro con iMovie
+
+132
+00:08:23,200 --> 00:08:26,400
+e voglio raccontarvi la storia di questo iMovie qui, che è la
+
+133
+00:08:26,400 --> 00:08:29,760
+storia di una persona che io stimo tantissimo, che è il programmatore
+
+134
+00:08:29,760 --> 00:08:32,080
+capo che ha inventato il primo Final Cut.
+
+135
+00:08:32,080 --> 00:08:35,520
+Cioè non lui che l'ha inventato, ha collaborato inizialmente al progetto del
+
+136
+00:08:35,520 --> 00:08:38,240
+primo Final Cut per poi diventare il capo progetto, che si chiama
+
+137
+00:08:38,320 --> 00:08:41,920
+Randy Obilios e che da cinque anni è andato in pensione perché
+
+138
+00:08:41,920 --> 00:08:44,720
+ha detto: Io ho fatto il mio, ho 50 anni, cacchio me
+
+139
+00:08:44,800 --> 00:08:47,680
+ne frega, vado in vacanza con il mio marito e sto via
+
+140
+00:08:47,680 --> 00:08:48,400
+per tutta la vita.
+
+141
+00:08:48,400 --> 00:08:51,120
+E per cui il mondo ha perso un visionario che ha lavorato
+
+142
+00:08:51,120 --> 00:08:53,920
+in Apple da inviato lui, sì.
+
+143
+00:08:54,000 --> 00:08:57,120
+Spero che abbia fatto i soldini, però immagino che a capo della
+
+144
+00:08:57,120 --> 00:09:02,200
+divisione audiovisiva di Apple, insomma, per dieci anni qualche cosa te la
+
+145
+00:09:02,200 --> 00:09:03,080
+si è portata a casa.
+
+146
+00:09:03,080 --> 00:09:05,560
+Lui ha lavorato a un sacco di progetti di montaggio video.
+
+147
+00:09:05,800 --> 00:09:09,480
+Credo che inizialmente abbia lavorato anche a Premiere, che è stato il
+
+148
+00:09:09,480 --> 00:09:13,880
+primo software che ho usato di montaggio nel 96-97, credo.
+
+149
+00:09:13,880 --> 00:09:17,080
+Per poi passare in Macromedia quando hanno iniziato a sviluppare Final Cut,
+
+150
+00:09:17,080 --> 00:09:19,560
+che poi è stato venduto a Apple.
+
+151
+00:09:19,560 --> 00:09:23,240
+Final Cut inizialmente era un progetto biattaforma sia Mac che Windows.
+
+152
+00:09:23,400 --> 00:09:26,040
+Apple l'ha comprato e ha detto: sapete che c'è la versione Windows?
+
+153
+00:09:26,040 --> 00:09:28,680
+Buttiamola via, otteniamoci solo quella Mac.
+
+154
+00:09:28,680 --> 00:09:32,600
+E giustamente dal loro punto di vista si tratta degli anni 90
+
+155
+00:09:32,840 --> 00:09:33,480
+erotti.
+
+156
+00:09:33,480 --> 00:09:37,960
+E poi a un certo punto Randio, questo geniaccio lo lavorava, giustamente,
+
+157
+00:09:37,960 --> 00:09:42,280
+stavano sviluppando la versione corrente di allora di Final Kat la Final
+
+158
+00:09:42,280 --> 00:09:43,080
+Cat Pro 6.
+
+159
+00:09:43,080 --> 00:09:45,800
+Se non sbaglio, e ai Movie non mi ricordo più che quale
+
+160
+00:09:45,800 --> 00:09:46,040
+versione.
+
+161
+00:09:46,040 --> 00:09:48,440
+Lui a un certo punto ha detto voglio sviluppare un software che
+
+162
+00:09:48,440 --> 00:09:52,520
+mi serva a me per catalogare le immagini, i video prima di
+
+163
+00:09:52,520 --> 00:09:53,160
+montarli.
+
+164
+00:09:53,160 --> 00:09:55,000
+E nel farlo si è detto: ma sai che c'è?
+
+165
+00:09:55,080 --> 00:09:58,120
+Faccio una cosa dove assolutamente sono libero da chiunque, dato, non devo
+
+166
+00:09:58,120 --> 00:09:59,480
+rendere conto a nessuno.
+
+167
+00:09:59,480 --> 00:10:04,840
+E ha sviluppato questo prototipo, questo motore di visualizzazione e di gestione
+
+168
+00:10:05,400 --> 00:10:08,840
+dei film dei formati video, audio e fotografie.
+
+169
+00:10:08,840 --> 00:10:11,160
+Che poi è diventato, a un certo punto, visto che questa roba
+
+170
+00:10:11,160 --> 00:10:15,640
+cresceva ed era fighissima, ed è diventato il cuore contemporaneamente di IMovie
+
+171
+00:10:15,640 --> 00:10:16,520
+e di Final Cut.
+
+172
+00:10:16,520 --> 00:10:20,840
+IMovie e Final Cut condividono lo stesso identico motore, le stesse identiche
+
+173
+00:10:20,840 --> 00:10:25,400
+librerie, e per certi versi anche la stessa filosofia di funzionamento.
+
+174
+00:10:25,400 --> 00:10:27,320
+IMovie è molto semplificato.
+
+175
+00:10:27,320 --> 00:10:29,960
+però, per certi versi, è un po' come quando vai a comprare
+
+176
+00:10:30,520 --> 00:10:33,880
+il microprocessore, compri quello più economico perché costa di meno.
+
+177
+00:10:33,880 --> 00:10:36,760
+In realtà è come quello più potente, solo che gli hanno tagliato
+
+178
+00:10:36,760 --> 00:10:38,280
+due fili per non farlo funzionare.
+
+179
+00:10:38,280 --> 00:10:41,320
+Per cui la filosofia è esattamente quella.
+
+180
+00:10:41,320 --> 00:10:43,880
+Questa è la storia di Final Cut e di IMovie, che sono
+
+181
+00:10:43,880 --> 00:10:48,080
+essenzialmente lo stesso programma, e possono convivere.
+
+182
+00:10:48,240 --> 00:10:53,040
+Pensate che inizialmente Finalcat poteva leggere tranquillamente le librerie di IMovie e
+
+183
+00:10:53,200 --> 00:10:58,800
+oggi ne ho aperta una per curiosità, effettivamente la struttura delle sottocartelle
+
+184
+00:10:58,800 --> 00:11:01,600
+all'interno delle librerie è praticamente identica.
+
+185
+00:11:01,600 --> 00:11:04,480
+Adesso voglio parlare prima di parlare di IMUVI vero e proprio, però
+
+186
+00:11:04,480 --> 00:11:06,960
+voglio fare una sorta di digressione.
+
+187
+00:11:06,960 --> 00:11:09,680
+Un'altra digressione per quanto concerne invece la produzione di video.
+
+188
+00:11:09,680 --> 00:11:14,080
+Siamo abituati a gestire nel nostro computer dei file che sono file
+
+189
+00:11:14,080 --> 00:11:15,360
+di vari natura.
+
+190
+00:11:15,360 --> 00:11:21,440
+Documenti Word, se non pages, file Excel, se non numbers, file PDF,
+
+191
+00:11:23,280 --> 00:11:24,160
+abbiamo un sacco di file.
+
+192
+00:11:24,160 --> 00:11:26,080
+Quando apriamo il nostro computer, ci sono un sacco di robe.
+
+193
+00:11:26,080 --> 00:11:26,720
+Le fotografie.
+
+194
+00:11:26,720 --> 00:11:29,120
+Ecco, il video ha una caratteristica.
+
+195
+00:11:29,120 --> 00:11:32,240
+Sì, il file video è un file come tutti gli altri, solo
+
+196
+00:11:32,240 --> 00:11:35,200
+che essenzialmente occupa un sacco di spazio.
+
+197
+00:11:35,200 --> 00:11:39,360
+Perché non bisogna considerare il video solo come una sequenza di fotografie.
+
+198
+00:11:39,360 --> 00:11:40,480
+Immaginate un video di
+
+199
+00:11:42,240 --> 00:11:45,680
+un video di 10 secondi è come se fosse composto da 300
+
+200
+00:11:45,680 --> 00:11:46,400
+fotografie.
+
+201
+00:11:46,400 --> 00:11:48,160
+E i video di 10 secondi sono anche brevi.
+
+202
+00:11:48,160 --> 00:11:51,840
+A volte fate un video di 10 minuti, a me capita spesso
+
+203
+00:11:51,840 --> 00:11:55,200
+di farmi delle video chiacchierate abbastanza lunga.
+
+204
+00:11:55,200 --> 00:11:59,280
+Ecco, questi file cominciano a occupare decine, centinaia, se non migliaia di
+
+205
+00:11:59,280 --> 00:11:59,840
+megabyte.
+
+206
+00:11:59,840 --> 00:12:03,440
+Per cui avere un file video di 2-3 GB non è raro.
+
+207
+00:12:03,440 --> 00:12:09,520
+Pensate che le macchine fotografiche di due generazioni fa salvavano file video
+
+208
+00:12:09,520 --> 00:12:13,040
+che duravano al massimo 12 minuti perché la massima dimensione di file
+
+209
+00:12:13,040 --> 00:12:17,520
+consentita era 2 GB, perché utilizzano delle schede formattate con i vecchi
+
+210
+00:12:17,520 --> 00:12:17,920
+sistemi.
+
+211
+00:12:18,080 --> 00:12:19,840
+2 GB per 12 minuti.
+
+212
+00:12:19,840 --> 00:12:23,200
+Capite che se vi mettete a girare, a fare il filmato della
+
+213
+00:12:23,200 --> 00:12:27,280
+partita di pallone di vostro figlio, sono 90 minuti, dovete moltiplicare questi
+
+214
+00:12:27,280 --> 00:12:28,720
+12 per 5x6.
+
+215
+00:12:28,800 --> 00:12:32,840
+Per cui il fa e il video esplodono dal punto di vista
+
+216
+00:12:29,600 --> 00:12:33,560
+della quantità di spazio
+
+217
+00:12:33,960 --> 00:12:34,600
+occupato.
+
+218
+00:12:29,920 --> 00:12:35,400
+Assolutamente sì.
+
+219
+00:12:35,560 --> 00:12:40,920
+Io ho avuto la prova direttamente facendo qualche filmato, e in effetti
+
+220
+00:12:41,080 --> 00:12:41,720
+sì.
+
+221
+00:12:41,880 --> 00:12:47,000
+Confermo sottoscritto: io non ci credevo perché non ci credevo, non ero
+
+222
+00:12:47,000 --> 00:12:53,240
+al corrente della situazione quando ho iniziato a fare podcasting che già
+
+223
+00:12:53,240 --> 00:12:58,200
+mi sembravano enormi i file audio, ma sono una sciocchezza di fronte
+
+224
+00:12:58,360 --> 00:12:59,560
+ai file video.
+
+225
+00:12:59,800 --> 00:13:05,800
+File video per intenderci, io ho avuto una piccola esperienza quando registravo
+
+226
+00:13:06,040 --> 00:13:12,280
+delle lezioni che mi servivano poi per fare essenzialmente la mia professione.
+
+227
+00:13:12,280 --> 00:13:15,720
+E questi video se non fosse stato per il buon Alex che
+
+228
+00:13:15,720 --> 00:13:19,960
+mi consigliava comunque un certo livello di compressione, un certo livello di
+
+229
+00:13:19,960 --> 00:13:25,720
+bit rate e via disconcendo, diventavano delle proporzioni allucinanti.
+
+230
+00:13:25,720 --> 00:13:28,120
+E a questo punto l'hard disk
+
+231
+00:13:29,240 --> 00:13:33,880
+di un Mac come il mio, che è un 128 GB, diventano
+
+232
+00:13:33,880 --> 00:13:38,840
+veramente inutilizzabili con file di questo tipo senza considerare lo storage.
+
+233
+00:13:38,840 --> 00:13:43,640
+Perché comunque ridendo e scherzando sia io che Alex abbiamo incominciato a
+
+234
+00:13:43,640 --> 00:13:48,440
+fare i numeri, a contare quant'è che diventano questi file e soprattutto
+
+235
+00:13:48,440 --> 00:13:54,920
+metterli da parte, diventa un costo che tant'è Alex mi racconta che
+
+236
+00:13:54,920 --> 00:13:57,720
+anche nei suoi preventivi viene inserito questo costo.
+
+237
+00:13:57,720 --> 00:14:02,920
+Perché comunque il costo di mantenere dei filmati all'interno degli hard disk
+
+238
+00:14:03,480 --> 00:14:07,880
+occupa spazio e di conseguenza ha anche un costo.
+
+239
+00:14:07,880 --> 00:14:09,440
+Dico bene, Alex.
+
+240
+00:14:09,440 --> 00:14:13,000
+Ha un costo sia per l'archiviazione a lungo termine, ma sia anche
+
+241
+00:14:13,000 --> 00:14:14,360
+durante la lavorazione.
+
+242
+00:14:14,360 --> 00:14:17,200
+Anche perché considera che un programma di montaggio video.
+
+243
+00:14:17,360 --> 00:14:20,240
+Stavo dicendo, io parlo essenzialmente di IMUVI di Final Cut
+
+244
+00:14:21,280 --> 00:14:24,720
+, ma parliamo solo di AMUVID essenzialmente, sono pensati per dare al massimo
+
+245
+00:14:24,720 --> 00:14:28,160
+delle performance, perché i video sono dei file molto complessi.
+
+246
+00:14:28,160 --> 00:14:32,640
+Dato che non si possono memorizzare i fotogrammi così come sono, perché
+
+247
+00:14:32,640 --> 00:14:38,480
+occuperebbero uno spazio ancora più elevato, vengono utilizzati degli algoritmi molto sofisticati
+
+248
+00:14:38,480 --> 00:14:41,120
+che permettono di comprimere il video in modo tale che uno non
+
+249
+00:14:41,120 --> 00:14:42,640
+si accorga che è compresso.
+
+250
+00:14:42,640 --> 00:14:45,680
+Un po' come se fosse l'MP3 per l'audio, però in maniera molto
+
+251
+00:14:45,680 --> 00:14:47,200
+ma molto più complessa.
+
+252
+00:14:47,200 --> 00:14:50,240
+Ecco, i file video vengono letti a questo punto, ma per essere
+
+253
+00:14:50,240 --> 00:14:53,600
+letti in tempo reale ci vuole un sacco di potenza di calcolo.
+
+254
+00:14:53,600 --> 00:14:56,880
+Ovvio che adesso avremo dei computer di nuova generazione di M1 che
+
+255
+00:14:56,880 --> 00:14:58,880
+sono molto robusti su questo.
+
+256
+00:14:58,880 --> 00:15:02,640
+Però un file 4K magari ne mettete più di uno contemporaneamente e
+
+257
+00:15:02,720 --> 00:15:05,920
+questa roba qua fa uccidere le risorse del processore.
+
+258
+00:15:05,920 --> 00:15:09,680
+Per cui i programmi di montaggio video e iMovie non è anche
+
+259
+00:15:09,680 --> 00:15:10,800
+lui è uno di questi.
+
+260
+00:15:10,800 --> 00:15:13,680
+Otimizzano le risorse per cui nel momento in cui un progetto è
+
+261
+00:15:13,680 --> 00:15:17,600
+aperto, renderizzano già i file in modo tale che non siano compressi.
+
+262
+00:15:17,600 --> 00:15:20,080
+Per cui immaginate un file che è già compresso occupa un sacco
+
+263
+00:15:20,080 --> 00:15:22,640
+di spazio, non compresso ne occupa 10 volte tanto.
+
+264
+00:15:22,640 --> 00:15:26,480
+Per cui magari un nostro video di 10 minuti che magari occupa
+
+265
+00:15:26,480 --> 00:15:32,080
+su disco qualcosa come 3-4 GB, magari non compresso può occuparne 20,
+
+266
+00:15:32,080 --> 00:15:33,120
+25, 30.
+
+267
+00:15:33,120 --> 00:15:36,400
+E capite che quando gli hard disk e gli SSD dei nostri
+
+268
+00:15:36,400 --> 00:15:40,720
+computer non sono da terabyte terabyte, ma sono nell'ordine di 256 e
+
+269
+00:15:40,720 --> 00:15:46,480
+anche 512 GB, 20 terabyte sono veramente una botta, non indifferente.
+
+270
+00:15:46,480 --> 00:15:50,480
+È anche una di quelle cose che va considerata quando si inizia
+
+271
+00:15:50,480 --> 00:15:54,320
+a lavorare, per cui spesso e volentieri nel campo professionale si lavora
+
+272
+00:15:54,320 --> 00:15:56,640
+sempre con degli hard disk esterni performanti.
+
+273
+00:15:56,640 --> 00:15:59,760
+Quando si fanno montaggi così per amicizia, magari uno lo fa sul
+
+274
+00:15:59,960 --> 00:16:00,760
+proprio desktop
+
+275
+00:15:59,840 --> 00:16:03,000
+sul proprio hard disk.
+
+276
+00:16:03,320 --> 00:16:06,200
+Però bisogna ricordarsene, perché a un certo punto sta roba occupa un
+
+277
+00:16:06,200 --> 00:16:09,960
+sacco di spazio e a un certo punto lo spazio va liberato
+
+278
+00:16:09,960 --> 00:16:10,680
+in qualche modo.
+
+279
+00:16:10,680 --> 00:16:18,360
+Volevo chiederti quali sono, mia curiosità, hard disk esterni performanti, tendenzialmente che
+
+280
+00:16:18,360 --> 00:16:23,560
+porte utilizzate voi nel vostro ambiente, nel senso che tipo di porte
+
+281
+00:16:23,560 --> 00:16:29,960
+utilizzate, che hard disk, devono avere qualche particolarità, raccontaci un po'.
+
+282
+00:16:30,120 --> 00:16:33,640
+Allora, ci sono diverse scuole di pensiero.
+
+283
+00:16:33,640 --> 00:16:37,640
+Io devo essere sincero, non ho dei volumi di lavoro enormi come
+
+284
+00:16:37,640 --> 00:16:41,720
+quando facevo magari collezioni di DVD per cui ogni settimana dovevo produrre
+
+285
+00:16:41,720 --> 00:16:46,200
+un'ora di materiale, magari su due collane contemporaneamente per cui ci lavoravamo
+
+286
+00:16:46,200 --> 00:16:47,000
+in tante persone.
+
+287
+00:16:47,160 --> 00:16:48,600
+Adesso è molto più semplice.
+
+288
+00:16:48,600 --> 00:16:54,600
+In ufficio abbiamo uno storage Sun che è collegato in fibra ottica,
+
+289
+00:16:54,600 --> 00:16:55,960
+in Fire Channel.
+
+290
+00:16:55,960 --> 00:16:59,320
+C'è da dire che questo era lo stato dell'arte 15 anni fa,
+
+291
+00:16:59,320 --> 00:17:04,440
+adesso essenzialmente una connessione USB  o anche con Thunderbolt, che è
+
+292
+00:17:04,600 --> 00:17:08,040
+anzi, più performante, perché se la porta è la stessa sui nostri
+
+293
+00:17:08,040 --> 00:17:10,600
+computer nuovi è un po' quello che si usa.
+
+294
+00:17:10,600 --> 00:17:14,920
+Ultimamente io ho degli hard disk esterni, compro dei case, cifico dentro
+
+295
+00:17:14,920 --> 00:17:18,040
+un SSD e lo attacco in USB 3 e sono molto molto
+
+296
+00:17:18,040 --> 00:17:19,960
+soddisfatto delle performance.
+
+297
+00:17:19,960 --> 00:17:23,400
+C'è da dire che se dovessi utilizzare tante cose contemporaneamente sarebbe un
+
+298
+00:17:23,400 --> 00:17:23,800
+problema.
+
+299
+00:17:23,800 --> 00:17:28,600
+Devo dire che il server Sun che abbiamo in ufficio è anche
+
+300
+00:17:28,600 --> 00:17:32,360
+ridondante, un RID 60, per cui se si rompe un hard disk,
+
+301
+00:17:32,360 --> 00:17:35,160
+e ci è capitato che si rompesse, cioè comunque si può andare
+
+302
+00:17:35,160 --> 00:17:38,520
+avanti a lavorare, si inserisce quello nuovo, si fa la formattazione in
+
+303
+00:17:38,520 --> 00:17:42,520
+automatico e dopo un giorno circa è tornato tutto come nuovo.
+
+304
+00:17:42,520 --> 00:17:45,120
+Siete super carrozzati in ufficio.
+
+305
+00:17:45,360 --> 00:17:48,640
+E considera se il tuo core business è di questo, sì.
+
+306
+00:17:44,680 --> 00:17:50,880
+Adesso devo dire che le cose sono molto più fluide.
+
+307
+00:17:51,200 --> 00:17:54,400
+Passo molto più tempo a lavorare a casa o sono molto più
+
+308
+00:17:54,640 --> 00:17:56,080
+leggero per certi versi.
+
+309
+00:17:56,080 --> 00:18:00,080
+Tuttavia, l'ultimo progetto che ho fatto grosso era un progetto a regime
+
+310
+00:18:00,160 --> 00:18:02,320
+mi occupava 300 GB di spazio.
+
+311
+00:18:02,320 --> 00:18:04,560
+Avevo dedicato un hard disk solo a questo.
+
+312
+00:18:04,800 --> 00:18:09,520
+Ogni notte facevo il backup dei progetti, non dei renderizzati, ma dei
+
+313
+00:18:09,520 --> 00:18:15,280
+progetti, perché era un progetto molto importante, molto remunerativo e che aveva
+
+314
+00:18:15,280 --> 00:18:18,400
+dei tempi tale per cui anche un solo giorno di stop sarebbe
+
+315
+00:18:18,400 --> 00:18:19,440
+stato problematico.
+
+316
+00:18:19,440 --> 00:18:22,080
+Per cui poi non è mai successo niente, è andato sempre tutto
+
+317
+00:18:22,080 --> 00:18:22,800
+alla grande.
+
+318
+00:18:22,800 --> 00:18:27,840
+Un progetto per una farmaceutica americana da tradurre in 22 lingue europee.
+
+319
+00:18:27,840 --> 00:18:32,320
+È interessante le lingue europee come sono molto divertenti per certi versi.
+
+320
+00:18:32,320 --> 00:18:36,000
+Per cui, ripeto, è importante sapere questa cosa qua: prima di iniziare
+
+321
+00:18:36,000 --> 00:18:38,800
+a montare, assicurarsi di avere abbastanza spazio.
+
+322
+00:18:38,800 --> 00:18:41,440
+Ovvio che se uno dice faccio un video che deve durare un
+
+323
+00:18:41,440 --> 00:18:43,280
+minuto, non occupa niente.
+
+324
+00:18:43,280 --> 00:18:46,320
+C'è un minuto, sono anche volendo, sarà un gigabyte, sì, è vero.
+
+325
+00:18:46,320 --> 00:18:48,880
+Se però, per fare questo video di un minuto si prendono tante
+
+326
+00:18:48,880 --> 00:18:54,400
+sorgenti, si ha, che ne so, un'ora di video in precedenza, allora,
+
+327
+00:18:54,400 --> 00:18:58,240
+diciamo che le dimensioni contano e soprattutto nel video, le dimensioni contano
+
+328
+00:18:58,240 --> 00:18:59,360
+con la C maiuscola.
+
+329
+00:18:59,360 --> 00:19:01,760
+Fatto questo, che non voglio sparimentare spaventare nessuno.
+
+330
+00:19:01,760 --> 00:19:04,640
+Fare video è divertentissimo ed è una cosa che a me rilassa
+
+331
+00:19:04,720 --> 00:19:07,440
+anche molto, oltre a essere molto entusiasmante.
+
+332
+00:19:07,600 --> 00:19:09,280
+Fare video è relativamente semplice.
+
+333
+00:19:09,280 --> 00:19:14,000
+IMovie è un programma talmente banale che la prima cosa che vedi
+
+334
+00:19:14,000 --> 00:19:16,560
+quando lo apri è: Vuoi creare un nuovo progetto?
+
+335
+00:19:16,560 --> 00:19:16,800
+Sì.
+
+336
+00:19:16,960 --> 00:19:18,880
+Lui ti propone di avere due tipi di progetti.
+
+337
+00:19:19,040 --> 00:19:22,320
+Se lo apro insieme a voi, così, ti propone di o di
+
+338
+00:19:22,320 --> 00:19:25,760
+fare un progetto ex nuovo, oppure di utilizzare un template che sono
+
+339
+00:19:26,000 --> 00:19:29,120
+alcuni template che sono già pronti, che sono essenzialmente dei trailer.
+
+340
+00:19:29,120 --> 00:19:33,080
+Apple quando ha lanciato questa versione di iMovie qualche anno fa, 5-6,
+
+341
+00:19:33,080 --> 00:19:37,400
+forse anche 8, ha detto mettiamoci dentro dei trailer da riempire così
+
+342
+00:19:37,560 --> 00:19:40,280
+la gente ci fica dentro le sue immagini e non sta neanche
+
+343
+00:19:40,280 --> 00:19:41,400
+lì a pensare al montaggio.
+
+344
+00:19:41,480 --> 00:19:43,640
+Questa cosa è una cosa carina, la fate una volta.
+
+345
+00:19:43,640 --> 00:19:47,240
+Dopo che l'avete fatta, ovviamente se la cosa non si adatta alle
+
+346
+00:19:47,240 --> 00:19:51,400
+vostre esigenze, dovete pensare invece a costruirne uno da zero.
+
+347
+00:19:51,400 --> 00:19:54,920
+Il montaggio in a Movie è molto semplice, c'è essenzialmente un'unica grande
+
+348
+00:19:54,920 --> 00:19:58,040
+linea in basso che si chiama timeline, che se non l'avete mai
+
+349
+00:19:58,040 --> 00:20:04,120
+vista, essenzialmente ha questo scopo: tradurre in informazioni spaziali, cioè in una
+
+350
+00:20:04,120 --> 00:20:06,280
+finestra, qualcosa che invece succede nel tempo.
+
+351
+00:20:06,280 --> 00:20:08,840
+Il video lo guardi, è sempre una finestra che però continua a
+
+352
+00:20:08,840 --> 00:20:09,480
+cambiare.
+
+353
+00:20:09,480 --> 00:20:13,480
+Dato che non si può rappresentare lo cambiamento del tempo cambiandolo, perché
+
+354
+00:20:13,480 --> 00:20:17,240
+sarebbe difficile da gestire, viene visualizzato con la timeline, che è una
+
+355
+00:20:17,240 --> 00:20:21,480
+rappresentazione bidimensionale con lo scorrere del tempo, cioè una testina di riproduzione
+
+356
+00:20:21,480 --> 00:20:25,080
+che va avanti e indietro, cioè va verso destra per segnare lo
+
+357
+00:20:25,080 --> 00:20:27,880
+scorrere del tempo, per cui a seconda di dove sta questa testina
+
+358
+00:20:27,880 --> 00:20:31,080
+di riproduzione, che è una barra verticale, sapete che siete in quel
+
+359
+00:20:31,080 --> 00:20:32,840
+momento lì nella timeline.
+
+360
+00:20:33,320 --> 00:20:36,120
+È più facile da vedere che da spiegare, naturalmente.
+
+361
+00:20:36,120 --> 00:20:39,400
+Su questa barra, qua, la prima cosa che vi viene da dire
+
+362
+00:20:39,400 --> 00:20:43,240
+è trascinate tutte tutto quello che vi piace in ordine, dal primo
+
+363
+00:20:43,240 --> 00:20:43,720
+all'ultimo.
+
+364
+00:20:43,720 --> 00:20:49,160
+IMovie vi mette a disposizione una finestra sui file multimediali, cioè su
+
+365
+00:20:49,640 --> 00:20:53,480
+tutte le fotografie, tutti i video che avete caricato sul computer e
+
+366
+00:20:53,640 --> 00:20:57,960
+tutte le musiche, anche quelle che avete comprato di musica una volta
+
+367
+00:20:57,960 --> 00:20:58,920
+si chiamava iTunes.
+
+368
+00:20:59,000 --> 00:21:03,320
+Però potete trascinare dalla scriveria da qualsiasi finestra il file che verrà
+
+369
+00:21:03,400 --> 00:21:04,520
+appunto posizionato.
+
+370
+00:21:04,520 --> 00:21:07,560
+Dove file è un file video, un file di immagine, una fotografia,
+
+371
+00:21:07,560 --> 00:21:09,960
+un file audio, cioè una musica con effetto sonoro.
+
+372
+00:21:09,960 --> 00:21:13,800
+Io consiglio sempre di iniziare così a ruota libera e di mettere
+
+373
+00:21:13,800 --> 00:21:16,560
+dentro le cose così come sono e di vedere come
+
+374
+00:21:14,920 --> 00:21:17,040
+viene.
+
+375
+00:21:17,200 --> 00:21:20,560
+E il vedere come viene significa far partire la barra di riproduzione,
+
+376
+00:21:20,560 --> 00:21:24,080
+essenzialmente si fa prendere la barra spaziatrice, che è la cosa più
+
+377
+00:21:24,080 --> 00:21:24,640
+comoda.
+
+378
+00:21:24,640 --> 00:21:26,960
+Diviene molto comodo a un certo punto invece di stare lì a
+
+379
+00:21:26,960 --> 00:21:29,120
+premere il pulsante play, di vedere cosa succede.
+
+380
+00:21:29,120 --> 00:21:30,720
+E a questo punto è di andare a tagliare.
+
+381
+00:21:30,720 --> 00:21:34,160
+Quando si mettono due cose vicine, due fotografie, per esempio vicine, si
+
+382
+00:21:34,160 --> 00:21:38,800
+può scegliere di accorciare andando a beccare il bordo destro della clip.
+
+383
+00:21:38,800 --> 00:21:42,160
+Se si sposta verso sinistra e bordo destro si accorcia, se si
+
+384
+00:21:42,160 --> 00:21:44,880
+sposta verso destra, si allunga la clip.
+
+385
+00:21:44,880 --> 00:21:48,000
+Destra significa avanti nel tempo, sinistra significa indietro nel tempo.
+
+386
+00:21:48,000 --> 00:21:52,400
+I comandi di iMovie sono veramente banalissimi, sono molto molto semplici da
+
+387
+00:21:52,400 --> 00:21:53,120
+gestire.
+
+388
+00:21:53,120 --> 00:21:56,640
+E tra l'altro, tra il taglio, tra una clip e l'altra, si
+
+389
+00:21:56,640 --> 00:21:58,720
+possono mettere quelle che viene chiamate transizioni.
+
+390
+00:21:58,720 --> 00:22:00,000
+Ce ne sono poche, sono le stesse.
+
+391
+00:22:00,000 --> 00:22:02,240
+Di final cat, sono un decimo di quelle che sono a disposizione
+
+392
+00:22:02,320 --> 00:22:06,720
+di final cat, ma sono quelle più utilizzate: tipo la dissolvenza incrociata,
+
+393
+00:22:06,720 --> 00:22:11,120
+le tendine, zoom incrociata, ci sono un sacco di cose e vi
+
+394
+00:22:11,120 --> 00:22:15,680
+fa vedere anche un'anteprima: cui si prende la transizione, si trascina tra
+
+395
+00:22:15,680 --> 00:22:16,400
+i due clip.
+
+396
+00:22:16,720 --> 00:22:20,960
+Viene fuori un simbolino con due triangoli che si vanno uno contro
+
+397
+00:22:20,960 --> 00:22:21,520
+l'altro.
+
+398
+00:22:21,520 --> 00:22:24,800
+E a questo punto la transizione viene creata facendo play con la
+
+399
+00:22:24,800 --> 00:22:26,800
+barra di riproduzione, si vede l'effetto che fa.
+
+400
+00:22:26,800 --> 00:22:30,400
+È immediato ed è pensato proprio per poterci giocare nel senso, uno
+
+401
+00:22:30,400 --> 00:22:34,720
+ci gioca un po', ci fa un'oretta di tempo a giochicchiarci e
+
+402
+00:22:34,720 --> 00:22:37,040
+a un certo punto scopre che cosa gli piace e cosa non
+
+403
+00:22:37,040 --> 00:22:37,600
+gli piace.
+
+404
+00:22:37,600 --> 00:22:41,840
+Alla fine si mette la musica sotto, prendete un qualsiasi brano, ovviamente
+
+405
+00:22:41,840 --> 00:22:43,040
+coperto dai diritti di
+
+406
+00:22:44,160 --> 00:22:44,800
+perché tanto.
+
+407
+00:22:44,800 --> 00:22:48,160
+Comunque se non fate un video che viene mostrato a 50 milioni
+
+408
+00:22:48,240 --> 00:22:50,240
+di persone su YouTube, non è un grosso problema.
+
+409
+00:22:50,320 --> 00:22:53,200
+Comunque, caricate un video con un brano di musica che protettore dei
+
+410
+00:22:53,200 --> 00:22:54,240
+diritti d'autore.
+
+411
+00:22:54,240 --> 00:22:58,160
+YouTube essenzialmente ve lo mette la pubblicità e se la becca lui,
+
+412
+00:22:58,160 --> 00:23:00,680
+per cui non è che ci sono grossi neanche grossi problemi dal
+
+413
+00:22:59,920 --> 00:23:03,240
+punto di vista della parte legal.
+
+414
+00:23:03,880 --> 00:23:06,840
+L'unico problema è che a volte sul mobile non c'è ah, è
+
+415
+00:23:06,920 --> 00:23:09,240
+verso sei avvocato.
+
+416
+00:23:09,480 --> 00:23:13,160
+E da quello che ho visto, io appunto mi sono preparato per
+
+417
+00:23:13,400 --> 00:23:17,880
+la puntata guardando un po' di cose, tutti sconsigliano caldamente di se
+
+418
+00:23:17,880 --> 00:23:21,080
+si vuole pubblicare ovviamente sui social o roba del genere.
+
+419
+00:23:21,080 --> 00:23:25,240
+Anche perché da quello che ho capito, YouTube, Facebook e così via,
+
+420
+00:23:25,480 --> 00:23:27,560
+cancellano in automatico i video
+
+421
+00:23:29,080 --> 00:23:34,440
+e trovano diciamo le musiche coperte da copyright nel giro di pochissimo.
+
+422
+00:23:34,440 --> 00:23:38,760
+Poi devo dirti la verità: non so se in tutti questi video
+
+423
+00:23:38,760 --> 00:23:46,280
+si faceva pubblicità ovviamente a vari servizi che concedevano in uso della
+
+424
+00:23:46,280 --> 00:23:52,920
+musica da mettere come fondo per i video, il consiglio pratico è
+
+425
+00:23:52,920 --> 00:23:57,800
+cercare o utilizzare appunto delle musiche non coperte dai diritti d'autore o
+
+426
+00:23:57,800 --> 00:24:04,200
+addirittura open, oppure utilizzare casomai, un'altra cosa, forse un giorno faremo una
+
+427
+00:24:04,200 --> 00:24:05,080
+puntata anche su quello.
+
+428
+00:24:05,080 --> 00:24:10,360
+Garage Band ha la possibilità, per esempio, di generare dei loop che
+
+429
+00:24:10,600 --> 00:24:15,560
+si possono utilizzare, diciamo, anche come chiamiamole così, musiche di sottofondo per
+
+430
+00:24:15,560 --> 00:24:16,440
+non spendere niente.
+
+431
+00:24:16,440 --> 00:24:20,280
+È ovvio che a uso personale potete metterci la musica che volete.
+
+432
+00:24:20,280 --> 00:24:22,920
+Sì, infatti, devo dire la verità: che se vai su Instagram, nelle
+
+433
+00:24:22,920 --> 00:24:25,960
+storie c'è sempre musica di qualcun altro e se ne sbattono un
+
+434
+00:24:25,960 --> 00:24:29,640
+po' tutti, perché ha lo stesso effetto della radio, non è che
+
+435
+00:24:30,120 --> 00:24:33,880
+anche perché poi finché tu non fai un milione di visualizzazioni,
+
+436
+00:24:36,520 --> 00:24:40,040
+non sai nessuno di come se ascoltassi la musica in casa.
+
+437
+00:24:40,680 --> 00:24:43,400
+Dal punto di vista legale, ovvio che ci sono queste cose, ma
+
+438
+00:24:43,400 --> 00:24:46,080
+alla fin, fine, non succede praticamente niente.
+
+439
+00:24:46,320 --> 00:24:49,600
+Un video didattico che ho fatto su una canzone di Lady Gaga,
+
+440
+00:24:49,600 --> 00:24:50,480
+ed è ancora lì.
+
+441
+00:24:44,920 --> 00:24:52,000
+Nessuno mi ha mai detto niente.
+
+442
+00:24:52,320 --> 00:24:56,560
+Ma allora, sei un video didattico è adesso, ma non entriamo nel
+
+443
+00:24:57,680 --> 00:24:58,560
+cavoli!
+
+444
+00:24:59,200 --> 00:25:03,440
+Hai vinto tu una cosa che imparerete: anzi no, prima di ultima
+
+445
+00:25:03,440 --> 00:25:06,800
+cosa è: c'è la possibilità di inserire dei titoli.
+
+446
+00:25:06,960 --> 00:25:10,560
+Vedete che ci sono tantissimi titoli già pronti nei movie.
+
+447
+00:25:10,560 --> 00:25:14,000
+L'idea è quella di scegliere quello che vi piace.
+
+448
+00:25:14,000 --> 00:25:17,520
+Se ci cliccate sopra e scorrete avanti e indietro col mouse, vedete
+
+449
+00:25:17,600 --> 00:25:21,920
+o col dito, vedete come sono fatti questi titoli.
+
+450
+00:25:21,920 --> 00:25:27,360
+E basta a questo punto trascinare il titolo sulla timeline e digitare
+
+451
+00:25:27,520 --> 00:25:29,440
+il testo che vogliamo metterci.
+
+452
+00:25:29,440 --> 00:25:32,640
+Inizialmente vi farà la scritta è testo del titolo.
+
+453
+00:25:32,640 --> 00:25:35,120
+Basta metterci dentro il mio video delle vacanze.
+
+454
+00:25:35,280 --> 00:25:37,120
+Guardate quanto è buona la mia donna!
+
+455
+00:25:37,120 --> 00:25:40,880
+Cioè, per dire le due cose che uno potrebbe fare, questo apparirà.
+
+456
+00:25:40,880 --> 00:25:41,600
+E anche su questi
+
+457
+00:25:42,800 --> 00:25:47,280
+titoli hanno già dentro delle animazioni per cui appaiono e scompaiono in
+
+458
+00:25:47,280 --> 00:25:48,480
+maniera molto morbida.
+
+459
+00:25:48,480 --> 00:25:52,240
+È molto interessante il fatto che le foto vengono animate automaticamente, se
+
+460
+00:25:52,480 --> 00:25:55,840
+trascinate una foto, vedete che appunto c'è uno zoom automatico.
+
+461
+00:25:56,000 --> 00:25:57,600
+Faccio una domanda, Alex.
+
+462
+00:25:57,600 --> 00:26:00,720
+Si c'è un po' di lag, quindi arriverà tra un po' la
+
+463
+00:26:00,720 --> 00:26:01,520
+domanda.
+
+464
+00:26:01,520 --> 00:26:05,840
+Dunque, volevo chiederti per quanto riguarda la timeline, adesso io non ho
+
+465
+00:26:05,840 --> 00:26:09,840
+mai aperto i movie quindi cado un po' dal pero, ma vedendo
+
+466
+00:26:09,840 --> 00:26:14,640
+qualche filmato qua e là dei vari youtuber, ho visto che la
+
+467
+00:26:14,640 --> 00:26:19,680
+timeline può essere su vari gradini, nel senso che ci possono essere
+
+468
+00:26:19,680 --> 00:26:21,040
+più timeline.
+
+469
+00:26:21,360 --> 00:26:26,400
+Ipotizzo io perché vedendo da qua non posso capire, nel senso che
+
+470
+00:26:26,400 --> 00:26:27,920
+non usando il programma.
+
+471
+00:26:28,160 --> 00:26:33,400
+Penso che si possa suddividere il video in più segmenti in cui
+
+472
+00:26:29,920 --> 00:26:34,040
+si può applicare
+
+473
+00:26:34,200 --> 00:26:37,880
+degli effetti non penso che sia per IMUVI penso che questo sia
+
+474
+00:26:37,880 --> 00:26:44,440
+da pannaggio di Final 10 però appunto volevo chiederti questa curiosità perché
+
+475
+00:26:44,600 --> 00:26:52,280
+ho visto queste diciamo queste timeline spezzate allora se hai presente un
+
+476
+00:26:52,280 --> 00:26:56,280
+programma che conosci che è Pod User funziona allo stesso modo c'è
+
+477
+00:26:56,920 --> 00:27:00,200
+una linea principale che è quella del nostro racconto e poi c'è
+
+478
+00:27:00,280 --> 00:27:04,520
+tante cose che possono essere appiccicate sopra o sotto sopra vengono messe
+
+479
+00:27:04,520 --> 00:27:08,280
+le clip cioè le clip video e sotto gli effetti sonori la
+
+480
+00:27:08,280 --> 00:27:11,160
+musica che hanno lo stesso codice colore di final catché
+
+481
+00:27:12,360 --> 00:27:15,960
+gli effetti sonori sono verdi, le clip video sono blu e i
+
+482
+00:27:15,960 --> 00:27:17,160
+titoli sono viola.
+
+483
+00:27:17,160 --> 00:27:21,320
+Diciamo si possono sovrapporre diverse clip perché poi a un certo punto
+
+484
+00:27:21,400 --> 00:27:25,000
+cliccando sulla clip, in alto a destra ci sono tutte le impostazioni
+
+485
+00:27:25,000 --> 00:27:30,840
+che si possono essere fatte sulla clip stessa, sopra la viewer c'è
+
+486
+00:27:30,840 --> 00:27:34,600
+una bacchetta magica che ha lo scopo di migliorare
+
+487
+00:27:35,880 --> 00:27:37,240
+il colore,
+
+488
+00:27:38,360 --> 00:27:42,920
+la luminosità, eccetera, eccetera, eccetera, in maniera automatica, però, si possono regolare
+
+489
+00:27:42,920 --> 00:27:44,440
+anche in modo automatico.
+
+490
+00:27:44,440 --> 00:27:47,400
+C'è lo stabilizzatore delle immagini quando si fanno le pagine che sono
+
+491
+00:27:47,400 --> 00:27:52,280
+un po' movimentate, cliccando su quello, le immagini vengono stabilizzate e vengono
+
+492
+00:27:52,280 --> 00:27:54,520
+eliminati i troppi movimenti.
+
+493
+00:27:54,680 --> 00:27:59,240
+Ci sono le impostazioni dell'audio, ci sono un sacco di impostazioni, e
+
+494
+00:27:59,240 --> 00:28:01,880
+poi ci sono anche i filtri che sono molto simili ai filtri
+
+495
+00:28:01,880 --> 00:28:05,800
+di Instagram, che danno un effetto più bello o meno bello, nel
+
+496
+00:28:05,800 --> 00:28:11,880
+senso possono essere o migliorativi, leggermente o poco incisivi, oppure delle vere
+
+497
+00:28:11,880 --> 00:28:14,840
+e proprie botte che cambiano completamente i colori
+
+498
+00:28:15,920 --> 00:28:20,160
+della clip, per cui, che ne so, c'è un viraggio completo al
+
+499
+00:28:14,840 --> 00:28:22,320
+viola, come sto vedendo in questo momento.
+
+500
+00:28:23,200 --> 00:28:27,760
+È pensato effettivamente per giocarci un po', magari non è immediato per
+
+501
+00:28:27,920 --> 00:28:32,240
+certi versi, però è pensato effettivamente per permettersi lì e giochi chiare
+
+502
+00:28:32,400 --> 00:28:35,840
+e se si mettono insieme due fotografie, tipo una sopra l'altra, si
+
+503
+00:28:35,840 --> 00:28:40,480
+può fare l'effetto picture in picture andando a ridimensionarla con il comando
+
+504
+00:28:40,480 --> 00:28:45,440
+crop che praticamente consente di fare il ritaglio della clip stessa in
+
+505
+00:28:45,440 --> 00:28:48,720
+modo tale che possa essere a questo punto messa in una sorta
+
+506
+00:28:48,720 --> 00:28:51,120
+di picture in picture, in più in piccolo.
+
+507
+00:28:51,120 --> 00:28:55,520
+Sì, dai video che ho visto io ci sono effettivamente molte funzioni
+
+508
+00:28:56,480 --> 00:29:03,200
+relativamente avanzate, tipo la possibilità anche di mettere della grafica animata utilizzando
+
+509
+00:29:03,200 --> 00:29:07,040
+il green screen, chiamiamolo così, su un video principale.
+
+510
+00:29:07,040 --> 00:29:12,400
+Quindi tutte le varie clip poi possono essere utilizzate come miglioramenti o
+
+511
+00:29:12,400 --> 00:29:16,720
+per inserire delle infografiche, per esempio, e così via.
+
+512
+00:29:16,720 --> 00:29:20,960
+Sì, poi c'è anche la possibilità: negli sfondi, ci sono anche gli
+
+513
+00:29:21,120 --> 00:29:25,760
+sfondi di mappa che sono pensati proprio per mostrare gli itinerari per
+
+514
+00:29:25,760 --> 00:29:30,640
+cui ovviamente di default mettere San Francisco perché è la parte della
+
+515
+00:29:30,640 --> 00:29:34,000
+Silicon Valley, ma basta mettere, vediamo se c'è Banzago, casa mia.
+
+516
+00:29:34,080 --> 00:29:37,360
+C'è Milano e poi si può scegliere un punto di arrivo.
+
+517
+00:29:37,360 --> 00:29:39,920
+Vediamo Londra.
+
+518
+00:29:40,560 --> 00:29:44,560
+Praticamente genererà il disegno,
+
+519
+00:29:45,760 --> 00:29:50,560
+la linea rossa che collega del viaggio, che ricorda effettivamente la copia
+
+520
+00:29:50,600 --> 00:29:54,000
+a carbone degli passaggi che ci sono nei film di Indiana Jones,
+
+521
+00:29:54,000 --> 00:29:56,400
+che sono tra l'altro i miei film preferiti.
+
+522
+00:29:56,520 --> 00:30:02,200
+Beh, diciamo che ai Movie di fatto è pensato per un'utenza casalinga,
+
+523
+00:30:02,200 --> 00:30:06,600
+chiamiamola così, e quindi, per esempio, appunto il viaggio delle vacanze piuttosto
+
+524
+00:30:06,600 --> 00:30:10,840
+che viaggio avventure nel mondo o altre cose simili.
+
+525
+00:30:11,160 --> 00:30:14,680
+Tutti questi strumenti, secondo me, sono anche perché immagino che in Final
+
+526
+00:30:14,840 --> 00:30:20,520
+Cut una roba del genere non esista, o comunque venga utilizzata abbastanza
+
+527
+00:30:20,520 --> 00:30:20,920
+poco.
+
+528
+00:30:20,920 --> 00:30:22,600
+No, ma, tra l'altro, è bellissimo.
+
+529
+00:30:23,080 --> 00:30:26,600
+Personalmente, se dovessi fare una roba del genere, farei delle piccole animazioni
+
+530
+00:30:26,680 --> 00:30:29,960
+in IMOV le esporterei per poi portarla in final cat.
+
+531
+00:30:30,600 --> 00:30:31,480
+In realtà ci sono
+
+532
+00:30:32,600 --> 00:30:36,120
+dal punto di vista professionale, ci sono dei template già pronti da
+
+533
+00:30:36,120 --> 00:30:39,320
+utilizzare in After Effects, che è il programma che effettivamente uso di
+
+534
+00:30:39,320 --> 00:30:39,480
+più.
+
+535
+00:30:39,480 --> 00:30:42,920
+Che un programma di animazione di compositing che hanno
+
+536
+00:30:44,040 --> 00:30:48,600
+tra l'altro, utilizzano le vere mappe con il vero rilievo georeferenziato da
+
+537
+00:30:48,600 --> 00:30:50,520
+Google Maps ed è molto.
+
+538
+00:30:50,760 --> 00:30:53,400
+Quelli è molto realistica come cosa.
+
+539
+00:30:53,400 --> 00:30:58,520
+Infatti, se vedete quando fanno le presentazioni delle tappe del Giro d'Italia,
+
+540
+00:30:58,520 --> 00:31:02,840
+utilizzano sistemi di questo tipo, sono effettivamente molto belli perché vedete effettivamente
+
+541
+00:31:02,840 --> 00:31:06,040
+le valli, vedete proprio i rilievi esattamente come sono.
+
+542
+00:31:06,040 --> 00:31:08,040
+Sì, beh, quello è veramente professionale.
+
+543
+00:31:08,040 --> 00:31:12,360
+Adesso, noi siamo alla fase ancora casarezza, chiamiamola così.
+
+544
+00:31:12,360 --> 00:31:15,400
+Sì, allora l'approccio che io vedo con i Movie è un programma
+
+545
+00:31:15,400 --> 00:31:17,320
+molto giocoso: è giocaci.
+
+546
+00:31:17,320 --> 00:31:20,120
+Il consiglio che posso dare è non cominciare con un video con
+
+547
+00:31:20,120 --> 00:31:23,000
+50 clip, ma cominciare con un video con 6 o 7.
+
+548
+00:31:23,560 --> 00:31:28,680
+Fate 3-4 video al vostro gatto, al vostro cane, proprio 3-4 clippettine
+
+549
+00:31:28,680 --> 00:31:33,160
+col cellulare, le trasferite sul computer e vedete come poter raccontare una
+
+550
+00:31:33,160 --> 00:31:33,640
+storia.
+
+551
+00:31:33,640 --> 00:31:36,280
+Una cosa che io dico sempre a tutti è: ed è un
+
+552
+00:31:36,280 --> 00:31:39,000
+mantra che io ho ripetuto e a tutti i miei collaboratori.
+
+553
+00:31:39,160 --> 00:31:43,200
+Se un video dura 60 secondi, può tranquillamente durarne 55?
+
+554
+00:31:43,200 --> 00:31:44,200
+Prima regola.
+
+555
+00:31:44,200 --> 00:31:48,160
+Seconda regola, se un video dura 55 secondi ne può durare 50.
+
+556
+00:31:44,840 --> 00:31:49,840
+Non avete paura tagliare.
+
+557
+00:31:49,920 --> 00:31:53,600
+Siamo abituati a guardare le pubblicità che durano 15 secondi, 10 secondi
+
+558
+00:31:53,760 --> 00:31:56,640
+e i trailer dei film che durano un minuto, ma hanno dentro
+
+559
+00:31:56,640 --> 00:31:59,440
+tanta di quella roba per cui ogni singola inquadratura dura meno di
+
+560
+00:31:59,440 --> 00:32:00,240
+un secondo.
+
+561
+00:32:00,240 --> 00:32:02,160
+Siamo abituati a questo tipo di linguaggio.
+
+562
+00:32:02,160 --> 00:32:05,120
+Ovvio che se dovessi fare un video per mia nonna, farei una
+
+563
+00:32:05,120 --> 00:32:07,200
+cosa un po' più morbida, eccetera, eccetera.
+
+564
+00:32:07,200 --> 00:32:09,040
+Però eviterei di.
+
+565
+00:32:10,000 --> 00:32:14,560
+Il ritmo più elevato, anche con la possibilità di perdersi una inquadratura,
+
+566
+00:32:14,560 --> 00:32:17,760
+mantiene di più l'attenzione dello spettatore rispetto a una cosa un po'
+
+567
+00:32:17,760 --> 00:32:18,560
+blanda.
+
+568
+00:32:18,880 --> 00:32:22,080
+Per mia esperienza, io sono un giurato di un festival di cinema
+
+569
+00:32:22,080 --> 00:32:26,560
+che si svolge ogni anno qui in provincia di Milano, quest'anno abbiamo
+
+570
+00:32:26,560 --> 00:32:32,080
+rimandato la data del festival dalla fine dell'anno scorso a quest'estate per
+
+571
+00:32:32,160 --> 00:32:36,800
+poterlo fare all'aperto sperando che non ci sia la fine del mondo.
+
+572
+00:32:36,800 --> 00:32:40,560
+E effettivamente una cosa che io lamento spesso in tutti quei registi
+
+573
+00:32:40,560 --> 00:32:43,600
+che scondo le scuole è un'eccessiva lentezza.
+
+574
+00:32:43,600 --> 00:32:47,280
+Nel senso, se ho capito cosa sta succedendo, fammi vedere quello che
+
+575
+00:32:47,280 --> 00:32:48,240
+c'è dopo.
+
+576
+00:32:48,240 --> 00:32:52,240
+Perché il modo di comunicare è cambiato tantissimo.
+
+577
+00:32:52,240 --> 00:32:55,920
+Se Instagram ti dice la tua unità di misura deve essere il
+
+578
+00:32:55,920 --> 00:32:59,520
+15 secondi, e Ander War ha sbagliato, non erano 15 minuti ma
+
+579
+00:32:59,520 --> 00:33:00,560
+15 secondi.
+
+580
+00:33:00,560 --> 00:33:04,560
+Allora e TikTok ha un modo di comunicare che funziona tantissimo, non
+
+581
+00:33:04,560 --> 00:33:05,840
+soltanto sui giovanissimi.
+
+582
+00:33:05,840 --> 00:33:09,920
+Vuol dire che ormai siamo pronti a una comunicazione che è iper
+
+583
+00:33:09,920 --> 00:33:13,280
+veloce, è iper ritmata, ma dalla quale riusciamo anche a comprendere qualcosa.
+
+584
+00:33:13,280 --> 00:33:16,320
+Se ci perdiamo anche una singola clip va bene, perché comunque il
+
+585
+00:33:16,320 --> 00:33:18,960
+contesto ci viene comunicato questo.
+
+586
+00:33:18,360 --> 00:33:23,040
+Questo il video è video, ma è anche audio, per cui certe
+
+587
+00:33:23,040 --> 00:33:25,840
+volte è più importante scegliere la canzone giusta o fare il commento
+
+588
+00:33:25,840 --> 00:33:31,080
+audio, giusto, registrato bene con un bel microfono oppure con silenzio, piuttosto
+
+589
+00:33:31,320 --> 00:33:35,320
+che dare tante informazioni con un unico canale, quello del video, tralasciando
+
+590
+00:33:29,920 --> 00:33:36,120
+tutti gli altri.
+
+591
+00:33:36,680 --> 00:33:39,800
+Se andate a vedere in questo momento, non so chi ci sta
+
+592
+00:33:39,800 --> 00:33:40,280
+guardando.
+
+593
+00:33:40,600 --> 00:33:43,800
+Se qualcuno ci sta guardando, lo saluto e lo ringrazio perché invece
+
+594
+00:33:43,800 --> 00:33:45,240
+di guardare Sanremo è qui con noi.
+
+595
+00:33:45,240 --> 00:33:47,960
+Ma se vede Sanremo, che comunque è una cosa che sta su
+
+596
+00:33:47,960 --> 00:33:51,400
+Rai 1 per cui morbida, proprio deve essere capita da tutti, comunque
+
+597
+00:33:51,480 --> 00:33:54,120
+ha un ritmo veramente incessante.
+
+598
+00:33:54,120 --> 00:33:56,680
+Anche quello, e anche le pubblicità che ci sono tra una canzone
+
+599
+00:33:56,680 --> 00:34:00,520
+e l'altra, perché ci sono tra una canzone e l'altra, sono belle
+
+600
+00:34:00,520 --> 00:34:03,320
+dirompenti, per cui è una cosa che tra l'altro si impara col
+
+601
+00:34:03,320 --> 00:34:03,880
+tempo.
+
+602
+00:34:03,880 --> 00:34:06,920
+Il primo video lo farete che dura 5 minuti dopo un anno
+
+603
+00:34:06,920 --> 00:34:10,440
+lo riguarderete, sta roba, potrebbe durarne due, e dopo dieci anni lo
+
+604
+00:34:10,440 --> 00:34:13,240
+riguardate, sta roba qua doveva durare 30 secondi.
+
+605
+00:34:13,240 --> 00:34:15,160
+Forse sto divagando anche troppo.
+
+606
+00:34:15,160 --> 00:34:20,040
+Ti volevo fare una domanda che riguarda invece sempre ai movie, volevo
+
+607
+00:34:20,120 --> 00:34:25,160
+chiederti: dal punto di vista hardware, per montare un video, ci sono
+
+608
+00:34:25,160 --> 00:34:31,240
+richieste hardware particolari, nel senso che devono essere particolarmente capaci i nostri
+
+609
+00:34:31,240 --> 00:34:37,400
+computer o iPad per intenderci, oppure si può fare una cosa tranquilla
+
+610
+00:34:37,400 --> 00:34:42,840
+anche con un MacBook Pro scrauso del 2019.
+
+611
+00:34:43,480 --> 00:34:49,480
+Il MacBook Pro del 2019 non è scrauso, iMovie soprattutto è pensato
+
+612
+00:34:49,480 --> 00:34:54,120
+per un'utenza tranquilla per cui gestisce senza grossi problemi video anche in
+
+613
+00:34:54,120 --> 00:35:01,480
+4K probabilmente, senza pesantire troppo il carico dell'utente, non mi farei questi
+
+614
+00:35:01,480 --> 00:35:02,040
+problemi.
+
+615
+00:35:02,040 --> 00:35:06,360
+Anche perché, devo dire la verità, Apple, comunque negli ultimi 15 anni
+
+616
+00:35:06,360 --> 00:35:11,240
+ha lavorato tantissimo al sottosistema di gestione audiovisivo che si chiama ID
+
+617
+00:35:11,240 --> 00:35:15,760
+Foundation, per cui magari la responsabilità è che se tu premi play,
+
+618
+00:35:15,760 --> 00:35:20,880
+la riproduzione non inizia proprio dopo un millisecondo, ma dopo 20 millisecondi,
+
+619
+00:35:20,960 --> 00:35:21,840
+qualcosa del genere.
+
+620
+00:35:21,840 --> 00:35:26,400
+Però non ci sono dei grossi requisiti di potenza di calcolo.
+
+621
+00:35:26,400 --> 00:35:31,280
+Le macchine più recenti, quelle che hanno il coprocessore T1 per farvi
+
+622
+00:35:31,280 --> 00:35:36,640
+capire o T2 e gli M1, ovviamente, hanno dell'hardware dedicato anche per
+
+623
+00:35:36,640 --> 00:35:37,600
+l'encoding.
+
+624
+00:35:37,600 --> 00:35:41,840
+Significa che l'esportazione del video è, se non in tempo reale, anche
+
+625
+00:35:41,840 --> 00:35:44,960
+di più, e di conseguenza non ci sono grossi vincoli.
+
+626
+00:35:44,960 --> 00:35:48,400
+Io mi ricordo un tempo quando questi coprocessori non c'erano, che esportare
+
+627
+00:35:48,400 --> 00:35:52,400
+un video in 4K di 10 minuti significava aspettare un'ora, un'ora e
+
+628
+00:35:52,400 --> 00:35:55,760
+mezza e andare a neanche berci un caffè, ma di farci un
+
+629
+00:35:55,760 --> 00:35:57,520
+pranzo di quelli grossi.
+
+630
+00:35:57,680 --> 00:36:01,840
+Le risorse adesso sono su qualsiasi macchina venduta negli ultimi 5-6 anni,
+
+631
+00:36:01,840 --> 00:36:04,480
+non c'è assolutamente nessun nessun problema.
+
+632
+00:36:04,800 --> 00:36:09,840
+Allora, io ti faccio alcune domande invece un po' più generiche, ma
+
+633
+00:36:09,840 --> 00:36:12,640
+giusto per cambiare anche un po' argomento.
+
+634
+00:36:12,640 --> 00:36:16,880
+Due cose che mi sono reso conto, diciamo, facendo ogni tanto qualche
+
+635
+00:36:16,880 --> 00:36:23,920
+montaggio video qua e là, soprattutto a uso domestico, stabilizzazione di iMovie
+
+636
+00:36:24,160 --> 00:36:28,800
+è una cosa che secondo me va detta, e che secondo me
+
+637
+00:36:28,800 --> 00:36:30,160
+ti sei perso.
+
+638
+00:36:30,160 --> 00:36:33,920
+La mia impressione, però, lì correggimi se non sono corretto, è che
+
+639
+00:36:33,920 --> 00:36:40,480
+per stabilizzare comunque l'immagine viene di fatto ritagliata, perché, se ho capito
+
+640
+00:36:40,480 --> 00:36:44,000
+bene, l'algoritmo che c'è dietro, di fatto
+
+641
+00:36:45,280 --> 00:36:52,160
+per evitare il movimento di camera, chiamiamola così, deve zoomare all'interno del
+
+642
+00:36:52,160 --> 00:36:56,400
+video originale, ed è una cosa da tenere, secondo me, presente: oltre
+
+643
+00:36:56,400 --> 00:36:57,520
+alle tempistiche che
+
+644
+00:36:58,800 --> 00:37:02,200
+ci mette a fare su iMovie almeno.
+
+645
+00:36:59,840 --> 00:37:03,960
+Allora ti spiego come funziona.
+
+646
+00:37:04,280 --> 00:37:08,200
+Tutti gli algoritmi di stabilizzazione si basano su un algoritmo unico che
+
+647
+00:37:08,200 --> 00:37:12,520
+si chiama Motion Flow Optical Flow, il cui scopo è di capire
+
+648
+00:37:12,760 --> 00:37:16,680
+fotogramma per fotogramma dove stavano i pixel nel fotogramma precedente.
+
+649
+00:37:16,680 --> 00:37:20,360
+Se tu fai una ripresa senza uno stabilizzatore del telefono, che fa
+
+650
+00:37:20,360 --> 00:37:23,720
+la stessa identica cosa, però non te ne accorgi essenzialmente anche solo
+
+651
+00:37:23,720 --> 00:37:26,360
+il pulsare del sangue fa sì che la tua mano si muova
+
+652
+00:37:26,360 --> 00:37:29,800
+leggermente, per cui se tu stai inquadrando il tuo cane, faccio un
+
+653
+00:37:29,800 --> 00:37:32,600
+esempio perché io faccio spesso le foto e video al mio cane,
+
+654
+00:37:33,400 --> 00:37:36,920
+magari tra un istante il successivo la tua inquadratura si sposta su
+
+655
+00:37:36,920 --> 00:37:37,400
+e giù.
+
+656
+00:37:37,400 --> 00:37:40,920
+Gli algoritmi di stabilizzazione si accorgono di questa cosa e cercano di
+
+657
+00:37:40,920 --> 00:37:43,560
+compensare mettendo un movimento contrario.
+
+658
+00:37:43,560 --> 00:37:47,720
+Ovviamente se partiamo dal cane che magari sta nel centro dell'immagine e
+
+659
+00:37:47,720 --> 00:37:51,320
+poi dopo il fotogramma successivo è spostato a destra di 100 pixel
+
+660
+00:37:51,320 --> 00:37:55,160
+faccio un esempio: se noi vogliamo stabilizzare del tutto, dobbiamo spostare tutta
+
+661
+00:37:55,160 --> 00:37:58,920
+l'immagine a sinistra di 100 pixel, ma questo vuol dire che la
+
+662
+00:37:58,920 --> 00:38:02,280
+parte destra dell'immagine è vuota perché non ci sarebbe.
+
+663
+00:38:02,280 --> 00:38:05,800
+Allora, per far sì di evitare questa comparsa di bande nere, si
+
+664
+00:38:05,800 --> 00:38:09,960
+fa lo zoom dell'immagine e tutti i programmi di stabilizzazione fanno questa
+
+665
+00:38:09,960 --> 00:38:10,520
+cosa.
+
+666
+00:38:10,520 --> 00:38:14,600
+Si sta lavorando negli ultimi tempi ad algoritmi di intelligenza artificiale, che
+
+667
+00:38:14,600 --> 00:38:19,240
+però sono ancora in fase primordiale o comunque sono delle cose miste,
+
+668
+00:38:19,240 --> 00:38:22,280
+che ricostruiscono le parti mancanti.
+
+669
+00:38:22,280 --> 00:38:25,240
+Per farti un esempio, se tu guardi il cane, ti sposti a
+
+670
+00:38:25,240 --> 00:38:27,560
+sinistra di 100 pixel e poi ancora a destra, vuol dire che
+
+671
+00:38:27,560 --> 00:38:30,840
+hai un fotogramma in cui ti mancano 500 pixel, che però puoi
+
+672
+00:38:30,840 --> 00:38:34,440
+prendere un po' dal fotogramma precedente e un po' dal fotogramma successivo.
+
+673
+00:38:34,440 --> 00:38:38,440
+Queste cose sono un po' più complicate, naturalmente necessitano di grande elaborazione.
+
+674
+00:38:38,440 --> 00:38:41,240
+L'algoritmo di After FTRFX dice che lo fa, ma non lo fa
+
+675
+00:38:41,240 --> 00:38:41,640
+bene.
+
+676
+00:38:41,640 --> 00:38:45,920
+In questi casi si utilizzano software diversi, sono come per esempio Mocha,
+
+677
+00:38:44,840 --> 00:38:50,240
+che però è un prodotto veramente veramente veramente complesso.
+
+678
+00:38:50,880 --> 00:38:53,840
+Se non sapete che esiste vuol dire che non vi serve.
+
+679
+00:38:54,240 --> 00:38:57,200
+Io so che esiste, ma so anche che lo usano studi di
+
+680
+00:38:57,200 --> 00:39:00,560
+produzione di un certo livello, quindi anche solo a livello di costo,
+
+681
+00:39:00,560 --> 00:39:04,560
+credo che non sia affrontabile, diciamo, per l'utenza domestica.
+
+682
+00:39:05,360 --> 00:39:09,920
+La primissima versione costava tipo 10.000 dollari per un mese, una cosa
+
+683
+00:39:09,920 --> 00:39:10,400
+del genere.
+
+684
+00:39:10,400 --> 00:39:13,280
+Venne usato essenzialmente soltanto al cinema.
+
+685
+00:39:13,440 --> 00:39:18,320
+Adesso credo che sia dentro il package, perché ha passato di mano
+
+686
+00:39:18,320 --> 00:39:22,720
+diverse volte, credo che sia nell'intorno di qualche centinaio di dollari.
+
+687
+00:39:22,720 --> 00:39:26,880
+Tuttavia, ripete, è una cosa anche difficilissima da usare per certi versi,
+
+688
+00:39:26,880 --> 00:39:29,200
+per cui non starei lì a pensarci.
+
+689
+00:39:29,200 --> 00:39:32,320
+Detto questo, la maggior parte dei telefoni ha lo stabilizzatore di immagine
+
+690
+00:39:32,320 --> 00:39:36,800
+già dentro, per cui quando fate dei video se non l'avete mai
+
+691
+00:39:36,800 --> 00:39:39,360
+attivato, vuol dire che è già attivato il suo, quello che vedete,
+
+692
+00:39:39,360 --> 00:39:43,200
+lo vedete anche a volte, vedete delle riprese che sono naturalmente stabili.
+
+693
+00:39:43,440 --> 00:39:46,400
+Tuttavia, è come per certi versi, un po' come l'autotune siamo talmente
+
+694
+00:39:46,400 --> 00:39:48,240
+abituati che non ci fa più effetto ormai.
+
+695
+00:39:48,240 --> 00:39:52,160
+No, devo dire la verità: con l'iPhone 11 Pro, io venivo da
+
+696
+00:39:52,160 --> 00:39:58,080
+un 6, la stabilizzazione si vede, si sente, è quasi magica perché
+
+697
+00:39:58,080 --> 00:40:03,440
+effettivamente, comunque riuscire con un telefono che si tiene in mano abitualmente,
+
+698
+00:40:03,760 --> 00:40:08,080
+fare delle immagini stabili, non dico che è impossibile, ma diciamo anche
+
+699
+00:40:08,080 --> 00:40:11,520
+lì ci vuole una mano che non è la mano dell'utente domestico,
+
+700
+00:40:11,520 --> 00:40:16,720
+ma come sono io, ma sicuramente un utente più esperto, o quantomeno,
+
+701
+00:40:16,720 --> 00:40:18,560
+utilizzare strumenti appositi.
+
+702
+00:40:18,560 --> 00:40:23,680
+E sull'argomento, visto che invece credo che possa essere interessante, e so
+
+703
+00:40:23,680 --> 00:40:26,320
+che tu lo usi, ci riesce anche a parlare un po' dei
+
+704
+00:40:26,320 --> 00:40:27,680
+cosiddetti gimbal?
+
+705
+00:40:27,680 --> 00:40:31,560
+Ok, i gimbal sono la versione automatizzata della stedicam.
+
+706
+00:40:31,960 --> 00:40:35,320
+Sapete cos'è una stedicam, essenzialmente quella roba con la grossa imbargatura per
+
+707
+00:40:35,320 --> 00:40:40,600
+cui una camera enorme, sta collegata con dei contrappesi con delle molle
+
+708
+00:40:41,240 --> 00:40:44,920
+che pesano alla fin fine 30 kg sulla schiena di un operatore
+
+709
+00:40:45,000 --> 00:40:49,000
+per cui i movimenti dell'operatore vengono ammortizzati e la camera è abbastanza
+
+710
+00:40:49,000 --> 00:40:49,640
+stabile.
+
+711
+00:40:49,640 --> 00:40:53,960
+Questa cosa qua ovviamente necessitava di un operatore che passava la vita
+
+712
+00:40:53,960 --> 00:40:56,920
+ad avere problemi di schiena e B comunque non era una cosa
+
+713
+00:40:56,920 --> 00:40:57,240
+facile.
+
+714
+00:40:57,240 --> 00:41:01,080
+Io ho provato a usare anche delle versioni semplificate di Stadicam, devi
+
+715
+00:41:01,080 --> 00:41:05,320
+proprio fare del training di mesi per imparare ad essere più o
+
+716
+00:41:05,320 --> 00:41:07,560
+meno accettabili e non fare riprese anche peggiori.
+
+717
+00:41:07,560 --> 00:41:12,120
+Gli stabilizzatori di immagini, essenzialmente, come i gimbal, sono degli strumenti che
+
+718
+00:41:12,120 --> 00:41:15,640
+hanno dentro degli giroscopi che sono molto molto veloci, molto reattivi e
+
+719
+00:41:15,640 --> 00:41:18,840
+cercano di bilanciare i movimenti del nostro polso.
+
+720
+00:41:18,840 --> 00:41:23,320
+Per cui se noi spostiamo leggerissimamente, anche molto velocemente e violentemente il
+
+721
+00:41:23,320 --> 00:41:25,800
+polso a destra o a sinistra, il fatto di avere tutti questi
+
+722
+00:41:25,800 --> 00:41:30,200
+giroscopi messi insieme fa sì di andare a ristabilizzare l'immagine, per cui,
+
+723
+00:41:30,200 --> 00:41:33,640
+che ne so, l'orizzonte è sempre piatto, non ci sono mai inclinazioni.
+
+724
+00:41:33,640 --> 00:41:36,760
+Oppure se stiamo inquadrando davanti, giriamo il polso a destra e a
+
+725
+00:41:36,760 --> 00:41:40,040
+sinistra, guardiamo sempre la camera guarda sempre dritto.
+
+726
+00:41:40,040 --> 00:41:44,440
+O ancora meglio, se noi spostiamo il nostro polso per inquadrare un
+
+727
+00:41:44,440 --> 00:41:48,040
+po' a destra, il movimento che viene fatto dalla camera è fatto
+
+728
+00:41:48,040 --> 00:41:50,760
+in maniera molto morbida e molto fluida, perché vuol dire che io
+
+729
+00:41:50,760 --> 00:41:53,880
+ti seguo, ma in maniera molto morbida, in questo modo le riprese
+
+730
+00:41:53,880 --> 00:41:56,280
+sono anche belle da vedere molto fluide.
+
+731
+00:41:56,280 --> 00:41:57,880
+Gli stabilizzatori sono eccezionali.
+
+732
+00:41:57,880 --> 00:42:01,080
+L'unica cosa che non stabilizzano è il movimento su e giù.
+
+733
+00:42:01,080 --> 00:42:05,240
+Per cui quando noi camminiamo, passo passo il passo è essenzialmente come
+
+734
+00:42:05,240 --> 00:42:06,680
+se fosse una sorta di rimbalzo.
+
+735
+00:42:06,680 --> 00:42:09,800
+E nel momento in cui appoggiamo un piede, rimbalziamo e di conseguenza
+
+736
+00:42:09,880 --> 00:42:11,400
+tutto il nostro corpo va su e giù.
+
+737
+00:42:11,480 --> 00:42:16,000
+Questa cosa si vede, però effettivamente con tutte le altre stabilizzazioni, tali
+
+738
+00:42:14,920 --> 00:42:18,000
+per cui si percepisce veramente poco.
+
+739
+00:42:18,080 --> 00:42:20,880
+Io ne ho uno che ho comprato sei anni fa, sette anni
+
+740
+00:42:20,880 --> 00:42:24,080
+fa, a 80 euro, adesso che credo che costi la metà, non
+
+741
+00:42:24,080 --> 00:42:26,000
+c'è stata una grande innovazione in questi.
+
+742
+00:42:26,320 --> 00:42:29,360
+I primi stabilizzatori del genere sono venuti fuori una decina d'anni fa,
+
+743
+00:42:29,360 --> 00:42:32,800
+più grossi, anche questi si appoggiavano alla schiena oppure direttamente con due
+
+744
+00:42:32,800 --> 00:42:36,400
+mani, ma sono anche pensati magari per bilanciare anche i movimenti, quelli
+
+745
+00:42:36,400 --> 00:42:37,280
+del corpo.
+
+746
+00:42:37,280 --> 00:42:41,840
+La tecnologia è talmente efficace, talmente efficiente che adesso se non si
+
+747
+00:42:41,840 --> 00:42:46,480
+deve stabilizzare una camera molto pesante, cioè se si basta stabilizzare il
+
+748
+00:42:46,480 --> 00:42:50,240
+nostro telefono, veramente con i punti dell'esse lunga si trova senza grossi
+
+749
+00:42:50,240 --> 00:42:50,800
+problemi.
+
+750
+00:42:51,360 --> 00:42:53,200
+L'effetto è veramente eccezionale.
+
+751
+00:42:53,200 --> 00:42:55,680
+Questo significa che il telefono pesa un po' di più, ma è
+
+752
+00:42:55,680 --> 00:42:58,080
+più facile da portare perché tenere in mano un cilindro è più
+
+753
+00:42:58,080 --> 00:42:59,520
+comodo che tenere in mano un telefono.
+
+754
+00:42:59,520 --> 00:43:03,120
+Bisogna di sottotogliere la custodia protettiva del telefono, perché è troppo grossa
+
+755
+00:43:03,200 --> 00:43:06,800
+e di conseguenza non riesce a tenerlo dritto.
+
+756
+00:43:06,800 --> 00:43:09,840
+Va bene se facciamo tante riprese, o se vogliamo fare un video
+
+757
+00:43:09,840 --> 00:43:11,840
+particolarmente entusiasmante.
+
+758
+00:43:11,840 --> 00:43:14,960
+Se diciamo che se ne facciamo tanti, se dobbiamo fare soltanto i
+
+759
+00:43:14,960 --> 00:43:18,160
+video selfie dal mare per far vedere che siamo al mare.
+
+760
+00:43:18,960 --> 00:43:20,400
+Va bene che non averlo.
+
+761
+00:43:20,400 --> 00:43:26,160
+Sì, sì, diciamo è uno strumento, chiamiamolo così, anche prosumer: cioè per
+
+762
+00:43:26,160 --> 00:43:29,840
+chi veramente ha una passione per il video e fa tanti video,
+
+763
+00:43:29,840 --> 00:43:35,520
+perché ovviamente altrimenti non ha molto senso fare cose di questo genere,
+
+764
+00:43:35,680 --> 00:43:41,440
+anche fare l'investimento di 80-100 euro per uno di questi strumenti.
+
+765
+00:43:41,440 --> 00:43:45,680
+Poi io l'ho usato spesso per fare video aziendali, per fare un
+
+766
+00:43:45,680 --> 00:43:48,480
+sacco di cose, anzi, ultimamente, se io posso uso i telefoni cellulari
+
+767
+00:43:48,480 --> 00:43:53,320
+invece delle macchine fotografiche per fare video, perché sono immensamente più comodi,
+
+768
+00:43:53,280 --> 00:43:56,960
+e la qualità ormai è tale per cui ci stiamo dietro.
+
+769
+00:43:56,960 --> 00:43:59,040
+Anzi, se avessi un telefono come il tuo, l'11 Pro o il
+
+770
+00:43:59,040 --> 00:44:00,920
+12 Pro, ma telefono tutta la vita.
+
+771
+00:44:01,080 --> 00:44:04,760
+Anche perché lì subentra anche la potenza della fotografia e del video
+
+772
+00:44:04,840 --> 00:44:08,040
+computazionale, per cui quello che non riesce a tirare fuori dalle lenti,
+
+773
+00:44:08,200 --> 00:44:11,800
+dall'hardware, il software che è potentissimo, lo riesce a fare.
+
+774
+00:44:11,800 --> 00:44:13,800
+In quei casi se è un progetto, non dico vero,
+
+775
+00:44:15,560 --> 00:44:16,680
+mi spiego meglio.
+
+776
+00:44:16,680 --> 00:44:20,760
+Se è un progetto che per cui il video viene prodotto per
+
+777
+00:44:20,760 --> 00:44:23,240
+un motivo, allora me lo porto sempre dietro.
+
+778
+00:44:23,240 --> 00:44:25,640
+Non me lo porto dietro in vacanza, perché devo dire la verità,
+
+779
+00:44:25,640 --> 00:44:27,080
+che mi è andato in giro sto coso.
+
+780
+00:44:28,760 --> 00:44:32,440
+Non è che mi fa impazzire, ma perché essenzialmente quando non sono,
+
+781
+00:44:32,440 --> 00:44:35,720
+quando non lo faccio per lavoro o anche per diletto, ma in
+
+782
+00:44:35,720 --> 00:44:38,760
+modalità, tra virgolette, ti faccio un favore, ma come se fosse un
+
+783
+00:44:38,760 --> 00:44:39,080
+lavoro.
+
+784
+00:44:39,080 --> 00:44:42,280
+Avete presente, spesso vuol dire lo facciamo ed è anche divertente.
+
+785
+00:44:42,280 --> 00:44:45,480
+Quando non sono in quella modalità, io tendenzialmente cerco di evitare di
+
+786
+00:44:45,480 --> 00:44:47,640
+fare video, per farvi capire, non ho fatto neanche il video nel
+
+787
+00:44:47,640 --> 00:44:50,920
+mio matrimonio, c'è solo le foto e mi sono rifiutato categoricamente: non
+
+788
+00:44:50,920 --> 00:44:53,320
+volevo gente che facesse video.
+
+789
+00:44:53,320 --> 00:44:59,320
+E beh, effettivamente, poi lavorando nell'ambiente, anche avere tutte le ulteriori eventuali
+
+790
+00:44:59,320 --> 00:45:05,080
+scocciature di dover gestire il tutto, capisco anche che se è un
+
+791
+00:45:05,080 --> 00:45:08,040
+impegno, a volte meglio staccare effettivamente.
+
+792
+00:45:08,040 --> 00:45:11,000
+Bene, adesso faccio una domanda, poi
+
+793
+00:45:12,600 --> 00:45:16,920
+mi puoi tacciare di partigianesmo e così via.
+
+794
+00:45:17,560 --> 00:45:22,120
+Hai dato un occhio anche alle differenze, tra virgolette, tra i movie
+
+795
+00:45:22,120 --> 00:45:24,280
+per Mac e iPadOS.
+
+796
+00:45:24,280 --> 00:45:29,480
+Perché poi esiste anche una versione, ovviamente, per i OS Partigiano,
+
+797
+00:45:31,560 --> 00:45:38,680
+ma oggettivamente montare un video sull'iPhone, diciamo, a parte tagliare, diciamo qualche
+
+798
+00:45:38,680 --> 00:45:40,160
+scena che è venuta male.
+
+799
+00:45:40,160 --> 00:45:45,520
+O ridurre il video per avere qualche inquadratura specifica, credo che sia
+
+800
+00:45:43,880 --> 00:45:47,280
+abbastanza complicato.
+
+801
+00:45:44,440 --> 00:45:50,000
+Allora, io credo
+
+802
+00:45:44,840 --> 00:45:52,240
+che dipenda molto dalle abitudini.
+
+803
+00:45:52,560 --> 00:45:57,760
+Sinceramente, ho provato a fare montaggi su iPhone, scusa, su iPad.
+
+804
+00:45:57,760 --> 00:46:00,560
+Non ho provato prodotti di Rumaforge se non sbaglio, che è quello
+
+805
+00:46:00,560 --> 00:46:04,560
+che viene più utilizzato, ma perché io ho sempre il mio computer
+
+806
+00:46:04,560 --> 00:46:08,080
+dietro, l'iPad lo uso più per fluire delle informazioni che per costruirle.
+
+807
+00:46:08,080 --> 00:46:10,960
+Trovo che il grosso problema sia la precisione.
+
+808
+00:46:10,960 --> 00:46:15,120
+Nel senso, quando si fa montaggio video, a un certo punto diventa
+
+809
+00:46:15,120 --> 00:46:18,720
+anche importante togliere anche un singolo fotogramma per certi versi.
+
+810
+00:46:18,720 --> 00:46:21,360
+Su computer con il mouse riesco a essere molto più preciso.
+
+811
+00:46:21,360 --> 00:46:25,520
+Sul tablet, col dito, molto meno e per cui diventa per me
+
+812
+00:46:25,600 --> 00:46:27,360
+per certi versi frustrante.
+
+813
+00:46:27,360 --> 00:46:30,160
+Poi, però, per mettere insieme due cose va benissimo, la potenza di
+
+814
+00:46:30,160 --> 00:46:33,840
+calcolo dei telefoni e degli iPad di adesso è eccezionale.
+
+815
+00:46:33,840 --> 00:46:37,040
+Dicevo, gli ultimi telefoni e gli ultimi i pad, ma dove gli
+
+816
+00:46:37,040 --> 00:46:40,960
+ultimi sono gli ultimi cinque anni, hanno dei processori che sono pensati
+
+817
+00:46:40,960 --> 00:46:46,480
+espressamente per manipolare il video in maniera pesante.
+
+818
+00:46:46,480 --> 00:46:50,720
+Proprio perché a postessa sul sistema operativo dice fate i video e
+
+819
+00:46:50,720 --> 00:46:52,960
+vengono video belli, e per fare i video belli ci vuole un
+
+820
+00:46:52,960 --> 00:46:56,240
+sacco di potenza di calcolo per la stabilizzazione, per la gestione dei
+
+821
+00:46:56,240 --> 00:46:57,360
+colori, eccetera, eccetera.
+
+822
+00:46:57,440 --> 00:47:00,800
+Per cui l'esportazione di un video su iPad, mi aspetto che sia
+
+823
+00:47:00,800 --> 00:47:04,160
+anche più veloce che su un Mac, per certi verti, tranne sull
+
+824
+00:47:04,160 --> 00:47:09,600
+M1, che però è essenzialmente la stessa natura, la stessa tecnologia sottostante.
+
+825
+00:47:09,600 --> 00:47:12,640
+Partigiano o non partigiano, nel senso va bene, cioè, nel senso, se
+
+826
+00:47:12,800 --> 00:47:14,240
+hai solo quello, va più che bene.
+
+827
+00:47:14,240 --> 00:47:16,960
+Io se vado in vacanza, non mi porto dietro il computer, di
+
+828
+00:47:16,960 --> 00:47:20,320
+sotto mi porto l'iPad perché è comodo per prenotare gli alberghi, per
+
+829
+00:47:20,320 --> 00:47:22,800
+vedere le cartine, per un sacco di cose.
+
+830
+00:47:22,800 --> 00:47:27,040
+Mia moglie invece è molto più millennial di me, lei fa tutto
+
+831
+00:47:27,040 --> 00:47:31,000
+col telefono e non si pone neanche grossi problemi.
+
+832
+00:47:29,840 --> 00:47:34,520
+A me senza la tastiera manca la tastiera, ma sono probabilmente.
+
+833
+00:47:35,320 --> 00:47:39,560
+Detto questo, però per il montaggio, la possibilità di avere una tastiera
+
+834
+00:47:39,560 --> 00:47:42,280
+fisica e il mouse per me è molto importante.
+
+835
+00:47:42,280 --> 00:47:46,680
+Perché l'hai detto anche tu in trasmissione, cioè, non so se l'ultimo
+
+836
+00:47:46,760 --> 00:47:52,040
+ha puntato o precedentemente, è molto sensato imparare degli scorciatori di tastiera
+
+837
+00:47:52,280 --> 00:47:54,280
+perché inizialmente è proprio una frustrazione.
+
+838
+00:47:54,360 --> 00:47:57,320
+Se sono abituato a cliccare sul pulsante, sono abituato a cliccare sul
+
+839
+00:47:57,320 --> 00:47:58,680
+menu, eccetera, eccetera, eccetera.
+
+840
+00:47:58,680 --> 00:48:01,480
+Ma nel momento in cui ti fai questa abitudine, ma basta anche
+
+841
+00:48:01,480 --> 00:48:05,400
+impararne una settimana un tasto a settimana, e questa cosa qua si
+
+842
+00:48:05,400 --> 00:48:10,840
+viene ripetuta, diventa parte della nostra memoria fisica motoria, per cui per
+
+843
+00:48:10,840 --> 00:48:15,640
+certi versi l'utilizzo della tastiera è un po' come diventa molto più
+
+844
+00:48:15,640 --> 00:48:16,040
+fisico.
+
+845
+00:48:16,200 --> 00:48:19,880
+Io sono un grande cultore dell'approccio fisico al software: cioè se tu
+
+846
+00:48:19,880 --> 00:48:23,640
+interagisci col programma con il tuo corpo, cioè con le tue dita,
+
+847
+00:48:23,880 --> 00:48:27,960
+e non attraverso il mouse, che comunque dà un'interazione differita per certi
+
+848
+00:48:27,960 --> 00:48:33,320
+versi, diventi molto più performante, diventa anche molto più rilassante per certi
+
+849
+00:48:33,320 --> 00:48:37,560
+versi, perché dico sempre: l'automobile si guida con tutto il corpo.
+
+850
+00:48:37,560 --> 00:48:40,040
+Tu vai e a un certo punto, dopo che hai imparato, dopo
+
+851
+00:48:40,040 --> 00:48:43,000
+qualche mese che hai imparato, non stai più lì a pensare freno
+
+852
+00:48:43,240 --> 00:48:46,280
+frizione, girare il volante, eccetera, eccetera, eccetera.
+
+853
+00:48:46,280 --> 00:48:49,480
+Eccetto, tu guidi ed è naturale, devi andare a destra e giri
+
+854
+00:48:49,560 --> 00:48:53,080
+il volante, oppure andare in bicicletta, muovi il manubrio, o in moto
+
+855
+00:48:53,080 --> 00:48:56,440
+ti pieghi, cioè quando tu fai le cose col tuo corpo, hai
+
+856
+00:48:56,440 --> 00:49:00,360
+una reattività molto maggiore, e anche tu una percezione di quello che
+
+857
+00:49:00,360 --> 00:49:03,560
+stai facendo, molto più in sintonia, per cui
+
+858
+00:49:04,840 --> 00:49:07,640
+dopo anni che fai un lavoro come il montaggio video o il
+
+859
+00:49:07,640 --> 00:49:12,840
+montaggio audio, diciamo che fisicamente vedi le cose e le percepisci con
+
+860
+00:49:12,840 --> 00:49:15,440
+una sorta di sesto senso, che ti arriva da un sacco di
+
+861
+00:49:15,440 --> 00:49:18,480
+esperienza e da un sacco di quelle migliaia di volte che hai
+
+862
+00:49:15,000 --> 00:49:19,600
+ripetuto la stessa cosa.
+
+863
+00:49:19,760 --> 00:49:22,720
+Ovvio che queste cose che dico sono per chi magari ha voglia
+
+864
+00:49:22,720 --> 00:49:23,520
+di imparare.
+
+865
+00:49:23,520 --> 00:49:27,280
+Tuttavia, essenzialmente se tu digiti un sacco di documenti con la tastiera,
+
+866
+00:49:27,280 --> 00:49:30,240
+a un certo punto inizi a scrivere con tante dita, magari non
+
+867
+00:49:30,240 --> 00:49:31,840
+con dieci, però con tante dite.
+
+868
+00:49:32,480 --> 00:49:36,720
+Diventa anche un pochettino più naturale, anche più rilassante scrivere rispetto a
+
+869
+00:49:36,720 --> 00:49:40,320
+chi digita un dito tutto con un dito solo, diventa un po'
+
+870
+00:49:40,320 --> 00:49:41,200
+più complicato.
+
+871
+00:49:41,200 --> 00:49:44,560
+E lo Stasso Dicasi per il montaggio ovvio che queste cose ti
+
+872
+00:49:44,560 --> 00:49:46,960
+arrivano dopo un po' che lo fai e se ti piace, e
+
+873
+00:49:47,120 --> 00:49:51,040
+se ti piace, dipende da un sacco di fattori: tipo, ne fai
+
+874
+00:49:51,040 --> 00:49:53,920
+uno ed è bello, ne fai un altro e vai avanti.
+
+875
+00:49:54,160 --> 00:49:58,960
+Il montaggio video effettivamente è una delle cose più potenti, ma anche
+
+876
+00:49:58,960 --> 00:50:00,080
+più impegnative.
+
+877
+00:50:00,560 --> 00:50:04,960
+Dico sempre questa massima: Orson Wells diceva: Se devi scrivere un romanzo
+
+878
+00:50:05,040 --> 00:50:08,000
+hai bisogno di una macchina per scrivere, se vuoi dipingere un quadro,
+
+879
+00:50:08,000 --> 00:50:09,440
+hai bisogno di un pennello dei colori.
+
+880
+00:50:09,440 --> 00:50:11,680
+Se vuoi fare un film, hai bisogno di un esercito.
+
+881
+00:50:11,680 --> 00:50:14,240
+Ed è vero, se guardate i titoli di coda dei film ci
+
+882
+00:50:14,240 --> 00:50:17,920
+hanno dentro migliaia di persone, ma perché ci vuole per fare un
+
+883
+00:50:17,920 --> 00:50:20,000
+film, ci vuole una bagonata di
+
+884
+00:50:21,200 --> 00:50:23,680
+ore e di anni uomo per farne uno singolo.
+
+885
+00:50:23,680 --> 00:50:26,080
+Ovvio che poi uno da casa non fa un film, non si
+
+886
+00:50:26,080 --> 00:50:30,160
+mette di fare Avengers, però l'impegno che si deve porre per realizzare
+
+887
+00:50:30,160 --> 00:50:35,760
+un minuto di video è difficilmente in altri contesti artistici c'è lo
+
+888
+00:50:35,760 --> 00:50:36,720
+stesso sbattimento.
+
+889
+00:50:36,720 --> 00:50:40,080
+Forse nella danza, mi viene in mente, nel teatro più nella danza,
+
+890
+00:50:40,080 --> 00:50:40,880
+probabilmente.
+
+891
+00:50:40,880 --> 00:50:45,360
+No, no, sicuramente, io faccio pochissime cosette video e devo dire la
+
+892
+00:50:45,360 --> 00:50:45,760
+verità.
+
+893
+00:50:45,760 --> 00:50:49,040
+Poi ne abbiamo parlato anche tra di noi.
+
+894
+00:50:49,360 --> 00:50:53,280
+Ogni volta che voglio arrivare a un gradino un po' più elevato,
+
+895
+00:50:53,280 --> 00:50:56,720
+la richiesta di tempo aumenta esponenzialmente nella sostanza.
+
+896
+00:50:56,720 --> 00:51:00,440
+Ovviamente, io faccio tutto da sole, quindi è ovvio che c'è solo
+
+897
+00:50:59,600 --> 00:51:00,920
+un uomo che
+
+898
+00:50:59,920 --> 00:51:03,320
+fa tutto quindi diventa complicato.
+
+899
+00:51:03,400 --> 00:51:06,280
+Però sicuramente è anche divertente, se piace,
+
+900
+00:51:07,880 --> 00:51:10,200
+gli strumenti ti aiutano fino a un certo punto.
+
+901
+00:51:10,280 --> 00:51:12,680
+La cosa che ti aiuta di più è l'esperienza per far sì
+
+902
+00:51:12,680 --> 00:51:17,800
+di rendere tutto efficiente, ecco, perché se tu una cosa la fai
+
+903
+00:51:17,800 --> 00:51:21,560
+una volta ogni morti di papa, devi anche pensare cosa vuoi fare
+
+904
+00:51:21,560 --> 00:51:25,400
+e poi deve pensare a come farlo e deve pensare qual è
+
+905
+00:51:25,400 --> 00:51:26,440
+lo strumento software.
+
+906
+00:51:26,440 --> 00:51:31,720
+Cioè, ci sono quattro livelli che sono messaggio, linguaggio, tecnica e tecnologia,
+
+907
+00:51:31,720 --> 00:51:35,720
+che sono a livelli sempre più a basso livello dal punto di
+
+908
+00:51:35,720 --> 00:51:39,080
+vista in alto, c'è appunto il messaggio, nel senso cosa voglio comunicare,
+
+909
+00:51:39,080 --> 00:51:43,480
+poi dopo il linguaggio che voglio utilizzare, ecco, l'esperienza ti aiuta ad
+
+910
+00:51:43,480 --> 00:51:46,040
+abbreviare tutti questi circuiti, secondo me.
+
+911
+00:51:46,040 --> 00:51:51,400
+Poi magari non è però non è per menarmela tendenzialmente assolutamente.
+
+912
+00:51:51,640 --> 00:51:53,480
+Anche ogni tanto mi dico: ma com'è che si fa sta roba?
+
+913
+00:51:53,720 --> 00:51:55,000
+Mi sbatto la testa.
+
+914
+00:51:55,000 --> 00:51:58,440
+Tuttavia mi rendo conto che invece su un sacco di cose, ormai
+
+915
+00:51:58,440 --> 00:52:01,640
+le do per scontate, perché le faccio tutti i giorni da vent'anni,
+
+916
+00:52:01,640 --> 00:52:02,680
+da 25 anni.
+
+917
+00:52:03,320 --> 00:52:05,640
+Me le rende meno complicate.
+
+918
+00:52:06,280 --> 00:52:11,400
+Direi a questo punto: se Alex non hai altre cose, diciamo che
+
+919
+00:52:11,400 --> 00:52:16,520
+hai dato sicuramente un quadro molto molto completo di cosa è possibile
+
+920
+00:52:16,520 --> 00:52:19,800
+fare in ambito, diciamo, domestico e non solo.
+
+921
+00:52:19,800 --> 00:52:24,680
+Ovviamente la cosa che chiuderei è: ovviamente i Movie non è la
+
+922
+00:52:24,680 --> 00:52:31,480
+versione professionale di final cut, dove, se possibile, taglieresti dicendo per fare
+
+923
+00:52:31,480 --> 00:52:34,120
+certe cose ci vuole final cut, o
+
+924
+00:52:35,240 --> 00:52:40,120
+a un certo livello, diciamo, di esperienza comunque ci vuole final cut
+
+925
+00:52:40,360 --> 00:52:45,040
+per fare qualcosa di più, dove distinguo tra è meglio ai Movie,
+
+926
+00:52:45,040 --> 00:52:50,000
+diciamo, per un'utenza domestica e invece Final Cut per un'utenza, chiamiamola così
+
+927
+00:52:50,160 --> 00:52:53,440
+prosumer o comunque professionale?
+
+928
+00:52:53,920 --> 00:52:57,760
+È una domanda molto bella e la risposta è che tendenzialmente il
+
+929
+00:52:57,760 --> 00:53:00,560
+limite si vede dopo un po' che si utilizzano le cose.
+
+930
+00:53:01,120 --> 00:53:04,240
+Il primo limite che vedo è la gestione dei progetti, cioè Final
+
+931
+00:53:04,240 --> 00:53:08,560
+Cut consente di crearsi delle librerie che stanno in una certa cartella
+
+932
+00:53:08,800 --> 00:53:11,600
+e di avere un certo controllo su quello che ci sta dentro
+
+933
+00:53:11,600 --> 00:53:15,120
+una libreria, su dove sta questa libreria, soprattutto dal punto di vista
+
+934
+00:53:15,120 --> 00:53:19,520
+dell'archiviazione, perché il grosso problema è tanto che lavori un progetto può
+
+935
+00:53:19,520 --> 00:53:23,200
+anche tenere occupati 50 GB, ma quando è finito, cosa fai?
+
+936
+00:53:23,200 --> 00:53:25,360
+O lo archivi o lo butti via.
+
+937
+00:53:25,360 --> 00:53:28,960
+E neiMovie l'archiviazione di un singolo progetto è molto complesso, è molto
+
+938
+00:53:29,840 --> 00:53:33,920
+è difficile, un po' come l'idea di esportare una parte di libreria
+
+939
+00:53:33,920 --> 00:53:34,560
+di i foto.
+
+940
+00:53:34,560 --> 00:53:38,400
+Sì si può fare, ma che veramente diventa un macello non è
+
+941
+00:53:38,400 --> 00:53:39,360
+differente.
+
+942
+00:53:39,680 --> 00:53:43,920
+Per cui la gestione di progetti già taglia fuori iMovie.
+
+943
+00:53:43,920 --> 00:53:49,840
+E anche il maggior controllo sulle caratteristiche dei filmati e su.
+
+944
+00:53:50,080 --> 00:53:53,680
+Tendenzialmente, se uno volesse farlo youtuber, andrebbe bene questa cosa qui.
+
+945
+00:53:53,680 --> 00:53:56,640
+Fino a un certo punto, perché poi uno magari vuole metterci il
+
+946
+00:53:56,640 --> 00:54:00,080
+filtro personalizzato, vuole metterci una scritta personalizzata.
+
+947
+00:54:00,080 --> 00:54:04,080
+Per la versione base per fare il video delle vacanze, il video
+
+948
+00:54:04,080 --> 00:54:07,520
+del cane del gatto, il video di Iuguri per la mamma, va
+
+949
+00:54:07,520 --> 00:54:08,560
+assolutamente bene.
+
+950
+00:54:08,560 --> 00:54:12,320
+Final cat ha degli strumenti ancora anche più potenti per la gestione
+
+951
+00:54:12,320 --> 00:54:16,400
+dell'audio, anche se è il suo punto debole per certi versi.
+
+952
+00:54:16,720 --> 00:54:17,360
+Per cui
+
+953
+00:54:18,640 --> 00:54:22,720
+è difficile pensare a una singola cosa che viene meglio su Final
+
+954
+00:54:22,720 --> 00:54:25,680
+Cut, perché sì, viene praticamente un po' tutto meglio.
+
+955
+00:54:25,680 --> 00:54:26,560
+Ma essenzialmente
+
+956
+00:54:27,600 --> 00:54:31,160
+la gestione progettuale che è un po' più ricca in Final Cut
+
+957
+00:54:29,440 --> 00:54:32,280
+perché è molto più
+
+958
+00:54:32,440 --> 00:54:38,600
+facile catalogare le clip, avere delle risorse molto più ricche.
+
+959
+00:54:38,600 --> 00:54:41,960
+E infine la sincronizzazione automatica delle sorgenti.
+
+960
+00:54:41,960 --> 00:54:45,560
+In final cat, magari fai un'intervista a una persona, usi due telecamere
+
+961
+00:54:45,560 --> 00:54:48,120
+diverse e registri l'audio su un altro strumento ancora.
+
+962
+00:54:48,120 --> 00:54:52,120
+Perché magari il Fonic usa un suo sistema di registrazione, ecco in
+
+963
+00:54:52,120 --> 00:54:52,760
+Final Cut
+
+964
+00:54:53,880 --> 00:54:56,680
+si possono dare in pasto tutti gli audi, i video fatti con
+
+965
+00:54:56,680 --> 00:54:59,000
+una camera, i video fatti con l'altra camera, e lui li sincronizza
+
+966
+00:54:59,000 --> 00:55:01,960
+in automatico e ti consente di fare anche del multicam, cioè di
+
+967
+00:55:01,960 --> 00:55:06,440
+riprodurre la sequenza, di scegliere istante per istante quale foto quale immagine
+
+968
+00:55:06,440 --> 00:55:06,920
+usare.
+
+969
+00:55:06,920 --> 00:55:09,960
+Magari hai fatto un primo piano, hai fatto un piano largo e
+
+970
+00:55:09,960 --> 00:55:11,400
+poi alternare in questo modo.
+
+971
+00:55:11,400 --> 00:55:15,400
+Ecco, questo è un esempio delle cose che funziona di più.
+
+972
+00:55:15,400 --> 00:55:18,760
+Oltre al fatto che final cat è pensato molto per l'interscambio, per
+
+973
+00:55:18,760 --> 00:55:23,560
+cui consente di esportare e di importare file XML formatati in un
+
+974
+00:55:23,560 --> 00:55:26,920
+certo modo ed è abbastanza facile anche scoprire come, per cui è
+
+975
+00:55:26,920 --> 00:55:31,320
+facile aggiungere delle funzionalità specifiche per la singola persona.
+
+976
+00:55:31,320 --> 00:55:35,880
+Mi viene in mente un programma che conosco, che consente di montare
+
+977
+00:55:35,880 --> 00:55:38,040
+a tempo di musica perché gli dà in pasta una canzone, lui
+
+978
+00:55:38,040 --> 00:55:40,200
+ti trova i markard al tempo di musica, la tiri dentro in
+
+979
+00:55:40,200 --> 00:55:40,760
+fanal cat.
+
+980
+00:55:40,840 --> 00:55:44,520
+A questo punto ci metti un attimo e tirarà dentro le clip
+
+981
+00:55:46,120 --> 00:55:47,080
+questo nome.
+
+982
+00:55:47,080 --> 00:55:49,400
+Sì, si chiama Bitmark.
+
+983
+00:55:49,400 --> 00:55:56,200
+Qui sai, che siamo siamo fan dell'Ax Racuglia, programmatore, anche.
+
+984
+00:55:57,640 --> 00:56:01,720
+Sì, perché in realtà io faccio il regista, insomma, faccio video da
+
+985
+00:56:01,720 --> 00:56:07,400
+20-25 anni, ma ho studiato informatica, ingegneria informatica e ho sempre lavorato,
+
+986
+00:56:07,400 --> 00:56:11,000
+ho sempre realizzato dei piccoli tool che usavo internamente per fare per
+
+987
+00:56:11,000 --> 00:56:15,000
+aiutarmi nei processi di gestione dei progetti o anche delle singole attività.
+
+988
+00:56:16,320 --> 00:56:20,080
+Da due o tre anni ho iniziato a mettere in commercio questi
+
+989
+00:56:20,080 --> 00:56:24,480
+tool che sono molto verticali, pensati per un'utenza professionale perché usa Final
+
+990
+00:56:24,480 --> 00:56:24,800
+Cut.
+
+991
+00:56:24,880 --> 00:56:26,000
+E devo dire che
+
+992
+00:56:27,040 --> 00:56:31,520
+nell'ultimo anno o due, sto avendo una certa soddisfazione per questo tipo
+
+993
+00:56:31,520 --> 00:56:34,720
+di prodotti, perché ho scoperto che nel mondo ci sono un sacco
+
+994
+00:56:34,720 --> 00:56:36,480
+di persone come me che hanno le stesse esigenze.
+
+995
+00:56:36,720 --> 00:56:39,600
+Se non hanno trovato una cosa che la facesse, non dico che
+
+996
+00:56:39,600 --> 00:56:44,400
+l'ho inventata io, ma ho fatto alcune cose che possono aiutare.
+
+997
+00:56:44,480 --> 00:56:48,480
+Non volevo fare questa, non volevo presentarmi, l'ho detto per ridere questa
+
+998
+00:56:48,480 --> 00:56:48,640
+cosa.
+
+999
+00:56:48,880 --> 00:56:51,600
+Tuttavia, ma invece, io volevo, anche perché
+
+1000
+00:56:52,880 --> 00:56:57,040
+adesso sai che sono un tuo estimatore e ho visto e in
+
+1001
+00:56:57,040 --> 00:56:59,280
+parte ho provato alcuni tuoi software.
+
+1002
+00:57:00,240 --> 00:57:05,760
+Oltre a essere un regista e avere una conoscenza appunto sul video
+
+1003
+00:57:05,840 --> 00:57:10,720
+notevole, una futura volta te lo dico già, mi piacerebbe parlare con
+
+1004
+00:57:10,720 --> 00:57:14,000
+te, appunto, invece dell'altra tua passione.
+
+1005
+00:57:14,240 --> 00:57:18,640
+Chiamiamola così il secondo terzo lavoro che invece lo sviluppo software.
+
+1006
+00:57:18,640 --> 00:57:20,640
+Anche perché tu, comunque
+
+1007
+00:57:21,760 --> 00:57:26,720
+hai un'esperienza a 360 gradi anche perché hai sviluppato sia applicazioni per
+
+1008
+00:57:26,720 --> 00:57:27,840
+iPhone che
+
+1009
+00:57:28,960 --> 00:57:34,240
+per Mac e io utilizzo alcune delle tue applicazioni, quindi sono sicuramente
+
+1010
+00:57:34,240 --> 00:57:37,280
+curioso di avere informazioni.
+
+1011
+00:57:37,280 --> 00:57:40,880
+Tuttavia, diciamo ce le teniamo per una futura puntata.
+
+1012
+00:57:40,880 --> 00:57:44,080
+Questa ovviamente è una puntata più a carattere generale.
+
+1013
+00:57:44,080 --> 00:57:46,400
+Ti faccio solo una domanda di curiosità mia.
+
+1014
+00:57:46,400 --> 00:57:46,960
+Proprio.
+
+1015
+00:57:46,960 --> 00:57:50,880
+Ovvio che, però, le applicazioni che hai creato tu per Final Cut
+
+1016
+00:57:50,880 --> 00:57:56,800
+non sono utilizzabili con iMovie perché sono due comunque modi diversi, o
+
+1017
+00:57:56,800 --> 00:57:59,080
+ci sarebbe anche il modo di utilizzarle?
+
+1018
+00:57:59,080 --> 00:58:03,320
+Allora, tutte le applicazioni che ho scritto che mandano roba a Final
+
+1019
+00:58:03,320 --> 00:58:07,800
+Cut non possono funzionare con i Movie perché i Movie non accetta
+
+1020
+00:58:07,960 --> 00:58:09,160
+niente d'ingresso.
+
+1021
+00:58:09,320 --> 00:58:13,720
+L'unica applicazione che potrebbe avere una sorta di utilità si chiama Diet,
+
+1022
+00:58:13,720 --> 00:58:16,520
+che è nato come una sorta di scherzo, cioè metti a dieta
+
+1023
+00:58:16,520 --> 00:58:17,880
+le librerie di Final Cut.
+
+1024
+00:58:17,880 --> 00:58:21,160
+Come ho detto, i programmi di montaggio video per ottimizzare le risorse
+
+1025
+00:58:21,320 --> 00:58:25,480
+dal punto di vista di decomprimere continuamente il video, si salvano internamente
+
+1026
+00:58:25,480 --> 00:58:26,680
+un sacco di file temporanei.
+
+1027
+00:58:26,840 --> 00:58:28,600
+Final catissimo.
+
+1028
+00:58:28,600 --> 00:58:31,960
+Va a finire che spesso volentieri puoi avere delle librerie che si
+
+1029
+00:58:31,960 --> 00:58:33,400
+occupano centinaia di GB.
+
+1030
+00:58:33,560 --> 00:58:36,680
+Io per mia curiosità, ho curiosato di vedere cosa c'è dentro queste
+
+1031
+00:58:36,840 --> 00:58:37,320
+librerie.
+
+1032
+00:58:37,400 --> 00:58:41,960
+Ho scoperto che ci sono alcuni file che si possono assolutamente cancellare.
+
+1033
+00:58:41,960 --> 00:58:45,640
+Pensato per quando archiviavo i progetti, perché archiviare un progetto da 50
+
+1034
+00:58:45,640 --> 00:58:49,720
+GB va bene, però archiviare uno da 500 GB comincia a diventare
+
+1035
+00:58:49,720 --> 00:58:52,280
+un po' più complicato e anche più delicato e anche più costoso,
+
+1036
+00:58:52,280 --> 00:58:55,160
+soprattutto nell'ottica di tenere i file per 5 anni almeno.
+
+1037
+00:58:55,160 --> 00:58:58,600
+E allora ho iniziato a scritto un programmino che andasse a togliere
+
+1038
+00:58:58,600 --> 00:59:00,280
+quello che si può togliere.
+
+1039
+00:59:00,280 --> 00:59:02,760
+Secondo me una versione si potrebbe fare anche per i Movie.
+
+1040
+00:59:02,760 --> 00:59:06,120
+Non lo farò mai perché non credo che ci sia un mercato,
+
+1041
+00:59:06,120 --> 00:59:09,640
+nel senso che è un prodotto relativamente semi-professionale.
+
+1042
+00:59:09,640 --> 00:59:13,240
+Chiusa i Movie arriva a un certo punto, poi capisci che Final
+
+1043
+00:59:13,320 --> 00:59:17,160
+Kat ha le stesse identiche cose, con tante marce in più.
+
+1044
+00:59:17,160 --> 00:59:21,320
+Fino ad oggi, Finalcat è stato messo in vendita a 300 euro
+
+1045
+00:59:21,800 --> 00:59:24,200
+con aggiornamenti gratuiti dalla prima volta.
+
+1046
+00:59:24,200 --> 00:59:28,440
+Si vocifera e secondo me sarà così che dall'inizio, da quest'estate, da
+
+1047
+00:59:28,440 --> 00:59:33,480
+quest'autunno, divenga anche il final cat un programma a sottoscrizione ad abbonamento.
+
+1048
+00:59:33,480 --> 00:59:36,600
+Va bene, ce ne faremo una ragione.
+
+1049
+00:59:36,840 --> 00:59:41,640
+Diciamo che per chi lo usa saltuariamente può avere il suo senso.
+
+1050
+00:59:41,640 --> 00:59:46,560
+Cioè, io, per esempio, che ho usato nella vita, poi progressivamente l'ho
+
+1051
+00:59:44,840 --> 00:59:47,280
+abbandonato.
+
+1052
+00:59:47,360 --> 00:59:53,440
+Tuttavia, Photoshop, Illustrator e così via, oggettivamente, casomai ne ho bisogno a
+
+1053
+00:59:53,440 --> 01:00:00,320
+livello saltuario, mi faccio il mese e lo utilizzo, cerco di utilizzarlo
+
+1054
+01:00:00,320 --> 01:00:04,880
+per quel mese, quello che mi serve da fare, spendendo neanche tantissimo,
+
+1055
+01:00:04,880 --> 01:00:06,720
+e non mi devo comprare la licenza.
+
+1056
+01:00:06,720 --> 01:00:10,240
+Che vabbè, per final cat effettivamente è anche abbordabile.
+
+1057
+01:00:10,400 --> 01:00:11,520
+300 euro.
+
+1058
+01:00:11,520 --> 01:00:16,720
+Se inizio anche già solo a fare molti, montaggio video, diciamo, può
+
+1059
+01:00:16,720 --> 01:00:18,080
+avere un suo senso logico.
+
+1060
+01:00:18,080 --> 01:00:23,120
+Bisogna vedere molto, secondo me, anche cosa significherà questo abbonamento: se sono
+
+1061
+01:00:23,120 --> 01:00:27,440
+10 euro al mese, 100 euro al mese, dubito 100 euro, forse
+
+1062
+01:00:27,440 --> 01:00:28,000
+anche meno.
+
+1063
+01:00:28,000 --> 01:00:33,440
+La NASO, secondo me, sarà nell'ordine di grandezza dei 10 massimo 15
+
+1064
+01:00:33,440 --> 01:00:39,040
+al mese, anche perché considera che ufficialmente ci sono 3 milioni di
+
+1065
+01:00:39,600 --> 01:00:43,520
+utenti ufficiali, che l'hanno comprato il programma di questa roba.
+
+1066
+01:00:44,000 --> 01:00:48,880
+Se anche 300.000 si mettono a fare l'abbonamento significa 300.000 per 100
+
+1067
+01:00:49,120 --> 01:00:51,200
+euro: sono 30 milioni all'anno.
+
+1068
+01:00:51,200 --> 01:00:53,840
+Ti paghi lo sviluppo di un'applicazione tosta.
+
+1069
+01:00:54,480 --> 01:00:58,240
+Considerando che Apple ha sempre fatto in perdita queste cose, perché l'obiettivo
+
+1070
+01:00:58,240 --> 01:01:02,240
+di Apple è venderti l'hardware, final cat, è una dolce aggiunta: un
+
+1071
+01:01:02,240 --> 01:01:05,440
+po' come dire ti metto l'autoradio gratis.
+
+1072
+01:01:05,920 --> 01:01:10,560
+No, è vero, è vero, effettivamente è una delle cose interessanti, appunto
+
+1073
+01:01:10,720 --> 01:01:15,360
+dell'ecosistema Apple, anche solo appunto ai Movie, ai Movie, una volta era
+
+1074
+01:01:15,360 --> 01:01:17,760
+a pagamento, ma ormai secondo me è una decina d'anni che non
+
+1075
+01:01:17,760 --> 01:01:18,480
+lo è più.
+
+1076
+01:01:18,480 --> 01:01:23,760
+Di fatto, comprando qualsiasi dispositivo Apple, si ha accesso non solo ai
+
+1077
+01:01:23,760 --> 01:01:29,480
+Movie, ma a tutta la Suite Office, ai work sostanzialmente, Garage band
+
+1078
+01:01:29,680 --> 01:01:31,480
+e forse qualche cos'altro.
+
+1079
+01:01:31,640 --> 01:01:36,680
+Quindi comunque si ha effettivamente tutta una serie di programmi che ci
+
+1080
+01:01:36,680 --> 01:01:42,600
+permettono poi di fare tante cose anche quando abitualmente non lo si
+
+1081
+01:01:42,600 --> 01:01:47,560
+potrebbe fare, o si dovrebbe comunque spendere dei soldi per acquistare un
+
+1082
+01:01:47,560 --> 01:01:49,240
+software di montaggio video.
+
+1083
+01:01:49,240 --> 01:01:53,720
+Io, per esempio, per fare i miei video su YouTube uso ScreenFlow,
+
+1084
+01:01:53,720 --> 01:01:59,960
+comunque ScreenFlow ha un suo costo e ogni aggiornamento comunque richiede un
+
+1085
+01:01:59,960 --> 01:02:00,440
+pagamento.
+
+1086
+01:02:00,440 --> 01:02:02,520
+Quindi, alla fine c'è poco da fare.
+
+1087
+01:02:03,000 --> 01:02:07,880
+Se sei molto interessato, lo usi, ma effettivamente stavo ragionando che per
+
+1088
+01:02:07,880 --> 01:02:09,800
+esempio iMovie poteva
+
+1089
+01:02:10,840 --> 01:02:14,120
+diventare anche un bel sistema per fare i video che voglio fare
+
+1090
+01:02:14,120 --> 01:02:16,440
+io senza spendere niente, diciamo.
+
+1091
+01:02:16,440 --> 01:02:20,280
+Sì, io ho visto le cose che fai tu a naso le
+
+1092
+01:02:20,280 --> 01:02:22,920
+farei con keynote per dirti.
+
+1093
+01:02:22,920 --> 01:02:26,520
+Adesso non sto scherzando, c'è una serie di video che sto facendo
+
+1094
+01:02:26,520 --> 01:02:33,000
+didattici sull'insonnia, inizialmente l'ho pensato a fare in After Effects perché doveva
+
+1095
+01:02:33,000 --> 01:02:36,360
+essere tutti in animazione, però, ci stiamo spostando sempre di più a
+
+1096
+01:02:36,360 --> 01:02:42,440
+farli in keynote perché diventa molto più efficiente la modifica delle posizioni
+
+1097
+01:02:42,520 --> 01:02:43,320
+delle cose.
+
+1098
+01:02:43,320 --> 01:02:47,800
+Siccome ho visto alcune animazioni che hai fatto tu, secondo me preparare
+
+1099
+01:02:47,800 --> 01:02:51,480
+il canovaccio in keynote e poi dopo andare a fare la sincronizzazione
+
+1100
+01:02:51,480 --> 01:02:55,880
+nel programma di montaggio video che scegli tu potrebbe essere la soluzione.
+
+1101
+01:02:56,440 --> 01:03:00,600
+Quando esporti in keynote, ogni passaggio dura se non sbaglio, 5 secondi.
+
+1102
+01:03:01,560 --> 01:03:06,360
+Per la slide a tempo pieno e 2 secondi per la transizione.
+
+1103
+01:03:06,360 --> 01:03:09,720
+Per cui tu puoi gestirti le cose facendo un video che è
+
+1104
+01:03:09,720 --> 01:03:13,320
+molto più lungo per certi versi, che poi vai a sincronizzare con
+
+1105
+01:03:13,320 --> 01:03:15,760
+le parole che dici nell'audio andando a tagliare.
+
+1106
+01:03:14,760 --> 01:03:18,160
+È sempre più comodo andare a tagliare che andare ad allungare.
+
+1107
+01:03:18,960 --> 01:03:23,520
+Poi devo dirti la verità adesso, qui andiamo in tangente, ma prima
+
+1108
+01:03:23,520 --> 01:03:27,120
+o poi faremo una puntata dedicata a Kinote perché è un programma
+
+1109
+01:03:27,280 --> 01:03:29,840
+eccezionale non solo per fare presentazioni.
+
+1110
+01:03:30,080 --> 01:03:34,800
+Ho trovato tutta una serie di video su YouTube dove effettivamente con
+
+1111
+01:03:34,800 --> 01:03:41,600
+Kinote sapendo utilizzare e affrontando alcuni limiti e così via, si riescono
+
+1112
+01:03:41,600 --> 01:03:45,440
+a fare delle animazioni notevoli, anche abbastanza complicate.
+
+1113
+01:03:45,440 --> 01:03:49,600
+Ovvio che c'è da costruire tutta mano, l'unico difetto è quello lì,
+
+1114
+01:03:49,600 --> 01:03:50,400
+secondo me.
+
+1115
+01:03:50,400 --> 01:03:54,880
+Tuttavia riesce a fare animazioni abbastanza elevate.
+
+1116
+01:03:54,880 --> 01:03:58,720
+E anche qui è un programma che di fatto è gratuito per
+
+1117
+01:03:58,720 --> 01:04:02,080
+chi ha acquistato uno strumento Apple sostanzialmente.
+
+1118
+01:04:02,080 --> 01:04:04,640
+Bene, siamo giunti alla fine anche di questa puntata.
+
+1119
+01:04:04,640 --> 01:04:10,800
+Potete trovare Alex ed i suoi programmi sul sito ulti.media, ultimedia, o
+
+1120
+01:04:10,800 --> 01:04:17,120
+ascoltare il suo podcast TecnoPill che trovate su Apple Podcast o sul
+
+1121
+01:04:17,120 --> 01:04:24,960
+sito runtimeradio.it e trovate Alex su Twitter come ALXGI.
+
+1122
+01:04:24,960 --> 01:04:30,720
+Trovate Roberto su Mac Architettura o sul podcast Snap Architettura Imperfetta.
+
+1123
+01:04:30,720 --> 01:04:34,000
+Ed infine sottoscritto su avvocatiMac.it.
+
+1124
+01:04:34,000 --> 01:04:38,400
+Tutte le note dell'episodio le trovate con i link, ovviamente, agli argomenti
+
+1125
+01:04:38,400 --> 01:04:40,080
+che abbiamo trattato in questa puntata.
+
+1126
+01:04:40,080 --> 01:04:41,760
+E tutti i nostri riferimenti.
+
+1127
+01:04:41,760 --> 01:04:47,840
+Li trovate sul sito a2 in numero podcast.it sbarra 6.
+
+1128
+01:04:47,840 --> 01:04:49,600
+Ci sentiamo la settimana prossima

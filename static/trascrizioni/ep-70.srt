@@ -1,0 +1,7635 @@
+1
+00:00:01,840 --> 00:00:03,520
+A2 Podcast.
+
+2
+00:00:03,520 --> 00:00:07,040
+Scopri come ottenere il massimo dalla tua tecnologia Apple.
+
+3
+00:00:07,040 --> 00:00:11,600
+Due professionisti, Filippo e Roberto, te lo spiegano con argomenti monotematici ed
+
+4
+00:00:11,600 --> 00:00:14,480
+ospiti che raccontano il loro flusso di lavoro.
+
+5
+00:00:16,320 --> 00:00:20,640
+Benvenuti all'episodio 70 di A2, in cui scoprire come ottenere il massimo
+
+6
+00:00:20,640 --> 00:00:21,920
+dalla vostra tecnologia Apple.
+
+7
+00:00:21,920 --> 00:00:25,600
+Io sono Filippo Astrozzi e sono il vostro ospite, assieme all'amico Roberto
+
+8
+00:00:25,600 --> 00:00:26,320
+Marin.
+
+9
+00:00:26,320 --> 00:00:30,080
+Di che cosa parliamo e con chi parliamo, mio caro Roberto?
+
+10
+00:00:30,080 --> 00:00:33,520
+Dunque, questa sera è una puntata super speciale perché abbiamo tra di
+
+11
+00:00:33,520 --> 00:00:36,400
+noi niente meno che un unicorno fatto a persona.
+
+12
+00:00:36,560 --> 00:00:40,720
+E non lo dico a caso perché sicuramente sentirete e sarete d'accordo
+
+13
+00:00:40,720 --> 00:00:44,000
+con me che è una persona particolarmente speciale.
+
+14
+00:00:44,000 --> 00:00:48,400
+Io ho creato la scaletta di questa puntata, degli argomenti di cui
+
+15
+00:00:48,400 --> 00:00:52,560
+vi parleremo praticamente ne ho capiti due su una trentina, giusto per
+
+16
+00:00:52,560 --> 00:00:53,360
+capire, ho avuto una
+
+17
+00:00:56,800 --> 00:00:59,840
+mi sono anche impegnato e ho anche cercato i termini in internet
+
+18
+00:00:59,840 --> 00:01:01,600
+perché non ce la facevo, se no.
+
+19
+00:01:01,600 --> 00:01:05,040
+Quindi, se vi aspettate qualcuno come me, non è come me, se
+
+20
+00:01:05,040 --> 00:01:08,800
+aspettate qualcuno come Filippo, non è come Filippo, dovete aspettarvi qualcuno che
+
+21
+00:01:08,800 --> 00:01:11,920
+ha la conoscenza mia e di Filippo Messa Sieme al quadrato, e
+
+22
+00:01:11,920 --> 00:01:15,600
+probabilmente per un altro numero che dovete scegliere voi mentre ascoltate.
+
+23
+00:01:15,600 --> 00:01:20,400
+Ho il piacere di presentare i nostri microfoni, mentre un grossissimo piacere,
+
+24
+00:01:20,400 --> 00:01:24,240
+abbiamo con noi Claudia, Unicorno Super Security.
+
+25
+00:01:24,320 --> 00:01:25,040
+Grazie.
+
+26
+00:01:25,280 --> 00:01:29,280
+Avevo fatto a meno di questo tipo di presentazione, però va bene.
+
+27
+00:01:29,280 --> 00:01:30,000
+Ciao!
+
+28
+00:01:30,000 --> 00:01:32,640
+Benvenuti ai microfoni di A2 Podcast.
+
+29
+00:01:32,640 --> 00:01:35,120
+Oggi abbiamo un sacco di cose da raccontarci.
+
+30
+00:01:35,120 --> 00:01:41,280
+Continuo a dire una persona particolarmente speciale perché davvero a vedere quello
+
+31
+00:01:41,280 --> 00:01:44,640
+che ha fatto sembra che abbia avuto perlomeno due cloni.
+
+32
+00:01:44,640 --> 00:01:49,120
+Perché ha fatto veramente di tutto, di più, ha una conoscenza estrema
+
+33
+00:01:49,120 --> 00:01:50,160
+dell'informatica.
+
+34
+00:01:50,320 --> 00:01:53,440
+Ne sa veramente Apacky a Mucki, come si dice, e mai come
+
+35
+00:01:53,440 --> 00:01:58,000
+in questo caso è corretto dire Apack a Mucki, perché veramente c'è
+
+36
+00:01:58,000 --> 00:02:00,760
+solo da ascoltare e intervare, ovviamente.
+
+37
+00:02:00,920 --> 00:02:05,320
+È qua con noi per raccontarci un po' di sicurezza, diciamo, ma
+
+38
+00:02:05,320 --> 00:02:09,080
+non c'è solo questo, c'è tutta un'altra cosa che ci deve raccontare,
+
+39
+00:02:09,160 --> 00:02:12,520
+soprattutto altre domande che abbiamo messo verso la fine della puntata, quindi
+
+40
+00:02:12,520 --> 00:02:17,080
+non scappate se è troppo tecnica, la puntata, state con noi, ovviamente
+
+41
+00:02:17,320 --> 00:02:20,440
+c'è da imparare, ma iniziamo subito a conoscere Claudia.
+
+42
+00:02:21,000 --> 00:02:24,280
+Ma tranquillo, Roberto, che non scappano perché li conosco tutti, cioè il
+
+43
+00:02:24,280 --> 00:02:26,920
+90% di quelli che sono in chat li conosco, so gli IP
+
+44
+00:02:27,000 --> 00:02:29,240
+e quindi so dove andarli a prendere, tranquillo.
+
+45
+00:02:29,240 --> 00:02:30,200
+Ecco, perfetto.
+
+46
+00:02:30,200 --> 00:02:35,720
+Quindi, ragazzi miei, se iniziate a sentire una presenza all'interno del vostro
+
+47
+00:02:35,720 --> 00:02:37,400
+modem, avete capito chi è.
+
+48
+00:02:37,400 --> 00:02:41,320
+Io in questo momento penso che sia già hackerando a tutte le
+
+49
+00:02:41,320 --> 00:02:44,680
+mie password, penso in questo momento, perché comunque abbiamo fatto un po'
+
+50
+00:02:44,680 --> 00:02:48,520
+di prepuntata, ha avuto il tempo di capire chi dei due può
+
+51
+00:02:48,520 --> 00:02:52,760
+essere hackerabile in modo più facile, probabilmente sottoscritto, perché sappiamo tutti che
+
+52
+00:02:52,760 --> 00:02:55,080
+posso usare soltanto password architetto.
+
+53
+00:02:55,160 --> 00:02:56,600
+Non sono attendibile.
+
+54
+00:02:56,600 --> 00:02:59,080
+Se voi invece siete un po' più furbi di me e avete
+
+55
+00:02:59,080 --> 00:03:05,240
+messo magari qualche cifra, qualche carattere speciale, forse vi salvate, ma dico
+
+56
+00:03:05,240 --> 00:03:07,320
+forse perché non ne sono tanto sicuro.
+
+57
+00:03:07,320 --> 00:03:08,520
+Perché non ne sono sicuro?
+
+58
+00:03:08,520 --> 00:03:12,760
+Claudia, raccontaci, io sono qua che prendo veramente dalle tue labbra perché
+
+59
+00:03:12,760 --> 00:03:16,200
+voglio sentire dalla tua viva voce come hai fatto a fare tutte
+
+60
+00:03:16,200 --> 00:03:19,400
+queste cose, come hai fatto a formarti, ma soprattutto a capire cosa
+
+61
+00:03:19,400 --> 00:03:22,440
+hai fatto, perché, poter dire, la metà delle parole non le ho
+
+62
+00:03:22,440 --> 00:03:26,040
+capite, quindi tocca a te spiegarci a tutti quanti cosa hai fatto
+
+63
+00:03:26,040 --> 00:03:26,360
+nella vita.
+
+64
+00:03:26,600 --> 00:03:29,880
+Ho usato un salta-tempo e i fan di Harry Potter qui la
+
+65
+00:03:29,880 --> 00:03:31,480
+ho la assoluta.
+
+66
+00:03:32,120 --> 00:03:37,320
+Io praticamente ho studiato come programmatore di computer, sono programmatrice COBOL, tuttora
+
+67
+00:03:37,320 --> 00:03:41,080
+conosco il linguaggio, quindi, io sto solo aspettando il momento in cui
+
+68
+00:03:41,080 --> 00:03:44,920
+il sistema bancario collasserà, saremo rimasti in cinque in tutto il mondo
+
+69
+00:03:44,920 --> 00:03:46,800
+e diventeremo ricchi.
+
+70
+00:03:46,960 --> 00:03:51,760
+Ci compreremo castelli con dei bellissimi fossati con i coccodrilli piragni e
+
+71
+00:03:51,760 --> 00:03:52,640
+ponti levatoi.
+
+72
+00:03:52,640 --> 00:03:53,760
+E ciao, poveri!
+
+73
+00:03:53,760 --> 00:03:55,840
+Proprio con l'hashtag, quindi quello è.
+
+74
+00:03:56,400 --> 00:03:59,680
+Ricordati degli amici: sì, quelli che non portano spiga e quelli che
+
+75
+00:03:59,680 --> 00:04:01,360
+credono negli unicorni, tranquillo.
+
+76
+00:04:01,360 --> 00:04:03,200
+Tu e Cristiano siete già esclusi
+
+77
+00:04:04,480 --> 00:04:04,800
+.
+
+78
+00:04:05,440 --> 00:04:10,080
+Da lì ho esplorato varie cose, varie possibilità, vari mondi come direbbe
+
+79
+00:04:10,080 --> 00:04:13,360
+il capitano Kirk: andiamo verso nuovi mondi.
+
+80
+00:04:13,360 --> 00:04:16,480
+Mi sono trovata nel mezzo del cammino della mia vita a lavorare
+
+81
+00:04:16,480 --> 00:04:21,040
+come graphic designer per poker stars e per un giocatore di poker
+
+82
+00:04:21,040 --> 00:04:21,680
+italiano.
+
+83
+00:04:21,680 --> 00:04:26,240
+Da lì siamo passati al comparto esports perché ormai la bolla del
+
+84
+00:04:26,240 --> 00:04:27,600
+poker si era esaurita.
+
+85
+00:04:27,600 --> 00:04:33,600
+Gli esports sono videogiochi elettronici competitivi, con per intenderci, il Pac-Man, che
+
+86
+00:04:33,600 --> 00:04:36,880
+io amo e adoro, non è competitivo, perché purtroppo non c'è un
+
+87
+00:04:36,880 --> 00:04:42,160
+circuito torneistico: StarCraft, ma anche League of Legends, che è uno dei
+
+88
+00:04:42,160 --> 00:04:46,000
+più tossici e più famosi, e ovviamente anche quello è un bellissimo
+
+89
+00:04:46,000 --> 00:04:47,200
+gioco competitivo.
+
+90
+00:04:47,200 --> 00:04:51,040
+C'è un intorno veramente il mondo intorno a questo.
+
+91
+00:04:51,040 --> 00:04:55,920
+Quindi ci sono giocatori che vengono pagati quasi come calciatori famosi, ci
+
+92
+00:04:55,920 --> 00:05:00,800
+sono circuiti che mettono in palio premi a sette zeri e quindi
+
+93
+00:05:00,800 --> 00:05:02,320
+è una cosa piuttosto grossa.
+
+94
+00:05:02,320 --> 00:05:05,760
+In Italia siamo nati con l'organizzazione Clash, che è stata la prima
+
+95
+00:05:05,760 --> 00:05:09,680
+e sports organization in Italia ad avere una gaming house, cioè un
+
+96
+00:05:09,680 --> 00:05:15,360
+posto fisico dove i giocatori potevano entrare, giocare, allenarsi, fare team building,
+
+97
+00:05:15,360 --> 00:05:18,320
+palestra, cucina, camere da letto, VR.
+
+98
+00:05:18,320 --> 00:05:21,360
+È uno spazio la Clash House, questo ve lo posso dire perché
+
+99
+00:05:21,360 --> 00:05:25,280
+dopo sei anni dal giorno zero che ci sono stata, la porto
+
+100
+00:05:25,280 --> 00:05:26,000
+sempre nel cuore.
+
+101
+00:05:26,000 --> 00:05:29,840
+Da lì è nato anche il progetto di Clash Education, cioè sensibilizzare
+
+102
+00:05:29,840 --> 00:05:35,960
+i giovani, soprattutto i ragazzi, all'utilizzo dei videogiochi in maniera più friendly.
+
+103
+00:05:36,040 --> 00:05:39,880
+Quindi il videogioco non è cattivo, non è un demone, se giochi
+
+104
+00:05:39,880 --> 00:05:43,640
+a uno sparatutto non sei per forza uno psicopatico, e sottolineo il
+
+105
+00:05:43,640 --> 00:05:48,360
+per forza, e soprattutto far capire anche ai genitori che sbagliano in
+
+106
+00:05:48,360 --> 00:05:52,040
+certi frangenti a dire no, io ti tolgo il gioco così crescerai
+
+107
+00:05:52,040 --> 00:05:52,520
+meglio.
+
+108
+00:05:52,520 --> 00:05:56,360
+A volte i videogiochi sono studiati e creati anche per fare del
+
+109
+00:05:56,360 --> 00:06:00,360
+bene, quindi ci sono stati dei videogiochi sviluppati per superare determinate fasi
+
+110
+00:06:00,360 --> 00:06:04,280
+della vita, dei lutti e anche aiutare persone che avevano dei problemi
+
+111
+00:06:04,440 --> 00:06:07,720
+come la sindrome da deficit dell'attenzione.
+
+112
+00:06:07,720 --> 00:06:11,400
+In particolare il gioco di Minecraft è molto adatto per bambini in
+
+113
+00:06:11,400 --> 00:06:18,360
+età scolare e preadolescenziale per sviluppare un certo tipo di self-confidence in
+
+114
+00:06:18,360 --> 00:06:19,000
+se stesso.
+
+115
+00:06:19,000 --> 00:06:22,200
+È stato molto utile, abbiamo avuto la possibilità di lavorare anche con
+
+116
+00:06:22,200 --> 00:06:27,320
+una neuropsicologa che si occupa prettamente di videogame e di ragazzi e
+
+117
+00:06:27,320 --> 00:06:33,160
+adolescenti con problematiche dello spettro autistico ed è stato veramente bellissimo e
+
+118
+00:06:33,160 --> 00:06:34,840
+soprattutto molto formativo.
+
+119
+00:06:34,840 --> 00:06:38,920
+Finito con Clash, io poi ho finito con Clash e sono ritornata
+
+120
+00:06:38,920 --> 00:06:45,160
+a fare la stessa cosa del insegnare comunque con Totem, un altra
+
+121
+00:06:45,160 --> 00:06:51,080
+esports org italiana piuttosto affermata, insegnare marketing sportivo nelle università e poi
+
+122
+00:06:51,080 --> 00:06:54,680
+occuparmi di cyber security e collezionare unicorni solo
+
+123
+00:06:56,200 --> 00:07:01,160
+buttata lì in fondo, come se fosse una cosa poco importante.
+
+124
+00:07:01,160 --> 00:07:02,280
+Profilo basso?
+
+125
+00:07:02,160 --> 00:07:04,320
+Ah sì, profilo basso, diciamo così.
+
+126
+00:07:04,320 --> 00:07:08,920
+Davvero un sacco di cose incredibile che tutte queste cose siano raggruppate
+
+127
+00:07:08,920 --> 00:07:12,200
+all'interno di una persona, e veramente c'è solo da imparare.
+
+128
+00:07:12,200 --> 00:07:16,960
+La cosa interessante che mi ha fatto abbastanza sorridere, Minecraft, che comunque
+
+129
+00:07:17,280 --> 00:07:21,120
+è un possiamo dirlo che non è uno spartiacque, ma è molto
+
+130
+00:07:14,920 --> 00:07:22,320
+davvero molto interessante.
+
+131
+00:07:22,880 --> 00:07:27,120
+Potremmo definirlo un Lego in formato digitale perché comunque ti permette di
+
+132
+00:07:27,120 --> 00:07:31,120
+creare dei mondi in modo incredibile, in modo molto semplice.
+
+133
+00:07:31,120 --> 00:07:34,080
+Abbiamo avuto anche il piacere con Filippo di mettere i figli in
+
+134
+00:07:34,080 --> 00:07:37,520
+collegamento in modo tale nello stesso mondo, grazie, ovviamente alle doti di
+
+135
+00:07:37,680 --> 00:07:39,120
+sul serverino Minecraft,
+
+136
+00:07:40,320 --> 00:07:43,360
+alle doti di Filippo, perché se aspetta me siamo ancora qua.
+
+137
+00:07:43,360 --> 00:07:47,680
+Un'altra cosa interessante, invece, che volevo anche sottolineare, il fatto che in
+
+138
+00:07:47,680 --> 00:07:51,120
+effetti, vedo anche con i miei figli, il gioco non è così
+
+139
+00:07:51,120 --> 00:07:55,280
+cattivo come viene dipinto, nel senso che spesso aiuta tanto.
+
+140
+00:07:55,280 --> 00:07:59,280
+Io da ex videogiocatore, ma diciamo, ero uno di quelli che rimando,
+
+141
+00:07:59,280 --> 00:08:04,080
+nel senso che, come sapete, non ho avuto la fortuna di nascere
+
+142
+00:08:04,080 --> 00:08:08,400
+in una famiglia particolarmente ricca che si poteva permettere certi tipi di
+
+143
+00:08:08,400 --> 00:08:12,400
+videogiochi, e quindi andavo a fare che cosa andavo a fare a
+
+144
+00:08:12,400 --> 00:08:15,920
+giocare dai miei amici invece, che avevano le possibilità, ma non giocavo
+
+145
+00:08:15,920 --> 00:08:17,920
+io direttamente, guardavo gli altri giocare.
+
+146
+00:08:17,920 --> 00:08:21,600
+Un po' come era l'epoca quella dei cabinati, nel senso che ne
+
+147
+00:08:21,600 --> 00:08:25,680
+stavo parlando appunto l'altro giorno che alla fine riuscivo a creare un
+
+148
+00:08:25,680 --> 00:08:29,280
+gruppo perché c'era la persona che giocava al cabinato, e poi c'erano
+
+149
+00:08:29,280 --> 00:08:33,120
+tutti gli amici attorno che facevano il tifono, cercavano di capire soprattutto
+
+150
+00:08:33,120 --> 00:08:35,360
+le mosse di Street Fighter, che è quello lì.
+
+151
+00:08:35,360 --> 00:08:39,680
+Insomma, io ho passato giornate intere a guardare gli altri a giocare
+
+152
+00:08:39,680 --> 00:08:41,200
+per capire tutte le varie mosse.
+
+153
+00:08:41,200 --> 00:08:46,000
+Che purtroppo adesso è un forse fin troppo semplice giocare ai videogiochi,
+
+154
+00:08:46,000 --> 00:08:49,600
+nel senso che non so, adesso chiederò a Claudia, perché io sono
+
+155
+00:08:49,600 --> 00:08:54,240
+decisamente fuori dai videogiochi, sto giocando in questo momento a Minecraft Dungeon
+
+156
+00:08:54,240 --> 00:08:56,800
+con mio figlio, che mi sto divertendo un sacco, quello si mi
+
+157
+00:08:56,800 --> 00:08:59,640
+diverto un sacco, ma questa è una derivazione.
+
+158
+00:08:59,280 --> 00:09:02,600
+La parte bella di Minecraft è che è veramente molto creativa.
+
+159
+00:09:02,840 --> 00:09:07,400
+Mi ha lasciato davvero impressionato vedere che lo stesso gioco riesce a
+
+160
+00:09:07,400 --> 00:09:12,520
+raggruppare sotto lo stesso cappello persone come me, una diversa età come
+
+161
+00:09:12,520 --> 00:09:16,120
+quella di Bianca, che ha quasi 14 anni, e Leonardo, che ne
+
+162
+00:09:16,120 --> 00:09:19,400
+ha 9, e vedere anche Bianca che gioca con i mondi di
+
+163
+00:09:19,400 --> 00:09:25,080
+Minecraft, in questo caso, declinati per quanto riguarda il Jurassic World essenzialmente.
+
+164
+00:09:25,240 --> 00:09:29,640
+Davvero incredibile perché comunque ci sono persone che si sono lanciati a
+
+165
+00:09:29,640 --> 00:09:34,200
+fare questa cosa incredibile di creare questi mondi con i dinosauri e
+
+166
+00:09:35,240 --> 00:09:35,800
+un mondo.
+
+167
+00:09:35,800 --> 00:09:40,600
+In realtà è praticamente un nuovo mondo, uno spazio virtuale da andare
+
+168
+00:09:40,600 --> 00:09:41,080
+a vedere.
+
+169
+00:09:41,400 --> 00:09:43,720
+È il vero metaverso, probabilmente.
+
+170
+00:09:43,720 --> 00:09:44,840
+Questo è da sottolineare.
+
+171
+00:09:44,840 --> 00:09:48,200
+E continuo a dire i videogiochi non sono cattivi, lo sto sperimentando
+
+172
+00:09:48,200 --> 00:09:48,520
+io.
+
+173
+00:09:48,520 --> 00:09:54,600
+E l'indole probabilmente della persona forse che viene incanalata, probabilmente, ma come
+
+174
+00:09:54,600 --> 00:09:55,400
+in tutte le cose.
+
+175
+00:09:55,400 --> 00:09:58,520
+Se voi avete un martello, continua a dire potete usarla in tanti
+
+176
+00:09:58,520 --> 00:10:02,200
+modi, potete usarla per piantare un chiodo, ma potete anche per piantarlo
+
+177
+00:10:02,200 --> 00:10:03,160
+in testa a qualcuno.
+
+178
+00:10:03,160 --> 00:10:06,680
+Quindi non dipende dallo strumento, dipende da chi c'è dietro.
+
+179
+00:10:06,680 --> 00:10:08,200
+Un po' come per i computer, no?
+
+180
+00:10:08,200 --> 00:10:12,120
+Sappiamo benissimo che il problema dei computer a proposito di sicurezza è
+
+181
+00:10:12,200 --> 00:10:16,200
+tra lo schermo e la sedia, e nella fattispecie, soprattutto le persone
+
+182
+00:10:16,200 --> 00:10:17,960
+che portano sfortuna come me.
+
+183
+00:10:17,960 --> 00:10:22,280
+E conseguentemente, se non ci fossero persone come me, non ci sarebbe
+
+184
+00:10:22,280 --> 00:10:23,640
+neanche lavoro per Claudia.
+
+185
+00:10:23,640 --> 00:10:29,640
+Quindi, qualche attività, qualche cosa riesco a farlo anch'io.
+
+186
+00:10:29,640 --> 00:10:33,480
+In ogni caso, sei utile in qualche maniera sono utile, in qualche
+
+187
+00:10:33,480 --> 00:10:36,120
+maniera sono utile in questo ecosistema.
+
+188
+00:10:36,120 --> 00:10:41,000
+Ma raccontaci un po' un po' più nel dettaglio, che volevo, ero
+
+189
+00:10:41,000 --> 00:10:44,120
+un po' più curioso io, ovviamente, perché Filippo è timido, mentre io
+
+190
+00:10:44,120 --> 00:10:48,720
+invece faccio le domande così al Brucio, raccontaci un po' più della
+
+191
+00:10:48,720 --> 00:10:52,880
+tua esperienza educational, che secondo me è molto interessante.
+
+192
+00:10:52,880 --> 00:10:55,680
+Perché il tuo punto di vista è un punto di vista che
+
+193
+00:10:55,760 --> 00:11:00,160
+penso in due podcast, non ci sia mai stato così forte per
+
+194
+00:11:00,160 --> 00:11:04,720
+quanto riguarda l'educazione, quello che hai visto tu e quello che consigli
+
+195
+00:11:04,720 --> 00:11:05,200
+tu.
+
+196
+00:11:05,200 --> 00:11:07,360
+Di cosa ti sei occupato di dieducazione?
+
+197
+00:11:07,360 --> 00:11:11,600
+Allora, la prima volta abbiamo fatto alternanza a scuola-lavoro con i ragazzi
+
+198
+00:11:11,600 --> 00:11:15,600
+delle quarte superiori in varie scuole del Nord Italia, del Trentino.
+
+199
+00:11:15,760 --> 00:11:21,280
+Abbiamo portato praticamente l'esperienza di com'è lavorare in una eSports house.
+
+200
+00:11:21,280 --> 00:11:26,400
+Quindi non c'è soltanto il giochino, quindi si gioca e basta, ma
+
+201
+00:11:26,640 --> 00:11:27,760
+c'è di tutto dietro.
+
+202
+00:11:27,760 --> 00:11:33,360
+Quindi c'è l'organizzazione del torneo, c'è il recruitment, ci sono i manager
+
+203
+00:11:33,520 --> 00:11:36,880
+che noi non ci pensiamo, ma il giocatore famoso ha comunque dietro
+
+204
+00:11:36,880 --> 00:11:41,440
+lo staff, pensiamo ai giocatori di calcio che dietro hanno il parrucchiere,
+
+205
+00:11:41,440 --> 00:11:46,080
+il manager, l'autista e tutto un entourage non dà poco.
+
+206
+00:11:46,080 --> 00:11:52,000
+Se il giocatore medio europeo ha dietro due persone, il giocatore coreano
+
+207
+00:11:52,000 --> 00:11:54,080
+di alto livello ne ha dietro cinque.
+
+208
+00:11:54,080 --> 00:11:58,880
+E quindi c'è molto e soprattutto quello che deve sempre filtrare è
+
+209
+00:11:58,880 --> 00:12:03,840
+che è bello giocare al videogame, essere famoso, essere vincente, ma attenzione!
+
+210
+00:12:03,840 --> 00:12:06,480
+Uno non dura per sempre, e comunque una volta che hai smesso
+
+211
+00:12:06,480 --> 00:12:09,280
+di fare il giocatore professionista di videogame, che fai nella vita?
+
+212
+00:12:09,520 --> 00:12:13,440
+Quindi ci sono tante professioni, figure professionali che ruotano intorno a questo
+
+213
+00:12:13,440 --> 00:12:17,680
+mondo, e noi abbiamo voluto portare intanto, la nostra esperienza di persone
+
+214
+00:12:17,680 --> 00:12:20,800
+che hanno lavorato dentro ogni sports house per tanti anni.
+
+215
+00:12:20,800 --> 00:12:24,080
+Quindi, quindi con i miei due colleghi, un giornalista e un giocatore
+
+216
+00:12:24,080 --> 00:12:26,880
+professionista che poi è diventato coach and manager.
+
+217
+00:12:26,880 --> 00:12:31,640
+E io che mi sono occupata praticamente della parte social, comunicazione and
+
+218
+00:12:29,760 --> 00:12:32,600
+reputation.
+
+219
+00:12:32,760 --> 00:12:36,600
+Gli abbiamo mostrato effettivamente cosa c'è dietro, and questi ragazzi mi ricordo
+
+220
+00:12:36,600 --> 00:12:40,520
+sempre la delusione negli occhi della prima classe when siamo entrati: Oh,
+
+221
+00:12:40,520 --> 00:12:40,920
+che bello!
+
+222
+00:12:40,920 --> 00:12:43,160
+Adesso si gioca una settimana di video game.
+
+223
+00:12:43,160 --> 00:12:47,880
+Se vi va bene, giocherete 30 minuti l'ultimo giorno e non è
+
+224
+00:12:47,880 --> 00:12:49,800
+nemmeno detto.
+
+225
+00:12:49,800 --> 00:12:53,000
+E abbiamo spezzato il cuore, proprio si è sentito il cuoricino
+
+226
+00:12:54,200 --> 00:12:54,520
+!
+
+227
+00:12:54,840 --> 00:12:55,800
+Tutti insieme.
+
+228
+00:12:55,800 --> 00:12:59,560
+Però è stato interessante perché abbiamo creato un po' di consapevolezza in
+
+229
+00:12:59,560 --> 00:13:04,760
+loro, abbiamo aperto il mondo dei videogame anche a chi magari non
+
+230
+00:13:04,760 --> 00:13:08,200
+ci ha mai pensato a fare il professionista, magari ha sempre visto
+
+231
+00:13:08,200 --> 00:13:11,080
+il giochino sul telefono come i cinque minuti d'evasione.
+
+232
+00:13:11,080 --> 00:13:14,360
+E questo ci ha fatto un attimo pensare che se alcuni ragazzi
+
+233
+00:13:14,360 --> 00:13:18,520
+lo pensavano, era molto probabile che gli stessi genitori avessero la stessa
+
+234
+00:13:18,520 --> 00:13:19,080
+concezione.
+
+235
+00:13:19,080 --> 00:13:23,240
+E quindi abbiamo ampliato un po' la nostra esperienza parlando ai genitori,
+
+236
+00:13:23,240 --> 00:13:27,080
+ai educatori, ai docenti con degli incontri dedicati, che abbiamo fatto spesso
+
+237
+00:13:27,080 --> 00:13:27,880
+a Don Bosco.
+
+238
+00:13:27,880 --> 00:13:29,320
+E abbiamo portato le nostre esperienze.
+
+239
+00:13:29,320 --> 00:13:33,480
+Addirittura abbiamo portato i videogiochi per far giocare i genitori.
+
+240
+00:13:33,480 --> 00:13:37,000
+A partire, non so, dal classico memory, noi giocavamo con le carte,
+
+241
+00:13:37,000 --> 00:13:41,080
+quelle che trovavamo nel Billy, cioè chi ha una certa si ricorderà
+
+242
+00:13:41,080 --> 00:13:43,000
+del succo all'arancia Billy.
+
+243
+00:13:44,440 --> 00:13:48,680
+Il mio preferito quando regalavano le carte del memory, che erano solo
+
+244
+00:13:48,680 --> 00:13:51,240
+12, e se avevi la sfortuna che la tua nonna non ti
+
+245
+00:13:51,240 --> 00:13:55,160
+comprava il Billy in confezione da tre quella settimana al Superal, niente,
+
+246
+00:13:55,160 --> 00:13:58,920
+rimanevi con 11 e praticamente venivi preso in giro per i secoli
+
+247
+00:13:58,920 --> 00:14:00,200
+a venire tutti i tuoi compagni.
+
+248
+00:14:00,200 --> 00:14:03,720
+E quindi abbiamo portato il memory in formato carte, abbiamo portato il
+
+249
+00:14:03,720 --> 00:14:07,800
+memory digitale, quindi un giochino scaricato a caso su un device.
+
+250
+00:14:07,800 --> 00:14:11,880
+Poi abbiamo portato la realtà virtuale, l'Xbox, la PlayStation.
+
+251
+00:14:12,040 --> 00:14:15,760
+Abbiamo fatto giocare a tanti tipi di giochi e loro stessi si
+
+252
+00:14:15,760 --> 00:14:19,200
+sono stupiti di quanto non solo il tempo passava veloce, ma quanto
+
+253
+00:14:19,200 --> 00:14:22,640
+immersivi potevano essere alcuni tipi di giochi, quindi non solo la realtà
+
+254
+00:14:22,640 --> 00:14:24,640
+virtuale, a livello proprio emotivo.
+
+255
+00:14:24,640 --> 00:14:30,400
+E quindi magari abbiamo notato alcune mamme che erano molto più fredde
+
+256
+00:14:30,400 --> 00:14:36,880
+verso alcuni giochi sparatutto, può essere anche un fattore caratteriale o altro
+
+257
+00:14:37,040 --> 00:14:40,960
+pure di appartenenza a un determinato sesso, perché si tende a dire
+
+258
+00:14:41,120 --> 00:14:44,960
+sbagliando, che magari le ragazze e le donne sono meno portate per
+
+259
+00:14:44,960 --> 00:14:46,080
+i giochi sparatutto.
+
+260
+00:14:46,080 --> 00:14:48,000
+Io sono l'eccezione che conferma la regola.
+
+261
+00:14:48,000 --> 00:14:51,040
+Io se posso sparare, mirare cecchino, lo faccio.
+
+262
+00:14:51,040 --> 00:14:55,920
+Roberto questo lo sa, perché anche lui a livello di cecchino sa
+
+263
+00:14:55,920 --> 00:14:56,800
+di che si parla.
+
+264
+00:14:56,800 --> 00:15:00,960
+E abbiamo visto dei papà, ma anche dei docenti che non avevano
+
+265
+00:15:00,960 --> 00:15:05,760
+figli e quindi per loro l'esperienza di rapportarsi con un bambino era
+
+266
+00:15:05,760 --> 00:15:09,280
+un po' differente, che si sono trovati molto al loro agio con
+
+267
+00:15:09,280 --> 00:15:13,920
+dei giochi come potevano essere, ad esempio, Minecraft, oppure con Beat Saber,
+
+268
+00:15:13,920 --> 00:15:18,560
+che è un gioco a suon di musica, e devi colpire dei
+
+269
+00:15:18,560 --> 00:15:20,320
+bersagli che ti vengono incontro.
+
+270
+00:15:20,320 --> 00:15:23,040
+Quindi si sono trovati al loro agio con delle realtà che non
+
+271
+00:15:23,040 --> 00:15:26,880
+conoscevano e hanno forse capito effettivamente il ruolo del videogame che può
+
+272
+00:15:26,880 --> 00:15:31,520
+essere un distress, può essere un modo per aiutare a scaricare la
+
+273
+00:15:31,680 --> 00:15:37,280
+tensione, ma anche per estraniarsi magari per quella mezz'ora, dimenticare un attimo
+
+274
+00:15:37,280 --> 00:15:40,000
+i problemi e fare un refresh mentale.
+
+275
+00:15:40,000 --> 00:15:42,560
+Quindi anche quello è stato molto interessante.
+
+276
+00:15:42,560 --> 00:15:48,080
+E dopo ci siamo spostati sulla parte di insegnamento, quindi con il
+
+277
+00:15:48,080 --> 00:15:53,120
+marketing sportivo, in particolare degli esports e nelle università, per i ragazzi
+
+278
+00:15:53,120 --> 00:15:58,400
+che fanno appunto i corsi e vogliono diventare nuove figure professionali negli
+
+279
+00:15:58,400 --> 00:16:01,480
+sport, sia quelli classici che quelli elettronici.
+
+280
+00:16:01,480 --> 00:16:05,080
+Lì ovviamente è diverso perché non portiamo il videogioco in sé, ma
+
+281
+00:16:05,080 --> 00:16:09,400
+portiamo tutto quello che è la trattativa con gli sponsor, portiamo tutto
+
+282
+00:16:09,400 --> 00:16:12,600
+quello che è la creazione e l'ideazione di un brand, la scelta
+
+283
+00:16:12,600 --> 00:16:15,720
+dei giocatori, allocazione del budget e tutto, e quindi facciamo un po'
+
+284
+00:16:15,720 --> 00:16:16,840
+un lavoro differente.
+
+285
+00:16:16,840 --> 00:16:21,560
+Però anche quello dà soddisfazione perché sono comunque ragazzi che hanno 21-22
+
+286
+00:16:21,560 --> 00:16:23,000
+anni circa e si trovano.
+
+287
+00:16:23,000 --> 00:16:27,160
+Alcuni sono molto a loro agio perché già giocano, già conoscono, conoscono
+
+288
+00:16:27,160 --> 00:16:32,040
+anche molte dinamiche degli sport tradizionali che spesso sono più affini e
+
+289
+00:16:32,040 --> 00:16:34,440
+ci sono anche quelli che però non conoscono niente, è la prima
+
+290
+00:16:34,440 --> 00:16:37,880
+volta che gli fai scaricare il giochino per capire di che cosa
+
+291
+00:16:37,880 --> 00:16:40,680
+si sta parlando, li vedi che sono completamente persi.
+
+292
+00:16:40,680 --> 00:16:42,440
+Ma questo come si fa?
+
+293
+00:16:42,440 --> 00:16:43,720
+Perché, come, quando?
+
+294
+00:16:43,720 --> 00:16:49,000
+E quindi capisci anche che se i ragazzi di vent'anni di quattro
+
+295
+00:16:49,000 --> 00:16:53,480
+anni fa erano già molto più avanti, quelli di oggi sono leggermente
+
+296
+00:16:53,720 --> 00:16:55,240
+più indietro.
+
+297
+00:16:55,240 --> 00:16:58,440
+E non è un male, anzi, perché forse stanno cominciando a dare
+
+298
+00:16:58,440 --> 00:17:02,520
+priorità alle cose un pochettino più importanti rispetto a passare il tempo
+
+299
+00:17:02,520 --> 00:17:05,400
+come gli zombie davanti a un telefonino per giocare.
+
+300
+00:17:05,400 --> 00:17:07,480
+Bel quadro.
+
+301
+00:17:07,480 --> 00:17:12,200
+Anche questo, nel senso che è un taglio che io, ad esempio,
+
+302
+00:17:12,200 --> 00:17:14,440
+non conosco di rimando.
+
+303
+00:17:14,440 --> 00:17:20,120
+Io sicuramente sarei stato un giocatore di esport quando avesse avuto l'età
+
+304
+00:17:20,120 --> 00:17:24,600
+giusta per arrivarci, probabilmente l'avrei fatto in tempo indietro perché insomma ero
+
+305
+00:17:24,600 --> 00:17:25,560
+anche abbastanza bravo.
+
+306
+00:17:25,560 --> 00:17:29,640
+Mi sono sempre stato allenato a Quake con il mio amico.
+
+307
+00:17:29,640 --> 00:17:36,200
+Quindi, insomma, il Quake Arena era praticamente il momento che aspettavamo entrambi
+
+308
+00:17:36,200 --> 00:17:41,160
+durante la giornata, perché abitava vicino a casa mia, è finito tutta
+
+309
+00:17:41,160 --> 00:17:46,560
+la giornata dopo essere, magari rientrato dalla giornata con alle superiore, aveva
+
+310
+00:17:46,560 --> 00:17:49,680
+studiato, aveva preso il tuo due perché chi non ha preso due
+
+311
+00:17:49,840 --> 00:17:52,720
+alzi la mano e quindi ecco visto.
+
+312
+00:17:53,680 --> 00:17:56,160
+Solo io lo scappato di casa.
+
+313
+00:17:56,160 --> 00:18:00,960
+Principe, come sempre, alzato la mano in due, giusto perché non si
+
+314
+00:18:00,960 --> 00:18:02,960
+vede, ma abbiamo alzato la mano.
+
+315
+00:18:02,960 --> 00:18:07,120
+In ogni caso, dopo una giornata così, si andava in effetti a
+
+316
+00:18:07,120 --> 00:18:11,760
+scaricare a staccare un po' il cervello in questo ambiente dove praticamente
+
+317
+00:18:11,760 --> 00:18:15,120
+non facevi male a nessuno, ma era bellissimo perché dovevi cercare di
+
+318
+00:18:15,120 --> 00:18:18,640
+schivare i missili degli altri, perché c'erano 40 persone che ovviamente erano
+
+319
+00:18:18,640 --> 00:18:20,240
+tutti armati con i missili.
+
+320
+00:18:20,240 --> 00:18:25,280
+Bisogna essere molto veloci e avere l'occhio veramente molto attento, e per
+
+321
+00:18:25,280 --> 00:18:28,160
+quello riesci a concentrarti forse su qualcosa.
+
+322
+00:18:28,160 --> 00:18:32,400
+Come dicono sempre, la concentrazione deve essere portata sulla punta di uno
+
+323
+00:18:32,400 --> 00:18:34,720
+spillo per essere efficace.
+
+324
+00:18:34,720 --> 00:18:37,920
+E in questo caso, tutto sommato, è un esempio.
+
+325
+00:18:37,920 --> 00:18:41,120
+Mi piace riportare questa, era divertentissimo qui carena.
+
+326
+00:18:41,120 --> 00:18:44,880
+In ogni caso, a parte questo, un'altra cosa da sottolineare è la
+
+327
+00:18:44,880 --> 00:18:47,280
+valenza che ha anche per questi ragazzi.
+
+328
+00:18:47,280 --> 00:18:53,920
+Perché, comunque bisogna anche ricordarlo, che non è proprio semplicissimo, credo, in
+
+329
+00:18:53,920 --> 00:18:58,320
+questo momento storico essere accompagnati in un mondo di questo tipo.
+
+330
+00:18:58,320 --> 00:19:03,760
+Nel senso che probabilmente alla mia età fossi stato trasportato adesso, avrei
+
+331
+00:19:03,920 --> 00:19:08,080
+visto molte più difficoltà di quelle che ho vissuto io alla mia
+
+332
+00:19:08,080 --> 00:19:08,400
+epoca.
+
+333
+00:19:08,400 --> 00:19:13,600
+Ma per il semplice fatto è un mondo veramente diverso, veloce, difficile.
+
+334
+00:19:13,840 --> 00:19:20,240
+Anche ricercare, per esempio, l'attenzione è un problema, nel senso che i
+
+335
+00:19:20,240 --> 00:19:24,400
+social che ci abbiamo attorno, questo richiedono il fatto che ci sia
+
+336
+00:19:24,400 --> 00:19:28,880
+l'attenzione verso qualcuno e qualcuno magari non te la dà, anche perché
+
+337
+00:19:29,120 --> 00:19:30,920
+è normale l'amministrazione.
+
+338
+00:19:29,600 --> 00:19:34,920
+Nel senso, noi l'abbiamo vissuto in modo, diciamo, graduale
+
+339
+00:19:29,760 --> 00:19:36,680
+l'ingresso in questo mondo,
+
+340
+00:19:36,840 --> 00:19:40,040
+ma chi ci è proiettato in questo momento è molto difficile.
+
+341
+00:19:40,520 --> 00:19:43,480
+Avere anche dei punti di riferimento di questo tipo, secondo me, è
+
+342
+00:19:43,480 --> 00:19:44,520
+molto importante.
+
+343
+00:19:44,520 --> 00:19:46,120
+È importantissimo.
+
+344
+00:19:46,680 --> 00:19:51,240
+Tra altre cose mi aggancio anche alla questione delle sport che in
+
+345
+00:19:51,240 --> 00:19:52,920
+effetti è qualcosa di molto professionale.
+
+346
+00:19:52,920 --> 00:19:57,560
+Se voi hai fatto Claudia l'esempio del calcio, ma io recentemente ho
+
+347
+00:19:57,560 --> 00:20:02,360
+sentito l'esempio su un altro podcast che parlava di un professionista del
+
+348
+00:20:02,360 --> 00:20:04,600
+basket italiano che è andato a giocare in America.
+
+349
+00:20:04,600 --> 00:20:08,840
+Purtroppo, non essendo dell'ambiente, non mi ricordo bene il nome, ma in
+
+350
+00:20:08,840 --> 00:20:11,640
+ogni caso ha fatto grandissimi progressi.
+
+351
+00:20:11,640 --> 00:20:16,600
+La cosa interessante che diceva in questo podcast: io non sapevo, per
+
+352
+00:20:16,600 --> 00:20:21,480
+esempio, in effetti che tu sei portato veramente essendo un professionista in
+
+353
+00:20:21,480 --> 00:20:22,440
+punta di mano.
+
+354
+00:20:22,680 --> 00:20:26,840
+Se aveva un problema alla lavatrice a casa, lui c'era chi veniva
+
+355
+00:20:26,840 --> 00:20:29,000
+a casa sua e gli diceva non ti preoccupare, ci penso io,
+
+356
+00:20:29,000 --> 00:20:32,600
+tu vai a giocare tranquillo, che era fornito direttamente dalla squadra.
+
+357
+00:20:32,600 --> 00:20:36,760
+Quindi è la massima concentrazione in questi sport, che ha un altro
+
+358
+00:20:36,760 --> 00:20:41,000
+aspetto che secondo me è tanto da sottolineare, perché quando hai finito,
+
+359
+00:20:41,000 --> 00:20:41,800
+cosa fai?
+
+360
+00:20:41,800 --> 00:20:46,360
+E veramente soprattutto negli sport, tra l'altro, fisici, come ha fatto questo
+
+361
+00:20:46,520 --> 00:20:52,440
+ormai signore, perché avrà 45 anni, cioè, con l'impegno che c'è, hanno
+
+362
+00:20:52,440 --> 00:20:56,280
+anche il fisico distrutto, tra l'altro, loro, nel senso che diceva che
+
+363
+00:20:56,280 --> 00:21:01,000
+io a 40 anni ho già l'artrite, considerate che è veramente faticoso.
+
+364
+00:21:01,320 --> 00:21:07,400
+E non voglio soprattutto pensare che negli sport sia più semplice.
+
+365
+00:21:07,400 --> 00:21:11,640
+Secondo me, forse anche più difficile, perché probabilmente non è fisico, ma
+
+366
+00:21:11,800 --> 00:21:13,160
+secondo me è molto mentale.
+
+367
+00:21:13,160 --> 00:21:18,880
+E molto mentale ci vuole veramente tantissima concentrazione e soprattutto allenamento.
+
+368
+00:21:18,960 --> 00:21:23,680
+Perché adesso immagino che dal punto di vista dei ragazzi, avendoli avuto
+
+369
+00:21:23,680 --> 00:21:29,360
+sotto mano, magari introducendoli agli sport, immagino che una delle caratteristiche sia
+
+370
+00:21:29,360 --> 00:21:32,400
+anche mantenere la concentrazione per molto tempo.
+
+371
+00:21:32,640 --> 00:21:35,840
+Credo è un aspetto interessante questo.
+
+372
+00:21:35,840 --> 00:21:40,320
+O ci sono altri tipi di aspetti da vedere in una persona
+
+373
+00:21:40,320 --> 00:21:41,600
+che gioca negli sport?
+
+374
+00:21:41,600 --> 00:21:45,360
+Ci sono, c'è la componente fisica, perché ovviamente il giocatore non deve
+
+375
+00:21:45,360 --> 00:21:49,680
+soltanto stare via a giochino, ma deve anche fare sport, allenarsi perché
+
+376
+00:21:49,680 --> 00:21:54,080
+comunque non è più il scusate la cosa brutta, ma gioca videogame
+
+377
+00:21:54,160 --> 00:21:55,760
+in se tutto ci c'è brufoli.
+
+378
+00:21:55,760 --> 00:21:57,840
+No, non è proprio così assolutamente.
+
+379
+00:21:57,840 --> 00:21:59,760
+Quello è uno stereotipo che bisogna cancellare.
+
+380
+00:21:59,760 --> 00:22:05,360
+Chi gioca videogame di solito ha un quoziente intellettivo relativamente medio-alto, un
+
+381
+00:22:05,360 --> 00:22:12,320
+quoziente emotivo molto più alto, ha interesse a mantenere questo suo status
+
+382
+00:22:12,320 --> 00:22:17,600
+di vincente o comunque di persona che riesce a barcamenarsi al meglio
+
+383
+00:22:18,240 --> 00:22:22,560
+nel mondo esports e cura la forma fisica e quindi corre, noi
+
+384
+00:22:22,560 --> 00:22:24,320
+in Clash House abbiamo una palestra.
+
+385
+00:22:24,320 --> 00:22:27,120
+Io parlo ancora al presente come se ci fossi ancora, perché comunque
+
+386
+00:22:27,120 --> 00:22:28,880
+sono quelle esperienze che ti rimangono dentro.
+
+387
+00:22:28,880 --> 00:22:32,000
+Quindi io rimarrò sempre attaccata a clash.
+
+388
+00:22:32,000 --> 00:22:37,120
+Quindi c'è una palestra, c'è un mental coach, c'è un gym coach,
+
+389
+00:22:37,120 --> 00:22:41,440
+si fanno degli esercizi e soprattutto per quei giochi nei quali serve
+
+390
+00:22:41,440 --> 00:22:45,120
+molta coordinazione mano occhio, si fanno degli esercizi particolari.
+
+391
+00:22:45,120 --> 00:22:49,360
+Quindi immaginiamo di prendere una pallina, stringerla e con l'altra mano fare
+
+392
+00:22:49,360 --> 00:22:53,520
+un altro tipo di movimento e comunque con gli occhi seguire diverse
+
+393
+00:22:53,520 --> 00:22:56,880
+cose, perché è facile prendere una pallina con una mano, guardarla e
+
+394
+00:22:56,880 --> 00:22:59,040
+dire adesso chiudo, adesso apro, è facile.
+
+395
+00:22:59,040 --> 00:23:02,600
+Facciamolo come per i batteristi che devono fare o anche i musicisti
+
+396
+00:23:02,600 --> 00:23:06,440
+in generale, che con le due mani fanno due cose differenti spesso,
+
+397
+00:23:06,440 --> 00:23:10,360
+però sono armonizzate, è il cervello che le coordina, l'occhio ha il
+
+398
+00:23:10,360 --> 00:23:13,640
+suo ruolo, e quindi noi dobbiamo sempre far allenare le persone su
+
+399
+00:23:13,640 --> 00:23:16,440
+coordinazione mano occhio, ma anche la postura.
+
+400
+00:23:16,520 --> 00:23:20,600
+Noi stiamo seduti a giocare al giochino e ci incurviamo, sembra veramente
+
+401
+00:23:20,600 --> 00:23:23,960
+un legno piegato, non è bello anche perché ti stanchi, ti fa
+
+402
+00:23:23,960 --> 00:23:24,280
+male.
+
+403
+00:23:24,280 --> 00:23:26,440
+Quindi il momento in cui ti tiri su e tiri su il
+
+404
+00:23:26,440 --> 00:23:30,280
+joystick è molto probabile che tu faccia un movimento sbagliato, per dalla
+
+405
+00:23:30,360 --> 00:23:31,960
+concentrazione direttamente.
+
+406
+00:23:31,960 --> 00:23:32,840
+Quindi cosa serve?
+
+407
+00:23:32,840 --> 00:23:37,160
+Serve avere una postura e qui entrano in gioco tanti fattori, quindi
+
+408
+00:23:37,160 --> 00:23:42,520
+il produttore delle sedie, il produttore del cuscinetto, il produttore del sleeve
+
+409
+00:23:42,840 --> 00:23:46,520
+per il braccio, che è una specie di guanto per il braccio,
+
+410
+00:23:46,520 --> 00:23:51,160
+che preserva un po' se vuoi dallo scivolamento, dall'attrito o altro.
+
+411
+00:23:51,160 --> 00:23:54,840
+Quindi ci sono quelli con grip più forte, grip meno forte, c'è
+
+412
+00:23:54,920 --> 00:23:58,760
+chi ci mette la sciolina sotto, non sto scherzando, per avere comunque
+
+413
+00:23:58,920 --> 00:24:02,760
+una compressione sulle braccia, perché tante ore a giocare, magari noi non
+
+414
+00:24:02,760 --> 00:24:06,200
+ci pensiamo, ma la commessa che sta in piedi tutto il giorno
+
+415
+00:24:06,360 --> 00:24:07,640
+può avere le gambe gonfie.
+
+416
+00:24:07,640 --> 00:24:10,520
+Pensate al giocatore che sta seduto tutto il giorno, non si muove
+
+417
+00:24:10,520 --> 00:24:11,880
+per otto ore di fila.
+
+418
+00:24:11,880 --> 00:24:16,440
+Quindi stesso discorso, ci vuole una compressione e visto che lo sleeve
+
+419
+00:24:16,440 --> 00:24:21,400
+comprimeva troppo, mettevano la sciolina per avere un glide maggiore, perché magari
+
+420
+00:24:21,400 --> 00:24:25,160
+con il mouse dovevano andare a giro e non si gioca con
+
+421
+00:24:25,160 --> 00:24:27,960
+il trackball, come ho io per la grafica, quindi devi andare a
+
+422
+00:24:27,960 --> 00:24:29,960
+giro, fare le combinazioni di tastiera.
+
+423
+00:24:29,960 --> 00:24:33,400
+Addirittura a tastiere fatte in un certo modo, quindi grandi aziende che
+
+424
+00:24:33,400 --> 00:24:37,240
+producono tastiere e gear particolare in certo modo, ma non sono per
+
+425
+00:24:37,240 --> 00:24:40,440
+tutti, perché c'era un giocatore che metteva la tastiera in verticale.
+
+426
+00:24:41,080 --> 00:24:42,520
+Poi mi dico, ma perché?
+
+427
+00:24:42,920 --> 00:24:47,440
+C'è su YouTube, un gioco di Fortnite Zid, e lui metteva sta
+
+428
+00:24:44,920 --> 00:24:50,080
+tastiera in verticale e lui giocava così.
+
+429
+00:24:50,320 --> 00:24:54,560
+Quindi lui teneva la mano, la destra, la sinistra, a seconda, se
+
+430
+00:24:54,560 --> 00:25:00,400
+uno è mancino o meno, teneva la mano esattamente parallela al petto.
+
+431
+00:25:00,400 --> 00:25:04,080
+E se ci pensate per quanto può essere stupido, questa posizione è
+
+432
+00:25:04,080 --> 00:25:06,240
+molto più comoda rispetto a quattro ore così.
+
+433
+00:25:06,240 --> 00:25:09,040
+E quindi hai anche più movimento sulla mano.
+
+434
+00:25:09,040 --> 00:25:12,240
+Quindi, se hai le mani grandi, io ho le mani da hobbit,
+
+435
+00:25:12,240 --> 00:25:15,040
+quindi, che volete, io ho già in mano un telefono grosso, a
+
+436
+00:25:15,040 --> 00:25:16,000
+volte fa fatica.
+
+437
+00:25:16,000 --> 00:25:19,280
+Però immaginate per chi ha le mani grandi, quindi può distanziare bene
+
+438
+00:25:19,280 --> 00:25:23,520
+il mignolo e il pollice, arrivare a una combinazione di tasti su
+
+439
+00:25:23,520 --> 00:25:26,480
+una tastiera messa in verticale è più facile.
+
+440
+00:25:26,480 --> 00:25:30,640
+La devi mettere così, già ti ingombra il corpo, c'ho la scrivania,
+
+441
+00:25:30,640 --> 00:25:33,600
+mi ingombra il corpo, non posso spostarmi con l'altra show mouse e
+
+442
+00:25:33,600 --> 00:25:34,480
+diventa un casino.
+
+443
+00:25:34,480 --> 00:25:37,360
+E quindi c'è anche quello da considerare e lo devi allenare al
+
+444
+00:25:37,360 --> 00:25:40,880
+giocatore a fare queste piccole scelte, vedere se gli va bene in
+
+445
+00:25:40,880 --> 00:25:41,680
+un modo o in un altro.
+
+446
+00:25:41,680 --> 00:25:43,760
+E gli devi fare fare anche un distress.
+
+447
+00:25:43,760 --> 00:25:46,880
+Adesso basta, smetti di giocare, se va fuori a fare due tiri
+
+448
+00:25:46,960 --> 00:25:47,520
+a pallone.
+
+449
+00:25:47,520 --> 00:25:51,040
+Oppure il giocatore lo vedi che è un po' stressato perché ha
+
+450
+00:25:51,040 --> 00:25:56,160
+litigato con la fidanzata, perché è andato male una cosa a scuola,
+
+451
+00:25:56,160 --> 00:25:57,600
+perché si è svegliato male.
+
+452
+00:25:57,600 --> 00:26:00,080
+E allora c'è una persona che gli sta dietro e dice: Beh,
+
+453
+00:26:00,160 --> 00:26:01,280
+tutto bene, tranquilli.
+
+454
+00:26:01,280 --> 00:26:05,200
+Adesso parliamo di altro, raccontami i tuoi problemi, e quindi anche lì
+
+455
+00:26:05,200 --> 00:26:06,960
+il mental coach fa tanto.
+
+456
+00:26:06,960 --> 00:26:10,080
+Ho paura, non so come affrontare questo torneo.
+
+457
+00:26:10,240 --> 00:26:13,440
+C'è il mental coach, quindi non è soltanto questione di vabbè, mi
+
+458
+00:26:13,440 --> 00:26:14,000
+metto lì.
+
+459
+00:26:14,000 --> 00:26:20,480
+Tu citavi Quake Roberto, se ti ricordi allo Smow qualche millennio fa,
+
+460
+00:26:20,480 --> 00:26:25,840
+c'erano gli stand dove si giocava a Quake perché era il gioco
+
+461
+00:26:25,840 --> 00:26:28,720
+del momento e quindi c'era Quake ed era fantastico.
+
+462
+00:26:28,720 --> 00:26:32,600
+Il più bravo di questi, di questi giocatori italiani, era Cap Zeman,
+
+463
+00:26:32,600 --> 00:26:37,160
+Emanuele Zimoll, che era della nostra cricca, e lui sta è alto
+
+464
+00:26:37,160 --> 00:26:41,720
+1,80 circa, quindi già una presenza importante, e lui se ne stava
+
+465
+00:26:41,720 --> 00:26:46,760
+delle ore fra il seduto e in piedi a fraggare, lui era
+
+466
+00:26:46,760 --> 00:26:50,360
+una macchina ed è stato il miglior giocatore di Quake in Italia
+
+467
+00:26:50,360 --> 00:26:51,320
+per anni.
+
+468
+00:26:51,320 --> 00:26:54,040
+Lui ha vinto il Fragger of the Year, era andato un sacco
+
+469
+00:26:54,040 --> 00:26:57,560
+di volte sulle copertine di TGM, The Games Machine o altro, quindi
+
+470
+00:26:57,640 --> 00:26:59,880
+diciamo, non era l'ultimo arrivato.
+
+471
+00:26:59,880 --> 00:27:03,880
+E se io devo prendere Cazeman di ieri che si alzava, si
+
+472
+00:27:03,880 --> 00:27:07,400
+sedeva, addirittura non aveva tempo per mangiare, ci facevamo i turni per
+
+473
+00:27:07,400 --> 00:27:11,080
+andare a comprare il panino, portalo, perché lo smaw era gigantesco.
+
+474
+00:27:11,080 --> 00:27:14,760
+Quindi arrivare allo stand di Quake non è come adesso la Milan
+
+475
+00:27:14,840 --> 00:27:18,040
+Games Week che c'hai tutto vicino, ti dovevi fare i chilometri, esci,
+
+476
+00:27:18,040 --> 00:27:19,320
+fuori, rientra e via.
+
+477
+00:27:19,320 --> 00:27:22,760
+E quindi facevamo i turni, però lui era, se vuoi, seguito da
+
+478
+00:27:22,760 --> 00:27:24,760
+noi che eravamo i gruppi al tempo.
+
+479
+00:27:25,080 --> 00:27:29,160
+Eravamo tutti quelli del canale TGM su Irknet e stavamo lì con
+
+480
+00:27:29,160 --> 00:27:31,560
+lui, dai cap, vai, ammazza, fragga.
+
+481
+00:27:31,560 --> 00:27:34,120
+Oggi è un po' diverso, c'è sempre lo stesso tifo che è
+
+482
+00:27:34,120 --> 00:27:37,240
+amplificato dai social, però il giocatore se ne può stare seduto nella
+
+483
+00:27:37,240 --> 00:27:40,040
+sua cameretta, a meno che non sia un torneo che preveda magari
+
+484
+00:27:40,040 --> 00:27:42,440
+la presenza live, se ne sta lì e se ne sta tutto
+
+485
+00:27:42,440 --> 00:27:43,080
+ingobbito.
+
+486
+00:27:43,080 --> 00:27:45,880
+Quante possibilità di effettivamente durare?
+
+487
+00:27:46,440 --> 00:27:50,840
+Poche, perché dopo la prima settimana diventa un complemento d'arredo, è praticamente
+
+488
+00:27:50,840 --> 00:27:53,000
+una lampada curva e basta.
+
+489
+00:27:53,400 --> 00:27:57,400
+Con il giusto training sul gioco, le dinamiche di gioco, le analisi
+
+490
+00:27:57,400 --> 00:28:01,640
+e tutto, sul training fisico, il training mentale, ecco che cominciano a
+
+491
+00:28:01,640 --> 00:28:02,600
+vedersi dei risultati.
+
+492
+00:28:02,600 --> 00:28:06,280
+Se il giocatore si impegna, ci sono dei risultati nel brevissimo termine
+
+493
+00:28:06,360 --> 00:28:08,680
+che poi perdurano anche nel medio e nel lungo termine.
+
+494
+00:28:08,680 --> 00:28:11,400
+E quindi sono anche degli investimenti che vengono fatti.
+
+495
+00:28:11,400 --> 00:28:15,520
+Quindi, spendere per avere un mental coach, un gym coach e avere
+
+496
+00:28:14,840 --> 00:28:18,800
+una strumentazione particolare può sembrare una stupidaggine.
+
+497
+00:28:18,880 --> 00:28:21,280
+Perché dico: ho capito, ma questo deve giocare a un giochino, cioè
+
+498
+00:28:21,360 --> 00:28:24,960
+deve sparare, punta e spara, però, cosa vuoi che ci voglia?
+
+499
+00:28:25,520 --> 00:28:28,800
+Se vuoi fare punta e spara a livelli competitivi e battere i
+
+500
+00:28:28,800 --> 00:28:33,520
+coreani su giochi come StarCraft, devi fare queste cose e soprattutto ti
+
+501
+00:28:33,520 --> 00:28:34,640
+devi concentrare.
+
+502
+00:28:34,640 --> 00:28:38,000
+Quindi, se c'è un aiuto a monte, ben venga, perché se non
+
+503
+00:28:38,000 --> 00:28:41,600
+c'hai l'aiuto e pensi di essere la superstar, ti bruci nell'atmosfera.
+
+504
+00:28:41,760 --> 00:28:46,240
+Sì, è importantissimo questo, perché stavo facendo il parallelo mentale.
+
+505
+00:28:46,240 --> 00:28:50,160
+Appunto, con ovviamente io non sono un giocatore professionista, però ho avuto
+
+506
+00:28:50,160 --> 00:28:55,120
+il piacere di parlare con un allenatore professionista che allena a Torino.
+
+507
+00:28:55,280 --> 00:29:02,080
+Diceva che, comunque, soprattutto per chi ha giovani sottomano, io parlo intorno
+
+508
+00:29:02,080 --> 00:29:07,040
+ai 14 anni, 14-15 anni, che è un'età barordissima, raccontava che comunque
+
+509
+00:29:07,360 --> 00:29:12,800
+la questione è veramente pesante perché, soprattutto nelle squadre di calcio, essere
+
+510
+00:29:12,800 --> 00:29:16,480
+lasciato in panchina è qualcosa che ti demolisce dentro.
+
+511
+00:29:16,480 --> 00:29:20,000
+E continuare a beccarsi le panchine e non andare a giocare per
+
+512
+00:29:20,000 --> 00:29:25,280
+qualsiasi motivo ti metti in una condizione mentale veramente difficile, soprattutto quell'età.
+
+513
+00:29:25,280 --> 00:29:26,960
+Io adesso non so, Claudio.
+
+514
+00:29:26,960 --> 00:29:30,160
+Tu gli sport da che età prendono più o meno?
+
+515
+00:29:30,160 --> 00:29:34,240
+Ci sono ragazzetti di 11 anni che pensano essere dei grandi giocatori.
+
+516
+00:29:34,240 --> 00:29:39,040
+Se un'organizzazione è seria, si comincia a valutare un ragazzo dai 16
+
+517
+00:29:39,040 --> 00:29:42,240
+anni in su con l'obbligo finché non è maggiorenne, che abbia terminato
+
+518
+00:29:42,240 --> 00:29:42,720
+le scuole.
+
+519
+00:29:42,720 --> 00:29:46,080
+Almeno la nostra politica è sempre stata questa: perché tu domani ti
+
+520
+00:29:46,080 --> 00:29:50,320
+puoi infortunare, rompere un braccio, non poter giocare per tre settimane, ti
+
+521
+00:29:50,320 --> 00:29:53,200
+passa la voglia, perché magari ti viene in mente di fare qualcos'altro.
+
+522
+00:29:53,200 --> 00:29:53,680
+Cosa hai fatto?
+
+523
+00:29:53,760 --> 00:29:57,120
+Hai buttato via due anni perché cosa?
+
+524
+00:29:57,120 --> 00:30:00,840
+Quindi finisci la scuola, chiarisci ti le idee e poi ne riparliamo.
+
+525
+00:30:01,080 --> 00:30:03,160
+Subentra anche una certa maturità.
+
+526
+00:30:03,160 --> 00:30:06,920
+Quindi, se vuoi fare il giocatore occasionale, quindi il casual gamer dai
+
+527
+00:30:06,920 --> 00:30:10,280
+13, 14, 15 anni, fai quello che ti pare, divertiti con i
+
+528
+00:30:10,280 --> 00:30:14,680
+tuoi amici, fai i lamparti, come suggerivano dalla chat, che adesso non
+
+529
+00:30:14,680 --> 00:30:17,320
+si usano più, però si facevano, io li ho fatti, io ho
+
+530
+00:30:17,320 --> 00:30:21,800
+fatti, fai le cose io un sacco e li ho fatti da
+
+531
+00:30:21,800 --> 00:30:24,680
+adulto, tra l'altro, bravo, bravo!
+
+532
+00:30:24,760 --> 00:30:27,240
+Ma quelle sono cose che non si dimenticano, e cioè, una volta
+
+533
+00:30:27,240 --> 00:30:30,360
+che hai cominciato, non finisci più, non smetti più?
+
+534
+00:30:30,760 --> 00:30:34,440
+Perché poi, avendo l'ufficio e avendo tutta la rete cablata, giocavamo in
+
+535
+00:30:34,440 --> 00:30:41,080
+ufficio qui Mac addirittura, i Mac che è una esperienza, l'abbiamo fatto
+
+536
+00:30:41,080 --> 00:30:45,400
+in facoltà, in facoltà si faceva perché avevamo appunto tutti i computer
+
+537
+00:30:45,400 --> 00:30:46,680
+abbastanza vicini.
+
+538
+00:30:46,680 --> 00:30:49,800
+C'era ovviamente non a livello di Claudio, ma c'era qualcuno che riusciva
+
+539
+00:30:49,880 --> 00:30:54,360
+a metterci le mani dentro e quindi con il sistemista compiacente, magari
+
+540
+00:30:54,680 --> 00:30:57,240
+verso le sei e mezza di sera, le sette.
+
+541
+00:30:57,240 --> 00:31:00,840
+Che insomma, gli studenti erano già fuori tutti dalle scatole, avevamo noi
+
+542
+00:31:01,000 --> 00:31:03,000
+quelli della cricca dell'informatica.
+
+543
+00:31:03,000 --> 00:31:06,920
+Che eravamo lì, che giocavamo e facevamo ovviamente i nostri parti, chiamiamoli
+
+544
+00:31:06,920 --> 00:31:08,440
+così, ci divertivamo un sacco.
+
+545
+00:31:08,440 --> 00:31:12,920
+A proposito, ecco adesso aspetta Roberto, perché ho un terribile segreto, una
+
+546
+00:31:12,920 --> 00:31:13,800
+confessione da fare.
+
+547
+00:31:14,440 --> 00:31:19,320
+Io ho fatto le superiori a Firenze, istituto Albert Einstein per programmatori,
+
+548
+00:31:19,320 --> 00:31:23,160
+e nell'aula di informatica avevole sezioni per ragionieri normali, quelli che io
+
+549
+00:31:23,160 --> 00:31:24,680
+chiamavo gli sfigati.
+
+550
+00:31:25,160 --> 00:31:26,920
+Tutta una vita passata sui numeri.
+
+551
+00:31:26,920 --> 00:31:33,320
+No, aspetta, aspetta, però mi sto rivedendo perché adesso, lavorando alla piattaforma
+
+552
+00:31:33,320 --> 00:31:36,840
+Ransomfeed che abbiamo a che fare io e Claudio ogni giorno con
+
+553
+00:31:36,840 --> 00:31:38,280
+un sacco di numeri.
+
+554
+00:31:38,280 --> 00:31:42,880
+Ti giuro che maledico le volte che ho maledetto, di ragionieri.
+
+555
+00:31:42,960 --> 00:31:46,880
+Comunque il karma noi delle classi, è il karma che torna sempre.
+
+556
+00:31:47,040 --> 00:31:50,640
+Io, ovviamente, stavo nella classe dei programmatori, c'erano poche ragazze, perché al
+
+557
+00:31:50,640 --> 00:31:52,960
+tempo il programmatore si figurati, è un uomo.
+
+558
+00:31:53,520 --> 00:31:56,560
+Comunque eravamo piuttosto cazzute fra tutte.
+
+559
+00:31:56,720 --> 00:31:59,680
+Le ricordo con piacere le altre ragazze, spero che abbiano avuto una
+
+560
+00:31:59,680 --> 00:32:01,920
+carriera fulminante nel senso buono.
+
+561
+00:32:01,920 --> 00:32:03,040
+Sì, sì, certo.
+
+562
+00:32:03,040 --> 00:32:08,160
+Ovviamente avevamo una sala computer dove i computer erano collegati, ovviamente tutti
+
+563
+00:32:08,160 --> 00:32:11,040
+al serverino centrale che era lì dentro.
+
+564
+00:32:11,280 --> 00:32:15,920
+L'accesso a questa sala era relativamente libero, nel senso che chiedevi al
+
+565
+00:32:15,920 --> 00:32:18,080
+professore che ti dava la chiave, tu uscivi e andavi a finire
+
+566
+00:32:18,160 --> 00:32:21,840
+il tuo programma, le tue compilazioni in cobalt e tutto il resto.
+
+567
+00:32:21,840 --> 00:32:25,680
+Succede che un giorno io non avevo finito i compiti.
+
+568
+00:32:25,680 --> 00:32:30,240
+Allora, io Secchiona, proprio Secchiona come poche, non avevo finito il compito
+
+569
+00:32:30,240 --> 00:32:32,000
+perché ero andata via.
+
+570
+00:32:32,000 --> 00:32:35,280
+E mi ero fatta una settimana di vacanza con la mia mamma,
+
+571
+00:32:35,280 --> 00:32:38,880
+eravamo andate in Egitto e quindi io non c'ero, quindi il compito
+
+572
+00:32:38,880 --> 00:32:41,040
+non l'ho finito, ma ti puoi figurare cosa me ne frega a
+
+573
+00:32:41,040 --> 00:32:42,080
+me di finire un compito.
+
+574
+00:32:42,080 --> 00:32:44,960
+Ovviamente si dicevano queste cose, a professore non ci sono, mi scusi
+
+575
+00:32:45,040 --> 00:32:47,520
+quelli là, però era una cosa importante perché dovevamo fare un lavoro
+
+576
+00:32:47,520 --> 00:32:48,160
+a gruppi.
+
+577
+00:32:48,160 --> 00:32:53,040
+E siccome io avrei messo in cattiva luce la mia compagna di
+
+578
+00:32:53,040 --> 00:32:57,040
+progetto, cominciava a pesarmi questa cosa.
+
+579
+00:32:57,040 --> 00:33:01,360
+E quindi il giorno in cui si dovevano presentare tutti i programmi,
+
+580
+00:33:01,360 --> 00:33:04,560
+poi il professore sarebbe andato in ferie quindi avevamo altre due settimane
+
+581
+00:33:04,560 --> 00:33:06,080
+per fare la nostra cosa.
+
+582
+00:33:06,080 --> 00:33:11,600
+Su tutti i computer ha girato il Grand Prix della Accolade sugli
+
+583
+00:33:12,400 --> 00:33:17,200
+80-80, con una scheda tendita a 16 colori, e nessuno riusciva più
+
+584
+00:33:17,200 --> 00:33:17,760
+ad accedere.
+
+585
+00:33:18,560 --> 00:33:22,800
+Io lo faccio pubblicamente a me: mi dispiace, ho fatto questa brutta
+
+586
+00:33:23,040 --> 00:33:23,480
+cosa.
+
+587
+00:33:23,480 --> 00:33:26,160
+Tuttavia per una buona causa.
+
+588
+00:33:26,160 --> 00:33:29,680
+Ecco, l'ho detto adesso, dopo tanti anni, mi sento meglio, spero che
+
+589
+00:33:29,680 --> 00:33:33,320
+non ci sia più quel professore lì perché penso che potrebbe venirmi
+
+590
+00:33:29,840 --> 00:33:34,120
+veramente a prendere.
+
+591
+00:33:34,680 --> 00:33:38,120
+Vedi, lo sapevo chi eri stato, lo sapevo perché me l'ha detto.
+
+592
+00:33:38,120 --> 00:33:40,040
+Secondo me c'entri qualcosa.
+
+593
+00:33:40,040 --> 00:33:42,280
+No, professore, io sono innocentissimo.
+
+594
+00:33:42,280 --> 00:33:45,560
+Ero in Egitto come facevo a organizzarmi,
+
+595
+00:33:47,800 --> 00:33:52,680
+ecco, giusto per capire di che caratura è guarda, meno male che
+
+596
+00:33:52,680 --> 00:33:55,560
+non siamo stati nella stessa facoltà, perché succedeva un casino.
+
+597
+00:33:55,560 --> 00:33:58,760
+Tutto prescritto, tutto prescritto per fortuna.
+
+598
+00:33:59,720 --> 00:34:00,760
+Meno male, meno male.
+
+599
+00:34:00,760 --> 00:34:05,080
+Comunque, davvero, anche questo aspetto interessante di mettere in difficoltà i computer
+
+600
+00:34:05,080 --> 00:34:06,360
+per riuscire a cavarsela.
+
+601
+00:34:06,440 --> 00:34:07,960
+Veramente massimo rispetto.
+
+602
+00:34:07,960 --> 00:34:09,960
+Ottimo, veramente bello stratagemma.
+
+603
+00:34:10,200 --> 00:34:13,160
+Prendete nota, soprattutto i più giovani.
+
+604
+00:34:13,240 --> 00:34:15,560
+No, no, non si fa, no, sono brutte cose, non si fanno,
+
+605
+00:34:16,440 --> 00:34:17,960
+non si smurfa nessuno.
+
+606
+00:34:17,960 --> 00:34:21,240
+Simone, sto parlando di te, non si smurfa nessuno, perché poi un
+
+607
+00:34:21,240 --> 00:34:23,080
+giorno non sai con chi ti ritrovi.
+
+608
+00:34:23,240 --> 00:34:26,520
+Ecco, esatto, ti ho fatto una piccola digressione anche su Simone, un
+
+609
+00:34:26,520 --> 00:34:29,160
+amico anche lui di vecchia data di Irknet.
+
+610
+00:34:29,160 --> 00:34:33,560
+Ormai noi vecchi ci conosciamo tutti, cioè vecchi loro, io rimarrò sempre
+
+611
+00:34:33,560 --> 00:34:36,040
+giovane perché bevo sangue di bambini e di unicorno.
+
+612
+00:34:36,040 --> 00:34:38,520
+Quindi mi dissocio da quello che ho appena detto.
+
+613
+00:34:39,400 --> 00:34:40,600
+Ok, va bene.
+
+614
+00:34:40,920 --> 00:34:43,640
+Tra l'altro, a proposito, prendo la palla al balzo che ci avevo
+
+615
+00:34:43,640 --> 00:34:45,160
+in mente prima mi sono dimenticato.
+
+616
+00:34:45,160 --> 00:34:47,640
+Ringrazio tutti quelli che sono in chat che io non vedo perché
+
+617
+00:34:47,640 --> 00:34:51,720
+io ho la linea Creceti e quindi è meglio che stia meno
+
+618
+00:34:51,720 --> 00:34:53,800
+attaccato alla chat possibile.
+
+619
+00:34:53,800 --> 00:34:57,480
+Ringrazio tutti quanti, saluto tutti quanti chiunque si siano.
+
+620
+00:34:57,800 --> 00:35:00,360
+Mi raccomando, mettete in difficoltà Filippo.
+
+621
+00:35:00,360 --> 00:35:04,040
+Mi raccomando, perché lui la sta guardando, mettetelo in difficoltà, così almeno
+
+622
+00:35:04,040 --> 00:35:04,840
+si diverte.
+
+623
+00:35:04,840 --> 00:35:06,960
+Ma senti, prima ci hai parlato di Mac.
+
+624
+00:35:06,960 --> 00:35:10,680
+E ovviamente qua siamo su due podcast e ci raccontiamo tutte le
+
+625
+00:35:10,680 --> 00:35:15,360
+nostre piccole cavolate che facciamo sul Mac, ovviamente piccole perché insomma ci
+
+626
+00:35:14,680 --> 00:35:17,200
+sono io di mezzo che abbasso la media.
+
+627
+00:35:17,520 --> 00:35:21,920
+Quindi raccontaci invece: che io sono molto curioso, tutti abbiamo avuto un
+
+628
+00:35:21,920 --> 00:35:23,120
+inizio sul Mac.
+
+629
+00:35:23,280 --> 00:35:25,840
+Io mi ricordo il primo Mac che ho visto, l'ho visto da
+
+630
+00:35:25,840 --> 00:35:29,520
+un compagno di classe alle superiori, ho visto questo scubotto grigio che
+
+631
+00:35:29,520 --> 00:35:32,880
+mi piaceva come forma, però non sapevo a cosa servisse, avevo una
+
+632
+00:35:32,880 --> 00:35:35,200
+minima idea di come potesse funzionare.
+
+633
+00:35:35,200 --> 00:35:38,000
+La seconda volta che ho visto un Mac che era in facoltà,
+
+634
+00:35:38,000 --> 00:35:43,120
+come racconto sempre a tutti, rendetevi conto di quanto è stato ghettizzato
+
+635
+00:35:43,120 --> 00:35:45,040
+il Mac all'interno della facoltà di architettura.
+
+636
+00:35:45,040 --> 00:35:46,640
+Cioè, siamo al Politecnico di Torino.
+
+637
+00:35:46,880 --> 00:35:51,440
+Stiamo parlando non proprio della facoltà dietro casa, c'era al centro di
+
+638
+00:35:51,440 --> 00:35:53,440
+questa facoltà, che era il
+
+639
+00:35:55,280 --> 00:35:56,560
+Castello del Valentino.
+
+640
+00:35:56,560 --> 00:36:01,760
+C'era praticamente quasi nel baricentro, c'erano due aule enormi con qualcosa come
+
+641
+00:36:01,760 --> 00:36:06,720
+50 computer lì a disposizione degli studenti, ma PC.
+
+642
+00:36:06,720 --> 00:36:13,120
+Invece, il Mac era messo nell'angolo più estremo della facoltà, era in
+
+643
+00:36:13,120 --> 00:36:14,720
+un angolo, non sto scherzando,
+
+644
+00:36:15,840 --> 00:36:18,800
+già c'era una cosa positiva, scusami.
+
+645
+00:36:18,800 --> 00:36:23,840
+Sì, ce n'erano due, due, ce n'erano, c'erano due i Mac eantenato
+
+646
+00:36:23,840 --> 00:36:24,640
+del Mac Pro.
+
+647
+00:36:24,640 --> 00:36:28,960
+In ogni caso, lì sì, mi sono innamorato perché era proprio la
+
+648
+00:36:28,960 --> 00:36:31,440
+stagione in cui ci ha messo le mani Gianni Have ed erano
+
+649
+00:36:31,440 --> 00:36:33,680
+belli colorati ed erantissimi.
+
+650
+00:36:33,680 --> 00:36:38,480
+Purtroppo i programmi per gli architetti all'epoca non funzionavano, quindi ho dovuto
+
+651
+00:36:38,480 --> 00:36:40,000
+abbandonare la questione.
+
+652
+00:36:40,000 --> 00:36:44,000
+Invece, la nostra simpatica Claudia, come hai conosciuto tu il Mac?
+
+653
+00:36:44,000 --> 00:36:48,320
+Perché sono molto molto curioso di sentire dalle tue vive parole come
+
+654
+00:36:48,480 --> 00:36:48,800
+andavi.
+
+655
+00:36:48,960 --> 00:36:54,320
+Sono sempre stato a mainstream con i computer assemblati, Windows, i Pentium,
+
+656
+00:36:54,320 --> 00:36:58,800
+ho cominciato con gli Spectrum, poi programmazione sua Miga Commodore 64 e
+
+657
+00:36:58,960 --> 00:37:03,960
+128 e poi i primi PC con MS addosso sopra, c'è ancora
+
+658
+00:37:04,040 --> 00:37:08,360
+i manuali operativi, Windows, tutte queste belle cose qui.
+
+659
+00:37:08,360 --> 00:37:12,120
+Ho sempre un po' schifato, perdonatemi il termine, quelli col Mac perché
+
+660
+00:37:12,120 --> 00:37:12,760
+diceva.
+
+661
+00:37:13,080 --> 00:37:18,120
+I fighetti hanno in giro quella roba lì celeste, rosina, giallena, ma
+
+662
+00:37:18,120 --> 00:37:18,760
+figura!
+
+663
+00:37:18,760 --> 00:37:21,800
+Poi Roberto ti scedo un po' a te, il fighetto che va
+
+664
+00:37:21,800 --> 00:37:25,800
+all'università col Mac lì, schifo veramente gli altri con i PC.
+
+665
+00:37:25,880 --> 00:37:29,560
+No, io ero lì che sbavavo, ero quello che sbavavo a guardare
+
+666
+00:37:29,560 --> 00:37:33,320
+i Mac e dicevo che devo lavorare su queste macchine grigie, brutte
+
+667
+00:37:33,320 --> 00:37:34,920
+che scaldano grigio
+
+668
+00:37:36,040 --> 00:37:36,200
+.
+
+669
+00:37:36,760 --> 00:37:37,800
+Una volta erano beige
+
+670
+00:37:39,160 --> 00:37:40,520
+che era schifo
+
+671
+00:37:41,960 --> 00:37:46,200
+per me era grigio, era un grigio ciliegia e chi segue snapper
+
+672
+00:37:46,280 --> 00:37:47,320
+sa cosa vuol dire.
+
+673
+00:37:47,560 --> 00:37:52,440
+Sì, beh, sui colori ne potremmo parlare, però comunque danno veramente il
+
+674
+00:37:52,440 --> 00:37:53,800
+senso di piattume.
+
+675
+00:37:53,800 --> 00:37:56,360
+E io però gli schifavo i Mac, dicevo, ma che schifo quella
+
+676
+00:37:56,360 --> 00:37:59,480
+roba lì, ma figurate, ma cosa ci faranno mai per farci due
+
+677
+00:37:59,480 --> 00:38:02,680
+graficchine, due aggeggini, figurati.
+
+678
+00:38:02,760 --> 00:38:06,040
+Tanto la connessione è sempre quella: chi ha visto i Simpson sa
+
+679
+00:38:06,040 --> 00:38:11,560
+esattamente il download dell'uomo fumetti a zero bytecti.
+
+680
+00:38:11,720 --> 00:38:15,720
+Quindi che tu usi un Mac, che tu usi un assemblato Windows,
+
+681
+00:38:15,960 --> 00:38:16,680
+stessa roba.
+
+682
+00:38:16,680 --> 00:38:19,240
+Mi è capitato per caso di avere un iPhone.
+
+683
+00:38:19,240 --> 00:38:22,600
+Io che andavo sempre con i motori a Lamining che non uscivano
+
+684
+00:38:22,600 --> 00:38:27,400
+mai in Europa perché erano tutti solo per il mercato asiatico, le
+
+685
+00:38:27,400 --> 00:38:29,640
+rom modate più particolari.
+
+686
+00:38:29,640 --> 00:38:32,840
+Mi si rompe il telefono, mi danno un iPhone, era il 4S,
+
+687
+00:38:32,840 --> 00:38:35,800
+stava per uscire il 5, quindi te li buttavano via proprio.
+
+688
+00:38:35,800 --> 00:38:39,400
+Mi si rompe anche il computer e lo stesso tizio mi fa:
+
+689
+00:38:39,400 --> 00:38:40,760
+Senti, era un po'.
+
+690
+00:38:40,760 --> 00:38:43,320
+Sapete il rivenditore dello spillo alla balena, no?
+
+691
+00:38:43,400 --> 00:38:45,440
+Quello che dice, Ok, se hai bisogno di un telefono, ti do
+
+692
+00:38:44,840 --> 00:38:47,920
+il telefono, se hai bisogno di un automobile, ti do quella.
+
+693
+00:38:45,000 --> 00:38:51,920
+Ho anche un posto sul prossimo shuttle che sta andando ad Erisium.
+
+694
+00:38:52,160 --> 00:38:54,640
+Quindi quello che vuoi chiedi se in buone mani.
+
+695
+00:38:54,640 --> 00:38:56,240
+Io pensavo di far riparare il mio computer.
+
+696
+00:38:56,240 --> 00:38:59,840
+Ho detto: nel frattempo, dammi qualcosa sul quale posso lavorare e mi
+
+697
+00:38:59,840 --> 00:39:01,680
+dà un MacBook proprio.
+
+698
+00:39:02,720 --> 00:39:08,160
+Io prendo questa roba grossa, grossa, comunque un portatile, ma io ero
+
+699
+00:39:08,160 --> 00:39:11,440
+abituata con gli alienware che il mio alien ce l'ho ancora.
+
+700
+00:39:11,440 --> 00:39:15,920
+Sono 5 kg e mezzo di computer senza alimentatore con degli spinotti
+
+701
+00:39:15,920 --> 00:39:20,640
+che nemmeno la NASA li utilizza per far partire gli shuttle.
+
+702
+00:39:20,640 --> 00:39:21,120
+Veramente.
+
+703
+00:39:21,120 --> 00:39:24,480
+E da sta roba io l'accendo e dico: ma sta roba qui
+
+704
+00:39:24,560 --> 00:39:26,320
+intanto comincia col suono bene
+
+705
+00:39:28,480 --> 00:39:28,640
+!
+
+706
+00:39:29,360 --> 00:39:31,120
+Ma il mio c'è il tema dei Muppet.
+
+707
+00:39:31,760 --> 00:39:35,520
+Io piggio starto sul mio Alino e parte il tema dei Muppet.
+
+708
+00:39:35,520 --> 00:39:37,760
+C'è mi spighi, io sono felice.
+
+709
+00:39:37,760 --> 00:39:38,800
+Tutti i puntatori.
+
+710
+00:39:38,960 --> 00:39:43,920
+Io sono fanatica del modding, quindi lo screen saver, c'era Kermit, e
+
+711
+00:39:43,920 --> 00:39:46,640
+poi tutti i puntatori, a seconda di quello che erano tutti i
+
+712
+00:39:46,640 --> 00:39:50,240
+set custom dei Muppet e di tutto, e questo qui invece, serio,
+
+713
+00:39:50,240 --> 00:39:53,920
+rigoroso, non perdeva un pelo, avevo quasi paura a toccare i tasti
+
+714
+00:39:53,920 --> 00:39:57,840
+perché adesso, questo mi schifa veramente invece, te non sei degna.
+
+715
+00:39:58,800 --> 00:40:03,680
+È stato un approccio leggermente freddo, ci studiavamo a distanza.
+
+716
+00:40:03,760 --> 00:40:06,400
+Lui che mi guardava e mi diceva: Ma te sei proprio sicura
+
+717
+00:40:06,400 --> 00:40:07,760
+che vuoi usarmi?
+
+718
+00:40:07,760 --> 00:40:11,040
+Perché secondo me devi tornare da quello di là, non da me.
+
+719
+00:40:11,040 --> 00:40:14,000
+E io che cercavo un po' di farmelo amico perché non riuscivo
+
+720
+00:40:14,000 --> 00:40:17,120
+ancora a capire e c'aveva le icone spostate, la X stava da
+
+721
+00:40:17,120 --> 00:40:20,560
+un'altra parte, il colore, no, è il PG quello non funziona un
+
+722
+00:40:20,560 --> 00:40:21,040
+caio.
+
+723
+00:40:21,040 --> 00:40:22,080
+Dov'è il control?
+
+724
+00:40:22,080 --> 00:40:24,400
+Non c'è, ma sì, è sta roba qua e questa freccia qui
+
+725
+00:40:24,400 --> 00:40:25,040
+che vuol dire?
+
+726
+00:40:25,040 --> 00:40:26,400
+Cioè, è stato un trauma.
+
+727
+00:40:26,400 --> 00:40:29,480
+Quattro giorni dopo mi fa sempre lumina um
+
+728
+00:40:29,840 --> 00:40:35,720
+: se vuoi ti riparo il computer, guarda, lascia perdere, vendimi quelli.
+
+729
+00:40:36,360 --> 00:40:36,840
+Ma come?
+
+730
+00:40:36,840 --> 00:40:38,840
+Ma hai guardato schifata?
+
+731
+00:40:38,840 --> 00:40:41,880
+Che ti ho dato una roba che manco sapevi pronunciare, e adesso
+
+732
+00:40:42,440 --> 00:40:43,000
+è amore.
+
+733
+00:40:43,000 --> 00:40:44,200
+Amore, veramente di quelli.
+
+734
+00:40:44,200 --> 00:40:47,720
+Sai quelli che ti capitano una volta sola per la tecnologia, per
+
+735
+00:40:47,720 --> 00:40:48,280
+le persone.
+
+736
+00:40:48,280 --> 00:40:51,720
+Quello che dici, ok, io ti conosco da tre giorni e so
+
+737
+00:40:51,720 --> 00:40:53,400
+che sei il Mac per me.
+
+738
+00:40:53,960 --> 00:40:56,680
+Sei punto, non ci sarà mai nient'altro.
+
+739
+00:40:56,920 --> 00:41:00,840
+Infatti, sono al secondo MacBook Pro e non ho intenzione di mollare.
+
+740
+00:41:00,840 --> 00:41:04,280
+Si è aggiunto un iPad nel frattempo, sono al non so quale
+
+741
+00:41:04,280 --> 00:41:08,440
+generazione di telefono, però tutto iPhone, sono diventato un Apple Fan.
+
+742
+00:41:08,680 --> 00:41:11,320
+Benvenuta benvenuta nella squadra.
+
+743
+00:41:11,320 --> 00:41:11,640
+Grazie.
+
+744
+00:41:11,800 --> 00:41:16,680
+Io spezzo una lancia perché a me quello che aveva colpito subito
+
+745
+00:41:16,680 --> 00:41:20,440
+del Mac quando ho avuto possibilità di confrontarlo con Windows.
+
+746
+00:41:20,440 --> 00:41:23,400
+Io ero innamorato, anzo, non sono ancora adesso.
+
+747
+00:41:23,400 --> 00:41:25,800
+Innamorato perso dell'interfaccia grafica.
+
+748
+00:41:25,800 --> 00:41:30,280
+Era uscito acqua e all'epoca c'era Windows 95, cioè era un altro
+
+749
+00:41:30,280 --> 00:41:33,000
+mondo e l'ha distrutto completamente.
+
+750
+00:41:33,000 --> 00:41:37,240
+Tant'è che avevo anch'io modato il mio simpatico Windows 95 con le
+
+751
+00:41:37,240 --> 00:41:42,520
+skin che mi permettessero di avere un'interfaccia molto simile ad acqua su
+
+752
+00:41:42,520 --> 00:41:45,080
+Windows, e un po' me lo sono fatto andare bene.
+
+753
+00:41:45,080 --> 00:41:50,120
+Poi ho dovuto arrendermi, perché comunque mi sono scontato con altre cose
+
+754
+00:41:50,120 --> 00:41:53,080
+di Windows che incominciavano a starmi sullo stomaco, e poi sono passato
+
+755
+00:41:53,080 --> 00:41:53,960
+al Mac anchema.
+
+756
+00:41:54,040 --> 00:41:58,040
+Ma c'è una grandissima community, scusa Roberto, di persone che
+
+757
+00:41:59,080 --> 00:42:01,480
+utilizzavano sistemi operativi differenti.
+
+758
+00:42:01,480 --> 00:42:06,680
+Io stessa, anche mentre stavo usando il Mac, comunque utilizzavo Linux, FreeBSD
+
+759
+00:42:06,680 --> 00:42:11,640
+e altro, e quindi io utilizzavo come temi di default KDE, che
+
+760
+00:42:11,640 --> 00:42:16,560
+è la parte per Linux, e Enlightenment anche per BSD, e c'erano
+
+761
+00:42:13,960 --> 00:42:19,440
+un sacco di mod per me, cioè per
+
+762
+00:42:19,760 --> 00:42:22,720
+questi sistemi basati sull'interfaccia di Mac.
+
+763
+00:42:22,720 --> 00:42:26,320
+E io ai tempi li schifavo dopo, quando ho avuto la possibilità
+
+764
+00:42:26,320 --> 00:42:30,480
+di mettere il nuovo Enlightenment con un tema che mi ricordava molto
+
+765
+00:42:30,560 --> 00:42:32,800
+quindi l'emulazione del Mac.
+
+766
+00:42:32,800 --> 00:42:36,800
+Io quello non l'ho aggiornato più perché so che quel tema lì
+
+767
+00:42:36,800 --> 00:42:38,720
+non è più supportato, quindi perderei tutto.
+
+768
+00:42:38,720 --> 00:42:40,000
+Ma io lo tengo ancora così.
+
+769
+00:42:40,000 --> 00:42:44,720
+Cioè, io apro la mia Kali Linux qua ed è tutta bellina.
+
+770
+00:42:45,120 --> 00:42:47,920
+Siga per chi non sa cosa Kali Linux, però perché
+
+771
+00:42:50,640 --> 00:42:52,560
+è una distribuzione Linux,
+
+772
+00:42:53,840 --> 00:42:57,840
+no, diciamo, una distribuzione Linux un po' particolare, studiata per chi magari
+
+773
+00:42:57,840 --> 00:43:02,240
+ha voglia di capire un po' come funziona il mondo delle persone
+
+774
+00:43:02,240 --> 00:43:06,640
+brutte cattive, e capire un po' che cosa c'è dietro.
+
+775
+00:43:06,640 --> 00:43:10,160
+Also ho bucato la NASA, grazie.
+
+776
+00:43:10,160 --> 00:43:12,560
+Cioè, cosa che stiamo parlando?
+
+777
+00:43:12,560 --> 00:43:17,840
+E quindi è informativa, divulgativa, se vogliamo, non viene usata per scopi
+
+778
+00:43:17,840 --> 00:43:22,560
+cattivi e quindi fate attenzione, lo dovevo dire da contratto.
+
+779
+00:43:22,800 --> 00:43:23,920
+Ok, va benissimo.
+
+780
+00:43:23,920 --> 00:43:28,000
+Io volevo fare due domande per quanto riguarda Claudio, ovviamente.
+
+781
+00:43:28,000 --> 00:43:31,200
+La prima che mi viene in mente è come fa una persona
+
+782
+00:43:31,200 --> 00:43:38,960
+come te che è così eclettica e così diciamo legata all'informatica e
+
+783
+00:43:38,960 --> 00:43:44,160
+alla sicurezza, a riuscire a stare in una cosa che praticamente è
+
+784
+00:43:44,160 --> 00:43:48,720
+il contrario del tuo eclettismo, perché non ti permette di essere libera,
+
+785
+00:43:48,720 --> 00:43:52,000
+che è la gabbia dorata del Mac e di Apple.
+
+786
+00:43:52,000 --> 00:43:55,760
+Questa è una cosa che mentre parlo, diciamo: Ma come è possibile
+
+787
+00:43:55,760 --> 00:44:01,560
+che è riuscita a trovare il modo di non sentirsi ingabbiata?
+
+788
+00:44:01,800 --> 00:44:05,080
+Non ho una risposta a questa, cioè, penso che una volta che
+
+789
+00:44:05,080 --> 00:44:09,080
+segui il tuo istinto, anzi, guarda, ti rispondo con una citazione: Hack
+
+790
+00:44:09,160 --> 00:44:09,880
+the World.
+
+791
+00:44:09,880 --> 00:44:11,080
+Ok, va bene
+
+792
+00:44:12,280 --> 00:44:15,000
+quindi e questo rinchiude veramente tutto.
+
+793
+00:44:15,000 --> 00:44:18,840
+Ok, benissimo, invece, la seconda domanda che ti volevo fare era avrei
+
+794
+00:44:18,840 --> 00:44:20,040
+conosciuto BeOS?
+
+795
+00:44:20,040 --> 00:44:20,520
+Vero?
+
+796
+00:44:20,520 --> 00:44:22,520
+Sì piaceva?
+
+797
+00:44:22,840 --> 00:44:25,320
+No, no, era troppo giallo
+
+798
+00:44:26,840 --> 00:44:27,800
+, allora.
+
+799
+00:44:27,800 --> 00:44:29,880
+Io ho un problema con i colori.
+
+800
+00:44:29,880 --> 00:44:32,760
+Nel senso che per me tutto deve essere in un certo modo,
+
+801
+00:44:32,760 --> 00:44:38,040
+deve avere un certo stile, deve essere l'esatta corrispondenza tra quello che
+
+802
+00:44:38,040 --> 00:44:40,840
+vuoi comunicare e quello che sei effettivamente.
+
+803
+00:44:40,840 --> 00:44:43,160
+Quindi non ci possono essere cose strane.
+
+804
+00:44:43,160 --> 00:44:46,120
+Quindi qualsiasi cosa io faccio, anche lo sticker che va sul mio
+
+805
+00:44:46,120 --> 00:44:49,480
+Mac e non ci sono sticker sul mio Mac, deve essere fatto
+
+806
+00:44:49,480 --> 00:44:52,200
+in un certo modo, e se non è fatto come dico io,
+
+807
+00:44:52,200 --> 00:44:52,760
+non c'è.
+
+808
+00:44:52,760 --> 00:44:58,200
+Quando ci sono sistemi operativi come quella roba che hai citato tu,
+
+809
+00:44:58,200 --> 00:45:02,360
+in una lingua che non ripeterò qui, che non pronuncerò qui, per
+
+810
+00:45:02,360 --> 00:45:04,920
+me non andava bene, cioè mi dava fastidio.
+
+811
+00:45:04,920 --> 00:45:08,120
+Probabilmente questo è un disturbo dello spettro autistico, forse sono autistica, non
+
+812
+00:45:08,120 --> 00:45:10,600
+lo so, ma le mie psicosi ce le ho, ma tranquillo.
+
+813
+00:45:10,600 --> 00:45:12,920
+Ma io non riesco a lavorare con certe cose.
+
+814
+00:45:12,920 --> 00:45:15,880
+E a me una cosa se la vedo e non trasmetto una
+
+815
+00:45:15,880 --> 00:45:17,880
+sensazione positiva, per me è schifo.
+
+816
+00:45:18,360 --> 00:45:23,240
+Ci sono persone che la chiamano sinestesia, altri gli psicologi che vengono
+
+817
+00:45:23,240 --> 00:45:27,160
+pagati i fior fior di quattro la chiamano disturbo psicologico.
+
+818
+00:45:27,160 --> 00:45:29,960
+Io non so se sto a metà fra uno e l'altro, però
+
+819
+00:45:29,960 --> 00:45:32,120
+i miei BeOS no, grazie.
+
+820
+00:45:32,120 --> 00:45:35,240
+Ok, ma è la stessa cosa che per me è Windows, nel
+
+821
+00:45:35,240 --> 00:45:38,520
+senso che avevo proprio una sensazione di fastidio quando lo usavo.
+
+822
+00:45:38,760 --> 00:45:41,440
+Non l'ho capito finché non ho cambiato sistema.
+
+823
+00:45:41,440 --> 00:45:44,680
+E comunque non ti sentire così strana, anche per me è importantissima
+
+824
+00:45:44,680 --> 00:45:45,760
+la grafica, e la
+
+825
+00:45:45,920 --> 00:45:49,120
+cosa che mi ha fatto scegliere per prima l'interfaccia grafica del Mac
+
+826
+00:45:44,840 --> 00:45:50,080
+rispetto a Windows.
+
+827
+00:45:50,320 --> 00:45:55,200
+Io mi sentivo veramente quasi castigato a lavorare su Windows, ma non
+
+828
+00:45:55,200 --> 00:45:58,800
+tanto perché in Windows bisogna parlarne male, io sono sul Mac, perché
+
+829
+00:45:58,960 --> 00:46:00,480
+proprio mi sentivo male.
+
+830
+00:46:00,480 --> 00:46:04,960
+Quindi capisco benissimo cosa vuol dire, magari vedere BOS ti viene un
+
+831
+00:46:04,960 --> 00:46:05,440
+po'.
+
+832
+00:46:06,720 --> 00:46:10,160
+A me è piaciuto tantissimo, devo dire, perché anche l'interfaccia grafica mi
+
+833
+00:46:10,160 --> 00:46:11,120
+piaceva un sacco.
+
+834
+00:46:11,120 --> 00:46:16,560
+Però capisco bene quello che vuoi dire e sposo il bello dell'informatica,
+
+835
+00:46:16,720 --> 00:46:17,360
+anche quella.
+
+836
+00:46:17,360 --> 00:46:21,280
+Comunque, una cosa che invece vorrei intanto sapere: speriamo che riuscirai a
+
+837
+00:46:21,280 --> 00:46:25,120
+condividerla, non so, con gli ascoltatori, perché è una cosa molto visiva.
+
+838
+00:46:25,120 --> 00:46:28,080
+Tuttavia molto curioso di vedere il tuo Mac
+
+839
+00:46:29,200 --> 00:46:34,880
+come l'hai sistemato dal punto di vista delle icone, dell'interfaccia, come sei
+
+840
+00:46:34,960 --> 00:46:35,760
+intervenito.
+
+841
+00:46:35,760 --> 00:46:40,320
+Sei intervenuta scusa, e soprattutto bisogna dirlo, anche se non sarebbe dirlo,
+
+842
+00:46:40,320 --> 00:46:45,280
+se per caso quando eri molto giovane, hai jailbreccato l'iPhone, ho avuto
+
+843
+00:46:45,600 --> 00:46:52,320
+allora il 4S l'iPhone a settembre, era la fine di settembre, credo
+
+844
+00:46:52,320 --> 00:46:54,560
+il 4 ottobre aveva già sul gel break.
+
+845
+00:46:54,800 --> 00:46:57,840
+Mi sono fermata al gel break il 5.1, perché dopo non veniva
+
+846
+00:46:57,920 --> 00:46:58,800
+più supportato.
+
+847
+00:46:58,800 --> 00:47:04,000
+Addirittura rompevo le scatole al developer del jail perché ho trovato il
+
+848
+00:47:04,000 --> 00:47:04,800
+suo indirizzo email.
+
+849
+00:47:04,880 --> 00:47:07,680
+Quindi io praticamente ero un mail bombing in quotidiano, ma senti, ma
+
+850
+00:47:07,680 --> 00:47:10,000
+questa cosa qui, ma quest'altra cosa qua, ma quella lì.
+
+851
+00:47:10,000 --> 00:47:12,400
+Lui a un certo punto mi ha messo probabilmente in ban liste
+
+852
+00:47:12,560 --> 00:47:15,040
+perché ho detto, mai rotto veramente le balle, basta.
+
+853
+00:47:15,040 --> 00:47:18,800
+Cioè, veramente fatti una vita perché non mi puoi rompere le scatole.
+
+854
+00:47:18,800 --> 00:47:23,200
+Per il Mac adesso non ho più sul jailbreak sui telefoni, perché
+
+855
+00:47:23,200 --> 00:47:25,720
+comunque non mi serve più e non ne faccio più chissà che
+
+856
+00:47:25,680 --> 00:47:28,560
+tipo di uso e trovo tutto quello che mi serve.
+
+857
+00:47:28,560 --> 00:47:33,080
+Sul Mac vige la castità, ci sono un sacco di applicazioni, le
+
+858
+00:47:29,920 --> 00:47:34,920
+cose più assurde stanno tutte dentro me.
+
+859
+00:47:35,000 --> 00:47:38,280
+Però tu lo accendi e c'è una bellissima schermata.
+
+860
+00:47:38,280 --> 00:47:41,560
+Io i wallpaper che ruotano ogni 30 minuti che sono random quindi
+
+861
+00:47:41,560 --> 00:47:43,960
+me li scelgo tutto quello che mi serve.
+
+862
+00:47:43,960 --> 00:47:46,840
+Non ci sono icone sul desktop, e se per caso ci sono,
+
+863
+00:47:46,840 --> 00:47:48,680
+sono transitorie temporanee.
+
+864
+00:47:48,680 --> 00:47:52,840
+È tutto suddiviso con ordine maniacale e anche lì il problema mentale,
+
+865
+00:47:52,840 --> 00:47:53,960
+vedi che torna.
+
+866
+00:47:53,960 --> 00:47:59,240
+In cartelle, quelle con le emoji, quelle no, quelle più importanti con
+
+867
+00:47:59,240 --> 00:48:05,240
+determinate tag, altre no, e soprattutto ci deve essere un filo conduttore
+
+868
+00:48:05,480 --> 00:48:05,960
+perché?
+
+869
+00:48:05,960 --> 00:48:08,600
+Perché io ho la touch bar e quindi già questo identifica che
+
+870
+00:48:08,600 --> 00:48:11,800
+tipo di Mac possa avere, comunque è un MacBook Pro 16 e
+
+871
+00:48:11,800 --> 00:48:16,360
+sulla mia touch bar c'è soltanto il Pac o la barra di
+
+872
+00:48:16,360 --> 00:48:17,720
+supercar.
+
+873
+00:48:18,040 --> 00:48:22,680
+Quindi, se per caso mi vedi in giro che sulla barra del
+
+874
+00:48:23,000 --> 00:48:27,160
+Mac c'è supercar, stami lontano e vedrai che lo sfondo è tutto
+
+875
+00:48:27,160 --> 00:48:29,960
+nero perché vuol dire che è un momento molto intenso.
+
+876
+00:48:29,960 --> 00:48:33,000
+Se c'è il Pac-Man, vuol dire che tutto il resto è molto
+
+877
+00:48:33,000 --> 00:48:34,520
+più armonizzato.
+
+878
+00:48:34,520 --> 00:48:40,200
+Conoscente direbbe hai messo l'armocromia sul computer, si la metto.
+
+879
+00:48:40,200 --> 00:48:45,640
+E le icone sotto sono non solo ordinate per utilizzo e per
+
+880
+00:48:45,640 --> 00:48:50,040
+similcromia, che non sono tutte in scala cromatica, ma sono in similcromia
+
+881
+00:48:50,040 --> 00:48:52,840
+per quello che mi serve per l'utilizzo.
+
+882
+00:48:52,840 --> 00:48:57,160
+Sopra nella top bar ci sono un sacco di cose che se
+
+883
+00:48:57,160 --> 00:48:59,800
+le faccio vedere, la gente mi prende veramente per deficiente perché non
+
+884
+00:48:59,800 --> 00:49:03,000
+c'entrano niente, non sono utili, però hanno delle bellissime icone.
+
+885
+00:49:03,160 --> 00:49:06,280
+Voglio uno screenshot e quindi io ho praticamente tutta la top.
+
+886
+00:49:06,440 --> 00:49:08,840
+Voglio uno screenshot assolutamente.
+
+887
+00:49:10,280 --> 00:49:14,960
+Io devo veramente vedere, voglio vedere dal vivo, sto computer adesso è
+
+888
+00:49:14,680 --> 00:49:16,400
+interessantissimo.
+
+889
+00:49:15,000 --> 00:49:20,160
+Claudia, quindi faccio una domanda, perché poi Roberto gli è andato scivolato.
+
+890
+00:49:20,240 --> 00:49:21,360
+Quindi sei ancora su Intel?
+
+891
+00:49:21,600 --> 00:49:27,360
+Adesso sì, adesso sì, volevo passare alla serie M, però al momento
+
+892
+00:49:28,000 --> 00:49:30,880
+va benissimo questo, non ho bisogno di cambiarlo.
+
+893
+00:49:30,880 --> 00:49:36,720
+Poi nel caso, un'Air M1 dovessi proprio togliermi lo sfizio per lavorare
+
+894
+00:49:36,720 --> 00:49:37,520
+su certe cose.
+
+895
+00:49:37,520 --> 00:49:41,920
+Però considerato che di solito quando prendo un computer nuovo ci metto
+
+896
+00:49:41,920 --> 00:49:46,080
+un mese per sistemarlo come voglio io, proprio maniacale, nonostatemi vicino perché
+
+897
+00:49:46,160 --> 00:49:47,760
+sennò veramente vi sparo.
+
+898
+00:49:47,760 --> 00:49:48,800
+Ci vuole del tempo.
+
+899
+00:49:48,800 --> 00:49:51,840
+E quindi in questo momento, sinceramente, tempo non ne ho per moddare
+
+900
+00:49:51,840 --> 00:49:52,080
+una.
+
+901
+00:49:52,240 --> 00:49:53,520
+Non ne hai voglia?
+
+902
+00:49:53,520 --> 00:49:55,760
+No, non ho proprio il tempo fisico, cioè, se mi fate le
+
+903
+00:49:55,760 --> 00:50:01,040
+giornate di 65-70 ore per me va bene se non superiamo le
+
+904
+00:50:01,040 --> 00:50:03,120
+24 no, c'è un problema.
+
+905
+00:50:03,680 --> 00:50:06,560
+Ma io ti faccio la seconda domanda: ma come ti trovi con
+
+906
+00:50:06,560 --> 00:50:09,040
+le temperature del fornelletto?
+
+907
+00:50:09,040 --> 00:50:10,480
+Come lo chiamo io?
+
+908
+00:50:10,480 --> 00:50:14,800
+Guarda, non sai quanto ho risparmio sulla bolletta since.
+
+909
+00:50:15,120 --> 00:50:18,480
+No, anche io ho un MacBook Pro 16 pollici e mi dà
+
+910
+00:50:18,480 --> 00:50:23,840
+un fastidio, però comprato in un momento sbagliato, probabilmente perché l'ho comprato
+
+911
+00:50:23,840 --> 00:50:27,440
+giusto poco prima che ne uscero di M1, quindi
+
+912
+00:50:28,720 --> 00:50:32,160
+vivo malissimo come si soldi, allora ti dirò: non mi ha mai
+
+913
+00:50:32,160 --> 00:50:33,680
+dato troppo fastidio.
+
+914
+00:50:33,680 --> 00:50:37,120
+Fin quando ovviamente io ho un disco da 2-Tera, quando arrivi a
+
+915
+00:50:37,120 --> 00:50:41,760
+metà, comincia a sentirsi la differenza perché ti piaccia o meno comunque
+
+916
+00:50:41,760 --> 00:50:43,680
+lo spazio per certe applicazioni.
+
+917
+00:50:43,680 --> 00:50:47,840
+Poi fai l'update di quell'app che sono 75 giga e di dici:
+
+918
+00:50:47,840 --> 00:50:48,960
+ma dove caspita?
+
+919
+00:50:48,960 --> 00:50:51,280
+Stanno si 75 giga di roba?
+
+920
+00:50:51,280 --> 00:50:53,200
+Quindi comincia a soffrirne un po'.
+
+921
+00:50:53,200 --> 00:50:58,000
+Io poi pulisco, sistemo, faccio e tutto, ho le mie applicazioni preferite,
+
+922
+00:50:58,000 --> 00:51:00,280
+quindi faccio una bella pulizia sistema.
+
+923
+00:51:00,760 --> 00:51:04,600
+Però il fastidio di quando ci hai aperto una sola cosa e
+
+924
+00:51:04,600 --> 00:51:08,360
+ti cominciano a girare le ventole sotto e ti scalda tutto e
+
+925
+00:51:08,360 --> 00:51:13,320
+c'hai magari il bicchiere con il succo di limone, l'acqua e lo
+
+926
+00:51:13,320 --> 00:51:18,360
+zucchero con il ghiaccio e ti scalda il bicchiere tipo il whisky,
+
+927
+00:51:18,360 --> 00:51:23,160
+quello che deve essere scaldato bene con il bicchiere particolare, ti dà
+
+928
+00:51:23,160 --> 00:51:23,960
+fastidio.
+
+929
+00:51:23,960 --> 00:51:28,200
+Percepisco dentro di me il fastidio che sale, dico: ma per la
+
+930
+00:51:28,200 --> 00:51:32,840
+miseria, ma non potevo rimanere con il grillo parlante della Texas Instruments,
+
+931
+00:51:33,240 --> 00:51:34,760
+però vabbè sono sensazioni.
+
+932
+00:51:35,720 --> 00:51:39,720
+Io l'unico consiglio che posso dare, perché effettivamente è merito di Roberto
+
+933
+00:51:39,800 --> 00:51:44,200
+in questo caso raro, ma io vado con l'evento al massimo ormai,
+
+934
+00:51:44,200 --> 00:51:47,080
+almeno sta tiepido, non freddo, tiepido.
+
+935
+00:51:47,080 --> 00:51:51,320
+Però io lo uso come portatile quindi spesso anche sulle ginocchia d'estate
+
+936
+00:51:51,320 --> 00:51:53,880
+è imbarazzante ormai.
+
+937
+00:51:53,880 --> 00:51:57,640
+Gestiva lo sai che una volta era talmente caldo, io lo tenevo
+
+938
+00:51:57,640 --> 00:52:00,440
+sulle gambe come te, in estate era talmente caldo che mi sono
+
+939
+00:52:00,440 --> 00:52:01,080
+scottata.
+
+940
+00:52:01,160 --> 00:52:03,240
+Io poi vabbè sono bianco cadavere.
+
+941
+00:52:03,240 --> 00:52:07,320
+Quindi un raggio di sole per me è già, io sono peggio,
+
+942
+00:52:07,320 --> 00:52:08,440
+fidati.
+
+943
+00:52:08,440 --> 00:52:11,480
+Un raggio di sole per me è deleterio, io giro sempre con
+
+944
+00:52:11,480 --> 00:52:13,960
+la crema solare protezione 50 con i bambini.
+
+945
+00:52:14,120 --> 00:52:17,080
+Quando sono in macchina me la spalmo perché, soprattutto se devo fare
+
+946
+00:52:17,080 --> 00:52:20,760
+viaggi lunghi e io sono sempre in macchina, ne ho bisogno.
+
+947
+00:52:20,760 --> 00:52:25,080
+Quindi, i produttori di crema solare spesso e volentieri, quando si avvicinano
+
+948
+00:52:25,080 --> 00:52:29,240
+le belle stagioni sono lì con i dentini da canino da vampiro,
+
+949
+00:52:29,240 --> 00:52:31,880
+con i canini, dicono: Oh, bene, abbiamo una cliente fissa.
+
+950
+00:52:31,880 --> 00:52:35,200
+Io mi sono tenuta in Mac sulle gambe e ti giuro, mi
+
+951
+00:52:35,160 --> 00:52:39,960
+è venuto un eritema da contatto incredibile, Rosso, perché scaldava.
+
+952
+00:52:39,960 --> 00:52:40,920
+Poi con la forma
+
+953
+00:52:42,120 --> 00:52:43,080
+non c'è da dire, vabbè,
+
+954
+00:52:44,200 --> 00:52:46,720
+e quando sono andata dal medico a dire: guarda, che mi è
+
+955
+00:52:44,840 --> 00:52:49,280
+successo questo, mi ha fatto due domande.
+
+956
+00:52:49,440 --> 00:52:51,120
+La prima è ti fa male?
+
+957
+00:52:51,120 --> 00:52:54,160
+La seconda è da 1 a 10 quanto sei scemo?
+
+958
+00:52:54,320 --> 00:52:58,000
+Eccolo, quindi sentirsi prendere in giro anche da un medico, perché il
+
+959
+00:52:58,000 --> 00:53:03,200
+mio computer scalda tanto, effettivamente ti fa pensare a certe scene della
+
+960
+00:53:03,200 --> 00:53:03,520
+vita.
+
+961
+00:53:03,520 --> 00:53:06,880
+Quindi ricompreresti lo stesso modello, no, andrei sull'M1.
+
+962
+00:53:06,880 --> 00:53:07,440
+Che mi dica
+
+963
+00:53:08,640 --> 00:53:10,800
+, migliore,
+
+964
+00:53:12,080 --> 00:53:14,560
+altro che fresco, è ghiacciato, ragazzi miei.
+
+965
+00:53:14,880 --> 00:53:19,840
+Non farò sborone solo perché hai comprato l'M2 addirittura.
+
+966
+00:53:20,080 --> 00:53:21,040
+Mi è andata bene.
+
+967
+00:53:21,280 --> 00:53:25,360
+I fan dico solo questo ed è ghiacciato, lo sento adesso in
+
+968
+00:53:25,360 --> 00:53:25,760
+questo momento.
+
+969
+00:53:25,760 --> 00:53:30,160
+Io mi ricordo che Filippo, quando avevo il mio simpatico forno a
+
+970
+00:53:30,160 --> 00:53:34,640
+legno, perché anch'io arrivo da un Intel, facevo fatica comunque ad arrivare
+
+971
+00:53:34,640 --> 00:53:38,880
+a chiusura della puntata per la batteria, cioè non lo tenevo collegato
+
+972
+00:53:39,360 --> 00:53:42,400
+alla corrente perché sennò dava dei disturbi al microfono.
+
+973
+00:53:42,640 --> 00:53:46,720
+Comunque arrivavo dopo un'ora e mezza, che partivo col 100, arrivavo intorno
+
+974
+00:53:46,720 --> 00:53:49,360
+al 10 ed era di una temperatura imbarazzante.
+
+975
+00:53:49,360 --> 00:53:52,160
+Io mi ricordo che con i jeans, con i jeans, è difficilissimo
+
+976
+00:53:52,320 --> 00:53:57,040
+perché ti scalda anche i jeans e ti lascia proprio sulle gambe
+
+977
+00:53:57,360 --> 00:53:58,800
+un male indelebile.
+
+978
+00:53:58,800 --> 00:54:02,000
+Comunque, grazie, Intel, grazie, veramente.
+
+979
+00:54:02,000 --> 00:54:07,600
+Come dico, io ringrazio Intel per questo, mannaggia lei e a tutti
+
+980
+00:54:07,600 --> 00:54:09,760
+quelli che sono stati dietro.
+
+981
+00:54:09,760 --> 00:54:15,680
+Comunque, visto che hai parlato di applicazioni, sono molto curioso di sentire
+
+982
+00:54:15,680 --> 00:54:20,400
+dalla tua viva voce, faccio una domanda che, secondo me, è interessantissima,
+
+983
+00:54:20,400 --> 00:54:24,160
+perché dà l'idea di come si utilizza il Mac.
+
+984
+00:54:24,160 --> 00:54:27,680
+Dimmi tre applicazioni da cui non ti puoi separare in questo momento.
+
+985
+00:54:27,920 --> 00:54:30,920
+Ce ne sarebbero tre mila, va bene, però se proprio devo ridurre
+
+986
+00:54:31,000 --> 00:54:31,320
+a tre.
+
+987
+00:54:31,320 --> 00:54:32,760
+La prima è Clean My Mac.
+
+988
+00:54:29,920 --> 00:54:35,960
+Mi fa tutto, veramente funziona veramente bene bene.
+
+989
+00:54:36,360 --> 00:54:38,360
+Ovviamente, giusti accorgimenti.
+
+990
+00:54:38,360 --> 00:54:41,960
+E insieme a Clean My Mac, che questa è considerata, sono due
+
+991
+00:54:41,960 --> 00:54:44,520
+applicazioni, ma alla fine io la considero una sola perché vanno in
+
+992
+00:54:44,520 --> 00:54:50,040
+tandem, c'è Little Snitch, che è una specie di filter di traffico,
+
+993
+00:54:50,040 --> 00:54:54,360
+e anche lì puoi capire bene esattamente da una parte all'altra che
+
+994
+00:54:54,360 --> 00:54:55,000
+cosa passa.
+
+995
+00:54:55,000 --> 00:54:58,200
+E lo utilizzo sempre insieme a Clean My Mac perché è importante
+
+996
+00:54:58,840 --> 00:54:59,320
+per me.
+
+997
+00:54:59,320 --> 00:55:04,520
+Seconda, una cosa che è diritto sia nel telefono, l'iPad, tutte le
+
+998
+00:55:05,000 --> 00:55:06,120
+proton VPN.
+
+999
+00:55:06,120 --> 00:55:10,280
+Io sono legate ai prodotti Proton, sono nel piano Visionary fin dall'inizio,
+
+1000
+00:55:10,280 --> 00:55:14,440
+quindi è un'azienda nella quale credo trasparente su security e privacy.
+
+1001
+00:55:14,440 --> 00:55:19,000
+Mi fido, sono svizzeri, e quindi io che sono svizzera di acquisizione
+
+1002
+00:55:19,640 --> 00:55:21,000
+sono patriottica.
+
+1003
+00:55:21,000 --> 00:55:24,120
+Ovviamente di acquisizione, si sente l'accentro svizzero, vero?
+
+1004
+00:55:24,120 --> 00:55:29,720
+Sì, sì, sì, un po' si notasse troppo quindi, anche quella la
+
+1005
+00:55:29,720 --> 00:55:32,040
+VPN per me è quella appunto.
+
+1006
+00:55:32,040 --> 00:55:36,360
+E poi ti avrei detto tempo fa altri tipi di applicazioni, ma
+
+1007
+00:55:37,000 --> 00:55:41,000
+negli ultimi mesi ho imparato ad amare profondamente un'applicazione che si chiama
+
+1008
+00:55:41,000 --> 00:55:42,040
+Standard Notes.
+
+1009
+00:55:42,040 --> 00:55:48,840
+Praticamente è le note portate all'ennesimo livello con possibilità di encryption, possibilità
+
+1010
+00:55:48,840 --> 00:55:51,480
+password, lock di qua e di là, e tutto.
+
+1011
+00:55:51,480 --> 00:55:55,160
+Mi devo trovare, mi trovo veramente bene e devo dire che è
+
+1012
+00:55:55,160 --> 00:55:57,080
+stata una piacevolissima scoperta.
+
+1013
+00:55:57,080 --> 00:56:01,400
+Applicazione che non conosco, francamente, adesso vedo già Filippo dalla webcam che
+
+1014
+00:56:01,400 --> 00:56:02,680
+è già sulla ricerca, perché
+
+1015
+00:56:04,280 --> 00:56:08,120
+lo conosco come vedo fare poi le note, devo anche mettere i
+
+1016
+00:56:08,120 --> 00:56:08,840
+link.
+
+1017
+00:56:08,840 --> 00:56:13,720
+Che qualcuno mi ha messo, così io non so chi sia, e
+
+1018
+00:56:13,720 --> 00:56:18,000
+non so di chi tu stia parlando, comunque, in ogni caso, non
+
+1019
+00:56:14,920 --> 00:56:18,480
+sono io.
+
+1020
+00:56:18,720 --> 00:56:22,400
+Detto questo, non guardate, me, di fatto, tu non c'è, anzi, sta,
+
+1021
+00:56:22,480 --> 00:56:29,280
+bravo, l'ospite è sempre, questa pazza, che ha dei limiti, ma meno
+
+1022
+00:56:29,280 --> 00:56:32,880
+male, perché pensavo dicesi, che dopo tre giorni, l'ospite fungiamo nei pesci,
+
+1023
+00:56:33,360 --> 00:56:34,320
+già mi preoccupavo.
+
+1024
+00:56:35,600 --> 00:56:38,960
+Eccolo, una cosa che devo dire di Clian in my Mac che
+
+1025
+00:56:38,960 --> 00:56:41,600
+è molto bella, l'ho usata e molto interessante.
+
+1026
+00:56:41,840 --> 00:56:47,120
+Io sono rimasto agganciato ancora alle come si può dire, quasi alle
+
+1027
+00:56:47,120 --> 00:56:51,120
+mini utility che fanno cose specializzate.
+
+1028
+00:56:51,360 --> 00:56:54,960
+Per esempio, la prima che mi viene in mente è Onix, che
+
+1029
+00:56:54,960 --> 00:56:58,480
+per me è la base che installo veramente in tutti i Mac
+
+1030
+00:56:58,800 --> 00:57:03,200
+perché è minimale, non chiede troppo.
+
+1031
+00:57:03,200 --> 00:57:05,280
+La cosa che mi fa sempre tanto ridere è che ce n'è
+
+1032
+00:57:05,280 --> 00:57:08,480
+una per sistema operativo e non ho ancora capito perché.
+
+1033
+00:57:08,480 --> 00:57:11,440
+Ma prima o poi lo capirò anche io nella mia piccola mente
+
+1034
+00:57:11,600 --> 00:57:15,920
+riuscirò a fare spazio per questa informazione, vai sui social e chiediglielo
+
+1035
+00:57:15,920 --> 00:57:19,920
+direttamente perché loro ti rispondono: paura che mi rispondano male,
+
+1036
+00:57:20,960 --> 00:57:24,480
+no, no, no, no, ti rispondono tranquillamente.
+
+1037
+00:57:24,800 --> 00:57:26,720
+In genere ci sono quelle aziende.
+
+1038
+00:57:26,720 --> 00:57:30,320
+Adesso qui si esuliamo totalmente dall'ambito così, però è il mio campo
+
+1039
+00:57:30,320 --> 00:57:31,280
+è il marketing.
+
+1040
+00:57:31,520 --> 00:57:37,280
+E al momento che un'azienda risponde sui social con dei toni gentili,
+
+1041
+00:57:37,280 --> 00:57:42,560
+carini, eleganti, non mette roba dei template di risposta automatica tramite automazioni
+
+1042
+00:57:42,560 --> 00:57:43,840
+o altro, e ti cura.
+
+1043
+00:57:43,840 --> 00:57:45,760
+È bello perché vuol dire che ha fatto centro.
+
+1044
+00:57:45,760 --> 00:57:48,960
+E quando tu chiedi anche le cose più stupide e loro ti
+
+1045
+00:57:48,960 --> 00:57:53,440
+rispondono come se tu fossi l'unica persona importante per loro in quel
+
+1046
+00:57:53,440 --> 00:57:55,440
+momento ti dedicano del tempo, hanno vinto tutto.
+
+1047
+00:57:55,600 --> 00:57:59,440
+Keep my Mac con me lo ha fatto, e io sono rimasta
+
+1048
+00:57:59,440 --> 00:58:01,320
+sempre soddisfatta dal loro customer care.
+
+1049
+00:58:01,320 --> 00:58:05,800
+Magari una release non era perfetta, c'era un piccolo bug, però va
+
+1050
+00:58:00,000 --> 00:58:05,960
+bene.
+
+1051
+00:58:06,120 --> 00:58:10,120
+E quindi vai sui social e chiedilo, anche perché con la reputazione
+
+1052
+00:58:10,120 --> 00:58:13,880
+che hanno oggi le aziende, se tu ti trovi male e di
+
+1053
+00:58:13,880 --> 00:58:17,080
+sputtani, perché per loro comincia a diventare un danno.
+
+1054
+00:58:17,240 --> 00:58:21,560
+Ora, un utente solo è gelosia, è Roberto geloso che io ho
+
+1055
+00:58:21,560 --> 00:58:22,840
+fatto una cosa figa e lui no.
+
+1056
+00:58:22,840 --> 00:58:26,680
+Cominciano ad essere 2, 3, 4, 500, comincia a diventare un problema.
+
+1057
+00:58:26,680 --> 00:58:29,400
+E quindi anche loro hanno capito che forse è meglio rispondere agli
+
+1058
+00:58:29,400 --> 00:58:31,880
+utenti e spiegare anche queste cose, tanto più che se applichi una
+
+1059
+00:58:31,960 --> 00:58:35,400
+strategia di marketing nella quale dai un quid in più, e quindi
+
+1060
+00:58:35,400 --> 00:58:38,760
+ti spiego anche in retroscena, oppure quelli di Clean My Mac hanno
+
+1061
+00:58:38,760 --> 00:58:43,240
+fatto delle cose carine, non sono, chiamiamole Cels, però delle piccole microcampagne
+
+1062
+00:58:43,240 --> 00:58:47,480
+di awareness sui loro prodotti che hanno funzionato, sono diventate divertenti e
+
+1063
+00:58:47,480 --> 00:58:53,320
+io ho trovato che c'è stato un'increase, un aumento di socialità di
+
+1064
+00:58:53,320 --> 00:58:58,520
+tante aziende, soprattutto per quelle persone che non facevano domande prettamente tecniche.
+
+1065
+00:58:58,520 --> 00:59:01,240
+Ah, ma perché se io faccio questo, se piggio questa combinazione di
+
+1066
+00:59:01,240 --> 00:59:01,480
+tasti?
+
+1067
+00:59:01,960 --> 00:59:06,360
+Un giorno, ma perché non ci mettete gli unicorni nella prossima release?
+
+1068
+00:59:06,360 --> 00:59:08,280
+E loro ti rispondono: è bellissimo.
+
+1069
+00:59:08,680 --> 00:59:14,360
+Io ho trovato la stessa idea che è interessantissima e vi avvicina
+
+1070
+00:59:14,360 --> 00:59:18,600
+davvero tanto da utente a quello che può essere il dietro alle
+
+1071
+00:59:18,760 --> 00:59:20,760
+quinte di uno sviluppo di un'applicazione.
+
+1072
+00:59:20,760 --> 00:59:25,000
+Io l'ho trovato in Procreate, che è un'applicazione che uso anch'io proprio
+
+1073
+00:59:25,000 --> 00:59:26,360
+per una progettazione.
+
+1074
+00:59:26,360 --> 00:59:29,480
+Ed è interessante perché il venerdì, o il mercoledì, non mi ricordo
+
+1075
+00:59:29,480 --> 00:59:30,440
+più precisamente.
+
+1076
+00:59:30,440 --> 00:59:33,400
+Comunque su Instagram fanno le domande libere.
+
+1077
+00:59:33,360 --> 00:59:35,720
+E quindi queste domande vengono risposte.
+
+1078
+00:59:35,720 --> 00:59:38,280
+Ma ci sono domande di tutti i tipi, da in effetti a
+
+1079
+00:59:38,280 --> 00:59:43,240
+chi ha dei problemi, diciamo così, con l'interfaccia, capire come funziona un
+
+1080
+00:59:43,240 --> 00:59:46,480
+comando, che loro sono gentilissimi, ti spiegano tutto quanto, hanno fatto i
+
+1081
+00:59:46,480 --> 00:59:50,080
+video e via discorrendo, alle domande più assurde: del tipo oggi cosa
+
+1082
+00:59:50,080 --> 00:59:52,640
+mangiate a pranzo e via discorrendo.
+
+1083
+00:59:52,640 --> 00:59:56,000
+E rispondono, poi ci sono anche i video, perché sono, non so
+
+1084
+00:59:56,000 --> 00:59:58,080
+quanto dovrebbe essere una decina di persone.
+
+1085
+00:59:58,800 --> 01:00:02,320
+È un bel schema, sia Procreate che poi Mac Pound, che è
+
+1086
+01:00:02,320 --> 01:00:05,440
+quello che fa Kliman Mac e fa anche set up.
+
+1087
+01:00:05,440 --> 01:00:07,360
+Che è un'altra cosa interessante.
+
+1088
+01:00:07,520 --> 01:00:13,360
+Già che ci siamo la segnaliamo visto che è praticamente l'unico altro
+
+1089
+01:00:13,360 --> 01:00:20,160
+app store presente su Mac e che effettivamente, per pochi dollari adesso,
+
+1090
+01:00:20,400 --> 01:00:25,120
+euro non so, dovrebbe essere 10 dollari al mese, ti dà la
+
+1091
+01:00:25,120 --> 01:00:27,280
+possibilità di accedere a tutta una serie di applicazioni.
+
+1092
+01:00:27,440 --> 01:00:32,480
+Piccoli sviluppatori, chiamiamoli così abitualmente, ma anche Ulissis, piuttosto che altre app,
+
+1093
+01:00:32,480 --> 01:00:34,640
+quindi, comunque anche abbastanza blasonate.
+
+1094
+01:00:34,880 --> 01:00:36,720
+Han fatto un bel lavoro, secondo me.
+
+1095
+01:00:38,000 --> 01:00:41,440
+Il mio limite è sempre che vorrei fare l'abbonamento, ma io avrei
+
+1096
+01:00:41,520 --> 01:00:43,760
+bisogno di tre Mac e non due.
+
+1097
+01:00:44,560 --> 01:00:49,680
+Filippo, posso fare l'ospite quello che entra in casa e fa qualcosa
+
+1098
+01:00:50,160 --> 01:00:54,880
+da sua, ecco allora, visto che abbiamo fatto i complimenti al team
+
+1099
+01:00:54,880 --> 01:00:58,400
+che risponde, io vorrei fare i complimenti veramente.
+
+1100
+01:00:58,400 --> 01:01:02,560
+All'admin dell'account di Alinghi Red Bull Racing.
+
+1101
+01:01:02,560 --> 01:01:06,320
+Sparla di vela, che non solo è di una disponibilità unica ed
+
+1102
+01:01:06,320 --> 01:01:09,760
+è di una gentilezza unica, ma per farvi capire il livello, sa
+
+1103
+01:01:09,760 --> 01:01:12,160
+che mi piacciono gli unicorni e in una foto ufficiale di Alghi
+
+1104
+01:01:12,160 --> 01:01:13,120
+mi ha montato gli unicorni.
+
+1105
+01:01:13,120 --> 01:01:16,240
+La trovate pinnata al mio profilo su Twitter X, chiamatelo come vi
+
+1106
+01:01:16,240 --> 01:01:17,440
+pare, con gli unicorni.
+
+1107
+01:01:17,440 --> 01:01:21,400
+Allora, cioè ora immaginatevi il social media manager di Microsoft che io
+
+1108
+01:01:21,360 --> 01:01:23,200
+gli vado a dire: A me mi piacciono gli unicorni.
+
+1109
+01:01:23,280 --> 01:01:27,600
+Questo mi dice: Vabbè, il manicomio è là, accomodami, sempre da destra.
+
+1110
+01:01:27,600 --> 01:01:30,360
+Questo invece, dopo 30 secondi, mi ha fatto sta foto e l'ha
+
+1111
+01:01:30,360 --> 01:01:34,040
+pubblicata, cioè non è che me l'ha mandata privatamente, l'ha pubblicata sull'account
+
+1112
+01:01:34,040 --> 01:01:36,840
+ufficiale e insomma sono soddisfazioni per
+
+1113
+01:01:38,360 --> 01:01:42,760
+noi utenti a volte perché puoi interagire con il tuo love brand
+
+1114
+01:01:42,920 --> 01:01:46,600
+e sono soddisfazioni anche personali dal punto di vista lavorativo, perché capisci
+
+1115
+01:01:46,600 --> 01:01:49,320
+che ci sono persone che sanno fare veramente il loro lavoro al
+
+1116
+01:01:49,320 --> 01:01:51,320
+di là dell'azienda per la quale lavorano.
+
+1117
+01:01:51,320 --> 01:01:55,800
+Ho visto aziende che manco ti rispondono, a volte fai anche soltanto
+
+1118
+01:01:55,800 --> 01:02:00,040
+una domanda educatissima, gentilissima, come dice Zero Calcare, ma chi ti sei
+
+1119
+01:02:00,120 --> 01:02:02,840
+in culo giustamente, giusto?
+
+1120
+01:02:02,920 --> 01:02:05,480
+Il francesismo, ecco svizzero.
+
+1121
+01:02:06,200 --> 01:02:07,640
+A proposito di francesismo
+
+1122
+01:02:09,240 --> 01:02:14,760
+del cantone francese, ovviamente Filippo ti metto in difficoltà, dammi un'applicazione che
+
+1123
+01:02:14,760 --> 01:02:15,880
+non puoi fare a meno.
+
+1124
+01:02:16,120 --> 01:02:16,600
+Una sola,
+
+1125
+01:02:19,240 --> 01:02:21,640
+sì, beh certo, fregato.
+
+1126
+01:02:21,640 --> 01:02:23,560
+Penso che sia un po' condizionato, però
+
+1127
+01:02:25,080 --> 01:02:28,040
+devo dirti la verità, è una di quelle poche applicazioni che uso
+
+1128
+01:02:28,040 --> 01:02:30,440
+tutti i giorni: di riffo o di raffa.
+
+1129
+01:02:30,920 --> 01:02:32,680
+Sì, di fatti Roberto.
+
+1130
+01:02:32,680 --> 01:02:33,560
+Adesso tocca a te.
+
+1131
+01:02:33,640 --> 01:02:34,520
+Io non posso.
+
+1132
+01:02:34,760 --> 01:02:35,800
+Coloc di si cerco.
+
+1133
+01:02:35,800 --> 01:02:36,360
+Tocca a te.
+
+1134
+01:02:36,360 --> 01:02:37,080
+No, no, lo dice.
+
+1135
+01:02:37,400 --> 01:02:40,040
+No, perché per forza di cose, per il semplice fatto che ci
+
+1136
+01:02:40,040 --> 01:02:44,840
+ragionavo anch'io prima di fare la domanda, sicuramente è un'applicazione professionale.
+
+1137
+01:02:44,840 --> 01:02:45,560
+Nel senso che
+
+1138
+01:02:46,760 --> 01:02:49,400
+frega fino a mezzogiorno, nel senso a chi non fa il mio
+
+1139
+01:02:49,400 --> 01:02:53,320
+stesso lavoro, perché se devo scegliere un'applicazione, è quell'applicazione che mi permette
+
+1140
+01:02:53,320 --> 01:02:54,520
+di portare la pagnotta a casa.
+
+1141
+01:02:54,680 --> 01:02:59,160
+Sei venale banalmente, ma proprio banalmente è più che altro che bisogna
+
+1142
+01:02:59,240 --> 01:03:00,520
+portare la pagnotta a casa.
+
+1143
+01:03:00,520 --> 01:03:03,640
+Ma detto questo, allora dai, dici la più brutta.
+
+1144
+01:03:03,640 --> 01:03:07,160
+La più brutta ce l'ho, è il DOF.
+
+1145
+01:03:07,320 --> 01:03:08,600
+Meno male che tu non lo sai.
+
+1146
+01:03:09,080 --> 01:03:12,280
+Io lo so perché ormai sono condizionato.
+
+1147
+01:03:12,600 --> 01:03:14,040
+Spiegalo Roberto.
+
+1148
+01:03:14,040 --> 01:03:16,160
+Sì, perché è il mio cavallo di battaglia.
+
+1149
+01:03:16,240 --> 01:03:21,600
+Allora, tu il sistema italiano si basa sul catasto e c'è un'applicazione
+
+1150
+01:03:21,600 --> 01:03:23,520
+che permette di applicazione.
+
+1151
+01:03:23,520 --> 01:03:25,840
+Non è un'applicazione, è un software.
+
+1152
+01:03:25,840 --> 01:03:27,440
+Perché l'applicazione è già troppo.
+
+1153
+01:03:27,440 --> 01:03:31,600
+È un software che permette di fare le variazioni in catastale all'interno
+
+1154
+01:03:31,600 --> 01:03:32,720
+di questo sistema.
+
+1155
+01:03:32,720 --> 01:03:38,240
+Il problema grosso di questo software è che è stato sviluppato all'epoca
+
+1156
+01:03:38,240 --> 01:03:42,640
+di Windows 3.1 o giudili e ad oggi non ha ancora cambiato
+
+1157
+01:03:42,640 --> 01:03:44,960
+interfaccia grafica né funzionamento.
+
+1158
+01:03:45,280 --> 01:03:50,080
+Tant'è che così infame, se c'è qualcuno dell'agenzia delle entrate, spero che
+
+1159
+01:03:50,080 --> 01:03:53,040
+mi stia ascoltando, che richiede una versione specifica
+
+1160
+01:03:54,160 --> 01:03:58,880
+, secondo me, negli ascoltatori, in ogni caso spero che lo ascolti lo
+
+1161
+01:03:58,880 --> 01:04:03,360
+stesso, richiede una versione specifica di Java Machine per
+
+1162
+01:04:05,120 --> 01:04:08,560
+quel software, e ovviamente una cosa che a me fa girare le
+
+1163
+01:04:08,560 --> 01:04:13,200
+scatole a così tanti livelli che non me ne rendete conto, è
+
+1164
+01:04:13,200 --> 01:04:18,720
+che non mi capacito del fatto che se questo software è dato
+
+1165
+01:04:18,720 --> 01:04:22,720
+dal sistema italiano, perché è il software che solo quello si può
+
+1166
+01:04:22,720 --> 01:04:27,040
+usare per fare questo tipo di interventi a livello del catasto italiano,
+
+1167
+01:04:27,040 --> 01:04:29,440
+questo software funziona solo su Windows.
+
+1168
+01:04:29,440 --> 01:04:33,680
+Tutti gli altri devono morire male perché non possono lavorare in alternativa.
+
+1169
+01:04:33,680 --> 01:04:36,720
+E questo mi fa girare altamente le scatole per due motivi.
+
+1170
+01:04:36,720 --> 01:04:41,920
+Perché vuol dire: sei fermo all'epoca del nello scorso millennio, all'inizio alla
+
+1171
+01:04:41,920 --> 01:04:45,920
+fine dello scorso millennio, e poi non puoi permettere neanche alle persone
+
+1172
+01:04:45,920 --> 01:04:49,360
+che magari possono usare un tablet per fare quelle operazioni, perché sono
+
+1173
+01:04:49,360 --> 01:04:53,600
+di una banalità così grossa che si può fare su un tablet
+
+1174
+01:04:53,760 --> 01:04:57,440
+e non viene ignorato completamente questa cosa.
+
+1175
+01:04:57,440 --> 01:05:01,240
+E io continuo a dire da utente, non da utente Mac, sto
+
+1176
+01:04:59,600 --> 01:05:01,560
+parlando da
+
+1177
+01:04:59,840 --> 01:05:02,840
+utente tecnico.
+
+1178
+01:05:03,080 --> 01:05:07,640
+Il fatto che l'Italia metta fuori un software che devono usare tutti
+
+1179
+01:05:07,880 --> 01:05:11,480
+e nessuno può usarlo se non usa un sistema Windows, mi manda
+
+1180
+01:05:11,480 --> 01:05:12,040
+i matti.
+
+1181
+01:05:12,040 --> 01:05:16,120
+Perché se tu metti fuori un software obbligatorio, devi lavorare con i
+
+1182
+01:05:16,120 --> 01:05:16,680
+tavoli.
+
+1183
+01:05:16,680 --> 01:05:18,680
+Cioè, se io voglio arrivare lì col tavolo.
+
+1184
+01:05:18,680 --> 01:05:20,520
+Se Java funziona su tutto.
+
+1185
+01:05:21,800 --> 01:05:22,600
+No, è la verità.
+
+1186
+01:05:24,760 --> 01:05:29,240
+Non commento, ma tu devi vedere devi andare sui forum dei geometri
+
+1187
+01:05:29,240 --> 01:05:31,320
+di sentire le madon che tirano.
+
+1188
+01:05:31,320 --> 01:05:33,480
+Perché tu dici che basta già.
+
+1189
+01:05:34,120 --> 01:05:37,800
+Hai già detto tutto, esatto, i forum dei geometri.
+
+1190
+01:05:37,800 --> 01:05:39,880
+C'è una cosa tristissima.
+
+1191
+01:05:40,520 --> 01:05:43,640
+Ma perché è il compito loro, non è compito mio di architetto
+
+1192
+01:05:43,640 --> 01:05:46,840
+di lavorare questa roba qua, ma ogni volta che lo apro, che
+
+1193
+01:05:46,840 --> 01:05:50,040
+io ormai ho smesso di lavorarci e ringrazio.
+
+1194
+01:05:50,040 --> 01:05:53,160
+Tuttavia, tutte le volte che lo aprivo mi sanguinavano gli occhi.
+
+1195
+01:05:53,160 --> 01:05:57,640
+Era come veramente tornare indietro di millenni, tu hai l'interfaccia bella di
+
+1196
+01:05:57,640 --> 01:06:02,120
+me questo, perché io mi ero intestadito a tal punto che avevo
+
+1197
+01:06:02,120 --> 01:06:08,040
+utilizzato non tanto le diciamo le virtual machine, oppure facevo il boot
+
+1198
+01:06:08,040 --> 01:06:09,400
+camp, non me ne fregava niente.
+
+1199
+01:06:09,400 --> 01:06:13,480
+Volevo qualcosa di snello, perché era l'unica applicazione targata Windows che dovevo
+
+1200
+01:06:13,480 --> 01:06:17,240
+utilizzare per lavoro e volevo il minimo possibile che occupasse spazio.
+
+1201
+01:06:17,240 --> 01:06:19,240
+Quindi ho usato i sistemi Wine.
+
+1202
+01:06:19,240 --> 01:06:22,040
+E quindi c'è ancora gente che mi ringrazia adesso, grazie anche a
+
+1203
+01:06:22,040 --> 01:06:24,760
+Davide Degati, che mi ha dato una mano, a fare una guida
+
+1204
+01:06:25,000 --> 01:06:29,000
+per cui io riesco a installare questo software che è veramente infame
+
+1205
+01:06:29,000 --> 01:06:33,960
+dentro, non solo nell'anima, ma anche nell'interfaccia grafica all'interno di 2 giga.
+
+1206
+01:06:33,960 --> 01:06:37,880
+E mi sembrava già anche troppo perché è troppo spazio per questa
+
+1207
+01:06:37,880 --> 01:06:38,040
+cosa.
+
+1208
+01:06:38,360 --> 01:06:42,200
+E noi in caso, ok, ho fatto il mio Run su Docfa,
+
+1209
+01:06:42,200 --> 01:06:42,920
+glielo date anche.
+
+1210
+01:06:43,080 --> 01:06:44,760
+Puoi scommettere, però, che ti batto?
+
+1211
+01:06:45,040 --> 01:06:47,040
+Solleverò veramente il plebiscito.
+
+1212
+01:06:47,040 --> 01:06:50,720
+Perché ci sono tante persone che la pensano il mio incubo e
+
+1213
+01:06:50,720 --> 01:06:51,120
+poste.
+
+1214
+01:06:51,120 --> 01:06:53,920
+Io ho creato l'hashtag poste.
+
+1215
+01:06:54,160 --> 01:06:57,760
+E ogni volta che qualcuno parla di poste bene, male, poste bucato,
+
+1216
+01:06:58,480 --> 01:07:02,560
+io ci metto sotto, io veramente mi perdo due minuti un minuto
+
+1217
+01:07:02,560 --> 01:07:06,640
+e mezzo al giorno faccio la ricerca per hashtag poste e ci
+
+1218
+01:07:06,640 --> 01:07:08,640
+metto sotto i tuoi due poste merda.
+
+1219
+01:07:08,640 --> 01:07:13,360
+Ecco, so che sono in tanti così, però ti giuro che quello
+
+1220
+01:07:13,360 --> 01:07:18,960
+batte anche la tristezza del forum dei geometri, mai posso immaginare visto
+
+1221
+01:07:18,960 --> 01:07:24,640
+dal tuo punto di vista, posso sottoscrivere posso sottoscrivere, perché l'ultima cosa
+
+1222
+01:07:24,640 --> 01:07:29,200
+che mi ha fatto impazzire, avevo un'applicazione che quasi sembrava funzionare, l'hanno
+
+1223
+01:07:29,200 --> 01:07:31,840
+cambiata e non funziona più su iPhone.
+
+1224
+01:07:31,840 --> 01:07:35,680
+Una volta bastava che inquadrassi il QR code e la raccomandata.
+
+1225
+01:07:35,680 --> 01:07:38,400
+Vabbè, io ovviamente sperendo di fida destra.
+
+1226
+01:07:39,360 --> 01:07:42,880
+Hai detto già una cosa bruttissima dicendo QR code, ma te la
+
+1227
+01:07:42,880 --> 01:07:44,080
+passo.
+
+1228
+01:07:44,080 --> 01:07:45,600
+Codice a barre, scusa.
+
+1229
+01:07:45,600 --> 01:07:49,520
+No, no, invece qua devi dirlo perché è importantissimo.
+
+1230
+01:07:49,520 --> 01:07:52,880
+È importantissimo, parla di questo problema del QR code, che io lo
+
+1231
+01:07:52,880 --> 01:07:55,120
+so qual è il problema, ma forse Filippo non lo sa.
+
+1232
+01:07:55,120 --> 01:07:58,880
+No, il problema non è chi emette il QR code, cioè, se
+
+1233
+01:07:58,880 --> 01:08:02,160
+tu sei un'istituzione e vuoi semplificare la vita dei tuoi cittadini e
+
+1234
+01:08:02,160 --> 01:08:05,440
+paga la multa col QR code, è fantastico, è bellissimo.
+
+1235
+01:08:05,440 --> 01:08:08,480
+Perché dai la possibilità a chi è smart, arriva col telefonino in
+
+1236
+01:08:08,480 --> 01:08:10,400
+quadra tacca e fa e sei a posto.
+
+1237
+01:08:10,400 --> 01:08:13,520
+Tralasciamo la parte delle persone anziane che non hanno questo accesso alla
+
+1238
+01:08:13,520 --> 01:08:15,600
+tecnologia, quindi un entry point differente.
+
+1239
+01:08:15,600 --> 01:08:18,400
+Quindi non è un problema di chi emette il QR code.
+
+1240
+01:08:18,400 --> 01:08:21,920
+Però, se un giorno mi girano particolarmente le scatole e ho preso
+
+1241
+01:08:21,920 --> 01:08:24,880
+una multa per divieto di sosta, e il vigilino mi ci ha
+
+1242
+01:08:24,880 --> 01:08:27,040
+lasciato il foglietto col QR code.
+
+1243
+01:08:27,120 --> 01:08:28,480
+Io sono veramente arrabbiata.
+
+1244
+01:08:28,480 --> 01:08:32,200
+Io vado a casa mia, mi stampo 500.000 QR code, faccio un
+
+1245
+01:08:29,920 --> 01:08:33,800
+bell'investimento, facciamo anche 600.
+
+1246
+01:08:33,960 --> 01:08:37,960
+000, gli metto un lick malevolo, poi ritaglio per Benino, ci sono le
+
+1247
+01:08:37,960 --> 01:08:40,920
+aziende che te le ritagliano per Benino, ti fanno gli adivisivini.
+
+1248
+01:08:40,920 --> 01:08:43,560
+Vado in quel parcheggio dove so che ci passa la mattina il
+
+1249
+01:08:43,560 --> 01:08:44,920
+vigilino o il gendarme
+
+1250
+01:08:46,040 --> 01:08:50,040
+, io appiccico sopra quella roba lì, arriva Lutonto, dice: Caspita, è pure
+
+1251
+01:08:50,040 --> 01:08:53,720
+incazzato perché ha preso la multa, ma soprattutto cosa fa?
+
+1252
+01:08:53,720 --> 01:08:56,920
+prende il suo telefonino, inquadra QR code tra chi lo mando da
+
+1253
+01:08:56,920 --> 01:09:00,120
+un'altra parte o mi faccio fare un bonifico a me su un
+
+1254
+01:09:00,120 --> 01:09:04,600
+conto estero, lo intesto a Roberto così almeno non mi prendono, poi
+
+1255
+01:09:04,600 --> 01:09:06,040
+facciamo metà, non ti preoccupare, Roberto
+
+1256
+01:09:08,040 --> 01:09:09,240
+fa tutto parte di un piano.
+
+1257
+01:09:09,240 --> 01:09:13,000
+Oppure ci metto qualcosa di maligno e voi mi direte: ho capito,
+
+1258
+01:09:13,000 --> 01:09:15,320
+ma chi lo fa, ragazzi, succede.
+
+1259
+01:09:15,480 --> 01:09:19,240
+Abbiamo dei clienti che vengono a piangere per questo perché ci sono
+
+1260
+01:09:19,240 --> 01:09:20,920
+persone che lo utilizzano.
+
+1261
+01:09:20,920 --> 01:09:24,200
+Andiamo in un ristorante e il menu è con il QR code.
+
+1262
+01:09:24,200 --> 01:09:27,080
+Ora al di là che a me piace la carta, quindi portami
+
+1263
+01:09:27,080 --> 01:09:27,480
+il menu.
+
+1264
+01:09:27,480 --> 01:09:31,160
+Possibilmente non unto del fritto di prima, però me lo porti beh,
+
+1265
+01:09:31,160 --> 01:09:32,760
+lo posso scegliere, me lo tengo a mente.
+
+1266
+01:09:32,760 --> 01:09:36,280
+No che sto tutto il giorno al telefono per lavoro e poi
+
+1267
+01:09:36,520 --> 01:09:38,680
+devo usarlo ancora per scansionare una roba.
+
+1268
+01:09:38,680 --> 01:09:40,280
+Stai proteggendo i miei dati?
+
+1269
+01:09:40,280 --> 01:09:41,480
+La connessione è sicura.
+
+1270
+01:09:41,480 --> 01:09:44,520
+Io se inquadro questo QR code, sono sicura che tu non mi
+
+1271
+01:09:44,520 --> 01:09:47,880
+butti dentro un Troyan per qualsiasi motivo.
+
+1272
+01:09:47,880 --> 01:09:50,760
+Che poi non è che succede dappertutto, non è che adesso c'è
+
+1273
+01:09:50,760 --> 01:09:53,000
+la fobia, non entro in quel locale perché c'è il QR code.
+
+1274
+01:09:53,000 --> 01:09:54,280
+Ah, oddio, gli do fuoco.
+
+1275
+01:09:54,280 --> 01:09:55,400
+No, non funziona così.
+
+1276
+01:09:55,400 --> 01:09:59,560
+Però facciamo un po' attenzione, soprattutto cerchiamo di capire che i QR
+
+1277
+01:09:59,560 --> 01:10:04,200
+code che trovate per strada, tipo Guerrilla Marketing, ah, figo, inquadra il
+
+1278
+01:10:04,200 --> 01:10:07,160
+QR code che puoi vincere un lingotto d'oro.
+
+1279
+01:10:07,160 --> 01:10:11,320
+Ecco, io farei molta attenzione su quelli perché il mio telefono penso
+
+1280
+01:10:11,320 --> 01:10:14,600
+che abbia inquadrato un solo QR code ed era dimostrativo.
+
+1281
+01:10:14,720 --> 01:10:17,280
+Quindi l'applicazione, la prima volta che l'ho fatta partire, mi ha detto
+
+1282
+01:10:17,360 --> 01:10:18,080
+che roba è questa?
+
+1283
+01:10:18,080 --> 01:10:20,000
+E chi non ha mai visto questo QR code?
+
+1284
+01:10:14,600 --> 01:10:14,760
+Quindi
+
+1285
+01:10:20,800 --> 01:10:25,520
+facciamo attenzione, soprattutto scegliamo delle applicazioni che ti fanno vedere sotto il
+
+1286
+01:10:25,520 --> 01:10:26,640
+link dove ti manda.
+
+1287
+01:10:26,640 --> 01:10:31,520
+Sì, infatti la fotocamera di iPhone abitualmente prima di cliccarci sopra ti
+
+1288
+01:10:31,520 --> 01:10:32,640
+dà anche l'URL.
+
+1289
+01:10:32,640 --> 01:10:33,360
+Abitualmente.
+
+1290
+01:10:33,360 --> 01:10:36,960
+Io ci avevo cliccato, cioè l'avevo inquadrato anche quando avevo il vecchio
+
+1291
+01:10:36,960 --> 01:10:40,720
+telefono, quando avevo l'XR e non c'era sta funzione.
+
+1292
+01:10:40,720 --> 01:10:43,760
+E quindi c'era ok, non era niente di malevolo perché era una
+
+1293
+01:10:43,760 --> 01:10:47,040
+roba generata e quindi sapevo dove portava, però non è che mi
+
+1294
+01:10:47,040 --> 01:10:51,120
+diceva dove stavo andando, quindi un po' di sana paranoia, non è
+
+1295
+01:10:51,120 --> 01:10:53,440
+che ha mai fatto male a nessuno, anche perché uno dice oh
+
+1296
+01:10:53,520 --> 01:10:54,800
+sì, figurati, no?
+
+1297
+01:10:55,120 --> 01:10:56,800
+Ma io non uso mai il condom.
+
+1298
+01:10:56,800 --> 01:10:59,920
+Attenzione, non sto parlando di query condom, sto parlando di un dispositivo
+
+1299
+01:10:59,920 --> 01:11:02,720
+che si mette nei computer, si chiama proprio condom che ti filtra
+
+1300
+01:11:02,880 --> 01:11:06,080
+la connessione, quindi lascia entrare ma non lascia uscire.
+
+1301
+01:11:06,080 --> 01:11:10,800
+Quindi attenzione alle chiavette che trovate in giro che infilate, non le
+
+1302
+01:11:10,800 --> 01:11:13,840
+infilateli in giro, soprattutto non nei muri, attenzione.
+
+1303
+01:11:13,840 --> 01:11:17,120
+E quindi ci vuole un po' di sicurezza, un po' di consapevolezza.
+
+1304
+01:11:17,120 --> 01:11:19,920
+Quindi vale sempre dei topelle worry del Sorri.
+
+1305
+01:11:19,920 --> 01:11:22,160
+Quindi, quando tu mi parli di ah, vai il QR code, era
+
+1306
+01:11:22,320 --> 01:11:23,680
+inquadrato, ecco già lì.
+
+1307
+01:11:23,840 --> 01:11:26,240
+Non ce l'ho sotto mano, ma è proprio il QR code, non
+
+1308
+01:11:26,240 --> 01:11:27,680
+neanche il codice proprio a barra.
+
+1309
+01:11:27,680 --> 01:11:31,440
+Quindi è quella linea del numero della raccomandata per tracciarla.
+
+1310
+01:11:32,480 --> 01:11:34,960
+Ma se tanto se è roba di posta, stai tranquillo che non
+
+1311
+01:11:34,960 --> 01:11:36,080
+funziona nemmeno quello.
+
+1312
+01:11:36,080 --> 01:11:39,280
+No, infatti, la cosa ghiacciante è che ti tocca fare la mano.
+
+1313
+01:11:39,840 --> 01:11:40,880
+È l'unico vantaggio.
+
+1314
+01:11:41,280 --> 01:11:44,160
+Tu c'hai negli occhi uno scanner per.
+
+1315
+01:11:44,640 --> 01:11:47,840
+Praticamente sotto il QR code c'è anche il numerico, ovviamente.
+
+1316
+01:11:47,840 --> 01:11:48,800
+Perché.
+
+1317
+01:11:49,680 --> 01:11:54,640
+La cosa com'è che nell'applicazione tu scansionavi la cosa, ti veniva il
+
+1318
+01:11:54,640 --> 01:11:58,160
+numero, e a quel punto lì facevi la ricerca col codice postale.
+
+1319
+01:11:58,160 --> 01:12:01,400
+Se è stata spedita, se è arrivata, dove è andata, cosa ha
+
+1320
+01:12:01,400 --> 01:12:01,800
+fatto.
+
+1321
+01:12:02,360 --> 01:12:04,040
+Però è già un passo avanti, capisci?
+
+1322
+01:11:59,920 --> 01:12:05,320
+Perché tu potevi fare questa roba.
+
+1323
+01:12:06,200 --> 01:12:08,680
+Adesso non funziona più, non funziona più, e quello è la cosa
+
+1324
+01:12:08,680 --> 01:12:09,000
+più bella.
+
+1325
+01:12:09,000 --> 01:12:10,120
+Adesso si blocca tutto.
+
+1326
+01:12:10,760 --> 01:12:11,720
+Tu ce l'hai la PAC?
+
+1327
+01:12:13,000 --> 01:12:15,720
+Lo sai che io ho provato a farla, non ce l'ho.
+
+1328
+01:12:16,040 --> 01:12:18,920
+Lascia perdere il discorso lunghissimo, non voglio attegare nessuno.
+
+1329
+01:12:18,920 --> 01:12:22,680
+Però, chissà sa che è stato un parto e comunque io non
+
+1330
+01:12:22,680 --> 01:12:23,400
+ho la PAC.
+
+1331
+01:12:23,560 --> 01:12:25,880
+Seconda cosa, tu ce l'hai lo speed?
+
+1332
+01:12:25,880 --> 01:12:26,840
+È scaduto.
+
+1333
+01:12:26,840 --> 01:12:28,680
+Sì, sì, io ce l'ho funzionato.
+
+1334
+01:12:29,640 --> 01:12:31,480
+Però io l'ho fatto con la CNS.
+
+1335
+01:12:31,480 --> 01:12:32,200
+Sì, tu no.
+
+1336
+01:12:32,360 --> 01:12:35,880
+Io avevo già la firma digitale, quindi ti vai molto più in
+
+1337
+01:12:35,880 --> 01:12:36,520
+scivolata.
+
+1338
+01:12:37,560 --> 01:12:42,280
+Io praticamente sto all'estero, quindi sono comunque italiana, faccio questi servizi.
+
+1339
+01:12:42,440 --> 01:12:43,800
+Pack non c'è verso.
+
+1340
+01:12:43,800 --> 01:12:44,440
+Va bene.
+
+1341
+01:12:44,440 --> 01:12:45,160
+Facciamo.
+
+1342
+01:12:45,160 --> 01:12:48,600
+Proviamo a fare lo speed perché penso che possa essere utile.
+
+1343
+01:12:48,600 --> 01:12:52,040
+Attaccati, nel senso che per creare lo speed ho dovuto fare tre
+
+1344
+01:12:52,040 --> 01:12:52,840
+procedure differenti.
+
+1345
+01:12:53,080 --> 01:12:55,960
+Dicevo, ma sei stupida, voglio dire, non ci arrivi.
+
+1346
+01:12:55,960 --> 01:12:59,000
+No, l'ho fatto pure per mio padre e non c'è stato verso
+
+1347
+01:12:59,080 --> 01:13:01,080
+perché qualcosa andava sempre male.
+
+1348
+01:13:01,080 --> 01:13:05,000
+Praticamente era un loop in cui il gatto cercava il gatto motore
+
+1349
+01:13:05,160 --> 01:13:10,760
+burrato, quello che ti dicevo prima, ecco, nel quale non c'era possibilità
+
+1350
+01:13:10,760 --> 01:13:12,360
+di avanzare al next step.
+
+1351
+01:13:12,360 --> 01:13:14,440
+Quindi tu rimanevi lì come in un video.
+
+1352
+01:13:14,680 --> 01:13:19,880
+Ti devo dire la verità: io l'ho fatto all'epoca perché sono tra
+
+1353
+01:13:19,880 --> 01:13:23,800
+le varie cose, sono appassionato di tecnologia come si vede, e quindi
+
+1354
+01:13:23,800 --> 01:13:26,680
+faccio anche formazione per gli avvocati che non sono proprio il top
+
+1355
+01:13:26,680 --> 01:13:29,000
+sulla tecnologia.
+
+1356
+01:13:29,000 --> 01:13:32,600
+Quindi, più per scopi, diciamo, didattici, che altro.
+
+1357
+01:13:32,600 --> 01:13:35,240
+E però ci ho messo così tanto l'ultima volta che l'avevo fatto,
+
+1358
+01:13:35,240 --> 01:13:37,160
+che ho detto: Beh, ma è scaduto, ma chi se frega!
+
+1359
+01:13:37,160 --> 01:13:37,360
+Tanto.
+
+1360
+01:13:37,360 --> 01:13:37,400
+Io
+
+1361
+01:13:38,440 --> 01:13:40,600
+ho la firma digitale, vado con quella.
+
+1362
+01:13:42,040 --> 01:13:46,320
+Certo, tu che ce l'hai, Vantati, mi raccomando, grazie.
+
+1363
+01:13:48,240 --> 01:13:53,200
+Non farlo pesare, io ci lavoro, però no, no, tranquilla.
+
+1364
+01:13:53,520 --> 01:13:55,120
+Va bene, vantati anche di questo.
+
+1365
+01:13:55,120 --> 01:13:58,160
+Scusa, scusa, allora.
+
+1366
+01:13:58,160 --> 01:14:00,800
+Però, se vieni in Italia e in una camera di commercio te
+
+1367
+01:14:00,800 --> 01:14:01,680
+la dovrebbero fare.
+
+1368
+01:14:01,680 --> 01:14:03,440
+Tu presupponi che io voglia andare.
+
+1369
+01:14:03,840 --> 01:14:05,280
+Ok, ci vado per lavoro.
+
+1370
+01:14:05,280 --> 01:14:06,320
+Sono vicina.
+
+1371
+01:14:06,320 --> 01:14:06,960
+Ci vado.
+
+1372
+01:14:06,960 --> 01:14:12,560
+Anche questa domenica sono in Italia a una fiera quindi sicuramente.
+
+1373
+01:14:12,560 --> 01:14:16,000
+Però ora no, grazie, come se avessi accettato.
+
+1374
+01:14:16,000 --> 01:14:19,120
+Guarda, ti ringrazio, siete gentilissimi, ma resto così.
+
+1375
+01:14:19,120 --> 01:14:21,280
+Quindi appena posso brucio.
+
+1376
+01:14:21,600 --> 01:14:25,440
+Nel senso non avrò più documenti italiani, stavo per dire una cosa
+
+1377
+01:14:25,440 --> 01:14:28,720
+brutta, ma ci siamo capiti e quindi io sarò felice come una
+
+1378
+01:14:28,720 --> 01:14:29,120
+pazzo.
+
+1379
+01:14:29,200 --> 01:14:31,280
+Però adesso anche in Europa stanno facendo.
+
+1380
+01:14:31,280 --> 01:14:35,280
+Adesso stiamo facendo una PAC europea, ma la Svizzera è sempre fuori.
+
+1381
+01:14:37,680 --> 01:14:39,920
+Noi siamo fuori, non ce ne frega niente.
+
+1382
+01:14:42,880 --> 01:14:46,240
+Io mi ricordo che la follia delle pack ce l'avevamo noi perché
+
+1383
+01:14:46,240 --> 01:14:51,600
+l'abbiamo inventata noi italiani, intendo: Hong Kong Hong Kong
+
+1384
+01:14:52,720 --> 01:14:52,800
+.
+
+1385
+01:14:53,280 --> 01:14:55,520
+Mi ricordava la Svizzera, però casmai mi sbaglio.
+
+1386
+01:14:57,600 --> 01:14:58,640
+Che tu hai detto?
+
+1387
+01:14:58,640 --> 01:15:02,240
+L'abbiamo inventata noi italiani, poi Hong Kong, non è che hai fatto
+
+1388
+01:15:02,480 --> 01:15:06,240
+sta cosa, diceva: Caspita, la Svezia, abbiamo fatto una roba insieme agli
+
+1389
+01:15:06,240 --> 01:15:10,080
+svedesi, abbiamo fatto delle robe favolose lì che è i quadri svedesi,
+
+1390
+01:15:10,080 --> 01:15:10,720
+le polpette.
+
+1391
+01:15:10,960 --> 01:15:13,680
+Ma io lo dico ai convegni, io lo dico sempre: la PEC
+
+1392
+01:15:13,760 --> 01:15:17,200
+è una nostra invenzione, però non la usa nessuno, fatemi una domanda
+
+1393
+01:15:17,200 --> 01:15:21,200
+e datemi una risposta: anche senza darsi la risposta, nel senso che
+
+1394
+01:15:21,200 --> 01:15:24,800
+basta la domanda, cioè in c'è la PEC, noi abbiamo comunque le
+
+1395
+01:15:24,800 --> 01:15:26,880
+poste qui dicono che funzionano male.
+
+1396
+01:15:26,880 --> 01:15:29,760
+Io ti assicuro, però, che se mando una lettera domani a posta
+
+1397
+01:15:29,760 --> 01:15:32,680
+normale, quindi non prioritaria, dopo due giorni arriva.
+
+1398
+01:15:32,840 --> 01:15:35,960
+Se devo mandare una mail ad un ufficio comunale, anche del paesino
+
+1399
+01:15:36,120 --> 01:15:38,600
+in Cola e Lupi, il giorno dopo mi rispondono.
+
+1400
+01:15:38,600 --> 01:15:42,040
+Se magari l'impiegato non è così avvezio alla tecnologia, alza il telefono,
+
+1401
+01:15:42,040 --> 01:15:43,880
+mi chiama e mi dice: Ascolta, ho ricevuto la tua.
+
+1402
+01:15:43,960 --> 01:15:46,200
+Ora dimmi come ti posso aiutare.
+
+1403
+01:15:46,200 --> 01:15:47,800
+Io ho telefonato alle poste,
+
+1404
+01:15:49,640 --> 01:15:53,720
+14 minuti in attesa, lo so, è una favola dell'orrore e a
+
+1405
+01:15:53,720 --> 01:15:56,840
+questo punto non bisognerebbe comunque raccontarlo.
+
+1406
+01:15:56,920 --> 01:16:01,320
+Tuttavia, 14 minuti in attesa, questa musichina è in linea con l'ufficio.
+
+1407
+01:16:01,560 --> 01:16:07,640
+Mi risponde una persona: spiego brevemente il mio problema, e dico: mi
+
+1408
+01:16:07,640 --> 01:16:10,600
+scusi se non è l'ufficio competente, se non lo è, mi può
+
+1409
+01:16:10,600 --> 01:16:11,720
+passare a quello giusto.
+
+1410
+01:16:11,720 --> 01:16:17,160
+Questo, scusatemi veramente, non farò inflessioni niente, cerco di dirlo com'è, mi
+
+1411
+01:16:17,160 --> 01:16:20,120
+fa e io che ne so, e mi ha attaccato.
+
+1412
+01:16:21,160 --> 01:16:25,160
+Capisci che mi sono saliti tutti i demoni, e si è palesata
+
+1413
+01:16:25,160 --> 01:16:29,320
+la stella della morte di Kenshi, ma non è stata hackerata le
+
+1414
+01:16:29,320 --> 01:16:31,000
+poste recentemente,
+
+1415
+01:16:32,360 --> 01:16:33,240
+ma le poste sono
+
+1416
+01:16:34,360 --> 01:16:35,880
+e colla Brodo.
+
+1417
+01:16:35,880 --> 01:16:37,400
+Note con la brodo.
+
+1418
+01:16:37,400 --> 01:16:43,800
+Solitamente hanno rubato soldi e le cose postali sono quelle più rubate
+
+1419
+01:16:43,800 --> 01:16:46,200
+dappertutto, praticamente.
+
+1420
+01:16:46,200 --> 01:16:49,240
+Potrei dire che gli sta bene, però dispiace perché ce ne fanno
+
+1421
+01:16:49,240 --> 01:16:51,080
+comunque le spese le persone.
+
+1422
+01:16:51,080 --> 01:16:53,560
+Povera gente, la signora che non si trova più sul conto i
+
+1423
+01:16:53,560 --> 01:16:59,400
+suoi soldi oppure si trova una raccomandata dove la informano di attacco
+
+1424
+01:16:59,400 --> 01:17:01,480
+hacker e questo dice: Ma che volete da me?
+
+1425
+01:17:01,480 --> 01:17:03,080
+Ma mica sono stata io.
+
+1426
+01:17:02,880 --> 01:17:06,400
+Cioè, io voglio sapere che funziona tutto, non è che ti rassicurano,
+
+1427
+01:17:06,280 --> 01:17:10,520
+no, ti infilano perché sono veramente stronzi, bastar di dentro.
+
+1428
+01:17:10,600 --> 01:17:16,400
+Cercano di spiegarti la roba con un senso di assetticismo proprio chirurgico.
+
+1429
+01:17:16,560 --> 01:17:20,800
+È stato recentemente portato alla nostra attenzione, e da chi, non certo
+
+1430
+01:17:20,960 --> 01:17:24,080
+dai vostri esperti, probabilmente dagli altri che se ne sono accorti, che
+
+1431
+01:17:24,080 --> 01:17:27,040
+c'è stato un attacco informatico e lì tu pensi a war games,
+
+1432
+01:17:27,040 --> 01:17:31,360
+l'attacco termonucleare, il computer che parla, la roba di Star Trek, dici
+
+1433
+01:17:31,440 --> 01:17:34,880
+cazzo, siamo veramente nel futuro, chissà cos'è successo.
+
+1434
+01:17:34,880 --> 01:17:39,040
+Vogliamo tuttavia rassicurarla che non solo ne abbiamo preso coscienza, grazie a
+
+1435
+01:17:39,040 --> 01:17:42,320
+cazzo, mi sembra la cosa più logica da fare, ma stiamo facendo
+
+1436
+01:17:42,880 --> 01:17:47,280
+il minimo: certo, stiamo facendo di tutto per ripristinare il sistema.
+
+1437
+01:17:47,280 --> 01:17:48,640
+Che vuol dire tutto e niente?
+
+1438
+01:17:48,640 --> 01:17:51,360
+Vuol dire: cioè, l'ho capito, io non ci posso fare niente.
+
+1439
+01:17:51,360 --> 01:17:54,720
+Ci sono quei quattro stronzi che lavorano all'ufficio IT che forse se
+
+1440
+01:17:54,720 --> 01:17:55,520
+ne occupano.
+
+1441
+01:17:55,520 --> 01:17:59,040
+Noi per il resto, lo stipendio me lo prendo, o vita mia,
+
+1442
+01:17:59,040 --> 01:18:01,200
+mortua alla fine, chi se ne è.
+
+1443
+01:18:01,440 --> 01:18:04,800
+E quindi mi immagino la persona che riceve questa cosa e non
+
+1444
+01:18:04,800 --> 01:18:08,000
+sa niente di tutto questo, o la prende su ride e dice,
+
+1445
+01:18:08,240 --> 01:18:10,880
+è uno scherzo, questi sono dei burloni.
+
+1446
+01:18:10,880 --> 01:18:14,640
+Oppure si preoccupa, soprattutto perché non ne hanno detto che cosa è
+
+1447
+01:18:14,640 --> 01:18:17,760
+successo, non hanno detto che hanno sfiltrato dei dati e quindi non
+
+1448
+01:18:17,760 --> 01:18:20,720
+ci abbiamo in mano i vostri documenti, e mi faccio un conto
+
+1449
+01:18:20,720 --> 01:18:24,240
+alle Caiman a nome della sua Ralella.
+
+1450
+01:18:24,800 --> 01:18:27,840
+Questo è grave, non glielo dicono e questi qua vabbè fa niente.
+
+1451
+01:18:27,840 --> 01:18:30,720
+Poi arrivano dopo cinque anni, ma signora, ma lei è il titolare
+
+1452
+01:18:30,720 --> 01:18:33,440
+di una barca di un 12 metri alle Cayman?
+
+1453
+01:18:33,440 --> 01:18:38,000
+Dice, ma guardi, io al massimo so, il mare lì sotto casa
+
+1454
+01:18:38,000 --> 01:18:41,360
+mia, a torre del lago, lì però non mi ricordo che fosse
+
+1455
+01:18:41,360 --> 01:18:43,200
+un 12 metri, è un canottino gonfiabile.
+
+1456
+01:18:43,280 --> 01:18:45,840
+No, no, non è un titolare di questo, c'è un sacco di
+
+1457
+01:18:45,840 --> 01:18:48,320
+sole sul conto corrente, ci segua per accertamento.
+
+1458
+01:18:48,640 --> 01:18:50,800
+Sto preparando le polpette che vi seguo.
+
+1459
+01:18:50,800 --> 01:18:52,920
+No, perché è importante, signora.
+
+1460
+01:18:52,920 --> 01:18:55,760
+Perché lei è assolutamente il titolare di questo lago, ho capito Ciccio,
+
+1461
+01:18:55,760 --> 01:18:57,680
+ma se c'è avessi il conto alle Caima, ma sto qui a
+
+1462
+01:18:57,680 --> 01:19:00,520
+preparare le polpette veramente, a Marina di Torre del Lago.
+
+1463
+01:18:59,920 --> 01:19:05,400
+Veramente c'è questo e non lo capiscono, non c'è comunicazione.
+
+1464
+01:19:06,600 --> 01:19:10,840
+Anche perché stavo pensando che non dovrebbero essere obbligati qualche modo quando
+
+1465
+01:19:10,840 --> 01:19:12,280
+succede un tipo di.
+
+1466
+01:19:12,360 --> 01:19:13,320
+Sì, sì, va bene.
+
+1467
+01:19:13,320 --> 01:19:15,320
+Diciamo espiltrazione di dati di questo tipo:
+
+1468
+01:19:16,600 --> 01:19:20,440
+ma dovrebbero dire, infatti, non dovrebbero essere obbligati nel senso.
+
+1469
+01:19:20,760 --> 01:19:22,600
+Queste cose qua anche a me fanno abbastanza arrabbiare.
+
+1470
+01:19:22,600 --> 01:19:24,680
+Io andrei lì con una mazza, spaccherei tutto.
+
+1471
+01:19:25,080 --> 01:19:27,640
+Succedono queste cose, fanno una comunicazione del genere e ti viene proprio
+
+1472
+01:19:27,640 --> 01:19:30,200
+di andare lì e entrare nel primo ufficio a spaccare tutti i
+
+1473
+01:19:30,200 --> 01:19:32,120
+tavoli che trovi, perché.
+
+1474
+01:19:32,280 --> 01:19:36,200
+Ma non solo di quelli, io devono ringraziare che non sono un
+
+1475
+01:19:36,200 --> 01:19:37,800
+garante di qualsiasi altra cosa.
+
+1476
+01:19:37,800 --> 01:19:40,200
+Perché forse il garante entro col lanciafiamme lì.
+
+1477
+01:19:40,200 --> 01:19:41,560
+Ha detto adesso voglio sapere tutto.
+
+1478
+01:19:41,560 --> 01:19:44,840
+Però prima vi incendio tutti i locali, poi mi raccontate.
+
+1479
+01:19:44,840 --> 01:19:48,280
+Ma il salto gioco, è parastato.
+
+1480
+01:19:48,360 --> 01:19:52,520
+Sei composta, quindi se fai male alle poste, fai male allo stato.
+
+1481
+01:19:52,520 --> 01:19:55,560
+Sì, come la team, compagnie brisca.
+
+1482
+01:19:55,560 --> 01:19:57,320
+Che potrebbe essere cosa buona e giusta.
+
+1483
+01:19:57,560 --> 01:20:02,360
+Però, insomma, comunque Claudia, se ti può soddisfare, a un certo punto
+
+1484
+01:20:02,600 --> 01:20:06,520
+rischiavamo anche che lo speed saltasse, poi l'hanno tenuto in vita ancora
+
+1485
+01:20:06,520 --> 01:20:07,240
+per due anni.
+
+1486
+01:20:08,200 --> 01:20:11,240
+Guarda, l'unico commento che ho da fare su questo è quello che
+
+1487
+01:20:11,240 --> 01:20:14,440
+dice sempre il mio professore di informatica, quello famoso al quale ho
+
+1488
+01:20:14,440 --> 01:20:19,000
+chiesto scusa prima, mettetemi un altro chiodino e datemi un'altra martellata che
+
+1489
+01:20:19,000 --> 01:20:20,680
+vedevo?
+
+1490
+01:20:21,320 --> 01:20:24,280
+Lui è proprio così, quando gli andavi a chiedere Leroy, lui ti
+
+1491
+01:20:24,280 --> 01:20:27,720
+rispondeva così: che poi lo vedevi che sembrava veramente sto Cristo in
+
+1492
+01:20:27,720 --> 01:20:33,400
+croce, aveva una vaga rassomiglianza, e quindi quando ti diceva così, proprio
+
+1493
+01:20:33,400 --> 01:20:37,800
+che non era esattamente fiorentino, secondo me era più verso il pratese
+
+1494
+01:20:38,360 --> 01:20:40,360
+e c'è una forte differenza.
+
+1495
+01:20:40,360 --> 01:20:44,040
+Non soffermiamoci qui perché, sennò stiamo qui a parlarne per i prossimi
+
+1496
+01:20:44,040 --> 01:20:44,520
+50 anni.
+
+1497
+01:20:44,720 --> 01:20:50,080
+Te lo diceva così, ti lasciava dentro una marezza, un'angoscia, dicevi, poverino,
+
+1498
+01:20:50,160 --> 01:20:54,320
+ti veniva quasi valori i dadi una pezzetta imbevuta d'acqua e aceto,
+
+1499
+01:20:54,320 --> 01:20:57,040
+però fermavi lì quanto sta soffrendo.
+
+1500
+01:20:57,120 --> 01:20:58,240
+Quindi, questo è quello che diceva lui.
+
+1501
+01:20:58,240 --> 01:21:00,400
+E quando ha detto, togliamo lo speed si.
+
+1502
+01:21:00,400 --> 01:21:04,960
+Appunto, terminiamolo subito e invece siamo sempre lì, lo rianimano ogni volta.
+
+1503
+01:21:05,840 --> 01:21:11,760
+Fine pena mai, ma non ti dico niente sulla CEI che pena
+
+1504
+01:21:11,840 --> 01:21:13,120
+mai, anche questa.
+
+1505
+01:21:13,840 --> 01:21:18,000
+Non mi tange, non mi tange, basta, finito, non voglio più averci
+
+1506
+01:21:18,000 --> 01:21:18,800
+nulla a che fare.
+
+1507
+01:21:18,800 --> 01:21:21,840
+Se mi vogliono identificare, mi dicono te chi sei.
+
+1508
+01:21:21,840 --> 01:21:24,240
+Io ho la carta d'identità cartacea.
+
+1509
+01:21:24,240 --> 01:21:27,920
+Me la guardate, quelle belle di una volta così la patente, ho
+
+1510
+01:21:27,920 --> 01:21:30,560
+fatto la conversione, ma prima c'è quella rosa che si piegava in
+
+1511
+01:21:30,560 --> 01:21:33,360
+treti poi i fogli che non sapevi mai cosa dava sopra sotto.
+
+1512
+01:21:33,440 --> 01:21:38,400
+Gliela do se vuoi controlli qui, se non ti fidi, non lo
+
+1513
+01:21:38,400 --> 01:21:42,240
+so, chiama i miei genitori, chiama qualcuno, se per piacere se ti
+
+1514
+01:21:42,240 --> 01:21:45,520
+vale, se no, ti faccio un'autocertificazione se ti va bene, se non
+
+1515
+01:21:45,520 --> 01:21:48,560
+ti va bene, ma no, bisogna collegarci con il server per vedere
+
+1516
+01:21:48,560 --> 01:21:49,440
+di quella e di là.
+
+1517
+01:21:49,440 --> 01:21:50,080
+Che fai?
+
+1518
+01:21:50,080 --> 01:21:51,600
+Ci si rivede domani, tranquilla.
+
+1519
+01:21:52,560 --> 01:21:56,800
+Senti un po', Claudia, sfrutta ancora un attimo le capacità.
+
+1520
+01:21:56,800 --> 01:22:00,320
+Visto che andiamo verso la chiusura della serata, adesso non ho ancora
+
+1521
+01:22:00,320 --> 01:22:03,680
+guardato l'ora, perché ero qua che stavo vedendo scherzando,
+
+1522
+01:22:04,720 --> 01:22:07,600
+direi che non dobbiamo abusare di Claudia, come
+
+1523
+01:22:08,640 --> 01:22:13,840
+ultima domanda, o perultima, un consiglio informatico per gli ascoltatori che ci
+
+1524
+01:22:13,840 --> 01:22:14,960
+hanno seguito fino a qua?
+
+1525
+01:22:14,960 --> 01:22:18,640
+Due: il primo, le password per piacere, non sono il nome del
+
+1526
+01:22:18,640 --> 01:22:22,000
+cane, del gatto, della nonna, della zia, perché i metodi di social
+
+1527
+01:22:22,000 --> 01:22:24,080
+engineering e di phishing sono infiniti.
+
+1528
+01:22:24,080 --> 01:22:28,560
+Quindi, ma password sicure, lunghe, combinazioni di caratteri, non è che le
+
+1529
+01:22:28,560 --> 01:22:29,960
+dovete cambiare ogni tre giorni.
+
+1530
+01:22:29,840 --> 01:22:33,720
+No, secondo occhio a quello che postate perché si trova tutto, tutto.
+
+1531
+01:22:33,800 --> 01:22:36,840
+E i miei studenti spesso quando si comincia il corso dicono: allora,
+
+1532
+01:22:36,840 --> 01:22:39,800
+voi se avete un social network, sì, da quanto ce l'avete?
+
+1533
+01:22:39,800 --> 01:22:42,840
+3 anni, 4 anni, 5 anni, i più boomer ce l'hanno magari
+
+1534
+01:22:42,840 --> 01:22:43,640
+da 15 anni.
+
+1535
+01:22:43,640 --> 01:22:46,920
+Beh, in andate a guardare il primo post, uno, due, tre, quattro,
+
+1536
+01:22:46,920 --> 01:22:51,080
+cinque post e ditemi, li vanno a vedere senza rendersi conto che
+
+1537
+01:22:51,080 --> 01:22:54,520
+loro sono cambiati, sono cresciuti, sono maturati, sono cambiate le idee, è
+
+1538
+01:22:54,520 --> 01:22:59,240
+cambiato tutto, si vergognano e dicono, caspita, ma io veramente, ma ho
+
+1539
+01:22:59,240 --> 01:23:02,280
+fatto questo, ma ho detto questo, per loro è divertente, è una
+
+1540
+01:23:02,280 --> 01:23:03,000
+riscoperta.
+
+1541
+01:23:03,000 --> 01:23:06,680
+Ah, guarda che carino, c'avevo 13 anni, c'avevo i pantaloncini verdi, che
+
+1542
+01:23:06,680 --> 01:23:07,960
+schifo, non mi piace più il verde.
+
+1543
+01:23:08,040 --> 01:23:11,080
+Questo può essere divertente, è un po' il nostro album dei ricordi.
+
+1544
+01:23:11,080 --> 01:23:15,720
+Però quando queste cose condizionano la vita lavorativa e la tua reputazione
+
+1545
+01:23:15,880 --> 01:23:19,480
+diventa un grosso problema perché se tu hai fatto delle dichiarazioni anche
+
+1546
+01:23:19,480 --> 01:23:23,400
+in preda ai fumi dell'alcol, perché quella sera eri piuttosto al ticcio
+
+1547
+01:23:23,480 --> 01:23:27,240
+e hai detto delle cose, se non le cancelli restano.
+
+1548
+01:23:27,240 --> 01:23:30,280
+E quindi qualcuno che magari vuole andare a vedere chi sei, cosa
+
+1549
+01:23:30,280 --> 01:23:34,600
+fai, così va a scavare un attimino, gratta un pochettino sotto la
+
+1550
+01:23:34,600 --> 01:23:39,080
+superficie, comincia ad andare a vedere e scavare e trova praticamente cosa
+
+1551
+01:23:39,080 --> 01:23:39,640
+succede?
+
+1552
+01:23:39,640 --> 01:23:42,680
+Succede che diventa un problema.
+
+1553
+01:23:42,680 --> 01:23:45,640
+Diventa un problema per tanti motivi.
+
+1554
+01:23:45,640 --> 01:23:50,040
+Perché questo può minare il tuo essere professionale, il tuo essere coerente,
+
+1555
+01:23:50,040 --> 01:23:54,120
+il tuo essere credibile, la tua reputazione e soprattutto può diventare un
+
+1556
+01:23:54,120 --> 01:23:56,440
+problema se tu cerchi lavoro in un certo ambito.
+
+1557
+01:23:56,520 --> 01:24:01,640
+Qualsiasi tipo di ambito accettano persone che sono di certi livelli, quindi
+
+1558
+01:24:01,640 --> 01:24:05,480
+lo studio, l'aspetto, purtroppo siamo ancora fermi all'aspetto.
+
+1559
+01:24:05,480 --> 01:24:09,400
+Qui in Svizzera ci sono poliziotti super tatuati con 3-4 orecchini e
+
+1560
+01:24:09,400 --> 01:24:12,520
+nessuno gli dice niente, anche in banca trovi la persona, l'ha detto
+
+1561
+01:24:12,600 --> 01:24:17,120
+allo sportello, con una manica di tatuaggi favolosi e nessuno lo discrimina.
+
+1562
+01:24:17,360 --> 01:24:22,240
+Quindi aboliamo questa discriminazione intanto, però purtroppo succede ancora che quando vai
+
+1563
+01:24:22,240 --> 01:24:26,640
+a cercare, quando fai background check sulle persone, scopri cose e se
+
+1564
+01:24:26,640 --> 01:24:28,880
+sono cose divertenti è divertente.
+
+1565
+01:24:28,880 --> 01:24:32,480
+Se scopri cose non belle non è più divertente e questo ti
+
+1566
+01:24:32,480 --> 01:24:33,120
+può mirare.
+
+1567
+01:24:33,120 --> 01:24:39,120
+Quindi attenzione, perché non solo dalla parte lavorativa, ma se voi domani
+
+1568
+01:24:39,120 --> 01:24:42,560
+prenotate il volo per andare alle Caiman a trovare la nonna che
+
+1569
+01:24:42,560 --> 01:24:43,840
+c'ha e il conto lì.
+
+1570
+01:24:43,840 --> 01:24:46,640
+Vi fate il selfie con i biglietti in mano.
+
+1571
+01:24:46,640 --> 01:24:47,920
+Wow che figo!
+
+1572
+01:24:48,080 --> 01:24:51,440
+Io vado a zoomare la foto, leggo nome, cognome, tutto il resto,
+
+1573
+01:24:51,440 --> 01:24:52,400
+tutto quello che serve.
+
+1574
+01:24:52,400 --> 01:24:57,520
+Poi dite: allora sono partito adesso dall'aeroporto di Orio al serio, fantastico,
+
+1575
+01:24:57,520 --> 01:24:58,640
+bellissimo aeroporto.
+
+1576
+01:24:58,640 --> 01:25:01,120
+Io so che te non sei a casa, starò via tre settimane,
+
+1577
+01:25:01,120 --> 01:25:03,680
+quindi guardate che belle foto dalle Cayman che vi faccio, so che
+
+1578
+01:25:03,680 --> 01:25:06,560
+voi siete alle Cayman e quindi io so che comunque avete lasciato
+
+1579
+01:25:06,560 --> 01:25:07,360
+la casa libera.
+
+1580
+01:25:07,360 --> 01:25:11,520
+Ma poi siete anche intelligentissimi perché dite, io ho installato quell'allarme super
+
+1581
+01:25:11,520 --> 01:25:15,760
+fighissimo, super meraviglioso, che mi permette di vedere dal telefono di casa
+
+1582
+01:25:15,760 --> 01:25:17,040
+che cosa succede a casa mia.
+
+1583
+01:25:17,040 --> 01:25:17,680
+Ah, perfetto!
+
+1584
+01:25:17,680 --> 01:25:21,920
+Quindi c'hai una telecamera a casa, un IoT, Internet of Things, e
+
+1585
+01:25:21,920 --> 01:25:26,320
+io ricordo sempre che la S in IoT sta per sicurezza.
+
+1586
+01:25:26,320 --> 01:25:27,600
+Che non c'è esatto.
+
+1587
+01:25:27,600 --> 01:25:30,800
+E che quindi le persone non ci pensano, ma non perché sono
+
+1588
+01:25:30,800 --> 01:25:35,120
+stupide, ma perché spesso non fanno casa a queste cose, perché 50
+
+1589
+01:25:35,120 --> 01:25:38,480
+anni fa, ma banalmente, quando ero più cina, io andavo al supermercato
+
+1590
+01:25:38,480 --> 01:25:39,200
+con la minonna.
+
+1591
+01:25:39,200 --> 01:25:44,960
+La minonna si dimenticava costantemente qualcosa, mi piantava, la fermata dell'autobus che
+
+1592
+01:25:44,960 --> 01:25:48,400
+stava a 50 metri dal supermercato, mi diceva al primo meno che
+
+1593
+01:25:48,400 --> 01:25:52,280
+passava: Me la guarda un attimo, ho lasciato le cipolle e voci
+
+1594
+01:25:52,240 --> 01:25:52,960
+a comprarle.
+
+1595
+01:25:52,960 --> 01:25:56,880
+Quando tornava, pensate alla fiducia, della scena bambina, al primo che trovo,
+
+1596
+01:25:56,880 --> 01:25:58,160
+cioè non manco sai chi è.
+
+1597
+01:25:58,160 --> 01:26:01,320
+Quando tornava la minonna, non è che diceva: Oh, grazie, c'è tutto
+
+1598
+01:26:01,320 --> 01:26:02,200
+a posto, tutto bene.
+
+1599
+01:26:02,360 --> 01:26:04,600
+Signore, l'ha dato fastidio la mia nipote?
+
+1600
+01:26:04,600 --> 01:26:06,440
+No, perché se no ci penso io, eh.
+
+1601
+01:25:59,840 --> 01:26:06,680
+Cioè,
+
+1602
+01:26:06,760 --> 01:26:08,120
+quindi doveva pure essere colpa mia.
+
+1603
+01:26:08,120 --> 01:26:10,280
+Quindi pensiamo un po' come sono cambiate le cose.
+
+1604
+01:26:10,280 --> 01:26:14,040
+Adesso è facilissimo dire quello lì, no, io non lascio quella cosa
+
+1605
+01:26:14,040 --> 01:26:16,440
+lì in giro perché ho paura che me la rubino, a volte
+
+1606
+01:26:16,440 --> 01:26:17,560
+ci lasciavano noi.
+
+1607
+01:26:17,560 --> 01:26:22,840
+Quindi, come è cambiata la storia, l'evoluzione, la fiducia, la tecnica e
+
+1608
+01:26:22,840 --> 01:26:27,000
+soprattutto la tecnologia, è cambiato tutto e noi siamo in malia di
+
+1609
+01:26:27,000 --> 01:26:27,240
+questo.
+
+1610
+01:26:27,240 --> 01:26:29,880
+E se non si sta un attimino attenti, dice, ma se il
+
+1611
+01:26:29,880 --> 01:26:31,960
+QR code lo blocchiamo, blocchiamo tutto.
+
+1612
+01:26:31,960 --> 01:26:34,840
+No, siamo consapevoli di quello che succede, di quello che ci sta
+
+1613
+01:26:34,840 --> 01:26:35,320
+intorno.
+
+1614
+01:26:35,320 --> 01:26:37,640
+Se io posto la roba e mi dico che caspita, mi hanno
+
+1615
+01:26:37,640 --> 01:26:41,080
+svaliggiato a casa e poi c'è questo tipo di allarme montato di
+
+1616
+01:26:41,080 --> 01:26:43,880
+qua e di là, io sono furba perché ho messo la telecamera
+
+1617
+01:26:43,880 --> 01:26:46,680
+in salotto in cucina, in bagno, perché voglio vedere chi va in
+
+1618
+01:26:46,680 --> 01:26:50,040
+bagno e chi mi spreme il tubeto del denitricio dal fondo e
+
+1619
+01:26:50,040 --> 01:26:50,760
+non dal mezzo.
+
+1620
+01:26:50,760 --> 01:26:53,240
+E io sono e anche in garage e quante informazioni che mi
+
+1621
+01:26:53,240 --> 01:26:53,720
+stai dando.
+
+1622
+01:26:53,720 --> 01:26:56,680
+Io passo da casa tua, un gemmer, disattivo tutto e faccio i
+
+1623
+01:26:56,680 --> 01:26:57,320
+cavoli miei.
+
+1624
+01:26:57,320 --> 01:27:00,680
+Allora, un pochettino più di riservatezza che tanto alla fine, ok?
+
+1625
+01:27:00,680 --> 01:27:04,120
+Che è un mondo di why quindi ci piace vedere, però anche
+
+1626
+01:27:04,120 --> 01:27:06,920
+meno, nel senso, informazioni personali, diamone meno.
+
+1627
+01:27:06,920 --> 01:27:10,680
+Su di noi, sulla nostra famiglia, il social engineering è fantastico in
+
+1628
+01:27:10,680 --> 01:27:14,360
+questo, ti basta parlare con delle persone per sapere cose, ti basta
+
+1629
+01:27:14,360 --> 01:27:15,960
+vedere una foto per capire cose.
+
+1630
+01:27:15,960 --> 01:27:17,320
+Attenzione a quello che postiamo.
+
+1631
+01:27:17,320 --> 01:27:20,920
+Non voglio entrare in altri ambiti perché no, però bastano questi, penso.
+
+1632
+01:27:20,920 --> 01:27:24,680
+Io non so voi, ma quando ha detto basta grattare un po',
+
+1633
+01:27:24,680 --> 01:27:27,880
+e l'ho vista dalla telecamera che grattava a me e mi è
+
+1634
+01:27:27,960 --> 01:27:31,960
+muto un brivido sulla schiena e ho detto: qui si mette male.
+
+1635
+01:27:31,960 --> 01:27:36,600
+Ma attenzione a perfetta: guarda, ti faccio vedere il pellicano, che così
+
+1636
+01:27:36,760 --> 01:27:38,120
+almeno ti tranquillizza.
+
+1637
+01:27:38,080 --> 01:27:40,440
+Sì, mi tranquillizza un po', diciamo.
+
+1638
+01:27:40,440 --> 01:27:43,160
+Ma è tutto vero, è un grosso problema.
+
+1639
+01:27:43,160 --> 01:27:46,800
+Io l'ho riscontrato, sarà stato non più di un mese fa.
+
+1640
+01:27:44,840 --> 01:27:50,400
+Che mi ha fatto abbastanza pensare, è una stupidaggine.
+
+1641
+01:27:50,560 --> 01:27:54,480
+Anche soltanto uno dei social che, secondo me, forse è uno dei
+
+1642
+01:27:54,480 --> 01:27:57,360
+più pericolosi, perché forse viene preso un po' sotto gamba.
+
+1643
+01:27:57,360 --> 01:28:02,960
+Che Instagram, secondo me, di cui esatto, è metà, scusami, è una
+
+1644
+01:28:02,960 --> 01:28:04,160
+roba pericolosissima.
+
+1645
+01:28:04,400 --> 01:28:05,920
+La quantità smodata.
+
+1646
+01:28:05,920 --> 01:28:06,640
+No, no, ma
+
+1647
+01:28:08,080 --> 01:28:11,440
+non è tanto quello il problema, il problema è che è capitato
+
+1648
+01:28:11,440 --> 01:28:16,000
+con una mia amica che si è fatta la fotografia dicendo oggi
+
+1649
+01:28:16,000 --> 01:28:20,720
+parte un po' in salita la giornata, perché vado a farmi gli
+
+1650
+01:28:20,720 --> 01:28:21,840
+esami del sangue.
+
+1651
+01:28:21,840 --> 01:28:25,840
+Solo che questa cacchio di fotografia ho avuto la bella pensata di
+
+1652
+01:28:25,840 --> 01:28:29,840
+far vedere anche una parte dell'impegnativa.
+
+1653
+01:28:29,840 --> 01:28:33,280
+Soltanto che cacchio, questa impegnativa c'è il suo codice fiscale lì sopra.
+
+1654
+01:28:33,520 --> 01:28:33,680
+Io
+
+1655
+01:28:34,880 --> 01:28:36,320
+ho detto che non può essere.
+
+1656
+01:28:36,320 --> 01:28:41,120
+Io da stupido sull'iPhone l'ho ingrandita e si leggeva, sono queste qui
+
+1657
+01:28:41,120 --> 01:28:44,480
+le cose che quando mi dice appunto Claudio vado a grattare un
+
+1658
+01:28:44,480 --> 01:28:48,640
+po', ragazzi, se inizia veramente la gente a grattare, salta fuori di
+
+1659
+01:28:48,640 --> 01:28:50,960
+tutto, c'è da avere paura.
+
+1660
+01:28:51,600 --> 01:28:54,320
+Perché devo far fatica a bucare alle poste se posso trovare le
+
+1661
+01:28:54,320 --> 01:28:55,280
+stesse cose sui social.
+
+1662
+01:28:56,240 --> 01:29:00,640
+Tu consideri che io e te, Roberto, essendo professionisti, abbiamo i nostri
+
+1663
+01:29:00,640 --> 01:29:06,400
+codici fiscali, belli belli su internet, perché siamo negli albi dell'ordine online.
+
+1664
+01:29:06,800 --> 01:29:07,840
+Io ho paura.
+
+1665
+01:29:07,840 --> 01:29:10,640
+Nel senso, se devo pensare a tutti i comuni che ho lasciato
+
+1666
+01:29:10,640 --> 01:29:14,560
+i miei dati, tutti i comuni, e i comuni che piccoli che
+
+1667
+01:29:14,560 --> 01:29:16,640
+ci sono in giro per la provincia di Torino che hanno i
+
+1668
+01:29:16,640 --> 01:29:21,840
+miei dati, che sono bucabili, penso, da Claudia, mentre sta probabilmente non
+
+1669
+01:29:21,840 --> 01:29:24,240
+so, prendendo un caffè da qualche parte.
+
+1670
+01:29:24,240 --> 01:29:25,440
+Dice Oggi cosa faccio?
+
+1671
+01:29:25,440 --> 01:29:28,880
+Ma guarda, gli buco un comune lì e trovo tutti i miei
+
+1672
+01:29:28,880 --> 01:29:30,000
+dati, ma non sono quelli.
+
+1673
+01:29:30,680 --> 01:29:34,280
+Perché rendiamoci conto che comunque ci sono dei comuni così piccoli che
+
+1674
+01:29:34,280 --> 01:29:37,880
+fanno fatica ad arrivare a chiudere il bilancio.
+
+1675
+01:29:37,880 --> 01:29:41,240
+E la sicurezza informatica è l'ultimo dei loro problemi.
+
+1676
+01:29:41,240 --> 01:29:45,400
+In questo senso, c'è sotto molti aspetti, anche dal punto di vista
+
+1677
+01:29:45,400 --> 01:29:50,760
+mio di architetto, che tendo sempre a parlare della tecnologia applicata all'architettura,
+
+1678
+01:29:50,760 --> 01:29:53,000
+è molto bella e via discorrendo.
+
+1679
+01:29:53,000 --> 01:29:58,760
+Però Claudia ha detto una cosa vera che dovrei ricordarlo, e la
+
+1680
+01:29:58,760 --> 01:30:01,400
+ringrazio per questo, lo ricordo più spesso nei podcast.
+
+1681
+01:30:01,400 --> 01:30:05,880
+Della S di IoT che io associo essenzialmente ai digital twin.
+
+1682
+01:30:05,880 --> 01:30:09,400
+Messa sotto questa prospettiva della S che, in tutte queste parole, non
+
+1683
+01:30:09,400 --> 01:30:14,920
+esiste, ho paura, perché vuol dire che qualsiasi casa, qualsiasi edificio, qualsiasi
+
+1684
+01:30:14,920 --> 01:30:17,560
+infrastruttura è tranquillamente bucabile.
+
+1685
+01:30:18,760 --> 01:30:21,800
+Ognuno di noi che ha un minimo di capacità di arrivare a
+
+1686
+01:30:21,800 --> 01:30:25,560
+fare queste cose, potrebbe mettere in crisi un'intera nazione senza grossi problemi.
+
+1687
+01:30:25,560 --> 01:30:27,560
+L'abbiamo visto anche recentemente con qualche.
+
+1688
+01:30:27,640 --> 01:30:29,880
+c'è stato un periodo che cadevano come.
+
+1689
+01:30:33,000 --> 01:30:37,320
+Oltre alle spiegazioni abberranti, tutta colpa degli hair russi basta che venivano
+
+1690
+01:30:37,320 --> 01:30:37,960
+date.
+
+1691
+01:30:37,960 --> 01:30:39,240
+La questione è che.
+
+1692
+01:30:39,560 --> 01:30:40,520
+sì, esatto, che
+
+1693
+01:30:42,680 --> 01:30:44,840
+a me quello che mi lascia perplesso è che non c'è un
+
+1694
+01:30:44,840 --> 01:30:45,720
+piano B.
+
+1695
+01:30:45,720 --> 01:30:47,640
+Nel senso, se c'è una
+
+1696
+01:30:49,000 --> 01:30:51,800
+so se era vero, perché a un certo punto incominciavi a sentire
+
+1697
+01:30:51,800 --> 01:30:54,760
+di tutto, però a sentire dei server che cadono perché si è
+
+1698
+01:30:54,760 --> 01:30:57,640
+staccata la spina di qualche cosa e è andato giù.
+
+1699
+01:30:57,640 --> 01:31:01,720
+Tutto non c'è un cacchio di gruppo di continuità, oppure in effetti,
+
+1700
+01:31:02,280 --> 01:31:07,240
+c'è stata un niente che ha fatto cadere un sistema grande e
+
+1701
+01:31:07,240 --> 01:31:08,440
+non c'è un piano B.
+
+1702
+01:31:08,400 --> 01:31:12,600
+Io mi chiedo ma nei sistemi di una certa portata, non ci
+
+1703
+01:31:12,600 --> 01:31:14,920
+dovrebbe essere solo il piano B, ci dovrebbe anche essere il C
+
+1704
+01:31:14,920 --> 01:31:17,920
+e molto probabilmente anche il D, per essere sicuri.
+
+1705
+01:31:18,480 --> 01:31:21,920
+Ma qui ci stiamo addentrando in scelte politiche, che non è il
+
+1706
+01:31:21,920 --> 01:31:25,200
+nostro caso di entrare nel merito, invece, quello che dobbiamo entrare nel
+
+1707
+01:31:25,200 --> 01:31:29,040
+merito noi, come ultima domanda, per lasciare tranquilla un attimo Claudia, se
+
+1708
+01:31:29,040 --> 01:31:32,240
+non si era ancora capito, ci devi raccontare un tuo hobby.
+
+1709
+01:31:32,400 --> 01:31:33,840
+Collezione unicorni.
+
+1710
+01:31:33,840 --> 01:31:37,440
+Ma io lo so scherzando, lo so, ma io li ho visti,
+
+1711
+01:31:37,440 --> 01:31:41,120
+nel senso che so bene di che si tratta, ma secondo me
+
+1712
+01:31:41,120 --> 01:31:42,240
+devi dare un contorno.
+
+1713
+01:31:42,240 --> 01:31:47,840
+Perché collezioni unicorni, uno pensa che magari collezioni dei pazzi, delle figure.
+
+1714
+01:31:47,840 --> 01:31:49,360
+A che livello siamo arrivati?
+
+1715
+01:31:50,400 --> 01:31:57,680
+Allora siamo arrivati, abbiamo unicorni in peluche rosa, neri e argento, uno
+
+1716
+01:31:57,680 --> 01:31:58,400
+dorato.
+
+1717
+01:31:58,480 --> 01:32:01,040
+Sono tanti, non è che ce n'è uno, sono veramente tanti.
+
+1718
+01:32:01,040 --> 01:32:06,240
+Diciamo che fanno una happy family, hanno degli spazi dedicati, ma post-it
+
+1719
+01:32:06,560 --> 01:32:08,320
+dove scrivere le password.
+
+1720
+01:32:08,480 --> 01:32:11,360
+Se vuoi la prossima volta, Roberto, quando passo, ti porto i post-it
+
+1721
+01:32:11,520 --> 01:32:14,960
+con gli unicorni così al comune di Torino, che è stato bucato
+
+1722
+01:32:14,960 --> 01:32:21,680
+nel 2021, vi lasciamo la nota, le penne, ma non c'è soltanto
+
+1723
+01:32:21,680 --> 01:32:26,160
+la parte dell'unicorno in generale, perché io arrivo dal mondo poi della
+
+1724
+01:32:26,160 --> 01:32:28,640
+fantascienza, horror, così dell'editoria.
+
+1725
+01:32:28,880 --> 01:32:33,120
+Quindi per me tutto quello che è fantascienza, essere nerd o altro,
+
+1726
+01:32:33,120 --> 01:32:33,840
+si combina.
+
+1727
+01:32:33,840 --> 01:32:38,880
+Quindi la maglietta con l'unicorno nerd per me è il massimo dell'espressione,
+
+1728
+01:32:38,880 --> 01:32:40,560
+quindi non c'è soltanto quello.
+
+1729
+01:32:40,560 --> 01:32:44,240
+No, perché l'ho visti in tutte le forme e dimensioni, anche quelli
+
+1730
+01:32:44,400 --> 01:32:51,200
+dai case per l'iPhone, agli astucci, penne, cioè, siamo a un livello
+
+1731
+01:32:51,200 --> 01:32:53,280
+esteso sotto tutti i punti di vista.
+
+1732
+01:32:53,280 --> 01:32:54,400
+Ma mi sono tradivato.
+
+1733
+01:32:54,560 --> 01:32:57,280
+Io quando ti dico che c'è un problema mentale, tu non mi
+
+1734
+01:32:57,280 --> 01:33:00,000
+credi, ma forse praticamente vedi che così alla fine.
+
+1735
+01:33:00,360 --> 01:33:04,040
+A proposito, a proposito di problemi mentali, ovviamente ti ho detto che
+
+1736
+01:33:04,040 --> 01:33:06,920
+era l'ultima domanda, ma non era l'ultima domanda, perché ovviamente mi è
+
+1737
+01:33:06,920 --> 01:33:08,920
+venuto in mente adesso che parlavi di fantascienza.
+
+1738
+01:33:08,920 --> 01:33:13,160
+Raccontami un po' uno dei tuoi personaggi preferiti di Natan Never Nathan
+
+1739
+01:33:13,160 --> 01:33:16,600
+Never stesso, ora è lui il personaggio.
+
+1740
+01:33:18,600 --> 01:33:22,440
+Ma sì, perché si regge tutto lì perché è un personaggio complesso,
+
+1741
+01:33:22,440 --> 01:33:27,560
+ma se proprio vuoi l'esatta definizione di quello che mi piace, è
+
+1742
+01:33:28,200 --> 01:33:32,520
+la parodia che è stata fatta su Topolino con Ciccio Never.
+
+1743
+01:33:32,760 --> 01:33:35,560
+Quindi Ciccio Never è l'agenzia pasta.
+
+1744
+01:33:35,560 --> 01:33:39,400
+In cui non sto a spoilerare la storia perché se potete recuperarla
+
+1745
+01:33:39,560 --> 01:33:40,120
+è bellissima.
+
+1746
+01:33:40,120 --> 01:33:43,000
+Ma in cui si vedono proprio tutte le sfumature disegnate sotto forma
+
+1747
+01:33:43,000 --> 01:33:47,640
+di fumetto di un anti-eroe perché Nathan Never è un antieroe.
+
+1748
+01:33:47,640 --> 01:33:49,000
+Alla fine, non è lui l'eroe
+
+1749
+01:33:50,120 --> 01:33:53,640
+è bell'occio, viene dipinto in un certo modo, è un po' il
+
+1750
+01:33:53,640 --> 01:33:56,440
+capitano Kirk della Luna, diciamocelo.
+
+1751
+01:33:56,440 --> 01:34:01,080
+Però ha le sue debolezze che sono molto evidenti e lui incarna
+
+1752
+01:34:01,320 --> 01:34:06,200
+tutto, ma ancora di più lo incarna Ciccio Never perché non riesce
+
+1753
+01:34:06,200 --> 01:34:09,080
+a trattenere i suoi pensieri, i suoi istinti.
+
+1754
+01:34:09,080 --> 01:34:14,120
+E quindi se dal fumetto della Bonelli si legge un personaggio, un
+
+1755
+01:34:14,120 --> 01:34:18,920
+uomo abbastanza equilibrato ma con dei picchi, Ciccio Never non è equilibrato
+
+1756
+01:34:19,000 --> 01:34:24,680
+perché lui va dalla super golosità del cibo alla depressione totale per
+
+1757
+01:34:24,920 --> 01:34:27,800
+aver fallito qualcosa ed è molto più umano.
+
+1758
+01:34:27,800 --> 01:34:31,960
+E quindi il personaggio mio preferito in Attanever è ovviamente, ma Ciccio
+
+1759
+01:34:31,960 --> 01:34:33,080
+Never, in questo
+
+1760
+01:34:34,360 --> 01:34:37,640
+personaggio dell'altro, però faccia allora una domanda da Nea:
+
+1761
+01:34:38,680 --> 01:34:40,240
+Ma non riesce ancora a leggerlo a Neva?
+
+1762
+01:34:40,280 --> 01:34:42,200
+perché io a un certo punto non ce l'ho più fatta.
+
+1763
+01:34:42,200 --> 01:34:47,840
+Allora, me la colpa, ho abbandonato la compulsività di prenderlo ad ogni
+
+1764
+01:34:47,840 --> 01:34:48,240
+uscita.
+
+1765
+01:34:48,400 --> 01:34:49,440
+Tanto ci pensa mio padre.
+
+1766
+01:34:44,840 --> 01:34:52,160
+Quindi, io poi eredito e quindi mi sono risparmiata la fatica.
+
+1767
+01:34:52,320 --> 01:34:56,720
+Guarda, quindi sono a posto che Dylan Dogna, Never, Martin Mistere, tutte
+
+1768
+01:34:56,720 --> 01:34:58,400
+quelle robe lì, io sono a posto.
+
+1769
+01:34:58,400 --> 01:35:02,320
+Edizioni originali, tra 2500 anni, quando sarà, io non faccio altro che
+
+1770
+01:35:02,320 --> 01:35:02,880
+ereditare.
+
+1771
+01:35:02,880 --> 01:35:07,760
+Quindi ciao, però l'ho trovato un pochettino troppo complicato, ma non complicato
+
+1772
+01:35:07,760 --> 01:35:11,680
+nella storia o nella narrazione, complicato per le tematiche a volte affrontate,
+
+1773
+01:35:11,680 --> 01:35:15,920
+che sembra volersi avvicinare a quelle attuali per prendere magari un po'
+
+1774
+01:35:15,920 --> 01:35:19,680
+il pubblico un po' più giovane per avvicinarlo, mentre hanno snaturato un
+
+1775
+01:35:19,680 --> 01:35:20,960
+po' quello che era.
+
+1776
+01:35:20,960 --> 01:35:25,600
+E se leggi il text di vent'anni fa è diverso dal text
+
+1777
+01:35:25,600 --> 01:35:26,080
+di oggi.
+
+1778
+01:35:26,080 --> 01:35:28,960
+Se leggi il topolino di oggi è diverso da quello di cinque
+
+1779
+01:35:28,960 --> 01:35:33,040
+anni fa, con delle scelte particolari, con una crescita dei personaggi che
+
+1780
+01:35:33,040 --> 01:35:39,520
+sicuramente vogliono essere più gender-friendly, meno gap, anche familiari o altro.
+
+1781
+01:35:39,520 --> 01:35:42,400
+Quindi c'è dietro tante scelte che io non discuto, però io sono
+
+1782
+01:35:42,400 --> 01:35:46,080
+rimasta con zio Paperone che tirava delle randellate in testa a Paperino,
+
+1783
+01:35:46,080 --> 01:35:48,560
+cioè per me è quello zio Paperone, non è quello che dice
+
+1784
+01:35:48,720 --> 01:35:52,160
+ah sì, nipoti miei, io sono saggio, basta un culo.
+
+1785
+01:35:52,160 --> 01:35:56,880
+Tu sei un tirchione, cattivo, e non perdi occasione per dare del
+
+1786
+01:35:56,880 --> 01:35:58,480
+disutile a tuo nipote.
+
+1787
+01:35:58,480 --> 01:36:02,880
+Quindi capisco che non è bello al giorno d'oggi una narrazione come
+
+1788
+01:36:02,880 --> 01:36:06,320
+quella che avevamo 40 anni fa di zio Paperone, e quindi adesso
+
+1789
+01:36:06,320 --> 01:36:09,600
+anche tutti i personaggi della Disney devono essere equi, usiamo questa bella
+
+1790
+01:36:09,600 --> 01:36:10,480
+parola equi.
+
+1791
+01:36:10,480 --> 01:36:14,320
+Però è come quando vai fuori: buongiorno signora, non sono una signora,
+
+1792
+01:36:14,320 --> 01:36:15,680
+lo cantavano anche.
+
+1793
+01:36:16,640 --> 01:36:17,840
+No, ma perché io.
+
+1794
+01:36:18,080 --> 01:36:21,760
+Buongiorno, se poi manco il buongiorno, allora forse si sta scivolando in
+
+1795
+01:36:21,760 --> 01:36:24,320
+un troppo buonisimo, troppe pippe mentali, troppe cose.
+
+1796
+01:36:24,320 --> 01:36:29,040
+E se già le vediamo dappertutto, ritrovarmele anche in un fumetto che
+
+1797
+01:36:29,040 --> 01:36:33,720
+mi deve portare via quella mezz'ora, quell'oretta dalla realtà e farmi immergere
+
+1798
+01:36:33,720 --> 01:36:38,040
+in qualcosa di più leggero, divertente, allo stesso tempo imparo qualcosa, perché
+
+1799
+01:36:38,040 --> 01:36:41,080
+io ho le parole più importanti come la cocurbitacea.
+
+1800
+01:36:41,080 --> 01:36:42,440
+Io l'ho imparata da Topolino.
+
+1801
+01:36:42,680 --> 01:36:47,720
+Io ci ho fatto la mia professoressa Adriana Postorino delle Medie, se
+
+1802
+01:36:47,880 --> 01:36:52,440
+no scusa, delle superiori, se c'è ancora Adriana, tanto amore, io non
+
+1803
+01:36:52,440 --> 01:36:55,640
+avevo mai letto i promessi sposi perché lo trovavo tremendamente noioso, ho
+
+1804
+01:36:55,640 --> 01:36:58,920
+letto i promessi paperi e i promessi topi su Topolino, io ho
+
+1805
+01:36:58,920 --> 01:37:02,680
+fatto il tema dell'esame delle medie delle superiori con quello.
+
+1806
+01:37:02,680 --> 01:37:05,640
+E nonostante fosse stato chiaro che io non.
+
+1807
+01:37:05,800 --> 01:37:10,760
+la lettura del Manzoni non fosse nelle mie corde perché preferiva autosprint
+
+1808
+01:37:10,760 --> 01:37:12,840
+a quel tempo e ancora adesso.
+
+1809
+01:37:12,840 --> 01:37:16,600
+Però lei mi disse brava perché ho utilizzato delle parole che non
+
+1810
+01:37:16,600 --> 01:37:19,480
+tutti conoscono, il folklore scritto con la K.
+
+1811
+01:37:19,480 --> 01:37:21,400
+Io l'ho letto su Topolino, me lo sono ricordato.
+
+1812
+01:37:21,400 --> 01:37:25,800
+La Cucurbitacea, che è quello, fa delle zucche, quelle robe lì, quindi
+
+1813
+01:37:25,960 --> 01:37:28,760
+c'è stasera ampi orizzonti veramente.
+
+1814
+01:37:29,080 --> 01:37:34,280
+Quindi per me è quello il significato: non è l'essere per forza
+
+1815
+01:37:34,280 --> 01:37:37,240
+buoni, c'è una parte di cattiveria in tutti noi.
+
+1816
+01:37:37,240 --> 01:37:40,440
+Io sono solo cattiveria, quindi non posso parlare di questo.
+
+1817
+01:37:40,440 --> 01:37:42,520
+Però siamo lo ying e lo yang alla fine.
+
+1818
+01:37:42,520 --> 01:37:45,480
+Lasciamocela un po' di quella, che forse ci serve da distress per
+
+1819
+01:37:45,480 --> 01:37:47,640
+tutto il resto e per apprezzare il bello.
+
+1820
+01:37:47,640 --> 01:37:51,720
+Certo, non ai fini come lo leggiamo oggi, però se mi devo
+
+1821
+01:37:51,720 --> 01:37:57,400
+leggere un fumetto, voglio che sia delicato, leggero, voglio che mi insegni
+
+1822
+01:37:57,400 --> 01:38:02,520
+qualcosa, mi faccia riflettere, mi diverta soprattutto e mi faccia passare quella
+
+1823
+01:38:02,520 --> 01:38:04,520
+mezz'oretta, proprio a dire, oh, che bello!
+
+1824
+01:38:04,520 --> 01:38:09,000
+Adesso sono rigenerata, posso tornare ad andare a cercare il codice fiscale
+
+1825
+01:38:09,000 --> 01:38:11,160
+di Roberto e fargli del male.
+
+1826
+01:38:11,640 --> 01:38:14,400
+Continuo a passarmi i brividi sulla schiena.
+
+1827
+01:38:13,960 --> 01:38:19,600
+Carabia, sei stata veramente grandissima.
+
+1828
+01:38:19,760 --> 01:38:22,960
+E ti ringrazio, anzi, ti ringraziamo per il tuo tempo, mi sono
+
+1829
+01:38:22,960 --> 01:38:24,000
+davvero divertito.
+
+1830
+01:38:24,000 --> 01:38:29,280
+Sto Filippo, raramente così sorridente a portare avanti una puntata
+
+1831
+01:38:30,480 --> 01:38:33,680
+, perché li ho minacciati, sappiatelo, li ho minacciati quindi è per questo
+
+1832
+01:38:33,680 --> 01:38:38,640
+che stiamo dicendo cose belle più che altro, perché onda che verrà
+
+1833
+01:38:38,880 --> 01:38:41,200
+segretato, ovviamente come da orso.
+
+1834
+01:38:41,360 --> 01:38:42,720
+Ovviamente, certo.
+
+1835
+01:38:42,720 --> 01:38:46,880
+Ma comunque insomma, la protezione dei dati e dei GDPR, ricordiamocelo sempre:
+
+1836
+01:38:46,880 --> 01:38:50,960
+ciao, Guido Guido scorza, perché non lo sapesse, e poi, ovviamente, c'è
+
+1837
+01:38:50,960 --> 01:38:52,080
+anche un piccolo riferimento.
+
+1838
+01:38:52,080 --> 01:38:55,920
+Perché so che segue anche lui il nostro simpatico Matteo, che è
+
+1839
+01:38:55,920 --> 01:38:58,480
+un punto di riferimento sotto questo punto di vista.
+
+1840
+01:38:58,480 --> 01:39:03,920
+E soprattutto quando bisogna fare delle scuse pubbliche, bisogna sentire il suo
+
+1841
+01:39:03,920 --> 01:39:07,200
+triumvirato che consiglia sempre a tutti quanti di fare.
+
+1842
+01:39:07,200 --> 01:39:10,640
+Ma noi di scuse in questo momento dobbiamo farne, perché dobbiamo solo
+
+1843
+01:39:10,640 --> 01:39:14,160
+ringraziare Claudio del tempo che ci ha regalato e di questa bella
+
+1844
+01:39:14,160 --> 01:39:17,120
+puntata che è passata via veramente licissima.
+
+1845
+01:39:17,120 --> 01:39:20,400
+Io mi rendo conto che magari ci sarà Filippo che starà un
+
+1846
+01:39:20,400 --> 01:39:24,880
+po' pensando all'editing e al tempo che ci vorrà.
+
+1847
+01:39:24,880 --> 01:39:28,400
+Perché è passato, lo sto guardando adesso un po' di tempo, però
+
+1848
+01:39:28,400 --> 01:39:30,160
+è stato tempo che è scivolato via.
+
+1849
+01:39:30,160 --> 01:39:33,360
+Quando scivola via, vuol dire che ci stiamo divertendo tutti e penso
+
+1850
+01:39:33,360 --> 01:39:34,480
+anche a tutti gli ascoltatori.
+
+1851
+01:39:34,480 --> 01:39:37,760
+Claudia, se vuoi ascoltare, se vuoi ascoltare, se vuoi salutare i nostri
+
+1852
+01:39:37,760 --> 01:39:39,760
+ascoltatori è il tuo momento.
+
+1853
+01:39:40,240 --> 01:39:40,880
+Ciao!
+
+1854
+01:39:41,360 --> 01:39:43,680
+Lo sai che non sono brava a fare queste robe, a dire
+
+1855
+01:39:43,760 --> 01:39:44,400
+discorsoni.
+
+1856
+01:39:44,400 --> 01:39:44,720
+Grazie.
+
+1857
+01:39:45,040 --> 01:39:47,400
+Ciao, ci leggiamo dopo, tranquilli.
+
+1858
+01:39:47,400 --> 01:39:52,480
+E soprattutto, grazie, ecco, questo però concedimelo a chi spesso sta nell'ombra,
+
+1859
+01:39:52,480 --> 01:39:56,000
+magari non ha voglia di fare chissà che gesti plateali.
+
+1860
+01:39:56,000 --> 01:39:56,920
+Che però c'è sempre.
+
+1861
+01:39:56,920 --> 01:39:59,000
+E sono i punti fermi che servono nella vita.
+
+1862
+01:39:59,080 --> 01:39:59,440
+Bene.
+
+1863
+01:39:59,880 --> 01:40:05,160
+Senti come critica questa cosa: chiusura alla grande, mi piace tantissimo perché
+
+1864
+01:40:05,320 --> 01:40:07,960
+abbiamo bisogno di tutti quanti di punti fermi, non possiamo andare in
+
+1865
+01:40:07,960 --> 01:40:10,280
+giro a girare come delle trottole.
+
+1866
+01:40:10,280 --> 01:40:12,120
+E tra questi punti fermi ci siamo anche noi.
+
+1867
+01:40:12,280 --> 01:40:15,880
+A2 Podcast che siamo lì, che siamo nell'ombra e cerchiamo di
+
+1868
+01:40:15,880 --> 01:40:17,160
+tenervi compagnia.
+
+1869
+01:40:17,160 --> 01:40:22,120
+L'unica cosa che potete fare per ovviamente aiutarci a rimanere nell'ombra è
+
+1870
+01:40:22,120 --> 01:40:27,160
+quella di non fare una recensione, oppure di non parlare con altre
+
+1871
+01:40:27,160 --> 01:40:30,200
+persone di questo bellissimo podcast in cui ci è stato ospita anche
+
+1872
+01:40:30,200 --> 01:40:30,840
+Claudia.
+
+1873
+01:40:30,840 --> 01:40:33,320
+Se la psicologia immersa non funziona, Roberto.
+
+1874
+01:40:33,560 --> 01:40:34,360
+Te lo dico subito.
+
+1875
+01:40:34,360 --> 01:40:34,680
+Scusa,
+
+1876
+01:40:35,880 --> 01:40:39,320
+io ci provo intanto a cambiare un po' il finale.
+
+1877
+01:40:39,320 --> 01:40:43,640
+Vabbè, comunque iscrivetevi, iscrivetevi ad aduepodcast.T.
+
+1878
+01:40:43,640 --> 01:40:48,280
+Scrivi a due podcast.it si è mi ha messo un po' di
+
+1879
+01:40:48,280 --> 01:40:48,680
+morale.
+
+1880
+01:40:48,680 --> 01:40:49,880
+Comunque esatto,
+
+1881
+01:40:51,160 --> 01:40:53,960
+era per fare un po' di scene dai Filippo, tienimi un po'
+
+1882
+01:40:53,960 --> 01:40:55,720
+il gioco dai, non mi conosce abbastanza.
+
+1883
+01:40:55,880 --> 01:41:00,280
+Allora, scriveteci a scrivi.a chiocciolaaduepodcast.it.
+
+1884
+01:41:00,280 --> 01:41:03,320
+Come sempre, trovete tutti quanti i link delle note puntate in giro
+
+1885
+01:41:03,320 --> 01:41:06,440
+sparse per lettere, in modo tale che se dovete fare una ricerca
+
+1886
+01:41:06,440 --> 01:41:10,440
+e sapere cosa fa cosa faccio io, cosa fa ovviamente Filippo, ma
+
+1887
+01:41:10,440 --> 01:41:14,360
+soprattutto cosa fa Claudia, avete da cercare su adduepodcast.t
+
+1888
+01:41:15,480 --> 01:41:20,280
+anta per quanto mi riguarda, non voglio neanche dirlo troppo forte dove mi
+
+1889
+01:41:20,280 --> 01:41:21,560
+potete trovare, perché tanto.
+
+1890
+01:41:21,640 --> 01:41:24,840
+Tanto Claudia sa dove sei e ti vieni a prendere, quindi già
+
+1891
+01:41:24,920 --> 01:41:25,640
+da trovati
+
+1892
+01:41:27,240 --> 01:41:29,560
+e continuano a passarmi i brividi nella schiena.
+
+1893
+01:41:30,040 --> 01:41:31,240
+Cosa vorrà dire Claudia?
+
+1894
+01:41:31,240 --> 01:41:32,320
+Dove ti troviamo invece?
+
+1895
+01:41:32,320 --> 01:41:35,240
+Te invece che ti ridi dietro?
+
+1896
+01:41:36,680 --> 01:41:38,480
+Anzi, ci ridi dietro.
+
+1897
+01:41:38,480 --> 01:41:40,200
+Dove ti troviamo, Claudia?
+
+1898
+01:41:40,760 --> 01:41:44,840
+Ormai lo sanno tu, io vivo praticamente su Twitter, la mia seconda
+
+1899
+01:41:44,960 --> 01:41:47,040
+casa chiamate come vi fare.
+
+1900
+01:41:44,920 --> 01:41:51,200
+Lì è il post dove sicuramente se li scrivete ti rispondo.
+
+1901
+01:41:51,280 --> 01:41:53,760
+Non IDM, perché sono chiusi, che nome utente.
+
+1902
+01:41:54,480 --> 01:41:56,400
+Poi qualche volta purtroppo
+
+1903
+01:41:58,960 --> 01:42:01,520
+sono qua per metterti in difficoltà,
+
+1904
+01:42:02,880 --> 01:42:04,880
+sì, e questa te la farò pagare.
+
+1905
+01:42:06,000 --> 01:42:08,880
+Bene, è stato bello conoscervi, vi dico solo questo.
+
+1906
+01:42:08,880 --> 01:42:10,240
+Filippo, dove ti troviamo?
+
+1907
+01:42:10,240 --> 01:42:11,120
+Avocateberg.
+
+1908
+01:42:11,680 --> 01:42:16,320
+Benissimo, ci sentiamo tra due settimane, forse, non ne sono sicura.
+
+1909
+01:42:16,800 --> 01:42:20,640
+Alla prossima ciao.

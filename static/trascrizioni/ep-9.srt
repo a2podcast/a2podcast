@@ -1,0 +1,3475 @@
+1
+00:00:00,080 --> 00:00:05,680
+Benvenuti all'episodio 9 di A2, in cui potete scoprire come ottenere il
+
+2
+00:00:05,680 --> 00:00:08,320
+massimo dalla vostra tecnologia Apple.
+
+3
+00:00:08,320 --> 00:00:12,400
+Io, come sempre, sono Roberto Marin e sono il vostro ospite assieme
+
+4
+00:00:12,400 --> 00:00:14,720
+all'amico Andrea Strozzi.
+
+5
+00:00:14,720 --> 00:00:17,040
+Di cosa parliamo in questo episodio, Andrea?
+
+6
+00:00:17,040 --> 00:00:25,200
+In questa puntata parliamo di sicurezza della password e di come utilizzare
+
+7
+00:00:25,520 --> 00:00:33,600
+i programmi di gestione della password per renderci la vita più semplice.
+
+8
+00:00:33,920 --> 00:00:35,040
+Bravissimo!
+
+9
+00:00:35,040 --> 00:00:36,880
+Ci sono anch'io, eh!
+
+10
+00:00:37,520 --> 00:00:39,760
+Ah, ciao Filippo, ci sei anche tu!
+
+11
+00:00:39,760 --> 00:00:42,160
+No, io sono la parte più importante.
+
+12
+00:00:42,160 --> 00:00:47,600
+Ah, certo, tu sei, tu sei il protagonista, tu sei il protagonista.
+
+13
+00:00:47,920 --> 00:00:52,720
+Andrea, ma allora come possono sostenerci i nostri ascoltatori?
+
+14
+00:00:52,720 --> 00:00:55,920
+Per chi ascolta dalla diretta YouTube
+
+15
+00:00:56,960 --> 00:01:07,920
+che abitualmente è al venerdì sera dalle 21.30 circa potete ascoltare i
+
+16
+00:01:07,920 --> 00:01:15,200
+podcast sia su Apple Podcast che su Spotify
+
+17
+00:01:16,320 --> 00:01:19,840
+che su Amazon Music.
+
+18
+00:01:20,000 --> 00:01:20,560
+Bravissimo.
+
+19
+00:01:21,120 --> 00:01:29,920
+Trovate tutti gli episodi passati con le artive note e seguenti indirizi.
+
+20
+00:01:30,320 --> 00:01:31,280
+Questo è difficile.
+
+21
+00:01:31,600 --> 00:01:38,400
+a2podcast.it e a2podcast.it
+
+22
+00:01:39,920 --> 00:01:48,160
+barra YouTube per il canale YouTube dove trovate le registrazioni delle nostre
+
+23
+00:01:48,160 --> 00:01:49,200
+dirette.
+
+24
+00:01:49,200 --> 00:01:57,840
+Se volete supportare il podcast vi chiediamo con il cuore di fare
+
+25
+00:01:58,160 --> 00:02:06,600
+una recensione su Apple Podcast non abbiamo ancora una recensione scritta
+
+26
+00:02:08,760 --> 00:02:09,560
+piangiamo
+
+27
+00:02:12,680 --> 00:02:21,640
+in questa fase iniziale tante recensioni ci permetteranno di essere visti da
+
+28
+00:02:21,640 --> 00:02:28,600
+più persone possibili se volete sapere come fare una recensione trovate il
+
+29
+00:02:28,600 --> 00:02:37,160
+link delle note dell'episodio e potete anche iscriverci a iscriverci a scrivi
+
+30
+00:02:37,160 --> 00:02:38,680
+a punto a no
+
+31
+00:02:39,720 --> 00:02:45,880
+punto a è difficile sto indirizzo davvero allora iscrivi punto a chiocchio
+
+32
+00:02:46,840 --> 00:02:54,520
+a due podcast puntoit per domande e approfe approfondimenti
+
+33
+00:02:55,640 --> 00:03:02,440
+il problema del grandissimo delle password esatto adesso mettiamo avanti Roberto che
+
+34
+00:03:04,440 --> 00:03:08,520
+dopo tocca a me dopo allora qual è il faccio la parte
+
+35
+00:03:08,520 --> 00:03:10,360
+facile qual è il problema delle password
+
+36
+00:03:11,640 --> 00:03:16,920
+le password sono un gran bel casino nel senso che bisogna crearne
+
+37
+00:03:16,920 --> 00:03:21,320
+di nuove ogni tanto ricordarsele e soprattutto farle difficili.
+
+38
+00:03:21,320 --> 00:03:24,600
+Io non so, potevamo scegliere qualcosa di più complicato.
+
+39
+00:03:24,600 --> 00:03:29,000
+Voi sapete benissimo che insomma abbiamo assistito tutti quanti, almeno chiede la
+
+40
+00:03:29,080 --> 00:03:34,120
+nostra generazione, allo sviluppo del web dove io mi ricordo nel 96
+
+41
+00:03:34,200 --> 00:03:37,720
+perché ho un indirizzo mail che inizia con quell'anno e quindi mi
+
+42
+00:03:37,720 --> 00:03:39,480
+serviva per ricordarmi.
+
+43
+00:03:39,480 --> 00:03:43,880
+Il primo indirizzo mail che ho creato era del 96 su Libero.
+
+44
+00:03:43,880 --> 00:03:48,640
+Mi ricordo precisamente, e mi ricordo che la password all'epoca si metteva
+
+45
+00:03:48,640 --> 00:03:53,360
+veramente una password delle più facili o più semplici, non c'era molta
+
+46
+00:03:53,360 --> 00:03:58,320
+fantasia perché all'epoca nel 96 non c'era ancora tutto questo problema di
+
+47
+00:03:58,320 --> 00:04:01,200
+sicurezza e di innumerevoli password.
+
+48
+00:04:01,200 --> 00:04:03,520
+Cosa diversa che stiamo vivendo in questi giorni.
+
+49
+00:04:03,520 --> 00:04:08,480
+Perché a partire dal nostro dispositivo iOS oppure dal nostro Mac o
+
+50
+00:04:08,480 --> 00:04:13,520
+tutto quello che utilizziamo, a partire dalla mail, da tutte le applicazioni
+
+51
+00:04:13,520 --> 00:04:17,040
+che utilizziamo, tutti gli account che abbiamo in giro per il mondo,
+
+52
+00:04:17,040 --> 00:04:21,600
+all'account c'è associato una password e quindi la cosa incomincia a diventare
+
+53
+00:04:21,600 --> 00:04:27,120
+complicata perché pare che sia esplosa la questione tra gli indirizzi mail
+
+54
+00:04:27,200 --> 00:04:29,360
+che magari uno ne ha anche più di uno, che ne so,
+
+55
+00:04:29,360 --> 00:04:32,240
+tre o quattro indirizzi mail, uno per lavoro, uno per
+
+56
+00:04:33,360 --> 00:04:37,920
+gli amici, l'altro per il podcast, per dire tipo A2 Podcast,
+
+57
+00:04:37,920 --> 00:04:40,560
+oppure ad esempio avere più dispositivi.
+
+58
+00:04:40,560 --> 00:04:44,000
+C'è il dispositivo mio, c'è il dispositivo di Filippo, c'è il dispositivo
+
+59
+00:04:44,000 --> 00:04:48,160
+di Andrea e tutti e tre hanno una password diversa, si spera
+
+60
+00:04:48,160 --> 00:04:51,040
+almeno, e una ID diverso.
+
+61
+00:04:51,360 --> 00:04:55,360
+Quindi, chiaramente per le mail ci sarà una password per il vostro
+
+62
+00:04:55,360 --> 00:04:59,200
+Apple ID o Facebook o tutto quello che usate nel mondo ci
+
+63
+00:04:59,200 --> 00:05:00,080
+sarà una password.
+
+64
+00:05:00,080 --> 00:05:04,080
+Quindi cominciate a fare il conto e sicuramente le punte delle dita
+
+65
+00:05:04,080 --> 00:05:08,080
+della mano non vi bastano perché i servizi sono tantissimi e a
+
+66
+00:05:08,080 --> 00:05:11,360
+tutti ci siamo logati con le nostre credenziali.
+
+67
+00:05:11,360 --> 00:05:15,920
+Quindi, in un mondo di non informatici, tuttavia, si sono sviluppati costumi
+
+68
+00:05:15,920 --> 00:05:23,520
+della gestione della password tremendi, giusto per darvi un'idea: le password più
+
+69
+00:05:23,520 --> 00:05:29,360
+usate nel 2020 nel mondo anglofono e che sarebbe anche molto meglio
+
+70
+00:05:29,360 --> 00:05:35,240
+evitare, sono le più scadenti e penso le peggio cose che abbiano
+
+71
+00:05:29,840 --> 00:05:36,760
+visto i miei occhi in questi anni.
+
+72
+00:05:36,920 --> 00:05:42,440
+Allora, a partire dal primo posto vince, indovinate un po' 1, 2,
+
+73
+00:05:42,440 --> 00:05:47,320
+3, 4, 5, 6 e un bel applauso perché neanche il contrario,
+
+74
+00:05:47,320 --> 00:05:50,600
+proprio 1, 2, 3, 4, 5, 6.
+
+75
+00:05:50,600 --> 00:05:53,960
+Quindi io spero che tra i nostri ascoltatori non ci sia nessuno
+
+76
+00:05:53,960 --> 00:05:55,320
+che abbia questa password.
+
+77
+00:05:55,320 --> 00:05:58,840
+Ma se l'avete questa password, prima di tutto vi beccate quattro frustate
+
+78
+00:05:58,840 --> 00:05:59,640
+sulla schiena.
+
+79
+00:05:59,640 --> 00:06:03,480
+Poi andatevela a cambiare perché lì vuol dire che non solo state
+
+80
+00:06:03,480 --> 00:06:08,920
+mettendo in pericolo i vostri dati, ma praticamente state mettendo in pericolo
+
+81
+00:06:08,920 --> 00:06:11,720
+tutta la vostra vita digitale.
+
+82
+00:06:11,720 --> 00:06:18,120
+Abbiamo in quarta posizione una password che non passerà mai di moda,
+
+83
+00:06:18,120 --> 00:06:19,640
+che è password.
+
+84
+00:06:19,640 --> 00:06:24,760
+Esattamente la parola password, scritto minuscolo, perché scriverla già in maiuscolo era
+
+85
+00:06:24,840 --> 00:06:29,320
+già qualcosa di oltre alle credenziali del nostro cervello.
+
+86
+00:06:29,320 --> 00:06:33,000
+E quindi aspettatevi di vedere queste cose.
+
+87
+00:06:33,000 --> 00:06:36,280
+Una tra tutte quelle che a me ha sempre sorpreso sono le
+
+88
+00:06:36,280 --> 00:06:41,160
+password dei router che hanno admin e password, hanno ovviamente password.
+
+89
+00:06:41,160 --> 00:06:46,680
+Quella lì è diciamo il nome dell'amministratore e la password è quella
+
+90
+00:06:46,680 --> 00:06:50,680
+di sistema, nel senso che quando nascono e gli mettono quello, ovviamente
+
+91
+00:06:50,680 --> 00:06:53,960
+non tutti lo sanno, ma è il caso di cambiare anche questa
+
+92
+00:06:53,960 --> 00:06:59,240
+famosa password come parola al posto di password, perché se no incominciate
+
+93
+00:06:59,240 --> 00:07:00,200
+a diventare
+
+94
+00:07:02,120 --> 00:07:04,760
+un po' facilmente attaccabili.
+
+95
+00:07:04,760 --> 00:07:07,800
+Consideratevi che nel momento in cui il vostro router, io non parlo
+
+96
+00:07:07,800 --> 00:07:09,560
+del mio, che sono in mezzo alle montagne.
+
+97
+00:07:09,560 --> 00:07:12,520
+Prima che viene qualcuno qua a fregarmi i dati, fa prima a
+
+98
+00:07:12,520 --> 00:07:14,680
+venirmi dentro in casa e portarmi via qualcosa.
+
+99
+00:07:14,960 --> 00:07:19,040
+Però, nel caso in cui voi feste anche semplicemente all'interno di una
+
+100
+00:07:19,040 --> 00:07:22,720
+palazzina, la cosa si complica perché magari avete il vicino che è
+
+101
+00:07:22,720 --> 00:07:26,320
+un po' in fine, vi entra dentro il vostro router, prima vi
+
+102
+00:07:26,320 --> 00:07:29,360
+frega tutto quello che avete sul vostro computer, poi vi cambia pure
+
+103
+00:07:29,360 --> 00:07:32,800
+le password e voi non accedete neanche più al router, vi lascia,
+
+104
+00:07:32,800 --> 00:07:34,880
+diciamo, un po' in braghe di tela.
+
+105
+00:07:34,880 --> 00:07:36,160
+Quindi cercate sempre di
+
+106
+00:07:38,000 --> 00:07:42,240
+tenervi sempre di buon occhio i vostri amici e compagni che avete
+
+107
+00:07:42,240 --> 00:07:46,800
+attorno a casa, perché potrebbe trovarsi lo smanettone informatico che vi fa
+
+108
+00:07:46,800 --> 00:07:47,840
+una bella sorpresa.
+
+109
+00:07:47,840 --> 00:07:50,240
+Filippo raccontaci un po' invece cosa ne pensi tu?
+
+110
+00:07:50,640 --> 00:07:55,520
+Sull'argomento appunto dei router e dei dispositivi diciamo di accesso al vostro
+
+111
+00:07:55,520 --> 00:07:56,560
+wifi.
+
+112
+00:07:56,560 --> 00:08:02,720
+Ecco la cosa fondamentale è quella di avere delle password ben strutturate.
+
+113
+00:08:02,720 --> 00:08:07,760
+Vedremo dopo come, proprio perché ancora peggio piuttosto che il blocco di
+
+114
+00:08:07,760 --> 00:08:11,280
+tutte le password, ma vi potreste, per esempio, trovare con un soggetto
+
+115
+00:08:11,280 --> 00:08:16,480
+che uno entra nel vostro WiFi e utilizza il vostro collegamento internet
+
+116
+00:08:16,560 --> 00:08:20,800
+e casomai utilizza il vostro collegamento internet per fare delle cose poco
+
+117
+00:08:20,800 --> 00:08:21,760
+carine.
+
+118
+00:08:22,000 --> 00:08:27,520
+Da avvocato quale sono, ovviamente una delle problematiche più grosse è che
+
+119
+00:08:27,520 --> 00:08:33,520
+casomai, spesso e volentieri, per esempio, gli hacker vanno nel caffè piuttosto
+
+120
+00:08:33,520 --> 00:08:39,520
+che in altri posti, addirittura appunto accedendo ai wifi delle case private,
+
+121
+00:08:39,520 --> 00:08:42,480
+chiamiamole così, per commettere reati.
+
+122
+00:08:42,480 --> 00:08:47,440
+E quindi, tra l'altro, casomai questi reati vengono commessi, la polizia, la
+
+123
+00:08:47,440 --> 00:08:51,200
+guardia di finanza o la polizia postale, un caso specifico, casomai arriva
+
+124
+00:08:51,200 --> 00:08:54,160
+a casa vostra proprio per questi motivi.
+
+125
+00:08:54,320 --> 00:08:59,280
+Dopo lì c'è un mondo per ovviamente riuscire a dimostrare che non
+
+126
+00:08:59,280 --> 00:09:00,600
+è colpa vostra, ma è colpa
+
+127
+00:08:59,680 --> 00:09:04,280
+del giocherellone hacker che è entrato nella vostra
+
+128
+00:08:59,920 --> 00:09:05,800
+wifi di casa.
+
+129
+00:09:06,040 --> 00:09:11,720
+Stesso discorso, non date possibilmente la passo del vostro wifi a chi
+
+130
+00:09:11,720 --> 00:09:17,080
+che sia, perché oggi è il vostro miglior amico, domani, casomai, potrebbe
+
+131
+00:09:17,080 --> 00:09:22,520
+essere una persona che invece, anche semplicemente per utilità, fa delle cose
+
+132
+00:09:22,520 --> 00:09:23,560
+poco carine.
+
+133
+00:09:23,880 --> 00:09:29,000
+Esattamente, io aggiungo un'altra cosa che vorrei chiedere ad Andrea a questo
+
+134
+00:09:29,000 --> 00:09:29,400
+punto.
+
+135
+00:09:29,560 --> 00:09:33,400
+Che qua tra di noi, gli volevo chiedere, appunto, non te lo
+
+136
+00:09:33,400 --> 00:09:37,960
+posso chiedere direttamente che password hai usato, ma volevo chiederti la tua
+
+137
+00:09:37,960 --> 00:09:42,600
+password, per caso, rientra nell'elenco che vediamo a video tutti quanti.
+
+138
+00:09:42,600 --> 00:09:47,960
+No, anche perché il grosso delle password, ovviamente, le ha fate Filippo.
+
+139
+00:09:49,480 --> 00:09:52,760
+Per cui le sue password come sono difficili da ricordare.
+
+140
+00:09:53,480 --> 00:09:57,000
+Tanto sono salvate in one password quindi io sono pacifico.
+
+141
+00:09:57,000 --> 00:10:00,760
+Gli ho fatto vedere, per esempio, questo lo possiamo dire: l'accesso a
+
+142
+00:10:00,760 --> 00:10:06,600
+classroom che Andrea sta facendo la DAD come tanti bambini in questo
+
+143
+00:10:06,600 --> 00:10:07,400
+periodo.
+
+144
+00:10:07,400 --> 00:10:11,480
+La password per entrare in classroom, ovviamente l'ho fatta io.
+
+145
+00:10:11,480 --> 00:10:15,320
+Quando c'è stato il momento di fare il primo accesso e cambiare
+
+146
+00:10:15,320 --> 00:10:19,720
+la password di base, chiamiamola così, e ovviamente ho utilizzato il mio
+
+147
+00:10:19,800 --> 00:10:25,080
+gestione delle password per fare una password che sia degna di questo
+
+148
+00:10:25,080 --> 00:10:29,320
+nome e vedremo poi a breve come funziona il tutto.
+
+149
+00:10:29,320 --> 00:10:33,880
+E invece, per quanto riguarda, se dovessi scegliere tu una password, Andrea,
+
+150
+00:10:33,880 --> 00:10:37,640
+buttamela fuori una password dai pensaci un attimo e ce la butti
+
+151
+00:10:37,800 --> 00:10:46,720
+fuori 561, 10.000 1 miliardo, Filippo Strozzi, fine
+
+152
+00:10:47,920 --> 00:10:49,360
+esatto, mi piace
+
+153
+00:10:50,400 --> 00:10:56,400
+lunga, difficile da ricordare, piena di numeri, lettere, questa è inattaccabile.
+
+154
+00:10:56,400 --> 00:10:59,440
+Brav' Andrea, grandissimo.
+
+155
+00:10:59,440 --> 00:11:00,720
+Allora, vediamo un po'.
+
+156
+00:11:00,720 --> 00:11:04,480
+Una cosa che volevo raccontare che mi ha fatto passare veramente un
+
+157
+00:11:04,480 --> 00:11:08,000
+brivido lungo la schiena che mi è successo proprio tre giorni fa.
+
+158
+00:11:08,000 --> 00:11:11,200
+Per caso, sono andato a dare un'occhiata in iOS
+
+159
+00:11:12,480 --> 00:11:17,040
+nell'impostazione di sistema, ho raggiunto il menu password.
+
+160
+00:11:17,040 --> 00:11:21,360
+Poi sono andato a vedere suggerimenti di sicurezza e qua mi si
+
+161
+00:11:21,360 --> 00:11:24,640
+è slogata la mascella è caduta per terra e ci ho messo
+
+162
+00:11:24,640 --> 00:11:29,600
+due giorni a tirarmi lassù perché c'erano 73 password che erano state
+
+163
+00:11:29,600 --> 00:11:33,040
+beccate diciamo in una fuga di dati.
+
+164
+00:11:33,040 --> 00:11:38,240
+Quindi, il sistema operativo iOS vi avverte se le vostre password sono
+
+165
+00:11:38,560 --> 00:11:40,640
+andate accidentalmente in giro.
+
+166
+00:11:40,640 --> 00:11:44,560
+Quindi se volete fare questo che ho fatto io, andatelo a vedere
+
+167
+00:11:44,560 --> 00:11:49,360
+prima, diciamo la mattina, perché se lo vedete la sera avrete degli
+
+168
+00:11:49,360 --> 00:11:50,400
+incubi.
+
+169
+00:11:50,400 --> 00:11:53,920
+Quindi vi consiglio, andate a fare un giro in questa impostazione.
+
+170
+00:11:53,920 --> 00:11:57,200
+È molto interessante, quello che ha messo Apple a disposizione nei nostri
+
+171
+00:11:57,200 --> 00:11:58,720
+dispositivi iOS.
+
+172
+00:11:58,720 --> 00:12:01,200
+Non c'è su Mac una cosa del genere, peccato.
+
+173
+00:12:01,200 --> 00:12:04,400
+Non so se su Big Sur ci sarà o non ci sarà,
+
+174
+00:12:04,400 --> 00:12:08,400
+chi lo sa, non l'ho ancora installato perché da buon professionista aspetto
+
+175
+00:12:08,400 --> 00:12:12,880
+circa un anno dall'uscita del sistema operativo, quindi a breve dovrò pure
+
+176
+00:12:12,880 --> 00:12:14,720
+installarlo quest'estate, probabilmente.
+
+177
+00:12:15,920 --> 00:12:17,120
+Ho anche un po' paura.
+
+178
+00:12:17,120 --> 00:12:20,400
+Non so perché, ma mi hanno parlato tutti non benissimo di questo
+
+179
+00:12:20,400 --> 00:12:20,720
+sistema.
+
+180
+00:12:20,720 --> 00:12:26,160
+In ogni caso, tornando a Bomba sulla questione, andate a fare un
+
+181
+00:12:26,160 --> 00:12:29,840
+giro su iOS, sui vostri dispositivi, ripeto.
+
+182
+00:12:29,240 --> 00:12:36,520
+Ripeto, impostazioni, andate su password, suggerimenti di sicurezza e date un'occhiata da
+
+183
+00:12:36,520 --> 00:12:38,760
+quello che vi vogliono suggerire.
+
+184
+00:12:38,760 --> 00:12:44,440
+Invece ascoltate bene bene Filippo perché giustamente lui pensa come un hacker
+
+185
+00:12:44,600 --> 00:12:49,160
+e ho anche sospetto che l'abbia fatto nella sua vita precedente, che
+
+186
+00:12:49,160 --> 00:12:54,360
+ci racconterà un po' come si può andare incontro a risolvere i
+
+187
+00:12:54,360 --> 00:12:57,160
+problemi delle password anche per i comuni mortali.
+
+188
+00:12:57,160 --> 00:13:02,920
+Allora, non sono un hacker, diciamo che nei miei scursus diciamo formativi
+
+189
+00:13:03,240 --> 00:13:09,640
+nel recente passato mi sono divertito a seguire alcuni corsi, tra virgolette,
+
+190
+00:13:09,640 --> 00:13:16,520
+per hacker, nel senso che erano ovviamente delle lezioni dove piegavano gli
+
+191
+00:13:16,520 --> 00:13:21,960
+strumenti poi che utilizzano gli hacker per entrare nei dispositivi mobili e
+
+192
+00:13:21,960 --> 00:13:25,160
+fissi, nei router e così via.
+
+193
+00:13:25,640 --> 00:13:32,440
+Ovviamente non ho le caratteristiche per darvi del know-how, delle informazioni specifiche,
+
+194
+00:13:32,440 --> 00:13:37,400
+ma vi posso dire una cosa che diciamo è fondamentale.
+
+195
+00:13:37,400 --> 00:13:41,800
+Bisogna ovviamente cercare di pensare come un hacker e quindi sapere le
+
+196
+00:13:41,800 --> 00:13:46,920
+cose che un hacker può fare e quindi anche prevenire comportamenti.
+
+197
+00:13:47,160 --> 00:13:54,040
+Abitualmente tanto che una password comunque di 4 o 5 numeri è
+
+198
+00:13:54,040 --> 00:13:56,280
+difficile da trovare.
+
+199
+00:13:56,280 --> 00:14:00,440
+No, non è vero, se si sta sotto password tra 4 e
+
+200
+00:14:00,440 --> 00:14:02,760
+6 cifre, può essere scoperta.
+
+201
+00:14:02,760 --> 00:14:06,760
+La password può essere scoperta nel giro di minuti, non ore,
+
+202
+00:14:08,520 --> 00:14:09,800
+non anni.
+
+203
+00:14:09,800 --> 00:14:13,400
+Per cui ovviamente più è complessa la password, più è lunga la
+
+204
+00:14:13,400 --> 00:14:15,920
+password e più tendenzialmente è
+
+205
+00:14:14,760 --> 00:14:16,880
+sicura.
+
+206
+00:14:17,120 --> 00:14:21,120
+L'altra cosa, per esempio, da sapere che molti non sanno, ma è
+
+207
+00:14:21,120 --> 00:14:23,520
+fondamentale: è che esistono.
+
+208
+00:14:23,760 --> 00:14:32,960
+Quali strumenti, diciamo, per appunto entrare abusivamente nei sistemi informatici altrui, quelle
+
+209
+00:14:32,960 --> 00:14:38,320
+che vengono chiamati dizionari di password, cioè tutta una serie di password
+
+210
+00:14:38,480 --> 00:14:40,800
+che sono emerse nel tempo.
+
+211
+00:14:40,800 --> 00:14:46,560
+Spesso e volentieri addirittura sono personalizzate, cioè è ovvio che in Italia
+
+212
+00:14:46,560 --> 00:14:52,320
+utilizziamo delle password a volte differenti dalle password degli inglesi, perché abitualmente,
+
+213
+00:14:52,320 --> 00:15:01,040
+non so, primavera 2021 oppure inverno 2019, spesso e volentieri, ecco, queste
+
+214
+00:15:01,040 --> 00:15:06,480
+sono tipiche password italiane per intenderci, o variazioni sul tema, ovviamente.
+
+215
+00:15:06,800 --> 00:15:12,480
+Quindi se l'hacker sa appunto, o ha idea di chi sta andando
+
+216
+00:15:12,480 --> 00:15:18,640
+a colpire, immaginiamo per esempio che vogliono accedere al vostro profilo Facebook,
+
+217
+00:15:18,640 --> 00:15:24,640
+ovviamente sanno il vostro nome, probabilmente riescono anche a recuperare la vostra
+
+218
+00:15:24,640 --> 00:15:25,520
+email.
+
+219
+00:15:26,080 --> 00:15:29,840
+A questo punto l'unica linea di difesa è la vostra password.
+
+220
+00:15:30,000 --> 00:15:33,920
+Se la vostra password è molto semplice, sono parole di uso comune
+
+221
+00:15:33,920 --> 00:15:34,720
+e così via.
+
+222
+00:15:34,720 --> 00:15:41,360
+Molto probabilmente il nostro buon hacker riesce in poco tempo a ricostruire
+
+223
+00:15:41,360 --> 00:15:42,160
+la password.
+
+224
+00:15:42,160 --> 00:15:47,280
+Quindi, per esempio, un'altra cosa da ricordarsi: di non fare mai: è
+
+225
+00:15:47,280 --> 00:15:52,960
+mettere, non so, data di nascita propria o di marito, figlio e
+
+226
+00:15:52,960 --> 00:15:59,280
+così via, proprio perché abitualmente questi dati si riescono a reperire online,
+
+227
+00:15:59,280 --> 00:16:04,920
+soprattutto se non so, su Facebook, se fate tutta una serie di
+
+228
+00:16:05,160 --> 00:16:12,680
+attività, e quindi l'hacker riesce facilmente a addirittura neanche l'hacker, cioè il
+
+229
+00:16:12,680 --> 00:16:17,320
+soggetto malintenzionato che ha anche poca esperienza di informatica, riesce però a
+
+230
+00:16:17,320 --> 00:16:19,800
+ricostruire queste password velocemente.
+
+231
+00:16:19,800 --> 00:16:23,880
+Quindi, quali sono stringendo il discorso, è giusto per farvi un po'
+
+232
+00:16:23,880 --> 00:16:28,120
+di paura, tra virgolette, proprio perché, per esempio, ricordiamo sempre il discorso
+
+233
+00:16:28,120 --> 00:16:32,040
+del wifi di casa, se vi entrano dentro il wifi di casa,
+
+234
+00:16:32,360 --> 00:16:37,480
+possono spiarvi di fatto, perché ovviamente dentro il wifi di casa è
+
+235
+00:16:37,480 --> 00:16:41,640
+possibile anche vedere quali sono i computer collegati o i device collegati,
+
+236
+00:16:41,640 --> 00:16:45,480
+e se si è un minimo smaliziati, si conoscono due o tre
+
+237
+00:16:45,480 --> 00:16:49,800
+cose, non è poi così difficile, soprattutto se nessuno sa che è
+
+238
+00:16:49,800 --> 00:16:55,480
+possibile farlo, entrare nei vostri computer, attivare le webcam e così via.
+
+239
+00:16:55,480 --> 00:17:01,640
+Quindi non voglio fare cazzo le streghe, però sicuramente bisogna stare attenti
+
+240
+00:17:01,640 --> 00:17:07,880
+a determinate cose, perché ovviamente, soprattutto se non si ha certe accortezze,
+
+241
+00:17:07,880 --> 00:17:13,080
+è molto facile che qualcuno di malintenzionato possa, volendo, entrare nella nostra
+
+242
+00:17:13,080 --> 00:17:16,680
+rete, quindi fare dei danni o entrare sui nostri profili social e
+
+243
+00:17:16,680 --> 00:17:17,400
+così via.
+
+244
+00:17:17,400 --> 00:17:19,640
+Quindi, come dovrebbero essere password?
+
+245
+00:17:19,880 --> 00:17:25,480
+Innanzitutto si dovrebbero usare numeri e lettere, e nel caso di lettere,
+
+246
+00:17:25,480 --> 00:17:30,840
+ovviamente non solo lettere minuscole o non solo lettere maiuscole, ma differenziare.
+
+247
+00:17:31,080 --> 00:17:37,400
+Inoltre, inserire i cosiddetti simboli speciali: sono l'accento, il punto di domanda,
+
+248
+00:17:37,720 --> 00:17:42,040
+l'hashtag, l'asterisco e così via.
+
+249
+00:17:42,040 --> 00:17:46,480
+Rispettare la lunghezza minima di 8 caratteri, che è veramente minima, cioè
+
+250
+00:17:44,040 --> 00:17:46,960
+giusto
+
+251
+00:17:44,200 --> 00:17:49,680
+per darvi un'idea, se avete una password di 8 caratteri
+
+252
+00:17:50,400 --> 00:17:55,760
+con solo però lettere, è facilmente craccabile, si dice in gergo tecnico,
+
+253
+00:17:55,760 --> 00:18:01,920
+chiamiamolo così, è possibile con un attacco a forza brutta, provando tutte
+
+254
+00:18:01,920 --> 00:18:06,800
+le combinazioni delle password, a trovarle velocemente.
+
+255
+00:18:06,800 --> 00:18:12,800
+È ovvio che se invece oltre agli 8 caratteri mischiate tutti i
+
+256
+00:18:13,440 --> 00:18:18,640
+caratteri minuscoli, maiuscoli, i numeri e i caratteri speciali, allora questa password
+
+257
+00:18:18,640 --> 00:18:20,960
+diventa più complessa.
+
+258
+00:18:21,120 --> 00:18:24,800
+Adesso non vi voglio tediare con la matematica, anche perché anch'io non
+
+259
+00:18:24,800 --> 00:18:31,040
+è che sono avantissimo, ma dopo ti lascio la parola Andrea: ma
+
+260
+00:18:31,600 --> 00:18:37,840
+tutto dipende ovviamente dal fattore esponenziale: cioè più caratteri ci sono, più
+
+261
+00:18:38,160 --> 00:18:43,760
+possibilità di caratteri nella password vengono inseriti, più è difficile, ovviamente, più
+
+262
+00:18:43,760 --> 00:18:47,360
+combinazioni ci sono e quindi più è difficile, se la combinazione è
+
+263
+00:18:47,360 --> 00:18:51,760
+molto un numero molto molto grosso, ovviamente è più difficile trovare la
+
+264
+00:18:51,760 --> 00:18:54,080
+combinazione corretta dei caratteri.
+
+265
+00:18:54,080 --> 00:18:59,440
+Fate l'esempio della cassaforte, ovviamente più possibilità di combinazione dei numeri della
+
+266
+00:18:59,440 --> 00:19:04,160
+cassaforte avete e ovviamente più la cassaforte è sicura a livello di
+
+267
+00:19:06,080 --> 00:19:07,680
+apertura con la combinazione.
+
+268
+00:19:07,680 --> 00:19:08,560
+Dimmi Andrea.
+
+269
+00:19:08,560 --> 00:19:14,000
+Ovviamente vi posso fare un esempio perché io so molti esempi: tipo
+
+270
+00:19:14,480 --> 00:19:21,840
+di una password molto stupida, dicono uno o uno o uno esatto,
+
+271
+00:19:21,920 --> 00:19:27,840
+per esempio questa è una password che è molto semplice da indovinare,
+
+272
+00:19:27,840 --> 00:19:32,600
+proprio perché è ripetitiva e utilizza solo di fatto caratteri e numeri
+
+273
+00:19:29,920 --> 00:19:34,120
+e quindi non fa niente.
+
+274
+00:19:35,080 --> 00:19:43,160
+L'altro consiglio fondamentale è quello ovviamente di modificare la password regolarmente dai
+
+275
+00:19:43,160 --> 00:19:47,240
+sei mesi a un anno, quindi modificarla spesso
+
+276
+00:19:48,440 --> 00:19:53,960
+, e ovviamente non usare la stessa password per siti differenti.
+
+277
+00:19:53,960 --> 00:19:57,800
+Cioè anche se utilizzate, per esempio, una password complessa ma la utilizzate
+
+278
+00:19:57,800 --> 00:19:59,640
+in 10 siti, ok.
+
+279
+00:20:00,040 --> 00:20:05,880
+Ovviamente se un sito viene hackerato, quindi viene scoperta la vostra password,
+
+280
+00:20:06,200 --> 00:20:11,240
+a questo punto quella password, diciamo spesso e volentieri, innanzitutto hanno non
+
+281
+00:20:11,240 --> 00:20:14,840
+solo la password ma hanno le credenziali dell'utente, cioè la vostra email.
+
+282
+00:20:14,840 --> 00:20:19,320
+Abitualmente viene utilizzata questa o comunque il vostro nome o un modo
+
+283
+00:20:19,640 --> 00:20:21,960
+per individuare chi siete.
+
+284
+00:20:22,120 --> 00:20:26,280
+A questo punto, ovviamente, questa password può essere utilizzata su altri siti.
+
+285
+00:20:26,280 --> 00:20:30,680
+Se voi l'avete utilizzato, ovviamente rischiate la compromissione non solo di un
+
+286
+00:20:30,680 --> 00:20:34,280
+sito, ma anche di uno 10-100 siti.
+
+287
+00:20:34,280 --> 00:20:37,320
+E quindi ovviamente potete avere dei danni grossi.
+
+288
+00:20:37,320 --> 00:20:37,800
+Esattamente
+
+289
+00:20:39,000 --> 00:20:42,520
+qualche consiglio che volevo dare che mi è venuto in mente mentre
+
+290
+00:20:42,520 --> 00:20:43,560
+parlavi.
+
+291
+00:20:43,560 --> 00:20:47,000
+Degli esempi che ho sentito in giro, per esempio, una cosa molto
+
+292
+00:20:47,000 --> 00:20:54,040
+interessante è leggere i nickname delle persone in chat, per esempio,
+
+293
+00:20:55,160 --> 00:20:57,880
+dei video che guardano i nostri figli, perché?
+
+294
+00:20:57,880 --> 00:21:04,760
+Perché utilizzano una combinazione tra numeri e parole che è molto interessante.
+
+295
+00:21:04,920 --> 00:21:12,440
+Per esempio, sostituiscono il numero alla lettera, per esempio, la O invece
+
+296
+00:21:12,440 --> 00:21:14,200
+viene usata uno zero.
+
+297
+00:21:14,200 --> 00:21:14,840
+Conseguentemente
+
+298
+00:21:15,840 --> 00:21:20,560
+, la cosa diventa più interessante e anche più complicata da scoprire.
+
+299
+00:21:14,840 --> 00:21:20,800
+Però,
+
+300
+00:21:20,880 --> 00:21:27,040
+diciamo è una abbastanza una cosa semplice da recuperare, perché se voi
+
+301
+00:21:27,040 --> 00:21:30,560
+considerate che qualcuno pensa qual è lo zero e sa che è
+
+302
+00:21:30,560 --> 00:21:35,600
+una O, oppure anche usare la chiocciola, quello che si utilizza nelle
+
+303
+00:21:35,680 --> 00:21:40,000
+mail al posto della A, potrebbe essere una cosa astuta ma non
+
+304
+00:21:40,000 --> 00:21:40,400
+troppo.
+
+305
+00:21:40,400 --> 00:21:42,080
+Quindi non fidatevi troppo.
+
+306
+00:21:42,080 --> 00:21:45,920
+Oppure ho visto anche qualcuno che consiglia di prendere il libro che
+
+307
+00:21:45,920 --> 00:21:50,320
+avete dietro le spalle, aprire a caso prendere una frase, sottolinearla e
+
+308
+00:21:50,320 --> 00:21:53,360
+utilizzare i primi caratteri che ci sono.
+
+309
+00:21:53,360 --> 00:22:00,640
+Oppure fare, che ne so, una casi, diciamo, ovvero una fusione tra
+
+310
+00:22:00,640 --> 00:22:06,640
+la prima frase che trovate in punta alla pagina e l'ultima frase
+
+311
+00:22:06,640 --> 00:22:08,640
+che trovate in fondo alla pagina.
+
+312
+00:22:08,640 --> 00:22:13,040
+Quindi questo qui potrebbe essere un metodo manuale, chiamiamolo così, che non
+
+313
+00:22:13,040 --> 00:22:17,120
+si appoggia ai sistemi informatici, ma che potrebbe tornarvi utili nel caso
+
+314
+00:22:17,280 --> 00:22:19,360
+siate appassionati di queste cose.
+
+315
+00:22:19,360 --> 00:22:24,720
+E poi chiaramente ci sono i famosi blocchetti dove uno si segna
+
+316
+00:22:24,720 --> 00:22:28,320
+le password su un libretto per ricordarsi di tutti nel caso in
+
+317
+00:22:28,320 --> 00:22:31,440
+cui ci sia un incendio da qualche parte tipo quello che è
+
+318
+00:22:31,440 --> 00:22:36,160
+successo recentemente a un server dove c'è gente che piange ancora adesso
+
+319
+00:22:36,160 --> 00:22:37,680
+perché ha perso di tutto.
+
+320
+00:22:37,680 --> 00:22:40,800
+Pensate che magari a forza di salvare le cose nel cloud, lì
+
+321
+00:22:40,800 --> 00:22:45,360
+magari c'è il vostro blocchetto di salvataggio delle vostre password nel cloud
+
+322
+00:22:45,360 --> 00:22:48,880
+che come per magia sparisce dal niente e non sapete più che
+
+323
+00:22:48,880 --> 00:22:49,520
+cosa fare.
+
+324
+00:22:49,520 --> 00:22:56,080
+Quindi, ragazzi, tenetevi sempre una doppia ancora di salvezza perché va bene
+
+325
+00:22:56,080 --> 00:22:59,360
+l'informatica ci aiuta un sacco, però anche la buona vecchia carta ci
+
+326
+00:22:59,360 --> 00:23:00,000
+aiuta un sacco.
+
+327
+00:23:00,760 --> 00:23:04,520
+In altri casi, però, occhio a quello che fate, perché, per esempio,
+
+328
+00:23:04,840 --> 00:23:10,040
+si visto più volte, soprattutto in questa fase dove c'è la pandemia
+
+329
+00:23:10,040 --> 00:23:16,280
+e quindi ci sono le videochiamate, vedere fogliettini appesi di fianco alla
+
+330
+00:23:16,280 --> 00:23:21,000
+persona con la password del server, è successo anche, mi sembra, anche
+
+331
+00:23:21,000 --> 00:23:27,880
+in agenzie famose, che hanno avuto praticamente automaticamente una fuga di dati
+
+332
+00:23:27,880 --> 00:23:33,000
+perché qualcuno, l'utente che in quel caso era nella video chat e
+
+333
+00:23:33,000 --> 00:23:38,120
+stava parlando, e di fianco aveva scritto: per entrare nel server bisogna
+
+334
+00:23:38,120 --> 00:23:40,920
+usare questo utente e questa password.
+
+335
+00:23:40,920 --> 00:23:47,560
+Quindi capite che anche in queste piccole cose si rendono vulnerabili anche
+
+336
+00:23:47,560 --> 00:23:50,280
+delle password fatte particolarmente.
+
+337
+00:23:50,280 --> 00:23:54,200
+Quindi la sicurezza non è mai abbastanza in questo caso.
+
+338
+00:23:54,440 --> 00:24:00,840
+In ogni caso ci rimane comunque un secondo approccio sicuro che sono
+
+339
+00:24:02,040 --> 00:24:07,400
+le frasi come password usate al posto di una password alfanumerica di
+
+340
+00:24:07,400 --> 00:24:09,000
+8 o più cifre.
+
+341
+00:24:09,000 --> 00:24:12,280
+Una frase che ne so di senso compiuto, ma potrebbe anche non
+
+342
+00:24:12,280 --> 00:24:12,840
+averlo.
+
+343
+00:24:13,080 --> 00:24:13,480
+Perché
+
+344
+00:24:16,360 --> 00:24:19,880
+potrebbe avere senso per me, ma potrebbe non avere senso né per
+
+345
+00:24:19,880 --> 00:24:21,320
+Filippo né per Andrea.
+
+346
+00:24:21,320 --> 00:24:26,040
+O viceversa, per esempio, Andrea potrebbe pensare quali sono i suoi supereroi
+
+347
+00:24:26,040 --> 00:24:30,840
+in questo momento e creare una password in base ai suoi supereroi,
+
+348
+00:24:30,840 --> 00:24:34,360
+che io, francamente, non so quali sono e non tenterei neanche di
+
+349
+00:24:34,360 --> 00:24:34,920
+provarci.
+
+350
+00:24:34,920 --> 00:24:37,640
+Andrea, quali sono i tuoi supereroi in questo momento?
+
+351
+00:24:37,640 --> 00:24:39,080
+Non te lo dico.
+
+352
+00:24:39,560 --> 00:24:41,640
+Giustamente perché bravissimo!
+
+353
+00:24:41,640 --> 00:24:42,680
+Così ti voglio!
+
+354
+00:24:42,680 --> 00:24:46,400
+Non vuole che le possibili sue password vengano compromesse.
+
+355
+00:24:46,400 --> 00:24:48,800
+Bravo, Andrea, hai capito tutta la gestione.
+
+356
+00:24:44,920 --> 00:24:52,160
+Allora, le chiedo a Filippo quali sono i tuoi supereroi.
+
+357
+00:24:52,480 --> 00:24:58,240
+Allora adesso vado con i soliti, diciamo l'uomo ragno, non li devi
+
+358
+00:24:58,240 --> 00:24:58,960
+dire.
+
+359
+00:24:58,960 --> 00:25:00,320
+Ma io,
+
+360
+00:25:02,080 --> 00:25:06,240
+io lo posso dire perché non uso i supereroi come password per
+
+361
+00:25:06,240 --> 00:25:11,360
+le mie account, ma ho un generatore casuale di password che quindi
+
+362
+00:25:11,360 --> 00:25:18,880
+mi evita il problema di memorizzare o inventarmi le password.
+
+363
+00:25:18,880 --> 00:25:24,320
+Tuttavia, appunto, per esempio, mettendo numeri, parole a caso una vicino all'altra,
+
+364
+00:25:24,320 --> 00:25:28,080
+se vogliamo fare dei giochi chiamiamoli così mnemonici.
+
+365
+00:25:28,080 --> 00:25:34,000
+Per esempio, si potrebbe dire mille mari blu o 100 rose al
+
+366
+00:25:34,000 --> 00:25:34,960
+vento.
+
+367
+00:25:34,960 --> 00:25:41,680
+Sono tutte password con ovviamente relativi spazi, che ovviamente sono
+
+368
+00:25:43,200 --> 00:25:46,000
+più facili da memorizzare da quel punto di vista.
+
+369
+00:25:46,000 --> 00:25:46,240
+Lì.
+
+370
+00:25:46,240 --> 00:25:53,600
+Se vogliamo andare con tutto nella testa, diciamo, ma sono comprensibili, diciamo,
+
+371
+00:25:53,680 --> 00:25:59,840
+sono anche facili da trasmettere oralmente perché quando io inizio a dire
+
+372
+00:25:59,840 --> 00:26:03,920
+la password è YX9 maiuscolo J
+
+373
+00:26:06,000 --> 00:26:08,800
+diventa anche complicato da fare, ovviamente.
+
+374
+00:26:08,800 --> 00:26:17,360
+Quindi appunto esclamativo, è ovvio che anche semplicemente comunicare queste password sono
+
+375
+00:26:18,320 --> 00:26:20,240
+abbastanza complicato.
+
+376
+00:26:20,640 --> 00:26:24,320
+Per cui questo può essere un modo alternativo, anche perché,
+
+377
+00:26:25,360 --> 00:26:31,560
+è molto a livello di entropia, adesso entriamo in discorsi troppo avanzati,
+
+378
+00:26:31,560 --> 00:26:34,760
+ma comunque un password di questo genere addirittura è molto più sicura
+
+379
+00:26:35,000 --> 00:26:39,640
+delle password alfanumeriche con i caratteri speciali e così via, perché diventa
+
+380
+00:26:39,640 --> 00:26:41,160
+più lunga e
+
+381
+00:26:42,440 --> 00:26:47,800
+più randomizzata, cioè più difficile da indovinare, proprio perché a questo punto
+
+382
+00:26:47,960 --> 00:26:51,880
+le lettere sono associate a un costrutto matematico più complesso da quello
+
+383
+00:26:51,880 --> 00:26:53,560
+che ho capito io, eh.
+
+384
+00:26:55,480 --> 00:26:57,080
+Certo, di una cosa, Andrea.
+
+385
+00:26:57,080 --> 00:27:03,160
+Ovviamente, se volete fare una frase lunga, vedete tutte le cose solo
+
+386
+00:27:03,320 --> 00:27:08,200
+all'inizio, tipo lo, qu, ma sì, ecco.
+
+387
+00:27:08,200 --> 00:27:13,880
+Un altro discorso può essere quello di togliere delle lettere dalla parola,
+
+388
+00:27:17,240 --> 00:27:18,680
+l'esempio è chiaro:
+
+389
+00:27:20,120 --> 00:27:24,040
+l'altra cosa di cui dobbiamo parlare è che è un altro sistema
+
+390
+00:27:24,360 --> 00:27:31,000
+per rendere più sicuro l'accesso a un relativo account, è la cosiddetta
+
+391
+00:27:31,000 --> 00:27:32,680
+autenticazione due fattori.
+
+392
+00:27:32,680 --> 00:27:36,440
+Questa non è legata strettamente alla password, ma è un sistema di
+
+393
+00:27:36,440 --> 00:27:41,000
+sicurezza aggiuntivo alla password, per cui oltre a avere il vostro nome
+
+394
+00:27:41,000 --> 00:27:47,160
+utente e la password, che dovrebbe comunque rispettare le solite caratteristiche, c'è
+
+395
+00:27:47,160 --> 00:27:51,320
+un secondo grado, una seconda richiesta sostanzialmente che viene fatta.
+
+396
+00:27:51,320 --> 00:27:59,000
+Cioè questi codici OTP, cioè one time password, cioè queste password momentanee,
+
+397
+00:27:59,000 --> 00:28:05,560
+che vengono generate con un algoritmo segreto sostanzialmente, che quindi variano in
+
+398
+00:28:05,560 --> 00:28:10,200
+base al variare del tempo, perché questo è il concetto matematico di
+
+399
+00:28:10,200 --> 00:28:13,800
+fondo, ma che sono ripetibili nel tempo.
+
+400
+00:28:13,800 --> 00:28:18,960
+Quindi, ovviamente, conoscendo l'algoritmo, io so che a quell'ora c'è quella password
+
+401
+00:28:18,960 --> 00:28:26,240
+attiva nella sostanza, e ovviamente questo OTP lo dovete avere.
+
+402
+00:28:26,240 --> 00:28:29,440
+Abitualmente viene o inviato via SMS.
+
+403
+00:28:29,440 --> 00:28:33,200
+Quindi viene fatta la richiesta per esempio, il conto corrente di una
+
+404
+00:28:33,200 --> 00:28:33,920
+banca.
+
+405
+00:28:33,920 --> 00:28:38,240
+Volete accendere il vostro conto corrente, vi arriva l'SMS o a livello
+
+406
+00:28:38,240 --> 00:28:41,600
+molto più sicuro perché l'SMS come la mail è in chiaro.
+
+407
+00:28:41,600 --> 00:28:47,600
+Quindi potenzialmente un soggetto malevolo potrebbe captare quel numero e quindi ovviamente
+
+408
+00:28:47,600 --> 00:28:48,800
+impersonarvi.
+
+409
+00:28:49,120 --> 00:28:54,080
+Ma la cosa più semplice è invece avere un'applicazione sul vostro smartphone
+
+410
+00:28:54,240 --> 00:28:58,400
+abitualmente, ma in determinati casi, per esempio, io credo che per lo
+
+411
+00:28:58,400 --> 00:29:04,720
+speed il generatore di password di OTP ce l'ho sull'iPad, avere appunto
+
+412
+00:29:05,040 --> 00:29:10,240
+questo generatore di password direttamente su un altro dispositivo che ovviamente è
+
+413
+00:29:10,240 --> 00:29:11,600
+in vostra disponibilità.
+
+414
+00:29:11,600 --> 00:29:16,240
+Per cui anche se vi rubassero utente password, per entrare nel vostro
+
+415
+00:29:16,240 --> 00:29:22,960
+account avrebbero bisogno di un secondo pezzo, diciamo, che se ovviamente l'attacco
+
+416
+00:29:22,960 --> 00:29:26,560
+è da remoto e non vi hanno preso il cellulare e non
+
+417
+00:29:26,560 --> 00:29:28,560
+vi hanno immobilizzato, chiamiamolo così.
+
+418
+00:29:28,560 --> 00:29:32,960
+Tuttavia, insomma, entriamo in situazioni abbastanza più pericolose,
+
+419
+00:29:34,400 --> 00:29:37,760
+più da film di spionaggio.
+
+420
+00:29:37,760 --> 00:29:43,520
+In questo caso, ovviamente, i malfattori non riescono ad entrare nei vostri
+
+421
+00:29:43,520 --> 00:29:44,640
+account.
+
+422
+00:29:44,640 --> 00:29:49,640
+L'ultimissima cosa da tenere presente per avere delle password sicure, e poi
+
+423
+00:29:49,640 --> 00:29:54,720
+passiamo all'argomento, diciamo, della puntata, cioè la gestione di queste password, è
+
+424
+00:29:54,720 --> 00:30:00,520
+quella di evitare, possibilmente di utilizzare i login attraverso gli account di
+
+425
+00:30:00,520 --> 00:30:03,080
+Facebook, Google e così via.
+
+426
+00:29:59,920 --> 00:30:06,840
+Sono comodi, tra virgolette, però ovviamente vi espongono.
+
+427
+00:30:07,000 --> 00:30:12,760
+Perché una volta che, per esempio, il malintenzionato ha le credenziali di
+
+428
+00:30:12,760 --> 00:30:16,520
+accesso al vostro account Facebook,
+
+429
+00:30:18,200 --> 00:30:21,160
+ha possibilità di accedere a tutta una serie di altri account che
+
+430
+00:30:21,160 --> 00:30:22,920
+sono legati a questo account.
+
+431
+00:30:22,920 --> 00:30:24,760
+Quindi è meglio evitare,
+
+432
+00:30:26,040 --> 00:30:33,480
+ovviamente, l'altra cosa è un'ovietà, ma molti sono molto allegri sulla gestione
+
+433
+00:30:33,480 --> 00:30:36,760
+del loro password, non dare le password, non so, al fidanzato, alla
+
+434
+00:30:36,760 --> 00:30:41,720
+fidanzata, al marito, alla moglie dei vostri account social, per esempio.
+
+435
+00:30:41,720 --> 00:30:47,720
+Perché ovviamente in questo caso, per tutta una serie di motivi, casomai
+
+436
+00:30:47,960 --> 00:30:54,600
+anche involontariamente qualcuno potrebbe accedere al vostro account e manometterlo a vostro
+
+437
+00:30:54,600 --> 00:31:00,280
+insaputo o leggere cose che casomai non vorreste che fossero conosciute a
+
+438
+00:31:00,280 --> 00:31:04,120
+tutti, per cui, anche in questo caso, bisogna stare un attimo attento.
+
+439
+00:31:04,120 --> 00:31:09,000
+Poi ammetto di aver fatto anche un corso sulla criminalità informatica, e
+
+440
+00:31:09,320 --> 00:31:13,880
+quindi, diciamo, l'approccio legale esce, esce abbastanza
+
+441
+00:31:15,400 --> 00:31:20,360
+in queste cose, infatti, ma meno male che esce, perché Andrea di
+
+442
+00:31:20,360 --> 00:31:21,480
+pure quello che vuoi.
+
+443
+00:31:21,480 --> 00:31:26,680
+In realtà, il mio papà vuole farmi imparare molte cose.
+
+444
+00:31:26,680 --> 00:31:34,120
+Infatti fate finta che può esserci un anche, fate finta dire che
+
+445
+00:31:34,120 --> 00:31:36,920
+non è vero, fate finta che può esserci un anche
+
+446
+00:31:38,360 --> 00:31:41,160
+vede il video, ma noi non lo vediamo.
+
+447
+00:31:41,400 --> 00:31:44,560
+Esatto, esatto, bisogna sempre stare attenti, facciamo finta.
+
+448
+00:31:44,560 --> 00:31:49,680
+Ovviamente questa è un'ipotesi, ma non lo sappiamo mai se c'è qualcuno
+
+449
+00:31:44,360 --> 00:31:51,040
+che ci osserva.
+
+450
+00:31:51,200 --> 00:31:56,640
+E appunto nella rete questo problema, soprattutto per i bambini, è ancora
+
+451
+00:31:56,800 --> 00:32:02,160
+più complicato perché molti non sanno come funziona nel concreto la rete
+
+452
+00:32:02,320 --> 00:32:04,880
+e bisogna stare molto attenti a cosa si fa,
+
+453
+00:32:06,720 --> 00:32:12,000
+da chi veniamo contattati, soprattutto se i soggetti sono minori e quindi
+
+454
+00:32:12,000 --> 00:32:15,760
+non hanno ancora tutte le conoscenze, che invece io sto cercando di
+
+455
+00:32:15,760 --> 00:32:16,800
+insegnare ad Andrea.
+
+456
+00:32:16,800 --> 00:32:22,320
+Andrea sta veramente imparando un sacco di cose anche in questa puntata,
+
+457
+00:32:22,320 --> 00:32:26,720
+proprio per sensibilizzare anche i più piccoli, ma anche i più grandi
+
+458
+00:32:26,720 --> 00:32:31,200
+che dovrebbero stare dietro ai più piccoli, e che a volte invece
+
+459
+00:32:31,440 --> 00:32:33,760
+ne sanno meno, addirittura dei figli.
+
+460
+00:32:33,760 --> 00:32:36,400
+Quindi è importante, è importante
+
+461
+00:32:37,840 --> 00:32:42,560
+: è importante cercare di fare formazione ai giovani e ai meno giovani.
+
+462
+00:32:43,840 --> 00:32:48,320
+Fio finta una cosa, perché una pasta stupida la so.
+
+463
+00:32:48,320 --> 00:32:50,960
+No, ecco, però non la diciamo, ok?
+
+464
+00:32:52,800 --> 00:32:54,400
+Facciamo finta, ma non la diciamo.
+
+465
+00:32:54,480 --> 00:33:00,000
+Un'altra cosa, un'altra cosa che volevo aggiungere: visto che parliamo un attimo
+
+466
+00:33:00,000 --> 00:33:04,240
+delle ultime avvertenze, prima di passare all'argomento clou, dobbiamo iniziare un po'
+
+467
+00:33:04,240 --> 00:33:07,040
+a correre perché è già passata mezz'ora e non siamo neanche a
+
+468
+00:33:07,040 --> 00:33:08,320
+metà scaletta.
+
+469
+00:33:08,320 --> 00:33:12,240
+È che esiste anche la possibilità di fare il login con le
+
+470
+00:33:12,240 --> 00:33:14,160
+credenziali di Apple.
+
+471
+00:33:14,480 --> 00:33:18,400
+Questa è una cosa interessante perché, a differenza di quello che molto
+
+472
+00:33:18,400 --> 00:33:25,280
+probabilmente succede con Facebook e Facebook e Google, non viene dato il
+
+473
+00:33:25,280 --> 00:33:30,200
+vostro indirizzo, ma viene generato da parte di Apple un indirizzo fittizio
+
+474
+00:33:29,760 --> 00:33:34,840
+a cui vi dà l'accesso momentaneamente a un servizio.
+
+475
+00:33:35,240 --> 00:33:38,920
+Quindi diciamo è un po' più protetto e un po' più facile,
+
+476
+00:33:38,920 --> 00:33:43,720
+però in ogni caso rimane l'avvertenza di evitare questo tipo di login
+
+477
+00:33:44,040 --> 00:33:49,000
+facili perché come sempre dietro alla facilità probabilmente c'è dietro la fregatura.
+
+478
+00:33:49,400 --> 00:33:53,640
+Quindi corriamo veloce e veloce verso la gestione della password.
+
+479
+00:33:53,960 --> 00:33:58,920
+Cosa possiamo fare per riuscire a ricordarci tutte le nostre password?
+
+480
+00:33:58,920 --> 00:34:04,280
+Ce le tatuiamo tutte sulla schiena oppure scegliamo un gestore di password
+
+481
+00:34:04,440 --> 00:34:08,520
+che è nient'altro che un programma software pensato per custodire in modo
+
+482
+00:34:08,520 --> 00:34:11,480
+sicuro le vostre password e rendervi la vita più semplice con le
+
+483
+00:34:11,480 --> 00:34:12,520
+password.
+
+484
+00:34:12,840 --> 00:34:13,960
+Come lo fa?
+
+485
+00:34:13,960 --> 00:34:17,080
+Prima di tutto vi genera le password al posto vostro, in modo
+
+486
+00:34:17,080 --> 00:34:21,320
+tale che siano sicure e ci sia una serie di criteri da
+
+487
+00:34:21,320 --> 00:34:22,200
+seguire.
+
+488
+00:34:22,200 --> 00:34:25,960
+Poi vi aiuta grazie a anche delle estensioni per il browser che
+
+489
+00:34:25,960 --> 00:34:31,560
+avete sul vostro computer, sul vostro dispositivo mobile, in modo tale che
+
+490
+00:34:31,560 --> 00:34:35,160
+vi permetta di inserire in modo facile la password complessa in un
+
+491
+00:34:35,160 --> 00:34:36,520
+sito internet.
+
+492
+00:34:36,520 --> 00:34:41,720
+Inoltre ci sono anche integrazioni con i sistemi biometrici, nel nostro caso
+
+493
+00:34:41,720 --> 00:34:46,360
+parliamo dei sistemi Apple, parliamo di Face ID e Touch ID e
+
+494
+00:34:46,360 --> 00:34:50,520
+quindi vi permette di sbloccare velocemente il gestore della password usando il
+
+495
+00:34:50,520 --> 00:34:53,240
+vostro faccione o il vostro ditone.
+
+496
+00:34:53,240 --> 00:34:57,400
+Tra le altre cose, quindi la parte finale che sincronizza le password
+
+497
+00:34:57,400 --> 00:35:00,360
+a differenti dispositivi, per esempio tra il mio PC e il mio
+
+498
+00:35:00,360 --> 00:35:03,880
+smartphone o il mio tablet, vi permette di sincronizzare tutto quanto in
+
+499
+00:35:03,880 --> 00:35:07,000
+modo tale che se ne usate da una parte potete andare dall'altra
+
+500
+00:35:07,000 --> 00:35:08,520
+senza grossi problemi.
+
+501
+00:35:08,520 --> 00:35:14,120
+Ok, a questo punto direi direi che le password possono essere salvate
+
+502
+00:35:14,120 --> 00:35:18,960
+in locale all'interno di una cassaforta che non è nient'altro che un
+
+503
+00:35:18,960 --> 00:35:25,280
+file cifrato con una password chiamata master password, ovvero la password principale,
+
+504
+00:35:25,280 --> 00:35:29,440
+quella che dovete ricordarvi assolutamente perché, se no, se non vi ricordate
+
+505
+00:35:29,440 --> 00:35:32,080
+quella, vuol dire che non potete più accedere a tutte le altre
+
+506
+00:35:32,080 --> 00:35:35,600
+password e quindi siete in un mare di problemi o in una
+
+507
+00:35:35,600 --> 00:35:38,000
+valle di lacrime come la volete vedere.
+
+508
+00:35:38,000 --> 00:35:43,280
+A questo punto questa simpatica cassaforte si può sincronizzare in vari modi
+
+509
+00:35:43,280 --> 00:35:45,200
+e su vari dispositivi.
+
+510
+00:35:45,200 --> 00:35:49,840
+L'altra possibilità è usare il web che io francamente sconsiglio sempre un
+
+511
+00:35:49,840 --> 00:35:52,000
+po' perché non mi fido mai troppo, ma io sono un po'
+
+512
+00:35:52,000 --> 00:35:53,680
+paranoico, perché
+
+513
+00:35:55,120 --> 00:35:58,640
+negli ultimi tempi i gestori di password, per rendere più vantaggiosi il
+
+514
+00:35:58,640 --> 00:36:03,600
+loro business, hanno implementato dei sistemi online di gestione e sincronizzazione delle
+
+515
+00:36:03,600 --> 00:36:04,400
+password.
+
+516
+00:36:04,400 --> 00:36:08,160
+In pratica pagando un abbonamento mensile vi offrono uno spazio dove salvare
+
+517
+00:36:08,160 --> 00:36:11,920
+la vostra cassaforte e da dove sincronizzare tutti i vostri dispositivi.
+
+518
+00:36:11,920 --> 00:36:15,760
+Con uno spazio online poi è possibile condividere delle password tra più
+
+519
+00:36:15,760 --> 00:36:18,640
+utenti come in famiglia o in ufficio.
+
+520
+00:36:18,640 --> 00:36:23,840
+A questo punto lascio la palla ai nostri amici strozzi, perché sono
+
+521
+00:36:23,840 --> 00:36:29,040
+due, che ci racconteranno i software di gestione delle password.
+
+522
+00:36:29,040 --> 00:36:31,840
+Che Andrea vuoi partire tu?
+
+523
+00:36:33,040 --> 00:36:38,000
+Note sicure di Apple non è una password
+
+524
+00:36:39,040 --> 00:36:40,960
+manager, questo è difficile,
+
+525
+00:36:42,000 --> 00:36:46,240
+allora giusto per fare una piccola premessa a quello che ha detto
+
+526
+00:36:46,240 --> 00:36:55,200
+Andrea, ovviamente alcune persone utilizzano note, soprattutto nell'ambito Apple, per segnarsi le
+
+527
+00:36:55,200 --> 00:36:55,840
+password.
+
+528
+00:36:55,840 --> 00:36:59,440
+Quindi invece di avere la carta e la penna sono digitali da
+
+529
+00:36:59,440 --> 00:37:04,040
+quel punto di vista lì e utilizzano abitualmente dovrebbero utilizzare quantomeno le
+
+530
+00:37:04,040 --> 00:37:09,400
+note sicure, cioè le note che vengono cifrate e vengono bloccate da
+
+531
+00:37:09,400 --> 00:37:10,040
+una password.
+
+532
+00:37:10,040 --> 00:37:11,880
+Quindi, di fatto chiamiamolo così
+
+533
+00:37:13,160 --> 00:37:18,040
+utilizzando i principi meno strutturati del gestore di password.
+
+534
+00:37:18,040 --> 00:37:24,120
+Ovviamente le note sicure sono si pensate per dare un minimo di
+
+535
+00:37:24,120 --> 00:37:29,000
+sicurezza alle note che andiamo a salvare, ma non sono un gestore
+
+536
+00:37:29,000 --> 00:37:34,760
+di password, sono soggetti a tutta una serie di problemi così via.
+
+537
+00:37:35,000 --> 00:37:38,360
+Ovviamente è sconsigliato utilizzare
+
+538
+00:37:39,640 --> 00:37:41,000
+questo sistema.
+
+539
+00:37:41,000 --> 00:37:45,320
+Se volete, poi nelle note dell'episodio, ovviamente trovate come proteggere le nostre
+
+540
+00:37:45,320 --> 00:37:48,280
+note se non sapete neanche che c'è questa opzione.
+
+541
+00:37:48,280 --> 00:37:53,080
+La seconda opzione invece che utilizza Roberto quindi gli passiamo la parola
+
+542
+00:37:53,560 --> 00:37:59,160
+questa sì: è un gestore di password anche se rudimentale, è quella
+
+543
+00:37:59,160 --> 00:38:01,320
+di utilizzare portachiavi di iCloud.
+
+544
+00:38:01,320 --> 00:38:06,040
+L'unica precisazione che volevo fare prima di dare la parola a Roberto,
+
+545
+00:38:06,040 --> 00:38:11,480
+è che appunto Apple sulla sicurezza ha sempre speso molto.
+
+546
+00:38:11,480 --> 00:38:17,240
+E effettivamente, infatti, per esempio, io non mi ricordavo, Roberto è stato
+
+547
+00:38:17,240 --> 00:38:21,480
+bravissimo perché proprio io non lo sapevo proprio che su iOS ci
+
+548
+00:38:21,480 --> 00:38:25,640
+fosse anche la possibilità di vedere le password compromesse, chiamiamole così, che
+
+549
+00:38:25,640 --> 00:38:29,320
+anche questo è uno dei servizi tipici dei software di gestione delle
+
+550
+00:38:29,320 --> 00:38:33,880
+password, che trovate in molti dei software che poi vedremo dopo.
+
+551
+00:38:33,880 --> 00:38:37,480
+La seconda è che effettivamente Apple, appunto, per tutta una serie di
+
+552
+00:38:37,480 --> 00:38:45,760
+ragioni, ha implementato strumenti tecnici anche relativamente avanzati, diciamo, semplici ma avanzati,
+
+553
+00:38:45,760 --> 00:38:52,480
+come appunto l'accesso con l'ID Apple e per l'ID Apple anche lì,
+
+554
+00:38:52,480 --> 00:38:58,480
+siccome di fatto se siete utenti Apple, è il cardine di tutti
+
+555
+00:38:58,480 --> 00:38:59,920
+i vostri dispositivi Apple.
+
+556
+00:38:59,920 --> 00:39:06,160
+Cioè con l'ID Apple potete bloccare un telefono da remoto, potete dire
+
+557
+00:39:06,160 --> 00:39:08,560
+che è smarrito, potete accedere
+
+558
+00:39:09,840 --> 00:39:15,120
+a vedere dove eventualmente è il dispositivo se vi è stato rubato,
+
+559
+00:39:15,920 --> 00:39:20,720
+e potete accedere anche ai dischi del Mac, per esempio.
+
+560
+00:39:20,720 --> 00:39:26,480
+Se avete impostato così, l'ID Apple vi permette di sbloccare anche i
+
+561
+00:39:26,480 --> 00:39:30,400
+dischi cifrati Apple se l'avete configurato in questa maniera.
+
+562
+00:39:30,400 --> 00:39:34,800
+Il suggerimento di base è quello di non avere solo ID e
+
+563
+00:39:34,800 --> 00:39:38,880
+password, ma anche attivare l'autenticazione a due fattori.
+
+564
+00:39:38,880 --> 00:39:45,280
+Che ammetto è una rogna, perché è comunque un po' complesso.
+
+565
+00:39:45,280 --> 00:39:50,480
+Ma Apple, per esempio, è uno di quei pochi provider che utilizzano
+
+566
+00:39:50,480 --> 00:39:54,080
+un sistema che, appunto, essendo complesso, è anche più sicuro.
+
+567
+00:39:54,080 --> 00:40:00,720
+Quindi, abitualmente il suggerimento che do a tutti è di abilitare per
+
+568
+00:40:00,720 --> 00:40:08,000
+l'account Apple dell'Apple ID, soprattutto se avete più dispositivi Apple, l'autenticazione due
+
+569
+00:40:08,000 --> 00:40:11,680
+fattori che non c'entra in senso tecnico con la password e con
+
+570
+00:40:11,680 --> 00:40:14,880
+tutto il resto, ma comunque una cosa da tenere ben presente.
+
+571
+00:40:15,120 --> 00:40:19,600
+A questo punto parola a Roberto su il portachiavi di iCloud.
+
+572
+00:40:19,600 --> 00:40:23,200
+Sì, io sarò molto breve perché il portachiavi di iCloud è molto
+
+573
+00:40:23,200 --> 00:40:24,240
+facile da utilizzare.
+
+574
+00:40:24,240 --> 00:40:28,560
+Io ho preferito utilizzare questo tipo di sistema per il semplice fatto
+
+575
+00:40:28,800 --> 00:40:33,800
+che è davvero molto semplice da utilizzare e permette la sincronizzazione delle
+
+576
+00:40:33,800 --> 00:40:37,960
+vostre password in scioltezza tra tutti i vostri dispositivi.
+
+577
+00:40:37,960 --> 00:40:40,680
+Non dovete pensare assolutamente a niente.
+
+578
+00:40:40,680 --> 00:40:48,280
+Io tra l'altro adesso stavo ragionando che password portachiavi è molto intelligente,
+
+579
+00:40:48,280 --> 00:40:54,200
+non lo era fino a 2-3 versioni fa di macOS, perché non
+
+580
+00:40:54,200 --> 00:40:56,920
+ti proponeva direttamente la password.
+
+581
+00:40:56,920 --> 00:41:01,400
+Invece adesso la situazione è molto molto fluida perché voi se vi
+
+582
+00:41:01,400 --> 00:41:06,440
+dovete logare da qualche parte, soprattutto nel momento in cui utilizzate sistemi
+
+583
+00:41:06,440 --> 00:41:11,720
+Apple con il Touch CD che possono essere il vostro iPhone, iPad,
+
+584
+00:41:11,720 --> 00:41:15,320
+ma anche i Mac, perché adesso hanno in Tac D anche i
+
+585
+00:41:15,320 --> 00:41:19,400
+Mac, quindi diventa estremamente facile loggarsi
+
+586
+00:41:21,960 --> 00:41:25,480
+a un servizio oppure a qualsiasi altra cosa che vi viene in
+
+587
+00:41:25,480 --> 00:41:30,760
+mente, è semplicemente perché vi viene richiesto invece di richiedervi la password
+
+588
+00:41:30,760 --> 00:41:35,560
+del portachiavi, vi chiede di appoggiare il ditino sul TACD e lui
+
+589
+00:41:35,560 --> 00:41:40,280
+inserisce automaticamente le credenziali che vi servono in quel momento.
+
+590
+00:41:40,280 --> 00:41:44,360
+Altra cosa interessante è che quando state creando per la prima volta
+
+591
+00:41:44,360 --> 00:41:50,200
+le credenziali di un servizio, accesso portachiavi essenzialmente se lo ricorda quello
+
+592
+00:41:50,200 --> 00:41:54,840
+che state facendo, ma soprattutto vi propone delle password sicure.
+
+593
+00:41:54,840 --> 00:41:58,440
+Sono delle password che a volte non ve le fa vedere neanche
+
+594
+00:41:58,440 --> 00:42:04,040
+tutte, perché giustamente un'altra cosa da considerare è che magari adesso non
+
+595
+00:42:04,040 --> 00:42:08,360
+più, ma prima potevate anche essere in un luogo pubblico e qualcuno
+
+596
+00:42:08,360 --> 00:42:11,640
+che passava di lì bastava che si facesse una bella fotografia alla
+
+597
+00:42:11,640 --> 00:42:15,000
+password che state inserendo tutta in chiaro e vi fregava così.
+
+598
+00:42:15,360 --> 00:42:18,960
+Invece adesso c'è un ulteriore sistema di sicurezza che è quello di
+
+599
+00:42:18,960 --> 00:42:24,080
+non fare vedere per intero quando viene inserita la password, diciamo la
+
+600
+00:42:24,080 --> 00:42:27,040
+metà viene in chiaro e l'altra metà è in scuro, non si
+
+601
+00:42:27,040 --> 00:42:28,080
+riesce a leggere.
+
+602
+00:42:28,080 --> 00:42:33,680
+Conseguentemente è anche facile aumentare la sicurezza in questo modo.
+
+603
+00:42:33,680 --> 00:42:37,920
+Quindi è un sistema molto integrato all'interno sia di iOS sia che
+
+604
+00:42:37,920 --> 00:42:41,840
+di macOS e anche ovviamente di iPadOS.
+
+605
+00:42:41,840 --> 00:42:47,360
+E assolutamente, almeno assolutamente io non ho mai sentito da quando lo
+
+606
+00:42:47,520 --> 00:42:52,000
+uso che ci sono stati fughi o bucate di qualsiasi tipo, forma
+
+607
+00:42:52,000 --> 00:42:53,040
+e dimensione.
+
+608
+00:42:53,040 --> 00:42:56,240
+Per adesso è abbastanza tranquillo come situazione.
+
+609
+00:42:56,560 --> 00:43:01,760
+Quello che mi piace è appunto la facilità d'uso, si può consultare
+
+610
+00:43:01,760 --> 00:43:05,280
+dai vostri dispositivi nel momento in cui, che ne so, non vi
+
+611
+00:43:05,280 --> 00:43:09,760
+ricordate la password o volete cambiarla, basta semplicemente farlo da uno dei
+
+612
+00:43:09,760 --> 00:43:13,040
+vostri dispositivi e questo viene ribaltato su tutti gli altri.
+
+613
+00:43:13,040 --> 00:43:17,760
+Questa è una delle magie, chiamiamolo così, del sistema iCloud che deve
+
+614
+00:43:17,760 --> 00:43:22,480
+essere ovviamente attivato sul vostro di Apple e sui vostri dispositivi, che
+
+615
+00:43:22,480 --> 00:43:27,600
+ci sia appunto la possibilità da parte dei vostri dispositivi di far
+
+616
+00:43:27,600 --> 00:43:29,760
+girare queste password.
+
+617
+00:43:29,760 --> 00:43:35,760
+Francamente non essendo molto hacker, non ho idea se queste password girino
+
+618
+00:43:35,760 --> 00:43:39,280
+criptate, ma immagino di sì, almeno me lo auguro.
+
+619
+00:43:39,280 --> 00:43:43,040
+Mi dice Filippo dal video che sono in effetti criptate.
+
+620
+00:43:43,040 --> 00:43:48,480
+Quindi ha un buon margine di sicurezza, perché diciamo è una scelta
+
+621
+00:43:48,480 --> 00:43:51,360
+personale che ho fatto io e propongo anche a tutti i miei
+
+622
+00:43:51,360 --> 00:43:55,520
+familiari, compagnia briscola per il semplice fatto che non c'è bisogno di
+
+623
+00:43:55,520 --> 00:43:58,160
+appoggiarsi a un altro servizio.
+
+624
+00:43:58,160 --> 00:44:01,720
+Perché è vero che ci sono, come ci spiegherà Filippo a breve,
+
+625
+00:44:01,720 --> 00:44:05,400
+perché manca solo più un quarto d'ora, quindi ci racconterà tutti i
+
+626
+00:44:05,400 --> 00:44:09,480
+software che utilizza lui o che ha conosciuto, ma diciamo che è
+
+627
+00:44:09,480 --> 00:44:13,160
+un'applicazione in più nel vostro armamentario.
+
+628
+00:44:13,160 --> 00:44:18,520
+Io come sapete immagino che dopo quasi dieci puntate avete già capito
+
+629
+00:44:18,520 --> 00:44:22,680
+come ragiono, cerco di viaggiare il più leggero possibile e cerco di
+
+630
+00:44:22,680 --> 00:44:25,320
+non avere un duplicato delle applicazioni.
+
+631
+00:44:25,320 --> 00:44:29,000
+Per esempio, se ho un gestore di password sicuro sul Mac non
+
+632
+00:44:29,000 --> 00:44:31,320
+me ne vado a installare un altro perché non c'ho voglia di
+
+633
+00:44:31,320 --> 00:44:32,280
+perdere tempo
+
+634
+00:44:33,480 --> 00:44:38,520
+a fare o a gestire un altro gestore di password.
+
+635
+00:44:38,520 --> 00:44:43,000
+Quindi invece Filippo, che invece è molto molto molto molto più hacker
+
+636
+00:44:43,160 --> 00:44:48,120
+di me, adesso vi racconta il perché bisogna invece passare a sistemi
+
+637
+00:44:48,120 --> 00:44:50,120
+di altra caratura o dimensione.
+
+638
+00:44:50,120 --> 00:44:51,480
+Anzi, sai cosa ti dico?
+
+639
+00:44:51,480 --> 00:44:57,160
+Andrea, ci racconti qual è il primo software che Filippo ci consiglia
+
+640
+00:44:57,160 --> 00:44:58,360
+nella nostra lista?
+
+641
+00:44:58,520 --> 00:45:00,840
+Prima password One password.
+
+642
+00:45:00,840 --> 00:45:05,320
+Si chiama uno password One password, perché in inglese quella che usa
+
+643
+00:45:05,320 --> 00:45:06,520
+Filippo è
+
+644
+00:45:08,760 --> 00:45:13,800
+il più noto, abbiamo in ambito Apple.
+
+645
+00:45:13,880 --> 00:45:25,560
+Che attualmente presenta su merco Windows, Windows Linux Linux Linux Linux benissimo.
+
+646
+00:45:25,560 --> 00:45:30,280
+È lui non conosce ancora Linux perché io devo ancora parlare in
+
+647
+00:45:30,360 --> 00:45:31,080
+inglese,
+
+648
+00:45:32,440 --> 00:45:34,120
+ma non ti preoccupare tutto.
+
+649
+00:45:34,120 --> 00:45:37,240
+Addirittura Android, Android, che cos'è?
+
+650
+00:45:37,560 --> 00:45:40,640
+È una cosa brutta che non devi conoscere,
+
+651
+00:45:43,720 --> 00:45:47,360
+no, non è vero, sono gli altri telefoni, oltre ai telefoni di
+
+652
+00:45:44,760 --> 00:45:49,120
+Apple, ci sono degli altri telefoni.
+
+653
+00:45:49,680 --> 00:45:50,880
+Ho capito, ho capito
+
+654
+00:45:52,560 --> 00:45:52,640
+,
+
+655
+00:45:54,560 --> 00:45:57,120
+multipiattaforma esatto.
+
+656
+00:45:57,120 --> 00:45:59,280
+Allora adesso posso parlare un po' anch'io?
+
+657
+00:46:00,560 --> 00:46:02,960
+Dill'ultima cosa, dai che poi dobbiamo andare.
+
+658
+00:46:02,960 --> 00:46:08,080
+Ovviamente è una cosa molto utile per i bambini e anche per
+
+659
+00:46:08,080 --> 00:46:11,040
+i grandi che devono stare molto attenti.
+
+660
+00:46:11,360 --> 00:46:13,840
+Altrimenti può succedere questo guai.
+
+661
+00:46:13,920 --> 00:46:14,320
+Ok.
+
+662
+00:46:14,480 --> 00:46:19,680
+Un bambino va nella sala del grande, va nel suo ufficio, che
+
+663
+00:46:19,680 --> 00:46:26,320
+in realtà è nella casa adesso, e dopo fa delle cose strane.
+
+664
+00:46:26,320 --> 00:46:34,000
+E dopo va su, facciamo un esempio A2 Podcast, live, stream,
+
+665
+00:46:34,320 --> 00:46:36,160
+e dopo fa un video.
+
+666
+00:46:36,880 --> 00:46:39,840
+Ah, si, bisogna evitare di fare video su YouTube
+
+667
+00:46:41,120 --> 00:46:47,840
+senza permesso, infatti, tu sei qua sotto supervisione del papà e non
+
+668
+00:46:47,840 --> 00:46:48,560
+ti è concesso
+
+669
+00:46:49,840 --> 00:46:50,960
+e di Roberto da Remoto
+
+670
+00:46:52,000 --> 00:46:56,960
+di Roberto da Remoto venendo noi a questo punto parliamo di One
+
+671
+00:46:56,960 --> 00:46:57,440
+Password.
+
+672
+00:46:57,440 --> 00:46:58,800
+Allora, piccola premessa.
+
+673
+00:46:58,800 --> 00:47:04,240
+One password è il programma in ambito Apple più noto sulla faccia
+
+674
+00:47:04,240 --> 00:47:08,160
+della Terra, tra virgolette, anche perché sono i primi tra i primi
+
+675
+00:47:08,160 --> 00:47:13,040
+che hanno implementato questi schemi di sicurezza e questa gestione.
+
+676
+00:47:13,040 --> 00:47:17,600
+Apple effettivamente l'ha fatto recentemente negli ultimi 3-4 anni.
+
+677
+00:47:17,600 --> 00:47:24,400
+One Password, io credo dive avercelo da almeno 6-7 anni e oggettivamente,
+
+678
+00:47:24,400 --> 00:47:29,840
+una volta era l'unico software presente in ambiente Apple e soprattutto anche
+
+679
+00:47:31,080 --> 00:47:37,720
+multipiattaforma, cioè sia per Mac che iOS.
+
+680
+00:47:38,360 --> 00:47:42,440
+Tutti questi gestori di password ovviamente hanno la possibilità di sincronizzare le
+
+681
+00:47:42,440 --> 00:47:49,880
+password e la sincronizzazione originariamente avveniva attraverso cloud esterni, e in questo
+
+682
+00:47:49,880 --> 00:47:56,120
+caso comunque sul cloud viene salvato il file cifrato delle password, chiuso,
+
+683
+00:47:56,120 --> 00:48:01,560
+quindi è crittografato aborigine, quindi è molto sicuro.
+
+684
+00:48:01,560 --> 00:48:07,080
+Successivamente, un po' per svariati motivi, io non lo condivido, però effettivamente
+
+685
+00:48:07,720 --> 00:48:12,360
+in certi casi è molto comodo hanno sviluppato e OnePassword credo che
+
+686
+00:48:12,360 --> 00:48:17,480
+sia tra i primi averlo sviluppato la possibilità di fare questa sincronizzazione
+
+687
+00:48:17,480 --> 00:48:24,520
+attraverso un cloud proprio di OnePassword, che ovviamente ha ulteriori sicurezze per
+
+688
+00:48:24,520 --> 00:48:29,400
+accedere, per sbloccare ovviamente le varie cassaforti.
+
+689
+00:48:30,760 --> 00:48:35,800
+Questo sistema ovviamente garantisce anche un'interoperabilità molto maggiore.
+
+690
+00:48:35,800 --> 00:48:39,720
+Perché, per esempio, le password che io ho salvato per Andrea potrei
+
+691
+00:48:40,680 --> 00:48:47,000
+rendere disponibili solo quelle ad Andrea farlo accedere attraverso il suo OnePasswal
+
+692
+00:48:47,000 --> 00:48:48,120
+sul suo dispositivo.
+
+693
+00:48:48,120 --> 00:48:51,960
+A dire la verità: io, ovviamente, non procedo in questa maniera.
+
+694
+00:48:51,960 --> 00:48:56,520
+E rimango legato alla vecchia gestione di OnePassword, che secondo me è
+
+695
+00:48:56,600 --> 00:48:57,240
+più sicura.
+
+696
+00:48:57,240 --> 00:49:05,800
+Tuttavia, io l'approccio abbastanza diciamo cervellottico e paranoico, e quindi utilizzo una
+
+697
+00:49:05,800 --> 00:49:10,520
+sincronizzazione del passo, sì, su cloud, devo dire la verità, ma solo
+
+698
+00:49:10,520 --> 00:49:14,200
+nel portachiavi e senza fare questo.
+
+699
+00:49:14,200 --> 00:49:16,080
+Una cosa da tenere presente su
+
+700
+00:49:17,120 --> 00:49:21,360
+vamente one password, come quasi tutti i software di gestione delle password che
+
+701
+00:49:21,360 --> 00:49:26,400
+non siano quelli di Apple, è a pagamento, e quindi qui non
+
+702
+00:49:26,400 --> 00:49:28,320
+ce se ne esce, diciamo.
+
+703
+00:49:28,560 --> 00:49:29,680
+Quanto costa adesso?
+
+704
+00:49:29,680 --> 00:49:36,960
+Allora, l'abbonamento l'abbonamento è relativamente dipende dai punti di vista.
+
+705
+00:49:36,960 --> 00:49:41,200
+Il personale costa intorno ai 3 dollari al mese, quindi, alla fine,
+
+706
+00:49:41,200 --> 00:49:46,320
+un 30-40 euro 30-40 dollari che poi vanno convertiti in euro, che
+
+707
+00:49:46,320 --> 00:49:47,520
+dovrebbero essere un po' meno.
+
+708
+00:49:47,520 --> 00:49:49,120
+Tuttavia, poi dopo c'è l'IVA.
+
+709
+00:49:49,120 --> 00:49:52,640
+Quindi, insomma, i bene o male vanno pari
+
+710
+00:49:54,240 --> 00:49:58,480
+per il personale, invece, la famiglia viaggia già a 5 dollari al
+
+711
+00:49:58,480 --> 00:49:59,280
+mese.
+
+712
+00:49:59,280 --> 00:50:04,080
+Nella famiglia sono comprese 5 persone, che quindi è abbastanza generosa come
+
+713
+00:50:04,080 --> 00:50:09,920
+cosa, e tendenzialmente la famiglia media, chiamiamola così, con un po' di
+
+714
+00:50:09,920 --> 00:50:11,680
+persone all'interno.
+
+715
+00:50:11,680 --> 00:50:15,600
+Bisogna considerare anche che, comunque, una volta che ci accedi e usi
+
+716
+00:50:15,600 --> 00:50:19,520
+OnePassword, praticamente devi considerare che lo usi per la vita, quello lì
+
+717
+00:50:19,520 --> 00:50:20,560
+è risvolto.
+
+718
+00:50:20,560 --> 00:50:22,960
+Non è che lo puoi usare un mese, dico, non la uso
+
+719
+00:50:22,960 --> 00:50:23,760
+più adesso.
+
+720
+00:50:23,760 --> 00:50:25,440
+Io ne parleremo dopo.
+
+721
+00:50:25,440 --> 00:50:32,080
+Sto ragionando di passare ad altro gestore di password, però, attualmente ho
+
+722
+00:50:32,320 --> 00:50:36,720
+guardato prima della diretta con Andrea, ho quasi 600 password salvati one
+
+723
+00:50:36,800 --> 00:50:37,520
+password.
+
+724
+00:50:37,520 --> 00:50:43,200
+Quindi è evidente che diciamo il passaggio allora credo appunto di poterlo
+
+725
+00:50:43,200 --> 00:50:45,120
+fare abbastanza semplicemente perché
+
+726
+00:50:46,320 --> 00:50:50,400
+, che sarebbe quello che mi interessa, che è open source e così
+
+727
+00:50:50,400 --> 00:50:56,560
+via, ha una funzione di import da One Password delle password.
+
+728
+00:50:56,520 --> 00:51:00,200
+Quindi, quindi questo che non ho testato, intendo a precisare.
+
+729
+00:50:59,840 --> 00:51:03,000
+Però, insomma, già avrebbe dei vantaggi.
+
+730
+00:51:03,240 --> 00:51:07,480
+Devo dire la verità, però, da tanto tempo ormai sono legato a
+
+731
+00:51:07,480 --> 00:51:11,640
+One Password funziona bene, devo dire anche la verità.
+
+732
+00:51:11,640 --> 00:51:17,800
+Per cui sono sempre collegato e utilizzo questo sistema.
+
+733
+00:51:17,800 --> 00:51:23,480
+La cosa particolare che voglio segnalare agli ascoltatori è il fatto che,
+
+734
+00:51:23,480 --> 00:51:29,400
+oltre al fatto dell'abbonamento, di fatto se andate sul sito di OnePassword,
+
+735
+00:51:29,400 --> 00:51:31,480
+vi viene proposto sempre quello.
+
+736
+00:51:31,480 --> 00:51:32,440
+Diciamo!
+
+737
+00:51:32,440 --> 00:51:38,440
+Esiste un'ulteriore opzione che è quella di acquistare la licenza singola, cosa
+
+738
+00:51:38,440 --> 00:51:43,560
+che ho fatto è una roba abbastanza complicata, e tra l'altro, devo
+
+739
+00:51:43,560 --> 00:51:45,720
+dirvi la verità: non sono riuscito.
+
+740
+00:51:46,520 --> 00:51:52,280
+Nelle note dell'episodio, volevo mettere in qualche maniera come individuare come fare,
+
+741
+00:51:52,280 --> 00:51:56,680
+è abbastanza complicato perché bisogna seguire si trova solo dentro l'applicazione.
+
+742
+00:51:56,680 --> 00:51:59,880
+Cioè, una volta che avete scaricato l'applicazione, non dovete scaricare dal Mac
+
+743
+00:52:00,040 --> 00:52:03,080
+App Store e così via, perché se no, non c'è la possibilità
+
+744
+00:52:03,080 --> 00:52:04,040
+di farlo.
+
+745
+00:52:04,040 --> 00:52:08,760
+Ma una volta che scaricate OnePassword dal sito con download e ci
+
+746
+00:52:08,760 --> 00:52:13,640
+sarà il link per scaricarlo direttamente dal sito, dovete andare dentro l'applicazione
+
+747
+00:52:13,640 --> 00:52:20,040
+e scegliere ovviamente la sincronizzazione non loro, ma quella cloud DI cloud
+
+748
+00:52:20,040 --> 00:52:25,800
+o Dropbox perché non esistono altre possibilità di sincronizzazione se non quella
+
+749
+00:52:26,040 --> 00:52:31,000
+attraverso la LAN, cioè quindi se avete un WiFi e diciamo che
+
+750
+00:52:31,000 --> 00:52:35,880
+il computer si può sincronizzare, o meglio, l'iPhone o l'iPad si possono
+
+751
+00:52:35,880 --> 00:52:43,400
+sincronizzare col vostro computer dentro la vostra rete interna, ma ovviamente se
+
+752
+00:52:43,400 --> 00:52:50,640
+voi aggiungete una password fuori dovrete aspettare che il vostro iPhone torni
+
+753
+00:52:50,640 --> 00:52:55,840
+a casa, faccia la sincronizzazione per avere i dati sincronizzati che è
+
+754
+00:52:55,840 --> 00:52:57,680
+la scomodità della vicenda.
+
+755
+00:52:57,680 --> 00:53:01,040
+Perché ovvio che a volte create delle password sul vostro computer, a
+
+756
+00:53:01,040 --> 00:53:05,760
+volte le create direttamente, è più facile da un iPad però anche
+
+757
+00:53:05,760 --> 00:53:08,160
+da iOS è possibile farlo.
+
+758
+00:53:08,160 --> 00:53:12,160
+Quindi la sincronizzazione è effettivamente molto comoda perché vi permette di evitare
+
+759
+00:53:12,160 --> 00:53:16,240
+di avere duplicati, situazioni un po' complicate, che a volte è meglio
+
+760
+00:53:16,240 --> 00:53:17,200
+non avere.
+
+761
+00:53:17,440 --> 00:53:22,320
+Per cui questo diciamo è il quadro di OnePassword.
+
+762
+00:53:22,320 --> 00:53:26,080
+Dopo, velocemente, così dopo lascio la parola ad Andrea che vuole dire
+
+763
+00:53:26,080 --> 00:53:31,840
+una cosa, vi parlo di quelle che sono le alternative a OnePassword,
+
+764
+00:53:31,840 --> 00:53:33,920
+oltre ovviamente alla soluzione Apple.
+
+765
+00:53:33,920 --> 00:53:37,680
+Ecco una cosa particolare da tenere presente, è ovvio che la soluzione
+
+766
+00:53:37,680 --> 00:53:44,480
+Apple funziona prevalentemente su piattaforma Apple, non l'abbiamo detto prima, ma se
+
+767
+00:53:44,480 --> 00:53:51,520
+non vado errato, c'è la possibilità di utilizzare password manager, diciamo, di
+
+768
+00:53:52,320 --> 00:53:54,560
+Apple su Chrome per Windows.
+
+769
+00:53:54,640 --> 00:53:59,920
+Tuttavia, per esempio, se avete un telefono Android, la sincronizzazione delle password
+
+770
+00:54:00,000 --> 00:54:00,960
+non funziona.
+
+771
+00:54:00,960 --> 00:54:06,320
+Quindi anche quella è una considerazione da tenere presente One Password e
+
+772
+00:54:06,320 --> 00:54:11,120
+molti altri software di questo genere, abitualmente hanno software un po' per
+
+773
+00:54:11,120 --> 00:54:15,440
+tutto e quindi, non so se avete un computer Windows e un
+
+774
+00:54:15,440 --> 00:54:20,880
+iPhone, per forza di cose, dovete andare in quella direzione e non
+
+775
+00:54:20,880 --> 00:54:25,360
+nella direzione, casomai, del gestore di password di Apple.
+
+776
+00:54:25,360 --> 00:54:29,760
+Per cui titiamoli velocemente, anche se premetto, io non le ho mai
+
+777
+00:54:29,760 --> 00:54:32,760
+usati e quindi sono semplicemente dei nomi che vi diamo.
+
+778
+00:54:33,000 --> 00:54:38,120
+Eventualmente se ci fosse qualche ascoltatore che utilizza questi sistemi e ce
+
+779
+00:54:38,120 --> 00:54:39,720
+ne voresse parlare più in dettaglio.
+
+780
+00:54:39,720 --> 00:54:45,480
+Molto volentieri, vi ascoltiamo e potete o farci o scriverci, appunto, o
+
+781
+00:54:45,480 --> 00:54:47,880
+eventualmente mandarci un audiomessaggio.
+
+782
+00:54:48,040 --> 00:54:51,160
+Lo metteremo in diretta senza nessun tipo di problema.
+
+783
+00:54:51,400 --> 00:54:56,280
+Allora, quello più noto, oltre a OnePassword è la Pass, che in
+
+784
+00:54:56,520 --> 00:55:01,240
+parte gratuito, ma ovviamente c'è una versione premium che costa più o
+
+785
+00:55:01,240 --> 00:55:05,640
+meno in maniera simile a OnePassword, anche questo è multipiattaforma e alle
+
+786
+00:55:05,720 --> 00:55:07,000
+estensioni del browser.
+
+787
+00:55:07,000 --> 00:55:11,720
+Che anche qui sono una cosa molto comoda perché, l'abbiamo detto prima:
+
+788
+00:55:11,720 --> 00:55:16,120
+secondo me, queste estensioni non mettono mai in chiaro le password: cioè
+
+789
+00:55:16,280 --> 00:55:20,680
+se voi andate nel vostro gestore di password, copiate la password e
+
+790
+00:55:20,680 --> 00:55:26,920
+la inserite nel login del sito internet, diciamo la password viene salvata
+
+791
+00:55:26,920 --> 00:55:29,560
+comunque negli appunti del sistema operativo.
+
+792
+00:55:29,560 --> 00:55:33,880
+Potenzialmente questa è un'ulteriore causa.
+
+793
+00:55:34,040 --> 00:55:38,680
+Possibilità che qualcuno riesca a reperire la vostra password, perché la può
+
+794
+00:55:38,680 --> 00:55:41,240
+catturare nei vostri appunti del sistema.
+
+795
+00:55:41,240 --> 00:55:45,480
+Comunque arrivo, Andrea a breve ti do la parola.
+
+796
+00:55:45,480 --> 00:55:46,680
+Non ti preoccupare.
+
+797
+00:55:46,680 --> 00:55:51,640
+Gli altri due programmi di cui vi voglio parlare sono Bit Warden.
+
+798
+00:55:51,800 --> 00:55:56,600
+Credo che si dica così: che è un software open source simile
+
+799
+00:55:56,600 --> 00:56:02,880
+a One Password, cioè c'è un sito online, chiamiamolo così, a cui
+
+800
+00:56:02,880 --> 00:56:05,960
+potete su cui potete salvare le vostre password.
+
+801
+00:56:06,280 --> 00:56:13,320
+Nel caso, ovviamente vi vogliate utilizzare la versione, diciamo, online di proprio
+
+802
+00:56:13,320 --> 00:56:15,920
+Bid Warden, ovviamente a pagamento.
+
+803
+00:56:14,840 --> 00:56:19,280
+Cioè salvo la parte basica, diciamo a pagamento.
+
+804
+00:56:19,920 --> 00:56:23,520
+Ma se siete molto bravi e se siete un po' degli smanettoni,
+
+805
+00:56:23,520 --> 00:56:29,360
+potete crearvi un vostro server casaretcio, chiamiamolo così, e quindi utilizzare questo
+
+806
+00:56:29,360 --> 00:56:31,120
+senza ovviamente pagare alcun che.
+
+807
+00:56:31,120 --> 00:56:36,880
+Tuttavia, avete tutta la manutenzione e la gestione davanti, invece c'è chi
+
+808
+00:56:37,040 --> 00:56:41,920
+pass o chi pass XC che anche qui è open source, ma
+
+809
+00:56:41,920 --> 00:56:48,480
+funziona al contrario: cioè non ha un cloud, chiamiamolo così, ma l'archetipo
+
+810
+00:56:48,480 --> 00:56:52,000
+poi del salvataggio delle password c'è una cassaforte.
+
+811
+00:56:52,240 --> 00:56:56,640
+Quindi dovete copiare e non ci sono di fatto strumenti specifici per
+
+812
+00:56:56,640 --> 00:56:57,360
+copiarla.
+
+813
+00:56:57,360 --> 00:57:04,320
+Quindi potete utilizzare vari sistemi di sincronizzazione tra dispositivi, vi permette ovviamente
+
+814
+00:57:04,560 --> 00:57:08,160
+anche qui di gestire le password alla solita maniera.
+
+815
+00:57:08,160 --> 00:57:13,840
+Per cui diventa comodo, l'unica cosa da tenere presente se volete farlo
+
+816
+00:57:13,840 --> 00:57:19,200
+su iOS, esistono dei software per iOS per la gestione delle password
+
+817
+00:57:19,200 --> 00:57:23,920
+salvate su chi pass, ma nella stragrande maggioranza dei casi sono a
+
+818
+00:57:23,920 --> 00:57:24,640
+pagamento.
+
+819
+00:57:25,120 --> 00:57:31,360
+Quelle che ho visto che mi sono piaciuti è Ki Passum che
+
+820
+00:57:31,680 --> 00:57:36,080
+è open source, ma a pagamento se la volete comprare in abbonamento.
+
+821
+00:57:36,080 --> 00:57:41,440
+50 euro se la comprate una tanto per sempre o una quarantina
+
+822
+00:57:41,440 --> 00:57:48,320
+d'euro all'anno se invece fate altrimenti, il vantaggio di questa applicazione, per
+
+823
+00:57:48,320 --> 00:57:51,760
+esempio, è che ha tutte le funzioni avanzate di iOS, quindi riconoscimento
+
+824
+00:57:51,760 --> 00:57:55,840
+biometrico per sbloccare la password e così via.
+
+825
+00:57:55,840 --> 00:58:00,680
+Che appunto, una volta che gestite le vostre password con il TACD
+
+826
+00:58:00,680 --> 00:58:03,560
+o il Face ID, non tornereste mai più indietro.
+
+827
+00:58:03,720 --> 00:58:07,080
+Devo dire la verità: perché anche tu, Roberto, hai il Touch ID
+
+828
+00:58:07,880 --> 00:58:09,240
+sul Mac, vero?
+
+829
+00:58:10,120 --> 00:58:14,840
+Quello è molto comodo e effettivamente Tocci D su iPhone e Tocci
+
+830
+00:58:14,920 --> 00:58:16,040
+D su Mac.
+
+831
+00:58:16,040 --> 00:58:18,680
+Una delle cose che mi infastidisce più della Mac, per esempio, è
+
+832
+00:58:18,760 --> 00:58:24,120
+che non ho la possibilità di sbloccarlo con il Touch ID, ma
+
+833
+00:58:24,920 --> 00:58:28,760
+credo che One Password adesso abbia implementato questa opzione.
+
+834
+00:58:28,760 --> 00:58:35,160
+Teoricamente è possibile sbloccare One Password con l'Apple Watch, però anche lì
+
+835
+00:58:35,800 --> 00:58:38,040
+non mi sono mai addentrato particolarmente,
+
+836
+00:58:39,960 --> 00:58:44,440
+l'altro invece è software per iOS, sempre per gestire chi pass è
+
+837
+00:58:45,240 --> 00:58:51,240
+Strong Box, non l'ho utilizzato, ma un amico me l'ha segnalato.
+
+838
+00:58:51,560 --> 00:58:55,560
+Anche qui la cosa comoda è che c'è una versione gratuita, ma
+
+839
+00:58:55,560 --> 00:59:00,200
+nella versione gratuita manca lo sblocco con Face ID e T, quindi
+
+840
+00:59:00,200 --> 00:59:03,080
+per me è abbastanza scomodo.
+
+841
+00:59:03,080 --> 00:59:07,720
+A questo punto, Andrea, voi visto che di fatto la puntata ormai
+
+842
+00:59:07,960 --> 00:59:10,360
+abbiamo fatto la nostra ora, direi.
+
+843
+00:59:11,480 --> 00:59:14,440
+La puntata è giunta a un termine.
+
+844
+00:59:14,440 --> 00:59:20,680
+Diciamo, cosa ne dice Andrea se ci dici dove troviamo le note
+
+845
+00:59:20,840 --> 00:59:24,440
+dell'episodio e dove ci sono tutti i siti internet?
+
+846
+00:59:24,680 --> 00:59:26,840
+Poi salutiamo tutti gli spettatori.
+
+847
+00:59:26,920 --> 00:59:34,520
+Trovate le note dell'episodio con il link agli argomenti che abbiamo trattato
+
+848
+00:59:35,160 --> 00:59:40,120
+in questa puntata e i nostri riferimenti su A2
+
+849
+00:59:42,960 --> 00:59:49,200
+9 che è il numero dell'episodio dove si possono trovare toccate a
+
+850
+00:59:49,200 --> 00:59:50,480
+te, lo vetto Marino
+
+851
+00:59:51,520 --> 00:59:53,840
+ci penso io, grazie per la linea.
+
+852
+00:59:53,840 --> 00:59:58,160
+Allora, dunque, per quanto mi riguarda, mi trovate sul mio blog che
+
+853
+00:59:58,160 --> 00:59:59,920
+si chiama Mac Architettura.
+
+854
+01:00:00,080 --> 01:00:05,280
+Potete trovare all'indirizzo markdodnet.wordpress.com.
+
+855
+01:00:05,280 --> 01:00:10,320
+Altrimenti, se non vi piace leggere, volete sentire la mia bruttissima voce.
+
+856
+01:00:10,320 --> 01:00:16,560
+Bruttissima, insomma, c'è di meglio, potete sentirmi nel mio podcast settimanale, che
+
+857
+01:00:16,560 --> 01:00:19,920
+anche questa settimana è uscita per la rotta della cuffia, che si
+
+858
+01:00:19,920 --> 01:00:22,720
+chiama Snap Architettura Imperfetta.
+
+859
+01:00:22,720 --> 01:00:26,720
+Invece, il nostro amico Filippo lo troviamo su Avvocati e Mac che
+
+860
+01:00:26,720 --> 01:00:32,480
+potete trovare all'indirizzo avvocati e mach.it oppure lo possiamo trovare su un
+
+861
+01:00:32,480 --> 01:00:36,000
+paio di podcast che lui non cita mai, ma bisogna citarli.
+
+862
+01:00:36,320 --> 01:00:41,120
+Il primo è Compendium e il secondo, qual è
+
+863
+01:00:42,480 --> 01:00:44,560
+questo A2 Podcast
+
+864
+01:00:46,320 --> 01:00:48,720
+bravissimo.
+
+865
+01:00:48,960 --> 01:00:54,480
+Allora, quindi, da noi tre possiamo dirvi solo una cosa: prima di
+
+866
+01:00:54,480 --> 01:00:55,840
+tutto, vi salutiamo.
+
+867
+01:00:55,840 --> 01:00:57,920
+Andrea, saluta tutti quanti.
+
+868
+01:00:57,920 --> 01:01:00,240
+Ci vediamo alla prossima puntata.
+
+869
+01:01:00,400 --> 01:01:01,520
+Ciao!

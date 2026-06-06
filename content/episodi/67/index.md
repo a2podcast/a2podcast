@@ -11,13 +11,13 @@ tags = ["podcasting"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "hhgYrD93UCs"
 +++
 
 > Roberto e Filippo, dopo lo speciale estivo in presenza ma non in diretta, affrontano un approfondimento sul concetto di Value 4 Value e sul suo funzionamento parlando anche delle Cryptomonete, Bitcoin e Lightning.
 
-# Note dell’episodio
+## Note dell’episodio
 
 > Se avete suggerimenti per temi di future puntate stiamo programmando la scaletta dei prossimi mesi e siamo un po’ a corto di idee.
 

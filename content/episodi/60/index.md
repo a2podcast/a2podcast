@@ -11,13 +11,13 @@ tags = ["focus", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "9RM490lKIHI"
 +++
 
 > In questa puntata Roberto e Filippo parlano del perché è importante concentrarsi, le possibili tecniche e trucchi per farlo al meglio.
 
-# Note dell’episodio
+## Note dell’episodio
 
 ## L’importanza della concentrazione
 

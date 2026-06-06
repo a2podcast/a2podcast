@@ -1,0 +1,3687 @@
+1
+00:00:01,840 --> 00:00:03,520
+Ha due podcast.
+
+2
+00:00:03,520 --> 00:00:07,040
+Scopri come ottenere il massimo della tua tecnologia apple.
+
+3
+00:00:07,040 --> 00:00:11,600
+Due professionisti, Filippo e Roberto, te lo spiegano con argomenti monotematici ed
+
+4
+00:00:11,600 --> 00:00:14,480
+ospiti che raccontano il loro flusso di lavoro.
+
+5
+00:00:20,240 --> 00:00:26,080
+Benvenuti all'episodio 69 col numero curioso di A2 in cui scoprire come
+
+6
+00:00:26,080 --> 00:00:28,640
+ottenere il massimo della vostra tecnologia Apple.
+
+7
+00:00:28,800 --> 00:00:31,920
+Io sono Roberto Marin e sono il vostro ospite assieme all'amico Filippo
+
+8
+00:00:32,080 --> 00:00:32,800
+Strozzi.
+
+9
+00:00:32,800 --> 00:00:34,720
+Di cosa parliamo, caro il mio filippo?
+
+10
+00:00:34,880 --> 00:00:39,920
+Mio caro Roberto, oggi è puntatona dedicata al nuovo sistema operativo di
+
+11
+00:00:39,920 --> 00:00:41,360
+Apple per i nostri Mac.
+
+12
+00:00:41,360 --> 00:00:46,000
+Teoricamente, dico teoricamente, perché anch'io mi ricordavo una cosa diversa, ma quando
+
+13
+00:00:46,000 --> 00:00:50,880
+facevo le ricerche mi è venuto fuori il 26 di settembre, oggi,
+
+14
+00:00:50,880 --> 00:00:56,800
+mentre stiamo registrando, il 26 settembre, appunto, abbiamo l'uscita di macOS Sonomo
+
+15
+00:00:57,440 --> 00:00:58,400
+14.
+
+16
+00:00:58,400 --> 00:01:04,240
+E quindi, dopo aver fatto la puntata su iosai Pados 17, oggi,
+
+17
+00:01:04,240 --> 00:01:06,960
+arriviamo quasi in sincronia.
+
+18
+00:01:06,960 --> 00:01:10,400
+Perché poi la puntata voi, se non siete in diretta qui con
+
+19
+00:01:10,400 --> 00:01:14,080
+noi come su YouTube, come buon Daniele Borghi, la ascolterete il 2
+
+20
+00:01:14,080 --> 00:01:14,960
+di ottobre invece.
+
+21
+00:01:14,960 --> 00:01:17,680
+Ci salutiamo, ovviamente abbiamo già salutato.
+
+22
+00:01:17,680 --> 00:01:24,080
+E basta, direi che possiamo iniziare a tracciare l'argomento, come si suol
+
+23
+00:01:24,080 --> 00:01:24,560
+dire.
+
+24
+00:01:24,720 --> 00:01:29,360
+Io faccio una piccola premessa: io ho testato macOS Sonoma sul mio
+
+25
+00:01:29,520 --> 00:01:35,200
+MacBook Pro 16 pollici Intel, quindi del 2019, non ho ancora fatto
+
+26
+00:01:35,520 --> 00:01:39,440
+il change, diciamo, sul invece il Mac Mini M1.
+
+27
+00:01:39,440 --> 00:01:42,800
+Come premessa generale di tutta la vicenda, devo dire la verità: questo
+
+28
+00:01:42,960 --> 00:01:49,360
+aggiornamento, secondo me, porta alcune cose carine, ma nulla di eclatante o
+
+29
+00:01:49,360 --> 00:01:52,160
+nulla che cambierà la vita ai più, secondo me.
+
+30
+00:01:52,160 --> 00:01:53,440
+Però casomai mi sbaglio.
+
+31
+00:01:53,600 --> 00:01:59,440
+Dunque, possiamo partire tranquillamente con l'Incipit che arriva direttamente dal sito Apple,
+
+32
+00:01:59,440 --> 00:02:01,720
+giusto per darvi il polso della situazione.
+
+33
+00:02:01,880 --> 00:02:06,840
+Con macOS, Sonoma, hai funzioni ancora più potenti per lavorare e giocare
+
+34
+00:02:06,840 --> 00:02:07,800
+sul Mac.
+
+35
+00:02:07,800 --> 00:02:12,200
+Scegli come apparire al meglio nelle videochiamate, accedi alle informazioni in modi
+
+36
+00:02:12,200 --> 00:02:16,200
+nuovi, spingi al massimo le prestazioni di gioco e personalizza il tuo
+
+37
+00:02:16,200 --> 00:02:18,680
+Mac come mai d'ora.
+
+38
+00:02:19,240 --> 00:02:26,840
+Francamente, non fa tanto ben sperare questa descrizione del nuovo sistema operativo.
+
+39
+00:02:26,840 --> 00:02:32,200
+Per, come sapete, chi lavora col Mac non ci gioca e viceversa,
+
+40
+00:02:32,200 --> 00:02:36,840
+ma soprattutto chi ci gioca che di solito non usa il Mac,
+
+41
+00:02:36,840 --> 00:02:39,240
+perché sappiamo benissimo tutti quanti il motivo.
+
+42
+00:02:39,240 --> 00:02:43,080
+A partire da un problema grosso come una casa, che sappiamo benissimo
+
+43
+00:02:43,080 --> 00:02:47,240
+tutti quanti qual è, che sono le schede video di Nvidia che
+
+44
+00:02:47,240 --> 00:02:51,720
+sono sparite da anni dai Mac e soltanto che nel corso degli
+
+45
+00:02:51,720 --> 00:02:56,600
+anni sono diventati essenzialmente lo zoccolo duro per chiunque voglia giocare a
+
+46
+00:02:56,600 --> 00:03:00,600
+qualcosa di decente che abbia un frame rate che sia almeno superiore
+
+47
+00:03:00,600 --> 00:03:04,120
+a 120 frame per secondo, perché se no, rallenta.
+
+48
+00:03:04,360 --> 00:03:08,040
+Il Mac, sotto questo punto di vista, come sappiamo benissimo, non è
+
+49
+00:03:08,040 --> 00:03:11,240
+stato né pensato né costruito per i giochi come abbiamo visto nel
+
+50
+00:03:11,240 --> 00:03:12,360
+corso degli anni.
+
+51
+00:03:12,360 --> 00:03:17,640
+C'è da dire che con l'avvento di Arcade, abbiamo visto questi giochi
+
+52
+00:03:17,640 --> 00:03:21,800
+che in qualche modo sono arrivati anche sul Mac, in qualche forma
+
+53
+00:03:21,800 --> 00:03:26,440
+e dimensione, ma insomma, possiamo sperare di mettere un Mac di fianco
+
+54
+00:03:26,440 --> 00:03:33,560
+a un qualsiasi computer dotata di una 40.000, scusate, di una 4.090.
+
+55
+00:03:33,560 --> 00:03:35,880
+Direi che non è proprio il caso di mettere di fianco, perché
+
+56
+00:03:35,880 --> 00:03:37,720
+se no, arrivano delle gran botte sonore.
+
+57
+00:03:37,720 --> 00:03:41,640
+Ma più che altro, non è tanto la questione hardware, che ovviamente
+
+58
+00:03:41,960 --> 00:03:46,000
+sono molto potenti le schede invidia, ma c'è anche la controparte software
+
+59
+00:03:44,920 --> 00:03:49,600
+che è decisamente molto ben sviluppata da parte di Nvidia.
+
+60
+00:03:49,760 --> 00:03:52,960
+E noi qua, in effetti siamo un po' invidiosi dalla parte del
+
+61
+00:03:52,960 --> 00:03:53,360
+Mac.
+
+62
+00:03:53,520 --> 00:04:00,480
+Vediamo cosa vuole dire, diciamo, Apple ai suoi aspiranti giocatori su questa
+
+63
+00:04:00,480 --> 00:04:01,360
+piattaforma.
+
+64
+00:04:01,360 --> 00:04:02,960
+Vorrei saperlo anch'io.
+
+65
+00:04:02,960 --> 00:04:06,720
+Più che altro, se vogliamo andarlo a dare un'occhiata dal punto di
+
+66
+00:04:06,720 --> 00:04:12,000
+vista futuro, mettiamola così, quello che abbiamo visto all'interno dell'ultimo keynote che
+
+67
+00:04:12,000 --> 00:04:15,280
+abbiamo avuto anche il piacere di seguire con tutti i keynote tranne
+
+68
+00:04:15,280 --> 00:04:20,000
+il sottoscritto perché è arrivato tardissimo e mi sono perso la notizia
+
+69
+00:04:20,000 --> 00:04:25,120
+subito lì in diretta, parliamo di nuovi processori che finalmente incominciano a
+
+70
+00:04:25,120 --> 00:04:27,760
+prendersi il ray tracing hardware.
+
+71
+00:04:27,760 --> 00:04:30,480
+Questa cosa è davvero molto interessante.
+
+72
+00:04:30,480 --> 00:04:34,720
+Più che altro per i futuri chip M3 che incominciano a essere
+
+73
+00:04:34,960 --> 00:04:38,720
+quello che stavo pensando: ovvero dei chip che avendo un 3 è
+
+74
+00:04:38,720 --> 00:04:44,000
+dedicato alla tridimensionalità, e molto probabilmente incominceremo a vederne delle belle.
+
+75
+00:04:44,000 --> 00:04:47,520
+Più che altro, quello che tendo a dire è che bisogna stare
+
+76
+00:04:47,520 --> 00:04:49,600
+un po' attenti con le aspettative.
+
+77
+00:04:49,600 --> 00:04:54,320
+Perché parlando con Mariano Di Benedetto, che diciamo è il mio co-host
+
+78
+00:04:54,560 --> 00:05:00,480
+di render imperfetti, la branca dedicata allo sviluppo dei modelli tridimensionali, a
+
+79
+00:05:00,480 --> 00:05:04,880
+renderizzazione, tutto quello che riguarda il 3D del mio podcast Snap Architettura
+
+80
+00:05:04,880 --> 00:05:05,520
+Imperfetta.
+
+81
+00:05:05,520 --> 00:05:10,320
+E mi diceva che comunque anche AMD ha implementato un ray tracing
+
+82
+00:05:10,320 --> 00:05:10,880
+hardware.
+
+83
+00:05:10,880 --> 00:05:15,040
+Tuttavia, d'altro canto, come si voleva dimostrare, che nonostante sia AMD che
+
+84
+00:05:15,200 --> 00:05:19,280
+sia da anni che fa schede grafiche, il suo ray tracing hardware
+
+85
+00:05:19,280 --> 00:05:22,480
+non è ancora a livello del ray tracing hardware di Nvidia.
+
+86
+00:05:22,640 --> 00:05:27,440
+Quindi c'è Apple che si affaccia su questa, diciamo, nuova avventura del
+
+87
+00:05:27,440 --> 00:05:33,080
+ray tracing hardware e vedremo se in effetti uno sarà all'altezza sarà
+
+88
+00:05:29,840 --> 00:05:36,040
+tra AMD e Nvidia, sarà sotto AMD.
+
+89
+00:05:36,280 --> 00:05:38,520
+Non so se arriverà a livelli di Nvidia.
+
+90
+00:05:38,600 --> 00:05:41,640
+Lo spero, ma sarebbe veramente tanta tanta tanta roba.
+
+91
+00:05:41,640 --> 00:05:45,880
+È come se qualcuno di colpo riuscisse ad arrivare a dei livelli
+
+92
+00:05:45,880 --> 00:05:50,600
+di sviluppo, di veramente a chi c'è in testa davanti a questa
+
+93
+00:05:50,600 --> 00:05:56,200
+ipotetica classifica del rendering 3D e arrivassi di colpo dall'oggi a domani
+
+94
+00:05:56,200 --> 00:05:58,600
+a usurparci il suo posto.
+
+95
+00:05:58,600 --> 00:06:01,240
+Secondo me è praticamente impossibile.
+
+96
+00:06:01,240 --> 00:06:05,560
+Ma tutto sommato abbiamo visto delle grandissime cose dal punto di vista
+
+97
+00:06:05,560 --> 00:06:08,440
+del connubio tra software e hardware.
+
+98
+00:06:08,440 --> 00:06:11,880
+Abbiamo visto delle grandissime belle cose sotto tutti i punti di vista.
+
+99
+00:06:11,880 --> 00:06:16,520
+Io, ad esempio, come sapete con l'M2 che ho qua davanti, sono
+
+100
+00:06:16,520 --> 00:06:21,160
+veramente stupefat di quello che fa e con che poca potenza riesce
+
+101
+00:06:21,160 --> 00:06:25,320
+a fare le cose, nel senso di potenza dal punto di vista
+
+102
+00:06:25,320 --> 00:06:28,840
+elettrico, mettiamola così, nel senso che la potenza ce l'ha e non
+
+103
+00:06:28,840 --> 00:06:33,320
+consuma nulla, invece sappiamo bene anche che invece le schede Nvidia non
+
+104
+00:06:33,320 --> 00:06:38,200
+sono proprio poco consumanti, diciamo, hanno insomma potenze impegnate dal punto di
+
+105
+00:06:38,200 --> 00:06:42,520
+vista di VAT che si fanno sentire, sia dal punto di vista
+
+106
+00:06:42,520 --> 00:06:46,120
+del computer di cui ne ha necessità, sia dal punto di vista,
+
+107
+00:06:46,120 --> 00:06:49,080
+diciamo, del calore che viene buttato fuori.
+
+108
+00:06:49,080 --> 00:06:52,040
+Sono davvero molto curioso sotto questo punto di vista.
+
+109
+00:06:52,040 --> 00:06:56,200
+Vediamo di che si tratta e adesso io a questo punto ho
+
+110
+00:06:56,200 --> 00:07:00,200
+fatto questo piccolo cappello sui giochi che non ne sono un esperto
+
+111
+00:07:00,280 --> 00:07:05,320
+io direttamente perché ormai ho smesso di giocare ai giochi veri, diciamo
+
+112
+00:07:05,320 --> 00:07:08,280
+a quelli di alto livello da un bel po' di tempo.
+
+113
+00:07:08,280 --> 00:07:13,640
+Sono un giocatore saltuario con arcade che utilizzo neanche sul cellulare o
+
+114
+00:07:13,640 --> 00:07:16,080
+sull'iPad, ma direttamente su Apple TV.
+
+115
+00:07:16,240 --> 00:07:19,680
+Quindi non ha molto senso il mio punto di vista, perché è
+
+116
+00:07:19,920 --> 00:07:25,120
+abbastanza al di fuori di quello che può essere un gioco all'interno
+
+117
+00:07:25,120 --> 00:07:26,960
+dell'ecosistema Mac.
+
+118
+00:07:26,960 --> 00:07:31,920
+C'è da dire che alcuni titoli si sono affacciati, secondo me, in
+
+119
+00:07:31,920 --> 00:07:36,000
+modo abbastanza timido, non hanno ancora tirato fuori il massimo.
+
+120
+00:07:36,000 --> 00:07:41,440
+E poi c'è qualcos'altro che insomma dobbiamo ricordare che è difficile da
+
+121
+00:07:41,440 --> 00:07:41,920
+gestire.
+
+122
+00:07:41,920 --> 00:07:42,960
+Di cosa stiamo parlando?
+
+123
+00:07:42,960 --> 00:07:47,040
+Stiamo parlando dei motori grafici di gioco che ormai in questo momento
+
+124
+00:07:47,120 --> 00:07:51,920
+che io sappia, dalle mie conoscenze, essenzialmente ne abbiamo due che stanno
+
+125
+00:07:51,920 --> 00:07:56,720
+un po' comandando all'interno del mondo dei videogame, sappiamo tutti che parliamo
+
+126
+00:07:56,720 --> 00:07:59,840
+di Unreal Engine e di Unity.
+
+127
+00:07:59,840 --> 00:08:03,440
+Unity che è stato preso un po' a braccetto da quel che
+
+128
+00:08:03,440 --> 00:08:09,520
+sembra da Apple grazie all'utilizzo di Unity per Vision Pro, perciamo lo
+
+129
+00:08:09,520 --> 00:08:11,360
+sviluppo di Vision OS.
+
+130
+00:08:11,360 --> 00:08:15,600
+E dobbiamo però un po' capire cosa vuole fare nella vita Apple,
+
+131
+00:08:15,600 --> 00:08:20,320
+nel senso che quando uno si lancia nei giochi deve anche confrontarsi
+
+132
+00:08:20,320 --> 00:08:26,160
+con delle case software che hanno sviluppato per anni per piattaforme Windows
+
+133
+00:08:26,160 --> 00:08:29,440
+con un certo tipo di scheda grafica, con un certo tipo di
+
+134
+00:08:29,440 --> 00:08:35,840
+richieste, bisogna ancora vedere, secondo me, su Arcade, che diciamo, è quella
+
+135
+00:08:35,840 --> 00:08:40,160
+branca di quella parte chiamiamola così di store di Apple dedicata ai
+
+136
+00:08:40,160 --> 00:08:43,440
+videogiochi dei giochi di un certo livello.
+
+137
+00:08:43,440 --> 00:08:47,840
+Io francamente ho visto qualcosa fatto molto bene, niente da dire.
+
+138
+00:08:47,840 --> 00:08:52,400
+Ma se devo andare, se devo girarmi e guardare la quantità di
+
+139
+00:08:52,560 --> 00:08:57,440
+giochi che sono disponibili per piattaforma Windows, ragazzi miei, cambia completamente la
+
+140
+00:08:57,440 --> 00:08:58,000
+questione.
+
+141
+00:08:58,000 --> 00:09:02,360
+Ma la questione, secondo me, non è così poco da sottovalutare, nel
+
+142
+00:09:02,360 --> 00:09:06,760
+senso che non ci si può neanche pensare che dall'oggi a domani
+
+143
+00:09:06,840 --> 00:09:11,480
+tutti gli sviluppatori software si mettono a sviluppare per il nostro simpatico
+
+144
+00:09:11,480 --> 00:09:14,360
+Apple Silicon, anche perché da quello che ho capito, non è poi
+
+145
+00:09:14,360 --> 00:09:15,480
+così tanto semplice.
+
+146
+00:09:15,480 --> 00:09:19,240
+Abbiamo visto case dal mio punto di vista, quello di architetto, casi
+
+147
+00:09:19,240 --> 00:09:23,080
+grandi come Grafisoft, come Autodesk, che ci hanno messo due anni a
+
+148
+00:09:23,080 --> 00:09:28,840
+tirare fuori un'applicazione nativa per la progettazione, incomincio a avere dei sospetti
+
+149
+00:09:28,840 --> 00:09:33,800
+che non sia proprio così semplicissimo sviluppare un software per Apple Silicon.
+
+150
+00:09:33,800 --> 00:09:38,440
+E quindi immagino dal punto di vista remunerativo che anche sotto questo
+
+151
+00:09:38,440 --> 00:09:43,240
+aspetto sia da tenere in considerazione per i giochi che arriveranno probabilmente
+
+152
+00:09:43,480 --> 00:09:44,920
+su Sonoma.
+
+153
+00:09:44,920 --> 00:09:49,640
+Ma c'è anche un altro aspetto che è da tenere in considerazione.
+
+154
+00:09:49,640 --> 00:09:54,440
+Se non arrivano questi giochi, ho paura che questi sforzi che sta
+
+155
+00:09:54,440 --> 00:09:58,120
+facendo Apple siano un po' lasciati a se stessi.
+
+156
+00:09:58,360 --> 00:10:03,000
+Questa è una mia impressione perché vedendo negli anni abbiamo visto quando
+
+157
+00:10:03,000 --> 00:10:08,840
+c'era il nostro simpatico Steve Jobs, che aveva ben presente questa situazione.
+
+158
+00:10:08,840 --> 00:10:13,640
+Ma diciamo che era una situazione che riguardava ancora gli applicativi dal
+
+159
+00:10:13,640 --> 00:10:15,240
+punto di vista di produttività.
+
+160
+00:10:15,240 --> 00:10:18,680
+E da quello che ne so io, so che Steve Jobs praticamente
+
+161
+00:10:18,840 --> 00:10:24,360
+ha stimolato parecchio la produzione di software per la produttività per il
+
+162
+00:10:24,360 --> 00:10:26,520
+Mac in modo diretto.
+
+163
+00:10:26,520 --> 00:10:30,280
+E quindi, secondo me, anche in questo caso ho paura che Apple
+
+164
+00:10:30,280 --> 00:10:35,640
+debba intervenire in qualche modo per riuscire a portare certi videogiochi da
+
+165
+00:10:35,640 --> 00:10:39,640
+Windows, che sono nati in quella situazione, in questa parte.
+
+166
+00:10:39,640 --> 00:10:41,800
+Immagino che Filippo abbia qualcosa da aggiungere?
+
+167
+00:10:43,080 --> 00:10:47,600
+Permetto che anche io non seguo il mondo dei videogiochi su Mac
+
+168
+00:10:48,160 --> 00:10:48,960
+da sempre.
+
+169
+00:10:44,760 --> 00:10:50,480
+Diciamo, quindi sono ignorante.
+
+170
+00:10:50,720 --> 00:10:55,280
+Ti segnalo solo che forse ti è sfuggito, che sembrerebbe perché continuo
+
+171
+00:10:55,280 --> 00:10:59,920
+a ripetere, io ho letto di sfuggito alcune notizie, ma sostanzialmente, con
+
+172
+00:10:59,920 --> 00:11:07,280
+questo aggiornamento, per i videogiochi, hanno inserito un layer ulteriore di compatibilità.
+
+173
+00:11:07,440 --> 00:11:12,240
+Quindi, credo che il famoso crossover, che è un software che si
+
+174
+00:11:12,240 --> 00:11:17,120
+basa su Wine, per far girare applicazioni Windows su Mac, sostanzialmente, cioè
+
+175
+00:11:17,440 --> 00:11:21,840
+per far girare proprio gli ex, chiamiamoli così, di Windows direttamente su
+
+176
+00:11:22,000 --> 00:11:27,680
+Mac, sia stato ottimizzato addirittura per le Direct X 12.
+
+177
+00:11:27,680 --> 00:11:31,920
+Quindi, teoricamente, c'è la possibilità appunto di far girare come tutto un
+
+178
+00:11:31,920 --> 00:11:32,640
+altro discorso.
+
+179
+00:11:32,640 --> 00:11:37,600
+Mettiamoli in questi termini, ma di far girare nativamente, chiamiamoli in questi
+
+180
+00:11:37,600 --> 00:11:39,680
+termini, anche se non è esattamente corretto.
+
+181
+00:11:39,680 --> 00:11:42,080
+Sui Mac M1 tutto il sistema.
+
+182
+00:11:42,080 --> 00:11:47,040
+E avevo letto, però, lo porto con una serie di dubbi e
+
+183
+00:11:47,040 --> 00:11:52,640
+di incertezze, che c'erati già vari tentativi, e con successo di riuscire
+
+184
+00:11:52,640 --> 00:11:58,080
+a fare un porting, diciamo, un po' all'arembaggio di vari videogiochi direttamente
+
+185
+00:11:58,080 --> 00:12:02,800
+su Mac con risultati non eccezionali, mettiamoli in questi termini, ma neanche
+
+186
+00:12:02,800 --> 00:12:05,200
+medio ocri, come sono sempre stati fatti.
+
+187
+00:12:05,200 --> 00:12:07,520
+Credo utilizzando Steam addirittura.
+
+188
+00:12:07,520 --> 00:12:08,720
+Però tenendo
+
+189
+00:12:10,160 --> 00:12:14,160
+non rientra nelle cose che mi interessano, mettiamola così, quindi ho dei
+
+190
+00:12:14,160 --> 00:12:15,120
+vaghi ricordi.
+
+191
+00:12:15,120 --> 00:12:17,280
+Sì, sì, ecco, io in questo merito non è che me lo
+
+192
+00:12:17,280 --> 00:12:19,680
+sono dimenticato, ma è un aspetto molto interessante.
+
+193
+00:12:19,680 --> 00:12:25,760
+Allora, facendo un attimo di cappello, in realtà all'interno del Mac, diciamo,
+
+194
+00:12:25,760 --> 00:12:31,080
+di questo sistema operativo di Sonoma è stata introdotta una modalità che
+
+195
+00:12:31,080 --> 00:12:37,080
+si chiama modalità gioco, praticamente sfrutta al massimo sia CPU che GPU,
+
+196
+00:12:37,080 --> 00:12:40,920
+in modo tale che il resto del sistema operativas un po' le
+
+197
+00:12:40,920 --> 00:12:44,680
+briglie del computer a questa modalità, in modo tale che tutte le
+
+198
+00:12:44,680 --> 00:12:47,000
+risorse del computer siano destinate
+
+199
+00:12:48,200 --> 00:12:49,880
+al videogioco essenzialmente.
+
+200
+00:12:49,880 --> 00:12:53,800
+Quindi si lascia un po' le briglie sciolte al sistema operativo e
+
+201
+00:12:53,800 --> 00:12:58,120
+si concentrano le forze, le chiamate, via discorrendo tutto quanto per il
+
+202
+00:12:58,120 --> 00:13:00,680
+videogioco che in quel momento è in esecuzione.
+
+203
+00:13:00,680 --> 00:13:03,960
+Di quello che parli tu, in effetti, se ho capito bene il
+
+204
+00:13:03,960 --> 00:13:07,240
+discorso, perché anche io non ho potuto seguire bene perché c'è veramente
+
+205
+00:13:07,240 --> 00:13:11,560
+tantissime cose da guardare, e purtroppo questa è una questione di nicchia
+
+206
+00:13:11,560 --> 00:13:15,160
+perché non riguarda direttamente me se non per un certo punto di
+
+207
+00:13:15,160 --> 00:13:20,840
+vista, che è questo famoso porting fatto da
+
+208
+00:13:22,200 --> 00:13:28,440
+Apple per provare i giochi all'interno del Mac, diciamo, in modalità sviluppatore,
+
+209
+00:13:28,440 --> 00:13:29,240
+se ho capito bene.
+
+210
+00:13:29,240 --> 00:13:31,480
+Quindi non è una cosa del tutto ufficiale, nel senso che tu
+
+211
+00:13:31,480 --> 00:13:35,320
+non è che puoi arrivare lì e io da utente normale posso
+
+212
+00:13:35,320 --> 00:13:36,760
+mettermi in videogioco con l'ex facile che si chiama su
+
+213
+00:13:37,800 --> 00:13:42,040
+è proprio per lo sviluppatore, ma so che alcuni avevano fatto vari
+
+214
+00:13:42,040 --> 00:13:46,840
+test e i test sembravano positivi, poi dopo te l'avendo come assolutamente
+
+215
+00:13:46,920 --> 00:13:47,160
+sì.
+
+216
+00:13:47,160 --> 00:13:50,360
+E di fatti sto cercando di seguirlo non troppo da vicino, perché
+
+217
+00:13:50,360 --> 00:13:53,800
+lascio un po' andare le cose perché voglio arrivare al dunque a
+
+218
+00:13:53,800 --> 00:13:55,080
+avere una notizia certa.
+
+219
+00:13:55,080 --> 00:13:56,440
+In effetti c'è questo.
+
+220
+00:13:56,440 --> 00:14:01,960
+Per chi non lo conoscesse, Wine è una specie di contenitore di
+
+221
+00:14:01,960 --> 00:14:06,120
+Windows senza tutta la roba che c'è addosso Windows, tra cui diciamo
+
+222
+00:14:06,120 --> 00:14:08,120
+interfacce grafiche, tutte queste cose qua.
+
+223
+00:14:08,200 --> 00:14:12,280
+Tutto quello che serve al sistema operativo è ridotto all'osso essenzialmente per
+
+224
+00:14:12,280 --> 00:14:17,520
+riuscire a far funzionare un eseguibile in ambiente, diciamo, protetto all'interno del
+
+225
+00:14:17,520 --> 00:14:17,920
+Mac.
+
+226
+00:14:18,080 --> 00:14:21,040
+Cioè, diciamo che scusa se ti correggo.
+
+227
+00:14:21,040 --> 00:14:25,040
+Sostanzialmente Wine è un interprete per cui le chiamate di sistema che
+
+228
+00:14:25,040 --> 00:14:29,280
+fa il file ex o comunque l'eseguibile di Windows, vengono interpretate e
+
+229
+00:14:29,280 --> 00:14:35,040
+convogliate sul sistema ospite MacLinux, perché poi credo che Wine nasca come
+
+230
+00:14:35,040 --> 00:14:37,280
+progetto open source per Linux.
+
+231
+00:14:37,280 --> 00:14:41,680
+E ovviamente non essendo la stessa cosa Mac e Linux, ma avendo
+
+232
+00:14:41,680 --> 00:14:46,640
+comunque una base molto simile comune, spesso e volentieri, sostanzialmente tutti quei
+
+233
+00:14:46,640 --> 00:14:51,360
+programmi per Linux possono essere adattati in maniera abbastanza semplice per Mac,
+
+234
+00:14:51,360 --> 00:14:56,480
+perché sono Unix like anche se Mac e Fork di BSD, mentre
+
+235
+00:14:56,480 --> 00:14:59,200
+Linux è una cosa diversa, chiudo la parentesi.
+
+236
+00:14:59,200 --> 00:15:03,680
+No, no, ma è corretto, ma non pensate che sia una cosa
+
+237
+00:15:03,680 --> 00:15:08,400
+semplice, nel senso che, giusto per darvi l'indizio di quello che è
+
+238
+00:15:08,400 --> 00:15:12,480
+successo a me, perché l'ho usato Wine per far funzionare un programma
+
+239
+00:15:12,480 --> 00:15:16,160
+come il Doc fa su Mac, il gingino comunque pesava intorno a
+
+240
+00:15:16,160 --> 00:15:22,000
+2, Giga, nel senso che l'ambiente chiamiamolo protetto, quello che c'è all'interno
+
+241
+00:15:22,000 --> 00:15:27,120
+di questa bottiglia, chiamiamola così, dove c'è dentro questo sistema Windows che
+
+242
+00:15:27,120 --> 00:15:31,920
+fa girare questo software nato per Windows, soltanto la bottiglia pesava 2,
+
+243
+00:15:31,920 --> 00:15:32,640
+giga e mezzo.
+
+244
+00:15:32,640 --> 00:15:35,040
+Quindi, in effetti di cosa ce ne sono tante.
+
+245
+00:15:35,280 --> 00:15:39,280
+Sempre meglio rispetto ai non mi ricordo più quanti giga sia Windows
+
+246
+00:15:39,280 --> 00:15:43,280
+normalmente, ma in ogni caso è comunque sempre meglio che utilizzare, ad
+
+247
+00:15:43,280 --> 00:15:46,560
+esempio, VirtualBox che comunque ti portava via, mi se non ricordo male,
+
+248
+00:15:46,640 --> 00:15:48,080
+una ventina di giga per tutto il lavoro.
+
+249
+00:15:48,240 --> 00:15:51,760
+Fai presto, fai presto, perché devi installare tutto il sistema operativo di
+
+250
+00:15:51,760 --> 00:15:55,760
+Windows con mille applicazioni che casomai non ti servono minimamente.
+
+251
+00:15:55,760 --> 00:15:56,880
+Quindi è ovvio che.
+
+252
+00:15:56,880 --> 00:15:57,200
+Esatto.
+
+253
+00:15:57,280 --> 00:16:02,120
+Questa cosa è interessante, secondo me, perché potrebbe essere la porta di
+
+254
+00:15:59,840 --> 00:16:02,680
+accesso.
+
+255
+00:16:02,920 --> 00:16:06,680
+Se Dio vuole, e pare che ci siano anche gli sviluppatori che
+
+256
+00:16:06,680 --> 00:16:08,440
+ci stiano lavorando in questo senso.
+
+257
+00:16:08,440 --> 00:16:12,040
+E ne avevo parlato appunto anche su Snap, che ci sia la
+
+258
+00:16:12,040 --> 00:16:17,800
+porta aperta per utilizzare a questo punto dei software che sono nati
+
+259
+00:16:17,800 --> 00:16:21,560
+per Windows in ambiente Mac senza farsi venire troppi mal di testa,
+
+260
+00:16:21,560 --> 00:16:27,720
+come utilizzare, ad esempio, Virtual Box oppure Paralleless, o via discorrendo, occupando
+
+261
+00:16:27,720 --> 00:16:29,720
+poco e avendo molta resa.
+
+262
+00:16:29,720 --> 00:16:34,600
+Questo è interessante perché se considerate che gli Apple Silicon sono praticamente
+
+263
+00:16:34,600 --> 00:16:39,240
+senza boot camp, è stato deprecato, diciamolo così, e non lo potete
+
+264
+00:16:39,240 --> 00:16:39,800
+utilizzare.
+
+265
+00:16:39,800 --> 00:16:43,720
+Avete ben poche strade per usare un Windows, diciamo.
+
+266
+00:16:44,280 --> 00:16:45,080
+C'è solo
+
+267
+00:16:46,600 --> 00:16:50,920
+Windows per ARM, che attualmente non è neanche una versione beta, è
+
+268
+00:16:50,920 --> 00:16:55,240
+una versione per gli sviluppatori, diciamo che chiamiamola Alpha, anche se non
+
+269
+00:16:55,240 --> 00:16:56,200
+è esattamente così.
+
+270
+00:16:56,200 --> 00:17:00,360
+Ci sono dei vincoli abbastanza stringenti, mettiamoli in questi termini.
+
+271
+00:17:00,360 --> 00:17:05,080
+Esatto, e quindi questo potrebbe essere in effetti una bella capatoia per
+
+272
+00:17:05,080 --> 00:17:07,960
+chi come me, ad esempio, ha dei software.
+
+273
+00:17:07,960 --> 00:17:12,200
+Parlo di nicchia, però che possono tornare utili, come quelli della certificazione
+
+274
+00:17:12,200 --> 00:17:17,320
+energetica, il catasto e altri software che sono nati per Windows e
+
+275
+00:17:17,320 --> 00:17:20,520
+non c'è modo di lo sviluppatore non ha fatto la versione per
+
+276
+00:17:20,520 --> 00:17:21,080
+Mac.
+
+277
+00:17:21,240 --> 00:17:26,360
+Invece questa possibilità che riporta a questo punto la possibilità di utilizzare
+
+278
+00:17:26,920 --> 00:17:31,400
+eseguibili per Windows direttamente su Apple CD, con è una cosa davvero
+
+279
+00:17:31,720 --> 00:17:32,680
+molto interessante.
+
+280
+00:17:32,680 --> 00:17:36,440
+Ma adesso diciamo che questa parte qua, visto che è in continuo
+
+281
+00:17:36,440 --> 00:17:40,440
+sviluppo, la lascerei un po' perdere e passerei la palla a Filippo
+
+282
+00:17:40,600 --> 00:17:44,480
+che porterà avanti un po' la questione sul resto degli aggiornamenti.
+
+283
+00:17:44,280 --> 00:17:51,040
+Ok, allora diciamo che un discorso, diciamo, di ampio respiro questo aggiornamento.
+
+284
+00:17:51,280 --> 00:17:54,560
+Diciamo che appunto questo è un aggiornamento di allineamento con gli altri
+
+285
+00:17:54,560 --> 00:17:58,880
+sistemi operativi, nel senso che tutta una serie di funzioni che già
+
+286
+00:17:59,200 --> 00:18:03,360
+abbiamo visto su iOS all'inizio e poi su iPadOS.
+
+287
+00:18:03,360 --> 00:18:05,440
+Dopo li troviamo anche su
+
+288
+00:18:06,720 --> 00:18:07,040
+noma.
+
+289
+00:18:07,040 --> 00:18:10,560
+Quindi abbiamo i widget, la condivisione della password, i messaggi con gli
+
+290
+00:18:10,560 --> 00:18:17,200
+adesivi, la ricerca migliorata, nuovo salvo schermi dinamici del desktop.
+
+291
+00:18:17,200 --> 00:18:22,000
+Per cui ci stavamo tutti aspettando, immagine allora, devo dirti la verità:
+
+292
+00:18:22,000 --> 00:18:27,760
+i nuovi salvas schermo dinamici sono carini, inutili a livello pratico, ma
+
+293
+00:18:27,760 --> 00:18:30,320
+sicuramente molto defetto.
+
+294
+00:18:30,320 --> 00:18:33,680
+Quella che è stata la mia impressione, provando appunto le varie beta,
+
+295
+00:18:33,680 --> 00:18:37,840
+sia di iPadOS, prima che poi di macOS no, ma adesso
+
+296
+00:18:38,320 --> 00:18:42,480
+con iOS 17, che invece ho installato o non in beta, mettiamola
+
+297
+00:18:42,560 --> 00:18:45,680
+in questi termini e così via, devo dire la verità: c'è un
+
+298
+00:18:45,680 --> 00:18:50,480
+senso di uniformità e di unione dei vari sistemi operativi.
+
+299
+00:18:50,480 --> 00:18:56,080
+Quindi anche, per esempio, una cosa salva schermo barra schermata di apertura
+
+300
+00:18:56,160 --> 00:19:01,120
+quando devi entrare in cost con l'utente, mentre prima avevi, diciamo, il
+
+301
+00:19:01,120 --> 00:19:04,480
+cerchio con la tua foto o comunque con i vari
+
+302
+00:19:05,520 --> 00:19:10,320
+segnaposto per l'utente con il nome utente e l'inserimento della password.
+
+303
+00:19:10,320 --> 00:19:13,760
+Adesso, per esempio, il Sonoma tutto si ha verso il basso, chiamiamolo
+
+304
+00:19:13,760 --> 00:19:18,320
+così, e invece nella parte alta dello schermo, un po' simile all'iPad,
+
+305
+00:19:18,320 --> 00:19:19,920
+hai invece l'orario.
+
+306
+00:19:19,920 --> 00:19:26,640
+Quindi è proprio l'interfaccia ricorda sempre di più, appunto, trovi sostanzialmente l'inserimento
+
+307
+00:19:26,640 --> 00:19:30,200
+della password nella parte bassa dello schermo, dove abitualmente hai lo swipe
+
+308
+00:19:30,280 --> 00:19:36,680
+verso l'altro per inserire il codice in iPadOS, c'è un'uniformità a
+
+309
+00:19:36,680 --> 00:19:40,920
+prescindere appunto dai widget e così via, che sono stati aggiunti a
+
+310
+00:19:40,920 --> 00:19:41,720
+destra manga.
+
+311
+00:19:41,720 --> 00:19:47,240
+Su queste funzioni, io non farei un approfondimento particolare perché ne abbiamo
+
+312
+00:19:47,400 --> 00:19:53,240
+già parlato sostanzialmente nella puntata precedente, e in pratica, l'unica cosa forse
+
+313
+00:19:53,320 --> 00:19:57,320
+che si può tenere in considerazione per i widget è che non
+
+314
+00:19:57,320 --> 00:20:01,960
+ci sono solo i widget delle applicazioni installate su macOS Sonoma e
+
+315
+00:20:01,960 --> 00:20:07,640
+ovviamente tutti gli sviluppatori devono supportare sostanzialmente i widget per macOS in
+
+316
+00:20:07,640 --> 00:20:11,640
+questo caso, ma si possono anche installare i widget per iPhone e
+
+317
+00:20:11,640 --> 00:20:13,080
+per iPad.
+
+318
+00:20:13,080 --> 00:20:19,080
+Quindi, per esempio, alcune applicazioni che mentre le testo erano, non c'erano
+
+319
+00:20:19,080 --> 00:20:23,400
+ancora le applicazioni diciamo, perfezionate per macOS o Noma, le ho potute
+
+320
+00:20:23,400 --> 00:20:24,600
+comunque provare.
+
+321
+00:20:24,600 --> 00:20:27,640
+Io continuo a ripetere: non sono un amante dei widget, l'abbiamo già
+
+322
+00:20:27,640 --> 00:20:30,040
+detta la puntata scorsa quindi non mi ci ripeto.
+
+323
+00:20:30,120 --> 00:20:34,680
+Sì, sono carini, sì, diciamo, se non li focalizzano, chiamiamoli in questo
+
+324
+00:20:34,680 --> 00:20:41,960
+termine, rimangono semitrasparenti sul desktop, quindi si nascondono, diciamo, all'interno dell'immagine della
+
+325
+00:20:41,960 --> 00:20:45,880
+scrivania, ma io sono uno di quelli che non utilizza proprio, la
+
+326
+00:20:45,880 --> 00:20:51,880
+scrivania la utilizzo raramente, mettiamola così: anzi, utilizzo un gestore di finestre
+
+327
+00:20:51,880 --> 00:20:55,560
+per avere tutte le finestre bello organizzate sul mio schermo e praticamente
+
+328
+00:20:55,560 --> 00:20:57,480
+a non aver mai la scrivania a disposizione.
+
+329
+00:20:57,480 --> 00:21:00,520
+Se è una cosa che ha dato fastidio a molti, ha anche
+
+330
+00:21:00,520 --> 00:21:02,320
+a me sottoscritto.
+
+331
+00:21:02,320 --> 00:21:07,480
+Una particolarità di questo sistema è che se è pensato penso sempre
+
+332
+00:21:07,480 --> 00:21:11,720
+per Stage Manager come strutturazione, ma funziona anche se tu non hai
+
+333
+00:21:11,720 --> 00:21:15,680
+attivato Stage Manager, e ho fatto fatica a disabilitare l'opzione.
+
+334
+00:21:15,680 --> 00:21:18,800
+O comunque me la sono sempre ritrovata tra le scatole, mettiamoli in
+
+335
+00:21:14,920 --> 00:21:19,360
+questi termini.
+
+336
+00:21:19,520 --> 00:21:24,000
+Se tu clicchi sulla scrivania e hai delle finestre aperte, le finestre
+
+337
+00:21:24,000 --> 00:21:29,120
+fanno un po' come esposi, cioè si nascondono nei vari ai lati
+
+338
+00:21:29,120 --> 00:21:30,400
+al bordo dello schermo.
+
+339
+00:21:30,400 --> 00:21:34,720
+Comodo se appunto con Stace Manager con Stace Manager ma anche senza.
+
+340
+00:21:34,720 --> 00:21:37,840
+A meno che tu non vada in un'impostazione abbastanza nascosta.
+
+341
+00:21:37,840 --> 00:21:41,920
+Tant'è vero che, vabbè, le vicessitudini sono state che ho creato una
+
+342
+00:21:41,920 --> 00:21:45,520
+partizione per il mio solito test di installazione del mio cosso.
+
+343
+00:21:45,520 --> 00:21:48,800
+No, ma l'ho fatta troppo piccola e quindi praticamente non sono riuscito
+
+344
+00:21:48,800 --> 00:21:53,840
+a fare l'aggiornamento alla beta successiva perché non riuscivo a scaricare i
+
+345
+00:21:53,840 --> 00:21:57,200
+12 giga di roba che servivano per fare l'aggiornamento.
+
+346
+00:21:57,200 --> 00:22:00,880
+Ne ho quindi creata una da zero ed ero riuscito a disabilitare
+
+347
+00:22:00,880 --> 00:22:02,160
+questa funzione in questo momento.
+
+348
+00:22:02,160 --> 00:22:06,400
+Ma ti faccio questa domanda non per caso, perché io dunque se
+
+349
+00:22:06,400 --> 00:22:11,440
+ho capito bene, ti faccio l'esempio: io utilizzo Stage Manager direttamente qua
+
+350
+00:22:11,440 --> 00:22:13,040
+sul Mac in questo momento.
+
+351
+00:22:13,040 --> 00:22:17,360
+Se io clicco o Stage Manager attivato, o le mie quattro finestre
+
+352
+00:22:17,360 --> 00:22:22,720
+sulla sinistra, diciamo, messe lì da parte, o la finestra centrale a
+
+353
+00:22:22,720 --> 00:22:25,040
+tutto schermo, diciamo qui davanti a me.
+
+354
+00:22:25,040 --> 00:22:27,840
+Poi ho la dock sotto e il menu sopra.
+
+355
+00:22:27,840 --> 00:22:31,840
+Se io clicco in questo momento sul desktop, vedo il desktop con
+
+356
+00:22:31,840 --> 00:22:35,440
+le mie icone e sbatto via tutto quanto lontano.
+
+357
+00:22:35,440 --> 00:22:36,640
+Esatto, allora lo faceva già.
+
+358
+00:22:36,960 --> 00:22:39,600
+E infatti era questa cosa che non mi tornava, perché secondo me
+
+359
+00:22:39,680 --> 00:22:40,400
+era già attivo.
+
+360
+00:22:40,400 --> 00:22:41,520
+Ti dico la verità.
+
+361
+00:22:41,520 --> 00:22:46,160
+Funziona anche se una adesso è attivo di default senza attivare stage
+
+362
+00:22:46,160 --> 00:22:46,720
+manager.
+
+363
+00:22:46,720 --> 00:22:47,440
+Anche se non c'è.
+
+364
+00:22:48,160 --> 00:22:53,520
+Per uno che, appunto, non usa stage manager, appunto, è abbastanza fastidioso.
+
+365
+00:22:53,520 --> 00:22:55,840
+Mettiamolo in questi termini fastidioso.
+
+366
+00:22:55,840 --> 00:22:59,320
+Quindi, io lo segnalo perché a me ha lasciato abbastanza spiazzato, poi,
+
+367
+00:22:59,280 --> 00:23:03,880
+non so se sicuramente nell'ultima beta che ho testato io, è ancora
+
+368
+00:23:03,880 --> 00:23:06,520
+così e non ho fatto niente: cioè, nel senso, non sono riuscito
+
+369
+00:23:06,520 --> 00:23:09,960
+a disabilitare questa funzione, quindi me lo sono trovato senza aver mai
+
+370
+00:23:09,960 --> 00:23:12,680
+acceso Stage Manager, attendo a precisare.
+
+371
+00:23:12,680 --> 00:23:15,720
+Perché sai come la penso io sul Stage Manager.
+
+372
+00:23:15,720 --> 00:23:17,720
+Quindi, è una cosa che diciamo che
+
+373
+00:23:18,920 --> 00:23:20,280
+potrebbe trovarsi un po' spazzato.
+
+374
+00:23:20,280 --> 00:23:21,640
+Almeno a me ha spiazzato un po'.
+
+375
+00:23:21,640 --> 00:23:23,080
+Ecco, mettiamolo in questi termini.
+
+376
+00:23:23,080 --> 00:23:25,960
+Un'altra funzione che credo sia molto molto interessante.
+
+377
+00:23:25,960 --> 00:23:31,560
+Ne abbiamo già accennato nella puntata con Lucio, è presente ovviamente ormai
+
+378
+00:23:31,560 --> 00:23:36,120
+su tutti e tre i sistemi operativi, è il PDF e note.
+
+379
+00:23:36,120 --> 00:23:40,680
+Quindi PDF c'è il riconoscimento dei campi per i format, quindi l'auto
+
+380
+00:23:40,840 --> 00:23:43,240
+fill addirittura dei dati presenti nei contatti.
+
+381
+00:23:43,240 --> 00:23:47,640
+Quindi, per esempio, iniziare a digitare il nome e se, per esempio,
+
+382
+00:23:47,640 --> 00:23:51,640
+al tuo nome o addirittura il nome dei contatti, perché non so,
+
+383
+00:23:52,040 --> 00:23:55,400
+devi scrivere qualcosa per tua moglie, per tuo figlio o così via.
+
+384
+00:23:55,400 --> 00:24:01,000
+I dati potenzialmente si possono autocompletare direttamente dal contatto che devi avere
+
+385
+00:24:01,080 --> 00:24:03,320
+ovviamente nella rubrica di contatti.
+
+386
+00:24:03,320 --> 00:24:07,320
+C'è la possibilità per la gioia di Roberto, fogliare i PDF direttamente
+
+387
+00:24:07,320 --> 00:24:08,120
+dentro le note.
+
+388
+00:24:08,120 --> 00:24:11,240
+Non so se ci hai provato, teoricamente funziona anche su iPadOS.
+
+389
+00:24:11,880 --> 00:24:14,680
+Dunque, io in questo momento non ci ho provato perché non ho
+
+390
+00:24:14,680 --> 00:24:17,880
+ancora avuto, diciamo, la possibilità di farlo.
+
+391
+00:24:17,880 --> 00:24:23,240
+Sicuramente è molto interessante perché con l'aggiornamento che ci sono stati dei
+
+392
+00:24:23,240 --> 00:24:28,600
+sistemi operativi, può cambiare davvero la vita a chi utilizza, ad esempio,
+
+393
+00:24:28,840 --> 00:24:34,200
+applicativi come Notion o addirittura altri applicativi di terze parti per editare
+
+394
+00:24:34,200 --> 00:24:35,000
+il PDF.
+
+395
+00:24:35,000 --> 00:24:40,680
+Quindi può diventare davvero molto interessante questo aggiornamento perché porta a un
+
+396
+00:24:40,680 --> 00:24:46,400
+livello nuovo, chiamiamolo così, di utilizzo dei sistemi operativi, diciamo una via
+
+397
+00:24:46,400 --> 00:24:51,200
+di mezzo tra il pro e l'utente base che magari ha bisogno
+
+398
+00:24:51,200 --> 00:24:54,960
+di editare qualche PDF, magari ha bisogno di prendere qualche nota in
+
+399
+00:24:54,960 --> 00:24:59,840
+modo particolare e quindi può anche evitare di appoggiarsi a applicazioni di
+
+400
+00:24:59,840 --> 00:25:00,560
+terze parti.
+
+401
+00:25:00,560 --> 00:25:02,480
+Quindi secondo me è davvero molto interessante.
+
+402
+00:25:02,480 --> 00:25:05,680
+Poi abbiamo il link alle note, quindi la possibilità di linkare una
+
+403
+00:25:05,680 --> 00:25:10,080
+nota ad un'altra, l'abbiamo già visto quindi non stiamo più di tanto
+
+404
+00:25:10,240 --> 00:25:11,280
+a raccontarla.
+
+405
+00:25:11,280 --> 00:25:14,960
+Una cosa invece molto interessante è che credo e dico credo non
+
+406
+00:25:14,960 --> 00:25:19,360
+ci sia solo il padosso, comunque non me la ricordo tra le
+
+407
+00:25:19,360 --> 00:25:22,080
+cose, inizia note e finisce in pages.
+
+408
+00:25:22,080 --> 00:25:26,000
+Cioè, tu puoi iniziare a scrivere una nota appunto in note, ma
+
+409
+00:25:26,000 --> 00:25:31,520
+poi sostanzialmente esportarla in pages e ovviamente diciamo andare con l'impaginazione vera
+
+410
+00:25:31,520 --> 00:25:33,760
+e propria, che offre pages.
+
+411
+00:25:33,760 --> 00:25:36,800
+Quindi, secondo me, questa può essere una funzione interessante.
+
+412
+00:25:36,800 --> 00:25:41,120
+Diciamo, non è il mio flusso di lavoro ideale, tipico.
+
+413
+00:25:41,120 --> 00:25:43,440
+Però c'è anche in iPad S.
+
+414
+00:25:43,600 --> 00:25:44,640
+Ok, ok, perfetto.
+
+415
+00:25:45,120 --> 00:25:47,280
+Ho appena provato, perfetto, vedi?
+
+416
+00:25:47,440 --> 00:25:48,320
+Così abbiamo.
+
+417
+00:25:48,320 --> 00:25:52,000
+Adesso faccio subito una prova perché ho una nota, diciamo, scritta solo
+
+418
+00:25:52,000 --> 00:25:56,160
+con del semplice testo, non c'è niente di percolare, prepara e apre
+
+419
+00:25:56,160 --> 00:26:02,320
+direttamente la nota scritta in note direttamente in Pigi se funziona molto
+
+420
+00:26:02,320 --> 00:26:04,720
+bene perché l'ha importata correttamente.
+
+421
+00:26:04,880 --> 00:26:08,720
+Adesso invece voglio fare un altro tipo di prova in diretta.
+
+422
+00:26:08,720 --> 00:26:12,000
+Voglio aprire invece una nota che è un po' più infame, perché
+
+423
+00:26:12,240 --> 00:26:16,240
+è una nota particolare che ha una parte di scritta presa a
+
+424
+00:26:16,240 --> 00:26:18,000
+mano e una parte di testo.
+
+425
+00:26:18,000 --> 00:26:21,200
+Ti voglio vedere, però, come la importa, se la importa correttamente o
+
+426
+00:26:21,200 --> 00:26:21,520
+no.
+
+427
+00:26:21,520 --> 00:26:24,720
+E lo sta facendo subito al volo e l'ha importato molto bene.
+
+428
+00:26:24,800 --> 00:26:30,280
+C'è da dire che il testo è un oggetto, è un'immagine, immagino:
+
+429
+00:26:30,280 --> 00:26:32,440
+mi pare un oggetto immagine, sì.
+
+430
+00:26:29,520 --> 00:26:36,600
+Correttamente, però ha una bella definizione e quindi è davvero molto interessante.
+
+431
+00:26:37,400 --> 00:26:41,480
+Tra l'altro, Pagis con la gestione dell'immagine funziona molto bene, quindi puoi
+
+432
+00:26:41,480 --> 00:26:45,000
+fare anche girare il testo intorno all'immagine, cioè puoi fare delle cosine
+
+433
+00:26:45,000 --> 00:26:47,720
+carine ecco dopo in questi casi.
+
+434
+00:26:47,720 --> 00:26:51,960
+Per cui, sicuramente, opzione che funziona su tutti i sistemi operativi.
+
+435
+00:26:51,960 --> 00:26:58,040
+Come dicevo prima, la cosa più interessante, diciamo, è l'omogeneità dei tre
+
+436
+00:26:58,040 --> 00:27:03,240
+sistemi che progressivamente permettono di spostarti da un sistema operativo all'altro con
+
+437
+00:27:03,240 --> 00:27:08,200
+veramente poca fatica, secondo me, con tutta una serie di archetipi similari
+
+438
+00:27:08,200 --> 00:27:12,680
+e quindi anche di facilità di spostarsi da un dispositivo all'altro.
+
+439
+00:27:12,840 --> 00:27:14,520
+Il famoso family feeling di app.
+
+440
+00:27:14,600 --> 00:27:20,680
+Se voi prendete in questo periodo un Mac e un tablet, un
+
+441
+00:27:20,680 --> 00:27:25,320
+iPad, se togliete qualche ladoc e togliete il menu, sotto un certo
+
+442
+00:27:25,400 --> 00:27:30,200
+punto di vista, utilizzando soprattutto Steve Manager, avete veramente quasi lo stesso
+
+443
+00:27:30,200 --> 00:27:32,200
+sistema operativo, manca veramente poco.
+
+444
+00:27:32,200 --> 00:27:37,240
+E un'altra funzione nuova che abbiamo visto anche qui, sempre, sugli altri
+
+445
+00:27:37,240 --> 00:27:41,960
+dispositivi, devo dire la verità: qui ho visto degli accenni, non so
+
+446
+00:27:41,960 --> 00:27:43,560
+come definirli diversamente.
+
+447
+00:27:43,560 --> 00:27:47,480
+Nel senso che non posso garantire che tutto funzioni come come previsto,
+
+448
+00:27:47,480 --> 00:27:51,960
+ma ho visto in varie occasioni in cui lavoravo, dei colpi di
+
+449
+00:27:52,520 --> 00:27:54,040
+funzionamento di questi sistemi.
+
+450
+00:27:54,040 --> 00:27:58,840
+Quindi, un correttore più preciso anche in italiano e soprattutto il completamento
+
+451
+00:27:58,840 --> 00:28:05,240
+delle frasi, che appunto così veloce, diciamo, che me ne sono accorto,
+
+452
+00:28:05,240 --> 00:28:06,920
+non sono riuscito a fare degli screenshot.
+
+453
+00:28:06,920 --> 00:28:10,040
+Non sono riuscito a fare grandi cose, e comunque non è che
+
+454
+00:28:10,040 --> 00:28:13,240
+fossero qualcosa di eccezionale, mettiamoli in questi termini.
+
+455
+00:28:13,240 --> 00:28:17,680
+Ma ho potuto vedere, per esempio, nella sostanza, mentre stai digitando il
+
+456
+00:28:17,680 --> 00:28:21,760
+testo, cosa che Google ormai ha, per esempio su Gmail e altri
+
+457
+00:28:21,760 --> 00:28:26,880
+suoi prodotti, mentre stai scrivendo una frase, diciamo, ti suggerisce quale può
+
+458
+00:28:26,880 --> 00:28:32,000
+essere il completamento della frase con un testo sbiadito in grigio sostanzialmente.
+
+459
+00:28:32,000 --> 00:28:35,200
+Teoricamente questa funzione dovrebbe essere solo per l'inglese, da quello che ho
+
+460
+00:28:35,200 --> 00:28:39,600
+visto, e solo per i CMU M qualcosa.
+
+461
+00:28:39,600 --> 00:28:43,520
+Io l'ho visto su un Intel, non ti so dire esattamente se
+
+462
+00:28:43,520 --> 00:28:44,880
+era un bug, se.
+
+463
+00:28:45,120 --> 00:28:52,080
+Però, ho notato, diciamo, che sia su iPad che su Mac dei
+
+464
+00:28:52,800 --> 00:28:53,920
+sprazzi ci sono.
+
+465
+00:28:53,920 --> 00:29:00,160
+Puoi definire esattamente alla perfezione del funzionamento, quello non è così semplice
+
+466
+00:29:00,320 --> 00:29:05,200
+e secondo me, mi viene anche da dire: attualmente lo si trova
+
+467
+00:29:05,200 --> 00:29:06,800
+prevalentemente nell'applicazione Apple.
+
+468
+00:29:06,800 --> 00:29:11,200
+Quindi, secondo me, sono funzioni che probabilmente sono aperte anche agli sviluppatori,
+
+469
+00:29:11,360 --> 00:29:15,040
+ma devono essere in qualche maniera inserite dentro il sistema.
+
+470
+00:29:15,040 --> 00:29:19,200
+Tuttavia, continuo a ripetere, la vendo con dei dubitativi, perché non ho
+
+471
+00:29:19,200 --> 00:29:24,960
+potuto avere dei feedback definitivi e positivi al 100%.
+
+472
+00:29:26,000 --> 00:29:28,720
+Certo, certo, chiaramente può capitare?
+
+473
+00:29:28,720 --> 00:29:32,320
+Anche perché devo dire la verità: la mia impressione è stata che
+
+474
+00:29:32,880 --> 00:29:37,200
+nel passaggio delle varie beta, queste funzioni si siano più accentuate.
+
+475
+00:29:37,200 --> 00:29:40,320
+Non so come definire, le ho viste di più.
+
+476
+00:29:40,320 --> 00:29:44,800
+All'inizio, proprio non mi sembrava funzionasse niente di queste funzioni, che, da
+
+477
+00:29:44,800 --> 00:29:48,400
+un certo punto di vista, facendo il mio mestiere, è molto interessante.
+
+478
+00:29:48,400 --> 00:29:48,960
+Ovviamente.
+
+479
+00:29:48,960 --> 00:29:52,960
+Potenzialmente, avere sicuramente un correttore più preciso e più puntuale.
+
+480
+00:29:52,960 --> 00:29:57,520
+E addirittura la possibilità, con un minimo di machine learning, di avere
+
+481
+00:29:57,520 --> 00:30:00,000
+un suggerimento di completamento delle frasi.
+
+482
+00:30:00,200 --> 00:30:04,360
+Non ti so dire, poi non avendo l'ho testato su M1, che
+
+483
+00:30:04,360 --> 00:30:07,800
+dovrebbe essere proprio il suo pane, è vero che il mio MacBook
+
+484
+00:30:07,800 --> 00:30:13,320
+Intel è ancora: deve avere il T2 o T1 come chip che
+
+485
+00:30:13,320 --> 00:30:17,480
+fa in parte, cioè che è la parte, diciamo, intelligente dell'M1, mettiamolo
+
+486
+00:30:17,480 --> 00:30:18,360
+in questi termini
+
+487
+00:30:19,400 --> 00:30:19,640
+.
+
+488
+00:30:19,800 --> 00:30:22,840
+Quindi può essere che, però non garantisco ecco.
+
+489
+00:30:22,840 --> 00:30:27,080
+Quindi queste sono cose che dopo per e probabilmente poi anche qui
+
+490
+00:30:27,240 --> 00:30:32,760
+si svilupperanno meglio più avanti quando avranno una base dati, ovviamente essendo
+
+491
+00:30:32,760 --> 00:30:33,560
+machine learning.
+
+492
+00:30:33,560 --> 00:30:38,760
+Sicuramente Apple farà training anche sugli errori, sulle problematiche nate sui vari
+
+493
+00:30:38,920 --> 00:30:45,080
+dispositivi, se dai la possibilità appunto di condividere queste cose con Apple,
+
+494
+00:30:45,080 --> 00:30:45,640
+ovviamente.
+
+495
+00:30:46,360 --> 00:30:48,680
+Poi un qualcosa che
+
+496
+00:30:49,800 --> 00:30:53,560
+adesso andiamo su cose un po' particolari, mettiamole in questi termini, ma
+
+497
+00:30:53,800 --> 00:30:58,360
+sono dal mio punto di vista, degli highlight: cioè delle cose che
+
+498
+00:30:58,360 --> 00:31:00,520
+sono anche interessanti da tenere presenti.
+
+499
+00:31:00,520 --> 00:31:04,920
+Innanzitutto, sul fronte, privacy, c'è la condivisione delle foto più sicuro.
+
+500
+00:31:04,920 --> 00:31:09,720
+Migliorati i permessi, quindi puoi decidere quali immagine vuoi condividere da un'app,
+
+501
+00:31:09,880 --> 00:31:13,560
+mantenendo però privati tutti gli altri scatti nella libreria della foto.
+
+502
+00:31:13,560 --> 00:31:17,400
+Perché spesso volentieri hai tutta una serie di hai certe app a
+
+503
+00:31:17,400 --> 00:31:21,480
+cui devi dare, per esempio, accesso totale alla libreria delle tue foto,
+
+504
+00:31:21,480 --> 00:31:23,160
+che può essere anche un problema.
+
+505
+00:31:23,320 --> 00:31:27,080
+E consente a un'app, per esempio, di aggiungere un evento in calendario
+
+506
+00:31:27,080 --> 00:31:29,320
+senza che acceda ai tuoi dati.
+
+507
+00:31:29,320 --> 00:31:32,520
+Anche qui stanno facendo delle piccole cose che, però, sono molto molto
+
+508
+00:31:33,000 --> 00:31:33,720
+interessanti.
+
+509
+00:31:33,720 --> 00:31:37,720
+La modalità di isolamento, che è una cosa molto particolare, diciamo che
+
+510
+00:31:38,200 --> 00:31:42,920
+è per soggetti che sanno di avere bisogno di questa funzione, sostanzialmente,
+
+511
+00:31:43,000 --> 00:31:44,200
+che è stata potenziata.
+
+512
+00:31:44,200 --> 00:31:48,320
+E nella sostanza è un sistema per rendere il sistema operativo ancora
+
+513
+00:31:44,920 --> 00:31:48,960
+più sicuro,
+
+514
+00:31:49,200 --> 00:31:52,560
+ma è per tutta una serie di soggetti che per fortuna non
+
+515
+00:31:52,560 --> 00:31:54,240
+ci ricadiamo minimamente.
+
+516
+00:31:54,240 --> 00:31:59,360
+Con attivisti politici, giornalisti, diciamo, che hanno bisogno di avere un sistema
+
+517
+00:31:59,360 --> 00:32:05,360
+operativo veramente a prova di intercettazioni e di compromissione, e ovviamente per
+
+518
+00:32:05,360 --> 00:32:06,720
+evitare che
+
+519
+00:32:08,400 --> 00:32:12,320
+il sistema, diciamo, sia insicuro, però poi hai tutta una serie di
+
+520
+00:32:12,320 --> 00:32:14,000
+funzioni che vengono disabilitate.
+
+521
+00:32:14,000 --> 00:32:17,280
+Quindi il prezzo da pagare se si vuole utilizzare questa modalità di
+
+522
+00:32:17,280 --> 00:32:21,120
+isolamento, chiamiamola in questi termini, è quello poi di avere un'esperienza utente
+
+523
+00:32:21,120 --> 00:32:26,000
+decisamente peggiore, mettiamoli in questi termini, ma col vantaggio, ovviamente, se lo
+
+524
+00:32:26,000 --> 00:32:30,720
+vuoi fare, cioè se hai questa necessità, è sicuramente un ottimo strumento
+
+525
+00:32:30,720 --> 00:32:32,800
+da avere a propria disposizione.
+
+526
+00:32:32,800 --> 00:32:37,200
+Un'altra cosa interessante, non ho avuto modo di testarlo, però è in
+
+527
+00:32:37,200 --> 00:32:41,280
+accessibilità la voce personale che permette alle persone con difficoltà di linguaggio
+
+528
+00:32:41,280 --> 00:32:44,640
+di creare una voce simile alla propria e che possono poi utilizzare
+
+529
+00:32:44,640 --> 00:32:48,400
+come voce in tempo reale per comunicare nelle chiamate Face time o
+
+530
+00:32:48,400 --> 00:32:49,520
+per parlare tu a tu.
+
+531
+00:32:49,680 --> 00:32:55,600
+E tra l'altro, anche qui si possono utilizzare dispositivi acustici made per
+
+532
+00:32:55,920 --> 00:32:57,520
+iPhone anche col Mac.
+
+533
+00:32:57,520 --> 00:33:01,280
+Quindi per chi ha dei problemi di udito, si possono utilizzare questi
+
+534
+00:33:01,520 --> 00:33:03,040
+sistemi anche sul Mac.
+
+535
+00:33:03,040 --> 00:33:07,920
+Quindi, anche qui si va sempre verso cose molto particolari, diciamo appunto
+
+536
+00:33:08,000 --> 00:33:09,440
+legate all'accessibilità.
+
+537
+00:33:09,440 --> 00:33:13,520
+Ma sono secondo me cose da tenere presente nell'ultima puntata, secondo me,
+
+538
+00:33:13,520 --> 00:33:17,440
+di Mac Power User, Merlin Man, tra le altre cose, raccontava come
+
+539
+00:33:17,600 --> 00:33:22,400
+ha fatto testare a un suo conoscente, gli AirPod Pro, credo che
+
+540
+00:33:22,400 --> 00:33:26,560
+siano, quelle che abbiamo: la modalità di isolamento e così via.
+
+541
+00:33:26,880 --> 00:33:33,240
+Proprio perché con dei problemi uditivi particolari si riesce questi strumenti, gli
+
+542
+00:33:33,240 --> 00:33:37,560
+AirPod riescono a pulirti sostanzialmente il suono e farti sentire cose che
+
+543
+00:33:37,560 --> 00:33:41,560
+abitualmente, per esempio, non so, soprattutto chi ha problemi uditivi.
+
+544
+00:33:41,560 --> 00:33:46,200
+Se c'è molta confusione, caccofonia, fa fatica a ascoltare la conversazione perché
+
+545
+00:33:46,200 --> 00:33:49,880
+è sostanzialmente più sensibile a determinate frequenze d'onda.
+
+546
+00:33:50,280 --> 00:33:55,320
+In questo caso gli Airpod Pro potendo fare pulizia sostanzialmente sonora, riescono
+
+547
+00:33:55,960 --> 00:33:59,800
+ad attivare e a far sentire meglio la voce dell'interlocutore.
+
+548
+00:33:59,800 --> 00:34:05,080
+Quindi chi ha problemi uditivi, ovviamente non è tipo ampliphone che è
+
+549
+00:34:05,080 --> 00:34:10,120
+fatta apposta, ma diciamo è comunque un sistema interessante anche perché sono
+
+550
+00:34:10,360 --> 00:34:15,000
+dispositivi che costano una bella cifra e poterli utilizzare anche per questo
+
+551
+00:34:15,000 --> 00:34:17,080
+motivo non è affatto male, secondo me.
+
+552
+00:34:17,080 --> 00:34:18,440
+Concordo perfettamente.
+
+553
+00:34:18,440 --> 00:34:23,480
+Nel senso che c'è sempre questa particolare attenzione verso le persone che
+
+554
+00:34:23,480 --> 00:34:30,280
+hanno dei problemi fisici di qualsiasi natura, ed è diciole che chi
+
+555
+00:34:30,280 --> 00:34:33,000
+è in quella situazione apprezza davvero tantissimo.
+
+556
+00:34:33,000 --> 00:34:34,440
+Bisogna comunque sottolinearlo.
+
+557
+00:34:34,440 --> 00:34:38,520
+Nel senso che tutti, quando stiamo bene, non sentiamo l'esigenza di queste
+
+558
+00:34:38,520 --> 00:34:41,320
+cose, probabilmente non gli diamo neanche il peso giusto.
+
+559
+00:34:41,320 --> 00:34:45,800
+Ma nel momento in cui abbiamo anche banalmente un abbassamento della vista,
+
+560
+00:34:45,800 --> 00:34:51,000
+ci andiamo a vedere il reparto accessibilità e scopriamo davvero un mondo
+
+561
+00:34:51,000 --> 00:34:53,960
+che spesso ignoriamo, ma che ha davvero una grandità.
+
+562
+00:34:54,120 --> 00:34:58,600
+Torno invece alle applicazioni, chiamiamole così, di casa Apple.
+
+563
+00:34:58,600 --> 00:35:02,680
+Abbiamo, da quello che ho capito, stai apprezzando molto in pro memoria.
+
+564
+00:35:02,680 --> 00:35:04,120
+Quindi la lista della spesa,
+
+565
+00:35:06,040 --> 00:35:10,040
+vabbè, lo so, lo so, la vista colonne che ti piace.
+
+566
+00:35:10,560 --> 00:35:13,920
+La vista a colonne, la vista colonne, ragazzi miei, abbiamo una Canban
+
+567
+00:35:13,000 --> 00:35:14,640
+è una Canban
+
+568
+00:35:14,520 --> 00:35:16,160
+fatta e
+
+569
+00:35:14,600 --> 00:35:19,440
+finita davvero molto interessante da una
+
+570
+00:35:14,760 --> 00:35:21,120
+bella mazzata di applicazioni.
+
+571
+00:35:21,280 --> 00:35:22,720
+Ad esempio, come Notion.
+
+572
+00:35:22,720 --> 00:35:26,400
+Tra questo e note, che ha i link tra le varie note,
+
+573
+00:35:26,720 --> 00:35:33,920
+incominciamo a intravedere che tanti pezzi che sono importanti, magari notion, incominciano
+
+574
+00:35:33,920 --> 00:35:36,960
+a essere persi e diluiti all'interno del sistema operativo.
+
+575
+00:35:36,960 --> 00:35:41,440
+E in effetti, forse a questo punto Notion incomincia a diventare utile
+
+576
+00:35:41,440 --> 00:35:45,360
+per chi vuole un database, ma per chi fa un utilizzo normale
+
+577
+00:35:45,360 --> 00:35:49,680
+e medio, se si utilizza le applicazioni di sistema, può tranquillamente andare
+
+578
+00:35:49,680 --> 00:35:50,000
+avanti.
+
+579
+00:35:50,480 --> 00:35:51,280
+Poi abbiamo mail.
+
+580
+00:35:51,680 --> 00:35:56,560
+Le novità, tra virgolette, sono che se hai un programma, un viaggio,
+
+581
+00:35:56,720 --> 00:36:00,080
+relative mail, compaiono in cima ai risultati di ricerca quando la data
+
+582
+00:36:00,080 --> 00:36:03,680
+si avvicina, puoi aggiungere emoji grandi ai tuoi messaggi.
+
+583
+00:36:03,680 --> 00:36:06,080
+Questo sono le grandità
+
+584
+00:36:07,680 --> 00:36:09,920
+, ci vuole per questo le grandi novità.
+
+585
+00:36:09,920 --> 00:36:14,160
+Ecco, una cosa che non abbiamo detto, però è interessante, invece, è
+
+586
+00:36:14,160 --> 00:36:19,440
+se ti vengono mandati dei codici OTP via mail questi vengono visti
+
+587
+00:36:19,440 --> 00:36:24,080
+dal sistema operativo e quindi ti vengono suggeriti nel completamento dell'OTP sul
+
+588
+00:36:25,200 --> 00:36:26,080
+campo esatto.
+
+589
+00:36:26,080 --> 00:36:30,880
+Questo mi è successo oggi proprio oggi mentre stavo accedendo a Infocat
+
+590
+00:36:30,960 --> 00:36:33,680
+e mi era scaduto momentaneamente la mia password.
+
+591
+00:36:33,680 --> 00:36:36,560
+E con il mio sommissimo stupore, perché era la prima volta che
+
+592
+00:36:36,560 --> 00:36:39,200
+mi era capitato effettivamente un caso pratico.
+
+593
+00:36:39,200 --> 00:36:44,400
+Mi era arrivato invece un messaggio con il codice, diciamo, OTP da
+
+594
+00:36:44,400 --> 00:36:46,320
+parte di InfoCat che dovevo inserire.
+
+595
+00:36:46,320 --> 00:36:50,080
+Io non l'avevo neanche sentito arrivare, mi è comparso il pop-up direttamente
+
+596
+00:36:50,080 --> 00:36:53,680
+su Safari e sono rimasto letteralmente basito perché sono quelle cose che
+
+597
+00:36:53,680 --> 00:36:54,400
+non ti aspetti.
+
+598
+00:36:54,400 --> 00:36:55,600
+Perché normalmente cosa fai?
+
+599
+00:36:55,600 --> 00:36:58,960
+Aspetti che arrivi in messaggio: quindi devi sentire il suono, poi lo
+
+600
+00:36:58,960 --> 00:37:01,800
+vai a vedere, copri il codice, lo prendi e lo inserisci.
+
+601
+00:36:59,760 --> 00:37:05,880
+Qui ha tirato via almeno 20 secondi di lavoro così.
+
+602
+00:37:06,040 --> 00:37:08,440
+No, no, infatti diventa molto interessante.
+
+603
+00:37:08,440 --> 00:37:14,280
+Per quanto riguarda la detatura, anche qui funziona da iOS e iPadOS,
+
+604
+00:37:14,280 --> 00:37:16,280
+è molto comoda, devo dire la verità.
+
+605
+00:37:16,280 --> 00:37:20,200
+E la detatura, assieme alla tastiera, cioè puoi dettare mentre scrivi.
+
+606
+00:37:20,200 --> 00:37:27,000
+Che effettivamente è molto comodo, perché puoi dettare una parte del testo,
+
+607
+00:37:27,000 --> 00:37:29,800
+poi, non so, una parola particolare la puoi scrivere o puoi fare
+
+608
+00:37:29,800 --> 00:37:31,000
+la correzione del testo.
+
+609
+00:37:31,000 --> 00:37:36,200
+E continuare comunque nell'attività di dettatura, ovviamente non parlando, ma scrivendo e
+
+610
+00:37:36,200 --> 00:37:39,720
+poi dopo ripartendo a parlare senza interrompere il flusso.
+
+611
+00:37:39,720 --> 00:37:45,560
+Questo è un bel sistema di gestione del tutto quindi sicuramente una
+
+612
+00:37:45,560 --> 00:37:47,160
+funzione molto interessante.
+
+613
+00:37:47,400 --> 00:37:51,240
+Io direi che altre cose clamorose.
+
+614
+00:37:52,120 --> 00:37:56,600
+Abbiamo parlato appunto di una puntata 65 con Lucio, quindi non mi
+
+615
+00:37:56,600 --> 00:37:58,360
+vado a spendere più di tanto.
+
+616
+00:37:58,360 --> 00:38:04,600
+Forse la cosa più interessante, che però, è relegata agli M1 superiori,
+
+617
+00:38:04,600 --> 00:38:08,040
+è la possibilità di tutta una serie di funzioni avanzate per le
+
+618
+00:38:08,040 --> 00:38:09,080
+videoconferenze.
+
+619
+00:38:09,080 --> 00:38:14,120
+Quindi chiamiamolo così il picture in picture, nel senso che posso far
+
+620
+00:38:14,120 --> 00:38:17,640
+vedere, per esempio, delle slide o delle immagini o quello che voglio,
+
+621
+00:38:17,640 --> 00:38:24,120
+condividere diciamo una schermata e contemporaneamente risultare quindi o in un cerchio
+
+622
+00:38:24,200 --> 00:38:31,320
+sostanzialmente che posso posizionare o addirittura come scontorno, come chiamiamolo così green
+
+623
+00:38:31,320 --> 00:38:37,400
+screen fatto direttamente ovviamente dall'iPhone o da una webcam, posso il sistema
+
+624
+00:38:37,560 --> 00:38:40,600
+avanzato di videoconferenza che è molto comodo.
+
+625
+00:38:40,600 --> 00:38:45,280
+Turtro io non riuscirò a utilizzare a breve, però che sicuramente è
+
+626
+00:38:44,840 --> 00:38:52,080
+molto interessante e sfrutta, diciamo, tutta le varie compatibilità di gestione.
+
+627
+00:38:52,240 --> 00:38:54,240
+Addirittura in questo sistema.
+
+628
+00:38:54,240 --> 00:38:58,960
+Facendo una serie di gesti, è possibile far comparire i coriandoli e
+
+629
+00:38:58,960 --> 00:39:00,320
+tutta una serie di altri effetti.
+
+630
+00:39:00,480 --> 00:39:03,200
+Vabbè, dal dubbio gusto pratico, ma
+
+631
+00:39:05,360 --> 00:39:07,920
+più scenico che altro, mettiamoli in questi termini.
+
+632
+00:39:07,920 --> 00:39:11,280
+Non mi ci dilungherei troppo proprio perché ne abbiamo già parlato.
+
+633
+00:39:11,280 --> 00:39:15,520
+Io invece vi volevo parlare di una cosa che sembra una stupidaggine,
+
+634
+00:39:15,520 --> 00:39:19,040
+ma ho notato che una volta che la conosci, incominci a sfruttarla
+
+635
+00:39:19,040 --> 00:39:21,600
+come si deve e diventa utile.
+
+636
+00:39:21,600 --> 00:39:26,560
+Parlo della ricerca visiva, è una stupidaggenza pietà, nel senso che è
+
+637
+00:39:26,560 --> 00:39:31,200
+una cosa che abbiamo già almeno dalla versione 16 di iOS, sicuramente
+
+638
+00:39:31,440 --> 00:39:34,400
+come minimo, forse anche prima, forse.
+
+639
+00:39:35,200 --> 00:39:36,960
+Forse anche prima, ma non sono sicurissimo.
+
+640
+00:39:36,960 --> 00:39:38,320
+Sicuramente la 16.
+
+641
+00:39:38,560 --> 00:39:39,600
+È una cosa semplice.
+
+642
+00:39:39,600 --> 00:39:43,280
+Voi fate una fotografia di qualsiasi cosa, e a un certo punto,
+
+643
+00:39:43,280 --> 00:39:47,760
+nella parte bassa, diciamo della menu bar che avete all'interno di iOS,
+
+644
+00:39:47,760 --> 00:39:51,920
+vi capita che ci sia una I e questa I dopo un
+
+645
+00:39:51,920 --> 00:39:56,400
+po' compare con un paio di stelline in alto a sinistra sul
+
+646
+00:39:56,400 --> 00:39:57,520
+quadrante.
+
+647
+00:39:57,600 --> 00:39:58,880
+La I sta per informazioni
+
+648
+00:40:00,000 --> 00:40:00,240
+.
+
+649
+00:40:01,280 --> 00:40:04,160
+Perché c'è la I di informazioni normale che compare.
+
+650
+00:40:04,160 --> 00:40:08,320
+Tuttavia, dopo un po' che ha elaborato la questione compaiono queste stelline,
+
+651
+00:40:08,320 --> 00:40:11,920
+che è una cosa diversa, nel senso che è sempre informazioni, ma
+
+652
+00:40:11,920 --> 00:40:16,880
+dà informazioni non più sulla foto, ma sull'oggetto della foto, sugli eventuali
+
+653
+00:40:16,880 --> 00:40:19,200
+oggetti che ha rilevato all'interno della foto.
+
+654
+00:40:19,200 --> 00:40:21,120
+Esatto, un esempio banale.
+
+655
+00:40:21,120 --> 00:40:26,240
+Fiori, li riconosce un tipo un modello di cane, che a me
+
+656
+00:40:26,320 --> 00:40:29,200
+piace chiamare i modelli di cani, non le razze.
+
+657
+00:40:29,200 --> 00:40:34,200
+E via discorrendo, diventa davvero utile anche perché vi riconosce, se voi
+
+658
+00:40:30,000 --> 00:40:36,360
+andate in un museo, vi riconosce anche le opere d'arte.
+
+659
+00:40:36,520 --> 00:40:38,200
+Nel caso, ho fatto l'esperimento.
+
+660
+00:40:38,200 --> 00:40:43,080
+E anche soltanto in una piazza, se riesci a fotografare qualcosa, ti
+
+661
+00:40:43,080 --> 00:40:47,320
+dà questa che diventa davvero molto interessante, soprattutto perché è molto curioso,
+
+662
+00:40:47,320 --> 00:40:48,600
+come me, ad esempio.
+
+663
+00:40:48,600 --> 00:40:53,320
+E quindi è un aiuto nella conoscenza e non fanno mai male
+
+664
+00:40:53,480 --> 00:40:57,400
+gli aiuti che permettono di conoscere di più le cose e entrare
+
+665
+00:40:57,400 --> 00:41:00,760
+magari nel merito di cose che avete lì tutti i giorni e
+
+666
+00:41:00,760 --> 00:41:04,680
+non avete mai avuto la possibilità di entrare nel dettaglio perché sapete
+
+667
+00:41:04,680 --> 00:41:07,480
+a grandi lì di che si tratta, ma non sapete nel dettaglio
+
+668
+00:41:07,640 --> 00:41:10,920
+e magari scoprite qualcosa di nuovo, è sempre qualcosa di interessante.
+
+669
+00:41:11,720 --> 00:41:14,920
+Direi di concludere con la nota dolente
+
+670
+00:41:16,760 --> 00:41:20,120
+, diciamo, quello che potrebbe dare fastidio un po' a tutti, ovvero
+
+671
+00:41:21,320 --> 00:41:24,600
+chi può utilizzare questo nuovo sistema operativo.
+
+672
+00:41:24,600 --> 00:41:29,080
+Che lo ripeto, per molti versi non ha, secondo me, delle funzionalità
+
+673
+00:41:29,080 --> 00:41:35,240
+talmente interessanti, mettiamoli in questi termini, da richiedere l'upgrade: esatto, se non
+
+674
+00:41:35,400 --> 00:41:39,960
+per chi già ha un M1, allora fa molte videoconferenze, presentazioni online
+
+675
+00:41:39,960 --> 00:41:44,840
+e così via, dove allora, secondo me, l'aggiornamento vale la pena, ma
+
+676
+00:41:44,840 --> 00:41:48,120
+comunque non ci sono problemi perché sono mega recenti, perché gli M1
+
+677
+00:41:48,360 --> 00:41:51,080
+attualmente non sono considerate ancora vinte.
+
+678
+00:41:51,080 --> 00:41:54,200
+Ti faccio una domanda prima di dire le compatibilità, come l'hai trovato
+
+679
+00:41:54,360 --> 00:41:54,760
+il sistema?
+
+680
+00:41:54,760 --> 00:41:55,960
+È abbastanza stabile.
+
+681
+00:41:55,960 --> 00:42:00,120
+Allora, come tutte le beta di quest'anno, devo dire la verità, non
+
+682
+00:42:00,120 --> 00:42:04,600
+è stato fatto un grosso lavoro, secondo me, probabilmente anche perché molte
+
+683
+00:42:04,600 --> 00:42:06,120
+risorse di Apple sono
+
+684
+00:42:07,160 --> 00:42:09,880
+ragionate per il Vision Pro e quant'altro.
+
+685
+00:42:09,880 --> 00:42:16,400
+Quindi, probabilmente è un ragionamento molto stabile, devo dire la verità: al
+
+686
+00:42:14,440 --> 00:42:19,280
+padosso non ho avuto quasi nessun tipo di problema.
+
+687
+00:42:19,600 --> 00:42:23,840
+Sono considero che i primi mesi di beta non l'ho praticamente usato
+
+688
+00:42:23,840 --> 00:42:27,600
+perché ho fatto questo primo step e poi dopo sono rimasto bloccato.
+
+689
+00:42:27,600 --> 00:42:33,040
+L'ho iniziato, l'ho riutilizzato e ho un hard disk esterno solido collegato
+
+690
+00:42:33,040 --> 00:42:37,440
+al Mac, quindi praticamente giravo con questo gingillante con il mio Mac,
+
+691
+00:42:37,440 --> 00:42:42,320
+ma ho sempre utilizzato il MacBook Pro appunto con Sonoma fino a
+
+692
+00:42:42,320 --> 00:42:46,720
+oggi che l'ho staccato perché tanto a breve lo posso aggiornare, devo
+
+693
+00:42:46,720 --> 00:42:51,040
+dire la verità: non ho avuto applicazioni in crush mai e non
+
+694
+00:42:51,040 --> 00:42:54,080
+ho avuto problemi di nessun giorno.
+
+695
+00:42:54,080 --> 00:43:00,000
+C'erano messaggi che ogni tanto si contorceva un po', ma all'inizio o
+
+696
+00:43:00,000 --> 00:43:01,040
+alla fine proprio no.
+
+697
+00:43:01,040 --> 00:43:05,600
+Quindi non mi sembra qualcosa di particolarmente instabile.
+
+698
+00:43:05,600 --> 00:43:09,680
+Quant'altro, già che siamo qui che non l'ho messo in scaletta, ma
+
+699
+00:43:09,680 --> 00:43:13,440
+come incidente di percorso lo possiamo raccontare.
+
+700
+00:43:13,440 --> 00:43:17,280
+Ovviamente, come al solito io ho fatto i miei soliti test per
+
+701
+00:43:17,280 --> 00:43:21,040
+processi telematici a destra manca, firma digitale e così via.
+
+702
+00:43:21,040 --> 00:43:25,520
+Posso confermare che tutto funziona senza alcun tipo di problema, non ho
+
+703
+00:43:25,760 --> 00:43:29,840
+riscontrato sotto la scocca, da quello che ne sapevo, non era stato
+
+704
+00:43:29,840 --> 00:43:33,200
+fatto niente, quindi non mi dava nessun tipo di dubbio sul fatto
+
+705
+00:43:33,200 --> 00:43:35,040
+che la compatibilità fosse rimasta.
+
+706
+00:43:35,040 --> 00:43:39,760
+Ho testato come al mio solito smart card con InfoCert che sono
+
+707
+00:43:39,760 --> 00:43:42,160
+quelle più compatibili abitualmente.
+
+708
+00:43:42,160 --> 00:43:44,960
+Non ho fatto invece i test con Aruba.
+
+709
+00:43:45,120 --> 00:43:50,160
+Consiglio sempre comunque utilizzare una smart card, è difficoltoso la prima installazione,
+
+710
+00:43:50,160 --> 00:43:54,320
+ma ho fatto anche varie guide quindi eventualmente fate riferimento a quello.
+
+711
+00:43:54,320 --> 00:43:57,120
+Ma devo dire la verità: non ci sono stati nessun tipo di
+
+712
+00:43:57,120 --> 00:43:57,520
+problema.
+
+713
+00:43:57,520 --> 00:44:00,840
+Ho testato varie applicazioni, tutto funziona correttamente.
+
+714
+00:43:59,520 --> 00:44:02,040
+OpenSC funziona
+
+715
+00:43:59,920 --> 00:44:05,400
+, quindi sono riuscito a collegarmi via Safari direttamente.
+
+716
+00:44:05,640 --> 00:44:10,920
+Varie applicazioni che ne richiedevano la firma digitale come SLPT o Cassazione.net
+
+717
+00:44:11,080 --> 00:44:14,520
+funzionano perfettamente senza nessun tipo di problema.
+
+718
+00:44:14,520 --> 00:44:18,840
+Quindi, se per caso siete in questa microfascia di gente che deve
+
+719
+00:44:18,840 --> 00:44:22,680
+utilizzare questi strumenti, non ci sono grosse novità a riguardo.
+
+720
+00:44:22,680 --> 00:44:26,040
+L'unica cosa che segnalo perché è una cosa che dà problemi agli
+
+721
+00:44:26,040 --> 00:44:28,840
+avvocati, sostanzialmente per i depositi telematici.
+
+722
+00:44:28,920 --> 00:44:35,320
+Mail continua a inserire di nascosto dell'HTML quando si fanno i depositi
+
+723
+00:44:35,320 --> 00:44:36,920
+telematici con SLPCT.
+
+724
+00:44:36,920 --> 00:44:41,240
+E questo è un problema perché sostanzialmente il server ministero se trova
+
+725
+00:44:41,560 --> 00:44:45,720
+questo HTML nascosto, mettiamolo così, dà un errore e il deposito non
+
+726
+00:44:45,720 --> 00:44:46,520
+va a buon fine.
+
+727
+00:44:46,520 --> 00:44:52,360
+Qui su avvocatemac.it trovate comunque link a varie guide come evitare il
+
+728
+00:44:52,360 --> 00:44:54,680
+problema e gestirlo e risolvere il problema.
+
+729
+00:44:54,680 --> 00:44:58,360
+Tuttavia, appunto non è stato fatto un granché da questo punto di
+
+730
+00:44:58,360 --> 00:44:58,760
+vista.
+
+731
+00:44:58,760 --> 00:45:01,800
+Quindi è tutto uguale all'anno scorso, mettiamola così.
+
+732
+00:45:01,800 --> 00:45:07,080
+Venendo invece alla compatibilità, a questo punto, rullo di tamburi nella sostanza
+
+733
+00:45:07,240 --> 00:45:10,840
+gli i Mac dal 2019 e successivi.
+
+734
+00:45:10,840 --> 00:45:12,760
+Stesso discorso vale per i Mac Pro.
+
+735
+00:45:12,760 --> 00:45:17,400
+L'unica cosa positiva per chi ha speso più di 5.000 euro all'epoca
+
+736
+00:45:17,400 --> 00:45:22,440
+sugli i Mac Pro invece, la compatibilità è dal 2017, ma attualmente
+
+737
+00:45:22,520 --> 00:45:26,840
+secondo me gli i Mac Pro sono finiti con quelli Intel, quindi
+
+738
+00:45:26,840 --> 00:45:31,400
+comunque è materiale abbastanza vecchio, ma costava delle belle cifre.
+
+739
+00:45:31,400 --> 00:45:37,080
+Mac Studio, vabbè, dal 2022, ma semplicemente perché sono usciti nel 2022,
+
+740
+00:45:37,080 --> 00:45:40,360
+MacBook Air dal 2018, quindi ancora Intel, credo.
+
+741
+00:45:40,360 --> 00:45:46,880
+Mac Mini stesso discorso 2018, MacBook Pro, anche lì stesso discorso 2018,
+
+742
+00:45:46,960 --> 00:45:50,800
+quindi il mio problema attuale è che sto registrando e sto parlando
+
+743
+00:45:50,800 --> 00:45:56,400
+dal mio iMac 5K del 2017, quindi lei del 2017, ma comunque
+
+744
+00:45:56,400 --> 00:46:00,880
+del 2017, quindi è il mio primo Mac che figurativamente non potrà,
+
+745
+00:46:01,120 --> 00:46:05,040
+devo rimanere fermo a Ventura su cui sono attualmente.
+
+746
+00:46:05,040 --> 00:46:07,840
+E già che siamo qui, visto che ho fatto anche un po'
+
+747
+00:46:07,840 --> 00:46:14,160
+di approfondimenti, segnalo per gli impavidi, mettiamola così, nel senso che ovviamente
+
+748
+00:46:14,480 --> 00:46:20,560
+si va oltre quello che Apple garantisce e quindi qualsiasi operazione che
+
+749
+00:46:20,560 --> 00:46:24,880
+racconterò è a rischio e pericolo di chi la fa.
+
+750
+00:46:24,880 --> 00:46:30,560
+Ma esiste un modo, mettiamolo in questi termini, per aggiornare i Mac
+
+751
+00:46:30,960 --> 00:46:36,320
+non supportati a, per esempio, macOS Sonoma, cioè sistemi più avanzati.
+
+752
+00:46:36,320 --> 00:46:38,240
+Il sistema si chiama Open Core.
+
+753
+00:46:38,240 --> 00:46:40,240
+Open Core sostanzialmente
+
+754
+00:46:41,360 --> 00:46:47,520
+la cito direttamente, un sofisticato bootloader utilizzato per iniettare e pacciare i
+
+755
+00:46:47,520 --> 00:46:49,680
+dati di memoria invece che il disco.
+
+756
+00:46:49,680 --> 00:46:53,120
+Ciò significa che sia in grado di ottenere un'esperienza quasi nativa su
+
+757
+00:46:53,120 --> 00:46:54,720
+tutti i Mac non supportati.
+
+758
+00:46:54,720 --> 00:46:55,600
+Che vuol dire?
+
+759
+00:46:55,600 --> 00:47:01,120
+Sostanzialmente simula, fa credere in pratica al sistema operativo che il tuo
+
+760
+00:47:01,120 --> 00:47:04,560
+Mac sia un Mac più nuovo di quello che è, detto proprio
+
+761
+00:47:04,560 --> 00:47:06,320
+in termini molto molto semplici.
+
+762
+00:47:06,320 --> 00:47:11,280
+È ovvio che tutta questa operazione va a fare modifiche abbastanza profonde
+
+763
+00:47:11,280 --> 00:47:13,360
+e particolari al sistema operativo.
+
+764
+00:47:13,360 --> 00:47:18,640
+La cosa interessante è che questo sistema è stato fatto per essere
+
+765
+00:47:18,640 --> 00:47:20,240
+il più semplice possibile.
+
+766
+00:47:20,240 --> 00:47:24,400
+È ovvio che più semplice possibile non vuol dire che è semplicissimo.
+
+767
+00:47:25,040 --> 00:47:28,480
+Quindi, io ho visto attualmente dei tutorial, perché non l'ho ancora fatto,
+
+768
+00:47:28,480 --> 00:47:33,400
+sono indeciso sul farlo, perché forse ne ho accennato o fuori onda
+
+769
+00:47:33,720 --> 00:47:41,320
+o in onda su due podcast, però, nella sostanza c'è una terza
+
+770
+00:47:41,320 --> 00:47:46,280
+via, diciamo che è utilizzare un Mac mini sostanzialmente utilizzare il mio
+
+771
+00:47:46,280 --> 00:47:50,200
+Mac come schermo secondario, mettiamolo in questi termini, che è l'altra opzione
+
+772
+00:47:50,200 --> 00:47:51,880
+che sto ragionando per il futuro.
+
+773
+00:47:51,880 --> 00:47:56,840
+Però diciamo che Open Core mi permetterebbe di utilizzare questo Mac senza
+
+774
+00:47:56,840 --> 00:47:59,960
+nessun tipo di problema, senza spesa di un euro.
+
+775
+00:47:59,960 --> 00:48:04,600
+Se non eventualmente per mia sicurezza, perché ovviamente più i sistemi avanzano,
+
+776
+00:48:04,600 --> 00:48:07,960
+più ovviamente un Mac chiamolo così fa fatica, ma questo è un
+
+777
+00:48:07,960 --> 00:48:13,000
+Mac è il top di gamma degli i Mac 5K sostanzialmente.
+
+778
+00:48:13,000 --> 00:48:17,480
+L'unica cosa di cui manca sono a 8 GB di RAM e
+
+779
+00:48:17,480 --> 00:48:20,040
+lo potrei portare credo a 32,64.
+
+780
+00:48:20,040 --> 00:48:25,640
+Quindi stavo ragionando eventualmente perché questo Mac è uno dei pochissimi Mac
+
+781
+00:48:25,960 --> 00:48:29,400
+i Mac che hanno ancora lo sportellino per ragionare la RAM,
+
+782
+00:48:30,840 --> 00:48:35,160
+di spendere questa cifra per avere maggiore RAM e quindi maggior tranquillità.
+
+783
+00:48:35,160 --> 00:48:39,080
+Però anche una scheda grafica dedicata, computer a non mi ricordo più
+
+784
+00:48:39,080 --> 00:48:40,440
+quanti ancora e così via.
+
+785
+00:48:40,440 --> 00:48:45,560
+Quindi è una macchina comunque piuttosto performante, tant'è vero che attualmente per
+
+786
+00:48:45,560 --> 00:48:50,280
+le dirette YouTube che faccio con il suo avvocato Mac, questa i
+
+787
+00:48:50,280 --> 00:48:51,080
+Mac non
+
+788
+00:48:52,840 --> 00:48:59,720
+si impalla, mentre il MacBook Pro del 2016 pollici del 2019 non
+
+789
+00:48:59,720 --> 00:49:01,320
+riesce a gestire le dirette.
+
+790
+00:49:01,360 --> 00:49:03,640
+Vabbè, è una di quelle cose che a me manda in bestia,
+
+791
+00:49:03,640 --> 00:49:05,080
+ma lasciamo stare.
+
+792
+00:49:05,640 --> 00:49:09,400
+Sì, lo so bene, lo so bene, per cui tornando a noi,
+
+793
+00:49:09,400 --> 00:49:14,120
+nella sostanza, proprio raccontata in maniera molto semplice, open core cosa fa?
+
+794
+00:49:14,120 --> 00:49:15,600
+Carica questa applicazione.
+
+795
+00:49:15,600 --> 00:49:19,520
+A questo punto ti fa scaricare il sistema operativo nuovo nella sua
+
+796
+00:49:15,000 --> 00:49:20,800
+interezza, crea.
+
+797
+00:49:21,040 --> 00:49:25,280
+Quindi ci vuole anche una chiavetta USB che verrà poi formattata per
+
+798
+00:49:25,600 --> 00:49:30,240
+contenere i 12 qualcosa GB del nuovo sistema operativo.
+
+799
+00:49:30,240 --> 00:49:33,760
+A questo punto si fa un boot dalla chiavetta e si installa
+
+800
+00:49:33,760 --> 00:49:37,920
+il sistema operativo dalla chiavetta, e alla fine si va a fare
+
+801
+00:49:38,160 --> 00:49:41,840
+due o tre cambiamenti per rendere operativo tutta l'operazione.
+
+802
+00:49:41,840 --> 00:49:43,760
+Ve l'ho resa molto molto molto semplice.
+
+803
+00:49:44,320 --> 00:49:45,920
+Ci sono molte guide online.
+
+804
+00:49:45,920 --> 00:49:49,280
+Io ovviamente le ho viste quelle in inglese, è sicuramente una cosa
+
+805
+00:49:49,280 --> 00:49:54,160
+da tenere in considerazione soprattutto in quella fascia di Mac, casomai di
+
+806
+00:49:54,160 --> 00:49:57,520
+fascia medio-alta, quindi anche qui si è speso anche abbastanza soldi.
+
+807
+00:49:57,520 --> 00:50:02,320
+Mettiamola così perché questo i Mac all'epoca è costato o parecchio, mettiamola
+
+808
+00:50:02,320 --> 00:50:05,920
+in questi termini, credo dai 2500 ai 3.000 euro.
+
+809
+00:50:05,920 --> 00:50:08,880
+Quindi comunque non è una macchina da niente, mettiamola in questa.
+
+810
+00:50:08,880 --> 00:50:13,680
+Quest'ottica ha uno schermo favoloso perché è un 5K veramente valido.
+
+811
+00:50:13,680 --> 00:50:17,520
+Per cui su queste macchine che sono comunque già di fascia alta
+
+812
+00:50:17,520 --> 00:50:21,360
+e non sono così vecchie, perché appunto fino a ieri questo sistema
+
+813
+00:50:21,920 --> 00:50:26,400
+era aggiornato all'ultimo sistema operativo, ecco, operazioni del genere si possono fare
+
+814
+00:50:26,400 --> 00:50:31,680
+su macchine molto vecchie, quindi anche il 2014-2015, con poca RAM, con
+
+815
+00:50:31,680 --> 00:50:38,320
+un processore non particolarmente strutturato, si rischia comunque di avere delle difficoltà,
+
+816
+00:50:38,320 --> 00:50:39,760
+mettiamole in questi termini.
+
+817
+00:50:39,760 --> 00:50:46,640
+Anche se dico sempre, dalla mia esperienza di semigestore di Equintosh virtuali,
+
+818
+00:50:46,640 --> 00:50:52,240
+mettiamola così, cioè di virtualizzatore di Mac, ma su hardware, addirittura neanche
+
+819
+00:50:52,320 --> 00:50:57,600
+Intel, ma AMD, devo dire la verità: sono rimasto stupefatto da quanto
+
+820
+00:50:57,760 --> 00:51:03,000
+poco su una macchina virtuale, diciamo, il Mac richieda, perché addirittura sono
+
+821
+00:51:03,000 --> 00:51:07,240
+riuscito a farlo girare con 4GB di RAM e pochi processori, quindi,
+
+822
+00:51:07,240 --> 00:51:11,800
+comunque Ventura, perché su questo posso dare certezze, riusciva ad andare su
+
+823
+00:51:11,800 --> 00:51:15,240
+una macchina molto meno performante di quello che poteva essere.
+
+824
+00:51:15,240 --> 00:51:19,240
+Fattibile, è ovvio che più i sistemi si aggiornano, ovviamente tutta una
+
+825
+00:51:19,240 --> 00:51:25,160
+serie di funzioni che sono legate al processore ARM, sono comunque esclusa
+
+826
+00:51:25,160 --> 00:51:26,040
+a prescindere.
+
+827
+00:51:26,040 --> 00:51:31,160
+Però, diciamo, compatibilità per determinate funzioni può diventare anche comodo.
+
+828
+00:51:31,160 --> 00:51:35,560
+Diciamo che quest'anno anche comandi rapidi non si sono viste cose nuovissime,
+
+829
+00:51:35,560 --> 00:51:36,520
+cose particolari.
+
+830
+00:51:36,520 --> 00:51:38,440
+Ce lo stavo per chiedere, infatti.
+
+831
+00:51:38,440 --> 00:51:41,480
+No, no, c'è tutto molto molto normale.
+
+832
+00:51:41,480 --> 00:51:46,840
+Diciamo per cui sì, io non ci vedo nulla, è un aggiornamento
+
+833
+00:51:46,840 --> 00:51:48,520
+che non cambia le carte in tavola.
+
+834
+00:51:48,520 --> 00:51:49,080
+Mettiamone
+
+835
+00:51:50,600 --> 00:51:51,640
+in questo senso.
+
+836
+00:51:51,640 --> 00:51:56,360
+E ovvio anche che ne discutevo tempo qualche settimana fa, secondo me,
+
+837
+00:51:56,360 --> 00:51:57,640
+sul canale Avvocati e Mac.
+
+838
+00:51:57,720 --> 00:52:01,880
+Ricordatevi sempre che, l'altra sostanzialmente problematica di Apple.
+
+839
+00:52:01,880 --> 00:52:06,680
+Apple garantisce le patch di sicurezza per gli ultimi due sistemi operativi.
+
+840
+00:52:06,680 --> 00:52:11,480
+Quindi ad oggi, che dovrebbe essere uscito appunto Sonoma, su Sonoma e
+
+841
+00:52:11,480 --> 00:52:16,680
+su macOS Ventura, solitamente le patch di sicurezza almeno scendono.
+
+842
+00:52:16,840 --> 00:52:21,240
+Ho visto, secondo me, quest'anno ho visto quindi prima di Sonoma ho
+
+843
+00:52:21,240 --> 00:52:23,160
+visto fare le patch a Catalina.
+
+844
+00:52:23,160 --> 00:52:28,520
+Quindi, comunque soprattutto se sono molto gravi, Apple cerca di, ma l'assistenza
+
+845
+00:52:28,520 --> 00:52:31,800
+vera e propria è degli ultimi due sistemi operativi in quel momento
+
+846
+00:52:31,960 --> 00:52:36,440
+specifico, considerati ultimi due sistemi operativi da Apple.
+
+847
+00:52:36,440 --> 00:52:40,520
+Quindi, effettivamente, anche qui non aggiornare adesso per me non è un
+
+848
+00:52:40,520 --> 00:52:44,520
+grosso problema, perché rientro comunque con questo Mac nella sicurezza, ma dall'anno
+
+849
+00:52:44,600 --> 00:52:48,640
+prossimo, per esempio, sarei fuori da qualsiasi tipo di aggiornamento di sicurezza
+
+850
+00:52:44,920 --> 00:52:50,720
+o comunque solo pochi aggiornamenti.
+
+851
+00:52:50,960 --> 00:52:53,120
+Sono considerazioni da tenere presente.
+
+852
+00:52:53,120 --> 00:52:58,960
+È ovvio anche che, secondo me, appunto, su sistemi molto vecchi vale
+
+853
+00:52:59,120 --> 00:53:00,800
+acquistare un hardware nuovo.
+
+854
+00:53:00,800 --> 00:53:05,120
+In questo caso specifico per le mie esigenze pratiche, ho il mio
+
+855
+00:53:05,120 --> 00:53:09,840
+interesse maggiore è mantenere l'utilizzabilità di questo monitor 5K.
+
+856
+00:53:09,840 --> 00:53:15,280
+Certo, considerazioni tutte da tenere ben presenti quando si parla di sistemi
+
+857
+00:53:15,280 --> 00:53:18,400
+operativi Apple, perché comunque vogliamo dirla tutta.
+
+858
+00:53:18,400 --> 00:53:23,840
+Ragazzi miei, Intel ormai possiamo darla per spacciata per Apple, nel senso
+
+859
+00:53:23,840 --> 00:53:27,440
+che, se è vero, la questione è che viene aggiornato nelle ultime
+
+860
+00:53:27,520 --> 00:53:32,880
+due versioni del sistema operativo, due anni sono passati di transizione con
+
+861
+00:53:33,680 --> 00:53:36,000
+l'hardware Apple Silicon.
+
+862
+00:53:36,160 --> 00:53:40,400
+Quindi, ragazzi miei, siamo ormai al di là della barriera, è stato
+
+863
+00:53:40,400 --> 00:53:42,800
+un po' rimandato, ma questo è quanto.
+
+864
+00:53:42,800 --> 00:53:47,920
+Nel senso che ormai Intel, che ha un Mac con Intel, deve
+
+865
+00:53:47,920 --> 00:53:52,640
+essere proprio, diciamo, non dico obbligato, ma deve essere una scelta consapevole
+
+866
+00:53:52,640 --> 00:53:56,400
+di quello che sta facendo, mentre deve iniziare, come ho fatto io,
+
+867
+00:53:56,400 --> 00:54:00,400
+a pensare a passare ad Apple Silicon per non essere tagliato fuori.
+
+868
+00:54:00,400 --> 00:54:05,520
+Anche perché purtroppo aggiungo questa nota prima di chiudere, abbiamo visto la
+
+869
+00:54:05,520 --> 00:54:09,600
+nuova Apple di qualche anno, di due o tre anni, se non
+
+870
+00:54:09,600 --> 00:54:13,360
+sbaglio, proprio da quando c'è stata la transizione con Apple Silicon, che
+
+871
+00:54:13,440 --> 00:54:20,000
+guarda caso alcune funzionalità vengono proprio tagliate fuori da alcuni dispositivi che
+
+872
+00:54:20,000 --> 00:54:24,560
+magari hanno anche un chip di classe A, che non hanno, però,
+
+873
+00:54:24,720 --> 00:54:28,320
+le funzionalità che hanno i chip di classe M, che sono comunque
+
+874
+00:54:28,320 --> 00:54:32,200
+entrambi alla fine degli Apple Silicon se stiamo proprio a guardare, sono
+
+875
+00:54:32,200 --> 00:54:37,400
+armi entrambi, ma cominciate a capire che se avete dell'hardware con qualche
+
+876
+00:54:37,400 --> 00:54:42,440
+anno, incominciate a perdere delle funzionalità che magari nel vostro ecosistema possono
+
+877
+00:54:42,440 --> 00:54:43,640
+diventare importanti.
+
+878
+00:54:43,640 --> 00:54:47,000
+Quindi dovete iniziare a pensare appunto a questo aspetto.
+
+879
+00:54:47,000 --> 00:54:52,520
+Considerazione davvero interessante alla tua Filippo, c'è questa scappatoia che non sappiamo
+
+880
+00:54:52,520 --> 00:54:54,920
+bene se funzionerà o come funzionerà.
+
+881
+00:54:54,920 --> 00:54:59,480
+Probabilmente Filippo ci terrà ovviamente aggiornati con i suoi canali, magari ne
+
+882
+00:54:59,480 --> 00:55:03,400
+parleremo anche qui su due podcast, chi lo sa.
+
+883
+00:55:03,400 --> 00:55:07,320
+Ma diciamo che ormai siamo arrivati alla fine di questa puntata.
+
+884
+00:55:07,480 --> 00:55:13,160
+Vi ricordiamo, però, prima di lasciarvi scappare, che potete supportare il podcast
+
+885
+00:55:13,160 --> 00:55:18,040
+con una semplice recensione su un Apple Podcast, che ovviamente ci aiuterà
+
+886
+00:55:18,040 --> 00:55:21,480
+a non solo a farci capire se siamo sulla direzione giusta, ma
+
+887
+00:55:21,480 --> 00:55:26,440
+soprattutto a farci salire in classifica, farci vedere e magari ad acquisire
+
+888
+00:55:26,440 --> 00:55:31,320
+qualche altro ascoltatore che può far parte della nostra community che sta
+
+889
+00:55:31,320 --> 00:55:35,000
+diventando piano piano, ma si sta sempre ingrandendo sempre di più.
+
+890
+00:55:35,000 --> 00:55:39,560
+Come sapete, abbiamo anche la diretta dove c'è il nostro Daniele che
+
+891
+00:55:39,560 --> 00:55:40,760
+non ci abbandona mai.
+
+892
+00:55:40,760 --> 00:55:44,840
+Delle volte ci sono anche tante altre persone che salutiamo tutti quanti.
+
+893
+00:55:44,840 --> 00:55:47,400
+Ringraziamo anche per il sostegno che ci date.
+
+894
+00:55:47,400 --> 00:55:49,560
+Un po' da una parte e un po' dall'altra, nel senso che
+
+895
+00:55:49,560 --> 00:55:53,160
+non abbiamo un canale unificato due podcast, diciamo che Filippo ha il
+
+896
+00:55:53,160 --> 00:55:58,040
+suo su Telegram e io ho il mio sempre su Telegram, dedicati
+
+897
+00:55:58,040 --> 00:55:59,800
+ai rispettivi podcast.
+
+898
+00:55:59,800 --> 00:56:03,480
+Ma se volete entrare in contatto con noi è abbastanza semplice perché
+
+899
+00:56:03,480 --> 00:56:06,680
+avete un indirizzo mail che recita così: scrivi.
+
+900
+00:56:07,160 --> 00:56:09,720
+chiocciola a due podcast.it.
+
+901
+00:56:09,720 --> 00:56:14,680
+Per quanto riguarda il sistema operativo Sonoma, che probabilmente avete già installato,
+
+902
+00:56:14,680 --> 00:56:14,920
+ma.
+
+903
+00:56:14,880 --> 00:56:19,120
+Ma se volete farvi un'idea più precisa, troverete tutti quanti i link
+
+904
+00:56:19,120 --> 00:56:24,800
+all'interno delle note dell'episodio oppure andando a visitare l'indirizzo a due podcast.it
+
+905
+00:56:25,040 --> 00:56:26,560
+slash 69 dove
+
+906
+00:56:28,240 --> 00:56:30,080
+ci potete trovare di bello.
+
+907
+00:56:30,080 --> 00:56:34,800
+Ci potete trovare il sottoscritto nella sua casetta piccola digitale dove cerco
+
+908
+00:56:34,800 --> 00:56:38,560
+di raggruppare un po' tutto che si chiama Mac Architettura.
+
+909
+00:56:38,800 --> 00:56:46,560
+Potete trovare l'indirizzo marc.net.wordpress.com, dove recentemente tra l'altro ho aggiornato la pagina
+
+910
+00:56:46,560 --> 00:56:52,720
+podcast, dove ho inserito ovviamente Snap Architettura Imperfetta, ho messo ovviamente Archicad
+
+911
+00:56:52,720 --> 00:56:56,000
+Talks, ma campeggia anche A2 Podcast.
+
+912
+00:56:56,160 --> 00:57:00,240
+Quindi, se visitate il mio sito, potete andare direttamente a vedere la
+
+913
+00:57:00,240 --> 00:57:04,720
+pagina ufficiale di a due podcast.it, questo è il suo indirizzo.
+
+914
+00:57:04,720 --> 00:57:09,360
+Oppure se andate a visitare quello di Archicad Talks, vi rimando al
+
+915
+00:57:09,360 --> 00:57:13,360
+sito in cui ho ospitato Archicad Talks che è spreaker.
+
+916
+00:57:13,520 --> 00:57:17,200
+Invece, per quanto riguarda snap, avete poi tutta una serie di puntate
+
+917
+00:57:17,200 --> 00:57:21,200
+che sono direttamente linkate all'interno del blog.
+
+918
+00:57:21,200 --> 00:57:23,920
+Invece il nostro simpatico Filippo dove lo troviamo?
+
+919
+00:57:23,920 --> 00:57:24,240
+Di bello?
+
+920
+00:57:25,360 --> 00:57:28,160
+Direi che a questo punto ci sentiremo tra due settimane.
+
+921
+00:57:28,160 --> 00:57:28,960
+Alla prossima!
+
+922
+00:57:28,960 --> 00:57:30,400
+Alla prossima!

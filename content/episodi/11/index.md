@@ -11,7 +11,7 @@ tags = ["organizzazione", "iphone"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "U0qduoyDZn8"
 +++
 

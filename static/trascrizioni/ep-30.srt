@@ -1,0 +1,4011 @@
+1
+00:00:00,160 --> 00:00:04,160
+Benvenuti all'episodio 30 di A2, in cui scoprire come ottenere il massimo
+
+2
+00:00:04,160 --> 00:00:05,520
+dalla vostra tecnologia Apple.
+
+3
+00:00:05,520 --> 00:00:09,440
+Io sono Filippo Strozzi e sono il vostro ospite, assieme all'amico Roberto
+
+4
+00:00:09,440 --> 00:00:10,160
+Marin.
+
+5
+00:00:10,160 --> 00:00:12,640
+Di che cosa parliamo in questo episodio, Roberto?
+
+6
+00:00:12,640 --> 00:00:16,800
+Oh, questo episodio parliamo di una cosa interessante, soprattutto che va a
+
+7
+00:00:16,800 --> 00:00:20,800
+raccordare, credo, molti argomenti che abbiamo toccato qui su Adue Podcast.
+
+8
+00:00:20,800 --> 00:00:24,000
+È interessante appunto per questo perché collega tante cose.
+
+9
+00:00:24,000 --> 00:00:28,800
+E il fulcro di questo collegamento è l'iPad, guarda un po', e
+
+10
+00:00:28,800 --> 00:00:31,120
+anche la sua amica Apple Pencil.
+
+11
+00:00:31,200 --> 00:00:35,120
+Vedo già Filippo che sta esultando giustamente perché io sono uno di
+
+12
+00:00:35,120 --> 00:00:40,240
+quelli che era, tra virgolette, l'acerimo nemico di iPad che considerava poco
+
+13
+00:00:40,240 --> 00:00:44,400
+meno di un computer, ma più che altro per questioni logistiche mie
+
+14
+00:00:44,400 --> 00:00:47,760
+di lavoro che non potevo fare diversamente, nel senso, poche cose posso
+
+15
+00:00:47,760 --> 00:00:51,760
+fare io dal punto di vista lavorativo sul computer, ma scusate, sul
+
+16
+00:00:51,760 --> 00:00:52,480
+tablet.
+
+17
+00:00:52,480 --> 00:00:56,800
+Ma c'è da dire che lo chiami computer, lo chiami computer anche
+
+18
+00:00:56,800 --> 00:00:58,080
+se ti sbagli, vedi.
+
+19
+00:00:58,080 --> 00:01:01,760
+Perché stavo pensando appunto che in un prossimo articolo che prima o
+
+20
+00:01:01,760 --> 00:01:08,800
+poi concluderò, stavo appunto dicendo che l'iPad, grazie a questa biforcazione in
+
+21
+00:01:08,800 --> 00:01:12,480
+iPadOS con tutto ciò che è stato inserito all'interno, si avvicina
+
+22
+00:01:12,480 --> 00:01:15,200
+davvero molto pericolosamente ad essere un computer.
+
+23
+00:01:15,200 --> 00:01:20,960
+Fa decisamente molto effetto vedere soprattutto la doc, la parte destra in
+
+24
+00:01:20,960 --> 00:01:25,440
+basso, con tutte le applicazioni che vengono richiamate, sembrano quelle di MacOX.
+
+25
+00:01:25,440 --> 00:01:30,080
+Senza considerare che quando mettete una tastiera e un mouse, ragazzi miei,
+
+26
+00:01:30,080 --> 00:01:32,560
+il richiamo al computer veramente diretto.
+
+27
+00:01:32,560 --> 00:01:36,160
+Quindi bando alle ciance, ne parleremo più avanti di come affrontare la
+
+28
+00:01:36,160 --> 00:01:39,120
+questione delle note con pencil e iPad.
+
+29
+00:01:39,120 --> 00:01:41,040
+E passiamo subito alle richieste.
+
+30
+00:01:41,040 --> 00:01:45,600
+Sì, perché noi abbiamo bisogno di un sostentamento da voi, grandissimi ascoltatori
+
+31
+00:01:45,760 --> 00:01:46,640
+che ci seguite.
+
+32
+00:01:46,640 --> 00:01:50,560
+Chiediamo semplicemente di supportare il podcast facendo una bella recensione su Apple
+
+33
+00:01:50,640 --> 00:01:54,240
+Podcast o dove vi viene comodo, anche su Spotify si dice che
+
+34
+00:01:54,240 --> 00:01:56,160
+si possa lasciare delle recensioni.
+
+35
+00:01:56,240 --> 00:01:59,280
+Quindi, se volete, potete farlo anche lì, noi ringraziamo comunque.
+
+36
+00:01:59,400 --> 00:02:03,160
+E in questa fase iniziale, come sempre, le recensioni, oltre a permetterci
+
+37
+00:02:03,160 --> 00:02:07,000
+di capire cosa ne pensate, ci aiutano anche a farci conoscere e
+
+38
+00:02:07,000 --> 00:02:08,600
+quindi divulgare come si dice.
+
+39
+00:02:08,600 --> 00:02:13,720
+Io e Filippo siamo due divulgatori, come giustamente prima sottolineato in Sede
+
+40
+00:02:13,720 --> 00:02:15,800
+Separata, il mio amico Filippo Strozzi.
+
+41
+00:02:15,800 --> 00:02:20,040
+E se volete sapere come fare una recensione, troverete, come sempre, il
+
+42
+00:02:20,040 --> 00:02:21,480
+link nelle note della puntata.
+
+43
+00:02:21,560 --> 00:02:26,040
+Se invece volete scrivere due parole, chiederci degli argomenti specifici, avete dei
+
+44
+00:02:26,040 --> 00:02:29,800
+problemi o quant'altro, anche basta un saluto, c'è una bella email che
+
+45
+00:02:29,800 --> 00:02:31,080
+si chiama Scrivi.
+
+46
+00:02:31,560 --> 00:02:33,720
+Chiocciola a due podcast.it.
+
+47
+00:02:33,800 --> 00:02:35,160
+Hai visto la chiocciola?
+
+48
+00:02:35,160 --> 00:02:35,720
+Bella
+
+49
+00:02:38,040 --> 00:02:41,800
+bellissima, una bellissima chiocciola a forma di chiocciola.
+
+50
+00:02:41,800 --> 00:02:46,520
+Allora, dunque, caro mio Filippo, parliamo di prendere le note con iPad
+
+51
+00:02:47,000 --> 00:02:50,040
+e ovviamente con Apple Pencil, che è la morte sua.
+
+52
+00:02:50,360 --> 00:02:51,480
+Come si dice?
+
+53
+00:02:51,480 --> 00:02:56,440
+Come giustamente mai fatto notare, fai facile dire Apple Pencil, ma in
+
+54
+00:02:56,440 --> 00:02:59,400
+realtà ce ne sono almeno due di Apple Pencil in giro per
+
+55
+00:02:59,400 --> 00:02:59,960
+il mondo.
+
+56
+00:02:59,960 --> 00:03:04,680
+Io ho avuto il piacere di conoscerlo nel 2008, mi pare che
+
+57
+00:03:04,680 --> 00:03:06,680
+fosse il primo iPad Pro.
+
+58
+00:03:06,680 --> 00:03:07,720
+Prima?
+
+59
+00:03:07,720 --> 00:03:08,360
+Ti ricordi?
+
+60
+00:03:08,360 --> 00:03:10,920
+No, allora è il mio primo iPad Pro, che è il primo
+
+61
+00:03:10,920 --> 00:03:12,760
+anche iPad Pro del 2015
+
+62
+00:03:14,440 --> 00:03:14,760
+.
+
+63
+00:03:14,760 --> 00:03:18,280
+Assieme al primo iPad Pro c'era anche la prima Apple Pencil.
+
+64
+00:03:18,280 --> 00:03:18,600
+Quindi
+
+65
+00:03:19,880 --> 00:03:22,760
+ormai parliamo di uno strumento che ha 7 anni.
+
+66
+00:03:22,760 --> 00:03:25,240
+Esatto, uno strumento che a sette anni mi ricordo il primo giorno
+
+67
+00:03:25,240 --> 00:03:28,920
+che l'ho provata, ero molto curioso di questo nuovo hardware.
+
+68
+00:03:28,920 --> 00:03:33,960
+Sono andato direttamente in un Apple Store, l'ho provato ed era qualcosa
+
+69
+00:03:33,960 --> 00:03:34,680
+di fenomenale.
+
+70
+00:03:34,680 --> 00:03:40,520
+Perché io ero fermo, diciamo, alle tavolette grafiche e al dannatissimo lag
+
+71
+00:03:40,600 --> 00:03:44,840
+tra la penna e la tavoletta grafica, che quindi dava poi il
+
+72
+00:03:45,040 --> 00:03:48,560
+risultato sul computer, io lo odiavo veramente, non riuscivo a usare le
+
+73
+00:03:48,560 --> 00:03:52,800
+tavolette grafiche per problema di questo lag perché io scrivevo e poi
+
+74
+00:03:52,800 --> 00:03:56,880
+passava una frazione di secondo, ma sembrava veramente eterno quel caso.
+
+75
+00:03:57,040 --> 00:04:02,240
+E invece, usando l'iPad della Pencil, sono rimasto veramente stupefatto perché era
+
+76
+00:04:02,240 --> 00:04:05,760
+veramente come scrivere su uno schermo di vetro, incredibile.
+
+77
+00:04:05,760 --> 00:04:10,240
+Cosa molto che mi ha toccato nel profondo, tant'è che avevo anche
+
+78
+00:04:10,240 --> 00:04:15,120
+scritto un articolo finalmente con Apple Pencil intorno alla matita all'architetto, perché
+
+79
+00:04:15,280 --> 00:04:19,840
+già prefiguravo, già all'epoca, una nascita di una serie di applicazioni che
+
+80
+00:04:19,840 --> 00:04:24,000
+avrebbero permesso all'architetto di utilizzare solo l'iPad.
+
+81
+00:04:24,000 --> 00:04:27,520
+Purtroppo sono stato smentito dalla storia, per ora non è così.
+
+82
+00:04:27,520 --> 00:04:32,000
+Purtroppo lo dico veramente con rammarico perché le possibilità ci sono anche
+
+83
+00:04:32,000 --> 00:04:36,720
+grazie a Sidecar, ma non vengono sfruttate penso dagli sviluppatori.
+
+84
+00:04:36,720 --> 00:04:41,040
+Non hanno questa, diciamo, non dico lungimiranza, forse voglia di sviluppare in
+
+85
+00:04:41,040 --> 00:04:41,840
+questo senso.
+
+86
+00:04:41,840 --> 00:04:45,600
+Ma dal mio punto di vista trovo che in alcune applicazioni vedo
+
+87
+00:04:45,600 --> 00:04:50,320
+che Pensi non è considerata come uno strumento di input principale.
+
+88
+00:04:50,320 --> 00:04:53,440
+E questo è un errore, soprattutto dal punto di vista grafico.
+
+89
+00:04:53,440 --> 00:04:56,880
+Ci sono fior fiori di applicazioni che permettono di fare il disegno
+
+90
+00:04:56,880 --> 00:05:00,800
+digitale che sono molto valide, però tante altre lasciano un po' il
+
+91
+00:05:00,800 --> 00:05:01,760
+tempo che trovo.
+
+92
+00:05:01,760 --> 00:05:03,200
+Faccio un esempio stupido.
+
+93
+00:05:03,200 --> 00:05:06,480
+Se si va fuori dalla grafica, ad esempio, anche con Notion, che
+
+94
+00:05:06,480 --> 00:05:09,280
+è la prima applicazione che mi viene in mente, che non tratta
+
+95
+00:05:09,280 --> 00:05:14,480
+di grafica, ma parla di testo, quindi dovrebbe essere incentrato su questo.
+
+96
+00:05:14,480 --> 00:05:18,800
+Usare solo pensile è molto molto difficile perché sì che si può
+
+97
+00:05:18,960 --> 00:05:24,480
+sfruttare molte possibilità che permette pensil, ma diventa difficile muoversi tra una
+
+98
+00:05:24,480 --> 00:05:30,600
+pagina, scorrere, muovere del testo, perché appunto non c'è stata abbastanza attenzione
+
+99
+00:05:30,600 --> 00:05:31,640
+in questo senso.
+
+100
+00:05:31,640 --> 00:05:35,960
+E quindi questa qui è una panoramica di quello che ho visto
+
+101
+00:05:29,840 --> 00:05:36,120
+io.
+
+102
+00:05:36,280 --> 00:05:37,480
+Tu cosa ne pensi, Filippo?
+
+103
+00:05:37,560 --> 00:05:41,880
+Tu consideri che Notion credo sia un app Electron e quindi come
+
+104
+00:05:41,880 --> 00:05:46,040
+tale non funziona minimamente con il sistema operativo, che è il problema,
+
+105
+00:05:46,040 --> 00:05:48,280
+secondo me, di fondo di tutte queste applicazioni.
+
+106
+00:05:48,280 --> 00:05:53,240
+Il problema, diciamo che le applicazioni pensate a Apple Pencil comunque che
+
+107
+00:05:53,240 --> 00:05:57,880
+utilizzano le api di Apple Pencil sono funzionano bene.
+
+108
+00:05:57,880 --> 00:06:03,160
+Io adesso, giusto per fare degli esempi, io utilizzo Procreate che è
+
+109
+00:06:03,160 --> 00:06:08,920
+un'ottima applicazione di disegno, assolutamente, proprio a mano libera e così via,
+
+110
+00:06:08,920 --> 00:06:11,960
+anche se poi si possono fare delle cose anche carine a livello
+
+111
+00:06:11,960 --> 00:06:14,040
+prospettico con tutto il sistema.
+
+112
+00:06:14,280 --> 00:06:17,400
+Ho utilizzato Clip Studio Paint che è molto bellino.
+
+113
+00:06:17,400 --> 00:06:17,720
+Anche se
+
+114
+00:06:18,760 --> 00:06:24,360
+per disegnare fumetti, ecco, perché ricordiamo che il nostro Filippo comunque ha
+
+115
+00:06:24,360 --> 00:06:27,800
+la manina, diciamo, fortunata di quelle che disegnano bene.
+
+116
+00:06:27,800 --> 00:06:31,160
+E quindi è uno dei risvolti che ha Filippo che non pubblicizza
+
+117
+00:06:31,320 --> 00:06:35,640
+molto, mannaggia lui, ma ha una bella mano visto i suoi disegni:
+
+118
+00:06:35,640 --> 00:06:36,280
+una vita passata
+
+119
+00:06:37,400 --> 00:06:42,440
+fa, ma dovresti iniziare un po' a riprendere, a dare un po'
+
+120
+00:06:42,600 --> 00:06:46,200
+sfogo, ci vuole tempo, che non c'è ancora, quando i figli crescono
+
+121
+00:06:46,440 --> 00:06:46,920
+casomai.
+
+122
+00:06:47,000 --> 00:06:50,280
+Comunque, per esempio, mi sono accorto e devo dire la verità: una
+
+123
+00:06:50,280 --> 00:06:51,160
+cosa recente.
+
+124
+00:06:51,160 --> 00:06:54,360
+Poi, vabbè, io sono alla beta quindi non garantisco che sia che
+
+125
+00:06:54,520 --> 00:06:56,920
+ci sia, ma sono abbastanza convinto che ci sia.
+
+126
+00:06:56,920 --> 00:07:00,920
+Per esempio, anche My Node, che è una delle applicazioni che comunque
+
+127
+00:07:00,920 --> 00:07:05,000
+utilizza meglio la tecnologia Apple, chiamiamola così, tra le varie applicazioni che
+
+128
+00:07:05,000 --> 00:07:09,800
+utilizzo io tenendo a precisare, ha la possibilità, per esempio, abbastanza nascosta,
+
+129
+00:07:09,880 --> 00:07:13,520
+diciamo, perché io l'ho scoperta, cosa te l'ho detto?
+
+130
+00:07:13,920 --> 00:07:15,840
+Una o due settimane fa?
+
+131
+00:07:16,080 --> 00:07:20,240
+Ma addirittura non si possono fare in senso tecnico le mappe mentali
+
+132
+00:07:20,240 --> 00:07:25,120
+disegnate, ma si possono inserire dei disegni fatti mentre si fa la
+
+133
+00:07:25,120 --> 00:07:28,000
+mappa mentale all'interno di MyNode.
+
+134
+00:07:28,000 --> 00:07:33,120
+Quindi anche qui e questo sono, diciamo, il sistema tipico di Apple,
+
+135
+00:07:33,120 --> 00:07:36,080
+cioè utilizza appunto le api per gestire
+
+136
+00:07:37,120 --> 00:07:41,840
+l'Apple Pencil, che poi adesso lo vedremo pian pianino, sono le stesse
+
+137
+00:07:41,840 --> 00:07:47,520
+api che funzionano poi per note di fatto, se l'applicazione Ter accede
+
+138
+00:07:47,520 --> 00:07:52,800
+a questi strumenti, in pratica qualsiasi applicazione può utilizzare tutte quelle che
+
+139
+00:07:52,800 --> 00:07:57,040
+sono le funzioni che ha anche note, che diventa molto interessante, soprattutto
+
+140
+00:07:57,280 --> 00:07:59,040
+se chiamiamole così ibride.
+
+141
+00:07:59,040 --> 00:08:03,200
+Poi adesso vedremo un attimo che nell'ultimo periodo ecco quello non ho
+
+142
+00:08:03,200 --> 00:08:04,320
+fatto il controllo.
+
+143
+00:08:04,320 --> 00:08:07,040
+Casomai mentre ne parliamo, poi cerchiamo.
+
+144
+00:08:07,040 --> 00:08:11,920
+L'ultima funzione veramente interessante che è Scribble, ti permette di scrivere, cioè
+
+145
+00:08:12,160 --> 00:08:18,240
+del conoscimento del testo mentre scrivi con l'Apple Pencil nell'interfaccia invece grafica
+
+146
+00:08:18,240 --> 00:08:21,280
+di iPadOS, che è molto interessante.
+
+147
+00:08:21,280 --> 00:08:27,280
+Anche qui ritengo non particolarmente comoda dal mio punto di vista, però
+
+148
+00:08:27,280 --> 00:08:32,800
+diciamo che per alcune cose, per esempio, quando faccio editing del podcast,
+
+149
+00:08:32,800 --> 00:08:38,000
+appunto conferite utilizzando l'Happy Pencil, e ogni tanto devo fare i capitoli.
+
+150
+00:08:38,000 --> 00:08:42,320
+Quando li faccio e faccio un errore, utilizzo spesso volentieri l'Epple Pencil
+
+151
+00:08:42,320 --> 00:08:44,960
+per cancellare il testo che ho scritto non correttamente.
+
+152
+00:08:44,960 --> 00:08:52,000
+Insomma, effettivamente su una gestione ibrida, chiamiamola così, dei contenuti, l'iPad e
+
+153
+00:08:52,000 --> 00:08:58,000
+la Pencil sono diventate uno strumento molto interessante, secondo me, quantomeno da
+
+154
+00:08:58,000 --> 00:08:58,560
+conoscere.
+
+155
+00:08:58,560 --> 00:09:02,280
+Poi questo uso da un certo punto di vista, perché comunque l'Apple
+
+156
+00:09:02,360 --> 00:09:08,360
+Pencil adesso lo anticipiamo velocemente, ma credo sono 110 euro per quella
+
+157
+00:09:08,360 --> 00:09:13,320
+di prima generazione e 150 per quella di seconda.
+
+158
+00:09:13,480 --> 00:09:17,320
+C'è da dire che sì, il prezzo del lizzettino sarebbe quello, ma
+
+159
+00:09:17,320 --> 00:09:21,880
+si trovano delle ottime occasioni su Amazon, neanche nell'usato, nel senso, ho
+
+160
+00:09:21,880 --> 00:09:28,920
+visto Apple Pencil vendute 90 euro nella prima generazione e nell'usato nell'Amazon
+
+161
+00:09:28,920 --> 00:09:30,520
+Warehouse sono 70 euro.
+
+162
+00:09:30,520 --> 00:09:31,960
+L'ho visto il minimo che ho visto.
+
+163
+00:09:31,960 --> 00:09:33,880
+Comunque è un prezzo di un certo tipo.
+
+164
+00:09:33,880 --> 00:09:37,880
+Se considerate che l'iPad base costa 350 euro giù di lì.
+
+165
+00:09:37,880 --> 00:09:43,560
+Quindi, comunque è un terzo dell'iPad, tra virgolette, si esatto, un quinto
+
+166
+00:09:43,800 --> 00:09:45,160
+quello piccolo, ovviamente.
+
+167
+00:09:45,160 --> 00:09:45,880
+No, un terzo.
+
+168
+00:09:45,880 --> 00:09:47,720
+Ah, no, perché i sopra stanno da 70 euro.
+
+169
+00:09:47,720 --> 00:09:49,240
+Se tu parli da 110, certo,
+
+170
+00:09:50,360 --> 00:09:53,480
+io parlo dei prezzi e di listino, poi dopo è ovvio che
+
+171
+00:09:53,720 --> 00:09:56,360
+se trovi l'offerta, sono d'accordo con te.
+
+172
+00:09:56,360 --> 00:10:00,280
+È altrettanto vero, però, che dal mio punto di vista, forse sì,
+
+173
+00:10:00,280 --> 00:10:05,400
+adesso che si utilizza il mouse, è molto più facile utilizzare iPad
+
+174
+00:10:05,720 --> 00:10:07,320
+OS col mouse.
+
+175
+00:10:07,320 --> 00:10:13,000
+Però, se uno dovesse utilizzare l'iPad da solo, è molto limitato, nel
+
+176
+00:10:13,000 --> 00:10:17,560
+senso che tante cose non riesci a farle perché con un dispositivo
+
+177
+00:10:17,560 --> 00:10:21,800
+come la Pencil, anche solo quello senza tastiera e mouse ti cambia
+
+178
+00:10:21,800 --> 00:10:23,880
+veramente la vita obiettivamente su un iPad.
+
+179
+00:10:23,960 --> 00:10:26,200
+Io devo dire la verità: la mia configurazione
+
+180
+00:10:27,720 --> 00:10:33,320
+non base, ma comunque il mio iPad Pro, nella sostanza, è strutturato
+
+181
+00:10:33,320 --> 00:10:38,280
+con Apple Pencil sempre attaccata magneticamente, la versione 2, ovviamente.
+
+182
+00:10:38,840 --> 00:10:42,680
+Questo è forse un po' di più, cioè si potrebbe fare con
+
+183
+00:10:42,680 --> 00:10:43,200
+meno.
+
+184
+00:10:43,200 --> 00:10:48,560
+Tuttavia la tastiera Apple non la Magic la Magic, ma quella originale,
+
+185
+00:10:48,560 --> 00:10:52,640
+cioè senza il mouse che fa anche da cover, e che rispetto
+
+186
+00:10:52,640 --> 00:10:57,840
+alla Magic Key, in pratica è anche più leggera e più maneggevole,
+
+187
+00:10:57,840 --> 00:11:02,640
+chiamiamola così, perché in estrema sintesi la Magic Keyboard di cui non
+
+188
+00:11:02,640 --> 00:11:05,520
+parleremo più di tanto in questo episodio, però
+
+189
+00:11:06,720 --> 00:11:08,000
+non si apre totalmente.
+
+190
+00:11:08,480 --> 00:11:13,200
+L'iPad può essere utilizzato come laptop, come portatile, ma non di più,
+
+191
+00:11:13,200 --> 00:11:14,320
+mettiamola così.
+
+192
+00:11:14,640 --> 00:11:18,480
+Quindi io trovo che alla fine invece con gli agganci magnetici e
+
+193
+00:11:18,480 --> 00:11:22,960
+così via, per utilizzare la pencil, diciamo direttamente sullo schermo, con la
+
+194
+00:11:22,960 --> 00:11:27,600
+tastiera, faccio l'editing di questo podcast, viene fatto esattamente in questa maniera:
+
+195
+00:11:27,600 --> 00:11:31,280
+cioè con la tastiera che mi permette di utilizzare le scorsatoia.
+
+196
+00:11:31,280 --> 00:11:35,200
+La tastiera del programma di editing che utilizzo, e la pencil invece
+
+197
+00:11:35,200 --> 00:11:40,960
+per fare i tagli e cancellare sostanzialmente i nostri errori, soprattutto non
+
+198
+00:11:40,960 --> 00:11:45,760
+facciamo mai, faccio tutti io devi cancellare tutti i miei errori.
+
+199
+00:11:46,000 --> 00:11:49,760
+In ogni caso è molto interessante quella della peli, come hai tirato
+
+200
+00:11:49,760 --> 00:11:51,360
+fuori tu l'argomento.
+
+201
+00:11:51,360 --> 00:11:56,080
+C'è una prima generazione e una seconda generazione, le differenze sono sostanziali,
+
+202
+00:11:56,080 --> 00:11:57,680
+obiettivamente bisogna dirlo.
+
+203
+00:11:57,680 --> 00:12:02,080
+La prima, appunto, come dicevi, la partenza è il metodo di ricarica.
+
+204
+00:12:02,080 --> 00:12:05,280
+Si sono svegliati quelli di Apple, e hanno deciso che forse era
+
+205
+00:12:05,280 --> 00:12:09,200
+il caso di utilizzare l'induzione magnetica e così l'hanno utilizzata per la
+
+206
+00:12:09,200 --> 00:12:14,240
+seconda generazione, mentre la prima generazione, quando è uscita, ha fatto veramente
+
+207
+00:12:14,240 --> 00:12:15,840
+mettere le mani nei capelli.
+
+208
+00:12:15,840 --> 00:12:18,960
+Penso a tutti quanti e ci sarà anche qualcuno che penso che
+
+209
+00:12:18,960 --> 00:12:20,000
+abbia perso il posto.
+
+210
+00:12:20,000 --> 00:12:24,960
+Perché la prima iterazione, che era quella del 2015 che abbiamo ricordato,
+
+211
+00:12:24,960 --> 00:12:29,360
+per ricaricare la pensi, c'era solo un metodo, ovvero togliere il cappuccio
+
+212
+00:12:29,360 --> 00:12:35,320
+dalla parte posteriore della Pencil e infilarla nell'iPad, nella porta USB C
+
+213
+00:12:35,320 --> 00:12:37,960
+dell'iPad Lighting, era lighting,
+
+214
+00:12:41,240 --> 00:12:41,640
+tuttora.
+
+215
+00:12:41,720 --> 00:12:43,320
+Io ero già oltre.
+
+216
+00:12:43,320 --> 00:12:47,160
+Comunque in ogni caso, fatto sta che ti trovavi praticamente un mega
+
+217
+00:12:47,160 --> 00:12:49,240
+lecca lecca essenzialmente.
+
+218
+00:12:49,560 --> 00:12:55,080
+Esatto, sei stato molto bravo, molto politically correct.
+
+219
+00:12:55,080 --> 00:12:58,360
+Soltanto che io avrei avuto un po' paura perché lì è un
+
+220
+00:12:58,360 --> 00:13:02,360
+po' fragile l'attacco della pencil con il tablet.
+
+221
+00:13:02,360 --> 00:13:07,560
+Allora, diciamo, non so se nella tua versione, ma nella mia originale
+
+222
+00:13:07,800 --> 00:13:13,480
+c'è un adattatore, perché teoricamente, l'altra soluzione era quella di un adattatore
+
+223
+00:13:13,720 --> 00:13:19,240
+femmina, femmina, sostanzialmente, che ti permette di collegarlo invece a un cavo
+
+224
+00:13:19,400 --> 00:13:24,280
+Lightning e fare la ricarica, diciamo, in quella maniera esatto.
+
+225
+00:13:24,440 --> 00:13:30,120
+Oggettivamente la comunità dell'Apple Pencil è in quella maniera lì, cioè collegare
+
+226
+00:13:30,280 --> 00:13:36,040
+l'iPad attraverso il Lightning con questo con l'Apple Pencil che pericolosamente, tra
+
+227
+00:13:36,040 --> 00:13:40,520
+l'altro, spunta dalla parte finale dell'iPad.
+
+228
+00:13:40,520 --> 00:13:45,080
+Tuttavia, devo dire, come prima iterazione, so che tu non la apprezzi,
+
+229
+00:13:45,080 --> 00:13:49,560
+ma come primissima itazione è secondo me stata una bella soluzione, cioè
+
+230
+00:13:49,640 --> 00:13:52,680
+nel senso è una soluzione di compromesso evidentemente.
+
+231
+00:13:52,680 --> 00:13:56,440
+Tuttavia la pencil tonda, che è molto carina.
+
+232
+00:13:56,440 --> 00:13:59,640
+E ovviamente Apple ha fatto tutta una serie di cose per cui
+
+233
+00:13:59,640 --> 00:14:02,680
+è bilanciata, per cui non rotola in giro.
+
+234
+00:14:02,680 --> 00:14:06,680
+Insomma, hanno fatto tutta una serie di cose molto interessanti e hanno
+
+235
+00:14:06,680 --> 00:14:11,080
+ottenuto uno strumento veramente valido anche perché va da memoria, ma secondo
+
+236
+00:14:11,080 --> 00:14:15,760
+me è caricata per 30 secondi, ti dava tipo un'ora di autonomia
+
+237
+00:14:14,760 --> 00:14:16,560
+della pencil.
+
+238
+00:14:16,800 --> 00:14:21,120
+Quindi, anche in questo caso molto semplice e molto utile, io ho
+
+239
+00:14:21,120 --> 00:14:25,600
+bisogno di utilizzare la pencil, aspetto solo 30 secondi, eventualmente un minuto,
+
+240
+00:14:25,600 --> 00:14:29,360
+è una ricarica che mi permette di fare delle sessioni di disegno
+
+241
+00:14:29,600 --> 00:14:32,000
+anche abbastanza avanzate.
+
+242
+00:14:32,000 --> 00:14:37,920
+In più, sempre con quello sistema qui c'era il pairing, cioè la
+
+243
+00:14:37,920 --> 00:14:42,240
+comodità, diciamo, delle Apple Pencil è che tra virgolette, io la posso
+
+244
+00:14:42,240 --> 00:14:47,600
+spostare da un iPad all'altro semplicemente collegandola all'iPad attraverso la punta Lightning
+
+245
+00:14:48,560 --> 00:14:50,800
+dell'Epple Pencil delle iPad.
+
+246
+00:14:50,800 --> 00:14:57,680
+Quindi è vero, esteticamente, aveva delle limitazioni, chiamiamole così, ma sicuramente come
+
+247
+00:14:57,680 --> 00:15:04,320
+prima iterazione, come primo prodotto vendibile, effettivamente era un bel prodotto, e
+
+248
+00:15:04,320 --> 00:15:05,040
+tutti hanno.
+
+249
+00:15:05,040 --> 00:15:09,760
+Cioè, io per primo, devo dire la verità, ho sempre considerato ottima
+
+250
+00:15:09,760 --> 00:15:13,520
+questa soluzione perché effettivamente era una bella soluzione.
+
+251
+00:15:13,520 --> 00:15:19,120
+La seconda versione, che invece è direi il prodotto completo e finito.
+
+252
+00:15:19,120 --> 00:15:24,960
+Poi adesso vedremo se uscirà una terza generazione dell'Apple Pencil.
+
+253
+00:15:24,960 --> 00:15:30,720
+Dubito perché veramente con la versione 2, credo siamo arrivati alla soluzione.
+
+254
+00:15:30,720 --> 00:15:35,760
+Non dico perfetta, ma comunque più ergonomica, più semplice, più utile da
+
+255
+00:15:35,760 --> 00:15:40,720
+utilizzare, invece, non ha più questo meccanismo meraviglioso di collegamento.
+
+256
+00:15:40,720 --> 00:15:46,960
+Ma si, come spesso fa Apple, utilizza dei magneti per collegarsi magneticamente
+
+257
+00:15:46,960 --> 00:15:51,840
+al lato dell'iPad Pro e si ricarica ovviamente wireless.
+
+258
+00:15:52,160 --> 00:15:57,360
+Devo dire la verità: in questa maniera, in pratica, hai sempre l'Apple
+
+259
+00:15:57,440 --> 00:16:01,800
+Pencil a carica, e io devo dire la verità: la comodità vera
+
+260
+00:16:01,800 --> 00:16:06,280
+è che l'aggancio magnetico vuol dire, se non sei in movimento, di
+
+261
+00:16:06,280 --> 00:16:12,760
+poter portare sempre appresso la pencil, averla al momento del bisogno, quando
+
+262
+00:16:12,760 --> 00:16:13,160
+più.
+
+263
+00:16:13,160 --> 00:16:16,440
+Io spesso volentieri giro per casa con la pencil attaccata al mio
+
+264
+00:16:16,440 --> 00:16:21,880
+iPad Pro e l'utilizzo quando mi serve, però senza dovere, anche perché
+
+265
+00:16:21,960 --> 00:16:24,280
+se hai la pencil dall'altra parte, non la usi.
+
+266
+00:16:24,280 --> 00:16:29,560
+Certo, a proposito, appunto della prima generazione, devo dire che non essendo
+
+267
+00:16:29,800 --> 00:16:33,880
+all'inizio utilizzatore di iPad con pencil, nel senso che io ero fermo
+
+268
+00:16:33,880 --> 00:16:39,400
+all'iPad Air prima generazione, quindi un sacco di anni fa, non ho
+
+269
+00:16:39,400 --> 00:16:42,760
+mai utilizzato la Pencil e mai ho seguito da vicino la questione.
+
+270
+00:16:42,760 --> 00:16:46,120
+Sapevo soltanto della questione della lecca lecca, per intenderci.
+
+271
+00:16:46,120 --> 00:16:48,920
+Ma nel momento in cui sono riuscito ad arrivare a avere una
+
+272
+00:16:48,920 --> 00:16:55,160
+Pencil io e a vedere effettivamente la questione dell'adattatore femmina femmina, a
+
+273
+00:16:55,160 --> 00:16:59,560
+me a quel punto è diventato subito chiaro che la questione dell'attacco
+
+274
+00:16:59,560 --> 00:17:03,480
+a forma di lecca lecca era semplicemente una questione che se hai
+
+275
+00:17:03,480 --> 00:17:05,480
+bisogno, puoi ricaricarla così.
+
+276
+00:17:05,480 --> 00:17:08,840
+Ma non è la questione principale come pensavo fosse.
+
+277
+00:17:08,840 --> 00:17:12,120
+Con questo tipo di adattatore è chiaro che nel momento in cui
+
+278
+00:17:12,120 --> 00:17:17,640
+tu hai un iPad recente, puoi usare direttamente il caricatore dell'iPad perché
+
+279
+00:17:17,640 --> 00:17:19,160
+hanno la stessa porta essenzialmente.
+
+280
+00:17:19,240 --> 00:17:22,200
+Quindi tu con l'adattatore risolvi tutto quanto.
+
+281
+00:17:22,200 --> 00:17:26,920
+E secondo me fatta così, vista in questo senso, ha una giusta
+
+282
+00:17:26,920 --> 00:17:30,760
+funzione, perché, come dicevi tu, è una ricarica di fortuna, quella attaccata
+
+283
+00:17:30,760 --> 00:17:31,400
+all'iPad.
+
+284
+00:17:31,400 --> 00:17:34,840
+Non è bellissima, però è intanto la ricarica e ci mette 30
+
+285
+00:17:34,840 --> 00:17:35,800
+secondi per un'ora.
+
+286
+00:17:35,800 --> 00:17:39,160
+Diciamo il vero problema di tutta questa vicenda è che quel pirullino
+
+287
+00:17:39,160 --> 00:17:42,200
+lì che io non l'ho mai usato, devo dire la verità.
+
+288
+00:17:42,200 --> 00:17:47,200
+E alla fine, quando è troppo comodo, staccare il tappino e attaccarlo
+
+289
+00:17:47,280 --> 00:17:51,360
+per la ricarica e fare le tue cose, e poi riattaccare il
+
+290
+00:17:51,520 --> 00:17:54,480
+cappuccio, chiamiamolo così, e disegnare.
+
+291
+00:17:54,480 --> 00:17:57,760
+Per come strutturata la vicenda, quella che dovrebbe essere la soluzione di
+
+292
+00:17:57,760 --> 00:17:59,520
+fortuna, diventa poi la soluzione principale.
+
+293
+00:18:00,160 --> 00:18:03,840
+Ma io ti dirò personalmente non lo uso quasi mai quello di
+
+294
+00:18:03,840 --> 00:18:04,960
+attaccarlo al tablet.
+
+295
+00:18:05,840 --> 00:18:06,560
+Sai perché?
+
+296
+00:18:06,560 --> 00:18:09,920
+Perché io vedo questo tipo di soluzione quando sei in mobilità, quando
+
+297
+00:18:09,920 --> 00:18:11,680
+sei fuori, non hai una presa.
+
+298
+00:18:11,680 --> 00:18:16,080
+Se tu sei in casa, hai il caricatore e quindi tendenzialmente cosa
+
+299
+00:18:16,080 --> 00:18:16,320
+fai?
+
+300
+00:18:16,320 --> 00:18:19,360
+La prendi la attacchi lì al caricatore e boh, non ci pensi
+
+301
+00:18:19,360 --> 00:18:19,760
+più.
+
+302
+00:18:20,160 --> 00:18:22,880
+No, io devo dirti la verità, mai fatto in vita mia con
+
+303
+00:18:22,880 --> 00:18:24,720
+quello e il caricatore non l'ho mai usato.
+
+304
+00:18:24,720 --> 00:18:27,680
+Ma io sì, sì, a me viene comodo perché diciamo che la
+
+305
+00:18:27,680 --> 00:18:28,720
+carica è infinita.
+
+306
+00:18:28,720 --> 00:18:32,480
+Quindi capita che essenzialmente cosa succede, che ho l'iPad scarico verso la
+
+307
+00:18:32,480 --> 00:18:36,080
+fine settimana e descarico uno e scarico l'altro e li metto in
+
+308
+00:18:36,080 --> 00:18:37,280
+carica tutti e due, semplicemente.
+
+309
+00:18:37,280 --> 00:18:39,680
+Quindi mi veniva comodo in questo senso.
+
+310
+00:18:39,680 --> 00:18:45,120
+E quindi secondo me l'ideologia di questo caricamento era questo qua.
+
+311
+00:18:45,120 --> 00:18:49,360
+Ma non vorrei sbagliarmi, magari è solo un utilizzo mio personale che
+
+312
+00:18:49,360 --> 00:18:49,840
+faccio.
+
+313
+00:18:49,840 --> 00:18:54,480
+Tuttavia sicuramente avere la possibilità di caricarlo al volo senza induzione magnetica
+
+314
+00:18:54,560 --> 00:18:56,640
+così col tablet è un grosso aiuto.
+
+315
+00:18:56,720 --> 00:18:56,960
+Sì.
+
+316
+00:18:57,040 --> 00:19:00,240
+Ecco una particolarità da utilizzatore della prima ora.
+
+317
+00:19:00,240 --> 00:19:05,200
+Segnamo una cosa particolare se utilizzate la pencil di prima generazione.
+
+318
+00:19:05,200 --> 00:19:10,160
+Attenzione, perché una volta che è collegata l'iPad, siccome adesso non abbiamo
+
+319
+00:19:10,160 --> 00:19:14,560
+parlato in dettaglio, anche perché non so esattamente come funziona perfettamente, ma
+
+320
+00:19:14,720 --> 00:19:18,960
+sicuramente utilizza il Bluetooth e quindi in estrema sintesi il pairing lo
+
+321
+00:19:18,960 --> 00:19:21,840
+fa attraverso il collegamento con Lightning.
+
+322
+00:19:22,080 --> 00:19:26,160
+Ma una volta che è legata al vostro iPad, se non si
+
+323
+00:19:26,160 --> 00:19:32,440
+allontana molto, cioè quel 3-4 metri, secondo me, dall'iPad, il pairing rimane
+
+324
+00:19:29,520 --> 00:19:36,600
+e quindi vi ciucia, tra virgolette, la batteria della Pencil.
+
+325
+00:19:36,840 --> 00:19:41,240
+È una cosa che avevo notato è che per, diciamo, metterla in
+
+326
+00:19:41,240 --> 00:19:43,320
+modalità chiamiamola così riposo.
+
+327
+00:19:43,320 --> 00:19:46,120
+All'epoca è perché ormai io non la uso più da tanto tempo,
+
+328
+00:19:46,120 --> 00:19:49,640
+per cui garantisco che nel mentre abbiano fatto qualche aggiornamento di qualche
+
+329
+00:19:49,640 --> 00:19:50,040
+tipo.
+
+330
+00:19:50,040 --> 00:19:54,680
+Tuttavia, se la tenete, diciamo, con una cover, per esempio, vicina all'iPad,
+
+331
+00:19:54,680 --> 00:19:57,640
+attenzione, perché rimarrà collegata.
+
+332
+00:19:57,960 --> 00:20:02,920
+Ovviamente, l'iPad abitualmente ha una batteria tale per cui non sente più
+
+333
+00:20:02,920 --> 00:20:04,440
+di tanto il problema.
+
+334
+00:20:04,440 --> 00:20:09,000
+Ma la pencil, soprattutto se è mezza scarica, può perdere in qualche
+
+335
+00:20:09,000 --> 00:20:13,400
+giorno che non lo utilizzate, può perdere invece sensibilmente la carica.
+
+336
+00:20:13,400 --> 00:20:15,000
+Stavo controllando adesso.
+
+337
+00:20:15,000 --> 00:20:18,920
+Hanno introdotto qualcosa di particolare perché essenzialmente cosa succede?
+
+338
+00:20:18,920 --> 00:20:21,240
+Se tu hai, e ho fatto la prova adesso, se tu hai
+
+339
+00:20:21,240 --> 00:20:26,280
+il tablet chiuso con la cover, la pencil non viene rilevata e
+
+340
+00:20:26,280 --> 00:20:27,960
+quindi rimane in stand by.
+
+341
+00:20:27,960 --> 00:20:30,920
+Nel momento in cui tu apri la cover, questa guardavo appunto il
+
+342
+00:20:31,000 --> 00:20:32,360
+rilevamento delle batterie.
+
+343
+00:20:32,360 --> 00:20:35,240
+Quando apri la cover, allora si la vede anche se non la
+
+344
+00:20:35,240 --> 00:20:36,280
+stai usando.
+
+345
+00:20:36,280 --> 00:20:38,680
+Quindi se lì di fianco, come la uso io, io ho una
+
+346
+00:20:38,680 --> 00:20:42,520
+cover, diciamo vecchio stile dove invece di avere l'attacco magnetico hai la
+
+347
+00:20:42,520 --> 00:20:45,720
+possibilità di inserirlo sul lato sinistro, lo metti lì.
+
+348
+00:20:45,720 --> 00:20:49,240
+E in effetti è vero, solo quando è chiuso, anche la Pencil
+
+349
+00:20:49,240 --> 00:20:50,040
+si spegne.
+
+350
+00:20:50,040 --> 00:20:52,040
+Si spegne il tablet e la Pencil.
+
+351
+00:20:52,040 --> 00:20:55,080
+Invece, quando apri la cover, in effetti, come dici tu, si ciuccia
+
+352
+00:20:55,160 --> 00:21:00,040
+un po' la batteria perché torna attiva e diventa funzionale.
+
+353
+00:21:00,040 --> 00:21:03,080
+Ma un'altra cosa che appunto dicevamo: dalla difesa della prima e della
+
+354
+00:21:03,080 --> 00:21:07,000
+seconda generazione: il metodo di carica, ma ha anche un'altra cosa interessante:
+
+355
+00:21:07,000 --> 00:21:09,560
+prima un fattore di forma, che è la Pencil, quella di prima
+
+356
+00:21:09,560 --> 00:21:14,280
+generazione completamente rotonda, mentre quella della seconda invece ha, diciamo, come si
+
+357
+00:21:14,280 --> 00:21:18,560
+può dire, dei lati piatti, possiamo chiamarli così, anche perché ospita un
+
+358
+00:21:18,560 --> 00:21:22,720
+tasto molto funzionale, nel senso, Filippo non lo usa questo tasto.
+
+359
+00:21:22,720 --> 00:21:24,000
+Per me è scomodissimo.
+
+360
+00:21:24,160 --> 00:21:27,520
+Tuttavia è interessante perché richiama tanto le
+
+361
+00:21:28,960 --> 00:21:34,000
+penne da tavoletta, sì, lo so, una tavoletta grafica, quelle delle tavolette
+
+362
+00:21:34,080 --> 00:21:34,480
+grafiche,
+
+363
+00:21:35,840 --> 00:21:38,160
+sì, sì, allora sono d'accordo con te.
+
+364
+00:21:38,160 --> 00:21:41,200
+Personalmente, però probabilmente.
+
+365
+00:21:41,520 --> 00:21:45,600
+Ci ho provato, devi fare un movimento che per me è naturale.
+
+366
+00:21:45,600 --> 00:21:47,120
+Falla stecca.
+
+367
+00:21:48,320 --> 00:21:54,000
+Devi dare un doppio tap sostanzialmente per far partire a un sistema:
+
+368
+00:21:54,000 --> 00:21:58,320
+sente le vibrazioni, e a fronte le vibrazioni, ovviamente puoi avere un
+
+369
+00:21:58,320 --> 00:22:02,400
+tasto che chiamiamolo così secondario e anche in parte configurabile.
+
+370
+00:22:02,400 --> 00:22:04,080
+Dopo vedremo un attimo come.
+
+371
+00:22:04,080 --> 00:22:06,160
+Personalmente, però non hai mai usato.
+
+372
+00:22:06,160 --> 00:22:10,640
+Puoi usarlo come cancella, lo so, il discorso è che alla fine
+
+373
+00:22:10,640 --> 00:22:14,320
+non è così preciso come vorrei io, mettiamola così.
+
+374
+00:22:14,560 --> 00:22:18,480
+E secondariamente, non lo puoi fare mentre stai scrivendo.
+
+375
+00:22:18,480 --> 00:22:22,400
+Ovviamente devi alzare la mano, ti interrompe.
+
+376
+00:22:22,560 --> 00:22:26,800
+Mentre nella tavoletta grafica, di fatto hai abitualmente addirittura un doppio tasto.
+
+377
+00:22:26,800 --> 00:22:34,240
+Quindi con due possibili pulsanti sostanzialmente che puoi utilizzare mentre lavori, avevo
+
+378
+00:22:34,240 --> 00:22:38,080
+e ho delle tavolette grafiche, quindi parlo perché appunto anche io.
+
+379
+00:22:39,200 --> 00:22:42,560
+Anch'io ne ho una, sai, ti era giunta voce, che me ne
+
+380
+00:22:42,560 --> 00:22:43,360
+è arrivata una.
+
+381
+00:22:43,360 --> 00:22:44,160
+Babbo Natale.
+
+382
+00:22:44,160 --> 00:22:48,720
+Eh, vedi, vedi quando Babbo Natale è generoso, i bambini bravi e
+
+383
+00:22:48,720 --> 00:22:51,200
+fin troppo generoso con i suoi bambini.
+
+384
+00:22:51,200 --> 00:22:56,480
+Nella sostanza, quindi, devo dire la verità, personalmente, probabilmente venendo dalla Intuus,
+
+385
+00:22:56,480 --> 00:23:01,000
+e quindi dà comunque un certo livello di qualità e di comodità
+
+386
+00:22:59,840 --> 00:23:04,440
+, il doppio tap sulla pensica, non sono mai riuscito a farlo.
+
+387
+00:23:04,600 --> 00:23:08,120
+Probabilmente anche per una forma mentis differente, non lo so.
+
+388
+00:23:08,680 --> 00:23:10,600
+Io non ho mai avuto modo di usarlo.
+
+389
+00:23:10,600 --> 00:23:13,240
+In effetti, adesso che mi ci fa ragionare il metodo di utilizzo
+
+390
+00:23:13,400 --> 00:23:17,640
+di staccare, diciamo, la penna dallo schermo per dare il doppio tap,
+
+391
+00:23:17,640 --> 00:23:19,160
+in effetti ti fa perdere tempo.
+
+392
+00:23:19,320 --> 00:23:23,000
+Ti viene prima a fare cancellare a mano, ma poi usare l'indice
+
+393
+00:23:23,000 --> 00:23:26,200
+per fare almeno, io casomai sbaglio a farlo.
+
+394
+00:23:26,360 --> 00:23:27,240
+Tendo a precisare.
+
+395
+00:23:27,240 --> 00:23:29,000
+No, anche me verrebbe usare l'indice.
+
+396
+00:23:29,320 --> 00:23:31,960
+Però ti perdi la grip sulla penna.
+
+397
+00:23:31,960 --> 00:23:36,760
+Cioè, io tendenzialmente comunque l'indice ti serve per gestire la penna per
+
+398
+00:23:36,760 --> 00:23:39,320
+scrivere, disegnare, fare quel che devi fare.
+
+399
+00:23:39,320 --> 00:23:43,640
+Per cui questo è quello che ho trovato, la mia esperienza, casomai,
+
+400
+00:23:43,640 --> 00:23:45,640
+per altri, non è così.
+
+401
+00:23:45,640 --> 00:23:48,840
+Sì, anche perché dipende come tutte le cose che hanno un'interazione umana,
+
+402
+00:23:48,840 --> 00:23:51,000
+dipende un po' anche da come la reggi.
+
+403
+00:23:51,000 --> 00:23:54,360
+Nel senso, arrivando alla facoltà di architettura, ho visto tenere le penne
+
+404
+00:23:54,360 --> 00:23:58,680
+nei modi più fantasiosi, dove praticamente si usava addirittura il medio e
+
+405
+00:23:58,680 --> 00:24:01,880
+il pollice, e quindi avevi l'indice completamente libero.
+
+406
+00:24:01,880 --> 00:24:05,320
+Io non riesco a usare la penna così, ho bisogno dell'indice per
+
+407
+00:24:05,320 --> 00:24:06,120
+indirizzarla.
+
+408
+00:24:06,120 --> 00:24:10,600
+Tuttavia, può darsi che sia effettivamente una questione di utilizzo, di capacità
+
+409
+00:24:10,600 --> 00:24:11,560
+di utilizzare.
+
+410
+00:24:11,880 --> 00:24:13,800
+Devi fare questo gesto qua che per me.
+
+411
+00:24:14,520 --> 00:24:17,880
+Sembra molto adesso che me lo stavi facendo vedere a video, sembra
+
+412
+00:24:18,120 --> 00:24:22,680
+molto delle bacchette cinesi, è un po' particolare.
+
+413
+00:24:22,680 --> 00:24:25,960
+Probabilmente facendolo, ti abitui anche al solito poi discutere.
+
+414
+00:24:25,960 --> 00:24:27,320
+Ma non riesci neanche col pollice?
+
+415
+00:24:27,720 --> 00:24:28,600
+Come fai?
+
+416
+00:24:29,080 --> 00:24:31,640
+Perché nella parte sola?
+
+417
+00:24:31,640 --> 00:24:35,560
+Anche perché, se no, se avessi il pollice, perché non è tutto
+
+418
+00:24:35,560 --> 00:24:37,800
+sensibile, oltretutto, è solo un punto.
+
+419
+00:24:37,800 --> 00:24:40,760
+Insomma, morale la favola continua a ripetere.
+
+420
+00:24:40,760 --> 00:24:43,080
+È una bella opzione, secondo me.
+
+421
+00:24:43,080 --> 00:24:47,120
+Non così comoda, almeno anche come la facevamo vedere nelle demo.
+
+422
+00:24:47,280 --> 00:24:51,280
+E peraltro apro chiudono una parentesi dopo l'introduzione dell'Apple Pencil 2, io
+
+423
+00:24:51,280 --> 00:24:53,440
+non l'ho mai più vista in video e altre cose.
+
+424
+00:24:53,440 --> 00:24:54,880
+Non si vede farlo spesso.
+
+425
+00:24:54,880 --> 00:24:59,520
+Quindi, già, anche questo credo che sia dimostrazione di come è una
+
+426
+00:24:59,520 --> 00:25:05,440
+funzione che c'è, casomai qualcuno la usa, ma non è altamente utilizzata.
+
+427
+00:25:05,440 --> 00:25:06,160
+Può essere.
+
+428
+00:25:06,160 --> 00:25:08,880
+Comunque vedremo se ci sarà una terza generazione.
+
+429
+00:25:08,880 --> 00:25:13,520
+Comunque è molto interessante il fatto che ci sia questo tasto virtuale
+
+430
+00:25:13,520 --> 00:25:18,800
+che diciamo normalmente è associato alla cancellazione dell'ultimo tratto, con quello che
+
+431
+00:25:18,800 --> 00:25:22,080
+si è scritto, ed è parzialmente configurabile, come dicevi.
+
+432
+00:25:22,080 --> 00:25:27,040
+Addirittura anche qui utilizzando le api di Apple, le applicazioni possono, le
+
+433
+00:25:27,120 --> 00:25:32,000
+applicazioni specifiche, per esempio, Procreate ti permette di fare varie cose con
+
+434
+00:25:32,320 --> 00:25:37,440
+questi tasti, come poi è possibile farlo, per esempio, in Photoshop, dove
+
+435
+00:25:37,760 --> 00:25:42,560
+in alcuni casi il doppio tasto ti permette di aumentare o diminuire
+
+436
+00:25:42,560 --> 00:25:44,160
+la larghezza del pennello.
+
+437
+00:25:44,160 --> 00:25:49,520
+È vero è comodissimo, io uso tantissimo la scorciazione utilizzando il computer,
+
+438
+00:25:50,080 --> 00:25:54,160
+scorciatoia da tastiera, quindi mi verrebbe un po' scomodo, diciamo perché sono
+
+439
+00:25:54,160 --> 00:25:56,880
+abituato a fare così perché è molto semplice col mouse.
+
+440
+00:25:56,880 --> 00:26:01,760
+L'unica cosa che appunto aprendo una parentesi che io continuo a battere,
+
+441
+00:26:01,920 --> 00:26:05,600
+questi sviluppatori infami che hanno anche un nome in questo caso è
+
+442
+00:26:05,600 --> 00:26:06,400
+Autodesk.
+
+443
+00:26:06,400 --> 00:26:10,000
+Piace per gli utenti Autodes che fan di loro, ma devo dire
+
+444
+00:26:10,000 --> 00:26:12,880
+che dal punto di vista hanno fatto un lavoro egregio per quanto
+
+445
+00:26:12,880 --> 00:26:19,040
+riguarda AutoCAD per Mac, però manca in effetti un approccio coerente con
+
+446
+00:26:19,040 --> 00:26:23,200
+altri strumenti di puntamento che possono essere o la taboletta grafica o
+
+447
+00:26:23,200 --> 00:26:24,000
+Pencil.
+
+448
+00:26:24,000 --> 00:26:29,440
+Sono due occasioni che stanno mancando alla grande, perché potrebbe diventare interessante
+
+449
+00:26:29,440 --> 00:26:35,480
+per chi disegna ColCAD, utilizzare uno strumento che non sia il mouse.
+
+450
+00:26:35,720 --> 00:26:38,440
+And non viene, secondo me, sfruttato nel modo giusto.
+
+451
+00:26:38,520 --> 00:26:41,480
+Staremo a vedere prima o poi vedremo qualche cosa interessante.
+
+452
+00:26:41,480 --> 00:26:45,320
+Facciamo un esempio: una cosa interessante che si può fare con Apple
+
+453
+00:26:45,320 --> 00:26:51,400
+Pencil, ad esempio, grazie all'interazione che può fare mamma Apple tra hardware
+
+454
+00:26:51,400 --> 00:26:55,240
+e software, che è una kicca che a me è piaciuta tantissimo
+
+455
+00:26:55,240 --> 00:26:56,600
+andare conoscevo.
+
+456
+00:26:56,600 --> 00:27:00,520
+Se voi avete il tablet aperto, state guardando qualcosa, volete fare uno
+
+457
+00:27:00,520 --> 00:27:05,880
+screenshot, tendenzialmente ci si reca sul tasto Home e il tasto accensione
+
+458
+00:27:06,040 --> 00:27:08,520
+li si preme assieme per fare lo screenshot.
+
+459
+00:27:08,520 --> 00:27:11,800
+Se si ha l'Apple Pencil in mano, io questa non la sapevo,
+
+460
+00:27:11,800 --> 00:27:14,600
+ci sono rimasto veramente sbalordito.
+
+461
+00:27:14,600 --> 00:27:19,640
+Basta fare uno swipe dall'angolo sinistra in basso verso il centro e
+
+462
+00:27:19,640 --> 00:27:22,040
+si crea lo screenshot di quello che state guardando.
+
+463
+00:27:22,040 --> 00:27:26,040
+Quindi di una semplicità estrema, recuperate tanto di quel tempo che non
+
+464
+00:27:26,040 --> 00:27:27,400
+ve ne fatto una ragione.
+
+465
+00:27:27,400 --> 00:27:32,600
+E già solo con questo gli sviluppatori imparate da questo tipo di
+
+466
+00:27:32,600 --> 00:27:39,400
+gestualità che diventano interessanti perché l'interazione che si può avere all'interno dell'app,
+
+467
+00:27:39,400 --> 00:27:43,480
+visto che è un piccolo ambiente chiuso, che potete creare grazie a
+
+468
+00:27:43,480 --> 00:27:47,080
+questo tipo di interazione, avete solo da farlo, nel senso che qualsiasi
+
+469
+00:27:47,080 --> 00:27:51,480
+applicazione penso che possa iniziare a pensare a sfruttare anche questo tipo
+
+470
+00:27:51,480 --> 00:27:56,040
+di gestualità che ha introdotto Apple, introdurre anche nelle proprie app.
+
+471
+00:27:56,040 --> 00:28:00,120
+Come ad esempio è interessante il fatto che questo lo può fare
+
+472
+00:28:00,120 --> 00:28:03,720
+Apple, giustamente perché fa una chiamata direttamente al sistema operativo e lo
+
+473
+00:28:03,720 --> 00:28:05,000
+swipe dall'altra parte.
+
+474
+00:28:05,000 --> 00:28:08,200
+Sul lato destro, che si tira su e si fa uno swipe
+
+475
+00:28:08,200 --> 00:28:11,320
+sul lato destro verso il centro e si tira su una nota
+
+476
+00:28:11,320 --> 00:28:12,080
+veloce.
+
+477
+00:28:12,080 --> 00:28:13,520
+Rapida rapida.
+
+478
+00:28:13,520 --> 00:28:17,600
+Questo è molto interessante e anche questo per chi utilizzatori di Mac
+
+479
+00:28:17,840 --> 00:28:22,560
+OS è un chiaro richiamo agli angoli attivi che sono in siti
+
+480
+00:28:22,560 --> 00:28:23,440
+all'interno di Mac.
+
+481
+00:28:23,440 --> 00:28:26,960
+Del Mac, per esempio, si possono impostare gli angoli attivi dello schermo.
+
+482
+00:28:26,960 --> 00:28:29,520
+Si prende il mouse, lo si butta a sinistra, lo si butta
+
+483
+00:28:29,520 --> 00:28:30,000
+a destra.
+
+484
+00:28:30,000 --> 00:28:33,760
+A me viene comodo ad esempio quando ho la scrivania tempestata di
+
+485
+00:28:33,760 --> 00:28:39,120
+finestre e devo accedere velocemente al desktop per dire: basta che mi
+
+486
+00:28:39,120 --> 00:28:42,640
+ho impostato sul lato sinistro dello schermo del Mac che io sposto
+
+487
+00:28:42,720 --> 00:28:45,200
+il puntatore lì e mi pulisce lo schermo e arrivo direttamente alla
+
+488
+00:28:45,360 --> 00:28:48,960
+scrivania, ad esempio, e l'altro lato, quello destro, lo metto in stop,
+
+489
+00:28:49,200 --> 00:28:51,120
+semplicemente in modo molto semplice.
+
+490
+00:28:51,120 --> 00:28:55,360
+Questo qui sono due, diciamo, sono gli angoli attivi che guarda caso
+
+491
+00:28:55,360 --> 00:29:00,320
+vengono tirati su da iPadOS per l'interazione con Apple Pencil.
+
+492
+00:29:00,400 --> 00:29:05,760
+Questo, secondo me, è anche un altro indizio di come iPad si
+
+493
+00:29:05,760 --> 00:29:12,080
+sta trasformando lentamente ma inesorabilmente in un computer to core, volente o
+
+494
+00:29:12,080 --> 00:29:12,720
+nolenti.
+
+495
+00:29:12,720 --> 00:29:16,720
+Io potrei dire alzo la manina, ci vuole ancora un po' di
+
+496
+00:29:16,720 --> 00:29:19,920
+lavoro, però fa piacere vedere questo tipo di sviluppi.
+
+497
+00:29:19,920 --> 00:29:24,800
+Perché, ad esempio, anche qua nota personale, mia figlia avete anche sentito
+
+498
+00:29:24,800 --> 00:29:26,400
+qua su A2 Podcast.
+
+499
+00:29:26,640 --> 00:29:28,320
+Gli ascoltatori di vecchia data.
+
+500
+00:29:28,320 --> 00:29:31,600
+Di vecchia data, esattamente, ormai di vecchia data, ragazzi, mia siamo qua
+
+501
+00:29:31,600 --> 00:29:32,480
+da un sacco di tempo.
+
+502
+00:29:32,480 --> 00:29:37,920
+Dicevamo, adesso che affronta le medie, ha iniziato a rapportarsi col computer
+
+503
+00:29:38,080 --> 00:29:42,400
+e mi ha detto chiaramente che il computer è uno strumento difficile
+
+504
+00:29:42,480 --> 00:29:44,000
+rispetto alle iPad.
+
+505
+00:29:44,320 --> 00:29:48,080
+Lei si trova decisamente molto meglio con l'iPad per il semplice fatto
+
+506
+00:29:48,080 --> 00:29:49,760
+che è più facile da utilizzare.
+
+507
+00:29:49,760 --> 00:29:53,280
+Che è un po' lo scoglio che abbiamo dovuto fare noi
+
+508
+00:29:54,400 --> 00:29:56,400
+quando abbiamo visto i computer la prima volta.
+
+509
+00:29:56,400 --> 00:29:59,440
+Il computer che abbiamo visto la prima volta ci hanno sempre lasciato
+
+510
+00:29:59,440 --> 00:30:00,760
+un po' distanti.
+
+511
+00:30:01,160 --> 00:30:04,120
+Se voi ci pensate, il metodo di puntamento, che è il mouse,
+
+512
+00:30:04,120 --> 00:30:08,120
+è distante dallo schermo, cioè voi dovete interagire con qualcosa che fa
+
+513
+00:30:08,120 --> 00:30:12,360
+muovere il puntatore sullo schermo, invece, quello che può: anzi, quello che
+
+514
+00:30:12,360 --> 00:30:16,680
+succede mettendo il dito sullo schermo, vedete direttamente l'iterazione.
+
+515
+00:30:16,680 --> 00:30:18,280
+È la stessa cosa con Pencil.
+
+516
+00:30:18,280 --> 00:30:21,720
+Questa è la fortuna, secondo me, dei dispositivi nuovi.
+
+517
+00:30:21,720 --> 00:30:26,280
+Io sono molto contento che i giovani, anzi, io spero che mia
+
+518
+00:30:26,280 --> 00:30:30,440
+figlia non debba usare un computer, lo dico sinceramente, inteso computer come
+
+519
+00:30:30,440 --> 00:30:35,240
+lo intendiamo noi della vecchia guardia, un computer a tutti gli effetti.
+
+520
+00:30:35,240 --> 00:30:39,320
+Io spero che utilizzi tranquillamente un iPad o chi per esso che
+
+521
+00:30:39,320 --> 00:30:42,600
+faccia le veci di un computer che abbia un'interazione più semplice, perché
+
+522
+00:30:42,840 --> 00:30:46,840
+continuo a dire invece di perdere tempo a ricordarsi le scorciatoie da
+
+523
+00:30:46,840 --> 00:30:50,840
+tastiera, diventa molto più semplice utilizzare il dito per dire o la
+
+524
+00:30:50,840 --> 00:30:53,720
+pencil e le cose diventano anche molto più semplici.
+
+525
+00:30:53,720 --> 00:30:56,520
+È un po' come quando si cerca di scaricare il cervello da
+
+526
+00:30:56,520 --> 00:30:58,680
+tutti i pensieri che abbiamo mettendo giù una lista.
+
+527
+00:30:58,680 --> 00:31:04,040
+Queste liste famose arrivano all'interno, in questo caso, di iPad, perché anche
+
+528
+00:31:04,040 --> 00:31:07,960
+questa è una cosa che possiamo fare con l'iPad, ovvero prendere note,
+
+529
+00:31:07,960 --> 00:31:09,800
+fare liste e via discorrendo.
+
+530
+00:31:09,800 --> 00:31:15,560
+Ma diciamo, Apple Pencil per me è stata fondamentale nel riconoscere l'iPad
+
+531
+00:31:15,800 --> 00:31:20,680
+finalmente come uno strumento non solo più di consumo, ma è diventato
+
+532
+00:31:20,680 --> 00:31:24,920
+veramente di produzione nel mio mondo di architetto, non solo perché ci
+
+533
+00:31:24,920 --> 00:31:27,480
+sono tutta una serie di applicazioni che permettono di fare il disegno
+
+534
+00:31:27,480 --> 00:31:31,320
+digitale, ma anche perché vedo che Filippo non lo utilizza tanto.
+
+535
+00:31:31,320 --> 00:31:36,280
+Ma io cerco davvero dappertutto di utilizzare il riconoscimento della scrittura, questo
+
+536
+00:31:36,280 --> 00:31:41,240
+Scribble, che era nato, se vi ricordate, con Watch OS.
+
+537
+00:31:41,240 --> 00:31:46,640
+Io ero rimasto abbastanza perplesso all'inizio con Watch OS, dicevo: ma come
+
+538
+00:31:46,640 --> 00:31:50,960
+fai a scrivere un messaggio su uno schermo così piccolo e questo
+
+539
+00:31:50,960 --> 00:31:52,240
+ti riconosce la scrittura?
+
+540
+00:31:52,240 --> 00:31:56,160
+Io sono rimasto veramente stupito da quello che poteva fare Scribble, perché
+
+541
+00:31:56,240 --> 00:32:01,520
+riconosceva effettivamente maiuscole, minuscoli, numeri, tutto quanto su uno schermo piccolo e
+
+542
+00:32:01,520 --> 00:32:06,240
+riuscivo a scrivere piccoli testi senza grosso sforzo.
+
+543
+00:32:06,960 --> 00:32:11,840
+Sembrava veramente magia che potesse tradurre il mio tratto fatto con un
+
+544
+00:32:11,840 --> 00:32:14,880
+dito, neanche con una pencil, con un dito su uno schermo piccolo,
+
+545
+00:32:14,880 --> 00:32:16,320
+era incredibile.
+
+546
+00:32:16,320 --> 00:32:21,200
+E vederlo riportato con queste potenzialità all'interno di iPadOS mi ha
+
+547
+00:32:21,200 --> 00:32:22,480
+fatto veramente molto piacere.
+
+548
+00:32:22,480 --> 00:32:27,040
+Tant'è che io rompo tanto le scatole gli sviluppatori, infatti penso che
+
+549
+00:32:27,040 --> 00:32:32,240
+cominciano a odiarmi perché tutte le applicazioni che trovo che hanno dei
+
+550
+00:32:32,240 --> 00:32:36,800
+problemi, inteso nel senso che non sono stati sfruttati nel modo giusto.
+
+551
+00:32:36,800 --> 00:32:41,760
+L'interazione con Apple Pencil arriva come sempre alla mia mail dove gli
+
+552
+00:32:41,760 --> 00:32:43,120
+chiede un miglioramento.
+
+553
+00:32:43,120 --> 00:32:47,600
+Notion ormai mi conoscono, gli ho detto 800 milioni di volte, ci
+
+554
+00:32:47,600 --> 00:32:51,360
+stanno lavorando e devono ancora fare un po' di strada, ad esempio,
+
+555
+00:32:51,360 --> 00:32:55,760
+ma anche altre applicazioni che comunque mi sono fatto sentire perché secondo
+
+556
+00:32:55,760 --> 00:32:56,880
+me è fondamentale.
+
+557
+00:32:56,880 --> 00:33:01,920
+Questa scrittura a mano è bellissima perché, come vi dicevo, riconosce sia
+
+558
+00:33:02,240 --> 00:33:07,120
+il maiuscolo, il stampatello maiuscolo, che la mia scrittura, quella che uso
+
+559
+00:33:07,120 --> 00:33:09,600
+io tutti i giorni, che io non ho una scrittura semplice, è
+
+560
+00:33:09,600 --> 00:33:12,480
+un po' ricercata, non utilizzo per esempio le S, non sono le
+
+561
+00:33:12,480 --> 00:33:16,320
+S normali che insegnano, è un S un po' particolare, ad esempio,
+
+562
+00:33:16,320 --> 00:33:17,440
+o anche la G.
+
+563
+00:33:17,440 --> 00:33:22,240
+Ma nonostante questo, a forza di usarlo, lo riconosce graficamente in modo
+
+564
+00:33:22,240 --> 00:33:26,720
+molto semplice e vedo che più lo uso e più lo riconosce
+
+565
+00:33:26,720 --> 00:33:27,920
+meglio la mia scrittura.
+
+566
+00:33:27,920 --> 00:33:31,080
+Ed è una cosa che a me ha toccato molto perché sembra
+
+567
+00:33:31,080 --> 00:33:33,960
+una cosa semplice, ma immagino che per un computer non è una
+
+568
+00:33:29,920 --> 00:33:35,800
+cosa semplice riconoscere una scrittura.
+
+569
+00:33:35,960 --> 00:33:38,840
+E oltre a questo, oltre a riconoscere la scrittura, secondo me è
+
+570
+00:33:38,840 --> 00:33:43,240
+molto interessante il metodo che hanno inserito per cancellare una parola.
+
+571
+00:33:43,240 --> 00:33:47,160
+Per cancellare una parola, basta il gesto più naturale del mondo di
+
+572
+00:33:47,160 --> 00:33:48,120
+farlo con la penna.
+
+573
+00:33:48,120 --> 00:33:52,840
+Che noi della vecchia guardia, ormai la penna l'abbiamo abbandonata da tempo,
+
+574
+00:33:52,840 --> 00:33:54,920
+usiamo la tastiera, il mouse.
+
+575
+00:33:54,920 --> 00:34:00,200
+E rivedere un gesto così familiare come quello di cancellare una parola
+
+576
+00:34:00,200 --> 00:34:03,640
+perché era sbagliata, vederla scomparire è davvero incredibile.
+
+577
+00:34:03,640 --> 00:34:08,280
+Basta fare veramente come si faceva una volta, si cancellava sopra anche
+
+578
+00:34:08,280 --> 00:34:11,640
+con un po', diciamo, con un mezzo sorriso perché la vedi scomparire,
+
+579
+00:34:11,640 --> 00:34:13,720
+non è che rimane lì come sulla carta.
+
+580
+00:34:13,720 --> 00:34:17,240
+A proposito di carta, volevo parlare anche di un'altra cosa che non
+
+581
+00:34:17,240 --> 00:34:20,360
+ho messo in scaletta, faccio una piccola parentesi, tanto qua ormai di
+
+582
+00:34:20,360 --> 00:34:22,280
+parentesi ne abbiamo aperta: ne facciamo mai
+
+583
+00:34:24,040 --> 00:34:27,240
+e una cosa che appunto volevo parlare con te, Filippo, visto che
+
+584
+00:34:27,320 --> 00:34:31,400
+piace confrontarmi con te, se veramente è una persona aperta e soprattutto
+
+585
+00:34:31,400 --> 00:34:35,240
+riesce a esporre i tuoi punti di vista in modo molto coerente.
+
+586
+00:34:35,240 --> 00:34:40,840
+Una cosa che mi chiedevo, riguardo, appunto, visto che c'è questo richiamo
+
+587
+00:34:40,840 --> 00:34:43,480
+alla carta, l'utilizzo della carta, diventa.
+
+588
+00:34:43,480 --> 00:34:46,040
+A me ha fatto un po' effetto e diventa un po' difficile
+
+589
+00:34:46,040 --> 00:34:50,200
+utilizzarlo all'inizio, è Paul Pencil per il semplice fatto che sei costretto,
+
+590
+00:34:50,200 --> 00:34:54,840
+tra virgolette, a scrivere su un pezzo di vetro, che non è
+
+591
+00:34:54,840 --> 00:34:58,920
+la stessa cosa che scrivere su una carta, cioè ti manca l'attrito.
+
+592
+00:34:58,920 --> 00:35:03,160
+Questo attrito, da quello che ho visto, si può recuperare mettendo dei
+
+593
+00:35:03,160 --> 00:35:08,360
+fogli particolari, diciamo delle pellicole protettive che hanno un po' di rubidità,
+
+594
+00:35:08,360 --> 00:35:14,280
+oppure cambiare il pennino della pencil che è intercambiabile essenzialmente, la punta
+
+595
+00:35:14,280 --> 00:35:15,680
+è morbida, chiamiamola così.
+
+596
+00:35:15,840 --> 00:35:17,120
+Tu di che scuola sei?
+
+597
+00:35:17,120 --> 00:35:21,760
+Nel senso, senti la mancanza di questo attrito o non te ne
+
+598
+00:35:21,760 --> 00:35:22,800
+sbatte proprio niente?
+
+599
+00:35:22,800 --> 00:35:26,320
+Devo dirti la verità: a me non è mai cambiato niente.
+
+600
+00:35:26,400 --> 00:35:29,920
+Io sempre ho iniziato a disegnare, oltre che a scrivere, diciamo, anche
+
+601
+00:35:29,920 --> 00:35:30,560
+a disegnare.
+
+602
+00:35:30,560 --> 00:35:34,560
+Che sulla scrittura, tra virgolette, ci si può anche forse passare più
+
+603
+00:35:34,560 --> 00:35:36,080
+sopra, probabilmente.
+
+604
+00:35:36,320 --> 00:35:39,440
+Ma il disegno, io ero abituato a disegnare la matita.
+
+605
+00:35:39,440 --> 00:35:40,880
+Vabbè, allora, anche lì.
+
+606
+00:35:41,120 --> 00:35:43,760
+Ero già in una via di mezzo, cioè nel senso, io comunque
+
+607
+00:35:43,760 --> 00:35:48,560
+disegnavo molto già con la tavoletta grafica, quindi probabilmente il passaggio è
+
+608
+00:35:48,560 --> 00:35:49,920
+stato abbastanza graduale.
+
+609
+00:35:49,920 --> 00:35:50,800
+Non so se mi spiego.
+
+610
+00:35:50,800 --> 00:35:54,960
+Perché comunque sulla tavoletta grafica, addirittura abitualmente, se tu disegni con la
+
+611
+00:35:54,960 --> 00:36:01,600
+tavoletta grafica, la sentica, diciamo, quella sullo schermo, chiamiamola così, le nuove
+
+612
+00:36:01,840 --> 00:36:07,200
+grosse tavolette grafiche, che sono degli schermi con tavoletta grafica integrate, e
+
+613
+00:36:07,200 --> 00:36:08,880
+quindi disegni sullo schermo.
+
+614
+00:36:08,880 --> 00:36:11,600
+E lì forse il parallasso un po' si vede.
+
+615
+00:36:11,600 --> 00:36:15,520
+Con la tavoletta grafica normale, quella proprio tu hai il monitor e
+
+616
+00:36:15,520 --> 00:36:17,280
+tu vedi il cursore sostanzialmente.
+
+617
+00:36:17,280 --> 00:36:21,680
+Quindi disegno che prende forma nel monitor e sulla tavoletta, una tavoletta,
+
+618
+00:36:21,680 --> 00:36:27,680
+appunto, senza nessun tipo di, quindi scollegando mano occhio, perché abitualmente quando
+
+619
+00:36:27,680 --> 00:36:32,320
+disegni, vedi il disegno fatto sulla carta e quindi direttamente uscire dalla
+
+620
+00:36:32,320 --> 00:36:36,160
+matita, chiamiamolo così, o dalla penna o dal pennino, a me non
+
+621
+00:36:36,160 --> 00:36:37,600
+dà particolarmente fastidio.
+
+622
+00:36:37,600 --> 00:36:41,360
+E anzi, devo dire la verità, non ho mai trovato la necessità
+
+623
+00:36:41,360 --> 00:36:45,280
+di avere questi sistemi che conosco che non ho mai provato, quindi
+
+624
+00:36:45,280 --> 00:36:46,800
+probabilmente poi provandoli.
+
+625
+00:36:46,800 --> 00:36:50,080
+Però, per esempio, ho anche il Pepperlack, so che dà quell'effetto opaco
+
+626
+00:36:50,160 --> 00:36:53,520
+che a me non piace minimamente per tutto il resto, invece, perché
+
+627
+00:36:53,520 --> 00:36:57,680
+poi dovete considerare che, oltre a disegnare o a scrivere, con la
+
+628
+00:36:57,680 --> 00:37:00,600
+pencil, utilizzi tutto il resto con lo schermo.
+
+629
+00:37:00,600 --> 00:37:06,680
+Quindi, ovviamente, io ho uno schermo protettivo in similvetro, chiamiamolo così, e
+
+630
+00:36:59,520 --> 00:36:59,840
+quello
+
+631
+00:37:07,400 --> 00:37:10,200
+rimane l'utilizzo che faccio e l'ho sempre fatto.
+
+632
+00:37:10,280 --> 00:37:14,680
+Io devo, intanto, prima di tutto, volevo salutare Daniele, che ci ha
+
+633
+00:37:14,680 --> 00:37:16,840
+raggiunto in chat, che ci segue.
+
+634
+00:37:16,920 --> 00:37:20,680
+Grazie, Daniele, per essere tra di noi, molto piacevole averti tra i
+
+635
+00:37:20,680 --> 00:37:23,960
+nostri, diciamo ascoltatori, mi fa molto piacere.
+
+636
+00:37:23,960 --> 00:37:27,400
+E invece mi ricollego alla questione dell'attrito.
+
+637
+00:37:27,400 --> 00:37:33,320
+Io l'ho sentito all'inizio davvero molto la differenza, nel senso che abituato
+
+638
+00:37:33,560 --> 00:37:39,320
+da anni a disegnare con le chine, lo dico tranquillamente perché io
+
+639
+00:37:39,320 --> 00:37:44,520
+sono nato come disegnatore tecnico su lecchine squadrette, ho una certa familiarità
+
+640
+00:37:44,520 --> 00:37:48,440
+con la carta, quindi ho avuto proprio delle difficoltà, non dico a
+
+641
+00:37:48,440 --> 00:37:52,680
+gestirlo, però mi sono sorpreso a rendermi conto che in effetti scivolava
+
+642
+00:37:52,680 --> 00:37:56,360
+via la penna, non aveva attrito e quindi anche il mio tratto
+
+643
+00:37:56,360 --> 00:37:59,320
+ha dovuto un po' prendersi le misure.
+
+644
+00:37:59,320 --> 00:38:02,920
+Difatti all'inizio non riuscivo a fare praticamente nulla, neanche a scrivere, non
+
+645
+00:38:02,920 --> 00:38:07,800
+riuscivo neanche avere la mia calligrafia perché la sentivo scivoloso, non so
+
+646
+00:38:07,800 --> 00:38:12,040
+spiegarti, non facevo attrito quindi non riuscivo a fermare la penna, mi
+
+647
+00:38:12,040 --> 00:38:12,760
+scappava.
+
+648
+00:38:12,760 --> 00:38:15,800
+Soprattutto il penino a china, capisco, nel senso che il penino a
+
+649
+00:38:15,880 --> 00:38:18,440
+china abitualmente gratta addirittura la carta.
+
+650
+00:38:18,440 --> 00:38:21,240
+Quindi è quella una sensazione molto lontana.
+
+651
+00:38:21,240 --> 00:38:27,080
+Io disegnando più a matita utilizzando eventualmente delle penne leggere, o io
+
+652
+00:38:27,080 --> 00:38:30,040
+preferisco, per esempio, per inchiostrare, preferisco il pennello.
+
+653
+00:38:30,040 --> 00:38:31,640
+È una sensazione diversa.
+
+654
+00:38:31,640 --> 00:38:36,200
+E di fatti era, diciamo, non dico un avvertimento, però non stupitevi
+
+655
+00:38:36,200 --> 00:38:41,320
+del fatto che vi troviate una sensazione diversa e il tratto non
+
+656
+00:38:41,320 --> 00:38:43,160
+riuscite a seguirlo.
+
+657
+00:38:43,240 --> 00:38:46,640
+Poi, in questo momento, io dopo che hai quasi un anno che
+
+658
+00:38:44,840 --> 00:38:49,520
+la utilizzo, devo dire che mi sono completamente assuefato.
+
+659
+00:38:49,840 --> 00:38:52,960
+Datti, mi stavo chiedendo anch'io se era il caso di passare a
+
+660
+00:38:52,960 --> 00:38:55,360
+questo tipo di pellicole o cambio di pennini.
+
+661
+00:38:55,360 --> 00:38:59,280
+Però in questo momento, adesso che mi sono fatto la mano, non
+
+662
+00:38:59,280 --> 00:39:01,200
+ne sento tutta questa esigenza.
+
+663
+00:39:01,200 --> 00:39:05,040
+E delle volte mi chiedo anche dal punto di vista di chi
+
+664
+00:39:05,040 --> 00:39:09,920
+ha progettato questo strumenti se vada contro la sua idea progettuale.
+
+665
+00:39:09,920 --> 00:39:13,520
+Non so spiegarti, io ho intanto mi impongo questi problemi filosofici.
+
+666
+00:39:13,520 --> 00:39:16,160
+Che se uno strumento è nato in un certo modo è perché
+
+667
+00:39:16,160 --> 00:39:18,000
+deve essere utilizzato in un certo modo.
+
+668
+00:39:18,000 --> 00:39:22,880
+Se avessero voluto un certo grip, mi chiedo perché Apple non abbia
+
+669
+00:39:22,960 --> 00:39:25,840
+cambiato la rugosità della punta.
+
+670
+00:39:25,840 --> 00:39:31,120
+Ricapitoliamo sulla scrittura a mano e la funzione scribble, diciamo, che ne
+
+671
+00:39:31,120 --> 00:39:35,520
+abbiamo parlato un po' tergiversando, ma diciamo la cosa interessante è che
+
+672
+00:39:35,520 --> 00:39:42,960
+in estrema sintesi, in qualunque parte dell'interfaccia utente di Pad è possibile
+
+673
+00:39:42,960 --> 00:39:47,920
+scrivere il testo scritto, chiamiamolo così, a mano con la pencil, viene
+
+674
+00:39:47,920 --> 00:39:52,640
+riconosciuto, e quindi possiamo scrivere, per esempio, chiamiamo così nelle note dove
+
+675
+00:39:52,880 --> 00:39:58,560
+il testo che scriviamo automaticamente viene convertito in lettere tipografiche, chiamiamola così,
+
+676
+00:39:58,800 --> 00:40:03,760
+anche per esempio nei campi dei menu e quant'altro scrivendo è possibile
+
+677
+00:40:03,840 --> 00:40:05,920
+ovviamente convertire il testo.
+
+678
+00:40:05,920 --> 00:40:12,560
+L'altra cosa l'abbiamo già raccontata, cancellando, cioè o meglio, scarabocchiando sopra una
+
+679
+00:40:12,560 --> 00:40:13,120
+parola.
+
+680
+00:40:13,120 --> 00:40:20,880
+Questa viene cancellata, tirando, tra virgolette, una linea orizzontale, no, verticale, non
+
+681
+00:40:20,880 --> 00:40:21,520
+mi ricordo mai.
+
+682
+00:40:21,600 --> 00:40:26,720
+Verticale, direi tra in una parola tra per esempio la A e
+
+683
+00:40:26,720 --> 00:40:31,080
+la E, una linea verticale con la Pencil faccio uno spazio quindi
+
+684
+00:40:31,080 --> 00:40:31,800
+le divido.
+
+685
+00:40:29,680 --> 00:40:33,960
+Per cui queste sono sicuramente funzioni interessanti.
+
+686
+00:40:34,120 --> 00:40:37,480
+Io devo dirti la verità, le ho testate, non le ho mai
+
+687
+00:40:37,640 --> 00:40:46,040
+praticamente usate, salvo rare occasioni dove effettivamente viene fatto tutto ciò, devo
+
+688
+00:40:46,040 --> 00:40:50,440
+dire la verità, io un approccio abbastanza canonico, chiamiamolo così: la iPad
+
+689
+00:40:50,760 --> 00:40:51,720
+con la tastiera.
+
+690
+00:40:51,720 --> 00:40:54,840
+No, o scrivo con la tastiera e quindi alla fine non mi
+
+691
+00:40:54,840 --> 00:40:58,840
+cambia, e come dicevo all'inizio puntata, io la tastiera attaccata alla iPad.
+
+692
+00:40:58,840 --> 00:41:01,640
+Sostanzialmente è la cover dell'iPad e la tastiera.
+
+693
+00:41:01,640 --> 00:41:04,920
+Quindi, di fatto, se ho bisogno di scrivere sul serio, tiro fuori
+
+694
+00:41:04,920 --> 00:41:05,880
+la tastiera.
+
+695
+00:41:05,880 --> 00:41:09,080
+Se invece voglio prendere appunti, cioè se voglio scrivere a mano con
+
+696
+00:41:09,080 --> 00:41:12,920
+l'iPad, lo vedremo dopo, forse se ce n'è tempo.
+
+697
+00:41:12,920 --> 00:41:16,040
+Ma io utilizzo questa applicazione che è fatta apposta.
+
+698
+00:41:16,200 --> 00:41:19,320
+Chiamola così, che è Good Note, e in quel caso lì scrivo
+
+699
+00:41:19,320 --> 00:41:25,560
+a mano e non viene convertito il testo direttamente testo stampato, chiamiamolo
+
+700
+00:41:25,560 --> 00:41:31,240
+così, ma Good Note comunque ha riconoscimento del testo per cui di
+
+701
+00:41:31,240 --> 00:41:35,480
+fatto sugli appunti che prendo io a mano, posso fare le ricerche
+
+702
+00:41:35,480 --> 00:41:38,040
+e posso estrapolare il testo volendo.
+
+703
+00:41:38,040 --> 00:41:40,840
+A questo punto, secondo me, tu la usi molto più di me,
+
+704
+00:41:40,840 --> 00:41:46,120
+quindi lascio la parola a te, parliamo invece dell'applicazione, diciamo, cardine per
+
+705
+00:41:46,120 --> 00:41:51,240
+Apple per utilizzare la Pencil, che è che io non uso proprio.
+
+706
+00:41:51,240 --> 00:41:55,560
+Vi alzo un attimo la manina anch'io, nel senso che note è
+
+707
+00:41:55,560 --> 00:42:00,760
+un'applicazione che non uso spesso, perché appunto come te utilizzo delle applicazioni
+
+708
+00:42:00,760 --> 00:42:03,160
+terze per prendere i miei appunti.
+
+709
+00:42:03,160 --> 00:42:07,640
+Una cosa che per me è fondamentale nel mio lavoro, e visto
+
+710
+00:42:07,640 --> 00:42:11,720
+che siamo in ambito lavorativo, penso che sia possa essere interessante per
+
+711
+00:42:11,720 --> 00:42:16,080
+tutti, è la questione che la pensi diventa utilissima nel momento in
+
+712
+00:42:16,080 --> 00:42:20,320
+cui si va a editare dei PDF, o meglio, prendere delle note
+
+713
+00:42:14,920 --> 00:42:21,760
+su dei file PDF.
+
+714
+00:42:21,920 --> 00:42:24,400
+E quindi è uno questo è uno dei motivi per cui non
+
+715
+00:42:24,400 --> 00:42:26,080
+utilizza tanto note.
+
+716
+00:42:26,080 --> 00:42:31,520
+Il mio utilizzo di note, diciamo, diventa interessante perché ci sono alcune
+
+717
+00:42:31,520 --> 00:42:36,240
+funzionalità che diciamo che per un uso basico sono più che sufficienti.
+
+718
+00:42:36,240 --> 00:42:40,800
+Io purtroppo metto purtroppo tra virgolette, nel senso che ne faccio un
+
+719
+00:42:40,800 --> 00:42:46,400
+uso molto diverso rispetto a un normale utilizzatore di iPad, per semplice
+
+720
+00:42:46,400 --> 00:42:50,960
+fatto che ho un lavoro che mi richiede una certa precisione col
+
+721
+00:42:51,120 --> 00:42:54,240
+disegno e con l'utilizzo di alcuni file.
+
+722
+00:42:54,240 --> 00:42:59,520
+Quindi diventa per me note uno strumento minimo, fin troppo minimo nelle
+
+723
+00:42:59,520 --> 00:43:05,440
+sue funzioni, che comunque in generale sono davvero utilissime.
+
+724
+00:43:05,440 --> 00:43:08,960
+Una delle tante cose che abbiamo parlato è appunto il riconoscimento della
+
+725
+00:43:08,960 --> 00:43:11,360
+scrittura che può essere fatto in qualsiasi punto.
+
+726
+00:43:11,360 --> 00:43:14,640
+Una cosa di cui ho chiesto anche a Filippo perché a me
+
+727
+00:43:14,640 --> 00:43:17,920
+non funzionava bene, ma poi abbiamo capito qual è il motivo, era
+
+728
+00:43:18,240 --> 00:43:21,040
+la capacità di prendere le note al volo con iPad.
+
+729
+00:43:21,040 --> 00:43:25,360
+Questa qui è un'altra di quelle funzioni che permette Apple, grazie al
+
+730
+00:43:25,360 --> 00:43:29,120
+suo intrinseco utilizzo di hardware e software in casa.
+
+731
+00:43:29,120 --> 00:43:33,520
+Per chi utilizza una penna di seconda generazione con un iPad ovviamente
+
+732
+00:43:33,520 --> 00:43:38,960
+compatibile, se aprite lo schermo ed è spento lo schermo e nero,
+
+733
+00:43:38,960 --> 00:43:42,720
+voi lo toccate con la pencil di seconda generazione, si apre direttamente
+
+734
+00:43:42,720 --> 00:43:44,320
+una nota e potete scrivere.
+
+735
+00:43:44,320 --> 00:43:51,120
+Quindi diventa un taccuino molto sensibile alle vostre esigenze, perché non dovete
+
+736
+00:43:51,120 --> 00:43:55,680
+sbloccare il tablet oppure andare a cercare altri sistemi per riuscire a
+
+737
+00:43:55,680 --> 00:43:56,720
+cercare a scrivere.
+
+738
+00:43:56,720 --> 00:43:59,520
+Diventa molto semplice perché vi si apre la nota e voi iniziate
+
+739
+00:43:59,520 --> 00:44:00,000
+a scrivere.
+
+740
+00:44:00,360 --> 00:44:05,240
+Che può essere una scrittura semplice come su un foglio di carta,
+
+741
+00:44:05,240 --> 00:44:09,080
+quindi non viene riconosciuto il testo, oppure c'è la funzione anche lì
+
+742
+00:44:09,080 --> 00:44:11,080
+che viene direttamente riconosciuto il testo.
+
+743
+00:44:11,080 --> 00:44:13,720
+Fate attenzione perché sono due cose diverse: perché nel momento in cui
+
+744
+00:44:13,720 --> 00:44:17,400
+c'è il riconoscimento del testo, la vostra scrittura a mano sparisce e
+
+745
+00:44:17,400 --> 00:44:19,160
+diventa una scritta.
+
+746
+00:44:19,160 --> 00:44:25,320
+Se invece non l'avete abilitata nella nota, questa è un'impostazione che potete
+
+747
+00:44:25,480 --> 00:44:27,720
+inserire quando si apre note.
+
+748
+00:44:27,720 --> 00:44:31,400
+La prima nota che vi si apre, potete impostare se la scrittura
+
+749
+00:44:31,400 --> 00:44:36,920
+deve essere tradotta in testo o no, e quindi diventa assolutamente un
+
+750
+00:44:36,920 --> 00:44:38,840
+ottimo taccuino per le note volanti.
+
+751
+00:44:38,840 --> 00:44:41,560
+Può capitare di prendere una nota al volo e non avere niente
+
+752
+00:44:41,560 --> 00:44:42,200
+sotto mano.
+
+753
+00:44:42,200 --> 00:44:45,480
+Avete il vostro iPad lì sotto con la pensi ed è utilissimo
+
+754
+00:44:45,480 --> 00:44:46,360
+sfruttarlo.
+
+755
+00:44:46,360 --> 00:44:51,320
+Per chi invece utilizza una prima generazione come me, questo non funziona
+
+756
+00:44:51,320 --> 00:44:56,280
+con lo schermo spento, non funziona, deve essere acceso lo schermo.
+
+757
+00:44:56,280 --> 00:44:59,880
+Anche in posizione di blocco funziona, ma deve essere acceso.
+
+758
+00:44:59,880 --> 00:45:03,800
+Quindi dovete fare un passaggio in più che nel momento in cui
+
+759
+00:45:03,800 --> 00:45:08,520
+avete la cover è chiaramente non lo vedete questo passaggio perché l'apertura
+
+760
+00:45:08,520 --> 00:45:11,640
+della cover vi accende lo schermo e quindi toccate con la pencil
+
+761
+00:45:11,800 --> 00:45:12,840
+vi si apre la nota.
+
+762
+00:45:12,840 --> 00:45:17,880
+Però se non avete la cover, sentirete questa differenza e poi vi
+
+763
+00:45:17,880 --> 00:45:20,440
+capiterà come ho fatto io con Filippo a chiedermi: ma guarda che
+
+764
+00:45:20,440 --> 00:45:23,640
+a me non funziona, dov'è che sbaglio che non mi funziona subito
+
+765
+00:45:23,640 --> 00:45:24,680
+la nota al volo?
+
+766
+00:45:24,680 --> 00:45:29,800
+Poi abbiamo indagato un attimino, in effetti, con una delle differenze tra
+
+767
+00:45:29,800 --> 00:45:33,320
+la prima e la seconda generazione è appunto questa differenza nel prendere
+
+768
+00:45:33,320 --> 00:45:33,960
+le note.
+
+769
+00:45:33,960 --> 00:45:37,720
+Soprattutto credo anche alla differenza negli iPad, nel senso che gli ultimi
+
+770
+00:45:37,720 --> 00:45:41,800
+iPad, soprattutto i pro adesso, credo probabilmente quelli di fascia alta, c'è
+
+771
+00:45:41,800 --> 00:45:46,800
+già l'iPad aera e così via, tu dai un tocco sullo schermo,
+
+772
+00:45:46,800 --> 00:45:51,840
+automaticamente si accende, perché poi, per esempio, il mio iPad Pro non
+
+773
+00:45:51,840 --> 00:45:57,200
+avendo il tasto home, cioè non avendo il tach D e così
+
+774
+00:45:57,200 --> 00:45:57,680
+via.
+
+775
+00:45:57,680 --> 00:46:03,600
+Nella sostanza, farlo sbloccare, non c'è modo a meglio, è molto più
+
+776
+00:46:03,600 --> 00:46:10,960
+intuitivo toccarlo, lui automaticamente ti guarda il viso e si autosblocca, altrimenti
+
+777
+00:46:11,040 --> 00:46:15,200
+dovrei sempre andare lì e cliccare sul tasto ohm in alto e
+
+778
+00:46:15,200 --> 00:46:17,680
+farlo accendere, che oggettivamente è scomodo.
+
+779
+00:46:17,680 --> 00:46:21,360
+Sicuramente non è presente in quelle con il tasto Home sicuramente, perché
+
+780
+00:46:21,360 --> 00:46:23,040
+probabilmente punta il Face D,
+
+781
+00:46:24,240 --> 00:46:25,840
+l'ipotesi esatto.
+
+782
+00:46:25,840 --> 00:46:29,680
+Cioè, col Face D è necessario, chiamiamolo così, è molto più intuitivo
+
+783
+00:46:29,760 --> 00:46:33,280
+proprio per il discorso dei Face ID, e quindi poi automaticamente basta
+
+784
+00:46:33,280 --> 00:46:36,880
+cliccare con la pencil e in automatico lui fa tutto.
+
+785
+00:46:36,880 --> 00:46:39,920
+Perché sente comunque quel tocco sostanzialmente.
+
+786
+00:46:39,920 --> 00:46:43,840
+Tornando invece a note, questo strumento che secondo me è stato molto
+
+787
+00:46:43,840 --> 00:46:50,000
+potenziato, grazie a Apple Pencil, vedete che essenzialmente nella parte bassa vi
+
+788
+00:46:50,000 --> 00:46:55,040
+si apre una specie di tavolozza, chiamiamola così, con 2, 4, 6
+
+789
+00:46:55,040 --> 00:47:01,120
+penne di cui essenzialmente ne utilizzerete probabilmente le prime due, forse la
+
+790
+00:47:01,120 --> 00:47:04,400
+gomma e il resto probabilmente la abbandonerete perché non vi servirà.
+
+791
+00:47:04,400 --> 00:47:07,520
+Ma in ogni caso non è importante questo, potrebbe tornarvi utile.
+
+792
+00:47:07,520 --> 00:47:12,480
+C'è anche un righello che nel mio caso diventa super utile.
+
+793
+00:47:12,480 --> 00:47:15,120
+E poi ci sono ovviamente tutti i vari colori.
+
+794
+00:47:15,120 --> 00:47:19,040
+Diciamo che è un'impostazione di base, come tutte le impostazioni di base
+
+795
+00:47:19,040 --> 00:47:24,160
+di Apple, funziona per la maggior parte delle cose ed è davvero
+
+796
+00:47:24,480 --> 00:47:29,200
+interessante perché, oltre a questo, se non ricordo male, la nostra simpatica
+
+797
+00:47:29,280 --> 00:47:34,440
+utilizzo di note permette anche di riconoscere i numeri di telefono, le
+
+798
+00:47:34,440 --> 00:47:37,880
+date, gli indirizzi e tutti gli altri elementi scritti a mano.
+
+799
+00:47:37,880 --> 00:47:41,400
+Quindi può capitare che voi vi segnate un numero di telefono e
+
+800
+00:47:41,400 --> 00:47:45,400
+questo venga riconosciuto direttamente da note come un numero telefonico e quindi
+
+801
+00:47:45,400 --> 00:47:48,760
+potete salvarlo in un rubrico o fare quello che volete, o anche
+
+802
+00:47:48,760 --> 00:47:51,880
+addirittura i vari appuntamenti del calendario.
+
+803
+00:47:51,880 --> 00:47:57,640
+Sì, allora ricordiamo, questa è una funzione di iPados 15 e i
+
+804
+00:47:57,800 --> 00:48:03,240
+OS 15, che è il riconoscimento del testo nello schermo, chiamiamolo così,
+
+805
+00:48:03,240 --> 00:48:05,400
+sia nelle foto che nello schermo.
+
+806
+00:48:05,400 --> 00:48:09,960
+Quindi effettivamente il risultato con questo sistema è molto interessante perché potete
+
+807
+00:48:09,960 --> 00:48:14,680
+proprio scrivere a mano un appunto e poi estrapolare dagli appunti presi
+
+808
+00:48:14,680 --> 00:48:15,080
+a mano.
+
+809
+00:48:15,080 --> 00:48:15,960
+Che è una bomba!
+
+810
+00:48:16,120 --> 00:48:21,000
+Funziona veramente alla grande, in utilizzato con iPhone, basta anche puntare uno
+
+811
+00:48:21,000 --> 00:48:21,800
+schermo.
+
+812
+00:48:22,040 --> 00:48:25,320
+Se avete qualcosa che ad esempio non si riesce a copiare per
+
+813
+00:48:25,320 --> 00:48:26,280
+qualsiasi motivo.
+
+814
+00:48:26,280 --> 00:48:31,240
+Voi potete con questa funzionalità, fidatevi che riconosce lo schermo molto molto
+
+815
+00:48:31,240 --> 00:48:31,640
+bene.
+
+816
+00:48:31,640 --> 00:48:37,000
+Questo testo, è un OCR volante, è qualcosa di spaventoso perché praticamente
+
+817
+00:48:37,000 --> 00:48:41,240
+potete mettervi per dire, potete prendervi tutto il testo di un libro.
+
+818
+00:48:41,240 --> 00:48:45,240
+Essenzialmente, se avete voglia di tempo, ve lo trovate essenzialmente in digitale
+
+819
+00:48:45,400 --> 00:48:49,640
+e ha un riconoscimento del testo molto molto preciso.
+
+820
+00:48:49,640 --> 00:48:56,360
+Ho trovato veramente pochissimi errori nel testo riconosciuto.
+
+821
+00:48:56,680 --> 00:49:00,760
+Altra cosa che invece troviamo anche in note: che è una di
+
+822
+00:49:00,760 --> 00:49:05,560
+quelle funzionalità che la fanno amare, è appunto la possibilità del riconoscimento
+
+823
+00:49:05,560 --> 00:49:08,760
+del disegno fatto a mano e quindi riconoscere la forma.
+
+824
+00:49:08,760 --> 00:49:12,520
+Ad esempio, un cerchio, un quadrato, una stella, ve la trasforma.
+
+825
+00:49:12,520 --> 00:49:15,680
+Se voi la avete magari la mano ferma, non la disegnate perfettamente,
+
+826
+00:49:15,680 --> 00:49:19,040
+come capiterà tutti quanti, a meno che non siate giotto e riuscite
+
+827
+00:49:19,040 --> 00:49:22,560
+a fare il cerchio perfetto, e allora vi aiuta Apple in questo
+
+828
+00:49:22,560 --> 00:49:25,840
+senso, c'è il riconoscimento delle forme, ve le trasforma direttamente in
+
+829
+00:49:27,200 --> 00:49:31,680
+una forma corretta che potete ovviamente spostare in giro per il documento.
+
+830
+00:49:31,680 --> 00:49:36,320
+E anche questa è una di quelle funzioni davvero molto interessanti perché
+
+831
+00:49:38,400 --> 00:49:39,920
+facilita tutto quanto.
+
+832
+00:49:40,160 --> 00:49:45,040
+Considerate che il riconoscimento del testo battiamo tanto su questo, perché questo
+
+833
+00:49:45,040 --> 00:49:48,480
+riconoscimento del testo è esteso a tutto il sistema operativo.
+
+834
+00:49:48,480 --> 00:49:52,880
+Cioè voi se avete un buco qualsiasi all'interno del sistema operativo dove
+
+835
+00:49:52,880 --> 00:49:56,000
+c'è un campo di testo e avete la pencil in mano, voi
+
+836
+00:49:56,000 --> 00:50:01,760
+potete scrivere e questo testo verrà tranquillamente riconosciuto dal sistema operativo.
+
+837
+00:50:01,760 --> 00:50:05,600
+E anche questo bisogna fargli un plauso perché è un punto di
+
+838
+00:50:05,600 --> 00:50:10,560
+forza, secondo me, per quello che può essere l'utilizzo di iPad con
+
+839
+00:50:10,560 --> 00:50:11,200
+pencil.
+
+840
+00:50:11,200 --> 00:50:15,760
+Diciamo che essenzialmente queste qui sono le funzioni che potete utilizzare in
+
+841
+00:50:15,760 --> 00:50:21,280
+note, ma ovviamente questo si trasferisce in tutto quello che è testo.
+
+842
+00:50:21,280 --> 00:50:24,000
+Quindi il primo che mi viene in mente è i Pages, che
+
+843
+00:50:24,000 --> 00:50:28,400
+potete utilizzare tranquillamente per i vostri documenti, ma ci sono anche altri
+
+844
+00:50:28,400 --> 00:50:32,400
+strumenti come utilizzo io, Block Quote, che essenzialmente è un editor di
+
+845
+00:50:32,400 --> 00:50:33,840
+testo in Markdown.
+
+846
+00:50:33,840 --> 00:50:36,720
+La cosa interessante è che ho scritto addirittura tutto un articolo, la
+
+847
+00:50:36,720 --> 00:50:40,560
+scrittura a mano, ed è interessante perché ricorda molto quando si faceva
+
+848
+00:50:40,560 --> 00:50:43,520
+i temi, è molto romantico in questo senso, è vero, ci metti
+
+849
+00:50:43,520 --> 00:50:47,440
+di più, però il fatto di vedere di nuovo che la scrittura
+
+850
+00:50:47,440 --> 00:50:53,200
+a mano torna ad avere un certo impatto nella nostra vita digitale,
+
+851
+00:50:53,200 --> 00:50:56,320
+secondo me è qualcosa che va sottolineato in qualche modo.
+
+852
+00:50:56,320 --> 00:50:59,360
+Un po' come il disegno che è tornato con la pensi, è
+
+853
+00:50:59,360 --> 00:51:02,680
+tornato è veramente il disegno in mano all'architetto, ma non solo all'architetto,
+
+854
+00:51:02,760 --> 00:51:05,560
+a tutti quanti che hanno una mano felice come la tua, ad
+
+855
+00:51:05,560 --> 00:51:10,440
+esempio, che possono utilizzare veramente un po' di applicazioni e permettersi di
+
+856
+00:51:10,440 --> 00:51:14,760
+fare dei lavori grazie a questi strumenti che fino a poco tempo
+
+857
+00:51:14,760 --> 00:51:17,160
+fa erano anche difficili da utilizzare.
+
+858
+00:51:17,160 --> 00:51:21,560
+Una cosa che volevo ancora sottolineare, più che altro perché siamo sempre
+
+859
+00:51:21,560 --> 00:51:25,400
+in ambito Apple e in ambito lavorativo, è una cosa che abbiamo
+
+860
+00:51:25,720 --> 00:51:28,840
+diciamo un po' saltato perché non è questo l'argomento, ma secondo me,
+
+861
+00:51:28,840 --> 00:51:32,920
+visto che siamo in chiusura di puntata, lo aggiungiamo per chiudere questo
+
+862
+00:51:33,400 --> 00:51:38,760
+argomento, è la possibilità di utilizzare iPad con Sidecar.
+
+863
+00:51:38,760 --> 00:51:42,840
+Sidecar è quella funzione che permette appunto di interagire, di avere lo
+
+864
+00:51:42,840 --> 00:51:49,640
+schermo del Mac essenzialmente sull'iPad, oppure utilizzare l'iPad come schermo secondario, ma
+
+865
+00:51:49,640 --> 00:51:54,120
+quello che interessa a noi tendenzialmente è che si possono utilizzare applicazioni
+
+866
+00:51:54,120 --> 00:51:59,880
+come ad esempio Photoshop utilizzando le magie, chiamiamole così, di pencil.
+
+867
+00:51:59,880 --> 00:52:04,120
+Quindi voi almeno chi utilizza Photoshop e per esempio io l'ho utilizzato
+
+868
+00:52:04,120 --> 00:52:10,360
+tantissimo nel fotoritocco dei render oppure l'inserimento del render all'interno del contesto
+
+869
+00:52:10,360 --> 00:52:11,320
+urbanistico.
+
+870
+00:52:11,320 --> 00:52:16,040
+Photoshop è sempre stato abbastanza dal nostro punto di vista, di architetti
+
+871
+00:52:16,040 --> 00:52:22,120
+limitanti, perché dobbiamo usare questo cacchio di mouse e ci viene scomodo
+
+872
+00:52:22,280 --> 00:52:26,920
+fare questo tipo di ritocchi, che con questo tipo di strumenti tornerà
+
+873
+00:52:26,920 --> 00:52:29,800
+di nuovo piacevole a fare questo tipo di lavori.
+
+874
+00:52:29,800 --> 00:52:32,600
+Con la tavoletta grafica si fa tranquillamente.
+
+875
+00:52:32,600 --> 00:52:33,720
+Ti vorrei segnalare.
+
+876
+00:52:33,880 --> 00:52:36,960
+Lo so, è vero, ma io come ti dicevo, la tavoletta grafica,
+
+877
+00:52:36,920 --> 00:52:40,440
+finché non è passato Babbo Natale, non è mai ho viste sempre
+
+878
+00:52:40,440 --> 00:52:42,760
+dai miei amici, ma non è mai passata in casa e non
+
+879
+00:52:42,760 --> 00:52:43,960
+ho mai potuta sfruttarla.
+
+880
+00:52:43,960 --> 00:52:46,560
+Quindi, diciamo, è una tra virgolette delet.
+
+881
+00:52:46,720 --> 00:52:50,720
+Probabilmente ci sono più gli iPad che tavolette grafiche in giro per
+
+882
+00:52:50,720 --> 00:52:52,160
+il mondo, non vorrei sbagliarli.
+
+883
+00:52:52,160 --> 00:52:55,920
+Ma diciamo, uno dei motivi per cui Babbo Natale ti ha regalato
+
+884
+00:52:55,920 --> 00:53:02,800
+la tavoletta, è che tendenzialmente io utilizzo un'altra applicazione Luna Display, una
+
+885
+00:53:02,800 --> 00:53:03,840
+roba del genere.
+
+886
+00:53:03,840 --> 00:53:05,200
+Sì, Luna display.
+
+887
+00:53:06,960 --> 00:53:11,200
+L'applicazione, non invece il tema che hanno inventato, che è una specie
+
+888
+00:53:11,200 --> 00:53:15,760
+di dispositivo che colleghi direttamente al Mac e ti permette in pratica
+
+889
+00:53:15,760 --> 00:53:21,280
+di avere una parte dello schermo, perché comunque l'iPad Pro anche 13
+
+890
+00:53:21,280 --> 00:53:22,560
+pollici, chiamiamolo così.
+
+891
+00:53:22,560 --> 00:53:29,360
+Non riesce a catturare l'intero schermo attualmente del mio 16 pollici, ma
+
+892
+00:53:29,360 --> 00:53:33,680
+comunque di uno schermo medio grande e ti permette, ovviamente, però di
+
+893
+00:53:33,680 --> 00:53:37,600
+utilizzare non solo la pencil, che è molto interessante per disegnare.
+
+894
+00:53:37,600 --> 00:53:41,360
+Quindi, io, attualmente le poche volte che lo faccio e devo utilizzare
+
+895
+00:53:42,080 --> 00:53:46,160
+un programma che è direttamente sul Mac e non direttamente per Create
+
+896
+00:53:46,560 --> 00:53:48,640
+sull'iPad Pro.
+
+897
+00:53:48,640 --> 00:53:52,560
+Utilizzo questo strumento che mi permette anche di, oltre a disegnare con
+
+898
+00:53:52,560 --> 00:53:56,880
+la Pencil, di utilizzare le mani per ingrandire e ridurre, quindi è
+
+899
+00:53:56,880 --> 00:53:59,120
+molto intuitivo come sistema
+
+900
+00:54:00,560 --> 00:54:02,960
+funziona direi molto bene.
+
+901
+00:54:02,960 --> 00:54:07,680
+Ovvio che tengo collegato a cavo, diciamo, l'iPad Pro.
+
+902
+00:54:07,680 --> 00:54:12,640
+Tuttavia, prima di sidecar era l'unico assieme a Duet, che è l'altra
+
+903
+00:54:12,640 --> 00:54:17,760
+applicazione che fa cose simili, due uniche applicazioni dedicate al disegno per
+
+904
+00:54:17,760 --> 00:54:21,600
+utilizzare come una tavoletta grafica, sostanzialmente l'iPad.
+
+905
+00:54:21,600 --> 00:54:27,280
+Con la segnalazione, non è ancora, cioè oggi parliamo di sidecar come
+
+906
+00:54:27,280 --> 00:54:32,680
+funzione principale, ma visto che l'ho testata ed siamo ancora in beta
+
+907
+00:54:32,920 --> 00:54:34,040
+a riguardo.
+
+908
+00:54:34,040 --> 00:54:37,800
+Però Universal Control, credo che sia.
+
+909
+00:54:38,120 --> 00:54:40,600
+Adesso non mi ricordo più come lo chiama Apple.
+
+910
+00:54:40,840 --> 00:54:42,760
+Doveva essere quello il nome.
+
+911
+00:54:42,760 --> 00:54:47,720
+Sidecard non esisterà più, o meglio, diventerà un'opzione di Universal Control.
+
+912
+00:54:47,880 --> 00:54:54,200
+Quindi dalla versione 12.3 di Monterey dovrete fare una scelta volontaria per
+
+913
+00:54:54,200 --> 00:54:59,560
+utilizzare sidecar perché altrimenti lo schermo delle iPad rimarrà sempre delle iPad
+
+914
+00:54:59,720 --> 00:55:06,600
+e iPad potranno, chiamiamolo così, dialogare in maniera trasparente l'un con l'altro,
+
+915
+00:55:06,600 --> 00:55:10,520
+e in questo caso, però, appunto, la funzione che dice Roberto non
+
+916
+00:55:10,520 --> 00:55:14,040
+sarà così semplice da trovare se non si sa che esiste.
+
+917
+00:55:14,040 --> 00:55:17,800
+Per cui, visto che attualmente comunque molti dei nostri ascoltatori ci stanno
+
+918
+00:55:17,800 --> 00:55:22,840
+scoprendo, esse volentieri ascoltano anche le puntate vecchie, a prova di futuro,
+
+919
+00:55:22,840 --> 00:55:28,280
+visto che effettivamente uscirà, probabilmente tra qualche mese la nuova versione, appunto
+
+920
+00:55:28,360 --> 00:55:32,440
+con Universal Control, lo segnaliamo perché casomai qualcuno potrebbe dire, ma dove
+
+921
+00:55:32,440 --> 00:55:37,080
+capper è questo sidecar oggettivamente il sidecar che prima era presente le
+
+922
+00:55:37,160 --> 00:55:44,680
+preferenze di sistema, fino a Monterey 12.2, nella 12.3 invece non è
+
+923
+00:55:44,680 --> 00:55:47,080
+più presente perché si trova tutto nel monitor.
+
+924
+00:55:47,080 --> 00:55:52,600
+E con la magia Apple, diciamo, se avvicinate un iPad o un
+
+925
+00:55:52,600 --> 00:55:56,920
+secondo computer Apple, teoricamente con un semplice computer ne è riuscito a
+
+926
+00:55:56,920 --> 00:55:58,280
+gestire due o più.
+
+927
+00:55:58,280 --> 00:55:59,240
+Molto interessante.
+
+928
+00:55:59,240 --> 00:56:04,440
+Questo in effetti, adesso in questa sede non sappiamo come verrà gestito,
+
+929
+00:56:04,440 --> 00:56:08,040
+perché ovviamente nelle beta possono fare, ancora una beta esatto.
+
+930
+00:56:08,040 --> 00:56:12,440
+Però è fatto bene a ricordarlo perché side car probabilmente sarà una
+
+931
+00:56:12,440 --> 00:56:16,480
+funzione, diciamo, per gli addetti ai lavori, probabilmente perché hanno visto che
+
+932
+00:56:16,480 --> 00:56:20,880
+in effetti io lo ammetto, ho provato a utilizzarlo anche con applicazioni
+
+933
+00:56:20,880 --> 00:56:26,240
+non specificatamente studiate come Photoshop per il disegno digitale.
+
+934
+00:56:26,240 --> 00:56:30,480
+Provate a usarlo con un cado, un beam e vi renderete conto
+
+935
+00:56:30,480 --> 00:56:36,480
+di quanto la situazione sia veramente fragrosamente schifosa, nel senso che non
+
+936
+00:56:36,480 --> 00:56:38,720
+si riesce a utilizzare.
+
+937
+00:56:38,720 --> 00:56:45,680
+Diventa inutilizzabile invece con Photoshop che è da anni, molto probabilmente un'applicazione
+
+938
+00:56:45,680 --> 00:56:50,160
+che da anni utilizza il sistema di puntamento come quello della tavoletta
+
+939
+00:56:50,160 --> 00:56:55,360
+grafica, è chiaramente più portato rispetto ad altri sistemi che se lo
+
+940
+00:56:55,360 --> 00:56:59,920
+fossero, aiuterebbero molti a avere un po' meno di tunnel nel carpale.
+
+941
+00:56:59,920 --> 00:57:05,920
+Perché immagino che probabilmente disegnare con una pencil è molto meno faticoso
+
+942
+00:57:05,920 --> 00:57:09,760
+che disegnare con un mouse per otto ore, penso, perché noi siamo
+
+943
+00:57:09,760 --> 00:57:11,520
+nati con la penna.
+
+944
+00:57:11,680 --> 00:57:12,720
+È sistema migliore.
+
+945
+00:57:12,720 --> 00:57:13,200
+Il mouse.
+
+946
+00:57:13,200 --> 00:57:20,960
+Tut sommato, se fosse così ergonomicamente giusto, non avremmo sintomi di tunnel
+
+947
+00:57:20,960 --> 00:57:21,680
+carpale.
+
+948
+00:57:21,680 --> 00:57:26,000
+Certo che adesso ci sono i mouse decisamente più ergonomici, però considerate
+
+949
+00:57:26,160 --> 00:57:28,800
+che comunque è una situazione un po' particolare.
+
+950
+00:57:29,280 --> 00:57:35,840
+Io penso che l'utilizzo della Pencil possa decisamente migliorare la pesantezza al
+
+951
+00:57:35,840 --> 00:57:40,560
+polso, che i caddisti o chi nella progettazione architettonica è costretto a
+
+952
+00:57:40,560 --> 00:57:43,200
+utilizzare il mouse per più di otto ore al giorno.
+
+953
+00:57:43,760 --> 00:57:49,040
+Sì, e poi considerate che comunque sidecar nasce come monitor secondario, non
+
+954
+00:57:49,040 --> 00:57:50,800
+per disegnare o altre cose.
+
+955
+00:57:50,800 --> 00:57:56,400
+Tant'è vero che la Pencil nell'80% dei casi viene utilizzata come puntatore
+
+956
+00:57:56,880 --> 00:58:02,280
+dell'iPad in sidecar piuttosto che come vero e proprio pencil sidecar l'ho
+
+957
+00:58:02,280 --> 00:58:07,240
+usato, ma per avere uno schermo secondario in determinate circostanze dove mi
+
+958
+00:58:07,240 --> 00:58:10,200
+faceva comodo, non avevo un altro schermo e avevo l'iPad.
+
+959
+00:58:10,200 --> 00:58:15,160
+Direi che a questo punto abbiamo fatto ben più dell'ora che dovevamo
+
+960
+00:58:15,160 --> 00:58:19,960
+fare e non abbiamo concluso tutti gli argomenti della puntata.
+
+961
+00:58:19,960 --> 00:58:25,560
+Quindi, eventualmente ne faremo o una puntatona, diciamo, dove parliamo di varie
+
+962
+00:58:25,560 --> 00:58:29,720
+cose perché abbiamo piccole cosette da raccontarvi che sono un po' follow
+
+963
+00:58:29,880 --> 00:58:33,560
+up di altri episodi così via.
+
+964
+00:58:33,560 --> 00:58:38,760
+Quindi, probabilmente ci organizziamo per vedere un po' come fare.
+
+965
+00:58:39,720 --> 00:58:42,440
+A questo punto do la parola per i saluti finali al buon
+
+966
+00:58:42,440 --> 00:58:44,600
+Roberto, che è il nostro anfitrione.
+
+967
+00:58:44,600 --> 00:58:49,320
+Esagerato oggi, veramente applauso e scena aperta per Filippo per le sue
+
+968
+00:58:49,320 --> 00:58:50,040
+parole.
+
+969
+00:58:50,040 --> 00:58:54,840
+Allora, come sempre, sapete benissimo dove trovare tutti gli argomenti che abbiamo
+
+970
+00:58:54,840 --> 00:58:55,400
+trovato.
+
+971
+00:58:55,400 --> 00:58:59,640
+C'è una bella scaletta, chiamamola così, nelle note dell'episodio, che Filippo cura
+
+972
+00:58:59,640 --> 00:59:03,240
+amabilmente, sono sempre perfette e linde, precise.
+
+973
+00:59:03,400 --> 00:59:07,480
+All'interno di queste scalette troverete anche i link di tutti gli argomenti
+
+974
+00:59:07,480 --> 00:59:08,680
+che abbiamo toccato.
+
+975
+00:59:08,680 --> 00:59:14,040
+Se invece volete trovare la puntata e non avete un podcast catcher
+
+976
+00:59:14,920 --> 00:59:18,280
+nei vostri sistemi, ma penso che sia praticamente impossibile.
+
+977
+00:59:18,280 --> 00:59:21,160
+In caso, se volete accedere dal web, vi ci trovate su a
+
+978
+00:59:21,160 --> 00:59:22,600
+due podcast.it
+
+979
+00:59:23,640 --> 00:59:27,160
+30, che è il numero di questa bella puntata che abbiamo condotto
+
+980
+00:59:27,160 --> 00:59:28,440
+assieme a Filippo.
+
+981
+00:59:28,440 --> 00:59:31,720
+Dalle statistiche ti dico che c'è anche tanta gente che ci ascolta
+
+982
+00:59:31,720 --> 00:59:32,520
+dal computer.
+
+983
+00:59:32,520 --> 00:59:33,960
+Eh sì, ho notato
+
+984
+00:59:35,160 --> 00:59:40,360
+c'è questa tendenza, probabilmente perché diventa comodo lavorare magari con un paio
+
+985
+00:59:40,360 --> 00:59:45,280
+di cuffie e ci viene accompagnati nel lavoro con le nostre sua
+
+986
+00:59:45,280 --> 00:59:49,520
+denti voci, ma soprattutto con gli argomenti super interessanti che tira fuori
+
+987
+00:59:44,920 --> 00:59:52,160
+sempre Filippo ogni santa puntata.
+
+988
+00:59:52,320 --> 00:59:55,920
+Per quanto mi riguarda invece che diciamo l'anfitrione o quello che fa
+
+989
+00:59:55,920 --> 00:59:59,440
+sbaglio o quello che fa casino, mi potete trovare sul mio blog
+
+990
+00:59:59,440 --> 01:00:01,360
+personale che si chiama Mac Architettura.
+
+991
+01:00:01,520 --> 01:00:04,400
+Trovate all'indirizzo mark.net.wordpress.com.
+
+992
+01:00:04,400 --> 01:00:08,080
+Sono autore anche di un altro podcast che si chiama Snap Architettura
+
+993
+01:00:08,080 --> 01:00:12,320
+Imperfetta, che è il famoso podcast color grigio ciliegia, che accompagna gli
+
+994
+01:00:12,320 --> 01:00:18,000
+architetti nella transizione digitale, chiamiamola così, per passare dal tecnicrafo digitale a
+
+995
+01:00:18,000 --> 01:00:23,760
+qualcosa di più sviluppato, ma che diciamo che porta avanti la coevoluzione
+
+996
+01:00:23,760 --> 01:00:26,800
+di architetti e tecnologia che ormai devono andare di pari passo.
+
+997
+01:00:26,800 --> 01:00:31,920
+Mentre il nostro simpaticissimo Filippo finalmente ha trovato modo e voglia di
+
+998
+01:00:32,080 --> 01:00:35,760
+riprendere in mano un suo vecchio progetto che si chiama Compendium.
+
+999
+01:00:35,760 --> 01:00:40,640
+Sì, ho pubblicato quasi un anno di distanza dalla presente puntata, fine
+
+1000
+01:00:40,640 --> 01:00:48,480
+gennaio, credo, l'episodio 26 di Compendium, che appunto è il compendio del
+
+1001
+01:00:48,480 --> 01:00:51,440
+mio personale sito che è avvocatemac.it.
+
+1002
+01:00:51,440 --> 01:00:55,520
+Perfetto, adesso sapete dove trovarci, ci sentiamo tra due settimane.
+
+1003
+01:00:55,520 --> 01:00:56,320
+Alla prossima!

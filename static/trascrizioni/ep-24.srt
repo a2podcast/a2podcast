@@ -1,0 +1,4743 @@
+1
+00:00:00,240 --> 00:00:05,120
+Benvenuti all'episodio 24 di Adue in cui scoprire come ottenere il massimo
+
+2
+00:00:05,120 --> 00:00:06,560
+della vostra tecnologia Apple.
+
+3
+00:00:06,560 --> 00:00:10,240
+Io sono Filippo Strozzi e sono il vostro ospite assieme all'amico Roberto
+
+4
+00:00:10,240 --> 00:00:10,880
+Marin.
+
+5
+00:00:10,880 --> 00:00:13,280
+Di che cosa parliamo in questo episodio, Roberto?
+
+6
+00:00:13,280 --> 00:00:17,600
+Questa volta parliamo di nuovo di comandi rapidi.
+
+7
+00:00:17,600 --> 00:00:22,560
+Facciamo un ulteriore approfondimento perché ci sembrava giusto ritornare sull'argomento e raccontarvi
+
+8
+00:00:22,560 --> 00:00:26,320
+qualcosa di più dell'infarinatura che vi viene dato la scorsa puntata, che
+
+9
+00:00:26,640 --> 00:00:30,560
+non era proprio la scorsa, perché la scorsa c'era il nostro simpatico
+
+10
+00:00:30,560 --> 00:00:32,400
+amico Alex Raccuglia.
+
+11
+00:00:32,400 --> 00:00:36,640
+Invece stiamo parlando della puntata 22, which abbiamo fatto assieme al nostro
+
+12
+00:00:36,640 --> 00:00:42,800
+amico Daniele Borghi, tra l'altro, che vi abbiamo dato una velocissima infarinatura
+
+13
+00:00:42,800 --> 00:00:46,320
+di quello che possono essere i comandi rapidi e utilizzati all'interno della
+
+14
+00:00:46,320 --> 00:00:47,680
+nostra vita quotidiana.
+
+15
+00:00:47,680 --> 00:00:51,840
+In questa fase daremo per scontato l'introduzione già fatta in quella puntata
+
+16
+00:00:51,920 --> 00:00:55,920
+because non è il caso di ribadire cose che tendenzialmente devono essere
+
+17
+00:00:56,080 --> 00:01:00,560
+già conosciuti dai nostri simpatici ascoltatori, ringraziamo tutti con la manina destra
+
+18
+00:01:00,720 --> 00:01:05,680
+because they are splendid and ringraziamo di cuore per l'appoggio during the
+
+19
+00:01:06,080 --> 00:01:08,560
+percorso di podcaster and professionalist.
+
+20
+00:01:09,280 --> 00:01:12,640
+Ma prima di passare alle solite communication of service, because the punt
+
+21
+00:01:13,200 --> 00:01:17,680
+at the bellezza del 20 dicembre, and we stiamo registrando decisionally.
+
+22
+00:01:17,840 --> 00:01:19,280
+We told entrambi a fare
+
+23
+00:01:20,400 --> 00:01:22,880
+of Buone Fest, a tutti i nostri ascoltatori.
+
+24
+00:01:23,280 --> 00:01:28,160
+Oltre a ringraziarli, facciamo realmente un grandissimo augurio of Buone Fest.
+
+25
+00:01:28,240 --> 00:01:33,600
+Passate a buon Natale, divertitevi, riposate, but soprattutto ricordatevi che ci siamo
+
+26
+00:01:33,600 --> 00:01:38,080
+anche noi assieme a voi a festeggiare tutti quanti l'arrivo del Natale
+
+27
+00:01:38,080 --> 00:01:41,440
+e anche di un futuro anno prossimo che speriamo sia migliore del
+
+28
+00:01:41,520 --> 00:01:42,160
+2021.
+
+29
+00:01:42,400 --> 00:01:44,560
+Sì, se l'è cavata, ma poteva dare di meglio.
+
+30
+00:01:44,560 --> 00:01:48,800
+Comunque, salvo imprevisti, le pubblicazioni dei podcast continueranno per tutto il periodo
+
+31
+00:01:48,800 --> 00:01:49,720
+di vacanze.
+
+32
+00:01:49,720 --> 00:01:54,160
+Perché stiamo registrando un po' prima, come immagino avete intuito, visto che
+
+33
+00:01:54,160 --> 00:01:58,960
+abbiamo questa uscita bisettimanale, diciamola così, due volte al mese, e riusciamo
+
+34
+00:01:58,960 --> 00:02:02,920
+a mantenere una cadenza regolare e riusciamo anche a registrare un po'
+
+35
+00:01:59,680 --> 00:02:04,920
+prima in modo tale da incastrare un
+
+36
+00:02:05,000 --> 00:02:08,760
+po' tutti gli impegni che abbiamo a destra, manca, diciamo, tra quelle
+
+37
+00:02:08,760 --> 00:02:13,320
+professionali, tra quelle della famiglia e delle volte anche impegni informatici.
+
+38
+00:02:13,320 --> 00:02:17,560
+Ma adesso lasciamo perdere gli impegni informatici che sono i vari aggiornamenti,
+
+39
+00:02:17,560 --> 00:02:22,600
+vari problemi sui server che vengono gestiti brillantemente dal mio amico e
+
+40
+00:02:22,600 --> 00:02:27,080
+carissimo tecnico Filippo Strozzi, di Avvocati e Mac, che è sempre un
+
+41
+00:02:28,520 --> 00:02:31,080
+assoluto che tiene in piedi tutta la baracca.
+
+42
+00:02:31,080 --> 00:02:34,600
+E quindi vi sprono in questo caso, visto che Filippo è veramente
+
+43
+00:02:34,600 --> 00:02:37,800
+un grandissimo, io un po' meno, sto qua nell'angolino, ma se volete
+
+44
+00:02:37,800 --> 00:02:41,240
+sostenerci, mi metto in mezzo anch'io, che c'entro poco e niente.
+
+45
+00:02:41,240 --> 00:02:46,360
+Potete supportare il podcast facendo una simpatica e bellissima recensione.
+
+46
+00:02:46,360 --> 00:02:50,280
+Io ho spiegato in una recente puntata di Snap Architettura Imperfetta che
+
+47
+00:02:50,280 --> 00:02:55,560
+io tendenzialmente il 24 sera, mentre sto aspettando Natale, faccio le recensioni
+
+48
+00:02:55,560 --> 00:02:57,000
+dei podcast che ascolto.
+
+49
+00:02:57,000 --> 00:03:00,200
+Faccio una recensione di quelli che non ho già fatto, tendenzialmente tutti
+
+50
+00:03:00,200 --> 00:03:02,840
+quelli in italiano, perché quelli in inglese hanno già la fortuna di
+
+51
+00:03:02,840 --> 00:03:06,360
+avere un pubblico vastissimo e trovare anche qualcuno che li sponsorizza, invece,
+
+52
+00:03:06,360 --> 00:03:11,000
+quelli italiani hanno bisogno di queste recensioni per salire su nella classifica.
+
+53
+00:03:11,080 --> 00:03:16,280
+Io sono uno di quei tapini, diciamo, mettiamola così, che decide di
+
+54
+00:03:16,280 --> 00:03:20,680
+dare delle recensioni tendenzialmente tutte ottime, ai podcast che ascolto, perché se
+
+55
+00:03:20,680 --> 00:03:21,960
+no non li ascolterei.
+
+56
+00:03:21,960 --> 00:03:26,440
+E quindi mi raccomando: siamo vicini a Natali, ricordatevi di Filippo e
+
+57
+00:03:26,440 --> 00:03:30,280
+del sottoscritto che cercano di alitarvi le vostre orecchie con le nostre
+
+58
+00:03:30,280 --> 00:03:35,800
+parole che sono indirizzate ai professionisti che utilizzano la mela morsicata per
+
+59
+00:03:35,800 --> 00:03:36,680
+il proprio lavoro.
+
+60
+00:03:36,680 --> 00:03:39,800
+Se invece volete sapere come fare una recensione, perché non sapete come
+
+61
+00:03:39,800 --> 00:03:41,000
+fare, può anche capitare questo.
+
+62
+00:03:41,000 --> 00:03:42,960
+Troverete il link nelle note dell'episodio.
+
+63
+00:03:42,960 --> 00:03:45,280
+E invece, se volete fare due chiacchiere con noi, che ci fa
+
+64
+00:03:45,280 --> 00:03:48,960
+sempre molto piacere, oltre ai nostri canali che abbiamo separati per i
+
+65
+00:03:48,960 --> 00:03:53,440
+nostri, diciamo, canali sociali, io per Snap e lui per Avvocati e
+
+66
+00:03:53,440 --> 00:03:58,240
+Mac, monotematici, diciamo, molto verticale, anzi, verticalissimi.
+
+67
+00:03:58,240 --> 00:04:01,200
+E invece, in questo caso, se volete entrare in contatto direttamente con
+
+68
+00:04:01,200 --> 00:04:04,720
+noi due e raccontarci anche cosa fate nella vita perché vi piace
+
+69
+00:04:04,800 --> 00:04:07,920
+o se avete dei problemi, eventualmente se riusciamo anche a risolvere, siamo
+
+70
+00:04:08,000 --> 00:04:13,440
+anzi, ben lieti, di darvi qualche dritta, potete scriverci a scrivi.a chiocciola
+
+71
+00:04:13,440 --> 00:04:15,600
+a due podcast.it.
+
+72
+00:04:15,600 --> 00:04:19,760
+A questo punto direi che possiamo tranquillamente veleggiare in ordine di scalezza
+
+73
+00:04:19,760 --> 00:04:21,280
+sulle comunicazioni di servizio.
+
+74
+00:04:21,280 --> 00:04:23,120
+Quali sono le comunicazioni di servizio?
+
+75
+00:04:23,120 --> 00:04:24,400
+Vuoi parlarcene tu, Filippo?
+
+76
+00:04:24,400 --> 00:04:24,880
+Vado avanti?
+
+77
+00:04:24,880 --> 00:04:28,480
+Io, ne dico una io, poi dici le altre tu.
+
+78
+00:04:28,480 --> 00:04:32,880
+Che tanto sei bravo e bello e buono, no, allora
+
+79
+00:04:34,160 --> 00:04:38,240
+, togliamo bello, facciamo passare il buono.
+
+80
+00:04:38,240 --> 00:04:41,200
+Va bene, allora sei buono, sei buono?
+
+81
+00:04:41,200 --> 00:04:42,240
+Buono.
+
+82
+00:04:42,480 --> 00:04:48,000
+Comunque, non ne parleremo oggi e nelle eventuali prossime puntate allo Stato.
+
+83
+00:04:48,000 --> 00:04:53,760
+È comandi rapidi per Mac, perché allo Stato nelle note dell'episodio, poi
+
+84
+00:04:53,760 --> 00:04:57,120
+vi lascio anche il link a un articolo di David Spark.
+
+85
+00:04:57,120 --> 00:05:03,440
+Però la situazione di comandi rapidi su Mac è ancora abbastanza complicata,
+
+86
+00:05:03,440 --> 00:05:08,400
+è ancora in beta, e quindi funzionicchia ma non funziona perfettamente.
+
+87
+00:05:08,400 --> 00:05:14,480
+Per cui se siete su Monterrey e volete provare a utilizzare comandi
+
+88
+00:05:14,480 --> 00:05:19,000
+rapidi, fatelo, ma sappiate che attualmente la situazione non è perfetta, e
+
+89
+00:05:19,000 --> 00:05:24,000
+quindi alcuni problemi, cioè alcuni sciocandi rapidi che potreste fare, potrebbero non
+
+90
+00:05:24,000 --> 00:05:27,920
+funzionare perché non siete bravi voi, ma perché il sistema ha qualche
+
+91
+00:05:27,920 --> 00:05:28,400
+problema.
+
+92
+00:05:28,400 --> 00:05:34,280
+E quindi non scoraggiatevi se quando la situazione sarà stabile, diciamo, casomai
+
+93
+00:05:34,280 --> 00:05:39,160
+eventualmente ragioneremo assieme a Roberto di fare una puntata dedicata, anche perché
+
+94
+00:05:39,240 --> 00:05:42,280
+effettivamente me l'ha fatto notare Roberto.
+
+95
+00:05:42,520 --> 00:05:46,680
+Stavo ascoltando vari podcast nel periodo, ci sono anche delle cose molto
+
+96
+00:05:46,680 --> 00:05:51,800
+interessanti su Mac e comunque comandi rapidi su Mac va approcciato in
+
+97
+00:05:51,800 --> 00:05:56,360
+parte in maniera diversa da comandi rapidi su iOS e iPadOS, proprio
+
+98
+00:05:56,360 --> 00:06:00,920
+per le particolarità del sistema operativo e le funzioni anche differenti, la
+
+99
+00:06:00,920 --> 00:06:03,960
+possibilità di scripting insomma, tutta una serie di cose che il Mac
+
+100
+00:06:04,360 --> 00:06:07,400
+ha e che iOS e iPadOS non hanno.
+
+101
+00:06:07,400 --> 00:06:12,040
+Per cui sperimentate se volete, ma sappiate che ad oggi, mentre registiamo
+
+102
+00:06:12,040 --> 00:06:16,360
+questa puntata e probabilmente non a brevissimo, la situazione sarà così.
+
+103
+00:06:16,360 --> 00:06:19,320
+Poi invece Roberto vi parla di altre due cose.
+
+104
+00:06:19,320 --> 00:06:23,320
+Un'altra novità invece che ci ha interessato in modo molto da vicino.
+
+105
+00:06:23,400 --> 00:06:28,280
+Siamo veramente contenti perché è una cosa che non ci aspettavamo ed
+
+106
+00:06:28,280 --> 00:06:33,880
+è quella di Kraft Craft, che è un'applicazione che abbiamo avuto modo
+
+107
+00:06:33,880 --> 00:06:38,840
+di piacere e discutere con Daniele Borghi nella puntata 22, è riuscita
+
+108
+00:06:38,840 --> 00:06:43,240
+a diventare un'app molto importante perché, appunto, ha ricevuto il premio come
+
+109
+00:06:43,240 --> 00:06:47,320
+una delle migliori app del 2021, niente meno che direttamente da Apple.
+
+110
+00:06:47,320 --> 00:06:50,040
+Quindi la cosa ci ha fatto davvero molto piacere e ci ha
+
+111
+00:06:50,040 --> 00:06:51,240
+sorpreso tutti quanti.
+
+112
+00:06:51,560 --> 00:06:53,880
+Eravamo sul pezzo prima di tutti.
+
+113
+00:06:54,200 --> 00:06:58,120
+Diciamoci la verità, dobbiamo ringraziare anche Daniele di averci dato questa dritta
+
+114
+00:06:58,280 --> 00:07:02,600
+che noi non conoscevamo, e anzi, siamo uno di quelli che avrebbero
+
+115
+00:07:02,400 --> 00:07:06,040
+conosciuto Kraft direttamente da questo comunicato di Apple.
+
+116
+00:07:06,040 --> 00:07:08,520
+Perché prima non ne avevamo mai sentito parlare.
+
+117
+00:07:08,520 --> 00:07:11,240
+E quindi ringraziamo prima di tutto di cuore Daniele.
+
+118
+00:07:11,240 --> 00:07:14,440
+E poi ci diamo anche una bella pacca sulle spalle perché siamo
+
+119
+00:07:14,440 --> 00:07:16,080
+stati decisamente sul pezzo.
+
+120
+00:07:16,240 --> 00:07:19,600
+E se volete sapere come usarla, quali sono i pro e quali
+
+121
+00:07:19,600 --> 00:07:23,280
+sono i contro, correte ad ascoltare la puntata 22 di A due
+
+122
+00:07:23,440 --> 00:07:28,640
+podcast, podcast dedicato agli amici che utilizzano Apple per la propria professione.
+
+123
+00:07:28,640 --> 00:07:32,000
+L'altra cosa da segnalare, beh, a questo punto, visto che parlo io,
+
+124
+00:07:32,080 --> 00:07:33,600
+sono due cose da segnalare.
+
+125
+00:07:33,600 --> 00:07:38,080
+Novità sempre su Craft sono due: innanzitutto, una è che ha ottenuto
+
+126
+00:07:38,080 --> 00:07:42,400
+un grossissimo finanziamento di vari milioni di dollari, e quindi è un'applicazione
+
+127
+00:07:42,400 --> 00:07:45,120
+che probabilmente avrà un suo futuro.
+
+128
+00:07:45,120 --> 00:07:46,080
+Mettiamola così.
+
+129
+00:07:46,080 --> 00:07:50,640
+L'altra cosa che è stata lanciata adesso come programma beta per gli
+
+130
+00:07:50,640 --> 00:07:56,240
+sviluppatori, ma promette di essere una cosa molto interessante l'idea di questo
+
+131
+00:07:56,240 --> 00:08:03,280
+Craft X che è sostanzialmente un modo permettere di dialogare tra più
+
+132
+00:08:03,280 --> 00:08:04,400
+applicazioni e craft.
+
+133
+00:08:04,400 --> 00:08:07,200
+Di modo che, per esempio, se uno vuole scrivere un articolo
+
+134
+00:08:08,640 --> 00:08:13,680
+utilizzando, diciamo, il sistema di Craft, cioè quindi il sistema di gestione
+
+135
+00:08:13,680 --> 00:08:18,240
+dei contenuti di Craft, ma preferisce utilizzare un'altra applicazione per scrivere veramente,
+
+136
+00:08:18,240 --> 00:08:21,040
+sarà possibile interfacciare due applicazioni una con l'altra.
+
+137
+00:08:21,040 --> 00:08:25,040
+Adesso ovviamente vi do un'idea di fondo perché non l'abbiamo ancora viste
+
+138
+00:08:25,040 --> 00:08:26,000
+e così via.
+
+139
+00:08:26,000 --> 00:08:30,080
+Tuttavia, addirittura nel sito si parla appunto della possibilità, per esempio, di
+
+140
+00:08:30,080 --> 00:08:35,920
+pubblicare articoli direttamente da Craft, sviluppando appunto delle interfacce, per esempio, per
+
+141
+00:08:35,920 --> 00:08:37,040
+WordPress e così via.
+
+142
+00:08:37,200 --> 00:08:39,760
+Quindi è una cosa molto interessante.
+
+143
+00:08:39,760 --> 00:08:43,840
+L'ultima cosa a questo punto da dire prima di entrare nel vivo
+
+144
+00:08:43,920 --> 00:08:48,400
+della puntata è che proprio perché abbiamo parlato di Craft, proprio perché
+
+145
+00:08:49,600 --> 00:08:56,160
+Roberto comunque è appassionato di Notion, io comunque sono sempre seguito e
+
+146
+00:08:56,160 --> 00:09:00,000
+seguo e utilizzo Obsidian così come Devon Think.
+
+147
+00:09:00,280 --> 00:09:05,960
+Stavamo pensando di fare una puntata sui cosiddetti Knowledge Management Software, cioè
+
+148
+00:09:06,040 --> 00:09:11,320
+software di gestione della conoscenza, che effettivamente si interfacciano in parte ne
+
+149
+00:09:11,320 --> 00:09:14,920
+abbiamo parlato in parte proprio perché ne abbiamo parlato negli editor di
+
+150
+00:09:14,920 --> 00:09:18,440
+testi, ma solo per la parte diciamo di scrittura.
+
+151
+00:09:18,440 --> 00:09:23,080
+Qui invece è la parte di gestione dei contenuti e di intersezione
+
+152
+00:09:23,160 --> 00:09:28,280
+diciamo delle note digli appunti che prendiamo con questi software.
+
+153
+00:09:28,280 --> 00:09:33,640
+Quindi diteci se siete interessati e se volete appunto scriveteci un'email o
+
+154
+00:09:33,640 --> 00:09:37,400
+contattateci su Twitter o Telegram, anche perché
+
+155
+00:09:38,440 --> 00:09:43,080
+ci piacerebbe trovare altre persone che usano, per esempio, Rome, che è
+
+156
+00:09:43,080 --> 00:09:47,320
+uno di questi software famosi, ma che almeno io non l'ho mai
+
+157
+00:09:47,320 --> 00:09:48,520
+testato in vita mia.
+
+158
+00:09:48,520 --> 00:09:53,880
+Roberto, credo di no, perché diciamo è un competitor di Notion.
+
+159
+00:09:53,880 --> 00:10:00,520
+Quindi, tendenzialmente ci farebbe piacere sentire la vostra su se utilizzate ovviamente
+
+160
+00:10:00,520 --> 00:10:06,120
+queste applicazioni, e probabilmente sentiremo anche il buon Daniele che, appunto, ha
+
+161
+00:10:06,120 --> 00:10:08,600
+testato Craft, ma non si è fermato lì.
+
+162
+00:10:08,840 --> 00:10:12,920
+A questo punto dovremo anche scoprire su cosa poi è andato a
+
+163
+00:10:12,920 --> 00:10:13,880
+parare alla fine.
+
+164
+00:10:14,120 --> 00:10:19,560
+Quindi, se siete interessati, ditecelo se avete delle esperienze specifiche, ci farebbe
+
+165
+00:10:19,560 --> 00:10:21,400
+piacere che le condivideste.
+
+166
+00:10:21,800 --> 00:10:25,640
+Certamente ottimo consiglio e mi raccomando, scrivete tutti numerosi.
+
+167
+00:10:25,640 --> 00:10:30,280
+Detto questo, andiamo direttamente all'interno della puntata che dobbiamo andare già di
+
+168
+00:10:30,280 --> 00:10:35,600
+nuovo spediti, giustamente perché insomma, qua c'è sempre Filippo che mi bacchetto,
+
+169
+00:10:35,560 --> 00:10:37,480
+sempre le dita molto rosse.
+
+170
+00:10:37,480 --> 00:10:40,360
+Quando faccio la puntata con lui perché non si può divagare.
+
+171
+00:10:40,360 --> 00:10:42,760
+E quindi andiamo direttamente su comandi rapidi.
+
+172
+00:10:42,760 --> 00:10:46,320
+Comandi rapidi, come vi avevano detto nella puntata 22, abbiamo dato un'infarinata.
+
+173
+00:10:46,720 --> 00:10:51,920
+Abbiamo visto come provare comandi rapidi attraverso la galleria, la numerosa galleria
+
+174
+00:10:51,920 --> 00:10:54,960
+che ha a disposizione tutti gli utenti di iOS, ma a questo
+
+175
+00:10:54,960 --> 00:10:57,360
+punto anche di macOS, ma non ho ancora visto la galleria di
+
+176
+00:10:57,360 --> 00:11:01,760
+macOS, poi ci racconterai se è simile o diversa a quella, ma
+
+177
+00:11:01,760 --> 00:11:04,160
+magari è uguale la stessa, bene.
+
+178
+00:11:04,160 --> 00:11:08,480
+Perché ricordo, tra virgolette, che io sono indietro di due sistemi operativi.
+
+179
+00:11:08,480 --> 00:11:13,280
+Forse se tutto va bene questo inverno, magari metto su quello Big
+
+180
+00:11:13,280 --> 00:11:17,840
+Sur, forse se va bene, ma comunque ritornando a Bomba, abbiamo anche
+
+181
+00:11:17,840 --> 00:11:21,840
+esaminato l'interfaccia a base di comandi rapidi con delle veloci spiegazioni.
+
+182
+00:11:21,840 --> 00:11:23,920
+Come abbiamo detto, era proprio un'infarinatura.
+
+183
+00:11:23,920 --> 00:11:28,000
+Oggi invece ci addenteremo su come creare un comando rapido personalizzato e
+
+184
+00:11:28,000 --> 00:11:32,240
+quindi ci potremo iniziare a divertire con un po' di programmazione per
+
+185
+00:11:32,560 --> 00:11:33,120
+tutti.
+
+186
+00:11:33,120 --> 00:11:37,920
+Chiamiamola così, perché alla fine si tratta semplicemente di mettere giù una
+
+187
+00:11:37,920 --> 00:11:44,080
+mentalità di programmazione all'interno di un'interfaccia e renderla più comprensibile possibile.
+
+188
+00:11:44,240 --> 00:11:50,080
+Poi parleremo, se riusciamo, anche dell'interfaccia per iOS ed iPadOS 15.
+
+189
+00:11:50,080 --> 00:11:55,200
+A questo punto direi che possiamo tranquillamente andare a vedere l'interfaccia di
+
+190
+00:11:55,200 --> 00:11:57,840
+comandi rapidi quando l'ho iniziato ad aprire.
+
+191
+00:11:57,840 --> 00:12:01,440
+Il buon Filippo Strozzi mi ha mandato una bella immagine di iPad
+
+192
+00:12:01,600 --> 00:12:06,000
+OS, di comandi rapidi e di cosa c'è in questa finestra.
+
+193
+00:12:06,000 --> 00:12:09,680
+Appena l'apriamo abbiamo in alto il nome del comando rapido e l'opzione
+
+194
+00:12:09,680 --> 00:12:10,320
+di avvio.
+
+195
+00:12:10,320 --> 00:12:14,320
+Però a questo punto io lascio la palla a Filippo che sicuramente
+
+196
+00:12:14,320 --> 00:12:18,800
+è decisamente più sul pezzo di me, anche perché, comunque abbiamo fatto
+
+197
+00:12:18,800 --> 00:12:22,880
+anche un'esperienza insieme di un comando rapido che ha cercato di creare
+
+198
+00:12:22,880 --> 00:12:28,960
+Filippo e che purtroppo si è scontrato contro, diciamo, una finestra che
+
+199
+00:12:28,960 --> 00:12:30,000
+potrebbe essere Roberto.
+
+200
+00:12:30,360 --> 00:12:35,240
+Diciamo, avuto questo intoppo e ci siamo un po' confrontati sul comando
+
+201
+00:12:35,240 --> 00:12:38,440
+rapido e li sveleremo tutto quanto più avanti.
+
+202
+00:12:38,440 --> 00:12:41,960
+Ma adesso parliamo di cose più interessanti, lasciamo la palla a Filippo
+
+203
+00:12:42,120 --> 00:12:43,640
+che ci racconterà tutto quanto.
+
+204
+00:12:43,640 --> 00:12:49,400
+Allora, le immagini che utilizzeremo, diciamo, per le descrizioni le troverete comunque
+
+205
+00:12:49,400 --> 00:12:57,640
+nelle note dell'episodio, proprio perché oggettivamente, senza vedere come funziona l'interfaccia diventa
+
+206
+00:12:57,640 --> 00:12:59,240
+un po' scomodo.
+
+207
+00:12:59,400 --> 00:13:01,480
+Racontarla solo a voce.
+
+208
+00:13:01,480 --> 00:13:07,960
+Quindi vi consiglio di, se potete aprire ovviamente il vostro programma di
+
+209
+00:13:07,960 --> 00:13:11,880
+ascolto dei podcast, e andare a vedere le immagini che saranno legate
+
+210
+00:13:11,880 --> 00:13:15,560
+alle note dell'episodio di questo episodio.
+
+211
+00:13:15,560 --> 00:13:20,200
+Diciamo che l'interfaccia si modifica in base a che sia ovviamente un
+
+212
+00:13:20,200 --> 00:13:24,200
+iPhone, dove lo schermo è quello che è, o l'iPad.
+
+213
+00:13:24,200 --> 00:13:28,440
+Quindi guardiamo prima l'iPad, che è quello un po' più completo sostanzialmente.
+
+214
+00:13:28,760 --> 00:13:33,560
+E nella sostanza, come diceva Roberto, se andiamo ad aprire un nuovo
+
+215
+00:13:33,560 --> 00:13:39,000
+comando rapido con l'iPad, ci troveremo una colonna di sinistra che è
+
+216
+00:13:39,000 --> 00:13:40,040
+molto grossa.
+
+217
+00:13:40,360 --> 00:13:45,480
+Vremo che contiene nella parte iniziale la possibilità di dare un nome
+
+218
+00:13:45,480 --> 00:13:51,640
+al nostro comando rapido, annulla il rifai, quindi modificare nell'editor che è
+
+219
+00:13:51,640 --> 00:13:55,480
+giusto sotto le azioni che si sono inserite o le modifiche che
+
+220
+00:13:55,480 --> 00:13:56,520
+si sono fatte.
+
+221
+00:13:56,520 --> 00:14:00,360
+C'è, come sempre, la opzione di condivisione del comando rapido.
+
+222
+00:14:00,680 --> 00:14:04,520
+Interrompo Filippo perché, giustamente, secondo me, manca una parte fondamentale.
+
+223
+00:14:04,760 --> 00:14:06,760
+Lo dico io perché sono l'utonto.
+
+224
+00:14:06,760 --> 00:14:10,200
+Sono quello che apre comandi rapidi e dice, OK, mi trovo subito
+
+225
+00:14:10,200 --> 00:14:11,560
+un comando rapido da fare.
+
+226
+00:14:11,560 --> 00:14:12,280
+Non è così.
+
+227
+00:14:12,280 --> 00:14:15,360
+Nel senso, quando aprite comandi rapidi per la prima volta, vi trovate
+
+228
+00:14:15,360 --> 00:14:20,160
+sulla sinistra l'elenco dei comandi rapidi con la galleria, l'automazione via discorrendo,
+
+229
+00:14:20,160 --> 00:14:22,720
+e sulla destra tutti i comandi rapidi che avete.
+
+230
+00:14:22,720 --> 00:14:25,520
+Per crearne uno dovete andare sul più.
+
+231
+00:14:25,520 --> 00:14:28,800
+Nel senso, non è che vi trovate direttamente questa finestra.
+
+232
+00:14:28,800 --> 00:14:31,120
+L'abbiamo fatto nella scorsa puntata.
+
+233
+00:14:31,280 --> 00:14:33,920
+Ma io lo ricordo perché io so già che mi trovo quello
+
+234
+00:14:33,920 --> 00:14:35,520
+che, come me, dice cacchio!
+
+235
+00:14:35,520 --> 00:14:38,640
+Dai, che vado a fare il comando rapido, apre i comandi rapidi
+
+236
+00:14:38,640 --> 00:14:39,360
+e non lo trova.
+
+237
+00:14:39,360 --> 00:14:44,640
+Abbiamo visto nella puntata scorsa, abbiamo visto le tre opzioni sostanzialmente: automazioni,
+
+238
+00:14:44,640 --> 00:14:46,880
+galleria e poi i miei comandi rapidi.
+
+239
+00:14:46,880 --> 00:14:49,760
+I miei comandi rapidi abbiamo, se li abbiamo già fatti, i nostri
+
+240
+00:14:49,760 --> 00:14:54,400
+comandi rapidi, se no, appunto possiamo crearne dei nuovi cliccando sul pulsantino
+
+241
+00:14:54,400 --> 00:14:58,640
+più che davo per scontato, appunto, come avevamo detto all'introduzione.
+
+242
+00:14:58,640 --> 00:15:02,240
+Ma io sono un tonto, io voglio mettere gli amici come me
+
+243
+00:15:02,400 --> 00:15:04,240
+nelle condizioni di andare avanti.
+
+244
+00:15:04,240 --> 00:15:08,880
+Quindi, noi avete fatto quello che dovevate fare, vi trovate nell'interfaccia.
+
+245
+00:15:08,880 --> 00:15:13,840
+E appunto sulla sinistra, dopo appunto il nome del comando rapido nell'interruzione
+
+246
+00:15:13,920 --> 00:15:17,920
+me lo scordato, c'è ovviamente nella parte in alto, oltre al nome
+
+247
+00:15:17,920 --> 00:15:22,720
+del comando, oltre alla nulla e rify, oltre alla condivisione del comando
+
+248
+00:15:22,720 --> 00:15:26,720
+rapido perché lo potete condividere con altri soggetti, tasto play.
+
+249
+00:15:26,720 --> 00:15:31,280
+Diciamo che serve per far partire il comando rapido e che ovviamente
+
+250
+00:15:31,280 --> 00:15:36,160
+spesso e volentieri utilizzerete per testare il comando rapido in senso tecnico.
+
+251
+00:15:36,160 --> 00:15:40,720
+Perché all'inizio, la prima volta probabilmente non riuscirete a fare un comando
+
+252
+00:15:40,720 --> 00:15:41,360
+rapido giusto.
+
+253
+00:15:41,760 --> 00:15:44,960
+Ma no, serve semplicemente a capire se funziona o no.
+
+254
+00:15:44,960 --> 00:15:48,240
+Essenzialmente, se arriva al punto in cui volete o c'è qualche intopo
+
+255
+00:15:48,320 --> 00:15:48,800
+in mezzo.
+
+256
+00:15:48,800 --> 00:15:52,800
+Sulla destra, invece, vi trovate un'altra colonna con varie opzioni.
+
+257
+00:15:52,800 --> 00:15:55,760
+In generale ve la troverete con la ricerca delle azioni e i
+
+258
+00:15:55,760 --> 00:15:57,760
+suggerimenti delle azioni utili.
+
+259
+00:15:58,000 --> 00:16:04,440
+Suggerimenti sia delle tue applicazioni sia di possibili azioni donate dalle altre
+
+260
+00:15:59,520 --> 00:15:59,920
+applicazioni
+
+261
+00:15:59,920 --> 00:16:05,960
+a comandi rapidi.
+
+262
+00:16:06,120 --> 00:16:09,720
+Dopo lo andremo a vedere un po' più nel dettaglio, però sappiate
+
+263
+00:16:09,720 --> 00:16:11,480
+questa più o meno la struttura.
+
+264
+00:16:11,480 --> 00:16:17,320
+E se invece andate a cliccare sull'icona selezionata di default, è un'icona
+
+265
+00:16:17,400 --> 00:16:22,120
+con una stellina all'interno di dei riquadri compilati,
+
+266
+00:16:23,320 --> 00:16:30,200
+se invece cliccate sui dealer, cioè sulle manopoline, per settare appunto comandi
+
+267
+00:16:30,200 --> 00:16:36,760
+rapidi, avrete una nuova colonna di destra con i dettagli del comando
+
+268
+00:16:36,760 --> 00:16:40,520
+rapido, la privacy e la configurazione.
+
+269
+00:16:40,520 --> 00:16:46,760
+Velocemente nei dettagli possiamo fare tutta una serie di scelte.
+
+270
+00:16:46,760 --> 00:16:50,520
+Tra cui una volta che abbiamo creato il nostro comando rapido, cliccando
+
+271
+00:16:50,680 --> 00:16:56,600
+su Aggiungi, possiamo salvare non è salvarlo in senso tecnico, ma possiamo
+
+272
+00:16:56,600 --> 00:17:02,760
+creare un'icona nella home della home dell'iPhone e di iPad.
+
+273
+00:17:02,760 --> 00:17:04,840
+Scusate la terminologia, ma è effettivamente
+
+274
+00:17:06,280 --> 00:17:07,080
+non esiste
+
+275
+00:17:08,360 --> 00:17:12,520
+è la pagina dove vi trovate tutte le icone dell'applicazione.
+
+276
+00:17:12,520 --> 00:17:15,000
+Sostanzialmente sui iPhone o i widget.
+
+277
+00:17:15,000 --> 00:17:17,080
+E la stessa cosa vale per l'iPad.
+
+278
+00:17:17,080 --> 00:17:18,760
+Aspetta Filippo, un attimo.
+
+279
+00:17:18,760 --> 00:17:22,200
+Questa icona non è una semplice icona, è una vera e propria
+
+280
+00:17:22,200 --> 00:17:22,920
+applicazione.
+
+281
+00:17:22,920 --> 00:17:24,280
+Quell'icona lì.
+
+282
+00:17:24,760 --> 00:17:27,480
+Faccio un passo in avanti e un passo indietro.
+
+283
+00:17:27,960 --> 00:17:31,720
+La mia idea: diciamo, è che creeremo assieme in questa puntata, un
+
+284
+00:17:31,720 --> 00:17:33,240
+comando rapido che fa questa cosa.
+
+285
+00:17:33,400 --> 00:17:37,000
+Fa scegliere una foto dal vostro urlino, delle foto, sostanzialmente.
+
+286
+00:17:37,000 --> 00:17:42,520
+C'è un testo precompilato che manderete poi via con i messagg con
+
+287
+00:17:42,520 --> 00:17:44,200
+messaggi sostanzialmente.
+
+288
+00:17:44,200 --> 00:17:48,880
+Assieme alla foto, che sembra una roba banale e abbiamo scoperto io
+
+289
+00:17:48,880 --> 00:17:52,800
+e Roberto mentre facevo tutta questa operazione non è così banale come
+
+290
+00:17:52,800 --> 00:17:57,760
+sembra, ma è utile nel senso che così, da una parte noi
+
+291
+00:17:57,760 --> 00:18:02,000
+abbiamo imparato e dalla parte e didattico, perché mi sono reso conto
+
+292
+00:18:02,000 --> 00:18:03,840
+che io pensavo di fare una cosa che ho detto:
+
+293
+00:18:05,040 --> 00:18:08,800
+lo faccio con due azioni e invece ho dovuto trovare anche un
+
+294
+00:18:08,800 --> 00:18:09,760
+escamota.
+
+295
+00:18:10,000 --> 00:18:16,240
+Oggettivamente messaggi è difficile da automatizzare nella sostanza, perché non c'è poi
+
+296
+00:18:16,240 --> 00:18:18,960
+tantissima automazione in messaggi.
+
+297
+00:18:19,200 --> 00:18:22,880
+Da un certo punto di vista, probabilmente come aveva fatto notare Roberto
+
+298
+00:18:22,880 --> 00:18:28,400
+nella nostra chiacchierata assieme, è più semplice usare l'unzione di condivisione delle
+
+299
+00:18:28,400 --> 00:18:31,840
+foto direttamente da foto, che ti permette di mandare la foto via
+
+300
+00:18:31,840 --> 00:18:33,840
+messaggio e scrivere il testo direttamente.
+
+301
+00:18:33,840 --> 00:18:34,080
+Ma
+
+302
+00:18:35,280 --> 00:18:41,600
+per scopi scientifici faremo comunque il nostro comando rapido fatto così scopriremo
+
+303
+00:18:41,600 --> 00:18:42,320
+varie cosette.
+
+304
+00:18:42,320 --> 00:18:48,400
+Tornando indietro, appunto, se una volta che avremo creato questo comando rapido,
+
+305
+00:18:48,400 --> 00:18:49,280
+ok.
+
+306
+00:18:49,280 --> 00:18:57,680
+Potremmo appunto, cliccando su Aggiungere Home avercelo direttamente sulla nostra Home di
+
+307
+00:18:57,680 --> 00:18:59,360
+iPhone o iPad.
+
+308
+00:18:59,360 --> 00:19:04,640
+E a questo punto, premendo, facendo un tap su quell'icona, automaticamente si
+
+309
+00:19:04,640 --> 00:19:09,520
+aprirà il menu diciamo per scegliere la foto e poi verrà inviato,
+
+310
+00:19:09,520 --> 00:19:13,760
+o meglio, verrà aperta l'applicazione messaggi con la foto e il messaggio
+
+311
+00:19:13,760 --> 00:19:18,160
+che abbiamo preimpostato noi: tipo guarda questa bella foto, guarda queste belle
+
+312
+00:19:18,160 --> 00:19:19,200
+foto, ok.
+
+313
+00:19:19,520 --> 00:19:21,200
+Quindi questa è l'idea di fondo.
+
+314
+00:19:21,200 --> 00:19:26,080
+Poi abbiamo il mostra in condivisione invece che vi permette di far
+
+315
+00:19:26,080 --> 00:19:30,200
+vedere il vostro comando rapido, il comando rapido in cui attivate questa
+
+316
+00:19:29,840 --> 00:19:32,760
+opzione nella scelta di condivisione.
+
+317
+00:19:33,080 --> 00:19:37,960
+Questo quando è utile, ma in molte occasioni perché, per esempio, volete,
+
+318
+00:19:37,960 --> 00:19:43,240
+non so, un comando rapido che uso spessissimo quando scrivo gli articoli,
+
+319
+00:19:43,240 --> 00:19:50,920
+è sui comandi e faccio la foto di vari step, varie fasi
+
+320
+00:19:50,920 --> 00:19:52,040
+del comando rapido.
+
+321
+00:19:52,280 --> 00:19:56,680
+Poi quindi sono tre foto, per esempio, perché il comando rapido è
+
+322
+00:19:56,680 --> 00:19:57,560
+molto lungo, ok?
+
+323
+00:19:57,560 --> 00:20:00,200
+E quindi non riesco a farlo stare in uno screenshot e basta.
+
+324
+00:20:00,200 --> 00:20:01,400
+Una cattura schermo e basta.
+
+325
+00:20:01,400 --> 00:20:02,840
+Ma me ne servono due o tre.
+
+326
+00:20:02,840 --> 00:20:03,720
+Cosa faccio?
+
+327
+00:20:03,720 --> 00:20:07,960
+Faccio le mie tre catture schermo, poi le seleziono.
+
+328
+00:20:07,960 --> 00:20:12,760
+A questo punto faccio il tap sul tasto di condivisione delle foto,
+
+329
+00:20:13,000 --> 00:20:17,080
+scelgo a questo punto il comando rapido che mi permette di metterle
+
+330
+00:20:17,080 --> 00:20:17,480
+in fila
+
+331
+00:20:19,000 --> 00:20:25,080
+di unirle verticalmente e mi genera e mi salva direttamente nel riunio
+
+332
+00:20:25,080 --> 00:20:29,640
+del fotografico, uno screenshot completo di tutti e tre le schermate, una
+
+333
+00:20:29,640 --> 00:20:33,320
+attaccata l'altro, e sembra che io abbia fatto lo screenshot di tutti
+
+334
+00:20:33,480 --> 00:20:35,240
+i comandi rapidi e quant'altro.
+
+335
+00:20:35,240 --> 00:20:38,360
+Che è molto comodo ovviamente, come potete intuire e ce ne sono
+
+336
+00:20:38,360 --> 00:20:41,480
+miliardi di opzioni di questo genere.
+
+337
+00:20:41,480 --> 00:20:46,360
+La cosa fondamentale in questo caso, questo è un trucchetto che bisogna
+
+338
+00:20:46,360 --> 00:20:51,080
+sapere, è che una volta che avete abilitato questa funzione, potete anche
+
+339
+00:20:51,080 --> 00:20:57,560
+scegliere che tipo di input sostanzialmente, cioè che tipo di dato, fare
+
+340
+00:20:57,720 --> 00:20:59,800
+mangiare al vostro comando rapido.
+
+341
+00:21:00,440 --> 00:21:03,880
+E in questo caso il mio consiglio personale è quello di essere
+
+342
+00:21:03,880 --> 00:21:11,080
+molto selettivi: cioè, se mettete qualunque cosa, diciamo, l'ipotesi di unire le
+
+343
+00:21:11,080 --> 00:21:14,280
+foto, per esempio, potreste passargli anche del testo.
+
+344
+00:21:14,280 --> 00:21:18,320
+Poi, ovviamente, non riesce a unirlo il testo con questo comando rapido.
+
+345
+00:21:18,320 --> 00:21:21,840
+Per cui l'importante è dire che può prendere solo, per esempio, delle
+
+346
+00:21:14,840 --> 00:21:22,320
+foto.
+
+347
+00:21:23,680 --> 00:21:28,560
+L'altra cosa è che in questa maniera quando avete selezionato nelle foto,
+
+348
+00:21:28,560 --> 00:21:35,120
+verrà nella condivisione nel menu della condivisione, solo i comandi rapidi legati,
+
+349
+00:21:35,120 --> 00:21:38,400
+per esempio, alle foto, piuttosto che non so, a un PDF piuttosto
+
+350
+00:21:38,400 --> 00:21:42,080
+che a un semplice testo che avete selezionato.
+
+351
+00:21:42,320 --> 00:21:46,880
+Questo è molto comodo perché se iniziate ad avere troppi comandi rapidi,
+
+352
+00:21:46,880 --> 00:21:50,880
+se vi siete esaltati tantissimo e avete tanti comandi rapidi, come può
+
+353
+00:21:50,880 --> 00:21:51,520
+capitare
+
+354
+00:21:52,960 --> 00:21:55,120
+, vi toccherà scorrere.
+
+355
+00:21:55,360 --> 00:21:59,040
+Tra l'altro, una delle cose che io odio di più è che
+
+356
+00:21:59,040 --> 00:22:02,880
+non è facile provare il comando rapido siccome non ci sono i
+
+357
+00:22:02,880 --> 00:22:06,240
+colori dei comandi rapidi, cioè voi potete tra le varie cose di
+
+358
+00:22:06,240 --> 00:22:10,080
+personalizzazione, dare anche un colore specifico al comando rapido nel menu a
+
+359
+00:22:10,080 --> 00:22:14,880
+condivisione è tutto in grigio e quindi si fa fatica.
+
+360
+00:22:14,880 --> 00:22:18,160
+Io, per esempio, come al solito sono un amante delle emoji, nei
+
+361
+00:22:18,240 --> 00:22:21,920
+comandi rapidi spesso e volentieri, alla fine del comando rapido, metto un'emoji
+
+362
+00:22:21,920 --> 00:22:27,440
+per fare risaltare di più la cosa, soprattutto quando è, se ne
+
+363
+00:22:27,440 --> 00:22:28,320
+ha molti.
+
+364
+00:22:28,560 --> 00:22:32,240
+Ovviamente un'emoji che abbia un suo senso logico collegato a quel comando
+
+365
+00:22:32,240 --> 00:22:36,160
+rapido lì, ecco perché, se no, diventa abbastanza.
+
+366
+00:22:36,400 --> 00:22:40,480
+C'è anche l'opzione che questa è nuova, che conosco poco, che ricevi
+
+367
+00:22:40,480 --> 00:22:45,040
+i contenuti sullo schermo: cioè c'è la possibilità di utilizzare sostanzialmente le
+
+368
+00:22:45,040 --> 00:22:50,080
+nuove funzioni di riconoscimento del testo, della cattura del testo, direttamente dallo
+
+369
+00:22:50,080 --> 00:22:52,800
+schermo, e a questo punto fare altre operazioni.
+
+370
+00:22:52,800 --> 00:22:53,720
+C'è la possibilità.
+
+371
+00:22:53,720 --> 00:22:55,680
+Ma, questo è interessante.
+
+372
+00:22:55,760 --> 00:22:58,960
+Cadi male nel senso che non so esattamente come funziona, devo dire
+
+373
+00:22:58,960 --> 00:22:59,560
+la verità.
+
+374
+00:22:59,880 --> 00:23:04,600
+Tuttavia, se funziona come penso io, potrebbe essere interessante in fase di
+
+375
+00:22:59,200 --> 00:23:05,080
+scansione.
+
+376
+00:23:05,160 --> 00:23:08,200
+Se tu fai una scansione di un documento, gli potresti chiedere di
+
+377
+00:23:08,200 --> 00:23:12,440
+rilevare il testo e se vede una data, di salvarlo con quella
+
+378
+00:23:12,440 --> 00:23:17,160
+data, potrebbe essere fatto, potrebbe essere fatto, non è così semplice come
+
+379
+00:23:17,160 --> 00:23:21,880
+la fai tu, è sicuramente un'automazione avanzata perché ci vogliono le regex
+
+380
+00:23:22,120 --> 00:23:23,240
+e tanta roba.
+
+381
+00:23:23,480 --> 00:23:27,880
+Quindi ti abbatto subito, e anzi, vi consiglio di iniziare a ragionare
+
+382
+00:23:27,960 --> 00:23:28,920
+su queste cose.
+
+383
+00:23:29,160 --> 00:23:33,160
+Partite con cose semplici e poche azioni.
+
+384
+00:23:33,160 --> 00:23:37,400
+Poi dopo potete diventare come vi dice fare un comando rapido da
+
+385
+00:23:37,400 --> 00:23:39,400
+200-300 azioni.
+
+386
+00:23:40,040 --> 00:23:43,160
+Un'altra opzione che c'è è ovviamente avere la possibilità di mostrare il
+
+387
+00:23:43,160 --> 00:23:49,480
+comando rapido sull'Apple Watch, non è un'opzione così meravigliosa, tra virgolette, secondo
+
+388
+00:23:49,480 --> 00:23:49,960
+me.
+
+389
+00:23:49,960 --> 00:23:57,240
+Tuttavia diventare comodo perché ovviamente sull'Apple Watch, ovviamente se l'avete, potreste utilizzare
+
+390
+00:23:57,320 --> 00:24:02,360
+appunto lanciare dei comandi rapidi e questo potrebbe diventare relativamente comodo.
+
+391
+00:24:02,360 --> 00:24:07,560
+Devo dire la verità, dopo vi racconterò Roberto, ricordami di dirlo se
+
+392
+00:24:07,720 --> 00:24:08,760
+me ne scordo.
+
+393
+00:24:09,000 --> 00:24:12,840
+Un trucchetto veramente interessante: invece, secondo me, è molto più comodo l'Apple
+
+394
+00:24:13,000 --> 00:24:15,640
+Watch per lanciare i comandi rapidi in modo vocale.
+
+395
+00:24:15,720 --> 00:24:18,680
+Ve lo dico subito perché esatto, in modo vocale è molto più
+
+396
+00:24:18,680 --> 00:24:25,160
+comodo, molto più sensato da fare e alla fine funziona anche meglio
+
+397
+00:24:25,320 --> 00:24:26,280
+tendenzialmente.
+
+398
+00:24:26,280 --> 00:24:31,720
+Gli ultimi e vedete che il grosso cambio di paradigma che c'è
+
+399
+00:24:31,720 --> 00:24:33,000
+è Mac.
+
+400
+00:24:33,000 --> 00:24:36,920
+E quindi voi dite: ma cosa c'entrano i comandi rapidi qui con
+
+401
+00:24:36,920 --> 00:24:37,560
+Mac?
+
+402
+00:24:37,560 --> 00:24:41,560
+Proprio perché i comandi rapidi si sincronizzano anche su Mac.
+
+403
+00:24:41,560 --> 00:24:47,600
+Queste opzioni ovviamente sono legate a comandi rapidi per Mac, perché tendenzialmente,
+
+404
+00:24:47,600 --> 00:24:51,360
+se voi create un comando rapido su iPad o su iPhone, questo
+
+405
+00:24:51,360 --> 00:24:56,240
+comando rapido a determinate condizioni che oggi non abbiamo tempo minimamente di
+
+406
+00:24:56,960 --> 00:24:58,240
+andare a approfondire.
+
+407
+00:24:58,240 --> 00:25:03,280
+Tuttavia, possono funzionare a determinate condizioni sul Mac e quindi potreste volere
+
+408
+00:25:03,280 --> 00:25:06,640
+che un comando rapido fosse presente sul Mac e quindi nella barra
+
+409
+00:25:06,640 --> 00:25:11,680
+dei menu o come azione rapida appunto nel Mac, ma appunto non
+
+410
+00:25:11,680 --> 00:25:12,240
+entriamo.
+
+411
+00:25:12,240 --> 00:25:13,280
+L'ultimo pulsante
+
+412
+00:25:14,880 --> 00:25:16,880
+è l'aiuto di comandi rapidi.
+
+413
+00:25:16,880 --> 00:25:20,640
+Lo trovate anche nella notte dell'episodio, ma comunque da qui si apre
+
+414
+00:25:20,640 --> 00:25:23,680
+una finestra dove c'è il manuale Apple in italiano.
+
+415
+00:25:23,680 --> 00:25:27,840
+Quindi ve lo consiglio se volete approfondire, se volete capire meglio a
+
+416
+00:25:27,840 --> 00:25:28,720
+certe dinamiche.
+
+417
+00:25:28,800 --> 00:25:33,360
+Non è avanzatissimo, però vi dà un'infarinatura originale di tutte le varie
+
+418
+00:25:33,360 --> 00:25:34,880
+cose che funzionano.
+
+419
+00:25:34,880 --> 00:25:39,120
+L'altro tab di cui vi segnalo è quello della Configura.
+
+420
+00:25:39,120 --> 00:25:42,960
+Configura vi permette di fare delle domande.
+
+421
+00:25:44,480 --> 00:25:48,800
+Serve ovviamente quando condividete un comando rapido e permette di fare delle
+
+422
+00:25:48,800 --> 00:25:53,440
+domande al nuovo utente del vostro comando rapido che avete creato per
+
+423
+00:25:53,440 --> 00:25:58,000
+inserire determinati dati e personalizzare il comando rapido che avete creato voi.
+
+424
+00:25:58,000 --> 00:26:02,000
+L'ultimo che è la privacy, che nello screenshot che ho fatto io.
+
+425
+00:26:02,000 --> 00:26:06,000
+Se lo vedrete, sono tre screenshot uno accanto all'altro.
+
+426
+00:26:06,000 --> 00:26:10,480
+Appunto, ho utilizzato la famosa automazione di cui vi parlavo, ma in
+
+427
+00:26:10,480 --> 00:26:12,240
+questo caso in orizzontale.
+
+428
+00:26:12,240 --> 00:26:18,400
+La privacy troverete invece le opzioni nel caso, se per esempio aprite
+
+429
+00:26:18,400 --> 00:26:23,360
+una cartella o vi collegate a dei servizi esterni.
+
+430
+00:26:23,360 --> 00:26:28,560
+Ovviamente i comandi rapidi e Apple in generale, cioè che l'utente in
+
+431
+00:26:28,560 --> 00:26:32,680
+maniera conscia acconsenta a fare questo tipo di cose.
+
+432
+00:26:32,760 --> 00:26:37,000
+Perché ovviamente comandi rapidi non lo vedremo in questa puntata, ma eventualmente
+
+433
+00:26:37,000 --> 00:26:41,400
+in una futura dove ragioneremo su anche cose un po' più complicate,
+
+434
+00:26:41,400 --> 00:26:45,320
+può per esempio andare a cancellare adesso o modificare i file che
+
+435
+00:26:45,320 --> 00:26:48,680
+avete sull'iPad, l'iPhone, i cloud e così via.
+
+436
+00:26:48,680 --> 00:26:51,880
+Quindi è ovvio che se date accesso a un comando rapido, a
+
+437
+00:26:51,880 --> 00:26:57,320
+una cartella e fate delle robe strane, potreste danneggiare i vostri dati.
+
+438
+00:26:57,320 --> 00:27:02,200
+Quindi Apple vuole che in questi casi, sia per motivi appunto di
+
+439
+00:27:02,200 --> 00:27:07,880
+sandboxing, sia per tutta una serie di motivi, debba esserci un consenso
+
+440
+00:27:08,040 --> 00:27:13,480
+a fare consentire a manipolare determinati dati.
+
+441
+00:27:13,720 --> 00:27:18,600
+L'ultimo screenshot che vi troverete è invece l'interfaccia di base di comandi
+
+442
+00:27:18,600 --> 00:27:23,240
+rapidi per iPhone, che ovviamente, visto lo schermo, è ridotta.
+
+443
+00:27:23,240 --> 00:27:26,840
+Chiamola così, in alto troverete sempre
+
+444
+00:27:28,760 --> 00:27:34,680
+l'attribuzione del nome del comando rapido, un'icona tonda rispetto al quadrato, ma
+
+445
+00:27:34,680 --> 00:27:39,480
+sempre coni i dailer che servono per andare nelle opzioni che abbiamo
+
+446
+00:27:39,480 --> 00:27:40,280
+visto prima.
+
+447
+00:27:40,520 --> 00:27:44,840
+La X per chiudere il comando rapido e poi sotto ovviamente abbiamo
+
+448
+00:27:44,840 --> 00:27:48,040
+un bel tasto azzurro che dice più aggiungi azione.
+
+449
+00:27:48,040 --> 00:27:53,880
+Che vi permetterà ovviamente di creare, cioè di aggiungere un'azione scegliendola.
+
+450
+00:27:53,880 --> 00:27:58,680
+Ci sono le prossime azioni suggerite, anche qui cosa molto carina, perché
+
+451
+00:27:58,840 --> 00:28:03,080
+spesso e volentieri con una forma di più o meno intelligenza artificiale,
+
+452
+00:28:03,080 --> 00:28:09,640
+Apple vi suggerisce possibili azioni che potrebbero servire nel vostro comando rapido.
+
+453
+00:28:09,640 --> 00:28:15,600
+Oppure in fondo avete cerca Ape azioni dove potete alzarla e vedere
+
+454
+00:28:15,600 --> 00:28:16,640
+il menu.
+
+455
+00:28:16,640 --> 00:28:20,480
+Che vedete anche su iPad nella colonna di destra, con tutta la
+
+456
+00:28:14,920 --> 00:28:21,440
+scelta delle azioni.
+
+457
+00:28:21,520 --> 00:28:26,880
+Oppure ovviamente potete digitare se conoscete già l'azione e andare a cercare
+
+458
+00:28:26,880 --> 00:28:30,160
+l'azione da poi trascinare nel vostro comando rapido.
+
+459
+00:28:30,160 --> 00:28:34,960
+Quindi, questa è una breve introduzione, diciamo così, all'interfaccia.
+
+460
+00:28:34,960 --> 00:28:38,960
+Adesso iniziamo a fare il nostro comando rapido e quindi iniziamo a
+
+461
+00:28:38,960 --> 00:28:40,160
+fare aggiungiazione.
+
+462
+00:28:40,400 --> 00:28:41,840
+Così ci divertiamo un po'.
+
+463
+00:28:41,920 --> 00:28:45,040
+Io ti seguo, sappi che ti seguo sul mio tablet.
+
+464
+00:28:45,040 --> 00:28:47,280
+E se non si è qualcosa che non va, ti faccio le
+
+465
+00:28:47,280 --> 00:28:48,560
+domande in diretta.
+
+466
+00:28:48,560 --> 00:28:50,160
+Benissimo, benissimo.
+
+467
+00:28:50,160 --> 00:28:55,280
+Allora, la prima cosa che dobbiamo, però, prima di iniziare con l'azione,
+
+468
+00:28:55,280 --> 00:29:01,760
+è quando aggiungiamo un'azione è possibile vedere innanzitutto cosa fa l'azione, perché
+
+469
+00:29:01,760 --> 00:29:06,000
+il primo problema di tutta la vicenda è: che azione uso o
+
+470
+00:29:06,000 --> 00:29:07,040
+che cosa voglio fare.
+
+471
+00:29:07,040 --> 00:29:13,600
+Ovviamente prima dovete avere un'idea quantomeno vaga, generale di cosa volete fare
+
+472
+00:29:13,760 --> 00:29:19,360
+nel nostro caso, abbiamo detto ricapitoliamo: vogliamo scegliere una foto, avere un
+
+473
+00:29:19,360 --> 00:29:24,880
+testo preimpostato da mettere assieme questa foto sostanzialmente.
+
+474
+00:29:25,360 --> 00:29:30,160
+Inviare a un contatto preselezionato un messaggio con la foto o le
+
+475
+00:29:30,160 --> 00:29:33,920
+foto perché vedremo che è possibile mettere più foto.
+
+476
+00:29:34,560 --> 00:29:38,800
+Col messaggio tipo guarda questa foto, guarda queste foto, che bel momento.
+
+477
+00:29:38,800 --> 00:29:41,280
+Adesso, quello è a vostra discrezione.
+
+478
+00:29:41,280 --> 00:29:42,880
+Si sceglie diciamo esatto.
+
+479
+00:29:43,040 --> 00:29:45,120
+Tuttavia, non lo volete scrivere sostanzialmente.
+
+480
+00:29:45,120 --> 00:29:48,800
+Lo scopo di tutta questa vicenda è che volete fare velocemente un
+
+481
+00:29:48,800 --> 00:29:53,760
+invio e senza mettervi lì a scrivere del testo particolare e volete
+
+482
+00:29:53,760 --> 00:29:57,920
+mandarlo a uno specifico contatto, perché anche qui una cosa che ho
+
+483
+00:29:57,920 --> 00:30:03,800
+scoperto con relativamente a ghiaccio della vicenda è che mentre per la
+
+484
+00:30:03,800 --> 00:30:06,920
+mail, perché io lo ragionavo per la mail, ma mi sembrava un
+
+485
+00:30:06,920 --> 00:30:11,800
+po' banale, come una cosa che non è utile a tutti, diciamo
+
+486
+00:30:11,800 --> 00:30:17,080
+mandare una mail con un testo specificato e le foto allegate è
+
+487
+00:30:17,080 --> 00:30:20,280
+più probabile che facciate un messaggio, un Whatsapp o roba del genere.
+
+488
+00:30:20,440 --> 00:30:24,600
+Tuttavia, mentre per la mail è possibile anche inserire un'azione dove si
+
+489
+00:30:24,600 --> 00:30:29,320
+sceglie direttamente nell'azione il contatto, con messaggi non è possibile farlo in
+
+490
+00:30:29,320 --> 00:30:33,800
+nessuna maniera e dovete scegliere a priori quando create il vostro comando
+
+491
+00:30:33,800 --> 00:30:37,160
+rapido a quale contatto mandare o quali contatti ecco.
+
+492
+00:30:37,160 --> 00:30:41,960
+Anche qui è possibile mandarlo a più contatti, ma preselezionati durante la
+
+493
+00:30:41,960 --> 00:30:45,320
+creazione del nostro comando rapido iniziale.
+
+494
+00:30:45,320 --> 00:30:48,040
+Quindi in fase di progettazione, chiamiamola così.
+
+495
+00:30:48,040 --> 00:30:49,880
+Comunque, quindi queste sono le nostre cose.
+
+496
+00:30:49,880 --> 00:30:52,200
+Quindi dobbiamo andare a cercare queste azioni.
+
+497
+00:30:52,200 --> 00:30:56,840
+A questo punto, ovviamente, abbiamo trovato qualcosa.
+
+498
+00:30:56,840 --> 00:31:01,480
+La prima cosa che vi viene da pensare è digitare foto.
+
+499
+00:31:01,480 --> 00:31:02,520
+Ovviamente.
+
+500
+00:31:02,920 --> 00:31:08,600
+Se andiamo a digitare foto, dovremmo trovare anche un'azione con selezione foto.
+
+501
+00:31:08,600 --> 00:31:12,120
+Vada memoria qui se non ho l'hai fatto sotto mano,
+
+502
+00:31:13,320 --> 00:31:13,800
+ok.
+
+503
+00:31:13,800 --> 00:31:18,200
+Perfetto, vedete che quindi Roberto sta seguendo la vicenda.
+
+504
+00:31:18,200 --> 00:31:19,640
+Prima ti faccio una domanda.
+
+505
+00:31:19,960 --> 00:31:23,560
+Il nome al comando rapido bisogna darlo subito.
+
+506
+00:31:23,560 --> 00:31:26,280
+O possiamo già inserire prima le azioni?
+
+507
+00:31:26,280 --> 00:31:27,080
+È indifferente.
+
+508
+00:31:27,480 --> 00:31:30,360
+Diciamo che buona prassi sarebbe dargli un nome.
+
+509
+00:31:30,440 --> 00:31:34,520
+Perché vi potreste trovare con dei comandi rapidi generici e non sapere
+
+510
+00:31:34,520 --> 00:31:37,480
+più che cosa avete fatto in cosa, dovete aprire il comando rapido.
+
+511
+00:31:37,480 --> 00:31:39,640
+Tuttavia, ci ho detto quello non è un problema.
+
+512
+00:31:39,640 --> 00:31:43,720
+Ci verrà un nuovo comando rapido 1, un nuovo comando rapido 2,
+
+513
+00:31:43,720 --> 00:31:46,160
+e a quel punto lì però diventa abbastanza inutile.
+
+514
+00:31:46,400 --> 00:31:50,480
+Esatto, io l'ho nominato, gli ho dato un nome, l'ho chiamato in
+
+515
+00:31:50,480 --> 00:31:53,280
+via foto con un commento: bravissimo, bravissimo.
+
+516
+00:31:53,280 --> 00:31:54,400
+Mi piace ramorire.
+
+517
+00:31:54,400 --> 00:31:59,200
+Altra cosa fondamentale: il nome che date al comando rapido è importante,
+
+518
+00:31:59,200 --> 00:32:04,400
+soprattutto se volete invocarlo, chiamiamolo così a voce, perché dovrà essere la
+
+519
+00:32:04,400 --> 00:32:09,760
+frase o il termine, però tendenzialmente io consiglio una frase perché è
+
+520
+00:32:09,760 --> 00:32:14,800
+meno ambigua, chiamiamola così, da dire a Siri, ovviamente, che invocherà l'attivazione
+
+521
+00:32:14,800 --> 00:32:15,920
+del comando stesso.
+
+522
+00:32:15,920 --> 00:32:21,360
+Per cui anche qui operazione di alto cabotaggio e gioia personale perché
+
+523
+00:32:21,520 --> 00:32:26,240
+finalmente ho la famiglia che sta utilizzando Siri e comandi vocali.
+
+524
+00:32:26,240 --> 00:32:30,720
+Ho creato un comando vocale che dice sostanzialmente: no, accendi albero di
+
+525
+00:32:30,720 --> 00:32:31,120
+Natale.
+
+526
+00:32:31,920 --> 00:32:36,480
+L'albero di Natale si illumina e spegni albero di Natale e l'albero
+
+527
+00:32:36,480 --> 00:32:38,560
+di Natale si spegne, ok?
+
+528
+00:32:39,120 --> 00:32:44,880
+Questa è stata una delle esperienze natalizie, chiamiamola così, familiari, mettiamola in
+
+529
+00:32:44,880 --> 00:32:45,760
+questo termine.
+
+530
+00:32:45,760 --> 00:32:48,960
+Con la famiglia che è carichissima e fa vedere a tutti che
+
+531
+00:32:48,960 --> 00:32:53,360
+l'albero di Natale si può spegnere a accendere con la voce.
+
+532
+00:32:54,080 --> 00:32:58,320
+Nell'attesa che mi arrivi, il mio famoso On Pod Mini, e che
+
+533
+00:32:58,320 --> 00:33:01,920
+quindi, invece di accendere e spegnere l'albero di Natale con l'orologio o
+
+534
+00:33:01,920 --> 00:33:06,080
+con l'iPhone o l'iPad, lo possiamo fare direttamente con l'Home Pod Mini.
+
+535
+00:33:06,080 --> 00:33:07,280
+Ma questo è un altro discorso.
+
+536
+00:33:07,280 --> 00:33:10,080
+Tu sappi che il prossimo anno voglio provare anch'io a fare questa
+
+537
+00:33:10,080 --> 00:33:10,400
+cosa.
+
+538
+00:33:10,720 --> 00:33:14,400
+Allora, devo dire la verità: apro una parentesina veloce.
+
+539
+00:33:14,400 --> 00:33:17,760
+La parte vocale sta diventando sempre più interessante.
+
+540
+00:33:17,760 --> 00:33:25,200
+Anche perché rispetto a altri competitor, chiamiamoli così, voi potete programmare sostanzialmente
+
+541
+00:33:25,440 --> 00:33:26,840
+cosa fa Siri.
+
+542
+00:33:26,840 --> 00:33:31,240
+E dire a Siri di lanciare un comando rapido che, però, vi
+
+543
+00:33:31,240 --> 00:33:33,160
+permette di dialogare con Siri.
+
+544
+00:33:29,760 --> 00:33:35,320
+Gli potete dare, per esempio, delle alternative.
+
+545
+00:33:35,480 --> 00:33:38,280
+Lo vedremo nella parte finale di questa puntata.
+
+546
+00:33:38,440 --> 00:33:43,560
+Quindi Siri vi proporrà azioni differenti, voi dite quale azione volete fare,
+
+547
+00:33:43,560 --> 00:33:48,440
+e Siri, tra virgolette, il comando rapido poi dietro, eseguirà questa azione.
+
+548
+00:33:48,440 --> 00:33:49,800
+Quindi inizia a diventare qualcosa.
+
+549
+00:33:49,800 --> 00:33:51,240
+È ovvio che non è intelligente.
+
+550
+00:33:51,240 --> 00:33:52,520
+Non so se mi spiego.
+
+551
+00:33:52,520 --> 00:33:56,840
+Siete voi intelligenti che avete programmato a monte tutta l'operazione.
+
+552
+00:33:56,840 --> 00:34:00,360
+Però sembra intelligente e comunque fa quello che volete che faccia.
+
+553
+00:34:00,360 --> 00:34:01,320
+Non so se mi spiego.
+
+554
+00:34:01,400 --> 00:34:05,240
+E tendenzialmente avete anche sempre in mano un iPhone.
+
+555
+00:34:05,240 --> 00:34:09,080
+Ecco, l'Apple Watch, infatti, io speravo di averlo un po' mini a
+
+556
+00:34:09,080 --> 00:34:12,040
+breve, invece, forse lavorò per le vacanze natalizie.
+
+557
+00:34:12,040 --> 00:34:15,240
+E mi sono reso conto, però che alla fine potevo già iniziare
+
+558
+00:34:15,240 --> 00:34:19,560
+a sperimentare tutte queste operazioni usando l'Apple Watch che ho al polso.
+
+559
+00:34:19,560 --> 00:34:25,240
+Abitualmente, quando sono a casa, l'iPhone sta in ricarica sul suo piedistallo
+
+560
+00:34:25,320 --> 00:34:26,040
+e li sta.
+
+561
+00:34:26,040 --> 00:34:28,200
+Tra virgolette, se non devo fare una telefonata.
+
+562
+00:34:28,360 --> 00:34:32,840
+Quindi non ho l'iPhone in mano, chiamiamolo così, anche perché appunto non
+
+563
+00:34:32,840 --> 00:34:34,200
+mi piace come prassi.
+
+564
+00:34:34,200 --> 00:34:38,440
+Tornando a noi, se vai sulla foto, seleziona, dovresti di fianco al
+
+565
+00:34:38,440 --> 00:34:42,120
+nome, dovresti trovare un'icona con una lettera che la.
+
+566
+00:34:42,120 --> 00:34:45,640
+Prova a fare un tap sopra l'icona e racconta cosa ti.
+
+567
+00:34:45,880 --> 00:34:49,240
+Praticamente le informazioni di questo comando.
+
+568
+00:34:49,240 --> 00:34:54,200
+Dice testalmente, aperte virgolette, richiede di scegliere foto e video dalla tua
+
+569
+00:34:54,200 --> 00:34:59,880
+libreria di foto, risultato, le foto o video selezionati, e l'azione non
+
+570
+00:34:59,880 --> 00:35:02,280
+può essere eseguita su Apple Watch.
+
+571
+00:35:02,280 --> 00:35:05,080
+Oltre a questo, sì, ci sono un altro paio di icone, tra
+
+572
+00:35:05,080 --> 00:35:07,080
+cui aggiungi a preferito.
+
+573
+00:35:07,080 --> 00:35:09,600
+Che qui non è stato tradotto perfettamente.
+
+574
+00:35:09,600 --> 00:35:14,200
+Perché c'è scritto aggiungi a ci sono le problemate preferite, ma vi
+
+575
+00:35:14,360 --> 00:35:18,080
+ho perdoniamo ad Apple questa volta, e poi c'è un più.
+
+576
+00:35:14,920 --> 00:35:21,920
+La cosa più divertente con Siri è che dice Wich One.
+
+577
+00:35:22,000 --> 00:35:22,560
+Anzi,
+
+578
+00:35:24,960 --> 00:35:25,280
+perché
+
+579
+00:35:26,960 --> 00:35:30,800
+gli dai delle opzioni, però, non è stata tradotta la parte quale
+
+580
+00:35:30,800 --> 00:35:33,520
+scelta vuoi, e quindi lui ti dice, Itch one.
+
+581
+00:35:34,960 --> 00:35:39,520
+Comunque, come vi dicevamo, comandi rapidi in queste versioni, sia per Appados
+
+582
+00:35:40,160 --> 00:35:41,360
+che a Yoske.
+
+583
+00:35:41,360 --> 00:35:44,480
+Su Mac è ancora un po' traballante su certe cose.
+
+584
+00:35:44,480 --> 00:35:48,400
+Tuttavia, anche rendetevi conto del lavoro che c'è da fare dietro per
+
+585
+00:35:48,400 --> 00:35:53,120
+tradurlo in centinaia di lingue, forse no, ma anche solo una ventina
+
+586
+00:35:53,120 --> 00:35:57,920
+di lingue con assistente vocale, cioè, l'interazione di tutte queste cose qui
+
+587
+00:35:57,920 --> 00:36:00,160
+è clamorosa da un certo punto di vista.
+
+588
+00:36:01,040 --> 00:36:03,600
+Sottovalutato e anzi, è apprezzato.
+
+589
+00:36:03,840 --> 00:36:09,200
+Dovresti trovare anche, diciamo, tra parentesi, sempre nelle informazioni, input ed output.
+
+590
+00:36:09,200 --> 00:36:16,160
+O mi sbaglio, qualcosa legato all'input, diciamo che il risultato è quello
+
+591
+00:36:16,160 --> 00:36:21,040
+che viene chiamato in inglese output: cioè cosa restituisce l'azione.
+
+592
+00:36:21,040 --> 00:36:26,080
+Quindi il risultato dell'azione che dovreste trovare comunque sempre nel selezionare foto
+
+593
+00:36:26,160 --> 00:36:28,400
+che ci dovrebbe essere, sono foto.
+
+594
+00:36:28,400 --> 00:36:31,840
+Quindi, ovviamente il risultato cosa prende questa azione?
+
+595
+00:36:31,840 --> 00:36:35,520
+Non ha un input in senso tecnico perché l'input glielo date voi.
+
+596
+00:36:36,000 --> 00:36:41,200
+Ci sono azioni, però, è da tenere presente, diciamo, come funziona il
+
+597
+00:36:41,200 --> 00:36:46,240
+sistema nella sostanza, ci sono azioni ovviamente che prendono un input che
+
+598
+00:36:46,240 --> 00:36:50,640
+è un qualcosa che viene nel caso specifico, per esempio, qui selezioniamo
+
+599
+00:36:50,640 --> 00:36:52,240
+una o più foto, ok?
+
+600
+00:36:52,560 --> 00:36:56,160
+A questo punto questa una o più foto diventa l'input, cioè il
+
+601
+00:36:56,160 --> 00:37:00,200
+risultato di questa azione diventa l'input di una seconda azione, ok?
+
+602
+00:37:00,440 --> 00:37:03,480
+Che sarà poi l'invio del messaggio con queste foto.
+
+603
+00:37:03,480 --> 00:37:09,240
+Quindi abituatevi, allora, soprattutto se è un comando rapido senza condivisione, è
+
+604
+00:37:09,240 --> 00:37:14,760
+possibile o si chiede una prima scelta dell'utente o si cattura, diciamo,
+
+605
+00:37:14,760 --> 00:37:18,840
+l'input per esempio dagli appunti, che è un'altra opzione possibile.
+
+606
+00:37:18,840 --> 00:37:23,240
+Una volta catturato l'input o comunque avuto un primo input iniziale, ovviamente
+
+607
+00:37:23,240 --> 00:37:29,960
+questo input viene lavorato dall'azione, viene generato un risultato, e ovviamente, in
+
+608
+00:37:29,960 --> 00:37:33,480
+base a qual è il risultato, voi capite anche che cosa vi
+
+609
+00:37:33,480 --> 00:37:34,200
+può dare.
+
+610
+00:37:34,200 --> 00:37:39,480
+È ovvio che una selezione foto, presumibilmente, vi darà una foto come
+
+611
+00:37:39,480 --> 00:37:40,440
+risultato.
+
+612
+00:37:40,440 --> 00:37:45,240
+Ma come vedremo dopo, assieme alla foto, ci sono altri dati che
+
+613
+00:37:45,240 --> 00:37:49,000
+subito non vediamo, ma che potremmo vedere approfondire dopo.
+
+614
+00:37:49,000 --> 00:37:52,200
+Ma non voglio mettere troppo canne a fuoco, anche perché stiamo facendo
+
+615
+00:37:52,200 --> 00:37:53,080
+già tanta roba.
+
+616
+00:37:53,080 --> 00:37:55,000
+Quindi ricordatevi comunque il discorso.
+
+617
+00:37:55,000 --> 00:37:59,720
+Che ogni azione diciamo può avere un opzionale input e sicuramente avrà
+
+618
+00:37:59,720 --> 00:38:03,560
+sempre un output di qualche genere, tranne pochissime azioni.
+
+619
+00:38:03,560 --> 00:38:07,160
+Cioè, c'è un'azione che dice non fare niente.
+
+620
+00:38:07,160 --> 00:38:09,960
+E ovviamente il risultato di questa azione è niente.
+
+621
+00:38:09,960 --> 00:38:11,160
+Non so se mi spiego.
+
+622
+00:38:11,160 --> 00:38:17,320
+Tuttavia, nell'80-90% dei casi un'azione ha sempre un risultato finale e tendenzialmente
+
+623
+00:38:17,320 --> 00:38:22,200
+ha sempre un input di partenza, che è la catena logica
+
+624
+00:38:23,240 --> 00:38:26,280
+su cui si fonda poi il flusso di lavoro di comandi rapidi.
+
+625
+00:38:26,280 --> 00:38:28,040
+Ecco, era quello lì che volevo far capire.
+
+626
+00:38:28,040 --> 00:38:31,400
+Se andiamo a vedere nel cerca ap e azioni.
+
+627
+00:38:31,400 --> 00:38:33,080
+Invece ci troviamo.
+
+628
+00:38:33,080 --> 00:38:34,920
+Ma quindi aggiungiamo questa azione?
+
+629
+00:38:34,920 --> 00:38:39,320
+Aggiunila, aggiungila, aggiungiamola, aggiungiamola un bel tap su più adesso che ce
+
+630
+00:38:39,320 --> 00:38:39,720
+l'abbiamo.
+
+631
+00:38:39,720 --> 00:38:42,920
+Allora, già che siamo qui, visto che l'abbiamo inserita nel nostro flusso
+
+632
+00:38:42,920 --> 00:38:46,800
+di lavoro, vi troverete all'inizio del flusso di lavoro, seleziona foto e
+
+633
+00:38:44,840 --> 00:38:50,000
+poi una freccettina dentro un cerchio azzurro.
+
+634
+00:38:50,080 --> 00:38:56,720
+Cliccate gi sopra e avete due opzioni sostanzialmente: includi tutti, o se
+
+635
+00:38:56,720 --> 00:39:00,800
+ci andate a tappare sopra, vi permette di scegliere tra immagini, foto
+
+636
+00:39:00,800 --> 00:39:01,600
+e video.
+
+637
+00:39:01,600 --> 00:39:05,840
+Quindi potete già fare una scrematura, se vogliamo, di quello che avete.
+
+638
+00:39:05,840 --> 00:39:10,320
+E poi avete un'altra opzione: selezione multipla che è un tastino diciamo
+
+639
+00:39:10,320 --> 00:39:12,160
+di attivazione o disattivazione.
+
+640
+00:39:12,160 --> 00:39:14,240
+Se lo attivate diventa verde.
+
+641
+00:39:14,240 --> 00:39:19,200
+A questo punto non solo facendo partire l'azione, si aprirà il menu
+
+642
+00:39:19,200 --> 00:39:25,040
+contestuale dove ovviamente vedete le varie foto del vostro rollino fotografico, ma
+
+643
+00:39:25,040 --> 00:39:29,520
+potrete selezionare facendo tap sulle singole foto, più foto: 1, 2, 3,
+
+644
+00:39:29,520 --> 00:39:30,240
+4, 5.
+
+645
+00:39:30,240 --> 00:39:33,760
+Ok, io aggiungo visto che il comando rapido, se avete seguito la
+
+646
+00:39:33,760 --> 00:39:37,440
+mia stessa indicazione, è invia foto con commento.
+
+647
+00:39:37,440 --> 00:39:42,480
+Voi ovviamente andate in includi e mettete e togliete la spunta ai
+
+648
+00:39:42,480 --> 00:39:47,120
+video, perché, se no, siamo fuori esatto, fuori range.
+
+649
+00:39:47,120 --> 00:39:49,840
+Detto questo, torniamo sempre nelle nostre azioni.
+
+650
+00:39:49,840 --> 00:39:53,040
+E giusto per farvi vedere due cose fondamentali.
+
+651
+00:39:53,040 --> 00:39:56,880
+Appunto, il modo migliore, secondo me, se avete una vaga idea di
+
+652
+00:39:56,880 --> 00:40:01,520
+cosa volete, è cercare cerca app e azioni e digitare del testo
+
+653
+00:40:01,520 --> 00:40:03,200
+e vedere cosa vi viene fuori.
+
+654
+00:40:03,200 --> 00:40:06,960
+Ma se volete approfondire tutte le varie sezioni, c'è tutte le azioni,
+
+655
+00:40:06,960 --> 00:40:10,000
+c'è scripting, posizione, media, preferite.
+
+656
+00:40:10,000 --> 00:40:15,040
+Che è la sezione dove se avete un'azione che utilizzate molto spesso
+
+657
+00:40:15,200 --> 00:40:20,560
+e cliccate appunto sul cuoricino dentro l'azione, vi va a finire nelle
+
+658
+00:40:20,560 --> 00:40:21,040
+preferite.
+
+659
+00:40:21,040 --> 00:40:24,400
+Quindi avete una scelta rapida sostanzialmente delle opzioni.
+
+660
+00:40:24,400 --> 00:40:27,680
+Io, per esempio, nelle mie preferite, attualmente ho scegli il menu.
+
+661
+00:40:27,680 --> 00:40:31,160
+Apri file, apri app e mostra notifica tipo.
+
+662
+00:40:31,160 --> 00:40:35,240
+Ma solitamente ho l'opzione testo che andremo a utilizzare dopo.
+
+663
+00:40:35,240 --> 00:40:40,920
+C'è condivisione che ovviamente vi apre tutta una serie di azioni dettagliate,
+
+664
+00:40:40,920 --> 00:40:42,440
+documenti e web.
+
+665
+00:40:42,680 --> 00:40:46,920
+Ovviamente in questo caso ci sono tutte azioni legate a queste.
+
+666
+00:40:46,920 --> 00:40:51,880
+Se da categorie passate invece ad app, avrete l'elenco di tutte le
+
+667
+00:40:51,880 --> 00:40:54,840
+applicazioni installate sul vostro dispositivo.
+
+668
+00:40:54,840 --> 00:41:00,840
+Quindi ricordatevi che devono essere sul dispositivo e installate per vederle.
+
+669
+00:41:00,840 --> 00:41:03,480
+Se non l'avete installato, non le vedrete mai.
+
+670
+00:41:03,480 --> 00:41:09,080
+E sono le azioni possibili che le applicazioni possono donare a comandi
+
+671
+00:41:09,080 --> 00:41:09,800
+rapidi.
+
+672
+00:41:09,800 --> 00:41:15,720
+Apro una parentesi necessaria: tantissime applicazioni, le migliori applicazioni su iOS e
+
+673
+00:41:15,800 --> 00:41:20,360
+iPadOS possono donare in una forma e in un'altra azioni a
+
+674
+00:41:20,360 --> 00:41:21,400
+comandi rapidi.
+
+675
+00:41:21,720 --> 00:41:27,240
+Questo vi permette appunto di creare una colla tra applicazioni in cui
+
+676
+00:41:27,240 --> 00:41:31,000
+i comandi rapidi è l'applicazione centrale che fa passare il dato da
+
+677
+00:41:31,000 --> 00:41:35,480
+un'applicazione all'altra, che manipola il dato e fa tante cose.
+
+678
+00:41:35,480 --> 00:41:42,280
+Per esempio, noi dall'applicazione foto prendiamo le foto e le mandiamo nell'applicazione
+
+679
+00:41:42,280 --> 00:41:43,000
+messaggi.
+
+680
+00:41:43,000 --> 00:41:47,480
+Questa ovviamente è un'operazione banale, però questo è il meccanismo.
+
+681
+00:41:47,480 --> 00:41:50,520
+E ovviamente foto e messaggi sono di Apple.
+
+682
+00:41:50,520 --> 00:41:54,600
+Quindi è ovvio che poi è ovvio mica tanto perché, come vedete,
+
+683
+00:41:54,600 --> 00:41:59,640
+messaggi non è poi così avanzata nelle opzioni diciamo di gestione di
+
+684
+00:41:59,640 --> 00:42:05,240
+comandi rapidi, ma tendenzialmente Apple dovrebbe quantomeno creare delle applicazioni che parlano
+
+685
+00:42:05,240 --> 00:42:06,680
+con comandi rapidi.
+
+686
+00:42:06,680 --> 00:42:09,880
+Non è così ovvio invece per tutte le altre applicazioni.
+
+687
+00:42:09,880 --> 00:42:14,920
+Abitualmente, appunto, io cerco di utilizzare nei miei flussi di lavoro applicazioni
+
+688
+00:42:15,200 --> 00:42:20,240
+che hanno anche le opzioni per comandi rapidi, perché appunto ti permettono
+
+689
+00:42:20,240 --> 00:42:24,160
+di fare veramente tante cose, soprattutto se l'azione è ripita.
+
+690
+00:42:24,160 --> 00:42:28,880
+Allora, vediamo il nostro comando rapido perché dobbiamo arrivare al dunque.
+
+691
+00:42:28,880 --> 00:42:34,960
+Quindi, seleziona foto, a questo punto l'abbiamo fatto, digitiamo testo, che è
+
+692
+00:42:34,960 --> 00:42:38,960
+l'altra azione che ci interessa, e tra i primi dovreste trovare un'azione
+
+693
+00:42:39,360 --> 00:42:40,400
+con scritto testo.
+
+694
+00:42:40,400 --> 00:42:45,760
+Se andiamo a fare il tap sull'informazione, vediamo che questa azione passa
+
+695
+00:42:45,760 --> 00:42:50,960
+il testo specificato all'azione successiva e ovviamente il risultato è testo.
+
+696
+00:42:50,960 --> 00:42:53,520
+Quindi anche qui non c'è l'input perché lo metteremo noi.
+
+697
+00:42:53,520 --> 00:42:57,920
+Clicchiamo sul testo quindi e inseriamola nella nostra azione.
+
+698
+00:42:57,920 --> 00:43:00,240
+L'azione testo è veramente basica.
+
+699
+00:43:00,240 --> 00:43:01,120
+Cosa fa?
+
+700
+00:43:01,120 --> 00:43:05,680
+È semplicemente possiamo digitare appunto il famoso messaggio che vogliamo mettere nel
+
+701
+00:43:05,680 --> 00:43:07,440
+nostro messaggio.
+
+702
+00:43:07,680 --> 00:43:11,280
+Il testo del messaggio, dove dire: guarda questa foto bellissima!
+
+703
+00:43:11,280 --> 00:43:13,680
+Guarda questa foto, bellissima.
+
+704
+00:43:13,680 --> 00:43:19,120
+Notate una cosa: la prima azione, quella seleziona foto, non si collega
+
+705
+00:43:19,120 --> 00:43:20,720
+a questa perché?
+
+706
+00:43:20,720 --> 00:43:23,760
+Perché ovviamente non c'è passaggio di input.
+
+707
+00:43:23,760 --> 00:43:27,280
+Se ci fosse adesso lo vedremo un passaggio di input.
+
+708
+00:43:27,280 --> 00:43:31,920
+Allora vedrete che a questo punto, già che ci siamo, intanto, inseriamo
+
+709
+00:43:31,920 --> 00:43:34,000
+la prossima azione che invia messaggio.
+
+710
+00:43:34,080 --> 00:43:37,440
+Mettete un attimo, però vorrei soltanto sottolineare una cosa.
+
+711
+00:43:37,440 --> 00:43:42,720
+Che può capitare se guardate sopra la tastiera, mentre segnate il testo,
+
+712
+00:43:42,720 --> 00:43:47,520
+che si apre, diciamo, una stringa per inserire delle variabili.
+
+713
+00:43:47,760 --> 00:43:49,920
+Sì, no, lo dicevo: lo vediamo dopo.
+
+714
+00:43:51,440 --> 00:43:54,240
+Lo vede, lo vediamo poi in un secondo momento.
+
+715
+00:43:54,240 --> 00:43:55,400
+Questa cosa delle variabili.
+
+716
+00:43:55,400 --> 00:43:57,040
+Voi adesso ci passate oltre.
+
+717
+00:43:57,040 --> 00:44:00,920
+Sì, sì, no, non mettiamo troppa carne al fuoco sul giro.
+
+718
+00:43:59,920 --> 00:44:01,720
+A questo punto
+
+719
+00:44:01,880 --> 00:44:06,920
+andiamo e inseriamo in via messaggio e scoprirete che c'è qualcosa di
+
+720
+00:44:07,400 --> 00:44:07,880
+strano.
+
+721
+00:44:07,880 --> 00:44:12,840
+Tra virgolette, ovvero l'azione in via messaggio si attacca, cioè c'è un
+
+722
+00:44:12,840 --> 00:44:15,080
+filo tra testo e messaggio.
+
+723
+00:44:15,080 --> 00:44:21,400
+E viene scritto nell'azione messaggio, c'è scritto invia aperte, testo, con l'icona
+
+724
+00:44:21,560 --> 00:44:26,200
+dell'azione testo, chiuse le virgolette, A e poi dopo A c'è destinatari.
+
+725
+00:44:26,200 --> 00:44:30,760
+Se andiamo su destinatari, si apre una nuova finestra e potremmo scegliere,
+
+726
+00:44:30,760 --> 00:44:36,760
+per esempio, io cerco Roberto Roberto Marin tappo sopra lì, schiaccio fine,
+
+727
+00:44:36,760 --> 00:44:38,600
+ma potrei metterci altri contatti.
+
+728
+00:44:38,760 --> 00:44:44,360
+Tengo a precisare, c'è un'icona più per mettere più contatti, ovviamente.
+
+729
+00:44:44,360 --> 00:44:49,240
+E adesso la mia azione invia e invia testo a Roberto Marin
+
+730
+00:44:49,400 --> 00:44:53,480
+e se vado sempre sulla foto, ho anche l'opzione mostra questa quando
+
+731
+00:44:53,480 --> 00:44:54,360
+viene eseguito.
+
+732
+00:44:54,520 --> 00:44:59,720
+Che io solitamente sconsiglio di utilizzare, nel senso che ovviamente è un
+
+733
+00:44:59,720 --> 00:45:02,200
+passaggio in più quindi io abitualmente la tolgo.
+
+734
+00:45:02,200 --> 00:45:06,280
+Ti faccio una domanda: il destinatario può essere selezionato dopo o devi
+
+735
+00:45:06,280 --> 00:45:07,480
+per forza infilarlo qui?
+
+736
+00:45:07,480 --> 00:45:10,440
+No, la limitazione dal mio punto di vista è questa.
+
+737
+00:45:10,440 --> 00:45:13,960
+Lo possiamo mettere solo qui, perché un'altra opzione, per esempio, è quella
+
+738
+00:45:13,960 --> 00:45:15,160
+di scegliere il contatto.
+
+739
+00:45:15,160 --> 00:45:19,640
+Perché ovviamente anche contatti, l'applicazione contatti, ovviamente funziona con comandi rapidi.
+
+740
+00:45:20,040 --> 00:45:24,920
+Peccato che ci ho provato e il contatto non viene passato a
+
+741
+00:45:24,920 --> 00:45:27,960
+inviare, e quindi non serve a niente.
+
+742
+00:45:27,960 --> 00:45:32,280
+Purtroppo, appunto, è una limitazione di messaggi, proprio, che è un po'
+
+743
+00:45:32,520 --> 00:45:35,160
+una stupidata, tra virgolette, dal mio punto di vista.
+
+744
+00:45:35,160 --> 00:45:39,800
+Tuttavia, così ha scelto Apple, o probabilmente nessuno ci ha mai pensato
+
+745
+00:45:39,800 --> 00:45:41,480
+che si poteva fare anche questa cosa qua.
+
+746
+00:45:41,480 --> 00:45:46,320
+Sarebbe più comodo perché alla fine si può scegliere direttamente o addirittura
+
+747
+00:45:44,920 --> 00:45:48,560
+si possono scegliere contatti diversi.
+
+748
+00:45:48,800 --> 00:45:53,680
+Invece, in questa maniera diciamo è possibile farlo, ovviamente creando dei messaggi,
+
+749
+00:45:53,680 --> 00:45:59,360
+creando dei duplicati di questa azione con contatti diversi e situazioni diverse.
+
+750
+00:45:59,360 --> 00:46:03,120
+Però adesso non andiamo a complicarci la vita troppo.
+
+751
+00:46:03,120 --> 00:46:08,160
+Un'altra cosa interessante che vi faccio fare perché così la impariamo è
+
+752
+00:46:08,160 --> 00:46:12,480
+se andiamo, quando abbiamo il nostro comando rapido che stiamo creando e
+
+753
+00:46:12,480 --> 00:46:14,320
+clicchiamo l'icona del messaggio.
+
+754
+00:46:14,320 --> 00:46:19,600
+Sempre nell'azione che abbiamo già salvato e facciamo un tap lungo, credo.
+
+755
+00:46:19,600 --> 00:46:24,000
+Si aprirà un menu a tendina dove avremo mostre informazioni, che abbiamo
+
+756
+00:46:24,000 --> 00:46:25,600
+già visto, aggiunge preferito.
+
+757
+00:46:25,680 --> 00:46:28,240
+Ma quello che ci interessa a noi è duplica.
+
+758
+00:46:28,240 --> 00:46:31,280
+Ci permetterà infatti di duplicare questa azione.
+
+759
+00:46:31,280 --> 00:46:36,320
+Cliccate quindi su duplica e se la vedete, la catena continua e
+
+760
+00:46:36,320 --> 00:46:42,480
+avremo sempre la stessa azione, cioè invia testo a Roberto Marin.
+
+761
+00:46:42,480 --> 00:46:46,160
+Ovviamente non mi interessa inviargli il testo a questo punto a Roberto
+
+762
+00:46:46,240 --> 00:46:49,280
+perché, se no, gli manderei il testo due volte che è utilissimo,
+
+763
+00:46:49,280 --> 00:46:50,320
+ma mica tanto.
+
+764
+00:46:50,320 --> 00:46:53,040
+E qui apriamo la parentesi delle variabili.
+
+765
+00:46:53,040 --> 00:46:53,680
+Finalmente.
+
+766
+00:46:53,680 --> 00:46:55,440
+Andiamo a cliccare su testo.
+
+767
+00:46:55,440 --> 00:47:01,280
+E su testo si apre un menu, dice testo, nuova variabile, testo,
+
+768
+00:47:01,280 --> 00:47:01,840
+ovviamente.
+
+769
+00:47:01,840 --> 00:47:06,560
+Cancella variabile che adesso andremo a fare, mostra azione ci fa vedere
+
+770
+00:47:06,560 --> 00:47:09,440
+qual è l'azione di testo che viene passata.
+
+771
+00:47:09,440 --> 00:47:13,120
+In questo caso, clicchiamo su indietro per tornare indietro.
+
+772
+00:47:13,120 --> 00:47:15,840
+Abbiamo un tasto invece indietro per tornare
+
+773
+00:47:17,120 --> 00:47:20,800
+al nostro editor di comandi rapidi sostanzialmente.
+
+774
+00:47:20,800 --> 00:47:24,000
+E poi abbiamo tipo testo.
+
+775
+00:47:24,000 --> 00:47:28,800
+Ma se andiamo a cliccare sul tipo testo, vedremo che c'è tutto
+
+776
+00:47:29,120 --> 00:47:31,160
+un elenco lunghissimo di robe.
+
+777
+00:47:31,400 --> 00:47:36,920
+Abbiamo app di app store, articolo, contatto, contenuto dei tues, data, dizionario,
+
+778
+00:47:36,920 --> 00:47:40,520
+file, adesso ve li leggete con calma e se andate in fondo,
+
+779
+00:47:40,520 --> 00:47:42,840
+vedrete che è selezionato testo.
+
+780
+00:47:42,840 --> 00:47:47,320
+Questo perché questa variabile, che è la variabile testo, sostanzialmente, quella dove
+
+781
+00:47:47,320 --> 00:47:51,720
+abbiamo scritto che guarda che bella immagine, comandi rapidi ha la capacità
+
+782
+00:47:51,880 --> 00:47:54,840
+di capire, cioè se ci sono più dati, ovviamente qui c'è solo
+
+783
+00:47:54,840 --> 00:47:56,920
+il testo, quindi non è che possiamo farci molto.
+
+784
+00:47:56,920 --> 00:48:01,000
+Ma immaginate che al posto di questo testo avessimo una foto.
+
+785
+00:48:01,000 --> 00:48:05,480
+Una foto ovviamente c'ha dentro la foto, ma anche il nome della
+
+786
+00:48:05,480 --> 00:48:11,000
+foto, l'estensione della foto, quando è stata scattata la foto, con che
+
+787
+00:48:11,000 --> 00:48:13,400
+macchina solitamente è stata scattata la foto.
+
+788
+00:48:13,400 --> 00:48:15,720
+Tutte queste informazioni sono presenti.
+
+789
+00:48:16,040 --> 00:48:24,440
+Grazie a questa impostazione, sostanzialmente possiamo andare a estrappolare questi dati e
+
+790
+00:48:24,440 --> 00:48:30,600
+quindi non dobbiamo estrappolarli direttamente, ma possiamo, appunto prendere questa che è
+
+791
+00:48:30,600 --> 00:48:33,800
+una variabile sostanzialmente, cioè l'abbiamo raccontato la volta scorsa.
+
+792
+00:48:33,800 --> 00:48:37,960
+La variabile è un cassetto all'interno della quale viene messo un oggetto,
+
+793
+00:48:37,960 --> 00:48:42,680
+un oggetto di testo, un oggetto immagine, anche se è poi un
+
+794
+00:48:42,680 --> 00:48:48,680
+file a dire la verità, un oggetto data, un oggetto estensione del
+
+795
+00:48:48,680 --> 00:48:53,240
+file, un oggetto adesso ce ne sono tantissimi, diciamo, che non ha
+
+796
+00:48:53,240 --> 00:48:55,000
+senso andare a spiegare.
+
+797
+00:48:55,000 --> 00:48:59,160
+Benissimo, clicchiamoci sopra quindi e facciamo cancella variabile.
+
+798
+00:48:59,160 --> 00:49:02,360
+Vi ho dato l'infarinata generale perché serviva.
+
+799
+00:49:02,360 --> 00:49:03,960
+Adesso cosa ci troviamo?
+
+800
+00:49:03,960 --> 00:49:08,000
+Ci troviamo sempre il nostro invia, ma tra virgolette, c'è in grigio
+
+801
+00:49:08,040 --> 00:49:11,480
+in azzurro molto sbiadito, diciamo, messaggio.
+
+802
+00:49:11,480 --> 00:49:13,800
+Perché dobbiamo inserire qual è il nostro messaggio.
+
+803
+00:49:13,800 --> 00:49:19,120
+Clicchiamoci di nuovo sopra e a questo punto possiamo selezionare le variabili
+
+804
+00:49:14,920 --> 00:49:20,240
+sostanzialmente.
+
+805
+00:49:20,560 --> 00:49:25,120
+Se siete su iPhone, avete la possibilità di scrollare questo elenco da
+
+806
+00:49:25,120 --> 00:49:26,800
+destra a sinistra, ok.
+
+807
+00:49:27,120 --> 00:49:29,920
+In fondo a destra trovate un tasto fine che non si muove
+
+808
+00:49:30,000 --> 00:49:35,040
+invece, ci sono svariate opzioni, vi suggerisco di, se volete approfondire, ovviamente
+
+809
+00:49:35,040 --> 00:49:36,160
+di approfondire.
+
+810
+00:49:36,160 --> 00:49:41,440
+Nel nostro caso specifico, facciamo in due modi, ovvero il primo modo
+
+811
+00:49:41,440 --> 00:49:43,440
+è quello di cliccare sul foto.
+
+812
+00:49:43,680 --> 00:49:49,040
+Foto è la nostra variabile iniziale, quella dove abbiamo preso le fotografie.
+
+813
+00:49:49,040 --> 00:49:49,440
+Ok.
+
+814
+00:49:49,760 --> 00:49:54,400
+E anche qui, se andiamo a vedere, a questo punto, adesso abbiamo
+
+815
+00:49:54,400 --> 00:49:58,560
+le foto come foto, chiamiamole così, ma come tipologia di dato potremmo
+
+816
+00:49:58,560 --> 00:50:05,600
+tirare fuori album, lunghezza, anzi larghezza, altezza, data di realizzazione, momento di
+
+817
+00:50:05,600 --> 00:50:10,880
+scatto, tipo di file multimediale, posizione, durata, vabbè, tutta una serie di
+
+818
+00:50:10,880 --> 00:50:15,280
+altre informazioni, a noi non ci interessa niente oggi, però sappiate che
+
+819
+00:50:15,440 --> 00:50:20,080
+appunto la variabile foto ha assieme a tutta una serie di altri
+
+820
+00:50:20,080 --> 00:50:25,680
+contenuti che potremmo estrapolare: cioè se volessimo sapere, volessimo scrivere un messaggio
+
+821
+00:50:25,680 --> 00:50:29,840
+dicendo guarda che bella foto che ho scattato a Coge, per esempio,
+
+822
+00:50:29,840 --> 00:50:33,760
+o a Torino, o dove è il posto che ho scattato la
+
+823
+00:50:33,760 --> 00:50:40,400
+foto, potremmo estrarre la posizione, inserirla nel famoso messaggio che si autocompleta
+
+824
+00:50:40,400 --> 00:50:44,560
+a questo punto con questa data con questa informazione, o addirittura guarda
+
+825
+00:50:44,560 --> 00:50:46,880
+che bella foto che ho fatto il giorno tal dei tali.
+
+826
+00:50:46,880 --> 00:50:50,240
+Possiamo estrarre ovviamente la data in cui è stata scattata la foto.
+
+827
+00:50:50,240 --> 00:50:55,680
+Questi qui sono i famosi dati X rif, metadati, chiamiamoli esatto, sono
+
+828
+00:50:55,680 --> 00:50:57,560
+i metadati di una foto, ok?
+
+829
+00:50:57,760 --> 00:51:02,280
+Benissimo, quindi, giusto per capirci un po' come funziona tutto questo sistema,
+
+830
+00:51:02,280 --> 00:51:02,680
+ok?
+
+831
+00:51:03,000 --> 00:51:06,680
+A questo punto, di fatto, abbiamo più o meno generato la nostra
+
+832
+00:51:06,680 --> 00:51:10,520
+cosa, ok, direi che adesso vado nella mia scaletta, ma la cosa
+
+833
+00:51:10,520 --> 00:51:14,280
+che vi volevo far vedere invece sono anche le variabili magiche, già
+
+834
+00:51:14,280 --> 00:51:17,880
+che ci siamo, ne abbiamo parlato accennato velocemente la volta scorsa.
+
+835
+00:51:17,880 --> 00:51:22,440
+Workflow all'inizio comandi rapidi poi, che la stessa applicazione, ve le avevo
+
+836
+00:51:22,520 --> 00:51:25,320
+spiegato, ha questo concetto di variabile magica.
+
+837
+00:51:25,320 --> 00:51:30,120
+Proprio per rendere più facile all'utente meno esperto, cioè le variabili sono
+
+838
+00:51:30,120 --> 00:51:32,040
+un concetto tipicamente da programmatore.
+
+839
+00:51:32,040 --> 00:51:35,320
+Proprio per rendere più semplice e più facile questa gestione e il
+
+840
+00:51:35,320 --> 00:51:40,440
+workflow all'inizio e poi comandi rapidi dopo hanno introdotto queste variabili magiche.
+
+841
+00:51:40,440 --> 00:51:46,120
+Torniamo a cancellare la nostra variabile foto nel secondo messaggio, clicchiamoci sopra
+
+842
+00:51:46,120 --> 00:51:48,600
+di nuovo e facciamo selezione variabile.
+
+843
+00:51:48,600 --> 00:51:54,360
+Si aprirà una nuova interfaccia del nostro comando rapido, sostanzialmente dell'editor dei
+
+844
+00:51:54,360 --> 00:51:59,000
+comandi rapidi, dove la voce principale è scegli variabile magica.
+
+845
+00:51:59,000 --> 00:52:00,200
+E vedrete che.
+
+846
+00:52:01,320 --> 00:52:03,320
+Scusami, Filippo, l'ho perso.
+
+847
+00:52:03,320 --> 00:52:05,000
+Dov'è che cosa devo fare?
+
+848
+00:52:05,000 --> 00:52:09,160
+Allora, hai tolto via dall'ultima invia, non c'è più in via niente,
+
+849
+00:52:09,160 --> 00:52:10,840
+cioè c'è in via messaggio, ok.
+
+850
+00:52:10,840 --> 00:52:16,600
+Ok, tolgo foto esatto, fai tap sopra messaggio a questo punto sotto
+
+851
+00:52:16,600 --> 00:52:21,240
+c'è seleziona variabile, testo, foto, tutto quello che abbiamo già visto sopra.
+
+852
+00:52:21,240 --> 00:52:24,120
+Clicchiamo su seleziona variabile sto giro,
+
+853
+00:52:25,160 --> 00:52:29,160
+e a questo punto lo schermo ci si cambia, scegli variabile e
+
+854
+00:52:29,160 --> 00:52:34,840
+vedremo una cosa particolare, cioè sotto ogni azione c'è un qualcosina che
+
+855
+00:52:34,840 --> 00:52:36,600
+è la famosa variabile.
+
+856
+00:52:36,600 --> 00:52:41,720
+Ovviamente qui l'azione è veramente banale e abbiamo foto e testo.
+
+857
+00:52:41,720 --> 00:52:47,040
+Ok, clicchiamo di nuovo foto e l'operazione finale è la medesima, ma
+
+858
+00:52:47,040 --> 00:52:51,200
+te immagina che casomai hai 10 azioni o 10 cose che vuoi
+
+859
+00:52:44,840 --> 00:52:51,680
+estrarre.
+
+860
+00:52:51,760 --> 00:52:53,920
+Per esempio, rendiamolo un po' più complicato.
+
+861
+00:52:53,920 --> 00:52:56,320
+Non volevo, ma lo rendiamo un po' più complicato.
+
+862
+00:52:56,320 --> 00:52:59,920
+Adesso abbiamo messo la nostra foto nel messaggio, ok.
+
+863
+00:53:00,160 --> 00:53:05,120
+Guarda questa foto, andiamo nel testo, nell'azione testo, mettiamo guarda questa foto
+
+864
+00:53:05,120 --> 00:53:11,120
+del, e se vedi sotto hai ancora selezione variabile, selezioniamola, selezioniamo foto
+
+865
+00:53:11,280 --> 00:53:12,160
+a questo punto.
+
+866
+00:53:12,160 --> 00:53:16,320
+E cliccando di nuovo su foto che compare all'interno del nostro testo,
+
+867
+00:53:16,320 --> 00:53:16,880
+ok,
+
+868
+00:53:18,400 --> 00:53:20,960
+andiamo a scegliere data di creazione.
+
+869
+00:53:20,960 --> 00:53:22,640
+Chiamo su data di creazione.
+
+870
+00:53:22,640 --> 00:53:28,240
+Quando selezioniamo data di creazione, vedrete che sotto compare un ulteriore mini
+
+871
+00:53:28,240 --> 00:53:32,000
+menu con formato data e formato ora.
+
+872
+00:53:32,000 --> 00:53:39,520
+Io il formato ora metterei nessuno, e invece formato data metterei esteso,
+
+873
+00:53:39,520 --> 00:53:40,000
+ok?
+
+874
+00:53:40,000 --> 00:53:44,560
+Adesso basta che torniamo indietro, anzi, no, facciamo un'ulteriore cosa, perché questa
+
+875
+00:53:44,560 --> 00:53:46,240
+è una buona prassi.
+
+876
+00:53:46,240 --> 00:53:50,240
+Diamo il nome alla variabile, cioè vedete che se clicchiamo nome variabile
+
+877
+00:53:50,320 --> 00:53:52,880
+c'è scritto foto, ma gli diamo data foto.
+
+878
+00:53:52,880 --> 00:53:57,040
+Così sappiamo che roba, che dato abbiamo estrapolato, ok?
+
+879
+00:53:57,040 --> 00:54:00,080
+E a questo punto torniamo via, dovremmo essere a posto.
+
+880
+00:54:00,080 --> 00:54:01,600
+Benissimo, siamo pronti.
+
+881
+00:54:01,600 --> 00:54:02,160
+Siamo pronti.
+
+882
+00:54:02,160 --> 00:54:05,520
+Adesso vediamo casomai facciamo anche il debug a questo punto.
+
+883
+00:54:05,520 --> 00:54:07,120
+Clicchiamo sul tasto play.
+
+884
+00:54:07,120 --> 00:54:09,520
+Sul tasto play, cosa succede?
+
+885
+00:54:09,520 --> 00:54:13,200
+Ovviamente si aprirà il vostro rollino specifico di foto.
+
+886
+00:54:13,200 --> 00:54:17,600
+Io adesso ne seleziono, ho sbagliato, ho selezionato un video, ovviamente.
+
+887
+00:54:17,840 --> 00:54:22,000
+Sperimentatore, aggiungiamo il contatto, vedi addirittura limitazioni.
+
+888
+00:54:22,000 --> 00:54:22,440
+Contatto.
+
+889
+00:54:22,400 --> 00:54:24,080
+Roberto Marin non appartiene ai tuoi contatti.
+
+890
+00:54:24,080 --> 00:54:24,640
+Che non arriva.
+
+891
+00:54:24,640 --> 00:54:26,000
+Infatti, a me è arrivato, eh.
+
+892
+00:54:26,000 --> 00:54:28,720
+Ah, ecco, a me è arrivato solo il testo.
+
+893
+00:54:28,720 --> 00:54:33,400
+Ah, è partito senza fare niente, vero, ottimo, vedo.
+
+894
+00:54:33,560 --> 00:54:34,520
+Tuttavia, cosa ti è arrivato?
+
+895
+00:54:34,600 --> 00:54:35,160
+Leggi il testa
+
+896
+00:54:36,440 --> 00:54:38,680
+e non c'è niente nella data.
+
+897
+00:54:38,680 --> 00:54:44,040
+No, c'è scritto solo: guarda questa foto del senza niente, sembra che
+
+898
+00:54:44,040 --> 00:54:45,400
+stia mandando ancora qualcosa.
+
+899
+00:54:45,400 --> 00:54:48,360
+È presente quando c'è i messaggi che l'altro.
+
+900
+00:54:48,760 --> 00:54:51,240
+Ma ti ho mandato un video, ti ho mandato un video.
+
+901
+00:54:51,400 --> 00:54:52,920
+Il problema è che ti ho mandato un video.
+
+902
+00:54:53,080 --> 00:54:57,320
+Bravo, vedi quando io ti dicevo di mettere solo immagini e tu
+
+903
+00:54:57,320 --> 00:54:59,080
+non hai seguito il mio consiglio.
+
+904
+00:54:59,080 --> 00:55:03,880
+Adesso proviamo, perché la precedente volta che ho fatto tutto questo giochino
+
+905
+00:55:03,880 --> 00:55:08,360
+qua, invece, forse è proprio perché avevo abilitato invece le opzioni.
+
+906
+00:55:08,360 --> 00:55:09,400
+Diciamo.
+
+907
+00:55:09,400 --> 00:55:12,120
+Ah, ho capito adesso che cosa c'è che non va.
+
+908
+00:55:12,120 --> 00:55:14,840
+Guarda, adesso finalmente è arrivato, giusta, secondo me.
+
+909
+00:55:14,840 --> 00:55:15,640
+Adesso guardo.
+
+910
+00:55:15,640 --> 00:55:18,520
+Guarda questa foto del 5 dicembre 2021.
+
+911
+00:55:18,520 --> 00:55:22,600
+Allora, nella sostanza, una volta che ho messo, è la foto di
+
+912
+00:55:22,600 --> 00:55:26,120
+oggi che ho fatto, di pure, anche la foto, perché a questo
+
+913
+00:55:26,120 --> 00:55:30,520
+punto c'è un figlio con una bella torta di compleanno esatto.
+
+914
+00:55:30,520 --> 00:55:34,120
+Quindi, però oggi è il 5 di dicembre, stiamo registrando il 5
+
+915
+00:55:34,120 --> 00:55:37,400
+di dicembre, voi l'ascolterete il 20, ma questo è un altro discorso.
+
+916
+00:55:37,400 --> 00:55:41,560
+Quindi vedete l'automazione che siamo riusciti a fare, cioè, non solo io
+
+917
+00:55:41,560 --> 00:55:46,360
+ho mandato la foto a Roberto, ma ho inserito nel testo la
+
+918
+00:55:46,360 --> 00:55:51,240
+data della foto e tra l'altro, non la data della foto 0512
+
+919
+00:55:51,240 --> 00:55:57,960
+2021, ma appunto nel formato esteso, ovvero quello 5 dicembre, quindi con
+
+920
+00:55:57,960 --> 00:56:00,280
+dicembre scritto intero e così via.
+
+921
+00:56:00,280 --> 00:56:03,880
+Ora, ovviamente, questa è una cosa abbastanza banale.
+
+922
+00:56:03,880 --> 00:56:07,880
+E tra l'altro, a questo punto abilitando le funzioni, probabilmente si viene
+
+923
+00:56:07,880 --> 00:56:09,400
+inviata in automatico adesso.
+
+924
+00:56:09,400 --> 00:56:14,840
+Anzi, tolgo via le opzioni, la riprovo a fare, ti mando sempre
+
+925
+00:56:15,040 --> 00:56:17,520
+la stessa foto a questo punto.
+
+926
+00:56:14,840 --> 00:56:20,880
+Ah, no, allora, infatti, il messaggio arriva subito.
+
+927
+00:56:21,120 --> 00:56:26,400
+La foto, siccome è sensibile per Apple, secondo me, si apre la
+
+928
+00:56:26,400 --> 00:56:28,480
+bolla, diciamo, per inviare un messaggio.
+
+929
+00:56:28,480 --> 00:56:31,840
+La foto in via messaggio e dovete cliccare specificamente.
+
+930
+00:56:31,840 --> 00:56:35,840
+Quindi il messaggio lo riuscireste a mandare in automatico e a parte
+
+931
+00:56:35,840 --> 00:56:36,640
+in automatico.
+
+932
+00:56:36,640 --> 00:56:41,120
+Ma la foto no, dovete sempre fare un click di conferma anche
+
+933
+00:56:41,200 --> 00:56:43,040
+perché potreste aver mandato una foto.
+
+934
+00:56:43,040 --> 00:56:46,880
+Io adesso, nel caso specifico, Roberto ha visto mio figlio, lo conosce
+
+935
+00:56:46,880 --> 00:56:48,480
+e così via, non è un problema.
+
+936
+00:56:48,640 --> 00:56:50,640
+Tuttavia, potreste mandare anche delle foto
+
+937
+00:56:52,080 --> 00:56:54,720
+meno legali, chiamiamole così.
+
+938
+00:56:55,280 --> 00:56:56,960
+Esatto, esatto.
+
+939
+00:56:56,960 --> 00:57:01,280
+Quindi conviene comunque sempre fare un check: ecco, bene o male, secondo
+
+940
+00:57:01,440 --> 00:57:06,080
+me, abbiamo raccontato più o meno come creare un nuovo comando rapido.
+
+941
+00:57:06,080 --> 00:57:10,560
+Ora, velocissimamente, perché secondo me è la parte più interessante, però non
+
+942
+00:57:10,560 --> 00:57:12,560
+voglio tenerla troppo lunga.
+
+943
+00:57:12,560 --> 00:57:18,000
+Parliamo dell'altro aspetto dei comandi rapidi intelligenti di cui vi avevo raccontato
+
+944
+00:57:18,000 --> 00:57:22,800
+prima: cioè la possibilità di creare all'interno dei nostri comandi rapidi.
+
+945
+00:57:22,800 --> 00:57:26,880
+Immaginiamo che voglio poter decidere, per esempio, se mandare il messaggio a
+
+946
+00:57:26,880 --> 00:57:29,120
+Roberto o a mia moglie, ok.
+
+947
+00:57:29,360 --> 00:57:33,840
+Stessa dinamica, tra virgolette, cioè voglio mandare una foto, voglio dire guarda
+
+948
+00:57:33,920 --> 00:57:36,720
+che bella foto che ho fatto il giorno tra dei tali, ma
+
+949
+00:57:36,720 --> 00:57:40,720
+ovviamente devo scegliere tra mia moglie e Roberto e i due contatti.
+
+950
+00:57:40,720 --> 00:57:42,480
+Di fatto, come possiamo fare?
+
+951
+00:57:42,480 --> 00:57:47,680
+Abbiamo quelle che in gergo informatico si chiamano logica, ok?
+
+952
+00:57:48,000 --> 00:57:50,960
+Per cui abbiamo, per esempio, l'azione se, cioè, per esempio, se un
+
+953
+00:57:50,960 --> 00:57:54,000
+numero è maggiore di zero, fai una cosa, se un numero è
+
+954
+00:57:54,000 --> 00:57:56,560
+maggiore e minore di zero, fai un altro, se un numero è
+
+955
+00:57:56,560 --> 00:57:59,440
+maggiore di 5 fai una cosa e così via.
+
+956
+00:57:59,880 --> 00:58:05,480
+Adesso qui non possiamo andare nel dettaglio di tutto, mi sono preoccupato
+
+957
+00:58:06,520 --> 00:58:10,840
+di creare, di mettere nel note dell'episodio il link a tutti gli
+
+958
+00:58:10,840 --> 00:58:14,680
+articoli che ho scritto su comandi rapidi del mio blog.
+
+959
+00:58:14,680 --> 00:58:19,000
+Giusto per darvi anche una infarinata un po' più approfondita, avere del
+
+960
+00:58:19,000 --> 00:58:20,760
+materiale scritto, chiamiamolo così.
+
+961
+00:58:20,760 --> 00:58:26,200
+In più troverete due esempi di mie automazioni con appunto l'azione se,
+
+962
+00:58:26,200 --> 00:58:29,480
+che vi permette di scegliere di fare operazioni differenti in base a
+
+963
+00:58:29,480 --> 00:58:30,360
+cosa succede.
+
+964
+00:58:30,360 --> 00:58:34,680
+Nel caso specifico, vi ho linkato un comando rapido che è un
+
+965
+00:58:34,680 --> 00:58:38,120
+po' complesso, tra virgolette, che è la numerazione dei documenti per il
+
+966
+00:58:38,120 --> 00:58:42,840
+PCT, che ovviamente a voi non interessa minimamente nella concretezza della vicenda,
+
+967
+00:58:42,840 --> 00:58:45,320
+ma nella sostanza quest'azione cosa fa?
+
+968
+00:58:45,320 --> 00:58:50,840
+Prende dei file, li rinomina in base li romina anendo un numero
+
+969
+00:58:50,840 --> 00:58:56,920
+davanti a tutti i documenti sostanzialmente al nome del documento, le rinomina
+
+970
+00:58:56,920 --> 00:59:02,440
+in base, ovviamente, all'ordine in cui avete selezionato i documenti, la cosa
+
+971
+00:59:02,440 --> 00:59:07,560
+carina, li rinomina automaticamente, quindi fa una rinomina automatica.
+
+972
+00:59:07,560 --> 00:59:12,200
+La cosa carina è che se avete 10 documenti entro 10 documenti,
+
+973
+00:59:12,200 --> 00:59:18,120
+lui mette i documenti per metterli, diciamo tutti in ordine correttamente, 0
+
+974
+00:59:18,200 --> 00:59:23,560
+01 01 02 03 04 fino che arrivi al 10, e a
+
+975
+00:59:23,560 --> 00:59:26,520
+quel punto lì vai avanti e sono tutti in fila perché se
+
+976
+00:59:26,520 --> 00:59:31,400
+io invece avessi messo 2 quando arrivo al 20 mi trovo 2
+
+977
+00:59:31,880 --> 00:59:35,960
+21 e così via nell'ordine automatico.
+
+978
+00:59:35,960 --> 00:59:38,040
+Quindi io metto sempre lo 0.
+
+979
+00:59:38,040 --> 00:59:44,040
+E se ci sono 900 documenti, chiamiamolo così, per evitare il problema,
+
+980
+00:59:44,040 --> 00:59:47,360
+quindi va a vedere se ci sono 100 documenti o 101 documenti
+
+981
+00:59:48,400 --> 00:59:52,640
+, mi mette il terzo zero quindi è 001, se ci sono solo
+
+982
+00:59:52,640 --> 00:59:56,800
+se ci sono 100 documenti e quindi devo avere tre numeri e
+
+983
+00:59:56,800 --> 00:59:57,440
+non due.
+
+984
+00:59:57,440 --> 00:59:58,080
+Ok?
+
+985
+00:59:58,080 --> 01:00:01,600
+Ecco questa operazione se appunto fa questa valutazione.
+
+986
+01:00:01,600 --> 01:00:04,720
+Se ci sono più di 100 anzi ci sono 100 o più
+
+987
+01:00:04,720 --> 01:00:10,320
+documenti, allora teponimi uno zero in più, tre zeri, tra virgolette, e
+
+988
+01:00:10,320 --> 01:00:11,920
+non solo uno zero.
+
+989
+01:00:11,920 --> 01:00:14,160
+E questa è una dinamica del se, ok.
+
+990
+01:00:14,320 --> 01:00:16,560
+Ci sono varie opzioni, possono
+
+991
+01:00:17,680 --> 01:00:18,800
+è molto utile adesso.
+
+992
+01:00:18,800 --> 01:00:20,560
+Questa è un po' un'opzione avanzata.
+
+993
+01:00:20,560 --> 01:00:24,880
+Però ci tenevo a farvi capire che appunto, non so, per esempio,
+
+994
+01:00:24,880 --> 01:00:30,320
+potreste creare un'azione dove se il termostato recuperate i dati di un
+
+995
+01:00:30,320 --> 01:00:31,360
+termostato, ok?
+
+996
+01:00:31,360 --> 01:00:34,800
+Quindi recuperate il dato a 10 gradi, se è superiore ai 10
+
+997
+01:00:34,800 --> 01:00:37,920
+gradi, si ri dice una cosa, se è inferiore ai 10 gradi
+
+998
+01:00:38,000 --> 01:00:40,160
+è freddo, per esempio.
+
+999
+01:00:40,320 --> 01:00:45,760
+Cose stupide se volete, ma vi permettono ovviamente di creare una logica
+
+1000
+01:00:46,240 --> 01:00:48,320
+anche relativamente complicata, ok?
+
+1001
+01:00:48,320 --> 01:00:52,880
+Oppure non so, prendete dimmi le temperature di Reggio Emilia.
+
+1002
+01:00:52,880 --> 01:00:56,560
+Si riva a recuperare le temperature di reggio Emilia, a fronte alla
+
+1003
+01:00:56,560 --> 01:00:59,600
+temperatura, ti dice: vestiti di più, vestiti di meno.
+
+1004
+01:00:59,680 --> 01:01:03,120
+Sono giochini stupidi, ovviamente, questi sono solo per fare degli esempi molto
+
+1005
+01:01:03,120 --> 01:01:03,760
+pratici.
+
+1006
+01:01:03,760 --> 01:01:09,120
+Tuttavia, vi danno l'idea delle dinamiche che potete creare utilizzando questi strumenti.
+
+1007
+01:01:09,120 --> 01:01:14,800
+L'azione elenco invece è molto interessante e ve l'avevo già accennata, vi
+
+1008
+01:01:14,800 --> 01:01:17,360
+permette di scegliere cose differenti.
+
+1009
+01:01:17,360 --> 01:01:21,600
+Quindi lo vedremo anche, per esempio, non so, adesso abbiamo scelto una
+
+1010
+01:01:21,600 --> 01:01:22,320
+foto, ok?
+
+1011
+01:01:22,320 --> 01:01:24,160
+E potevamo sceglierne di più.
+
+1012
+01:01:24,160 --> 01:01:28,640
+La cosa interessante è che nella sostanza, per esempio, potete
+
+1013
+01:01:29,840 --> 01:01:33,240
+non scegliere una foto, ma filtrare le foto.
+
+1014
+01:01:33,560 --> 01:01:38,440
+Quindi, non so, per esempio, mettere un filtro e dire tirate fuori
+
+1015
+01:01:38,760 --> 01:01:41,000
+le ultime 10 foto di Andrea.
+
+1016
+01:01:41,000 --> 01:01:46,840
+A questo punto io posso fare un'azione elenco dove mi elenca le
+
+1017
+01:01:46,840 --> 01:01:50,200
+10 foto che ha tirato fuori, le ultime 10 foto di Andrea,
+
+1018
+01:01:50,200 --> 01:01:54,760
+che casomai sono da qui a 15 giorni fa, e mi permette
+
+1019
+01:01:54,760 --> 01:02:00,360
+di selezionare 2, casomai, da quest'elenco che ha generato.
+
+1020
+01:02:00,600 --> 01:02:05,000
+Ovvi mandare, per esempio, le due degli ultimi 15 giorni a Roberto.
+
+1021
+01:02:05,000 --> 01:02:07,400
+L'altra opzione è scegli da menu.
+
+1022
+01:02:07,400 --> 01:02:10,280
+E questa qui è comodissima, dovete impararla.
+
+1023
+01:02:10,280 --> 01:02:11,240
+È semplicissima.
+
+1024
+01:02:11,240 --> 01:02:16,600
+Tra l'altro su comandi rapidi, vi permette sostanzialmente di dire opzione A,
+
+1025
+01:02:16,600 --> 01:02:22,520
+opzione B, opzione C e ovviamente all'interno di ogni opzione fare delle
+
+1026
+01:02:22,600 --> 01:02:23,640
+azioni specifiche.
+
+1027
+01:02:23,640 --> 01:02:24,600
+Quella che vi faccio
+
+1028
+01:02:25,800 --> 01:02:30,040
+l'azione che vi faccio vedere io è un'azione, vabbè, tipicamente giuridica.
+
+1029
+01:02:30,360 --> 01:02:33,480
+Ma diciamo mostra chiaramente come funziona.
+
+1030
+01:02:33,480 --> 01:02:36,760
+Allora vi spiego che è un comando rapido che si chiama normativa,
+
+1031
+01:02:36,760 --> 01:02:39,720
+e sostanzialmente va su questo sito che è normativa.
+
+1032
+01:02:39,960 --> 01:02:42,840
+Non solo giuridico, lo usiamo anche noi, architetti.
+
+1033
+01:02:43,400 --> 01:02:44,920
+Quindi può servire a qualcuno.
+
+1034
+01:02:44,920 --> 01:02:50,040
+Diciamo, poi il menu è specifico mio e quindi, casomai non a
+
+1035
+01:02:50,040 --> 01:02:51,080
+tutti serve.
+
+1036
+01:02:51,080 --> 01:02:55,080
+Tuttavia, nella sostanza, questo sito normativo, che è un sito gratuito, ha
+
+1037
+01:02:55,080 --> 01:03:01,320
+la norme dello Stato italiano, aggiornate più o meno al giorno stesso,
+
+1038
+01:03:01,320 --> 01:03:05,640
+quindi potete reperire la normativa vigente di tutto quello che volete, di
+
+1039
+01:03:05,640 --> 01:03:09,640
+tutta la normativa dello Stato italiano e anche i Reggi Decreti, chiamiamoli
+
+1040
+01:03:09,640 --> 01:03:10,800
+così, cioè della monarchia.
+
+1041
+01:03:10,680 --> 01:03:12,000
+Alcuni sono ancora vigenti.
+
+1042
+01:03:11,000 --> 01:03:12,280
+Alcuni sono ancora vigenti.
+
+1043
+01:03:13,480 --> 01:03:16,960
+Comunque, a prescindere da questo, nel caso mio specifico, per esempio, è
+
+1044
+01:03:16,960 --> 01:03:20,720
+codice civile, codice di procedura civile, il testo unico sulle spese di
+
+1045
+01:03:20,720 --> 01:03:22,560
+giustizia e altre cose, ok?
+
+1046
+01:03:22,560 --> 01:03:26,800
+Ogni singolo comando rapido va a aprire una spagina specifica di normativa
+
+1047
+01:03:27,120 --> 01:03:30,560
+con la normativa di riferimento di quel oggetto.
+
+1048
+01:03:30,560 --> 01:03:34,240
+E ovviamente lo posso aprire anche vocalmente, nel senso che possa dire,
+
+1049
+01:03:34,240 --> 01:03:38,320
+sì, riapri il codice civile piuttosto che il codice di procedura civile
+
+1050
+01:03:38,400 --> 01:03:39,120
+e così via.
+
+1051
+01:03:39,120 --> 01:03:42,960
+E stessa cosa potete fare voi: avete cinque siti che guardate sempre.
+
+1052
+01:03:43,120 --> 01:03:46,880
+Potete mettere appunto un'azione che apre il sito A, il sito B
+
+1053
+01:03:46,880 --> 01:03:50,960
+e il sito C, quindi snap architettura imperfetta, i blog di Roberto,
+
+1054
+01:03:50,960 --> 01:03:56,960
+avvocati e Mac e non so che altro, e potete scegliere ovviamente
+
+1055
+01:03:57,120 --> 01:03:59,440
+velocemente e questo è molto comune.
+
+1056
+01:03:59,760 --> 01:04:03,920
+E la cosa ancora più interessante è che, per esempio, potete usarlo
+
+1057
+01:04:03,920 --> 01:04:08,960
+come lanciar io lo uso come lanciar, cioè lanciare altri comandi.
+
+1058
+01:04:08,960 --> 01:04:13,120
+Quindi, io ho un comando rapido che mi apre le spese di
+
+1059
+01:04:13,120 --> 01:04:13,840
+casa, per esempio.
+
+1060
+01:04:13,840 --> 01:04:17,520
+Un comando rapido che mi apre le spese dell'ufficio, un comando rapido
+
+1061
+01:04:17,760 --> 01:04:20,960
+che fa questo, fa quello, non so, apre la stazione meteo e
+
+1062
+01:04:20,960 --> 01:04:24,480
+così via, e posso creare un comando unico che a questo punto
+
+1063
+01:04:24,480 --> 01:04:31,440
+diventa comodo avere nella home del proprio telefonino o dell'iPad, clicco quel
+
+1064
+01:04:31,680 --> 01:04:35,760
+pulsante, mi dà una scelta di cosa voglio fare e posso addirittura
+
+1065
+01:04:35,920 --> 01:04:39,760
+creare, chiamiamole così di sotto menu: cioè una volta che dico apri
+
+1066
+01:04:39,760 --> 01:04:44,720
+normativa, poi da normativa ovviamente scelgo la norma, o meglio, la legge
+
+1067
+01:04:44,720 --> 01:04:47,520
+che mi interessa aprire e me la apre.
+
+1068
+01:04:47,520 --> 01:04:51,920
+Quindi vedete come inizia a diventare anche interessante la cosa, e veramente
+
+1069
+01:04:51,920 --> 01:04:55,680
+è molto molto semplice da gestire, perché in pratica voi potete creare
+
+1070
+01:04:55,680 --> 01:04:59,520
+queste voci aggiuntive, quindi comando A, comando B, comando C.
+
+1071
+01:04:59,640 --> 01:05:06,280
+Sotto questo elenco che potete modificare, ci sono dei piccoli spazi rientranti,
+
+1072
+01:05:06,600 --> 01:05:09,960
+all'interno dei quali potete mettere tutte le azioni che volete che quel
+
+1073
+01:05:09,960 --> 01:05:14,120
+comando faccia, sostanzialmente, quell'opzione faccia, e così avete fatto.
+
+1074
+01:05:14,120 --> 01:05:18,120
+L'ultimo, vado veloce proprio perché siamo in zona cesarini anche per la
+
+1075
+01:05:18,120 --> 01:05:21,160
+registrazione e comunque non volevo mettere troppa carne al fuoco, ma darvi
+
+1076
+01:05:21,160 --> 01:05:22,680
+almeno la panoramica generale.
+
+1077
+01:05:22,680 --> 01:05:27,480
+C'è l'azione Ripeti, che è il cosiddetto loop in termini informatici.
+
+1078
+01:05:27,480 --> 01:05:31,320
+Che, per esempio, ho utilizzato per la numerazione dei documenti del PCT,
+
+1079
+01:05:31,320 --> 01:05:32,680
+che cosa fa, ovviamente?
+
+1080
+01:05:32,680 --> 01:05:36,680
+Prende il primo file, gli mette il nome il nome giusto, quindi
+
+1081
+01:05:36,680 --> 01:05:41,000
+calcola il numero del file, cioè il primo file, il secondo file,
+
+1082
+01:05:41,000 --> 01:05:45,720
+il terzo file, antepone il numero come abbiamo detto, formatato come avevamo
+
+1083
+01:05:45,720 --> 01:05:46,120
+detto.
+
+1084
+01:05:46,120 --> 01:05:51,160
+Questa azione è un'azione ripetitiva, cioè semplicemente file numero 1 deve essere
+
+1085
+01:05:51,160 --> 01:05:51,880
+nominato uno.
+
+1086
+01:05:51,880 --> 01:05:54,600
+Il file numero 2 deve essere nominato 2, il file numero 3
+
+1087
+01:05:54,600 --> 01:05:56,040
+deve essere nominato 3.
+
+1088
+01:05:56,040 --> 01:06:00,760
+Io non faccio 10 azioni dove dico il primo file lo nomini
+
+1089
+01:06:00,760 --> 01:06:04,840
+uno, poi il secondo file lo nomini due, ma faccio un loop:
+
+1090
+01:06:04,840 --> 01:06:12,120
+cioè finché ho i file, tu numerali e numerali incrementalmente, quindi vabbè
+
+1091
+01:06:12,440 --> 01:06:16,280
+ovviamente diventa un po' più complicata come azione, ma nella sostanza a
+
+1092
+01:06:16,280 --> 01:06:21,800
+fine di ogni azione aumento la variabile della numerazione e quindi dico
+
+1093
+01:06:21,800 --> 01:06:26,360
+la variabile fino adesso era la variabile 2, aggiungi uno a 2,
+
+1094
+01:06:26,360 --> 01:06:29,720
+quindi viene 3, e quindi il prossimo file, che è il terzo
+
+1095
+01:06:29,720 --> 01:06:34,600
+file, nominano 03 perché è il terzo file e così vado avanti:
+
+1096
+01:06:34,600 --> 01:06:35,800
+4 o 5.
+
+1097
+01:06:35,800 --> 01:06:41,720
+Quindi facendo un'azione che è sempre la stessa, cioè anteponi questa cifra
+
+1098
+01:06:41,720 --> 01:06:46,160
+al nome del file che ti passo, diciamo, io mi muovo in
+
+1099
+01:06:46,160 --> 01:06:46,960
+contemporanea.
+
+1100
+01:06:44,840 --> 01:06:49,360
+Quindi un'azione fa 10 volte la stessa azione.
+
+1101
+01:06:49,440 --> 01:06:53,920
+E anche qui velocizzo da una parte scrivo meno codice o scrivo
+
+1102
+01:06:53,920 --> 01:06:56,560
+meno genero meno azioni sostanzialmente.
+
+1103
+01:06:56,560 --> 01:07:01,840
+E di fatto è solo un ripeti l'azione mille volte o comunque
+
+1104
+01:07:01,840 --> 01:07:04,480
+con tutti i numeri e tutti i file che ci sono presenti.
+
+1105
+01:07:04,480 --> 01:07:06,640
+Me l'ho resa molto veloce.
+
+1106
+01:07:06,640 --> 01:07:10,160
+Probabilmente alcuni sono Roberto, un po' mi sta guardando male.
+
+1107
+01:07:10,160 --> 01:07:12,400
+No, però, più che altro, sai cosa?
+
+1108
+01:07:12,480 --> 01:07:18,160
+Stavo pensando che bisogna avere proprio ben preciso qualcosa da fargli fare
+
+1109
+01:07:18,240 --> 01:07:19,360
+a comandi rapidi.
+
+1110
+01:07:19,360 --> 01:07:24,640
+Perché subito così sul momento, davvero ti viene difficile ipotizzare un qualcosa
+
+1111
+01:07:24,640 --> 01:07:26,480
+che fai continuativamente.
+
+1112
+01:07:26,480 --> 01:07:28,640
+Ecco allora, bravissimo.
+
+1113
+01:07:28,640 --> 01:07:29,600
+Bravissimo.
+
+1114
+01:07:29,600 --> 01:07:32,240
+Il primo step non è scrivere il comando rapido.
+
+1115
+01:07:32,240 --> 01:07:36,560
+Il primo step di un buon programmatore è quello e comunque, meno
+
+1116
+01:07:36,560 --> 01:07:40,400
+male se state usando comandi rapidi, anche nella versione più basica possibile.
+
+1117
+01:07:40,400 --> 01:07:44,240
+State programmando e non vi preoccupate, è proprio il bello della vicenda
+
+1118
+01:07:44,960 --> 01:07:49,360
+pensate cosa volete che il vostro telefonino, il vostro iPad o il
+
+1119
+01:07:49,360 --> 01:07:55,200
+vostro computer volete che faccia, e quindi appunto, io ve l'ho raccontato.
+
+1120
+01:07:55,280 --> 01:08:01,680
+Selezioniamo una foto, digitiamo, cioè prepariamo un testo, diciamo che verrà allegato
+
+1121
+01:08:01,680 --> 01:08:06,320
+a questa foto nel messaggio e invia testo e messaggio e foto.
+
+1122
+01:08:06,320 --> 01:08:10,880
+Ve l'ho raccontato all'inizio e abbiamo fatto questo alla fine, prima dovete
+
+1123
+01:08:10,880 --> 01:08:14,640
+avere un'idea di cosa che azioni volete fare, poi l'altro grosso problema,
+
+1124
+01:08:14,640 --> 01:08:17,760
+che è quello forse più grosso di tutti a dirla verità.
+
+1125
+01:08:17,760 --> 01:08:22,080
+Primo è ovviamente studiare cosa dovete fare come azioni, il secondo è
+
+1126
+01:08:22,080 --> 01:08:23,760
+vedere se ce le avete queste azioni.
+
+1127
+01:08:23,760 --> 01:08:24,880
+Perché non è detto.
+
+1128
+01:08:24,880 --> 01:08:29,760
+Io, per esempio, appunto, come vi dicevo all'inizio, avevo pensato a questo
+
+1129
+01:08:30,040 --> 01:08:35,960
+comando con seleziono un contatto e invia il messaggio al contatto selezionato.
+
+1130
+01:08:29,920 --> 01:08:36,840
+Peccato.
+
+1131
+01:08:37,320 --> 01:08:41,160
+Peccato che non era possibile farlo con le email, ma non è
+
+1132
+01:08:41,160 --> 01:08:43,000
+possibile farlo con i messaggi.
+
+1133
+01:08:43,000 --> 01:08:46,440
+E quindi è ovvio che io mi sono trovato a dover fare,
+
+1134
+01:08:46,600 --> 01:08:51,160
+anzi, addirittura ero così convinto che tutto funzionasse bene che volevo farvi
+
+1135
+01:08:51,160 --> 01:08:56,120
+fare una cosa ancora più bella: cioè, volevo unire il testo alla
+
+1136
+01:08:56,120 --> 01:09:01,000
+foto, che è possibile in determinate circostanze, diciamo, e mandare tutto in
+
+1137
+01:09:01,000 --> 01:09:02,360
+un unico messaggio.
+
+1138
+01:09:02,360 --> 01:09:06,200
+Invece, qui abbiamo visto di fatto, io ho mandato due messaggi a
+
+1139
+01:09:06,200 --> 01:09:10,760
+Roberto: il messaggio col testo e il messaggio con la foto, poi,
+
+1140
+01:09:10,760 --> 01:09:16,200
+nella sostanza, poco cambia, voglio dire, però un zigogolo è un acrocchio
+
+1141
+01:09:16,200 --> 01:09:18,920
+per ottenere il risultato che volevo fare io.
+
+1142
+01:09:18,920 --> 01:09:24,680
+E vedete come l'altra cosa veramente complicata, diciamo che dovete sperimentare che
+
+1143
+01:09:24,680 --> 01:09:28,120
+potete fare, cioè, ci vuole esperienza sostanzialmente.
+
+1144
+01:09:28,120 --> 01:09:31,880
+È proprio quella: io volevo fare una cosa, non ci sono riuscito
+
+1145
+01:09:32,040 --> 01:09:37,960
+perché ho un limite fisico dei programmi che stiamo utilizzando per questo
+
+1146
+01:09:38,120 --> 01:09:41,560
+esempio, ho dovuto fare un giro e ragionare in maniera diversa.
+
+1147
+01:09:41,560 --> 01:09:44,600
+Al fine, io a Roberto non ho mandato un messaggio con foto
+
+1148
+01:09:44,600 --> 01:09:48,040
+e testo, ma ho mandato due messaggi automaticamente.
+
+1149
+01:09:48,040 --> 01:09:49,880
+Quindi, poi, alla fine, a me è cambiato poco.
+
+1150
+01:09:49,880 --> 01:09:53,400
+Eh sì, direi che è ora di chiudere perché vedo che ti
+
+1151
+01:09:53,400 --> 01:09:58,520
+stai incarbugliando e comincia a diventare anche difficile la gestione della serata.
+
+1152
+01:09:58,520 --> 01:09:59,880
+Ormai sono già le 11.
+
+1153
+01:09:59,880 --> 01:10:02,520
+Quanto è che stiamo registrando buon Filippo?
+
+1154
+01:10:02,520 --> 01:10:07,640
+Ormai da un'ora e 40 minuti, quindi siamo andati un po' lunghi.
+
+1155
+01:10:07,640 --> 01:10:11,240
+Vabbè, adesso poi tra tagli varie ed eventuali esatto.
+
+1156
+01:10:11,280 --> 01:10:15,760
+No, un'oretta secondo me verrà fuori un'oretta, un'oretta e mezza.
+
+1157
+01:10:16,000 --> 01:10:19,680
+Non di più come se fosse normale avere il podcast di un'oretta,
+
+1158
+01:10:14,520 --> 01:10:14,840
+un'oretta
+
+1159
+01:10:14,920 --> 01:10:20,560
+e mezza.
+
+1160
+01:10:21,440 --> 01:10:26,560
+Non penso che vi siate annoiati, anzi, avete trovato sicuramente molto utile
+
+1161
+01:10:26,720 --> 01:10:31,680
+questo primo, diciamo, in farinatura di comandi, di come fare un comando
+
+1162
+01:10:31,680 --> 01:10:32,160
+rapido.
+
+1163
+01:10:32,160 --> 01:10:36,480
+Vi abbiamo accompagnato dalla A alla Z a farlo funzionare e a
+
+1164
+01:10:36,480 --> 01:10:38,800
+inviare il vostro primo messaggio con commento.
+
+1165
+01:10:38,960 --> 01:10:44,640
+Direi Filippo: intanto di ringraziarlo perché ha ideato questo tutorial, chiamiamolo così
+
+1166
+01:10:44,800 --> 01:10:48,160
+abbiamo fatto un vero e proprio tutorial via podcast.
+
+1167
+01:10:48,160 --> 01:10:54,640
+Spero che possiate seguirlo direttamente sui vostri iPhone iPad e macOS.
+
+1168
+01:10:54,640 --> 01:10:57,280
+A questo punto, perché si può fare con Monterey.
+
+1169
+01:10:57,280 --> 01:11:00,720
+E direi che per questa puntata è abbastanza tutto.
+
+1170
+01:11:00,720 --> 01:11:03,520
+Come sempre, potete iscriverci a scrivi.
+
+1171
+01:11:04,960 --> 01:11:09,600
+aduepodcast.it per dirci se avete avuto problemi o i vostri feedback.
+
+1172
+01:11:09,600 --> 01:11:13,360
+Come sempre, troverete nel note dell'episodio tutti i link per capire di
+
+1173
+01:11:13,360 --> 01:11:16,480
+cosa abbiamo parlato e in questo caso anche le foto.
+
+1174
+01:11:16,720 --> 01:11:21,520
+In ogni caso, i nostri riferimenti li trovate su a2podcast.it/24
+
+1175
+01:11:21,680 --> 01:11:26,800
+che slash è semplicemente il come si può chiamare la barra barra
+
+1176
+01:11:26,800 --> 01:11:27,760
+inversa, esatto.
+
+1177
+01:11:27,920 --> 01:11:32,400
+Dove ci potete trovare il sottoscritto lo trovate su Mac Architettura, che
+
+1178
+01:11:32,400 --> 01:11:38,320
+è il mio blog personale, oppure su Snap Architettura Imperfetta, che invece
+
+1179
+01:11:38,320 --> 01:11:39,600
+è il mio podcast.
+
+1180
+01:11:39,600 --> 01:11:45,120
+Chiamiamolo così personale, e poi in giro su Instagram, Twitter o LinkedIn
+
+1181
+01:11:45,200 --> 01:11:49,040
+e vi discorrendo, insomma, un po' come mi dice Filippo: il prezzemolino
+
+1182
+01:11:49,040 --> 01:11:49,840
+di internet.
+
+1183
+01:11:49,840 --> 01:11:51,360
+Invece, Filippo, dove lo troviamo?
+
+1184
+01:11:51,520 --> 01:11:55,920
+Avocatemac.it e direi che a questo punto ci sentiamo tra due settimane
+
+1185
+01:11:56,080 --> 01:11:58,720
+e ancora tanti auguri di buone feste a tutti!
+
+1186
+01:11:58,720 --> 01:11:59,680
+Augurissimi!

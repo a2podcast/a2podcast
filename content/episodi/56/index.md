@@ -11,13 +11,13 @@ tags = ["automazione", "macos", "organizzazione", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "3eg0MzogD7s"
 +++
 
 In questa puntata Roberto e Filippo ti parlano dell'applicazione per macOS Hazel. Hazel permette di controllare il contenuto di una cartella e automatizzare l'archiviazione digitale dei file in essa contenuti.
 
-# Note episodio 
+## Note episodio 
 ## [Sito Hazel](https://www.noodlesoft.com/)
 
 Applicazione creata e sviluppata da una sola persona

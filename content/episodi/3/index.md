@@ -11,13 +11,13 @@ tags = ["macos", "mac"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "mBJrg6qp2F8"
 +++
 
 > In questa ultima puntata su come passare a Mac nel 2021 parliamo delle diversità tra Mac e Windows che potrebbero spiazzare il nuovo utente. Ci addentriamo quindi nel funzionamento di base del sistema operativo di Apple e nelle novità di Big Sur.
 
-# Note dell’episodio
+## Note dell’episodio
 
 In questa ultima puntata su come passare a Mac nel 2021 parliamo delle diversità tra Mac e Windows che potrebbero spiazzare il nuovo utente. Ci addentriamo quindi nel funzionamento di base del sistema operativo di Apple e nelle novità di Big Sur.
 

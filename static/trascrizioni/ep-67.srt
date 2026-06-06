@@ -1,0 +1,4203 @@
+1
+00:00:01,840 --> 00:00:03,520
+A2 Podcast.
+
+2
+00:00:03,520 --> 00:00:07,040
+Scopri come ottenere il massimo dalla tua tecnologia apple.
+
+3
+00:00:07,040 --> 00:00:11,600
+Due professionisti, Filippo e Roberto, te lo spiegano con argomenti monotematici ed
+
+4
+00:00:11,600 --> 00:00:14,480
+ospiti che raccontano il loro flusso di lavoro.
+
+5
+00:00:20,000 --> 00:00:26,000
+Benvenuti all'episodio 67 di A2 Podcast in cui potete scoprire come
+
+6
+00:00:26,000 --> 00:00:30,640
+utilizzare al massimo la vostra tecnologia Apple e soprattutto come riuscire a
+
+7
+00:00:30,640 --> 00:00:32,560
+seguire i nostri host.
+
+8
+00:00:32,560 --> 00:00:38,160
+Che sono il sottoscritto Roberto Marin e il mio simpatico ospite, ma
+
+9
+00:00:38,160 --> 00:00:42,960
+anche soprattutto vostro, il grandissimo Filippo Strozzi, che adesso ci introdurrà la
+
+10
+00:00:42,960 --> 00:00:43,680
+puntata.
+
+11
+00:00:43,680 --> 00:00:45,600
+Di cosa parliamo, caro il mio Filippo?
+
+12
+00:00:45,680 --> 00:00:49,600
+Però oggi puntata un po' particolare: diciamo, puntata più di
+
+13
+00:00:51,200 --> 00:00:56,880
+cosa vorremmo fare o di futuri possibili del podcast, ma ne approfittiamo,
+
+14
+00:00:56,880 --> 00:01:02,880
+diciamo, come ragionamento, perché sarà una puntata introduttiva sul value for value,
+
+15
+00:01:02,880 --> 00:01:07,840
+cioè su un particolare modo di fare podcast, il podcast 2.0.
+
+16
+00:01:07,840 --> 00:01:13,360
+Ne abbiamo accennato velocemente, secondo me, nella puntata 48 con Franco Solerio,
+
+17
+00:01:13,360 --> 00:01:18,960
+e per capire, però, come funziona tutto questo baraccone, diciamo, che da
+
+18
+00:01:18,960 --> 00:01:21,040
+un certo punto di vista è molto interessante.
+
+19
+00:01:21,040 --> 00:01:25,440
+Dall'altro, secondo me, spoiler, non so quanto possa funzionare in Italia, mettiamola
+
+20
+00:01:25,440 --> 00:01:27,040
+così però casomai mi sbaglio.
+
+21
+00:01:27,040 --> 00:01:30,000
+Tutto si basa ovviamente sulle criptovalute.
+
+22
+00:01:30,000 --> 00:01:33,840
+Quindi, già che ci siamo, come comunque è uno dei miei vari
+
+23
+00:01:33,840 --> 00:01:39,360
+pallini, anche se ad oggi non ho un Bitcoin o niente, anche
+
+24
+00:01:39,360 --> 00:01:43,200
+perché avere un Bitcoin oggi vuol dire avere dei soldi, tra l'altro.
+
+25
+00:01:43,360 --> 00:01:48,880
+Tuttavia, appunto, siccome il sistema funziona sostanzialmente sulle criptovalute, parleremo anche di
+
+26
+00:01:48,880 --> 00:01:53,120
+criptovalute e tutta una serie di cose collaterali.
+
+27
+00:01:53,120 --> 00:01:58,000
+Lo dico già all'inizio, ovviamente, quello che andiamo a dire oggi sarà
+
+28
+00:01:58,000 --> 00:01:59,800
+una versione super edulcorata.
+
+29
+00:01:59,800 --> 00:02:03,160
+Io cercherò poi adesso di Roberto ne sa meno di me, quindi
+
+30
+00:01:59,520 --> 00:02:05,080
+sarà quello che fa le domande.
+
+31
+00:02:05,320 --> 00:02:08,760
+Spero di essere chiaro, però probabilmente non sarò chiaro per tutti.
+
+32
+00:02:08,760 --> 00:02:14,840
+Cercherò ovviamente di raccontarvi tutto l'argomento nella maniera più semplice e quindi
+
+33
+00:02:14,840 --> 00:02:17,320
+forse anche banalizzando alcuni concetti.
+
+34
+00:02:17,320 --> 00:02:23,640
+Perché ovviamente tutta la parte, soprattutto delle criptovalute, richiede o richiederebbe conoscenze
+
+35
+00:02:23,640 --> 00:02:27,800
+anche matematiche da un certo punto di vista abbastanza complesse.
+
+36
+00:02:27,800 --> 00:02:32,680
+Diciamo che quello che ho capito io, con un minimo di esperienza,
+
+37
+00:02:32,680 --> 00:02:38,440
+e avendo, essendomi informato da varie fonti, in varie maniere, questo sarà.
+
+38
+00:02:38,440 --> 00:02:42,760
+Quindi spero di dare un'infarinatura generale che può diventare utile per tutti,
+
+39
+00:02:42,760 --> 00:02:46,440
+anche perché quello che, secondo me, è interessante.
+
+40
+00:02:46,600 --> 00:02:50,280
+Bisogna ragionare, è che per il podcast, non lo so, per il
+
+41
+00:02:50,280 --> 00:02:55,640
+podcast italiano, credo ancora meno, ma le criptovalute in qualche maniera sono
+
+42
+00:02:55,640 --> 00:02:57,640
+qui per restare, probabilmente.
+
+43
+00:02:57,640 --> 00:03:01,080
+Non si sa esattamente ancora bene come, quando e così via, ma
+
+44
+00:03:01,080 --> 00:03:03,000
+sicuramente è un sistema interessante.
+
+45
+00:03:03,160 --> 00:03:07,560
+Conoscere la tecnologia che sta dietro, secondo me, è una cosa, almeno
+
+46
+00:03:07,560 --> 00:03:11,080
+a livello di massimi sistemi, è una cosa abbastanza utile per tutti.
+
+47
+00:03:11,240 --> 00:03:12,520
+Assolutamente sì.
+
+48
+00:03:12,760 --> 00:03:17,560
+Tra altre cose, seguendo un po' un attimo la scaletta, facciamo una
+
+49
+00:03:17,560 --> 00:03:22,520
+piccola premessa perché, come avete sentito, in queste 67 puntate abbiamo toccato
+
+50
+00:03:22,520 --> 00:03:24,840
+bene o male un sacco di argomenti.
+
+51
+00:03:24,840 --> 00:03:30,680
+E quindi se avete suggerimenti per temi di future puntate, ovviamente diteci
+
+52
+00:03:30,680 --> 00:03:32,920
+la vostra, sapete dove trovarci.
+
+53
+00:03:32,920 --> 00:03:36,920
+Trovate ovviamente tutti quanti i link nelle note dell'episodio.
+
+54
+00:03:36,920 --> 00:03:40,120
+Vi dirò anche l'indirizzo che è scrivi.
+
+55
+00:03:40,600 --> 00:03:45,280
+chiocciola a due podcast.it, oppure anche in modo diretto, direttamente o con
+
+56
+00:03:44,600 --> 00:03:48,000
+me o con Filippo con i vari canali privati che abbiamo.
+
+57
+00:03:48,240 --> 00:03:51,760
+In modo tale che anche per le prossime puntate potremo seguire i
+
+58
+00:03:51,760 --> 00:03:53,040
+vostri suggerimenti.
+
+59
+00:03:53,360 --> 00:03:58,400
+Visto che comunque gli argomenti di 67 puntate sono tante, magari gli
+
+60
+00:03:58,400 --> 00:04:03,120
+suggerimenti sono ultra che benvenuti perché ci aiutano a portare avanti il
+
+61
+00:04:03,120 --> 00:04:08,880
+podcast, che ovviamente una parte sarà affidata ai vari ospiti che chiameremo
+
+62
+00:04:08,880 --> 00:04:13,520
+e che vorranno ovviamente partecipare con noi A2 Podcast, ma altre
+
+63
+00:04:13,520 --> 00:04:16,800
+tematiche che possiamo toccare anche semplicemente io e Filippo.
+
+64
+00:04:16,960 --> 00:04:20,160
+È meglio che magari ci iniziate a dare qualche suggerimento e noi
+
+65
+00:04:20,160 --> 00:04:22,560
+saremo ben lieti di studiare come facciamo sempre.
+
+66
+00:04:22,800 --> 00:04:26,640
+Anche un'altra cosa: se per caso conoscete qualcuno che lavora col Mac
+
+67
+00:04:27,200 --> 00:04:32,560
+o con gli strumenti Apple e che ritenete sia una persona interessante
+
+68
+00:04:32,720 --> 00:04:37,280
+da intervistare, barra a dei workflow o dei flussi di lavoro molto
+
+69
+00:04:37,280 --> 00:04:40,720
+particolari, ovviamente i suggerimenti sono ben aperti.
+
+70
+00:04:40,720 --> 00:04:45,280
+Noi ovviamente andiamo tra le conoscenze che abbiamo, persone che conosciamo di
+
+71
+00:04:45,280 --> 00:04:50,640
+rimando, diciamo nell'ambiente e ne approfittiamo spesso volentieri.
+
+72
+00:04:50,640 --> 00:04:51,840
+Però è ovvio che
+
+73
+00:04:53,680 --> 00:04:57,760
+non siamo presenti su tutto lo scibile italiano di chi lavora col
+
+74
+00:04:57,760 --> 00:04:59,520
+Mac e di tutti i lavori.
+
+75
+00:04:59,520 --> 00:05:03,360
+Quindi ovviamente ci farebbe molto piacere poter
+
+76
+00:05:04,560 --> 00:05:09,840
+avere anche altre persone, diciamo dalle nostre piccole nicchie o dalle fere
+
+77
+00:05:09,840 --> 00:05:13,600
+di conoscenza, che ci parlano appunto di come lavorano e cosa fanno,
+
+78
+00:05:13,600 --> 00:05:18,960
+come automatizzano se automatizzano utilizzando il meccanico, siamo a disposizione, diciamo, per
+
+79
+00:05:19,200 --> 00:05:20,160
+suggerimenti.
+
+80
+00:05:20,160 --> 00:05:22,640
+Diciamo che nell'ultimo periodo iniziamo a
+
+81
+00:05:23,920 --> 00:05:25,920
+tanti argomenti, ma sono molto verticali.
+
+82
+00:05:25,920 --> 00:05:29,040
+No, più che altro sono molto verticali e richiedono tempo per la
+
+83
+00:05:29,040 --> 00:05:29,800
+preparazione.
+
+84
+00:05:29,800 --> 00:05:34,200
+Quindi, iniziamo, diciamo, è brutto da dire, le cose semplici le abbiamo
+
+85
+00:05:29,600 --> 00:05:35,160
+fatte quasi tutte.
+
+86
+00:05:35,800 --> 00:05:37,640
+Sì, e adesso cominciamo a fare fatica.
+
+87
+00:05:37,800 --> 00:05:43,880
+Adesso, proprio bisogna andare sulla anche questa puntata è comunque abbastanza verticale,
+
+88
+00:05:43,880 --> 00:05:48,200
+secondo me, appunto può avere un interesse generale, però è un esperimento,
+
+89
+00:05:48,200 --> 00:05:49,080
+ecco.
+
+90
+00:05:49,400 --> 00:05:54,840
+Quindi, appunto, nei prossimi mesi ci saranno le nuove uscite Apple che
+
+91
+00:05:55,880 --> 00:05:58,360
+su cui ci soffermeremo ovviamente.
+
+92
+00:05:58,360 --> 00:06:04,040
+Tuttavia, siccome appunto la programmazione a lungo spettro e cerchiamo di andare
+
+93
+00:06:04,040 --> 00:06:08,040
+a avere due o tre mesi di programmazione in avanti già pronta,
+
+94
+00:06:08,040 --> 00:06:11,960
+diciamo, ecco, ci farebbe molto piacere avere anche dei vostri suggerimenti.
+
+95
+00:06:11,960 --> 00:06:15,960
+Sì, è un modo anche per contribuire al podcast, perché, come sapete,
+
+96
+00:06:15,960 --> 00:06:19,960
+ha due podcast, come tutti i podcast, in ogni caso, hanno un
+
+97
+00:06:20,120 --> 00:06:20,760
+costo.
+
+98
+00:06:20,760 --> 00:06:24,920
+Uno di questi costi è di tipo economico, ma l'altro è anche
+
+99
+00:06:24,920 --> 00:06:26,200
+di energia e di tempo.
+
+100
+00:06:26,200 --> 00:06:31,320
+Quindi, se riuscite a contribuire dal punto di vista, anche solo di
+
+101
+00:06:31,320 --> 00:06:35,320
+energie e tempo per non cercare nuovi argomenti, questo ci sarebbe molto
+
+102
+00:06:35,320 --> 00:06:35,960
+utile.
+
+103
+00:06:35,960 --> 00:06:42,520
+E poi sappiamo anche bene, soprattutto il sottoscritto, che, nonostante sia, diciamo,
+
+104
+00:06:42,520 --> 00:06:47,080
+al minimo dal punto di vista delle risorse economiche necessarie per mantenere
+
+105
+00:06:47,080 --> 00:06:52,600
+Snap, io, invece, visto che so benissimo che ogni podcast richiede uno
+
+106
+00:06:52,600 --> 00:06:57,800
+sforzo, se non economico, sicuramente di energia e tempo, ma il nostro,
+
+107
+00:06:57,800 --> 00:07:01,720
+in compenso, tra le altre cose, invece ha anche una richiesta economica,
+
+108
+00:07:01,720 --> 00:07:06,200
+perché si appoggia su una piattaforma di hosting per il dominio: il
+
+109
+00:07:06,200 --> 00:07:11,480
+dominio che essenzialmente serve alla pagina di A2 Podcast, e l'altro
+
+110
+00:07:11,480 --> 00:07:16,400
+invece serve proprio a ospitare i file fisici MP3 che vengono distribuiti
+
+111
+00:07:14,840 --> 00:07:20,640
+dalle varie piattaforme di distribuzione di podcast essenzialmente.
+
+112
+00:07:20,800 --> 00:07:26,880
+Quindi diciamo che A due ha due aspetti che riguardano la gestione
+
+113
+00:07:26,880 --> 00:07:31,120
+di questo podcast: uno economico, che vi appena spiegato, invece l'altro che
+
+114
+00:07:31,120 --> 00:07:35,360
+riguarda l'energia e il tempo che io e Filippo cerchiamo di mettere
+
+115
+00:07:35,360 --> 00:07:36,480
+nel modo migliore.
+
+116
+00:07:36,480 --> 00:07:41,040
+Soprattutto Filippo, perché Filippo è quello che prepara il contenuto facendo una
+
+117
+00:07:41,040 --> 00:07:42,240
+bella scaletta.
+
+118
+00:07:42,240 --> 00:07:47,920
+Io, tendenzialmente, ogni tanto, quando ho un barlume di intelligenza, ci butto
+
+119
+00:07:47,920 --> 00:07:52,400
+dentro un argomento e cerchiamo di svilupparlo, ma più delle volte questo
+
+120
+00:07:52,720 --> 00:07:56,640
+lavoro se sobbarca il nostro grandissimo Filippo.
+
+121
+00:07:56,640 --> 00:08:00,560
+Il nostro grandissimo Filippo, che, come avete sentito, tira fuori delle scarette
+
+122
+00:08:00,640 --> 00:08:05,440
+che fa veramente paura e sono decisamente molto ramificate, perché io ce
+
+123
+00:08:05,440 --> 00:08:09,760
+l'ho qua davanti anche solo per questo tipo di puntata, ci sono
+
+124
+00:08:09,760 --> 00:08:13,760
+almeno oltre i dieci rami che poi si sviluppano
+
+125
+00:08:14,960 --> 00:08:18,960
+al loro seguito per tre o quattro voci, quindi incominciate a capire
+
+126
+00:08:18,960 --> 00:08:23,760
+quante cose sta mettendo dentro Filippo dentro queste scalette, ma oltre alla
+
+127
+00:08:23,760 --> 00:08:27,920
+preparazione del contenuto, che vuol dire cercarsi il contenuto, capire di che
+
+128
+00:08:27,920 --> 00:08:31,360
+si tratta, cercare di non dire idiozie e cercare di dire le
+
+129
+00:08:31,360 --> 00:08:34,640
+cose giuste nel modo giusto, c'è la parte di registrazione.
+
+130
+00:08:34,640 --> 00:08:37,360
+La parte di registrazione è che, per chi è in diretta, i
+
+131
+00:08:37,360 --> 00:08:41,520
+pochi eletti che ci seguono in diretta sul nostro canale YouTube, abbiamo
+
+132
+00:08:41,600 --> 00:08:46,240
+una diretta dove appunto registriamo al brucio, come si direbbe, ognuno la
+
+133
+00:08:46,240 --> 00:08:51,120
+sua parte, se non la puntata scorsa, dove eravamo presenti entrambi, è
+
+134
+00:08:51,120 --> 00:08:52,320
+stato molto divertente.
+
+135
+00:08:52,320 --> 00:08:56,480
+E poi diciamo che questa qui è la parte più facile, forse
+
+136
+00:08:56,800 --> 00:08:59,440
+nel momento in cui ci si mette davanti un microfono e si
+
+137
+00:08:59,440 --> 00:09:03,560
+racconta e si cerca di seguire una scaletta, mentre la seconda parte
+
+138
+00:08:59,920 --> 00:09:05,560
+è quella dell'editing e pubblicazione.
+
+139
+00:09:05,800 --> 00:09:08,120
+Che anche qua Filippo si è adesso barcato.
+
+140
+00:09:08,120 --> 00:09:14,360
+Grandissimo Filippo, il nostro eroe A2 Podcast, che fa l'editing, lui
+
+141
+00:09:14,360 --> 00:09:17,880
+dice sdraiato con il suo iPad, ma secondo me non è così
+
+142
+00:09:17,880 --> 00:09:19,560
+semplice come ce la dipinge.
+
+143
+00:09:19,560 --> 00:09:24,520
+E poi fa la pubblicazione guarda, devo dirti la verità, proprio appunto,
+
+144
+00:09:24,520 --> 00:09:29,320
+con con le ultime versioni di Ferita, sono veramente un signore.
+
+145
+00:09:29,320 --> 00:09:30,600
+Nel senso che infatti,
+
+146
+00:09:31,880 --> 00:09:33,640
+questa è una piccola chicca.
+
+147
+00:09:33,640 --> 00:09:37,480
+Ma mentre ero in montagna, ho fatto l'editing sia di quasi tutte
+
+148
+00:09:37,480 --> 00:09:39,800
+le puntate che avete ascoltato.
+
+149
+00:09:39,800 --> 00:09:43,240
+Per cui: anzi, no, secondo me, ho fatto l'editing nella puntata dove
+
+150
+00:09:43,240 --> 00:09:43,960
+ci siamo visti.
+
+151
+00:09:44,040 --> 00:09:49,000
+Poi, praticamente subito dopo che abbiamo registrato quella di luncio, con Lucio
+
+152
+00:09:49,880 --> 00:09:55,000
+ho fatto praticamente in presa diretta, tra virgolette, sì, i tempi tecnici
+
+153
+00:09:55,160 --> 00:09:56,360
+di mandare via il file.
+
+154
+00:09:56,520 --> 00:10:00,520
+Come sapete, io, avendo una linea criceti, ci mette il tempo che
+
+155
+00:10:00,520 --> 00:10:01,240
+ci vuole.
+
+156
+00:10:01,240 --> 00:10:06,120
+Ma a proposito di tempo c'è anche una risorsa che non viene
+
+157
+00:10:06,120 --> 00:10:09,640
+quasi mai considerata se non da chi è più scaffato, che è
+
+158
+00:10:09,640 --> 00:10:13,480
+proprio appunto la questione del tempo che viene speso, soprattutto non solo
+
+159
+00:10:13,480 --> 00:10:17,400
+il nostro, che lo facciamo per passione, ma soprattutto degli ospiti che
+
+160
+00:10:17,640 --> 00:10:22,920
+si prestano a venire in puntata e ci regalano il loro tempo
+
+161
+00:10:22,920 --> 00:10:26,440
+in allegria, senza ovviamente farci pesare niente.
+
+162
+00:10:26,520 --> 00:10:30,280
+Questo è più o meno il quadro della situazione che richiede a
+
+163
+00:10:30,280 --> 00:10:31,960
+due a livello di costo.
+
+164
+00:10:31,960 --> 00:10:35,400
+A livello di costo, come avete sentito più e più volte, non
+
+165
+00:10:35,400 --> 00:10:38,280
+vi abbiamo mai chiesto un euro agli ascoltatori.
+
+166
+00:10:38,280 --> 00:10:41,960
+I motivi sono tanti: perché uno lo facciamo per noi per divertirci
+
+167
+00:10:42,040 --> 00:10:44,120
+e poi non è un lavoro vero e proprio.
+
+168
+00:10:44,120 --> 00:10:48,480
+Io, invece, che sono un po' più sfacciato, l'ho richiesto, ma più
+
+169
+00:10:44,600 --> 00:10:48,880
+chiaro che
+
+170
+00:10:49,040 --> 00:10:53,600
+lo ricordo agli ascoltatori di Snap, il mio podcast personale.
+
+171
+00:10:53,600 --> 00:10:59,360
+Invece, questo lo ricordo perché a monte di più di 200 puntate,
+
+172
+00:10:59,360 --> 00:11:03,840
+in effetti, avendo una cadenza settimanale, non dico che è un lavoro,
+
+173
+00:11:03,840 --> 00:11:05,040
+ma poco ci manca.
+
+174
+00:11:05,040 --> 00:11:11,120
+Ma non tanto per quello, quanto perché, appunto, avendo avuto Franco Solerio,
+
+175
+00:11:11,120 --> 00:11:14,960
+diciamo che è uno tra i primi podcast che ho ascoltato anche
+
+176
+00:11:14,960 --> 00:11:19,200
+io da quando ho iniziato ad ascoltare podcast assieme ad altri due
+
+177
+00:11:19,200 --> 00:11:23,040
+o tre, c'è da dire che il messaggio che mette nei suoi
+
+178
+00:11:23,040 --> 00:11:26,000
+podcast di Franco è tutto sommato giusto.
+
+179
+00:11:26,000 --> 00:11:30,960
+Nel senso che probabilmente sì, c'è una parte che deriva dal divertimento.
+
+180
+00:11:30,960 --> 00:11:33,840
+Probabilmente sì, c'è una parte che deriva dal fatto che lo facciamo
+
+181
+00:11:33,840 --> 00:11:38,000
+per noi stessi, ma è anche altrettanto vero che soprattutto quando un
+
+182
+00:11:38,000 --> 00:11:42,000
+podcast incomincia a diventare molto seguito, e qui non parlo né di
+
+183
+00:11:42,000 --> 00:11:45,600
+Sna di due, ma parlo a livelli alti come può essere il
+
+184
+00:11:45,600 --> 00:11:49,040
+Digital, che penso che le cifre di ascolto siano almeno a tre
+
+185
+00:11:49,120 --> 00:11:49,840
+zeri.
+
+186
+00:11:49,840 --> 00:11:54,160
+Questo diventa un vero e proprio lavoro perché ci mettono dentro la
+
+187
+00:11:54,160 --> 00:11:59,440
+ricerca di una serie di contenuti da dare agli ascoltatori a cadenza
+
+188
+00:11:59,440 --> 00:12:00,240
+settimanale.
+
+189
+00:12:00,800 --> 00:12:03,680
+Facendo anche un altro tipo di lavoro che non è il lavoro
+
+190
+00:12:03,680 --> 00:12:08,080
+principale, vuol dire andarsi a prendere alla fine il tempo libero e
+
+191
+00:12:08,080 --> 00:12:10,720
+il tempo libero ha anche un valore anche questo.
+
+192
+00:12:10,960 --> 00:12:15,360
+Conseguentemente, Franco ha sempre spiegato nel suo podcast Digitalia.
+
+193
+00:12:15,360 --> 00:12:17,840
+Che se non avete ascoltato, andatevelo ad ascoltare, che è sempre molto
+
+194
+00:12:17,840 --> 00:12:18,560
+interessante.
+
+195
+00:12:18,560 --> 00:12:22,960
+Vi dice essenzialmente che è una trial gratuita quella che vi dà
+
+196
+00:12:22,960 --> 00:12:27,600
+Franco ad ascoltare con Digitalia, ovvero che una volta che avete ascoltato
+
+197
+00:12:27,480 --> 00:12:31,560
+e che vi piace, vi venite invitati tutti gli ascoltatori, a fare
+
+198
+00:12:29,840 --> 00:12:33,720
+una donazione di vario modo.
+
+199
+00:12:34,040 --> 00:12:39,480
+Per me è stato utile per Snap cercare di mettere su carta,
+
+200
+00:12:39,480 --> 00:12:44,280
+ovvero rendere visibile qual è il contributo degli ascoltatori di Snap che
+
+201
+00:12:44,280 --> 00:12:49,320
+io non ho messo direttamente l'importo in euro e non mi sono
+
+202
+00:12:49,320 --> 00:12:51,400
+fermato neanche solo all'importo in euro.
+
+203
+00:12:51,400 --> 00:12:55,320
+Per esempio, ci sono degli ascoltatori che, ad esempio, magari non hanno
+
+204
+00:12:55,320 --> 00:12:59,560
+donato degli importi in euro, ma mi hanno dato tanti contenuti, tante
+
+205
+00:12:59,560 --> 00:13:02,440
+cose che abbiamo magari anche fatto assieme di persona.
+
+206
+00:13:02,680 --> 00:13:07,880
+Conseguentemente, gli ho dato questo appellativo: i pro snapper, che sono stati
+
+207
+00:13:07,880 --> 00:13:12,440
+messi alla fine delle note dell'episodio, appunto per ricordare che comunque c'è
+
+208
+00:13:12,440 --> 00:13:15,800
+gente che ci crede nel progetto e ci sta mettendo del suo.
+
+209
+00:13:15,880 --> 00:13:19,640
+Questo potrebbe anche essere una cosa interessante da fare anche con Filippo
+
+210
+00:13:19,880 --> 00:13:23,160
+per tutte le persone che magari ci hanno aiutato nel corso della
+
+211
+00:13:23,160 --> 00:13:27,160
+storia di A due e magari prima o poi è anche vero
+
+212
+00:13:27,160 --> 00:13:30,280
+che non abbiamo chiesto neanche mai un nero, ma non abbiamo neanche
+
+213
+00:13:30,440 --> 00:13:33,080
+mai messo un posto dove fare le donazioni.
+
+214
+00:13:33,080 --> 00:13:37,240
+Quindi diciamo che è una cosa che facciamo in questo modo per
+
+215
+00:13:37,240 --> 00:13:39,880
+adesso, e in questo modo chi lo sa, il futuro cosa ci
+
+216
+00:13:39,880 --> 00:13:40,600
+aspetta.
+
+217
+00:13:40,600 --> 00:13:44,600
+E tra le altre cose, appunto, mi ricollego a Snap appunto, perché
+
+218
+00:13:45,240 --> 00:13:50,280
+seguendo l'idea di Franco Solerio che ha fatto diventare Digitalia uno dei
+
+219
+00:13:50,280 --> 00:13:54,200
+tanti podcast 2.0, che non so quanti ce ne siano di 2.0,
+
+220
+00:13:54,280 --> 00:13:57,720
+ma vi posso dire, ad esempio, che il mio Snap sono riuscito
+
+221
+00:13:57,720 --> 00:14:00,040
+a farlo diventare un podcast.0.
+
+222
+00:14:00,040 --> 00:14:04,680
+Podcast 2.0 cosa potrebbe essere, detto in parole povere, caro il mio
+
+223
+00:14:04,680 --> 00:14:05,320
+Filippo?
+
+224
+00:14:05,320 --> 00:14:06,920
+Come ce lo possiamo spiegare?
+
+225
+00:14:06,920 --> 00:14:11,640
+Diciamo che allora, il mondo adesso abbiamo fatto già delle puntate sul
+
+226
+00:14:11,640 --> 00:14:14,680
+podcast, quindi non voglio neanche dilungarmi troppo.
+
+227
+00:14:14,680 --> 00:14:17,440
+però, ovviamente, creare un
+
+228
+00:14:18,960 --> 00:14:24,000
+podcast che rimanga che vada sul lungo periodo è un piccolo secondo
+
+229
+00:14:24,000 --> 00:14:25,680
+lavoro, chiamiamolo in questi termini.
+
+230
+00:14:25,680 --> 00:14:30,720
+E vabbè, gli americani, per esempio, hanno tutto il discorso della pubblicità,
+
+231
+00:14:30,720 --> 00:14:39,520
+chiamiamola così, delle promozioni pubblicitarie nel corso dell'episodio, o appunto, l'accesso diciamo,
+
+232
+00:14:39,760 --> 00:14:46,960
+a contenuti aggiuntivi piuttosto che togliere la pubblicità, per gli abbonati.
+
+233
+00:14:46,960 --> 00:14:51,040
+Adesso anche Apple credo che abbia fatto la possibilità di fare dei
+
+234
+00:14:51,040 --> 00:14:53,040
+piani in abbonamento per i podcast.
+
+235
+00:14:53,040 --> 00:14:59,440
+L'idea, però, qual è quella di se il podcast dà un valore,
+
+236
+00:14:59,440 --> 00:15:04,960
+cioè dà un contributo fattivo alla vita dell'ascoltatore perché lo intrattiene perché
+
+237
+00:15:04,960 --> 00:15:09,280
+gli dà informazioni utili, perché gli dà degli spunti per approfondire e
+
+238
+00:15:09,280 --> 00:15:14,640
+così via, l'ascoltatore può restituire questo valore aggiunto, diciamo il valore che
+
+239
+00:15:14,800 --> 00:15:19,040
+tiene l'ascoltatore stesso, in questa modalità che si chiama value for value
+
+240
+00:15:19,040 --> 00:15:24,560
+value diciamo che questa modalità nasce ovviamente nel mondo americano, dove effettivamente,
+
+241
+00:15:24,560 --> 00:15:29,920
+anche se c'è stato un calo drastico: podcast come ATP, per esempio,
+
+242
+00:15:30,160 --> 00:15:36,400
+nelle ultime puntate non avevano advertising, non avevano pubblicità, andiam
+
+243
+00:15:37,440 --> 00:15:44,000
+ano gli ascoltatori that la puntata veniva fornita di chi era iscritto con
+
+244
+00:15:44,000 --> 00:15:46,160
+la membership libro, and so via.
+
+245
+00:15:46,160 --> 00:15:49,920
+Diciamo che il mondo del podcast sta avendo attualmente è esploso da
+
+246
+00:15:50,000 --> 00:15:55,600
+una parte, e adesso sta la bolla, probabilmente americana, sta scemando in
+
+247
+00:15:55,800 --> 00:15:56,200
+parte.
+
+248
+00:15:56,200 --> 00:15:58,800
+E quindi comunque a quello che ho visto, la maggior parte della
+
+249
+00:15:58,880 --> 00:16:02,840
+realtà che ascolto io sono sicuramente legate da noi.
+
+250
+00:15:59,920 --> 00:16:04,440
+È tutto un mondo abbastanza diverso.
+
+251
+00:16:04,600 --> 00:16:09,000
+Credo che ci sia Digitalia e pochissimi altri podcast che diciamo con
+
+252
+00:16:09,000 --> 00:16:14,040
+il gergo tecnico abbastanza beccio, monetizzano le loro registrazioni e le loro
+
+253
+00:16:14,040 --> 00:16:15,240
+trasmissioni.
+
+254
+00:16:15,240 --> 00:16:19,080
+Appunto a due non è mai stato in quest'ottica, non è nato
+
+255
+00:16:19,080 --> 00:16:22,840
+in quest'ottica, anzi, da un certo punto di vista, il contrario, per
+
+256
+00:16:22,840 --> 00:16:23,720
+mille motivi.
+
+257
+00:16:23,720 --> 00:16:27,560
+Un po' perché appunto o lo fai per lavoro e però, a
+
+258
+00:16:27,560 --> 00:16:32,280
+quel punto lì è un lavoro: perdi parte del gusto che abbiamo,
+
+259
+00:16:32,280 --> 00:16:37,320
+diciamo, e dall'altro appunto domani, tra potremmo decidere di smettere di pubblicare
+
+260
+00:16:37,320 --> 00:16:42,040
+o cambiare totalmente la pubblicazione, perché siamo io e Roberto che decidiamo
+
+261
+00:16:42,520 --> 00:16:46,680
+cosa fare, come investire il nostro tempo in questa avventura.
+
+262
+00:16:47,080 --> 00:16:50,920
+È ovvio che però, appunto a due ha dei costi.
+
+263
+00:16:50,920 --> 00:16:56,360
+Poi vabbè, io sono quello spendaccione dei due, quindi ho obbligato Roberto
+
+264
+00:16:56,360 --> 00:16:59,720
+a scegliere la piattaforma che volevo provare io, che è Fireside.
+
+265
+00:16:59,720 --> 00:17:02,920
+Abbiamo il taglio più basso, mettiamola in questi termini.
+
+266
+00:17:02,920 --> 00:17:07,800
+Però, diciamo, questa piattaforma è gestita da uno dei guru del podcast
+
+267
+00:17:07,800 --> 00:17:14,120
+americano, ha un sistema anche di reportistica, diciamo, la nostra versione minimale,
+
+268
+00:17:14,120 --> 00:17:18,520
+però esistono le versioni anche semi-professional e professional, mettiamole in questi termini.
+
+269
+00:17:18,520 --> 00:17:21,320
+E la cosa interessante è che ci dà un minimo di idea
+
+270
+00:17:21,320 --> 00:17:25,160
+di come stiamo andando, stiamo andando anche dal nostro punto di vista
+
+271
+00:17:25,320 --> 00:17:29,480
+ben, perché inizia a essere un centinaio di persone che ci ascoltano
+
+272
+00:17:29,480 --> 00:17:34,200
+quasi tutte le settimane, che dal nostro punto piccolo di vista, ci
+
+273
+00:17:34,200 --> 00:17:35,640
+dà molta soddisfazione.
+
+274
+00:17:35,640 --> 00:17:41,400
+Poi nei computi generali riusciamo ad arrivare anche a più soggetti, quindi
+
+275
+00:17:41,640 --> 00:17:46,160
+contentissimi da questo punto di vista, però è ovvio che sul lungo
+
+276
+00:17:46,160 --> 00:17:52,560
+andare, diciamo, pesa decisamente sulle nostre tasche, mettiamole in questi termini, e
+
+277
+00:17:52,560 --> 00:17:56,080
+soprattutto, diciamo, certe cose abbiamo dovuto tagliarle.
+
+278
+00:17:56,080 --> 00:18:01,040
+Per esempio, non possiamo fare le versioni più elevate, mettiamola così, per
+
+279
+00:18:01,040 --> 00:18:05,520
+esempio, ti danno la possibilità di inserire anche le persone che vengono
+
+280
+00:18:05,520 --> 00:18:06,560
+a fare gli ospiti.
+
+281
+00:18:06,560 --> 00:18:10,160
+Quindi anche avere la possibilità, per esempio, Lucio è già venuto 3-4
+
+282
+00:18:10,480 --> 00:18:11,440
+volte, credo.
+
+283
+00:18:12,000 --> 00:18:16,880
+Se invece l'ascoltatore vuole ascoltare tutte le puntate con Lucio, deve un
+
+284
+00:18:16,880 --> 00:18:18,160
+po' ingegnarsi.
+
+285
+00:18:18,160 --> 00:18:21,760
+Mentre, per esempio, con le versioni più avanzate c'è la possibilità, per
+
+286
+00:18:21,760 --> 00:18:23,680
+esempio, di avere tutti gli ospiti.
+
+287
+00:18:23,680 --> 00:18:26,560
+Quindi, l'ascoltatore può vedere tutte le puntate.
+
+288
+00:18:26,560 --> 00:18:30,240
+Però, quando andiamo su quella fascia lì, diciamo che diventa una spesa
+
+289
+00:18:30,240 --> 00:18:34,000
+non più giustificabile alle mogli e a noi stessi, mettiamo in questi
+
+290
+00:18:34,000 --> 00:18:34,560
+termini.
+
+291
+00:18:34,560 --> 00:18:41,200
+Per cui l'idea di poter dare funzioni in più, ovviamente, non tirando
+
+292
+00:18:41,200 --> 00:18:45,680
+fuori direttamente noi tutto il denaro, anche perché sono funzioni che probabilmente
+
+293
+00:18:45,680 --> 00:18:47,280
+non interessano proprio a tutti.
+
+294
+00:18:47,280 --> 00:18:50,640
+E quindi sono cose comode da avere, ma che ti costano quello
+
+295
+00:18:50,640 --> 00:18:51,200
+che costano.
+
+296
+00:18:51,440 --> 00:18:56,080
+Diciamo, si passa veramente da credo 200 euro all'anno.
+
+297
+00:18:56,720 --> 00:18:59,760
+Ho fatto due conti a Spann, ma secondo spendiamo intorno ai 200
+
+298
+00:18:59,760 --> 00:19:04,560
+euro all'anno si passare a 400-500 euro, che inizierebbe a diventare un
+
+299
+00:19:04,560 --> 00:19:06,720
+costo non giustificabile.
+
+300
+00:19:07,840 --> 00:19:12,320
+Per questa diciamo attività di divertimento, mettiamoli in questi termini.
+
+301
+00:19:12,320 --> 00:19:17,760
+A questo punto, diciamo, possiamo parlare dell'altro perno di questo nuovo sistema
+
+302
+00:19:17,760 --> 00:19:24,160
+del podcast 2.0, del value for value, che diciamo affronta un problema
+
+303
+00:19:24,320 --> 00:19:27,440
+che è un problema che un po' hanno tutti nel mondo di
+
+304
+00:19:27,440 --> 00:19:30,520
+internet, mettiamoli in questi termini: cioè, come faccio
+
+305
+00:19:31,720 --> 00:19:35,400
+a farmi pagare o a ricevere le donazioni.
+
+306
+00:19:35,400 --> 00:19:39,480
+Poi vabbè, adesso da legale, mettiamoli in questi termini: anche pagamento e
+
+307
+00:19:39,480 --> 00:19:40,200
+donazioni.
+
+308
+00:19:40,200 --> 00:19:43,880
+È un mondo che oggi non affronteremo minimamente, ma che è complesso,
+
+309
+00:19:43,880 --> 00:19:47,800
+perché anche le donazioni andrebbero tassate, e tutto il resto.
+
+310
+00:19:48,760 --> 00:19:51,160
+Per piccole cifre non ha veramente senso.
+
+311
+00:19:51,160 --> 00:19:55,240
+Però ci sono tutta una serie di problemi fiscali che si aprono
+
+312
+00:19:55,400 --> 00:19:58,920
+e per questo poi che, per esempio, credo che i digitali abbiano
+
+313
+00:19:58,920 --> 00:20:04,040
+costituito una società proprio per gestire i proventi dell'attività che svolgono, che
+
+314
+00:20:04,760 --> 00:20:09,640
+esula da qualsiasi cosa e da complessità inutili che non voglio neanche
+
+315
+00:20:09,720 --> 00:20:10,120
+avere.
+
+316
+00:20:10,120 --> 00:20:13,640
+Ma il vero più grosso problema è che se vuoi, tra virgolette,
+
+317
+00:20:13,640 --> 00:20:17,960
+ricevere delle donazioni e così via, devi andare attraverso
+
+318
+00:20:19,880 --> 00:20:25,480
+gli istruzioni di internet, gli chiamo, ma comunque il cosiddetto uomo in
+
+319
+00:20:25,480 --> 00:20:29,960
+mezzo, cioè il middleman, che ti gestisce i pagamenti e parliamo dei
+
+320
+00:20:29,960 --> 00:20:34,040
+soliti noti, cioè Paypal, Patreon e così via.
+
+321
+00:20:34,040 --> 00:20:37,960
+Ora, siccome ho approfondito tutta la vicenda all'epoca e poi ho deciso
+
+322
+00:20:37,960 --> 00:20:40,520
+che non ne valeva veramente la pena, almeno dal mio punto di
+
+323
+00:20:40,520 --> 00:20:43,480
+vista, per non so, avere 100 euro al mese o che ne
+
+324
+00:20:43,480 --> 00:20:45,640
+so, io ho anche meno, probabilmente.
+
+325
+00:20:45,640 --> 00:20:49,880
+Tutti questi soggetti ovviamente hanno messo su un'infrastruttura che permette a chi
+
+326
+00:20:49,880 --> 00:20:54,120
+vuole fare il patrono piuttosto che vuole fare una donazione e così
+
+327
+00:20:54,120 --> 00:21:00,600
+via, inviare delle somme di denaro via internet ai vari youtuber barra
+
+328
+00:21:00,840 --> 00:21:02,760
+podcaster del genere.
+
+329
+00:21:02,760 --> 00:21:08,120
+Però ovviamente facendo questa attività, giustamente non lo fanno per beneficenza e
+
+330
+00:21:08,120 --> 00:21:13,320
+quindi vogliono una percentuale, spesso e volentieri sulle cifre di basso conto,
+
+331
+00:21:13,320 --> 00:21:16,960
+e scalare, diciamo sulle cifre già un po' più alte.
+
+332
+00:21:17,120 --> 00:21:22,160
+Tuttavia credo di averlo passato uno schemino che avevo fatto a uso
+
+333
+00:21:22,240 --> 00:21:23,920
+interno e fatto vedere Roberto.
+
+334
+00:21:23,920 --> 00:21:28,400
+In estrema sintesi su PayPal avevo fatto questo esempio: con le donazioni
+
+335
+00:21:28,400 --> 00:21:32,240
+su PayPal, in pratica, le piccole donazioni ci guadagnano più Paypal
+
+336
+00:21:33,360 --> 00:21:37,440
+di chi riceveva la donazione, si iniziava a ragionare su donazioni però
+
+337
+00:21:37,520 --> 00:21:41,200
+già di 50 euro, che continuo a ripetere, iniziano ad essere cose
+
+338
+00:21:41,200 --> 00:21:45,840
+che non credo tutti facciano o facciano così saltuariamente.
+
+339
+00:21:45,840 --> 00:21:48,480
+Tanto è che con Roberto avevo detto che non ha veramente senso
+
+340
+00:21:48,480 --> 00:21:49,200
+fare niente.
+
+341
+00:21:49,200 --> 00:21:56,320
+In tutta quest'ottica, siccome poi in America comunque appunto le cripto sono
+
+342
+00:21:56,640 --> 00:22:02,080
+una realtà anche molto più concreta e molto più utilizzata, mettiamola così,
+
+343
+00:22:02,080 --> 00:22:06,720
+è entrato in gioco appunto il discorso di una soluzione per evitare
+
+344
+00:22:06,720 --> 00:22:08,800
+l'osidto uomo in mezzo.
+
+345
+00:22:08,800 --> 00:22:13,920
+Quindi per evitare di dare appunto la percentuale o comunque la tassa
+
+346
+00:22:13,920 --> 00:22:19,120
+a PayPal, al Patreon e così via, e utilizzare quello che è
+
+347
+00:22:19,360 --> 00:22:23,680
+qui entra in gioco poi tutto l'argomento della puntata diciamo è più
+
+348
+00:22:23,680 --> 00:22:26,960
+interessante, le criptovalute.
+
+349
+00:22:26,960 --> 00:22:30,000
+Perché le criptovalute cosa sono?
+
+350
+00:22:30,000 --> 00:22:33,040
+Allora, ovviamente sono delle monete finte.
+
+351
+00:22:33,040 --> 00:22:36,320
+Perché tutto il sistema monetario, beh no, è la verità.
+
+352
+00:22:36,320 --> 00:22:40,480
+Cioè, noi a un euro o a una banconota da 5 euro
+
+353
+00:22:40,720 --> 00:22:46,080
+diamo un valore, ma quel valore è un valore che condividiamo tra
+
+354
+00:22:46,080 --> 00:22:46,800
+di noi.
+
+355
+00:22:46,800 --> 00:22:51,760
+Ma teoricamente se io vado all'estero, quell'euro potenzialmente non vale niente, o
+
+356
+00:22:51,760 --> 00:22:55,560
+il dollaro, vabbè, adesso non lo so, o comunque altra moneta altaccata
+
+357
+00:22:55,760 --> 00:23:00,200
+moneta può non valere niente, è solo un valore che convenzionalmente noi
+
+358
+00:22:59,840 --> 00:23:00,520
+diamo.
+
+359
+00:23:01,240 --> 00:23:04,680
+Quindi l'idea delle criptovalute è qual è?
+
+360
+00:23:04,680 --> 00:23:09,480
+Quella di evitare appunto le banche, di evitare tutti i vari soggetti
+
+361
+00:23:09,560 --> 00:23:14,680
+che su questi pagamenti ci prendono una percentuale, mettiamola in questi termini.
+
+362
+00:23:14,680 --> 00:23:19,880
+Crea una moneta virtuale che, però, valga per tutto il mondo a
+
+363
+00:23:19,880 --> 00:23:23,960
+questo punto, e che ovviamente come tutte le monete fluttua, quindi il
+
+364
+00:23:23,960 --> 00:23:29,320
+valore dei bitcoin piuttosto che altre criptovalute altalena.
+
+365
+00:23:29,320 --> 00:23:33,640
+Diciamo nel tempo, ovviamente chi originariamente aveva minato.
+
+366
+00:23:33,640 --> 00:23:38,600
+Dopo vedremo cosa vuol dire minare, il Bitcoin ha visto un aumento
+
+367
+00:23:38,600 --> 00:23:43,560
+del valore negli ultimi dieci anni, se c'era dieci anni, è cresciuto
+
+368
+00:23:43,560 --> 00:23:44,760
+esponenzialmente.
+
+369
+00:23:44,760 --> 00:23:49,080
+Recentemente invece il Bitcoin ha avuto degli altri bassi notevoli e c'è
+
+370
+00:23:49,080 --> 00:23:52,920
+gente che investendo in bitcoin ci ha perso il lusco il brusco,
+
+371
+00:23:52,920 --> 00:23:53,720
+come si suol dire.
+
+372
+00:23:53,720 --> 00:23:58,040
+Tra l'altro, stavo sentendo proprio una notizia l'altro giorno che c'era all'inizio
+
+373
+00:23:58,040 --> 00:24:02,440
+dell'uscita del bitcoin qualcuno che ha pagato una pizza con un bitcoin
+
+374
+00:24:02,680 --> 00:24:07,400
+e quindi giusto per darvi il valore che c'era all'epoca, mentre adesso
+
+375
+00:24:07,400 --> 00:24:11,320
+voi pensate che con un bitcoin adesso non so qualsiasi il cambio,
+
+376
+00:24:11,320 --> 00:24:14,040
+ma è arrivato un certo punto che il bitcoin era a quattro
+
+377
+00:24:14,120 --> 00:24:14,600
+zeri.
+
+378
+00:24:14,600 --> 00:24:15,480
+Quindi pensate.
+
+379
+00:24:15,480 --> 00:24:19,240
+No, no, adesso un bitcoin vale dei soldi, adesso un bitcoin vale
+
+380
+00:24:19,320 --> 00:24:20,360
+proprio dei soldi.
+
+381
+00:24:20,440 --> 00:24:25,000
+Cioè, se tu hai un bitcoin, è interessante.
+
+382
+00:24:25,560 --> 00:24:27,000
+Inizia a essere interessante.
+
+383
+00:24:27,000 --> 00:24:30,600
+Adesso dico, anzi, se vuoi andare a vedere, ma secondo me lo
+
+384
+00:24:30,600 --> 00:24:31,400
+sto facendo.
+
+385
+00:24:32,040 --> 00:24:35,880
+Vado a memoria, ma secondo me il bitcoin adesso vale in euro
+
+386
+00:24:35,960 --> 00:24:37,880
+vale: vale 100.000.
+
+387
+00:24:37,880 --> 00:24:42,120
+Un bitcoin vale 100.000 euro quindi inizia a essere piuttosto interessante come
+
+388
+00:24:42,120 --> 00:24:42,600
+cosa.
+
+389
+00:24:42,840 --> 00:24:44,880
+Tuttavia, vado a memoria.
+
+390
+00:24:44,880 --> 00:24:50,240
+So che quando l'avevo guardato, aveva dei valori: sono 23.000 euro 24.000
+
+391
+00:24:44,520 --> 00:24:51,200
+euro in questo momento.
+
+392
+00:24:51,680 --> 00:24:54,960
+Insomma, un bitcoin inizia a essere interessante.
+
+393
+00:24:54,960 --> 00:24:58,080
+Ovviamente il bitcoin nel tempo è salito.
+
+394
+00:24:58,080 --> 00:25:01,040
+E quindi cosa succede?
+
+395
+00:25:01,040 --> 00:25:05,360
+Nel caso specifico dei podcast, si è deciso di non utilizzare il
+
+396
+00:25:05,360 --> 00:25:09,360
+Bitcoin perché adesso dopo lo vedremo, ci sono tutta una serie di
+
+397
+00:25:09,360 --> 00:25:13,760
+limiti di questa criptovaluta, ma di usare il Lightning, che è un
+
+398
+00:25:13,760 --> 00:25:20,000
+milionesimo, un valore minimale, diciamo, del Bitcoin.
+
+399
+00:25:20,560 --> 00:25:25,360
+Si basa sui bitcoin, ma è diciamo, una sottovaluta, mettiamola in questi
+
+400
+00:25:25,360 --> 00:25:25,680
+termini.
+
+401
+00:25:25,680 --> 00:25:30,240
+Adesso poi cercheremo di parlarne in maniera più approfondita.
+
+402
+00:25:30,240 --> 00:25:34,960
+Quindi adesso cerchiamo di capire, che cavolo sono, sono delle valute, è
+
+403
+00:25:34,960 --> 00:25:37,440
+ok, ma come funziona una criptovaluta?
+
+404
+00:25:37,440 --> 00:25:43,520
+Che ovviamente è la base per comprendere tutto questo sistema, lo ripeto,
+
+405
+00:25:43,520 --> 00:25:48,240
+sto banalizzando ai massimi livelli tutto il sistema.
+
+406
+00:25:48,240 --> 00:25:52,080
+Però l'idea è appunto un sistema di valuta virtuale, l'abbiamo già detto,
+
+407
+00:25:52,080 --> 00:25:57,760
+decentralizzato, che vuol dire che questi flussi di denaro non passano attraverso
+
+408
+00:25:57,760 --> 00:25:59,200
+una banca, un'istituzione.
+
+409
+00:25:59,200 --> 00:26:03,040
+Per esempio, adesso con l'Europa c'è la Banca Centrale Europea.
+
+410
+00:26:03,040 --> 00:26:07,920
+Però una volta la Banca d'Italia batteva moneta sostanzialmente e tutte le
+
+411
+00:26:07,920 --> 00:26:13,840
+lira all'epoca e gli euro progressivamente passavano attraverso la Banca d'Italia che
+
+412
+00:26:13,840 --> 00:26:18,560
+garantiva il valore della moneta, la lira all'epoca dell'euro oggi, e così
+
+413
+00:26:18,560 --> 00:26:20,720
+via, così come la Federal Reserve
+
+414
+00:26:22,960 --> 00:26:26,360
+garantisce, diciamo, il valore dei dollari.
+
+415
+00:26:26,360 --> 00:26:33,640
+E tendenzialmente, una volta a fronte della moneta, abbattuta, la banca dentro
+
+416
+00:26:33,880 --> 00:26:40,360
+le casse, fornox e insegna, aveva l'oro corrispondente al valore della moneta
+
+417
+00:26:40,520 --> 00:26:41,640
+sostanzialmente.
+
+418
+00:26:41,640 --> 00:26:45,400
+Quindi c'è un sistema per garantire questo.
+
+419
+00:26:45,400 --> 00:26:47,480
+Decentralizzata cosa vuol dire?
+
+420
+00:26:47,480 --> 00:26:53,000
+Vuol dire sostanzialmente che non c'è qualcuno che batte in senso tecnico
+
+421
+00:26:53,080 --> 00:26:58,680
+moneta e soprattutto non c'è un'istituzione, mettiamola così.
+
+422
+00:26:58,680 --> 00:27:04,520
+Che dice: per esempio, se utilizziamo PayPal, Paypal dice Roberto Marin ha
+
+423
+00:27:04,520 --> 00:27:08,520
+10 euro sul suo conto, ne dà 5 a Filippo Strozzi attraverso
+
+424
+00:27:08,520 --> 00:27:11,960
+il pagamento, ok, o comunque la donazione, quel cacchio che è.
+
+425
+00:27:11,960 --> 00:27:15,880
+Adesso Roberto Marin ha solo 5 euro sul suo conto e invece
+
+426
+00:27:15,880 --> 00:27:19,000
+Filippo Strozzi, che non ne aveva neanche uno sul suo conto, adesso
+
+427
+00:27:19,080 --> 00:27:20,520
+se ne trova 5.
+
+428
+00:27:20,520 --> 00:27:25,000
+Però è ovvio che se PayPal decide che invece Filippo Strozzi se
+
+429
+00:27:25,000 --> 00:27:27,960
+ne trova 4 e Roberto Marin se ne trova sempre 5.
+
+430
+00:27:27,960 --> 00:27:31,160
+Filippo e Roberto non è che ci possono fare molto.
+
+431
+00:27:31,160 --> 00:27:36,200
+Tu ti devi sempre fidare, ovviamente, del soggetto che gestisce queste transazioni.
+
+432
+00:27:36,200 --> 00:27:40,840
+Stesso discorso vale per Patreon, per YouTube, nella monetizzazione di YouTube.
+
+433
+00:27:41,160 --> 00:27:45,880
+Di fatto, nessuno ha accesso ai dati, per esempio, di il video
+
+434
+00:27:45,880 --> 00:27:51,560
+che stiamo registrando, non avrà milioni di visualizzazioni, ma quanta pubblicità ha
+
+435
+00:27:51,560 --> 00:27:55,800
+generato a YouTube, quanti revenue ha portato a YouTube e quanti soldi,
+
+436
+00:27:55,800 --> 00:27:59,480
+tra virgolette, dovrebberoci per quelle cose.
+
+437
+00:27:59,480 --> 00:28:02,840
+La gente si fida, mettiamoli in questi termini.
+
+438
+00:28:03,080 --> 00:28:07,000
+Però è ovvio che fidarsi è bene e non fidarsi è meglio.
+
+439
+00:28:07,560 --> 00:28:11,160
+È un sistema un po' come l'algoritmo di ricerca, nel senso che
+
+440
+00:28:11,160 --> 00:28:14,360
+non sai come funziona, ma ti devi fidare di quello che ti
+
+441
+00:28:14,360 --> 00:28:14,600
+dà.
+
+442
+00:28:14,960 --> 00:28:20,240
+Non è detto che sia sempre l'idea delle cripto monete e soprattutto
+
+443
+00:28:20,400 --> 00:28:24,720
+si appoggiano appunto a quella che viene chiamata cosiddetta blockchain, che un
+
+444
+00:28:24,720 --> 00:28:30,800
+po' viene raccontata da tutte le parti, e sostanzialmente il concetto della
+
+445
+00:28:30,800 --> 00:28:35,520
+blockchain è questo: cioè è una catena di transazioni, quindi le transazioni
+
+446
+00:28:35,520 --> 00:28:40,640
+non sono pubbliche, mettiamole in questi termini, quindi sono sicure anche perché
+
+447
+00:28:40,640 --> 00:28:45,840
+ovviamente tutti possono controllare il passaggio di soldi, o meglio, il passaggio
+
+448
+00:28:45,840 --> 00:28:47,040
+della criptovaluta.
+
+449
+00:28:47,680 --> 00:28:51,440
+Attualmente credo che la blockchain attuale sia tra un terabyte e due
+
+450
+00:28:51,600 --> 00:28:52,800
+terabyte di
+
+451
+00:28:54,080 --> 00:28:58,880
+dimensioni, perché ovviamente più si va avanti, più il passaggio di denaro
+
+452
+00:28:58,880 --> 00:29:05,200
+va, più la blockchain diventa grossa, e ovviamente cosa succede?
+
+453
+00:29:05,200 --> 00:29:11,200
+Questa blockchain non esiste una copia, ma ne esistono n copie distribuite
+
+454
+00:29:11,200 --> 00:29:17,760
+sulla rete, quindi la decentralizzate, sicuri, perché a questo punto, anche se
+
+455
+00:29:17,760 --> 00:29:22,640
+io mettessi a cercare di cancellare: Roberto decide di darmi
+
+456
+00:29:23,920 --> 00:29:28,000
+10 bitcoin, e poi dopo decide che li va indietro, che non
+
+457
+00:29:28,000 --> 00:29:33,920
+vuole più fare la donazione, così via, è ovvio che per poter
+
+458
+00:29:33,920 --> 00:29:34,960
+bloccare,
+
+459
+00:29:36,080 --> 00:29:40,880
+riscrivere questa operazione, dovrebbe andare a modificare il blockchain in mille posti
+
+460
+00:29:40,880 --> 00:29:44,720
+diversi, in centinaia di migliaia di posti diversi, e quindi anche qui
+
+461
+00:29:45,040 --> 00:29:47,280
+ci sarebbe il discorso della sicurezza.
+
+462
+00:29:47,280 --> 00:29:52,400
+Ovviamente la sicurezza viene garantita anche da un sistema differente, un algoritmo
+
+463
+00:29:52,400 --> 00:29:54,080
+matematico sostanzialmente.
+
+464
+00:29:54,080 --> 00:29:55,520
+Perché cosa succede?
+
+465
+00:29:55,520 --> 00:29:59,520
+In pratica, questo è un sistema più o meno generalizzato,
+
+466
+00:30:00,520 --> 00:30:04,440
+queste transazioni sostanzialmente vengono verificate, validate.
+
+467
+00:30:04,440 --> 00:30:08,200
+Alzo un attimo la manina, perché volevo soltanto fare una piccola precisazione.
+
+468
+00:30:08,360 --> 00:30:12,600
+La blockchain è una specie di tecnologia, potremmo definirla così.
+
+469
+00:30:12,600 --> 00:30:16,600
+Non è detto che siano transazioni, solo quelle che sono all'interno della
+
+470
+00:30:16,600 --> 00:30:22,920
+blockchain, ma possono anche essere altri tipi di dati che possono essere
+
+471
+00:30:22,920 --> 00:30:23,320
+utili.
+
+472
+00:30:23,320 --> 00:30:26,280
+Ad esempio, io faccio l'esempio, perché mi è venuto in mente proprio
+
+473
+00:30:26,280 --> 00:30:30,040
+in questo momento che avevo scritto un articolo proprio riguardo alla Beam
+
+474
+00:30:30,040 --> 00:30:35,320
+Chain che riguarda i dati all'interno della filiera della filosofia Beam.
+
+475
+00:30:35,320 --> 00:30:36,920
+Quindi è una tecnologia.
+
+476
+00:30:36,920 --> 00:30:41,240
+Ci sono adesso non volevo andare per la tangente, però, giusto perché
+
+477
+00:30:41,480 --> 00:30:45,800
+l'hai accennato tu, molti sostengono, perché poi attualmente, da quello che ne
+
+478
+00:30:45,800 --> 00:30:49,800
+so io, non ce ne sono delle grandi realtà che lo fanno.
+
+479
+00:30:49,800 --> 00:30:52,920
+Ma per esempio, si potrebbe garantire la filiera di un prodotto, cioè
+
+480
+00:30:53,080 --> 00:30:59,400
+il prodotto esce esce dalla fabbrica A, viene consegnata alla fabbrica B.
+
+481
+00:30:59,400 --> 00:31:00,920
+Diciamo che è un registro.
+
+482
+00:31:00,920 --> 00:31:04,600
+È un registro che nel caso di criptovaluta, ovviamente è un registro
+
+483
+00:31:04,600 --> 00:31:09,640
+sulle transazioni di queste criptovalute, quindi chi è proprietario di cosa e
+
+484
+00:31:09,640 --> 00:31:09,960
+chi
+
+485
+00:31:11,320 --> 00:31:13,560
+passa la criptovaluta a chi.
+
+486
+00:31:13,560 --> 00:31:17,720
+È ovvio che il sistema potrebbe essere utilizzato per fare, è un
+
+487
+00:31:17,720 --> 00:31:23,320
+database in estrema sintesi, quindi ovviamente può essere utilizzato per qualsiasi necessità
+
+488
+00:31:23,560 --> 00:31:24,600
+e così via.
+
+489
+00:31:24,600 --> 00:31:27,960
+Nella sostanza attualmente, da quel che ne so io, tranne che per
+
+490
+00:31:27,960 --> 00:31:32,040
+le criptovalute, la blockchain è come l'intelligenza artificiale.
+
+491
+00:31:32,200 --> 00:31:36,200
+Tutte le aziende dicono che hanno la blockchain, che hanno l'intelligenza artificiale.
+
+492
+00:31:36,200 --> 00:31:39,640
+Nella sostanza, concretamente, di farci qualcosa,
+
+493
+00:31:40,680 --> 00:31:42,920
+pochi ce l'hanno fatta, mettiamola così.
+
+494
+00:31:43,080 --> 00:31:49,120
+L'idea è appunto comunque della blockchain è quella che per appunto validare
+
+495
+00:31:49,120 --> 00:31:56,160
+questo database, ok, quindi i blocchi della blockchain, appunto dal nome, questa
+
+496
+00:31:56,400 --> 00:32:02,720
+catena appunto chain è legata una all'altra, quindi la transazione A segue
+
+497
+00:32:02,720 --> 00:32:06,080
+la transazione B è così all'infinito.
+
+498
+00:32:06,080 --> 00:32:14,400
+E inoltre la validazione richiede un computo matematico molto complesso, ok?
+
+499
+00:32:14,400 --> 00:32:17,760
+Quindi, nella sostanza, cosa succede?
+
+500
+00:32:17,760 --> 00:32:24,080
+Per essere sicuri che ovviamente non venga sovrascritta da nessuno questa blockchain,
+
+501
+00:32:24,240 --> 00:32:29,680
+che quindi, per garantire l'integrità della catena, ogni blocco della catena viene
+
+502
+00:32:29,680 --> 00:32:35,120
+validato e viene validato con un algoritmo che richiede a livello computazionale
+
+503
+00:32:35,280 --> 00:32:40,800
+una richiesta molto esosa di risorse informatiche, ma che da verificare, da
+
+504
+00:32:40,800 --> 00:32:45,520
+controllare invece richiede sostanzi pochissimo tempo.
+
+505
+00:32:45,760 --> 00:32:49,520
+Per cui se io voglio verificare che la catena non è stata
+
+506
+00:32:49,520 --> 00:32:51,520
+interrotta, ci metto 3 secondi.
+
+507
+00:32:51,520 --> 00:32:57,440
+Ma se io voglio diciamo modificare la catena, chiamiamola così, non ce
+
+508
+00:32:57,440 --> 00:33:02,640
+la faccio perché nel mentre la catena ha già recuperato degli altri
+
+509
+00:33:02,640 --> 00:33:07,600
+anelli, cioè dovrei avere una potenza ad oggi computazionale infinita e oltre.
+
+510
+00:33:07,600 --> 00:33:11,280
+Ovviamente questo sistema come si regge?
+
+511
+00:33:11,600 --> 00:33:15,120
+Si regge appunto con eliminare la moneta.
+
+512
+00:33:15,120 --> 00:33:20,320
+Cioè, siccome comunque tenere la blockchain fisicamente sul tuo computer, è ovviamente
+
+513
+00:33:20,320 --> 00:33:25,520
+un dispendio di risorse del tuo computer, e fare queste operazioni di
+
+514
+00:33:25,520 --> 00:33:31,000
+calcolo per garantire l'integrità della blockchain, che sono compiti matematici complessi, che
+
+515
+00:33:31,000 --> 00:33:35,320
+quindi richiedono computer molto potenti, e quindi energia elettrica e tutto il
+
+516
+00:33:35,320 --> 00:33:38,280
+resto, richiede molte risorse, cosa succede?
+
+517
+00:33:38,280 --> 00:33:44,040
+Chi chiude per primo la blockchain, diciamo, si genera un bitcoin.
+
+518
+00:33:44,040 --> 00:33:47,640
+Il pagamento esatto, la remunerazione esatta non me la ricordo.
+
+519
+00:33:47,640 --> 00:33:51,640
+Però il concetto di fondo è che appunto quando tu mini i
+
+520
+00:33:51,640 --> 00:33:55,720
+bitcoin, vuol dire che tu hai dedicato un computer spesso e volentieri
+
+521
+00:33:55,880 --> 00:34:02,520
+specializzato, con delle risorse hardware abbastanza anche imponenti, diciamo, per appunto fare
+
+522
+00:34:02,520 --> 00:34:07,960
+tutte queste operazioni, e sostanzialmente in questa maniera si crea anche tutta
+
+523
+00:34:08,440 --> 00:34:13,800
+l'operazione decentralizzata, cioè tante persone su tanti computer diversi sparsi per tutto
+
+524
+00:34:13,800 --> 00:34:20,200
+il mondo, gestiscono blockchain per minare appunto i bitcoin quindi per avere
+
+525
+00:34:20,200 --> 00:34:24,120
+una remunerazione da questa attività, però, non c'è nessuno che possiede la
+
+526
+00:34:24,120 --> 00:34:27,720
+blockchain o che faccia da controllare la blockchain, ed è questa la
+
+527
+00:34:27,720 --> 00:34:28,760
+cosa interessante.
+
+528
+00:34:28,760 --> 00:34:33,480
+L'altra cosa che per i bitcoin è venduta
+
+529
+00:34:34,760 --> 00:34:39,160
+e più in generale appunto per le criptovalute è venduta come una
+
+530
+00:34:39,160 --> 00:34:42,920
+caratteristica in più, ma che spesso e volentieri poche ce le hanno
+
+531
+00:34:43,160 --> 00:34:50,280
+nel senso tecnico del termine, è l'anonimato, perché oltretutto queste transazioni sono,
+
+532
+00:34:50,280 --> 00:34:54,280
+abbiamo detto, dal soggetto A al soggetto B, ma teoricamente il Bitcoin
+
+533
+00:34:54,280 --> 00:34:59,000
+non lo garantisce al 100%, per cui è un anonimato con l'asterisco,
+
+534
+00:34:59,000 --> 00:35:00,200
+come lo definisco io.
+
+535
+00:35:00,200 --> 00:35:06,120
+Però, diciamo, è ovvio che se hai degli strumenti avanzati, puoi risalire
+
+536
+00:35:06,120 --> 00:35:10,600
+ai soggetti a cui sono passati i soldi, perché anche qui qual
+
+537
+00:35:10,600 --> 00:35:11,480
+è il problema?
+
+538
+00:35:11,480 --> 00:35:15,520
+Roberto mi dà 5 euro, vabbè, sono pochi soldi, non è un
+
+539
+00:35:14,840 --> 00:35:15,680
+problema.
+
+540
+00:35:15,840 --> 00:35:19,360
+Però casomai Roberto non vuole fare sapere a sua moglie che mi
+
+541
+00:35:19,360 --> 00:35:22,640
+ha dato 5 euro perché gli andava di darmi 5 euro.
+
+542
+00:35:22,640 --> 00:35:27,760
+Oppure Roberto ha l'amante e vuole dare 100 euro al amante.
+
+543
+00:35:28,000 --> 00:35:31,120
+È ovvio che se lo viene a scoprire la moglie, forse è
+
+544
+00:35:31,120 --> 00:35:31,920
+un problema.
+
+545
+00:35:33,200 --> 00:35:37,520
+E ovviamente adesso noi stiamo facendo esempi abbastanza stupidi.
+
+546
+00:35:37,520 --> 00:35:43,760
+Tuttavia, considerate che, ovviamente, le criptovalute hanno trovato il loro là grosso,
+
+547
+00:35:43,840 --> 00:35:45,600
+almeno questa è la mia opinione.
+
+548
+00:35:45,600 --> 00:35:48,880
+Non ho delle fonti sufficientemente, ma direi che
+
+549
+00:35:49,920 --> 00:35:56,240
+direi che è abbastanza verosimile nella criminalità organizzata: ovviamente l'acquisto di queste
+
+550
+00:35:56,240 --> 00:35:57,600
+monete che
+
+551
+00:35:58,960 --> 00:36:06,320
+garantivano l'intracciabilità o comunque la promettevano diventava molto interessante nel mercato nero
+
+552
+00:36:06,320 --> 00:36:08,800
+e nel cosiddetto dark web.
+
+553
+00:36:09,120 --> 00:36:13,600
+Però, adesso, a prescindere da tutto questo, vi posso garantire comunque che
+
+554
+00:36:14,080 --> 00:36:16,000
+per gli studi che ho fatto io e per
+
+555
+00:36:17,360 --> 00:36:22,880
+certi approfondimenti che ho fatto io nel 2021: gli investigatori della guardia
+
+556
+00:36:22,880 --> 00:36:27,440
+di finanza e così via, appunto, facevano la ricostruzione dei portafogli virtuali
+
+557
+00:36:27,440 --> 00:36:29,760
+proprio per la criminalità organizzata.
+
+558
+00:36:29,760 --> 00:36:37,040
+Perché ovviamente questi valori, diciamo, queste criptovalute hanno anche interessi, sicuramente la
+
+559
+00:36:37,040 --> 00:36:42,880
+vendita di armi, passaggi di denari, lavanderie di soldi e così via.
+
+560
+00:36:42,880 --> 00:36:47,640
+Quindi sicuramente, gli affari sporchi, mettiamola così, hanno anche dato il là
+
+561
+00:36:47,680 --> 00:36:48,880
+alle criptovalute.
+
+562
+00:36:48,880 --> 00:36:53,120
+Nel caso specifico, però, segnalo che il Bitcoin, e qui continuo a
+
+563
+00:36:53,120 --> 00:36:56,960
+ripetere, l'ho visto perché le forze di polizia, mi ricordo più, comunque
+
+564
+00:36:57,440 --> 00:37:02,040
+un dipendente delle forze pubbliche che spiegava a sommi capi come era
+
+565
+00:37:02,040 --> 00:37:07,160
+possibile ricostruire i passaggi di denaro e anche individuare questi soggetti, ovviamente
+
+566
+00:37:07,320 --> 00:37:08,840
+è con difficoltà tracciabile.
+
+567
+00:37:08,840 --> 00:37:11,240
+Diciamo che l'annonimato totale non esiste.
+
+568
+00:37:11,240 --> 00:37:15,800
+Se siete interessati a una criptovaluta con anonimato, da quello che ho
+
+569
+00:37:15,800 --> 00:37:19,320
+capito io, perché non ve la vendo anche lì con sempre dubitativi,
+
+570
+00:37:19,320 --> 00:37:24,360
+la migliore moneta è il Monero, che appunto nasce proprio per risolvere
+
+571
+00:37:24,360 --> 00:37:30,120
+tutta una serie di problemi legati a queste cose, adesso apro chiudo
+
+572
+00:37:30,200 --> 00:37:35,400
+una parentesi, però è ovvio che un'altra possibilità per queste criptovalute di
+
+573
+00:37:35,400 --> 00:37:42,920
+interesse è: immaginate se è un governo oppressivo o abbia necessità, appunto,
+
+574
+00:37:42,920 --> 00:37:47,160
+di fare pagamenti che non risultano, per esempio, io voglio fare una
+
+575
+00:37:47,160 --> 00:37:52,600
+donazione a un istituto che, però lo stato in cui vivo, che
+
+576
+00:37:52,600 --> 00:37:57,800
+è oppressivo, non gradisce e che quindi mi potrebbe tracciare e potrebbe
+
+577
+00:37:57,800 --> 00:38:02,920
+incriminarmi perché ho fatto una donazione a Medici senza frontiere.
+
+578
+00:38:02,920 --> 00:38:03,400
+Non lo so.
+
+579
+00:38:03,400 --> 00:38:06,760
+E questo ovviamente può diventare anche interessante, cioè, ci sono anche dei
+
+580
+00:38:06,760 --> 00:38:10,920
+motivi leciti per utilizzare le criptovalute e così via.
+
+581
+00:38:10,920 --> 00:38:17,720
+Quindi diciamo che ci sono dei problemi legati, appunto, alla gestione della
+
+582
+00:38:17,720 --> 00:38:21,320
+valuta del denaro, che le cripto in parte
+
+583
+00:38:22,360 --> 00:38:24,280
+possono tutelare.
+
+584
+00:38:24,760 --> 00:38:26,840
+Infatti, è utilizzato anche.
+
+585
+00:38:27,240 --> 00:38:31,960
+Tra l'altro, è anche utilizzato appunto sul podcast 2.0.
+
+586
+00:38:31,960 --> 00:38:36,120
+Quindi non è che serve per forza da riciclare denaro.
+
+587
+00:38:36,120 --> 00:38:40,200
+Cioè, fatevi conto che comunque come vi dicevo, in America hanno pagato
+
+588
+00:38:40,200 --> 00:38:44,720
+una pizza con un Bitcoin quando valeva pochi euro o pochi dollari,
+
+589
+00:38:44,440 --> 00:38:47,840
+e adesso con un bitcoin mi comprate una macchina essenzialmente.
+
+590
+00:38:48,000 --> 00:38:51,440
+Ma al di là di quello, e degli usi più o meno
+
+591
+00:38:51,440 --> 00:38:52,640
+proprio impropri.
+
+592
+00:38:53,600 --> 00:38:57,920
+Come tutto, anche con il denaro, puoi comprare delle armi anche con
+
+593
+00:38:57,920 --> 00:38:59,760
+un martello il martello.
+
+594
+00:38:59,760 --> 00:39:04,480
+Puoi usarlo per appiccicare un chiodo, un quadro alla parete, oppure può
+
+595
+00:39:04,560 --> 00:39:07,360
+darlo in testa a qualcuno, dipende sempre da uso, se ne fa,
+
+596
+00:39:07,520 --> 00:39:12,720
+giusto per fare, un'inquadratura della situazione, però in questo caso
+
+597
+00:39:14,000 --> 00:39:20,480
+esistono, diciamo, anche diversi tipi di protocollo per quanto riguarda il bitcoin
+
+598
+00:39:20,640 --> 00:39:22,800
+perché si suddivide a sua volta.
+
+599
+00:39:22,800 --> 00:39:26,960
+Ad esempio, quello che viene utilizzato appunto per il podcast 2.0, che
+
+600
+00:39:26,960 --> 00:39:28,080
+è il Lightning.
+
+601
+00:39:28,080 --> 00:39:30,320
+Di che si tratta in generale?
+
+602
+00:39:30,320 --> 00:39:35,040
+Allora, abbiamo visto più o meno a grandi linee, veramente grandi come
+
+603
+00:39:35,040 --> 00:39:36,000
+funziona il Bitcoin.
+
+604
+00:39:36,000 --> 00:39:40,320
+Il bitcoin, però, validare la catena e quindi fare le transazioni.
+
+605
+00:39:40,320 --> 00:39:43,360
+Poi del Bitcoin sono dispendiosi.
+
+606
+00:39:43,360 --> 00:39:47,840
+Sia a livello di tempo, la validazione di una blockchain della blockchain
+
+607
+00:39:48,000 --> 00:39:50,640
+non è così veloce, parla di decine di minuti.
+
+608
+00:39:50,640 --> 00:39:54,160
+Quindi, se io voglio dare 5 euro in Bitcoin, che non so
+
+609
+00:39:54,160 --> 00:39:59,200
+cosa sia, ma comunque sono poca roba e 0, bitcoin a Roberto,
+
+610
+00:39:59,200 --> 00:40:01,760
+è più il tempo che ci metto a fare il passaggio di
+
+611
+00:40:01,760 --> 00:40:02,640
+denaro.
+
+612
+00:40:02,640 --> 00:40:07,280
+E tra l'altro, ovviamente il passaggio di denaro viene tracciato e quindi
+
+613
+00:40:07,360 --> 00:40:08,480
+comunque c'è una si chiama
+
+614
+00:40:09,920 --> 00:40:15,600
+un pagamento che viene fatto per chi ovviamente fa tutta questa attività.
+
+615
+00:40:15,600 --> 00:40:20,160
+Quindi, ovviamente, per i piccoli pagamenti, il bitcoin, soprattutto adesso che il
+
+616
+00:40:20,120 --> 00:40:23,840
+Bitcoin ha un valore elevato, non è efficace.
+
+617
+00:40:23,840 --> 00:40:24,640
+Cosa hanno fatto?
+
+618
+00:40:24,640 --> 00:40:29,480
+Slickcoin hanno costruito un'ulteriore, chiamiamola così, infrastruttura,
+
+619
+00:40:29,280 --> 00:40:33,960
+per transazioni flessibili e poco costose.
+
+620
+00:40:34,200 --> 00:40:37,960
+Ed entra in gioco il protocollo Lightning.
+
+621
+00:40:37,960 --> 00:40:43,720
+Il protocollo Lightning è un sistema di interscambio di bitcoin più veloce,
+
+622
+00:40:43,720 --> 00:40:50,040
+meno costoso, dove in pratica gli utenti fanno da microbanca.
+
+623
+00:40:50,360 --> 00:40:56,440
+È un termine molto banale, ma fa capire bene come funziona: io
+
+624
+00:40:56,440 --> 00:40:57,480
+ho 100 bitco.
+
+625
+00:40:57,480 --> 00:40:59,880
+No, ho un bitcoin, per esempio.
+
+626
+00:41:01,000 --> 00:41:06,840
+A questo punto io faccio da appunto Lightning di interscambio.
+
+627
+00:41:06,840 --> 00:41:10,920
+E quindi mi collego al punto A e al punto B.
+
+628
+00:41:10,920 --> 00:41:14,360
+E se attraverso il punto A e il punto B devono essere
+
+629
+00:41:14,360 --> 00:41:19,400
+fatte le micro transazioni, anticipo e divento debitore, per esempio, anticipo al
+
+630
+00:41:19,400 --> 00:41:21,880
+punto A i soldi per andare al punto B.
+
+631
+00:41:22,440 --> 00:41:25,880
+Sembra complesso, ma l'operazione è relativamente semplice.
+
+632
+00:41:25,880 --> 00:41:28,360
+E cosa succede sostanzialmente?
+
+633
+00:41:28,600 --> 00:41:32,360
+Io ho un nodo Lightning funzionante.
+
+634
+00:41:32,360 --> 00:41:37,640
+Quindi io diciamo metto a disposizione di altri questa prestazione di denaro
+
+635
+00:41:37,640 --> 00:41:42,840
+o di valuta virtuale, mettiamola così, e ovviamente a fronte di questa
+
+636
+00:41:43,080 --> 00:41:48,440
+di questa mia attività di intermediario, mettiamola così, ottengo un micro pagamento.
+
+637
+00:41:48,440 --> 00:41:49,560
+Quindi, cosa succede?
+
+638
+00:41:49,560 --> 00:41:55,400
+Nella sostanza, avendo un nodo Lightning, io posso guadagnare o comunque far
+
+639
+00:41:55,400 --> 00:41:59,000
+rendere i miei bitcoin che starebbero lì fermi a non fare niente
+
+640
+00:41:59,480 --> 00:42:02,920
+finché non faccio un acquisto di un qualche genere, diciamo.
+
+641
+00:42:02,920 --> 00:42:07,400
+E anche lì, adesso devo dirti la verità, ho guardato vari video
+
+642
+00:42:07,400 --> 00:42:13,160
+perché ero sul discorso del Lightning, ero incuriosito e interessato proprio per
+
+643
+00:42:13,160 --> 00:42:17,600
+un discorso anche di gestione, perché dopo parleremo anche di come gestire
+
+644
+00:42:17,600 --> 00:42:22,960
+questi soldi virtuali e di quali accortezze avere.
+
+645
+00:42:22,960 --> 00:42:26,240
+Tuttavia, da quello che ho capito io, anche gestire un nodo Lightning
+
+646
+00:42:26,240 --> 00:42:28,080
+è praticamente un lavoro.
+
+647
+00:42:28,720 --> 00:42:33,280
+E quindi, oltre a dover avere un'infrastruttura informatica, cioè non devi avere
+
+648
+00:42:33,280 --> 00:42:37,120
+un computer potente perché a questo punto è semplicemente chiamiamo così un
+
+649
+00:42:37,120 --> 00:42:38,160
+sistema di interscambio.
+
+650
+00:42:38,160 --> 00:42:42,160
+Non c'è la blockchain, non c'è tutto il discorso di avere dei
+
+651
+00:42:42,160 --> 00:42:47,360
+computer particolarmente performanti per minare i bitcoin.
+
+652
+00:42:47,360 --> 00:42:51,600
+Ma ovviamente devi avere un hard disk di medie grosse dimensioni, 2
+
+653
+00:42:51,600 --> 00:42:55,760
+terabyte più o meno, perché ovviamente devi avere la copia della blockchain
+
+654
+00:42:56,080 --> 00:42:59,600
+sul tuo dispositivo, e poi gestire tutti questi pagamenti.
+
+655
+00:42:59,600 --> 00:43:03,040
+Quindi un collegamento a internet, ovviamente e un computer sempre acceso.
+
+656
+00:43:03,040 --> 00:43:05,600
+Perché, se no, diciamo, lo scopo del non.
+
+657
+00:43:05,760 --> 00:43:07,120
+Lightning è fare passare.
+
+658
+00:43:07,120 --> 00:43:11,840
+Diciamo, con queste operazioni di bilanciamento: si chiamano di io devo a
+
+659
+00:43:11,840 --> 00:43:13,920
+te 10.000.
+
+660
+00:43:14,800 --> 00:43:18,000
+Perché il Lightning credo che sia un milionesimo del Bitcoin, una roba
+
+661
+00:43:18,000 --> 00:43:18,640
+del genere.
+
+662
+00:43:18,640 --> 00:43:23,280
+Tutti questi passaggi, perché poi, ovviamente, è una sorta di enorme da
+
+663
+00:43:23,360 --> 00:43:23,840
+ravere.
+
+664
+00:43:23,840 --> 00:43:30,000
+Quindi io devo 100.000 Lightning a te, me ne deve altre 50,
+
+665
+00:43:30,000 --> 00:43:34,240
+poi me ne deve anche tizio altri 50.000.
+
+666
+00:43:34,560 --> 00:43:35,840
+È tutto un gioco di.
+
+667
+00:43:35,840 --> 00:43:41,040
+Perché poi io devo avere anche per anticipare i pagamenti di tizio,
+
+668
+00:43:41,040 --> 00:43:42,480
+io devo avere la provvista.
+
+669
+00:43:42,480 --> 00:43:43,440
+Non so se mi spiego.
+
+670
+00:43:43,600 --> 00:43:46,000
+È tutta una roba abbastanza complicata.
+
+671
+00:43:46,000 --> 00:43:48,360
+Tant'è vero che appunto da quello che avevo visto io?
+
+672
+00:43:48,360 --> 00:43:53,040
+Dovevi anche addirittura adesso iniziavano ad esserci tutta una serie di script
+
+673
+00:43:53,680 --> 00:43:59,120
+per fare tutta questa gestione, perché poi tu anticipi a chi ti
+
+674
+00:43:59,120 --> 00:44:05,160
+chiede il prestito, diciamo quanto che fili, cioè che percentuale vuoi per
+
+675
+00:43:59,920 --> 00:44:07,160
+prestare quei soldi lì sostanzialmente.
+
+676
+00:44:07,400 --> 00:44:10,520
+Quindi c'è anche tutto un sistema molto veloce di
+
+677
+00:44:11,720 --> 00:44:12,600
+cambio di fee.
+
+678
+00:44:12,680 --> 00:44:16,200
+Per cui per arrivare dal punto A al punto Z, c'è tutto
+
+679
+00:44:16,200 --> 00:44:20,840
+un passaggio chiamiamo così di moneta virtuale da un nodo all'altro.
+
+680
+00:44:21,080 --> 00:44:25,720
+Tutto questo sistema di interscambio che è molto veloce rispetto al Bitcoin,
+
+681
+00:44:25,720 --> 00:44:30,120
+ma ovviamente ha dei costi però dei costi decisamente inferiori perché è
+
+682
+00:44:30,120 --> 00:44:32,200
+solitamente lo 0, qualcosa.
+
+683
+00:44:32,200 --> 00:44:36,360
+Quindi, comunque se io ti do, non so, 100 lightning che sono
+
+684
+00:44:36,360 --> 00:44:39,560
+tipo 5 centesimi, 10 centesimi.
+
+685
+00:44:39,560 --> 00:44:45,480
+Costo per far passare questi 100 Lightning, che casomai saranno un lightning
+
+686
+00:44:45,480 --> 00:44:47,160
+e poco di più, hai capito?
+
+687
+00:44:47,160 --> 00:44:48,280
+Quindi è ovvio che
+
+688
+00:44:49,320 --> 00:44:55,400
+in questo modo, diciamo, io per darti 100 Lightning che sono praticamente
+
+689
+00:44:55,400 --> 00:44:59,480
+niente, ho un costo che non dico nul, ma comunque su 100
+
+690
+00:44:59,640 --> 00:45:05,000
+Lightning se mi costa 5 euro 5 Lightning mandarti lì è poco
+
+691
+00:45:05,000 --> 00:45:07,480
+niente rispetto alla cifra che ti devo mandare.
+
+692
+00:45:08,120 --> 00:45:11,800
+Quindi questi micro pagamenti ovviamente diventano fattibili.
+
+693
+00:45:11,800 --> 00:45:14,520
+Tuttavia, tutta l'infrastruttura è relativamente complicata.
+
+694
+00:45:14,520 --> 00:45:18,200
+Ed è interessante sapere come funziona tutto il sistema, perché a quel
+
+695
+00:45:18,200 --> 00:45:20,600
+punto lì si capiscono tante cose.
+
+696
+00:45:20,840 --> 00:45:25,880
+Perché appunto col sistema del Value for Value e del podcast 2.0,
+
+697
+00:45:25,880 --> 00:45:26,680
+cosa succede?
+
+698
+00:45:26,680 --> 00:45:32,840
+Succede che Roberto o Filippo o io e Roberto possiamo creare appunto
+
+699
+00:45:32,840 --> 00:45:39,560
+un punto dove gli ascoltatori mandano appunto questi lighting, queste donazioni, queste
+
+700
+00:45:39,560 --> 00:45:44,200
+micro donazioni che possono essere micro donazioni, come in formato chiamiamolo così
+
+701
+00:45:44,360 --> 00:45:49,120
+Boost: cioè ti mando un messaggio potenziale perché può anche non esserci
+
+702
+00:45:49,120 --> 00:45:49,600
+il messaggio.
+
+703
+00:45:44,600 --> 00:45:51,120
+Ti mando, non so, 50.
+
+704
+00:45:51,200 --> 00:45:54,960
+000 Lightning, ma li mando ad due podcast.
+
+705
+00:45:54,960 --> 00:46:00,000
+A questo punto, A2 Podcast, può dire 50% sono di Roberto,
+
+706
+00:46:00,000 --> 00:46:01,680
+il 50% sono di Filippo.
+
+707
+00:46:01,680 --> 00:46:07,440
+E a sua volta ancora quindi i 550.000 Lightning che vengono mandati
+
+708
+00:46:07,440 --> 00:46:12,640
+A2 Podcast, vengono dati poi a 25.000 a Roberto e 25.000
+
+709
+00:46:12,640 --> 00:46:13,360
+a Filippo.
+
+710
+00:46:13,680 --> 00:46:17,440
+Tutto questo sistema è interessante perché a questo punto gli ascoltatori da
+
+711
+00:46:17,440 --> 00:46:21,520
+una parte possono comunicare direttamente con noi facendo questi boost.
+
+712
+00:46:21,520 --> 00:46:27,360
+Possono decidere che, per esempio, di darci 5 Lightning ogni secondo che
+
+713
+00:46:27,360 --> 00:46:31,840
+ascoltano la puntata, quindi, in base a quanto ascolta la puntata, i
+
+714
+00:46:31,840 --> 00:46:37,520
+pezzi della puntata che ascoltano, dare appunto valore a questo ascolto.
+
+715
+00:46:37,680 --> 00:46:41,600
+Quindi c'è un sistema anche, ovviamente possono fare qualsiasi tipo di donazione,
+
+716
+00:46:41,600 --> 00:46:45,600
+perché ovviamente con Lightning si possono fare anche tranquillamente le donazioni e
+
+717
+00:46:45,600 --> 00:46:46,240
+così via.
+
+718
+00:46:46,240 --> 00:46:49,120
+Tuttavia, è una maniera molto flessibile e molto interessante.
+
+719
+00:46:49,120 --> 00:46:55,360
+In più applicazioni, per esempio, come quella dello stesso Franco, Custamatic, si
+
+720
+00:46:55,520 --> 00:47:01,520
+implementano tutto il sistema, avendo un portafoglio Lightning è possibile, ovviamente fare
+
+721
+00:47:01,520 --> 00:47:03,680
+tutto direttamente dall'applicazione.
+
+722
+00:47:03,920 --> 00:47:08,880
+Quindi, diciamo, il sistema del value for value e del podcast 2.0
+
+723
+00:47:09,040 --> 00:47:14,000
+è quello di utilizzare questi strumenti che, di fatto, se hai appunto
+
+724
+00:47:14,000 --> 00:47:17,680
+dei bitcoin e dei Lightning sono a costo chiamiamolo così zero per
+
+725
+00:47:17,680 --> 00:47:26,000
+l'utente finale, per invece appunto, farsi partecipi e condividere, appunto, restituire valore
+
+726
+00:47:26,040 --> 00:47:28,880
+diciamo dai podcaster e così via.
+
+727
+00:47:28,840 --> 00:47:33,080
+E quindi in una qualche maniera finanziare mettiamoli in questi termini i
+
+728
+00:47:33,080 --> 00:47:36,360
+podcast che più ci piacciono e quindi anche creare poi una serie
+
+729
+00:47:36,360 --> 00:47:37,880
+di feedback e così via.
+
+730
+00:47:37,880 --> 00:47:43,000
+Tra l'altro nel sistema del podcast 2.0, addirittura se andate a vedere,
+
+731
+00:47:43,000 --> 00:47:47,320
+adesso c'è una pagina dove appunto c'è un elenco dei podcast in
+
+732
+00:47:47,560 --> 00:47:48,200
+base ai
+
+733
+00:47:49,240 --> 00:47:53,080
+proventi, chiamiamoli così, dei boost e quant'altro.
+
+734
+00:47:53,080 --> 00:47:53,720
+Quindi c'è anche
+
+735
+00:47:54,760 --> 00:47:57,480
+un modo per far conoscere il tuo podcast.
+
+736
+00:47:57,480 --> 00:48:03,160
+Perché più boost ricevi, più nel concreto vuol dire che c'è gente
+
+737
+00:48:03,160 --> 00:48:08,120
+che è appassionata del tuo podcast, e quindi anche altri possono scoprire
+
+738
+00:48:08,120 --> 00:48:11,480
+e conoscere il tuo podcast in questa maniera, cioè vedendo chiamiamola così
+
+739
+00:48:11,560 --> 00:48:13,240
+una classifica anche più verosimile.
+
+740
+00:48:13,240 --> 00:48:17,160
+Perché casomai il mio podcast ha 100 milioni di download, ma un
+
+741
+00:48:17,160 --> 00:48:19,720
+download non vuol dire che la gente ascolta il mio podcast, vuol
+
+742
+00:48:19,720 --> 00:48:21,000
+dire che l'ha scaricato.
+
+743
+00:48:21,000 --> 00:48:22,920
+E tra l'altro,
+
+744
+00:48:24,120 --> 00:48:27,800
+non vuol dire neanche che io ascolto il podcast per dire fa
+
+745
+00:48:27,800 --> 00:48:32,520
+schifo, a due mi fa schifo, però lo ascolto per ascoltare le
+
+746
+00:48:32,520 --> 00:48:35,640
+asinate che dicono Roberto Filippo, Roberto.
+
+747
+00:48:35,800 --> 00:48:42,840
+Invece, il discorso appunto di questo sistema, ovviamente è molto interessante, sì,
+
+748
+00:48:42,840 --> 00:48:48,040
+e la cosa altra interessante, che adesso ci arriveremo, perché ovviamente, avendo
+
+749
+00:48:48,040 --> 00:48:52,840
+parlato praticamente di valute, bisogna anche gestirle in qualche modo.
+
+750
+00:48:53,160 --> 00:48:58,600
+A proposito, volevo tanto segnalare che, essendo appunto, il mio, su un
+
+751
+00:48:58,680 --> 00:49:03,640
+diciamo un podcast 2.0, mi sono dovuto anche preoccupare di capire come
+
+752
+00:49:03,880 --> 00:49:08,200
+e quando, e nel caso in cui arrivino delle donazioni.
+
+753
+00:49:08,200 --> 00:49:12,440
+Volevo solo segnalare che esiste un bot su Telegram che fa proprio
+
+754
+00:49:12,440 --> 00:49:16,880
+questo, nel senso che va a interrogare il nodo Lighting per dirti
+
+755
+00:49:16,880 --> 00:49:21,680
+se hai ricevuto delle donazioni e lo puoi interrogare quante volte vuoi
+
+756
+00:49:21,760 --> 00:49:25,920
+con un semplice, diciamo, mi pare che sia uno slash list, se
+
+757
+00:49:25,920 --> 00:49:30,880
+non ricordo male, dovrebbe darti la lista delle donazioni fatte per il
+
+758
+00:49:30,880 --> 00:49:31,920
+proprio podcast.
+
+759
+00:49:32,480 --> 00:49:36,880
+La questione del value for value, secondo me, è molto interessante soprattutto
+
+760
+00:49:36,880 --> 00:49:41,360
+per ambienti come il podcast, perché appunto avendo la possibilità di dare,
+
+761
+00:49:41,360 --> 00:49:44,640
+chiamiamolo così, non solo una donazione, ma proprio un vero e proprio
+
+762
+00:49:44,640 --> 00:49:49,360
+boost che nel momento in cui ascolti qualcosa di interessante, tu puoi
+
+763
+00:49:49,360 --> 00:49:53,040
+dire OK, Hai detto una grandissima cosa, mi è utile per la
+
+764
+00:49:53,040 --> 00:49:53,600
+mia vita.
+
+765
+00:49:53,600 --> 00:49:57,840
+Puoi inviare il boost con ovviamente parte di Lightning e quanti te
+
+766
+00:49:57,840 --> 00:50:02,720
+ne servono, e soprattutto volendo poi anche metterci un messaggio e quindi
+
+767
+00:50:02,720 --> 00:50:08,080
+diventa proprio una donazione molto personale, molto ritagliata e verticale sul podcasting.
+
+768
+00:50:08,080 --> 00:50:12,160
+Poi ti dico è anche un bel feedback, perché ovviamente il boost
+
+769
+00:50:12,160 --> 00:50:15,600
+abitualmente lo fai o lo puoi fare, diciamo, immediatamente dopo che hai
+
+770
+00:50:15,600 --> 00:50:19,520
+ascoltato qualcosa, cioè un pezzo specifico, quindi anche chi riceve il boost
+
+771
+00:50:19,680 --> 00:50:22,640
+lo può ricollegare a quel pezzo specifico, e quindi anche sapere che
+
+772
+00:50:23,200 --> 00:50:29,600
+quel particolare contenuto è piaciuto, quindi anche avere appunto un feedback diretto.
+
+773
+00:50:29,600 --> 00:50:33,600
+Noi attualmente, per esempio, abbiamo un feedback in diretto, chiamiamolo così.
+
+774
+00:50:33,600 --> 00:50:36,160
+Gli ascolti stanno tendenzialmente aumentando.
+
+775
+00:50:36,560 --> 00:50:41,040
+Siamo partiti da poco niente, adesso abbiamo una platea più ampia.
+
+776
+00:50:41,040 --> 00:50:45,120
+Però effettivamente pochi ci scrivono, pochi ci sono recensioni, ma non ce
+
+777
+00:50:45,120 --> 00:50:46,000
+ne sono tantissime.
+
+778
+00:50:46,000 --> 00:50:49,760
+Effettivamente è un feedback, diciamo, molto a lungo respiro.
+
+779
+00:50:49,760 --> 00:50:54,640
+Casmai facciamo, per esempio, non so, vi piacciono le puntate lunghe piuttosto
+
+780
+00:50:54,640 --> 00:50:55,600
+che le puntate corte?
+
+781
+00:50:55,680 --> 00:50:59,520
+Ben o male, noi cerchiamo di intervallare, gestire in maniera un po'
+
+782
+00:50:59,520 --> 00:51:05,240
+più casuale, mettiamola così, perché tendiamo a lungo e non al corto.
+
+783
+00:51:05,560 --> 00:51:12,120
+Tuttavia può diventare uno strumento utile, appunto, anche per far capire che
+
+784
+00:51:12,120 --> 00:51:13,640
+questa puntata è piaciuta di più.
+
+785
+00:51:17,320 --> 00:51:21,320
+Certti argomenti sono piaciuti, ma presumiamo che siano piaciuti perché ci sono
+
+786
+00:51:21,320 --> 00:51:24,840
+stati più download nella media rispetto che ad altre puntate.
+
+787
+00:51:24,840 --> 00:51:31,240
+Però è tutto soggettivo e abbiamo appunto un feedback molto molto rarefatto,
+
+788
+00:51:31,240 --> 00:51:32,520
+mettiamole in questi termini.
+
+789
+00:51:32,520 --> 00:51:35,880
+Quindi, secondo me, è anche molto utile proprio da questo punto di
+
+790
+00:51:35,880 --> 00:51:36,360
+vista.
+
+791
+00:51:36,360 --> 00:51:40,520
+Direi che siamo a un'oretta già fatta, mettiamola più o meno così,
+
+792
+00:51:40,520 --> 00:51:45,160
+quindi cercerei di chiudere ragionando su alcune cose finali.
+
+793
+00:51:45,160 --> 00:51:51,160
+Innanzitutto, come si gestiscono però queste criptovalute, questi bitcoin e così via.
+
+794
+00:51:51,160 --> 00:51:57,400
+Abitualmente si parla di portafogli, cioè appunto ovviamente una metafora, perché non
+
+795
+00:51:57,400 --> 00:52:01,960
+esistono dei veri portafogli di criptovalute, ma esistono appunto quelli che vengono
+
+796
+00:52:01,960 --> 00:52:09,240
+anche definiti wallet, appunto portafogli in inglese, dove chiamiamolo così conservare la.
+
+797
+00:52:09,240 --> 00:52:12,840
+Adesso non voglio entrare troppo nel tecnico, ma comunque conservare
+
+798
+00:52:14,040 --> 00:52:17,800
+la titolarità diciamo di questo valore.
+
+799
+00:52:17,800 --> 00:52:23,880
+Cioè tu crei un wallet, appunto, crea un portafoglio e all'interno di
+
+800
+00:52:23,880 --> 00:52:29,560
+questo portafoglio, ovviamente collegato a questo portafoglio, diciamo, a questa cave privata
+
+801
+00:52:29,560 --> 00:52:35,480
+e pubblica, poi, perché questo sono, sono legate le transazioni, determinate transazioni
+
+802
+00:52:35,480 --> 00:52:39,000
+sulla blockchain piuttosto che Lightning e quant'altro.
+
+803
+00:52:39,000 --> 00:52:42,120
+Qual è la criptovaluta che si vuole utilizzare?
+
+804
+00:52:42,120 --> 00:52:46,000
+Esistono sostanzialmente due modalità per fare questa cosa qua.
+
+805
+00:52:44,760 --> 00:52:49,760
+Da una parte ci si può affidare a un soggetto terzo.
+
+806
+00:52:49,920 --> 00:52:53,680
+Soggetto terzo è la soluzione, chiamiamola così, più semplice da un certo
+
+807
+00:52:53,680 --> 00:52:54,400
+punto di vista.
+
+808
+00:52:54,400 --> 00:52:59,600
+Perché in pratica il mio portafoglio, chiamiamolo così, lo gestisce un altro.
+
+809
+00:52:59,600 --> 00:53:04,080
+Io mi offre già un'interfaccia bene o male più o meno intuitiva
+
+810
+00:53:04,160 --> 00:53:07,920
+per fare i pagamenti e per spostare somme di denaro, mettiamole in
+
+811
+00:53:07,920 --> 00:53:08,960
+questi termini.
+
+812
+00:53:09,600 --> 00:53:13,200
+Lo svantaggio della vicenda, ovviamente, qual è?
+
+813
+00:53:13,200 --> 00:53:18,560
+È che se questo gestore terzo e malintenzionato ha le chiavi in
+
+814
+00:53:18,560 --> 00:53:19,840
+mano dei miei soldi.
+
+815
+00:53:19,840 --> 00:53:22,960
+Quindi è ovvio che se io ho un centinaio di euro in
+
+816
+00:53:22,960 --> 00:53:28,160
+criptovalute poco mi interessa, ma c'è gente che ha migliaia e centinaia
+
+817
+00:53:28,160 --> 00:53:29,680
+di euro in criptovalute.
+
+818
+00:53:29,680 --> 00:53:34,240
+E questo ovviamente può diventare un problema e lo è già diventato
+
+819
+00:53:34,320 --> 00:53:38,640
+perché ci sono già state tutta una serie di, chiamiamole così, criptotruffe
+
+820
+00:53:38,640 --> 00:53:45,440
+più o meno sulla gestione delle criptovalute, in pratica, appunto, un miscuglio
+
+821
+00:53:45,840 --> 00:53:48,080
+di gestore e exchange.
+
+822
+00:53:48,080 --> 00:53:50,880
+Quindi è ovvio come faccio a prendere, come faccio a comprare un
+
+823
+00:53:50,880 --> 00:53:53,840
+Bitcoin o un mezzo bitcoin o quello che è.
+
+824
+00:53:53,840 --> 00:53:57,440
+Devo andare sul mercato, ci sono dei soggetti apposti che mi cedono
+
+825
+00:53:57,440 --> 00:54:01,600
+diciamo la titolarità di quella cifra di criptovaluta.
+
+826
+00:54:01,600 --> 00:54:08,880
+Ci sono addirittura dei soggetti che giocano d'azzardo, chiamiamolo così, sull'aumento o
+
+827
+00:54:08,880 --> 00:54:11,120
+la diminuzione delle criptovalute e mi danno
+
+828
+00:54:13,040 --> 00:54:16,400
+così dividendi, anche se non è il termine tecnico corretto, ma di
+
+829
+00:54:16,400 --> 00:54:19,280
+tutta questa roba qua non ci interessa minimamente.
+
+830
+00:54:19,280 --> 00:54:23,120
+Quello che io invece suggerisco di più, e quello che ad oggi
+
+831
+00:54:23,120 --> 00:54:26,920
+io non ho un euro in criptovalute, ma semmai lo farò, è
+
+832
+00:54:26,880 --> 00:54:30,840
+avere invece il mio portafoglio virtuale, cioè su PC o chiavetta.
+
+833
+00:54:31,000 --> 00:54:36,760
+Ovviamente, questo è il sistema che garantisce maggiore tutela, è ovvio anche
+
+834
+00:54:36,760 --> 00:54:40,840
+che se io ho la chiave, diciamo, che mi dà la titolarità
+
+835
+00:54:40,840 --> 00:54:46,280
+a 100.000 euro in bitcoin, e la perdo, ho perso 100.000 euro.
+
+836
+00:54:46,280 --> 00:54:49,400
+O il computer viene infettato da un virus e mi cifra tutto
+
+837
+00:54:49,400 --> 00:54:54,520
+il contenuto del computer, è ovvio che mi trovo in difficoltà.
+
+838
+00:54:54,520 --> 00:54:57,960
+Quindi, da una parte è più sicuro perché non affido a terzi
+
+839
+00:54:58,040 --> 00:55:02,120
+e bitcoin, dall'altra, ovviamente rischio di perdere tutti i soldi.
+
+840
+00:55:02,120 --> 00:55:07,880
+Cito non è un esempio vero, ma è la storia: diciamo di
+
+841
+00:55:08,280 --> 00:55:12,760
+una puntata di The Big Band Theory dove appunto i vari nerd
+
+842
+00:55:12,760 --> 00:55:13,960
+avevano fatto,
+
+843
+00:55:15,000 --> 00:55:20,200
+il avevano minato vari bitcoin, cinque anni dopo se ne ricordano, dico
+
+844
+00:55:20,600 --> 00:55:22,280
+avremmo non so quanti.
+
+845
+00:55:23,880 --> 00:55:29,880
+Peccato che dove avevano salvato non c'era la chiave, e vabbè, Sheldon
+
+846
+00:55:30,040 --> 00:55:31,560
+per fare un scherzo agli altri.
+
+847
+00:55:31,560 --> 00:55:35,000
+L'aveva salvata su una chiavetta, chiavetta che, però, era stata persa, la
+
+848
+00:55:35,000 --> 00:55:39,640
+chiavetta che viene trovata da un altro personaggio del The Big Ben
+
+849
+00:55:39,800 --> 00:55:43,400
+Theory che non capisce, non sa cosa c'è sopra, e quindi la
+
+850
+00:55:43,400 --> 00:55:47,720
+prende e la usa per usarla come chiavetta USB normalissimo e è
+
+851
+00:55:47,720 --> 00:55:51,160
+tutto contento perché ha trovato una chiavetta USB che varrà a 5-6
+
+852
+00:55:51,320 --> 00:55:51,640
+euro.
+
+853
+00:55:52,040 --> 00:55:57,960
+Quindi vabbè, questa è la barzelletta, la storiella, però è la concretezza
+
+854
+00:55:57,960 --> 00:55:58,760
+della vicenda.
+
+855
+00:55:58,760 --> 00:56:03,880
+Addirittura ci sono storie di chi ha dato appunto questi portafogli li
+
+856
+00:56:03,880 --> 00:56:05,240
+ho affidati a soggetti terzi.
+
+857
+00:56:05,240 --> 00:56:07,400
+Il soggetto terzio è morto in un incidente aereo.
+
+858
+00:56:07,400 --> 00:56:12,360
+Ci sono bloccati là migliaia di bitcoin e migliaia di euro o
+
+859
+00:56:12,360 --> 00:56:13,560
+di dollari o quello che è.
+
+860
+00:56:13,520 --> 00:56:17,600
+però il tizio è morto, ovviamente la password per accedere al portafoglio
+
+861
+00:56:14,600 --> 00:56:19,840
+la conosceva solo il tizio, è appunto lì.
+
+862
+00:56:19,920 --> 00:56:24,080
+Ed è per quello che io consiglio sempre di sapere come funzionano
+
+863
+00:56:24,080 --> 00:56:27,200
+questi sistemi, almeno a grandi linee.
+
+864
+00:56:27,200 --> 00:56:32,160
+Proprio perché spesso e volentieri i cosiddetti wallet custodial, cioè gestiti da
+
+865
+00:56:32,160 --> 00:56:39,120
+terzi, possono sembrare l'alternativa più semplice, ma abitualmente conviene le dovute accortezze
+
+866
+00:56:39,200 --> 00:56:42,000
+ovviamente, gestire il bitcoin in maniera diversa.
+
+867
+00:56:42,000 --> 00:56:46,560
+Addirittura ci sono proprio delle chiavette USB, credo, del dispositivo apposta per
+
+868
+00:56:46,560 --> 00:56:51,520
+garantire addirittura, non so, c'è un codice di recupero, mettiamola così, quando
+
+869
+00:56:51,520 --> 00:56:52,800
+generi il wallet.
+
+870
+00:56:52,800 --> 00:56:58,000
+Addirittura ti consiglio, non so, di scriverlo, scriverlo proprio cartaceamente e di
+
+871
+00:56:58,000 --> 00:57:00,720
+metterlo in una cassata di sicurezza o roba del genere, perché con
+
+872
+00:57:00,720 --> 00:57:05,360
+quello, ovviamente, puoi recuperare o reclamare soldi e così via e quant'altro.
+
+873
+00:57:05,360 --> 00:57:06,800
+Per cui questo è tutto il sistema.
+
+874
+00:57:07,040 --> 00:57:13,520
+Le criptovalute, diciamo, hanno una doppia potenzialità, che è l'argomento, diciamo, finale
+
+875
+00:57:13,520 --> 00:57:14,560
+che vorrei trattare.
+
+876
+00:57:14,640 --> 00:57:21,200
+Cioè, l'hype, diciamo che si è avuto, cioè la grande nomea era
+
+877
+00:57:21,200 --> 00:57:22,240
+di speculazione.
+
+878
+00:57:22,880 --> 00:57:27,760
+Io 5 anni fa avevo comprato un bitcoin che ho pagato 10
+
+879
+00:57:27,760 --> 00:57:33,280
+euro e oggi mi ritrovo in mano 23.000 euro di bitcoin, il
+
+880
+00:57:33,280 --> 00:57:36,080
+controvalore di Bitcoin di 23.000 euro.
+
+881
+00:57:36,080 --> 00:57:42,720
+L'altro discorso, e tendenzialmente tutti fanno questi ragionamenti: oggi compro bitcoin nella
+
+882
+00:57:42,880 --> 00:57:47,840
+speranza che cresca, e quindi io comprato n bitcoin per 10.000 euro
+
+883
+00:57:47,840 --> 00:57:53,720
+e domani quegli nitcoin li vendo a 15, 20, 30, 100.000 euro.
+
+884
+00:57:53,720 --> 00:57:57,280
+E quindi ho fatto l'investimento della vita, mettiamola così.
+
+885
+00:57:57,280 --> 00:58:01,880
+E ho avuto anche clienti che hanno fatto queste operazioni e così
+
+886
+00:58:01,880 --> 00:58:02,360
+via.
+
+887
+00:58:02,520 --> 00:58:07,240
+Poi c'è appunto il bitcoin come vera e propria moneta, quindi l'uso
+
+888
+00:58:07,240 --> 00:58:08,040
+di denaro.
+
+889
+00:58:08,360 --> 00:58:12,600
+Da questo punto di vista ne chiacchieravamo con Roberto perché gli ho
+
+890
+00:58:12,600 --> 00:58:14,840
+provato a far vedere alcune cose, mi sono andato un po' a
+
+891
+00:58:14,840 --> 00:58:18,600
+spucciare velocemente perché poi, appunto non avendo bitcoin non mi interessa più
+
+892
+00:58:18,600 --> 00:58:19,320
+di tanto.
+
+893
+00:58:19,640 --> 00:58:24,520
+Tuttavia, attualmente in Italia ci sono veramente pochissimi esercizi commerciali che accettano
+
+894
+00:58:24,520 --> 00:58:26,040
+i pagamenti di criptovalute.
+
+895
+00:58:26,040 --> 00:58:27,960
+Quindi se in un futuro
+
+896
+00:58:29,720 --> 00:58:33,640
+si potrebbe fare quello che si fa oggi con Satispay e sistemi
+
+897
+00:58:33,640 --> 00:58:36,360
+di pagamento che in Italia funzionano in digitale.
+
+898
+00:58:36,360 --> 00:58:42,120
+Diciamo, allo stato attuale di quando stiamo registrando oggi 21 agosto 2023
+
+899
+00:58:42,280 --> 00:58:47,080
+questa puntata, diciamo che le criptovalute come moneta, chiamiamole così, o come
+
+900
+00:58:47,080 --> 00:58:53,880
+controvalore di denaro nella pratica quotidiana, è praticamente impossibile da utilizzare.
+
+901
+00:58:53,880 --> 00:58:57,000
+Già se si va nel mondo del web, allora, non so, si
+
+902
+00:58:57,000 --> 00:59:01,080
+possono pagare, non tutti lo fanno: sito internet, gli spazi web.
+
+903
+00:59:01,320 --> 00:59:05,400
+Volevo tanto aggiungere una piccola nota di colore a riguardo della questione
+
+904
+00:59:06,040 --> 00:59:10,520
+degli enti terzi, che non tanto tempo fa, stiamo parlando del 2014,
+
+905
+00:59:10,520 --> 00:59:14,840
+che c'è stata una società, chiamiamola così, che si chiama Mount Gox.
+
+906
+00:59:14,840 --> 00:59:17,480
+Non so se per caso tu ne sai qualcosa, io avevo seguito
+
+907
+00:59:17,480 --> 00:59:22,920
+da vicino ed era molto interessante perché da lì veniva gestito circa
+
+908
+00:59:22,920 --> 00:59:27,800
+il 70% di tutte le transazioni Bitcoin al mondo, ok?
+
+909
+00:59:28,040 --> 00:59:29,720
+Quindi tu immagina tutta questa roba qui.
+
+910
+00:59:29,800 --> 00:59:35,240
+Nel febbraio del 2014 c'è stato un piccolissimo problema perché il gestore
+
+911
+00:59:35,240 --> 00:59:40,040
+ha dovuto chiudere il sito, terminare le transazioni e dichiarare banca rotta.
+
+912
+00:59:40,200 --> 00:59:44,920
+Tutto questo perché ho annunciato che circa 850.
+
+913
+00:59:45,920 --> 00:59:52,320
+000 bitcoin, che all'epoca erano circa intorno ai 450 milioni di dollari, appartenenti
+
+914
+00:59:52,320 --> 00:59:56,000
+ai suoi clienti neanche i suoi, è come se una banca dicesse,
+
+915
+00:59:56,000 --> 00:59:57,760
+OK, 850.000
+
+916
+00:59:59,280 --> 01:00:04,640
+bitcoin dei propri clienti, non erano più reperibili, erano spariti nel nulla,
+
+917
+01:00:04,640 --> 01:00:10,880
+ne erano recuperati soltanto 200.000 di bitcoin, mentre gli altri sono completamente
+
+918
+01:00:11,120 --> 01:00:12,080
+spariti.
+
+919
+01:00:12,080 --> 01:00:16,880
+E nel 2015 la società di sicurezza che si chiama Wix Sec
+
+920
+01:00:17,280 --> 01:00:23,600
+giapponese, ha portato a concludere che questi bitcoin sono stati portati per
+
+921
+01:00:23,600 --> 01:00:29,600
+lo più via durante il tempo dall'apertura, diciamo,
+
+922
+01:00:31,520 --> 01:00:36,720
+di questo sistema fino al momento della sua chiusura.
+
+923
+01:00:36,720 --> 01:00:40,880
+Quindi praticamente gli hanno sfilati da sotto il naso, pian pianino, e
+
+924
+01:00:40,880 --> 01:00:43,200
+ne sono spariti 850.000.
+
+925
+01:00:43,200 --> 01:00:48,880
+Quindi considerate che queste cose che sembrano barzellette in realtà capitano e
+
+926
+01:00:48,880 --> 01:00:49,840
+fidatevi che.
+
+927
+01:00:50,400 --> 01:00:55,120
+Poi soprattutto con la tecnologia, cioè il discorso non capendo come funziona
+
+928
+01:00:55,120 --> 01:00:59,120
+la tecnologia, è ovvio che io posso, tra virgolette, il malintenzionato, tipo
+
+929
+01:00:59,280 --> 01:01:00,640
+fregare in tutte le maniere possibile.
+
+930
+01:01:00,640 --> 01:01:04,560
+Il solito discorso per questo il mio ragionamento di fondo, con un
+
+931
+01:01:04,560 --> 01:01:06,400
+approccio molto legale, devo dire la verità.
+
+932
+01:01:06,400 --> 01:01:09,200
+Tuttavia è quello che se devo gestire le cose, me le gestisco
+
+933
+01:01:09,200 --> 01:01:11,120
+io piuttosto che il cretino me stesso.
+
+934
+01:01:11,120 --> 01:01:14,000
+Poi, tra l'altro, da quello che ne so io, perché in Italia
+
+935
+01:01:14,000 --> 01:01:17,760
+ci sono pochissime società italiane che lo gestiscono, al massimo ci sono
+
+936
+01:01:17,760 --> 01:01:22,400
+degli exchange, se tu dai 100 euro, loro ci danno il valore
+
+937
+01:01:22,400 --> 01:01:25,360
+in contro moneta, ma spesso e volentieri sono siti esteri, quindi comunque
+
+938
+01:01:25,360 --> 01:01:26,480
+ti devi anche fidare.
+
+939
+01:01:26,480 --> 01:01:29,760
+Tant'è vero che appunto la mia idea di fondo è quando è
+
+940
+01:01:29,760 --> 01:01:33,000
+mai se lo farò, comprerò 100-200 euro di Bitcoin.
+
+941
+01:01:33,160 --> 01:01:37,400
+Che ho quello che è per poi giocarci, mettiamoli in questi termini,
+
+942
+01:01:37,400 --> 01:01:40,440
+ma non nell'ottica di dire faccio un investimento.
+
+943
+01:01:40,440 --> 01:01:43,080
+Tant'è vero che appunto chi adesso ha dei
+
+944
+01:01:44,200 --> 01:01:50,360
+valori è perché l'ha fatto dieci anni fa, investendo cifre ridicole dicendo
+
+945
+01:01:50,440 --> 01:01:55,240
+vabbè, ci provo al massimo sono 100-200.000 euro, in dipendenza ovviamente dal
+
+946
+01:01:55,240 --> 01:01:59,960
+portafoglio più o meno grande che hai che ho lanciato, è come
+
+947
+01:02:00,120 --> 01:02:00,840
+giocare a casino.
+
+948
+01:02:00,840 --> 01:02:02,600
+No, ecco, mettiamola in questi termina.
+
+949
+01:02:02,600 --> 01:02:06,200
+Però la verità di tutto questo sistema è che a oggi, da
+
+950
+01:02:06,200 --> 01:02:08,760
+quello che ne so io, da quello che ho potuto vedere facendo
+
+951
+01:02:08,760 --> 01:02:13,720
+velocemente delle ricerche, le criptovalute non sono vere valute, nel senso che
+
+952
+01:02:13,880 --> 01:02:17,000
+non posso andare al bar e comprarmi con i Lightning un caffè.
+
+953
+01:02:17,000 --> 01:02:21,560
+E quindi, poi, infatti, il ragionamento mio e di Roberto di aderire
+
+954
+01:02:22,120 --> 01:02:27,720
+a questi aspetti al podcast 2.0 ad oggi, cioè, per le dimensioni
+
+955
+01:02:27,720 --> 01:02:30,280
+che ha questo podcast, e tutto il resto, non ha veramente senso.
+
+956
+01:02:30,280 --> 01:02:36,280
+Discorso diverso è value for value in ottica diversa, cioè appunto quello
+
+957
+01:02:36,280 --> 01:02:41,560
+che abbiamo anche chiesto a inizio puntata: titoli o argomenti da approfondire
+
+958
+01:02:41,720 --> 01:02:47,080
+nelle prossime puntate, persone da intervistare contatti con persone da intervistare che
+
+959
+01:02:47,080 --> 01:02:49,800
+possono essere interessate a essere intervistate.
+
+960
+01:02:49,800 --> 01:02:54,840
+Tutto questo può invece far parte di questa iniziale apertura al value
+
+961
+01:02:54,840 --> 01:02:56,840
+for value e può diventare utile.
+
+962
+01:02:56,840 --> 01:03:03,480
+Ultimissimissima cosa che voglio dire facendo una dovuta premessa, cioè per approfondimenti,
+
+963
+01:03:03,560 --> 01:03:08,520
+sentire il vostro commercialista consulente fiscale, è la tassazione 101, come farebbero
+
+964
+01:03:08,680 --> 01:03:11,240
+gli americani, di queste valute.
+
+965
+01:03:11,200 --> 01:03:14,840
+Perché attenzione, che se da una parte ovviamente non c'è l'uomo in
+
+966
+01:03:15,120 --> 01:03:19,440
+mezzo che ti può bloccare una quota di questi valori, c'è da
+
+967
+01:03:19,440 --> 01:03:24,800
+considerare il fatto che ovviamente questi valori hanno valore e quindi potenzialmente
+
+968
+01:03:24,800 --> 01:03:28,240
+possono essere tazzati dal nostro amato Stato italiano.
+
+969
+01:03:28,240 --> 01:03:33,760
+Non vado ad approfondire argomenti che richiederebbero non una puntata ma decine
+
+970
+01:03:33,840 --> 01:03:34,480
+di puntate.
+
+971
+01:03:34,480 --> 01:03:37,920
+Io ho iniziato a guardare qualche articolo sull'argomento, ho deciso, tra le
+
+972
+01:03:37,920 --> 01:03:44,240
+altre cose in Italia adesso c'è un notevole diciamo fermento, perché appunto
+
+973
+01:03:44,480 --> 01:03:50,720
+credo recentemente siano state varate varie normative per fare rientrare, diciamo, non
+
+974
+01:03:50,720 --> 01:03:54,240
+sono capitali all'estero, ma nella sostanza, se io ho bitcoin, spesso e
+
+975
+01:03:54,240 --> 01:03:59,520
+volentieri, bitcoin sono poi gestiti appunto da soggetti terzi e spesso e
+
+976
+01:03:59,520 --> 01:04:02,880
+volentieri in stati esteri, mettiamola così, in America e quant'altro.
+
+977
+01:04:02,880 --> 01:04:06,720
+Quindi ovviamente il Bitcoin io in Italia non lo riesco a convertire
+
+978
+01:04:06,720 --> 01:04:09,760
+in euro attraverso una banca, mettiamola in questi termini.
+
+979
+01:04:09,760 --> 01:04:13,360
+Quindi devo prima avere un exchange, appunto che mi dà o un
+
+980
+01:04:13,360 --> 01:04:18,080
+Bitcoin mi dà 23.000 euro o meglio la conversione in dollari, poi
+
+981
+01:04:18,160 --> 01:04:22,720
+dopo dalla banca americana me la faccio portare di qua di denaro,
+
+982
+01:04:22,720 --> 01:04:25,280
+e a quel punto lì c'è il problema della tassazione, perché quei
+
+983
+01:04:25,280 --> 01:04:28,160
+soldi lì da dove vengono, e così via.
+
+984
+01:04:28,160 --> 01:04:33,920
+Adesso qui non entrerò nel discorso, ma ovviamente le tasse si pagano
+
+985
+01:04:33,920 --> 01:04:38,720
+se c'è una cosiddetta plusvalenza: cioè se io ho spesso 100 ma
+
+986
+01:04:39,280 --> 01:04:43,040
+me ne ritornano 10.000, è ovvio che lo stato, su quel plus
+
+987
+01:04:43,440 --> 01:04:47,120
+rispetto ai soldi che valevano iniziale, me lo tassa.
+
+988
+01:04:47,520 --> 01:04:50,560
+Questa è la regola generale più o meno, adesso ve la faccio
+
+989
+01:04:50,560 --> 01:04:52,560
+anche qui, semplicissima, perché non voglio.
+
+990
+01:04:52,560 --> 01:04:58,640
+Tendenzialmente, se ho un portafoglio gestito da me, quindi fisicamente diciamo, ho
+
+991
+01:04:58,960 --> 01:05:02,760
+nella mia tasca e i bitcoin, a questo punto finché ovviamente non
+
+992
+01:05:02,760 --> 01:05:06,360
+li converto in moneta e quindi non ho la famosa plusvalenza, li
+
+993
+01:05:06,360 --> 01:05:09,640
+posso gestire, non c'è da tassare, non c'è da dichiararli e così
+
+994
+01:05:09,640 --> 01:05:12,840
+via, a meno che non si abbia, se no, se no, c'è
+
+995
+01:05:12,840 --> 01:05:17,240
+tutto il discorso delle plusvalenze quindi di dichiarazione dei redditi e così
+
+996
+01:05:17,240 --> 01:05:17,480
+via.
+
+997
+01:05:17,480 --> 01:05:22,040
+Quindi attenzione, perché la cosa poi si complica a livello fiscale e
+
+998
+01:05:22,040 --> 01:05:26,680
+quindi è tutto bello, ma ci sono tutta una serie di problemi.
+
+999
+01:05:26,680 --> 01:05:32,120
+Faccio una domanda: se io ho il mio simpatico Bitcoin che l'ho
+
+1000
+01:05:32,360 --> 01:05:36,200
+comprato, diciamo a 10 euro ed è salito a 20.000 euro come
+
+1001
+01:05:36,440 --> 01:05:41,160
+più o meno circa adesso, e mi compro un'auto con quel Bitcoin.
+
+1002
+01:05:41,160 --> 01:05:41,800
+Se ci riesci
+
+1003
+01:05:43,160 --> 01:05:44,680
+, non è la tassa.
+
+1004
+01:05:44,680 --> 01:05:48,120
+Non è tassato, se il portafoglio è tuo è come se tu
+
+1005
+01:05:48,120 --> 01:05:49,960
+avessi 20.000 euro in tasca.
+
+1006
+01:05:49,960 --> 01:05:53,400
+Cioè il concetto è: se tu hai 20.000 euro in tasca, nessuno
+
+1007
+01:05:53,400 --> 01:05:54,120
+te ritassa.
+
+1008
+01:05:55,880 --> 01:05:58,520
+Non è che lo Stato viene nel tuo portafoglio a guardare cosa
+
+1009
+01:05:58,520 --> 01:06:00,920
+c'hai nel portafoglio, ti dico: Oh, hai 100 euro nel portafoglio, ne
+
+1010
+01:06:01,080 --> 01:06:02,600
+voglio 10.
+
+1011
+01:06:03,560 --> 01:06:09,160
+Perché abitualmente quei 100 euro che hai nel portafoglio, teoricamente, provengono dal
+
+1012
+01:06:09,160 --> 01:06:16,120
+tuo lavoro o da chissà cosa, però, teoricamente, ho ereditato e così
+
+1013
+01:06:16,120 --> 01:06:16,440
+via.
+
+1014
+01:06:17,000 --> 01:06:21,560
+Tuttavia, il discorso è che appunto è proprio quello: segnalo che per
+
+1015
+01:06:21,560 --> 01:06:26,200
+controvalori grossi, cioè più di 50.000 euro e qualcosa, invece vanno dichiarati
+
+1016
+01:06:26,200 --> 01:06:26,520
+nel.
+
+1017
+01:06:26,600 --> 01:06:30,920
+Comunque dovete sentire il vostro consulente fiscale, perché adesso quando iniziano a
+
+1018
+01:06:30,920 --> 01:06:36,600
+parlarsi di cifre significative, diciamo, anche perché spesso e volentieri cosa succede?
+
+1019
+01:06:36,600 --> 01:06:40,840
+La verità è che l'80-90%, secondo me, di chi gestisce i Bitcoin
+
+1020
+01:06:40,840 --> 01:06:44,680
+ce li ha in portafogli custodia, il cosiddetti, cioè gestiti da terzi,
+
+1021
+01:06:44,680 --> 01:06:48,400
+che se comprati, capito niente, addirittura si fa propria speculazione.
+
+1022
+01:06:48,560 --> 01:06:51,440
+Quindi in quel caso lì sono tassati sempre o comunque, come si
+
+1023
+01:06:51,440 --> 01:06:52,720
+suol dire:
+
+1024
+01:06:54,400 --> 01:06:58,400
+anche se tu hai 100 azioni Apple o che l'Apple aumenta di
+
+1025
+01:06:58,400 --> 01:07:02,240
+valore, vendi le azioni Apple, il differenziale da quando le hai comprate
+
+1026
+01:07:02,240 --> 01:07:06,240
+a quando le vendi, e quindi la plusvalenza te la tassa.
+
+1027
+01:07:06,560 --> 01:07:10,240
+Il sistema è proprio quello e non ce se ne esce, mettiamo
+
+1028
+01:07:10,240 --> 01:07:11,760
+male questi termini.
+
+1029
+01:07:12,000 --> 01:07:14,640
+Le tasse vanno pagate, c'è poco da star lì.
+
+1030
+01:07:14,640 --> 01:07:19,360
+Direi che possiamo andare tranquillamente nelle conclusioni della puntata, perché abbiamo detto
+
+1031
+01:07:19,360 --> 01:07:21,360
+di tutto di più, grazie Filippo.
+
+1032
+01:07:21,360 --> 01:07:27,280
+Ovviamente fateci sapere come poi scoprirete se è il caso di fare
+
+1033
+01:07:27,280 --> 01:07:31,120
+degli approfondimenti che riguardano l'acquisto di criptovalute.
+
+1034
+01:07:31,120 --> 01:07:36,960
+Oppure, come sempre, sapete dove come trovarci e farci sapere come proseguire.
+
+1035
+01:07:37,680 --> 01:07:42,960
+Se volete darci qualche idea, potete tranquillamente iscriverci all'indirizzo di posta elettronica
+
+1036
+01:07:43,120 --> 01:07:43,600
+scrivi.
+
+1037
+01:07:45,920 --> 01:07:46,400
+it.
+
+1038
+01:07:46,400 --> 01:07:51,360
+Potete contribuire ovviamente con le idee, ma volendo anche con delle recensioni,
+
+1039
+01:07:51,360 --> 01:07:54,400
+stelline, quello che vi viene in mente.
+
+1040
+01:07:54,400 --> 01:07:56,560
+Potete trovarci nei nostri canali privati.
+
+1041
+01:07:56,560 --> 01:08:00,560
+L'importante è un po' interagire che aiuta sempre un po' tutti quanti.
+
+1042
+01:08:00,560 --> 01:08:04,000
+Per quanto riguarda invece le note dell'episodio, con il link e degli
+
+1043
+01:08:04,000 --> 01:08:07,280
+argomenti che abbiamo trattato in puntata, lo trovete come sempre, con tutti
+
+1044
+01:08:07,280 --> 01:08:13,440
+i vari riferimenti del caso, al link a2podcast.it/67.
+
+1045
+01:08:13,440 --> 01:08:14,560
+Dove ci potete trovare?
+
+1046
+01:08:14,560 --> 01:08:18,320
+Sottoscritto mi potete trovare nella mia casa digitale che si chiama Mac
+
+1047
+01:08:18,560 --> 01:08:23,040
+Architettura all'indirizzo mark.net.wordpress.com.
+
+1048
+01:08:23,040 --> 01:08:25,520
+Invece, il nostro grandissimo Filippo, avvocatemec.
+
+1049
+01:08:25,560 --> 01:08:29,280
+Punit, direi che a questo punto ci possiamo sentire tra due settimane.
+
+1050
+01:08:29,280 --> 01:08:30,280
+Alla prossima!
+
+1051
+01:08:29,920 --> 01:08:31,240
+Al prossimo!

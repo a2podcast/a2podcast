@@ -1,0 +1,4887 @@
+1
+00:00:00,000 --> 00:00:06,080
+Benvenuti all'episodio 53 di A2 in cui scoprire come ottenere il massimo
+
+2
+00:00:06,080 --> 00:00:08,160
+dalla vostra tecnologia Apple.
+
+3
+00:00:08,160 --> 00:00:12,400
+Io sono Roberto Marin e sono il vostro ospite assieme all'amico Filippo
+
+4
+00:00:12,560 --> 00:00:13,440
+Strozzi.
+
+5
+00:00:13,440 --> 00:00:15,520
+Di cosa parliamo in questo episodio, Filippo?
+
+6
+00:00:15,520 --> 00:00:19,920
+Allora, Roberto, oggi parliamo di un programma che conosci solo tu.
+
+7
+00:00:21,040 --> 00:00:25,040
+Lo definirei web app a dire la verità, ma so che lo
+
+8
+00:00:25,040 --> 00:00:25,840
+ami tanto.
+
+9
+00:00:25,840 --> 00:00:31,280
+Nelle puntate precedenti, ne abbiamo parlato di Riffo o di Raffa, e
+
+10
+00:00:31,280 --> 00:00:36,880
+quindi mi sembra il momento giusto di iniziare a parlare di notion
+
+11
+00:00:37,200 --> 00:00:39,920
+o nozione tradotta in italiano.
+
+12
+00:00:39,920 --> 00:00:42,800
+Sì, fa un po' ridere la traduzione, in effetti, fai molto più
+
+13
+00:00:42,800 --> 00:00:44,480
+elegante in inglese.
+
+14
+00:00:45,600 --> 00:00:48,480
+Ormai siamo un popolo anglofono anche noi.
+
+15
+00:00:48,800 --> 00:00:55,200
+Ma prima di entrare nel nocciolo della puntata, come al solito, facciamo
+
+16
+00:00:55,200 --> 00:00:56,480
+partire la sigla
+
+17
+00:00:58,000 --> 00:00:59,600
+A2 Podcast.
+
+18
+00:00:59,600 --> 00:01:03,200
+Scopri come ottenere il massimo dalla tua tecnologia apple.
+
+19
+00:01:03,200 --> 00:01:07,760
+Due professionisti, Filippo e Roberto, te lo spiegano con argomenti monotematici ed
+
+20
+00:01:07,760 --> 00:01:10,640
+ospiti che raccontano il loro flusso di lavoro.
+
+21
+00:01:18,240 --> 00:01:19,920
+Eh, cosa ne dici?
+
+22
+00:01:19,920 --> 00:01:22,640
+Grandissima sigla, il nostro flusso di lavoro.
+
+23
+00:01:22,640 --> 00:01:27,440
+Che oggi questa sera o questo pomeriggio questa mattina, dipende voi quando
+
+24
+00:01:27,440 --> 00:01:33,520
+vedete o sentite questo podcast, parliamo di Notion che è una famigerata,
+
+25
+00:01:33,520 --> 00:01:36,480
+nonché famosissima app per la produttività.
+
+26
+00:01:36,480 --> 00:01:40,400
+Come diceva all'inizio il nostro amico Filippo, che abbiamo qua, lui usa
+
+27
+00:01:40,400 --> 00:01:42,720
+tutt'altro strumento che non è Notion.
+
+28
+00:01:42,720 --> 00:01:46,480
+Invece, questa volta tocca a me portare avanti la bandiera di A2.
+
+29
+00:01:46,480 --> 00:01:49,360
+Perché tra i due sono quello che lo conosco un po' meglio.
+
+30
+00:01:49,360 --> 00:01:52,560
+Non è che lo conosca perfettamente, ma insomma, qualcosa in più di
+
+31
+00:01:52,560 --> 00:01:53,040
+Filippo.
+
+32
+00:01:53,200 --> 00:01:56,480
+Per fortuna lo conosco e riesco forse anche a tenere una puntata.
+
+33
+00:01:56,480 --> 00:02:00,760
+Non so se sarò prolisso e completo come Filippo, ma insomma, riusciamo
+
+34
+00:02:00,760 --> 00:02:00,920
+a
+
+35
+00:02:01,960 --> 00:02:03,320
+appena adesso del prolisso.
+
+36
+00:02:03,960 --> 00:02:05,080
+Grazie, grazie.
+
+37
+00:01:59,840 --> 00:02:06,120
+Sei prolisso.
+
+38
+00:02:06,280 --> 00:02:10,920
+Difatti, delle volte quando parti, parti a parlare, ti fermo a fine
+
+39
+00:02:10,920 --> 00:02:13,240
+puntata per dirti che hai chiuso la puntata.
+
+40
+00:02:13,240 --> 00:02:16,040
+Perché se no, stai avanti ad oltranza.
+
+41
+00:02:16,200 --> 00:02:19,560
+Ma è giusto così perché sei un sacco di cose prolisso è
+
+42
+00:02:19,560 --> 00:02:22,200
+perché sa un sacco di cose, non come me, che ne sa
+
+43
+00:02:22,200 --> 00:02:25,800
+quattro e quindi, dopo un po' dieci minuti si ferma, non di
+
+44
+00:02:25,800 --> 00:02:26,120
+più.
+
+45
+00:02:26,120 --> 00:02:30,360
+Ma in ogni caso tornando a Bomba, tu sai cos'è Filippo?
+
+46
+00:02:30,360 --> 00:02:31,160
+Notion vero?
+
+47
+00:02:31,160 --> 00:02:34,840
+Ho un'idea vaga, ce l'ho ma mai aperta una volta.
+
+48
+00:02:35,080 --> 00:02:36,840
+L'applicazione, proprio, non ci sono mai.
+
+49
+00:02:36,840 --> 00:02:40,600
+Ho visto dei video se vuoi, ma non l'ho mai utilizzata in
+
+50
+00:02:40,600 --> 00:02:47,720
+maniera concreta, perché lo dico qui subito: diciamo, essendo tutto online, comunque
+
+51
+00:02:47,720 --> 00:02:52,520
+il sistema, per quello che devo fare io è abbastanza inutile.
+
+52
+00:02:52,520 --> 00:02:57,560
+O meglio, poi, probabilmente mentre guardavo qualche video, ho visto che casomai,
+
+53
+00:02:57,640 --> 00:03:02,040
+non so, quello che noi utilizziamo per la programmazione di A2 come
+
+54
+00:03:02,040 --> 00:03:06,440
+Toist, forse si potrebbe fare con una Canban, si potrebbe fare su
+
+55
+00:03:06,680 --> 00:03:10,840
+Notion, perché poi Notion, di fatto, da quello che ho capito almeno
+
+56
+00:03:10,840 --> 00:03:15,640
+io, è un programma dove non dico che fai anche la birra,
+
+57
+00:03:15,960 --> 00:03:18,840
+ma in pratica potresti farci un po' quello che vuoi.
+
+58
+00:03:18,840 --> 00:03:23,640
+Ed è il bello il brutto di questa applicazione.
+
+59
+00:03:23,640 --> 00:03:31,400
+Perché ovviamente presumo, abbia una curva di apprendimento un po' alta inizialmente,
+
+60
+00:03:31,560 --> 00:03:38,120
+anche solo capire cosa puoi fare e cosa vuoi farci dentro, dall'altra
+
+61
+00:03:38,280 --> 00:03:42,040
+so che, però, c'è tanta gente che l'apprezza, lo utilizza.
+
+62
+00:03:42,200 --> 00:03:44,840
+Ci sono vari youtuber che ne parlano
+
+63
+00:03:46,000 --> 00:03:51,360
+a Mambassa, tra virgolette, adesso ne parlerai anche tu, perché so che
+
+64
+00:03:52,000 --> 00:03:54,320
+alcuni spunti li hai presi da altri.
+
+65
+00:03:55,040 --> 00:04:00,320
+Sì, che ovviamente mi ero ripromesso di mettere tra le risorse i
+
+66
+00:04:00,320 --> 00:04:04,160
+profili Instagram e YouTube che seguo, ma purtroppo non ce l'ho fatta
+
+67
+00:04:04,160 --> 00:04:07,680
+e cercherò di inventare sul momento dicendo quali sono i primi che
+
+68
+00:04:07,680 --> 00:04:08,560
+mi vengono in mente.
+
+69
+00:04:08,560 --> 00:04:12,960
+Comunque, in ogni caso, io conosco noceano, ho fatto tutta una serie
+
+70
+00:04:12,960 --> 00:04:14,000
+di link, giusto?
+
+71
+00:04:14,960 --> 00:04:17,920
+Fammi vedere, fammi vedere nella parte link.
+
+72
+00:04:17,920 --> 00:04:21,520
+Io ho messo tutta una serie di guide scorciatoie.
+
+73
+00:04:22,320 --> 00:04:24,240
+Sì, ma tu sei troppo operativo!
+
+74
+00:04:24,240 --> 00:04:27,200
+Io lo sai che sono scappato di casa dei migliori.
+
+75
+00:04:27,200 --> 00:04:30,720
+Quindi bando alle ciance e adesso partiamo subito con Notion.
+
+76
+00:04:30,800 --> 00:04:35,440
+Ma io vedi, sorrevengo, nel senso che, ovviamente, la nostra mappa mentale
+
+77
+00:04:35,440 --> 00:04:39,920
+diventa poi la scaletta barra a note dell'episodio.
+
+78
+00:04:39,920 --> 00:04:41,680
+Quindi, io ho già così ho i link
+
+79
+00:04:42,960 --> 00:04:43,440
+già fatti,
+
+80
+00:04:44,560 --> 00:04:45,280
+adesso, vediamo
+
+81
+00:04:46,640 --> 00:04:48,960
+di metterci una pezzo in qualche modo.
+
+82
+00:04:48,960 --> 00:04:51,760
+Lo sai, improvviso, improvviso, non ti preoccupare.
+
+83
+00:04:51,760 --> 00:04:52,640
+Bravo, bravo, bravo.
+
+84
+00:04:53,440 --> 00:04:54,320
+Allora, vediamo un po'.
+
+85
+00:04:54,320 --> 00:05:01,840
+Questa simpatica app Notion che essenzialmente è un'app dedicata alla produttività, all'organizzazione
+
+86
+00:05:01,840 --> 00:05:05,520
+e via discorrendo, perché consente di fare un sacco di cose.
+
+87
+00:05:05,520 --> 00:05:11,040
+Difatti, uno dei primi livelli di conoscenza con Notion è appunto capire
+
+88
+00:05:11,040 --> 00:05:14,800
+cosa fa, ma soprattutto capire come lo fa, che è una cosa
+
+89
+00:05:14,800 --> 00:05:16,000
+un po' particolare.
+
+90
+00:05:16,000 --> 00:05:20,960
+Essendo una web app, adesso guardandolo con gli occhi distaccati, sembra veramente
+
+91
+00:05:20,960 --> 00:05:25,920
+di creare quasi un sito internet, addirittura di quello che si sta
+
+92
+00:05:25,920 --> 00:05:32,120
+facendo, perché ricorda molto il sistema di organizzazione di WordPress, adesso che
+
+93
+00:05:32,120 --> 00:05:36,040
+lo vedo un po' da lontano con gli occhi diversi, ma senza
+
+94
+00:05:36,040 --> 00:05:41,800
+farsi spaventare da un sistema di pubblicazione di contenuti, Notion permette di
+
+95
+00:05:41,880 --> 00:05:48,440
+appunto prendere delle nozioni, chiamiamolo così, lo traduciamo così, ma parliamo essenzialmente
+
+96
+00:05:48,520 --> 00:05:51,960
+in prima battuta di note, ovvero tutto quello che potete scrivere con
+
+97
+00:05:51,960 --> 00:05:53,400
+una tastiera essenzialmente.
+
+98
+00:05:53,400 --> 00:05:56,920
+Oppure anche mi pare di aver visto recentemente che si può anche
+
+99
+00:05:56,920 --> 00:05:57,560
+dettare.
+
+100
+00:05:57,560 --> 00:06:00,440
+Può fare una lista di compiti, una to do, una di quelle
+
+101
+00:06:00,440 --> 00:06:05,080
+famosissime, lunghissime liste che ci accompagnano nella nostra vita dei professionisti, delle
+
+102
+00:06:05,080 --> 00:06:08,760
+cose da fare nella giornata per oggi, domani, ieri, perché ovviamente c'è
+
+103
+00:06:08,760 --> 00:06:12,440
+qualcuno che ci chiede i lavori da fare per il giorno prima.
+
+104
+00:06:12,440 --> 00:06:17,640
+E consente anche, però, di avere delle pagine, chiamiamole così, di raccolta
+
+105
+00:06:17,640 --> 00:06:24,200
+delle vostre informazioni, chiamiamole una specie di Wikipedia della proprie vita dove
+
+106
+00:06:24,200 --> 00:06:30,200
+si possono inserire tutto quello che vi viene utile nella vostra vita
+
+107
+00:06:30,200 --> 00:06:31,560
+di tutti i giorni.
+
+108
+00:06:31,560 --> 00:06:35,080
+Oltre a fare quello, è anche un database, questa è la parte
+
+109
+00:06:35,080 --> 00:06:39,640
+più potente di Notion, secondo il mio punto di vista, perché ha
+
+110
+00:06:39,640 --> 00:06:44,360
+degli strumenti molto interessanti e anche di generazione di viste,
+
+111
+00:06:45,400 --> 00:06:50,200
+chiamiamole così, sui database che possono tornare davvero utili in molti frangenti.
+
+112
+00:06:50,200 --> 00:06:57,080
+Database essenzialmente non fatevi mettere paura da questa parola database, che sembra
+
+113
+00:06:57,080 --> 00:07:01,080
+una cosa di particolarmente difficile da gestire, soprattutto per chi non è
+
+114
+00:07:01,080 --> 00:07:05,560
+un informatico, ma nel caso di Notion essenzialmente è molto facile.
+
+115
+00:07:05,560 --> 00:07:10,680
+Molto facile perché chiamiamo database essenzialmente una tabella all'interno dei dati.
+
+116
+00:07:10,680 --> 00:07:13,720
+La fortuna è che la tabella la potete decidere voi e i
+
+117
+00:07:13,720 --> 00:07:17,920
+dati che volete inserire essenzialmente anche quelli li decidete voi.
+
+118
+00:07:17,920 --> 00:07:22,560
+Un'altra cosa interessante che si può fare con Notion ho visto in
+
+119
+00:07:22,560 --> 00:07:26,480
+giro per il mondo anche fare quasi dei siti web pubblici che
+
+120
+00:07:26,480 --> 00:07:32,880
+ovviamente rimangono, come diceva Filippo, all'interno di un ipotetico cloud.
+
+121
+00:07:32,880 --> 00:07:36,000
+Che in questo momento non ho ben preciso di dove sia, ma
+
+122
+00:07:36,000 --> 00:07:39,920
+in ogni caso, voi potete dare l'accesso pubblico a una pagina del
+
+123
+00:07:39,920 --> 00:07:44,240
+vostro Notion oppure anche condividerla con qualcuno in modo privato.
+
+124
+00:07:44,240 --> 00:07:48,000
+Per esempio, io potrei condividere una pagina in cui parliamo di A2
+
+125
+00:07:48,240 --> 00:07:53,680
+direttamente con Filippo e magari con Nicola invece che all'ascolto e che
+
+126
+00:07:53,680 --> 00:07:58,560
+saluto, possiamo condividere una pagina in cui parliamo di come risolvere alcuni
+
+127
+00:07:58,560 --> 00:08:01,120
+problemi sul Mac e via discorrendo.
+
+128
+00:08:01,120 --> 00:08:06,640
+Insomma, potrebbe essere utile e le funzioni che ci sono sono veramente
+
+129
+00:08:06,640 --> 00:08:10,160
+grandissime ed è quello che forse spaventa un po' tutti che voi
+
+130
+00:08:10,160 --> 00:08:16,880
+vi trovate questo strumento particolarmente potente, probabilmente anche non aiutato dall'interfaccia grafica
+
+131
+00:08:16,880 --> 00:08:21,600
+che spaventa anche un po' all'inizio, ma in ogni caso avete capito
+
+132
+00:08:21,600 --> 00:08:26,480
+che la lista è abbastanza eterogenea per riuscire a capire che di
+
+133
+00:08:26,480 --> 00:08:28,960
+cose se ne fanno e se ne fanno davvero parecchie.
+
+134
+00:08:29,120 --> 00:08:36,640
+Quanto riguarda invece l'organizzazione di Notion essenzialmente funziona, come vi dicevo all'inizio,
+
+135
+00:08:36,640 --> 00:08:42,080
+come quasi una pagina web fatta da pagine e sottopagine che vengono
+
+136
+00:08:42,080 --> 00:08:46,640
+organizzate inserendo all'interno dei contenuti di vostra scelta.
+
+137
+00:08:46,640 --> 00:08:52,320
+Voi trovate sulla sinistra, oltre alle varie, alla chiave di ricerca e
+
+138
+00:08:52,560 --> 00:08:58,400
+i propri setting, trovate essenzialmente le vostre pagine che sono indicate come
+
+139
+00:08:58,400 --> 00:08:59,280
+private.
+
+140
+00:08:59,280 --> 00:09:04,280
+Queste sono effettivamente delle pagine che voi potete modificare e inserire qualsiasi
+
+141
+00:09:04,280 --> 00:09:07,800
+cosa che vi viene in mente, perché praticamente il Notion permette di
+
+142
+00:09:07,800 --> 00:09:14,920
+inserire qualsiasi cosa perché veramente assomiglia tantissimo a una pagina web.
+
+143
+00:09:14,920 --> 00:09:19,240
+Quindi si parte nell'inserire del semplice testo che si può formattare in
+
+144
+00:09:19,240 --> 00:09:23,080
+qualsiasi modo, inserire delle altre pagine all'interno delle pagine.
+
+145
+00:09:23,080 --> 00:09:27,560
+Questo può essere utile, per esempio, nel caso in cui voi vogliate
+
+146
+00:09:27,560 --> 00:09:33,960
+organizzare un'area della vostra vita, mettiamola così, in altre pagine all'interno, perché
+
+147
+00:09:33,960 --> 00:09:38,440
+magari questa area ha delle altre categorie che vi interessa suddividere in
+
+148
+00:09:38,440 --> 00:09:39,400
+pagine.
+
+149
+00:09:39,400 --> 00:09:41,960
+Poi ci sono le classiche to do list.
+
+150
+00:09:41,960 --> 00:09:46,200
+Essenzialmente sono dei quadratini bianchi che voi potete spuntare e nel momento
+
+151
+00:09:46,360 --> 00:09:49,800
+in cui voi lo spuntate, questo gli tira una bella riga sopra
+
+152
+00:09:49,800 --> 00:09:54,280
+e gli fa cambiare il carattere da con una certa grandezza a
+
+153
+00:09:54,280 --> 00:09:55,880
+un carattere semitrasparente.
+
+154
+00:09:55,880 --> 00:10:00,280
+Quindi sembra veramente che sia barrato e quindi ha anche la capacità
+
+155
+00:10:00,280 --> 00:10:07,480
+di prendere del testo formattato in Markdown, però non è proprio pulitissimo
+
+156
+00:10:07,480 --> 00:10:09,160
+come editor Markdown.
+
+157
+00:10:09,160 --> 00:10:12,040
+Ma in ogni caso si può divertire un po'.
+
+158
+00:10:12,040 --> 00:10:16,280
+Tant'è che rimangono in lista delle cose che si possono inserire i
+
+159
+00:10:16,280 --> 00:10:19,800
+titoli, il titolo 1, 2, 3, ovviamente.
+
+160
+00:10:19,960 --> 00:10:22,760
+Poi si possono inserire delle tabelle.
+
+161
+00:10:22,760 --> 00:10:26,280
+Che tabelle che sono il cuore per chi vuole fare un uso
+
+162
+00:10:26,280 --> 00:10:27,720
+avanzato di notion.
+
+163
+00:10:27,720 --> 00:10:32,440
+Perché con queste tabelle essenzialmente trasformate una tabella in un database interrogabile.
+
+164
+00:10:32,680 --> 00:10:37,080
+Di questo database potete ottenere anche delle viste di cui parleremo magari
+
+165
+00:10:37,080 --> 00:10:37,880
+più avanti.
+
+166
+00:10:37,880 --> 00:10:42,520
+Poi ci sono i bullet list, famosi bugio, che piacciono tanto a
+
+167
+00:10:42,520 --> 00:10:44,920
+Filippo perché le deve editare, ma io che ne continuo a parlare
+
+168
+00:10:45,200 --> 00:10:46,080
+avanti e indietro.
+
+169
+00:10:44,920 --> 00:10:49,920
+Comunque sono delle liste con il puntino di fianco interessante.
+
+170
+00:10:50,160 --> 00:10:54,960
+E poi ci sono le classiche numbered list, ovvero quelle liste con
+
+171
+00:10:54,960 --> 00:10:58,400
+i numeri di fianco in ordine progressivo.
+
+172
+00:10:58,400 --> 00:11:03,360
+Un'altra cosa molto interessante che può tornare utile, ovviamente nel momento in
+
+173
+00:11:03,360 --> 00:11:07,200
+cui fate un utilizzo avanzato, sono le toggle list.
+
+174
+00:11:07,200 --> 00:11:12,080
+Che essenzialmente è lista che si nasconde e si richiama con una
+
+175
+00:11:12,080 --> 00:11:13,120
+freccetta.
+
+176
+00:11:13,760 --> 00:11:18,480
+All'interno di questa freccetta essenzialmente si apre una specie di sottopagina in
+
+177
+00:11:18,480 --> 00:11:22,800
+cui potete inserire tutto quello che praticamente vi ho detto in precedenza.
+
+178
+00:11:22,800 --> 00:11:26,320
+Oltre a queste cose ci sono delle cose che possono tornarvi utili.
+
+179
+00:11:26,320 --> 00:11:32,960
+Ad esempio, se vi piace annotare delle frasi celebri, chiamiamole così, delle
+
+180
+00:11:32,960 --> 00:11:36,800
+frasi motivazionali, o via discorrendo, oppure delle cose che vi volete ricordare,
+
+181
+00:11:36,800 --> 00:11:40,880
+frasi dette da qualcuno, c'è anche la funzione di quotatura
+
+182
+00:11:42,000 --> 00:11:45,920
+per catturare delle frasi, delle citazioni, esatto, bravo.
+
+183
+00:11:46,160 --> 00:11:51,680
+E poi altri strumenti interessanti che possono aiutare a dare una formatazione
+
+184
+00:11:51,680 --> 00:11:56,640
+alla vostra pagina per renderla anche più accattivante alla vostra lista se
+
+185
+00:11:56,640 --> 00:12:00,640
+la utilizzate tutti i giorni, che per esempio il divisorio, che è
+
+186
+00:12:00,640 --> 00:12:05,360
+molto semplice: una linea orizzontale che può prendere tutta la pagina, ma
+
+187
+00:12:05,360 --> 00:12:09,520
+può anche essere verticale nel caso in cui abbiate bisogno di suddividere
+
+188
+00:12:09,520 --> 00:12:11,440
+la pagina in più colonne.
+
+189
+00:12:11,440 --> 00:12:15,360
+Poi c'è un'altra interessante cosa: il link alle pagine.
+
+190
+00:12:15,360 --> 00:12:19,200
+Perché voi potete prendere dei link delle pagine web e inserirle.
+
+191
+00:12:19,200 --> 00:12:24,240
+L'inserimento della pagina è qualcosa di altrettanto interessante perché si trasforma in
+
+192
+00:12:24,240 --> 00:12:27,920
+effetti in un aggregatore di web, diciamo, interno.
+
+193
+00:12:27,920 --> 00:12:29,840
+Perché voi potete inserire questi link direttamente
+
+194
+00:12:30,920 --> 00:12:36,200
+come del testo semplice che ovviamente si può cliccare per farvi aprire
+
+195
+00:12:36,200 --> 00:12:41,080
+la pagina oppure si può vederlo come una specie di bookmark.
+
+196
+00:12:41,080 --> 00:12:45,400
+Quindi avete un'anteprima di quello che è la pagina in quel momento.
+
+197
+00:12:45,640 --> 00:12:49,880
+O in alternativa avete in effetti la pagina vera e propria che
+
+198
+00:12:49,880 --> 00:12:54,360
+viene caricata ogni volta che voi andate all'interno dello spazio in cui
+
+199
+00:12:54,360 --> 00:12:56,360
+è salvato questo link.
+
+200
+00:12:56,360 --> 00:13:00,920
+Altre cose interessanti che io non utilizzo perché uso il piano a
+
+201
+00:13:00,920 --> 00:13:05,320
+pagamento di cui io utilizzo il piano a gratuito e ci sono
+
+202
+00:13:05,320 --> 00:13:06,760
+dei limiti di spazio.
+
+203
+00:13:07,000 --> 00:13:12,440
+In questo caso potrebbe venirvi utile nel vostro caso, che l'utilizzate con
+
+204
+00:13:12,600 --> 00:13:17,320
+diciamo degli oggetti un po' più corposi, che possono essere le immagini,
+
+205
+00:13:17,320 --> 00:13:21,240
+ad esempio, anche dei video, dei audio o via discorrendo anche dei
+
+206
+00:13:21,240 --> 00:13:21,640
+file.
+
+207
+00:13:21,640 --> 00:13:26,520
+Potete iniziare a salvare, ma ovviamente questa è una gestione che purtroppo
+
+208
+00:13:26,520 --> 00:13:31,640
+vi chiede anche l'integrazione del pagamento se superate certi limiti.
+
+209
+00:13:31,640 --> 00:13:34,040
+Ma anche di questo lo vedremo più avanti.
+
+210
+00:13:34,040 --> 00:13:38,520
+La cosa interessante di Notion che io non ho apprezzato subito perché
+
+211
+00:13:39,000 --> 00:13:43,640
+poi vi spiegherò come ho avuto l'approccio: è che ci sono una
+
+212
+00:13:43,800 --> 00:13:48,840
+serie di template che sono davvero utili per riuscire a capire come
+
+213
+00:13:48,840 --> 00:13:53,320
+funziona e intanto a barcamenarvi con Notion.
+
+214
+00:13:53,320 --> 00:13:57,800
+Questa applicazione che è particolarmente potente, ma bisogna avere un po' di
+
+215
+00:13:57,800 --> 00:14:01,320
+pazienza per uscire a manipolare come si vuole, ma più che altro
+
+216
+00:14:01,480 --> 00:14:04,040
+a renderlo utile al proprio workflow.
+
+217
+00:14:04,040 --> 00:14:07,880
+Dunque, ci sono una serie di modelli che potete trovare direttamente sul
+
+218
+00:14:07,880 --> 00:14:12,680
+sito di Notion che vi consiglio di andare a guardarvi perché sono
+
+219
+00:14:12,680 --> 00:14:14,120
+particolarmente interessanti.
+
+220
+00:14:14,120 --> 00:14:17,600
+Ma se avete già l'applicazione aperta, voi av
+
+221
+00:14:14,680 --> 00:14:19,840
+ete una serie di template che potete
+
+222
+00:14:20,000 --> 00:14:24,640
+trovare direttamente nella colonna di sinistra sotto Notion Templates.
+
+223
+00:14:24,960 --> 00:14:30,160
+Dargli una bella occhiata e vedrete che c'è soltanto da svizzarrirvi.
+
+224
+00:14:30,160 --> 00:14:36,880
+Qualcosa lo troverete sicuramente perché può essere direttamente utilizzato all'interno del vostro
+
+225
+00:14:36,880 --> 00:14:41,840
+spazio privato facendovi una copia e quindi modificandola alle vostre esigenze, ma
+
+226
+00:14:41,840 --> 00:14:46,960
+soprattutto vi verrà utile a fare il vostro modello come anch'io ho
+
+227
+00:14:46,960 --> 00:14:50,400
+fatto per quanto riguarda il mio modello di utilizzo all'interno del mio
+
+228
+00:14:50,400 --> 00:14:51,840
+workflow da architetto.
+
+229
+00:14:51,840 --> 00:14:55,600
+Ce ne sono anche esterni, nel senso che ci sono, come diceva
+
+230
+00:14:55,600 --> 00:14:59,440
+Filippo, un sacco di creatori che potete trovare sia su YouTube ma
+
+231
+00:14:59,440 --> 00:15:05,760
+anche su Instagram con i rispettivi pagine in cui pubblicizzano le loro
+
+232
+00:15:06,800 --> 00:15:07,440
+creazioni.
+
+233
+00:15:07,440 --> 00:15:09,920
+Perché alla fine si trattano di creazioni, c'è qualcuno che si è
+
+234
+00:15:09,920 --> 00:15:15,600
+veramente sbizzarrito, ha fatto delle composizioni creative contanto di una palette di
+
+235
+00:15:15,600 --> 00:15:20,960
+colori ben definiti e c'è anche lì soltanto da guardare e capire
+
+236
+00:15:21,520 --> 00:15:23,760
+qual è quello che fa per voi.
+
+237
+00:15:23,760 --> 00:15:28,720
+Andando invece a vedere quali sono i piani, c'è un piano gratuito,
+
+238
+00:15:28,720 --> 00:15:33,360
+come vi dicevo precedentemente, che è individuale, che io utilizzo tutti i
+
+239
+00:15:33,360 --> 00:15:36,080
+giorni e per ora non ho avuto nessun tipo di problema.
+
+240
+00:15:36,400 --> 00:15:38,160
+Ci sono i blocchi illimitati.
+
+241
+00:15:38,160 --> 00:15:41,760
+I blocchi sono essenzialmente le cose che andate a scrivere o le
+
+242
+00:15:41,760 --> 00:15:44,160
+pagine che andate a fare.
+
+243
+00:15:44,400 --> 00:15:47,840
+Ci sono degli spazi collaborativi, tant'è che io sono riuscito anche a
+
+244
+00:15:47,840 --> 00:15:52,000
+condividere delle pagine con altri collaboratori che non erano iscritti a Notion,
+
+245
+00:15:52,000 --> 00:15:55,440
+ma hanno potuto vederlo tramite essenzialmente una pagina web.
+
+246
+00:15:55,760 --> 00:16:01,160
+Ci sono una serie di integrazioni con Slack, GitHub e tanto tanto
+
+247
+00:16:01,160 --> 00:16:04,280
+altro ancora, ne aggiungono sempre di nuovo tutti i giorni.
+
+248
+00:16:04,280 --> 00:16:09,080
+Io per ora non ho mai utilizzato queste integrazioni, ma immagino che
+
+249
+00:16:09,080 --> 00:16:13,960
+all'interno di uno spazio collaborativo con più persone, ad esempio, con Slack
+
+250
+00:16:13,960 --> 00:16:19,080
+potrebbe diventare davvero utile all'interno di gruppi di lavoro che sono concentrati
+
+251
+00:16:19,400 --> 00:16:23,000
+e utilizzano questo tipo di applicazioni.
+
+252
+00:16:23,800 --> 00:16:27,480
+Un'altra parte che può essere utile o non utile sono i sette
+
+253
+00:16:27,480 --> 00:16:31,080
+giorni di cronologia della pagina, ovvero che voi potete tornare nel mio
+
+254
+00:16:31,080 --> 00:16:33,400
+caso a sette giorni fa.
+
+255
+00:16:33,400 --> 00:16:36,040
+Se io ho fatto una modifica che non volevo, posso tornare indietro
+
+256
+00:16:36,040 --> 00:16:37,080
+di sette giorni.
+
+257
+00:16:37,080 --> 00:16:39,240
+Per ora non l'ho ancora mai utilizzata.
+
+258
+00:16:39,240 --> 00:16:43,640
+Questa capacità perché tutto sommato, in qualche modo, si riesce a recuperare
+
+259
+00:16:43,640 --> 00:16:48,840
+facilmente quello che viene fatto, semplicemente con utilizzando un CTRL Z o
+
+260
+00:16:48,840 --> 00:16:52,520
+un Rido, oppure il recupero non l'ho mai utilizzato.
+
+261
+00:16:52,520 --> 00:16:56,840
+Spero che funzioni e soprattutto spero che non sia una procedura particolarmente
+
+262
+00:16:56,840 --> 00:16:59,800
+complicata, ma ipotizzo di no, vedendo un po' come la pensano a
+
+263
+00:16:59,800 --> 00:17:02,120
+noi, dovrebbe essere una cosa molto semplice.
+
+264
+00:17:02,360 --> 00:17:06,520
+Come vi dicevo, c'è anche la possibilità di inviare 10 ospiti sulle
+
+265
+00:17:06,520 --> 00:17:07,480
+proprie pagine.
+
+266
+00:17:07,480 --> 00:17:10,360
+Io ne ho usato uno o due, quindi non è un grosso
+
+267
+00:17:10,360 --> 00:17:11,000
+problema.
+
+268
+00:17:11,240 --> 00:17:15,400
+Ho visto che funziona perché volevo vedere cosa vedevano gli altri ospiti
+
+269
+00:17:15,640 --> 00:17:19,560
+ed è molto interessante un sistema di collaborazione che può tornare utili
+
+270
+00:17:19,560 --> 00:17:21,080
+in molti frangenti.
+
+271
+00:17:21,080 --> 00:17:26,440
+Invece, se volete passare al piano pagamento Plus, essenzialmente si tratta di
+
+272
+00:17:26,440 --> 00:17:34,520
+8 dollari a utente al mese se avete, diciamo, l'abbonamento annuo, oppure
+
+273
+00:17:34,520 --> 00:17:38,600
+10 dollari per utente al mese se avete l'abbonamento mensile.
+
+274
+00:17:38,600 --> 00:17:41,000
+Cosa vi dà questo simpatico abbonamento?
+
+275
+00:17:41,000 --> 00:17:47,040
+Tanti blocchi limitati per tutti i gruppi, il famoso upload di file
+
+276
+00:17:47,040 --> 00:17:51,840
+illimitati, 30 giorni di cronologia delle pagine e un invito per 100
+
+277
+00:17:51,840 --> 00:17:52,480
+ospiti.
+
+278
+00:17:52,480 --> 00:17:56,640
+Quindi capite che diventa davvero corposo, potete arrivare a 100 ospiti e
+
+279
+00:17:56,640 --> 00:17:58,480
+insomma, non è mica poco.
+
+280
+00:17:58,800 --> 00:18:02,160
+Infine c'è l'ultimo piano che è il piano business che parte da
+
+281
+00:18:02,160 --> 00:18:06,720
+15 dollari utente al mese con abbonamento annuo, oppure a 18 dollari
+
+282
+00:18:06,720 --> 00:18:10,640
+utente mese per il piano se pagate messilmente.
+
+283
+00:18:10,640 --> 00:18:14,960
+Vi trovate tutto quello che avete sul Plus in più degli spazi
+
+284
+00:18:14,960 --> 00:18:20,720
+privati condivisi, 90 giorni di cronologia delle pagine, un invito fino a
+
+285
+00:18:20,720 --> 00:18:25,280
+250 ospiti, e la possibilità di esportazione in formato PDF.
+
+286
+00:18:25,280 --> 00:18:30,560
+Allora mentre tu parlavi, per curiosità, sono andato a vedere perché effettivamente
+
+287
+00:18:30,560 --> 00:18:34,000
+sul discorso dei modelli ero curioso.
+
+288
+00:18:34,320 --> 00:18:37,520
+Adesso poi li inserirò eventualmente le note dell'episodio.
+
+289
+00:18:37,520 --> 00:18:40,800
+Ma comunque ho scoperto che, per esempio, ci sono
+
+290
+00:18:42,320 --> 00:18:48,720
+facendo una ricerca velocissima, quindi, senza nessuna pretesa, diciamo di fare cose
+
+291
+00:18:48,720 --> 00:18:54,320
+particolari e approfondite, ci sono un sacco di esempio, temi o template
+
+292
+00:18:54,560 --> 00:18:55,920
+per gli avvocati.
+
+293
+00:18:56,240 --> 00:18:57,840
+Quindi, effettivamente
+
+294
+00:18:59,120 --> 00:19:02,480
+probabilmente basta solo andare a cercare adesso.
+
+295
+00:19:02,560 --> 00:19:10,320
+Prescindere dalle nostre specifiche professioni, è probabile che vista anche effettivamente la
+
+296
+00:19:10,320 --> 00:19:15,680
+quantità di soggetti che utilizzano notion, ovviamente, più nel mondo anglofono, perché
+
+297
+00:19:15,680 --> 00:19:19,760
+adesso non so se l'hai detto, ma a me sembra che Notion,
+
+298
+00:19:19,920 --> 00:19:23,480
+a quantomeno, le pagine principali non sono tratte in italiano.
+
+299
+00:19:23,280 --> 00:19:23,960
+No, no, è
+
+300
+00:19:25,760 --> 00:19:29,920
+tutto in inglese, quindi, comunque è un problema, tra virgolette, un'ulteriore barriera
+
+301
+00:19:30,280 --> 00:19:35,400
+d'ingresso è che se non conosci la lingua inglese, utilizzare questo programma
+
+302
+00:19:29,920 --> 00:19:37,320
+diventa più complicato.
+
+303
+00:19:37,800 --> 00:19:42,680
+Infatti, devo dire la verità: io ho cercato dei template in lingua
+
+304
+00:19:42,680 --> 00:19:43,160
+inglese.
+
+305
+00:19:43,160 --> 00:19:49,720
+Quindi ho cercato template notion template for lawyer per intenderci, non sono
+
+306
+00:19:49,720 --> 00:19:56,280
+andato invece a cercare qualcosa, notion modelli per avvocati, per esempio.
+
+307
+00:19:56,280 --> 00:20:01,640
+Per cui ci sono anche da tenere presente questa particolare situazione dove
+
+308
+00:20:01,880 --> 00:20:06,760
+effettivamente di materiale ce n'è veramente tanto nel mondo anglofono, come al
+
+309
+00:20:06,760 --> 00:20:13,320
+solito, ma probabilmente in altre realtà il tutto è meno è meno
+
+310
+00:20:13,320 --> 00:20:14,200
+presente,
+
+311
+00:20:15,480 --> 00:20:16,680
+è meno chiaro.
+
+312
+00:20:16,680 --> 00:20:21,560
+Quindi comunque un'ulteriore barriera d'ingresso è questo per chi conosce almeno in
+
+313
+00:20:21,560 --> 00:20:24,920
+minima parte l'inglese, ma credo anche forse un po' di più perché
+
+314
+00:20:25,240 --> 00:20:29,880
+dovendo comunque interagire con Menum e tutto il resto, poi effettivamente sia
+
+315
+00:20:29,880 --> 00:20:35,960
+io che te siamo abbastanza siamo abbastanza tranquilli nella lettura in inglese,
+
+316
+00:20:35,960 --> 00:20:38,920
+quindi poi non abbiamo grossi vincoli.
+
+317
+00:20:38,920 --> 00:20:43,000
+Tuttavia, per chi ci sta ascoltando, casomai che non conosce l'inglese o
+
+318
+00:20:43,000 --> 00:20:50,760
+comunque una conoscenza dell'inglese scolastica e così via, può essere un'ulteriore fonte
+
+319
+00:20:50,760 --> 00:20:52,920
+di chiamamolo in questi termini attrito.
+
+320
+00:20:53,400 --> 00:20:58,280
+Bella osservazione questa, per esempio, quando l'ho usata io non avevo fatto
+
+321
+00:20:58,280 --> 00:21:02,520
+una ricerca dei template per architetti, lo lascio fare a te se
+
+322
+00:21:02,520 --> 00:21:05,960
+vuoi, più che altro perché se lo faccio io, so già che
+
+323
+00:21:05,960 --> 00:21:07,560
+mi blocca tutto il collegamento.
+
+324
+00:21:07,560 --> 00:21:09,160
+Quindi te lo lascio fare.
+
+325
+00:21:10,360 --> 00:21:13,400
+E visto che parliamo del primo approccio che ho avuto con Notion,
+
+326
+00:21:13,480 --> 00:21:15,440
+vi racconto com'è andata essenzialmente.
+
+327
+00:21:15,440 --> 00:21:18,560
+Non mi ricordo più quanto tempo fa, penso vado a memoria, sarà
+
+328
+00:21:14,920 --> 00:21:19,680
+due o tre anni fa.
+
+329
+00:21:20,160 --> 00:21:24,400
+Era uscita questa applicazione quindi se ne incominciava a parlare e, ovviamente,
+
+330
+00:21:24,400 --> 00:21:28,320
+io, essendo molto curioso, soprattutto sulle applicazioni, ho preso e ho provato
+
+331
+00:21:28,320 --> 00:21:31,120
+a installarla sul mio cellulare.
+
+332
+00:21:31,120 --> 00:21:36,160
+L'ho installata, l'ho aperta, l'ho guardata, mi è venuto praticamente una sincope
+
+333
+00:21:36,480 --> 00:21:39,840
+nel momento in cui ho capito tutte le cose che poteva fare
+
+334
+00:21:40,480 --> 00:21:43,760
+e sono scappato a gambe levate.
+
+335
+00:21:44,080 --> 00:21:48,480
+Disinstallata, chiuso, non ho voluto più sentire parlare almeno per un anno,
+
+336
+00:21:48,480 --> 00:21:50,400
+un anno e mezzo circa.
+
+337
+00:21:50,400 --> 00:21:55,840
+Il secondo incontro con Noche è derivato appunto da un personaggio che
+
+338
+00:21:55,840 --> 00:22:00,160
+fa il mio stesso mestiere, un architetto, che ovviamente è decisamente più
+
+339
+00:22:00,160 --> 00:22:03,760
+sul pezzo di me, soprattutto dal punto di vista della presenza su
+
+340
+00:22:03,760 --> 00:22:04,240
+internet.
+
+341
+00:22:04,240 --> 00:22:10,960
+Parlo di Eric Reynolds di 30 by 40 Workshop, di cui troverete
+
+342
+00:22:10,960 --> 00:22:13,440
+ovviamente il link all'interno delle note dell'episodio.
+
+343
+00:22:13,440 --> 00:22:20,960
+L'ho appena aggiunto, uno, due, tre, quattro il quarto link, diciamo, da
+
+344
+00:22:20,960 --> 00:22:27,120
+una ricerca su DuchDuck con per architetti, diciamo, come template per architetti,
+
+345
+00:22:27,440 --> 00:22:28,800
+direi che abbastanza
+
+346
+00:22:30,080 --> 00:22:30,880
+è un capo.
+
+347
+00:22:30,880 --> 00:22:34,640
+Lui è un capo, è praticamente quello che vorrei tendere io, ma
+
+348
+00:22:34,640 --> 00:22:36,480
+non riuscirò mai ad arrivare sul livello.
+
+349
+00:22:36,480 --> 00:22:40,640
+In ogni caso, andatelo a vedere perché se siete architetti, sicuramente vi
+
+350
+00:22:40,640 --> 00:22:41,360
+piacerà.
+
+351
+00:22:41,360 --> 00:22:45,840
+Se siete amanti della fotografia e dei video, vi piacerà lo stesso,
+
+352
+00:22:45,840 --> 00:22:49,760
+perché ha veramente uno stile molto particolare, molto curato, e vi consiglio
+
+353
+00:22:49,760 --> 00:22:50,720
+di andarlo a vedere.
+
+354
+00:22:50,720 --> 00:22:55,680
+In ogni caso, ho avuto la bella idea di fare un template
+
+355
+00:22:55,760 --> 00:22:57,600
+appunto per gli architetti.
+
+356
+00:22:57,600 --> 00:23:01,000
+Allora, visto che l'ha fatto lui, mi sono sentito un po' più
+
+357
+00:22:59,920 --> 00:23:04,200
+a casa, diciamo nel senso che so che lavora molto bene.
+
+358
+00:23:04,440 --> 00:23:10,440
+E quindi ho deciso di riaprire Notion grazie all'utilizzo di questo template
+
+359
+00:23:10,760 --> 00:23:15,560
+di Eric che ho preso e copiato alla grande, è ancora disponibile
+
+360
+00:23:15,560 --> 00:23:17,640
+gratuitamente senza problemi.
+
+361
+00:23:17,880 --> 00:23:23,080
+Per gli architetti ve lo consiglio di guardarvelo, soprattutto perché è molto
+
+362
+00:23:23,560 --> 00:23:26,520
+verticale sotto questo punto di vista per il lavoro.
+
+363
+00:23:26,520 --> 00:23:32,520
+Ma in senso generale, ve lo consiglio di guardarlo anche se non
+
+364
+00:23:32,520 --> 00:23:38,040
+siete architetti della parte ovviamente di gestione della propria vita e della
+
+365
+00:23:38,040 --> 00:23:39,000
+settimana.
+
+366
+00:23:39,000 --> 00:23:42,760
+E di fatti, da lì io sono partito, mi sono preso il
+
+367
+00:23:42,760 --> 00:23:45,560
+mio simpatico template di Eric.
+
+368
+00:23:45,560 --> 00:23:49,240
+Ne ho fatto un'ulteriore copia perché il suo è in tonso, lo
+
+369
+00:23:49,240 --> 00:23:53,960
+tengo lì come Bibbia da seguire nel caso in cui di ripensamenti
+
+370
+00:23:53,960 --> 00:23:59,240
+o dubbi e soprattutto di capire come è stato impostato, quindi ne
+
+371
+00:23:59,240 --> 00:24:01,320
+ho fatto un'altra copia.
+
+372
+00:24:01,320 --> 00:24:04,920
+La mia copia è stata poi elaborata più e più volte guardando
+
+373
+00:24:04,920 --> 00:24:10,120
+appunto tutti i vari, chiamiamoli così, interventi che ho visto su YouTube
+
+374
+00:24:10,360 --> 00:24:15,560
+e su Instagram principalmente e l'ho ulteriormente modificato.
+
+375
+00:24:15,560 --> 00:24:22,280
+Ma partiamo dall'inizio: l'inizio per me è la pagina principale che si
+
+376
+00:24:22,280 --> 00:24:28,200
+chiama Week Roadmap prosaicamente chiamato anche in inglese per tirarla anche un
+
+377
+00:24:28,200 --> 00:24:29,640
+po' di più.
+
+378
+00:24:29,640 --> 00:24:33,080
+Praticamente parte essenzialmente dalla gestione settimanale.
+
+379
+00:24:33,080 --> 00:24:38,840
+Gestione settimanale e non mensile oppure annuale.
+
+380
+00:24:39,080 --> 00:24:43,720
+Dunque, così ho questa partenza che è quella di Eric, che è
+
+381
+00:24:43,720 --> 00:24:48,240
+quella di suddividere appunto la settimana con cinque colonne: dal lunedì al
+
+382
+00:24:48,240 --> 00:24:49,920
+venerdì, ovviamente.
+
+383
+00:24:50,160 --> 00:24:56,000
+La cosa interessante di questa suddivisione è che il buon Eric ha
+
+384
+00:24:56,000 --> 00:25:00,320
+un metodo di lavoro che io sposo a tutti gli effetti, soprattutto
+
+385
+00:25:00,320 --> 00:25:03,760
+recentemente perché ho visto un altro suo video dove lo spiegava ancora
+
+386
+00:25:04,000 --> 00:25:07,200
+meglio, che è stata una cosa interessantissima.
+
+387
+00:25:07,200 --> 00:25:10,800
+Che all'inizio, quando ho aperto questo template, non avevo capito subito al
+
+388
+00:25:10,800 --> 00:25:17,040
+volo, ovvero erano due scritte che comparivano in tutti i giorni, che
+
+389
+00:25:17,040 --> 00:25:20,880
+era la prima era creare, la seconda era gestire.
+
+390
+00:25:20,880 --> 00:25:24,080
+Io l'ho guardato la prima volta ho detto: Vabbè, non so cosa
+
+391
+00:25:24,080 --> 00:25:25,680
+voglio dire, ho preso e lo cancellate.
+
+392
+00:25:25,680 --> 00:25:28,160
+Queste due scritte, essendo del testo è molto semplice.
+
+393
+00:25:28,160 --> 00:25:32,320
+Poi alla fine ho capito e arriverò al dunque di capire qual
+
+394
+00:25:32,320 --> 00:25:34,240
+è questa suddivisione.
+
+395
+00:25:34,800 --> 00:25:40,560
+Questa suddivisione in cinque giorni mi viene molto comodo perché all'interno di
+
+396
+00:25:40,560 --> 00:25:44,240
+questa suddivisione le uso effettivamente come un bullet journal.
+
+397
+00:25:44,240 --> 00:25:49,360
+Quindi metto i to-do con la pratica funzione che permette notion.
+
+398
+00:25:49,360 --> 00:25:54,240
+Io adesso vi parlo direttamente dalla scocciatore di tastiera che ho sul
+
+399
+00:25:54,240 --> 00:25:57,920
+Mac perché è molto facile, da lì riuscite a fare le cose
+
+400
+00:25:57,920 --> 00:25:58,800
+molto velocemente.
+
+401
+00:25:58,800 --> 00:26:03,760
+Rispetto alla versione per iPad, ad iPhone, che c'è qualcosa da migliorare,
+
+402
+00:26:03,760 --> 00:26:08,560
+ma ne parleremo quando andremo a guardare la situazione per quanto riguarda
+
+403
+00:26:08,560 --> 00:26:09,840
+i dispositivi mobile.
+
+404
+00:26:09,840 --> 00:26:14,720
+Tornando invece al Mac, è molto semplice inserire un to-do perché voi
+
+405
+00:26:14,720 --> 00:26:18,400
+basta che inserite un simbolo che è quello sopra al set, che
+
+406
+00:26:18,400 --> 00:26:22,160
+dovrebbe essere lo slash che pende verso destra per intenderci.
+
+407
+00:26:22,800 --> 00:26:23,680
+Perché quello
+
+408
+00:26:24,960 --> 00:26:28,800
+esatto, vi permette di aprire il menu che è quello che vi
+
+409
+00:26:28,800 --> 00:26:36,600
+ho praticamente elencato prima all'inizio della prefazione di notion, quindi cosa faccio?
+
+410
+00:26:36,600 --> 00:26:40,520
+Digito questo carattere, mi apre il menu e vado a prendere il
+
+411
+00:26:40,520 --> 00:26:44,520
+to-do e lo inserisco direttamente in modo tale che io possa iniziare
+
+412
+00:26:44,520 --> 00:26:45,080
+a scrivere.
+
+413
+00:26:45,080 --> 00:26:48,600
+C'è un altro metodo che è quello di mettere essenzialmente una parentesi
+
+414
+00:26:48,600 --> 00:26:53,720
+quadra aperta e una parentesi quadra chiusa e vi trasformo direttamente i
+
+415
+00:26:53,720 --> 00:26:57,960
+due simboli in un quadrato, in modo tale che potete iniziare a
+
+416
+00:26:57,960 --> 00:26:58,920
+digitare.
+
+417
+00:26:58,920 --> 00:27:00,040
+Quindi, cosa faccio?
+
+418
+00:27:00,040 --> 00:27:02,520
+Nella sostanza è come il Markdown,
+
+419
+00:27:03,800 --> 00:27:09,320
+per creare, diciamo un to-do, basta avere le due parentesi quadra e
+
+420
+00:27:09,320 --> 00:27:16,280
+poi dopo andare avanti, e quindi dopo ti converte, chiamiamolo così, in
+
+421
+00:27:16,280 --> 00:27:17,320
+HTML.
+
+422
+00:27:17,320 --> 00:27:21,240
+Immagino, infatti, è la parte che non mi piace molto di Notion.
+
+423
+00:27:21,400 --> 00:27:29,240
+Questa conversione praticamente automatica, che dà, diciamo, prendetelo, tra virgolette, purista del
+
+424
+00:27:29,240 --> 00:27:33,960
+markdown, a me piace vederlo scritto il markdown e poi vederlo come
+
+425
+00:27:33,960 --> 00:27:34,680
+viene.
+
+426
+00:27:34,680 --> 00:27:36,360
+Quindi, avere due finestre separate.
+
+427
+00:27:36,360 --> 00:27:41,160
+Invece, avenderlo così trasformato direttamente, non è molto pulito e non mi
+
+428
+00:27:41,160 --> 00:27:44,120
+piace tantissimo, ma quella è una mia idea.
+
+429
+00:27:44,120 --> 00:27:46,120
+E magari a voi piace, provatelo.
+
+430
+00:27:46,120 --> 00:27:50,680
+Se ti può consolare da quel che mi stai raccontando, vedo che,
+
+431
+00:27:50,680 --> 00:27:58,200
+per esempio, Notion su certi fronti, ha molte similitudini con Todoist, almeno
+
+432
+00:27:58,200 --> 00:28:00,520
+nella parte organizzativa, in questi termini.
+
+433
+00:28:00,520 --> 00:28:05,640
+Adesso, per esempio, prima Todoist gestiva il Markdown, diciamo, nudo e crudo
+
+434
+00:28:05,720 --> 00:28:08,280
+e poi te lo renderizzava, chiamiamolo così.
+
+435
+00:28:08,600 --> 00:28:12,360
+Invece, recentemente ho visto che ti fa in pratica già i Link
+
+436
+00:28:12,520 --> 00:28:17,200
+e quindi molto più legata al web, probabilmente diventa più comodo nel
+
+437
+00:28:17,200 --> 00:28:24,240
+back-end loro, perché comunque sono tutte pagine HTML e quindi lievita la
+
+438
+00:28:24,240 --> 00:28:29,840
+conversione a destra, manca da markdown a HTML che poi il risultato
+
+439
+00:28:29,840 --> 00:28:31,440
+probabilmente finale della vicenda.
+
+440
+00:28:31,440 --> 00:28:35,040
+Eh sì, alla fine sì, come dicevi tu all'inizio, si tratta essenzialmente
+
+441
+00:28:35,040 --> 00:28:38,720
+di una web app che funziona nel cloud, in rete e quindi
+
+442
+00:28:38,720 --> 00:28:40,160
+a quello si appoggia.
+
+443
+00:28:40,160 --> 00:28:44,000
+Ma in ogni caso, tornando all'utilizzo che ne faccio e che può
+
+444
+00:28:44,000 --> 00:28:46,160
+tornarvi utile come falsa riga.
+
+445
+00:28:46,160 --> 00:28:51,360
+Io quindi inserisco tutti i tu-do che ho nella giornata e poi
+
+446
+00:28:51,360 --> 00:28:56,240
+inserisco anche gli appuntamenti che uso appunto il pallino, quello
+
+447
+00:28:57,360 --> 00:29:00,480
+essenzialmente della lista con i pallini.
+
+448
+00:29:00,960 --> 00:29:04,480
+Questa è una suddivisione che mi sono fatto io per capire un
+
+449
+00:29:04,480 --> 00:29:10,480
+po' visivamente se ci sono degli appuntamenti in giornata che comunque non
+
+450
+00:29:10,480 --> 00:29:15,440
+li gestisco all'interno di Notion, ma gestisco con calendario.
+
+451
+00:29:15,440 --> 00:29:16,640
+Questa è una particolarità.
+
+452
+00:29:16,640 --> 00:29:20,720
+C'è anche una funzione di gestione del calendario all'interno di Notion, c'è
+
+453
+00:29:20,720 --> 00:29:25,840
+anche una gestione dei reminder, ma io non sono mai particolarmente addentrato
+
+454
+00:29:25,840 --> 00:29:30,080
+in questa parte perché preferisco utilizzare gli strumenti che conosco già e
+
+455
+00:29:30,080 --> 00:29:34,880
+di cui ho un'assoluta sicurezza, anche perché il calendario, nel mio caso,
+
+456
+00:29:34,880 --> 00:29:38,080
+è condiviso con mia moglie, quindi è un sistema che ormai è
+
+457
+00:29:38,080 --> 00:29:40,880
+collaudato da anni e non vado sicuramente a cambiarlo.
+
+458
+00:29:40,880 --> 00:29:44,640
+Ma quello che mi viene comodo è quello di fare una serie
+
+459
+00:29:44,640 --> 00:29:48,880
+di revisione all'inizio della settimana o alla fine della settimana, in base
+
+460
+00:29:48,880 --> 00:29:52,800
+a dove sono con i tempi, faccio una revisione della settimana inserendo
+
+461
+00:29:52,800 --> 00:29:57,120
+appunto gli appuntamenti che ho nel calendario e li inserisco all'interno di
+
+462
+00:29:57,120 --> 00:29:58,800
+questa vista settimanale.
+
+463
+00:29:58,800 --> 00:30:02,840
+La cosa interessante appunto che mi ha aiutato molto in questi periodi
+
+464
+00:30:03,240 --> 00:30:07,080
+è che appunto ho una lista sul creare e una lista sul
+
+465
+00:30:07,080 --> 00:30:08,040
+gestire.
+
+466
+00:30:08,040 --> 00:30:09,960
+Questo perché è stato suddiviso.
+
+467
+00:30:09,960 --> 00:30:14,280
+Questa è un'interessantissima idea che ha dato Eric.
+
+468
+00:30:14,440 --> 00:30:16,920
+Che a questo punto ho capito pieno e che ho fatto i
+
+469
+00:30:16,920 --> 00:30:20,280
+miei e in effetti i risultati li ho visti, è quello essenzialmente
+
+470
+00:30:20,280 --> 00:30:27,400
+di dedicarsi di un'area di tempo della giornata per queste due macro
+
+471
+00:30:27,400 --> 00:30:29,080
+operazioni, chiamiamolo così.
+
+472
+00:30:29,080 --> 00:30:33,400
+Per quanto mi riguarda, per me è utile nel mio lavoro e
+
+473
+00:30:33,400 --> 00:30:41,000
+anche nei settori diciamo dei progetti collaterali, avere una parte della giornata
+
+474
+00:30:41,000 --> 00:30:45,720
+dedicato al creare, che vuol dire in effetti fare qualcosa, essere concentrato
+
+475
+00:30:45,720 --> 00:30:49,960
+e tirare fuori quello che ti serve per andare avanti nel lavoro.
+
+476
+00:30:49,960 --> 00:30:50,600
+Questo perché?
+
+477
+00:30:50,600 --> 00:30:53,560
+Perché io, per esempio, l'ho dato nella mattina: io, ad esempio, tendo
+
+478
+00:30:53,560 --> 00:30:58,120
+a svegliarmi intorno alle 6-6 e mezza e poi nel corso fino
+
+479
+00:30:58,120 --> 00:31:00,840
+a luna cerco di utilizzare queste ore.
+
+480
+00:31:00,840 --> 00:31:06,840
+Ovviamente in mezzo ci sarà qualche interruzione, perché comunque ho da gestire
+
+481
+00:31:06,840 --> 00:31:09,400
+anche la famiglia, nel mentre e tutte le varie cose che ci
+
+482
+00:31:09,400 --> 00:31:13,720
+girano attorno, ma cerco di dedicare il più possibile fino a luna,
+
+483
+00:31:13,720 --> 00:31:18,280
+l'una e mezza, lo spazio per creare cose essenzialmente.
+
+484
+00:31:18,520 --> 00:31:23,960
+Ed emando tutto quello che è gestire nella seconda parte della giornata.
+
+485
+00:31:23,960 --> 00:31:29,000
+Questo vi libera veramente di tantissimo tempo perché il gestire riguarda tutto
+
+486
+00:31:29,000 --> 00:31:34,600
+quello che sono le mail, le telefonate, che ne so, le fatturazioni,
+
+487
+00:31:34,760 --> 00:31:38,120
+mettersi d'accordo per gestire il cantiere.
+
+488
+00:31:38,120 --> 00:31:41,160
+Vi riscorrendo, questo l'ho preso e l'ho spostato tutta la seconda parte
+
+489
+00:31:41,160 --> 00:31:42,120
+della giornata.
+
+490
+00:31:42,360 --> 00:31:45,600
+Aggiungo se qualcuno mi telefona la mattina, è facile che non mi
+
+491
+00:31:45,600 --> 00:31:48,560
+trovi e che non risponda, a meno che non sia che so
+
+492
+00:31:44,840 --> 00:31:50,240
+che è urgente.
+
+493
+00:31:50,480 --> 00:31:53,360
+Questo parlo dal punto di vista lavorativo della famiglia, è un altro
+
+494
+00:31:53,360 --> 00:31:54,000
+discorso.
+
+495
+00:31:54,000 --> 00:31:57,680
+Ma dal punto di vista lavorativo, se non è estremamente urgente, ma
+
+496
+00:31:57,680 --> 00:32:02,560
+perché sono al corrente della situazione, io non rispondo essenzialmente, non rispondo
+
+497
+00:32:02,560 --> 00:32:05,520
+perché o mi contatti in un altro modo, mi mandi un messaggio,
+
+498
+00:32:05,520 --> 00:32:09,360
+un'email, mi fai capire che c'è qualcos'altro, se no, no, ragazzi miei,
+
+499
+00:32:09,360 --> 00:32:14,800
+io la mattina mi sono dato dei paletti molto rigidi per riuscire
+
+500
+00:32:14,800 --> 00:32:18,320
+a portare avanti il lavoro e fidatevi che funziona, perché vi trovate,
+
+501
+00:32:18,320 --> 00:32:23,680
+poi magari in effetti a avere anche la mente lucida per gestire
+
+502
+00:32:23,680 --> 00:32:25,920
+le cose e non essere continuamente interrotti.
+
+503
+00:32:25,920 --> 00:32:31,120
+Se voi riuscite a continuare nel vostro flusso creativo, chiamiamolo così, nel
+
+504
+00:32:31,120 --> 00:32:36,160
+vostro flusso di creare effettivamente le cose di quello che avete bisogno
+
+505
+00:32:36,160 --> 00:32:40,320
+nel lavoro, e non tutti possono farlo, ma riuscire a spostare tutto
+
+506
+00:32:40,320 --> 00:32:45,200
+quanto, quello che è l'interruzione, le mail, i messaggi, via discorrendo, tutto
+
+507
+00:32:45,200 --> 00:32:49,920
+quello lo buttate in una parte dedicata che potrebbe anche essere, se
+
+508
+00:32:49,920 --> 00:32:55,280
+volete, anche un'ora in mezzo al momento creativo, che ne so, faccio
+
+509
+00:32:55,280 --> 00:32:58,560
+tre ore di lavoro, poi mi do un'ora in cui mi concentro
+
+510
+00:32:58,560 --> 00:33:01,920
+a fare mail, contatti, chiamate, e poi riprendo a lavorare.
+
+511
+00:33:01,920 --> 00:33:03,360
+Potrebbe anche essere una soluzione.
+
+512
+00:33:03,360 --> 00:33:08,480
+Io ho trovato la suddivisione in, diciamo, momenti della giornata molto molto
+
+513
+00:33:08,480 --> 00:33:12,320
+utile, perché appunto riesco a gestirmi molto meglio il lavoro e la
+
+514
+00:33:12,320 --> 00:33:14,320
+parte creativa e di gestione.
+
+515
+00:33:14,320 --> 00:33:17,840
+Un'altra cosa che ho aggiunto è il content, ovvero quello che vado
+
+516
+00:33:17,840 --> 00:33:18,880
+a pubblicare.
+
+517
+00:33:18,880 --> 00:33:19,760
+Questo perché?
+
+518
+00:33:19,760 --> 00:33:24,720
+Perché sono arrivato a un certo punto della mia situazione all'interno di
+
+519
+00:33:24,720 --> 00:33:25,120
+internet.
+
+520
+00:33:25,280 --> 00:33:29,200
+Che avevo così tante cose da pubblicare che molto probabilmente stavo perdendo
+
+521
+00:33:29,200 --> 00:33:33,560
+dei pezzi e probabilmente li ho anche persi, perché tra una cosa
+
+522
+00:33:33,560 --> 00:33:38,920
+e l'altra, veramente c'è da pubblicare un sacco di cose, micro contenuti.
+
+523
+00:33:38,920 --> 00:33:43,640
+Parlo dei profili Instagram, LinkedIn, il mio blog YouTube, in questo momento
+
+524
+00:33:43,640 --> 00:33:44,920
+che è quello nuovo.
+
+525
+00:33:44,920 --> 00:33:48,520
+Poi c'è anche il podcast.
+
+526
+00:33:48,520 --> 00:33:50,280
+Mio Snap, poi ci sono.
+
+527
+00:33:50,280 --> 00:33:53,880
+Ovviamente sono giusti altri due progetti che sono Archicad Talks e poi
+
+528
+00:33:53,880 --> 00:33:59,080
+c'è anche blog di GraphicSoft Italia e tutti questi contenuti qua vanno
+
+529
+00:33:59,080 --> 00:34:02,600
+un po' sparpagliati per la rete e bisogna incominciare a avere un
+
+530
+00:34:02,600 --> 00:34:08,840
+po' un piano che può aiutarvi nella dispersione, chiamiamolo così, o pubblicazione
+
+531
+00:34:08,840 --> 00:34:10,520
+dei contenuti che avete creato.
+
+532
+00:34:10,520 --> 00:34:13,800
+La cosa interessante all'interno di noi, che per me è stato veramente
+
+533
+00:34:13,800 --> 00:34:18,200
+utilissimo nella gestione della settimana, è che c'è la possibilità appunto di
+
+534
+00:34:18,200 --> 00:34:20,280
+spostare i blocchi che avete creato.
+
+535
+00:34:20,280 --> 00:34:23,960
+Cioè praticamente tutte le scritte che avete fatto si trasformano in blocchi
+
+536
+00:34:24,120 --> 00:34:28,120
+e voi se vi avvicinate col mouse all'inizio del blog,
+
+537
+00:34:30,040 --> 00:34:35,240
+appare un'iconcina a forma di nove puntini in un quadrato che potete
+
+538
+00:34:35,240 --> 00:34:39,320
+prenderla essenzialmente la tenete cliccata col mouse, la potete spostare all'interno di
+
+539
+00:34:39,320 --> 00:34:40,280
+queste colonne.
+
+540
+00:34:40,280 --> 00:34:44,360
+Quindi questa cosa diventa utile in modo molto facile: che se non
+
+541
+00:34:44,360 --> 00:34:49,080
+avete finito qualcosa per lunedì e avete qualcosa di non spuntato, lo
+
+542
+00:34:49,080 --> 00:34:52,360
+prendete e lo spostate a destra, semplicemente su martedì o mercoledì o
+
+543
+00:34:52,360 --> 00:34:53,800
+giovedì, quando vi viene comodo.
+
+544
+00:34:53,800 --> 00:34:58,120
+E poi un'altra cosa che diventa interessante è che riuscite anche a
+
+545
+00:34:58,120 --> 00:35:00,680
+capire le priorità all'interno della giornata.
+
+546
+00:35:00,680 --> 00:35:01,480
+Diventa molto utile.
+
+547
+00:35:01,480 --> 00:35:04,200
+Nel senso, se io incomincio a segnarmi un sacco di cose perché
+
+548
+00:35:04,200 --> 00:35:08,040
+devo svuotare la mente e cominciare a buttare dentro le cose che
+
+549
+00:35:08,040 --> 00:35:09,600
+devo fare all'interno della settimana.
+
+550
+00:35:09,600 --> 00:35:13,640
+Magari all'interno del giorno mi accorgo che le priorità vanno riviste, quindi
+
+551
+00:35:13,640 --> 00:35:16,480
+sposto in alto e in basso le cose che ci sono da
+
+552
+00:35:16,480 --> 00:35:19,440
+fare e poi chiaramente le cose che ho fatto le prendo e
+
+553
+00:35:19,440 --> 00:35:23,440
+le sposto manualmente alla fine della colonna, che così almeno non le
+
+554
+00:35:23,440 --> 00:35:26,480
+vedo più, non ci penso più, e a me la aggiungo io.
+
+555
+00:35:26,480 --> 00:35:31,840
+Quindi, questo può essere una suddivisione molto interessante della settimana, l'altra cosa
+
+556
+00:35:31,840 --> 00:35:37,760
+che ho aggiunto, diciamo al metodo Reynolds, chiamiamolo così, ho fatto una
+
+557
+00:35:37,760 --> 00:35:39,120
+cosa un po' particolare.
+
+558
+00:35:39,120 --> 00:35:42,960
+Dunque, adesso qui andiamo un po' sul tecnico, ma neanche tanto.
+
+559
+00:35:42,960 --> 00:35:47,440
+Allora, quindi andiamo avanti e andiamo a parlare di una cosa un
+
+560
+00:35:47,440 --> 00:35:49,600
+po' particolare.
+
+561
+00:35:49,600 --> 00:35:55,440
+Che qua deriva da un metodo di gestione delle cose da fare.
+
+562
+00:35:55,760 --> 00:36:01,280
+Questo metodo di gestione, dei to-do, chiamiamolo così, viene gestito tramite un
+
+563
+00:36:01,280 --> 00:36:05,760
+famoso database, database che è abbastanza semplice.
+
+564
+00:36:06,480 --> 00:36:11,920
+Allora, se voi andate a creare appunto con questa famosa slash che
+
+565
+00:36:11,920 --> 00:36:18,080
+punta sulla destra, voi potete richiamare un simpatico database, dovete andare a
+
+566
+00:36:18,080 --> 00:36:21,360
+sfogliare un po' come si chiama l'elenco che vi viene proposto.
+
+567
+00:36:21,360 --> 00:36:26,400
+Si chiama database full page essenzialmente perché occupa tutta la pagina, ma
+
+568
+00:36:26,400 --> 00:36:28,960
+questo è abbastanza relativo.
+
+569
+00:36:29,280 --> 00:36:31,120
+Cosa ho fatto essenzialmente?
+
+570
+00:36:31,120 --> 00:36:34,160
+Mi sono guardato un attimo allo specchio e mi sono fatto questo
+
+571
+00:36:34,160 --> 00:36:41,200
+simpatico database che chiamato prosaicamente to-do, dove la prima colonna ha l'oggetto.
+
+572
+00:36:41,200 --> 00:36:47,840
+Poi nella seconda colonna ho segnato una particolare casella che si chiama
+
+573
+00:36:47,840 --> 00:36:48,560
+Status.
+
+574
+00:36:48,560 --> 00:36:53,440
+Queste particolari caselle essenzialmente sono dei tipi di caselle che possono essere
+
+575
+00:36:53,440 --> 00:36:55,040
+utilizzate all'interno del database.
+
+576
+00:36:55,040 --> 00:36:59,440
+Cioè voi suddividete quello che avete all'interno delle cose da assegnare in
+
+577
+00:36:59,440 --> 00:37:04,120
+questa colonna, potete assegnargli che ne so: testo, numero.
+
+578
+00:37:04,360 --> 00:37:09,080
+Come in questo caso c'è anche lo status, la data, la persona,
+
+579
+00:37:09,080 --> 00:37:15,400
+dei file, una checkbox, ovvero il quadratino da spuntare, una URL, le
+
+580
+00:37:15,640 --> 00:37:18,040
+mail, il telefono e via discorrendo.
+
+581
+00:37:18,040 --> 00:37:21,560
+Ci sono anche le formule se volete proprio divertirvi.
+
+582
+00:37:21,560 --> 00:37:25,240
+Quindi, la seconda colonna per me è stata l'aggiunta del.
+
+583
+00:37:25,480 --> 00:37:28,840
+Quindi, nella sostanza, un po' come un foglio di Excel, giusto per
+
+584
+00:37:28,840 --> 00:37:31,240
+dare un esempio molto banale, ma
+
+585
+00:37:32,280 --> 00:37:33,640
+abbastanza chiaro?
+
+586
+00:37:33,720 --> 00:37:34,520
+A chi non ha.
+
+587
+00:37:34,840 --> 00:37:40,680
+Sì, sì, è una tabella dove appunto vengono raccolti le categorie, che
+
+588
+00:37:40,680 --> 00:37:45,320
+sono appunto quelle che vi ho appena elencato, e poi i dati
+
+589
+00:37:45,640 --> 00:37:49,000
+delle categorie, che poi all'interno di queste colonne mettete poi i dati
+
+590
+00:37:49,000 --> 00:37:49,880
+che vi servono.
+
+591
+00:37:49,880 --> 00:37:55,560
+Io, ad esempio, come status, ho impostato, mi pare, tre stati che
+
+592
+00:37:55,800 --> 00:38:00,120
+nel momento in cui andate a selezionare lo stato, poi vi chiede
+
+593
+00:38:00,120 --> 00:38:05,560
+quali sono questi stati che volete utilizzare, ho messo lo stato archiviato
+
+594
+00:38:05,880 --> 00:38:10,200
+che vi può venire utili, nel secondo momento, poi vi farò capire
+
+595
+00:38:10,200 --> 00:38:10,680
+perché.
+
+596
+00:38:10,680 --> 00:38:15,080
+La priorità, nel senso che per me diventa prioritario questo to do
+
+597
+00:38:15,080 --> 00:38:19,480
+rispetto a tutti gli altri, invece live perché ci sto lavorando sopra.
+
+598
+00:38:19,480 --> 00:38:23,560
+Questi sono tre stati che ho assegnato, vi ho segnato anche un
+
+599
+00:38:23,560 --> 00:38:28,200
+colore giusto per capire qual è la situazione, anche colpo d'occhio.
+
+600
+00:38:28,360 --> 00:38:31,560
+Ti volevo solo dire una cosa, visto che ne abbiamo parlato, mentre
+
+601
+00:38:31,640 --> 00:38:34,920
+tu parlavi, ne ho approfittato per fare un controllo.
+
+602
+00:38:35,160 --> 00:38:39,000
+Allora, la barra, tra virgolette, che punta a destra, chiamamola in questi
+
+603
+00:38:39,000 --> 00:38:45,280
+termini è Slash, cioè la barra, invece quella che punta, diciamo, la
+
+604
+00:38:44,760 --> 00:38:49,280
+parte alta e a sinistra, chiamiamolo in questi termini, è il backlash.
+
+605
+00:38:50,080 --> 00:38:58,960
+La barra lo slash per accedere, diciamo, alle funzioni di modificazione, credo
+
+606
+00:38:58,960 --> 00:39:04,960
+che siano, esatto, oppure come dice Paolo attivissimo slash che dovrebbe essere
+
+607
+00:39:04,960 --> 00:39:06,320
+la pronuncia giusta.
+
+608
+00:39:06,320 --> 00:39:11,200
+In ogni caso, tornando al famoso database che utilizzo, nel database ho
+
+609
+00:39:11,200 --> 00:39:15,520
+aggiunto la data di creazione, quindi l'ho chiamata prosicamente creata.
+
+610
+00:39:15,520 --> 00:39:20,160
+E poi ovviamente potete mettere automaticamente la data di creazione nel momento
+
+611
+00:39:20,160 --> 00:39:26,160
+in cui voi aggiungete la voce, e poi ho suddiviso questi to-do
+
+612
+00:39:26,640 --> 00:39:28,480
+per aree di lavoro.
+
+613
+00:39:28,480 --> 00:39:35,680
+Diciamo che li ho chiamati notebook, essenzialmente per fare mente locale e
+
+614
+00:39:35,680 --> 00:39:40,560
+richiamare l'esperienza fisica dei notebook.
+
+615
+00:39:40,560 --> 00:39:49,200
+Che essenzialmente potete avere un quadernetto dedicato all'ufficio, un altro quadernetto dedicato
+
+616
+00:39:49,200 --> 00:39:54,160
+al vostro progetto collaterale, che potrebbe essere A2 Podcast, oppure potete
+
+617
+00:39:54,160 --> 00:39:59,440
+avere un quadernetto per le idee creative che possono tornarvi sempre utili.
+
+618
+00:39:59,440 --> 00:40:07,280
+Quindi essenzialmente ho suddiviso i to-do, mentre inserisco una nuova voce, riesco
+
+619
+00:40:07,280 --> 00:40:12,160
+anche a indicare che area di competenza ha.
+
+620
+00:40:12,160 --> 00:40:17,520
+Ho aggiunto un altro paio di cose che possono essere tutto sommato
+
+621
+00:40:17,600 --> 00:40:18,080
+relative.
+
+622
+00:40:18,080 --> 00:40:23,840
+Ovvero quando è che ho fatto l'ultima editazione della nota e quanti
+
+623
+00:40:23,840 --> 00:40:27,840
+giorni fa l'ho fatto, ma questo qui è abbastanza relativo.
+
+624
+00:40:27,840 --> 00:40:30,520
+Quello che vi può tornare utile, ad esempio, è la colonna dei
+
+625
+00:40:29,840 --> 00:40:30,840
+link.
+
+626
+00:40:30,920 --> 00:40:36,520
+Per esempio, a me diventa utile all'interno delle idee, inserisco anche il
+
+627
+00:40:36,520 --> 00:40:39,720
+link della risorsa che ho visto che mi può tornare utile per
+
+628
+00:40:39,720 --> 00:40:41,640
+portare avanti i miei progetti.
+
+629
+00:40:41,960 --> 00:40:47,640
+Poi ho aggiunto una colonna con scritto archiviato.
+
+630
+00:40:47,640 --> 00:40:52,840
+Questo diventa utile perché se la spunto questo to-do essenzialmente viene archiviato
+
+631
+00:40:52,920 --> 00:40:58,280
+quindi non lo vedo più all'interno della mia lista di to-do.
+
+632
+00:40:58,440 --> 00:41:03,640
+E poi c'è anche la possibilità, come vi dicevo, di inserire un
+
+633
+00:41:03,640 --> 00:41:07,960
+allarme se volete che sia ricordato questo to-do in una determinata data,
+
+634
+00:41:07,960 --> 00:41:10,040
+che ne so fra tre o quattro giorni.
+
+635
+00:41:10,040 --> 00:41:14,600
+Di particolare non ho messo nient'altro, ma diciamo che questa qua essenzialmente
+
+636
+00:41:14,600 --> 00:41:18,440
+è una vista di tutti i to-do che ho in questo momento.
+
+637
+00:41:18,440 --> 00:41:22,280
+Chiaramente lo fate la prima volta, non avete nient'altro.
+
+638
+00:41:22,280 --> 00:41:27,240
+Ma io, ad esempio, sto sfogliando almeno una quarantina, una cinquantina che
+
+639
+00:41:27,240 --> 00:41:32,120
+sono stati suddivisi all'interno di questa lista di to-do.
+
+640
+00:41:32,360 --> 00:41:37,240
+Questa lista di to-do essenzialmente è una pagina e vi viene comodo
+
+641
+00:41:37,240 --> 00:41:41,400
+perché io ho organizzato questa lista di to-do in un modo ancora
+
+642
+00:41:42,200 --> 00:41:43,480
+più particolare.
+
+643
+00:41:43,480 --> 00:41:48,120
+Perché avere una lista di to-do che lo vedi in faccia il
+
+644
+00:41:48,120 --> 00:41:51,400
+primo giorno che apri notion dopo un po' che le utilizzate, comincia
+
+645
+00:41:51,400 --> 00:41:52,600
+a essere fastidioso.
+
+646
+00:41:52,600 --> 00:41:57,000
+Vedere questi tutti anzi, crea più casino di quello che avete in
+
+647
+00:41:57,000 --> 00:41:57,400
+testa.
+
+648
+00:41:57,400 --> 00:42:02,920
+Quindi per me è diventato utile creare delle viste di questo database.
+
+649
+00:42:03,400 --> 00:42:07,480
+Cosa permettono queste viste di notion del database?
+
+650
+00:42:07,480 --> 00:42:10,760
+Di vedere solo le parti, in effetti, che vi interessano.
+
+651
+00:42:10,760 --> 00:42:16,400
+Dunque, essenzialmente, voi avete la vista generale che vi ho appena elencato,
+
+652
+00:42:14,920 --> 00:42:19,440
+ho fatto una vista che si chiama inbox.
+
+653
+00:42:19,760 --> 00:42:21,440
+Cos'è questa vista?
+
+654
+00:42:21,440 --> 00:42:28,560
+Questa vista visualizzazione del database principale che vi ho appena spiegato, che
+
+655
+00:42:28,560 --> 00:42:31,520
+segue però dei criteri e dei filtri.
+
+656
+00:42:31,520 --> 00:42:35,040
+E qua cominciamo un po' a complessificare, ma adesso cerco di spiegarlo
+
+657
+00:42:35,120 --> 00:42:36,400
+in modo semplice.
+
+658
+00:42:36,400 --> 00:42:39,120
+Immagino che chi non l'abbia mai visto, magari ha bisogno di qualche
+
+659
+00:42:39,120 --> 00:42:40,160
+indicazione in più.
+
+660
+00:42:40,160 --> 00:42:41,840
+Cosa vi permette di fare?
+
+661
+00:42:41,840 --> 00:42:47,520
+Io ho inserito una vista in cui mi deve far vedere tutti
+
+662
+00:42:47,760 --> 00:42:54,160
+i to-do che non sono in questo momento associati ad un notebook.
+
+663
+00:42:54,400 --> 00:42:59,440
+Se avete una lista di to-do dove avete assegnato tutti i notebook
+
+664
+00:42:59,600 --> 00:43:04,640
+ai vostri to-do, all'interno di questa vista che ho chiamato inbox, non
+
+665
+00:43:04,640 --> 00:43:05,760
+vedete niente.
+
+666
+00:43:05,760 --> 00:43:09,200
+Ma perché vi viene utile questa vista che prima
+
+667
+00:43:10,720 --> 00:43:12,960
+a primo sguardo vi sembra inutile.
+
+668
+00:43:12,960 --> 00:43:16,800
+Questo vi permette di inserire delle cose che vi vengono in mente
+
+669
+00:43:16,800 --> 00:43:22,560
+senza badarci più di tanto, è una specie di inbox delle mail,
+
+670
+00:43:22,560 --> 00:43:27,280
+chiamiamoli così, un modo per smistare le idee, un inbox delle idee.
+
+671
+00:43:27,280 --> 00:43:30,720
+Voi avete questa lista che io ho chiamato cose e note, anzi,
+
+672
+00:43:30,720 --> 00:43:36,160
+questa visualizzazione per essere preciso, l'ho chiamata cose e note perché cose
+
+673
+00:43:36,240 --> 00:43:39,440
+perché appunto sono dei to-do che devo fare, ma soprattutto come vi
+
+674
+00:43:39,440 --> 00:43:44,480
+ho spiegato prima, queste note, questi to- possono diventare anche delle note
+
+675
+00:43:44,640 --> 00:43:45,840
+vere e proprie.
+
+676
+00:43:45,840 --> 00:43:51,200
+Quindi, fatto questo, poi ho aggiunto tutta un'altra serie di viste che
+
+677
+00:43:51,520 --> 00:43:57,120
+si presenta essenzialmente come una tabella, volendo questa vista perché di viste
+
+678
+00:43:57,120 --> 00:44:00,360
+ce ne sono almeno, mi pare, 4-5.
+
+679
+00:44:00,360 --> 00:44:01,560
+Adesso sto andando.
+
+680
+00:43:59,840 --> 00:44:03,080
+Allora, si chiama layout.
+
+681
+00:44:03,160 --> 00:44:07,000
+Io in questo momento sto usando la layout tabella, ma c'è anche
+
+682
+00:44:07,000 --> 00:44:10,280
+layout board, una timeline.
+
+683
+00:44:10,280 --> 00:44:15,240
+Quindi utilizza essenzialmente il diagramma di Gant per farci capire.
+
+684
+00:44:15,240 --> 00:44:20,840
+C'è la vista calendario, la vista lista, semplicemente, oppure la vista gallery
+
+685
+00:44:21,080 --> 00:44:24,760
+sono sinceramente delle viste molto affascinanti, nel senso che sareste lì dei
+
+686
+00:44:24,760 --> 00:44:27,080
+giorni a capire qual è quella migliore per te.
+
+687
+00:44:27,080 --> 00:44:30,840
+Ma in questo caso io trovato la vista migliore in una vista
+
+688
+00:44:30,840 --> 00:44:32,280
+semplice tabella.
+
+689
+00:44:32,280 --> 00:44:35,720
+E poi la cosa molto interessante che è stata aggiunta recentemente è
+
+690
+00:44:35,720 --> 00:44:39,000
+che si possono aggiungere più viste sulla stessa vista.
+
+691
+00:44:39,000 --> 00:44:41,640
+Lo so che è un po' difficile da capire, ma se io
+
+692
+00:44:41,640 --> 00:44:46,840
+voglio avere una vista in box dove non voglio vedere le cose
+
+693
+00:44:46,920 --> 00:44:50,200
+che sono già catalogati nei vari notebook.
+
+694
+00:44:50,200 --> 00:44:55,480
+A questo punto, io posso fare delle altre viste invece che filtrano
+
+695
+00:44:55,480 --> 00:45:00,200
+i miei to-do rispetto ai notebook che sto utilizzando.
+
+696
+00:45:00,200 --> 00:45:01,800
+Quali sono questi notebook?
+
+697
+00:45:01,800 --> 00:45:05,480
+Ad esempio, sto utilizzando un notebook che si chiama Office, che riguarda
+
+698
+00:45:05,480 --> 00:45:08,920
+tutto quello che riguarda il lavoro, un notebook che riguarda home, che
+
+699
+00:45:08,920 --> 00:45:12,600
+riguarda tutto quello che riguarda la casa, poi ci sono altri notebook
+
+700
+00:45:12,600 --> 00:45:15,960
+che riguardano ad esempio Snap, a due, Archicard Talks, poi un altro
+
+701
+00:45:15,960 --> 00:45:20,600
+che riguarda il blog di Grafa Sost Italia, ma il mio blog
+
+702
+00:45:20,600 --> 00:45:25,960
+personale, Mark.net, un notebook per YouTube che è nato recentemente.
+
+703
+00:45:25,960 --> 00:45:31,160
+Quindi, voi essenzialmente, una volta che avete inserito il vostro to do
+
+704
+00:45:31,160 --> 00:45:36,280
+nella inbox, potete andare a cliccare semplicemente in Aggiungi al notebook e
+
+705
+00:45:36,280 --> 00:45:38,760
+vi comparirà la lista dei vostri notebook.
+
+706
+00:45:38,920 --> 00:45:44,280
+Conseguentemente, nel momento in cui selezionate un notebook di destinazione, lo vedrete
+
+707
+00:45:44,280 --> 00:45:48,720
+comparire nella vista, ovviamente, del notebook di destinazione.
+
+708
+00:45:44,760 --> 00:45:51,040
+Quindi scompare dalla lista di inbox.
+
+709
+00:45:51,280 --> 00:45:54,240
+Quindi avete già fatto un processo di
+
+710
+00:45:55,600 --> 00:46:00,240
+filtraggio automatico dove voi iniziate a segnare le cose che vi servono
+
+711
+00:46:00,240 --> 00:46:04,160
+da fare e poi lo smistate appunto con questo metodo.
+
+712
+00:46:04,160 --> 00:46:08,640
+Questo metodo è interessante perché, oltre a liberarvi un po' la testa
+
+713
+00:46:08,640 --> 00:46:12,800
+e a capire le cose che ci sono da fare, diventa utile
+
+714
+00:46:12,800 --> 00:46:17,120
+perché queste viste che potete avere in prima pagina come ho fatto
+
+715
+00:46:17,120 --> 00:46:23,360
+io, le potete replicare nelle varie pagine, che sono appunto questi notebook.
+
+716
+00:46:23,680 --> 00:46:31,360
+Per farmi un'idea e raggiungere facilmente questi notebook, mi sono fatto sulla
+
+717
+00:46:31,440 --> 00:46:36,000
+destra un back link, che appunto è un link di una pagina
+
+718
+00:46:36,000 --> 00:46:38,160
+che punta a un'altra pagina.
+
+719
+00:46:38,160 --> 00:46:43,040
+Perché, come vi dicevo, c'è proprio una struttura, chiamiamola così, che ricorda
+
+720
+00:46:43,040 --> 00:46:46,720
+molto da vicino la struttura di un sito web.
+
+721
+00:46:46,720 --> 00:46:50,800
+E quindi io mi sono messo essenzialmente dei link con una colonna
+
+722
+00:46:50,960 --> 00:46:52,720
+destra molto rimpicciolita.
+
+723
+00:46:53,040 --> 00:46:56,880
+Devo solo vedere dei link che puntano appunto a queste pagine.
+
+724
+00:46:56,880 --> 00:47:01,600
+Queste pagine sono particolari, diciamo una raccolta di tutte le cose che
+
+725
+00:47:01,600 --> 00:47:04,800
+riguardano un determinato settore della mia vita.
+
+726
+00:47:04,800 --> 00:47:11,600
+Faccio ad esempio Office, dove appunto ho inserito sempre utilizzando il metodo
+
+727
+00:47:11,760 --> 00:47:18,000
+Reynolds, chiamiamolo così, gli obiettivi del 2023 e una vista dell'archivio degli
+
+728
+00:47:18,000 --> 00:47:18,880
+obiettivi.
+
+729
+00:47:18,880 --> 00:47:22,880
+Ma oltre a questo, io ho aggiunto un'ulteriore vista che riguarda appunto
+
+730
+00:47:23,040 --> 00:47:26,960
+i to-do che sono etichettati nel notebook Office.
+
+731
+00:47:26,960 --> 00:47:30,200
+Quindi ho una vista da questa parte e posso richiamare la stessa
+
+732
+00:47:30,200 --> 00:47:32,040
+vista nella pagina principale.
+
+733
+00:47:32,040 --> 00:47:33,400
+Perché ho fatto questo?
+
+734
+00:47:29,520 --> 00:47:34,360
+Perché dipende un po'assessor
+
+735
+00:47:29,920 --> 00:47:35,880
+ate.
+
+736
+00:47:36,040 --> 00:47:39,480
+Ad esempio, ci sono dei momenti in cui avete bisogno di una
+
+737
+00:47:39,480 --> 00:47:43,480
+vista generale assieme alla settimana e quindi dovete un po' gestirvi la
+
+738
+00:47:43,480 --> 00:47:47,240
+questione e ci sono dei momenti invece che siete all'interno di un
+
+739
+00:47:47,240 --> 00:47:51,800
+notebook e dovete essere concentrati su quello e dimenticarvi il resto.
+
+740
+00:47:51,800 --> 00:47:56,360
+Quindi, è entrato nella pagina Office, io ho un'altra vista dei tu-do
+
+741
+00:47:56,520 --> 00:48:00,120
+in modo tale non mi perda niente nel passaggio da una parte
+
+742
+00:48:00,120 --> 00:48:00,760
+all'altra.
+
+743
+00:48:00,760 --> 00:48:04,840
+Perché io se dovessi rivedere la stessa vista, dovrei ritornare indietro e
+
+744
+00:48:04,840 --> 00:48:10,040
+aprirmi la pagina della WIC Roadmap, quello che in OmniFocus verrebbe chiamato
+
+745
+00:48:10,200 --> 00:48:14,120
+anche in GTD, verrebbe chiamato contesto, cioè, tu hai il contesto lavoro,
+
+746
+00:48:14,120 --> 00:48:19,240
+chiamiamolo in questi termini, dove bene o male hai organizzato poi tutte
+
+747
+00:48:19,240 --> 00:48:24,200
+le varie attività, la strada che voi percorrere, ecco in quel termine.
+
+748
+00:48:24,440 --> 00:48:28,360
+Una cosa che mi ero dimenticato di dirvi è che notion, sebben
+
+749
+00:48:28,360 --> 00:48:32,920
+all'inizio vi sembra abbastanza ostico, poi alla fine riuscite anche a un
+
+750
+00:48:32,920 --> 00:48:34,120
+po' personalizzarlo.
+
+751
+00:48:34,120 --> 00:48:38,520
+Per esempio, nel mio caso, nella parte alta della pagina, potete inserire
+
+752
+00:48:38,600 --> 00:48:43,320
+proprio se fosse una pagina web, diciamo, un'immagine di richiamo in alto
+
+753
+00:48:43,320 --> 00:48:47,320
+che viene dalla pagina, e poi c'è anche un simbolo che potete
+
+754
+00:48:47,320 --> 00:48:53,080
+utilizzare all'inizio della pagina, abbastanza grande, che può darvi anche un richiamo
+
+755
+00:48:53,080 --> 00:48:53,720
+visuale.
+
+756
+00:48:53,720 --> 00:48:57,480
+Comunque, detto questo, potete personalizzarlo, è molto interessante sotto questo punto di
+
+757
+00:48:57,480 --> 00:49:02,920
+vista, ci sono anche la possibilità di caricare delle immagini dai loro
+
+758
+00:49:02,920 --> 00:49:03,480
+archivi.
+
+759
+00:49:03,480 --> 00:49:07,480
+Ci sono delle immagini che potete utilizzare, è tutto da esplorare.
+
+760
+00:49:07,480 --> 00:49:09,320
+Ovviamente mette un po' paura, ma
+
+761
+00:49:10,360 --> 00:49:13,800
+alla fine, quando avete un po' organizzato la questione, potete poi anche
+
+762
+00:49:13,800 --> 00:49:17,440
+divertirvi un po' a personalizzarla ed è molto carino.
+
+763
+00:49:17,920 --> 00:49:20,400
+Ad esempio, a me dal punto di vista grafico mi piace molto
+
+764
+00:49:20,400 --> 00:49:24,640
+adesso come l'ho impostato, non sicuramente quando l'ho aperto, perché mi faceva
+
+765
+00:49:24,640 --> 00:49:26,800
+un po' un po' specie.
+
+766
+00:49:26,800 --> 00:49:31,600
+Comunque, come vi dicevo, dal punto di vista dell'interfaccia grafica, ho aggiunto
+
+767
+00:49:31,760 --> 00:49:36,960
+dei divisori orizzontali, dove vi dicevo, ho messo gli obiettivi e l'archivio
+
+768
+00:49:36,960 --> 00:49:41,600
+degli obiettivi, poi un altro divisorio orizzontale, poi ho aggiunto questa vista
+
+769
+00:49:41,600 --> 00:49:45,360
+della lista delle cose da fare, poi aggiunto un altro divisorio e
+
+770
+00:49:45,360 --> 00:49:50,480
+ho aggiunto invece, diciamo, le commesse che sto seguendo in questo momento.
+
+771
+00:49:50,480 --> 00:49:54,240
+Quindi, sono delle pagine, delle commesse principali che sto utilizzando, che sto
+
+772
+00:49:54,240 --> 00:49:58,720
+seguendo in questo momento, e un'altra pagina dedicata in effetti solo e
+
+773
+00:49:58,720 --> 00:50:03,040
+semplicemente a tutto ciò che riguarda lo studio fisico, non lo studio
+
+774
+00:50:03,040 --> 00:50:05,200
+a livello anche di lavoro.
+
+775
+00:50:05,200 --> 00:50:08,400
+Quindi sono proprio cose molto pratiche e molto dirette, come ad esempio
+
+776
+00:50:08,480 --> 00:50:12,640
+le stampanti, il video, le cose che sono all'interno dello studio che
+
+777
+00:50:12,640 --> 00:50:16,960
+devo seguire e che sono stipate, per esempio, dove sono le pratiche,
+
+778
+00:50:16,960 --> 00:50:22,480
+come sono suddivise, vi discorrendo, una specie diciamo di promemoria che può
+
+779
+00:50:22,480 --> 00:50:26,480
+servirvi una volta l'anno, ma sapete almeno dove trovarla, perché è all'interno
+
+780
+00:50:26,480 --> 00:50:27,840
+di questa pagina.
+
+781
+00:50:27,840 --> 00:50:32,960
+Dal punto di vista lavorativo, questo è un consiglio che do per
+
+782
+00:50:32,960 --> 00:50:36,000
+gli architetti, o perlomeno chi fa più o meno il mio stesso
+
+783
+00:50:36,000 --> 00:50:41,280
+lavoro, è una cosa che per me è diventata molto utile seguendo
+
+784
+00:50:41,280 --> 00:50:47,600
+i cantieri, metto i cantieri, perché in questa particolare fase della mia
+
+785
+00:50:47,600 --> 00:50:51,520
+vita, mi sono dovuto trovare da un anno e mezzo, circa quasi
+
+786
+00:50:51,520 --> 00:50:55,760
+due, come vi dicevo nella puntata precedente: a seguire dei cantieri come
+
+787
+00:50:55,760 --> 00:50:59,840
+site manager e quindi devo avere un po' la vista sui cantieri
+
+788
+00:50:59,920 --> 00:51:01,720
+senza perdermi niente.
+
+789
+00:51:01,880 --> 00:51:05,560
+Devo essere sicuro di quello che faccio, devo ricordarmi: soprattutto visto che
+
+790
+00:51:05,560 --> 00:51:07,960
+le visite non le faccio tutti i giorni, ma le faccio ogni
+
+791
+00:51:07,960 --> 00:51:09,160
+15 giorni.
+
+792
+00:51:09,160 --> 00:51:14,120
+Quindi è molto utile riuscire a raggruppare tutte le informazioni che riguardano
+
+793
+00:51:14,120 --> 00:51:18,440
+questo cantiere all'interno di una pagina, non perdervi niente.
+
+794
+00:51:18,440 --> 00:51:22,040
+Una cosa che per me è diventato utile farmi un modello, un
+
+795
+00:51:22,040 --> 00:51:25,640
+modello che voi potete duplicare è un po' come quello che fa
+
+796
+00:51:25,640 --> 00:51:27,000
+Filippo con le cartelle.
+
+797
+00:51:27,000 --> 00:51:31,800
+È la stessa cosa in questo senso, ma diciamo in modo diverso.
+
+798
+00:51:31,800 --> 00:51:35,560
+In realtà potrebbe anche quasi essere definito quasi come un sistema operativo
+
+799
+00:51:35,560 --> 00:51:40,760
+di file manager via web, potremmo definirlo così, ma in effetti funziona
+
+800
+00:51:40,760 --> 00:51:41,400
+nello stesso modo.
+
+801
+00:51:41,400 --> 00:51:44,920
+Quindi io mi sono fatto la mia pagina template per il cantiere
+
+802
+00:51:44,920 --> 00:51:48,440
+con il nome del cantiere e soprattutto la via, per non dimenticarsi
+
+803
+00:51:48,440 --> 00:51:49,400
+mai dov'è.
+
+804
+00:51:49,400 --> 00:51:53,560
+Poi ho fatto una pagina l'ho chiamata Sopraluoghi e poi ho inserito
+
+805
+00:51:53,560 --> 00:51:56,840
+una tabella che in questo caso non è diventata un database, ma
+
+806
+00:51:56,840 --> 00:52:00,440
+è solo una pura e semplice tabella, che appunto la differenza è
+
+807
+00:52:00,520 --> 00:52:01,960
+che la tabella è a campo libero.
+
+808
+00:52:01,960 --> 00:52:05,640
+Potete scrivere quello che volete, invece il database inserite proprio delle categorie
+
+809
+00:52:05,640 --> 00:52:10,760
+che possono essere richiamabili in qualsiasi momento, dove essenzialmente metto i personaggi
+
+810
+00:52:10,760 --> 00:52:14,120
+principali, il numero di telefono e via discorrendo che mi interessano.
+
+811
+00:52:14,120 --> 00:52:16,760
+E poi mi sono fatto una to the list della documentazione da
+
+812
+00:52:16,760 --> 00:52:17,560
+richiedere.
+
+813
+00:52:17,560 --> 00:52:20,920
+All'interno dei sopralluoghi, che questa qui è la parte, secondo me, più
+
+814
+00:52:20,920 --> 00:52:25,720
+interessante, non avete bisogno mentre siete magari sopra i ponteggi.
+
+815
+00:52:25,720 --> 00:52:28,520
+Io faccio il mio esempio particolare di lavoro, ma penso che sia
+
+816
+00:52:28,520 --> 00:52:30,600
+paragonabile ad altri lavori.
+
+817
+00:52:30,600 --> 00:52:35,800
+Voi siete in giro nel lavoro sopra i ponteggi, mentre parlate con
+
+818
+00:52:35,800 --> 00:52:40,280
+le persone, vi vengono date delle informazioni che quando siete fortunati, avete
+
+819
+00:52:40,280 --> 00:52:43,080
+un blocco di carta su cui scrivere.
+
+820
+00:52:43,080 --> 00:52:47,200
+Tante volte le informazioni me la tengo a memoria e poi puntualmente
+
+821
+00:52:44,600 --> 00:52:47,920
+vi scappano.
+
+822
+00:52:48,080 --> 00:52:51,520
+Invece, nel mio caso non voglio farmi scappare niente, mi tengo il
+
+823
+00:52:51,520 --> 00:52:54,560
+cellulare in mano e mi appunto tutto quanto lì dentro, che poi
+
+824
+00:52:54,560 --> 00:53:01,360
+mi trovo distribuito su tutti i miei device dal Mac al tablet
+
+825
+00:53:01,360 --> 00:53:02,640
+e via discorrendo.
+
+826
+00:53:02,640 --> 00:53:05,520
+Questo perché è molto utile, perché così almeno posso passare da una
+
+827
+00:53:05,520 --> 00:53:09,280
+parte o dall'altra, ho sempre le informazioni coerenti e devo dire che
+
+828
+00:53:09,280 --> 00:53:13,040
+fino da quando l'ho utilizzato io, non ha mai perso un colpo
+
+829
+00:53:13,040 --> 00:53:14,960
+la sincronizzazione di Notion.
+
+830
+00:53:14,960 --> 00:53:21,120
+Chiaramente avendo la linea Criceti non può essere velocissimo, ma sicuramente vi
+
+831
+00:53:21,120 --> 00:53:23,920
+può tornare utile per questa questione.
+
+832
+00:53:23,920 --> 00:53:31,360
+Queste diciamo pagine categorizzate portano all'interno, oltre ai to-do, le famose come
+
+833
+00:53:31,360 --> 00:53:35,040
+le chiama Eric, che io non le conoscevo essenzialmente fino a quel
+
+834
+00:53:35,040 --> 00:53:38,800
+momento con nome, ma sapevo che esistevano, ma non le avevo mai
+
+835
+00:53:38,800 --> 00:53:44,160
+applicate che sono le standard Operation Program, che sono essenzialmente le cose
+
+836
+00:53:44,160 --> 00:53:47,840
+che fate, ma sono cose ripetitive.
+
+837
+00:53:47,840 --> 00:53:49,520
+Lui le chiamate così.
+
+838
+00:53:49,520 --> 00:53:53,600
+Sappiamo benissimo che ci sono all'interno del nostro lavoro delle cose ripetitive
+
+839
+00:53:53,600 --> 00:53:56,640
+che facciamo magari una volta al mese, una volta alla settimana, via
+
+840
+00:53:56,720 --> 00:54:02,480
+discorrendo, e quindi diventa utile riuscire a categorizzare all'interno di queste pagine
+
+841
+00:54:02,720 --> 00:54:06,960
+degli standard operation per riuscire a portare avanti il lavoro.
+
+842
+00:54:07,280 --> 00:54:13,040
+Per esempio, per il report di cantiere mi sono fatto una serie
+
+843
+00:54:13,040 --> 00:54:18,320
+infinita di to-do dove praticamente, seguendo questa lista di cose da fare,
+
+844
+00:54:18,320 --> 00:54:22,720
+io so benissimo: uno che non mi perdo niente, perché mano a
+
+845
+00:54:22,720 --> 00:54:25,680
+mano che faccio la stessa cosa, continuo ad aggiungere le cose per
+
+846
+00:54:25,680 --> 00:54:26,960
+non perdermi assolutamente niente.
+
+847
+00:54:26,960 --> 00:54:31,000
+Che ne so dove modificare la data, dove inserire le foto,
+
+848
+00:54:32,600 --> 00:54:37,880
+come fare un grafico riguarda l'andamento del cantiere, tutte quelle piccole cose
+
+849
+00:54:37,880 --> 00:54:44,920
+che mentre state lavorando, magari siete particolarmente sul pezzo e vi rimangono
+
+850
+00:54:44,920 --> 00:54:47,560
+in testa, ma non è detto che vi rimanga sempre in testa,
+
+851
+00:54:47,640 --> 00:54:51,000
+ed è più facile che vi scappino le cose perché magari siete
+
+852
+00:54:51,000 --> 00:54:52,360
+interrotti e vi discorrendo.
+
+853
+00:54:52,360 --> 00:54:57,400
+Quindi avete queste liste che nelle standard operation program riuscite a seguirle
+
+854
+00:54:57,400 --> 00:55:02,120
+e portarle avanti senza colpo ferire, ma può diventarvi utile anche nei
+
+855
+00:55:02,200 --> 00:55:03,240
+vostri side project.
+
+856
+00:55:03,240 --> 00:55:08,840
+Ad esempio, può essere utile utilizzare un programma anche per la pubblicazione
+
+857
+00:55:08,840 --> 00:55:11,000
+di un post su vostro blog.
+
+858
+00:55:11,000 --> 00:55:15,560
+Ad esempio, potete tenere gli hashtag che utilizzate di più a portata
+
+859
+00:55:15,560 --> 00:55:18,520
+di mano, in modo tale che dovete copiare, incollarli, non dovete riscriverlo
+
+860
+00:55:18,600 --> 00:55:20,520
+tutte le volte e via discorrendo.
+
+861
+00:55:20,760 --> 00:55:27,480
+Diciamo che è una struttura checklist, come si suol dire, quindi detti
+
+862
+00:55:27,480 --> 00:55:29,320
+in termini diversi, però, è
+
+863
+00:55:30,600 --> 00:55:36,200
+la checklist, per esempio, preflight per il decolo di un aereo e
+
+864
+00:55:36,200 --> 00:55:42,280
+così via, dove alla fine avere una guida che ti indica passo
+
+865
+00:55:42,360 --> 00:55:44,840
+passo quali sono gli step da svolgere.
+
+866
+00:55:44,840 --> 00:55:48,440
+Ti permette di scaricare da un certo punto di vista la testa,
+
+867
+00:55:48,440 --> 00:55:54,280
+detinatamente tutti gli incommenti, e dall'altra ti garantisce di sbagliare meno.
+
+868
+00:55:54,280 --> 00:56:00,760
+Proprio perché se ovviamente la prassi e l'attività che c'è da svolgere,
+
+869
+00:56:00,760 --> 00:56:05,240
+sempre quella è uniforme, diciamo, è ovvio che ti aiuta molto a
+
+870
+00:56:05,480 --> 00:56:07,080
+evitare gli errori.
+
+871
+00:56:07,240 --> 00:56:08,200
+Esatto, esatto.
+
+872
+00:56:08,200 --> 00:56:12,920
+È veramente sono cose che magari vi sembrano banali perché voi ce
+
+873
+00:56:12,920 --> 00:56:17,840
+l'avete ben chiare, ma a volte può tornarvi utile seguire una scheda
+
+874
+00:56:18,000 --> 00:56:20,800
+perché nella vita può capitare veramente di tutto.
+
+875
+00:56:20,800 --> 00:56:25,360
+E quindi la perdita di concentrazione magari vi fa perdere un pezzo
+
+876
+00:56:25,360 --> 00:56:26,960
+che purtroppo
+
+877
+00:56:28,160 --> 00:56:31,360
+vi genera degli errori che si ripercuotono a catena.
+
+878
+00:56:31,360 --> 00:56:35,840
+Invece, questo sistema vi permette di avere una guida, come giustamente l'hai
+
+879
+00:56:35,920 --> 00:56:39,520
+definita, per riuscire a portare la lavorazione a completamento.
+
+880
+00:56:39,520 --> 00:56:43,520
+Adesso sto guardando, che, in effetti, sono andato decisamente un po' lungo,
+
+881
+00:56:43,760 --> 00:56:47,680
+cerco un po' di stingrare, ma immaginavo che andasse avanti a lui.
+
+882
+00:56:47,920 --> 00:56:48,240
+Gi
+
+883
+00:56:49,360 --> 00:56:54,160
+à che siamo sull'argomento checklist, segnalo per chi fosse interessato, c'è anche un
+
+884
+00:56:54,160 --> 00:56:58,240
+bellissimo libro che si chiama The Checklist Manifesto, Il Manifesto del Checklist.
+
+885
+00:56:58,240 --> 00:57:00,560
+Adesso non so come sia stato tradotto in italiano perché io dove
+
+886
+00:57:00,880 --> 00:57:05,840
+ho letto in inglese, che appunto spiega anche come, per esempio, da
+
+887
+00:57:05,840 --> 00:57:09,920
+un punto di vista del medico, l'autore, un medico che è un
+
+888
+00:57:09,920 --> 00:57:16,000
+chirurgo, propone appunto di creare checklist in qualsiasi momento.
+
+889
+00:57:16,000 --> 00:57:21,040
+Proprio perché, per esempio, anche nell'ambito medico e sanitario, ovviamente avere una
+
+890
+00:57:21,040 --> 00:57:27,280
+checklist delle attività operatorie pre-operatorie, post-operatorie, per esempio controllare di non aver
+
+891
+00:57:27,280 --> 00:57:32,880
+lasciato le garze dentro il paziente e cose simili è molto utile
+
+892
+00:57:32,880 --> 00:57:34,720
+e ti semplifica molto la vita.
+
+893
+00:57:34,720 --> 00:57:39,680
+Appunto, tra gli esempi tipici c'è il discorso che vari aerei che
+
+894
+00:57:39,680 --> 00:57:44,080
+sono di grosse dimensioni non riescono a essere gestiti direttamente solo da
+
+895
+00:57:44,080 --> 00:57:45,040
+un uomo.
+
+896
+00:57:45,280 --> 00:57:50,640
+Avere le checklist permette di far volare sostanzialmente i grandi aerei.
+
+897
+00:57:50,640 --> 00:57:51,840
+Credo che fosse il
+
+898
+00:57:53,120 --> 00:57:58,000
+B72, quello che il bombardiere più grosso che c'è stato nella seconda
+
+899
+00:57:58,240 --> 00:57:59,120
+guerra mondiale.
+
+900
+00:57:59,120 --> 00:58:00,840
+I primi tentativi di decollo.
+
+901
+00:57:59,840 --> 00:58:06,360
+L'aereo andava cadava al suolo, proprio per questo motivo.
+
+902
+00:58:06,680 --> 00:58:12,280
+Tant'è vero che poi nel mondo, diciamo, degli aeroplani.
+
+903
+00:58:12,280 --> 00:58:16,680
+Le checklist sono ovunque e proprio salvano la vita, nel senso che
+
+904
+00:58:16,840 --> 00:58:22,040
+probabilmente un aereo non potrebbe, soprattutto quelli grossi, diciamo, non possono volare
+
+905
+00:58:22,520 --> 00:58:27,720
+senza un controllo e senza avere tutta una serie di procedure, proprio
+
+906
+00:58:27,720 --> 00:58:32,680
+perché nel momento di difficoltà, seguire semplicemente la checklist vuol dire anche
+
+907
+00:58:33,640 --> 00:58:36,360
+evitare di andare in panico e così via.
+
+908
+00:58:36,360 --> 00:58:42,360
+Quindi sicuramente è un ottimo metodo, quello che ti ha suggerito Rino.
+
+909
+00:58:42,520 --> 00:58:44,360
+Sì, sì, assolutamente sì.
+
+910
+00:58:44,360 --> 00:58:47,480
+Ho aggiunto ancora un paio di pagine.
+
+911
+00:58:47,480 --> 00:58:51,880
+In realtà, una è una pagina che si chiama la roadmap dei
+
+912
+00:58:51,880 --> 00:58:56,520
+contenuti, ovvero tutto ciò che vorrei pubblicare, ma che non riesco per
+
+913
+00:58:56,520 --> 00:58:57,640
+motivi di tempo.
+
+914
+00:58:57,640 --> 00:59:02,040
+Quindi è una semplice Kanban dove io appunto delle idee e ho
+
+915
+00:59:02,040 --> 00:59:07,720
+suddiviso la Kanban in contenuti non partiti, oppure quelli in progresso su
+
+916
+00:59:07,720 --> 00:59:11,640
+cui sto lavorando, e quelli completati, e vi dico semplicemente che quelli
+
+917
+00:59:11,640 --> 00:59:15,240
+completati non sono nemmeno un terzo di quello che devo ancora iniziare,
+
+918
+00:59:15,240 --> 00:59:19,720
+giusto per dare un'idea di quello che devo ancora fare.
+
+919
+00:59:20,200 --> 00:59:24,120
+Invece, un'altra cosa che, come vi dicevo, in questo caso un database,
+
+920
+00:59:24,120 --> 00:59:28,680
+ma mi è servito più che altro per riuscire ad avere una
+
+921
+00:59:28,680 --> 00:59:32,600
+vista un po' più particolare rispetto a quello che garantisce una tabella,
+
+922
+00:59:32,600 --> 00:59:36,280
+semplicemente perché la tabella in notion viene vista proprio come una tabella
+
+923
+00:59:36,280 --> 00:59:38,600
+semplice con campo libero di testo.
+
+924
+00:59:38,760 --> 00:59:42,200
+In questo caso mi sono fatto una tabella del cosa che voglio
+
+925
+00:59:42,200 --> 00:59:46,720
+pubblicare, è abbastanza banale come cosa, ma la questione è che è
+
+926
+00:59:46,720 --> 00:59:49,520
+così banale che, se però non la tengo d'occhio mi perdo le
+
+927
+00:59:49,520 --> 00:59:50,080
+cose.
+
+928
+00:59:50,080 --> 00:59:54,720
+Giusto per darvi un'idea, se io ho qualcosa che ho creato e
+
+929
+00:59:54,720 --> 01:00:00,560
+voglio distribuirlo, io mi sono segnato il nome del contenuto creato.
+
+930
+01:00:00,560 --> 01:00:04,080
+Poi mi metto il link a cui fa eventualmente riferimento.
+
+931
+01:00:04,080 --> 01:00:09,120
+Poi ci sono una bellezza di otto parti in cui devo pubblicarle.
+
+932
+01:00:09,120 --> 01:00:12,640
+Quindi ho una casella di controllo che spunto ogni volta in modo
+
+933
+01:00:12,640 --> 01:00:14,320
+tale che io riesca a seguirlo.
+
+934
+01:00:14,320 --> 01:00:17,680
+E poi ho la famosissima in fondo che mi torna utilissimo, che
+
+935
+01:00:17,680 --> 01:00:21,600
+è diciamo la casella di controllo chiamata archiviare.
+
+936
+01:00:21,920 --> 01:00:27,120
+Ovviamente anche questa è una cosa interessante perché, essendo un database, non
+
+937
+01:00:27,120 --> 01:00:30,560
+ve l'ho detto prima, ma c'è anche in questo caso la stessa
+
+938
+01:00:30,560 --> 01:00:34,560
+cosa che si può ripetere per la lista di to-do con le
+
+939
+01:00:34,560 --> 01:00:37,680
+viste personalizzate sulle aree di lavoro.
+
+940
+01:00:37,680 --> 01:00:42,880
+È che se voi spuntate la casella archiviare, potete fare in modo
+
+941
+01:00:42,880 --> 01:00:48,400
+che una volta che è spuntata questa casella, il to-do vada via,
+
+942
+01:00:48,400 --> 01:00:50,720
+oppure in questo caso il contenuto.
+
+943
+01:00:50,720 --> 01:00:51,360
+Questo perché?
+
+944
+01:00:51,360 --> 01:00:54,720
+Perché essenzialmente si tratta di una vista filtrata che ti dice tutto
+
+945
+01:00:54,720 --> 01:01:00,560
+quello che è spuntato come archiviato, non farvelo vedere, quindi riuscite a
+
+946
+01:01:00,560 --> 01:01:05,120
+mantenere il controllo di queste cose anche in modo molto visuale.
+
+947
+01:01:05,120 --> 01:01:09,760
+Visto che la cosa si è evoluta dalla pagina, l'ho fatta trasformare
+
+948
+01:01:10,000 --> 01:01:13,200
+in una toggle list, ovvero che si può aprire e chiudere semplicemente
+
+949
+01:01:13,200 --> 01:01:16,880
+con la freccetta, altra cosa interessante di Notion è che voi potete
+
+950
+01:01:16,880 --> 01:01:22,640
+passare facilmente da un oggetto all'altro, semplicemente convertendolo, cioè da testo a
+
+951
+01:01:22,640 --> 01:01:26,320
+to-do, da to-do a ne so, toggle.
+
+952
+01:01:26,720 --> 01:01:30,840
+Da una vista toggle, potete farla diventare addirittura un database e via
+
+953
+01:01:30,840 --> 01:01:31,640
+discorrendo.
+
+954
+01:01:29,920 --> 01:01:33,160
+Quindi è molto flessibile.
+
+955
+01:01:33,320 --> 01:01:37,240
+Questa flessibilità mi ha spaventato molto all'inizio, ma una volta che avete
+
+956
+01:01:37,240 --> 01:01:41,720
+capito i meccanismi, riuscite anche a trovare il modo per piegarlo alle
+
+957
+01:01:41,720 --> 01:01:45,000
+vostre utilità di lavoro e della vita.
+
+958
+01:01:45,320 --> 01:01:47,960
+Aggiungo soltanto un paio di cose.
+
+959
+01:01:48,600 --> 01:01:50,680
+Adesso andiamo anche a chiudere.
+
+960
+01:01:50,680 --> 01:01:57,880
+Una cosa che ho appurato quest'anno, o meglio, la fine dell'anno scorso,
+
+961
+01:01:57,880 --> 01:02:02,360
+sempre sul metodo Reynolds, chiamiamolo così, ovvero il template di Eri, che
+
+962
+01:02:02,520 --> 01:02:04,280
+non ho esplorato ancora tutto.
+
+963
+01:02:04,280 --> 01:02:08,520
+Vi dico questo perché c'è anche uno standard operation program per i
+
+964
+01:02:08,520 --> 01:02:11,880
+progetti di architettura ed è qualcosa di veramente lunghissimo.
+
+965
+01:02:11,880 --> 01:02:16,120
+Prende in considerazione un milione di aspetti del progetto di architettura, e
+
+966
+01:02:16,120 --> 01:02:20,920
+prima o poi esplorerò anche quello, ma diciamo che mi sono contenuto
+
+967
+01:02:21,080 --> 01:02:26,600
+e quest'anno ho contenuto, e quest'anno ho guardato, diciamo, la parte degli
+
+968
+01:02:26,600 --> 01:02:28,440
+obiettivi del 2023.
+
+969
+01:02:28,440 --> 01:02:35,080
+La cosa molto particolare di questa pagina che ha creato Reynolds ed
+
+970
+01:02:35,080 --> 01:02:41,560
+è molto chiamiamolo così molto personale, perché vi obbliga a fare essenzialmente
+
+971
+01:02:42,040 --> 01:02:46,520
+un riassunto corto ma molto tagliente di quello che avete fatto nell'anno
+
+972
+01:02:46,520 --> 01:02:47,240
+precedente.
+
+973
+01:02:47,240 --> 01:02:50,280
+Ovvero la prima cosa che a me è piaciuta tantissimo sono state
+
+974
+01:02:50,280 --> 01:02:54,520
+le lezioni apprese nel 2022, che in effetti è la prima cosa
+
+975
+01:02:54,520 --> 01:02:59,320
+a cui bisogna pensare, cosa mi porto a casa da questo 2022,
+
+976
+01:02:59,320 --> 01:03:03,160
+del bene o del male, ovviamente, perché ci sono tutti degli aspetti
+
+977
+01:03:03,160 --> 01:03:04,040
+della vita.
+
+978
+01:03:04,040 --> 01:03:10,040
+Poi ci sono un altro, diciamo, parte che riguarda gli obiettivi professionali.
+
+979
+01:03:10,040 --> 01:03:14,840
+Essenzialmente, voi dovete mettere degli obiettivi professionali che vi volete inserire, ma
+
+980
+01:03:15,040 --> 01:03:19,760
+la cosa che a me è stata molto sorprendente perché non l'avevo
+
+981
+01:03:19,760 --> 01:03:24,080
+mai fatto, è quello di tenere d'occhio gli obiettivi finanziari.
+
+982
+01:03:24,080 --> 01:03:26,080
+Obiettivi finanziari che è abbastanza semplice.
+
+983
+01:03:26,080 --> 01:03:32,080
+Che detto così, sembra una cosa particolarmente difficile, ma ovviamente Eric, essendo
+
+984
+01:03:32,080 --> 01:03:36,640
+molto pratico, essendo molto pulito nelle sue decisioni, lui cosa ti chiede?
+
+985
+01:03:36,880 --> 01:03:42,320
+Ok, dimmi quanto vuoi guadagnare durante l'anno corrente, che ne so, facciamo
+
+986
+01:03:42,320 --> 01:03:47,600
+un esempio banale: diciamo 8.000 euro l'anno, lui cosa ha detto?
+
+987
+01:03:47,600 --> 01:03:53,120
+Ok, questo i tuoi 8.000 euro all'anno lo suddivisi per trimestri perché
+
+988
+01:03:53,120 --> 01:03:59,200
+sono quattro righe, lo suddividi per trimestre, quindi tu hai l'importo teorico
+
+989
+01:03:59,200 --> 01:04:04,000
+al trimestre che dovresti guadagnare per riuscire a mantenere questo tuo obiettivo.
+
+990
+01:04:04,000 --> 01:04:04,960
+E cosa ha fatto?
+
+991
+01:04:04,960 --> 01:04:08,000
+Giustamente perché tu dici questa cosa qua la fai all'inizio dell'anno.
+
+992
+01:04:08,000 --> 01:04:08,800
+Lui cosa ha fatto?
+
+993
+01:04:08,960 --> 01:04:13,600
+Ha inserito un reminder automatico per ogni trimestre.
+
+994
+01:04:13,600 --> 01:04:15,120
+Quindi, sicuramente
+
+995
+01:04:16,240 --> 01:04:19,280
+a marzo a fine marzo mi salterà fuori questo reminder che mi
+
+996
+01:04:19,280 --> 01:04:21,440
+dice: Ok, fermati un attimo.
+
+997
+01:04:21,440 --> 01:04:24,240
+A quanto sei arrivato di fatturato in questo trimestre?
+
+998
+01:04:24,240 --> 01:04:27,200
+E più o meno a quello che ti eri prefissato, in modo
+
+999
+01:04:27,200 --> 01:04:33,680
+tale che tu riesci a seguirti praticamente in modo automatico l'andamento del
+
+1000
+01:04:33,680 --> 01:04:37,600
+tuo fatturato e metterti o in allarme o farti capire che stai
+
+1001
+01:04:37,600 --> 01:04:42,160
+andando molto bene perché stai guadagno di più oppure sei semplicemente allineato.
+
+1002
+01:04:42,160 --> 01:04:44,080
+Niente di più, niente di meno.
+
+1003
+01:04:44,080 --> 01:04:47,600
+Un'altra cosa che è stata aggiunta sono gli obiettivi personali e poi
+
+1004
+01:04:47,600 --> 01:04:50,880
+le eventuali abitudini da coltivare e via discorrendo.
+
+1005
+01:04:50,880 --> 01:04:56,720
+Ovviamente, queste sono cose molto personali che ognuno deve vedere per la
+
+1006
+01:04:56,720 --> 01:04:58,480
+propria vita e compilarselo.
+
+1007
+01:04:58,640 --> 01:05:00,000
+Secondo me è molto interessante.
+
+1008
+01:05:00,840 --> 01:05:05,480
+E soprattutto questa parte del template di Eric per me è stato
+
+1009
+01:05:05,800 --> 01:05:09,560
+veramente a fine anno qualcosa che mi ha aperto un po' la
+
+1010
+01:05:09,560 --> 01:05:13,400
+testa, nel senso che, avendo un po' di tempo, chiamiamolo così, anche
+
+1011
+01:05:13,400 --> 01:05:17,000
+perché non sono stato bene un attimo di tempo per ragionare, ce
+
+1012
+01:05:17,000 --> 01:05:18,600
+l'ho avuto quest'anno.
+
+1013
+01:05:18,920 --> 01:05:21,800
+Conseguentemente, sono riuscito anche a mettermi a posto questa cosa.
+
+1014
+01:05:21,880 --> 01:05:26,680
+Voglio vedere se nel corso dell'anno mi aiuta o no questo tipo
+
+1015
+01:05:27,000 --> 01:05:32,840
+diciamo di controllo degli aspetti della propria vita in qualche modo.
+
+1016
+01:05:32,840 --> 01:05:35,320
+E secondo me può diventare davvero utili.
+
+1017
+01:05:35,320 --> 01:05:40,440
+Come vedete anche qui con una semplice database che voi piegate al
+
+1018
+01:05:40,440 --> 01:05:45,880
+vostro, diciamo utilizzo quel database, che non è una semplice tabella, quella
+
+1019
+01:05:45,880 --> 01:05:48,360
+che ha fatto Renus, è proprio un database, ma che non serve
+
+1020
+01:05:48,360 --> 01:05:54,520
+come database, serve semplicemente per utilizzare alcune funzioni del database per riuscire
+
+1021
+01:05:54,520 --> 01:05:58,600
+ad avere, ad esempio, un semplice reminder e avere uno schema grafico
+
+1022
+01:05:58,600 --> 01:06:01,880
+di quello che come sta andando il vostro fatturato.
+
+1023
+01:06:01,880 --> 01:06:05,480
+Come vi dicevo, adesso andando verso la chiusura, sto cercando un po'
+
+1024
+01:06:05,480 --> 01:06:09,080
+di tagliare e sto anche un po' correndo, ma immagino che abbiate
+
+1025
+01:06:09,560 --> 01:06:14,600
+capito bene o male come utilizzare notion e spero di avervi dato
+
+1026
+01:06:14,920 --> 01:06:20,120
+parecchi spunti di riflessione e soprattutto di modi di utilizzare notion per
+
+1027
+01:06:20,120 --> 01:06:23,640
+il vostro lavoro, per la vostra vita professionale, per la vostra vita
+
+1028
+01:06:23,880 --> 01:06:24,760
+semplice.
+
+1029
+01:06:25,000 --> 01:06:29,800
+Perché comunque considerate che in linea generale, io, ad esempio, ho delle
+
+1030
+01:06:29,800 --> 01:06:33,880
+standard operation program che riguardano una cosa banale come la bicicletta.
+
+1031
+01:06:33,880 --> 01:06:38,520
+Ci sono certe cose che devo controllare, come ingrassare la catena, che
+
+1032
+01:06:38,520 --> 01:06:41,240
+magari nel corso della stagione ce l'ho bene in mente perché lo
+
+1033
+01:06:41,240 --> 01:06:42,360
+faccio tutte le volte.
+
+1034
+01:06:42,360 --> 01:06:47,200
+Magari passa la stagione dopo e ti viene subito di dire cacchio,
+
+1035
+01:06:47,200 --> 01:06:47,840
+come faccio?
+
+1036
+01:06:47,840 --> 01:06:52,080
+Come facevo l'anno scorso a ingrassare la catena in modo così bene
+
+1037
+01:06:52,320 --> 01:06:54,960
+così che ci perdo poco tempo.
+
+1038
+01:06:55,520 --> 01:06:59,120
+Ad esempio, materiale utilizzavo per ingrassare e via discorrendo.
+
+1039
+01:06:59,120 --> 01:07:04,320
+Quindi, la standard operation program diventa utile anche nelle minime cose.
+
+1040
+01:07:04,320 --> 01:07:07,680
+E spero che questo sia una scintilla che vi lasciamo qui in
+
+1041
+01:07:07,680 --> 01:07:11,520
+A2 Podcast per riuscire a portare avanti anche il vostro metodo
+
+1042
+01:07:11,520 --> 01:07:13,520
+di lavoro su Notion.
+
+1043
+01:07:13,840 --> 01:07:18,080
+Come vi dicevo, Notion ha la possibilità di condividere queste pagine, avete
+
+1044
+01:07:18,080 --> 01:07:20,400
+anche la possibilità di pubblicare una pagina web.
+
+1045
+01:07:20,400 --> 01:07:26,080
+Credo che buona parte delle guide che ci sono, del sito di
+
+1046
+01:07:26,080 --> 01:07:30,480
+Notion è creato con Notion, secondo me, dall'interfaccia che vedo.
+
+1047
+01:07:31,200 --> 01:07:33,040
+Sì, sì, è fatto proprio così.
+
+1048
+01:07:33,040 --> 01:07:36,640
+È spaziale, se ci pensi alle cose che puoi fare, è veramente
+
+1049
+01:07:36,640 --> 01:07:40,640
+pauroso perché ti puoi perdere in un attimo a fare un milione
+
+1050
+01:07:40,640 --> 01:07:41,440
+di cose.
+
+1051
+01:07:41,440 --> 01:07:45,120
+Ma in ogni caso, andando verso la parte finale, abbiamo parlato di
+
+1052
+01:07:45,120 --> 01:07:49,200
+tutte le belle cose che si possono fare con Notion, ma c'è
+
+1053
+01:07:49,200 --> 01:07:53,600
+una piccola particolarità che secondo me stride un po'.
+
+1054
+01:07:53,760 --> 01:07:55,360
+Adesso ve la spiego.
+
+1055
+01:07:55,360 --> 01:07:59,120
+Essendo, diciamo, un fortunato possessore di
+
+1056
+01:08:00,320 --> 01:08:03,920
+un portatile e due device che uno è un iPhone e un
+
+1057
+01:08:03,920 --> 01:08:08,080
+altro un iPad, vedo la differenza tra questi tre device.
+
+1058
+01:08:08,080 --> 01:08:15,040
+Vedo che dal punto di vista produttivo e della realizzazione e l'utilizzo
+
+1059
+01:08:15,040 --> 01:08:20,400
+di Notion trovo che sia molto molto molto ben incentrato sul Mac.
+
+1060
+01:08:20,640 --> 01:08:26,000
+Mentre trovo che sull'iPhone sia molto molto incentrato invece sulla visualizzazione di
+
+1061
+01:08:26,000 --> 01:08:30,000
+quello che state facendo, oppure per prendere delle note in modo veloce.
+
+1062
+01:08:30,200 --> 01:08:35,320
+Secondo me queste sono decisamente centrate come cose, perché in effetti inserire
+
+1063
+01:08:35,320 --> 01:08:40,760
+tante nozioni, chiamiamole così, all'interno di queste varie particolarità che sono all'interno
+
+1064
+01:08:40,760 --> 01:08:46,120
+dei database, mettere delle cose grafiche, insomma, gestire la questione diventa molto
+
+1065
+01:08:46,120 --> 01:08:50,520
+facile all'interno del Mac, decisamente un po' più difficile all'interno di un
+
+1066
+01:08:50,520 --> 01:08:51,000
+iPhone.
+
+1067
+01:08:51,000 --> 01:08:54,360
+Non dico che non si possa fare, ma gli spazi sono decisamente
+
+1068
+01:08:54,360 --> 01:08:55,320
+ridotti.
+
+1069
+01:08:55,320 --> 01:08:59,640
+Ma d'altra parte ho notato che anche la differenza tra iPad e
+
+1070
+01:08:59,640 --> 01:09:04,920
+iPhone è marcata, perché ad esempio su iPhone, giusto perché gli spazi
+
+1071
+01:09:04,920 --> 01:09:09,800
+sono ridotti, ho avuto un'idea geniale, che è quello di mettere nelle
+
+1072
+01:09:09,800 --> 01:09:14,120
+ultime versioni dell'applicazione, che è una web app, ma comunque è un'applicazione,
+
+1073
+01:09:14,360 --> 01:09:19,400
+nel mettere nella parte alta tutte le pagine che avete consultato recentemente,
+
+1074
+01:09:19,400 --> 01:09:21,720
+un po' come i file recenti.
+
+1075
+01:09:22,040 --> 01:09:25,240
+Questo vi permette in modo visuale, in modo veramente facile, di trovare
+
+1076
+01:09:25,240 --> 01:09:28,920
+le pagine che avete appena consultato che potete modificare al volo, cosa
+
+1077
+01:09:29,080 --> 01:09:33,560
+che su Mac non c'è e non c'è nemmeno su iPad.
+
+1078
+01:09:33,880 --> 01:09:37,080
+Ma non è finita qua le differenze, secondo me, è una cosa
+
+1079
+01:09:37,080 --> 01:09:42,360
+dove devono veramente migliorare in modo esponenziale l'applicazione proprio su iPad, che
+
+1080
+01:09:42,360 --> 01:09:44,440
+mi sembra un po' lasciata se stessa.
+
+1081
+01:09:44,760 --> 01:09:47,960
+Vi troverete probabilmente nelle mie stesse condizioni.
+
+1082
+01:09:48,280 --> 01:09:52,200
+Ad esempio, se utilizzate una pencil vi verrebbe di mettere un segno
+
+1083
+01:09:52,200 --> 01:09:55,640
+di spunta sul to-do che avete appena fatto e non lo potete
+
+1084
+01:09:55,640 --> 01:09:57,640
+fare perché non lo capisce.
+
+1085
+01:09:57,640 --> 01:10:01,800
+Semplicemente il segno di spunta su un to-do non lo capisce, lo
+
+1086
+01:10:01,800 --> 01:10:06,600
+prende, magari delle volte vi mette uno spazio, delle volte lo capisce
+
+1087
+01:10:06,600 --> 01:10:08,680
+come un cancellare qualcosa.
+
+1088
+01:10:08,680 --> 01:10:12,680
+E quindi vedete che la web app ha dei punti di forza,
+
+1089
+01:10:12,680 --> 01:10:16,560
+ma nel momento in cui viene costretta a interagire con qualcosa come
+
+1090
+01:10:14,920 --> 01:10:20,880
+l'Ay Pop Pencil, incomincia a zoppicare a perdere i pezzi.
+
+1091
+01:10:21,120 --> 01:10:26,000
+È un grosso problema, secondo mio punto di vista, perché devono sviluppare
+
+1092
+01:10:26,000 --> 01:10:32,000
+molto la parte di iPad, perché tante cose non si riescono nemmeno
+
+1093
+01:10:32,000 --> 01:10:34,800
+a fare con l'iPad se non hai una tastiera.
+
+1094
+01:10:34,800 --> 01:10:39,040
+I menu sì, ci sono, devi dammare spesso tra i menu, ma
+
+1095
+01:10:39,040 --> 01:10:43,520
+certe cose semplici che all'interno di un Mac diventano semplicissime.
+
+1096
+01:10:43,520 --> 01:10:47,280
+Se non hai una tastiera su un iPad diventano complicate perché se
+
+1097
+01:10:47,280 --> 01:10:50,880
+hai una via di mezzo tra l'iphone che è per la consultazione,
+
+1098
+01:10:50,880 --> 01:10:55,040
+non per creare delle cose, e invece il Mac ti permette di
+
+1099
+01:10:55,040 --> 01:10:59,200
+creare tantissime cose che invece sull'iPad, non cercate di fare intendere, ma
+
+1100
+01:10:59,200 --> 01:11:02,000
+spesso con la sola tastiera che avete a video non riuscite a
+
+1101
+01:11:02,000 --> 01:11:06,240
+farlo, perché magari avete bisogno di qualcosa che somigli più a un
+
+1102
+01:11:06,240 --> 01:11:09,360
+Mac perché avete una tastiera e riuscite a fare più cose, perché
+
+1103
+01:11:09,520 --> 01:11:13,280
+ci sono delle abbrevazioni della tastiera che non vengono, anzi, che non
+
+1104
+01:11:13,280 --> 01:11:18,960
+possono essere richiamate facilmente in modo semplice all'interno della tastiera che avete
+
+1105
+01:11:19,360 --> 01:11:20,240
+sull'iPad.
+
+1106
+01:11:20,240 --> 01:11:24,000
+Purtroppo queste cose che vi sto dicendo sono difficili da comprendere se
+
+1107
+01:11:24,720 --> 01:11:26,400
+non utilizzate tutti e tre i sistemi.
+
+1108
+01:11:26,640 --> 01:11:31,040
+Se no, vi cadono un po', diciamo, dette così, senza
+
+1109
+01:11:32,800 --> 01:11:37,120
+un giustificativo concreto perché dovrei avere un iPad e farlo vedere lì
+
+1110
+01:11:37,120 --> 01:11:37,680
+sul momento.
+
+1111
+01:11:38,320 --> 01:11:44,000
+Hai un iPad piccolo, ma sull'iPad grande che ha la tastiera completa,
+
+1112
+01:11:44,000 --> 01:11:46,160
+probabilmente il problema non ce l'ha.
+
+1113
+01:11:46,480 --> 01:11:48,720
+Probabilmente non lo so, dovrei provarlo.
+
+1114
+01:11:48,720 --> 01:11:52,480
+Ma diciamo mettiamola così, sugli iPad piccoli, è un po' di difficile
+
+1115
+01:11:52,480 --> 01:11:53,760
+da utilizzare.
+
+1116
+01:11:53,760 --> 01:11:57,040
+L'altra cosa che invece, secondo me, è un'altra bella mancanza: è che
+
+1117
+01:11:57,040 --> 01:12:01,320
+se voi utilizzate le Pole Pensi, potete sì, scrivere con il famoso
+
+1118
+01:12:01,560 --> 01:12:05,560
+metodo di riconoscimento della scrittura che vi trasforma la vostra scrittura in
+
+1119
+01:12:05,560 --> 01:12:10,920
+testo, ma non potete fare nient'altro: esatto, con Scribo, ma non potete
+
+1120
+01:12:10,920 --> 01:12:11,960
+fare nient'altro.
+
+1121
+01:12:11,960 --> 01:12:13,480
+Volete fare un disegno?
+
+1122
+01:12:13,480 --> 01:12:15,640
+Provateci, poi mi dite come va.
+
+1123
+01:12:15,800 --> 01:12:18,760
+Se volete farvi un appunto con un disegno, poi mi dice come
+
+1124
+01:12:18,760 --> 01:12:23,080
+va su Notion, ecco quello che manca su Notion, ad esempio, delle
+
+1125
+01:12:23,080 --> 01:12:27,960
+aree dedicate dove voi potete disegnare semplicemente con l'Apple Pencil.
+
+1126
+01:12:27,960 --> 01:12:30,040
+Prendere un appunto, ad esempio.
+
+1127
+01:12:30,040 --> 01:12:34,440
+E tutte queste cose qua ne parleremo poi di un'altra puntata, l'ho
+
+1128
+01:12:34,440 --> 01:12:37,720
+preso e l'ho trasferito in Toto in free form in modo tale
+
+1129
+01:12:37,720 --> 01:12:41,320
+che purtroppo in questo momento, essendo un forte utilizzatore di Notion, non
+
+1130
+01:12:41,320 --> 01:12:46,600
+posso permettermi di cambiare applicazione, ma per riuscire a sopperire a questa
+
+1131
+01:12:46,600 --> 01:12:50,520
+mancanza di notion, io ho trovato un forte alleato in free form.
+
+1132
+01:12:50,520 --> 01:12:54,760
+E vi dico che è molto interessante perché su freeform posso mettere
+
+1133
+01:12:54,760 --> 01:12:59,800
+veramente tantissime informazioni appese con la penna, che mi rendo conto addirittura
+
+1134
+01:12:59,960 --> 01:13:04,040
+che una cosa che ho visto recentemente è che se io devo
+
+1135
+01:13:04,040 --> 01:13:09,160
+trasformare le cose che mi sono segnato in modo veramente semplice, magari
+
+1136
+01:13:09,160 --> 01:13:13,080
+durante le chiamate mi segno con la penna delle cose sul tablet.
+
+1137
+01:13:13,400 --> 01:13:17,160
+Trasferirlo sul computer ci metto più tempo, cioè ci ho messo meno
+
+1138
+01:13:17,160 --> 01:13:19,880
+tempo a prenderla appunto che a trasferirlo su Notion.
+
+1139
+01:13:19,880 --> 01:13:24,520
+È una cosa molto particolare e secondo me ci vorrebbe una cras
+
+1140
+01:13:24,520 --> 01:13:28,440
+tra queste due forme di presa di appunti, perché secondo me è
+
+1141
+01:13:28,440 --> 01:13:31,640
+un aspetto ancora da migliorare.
+
+1142
+01:13:31,640 --> 01:13:35,320
+Ultima cosa, e una cosa interessante che è stata aggiunta in versione
+
+1143
+01:13:35,320 --> 01:13:39,000
+beta, è che io mi sono iscritto recentemente: cioè mi sono iscritto
+
+1144
+01:13:39,000 --> 01:13:42,920
+qualche tempo fa e mi hanno dato l'accesso recentemente a questa beta
+
+1145
+01:13:42,920 --> 01:13:49,360
+di Notion che parla dell'intelligenza artificiale, ovvero hanno inserito un'intelligenza artificiale, o
+
+1146
+01:13:49,360 --> 01:13:54,960
+meglio, l'utilizzo di un'intelligenza artificiale all'interno di Notion, che ti permette ti
+
+1147
+01:13:54,960 --> 01:13:57,840
+permette di farti aiutare nel lavoro che stai facendo.
+
+1148
+01:13:57,840 --> 01:14:01,040
+Per esempio, ti può suggerire delle parole, ti può suggerire
+
+1149
+01:14:02,480 --> 01:14:03,840
+una lista di cose da fare.
+
+1150
+01:14:03,840 --> 01:14:07,600
+Per esempio, stai facendo il to-do e lui continua a suggerire delle
+
+1151
+01:14:07,600 --> 01:14:10,400
+cose da fare seguendo il contesto.
+
+1152
+01:14:10,400 --> 01:14:14,000
+Ma la cosa molto interessante che mi ha stupito molto e che,
+
+1153
+01:14:14,000 --> 01:14:19,360
+essendo un notion, anche molto facile da utilizzare per scrivere degli articoli,
+
+1154
+01:14:19,360 --> 01:14:24,800
+solo io, probabilmente perché sono un purista del Markdown, mi dà un
+
+1155
+01:14:24,800 --> 01:14:25,520
+po' fastidio.
+
+1156
+01:14:25,520 --> 01:14:29,680
+Ma in realtà, se riuscite a chiudere un occhio e utilizzare notion
+
+1157
+01:14:29,680 --> 01:14:34,800
+per scrivere gli articoli, ha una funzione simile a quella di ChatGPT:
+
+1158
+01:14:34,800 --> 01:14:38,960
+questa intelligenza artificiale che vi permette di scrivere degli articoli se gli
+
+1159
+01:14:38,960 --> 01:14:43,280
+chiedete di farlo seguendo un soggetto oppure dando delle indicazioni.
+
+1160
+01:14:43,280 --> 01:14:46,480
+Io li ho messi alla prova entrambi, ho chiesto, ad esempio, a
+
+1161
+01:14:46,480 --> 01:14:50,640
+ChatGPT se mi poteva fare un riassunto delle ultime novità Apple che
+
+1162
+01:14:50,640 --> 01:14:53,040
+riguardano Apple Silicon M2 e
+
+1163
+01:14:54,480 --> 01:14:58,240
+Chat GPT ha detto semplicemente che non era ancora uscito.
+
+1164
+01:14:58,240 --> 01:14:59,120
+Questo perché?
+
+1165
+01:14:59,120 --> 01:15:03,920
+Perché ChatGPT è stato allenato su una base date vecchia, mi sembra
+
+1166
+01:15:03,920 --> 01:15:08,240
+del 2021 per tutto il 2021, quindi si è perso essenzialmente tutto
+
+1167
+01:15:08,240 --> 01:15:10,400
+quello che è successo nel 2022.
+
+1168
+01:15:10,560 --> 01:15:16,560
+Lato negativo che bisogna ricordare di questa chiamiamola così intelligenza artificiale, ma
+
+1169
+01:15:17,040 --> 01:15:21,680
+non è il suo nome giusto, è essenzialmente un modello semantico che
+
+1170
+01:15:21,680 --> 01:15:26,560
+cerca di capire quali sono le parole più facilmente collegabili a quello
+
+1171
+01:15:26,560 --> 01:15:27,920
+che state scrivendo in quel momento.
+
+1172
+01:15:28,080 --> 01:15:32,840
+Quindi fa questo tipo di collegamento, non è un'intelligenza artificiale tour, è
+
+1173
+01:15:29,920 --> 01:15:35,240
+essenzialmente un modello semantico, che è ben diverso.
+
+1174
+01:15:35,480 --> 01:15:39,080
+In ogni caso, l'intelligenza artificiale che non sarà né più né meno
+
+1175
+01:15:39,080 --> 01:15:43,960
+come chat GPT, ma la differenza è che quella di Notion è
+
+1176
+01:15:43,960 --> 01:15:48,760
+aggiornata e mi ha spiegato tutte quante differenze delle Polsil M2 messo
+
+1177
+01:15:48,760 --> 01:15:51,560
+sugli Mac Mini e soprattutto mi ha detto che ci sono anche
+
+1178
+01:15:51,560 --> 01:15:56,520
+la versione Pro e Max di M2, che invece secondo chat GPT
+
+1179
+01:15:56,520 --> 01:15:57,400
+non c'erano.
+
+1180
+01:15:57,400 --> 01:16:01,560
+Quindi, cosa molto interessante e che nel programma avete voglia e modo
+
+1181
+01:16:01,560 --> 01:16:05,880
+di farlo, iscrivetevi per la beta perché può tornarvi utile anche in
+
+1182
+01:16:05,880 --> 01:16:09,400
+vari contesti, come sono anche per il semplice fatto di fargli una
+
+1183
+01:16:09,400 --> 01:16:13,800
+domanda di qualcosa che non sapete, o di aiutarvi a spiegare qualcosa
+
+1184
+01:16:13,800 --> 01:16:20,040
+che sapete voi, ma che magari non avete una un'idea, diciamo, di
+
+1185
+01:16:20,040 --> 01:16:21,160
+struttura.
+
+1186
+01:16:21,240 --> 01:16:24,840
+Va bene, direi che a questo punto abbiamo fatto un'ora e mezza,
+
+1187
+01:16:24,840 --> 01:16:28,920
+e quindi direi che il prolisso non sono io.
+
+1188
+01:16:30,120 --> 01:16:37,640
+Sono senza parole e possiamo tendere a chiudere la puntata, ok, benissimo,
+
+1189
+01:16:37,960 --> 01:16:44,600
+come sempre, potete scriverci, se avete delle domande su quello che abbiamo
+
+1190
+01:16:44,600 --> 01:16:48,680
+fatto, o se volete proporci degli argomenti o semplicemente entrare in contatto
+
+1191
+01:16:48,680 --> 01:16:49,000
+con noi.
+
+1192
+01:16:49,000 --> 01:16:54,280
+L'indirizzo è sempre il solito, scrivi punto a chiocciolapodcast.it, potete supportare il
+
+1193
+01:16:54,280 --> 01:16:56,840
+podcast con simpatica recensione.
+
+1194
+01:16:56,840 --> 01:17:00,920
+Io personalmente bastano anche le stelline, perché mi rendo conto che magari
+
+1195
+01:17:00,920 --> 01:17:03,880
+scrivere quattro parole incominciamo a perdere un po' di tempo, ma le
+
+1196
+01:17:03,880 --> 01:17:08,520
+stelline ci aiuterebbero a salire in classifica, a farci conoscere di più.
+
+1197
+01:17:08,520 --> 01:17:12,840
+E poi, se volete scriverci qualcosa, potete scrivercelo anche direttamente con l'indirizzo
+
+1198
+01:17:12,840 --> 01:17:13,720
+che vi ho detto prima.
+
+1199
+01:17:13,720 --> 01:17:17,760
+Se non sapete come fare una recensione vi lasciamo il link nella
+
+1200
+01:17:17,920 --> 01:17:21,680
+note dell'episodio per una guida che ha fatto il nostro grandissimo Filippo
+
+1201
+01:17:21,840 --> 01:17:27,280
+Strozzi e come sempre grazie al nostro Filippo Strozzi, perché se aspettate
+
+1202
+01:17:27,360 --> 01:17:30,960
+me campa cavallo che l'erba cresce, trovate tutte le note dell'episodio con
+
+1203
+01:17:30,960 --> 01:17:34,640
+il link degli argomenti che abbiamo parlato e tutto quello che riguarda
+
+1204
+01:17:34,640 --> 01:17:40,880
+la puntata all'interno dell'indirizzo A2 Podcast anzi, scusate, a due podcast.it
+
+1205
+01:17:41,120 --> 01:17:44,720
+slash 53 o meglio slash 53.
+
+1206
+01:17:44,720 --> 01:17:48,480
+Dove ci potete trovare sottoscritto mi potete trovare sul mio blog personale
+
+1207
+01:17:48,640 --> 01:17:55,360
+che si chiama Mac e Architettura all'indirizzo marc.net.wordpress.com.
+
+1208
+01:17:55,360 --> 01:18:01,200
+Mi potete trovare sul mio podcast personale dedicato all'architettura e alla tecnologia
+
+1209
+01:18:01,280 --> 01:18:04,240
+che si chiama Snap Architettura Imparfetta.
+
+1210
+01:18:04,240 --> 01:18:07,600
+Mi potete trovare anche sul mio canale YouTube Neonato, che si chiama
+
+1211
+01:18:07,680 --> 01:18:09,120
+Architetto Digitale.
+
+1212
+01:18:09,120 --> 01:18:14,560
+Mi potete trovare anche sul podcast di Grafisoft Italia che si chiama
+
+1213
+01:18:14,560 --> 01:18:20,560
+Archicard Talks, dove intervistiamo essenzialmente delle persone che si occupano di architettura
+
+1214
+01:18:20,560 --> 01:18:24,000
+e utilizzano gli strumenti di Grafisoft, ovvero Archicad.
+
+1215
+01:18:24,000 --> 01:18:28,480
+E poi ovviamente mi trovate anche sul blog di Graphisoft Italia dove
+
+1216
+01:18:28,480 --> 01:18:33,360
+vi racconto un po' le vicissitudini, qualche consiglio e vi discorrendo della
+
+1217
+01:18:33,360 --> 01:18:37,840
+vita del progettista che utilizza appunto Archicad nella propria professione.
+
+1218
+01:18:37,840 --> 01:18:40,800
+Mi pare di aver detto tutto, mi potete trovare anche su Twitter
+
+1219
+01:18:40,800 --> 01:18:44,080
+o LinkedIn in base a quello che vi viene comodo.
+
+1220
+01:18:44,080 --> 01:18:46,400
+Invece, il nostro Filippo, dove lo troviamo?
+
+1221
+01:18:48,320 --> 01:18:55,440
+Allora, suddivisi tra concentrazione e dispersione, ci sentiamo tra due settimane.
+
+1222
+01:18:55,440 --> 01:18:57,440
+Alla prossima.

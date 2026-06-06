@@ -1,0 +1,3915 @@
+1
+00:00:00,160 --> 00:00:06,240
+Benvenuti all'episodio 47 di A 2 Podcast, in cui scoprite come ottenere
+
+2
+00:00:06,240 --> 00:00:08,560
+il massimo dalla vostra tecnologia Apple.
+
+3
+00:00:08,560 --> 00:00:12,000
+Io sono sempre il solito vero Roberto Marin e sono il vostro
+
+4
+00:00:12,000 --> 00:00:14,480
+ospite assieme all'amico Filippo Strozzi.
+
+5
+00:00:14,480 --> 00:00:16,400
+Di cosa parliamo in questa puntata, Filippo?
+
+6
+00:00:16,400 --> 00:00:21,280
+Allora, oggi in questa puntata parleremo e faremo un approfondimento sui sistemi
+
+7
+00:00:21,280 --> 00:00:24,080
+di detatura vocale per i dispositivi Apple.
+
+8
+00:00:24,080 --> 00:00:30,560
+Quindi faremo una carrellata abbastanza dettagliata sia sui dispositivi mobili sia su
+
+9
+00:00:30,720 --> 00:00:34,960
+computer fisso, chiamiamolo così, quindi i Mac.
+
+10
+00:00:35,200 --> 00:00:40,160
+L'idea di fondo mi è nata, diciamo, dal fatto che uno a
+
+11
+00:00:40,160 --> 00:00:44,560
+Roberto piace molto dettare, scrive molto dettando.
+
+12
+00:00:44,720 --> 00:00:50,640
+Io invece, tutte le volte, diciamo, mi riprometto di diventare un dettatore
+
+13
+00:00:50,640 --> 00:00:54,160
+migliore, ma non ci riesco, mettiamoli in questi termini.
+
+14
+00:00:54,160 --> 00:00:58,480
+Ma torniamo alle chiacchiere fatte con Lucio Bragagnolo.
+
+15
+00:00:58,480 --> 00:01:02,320
+Tempo dietro, dove chi è abituato a scrivere fa fatica, tra virgolette,
+
+16
+00:01:02,320 --> 00:01:03,440
+poi a dettare.
+
+17
+00:01:03,440 --> 00:01:04,720
+È vero, è vero.
+
+18
+00:01:04,720 --> 00:01:08,400
+Più che altro che c'è un diverso stile, in effetti è vero,
+
+19
+00:01:08,400 --> 00:01:11,440
+quando tu parli, hai uno stile che è diverso da quello di
+
+20
+00:01:11,440 --> 00:01:12,560
+quando si scrive.
+
+21
+00:01:12,560 --> 00:01:17,120
+E la cosa salta veramente forte come differenza nel momento in cui
+
+22
+00:01:17,120 --> 00:01:19,520
+si applicano queste due metodologie di scrittura.
+
+23
+00:01:19,520 --> 00:01:23,040
+Ed è incredibile, io pensavo di scrivere e parlare nello stesso modo,
+
+24
+00:01:23,040 --> 00:01:24,400
+ma in realtà non è.
+
+25
+00:01:24,800 --> 00:01:29,360
+E in più aggiungiamo che nel momento in cui ascolterete questa puntata,
+
+26
+00:01:29,360 --> 00:01:35,520
+presumibilmente saranno già usciti sistemi operativi nuovi, quindi ai PADOS 16 e
+
+27
+00:01:35,520 --> 00:01:41,120
+macOS Ventura è uscito già invece mentre stiamo registrando, siamo a metà
+
+28
+00:01:41,120 --> 00:01:42,560
+ottobre, praticamente
+
+29
+00:01:43,760 --> 00:01:46,160
+dal nostro punto di vista temporale,
+
+30
+00:01:47,600 --> 00:01:53,280
+è già uscito ai iOS 16 e diciamo l'ulteriore spunto, diciamo, per
+
+31
+00:01:53,280 --> 00:01:57,920
+questa chiacchierata, per questa puntata, è che effettivamente, soprattutto per quanto riguarda
+
+32
+00:01:57,920 --> 00:02:02,920
+iOS 16 e iPadOS 16, ci sono delle notevoli novità per quanto
+
+33
+00:02:02,920 --> 00:02:08,200
+riguarda la dettatura vocale, e ci sembrava giusto fare un approfondimento in
+
+34
+00:02:08,200 --> 00:02:09,640
+questo specifico momento.
+
+35
+00:02:09,880 --> 00:02:14,040
+È caduto a faguolo, come si suol dire esattamente, sono tutte cose
+
+36
+00:02:14,040 --> 00:02:14,360
+nuove.
+
+37
+00:02:14,360 --> 00:02:19,160
+Io, per esempio, non ho ancora installato iOS 16 sul miei device,
+
+38
+00:02:19,160 --> 00:02:23,560
+ne ho uno in realtà il mio iPhone, ma a breve lo
+
+39
+00:02:23,560 --> 00:02:24,440
+installerò.
+
+40
+00:02:24,920 --> 00:02:29,640
+Pensavo di farlo a fine settembre ormai a ottobre inoltrato, penso che
+
+41
+00:02:29,640 --> 00:02:31,800
+aspetterò a questo punto fine ottobre.
+
+42
+00:02:31,800 --> 00:02:36,520
+Attendo come sempre la release.1 del sistema operativo per installarlo, visto che
+
+43
+00:02:36,520 --> 00:02:38,680
+col telefono ci lavoro, ho sentito.
+
+44
+00:02:38,680 --> 00:02:41,800
+La 6.1 uscirà presumibilmente con il PADOS.
+
+45
+00:02:41,800 --> 00:02:44,440
+Quindi, adesso vediamo che cosa succede con APADOS.
+
+46
+00:02:44,680 --> 00:02:49,720
+Perché allo stato, diciamo, allora, devo dire la verità: Stage Manager.
+
+47
+00:02:49,720 --> 00:02:54,600
+Non l'ho più usato quando ho installato l'ultima versione dove c'era la
+
+48
+00:02:54,600 --> 00:02:55,640
+Stage Manager.
+
+49
+00:02:55,640 --> 00:03:01,960
+Ma leggendo i tweet di Viticci allo stato ci sono ancora qualche,
+
+50
+00:03:01,960 --> 00:03:03,880
+c'è qualche piccolo problemino.
+
+51
+00:03:03,880 --> 00:03:06,520
+Diciamo ancora con stage manager per le pad.
+
+52
+00:03:06,520 --> 00:03:08,520
+Quindi, vediamo che cosa succederà.
+
+53
+00:03:08,520 --> 00:03:11,160
+Teoricamente, è previsto un evento a fine ottobre.
+
+54
+00:03:11,160 --> 00:03:17,320
+Un evento, un addirittura si vocifera semplicemente un annuncio e basta senza
+
+55
+00:03:17,320 --> 00:03:17,640
+neanche.
+
+56
+00:03:17,960 --> 00:03:24,040
+Sì, una presentazione, una news room: sì, esatto, c'è una comunicazione alla
+
+57
+00:03:24,040 --> 00:03:28,040
+stampa, diciamo, vedremo un po' come cosa succede.
+
+58
+00:03:28,040 --> 00:03:33,720
+Diciamo che noi adesso non so se Alex, diciamo, ci sta ascoltando
+
+59
+00:03:33,720 --> 00:03:37,320
+sul serio oppure no, perché non ha più battuto Ciglio, quindi direi
+
+60
+00:03:37,320 --> 00:03:37,640
+che
+
+61
+00:03:38,840 --> 00:03:42,440
+ci ha abbandonato, è rimasto impegnato.
+
+62
+00:03:42,680 --> 00:03:47,680
+Tuttavia, tendenzialmente se ci sarà un evento Apple, lo commenteremo tutti assieme.
+
+63
+00:03:47,680 --> 00:03:48,800
+Si spera.
+
+64
+00:03:48,800 --> 00:03:53,280
+Tornando a noi, diciamo, la mia scaletta che cercheremo di più o
+
+65
+00:03:53,280 --> 00:03:58,400
+meno mantenere: salvo che Roberto non decida di cambiare i programmi in
+
+66
+00:03:58,400 --> 00:03:59,120
+corsa.
+
+67
+00:03:59,120 --> 00:04:03,920
+Ragionerei innanzitutto in generale come funziona la detatura vocale e ovviamente perché
+
+68
+00:04:04,160 --> 00:04:05,600
+può diventare comodo.
+
+69
+00:04:05,600 --> 00:04:10,880
+E qualche consiglio pratico, diciamo, su come detare meglio, mettiamola così, perché
+
+70
+00:04:10,880 --> 00:04:14,720
+ovviamente la dettatura vocale è un sistema avanzato.
+
+71
+00:04:14,720 --> 00:04:17,840
+10-15 anni fa funzionava malissimo.
+
+72
+00:04:17,840 --> 00:04:21,600
+Nel tempo la situazione è migliorata veramente molto.
+
+73
+00:04:21,600 --> 00:04:27,360
+Addirittura adesso, con i dispositivi Apple, c'è la possibilità di dettare, cioè
+
+74
+00:04:27,520 --> 00:04:34,080
+di fare riconoscimento, voce, testo, direttamente sul device per le versioni più
+
+75
+00:04:34,240 --> 00:04:38,720
+aggiornate di iPhone, i pad e i Mac.
+
+76
+00:04:38,720 --> 00:04:43,440
+Quindi è veramente cambiato diciamo un po' il sistema.
+
+77
+00:04:43,440 --> 00:04:47,760
+È ovvio che ad oggi, almeno quantomeno, la dettatura vocale e il
+
+78
+00:04:47,760 --> 00:04:54,720
+riconoscimento vocale non è ancora al 100%, soprattutto per mille motivi, tra
+
+79
+00:04:54,720 --> 00:04:59,920
+cui la difficoltà, per esempio, di avere i dialetti sia in lingua
+
+80
+00:04:59,920 --> 00:05:02,320
+italiana che comunque nelle altre lingue.
+
+81
+00:05:02,320 --> 00:05:06,000
+Perché ricordiamoci, tra le altre cose, i dispositivi Apple fanno un riconoscimento
+
+82
+00:05:06,000 --> 00:05:12,160
+della voce per tantissime lingue, è un'attività complessa, non è una scienza
+
+83
+00:05:12,160 --> 00:05:15,360
+perfetta per ora, richiede anche determinate condizioni.
+
+84
+00:05:15,360 --> 00:05:20,240
+Quindi cercheremo di darvi insomma un'idea di fondo di come ottimizzare la
+
+85
+00:05:20,240 --> 00:05:24,640
+vostra dettatura per farla funzionare al meglio, diciamo, sui dispositivi Apple.
+
+86
+00:05:24,640 --> 00:05:28,800
+Ecco, diciamo che per iniziare possiamo iniziare subito da una cosa molto
+
+87
+00:05:28,800 --> 00:05:32,680
+semplice, perché ovviamente se inizia da lì, se iniziano le cose complesse,
+
+88
+00:05:32,680 --> 00:05:36,280
+non finiamo più, ma le cose semplici sono le migliori perché sono
+
+89
+00:05:36,280 --> 00:05:40,680
+quelle che ci evitano anche dei gran tacapi, chiamiamoli così.
+
+90
+00:05:40,680 --> 00:05:42,920
+Io partirei subito con i messaggi.
+
+91
+00:05:42,920 --> 00:05:48,520
+Che ovviamente i messaggi possono essere di testo sia su l'applicazione messaggi
+
+92
+00:05:48,520 --> 00:05:52,760
+di Apple, ma possono anche essere quelli su Telegram, su Whatsapp o
+
+93
+00:05:52,760 --> 00:05:55,080
+dove cavolo vi pare essenzialmente.
+
+94
+00:05:55,080 --> 00:06:00,520
+Messaggi di qualsiasi tipo: brevi, lunghi, probabilmente non ho mai provato, ma
+
+95
+00:06:00,520 --> 00:06:03,720
+penso che forse si riescano anche a mettere le emoji, ma non
+
+96
+00:06:03,720 --> 00:06:06,360
+ci ho mai provato fino ad ora sarà il prossimo step.
+
+97
+00:06:06,360 --> 00:06:11,320
+Ma diciamo che 16 è un peccato, questo è un peccato.
+
+98
+00:06:11,320 --> 00:06:15,000
+Ma c'è da dire che la dettatura dei messaggi vi fa risparmiare
+
+99
+00:06:15,000 --> 00:06:16,120
+un sacco di tempo.
+
+100
+00:06:16,120 --> 00:06:21,240
+Perché in realtà la velocità della dettatura è sicuramente più veloce della
+
+101
+00:06:21,240 --> 00:06:25,240
+digitazione e tendenzialmente fa anche meno errori.
+
+102
+00:06:25,240 --> 00:06:26,120
+Questo perché?
+
+103
+00:06:26,120 --> 00:06:29,400
+Perché una cosa che vi consiglio di fare è quello di non
+
+104
+00:06:29,720 --> 00:06:33,800
+mollare subito ai primi 3-4 messaggi che fate, ma di continuare in
+
+105
+00:06:33,800 --> 00:06:37,400
+modo tale da far capire anche a Siri quello che dite in
+
+106
+00:06:37,400 --> 00:06:40,760
+modo migliore, perché alla fine c'è anche un minimo di machine learning
+
+107
+00:06:40,760 --> 00:06:42,680
+dalla parte di Apple.
+
+108
+00:06:42,680 --> 00:06:46,040
+E quindi la cosa che vi conviene fare è utilizzarlo, più lo
+
+109
+00:06:46,040 --> 00:06:49,640
+utilizzate, più il vostro telefono alla fine vi capirà meglio.
+
+110
+00:06:49,640 --> 00:06:54,680
+I messaggi essenzialmente sapete anche tutti voi come siamo messi in questo
+
+111
+00:06:54,680 --> 00:07:00,360
+mondo multimediale, purtroppo all'interno delle applicazioni dei messaggi non ci sono solo
+
+112
+00:07:00,360 --> 00:07:03,640
+più del testo, ma c'è anche del video e del vocale.
+
+113
+00:07:03,640 --> 00:07:07,880
+La questione è che spesso sia il video che il vocale tendono
+
+114
+00:07:07,880 --> 00:07:09,720
+un po' a rubare tanto spazio.
+
+115
+00:07:09,880 --> 00:07:13,720
+Più che altro sono un po' quasi un martirio, nel senso che
+
+116
+00:07:13,720 --> 00:07:18,800
+per chi è tendenzialmente concentrato in quello che fa, magari il messaggio
+
+117
+00:07:18,800 --> 00:07:25,760
+risulta più facile di lettura, comprensione dà anche tempo di rifletterci sopra,
+
+118
+00:07:25,760 --> 00:07:30,080
+mentre purtroppo col video o con l'audio magari può capitare che potete
+
+119
+00:07:30,080 --> 00:07:34,240
+ascoltare l'audio mentre state guidando, che non è proprio il massimo, ma
+
+120
+00:07:34,240 --> 00:07:37,760
+vi in qualche modo vi distrae e il video, per forza di
+
+121
+00:07:37,760 --> 00:07:43,040
+cose, essendo un video, vi ruba anche la vista, oltre all'orecchio, e
+
+122
+00:07:43,040 --> 00:07:45,200
+quindi vi tiene ancora molto più impegnato.
+
+123
+00:07:45,200 --> 00:07:50,000
+Io personalmente sono uno che non faccio grande uso dei videopalla, diciamo,
+
+124
+00:07:50,000 --> 00:07:53,120
+perché io sono abituato a mandarli su Telegram e anche di messaggi
+
+125
+00:07:53,120 --> 00:07:53,440
+vocali.
+
+126
+00:07:53,440 --> 00:07:58,320
+Di messaggi vocali ne faccio nonostante, diciamo uso tanto la voce, essendo
+
+127
+00:07:58,320 --> 00:08:02,240
+un podcaster, ma in realtà nei messaggi vocali faccio veramente pochissimi.
+
+128
+00:08:02,240 --> 00:08:06,480
+Perché, già per quanto mi riguarda, non è che li trovo fastidiosi,
+
+129
+00:08:06,480 --> 00:08:08,640
+ma li trovo più impegnativi.
+
+130
+00:08:08,640 --> 00:08:11,760
+I videopalla e i messaggi vocali.
+
+131
+00:08:11,760 --> 00:08:15,360
+Mentre i messaggi di testo li trovo più leggeri per il mio
+
+132
+00:08:15,360 --> 00:08:18,240
+modo di comunicare, ma non è detto che sia quello giusto.
+
+133
+00:08:18,400 --> 00:08:21,920
+Ma quello che se siete come me o come Filippo, penso che
+
+134
+00:08:21,920 --> 00:08:26,560
+anche Filippo sia sulla stessa linea, la detatura dei messaggi arriva sicuramente
+
+135
+00:08:26,800 --> 00:08:28,640
+in modo molto molto facile.
+
+136
+00:08:28,640 --> 00:08:34,320
+Un'altra attività che potete utilizzare con la dettatura vocale, ad esempio, sono
+
+137
+00:08:34,320 --> 00:08:39,520
+la dettatura delle attività, nel senso che vi può capitare di volervi
+
+138
+00:08:39,520 --> 00:08:43,120
+segnare qualcosa e magari avete le mani occupate.
+
+139
+00:08:43,120 --> 00:08:45,920
+A me capita spesso, tendenzialmente quando vado a fare la spesa, magari
+
+140
+00:08:45,920 --> 00:08:47,840
+mi devo segnare qualcosa al volo.
+
+141
+00:08:47,840 --> 00:08:53,280
+La cosa più veloce è: non ho attivato E Siracusa, chiamiamolo così,
+
+142
+00:08:53,280 --> 00:08:56,160
+così almeno non salta nessun tipo di
+
+143
+00:08:57,440 --> 00:08:58,000
+allora.
+
+144
+00:08:58,000 --> 00:09:01,560
+Anche lì devi stare attento perché devi dire proprio una cosa a
+
+145
+00:09:01,880 --> 00:09:08,440
+lady, perché se c'è anche un suono similare, devo dirti la verità.
+
+146
+00:09:08,440 --> 00:09:12,440
+Lo prende, per esempio, adesso faccio apre la mia serie delle piccole
+
+147
+00:09:12,520 --> 00:09:15,720
+parentesi, ma io e mia moglie, spesso e volentieri ascoltiamo, guardiamo le
+
+148
+00:09:15,720 --> 00:09:21,320
+serie TV sul letto guardando con l'iPad, spesso e volentieri parte l'amica
+
+149
+00:09:21,320 --> 00:09:29,880
+di Apple, proprio perché casomai un attore dice qualcosa che casomai decontestualizzato,
+
+150
+00:09:29,880 --> 00:09:31,080
+potrebbe sembrare
+
+151
+00:09:32,680 --> 00:09:35,560
+amica di Apple, sì e amica di Apple.
+
+152
+00:09:35,560 --> 00:09:41,640
+Comunque, in effetti, comunque non ho attivato la funzione di riconoscimento vocale
+
+153
+00:09:41,640 --> 00:09:48,280
+di Siri, ma do semplicemente un comando manuale sull'iPhone oppure anche sull'Apple
+
+154
+00:09:48,280 --> 00:09:49,160
+Watch.
+
+155
+00:09:49,160 --> 00:09:53,880
+Questo è molto utile perché potete prendere sia le note vocali, se
+
+156
+00:09:53,880 --> 00:09:59,000
+vi piace fare dei vocali, oppure prendere decisamente già qualcosa che vi
+
+157
+00:09:59,000 --> 00:10:00,440
+risulta scritto.
+
+158
+00:10:00,440 --> 00:10:04,120
+Nella mia professione, ad esempio, può diventare moltissimo utile.
+
+159
+00:10:04,120 --> 00:10:06,440
+Quando tu vai in giro per il cantiere, ad esempio, ti devi
+
+160
+00:10:06,520 --> 00:10:10,280
+segnare un po' di cose e magari non vuoi prenderti un audio
+
+161
+00:10:10,280 --> 00:10:16,360
+vocale che comunque prende il suo spazio sul device, mentre invece, con
+
+162
+00:10:16,360 --> 00:10:20,440
+la dettatura il testo, come sapete benissimo, il testo occupa poco e
+
+163
+00:10:20,440 --> 00:10:23,800
+niente e quindi vi salvate anche dal punto di vista dello spazio.
+
+164
+00:10:23,800 --> 00:10:28,840
+Se per caso non avete un iPhone con 256 giga come di
+
+165
+00:10:28,840 --> 00:10:30,600
+moda regalare in questo periodo
+
+166
+00:10:30,600 --> 00:10:32,640
+critico,
+
+167
+00:10:32,840 --> 00:10:35,240
+oltre a io sempre.
+
+168
+00:10:35,560 --> 00:10:41,240
+In ogni caso, a parte queste cose che possono aiutarvi per segnarvi
+
+169
+00:10:41,240 --> 00:10:46,880
+delle cose, anche pro memoria, basta semplicemente, ovviamente attivare il nostro simpatico
+
+170
+00:10:44,840 --> 00:10:49,680
+utente vocale e chiedere di prendere un Pro Memoria.
+
+171
+00:10:50,160 --> 00:10:54,240
+Anche questo è interessante perché potete usare il linguaggio naturale come ad
+
+172
+00:10:54,240 --> 00:10:59,760
+esempio, ricordami domani di andare a prendere il caricatore perché mi si
+
+173
+00:10:59,760 --> 00:11:00,640
+è bruciato.
+
+174
+00:11:00,880 --> 00:11:05,200
+Voi praticamente vi trovate già il Pro Memoria con già impostato per
+
+175
+00:11:05,200 --> 00:11:05,760
+domani.
+
+176
+00:11:05,760 --> 00:11:10,640
+Se volete potete anche dargli l'orario oppure può anche prendere la posizione:
+
+177
+00:11:10,640 --> 00:11:14,560
+ad esempio, ricordami quando sono a casa e quindi il Pro Memoria
+
+178
+00:11:14,720 --> 00:11:18,240
+viene scritto con quello che volete ricordare quando entrate in casa.
+
+179
+00:11:18,240 --> 00:11:22,880
+Quindi, questo è assolutamente una cosa da tenere da conto, soprattutto per
+
+180
+00:11:22,880 --> 00:11:24,640
+chi ha davvero poco tempo.
+
+181
+00:11:24,640 --> 00:11:30,320
+Perché voi immaginate che dovete aprire Pro Memoria, scrivere il testo del
+
+182
+00:11:30,320 --> 00:11:33,440
+Pro Memoria, poi andare a selezionare la data, poi andare a selezionare
+
+183
+00:11:33,440 --> 00:11:36,720
+l'ora, poi magari dovete andare a selezionare anche la posizione, non finite
+
+184
+00:11:36,720 --> 00:11:37,120
+più.
+
+185
+00:11:37,120 --> 00:11:41,360
+Invece, con un semplice comando vocale che assomiglia alla dettatura, perché voi
+
+186
+00:11:41,360 --> 00:11:46,720
+dettate il testo del Pro Memoria, ma aggiungete dei significatori come l'orario
+
+187
+00:11:46,720 --> 00:11:50,560
+o la posizione, e questo diventa un valore aggiunto a quello che
+
+188
+00:11:50,560 --> 00:11:51,680
+state dicendo.
+
+189
+00:11:51,680 --> 00:11:55,280
+Altra cosa per cui potete iniziare sono ad esempio le mail.
+
+190
+00:11:55,280 --> 00:12:01,040
+Le mail sono assolutamente delle comunicazioni che purtroppo hanno preso anche un
+
+191
+00:12:01,040 --> 00:12:02,240
+po' troppo il
+
+192
+00:12:03,520 --> 00:12:04,000
+largo.
+
+193
+00:12:04,000 --> 00:12:08,000
+Ne abbiamo parlato più di una volta qui su podcast e anche
+
+194
+00:12:08,000 --> 00:12:10,160
+come tenerle a base delle comunicazioni mail.
+
+195
+00:12:10,160 --> 00:12:15,040
+Ma per velocizzare la comunicazione può diventare interessante la dettatura vocale.
+
+196
+00:12:15,040 --> 00:12:19,280
+Detatura vocale che poi più avanti vi spieghiamo che può essere ovviamente
+
+197
+00:12:19,280 --> 00:12:24,080
+fatto sul vostro dispositivo audio preferito, che potrebbe essere l'iPhone.
+
+198
+00:12:24,080 --> 00:12:27,760
+Ma potete poi scoprire più avanti che non c'è solo l'iPhone, ci
+
+199
+00:12:27,760 --> 00:12:33,880
+sono anche il Mac, l'iPad, Apple Watch e se volete anche Apple
+
+200
+00:12:33,880 --> 00:12:40,520
+Car Play, in questo caso, tu sei un fortunato possessore, sì, esatto,
+
+201
+00:12:40,680 --> 00:12:46,680
+sono un fortunato possessore, diciamo di un'auto che permette il collegamento dell'iPhone
+
+202
+00:12:46,840 --> 00:12:48,920
+e l'utilizzo di CarPlay.
+
+203
+00:12:48,920 --> 00:12:52,280
+Quindi, in questo senso diventa veramente utile, mi ha cambiato la vita.
+
+204
+00:12:52,280 --> 00:12:57,080
+Altra cosa invece che dovete tenere in considerazione è che la dettatura
+
+205
+00:12:57,080 --> 00:12:58,440
+può essere molto interessante.
+
+206
+00:12:58,440 --> 00:13:02,280
+Ad esempio, se dovete scrivere dei testi che non hanno bisogno di
+
+207
+00:13:02,280 --> 00:13:07,400
+una revisione particolarmente accurata, cioè essenzialmente sono quei testi di cui non
+
+208
+00:13:07,480 --> 00:13:11,480
+interessa la qualità o avvere qualche errore qua e là, e ci
+
+209
+00:13:11,480 --> 00:13:14,680
+sono anche qui le applicazioni che vi possono venire incontro.
+
+210
+00:13:14,680 --> 00:13:17,960
+Ad esempio, la prima che mi viene in mente è perché ne
+
+211
+00:13:17,960 --> 00:13:21,000
+abbiamo parlato due puntate fa circa i note.
+
+212
+00:13:21,720 --> 00:13:27,000
+Che è appunto la vostra applicazione di default all'interno dell'ecosistema Apple dove
+
+213
+00:13:27,000 --> 00:13:30,120
+potete prendere le note e diventa davvero interessante.
+
+214
+00:13:30,120 --> 00:13:34,120
+Io, ad esempio, ho scritto anche più di un articolo dettandolo su
+
+215
+00:13:34,120 --> 00:13:39,320
+note e sto attendendo anch'io di vedere le migliorie con iOS 16
+
+216
+00:13:39,320 --> 00:13:43,960
+perché il problema fino ad iOS 15 è essenzialmente a un certo
+
+217
+00:13:43,960 --> 00:13:47,720
+punto smetteva di prendere la frase perché decideva lei.
+
+218
+00:13:47,720 --> 00:13:51,880
+Non ho l'idea di quale fosse il motivo, ma sicuramente da quello
+
+219
+00:13:51,880 --> 00:13:55,160
+che ne so, io conoscendo Filippo, sicuramente mi saprà dare una riguardia.
+
+220
+00:13:55,240 --> 00:13:57,560
+Giusto perché così facciamo un piccolo recap?
+
+221
+00:13:57,800 --> 00:13:59,880
+Forse siamo partiti un po' troppo veloci.
+
+222
+00:13:59,880 --> 00:14:04,680
+Innanzitutto, come si fa a fare la dettatura vocale?
+
+223
+00:14:05,160 --> 00:14:09,160
+Che è il primo step per poter utilizzare questo sistema?
+
+224
+00:14:09,160 --> 00:14:16,000
+Abitualmente su iOS e iPadOS basta attivare la tastiera, diciamo, quindi basta
+
+225
+00:14:14,760 --> 00:14:18,480
+per esempio, iniziare a scrivere un messaggio.
+
+226
+00:14:19,920 --> 00:14:24,960
+Pere sulla bolla per scrivere un nuovo messaggio, comparirà la tastiera.
+
+227
+00:14:25,200 --> 00:14:30,000
+Abitualmente tra le varie opzioni vicino alla tastiera c'è anche quella di
+
+228
+00:14:30,000 --> 00:14:30,880
+un microfono.
+
+229
+00:14:30,880 --> 00:14:35,360
+Non è quella, diciamo, per messaggi legati direttamente nella bolla, ma è
+
+230
+00:14:35,360 --> 00:14:41,360
+proprio sulla tastiera, perché invece il microfono che si compare eventualmente a
+
+231
+00:14:41,360 --> 00:14:46,080
+lato della bolla è invece quello per fare, chiamiamoli così, i vocali.
+
+232
+00:14:46,080 --> 00:14:50,960
+Apro e chiudo una parentesi sui vocali per ricollegarmi con quello già
+
+233
+00:14:50,960 --> 00:14:52,400
+detto a Roberto.
+
+234
+00:14:52,400 --> 00:14:55,360
+I vocali, dal mio punto di vista, sono comodi per chi li
+
+235
+00:14:55,360 --> 00:14:59,840
+fa, ma scomodi potenzialmente per chi li riceve, perché non è detto
+
+236
+00:14:59,840 --> 00:15:03,280
+che io sia in grado di poter ascoltare un vocale o un
+
+237
+00:15:03,280 --> 00:15:05,920
+videomessaggio in un determinato momento.
+
+238
+00:15:05,920 --> 00:15:10,480
+E se vuoi comunicare rapidamente con me è molto più semplice il
+
+239
+00:15:10,480 --> 00:15:10,960
+testo.
+
+240
+00:15:10,960 --> 00:15:15,120
+Anche perché se sto guidando, per esempio, posso fare leggere il messaggio
+
+241
+00:15:15,120 --> 00:15:21,280
+testuale a Siri, ma non posso far partire il vocale almeno manualmente.
+
+242
+00:15:21,280 --> 00:15:29,280
+Quindi, comunque esatto, comunque generale il testo, è meglio, anche perché abitualmente
+
+243
+00:15:29,520 --> 00:15:32,320
+quando si scrive qualcosa si pensa prima a cosa che si vuole
+
+244
+00:15:32,320 --> 00:15:37,680
+scrivere, conseguentemente o si è veramente molto bravi o l'audio è anche
+
+245
+00:15:37,680 --> 00:15:42,880
+più ha più fronzoli, chiamiamolo così, e quindi ovviamente il messaggio diventa
+
+246
+00:15:42,880 --> 00:15:49,440
+potenzialmente più lungo o più confusionato, anzi, e quindi chi lo riceve,
+
+247
+00:15:49,440 --> 00:15:55,200
+riceve comunque un'informazione di livello peggiore, chiamiamola così, rispetto a quello che
+
+248
+00:15:55,200 --> 00:15:57,360
+si potrebbe avere con un messaggio scritto.
+
+249
+00:15:57,440 --> 00:16:01,960
+Chiusa la parentesi vocali, tra virgolette, che come io e Roberto la
+
+250
+00:15:59,680 --> 00:16:03,240
+vediamo alla stessa maniera,
+
+251
+00:16:03,480 --> 00:16:07,480
+diciamola così fino ai iOS 15.
+
+252
+00:16:07,480 --> 00:16:12,840
+Appunto, una volta che si iniziava la dettatura vocale, la dtatura vocale,
+
+253
+00:16:12,840 --> 00:16:17,320
+innanzitutto, funziona in questa maniera abitualmente, cioè il dispositivo, che sia il
+
+254
+00:16:17,320 --> 00:16:22,680
+Mac o che sia l'iPhone o l'iPad, prende il flusso audio.
+
+255
+00:16:22,920 --> 00:16:30,600
+Una lo girava nel cloud di Apple, faceva conversione audio testo, a
+
+256
+00:16:30,600 --> 00:16:37,640
+questo punto tornava da internet e compariva magicamente sul nostro dispositivo.
+
+257
+00:16:37,640 --> 00:16:43,080
+Su Mac, da tanto tempo, scaricando poco meno di un GB, si
+
+258
+00:16:43,080 --> 00:16:48,920
+poteva già fare la dettatura sul dispositivo, quindi avere un sistema di
+
+259
+00:16:48,920 --> 00:16:54,360
+riconoscimento della voce che convertiva voce a testo anche offline.
+
+260
+00:16:54,680 --> 00:17:00,840
+Con iOS 15, con iOS 15 e iPad 15, già anche offline
+
+261
+00:17:01,080 --> 00:17:05,720
+il sistema permetteva di riconoscere dalla voce il testo.
+
+262
+00:17:05,720 --> 00:17:11,480
+Adesso, con le novità diciamo di iOS 16, la cosa interessante è
+
+263
+00:17:11,480 --> 00:17:17,960
+che innanzitutto il testo viene riconosciuto sul momento, ma tu puoi interagire
+
+264
+00:17:17,960 --> 00:17:22,760
+col testo stesso, quindi puoi modificare il testo che viene scritto e
+
+265
+00:17:22,760 --> 00:17:24,760
+continuare a dettare la voce.
+
+266
+00:17:24,760 --> 00:17:29,080
+Negli ultimi due sistemi operativi, diciamo, abbiamo assistito da una parte al
+
+267
+00:17:29,080 --> 00:17:35,000
+fatto che potendo fare riconoscimento di testo sul dispositivo, non hai neanche
+
+268
+00:17:35,000 --> 00:17:38,680
+più i vincoli di detatura, perché l'altro problema qual era?
+
+269
+00:17:38,760 --> 00:17:45,280
+È che ovviamente facendo tutto questo giro via internet, siano almeno Apple
+
+270
+00:17:45,280 --> 00:17:50,960
+imponeva dei limiti di detatura soprattutto sui dispositivi mobili e quindi su
+
+271
+00:17:51,120 --> 00:17:55,840
+iPhone e su iPad, avevi la possibilità di dettare una frase di
+
+272
+00:17:55,840 --> 00:17:57,760
+circa in 30 secondi.
+
+273
+00:17:57,760 --> 00:18:01,760
+Una volta scattato questo termine, la detatura si interrompeva.
+
+274
+00:18:01,760 --> 00:18:05,920
+Il problema è che spesso e volentieri, appunto utilizzando la voce non
+
+275
+00:18:05,920 --> 00:18:10,160
+sai esattamente se la frase che vuoi dire, soprattutto se una frase
+
+276
+00:18:10,160 --> 00:18:13,520
+un po' lunga durerà o meno 30 secondi.
+
+277
+00:18:13,520 --> 00:18:16,880
+E quindi c'era tutta una serie di problemi, anche perché, ovviamente, tagliando
+
+278
+00:18:16,880 --> 00:18:22,240
+la detatura, il sistema di riconoscimento vocale non funziona riconoscendo lettera per
+
+279
+00:18:22,240 --> 00:18:25,840
+lettera, ma riconosce le parole nel loro contesto.
+
+280
+00:18:25,840 --> 00:18:31,600
+Quindi, tendenzialmente, per avere una buona detatura, il riconoscimento vocale richiede una
+
+281
+00:18:31,600 --> 00:18:36,720
+frase medio lunga, diciamo, o comunque non sì no, e poco di
+
+282
+00:18:36,720 --> 00:18:40,640
+più, ma richiede comunque una frase di senso compiuto, perché, grazie al
+
+283
+00:18:40,640 --> 00:18:48,240
+senso, diciamo, le parole così sbagliate vengono filtrate e si ottiene invece
+
+284
+00:18:48,240 --> 00:18:51,520
+una frase più o meno di senso compiuto, con qualche errore spesso
+
+285
+00:18:51,520 --> 00:18:52,240
+e volentieri.
+
+286
+00:18:52,240 --> 00:18:58,800
+Non so, capita che parole che abbiano suoni simili vengano confuse o
+
+287
+00:18:59,360 --> 00:19:04,720
+maschile per femminile, perché alla fine probabilmente ci siamo mangiati la lettera
+
+288
+00:19:04,720 --> 00:19:10,400
+finale quindi fa fatica il riconoscimento a capire il genere della parola.
+
+289
+00:19:10,800 --> 00:19:15,440
+Abitualmente capitano queste cose, a volte capita anche parole.
+
+290
+00:19:15,760 --> 00:19:17,920
+Sì, sì, degli svarioni incredibili.
+
+291
+00:19:17,920 --> 00:19:20,240
+Esatto, ma nell'ultimo periodo, devo dirti la verità,
+
+292
+00:19:22,720 --> 00:19:27,440
+ho notato un progressivo miglioramento, anche perché diciamoci la verità, e anzi,
+
+293
+00:19:27,440 --> 00:19:30,000
+vi vogliamo fare presente la cosa.
+
+294
+00:19:30,600 --> 00:19:34,600
+È ovvio che tutto quello che diciamo a Siri viene registrato e
+
+295
+00:19:34,600 --> 00:19:39,160
+viene mandato ai server Apple su cui fanno tutta una serie di
+
+296
+00:19:39,240 --> 00:19:45,560
+machine learning, cioè di esame di questo testo vocale e addirittura era
+
+297
+00:19:45,560 --> 00:19:49,240
+emerso un problema, ma tra virgolette, era una roba dal mio punto
+
+298
+00:19:49,240 --> 00:19:50,920
+di vista, abbastanza ovvia.
+
+299
+00:19:50,920 --> 00:19:56,440
+Cioè per ottimizzare conversione voce testo, ovviamente ci deve essere anche qualcuno
+
+300
+00:19:56,440 --> 00:20:01,080
+che controlla che il computer abbia fatto una conversione corretta.
+
+301
+00:20:01,080 --> 00:20:04,280
+Per fare questo, è ovvio che qualcuno deve ascoltare un uomo deve
+
+302
+00:20:04,280 --> 00:20:07,160
+ascoltare il vocale, la voce.
+
+303
+00:20:07,480 --> 00:20:12,040
+Ovviamente Apple, come Google, come tutta una serie di altri soggetti, cosa
+
+304
+00:20:12,200 --> 00:20:12,760
+fanno?
+
+305
+00:20:12,760 --> 00:20:19,640
+Hanno delle società terze che fanno questi controlli e fisicamente, solitamente poi,
+
+306
+00:20:19,640 --> 00:20:25,720
+peraltro in posti dove la manodopera costa poco, e quindi è ovvio
+
+307
+00:20:25,720 --> 00:20:26,840
+che c'è questo.
+
+308
+00:20:26,840 --> 00:20:30,200
+Sappiate anche che, comunque c'è la possibilità di fare tale.
+
+309
+00:20:31,240 --> 00:20:34,920
+Adesso Apple è abbastanza dopo aver fatto un po' un'auto
+
+310
+00:20:36,040 --> 00:20:38,520
+un auto gol è abbastanza brava.
+
+311
+00:20:38,520 --> 00:20:43,480
+Recentemente ho installato dei sistemi operativi, ho aggiornato iOS e così via,
+
+312
+00:20:43,480 --> 00:20:49,640
+all'inizio ti chiede se vuoi contribuire o meno al miglioramento del riconoscimento
+
+313
+00:20:49,640 --> 00:20:51,320
+vocale, diciamo, di Siri.
+
+314
+00:20:51,320 --> 00:20:54,040
+E in questo caso, ovviamente, il tuo audio va a finire nei
+
+315
+00:20:54,040 --> 00:20:56,600
+server di Apple e così via viene tracciato.
+
+316
+00:20:56,600 --> 00:21:01,160
+Diciamo: se non opti, cioè se dici no, non voglio.
+
+317
+00:21:02,360 --> 00:21:07,560
+Teoricamente, dopo l'analisi fatta con i loro server, o se lo fai
+
+318
+00:21:07,560 --> 00:21:14,760
+direttamente sul dispositivo, i dati rimangono tuoi tra virgolette, apro un'ulteriore parentesina.
+
+319
+00:21:15,120 --> 00:21:20,080
+Non so, cioè, nel momento in cui sei offline, sei sicuro che
+
+320
+00:21:20,080 --> 00:21:23,120
+il riconoscimento avviene sul dispositivo, non so
+
+321
+00:21:24,160 --> 00:21:30,480
+quando sei online invece sul cellulare, abitualmente è sempre così, se comunque
+
+322
+00:21:30,800 --> 00:21:36,000
+per non affaticare, il riconoscimento venga comunque fatto quando si ha un
+
+323
+00:21:36,000 --> 00:21:38,160
+buon collegamento direttamente online.
+
+324
+00:21:38,320 --> 00:21:40,720
+Anzi, è una cosa che mi è venuta in mente
+
+325
+00:21:41,840 --> 00:21:46,000
+parlando di te, ma non ho idea se ci sia un modo
+
+326
+00:21:46,160 --> 00:21:49,600
+o se c'è un algoritmo di Apple che decide un po' come
+
+327
+00:21:49,600 --> 00:21:51,040
+li pare questo.
+
+328
+00:21:51,280 --> 00:21:58,000
+Teoricamente e dico teoricamente, dalle affermazioni di tanti, il miglioramento, soprattutto sui
+
+329
+00:21:58,000 --> 00:22:03,440
+nuovi dispositivi del riconoscimento vocale, è dovuto al fatto che lavora tutto
+
+330
+00:22:03,680 --> 00:22:09,120
+sul dispositivo e quindi si evitano ovviamente i tempi morti di far
+
+331
+00:22:09,120 --> 00:22:14,000
+girare dati a destra manca per internet e farli tornare indietro.
+
+332
+00:22:14,640 --> 00:22:19,520
+Teoricamente dico, teoricamente dovrebbe essere tutto sul device, ma non ho certezze
+
+333
+00:22:19,520 --> 00:22:24,560
+matematiche e credo sia difficile anche poter fare delle verifiche concrete.
+
+334
+00:22:24,560 --> 00:22:25,680
+Riuscirlo a capire.
+
+335
+00:22:26,240 --> 00:22:30,880
+Aggiungo solo una cosa al discorso, perché una cosa che stavo notando,
+
+336
+00:22:31,040 --> 00:22:35,520
+è che la parte di iOS e iPadOS è abbastanza trasparente
+
+337
+00:22:35,680 --> 00:22:39,760
+il fatto che ci sia il modo di dettare allo strumento che
+
+338
+00:22:39,760 --> 00:22:43,440
+si ha in mano anche sull'Apple Watch e anche su CarPlay.
+
+339
+00:22:43,440 --> 00:22:47,600
+Mentre sul Mac forse non è proprio chiarissima la questione.
+
+340
+00:22:47,600 --> 00:22:52,240
+Per riuscire a capire come fare dettare in modo veloce basta andare
+
+341
+00:22:52,240 --> 00:22:56,720
+nella tastiera, diciamo, andare nelle preferenze di sistema, cercare la tastiera, poi
+
+342
+00:22:56,720 --> 00:23:00,760
+dettatura e poi vi trovate anche l'abbreviazione della tastiera per far partire
+
+343
+00:23:00,000 --> 00:23:03,560
+la dettatura in modo semplice ed indolore.
+
+344
+00:23:03,720 --> 00:23:08,520
+Io, ad esempio, ce ne sono, ci sono cinque tipi di abbreviazioni.
+
+345
+00:23:08,520 --> 00:23:09,880
+Sì, sì, io parlo in generale.
+
+346
+00:23:09,880 --> 00:23:10,360
+So che poi
+
+347
+00:23:11,880 --> 00:23:14,040
+sta svicolando come il solito.
+
+348
+00:23:14,280 --> 00:23:18,840
+Tuttavia, su questo argomento, Apple nell'ultimo periodo ci sta andando giù, relativamente
+
+349
+00:23:18,840 --> 00:23:22,280
+pesante perché se tu vai a vedere, tutte le nuove tastiere.
+
+350
+00:23:22,280 --> 00:23:26,680
+Apple hanno anche il tasto col microfono sui Mac la Magic Keyboard
+
+351
+00:23:26,680 --> 00:23:33,320
+e anche sull'iPad Magic Keyboard hanno tasto il globo, diciamo, ma hanno
+
+352
+00:23:33,320 --> 00:23:36,920
+anche il tasto per il microfono e quindi schiacciando quello si attiva
+
+353
+00:23:37,240 --> 00:23:39,320
+il riconoscimento vocale.
+
+354
+00:23:39,320 --> 00:23:44,360
+Io abitualmente ho impostato sul Mac il tasto funzione due volte, anch'io
+
+355
+00:23:44,680 --> 00:23:45,640
+su FN.
+
+356
+00:23:45,640 --> 00:23:48,600
+Anche se poi, per esempio, con la tastiera che ho qua, devo
+
+357
+00:23:48,600 --> 00:23:53,320
+dire una cosa, Apple è molto intelligente siccome è una tastiera meccanica
+
+358
+00:23:53,320 --> 00:23:57,720
+e non è Apple, diciamo, automaticamente ha riconosciuto che non è quella
+
+359
+00:23:57,720 --> 00:24:01,640
+di Apple, e quindi mi ha dato un altro tasto per attivare
+
+360
+00:24:01,640 --> 00:24:04,040
+il riconoscimento vocale su Mac.
+
+361
+00:24:04,040 --> 00:24:08,760
+Ecco già che stiamo facendo questi ragionamenti, è ovvio che su Mac
+
+362
+00:24:09,160 --> 00:24:13,880
+c'è un altro prerequisito fondamentale, cioè che abbiate un microfono.
+
+363
+00:24:13,880 --> 00:24:16,680
+Ho davanti a me un Mac mini che non ha il microfono.
+
+364
+00:24:16,680 --> 00:24:22,040
+Quindi, ovviamente io sto registrando in un microfono, ma un portatile ha
+
+365
+00:24:22,200 --> 00:24:26,520
+il microfono, perché ovviamente con la webcam abitualmente c'è sempre il microfono.
+
+366
+00:24:26,520 --> 00:24:30,200
+Gli i Mac che hanno la webcam, hanno anche il microfono, ma
+
+367
+00:24:30,520 --> 00:24:35,160
+per esempio, un McMini non ha il microfono incorporato, e quindi, ovviamente,
+
+368
+00:24:35,320 --> 00:24:40,120
+per il riconoscimento vocale avete bisogno anche del microfono.
+
+369
+00:24:40,120 --> 00:24:44,920
+E anche qui migliora il microfono, migliora il riconoscimento vocale.
+
+370
+00:24:45,280 --> 00:24:50,080
+Io che per deformazione ho i microfoni a destra manca collegati ai
+
+371
+00:24:50,080 --> 00:24:55,600
+Mac, è ovvio che dettare con un microfono professionale o semiprofessionali dà
+
+372
+00:24:55,600 --> 00:25:00,720
+dei risultati migliori comunque rispetto per esempio a un microfonino.
+
+373
+00:25:00,720 --> 00:25:05,200
+Gli Airpod, se collegate il Mac Mini agli Airpod, teoricamente riuscite ad
+
+374
+00:25:05,200 --> 00:25:10,080
+utilizzare il microfono degli Airpod per la dettatura.
+
+375
+00:25:10,080 --> 00:25:14,000
+Quindi un'altra potenziale soluzione sarebbe questa.
+
+376
+00:25:14,000 --> 00:25:19,600
+Abitualmente nei computer Apple sono tutti All-Ine, quindi comunque c'è tutto dentro,
+
+377
+00:25:19,600 --> 00:25:22,720
+tranne appunto computer come il Mac Mini o il Mac Pro.
+
+378
+00:25:22,720 --> 00:25:27,600
+però, insomma, probabilmente lo si dà per scontato che non abbia il
+
+379
+00:25:27,600 --> 00:25:31,440
+microfono, e a quel punto lì potete usare queste cose.
+
+380
+00:25:31,440 --> 00:25:38,080
+Abbiamo parlato di dettatura vocale giusto per chiosare, anche perché probabilmente potrebbe
+
+381
+00:25:38,080 --> 00:25:39,600
+venire confusione.
+
+382
+00:25:39,600 --> 00:25:43,840
+Un discorso è la dettatura vocale, un altro discorso è il controllo
+
+383
+00:25:44,080 --> 00:25:44,800
+vocale.
+
+384
+00:25:44,800 --> 00:25:47,600
+Il controllo vocale è qualcosa di più avanzato.
+
+385
+00:25:47,600 --> 00:25:56,000
+Originariamente nasceva su prodotti specifici come Dragon, che è sostanzialmente il software
+
+386
+00:25:56,000 --> 00:26:01,360
+a pagamento per riconoscimento vocale e controllo vocale.
+
+387
+00:26:01,360 --> 00:26:07,920
+Recentemente però non funziona più sui Mac sostanzialmente, perché Dragon sostanzialmente ha
+
+388
+00:26:08,240 --> 00:26:14,800
+probabilmente perché Apple ha poi molto spansa molto su questo mercato.
+
+389
+00:26:15,120 --> 00:26:19,280
+Dragon se n'è andata dal mondo Apple, e quindi per fare riconoscimento
+
+390
+00:26:19,280 --> 00:26:23,520
+vocale, diciamo, con Dragon bisogna avere una macchina virtuale Windows e funziona
+
+391
+00:26:23,520 --> 00:26:25,120
+solo sotto Windows, sostanzialmente.
+
+392
+00:26:25,160 --> 00:26:27,680
+Sì, è una cosa che mi ricordavo, ma molto tempo fa e
+
+393
+00:26:27,680 --> 00:26:29,520
+non mi ricordo più da chi fosse stata acquisita.
+
+394
+00:26:29,520 --> 00:26:32,360
+Sapevo che poi comunque era in rotta con Apple.
+
+395
+00:26:32,520 --> 00:26:35,720
+Ma diciamo che Apple, in qualche modo è riuscita un po' a
+
+396
+00:26:35,960 --> 00:26:41,400
+cavarsela grazie appunto al riconoscimento vocale che comunque è riuscito a portare
+
+397
+00:26:41,400 --> 00:26:43,240
+avanti all'interno dei suoi device.
+
+398
+00:26:43,240 --> 00:26:49,000
+Ritornando a bomba sulla parte principale, oltre a note, potete anche utilizzare
+
+399
+00:26:49,000 --> 00:26:52,040
+editor di testi come Pegis.
+
+400
+00:26:52,200 --> 00:26:55,880
+Io ho anche lì ne ho usato davvero tantissimo, soprattutto quando bisogna
+
+401
+00:26:55,880 --> 00:26:59,480
+andare a fare delle relazioni o a mettere, diciamo a fare un
+
+402
+00:26:59,480 --> 00:27:00,280
+brogliaccio.
+
+403
+00:27:00,280 --> 00:27:03,800
+Secondo me la cosa migliore è appunto avere un qualsiasi editor di
+
+404
+00:27:03,800 --> 00:27:08,120
+testo che può andare dal basico notep a tutto quello che ne
+
+405
+00:27:08,200 --> 00:27:11,960
+viene dopo e utilizzarlo, secondo me è la cosa migliore.
+
+406
+00:27:11,960 --> 00:27:17,800
+Vi dico il brogliaccio perché spesso utilizzo la dettatura vocale appunto per
+
+407
+00:27:17,800 --> 00:27:21,480
+mettere giù delle idee anche raffazzonate, non è importante perché, come vi
+
+408
+00:27:21,480 --> 00:27:26,520
+dicevo prima, può essere utile semplicemente fissare queste idee, ma un'idea molto
+
+409
+00:27:26,520 --> 00:27:27,080
+interessante.
+
+410
+00:27:27,080 --> 00:27:32,040
+Invece, se volete dettare in modo normale che il testo abbia una
+
+411
+00:27:32,040 --> 00:27:36,600
+rappresentazione in qualche modo ragionevole di quello che state dicendo, bisogna avere
+
+412
+00:27:36,600 --> 00:27:39,800
+una scaletta o una mappa mentale davanti a voi in modo tale
+
+413
+00:27:39,800 --> 00:27:42,920
+che si riesca a dettare in modo molto un po' più fluido,
+
+414
+00:27:42,920 --> 00:27:46,920
+come bene o male stiamo facendo anche noi speaker di A2 per
+
+415
+00:27:46,920 --> 00:27:49,400
+raccontarvi quello che abbiamo in mente.
+
+416
+00:27:49,400 --> 00:27:54,280
+Essenzialmente il grandissimo Filippo, come sempre, fa una mappa mentale dell'argomento principale,
+
+417
+00:27:54,280 --> 00:27:56,760
+perché lui veramente è un maestro in queste cose e come le
+
+418
+00:27:56,760 --> 00:27:58,520
+fa lui, non le fa nessuno.
+
+419
+00:27:58,520 --> 00:28:02,680
+E io di fatti seguo piano piano i suoi piccoli, diciamo, le
+
+420
+00:28:02,680 --> 00:28:04,840
+sue briciole, che lasci all'interno di questa mappa.
+
+421
+00:28:04,920 --> 00:28:07,240
+No, non è vero, non lo segui, non lo segui le mie
+
+422
+00:28:07,240 --> 00:28:08,440
+mappe mentali.
+
+423
+00:28:08,440 --> 00:28:13,080
+Faccio finta faccio finta di non seguirle, ma faccio una seconda mappa
+
+424
+00:28:13,080 --> 00:28:15,200
+mentale che interseca la tua.
+
+425
+00:28:15,200 --> 00:28:15,760
+Comunque,
+
+426
+00:28:14,840 --> 00:28:21,120
+in ogni caso, diciamo c'è tutto un meccanismo dietro.
+
+427
+00:28:21,280 --> 00:28:23,120
+Ritornando comunque sul discorso.
+
+428
+00:28:23,120 --> 00:28:26,640
+Spesso le persone si chiariscono il pensiero quando scrivono.
+
+429
+00:28:26,880 --> 00:28:31,680
+Come diceva Filippo, giustamente prima, e anche a me capita spesso, mi
+
+430
+00:28:31,680 --> 00:28:36,560
+è capitato addirittura un incrocio di stimoli diversi, che è stato quello,
+
+431
+00:28:36,560 --> 00:28:41,600
+per esempio, la possibilità del riconoscimento della scrittura da parte di iPad
+
+432
+00:28:41,840 --> 00:28:42,400
+OS.
+
+433
+00:28:42,400 --> 00:28:45,840
+E questo è interessante perché è una cosa che è diversa.
+
+434
+00:28:45,840 --> 00:28:51,680
+Perché voi state scrivendo sembrà incredibile, ma una volta che scrivete è
+
+435
+00:28:51,680 --> 00:28:58,560
+diverso che digitare, è una cosa completamente diversa, e probabilmente deriva dal
+
+436
+00:28:58,560 --> 00:29:05,120
+fatto che forse nell'era digitale la scrittura sulla tastiera forse è diventata
+
+437
+00:29:05,120 --> 00:29:07,600
+più naturale che lo scrivere normale.
+
+438
+00:29:07,600 --> 00:29:12,160
+Non vorrei dire questa fesseria, ma io mi sono trovato in difficoltà
+
+439
+00:29:12,160 --> 00:29:17,440
+all'inizio a scrivere con la pencil un pensiero su un foglio virtuale
+
+440
+00:29:17,440 --> 00:29:22,320
+che poi veniva riconosciuto come testo, e magari invece con la tastiera
+
+441
+00:29:22,320 --> 00:29:26,720
+avrei fatto forse meno fatica perché forse a forza di utilizzare la
+
+442
+00:29:26,720 --> 00:29:32,320
+tastiera diventa più naturale, addirittura usare la tastiera, ma lì vada ovviamente
+
+443
+00:29:32,320 --> 00:29:33,440
+da uno all'altro.
+
+444
+00:29:33,440 --> 00:29:37,840
+In ogni caso, quello che è chiaro è che tendenzialmente prima di
+
+445
+00:29:37,840 --> 00:29:42,320
+iscriverci bisogna chiarirsi un po' le idee prima di fare strafalcioni.
+
+446
+00:29:42,320 --> 00:29:46,560
+Altro da dire riguardo alla detatura vocale.
+
+447
+00:29:46,880 --> 00:29:50,640
+Care di capire, una volta che si è dettato il testo, capire
+
+448
+00:29:50,640 --> 00:29:56,400
+dove sono gli errori, riconoscere gli errori e fare chiaramente la revisione
+
+449
+00:29:56,400 --> 00:29:57,440
+in un secondo momento.
+
+450
+00:29:57,440 --> 00:29:58,080
+Questo perché?
+
+451
+00:29:58,080 --> 00:30:00,360
+Perché è inutile fare la revisione subito.
+
+452
+00:30:00,520 --> 00:30:05,960
+Anche se in iOS 16 è stato inserito la revisione del testo
+
+453
+00:30:05,960 --> 00:30:09,560
+mentre si parla, dico bene, Filippo: sì, cioè allora, una funzione che
+
+454
+00:30:09,560 --> 00:30:14,920
+io utilizzo molto, è ovviamente quando si detta e si rilegge il
+
+455
+00:30:14,920 --> 00:30:15,720
+testo dettato.
+
+456
+00:30:15,720 --> 00:30:19,720
+L'altro grosso problema è che spesso e volentieri appunto quel testo l'abbiamo
+
+457
+00:30:19,720 --> 00:30:25,400
+dettato noi, quindi facciamo fatica a accorgersi degli errori, chiamiamole così.
+
+458
+00:30:25,400 --> 00:30:29,480
+Per cui un modo interessante, io lo utilizzo abitualmente e solitamente si
+
+459
+00:30:29,480 --> 00:30:32,600
+vede se non lo utilizzo perché spesso e volentieri prendo su perché
+
+460
+00:30:32,600 --> 00:30:37,560
+ho lasciato dei refusi negli articoli, perché non ho fatto quello che
+
+461
+00:30:37,560 --> 00:30:43,400
+vi sto per raccontare, è sia iOS che macOS danno la possibilità
+
+462
+00:30:43,400 --> 00:30:48,600
+di leggere anche il testo, cioè quindi l'opposto contrario, sintesi vocale.
+
+463
+00:30:48,600 --> 00:30:54,040
+Tra l'altro, recentemente c'è la possibilità di far leggere a Siri, che
+
+464
+00:30:54,040 --> 00:31:00,200
+effettivamente ha una voce decisamente migliore delle precedenti voci sintetiche o digitali
+
+465
+00:31:00,200 --> 00:31:03,320
+che hanno sia su Mac che su iOS.
+
+466
+00:31:03,640 --> 00:31:08,920
+Far rileggere il testo a una voce comunque digitale, ha il vantaggio
+
+467
+00:31:08,920 --> 00:31:13,160
+che non lo rileggiamo noi, quindi non lo ripensiamo noi e spesso
+
+468
+00:31:13,160 --> 00:31:16,120
+e volentieri si notano di più gli errori.
+
+469
+00:31:16,120 --> 00:31:22,040
+A volte senti anche gli strafalcioni di italiano e di Siri, però
+
+470
+00:31:22,040 --> 00:31:28,120
+tendenzialmente un ottimo modo, diciamo, per fare una revisione finale proprio per
+
+471
+00:31:28,120 --> 00:31:32,760
+cercare di trovare gli errori di battitura, o nel caso di dettatura
+
+472
+00:31:32,760 --> 00:31:36,720
+vocale, per esempio, quella A o quella E che cambia perché il
+
+473
+00:31:36,840 --> 00:31:41,400
+termine maschile o femminile l'ha compreso male e così via.
+
+474
+00:31:41,400 --> 00:31:47,520
+Quindi può diventare molto utile come sistema di revisione, addirittura anche guardare
+
+475
+00:31:47,520 --> 00:31:52,240
+il testo con fonte diverso, di modo che l'occhio che si è
+
+476
+00:31:52,240 --> 00:31:57,200
+abituato a leggerlo, diciamo, in una certa maniera, in parte si disabitua
+
+477
+00:31:57,200 --> 00:32:01,360
+e determinati errori risultano più all'occhio.
+
+478
+00:32:02,000 --> 00:32:06,480
+Un altro trucchetto, diciamo per cercare di dettare meglio, può essere quello
+
+479
+00:32:06,480 --> 00:32:10,720
+di utilizzare, chiamiamoli così, dei segnaposto per i nomi, se non si
+
+480
+00:32:10,720 --> 00:32:12,240
+ha un vocabolario di parole.
+
+481
+00:32:12,240 --> 00:32:18,480
+Anche qui, piccola distinzione: appunto: la detatura vocale abitualmente non ti permette,
+
+482
+00:32:18,480 --> 00:32:23,040
+soprattutto su iOS e non ti permette di avere parole specifiche o
+
+483
+00:32:23,040 --> 00:32:24,640
+vocabolari specifici.
+
+484
+00:32:24,640 --> 00:32:30,400
+Quindi cosa succede spesso i nomi propri delle persone o nomi particolarmente
+
+485
+00:32:30,400 --> 00:32:33,760
+tecnici non vengono riconosciuti correttamente.
+
+486
+00:32:33,760 --> 00:32:38,480
+Onde evitare diciamo di appunto avere più errori e così via, il
+
+487
+00:32:38,480 --> 00:32:45,520
+suggerimento qual è utilizzare delle parole, diciamo, di senso compiuto fuori dal
+
+488
+00:32:45,520 --> 00:32:49,200
+contesto, chiamiamolo così, quindi invece di dire Roberto dico tigre.
+
+489
+00:32:49,200 --> 00:32:53,200
+E teoricamente so che Tigre andrà sostituito con Roberto.
+
+490
+00:32:53,200 --> 00:32:57,280
+Quindi alla fine di tutta l'operazione di dentatura vocale, quando ovviamente di
+
+491
+00:32:57,280 --> 00:33:02,400
+un testo di un certo tipo, andrò a sostituire Roberto, cioè tigre
+
+492
+00:33:02,400 --> 00:33:03,200
+a Roberto.
+
+493
+00:33:03,200 --> 00:33:07,920
+Solitamente Roberto Marin, per esempio, Marin secondo me lo riconosce malissimo.
+
+494
+00:33:08,080 --> 00:33:11,760
+Quindi o Marin, o di più.
+
+495
+00:33:12,080 --> 00:33:15,440
+Per cui, per esempio, se voglio dire Roberto Marin diventa molto più
+
+496
+00:33:15,440 --> 00:33:25,760
+semplice dire tigre, e poi, dopo sapere che appunto, tigre decontestualizzato non
+
+497
+00:33:25,760 --> 00:33:26,960
+ha significato.
+
+498
+00:33:26,960 --> 00:33:32,040
+Con un sostituisci, tutto, diciamo, vado a sostituire tutte le parole tigre
+
+499
+00:33:32,200 --> 00:33:33,640
+con Roberto Marin.
+
+500
+00:33:33,800 --> 00:33:35,800
+Quindi adesso questi sono piccoli
+
+501
+00:33:37,480 --> 00:33:43,080
+trucchi che però possono diventare utili, soprattutto se si inizia a implementare
+
+502
+00:33:43,080 --> 00:33:47,480
+in maniera abbastanza avanzata, diciamo, la detatura vocale.
+
+503
+00:33:47,480 --> 00:33:53,400
+Col controllo vocale c'è la possibilità di inserire parole specifiche.
+
+504
+00:33:53,400 --> 00:33:59,320
+Il problema è che va fatto un'attività abbastanza tediosa, diciamo e comunque
+
+505
+00:33:59,640 --> 00:34:01,000
+non è così semplice.
+
+506
+00:34:01,000 --> 00:34:05,400
+Quindi, infatti, noi oggi parleremo di detatura vocale, ma non di controllo
+
+507
+00:34:05,400 --> 00:34:10,040
+vocale, perché il controllo vocale è un argomento a sé stante interessantissimo
+
+508
+00:34:10,040 --> 00:34:13,560
+da un certo punto di vista, ma che richiede poi anche molto,
+
+509
+00:34:13,560 --> 00:34:19,880
+molto più lavoro dietro per imparare poi a controllare fisicamente il computer
+
+510
+00:34:19,880 --> 00:34:24,200
+attraverso la voce, perché devi proprio utilizzare un lessico specifico.
+
+511
+00:34:26,280 --> 00:34:30,200
+Un altro esempio che secondo me è interessante che avevo già non
+
+512
+00:34:30,200 --> 00:34:33,960
+mi ricordo mai quando utilizzo la dettatura, secondo me, è la questione
+
+513
+00:34:33,960 --> 00:34:35,320
+di andare a capo.
+
+514
+00:34:36,120 --> 00:34:39,400
+Vi capiterà durante il testo se avete un testo molto lungo, per
+
+515
+00:34:39,400 --> 00:34:43,800
+esempio, come si va a capo Filippo quando si detta nuovo paragrafo
+
+516
+00:34:43,800 --> 00:34:46,440
+o nuova riga che non mi rimarrà mai in testa.
+
+517
+00:34:46,440 --> 00:34:50,520
+Devo trovare un escamotage mentale per riuscire a memorizzarlo.
+
+518
+00:34:50,520 --> 00:34:51,560
+Ma cosa dirte?
+
+519
+00:34:52,040 --> 00:34:56,440
+Perché se dice a capo: se dice a capo, scrive.
+
+520
+00:34:56,600 --> 00:34:59,240
+No, lo scrive, non mi verrà mai in mente.
+
+521
+00:34:59,240 --> 00:35:04,040
+In ogni caso, ci sono questi comandi per la dettatura vocale che
+
+522
+00:35:04,040 --> 00:35:08,440
+magari vi possono interessare come il punto, per esempio, la punteggiatura, io
+
+523
+00:35:08,440 --> 00:35:09,720
+l'ho detto quello, sì.
+
+524
+00:35:09,720 --> 00:35:10,520
+Addirittura.
+
+525
+00:35:10,760 --> 00:35:14,760
+Però adesso con i S16 dovrebbe riprendere, anche lì, la riconosce solo
+
+526
+00:35:14,840 --> 00:35:18,240
+però in lingua inglese, figurati, mai alto.
+
+527
+00:35:18,400 --> 00:35:20,320
+Però effettivamente il risultato è
+
+528
+00:35:21,520 --> 00:35:24,240
+devo dire la verità: siamo una lingua minore, nel senso che lo
+
+529
+00:35:24,240 --> 00:35:26,960
+spagnolo, il tedesco, il francese sono tutte.
+
+530
+00:35:26,960 --> 00:35:32,160
+Però, abitualmente poi arriviamo, quindi, come per esempio, l'ONPOD è stato è
+
+531
+00:35:32,160 --> 00:35:37,120
+stato l'ultimo ad avere la lingua italiana e quindi a essere prodotti
+
+532
+00:35:37,120 --> 00:35:38,240
+in Italia.
+
+533
+00:35:38,240 --> 00:35:40,160
+Adesso comunque bene o male.
+
+534
+00:35:40,160 --> 00:35:46,080
+Probabilmente con il nuovo con iOS 17 lo faranno a questo punto.
+
+535
+00:35:46,240 --> 00:35:50,480
+Non so se porta sfortuna o cosa o lo saltano, non ci
+
+536
+00:35:50,480 --> 00:35:51,200
+avevo pensato.
+
+537
+00:35:51,200 --> 00:35:55,040
+Ecco, un'altra cosa da tenere presente mentre si è detta a voce
+
+538
+00:35:55,040 --> 00:35:58,560
+è non controllare, cioè non leggere il testo che viene detto.
+
+539
+00:35:58,560 --> 00:36:03,520
+Uno perché spesso e le parole dipendono dal loro contesto.
+
+540
+00:36:03,840 --> 00:36:08,640
+Quindi, a volte, se state a guardare il testo mentre viene detto,
+
+541
+00:36:08,960 --> 00:36:14,720
+si modifica perché più voi dettate, più l'algoritmo riesce a capire meglio,
+
+542
+00:36:14,720 --> 00:36:17,280
+diciamo, le parole, in base a
+
+543
+00:36:18,320 --> 00:36:21,200
+come vanno assieme, diciamo, con la lingua italiana, per esempio.
+
+544
+00:36:21,200 --> 00:36:25,840
+Lo stesso principio vale con la lingua inglese: determinate parole possono stare
+
+545
+00:36:25,840 --> 00:36:29,840
+solo a fianco di altre e non a fianco di altre ancora.
+
+546
+00:36:29,840 --> 00:36:33,040
+Quindi l'algoritmo è legato in questa maniera.
+
+547
+00:36:33,040 --> 00:36:37,040
+Quindi spesso e volentieri casomai vedere che la parola che state dettando
+
+548
+00:36:37,040 --> 00:36:42,160
+non è quella giusta, anche casomai temporaneamente è controproducente, vi fa perdere
+
+549
+00:36:42,240 --> 00:36:43,840
+il filo logico della detatura.
+
+550
+00:36:44,000 --> 00:36:49,280
+Ricordatevi che è più importante arrivare a dettare una frase, diciamo, di
+
+551
+00:36:49,280 --> 00:36:55,360
+senso compiuto in italiano, dettata, diciamo, che poi non venga convertita correttamente
+
+552
+00:36:55,360 --> 00:37:00,920
+al 100% testo, piuttosto che fare il contrario, cioè cercare di dettare
+
+553
+00:37:00,920 --> 00:37:06,520
+il testo giusto e poi perdere il filo del pensiero, diciamo, che
+
+554
+00:37:06,520 --> 00:37:07,160
+state
+
+555
+00:37:08,920 --> 00:37:10,120
+mettendo in atto.
+
+556
+00:37:10,120 --> 00:37:13,480
+E già che ci siamo, perché ho visto che nella scaletta lo
+
+557
+00:37:13,480 --> 00:37:17,640
+avevo segnato e non avevo fatto, ne abbiamo parlato, ma non abbiamo
+
+558
+00:37:17,640 --> 00:37:22,520
+fatto l'approfondimento sul discorso della rilettura con la voce di Siri, su
+
+559
+00:37:22,520 --> 00:37:24,680
+macOS cosa dovete fare?
+
+560
+00:37:24,680 --> 00:37:31,080
+Dovete andare nelle preferenze di sistema in accessibilità e in contenuto letta
+
+561
+00:37:31,080 --> 00:37:38,440
+voce e abilitare la funzione Leggi selezionad voce, se andate nelle opzioni,
+
+562
+00:37:38,440 --> 00:37:45,160
+il tasto base per far partire la lettura vocale è opzione es,
+
+563
+00:37:45,240 --> 00:37:47,720
+cioè Alt Esque per intenderci.
+
+564
+00:37:47,720 --> 00:37:51,000
+Personalmente lo trovo molto comodo come tasto, forse perché ormai ci sono
+
+565
+00:37:51,000 --> 00:37:53,000
+abituato, lo uso veramente tanto.
+
+566
+00:37:53,000 --> 00:37:58,200
+Dopo, vedete, ci sono varie opzioni sul fatto che evidenzia le parole,
+
+567
+00:37:58,520 --> 00:38:03,800
+colora solo la parola, colora l'intera frase, e diciamo, dopo potete usare
+
+568
+00:38:03,800 --> 00:38:08,280
+una serie di funzioni grafiche molto interessanti per proprio vedere dove sta
+
+569
+00:38:08,280 --> 00:38:12,280
+leggendo, ma almeno dalla mia esperienza personale, sia su iOS che su
+
+570
+00:38:12,280 --> 00:38:16,760
+macOS che ha ereditato questo sistema da iOS, non è che funzioni
+
+571
+00:38:16,920 --> 00:38:22,200
+perfettamente ed è molto meglio avere invece la dettatura vocale, diciamo cioè
+
+572
+00:38:22,360 --> 00:38:25,320
+scusami, la rilettura vocale.
+
+573
+00:38:25,640 --> 00:38:29,320
+Tra l'altro, abitualmente io cosa faccio?
+
+574
+00:38:29,480 --> 00:38:33,080
+Potete anche, io, ovviamente, ho abilitato la voce di Siri, quindi tra
+
+575
+00:38:33,080 --> 00:38:35,960
+le varie opzioni, ho abilitato la voce di Siri, che è una
+
+576
+00:38:35,960 --> 00:38:39,800
+voce decisamente migliore, l'altra è la velocità di lettura.
+
+577
+00:38:39,800 --> 00:38:44,440
+Forse, per la mia deformazione, che ascolto il podcast a velocità aumentata,
+
+578
+00:38:44,440 --> 00:38:48,080
+anche la velocità di lettura l'ho aumentata.
+
+579
+00:38:48,240 --> 00:38:53,440
+Anche perché, se no, veramente ascoltare un testo letto piano in questo
+
+580
+00:38:53,760 --> 00:39:00,160
+modo, diciamo, diventa abbastanza impegnativo e quindi cerco la rilettura è comoda,
+
+581
+00:39:00,160 --> 00:39:03,760
+fatta dal computer, ma cerco di velocizzarla notevolmente.
+
+582
+00:39:03,760 --> 00:39:08,880
+Su iOS dovete andare in impostazioni, accessibilità.
+
+583
+00:39:09,200 --> 00:39:16,880
+A questo punto in accessibilità troverete la voce uguale, identica, contenuto letto
+
+584
+00:39:16,880 --> 00:39:18,000
+ad alta voce.
+
+585
+00:39:18,160 --> 00:39:23,120
+In questo caso facendo tap, avete la possibilità di leggere selezione.
+
+586
+00:39:23,120 --> 00:39:24,640
+Leggi schermo.
+
+587
+00:39:24,640 --> 00:39:26,320
+Leggi selezione.
+
+588
+00:39:26,320 --> 00:39:30,640
+Di fatto, se selezionate il testo e fate un tap sullo schermo,
+
+589
+00:39:30,640 --> 00:39:37,840
+comparirà tra le altre funzioni, diciamo, contestuali la possibilità di leggere alta
+
+590
+00:39:37,840 --> 00:39:42,240
+voce, se invece avete un lungo testo da leggere su una schermata,
+
+591
+00:39:42,240 --> 00:39:46,480
+o addirittura volete farvi leggere un libro da Siri perché è possibile
+
+592
+00:39:46,480 --> 00:39:47,040
+farlo.
+
+593
+00:39:47,040 --> 00:39:52,240
+Attivando leggi schermo, se scorrete con due dita dall'alto verso in basso,
+
+594
+00:39:52,240 --> 00:39:55,680
+si attiverà il sistema di lettura.
+
+595
+00:39:55,920 --> 00:39:59,520
+A questo punto ho anche gli articoli che dovete leggere.
+
+596
+00:40:00,000 --> 00:40:02,240
+Sì, sì, sì, sì, è tutto fattibile.
+
+597
+00:40:02,240 --> 00:40:07,840
+Addirittura poi ci sono anche dei comandi rapidi per creare un vocale,
+
+598
+00:40:07,840 --> 00:40:09,520
+un enorme vocale di un articolo.
+
+599
+00:40:09,520 --> 00:40:13,120
+Se volete leggere un articolo mio o di Roberto a voce, potete
+
+600
+00:40:13,120 --> 00:40:14,720
+farlo con una shortcut
+
+601
+00:40:16,080 --> 00:40:21,680
+e quindi, però, credo che sia, diciamo, utile vederlo da una parte
+
+602
+00:40:21,680 --> 00:40:26,560
+e sapere come attivare queste funzioni che sono abbastanza nascoste nel sistema,
+
+603
+00:40:26,560 --> 00:40:32,600
+e quindi a volte meglio procedere, diciamo come si va a capo.
+
+604
+00:40:32,600 --> 00:40:33,400
+L'abbiamo già detto.
+
+605
+00:40:29,920 --> 00:40:35,480
+Quindi non ci ripetiamo, diciamo.
+
+606
+00:40:35,640 --> 00:40:40,440
+E quindi adesso la mia idea era quella di vedere come attivare
+
+607
+00:40:40,440 --> 00:40:45,960
+su macOS la dettatura vocale, e poi come fare la stessa cosa
+
+608
+00:40:45,960 --> 00:40:50,920
+su iOS, e poi vedere le novità di iOS 16 e iPadOS
+
+609
+00:40:51,080 --> 00:40:51,640
+16.
+
+610
+00:40:51,640 --> 00:40:56,600
+E vabbè, le novità, di macOS Ventura, perché praticamente le novità che
+
+611
+00:40:56,600 --> 00:40:58,520
+ci sarebbero non ci sono in italiano.
+
+612
+00:40:58,840 --> 00:41:02,920
+Faccio uno spoiler quindi non c'è molto da fare come si suol
+
+613
+00:41:02,920 --> 00:41:03,880
+dire,
+
+614
+00:41:06,520 --> 00:41:12,200
+diciamo che trovate comunque i link ai manuali Apple, chiamiamoli così, nelle
+
+615
+00:41:12,200 --> 00:41:17,400
+note dell'episodio, e ovviamente faremo una carellata generale, ma non riusciamo per
+
+616
+00:41:17,400 --> 00:41:20,760
+ovvi a farvi vedere tutto, spiegarvi tutto e così via.
+
+617
+00:41:20,760 --> 00:41:25,560
+Una cosa che vi segnalavo, che abbiamo già detto velocemente: ma con
+
+618
+00:41:25,560 --> 00:41:29,880
+i Mac e con Apple Silicon le richieste di dittatura di testo
+
+619
+00:41:29,880 --> 00:41:35,560
+generali sono elaborate direttamente sul dispositivo in molte lingue e non richiede
+
+620
+00:41:35,560 --> 00:41:41,000
+anche qui la connessione a internet, ricordiamoci che questa funzione nasce su
+
+621
+00:41:41,000 --> 00:41:45,960
+iOS, diciamo, e quindi sui chip a qualcosa, a 12 credo devono
+
+622
+00:41:45,960 --> 00:41:46,520
+essere.
+
+623
+00:41:46,520 --> 00:41:52,440
+Dopo lo vediamo probabilmente nella parte legata ad iOS e con l'M1,
+
+624
+00:41:52,440 --> 00:41:57,880
+sostanzialmente che va a prendere una versione potenziata degli A12 e così
+
+625
+00:41:57,880 --> 00:42:02,680
+via, l'hanno implementata direttamente sul chip, quindi è molto interessante.
+
+626
+00:42:02,680 --> 00:42:06,520
+Anche qui, nelle note dell'episodio, ci sono i comandi per dettare, cioè
+
+627
+00:42:06,520 --> 00:42:12,600
+anche per la dettatura vocale, appunto aprire le virgolette, chiudere, ci sono
+
+628
+00:42:12,600 --> 00:42:15,840
+modi specifici per fare cose specifiche.
+
+629
+00:42:15,000 --> 00:42:17,120
+E quindi è necessario.
+
+630
+00:42:18,240 --> 00:42:22,640
+Appunto esclamativo, è ovvio che è abbastanza semplice da dettare, le interpuzioni
+
+631
+00:42:22,880 --> 00:42:27,200
+un po' più complicate o i simboli particolari, per esempio il simbolo
+
+632
+00:42:27,200 --> 00:42:30,560
+del copyright il cerchio con dentro la R.
+
+633
+00:42:30,560 --> 00:42:33,920
+C'è un modo specifico per dettarlo ovviamente.
+
+634
+00:42:34,160 --> 00:42:37,920
+Dovete conoscerlo, dovete memorizzarlo e non c'è niente da fare come a
+
+635
+00:42:37,920 --> 00:42:42,400
+capo e nuova riga è fondamentale che poi non è a capo,
+
+636
+00:42:42,400 --> 00:42:48,560
+ma è nuovo paragrafo e nuova riga sono fondamentali per poter fare
+
+637
+00:42:48,800 --> 00:42:55,280
+questa funzione perché funzionano solo con quella specifico comando vocale, chiamiamolo così.
+
+638
+00:42:55,280 --> 00:43:00,240
+Quindi non possiamo entrare nel dettaglio, Roberto, giustamente mi ha fatto notare
+
+639
+00:43:00,240 --> 00:43:04,240
+perché io non li avevo neanche proprio inserita nella scaletta come nuova
+
+640
+00:43:04,240 --> 00:43:08,720
+riga e nuovo paragrafo siano fondamentali per poter, diciamo fare la detatura
+
+641
+00:43:08,720 --> 00:43:11,360
+vocale di frasi più lunghe di un singolo paragrafo.
+
+642
+00:43:11,360 --> 00:43:11,920
+Appunto.
+
+643
+00:43:11,920 --> 00:43:17,120
+Gli altri dovete andarvi a vedere perché ovviamente richiedono da una parte
+
+644
+00:43:17,600 --> 00:43:23,040
+comunque un minimo di memorizzazione e di utilizzo, dall'altra, sono specifici della
+
+645
+00:43:23,040 --> 00:43:24,080
+specifica lingua.
+
+646
+00:43:24,080 --> 00:43:27,920
+Quindi per attivare invece la datura vocale, rivediamo se riusciamo a far
+
+647
+00:43:28,000 --> 00:43:32,640
+vedere la mappa mentale, dobbiamo andare in tastiera in detatura, come aveva
+
+648
+00:43:32,640 --> 00:43:37,440
+già detto Roberto, abilitare la datura e nel momento in cui abilitiamo
+
+649
+00:43:37,440 --> 00:43:43,120
+la dettatura, tra l'altro, su Mac scaricherà appunto un GB più o
+
+650
+00:43:43,120 --> 00:43:46,480
+meno aggiuntivo per avere i dizionari per la dettatura.
+
+651
+00:43:46,720 --> 00:43:51,600
+Dobbiamo ovviamente scegliere anche la lingua in cui vogliamo dettare.
+
+652
+00:43:51,840 --> 00:43:55,920
+A questo punto, per esempio, nel mio caso specifico, che è quello
+
+653
+00:43:55,920 --> 00:44:00,600
+della tastiera collegata al Mac Mini, il tasto premuto due volte per
+
+654
+00:44:00,600 --> 00:44:05,480
+far partire la datura vocale è CTRL perché non ho il tasto
+
+655
+00:44:05,480 --> 00:44:12,120
+funzione, vedete come oltre al tasto CTRL, possa essere il tasto funzione,
+
+656
+00:44:12,120 --> 00:44:13,960
+appunto premuto due volte.
+
+657
+00:44:13,960 --> 00:44:17,880
+È molto comodo perché è raro premere questi tasti due volte in
+
+658
+00:44:17,880 --> 00:44:22,920
+successione, se no, abbiamo il tasto comm o comando destro o sinistro
+
+659
+00:44:23,160 --> 00:44:28,680
+o due volte semplicemente a prescindere il tasto comando indifferenziato.
+
+660
+00:44:28,680 --> 00:44:35,080
+Oppure addirittura possiamo personalizzare con una scorciatoia a tastiera che decidiamo noi.
+
+661
+00:44:35,240 --> 00:44:37,560
+Funziona, io mi ci trovo molto molto bene.
+
+662
+00:44:37,880 --> 00:44:42,680
+Quindi lo consiglio se non avete specifiche necessità.
+
+663
+00:44:42,680 --> 00:44:49,400
+L'abbiamo già accennato, ma dettatura vocale è un discorso, controllo vocale è
+
+664
+00:44:49,400 --> 00:44:50,040
+un altro.
+
+665
+00:44:50,040 --> 00:44:56,200
+Si trovano posizioni totalmente differenti per attivarli, in particolare controllo vocale, giusto
+
+666
+00:44:56,280 --> 00:45:00,280
+se siete un minimo curiosi, si trova in cost, si trova in
+
+667
+00:45:00,360 --> 00:45:04,760
+preferenza di sistema, accessibilità, e a questo punto controllo vocale.
+
+668
+00:45:04,760 --> 00:45:09,320
+Quando attivi il controllo vocale, non solo puoi dettare e pronunciare comandi
+
+669
+00:45:09,320 --> 00:45:13,880
+per modificare dei testi, quindi si ha anche la funzione di cambiare
+
+670
+00:45:13,880 --> 00:45:15,880
+le parole vocalmente.
+
+671
+00:45:15,880 --> 00:45:20,040
+Quindi possiamo fare la correzione vocale del testo che abbiamo creato.
+
+672
+00:45:20,200 --> 00:45:23,720
+In questo caso si fa tutto a voce, e anche qui, però,
+
+673
+00:45:23,720 --> 00:45:28,120
+bisogna ricordarsi tutta una serie di comandi vocali e imparare una serie
+
+674
+00:45:28,120 --> 00:45:29,960
+di comandi vocali che sono fondamentali.
+
+675
+00:45:29,960 --> 00:45:33,400
+Perché, se no, per esempio, non so, per spostarsi avanti e indietro
+
+676
+00:45:33,400 --> 00:45:37,880
+tra parole, devi dire vai alla parola successiva o cancella il nome
+
+677
+00:45:37,880 --> 00:45:38,840
+della parola.
+
+678
+00:45:38,840 --> 00:45:42,600
+È un qualcosa che richiede veramente un salto in avanti.
+
+679
+00:45:42,600 --> 00:45:47,280
+Diciamo, abitualmente appunto una funzione di accessibilità, cioè per chi, per esempio,
+
+680
+00:45:47,840 --> 00:45:52,080
+fa fatica a scrivere, perché ha un problema con le mani e
+
+681
+00:45:52,080 --> 00:45:57,120
+così via, e quindi o la tastiera e quant'altro, richiede uno step
+
+682
+00:45:57,120 --> 00:46:02,320
+ulteriore, devo dire la verità, c'è la possibilità proprio di controllare tutto
+
+683
+00:46:02,320 --> 00:46:03,360
+il sistema operativo.
+
+684
+00:46:03,360 --> 00:46:04,000
+Dopo.
+
+685
+00:46:04,000 --> 00:46:08,320
+Quindi, per esempio, utilizzando apri mail, ti apre il programma mail, fai
+
+686
+00:46:08,320 --> 00:46:13,760
+clic su fine, ti preme l'interfaccia dove c'è scritto fine scorri in
+
+687
+00:46:13,760 --> 00:46:15,440
+basso, scorre in basso la pagina.
+
+688
+00:46:15,440 --> 00:46:19,600
+Quindi una volta che sappiamo come funziona il sistema e abbiamo il
+
+689
+00:46:19,600 --> 00:46:23,040
+sistema di controllo vocale di tutte le applicazioni.
+
+690
+00:46:23,040 --> 00:46:29,280
+Addirit possiamo far fare al salsa Gohan ha fatto un bellissimo video.
+
+691
+00:46:29,520 --> 00:46:33,040
+Creare dei comandi specifici nostri possiamo creare noi
+
+692
+00:46:34,080 --> 00:46:41,040
+utilizzando shortcut o comandi rapidi utilizzando automaticando Apples script, possiamo anche dire:
+
+693
+00:46:41,040 --> 00:46:46,640
+fare questo creare un vocabolario nostro di comandi vocali e fargli fare
+
+694
+00:46:46,640 --> 00:46:47,200
+queste cose.
+
+695
+00:46:47,520 --> 00:46:51,600
+Ad esempio, nel mio caso, ho fatto un esempio molto veloce: ho
+
+696
+00:46:51,600 --> 00:46:56,160
+fatto il log peso, cioè, io dico semplicemente a Siri log peso
+
+697
+00:46:56,160 --> 00:47:01,920
+e poi mi apre direttamente la tabella di salute dove io posso
+
+698
+00:47:01,920 --> 00:47:06,800
+inserire manualmente oppure dettagli il peso che ho in quel momento.
+
+699
+00:47:06,800 --> 00:47:10,720
+Ed è molto più veloce che rispetto a utilizzare, andare a cercare
+
+700
+00:47:10,720 --> 00:47:16,960
+solo manualmente la tabella del peso all'interno di salute, dell'applicazione salute.
+
+701
+00:47:16,960 --> 00:47:19,600
+E quindi diventa molto molto interessante.
+
+702
+00:47:19,600 --> 00:47:24,880
+Questi trigger che ti permettono di aumentare le capacità dei comandi vocali,
+
+703
+00:47:24,880 --> 00:47:28,240
+ma anche del proprio device che si sta utilizzando in quel momento.
+
+704
+00:47:28,240 --> 00:47:30,440
+Vediamo quindi agli ossa e pados.
+
+705
+00:47:30,760 --> 00:47:35,720
+Per quanto riguarda la dettatura del testo, adesso finalmente c'è l'ho sotto
+
+706
+00:47:35,720 --> 00:47:41,960
+mano perché non me lo ricordavo, è dall'iPhone 6S, sostanzialmente, modelli successivi,
+
+707
+00:47:41,960 --> 00:47:46,200
+che è possibile dettare testo senza la connessione ad internet.
+
+708
+00:47:46,200 --> 00:47:51,560
+Quindi i chip vanno belli indietro, tra virgolette, anche perché credo che
+
+709
+00:47:51,560 --> 00:47:57,480
+l'iPhone 6 sia stato definito vintage da Apple adesso e il 6S
+
+710
+00:47:57,640 --> 00:48:02,440
+ormai è in fase finale, diciamo, è in fase di vita finale,
+
+711
+00:48:02,440 --> 00:48:03,800
+mettiamola così.
+
+712
+00:48:04,120 --> 00:48:09,480
+Quindi, comunque sono veramente dispositivi che hanno una loro età e che
+
+713
+00:48:09,480 --> 00:48:14,440
+comunque riescono a fare il riconoscimento del testo direttamente sul dispositivo, l'abbiamo
+
+714
+00:48:14,440 --> 00:48:17,640
+già detto, comunque per inserire il testo basta toccare il pulsante del
+
+715
+00:48:17,640 --> 00:48:22,200
+microfono nella tastiera e quindi iniziare a parlare, non c'è nulla di
+
+716
+00:48:22,200 --> 00:48:23,240
+particolare.
+
+717
+00:48:23,240 --> 00:48:28,520
+Nel momento in cui la parola diciamo viene riconosciuta, ma il sistema
+
+718
+00:48:28,520 --> 00:48:33,000
+operativo non è sicuro al 100% che sia la parola giusta, viene
+
+719
+00:48:33,000 --> 00:48:37,320
+sottolineata in blu invece che in rosso quando c'è un errore di
+
+720
+00:48:37,880 --> 00:48:40,760
+scrittura, ma ovviamente con tasera.
+
+721
+00:48:41,080 --> 00:48:46,680
+A questo punto sarà possibile, facendo un tap sulla parola sottolineata di
+
+722
+00:48:46,680 --> 00:48:49,480
+blu, avere delle alternative.
+
+723
+00:48:50,120 --> 00:48:55,880
+Il sistema ti proporrà delle alternative sostanzialmente per sostituire quella parola e
+
+724
+00:48:55,880 --> 00:49:01,080
+contemporaneamente, una volta che la andate a sostituire, di fatto istruite l'intelligenza
+
+725
+00:49:01,080 --> 00:49:03,720
+artificiale teoricamente per migliorare.
+
+726
+00:49:03,720 --> 00:49:07,480
+Quindi attenzione, anche se fate questa operazione, perché se la fate con
+
+727
+00:49:07,480 --> 00:49:11,240
+una parola sbagliata, anche se voi avete detto la parola, avete pronunciato
+
+728
+00:49:11,240 --> 00:49:14,040
+la parola correttamente, ma ne volevate dire un'altra e quindi è andata
+
+729
+00:49:14,040 --> 00:49:18,640
+a correggere casomai, con la parola che ho suggerito perché suona simile,
+
+730
+00:49:15,000 --> 00:49:21,760
+rischiate, però, di rendere più stupido il sistema.
+
+731
+00:49:21,920 --> 00:49:24,640
+Mettiamola così: è importante da sapere.
+
+732
+00:49:24,640 --> 00:49:29,920
+La punteggiatura, appunto, l'abbiamo già detto: è ciao Marco, la ricevuta è
+
+733
+00:49:29,920 --> 00:49:36,640
+legata all'email, punto esclamativo, creerà il testo con la virgola e il
+
+734
+00:49:36,640 --> 00:49:42,960
+punto esclamativo dove li abbiamo dettati: virgolette di apertura di chiusura apre
+
+735
+00:49:43,120 --> 00:49:44,880
+chiude la citazione.
+
+736
+00:49:44,880 --> 00:49:49,040
+E già avete capito che se aperte virgolette, chiuse virgolette, almeno quello
+
+737
+00:49:49,040 --> 00:49:52,960
+che verrebbe da me non funziona, anche da me,
+
+738
+00:49:54,320 --> 00:49:58,480
+esatto nuovo paragrafo, inizio nuovo paragrafo, nuova riga, l'abbiamo già detto: inizia
+
+739
+00:49:58,480 --> 00:50:00,160
+una nuova riga.
+
+740
+00:50:00,160 --> 00:50:05,280
+Ecco, tutto maiuscolo, scrive in maiuscolo fino a che non disattivate con
+
+741
+00:50:05,280 --> 00:50:06,240
+tutto minuscolo.
+
+742
+00:50:06,240 --> 00:50:13,200
+Quindi sorriso le emoji neanche: neanche il punte virgola, anzi, due punti
+
+743
+00:50:13,360 --> 00:50:19,200
+trattino e parentesi chiusa, parentesi tonda chiusa per fare il sorriso triste,
+
+744
+00:50:19,200 --> 00:50:20,800
+la stessa cosa e così via.
+
+745
+00:50:20,800 --> 00:50:25,200
+Poi ovviamente anche qui nei link trovate tutto l'elenco.
+
+746
+00:50:25,760 --> 00:50:30,160
+Copiate le cose che ritenevo, diciamo, più interessanti.
+
+747
+00:50:30,480 --> 00:50:35,040
+Controllo vocale su iOS e iPadOS, è nel senso che non è
+
+748
+00:50:35,040 --> 00:50:40,640
+presente in italiano, quindi è una serie di funzioni veramente interessanti.
+
+749
+00:50:40,640 --> 00:50:45,600
+A me, ormai credo due anni fa l'hanno presentato col Kynote, ha
+
+750
+00:50:45,600 --> 00:50:49,840
+fatto un qualcosa di eccezionale per i dispositivi mobili perché, perché di
+
+751
+00:50:49,840 --> 00:50:55,600
+fatto, per appunto, chi non ha la possibilità di gestire fisicamente questi
+
+752
+00:50:55,600 --> 00:50:59,760
+dispositivi, per motivi, non ci vede, non riesce a toccare lo schermo
+
+753
+00:51:00,040 --> 00:51:04,200
+e così via, veramente si riesce a fare delle cose meravigliose, attualmente
+
+754
+00:51:04,200 --> 00:51:08,840
+in italiano non è supportato e quindi tutta una serie di funzioni,
+
+755
+00:51:08,840 --> 00:51:14,600
+cioè proprio con la voce si può premere l'interfaccia grafica e quindi
+
+756
+00:51:14,920 --> 00:51:21,240
+per esempio abilitare una griglia e dire pigia il tasto uno nella
+
+757
+00:51:21,400 --> 00:51:28,360
+griglia o prigia l'icona con questo nome qui è interessantissimo come sistema,
+
+758
+00:51:28,360 --> 00:51:30,280
+attualmente in italiano non esiste.
+
+759
+00:51:30,680 --> 00:51:34,680
+Per chi fosse interessato, devo dire la verità.
+
+760
+00:51:34,920 --> 00:51:37,720
+L'unica cosa che mi lascia un po' perplesso è che da tanto
+
+761
+00:51:37,720 --> 00:51:43,080
+tempo: ci deve essere almeno due sistemi operativi che funzionano in lingua
+
+762
+00:51:43,080 --> 00:51:46,520
+inglese in altre lingue, ma non è mai stato implementato per la
+
+763
+00:51:46,520 --> 00:51:47,320
+lingua italiana.
+
+764
+00:51:47,320 --> 00:51:52,440
+Forse siamo troppo pochi: perché noi ci capiamo a gesti e quindi
+
+765
+00:51:52,440 --> 00:51:54,520
+le parole non le utilizziamo.
+
+766
+00:51:55,640 --> 00:51:59,080
+Ma ci sono altri un altro paio di sistemi operativi che possiamo
+
+767
+00:51:59,080 --> 00:52:01,720
+parlare brevemente: voce S, ad esempio.
+
+768
+00:52:01,720 --> 00:52:05,800
+È utilissimo quando si tratta di messaggi che possono essere, non so,
+
+769
+00:52:05,800 --> 00:52:10,920
+su Whatsapp, ma sicuramente su Telegram può diventare veramente utile questo perché
+
+770
+00:52:11,400 --> 00:52:16,760
+potete rispondere o direttamente con l'interfaccia a schermo, sull'interfaccia di messaggi oppure
+
+771
+00:52:16,760 --> 00:52:17,800
+di Telegram.
+
+772
+00:52:17,800 --> 00:52:22,680
+Ma una cosa interessante è la capacità di unire il comando vocale
+
+773
+00:52:22,680 --> 00:52:24,360
+con la dettatura vocale.
+
+774
+00:52:24,360 --> 00:52:30,200
+Ad esempio, posso dire a Siri di scrivere un messaggio su Telegram
+
+775
+00:52:30,200 --> 00:52:34,440
+a Filippo e questo mi chiederà ovviamente cosa vuoi scrivere.
+
+776
+00:52:34,440 --> 00:52:38,760
+A questo punto posso dirgli il testo del messaggio che verrà inviato
+
+777
+00:52:38,760 --> 00:52:42,520
+su Telegram oppure su messaggi o su altri tipi di dispositivi.
+
+778
+00:52:42,520 --> 00:52:44,520
+Molto interessante questo incrocio di
+
+779
+00:52:45,680 --> 00:52:53,440
+tecnologie che vengono utilizzate all'interno di dispositivi diversi come appunto nel caso
+
+780
+00:52:53,440 --> 00:52:58,240
+di Watch OS che tendenzialmente non utilizzi con le mani, nel senso
+
+781
+00:52:58,240 --> 00:53:01,920
+che puoi anche avere, essendo su un polso, l'altra mano potrebbe anche
+
+782
+00:53:01,920 --> 00:53:02,640
+essere occupata.
+
+783
+00:53:02,640 --> 00:53:07,920
+Quindi è una cosa molto facile interagire con l'Apple Watch con la
+
+784
+00:53:07,920 --> 00:53:11,680
+voce, ma altrettanto è facile utilizzare ad esempio CarPlay.
+
+785
+00:53:11,680 --> 00:53:16,560
+CarPla è nato ad esempio proprio perché le mani devono essere impegnate
+
+786
+00:53:16,560 --> 00:53:21,440
+sul volante, sul cambio e la concentrazione deve essere massima sulla strada
+
+787
+00:53:21,600 --> 00:53:25,440
+e quindi ci si appoggia tantissimo sul comando vocale.
+
+788
+00:53:25,440 --> 00:53:30,800
+Il comando vocale che si può ovviamente lanciare con il richiamo a
+
+789
+00:53:30,800 --> 00:53:34,480
+Siri oppure come faccio io, io ho disabilitato da tutte le parti
+
+790
+00:53:34,480 --> 00:53:40,080
+Siri il comando vocale, ma lo attivo con l'attivazione che c'è sul
+
+791
+00:53:40,080 --> 00:53:41,920
+comando a volante nel mio caso.
+
+792
+00:53:41,920 --> 00:53:46,080
+In questo modo posso attivare Siri e mi ricollego tutto al circuito
+
+793
+00:53:46,080 --> 00:53:46,240
+di
+
+794
+00:53:47,280 --> 00:53:49,360
+comandi vocali e dettatura vocale.
+
+795
+00:53:49,360 --> 00:53:54,480
+Una cosa che utilizzo sempre, ad esempio, è fargli aprire automaticamente l'applicazione
+
+796
+00:53:54,480 --> 00:53:55,040
+podcast.
+
+797
+00:53:55,040 --> 00:53:56,800
+Dico fammi sentire podcast.
+
+798
+00:53:56,800 --> 00:53:59,520
+Lui mi apre l'applicazione podcast e parlo con il primo che ho
+
+799
+00:53:59,520 --> 00:54:03,680
+in lista senza che io debbia fare niente con le mani ed
+
+800
+00:54:03,680 --> 00:54:04,880
+è molto semplice.
+
+801
+00:54:05,120 --> 00:54:09,680
+Ad esempio c'è la possibilità di farsi leggere proprio farsi leggere all'interno
+
+802
+00:54:09,680 --> 00:54:13,840
+del se ti arriva un messaggio sul messaggio su Telegram, farsi leggere
+
+803
+00:54:13,840 --> 00:54:17,840
+i messaggi e conseguentemente viene anche richiesto se si vuole rispondere.
+
+804
+00:54:17,840 --> 00:54:21,600
+Sì, volevo segnare una cosa, perché tu probabilmente hai il car play
+
+805
+00:54:21,600 --> 00:54:22,960
+che funziona meglio.
+
+806
+00:54:22,960 --> 00:54:27,120
+Ma se avete collegato il telefono alla macchina, il bluetooth della macchina,
+
+807
+00:54:27,120 --> 00:54:31,720
+e appunto il c'è un tasto, diciamo, per fare la chiamata.
+
+808
+00:54:29,360 --> 00:54:32,040
+Quel tasto
+
+809
+00:54:29,600 --> 00:54:34,360
+funziona anche per attivare Siri.
+
+810
+00:54:34,440 --> 00:54:39,160
+L'unica segnalazione che faccio perché io appunto, ho avuto sempre una serie
+
+811
+00:54:39,160 --> 00:54:43,320
+di problemi notevoli fino a che David Spark non ha segnalato sul
+
+812
+00:54:43,320 --> 00:54:49,800
+suo podcast una cosa: è quando voi schiacciate, voi partite senza aspettare
+
+813
+00:54:50,120 --> 00:54:54,600
+il solito blin blin o il rumore che fa Siri quando inizia
+
+814
+00:54:54,600 --> 00:55:00,600
+ad ascoltare, perché comunque Siri inizia ad ascoltare subito e effettivamente funziona,
+
+815
+00:55:00,600 --> 00:55:04,760
+cioè, voi una volta fatto partire, dite le cose che dovete dire
+
+816
+00:55:04,760 --> 00:55:10,120
+e il comando che volete dare, e vedrete che funzionerà abitualmente senza
+
+817
+00:55:10,120 --> 00:55:11,160
+troppi problemi.
+
+818
+00:55:11,160 --> 00:55:16,440
+Se invece aspettate di avere il feedback diciamo di Siri, solitamente il
+
+819
+00:55:17,080 --> 00:55:20,920
+gap di tempo che ho trascorso fa sì che non riesca più
+
+820
+00:55:20,920 --> 00:55:22,040
+a cogliere il comando.
+
+821
+00:55:22,040 --> 00:55:25,000
+E quello ti cambia la vita, nel senso che a me, per
+
+822
+00:55:25,000 --> 00:55:27,080
+esempio, ha risolto tutta una serie di problemi.
+
+823
+00:55:27,080 --> 00:55:32,040
+Spesso volentieri, quando salgo in macchina automaticamente si collega l'iPhone al botto
+
+824
+00:55:32,360 --> 00:55:33,880
+della macchina per viva voce.
+
+825
+00:55:33,880 --> 00:55:37,800
+Se voglio dettare un messaggio devo farlo in questa maniera.
+
+826
+00:55:37,800 --> 00:55:38,120
+È
+
+827
+00:55:39,560 --> 00:55:46,760
+come lasciarsi andare nella speranza che qualcuno ti prenda, però devo ammettere
+
+828
+00:55:46,760 --> 00:55:48,600
+che funziona.
+
+829
+00:55:48,840 --> 00:55:53,160
+Quindi, se avete avuto dei problemi come li ho avuti io, diciamo
+
+830
+00:55:53,160 --> 00:55:55,880
+che il mio suggerimento è proprio quello che ho ricevuto anche da
+
+831
+00:55:55,880 --> 00:56:01,240
+David Spark: fidarsi, il sistema funziona abitualmente e negli ultimi sistemi operativi
+
+832
+00:56:01,240 --> 00:56:03,160
+è sempre maggiore il risultato positivo.
+
+833
+00:56:03,160 --> 00:56:06,040
+Poi, ogni tanto capita che Siri non capisca.
+
+834
+00:56:06,040 --> 00:56:07,640
+Ah, sì, ma quello è normale.
+
+835
+00:56:07,640 --> 00:56:11,560
+Ma diciamo che io sono facilitato perché è proprio un tasto fisico
+
+836
+00:56:11,560 --> 00:56:16,480
+per attivare sia il comando vocale che dettatura vocale, quindi è molto
+
+837
+00:56:14,680 --> 00:56:17,520
+più semplificato.
+
+838
+00:56:17,680 --> 00:56:22,400
+E continuo a dire è molto interessante la possibilità di guidare in
+
+839
+00:56:22,400 --> 00:56:24,320
+modo sereno, diciamolo così.
+
+840
+00:56:24,640 --> 00:56:29,760
+Perché questa applicazione è interessanti anche quando si cerca una mappa.
+
+841
+00:56:29,760 --> 00:56:33,440
+Perché avendo CarPla che si interfaccia su mappe.
+
+842
+00:56:33,440 --> 00:56:39,920
+Voi potete semplicemente chiedere a Siri oppure chiedere direttamente a Mappe se
+
+843
+00:56:39,920 --> 00:56:42,000
+volete, senza passare da Siri.
+
+844
+00:56:42,000 --> 00:56:45,760
+Se avete la mappa già in vista, c'è appunto la possibilità di
+
+845
+00:56:45,760 --> 00:56:50,560
+chiedere di portarvi in una via, lui ti porterà magicamente e vi
+
+846
+00:56:50,560 --> 00:56:52,000
+farà vedere sul video
+
+847
+00:56:53,360 --> 00:56:54,640
+il vostro tragitto.
+
+848
+00:56:54,800 --> 00:56:56,080
+Questo è interessante.
+
+849
+00:56:56,480 --> 00:56:59,680
+Un'altra cosa che ho disabilitato è il fatto di farmi dire dove
+
+850
+00:56:59,680 --> 00:57:00,480
+devo andare,
+
+851
+00:57:01,840 --> 00:57:06,480
+il fatto che diventava una cosa abbastanza ridondante e fastidiosa, mentre si
+
+852
+00:57:06,480 --> 00:57:12,320
+ascoltava o magari la radio oppure un podcast, anche perché guidando ho
+
+853
+00:57:12,320 --> 00:57:13,360
+l'Apple Watch
+
+854
+00:57:14,640 --> 00:57:19,440
+sul polso, e conseguentemente mi viene dato un feedback atpico se devo
+
+855
+00:57:19,440 --> 00:57:20,560
+girare da qualche parte.
+
+856
+00:57:20,560 --> 00:57:25,280
+In ogni caso, avendo lo schermo lì, l'occhio cade anche facilmente e
+
+857
+00:57:25,520 --> 00:57:28,400
+era proprio rindondante la comunicazione.
+
+858
+00:57:28,480 --> 00:57:33,120
+Ho disabilitato la comunicazione della svolta a sinistra dopo 100 metri e
+
+859
+00:57:33,120 --> 00:57:34,000
+via discorrendo.
+
+860
+00:57:34,000 --> 00:57:37,440
+Tutto tolto, è abbastanza silenzioso e sono abbastanza tranquillo.
+
+861
+00:57:37,440 --> 00:57:40,640
+C'è da dire che, a differenza della radio, sul podcast, è molto
+
+862
+00:57:40,640 --> 00:57:47,280
+interessante perché mi pare che dalla scorsa, dalla 14, avevano inserito la
+
+863
+00:57:47,280 --> 00:57:55,520
+possibilità per Apple podcast di non andare avanti mentre dava l'indicazione stradale.
+
+864
+00:57:55,520 --> 00:58:01,240
+Quindi si bloccava la voce del podcaster, veniva comunicata la strada da
+
+865
+00:58:01,240 --> 00:58:06,040
+prendere e poi riprendeva automaticamente da solo da dove era stato interrotto
+
+866
+00:57:59,920 --> 00:58:06,680
+il podcast.
+
+867
+00:58:07,080 --> 00:58:14,280
+Abitualmente a bassa, tra virgolette, il volume della cosa che sta suonando
+
+868
+00:58:14,280 --> 00:58:17,560
+della persona che sta parlando, della radio tendenzialmente.
+
+869
+00:58:19,160 --> 00:58:21,480
+Io abitualmente ascolto la musica.
+
+870
+00:58:22,280 --> 00:58:24,840
+Quindi ascolto la musica sull'iPhone.
+
+871
+00:58:24,840 --> 00:58:30,760
+Tra virgolette, de l'iPhone, sul collegato con il sistema, diciamo, la bassa,
+
+872
+00:58:30,760 --> 00:58:31,720
+e poi la rialza.
+
+873
+00:58:32,360 --> 00:58:35,240
+A me non dà particolarmente fastidio quando è ovvio che quando è
+
+874
+00:58:35,240 --> 00:58:39,320
+molto charliera, sì, però nei viaggi lunghi, diciamo, non è.
+
+875
+00:58:39,640 --> 00:58:44,200
+A proposito di essere talebani, visto che tu installi le novità subito,
+
+876
+00:58:44,200 --> 00:58:47,400
+di quelle che rilascia Apple, ci vuole raccontare un po' delle varie
+
+877
+00:58:47,400 --> 00:58:51,480
+novità che non abbiamo ancora parlato di più, di abbiamo accennato a
+
+878
+00:58:51,480 --> 00:58:55,480
+dire la verità, però ne approfittiamo per fare un po' più di
+
+879
+00:58:55,480 --> 00:58:56,200
+dettaglio.
+
+880
+00:58:56,200 --> 00:59:00,760
+Allora, la novità più grossa, secondo me, è più interessante, e devo
+
+881
+00:59:00,760 --> 00:59:04,280
+dire la verità, è quella che vorrei studiare di più, ma che
+
+882
+00:59:04,280 --> 00:59:05,880
+ancora per mille.
+
+883
+00:59:06,040 --> 00:59:11,720
+Per abitudine, poi prevalentemente ho usato, ma poco, è quella che io
+
+884
+00:59:11,720 --> 00:59:16,200
+personalmente non mi sono mai trovato super soddisfatto nella dettatura.
+
+885
+00:59:16,200 --> 00:59:20,280
+Diciamo, proprio per i ragionamenti che ho fatto inizio puntato, la possibilità,
+
+886
+00:59:20,280 --> 00:59:24,360
+cioè di dover fisicamente dettare e non poter fare nient'altro, diciamo, è
+
+887
+00:59:24,360 --> 00:59:26,200
+sempre stato per me un limite.
+
+888
+00:59:26,200 --> 00:59:32,120
+Con iOS 16 e ai padros 16, quando uscirà è possibile invece
+
+889
+00:59:32,440 --> 00:59:37,160
+passare dalla voce al tocco, addirittura le pole pensi, quindi anche scrivere
+
+890
+00:59:37,160 --> 00:59:43,560
+utilizzando Scribble direttamente nel testo, diciamo, con soluzioni di continuità.
+
+891
+00:59:43,560 --> 00:59:48,160
+Quindi, la cosa molto interessante è che, per esempio, si sta scrivendo
+
+892
+00:59:48,160 --> 00:59:53,600
+qualcosa, si può andare a correggere subito, tra virgolette, rileggere velocemente la
+
+893
+00:59:53,600 --> 01:00:00,080
+frase, correggere subito l'errore e continuare a dettare, cioè il sistema continua
+
+894
+01:00:00,400 --> 01:00:05,600
+ad ascoltare, quindi la detatura puoi andare avanti nella detatura anche se
+
+895
+01:00:05,600 --> 01:00:10,320
+ti interrompi e diciamo una correzione di un qualche genere.
+
+896
+01:00:10,320 --> 01:00:12,720
+È ovvio che non è che puoi stare lì un minuto a
+
+897
+01:00:12,720 --> 01:00:17,680
+correggere e poi pensare che il sistema riparta in automatico, anche se
+
+898
+01:00:17,680 --> 01:00:20,080
+non ho fatto delle statistiche specifiche.
+
+899
+01:00:20,080 --> 01:00:24,560
+Abitualmente si ha l'effetto che si ha con la dettatura per me
+
+900
+01:00:24,640 --> 01:00:30,560
+cos, compare un simbolo di un microfono, e se hai arrivato, cioè
+
+901
+01:00:30,640 --> 01:00:37,680
+due tastiere, inglese e italiana, vedi anche la lingua di riconoscimento, perché
+
+902
+01:00:37,680 --> 01:00:43,600
+ovviamente in base alla tastiera ti riconoscerà o l'inglese o l'italiano dettato.
+
+903
+01:00:43,600 --> 01:00:44,640
+È molto comodo.
+
+904
+01:00:44,640 --> 01:00:46,560
+È molto comodo, devo dire la verità.
+
+905
+01:00:46,800 --> 01:00:51,600
+Questa funzione segnalo, però, non è per tutti, come al solito, ma
+
+906
+01:00:51,600 --> 01:00:55,440
+effettivamente è una funzione abbastanza avanzata e richiede una certa potenza di
+
+907
+01:00:55,440 --> 01:01:02,000
+calcolo, disponibile sui modelli di iPad con chip A 12 bionic e
+
+908
+01:01:02,000 --> 01:01:06,960
+successivi e presumo anche iPhone, devo dire la verità, non ho controllato.
+
+909
+01:01:06,960 --> 01:01:14,640
+Sì, che sono esatto, sono nella fattispecie l'XS, l'iPhone XS, l'XS Max
+
+910
+01:01:14,640 --> 01:01:21,120
+e l'iPhone XR, poi ci sono anche l'iPad Pro di terza generazione
+
+911
+01:01:21,200 --> 01:01:27,440
+da 11 da 12,9 pollici, e poi questa, però, nella variante X
+
+912
+01:01:27,680 --> 01:01:30,760
+e poi nella variante Z della 12
+
+913
+01:01:32,200 --> 01:01:36,760
+A 12 successivi quindi tutto quello che dopo, qui abbiamo anche in
+
+914
+01:01:36,760 --> 01:01:39,240
+italiano di quarta generazione.
+
+915
+01:01:39,240 --> 01:01:45,000
+Abbiamo anche in italiano, mentre la punteggiatura automatica è un'altra funzione interessantissima
+
+916
+01:01:45,240 --> 01:01:48,440
+che però non è presente in italiano.
+
+917
+01:01:48,440 --> 01:01:52,200
+Quindi ce la sogniamo, però, giusto per fare un esempio, le lingue
+
+918
+01:01:52,200 --> 01:02:00,360
+supportate sono cantonese, cinese, mandarino, francese, giapponese, inglese, spagnolo e tedesco.
+
+919
+01:02:00,360 --> 01:02:04,760
+Quindi per ora noi siamo: il francese c'è siamo tra le lingue
+
+920
+01:02:04,760 --> 01:02:06,840
+minoritarie, come si suol dire
+
+921
+01:02:08,280 --> 01:02:08,440
+!
+
+922
+01:02:08,440 --> 01:02:12,680
+Dettatura nel campo di testo di messaggi in messaggi ora trovi l'icona
+
+923
+01:02:12,840 --> 01:02:15,880
+dettatura nel campo dove inserisci il testo.
+
+924
+01:02:15,880 --> 01:02:21,960
+Si, questo l'avevamo già accennato appunto della visualizzazione grafica, anche qui supporta
+
+925
+01:02:21,960 --> 01:02:23,880
+le emoji dettate.
+
+926
+01:02:24,120 --> 01:02:27,640
+Peccato che non ci sia in italiano quindi è una funzione che
+
+927
+01:02:27,960 --> 01:02:29,000
+non abbiamo.
+
+928
+01:02:29,320 --> 01:02:34,040
+Poi il cursore a comparsa per la dettatura, inserisci facilmente la dettatura
+
+929
+01:02:34,040 --> 01:02:36,600
+toccando il nuovo cursore a comparsa.
+
+930
+01:02:36,600 --> 01:02:42,360
+Appunto, spostandoci a destra manca per il testo, diciamo, comparirà il cursore
+
+931
+01:02:42,520 --> 01:02:43,080
+dettatura.
+
+932
+01:02:43,240 --> 01:02:47,240
+A quel punto lì possiamo dettare tranquillamente quindi è molto comodo, molto
+
+933
+01:02:47,240 --> 01:02:53,160
+fruibile, su Micos Ventura abbiamo meno funzioni nella sostanza, meno novità perché
+
+934
+01:02:53,160 --> 01:02:57,640
+abbiamo la punteggiatura automatica e il supporto per le emoji, ma come
+
+935
+01:02:57,640 --> 01:03:02,200
+per iOS non sono in italiano, quindi sono novità, ma noi non
+
+936
+01:03:02,200 --> 01:03:03,880
+interessano come si suol dire.
+
+937
+01:03:03,880 --> 01:03:08,360
+Da ultimo, segnalo che appunto, tutta questa puntata che è venuta molto
+
+938
+01:03:08,360 --> 01:03:13,720
+più lunga di quella che è nata come puntata di MacPower User
+
+939
+01:03:14,040 --> 01:03:19,440
+l'episodio è il 658, e se volete nei notari di episodio vi
+
+940
+01:03:19,440 --> 01:03:23,600
+trovate il link per andare ad ascoltare esattamente quel segmento che sono
+
+941
+01:03:23,600 --> 01:03:24,640
+una ventina di minuti.
+
+942
+01:03:24,640 --> 01:03:30,080
+Noi siamo riusciti a fare quell'ora e qualcosa come al nostro solito.
+
+943
+01:03:30,080 --> 01:03:33,520
+Però siamo andati più nel dettaglio perché noi non avevamo tutta una
+
+944
+01:03:33,520 --> 01:03:35,680
+serie di puntate a riguardo.
+
+945
+01:03:35,680 --> 01:03:40,320
+Quindi, abbiamo fatto un approfondimento, secondo me, abbastanza dettagliato.
+
+946
+01:03:40,320 --> 01:03:44,640
+Proprio per arrivare a raccontarvi e a darvi un quadro il più
+
+947
+01:03:44,640 --> 01:03:50,880
+possibile completo della dettatura vocale attraverso i dispositivi di Apple.
+
+948
+01:03:51,040 --> 01:03:56,560
+Esatto, sperando di aver fatto cosa gradita, ma soprattutto spronando vi nell'utilizzo
+
+949
+01:03:56,560 --> 01:03:58,160
+di queste tecnologie.
+
+950
+01:03:58,160 --> 01:04:02,720
+Vi ricordo che se volete supportare il podcast, potete lasciare una recensione
+
+951
+01:04:02,800 --> 01:04:04,640
+come sempre su Apple Podcast.
+
+952
+01:04:04,640 --> 01:04:08,880
+Mi raccomando, fate girare la voce, dite a più orecchie fresche che
+
+953
+01:04:08,880 --> 01:04:13,600
+non conoscono questo simpatico podcast che esiste e quindi fate girare la
+
+954
+01:04:13,600 --> 01:04:16,320
+voce, spargete il verbo.
+
+955
+01:04:16,320 --> 01:04:22,400
+Se volete invece scriverci qualcosa per non so, delle richieste particolari o
+
+956
+01:04:22,400 --> 01:04:26,880
+dei chiarimenti che vi vengono in mente o anche soltanto per dirci
+
+957
+01:04:26,880 --> 01:04:28,800
+bravi, non sarebbe già male.
+
+958
+01:04:28,800 --> 01:04:35,040
+Potete scrivere all'indirizzo di posta elettronica, scrivi a chiocciolapodcast.
+
+959
+01:04:35,920 --> 01:04:40,480
+Come sempre, di tutto quello che abbiamo parlato, troverete i link e
+
+960
+01:04:40,480 --> 01:04:45,920
+le note all'interno dell'episodio, della parte scritta dell'episodio.
+
+961
+01:04:45,920 --> 01:04:48,480
+Scusate la stanchezza perché comincia ad essere un po' stanco.
+
+962
+01:04:48,480 --> 01:04:51,600
+Anch'io, insomma, sono quasi le 11 e avrei andare a dormire.
+
+963
+01:04:51,600 --> 01:04:54,720
+Ma in ogni caso troverete tutto quanto.
+
+964
+01:04:54,720 --> 01:05:00,280
+I nostri riferimenti digitando l'indirizzo due podcast.it 47.
+
+965
+01:05:00,280 --> 01:05:04,440
+Per quanto mi riguarda, mi potete trovare sul mio blog personale Mac
+
+966
+01:05:04,680 --> 01:05:05,640
+Architettura.
+
+967
+01:05:05,880 --> 01:05:09,640
+Potete trovare all'indirizzo marchonnet.wordpress.com.
+
+968
+01:05:09,640 --> 01:05:12,760
+Mi potete trovare nel blog di Grafisoft Italia.
+
+969
+01:05:12,760 --> 01:05:15,640
+Basta che lo cercate, trovate i miei articoli.
+
+970
+01:05:15,640 --> 01:05:20,840
+Mi potete trovare sul mio podcast settimanale Snap Architettura Imperfetta e sul
+
+971
+01:05:20,840 --> 01:05:25,720
+podcast mensile di Grafisoft Italia che si chiama Archicad Talks.
+
+972
+01:05:25,720 --> 01:05:27,400
+Invece, il nostro Filippo, dove lo troviamo?
+
+973
+01:05:27,560 --> 01:05:30,920
+vocatemac.it e visto che Roberto ci tiene,
+
+974
+01:05:32,120 --> 01:05:37,880
+abitualmente, pubblico un podcast che si chiama Compendium legato alle mie esperienze
+
+975
+01:05:38,200 --> 01:05:40,760
+con la tecnologia Apple e la digitalizazione.
+
+976
+01:05:40,760 --> 01:05:42,280
+È sempre molto interessante.
+
+977
+01:05:42,280 --> 01:05:44,120
+Mi raccomando, andatevelo ad ascoltare.
+
+978
+01:05:44,280 --> 01:05:46,440
+Noi ci sentiamo tra due settimane.
+
+979
+01:05:46,440 --> 01:05:47,400
+Alla prossima!

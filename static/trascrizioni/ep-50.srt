@@ -1,0 +1,5139 @@
+1
+00:00:00,240 --> 00:00:06,240
+Benvenuti all'episodio 50, signori e signori 50 di A2 in cui scoprire
+
+2
+00:00:06,240 --> 00:00:09,200
+come ottenere il massimo dalla vostra tecnologia Apple.
+
+3
+00:00:09,200 --> 00:00:14,000
+Io sono Filippo Strozzi e sono il vostro ospite assieme all'amico Roberto
+
+4
+00:00:14,000 --> 00:00:14,560
+Marin.
+
+5
+00:00:14,560 --> 00:00:16,400
+Di che cosa parliamo oggi Roberto?
+
+6
+00:00:16,400 --> 00:00:19,840
+Parleremo ovviamente di mail come è giusto che sia, visto che tutto
+
+7
+00:00:19,840 --> 00:00:24,080
+è iniziato con una puntata sulle email con mail e quindi andiamo
+
+8
+00:00:24,080 --> 00:00:29,600
+a fare questa puntata 50, numero tondo, con ritornando di nuovo su
+
+9
+00:00:29,600 --> 00:00:30,160
+mail.
+
+10
+00:00:30,160 --> 00:00:33,920
+Ma prima di tutto vi auguriamo buon anno perché questa dovrebbe essere
+
+11
+00:00:33,920 --> 00:00:36,320
+la prima puntata del nuovo anno 2023.
+
+12
+00:00:36,320 --> 00:00:40,720
+Spero che abbiate passato delle belle vacanze, spero che vi siate riposati.
+
+13
+00:00:40,720 --> 00:00:45,120
+Noi stiamo registrando prima delle vacanze e almeno parlo per il sottoscritto.
+
+14
+00:00:45,120 --> 00:00:48,720
+Avrei bisogno di dormire almeno per sette giorni e sette notti sotto
+
+15
+00:00:48,720 --> 00:00:52,000
+sette metri di coperte, con nessuno che mi rompa le scatole, ma
+
+16
+00:00:52,000 --> 00:00:53,440
+purtroppo non può andare così.
+
+17
+00:00:53,440 --> 00:00:57,040
+Quindi sono un po' così sulle corde in questo momento.
+
+18
+00:00:57,040 --> 00:01:01,680
+E tra l'altro mi sto pure ammalando, visto che spero di riuscire
+
+19
+00:01:01,680 --> 00:01:06,560
+a non disturbarvi mentre parla Filippo con la mia tosse.
+
+20
+00:01:07,120 --> 00:01:10,480
+Invece, tornando direttamente su mail,
+
+21
+00:01:12,080 --> 00:01:17,200
+abbiamo parlato di email nelle puntate precedenti, ovvero nella puntata 29 dove
+
+22
+00:01:17,200 --> 00:01:22,720
+abbiamo fatto un'introduzione, ovvero non a mail, ma alle email, ovvero il
+
+23
+00:01:22,720 --> 00:01:25,200
+problema delle email e come cercare di risolverlo.
+
+24
+00:01:25,200 --> 00:01:29,680
+Ovviamente parliamo della questione che siamo tutti quanti bombardati da continue mail
+
+25
+00:01:30,000 --> 00:01:34,000
+nel nostro client di posta elettronica, che in questo caso, visto che
+
+26
+00:01:34,000 --> 00:01:36,400
+siamo in ambito Apple, parliamo di mail.
+
+27
+00:01:36,400 --> 00:01:41,360
+E poi in un'altra puntata, la puntata 32, ovvero gli aspetti tecnici,
+
+28
+00:01:41,360 --> 00:01:45,840
+che ovviamente è stata una puntata ad appannaggio del nostro amico Filippo
+
+29
+00:01:46,000 --> 00:01:51,280
+Strozzi, avvocato e super tuttofare dell'informatica, che ha dato ovviamente il meglio
+
+30
+00:01:51,280 --> 00:01:51,920
+di sé.
+
+31
+00:01:51,920 --> 00:01:56,240
+Parlando degli aspetti tecnici, ovviamente che io non sono all'altezza.
+
+32
+00:01:56,560 --> 00:02:01,080
+Per quanto riguarda invece le informazioni che riguardano mail, ovviamente bisogna fare
+
+33
+00:01:59,600 --> 00:02:04,920
+un bel giro nei manuali dove c'è praticamente una pagina per tutto,
+
+34
+00:02:05,160 --> 00:02:11,160
+troverete le indicazioni sia per i vostri Mac sia per i vostri
+
+35
+00:02:11,160 --> 00:02:16,280
+dispositivi iOS e iPadOS, sia per come funziona nel mondo del
+
+36
+00:02:16,280 --> 00:02:17,480
+iCloud.
+
+37
+00:02:17,480 --> 00:02:21,160
+Dunque, per quanto riguarda i dispositivi iOS e iPadOS, più o
+
+38
+00:02:21,160 --> 00:02:23,800
+meno siamo lì come funzioni.
+
+39
+00:02:23,800 --> 00:02:24,280
+Il Mac
+
+40
+00:02:25,400 --> 00:02:29,320
+è un po' diverso, diciamo dal punto di vista non solo estetico,
+
+41
+00:02:29,320 --> 00:02:33,800
+ma delle funzionalità, più che altro è un po' diverso da configurare.
+
+42
+00:02:33,800 --> 00:02:37,000
+Ma a questo punto, visto che abbiamo fatto una bella introduzione, siamo
+
+43
+00:02:37,000 --> 00:02:40,680
+all'inizio dell'anno e vogliamo sentire anche la voce di Filippo, che ci
+
+44
+00:02:40,680 --> 00:02:44,680
+racconterà un po' come è fatta Mail.app.
+
+45
+00:02:44,680 --> 00:02:50,120
+Allora, una prima considerazione da fare, diciamo, è quella che attualmente nella
+
+46
+00:02:50,120 --> 00:02:55,960
+configurazione attuale abbiamo due grossi, due macro aree, chiamiamole così.
+
+47
+00:02:55,960 --> 00:03:00,520
+Abbiamo le vere e proprie applicazioni, cioè abbiamo un'applicazione per macOS, per
+
+48
+00:03:00,520 --> 00:03:06,600
+iOS e per iPadOS che stanno sempre più convergendo l'una verso
+
+49
+00:03:06,600 --> 00:03:07,640
+l'altra.
+
+50
+00:03:07,640 --> 00:03:13,560
+Quindi nella sostanza abbiamo queste applicazioni, lo vedremo poi nel dettaglio dopo,
+
+51
+00:03:13,880 --> 00:03:14,840
+che vanno
+
+52
+00:03:16,360 --> 00:03:21,240
+con delle differenze peculiari l'una dall'altra, ma che vanno verso un orizzonte
+
+53
+00:03:21,240 --> 00:03:22,120
+comune.
+
+54
+00:03:22,120 --> 00:03:23,560
+In più abbiamo anche
+
+55
+00:03:24,680 --> 00:03:27,880
+da non confondere, da tenere presente perché è qualcosa di un po'
+
+56
+00:03:27,880 --> 00:03:28,600
+diverso.
+
+57
+00:03:28,600 --> 00:03:35,960
+La mail di iCloud, che è da una parte il programma mail
+
+58
+00:03:36,120 --> 00:03:42,040
+con interfaccia web, ok, ma dall'altra è la mail di iCloud: cioè
+
+59
+00:03:42,520 --> 00:03:46,160
+per esempio, Filippo Strozzi, chiocciola iCloud.
+
+60
+00:03:46,560 --> 00:03:49,760
+com, ok, che è un servizio collaterale
+
+61
+00:03:50,880 --> 00:03:56,080
+, i cloud è generale, diciamo, abitualmente puoi crearti una casella di posta
+
+62
+00:03:56,240 --> 00:04:01,760
+elettronica su iCloud sostanzialmente, e quindi avere poi la casella di posta
+
+63
+00:04:01,920 --> 00:04:05,120
+elettronica a cloud.com.
+
+64
+00:04:05,120 --> 00:04:08,720
+C'è la possibilità, tra l'altro, e me ne sono accorto per puro
+
+65
+00:04:08,720 --> 00:04:11,280
+caso, devo dirti la verità, Roberto.
+
+66
+00:04:11,280 --> 00:04:17,760
+Mentre facevo questi approfondimenti, c'è la possibilità di avere anche uno spazio,
+
+67
+00:04:17,760 --> 00:04:21,200
+chiamiamolo così, illimitato perché cosa funziona?
+
+68
+00:04:21,200 --> 00:04:25,280
+La media cloud sostanzialmente ha i vincoli dei 5 GB
+
+69
+00:04:26,480 --> 00:04:34,000
+dello spazio generale di iCloud che Apple concede, diciamo benevolmente, chiamiamola così,
+
+70
+00:04:34,160 --> 00:04:34,800
+o per
+
+71
+00:04:36,000 --> 00:04:40,400
+più che altro cercare di indorare la pillola e poi cercare di
+
+72
+00:04:40,400 --> 00:04:42,640
+farti comprare lo spazio.
+
+73
+00:04:42,640 --> 00:04:45,680
+Io me ne sono accorto perché effettivamente sono
+
+74
+00:04:46,960 --> 00:04:52,480
+un felice, tra virgolette, possessore dei due terabyte di spazio di i
+
+75
+00:04:52,640 --> 00:04:54,000
+cloud, esula
+
+76
+00:04:55,200 --> 00:04:58,560
+dall'oggetto della puntata, ma nella sostanza.
+
+77
+00:04:58,560 --> 00:05:02,320
+Attualmente perché c'è stato un aumento di tutti i prezzi, e non
+
+78
+00:05:02,320 --> 00:05:06,240
+credo, attualmente l'unica cosa che non è stata aumentata in questi tagli
+
+79
+00:05:06,480 --> 00:05:10,400
+è quella dello spazio dei cloud, ma attualmente io pago 10 euro
+
+80
+00:05:10,400 --> 00:05:14,320
+al mese, cioè 9,99 euro, ma ho il vantaggio, diciamo, di avere
+
+81
+00:05:14,320 --> 00:05:18,960
+oltre 2 terabyte che non utilizzo per me stesso, ma posso condividerlo
+
+82
+00:05:18,960 --> 00:05:22,160
+in famiglia e quindi ho il backup del telefono di mia moglie,
+
+83
+00:05:22,160 --> 00:05:26,480
+di mio figlio, dei vari iPad e così via e tutte le
+
+84
+00:05:26,480 --> 00:05:27,040
+foto.
+
+85
+00:05:27,040 --> 00:05:29,320
+Quindi, il vero grande vantaggio è questo.
+
+86
+00:05:29,800 --> 00:05:36,520
+Ho scoperto per puro caso mentre stavo facendo appunto gli approfondimenti: se
+
+87
+00:05:36,520 --> 00:05:40,840
+andiamo a vedere nella quota, diciamo, della mail dei cloud che è
+
+88
+00:05:40,840 --> 00:05:46,600
+collegata, diciamo, all'account, il mio account Apple, ho effettivamente 2TB di spazio
+
+89
+00:05:46,600 --> 00:05:47,720
+libero sulla mail.
+
+90
+00:05:48,120 --> 00:05:52,440
+Una follia da un certo punto di vista, ma anche qui il
+
+91
+00:05:52,440 --> 00:05:57,480
+discorso è proprio questo: cioè, oltre a tutto il resto, lo spazio
+
+92
+00:05:57,480 --> 00:06:02,520
+della mail di i cloud può essere ampliato, tra virgolette, comprando i
+
+93
+00:06:02,520 --> 00:06:08,840
+gigabyte da Apple, devo dire la verità: l'ho scoperto mentre facevo questi
+
+94
+00:06:08,840 --> 00:06:10,040
+approfondimenti.
+
+95
+00:06:10,040 --> 00:06:15,320
+È una cosa da tenere presente, già che ci siamo segnalo, un'altra
+
+96
+00:06:15,320 --> 00:06:19,960
+cosa da tenere presente che oggi, secondo me, non ha senso approfondire,
+
+97
+00:06:19,960 --> 00:06:22,440
+ma può essere di interesse a qualcuno.
+
+98
+00:06:22,760 --> 00:06:30,120
+È possibile, sempre grazie alla mail di iCloud, chiamiamola così, agganciare un
+
+99
+00:06:30,120 --> 00:06:35,640
+dominio quindi non avere più il dominio Filippo Strozzi che cloud.com, ma
+
+100
+00:06:35,640 --> 00:06:42,280
+acquistare per esempio un dominio, non lo so, pippo SRL.com, avere come
+
+101
+00:06:42,440 --> 00:06:47,960
+chiamiamolo così il back-end la mail di iCloud e associare questo dominio
+
+102
+00:06:48,600 --> 00:06:54,120
+invece quindi esce fuori tra virgolette, come un altro tipo di mail.
+
+103
+00:06:54,120 --> 00:06:58,120
+Il problema, tra virgolette, qual è che Apple l'ha ben pensata, cioè
+
+104
+00:06:58,120 --> 00:07:04,200
+la pensata a uso familiare, per cui si possono associare a queste
+
+105
+00:07:04,200 --> 00:07:10,040
+tipologie di indirizzi email i soli familiari, e quindi nella sostanza, potrei
+
+106
+00:07:10,120 --> 00:07:10,920
+creare appunto.
+
+107
+00:07:10,920 --> 00:07:16,880
+Se comprassi dominio pippsrl.com, potrei darla a mia moglie e mio figlio
+
+108
+00:07:17,360 --> 00:07:18,320
+e l'infinita.
+
+109
+00:07:18,320 --> 00:07:20,320
+Quindi c'è tutto questo discorso.
+
+110
+00:07:20,320 --> 00:07:25,840
+Diciamo non c'è la possibilità di gestirla in maniera chiamiamola così professionale.
+
+111
+00:07:25,840 --> 00:07:31,600
+È ovvio che, tra virgolette, se volessi, potrei invece agganciare il dominio
+
+112
+00:07:31,920 --> 00:07:37,520
+studio Legale Strozzi, per esempio.com, credo che sia, a queste email e
+
+113
+00:07:37,520 --> 00:07:39,600
+gestire tutto attraverso questa mail.
+
+114
+00:07:39,600 --> 00:07:44,080
+Però, insomma, questa è una considerazione da tenere presente, nel senso che
+
+115
+00:07:44,320 --> 00:07:48,240
+appunto, fa parte, chiamiamolo così, del pacchetto mail.
+
+116
+00:07:48,240 --> 00:07:52,800
+Nel senso che spesso e volentieri chi non ha una mail già
+
+117
+00:07:52,800 --> 00:07:56,240
+attiva, attiva un'email ai cloud e ha tutti questi
+
+118
+00:07:57,280 --> 00:08:00,320
+servizi collaterali collegati.
+
+119
+00:08:00,320 --> 00:08:05,600
+Non ho testato, se oltre alla mail ai cloud, è possibile configurare
+
+120
+00:08:05,600 --> 00:08:11,280
+in cloud le mail invece che sono configurabili ovviamente all'interno del client
+
+121
+00:08:11,280 --> 00:08:12,960
+di posta elettronica di Apple.
+
+122
+00:08:12,960 --> 00:08:17,120
+Questo non l'ho testato, mi sembra abbastanza improbabile per tutta una serie
+
+123
+00:08:17,120 --> 00:08:18,160
+di motivi.
+
+124
+00:08:18,160 --> 00:08:23,840
+Non è complicatissimo, però, non credo che Apple voglia diciamo ingurgitare anche
+
+125
+00:08:23,840 --> 00:08:24,320
+i dati
+
+126
+00:08:26,000 --> 00:08:29,520
+di altre caselle di posta elettronica per intenderci.
+
+127
+00:08:29,520 --> 00:08:31,520
+Quindi questa è la grossa differenza.
+
+128
+00:08:31,520 --> 00:08:38,000
+Considerate che appunto se utilizzate le funzioni online, diciamo di iCloud, c'è
+
+129
+00:08:38,000 --> 00:08:41,040
+anche la mail, ma è la mail di iCloud e non è
+
+130
+00:08:41,040 --> 00:08:42,480
+la vostra mail personale.
+
+131
+00:08:42,480 --> 00:08:47,280
+Se per esempio avete una Gmail o altre cose che potete configurare
+
+132
+00:08:47,280 --> 00:08:52,000
+invece nel programma, nel client in posta elettronica di Apple.
+
+133
+00:08:52,000 --> 00:08:55,920
+Andiamo a vedere invece a questo punto l'interfaccia per chi ci sta
+
+134
+00:08:55,920 --> 00:08:59,040
+seguendo in diretta, c'è anche qualcuno in diretta.
+
+135
+00:08:59,040 --> 00:08:59,800
+Segnalo.
+
+136
+00:08:59,760 --> 00:09:06,680
+Anzi, a questo punto vi faccio vedere perché la possenza tecnologica mi
+
+137
+00:09:06,680 --> 00:09:11,800
+permette di salutare Daniele che è in diretta con noi e ci
+
+138
+00:09:11,800 --> 00:09:13,080
+salve.
+
+139
+00:09:13,640 --> 00:09:19,000
+Come potete vedere se state seguendo la diretta o se andate, se
+
+140
+00:09:19,000 --> 00:09:22,120
+andate a vedere i video su YouTube, lo ricordo perché non lo
+
+141
+00:09:22,120 --> 00:09:23,000
+diciamo spesso.
+
+142
+00:09:23,000 --> 00:09:27,960
+Ma noi ovviamente oggi questa sera stiamo registrando, io e Roberto assieme.
+
+143
+00:09:27,960 --> 00:09:29,480
+Siamo in diretta su YouTube.
+
+144
+00:09:29,480 --> 00:09:32,680
+Quindi oggi è il 12 dicembre.
+
+145
+00:09:32,680 --> 00:09:37,800
+Voi che ascolta il podcast, diciamo lo ascolterà invece a inizio gennaio,
+
+146
+00:09:37,800 --> 00:09:40,120
+non mi ricordo più la data specifica.
+
+147
+00:09:40,360 --> 00:09:44,680
+Se volete partecipare alla diretta con noi, tra virgolette, quindi farci delle
+
+148
+00:09:44,680 --> 00:09:50,280
+domande o fare dei commenti e così via, lo potete fare andando
+
+149
+00:09:50,280 --> 00:09:51,960
+appunto seguendo la diretta.
+
+150
+00:09:51,960 --> 00:09:58,280
+O se vi piace più così, e in questo caso specifico nel
+
+151
+00:09:58,280 --> 00:10:01,800
+video su YouTube che viene registrato e che verrà pubblicato in contemporanea
+
+152
+00:10:01,960 --> 00:10:06,280
+poi con l'uscita, la puntata in podcast, vi facciamo vedere oltre a
+
+153
+00:10:06,280 --> 00:10:11,560
+vedere la bellissima faccia mia di Roberto, diciamo, vedete la mappa mentale
+
+154
+00:10:11,560 --> 00:10:14,040
+della scaletta, dell'episodio.
+
+155
+00:10:14,040 --> 00:10:18,200
+Quindi potete seguire, potete vedere in diretta, diciamo
+
+156
+00:10:19,480 --> 00:10:20,920
+cosa facciamo noi
+
+157
+00:10:22,440 --> 00:10:27,640
+di nascosto, tra virgolette, nella creazione di queste puntate.
+
+158
+00:10:27,640 --> 00:10:31,880
+Ecco, faccio questo inciso, visto che ne ho approfittato per salutare anche
+
+159
+00:10:31,880 --> 00:10:34,120
+Daniele che era in diretta con noi.
+
+160
+00:10:34,120 --> 00:10:38,280
+Daniele, che è stato con noi in diretta invece live, tra virgolette,
+
+161
+00:10:38,280 --> 00:10:41,320
+a chiacchierare nella puntata 49, cioè la precedente.
+
+162
+00:10:41,320 --> 00:10:47,920
+Allora, quindi, come funziona l'interfaccia di Apple Mail è relativamente semplice, di
+
+163
+00:10:48,080 --> 00:10:54,640
+ciamo, e adesso voglio vedere, questa è che sto facendo vedere, tra virgolette,
+
+164
+00:10:54,960 --> 00:11:03,360
+in diretta con video, è l'interfaccia diciamo di mail per iPad che
+
+165
+00:11:03,360 --> 00:11:09,520
+utilizza lo schema tipico: diciamo, delle applicazioni per iPad, quindi le tre
+
+166
+00:11:09,520 --> 00:11:15,200
+colonne, chiamiamole in questi termini: c'è una colonna che può essere, diciamo,
+
+167
+00:11:15,200 --> 00:11:20,080
+chiusa in base alle necessità e alla dimensione dello schermo, che è
+
+168
+00:11:20,080 --> 00:11:25,440
+la colonna dove si vedono le caselle di posta elettronica, le caselle,
+
+169
+00:11:25,440 --> 00:11:30,160
+quindi la mail in entrata, la casella, chiamiamola così unita.
+
+170
+00:11:30,160 --> 00:11:34,800
+Nel caso specifico, questa è la mia casella di avvocate Mac.
+
+171
+00:11:34,800 --> 00:11:38,640
+Credo la posso far vedere e se non vado a ecco, non
+
+172
+00:11:38,640 --> 00:11:40,880
+riesco a zoommare più di tanto.
+
+173
+00:11:40,880 --> 00:11:46,080
+Come vedete, tra virgolette, per chi c'è all'interno di mail, ho tutta
+
+174
+00:11:46,080 --> 00:11:47,840
+una serie di applicazioni.
+
+175
+00:11:47,840 --> 00:11:50,240
+Ha una piccola inciso, che non ho detto.
+
+176
+00:11:50,240 --> 00:11:53,680
+Io non uso mail come client di posta elettronica di tutti i
+
+177
+00:11:53,680 --> 00:11:55,840
+giorni, mettiamola in questi termini.
+
+178
+00:11:55,840 --> 00:11:58,480
+Male no, devo rivedere la verità.
+
+179
+00:11:59,120 --> 00:12:04,800
+A fondo puntata, se ci sarà modo, diciamo, spiego anche perché io
+
+180
+00:12:04,800 --> 00:12:07,040
+utilizzo un altro client di posta.
+
+181
+00:12:07,360 --> 00:12:08,000
+Perché
+
+182
+00:12:09,120 --> 00:12:16,960
+oggi mail ne parleremo dopo meglio, ha risolto alcuni, secondo me, grossi
+
+183
+00:12:16,960 --> 00:12:23,600
+limiti per me, ha ancora tanti limiti che non apprezzo particolarmente, però,
+
+184
+00:12:23,600 --> 00:12:26,960
+sicuramente è un buon programma di posta ed è gratuito.
+
+185
+00:12:26,960 --> 00:12:30,680
+Quello che uso io a pagamento, stranamente, non costano una follia perché
+
+186
+00:12:29,840 --> 00:12:32,440
+sono 10 euro l'anno di abbonamento.
+
+187
+00:12:32,600 --> 00:12:32,680
+È
+
+188
+00:12:33,720 --> 00:12:37,640
+, però ho delle funzioni che dal mio punto di vista, quantomeno, lo
+
+189
+00:12:37,640 --> 00:12:39,000
+rendono migliore.
+
+190
+00:12:39,640 --> 00:12:43,720
+Quindi, tornando a noi: una prima colonna con tutte le caselle e
+
+191
+00:12:43,720 --> 00:12:49,240
+con diciamo tutta una serie di ulteriori informazioni e impostazioni che si
+
+192
+00:12:49,240 --> 00:12:50,360
+possono avere adesso.
+
+193
+00:12:50,360 --> 00:12:55,960
+Dopo vedremo un attimo come una seconda colonna, quella chiamiamola così centrale,
+
+194
+00:12:55,960 --> 00:13:01,800
+dove c'è l'anteprima, c'è l'elenco delle mail in entrata o comunque della
+
+195
+00:13:01,800 --> 00:13:05,560
+cartella della casella di posta elettronica selezionata.
+
+196
+00:13:05,560 --> 00:13:12,600
+Quella che vedete a video, l'inbox di Avvocati e Mac con tutta una
+
+197
+00:13:12,600 --> 00:13:13,400
+serie di.
+
+198
+00:13:13,400 --> 00:13:16,600
+Nel caso specifico ci sono una serie di.
+
+199
+00:13:16,600 --> 00:13:20,600
+Some quella diciamo più di gioco, chiamiamola così, ci sono tutta una
+
+200
+00:13:20,600 --> 00:13:24,840
+serie di newsletter di vari forum a cui sono iscritto.
+
+201
+00:13:25,160 --> 00:13:30,520
+C'è la newsletter di Max Pack Lab a cui sono iscritto.
+
+202
+00:13:30,520 --> 00:13:35,480
+E c'è anche, credo, Club Myx Story a cui appunto sono iscritto
+
+203
+00:13:35,480 --> 00:13:36,520
+come newsletter.
+
+204
+00:13:36,520 --> 00:13:44,600
+E infine sul lato destro, chiamiamola così finestrosa, c'è l'email, l'anteprima dell'email
+
+205
+00:13:44,840 --> 00:13:49,160
+complete, diciamo, che è quella che poi vi permette, diciamo, di leggere
+
+206
+00:13:49,400 --> 00:13:50,920
+l'email vera e propria.
+
+207
+00:13:50,920 --> 00:13:55,720
+Sull'interfaccia dei pad, se andate a comporre una mail, vi comparirà invece
+
+208
+00:13:55,720 --> 00:14:03,480
+una finestra, chiamiamola così, semifluttuante, su macOS, di fatto l'interfaccia è la
+
+209
+00:14:03,480 --> 00:14:09,480
+medesima, l'unica interfaccia un po' diversa, chiamiamola così, è quella per iOS.
+
+210
+00:14:09,720 --> 00:14:17,840
+Su iOS si ha, chiamiamola così, la tripartizione, cioè se abitualmente si
+
+211
+00:14:17,840 --> 00:14:22,960
+entra con la posta in entrata, chiamiamola in questi termini, se io
+
+212
+00:14:22,960 --> 00:14:27,760
+uso la freccia, diciamo a sinistra, chiamiamola in questa modalità, aspetta, che
+
+213
+00:14:27,760 --> 00:14:32,800
+vado, prendo l'iPhone e controllo di non dire delle corbelleria, prendo mail
+
+214
+00:14:32,800 --> 00:14:37,200
+un attimino solo, se vado indietro mi fa vedere le caselle, posso
+
+215
+00:14:37,200 --> 00:14:42,560
+scegliere quindi la prima colonna, quella di sinistra, chiamiamola così su iPad,
+
+216
+00:14:42,560 --> 00:14:45,840
+posso scegliere per esempio la casella di entrata.
+
+217
+00:14:45,840 --> 00:14:48,880
+E a questo punto, con l'elenco di tutte le mail, se vado
+
+218
+00:14:48,880 --> 00:14:54,720
+a cliccare, chiamiamola così sulla singola mail, quindi mi darà l'anteprima.
+
+219
+00:14:54,960 --> 00:15:00,400
+Ovviamente c'è sempre in alto sulla sinistra il tasto, la freccia diciamo
+
+220
+00:15:00,400 --> 00:15:03,040
+che va verso sinistra, che mi fa tornare indietro.
+
+221
+00:15:03,040 --> 00:15:10,880
+Quindi, nella sostanza, la tripartizione dell'interfaccia comunque si trova su iPados e
+
+222
+00:15:10,880 --> 00:15:13,440
+su My Cos in maniera uguale abitualmente.
+
+223
+00:15:13,440 --> 00:15:18,400
+Ovviamente su iPadOS, se l'iPad è molto piccolo, c'è una riformatazione
+
+224
+00:15:18,400 --> 00:15:22,560
+di quello che vedete, per esempio, è lo schermo del mio iPad
+
+225
+00:15:23,200 --> 00:15:25,840
+Pro 13 pollici.
+
+226
+00:15:25,840 --> 00:15:27,600
+Quindi, ovviamente lo schermo è generoso.
+
+227
+00:15:27,600 --> 00:15:31,600
+Sugli schermi più piccoli, solitamente la colonna di sinistra dove ci sono
+
+228
+00:15:31,600 --> 00:15:37,600
+le caselle, chiamiamole così di posta elettronica, che avete configurato, scompare se
+
+229
+00:15:37,600 --> 00:15:39,200
+non c'è abbastanza spazio.
+
+230
+00:15:39,360 --> 00:15:45,760
+Questa poi è l'interfaccia tipica delle applicazioni, diciamo, semi-professionali di Apple ed
+
+231
+00:15:45,760 --> 00:15:51,360
+è l'interfaccia che molte applicazioni stanno implementando, chiamiamola in questi termini, proprio
+
+232
+00:15:51,360 --> 00:15:52,880
+con le novità di Apple.
+
+233
+00:15:52,880 --> 00:15:58,080
+Aggiungo solo una cosa che magari non era chiara nella spiegazione, sugli
+
+234
+00:15:58,240 --> 00:16:02,280
+schemi piccoli dei pad, come il mio, che è un iPad base,
+
+235
+00:16:02,280 --> 00:16:09,240
+chiamiamolo così, in effetti la tendina di sinistra scompare, ma si può
+
+236
+00:16:09,240 --> 00:16:14,120
+richiamare semplicemente agendo sul pratico bottone che c'è in alto a sinistra
+
+237
+00:16:14,120 --> 00:16:15,080
+della schermata.
+
+238
+00:16:15,080 --> 00:16:19,160
+Quindi se avete bisogno di vedere tutte le vostre caselle, le vostre
+
+239
+00:16:19,160 --> 00:16:23,160
+caselle, basta richiamarlo semplicemente con il bottone in alto a sinistra, vi
+
+240
+00:16:23,160 --> 00:16:28,200
+comprerà diciamo le tre colonne di cui ha parlato Filippo.
+
+241
+00:16:28,440 --> 00:16:31,800
+Con caselle, in entrate e poi le mail che le selezionate.
+
+242
+00:16:31,800 --> 00:16:36,520
+Poi, nel momento in cui volete ritornare alla visualizzazione precedente, basta fare
+
+243
+00:16:36,520 --> 00:16:41,800
+un tap sulla mail che avete aperto e così vedrete di nuovo
+
+244
+00:16:42,120 --> 00:16:49,560
+la normale per gli iPad piccoli schermata con due colonne, due colonne
+
+245
+00:16:49,560 --> 00:16:54,440
+che tutto sommato non sono male, è un richiamo evidente, secondo me,
+
+246
+00:16:54,440 --> 00:16:57,000
+almeno per quanto mi riguarda gli iPhone.
+
+247
+00:16:57,240 --> 00:16:59,960
+Secondo me è molto carina e molto comoda.
+
+248
+00:17:00,520 --> 00:17:02,120
+Vedere la colonna di sinistra.
+
+249
+00:17:02,120 --> 00:17:06,360
+Ad esempio, avessi un iPad da 13 pollici, probabilmente la colonna di
+
+250
+00:17:06,360 --> 00:17:11,000
+sinistra con le caselle la chiuderei di mio perché è un po'
+
+251
+00:17:12,120 --> 00:17:14,920
+un qualcosa in più essenzialmente.
+
+252
+00:17:14,920 --> 00:17:17,160
+Invece vedendolo così mi sembra anche più pulito.
+
+253
+00:17:17,160 --> 00:17:20,760
+La stessa cosa che faccio tra l'altro in mail su macOS.
+
+254
+00:17:20,760 --> 00:17:25,880
+Esatto, ovviamente la colonna di sinistra può dire la verità, probabilmente anche
+
+255
+00:17:26,120 --> 00:17:31,960
+la colonna centrale può essere diciamo chiusa, chiamiamola in questi termini.
+
+256
+00:17:31,960 --> 00:17:33,440
+Apro chiudendo una parentesi.
+
+257
+00:17:33,440 --> 00:17:38,600
+Mentre per chi forse in diretta e ci stesse sguardando, stiamo testando
+
+258
+00:17:38,600 --> 00:17:45,360
+in diretta le capacità di sincronizzazione e di utilizzo condiviso di node.
+
+259
+00:17:45,600 --> 00:17:49,840
+E devo dire la verità: almeno l'applicazione, siccome Roberto sta lavorando sulla
+
+260
+00:17:49,840 --> 00:17:54,640
+sua mappa, cioè sulla mappa mentale condivisa, ma dal suo lato, io
+
+261
+00:17:54,640 --> 00:17:58,560
+dal mio, tra virgolette, ho avuto un crash dell'applicazione.
+
+262
+00:17:58,560 --> 00:18:02,160
+Ci sta, non è pensata come applicazione per
+
+263
+00:18:03,440 --> 00:18:06,000
+manipolazione dei dati in contemporanea.
+
+264
+00:18:07,440 --> 00:18:13,840
+L'altra caratteristica, diciamo, in più rispetto a mail di iPad e a
+
+265
+00:18:13,840 --> 00:18:17,600
+iOS, è una delle lamentele da un certo punto di vista, da
+
+266
+00:18:17,600 --> 00:18:22,960
+un certo tipo di utenti che su macOS è presente, ma invece
+
+267
+00:18:22,960 --> 00:18:27,440
+su iOS e iPadOS non è presente, sono le cartelle smart
+
+268
+00:18:28,080 --> 00:18:29,920
+di mail.
+
+269
+00:18:30,880 --> 00:18:36,480
+Ne parlo adesso, anche se poi vedremo eventualmente, faremo un approfondimento un
+
+270
+00:18:36,480 --> 00:18:43,040
+po' più importante dopo, diciamo, sono cartelle ovviamente dinamiche.
+
+271
+00:18:43,040 --> 00:18:47,680
+Se avete presente come funzionano le cartelle smart diciamo, del finder.
+
+272
+00:18:47,680 --> 00:18:52,560
+Il principio è il medesimo: cioè è possibile, diciamo, creare delle cartelle
+
+273
+00:18:52,560 --> 00:18:59,280
+che non esistono, nella vostra casella di posta elettronica, ma utilizzando dei
+
+274
+00:18:59,280 --> 00:19:04,480
+parametri per determinare cosa deve finire dentro questa cartella.
+
+275
+00:19:04,480 --> 00:19:07,680
+Quindi, per esempio, posso dire tutte le mail che mi arrivano da
+
+276
+00:19:07,680 --> 00:19:12,480
+Roberto le voglio avere raggruppate, che mi arrivino nella casella di posta
+
+277
+00:19:12,640 --> 00:19:16,400
+elettronica di Avvocati e Mac piuttosto che in quella professionale, piuttosto che in
+
+278
+00:19:16,400 --> 00:19:17,280
+quella di iCloud.
+
+279
+00:19:17,280 --> 00:19:21,200
+Volevo chiederti: visto che io non sono un abile utilizzatore di cartelle
+
+280
+00:19:21,200 --> 00:19:25,040
+smart, in realtà si tratta di un filtro, non è una cartella
+
+281
+00:19:25,040 --> 00:19:27,920
+vera e propria, esatto, esatto, esatto, esatto.
+
+282
+00:19:28,400 --> 00:19:32,840
+Tant'è vero che la trovi solo dentro mail e devo dire la
+
+283
+00:19:32,840 --> 00:19:36,520
+verità adesso, dopo ne parleremo più in dettaglio, segue le regole di
+
+284
+00:19:36,520 --> 00:19:42,040
+mail, che sono invece una delle, secondo me, delle motivazioni per cui
+
+285
+00:19:42,040 --> 00:19:45,720
+sto ragionando, però è una cosa un po' complicata da gestire.
+
+286
+00:19:45,720 --> 00:19:51,000
+Se avere un dispositivo, diciamo, Apple sempre acceso che utilizzi che mi
+
+287
+00:19:51,000 --> 00:19:55,560
+permet di fare tutta una serie di automazioni per gestire le caselle
+
+288
+00:19:55,560 --> 00:20:01,080
+di posta elettronica, nella sostanza, diciamo, la casella Smart ha tutta una
+
+289
+00:20:01,080 --> 00:20:08,840
+serie di funzioni di filtraggio anche abbastanza potenti, chiamiamolo così, per permetterti,
+
+290
+00:20:08,840 --> 00:20:12,280
+diciamo, appunto di estrapolare rapidamente.
+
+291
+00:20:12,280 --> 00:20:17,960
+Dati, diciamo, soprattutto se si hanno più caselle di posta elettronica configurate
+
+292
+00:20:17,960 --> 00:20:22,280
+su mail o ricerche particolari che si fanno spesso.
+
+293
+00:20:22,280 --> 00:20:29,720
+Giusto per Daniele, ci dice che invece utilizza un sacco le cartelle
+
+294
+00:20:29,720 --> 00:20:37,320
+Smart, quindi vedo che abbiamo un utilizzatore di questo sistema.
+
+295
+00:20:37,640 --> 00:20:42,280
+Appunto, personalmente devo dirti la verità, le ho usate qualche volta su
+
+296
+00:20:42,280 --> 00:20:46,920
+Irmail, che in questo caso funzionano sia su iOS che
+
+297
+00:20:48,040 --> 00:20:49,240
+su macOS.
+
+298
+00:20:49,240 --> 00:20:52,200
+Però, devo dire la verità: ho tutto il sistema che adesso non
+
+299
+00:20:52,200 --> 00:20:55,720
+andremo a vedere di archiviazione delle mail.
+
+300
+00:20:55,720 --> 00:21:02,040
+Per cui la cartella Smart, diciamo, è utile, secondo me, per chi
+
+301
+00:21:02,280 --> 00:21:09,000
+utilizza molto le caselle di post elettronica per cercare documenti e per
+
+302
+00:21:09,000 --> 00:21:11,880
+cercare in maniera costante documenti.
+
+303
+00:21:11,880 --> 00:21:15,760
+Per esempio, non so, una cosa che potrebbe essere interessante è quella
+
+304
+00:21:14,840 --> 00:21:17,120
+di hai un progetto.
+
+305
+00:21:17,280 --> 00:21:22,480
+Un progetto con nell'oggetto della mail c'è sempre un numero di riferimento
+
+306
+00:21:22,480 --> 00:21:26,160
+piuttosto che una dicitura specifica.
+
+307
+00:21:26,480 --> 00:21:31,520
+In quel caso lì è molto comodo diciamo raggruppare tutte le mail
+
+308
+00:21:31,680 --> 00:21:36,160
+di quel singolo progetto o di quel singolo argomento, se ovviamente è
+
+309
+00:21:36,160 --> 00:21:41,520
+una cosa che si utilizza molto per evitare di avere, o, non
+
+310
+00:21:41,520 --> 00:21:45,760
+so, voglio per esempio trovare di quel progetto tutte le mail con
+
+311
+00:21:45,760 --> 00:21:50,160
+gli allegati e so che spesso e volentieri, però appunto non è
+
+312
+00:21:50,160 --> 00:21:51,120
+il mio modo di lavorare.
+
+313
+00:21:51,120 --> 00:21:55,920
+Mettiamola così, io gli allegati non li salvo sul computer nella posizione
+
+314
+00:21:55,920 --> 00:21:59,040
+specifica così via, ma utilizzo la mail come
+
+315
+00:22:00,160 --> 00:22:03,360
+database dove andare a cercare tutti questi documenti.
+
+316
+00:22:03,840 --> 00:22:08,000
+Diciamo che non è il mio modo di lavorare quindi, pur comprendendo
+
+317
+00:22:08,000 --> 00:22:12,560
+la possibilità di utilizzarla in questa maniera, diciamo non mi ci trovo
+
+318
+00:22:12,560 --> 00:22:13,200
+più di tanto.
+
+319
+00:22:13,200 --> 00:22:14,240
+Non so se mi spiego.
+
+320
+00:22:14,240 --> 00:22:17,440
+Sì, cosa diversa che faccio io invece sposto tutte le mail delle
+
+321
+00:22:17,440 --> 00:22:21,120
+comunicazioni nelle cartelle di lavoro, così tengo libera.
+
+322
+00:22:21,520 --> 00:22:25,120
+La mia idea è quella di riuscire a tenere libero mail perché
+
+323
+00:22:25,440 --> 00:22:28,720
+le mail comunque alla fine hanno anche un certo peso.
+
+324
+00:22:28,720 --> 00:22:34,320
+Visto che non navigo in terabyte di dati, ho la tendenza sempre
+
+325
+00:22:34,320 --> 00:22:39,520
+a mettere le mail, le sposto all'interno della cartella di quel lavoro
+
+326
+00:22:39,520 --> 00:22:42,400
+con i relativi allegati e poi lo cancello direttamente
+
+327
+00:22:44,400 --> 00:22:50,480
+dall'applicativo mail, in modo tale da non appesantire il database di mail
+
+328
+00:22:50,720 --> 00:22:55,440
+e conseguentemente anche avere una gestione molto snella delle cartelle che ho
+
+329
+00:22:55,440 --> 00:22:57,200
+all'interno dell'applicativo.
+
+330
+00:22:57,200 --> 00:22:59,840
+Poi, una volta che ho finito il lavoro, prendo il pacchetto
+
+331
+00:23:01,080 --> 00:23:03,720
+e sposto direttamente sull'hard disk esterno.
+
+332
+00:22:59,840 --> 00:23:05,400
+Lo so che sei un archiviatore.
+
+333
+00:23:05,880 --> 00:23:08,440
+Nel mentre salutiamo anche Cristiano Ferrari.
+
+334
+00:23:08,440 --> 00:23:11,240
+Benvenuto anche lui è un utilizzatore di cartelle Smart.
+
+335
+00:23:11,240 --> 00:23:11,560
+Quindi
+
+336
+00:23:13,160 --> 00:23:13,480
+abbiamo
+
+337
+00:23:15,080 --> 00:23:19,080
+un notevole numero di persone che lo utilizzano.
+
+338
+00:23:19,720 --> 00:23:23,000
+Quindi, a questo punto, le cartelle Smart se non le avete ancora
+
+339
+00:23:23,000 --> 00:23:29,560
+mai utilizzate, utilizzatele perché c'è decisamente una quantità notevole di persone che
+
+340
+00:23:29,560 --> 00:23:30,600
+la utilizzano.
+
+341
+00:23:31,480 --> 00:23:35,400
+L'unico discorso è così: noi non siamo dei grandi utilizzatori.
+
+342
+00:23:35,400 --> 00:23:37,640
+Parlerei anche velocemente.
+
+343
+00:23:37,800 --> 00:23:41,960
+Qui a video forse più semplice da spiegare che a parole, ma
+
+344
+00:23:41,960 --> 00:23:46,920
+cercherò di spiegarlo anche a parole: della possibilità di personalizzare questo, per
+
+345
+00:23:46,920 --> 00:23:50,600
+esempio, è una cosa che da non utilizzatore di mail, tento precisare,
+
+346
+00:23:50,600 --> 00:23:55,240
+ho scoperto tardivamente, quindi lo segnalo perché è molto interessante, sia su
+
+347
+00:23:55,240 --> 00:24:01,880
+iOS che su macOS è possibile personalizzare in maniera anche abbastanza incisiva,
+
+348
+00:24:01,880 --> 00:24:05,720
+chiamiamolo così, la barra di sinistra delle caselle di mail.
+
+349
+00:24:05,720 --> 00:24:10,680
+Quindi, oltre alle singole caselle è possibile abilitare, per esempio, non so,
+
+350
+00:24:10,680 --> 00:24:11,320
+una casella
+
+351
+00:24:12,760 --> 00:24:18,600
+una cartella più smart da quello che capisco io, delle mail ricevute
+
+352
+00:24:18,600 --> 00:24:23,000
+oggi, oppure queste le ho attivate perché sono interessanti.
+
+353
+00:24:23,000 --> 00:24:29,000
+Le vedremo dopo nelle funzioni, diciamo nuove c'è una casella dove vengono
+
+354
+00:24:29,000 --> 00:24:36,520
+inserite tutte le email dove abbiamo chiesto a mail di ricordarci di
+
+355
+00:24:36,520 --> 00:24:41,320
+una determinata email, oppure di se dobbiamo essere contattati o di invio
+
+356
+00:24:41,320 --> 00:24:44,520
+più tardi, o anche le bozze.
+
+357
+00:24:44,800 --> 00:24:50,800
+E quindi è molto utile poter personalizzare l'interfaccia in base proprio alle
+
+358
+00:24:50,800 --> 00:24:53,440
+esigenze che si ha concretamente.
+
+359
+00:24:53,680 --> 00:24:58,960
+L'altro discorso che era un discorso esclusivo di mail per me cos,
+
+360
+00:24:59,120 --> 00:25:02,960
+ma che adesso sta iniziando con le applicazioni chiamiamoli Pro, come le
+
+361
+00:25:02,960 --> 00:25:08,240
+definisce Apple, è la possibilità di personalizzare i comandi, chiamiamoli così, che
+
+362
+00:25:08,240 --> 00:25:12,080
+ci sono in mail, cioè la parte di risposte e così via.
+
+363
+00:25:12,320 --> 00:25:18,400
+Anche su iPadOS è possibile personalizzare, per esempio, avere un pulsante nella
+
+364
+00:25:18,400 --> 00:25:21,680
+barra in alto dove ci sono tutti i pulsanti per rispondere rispondi
+
+365
+00:25:21,680 --> 00:25:29,200
+a tutti inoltre: cestina sposta nella cartella o un flag alla mail
+
+366
+00:25:29,200 --> 00:25:35,600
+o addirittura in via più tardi c'è la possibilità di personalizzare con
+
+367
+00:25:35,600 --> 00:25:39,280
+alcuni pulsanti non ce ne sono tantissimi attualmente.
+
+368
+00:25:39,280 --> 00:25:42,400
+Ma alcuni ci sono, è interessante.
+
+369
+00:25:42,400 --> 00:25:48,720
+E l'altra cosa che è abbastanza utile, diciamo, del di mail e
+
+370
+00:25:48,720 --> 00:25:51,520
+che già che ci siamo, che già che sia lo sto facendo
+
+371
+00:25:51,520 --> 00:25:55,840
+vedere che ne abbiamo parlato, sono i flag, chiamiamo così bandierine perché
+
+372
+00:25:55,840 --> 00:25:59,840
+è un'icona di una bandierina su Apple Mail, che però è una
+
+373
+00:25:59,840 --> 00:26:03,360
+cosa solo del programma, non so come definirlo.
+
+374
+00:26:03,360 --> 00:26:10,960
+Cioè, è possibile, diciamo, mettere un flag, appunto, una bandierina per segnalare,
+
+375
+00:26:10,960 --> 00:26:14,240
+per esempio, l'importanza di quell'email o comunque
+
+376
+00:26:15,680 --> 00:26:23,120
+dare una sorta di input visivo, diciamo, per la mail, esiste la
+
+377
+00:26:23,120 --> 00:26:26,320
+possibilità solo su mail, quindi è una cosa che esiste in quasi
+
+378
+00:26:26,320 --> 00:26:28,400
+tutte le cartelle di posta elettronica.
+
+379
+00:26:28,400 --> 00:26:33,080
+Però, si ha a praticamente solo un chiamiamolo così colore o comunque
+
+380
+00:26:33,080 --> 00:26:34,280
+modalità di
+
+381
+00:26:35,560 --> 00:26:36,680
+segnalare
+
+382
+00:26:38,840 --> 00:26:41,320
+uno specifico messaggio email.
+
+383
+00:26:41,320 --> 00:26:45,960
+Qui invece abbiamo sei bandierine e sette bandierine, quindi vari colori, quindi
+
+384
+00:26:45,960 --> 00:26:50,040
+c'è la possibilità, tra virgolette, all'interno però solo di mail e si
+
+385
+00:26:50,040 --> 00:26:57,320
+sincronizza tra i vari applicativi mail iOS, iOS e iOS, ma non
+
+386
+00:26:57,320 --> 00:27:00,040
+nelle altre cartelle di posta elettronica, mettiamola così.
+
+387
+00:27:00,040 --> 00:27:05,400
+Quindi non vi vedrete i vari flag differenziati, ma vedrete semplicemente che
+
+388
+00:27:05,400 --> 00:27:06,680
+avete messo un flag.
+
+389
+00:27:06,680 --> 00:27:09,480
+Per esempio, in Airmail è una stellina
+
+390
+00:27:10,680 --> 00:27:15,720
+, e questo può diventare molto comodo per cercare di suddividere anche a
+
+391
+00:27:15,720 --> 00:27:19,080
+livello di importanza o dare dei
+
+392
+00:27:20,200 --> 00:27:24,840
+ciamo dei valori diversi alle mail contrassegnate.
+
+393
+00:27:25,480 --> 00:27:30,040
+Il termine in italiano è un contrassegno e quindi da tenere presente
+
+394
+00:27:30,360 --> 00:27:34,040
+come si vede nella schermata:
+
+395
+00:27:35,160 --> 00:27:41,480
+la barra degli strumenti, invece, per mail, per macOS, ha decisamente più
+
+396
+00:27:41,640 --> 00:27:43,480
+possibilità di personalizzazione.
+
+397
+00:27:43,640 --> 00:27:50,360
+Non abbiamo ovviamente modo di andare a visualizzare e analizzare tutto in
+
+398
+00:27:52,280 --> 00:27:53,480
+questa carrellata.
+
+399
+00:27:53,480 --> 00:27:57,320
+Aggiungo solo un paio di cose riguardo che secondo me sono interessantissime.
+
+400
+00:27:57,320 --> 00:28:01,560
+Che è una cosa minima ma che ci aiuta davvero tanto all'interno
+
+401
+00:28:01,560 --> 00:28:02,760
+della gestione delle mail.
+
+402
+00:28:02,760 --> 00:28:07,400
+Per esempio, è un simpatico tastino con incona rotonda e tre linee.
+
+403
+00:28:07,400 --> 00:28:08,920
+Quello è molto interessante.
+
+404
+00:28:08,920 --> 00:28:13,240
+Lo potete trovare sia su Mac OS che su iPadOS o
+
+405
+00:28:13,240 --> 00:28:17,440
+su iPhone, lo trovate e se lo cliccate e vedrete soltanto le
+
+406
+00:28:14,280 --> 00:28:18,880
+mail che sono arrivate.
+
+407
+00:28:19,120 --> 00:28:23,040
+Quindi nasconde di default le mail che avete già letto e quindi
+
+408
+00:28:23,040 --> 00:28:28,000
+riesce anche a liberarvi mentalmente dal ciarpame, chiamiamolo così, che c'è all'interno
+
+409
+00:28:28,000 --> 00:28:31,760
+della vostra casella di posta elettronica e riuscite a liberarvi le idee.
+
+410
+00:28:31,760 --> 00:28:36,160
+Invece, passando a Mac OS, una cosa che ho trovato davvero molto
+
+411
+00:28:36,160 --> 00:28:39,760
+interessante è che prendetela con le pinze e con il nome perché
+
+412
+00:28:39,760 --> 00:28:42,880
+non sono sicuro che sia quella, dovrebbe essere la barra dei preferiti,
+
+413
+00:28:42,880 --> 00:28:46,320
+che è una barra molto simpatica che si va a infilare al
+
+414
+00:28:46,320 --> 00:28:50,160
+di sotto della barra degli strumenti e vi permette uno di accedere
+
+415
+00:28:50,160 --> 00:28:55,600
+alle caselle similmente a quello che succede con iPadOS essenzialmente, ovvero
+
+416
+00:28:55,920 --> 00:29:00,000
+la possibilità di cliccare su caselle e farsi aprire la terza colonna
+
+417
+00:29:00,160 --> 00:29:03,600
+di sinistra appunto con tutte le caselle di posta elettronica che avete
+
+418
+00:29:03,600 --> 00:29:04,480
+impostato.
+
+419
+00:29:04,480 --> 00:29:08,640
+E poi ci sono già preimpostati dei filtri che sono in entrata,
+
+420
+00:29:08,640 --> 00:29:12,720
+inviate, indesiderate, cestino, bozza e contrassegnata.
+
+421
+00:29:12,720 --> 00:29:17,360
+Secondo me quella è una cosa molto utile per chi utilizza mail
+
+422
+00:29:17,360 --> 00:29:21,920
+su macOS, ma soprattutto è quella simpatica concina tonda con le tre
+
+423
+00:29:21,920 --> 00:29:25,680
+lineette orizzontali che credo che vi salverà la vita più di una
+
+424
+00:29:25,680 --> 00:29:31,360
+volta perché permette davvero di liberare la visualizzazione del vostro programma di
+
+425
+00:29:31,360 --> 00:29:32,640
+posta elettronica mail.
+
+426
+00:29:32,640 --> 00:29:37,600
+Ecco per chi ci segue in diretta, ho fatto uno zoom per
+
+427
+00:29:37,600 --> 00:29:42,880
+far vedere l'icona che si trova nella colonna centrale, e
+
+428
+00:29:44,000 --> 00:29:48,880
+appunto vi permette di vedere le mail non lette.
+
+429
+00:29:49,200 --> 00:29:53,280
+L'altra particolarità, diciamo, recente
+
+430
+00:29:54,320 --> 00:29:59,400
+di mail è una funzione di ricerca che dovrebbe essere stata migliorata.
+
+431
+00:29:59,200 --> 00:30:05,880
+So che su Mail oggettivamente non sempre le ricerche erano semplicissime, comodissime.
+
+432
+00:30:06,120 --> 00:30:12,040
+Attualmente, innanzitutto, adesso qui a video sto facendo vedere una ricerca fatta
+
+433
+00:30:12,040 --> 00:30:16,360
+su Devon Thing giusto per far vedere la possibilità.
+
+434
+00:30:16,520 --> 00:30:21,160
+La cosa interessante è che da una parte fa vedere chiamiamo così
+
+435
+00:30:21,240 --> 00:30:25,560
+il testo sottolineato, cioè nel testo della mail o nell'oggetto della mail,
+
+436
+00:30:25,560 --> 00:30:29,000
+fa vedere cosa si è trovato, chiamiamolo in questi termini.
+
+437
+00:30:29,320 --> 00:30:30,680
+Dall'altra,
+
+438
+00:30:32,200 --> 00:30:34,760
+se si va poi a fare la ricerca e quindi si va
+
+439
+00:30:34,760 --> 00:30:40,280
+nella parte alta di destra di mail dove c'è l'icona della lente
+
+440
+00:30:40,280 --> 00:30:46,040
+di ingrandimento, iniziando a digitare, ci sono anche vari suggerimenti utili che
+
+441
+00:30:46,040 --> 00:30:50,440
+vi permettono anche di fare delle ricerche molto mirate, quindi legate per
+
+442
+00:30:50,440 --> 00:30:55,560
+esempio a un determinato periodo di tempo, a da chi è stata
+
+443
+00:30:55,560 --> 00:31:00,440
+inviata la mail, il nome dell'allegato, si possono fare delle ricerche anche
+
+444
+00:31:00,440 --> 00:31:09,000
+relativamente avanzate e soprattutto si possono concatenare più ricerche.
+
+445
+00:31:09,000 --> 00:31:13,160
+Quindi, per esempio, io posso andare a cercare: Roberto, mi stai attaccando
+
+446
+00:31:13,240 --> 00:31:17,720
+la tosse anche se ne siamo a distanza di chilometri,
+
+447
+00:31:19,800 --> 00:31:23,320
+posso andare a cercare per esempio, tutte le mail che mi ha
+
+448
+00:31:23,320 --> 00:31:29,080
+inviato Roberto con per esempio, un allegato dal nome Pinco Pallino e
+
+449
+00:31:29,080 --> 00:31:29,640
+così via.
+
+450
+00:31:29,640 --> 00:31:34,360
+Quindi si possono fare anche delle ricerche relativamente strutturate.
+
+451
+00:31:34,360 --> 00:31:38,440
+Anche qui, devo dire la verità: utilizzo un altro programma di posta
+
+452
+00:31:38,600 --> 00:31:41,960
+elettronica, quindi io so fare le ricerche su Airmail, devo dire la
+
+453
+00:31:41,960 --> 00:31:44,800
+verità su Mail, non le utilizzo tante.
+
+454
+00:31:44,760 --> 00:31:49,120
+Nelle note dell'episodio, comunque, giusto perché lo specificho.
+
+455
+00:31:49,680 --> 00:31:55,120
+Questi sono link ai vari manuali di mail nel supporto di Apple,
+
+456
+00:31:55,120 --> 00:32:01,600
+quindi ci sarà ovviamente un link per andare e approfondire l'argomento.
+
+457
+00:32:02,080 --> 00:32:06,560
+Direi che a questo punto un'infarinatura generale di mail l'abbiamo data.
+
+458
+00:32:06,560 --> 00:32:14,400
+Io non entrerei nella configurazione, nell'impostazione di una casella di posta elettronica,
+
+459
+00:32:14,400 --> 00:32:20,160
+perché da una parte Mail comunque ha già preimpostate, chiamiamoli così: ha
+
+460
+00:32:21,120 --> 00:32:27,920
+un sistema di guidato per caricare, chiamiamole in questi termini, le configurazioni
+
+461
+00:32:28,240 --> 00:32:33,280
+dei programmi di posta elettronica, o meglio, dei fornitori di posta elettronica
+
+462
+00:32:33,280 --> 00:32:34,080
+più noti.
+
+463
+00:32:34,080 --> 00:32:38,960
+Quindi Gmail, Yahoo, credo, non mi ricordo più che cos'altro.
+
+464
+00:32:40,240 --> 00:32:41,920
+Guarda, adesso guardo, ti dico.
+
+465
+00:32:41,920 --> 00:32:45,840
+C'è la possibilità ovviamente di fare una configurazione manuale che richiede un
+
+466
+00:32:45,840 --> 00:32:48,160
+minimo di conoscenze tecniche.
+
+467
+00:32:48,160 --> 00:32:53,200
+Diciamo, abitualmente segnalo per chi fosse interessato, per chi non lo sapesse,
+
+468
+00:32:53,200 --> 00:32:57,920
+perché nella mia storia ho scoperto che, per esempio, tantissimi colleghi non
+
+469
+00:32:57,920 --> 00:33:03,280
+sanno che è possibile configurare su Mail la PAC che dà l'ordine
+
+470
+00:33:03,280 --> 00:33:04,000
+o che è.
+
+471
+00:33:04,240 --> 00:33:06,960
+Stavo per dirlo io appunto, perché ho configurato
+
+472
+00:33:08,320 --> 00:33:10,880
+gli architetti e funziona benissimo.
+
+473
+00:33:10,880 --> 00:33:11,440
+Fionzionano.
+
+474
+00:33:11,840 --> 00:33:16,880
+Sono riuscito a configurarla e funziona alla grande e tra l'altro, aggiungo
+
+475
+00:33:16,880 --> 00:33:22,400
+gli altri tipologia di account che si possono aggiungere, sono quelli di
+
+476
+00:33:22,400 --> 00:33:25,920
+Microsoft Exchange, Google, Yahoo!
+
+477
+00:33:25,920 --> 00:33:27,080
+E AOL.
+
+478
+00:33:27,320 --> 00:33:29,400
+È un po' retro AOL.
+
+479
+00:33:29,400 --> 00:33:31,240
+Comunque vabbè, lasciamo stare.
+
+480
+00:33:32,520 --> 00:33:38,360
+L'altra cosa che volevo segnalare è che abitualmente, soprattutto nei fornitori italiani
+
+481
+00:33:38,360 --> 00:33:41,640
+e altri, ci sono comunque le guide.
+
+482
+00:33:41,640 --> 00:33:47,160
+Se si va appunto a Ruba, piuttosto che infoc che sono tipici
+
+483
+00:33:47,480 --> 00:33:51,400
+fornitori, per esempio, della PEC, perché non ce ne sono tantissimi.
+
+484
+00:33:51,400 --> 00:33:55,400
+Se andate a vedere sul loro sito, abitualmente c'è anche un
+
+485
+00:33:57,080 --> 00:34:01,480
+guida, andando a cartabellando nella documentazione, una guida per fare tutte le
+
+486
+00:34:01,480 --> 00:34:06,600
+varie configurazioni delle caselle elettroniche, abitualmente anche per mail.
+
+487
+00:34:07,160 --> 00:34:11,480
+Non è sempre detto, però tendenzialmente si può fare.
+
+488
+00:34:11,880 --> 00:34:15,160
+Rispondo velocemente, anche se ne abbiamo parlato.
+
+489
+00:34:15,160 --> 00:34:20,120
+Poi, secondo me, nella puntata 32 devo dire la verità.
+
+490
+00:34:20,120 --> 00:34:21,080
+Meglio, IMAP,
+
+491
+00:34:22,120 --> 00:34:30,440
+brevissima pausa, cioè brevissima parentesi, diciamo: l'imap permette il protocollo che è
+
+492
+00:34:30,440 --> 00:34:36,200
+più moderno, chiamiamolo così, che permette di sincronizzare diversi dispositivi, la lettura
+
+493
+00:34:36,200 --> 00:34:38,680
+di email su diversi dispositivi.
+
+494
+00:34:38,680 --> 00:34:44,440
+Quindi se io voglio avere mail che ho generato, per esempio, sull'iPhone,
+
+495
+00:34:44,440 --> 00:34:50,680
+voglio che siano anche presenti su Mac o su iPad e voglio
+
+496
+00:34:50,680 --> 00:34:52,840
+che tutto sia sincronizzato,
+
+497
+00:34:53,960 --> 00:34:55,960
+allora devo utilizzare l'Imap.
+
+498
+00:34:56,120 --> 00:34:59,880
+L'Imap mi permette, cioè, per esempio, se ho letto un'email e voglio
+
+499
+00:34:59,880 --> 00:35:03,000
+vederla come ho letto o archiviato un'email e così via, devo usare
+
+500
+00:35:03,000 --> 00:35:07,560
+l'Imapap, perché di fatto la casella di posta elettronica non è fisicamente
+
+501
+00:35:07,560 --> 00:35:10,360
+sul mio dispositivo, ma è nel cloud.
+
+502
+00:35:10,520 --> 00:35:11,880
+Quindi, ovviamente, se io cancello
+
+503
+00:35:13,160 --> 00:35:13,800
+qualcosa
+
+504
+00:35:14,880 --> 00:35:19,040
+su iPhone, lo cancello anche su tutti gli altri dispositivi una volta
+
+505
+00:35:19,040 --> 00:35:24,400
+che il sistema passa, il pop 3 invece scarica i file quindi
+
+506
+00:35:24,480 --> 00:35:30,000
+scarica le mail e se in dipendenza dalle configurazioni, nella sostanza, cancella
+
+507
+00:35:30,000 --> 00:35:34,000
+anche sul lato server questi dati quindi, ovviamente non si ha la
+
+508
+00:35:34,000 --> 00:35:37,680
+sincronizzazione tra i dispositivi.
+
+509
+00:35:37,760 --> 00:35:41,280
+Credo e dico credo perché io ormai il pop 3 non lo
+
+510
+00:35:41,280 --> 00:35:42,640
+uso da una vita
+
+511
+00:35:45,360 --> 00:35:48,320
+che il pop 3 sia possibile utilizzarlo su mail.
+
+512
+00:35:48,320 --> 00:35:52,240
+Tuttavia, non garantisco perché dovrei aprire proprio mail per vedere se è
+
+513
+00:35:52,240 --> 00:35:58,560
+possibile che ci sia nelle impostazioni, do un'occhiata negli account, mentre tu
+
+514
+00:35:58,560 --> 00:36:02,800
+spulci, intanto, io vado un attimo avanti, poi, dopo, quando vuoi, mi
+
+515
+00:36:02,800 --> 00:36:06,320
+fermi e fai la precisazione.
+
+516
+00:36:06,640 --> 00:36:07,840
+Quali sono le novità?
+
+517
+00:36:07,840 --> 00:36:12,720
+Quindi di mail, con iOS e iPadOS 16 e su macOS
+
+518
+00:36:12,800 --> 00:36:14,080
+Ventura, si,
+
+519
+00:36:16,720 --> 00:36:22,800
+per esempio, quella di Architetti Torino PAC è una POP, quindi funziona
+
+520
+00:36:22,800 --> 00:36:23,120
+perché
+
+521
+00:36:24,320 --> 00:36:26,560
+mando e ricevo mail da
+
+522
+00:36:28,800 --> 00:36:33,600
+diciamo di tipo PEC da questo indirizzo, però è configurato come POP.
+
+523
+00:36:33,680 --> 00:36:38,160
+Novità, diciamo, recenti, degli ultimi sistemi operativi che sono appena usciti.
+
+524
+00:36:38,160 --> 00:36:43,280
+Tra virgolette, mentre noi stiamo strando, sono usciti da qualche mese, sono
+
+525
+00:36:43,600 --> 00:36:46,240
+la possibilità di annullare l'invio.
+
+526
+00:36:46,560 --> 00:36:53,280
+Che tra virgolette, molto comodo, nel senso che non fa altro, è
+
+527
+00:36:53,440 --> 00:36:59,760
+un artificio: cioè, invece di mandare quando clicchi l'aereo aeroplanina di carta
+
+528
+00:36:59,760 --> 00:37:01,000
+per inviare la mail.
+
+529
+00:37:01,240 --> 00:37:06,360
+Nella realtà mail non manda la mail, ma aspetta, in dipendenza, secondo
+
+530
+00:37:06,360 --> 00:37:13,160
+me 30, 60, 120 secondi è configurabile questo lasso di tempo, però,
+
+531
+00:37:13,160 --> 00:37:17,000
+non oltre i 120 secondi, diciamo a mandare l'email.
+
+532
+00:37:17,000 --> 00:37:20,120
+Quindi se io mi sono reso conto per esempio che sto mandando
+
+533
+00:37:20,120 --> 00:37:21,080
+una mail a Roberto.
+
+534
+00:37:21,080 --> 00:37:23,080
+Ho già cliccato invio.
+
+535
+00:37:23,080 --> 00:37:26,840
+Cavoli, non ho l'allegato, non gli ho messo l'allegato.
+
+536
+00:37:26,840 --> 00:37:32,520
+Posso bloccare diciamo l'invio, fermarlo e a questo punto rieditare la mail
+
+537
+00:37:32,520 --> 00:37:33,720
+e così via.
+
+538
+00:37:34,040 --> 00:37:40,120
+Devo dire la verità: l'invio con queste tempche è proprio con quell'invio
+
+539
+00:37:40,120 --> 00:37:46,360
+dove sovrappensero, secondo me, schiaccia il pulsante e poi ti accorgi in
+
+540
+00:37:46,360 --> 00:37:51,400
+un nanosecondo, diciamo che hai fatto un errore, diciamo.
+
+541
+00:37:51,720 --> 00:37:56,760
+Su Irmail, per esempio, questa funzione un po' ti permette di avere
+
+542
+00:37:56,760 --> 00:37:57,640
+molto più tempo.
+
+543
+00:37:57,640 --> 00:38:02,280
+Tra virgolette, che da una parte comoda dall'altra parte scomodo.
+
+544
+00:38:02,280 --> 00:38:03,560
+Io l'ho attivata.
+
+545
+00:38:04,040 --> 00:38:06,600
+Ma poi, alla fine, non so quando hai, per esempio, se hai
+
+546
+00:38:06,600 --> 00:38:09,800
+al telefono con una persona ti invia la mail, però ci metto
+
+547
+00:38:09,800 --> 00:38:12,600
+un quintale a partire, non è comodissimo.
+
+548
+00:38:13,320 --> 00:38:18,040
+Quindi ci sono dei limiti a questo sistema, diciamo che è sicuramente
+
+549
+00:38:18,040 --> 00:38:19,080
+una funzione utile
+
+550
+00:38:20,360 --> 00:38:22,600
+da avere nel proprio arco.
+
+551
+00:38:22,600 --> 00:38:27,080
+Quello che invece, secondo me, è la funzione che non era possibile.
+
+552
+00:38:27,080 --> 00:38:33,240
+Non avere su mail, e invece adesso finalmente c'è il send later,
+
+553
+00:38:33,240 --> 00:38:35,800
+cioè l'invio ritardato.
+
+554
+00:38:36,120 --> 00:38:43,720
+Che può essere sia l'invio ritardato, diciamo, nella configurazione base hai l'invio
+
+555
+00:38:43,720 --> 00:38:48,000
+o invia stasera, per esempio, quindi a un orario fisso alle 21
+
+556
+00:38:44,280 --> 00:38:44,360
+in
+
+557
+00:38:48,640 --> 00:38:51,760
+via domani, che anche lì è sensato, nel senso che io, casomai
+
+558
+00:38:51,920 --> 00:38:56,640
+sto scrivendo una mail ha degli orari inenarrabili, diciamo, e a questo
+
+559
+00:38:56,640 --> 00:38:59,520
+punto, almeno la manda alle 8 del mattino del giorno dopo.
+
+560
+00:38:59,520 --> 00:39:03,360
+Quello che io trovo sempre la cosa più comoda, più sensata è
+
+561
+00:39:03,360 --> 00:39:04,560
+invia più tardi.
+
+562
+00:39:04,560 --> 00:39:11,840
+Dove cliccando ovviamente questa opzione, è possibile decidere quando a che ora
+
+563
+00:39:11,840 --> 00:39:14,320
+inviare la mail.
+
+564
+00:39:14,320 --> 00:39:19,280
+Ci sono, c'è un dettaglio fondamentale di tutta questa vicenda che è
+
+565
+00:39:19,280 --> 00:39:19,760
+questo.
+
+566
+00:39:20,000 --> 00:39:24,560
+Mentre, per esempio, programmi come Airmail lavorano con degli script in back-end,
+
+567
+00:39:24,720 --> 00:39:28,880
+chiamiamolo così, e quindi in pratica utilizzano il loro server
+
+568
+00:39:31,040 --> 00:39:35,120
+per fare l'invio ritardato che è un vantaggio da una parte, ma
+
+569
+00:39:35,120 --> 00:39:38,720
+è uno svantaggio dall'altra, perché ovviamente l'email passa dai loro server per
+
+570
+00:39:38,720 --> 00:39:39,920
+forza di cose.
+
+571
+00:39:39,920 --> 00:39:44,560
+Mail lo fa direttamente sul dispositivo, e quindi il dispositivo deve essere
+
+572
+00:39:44,560 --> 00:39:46,640
+acceso, funzionante e collegato a internet.
+
+573
+00:39:46,640 --> 00:39:52,080
+Se no, non va l'email e quindi l'invio ritardato ha un inghippo.
+
+574
+00:39:52,080 --> 00:39:56,720
+Devo dire la verità, non ho fatto dei test concreti per cui
+
+575
+00:39:57,040 --> 00:39:58,640
+non ho avuto modo di
+
+576
+00:40:00,080 --> 00:40:02,720
+essere sicuro che tutto funzioni correttamente.
+
+577
+00:40:03,040 --> 00:40:08,640
+Diciamo che se si vuole avere questa funzione, il mio consiglio personale
+
+578
+00:40:08,720 --> 00:40:13,200
+che, però, è abbastanza diciamo che bisogna essere dotati di un Mac
+
+579
+00:40:13,360 --> 00:40:17,840
+minion o comunque di un dispositivo Apple, che diciamo fa da server,
+
+580
+00:40:17,840 --> 00:40:24,560
+chiamiamolo in questi termini, dove ovviamente mail è sempre aperto, e quindi,
+
+581
+00:40:24,560 --> 00:40:29,280
+ovviamente, anche se io ho l'invio ritardato che si sincronizza tra i
+
+582
+00:40:29,280 --> 00:40:34,120
+vari dispositivi, ho sempre un dispositivo acceso e quindi riesco a fare
+
+583
+00:40:29,920 --> 00:40:34,760
+queste cose.
+
+584
+00:40:35,080 --> 00:40:40,760
+Il vantaggio di questa soluzione che, però, praticamente richiede comunque un dispositivo
+
+585
+00:40:40,760 --> 00:40:41,080
+sempre
+
+586
+00:40:42,680 --> 00:40:46,520
+operativo, è quello che poi si possono utilizzare le regole di Mail
+
+587
+00:40:46,600 --> 00:40:51,080
+che sono molto potenti, molto interessanti, vedremo dopo come funzionano.
+
+588
+00:40:51,080 --> 00:40:54,600
+Adesso andiamo per ordine, come si suol dire,
+
+589
+00:40:56,120 --> 00:41:04,280
+l'ultima funzione interessante è il ricordamelo, denominato in italiano, che in estrema
+
+590
+00:41:04,280 --> 00:41:12,440
+sintesi permette di ricordarsi di fare un'email a una determinata data, ora
+
+591
+00:41:12,440 --> 00:41:13,560
+e così via.
+
+592
+00:41:13,560 --> 00:41:17,880
+Se adesso riesco a zoomare, cosa che non è detto, perché diciamo
+
+593
+00:41:17,880 --> 00:41:25,640
+che tendenzialmente per fare un ricordo non è intuitivissimo, nel senso che
+
+594
+00:41:26,120 --> 00:41:30,680
+è una cosa che dovete andare a cercare ed è uno swipe.
+
+595
+00:41:30,680 --> 00:41:35,160
+Se non ricordo male, sulle mail che dovete ricordare, facendo uno swipe,
+
+596
+00:41:35,160 --> 00:41:35,720
+mi pare
+
+597
+00:41:37,880 --> 00:41:38,760
+verso destra.
+
+598
+00:41:38,760 --> 00:41:43,560
+Scusate, però, ovviamente su i pad non l'ho provato, però
+
+599
+00:41:44,840 --> 00:41:46,440
+invece è il tasto destro.
+
+600
+00:41:46,440 --> 00:41:50,840
+Ok, invece su i pad swipe verso destra, ma attenzione a non
+
+601
+00:41:50,840 --> 00:41:51,720
+farlo totale.
+
+602
+00:41:51,720 --> 00:41:56,920
+Perché se lo fate totale, vi abilita la funzione di default, che
+
+603
+00:41:56,920 --> 00:41:59,160
+nel caso dovrebbe essere letto.
+
+604
+00:41:59,400 --> 00:42:03,560
+Invece dovete dare un leggero swipe in modo tale da far saltare
+
+605
+00:42:03,560 --> 00:42:04,200
+fuori
+
+606
+00:42:05,400 --> 00:42:08,040
+di fianco alla mail.
+
+607
+00:42:08,120 --> 00:42:12,760
+Scusa, in altro, quando si fa lo swipe da destra a sinistra,
+
+608
+00:42:12,760 --> 00:42:16,400
+diciamo, hai cestina, la possibilità di contrassegnare.
+
+609
+00:42:16,640 --> 00:42:20,640
+C'è altro, cliccando su altro che sono i tre puntini, hai tutte
+
+610
+00:42:20,640 --> 00:42:23,520
+le opzioni: cioè l'opzione rispondi, rispondi a tutti.
+
+611
+00:42:23,520 --> 00:42:26,560
+Inoltre, cestina, ricordamelo, contrassegna.
+
+612
+00:42:26,720 --> 00:42:30,560
+Tutta un'altra serie di informazioni eventualmente utili.
+
+613
+00:42:31,200 --> 00:42:33,040
+Ah, ho capito cosa dici.
+
+614
+00:42:33,040 --> 00:42:34,720
+Tu dici lo swipe.
+
+615
+00:42:34,720 --> 00:42:39,760
+Scusami, tu dici i tre puntini sono dello swipe verso da destra
+
+616
+00:42:39,840 --> 00:42:40,560
+verso sinistra?
+
+617
+00:42:40,560 --> 00:42:44,480
+Da destra verso sinistra, invece avevo capito i tre puntini che ci
+
+618
+00:42:44,480 --> 00:42:46,320
+sono in alto a destra
+
+619
+00:42:47,520 --> 00:42:48,400
+del programma.
+
+620
+00:42:48,400 --> 00:42:50,000
+Ho capito male io.
+
+621
+00:42:50,000 --> 00:42:51,760
+Ah, no, no.
+
+622
+00:42:51,760 --> 00:42:54,080
+Infatti, dicevo, ma mi stai facendo vedere della roba?
+
+623
+00:42:54,160 --> 00:42:55,040
+Ma ho capito male io.
+
+624
+00:42:55,040 --> 00:42:58,480
+In effetti, facendo così c'è altro, e in effetti c'è tutta una
+
+625
+00:42:58,480 --> 00:42:59,680
+serie di cose che tra.
+
+626
+00:42:59,840 --> 00:43:02,400
+E dentro altro c'è quello esatto.
+
+627
+00:43:02,480 --> 00:43:05,600
+Tuttavia, io potrei dire, secondo me è meglio fare dall'altra parte.
+
+628
+00:43:05,600 --> 00:43:07,520
+No, no, no, sono d'accordo con te.
+
+629
+00:43:07,520 --> 00:43:12,560
+Che diciamo che quella è l'opzione per avere, poi ne approfittiamo, tra
+
+630
+00:43:12,560 --> 00:43:17,680
+virgolette, per avere tutto sotto mano, chiamiamolo così, cioè, nel senso, avere
+
+631
+00:43:17,680 --> 00:43:22,400
+tutta una serie di opzioni che ci permettono, diciamo, di avere appunto
+
+632
+00:43:22,400 --> 00:43:27,440
+non solo il ricordam, ma tutta una serie di altre cose e
+
+633
+00:43:27,440 --> 00:43:28,640
+così via.
+
+634
+00:43:28,640 --> 00:43:33,840
+Direi a questo punto, visto che non siamo neanche troppo tardi, nella
+
+635
+00:43:34,000 --> 00:43:36,000
+nostra scaletta, farei
+
+636
+00:43:37,760 --> 00:43:43,920
+una piccola incursione, chiamiamola così, sulle opzioni di automazione di mail, che
+
+637
+00:43:43,920 --> 00:43:48,320
+sono un po' particolari, devo dire la verità, e quindi volevo fare
+
+638
+00:43:48,320 --> 00:43:49,840
+alcune segnalazioni.
+
+639
+00:43:49,840 --> 00:43:55,600
+Perché qui, dal mio punto di vista, almeno, ci sono le maggiori,
+
+640
+00:43:55,600 --> 00:44:03,560
+chiamiamole così, differenze tra macOS e iOS e iPadOS, nella sostanza, macOS
+
+641
+00:44:03,720 --> 00:44:10,120
+ha degli strumenti più avanzati di automazione legati al passato, chiamiamoli così:
+
+642
+00:44:11,560 --> 00:44:16,040
+c'è Automator, c'è Apple Script e tutta una serie di funzioni abbastanza
+
+643
+00:44:16,040 --> 00:44:21,160
+avanzate per fare tutta una serie di automazioni con mail.
+
+644
+00:44:21,480 --> 00:44:27,960
+L'invio automatico di mail, la creazione di email da modello, recentemente per
+
+645
+00:44:27,960 --> 00:44:33,000
+esempio adesso è una parentesi molto larga, ma ho dovuto inviare a
+
+646
+00:44:33,000 --> 00:44:39,080
+40 persone gli attestati di un corso, nella sostanza, grazie al mitico
+
+647
+00:44:39,080 --> 00:44:43,560
+Sal Soghoian è a una sua automazione più complessa che ho semplicemente
+
+648
+00:44:43,560 --> 00:44:47,720
+preso e così via, ma nella sostanza ho da una parte generato
+
+649
+00:44:47,720 --> 00:44:52,520
+il PDF con l'attestato e strapolando tutta una serie di dati: quindi
+
+650
+00:44:52,520 --> 00:44:57,640
+l'attestato con il nome dell'avvocato, quanti crediti formativi aveva ottenuto e così
+
+651
+00:44:57,640 --> 00:44:59,720
+via, da un modello ovviamente.
+
+652
+00:45:00,040 --> 00:45:08,440
+Questo attestato quindi l'attestato personalizzato l'ho inviato: cioè, ho generato 40 mail
+
+653
+00:45:08,440 --> 00:45:13,800
+diverse con ognuno per ogni singolo soggetto con la sua singola mail,
+
+654
+00:45:13,800 --> 00:45:18,040
+l'attestato legato e un messaggio di testo personalizzato.
+
+655
+00:45:18,680 --> 00:45:23,560
+Queste sono le potenze, tra virgolette, delle automazioni su macOS con Apple
+
+656
+00:45:23,720 --> 00:45:28,920
+Script e così via che è possibile fare e che ad oggi
+
+657
+00:45:28,920 --> 00:45:32,440
+iOS non è in grado di arrivare a tanto, mettiamola così.
+
+658
+00:45:32,440 --> 00:45:38,040
+Tuttavia, se non si vuole arrivare a tanto, invece abbiamo su comandi
+
+659
+00:45:38,040 --> 00:45:42,760
+rapidi tutta una serie di opzioni che adesso non andremo a vedere
+
+660
+00:45:42,760 --> 00:45:47,120
+nel dettaglio, ma diciamo abbiamo molte più opzioni in comandi rapidi su
+
+661
+00:45:44,840 --> 00:45:50,480
+iPadOS e su iOS che invece su macOS.
+
+662
+00:45:50,720 --> 00:45:55,040
+Ed è una situazione un po' particolare, chiamiamoli in questi termini.
+
+663
+00:45:55,040 --> 00:46:00,160
+Adesso a video faccio vedere alcune cose di iOS, per esempio.
+
+664
+00:46:00,160 --> 00:46:05,280
+Tra le varie cose, c'è la possibilità di aprire una specifica casella
+
+665
+00:46:05,280 --> 00:46:06,480
+di posta elettronica.
+
+666
+00:46:06,480 --> 00:46:10,800
+E questa lo segnalo perché è molto comodo se si vuole cercare
+
+667
+00:46:10,800 --> 00:46:16,560
+di essere, chiamiamoli così, focalizzati: cioè si possono creare dei semplici comandi
+
+668
+00:46:16,560 --> 00:46:21,520
+rapidi dove cosa si fa invece di andare in mail, aprire mail
+
+669
+00:46:21,520 --> 00:46:25,440
+e casomai avere l'inbox completo con otto caselle di posta elettronica, quelle
+
+670
+00:46:25,440 --> 00:46:30,960
+di lavoro, quelle di casa, quelle del divertimento, puntare direttamente quindi far
+
+671
+00:46:30,960 --> 00:46:35,120
+aprire mail direttamente sulla casella di lavoro piuttosto che io sulla casella
+
+672
+00:46:35,120 --> 00:46:39,760
+personale, chiamiamola in questi termini, e in questa maniera non vedere in
+
+673
+00:46:39,760 --> 00:46:44,880
+un certo qual modo, per esempio, se nel weekend io guardo, apro
+
+674
+00:46:45,120 --> 00:46:46,400
+solo la casella personale.
+
+675
+00:46:46,400 --> 00:46:50,000
+Non guardo la casella mail di lavoro.
+
+676
+00:46:50,000 --> 00:46:55,840
+Al contrario, casomai durante le giornate lavorative non mi faccio distrarre dalle
+
+677
+00:46:55,840 --> 00:47:00,880
+cose personali, casomai, non so, dalle newsletter o quant'altro, ma guardo solo
+
+678
+00:47:00,880 --> 00:47:03,040
+la casella di lavoro.
+
+679
+00:47:03,040 --> 00:47:05,520
+Ovviamente ci sono funzioni di cerca mail.
+
+680
+00:47:05,520 --> 00:47:10,640
+Quindi la possibilità appunto di filtrare le mail, ci sono vari sistemi
+
+681
+00:47:11,600 --> 00:47:19,920
+di funzionamento, c'è anche la full immersion con l'impostazione per impostare il
+
+682
+00:47:19,920 --> 00:47:21,920
+filtro di full immersion per mail.
+
+683
+00:47:21,920 --> 00:47:27,200
+C'è la possibilità ovviamente di inviare le mail in senso tecnico, ovviamente
+
+684
+00:47:27,200 --> 00:47:27,920
+in questi casi,
+
+685
+00:47:28,960 --> 00:47:32,680
+di cturarla con una serie di comandi rapidi.
+
+686
+00:47:32,840 --> 00:47:37,320
+E la possibilità di mostrare la casella VIP che ecco, non l'abbiamo
+
+687
+00:47:37,320 --> 00:47:40,280
+detto, quindi ne approfitto per accennarlo.
+
+688
+00:47:40,280 --> 00:47:44,120
+È possibile in mail, questa è una bella funzione, molto comoda da
+
+689
+00:47:44,440 --> 00:47:45,560
+utilizzare.
+
+690
+00:47:45,560 --> 00:47:49,640
+Sto facendo qualcosa, per esempio, non so, voglio mettere mia moglie come
+
+691
+00:47:49,640 --> 00:47:50,120
+VIP.
+
+692
+00:47:50,120 --> 00:47:54,280
+Quindi, tutta una serie di mail di mia moglie passano attraverso tutti
+
+693
+00:47:54,280 --> 00:47:56,600
+i vari filtri, anzi, ricevo
+
+694
+00:47:57,800 --> 00:48:04,200
+una mail, cioè ricevo una notifica, mentre casomai ho zitito tutte le
+
+695
+00:48:04,200 --> 00:48:05,160
+notifiche di mail.
+
+696
+00:48:05,480 --> 00:48:07,560
+Non abbiamo parlato anche di notifiche.
+
+697
+00:48:07,560 --> 00:48:13,160
+Ovviamente il mio consiglio è togliere qualsiasi tipo di notifica da mail.
+
+698
+00:48:13,160 --> 00:48:18,280
+Anzi, addirittura, una cosa interessante che si può fare su mail è
+
+699
+00:48:18,280 --> 00:48:22,200
+quella di esistono notifiche push, diciamo su mail.
+
+700
+00:48:22,200 --> 00:48:26,360
+Ma io abitualmente metto invece il manuale: cioè quando apro mail sono
+
+701
+00:48:26,360 --> 00:48:31,000
+io che decido che faccio lo swipe dall'alto verso in basso per
+
+702
+00:48:31,000 --> 00:48:34,040
+fare l'aggiornamento per vedere se ci sono le nuove mail.
+
+703
+00:48:34,040 --> 00:48:37,480
+Altrimenti non ho le mail che mi scendono.
+
+704
+00:48:37,480 --> 00:48:43,320
+Ma questo, diciamo, è legato più a come gestire, come sopravvivere alle
+
+705
+00:48:43,320 --> 00:48:43,720
+mail.
+
+706
+00:48:43,720 --> 00:48:49,320
+Quindi è una parentesi nella mia solita parentesi, come al solito.
+
+707
+00:48:49,320 --> 00:48:54,280
+A video faccio vedere come appunto il comando rapido per aprire una
+
+708
+00:48:54,280 --> 00:48:58,200
+specifica cartella è molto semplice, può diventare molto comodo perché appunto con
+
+709
+00:48:58,200 --> 00:49:04,200
+un tap, sostanzialmente, si può decidere di aprire uno specifico inbox o
+
+710
+00:49:04,200 --> 00:49:09,240
+addirittura una sottocartella di una casella di posta elettronica.
+
+711
+00:49:09,240 --> 00:49:11,560
+Quindi si possono fare anche delle cose interessanti.
+
+712
+00:49:11,560 --> 00:49:16,560
+Per esempio, voglio avere a disposizione determinati documenti che sono in una
+
+713
+00:49:16,560 --> 00:49:19,920
+casella, ma non voglio essere distratto da mail che mi nel mentre
+
+714
+00:49:20,080 --> 00:49:24,160
+mi arrivano, è ovvio che posso fare queste automazioni che sono anche
+
+715
+00:49:24,160 --> 00:49:31,040
+semplici, ma che secondo me poi diventano molto utili da gestire e
+
+716
+00:49:31,040 --> 00:49:32,160
+così via.
+
+717
+00:49:32,480 --> 00:49:37,120
+Se andiamo invece a vedere i comandi rapidi di mail per cost,
+
+718
+00:49:37,440 --> 00:49:45,760
+sono una desolazione, nel senso che ottieni indirizzo email dall'input, seleziono indirizzo
+
+719
+00:49:45,760 --> 00:49:50,720
+email, indirizzo email e imposta filtra di full immersion per mail, addirittura
+
+720
+00:49:50,880 --> 00:49:55,840
+se devo dire la verità, le icone sono anche diverse quindi non
+
+721
+00:49:56,080 --> 00:50:02,400
+ho ben capito come, ma in estrema sintesi, anche probabilmente sono comandi
+
+722
+00:50:02,400 --> 00:50:05,280
+rapidi differenziati.
+
+723
+00:50:05,280 --> 00:50:09,680
+Non so come definirlo, nel senso che chi ha gestito questi comandi
+
+724
+00:50:09,680 --> 00:50:10,800
+rapidi,
+
+725
+00:50:12,000 --> 00:50:14,960
+non li ha diciamo, li ha ben sincronizzati.
+
+726
+00:50:14,960 --> 00:50:19,120
+Comunque, nel tempo abbiamo visto, lo vediamo in continuazione.
+
+727
+00:50:19,120 --> 00:50:25,840
+Apple sta ovviamente via maestra e comandi rapidi, probabilmente i vari team
+
+728
+00:50:25,920 --> 00:50:32,000
+non si sono coordinati bene ancora, probabilmente più avanti, ci saranno nuovi
+
+729
+00:50:32,000 --> 00:50:32,800
+comandi rapidi.
+
+730
+00:50:32,800 --> 00:50:33,680
+Devo dire la verità.
+
+731
+00:50:33,680 --> 00:50:38,480
+Su macOS ad oggi mentre stiamo registrando questa puntata e probabilmente fino
+
+732
+00:50:38,480 --> 00:50:45,440
+almeno a settembre dell'anno prossimo, difficilmente con i comandi rapidi si può
+
+733
+00:50:45,440 --> 00:50:46,400
+fare qualcosa.
+
+734
+00:50:46,400 --> 00:50:50,800
+Un discorso totalmente diverso invece, è quello che si può fare, e
+
+735
+00:50:50,800 --> 00:50:57,200
+qui proprio ne facciamo un cenno, velocissimo, ma con AppleScript, AppleScript, che
+
+736
+00:50:57,200 --> 00:51:03,240
+è un linguaggio di programmazione che serve per programmare e far dialogare
+
+737
+00:51:03,720 --> 00:51:08,600
+le varie le varie applicazioni su Make host di Apple e non
+
+738
+00:51:08,600 --> 00:51:13,560
+solo, perché diciamo che tutte le applicazioni anche di terze parti che
+
+739
+00:51:13,560 --> 00:51:18,200
+hanno un dizionario AppleScript, possono dialogare, possono passarsi i dati e quindi
+
+740
+00:51:18,280 --> 00:51:21,960
+appunto tutto quel discorso che avevo fatto prima del ho generato gli
+
+741
+00:51:21,960 --> 00:51:26,840
+attestati utilizzando un modello di pages e un foglio di numbers per
+
+742
+00:51:26,840 --> 00:51:31,960
+estrapolare i dati per avere il modello di attestato, ho creato il
+
+743
+00:51:31,960 --> 00:51:36,920
+PDF, ho allegato il PDF alla mail che anche qui ho estrapolato
+
+744
+00:51:37,480 --> 00:51:41,640
+da un foglio di calcolo di Numbers e ho inviato la mail
+
+745
+00:51:41,640 --> 00:51:45,000
+al destinatario corretto di quell'attestato.
+
+746
+00:51:45,640 --> 00:51:51,000
+Quindi vedete come appunto ho utilizzato tre applicazioni nel caso specifico Apple,
+
+747
+00:51:51,000 --> 00:51:56,600
+ma tre applicazioni diverse facendo girare i dati da un'applicazione all'altra senza
+
+748
+00:51:56,600 --> 00:51:57,400
+problemi.
+
+749
+00:51:57,720 --> 00:52:01,240
+Sono ovviamente automazioni abbastanza complicate.
+
+750
+00:52:01,240 --> 00:52:04,840
+Addirittura io qui, se avessi dovuto farlo io a manina, tra virgolette,
+
+751
+00:52:04,840 --> 00:52:05,960
+non sarei stato in grado.
+
+752
+00:52:05,960 --> 00:52:10,440
+Nel caso specifico, se vi interessa in inglese, c'è la possibilità proprio
+
+753
+00:52:10,440 --> 00:52:12,040
+di scaricare questo programmino.
+
+754
+00:52:12,040 --> 00:52:16,040
+Non so come definirlo, perché Salsa Goyan ha creato proprio anche un'interfaccia
+
+755
+00:52:16,040 --> 00:52:17,640
+grafica, diciamo.
+
+756
+00:52:17,640 --> 00:52:23,240
+Sono cose molto avanzate, però su macOS è possibile ancora fare queste
+
+757
+00:52:23,240 --> 00:52:23,720
+cose.
+
+758
+00:52:23,960 --> 00:52:30,760
+Quindi, per esempio, appunto, giusto per dire alcune cose, ovviamente su Mail
+
+759
+00:52:30,760 --> 00:52:34,920
+è possibile, non so, mandare avere un comando AppleScript per controllare se
+
+760
+00:52:34,920 --> 00:52:40,280
+è arrivata la nuova posta elettronica, estrarre il nome dal nome di
+
+761
+00:52:40,280 --> 00:52:45,360
+chi ha inviato, recuperare l'URL della mail per fare un link a
+
+762
+00:52:44,920 --> 00:52:49,280
+quella mail, ecco, una cosa di cui non abbiamo parlato.
+
+763
+00:52:49,600 --> 00:52:51,280
+Mi sono scordato
+
+764
+00:52:52,880 --> 00:52:58,080
+di cercare un mio articolo dove secondo me ne parlo, ma comunque
+
+765
+00:52:58,400 --> 00:53:05,440
+una cosa interessantissima che è quel cosiddetto contestal computing di David Spark.
+
+766
+00:53:07,360 --> 00:53:11,920
+C'è la possibilità in macOS e in iOS e il link che
+
+767
+00:53:12,080 --> 00:53:16,080
+andate a trovare, funziona su tutte e due le piattaforme.
+
+768
+00:53:16,080 --> 00:53:20,960
+Quindi sostanzialmente il link a un'email è possibile creare un link a
+
+769
+00:53:20,960 --> 00:53:24,960
+un'email o meglio, recuperare un URL che vi permette di aprire una
+
+770
+00:53:24,960 --> 00:53:26,560
+specifica email.
+
+771
+00:53:26,560 --> 00:53:30,960
+Questo link è molto utile perché, per esempio, io so che ho
+
+772
+00:53:30,960 --> 00:53:35,120
+un appuntamento con Roberto, una call con Roberto, e dobbiamo parlare di
+
+773
+00:53:35,120 --> 00:53:38,320
+una scaletta che lui mi ha mandato via email.
+
+774
+00:53:39,680 --> 00:53:45,200
+Quindi nell'impegno, ok, nell'appuntamento che io mi segno in calendario, posso mettere
+
+775
+00:53:45,520 --> 00:53:51,040
+il link a questa email e quando vado ad aprire nel calendario,
+
+776
+00:53:51,040 --> 00:53:54,400
+c'è anche una funzione di aprire gli URL sostanzialmente.
+
+777
+00:53:54,400 --> 00:53:57,920
+Cliccando su quell'URL mi si apre automaticamente l'email che mi ha mandato
+
+778
+00:53:57,920 --> 00:54:02,880
+Roberto quindi molto comodo, e questo, tra l'altro, funziona sia su iOS
+
+779
+00:54:02,960 --> 00:54:05,440
+che su iPadOS che su macOS.
+
+780
+00:54:05,440 --> 00:54:09,840
+Quindi indipendentemente dalla piattaforma Apple in cui sto lavorando.
+
+781
+00:54:09,840 --> 00:54:15,520
+Tutto questo sistema non funziona invece se sono fuori dal mondo dal
+
+782
+00:54:15,520 --> 00:54:17,600
+giardino dorato Apple.
+
+783
+00:54:17,800 --> 00:54:20,320
+Tuttavia, però devo dire la verità: è molto molto comodo.
+
+784
+00:54:20,320 --> 00:54:22,800
+E quindi è una cosa da tenere presente.
+
+785
+00:54:22,800 --> 00:54:27,360
+In più, appunto, ci sono tutta una serie di proprietà della mail,
+
+786
+00:54:27,360 --> 00:54:33,560
+per esempio, creare messaggi, account, insomma, veramente c'è la possibilità di fare
+
+787
+00:54:29,760 --> 00:54:35,480
+tante cose con Apple Script.
+
+788
+00:54:35,800 --> 00:54:40,840
+Ed infine lo segnalo anche qui perché è qualcosa che è ben
+
+789
+00:54:40,840 --> 00:54:46,120
+dotato, e vedete anche qui come le icone sono diverse, ma Automator
+
+790
+00:54:46,360 --> 00:54:49,480
+ha tutta una possibilità di funzioni per mail.
+
+791
+00:54:49,480 --> 00:54:52,760
+Per esempio, in via messaggio di gruppo, in via messaggi in uscita,
+
+792
+00:54:52,760 --> 00:54:54,520
+invia messaggi di compleanno.
+
+793
+00:54:54,520 --> 00:54:56,920
+Addirtura filtra i messaggi mail.
+
+794
+00:54:56,920 --> 00:55:00,680
+Quindi c'è la possibilità di creare filtri direttamente dentro Automator.
+
+795
+00:55:00,680 --> 00:55:05,000
+È ovvio che, per esempio, se Apple Script, secondo me, difficilmente verrà
+
+796
+00:55:05,080 --> 00:55:09,880
+tolto a breve da Mosso su Automator, qualche dubbio in più ce
+
+797
+00:55:09,880 --> 00:55:14,200
+l'ho e quindi lo segnalo come opzione perché Automator è molto più
+
+798
+00:55:14,200 --> 00:55:21,160
+semplice come tipologia di automazione da fare, ma sappiate che se un'automazione
+
+799
+00:55:21,160 --> 00:55:22,280
+fondamentale per voi.
+
+800
+00:55:22,280 --> 00:55:29,320
+Ecco, fare in automaticano forse non è il top, una differente modalità
+
+801
+00:55:29,320 --> 00:55:34,920
+di automazione, ne parliamo anche qui velocemente perché non le ho mai
+
+802
+00:55:34,920 --> 00:55:40,520
+approfondite troppo e quindi non sono un espertissimo, ma ho visto e
+
+803
+00:55:40,600 --> 00:55:43,000
+sicuramente ci sono delle potenzialità.
+
+804
+00:55:43,000 --> 00:55:46,920
+Ci sono le regole di automazione di mail che cosa sono in
+
+805
+00:55:46,920 --> 00:55:51,800
+estrema sintesi è possibile a fronte della ricezione di una mail, è
+
+806
+00:55:51,800 --> 00:55:57,400
+possibile creare delle automazioni, quindi, a fronte della ricezione di una mail
+
+807
+00:55:57,400 --> 00:55:58,520
+all'interno di mail
+
+808
+00:56:00,520 --> 00:56:00,600
+.
+
+809
+00:56:00,760 --> 00:56:01,560
+È possibile
+
+810
+00:56:02,760 --> 00:56:07,480
+far partire, vabbè, lo sai, infatti, appunto è difficilissimo da dirlo, non
+
+811
+00:56:07,560 --> 00:56:09,560
+scegli lingua è possibile
+
+812
+00:56:11,480 --> 00:56:16,640
+creare delle automazioni, ovvero giusto per farvelo vedere, esistono un tot di
+
+813
+00:56:14,840 --> 00:56:21,600
+condizioni: cioè se succede questo, una serie di azioni.
+
+814
+00:56:22,000 --> 00:56:22,640
+Fai questo.
+
+815
+00:56:22,640 --> 00:56:28,480
+Quindi, per esempio, non so, se ricevo una mail da Roberto, non
+
+816
+00:56:28,480 --> 00:56:36,480
+so, fai partire un suono oppure qualcos'altro, oppure gestina direttamente la mail,
+
+817
+00:56:39,440 --> 00:56:42,160
+la cosa interessante, ovviamente.
+
+818
+00:56:43,120 --> 00:56:46,320
+Adesso qui a video ce ne sono veramente tanti.
+
+819
+00:56:46,320 --> 00:56:52,480
+Quindi, se proviene da se è indirizzata a, se è copia a
+
+820
+00:56:52,480 --> 00:56:58,000
+conoscenza, se l'oggetto ha una determinata caratteristica, se il messaggio è indirizzato
+
+821
+00:56:58,080 --> 00:57:01,200
+al mio nome completo, cioè ci sono delle cose veramente se la
+
+822
+00:57:01,200 --> 00:57:05,440
+data di invio è anteriore a una certa data o posteriore a
+
+823
+00:57:05,440 --> 00:57:10,160
+una certa data, se viene da una conta piuttosto che dall'altra, se
+
+824
+00:57:10,160 --> 00:57:12,560
+il mittente tra i miei contatti piuttosto che non lo è, per
+
+825
+00:57:12,560 --> 00:57:16,800
+esempio, non voglio più ricevere spam tra virgolette, posso mettere una regola
+
+826
+00:57:16,800 --> 00:57:19,920
+che archivia automaticamente tutte le mail che non sono nei miei contatti.
+
+827
+00:57:19,920 --> 00:57:23,120
+È ovvio che, se, però, qualcuno che non conosco mi vuole contattare,
+
+828
+00:57:23,120 --> 00:57:24,400
+finisce nello spam.
+
+829
+00:57:24,400 --> 00:57:24,640
+Quindi,
+
+830
+00:57:25,760 --> 00:57:30,160
+c'è ovviamente c'è da pensare e da ragionare a tutta una serie
+
+831
+00:57:30,160 --> 00:57:35,040
+di condizioni, ma queste condizioni possono essere unite una all'altra, che è
+
+832
+00:57:35,040 --> 00:57:36,640
+la cosa interessante.
+
+833
+00:57:36,640 --> 00:57:42,080
+Quindi, se la mail di lavoro, per esempio, voglio non mi interessa.
+
+834
+00:57:42,480 --> 00:57:44,880
+Voglio ovviamente che qualcuno mi contatta per la prima volta.
+
+835
+00:57:44,880 --> 00:57:46,240
+Non voglio che venga archiviata.
+
+836
+00:57:46,240 --> 00:57:49,920
+Tuttavia, se, per esempio, la mail personale che hanno solo i miei
+
+837
+00:57:49,920 --> 00:57:54,560
+familiari o i miei amici, mi arrivo un'email da un soggetto che
+
+838
+00:57:54,560 --> 00:57:56,000
+non è tra i miei contatti.
+
+839
+00:57:56,000 --> 00:57:58,880
+Posso anche dire chi nessuno ce l'ha questa mail.
+
+840
+00:57:58,880 --> 00:58:01,400
+Tra virgolette, posso archiviarla tranquillamente.
+
+841
+00:58:01,560 --> 00:58:06,520
+Quindi, se l'account è quello personale, e non sei nei miei contatti,
+
+842
+00:58:06,520 --> 00:58:09,400
+io questa mail non la voglio neanche leggere.
+
+843
+00:58:09,400 --> 00:58:14,760
+Quindi vedete com'è possibile creare le condizioni anche abbastanza strutturate, ovviamente anche
+
+844
+00:58:14,760 --> 00:58:17,640
+in base al tipo di allegato e così via.
+
+845
+00:58:18,200 --> 00:58:23,800
+A fronte di queste condizioni, ovviamente, possono essere svolte delle azioni cosiddette.
+
+846
+00:58:23,800 --> 00:58:26,600
+Per esempio, appunto la cosa più semplice è sposto il messaggio.
+
+847
+00:58:26,600 --> 00:58:30,920
+Copia il messaggio, è possibile impostare il colore del messaggio.
+
+848
+00:58:30,920 --> 00:58:35,800
+Quindi, automaticamente, per esempio, non so, le mail che arrivano dall'orto hanno
+
+849
+00:58:35,800 --> 00:58:39,000
+il flag blu le posso mettere così.
+
+850
+00:58:39,240 --> 00:58:40,920
+Mi piace come colore,
+
+851
+00:58:42,280 --> 00:58:47,080
+oppure tra le varie cose, per esempio, in via una notifica icona
+
+852
+00:58:47,160 --> 00:58:51,160
+animata del doc, quindi mi lampeggia il fatto della mail.
+
+853
+00:58:51,160 --> 00:58:53,960
+O addirittura posso creare delle risposte automatiche.
+
+854
+00:58:53,960 --> 00:58:59,720
+Il tipico esempio, sono via, non voglio ricevere, cioè o non ho
+
+855
+00:58:59,720 --> 00:59:01,080
+modo di controllare le mail.
+
+856
+00:59:01,080 --> 00:59:04,680
+Adesso la maggior parte delle caselle di posta elettronica hanno il risponditore
+
+857
+00:59:04,680 --> 00:59:06,440
+automatico ormai di default.
+
+858
+00:59:06,440 --> 00:59:10,760
+Tuttavia, una volta non era così, in questo caso posso appunto creare
+
+859
+00:59:10,760 --> 00:59:15,720
+una risposta automatica dicendo: Sono assente all'ufficio dalla AL, questa è una
+
+860
+00:59:15,880 --> 00:59:17,480
+risposta automatica e così via.
+
+861
+00:59:17,480 --> 00:59:18,680
+O addirittura
+
+862
+00:59:20,120 --> 00:59:24,360
+inoltrarla, per esempio, un altro indirizzo di posta elettronica, eliminare e così
+
+863
+00:59:24,360 --> 00:59:27,960
+via, la funzione veramente clamorosa.
+
+864
+00:59:27,960 --> 00:59:34,680
+E questo ovviamente per chi vuole fare delle automazioni notevoli, è la
+
+865
+00:59:34,680 --> 00:59:39,400
+possibilità di fare esatto: esegui Apple Script, perché?
+
+866
+00:59:39,400 --> 00:59:45,760
+Perché ovviamente a questo punto si può fare qualunque cosa, potenzialmente, ovviamente.
+
+867
+00:59:46,080 --> 00:59:51,840
+Perché se io dico a queste condizioni fai partire questo Apple script,
+
+868
+00:59:51,840 --> 00:59:57,920
+per esempio, io posso stampare l'email, posso prendere il testo di un'email.
+
+869
+00:59:57,920 --> 01:00:02,240
+Per esempio, non so, sono email automatiche dove mi arrivano dei dati.
+
+870
+01:00:02,240 --> 01:00:07,280
+Posso estrapolare dall'email dal testo dell'email dei dati e creare un foglio
+
+871
+01:00:07,280 --> 01:00:07,920
+di calcolo.
+
+872
+01:00:07,920 --> 01:00:14,080
+Posso fare veramente quello che voglio, ovviamente devo conoscere AppleScript, segnalo, ci
+
+873
+01:00:14,080 --> 01:00:21,600
+saranno l'episodio, che in questo caso bisogna utilizzare se utilizzate l'Epposcript, quindi
+
+874
+01:00:21,600 --> 01:00:24,640
+già siete a un livello più elevato, ma c'è comunque da
+
+875
+01:00:25,760 --> 01:00:35,200
+utilizzare una particolare forma, diciamo, di linguaggio per virgolette, catturare, chiamiamolo così
+
+876
+01:00:35,440 --> 01:00:42,560
+quel messaggio di mail, che appunto fa partire l'Apple Script e poi
+
+877
+01:00:42,560 --> 01:00:44,480
+lavorare il messaggio.
+
+878
+01:00:44,480 --> 01:00:49,440
+Quindi ci sarà, se volete fare l'approfondimento del caso, ci sarà nella
+
+879
+01:00:49,600 --> 01:00:51,680
+notte dell'episodio ovviamente.
+
+880
+01:00:52,000 --> 01:00:56,080
+Il link e tutto il resto perché l'ho trovato perché ero curioso.
+
+881
+01:00:56,400 --> 01:01:02,800
+Prima o poi cercherò di fare qualche test concreto anch'io per vedere,
+
+882
+01:01:02,800 --> 01:01:04,960
+poi al solito discorso.
+
+883
+01:01:05,440 --> 01:01:10,560
+Finché non hai una scusa, una necessità specifica, tutte queste cose non
+
+884
+01:01:10,560 --> 01:01:11,840
+le vai a approfondire.
+
+885
+01:01:11,840 --> 01:01:17,760
+Se invece hai un caso particolare dove i mail ricorrenti su cui
+
+886
+01:01:17,760 --> 01:01:20,000
+ci devi lavorare, tra virgolette, sopra.
+
+887
+01:01:20,000 --> 01:01:23,680
+Allora, in questo caso, secondo me, ecco, questi sono i tipici casi
+
+888
+01:01:23,680 --> 01:01:27,600
+in cui approfondire AppleScript e così via può essere utile.
+
+889
+01:01:28,080 --> 01:01:32,120
+Da quello che ne so io ci sono le regole anche all'interno
+
+890
+01:01:29,680 --> 01:01:34,600
+della casella di posta elettronica di iCloud.
+
+891
+01:01:35,000 --> 01:01:39,320
+Tuttavia, da quello che ho letto, perché non le uso, ovviamente, sono
+
+892
+01:01:39,320 --> 01:01:39,640
+molto
+
+893
+01:01:42,120 --> 01:01:44,840
+meno potenti, chiamiamoli in questi termini.
+
+894
+01:01:44,840 --> 01:01:49,640
+Rispetto: l'acqua di rose rispetto a quello che trovate invece all'interno del
+
+895
+01:01:49,640 --> 01:01:51,000
+programma mail.
+
+896
+01:01:51,000 --> 01:01:54,520
+E poi sono legate la casella di posta elettronica di iCloud che
+
+897
+01:01:54,520 --> 01:01:56,520
+è tutto un sistema diverso.
+
+898
+01:01:56,840 --> 01:02:02,440
+Credo qui per esempio, appunto ci sono anche qui nelle note dell'episodio,
+
+899
+01:02:02,520 --> 01:02:06,520
+ci sarà un link a un articolo in inglese dove ci sono
+
+900
+01:02:06,520 --> 01:02:08,520
+alcune automazioni che ho segnalato.
+
+901
+01:02:08,520 --> 01:02:12,360
+Per esempio, identifica le email di persone che non conosci e farne
+
+902
+01:02:12,360 --> 01:02:18,600
+quello che vuoi, elimina la spam in maniera persistente o inoltre le
+
+903
+01:02:18,600 --> 01:02:22,200
+email, usi i nomi di dominio per catturare mail importanti.
+
+904
+01:02:22,200 --> 01:02:26,360
+Quindi non so, per esempio, le mail del vostro capo: sapete che
+
+905
+01:02:26,600 --> 01:02:31,320
+la SRL: il dominio.com, il dominio delle mail.
+
+906
+01:02:31,320 --> 01:02:36,920
+Ovviamente quelle vi compaiono e vi si apre il programma.
+
+907
+01:02:37,080 --> 01:02:40,840
+Mentre state facendo dell'altro, avete l'avviso che la mail vi è arrivato
+
+908
+01:02:40,920 --> 01:02:43,960
+un'email dal vostro capo, oppure addirittura ecco.
+
+909
+01:02:43,960 --> 01:02:46,360
+Questa è una funzione anche interessante.
+
+910
+01:02:46,360 --> 01:02:52,280
+La possibilità di per l'archiviazione, chiamiamola così come PDF delle mail, un
+
+911
+01:02:52,280 --> 01:02:56,760
+sistema per cui in automatico le mail viene quando entrano nuove email
+
+912
+01:02:57,080 --> 01:03:01,800
+o un'email di una lista, chiamiamola così, di soggetti.
+
+913
+01:03:02,120 --> 01:03:07,720
+Automaticamente viene stampata come PDF, chiamiamolo così, archiviata in una cartella e
+
+914
+01:03:07,800 --> 01:03:11,640
+poi da lì si possono archiviare con varie maniere.
+
+915
+01:03:11,800 --> 01:03:13,560
+Esel e così via.
+
+916
+01:03:13,800 --> 01:03:17,760
+Roberto, ti vedo messo bene con la tosse, come si suol dire.
+
+917
+01:03:18,400 --> 01:03:22,000
+Anche mia moglie, non è che stia benissimo, quindi ce l'ha portata
+
+918
+01:03:22,000 --> 01:03:25,200
+tutta la figlia più grande e viveviva!
+
+919
+01:03:25,440 --> 01:03:26,480
+Vabbè, ma
+
+920
+01:03:27,760 --> 01:03:35,280
+purtroppo i figli sono, o meglio, le scuole sono, lasciamo perdere, sono
+
+921
+01:03:36,080 --> 01:03:38,480
+dei piccoli laboratori batteriologici.
+
+922
+01:03:38,800 --> 01:03:43,440
+Ci crederete che durante la pandemia non hanno preso niente.
+
+923
+01:03:43,600 --> 01:03:47,840
+A questo punto segnaliamo anche un'altra cosa che, però è una cosa
+
+924
+01:03:47,840 --> 01:03:53,360
+un po' particolare, nel senso che Mail fino a poco tempo fa,
+
+925
+01:03:53,360 --> 01:03:56,880
+aveva la possibilità di avere dei chiamiamoli così, plugin.
+
+926
+01:03:56,880 --> 01:04:00,960
+C'erano anche tutta una serie abbastanza fiorente di plugin legati al fatto
+
+927
+01:04:00,960 --> 01:04:04,880
+che appunto, come dicevamo prima, Mail non era il programma di posta
+
+928
+01:04:05,040 --> 01:04:09,040
+elettronica più avanzato sulla faccia della Terra, ovviamente plugin che funzionavano solo
+
+929
+01:04:09,040 --> 01:04:10,880
+e esclusivamente su macOS.
+
+930
+01:04:11,280 --> 01:04:16,240
+Apple ha fatto una cosa un po' particolare: cioè ha azzerato, ha
+
+931
+01:04:16,240 --> 01:04:20,720
+fatto tabolo a rasa proprio del sistema precedente che funzionava solo su
+
+932
+01:04:20,720 --> 01:04:24,960
+macOS, ne ha creato uno che funziona sia su macOS che su
+
+933
+01:04:24,960 --> 01:04:26,640
+iPadOS che su iOS.
+
+934
+01:04:26,880 --> 01:04:31,280
+Nella sostanza, non esistono quasi più plugin per mail.
+
+935
+01:04:31,600 --> 01:04:33,840
+Fionzionanti, intendo.
+
+936
+01:04:34,320 --> 01:04:42,080
+Quelli che vi segnalo sono alcuni programmi che teoricamente dovrebbero funzionare, non
+
+937
+01:04:42,080 --> 01:04:44,800
+li ho testati quindi non vi garantisco niente.
+
+938
+01:04:44,800 --> 01:04:50,960
+SpamVers è un plugin che teoricamente funziona su tutti i vari sistemi
+
+939
+01:04:51,360 --> 01:04:54,480
+e che serve ovviamente per affrontare la spam.
+
+940
+01:04:54,480 --> 01:04:58,640
+C'è Free Gp GPG mail che invece serve per
+
+941
+01:04:59,880 --> 01:05:04,360
+la firma digitale delle mail, o meglio, scusatemi.
+
+942
+01:05:04,360 --> 01:05:08,520
+La crittografia delle mail, cioè la mail viene fatta abitualmente in chiaro:
+
+943
+01:05:08,920 --> 01:05:11,880
+un file di testo, sostanzialmente, una mail.
+
+944
+01:05:11,880 --> 01:05:13,160
+Può essere cifrata.
+
+945
+01:05:13,160 --> 01:05:17,080
+Ovviamente ci vuole una chiave di cifratura pubblica per cifrare la mail
+
+946
+01:05:17,080 --> 01:05:20,600
+che io mando a Roberto e Roberto, avendo una chiave di cifratura
+
+947
+01:05:20,600 --> 01:05:25,160
+privata la sua, potrà aprire solo lui la mail che ho mandato
+
+948
+01:05:25,160 --> 01:05:25,560
+a Roberto.
+
+949
+01:05:25,560 --> 01:05:30,440
+Quindi, se io devo mandare dei dati, chiamiamoli così, sicuri a Roberto
+
+950
+01:05:30,520 --> 01:05:35,320
+che non voglio che siano letti potenzialmente da soggetti terzi, devo fare
+
+951
+01:05:35,320 --> 01:05:36,600
+tutto questo sistema.
+
+952
+01:05:36,600 --> 01:05:41,480
+A sua volta Roberto manderà una mail di risposta a me con
+
+953
+01:05:41,480 --> 01:05:45,960
+la mia chiave cifratura pubblica e io la potrò aprire perché ho
+
+954
+01:05:45,960 --> 01:05:47,880
+la chiave di cifratura privata.
+
+955
+01:05:47,880 --> 01:05:53,480
+Ovviamente serve installare questo programma perché, se no, altrimenti mail non riesce
+
+956
+01:05:53,480 --> 01:05:55,640
+ad aprire la mail che è cifrata sostanzialmente.
+
+957
+01:05:55,640 --> 01:05:59,480
+Sì, che è un po' il sistema che si sta adesso inoltrando
+
+958
+01:06:00,920 --> 01:06:07,560
+per quanto riguarda l'autenticazione sui siti, senza l'inserimento di password, si basa
+
+959
+01:06:07,560 --> 01:06:13,640
+appunto sulla tecnologia chiave pubblica chiave privata e è interessante.
+
+960
+01:06:13,720 --> 01:06:14,760
+C'è molto lavoro dietro
+
+961
+01:06:16,680 --> 01:06:18,520
+c'è molto lavoro dietro le quinte.
+
+962
+01:06:18,760 --> 01:06:22,920
+Ma dal punto di vista dell'utente può diventare molto interessante questo tipo
+
+963
+01:06:22,920 --> 01:06:23,560
+di utilizzo.
+
+964
+01:06:23,560 --> 01:06:29,240
+Allora, Daniele ci sottolinea: se ce la faccio farlo vedere l'utilizzo di
+
+965
+01:06:29,240 --> 01:06:32,920
+Mail tag, che, però, da quello che ne so io, non è
+
+966
+01:06:32,920 --> 01:06:36,120
+più compatibile con i nuovi sistemi operativi.
+
+967
+01:06:36,120 --> 01:06:44,040
+Tuttavia, se Daniele, per caso, ci ascolta e lo usa, posso essere
+
+968
+01:06:45,280 --> 01:06:49,680
+volentieri, tacciato, ma da quello che ne sapevo io, perché lo utilizzava
+
+969
+01:06:44,360 --> 01:06:51,120
+anche David Spark.
+
+970
+01:06:51,360 --> 01:06:55,520
+Tutti questi plugin funzionavano, ma adesso non funzionano più.
+
+971
+01:06:56,000 --> 01:07:00,400
+In estrema sintesi, lo sviluppatore, credo, che ci abbia dato un po'
+
+972
+01:07:00,400 --> 01:07:04,560
+all'alta perché ogni anno in estrema sintesi doveva
+
+973
+01:07:05,600 --> 01:07:11,120
+mettere in mano tutti i plugin perché mail faceva qualche cambiamento apple
+
+974
+01:07:11,280 --> 01:07:15,840
+che rendeva complicato o non funzionava al 100% il sistema.
+
+975
+01:07:15,840 --> 01:07:19,360
+Ma questo è io non ho mai usato Mail, Davis Park lo
+
+976
+01:07:19,360 --> 01:07:26,000
+utilizza in maniera avanzata, e sentivo appunto lui che diceva queste cose.
+
+977
+01:07:26,000 --> 01:07:26,320
+Quindi
+
+978
+01:07:27,600 --> 01:07:33,200
+non ho la certezza matematica di dire le cose giuste, appunto, Daniele
+
+979
+01:07:33,200 --> 01:07:36,160
+dice giustamente: io lo uso su con Moave.
+
+980
+01:07:36,160 --> 01:07:38,240
+Moave è ancora vecchio, quindi
+
+981
+01:07:39,840 --> 01:07:44,240
+credo che su Moave funzioni, ma il problema è su Mekos Moderni:
+
+982
+01:07:44,400 --> 01:07:46,640
+cioè Ventura e così via.
+
+983
+01:07:46,640 --> 01:07:50,080
+Parlerò velocemente così faccio parlare anche a Roberto.
+
+984
+01:07:50,080 --> 01:07:54,080
+Che vabbè, un po' per indisposizione, un po' per tutto il resto,
+
+985
+01:07:54,080 --> 01:07:55,600
+ha parlato poco oggi.
+
+986
+01:07:55,840 --> 01:08:02,720
+Cose che non mi piacciono di mail, è appunto, come dicevo, utilizzo
+
+987
+01:08:02,720 --> 01:08:08,560
+Armail come programma di posta elettronica sui dispositivi Apple, perché
+
+988
+01:08:09,920 --> 01:08:16,000
+è fatto da degli italiani: innanzitutto, quindi un po' patriottica come approccio.
+
+989
+01:08:16,640 --> 01:08:19,920
+L'altra cosa che ho avuto il modo di interagire anche con gli
+
+990
+01:08:19,920 --> 01:08:25,600
+sviluppatori a Tempori Busillis è, per esempio, la renderizzazione delle pack in
+
+991
+01:08:25,600 --> 01:08:26,320
+Irmail.
+
+992
+01:08:26,320 --> 01:08:28,040
+Non è come su Mail.
+
+993
+01:08:28,040 --> 01:08:29,920
+Apro e chiudo una parentesi.
+
+994
+01:08:30,280 --> 01:08:33,000
+La PAC si vede su mail, ma
+
+995
+01:08:34,280 --> 01:08:41,240
+bisogna aprire un messaggio di posta elettronica EML all'interno della PAC, è
+
+996
+01:08:41,240 --> 01:08:44,280
+un doppio passaggio sostanzialmente per poter leggere la mail.
+
+997
+01:08:44,280 --> 01:08:47,960
+Su Irmail, per esempio, questo non è possibile è possibile.
+
+998
+01:08:47,960 --> 01:08:52,920
+Ti leggi direttamente la PEC aperta, chiamiamola così, perché mi sono offerto
+
+999
+01:08:52,920 --> 01:08:55,880
+come cave quindi li ho mandato le mie PAC e loro hanno
+
+1000
+01:08:55,880 --> 01:08:59,960
+fatto le loro magie dietro e quindi implementano le PAC.
+
+1001
+01:08:59,960 --> 01:09:01,640
+No, lo dico, ma non perché
+
+1002
+01:09:02,680 --> 01:09:08,440
+sono stato proprio a chiedere la funzione, ed effettivamente è comoda e
+
+1003
+01:09:08,440 --> 01:09:14,760
+così via, anche se su Irmail, per esempio, non controlla il certificato,
+
+1004
+01:09:14,760 --> 01:09:18,360
+di cioè non c'è la spunta del certificato di autenticità.
+
+1005
+01:09:18,360 --> 01:09:19,240
+Ma insomma,
+
+1006
+01:09:21,640 --> 01:09:26,600
+non voglio entrare troppo nel dettaglio del funzionamento della PEC che poi
+
+1007
+01:09:26,600 --> 01:09:29,560
+interessa non so a quanti nella sostanza.
+
+1008
+01:09:29,880 --> 01:09:31,240
+L'altra cosa che
+
+1009
+01:09:32,600 --> 01:09:35,560
+stupida forse da un certo punto di vista, ma per me è
+
+1010
+01:09:35,560 --> 01:09:40,760
+fondamentale, e dal mio punto di vista è probabilmente facilmente implementabile da
+
+1011
+01:09:40,760 --> 01:09:45,880
+mail, ma non l'hanno mai implementato, avere la possibilità di visualizzare nella
+
+1012
+01:09:45,880 --> 01:09:49,400
+casella di entrata, diciamo con tutte le mail di vari caselli di
+
+1013
+01:09:49,400 --> 01:09:53,960
+posta elettronica, poter differenziare con colori differenti le differenti caselle.
+
+1014
+01:09:53,960 --> 01:09:57,160
+Quindi sapere che il primo messaggio di una casella è il secondo
+
+1015
+01:09:57,160 --> 01:09:58,440
+messaggio di un'altra casella.
+
+1016
+01:09:59,160 --> 01:10:01,080
+Ti faccio una domanda.
+
+1017
+01:10:01,080 --> 01:10:07,400
+Secondo te questa può essere una possibile automazione da fare con mail?
+
+1018
+01:10:07,400 --> 01:10:08,760
+Secondo te si riesce?
+
+1019
+01:10:08,760 --> 01:10:12,920
+A quello c'è a mettere i flag differenti, sì.
+
+1020
+01:10:12,920 --> 01:10:15,040
+Anche se ci sono 6-7 flag.
+
+1021
+01:10:14,920 --> 01:10:17,920
+Quindi, già, se hai troppe caselle di posta elettronica non ti funziona.
+
+1022
+01:10:18,080 --> 01:10:24,800
+Certo, però, sì, insomma, comunque hai bisogno sempre dell'automazione che ti gira
+
+1023
+01:10:24,880 --> 01:10:30,240
+sotto, a tutti i difetti del caso, quando tra virgolette, basterebbe programmarlo
+
+1024
+01:10:30,240 --> 01:10:36,240
+a origine dentro il programma, quindi avere quantomeno un modo per differenziare
+
+1025
+01:10:37,040 --> 01:10:42,000
+una casella di posta elettronica dall'altra, se si ha un inbox, chiamiamolo
+
+1026
+01:10:42,000 --> 01:10:45,280
+così, comunica, unico di quelli raggruppati.
+
+1027
+01:10:45,280 --> 01:10:47,600
+Perché è ovvio che se io ho aperto la mail di Avvocati
+
+1028
+01:10:47,600 --> 01:10:51,040
+e Mac e non la mail dello studio professionale, è ovvio che
+
+1029
+01:10:51,200 --> 01:10:52,880
+il problema non mi si pone.
+
+1030
+01:10:53,440 --> 01:10:58,320
+Un'altra cosa che mi infastidisce la bestia, soprattutto perché, qui devo dire
+
+1031
+01:10:58,320 --> 01:11:00,640
+la verità, è colpa mia da un certo punto di vista, me
+
+1032
+01:11:00,640 --> 01:11:02,160
+ne rendo conto.
+
+1033
+01:11:02,880 --> 01:11:09,520
+Mail se si utilizza l'IMAP, sincronizza tutte le mail che ci sono
+
+1034
+01:11:09,520 --> 01:11:10,480
+sull'IMAP.
+
+1035
+01:11:10,720 --> 01:11:14,160
+Questo vuol dire che, per esempio, uno come Roberto che ha poco
+
+1036
+01:11:14,160 --> 01:11:19,920
+spazio sull'hard, ma anche il sottoscritto ci si trova con dei gigabyte
+
+1037
+01:11:19,920 --> 01:11:21,200
+di mail inutili.
+
+1038
+01:11:21,200 --> 01:11:22,800
+Peraltro abitualmente.
+
+1039
+01:11:22,960 --> 01:11:27,840
+La teoria sarebbe tutte le mail nell'IMAP che non si usano più,
+
+1040
+01:11:28,160 --> 01:11:29,440
+non ci interessano più.
+
+1041
+01:11:29,440 --> 01:11:33,840
+Basterebbe scartarle, cancellarle o archiviare alternativamente.
+
+1042
+01:11:33,840 --> 01:11:37,760
+Ammetto di farlo poco questa operazione.
+
+1043
+01:11:38,720 --> 01:11:42,320
+Ho la mia casella di lavoro che ormai ha dei decenni di
+
+1044
+01:11:42,320 --> 01:11:48,000
+corrispondenza dentro che non ho cancellato, e conseguentemente, se vado a sincronizzare
+
+1045
+01:11:48,000 --> 01:11:49,040
+tutto è un dramma.
+
+1046
+01:11:49,200 --> 01:11:52,720
+Su Airmail ho la possibilità, per esempio, di dirmi: sincronizzami gli ultimi
+
+1047
+01:11:52,720 --> 01:11:55,760
+30 giorni e ovvio che sincronizzando tutto.
+
+1048
+01:11:55,760 --> 01:11:58,480
+La ricerca è molto più rapida e tutto il resto.
+
+1049
+01:11:58,480 --> 01:12:03,880
+Tuttavia, diciamo, avere gigabyte di mail inutili sul proprio hard disk non
+
+1050
+01:11:59,840 --> 01:12:05,160
+è proprio la cosa più comoda.
+
+1051
+01:12:05,400 --> 01:12:10,120
+L'unico trucchetto, diciamo, che si può ottenere, cioè per risolvere in parte
+
+1052
+01:12:10,120 --> 01:12:13,240
+il problema, si può dire a mail di non scaricare gli allegati
+
+1053
+01:12:13,640 --> 01:12:18,120
+in questa maniera, diciamo il grosso, cioè anche se hai decenni di
+
+1054
+01:12:18,120 --> 01:12:21,160
+corrispondenza non avendo gli allegati, abitualmente
+
+1055
+01:12:22,840 --> 01:12:24,920
+: risolve in parte il problema.
+
+1056
+01:12:24,920 --> 01:12:30,680
+Tuttavia, comunque il solito discorso del fatto che non è comunissimo in
+
+1057
+01:12:30,680 --> 01:12:31,400
+questi termini.
+
+1058
+01:12:31,400 --> 01:12:34,840
+Ovviamente, come dicevo, la PAC bisogna aprire due volte la mail che
+
+1059
+01:12:34,840 --> 01:12:37,240
+è fastidioso dal mio punto di vista.
+
+1060
+01:12:37,480 --> 01:12:41,400
+L'ultima cosa che mi infastidisce: ma questo è veramente un gusto personale.
+
+1061
+01:12:41,400 --> 01:12:46,920
+Tuttavia tenevo a raccontarlo perché c'è anche un trucchetto che voglio condividere
+
+1062
+01:12:46,920 --> 01:12:47,800
+con voi.
+
+1063
+01:12:48,120 --> 01:12:51,480
+È l'impossibilità di scrivere Markdown le mail.
+
+1064
+01:12:51,720 --> 01:12:58,280
+Ormai chi mi conosce lo sa, scrivo praticamente tutto in Markdown, dagli
+
+1065
+01:12:58,440 --> 01:13:06,120
+atti giuridici agli articoli sul mio sito a praticamente qualsiasi cosa, le
+
+1066
+01:13:06,120 --> 01:13:07,720
+note che prendo e così via.
+
+1067
+01:13:07,720 --> 01:13:12,520
+Mail, ovviamente, funziona solo in il testo, diciamo che troviamo all'interno di
+
+1068
+01:13:12,520 --> 01:13:12,920
+mail.
+
+1069
+01:13:12,920 --> 01:13:18,360
+Chiamiamo così il testo formattato e in RTF, il trucco che si
+
+1070
+01:13:18,360 --> 01:13:23,160
+può fare tranquillamente è creare un comando rapido che converte Markdown in
+
+1071
+01:13:23,320 --> 01:13:29,000
+testo ricco, in rich text, e quindi avere grassetto e così via.
+
+1072
+01:13:29,000 --> 01:13:32,200
+È ovvio che è un passaggio in più e quindi può essere
+
+1073
+01:13:32,200 --> 01:13:34,040
+scomodo in determinati casi.
+
+1074
+01:13:34,040 --> 01:13:35,320
+Tuttavia.
+
+1075
+01:13:35,320 --> 01:13:41,080
+Anche perché, per esempio, se Airmail ha la funzione di permettermi di
+
+1076
+01:13:41,080 --> 01:13:44,440
+scrivere il Markdown su macOS, non ho ancora capito per quale ragione,
+
+1077
+01:13:44,440 --> 01:13:46,080
+ma su iOS non funziona.
+
+1078
+01:13:46,400 --> 01:13:47,920
+Non c'è questa funzione.
+
+1079
+01:13:48,160 --> 01:13:51,520
+Mi mandi in bestia in maniera notevole.
+
+1080
+01:13:51,520 --> 01:13:56,720
+Se per caso uno sviluppatore di Airmail mi sta ascoltando, ma dubito
+
+1081
+01:13:56,720 --> 01:13:59,760
+perché abbiamo perso un po' i contatti e non credo che
+
+1082
+01:14:00,800 --> 01:14:05,040
+gli sviluppatori siano, non stanno facendo uno sviluppo intenso da quello che
+
+1083
+01:14:05,040 --> 01:14:07,760
+ho visto io di Airmail recentemente.
+
+1084
+01:14:07,840 --> 01:14:12,000
+Sono passati ormai 5 anni, secondo me, che non lo sviluppano in
+
+1085
+01:14:12,000 --> 01:14:15,040
+maniera molto aggressiva.
+
+1086
+01:14:15,040 --> 01:14:17,440
+Diciamo come è stato all'inizio.
+
+1087
+01:14:17,440 --> 01:14:20,240
+Se ci fosse, però, questa opzione sarebbe molto carina.
+
+1088
+01:14:20,400 --> 01:14:23,680
+Vi segnalo su Mac se vi siete interessati.
+
+1089
+01:14:23,680 --> 01:14:28,800
+Ed è un'applicazione molto interessante, mailmate, ci saranno ovviamente i link nelle
+
+1090
+01:14:28,800 --> 01:14:34,240
+note all'episodio: uno sviluppatore e uno sviluppatore cosiddetto indie tedesco, credo.
+
+1091
+01:14:34,480 --> 01:14:38,400
+E qui invece si possono scrivere le mail con il markdown, ci
+
+1092
+01:14:38,400 --> 01:14:39,440
+sono molte automazioni.
+
+1093
+01:14:39,440 --> 01:14:41,440
+Insomma, una bella applicazione.
+
+1094
+01:14:41,440 --> 01:14:47,440
+Non voleva essere appunto monotematico su mail, ma se cercate cose particolari
+
+1095
+01:14:47,440 --> 01:14:52,560
+come il sottoscritto, per esempio, io non utilizzo mail perché l'altro fastidio
+
+1096
+01:14:52,560 --> 01:14:55,680
+che ho è che non funziona su iOS invece.
+
+1097
+01:14:56,320 --> 01:14:59,600
+E anche lì, personalmente preferisco.
+
+1098
+01:14:59,600 --> 01:15:00,800
+Diciamo che su iOS
+
+1099
+01:15:02,160 --> 01:15:07,040
+ho questa filosofia, diciamo che sui computer di lavoro di fatto ho
+
+1100
+01:15:07,040 --> 01:15:09,840
+anche mail funzionante per mille motivi.
+
+1101
+01:15:09,840 --> 01:15:14,400
+Quindi, però, mi richiede doppia sincronizzazione e doppio spazio.
+
+1102
+01:15:14,880 --> 01:15:18,960
+Che mi permette che su iPad ce l'ho per testare le nuove
+
+1103
+01:15:18,960 --> 01:15:24,080
+funzioni della beta, morale la favola, o comunque come backup, chiamiamolo così
+
+1104
+01:15:24,240 --> 01:15:24,640
+mail.
+
+1105
+01:15:24,640 --> 01:15:27,520
+E in alcuni casi, per esempio, se voglio andare in una casella
+
+1106
+01:15:27,520 --> 01:15:32,040
+specifica di mail e non essere distratto da altre caselle, utilizzo mail
+
+1107
+01:15:32,040 --> 01:15:33,000
+per queste cose.
+
+1108
+01:15:29,840 --> 01:15:34,280
+Tuttavia, questo è quanto.
+
+1109
+01:15:35,240 --> 01:15:39,320
+Adesso la parola a Roberto con quel filo di voce che mi
+
+1110
+01:15:39,320 --> 01:15:44,200
+rimane, provo a dare le mie impressioni, ma sono molto veloci e
+
+1111
+01:15:44,200 --> 01:15:45,080
+semplici.
+
+1112
+01:15:45,560 --> 01:15:49,240
+Mi sono accorto che manca una funzione per i modelli.
+
+1113
+01:15:49,240 --> 01:15:54,920
+Non so se prima esisteva, è una cosa che sinceramente non ci
+
+1114
+01:15:54,920 --> 01:16:00,440
+ho fatto caso, ma perché mi sono accorto che recentemente, diciamo negli
+
+1115
+01:16:00,440 --> 01:16:03,960
+ultimi due o tre anni, mi sono trovato a mandare email ripetitive
+
+1116
+01:16:03,960 --> 01:16:07,880
+ogni 15 giorni, ma non le stesse email, ma diciamo con lo
+
+1117
+01:16:07,880 --> 01:16:10,520
+stesso formato, con la stessa impostazione.
+
+1118
+01:16:10,840 --> 01:16:16,920
+Utilizzando il client di posta elettronica via web di quella determinata casella
+
+1119
+01:16:16,920 --> 01:16:21,160
+di posta elettronica, c'è la possibilità di inserire delle caselle con dei
+
+1120
+01:16:21,160 --> 01:16:21,640
+modelli.
+
+1121
+01:16:21,640 --> 01:16:24,680
+In modo tale che tu semplicemente una volta che salvi il modello
+
+1122
+01:16:24,680 --> 01:16:28,520
+in quella casella lì, vai a cliccarci è una specie di bozza.
+
+1123
+01:16:28,520 --> 01:16:32,680
+La prendi, la riapri, la modifichi e la invii e rimane nella
+
+1124
+01:16:32,680 --> 01:16:36,760
+cartella modelli il modello precedente, cioè quello di base.
+
+1125
+01:16:36,920 --> 01:16:40,840
+Io in mail, francamente, non ho trovato la stessa funzione o la
+
+1126
+01:16:40,840 --> 01:16:43,880
+stessa modalità e mi fa un po' girare le scatole.
+
+1127
+01:16:43,880 --> 01:16:47,720
+Tu considera che con comandi rapidi lo puoi fare, nel senso che
+
+1128
+01:16:47,720 --> 01:16:53,960
+puoi creare un testo preformattato, tra virgolette, come vuoi tu, ti genera
+
+1129
+01:16:53,960 --> 01:16:58,440
+una mail chiamiamola così vuota, che poi tu vai a inserire, per
+
+1130
+01:16:58,440 --> 01:16:59,960
+esempio il
+
+1131
+01:17:02,120 --> 01:17:02,600
+destino.
+
+1132
+01:17:02,760 --> 01:17:04,120
+Questo sarebbe molto interessante.
+
+1133
+01:17:04,120 --> 01:17:08,680
+Peccato che purtroppo l'avrei fatto molto volentieri perché, come sai, a me
+
+1134
+01:17:08,680 --> 01:17:12,520
+i comandi rapidi mi è molto simpatico da quando praticamente ne parlo
+
+1135
+01:17:12,520 --> 01:17:16,640
+con te, ma purtroppo il mio Mac, come sai, è aggiornato a
+
+1136
+01:17:16,640 --> 01:17:20,640
+Big Sur e non ha ancora comandi rapidi esatto.
+
+1137
+01:17:20,640 --> 01:17:25,920
+Quindi potrei in teoria passare da automator, probabilmente non sono nato a
+
+1138
+01:17:25,920 --> 01:17:29,440
+casa secondo me si fa anche automator o se no, lo fai
+
+1139
+01:17:29,440 --> 01:17:30,400
+dai pad.
+
+1140
+01:17:30,400 --> 01:17:31,840
+Sì, è ok, ho capito.
+
+1141
+01:17:31,840 --> 01:17:35,840
+Però il mio problema è proprio quello: nel senso che devo aspettare
+
+1142
+01:17:35,840 --> 01:17:40,160
+di passare probabilmente questo dicembre, se ho tempo, modo e voglia e
+
+1143
+01:17:40,160 --> 01:17:42,320
+intenzioni, di fare l'upgrade.
+
+1144
+01:17:42,320 --> 01:17:47,280
+Il prossimo sistema operativo dovrebbe essere supportato per comandi rapidi.
+
+1145
+01:17:47,280 --> 01:17:49,200
+Quindi dovrei riuscire a trovare il bar.
+
+1146
+01:17:49,600 --> 01:17:51,040
+Devo dire la verità.
+
+1147
+01:17:51,040 --> 01:17:57,200
+Il mio suggerimento personale è ormai, almeno dal mio punto di vista,
+
+1148
+01:17:57,840 --> 01:18:02,320
+avere comandi rapidi su Mac è fondamentale, nel senso che il futuro
+
+1149
+01:18:02,320 --> 01:18:07,440
+ti permette tra altre cose di sincronizzare tutto e soprattutto sulle applicazioni
+
+1150
+01:18:07,440 --> 01:18:13,360
+Apple, spesso e volentieri, all'80-90% tutto funziona amabilmente
+
+1151
+01:18:14,800 --> 01:18:21,760
+, e quindi è utile e utile perché appunto ti trovi a lavorare
+
+1152
+01:18:21,760 --> 01:18:26,880
+bene, cioè puoi lavorare ovunque con anche le stesse automazioni o comunque
+
+1153
+01:18:26,880 --> 01:18:31,520
+con automazioni molto molto simili fuori puntata ti raccontavo che appunto ho
+
+1154
+01:18:31,520 --> 01:18:34,640
+fatto una serie di automazioni con comandi rapidi per la numerazione dei
+
+1155
+01:18:34,640 --> 01:18:38,000
+documenti da alle gare nel PCT e così via.
+
+1156
+01:18:38,320 --> 01:18:44,960
+Sono tutte funzioni che funzionano sia su Mac che su iOS.
+
+1157
+01:18:44,960 --> 01:18:51,760
+E questo è decisamente comodo proprio per questo motivo, perché potenzialmente, anche
+
+1158
+01:18:51,760 --> 01:18:54,720
+se poi è più scomodo da un certo punto di vista, farlo
+
+1159
+01:18:54,720 --> 01:18:55,920
+su iOS.
+
+1160
+01:18:55,920 --> 01:18:59,840
+Tuttavia, è possibile farlo, quindi se mi trovassi in difficoltà, potrei utilizzare
+
+1161
+01:19:00,120 --> 01:19:01,080
+tranquillamente
+
+1162
+01:19:02,440 --> 01:19:05,400
+su tutti i miei dispositivi, e quello secondo me ti dà una
+
+1163
+01:18:59,840 --> 01:19:06,040
+marcia in più.
+
+1164
+01:19:06,280 --> 01:19:11,560
+Il discorso dei modelli è effettivamente l'alternativa è se no, usare text
+
+1165
+01:19:11,560 --> 01:19:13,080
+expander o qualcosa di simile.
+
+1166
+01:19:13,080 --> 01:19:15,960
+Certo, che potrebbe essere un'altra interessante idea.
+
+1167
+01:19:15,960 --> 01:19:19,560
+Invece, un'altra cosa che mi è capitata proprio oggi a fagiolo, ma
+
+1168
+01:19:19,560 --> 01:19:22,200
+non perché è capitata oggi, ma è già capitato un po' di
+
+1169
+01:19:22,200 --> 01:19:22,760
+tempo fa.
+
+1170
+01:19:22,760 --> 01:19:25,720
+Non ci ho dato peso, oggi si è riproposto e ne parliamo
+
+1171
+01:19:25,720 --> 01:19:32,360
+subito, riguarda la ricezione di un'email che io so di sicuro che
+
+1172
+01:19:32,360 --> 01:19:37,240
+ha un file PDF e un file P7M quindi firmato digitalmente.
+
+1173
+01:19:37,240 --> 01:19:44,440
+Dunque, io ricevo questa mail all'interno dell'applicazione mail e sfortunatamente non mi
+
+1174
+01:19:44,440 --> 01:19:48,840
+fa vedere esattamente niente perché mi dice il messaggio di errore è
+
+1175
+01:19:48,920 --> 01:19:53,320
+impossibile verificare il contenuto del messaggio e in più però mi dice
+
+1176
+01:19:53,400 --> 01:19:57,000
+carica il messaggio tra parentesi sconsigliato.
+
+1177
+01:19:57,000 --> 01:20:01,400
+Io questa cosa la devo fare perché so benissimo chi è la
+
+1178
+01:20:01,400 --> 01:20:03,400
+persona che mi ha mandato questi documenti.
+
+1179
+01:20:03,400 --> 01:20:07,400
+So che è affidabile, però diciamo che nel campo di anteprima non
+
+1180
+01:20:07,400 --> 01:20:09,800
+c'è assolutamente niente.
+
+1181
+01:20:09,800 --> 01:20:15,880
+Se io vado a caricare il messaggio, finalmente salta fuori il testo
+
+1182
+01:20:15,880 --> 01:20:21,880
+del messaggio, l'allegato PDF, ma il file P7M non riesco a vederlo.
+
+1183
+01:20:21,880 --> 01:20:27,880
+Nel senso che mette un allegato di posta elettronica che se io
+
+1184
+01:20:27,880 --> 01:20:33,000
+provo ad aprire essenzialmente non mi apri, lo sto facendo in diretta,
+
+1185
+01:20:33,000 --> 01:20:34,880
+non mi sta facendo assolutamente niente.
+
+1186
+01:20:34,880 --> 01:20:38,760
+E quindi io rimango senza il mio file P7M.
+
+1187
+01:20:38,760 --> 01:20:45,040
+Quello che ho potuto fare: vedo scritto allegato di posta elettronica.
+
+1188
+01:20:47,040 --> 01:20:48,560
+È una cosa un po' particolare.
+
+1189
+01:20:44,920 --> 01:20:51,440
+Io l'ho bypassato perché si tratta di Gmail.
+
+1190
+01:20:51,520 --> 01:20:53,760
+Non vorrei che fosse un problema di Gmail.
+
+1191
+01:20:53,760 --> 01:20:57,360
+E io passo dal client web di Gmail a quel punto riesco
+
+1192
+01:20:57,360 --> 01:20:58,320
+a scaricare tutto qua.
+
+1193
+01:20:58,640 --> 01:21:00,160
+Due considerazioni.
+
+1194
+01:21:00,160 --> 01:21:03,600
+Chi ti manda la mail non è su Mac, vero?
+
+1195
+01:21:03,600 --> 01:21:05,360
+No, allora,
+
+1196
+01:21:06,480 --> 01:21:11,680
+bravissimo perché questa è una cosa che gli utenti Apple devono conoscere.
+
+1197
+01:21:11,680 --> 01:21:17,280
+Per esempio, il mio commercialista non usa Mac e ogni tanto ricevo
+
+1198
+01:21:17,280 --> 01:21:21,040
+dei file dat di Windows che non sono apribili.
+
+1199
+01:21:21,200 --> 01:21:25,040
+Cioè che su Mail non si aprono, ma se vado nel back-end
+
+1200
+01:21:25,280 --> 01:21:29,200
+tra virgolette la mia casa riposta elettronica, c'è il file e così
+
+1201
+01:21:29,200 --> 01:21:29,840
+via.
+
+1202
+01:21:29,840 --> 01:21:36,320
+Quello è un problema di outlook, cioè, meglio, di non interoperatività
+
+1203
+01:21:38,560 --> 01:21:43,760
+dei sistemi, quello è da sapere spesso e volentieri se avete questo
+
+1204
+01:21:43,760 --> 01:21:44,160
+problema.
+
+1205
+01:21:44,160 --> 01:21:48,720
+Cioè, se c'è un allegato che lo vedete ma non c'è, allora
+
+1206
+01:21:49,600 --> 01:21:52,640
+in più c'erano dei bug notevoli
+
+1207
+01:21:53,760 --> 01:21:58,880
+sulla PEC per mail, fino a pochi sistemi operativi fa.
+
+1208
+01:21:58,880 --> 01:22:02,560
+Quindi potrebbe anche essere quello: è un
+
+1209
+01:22:03,680 --> 01:22:04,800
+doppio problema.
+
+1210
+01:22:04,800 --> 01:22:11,120
+In più il file di 7M ovviamente non è un'estensione di sistema,
+
+1211
+01:22:11,440 --> 01:22:18,240
+ci vuole un'applicazione specifica per aprirlo, per cui questo ulteriormente complica la
+
+1212
+01:22:18,240 --> 01:22:22,480
+vita a mail che va tutto il sistema, sostanzialmente, diciamo che
+
+1213
+01:22:23,760 --> 01:22:28,240
+sul fronte, pacch mail, io lo continuo a ripetere, non è una
+
+1214
+01:22:28,240 --> 01:22:33,480
+PEC in questo caso, è proprio un file solo firmato digitalmente, perché
+
+1215
+01:22:33,480 --> 01:22:36,840
+poi anche lì appunto al solito discorso, allora io più probabile che
+
+1216
+01:22:36,840 --> 01:22:39,400
+sia un problema di Windows: di
+
+1217
+01:22:41,240 --> 01:22:44,040
+non interoperatività tra me e Windows.
+
+1218
+01:22:44,040 --> 01:22:49,320
+C'è da dire che nello scorso sistema operativo prima di Big Sur
+
+1219
+01:22:49,640 --> 01:22:56,040
+vedevo, diciamo il file esadecale per intenderci, nel senso che non vedevo
+
+1220
+01:22:56,040 --> 01:23:01,400
+nemmeno il testo delle mail, vedevo tutta una serie di file esadecali
+
+1221
+01:23:01,720 --> 01:23:06,280
+e invece con questa versione, probabilmente non è neanche l'esade decimale, ma
+
+1222
+01:23:06,360 --> 01:23:10,360
+la codificazione probabilmente sarà quella: una stringa di testo
+
+1223
+01:23:11,560 --> 01:23:12,360
+illeggibile.
+
+1224
+01:23:12,360 --> 01:23:14,040
+Perché l'esade decimale è ancora
+
+1225
+01:23:15,160 --> 01:23:18,840
+diverso, ci sono proprio numeri o meglio, numeri
+
+1226
+01:23:19,960 --> 01:23:21,400
+A, B, CDF.
+
+1227
+01:23:21,400 --> 01:23:22,760
+Credo perché esad decimale.
+
+1228
+01:23:22,920 --> 01:23:25,560
+Comunque, diciamo che sta migliorando la situazione.
+
+1229
+01:23:25,560 --> 01:23:28,680
+Io sono anche un po' indietro con i sistemi operativi.
+
+1230
+01:23:28,680 --> 01:23:33,000
+Quindi speriamo che si migliori tra Windows e tra Mac si mettono
+
+1231
+01:23:33,000 --> 01:23:33,480
+d'accordo.
+
+1232
+01:23:33,480 --> 01:23:37,800
+In ogni caso, se avete questi problemi, passate direttamente dal client in
+
+1233
+01:23:37,800 --> 01:23:39,000
+posta elettronica.
+
+1234
+01:23:39,000 --> 01:23:42,520
+Io direi che per questa puntata è bene o male tutto.
+
+1235
+01:23:42,520 --> 01:23:46,360
+E se volete supportare il podcast, vi chiediamo con il cuore di
+
+1236
+01:23:46,360 --> 01:23:48,600
+fare una bella recensione su Apple Podcast.
+
+1237
+01:23:48,600 --> 01:23:52,280
+Vi ricordo che bastano anche solo 5 stelline per noi è sufficiente.
+
+1238
+01:23:52,280 --> 01:23:54,760
+Non c'è bisogno che vi mettete lì a scrivere un poema.
+
+1239
+01:23:54,760 --> 01:23:56,520
+Questo ci aiuterà a salire in.
+
+1240
+01:23:57,480 --> 01:24:00,520
+Ma no, in realtà è che ci aiuta tantissimo a salire in
+
+1241
+01:24:00,520 --> 01:24:05,720
+classifica, a farci conoscere, e se volete scriverci qualcosa, oltre a lasciare
+
+1242
+01:24:05,720 --> 01:24:11,160
+una recensione di cui troverete il modo all'interno delle note dell'episodio.
+
+1243
+01:24:11,160 --> 01:24:14,280
+Potete anche iscriverci alla casella di posta elettronica.
+
+1244
+01:24:14,280 --> 01:24:16,160
+Appunto, visto che parliamo di email.
+
+1245
+01:24:16,160 --> 01:24:16,720
+Scrivi.
+
+1246
+01:24:14,840 --> 01:24:19,920
+it.
+
+1247
+01:24:20,800 --> 01:24:24,800
+Come sempre, trovate le note dell'episodio con il link degli argomenti che
+
+1248
+01:24:24,800 --> 01:24:28,960
+abbiamo trattato in puntata e tutti i nostri riferimenti andando all'indirizzo internet
+
+1249
+01:24:29,200 --> 01:24:30,720
+a due podcast.it
+
+1250
+01:24:32,560 --> 01:24:35,120
+e ci potete trovare in vari posti.
+
+1251
+01:24:35,120 --> 01:24:38,560
+Diciamo che sottoscritto sono come mi dice Filippo, sono un po' un
+
+1252
+01:24:38,560 --> 01:24:39,280
+prezzemolo.
+
+1253
+01:24:39,280 --> 01:24:43,280
+Mi trovate sul mio blog personale che si chiama MAC Architettura.
+
+1254
+01:24:43,440 --> 01:24:50,800
+Potete trovare all'indirizzo martonnet.wordpress.com dove vi racconto quando riesco perché purtroppo incominciano
+
+1255
+01:24:50,800 --> 01:24:52,480
+a accumularsi gli impegni.
+
+1256
+01:24:52,480 --> 01:24:58,400
+Le mie vicissitudini nell'utilizzo del Mac nell'ambito della professione dell'architetto.
+
+1257
+01:24:58,400 --> 01:25:03,280
+Non contento, ho aggiunto anche un podcast che si chiama Snap Architettura
+
+1258
+01:25:03,280 --> 01:25:08,000
+Imperfetta, dove invece vi racconto in senso generale qual è la coevoluzione
+
+1259
+01:25:08,000 --> 01:25:12,160
+della professione dell'architetto con gli strumenti informatici che utilizza.
+
+1260
+01:25:12,160 --> 01:25:17,120
+Poi scrivo anche per i blog di Grafisoft Italia, dove vi parlo
+
+1261
+01:25:17,120 --> 01:25:22,160
+essenzialmente di come un architetto può utilizzare la nuova tra virgolette tecnologia
+
+1262
+01:25:22,160 --> 01:25:22,800
+BIM.
+
+1263
+01:25:22,800 --> 01:25:26,480
+E poi mi trovate anche sul podcast sempre di Grafisoft Italia che
+
+1264
+01:25:26,480 --> 01:25:31,680
+si chiama Archicad Talks, dove intervisto delle persone che hanno utilizzato Archicad
+
+1265
+01:25:31,680 --> 01:25:34,320
+e ci vogliono raccontare le proprie storie.
+
+1266
+01:25:34,320 --> 01:25:38,320
+Ovviamente mi trovate anche qui su A2 Podcast assieme a Filippo che
+
+1267
+01:25:38,320 --> 01:25:39,440
+invece lo trovate dove?
+
+1268
+01:25:40,480 --> 01:25:44,880
+it e mensilmente se tutto va bene, perché questo mese non ho ancora
+
+1269
+01:25:44,880 --> 01:25:46,560
+registrato e siamo al 12.
+
+1270
+01:25:46,560 --> 01:25:46,880
+Quindi
+
+1271
+01:25:48,880 --> 01:25:50,480
+devo arrivarci in scivolate.
+
+1272
+01:25:50,480 --> 01:25:51,680
+C'è Natale di mezzo.
+
+1273
+01:25:51,680 --> 01:25:57,280
+Comunque teoricamente, tutti i mesi, su avvocati sul podcast, avvocati e puoi
+
+1274
+01:25:57,280 --> 01:25:58,320
+anche prendere una pausa.
+
+1275
+01:25:58,320 --> 01:26:03,320
+Come farà il sottoscritto nella programmazione, giustamente perché anche noi andiamo ogni
+
+1276
+01:26:00,000 --> 01:26:07,080
+tanto in vacanza e vorremmo anche staccare per ricaricare le pile.
+
+1277
+01:26:07,240 --> 01:26:10,280
+Io ho sottoscritto, per esempio, o le pile sotto i tacchi o
+
+1278
+01:26:10,280 --> 01:26:11,720
+la voce che non ce la fa più.
+
+1279
+01:26:11,720 --> 01:26:15,640
+E tra le altre cose, giusto per dare un esempio di come
+
+1280
+01:26:15,640 --> 01:26:20,360
+Intel mi ama, mi è appena arrivata fuori la dicitura, batteria quasi
+
+1281
+01:26:20,360 --> 01:26:21,080
+scarica.
+
+1282
+01:26:21,080 --> 01:26:24,600
+Quindi se non metto giù il collegamento, va a finire che questa
+
+1283
+01:26:24,600 --> 01:26:26,280
+registrazione si blocca qui.
+
+1284
+01:26:26,280 --> 01:26:28,920
+Quindi ci sentiamo tra due settimane.
+
+1285
+01:26:28,920 --> 01:26:30,280
+Alla prossima!

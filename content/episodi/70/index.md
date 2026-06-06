@@ -11,14 +11,14 @@ tags = ["intervista", "workflow", "gaming", "sicurezza", "ospite"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "uyO5hsx6dOw"
   guest = "claudia-mongini"
 +++
 
 >  In questa puntata Roberto e Filippo chiacchierano con Claudia Mongini del suo workflow e delle sue varie esperienze lavorative.
 
-# Note episiodo
+## Note episiodo
 
 Link degli argomenti discussi nel corso della puntata:
 

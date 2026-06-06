@@ -11,14 +11,14 @@ tags = ["pkm", "produttivita", "app", "organizzazione"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "zu4sk3QL7dE"
 +++
 
 > In questa puntata Roberto e Filippo approfondiscono una web app che può fare un po' tutto: Notion.
 Notion è un'applicazione web freemium per la produttività e le note sviluppata da Notion Labs Inc. Offre molti strumenti organizzativi tra cui la gestione delle attività, il monitoraggio dei progetti, le liste di cose da fare, i segnalibri e altro ancora.
 
-# Note Episodio
+## Note Episodio
 
 ## Cos’è?
 

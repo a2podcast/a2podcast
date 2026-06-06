@@ -11,7 +11,7 @@ tags = ["mac", "workflow", "ospite", "podcast", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "-bGCq9ZbVsY"
   guest = "matteo-scandolin"
 +++

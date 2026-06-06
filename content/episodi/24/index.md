@@ -11,7 +11,7 @@ tags = ["shortcuts", "automazione", "ios", "mac", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "ObNc3_33C4U"
 +++
 

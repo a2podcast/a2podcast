@@ -17,7 +17,7 @@ draft = false
 
 > In questa puntata vi parliamo di come passare da Windows a Mac, le accortezze da utilizzare, di Boot Camp, Macchine virtuali, installazione da zero e come installare tutte le vecchie applicazioni del vostro Mac con MAcAppStore e Homebrew.
 
-# Note dell’episodio
+## Note dell’episodio
 
 In questa seconda parte dedicata alle basi di _macOS_ vi parliamo di come passare da Windows a Mac, le accortezze da utilizzare, di [Boot Camp](https://support.apple.com/it-it/boot-camp), Macchine virtuali, installazione da zero e come installare tutte le vecchie applicazioni del vostro Mac con [MacAppStore](https://www.apple.com/it/osx/apps/app-store/) e [Homebrew](https://brew.sh/index_it).
 

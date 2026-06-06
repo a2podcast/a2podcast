@@ -18,7 +18,7 @@ draft = false
 
 > In questa puntata Roberto e Filippo hanno l’onore di ospitare Andrea Ciraolo e parlare con lui del suo flusso di lavoro, della sua esperienza non riuscita con Apple ed altro ancora.
 
-# Note dell’episodio
+## Note dell’episodio
 - [Organizzazione per negati](https://www.negati.net)
 - [OBS - la guida completa](https://www.youtube.com/watch?v=1llpdzed2OE&list=PLDhDfv9Kmg1QSttTawspY1XM2bCpzamM2)
 - [Todoist](https://todoist.com/it)

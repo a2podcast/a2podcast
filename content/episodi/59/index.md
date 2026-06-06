@@ -11,7 +11,7 @@ tags = ["espansioni testo", "produttivita", "mac", "iphone", "automazione"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "Fj1R_KxMlxU"
 +++
 

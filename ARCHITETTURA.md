@@ -189,7 +189,7 @@ Ogni pagina riceve:
 - JSON-LD `PodcastSeries` → `schema-podcast.html` (incluso in ogni pagina via `baseof.html`)
 - JSON-LD `PodcastEpisode` (con `BreadcrumbList`) → `schema-episode.html` (incluso in `episodi/single.html`)
 
-La sitemap è generata automaticamente da Hugo (`/sitemap.xml`). Il `robots.txt` è generato da Hugo con `enableRobotsTXT = true` + direttiva `Sitemap:` nel template.
+La sitemap usa un template custom (`layouts/sitemap.xml`) che **esclude i Kind `taxonomy`/`term`** (pagine `/tags/*`): quelle pagine sono `noindex`, quindi includerle in sitemap generava il warning GSC *"Esclusa in base al tag noindex"*. Il `robots.txt` è generato da Hugo con `enableRobotsTXT = true` + direttiva `Sitemap:` nel template.
 
 ---
 

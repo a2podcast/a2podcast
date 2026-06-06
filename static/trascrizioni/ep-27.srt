@@ -1,0 +1,3859 @@
+1
+00:00:00,000 --> 00:00:04,640
+Benvenuti all'episodio 27 di A2 in cui scoprirete come ottenere il massimo
+
+2
+00:00:04,640 --> 00:00:07,680
+dalla vostra tecnologia Apple volenti o nolenti.
+
+3
+00:00:07,680 --> 00:00:10,720
+Io sono Roberto Marin e sono il vostro ospite assieme all'amico Filippo
+
+4
+00:00:10,880 --> 00:00:11,440
+Strozzi.
+
+5
+00:00:11,440 --> 00:00:12,800
+Di cosa parliamo in questo episodio?
+
+6
+00:00:12,800 --> 00:00:14,160
+Filippo raccontaci un po'.
+
+7
+00:00:14,160 --> 00:00:19,760
+Allora, oggi oggi abbiamo un nuovo ospite, quindi siamo molto contenti di
+
+8
+00:00:19,760 --> 00:00:26,400
+finalmente partire a tutto regime con questo nuovo format aggiuntivo a quello
+
+9
+00:00:26,400 --> 00:00:28,000
+che abbiamo di base.
+
+10
+00:00:28,000 --> 00:00:32,160
+È il nostro ospite, Lorenzo Morandi, che ci parlerà del suo flusso
+
+11
+00:00:32,160 --> 00:00:34,720
+di lavoro come fotografo e architetto.
+
+12
+00:00:34,720 --> 00:00:36,480
+Quindi, benvenuto Lorenzo.
+
+13
+00:00:36,480 --> 00:00:41,920
+E adesso a questo punto presentati un po' così, noi ci conosciamo
+
+14
+00:00:41,920 --> 00:00:45,440
+già perché abbiamo già fatto due chiacchiere in prediretta, ma anche i
+
+15
+00:00:45,440 --> 00:00:49,760
+nostri ascoltatori possono conoscerti e poi approfondiremo un po' tutte le varie
+
+16
+00:00:49,760 --> 00:00:50,240
+cose.
+
+17
+00:00:50,240 --> 00:00:54,240
+Ciao Filippo, ciao Roberto, grazie dell'invito.
+
+18
+00:00:54,240 --> 00:00:57,760
+È un vero piacere essere qui con voi e raccontarvi un po'
+
+19
+00:00:57,760 --> 00:01:02,640
+di quello che faccio con i miei strumenti e con gli strumenti
+
+20
+00:01:02,640 --> 00:01:03,600
+Apple.
+
+21
+00:01:03,600 --> 00:01:05,680
+Mi avete già introdotto molto bene.
+
+22
+00:01:05,680 --> 00:01:10,000
+Io mi occupo di diverse cose, tra cui la fotografia e il
+
+23
+00:01:10,000 --> 00:01:10,480
+video.
+
+24
+00:01:10,480 --> 00:01:15,280
+Anche se la mia formazione è quella di ingegnere architetto e svolgo
+
+25
+00:01:15,280 --> 00:01:21,360
+comunque l'attività professionale, dal 2016 mi dedico alla fotografia e al video
+
+26
+00:01:21,600 --> 00:01:25,440
+attraverso uno studio che ho creato che si chiama Your Story.
+
+27
+00:01:25,440 --> 00:01:27,680
+Ottimo, direi che sei partito dal grande.
+
+28
+00:01:27,680 --> 00:01:32,880
+Ovviamente io devo ringraziarlo, perché Lorenzo è un mio collega architetto, soltanto
+
+29
+00:01:32,880 --> 00:01:34,960
+che lui fa le cose velocemente più belle delle mie.
+
+30
+00:01:34,960 --> 00:01:38,000
+E lo ringrazio per essere venuto tra di noi, l'ho conosciuto per
+
+31
+00:01:38,000 --> 00:01:40,400
+ora non di persona, ma ci conosceremo anche di persona.
+
+32
+00:01:40,400 --> 00:01:45,120
+E l'ho conosciuto molto, diciamo, su una parte: Telegram essenzialmente, ho avuto
+
+33
+00:01:45,120 --> 00:01:48,720
+più modo di conoscerlo nonostante abbia seguito anche i suoi lavori.
+
+34
+00:01:48,720 --> 00:01:52,400
+Ottimo ragazzo, veramente splendido, una persona capacissima.
+
+35
+00:01:52,400 --> 00:01:56,400
+E chiaramente andatevi a vedere Your Story che ha un suo sito
+
+36
+00:01:56,400 --> 00:02:00,440
+internet, se non erro esattamente, che è YourStory.it.
+
+37
+00:02:00,440 --> 00:02:05,400
+Perfetto, quindi correte a vederlo perché troverete delle cose interessantissime.
+
+38
+00:02:05,640 --> 00:02:09,160
+Magari lo chiamate anche per lavoro che non fa mai male.
+
+39
+00:02:09,160 --> 00:02:13,480
+Ma prima di addentrarci nella chiamiamola così, nella storia di Lorenzo, di
+
+40
+00:02:13,480 --> 00:02:17,320
+quello che ci vuole raccontare, dei suoi strumenti e soprattutto di come
+
+41
+00:02:17,320 --> 00:02:21,960
+pensa di lavorare nel mondo della fotografia, vi ricordo che potete sostenerci
+
+42
+00:02:21,960 --> 00:02:22,680
+in vari modi.
+
+43
+00:02:22,680 --> 00:02:26,200
+La prima è facendo la recensione su Apple Podcast, che ci aiuterà
+
+44
+00:02:26,200 --> 00:02:27,640
+a farci conoscere sempre di più.
+
+45
+00:02:27,640 --> 00:02:31,640
+Vi ricordo anche che molto probabilmente troverete anche la possibilità di fare
+
+46
+00:02:32,280 --> 00:02:34,680
+delle recensioni anche su Spotify.
+
+47
+00:02:34,840 --> 00:02:38,280
+Dovrebbe essere una nuova feature che è stata messa proprio poco tempo
+
+48
+00:02:38,280 --> 00:02:38,680
+fa.
+
+49
+00:02:38,680 --> 00:02:41,560
+Quindi, se avete la possibilità, fatelo anche da quella parte lì che
+
+50
+00:02:41,560 --> 00:02:45,080
+non fa mai male, a noi servirà per farci conoscere, ci aiuterà
+
+51
+00:02:45,080 --> 00:02:48,120
+sicuramente a conoscere quello che pensate voi di noi.
+
+52
+00:02:48,360 --> 00:02:51,480
+Ringraziamo già adesso tutti quelli che hanno fatto le recensioni, siete stati
+
+53
+00:02:51,480 --> 00:02:55,320
+dei grandissimi e ci avete aiutato tantissimo anche nel nostro piccolo lavoro.
+
+54
+00:02:55,400 --> 00:02:59,080
+Diciamo questo side project di Filippo e del mio.
+
+55
+00:02:59,080 --> 00:03:04,360
+E nonostante ci fosse ancora bisogno di rimarcarlo, mi raccomando scriveteci che
+
+56
+00:03:04,360 --> 00:03:05,400
+fa sempre piacere.
+
+57
+00:03:05,480 --> 00:03:07,320
+Potete scrivere ad scrivi.
+
+58
+00:03:09,640 --> 00:03:10,040
+it.
+
+59
+00:03:10,040 --> 00:03:13,960
+E poi vi ricordo, come sempre, troverete tutto quanto nelle note dell'episodio.
+
+60
+00:03:13,960 --> 00:03:18,440
+Io a questo punto lascerei parlare il nostro grandissimo Lorenzo per quanto
+
+61
+00:03:18,440 --> 00:03:19,720
+riguarda gli story.
+
+62
+00:03:19,720 --> 00:03:21,560
+Di cosa vi occupate precisamente?
+
+63
+00:03:21,560 --> 00:03:27,400
+Allora, lo studio Your Story realizza contenuti fotografici e video sotto forma
+
+64
+00:03:27,400 --> 00:03:36,600
+di storia destinati ad aziende, professionisti, artisti, designer, per la comunicazione online
+
+65
+00:03:36,920 --> 00:03:39,400
+e offline delle loro attività.
+
+66
+00:03:39,400 --> 00:03:46,000
+Lo studio Your Story collabora anche con Magazine e con siti internet,
+
+67
+00:03:44,840 --> 00:03:50,400
+agenzie, per realizzare contenuti fotografici e video.
+
+68
+00:03:50,640 --> 00:03:57,920
+Nasce come progetto editoriale nel 2016, quindi diciamo che fonda il mondo
+
+69
+00:03:57,920 --> 00:04:03,760
+dell'immagine, della progettazione grafica, della tipografia, per creare due volumi che ho
+
+70
+00:04:03,760 --> 00:04:08,480
+realizzato appunto nel 2016 e nel 2017, in cui queste storie venivano.
+
+71
+00:04:14,560 --> 00:04:19,120
+Questo col tempo, nei mesi, nei primi anni, è diventato un format
+
+72
+00:04:19,280 --> 00:04:24,880
+riconoscibile, percepito in un certo modo da una possibile clientela, e infatti,
+
+73
+00:04:24,880 --> 00:04:25,360
+già
+
+74
+00:04:26,880 --> 00:04:33,040
+nel primo anno di attività, molti lavori sono stati commissionati da aziende
+
+75
+00:04:33,040 --> 00:04:35,760
+o da professionisti di vari settori.
+
+76
+00:04:35,760 --> 00:04:41,760
+Con un focus ovviamente sull'arte, sul design, sull'architettura, che sono comunque temi
+
+77
+00:04:41,760 --> 00:04:44,800
+verso i quali il mio interesse è grande e quindi anche la
+
+78
+00:04:44,800 --> 00:04:49,680
+comprensione dell'attività e della persona che ho di fronte è migliore rispetto
+
+79
+00:04:49,680 --> 00:04:50,320
+ad altri.
+
+80
+00:04:50,320 --> 00:04:54,160
+Certamente, tra le altre cose, volevo ricordare che se volete anche vedere
+
+81
+00:04:54,160 --> 00:04:58,640
+come se la cavano nella vita quotidiana, diciamo, nello studio di Your
+
+82
+00:04:58,640 --> 00:05:02,640
+Story, c'è anche disponibile il profilo Instagram, se non ero, giusto?
+
+83
+00:05:02,640 --> 00:05:05,440
+Esattamente, che è chiocciolastory.it.
+
+84
+00:05:05,520 --> 00:05:08,320
+Comunque, tutti i link li trovate nelle note dell'episodio.
+
+85
+00:05:08,320 --> 00:05:12,960
+Così, se volete andare a trovare il nostro Lorenzo, lo fate velocemente
+
+86
+00:05:12,960 --> 00:05:17,520
+e comodamente dal vostro cellulare, se ci state ascoltando dal cellulare o
+
+87
+00:05:17,520 --> 00:05:20,720
+dal vostro client, comunque di podcast di riferimento.
+
+88
+00:05:20,720 --> 00:05:22,080
+E di questo vi ringrazio.
+
+89
+00:05:22,080 --> 00:05:24,720
+Vi ringraziamo noi per il tempo che ci hai dedicato.
+
+90
+00:05:24,720 --> 00:05:29,600
+Altre che è sempre piacevole passare questi momenti in compagnia perché accrescono
+
+91
+00:05:29,760 --> 00:05:34,040
+noi e poi fanno conoscere anche le persone che invitiamo, che sono
+
+92
+00:05:29,840 --> 00:05:35,320
+persone decisamente brave.
+
+93
+00:05:35,480 --> 00:05:39,000
+Io continuo a dire, andatevi a vedere il profilo Instagram, vedrete una
+
+94
+00:05:39,000 --> 00:05:43,400
+carrellata delle persone che hanno avuto il piacere di lavorare con Lorenzo.
+
+95
+00:05:43,400 --> 00:05:47,560
+Sono davvero tutte delle bellissime fotografie, vi faccio i complimenti perché non
+
+96
+00:05:47,560 --> 00:05:49,000
+lasciano indifferenti.
+
+97
+00:05:49,000 --> 00:05:52,200
+Quindi passate prima da lì per riuscire a capire di cosa si
+
+98
+00:05:52,200 --> 00:05:55,640
+tratta, per riuscire a accompagnare a quello che ci dirà Lorenzo.
+
+99
+00:05:55,640 --> 00:05:59,400
+Prima di tutto, facciamo una bella interrogazione a Lorenzo, perché ovviamente qua
+
+100
+00:05:59,400 --> 00:06:01,080
+siamo in mondo Apple.
+
+101
+00:06:01,080 --> 00:06:05,480
+Nel senso, noi parliamo essenzialmente in questo podcast di come si sfrutta,
+
+102
+00:06:05,480 --> 00:06:08,920
+in questo caso, la tecnologia Apple non solo per mandare messaggini, ma
+
+103
+00:06:08,920 --> 00:06:09,880
+anche per lavorare.
+
+104
+00:06:09,880 --> 00:06:14,520
+E quindi ci chiedevamo appunto cosa utilizzi tu nel tuo lavoro.
+
+105
+00:06:14,520 --> 00:06:21,960
+Sì, allora, io a livello hardware attrezzatura che utilizzo nella post-produzione, quindi
+
+106
+00:06:21,960 --> 00:06:27,160
+per l'elaborazione delle immagini o per il montaggio di video, utilizzo un
+
+107
+00:06:27,160 --> 00:06:30,920
+MacBook Air, l'ultima generazione, l'ultima versione.
+
+108
+00:06:31,080 --> 00:06:35,480
+Questa è una scelta che ho fatto pochi mesi dopo l'uscita di
+
+109
+00:06:35,480 --> 00:06:40,120
+questo prodotto, avendo la necessità comunque di aggiornare e di avere una
+
+110
+00:06:40,120 --> 00:06:45,800
+macchina dedicata da dedicare esclusivamente alla fotografia e al video,
+
+111
+00:06:46,840 --> 00:06:49,800
+senza nessun altro tipo di software installato.
+
+112
+00:06:49,800 --> 00:06:50,840
+E ne sono contento.
+
+113
+00:06:50,840 --> 00:06:55,080
+Diciamo che è stata una scelta, non posso dire coraggiosa, perché sapete
+
+114
+00:06:55,080 --> 00:07:01,080
+benissimo quanto si parli bene di questa macchina per l'ambito fotografico e
+
+115
+00:07:01,080 --> 00:07:01,640
+video.
+
+116
+00:07:01,640 --> 00:07:08,360
+Ho voluto esasperare la scelta prendendo proprio il modello più economico, anche
+
+117
+00:07:08,440 --> 00:07:12,440
+il modello base, il modello di partenza, per vedere fino a che
+
+118
+00:07:12,440 --> 00:07:16,480
+punto sarei riuscito a sfruttarlo, e devo dire che sono assolutamente contento
+
+119
+00:07:14,280 --> 00:07:17,840
+e felice della scelta.
+
+120
+00:07:18,000 --> 00:07:22,400
+Eccolo Lorenzo, quindi hai un MacBook Air M1
+
+121
+00:07:24,480 --> 00:07:29,360
+8 GB presumo perché se è il modello, e invece di Hardisk,
+
+122
+00:07:29,360 --> 00:07:30,480
+cosa hai fatto?
+
+123
+00:07:30,720 --> 00:07:33,120
+Il suo SSD che è il modello.
+
+124
+00:07:33,280 --> 00:07:39,920
+Anche questo, il taglio più piccolo, che se non erro, 256 giga.
+
+125
+00:07:40,240 --> 00:07:44,240
+Allora non sai come Roberto che ne ha solo di 128, penso
+
+126
+00:07:44,240 --> 00:07:49,280
+che non ci sia più 128, ho capito io il perché, non
+
+127
+00:07:49,280 --> 00:07:52,560
+li fanno più così per gli aggiornamenti, ma questo ne parliamo in
+
+128
+00:07:52,560 --> 00:07:53,280
+un'altra storia.
+
+129
+00:07:53,280 --> 00:07:56,480
+Dunque, volevo dire soltanto due precisazioni tecniche.
+
+130
+00:07:56,480 --> 00:07:59,920
+Se ho capito bene, essendo la versione base è l'8 core con
+
+131
+00:07:59,920 --> 00:08:04,640
+4 performance core e 4 efficienti core e poi c'è la GPU
+
+132
+00:08:04,640 --> 00:08:06,400
+con 7 core se non erro.
+
+133
+00:08:06,400 --> 00:08:10,880
+Dunque, la RAM è da 8 GB, nonostante sia spendibile con 16,
+
+134
+00:08:11,120 --> 00:08:16,160
+perfetto, e l'archiviazione, per fortuna sua, parte da 256 GB.
+
+135
+00:08:16,160 --> 00:08:20,160
+Quindi, molto interessante come macchina, è una macchina che ho seguito molto
+
+136
+00:08:20,160 --> 00:08:24,320
+da vicino perché stavo puntando a quella macchina, sinceramente, perché io amo
+
+137
+00:08:24,320 --> 00:08:27,520
+il MacBook Air da quando ci ho messo le mani nel 2010.
+
+138
+00:08:27,520 --> 00:08:30,800
+Quindi per me è una macchina molto interessante, bellissima, ha un suo
+
+139
+00:08:30,800 --> 00:08:32,320
+stile intramontabile.
+
+140
+00:08:32,320 --> 00:08:34,960
+L'unica cosa che me l'ha fatto cambiare, purtroppo era soltanto che nel
+
+141
+00:08:34,960 --> 00:08:39,440
+2010, anzi nel 2013, eriniziati a uscire gli schermi in retina e
+
+142
+00:08:39,440 --> 00:08:41,520
+quindi il MacBook Air sembrava pannato.
+
+143
+00:08:41,680 --> 00:08:45,840
+Di conseguenza ho virato sui MacBook Pro con schermo retina.
+
+144
+00:08:45,840 --> 00:08:49,920
+C'è da dire che il MacBook Air, ricordo per i nostri amici
+
+145
+00:08:50,000 --> 00:08:54,880
+ascoltatori, che è fanless, quindi non ha assolutamente nessun tipo di ventola
+
+146
+00:08:54,880 --> 00:08:55,920
+per il raffreddamento.
+
+147
+00:08:55,920 --> 00:09:00,120
+Prove hardware per quanto mi riguarda, ho seguito qualche test qua e
+
+148
+00:09:00,120 --> 00:09:03,880
+là, visto che a me e neanche a Filippo danno un MacBook
+
+149
+00:09:03,960 --> 00:09:08,040
+un MacBook da provare, quindi sono dovuto andare un po' a vista.
+
+150
+00:09:08,040 --> 00:09:13,880
+Ricordo che io personalmente ho preferito sconsigliarlo come acquisto per uno studio
+
+151
+00:09:13,880 --> 00:09:17,480
+di architettura, più che altro per una questione di rendering.
+
+152
+00:09:17,480 --> 00:09:22,600
+Come sapete, il rendering è una lavorazione molto pesante e quindi il
+
+153
+00:09:22,600 --> 00:09:25,720
+mio dubbio, ma non è solo il mio, perché purtroppo qualcuno è
+
+154
+00:09:25,720 --> 00:09:29,880
+riuscito anche a metterlo sotto stress nel momento in cui inizia a
+
+155
+00:09:29,880 --> 00:09:34,520
+andare deciso e quindi ha bisogno di raffreddarsi, essendo faness, ha un
+
+156
+00:09:34,520 --> 00:09:36,280
+po' più difficoltà di un MacBook Pro.
+
+157
+00:09:36,280 --> 00:09:39,640
+Quella è una principale differenza, il core, diciamo dal punto di vista
+
+158
+00:09:39,640 --> 00:09:43,960
+grafico è relativa la differenza, ma io continuo a dire appoggio tantissimo
+
+159
+00:09:43,960 --> 00:09:46,920
+la scelta che ha fatto Lorenzo perché, da quello che poi ci
+
+160
+00:09:46,920 --> 00:09:50,920
+ha anche raccontato, si è dimostrato un ottimo hardware.
+
+161
+00:09:50,920 --> 00:09:54,600
+Chiedo a Lorenzo a questo punto, da che hardware arrivavi tu prima
+
+162
+00:09:54,600 --> 00:09:55,880
+del Mac M1.
+
+163
+00:09:55,880 --> 00:10:02,600
+Guarda, io arrivavo da un MacBook Pro del 2015 senza scheda grafica
+
+164
+00:10:02,760 --> 00:10:03,720
+data.
+
+165
+00:10:03,880 --> 00:10:10,360
+Quindi, già un modello che ben presto si è rivelato non eccellente
+
+166
+00:10:10,360 --> 00:10:16,680
+nel lavoro di rendering, dal momento che comunque l'aspetto del rendering è
+
+167
+00:10:16,680 --> 00:10:21,000
+anche presente nell'esportazione di un video, ad esempio.
+
+168
+00:10:21,160 --> 00:10:26,680
+Quindi, diciamo che il passaggio è stato assolutamente migliorativo, ma non saprei
+
+169
+00:10:26,760 --> 00:10:34,120
+neanche dirti quante volte superiore, l'unico aspetto è la dimensione dello schermo,
+
+170
+00:10:34,120 --> 00:10:37,640
+ma è stata anche questa una scelta perché comunque la macchina che
+
+171
+00:10:37,640 --> 00:10:46,160
+avevo in precedenza sostanzialmente veniva sfruttata esclusivamente come portatile senza schermi esterni,
+
+172
+00:10:46,160 --> 00:10:50,800
+in giro ma anche in studio, ma comunque senza appunto l'output su
+
+173
+00:10:50,800 --> 00:10:52,400
+uno schermo esterno.
+
+174
+00:10:52,400 --> 00:10:57,680
+Con Lair ho deciso di dotarmi di un monitor per quando sono
+
+175
+00:10:57,680 --> 00:11:02,800
+in studio, ma comunque di poter godere della portabilità e della leggerezza
+
+176
+00:11:02,800 --> 00:11:06,640
+che ha l'air del fatto che comunque senza ventole per il mio
+
+177
+00:11:06,640 --> 00:11:09,440
+tipo di lavoro non mi risulta.
+
+178
+00:11:09,440 --> 00:11:14,080
+La mancanza delle ventole non è una limitazione, anzi, mi permette di
+
+179
+00:11:14,240 --> 00:11:18,640
+anche di elaborare le foto tenendole sulle ginocchia, con una sensazione che
+
+180
+00:11:18,640 --> 00:11:21,520
+sembra una sciocchezza perché non è il lavoro ordinario.
+
+181
+00:11:21,600 --> 00:11:27,920
+Però in determinate situazioni sembra veramente di avere un giocattolo sulle gambe
+
+182
+00:11:27,920 --> 00:11:29,760
+con cui però puoi fare tutto il lavoro.
+
+183
+00:11:29,760 --> 00:11:33,680
+A me capita molto spesso di avere il computer con me durante
+
+184
+00:11:33,920 --> 00:11:41,440
+certi lavori fotografici scattando le fotografie e trasferendole via cavo direttamente sul
+
+185
+00:11:41,440 --> 00:11:42,080
+computer.
+
+186
+00:11:42,080 --> 00:11:47,680
+Quindi avere uno strumento leggero e pratico è veramente un vantaggio.
+
+187
+00:11:47,680 --> 00:11:51,360
+Assolutamente sì, ci credo, perché anch'io ne ho fatto un vantaggio quando
+
+188
+00:11:51,360 --> 00:11:56,320
+ero in mobilità di avere un portatile piccolo e diciamo cattivo, ci
+
+189
+00:11:56,320 --> 00:11:58,000
+parlavi prima del monitor.
+
+190
+00:11:58,000 --> 00:12:00,160
+Quello che usi in ufficio, che monitor è?
+
+191
+00:12:00,160 --> 00:12:06,560
+È un monitor LG da 32 pollici che alimenta via USBC il
+
+192
+00:12:06,560 --> 00:12:11,600
+computer stesso, è il modello che viene venduto insieme a un braccio,
+
+193
+00:12:11,840 --> 00:12:16,960
+un sostegno ergonomico che permette la regolazione completa sia in altezza che
+
+194
+00:12:16,960 --> 00:12:17,840
+in profondità.
+
+195
+00:12:17,840 --> 00:12:20,720
+Quindi in distanza dalla seduta.
+
+196
+00:12:20,720 --> 00:12:25,600
+Può essere ruotato e messo in posizione verticale, quindi favorendo, ad esempio,
+
+197
+00:12:25,600 --> 00:12:28,240
+un'elaborazione fotografica di un ritratto.
+
+198
+00:12:28,240 --> 00:12:33,400
+Funzione che devo dire, non uso particolarmente perché comunque durante l'elaborazione, a
+
+199
+00:12:29,840 --> 00:12:36,840
+meno di avere altri monitor, ci sono le palette, gli strumenti.
+
+200
+00:12:37,080 --> 00:12:42,840
+Tuttavia, diciamo che è un'opzione ulteriore che lo rende molto versatile.
+
+201
+00:12:43,080 --> 00:12:44,760
+È un monitor 4K.
+
+202
+00:12:44,760 --> 00:12:49,800
+Certo, non è un monitor che nasce esclusivamente per la fotografia, ma
+
+203
+00:12:49,800 --> 00:12:53,160
+qui si apre un discorso molto complesso in cui non voglio entrare
+
+204
+00:12:53,160 --> 00:12:57,080
+neanche troppo nel merito, perché dipende anche dal tipo di fotografia che
+
+205
+00:12:57,080 --> 00:13:02,600
+uno fa e che necessità ha di avere un profilo colore del
+
+206
+00:13:02,600 --> 00:13:06,760
+tutto adeguato, del tutto analogo alla stampa, diciamo che per il mio
+
+207
+00:13:06,760 --> 00:13:10,120
+modo di fotografare, la mia resa, il mio modo di elaborare le
+
+208
+00:13:10,120 --> 00:13:12,360
+immagini è un monitor con cui mi trovo benissimo.
+
+209
+00:13:12,360 --> 00:13:16,120
+Volevo chiedere ancora una cosa, hai visto il MacBook Air in difficoltà
+
+210
+00:13:16,120 --> 00:13:19,160
+a gestire un monitor esterno da 32 pollici o se la cava
+
+211
+00:13:19,240 --> 00:13:19,640
+tranquillo?
+
+212
+00:13:19,720 --> 00:13:24,680
+No, se la cava in modo egregio, devo dire che nel setup,
+
+213
+00:13:24,680 --> 00:13:28,920
+quando si può scegliere la risoluzione, ma più che la risoluzione, perché
+
+214
+00:13:28,920 --> 00:13:35,800
+la risoluzione è 4K senza dubbio, nella dimensione dei caratteri impostato per
+
+215
+00:13:35,800 --> 00:13:39,720
+avere l'area di lavoro il più ampio possibile, la più ampia possibile.
+
+216
+00:13:39,720 --> 00:13:45,160
+Quindi facendo la dimensione dei testi, nell'uso normale va bene utilizzandolo con
+
+217
+00:13:45,160 --> 00:13:49,480
+alcuni programmi che evidentemente o non sono ottimizzati o comunque mettono la
+
+218
+00:13:49,480 --> 00:13:54,760
+scheda video sotto stress, avevo dei lag e proprio dei ritardi nell'applicazione
+
+219
+00:13:54,760 --> 00:13:59,320
+dei comandi, ad esempio, delle regolazioni di luminosità, di curve nelle immagini
+
+220
+00:13:59,720 --> 00:14:03,160
+che lì per lì mi avevano un po' spaventato.
+
+221
+00:14:03,160 --> 00:14:07,720
+Tuttavia, però settandola con la dimensione consigliata, anche perché lo dice il
+
+222
+00:14:07,720 --> 00:14:13,960
+sistema stesso, che si possono riscontrare dei problemi, mettendolo sulla dimensione dei
+
+223
+00:14:13,960 --> 00:14:20,080
+caratteri consigliata, non c'è nessun problema e non c'è nessun tipo di
+
+224
+00:14:20,080 --> 00:14:23,440
+disagio a utilizzarlo con lo schermo esterno.
+
+225
+00:14:23,440 --> 00:14:27,440
+Domanda perché quella è una cosa che molti hanno riferito.
+
+226
+00:14:27,440 --> 00:14:30,640
+Soprattutto dei vecchi Mac, e quindi noi non abbiamo avuto, non abbiamo
+
+227
+00:14:30,640 --> 00:14:34,560
+potuto mettere le mani su un M1, quindi siamo molto invidiosi di
+
+228
+00:14:34,560 --> 00:14:34,880
+te.
+
+229
+00:14:34,880 --> 00:14:37,280
+E volevo chiederti: lo stacca a stacca
+
+230
+00:14:38,560 --> 00:14:43,520
+del monitor, dà dei problemi, perché appunto su alcuni vecchi Mac c'era
+
+231
+00:14:43,680 --> 00:14:47,840
+soprattutto i portatili, c'era il problema che si rallentava molto.
+
+232
+00:14:47,840 --> 00:14:51,760
+La riconfigurazione, diciamo, dei monitor quando da due passi a uno e
+
+233
+00:14:51,760 --> 00:14:52,960
+da uno passi a due.
+
+234
+00:14:52,960 --> 00:14:57,760
+Per esempio, sul mio 16 pollici che è un vecchio MacBook Pro,
+
+235
+00:14:57,760 --> 00:14:59,920
+diciamo del 2019.
+
+236
+00:14:59,920 --> 00:15:00,560
+Vecchio,
+
+237
+00:15:02,400 --> 00:15:04,320
+vecchio, è vecchio,
+
+238
+00:15:05,920 --> 00:15:10,000
+non è un M1, c'è un minimo, poi io l'uso come fisso,
+
+239
+00:15:10,000 --> 00:15:13,040
+quindi alla fine a me non dà quasi nessun di fastidio se
+
+240
+00:15:13,040 --> 00:15:16,800
+non che un monitor si accende prima dell'altro, ma è normale, perché
+
+241
+00:15:16,960 --> 00:15:22,320
+i monitor di Apple sono molto rapidi nell'accensione, chiamiamolo così, mentre abitualmente
+
+242
+00:15:22,320 --> 00:15:26,640
+gli altri monitor hanno dei tempi di accensione un po' più lenti.
+
+243
+00:15:26,640 --> 00:15:28,640
+Tu come ti sei trovato in questa modalità?
+
+244
+00:15:28,640 --> 00:15:31,920
+Anche perché immagino che tu lo stacchi e lo attacchi abbastanza spesso,
+
+245
+00:15:31,920 --> 00:15:36,240
+lo presumo visto il lavoro, visto il fatto che te lo porti
+
+246
+00:15:36,240 --> 00:15:36,560
+dietro.
+
+247
+00:15:36,800 --> 00:15:42,480
+Sì, io lo attacco e lo stacco frequentemente, però mi trovo benissimo,
+
+248
+00:15:42,480 --> 00:15:44,800
+non ho problemi di configurazione.
+
+249
+00:15:44,800 --> 00:15:48,160
+Devo dire che non lo uso mai come doppio monitor, io lo
+
+250
+00:15:48,160 --> 00:15:53,280
+uso come monitor singolo, perché voi dovete sapere una cosa.
+
+251
+00:15:53,280 --> 00:15:56,320
+Vi devo confessare che io sono un po' talebano nel modo di
+
+252
+00:15:56,320 --> 00:15:59,280
+lavorare, di organizzare le mie cose, i miei spazi.
+
+253
+00:15:59,280 --> 00:16:04,120
+Quindi, per me, la possibilità di lavorare con un unico monitor senza
+
+254
+00:16:04,120 --> 00:16:11,080
+altri oggetti che mi creano fastidio, distrazione, ingombro, è il massimo.
+
+255
+00:16:11,080 --> 00:16:15,800
+Io quando lo uso collegato al monitor, lo chiudo, lo infilo sotto
+
+256
+00:16:15,800 --> 00:16:19,800
+il monitor, quasi non lo vedo, utilizzo solo il monitor con la
+
+257
+00:16:19,800 --> 00:16:23,640
+tastiera esterna e con il trackpad e con il mouse con il
+
+258
+00:16:23,640 --> 00:16:24,600
+magic mouse.
+
+259
+00:16:24,600 --> 00:16:28,040
+Ti chiedo anche quindi cosa utilizzi come periferica a questo punto?
+
+260
+00:16:28,040 --> 00:16:33,000
+Perché di fatto poi diventa, chiamiamolo così, io lo uso, io lo
+
+261
+00:16:33,000 --> 00:16:36,520
+tengo aperto e quindi ho un secondo monitor nel mio 16 pollici,
+
+262
+00:16:36,520 --> 00:16:41,480
+però anche io ho tutto attaccato, diciamo, ho comunque tastiera esterna e
+
+263
+00:16:41,480 --> 00:16:42,920
+magic trackpad.
+
+264
+00:16:42,920 --> 00:16:47,000
+Quindi, tu che periferiche esterne hai, così ci racconti un po'.
+
+265
+00:16:47,000 --> 00:16:54,360
+Si, allora ho il Magic Mouse, ovviamente, il Mic trackpad e la
+
+266
+00:16:54,360 --> 00:16:55,880
+Mic keyboard.
+
+267
+00:16:55,880 --> 00:16:59,480
+Se si chiama così, se non si chiama così, ditemelo voi.
+
+268
+00:17:00,120 --> 00:17:05,320
+Il modello esteso, poi è quella nera, tutto nero.
+
+269
+00:17:05,640 --> 00:17:10,040
+Ho detto che sono un pochino integralista e matto in certe scelte
+
+270
+00:17:10,280 --> 00:17:12,440
+che sono un po' degli sfizi.
+
+271
+00:17:12,440 --> 00:17:14,760
+Però sì, ho tutto nero.
+
+272
+00:17:14,760 --> 00:17:20,280
+Da quando Apple, io non sono un utilizzatore di prodotti Apple proprio
+
+273
+00:17:20,280 --> 00:17:25,720
+di lunga data, però da quando ho cominciato ad usarne e mi
+
+274
+00:17:25,720 --> 00:17:28,760
+serve qualcosa, se c'è la versione nera
+
+275
+00:17:30,840 --> 00:17:37,720
+del prodotto, non ho dubbi dalla scelta del colore del MacBook, all'iPhone,
+
+276
+00:17:37,720 --> 00:17:38,520
+eccetera.
+
+277
+00:17:38,520 --> 00:17:43,120
+È una sciocchezza, lasciatemelo dire, però è una cosa che mi piace.
+
+278
+00:17:43,120 --> 00:17:46,720
+Anche all'estetica, ci devi lavorare quindi alla fine, sono cose che usi
+
+279
+00:17:44,840 --> 00:17:47,040
+tutti i gior
+
+280
+00:17:47,120 --> 00:17:47,360
+ni.
+
+281
+00:17:47,360 --> 00:17:51,360
+Per cui è anche bello avere qualcosa che ti piace o da
+
+282
+00:17:44,920 --> 00:17:51,680
+utilizzare
+
+283
+00:17:45,000 --> 00:17:52,480
+quotidianamente.
+
+284
+00:17:52,640 --> 00:17:56,960
+Ecco, hai toccato un tasto che per me è importante proprio per
+
+285
+00:17:56,960 --> 00:17:58,080
+come dici tu.
+
+286
+00:17:58,080 --> 00:18:02,240
+Quando lavoro mi piace avere degli strumenti e un ambiente di lavoro
+
+287
+00:18:02,240 --> 00:18:04,880
+che mi metta a mio agio, che non mi crei problemi e
+
+288
+00:18:04,880 --> 00:18:09,120
+che mi dia anche una gratificazione per il design, per l'estetica, per
+
+289
+00:18:09,120 --> 00:18:09,920
+il colore.
+
+290
+00:18:09,920 --> 00:18:12,720
+Ovviamente il colore è una scelta di gusto.
+
+291
+00:18:12,800 --> 00:18:17,520
+Però piace poter utilizzare i mezzi che mi piacciono.
+
+292
+00:18:17,520 --> 00:18:20,320
+Stavi parlando prima di iPhone, cosa usi?
+
+293
+00:18:20,480 --> 00:18:27,040
+Allora, io sono recentemente, qualche mese fa, ho cambiato iPhone, provengo da
+
+294
+00:18:27,040 --> 00:18:31,520
+un iPhone 7, quindi il fatto che adesso abbia preso un iPhone
+
+295
+00:18:31,600 --> 00:18:36,640
+13 Pro, mi serviva un dispositivo più recente, altro per vedere come
+
+296
+00:18:36,640 --> 00:18:40,960
+i contenuti che produco a livello fotografico e video rendono sui dispositivi
+
+297
+00:18:40,960 --> 00:18:44,320
+che tendenzialmente si stanno diffondendo.
+
+298
+00:18:44,320 --> 00:18:48,240
+Quindi un iPhone 7, dal punto di vista dello schermo, iniziava a
+
+299
+00:18:48,240 --> 00:18:48,960
+essere datato.
+
+300
+00:18:49,840 --> 00:18:54,320
+Esendo passati comunque parecchi anni, avevo bisogno di questo.
+
+301
+00:18:54,320 --> 00:18:55,840
+Ovviamente, immaginando
+
+302
+00:18:58,000 --> 00:19:02,160
+a questo punto poter avere uno strumento anche di supporto nell'attività lavorativa
+
+303
+00:19:02,320 --> 00:19:07,760
+nella produzione video, ho deciso di prendere l'ultimo modello per comunque le
+
+304
+00:19:07,760 --> 00:19:11,200
+funzioni che ha a livello di fotocamera e di registrazione.
+
+305
+00:19:11,200 --> 00:19:15,040
+Infatti, puoi registrare in ProRes Roa ad esempio video che è un
+
+306
+00:19:15,040 --> 00:19:20,160
+formato video non compresso o comunque poco compresso rispetto a quello a
+
+307
+00:19:20,160 --> 00:19:24,880
+cui siamo abituati, ed è quello che utilizzo normalmente quando realizzo delle
+
+308
+00:19:24,880 --> 00:19:29,680
+riprese video che permette poi un'elaborazione molto più profonda e completa del
+
+309
+00:19:29,880 --> 00:19:31,800
+file rispetto a un video compresso.
+
+310
+00:19:29,840 --> 00:19:31,960
+Sì.
+
+311
+00:19:32,040 --> 00:19:36,520
+Tra l'altro ricordo che l'iPhone 7 del 2016, quindi insomma qualche anno
+
+312
+00:19:36,520 --> 00:19:38,840
+ce l'aveva sulla schiena.
+
+313
+00:19:39,240 --> 00:19:43,960
+Inoltre aggiungo che ho avuto la possibilità di vedere l'iPhone 13, mi
+
+314
+00:19:43,960 --> 00:19:45,560
+pare che fosse proprio il pro.
+
+315
+00:19:45,560 --> 00:19:47,320
+Recentemente un Apple Store.
+
+316
+00:19:47,320 --> 00:19:51,480
+E ho notato che ha questa simpatica presa che segue gli occhi
+
+317
+00:19:51,480 --> 00:19:53,400
+della persona, e quindi
+
+318
+00:19:54,600 --> 00:19:57,480
+ti mette in secondo piano l'effetto Bocca?
+
+319
+00:19:57,480 --> 00:20:02,440
+Se non sbaglio, la parte dietro ed è veramente spettacolare, nel senso,
+
+320
+00:20:02,440 --> 00:20:05,240
+fa delle riprese che sono qualcosa di incredibile.
+
+321
+00:20:05,240 --> 00:20:06,280
+Si confermo.
+
+322
+00:20:06,280 --> 00:20:11,640
+Lorenzo una domanda veloce, ma in ProRes quanto ti pesa un video?
+
+323
+00:20:12,120 --> 00:20:17,320
+Tanto, infatti, la versione che ho io, che il taglio più piccolo
+
+324
+00:20:17,320 --> 00:20:21,480
+da 128, non permette, se non sbaglio, la registrazione in ProRes in
+
+325
+00:20:21,480 --> 00:20:26,280
+4K è una limitazione che ha il taglio più piccolo, perché direi
+
+326
+00:20:26,280 --> 00:20:30,600
+che siamo intorno ai magari non sono precisissimo.
+
+327
+00:20:30,600 --> 00:20:34,120
+Lo dico è il parametro che uso quando filmo con la videocamera,
+
+328
+00:20:34,120 --> 00:20:38,040
+ma il formato lo stesso, in full HD, saremo intorno ai 10
+
+329
+00:20:38,040 --> 00:20:39,160
+GB al minuto
+
+330
+00:20:42,040 --> 00:20:42,120
+.
+
+331
+00:20:42,440 --> 00:20:48,200
+È impegnativo e vi assicuro che la problematica principale, anche quando filmo
+
+332
+00:20:48,360 --> 00:20:54,680
+tanto, è la gestione, più che la gestione è l'archiviazione dei file,
+
+333
+00:20:55,320 --> 00:21:00,120
+la molteplicità di supporti che uno deve avere dietro per ogni evenienza,
+
+334
+00:21:00,120 --> 00:21:05,200
+è quello che purtroppo in questo tipo di lavoro fa lievitare tutto,
+
+335
+00:21:05,960 --> 00:21:10,600
+non più che proporzionalmente esponenzialmente, man mano che uno fa un upgrade,
+
+336
+00:21:10,600 --> 00:21:15,680
+si trova poi a doversi aggiornare i supporti, i dischi, poi se
+
+337
+00:21:14,280 --> 00:21:17,280
+non ha dei dischi
+
+338
+00:21:14,920 --> 00:21:21,120
+veloci, diventa un collo di bottiglia nel lavoro.
+
+339
+00:21:21,520 --> 00:21:24,240
+Purtroppo questo è l'aspetto un po' complesso
+
+340
+00:21:25,440 --> 00:21:30,160
+di questo lavoro che poi richiede un minimo di investimenti per avere
+
+341
+00:21:30,720 --> 00:21:34,560
+delle apparecchiature che non ti fanno perdere tempo ogni volta.
+
+342
+00:21:34,560 --> 00:21:39,120
+Quindi, come supporti esterni, hai puntato su, immagino hard disk esterni.
+
+343
+00:21:39,120 --> 00:21:40,000
+Quanti ne hai?
+
+344
+00:21:40,000 --> 00:21:40,720
+Quanti ne usi?
+
+345
+00:21:40,720 --> 00:21:41,440
+Che marca?
+
+346
+00:21:41,440 --> 00:21:43,600
+Guarda, allora io faccio così.
+
+347
+00:21:43,600 --> 00:21:48,880
+Intanto tendo proprio perché ho un MacBook con pochissima memoria, sposo la
+
+348
+00:21:48,880 --> 00:21:55,600
+filosofia di Roberto che è quella di avere il MacBook leggerissimo.
+
+349
+00:21:55,600 --> 00:22:02,640
+Il mio MacBook attualmente ha circa 20-25 giga occupati.
+
+350
+00:22:03,680 --> 00:22:09,200
+Così è poco, forse ne ha 40 dai 40 su 250.
+
+351
+00:22:09,200 --> 00:22:15,680
+Tutto il resto, tutti i lavori conclusi o comunque sono archiviati su
+
+352
+00:22:16,240 --> 00:22:21,360
+hard disk esterni dei western digital anche piuttosto lenti, perché questi me
+
+353
+00:22:21,360 --> 00:22:25,440
+li porto comunque dietro da un po' dove ovviamente ho una duplice
+
+354
+00:22:25,440 --> 00:22:30,960
+copia di tutto: un backup duplice e poi fisicamente collocato in due
+
+355
+00:22:30,960 --> 00:22:33,200
+luoghi diversi per scongiurare
+
+356
+00:22:34,320 --> 00:22:41,120
+qualche tipo di evento catastrofico da furti a incendi,
+
+357
+00:22:42,720 --> 00:22:45,920
+ti faccio una domanda subito: la frego a Filippo perché sicuramente te
+
+358
+00:22:45,920 --> 00:22:50,160
+lo chiederà: hai sistemi di backup automatici o fai tutta a manina?
+
+359
+00:22:50,160 --> 00:22:57,600
+Purtroppo mi vergogno, ma non ho sistemi automatici né NAS, che ovviamente
+
+360
+00:22:57,600 --> 00:23:00,120
+saranno il prossimo acquisto, ma visto
+
+361
+00:22:59,360 --> 00:23:03,960
+che poi si parla di investimenti anche lì abbastanza importanti.
+
+362
+00:23:04,200 --> 00:23:07,480
+Per ora ho deciso di gestire il lavoro in maniera manuale, anche
+
+363
+00:23:07,480 --> 00:23:12,520
+perché il mio flusso di lavoro prevede che il materiale grezzo, sia
+
+364
+00:23:12,840 --> 00:23:13,800
+foto che video
+
+365
+00:23:15,320 --> 00:23:22,680
+dai dispositivi venga trasferito su un SSD esterno, Sandis, che diventa l'archivio
+
+366
+00:23:22,680 --> 00:23:23,000
+e
+
+367
+00:23:24,440 --> 00:23:29,640
+il supporto su cui lavoro per l'elaborazione dei file e foto e
+
+368
+00:23:29,640 --> 00:23:30,440
+video.
+
+369
+00:23:30,760 --> 00:23:37,880
+Ovviamente una volta salvato sull'SSD mi faccio comunque almeno un backup su
+
+370
+00:23:38,040 --> 00:23:43,400
+dischi esterno sui miei hard disk, però tendenzialmente il lavoro da lì
+
+371
+00:23:43,400 --> 00:23:48,360
+in poi si sviluppa solo sull'SSD, a meno che non sia un
+
+372
+00:23:48,360 --> 00:23:53,560
+lavoro molto lungo a più riprese, che quindi ovviamente richieda che venga
+
+373
+00:23:53,800 --> 00:23:57,800
+cominciato, interrotto e ripreso a distanza di mesi.
+
+374
+00:23:57,800 --> 00:24:00,120
+Allora ci sono dei backup intermedi.
+
+375
+00:24:00,120 --> 00:24:04,360
+Diciamo che poi tutto il lavoro lo porto avanti.
+
+376
+00:24:04,600 --> 00:24:08,600
+Io magari mi occupo di lavori che mi prendono 5-6 giorni di
+
+377
+00:24:08,600 --> 00:24:11,720
+fila una settimana e poi sono conclusi.
+
+378
+00:24:11,720 --> 00:24:16,680
+Questo tipo di lavoro viene portato avanti sul con i file archiviati,
+
+379
+00:24:16,920 --> 00:24:20,920
+con i file sul sull'SSD esterno, ottimo.
+
+380
+00:24:20,920 --> 00:24:23,400
+Direi che anche questa è una cosa molto interessante.
+
+381
+00:24:23,400 --> 00:24:27,640
+Grazie per aver sposato la mia filosofia del viaggiare leggero, la chiamiamo
+
+382
+00:24:27,640 --> 00:24:31,800
+così per riassumere, sono molto contento che abbia seguito questo mio consiglio.
+
+383
+00:24:31,800 --> 00:24:35,160
+Anch'io faccio così alle volte non basta, ma fa lo stesso.
+
+384
+00:24:35,160 --> 00:24:39,520
+Ma anche questo affronteremo tutto quanto in una seconda battuta.
+
+385
+00:24:39,520 --> 00:24:44,360
+Perché adesso ci dovrai anche raccontare, essendo fotografo, cosa usi in questo
+
+386
+00:24:44,360 --> 00:24:45,440
+tuo progetto?
+
+387
+00:24:45,440 --> 00:24:51,200
+Sì, allora, io utilizzo pochi software Capture One, che è il software
+
+388
+00:24:51,200 --> 00:24:57,360
+di sviluppo dei file RAW fotografici e di catalogazione e archiviazione.
+
+389
+00:24:57,840 --> 00:25:00,080
+È un software che è analogo
+
+390
+00:25:01,920 --> 00:25:05,600
+al ben più diffuso Lightroom.
+
+391
+00:25:05,600 --> 00:25:10,720
+Però ha degli aspetti, ha degli strumenti di sviluppo e di gestione
+
+392
+00:25:10,720 --> 00:25:12,320
+del colore, probabilmente
+
+393
+00:25:13,440 --> 00:25:18,560
+perché non ho mai fatto una comparazione diretta strumento per strumento, essendo
+
+394
+00:25:18,560 --> 00:25:24,560
+un utilizzatore comunque soddisfatto di Capture One, dico che probabilmente ha degli
+
+395
+00:25:24,560 --> 00:25:29,920
+strumenti più evoluti di Lightroom nello sviluppo dei file.
+
+396
+00:25:30,560 --> 00:25:36,480
+Lorenzo, per chi non forse dentro tutte queste cose, cos'è un file
+
+397
+00:25:36,480 --> 00:25:38,880
+ROW e come si differenzia?
+
+398
+00:25:38,880 --> 00:25:43,280
+Diciamo da file più noti, tra virgolette, JPEG e così via, che
+
+399
+00:25:43,280 --> 00:25:46,480
+abitualmente noi comuni mortali utilizziamo.
+
+400
+00:25:46,480 --> 00:25:51,360
+Allora, il file RO, che tra parentesi può essere anche l'iPhone adesso
+
+401
+00:25:51,360 --> 00:25:56,160
+può scattare in formato ROW è un file grezzo come l'equivalente di
+
+402
+00:25:56,160 --> 00:26:00,240
+un negativo, ovvero un file che non è un'immagine di per sé,
+
+403
+00:26:00,240 --> 00:26:04,240
+ma è un file che contiene tutte le informazioni che il sensore
+
+404
+00:26:04,240 --> 00:26:08,640
+riesce a registrare in una determinata esposizione.
+
+405
+00:26:08,640 --> 00:26:14,880
+Quindi si porta tantissime informazioni sulla luce, ad esempio, che un file
+
+406
+00:26:14,880 --> 00:26:18,880
+JPEG perde nel momento in cui subisce una compressione.
+
+407
+00:26:18,880 --> 00:26:23,280
+Quindi il file JPEG ovviamente è un file snello, veloce, comodo da
+
+408
+00:26:24,880 --> 00:26:26,560
+trasferire e da mettere sul web.
+
+409
+00:26:26,560 --> 00:26:29,520
+Il file RO è il file da cui si parte per avere
+
+410
+00:26:29,520 --> 00:26:35,480
+tutte le regolazioni con la massima, con le massime possibilità di modifica
+
+411
+00:26:35,480 --> 00:26:36,520
+e di controllo.
+
+412
+00:26:36,520 --> 00:26:40,600
+Ecco anche lì più o meno un rapporto peso JPEG.
+
+413
+00:26:41,160 --> 00:26:45,000
+Ovviamente la compressione può essere fatta in varie maniere quindi, però, giusto
+
+414
+00:26:45,000 --> 00:26:48,280
+per dare un'idea anche di cosa vuol dire lavorare in RO e
+
+415
+00:26:48,440 --> 00:26:50,840
+lavorare invece in formato compresso.
+
+416
+00:26:50,840 --> 00:26:54,680
+Ma potete immaginare che un file RAW di una Reflex, di una
+
+417
+00:26:54,680 --> 00:27:01,400
+mirrorless full frame, quindi un formato pieno formato uscill intorno a seconda
+
+418
+00:27:01,400 --> 00:27:08,440
+poi dei megapixel però intorno ai 60-70 megabyte a foto, ovviamente si
+
+419
+00:27:08,440 --> 00:27:11,720
+può andare anche molto oltre con determinate macchine fotografiche.
+
+420
+00:27:11,720 --> 00:27:16,040
+Però lo standard più o meno a una risoluzione di 24 megapixel
+
+421
+00:27:16,040 --> 00:27:17,240
+è quello.
+
+422
+00:27:17,240 --> 00:27:23,160
+Voi immaginate che in certi lavori fotografici si scatta veramente tanto, anche
+
+423
+00:27:23,160 --> 00:27:26,760
+se a me piace scattare quando posso il meno possibile, però in
+
+424
+00:27:26,760 --> 00:27:31,640
+determinate situazioni si scatta veramente tanto e come niente ci si trova
+
+425
+00:27:31,800 --> 00:27:37,640
+1500 foto da scaricare e da catalogare e da archiviare.
+
+426
+00:27:37,800 --> 00:27:44,600
+Capture One è uno strumento comodissimo, altamente configurabile e personalizzabile nel modo
+
+427
+00:27:44,600 --> 00:27:49,080
+in cui acquisisce e nomina i file, per cui ognuno si crea
+
+428
+00:27:49,080 --> 00:27:52,680
+il proprio flusso di lavoro più funzionale alle proprie esigenze.
+
+429
+00:27:52,680 --> 00:27:58,120
+Io, ad esempio, ho due corredi equivalenti, anzi proprio uguali, ho due
+
+430
+00:27:58,120 --> 00:28:00,600
+mirrorless della NICON.
+
+431
+00:28:00,600 --> 00:28:06,600
+E quando scatto, io da solo con tutte e due, perché molto
+
+432
+00:28:06,920 --> 00:28:11,320
+spesso anche quando lavoro da solo, ne utilizzo due contemporaneamente con obiettivi
+
+433
+00:28:11,320 --> 00:28:16,960
+diversi, oppure con un assistente, mi trovo poi ad avere della stessa
+
+434
+00:28:16,960 --> 00:28:21,600
+situazione, dello stesso shooting, due o più schede, almeno due schede di
+
+435
+00:28:21,600 --> 00:28:27,520
+memoria con file generati da ognelle delle due macchine, importando l'in capture
+
+436
+00:28:27,520 --> 00:28:31,920
+one, essendomi configurato il modo in cui vengono nominati i file, con
+
+437
+00:28:31,920 --> 00:28:35,600
+la data, con l'ora, con i minuti, i secondi, con il nome
+
+438
+00:28:35,600 --> 00:28:39,840
+della macchina fotografica, io riesco ad avere nel cielo di pochi minuti
+
+439
+00:28:40,320 --> 00:28:44,720
+tutti i file trasferiti e catalogati in ordine sequenziale, in modo da
+
+440
+00:28:44,720 --> 00:28:48,160
+non avere prima i file di una macchina, poi l'altra, ma averli
+
+441
+00:28:48,160 --> 00:28:50,880
+in modo coerente a livello temporale.
+
+442
+00:28:50,880 --> 00:28:54,160
+Da lì parto con il mio sistema di
+
+443
+00:28:55,200 --> 00:29:01,600
+editing di selezione, banalmente con i soliti strumenti di classificazione, le stelline
+
+444
+00:29:01,600 --> 00:29:06,240
+o i colori o la suddivisione in cartelle all'interno di Capture One
+
+445
+00:29:06,320 --> 00:29:09,200
+che mi permettono di gestire di volta in volta al meglio il
+
+446
+00:29:09,200 --> 00:29:15,520
+lavoro, facendo prima una scrematura, poi una ulteriore, fino a delimitare i
+
+447
+00:29:15,520 --> 00:29:19,200
+file, a definire i file finali su cui voglio lavorare che voglio
+
+448
+00:29:19,200 --> 00:29:22,800
+poi sviluppare ed esportare in JPEG.
+
+449
+00:29:22,800 --> 00:29:23,920
+Tutto il flusso
+
+450
+00:29:25,600 --> 00:29:31,040
+di catalogazione e sviluppo avviene all'interno del programma che può appoggiarsi e
+
+451
+00:29:31,040 --> 00:29:38,160
+creare un'unica libreria con tutti i progetti, oppure lavorare per sessione.
+
+452
+00:29:38,160 --> 00:29:40,960
+Io lavoro per sessione in modo che ogni progetto abbia la sua
+
+453
+00:29:40,960 --> 00:29:45,680
+sessione, quindi un unico file, un suo file dedicato a quel singolo
+
+454
+00:29:45,680 --> 00:29:51,200
+progetto che quando ho finito di esportare posto in blocco e archivio
+
+455
+00:29:51,440 --> 00:29:52,960
+nei dischi negli disk.
+
+456
+00:29:53,120 --> 00:29:56,400
+Ti volevo chiedere, visto che stavo guardando un attimo Capture One come
+
+457
+00:29:56,400 --> 00:30:00,520
+si comporta, noto che ha una filosofia un po' particolare per quanto
+
+458
+00:30:00,520 --> 00:30:05,240
+riguarda la vendita, nel senso che esiste una versione per tutte le
+
+459
+00:30:05,240 --> 00:30:09,640
+fotocamere, oppure c'è la versione per Fujifilm per Sony e per Nikon.
+
+460
+00:30:09,640 --> 00:30:12,760
+Tu cosa hai scelto tra queste quattro opzioni?
+
+461
+00:30:12,760 --> 00:30:16,920
+Allora, io ho la versione per tutte le fotocamere, perché quando ho
+
+462
+00:30:16,920 --> 00:30:21,080
+deciso di acquistare la licenza, ovviamente non c'era ancora la possibilità di
+
+463
+00:30:21,080 --> 00:30:24,200
+prendere la versione dedicata, che sarebbe stato un vantaggio.
+
+464
+00:30:24,200 --> 00:30:30,600
+Cartour funziona a diversi piani, sostanzialmente al piano in abbonamento o il
+
+465
+00:30:30,600 --> 00:30:35,480
+piano pagamento una tantum, quindi l'acquisto della licenza permanente.
+
+466
+00:30:35,480 --> 00:30:41,640
+Anche in questo caso, per filosofia di lavoro, quando è possibile, utilizzo
+
+467
+00:30:41,640 --> 00:30:46,440
+software che abbiano una licenza e non abbiano un abbonamento.
+
+468
+00:30:46,440 --> 00:30:48,920
+Litro, ad esempio, non lo consente.
+
+469
+00:30:48,920 --> 00:30:54,120
+Quindi Lightroom, come tutti i prodotti adobe, Capture One ha questa possibilità.
+
+470
+00:30:54,120 --> 00:30:57,560
+Viene aggiornato comunque abbastanza frequentemente.
+
+471
+00:30:57,560 --> 00:31:01,960
+Quindi, se uno vuole rimanere aggiornato a tutte le release, praticamente il
+
+472
+00:31:01,960 --> 00:31:04,040
+costo equivale a quello dell'abbonamento.
+
+473
+00:31:04,040 --> 00:31:07,400
+Però, in realtà le ultime versioni sono veramente
+
+474
+00:31:08,520 --> 00:31:09,800
+già molto complete.
+
+475
+00:31:09,800 --> 00:31:15,240
+Quindi, non è sinceramente necessario aggiornare ogni anno o ogni anno e
+
+476
+00:31:15,240 --> 00:31:17,000
+mezzo all'ultima versione.
+
+477
+00:31:17,000 --> 00:31:22,040
+Spero che questa filosofia di acquisto e di vendita della licenza rimanga
+
+478
+00:31:22,280 --> 00:31:27,000
+perché sinceramente la preferisco molto di più rispetto a quelle in abbonamento.
+
+479
+00:31:27,000 --> 00:31:31,400
+Comprensibilmente, chiaro, ma anch'io la preferisco, ma sì, quelli in abbonamento sembra
+
+480
+00:31:31,400 --> 00:31:35,240
+sempre che costino poco, che non che sia un costo irrisorio, però
+
+481
+00:31:35,320 --> 00:31:40,840
+sapete bene che poi sono quelle piccole, tutte quei piccoli abbonamenti, che
+
+482
+00:31:40,840 --> 00:31:43,880
+alla fine del mese fanno delle cifre importanti.
+
+483
+00:31:43,880 --> 00:31:48,880
+Quindi, ovviamente bisogna fare delle scelte dove si può, io mi trovo
+
+484
+00:31:44,920 --> 00:31:49,600
+meglio a fare così.
+
+485
+00:31:49,760 --> 00:31:52,800
+Invece, per quanto riguarda la parte fotografica, mi pare che non è
+
+486
+00:31:52,800 --> 00:31:57,200
+ancora accennato a che tipo di macchina fotografica utilizzo.
+
+487
+00:31:57,200 --> 00:32:05,840
+Utilizzo una Mirrorless Nikon la Z62, ho due macchine equivalenti.
+
+488
+00:32:05,840 --> 00:32:10,320
+Una realtà una è una Z61 e l'altra una Z62 che hanno
+
+489
+00:32:10,320 --> 00:32:15,440
+minime differenze e producono lo stesso tipo di file, perché hanno lo
+
+490
+00:32:15,440 --> 00:32:16,880
+stesso sensore, eccetera.
+
+491
+00:32:17,200 --> 00:32:21,840
+La Z62 è solo un po' più veloce nell'autofocus in alcune funzioni,
+
+492
+00:32:21,840 --> 00:32:25,360
+ma diciamo che si tratta di differenze veramente marginali.
+
+493
+00:32:25,360 --> 00:32:30,240
+Quindi ho un corredo mirrorless anche di ottiche, tendenzialmente ottiche fisse per
+
+494
+00:32:30,240 --> 00:32:35,040
+coprire un po' tutte le focali, anche se sempre per la filosofia
+
+495
+00:32:35,200 --> 00:32:40,400
+secondo cui meno è meglio, ho l'ottica preferita, la mia ottica preferita
+
+496
+00:32:40,400 --> 00:32:45,600
+che è la 50 mm, con cui tendenzialmente i lavori sono tutti
+
+497
+00:32:45,600 --> 00:32:51,040
+i progetti, i lavori più personali o comunque dove la mia impronta
+
+498
+00:32:51,040 --> 00:32:56,960
+deve essere più marcata, sono realizzati quasi esclusivamente solo con quell'ottica o
+
+499
+00:32:56,960 --> 00:33:00,320
+con quella e un'altra più lunga da ritratto.
+
+500
+00:33:00,320 --> 00:33:04,320
+Direi che adesso sto guardando anche le caratteristiche tecniche.
+
+501
+00:33:04,320 --> 00:33:07,200
+Per quanto di mia competenza gran bella macchina.
+
+502
+00:33:07,200 --> 00:33:12,240
+Purtroppo, non essendo un fotografo e non intendendomi di fotografia, prendetelo con
+
+503
+00:33:12,240 --> 00:33:16,640
+le molle, ma sicuramente vedendo anche le foto che ha sviluppato Lorenzo
+
+504
+00:33:16,640 --> 00:33:21,600
+nel suo sito Instagram, vi dico che funziona decisamente bene.
+
+505
+00:33:21,600 --> 00:33:24,560
+In abbinata, ovviamente, a mani sapienti, chiaramente.
+
+506
+00:33:24,800 --> 00:33:30,360
+A questo punto, io direi di saltare tranquillamente al capitolo che ha
+
+507
+00:33:29,840 --> 00:33:34,920
+dato il titolo alla puntata, ovvero la tua filosofia minimale.
+
+508
+00:33:35,080 --> 00:33:36,520
+Ce la vuoi raccontare un po'?
+
+509
+00:33:36,520 --> 00:33:38,760
+Ma sì, grazie della domanda.
+
+510
+00:33:38,760 --> 00:33:42,520
+In realtà, in quello che ho detto, ho già fatto trasparire un
+
+511
+00:33:42,520 --> 00:33:43,320
+po' di cose.
+
+512
+00:33:43,320 --> 00:33:47,320
+Mi piace parlare di filosofia minimale, ma anche se nella realtà non
+
+513
+00:33:47,320 --> 00:33:48,360
+è mai così.
+
+514
+00:33:48,360 --> 00:33:54,680
+Tuttavia, diciamo che quello che mi piace nel lavoro e credo che
+
+515
+00:33:54,680 --> 00:33:59,720
+mi permetta di lavorare meglio, è comunque utilizzare il minor numero di
+
+516
+00:33:59,720 --> 00:34:04,200
+possibili di strumenti a disposizione per portare avanti il mio lavoro.
+
+517
+00:34:04,200 --> 00:34:05,160
+Sia a livello.
+
+518
+00:34:05,160 --> 00:34:10,040
+Già visto che per un semplice motivo, le complicazioni ci sono già
+
+519
+00:34:10,360 --> 00:34:15,560
+e sono intrinseche a ogni singolo lavoro che si affronta.
+
+520
+00:34:15,880 --> 00:34:20,920
+Da quando ho deciso di utilizzare Mac è sembra anche una banalità
+
+521
+00:34:20,920 --> 00:34:24,120
+dirlo perché poi comunque non ho più la controparte
+
+522
+00:34:26,280 --> 00:34:29,480
+di altri sistemi e di come si sono evoluti negli anni.
+
+523
+00:34:29,480 --> 00:34:34,920
+Però la volontà era di utilizzare degli strumenti stabili, affidabili, che non
+
+524
+00:34:34,920 --> 00:34:40,760
+dessero problemi o sorprese di aggiornamenti, malfunzionamenti.
+
+525
+00:34:41,960 --> 00:34:46,200
+Col sistema, con i computer Apple, mi sono sempre trovato bene da
+
+526
+00:34:46,200 --> 00:34:47,080
+questo punto di vista.
+
+527
+00:34:47,080 --> 00:34:52,360
+Non ho più dovuto pensare a configurazioni, a installazioni, a registro.
+
+528
+00:34:52,680 --> 00:34:57,240
+Questo per me è fondamentale perché utilizzare un computer che rappresenta il
+
+529
+00:34:57,240 --> 00:35:01,160
+modello entro i level di una gamma di computer.
+
+530
+00:35:01,160 --> 00:35:07,400
+Con dei programmi che si possono scaricare dall'app store in un attimo,
+
+531
+00:35:07,400 --> 00:35:11,320
+ad eccezione di Capture One che si scarica dal sito, ma non
+
+532
+00:35:11,320 --> 00:35:12,200
+cambia niente.
+
+533
+00:35:12,200 --> 00:35:16,000
+Vuol dire per me avere la possibilità nel momento in cui il
+
+534
+00:35:16,000 --> 00:35:21,920
+computer mi viene rubato, mi si disintegra per terra o qualunque tipo
+
+535
+00:35:14,680 --> 00:35:14,840
+di
+
+536
+00:35:22,160 --> 00:35:27,680
+problema, comprarne, averne un altro in sostituzione e essere operativo in un
+
+537
+00:35:27,680 --> 00:35:32,640
+attimo senza configurazioni, e questo mi dà anche una sicurezza, un piacere
+
+538
+00:35:32,640 --> 00:35:36,880
+nell'utilizzarlo, che per me vale molto, vale veramente molto.
+
+539
+00:35:36,880 --> 00:35:41,680
+Ancora di più, sapere che con un computer di un entry level,
+
+540
+00:35:41,680 --> 00:35:45,280
+riesca a fare tutto quello che devo fare, ben inteso, non vuol
+
+541
+00:35:45,280 --> 00:35:49,280
+dire che il MacBook Air possa fare tutto, vuol dire che quello
+
+542
+00:35:49,280 --> 00:35:54,400
+che serve a me, quello che realizzo, può essere fatto nel modo
+
+543
+00:35:54,400 --> 00:35:56,160
+migliore con questo strumento.
+
+544
+00:35:56,160 --> 00:35:59,200
+Quindi già questo è un punto di forza notevole.
+
+545
+00:35:59,200 --> 00:36:03,920
+Prima, nelle generazioni, prima, per avere un computer adatto a quello che
+
+546
+00:36:03,920 --> 00:36:07,440
+volevo fare, dovevo spendere in proporzione molto di più.
+
+547
+00:36:07,440 --> 00:36:11,120
+Ed è anche bello che non si chiami pro, e che questo
+
+548
+00:36:11,120 --> 00:36:18,560
+non voglia dire niente perché comunque sono comunque etichette che servono a
+
+549
+00:36:18,560 --> 00:36:20,160
+creare dei segmenti, giusto?
+
+550
+00:36:21,040 --> 00:36:23,760
+Apple, alle sue filosofie di vendita.
+
+551
+00:36:23,760 --> 00:36:29,120
+Però in realtà con uno strumento che è nella categoria consumer posso
+
+552
+00:36:29,120 --> 00:36:33,920
+fare benissimo il mio lavoro senza alcun limite o complesso di inferiorità
+
+553
+00:36:33,920 --> 00:36:36,800
+rispetto a workstation mega galattiche.
+
+554
+00:36:36,800 --> 00:36:42,000
+Certo, se facesse determinati tipi di lavori, effetti speciali, eccetera, questo discorso
+
+555
+00:36:42,000 --> 00:36:42,640
+non vale.
+
+556
+00:36:42,640 --> 00:36:43,360
+Ben chiaro.
+
+557
+00:36:43,360 --> 00:36:49,200
+Tornando alla fotografia, appunto, questo mi permette sinceramente di dedicarmi di non
+
+558
+00:36:49,200 --> 00:36:54,160
+pensare tanto ai mezzi, ma di dedicarmi ai contenuti e questo penso
+
+559
+00:36:54,160 --> 00:36:55,520
+che sia il massimo.
+
+560
+00:36:55,520 --> 00:36:59,120
+Certo, e diciamo, sono strumenti che ti liberano la testa e quello
+
+561
+00:36:59,120 --> 00:37:03,880
+che si cerca di utilizzare, cioè non devi pensare a come funziona
+
+562
+00:37:03,880 --> 00:37:06,920
+il computer, perché il computer fa il suo lavoro, ovvero essere al
+
+563
+00:37:06,920 --> 00:37:09,320
+servizio dell'umano che l'ha acquistato.
+
+564
+00:37:09,320 --> 00:37:13,000
+E questa è anche per me stata la stessa strada che ho
+
+565
+00:37:13,000 --> 00:37:13,400
+avuto.
+
+566
+00:37:13,400 --> 00:37:19,160
+Anch'io all'inizio, quando sono uscito dall'università, utilizzavo computer Windows finché un bel
+
+567
+00:37:19,160 --> 00:37:21,640
+giorno è arrivato anche AutoCAD per Mac.
+
+568
+00:37:21,640 --> 00:37:23,800
+E allora a quel punto per me non c'è stato neanche più
+
+569
+00:37:23,800 --> 00:37:24,120
+storia.
+
+570
+00:37:24,120 --> 00:37:26,920
+Nel senso non ci ho riflettuto più di un secondo e sono
+
+571
+00:37:26,920 --> 00:37:31,000
+andato a comprarmi tranquillamente il mio Mac per riuscire a lavorare in
+
+572
+00:37:31,000 --> 00:37:36,520
+un ambiente diverso, stabile, ma soprattutto che mi rendeva più produttivo.
+
+573
+00:37:36,520 --> 00:37:39,400
+Che questo qui, secondo me, è la cosa più fondamentale di tutto
+
+574
+00:37:39,400 --> 00:37:40,280
+il discorso.
+
+575
+00:37:40,280 --> 00:37:45,160
+Come altri professionisti usano Windows, se sono altrettanto produttivi, non è detto
+
+576
+00:37:45,160 --> 00:37:48,680
+che loro saranno più produttivi con un Mac, può darsi che lo
+
+577
+00:37:48,680 --> 00:37:50,040
+siano anche di meno.
+
+578
+00:37:50,040 --> 00:37:54,440
+La questione è che vedo in Lorenzo la filosofia che ha spinto
+
+579
+00:37:54,440 --> 00:37:58,600
+anche me ad accedere a dei computer Mac e a tutto quello
+
+580
+00:37:58,600 --> 00:37:59,560
+che ci sta dietro.
+
+581
+00:37:59,560 --> 00:38:04,760
+Appunto tutte le caratteristiche che ha detto giustamente Lorenzo, nel senso che
+
+582
+00:38:04,760 --> 00:38:08,520
+io dal 2010 che non formato un computer, non so più neanche,
+
+583
+00:38:08,520 --> 00:38:11,960
+non so, francamente non so neanche come si faccia più su un
+
+584
+00:38:11,960 --> 00:38:14,520
+Mac con tutte le novità che hanno introdotto.
+
+585
+00:38:14,520 --> 00:38:17,800
+Mi dovessero dare un computer a formattare, probabilmente mi chiedo anche come
+
+586
+00:38:17,800 --> 00:38:22,200
+si faccia, ma perché sono ormai dal 2010, quindi sono già 12
+
+587
+00:38:22,200 --> 00:38:26,440
+anni che non formato più un computer che utilizzo io per lavoro
+
+588
+00:38:26,440 --> 00:38:27,400
+tutti i giorni.
+
+589
+00:38:27,400 --> 00:38:30,840
+Quindi vuol dire completa stabilità e non penso a nient'altro.
+
+590
+00:38:30,840 --> 00:38:35,400
+Non mi sei piantato una volta che dire, io sono decisamente contento
+
+591
+00:38:35,720 --> 00:38:39,000
+e so benissimo di quello che sta parlando Lorenzo, perché in effetti
+
+592
+00:38:39,160 --> 00:38:44,440
+avere la possibilità, un appoggio che permette di scaricare la testa, nel
+
+593
+00:38:44,440 --> 00:38:48,400
+senso che non mi devo occupare io del computer, nel senso che
+
+594
+00:38:48,400 --> 00:38:51,520
+è lì dovrebbe essere al mio servizio, che è quella cosa più
+
+595
+00:38:51,520 --> 00:38:55,600
+importante che ci permette appunto di essere più produttivi e soprattutto anche
+
+596
+00:38:55,680 --> 00:38:58,640
+Lorenzo di rendere di più nel suo lavoro.
+
+597
+00:38:58,640 --> 00:39:03,920
+Grazie alle fotografie che realizza che giustamente nei lavori di concetto, nei
+
+598
+00:39:03,920 --> 00:39:08,880
+lavori più dove la testa deve essere più presente, chiaramente questo è
+
+599
+00:39:08,880 --> 00:39:12,240
+un valore di enorme importanza a mio parere.
+
+600
+00:39:12,240 --> 00:39:18,960
+Chiaramente anche il nostro simpatico Filippo che potrebbe tranquillamente usare un iPad,
+
+601
+00:39:18,960 --> 00:39:22,480
+non per questo non si può chiamare professionista, nel senso il discorso
+
+602
+00:39:22,480 --> 00:39:23,360
+è sempre lo stesso.
+
+603
+00:39:23,360 --> 00:39:28,960
+Le etichette che mette i nostri amici di Apple sui vari computer,
+
+604
+00:39:28,960 --> 00:39:34,400
+sui vari smartphone oppure sui tablet tendenzialmente è marketing.
+
+605
+00:39:34,400 --> 00:39:38,960
+Perché comunque ci sono tantissime persone che si guadagnano la pagnotta, io
+
+606
+00:39:38,960 --> 00:39:42,240
+dico così, con un iPad base senza che ci sia bisogno di
+
+607
+00:39:42,240 --> 00:39:45,520
+scritto pro per il semplice fatto che lavorano col testo, basta anche
+
+608
+00:39:45,520 --> 00:39:46,160
+solo quello.
+
+609
+00:39:46,160 --> 00:39:51,040
+Oppure basta anche semplicemente disegnare a mano libera e qualcuno riesce anche
+
+610
+00:39:51,120 --> 00:39:54,640
+a beati loro a guadagnarsi la pagnotta in questo modo.
+
+611
+00:39:54,640 --> 00:40:00,480
+Quindi non è il pro l'annominiolo pro che indica la professionalità di
+
+612
+00:40:00,480 --> 00:40:01,040
+una persona.
+
+613
+00:40:01,040 --> 00:40:05,520
+Questo mi sono sempre battuto ma da anni, veramente, che non è
+
+614
+00:40:05,520 --> 00:40:11,360
+la potenza o la capacità di una macchina nello sviluppare, diciamo, cavalli,
+
+615
+00:40:11,360 --> 00:40:16,400
+ma è piuttosto la macchina che permette al professionista di essere un
+
+616
+00:40:16,400 --> 00:40:17,200
+professionista.
+
+617
+00:40:17,200 --> 00:40:21,600
+Ti aggiungo anch'io dicendo un'altra cosa, è che a volte i limiti
+
+618
+00:40:21,600 --> 00:40:26,240
+di una macchina possono essere uno stimolo e un modo per esprimersi
+
+619
+00:40:26,240 --> 00:40:27,680
+in maniera diversa.
+
+620
+00:40:27,680 --> 00:40:29,240
+Se vogliamo, proprio.
+
+621
+00:40:29,240 --> 00:40:32,200
+Infatti, per esempio, io amo l'iPad proprio per quel motivo lì.
+
+622
+00:40:32,360 --> 00:40:38,040
+Cioè ti richiede comunque un approccio diverso ai computer, chiamiamolo così, rispetto
+
+623
+00:40:38,040 --> 00:40:42,200
+a quello che è il Mac, ma in generale un PC, con
+
+624
+00:40:42,200 --> 00:40:47,400
+una filosofia che ormai è 30 anni di età, e l'iPad comunque
+
+625
+00:40:47,400 --> 00:40:51,480
+ha solo dieci anni di sviluppo, e ancora tanti limiti che a
+
+626
+00:40:51,480 --> 00:40:58,600
+volte appunto richiedono escamotage per permetterti, diciamo, di superarli o di fare
+
+627
+00:40:58,600 --> 00:41:01,080
+cose diverse con strumenti diversi, insomma.
+
+628
+00:41:01,080 --> 00:41:04,280
+Vabbè, comunque adesso abbiamo perso un po' la tangente.
+
+629
+00:41:04,280 --> 00:41:04,920
+Ma no,
+
+630
+00:41:06,200 --> 00:41:08,280
+avete perfettamente ragione.
+
+631
+00:41:09,400 --> 00:41:13,960
+Ed è vero, ed è verissimo, è proprio così: i limiti è
+
+632
+00:41:13,960 --> 00:41:18,520
+ovvio che se uno strumento è acerbo o non può fare determinate
+
+633
+00:41:18,520 --> 00:41:22,920
+cose, però, ci sono certi flussi di lavoro magari consolidati, a cui
+
+634
+00:41:22,920 --> 00:41:27,240
+si abituati, che sembrano l'unico modo di fare le cose, quando ce
+
+635
+00:41:27,240 --> 00:41:33,400
+ne sono altri più rapidi, più attuali, più moderni, più efficienti.
+
+636
+00:41:33,400 --> 00:41:37,400
+Ma anche semplicemente diversi, perché poi il discorso è anche nel tuo
+
+637
+00:41:37,400 --> 00:41:37,960
+lavoro.
+
+638
+00:41:37,960 --> 00:41:41,560
+Alla fine tu hai scelto un certo settore, un certo modo di
+
+639
+00:41:41,560 --> 00:41:46,200
+fare il fotografo, ma tra potevi fare anche altre scelte.
+
+640
+00:41:46,200 --> 00:41:46,920
+Immagino
+
+641
+00:41:48,360 --> 00:41:53,720
+è ovvio che sono, nelle tue corde, diciamo, c'era questo approccio e
+
+642
+00:41:53,720 --> 00:41:58,760
+probabilmente poi lo svilupperai nel tempo come normale che sia, non fossilizzarsi
+
+643
+00:41:58,760 --> 00:41:59,480
+su una cosa.
+
+644
+00:41:59,480 --> 00:42:04,520
+Invece, per quanto riguarda la presentazione dei progetti ai clienti, immagino che
+
+645
+00:42:04,520 --> 00:42:08,120
+ci sarà anche qui qualcosa che avrai da raccontarci, perché è un
+
+646
+00:42:08,120 --> 00:42:11,080
+aspetto fondamentale del lavoro di ogni professionista.
+
+647
+00:42:11,080 --> 00:42:13,240
+Tu come lo affronti in questo caso?
+
+648
+00:42:13,240 --> 00:42:17,520
+Sì, allora, siamo arrivati a Capture One che per lo sviluppo, fino
+
+649
+00:42:17,520 --> 00:42:18,640
+allo sviluppo però.
+
+650
+00:42:18,640 --> 00:42:22,880
+Diciamo che c'è una parte intermedia in cui non voglio dilungarmi troppo,
+
+651
+00:42:22,880 --> 00:42:25,520
+ma che è veramente la parte di fotoritocco.
+
+652
+00:42:25,520 --> 00:42:29,920
+Perché mentre in Capture One diciamo che effettuo tutte le regolazioni anche
+
+653
+00:42:29,920 --> 00:42:34,320
+sui colori, sulle tonalità, sulle esposizioni, eccetera, ho bisogno poi di un
+
+654
+00:42:34,320 --> 00:42:40,160
+software di fotoritocco in determinate circostanze per andare a modificare dei punti
+
+655
+00:42:40,160 --> 00:42:45,040
+precisi dell'immagine, e anche qui invece di utilizzare Photoshop uso Affinity Foto
+
+656
+00:42:45,120 --> 00:42:50,800
+che è della suite prodotta da serie che nasce come alternativa a
+
+657
+00:42:50,800 --> 00:42:51,600
+Photoshop.
+
+658
+00:42:51,600 --> 00:42:57,120
+Si sviluppa anche essa con la formula di acquisto singolo e non
+
+659
+00:42:57,120 --> 00:43:02,400
+in abbonamento, tra l'altro, ha un prezzo veramente ridicolo per il programma
+
+660
+00:43:02,400 --> 00:43:06,560
+che ha e ha una serie di funzionalità veramente avanzate.
+
+661
+00:43:06,560 --> 00:43:12,640
+Alcune funzionalità che io usavo in Photoshop, ma che in Photoshop richiedono
+
+662
+00:43:12,640 --> 00:43:17,520
+più passaggi in Affinity sono più veloci da realizzare.
+
+663
+00:43:17,520 --> 00:43:24,400
+Quindi, occupando, sviluppando quasi dici al 90% le immagini in Capture One,
+
+664
+00:43:24,400 --> 00:43:29,600
+quello che mi offre Affinity è già per me abbondantemente soddisfacente e
+
+665
+00:43:29,760 --> 00:43:37,120
+sufficiente per realizzare i ritocchi finali all'immagine e avere poi l'immagine esportata
+
+666
+00:43:37,120 --> 00:43:41,280
+finita, immaginatevi che i due programmi si parlano tra di loro quindi
+
+667
+00:43:41,440 --> 00:43:45,280
+senza neanche uscire da Capture One, una volta che ho identificato l'immagine
+
+668
+00:43:45,280 --> 00:43:49,920
+che voglio elaborare e ritoccare, la modifico con Affinity.
+
+669
+00:43:49,920 --> 00:43:54,160
+Salvandola, me la ritrovo comunque già in Capture One nel mio catalogo
+
+670
+00:43:54,160 --> 00:43:56,560
+della mia sessione pronta per essere esportata.
+
+671
+00:43:56,560 --> 00:44:01,080
+Quindi, già questa cosa sembra una banalità, ma evita il passaggio per
+
+672
+00:44:01,080 --> 00:44:03,640
+cui da un software si esporta e poi si va a prendere
+
+673
+00:44:03,640 --> 00:44:06,840
+il file, lo si apre con un altro programma, poi lo si
+
+674
+00:44:06,840 --> 00:44:07,400
+risalva.
+
+675
+00:44:07,400 --> 00:44:09,720
+Quindi magari lo si rinomina in un modo diverso.
+
+676
+00:44:09,720 --> 00:44:14,360
+No, si rimane in Capture One con il catalogo di Capture One
+
+677
+00:44:14,360 --> 00:44:16,040
+fino al file finale.
+
+678
+00:44:16,040 --> 00:44:21,240
+Anche l'esportazione in Capture One permette mille modifiche e definizioni dal nome
+
+679
+00:44:21,240 --> 00:44:29,400
+del file, l'inserimento dell'autore, qualunque parametro e ovviamente qualunque parametro di risoluzione,
+
+680
+00:44:29,400 --> 00:44:34,520
+proporzione dell'immagine, compressione dell'immagine, spazio colore, tutto il resto.
+
+681
+00:44:34,520 --> 00:44:38,040
+E poi con un tasto si esportano le immagini che si scelgono
+
+682
+00:44:38,200 --> 00:44:42,520
+e questa che è un'operazione che chiede parecchia potenza di calcolo, proprio
+
+683
+00:44:42,520 --> 00:44:47,240
+da CPU con un MacBook Mac, con un M1, un MacBook Air,
+
+684
+00:44:47,240 --> 00:44:49,720
+è veramente fulminea.
+
+685
+00:44:49,720 --> 00:44:54,760
+C'è paragone, sarà a 5-6 volte più veloce di come lo faceva
+
+686
+00:44:54,760 --> 00:44:58,360
+un MacBook Pro del 2015, ma forse anche più veloce.
+
+687
+00:44:58,360 --> 00:45:04,040
+Infallibile tutti i file, i 1000 dei 1500 ro, magari i 100
+
+688
+00:45:04,040 --> 00:45:09,560
+selezionati per una prima preview vengono esportati in 3 minuti.
+
+689
+00:45:10,200 --> 00:45:13,800
+Vi assicuro che anche meno di tre minuti comunque nell'ordine dei pochi
+
+690
+00:45:14,120 --> 00:45:19,000
+per presentare al cliente, a questo punto subentra nel mio flusso di
+
+691
+00:45:19,000 --> 00:45:24,040
+lavoro una piattaforma che esiste, che è una piattaforma online che si
+
+692
+00:45:24,040 --> 00:45:28,280
+chiama Pro di B, che è abbastanza sconosciuta, ma in realtà è
+
+693
+00:45:28,280 --> 00:45:32,920
+veramente potentissima, che permette di caricare le foto.
+
+694
+00:45:32,920 --> 00:45:34,520
+Ovviamente, ci sono vari piani.
+
+695
+00:45:34,520 --> 00:45:38,680
+Da un piano totalmente gratuito che ha un limite di qualche giga,
+
+696
+00:45:38,680 --> 00:45:42,680
+porta al watermark del Pro di B, a dei piani in abbonamento
+
+697
+00:45:42,680 --> 00:45:43,480
+a scalare.
+
+698
+00:45:43,800 --> 00:45:44,920
+Ecco, questo per lavoro.
+
+699
+00:45:45,280 --> 00:45:51,280
+Per scelta è l'unica piattaforma in cui nel flusso lavorativo utilizzo su
+
+700
+00:45:51,280 --> 00:45:56,160
+base abbonamento, perché dà veramente tanti vantaggi che non ho trovato nessun'altra
+
+701
+00:45:56,160 --> 00:45:56,880
+alternativa.
+
+702
+00:45:56,880 --> 00:46:01,120
+In pratica, io carico sul portale un apposito album che mi creo
+
+703
+00:46:01,120 --> 00:46:03,840
+ad hoc le foto di quel progetto.
+
+704
+00:46:03,840 --> 00:46:08,240
+Tra parentesi, c'è anche un plugin che probabilmente deve essere aggiornato.
+
+705
+00:46:08,240 --> 00:46:12,880
+Che da Capture One permette direttamente, senza neanche accedere al portale, al
+
+706
+00:46:12,880 --> 00:46:18,480
+sito, al browser, permette direttamente il caricamento sulla piattaforma.
+
+707
+00:46:18,480 --> 00:46:22,720
+E su questa piattaforma io ritrovo il mio album con le foto
+
+708
+00:46:22,720 --> 00:46:28,000
+a piena risoluzione, con dei limiti, ma addirittura di 3 gigapixel, quindi
+
+709
+00:46:28,480 --> 00:46:32,880
+non ha limiti dimensionali, praticamente possono essere caricati dei collage fatti con
+
+710
+00:46:32,880 --> 00:46:33,680
+più foto.
+
+711
+00:46:33,680 --> 00:46:39,360
+Ma insomma, con un link che do al cliente, il cliente vede
+
+712
+00:46:39,360 --> 00:46:40,720
+il suo album.
+
+713
+00:46:40,720 --> 00:46:45,600
+Poi, a seconda della mia scelta del momento in cui sono del
+
+714
+00:46:45,600 --> 00:46:49,360
+lavoro, se il lavoro è concluso, quindi il cliente che ha già
+
+715
+00:46:49,360 --> 00:46:53,440
+pagato può scaricare le foto, possa attivare il download o meno, se
+
+716
+00:46:53,600 --> 00:46:58,000
+attivo il download, lui può scaricarsi le foto in piena risoluzione dal
+
+717
+00:46:58,000 --> 00:46:58,720
+suo album.
+
+718
+00:46:58,720 --> 00:47:03,200
+Quindi, senza il bisogno di caricare su WeTransfer, mandare il link.
+
+719
+00:47:03,520 --> 00:47:08,000
+Poi se la versione di WeTransfer il link scade, il cliente non
+
+720
+00:47:08,000 --> 00:47:10,400
+ha scaricato le foto, vanno ricaricate.
+
+721
+00:47:10,400 --> 00:47:14,720
+E questa piattaforma ha un enorme vantaggio, che è questo.
+
+722
+00:47:14,720 --> 00:47:20,160
+Nella visualizzazione è rapidissima, permette di caricare le foto con una modalità
+
+723
+00:47:20,160 --> 00:47:25,680
+provino, ovvero in cui un album ha la possibilità da parte del
+
+724
+00:47:25,680 --> 00:47:30,000
+cliente di selezionare delle foto e io vedo quali ha selezionato.
+
+725
+00:47:30,520 --> 00:47:34,680
+Poi la cosa ancora più bella è che questi album possono essere
+
+726
+00:47:34,840 --> 00:47:39,880
+integrati tramite una stringa di codice che dà il programma all'interno delle
+
+727
+00:47:39,880 --> 00:47:41,800
+pagine dei miei siti.
+
+728
+00:47:42,040 --> 00:47:46,040
+Quindi posso farmi la pagina all'interno del mio sito dedicata a un
+
+729
+00:47:46,040 --> 00:47:51,080
+cliente con il suo album ed è una cosa che effettivamente si
+
+730
+00:47:51,080 --> 00:47:55,480
+è rivelata molto molto utile, un servizio per il quale direi che
+
+731
+00:47:55,480 --> 00:47:59,640
+l'abbonamento è un costo più che accettabile.
+
+732
+00:47:59,640 --> 00:48:04,840
+Si vede le proprie immagini zoomando, senza e io stesso nel mio
+
+733
+00:48:04,840 --> 00:48:11,080
+sito, anche quando ho le gallerie Porflio, utilizzo molto spesso le gallerie
+
+734
+00:48:11,080 --> 00:48:15,400
+fatte così perché effettivamente non danno alcun tipo di problema di compatibilità.
+
+735
+00:48:15,400 --> 00:48:19,400
+Telefono, iPad, smartphone, computer.
+
+736
+00:48:19,400 --> 00:48:25,640
+E qui si conclude un po' il workflow dall'acquisizione alla consegna dei
+
+737
+00:48:25,640 --> 00:48:26,120
+file.
+
+738
+00:48:26,120 --> 00:48:31,000
+Faccio ancora una parentesi prima di farti i ringraziamenti per averci condiviso
+
+739
+00:48:31,000 --> 00:48:35,240
+il tuo workflow e appunto il pricing di questo servizio che non
+
+740
+00:48:35,240 --> 00:48:35,960
+conoscevo.
+
+741
+00:48:35,960 --> 00:48:40,920
+Appunto, come dicevi, c'è un piano libero da 100 foto essenzialmente JPEG
+
+742
+00:48:41,160 --> 00:48:44,440
+ed è libero per sempre, nel senso che voi vi iscrivete, rimane
+
+743
+00:48:44,520 --> 00:48:45,400
+libero per sempre.
+
+744
+00:48:45,400 --> 00:48:51,640
+Conseguentemente potete fare gli upgrade che passano da circa 5 dollari al
+
+745
+00:48:51,640 --> 00:48:57,400
+mese fino ad arrivare al più grosso, che costa 25 dollari al
+
+746
+00:48:57,400 --> 00:48:58,040
+mese.
+
+747
+00:48:58,040 --> 00:48:59,240
+Tu su quale sei?
+
+748
+00:48:59,240 --> 00:49:02,120
+Sul starter standard o Ultimate?
+
+749
+00:49:02,280 --> 00:49:03,640
+Solo quello standard.
+
+750
+00:49:03,640 --> 00:49:07,640
+Ok, che è la B di mezzo che costa circa 11 dollari
+
+751
+00:49:07,640 --> 00:49:08,680
+essenzialmente.
+
+752
+00:49:08,680 --> 00:49:13,240
+Appunto, perché ha una serie di 15.000 foto che non sono proprio
+
+753
+00:49:13,240 --> 00:49:18,560
+pochine, a piena risoluzione e quindi direi che è assolutamente valido come
+
+754
+00:49:14,920 --> 00:49:18,960
+servizio.
+
+755
+00:49:19,040 --> 00:49:25,520
+Perché voi considerate che con 150 euro circa l'anno ve la cavate
+
+756
+00:49:25,520 --> 00:49:29,120
+e avete la possibilità di far vedere oltre a far vedere le
+
+757
+00:49:29,120 --> 00:49:32,480
+fotografie ai vostri clienti, avete anche la possibilità di far vedere quelle
+
+758
+00:49:32,480 --> 00:49:39,760
+fotografie senza fare upload sul proprio sito e quindi diventa doppi vantaggioso.
+
+759
+00:49:39,760 --> 00:49:42,400
+Bel servizio e complimenti Lorenzo, grazie.
+
+760
+00:49:42,400 --> 00:49:46,800
+Che si può fare anche ovviamente nella versione free, quindi provatela.
+
+761
+00:49:47,120 --> 00:49:50,960
+L'unica cosa è che le versioni a pagamento ovviamente tolgono qualunque riferimento
+
+762
+00:49:50,960 --> 00:49:56,320
+alla piattaforma, per cui l'utente non vede che è una piattaforma esterna,
+
+763
+00:49:56,320 --> 00:49:59,520
+percepisce tutto perfettamente integrato nel sito.
+
+764
+00:49:59,520 --> 00:50:03,920
+Quindi a livello professionale, diciamo che la soluzione migliore e più pulita
+
+765
+00:50:03,920 --> 00:50:04,880
+e elegante.
+
+766
+00:50:05,040 --> 00:50:08,080
+Lorenzo e ti faccio un'altra domanda, perché non so se ho capito
+
+767
+00:50:08,080 --> 00:50:14,000
+male nella nostra precedente chiacchierata, ma addirittura questo sito blocca, diciamo, lo
+
+768
+00:50:14,000 --> 00:50:19,120
+scaricamento, chiamiamolo così, delle foto fino a che, diciamo, la posizione non
+
+769
+00:50:19,120 --> 00:50:20,640
+è chiusa, se ho capito bene.
+
+770
+00:50:20,880 --> 00:50:23,360
+Esattamente, ti fa vedere.
+
+771
+00:50:23,360 --> 00:50:26,560
+È un bellissimo strumento perché permette.
+
+772
+00:50:26,560 --> 00:50:28,720
+Perché in alternativa cosa si può fare?
+
+773
+00:50:28,720 --> 00:50:33,600
+Si può mettere il watermark, mandare le fotografie a bassa risoluzione, però
+
+774
+00:50:33,600 --> 00:50:38,320
+a bassa risoluzione, magari un cliente vuole vedere anche com'è la fotografia
+
+775
+00:50:38,320 --> 00:50:39,360
+ad alta risoluzione.
+
+776
+00:50:39,360 --> 00:50:43,200
+Questo strumento diciamo che bypassa questa serie di problemi e fa risparmiare
+
+777
+00:50:43,200 --> 00:50:44,000
+un sacco di tempo.
+
+778
+00:50:44,000 --> 00:50:46,080
+Perché le foto sono ad alta risoluzione.
+
+779
+00:50:46,080 --> 00:50:51,120
+Cliccando si possono zoomare veramente fino a vedere il pixel, però non
+
+780
+00:50:51,120 --> 00:50:52,480
+si possono scaricare.
+
+781
+00:50:52,480 --> 00:50:58,560
+Quindi, a meno di cose complicate che adesso da parte dell'utente non
+
+782
+00:50:58,560 --> 00:51:01,720
+possono essere scaricate, non possono essere utilizzate.
+
+783
+00:51:02,120 --> 00:51:06,040
+Quindi è proprio uno strumento professionale anche utile per garantire il tuo
+
+784
+00:51:06,040 --> 00:51:09,560
+lavoro tra virgolette, perché poi giustamente una volta che tu hai fatto
+
+785
+00:51:09,560 --> 00:51:14,520
+le foto, chi ha le foto potrebbe anche, dico scappare a gambe
+
+786
+00:51:14,520 --> 00:51:15,880
+levate, ma comunque
+
+787
+00:51:17,160 --> 00:51:18,760
+l'approccio d'avvocato.
+
+788
+00:51:18,760 --> 00:51:23,400
+No, devo dire che fino ad oggi queste problematiche non si sono
+
+789
+00:51:23,400 --> 00:51:24,440
+mai verificate.
+
+790
+00:51:24,440 --> 00:51:28,760
+Quindi è bello sapere di avere uno strumento che mi tutela, ma
+
+791
+00:51:28,760 --> 00:51:32,440
+fortunatamente non sono mai dovuto ricorrere.
+
+792
+00:51:32,440 --> 00:51:37,480
+Tuttavia, certo, permette anche di avere un flusso completo che comprende anche,
+
+793
+00:51:37,480 --> 00:51:42,440
+che coinvolge anche la parte contrattuale e di consegna del file.
+
+794
+00:51:42,440 --> 00:51:47,640
+Quindi, veramente sono molto soddisfatto di questo flusso che ho messo a
+
+795
+00:51:47,640 --> 00:51:52,040
+punto, che come me l'avranno messo appunto in tanti altri.
+
+796
+00:51:52,040 --> 00:51:56,280
+Tuttavia diciamo che già la scelta di evitare adobe per non avere
+
+797
+00:51:56,520 --> 00:52:00,920
+piattaforme, ma soprattutto non avere piattaforme in abbonamento, ma soprattutto
+
+798
+00:52:02,120 --> 00:52:05,320
+non è mai un confronto mio, perché Photoshop è lo standard e
+
+799
+00:52:05,320 --> 00:52:11,640
+sono sicuro che Photoshop sia oggi per certi aspetti più potente, però
+
+800
+00:52:11,800 --> 00:52:17,800
+adobe si porta come al solito dietro una serie di programmi, plugin,
+
+801
+00:52:17,960 --> 00:52:20,600
+programma per accedere al Creative Cloud.
+
+802
+00:52:20,920 --> 00:52:26,200
+Se c'è un'alternativa snella come Affinity, che l'app store si scarica e
+
+803
+00:52:26,200 --> 00:52:32,520
+basta, e funziona, per me, è il massimo, anche perché poi alla
+
+804
+00:52:32,520 --> 00:52:38,120
+fine è l'importante è farlo il lavoro, non preparare tutta la parte
+
+805
+00:52:38,120 --> 00:52:41,560
+iniziale di scarica a giorno e così via.
+
+806
+00:52:41,560 --> 00:52:44,920
+Sì, poi ci sono io che faccio il dissing come sempre.
+
+807
+00:52:45,120 --> 00:52:49,520
+Adobe dovrebbe iniziare a pensare a fare in modo di restringere un
+
+808
+00:52:49,520 --> 00:52:51,040
+po' le sue applicazioni, perché
+
+809
+00:52:52,160 --> 00:52:57,760
+non è possibile che l'acrobata reader che deve solo visualizzare dei PDF,
+
+810
+00:52:57,760 --> 00:53:01,040
+siano 5 e mezzo giga sull'hard disk.
+
+811
+00:53:01,040 --> 00:53:02,240
+Che cosa deve fare?
+
+812
+00:53:02,240 --> 00:53:03,280
+Punto interrogativo.
+
+813
+00:53:03,440 --> 00:53:08,160
+Photoshop siamo intorno ai 2 giga 3, se non ricordo male, viaggi
+
+814
+00:53:08,160 --> 00:53:09,520
+intorno a quella cifra.
+
+815
+00:53:09,520 --> 00:53:13,120
+Adesso non mi ricordo bene Affinity, ma penso che sia oltre la
+
+816
+00:53:13,120 --> 00:53:14,720
+metà, meno della metà.
+
+817
+00:53:14,720 --> 00:53:18,640
+E quindi c'è proprio una filosofia dietro diversa, anche perché comunque c'è
+
+818
+00:53:18,640 --> 00:53:21,600
+da dire, dal punto di vista della programmazione, come ci aveva detto
+
+819
+00:53:21,600 --> 00:53:25,600
+Alex nella scorsa puntata che abbiamo fatto insieme, ci ha raccontato che
+
+820
+00:53:25,600 --> 00:53:30,480
+comunque grossi problemi derivano dalla storia del software, perché ha tutta una
+
+821
+00:53:30,480 --> 00:53:34,080
+serie di librerie da portarsi dietro perché deve essere compatibile con se
+
+822
+00:53:34,080 --> 00:53:38,160
+stessa e conseguentemente diventa sempre più grande a colpa di questo.
+
+823
+00:53:38,160 --> 00:53:42,240
+Invece Affinity, che è nata dopo, ha un approccio molto diverso, tant'è
+
+824
+00:53:42,240 --> 00:53:43,680
+che è talmente diverso.
+
+825
+00:53:43,680 --> 00:53:47,360
+Per esempio io ho comprato Affinity Photo per iPad e devo dire
+
+826
+00:53:47,360 --> 00:53:51,600
+che arrivando dalla scuola di Photoshop certe volte mi trovo spiazzato che
+
+827
+00:53:51,600 --> 00:53:54,560
+non riesco neanche io dove trovare come fare le cose perché appunto
+
+828
+00:53:54,560 --> 00:54:01,280
+ho questo imprinting di Adobe per quanto possa essere malvagia, tra virgolette,
+
+829
+00:54:01,600 --> 00:54:04,000
+nel suo lavorare in questo modo.
+
+830
+00:54:04,000 --> 00:54:09,120
+Comunque è uno standard di mercato e anche alla facoltà di architettura
+
+831
+00:54:09,120 --> 00:54:13,600
+per fare i fotoritocchi mi hanno insegnato Photoshop e io quell'imprinting e
+
+832
+00:54:13,600 --> 00:54:18,640
+mi danno un programma nuovo funzionale, potente come quelli di Affinity ti
+
+833
+00:54:18,640 --> 00:54:22,800
+trovi un po' spiazzato perché ragiona in un altro modo che tendenzialmente
+
+834
+00:54:22,800 --> 00:54:26,720
+è anche meglio perché è probabilmente più veloce come ci diceva Lorenzo.
+
+835
+00:54:26,720 --> 00:54:29,120
+Però in effetti è una
+
+836
+00:54:30,280 --> 00:54:33,960
+vecchi paradigmi che forse bisogna iniziare anche un po' a avere il
+
+837
+00:54:33,960 --> 00:54:38,440
+coraggio come ha avuto Lorenzo di abbandonare verso il nuovo per puntare
+
+838
+00:54:38,440 --> 00:54:42,920
+a avere quella dutilità mentale di riuscire a mettere in campo strumenti
+
+839
+00:54:42,920 --> 00:54:45,560
+nuovi e più snelli, più veloci.
+
+840
+00:54:46,200 --> 00:54:49,560
+L'esempio di Lorenzo è decisamente calzante in questo caso.
+
+841
+00:54:49,560 --> 00:54:55,640
+Affinity Photo ti aggiorno che pesa, stavo controllando adesso 2,65 GB.
+
+842
+00:54:55,640 --> 00:54:58,680
+Ah no, quindi come Photoshop mi ricordavo male.
+
+843
+00:54:59,240 --> 00:55:04,200
+Io non sapevo come fosse Photoshop perché non ce l'ho installato.
+
+844
+00:55:04,200 --> 00:55:06,760
+Tuttavia, effettivamente è comunque un software leggero.
+
+845
+00:55:06,760 --> 00:55:12,040
+Adesso non demonizziamo Photoshop, è vero che si porta dietro una storia
+
+846
+00:55:12,040 --> 00:55:13,640
+nel bene e nel male.
+
+847
+00:55:14,280 --> 00:55:18,600
+Se vogliamo fare un parallelismo, c'è un noto software nel campo della
+
+848
+00:55:18,600 --> 00:55:20,040
+progettazione, che
+
+849
+00:55:21,960 --> 00:55:27,800
+è un po' elefantesco come Photoshop pur facendo di fatto poca roba,
+
+850
+00:55:28,040 --> 00:55:30,440
+però, non tocchiamo questo tasto.
+
+851
+00:55:30,440 --> 00:55:34,440
+Non è questo il campo, ne parleremo su Snap, non ti preoccupare.
+
+852
+00:55:35,480 --> 00:55:39,240
+Allora, io direi che a questo punto abbiamo fatto la nostra solita
+
+853
+00:55:39,240 --> 00:55:44,360
+oretta di chiacchiere e quindi ormai lo retarda tra virgolette, Lorenzo, come
+
+854
+00:55:44,360 --> 00:55:49,000
+noi, a bambina famiglia, come si suol dire, e quindi è giusto
+
+855
+00:55:49,000 --> 00:55:54,760
+anche liberarlo e ringraziarlo, ovviamente per tutte queste informazioni che ci ha
+
+856
+00:55:54,760 --> 00:56:00,680
+dato e anche per un mondo nuovo, o meglio, diverso da quello
+
+857
+00:56:00,680 --> 00:56:05,160
+standard, di approcciarsi anche a una professione come quella del fotografo, che,
+
+858
+00:56:05,160 --> 00:56:10,040
+come tutte poi le professioni recentemente, ormai passa in maniera si lavora
+
+859
+00:56:10,280 --> 00:56:12,520
+esclusivamente in maniera informatica.
+
+860
+00:56:12,680 --> 00:56:17,440
+Non credo che so, qualche fotografo che ancora sviluppa forse c'è, però
+
+861
+00:56:17,600 --> 00:56:23,600
+diciamo che ormai la parte commerciale credo che sia prevalentemente informatica, cioè
+
+862
+00:56:23,760 --> 00:56:27,680
+è tutta digitale, diciamo, o mi sbaglio, perché poi io non essendo
+
+863
+00:56:27,680 --> 00:56:34,880
+del mestiere, guarda, la fotografia commerciale al 99% è fatta digitalmente, c'è
+
+864
+00:56:34,880 --> 00:56:41,040
+una tendenza molto forte, una controtendenza, se lo vedete su Instagram facilmente,
+
+865
+00:56:41,360 --> 00:56:46,720
+di recupero della pellicola, ma è un tema molto spinoso questo.
+
+866
+00:56:46,720 --> 00:56:52,880
+Tuttavia che è veramente una controtendenza per cercare di legittimare di nuovo
+
+867
+00:56:53,200 --> 00:56:59,840
+un aspetto creativo della fotografia che oggi, effettivamente, e a mio avviso,
+
+868
+00:56:59,840 --> 00:57:04,880
+per fortuna, essendosi ridotte moltissimo le barriere di ingresso, è alla portata
+
+869
+00:57:04,880 --> 00:57:06,080
+di tutti.
+
+870
+00:57:06,080 --> 00:57:11,600
+Quindi, questo dovrebbe comunque essere un punto a favore e non visto
+
+871
+00:57:11,600 --> 00:57:12,560
+come una minaccia.
+
+872
+00:57:12,640 --> 00:57:16,160
+Cioè, è vero, il lavoro del fotografo, probabilmente rispetto a dieci anni
+
+873
+00:57:16,160 --> 00:57:19,600
+fa, anche solo dieci anni fa, ma sicuramente vent'anni fa, è molto
+
+874
+00:57:19,600 --> 00:57:20,400
+diverso.
+
+875
+00:57:20,400 --> 00:57:24,240
+Io non c'ero, non ero in quel campo vent'anni fa, neanche dieci
+
+876
+00:57:24,240 --> 00:57:24,720
+anni fa.
+
+877
+00:57:24,720 --> 00:57:30,080
+Quindi, per me il lavoro del fotografo oggi è questo: avere un
+
+878
+00:57:30,080 --> 00:57:36,000
+sistema dalle macchine fotografiche al computer che non mi tolga il tempo
+
+879
+00:57:36,000 --> 00:57:42,160
+alla fotografia, intesa come gesto e atto di catturare la luce, fotografare
+
+880
+00:57:42,160 --> 00:57:46,480
+e parlare, dire qualcosa è solo un vantaggio.
+
+881
+00:57:46,800 --> 00:57:49,040
+Permettere di concentrarmi su quello.
+
+882
+00:57:49,040 --> 00:57:57,440
+Evviva gli strumenti nuovi, contemporanei, non nostalgici, perché non abbiamo bisogno sempre
+
+883
+00:57:57,440 --> 00:58:00,840
+di trovare la salvezza nel passato.
+
+884
+00:58:01,080 --> 00:58:06,200
+Sapete bene che l'iPad prossimamente
+
+885
+00:58:07,320 --> 00:58:12,360
+potrà diventare la sua anche in questo campo in modo come lo
+
+886
+00:58:12,360 --> 00:58:15,640
+sto già facendo, ma lo potrà fare ancora di più.
+
+887
+00:58:17,400 --> 00:58:19,960
+Confermo e sottoscrivo confermo e sottoscrivo.
+
+888
+00:58:19,960 --> 00:58:25,080
+Tant'è che io per i miei figli li sto più indirizzando sull'iPad
+
+889
+00:58:25,080 --> 00:58:30,600
+che sul computer, nel senso che li preferisco vedere in questo momento
+
+890
+00:58:30,840 --> 00:58:33,720
+per come vedo il futuro piuttosto che li vedo con un iPad
+
+891
+00:58:33,720 --> 00:58:37,480
+con tastiere mouse piuttosto che su un computer perché è proprio come
+
+892
+00:58:37,480 --> 00:58:41,800
+diceva Filippo: il paradigma è diverso per me, che sono a cavallo
+
+893
+00:58:42,280 --> 00:58:44,520
+questi due paradigmi faccio ancora un po' fatica.
+
+894
+00:58:44,520 --> 00:58:45,480
+Sei un anziano.
+
+895
+00:58:45,480 --> 00:58:49,960
+Vedo che loro affrontano, beh, sì, lo so, sono un anziano.
+
+896
+00:58:50,200 --> 00:58:54,840
+Purtroppo me lo dicono tutti, e hanno anche ragione, aggiungo.
+
+897
+00:58:54,840 --> 00:58:59,160
+Tuttavia vedo che, per esempio, per loro è naturale approcciare il mondo
+
+898
+00:58:59,160 --> 00:59:01,160
+in questo modo nuovo.
+
+899
+00:59:01,480 --> 00:59:06,760
+Con il bene e il male, perché ovviamente certe cose noi diciamo
+
+900
+00:59:06,920 --> 00:59:10,040
+vecchietti li vediamo, loro no, ma è giusto che sia così.
+
+901
+00:59:10,440 --> 00:59:16,440
+Io voto favorevole nel senso che vedo l'iPad, soprattutto con gli aggiornamenti
+
+902
+00:59:16,440 --> 00:59:20,120
+che sono stati fatti recentemente, soprattutto con l'iPadOS, bisogna dire che
+
+903
+00:59:20,120 --> 00:59:23,560
+gli ha dato un bel cambio di paradigma, nel senso che prima
+
+904
+00:59:23,560 --> 00:59:27,240
+era in effetti uno strumento fine a se stesso essenzialmente.
+
+905
+00:59:27,240 --> 00:59:32,440
+Adesso è decisamente più vicino a un computer, nonché devo aggiungere che
+
+906
+00:59:32,440 --> 00:59:35,480
+in questa fase storica per me non è ancora uno sostituto del
+
+907
+00:59:35,480 --> 00:59:38,520
+computer, non lo potrà ancora essere, per il semplice fatto che strumenti
+
+908
+00:59:38,520 --> 00:59:42,360
+di progettazione avanzata come il VIM non ci sono e quindi non
+
+909
+00:59:42,360 --> 00:59:45,000
+potrà mai essere un sostituto per me per adesso.
+
+910
+00:59:45,040 --> 00:59:50,560
+Io mi auguro, francamente, che a breve termine si possa usare l'iPad
+
+911
+00:59:50,720 --> 00:59:54,080
+come strumento di progettazione, sarebbe già un bel passo in avanti.
+
+912
+00:59:54,240 --> 01:00:00,240
+Adesso siamo, tra virgolette, fermi il CAD, ma il futuro è eroso,
+
+913
+01:00:00,240 --> 01:00:02,080
+secondo me, perché questo qui è la strada.
+
+914
+01:00:02,080 --> 01:00:05,760
+Sì, sì, io sono d'accordo con il tuo punto di vista, ma
+
+915
+01:00:05,920 --> 01:00:09,840
+Roberto con i titoli di coda, come si suol dire, ok.
+
+916
+01:00:10,320 --> 01:00:15,440
+Allora, Lorenzo, se vuoi aggiungere qualcosa e salutare i nostri ascoltatori.
+
+917
+01:00:15,440 --> 01:00:16,720
+Hai il tuo momento.
+
+918
+01:00:16,880 --> 01:00:18,720
+Vai tranquillo, saluta tutti quanti.
+
+919
+01:00:18,720 --> 01:00:23,200
+Saluto prima di tutto voi perché siete stati super ospitali, mi avete
+
+920
+01:00:23,200 --> 01:00:25,920
+fatto fare questa chiacchierata in modo piacevole.
+
+921
+01:00:25,920 --> 01:00:31,120
+Io spero di non essere stato troppo noioso con raccontandovi i dettagli
+
+922
+01:00:31,360 --> 01:00:35,120
+di quello che faccio, ma spero di aver dato qualche spunto a
+
+923
+01:00:35,120 --> 01:00:35,440
+chi
+
+924
+01:00:36,480 --> 01:00:42,000
+vuole fare il fotografo o semplicemente vuole divertirsi, fare fotografie e gestirle
+
+925
+01:00:42,000 --> 01:00:43,360
+in un certo modo.
+
+926
+01:00:43,840 --> 01:00:47,040
+La filosofia, la mia filosofia, che per certi aspetti è un po'
+
+927
+01:00:47,040 --> 01:00:50,880
+integralista perché mi piace spingere un po' il limite, però credo che
+
+928
+01:00:50,880 --> 01:00:54,960
+sia stata capita da voi e condivisa in parte questo mi fa
+
+929
+01:00:54,960 --> 01:00:59,520
+piacere e sicuramente voi con il vostro programma, con i vostri ospiti,
+
+930
+01:00:59,520 --> 01:01:04,480
+date sempre una serie di stimoli e di spunti che personalmente trovo
+
+931
+01:01:04,800 --> 01:01:07,680
+molto utili a migliorare
+
+932
+01:01:08,800 --> 01:01:16,240
+a perfezionare un approccio alla tecnologia prendendola da diversi punti di vista.
+
+933
+01:01:16,240 --> 01:01:20,320
+Quindi è stato un piacere, un onore essere qui con voi e
+
+934
+01:01:20,320 --> 01:01:22,680
+grazie, continuate così.
+
+935
+01:01:22,840 --> 01:01:24,080
+E buon lavoro!
+
+936
+01:01:24,080 --> 01:01:25,520
+Il piacere e l'onore.
+
+937
+01:01:25,520 --> 01:01:28,880
+Certo, il piacere e l'onore è davvero tutto nostro.
+
+938
+01:01:29,360 --> 01:01:32,760
+Ti ringraziamo di cuore, sia da parte mia che da parte Filippo,
+
+939
+01:01:29,920 --> 01:01:34,920
+per le parole che hai speso nei nostri confronti.
+
+940
+01:01:35,160 --> 01:01:40,200
+Siamo davvero fortunati a avli ascoltatori come te che apprezzano il nostro
+
+941
+01:01:40,200 --> 01:01:40,840
+lavoro.
+
+942
+01:01:40,840 --> 01:01:42,840
+Davvero, grazie Lorenzo.
+
+943
+01:01:43,080 --> 01:01:47,240
+Adesso andiamo dritti verso la fine della puntata.
+
+944
+01:01:47,240 --> 01:01:51,560
+Troverete nelle note dell'episodio tutti i link degli argomenti trattati in questa
+
+945
+01:01:51,560 --> 01:01:53,400
+splendida puntata con Lorenzo.
+
+946
+01:01:53,400 --> 01:01:58,120
+Soprattutto troverete anche il modo di vedere quello che fa Lorenzo, perché
+
+947
+01:01:58,280 --> 01:02:03,160
+troverete il link per Your Story direttamente sul loro sito internet.
+
+948
+01:02:03,160 --> 01:02:08,280
+Poi troverete anche la pagina ufficiale, chiamiamola così, di Lorenzo Morandi e
+
+949
+01:02:08,280 --> 01:02:13,000
+poi soprattutto i suoi due profili Instagram, uno dedicato a Lorenzo, il
+
+950
+01:02:13,000 --> 01:02:16,280
+suo personale, e poi invece quello dedicato a Your Story.
+
+951
+01:02:16,280 --> 01:02:20,200
+Per quanto riguarda tutti i riferimenti, li potete trovare al link a
+
+952
+01:02:20,200 --> 01:02:27,480
+due podcast.it27 che è la puntata che state ascoltando e va addirittura
+
+953
+01:02:27,480 --> 01:02:28,200
+d'arrivo.
+
+954
+01:02:28,200 --> 01:02:31,880
+Per quanto mi riguarda, mi potete trovare sul mio blog personale che
+
+955
+01:02:31,880 --> 01:02:33,800
+si chiama Mac Architettura.
+
+956
+01:02:33,960 --> 01:02:38,120
+Potete trovare all'indirizzo martonet.wordpress.com.
+
+957
+01:02:38,120 --> 01:02:39,480
+Sono anche il titolare
+
+958
+01:02:40,520 --> 01:02:43,240
+del podcast Snap Architettura Imperfetta.
+
+959
+01:02:43,240 --> 01:02:46,920
+Che parla di quei poveri architetti che hanno a che fare con
+
+960
+01:02:46,920 --> 01:02:48,280
+l'informatica.
+
+961
+01:02:48,280 --> 01:02:53,800
+Mi trovate anche sul blog ufficiale di Grafisoft Italia in cui si
+
+962
+01:02:53,800 --> 01:02:58,120
+parla di BIM e di Archicav e invece il nostro simpatico Filippo.
+
+963
+01:02:58,120 --> 01:02:59,080
+Dove lo troviamo?
+
+964
+01:02:59,080 --> 01:03:02,440
+Avocatemec.it chiaro, sintetico, esplicativo.
+
+965
+01:03:02,440 --> 01:03:04,040
+Ci sentiamo tra due settimane.

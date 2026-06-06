@@ -11,7 +11,7 @@ tags = ["ipad", "apple-pencil", "note", "produttivita", "apple"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "P2PPuJGBCI0"
 +++
 

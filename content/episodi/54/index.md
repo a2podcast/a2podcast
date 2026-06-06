@@ -11,7 +11,7 @@ tags = ["app", "apple", "ospite", "produttivita", "brainstorming"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "H0QbmnCYzKE"
   guest = "lucio-bragagnolo"
 +++
@@ -19,7 +19,7 @@ draft = false
 In questa puntata Roberto e Filippo, assieme all’amico Lucio Bragagnolo, ti racconteranno la loro esperienza con Freeform. 
 Freeform è uno spazio flessibile in cui riunire tutti gli elementi, come foto, forme, appunti e altro, e visualizzare rapidamente i concetti.
 
-# Note episodio
+## Note episodio
 
 ## Cosa abbiamo fatto?
 

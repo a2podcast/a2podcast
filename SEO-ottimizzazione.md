@@ -107,6 +107,38 @@ Documento cronologico degli interventi SEO sul sito a2podcast.it.
 
 ---
 
+## Fase 5 — Giugno 2026 (warning GSC "noindex" + indicizzazione)
+
+Avviato dal warning Google Search Console *"Esclusa in base al tag noindex"*. Diagnosi sui dati reali
+della proprietà `a2podcast.it`: 156 pagine indicizzate, 200 no. Cause individuate e risolte:
+
+### Sitemap senza pagine tassonomia
+- Le pagine `/tags/*` hanno `noindex` (corretto) ma erano incluse nella sitemap → contraddizione = warning.
+- Creato `layouts/sitemap.xml` custom che esclude i Kind `taxonomy`/`term`. Le pagine tag restano
+  `noindex` ma non vengono più proposte a Google. 0 URL tag in sitemap, 92 URL reali.
+
+### Trascrizioni inline su 76 episodi (era 10) — fix "Rilevata ma non indicizzata"
+- Causa principale dei ~139 episodi non indicizzati: corpo "thin" (21–126 parole).
+- Caricati gli SRT (76/77) e ri-eseguito `ingest.py`: `hasTranscript=true` su 76 episodi →
+  `transcript-inline.html` inietta il testo nel DOM (indicizzabile). Es. ep. 70: da 68 a ~17.000 parole.
+
+### VideoObject schema completo — fix "video non su pagina di visualizzazione" (18 video)
+- `schema-episode.html`: aggiunti i campi obbligatori Google al `VideoObject` (`name`, `description`,
+  `thumbnailUrl` da `i.ytimg.com`, `uploadDate`, `contentUrl`). Vale per i 73 episodi con `youtubeId`.
+
+### Un solo H1 per pagina (era doppio su ~30 episodi)
+- `ingest.py` (`clean_body`) ora declassa gli `# ` residui del corpo a `## `: la pagina ha un solo H1
+  (titolo episodio dal template). Fix centralizzato e permanente.
+
+### Link interni: vecchio dominio fireside.fm → a2podcast.it
+- Corretti 16 link `a2podcast.fireside.fm/NN` → `a2podcast.it/NN/` nei file note sorgente (11 file).
+
+### Da fare lato utente
+- **Cloudflare**: redirect 301 `www.a2podcast.it` → `a2podcast.it` (oggi entrambi rispondono 200).
+- **GSC**: *Convalida correzione* sui report noindex e video dopo il deploy.
+
+---
+
 ## Cosa è stato valutato e scartato
 
 | Intervento | Motivo del no |

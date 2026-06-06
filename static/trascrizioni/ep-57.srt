@@ -1,0 +1,4363 @@
+1
+00:00:00,000 --> 00:00:04,160
+Benvenuti all'episodio 57 di A2, in cui potete scoprire come ottenere il
+
+2
+00:00:04,160 --> 00:00:06,160
+massimo dalla vostra tecnologia Apple.
+
+3
+00:00:06,160 --> 00:00:10,240
+Io sono Roberto Marin e sono il vostro ospite, assieme all'amico Filippo
+
+4
+00:00:10,400 --> 00:00:11,040
+Strozzi.
+
+5
+00:00:11,040 --> 00:00:14,000
+Di cosa parliamo in questo episodio, caro il mio Filippo?
+
+6
+00:00:14,240 --> 00:00:18,560
+In questo episodio, caro il mio Roberto, parleremo di intelligenza artificiale.
+
+7
+00:00:18,560 --> 00:00:23,520
+Ma prima di parlare di questo, abbiamo anche un ormai un ospite
+
+8
+00:00:23,520 --> 00:00:27,840
+ricorrente perché non possiamo neanche dire un ospite, basta.
+
+9
+00:00:28,240 --> 00:00:34,480
+Il nostro amico e cocommentatore in questa puntata è Lucio Gragnolo.
+
+10
+00:00:34,480 --> 00:00:40,240
+Per cui benvenuto troppo gentile, troppo gentile ospite ricorrente, sembra un po'
+
+11
+00:00:40,240 --> 00:00:44,240
+che c'è una festa che ha compieglianni o succede qualcosa.
+
+12
+00:00:44,560 --> 00:00:48,960
+Per l'occasione, credo di aver portato qui, visto che parliamo di intelligenze
+
+13
+00:00:48,960 --> 00:00:54,400
+artificiali, anche qualche amico immaginario con cui chiacchierare quando mi sento solo
+
+14
+00:00:54,400 --> 00:00:55,440
+e cose così.
+
+15
+00:00:56,160 --> 00:00:57,200
+Buonasera a tutti.
+
+16
+00:00:57,360 --> 00:00:58,880
+Benvenuto tra di noi, Lucio.
+
+17
+00:00:58,960 --> 00:01:02,480
+Sei qua tra di noi, perché, ovviamente, tra i tre, sei quello
+
+18
+00:01:02,480 --> 00:01:06,960
+che tira più su, diciamo, il livello dell'intelligenza umana, per competere con
+
+19
+00:01:06,960 --> 00:01:08,320
+l'intelligenza artificiale.
+
+20
+00:01:08,320 --> 00:01:12,800
+Io, come sapete, sono l'uomo della strada, e avrò, diciamo, poco a
+
+21
+00:01:12,800 --> 00:01:14,720
+che fare con l'intelligenza artificiale.
+
+22
+00:01:14,720 --> 00:01:18,560
+Ma per fortuna, come dicevamo, c'è Lucio che tira su la nostra,
+
+23
+00:01:18,560 --> 00:01:22,960
+diciamo, media dell'intelligenza umana, e poi abbiamo il nostro simpatico Filippo, che
+
+24
+00:01:22,960 --> 00:01:26,880
+voi non lo sapete, ma ci ha bombardato come se fossimo praticamente
+
+25
+00:01:26,880 --> 00:01:30,240
+sotto attacco con tutta una serie di articoli, di video.
+
+26
+00:01:30,960 --> 00:01:35,200
+Sapeva più lui di intelligenza artificiale che probabilmente l'intelligenza artificiale in se
+
+27
+00:01:35,200 --> 00:01:35,600
+stessa.
+
+28
+00:01:35,600 --> 00:01:40,640
+Perché se l'intelligenza avesse voluto cercare qualcosa sull'intelligenza artificiale, avrebbe fatto prima
+
+29
+00:01:40,720 --> 00:01:44,320
+chiedere a Filippo cosa ne pensa, perché ha trovato tutto lo scibile,
+
+30
+00:01:44,320 --> 00:01:44,800
+praticamente.
+
+31
+00:01:44,800 --> 00:01:47,520
+Diciamo, e poi dopo facciamo partire la sigla perché non l'abbiamo ancora
+
+32
+00:01:47,520 --> 00:01:48,320
+fatta partire.
+
+33
+00:01:48,320 --> 00:01:53,920
+Che effettivamente è la puntata nasce da vari spunti, dalle chiacchierate precedenti
+
+34
+00:01:54,000 --> 00:01:57,520
+che abbiamo fatto quando ci siamo organizzati per fare form.
+
+35
+00:01:57,520 --> 00:02:04,440
+Però, effettivamente, negli ultime 3-4 settimane, adesso, parte live, a parte tutto,
+
+36
+00:02:04,440 --> 00:02:08,200
+ci sono tante novità, tante cose interessanti da un certo punto di
+
+37
+00:02:08,200 --> 00:02:14,040
+vista, probabilmente anche tante cose che vengono raccontate in maniera non corretta
+
+38
+00:02:14,040 --> 00:02:17,160
+o comunque esatto.
+
+39
+00:02:17,480 --> 00:02:18,120
+Per cui
+
+40
+00:02:19,160 --> 00:02:23,000
+la puntata che ha già fagiolo, probabilmente quello che vi raccontiamo oggi
+
+41
+00:02:23,240 --> 00:02:27,880
+tra due o tre settimane potrebbero essere già cambiato di nuovo perché
+
+42
+00:02:28,120 --> 00:02:29,480
+in pochissimo tempo.
+
+43
+00:02:29,480 --> 00:02:34,600
+Diciamo che adesso tutti stanno spingendo sul concetto di intelligenza artificiale, che
+
+44
+00:02:34,600 --> 00:02:37,880
+poi è più propaganda che altro, però adesso vedremo come.
+
+45
+00:02:37,880 --> 00:02:43,000
+Tuttavia, sicuramente questo è l'argomento del momento e soprattutto stanno andando in
+
+46
+00:02:43,000 --> 00:02:47,480
+ballo investimenti e novità interessanti da un certo punto di vista, perché
+
+47
+00:02:47,560 --> 00:02:48,680
+dopo ne parleremo.
+
+48
+00:02:48,680 --> 00:02:50,600
+Veramente quotidianamente.
+
+49
+00:02:50,600 --> 00:02:55,640
+Appunto, vi ho mandato un articolo, e già oggi pomeriggio c'era una
+
+50
+00:02:55,640 --> 00:02:58,600
+cosa che integrava la cosa, che è veramente interessante.
+
+51
+00:02:58,760 --> 00:03:01,720
+Quindi non ce n'è altro da dire che è un momento di
+
+52
+00:03:02,360 --> 00:03:05,960
+grosso fervento fermento di questa attività.
+
+53
+00:03:05,960 --> 00:03:09,960
+Ma prima di entrare nel vivo della puntata facciamo partire la nostra
+
+54
+00:03:09,960 --> 00:03:10,920
+sigla.
+
+55
+00:03:12,440 --> 00:03:14,040
+A2 Podcast.
+
+56
+00:03:14,040 --> 00:03:17,560
+Scopri come ottenere il massimo dalla tua tecnologia apple.
+
+57
+00:03:17,560 --> 00:03:22,200
+Due professionisti Filippo e Roberto, te lo spiegano con argomenti monotematici ed
+
+58
+00:03:22,200 --> 00:03:25,080
+ospiti che raccontano il loro flusso di lavoro.
+
+59
+00:03:32,200 --> 00:03:39,160
+Eccoci, e potete comprare in commoderate la nostra enciclopedia del MEC.
+
+60
+00:03:39,320 --> 00:03:42,360
+Su primo poi non sarebbe male.
+
+61
+00:03:42,440 --> 00:03:47,680
+Soltanto con le note dell'episodio, e le mappe mentali, Filippo potrebbe farci
+
+62
+00:03:47,680 --> 00:03:49,760
+tranquillamente un paio di libri, penso.
+
+63
+00:03:44,600 --> 00:03:51,680
+Così a naso, è proprio a naso.
+
+64
+00:03:51,760 --> 00:03:55,680
+Io fossi un po' in Aogeo, ci penserei a questa cosa a
+
+65
+00:03:55,680 --> 00:03:59,680
+prenderlo sotto il braccino e iniziare a metterlo sotto torch per farlo
+
+66
+00:03:59,680 --> 00:04:00,320
+lavorare un po'.
+
+67
+00:04:00,400 --> 00:04:04,640
+Io sono molto tanto qui non mi sente nessuno, o quasi, a
+
+68
+00:04:04,640 --> 00:04:08,160
+parte quei 64.000 che ci ascoltano, ma nessuno di Apogeo.
+
+69
+00:04:08,160 --> 00:04:12,720
+Sono un po' arrabbiato con Apogeo perché vorrei che facessero qualcosa.
+
+70
+00:04:13,360 --> 00:04:15,280
+Invece sono fermi.
+
+71
+00:04:15,520 --> 00:04:19,600
+Il guaio è che in un certo senso hanno ragione, perché Apogo
+
+72
+00:04:19,600 --> 00:04:24,560
+ha prodotto un sacco di prodotti, di libri, di corsi e quant'altro
+
+73
+00:04:24,880 --> 00:04:32,800
+su big data, machine learning e tecniche di apprendimento meccanizzato da parte
+
+74
+00:04:32,960 --> 00:04:33,840
+del computer.
+
+75
+00:04:34,080 --> 00:04:38,000
+E tutto quello di cui parliamo oggi non è altro che di
+
+76
+00:04:38,160 --> 00:04:47,920
+big data, machine learning, apprendimento meccanizzato via software programmabile, Python, Ruby o
+
+77
+00:04:48,080 --> 00:04:48,880
+cose di questo tipo.
+
+78
+00:04:48,880 --> 00:04:53,600
+E così mi scoccia perché Apogo non pubblica libri sull'intelligenza artificiale, ma
+
+79
+00:04:53,600 --> 00:04:57,520
+di fatto quelli che sta pubblicando sui big data da 4 o
+
+80
+00:04:57,520 --> 00:05:00,000
+5 anni coprono esattamente l'argomento.
+
+81
+00:05:00,000 --> 00:05:04,480
+È solo che un grande marketing ha cambiato la terminologia.
+
+82
+00:05:04,800 --> 00:05:10,160
+Sono perfettamente d'accordo, anche perché ricordiamo che tutto sommato si tratta di
+
+83
+00:05:10,160 --> 00:05:13,920
+mole di dati che vengono processati in qualche modo per riuscire a
+
+84
+00:05:13,920 --> 00:05:15,280
+dare una risposta.
+
+85
+00:05:15,280 --> 00:05:19,760
+Io adesso la faccio subito dall'uomo delle caverne, come sono, io sono
+
+86
+00:05:19,760 --> 00:05:23,600
+l'uomo della strada e quindi la metto subito sul piatto.
+
+87
+00:05:23,680 --> 00:05:29,360
+La questione è che l'intelligenza artificiale ci viene venduta come intelligenza artificiale,
+
+88
+00:05:29,360 --> 00:05:33,560
+ma in realtà se proprio andiamo a vedere bene bene, non lo
+
+89
+00:05:33,560 --> 00:05:35,000
+è a tutti gli effetti.
+
+90
+00:05:35,000 --> 00:05:39,720
+E essenzialmente quello che parleremo, tratteremo in questa puntata, essenzialmente da quello
+
+91
+00:05:39,720 --> 00:05:44,360
+che ho capito, correggimi Filippo se sbaglio, tratteremo di chat GPT, dico
+
+92
+00:05:44,360 --> 00:05:49,080
+bene, lasciando fuori diciamo le altre derivazioni.
+
+93
+00:05:49,080 --> 00:05:52,600
+Questa è una cosa che volevo precisare perché, ad esempio, una di
+
+94
+00:05:52,600 --> 00:05:57,640
+queste derivazioni sarà molto utile nel mondo dell'architettura, ma ne parleremo magari
+
+95
+00:05:57,640 --> 00:06:00,920
+se ci abbiamo tempo verso la fine della puntata o in altra
+
+96
+00:06:00,920 --> 00:06:01,640
+sede.
+
+97
+00:06:01,640 --> 00:06:05,720
+Ma in ogni caso, quello che è chiaro è che questa intelligenza
+
+98
+00:06:05,720 --> 00:06:11,000
+artificiale, per adesso, è più un tool, in realtà, per noi umani,
+
+99
+00:06:11,000 --> 00:06:15,880
+piuttosto che una persona fatta e finita di tipo informatico.
+
+100
+00:06:16,040 --> 00:06:20,520
+Nella fattispecie, quello che stiamo usando adesso, che è il chat GPT,
+
+101
+00:06:20,840 --> 00:06:24,840
+può diventare un comune tool per molti aspetti della nostra vita, questo
+
+102
+00:06:24,840 --> 00:06:30,760
+non bisogna nasconderlo, nel senso che può aiutare soprattutto chi produce tantissimi
+
+103
+00:06:30,760 --> 00:06:35,720
+contenuti, può diventare utile in vari aspetti, contenuti di qualsiasi tipo.
+
+104
+00:06:35,720 --> 00:06:38,920
+Le cose che vengono per primo a me in mente sono, ad
+
+105
+00:06:38,920 --> 00:06:45,080
+esempio, fare delle scalette oppure creare un testo partendo da delle nozioni
+
+106
+00:06:45,240 --> 00:06:49,800
+che magari noi conosciamo, ma abbiamo bisogno di tagliare un po' i
+
+107
+00:06:49,800 --> 00:06:54,600
+tempi e questo ci aiuta a trovare delle informazioni generaliste, in questo
+
+108
+00:06:54,600 --> 00:06:59,160
+caso, che poi possono essere approfonditi con varie iterazioni.
+
+109
+00:06:59,160 --> 00:07:02,520
+Ma forse stiamo andando un po' avanti e io a questo punto
+
+110
+00:07:02,520 --> 00:07:05,880
+lascerei un po' la parola a Filippo e a Lucio che ci
+
+111
+00:07:05,880 --> 00:07:10,360
+raccontano un po' meglio in realtà che cos'è questo famoso chat GPD
+
+112
+00:07:10,360 --> 00:07:15,440
+di cui parlano praticamente tutti quanti, e non nascondo probabilmente qualche articolo
+
+113
+00:07:15,440 --> 00:07:19,280
+che abbiamo letto qua e là nel nostro mondo o nella nostra
+
+114
+00:07:19,280 --> 00:07:24,080
+blogosfera o nella nostra sfera internet, probabilmente sono stati scritti da Chat
+
+115
+00:07:24,080 --> 00:07:24,560
+GPT.
+
+116
+00:07:24,560 --> 00:07:27,920
+Io una cosa che ho notato quando ho usato Chat GPT è
+
+117
+00:07:27,920 --> 00:07:33,200
+che spesso e sovente usa una locuzione che è, tuttavia, se cominciate
+
+118
+00:07:33,200 --> 00:07:37,440
+a cercarlo nei vari articoli, cominciate ad avere già un'idea che questo
+
+119
+00:07:37,440 --> 00:07:42,480
+articolo in effetti potrebbe essere stato generato da un'intelligenza artificiale o presunta
+
+120
+00:07:42,640 --> 00:07:43,520
+tale, come dicevamo.
+
+121
+00:07:43,520 --> 00:07:47,120
+Caro nostro Filippo, allora ci racconti un po' questo Chat GPT che
+
+122
+00:07:47,120 --> 00:07:49,040
+non è nient'altro che un modello semantico?
+
+123
+00:07:49,040 --> 00:07:53,920
+Esatto, cioè alla fine di tutta la vicenda, quello di cui stiamo
+
+124
+00:07:53,920 --> 00:07:58,640
+parlando in questi ultimi periodi, e quello che viene proposto un po'
+
+125
+00:07:58,720 --> 00:08:04,160
+a tutti, è una versione, diciamo, con gli steroidi, però, del sistema
+
+126
+00:08:04,160 --> 00:08:07,600
+di autocorrezione di iPhone e compagnia bella.
+
+127
+00:08:07,600 --> 00:08:10,800
+Non perché è quello dell'iPhone, tenendo a precisare, ormai in quasi tutte
+
+128
+00:08:10,800 --> 00:08:15,920
+le tastiere virtuali c'è un sistema che, se tu inizi a digitare
+
+129
+00:08:15,920 --> 00:08:20,880
+del testo, ti suggerisce del testo conseguente, chiamiamolo in questo termine.
+
+130
+00:08:20,880 --> 00:08:25,280
+E di fatto questo è il principio su cui si basa la
+
+131
+00:08:25,280 --> 00:08:30,240
+chat GPT, che non è altro che una chat, appunto, dobbiamo distinguere,
+
+132
+00:08:30,240 --> 00:08:35,200
+diciamo che chat GPT è un sistema di interfaccia chat sostanzialmente istruito
+
+133
+00:08:35,200 --> 00:08:39,280
+in maniera molto avanzata, per cui alla fine è molto verosimile.
+
+134
+00:08:39,280 --> 00:08:44,480
+Quindi, se io faccio delle domande, conseguentemente lui mi può dare delle
+
+135
+00:08:44,480 --> 00:08:48,560
+risposte, che però, non sono risposte non so come definirle vere, chiamiamole
+
+136
+00:08:48,560 --> 00:08:49,200
+in questo termine.
+
+137
+00:08:49,200 --> 00:08:50,880
+Sono risposte verosimili.
+
+138
+00:08:50,880 --> 00:08:55,120
+Che è complicato da capire se non facciamo degli esempi.
+
+139
+00:08:55,120 --> 00:08:59,440
+Per esempio, adesso un mio collega che è molto bravo sull'informatica ha
+
+140
+00:08:59,440 --> 00:09:05,080
+creato questa utilizzando chat GPT, ha creato sostanzialmente una chat o meglio
+
+141
+00:09:05,160 --> 00:09:09,160
+un sistema su Telegram per fare delle domande a chat GPT, e
+
+142
+00:09:09,160 --> 00:09:13,720
+tra le varie cose, appunto, ha chiesto non so quanti professionisti erano
+
+143
+00:09:13,720 --> 00:09:15,880
+iscritti all'albo e così via.
+
+144
+00:09:15,880 --> 00:09:18,920
+E la cosa interessante di questa domanda è che ti dà una
+
+145
+00:09:18,920 --> 00:09:26,040
+risposta: non so, ci sono 100.000 avvocati, 200.000 architetti, 300.000 ingegneri e
+
+146
+00:09:26,040 --> 00:09:26,600
+così via.
+
+147
+00:09:26,600 --> 00:09:28,520
+Se le riformuli la stessa domanda
+
+148
+00:09:30,200 --> 00:09:31,480
+ti cambia la risposta.
+
+149
+00:09:31,480 --> 00:09:36,440
+Quindi provo subito primo step di tutta la vicenda, attenzione, perché chat
+
+150
+00:09:36,440 --> 00:09:41,400
+GPT appunto non sa le cose, le inventa, che è una cosa
+
+151
+00:09:41,400 --> 00:09:42,920
+abbastanza diversa.
+
+152
+00:09:42,920 --> 00:09:48,440
+Poi, avendo dietro un sistema, di fatto hanno fatto scraping da quello
+
+153
+00:09:48,440 --> 00:09:51,800
+che si è capito di buona parte di internet, mettiamoli in questi
+
+154
+00:09:51,800 --> 00:09:56,600
+termini, è ovvio che dice delle cose sensate proprio perché tutte le
+
+155
+00:09:56,600 --> 00:10:01,240
+pagine Wikipedia, tutti gli articoli anche giuridici, per esempio.
+
+156
+00:10:01,240 --> 00:10:06,200
+Vabbè, ovviamente era un ambito prettamente da legali quindi abbiamo fatto domande
+
+157
+00:10:06,200 --> 00:10:07,160
+anche da legali.
+
+158
+00:10:07,160 --> 00:10:11,240
+Certe cose hanno senso perché comunque c'è una mole di dati che
+
+159
+00:10:11,240 --> 00:10:15,240
+gli è stata in pasto e quindi crea delle frasi che sono
+
+160
+00:10:15,240 --> 00:10:19,240
+verosimili in parte, ma non perfette, su questi argomenti.
+
+161
+00:10:19,240 --> 00:10:24,040
+L'altra cosa interessante è che cambiando, per esempio, ho fatto una domanda:
+
+162
+00:10:24,040 --> 00:10:28,680
+parlami, indicami gli articoli di Avocato e Mac su Pando e la
+
+163
+00:10:28,760 --> 00:10:29,160
+Tech.
+
+164
+00:10:29,640 --> 00:10:34,760
+Siccome io sapevo esattamente quali erano questi articoli, Chat GPT sì, ma
+
+165
+00:10:34,800 --> 00:10:38,080
+mi ha inserito tutti gli Word degli articoli che non erano che
+
+166
+00:10:38,440 --> 00:10:39,320
+non esistevano.
+
+167
+00:10:39,320 --> 00:10:39,640
+Però.
+
+168
+00:10:39,640 --> 00:10:44,600
+E anche lì è ovvio che dipende molto dall'interazione, diciamo, con questi
+
+169
+00:10:44,600 --> 00:10:49,760
+sistemi, cioè, che percorso, chiamiamolo così, e quindi che formulazione tu fai
+
+170
+00:10:49,760 --> 00:10:53,760
+la domanda, è il percorso più o meno verosimile che poi prende.
+
+171
+00:10:53,760 --> 00:10:56,640
+Quindi, se sei molto attento a quello che gli dici e se
+
+172
+00:10:56,640 --> 00:11:02,160
+ovviamente riesci a estrappolare questi dati dal diciamo, dal back-end che ha,
+
+173
+00:11:02,160 --> 00:11:07,920
+perché poi apriamo e chiudiamo una parentesi, ma attualmente chat GPT 3.5
+
+174
+00:11:08,080 --> 00:11:10,720
+credo che sia l'ultimo, anche se è uscito il 4.
+
+175
+00:11:10,720 --> 00:11:17,600
+È stato istruito in gergo in quell'inglesismo tremendo: è stato trainato, qualcuno
+
+176
+00:11:17,600 --> 00:11:24,240
+direbbe: è stato istruito su un materiale fino al 2020 o 2021.
+
+177
+00:11:24,720 --> 00:11:29,600
+Quindi ovviamente, comunque non è neanche aggiornato, non so come spiegarlo: esatto.
+
+178
+00:11:29,600 --> 00:11:33,600
+E aggiungo che in diretta io ho fatto la prova per verificare
+
+179
+00:11:33,600 --> 00:11:36,240
+la questione degli scritti e gli ordini.
+
+180
+00:11:36,240 --> 00:11:40,720
+In effetti, ho chiesto come prima domanda: quanti architetti ci sono in
+
+181
+00:11:40,720 --> 00:11:41,200
+Italia?
+
+182
+00:11:41,200 --> 00:11:45,440
+Me l'ha fatta un po' lunga, ma poi ha risposto: 194.000 erotti.
+
+183
+00:11:45,440 --> 00:11:48,960
+Poi ho chiesto: in Italia quanti architetti ci sono?
+
+184
+00:11:48,960 --> 00:11:52,160
+E la risposta è 180.000 erotti.
+
+185
+00:11:52,160 --> 00:11:57,360
+Citando comunque una fonte che è quella dell'ordine degli architetti, pianificatori, passaggi
+
+186
+00:11:57,360 --> 00:12:01,360
+e conservatori italiani al 31 dicembre 2021.
+
+187
+00:12:01,360 --> 00:12:07,680
+Quindi, come potete capire, il dato scosta niente meno che di 14.000
+
+188
+00:12:07,760 --> 00:12:10,800
+iscritti, che è circa il 10%.
+
+189
+00:12:11,440 --> 00:12:15,680
+Quindi potete capire già la precisione di questo modello semantico che ricordo
+
+190
+00:12:15,680 --> 00:12:17,520
+in parole povere che cosa fa?
+
+191
+00:12:17,520 --> 00:12:22,400
+Ha questa grossa mole di dati, di testo essenzialmente, di cui praticamente
+
+192
+00:12:22,400 --> 00:12:27,120
+cerca di capire quali sono le parole che si avvicinano di più
+
+193
+00:12:27,120 --> 00:12:31,720
+per rispondere a una domanda, cioè quelle che sono più consecutive alla
+
+194
+00:12:31,720 --> 00:12:33,400
+domanda che è stata posta.
+
+195
+00:12:33,400 --> 00:12:36,600
+Quindi si fa per dire in questo caso si fa un giro
+
+196
+00:12:29,840 --> 00:12:37,160
+per internet.
+
+197
+00:12:37,320 --> 00:12:41,400
+Nel primo caso ho trovato X fonti che hanno la probabilità, hanno
+
+198
+00:12:41,400 --> 00:12:45,080
+la più alta probabilità, perché alla fine si tratta di questo, di
+
+199
+00:12:45,080 --> 00:12:49,000
+essere più vicino alla frase che gli ho digitato io.
+
+200
+00:12:49,000 --> 00:12:54,840
+E cambiando giustamente la frase, loro ha cambiato la probabilità di informazioni
+
+201
+00:12:54,840 --> 00:12:57,080
+che sono più vicine alla frase cambiata.
+
+202
+00:12:57,080 --> 00:13:01,560
+Quindi capite che dal punto di vista tecnico è molto interessante sotto
+
+203
+00:13:01,560 --> 00:13:05,640
+certi punti di vista, ma deve essere in effetti guardato con un
+
+204
+00:13:05,640 --> 00:13:06,520
+occhio attento.
+
+205
+00:13:06,520 --> 00:13:10,520
+E questo occhio attento penso che anche il nostro Lucio abbia potuto
+
+206
+00:13:10,520 --> 00:13:16,200
+mettere con mano vedere e verificare quanto deve essere attento questo occhio.
+
+207
+00:13:16,440 --> 00:13:22,200
+Mi è capitato di tenere un corso nelle settimane scorse di formazione
+
+208
+00:13:22,360 --> 00:13:28,200
+di personale per un ufficio stampa in cui praticamente in diretta, dentro
+
+209
+00:13:28,200 --> 00:13:34,760
+i materiali, abbiamo inserito la trattazione di ChatGPT e dei suoi compagni
+
+210
+00:13:34,760 --> 00:13:37,480
+di cosiddetta intelligenza artificiale.
+
+211
+00:13:37,480 --> 00:13:42,760
+Una delle persone che hanno frequentato questo corso, dopo la seconda volta
+
+212
+00:13:42,760 --> 00:13:46,120
+che parlavamo, mi ha detto: Ma tu lo vuoi ammazzare a tutti
+
+213
+00:13:46,120 --> 00:13:47,480
+i costi, ChatGPT.
+
+214
+00:13:47,480 --> 00:13:52,120
+Io ho detto: No, bisogna capire bene quali sono gli spazi di
+
+215
+00:13:52,120 --> 00:13:57,640
+utilizzo convenienti e opportuni di questa cosa, che è bellissima se tu
+
+216
+00:13:57,640 --> 00:14:02,760
+la usi per lavorare su dati che hai già, per esempio, per
+
+217
+00:14:02,760 --> 00:14:08,120
+creare bozze che poi devi riempire o correggere o sistemare o integrare,
+
+218
+00:14:08,120 --> 00:14:14,520
+se devi fare elaborazioni per trasformare cose che hai già in altre
+
+219
+00:14:14,520 --> 00:14:20,000
+cose che hai già, ma di diverso formato, in tutte queste situazioni,
+
+220
+00:14:20,000 --> 00:14:24,720
+chat GPT fa delle cose molto carine, molto interessanti e consente di
+
+221
+00:14:24,720 --> 00:14:29,840
+risparmiare una quantità di tempo siderale, tanto che tra molti programmatori è
+
+222
+00:14:29,840 --> 00:14:34,800
+già diventato un must, ma very much nice to have.
+
+223
+00:14:34,880 --> 00:14:38,400
+Cioè fa grande comodo.
+
+224
+00:14:38,400 --> 00:14:45,280
+In tutte le circostanze in cui viene usato come sistema per recuperare
+
+225
+00:14:45,280 --> 00:14:52,320
+dati, a leggere qualche settimana fa, state pretendendo da un sistema statistico
+
+226
+00:14:52,800 --> 00:14:58,640
+di andare a fare a interrogare un database in modo deterministico.
+
+227
+00:14:58,640 --> 00:15:07,440
+Chat GPT ti dà la risposta corretta solo in un valore percentuale
+
+228
+00:15:07,440 --> 00:15:13,600
+delle volte, ma by design è fatto apposta per funzionare in questo
+
+229
+00:15:13,600 --> 00:15:15,280
+modo, non è un difetto.
+
+230
+00:15:15,520 --> 00:15:21,360
+Lui potrà trovarti delle cose esatte al 99, al 90, all'85%, non
+
+231
+00:15:21,360 --> 00:15:26,560
+ti troverai mai una cosa esatta al 100% e se succede perché
+
+232
+00:15:26,560 --> 00:15:30,560
+l'informazione è molto piccola o perché abbiamo avuto un gran colpo di
+
+233
+00:15:30,560 --> 00:15:31,360
+fortuna.
+
+234
+00:15:31,360 --> 00:15:36,880
+Basterà prolungare un po' la sessione e prima o poi, by definition,
+
+235
+00:15:36,880 --> 00:15:43,200
+by design, lui comincerà a inserire errori ad avere allucinazioni, come dicono
+
+236
+00:15:43,200 --> 00:15:49,680
+adesso in gergo i tecnici, a inventarsi cose perché è basato su
+
+237
+00:15:50,000 --> 00:15:56,400
+una modalità di elaborazione del modello che è detta regressiva.
+
+238
+00:15:56,400 --> 00:16:02,600
+Siccome lavora su base probabilistica e parola dopo parola le mette insieme
+
+239
+00:15:59,840 --> 00:16:07,320
+estraendo sorte con un peso percentuale,
+
+240
+00:16:07,560 --> 00:16:15,480
+se io moltiplico 0,9 per 0,9 ottengo 0,81, ottengo un valore sempre
+
+241
+00:16:15,480 --> 00:16:21,480
+più lontano da 1, che nella probabilità significa la certezza, e sempre
+
+242
+00:16:21,480 --> 00:16:26,760
+più vicino a 0, che nel linguaggio della probabilità è l'impossibilità.
+
+243
+00:16:26,760 --> 00:16:31,000
+Quindi più si va avanti a usare il sistema durante una sessione,
+
+244
+00:16:31,000 --> 00:16:33,960
+più il sistema introdurrà degli errori.
+
+245
+00:16:34,280 --> 00:16:39,480
+Qui mi diverto un attimo, poi lascio la palla a Filippo che
+
+246
+00:16:39,480 --> 00:16:43,000
+ha studiato tantissimo e ne sa molto più di me, e a
+
+247
+00:16:43,000 --> 00:16:47,000
+Roberto che fa finta di non saperne, e in realtà ha già
+
+248
+00:16:47,000 --> 00:16:47,880
+capito tutto.
+
+249
+00:16:47,880 --> 00:16:52,360
+Dico: la cosa che più mi meraviglia è vedere la gente che
+
+250
+00:16:52,360 --> 00:16:58,360
+è rintronata come alla festa del liceo da questa grande novità.
+
+251
+00:16:58,360 --> 00:17:02,040
+Perché adesso abbiamo detto che parliamo solo di ChatGPT, però non posso
+
+252
+00:17:02,040 --> 00:17:07,640
+tacere di un certo Miche Paola che in questo momento fa trending
+
+253
+00:17:07,640 --> 00:17:14,040
+topic su Twitter e compagnia, perché lui prende dei dipinti celebri, non
+
+254
+00:17:14,040 --> 00:17:21,480
+so, la Gioconda, chiede a ChatGPT di descrivere quello che vede.
+
+255
+00:17:21,480 --> 00:17:28,280
+ChatGPT fa un resoconto del dipinto, e poi lui dà in pasto
+
+256
+00:17:28,280 --> 00:17:30,520
+questa descrizione a
+
+257
+00:17:31,640 --> 00:17:37,640
+un altro di questi sistemi generativi che fa un dipinto nuovo sulla
+
+258
+00:17:37,640 --> 00:17:40,200
+base della spiegazione di ChatGPT.
+
+259
+00:17:40,200 --> 00:17:44,440
+Ora, non so chi di voi ha frequentato delle scuole medie, si
+
+260
+00:17:44,440 --> 00:17:47,840
+è mai trovato a una festa, ha mai giocato al telefono senza
+
+261
+00:17:47,840 --> 00:17:54,160
+fili, oppure ha ascoltato delle storie tese che facevano tradurre in inglese
+
+262
+00:17:54,160 --> 00:17:58,480
+il testo in italiano e poi facevano tradurre in italiano il testo
+
+263
+00:17:58,480 --> 00:18:01,520
+inglese che avevano appena tirato fuori.
+
+264
+00:18:01,840 --> 00:18:06,960
+Si tratta di giochini che sono veramente terra a terra, ma passano
+
+265
+00:18:06,960 --> 00:18:12,000
+per idee geniali, grandi conquiste, unicamente perché c'è di mezzo un sistema
+
+266
+00:18:12,000 --> 00:18:17,920
+di chat che fa finta di essere un'entità, tanto che qualche imbecile
+
+267
+00:18:18,160 --> 00:18:24,480
+si è già mosso per avviare un discorso sui diritti dell'intelligenza artificiale,
+
+268
+00:18:24,480 --> 00:18:31,680
+i diritti umani, i diritti legali, come se queste cose fossero senzienti,
+
+269
+00:18:31,680 --> 00:18:39,680
+qualche altro imbecile sostiene che siano senzienti, e fortunatamente alcune persone di
+
+270
+00:18:39,680 --> 00:18:44,800
+buonsenso hanno avanzato una proposta a livello etico di viet
+
+271
+00:18:45,920 --> 00:18:51,840
+are, insomma, di mettersi d'accordo in modo che questi sistemi non parlino in
+
+272
+00:18:51,840 --> 00:18:55,600
+prima persona, perché generano un effetto psicologico.
+
+273
+00:18:55,600 --> 00:19:01,760
+Probabilmente tante persone abituate al soliloquio o ormai alla solitudine dei social,
+
+274
+00:19:01,920 --> 00:19:06,160
+sono contente di avere qualcosa che risponde e sembra rispondere a tono,
+
+275
+00:19:06,160 --> 00:19:09,600
+e in realtà non è niente, è un trucco.
+
+276
+00:19:09,600 --> 00:19:14,000
+Scusate se mi sono dilungato, avevamo detto che finiamo a luna, no,
+
+277
+00:19:14,000 --> 00:19:19,520
+giusto, sì, tra l'altro, ti voglio ringraziare, perché sono ovviamente osservazioni interessantissime.
+
+278
+00:19:19,520 --> 00:19:22,160
+Quello che volevo solo aggiungere così prima di lasciare la parola a
+
+279
+00:19:22,160 --> 00:19:26,720
+Filippo è che forse parte del problema è proprio il nostro insito
+
+280
+00:19:26,720 --> 00:19:31,640
+umano, sotto il punto di vista della nostra psicologia, tendiamo un po'
+
+281
+00:19:29,920 --> 00:19:33,240
+a umanizzare un po' tutto.
+
+282
+00:19:33,480 --> 00:19:37,960
+A partire dagli animali, nel senso che tendiamo a renderli umani, ad
+
+283
+00:19:37,960 --> 00:19:43,400
+aspettarci, cioè, vediamo in loro qualche comportamento che per noi è umano.
+
+284
+00:19:43,400 --> 00:19:48,920
+E quindi tendiamo a umanizzare le cose e probabilmente stiamo facendo anche
+
+285
+00:19:48,920 --> 00:19:51,160
+questa cosa verso l'intelligenza artificiale.
+
+286
+00:19:51,160 --> 00:19:57,000
+Cerchiamo di dargli una parvenza di umanità, perché il nostro istinto è
+
+287
+00:19:57,000 --> 00:20:01,160
+quello di dare, non so, un atteggiamento umano più o meno a
+
+288
+00:20:01,160 --> 00:20:06,920
+quello che incontriamo nella nostra vita, anche perché probabilmente, essendo umani, è
+
+289
+00:20:06,920 --> 00:20:12,040
+proprio il nostro interno, cioè una cosa che facciamo senza pensarci.
+
+290
+00:20:12,040 --> 00:20:16,920
+Potrebbe anche essere questo un grosso problema che forse è da affrontare
+
+291
+00:20:17,080 --> 00:20:22,040
+sotto tanti punti di vista, ma in maggior ragione appunto dare una
+
+292
+00:20:22,040 --> 00:20:26,360
+parvenza umana o di intelligenza artificiale, in realtà ha un algoritmo.
+
+293
+00:20:26,680 --> 00:20:32,520
+Luca Sofri ha scritto di recente: Io non mi preoccupo che com'era.
+
+294
+00:20:32,520 --> 00:20:37,720
+Io non mi preoccupo che l'intelligenza artificiale scriva meglio delle persone.
+
+295
+00:20:37,720 --> 00:20:43,000
+Ma mi preoccupo che le persone scrivano peggio dell'intelligenza artificiale.
+
+296
+00:20:43,880 --> 00:20:50,040
+Normalmente lui è uno che cerca di tenere delle posizioni equilibrate, anche
+
+297
+00:20:50,040 --> 00:20:56,600
+se poi differiamo abbastanza nelle conseguenze del ragionamento.
+
+298
+00:20:56,600 --> 00:21:01,080
+Ma abbiamo mai fatto caso a come scrive ChatGPT?
+
+299
+00:21:01,080 --> 00:21:11,800
+ChatGPT è noioso, ampolloso, pedistequo, quasi petulante, a volte, sussiegoso, è una
+
+300
+00:21:11,800 --> 00:21:13,240
+lettura pesante.
+
+301
+00:21:13,240 --> 00:21:18,640
+C'è un quotidiano che in questo periodo mette in tutti i numeri
+
+302
+00:21:18,640 --> 00:21:25,280
+un articolo scritto con chat GPT e sfida i lettori di trovarlo.
+
+303
+00:21:25,280 --> 00:21:29,760
+Chi trova gli articoli scritti con chat GPT, vince un abbonamento, una
+
+304
+00:21:29,760 --> 00:21:32,080
+bottiglia di spumante, qualcosa del genere.
+
+305
+00:21:32,080 --> 00:21:35,200
+E c'è sempre qualcuno che lo trova, ma perché quando si è
+
+306
+00:21:35,200 --> 00:21:39,360
+davanti allo schermo e si fa il giochino, scrivi la Divina Commedia
+
+307
+00:21:39,360 --> 00:21:43,120
+come se fosse una scimmia che ha appena visto Star Trek ed
+
+308
+00:21:43,120 --> 00:21:48,320
+è vestita col costume da pagliaccio e chat GPT tira fuori delle
+
+309
+00:21:48,320 --> 00:21:54,640
+cose che sembra divertentissimo, sembra sofisticatissimo, ma guarda come ci prende, e
+
+310
+00:21:54,640 --> 00:21:59,920
+poi, in realtà, messo per esempio su una pagina stampata è veramente
+
+311
+00:21:59,920 --> 00:22:05,600
+noioso e non cambia mai stile, in realtà non riesce in modo
+
+312
+00:22:05,600 --> 00:22:13,920
+pessimo a imitare qualche voce celebre di autori, ma non ci riesce
+
+313
+00:22:13,920 --> 00:22:17,360
+davvero, proprio perché non ha la minima idea di che cosa sta
+
+314
+00:22:17,360 --> 00:22:22,000
+facendo, e mette una parola dietro l'altra su base probabilistica.
+
+315
+00:22:22,000 --> 00:22:25,840
+Quindi non so che cosa stavi dicendo, però penso di averti risposto.
+
+316
+00:22:26,080 --> 00:22:29,040
+È proprio di sì, nel senso che penso che in effetti uno
+
+317
+00:22:29,040 --> 00:22:30,880
+dei grossi problemi è anche questo.
+
+318
+00:22:31,200 --> 00:22:35,920
+Leggendolo in effetti è pesante e spesso è anche pieno di errori
+
+319
+00:22:35,920 --> 00:22:37,040
+di ortografia.
+
+320
+00:22:37,040 --> 00:22:41,680
+E tra altre cose, si vede che è un sistema probabilistico perché
+
+321
+00:22:41,680 --> 00:22:47,200
+le frasi tendenzialmente sono molto corte e tendenzialmente sono slegate una con
+
+322
+00:22:47,200 --> 00:22:47,680
+l'altra.
+
+323
+00:22:47,680 --> 00:22:51,360
+Se ci state un attimo a vedere, nel senso che sicuramente chi
+
+324
+00:22:51,360 --> 00:22:54,800
+si è trovato in mezzo a utilizzare chat GPT per tirare fuori
+
+325
+00:22:54,800 --> 00:22:59,240
+un testo di qualsiasi tipo, sicuramente l'ha dovuto rivedere dall'inizio alla fine,
+
+326
+00:22:59,120 --> 00:23:03,800
+e sicuramente ha dovuto aggiungere della punteggiatura come la virgola, che spesso
+
+327
+00:22:59,840 --> 00:23:05,640
+non viene utilizzata su Chat GPT.
+
+328
+00:23:05,800 --> 00:23:10,600
+È difficile vederla con una virgola, viene usata spesso un punto per
+
+329
+00:23:10,760 --> 00:23:13,720
+delimitare le frasi e i concetti.
+
+330
+00:23:13,720 --> 00:23:17,800
+E quindi, per questo motivo, diventa veramente una lettura molto pesante.
+
+331
+00:23:18,600 --> 00:23:21,960
+Come dicevi, giustamente, hai fatto una serie di aggettivi che probabilmente ne
+
+332
+00:23:21,960 --> 00:23:25,720
+conoscevo il 30%, ma me li segno che così poi me li
+
+333
+00:23:25,720 --> 00:23:27,720
+vado a cercare, giusto?
+
+334
+00:23:29,720 --> 00:23:30,280
+Esatto.
+
+335
+00:23:30,280 --> 00:23:34,120
+Quindi, sapete, io ho anche i miei strumenti da uomo della strada.
+
+336
+00:23:34,120 --> 00:23:37,080
+Adesso metto lì a su Lux GPT e mi cerco tutte le
+
+337
+00:23:37,080 --> 00:23:38,840
+mie cosine che mi sono perso.
+
+338
+00:23:38,840 --> 00:23:42,280
+Ma in ogni caso, quello che sono sicuro è che in effetti
+
+339
+00:23:42,440 --> 00:23:46,840
+non è in questa fase semplice riprendere il testo così come l'ha
+
+340
+00:23:46,840 --> 00:23:51,960
+scritto, prenderlo così e usarlo, perché diventa di difficile lettura.
+
+341
+00:23:51,960 --> 00:23:56,440
+Si capisce subito che c'è una certa pesantezza, giustamente semantica, ma non
+
+342
+00:23:56,440 --> 00:24:02,280
+può anche essere diversamente, perché se fosse un'intelligenza artificiale, probabilmente l'avrebbe scritto
+
+343
+00:24:02,280 --> 00:24:03,000
+meglio.
+
+344
+00:24:03,160 --> 00:24:05,160
+In realtà è un modello semantico.
+
+345
+00:24:05,160 --> 00:24:08,360
+Sì, io mi ricollego in parte a quello che ha detto Lucio.
+
+346
+00:24:08,360 --> 00:24:13,800
+Cioè, vi ricordate quando girava, probabilmente due o tre anni fa ormai,
+
+347
+00:24:13,800 --> 00:24:17,720
+girava questa applicazione che ti faceva più giovane o più vecchio, tutti
+
+348
+00:24:17,880 --> 00:24:19,560
+erano lì, che bello!
+
+349
+00:24:19,720 --> 00:24:21,720
+Guarda, io sono fatto così
+
+350
+00:24:23,000 --> 00:24:23,320
+a te.
+
+351
+00:24:23,480 --> 00:24:28,520
+Poi si scopre che questa applicazione era russa, ma non per il
+
+352
+00:24:28,520 --> 00:24:30,760
+concetto che i russi sono cattivi.
+
+353
+00:24:30,760 --> 00:24:36,360
+Ma è una società russa che, ovviamente, quando accettavi di farti una
+
+354
+00:24:36,360 --> 00:24:43,640
+foto, sempre fatta con l'intelligenza artificiale, ricordiamocelo bene, e ringiovanirti o invecchirarti,
+
+355
+00:24:43,640 --> 00:24:48,400
+aveva diritto a trattenere tutte queste immagini che di fatto ho acquisito
+
+356
+00:24:48,400 --> 00:24:52,720
+gratuitamente e per scopi di cui nulla si sa ad oggi in
+
+357
+00:24:52,720 --> 00:24:57,280
+maniera chiara, certa e quantomeno discutibile, mettiamoli in questi termini.
+
+358
+00:24:57,280 --> 00:25:02,960
+A me ChatGPT attualmente ricorda tanto questo, nel senso che anche gli
+
+359
+00:25:02,960 --> 00:25:07,760
+strumenti più interessanti di ChatGPT e io adesso ne parleremo anche, perché,
+
+360
+00:25:07,760 --> 00:25:13,200
+per esempio, come avvocato, la possibilità di riassumere testi, la possibilità di
+
+361
+00:25:13,200 --> 00:25:17,760
+fare tante cose è interessante e potenzialmente utile per la mia attività
+
+362
+00:25:17,920 --> 00:25:20,960
+senza voler fare l'avvocato, non so se mi spiego.
+
+363
+00:25:20,960 --> 00:25:24,960
+Il problema, però, è un altro è che tutto questo sistema ruota
+
+364
+00:25:25,440 --> 00:25:31,760
+dietro non dei server, delle server farm, cioè delle cose di dimensioni
+
+365
+00:25:31,760 --> 00:25:37,680
+inumane, tra virgolette, dei veri edifici pieni di computer che fanno girare
+
+366
+00:25:38,320 --> 00:25:39,280
+questo sistema.
+
+367
+00:25:39,280 --> 00:25:45,280
+Perché tra i dati che mangia, tra virgolette, e l'energia per creare
+
+368
+00:25:45,280 --> 00:25:46,480
+tutte queste risposte.
+
+369
+00:25:46,480 --> 00:25:51,600
+Attualmente fa fatica a rispondere non perché non riesca, ma perché ci
+
+370
+00:25:51,600 --> 00:25:54,640
+sono così tante richieste in contemporanea.
+
+371
+00:25:54,640 --> 00:25:56,320
+Quindi è come se questa
+
+372
+00:25:57,360 --> 00:26:01,920
+intelligenza artificiale parlasse a milioni di persone in contemporanea.
+
+373
+00:26:01,920 --> 00:26:05,760
+E quindi è ovvio che la potenza di calcolo è comunque limitata,
+
+374
+00:26:05,760 --> 00:26:09,920
+anche se sembra infinita e oltre, ma anche il consumo di energia.
+
+375
+00:26:09,920 --> 00:26:14,720
+La gestione, nessuno si sta rendendo conto che dietro tutta questa cosa
+
+376
+00:26:14,800 --> 00:26:18,720
+c'è un dispendio inutile per modo di dire di energie, e dall'altro
+
+377
+00:26:18,800 --> 00:26:23,600
+sta acquisando dati degli utenti, di cui non si sa anche qui
+
+378
+00:26:23,600 --> 00:26:26,800
+che cosa venga fatto e come verrà utilizzato.
+
+379
+00:26:26,800 --> 00:26:32,120
+Venendo a noi i capcia, credo che siano l'esempio più
+
+380
+00:26:33,400 --> 00:26:39,720
+noto di utilizzo degli umani per istruire intelligenza artificiale, perché alla fine
+
+381
+00:26:39,720 --> 00:26:43,720
+è un servizio stranamente gratuito che non si sa come mai, ma
+
+382
+00:26:43,720 --> 00:26:46,760
+ti farà trova le biciclette, trova i ponti.
+
+383
+00:26:46,760 --> 00:26:51,960
+Trova le linee sulla strada, trova i tetti, trova il SU.
+
+384
+00:26:52,360 --> 00:26:53,320
+Cos'è questo?
+
+385
+00:26:53,640 --> 00:26:56,760
+È un sistema per far lavorare a gratis sugli uomini.
+
+386
+00:26:57,160 --> 00:27:00,360
+Affrontiamo l'argomento e non le intelligenze artificiali.
+
+387
+00:27:00,360 --> 00:27:06,840
+Difatti, mi chiedo il modello economico dietro all'intelligenza a questa presunta intelligenza
+
+388
+00:27:06,840 --> 00:27:07,560
+artificiale.
+
+389
+00:27:08,200 --> 00:27:13,880
+Prima questo parliamo di una non la chiamerei truffa, però di un
+
+390
+00:27:13,880 --> 00:27:15,880
+bel volta faccia.
+
+391
+00:27:15,880 --> 00:27:20,440
+Chat GPT è stato messo a punto da una società che si
+
+392
+00:27:20,440 --> 00:27:27,320
+chiama OpenAI, che ha dichiarato nel momento in cui è stata costituita
+
+393
+00:27:27,560 --> 00:27:33,880
+di non esagero troppo rispetto ai comunicati ufficiali, lavorare per l'umanità, mettere
+
+394
+00:27:33,880 --> 00:27:42,120
+a disposizione la conoscenza, sviluppare dei progressi nell'ambito dell'intelligenza artificiale.
+
+395
+00:27:42,120 --> 00:27:44,760
+Non so se si vede che sto muovendo di team quando dico
+
+396
+00:27:44,760 --> 00:27:46,120
+intelligenza artificiale.
+
+397
+00:27:46,120 --> 00:27:52,200
+Insomma, fare una gran cosa per il bene della scienza, per il
+
+398
+00:27:52,200 --> 00:27:57,960
+bene della collettività, e poi da condividere con il mondo perché tutti
+
+399
+00:27:58,120 --> 00:28:02,360
+dobbiamo poter beneficiare di questi strumenti e di queste cose.
+
+400
+00:28:02,360 --> 00:28:07,560
+Dopodiché, nel giro di pochi mesi il codice è stato completamente chiuso
+
+401
+00:28:07,560 --> 00:28:10,280
+e nessuno sa che cosa ci sia dentro.
+
+402
+00:28:10,280 --> 00:28:14,920
+La società è una società che ha un modello di business.
+
+403
+00:28:15,760 --> 00:28:20,000
+Adesso ci chiediamo quale, ma ha un modello di business e non
+
+404
+00:28:20,320 --> 00:28:22,560
+lavora gratis set amore dei.
+
+405
+00:28:22,560 --> 00:28:28,240
+Ha avuto finanziamenti molto importanti da multinazionali molto importanti, una delle quali
+
+406
+00:28:28,240 --> 00:28:33,920
+non vedeva l'ora negli anni 90 di come motto mettere un computer
+
+407
+00:28:33,920 --> 00:28:34,240
+sopra
+
+408
+00:28:36,160 --> 00:28:36,480
+?
+
+409
+00:28:38,720 --> 00:28:43,440
+E adesso 30 anni dopo non le sembra vero di poter mettere,
+
+410
+00:28:43,440 --> 00:28:47,600
+oltre al computer su tutte le scrivanie, anche l'utente su tutte le
+
+411
+00:28:47,600 --> 00:28:50,000
+scrivanie, perché ce n'è uno solo.
+
+412
+00:28:50,320 --> 00:28:58,640
+Lo governa lei e viene addestrato da milioni di umani che si
+
+413
+00:28:58,640 --> 00:29:05,120
+mettono lì a chiedergli i sonetti in stile manga giapponese, tanto fare
+
+414
+00:29:05,120 --> 00:29:11,200
+ricerche pensando che sia Google, a farsi profilare e a farsi sfruttare.
+
+415
+00:29:11,200 --> 00:29:16,000
+Quindi, la domanda sul modello, ecco, questa, queste erano le premesse.
+
+416
+00:29:16,000 --> 00:29:19,200
+Adesso cerchiamo pure le risposte.
+
+417
+00:29:19,200 --> 00:29:23,920
+Esatto, diciamo che ormai possiamo dirlo e Microsoft che ha investito tantissimo,
+
+418
+00:29:23,920 --> 00:29:29,040
+anzi, ha iniziato investendo neanche tantissimo, ma negli ultimi mesi, mese e
+
+419
+00:29:29,040 --> 00:29:31,600
+mezzo, ci ha messo dentro adesso, non mi ricordo più le cifre,
+
+420
+00:29:31,600 --> 00:29:35,760
+ma cifre che iniziano a diventare significative, anche se è una grossissima
+
+421
+00:29:35,760 --> 00:29:38,560
+multinazionale e così via, sta buttando fuori
+
+422
+00:29:39,600 --> 00:29:43,520
+, è una parola grossa prodotti, però comunque sta buttando fuori diciamo dei
+
+423
+00:29:43,520 --> 00:29:50,320
+sistemi collegati a chat del GPT, ma qui probabilmente ormai è tantissima
+
+424
+00:29:50,320 --> 00:29:55,360
+gente che lo sta facendo, ormai è un po' ovunque attacca questo
+
+425
+00:29:55,360 --> 00:29:58,800
+con chat del GPT, fai quello con chat di GPT e così
+
+426
+00:29:58,800 --> 00:29:59,120
+via.
+
+427
+00:29:59,120 --> 00:30:01,960
+Effettivamente bisogna dare atto a Microsoft.
+
+428
+00:30:02,280 --> 00:30:07,240
+Per la prima volta, credo ormai una decina d'anni, Google ha avuto
+
+429
+00:30:07,240 --> 00:30:11,000
+un lieve calone come motore di ricerca e Bing.
+
+430
+00:30:11,000 --> 00:30:15,560
+Sumento che credo non abbia quasi nessun tipo di utilizzo, se non
+
+431
+00:30:15,800 --> 00:30:20,040
+chi utilizza Windows e non ha cambiato le impostazioni di sistema per
+
+432
+00:30:20,040 --> 00:30:25,240
+andare su Google, perché edge, credo che sia di default.
+
+433
+00:30:25,240 --> 00:30:26,840
+Con Bing appunto.
+
+434
+00:30:27,000 --> 00:30:32,520
+Adesso c'è addirittura gente che chiede di partecipare alla beta o comunque
+
+435
+00:30:32,520 --> 00:30:33,160
+di.
+
+436
+00:30:33,320 --> 00:30:39,240
+Tra l'altro, ovviamente piccola nota, sul discorso del modello di business, ero
+
+437
+00:30:39,240 --> 00:30:43,720
+anche interessato originariamente a dire proviamolo, sono curioso.
+
+438
+00:30:44,600 --> 00:30:50,040
+Poi praticamente devi utilizzare esclusivamente Edge di Microsoft, che già questo mi
+
+439
+00:30:50,840 --> 00:30:53,800
+fa prudere, in più ti devi anche registrare.
+
+440
+00:30:53,800 --> 00:31:00,680
+Quindi ulteriore profilazione sulla profilazione per poter accedere alla lista d'attesa, poi
+
+441
+00:31:00,680 --> 00:31:04,600
+eventualmente avere la disponibilità di questo sistema.
+
+442
+00:31:04,600 --> 00:31:10,600
+Ora, come facevano vedere anche grossi youtuber e così via, attualmente Bing
+
+443
+00:31:10,600 --> 00:31:15,960
+con l'intelligenza artificiale è interessante, ma fino a un certo punto, mettiamoli
+
+444
+00:31:15,960 --> 00:31:18,600
+in questi termini, per mille motivi.
+
+445
+00:31:18,680 --> 00:31:25,000
+Sicuramente, una parte del modello di business è questa pubblicità, è anche
+
+446
+00:31:25,160 --> 00:31:28,440
+semplicemente scalzare il gigante della ricerca.
+
+447
+00:31:28,440 --> 00:31:32,600
+E effettivamente Google, quello possiamo dire, ha fatto anche dei passi falsi
+
+448
+00:31:32,600 --> 00:31:38,680
+attualmente, perché la conferenza, diciamo che probabilmente anche un po' improvvisata, ha
+
+449
+00:31:38,680 --> 00:31:43,280
+fatto un mesetto fa ormai, credo mi ricordo più le tempistiche.
+
+450
+00:31:43,280 --> 00:31:46,640
+Perché poi ormai è una notizia ogni giorno, se non due o
+
+451
+00:31:46,640 --> 00:31:51,760
+tre notizie ogni giorno: con Bard, che dovrebbe essere la loro eventuale
+
+452
+00:31:51,760 --> 00:31:57,440
+intelligenza artificiale, ha fatto nella presentazione, che non è sicuramente in stile
+
+453
+00:31:57,440 --> 00:32:02,400
+Apple, degli errori grossolani ed evidenti.
+
+454
+00:32:02,400 --> 00:32:05,040
+Tant'è vero che anche lì,
+
+455
+00:32:06,160 --> 00:32:12,400
+dopo questa presentazione, avevano perso svariati punti percentuali nella quotazione azionale di
+
+456
+00:32:12,400 --> 00:32:16,880
+Google, o meglio, di Alphabet, che è la società che gestisce poi
+
+457
+00:32:16,880 --> 00:32:22,000
+tutto il cappello delle consociate, tra cui anche Google e compagnia bella.
+
+458
+00:32:22,000 --> 00:32:26,240
+Per cui effettivamente bisogna dire la verità, Microsoft da tanto non faceva
+
+459
+00:32:26,240 --> 00:32:32,320
+parlare di sé, chiamiamola così, è ormai la predominante forza nel personal
+
+460
+00:32:32,320 --> 00:32:35,680
+computer, chiamiamola così, nel mondo office ovviamente.
+
+461
+00:32:35,680 --> 00:32:38,320
+Ma progressivamente, per esempio, sta perdendo terreno.
+
+462
+00:32:38,320 --> 00:32:44,080
+I Mac stanno recuperando recentemente terreno in vari ambiti per mille motivi
+
+463
+00:32:44,080 --> 00:32:47,120
+che oggi non ha neanche senso specificare.
+
+464
+00:32:47,120 --> 00:32:53,120
+Effettivamente, però questa mossa ha dato una visibilità, soprattutto, nella nostra bolla
+
+465
+00:32:53,120 --> 00:32:54,800
+tecnologica, chiamiamola così.
+
+466
+00:32:54,800 --> 00:32:59,360
+Ma credo anche nella bolla meno tecnologica di chi adesso non so
+
+467
+00:32:59,360 --> 00:33:02,480
+se perché non seguo i telegiornali, però non so se anche sui
+
+468
+00:33:02,480 --> 00:33:05,440
+telegiornali, comunque se ne parli un minimo.
+
+469
+00:33:05,440 --> 00:33:12,400
+Quindi sicuramente c'è una maggior chiacchiera, una maggior sicuramente alla radio, perché
+
+470
+00:33:12,400 --> 00:33:17,520
+me ne ha parlato anche mia moglie, quindi questo è l'esempio tipico.
+
+471
+00:33:17,760 --> 00:33:20,160
+Infatti, mi fa: Oh, ma ne parla un po' troppo per i
+
+472
+00:33:20,160 --> 00:33:23,680
+miei gusti, ma cos'è tutta questa cosa?
+
+473
+00:33:24,000 --> 00:33:30,920
+Sì, sì, alla radio, DJ qualunque nazionale popolari che dicono: Ah, questa
+
+474
+00:33:29,920 --> 00:33:32,760
+cosa, l'intelligenza artificiale.
+
+475
+00:33:33,320 --> 00:33:39,240
+Ho parlato con Bill Clinton e ho parlato con Pablo Neruda.
+
+476
+00:33:39,480 --> 00:33:40,600
+Ah, che figata!
+
+477
+00:33:40,600 --> 00:33:42,600
+Io sono proiettata nel futuro.
+
+478
+00:33:42,600 --> 00:33:46,680
+Era una DJ donna e quindi ce l'ho proiettata, cosa bellissima che
+
+479
+00:33:46,680 --> 00:33:50,040
+certamente cambierà la nostra vita, eccetera.
+
+480
+00:33:50,040 --> 00:33:56,760
+Il paradosso di tutto questo è che Google in realtà è tecnologicamente
+
+481
+00:33:57,080 --> 00:34:03,960
+molto più avanti di Microsoft, e degli altri, perché adesso ormai si
+
+482
+00:34:03,960 --> 00:34:12,040
+stanno muovendo naturalmente in molti, Google, ripeto, come tecnologia di sistemi generativi,
+
+483
+00:34:12,280 --> 00:34:17,000
+grandi modelli linguistici addestrati a fare machine learning, bla bla bla, è
+
+484
+00:34:17,000 --> 00:34:19,320
+molto più avanti di Microsoft.
+
+485
+00:34:19,320 --> 00:34:20,920
+Però, che cosa è successo?
+
+486
+00:34:20,920 --> 00:34:27,320
+Siccome questi sistemi sono statistici, quando tu li colleghi al motore di
+
+487
+00:34:27,320 --> 00:34:33,640
+ricerca, intanto come diceva Filippo, aumenti mostruosamente i costi di gestione, perché
+
+488
+00:34:34,280 --> 00:34:41,240
+chat GPT mi pare abbia 175 miliardi di punti di informazione.
+
+489
+00:34:41,240 --> 00:34:44,520
+Poi, se ci sarà tempo, vi farò il pippone su quello che
+
+490
+00:34:44,520 --> 00:34:46,360
+è veramente l'intelligenza artificiale.
+
+491
+00:34:46,360 --> 00:34:50,600
+Tuttavia, per il momento mi limito a dire che c'è stato un
+
+492
+00:34:50,600 --> 00:34:56,360
+momento negli anni 90 quando andavano di moda i sistemi esperti in
+
+493
+00:34:56,360 --> 00:35:01,400
+cui si riteneva che tutti i difetti dell'intelligenza artificiale e le sue
+
+494
+00:35:01,400 --> 00:35:06,280
+mancanze sarebbero stati risolti aggiungendo conoscenza.
+
+495
+00:35:06,240 --> 00:35:09,160
+E oggi si ragiona nello stesso modo.
+
+496
+00:35:09,480 --> 00:35:14,760
+Chat GPT3 aveva le sue magagne, ma noi le risolveremo con chat
+
+497
+00:35:14,760 --> 00:35:19,600
+GPT-4, che sarà molto più grande, avrà molta più conoscenza.
+
+498
+00:35:19,760 --> 00:35:25,360
+Le magagne naturalmente restano semmai si nascondono un po' meglio, entrano in
+
+499
+00:35:25,360 --> 00:35:28,240
+modi più subdoli e così via.
+
+500
+00:35:28,320 --> 00:35:33,040
+Quindi, che cosa ha fatto Microsoft che nel campo dei motori di
+
+501
+00:35:33,040 --> 00:35:36,800
+ricerca è un perdente di fatto in questo momento?
+
+502
+00:35:36,960 --> 00:35:39,920
+Ha detto: tranquilla, ma ha tratto le conclusioni, io non ho niente
+
+503
+00:35:39,920 --> 00:35:40,640
+da perdere.
+
+504
+00:35:41,120 --> 00:35:47,440
+Metto in piedi un'operazione di marketing straordinaria, aggancio questa roba che poi
+
+505
+00:35:47,440 --> 00:35:51,280
+è perfetta per il mio profilo di utenza, perché è una cosa
+
+506
+00:35:51,280 --> 00:35:58,240
+che, alla fine, a livello di produzione di contenuto produce medium menci
+
+507
+00:35:58,720 --> 00:36:02,560
+fa la media di tutto è quello che si dice, che si
+
+508
+00:36:02,560 --> 00:36:08,160
+scrive, che si canta su internet, mescolata, e da lì si prende
+
+509
+00:36:08,160 --> 00:36:14,800
+quello che è il consenso così detto, il minimo comune, denominatore, proprio
+
+510
+00:36:14,800 --> 00:36:19,360
+la cosa che va più bene per la maggior parte delle persone.
+
+511
+00:36:19,360 --> 00:36:23,680
+Voi sapete bene che se sulla tavolozza cominciate a mescolare tutti i
+
+512
+00:36:23,680 --> 00:36:27,520
+colori, alla fine viene il marrone, è un marrone
+
+513
+00:36:28,640 --> 00:36:29,520
+schifezza,
+
+514
+00:36:30,560 --> 00:36:32,800
+non c'è più traccia dei colori originali.
+
+515
+00:36:32,800 --> 00:36:38,080
+Chat GPT alla fine non fa altro che prendere tutto quello che
+
+516
+00:36:38,080 --> 00:36:46,320
+c'è su internet in modo compresso, sacrificato, togliendo informazioni, è stato paragonato
+
+517
+00:36:46,320 --> 00:36:49,760
+a un grande JPEG del web.
+
+518
+00:36:49,760 --> 00:36:51,120
+Cosa vuol dire JPEG?
+
+519
+00:36:51,120 --> 00:36:53,760
+Vuol dire che pesa molto meno, ma perché?
+
+520
+00:36:53,760 --> 00:36:56,880
+Perché tu hai tolto un sacco di informazioni che non sono subito
+
+521
+00:36:56,880 --> 00:36:57,680
+necessarie.
+
+522
+00:36:57,680 --> 00:37:02,760
+Appena vai a zoomare, il sistema in qualche modo deve mettere qualcosa
+
+523
+00:37:02,760 --> 00:37:05,880
+al posto di quelle informazioni che mancano e inventa.
+
+524
+00:37:05,880 --> 00:37:09,720
+E in questo modo tu riesci ad avere delle grandi immagini che
+
+525
+00:37:09,720 --> 00:37:15,160
+pesano pochissimo, ma che dentro non hanno tutto quello che c'era veramente.
+
+526
+00:37:15,160 --> 00:37:20,840
+Quindi, insomma, riassumo, Microsoft ha detto io: certo, la aggancio a Bing,
+
+527
+00:37:20,840 --> 00:37:25,560
+ma poi l'aggancio a Office, quale cosa migliore per un utente World
+
+528
+00:37:25,720 --> 00:37:30,440
+produrre cose uguali a quelle di qualunque altro utente World.
+
+529
+00:37:30,440 --> 00:37:35,720
+Nessuno verrà mai più licenziato per avere fatto una relazione di merda,
+
+530
+00:37:35,720 --> 00:37:37,320
+la fa chat GPT.
+
+531
+00:37:37,480 --> 00:37:40,840
+È perfetto per il suo mercato questo prodotto.
+
+532
+00:37:40,840 --> 00:37:47,000
+E così facendo, si è caricata di costi bestiali di gestione, perché
+
+533
+00:37:47,320 --> 00:37:50,920
+fare andare questa cosa insieme a Bing è costosissima.
+
+534
+00:37:50,920 --> 00:37:54,680
+Ma tanto Bing fa numeri piccoli e Microsoft si può permettere tutto.
+
+535
+00:37:54,840 --> 00:37:57,960
+In più, secondo me, tra l'altro, lo buttano su Azure.
+
+536
+00:37:57,960 --> 00:38:01,640
+Quindi, alla fine c'è un ritorno economico in qualche maniera.
+
+537
+00:38:02,360 --> 00:38:07,080
+Ma certo, ma Google, che è il gigante della ricerca web, perché
+
+538
+00:38:07,400 --> 00:38:13,160
+non è uscito prima o anche più avanti tecnologicamente, perché non ha
+
+539
+00:38:13,160 --> 00:38:17,880
+fatto lui il sistema intelligente da affiancare al motore di ricerca?
+
+540
+00:38:17,880 --> 00:38:22,120
+Perché Google ha visto benissimo che si sparava nei piedi, che era
+
+541
+00:38:22,120 --> 00:38:29,320
+una cosa che portava solo costi assurdi e nessun vero beneficio sulla
+
+542
+00:38:29,400 --> 00:38:30,200
+ricerca.
+
+543
+00:38:30,200 --> 00:38:35,000
+Poi, se tu hai un programma scritto in Python e gli dici
+
+544
+00:38:35,000 --> 00:38:40,360
+scusami, mi servirebbe scritto in Rust, ChatGPT te lo fa ed è
+
+545
+00:38:40,360 --> 00:38:41,080
+una figata.
+
+546
+00:38:41,120 --> 00:38:45,440
+Cioè, tu, programmatore, ci passeresti una giornata e lui ci passa dieci
+
+547
+00:38:45,440 --> 00:38:45,840
+minuti.
+
+548
+00:38:44,840 --> 00:38:49,680
+Quindi ci sono dei punti dove ChatGPT è stupendo.
+
+549
+00:38:49,920 --> 00:38:56,160
+Affiancato al motore di ricerca è veramente puro marketing, è illudere la
+
+550
+00:38:56,160 --> 00:38:56,720
+gente.
+
+551
+00:38:56,720 --> 00:39:01,280
+Un mio amico ha cercato informazioni sul sottoscritto.
+
+552
+00:39:01,280 --> 00:39:05,360
+Bing gli ha restituito informazioni che sono nella pagina
+
+553
+00:39:06,960 --> 00:39:09,600
+del mio blog, cose di pubblico dominio.
+
+554
+00:39:09,760 --> 00:39:13,920
+Dopodiché mi ha attribuito la paternità di due libri che io non
+
+555
+00:39:13,920 --> 00:39:17,840
+ho mai scritto e non so neanche se avrei mai voluto scrivere
+
+556
+00:39:17,840 --> 00:39:24,320
+o saputo scrivere più probabilmente, inventando di sana pianta, chat GPT è
+
+557
+00:39:24,320 --> 00:39:30,320
+l'antitesi della ricerca sull'antitesi della ricerca e questo si spiega tutto.
+
+558
+00:39:30,560 --> 00:39:35,600
+Adesso Google ha dovuto mettere in piedi Bard in fretta e furia,
+
+559
+00:39:35,600 --> 00:39:38,880
+perché ovviamente si parla solo di ChatGPT.
+
+560
+00:39:38,880 --> 00:39:42,320
+Tra l'altro mezz'ora fa Google mi ha scritto e mi ha detto
+
+561
+00:39:42,320 --> 00:39:47,680
+adesso puoi usare bar anche tu, non da italiano, ho usato una
+
+562
+00:39:47,680 --> 00:39:48,320
+VPN.
+
+563
+00:39:48,320 --> 00:39:52,960
+Però, usando una VPN, sono entrato nel programma Beta e dopo una
+
+564
+00:39:52,960 --> 00:39:57,120
+giornata mi è arrivato, non ho fatto in tempo a provarlo prima
+
+565
+00:39:57,120 --> 00:39:59,280
+di entrare in trasmissione, ma
+
+566
+00:40:00,400 --> 00:40:01,280
+posso.
+
+567
+00:40:01,600 --> 00:40:05,840
+Tuttavia, insomma, Microsoft ha dovuto sì, ciao, Google, ha dovuto correre come
+
+568
+00:40:05,840 --> 00:40:10,800
+una pazza perché il rumore del marketing in questo momento è potentissimo.
+
+569
+00:40:10,960 --> 00:40:16,160
+Per Google perdere un punto di percentuale sul mercato della ricerca significa
+
+570
+00:40:16,160 --> 00:40:17,360
+perdere miliardi.
+
+571
+00:40:17,360 --> 00:40:22,160
+Quindi, anche se questa cosa è una martellata alla tafazzi, Google la
+
+572
+00:40:22,160 --> 00:40:22,720
+deve fare.
+
+573
+00:40:22,880 --> 00:40:28,160
+Stavo appunto leggendo i dati di Google con tracciata GPT.
+
+574
+00:40:28,160 --> 00:40:32,600
+Secondo i dati raccolti da Similar Web, che condivide analisi e dettagli
+
+575
+00:40:32,600 --> 00:40:37,240
+sulle visualizzazioni e altri parametri dei siti web riportati da Reuters dal
+
+576
+00:40:37,240 --> 00:40:42,440
+7 febbraio, cioè dall'annuncio dell'integrazione di Chat GPT in Bing al 20
+
+577
+00:40:42,440 --> 00:40:48,360
+marzo, le visualizzazioni di pagine di Bing sono cresciute dal 15,8%, mentre
+
+578
+00:40:48,360 --> 00:40:52,520
+quelle di Google nello stesso periodo sono calate dell'1%.
+
+579
+00:40:52,520 --> 00:40:57,800
+Quindi in effetti c'è stato un movimento grosso calibro perlomeno per Google
+
+580
+00:40:57,960 --> 00:41:01,320
+i numeri sono piccoli, ma le cifre sono altissime.
+
+581
+00:41:01,320 --> 00:41:05,160
+Per Bing ha anche piccoli movimenti percentuali, ma in questo caso sono
+
+582
+00:41:05,240 --> 00:41:06,120
+due cifre.
+
+583
+00:41:06,120 --> 00:41:10,200
+Per Bing, è veramente tantissimo, anche perché io penso fino a prima
+
+584
+00:41:10,200 --> 00:41:14,200
+della pandemia, giusto per dare un ordine di grandezza, nessuno sapeva a
+
+585
+00:41:14,200 --> 00:41:18,120
+momenti cos'era Bing perché non utilizzava nessuno, tra le altre cose.
+
+586
+00:41:18,120 --> 00:41:21,800
+Invece aggiungo solo una cosa, poi lascio la parola a Filippo.
+
+587
+00:41:21,800 --> 00:41:25,400
+Che stavo osservando che incominciamo già a vedere.
+
+588
+00:41:25,400 --> 00:41:28,520
+Io lo sapete che tutti quanti qua stiamo tenendo un po' su
+
+589
+00:41:28,520 --> 00:41:31,560
+Apple, ma quello che mi fa e mi ha dato da pensare
+
+590
+00:41:31,560 --> 00:41:34,680
+proprio in questo momento perché ho letto l'articolo adesso, mentre stava parlando
+
+591
+00:41:34,680 --> 00:41:36,680
+Lucio, mi è capitato sotto gli occhi.
+
+592
+00:41:36,680 --> 00:41:43,800
+Che attualmente Open AI ha consentito fare a chat GPT tramite l'utilizzo
+
+593
+00:41:43,800 --> 00:41:49,000
+di plugin, la possibilità di cercare informazioni su siti esterni.
+
+594
+00:41:49,000 --> 00:41:52,840
+Tra i siti esterni che mi hanno dato molto da pensare, sono
+
+595
+00:41:53,000 --> 00:41:59,560
+almeno tre circa, che sono Milo, Open Table, Slack e Wolfram Alpha,
+
+596
+00:41:59,560 --> 00:42:02,440
+tanto per farci capire, e anche Zapia, che conta fino a un
+
+597
+00:42:02,440 --> 00:42:02,920
+certo punto.
+
+598
+00:42:03,000 --> 00:42:08,280
+Però capite che quello che volevo anche accennare come problema di questa
+
+599
+00:42:08,280 --> 00:42:14,040
+simpatica intelligenza artificiale è che la base dati è la nostra e
+
+600
+00:42:14,040 --> 00:42:16,160
+la usa senza chiedere permesso.
+
+601
+00:42:16,320 --> 00:42:21,120
+E praticamente, se noi avessimo qualcuno come la SIAE, ad esempio, che
+
+602
+00:42:21,120 --> 00:42:26,320
+ci fa mettere tasse sui dispositivi informatici perché ha paura che facciamo
+
+603
+00:42:26,320 --> 00:42:31,920
+una copia privata di qualsiasi cosa che viene cantato, a questo punto,
+
+604
+00:42:31,920 --> 00:42:36,800
+se questo è vero, potremmo addirittura cercare di fare una mega causa
+
+605
+00:42:36,800 --> 00:42:41,760
+a questo motore di intelligenza artificiale, chiamiamolo così, perché sta prendendo tutti
+
+606
+00:42:41,760 --> 00:42:44,720
+i dati di tutto il mondo senza chiedere il permesso.
+
+607
+00:42:44,960 --> 00:42:50,160
+E questo è sicuramente una di quelle cose che abbiamo visto cadere
+
+608
+00:42:50,160 --> 00:42:54,800
+più di più e più volte, soprattutto quando si parla di dati
+
+609
+00:42:54,800 --> 00:42:55,760
+informatici.
+
+610
+00:42:55,760 --> 00:42:59,920
+Quello che secondo me potrebbe essere interessante dal punto di vista di
+
+611
+00:42:59,920 --> 00:43:00,720
+un governo.
+
+612
+00:43:00,720 --> 00:43:04,080
+Non faccio nome in questo momento perché capirete che ci arriverete anche
+
+613
+00:43:04,080 --> 00:43:05,440
+voi a cosa mi sto riferendo.
+
+614
+00:43:05,440 --> 00:43:09,360
+Sappiamo benissimo tutti quanti che qualche anno fa, per i più giovani
+
+615
+00:43:09,440 --> 00:43:13,600
+magari non se lo ricordano, ma c'era stato un piccolo tusto quando
+
+616
+00:43:13,600 --> 00:43:16,720
+abbiamo scoperto che in effetti il Grande Fratello esiste.
+
+617
+00:43:16,720 --> 00:43:21,040
+E questo è un altro esempio di Grande Fratello che raccoglie i
+
+618
+00:43:21,040 --> 00:43:24,960
+dati, però, alla luce del sole e lo sfruttiamo anche, cioè noi
+
+619
+00:43:24,960 --> 00:43:28,640
+siamo consapevoli che stanno usando i nostri dati, quello che scriviamo, le
+
+620
+00:43:28,640 --> 00:43:30,800
+nostre opere di intelletto.
+
+621
+00:43:30,800 --> 00:43:33,360
+Lucio scrive un articolo al giorno.
+
+622
+00:43:33,520 --> 00:43:38,400
+Lui è un esempio, qualcuno che butta parole a diversi ordini di
+
+623
+00:43:38,400 --> 00:43:42,800
+grandezza rispetto a me, un po' meno perché Filippo scrive tantissimo.
+
+624
+00:43:42,800 --> 00:43:46,160
+Però, nel mio caso, scrive veramente a diversi ordini di grandezza e
+
+625
+00:43:46,160 --> 00:43:50,640
+nel suo caso, Chat GPT si appoggia per diare fuori delle informazioni.
+
+626
+00:43:50,640 --> 00:43:54,400
+Però non ha chiesto il permesso, non dà i diritti d'autore, niente
+
+627
+00:43:54,400 --> 00:43:55,200
+di tutto questo.
+
+628
+00:43:55,360 --> 00:43:58,960
+Noi gli lo stiamo lasciando fare e nessuno dice niente.
+
+629
+00:43:58,960 --> 00:44:04,840
+Questo è una tipica operazione di chi mette, ad esempio, un raccoglitore
+
+630
+00:44:04,840 --> 00:44:09,720
+di dati sulle dorsali per riuscire a capire più quante informazioni ci
+
+631
+00:44:09,720 --> 00:44:13,640
+sono, passando la liscia e magari alla fine facendo anche un po'
+
+632
+00:44:13,640 --> 00:44:15,800
+di spionaggio industriale che non fa mai male.
+
+633
+00:44:15,800 --> 00:44:20,280
+Insomma, per riuscire a portarsi avanti, anche questo può essere utile all'interno
+
+634
+00:44:20,280 --> 00:44:21,480
+di una nazione.
+
+635
+00:44:21,720 --> 00:44:26,840
+Chi lo sa, magari vedremo che adesso Microsoft è a questo punto
+
+636
+00:44:27,000 --> 00:44:30,600
+e magari tra un paio d'anni vedremo che la situazione sarà ben
+
+637
+00:44:30,600 --> 00:44:35,160
+diversa perché ha una base dati decisamente più ampia su cui poter
+
+638
+00:44:35,160 --> 00:44:37,400
+appoggiare le sue economie.
+
+639
+00:44:37,640 --> 00:44:41,240
+Perché poi alla fine, ridendo e scherzando, di questo si tratta, di
+
+640
+00:44:41,240 --> 00:44:43,080
+riuscire a capire dove va il soldo.
+
+641
+00:44:43,080 --> 00:44:46,040
+Dico sempre a tutti quanti, in tutte le situazioni, guarda dove va
+
+642
+00:44:46,040 --> 00:44:48,760
+il soldo e capire qual è l'effettiva verità.
+
+643
+00:44:48,760 --> 00:44:52,520
+E qua un po' su chat, GPT e compagnia cantante, bisogna un
+
+644
+00:44:52,520 --> 00:44:55,320
+po' capire qual è il flusso economico.
+
+645
+00:44:55,320 --> 00:45:01,000
+In momento ha una nuova feature più che praticamente
+
+646
+00:45:02,200 --> 00:45:05,240
+alzare l'asticella, puoi avere esattamente.
+
+647
+00:45:05,240 --> 00:45:09,720
+Puoi pagare esattamente quello che stavi pagando prima, ma in più puoi
+
+648
+00:45:09,720 --> 00:45:14,600
+avere la grande intelligenza artificiale, e allora vieni a comprare da me
+
+649
+00:45:14,600 --> 00:45:18,520
+il mio prodotto, perché il mio prodotto è dentro l'intelligenza artificiale.
+
+650
+00:45:18,520 --> 00:45:24,920
+Poi chiaramente ancora emergere un modello economico serio, nel senso che c'è
+
+651
+00:45:24,920 --> 00:45:28,600
+un sistema che disegna immagini che si fa pagare un dollaro a
+
+652
+00:45:28,600 --> 00:45:29,320
+immagine.
+
+653
+00:45:29,320 --> 00:45:32,520
+OpenAI vuole 20 dollari al mese.
+
+654
+00:45:32,520 --> 00:45:36,680
+Nel momento in cui ci saranno 50 sistemi come lui, non so
+
+655
+00:45:36,680 --> 00:45:38,600
+che cosa succederà.
+
+656
+00:45:38,600 --> 00:45:41,880
+Secondo me, a parte che tra tre anni o cinque anni non
+
+657
+00:45:41,880 --> 00:45:47,840
+se lo fiderà più nessuno, perché ci sarà il secondo inverno dell'intelligenza
+
+658
+00:45:47,840 --> 00:45:54,480
+artificiale dovuto alla mancanza assoluta di mantenimento delle promesse, però sarà una
+
+659
+00:45:54,480 --> 00:46:01,200
+commodity esattamente come abbiamo l'autocorrettore, o le mappe dentro gli smartphone.
+
+660
+00:46:01,200 --> 00:46:04,160
+Le mappe costano un patrimonio a chi lo fa.
+
+661
+00:46:04,240 --> 00:46:07,360
+Però come fai a vendere uno smartphone se non hai le mappe,
+
+662
+00:46:07,360 --> 00:46:09,600
+quindi fai le mappe per vendere gli smartphone.
+
+663
+00:46:09,600 --> 00:46:14,880
+Io credo che diventerà un po' questo tipo di prodotto e questo
+
+664
+00:46:14,880 --> 00:46:17,040
+tipo di non modello economico.
+
+665
+00:46:17,040 --> 00:46:18,320
+Sì, effettivamente.
+
+666
+00:46:18,320 --> 00:46:22,080
+I rischi ci sono tutti, secondo me, anche perché da quello che
+
+667
+00:46:22,080 --> 00:46:25,360
+ho visto io sempre là fuori, ma sempre questo mio amico, che
+
+668
+00:46:25,360 --> 00:46:29,840
+effettivamente ha delle capacità informatiche abbastanza elevate, ha fatto il training su
+
+669
+00:46:30,560 --> 00:46:35,840
+argomento deontologico degli avvocati, chiamiamolo così, e in questo caso le risposte
+
+670
+00:46:35,840 --> 00:46:41,360
+che riesce a dare ChatGPT dopo aver avuto il training, diciamo, quindi
+
+671
+00:46:41,360 --> 00:46:45,440
+avere studiato, chiamiamola così, anche se non è il termine corretto, ma
+
+672
+00:46:45,440 --> 00:46:49,760
+avere digerito è forse più giusto, tutta una serie di testi legati
+
+673
+00:46:49,760 --> 00:46:53,840
+appunto alla deontologia, riesce a dare anche delle risposte più sensate, non
+
+674
+00:46:53,840 --> 00:46:57,360
+perfette, ovviamente, ma più sensate su quell'argomento.
+
+675
+00:46:57,360 --> 00:47:01,440
+Quindi c'è anche un'ulteriore fronte donda, diciamo.
+
+676
+00:47:01,440 --> 00:47:06,000
+Cioè noi dobbiamo, ci sarà anche chi legittimamente da un certo punto
+
+677
+00:47:06,000 --> 00:47:09,200
+di vista farà training, quindi spenderà anche poi dei soldi.
+
+678
+00:47:09,200 --> 00:47:15,760
+Perché tutto questo training, diciamo, poi richiede capacità computazionali, richiede ovviamente di
+
+679
+00:47:15,760 --> 00:47:21,680
+preparare dei dati specifici per l'assimilazione e per la comprensione di queste
+
+680
+00:47:21,680 --> 00:47:23,360
+intelligenze artificiali.
+
+681
+00:47:23,360 --> 00:47:26,080
+Effettivamente è un sistema abbastanza dispegno.
+
+682
+00:47:26,080 --> 00:47:29,280
+A questo punto, visto che siamo intorno all'ora e probabilmente potremmo andare
+
+683
+00:47:29,280 --> 00:47:34,040
+avanti molto di più, farei una lieve deviazione su invece l'approccio Apple,
+
+684
+00:47:29,920 --> 00:47:35,720
+chiamiamolo così, alla vicenda.
+
+685
+00:47:36,040 --> 00:47:39,560
+E io partirei invece da una cosa che è recentissima che vi
+
+686
+00:47:39,560 --> 00:47:44,200
+ho girato, che adesso volevo di cui volevo accenare brevemente, perché è
+
+687
+00:47:44,200 --> 00:47:45,960
+ancora veramente sul nascere.
+
+688
+00:47:45,960 --> 00:47:50,120
+Però è qualcosa che mi ricorda molto l'approccio di Apple alle intelligenze
+
+689
+00:47:50,120 --> 00:47:56,280
+artificiali in quest'ottica qui: cioè avere la possibilità di avere un'intelligenza artificiale
+
+690
+00:47:56,280 --> 00:48:02,600
+sul computer e non invece distribuita, chiamiamolo così, o come sarebbe meglio
+
+691
+00:48:02,600 --> 00:48:06,840
+dire nelle server farm di altri, con tutti i problemi del caso.
+
+692
+00:48:06,840 --> 00:48:11,720
+Recentemente è appunto, è una cosa che io ho scoperto tre giorni
+
+693
+00:48:11,720 --> 00:48:15,880
+fa, secondo me, perché ho iniziato a approfondire l'argomento.
+
+694
+00:48:15,880 --> 00:48:19,480
+E sempre grazie ad algoritmi, perché deve essere stato YouTube, visto che
+
+695
+00:48:19,480 --> 00:48:24,680
+avevo fatto varie ricerche sull'intelligenza artificiale, mi ha fatto passare questa cosa,
+
+696
+00:48:24,680 --> 00:48:28,200
+ed effettivamente è molto molto interessante, che si chiama Alpaca.
+
+697
+00:48:28,200 --> 00:48:32,680
+Alpaca è praticamente un motore semantico, quindi la stessa cosa di Chat
+
+698
+00:48:32,680 --> 00:48:34,040
+GPT, per intenderci.
+
+699
+00:48:34,040 --> 00:48:37,960
+La particolarità di Alpaca, però, è che a livello di training è
+
+700
+00:48:37,960 --> 00:48:42,760
+stato fatto un trusto, chiamiamolo così, cioè, parte del training è stato
+
+701
+00:48:42,760 --> 00:48:48,040
+fatto fare a chat GPT, quindi spendendo pochissimo, tra l'altro, quindi utilizzando
+
+702
+00:48:48,040 --> 00:48:53,720
+un'altra intelligenza artificiale, chiamiamoli in questi termini, e avendo dietro dei modelli
+
+703
+00:48:53,720 --> 00:49:00,040
+che sono stati fatti da niente che meno che Meta, cioè Facebook,
+
+704
+00:49:00,440 --> 00:49:05,800
+MetaEI, che appunto, adesso non se ne parla attualmente, ma è un
+
+705
+00:49:05,800 --> 00:49:10,280
+altro grosso competitor, diciamo, del sistema.
+
+706
+00:49:10,280 --> 00:49:14,040
+La cosa interessante qui è che a prescindere dal fatto che tutto
+
+707
+00:49:14,040 --> 00:49:17,920
+questo sistema di alpaca non è perfettamente open source, chiamiamoli in questi
+
+708
+00:49:15,000 --> 00:49:19,520
+termini, è ibrido.
+
+709
+00:49:19,760 --> 00:49:23,680
+Nigliore delle ipotesi, la cosa interessante è che però si possono scaricare
+
+710
+00:49:23,680 --> 00:49:25,120
+i modelli sul computer.
+
+711
+00:49:25,120 --> 00:49:28,800
+Si può avere, io la semplifico molto anche perché anch'io non ho
+
+712
+00:49:28,800 --> 00:49:31,200
+le capacità tecniche per capire tutto.
+
+713
+00:49:31,200 --> 00:49:35,760
+Però, in estrema sintesi ci sono già su GitHub dei progetti che
+
+714
+00:49:35,760 --> 00:49:40,080
+possono essere fatti girare su un Mac Mini, quindi voglio dire, senza
+
+715
+00:49:40,080 --> 00:49:41,840
+avere cose particolari.
+
+716
+00:49:41,840 --> 00:49:47,920
+E questo motore linguistico adesso è prevalentemente ha imparato prevalentemente dall'inglese.
+
+717
+00:49:47,920 --> 00:49:52,080
+Quindi, sulla nostra lingua, per esempio, ha più difficoltà, ma appunto sto
+
+718
+00:49:52,080 --> 00:49:56,000
+sguenzagliando gli amici informatici e gli sto chiedendo se riescono a fare
+
+719
+00:49:56,000 --> 00:49:56,400
+cose.
+
+720
+00:49:56,400 --> 00:50:02,320
+Tuttavia, effettivamente è possibile avere una sorta, chiamiamola così, di chat.
+
+721
+00:50:02,320 --> 00:50:05,920
+Quindi, ecco un'altra cosa che secondo me non abbiamo detto di Chat
+
+722
+00:50:05,920 --> 00:50:12,240
+GPT, la particolarità, diciamo, rispetto a altri sistemi di chat preesistenti, è
+
+723
+00:50:12,240 --> 00:50:17,760
+che Chat GPT riesce per almeno 3, 4, 5 interazioni a ricordarsi,
+
+724
+00:50:17,760 --> 00:50:20,640
+chiamiamola così, anche se hai sbagliato il termine.
+
+725
+00:50:20,960 --> 00:50:23,280
+A ricordarsi di quello che è stato detto prima.
+
+726
+00:50:23,280 --> 00:50:27,840
+Quindi si può fare riferimento a cose dette prima facendo un accenno,
+
+727
+00:50:27,840 --> 00:50:30,320
+ma non ripetendo la stessa domanda.
+
+728
+00:50:30,320 --> 00:50:31,360
+Non so se mi spiego.
+
+729
+00:50:31,360 --> 00:50:36,000
+Ecco, alpaca sostanzialmente riesce a fare le stesse cose però direttamente sul
+
+730
+00:50:36,000 --> 00:50:36,560
+computer.
+
+731
+00:50:36,560 --> 00:50:41,680
+Questo è molto interessante perché sappiamo come Apple negli ultimi dispositivi comunque
+
+732
+00:50:41,680 --> 00:50:45,840
+ha messo dei sistemi appunto di rente rurali e quant'altro.
+
+733
+00:50:45,920 --> 00:50:50,240
+Proprio per permettere ai Mac e agli iPhone e agli iPad di
+
+734
+00:50:50,240 --> 00:50:54,720
+gestire meglio dei modelli già creati, perché qui si parla di modelli
+
+735
+00:50:54,720 --> 00:50:58,000
+già creati, ma che lavorino direttamente sul dispositivo.
+
+736
+00:50:58,000 --> 00:51:04,280
+E quindi, ovviamente, questi modelli che già esistono, chiamiamolo così, non hanno
+
+737
+00:51:04,280 --> 00:51:08,520
+bisogno di telefonare a casa, quindi di andare sul server Mama Microsoft
+
+738
+00:51:08,520 --> 00:51:12,280
+di Open AI, di Google o chi per esso, ma possono anche
+
+739
+00:51:12,280 --> 00:51:14,040
+lavorare sul dispositivo.
+
+740
+00:51:14,040 --> 00:51:17,160
+E tutta questa roba qua, adesso, giusto per fare degli esempi veloci,
+
+741
+00:51:17,160 --> 00:51:19,960
+poi casomai Lucio ne ricorda di più.
+
+742
+00:51:19,960 --> 00:51:24,280
+Però la possibilità di riconoscere del testo direttamente dalle foto, quello che
+
+743
+00:51:24,280 --> 00:51:31,240
+si chiama live text, anche la riduzione del rumore nelle conversazioni, o
+
+744
+00:51:31,240 --> 00:51:36,920
+anche l'effetto sfocato, secondo me, sono tutti modelli di machine learning, cioè
+
+745
+00:51:37,560 --> 00:51:44,760
+cosiddetta intelligenza artificiale, che Apple però fa lavorare direttamente dal dispositivo e
+
+746
+00:51:44,760 --> 00:51:48,280
+quindi che, per esempio, non richiedono il collegamento di internet.
+
+747
+00:51:48,280 --> 00:51:52,760
+Per cui appunto oggi non si sa nulla a parte del sito
+
+748
+00:51:53,240 --> 00:51:58,040
+dove Apple parla dei suoi sistemi di chiamiamo così machine learning, perché
+
+749
+00:51:58,040 --> 00:52:02,840
+Apple li chiama col nome giusto, ma non perché siamo tutti qua
+
+750
+00:52:02,840 --> 00:52:04,440
+a fare Apple e così via.
+
+751
+00:52:04,440 --> 00:52:08,760
+Però effettivamente sono abbastanza precisi sul punto e non hanno mai creato
+
+752
+00:52:08,760 --> 00:52:13,880
+degli hyper assurdi, ma stanno utilizzando tutte queste tecnologie per fare cose.
+
+753
+00:52:13,880 --> 00:52:19,080
+Perché tra l'altro adesso lo possiamo dire perché abbiamo coinvolto l'amico Alex
+
+754
+00:52:19,080 --> 00:52:23,880
+Racuglia che su questi giochi informatici, diciamo, ci sta lavorando.
+
+755
+00:52:23,880 --> 00:52:29,560
+Diciamo, poi ne parleremo in una puntata apposta, ma Apple ha creato
+
+756
+00:52:29,560 --> 00:52:32,840
+tutta una serie di strumenti per cui ci sono dei modelli, chiamiamoli
+
+757
+00:52:32,840 --> 00:52:38,760
+così, di base, già quelli chiamiamoli così di grosse dimensioni, che richiedono
+
+758
+00:52:38,760 --> 00:52:45,840
+ovviamente un lavoro impegnativo, di predisposizione, su cui però i singoli programmatori
+
+759
+00:52:45,840 --> 00:52:50,000
+possono fare un training specifico, che poi è anche quello che appunto
+
+760
+00:52:50,160 --> 00:52:55,120
+sembrerebbe dall'ultimo video che ho visto, giusto oggi alpaca riesca a fare,
+
+761
+00:52:55,120 --> 00:52:58,320
+cioè questo programmatore tedesco, siccome appunto
+
+762
+00:52:59,440 --> 00:53:02,720
+alpaca funziona bene con l'inglese, ma non funziona bene con le altre
+
+763
+00:53:02,720 --> 00:53:08,320
+lingue, ha cercato spendendo il minimo possibile 3 euro, fare appunto, ovviamente
+
+764
+00:53:08,320 --> 00:53:12,320
+con tutta una serie di competenze informatiche notevoli, tendo a precisare, perché
+
+765
+00:53:12,560 --> 00:53:16,640
+io ho capito il concetto, ma riprodurlo non sarei in grado.
+
+766
+00:53:16,800 --> 00:53:21,360
+Ha fatto il training, appunto di alpaca con la lingua tedesca, e,
+
+767
+00:53:21,360 --> 00:53:26,000
+seppur non perfetto, ovviamente, anche perché ha cercato veramente di tirare col
+
+768
+00:53:26,160 --> 00:53:31,920
+minimo possibile sindacale, riusciva a dialogare in maniera abbastanza sensata, diceva lui
+
+769
+00:53:32,000 --> 00:53:36,400
+perché io non conosco il tedesco: con questo sistema poi di sintesi
+
+770
+00:53:36,400 --> 00:53:36,960
+testuale.
+
+771
+00:53:36,960 --> 00:53:41,520
+Perché poi chiamarlo sempre intelligenza artificiale è lunga.
+
+772
+00:53:41,520 --> 00:53:44,960
+E probabilmente è questo il vero, cioè almeno dal mio punto di
+
+773
+00:53:44,960 --> 00:53:49,600
+vista, è questa la cosa più interessante e più promettente di questi
+
+774
+00:53:49,600 --> 00:53:50,160
+sistemi.
+
+775
+00:53:50,160 --> 00:53:55,760
+Perché appunto, io, come avvocato, per esempio, non posso sparare, non so,
+
+776
+00:53:55,760 --> 00:53:59,760
+i contratti di 100 clienti per farli imparare a scrivere un contratto.
+
+777
+00:54:00,320 --> 00:54:03,920
+O addirittura quello che a me, per esempio, interesserebbe da morire: è
+
+778
+00:54:04,080 --> 00:54:08,880
+una volta che bene o male il partner è abbastanza simile, estrapolare
+
+779
+00:54:08,880 --> 00:54:11,840
+i dati del cliente dai contratti in automatico.
+
+780
+00:54:12,000 --> 00:54:15,920
+Quindi puoi permettermi di lavorare quei dati eventualmente per fare, non so,
+
+781
+00:54:15,920 --> 00:54:16,640
+un atto.
+
+782
+00:54:16,640 --> 00:54:21,840
+E quindi io devo sapere cose, o addirittura gli chiedere, per esempio,
+
+783
+00:54:21,840 --> 00:54:26,480
+di cercarmi quella specifica clausola, ma quel testo in una mole grossa
+
+784
+00:54:26,640 --> 00:54:28,240
+di documenti, ecco lì sì.
+
+785
+00:54:28,240 --> 00:54:33,480
+Che trovo ovviamente sul dispositivo o comunque su un computer strutturato per
+
+786
+00:54:33,480 --> 00:54:37,880
+fare queste operazioni, quindi anche eventualmente potente, lì sì, che vedo veramente
+
+787
+00:54:38,040 --> 00:54:42,360
+qualcosa di concreto, utile, meno per la mia professione, perché poi ovviamente
+
+788
+00:54:42,360 --> 00:54:44,840
+ognuno lavora per i fatti suoi.
+
+789
+00:54:45,080 --> 00:54:49,560
+Dici bene sul fatto che Apple già usa il machine learning in
+
+790
+00:54:49,560 --> 00:54:53,480
+un sacco di campi, alle cose che hai già detto tu, aggiungo
+
+791
+00:54:53,480 --> 00:54:59,960
+poche banalità, macOS è in grado da tempo di riassumere testi lunghi,
+
+792
+00:55:00,120 --> 00:55:02,360
+e questo si fa con
+
+793
+00:55:03,400 --> 00:55:05,080
+il machine learning.
+
+794
+00:55:05,400 --> 00:55:10,120
+Le mappe usano chiaramente il machine learning.
+
+795
+00:55:10,120 --> 00:55:16,360
+Tutto l'ecosistema fotografico si basa su dosi pesantissime di machine learning di
+
+796
+00:55:17,400 --> 00:55:20,200
+foto, l'applicazione, l'app che
+
+797
+00:55:21,480 --> 00:55:28,600
+riconosce i volti, raggruppa luoghi, mette insieme i momenti salienti, prepara le
+
+798
+00:55:28,600 --> 00:55:34,520
+collezioni in automatico, alla fotografia computazionale di iPhone.
+
+799
+00:55:34,520 --> 00:55:37,720
+Tutto questo dietro il machine learning.
+
+800
+00:55:37,720 --> 00:55:40,280
+Se si va sulla pagina citata da Filippo
+
+801
+00:55:41,400 --> 00:55:47,640
+di Core ML, sul sito sviluppatore Apple, c'è la possibilità di trainare
+
+802
+00:55:47,640 --> 00:55:55,960
+e creare modelli di sintesi testuale sul device, non fuori, in locale,
+
+803
+00:55:55,960 --> 00:56:02,200
+perché tutti gli M1 e gli M2 hanno una neural engine interno,
+
+804
+00:56:02,440 --> 00:56:09,000
+riescono a fare questo tipo di lavoro che è computazionalmente molto importante.
+
+805
+00:56:10,360 --> 00:56:17,760
+Gli sviluppatori possono convertire modelli indipendenti in versione adeguata per farlo andare
+
+806
+00:56:17,760 --> 00:56:21,760
+su Mac, e c'è una galleria di modelli già pronti che si
+
+807
+00:56:21,760 --> 00:56:27,680
+possono compulsare, sfogliare e decidere di usare per fare i propri progetti
+
+808
+00:56:28,000 --> 00:56:28,880
+e così via.
+
+809
+00:56:28,880 --> 00:56:33,600
+In fin dei conti, per esempio, esistono sistemi come Obsidian.
+
+810
+00:56:33,600 --> 00:56:38,880
+Che se tu gli dai in pasto una base dati, una base
+
+811
+00:56:38,880 --> 00:56:42,720
+di conoscenza di testi in Markdown, che possono essere i testi del
+
+812
+00:56:42,720 --> 00:56:48,320
+mio blog, piuttosto che tutto quello che sta sul Mac, Obsidian fa
+
+813
+00:56:48,320 --> 00:56:53,360
+una ricerca full test, una gestione intelligente di tutti i testi che
+
+814
+00:56:53,360 --> 00:56:58,320
+ci sono sul mio Mac, senza bisogno di mettermi a usare Git,
+
+815
+00:56:58,480 --> 00:57:01,120
+fare altre robe più complesse.
+
+816
+00:57:01,120 --> 00:57:07,600
+Se io a un sistema come Obsidian aggiungo delle caratteristiche di machine
+
+817
+00:57:07,600 --> 00:57:13,040
+learning a questo punto potrei chiedergli: non so, senti, abbozzami un pezzo
+
+818
+00:57:13,040 --> 00:57:20,240
+sulla sintesi vocale dentro iOS 17 perché mi serve da pubblicare la
+
+819
+00:57:20,240 --> 00:57:21,120
+prossima settimana.
+
+820
+00:57:21,280 --> 00:57:24,880
+Lui mi tira fuori una cosa assolutamente una cosa che ho già
+
+821
+00:57:24,880 --> 00:57:30,480
+scritto di fatto: trova il mediuman che è dentro nei miei testi
+
+822
+00:57:30,480 --> 00:57:35,040
+e tira fuori il bagagnolo medio, che deve essere una cosa terrificante.
+
+823
+00:57:35,040 --> 00:57:40,000
+A quel punto il bagagnolo umano ci mette qualcosa di suo, aggiunge,
+
+824
+00:57:40,000 --> 00:57:45,520
+sistema, riccia e però ha risparmiato qualche tempo, e allora si vede
+
+825
+00:57:45,520 --> 00:57:50,720
+bene una possibile evoluzione davvero utile di queste cose.
+
+826
+00:57:50,720 --> 00:57:55,440
+Diverso è il caso di chi dice appunto: io i comunicati stampa
+
+827
+00:57:55,440 --> 00:57:58,160
+li scrivo con chat GPT e risparmio un sacco di tempo.
+
+828
+00:57:58,160 --> 00:58:02,280
+Nel famoso ufficio stampa che ho formato qualche settimana fa, abbiamo fatto
+
+829
+00:58:00,000 --> 00:58:02,760
+questa cosa.
+
+830
+00:58:03,000 --> 00:58:07,000
+Io ho dato in pasto a ChatGPT la locandina del PDF che
+
+831
+00:58:07,000 --> 00:58:11,400
+annunciava l'evento X ho detto: Generami il comunicato stampa.
+
+832
+00:58:11,560 --> 00:58:15,720
+Lui lo ha fatto con qualche ingenuità, ma al 90%
+
+833
+00:58:17,000 --> 00:58:20,920
+era decente, era un tranquillissimo comunicato stampa.
+
+834
+00:58:20,920 --> 00:58:26,600
+E ho chiesto ai formandi: voi pubblichereste questo come vi sembra?
+
+835
+00:58:26,600 --> 00:58:30,280
+E dopo un po' tutti hanno detto: Ma sì, beh, io pubblicherei.
+
+836
+00:58:30,280 --> 00:58:33,720
+E io ho chiesto: e allora a che cavolo servite visto che
+
+837
+00:58:33,720 --> 00:58:35,080
+è bastato un click.
+
+838
+00:58:35,880 --> 00:58:39,480
+Il problema vero, la preoccupazione che ho io, non è tanto il
+
+839
+00:58:39,480 --> 00:58:42,680
+discorso, non so, si fanno discorsi sull'occupazione.
+
+840
+00:58:42,920 --> 00:58:47,240
+Un gran numero di sciocchezze, secondo me, perché tutti gli zombi che
+
+841
+00:58:47,240 --> 00:58:52,520
+usano World Excel e PowerPoint useranno World Excel e PowerPoint con dentro
+
+842
+00:58:52,680 --> 00:58:53,720
+chat GPT.
+
+843
+00:58:53,720 --> 00:58:57,640
+Da questo punto di vista cambia abbastanza poco.
+
+844
+00:58:57,640 --> 00:58:58,920
+Che cosa succede?
+
+845
+00:58:58,920 --> 00:59:05,000
+Succede che, come detto, questi sistemi non tirano fuori il meglio di
+
+846
+00:59:05,000 --> 00:59:09,720
+una base di conoscenza, non tirano fuori neanche il peggio, tirano fuori
+
+847
+00:59:09,800 --> 00:59:15,080
+la mediocritas, tirano fuori il consenso generale, la via di mezzo, il
+
+848
+00:59:15,080 --> 00:59:18,360
+traduccio vino della conoscenza.
+
+849
+00:59:18,360 --> 00:59:23,320
+Ciò detto, operano su una scala planetaria.
+
+850
+00:59:23,320 --> 00:59:28,360
+Quindi gli input e gli output di questi sistemi si misurano in
+
+851
+00:59:28,440 --> 00:59:35,160
+già oggi miliardi di unità, se non decine o centinaia di miliardi.
+
+852
+00:59:35,160 --> 00:59:41,400
+C'è una quantità di contenuto ingerito e rimasticato da chat GPT e
+
+853
+00:59:41,400 --> 00:59:43,800
+compagnia che è spaventosa.
+
+854
+00:59:43,800 --> 00:59:45,000
+Qual è il problema, vero?
+
+855
+00:59:45,440 --> 00:59:51,920
+Tutto questo contenuto che è stato prodotto da ChatGPT rientrerà dentro ChatGPT
+
+856
+00:59:52,080 --> 00:59:59,440
+e farà parte della sua base di conoscenza di ChatGPT verrà addestrato
+
+857
+00:59:59,440 --> 01:00:01,600
+su cose che ha fatto lui.
+
+858
+01:00:01,600 --> 01:00:05,360
+Ora facciamo finta che io sia uno che sa cucinare solo l'uovo
+
+859
+01:00:05,360 --> 01:00:08,480
+o tegamino, non so fare neanche quello, ma facciamo finta.
+
+860
+01:00:08,560 --> 01:00:11,920
+E io so fare l'uovo o tegamino, saprò fare l'uovo voltegamino.
+
+861
+01:00:12,720 --> 01:00:17,600
+La cosa grave è che se una volta mi viene l'impeto della
+
+862
+01:00:17,600 --> 01:00:21,680
+creatività, butto il pepe sull'uovo voltegamino?
+
+863
+01:00:21,680 --> 01:00:25,600
+L'uovo voltegamino che genera l'intelligenza artificiale, il pepe non ce l'avrà mai?
+
+864
+01:00:25,600 --> 01:00:34,080
+Perché rappresenta una variazione, un picco, una stranezza rispetto alla mediocrità.
+
+865
+01:00:34,880 --> 01:00:42,080
+Che cosa succederà al comunicato stampa, all'articolo, all'atto giudiziario, a tutte queste
+
+866
+01:00:42,320 --> 01:00:44,800
+articolo di giornale, qualcuno li vuole automatizzare.
+
+867
+01:00:44,800 --> 01:00:49,360
+Cioè, già adesso ha GPT più o meno, parola più parola meno,
+
+868
+01:00:49,360 --> 01:00:52,880
+scrive tutto allo stesso modo perché ha un tono monocorde.
+
+869
+01:00:52,880 --> 01:00:57,760
+Diamogli un anno di tempo che lui impari a scrivere in base
+
+870
+01:00:57,760 --> 01:01:01,440
+a quello che scrive lui, ma non può andare che peggio, magari
+
+871
+01:01:01,440 --> 01:01:06,160
+avete in casa una vecchia nonna, un vecchio nonno che ripete un
+
+872
+01:01:06,160 --> 01:01:10,400
+po' passati gli 85, tende a ripetere un po' sempre le stesse
+
+873
+01:01:10,400 --> 01:01:10,880
+cose.
+
+874
+01:01:11,360 --> 01:01:16,160
+Lui è un vecchio nonno è un chat GPT che ha raggiunto
+
+875
+01:01:16,480 --> 01:01:19,280
+la piena maturità, si nutre di se stesso.
+
+876
+01:01:19,440 --> 01:01:23,200
+Ricordiamoci che è un sistema che prende parole a caso e le
+
+877
+01:01:23,200 --> 01:01:26,800
+mette a caso una dietro l'altra basandosi su un peso percentuale.
+
+878
+01:01:26,800 --> 01:01:31,320
+Quindi la qualità di quello che sarà il suo output da qui
+
+879
+01:01:31,320 --> 01:01:33,000
+a tre anni, cinque anni.
+
+880
+01:01:33,000 --> 01:01:37,000
+Questa è la cosa che a me preoccupa, perché poi milioni di
+
+881
+01:01:37,000 --> 01:01:43,320
+persone ci sideranno sopra e accetteranno tranquillamente quello che esce da questi
+
+882
+01:01:43,320 --> 01:01:47,320
+sistemi senza la minima variazione, senza la minima obiezione.
+
+883
+01:01:47,960 --> 01:01:53,960
+Ecco, ricordiamolo: tra l'altro, è vero che chat GPT è uno strumento,
+
+884
+01:01:53,960 --> 01:01:58,760
+ma spesso gli strumenti, e come sono stati anche pensati involontariamente dai
+
+885
+01:01:58,760 --> 01:02:02,760
+loro creatori, influenzano chi lo strumento lo utilizza.
+
+886
+01:02:02,760 --> 01:02:07,080
+Il detto americano: se tu hai un martello, tutto sembrare un chiodo
+
+887
+01:02:07,240 --> 01:02:12,920
+è esemplificativo di questa mentalità, e quindi, soprattutto di chi non conosce
+
+888
+01:02:12,920 --> 01:02:17,880
+bene questi strumenti che sono trasparenti per l'utente finale, diciamo così, sempre
+
+889
+01:02:18,040 --> 01:02:18,680
+medio.
+
+890
+01:02:18,680 --> 01:02:24,680
+Per cui non conoscere come funziona lo strumento, avere addirittura quell'effetto magico
+
+891
+01:02:25,000 --> 01:02:30,520
+alla Harry Potter, per cui tu fai una frase lui automaticamente, magicamente,
+
+892
+01:02:30,520 --> 01:02:36,200
+senza che tu sappia cosa c'è dietro, la cosa compare, è ovvio
+
+893
+01:02:36,200 --> 01:02:41,320
+che si crea un loop potenzialmente anche pericoloso.
+
+894
+01:02:41,560 --> 01:02:46,600
+Diciamo che si profila un abbassamento totale della qualità, perché come dicevi
+
+895
+01:02:46,680 --> 01:02:51,960
+prima, giustamente Lucio, una volta che fai sempre la percentuale in riduzione
+
+896
+01:02:51,960 --> 01:02:54,920
+di un numero prima o poi arrivi a zero, e la situazione
+
+897
+01:02:55,400 --> 01:02:57,240
+lì è completamente degenerata.
+
+898
+01:02:57,240 --> 01:02:59,480
+Non ci arriverai mai a zero zero zero.
+
+899
+01:02:59,480 --> 01:03:01,400
+Però arrivi molto vicino.
+
+900
+01:03:01,720 --> 01:03:05,240
+Però vicino, molto vicino, e sarà un bel disastro.
+
+901
+01:03:05,240 --> 01:03:11,000
+Nel senso che, in effetti, questa è una possibilità che questo tipo
+
+902
+01:03:11,000 --> 01:03:16,160
+di intelligenze artificiali, probabilmente si auto-annulerà da sola, nel senso che a
+
+903
+01:03:16,160 --> 01:03:20,640
+un certo punto arriverà a un livello medio, chiamiamolo così così basso,
+
+904
+01:03:20,960 --> 01:03:24,480
+non verrà più accettato neanche a livello medio degli esseri umani.
+
+905
+01:03:24,640 --> 01:03:29,200
+Ma il problema vero è un altro vero rischio, e di fatto
+
+906
+01:03:29,280 --> 01:03:35,280
+lo vediamo già adesso: nel gioco della standardizzazione, chiamiamoli in questi termini.
+
+907
+01:03:35,280 --> 01:03:36,800
+Il livello scende sempre.
+
+908
+01:03:36,800 --> 01:03:41,360
+E quindi se il livello di base dell'utente è sceso progressivamente nel
+
+909
+01:03:41,360 --> 01:03:41,840
+tempo.
+
+910
+01:03:42,000 --> 01:03:46,800
+No, io spero sempre, do una diciamo, spero sempre che il livello
+
+911
+01:03:46,800 --> 01:03:49,120
+umano rimanga almeno a un certo livello.
+
+912
+01:03:49,600 --> 01:03:54,080
+Mia personale impressione è che stiamo per mille motivi e non collegati
+
+913
+01:03:54,240 --> 01:03:56,800
+sicuro, stiamo abbastanza scendendo.
+
+914
+01:03:56,800 --> 01:04:02,880
+Più che altro, proprio perché c'è molta informazione, ma al contrario è
+
+915
+01:04:02,880 --> 01:04:05,360
+difficile da digerire.
+
+916
+01:04:05,360 --> 01:04:10,480
+Quindi anche solo, per esempio, oggi la scaletta era abbastanza disorganizzata dal
+
+917
+01:04:10,480 --> 01:04:13,120
+mio punto di vista, ma proprio perché anch'io non ho delle chiare
+
+918
+01:04:13,120 --> 01:04:13,600
+idee.
+
+919
+01:04:13,840 --> 01:04:18,640
+Anzi, ormai ci sono più notizie di quelle che, secondo me, umanamente,
+
+920
+01:04:19,920 --> 01:04:23,120
+almeno dal mio punto di vista, è tutta attività che faccio a
+
+921
+01:04:23,120 --> 01:04:26,880
+tempo perso e nei miei momenti di relax e di divertimento, è
+
+922
+01:04:26,960 --> 01:04:31,840
+più difficile da digerire, non ne ho la capacità di digerire tutto
+
+923
+01:04:31,840 --> 01:04:37,200
+quello che attualmente viene prodotto, o è presumibile che sia stato prodotto,
+
+924
+01:04:37,200 --> 01:04:42,080
+perché poi anche per dividere i pane dai pesci, ovviamente devi avere
+
+925
+01:04:42,080 --> 01:04:45,280
+il tempo di capire, leggere, ragionare e tutto il resto.
+
+926
+01:04:45,280 --> 01:04:49,920
+Sono del parere che si aprano delle grandi opportunità lavorative per chi
+
+927
+01:04:50,240 --> 01:04:57,680
+riesca a rappresentarsi a presentarsi come un vinile nel suo campo.
+
+928
+01:04:57,680 --> 01:05:03,160
+Il mondo della musica si è a completamente svalutato la musica stessa.
+
+929
+01:05:03,400 --> 01:05:07,800
+I pezzi non valgono più nulla, valgono pochi centesimi quando passano su
+
+930
+01:05:08,200 --> 01:05:09,640
+Spotify.
+
+931
+01:05:09,640 --> 01:05:12,920
+Il singolo non ha più nessun valore.
+
+932
+01:05:13,240 --> 01:05:18,360
+Da diverso tempo, come mercato di nicchia, i vinili non fanno altro
+
+933
+01:05:18,360 --> 01:05:19,320
+che crescere.
+
+934
+01:05:19,320 --> 01:05:21,880
+Che cos'è il vinile?
+
+935
+01:05:22,120 --> 01:05:31,640
+Non è meglio del digitale super campionato, raffinato, sintetizzato alla grandissima, è
+
+936
+01:05:31,640 --> 01:05:35,800
+semplicemente un porsi fuori dall'omologazione.
+
+937
+01:05:35,800 --> 01:05:37,960
+Diventare vinili
+
+938
+01:05:39,480 --> 01:05:50,760
+del giornalismo, dell'architettura, dell'avvocatura, della ricerca scientifica, della programmazione, secondo me, inizierà
+
+939
+01:05:50,760 --> 01:05:53,480
+a pagare e ripagare.
+
+940
+01:05:53,480 --> 01:06:00,600
+L'alternativa, ovviamente, è quella invece di andare a scavare, arrivare alle radici
+
+941
+01:06:00,600 --> 01:06:06,200
+dell'albero e diventare maestri, essere non quelli che subiscono i modelli, ma
+
+942
+01:06:06,200 --> 01:06:10,280
+quelli che li creano, non essere quello che addestra i modelli da
+
+943
+01:06:10,520 --> 01:06:13,960
+cavia, ma quello che addestra i modelli da padrone dei modelli.
+
+944
+01:06:13,960 --> 01:06:19,240
+Ci sarà una grande richiesta di modelli e di addestramento di persone
+
+945
+01:06:19,480 --> 01:06:25,960
+che sanno domare questi meccanismi che oramai hanno dimensioni tali di codice
+
+946
+01:06:25,960 --> 01:06:32,520
+e di complessità interna che sfuggono in gran parte agli stessi creatori.
+
+947
+01:06:32,520 --> 01:06:33,480
+Chi programma
+
+948
+01:06:34,680 --> 01:06:41,080
+questi sistemi non ha realmente idea completa di quello che ci sarà
+
+949
+01:06:41,080 --> 01:06:42,280
+come output.
+
+950
+01:06:42,280 --> 01:06:45,440
+Ed è questo che alimenta l'idea fallace che è un certo punto
+
+951
+01:06:45,520 --> 01:06:51,120
+da questa roba emerga l'autocoscienza, non ci sarà mai tempo di fare
+
+952
+01:06:51,120 --> 01:06:53,440
+pippone sull'intelligenza artificiale vera.
+
+953
+01:06:53,440 --> 01:06:59,680
+Tuttavia, il punto è questo: dal machine learning, l'autocoscienza non arriva, non
+
+954
+01:06:59,680 --> 01:07:04,560
+importa quanto sia grande e immenso il modello, quanti punti di informazione
+
+955
+01:07:04,560 --> 01:07:08,960
+abbia, quanti neuroni abbia la rete neurale, non ce n'è, non è
+
+956
+01:07:08,960 --> 01:07:14,720
+un sistema in grado di diventare padrone di se stessi direi ottime
+
+957
+01:07:14,720 --> 01:07:17,040
+osservazioni da parte di tutti.
+
+958
+01:07:17,280 --> 01:07:20,400
+Ovviamente ce ne sarebbe ancora da raccontare per un po'.
+
+959
+01:07:20,400 --> 01:07:24,640
+Filippo, se ho letto bene le tue impressioni, direi di andare verso
+
+960
+01:07:24,640 --> 01:07:28,880
+la chiusura, abbiamo fatto di reza, andiamo verso un'ora e mezza di
+
+961
+01:07:28,880 --> 01:07:29,920
+registrazione.
+
+962
+01:07:29,920 --> 01:07:30,240
+Quindi
+
+963
+01:07:31,520 --> 01:07:35,680
+, io vi chiedo ancora una cosa prima che chiudiamo, però andate verso
+
+964
+01:07:35,680 --> 01:07:37,680
+la chiusura, basta che me ne lasciate una.
+
+965
+01:07:37,840 --> 01:07:40,320
+Vai tranquillo, hai carta bianca, Lucio.
+
+966
+01:07:40,320 --> 01:07:40,960
+Ah va bene.
+
+967
+01:07:40,960 --> 01:07:46,240
+Allora, allora approfitto, perché una delle cose da leggere, anzi, ce ne
+
+968
+01:07:46,240 --> 01:07:48,080
+sono due, in realtà.
+
+969
+01:07:48,400 --> 01:07:54,240
+Quella da leggere per imparare è la spiegazione di Steven Wolfram su
+
+970
+01:07:54,240 --> 01:07:58,720
+come funzionano questi sistemi qui dentro sul sito di Volfram Alfa, ha
+
+971
+01:07:58,720 --> 01:08:03,520
+praticamente scritto un libro anche se è pubblicato in forma di pagina,
+
+972
+01:08:03,520 --> 01:08:07,840
+è molto lungo, però è molto comprensibile e molto completo.
+
+973
+01:08:07,840 --> 01:08:08,960
+E questa è una cosa.
+
+974
+01:08:08,960 --> 01:08:13,840
+L'altra cosa è un post che è uscito recentissimamente sul blog di
+
+975
+01:08:13,840 --> 01:08:21,200
+Bill Gates che parla dell'avvento dell'era dell'intelligenza artificiale, di Age of AI.
+
+976
+01:08:21,240 --> 01:08:25,800
+E dunque, c'è una disamina assolutamente completissima di quello che sta succedendo.
+
+977
+01:08:25,800 --> 01:08:30,680
+Perché signora mia è Bill Gates che scrive, un minimo di nozione
+
+978
+01:08:29,520 --> 01:08:31,400
+ce l'ha.
+
+979
+01:08:31,640 --> 01:08:37,240
+Ci sono un sacco di cose molto interessanti da leggere, c'è un
+
+980
+01:08:37,240 --> 01:08:40,360
+pessimo tentativo di insegnare
+
+981
+01:08:42,200 --> 01:08:47,160
+: insegnare i gatti a arrampicarsi, insegnare ai ladri a rubare, qualcosa del
+
+982
+01:08:47,160 --> 01:08:47,720
+genere.
+
+983
+01:08:47,720 --> 01:08:53,240
+Perché a un certo punto lui dice che sì, questi sistemi sono:
+
+984
+01:08:53,480 --> 01:08:55,880
+intelligenze artificiali.
+
+985
+01:08:55,880 --> 01:09:04,200
+Perché l'intelligenza artificiale è la capacità di risolvere problemi, punto e virgola.
+
+986
+01:09:04,200 --> 01:09:12,040
+E questo è un sottoinsieme dell'intelligenza artificiale generale, che è la capacità
+
+987
+01:09:12,360 --> 01:09:18,440
+generica di risolvere problemi e non la capacità specifica di risolvere problemi,
+
+988
+01:09:18,440 --> 01:09:22,280
+che è quello che hanno queste intelligenze artificiali.
+
+989
+01:09:22,280 --> 01:09:26,680
+Allora c'è la truffa e la uber truffa, la metatruffa, la truffa
+
+990
+01:09:26,680 --> 01:09:27,720
+sulla truffa.
+
+991
+01:09:27,720 --> 01:09:36,360
+Perché chiaramente chiunque sappia dell'esistenza degli scultori, dei cantanti, delle guide turistiche,
+
+992
+01:09:36,360 --> 01:09:41,640
+sa benissimo che l'intelligenza non ha a che vedere solo con la
+
+993
+01:09:41,640 --> 01:09:43,160
+risoluzione dei problemi.
+
+994
+01:09:43,400 --> 01:09:47,480
+Ci sono un sacco di attività completamente ludiche, completamente fine a se
+
+995
+01:09:47,480 --> 01:09:55,240
+stesse, completamente inutili, che denotano invece un grado altissimo di intelligenza.
+
+996
+01:09:55,240 --> 01:09:59,160
+Seconda cosa da dire su questo: quindi questi non sono sistemi, non
+
+997
+01:09:59,160 --> 01:10:06,360
+sono intelligenze artificiali, ma neanche la definizione di Gates è intelligente, è
+
+998
+01:10:06,680 --> 01:10:10,760
+astuta, serve a rubare il campo agli scienziati.
+
+999
+01:10:10,760 --> 01:10:15,760
+L'intelligenza artificiale, qui sarebbe partito il pippone, ma non c'è tempo.
+
+1000
+01:10:15,760 --> 01:10:24,320
+Comincia a basarsi su riconoscimento di pattern, formazione di analogia, elaborazione parallela
+
+1001
+01:10:24,320 --> 01:10:29,600
+di microprocessi che navigano sotto la soglia di introspezione e mano a
+
+1002
+01:10:29,600 --> 01:10:35,360
+mano si agglomerano in macro processi che superano la soglia di introspezione
+
+1003
+01:10:35,360 --> 01:10:39,360
+e viaggiano a velocità diverse di selezione.
+
+1004
+01:10:39,360 --> 01:10:43,120
+Ma questo sarebbe stato il pippone al podcast numero 58.
+
+1005
+01:10:43,280 --> 01:10:49,360
+Vi ringrazio molto per avermi concesso quest'ultima arrabbiatura, sono tutte osservazioni corrette.
+
+1006
+01:10:49,360 --> 01:10:51,200
+Che credo che anche Filippo condivida.
+
+1007
+01:10:51,200 --> 01:10:55,760
+Io almeno lo condivido, e stavo pensando che comunque tutte queste cose,
+
+1008
+01:10:55,760 --> 01:11:00,000
+queste operazioni che ha accennato verso la fine del tuo pensiero, sono
+
+1009
+01:11:00,000 --> 01:11:03,920
+tutte cose che facciamo normalmente noi e non ci rendiamo nemmeno conto.
+
+1010
+01:11:04,000 --> 01:11:09,520
+E forse continuiamo ad associare questa facilità per noi in fare queste
+
+1011
+01:11:09,600 --> 01:11:10,240
+operazioni.
+
+1012
+01:11:10,400 --> 01:11:15,680
+Le associamo a altri oggetti inanimati o ad animali che possono fare
+
+1013
+01:11:15,680 --> 01:11:17,360
+lo stesso tipo di operazioni.
+
+1014
+01:11:17,360 --> 01:11:22,800
+In effetti, è un'ottima osservazione, and secondo me, questo podcast in particolare
+
+1015
+01:11:23,200 --> 01:11:27,920
+è stato veramente un bel podcast riflessivo con tanti punti di vista,
+
+1016
+01:11:27,920 --> 01:11:32,240
+e soprattutto molto informativo, che è una cosa molto difficile anche da
+
+1017
+01:11:32,240 --> 01:11:36,880
+trovare in questo momento, ma soprattutto la cosa importante è il punto
+
+1018
+01:11:36,880 --> 01:11:38,320
+di vista critico.
+
+1019
+01:11:38,640 --> 01:11:42,320
+Nel podcast che faremo, il numero 58, insieme o quello che sarà,
+
+1020
+01:11:42,480 --> 01:11:46,880
+bisognerà però poi anche spezzare una lancia sulla possibilità di utilizzare questo
+
+1021
+01:11:46,880 --> 01:11:52,400
+tipo di tool in alcuni settori che possono in effetti migliorare, diciamo,
+
+1022
+01:11:52,400 --> 01:11:53,920
+lo sviluppo di un'idea.
+
+1023
+01:11:53,920 --> 01:11:56,640
+Ma questo è argomento per un altro podcast.
+
+1024
+01:11:56,640 --> 01:12:01,400
+Come sentite, con Lucio ce n'è sempre da raccontare, è veramente un
+
+1025
+01:11:59,840 --> 01:12:02,280
+pozzo di idee.
+
+1026
+01:12:02,440 --> 01:12:06,760
+Lo ringraziamo entrambi, a nome di tutti gli ascoltatori, dei due conduttori,
+
+1027
+01:12:06,840 --> 01:12:08,040
+Filippo e Roberto.
+
+1028
+01:12:08,040 --> 01:12:11,320
+Grazie Lucio per quello che fai, per le parole che ci hai
+
+1029
+01:12:11,320 --> 01:12:13,640
+dato, e soprattutto per il tempo che ci hai donato.
+
+1030
+01:12:14,040 --> 01:12:16,440
+Grazie, Lucio, per la tua presenza in questo podcast.
+
+1031
+01:12:16,440 --> 01:12:19,240
+Grazie a voi, invece, che è sempre un piacere.
+
+1032
+01:12:19,240 --> 01:12:24,040
+Guardiamo il mondo dell'intelligenza artificiale con gli occhi del bambino che riconosce
+
+1033
+01:12:24,040 --> 01:12:29,960
+un gatto dopo averlo visto due volte, mentre il modello linguistico ha
+
+1034
+01:12:29,960 --> 01:12:31,960
+bisogno di vederne milioni.
+
+1035
+01:12:31,960 --> 01:12:34,680
+Poi gli ne mostri uno fatto di cartone e due non capisce.
+
+1036
+01:12:34,680 --> 01:12:38,760
+Esatto, perfetto esempio di quello che è la situazione attuale.
+
+1037
+01:12:38,760 --> 01:12:43,000
+Diciamo che il riassunto del riassunto: questo qui è proprio il riassunto
+
+1038
+01:12:43,160 --> 01:12:48,200
+totale dell'intelligenza artificiale, l'esempio perfetto che spiega tutta la puntata.
+
+1039
+01:12:48,200 --> 01:12:54,440
+Grande luce Lux GPT, come si diceva esattamente, Lucio, dove ti troviamo
+
+1040
+01:12:54,440 --> 01:12:59,560
+di bello per farci quattro cacchiere assieme su Macintelligence.org
+
+1041
+01:13:00,760 --> 01:13:05,080
+nel mio blog e per chi vuole i pochi intimi nel mio
+
+1042
+01:13:05,080 --> 01:13:06,280
+gruppo slack.
+
+1043
+01:13:06,280 --> 01:13:09,800
+Ci si arriva, basta lasciare un commentino dentro nel blog.
+
+1044
+01:13:09,800 --> 01:13:11,240
+Si viene invitati subito.
+
+1045
+01:13:11,240 --> 01:13:12,360
+Ci sono anch'io.
+
+1046
+01:13:12,360 --> 01:13:13,640
+È vero, è vero, infatti.
+
+1047
+01:13:13,720 --> 01:13:18,120
+Io non sono un amante di Slack, non ci sono, ma ci
+
+1048
+01:13:18,120 --> 01:13:20,680
+sono nello spirito, come se soldi.
+
+1049
+01:13:21,160 --> 01:13:23,800
+Ma io ti voglio amo i tuoi difetti, Filippo.
+
+1050
+01:13:24,360 --> 01:13:29,720
+E se voi amate i nostri difetti come noi amiamo i nostri,
+
+1051
+01:13:29,720 --> 01:13:33,560
+allora dovete semplicemente andare a fare una bella recensione su Apple Podcast,
+
+1052
+01:13:33,720 --> 01:13:39,080
+lasciare belle 5 stelline, così fate capire l'intelligenza artificiale che comandano ancora
+
+1053
+01:13:39,080 --> 01:13:40,920
+gli umani in questo momento.
+
+1054
+01:13:41,240 --> 01:13:44,440
+E quindi, se volete anche essere più bravi, scrivete anche due belle
+
+1055
+01:13:44,440 --> 01:13:48,960
+righe in modo tale che così aumentate la base dati per Chat
+
+1056
+01:13:49,040 --> 01:13:52,960
+GPT per capire chi sono questi tre simpatici amici che vi hanno
+
+1057
+01:13:52,960 --> 01:13:54,560
+tenuto compagnia fino adesso.
+
+1058
+01:13:54,720 --> 01:13:59,360
+Se invece volete parlare con noi, potete usare questa via preferenziale che
+
+1059
+01:13:59,360 --> 01:14:04,000
+è quello di iscriverci una bella mail a scrivi.a chiocciola a due
+
+1060
+01:14:04,160 --> 01:14:05,360
+podcast.it.
+
+1061
+01:14:05,360 --> 01:14:08,240
+Come sempre, di tutto quello che ci siamo raccontati, troverete le note
+
+1062
+01:14:08,240 --> 01:14:12,320
+all'interno del nostro episodio, che il nostro grandissimo Filippo si occuperà di
+
+1063
+01:14:12,320 --> 01:14:15,760
+fare, questo sarà veramente un lavoro che non vi invide, perché con
+
+1064
+01:14:15,760 --> 01:14:18,640
+quello che abbiamo parlato, ce n'è di roba da mettere, che sarà
+
+1065
+01:14:18,640 --> 01:14:22,400
+almeno una sessantina di righe ad occhio e croce.
+
+1066
+01:14:22,400 --> 01:14:26,960
+Ma in ogni caso, se volete divertirvi con noi, mi raccomando, seguiteci,
+
+1067
+01:14:26,960 --> 01:14:31,760
+abbonatevi al vostro feed, RSS o quello che è per ascoltare i
+
+1068
+01:14:31,760 --> 01:14:32,320
+podcast.
+
+1069
+01:14:32,320 --> 01:14:34,400
+Noi siamo su A2 Podcast.
+
+1070
+01:14:34,400 --> 01:14:37,920
+Ci trovate anche all'indirizzo a due podcast.it
+
+1071
+01:14:39,680 --> 01:14:39,840
+.
+
+1072
+01:14:39,840 --> 01:14:42,720
+Se la luce non mi arriva in faccia, ho letto bene il
+
+1073
+01:14:42,720 --> 01:14:43,280
+numero.
+
+1074
+01:14:43,280 --> 01:14:47,600
+Per quanto mi riguarda, potete trovarmi nella mia casa digitale, chiamiamola così,
+
+1075
+01:14:47,600 --> 01:14:49,200
+perché sennò Filippo, poi mi impassona.
+
+1076
+01:14:49,200 --> 01:14:51,840
+Che sono troppo lungo per le cose che dico e faccio nel
+
+1077
+01:14:51,840 --> 01:14:52,960
+mondo digitale.
+
+1078
+01:14:52,960 --> 01:14:56,560
+Mi trovate al mio blog personale, Mac Architettura.
+
+1079
+01:14:56,560 --> 01:15:01,440
+Che potete trovare all'indirizzo markdonnet.wordpress.com.
+
+1080
+01:15:01,440 --> 01:15:03,280
+Invece, Filippo, lo troviamo dove?
+
+1081
+01:15:03,280 --> 01:15:08,160
+AvocateMac.it e secondo me questo mese andiamo male col podcast.
+
+1082
+01:15:08,240 --> 01:15:11,440
+Però vediamo, siamo a fine mese, ma ho dei dubbi di riuscire
+
+1083
+01:15:11,440 --> 01:15:12,160
+a registrare.
+
+1084
+01:15:12,160 --> 01:15:14,560
+Dai, forza e coraggio, Filippo, che sono tutti con te.
+
+1085
+01:15:14,560 --> 01:15:17,520
+E anch'io non so se registrerò la prossima puntata di snap che
+
+1086
+01:15:17,240 --> 01:15:20,080
+tornapchat Imperfetta, ma fa lo stesso.
+
+1087
+01:15:20,080 --> 01:15:24,240
+In ogni caso, ci siamo divertiti e ci setteremo, come sempre, tra
+
+1088
+01:15:24,240 --> 01:15:25,200
+due settimane.
+
+1089
+01:15:25,200 --> 01:15:25,920
+Alla prossima!
+
+1090
+01:15:25,920 --> 01:15:26,480
+Alla prossima!
+
+1091
+01:15:26,480 --> 01:15:28,080
+Ciao a tutti, grazie,

@@ -1,0 +1,3619 @@
+1
+00:00:00,000 --> 00:00:05,440
+Benvenuti all'episodio 25 di A2, in cui scoprirete come ottenere il massimo
+
+2
+00:00:05,440 --> 00:00:07,760
+della vostra tecnologia Apple.
+
+3
+00:00:07,760 --> 00:00:12,080
+Io sono sempre Roberto Marin e sono il vostro ospite assieme al
+
+4
+00:00:12,080 --> 00:00:14,720
+solito amico, ovvero Filippo Strozzi.
+
+5
+00:00:14,720 --> 00:00:16,480
+Di cosa parliamo in questo episodio, Filippo?
+
+6
+00:00:16,560 --> 00:00:22,000
+Allora, oggi argomento che dovrebbe, o quantomeno, potrebbe interessare tutti, ovvero le
+
+7
+00:00:22,000 --> 00:00:24,240
+applicazioni di gestione dei calendari.
+
+8
+00:00:24,240 --> 00:00:29,120
+Mentre facevo le ricerche per questo episodio, sostanzialmente, c'era così tanta roba
+
+9
+00:00:29,120 --> 00:00:33,280
+che alla fine abbiamo deciso che non saremmo mai riusciti a farlo
+
+10
+00:00:33,280 --> 00:00:34,960
+stare in un'ora, un'ora e mezzo.
+
+11
+00:00:34,960 --> 00:00:38,240
+E quindi abbiamo deciso di fare il taglio in due episodi.
+
+12
+00:00:38,240 --> 00:00:42,720
+Quindi, oggi parleremo delle applicazioni principali per calendario, per la gestione dei
+
+13
+00:00:42,720 --> 00:00:47,840
+calendari di servizi diciamo di sincronizzazione dei calendari cloud.
+
+14
+00:00:47,840 --> 00:00:52,800
+Perché vedremo a breve e invece, tutte le applicazioni diciamo, collaterali alla
+
+15
+00:00:52,800 --> 00:00:57,440
+gestione del calendario, le terremo per un successivo episodio a data da
+
+16
+00:00:57,440 --> 00:00:59,120
+destinarsi, chiamiamola così.
+
+17
+00:00:59,120 --> 00:01:01,200
+Intanto dateci un po' di feedback.
+
+18
+00:01:01,200 --> 00:01:05,360
+Credo che i calendari possano essere un argomento, insomma, di quelli molto
+
+19
+00:01:05,360 --> 00:01:09,200
+generali, tra virgolette, perché tutti più o meno, in una qualche maniera,
+
+20
+00:01:09,200 --> 00:01:13,040
+utilizziamo il calendario o dovremmo utilizzare il calendario per fissare appuntamenti e
+
+21
+00:01:13,040 --> 00:01:13,600
+così via.
+
+22
+00:01:13,600 --> 00:01:19,040
+Ed effettivamente l'iPhone, piuttosto che l'iPad o il Mac, diventano uno strumento
+
+23
+00:01:19,040 --> 00:01:23,600
+molto utile, soprattutto il cellulare, diciamo, uno strumento utile per avere sempre
+
+24
+00:01:23,600 --> 00:01:28,640
+sotto mano la propria agenda senza doversi portare dietro qualcosa di fisico,
+
+25
+00:01:28,640 --> 00:01:31,360
+anche se ovviamente è possibile fare questo.
+
+26
+00:01:31,360 --> 00:01:35,520
+Ma prima di iniziare con questa bella puntata, visto che parliamo di
+
+27
+00:01:35,520 --> 00:01:39,680
+calendari, non possiamo che farvi gli auguri di buon anno, perché questa
+
+28
+00:01:39,680 --> 00:01:43,760
+sarà sicuramente la prima puntata per A2 del 2022.
+
+29
+00:01:43,760 --> 00:01:47,760
+E noi, ovviamente, speriamo che sia anche la prima puntata che ascolterete
+
+30
+00:01:47,760 --> 00:01:48,640
+nel 2022.
+
+31
+00:01:48,720 --> 00:01:52,560
+Non sarà possibile molto probabilmente, ma so che sarete lì con le
+
+32
+00:01:52,560 --> 00:01:57,600
+cuffie ben incollate le orecchie in attesa delle nostre, diciamo, chiacchierate sui
+
+33
+00:01:57,600 --> 00:01:58,520
+calendari.
+
+34
+00:01:58,520 --> 00:02:02,280
+Essendo all'inizio dell'anno, immagino che vi verrà molto molto comodo.
+
+35
+00:02:02,280 --> 00:02:05,160
+Perché tendenzialmente si fa alla fine dell'anno, ma si può fare anche
+
+36
+00:01:59,120 --> 00:02:05,240
+l'inizio dell'anno.
+
+37
+00:02:06,040 --> 00:02:10,440
+Bisogna iniziare a pensare come programmarci un po' questo 2022 e vedere
+
+38
+00:02:10,440 --> 00:02:11,640
+un po' come potrà andare.
+
+39
+00:02:11,640 --> 00:02:12,680
+Esatto, e poi.
+
+40
+00:02:13,320 --> 00:02:18,120
+Adesso noi stiamo registrando nel vecchio anno, lo diciamo ufficialmente, perché stiamo
+
+41
+00:02:18,120 --> 00:02:23,480
+macinando puntate prima della pausa natalizia, diciamo, dove probabilmente non avremo modo
+
+42
+00:02:23,480 --> 00:02:25,080
+di registrare.
+
+43
+00:02:25,080 --> 00:02:30,520
+E quindi vi proporremo materiale già fatto, stiamo facendo, siamo alla terza
+
+44
+00:02:30,520 --> 00:02:33,720
+settimana di fila di registrazione, credo, che per noi è quasi un
+
+45
+00:02:33,720 --> 00:02:35,320
+record e di fatti nevica,
+
+46
+00:02:36,760 --> 00:02:41,000
+si vede dalla neve che è successo, e comunque l'anno nuovo, tra
+
+47
+00:02:41,000 --> 00:02:46,360
+l'altro, noi abbiamo iniziato a registrare il podcast, direi proprio ai inizi
+
+48
+00:02:46,440 --> 00:02:49,960
+di gennaio dell'anno scorso, poi è uscito a febbraio, ma avevamo fatto
+
+49
+00:02:49,960 --> 00:02:55,400
+un mese di rodaggio e per registrazione proprio per un mese, molto
+
+50
+00:02:55,560 --> 00:02:57,800
+di più di un mese se ti ricordi bene,
+
+51
+00:02:58,920 --> 00:03:04,280
+i pre A2 che iniziano probabilmente nel 2018, ma quelli io ormai
+
+52
+00:03:04,280 --> 00:03:06,040
+non li considero neanche più.
+
+53
+00:03:06,040 --> 00:03:06,680
+Quindi,
+
+54
+00:03:08,040 --> 00:03:08,920
+diciamo che
+
+55
+00:03:10,760 --> 00:03:16,440
+per questo contesto, diciamo A due arriva all'anno sostanzialmente, quando lo stato
+
+56
+00:03:16,600 --> 00:03:22,360
+ascoltando, e quindi, insomma, bella soddisfazione e devo dire la verità: giusto,
+
+57
+00:03:22,360 --> 00:03:25,160
+perché è una puntata di inizio anno a questo punto.
+
+58
+00:03:25,160 --> 00:03:30,960
+Guardando indietro, diciamo che dopo una partenza lenta, come la chiamerei io?
+
+59
+00:03:31,120 --> 00:03:32,120
+Stiamo ingranando.
+
+60
+00:03:32,120 --> 00:03:36,520
+Quindi vi ringraziamo per il seguito attraverso un piccolo seguito perché non
+
+61
+00:03:36,520 --> 00:03:40,920
+facciamo dei numeri enormi, ma inizia ad essere una situazione dove se
+
+62
+00:03:40,920 --> 00:03:42,680
+io che Roberto siamo soddisfatti.
+
+63
+00:03:42,720 --> 00:03:45,760
+Diciamo, abbiamo un riscontro di quello che stiamo facendo.
+
+64
+00:03:45,840 --> 00:03:50,880
+Quindi speriamo, ovviamente, anche col vostro aiuto e col vostro feedback, di
+
+65
+00:03:51,120 --> 00:03:53,600
+continuare a migliorarci e così via.
+
+66
+00:03:53,600 --> 00:03:56,560
+Ma Roberto, assolutamente sì.
+
+67
+00:03:57,360 --> 00:04:01,440
+Ma prima di tutto, volevo ringraziare anche io, tutti quanti gli ascoltatori
+
+68
+00:04:01,520 --> 00:04:05,920
+perché è merito vostro, se noi siamo ancora qui davanti, al microfono,
+
+69
+00:04:05,920 --> 00:04:10,720
+a raccontare cose e soprattutto a raccontarvi la nostra esperienza di professionisti
+
+70
+00:04:10,720 --> 00:04:13,040
+che lavorano con la tecnologia Apple.
+
+71
+00:04:13,040 --> 00:04:19,200
+Ma soprattutto volevo avvertirvi che non so come funzionino le classifiche di
+
+72
+00:04:19,520 --> 00:04:25,360
+Apple Podcast, ma siamo andati molto bene, devo dire, abbiamo visto quest'anno
+
+73
+00:04:25,600 --> 00:04:32,560
+addirittura nella sezione tecnologia arrivare alla posizione 17, e penso che sia
+
+74
+00:04:32,560 --> 00:04:38,000
+la più alta che abbiamo mai rivestito nell'anno 2021.
+
+75
+00:04:38,000 --> 00:04:42,640
+Quindi un grandissimo ringraziamento da parte mia e da parte di Filippo.
+
+76
+00:04:42,640 --> 00:04:46,240
+Ma adesso, prima di iniziare la puntata, volevo ancora fare una cosa,
+
+77
+00:04:46,240 --> 00:04:51,040
+ovvero leggere la nuova recensione che ci è stata lasciata su Apple
+
+78
+00:04:51,040 --> 00:04:51,680
+Podcast.
+
+79
+00:04:51,680 --> 00:04:56,640
+Questa nuova recensione dobbiamo ringraziare il nostro Colinus che ha un nome
+
+80
+00:04:56,640 --> 00:05:00,160
+e un cognome, ma per privacy non lo diremo in questo momento,
+
+81
+00:05:00,160 --> 00:05:01,440
+ma è un amico comune.
+
+82
+00:05:01,600 --> 00:05:03,520
+Lo ringraziamo tanto per questa recensione.
+
+83
+00:05:03,520 --> 00:05:08,880
+Che ci scrive Aperte, Roberto e Filippo ogni 15 giorni intervengono e
+
+84
+00:05:08,880 --> 00:05:15,040
+informano, intrattengono e informano in un'atmosfera piacevole e rilassata come tra vecchi
+
+85
+00:05:15,040 --> 00:05:16,240
+amici al pub.
+
+86
+00:05:16,320 --> 00:05:18,800
+Questo è una bellissima, questo è un bellissimo complimento.
+
+87
+00:05:18,800 --> 00:05:20,720
+Ti ringrazio tantissimo, Colinus.
+
+88
+00:05:20,720 --> 00:05:22,680
+Ascolto iper consigliato.
+
+89
+00:05:23,000 --> 00:05:26,160
+Grazie anche per queste belle parole che ci aiutano a salire nella
+
+90
+00:05:26,320 --> 00:05:28,080
+classifica di Apple Podcast.
+
+91
+00:05:28,080 --> 00:05:32,120
+Fate come ha fatto il nostro amico Colinus, lasciate una bella recension,
+
+92
+00:05:29,920 --> 00:05:35,560
+and questo è un tipico modo per poterci sostenere.
+
+93
+00:05:35,640 --> 00:05:40,360
+Perché, grazie a queste recensioni, probablemente in classifica, molte più persone ci
+
+94
+00:05:40,360 --> 00:05:45,880
+ascolteranno e fa da praticamente da volano per il nostro podcast.
+
+95
+00:05:45,880 --> 00:05:49,160
+Se volete sapere come fare una recensione, trovate il link nelle note
+
+96
+00:05:49,240 --> 00:05:49,960
+dell'episodio.
+
+97
+00:05:49,960 --> 00:05:55,080
+Mentire se volete parlarci direttamente, a parte sui vari canali personali che
+
+98
+00:05:55,080 --> 00:05:59,160
+abbiamo, di Avvocati Americ per Filippo e di Snapper per il mio
+
+99
+00:05:59,320 --> 00:06:04,920
+che per il mio podcast, potete però, anche iscriverci direttamente a scrivi.a
+
+100
+00:06:05,160 --> 00:06:08,200
+chiocciola a due podcast.it.
+
+101
+00:06:08,200 --> 00:06:13,160
+Dunque, qualche comunicazione di servizio da rilasciarvi: lunedì 6 dicembre, Filippo ha
+
+102
+00:06:13,160 --> 00:06:16,600
+tenuto un webinar sul time blocking, è stato bravissimo.
+
+103
+00:06:16,600 --> 00:06:17,960
+Io l'ho seguito in diretta.
+
+104
+00:06:18,120 --> 00:06:22,200
+Mi raccomando, cercate di recuperarlo anche voi se potete, ma in questo
+
+105
+00:06:22,200 --> 00:06:24,760
+caso non entreremo nel dettaglio di questa puntata.
+
+106
+00:06:24,760 --> 00:06:28,840
+Tuttavia, mi raccomando, ci sarà un link che troverete nei note dell'episodio,
+
+107
+00:06:28,840 --> 00:06:31,800
+andatevelo a vedere perché è davvero molto interessante.
+
+108
+00:06:31,800 --> 00:06:35,320
+È stato anche un piccolo problema video, quindi ci sono.
+
+109
+00:06:35,320 --> 00:06:41,320
+Io in faccia in presenza, ma a scattosissimo, mettiamola così: probabilmente ho
+
+110
+00:06:41,320 --> 00:06:46,360
+fatto un errore nella configurazione dello streaming video la prossima volta spero
+
+111
+00:06:46,360 --> 00:06:49,320
+di trovare una soluzione migliore, mettiamola così.
+
+112
+00:06:49,320 --> 00:06:52,680
+Tuttavia, la cosa importante è il contenuto che, secondo me, è stato
+
+113
+00:06:52,680 --> 00:06:53,640
+molto interessante.
+
+114
+00:06:53,640 --> 00:06:55,160
+Qual è il contenuto in merito?
+
+115
+00:06:55,160 --> 00:06:59,480
+È il time blocking, appunto, che fa uso del calendario per riservare
+
+116
+00:06:59,480 --> 00:07:03,560
+del tempo come se fosse un appuntamento per svolgere un determinato compito.
+
+117
+00:07:03,560 --> 00:07:08,120
+Può essere un ultimo strumento per lavorare decisamente meno e molto meglio.
+
+118
+00:07:08,360 --> 00:07:12,840
+Vedrete che se seguite i webinar di Filippo, capirete il perché, ma
+
+119
+00:07:12,840 --> 00:07:17,520
+soprattutto correrete a metterlo subito in pratica perché ne avete degli immediati
+
+120
+00:07:17,520 --> 00:07:18,320
+benefici.
+
+121
+00:07:14,760 --> 00:07:22,080
+Detto questo, mi raccomando: andate a vedervi il link.
+
+122
+00:07:22,400 --> 00:07:27,360
+Passiamo subito all'argomento principe di questa bella puntata di inizio anno, ovvero
+
+123
+00:07:27,520 --> 00:07:31,600
+iniziamo subito dal calendario che abbiamo sotto mano tutti quanti gli ascoltatori.
+
+124
+00:07:31,600 --> 00:07:37,120
+Perché questo podcast è indirizzato agli amici professionisti che usano Apple, e
+
+125
+00:07:37,120 --> 00:07:40,160
+quindi la prima cosa che hanno sotto mano, che usano o non
+
+126
+00:07:40,160 --> 00:07:46,160
+usano, è il calendario messo a disposizione sulla diciamo suite di programmi
+
+127
+00:07:46,160 --> 00:07:50,880
+che viene preinstallata su macOS, iOS e i Pad OS.
+
+128
+00:07:50,880 --> 00:07:52,400
+Cosa possiamo dire di questo calendario?
+
+129
+00:07:52,400 --> 00:07:56,400
+Praticamente hanno detto tutti, tutto su questo calendario si può fare praticamente
+
+130
+00:07:56,400 --> 00:07:57,520
+quasi di tutto.
+
+131
+00:07:57,520 --> 00:08:02,640
+Diciamo, ci sono delle funzioni interessanti che adesso lascio spiegare al mio
+
+132
+00:08:02,640 --> 00:08:04,880
+amico Filippo, che è decisamente molto più sul pezzo.
+
+133
+00:08:04,880 --> 00:08:08,640
+Perché io, ad esempio, vi spiego semplicemente perché non sono sul pezzo,
+
+134
+00:08:08,720 --> 00:08:11,760
+perché è un uso molto basilare di calendario.
+
+135
+00:08:11,760 --> 00:08:15,680
+Essenzialmente ho un calendario condiviso con mia moglie.
+
+136
+00:08:15,680 --> 00:08:19,760
+Quindi sappiate che si può condividere il calendario o almeno una parte
+
+137
+00:08:19,760 --> 00:08:22,960
+degli impegni si può condividere con un'altra persona.
+
+138
+00:08:22,960 --> 00:08:25,920
+Io l'ho fatto con mia moglie, perché, tra le altre cose, lavoriamo
+
+139
+00:08:25,920 --> 00:08:26,320
+insieme.
+
+140
+00:08:26,320 --> 00:08:33,520
+Quindi, oltre alla normale amministrazione della vita, c'è anche l'amministrazione degli appuntamenti
+
+141
+00:08:33,520 --> 00:08:35,440
+vari con i rispettivi clienti.
+
+142
+00:08:35,440 --> 00:08:39,920
+Quindi abbiamo un calendario dedicato: abbiamo creato un calendario dedicato che si
+
+143
+00:08:39,920 --> 00:08:42,640
+chiama appunto lavoro, un altro che invece si chiama Famiglia.
+
+144
+00:08:42,640 --> 00:08:47,120
+Ovviamente l'abbiamo distinto per colore, in modo tale che anche visivamente si
+
+145
+00:08:47,120 --> 00:08:51,040
+possa vedere all'apertura del calendario i propri appuntamenti.
+
+146
+00:08:51,040 --> 00:08:54,000
+La possibilità di usarlo in modo condiviso è molto utile, secondo me,
+
+147
+00:08:54,000 --> 00:08:59,040
+in calendario, ma soprattutto nell'ecosistema Apple, perché praticamente ve lo trovate scerato,
+
+148
+00:08:59,040 --> 00:09:01,320
+mi viene da dire, ma è un inglesismo sbagliato.
+
+149
+00:09:02,360 --> 00:09:05,960
+Sincronizzato concronizzato con tutti i vostri dispositivi.
+
+150
+00:09:06,520 --> 00:09:12,360
+Ad esempio, io che apro indistintamente uno dei vari aggeggi che ho
+
+151
+00:09:12,600 --> 00:09:17,320
+in casa con Apple e sincronizzato con il mio account, praticamente mi
+
+152
+00:09:17,320 --> 00:09:18,200
+trovo tutto quanto.
+
+153
+00:09:18,200 --> 00:09:23,000
+Quindi posso aggiungere, togliere, rivedere, controllare, fare, disfare lettere e testamento.
+
+154
+00:09:23,000 --> 00:09:26,760
+In ogni caso detto questo, questo qui è il mio uso basico
+
+155
+00:09:26,760 --> 00:09:30,360
+di calendario, praticamente finisce qua, non faccio nient'altro.
+
+156
+00:09:30,360 --> 00:09:34,200
+Ho preferito il calendario di Apple per il semplice fatto che uno
+
+157
+00:09:34,280 --> 00:09:38,200
+è molto semplice e due mi permette di appunto sincronizzare i miei
+
+158
+00:09:38,200 --> 00:09:40,520
+appuntamenti con quello di mia moglie e viceversa.
+
+159
+00:09:40,520 --> 00:09:45,000
+E conseguentemente, se voi immaginate che in una struttura di più persone
+
+160
+00:09:45,000 --> 00:09:49,080
+all'interno di un ufficio questo può diventare molto interessante se tutti sono
+
+161
+00:09:49,080 --> 00:09:54,440
+dotati del sistema Apple, ma in realtà potrebbero teoria anche accedervi dal
+
+162
+00:09:54,440 --> 00:09:57,080
+web tramite proprio account iCloud.
+
+163
+00:09:57,080 --> 00:10:00,920
+Se non erro, mi sembra sia una di quelle applicazioni che è
+
+164
+00:10:00,920 --> 00:10:07,000
+visibile sulla propria pagina web di iCloud che potete accedere tranquillamente digitando
+
+165
+00:10:07,080 --> 00:10:09,560
+mi pare www.aicloud.com.
+
+166
+00:10:09,800 --> 00:10:11,960
+Mi pare così a memoria perché non ci accedo mai.
+
+167
+00:10:11,960 --> 00:10:15,640
+E quindi digitando il vostro ID app o la vostra password, accedete
+
+168
+00:10:15,640 --> 00:10:19,800
+a una pagina che essenzialmente cerca di ricalcare quello che avete sul
+
+169
+00:10:19,800 --> 00:10:20,600
+vostro dispositivo.
+
+170
+00:10:20,600 --> 00:10:24,200
+Quindi vedrete una serie di applicazioni tra cui anche il calendario e
+
+171
+00:10:24,200 --> 00:10:28,280
+da lì potete accedere alla vostra parte di calendario essenzialmente sul vostro
+
+172
+00:10:28,280 --> 00:10:28,680
+account.
+
+173
+00:10:28,840 --> 00:10:34,200
+Detto questo, direi che, però, per quanto riguarda il calendario, è uno
+
+174
+00:10:34,440 --> 00:10:39,640
+dei tanti calendari che sono messi a disposizione sulle piattaforme iOS, macOS
+
+175
+00:10:39,720 --> 00:10:44,600
+e iPadOS, ce ne sono veramente una fraccata e una fa
+
+176
+00:10:44,600 --> 00:10:48,160
+una cosa diversa dall'altra e c'è veramente l'imbarazzo della scelta.
+
+177
+00:10:48,320 --> 00:10:52,560
+Lascio la palla al nostro amico Filippo Strozzi, che invece, lui, essendo
+
+178
+00:10:52,560 --> 00:10:56,160
+un professionista decisamente più sul pezzo di me, su queste cose perché
+
+179
+00:10:56,160 --> 00:11:00,480
+per lui è importantissimo il calendario, vi dico soltanto che sulla sua
+
+180
+00:11:00,480 --> 00:11:05,920
+pagina iniziale di iPadOS ne ha due di calendari per sicurezza,
+
+181
+00:11:05,920 --> 00:11:09,360
+anche se sono per due cose completamente diverse.
+
+182
+00:11:09,360 --> 00:11:13,440
+Io, per esempio, non uso i widget del calendario, capite bene la
+
+183
+00:11:13,440 --> 00:11:14,640
+differenza tra me e Filippo.
+
+184
+00:11:14,640 --> 00:11:16,160
+Io ne uso veramente basico.
+
+185
+00:11:16,160 --> 00:11:20,480
+Potrei concludere la puntata qui ne potrei andare, ma per fortuna c'è
+
+186
+00:11:20,480 --> 00:11:23,120
+il nostro amico Filippo che adesso ci spiegherà un po' più nel
+
+187
+00:11:23,120 --> 00:11:27,040
+dettaglio e imparerò qualcosa anch'io di nuovo riguardo al calendario di Apple
+
+188
+00:11:27,040 --> 00:11:27,760
+e non solo.
+
+189
+00:11:27,760 --> 00:11:29,920
+Allora, vabbè, innanzitutto non è vero.
+
+190
+00:11:30,240 --> 00:11:34,400
+Tu consideri che io fino a pochissimo tempo fa non ero un
+
+191
+00:11:34,400 --> 00:11:40,080
+utilizzatore del calendario, perché di fatto per lavoro avevo la gestione del
+
+192
+00:11:40,080 --> 00:11:45,280
+calendario direttamente dentro il gestionale, e quindi di fatto faceva fede il
+
+193
+00:11:45,520 --> 00:11:47,280
+calendario del gestionale.
+
+194
+00:11:47,520 --> 00:11:52,960
+Eventualmente all'epoca facevamo una roba dal mio punto di vista, veramente anti-lucana,
+
+195
+00:11:52,960 --> 00:11:53,280
+ma
+
+196
+00:11:54,560 --> 00:12:00,880
+facevamo la sincronizzazione del calendario direttamente da computer, cioè fisicamente agganciandolo, e
+
+197
+00:12:00,880 --> 00:12:02,000
+lo so, lo so, lo so.
+
+198
+00:12:02,000 --> 00:12:06,640
+Infatti, uno dei motivi per cui ho abbandonato il gestionale, era che
+
+199
+00:12:06,640 --> 00:12:09,280
+veramente era imbarazzante la gestione
+
+200
+00:12:10,480 --> 00:12:12,640
+in questa maniera del calendario.
+
+201
+00:12:12,640 --> 00:12:18,640
+Era interessante perché ovviamente si interfacciava totalmente con le mie pratiche, il
+
+202
+00:12:18,640 --> 00:12:20,320
+lavoro sostanzialmente.
+
+203
+00:12:20,320 --> 00:12:26,400
+Ma dall'altro era abbastanza inutile, comunque non c'è un'interfaccia web, quindi non
+
+204
+00:12:26,400 --> 00:12:29,680
+c'era modo di interagire direttamente, ma dovevi andare fisicamente in ufficio a
+
+205
+00:12:29,680 --> 00:12:31,720
+modificare gli appuntamenti e così via.
+
+206
+00:12:32,120 --> 00:12:33,080
+E dovevi farsen.
+
+207
+00:12:30,000 --> 00:12:34,520
+Insomma, era improponibile.
+
+208
+00:12:34,680 --> 00:12:38,360
+Facciamo un breve passo indietro, giusto per spiegare alcune cose.
+
+209
+00:12:38,360 --> 00:12:45,240
+Ovviamente il calendario digitale, chiamiamolo così, perché ovviamente quello cartaceo non ne
+
+210
+00:12:45,240 --> 00:12:50,360
+tratteremo perché non ha senso e non si può collegare, diciamo, con
+
+211
+00:12:50,360 --> 00:12:52,440
+i nostri dispositivi intelligenti.
+
+212
+00:12:52,440 --> 00:12:56,920
+Anche se devo dirti la verità, c'è una corrente che a me
+
+213
+00:12:56,920 --> 00:13:02,360
+affascina molto, che riguarda la gestione appunto del calendario, questo famoso bullet
+
+214
+00:13:02,600 --> 00:13:03,400
+journal.
+
+215
+00:13:03,400 --> 00:13:06,120
+Che secondo me prima o poi dovremmo prenderlo in mano perché è
+
+216
+00:13:06,120 --> 00:13:12,280
+davvero una concezione molto interessante della gestione del calendario ed è tendenzialmente
+
+217
+00:13:12,280 --> 00:13:13,560
+tutta cartacea.
+
+218
+00:13:13,560 --> 00:13:17,880
+Ovviamente ci sono le declinazioni digitali, però prima o poi, secondo me,
+
+219
+00:13:17,880 --> 00:13:20,040
+è da prendere in considerazione perché aiuta.
+
+220
+00:13:20,040 --> 00:13:23,240
+No, beh, allora sicuramente è una cosa interessante.
+
+221
+00:13:23,240 --> 00:13:26,920
+Apro una parentesi visto che l'hai aperta tu, diciamo la continuo.
+
+222
+00:13:26,920 --> 00:13:30,840
+C'è la possibilità di utilizzare programmi come Good Note o Notability per
+
+223
+00:13:30,840 --> 00:13:35,960
+fare tutto, in digitale, ma quindi a mano perché utilizzando le pol
+
+224
+00:13:36,040 --> 00:13:41,960
+pencil e così via, ma appunto scrivendo a mano tutto personalmente, soprattutto
+
+225
+00:13:41,960 --> 00:13:45,400
+per il fatto di permettere di sincronizzare il calendario su tutti i
+
+226
+00:13:45,400 --> 00:13:50,920
+dispositivi e soprattutto di condividere alcuni calendari con altre persone, anche io
+
+227
+00:13:51,400 --> 00:13:53,480
+ho vari calendari condivisi con la moglie.
+
+228
+00:13:53,480 --> 00:13:58,440
+Devo dire la verità: la gestione digitale personalmente è la scelta migliore.
+
+229
+00:13:58,440 --> 00:14:03,560
+Ma come dicevo, appunto, sul digitale innanzitutto, facciamo una grossa distinzione: cioè
+
+230
+00:14:03,640 --> 00:14:07,880
+possiamo avere più calendari e quindi un calendario per uno scopo, un
+
+231
+00:14:07,960 --> 00:14:10,440
+calendario per il lavoro e un calendario per la famiglia.
+
+232
+00:14:10,440 --> 00:14:17,040
+Io addirittura ne ho tanti perché ho spezzettato in maniera abbastanza complessa
+
+233
+00:14:17,280 --> 00:14:22,240
+la mia gestione, ma questo è un discorso per un'altra volta casomai.
+
+234
+00:14:22,240 --> 00:14:26,400
+Tuttavia, la cosa anche interessante è che possiamo avere più servizi contemporaneamente
+
+235
+00:14:26,400 --> 00:14:28,960
+che gestiscono la sincronizzazione del calendario.
+
+236
+00:14:28,960 --> 00:14:33,680
+Quindi all'interno dell'applicazione calendario, diciamo che una volta si chiamava ICA di
+
+237
+00:14:33,680 --> 00:14:39,200
+Apple, si possono far confluire tutta una serie di diversi calendari di
+
+238
+00:14:39,200 --> 00:14:40,720
+diversi fornitori.
+
+239
+00:14:40,720 --> 00:14:45,120
+Quindi, per esempio, per lavoro potreste avere il calendario Google, perché la
+
+240
+00:14:45,120 --> 00:14:51,680
+vostra azienda usa la sincronizzazione dei dati di Google o Microsoft Exchange,
+
+241
+00:14:51,680 --> 00:14:58,400
+che forse a livello professionale la gestione diciamo dei calendari tipica.
+
+242
+00:14:59,040 --> 00:15:03,440
+Ma avere anche, per esempio, un calendario familiare con i cloud da
+
+243
+00:15:03,440 --> 00:15:05,440
+condividere, per esempio, con la moglie.
+
+244
+00:15:05,440 --> 00:15:11,360
+Quindi il calendario può potenzialmente far confluire differenti calendari anche da differenti
+
+245
+00:15:11,360 --> 00:15:12,320
+operatori.
+
+246
+00:15:12,640 --> 00:15:19,440
+Quindi dobbiamo considerare appunto la possibilità sostanzialmente di queste applicazioni di calendario
+
+247
+00:15:19,440 --> 00:15:23,200
+che alla fine uniscono più realtà e più situazioni.
+
+248
+00:15:23,200 --> 00:15:29,440
+L'altra cosa molto interessante dell'applicazione calendario che almeno quantomeno nel mondo Apple
+
+249
+00:15:30,160 --> 00:15:33,600
+è di fatto presente un po' in tutte le applicazioni, è la
+
+250
+00:15:33,600 --> 00:15:38,400
+possibilità di dare dei colori ai singoli calendari, battezzare un colore per
+
+251
+00:15:38,400 --> 00:15:42,560
+il singolo calendario e quindi vedere a colpo d'occhio che l'appuntamento delle
+
+252
+00:15:42,560 --> 00:15:47,040
+8 è nel calendario famiglia porta a scuola il bambino e l'appuntamento
+
+253
+00:15:47,040 --> 00:15:51,840
+delle 10 è rosso, è l'appuntamento di lavoro dove ricevi un cliente
+
+254
+00:15:51,840 --> 00:15:54,160
+o devi andare su un cantiere e così via.
+
+255
+00:15:54,200 --> 00:15:57,600
+E casomai l'appuntamento verde del 18
+
+256
+00:15:59,040 --> 00:16:03,400
+è preparare la cena e il menu della cena del giorno, ogni
+
+257
+00:16:03,400 --> 00:16:09,880
+riferimento a cose o persone, è puramente casuale, e puramente casuale, assolutamente
+
+258
+00:16:09,880 --> 00:16:10,200
+sì.
+
+259
+00:16:10,200 --> 00:16:12,840
+Ci sarà anche un colore per a due, immagino, ma non voglio
+
+260
+00:16:12,840 --> 00:16:13,560
+sapere qual è.
+
+261
+00:16:13,960 --> 00:16:19,000
+Un calendario solo per i podcast in generale, è viola, comunque in
+
+262
+00:16:19,000 --> 00:16:23,880
+generale, ok, perché ne fai 8 milioni e non me lo dici
+
+263
+00:16:25,160 --> 00:16:25,480
+.
+
+264
+00:16:25,800 --> 00:16:30,920
+Come tutti i calendari moderni, c'è la possibilità di invitare sostanzialmente dei
+
+265
+00:16:30,920 --> 00:16:36,280
+partecipanti a degli eventi e quindi c'è la possibilità di fissare, chiamiamolo
+
+266
+00:16:36,280 --> 00:16:39,800
+così, degli appuntamenti con un sistema Pro legato alla mail.
+
+267
+00:16:39,800 --> 00:16:44,440
+Quindi nella sostanza, io inserisco i contatti che vorrei invitare in un
+
+268
+00:16:44,440 --> 00:16:45,720
+determinato momento.
+
+269
+00:16:45,960 --> 00:16:50,840
+Il calendario a questo punto, attraverso iCloud o il servizio su cui
+
+270
+00:16:50,840 --> 00:16:55,720
+si basa il tutto, manda l'invito e se gli invitati accettano o
+
+271
+00:16:55,720 --> 00:17:00,520
+meno o rispondono sostanzialmente, poi si vedrà nel calendario tutta la vicenda.
+
+272
+00:17:00,520 --> 00:17:03,880
+Quindi, anche qui c'è la possibilità di fare delle cose interessanti.
+
+273
+00:17:03,960 --> 00:17:07,640
+Ecco un attimo, solo una precisazione.
+
+274
+00:17:07,640 --> 00:17:10,600
+Visto che sto a forza di stare con lo zoppo, inizia a
+
+275
+00:17:10,600 --> 00:17:12,040
+zoppicare anch'io.
+
+276
+00:17:12,360 --> 00:17:18,120
+Il invito nel caso in cui lo riceviate, sempre in zona Apple,
+
+277
+00:17:18,120 --> 00:17:21,640
+troverete una simpatica concina in alto a sinistra, che è proprio la
+
+278
+00:17:21,640 --> 00:17:26,360
+cartella degli inviti, dove li troverete un badge e lì potete accedere
+
+279
+00:17:26,360 --> 00:17:28,440
+all'invito che vi è stato inviato.
+
+280
+00:17:28,440 --> 00:17:30,680
+Chiuso la mia parentesi, vai pure avanti.
+
+281
+00:17:30,680 --> 00:17:34,280
+Tra l'altro, visto che hai aperto la parentesi, non so se riesco
+
+282
+00:17:34,280 --> 00:17:38,440
+a mettervi il link specifico, ma soprattutto nel calendario Apple ci sono
+
+283
+00:17:38,440 --> 00:17:43,640
+proprio delle icone specifiche, per esempio, i calendari condivisi, per gli inviti,
+
+284
+00:17:43,640 --> 00:17:47,120
+per tutta una serie di informazioni che è molto utile conoscere.
+
+285
+00:17:47,280 --> 00:17:52,240
+Tendenzialmente, soprattutto se di fianco al calendario c'è buona stilizzata di una
+
+286
+00:17:52,240 --> 00:17:56,480
+persona, il calendario è condiviso con una o più persone, perché ovviamente
+
+287
+00:17:56,480 --> 00:17:58,640
+si può avere anche un calendario condiviso.
+
+288
+00:17:58,640 --> 00:18:03,920
+Noi abbiamo fatto sempre l'esempio delle mogli che subiscono i nostri approcci
+
+289
+00:18:03,920 --> 00:18:07,680
+telematici, ma possono essere i colleghi di lavoro.
+
+290
+00:18:07,680 --> 00:18:12,400
+O vabbè, io e Roberto, alla fine usiamo ToDis per sincronizzare gli
+
+291
+00:18:12,400 --> 00:18:17,360
+impegni, però, nella sostanza potremmo avere anche un calendario condiviso per la
+
+292
+00:18:17,360 --> 00:18:18,160
+gestione.
+
+293
+00:18:18,160 --> 00:18:24,000
+Però, appunto, abitualmente ci sentiamo sufficientemente da non avere problemi a dover
+
+294
+00:18:24,000 --> 00:18:24,960
+avere un candivetto.
+
+295
+00:18:25,120 --> 00:18:27,680
+Ci sentiamo più noi due che con le rispettive mogli.
+
+296
+00:18:27,680 --> 00:18:31,600
+E quindi il calendario condiviso non ha molto senso, credo.
+
+297
+00:18:32,320 --> 00:18:38,800
+Vedremo in una prossima puntata tutto il mondo, chiamiamolo così, della gestione
+
+298
+00:18:38,800 --> 00:18:42,880
+degli impegni, cioè nel senso di fissare un appuntamento con più persone
+
+299
+00:18:43,280 --> 00:18:47,120
+e tutta una serie di servizi diciamo che aiutano a coordinarsi ed
+
+300
+00:18:47,120 --> 00:18:51,600
+evitare, per esempio, di mandarsi 18 mail per dire ti va bene
+
+301
+00:18:51,600 --> 00:18:52,080
+quel giorno.
+
+302
+00:18:52,080 --> 00:18:54,400
+No, non mi va bene quel giorno, mi andrebbe bene quell'altro.
+
+303
+00:18:54,400 --> 00:18:56,160
+No, a me, quell'altro non va bene.
+
+304
+00:18:56,160 --> 00:19:02,480
+Quindi, e avere un'infinità di mail, soprattutto che crescono esponenzialmente in base
+
+305
+00:19:02,480 --> 00:19:05,600
+alla quantità di persone che devono partecipare a questi eventi.
+
+306
+00:19:05,600 --> 00:19:12,160
+Ve lo lasciamo come teaser, diciamo, per un futuro episodio, alcune funzioni
+
+307
+00:19:12,160 --> 00:19:17,040
+interessanti che probabilmente non tutti conoscono, che voglio sottolineare perché poi, come
+
+308
+00:19:17,040 --> 00:19:22,720
+al solito, nelle note dell'episodio troverete i link a tutti i manuali
+
+309
+00:19:22,720 --> 00:19:28,640
+per tutte le piattaforme, cioè per macOS, per iPadOS e per iOS.
+
+310
+00:19:28,640 --> 00:19:31,720
+Quindi dopo lì, se volete potete andare anche a approfondire,
+
+311
+00:19:32,040 --> 00:19:36,680
+ma direi che l'interfaccia del calendario app è molto intuitiva e non
+
+312
+00:19:36,680 --> 00:19:39,240
+richiede particolari spiegazioni.
+
+313
+00:19:39,240 --> 00:19:43,880
+Cioè, appunto, i manuali fanno tutto il loro mestiere, diciamo.
+
+314
+00:19:43,880 --> 00:19:47,720
+Quello che vi segnalo, perché molti non lo sanno, ed è una
+
+315
+00:19:47,720 --> 00:19:51,560
+funzione che secondo me è stata inserita recentemente: cioè prendendola poi da
+
+316
+00:19:51,560 --> 00:19:55,160
+altre applicazioni che già lo facevano, c'è la possibilità di inserire gli
+
+317
+00:19:55,160 --> 00:19:57,960
+appuntamenti con il linguaggio naturale.
+
+318
+00:19:57,960 --> 00:19:59,880
+Che cosa vuol dire tutto ciò?
+
+319
+00:19:59,880 --> 00:20:02,760
+Nella sostanza, abitualmente cosa si fa?
+
+320
+00:20:02,760 --> 00:20:07,800
+Si clicca il pulsante più nelle varie forme, ovviamente tra iPhone, iPad
+
+321
+00:20:07,800 --> 00:20:11,720
+e i Mac, e si apre una finestra, una finestra dove è
+
+322
+00:20:11,720 --> 00:20:15,720
+possibile impostare la data di inizio dell'appuntamento, la data di fine dell'appuntamento,
+
+323
+00:20:15,720 --> 00:20:17,080
+il calendario e così via.
+
+324
+00:20:17,080 --> 00:20:23,640
+Ovviamente, soprattutto sul mobile, non è una roba veloce, facile da fare.
+
+325
+00:20:24,120 --> 00:20:29,240
+Quindi Apple, come altri, hanno implementato questa funzione dove cliccando il più
+
+326
+00:20:29,480 --> 00:20:33,400
+non compare tutta questa roba, ma compare una piccola finestrella dove voi
+
+327
+00:20:33,400 --> 00:20:34,840
+potete digitare il testo.
+
+328
+00:20:34,840 --> 00:20:39,800
+Per esempio, appuntamento stasera alle 8 con Roberto.
+
+329
+00:20:40,280 --> 00:20:44,680
+Automaticamente il sistema riconosce: no, non ce la fa fare così.
+
+330
+00:20:44,680 --> 00:20:52,840
+Diciamo che solitamente appuntamento oggi 21 con Roberto dovrebbe crearti l'appuntamento con
+
+331
+00:20:52,840 --> 00:20:58,120
+Filippo dipende dal tuo punto di vista, dovrebbe crearti l'appuntamento nella giornata
+
+332
+00:20:58,120 --> 00:21:01,240
+di oggi, oppure appunto, si può fare domani e così via.
+
+333
+00:21:01,240 --> 00:21:06,360
+E questo Ziona Roberto dallo sguardo incerto.
+
+334
+00:21:06,680 --> 00:21:12,120
+Allora, dunque, sto cercando di capire perché, questo qui è interessantissimo perché
+
+335
+00:21:12,120 --> 00:21:15,200
+io sono il tipico utonto, che è giusto che ci sia in
+
+336
+00:21:14,680 --> 00:21:18,240
+questo podcast perché tira fuori, diciamo,
+
+337
+00:21:18,400 --> 00:21:21,280
+le incapacità che uno può incontrare.
+
+338
+00:21:21,280 --> 00:21:23,440
+Se io faccio do il più
+
+339
+00:21:24,560 --> 00:21:30,080
+nel calendario di iPadOS, mi compare una tendina dove io posso
+
+340
+00:21:30,080 --> 00:21:35,360
+inserire il titolo e la posizione o la videochiamata non mi salta
+
+341
+00:21:35,360 --> 00:21:36,560
+fuori la tendina.
+
+342
+00:21:36,560 --> 00:21:39,040
+Io ce l'ho con Fantastica e io uso Fantastica.
+
+343
+00:21:39,200 --> 00:21:40,560
+Apro e chiuso una parentesi.
+
+344
+00:21:40,560 --> 00:21:44,880
+Ah, ecco, ok, sono su Monterey a questo punto, solo sul calendario
+
+345
+00:21:45,120 --> 00:21:47,520
+sul calendario diciamo per Mac.
+
+346
+00:21:47,760 --> 00:21:52,160
+E infatti, se si clicca sulla più di creare un evento rapido,
+
+347
+00:21:52,160 --> 00:21:53,440
+c'è scritto proprio.
+
+348
+00:21:53,440 --> 00:21:57,120
+E infatti, l'esempio è cinema venerdì alle 19.
+
+349
+00:21:57,120 --> 00:21:58,480
+Lo sto provando adesso.
+
+350
+00:21:58,480 --> 00:22:03,200
+Mentre effettivamente ho provato ad aprire e guarda sul tuo se lo
+
+351
+00:22:03,200 --> 00:22:07,760
+fa già o se è una funzione nuova di Monterey sull'iPad, in
+
+352
+00:22:07,760 --> 00:22:09,600
+effetti non esiste questa cosa.
+
+353
+00:22:09,840 --> 00:22:12,480
+Adesso devo andare sul calendario.
+
+354
+00:22:12,800 --> 00:22:17,840
+Io sto lavorando su prima di iniziare a fare gli esperimenti, sono
+
+355
+00:22:17,840 --> 00:22:20,720
+un vecchio utente di macOS Catalina.
+
+356
+00:22:20,720 --> 00:22:24,080
+Siamo alla versione 10, 15, 7 per quanto mi riguarda.
+
+357
+00:22:24,080 --> 00:22:27,360
+Se io faccio più posso creare evento rapido e in effetti mi
+
+358
+00:22:27,360 --> 00:22:29,920
+dice cinedì alle 19.
+
+359
+00:22:30,160 --> 00:22:36,320
+Conseguentemente, è da Catalina, almeno a memoria d'uomo mia e di Filippo,
+
+360
+00:22:36,320 --> 00:22:41,920
+che c'è la possibilità di inserire con linguaggio naturale, invece, da quello
+
+361
+00:22:41,920 --> 00:22:46,960
+che mi pare di capire anche dalla guida Apple, il linguaggio naturale
+
+362
+00:22:46,960 --> 00:22:48,880
+si può utilizzare con Siri.
+
+363
+00:22:48,880 --> 00:22:53,840
+Ad esempio, ci sono delle possibilità: tipo fissa una riunione con Giovanni
+
+364
+00:22:53,840 --> 00:22:58,000
+per le 9, oppure si può chiedere a Siri se ho una
+
+365
+00:22:58,000 --> 00:23:02,600
+riunione alle 10, oppure chiedere dove si svolge la mia riunione alle
+
+366
+00:22:59,760 --> 00:23:03,240
+3 e mezza.
+
+367
+00:23:03,640 --> 00:23:07,000
+Quindi, diciamo che questi qui sono esempi di come utilizzare Siri con
+
+368
+00:23:07,080 --> 00:23:07,960
+linguaggio naturale.
+
+369
+00:23:07,960 --> 00:23:12,760
+Purtroppo dal punto di vista testuale, nel senso di digitazione del linguaggio
+
+370
+00:23:12,760 --> 00:23:17,320
+naturale su iOS e pad OS, non è ancora implementato.
+
+371
+00:23:17,320 --> 00:23:21,960
+Io effettivamente ho guardato questa funzione sul manuale per macOS.
+
+372
+00:23:22,280 --> 00:23:24,360
+Davo per scontato che fossero
+
+373
+00:23:26,120 --> 00:23:27,640
+nella stessa linea, ma questo
+
+374
+00:23:29,240 --> 00:23:30,600
+direi che invece così non è.
+
+375
+00:23:30,600 --> 00:23:33,000
+Questa è una tirata d'orecchi per Apple.
+
+376
+00:23:33,000 --> 00:23:35,720
+Non è che siamo noi che ci siamo sbagliati, ma è Apple
+
+377
+00:23:35,720 --> 00:23:37,880
+che è indietro sui sistemi mobile.
+
+378
+00:23:38,120 --> 00:23:42,520
+Devo dire la verità: appunto non per fare pubblicità, fantastical, ma
+
+379
+00:23:43,720 --> 00:23:44,520
+anche Fantastical
+
+380
+00:23:45,560 --> 00:23:49,400
+mi fastidisce perché ha delle idiosincrasie.
+
+381
+00:23:49,400 --> 00:23:55,560
+Per cui, per esempio, pasta al pesto, ok, non posso scrivere pasta
+
+382
+00:23:55,560 --> 00:23:59,160
+al pesto, perché, se no, lui in automatico me lo considera come
+
+383
+00:23:59,160 --> 00:24:03,320
+posto e quindi cerca tutti i posti con il pesto.
+
+384
+00:24:03,560 --> 00:24:10,120
+Nome è una roba imbarazzante e quindi per esempio: i limiti dell'informatica.
+
+385
+00:24:10,440 --> 00:24:16,120
+Quando devo mettere invece velocemente il calendario dei diciamo dei pasti, tutto
+
+386
+00:24:16,280 --> 00:24:19,160
+quello che ha qualcosa non va bene,
+
+387
+00:24:20,760 --> 00:24:26,440
+è usato con pasta con pesto e probabilmente spero che vada bene,
+
+388
+00:24:26,440 --> 00:24:29,400
+ma secondo me con con ti cerca il contatto.
+
+389
+00:24:29,400 --> 00:24:31,800
+Ah, con un amico minzaga.
+
+390
+00:24:32,040 --> 00:24:32,760
+Quindi non lo so.
+
+391
+00:24:32,760 --> 00:24:34,560
+Adesso non ci ho mai provato comunque.
+
+392
+00:24:34,560 --> 00:24:37,720
+Devo dire la verità: anche perché è spaghetti al pomodoro per me.
+
+393
+00:24:38,040 --> 00:24:40,920
+Tuttavia, però a pomodoro ti inizia a cercare dappertutto.
+
+394
+00:24:40,920 --> 00:24:42,120
+Che si chiama pomodoro.
+
+395
+00:24:42,280 --> 00:24:44,600
+I ristoranti, probabilmente esatto.
+
+396
+00:24:44,600 --> 00:24:50,240
+Vabbè, comunque chiudendo questa parentesi, l'altra cosa interessante sono i suggerimenti di
+
+397
+00:24:50,240 --> 00:24:54,640
+Siri, che non sono quello che raccontava prima Roberto, ma nella sostanza,
+
+398
+00:24:54,640 --> 00:25:00,640
+Siri può riconoscere certi appuntamenti, certi eventi diciamo, e suggerirli per inserire
+
+399
+00:25:00,800 --> 00:25:01,520
+nel calendario.
+
+400
+00:25:01,520 --> 00:25:09,040
+Altra cosa interessante: abitualmente nell'80% delle interfacce, diciamo, sia di iPhone iPad
+
+401
+00:25:09,200 --> 00:25:10,480
+che Mac.
+
+402
+00:25:10,480 --> 00:25:15,280
+Se abbiamo, per esempio, vediamoci alle 10 del mattino, per esempio, spesso
+
+403
+00:25:15,440 --> 00:25:17,280
+e volentieri è possibile.
+
+404
+00:25:17,600 --> 00:25:23,920
+iOS sottolinea questa parte e vi permette in pratica di catturarla e
+
+405
+00:25:23,920 --> 00:25:25,440
+renderla come appuntamento.
+
+406
+00:25:25,440 --> 00:25:30,160
+Quindi, c'è un sistema di riconoscimento come numeri di telefono.
+
+407
+00:25:30,160 --> 00:25:32,240
+Questo è molto utile in mail.
+
+408
+00:25:32,240 --> 00:25:36,720
+In mail, quando vi mandano de appuntamenti con mail, viene praticamente il
+
+409
+00:25:36,720 --> 00:25:42,000
+90% delle volte riconosciuto e quindi si apre essenzialmente, se ci passate
+
+410
+00:25:42,000 --> 00:25:45,920
+sopra col mouse, si crea una specie di nuvoletta dove voi potete
+
+411
+00:25:45,920 --> 00:25:51,120
+cliccare e a quel punto viene inserito direttamente nel calendario senza sforzi
+
+412
+00:25:51,120 --> 00:25:51,760
+particolari.
+
+413
+00:25:51,760 --> 00:25:56,080
+Un'altra funzione che è abbastanza sconosciuta, che anch'io non conoscevo più di
+
+414
+00:25:56,080 --> 00:25:56,320
+tanto.
+
+415
+00:25:56,320 --> 00:25:59,120
+Poi qui non voglio aprire la parentesi quindi ve ne accenno, ma
+
+416
+00:25:59,120 --> 00:26:05,200
+David Spark mai introdotto al cosiddetto contextual computing, che oggi non approfondiremo.
+
+417
+00:26:05,200 --> 00:26:07,600
+È già Roberto alza le mani al cielo.
+
+418
+00:26:07,600 --> 00:26:12,400
+Nella sostanza è possibile inserire in calendario come in tantissime altre applicazioni.
+
+419
+00:26:12,400 --> 00:26:17,600
+Dei link a pagine web, per esempio Zoom Meeting o call di
+
+420
+00:26:17,600 --> 00:26:22,880
+vario genere, ma anche appunto attraverso il sistema degli URS Scheme, ad
+
+421
+00:26:22,880 --> 00:26:23,840
+altre applicazioni.
+
+422
+00:26:23,840 --> 00:26:29,120
+Quindi, per esempio, non so, ho un appuntamento e ho un'agenda d'appuntamento
+
+423
+00:26:29,120 --> 00:26:34,360
+attraverso l'email, posso inserire appunto un link diretto a quella specifica email
+
+424
+00:26:34,520 --> 00:26:38,680
+attraverso Ur Scheme e questo è molto comodo, ve lo consiglio.
+
+425
+00:26:38,680 --> 00:26:42,600
+L'altra cosa, che spesso e volentieri nessuno sa, è che potete anche
+
+426
+00:26:42,600 --> 00:26:45,000
+allegare un appuntamento nel calendario.
+
+427
+00:26:45,000 --> 00:26:49,000
+Quindi, non so, per esempio, dovete discutere di un documento o c'è
+
+428
+00:26:49,000 --> 00:26:53,000
+qualcosa da o la prenotazione di un ticket che ne so io.
+
+429
+00:26:53,000 --> 00:26:59,640
+Potete ovviamente caricare questo documento o anche creo un'immagine direttamente nell'appuntamento e
+
+430
+00:26:59,640 --> 00:27:02,840
+quindi andando nel calendario vedrete direttamente.
+
+431
+00:27:02,840 --> 00:27:09,080
+Ovviamente quel documento lo potrete aprire, potrete farlo anteprima e quindi diventa
+
+432
+00:27:09,080 --> 00:27:14,440
+molto comodo avere una contestualizzazione non solo dell'appuntamento, ma anche di cosa
+
+433
+00:27:14,440 --> 00:27:18,760
+o quantomeno dei documenti che dovrete discutere a quell'appuntamento.
+
+434
+00:27:19,160 --> 00:27:24,680
+Stavo osservando che appunto cercando di allegare un file, praticamente si può
+
+435
+00:27:24,680 --> 00:27:25,400
+allegare.
+
+436
+00:27:25,400 --> 00:27:29,720
+A giudicare da qua qualsiasi tipo di file, non c'è praticamente tutto.
+
+437
+00:27:29,720 --> 00:27:33,960
+Cioè, vi dico che si possono applicare anche file BMX che sono
+
+438
+00:27:33,960 --> 00:27:36,440
+del BIM e si possono tranquillamente alle.
+
+439
+00:27:36,440 --> 00:27:39,400
+Giusto per dire che si può prendere tutto essenzialmente.
+
+440
+00:27:39,560 --> 00:27:43,800
+Ricordo che è tutto un discorso di sincronizzazione, soprattutto quindi se iniziate
+
+441
+00:27:43,800 --> 00:27:49,560
+a caricare l'infinito e oltre, poi potreste avere qualche problema nella sincronizzazione
+
+442
+00:27:49,560 --> 00:27:51,000
+dei vostri calendari e così via.
+
+443
+00:27:51,160 --> 00:27:54,600
+Soprattutto se avete dei cricetti che vi portano i dati, come nel
+
+444
+00:27:54,600 --> 00:27:56,280
+mio caso, quindi state attenti.
+
+445
+00:27:56,280 --> 00:27:59,960
+Direi che queste sono le funzioni che io ritengo fondamentali da conoscere
+
+446
+00:27:59,960 --> 00:28:04,760
+perché spesso volentieri non si conoscono e invece possono diventare comode in
+
+447
+00:28:04,760 --> 00:28:05,640
+alcune circostanze.
+
+448
+00:28:05,800 --> 00:28:09,640
+Nessuno vieta che voi utilizzate il vostro calendario per appuntamento col dentista
+
+449
+00:28:09,720 --> 00:28:14,520
+ore 9, cioè e fine lì della vicenda, non vogliamo per forza
+
+450
+00:28:14,520 --> 00:28:18,240
+di cosa snaturare il sistema, e anzi, il calendario serve per quello
+
+451
+00:28:18,320 --> 00:28:22,560
+per fissare gli appuntamenti, comunque fissare del tempo specifico per una determinata
+
+452
+00:28:22,560 --> 00:28:23,280
+cosa, ecco.
+
+453
+00:28:23,280 --> 00:28:27,120
+Un'altra cosa che credo, perché anche questa non la utilizzo più di
+
+454
+00:28:27,120 --> 00:28:31,120
+tanto, che faccia Apple c'è anche la possibilità, se si indica il
+
+455
+00:28:31,120 --> 00:28:37,680
+posto, avere il tempo di arrivo o di stimato d'arrivo.
+
+456
+00:28:37,680 --> 00:28:38,240
+Sì, sì, sì.
+
+457
+00:28:38,320 --> 00:28:43,520
+Ecco, questo è molto interessante perché se riuscite a inserire l'indirizzo preciso,
+
+458
+00:28:43,520 --> 00:28:48,160
+se viene riconosciuto ovviamente da parte di Apple, e ricordo che siamo
+
+459
+00:28:48,160 --> 00:28:51,200
+in Italia, quindi non è tanto scontata questa cosa.
+
+460
+00:28:51,520 --> 00:28:55,120
+Imagino che se lo fai a copertino viene tutto riconosciuto come per
+
+461
+00:28:55,120 --> 00:28:55,680
+magia.
+
+462
+00:28:55,680 --> 00:29:01,120
+Se metti vie estrane in Italia che magari non digiti il santo
+
+463
+00:29:01,120 --> 00:29:02,960
+giusto, il nome e cognome.
+
+464
+00:29:02,960 --> 00:29:05,920
+Probabilmente non te lo becca, tu la conosci solo per cognome quella
+
+465
+00:29:05,920 --> 00:29:09,120
+via, magari non te la becca, devi essere un po' più preciso.
+
+466
+00:29:09,120 --> 00:29:12,720
+Ma è interessante perché nel momento in cui viene riconosciuto, viene indicato
+
+467
+00:29:12,960 --> 00:29:16,720
+il numero civico e il paese dove dovete andare, oltre ad avere
+
+468
+00:29:16,720 --> 00:29:22,640
+una preview quando aprite l'evento di dov'è il posto, automaticamente potete inserire
+
+469
+00:29:22,640 --> 00:29:28,880
+l'avviso che vi dice l'ora venite avvisati all'ora di partire in base
+
+470
+00:29:28,880 --> 00:29:33,360
+alla posizione in cui siete, ovviamente, con la geologizzazione attiva.
+
+471
+00:29:33,360 --> 00:29:37,280
+E questo è interessantissimo, ad esempio, dal mio punto di vista lavorativo,
+
+472
+00:29:37,280 --> 00:29:42,400
+perché se metto una serie di appuntamenti in vari cantieri, almeno l'ultimo
+
+473
+00:29:42,400 --> 00:29:44,800
+avviso che mi arriva è quello quando è l'ora di partire.
+
+474
+00:29:44,800 --> 00:29:47,280
+Vuol dire che lì non c'è santo, perché devo partire, andare a
+
+475
+00:29:47,280 --> 00:29:50,160
+mettermi in macchina e andare, perché, se no, non arrivo in tempo.
+
+476
+00:29:50,160 --> 00:29:55,440
+Quindi può essere davvero utile e provatelo, e vedete che vi verrà
+
+477
+00:29:55,520 --> 00:29:57,280
+in salvo un paio di volte.
+
+478
+00:29:57,280 --> 00:30:00,360
+Già che parlavi di avvisi, segnalo anche che è possibile.
+
+479
+00:29:59,840 --> 00:30:03,960
+Ovviamente io abitualmente cerco di evitare le notifiche.
+
+480
+00:30:04,040 --> 00:30:07,800
+Quindi, per me il calendario è da guardare e non da ricevere
+
+481
+00:30:07,880 --> 00:30:08,520
+gli avvisi.
+
+482
+00:30:08,520 --> 00:30:14,120
+Ciò detto, è possibile inserire ovviamente preavvisi per dire attenzione: tra 10
+
+483
+00:30:14,120 --> 00:30:19,880
+minuti, mezz'ora, un'ora hai l'appuntamento col dentista, con il commercialista, con un
+
+484
+00:30:19,880 --> 00:30:21,080
+cliente e così via.
+
+485
+00:30:21,080 --> 00:30:26,120
+Quindi, io non sono un amante delle notifiche per cui evito abitualmente.
+
+486
+00:30:26,600 --> 00:30:30,600
+Apro chiudo una parentesi, poi cercheremo di parlare casomai velocemente anche dopo.
+
+487
+00:30:30,760 --> 00:30:34,840
+Vedo il prossimo appuntamento sull'orologio, diciamo sull'Apple Watch.
+
+488
+00:30:34,840 --> 00:30:40,760
+Quindi tendenzialmente abitualmente un modo di supervisionare più o meno le scadenze
+
+489
+00:30:40,760 --> 00:30:41,640
+e gli appuntamenti.
+
+490
+00:30:41,640 --> 00:30:47,800
+E abitualmente per lavoro comunque ho una schermata del Mac sostanzialmente dedicata
+
+491
+00:30:47,800 --> 00:30:52,040
+solo al calendario e alla to-do list app, cioè to do list
+
+492
+00:30:52,280 --> 00:30:53,400
+nel mio caso.
+
+493
+00:30:53,400 --> 00:30:58,200
+Quindi è ovvio che abitualmente io ho la giornata, la tengo monitorata
+
+494
+00:30:58,200 --> 00:31:01,720
+e la pianifico e cerco di dare un ordine ben specifico alla
+
+495
+00:31:01,720 --> 00:31:03,400
+vicenda, ma non entriamo nel merito.
+
+496
+00:31:03,400 --> 00:31:07,720
+Se invece avete un utilizzo saltuario del calendario, può diventare comodo avere
+
+497
+00:31:07,720 --> 00:31:11,320
+gli avvisi proprio per non scordarsi degli appuntamenti.
+
+498
+00:31:11,320 --> 00:31:15,400
+Abbiamo visto come è possibile condividere con altri gli appuntamenti.
+
+499
+00:31:15,400 --> 00:31:18,680
+Non entriamo nel dettaglio, anche qui lasciamo comunque il link nelle note
+
+500
+00:31:18,840 --> 00:31:22,440
+dell'episodio per gli eventuali approfondimenti, ma è molto semplice.
+
+501
+00:31:22,440 --> 00:31:28,680
+Abitualmente si manda un invito al soggetto interessato con cui si vuole
+
+502
+00:31:28,680 --> 00:31:30,760
+condividere il calendario.
+
+503
+00:31:31,000 --> 00:31:36,200
+Una che questo ha accettato l'invito, i calendari si sincronizzano.
+
+504
+00:31:36,520 --> 00:31:42,280
+Se voi inserite un nuovo appuntamento o se qualcuno modifica un appuntamento,
+
+505
+00:31:42,280 --> 00:31:48,240
+verrete notiziati in qualche maniera di questi inserimenti e ovviamente vedrete i
+
+506
+00:31:48,240 --> 00:31:54,160
+calendari reciprocamente sui vari dispositivi sincronizzati con questo calendario.
+
+507
+00:31:54,160 --> 00:31:59,600
+Io farei subito un passaggio veloce sulle applicazioni alternative a pagamento perché
+
+508
+00:32:00,080 --> 00:32:06,080
+appunto il calendario è gratuito, è compreso all'interno dell'acquisto sostanzialmente del Mac
+
+509
+00:32:06,240 --> 00:32:07,920
+dell'iPhone o dall'iPad.
+
+510
+00:32:07,920 --> 00:32:12,240
+Le altre applicazioni si distinguono per funzioni un po' più evolute, chiamiamole
+
+511
+00:32:12,240 --> 00:32:16,720
+così, ma nella sostanza hanno ormai quasi tutte, cioè le due applicazioni
+
+512
+00:32:16,880 --> 00:32:20,400
+fondamentali per Mac, poi vedremo che ce ne sono varie altre, sono
+
+513
+00:32:20,400 --> 00:32:23,200
+a pagamento e sono abitualmente in abbonamento.
+
+514
+00:32:23,200 --> 00:32:26,720
+Io quella che utilizzo è Fantastical, che lo dice il nome: è
+
+515
+00:32:26,720 --> 00:32:29,840
+l'applicazione Fantastical sul calendario.
+
+516
+00:32:29,840 --> 00:32:34,320
+Diciamo che nella sostanza, Apple si sta sempre più avvicinando a questa
+
+517
+00:32:34,400 --> 00:32:36,240
+applicazione come funzioni.
+
+518
+00:32:36,240 --> 00:32:42,080
+È ovvio che per vari anni Fantastical aveva il grosso vantaggio del
+
+519
+00:32:42,720 --> 00:32:50,000
+linguaggio naturale, quindi permettere all'utente finale di inserire molto velocemente puntamenti proprio
+
+520
+00:32:50,000 --> 00:32:54,400
+utilizzando domani incontro con Roberto alle 19.
+
+521
+00:32:54,400 --> 00:32:58,640
+Addirittura si possono anche inserire gli allarmi e altre cose.
+
+522
+00:32:58,640 --> 00:32:59,920
+Quindi, cioè scrivendo
+
+523
+00:33:01,040 --> 00:33:06,320
+, è possibile completare in maniera molto avanzata e approfondita, per esempio, non
+
+524
+00:33:06,320 --> 00:33:13,280
+so, mettendo 1920 o per esempio 2030, l'appuntamento verrà dalle 19 alle
+
+525
+00:33:13,440 --> 00:33:17,680
+2030 e quindi un'ora e mezzo, per cui è anche proprio possibile
+
+526
+00:33:17,680 --> 00:33:19,200
+fare tutta una serie di cose.
+
+527
+00:33:19,200 --> 00:33:25,040
+L'altra cosa interessante, diciamo di Fantastica, per esempio l'interfaccia configurabile, nel senso
+
+528
+00:33:25,040 --> 00:33:29,520
+che, mentre in calendario non l'abbiamo detto, ma lo diciamo abbiamo la
+
+529
+00:33:29,520 --> 00:33:34,360
+vista a un giorno, a una settimana mensile e annuale.
+
+530
+00:33:34,600 --> 00:33:39,080
+In Fantastical si possono fare delle cose un po' più personalizzabili.
+
+531
+00:33:39,080 --> 00:33:43,880
+Quindi, per esempio, non so, la visualizzazione settimanale si può arrivare fino
+
+532
+00:33:43,880 --> 00:33:48,920
+a 14 giorni e quindi vedere l'arco temporale dei 14 giorni di
+
+533
+00:33:48,920 --> 00:33:50,760
+appuntamento o di impegni.
+
+534
+00:33:50,760 --> 00:33:57,400
+Per esempio, su iPad come su iPhone, ma anche fisicamente sul Mac,
+
+535
+00:33:57,400 --> 00:34:01,240
+diciamo, io anche lì cerco di avere un'interfaccia minimale.
+
+536
+00:34:01,240 --> 00:34:06,200
+Quindi abitualmente io tengo anche Fantastic nella versione dove si vede solo
+
+537
+00:34:06,200 --> 00:34:11,160
+sostanzialmente il calendario con una finta agenda, chiamiamolo così, dove c'è la
+
+538
+00:34:11,160 --> 00:34:14,200
+giornata e dove ci sono le varie ore della giornata.
+
+539
+00:34:14,200 --> 00:34:18,200
+Ma è possibile, per esempio, vedere anche, non so, tutti il mese
+
+540
+00:34:18,440 --> 00:34:24,120
+in cui si sta lavorando e vedere quanti appuntamenti, tra virgolette, ci
+
+541
+00:34:24,120 --> 00:34:29,720
+sono con una sorta di mappa calore, diciamo, dove ovviamente il rosso
+
+542
+00:34:29,960 --> 00:34:34,840
+sono giornate dove ci sono molti impegni, il giallo calde esatto, appunto
+
+543
+00:34:35,000 --> 00:34:35,720
+bravo.
+
+544
+00:34:35,720 --> 00:34:40,520
+E il giallo meno impegni e niente sostanzialmente vuol dire che si
+
+545
+00:34:40,520 --> 00:34:43,640
+è liberi o comunque ci sono pochi o nessun impegno.
+
+546
+00:34:43,880 --> 00:34:48,680
+Sono appunto piccole funzioni aggiuntive, diciamo, che sono comode.
+
+547
+00:34:48,680 --> 00:34:54,760
+Personalmente, Fantastical, per come lo utilizzo io, la funzione, diciamo, la killer
+
+548
+00:34:54,760 --> 00:35:00,200
+feature dal mio punto di vista è l'integrazione all'interno di Fantastical attraverso
+
+549
+00:35:00,200 --> 00:35:04,760
+ovviamente il login di to doist, che è l'applicazione che utilizzo per
+
+550
+00:35:04,760 --> 00:35:06,120
+gestire invece le attività.
+
+551
+00:35:06,120 --> 00:35:06,400
+Oggi.
+
+552
+00:35:06,400 --> 00:35:11,720
+Non ne parleremo del cosiddette to doist app, cioè le applicazioni per
+
+553
+00:35:11,720 --> 00:35:17,360
+fare quindi non per prendere appuntamenti, ma devo fare la spesa, devo
+
+554
+00:35:17,360 --> 00:35:20,720
+fare un determinato tipo di atto, devo fare una determinata tipo di
+
+555
+00:35:14,840 --> 00:35:21,440
+telefonata.
+
+556
+00:35:21,600 --> 00:35:25,680
+Abitualmente queste attività che non sono di fatto non devono essere fatte
+
+557
+00:35:25,680 --> 00:35:30,720
+in un momento specifico della giornata e casomai invece devono essere salvate
+
+558
+00:35:30,720 --> 00:35:36,400
+per il futuro e si deve poter organizzare sostanzialmente questi impegni, vengono
+
+559
+00:35:36,400 --> 00:35:39,040
+gestite con applicazioni diverse.
+
+560
+00:35:39,040 --> 00:35:45,360
+Abitualmente diciamo di mamma Apple, questa applicazione è il Pro Memoria, che
+
+561
+00:35:45,360 --> 00:35:50,320
+recentemente, tra l'altro, è stata migliorata molto, ma devo dire la verità,
+
+562
+00:35:50,320 --> 00:35:54,080
+io non la uso, anzi addirittura non ho ancora aggiornato al nuovo
+
+563
+00:35:54,080 --> 00:35:57,520
+formato più avanzato di Pro Memoria, quindi proprio da quel punto di
+
+564
+00:35:57,520 --> 00:35:59,040
+vista lì sono dietrissimo.
+
+565
+00:35:59,040 --> 00:36:02,800
+Ma questa era una parentesi come il nostro solito, non va bene,
+
+566
+00:36:02,800 --> 00:36:09,360
+giusto per darvi delle idee, il Fantastical costa con abbonamento annuale, monutenza,
+
+567
+00:36:09,360 --> 00:36:12,320
+chiamiamola così 3,67 euro.
+
+568
+00:36:12,320 --> 00:36:16,720
+Mentre per il pacchetto, chiamiamolo così famiglia, cioè per cinque utenti uniti
+
+569
+00:36:16,720 --> 00:36:22,400
+in famiglia, chiamiamolo un po' come Apple, costa 5,83.
+
+570
+00:36:22,400 --> 00:36:26,880
+Quindi alla fine della fola una quarantina d'euro all'anno per l'abbonamento singolo.
+
+571
+00:36:27,040 --> 00:36:30,880
+Comunque anche qui i prezzi e le funzioni collegate all'abbonamento le trovate.
+
+572
+00:36:30,880 --> 00:36:35,840
+La cosa interessante, recente che Fantastical ha fatto, cioè quelli di Flexbit
+
+573
+00:36:35,920 --> 00:36:37,840
+che sono quelli che sviluppano questa applicazione.
+
+574
+00:36:37,840 --> 00:36:41,040
+È che con questo abbonamento, in pratica, vi danno la possibilità anche
+
+575
+00:36:41,040 --> 00:36:47,280
+di utilizzare l'applicazione Cardop, che invece è l'applicazione contatti, l'equivalente all'applicazione contatti
+
+576
+00:36:47,360 --> 00:36:49,280
+di Apple e per la gestione dei contatti.
+
+577
+00:36:49,360 --> 00:36:52,640
+Che ovviamente oggi, anche qui non ne parleremo di come gestire i
+
+578
+00:36:52,640 --> 00:36:53,200
+contatti.
+
+579
+00:36:53,200 --> 00:36:57,760
+Appuntamenti e contatti vanno chiamiamolo così a braccetto in parte, pagando uno
+
+580
+00:36:57,760 --> 00:36:59,200
+si ottiene anche l'altra.
+
+581
+00:36:59,200 --> 00:37:06,680
+Applicazione simile, meno bellina, se vogliamo dire così rispetto a Fantastica, che
+
+582
+00:37:06,680 --> 00:37:10,920
+io non uso quindi accenniamo proprio perché anzi, se casomai qualcuno la
+
+583
+00:37:10,920 --> 00:37:12,600
+utilizza, contattateci.
+
+584
+00:37:12,600 --> 00:37:18,440
+Che casomai organizziamo una chiacchierata, è bisical molto valida, da quello che
+
+585
+00:37:18,440 --> 00:37:19,240
+ne so io.
+
+586
+00:37:19,240 --> 00:37:23,480
+Una struttura non ad abbonamento, ma quasi, nel senso che la licenza
+
+587
+00:37:23,480 --> 00:37:24,840
+costa 50 euro.
+
+588
+00:37:24,840 --> 00:37:31,080
+È valida per 18 mesi, poi si paga sostanzialmente gli aggiornamenti successivi
+
+589
+00:37:31,080 --> 00:37:33,160
+con un altro pacchetto a 18 mesi.
+
+590
+00:37:33,160 --> 00:37:37,400
+Questa applicazione la potete trovare anche all'interno di setup, che è quel
+
+591
+00:37:37,400 --> 00:37:42,040
+famoso store parallelo, all'appost store di Apple.
+
+592
+00:37:42,040 --> 00:37:44,520
+E praticamente all'interno di questo
+
+593
+00:37:45,560 --> 00:37:50,440
+contenitore di applicazione, voi pagate un tot al mese, in questo caso
+
+594
+00:37:50,440 --> 00:37:53,240
+dovrebbe essere 10 euro se non erro, 10 euro al mese e
+
+595
+00:37:53,240 --> 00:37:57,640
+quindi avete tutte le applicazioni che sono all'interno di setup gratuite da
+
+596
+00:37:57,640 --> 00:37:58,120
+usare.
+
+597
+00:37:58,120 --> 00:38:01,480
+Quindi fate i conti su quello che vi conviene di più, chiaramente
+
+598
+00:38:01,480 --> 00:38:05,560
+il costo di setup è più alto, ma d'altra parte se volete
+
+599
+00:38:05,560 --> 00:38:09,400
+utilizzare questa applicazione, è molto probabile che ne troverete tante altre da
+
+600
+00:38:09,400 --> 00:38:12,120
+utilizzare, quindi ammortizzerete il costo.
+
+601
+00:38:12,440 --> 00:38:14,600
+Una precisazione che mi ha sempre bloccato.
+
+602
+00:38:14,600 --> 00:38:18,040
+Io adoro, ci sono un sacco di applicazioni che ho già comprato
+
+603
+00:38:18,040 --> 00:38:21,960
+e in setup e quindi, anche lì, avendole già comprate, diciamo, lo
+
+604
+00:38:21,960 --> 00:38:23,320
+rendono meno appetibile.
+
+605
+00:38:23,320 --> 00:38:26,680
+Il vero problema dal mio punto di vista è che setup con
+
+606
+00:38:26,840 --> 00:38:30,360
+l'abbonamento base, che è quello da 10 euro, ti dà la possibilità
+
+607
+00:38:30,360 --> 00:38:35,480
+di installare le applicazioni sul massimo due Mac, barra in alcuni casi
+
+608
+00:38:35,720 --> 00:38:38,600
+i OS, dipende dalle applicazioni.
+
+609
+00:38:38,600 --> 00:38:42,360
+Tendenzialmente è vero che io ho solo due Mac di lavoro concreto,
+
+610
+00:38:42,360 --> 00:38:45,840
+ma spesso e volentieri ne ho un terzo con il quale ci
+
+611
+00:38:44,920 --> 00:38:50,720
+faccio qualcosa, 6-10 euro avrebbero un loro senso logico su vari fronti.
+
+612
+00:38:50,800 --> 00:38:54,000
+Diciamo in questo caso, io sono tentenante.
+
+613
+00:38:54,000 --> 00:38:57,760
+Tuttavia, effettivamente lo segnalo perché questa è una cosa interessante.
+
+614
+00:38:57,920 --> 00:39:00,640
+Setup ha veramente dentro tante belle applicazioni.
+
+615
+00:39:00,640 --> 00:39:04,400
+E se già solo iniziate a usare due o tre, di fatto,
+
+616
+00:39:04,400 --> 00:39:08,400
+a prescindere dal concetto di abbonamento, però, alla fine sono 120 euro
+
+617
+00:39:08,400 --> 00:39:12,800
+l'anno e avete secondo me un centinaio di applicazioni tra cui potere
+
+618
+00:39:13,600 --> 00:39:17,600
+a dire la verità potete usare tutte 100, tra virgolette, però avete
+
+619
+00:39:17,600 --> 00:39:20,000
+una scelta avaria.
+
+620
+00:39:20,000 --> 00:39:24,320
+Non so, per esempio, Ulysses c'è su setup.
+
+621
+00:39:24,320 --> 00:39:29,200
+Appunto, non sapevo Bisical, ci sono tutta una serie comunque Market 2,
+
+622
+00:39:29,200 --> 00:39:30,480
+Bret Terpra.
+
+623
+00:39:30,640 --> 00:39:32,960
+Ci sono veramente tante tante applicazioni interessanti.
+
+624
+00:39:32,960 --> 00:39:37,360
+Timing 2 per esempio, anche lì c'è, sono tutta una serie di
+
+625
+00:39:37,360 --> 00:39:40,560
+applicazioni che meritano di essere provate, varre utilizzate.
+
+626
+00:39:40,560 --> 00:39:42,800
+Quindi alla fine, una volta che iniziate a avere due o tre
+
+627
+00:39:42,800 --> 00:39:44,800
+che utilizzate, il vantaggio c'è.
+
+628
+00:39:44,800 --> 00:39:48,960
+Abbiamo anche ovviamente altre applicazioni che non sono strettamente legate al calendario
+
+629
+00:39:48,960 --> 00:39:54,000
+in senso tecnico, ma che meritano ovviamente un perché, se no, ci
+
+630
+00:39:54,000 --> 00:39:57,040
+accuseresti di non averne parlato.
+
+631
+00:39:57,040 --> 00:40:02,640
+Ovviamente abbiamo Outlook che è l'applicazione di Microsoft che è anche per
+
+632
+00:40:02,640 --> 00:40:07,200
+la posta, ma ha anche integrato dentro il calendario quindi la gestione
+
+633
+00:40:07,200 --> 00:40:14,480
+del calendario della posta insieme e l'applicazione invece open source Thunderbird, che
+
+634
+00:40:14,800 --> 00:40:18,800
+ovviamente in questo caso è solo per Mac, che oltre a fare
+
+635
+00:40:18,800 --> 00:40:24,960
+da client di posta elettronica, fanno anche da agenda e si interagiscono
+
+636
+00:40:24,960 --> 00:40:26,000
+con i calendari.
+
+637
+00:40:26,000 --> 00:40:30,680
+Dico presumibilmente perché io non li ho mai usati da tantissimo tempo,
+
+638
+00:40:29,840 --> 00:40:33,080
+dovrebbero interagire senza nessun tipo di problema.
+
+639
+00:40:33,320 --> 00:40:38,520
+Anche col Caldev, che è il formato dei calendari di Apple, e
+
+640
+00:40:38,520 --> 00:40:41,160
+quindi con i cloud e compagnia Bella.
+
+641
+00:40:41,160 --> 00:40:44,200
+Ok, direi che a questo punto si si concordo.
+
+642
+00:40:44,200 --> 00:40:50,120
+Il calendario digitale ovviamente nasce come un database sostanzialmente da qualche parte,
+
+643
+00:40:50,120 --> 00:40:51,880
+può essere in locale.
+
+644
+00:40:51,880 --> 00:40:56,360
+In questo caso avete fisicamente il calendario all'interno del vostro computer.
+
+645
+00:40:56,360 --> 00:40:59,480
+E abitualmente adesso non lo faccio neanche io più da tanto tempo,
+
+646
+00:40:59,480 --> 00:41:01,960
+quindi presumo che sia ancora fattibile.
+
+647
+00:41:01,960 --> 00:41:08,040
+Potreste sincronizzare i vostri dispositivi mobili direttamente col computer via cavo, forse
+
+648
+00:41:08,040 --> 00:41:11,160
+via wifi, perché da millenni che non lo faccio.
+
+649
+00:41:11,160 --> 00:41:15,800
+Una volta non so più come funziona, una volta c'era iTunes, adesso
+
+650
+00:41:15,800 --> 00:41:19,240
+non credo più da almeno due o tre versioni del sistema operativo.
+
+651
+00:41:19,240 --> 00:41:22,520
+Però devo dire la verità, ormai non ne vale veramente più la
+
+652
+00:41:22,520 --> 00:41:23,000
+pena.
+
+653
+00:41:23,080 --> 00:41:28,600
+Sinon, in cloud i calendari e invece, appunto, dall'altra parte abbiamo la
+
+654
+00:41:28,600 --> 00:41:34,360
+sincronizzazione cloud e qui abbiamo i grandi big, diciamo, della gestione dei
+
+655
+00:41:34,360 --> 00:41:37,800
+calendari che sono ovviamente Apple con cloud.
+
+656
+00:41:37,800 --> 00:41:44,440
+Se siete nell'ecosistema Apple, Google, con Google Calendar e tutte le suite,
+
+657
+00:41:44,440 --> 00:41:46,440
+tutta la suite di Google.
+
+658
+00:41:46,440 --> 00:41:52,360
+Poi abbiamo Office 365 che credo sia diverso da invece Microsoft Exchange
+
+659
+00:41:52,520 --> 00:41:58,360
+perché Office 365 si appoggia sul servizio appunto Office 365 con le
+
+660
+00:41:58,360 --> 00:42:04,520
+applicazioni e con uno spazio di OneDrive di Microsoft per il file
+
+661
+00:42:04,600 --> 00:42:10,760
+e credo anche, appunto, il calendario condiviso con le varie applicazioni Microsoft,
+
+662
+00:42:10,760 --> 00:42:14,520
+ma non solo, e invece Microsoft Exchange, anche qui non ho mai
+
+663
+00:42:14,520 --> 00:42:17,760
+utilizzato in vita mia, quindi ve la vendo con dei dubitativi.
+
+664
+00:42:17,920 --> 00:42:22,560
+Se c'è qualcuno di voi, ascoltatori, che invece lo ha utilizzato, siamo
+
+665
+00:42:22,560 --> 00:42:24,960
+ovviamente siamo interessati a saperlo.
+
+666
+00:42:25,040 --> 00:42:30,720
+Comunque, dovrebbe essere un server specifico Microsoft, probabilmente l'hanno cloudizzato
+
+667
+00:42:31,760 --> 00:42:35,040
+, l'hanno reso cloud anche questo.
+
+668
+00:42:35,040 --> 00:42:40,000
+Però, una volta era proprio fisicamente in uno studio o in uno
+
+669
+00:42:40,000 --> 00:42:43,920
+studio professionale, perché ovviamente ha dei costi anche significativi.
+
+670
+00:42:43,920 --> 00:42:50,240
+Si aveva appunto il server direttamente in ufficio proprio per gestire contatti
+
+671
+00:42:50,560 --> 00:42:55,520
+e appuntamenti e tutta una serie di altre cose collegate.
+
+672
+00:42:55,520 --> 00:43:00,000
+Ovviamente di tutti questi servizi, essendo in cloud, c'è anche oltre ad
+
+673
+00:43:00,000 --> 00:43:06,080
+avere le applicazioni, chiamiamole così, che potete la possibilità di sincronizzare col
+
+674
+00:43:06,160 --> 00:43:11,040
+vostro Mac, col vostro iPhone e col vostro iPad, c'è una controparte
+
+675
+00:43:11,200 --> 00:43:14,960
+web, che abbiamo già detto, come c'è per i cloud, che è
+
+676
+00:43:14,960 --> 00:43:19,680
+meno famosa, il calendario di Google è quello che probabilmente la farà
+
+677
+00:43:19,840 --> 00:43:25,120
+padrone nel mondo business e non solo, grazie anche ai programmi gratuiti
+
+678
+00:43:25,120 --> 00:43:26,000
+di Google.
+
+679
+00:43:26,000 --> 00:43:30,960
+Queste sono, diciamo, il panorama generale della gestione, ovviamente, avendo un server
+
+680
+00:43:30,960 --> 00:43:34,880
+esterno che sincronizza tutti e i vari dispositivi che si collegano al
+
+681
+00:43:34,880 --> 00:43:38,800
+server esterno e che scaricano sostanzialmente i dati, caricano e scaricano i
+
+682
+00:43:38,800 --> 00:43:42,000
+dati, in questa maniera, una volta che inserite una cosa da una
+
+683
+00:43:42,000 --> 00:43:46,640
+parte, ve la trovate anche dall'altra e oggettivamente diventa molto molto comodo.
+
+684
+00:43:46,640 --> 00:43:50,720
+Oltre ad avere la possibilità di condividere in questa maniera i calendari.
+
+685
+00:43:50,720 --> 00:43:54,160
+Direi che a questo punto Roberto invece ci puoi raccontare della tua
+
+686
+00:43:54,160 --> 00:43:58,400
+esperienza con Notion, che diciamo è una terza via, chiamiamola così, e
+
+687
+00:43:58,400 --> 00:44:01,240
+sono curioso perché io invece non lo uso e quindi sono tutto
+
+688
+00:43:59,920 --> 00:44:01,800
+orecchia.
+
+689
+00:44:01,960 --> 00:44:06,040
+Ecco, guarda, anche qui in questo caso il mio utilizzo è molto
+
+690
+00:44:06,040 --> 00:44:11,960
+limitato, appunto, perché Notion è molto enorme, non so come definirlo in
+
+691
+00:44:11,960 --> 00:44:14,360
+altro modo, è veramente sconfinato.
+
+692
+00:44:14,360 --> 00:44:18,120
+Si può fare di tutto, tra cui anche dei calendari, ad esempio,
+
+693
+00:44:18,120 --> 00:44:19,480
+editoriali.
+
+694
+00:44:19,800 --> 00:44:25,080
+La cosa interessante dell'utilizzo che ne faccio io è quello che riguarda
+
+695
+00:44:25,080 --> 00:44:28,040
+i pro memoria, ed è infatti, per quello che non ho parlato
+
+696
+00:44:28,040 --> 00:44:31,640
+tanto di pro memoria, perché li sto abbandonando dalla parte di Apple.
+
+697
+00:44:31,640 --> 00:44:33,880
+Essenzialmente, questo è interessante perché?
+
+698
+00:44:33,880 --> 00:44:37,640
+Perché nel momento in cui si inserisce un task.
+
+699
+00:44:37,640 --> 00:44:43,160
+Nel famoso se volete vedere diciamo il template che utilizzo, basta andare
+
+700
+00:44:43,160 --> 00:44:47,000
+sul mio blog e troverete il link apposta per notion e tutti
+
+701
+00:44:47,240 --> 00:44:49,240
+il diciamo il template che utilizzo.
+
+702
+00:44:49,240 --> 00:44:54,360
+Se voi inserite il task, che potrebbe essere un promemoria qualsiasi, o
+
+703
+00:44:54,360 --> 00:44:57,800
+cose da fare, chiamiamolo così un to do, non più un task,
+
+704
+00:44:57,800 --> 00:44:59,560
+ma è meglio to do definirlo.
+
+705
+00:44:59,560 --> 00:45:03,880
+Se voi inserite un to-do, avete la possibilità all'interno di questo to-do
+
+706
+00:45:04,200 --> 00:45:07,720
+di specificare quando ci deve essere il reminder.
+
+707
+00:45:07,960 --> 00:45:10,440
+Il reminder a questo punto cosa si può fare?
+
+708
+00:45:10,440 --> 00:45:14,840
+Si può mettere il giorno, l'ora, in che ora mettere la propria
+
+709
+00:45:15,080 --> 00:45:16,760
+memoria e via discorrendo.
+
+710
+00:45:16,760 --> 00:45:20,920
+Questo funziona però in modo separato rispetto a tutto quello che è
+
+711
+00:45:20,920 --> 00:45:23,560
+il sistema, per intenderci di Apple.
+
+712
+00:45:23,560 --> 00:45:26,680
+Per se avete delle notifiche ve le manda, ma se non avete
+
+713
+00:45:26,680 --> 00:45:31,720
+le notifiche attive, probabilmente vi verrà mandato addirittura un'email sulla vostra casella
+
+714
+00:45:31,720 --> 00:45:36,920
+di posta elettronica per appunto ricordarvi la scadenza di questo to-do.
+
+715
+00:45:37,160 --> 00:45:38,280
+È molto interessante.
+
+716
+00:45:38,280 --> 00:45:46,800
+Diciamo all'interno di questo ecosistema del template perché avendo il widget di
+
+717
+00:45:46,960 --> 00:45:52,160
+Notion sempre a disposizione sotto mano, voi avete praticamente alla velocità della
+
+718
+00:45:52,160 --> 00:45:56,480
+luce la possibilità di inserire un Pro Memoria con i classici possibilità
+
+719
+00:45:56,480 --> 00:46:00,080
+di mettere un Pro Memoria, cioè ora, quando, cosa richiede.
+
+720
+00:46:00,080 --> 00:46:03,040
+Non c'è la possibilità di mettere allegati ad esempio.
+
+721
+00:46:03,040 --> 00:46:05,120
+Mi sembra che si possa inviare a qualcuno.
+
+722
+00:46:05,120 --> 00:46:07,920
+Adesso devo fare un attimo un controllo se mi andate un attimo,
+
+723
+00:46:07,920 --> 00:46:11,360
+apro il mio tablet che c'ho qua di fianco, come sempre, che
+
+724
+00:46:11,360 --> 00:46:12,160
+mi accompagna.
+
+725
+00:46:12,160 --> 00:46:16,240
+Apro Notion, metto di mettermi un simpatico Pro Memoria.
+
+726
+00:46:16,240 --> 00:46:20,880
+Allora, ci sono dei link, si possono mettere dei link quando farle.
+
+727
+00:46:20,880 --> 00:46:27,440
+Poi ovviamente le classiche cose che mette Notion per definire un qualcosa,
+
+728
+00:46:27,440 --> 00:46:31,600
+tipo tag, lo stato, il progetto a cui è associato, ad esempio,
+
+729
+00:46:31,600 --> 00:46:32,480
+se volete.
+
+730
+00:46:32,800 --> 00:46:36,960
+Adesso stavo cercando di mettere la data, vi si apre essenzialmente un
+
+731
+00:46:36,960 --> 00:46:38,640
+calendario del mese.
+
+732
+00:46:38,640 --> 00:46:41,840
+Se volete, poi potete passare i mesi successivi partendo dalla data in
+
+733
+00:46:41,840 --> 00:46:43,360
+cui lo state inserendo.
+
+734
+00:46:43,360 --> 00:46:48,160
+Il reminder che può essere al giorno dell'evento un giorno prima o
+
+735
+00:46:48,160 --> 00:46:50,880
+i giorni precedenti alle 9.
+
+736
+00:46:50,880 --> 00:46:54,160
+Adesso non ho ben presente quale sia il motivo per cui si
+
+737
+00:46:54,160 --> 00:46:57,360
+è inserito le 9, magari deriva da qualche impostazione, ma non ho
+
+738
+00:46:57,440 --> 00:47:00,160
+ancora potuto controllare, non ho approfondito.
+
+739
+00:47:00,160 --> 00:47:03,680
+Però potete anche inserire un orario specifico.
+
+740
+00:47:03,680 --> 00:47:04,720
+Può inserire
+
+741
+00:47:05,760 --> 00:47:09,600
+la data di fine di questo diciamo to-do.
+
+742
+00:47:09,920 --> 00:47:14,320
+Sto guardando altre cose di particolare, non c'è nient'altro da segnalare.
+
+743
+00:47:14,560 --> 00:47:20,720
+Semplicemente questo, come vi dicevo, viene segnalato tramite ProMemoria, tramite una notifica
+
+744
+00:47:20,880 --> 00:47:22,400
+oppure tramite mail.
+
+745
+00:47:22,400 --> 00:47:24,400
+Essenzialmente vi viene inviata questa mail.
+
+746
+00:47:24,400 --> 00:47:29,760
+Questo qui è per quanto riguarda l'inserimento del to-do che diventa essenzialmente
+
+747
+00:47:29,760 --> 00:47:32,840
+un Pro memoria con un avviso.
+
+748
+00:47:33,080 --> 00:47:37,560
+Per quanto invece invece il calendario, immagino perché non l'ho mai utilizzato,
+
+749
+00:47:37,560 --> 00:47:41,320
+che abbia più o meno le stesse possibilità, ma ovviamente in formato
+
+750
+00:47:41,320 --> 00:47:42,200
+calendario.
+
+751
+00:47:42,200 --> 00:47:46,920
+Voi potete inserire un calendario in qualsiasi pagina che volete del vostro
+
+752
+00:47:46,920 --> 00:47:48,920
+Notion senza grossi problemi.
+
+753
+00:47:48,920 --> 00:47:53,080
+Quindi potete andare, che ne so, a suddividere le vostre pagine per
+
+754
+00:47:53,080 --> 00:47:56,360
+lavoro o le pagine personali.
+
+755
+00:47:56,360 --> 00:47:59,640
+E all'interno di ogni pagina, se vi serve, vi mettete un calendario
+
+756
+00:47:59,640 --> 00:48:04,760
+che quindi sarà, si potrà accedere a quel calendario direttamente dalla pagina.
+
+757
+00:48:04,760 --> 00:48:10,040
+Purtroppo io qui oltre non sono andato perché ribadisco Notion lo uso,
+
+758
+00:48:10,040 --> 00:48:14,600
+ma per approfondire bisogna avere anche un attimino di tempo per approfondire,
+
+759
+00:48:14,600 --> 00:48:19,160
+guardarsi i vari tutorial e capire quello che fa a caso proprio.
+
+760
+00:48:19,400 --> 00:48:24,760
+Ci sono anche tanti template direttamente all'interno di Notion che vi consiglio
+
+761
+00:48:24,760 --> 00:48:28,360
+di andare a vedere se non avete voglia di andare a vedere
+
+762
+00:48:28,360 --> 00:48:32,760
+il template che utilizzo io, che poi vedete nelle note dell'episodio.
+
+763
+00:48:32,760 --> 00:48:35,960
+Però, se avete Notion, potete aprire la tendina dove ci sono i
+
+764
+00:48:35,960 --> 00:48:40,280
+template, lì troverete un sacco di idee a cui potete ispirarvi.
+
+765
+00:48:40,280 --> 00:48:44,920
+Ecco Roberto, giusto per chi capitasse qui per la prima volta, Notion
+
+766
+00:48:45,080 --> 00:48:46,840
+esattamente che roba è?
+
+767
+00:48:47,000 --> 00:48:50,600
+Un contenitore di tutto quello che avete in testa essenzialmente.
+
+768
+00:48:50,600 --> 00:48:53,320
+Detto all'inglese, che lo sa meglio Filippo:
+
+769
+00:48:54,680 --> 00:48:59,240
+Nola Management System o Software, e così via
+
+770
+00:49:00,520 --> 00:49:01,240
+in questo caso.
+
+771
+00:49:01,240 --> 00:49:06,040
+Ed è un'applicazione web, quindi, perché appunto si trova sul web, poi
+
+772
+00:49:06,040 --> 00:49:10,760
+esistono anche le applicazioni specifiche per iPad e iPhone.
+
+773
+00:49:10,800 --> 00:49:12,000
+Prima esatto, no?
+
+774
+00:49:12,080 --> 00:49:15,920
+Giusto per dare un quadro completo di un'applicazione giusto?
+
+775
+00:49:14,760 --> 00:49:18,880
+Perché se qualcuno si collega adesso ne abbiamo parlato.
+
+776
+00:49:19,280 --> 00:49:23,600
+Effettivamente ne abbiamo parlato anche con Daniele episodi fa, ma non so
+
+777
+00:49:23,600 --> 00:49:26,640
+se abbiamo mai detto che cos'è Notion esattamente.
+
+778
+00:49:26,640 --> 00:49:31,520
+Abbiamo sempre dato per scontato che tutti che sapessero cos'è esattamente, è
+
+779
+00:49:31,520 --> 00:49:38,480
+un'applicazione, diciamo molto flessibile, anche troppo, e vi permette di fare veramente
+
+780
+00:49:38,480 --> 00:49:42,240
+di tutto, compreso per esempio la pubblicazione di pagine web, per dirvi,
+
+781
+00:49:42,240 --> 00:49:47,200
+nel senso che siamo assolutamente in una situazione in cui questa applicazione
+
+782
+00:49:47,200 --> 00:49:49,520
+vi fa anche il caffè se volete.
+
+783
+00:49:49,520 --> 00:49:52,560
+La cosa interessante è che c'è un piano gratuito che è accessibile
+
+784
+00:49:52,560 --> 00:49:53,120
+a chiunque.
+
+785
+00:49:53,120 --> 00:49:57,040
+Io, ad esempio, utilizzo il piano gratuito dove praticamente tutte le funzioni
+
+786
+00:49:57,040 --> 00:49:58,720
+ce l'avete sotto mano.
+
+787
+00:49:58,720 --> 00:50:03,440
+È disponibile gratuitamente per macOS, per iOS e per iPadOS, avete
+
+788
+00:50:03,440 --> 00:50:06,320
+solo da provarlo e vedere come funziona.
+
+789
+00:50:06,320 --> 00:50:10,160
+L'unica accortezza che dico a tutti quelli che vogliono iniziare a usare
+
+790
+00:50:10,160 --> 00:50:16,960
+Notion: non spaventatevi all'inizio, perché vi renderete conto subito appena aprite l'applicazione,
+
+791
+00:50:16,960 --> 00:50:20,480
+che si può fare di tutto e non sapete da dove iniziare.
+
+792
+00:50:20,480 --> 00:50:23,760
+Comunque, il mio consiglio almeno per gli architetti, perché il template che
+
+793
+00:50:23,760 --> 00:50:26,320
+ho usato io è per architetti.
+
+794
+00:50:26,320 --> 00:50:31,040
+Se non volete perdervi, usate quel template lì e mettetevelo a posto
+
+795
+00:50:31,200 --> 00:50:32,080
+per come vi serve.
+
+796
+00:50:32,080 --> 00:50:36,640
+Almeno avete un punto di partenza che tutto sommato e gestibile.
+
+797
+00:50:36,640 --> 00:50:41,200
+Canovaccio dove partire, poi fare eventualmente gli approfondimenti.
+
+798
+00:50:41,200 --> 00:50:44,800
+Andiamo veloci perché dobbiamo ancora raccontare due cose.
+
+799
+00:50:44,800 --> 00:50:49,200
+Alcune cose da tenere presenti, che sono molto comode, e appunto ne
+
+800
+00:50:49,200 --> 00:50:51,560
+accennavo iniziò puntata a Roberto.
+
+801
+00:50:51,560 --> 00:50:55,680
+Sono i widget per iOS e per iPadOS per i calendari.
+
+802
+00:50:55,680 --> 00:50:59,440
+Ovviamente io vi parlo di due widget perché sono solo quelli che
+
+803
+00:50:59,440 --> 00:51:04,440
+utilizzo io, sono quello di calendario stesso e quello di Fantastical.
+
+804
+00:51:04,760 --> 00:51:08,600
+Roberto dice che addirittura ho due calendari, non è vero, nella sua
+
+805
+00:51:08,760 --> 00:51:14,040
+stanza ho una pagina, tra virgolette, su iPad dove ho diviso calendari
+
+806
+00:51:14,040 --> 00:51:17,400
+di lavoro e calendari diciamo della famiglia, di modo che i pegni
+
+807
+00:51:17,400 --> 00:51:22,360
+non sono uno affastellato sull'altro, ma ho a colpo d'occhio, diciamo, il
+
+808
+00:51:22,360 --> 00:51:25,960
+widget che utilizzo io ce ne sono vari, ovviamente.
+
+809
+00:51:25,960 --> 00:51:29,640
+È una visione a tre giorni del calendario, quindi vi fa vedere
+
+810
+00:51:29,640 --> 00:51:35,320
+il calendario dei prossimi tre giorni e potete scegliere sostanzialmente quale calendario
+
+811
+00:51:35,400 --> 00:51:36,120
+fare vedere.
+
+812
+00:51:36,120 --> 00:51:40,520
+Quindi, abitualmente io scelgo tutti i calendari legati al lavoro in un
+
+813
+00:51:40,520 --> 00:51:47,320
+widget, e tutti i calendari legati, diciamo, alla famiglia, all'organizzazione familiare invece
+
+814
+00:51:47,320 --> 00:51:48,120
+nell'altro.
+
+815
+00:51:48,120 --> 00:51:52,760
+Di modo che mi rendo anche conto, velocemente, diciamo, innanzitutto a colpo
+
+816
+00:51:52,760 --> 00:51:57,240
+d'occhio posso decidere su cosa fissarmi, cioè sto guardando qualcosa per la
+
+817
+00:51:57,240 --> 00:51:59,480
+casa oppure sto guardando qualcosa per il lavoro.
+
+818
+00:51:59,480 --> 00:52:03,320
+E dall'altro li vedo abbastanza bene perché poi ovviamente il widget non
+
+819
+00:52:03,320 --> 00:52:06,120
+ti permette di avere la visuale calendario completa.
+
+820
+00:52:06,120 --> 00:52:10,360
+L'altra cosa interessante di Invece di Fantastical è la famosa mappa del
+
+821
+00:52:10,360 --> 00:52:15,240
+surriscaldamento, l'ho chiamata io come traduzione, ovvero appunto fa vedere quando ci
+
+822
+00:52:15,240 --> 00:52:18,920
+sono molti impegni, si va verso il rosso, diciamo, quindi dal giallo
+
+823
+00:52:18,920 --> 00:52:23,080
+all'arancione e poi al rosso, e quindi in base all'attività della giornata,
+
+824
+00:52:23,080 --> 00:52:26,280
+gli appuntamenti e di impegni della giornata si vede se si è
+
+825
+00:52:26,280 --> 00:52:27,720
+più o meno impegnati.
+
+826
+00:52:27,720 --> 00:52:30,920
+Anche qui è molto interessante perché è anche fantastica.
+
+827
+00:52:30,920 --> 00:52:36,680
+Il può vi permette, diciamo, di dividere i calendari in sottogruppi sostanzialmente.
+
+828
+00:52:36,680 --> 00:52:41,480
+Quindi ho un calendario lavoro, un calendario famiglia, un calendario diciamo dei
+
+829
+00:52:41,480 --> 00:52:43,880
+progetti collaterali, chiamiamolo così.
+
+830
+00:52:43,880 --> 00:52:49,600
+Quindi, per esempio, utilizzo la visuale mensile del calendario di Fantastical con
+
+831
+00:52:49,600 --> 00:52:53,440
+la mappa di sul riscaldamento, per esempio, per gli impegni di lavoro.
+
+832
+00:52:53,440 --> 00:52:58,720
+Quindi ho un'idea se ho una giornata lavorativa impegnativa o meno.
+
+833
+00:52:59,040 --> 00:53:01,360
+Posso regolarmi, posso avere anche un po'.
+
+834
+00:53:01,360 --> 00:53:03,920
+Cioè, soprattutto se voglio dire va bene questa cosa.
+
+835
+00:53:04,160 --> 00:53:07,440
+Quando la faccio quando la inserisco?
+
+836
+00:53:07,440 --> 00:53:11,760
+Ovviamente dove c'è meno confusione può essere inserita e dove c'è più
+
+837
+00:53:11,760 --> 00:53:13,680
+confusione sarebbe meglio evitare.
+
+838
+00:53:14,880 --> 00:53:20,160
+Sono piccole funzioni, ma che effettivamente fanno la differenza tra virgolette, e
+
+839
+00:53:20,160 --> 00:53:23,360
+quindi è importante, vi segnalo di approfondire.
+
+840
+00:53:23,360 --> 00:53:27,280
+Che, per esempio, anche il discorso dei calendari, cioè il widget del
+
+841
+00:53:27,280 --> 00:53:32,640
+calendario di Apple, che alla fine vi trovate su qualsiasi dispositivo Apple,
+
+842
+00:53:32,640 --> 00:53:36,240
+mobile, ovviamente, iPhone e iPad, è molto comodo.
+
+843
+00:53:36,320 --> 00:53:41,280
+Io all'inizio non ci avevo dato molto peso nel periodo recente perché
+
+844
+00:53:41,840 --> 00:53:44,320
+l'ho approfondito due o tre settimane fa.
+
+845
+00:53:44,320 --> 00:53:48,240
+Devo dire la verità che almeno questa configurazione, per ora è una
+
+846
+00:53:48,240 --> 00:53:53,360
+pagina secondaria, diciamo, della home del mio iPad, però ogni tanto ci
+
+847
+00:53:53,360 --> 00:53:58,480
+do un occhio e effettivamente può diventare comodo soprattutto per avere un
+
+848
+00:53:58,480 --> 00:54:03,120
+quadro veloce dei prossimi giorni lavorativi e non ok.
+
+849
+00:54:03,440 --> 00:54:08,000
+L'altra cosa da segnalare ovviamente è che, come ci sono i widget
+
+850
+00:54:08,000 --> 00:54:12,800
+per iOS e per i pad, ci sono anche diciamo le complicazioni
+
+851
+00:54:12,800 --> 00:54:14,640
+per Apple Watch.
+
+852
+00:54:14,640 --> 00:54:18,080
+Io abitualmente ne uso solo una per il calendario che mi fa
+
+853
+00:54:18,080 --> 00:54:23,520
+vedere l'appuntamento, quello che è il prossimo appuntamento della giornata nel calendario.
+
+854
+00:54:23,520 --> 00:54:29,120
+Visto che il tempo è tiranno, rimandiamo comandi rapidi eventualmente alla seconda
+
+855
+00:54:29,160 --> 00:54:33,800
+pata, diciamo, sempre legata alla gestione del calendario e gli approfondimenti su
+
+856
+00:54:29,440 --> 00:54:35,640
+alcune applicazioni particolari.
+
+857
+00:54:35,880 --> 00:54:41,160
+Ecco giusto come anticipazione, ci sono tutta una serie di applicazioni legate
+
+858
+00:54:41,160 --> 00:54:44,680
+alla barra del menu di macOS, per esempio, per accedere velocemente al
+
+859
+00:54:44,680 --> 00:54:51,080
+calendario e vedere velocemente i propri impegni, e effettivamente facendo questi approfondimenti,
+
+860
+00:54:51,080 --> 00:54:55,800
+io appunto come dicevo prima, non sono un utilizzatore forse nato del
+
+861
+00:54:55,800 --> 00:55:00,280
+calendario, però ho scoperto che effettivamente ci sono tante cose interessanti da
+
+862
+00:55:00,280 --> 00:55:05,000
+conoscere, tante piccole applicazioni, piccole grandi applicazioni che meritano un approfondimento.
+
+863
+00:55:05,160 --> 00:55:09,640
+Quindi, caso mai, appunto, poi, oltre a queste applicazioni, oltre alle applicazioni
+
+864
+00:55:09,640 --> 00:55:17,000
+per gestire gli appuntamenti condivisi, chiamiamoli così, è possibile ragionare anche sulle
+
+865
+00:55:17,480 --> 00:55:20,600
+azioni per comandi rapidi e ce le teniamo per un prossimo episodio.
+
+866
+00:55:20,600 --> 00:55:23,880
+Che mi sembra una cosa buona e giusta, visto che abbiamo sempre
+
+867
+00:55:23,880 --> 00:55:26,200
+un sacco di cose da dirvi, così abbiamo ancora più cose da
+
+868
+00:55:26,200 --> 00:55:29,320
+dire, noi andiamo avanti a oltranza con le nostre puntate.
+
+869
+00:55:29,400 --> 00:55:32,440
+Come sempre, trovate il note dell'episodio con i link agli argomenti che
+
+870
+00:55:32,440 --> 00:55:35,160
+abbiamo trattato in questa puntata, e tutti i nostri riferimenti su a
+
+871
+00:55:35,160 --> 00:55:38,280
+due podcast.it25.
+
+872
+00:55:38,280 --> 00:55:39,560
+Dove ci potete trovare?
+
+873
+00:55:39,560 --> 00:55:45,080
+Il sottoscritto, come sempre, sul mio blog personale, Mac Architettura che trovate
+
+874
+00:55:45,080 --> 00:55:52,040
+all'indirizzo marchonnet.wordpress.com, oppure sul mio podcast che si chiama Snap Architettura Imperfetta,
+
+875
+00:55:52,040 --> 00:55:56,520
+ospitato tendenzialmente da Spreaker, ma essenzialmente lo troverete anche lì.
+
+876
+00:55:56,520 --> 00:56:02,040
+Linkato sul mio blog, oppure sulle principali piattaforme di distribuzione di podcast
+
+877
+00:56:02,200 --> 00:56:04,840
+dove trovate questo simpaticissimo podcast.
+
+878
+00:56:04,840 --> 00:56:06,360
+Invece, Filippo, dove ti troviamo?
+
+879
+00:56:06,520 --> 00:56:10,440
+Sono avvocateMec.it e poi ogni tanto faccio qualche diretta.
+
+880
+00:56:10,440 --> 00:56:14,520
+Adesso sto sto puntando, ma lo dico piano, a fare un webinar
+
+881
+00:56:14,520 --> 00:56:18,160
+al mese che è un tanta roba come si suol dire.
+
+882
+00:56:18,400 --> 00:56:24,400
+Però mi piacerebbe appunto iniziare questa attività più che altro perché poi
+
+883
+00:56:24,400 --> 00:56:28,480
+è un modo come lo è a due sostanzialmente per fare degli
+
+884
+00:56:28,480 --> 00:56:34,640
+approfondimenti su cose che mi interessano e per formalizzare alla fine esperimenti
+
+885
+00:56:34,640 --> 00:56:40,560
+e trucchi che sono utili alla mia professione, ma non solo, e
+
+886
+00:56:40,560 --> 00:56:40,880
+quindi
+
+887
+00:56:42,160 --> 00:56:47,360
+considerate la possibilità anche di, se volete ascoltarmi ogni tanto, non vi
+
+888
+00:56:47,360 --> 00:56:48,480
+disturbo più di tanto.
+
+889
+00:56:48,640 --> 00:56:53,040
+Oltre ad iscrivervi al nostro canale YouTube che ha due podcast, anche
+
+890
+00:56:53,040 --> 00:56:57,600
+quello di Avocato e Mac invece, dove ogni tanto faccio qualche video,
+
+891
+00:56:57,600 --> 00:57:02,720
+anche lì dovrei ripartire, ma fare un video è complicato, mettiamola così,
+
+892
+00:57:03,360 --> 00:57:06,560
+tanta roba più del podcast, e invece, più o meno spero a
+
+893
+00:57:06,560 --> 00:57:12,320
+cadenza mensile di riuscire a fare un webinar e quindi di intrattenervi
+
+894
+00:57:12,320 --> 00:57:18,240
+con argomenti similari, casomai appunto in video in persona, diciamo, con le
+
+895
+00:57:18,240 --> 00:57:25,120
+slide e possibilmente, quello step successivo, anche facendovi vedere cose, oltre che
+
+896
+00:57:25,120 --> 00:57:27,440
+raccontandovi cose esatto esatto.
+
+897
+00:57:27,600 --> 00:57:30,480
+E se non vi bastano, tutta questa roba qui, abbiamo anche i
+
+898
+00:57:30,480 --> 00:57:36,800
+rispettivi canali Telegram, avvocati e Mac per Filippo e Snapper Architetto il
+
+899
+00:57:36,800 --> 00:57:37,440
+mio.
+
+900
+00:57:37,440 --> 00:57:40,800
+Quindi, insomma, avete soltanto da cercarci, ci troverete.
+
+901
+00:57:40,800 --> 00:57:45,360
+Potete iscriverci, come vi dicevamo, alla casella di posta elettronica di A
+
+902
+00:57:45,360 --> 00:57:46,720
+due podcast.
+
+903
+00:57:46,720 --> 00:57:50,240
+E quindi direi che a questo punto, per la prima puntata dell'anno
+
+904
+00:57:50,240 --> 00:57:53,680
+2022, è tutto e ci sentiamo tra due settimane.
+
+905
+00:57:53,680 --> 00:57:54,400
+Buon anno!

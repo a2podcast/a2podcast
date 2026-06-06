@@ -1,0 +1,3283 @@
+1
+00:00:00,000 --> 00:00:05,440
+Benvenuti all'episodio 60, un rotondo di A2, in cui scoprire come ottenere
+
+2
+00:00:05,440 --> 00:00:07,280
+il massimo dalla vostra tecnologia Apple.
+
+3
+00:00:07,280 --> 00:00:11,120
+Io sono Filippo Strozzi e sono il vostro ospite, assieme all'amico Roberto
+
+4
+00:00:11,120 --> 00:00:11,840
+Marin.
+
+5
+00:00:11,840 --> 00:00:15,040
+Di che cosa parliamo in questo episodio, mio caro Roberto?
+
+6
+00:00:15,040 --> 00:00:20,160
+Io carissimo Filippo, parleremo di un binomio del diciamo della Trinità di
+
+7
+00:00:20,160 --> 00:00:27,360
+iWorks, che sono praticamente le app per l'utilizzo professionale degli strumenti Apple,
+
+8
+00:00:27,440 --> 00:00:30,080
+come è giusto che sia, in questo bellissimo podcast.
+
+9
+00:00:30,080 --> 00:00:32,640
+Che vi ricordo, è arrivata la puntata 60.
+
+10
+00:00:32,640 --> 00:00:34,400
+Quindi facciamoci un bel applauso.
+
+11
+00:00:34,400 --> 00:00:37,440
+Non solo a noi, ma anche agli ascoltatori che ci ascoltano in
+
+12
+00:00:37,440 --> 00:00:42,000
+differita nel nostro podcast, ma soprattutto a quelli presenti nella nostra diretta
+
+13
+00:00:42,000 --> 00:00:44,400
+YouTube che potete seguire sul nostro canale.
+
+14
+00:00:44,400 --> 00:00:48,480
+Quindi, un salutone prima a genere borghi e poi iniziamo subito con
+
+15
+00:00:48,480 --> 00:00:49,680
+la sigla.
+
+16
+00:00:50,400 --> 00:00:52,000
+A2 Podcast.
+
+17
+00:00:52,000 --> 00:00:55,520
+Scopri come ottenere il massimo dalla tua tecnologia apple.
+
+18
+00:00:55,520 --> 00:01:00,080
+Due professionisti, Filippo e Roberto, te lo spiegano con argomenti monotematici ed
+
+19
+00:01:00,080 --> 00:01:03,040
+ospiti che raccontano il loro flusso di lavoro.
+
+20
+00:01:07,760 --> 00:01:12,960
+Dunque iniziamo subito a parlare di pages e numbers e non parliamo
+
+21
+00:01:12,960 --> 00:01:14,640
+invece di keynote.
+
+22
+00:01:14,640 --> 00:01:17,360
+Non parliamo di chi note perché ne abbiamo parlato niente meno che
+
+23
+00:01:17,360 --> 00:01:22,240
+nell'episodio 17, lontanissimo tempo fa, non mi ricordo neanche più quanto tempo
+
+24
+00:01:22,240 --> 00:01:22,400
+fa.
+
+25
+00:01:22,480 --> 00:01:24,080
+Facciamo subito un due righe di conti.
+
+26
+00:01:24,560 --> 00:01:25,840
+Secondo me è il 2021.
+
+27
+00:01:25,840 --> 00:01:26,320
+Direi.
+
+28
+00:01:27,120 --> 00:01:29,920
+Siamo già nel 2021, pensate da quanto tempo siamo.
+
+29
+00:01:30,080 --> 00:01:32,640
+Era piena pandemia, questa vicenda.
+
+30
+00:01:33,040 --> 00:01:38,080
+Era piena pandemia, e noi vi tenevamo già compagnia con le nostre
+
+31
+00:01:38,080 --> 00:01:43,680
+parole, con i nostri argomenti monotematici, le puntate lunghe, ma soprattutto piene
+
+32
+00:01:43,680 --> 00:01:47,520
+di informazioni, perché così riuscite a capire bene di quello che si
+
+33
+00:01:47,520 --> 00:01:48,000
+tratta.
+
+34
+00:01:48,000 --> 00:01:51,680
+L'idea di A2 Podcast è proprio questa: quella di riuscire a
+
+35
+00:01:51,680 --> 00:01:57,120
+trattare un argomento molto verticale, ma in modo molto approfondito.
+
+36
+00:01:57,120 --> 00:02:01,240
+E questa volta si tratta appunto di Peges Numbers.
+
+37
+00:02:01,400 --> 00:02:05,160
+Volevo segnalare una cosa simpatica di keynote che non mi pare di
+
+38
+00:02:05,160 --> 00:02:10,920
+aver detto nell'episodio 17, anche perché all'epoca non trattavo i video.
+
+39
+00:02:10,920 --> 00:02:13,720
+Invece, adesso che ho inizio a trattare i video, comincio anche a
+
+40
+00:02:13,720 --> 00:02:18,280
+trattare i crossover tra le varie applicazioni che ci sono sul Mac.
+
+41
+00:02:18,280 --> 00:02:21,480
+Io, ad esempio, edito i miei video con iMovie.
+
+42
+00:02:21,800 --> 00:02:24,360
+Per adesso mi ci trovo molto bene, fa quello che deve fare
+
+43
+00:02:24,360 --> 00:02:27,560
+per quello che devo fare io, insomma, niente di particolarmente speciale.
+
+44
+00:02:27,560 --> 00:02:31,320
+Ma vi volevo segnalare che c'è la possibilità, ad esempio, con l'utilizzo
+
+45
+00:02:31,320 --> 00:02:38,200
+di Keynote, di inserire all'interno del video delle scritte sovrapponibili al video.
+
+46
+00:02:38,200 --> 00:02:41,560
+Quindi è molto interessante questo utilizzo di Keynote che a questo punto
+
+47
+00:02:41,560 --> 00:02:45,720
+diventa anche molto trasversale, nel senso che non è solo un programma
+
+48
+00:02:45,720 --> 00:02:50,040
+che vi permette di fare delle presentazioni tramite delle slide, ma in
+
+49
+00:02:50,040 --> 00:02:55,000
+realtà vi permette anche di abbellire i vostri video in modo molto
+
+50
+00:02:55,000 --> 00:02:56,920
+semplice di tutorial su YouTube.
+
+51
+00:02:56,920 --> 00:03:00,280
+Ne trovate a Biz vi consiglio di andare a fare un giro
+
+52
+00:03:00,280 --> 00:03:03,320
+per magari imparare qualcosa di nuovo, come ho fatto io.
+
+53
+00:03:03,320 --> 00:03:09,720
+Chiaramente trattandosi di applicazioni molto complesse, perché sia pages, numbers, che keynote,
+
+54
+00:03:09,720 --> 00:03:13,960
+non possiamo metterci qua a raccontarvi dall'inizio alla fine di come funzionano
+
+55
+00:03:13,960 --> 00:03:19,240
+i programmi, anche perché probabilmente non è neanche il caso di approfondire
+
+56
+00:03:19,400 --> 00:03:21,560
+più di tanto sul loro funzionamento.
+
+57
+00:03:21,560 --> 00:03:27,080
+Diciamo la parte base, perché da quello che è indirizzato questo podcast,
+
+58
+00:03:27,080 --> 00:03:32,120
+ipotizziamo già che un po' sappiate masticare per quanto riguarda i programmi
+
+59
+00:03:32,120 --> 00:03:34,280
+di videoscrittura e i fogli di calcolo.
+
+60
+00:03:34,280 --> 00:03:40,040
+Sappiamo benissimo tutti quanti che il mercato diciamo si è indirizzato su
+
+61
+00:03:40,040 --> 00:03:45,280
+Word Excel e molto probabilmente anche sul concorrente di Kinote che non
+
+62
+00:03:45,280 --> 00:03:46,640
+mi verrà mai in mente il nome.
+
+63
+00:03:46,640 --> 00:03:50,480
+Filippo mi aiuti PowerPoint esattamente.
+
+64
+00:03:50,480 --> 00:03:56,480
+Ma in ogni caso, diciamo che la differenza grossa, che è una
+
+65
+00:03:56,480 --> 00:04:01,040
+cosa importante da dire, è che, almeno dal mio parte, io utilizzo
+
+66
+00:04:01,040 --> 00:04:05,520
+anche Excel e Word in modo molto leggero, ma perché sono stato
+
+67
+00:04:05,520 --> 00:04:08,640
+obbligato per lavoro, perché ne sarei fatto molto volentieri a meno.
+
+68
+00:04:08,640 --> 00:04:13,120
+E devo dire che una cosa che segnalo è l'immensità di questi
+
+69
+00:04:13,120 --> 00:04:13,680
+programmi.
+
+70
+00:04:13,680 --> 00:04:17,440
+Nel senso che anche se si tratta di programmi di videoscrittura o
+
+71
+00:04:17,440 --> 00:04:21,840
+di fogli di calcolo, nel caso di Numer Excel, sono comunque programmi
+
+72
+00:04:21,840 --> 00:04:26,720
+che superano i 2 giga di spazio sull'hard disk spazio occupato simile
+
+73
+00:04:26,720 --> 00:04:29,680
+a quello di Photoshop, ma insomma fa un bel po' di cose
+
+74
+00:04:29,680 --> 00:04:33,280
+in più rispetto a quello che può fare un programma di videoscrittura
+
+75
+00:04:33,280 --> 00:04:34,800
+e un foglio di calcolo.
+
+76
+00:04:34,800 --> 00:04:37,840
+L'idea di questa puntata, però, non è tanto di parlare di World
+
+77
+00:04:37,840 --> 00:04:43,120
+Excel, anche se magari potrebbe partire qualche parallelo qua e là all'interno
+
+78
+00:04:43,120 --> 00:04:46,640
+della puntata, ma l'idea è quella di cercare di segnalare le funzioni
+
+79
+00:04:46,640 --> 00:04:51,760
+più interessanti e le particolarità che riguardano appunto la suite per ufficio
+
+80
+00:04:51,760 --> 00:04:52,640
+di Apple.
+
+81
+00:04:52,640 --> 00:04:56,400
+I punti di forza di questa suite sono molto semplici e molto
+
+82
+00:04:56,400 --> 00:05:00,320
+chiari, nel senso che non c'è molto da dire se non che
+
+83
+00:05:00,320 --> 00:05:04,960
+sono stati disegnati e sviluppati da Apple per i dispositivi Apple.
+
+84
+00:05:04,960 --> 00:05:06,000
+Questo cosa vuol dire?
+
+85
+00:05:06,000 --> 00:05:10,800
+Che voi trovate Pegas e Numbers che funzionano sul Mac, che funzionano
+
+86
+00:05:10,800 --> 00:05:13,200
+sull'iPad e funzionano sull'iPhone.
+
+87
+00:05:13,200 --> 00:05:17,440
+E tutti con le loro peculiarità, nel senso che sono stati studiati
+
+88
+00:05:17,440 --> 00:05:22,560
+per i dispositivi Apple, quindi non troverete in larga massima dei problemi
+
+89
+00:05:22,560 --> 00:05:23,600
+di interfaccia.
+
+90
+00:05:23,600 --> 00:05:28,480
+Sarà tutto molto chiaro, molto semplice da utilizzare in chiaro stile Apple.
+
+91
+00:05:28,480 --> 00:05:32,360
+Io sotto questo punto di vista bisogna dire che mi sono trovato
+
+92
+00:05:32,360 --> 00:05:37,880
+molto bene all'interno di questo ecosistema perché è molto molto integrato, ma
+
+93
+00:05:37,880 --> 00:05:42,360
+soprattutto c'è il solito family feeling che si può passare da un'applicazione
+
+94
+00:05:42,360 --> 00:05:42,840
+all'altra.
+
+95
+00:05:42,840 --> 00:05:48,200
+Insomma, non vi troverete un po' sbalestrati a passare da un'applicazione per
+
+96
+00:05:48,200 --> 00:05:50,440
+Mac rispetto a quello su iPad.
+
+97
+00:05:50,440 --> 00:05:54,040
+Parlo di iPad in questo caso perché mi sembra più naturale parlare
+
+98
+00:05:54,040 --> 00:05:57,880
+di un programma di foglio di calcolo e di videoscrittura su un
+
+99
+00:05:57,880 --> 00:06:01,000
+iPad perché può essere accompagnato, ad esempio, da tastiere e mouse.
+
+100
+00:06:01,000 --> 00:06:04,360
+Quindi tutto sommato può diventare un computer a tutti gli effetti e
+
+101
+00:06:04,360 --> 00:06:07,960
+quindi regalarci quello che può essere il feeling con un computer.
+
+102
+00:06:07,960 --> 00:06:11,960
+E nello stesso tempo anche l'applicazione ci assomiglia molto.
+
+103
+00:06:11,960 --> 00:06:15,080
+Un altro punto di forza è che è vero che i dispositivi
+
+104
+00:06:15,080 --> 00:06:17,880
+Apple li paghiamo anche tanto e molto.
+
+105
+00:06:17,880 --> 00:06:24,120
+Parte del pagamento riguarda le ricerche, il design, lo sviluppo delle applicazioni,
+
+106
+00:06:24,120 --> 00:06:29,560
+lo sviluppo del sistema operativo, adesso anche l'hardware che viene direttamente fatto
+
+107
+00:06:29,560 --> 00:06:33,640
+da Apple, ma in questo caso all'interno del prezzo di un Mac,
+
+108
+00:06:33,720 --> 00:06:38,680
+dobbiamo incominciare ad aggiungerci anche questi programmi che possiamo iniziare a pensare
+
+109
+00:06:38,680 --> 00:06:39,960
+a essere a tutto tondo.
+
+110
+00:06:39,960 --> 00:06:43,560
+Perché se voi pensate a Peggio Num e Key Note per quanto
+
+111
+00:06:43,560 --> 00:06:48,920
+riguarda come suite da ufficio, ma ricordatevi che, ad esempio, sottoscritto riesce
+
+112
+00:06:48,920 --> 00:06:52,280
+a portare avanti un podcast e può portare avanti un canale YouTube,
+
+113
+00:06:52,440 --> 00:06:55,320
+semplicemente con gli strumenti forniti da Apple.
+
+114
+00:06:55,480 --> 00:06:57,640
+Questa è una cosa molto molto interessante.
+
+115
+00:06:57,640 --> 00:07:02,160
+Altra parte molto forte, secondo me, che vale la pena di sottolineare,
+
+116
+00:07:02,120 --> 00:07:06,520
+visto che siamo all'interno dell'ambito di Apple, è appunto questa forte integrazione
+
+117
+00:07:06,520 --> 00:07:07,640
+con iCloud.
+
+118
+00:07:07,640 --> 00:07:11,800
+Voi avete la possibilità di passare da un device all'altro senza grossi
+
+119
+00:07:11,800 --> 00:07:12,320
+problemi.
+
+120
+00:07:12,320 --> 00:07:17,760
+Semplicemente perché potete raggiungere da tutti i device questo punto nevralgico che
+
+121
+00:07:17,760 --> 00:07:21,840
+è il cloud di Apple, da cui potete accedere a tutti i
+
+122
+00:07:21,840 --> 00:07:26,400
+programmi, tant'è che, se non ricordo male, di default i programmi tendono
+
+123
+00:07:26,400 --> 00:07:31,520
+a utilizzare appunto la cartella su iCloud come cartella di salvataggio predefinita.
+
+124
+00:07:31,520 --> 00:07:32,480
+Sì, sì, sì.
+
+125
+00:07:32,720 --> 00:07:37,760
+Tra l'altro, per fare un ragionamento insieme, considera che comunque sia Pegis
+
+126
+00:07:37,920 --> 00:07:45,200
+che anche Kynote funzionano anche per i non utenti Apple, chiamiamoli in
+
+127
+00:07:45,200 --> 00:07:49,920
+questi termini, ovviamente con sempre su iCloud l'interfaccia web.
+
+128
+00:07:49,920 --> 00:07:54,560
+E la cosa interessante di queste applicazioni è stata che per un
+
+129
+00:07:54,560 --> 00:07:59,040
+certo periodo, soprattutto Keynote si vedeva bene, ma anche Numbers e i
+
+130
+00:07:59,040 --> 00:08:05,440
+Page sono stati azzerati perché ovviamente nascevano sviluppati per macOS e basta.
+
+131
+00:08:05,440 --> 00:08:12,000
+L'introduzione su iOS, iPadOS, aveva creato delle applicazioni non con tutte le
+
+132
+00:08:12,000 --> 00:08:13,280
+stesse caratteristiche.
+
+133
+00:08:13,280 --> 00:08:17,360
+Quindi c'è stata una regressione nel tempo, perché praticamente a un certo
+
+134
+00:08:17,360 --> 00:08:21,200
+punto Apple ha deciso di fare tabola rasa, chiamiamola così, quindi di
+
+135
+00:08:21,200 --> 00:08:24,880
+avere un'unica piattaforma diciamo conforme.
+
+136
+00:08:24,880 --> 00:08:33,920
+Tuttavia, adesso, nella sostanza, che note, Pegas e Numbers funzionano indifferentemente sia
+
+137
+00:08:34,160 --> 00:08:39,040
+sul Mac sia su iPhone sia sui iPad sia su web.
+
+138
+00:08:39,040 --> 00:08:42,720
+Quindi abitualmente tutte quello, tutte le funzioni che si trovano da una
+
+139
+00:08:42,720 --> 00:08:47,440
+parte si trovano anche dalle altre, non sempre si trovano esattamente nello
+
+140
+00:08:47,520 --> 00:08:50,480
+stesso punto, e ovviamente lo vedremo dopo.
+
+141
+00:08:50,480 --> 00:08:55,240
+Alcuni device hanno funzioni che altri non hanno, chiamiamoli in questi termini,
+
+142
+00:08:55,240 --> 00:09:00,120
+ma sicuramente ormai i tre applicativi di cui noi ne parleremo oggi,
+
+143
+00:09:00,120 --> 00:09:05,160
+solo di due, sono sicuramente molto integrati e l'ecosistema è molto ben
+
+144
+00:08:59,840 --> 00:09:05,640
+strutturato.
+
+145
+00:09:05,800 --> 00:09:09,560
+E tanto ben strutturato che permette anche una cosa interessante che è
+
+146
+00:09:09,560 --> 00:09:11,720
+la collaborazione con altre persone.
+
+147
+00:09:11,720 --> 00:09:17,160
+Diciamo che dalle ultime versioni del sistema operativo che quindi viene esteso
+
+148
+00:09:17,160 --> 00:09:22,360
+anche all'interno degli applicativi Apple, c'è molta collaborazione tra quello che può
+
+149
+00:09:22,360 --> 00:09:26,040
+essere il proprio computer e gli altri utenti in modo molto semplice,
+
+150
+00:09:26,040 --> 00:09:27,320
+molto semplificato.
+
+151
+00:09:27,320 --> 00:09:31,240
+Tant'è che basta andare semplicemente su un'applicazione a caso usare il comando
+
+152
+00:09:31,240 --> 00:09:36,520
+di condivisione con degli altri per vedere comparire essenzialmente tutte le persone
+
+153
+00:09:36,680 --> 00:09:40,600
+che avete a disposizione nel vostro intorno.
+
+154
+00:09:40,600 --> 00:09:44,360
+È una di quelle funzioni che, secondo me, è molto interessante perché
+
+155
+00:09:44,520 --> 00:09:48,840
+ha semplificato di molto la collaborazione e anche in Pegis in number
+
+156
+00:09:49,080 --> 00:09:54,040
+è diventata decisamente più semplice tramite invito, semplicemente di un altro utente
+
+157
+00:09:54,040 --> 00:09:58,680
+e potete collaborare tutti quanti assieme al vostro documento Pegis o Numbers.
+
+158
+00:09:58,680 --> 00:10:00,040
+E immagino anche chi note.
+
+159
+00:10:00,280 --> 00:10:04,680
+Devo dirti la verità: l'unico documento, l'unica cosa che ho testato, diciamo,
+
+160
+00:10:04,840 --> 00:10:08,520
+ed effettivamente funziona correttamente, è Numbers.
+
+161
+00:10:08,680 --> 00:10:11,560
+Di fatto io e mia moglie abbiamo un foglio di calcolo delle
+
+162
+00:10:11,560 --> 00:10:17,080
+spese familiari, quindi chi fa la spesa dovrebbe abitualmente inserire la voce
+
+163
+00:10:17,080 --> 00:10:19,880
+di spesa, il motivo e così via, e la data di spesa.
+
+164
+00:10:19,880 --> 00:10:25,480
+Per cui per avere un budget, diciamo, familiare mensile, avere, insomma, i
+
+165
+00:10:25,480 --> 00:10:29,160
+conti di casa sott'occhio, mettiamoli in questi termini.
+
+166
+00:10:29,160 --> 00:10:33,720
+E effettivamente l'ho visto più volte, addirittura quando siamo tutti e due
+
+167
+00:10:33,720 --> 00:10:38,440
+collegati direttamente sul foglio di calcolo, si vede proprio la presenza dell'altro,
+
+168
+00:10:38,680 --> 00:10:42,360
+se no, si vedono le modifiche fatte dall'altro appena entri nel foglio
+
+169
+00:10:42,360 --> 00:10:42,920
+di calcolo.
+
+170
+00:10:42,920 --> 00:10:47,760
+E giusto su questa nota segnalo che se è vero che diciamo
+
+171
+00:10:47,920 --> 00:10:52,000
+inserire dati in un foglio di calcolo su iPhone non è comodissimo,
+
+172
+00:10:52,160 --> 00:10:56,000
+se il foglio di calcolo è appunto un qualcosa di simile a
+
+173
+00:10:56,000 --> 00:10:59,200
+che abbiamo io e mia moglie condiviso, cioè un foglio dove devi
+
+174
+00:10:59,200 --> 00:11:04,880
+inserire poche voci, ma hai bisogno di poterla inserire subito dopo aver
+
+175
+00:11:04,880 --> 00:11:06,960
+fatto la spesa, chiamiamola così.
+
+176
+00:11:06,960 --> 00:11:12,880
+Allora effettivamente funziona molto bene perché appunto ti permette di inserire rapidamente
+
+177
+00:11:12,880 --> 00:11:17,280
+delle voci anche in mobilità e anche col cellulare che abitualmente hai
+
+178
+00:11:17,280 --> 00:11:20,080
+più o meno sempre portata di mano, soprattutto
+
+179
+00:11:21,360 --> 00:11:22,960
+in queste particolari attività.
+
+180
+00:11:22,960 --> 00:11:25,040
+E in questa maniera ovviamente non perdi il dato.
+
+181
+00:11:25,280 --> 00:11:26,560
+È assolutamente vero.
+
+182
+00:11:26,560 --> 00:11:30,560
+Ad esempio, io utilizzo il suo iPad in mobilità e devo dire
+
+183
+00:11:30,560 --> 00:11:33,760
+che fa il suo bel lavoro, nel senso che dalle ultime versioni,
+
+184
+00:11:33,760 --> 00:11:38,960
+tra l'altro, è stato aggiunto la possibilità di bloccare un comento Numbers
+
+185
+00:11:39,440 --> 00:11:42,560
+in modo tale che quando lo si apre per la prima volta
+
+186
+00:11:42,560 --> 00:11:43,920
+non vai subito in modifica.
+
+187
+00:11:43,920 --> 00:11:48,400
+Quindi non puoi combinare pasticci subito il volo, ma devi premere appunto
+
+188
+00:11:48,400 --> 00:11:53,120
+il pulsante modifica per riuscire poi a editare all'interno di un foglio
+
+189
+00:11:53,120 --> 00:11:53,760
+Numbers.
+
+190
+00:11:53,760 --> 00:11:58,080
+E questo è molto interessante perché in effetti può capitare soprattutto quando
+
+191
+00:11:58,080 --> 00:12:01,520
+si è in mobilità, di toccare dove non si dovrebbe e magari
+
+192
+00:12:01,520 --> 00:12:04,320
+far sparire un dato così come per magia e non ci se
+
+193
+00:12:04,320 --> 00:12:05,120
+ne accorge.
+
+194
+00:12:05,120 --> 00:12:07,760
+Invece, in questo modo la cosa è anche un po' più sicura.
+
+195
+00:12:07,760 --> 00:12:08,240
+Trovo.
+
+196
+00:12:08,240 --> 00:12:11,760
+Io l'ho trovato in mobilità molto interessante come utilizzo.
+
+197
+00:12:11,760 --> 00:12:16,320
+Ovviamente con iPad parlo perché diciamo che sulla parte del Mac, tutto
+
+198
+00:12:16,320 --> 00:12:21,920
+sommato, sia in mobilità che diciamo che in versione desktop in sé.
+
+199
+00:12:21,920 --> 00:12:23,040
+È molto funzionale.
+
+200
+00:12:23,040 --> 00:12:29,120
+È molto funzionale soprattutto perché ha un'interfaccia decisamente semplice, molto amichevole, non
+
+201
+00:12:29,120 --> 00:12:31,800
+vi fa perdere molto l'attenzione.
+
+202
+00:12:32,040 --> 00:12:35,560
+Ma diciamo che al di là di questo possiamo dire che in
+
+203
+00:12:35,560 --> 00:12:40,680
+ogni caso, tutte le applicazioni sono decisamente mature, hanno fatto dei grandi
+
+204
+00:12:40,680 --> 00:12:44,760
+passi in avanti, devo dire che questo si è visto soprattutto negli
+
+205
+00:12:44,760 --> 00:12:51,480
+ultimi anni, in cui in effetti non manca mai ogni circa, mettiamola
+
+206
+00:12:51,480 --> 00:12:54,040
+così, sto andando un po' a naso, ma se non ricordo male,
+
+207
+00:12:54,040 --> 00:12:58,120
+ogni sei mesi c'è un aggiornamento notevole, nel senso che ci sono
+
+208
+00:12:58,120 --> 00:13:01,880
+delle modifiche molto interessanti, delle nuove funzionalità integrate.
+
+209
+00:13:01,880 --> 00:13:05,880
+Mentre c'è stato un periodo che non vorrei sbagliarmi, ma al passaggio
+
+210
+00:13:05,880 --> 00:13:10,040
+tra Tim Cook e Steve Jobs, c'è stato un periodo in cui
+
+211
+00:13:10,040 --> 00:13:13,720
+c'era la suite i Worlds, lasciata un po' a se stessa.
+
+212
+00:13:13,720 --> 00:13:17,320
+Poi, per fortuna, sono state riprese le redding della situazione e poi
+
+213
+00:13:17,400 --> 00:13:22,120
+piano piano hanno preso aggiornamenti sempre più interessanti e ogni volta c'è
+
+214
+00:13:22,120 --> 00:13:23,800
+sempre qualcosa di nuovo aggiunto.
+
+215
+00:13:23,800 --> 00:13:29,560
+E questo è sicuramente un indice dell'importanza e della maturità che hanno
+
+216
+00:13:29,560 --> 00:13:32,600
+questa applicazione all'interno dell'ecosistema Apple.
+
+217
+00:13:32,600 --> 00:13:38,680
+Sono sicuramente potenti perché non sono, diciamo, dei semplici, chiamiamoli così, editor
+
+218
+00:13:38,680 --> 00:13:43,080
+di testo, possono fare molte altre cose, sia Pegis, ma anche Numbers,
+
+219
+00:13:43,160 --> 00:13:48,680
+nel senso che anche questo acquistando piano piano sempre più funzionalità, diventano
+
+220
+00:13:48,680 --> 00:13:54,280
+ovviamente delle applicazioni potenti e come tutte le applicazioni potenti, da qualche
+
+221
+00:13:54,280 --> 00:13:57,960
+parte bisogna iniziare a pensare come approfondire l'utilizzo.
+
+222
+00:13:58,440 --> 00:13:59,320
+Come potete farlo?
+
+223
+00:13:59,320 --> 00:14:03,960
+Come abbiamo fatto noi con il semplice utilizzo con prove e riprove,
+
+224
+00:14:03,960 --> 00:14:05,880
+vedere un po' cosa funziona e cosa non funziona.
+
+225
+00:14:05,880 --> 00:14:11,400
+Oppure, se volete, invece o meno, siete come persone che invece piace
+
+226
+00:14:11,400 --> 00:14:14,880
+studiare prima il programma prima di utilizzarlo, ci sono delle manuali e
+
+227
+00:14:14,880 --> 00:14:17,440
+dei guide semplicemente da cercare e guardare.
+
+228
+00:14:14,520 --> 00:14:18,720
+Troverete dappertutto.
+
+229
+00:14:18,960 --> 00:14:22,640
+A partire da YouTube per chi è più visuale, ma anche direttamente
+
+230
+00:14:22,640 --> 00:14:28,080
+a partire dal sito di Apple per riuscire a capire come funziona,
+
+231
+00:14:28,160 --> 00:14:32,000
+quali sono le peculiarità e soprattutto se fa a caso vostro.
+
+232
+00:14:32,000 --> 00:14:37,200
+Come vi dicevo, la parte, secondo me, che aiuterà tutti quanti è
+
+233
+00:14:37,200 --> 00:14:43,120
+questa interfaccia molto semplice, molto chiara, che sia per Pages che Numbers,
+
+234
+00:14:43,120 --> 00:14:48,720
+ma anche Keynotes, viene del tutto gestita da una barra superiore dove
+
+235
+00:14:48,720 --> 00:14:53,920
+ci sono gli strumenti principali, ovviamente diversi per applicazione, ma praticamente li
+
+236
+00:14:53,920 --> 00:14:55,760
+trovate tutti lì in alto.
+
+237
+00:14:55,760 --> 00:15:00,000
+Con una barra che non occupa tutto quello spazio che invece occupano
+
+238
+00:15:00,000 --> 00:15:04,480
+i rebonds della nuova interfaccia grafica di Microsoft, che ne faremo tutti
+
+239
+00:15:04,480 --> 00:15:10,560
+quanti a meno, ma così è così piace, pare a me, francamente,
+
+240
+00:15:10,560 --> 00:15:16,320
+mi pare un utilizzo forse un po' sbagliato dell'interfaccia perché quello che
+
+241
+00:15:16,480 --> 00:15:20,960
+forse Microsoft non si ricorda è che gli schermi purtroppo sono rettangolari
+
+242
+00:15:20,960 --> 00:15:26,560
+e se loro incominciano a prendermi tutto lo spazio nel senso orizzontale,
+
+243
+00:15:26,560 --> 00:15:33,040
+allargando la barra magari di troppo, diciamo la verità com'è, magari mi
+
+244
+00:15:33,040 --> 00:15:36,880
+ha ne poco spazio per scrivere o per guardare le tabelle.
+
+245
+00:15:36,880 --> 00:15:39,920
+Ma in ogni caso questo non è un problema perché per chi
+
+246
+00:15:39,920 --> 00:15:44,880
+lavora con istrumenti Apple riesce ad avere una barra che tutto sommato
+
+247
+00:15:44,880 --> 00:15:48,640
+è leggibile e funzionale senza grossi problemi, quindi non c'è bisogno di
+
+248
+00:15:48,640 --> 00:15:50,480
+ricorrere ai re bons per forza.
+
+249
+00:15:50,480 --> 00:15:53,920
+E poi una cosa interessante è che sul lato destro c'è sempre
+
+250
+00:15:54,240 --> 00:15:58,560
+una, diciamo, barra con la formatazione di quello che state facendo.
+
+251
+00:15:58,560 --> 00:16:03,480
+Ovviamente questa barra multifunzione cambia con il tipo di programma.
+
+252
+00:16:03,720 --> 00:16:09,160
+Come potete immaginare, se state usando un editor di testo, chiaramente ci
+
+253
+00:16:09,160 --> 00:16:12,600
+sarà la formatazione dei fonte vi discorrendo per quanto riguarda il lato
+
+254
+00:16:12,600 --> 00:16:13,960
+destro dell'interfaccia.
+
+255
+00:16:13,960 --> 00:16:17,880
+Dunque, per quanto riguarda un po' di storia, la lascio ovviamente al
+
+256
+00:16:17,880 --> 00:16:22,760
+nostro amico comune Filippo, perché io, come ricordo sempre a tutti quanti,
+
+257
+00:16:22,760 --> 00:16:27,160
+sono relativamente giovane nel mondo Apple e tante cose non le ho
+
+258
+00:16:27,160 --> 00:16:31,320
+viste passare, tra cui una era proprio questa, ovvero la storia della
+
+259
+00:16:31,320 --> 00:16:36,120
+nascita della suite Apple per rispondere a un problema.
+
+260
+00:16:36,120 --> 00:16:37,720
+Qual era questo problema, Filippo?
+
+261
+00:16:37,720 --> 00:16:41,640
+Sì, allora prima di ragionare su questo, volevo segnalare una cosa: sia
+
+262
+00:16:41,800 --> 00:16:46,840
+su Mac che adesso su iPad, la barra in alto, è personalizzabile.
+
+263
+00:16:46,840 --> 00:16:52,600
+Quindi, oltre alle funzioni che trovi già predisposte, sia su iPad che
+
+264
+00:16:52,600 --> 00:16:57,000
+su Mac, è possibile aggiungerne di altre e quindi personalizzare in base
+
+265
+00:16:57,000 --> 00:17:00,680
+anche proprio alle proprie esigenze o alla modalità con cui si sta
+
+266
+00:17:00,680 --> 00:17:01,880
+lavorando direttamente.
+
+267
+00:17:01,880 --> 00:17:06,440
+Volevo fare questa precisazione, anche perché appunto per iPad è una novità
+
+268
+00:17:06,440 --> 00:17:12,360
+del VDC 2022 e quindi dell'anno scorso.
+
+269
+00:17:12,360 --> 00:17:18,600
+Le applicazioni, diciamo, per iPad stanno sempre più convergendo verso un approccio
+
+270
+00:17:18,600 --> 00:17:20,200
+simile a quello Mac.
+
+271
+00:17:20,520 --> 00:17:24,440
+Sul discorso invece della storia, adesso non mi ricordo più dove l'ho
+
+272
+00:17:24,440 --> 00:17:29,080
+sentito, devo dirti la verità, perché anch'io comunque abbazzico nel mondo Apple
+
+273
+00:17:29,080 --> 00:17:34,280
+solo dal 2006, quindi non ho, ormai sono passati degli anni, tendo
+
+274
+00:17:34,280 --> 00:17:37,640
+a precisare, ma non sono passati così tanti anni.
+
+275
+00:17:37,640 --> 00:17:41,560
+Da quello che ho sentito dire io, nella sostanza, a un certo
+
+276
+00:17:41,560 --> 00:17:48,480
+punto, siccome Office era presente su Mac della Suite Office, ma soprattutto
+
+277
+00:17:44,760 --> 00:17:49,680
+prima negli anni 2000,
+
+278
+00:17:50,000 --> 00:17:55,040
+la versione di Microsoft Office per Mac era abbastanza spartana da un
+
+279
+00:17:55,040 --> 00:17:59,520
+certo punto di vista e non funzionava bene quindi aveva grossi problemi
+
+280
+00:17:59,840 --> 00:18:05,200
+di anche stabilità, di fatto Steve Jobs a un certo punto rendendosi
+
+281
+00:18:05,200 --> 00:18:10,240
+conto dei problemi che questo portava e della non compatibilità, tra l'altro,
+
+282
+00:18:10,400 --> 00:18:13,120
+perché è ovvio che se io avevo un Mac e non potevo
+
+283
+00:18:13,120 --> 00:18:16,720
+usare i file work che tutti gli altri miei colleghi utilizzavano, perché
+
+284
+00:18:16,720 --> 00:18:20,880
+abitualmente i Mac venivano utilizzati in ambito grafico, chiamiamoli in questi termini,
+
+285
+00:18:20,880 --> 00:18:24,720
+ma la maggior parte dei business ovviamente aveva dei PC Windows e
+
+286
+00:18:24,720 --> 00:18:27,200
+quindi utilizzavano Word ed Excel.
+
+287
+00:18:27,200 --> 00:18:32,640
+Ebbene, prima Pages e poi Numbers sono nati anche per dare una
+
+288
+00:18:32,640 --> 00:18:38,480
+compatibilità e per avere delle applicazioni che funzionassero, con appunto i formati
+
+289
+00:18:38,480 --> 00:18:44,800
+che all'epoca erano proprietari doc e XLS, direi.
+
+290
+00:18:44,800 --> 00:18:52,080
+E che invece diciamo chi utilizzava Mac aveva difficoltà a gestire correttamente.
+
+291
+00:18:52,080 --> 00:18:54,320
+Nel tempo le cose non sono cambiate.
+
+292
+00:18:54,320 --> 00:18:59,200
+Adesso, effettivamente, da quello che ho potuto vedere in pochi casi in
+
+293
+00:18:59,200 --> 00:19:06,960
+cui ho utilizzato Office su Mac, l'applicazione a prescindere ad essere ingombrante,
+
+294
+00:19:07,200 --> 00:19:09,760
+funzionava correttamente e non dava troppi problemi.
+
+295
+00:19:09,760 --> 00:19:15,440
+Quindi, comunque era un problema di tempo fa e soprattutto di quando
+
+296
+00:19:15,440 --> 00:19:20,240
+i Mac, diciamo, erano strumenti abbastanza di nicchia.
+
+297
+00:19:20,240 --> 00:19:26,040
+Attualmente, per esempio, soprattutto nel settore più giovane, nel settore scolastico, l'ha
+
+298
+00:19:26,040 --> 00:19:29,600
+fare da padrone: Google Doc, Google Sheet e così via.
+
+299
+00:19:29,720 --> 00:19:35,640
+Quindi, tra l'altro, comunque lo strapotere Microsoft, seppure nel mondo office, è
+
+300
+00:19:35,640 --> 00:19:39,400
+evidente, in altri ambienti è sempre meno presente.
+
+301
+00:19:39,640 --> 00:19:43,320
+Aggiungo solo un altro paio di cose riguardo alla storia.
+
+302
+00:19:43,320 --> 00:19:49,080
+La suite iWork è stata presentata nel 2005 al MacWorld di San
+
+303
+00:19:49,080 --> 00:19:49,880
+Francisco.
+
+304
+00:19:50,840 --> 00:19:55,400
+Scusate, Apple ha presentato iWork come il futuro successore della suite per
+
+305
+00:19:55,400 --> 00:20:01,480
+l'ufficio Apple Works, che è stata definitivamente tolta dal commercio nel 2007
+
+306
+00:20:01,480 --> 00:20:03,480
+in favore di iWork.
+
+307
+00:20:03,800 --> 00:20:09,880
+Detto questo, possiamo tranquillamente passare a Pegis, che insomma è la nostra
+
+308
+00:20:09,880 --> 00:20:13,800
+applicazione di riferimento per scrivere dei documenti.
+
+309
+00:20:13,800 --> 00:20:18,120
+Questo perché può essere interessante anche per chi inizia perché ci sono
+
+310
+00:20:18,120 --> 00:20:23,720
+la bellezza di più di 70 modelli che si possono utilizzare con
+
+311
+00:20:23,960 --> 00:20:24,760
+Pegis.
+
+312
+00:20:24,760 --> 00:20:28,280
+Una cosa molto interessante è la quantità di modelli che ci sono
+
+313
+00:20:28,280 --> 00:20:31,960
+in tutte le applicazioni messi lì solo da utilizzare.
+
+314
+00:20:31,960 --> 00:20:36,040
+Io, ad esempio, sto guardando in questo momento ci sono una serie
+
+315
+00:20:36,040 --> 00:20:41,240
+di documenti per i resoconti, altri per i libri in verticale o
+
+316
+00:20:41,240 --> 00:20:45,240
+in orizzontale, dei modelli per le lettere, per i curriculum, per i
+
+317
+00:20:45,240 --> 00:20:49,000
+volantini e i poster, quindi qualcosa di un po' più al di
+
+318
+00:20:49,000 --> 00:20:54,600
+là del semplice formatazione del testo, per le newsletter, i biglietti, buste,
+
+319
+00:20:54,760 --> 00:21:01,720
+bigliettini da visita, certificato e altre ancora da guardarsi, sempre molto interessanti,
+
+320
+00:21:01,720 --> 00:21:02,440
+secondo me.
+
+321
+00:21:02,600 --> 00:21:05,720
+E l'unica cosa che vi consiglio: la prima cosa che vi consiglio
+
+322
+00:21:05,720 --> 00:21:09,000
+è se non l'avete mai utilizzato, è aprire i Pegis e dargli
+
+323
+00:21:09,000 --> 00:21:12,280
+una bella occhiata a questi modelli perché c'è sempre da imparare.
+
+324
+00:21:12,280 --> 00:21:17,120
+Invece, lascio a Filippo iniziare a parlare di come si può impaginare
+
+325
+00:21:14,760 --> 00:21:18,560
+con Pegis e pubblicare
+
+326
+00:21:14,840 --> 00:21:19,040
+libri.
+
+327
+00:21:19,200 --> 00:21:23,840
+Diciamo che la particolarità di Pegis, che è abbastanza sconosciuta di più,
+
+328
+00:21:23,840 --> 00:21:28,640
+è che sì, Pegis nasce come un programma di videoscrittura, quindi con
+
+329
+00:21:28,640 --> 00:21:33,440
+l'impostazione del foglio e l'impinazione per scrivere documenti.
+
+330
+00:21:33,440 --> 00:21:37,120
+La cosa però interessante di Pegis è che se si cambia modalità,
+
+331
+00:21:37,120 --> 00:21:43,360
+c'è una modalità per impaginare, a questo punto Pagis diventa uno strumento
+
+332
+00:21:43,360 --> 00:21:49,280
+un po' più professionale e differente, diciamo, dal semplice programma di videoscrittura.
+
+333
+00:21:49,280 --> 00:21:53,360
+Il programma di videoscrittura lavora sul foglio, chiamiamolo in questi termini, e
+
+334
+00:21:53,360 --> 00:21:57,040
+abitualmente il foglio di carta stampata e così via.
+
+335
+00:21:57,040 --> 00:22:02,880
+Invece, Pagis ha degli strumenti anche proprio per impaginare non solo il
+
+336
+00:22:02,880 --> 00:22:04,320
+testo ma anche le immagini.
+
+337
+00:22:04,320 --> 00:22:10,880
+Quindi creare dei documenti anche graficamente accattivanti e visualmente interessanti.
+
+338
+00:22:11,280 --> 00:22:16,720
+Grazie anche a tutto un sistema di guide e link alle strutture
+
+339
+00:22:16,720 --> 00:22:22,400
+dei documenti, si riesce effettivamente a fare impaginazioni che abitualmente sono appannaggio,
+
+340
+00:22:22,400 --> 00:22:28,400
+chiamiamolo così, di software differenti, cioè nati proprio per creare impaginazioni.
+
+341
+00:22:28,400 --> 00:22:30,800
+Ovviamente l'esempio tipico in design.
+
+342
+00:22:30,800 --> 00:22:35,440
+Rispetto a in design, non è gli stessi livelli, però il discorso
+
+343
+00:22:35,440 --> 00:22:40,880
+è solito: con Pages si ha più possibilità, quindi, alla fine, uno
+
+344
+00:22:40,880 --> 00:22:46,000
+strumento chiamiamolo così acerbo di impaginazione, ma che appunto ha funzioni che,
+
+345
+00:22:46,000 --> 00:22:49,360
+per esempio, Word, in senso tecnico, non ha.
+
+346
+00:22:49,760 --> 00:22:57,120
+Da ultimo, recentemente, siccome Apple di fatto ha ammazzato iBook Autors, che
+
+347
+00:22:57,120 --> 00:23:03,240
+era lo strumento pensato da Apple per creare degli ebook interattivi e
+
+348
+00:22:59,920 --> 00:23:05,640
+con varie funzionalità anche avvazzate.
+
+349
+00:23:06,120 --> 00:23:10,760
+David Spark, per esempio, ha creato le sue prime guide con questo
+
+350
+00:23:10,760 --> 00:23:16,200
+strumento perché era possibile non solo impaginare, ma inserire dei video all'interno
+
+351
+00:23:16,200 --> 00:23:17,400
+dell'impinazione.
+
+352
+00:23:17,400 --> 00:23:17,720
+Quindi
+
+353
+00:23:18,840 --> 00:23:26,760
+, le prime videoguide di David erano strutturate con una parte testuale, chiamiamola
+
+354
+00:23:26,760 --> 00:23:33,880
+così, e poi all'interno di questo ebook interattivo, avevi anche i video
+
+355
+00:23:33,880 --> 00:23:36,520
+dove ti spiegavano come fare questo, come fare quell'altro.
+
+356
+00:23:36,760 --> 00:23:44,760
+IBOC Autore è stato ucciso da Apple, come capita a volte con
+
+357
+00:23:45,000 --> 00:23:51,560
+idee brillanti, ma era un software interessante e potenzialmente anche utile, per
+
+358
+00:23:51,560 --> 00:23:54,760
+esempio, per la scuola e così via, ma che poi Apple non
+
+359
+00:23:54,760 --> 00:24:02,120
+ha mai spinto come doveva, l'idea appunto di avere dei materiali sviluppati
+
+360
+00:24:02,120 --> 00:24:07,800
+addirittura dagli stessi professori per gli studenti, che fossero appunto disponibili sul
+
+361
+00:24:07,800 --> 00:24:12,920
+tablet comodamente, era sicuramente una bella idea, ma nella sostanza, non è
+
+362
+00:24:12,920 --> 00:24:17,880
+stata mai applicata nella concretezza, e quindi poi il problema è stato
+
+363
+00:24:17,880 --> 00:24:18,360
+questo.
+
+364
+00:24:18,360 --> 00:24:24,120
+Ciò detto, quindi ha ucciso i book out, ma diciamo pur essendo
+
+365
+00:24:24,120 --> 00:24:26,920
+un mercato veramente di nicchia, da quello che ho capito io, perché
+
+366
+00:24:26,920 --> 00:24:31,000
+credo in italiano ci sia pochissimo in lingua inglese c'è poco.
+
+367
+00:24:31,000 --> 00:24:31,640
+Comunque.
+
+368
+00:24:31,640 --> 00:24:37,880
+Tuttavia con Pages è possibile, appunto creare degli ebook con svariate funzioni
+
+369
+00:24:38,520 --> 00:24:40,520
+all'interno direttamente di Pegis.
+
+370
+00:24:40,520 --> 00:24:45,840
+E come citava prima Roberto, appunto tra i 70 modelli che sono
+
+371
+00:24:45,840 --> 00:24:51,200
+presenti in Pages c'è anche appunto una serie di modelli proprio per
+
+372
+00:24:51,520 --> 00:24:53,520
+creare i book interattivi.
+
+373
+00:24:53,520 --> 00:24:54,960
+Sì, è assolutamente vero.
+
+374
+00:24:54,960 --> 00:25:00,240
+Questa possibilità che può diventare utile per molti, quella di creare dei
+
+375
+00:25:00,240 --> 00:25:03,920
+piccoli libri o qualcosa che ci assomigli molto da vicino.
+
+376
+00:25:03,920 --> 00:25:07,440
+E quindi io consiglio anche in questo caso di provare a dare
+
+377
+00:25:07,440 --> 00:25:12,240
+un'occhiata al modello perché può darvi delle belle sorprese, soprattutto iniziare a
+
+378
+00:25:12,240 --> 00:25:15,360
+partire da qualcosa che è già impostato.
+
+379
+00:25:15,360 --> 00:25:20,240
+Detto questo, possiamo tranquillamente passare a una parte di integrazione che ha
+
+380
+00:25:20,240 --> 00:25:24,480
+il nostro simpatico Pegis all'interno, ad esempio, di iPad.
+
+381
+00:25:24,480 --> 00:25:28,480
+Perché l'iPad ha una possibilità che invece il computer non ha.
+
+382
+00:25:28,480 --> 00:25:32,640
+Questa possibilità è quella di utilizzare la mitica Apple Pencil.
+
+383
+00:25:32,640 --> 00:25:37,680
+E quindi potete iniziare ad annotare il testo appunto con la pencil
+
+384
+00:25:38,000 --> 00:25:41,920
+all'interno di un documento con l'iPad.
+
+385
+00:25:41,920 --> 00:25:46,560
+Non solo questo, ovviamente la Pencil permette anche di aggiungerci dei disegni.
+
+386
+00:25:46,560 --> 00:25:50,640
+Quindi potete iniziare a pensare che può diventare uno strumento, diciamo, un
+
+387
+00:25:50,640 --> 00:25:52,240
+po' più trasversale.
+
+388
+00:25:52,240 --> 00:25:58,480
+Quindi questa famosa integrazione di cui parlavamo prima diventa ancora più particolare
+
+389
+00:25:58,480 --> 00:26:02,960
+all'interno di uno strumento trasversale come l'iPad, che anche in questo caso
+
+390
+00:26:02,960 --> 00:26:06,720
+riesce a regalare qualche punticino in più a chi lo utilizza.
+
+391
+00:26:06,720 --> 00:26:12,160
+Oltre a questo, c'è ovviamente un'altra integrazione interessantissima per chi utilizza, ad
+
+392
+00:26:12,160 --> 00:26:16,160
+esempio, un Mac e un iPhone in abbinata e la possibilità di
+
+393
+00:26:16,160 --> 00:26:21,680
+inserire dei file multimediali direttamente con l'integrazione con il vostro iPhone.
+
+394
+00:26:21,680 --> 00:26:26,480
+Quindi, se voi andate su file multimediali, utilizzate il menu Scattafoto, parte
+
+395
+00:26:26,480 --> 00:26:30,520
+direttamente un collegamento ad iPhone su cui si è già aperta la
+
+396
+00:26:29,760 --> 00:26:34,600
+fotocamera e vi basta semplicemente scattare la foto per vederla comparire
+
+397
+00:26:29,920 --> 00:26:35,720
+all'interno del Mac.
+
+398
+00:26:36,200 --> 00:26:40,520
+E anche questo è un punto fondamentale di assoluto rilievo all'interno di
+
+399
+00:26:40,520 --> 00:26:45,880
+un ecosistema Apple che, ad esempio, all'interno di Word non potete avere.
+
+400
+00:26:45,880 --> 00:26:51,800
+Come diceva all'inizio il nostro Filippo, all'interno di Word potete trovarvi veramente
+
+401
+00:26:51,800 --> 00:26:55,720
+in difficoltà per quanto riguarda l'utilizzo delle immagini.
+
+402
+00:26:55,720 --> 00:27:01,480
+All'interno di Pegas, la possibilità di utilizzare le immagini è molto facile,
+
+403
+00:27:01,480 --> 00:27:05,960
+ma soprattutto si riesce a ottenere degli risultati decisamente di alto livello.
+
+404
+00:27:05,960 --> 00:27:07,160
+Alto livello perché?
+
+405
+00:27:07,160 --> 00:27:11,720
+Perché c'è la possibilità di utilizzare semplicemente delle guide che ci sono
+
+406
+00:27:11,720 --> 00:27:16,120
+già in automatico che vengono presentate e poi soprattutto c'è la possibilità
+
+407
+00:27:16,120 --> 00:27:20,520
+di spostare questa immagine in modo molto semplice, in modo molto visuale,
+
+408
+00:27:20,520 --> 00:27:22,200
+in tipico stile Apple.
+
+409
+00:27:22,200 --> 00:27:25,000
+Nel senso che voi basta che la spostate e questa si sposta
+
+410
+00:27:25,160 --> 00:27:28,760
+muovendo anche addirittura il testo in modo molto semplice, in modo molto
+
+411
+00:27:28,760 --> 00:27:34,120
+intuitivo, e avete subito un'idea di quello che state per realizzare perché
+
+412
+00:27:34,200 --> 00:27:40,440
+le immagini possono essere ridimensionate, possono essere ritagliate direttamente all'interno di Pages,
+
+413
+00:27:40,440 --> 00:27:45,000
+quindi senza bisogno di passare in altre applicazioni, possono anche essere modificate
+
+414
+00:27:45,320 --> 00:27:49,960
+e quindi, secondo me, anche questo è un punto di grande valore
+
+415
+00:27:50,120 --> 00:27:54,200
+perché chi utilizza Word come ho fatto io recentemente, passando da Peges
+
+416
+00:27:54,200 --> 00:27:59,880
+a Word, troviamo dei grossi difficoltà per quanto riguarda la gestione delle
+
+417
+00:27:59,880 --> 00:28:00,760
+immagini.
+
+418
+00:28:00,760 --> 00:28:05,160
+Altre particolarità sono, ad esempio, invece per quanto riguarda Pages, ma anche
+
+419
+00:28:05,160 --> 00:28:10,200
+altri strumenti Apple, e la possibilità di esportare in formato PDF.
+
+420
+00:28:10,200 --> 00:28:14,440
+Nel caso di Pegis, anche in formato Word, quindi ha qualche tipo
+
+421
+00:28:14,440 --> 00:28:17,280
+di compatibilità con i documenti Word.
+
+422
+00:28:17,440 --> 00:28:22,000
+Ovviamente non è una compatibilità piena e questo non è tendenzialmente colpa
+
+423
+00:28:22,000 --> 00:28:26,080
+di Apple, ma questa è una polemica lunghissima che dura da tantissimi
+
+424
+00:28:26,080 --> 00:28:31,680
+anni dell'incapacità di rendere il formato doc forse un po' più aperto,
+
+425
+00:28:31,680 --> 00:28:33,360
+un po' più leggibile da chiunque.
+
+426
+00:28:33,360 --> 00:28:37,440
+E poi, come vi dicevamo all'inizio, la possibilità di esfortare in formato
+
+427
+00:28:37,440 --> 00:28:38,400
+EPAP.
+
+428
+00:28:38,400 --> 00:28:41,760
+Adesso qui lascio la parola a Filippo, che c'è il mio cagnolino
+
+429
+00:28:41,760 --> 00:28:43,840
+che rompe un po' le scatole.
+
+430
+00:28:44,320 --> 00:28:49,840
+Una precisazione perché ne hai accennato, ma secondo me non ha segnato
+
+431
+00:28:50,240 --> 00:28:53,360
+una cosa che per gli scrittori, diciamo, può essere interessante.
+
+432
+00:28:53,520 --> 00:29:00,400
+L'Apple Pencil su iPad, e in Pages, ha un'integrazione particolare.
+
+433
+00:29:00,400 --> 00:29:06,480
+Recentemente ho scoperto perché mentre preparavo le note di questo episodio, Apple
+
+434
+00:29:06,480 --> 00:29:09,840
+ha riunito tutte queste funzioni in un'unica interfaccia.
+
+435
+00:29:09,840 --> 00:29:14,320
+Ma diciamo c'è la possibilità ovviamente di scrivere direttamente con l'Apple Pencil
+
+436
+00:29:14,480 --> 00:29:19,840
+con Scribble, quindi conversione da testo scritto a mano a testo battuta
+
+437
+00:29:19,920 --> 00:29:23,600
+macchina, chiamiamole questo termine, che è una penna speciale.
+
+438
+00:29:23,920 --> 00:29:25,600
+La possibilità di annotare.
+
+439
+00:29:25,600 --> 00:29:32,240
+E la cosa particolare di queste annotazioni sono legate al testo, chiamiamolo
+
+440
+00:29:32,240 --> 00:29:33,680
+così, stampato.
+
+441
+00:29:33,680 --> 00:29:38,640
+Per cui le correzioni che faccio, per esempio, cercando una parola di
+
+442
+00:29:38,640 --> 00:29:45,360
+rosso o facendo le biscioline sotto o altre cose, seguono quel testo.
+
+443
+00:29:45,360 --> 00:29:49,680
+La cosa interessante quindi è che se io aggiungo del testo sopra
+
+444
+00:29:49,680 --> 00:29:55,200
+o sotto, del testo battutò, chiamiamolo così la macchina, queste notazioni rimangono
+
+445
+00:29:55,200 --> 00:30:00,520
+legate ai caratteri diciamo a cui originariamente li avevo attaccati.
+
+446
+00:30:00,520 --> 00:30:03,640
+E questo è molto interessante da un certo punto di vista sia
+
+447
+00:30:03,640 --> 00:30:09,720
+per gli insegnanti per fare le correzioni direttamente sugli elaborati digitali degli
+
+448
+00:30:09,720 --> 00:30:14,680
+alunni, ma anche per esempio per avvocati o comunque scrittori che vogliono
+
+449
+00:30:14,680 --> 00:30:19,960
+avere una procedura, chiamiamola così ibrida nella correzione dei testi digitali.
+
+450
+00:30:19,960 --> 00:30:22,680
+E secondo me questo va segnalato.
+
+451
+00:30:22,680 --> 00:30:26,120
+L'altra cosa che ho recentemente scoperto perché l'ho utilizzata
+
+452
+00:30:27,400 --> 00:30:31,160
+per i vari miei mageggi e per le mie varie automazioni, è
+
+453
+00:30:31,480 --> 00:30:38,600
+la possibilità di creare quelli che vengono chiamati segnapos, cioè sostanzialmente del
+
+454
+00:30:38,600 --> 00:30:42,120
+testo a cui si sostituisce del testo, cioè che fanno appunto da
+
+455
+00:30:42,120 --> 00:30:48,520
+segnaposto, per cui sia attraverso Apple Script piuttosto che altre tipologie di
+
+456
+00:30:48,520 --> 00:30:54,360
+automazioni, è possibile sostituire il segnaposto, consideriamolo come una variabile o comunque
+
+457
+00:30:54,680 --> 00:30:58,040
+come un contenitore vuoto che può essere riempito di testo.
+
+458
+00:30:58,040 --> 00:31:02,600
+E la cosa interessante di questi segnapos è che possono essere preformattati.
+
+459
+00:31:02,600 --> 00:31:07,400
+Quindi se io appunto scrivo un segnaposto, nome e in grassetto e
+
+460
+00:31:07,400 --> 00:31:12,840
+poi vado a riempirlo col testo Filippo, il testo Filippo sarà mantenuto
+
+461
+00:31:12,840 --> 00:31:16,120
+in grassetto e con l'impinazione di Page.
+
+462
+00:31:16,120 --> 00:31:21,160
+E questo si sposa, chiamiamolo così, con i modelli che appunto possiamo
+
+463
+00:31:21,160 --> 00:31:21,960
+creare anche noi.
+
+464
+00:31:21,960 --> 00:31:27,000
+Io attualmente ho creato un'automazione per cui estrapolo.
+
+465
+00:31:27,320 --> 00:31:31,800
+Nel caso specifico, è una notifica sono i dati per creare la
+
+466
+00:31:31,800 --> 00:31:35,400
+relata di una notifica mezzo pack, però poco ci interessa, nel senso
+
+467
+00:31:35,400 --> 00:31:37,960
+che basta avere a disposizione dei dati.
+
+468
+00:31:37,960 --> 00:31:43,480
+Quindi da un file CSV, quindi file diciamo di testo, ma che
+
+469
+00:31:43,480 --> 00:31:48,160
+contiene dati, ho estrappolato questi dati e a questo punto li passo
+
+470
+00:31:48,160 --> 00:31:52,960
+a un modello da me inventato e creato, e li vado a
+
+471
+00:31:52,960 --> 00:31:56,720
+sostituire i signori post inserendoli le voci che mi interessa.
+
+472
+00:31:56,720 --> 00:32:02,560
+Quindi, anche qui Peges ha la possibilità di creare un'automazione documentale anche
+
+473
+00:32:02,560 --> 00:32:03,360
+avanzata.
+
+474
+00:32:03,360 --> 00:32:08,960
+Lo segnalo, tutta questa parte, diciamo, un po' più elevata si basa
+
+475
+00:32:08,960 --> 00:32:16,480
+abitualmente su AppleScript o JavaScript, e quindi è relegata allo stato su.
+
+476
+00:32:16,480 --> 00:32:22,400
+Ho visto che è possibile utilizzare segna posto anche su iPad, ma
+
+477
+00:32:22,400 --> 00:32:26,560
+solo relativamente a quelli legati ai contatti.
+
+478
+00:32:26,560 --> 00:32:31,520
+Quindi, se appunto vogliamo inserire, per esempio, vogliamo fare la cosiddetta stampione.
+
+479
+00:32:31,520 --> 00:32:37,360
+Quindi vogliamo creare, per esempio, 10 lettere a 10 differenti destinatari e
+
+480
+00:32:37,360 --> 00:32:43,040
+quindi abbiamo un elenco di destinatari nei contatti, abitualmente utilizzando un gruppo,
+
+481
+00:32:43,040 --> 00:32:49,200
+è possibile appunto creare queste 10 differenti lettere, o comunque questi 10
+
+482
+00:32:49,200 --> 00:32:52,880
+differenti file di Pages, estraendo i dati dai contatti.
+
+483
+00:32:52,880 --> 00:32:57,600
+Tuttavia è abbastanza complicato e quindi non mi ci sono neanche particolarmente
+
+484
+00:32:57,600 --> 00:32:58,320
+messo.
+
+485
+00:32:58,320 --> 00:33:01,840
+Direi che altre cose degne di note su Pages.
+
+486
+00:33:01,840 --> 00:33:03,200
+A me non vengono in mente.
+
+487
+00:33:03,200 --> 00:33:04,240
+Se hai qualcosa da già.
+
+488
+00:33:04,240 --> 00:33:07,440
+Ce n'è solo ancora una che secondo me è interessante: la possibilità
+
+489
+00:33:07,440 --> 00:33:12,800
+di utilizzarlo come gobbo, chiamiamolo così, in modalità presentazione su iPhone iPad.
+
+490
+00:33:12,800 --> 00:33:14,880
+Cioè, essenzialmente cosa succede?
+
+491
+00:33:14,880 --> 00:33:20,080
+Potete utilizzare l'iPad e l'iPhone in modo tale che sullo schermo di
+
+492
+00:33:20,080 --> 00:33:24,400
+questi compaia una scritta che ovviamente avete preparato.
+
+493
+00:33:24,400 --> 00:33:27,520
+Può essere ovviamente una cosa che riguarda YouTube.
+
+494
+00:33:27,680 --> 00:33:29,920
+La prima cosa che mi viene in mente, ma può essere utile
+
+495
+00:33:30,120 --> 00:33:34,760
+anche in altri svariati momenti come delle presentazioni, e in questa modalità
+
+496
+00:33:34,920 --> 00:33:41,000
+potete anche regolare la velocità in cui scorrono queste lettere sullo schermo,
+
+497
+00:33:41,000 --> 00:33:46,040
+queste parole, potete regolare la dimensione e ovviamente il colore del testo.
+
+498
+00:33:46,040 --> 00:33:51,080
+Questo vi aiuterà, ad esempio, a gestire meglio soprattutto per chi ha
+
+499
+00:33:51,080 --> 00:33:55,320
+magari qualche difetto di vista come sottoscritto, e riesce a regolare nel
+
+500
+00:33:55,320 --> 00:33:59,560
+modo migliore l'altezza del font, un font che sia leggibile e soprattutto
+
+501
+00:33:59,560 --> 00:34:03,720
+la velocità che non sia troppo accelerata, perché, se no, dovete correre
+
+502
+00:34:03,720 --> 00:34:06,760
+dietro al globo invece che fare il contrario.
+
+503
+00:34:06,760 --> 00:34:10,600
+Questa è una modalità molto interessante, ha anche questa da provare, non
+
+504
+00:34:10,600 --> 00:34:11,720
+l'ho ancora provata.
+
+505
+00:34:11,720 --> 00:34:14,040
+Ma chi lo sa, magari un giorno di questi, quando andrò a
+
+506
+00:34:14,040 --> 00:34:17,560
+fare una presentazione da qualche parte, avrò bisogno di un gobbo che
+
+507
+00:34:17,560 --> 00:34:21,000
+mi segnali cosa devo fare e cosa non devo fare.
+
+508
+00:34:21,000 --> 00:34:26,120
+Direi che a questo punto possiamo passare tranquillamente a Numbers, che anche
+
+509
+00:34:26,120 --> 00:34:31,800
+in questo caso, ha un sacco di modelli con grafici preimpostati da
+
+510
+00:34:31,800 --> 00:34:32,680
+cui partire.
+
+511
+00:34:32,680 --> 00:34:39,080
+I modelli sono importantissimi, soprattutto i numbers, perché all'interno di questi documenti
+
+512
+00:34:39,240 --> 00:34:43,880
+potete trovare già dei grafici preimpostati che puntano a una serie di
+
+513
+00:34:43,880 --> 00:34:44,520
+dati.
+
+514
+00:34:44,760 --> 00:34:48,920
+Quindi in questi dati potete già iniziare a vedere quali sono le
+
+515
+00:34:48,920 --> 00:34:51,080
+formule che sono state utilizzate.
+
+516
+00:34:51,080 --> 00:34:57,240
+Adesso apro un attimo al volo Numbers che potete lanciare tranquillamente con
+
+517
+00:34:57,240 --> 00:35:00,440
+command spazio e poi scrivere NU.
+
+518
+00:35:00,440 --> 00:35:05,160
+Si aprirà come sempre il nostro Numbers e chiedere un nuovo documento.
+
+519
+00:35:05,400 --> 00:35:09,160
+A quel punto vi si apre una serie di modelli tra cui
+
+520
+00:35:09,160 --> 00:35:14,360
+finanze personali, che può diventare molto interessanti, che riguardano magari anche l'istruzione
+
+521
+00:35:14,360 --> 00:35:16,640
+o gli affari in generale.
+
+522
+00:35:16,640 --> 00:35:21,920
+C'è essenzialmente da esplorare tutto quanto perché ci sono anche delle statistiche.
+
+523
+00:35:21,920 --> 00:35:26,640
+Quindi iniziamo a pensare come viene impostata non solo la tabella, ma
+
+524
+00:35:26,640 --> 00:35:31,280
+soprattutto i grafici e le formule che ci sono all'interno di questi
+
+525
+00:35:31,360 --> 00:35:32,080
+documenti.
+
+526
+00:35:32,080 --> 00:35:37,680
+Ad esempio, c'è anche reddito netto oppure risparmio università, questo è tipicamente
+
+527
+00:35:37,840 --> 00:35:42,960
+americano, ma c'è anche il risparmio pensione che invece potrebbe essere utile
+
+528
+00:35:42,960 --> 00:35:45,280
+anche a noi liberi professionisti.
+
+529
+00:35:45,280 --> 00:35:49,920
+Quindi, come per Pegis, il consiglio qui soprattutto è quello di partire
+
+530
+00:35:49,920 --> 00:35:54,640
+da i modelli per vedere i grafici e come vengono impostate le
+
+531
+00:35:54,640 --> 00:35:55,360
+formule.
+
+532
+00:35:55,680 --> 00:36:00,960
+U queste possibilità che permette, ad esempio, Numbers è avere delle caselle
+
+533
+00:36:00,960 --> 00:36:01,920
+check box.
+
+534
+00:36:01,920 --> 00:36:07,280
+Queste caselle check box sono molto utili perché sono essenzialmente delle caselle
+
+535
+00:36:07,280 --> 00:36:07,760
+di spunta.
+
+536
+00:36:07,840 --> 00:36:08,880
+Possiamo definirle così.
+
+537
+00:36:08,880 --> 00:36:10,800
+Filippo non sapeva definirle altrimenti
+
+538
+00:36:11,840 --> 00:36:12,640
+, perfetto.
+
+539
+00:36:12,640 --> 00:36:19,120
+Queste caselle di spunta assieme alla possibilità che ha Numbers di fare
+
+540
+00:36:19,760 --> 00:36:24,080
+che, in base a una condizione, viene cambiata il colore della cella,
+
+541
+00:36:24,080 --> 00:36:29,920
+ci trasporta velocemente verso un modello che avevo preparato qualche tempo fa.
+
+542
+00:36:29,920 --> 00:36:33,280
+Partendo da una base di Dan Moran per chi non lo conoscesse,
+
+543
+00:36:33,280 --> 00:36:37,280
+di Six Colors, ha messo a disposizione un modello contabile per la
+
+544
+00:36:37,280 --> 00:36:41,040
+gestione contabile di freelance che è davvero utilissimo.
+
+545
+00:36:41,040 --> 00:36:45,360
+Che io, tra l'altro, sto utilizzando ancora adesso perché mi ci trovo
+
+546
+00:36:45,360 --> 00:36:50,400
+bene, l'ho, tra virgolette, migliorato o perlomeno adattato a quello che possono
+
+547
+00:36:50,400 --> 00:36:54,480
+essere le finanze in Italia, perché ovviamente lì sono partiti da un
+
+548
+00:36:54,480 --> 00:36:56,320
+modello fatto per gli americani.
+
+549
+00:36:56,320 --> 00:36:59,520
+Ma in ogni caso, la cosa interessante è che c'è in questo
+
+550
+00:36:59,520 --> 00:36:59,920
+modello.
+
+551
+00:37:00,520 --> 00:37:03,800
+Poi, se volete, ne parleremo in un altro momento, ma questo giusto
+
+552
+00:37:03,800 --> 00:37:07,400
+per darvi un'idea di quello che può fare Numbers, c'è la possibilità
+
+553
+00:37:07,400 --> 00:37:10,840
+di monitorare l'andamento delle fatturazioni.
+
+554
+00:37:10,840 --> 00:37:16,200
+Voi mettete la fattura come tutte le fatture, potete iniziare a segnare
+
+555
+00:37:16,200 --> 00:37:18,360
+se, ad esempio, sono state pagate o no.
+
+556
+00:37:18,360 --> 00:37:23,400
+Con un comodo check con una colonna Paid, se voi lo mettete
+
+557
+00:37:23,400 --> 00:37:29,960
+sulla colonna corrispondente dello stato delle vostre fatturazioni può essere visto che
+
+558
+00:37:30,120 --> 00:37:35,160
+passa dalla situazione attuale che è non pagata alla situazione pagata.
+
+559
+00:37:35,160 --> 00:37:38,840
+Questo è molto interessante e molto automatico e vi fa vedere direttamente
+
+560
+00:37:38,840 --> 00:37:43,480
+in modo visuale qual è la situazione dello stato delle vostre fatturazioni.
+
+561
+00:37:43,640 --> 00:37:47,800
+Un'altra cosa interessante è che questo colore delle caselle può essere cambiato
+
+562
+00:37:47,800 --> 00:37:50,120
+anche in base alla data.
+
+563
+00:37:50,120 --> 00:37:51,880
+Questo come può diventare utile?
+
+564
+00:37:51,880 --> 00:37:55,240
+Diventa utile nel caso in cui voi avete messo una fattura e
+
+565
+00:37:55,240 --> 00:37:57,480
+dopo 30 giorni magari non vi hanno pagato.
+
+566
+00:37:57,480 --> 00:38:02,680
+Allora, in questo modo salta fuori il colore all'interno dello stato della
+
+567
+00:38:02,680 --> 00:38:07,640
+fatturazione che passa direttamente a rosso e vi dice che visivamente quella
+
+568
+00:38:07,640 --> 00:38:09,640
+fattura non è stata pagata.
+
+569
+00:38:09,640 --> 00:38:13,320
+E questo, secondo me, questo modello è molto interessante sotto questo punto
+
+570
+00:38:13,320 --> 00:38:17,320
+di vista perché vi permette appunto di tenere sotto controllo in modo
+
+571
+00:38:17,320 --> 00:38:23,160
+anche visuale tramite i colori e l'utilizzo dei checkbox per vedere l'andamento
+
+572
+00:38:23,160 --> 00:38:24,280
+della fatturazione.
+
+573
+00:38:24,280 --> 00:38:28,680
+Questo è un modello che ha messo a disposizione Morending Six Colors
+
+574
+00:38:28,760 --> 00:38:32,520
+che potete trovare sul loro blog, ma anche sul mio, perché ne
+
+575
+00:38:32,520 --> 00:38:36,200
+ho fatto riferimento all'interno del blog Mac e Architettura.
+
+576
+00:38:36,200 --> 00:38:40,840
+Magari se ci ricordiamo, mettiamo anche un link che potrebbe essere utile
+
+577
+00:38:40,840 --> 00:38:41,880
+anche a molti.
+
+578
+00:38:41,880 --> 00:38:45,360
+A questo punto, lascio la parola al nostro grandissimo Filippo per le
+
+579
+00:38:45,360 --> 00:38:45,920
+funzioni.
+
+580
+00:38:45,920 --> 00:38:51,600
+Una precisazione: la cera checkbox non esiste su Excel, almeno da quello
+
+581
+00:38:44,920 --> 00:38:52,160
+che ne so io.
+
+582
+00:38:52,240 --> 00:38:56,000
+E tanto è vero che ho avuto una collaborazione, diciamo, con una
+
+583
+00:38:56,000 --> 00:39:00,160
+persona che invece lavorava sotto Windows e utilizzando ovviamente Excel.
+
+584
+00:39:00,160 --> 00:39:07,760
+Quando ho fatto vedere questa funzione è rimasto abbastanza impressionata dalla cosa.
+
+585
+00:39:08,080 --> 00:39:13,600
+Un altro discorso che, diciamo, ferente rispetto a Excel, ma io lo
+
+586
+00:39:13,600 --> 00:39:18,880
+trovo positivo è che appunto il foglio di calcolo di Namas non
+
+587
+00:39:18,880 --> 00:39:22,800
+è a tutta pagina come Excel, quindi una cella infinita.
+
+588
+00:39:22,800 --> 00:39:28,400
+Ma il contrario, quindi si possono avere differenti fogli di calcolo uno
+
+589
+00:39:28,400 --> 00:39:34,560
+vicino all'altro, e quindi diventa molto comodo potere ovviamente avere differenti dati
+
+590
+00:39:34,720 --> 00:39:40,480
+o elaborazione dell'immissione dei dati uno di fianco all'altro con tabelle così
+
+591
+00:39:40,640 --> 00:39:41,360
+separate.
+
+592
+00:39:41,360 --> 00:39:45,600
+È possibile fare la stessa cosa anche in Excel, ma diciamo che
+
+593
+00:39:45,600 --> 00:39:47,600
+su questo foglio di calcolo infinito.
+
+594
+00:39:47,600 --> 00:39:50,160
+Invece, Numbers è proprio un approccio diverso.
+
+595
+00:39:50,160 --> 00:39:54,800
+Personalmente lo trovo molto comodo e visualmente accattivante, non so se mi
+
+596
+00:39:54,800 --> 00:39:55,200
+spiego.
+
+597
+00:39:55,200 --> 00:39:59,520
+È ovvio che la potenza di un foglio di calcolo sono le
+
+598
+00:39:59,520 --> 00:40:00,160
+funzioni.
+
+599
+00:40:00,160 --> 00:40:06,000
+Ovviamente non possiamo entrare troppo nel dettaglio su come funzionano le funzioni
+
+600
+00:40:06,000 --> 00:40:08,240
+e quali sono le funzioni presenti.
+
+601
+00:40:08,240 --> 00:40:13,280
+Diciamo che le funzioni permettono di elaborare i dati inseriti nel foglio
+
+602
+00:40:13,280 --> 00:40:18,960
+di calcolo e quindi di fare conti, di sommare, sottrarre, strapolare dati,
+
+603
+00:40:18,960 --> 00:40:22,160
+fare le medie, insomma, si riescono a fare tutta una serie di
+
+604
+00:40:22,160 --> 00:40:25,840
+attività che sono fondamentali abitualmente in un foglio di calcolo.
+
+605
+00:40:25,840 --> 00:40:30,680
+In numbers sono uno strumento potente e la cosa carina di Numbers
+
+606
+00:40:30,920 --> 00:40:35,880
+è che appunto nella famosa colonna di destra, quando si inserisce una
+
+607
+00:40:35,880 --> 00:40:40,600
+formula, c'è la possibilità di fare tutte le ricerche e veramente c'è
+
+608
+00:40:40,600 --> 00:40:45,400
+un sacco di documentazione a disposizione per capire come funziona la formula,
+
+609
+00:40:45,400 --> 00:40:51,320
+ci sono svariati esempi per ogni formula, quindi possono costruire anche formule
+
+610
+00:40:51,320 --> 00:40:56,600
+relativamente avanzate, ne ho costruite più avanzate perché, nella sostanza ho creato
+
+611
+00:40:56,600 --> 00:41:01,240
+un calcolatore per fare i preventi da avvocato, quindi, in base al
+
+612
+00:41:01,640 --> 00:41:08,920
+valore della causa e alla competenza diciamo del giudizio, mi creava le
+
+613
+00:41:08,920 --> 00:41:15,000
+voci che potevo preventivare e poi addirittura un'altra funzione interessante è quella
+
+614
+00:41:15,000 --> 00:41:15,960
+dello slider.
+
+615
+00:41:15,960 --> 00:41:21,720
+Quindi potevo aumentare o ridurre utilizzando una leva, chiamiamola così, da un
+
+616
+00:41:21,720 --> 00:41:23,160
+massimo a un minimo.
+
+617
+00:41:23,160 --> 00:41:24,200
+Anche questi valori.
+
+618
+00:41:24,200 --> 00:41:28,520
+Quindi, si riescono a fare anche delle operazioni relativamente complicate.
+
+619
+00:41:28,520 --> 00:41:34,520
+E appunto le funzioni si attivano digitando nella cella di Numbers l'uguale.
+
+620
+00:41:34,520 --> 00:41:38,920
+A questo punto si apre la funzione e si può scegliere ovviamente
+
+621
+00:41:38,920 --> 00:41:44,120
+rapidamente qual è la funzione che si vuole utilizzare e le celle
+
+622
+00:41:44,680 --> 00:41:48,200
+sulle quali poi si vuole eseguire questa funzione.
+
+623
+00:41:48,200 --> 00:41:53,320
+La cosa interessante è quella di creare delle funzioni nidificate.
+
+624
+00:41:53,320 --> 00:41:57,960
+Spesso e volentieri ho utilizzato per esempio moltissimo la funzione sé, che
+
+625
+00:41:57,960 --> 00:42:03,720
+mi permette di creare dei condizionali tra l'una e l'altra cosa, e
+
+626
+00:42:03,720 --> 00:42:08,360
+quindi mi permette di, per esempio, se c'è questo valore, allora fai
+
+627
+00:42:08,360 --> 00:42:12,520
+questo, se il valore è inferiore a questo valore, fai quest'altro.
+
+628
+00:42:12,520 --> 00:42:17,360
+Per cui, anche qui è ovvio che c'è da approfondire, c'è da
+
+629
+00:42:14,920 --> 00:42:18,320
+lavorarci sopra.
+
+630
+00:42:18,400 --> 00:42:21,360
+Però devo dire la verità, sono riuscito a fare veramente un sacco
+
+631
+00:42:21,360 --> 00:42:25,760
+di cose con Numbers e mi sono trovato veramente molto facilitato.
+
+632
+00:42:25,760 --> 00:42:30,400
+Per esempio, un annetto e mezzo fa ho dovuto generare, strapolando tutta
+
+633
+00:42:30,400 --> 00:42:34,640
+una serie di dati, presenza a una serie di corsi, e poi,
+
+634
+00:42:34,640 --> 00:42:38,720
+a fronte della presenza o meno e di aver raggiunto un minimo
+
+635
+00:42:38,720 --> 00:42:43,680
+di tempo di presenza al corso, singolarmente per ogni singola persona, creare
+
+636
+00:42:43,680 --> 00:42:49,280
+gli attestati a fronte di n corsi presentati e a fronte del
+
+637
+00:42:49,280 --> 00:42:55,760
+fatto che ogni corso dava se superato correttamente se fatto per X
+
+638
+00:42:55,760 --> 00:43:00,400
+tempo, almeno per X tempo, dava un punteggio di crediti formativi.
+
+639
+00:43:00,400 --> 00:43:06,560
+Ho creato tutto attraverso appunto un foglio di Nambus e tutti i
+
+640
+00:43:06,560 --> 00:43:09,280
+conti sono stati gestiti in questa maniera.
+
+641
+00:43:09,280 --> 00:43:14,240
+Poi, attraverso una Apple Script, sostanzialmente ho estrapolato questi dati e ho
+
+642
+00:43:14,240 --> 00:43:18,880
+creato li attestati in page se poi convertiti in PDF che sono
+
+643
+00:43:18,880 --> 00:43:23,440
+stati inviati via mail, sempre utilizzando i dati all'interno di Numbers.
+
+644
+00:43:23,440 --> 00:43:29,360
+Quindi si riescono anche a fare delle automazioni complesse che velocizzano drasticamente.
+
+645
+00:43:29,360 --> 00:43:34,240
+Operazioni ho dovuto mandare una quarantina di mail perché c'erano circa 40
+
+646
+00:43:34,240 --> 00:43:36,240
+persone che partecipavano al corso.
+
+647
+00:43:36,240 --> 00:43:39,120
+Fatto a mano sarebbe stato un lavoro immane.
+
+648
+00:43:39,120 --> 00:43:42,800
+È stato comunque un lavoro abbastanza impegnativo anche solo per strutturare il
+
+649
+00:43:42,800 --> 00:43:43,200
+tutto.
+
+650
+00:43:43,200 --> 00:43:48,080
+Ma una volta che il sistema funzionava correttamente, in 5 minuti ho
+
+651
+00:43:48,080 --> 00:43:52,720
+mandato via 40 mail con attestati differenti per ogni singola persona, alla
+
+652
+00:43:53,040 --> 00:43:54,880
+specifica email e così via.
+
+653
+00:43:55,440 --> 00:44:00,200
+E con ovviamente attestati differenti in persona in persona, sostanzialmente.
+
+654
+00:43:59,840 --> 00:44:02,440
+Quindi sicuramente molto molto potente.
+
+655
+00:44:02,600 --> 00:44:06,120
+L'ultima cosa di cui segnalo: perché era una cosa che mancava in
+
+656
+00:44:06,120 --> 00:44:10,360
+Amazon che adesso è presente, è stata un'aggiunta relativamente recente: sono le
+
+657
+00:44:10,360 --> 00:44:11,400
+tabelle pivot.
+
+658
+00:44:11,560 --> 00:44:16,120
+Tabelle pivot, per chi non lo sapesse, è uno strumento analitico e
+
+659
+00:44:16,120 --> 00:44:20,120
+di reporting è necessario alla creazione di tabelle riassuntive.
+
+660
+00:44:20,120 --> 00:44:25,160
+Quindi, a fronte di una tabella con n dati, si possono estrapolare
+
+661
+00:44:25,160 --> 00:44:26,200
+tutta una serie di
+
+662
+00:44:28,120 --> 00:44:30,760
+ulteriori tabelle, a fronte di parametri dati.
+
+663
+00:44:30,760 --> 00:44:35,480
+Quindi, molto utile per la riorganizzazione dei dati e per solitamente fare
+
+664
+00:44:35,560 --> 00:44:39,720
+dei assunti o estrapolare risultati da dati specifici.
+
+665
+00:44:39,720 --> 00:44:44,520
+Ok, a questo punto possiamo parlare in allegria di collaborazioni in cloud.
+
+666
+00:44:44,520 --> 00:44:48,680
+Grazie alla possibilità, come vi avevamo spiegato all'inizio delle verifiche e delle
+
+667
+00:44:48,680 --> 00:44:50,920
+modifiche portate in diretta da altri utenti.
+
+668
+00:44:50,920 --> 00:44:56,840
+Ovviamente c'è la parte interessante che lavora direttamente dall'interfaccia web di iCloud.
+
+669
+00:44:56,840 --> 00:45:02,200
+Questo ve l'abbiamo già accennato all'interno della spiegazione delle due applicazioni.
+
+670
+00:45:02,200 --> 00:45:06,200
+Un consiglio che vi posso dare è quello di andarvi a vedere
+
+671
+00:45:06,200 --> 00:45:09,720
+come funziona con una prova, chiamate un vostro amico e vedete un
+
+672
+00:45:09,720 --> 00:45:16,200
+po' come funziona all'interno sia dell'applicazione che con l'interfaccia web di iCloud.
+
+673
+00:45:16,200 --> 00:45:20,760
+Che è sicuramente interessante perché in questo momento siamo usciti un po'
+
+674
+00:45:20,760 --> 00:45:25,080
+dalla pandemia, ma ci è piaciuta questa idea di poter collaborare in
+
+675
+00:45:25,080 --> 00:45:31,800
+differita con altre persone può diventare davvero utile, può anche levarvi di
+
+676
+00:45:31,800 --> 00:45:37,080
+mezzo quelle lunghissime call che magari vi fanno perdere gran tempo e
+
+677
+00:45:37,160 --> 00:45:39,960
+invece, in questo modo riuscite anche a essere più produttivi con le
+
+678
+00:45:39,960 --> 00:45:41,400
+persone con cui collaborate.
+
+679
+00:45:41,400 --> 00:45:46,320
+Io a questo punto, però, ripasso nuovamente la palla a Filippo perché
+
+680
+00:45:46,320 --> 00:45:47,840
+qui parliamo di automazione.
+
+681
+00:45:47,840 --> 00:45:51,680
+Come sapete, il mago delle automazioni non sono io, ma è il
+
+682
+00:45:51,680 --> 00:45:52,720
+nostro Filippo.
+
+683
+00:45:52,720 --> 00:45:58,080
+Che ci racconta come può essere automatizzato, magari qualche automazione che magari
+
+684
+00:45:58,080 --> 00:46:02,240
+ci ha accennato un po' prima, ma che magari in questa piccola
+
+685
+00:46:02,560 --> 00:46:07,280
+parte finale di questa puntata può raccontarvi qualcosa di più sull'automazioni.
+
+686
+00:46:07,440 --> 00:46:11,280
+Sì, allora, innanzitutto, due considerazioni di fondo.
+
+687
+00:46:11,280 --> 00:46:18,320
+Attualmente Numbers così come PIS hanno potenti strumenti di automazione, ma solo
+
+688
+00:46:18,320 --> 00:46:25,040
+su macOS e solo, chiamiamola così, utilizzando Apple Script o JavaScript se
+
+689
+00:46:25,360 --> 00:46:30,320
+si vuole andare sulla nuova via, anche se non so quanto poi
+
+690
+00:46:30,320 --> 00:46:32,320
+seguita da Apple.
+
+691
+00:46:32,320 --> 00:46:38,560
+Per quanto riguarda invece comandi rapidi su iOS e iPadOS, purtroppo invece
+
+692
+00:46:38,560 --> 00:46:40,480
+le azioni sono veramente poche.
+
+693
+00:46:40,480 --> 00:46:45,200
+Si riesce a fare veramente il minimo sindacale, chiamiamoli in questo termine.
+
+694
+00:46:45,200 --> 00:46:49,440
+È un po' assurdo che posto che adesso comandi rapidi è stato
+
+695
+00:46:49,440 --> 00:46:51,440
+anche portato su macOS.
+
+696
+00:46:51,440 --> 00:46:56,480
+I risultati per queste applicazioni con comandi rapidi siano quasi inesistenti.
+
+697
+00:46:56,480 --> 00:47:00,400
+Addirittura su M'ECOS i comandi sono veramente pochissimi.
+
+698
+00:47:00,960 --> 00:47:04,800
+Su iOS c'è qualcosa di più, ma in pratica si può creare
+
+699
+00:47:04,800 --> 00:47:05,840
+un nuovo documento.
+
+700
+00:47:05,840 --> 00:47:08,720
+Aprire un documento, inserire.
+
+701
+00:47:08,720 --> 00:47:12,160
+Ecco, l'unica cosa in number che si riesce a fare è inserire
+
+702
+00:47:12,240 --> 00:47:16,480
+però, solo in determinati punti della tabella dei dati nuovi.
+
+703
+00:47:16,480 --> 00:47:20,000
+Quindi, per esempio, ho creato un'automazione per iOS per inserire appunto i
+
+704
+00:47:20,000 --> 00:47:25,000
+famosi dati della spesa, chiamiamoli in questi termini, perché praticamente appunto basta,
+
+705
+00:47:25,040 --> 00:47:28,640
+la data viene inserita nel momento in cui si genera, si lancia
+
+706
+00:47:28,640 --> 00:47:34,600
+automaticamente il comando rapido e quindi poi rimane da inserire la spesa
+
+707
+00:47:29,920 --> 00:47:37,240
+e la voce di spesa fatta.
+
+708
+00:47:37,400 --> 00:47:42,200
+Però, sì, è comunque abbastanza complicato e non semplice.
+
+709
+00:47:42,200 --> 00:47:45,240
+Gli Apple Script invece sono veramente avanzati.
+
+710
+00:47:45,240 --> 00:47:50,520
+Direi che non ha molto senso parlarne troppo perché comunque in un
+
+711
+00:47:50,520 --> 00:47:56,680
+podcast oggettivamente si fa fatica a raccontare bene a spiegare bene.
+
+712
+00:47:56,680 --> 00:48:00,040
+Ho già più o meno detto quel che sono riuscito a fare
+
+713
+00:48:00,040 --> 00:48:05,720
+io nell'ultimo periodo con questi sistemi, quello che segnalo invece è il
+
+714
+00:48:05,720 --> 00:48:11,720
+sito IWORKS Automation di Sal Soghoian, che era il maestro delle automazioni,
+
+715
+00:48:11,960 --> 00:48:16,120
+dove effettivamente in lingua inglese si trova veramente un sacco di materiali
+
+716
+00:48:16,120 --> 00:48:16,920
+di riferimento.
+
+717
+00:48:16,920 --> 00:48:23,080
+E appunto tutta l'automazione per creare gli attestati e inviarli ai destinatari,
+
+718
+00:48:23,080 --> 00:48:30,840
+l'ho basata su un mini programmino creato in AppleScript dallo stesso Sal,
+
+719
+00:48:30,840 --> 00:48:36,440
+che quindi mi ha permesso di estrapolare senza troppi problemi e in
+
+720
+00:48:36,440 --> 00:48:38,200
+modo molto semplice.
+
+721
+00:48:38,360 --> 00:48:39,240
+I dati.
+
+722
+00:48:39,240 --> 00:48:46,920
+Appunto, per esempio, per generare i famosi attestati in Pages, creare il
+
+723
+00:48:46,920 --> 00:48:53,000
+PDF stesso e soprattutto inviare le singole mail con lo specifico attestato
+
+724
+00:48:53,000 --> 00:48:57,080
+predisposto per la specifica persona a cui doveva essere inviata la mail,
+
+725
+00:48:57,080 --> 00:48:59,480
+tutto in pochissimo tempo.
+
+726
+00:48:59,480 --> 00:49:05,480
+Quindi segnalo proprio queste risorse perché, anche, per esempio, l'automazione da modelli
+
+727
+00:49:05,480 --> 00:49:10,680
+e con il segno a posto l'ho copiata, rubata in parte dalle
+
+728
+00:49:10,680 --> 00:49:16,800
+automazioni che aveva reso disponibile SAL e quindi sono uno strumento sicuramente
+
+729
+00:49:16,800 --> 00:49:23,040
+utile per imparare e capire anche cosa è possibile fare con questi
+
+730
+00:49:23,040 --> 00:49:23,440
+strumenti.
+
+731
+00:49:23,600 --> 00:49:27,440
+Sì, stavo guardando tra l'altro il sito, stavo cercando un po' di
+
+732
+00:49:27,440 --> 00:49:31,200
+capire se in effetti è ancora in essere.
+
+733
+00:49:31,200 --> 00:49:35,520
+Mi pare che, però, l'ultimo articolo sia del 2016.
+
+734
+00:49:35,520 --> 00:49:37,280
+Se correggimi se sbaglio.
+
+735
+00:49:37,920 --> 00:49:41,600
+Allora, tu consideri che, però, è tutta Apple Script.
+
+736
+00:49:41,600 --> 00:49:45,840
+Non ci sono novità nell'Equoscript da decenni, secondo me.
+
+737
+00:49:46,080 --> 00:49:50,960
+Quindi tu considera che tutto il materiale è ancora valido, sal, secondo
+
+738
+00:49:50,960 --> 00:49:55,600
+me, è uscito da Apple ormai da svariati anni, adesso sta facendo
+
+739
+00:49:55,600 --> 00:50:00,960
+del lavoro per la Omni Group, cioè quelli di OmniFocus, Omni Graphel,
+
+740
+00:50:01,120 --> 00:50:03,120
+omni outliner e così via.
+
+741
+00:50:03,280 --> 00:50:05,760
+Con JavaScript, perché praticamente
+
+742
+00:50:07,040 --> 00:50:12,080
+prima che diciamo i comandi rapidi fosse introdotto anche fosse da una
+
+743
+00:50:12,080 --> 00:50:19,040
+parte, acquisito workflow per iOS, poi diventasse comandi rapidi e fosse implementato
+
+744
+00:50:19,040 --> 00:50:20,560
+anche su macOS.
+
+745
+00:50:20,560 --> 00:50:27,120
+Le automazioni cross platform, cioè tra iOS e macOS, potevano essere fatte
+
+746
+00:50:27,120 --> 00:50:28,880
+esclusivamente con JavaScript.
+
+747
+00:50:28,880 --> 00:50:33,760
+Ovviamente in questo caso le applicazioni per iOS dovevano essere compatibili con
+
+748
+00:50:33,760 --> 00:50:34,960
+JavaScript.
+
+749
+00:50:34,960 --> 00:50:40,400
+Nella sostanza, l'OmniGroup a tutte le sue applicazioni, funzionano anche in questa
+
+750
+00:50:40,400 --> 00:50:45,120
+maniera e quindi è possibile utilizzare JavaScript perché creare automazioni che funzionano
+
+751
+00:50:45,120 --> 00:50:48,400
+sia su Mac che su iOS.
+
+752
+00:50:48,400 --> 00:50:53,040
+Adesso Sasagon si occupa di questo, però il sito e la maggior
+
+753
+00:50:53,040 --> 00:50:59,240
+parte dei consigli che dà sono al 100% operativi e infatti, tuttora,
+
+754
+00:50:59,120 --> 00:51:03,480
+è una risorsa che io ritengo indispensabile se si vuole fare automazione
+
+755
+00:50:59,840 --> 00:51:05,160
+con Apple Script su Mac.
+
+756
+00:51:05,400 --> 00:51:09,080
+E devo dire la verità: ho imparato un sacco di cose dal
+
+757
+00:51:09,080 --> 00:51:13,960
+sito perché Sal era veramente un evangelista di Apple Script.
+
+758
+00:51:13,960 --> 00:51:17,960
+Sì, assolutamente sì, ne ho sentito parlare addirittura io, quindi fatevene un'idea
+
+759
+00:51:17,960 --> 00:51:19,800
+di quanto può essere famoso.
+
+760
+00:51:19,800 --> 00:51:25,960
+Invece rimango ancora sempre un po' non dico contrariato, ma non mi
+
+761
+00:51:26,520 --> 00:51:31,080
+rende ancora facile l'utilizzo di comandi rapidi su Mac OS.
+
+762
+00:51:31,080 --> 00:51:34,760
+Mi sembra ancora un po' i primordi, invece su iPadOS e
+
+763
+00:51:34,760 --> 00:51:37,720
+iOS, vediamo che le cose sono ben diverse.
+
+764
+00:51:37,720 --> 00:51:41,880
+C'è uno sviluppo decisamente più avanzato delle automazioni.
+
+765
+00:51:41,880 --> 00:51:46,360
+Se guardate anche semplicemente la galleria, ce ne sono veramente poco e
+
+766
+00:51:46,360 --> 00:51:51,640
+molto interessanti mentre su iPadOS c'è solo da sbizzarrirsi.
+
+767
+00:51:51,640 --> 00:51:55,640
+Comunque, vedremo anche sotto questo punto di vista, vista che si sta
+
+768
+00:51:55,640 --> 00:51:59,480
+avvicinando la WWDC 2023.
+
+769
+00:51:59,480 --> 00:52:00,600
+Vedremo cosa.
+
+770
+00:52:01,080 --> 00:52:04,680
+Se in questo caso ci saranno delle novità in questo senso e
+
+771
+00:52:04,680 --> 00:52:08,760
+speriamo di sì, perché visto che adesso ce l'ho, vorrei anche utilizzarlo
+
+772
+00:52:08,760 --> 00:52:09,880
+in modo proficuo.
+
+773
+00:52:10,040 --> 00:52:16,600
+Detto questo, ritorniamo invece per quanto riguarda su I work, Page Number
+
+774
+00:52:16,600 --> 00:52:17,960
+e Keynote.
+
+775
+00:52:17,960 --> 00:52:21,720
+Continuo a dire che, secondo me, è un'ottima suite che non vi
+
+776
+00:52:21,720 --> 00:52:26,440
+farà rimpiangere quella Microsoft, a meno che non siate obbligati a usarlo.
+
+777
+00:52:26,440 --> 00:52:30,680
+Allora, a questo punto rimpiangerete di utilizzare strumenti Microsoft.
+
+778
+00:52:30,680 --> 00:52:33,720
+Questa è la mia diretta opinione da utilizzatore.
+
+779
+00:52:33,960 --> 00:52:38,760
+Penso che di non essere smentito da molti, perché, come vi dicevamo,
+
+780
+00:52:38,760 --> 00:52:43,880
+Numbers ha sicuramente un sacco di opzioni, soprattutto dal punto di vista
+
+781
+00:52:43,880 --> 00:52:46,320
+visuale, che vi mettono a vostro agio.
+
+782
+00:52:46,560 --> 00:52:49,680
+Non mi sono trovato così a mio agio su Excel.
+
+783
+00:52:49,680 --> 00:52:56,080
+D'altra parte Excel per chi vuole smanettare, e come diceva ovviamente Daniele
+
+784
+00:52:56,400 --> 00:53:00,640
+in chat, c'è anche il VBA per chi vuole programmare, per chi
+
+785
+00:53:00,640 --> 00:53:05,200
+vuole farsi dei numeri da capogro, quelli sono gli strumenti probabilmente più
+
+786
+00:53:05,200 --> 00:53:11,280
+adatti, mentre probabilmente per noi comuni mortali, rimane sicuramente pages, numbers e
+
+787
+00:53:11,280 --> 00:53:15,280
+i keynote degli strumenti eccezionali per portare avanti il nostro lavoro.
+
+788
+00:53:15,280 --> 00:53:19,360
+Io direi che a questo punto, se Filippo è d'accordo, andrei a
+
+789
+00:53:19,360 --> 00:53:27,120
+chiudere la puntata, è l'unica che faccio: questa puntata verrà pubblicata, presumibilmente
+
+790
+00:53:27,520 --> 00:53:30,800
+dopo il WWD, immaginate.
+
+791
+00:53:30,880 --> 00:53:36,560
+Quindi, stiamo parlando di cose che, probabilmente, se stai ascoltando questa puntata,
+
+792
+00:53:36,560 --> 00:53:41,760
+saprai già, ma come dicevo, nella puntata scorsa, stiamo registrando per il
+
+793
+00:53:41,760 --> 00:53:44,960
+periodo estivo e quindi dobbiamo andare avanti.
+
+794
+00:53:45,600 --> 00:53:51,040
+Probabilmente stiamo registrando inizi di maggio e quindi, per noi, invece, il
+
+795
+00:53:51,040 --> 00:53:54,560
+WWDC è ancora lontano, un mesetto quasi.
+
+796
+00:53:54,560 --> 00:53:55,280
+Sì, esattamente.
+
+797
+00:53:55,280 --> 00:54:00,800
+Io ho sempre questa disfunzione tipicamente temporale, ma c'è il buon Filippo
+
+798
+00:54:00,960 --> 00:54:04,880
+che invece tenendo le reti sa di quello che si sta parlando.
+
+799
+00:54:04,880 --> 00:54:10,000
+Prima di darci per pazzi, vi ricordo che potete supportare il podcast
+
+800
+00:54:10,320 --> 00:54:14,400
+chiedendo semplicemente di mettere una recensione su Apple Podcast.
+
+801
+00:54:14,400 --> 00:54:16,880
+Ma se volete, potete anche mettere delle stelline.
+
+802
+00:54:17,120 --> 00:54:21,360
+Questo ci basta e ci avanza e ci aiuta a farci conoscere
+
+803
+00:54:21,360 --> 00:54:24,400
+di più per parlare delle cose che ci piacciono, tutti quanti insieme,
+
+804
+00:54:24,400 --> 00:54:28,000
+aumentiamo più le persone, più siamo persone, più ci divertiamo.
+
+805
+00:54:28,000 --> 00:54:30,840
+Se volete sapere come fare una recensione, trovete il link all'interno delle
+
+806
+00:54:30,840 --> 00:54:32,040
+note dell'episodio.
+
+807
+00:54:29,760 --> 00:54:34,200
+Mentre se volete iscriverci due righe e volete
+
+808
+00:54:29,920 --> 00:54:36,200
+entrare in contatto direttamente con noi.
+
+809
+00:54:36,360 --> 00:54:43,320
+L'indirizzo di posta a cui iscrivere è scrivi.a@a2podcast.it.
+
+810
+00:54:43,320 --> 00:54:46,600
+Trovate tutte le note dell'episodio con il link degli argomenti che abbiamo
+
+811
+00:54:46,600 --> 00:54:51,400
+trattato in questa puntata e tutti i nostri riferimenti su a2podcast.it
+
+812
+00:54:51,640 --> 00:54:53,000
+slash 60.
+
+813
+00:54:53,000 --> 00:54:54,520
+Dove ci potete trovare?
+
+814
+00:54:54,520 --> 00:54:55,400
+Roberto.
+
+815
+00:54:55,400 --> 00:55:00,200
+Praticamente che è sottoscritto, lo potete trovare sul blog Mac Architettura.
+
+816
+00:55:00,200 --> 00:55:04,120
+Che è diventato un po' la casa digitale che comprende tutti quanti
+
+817
+00:55:04,120 --> 00:55:09,720
+i miei vari esperimenti, chiamiamoli così, sui vari social e media, e
+
+818
+00:55:09,720 --> 00:55:11,560
+invece il nostro Filippo dove lo troviamo.
+
+819
+00:55:11,640 --> 00:55:12,520
+Avocate mach.
+
+820
+00:55:13,000 --> 00:55:15,080
+Benissimo, ci sentiamo tra due settimane.
+
+821
+00:55:15,080 --> 00:55:16,280
+Alla prossima,

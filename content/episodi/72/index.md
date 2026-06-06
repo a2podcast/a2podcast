@@ -11,14 +11,14 @@ tags = ["apple", "produttivita", "ospite"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "ysvagMwiNMo"
   guest = "valentina-de-poli"
 +++
 
 > In questa puntata Roberto e Filippo chiacchierano con Valentina De Poli. Parleremo della sua esperienza corporate e da libera professionista ovviamente in salsa Apple.
 
-# Note episodio
+## Note episodio
 
 * [Pagina Wikipedia di Valentina](https://it.wikipedia.org/wiki/Valentina_De_Poli)
 * [Lo spartiacque nella vita professionale di Valentina](https://fumettologica.it/2018/10/valentina-de-poli-topolino/)

@@ -11,13 +11,13 @@ tags = ["focus", "time-management", "apple", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "6jKhG2E_83I"
 +++
 
 > In questa puntata Roberto e Filippo parlano del perché è importante concentrarsi, le possibili tecniche e trucchi per farlo al meglio e come utilizzare la tecnologia Apple per avere un ulteriore aumento dell’effetto.
 
-# Note dell’episodio
+## Note dell’episodio
 
 
 ## Ricapitoliamo quanto detto nella puntata precedente

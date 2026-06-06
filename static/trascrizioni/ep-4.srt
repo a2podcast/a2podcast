@@ -1,0 +1,5275 @@
+1
+00:00:00,000 --> 00:00:04,960
+Benvenuti all'episodio 4 di A2, in cui scoprire come ottenere il massimo
+
+2
+00:00:04,960 --> 00:00:06,640
+della vostra tecnologia Apple.
+
+3
+00:00:06,640 --> 00:00:11,520
+Io sono Filippo Strozzi e sono il vostro ospite assieme all'amico Roberto
+
+4
+00:00:11,520 --> 00:00:12,160
+Marin.
+
+5
+00:00:12,160 --> 00:00:14,240
+Di cosa parliamo oggi, Roberto?
+
+6
+00:00:14,240 --> 00:00:20,960
+Ma quest'oggi abbiamo un argomento molto interessante perché ricopre molte diciamo molte
+
+7
+00:00:20,960 --> 00:00:22,080
+situazioni delle persone.
+
+8
+00:00:22,080 --> 00:00:25,600
+Perché meno male, da quello che si dice, l'iPhone pare che sia
+
+9
+00:00:25,600 --> 00:00:29,520
+uno degli strumenti più venduti in casa Apple anche dal fatturato, e
+
+10
+00:00:29,520 --> 00:00:34,960
+di conseguenza, in questo caso, noi parliamo di sistemi operativi iOS che
+
+11
+00:00:34,960 --> 00:00:37,520
+è nato su iPhone e anche di iPadOS.
+
+12
+00:00:37,520 --> 00:00:38,400
+Esatto, esatto.
+
+13
+00:00:39,200 --> 00:00:42,160
+Oggi parliamo delle cose che mi piacciono.
+
+14
+00:00:42,640 --> 00:00:46,000
+Sì, sì, questo è il tuo campo, e difatti mi sa che
+
+15
+00:00:46,000 --> 00:00:49,280
+starò un po' a ascoltare, ma magari qualcosa la dico anch'io.
+
+16
+00:00:49,280 --> 00:00:50,480
+Cosa dici Filippo?
+
+17
+00:00:50,480 --> 00:00:53,040
+C'è anche qualcosa che posso aggiungere?
+
+18
+00:00:53,040 --> 00:00:58,400
+Visto che tu praticamente lavori essenzialmente su piattaforma iPadOS, in questo
+
+19
+00:00:58,400 --> 00:01:02,320
+momento si chiama così, ma qui ne sei decisamente più tu di
+
+20
+00:01:02,320 --> 00:01:02,560
+me.
+
+21
+00:01:02,560 --> 00:01:05,920
+Io sono più spostato sul Mac, tu decisamente su iOS.
+
+22
+00:01:05,920 --> 00:01:10,560
+Ma nel periodo pandemico, attualmente ho ridotto notevolmente il lavoro che faccio
+
+23
+00:01:10,560 --> 00:01:14,000
+abitualmente su iPad, ma semplicemente per una questione di
+
+24
+00:01:15,600 --> 00:01:18,160
+ho il fisso sia a casa che in ufficio, ormai.
+
+25
+00:01:18,480 --> 00:01:24,240
+Quindi se devo lavorare lavoro ovviamente con una soluzione più stabile.
+
+26
+00:01:24,240 --> 00:01:28,320
+L'iPad diventava uno strumento di lavoro in mobilità molto comodo.
+
+27
+00:01:28,320 --> 00:01:35,120
+Oggi, in particolare, all'80-90% secondo me parleremo prevalentemente di iOS, perché nella
+
+28
+00:01:35,120 --> 00:01:39,600
+sostanza di roba ce n'è da dire, almeno per introdurre l'argomento.
+
+29
+00:01:39,600 --> 00:01:46,960
+Infatti, oggi parleremo delle basi di iOS e iPadOS, e effettivamente,
+
+30
+00:01:46,960 --> 00:01:53,920
+secondo me, il primo, diciamo, sicuramente iOS è quello che viene utilizzato
+
+31
+00:01:53,920 --> 00:01:59,840
+per la strama maggior parte delle persone, perché ovviamente l'iPhone rimane
+
+32
+00:02:01,240 --> 00:02:05,320
+uno strumento, anche se in Italia, da quello che ne so io,
+
+33
+00:02:05,560 --> 00:02:12,200
+predomina Android ancora, ma per esempio in America sicuramente l'iPhone e quindi
+
+34
+00:02:12,200 --> 00:02:13,160
+iOS
+
+35
+00:02:14,920 --> 00:02:19,560
+sui telefoni cellulari diciamo ha la predominanza.
+
+36
+00:02:20,760 --> 00:02:26,520
+Piccola storia, giusto per chi non avesse le basi, o come al
+
+37
+00:02:26,520 --> 00:02:32,520
+solito fosse passato da poco su iPhone, l'iPhone nasce nel 2007, quindi
+
+38
+00:02:32,520 --> 00:02:40,040
+ormai ha una reveranda età, mentre nel 2010 nasce lo spin-off, chiamiamolo
+
+39
+00:02:40,040 --> 00:02:46,520
+così, di iPad, il primo tablet vero presente sul mercato e diciamo
+
+40
+00:02:46,520 --> 00:02:48,120
+che sia iPhone che
+
+41
+00:02:49,400 --> 00:02:52,760
+iPad sono stati rivoluzionari.
+
+42
+00:02:52,760 --> 00:03:00,920
+L'iPhone perché è diventato l'archetipo degli smartphone, indiscutibilmente, prima dell'iPhone, quello che
+
+43
+00:03:00,920 --> 00:03:05,560
+c'era non erano i telefoni moderni, gli smartphone moderni attuali.
+
+44
+00:03:05,560 --> 00:03:12,120
+A prescindere che amiate o non amiate Apple, e l'iPad è il
+
+45
+00:03:12,120 --> 00:03:13,080
+tablet.
+
+46
+00:03:13,080 --> 00:03:18,120
+Questo è un dato di fatto perché a prescindere dall'amore o meno
+
+47
+00:03:18,280 --> 00:03:24,200
+per l'iPad, sicuramente i tablet Android hanno scarso pill e non sono
+
+48
+00:03:24,200 --> 00:03:26,520
+la fetta di mercato dei tablet.
+
+49
+00:03:26,520 --> 00:03:26,680
+Che
+
+50
+00:03:27,960 --> 00:03:36,120
+è predominante nell'assurdo, giusto per darti lo smacco, iPad gli iPad vendono
+
+51
+00:03:36,120 --> 00:03:40,280
+di più comunque dei Mac e nella sostanza, ci sono più esemplari
+
+52
+00:03:40,280 --> 00:03:41,000
+di iPad
+
+53
+00:03:42,200 --> 00:03:44,360
+che di Mac.
+
+54
+00:03:44,600 --> 00:03:50,320
+Per cui, eh questa lo dice molto lunga sulla questione, nel senso
+
+55
+00:03:50,320 --> 00:03:53,200
+che l'Apple ha diversificato molto.
+
+56
+00:03:53,440 --> 00:03:58,960
+Diciamo che era nata come azienda che vendeva computer, poi ha tirato
+
+57
+00:03:58,960 --> 00:04:00,640
+fuori da questo cappello.
+
+58
+00:04:00,640 --> 00:04:03,600
+L'iPhone che ha distrutto il mercato.
+
+59
+00:04:04,080 --> 00:04:06,960
+Ne sentivo proprio quest'oggi sul
+
+60
+00:04:08,240 --> 00:04:13,840
+podcast di Tucci, di Francesco Tucci, che si chiama Pillolit, che parlava
+
+61
+00:04:13,840 --> 00:04:17,200
+di quello che della tecnologia che c'era dieci anni fa, dieci anni
+
+62
+00:04:17,200 --> 00:04:21,760
+fa eravamo in mano a Blackberry BlackBerry con tastiera fisica.
+
+63
+00:04:21,760 --> 00:04:27,520
+Eravamo appollaiati sopra questo Blackberry e usavamo tutti una tastiera fisica finché
+
+64
+00:04:27,520 --> 00:04:32,640
+non è uscito questo iPhone, che con questo sistema operativo ha sconvolto
+
+65
+00:04:32,640 --> 00:04:37,600
+un po' la filiera dei cellulari, tant'è che Nokia ha dovuto chiudere
+
+66
+00:04:37,840 --> 00:04:44,080
+essenzialmente come Blackberry e poi, chiaramente l'iPad ha fatto, diciamo, il secondo
+
+67
+00:04:44,080 --> 00:04:47,920
+giro, nel senso che quando tu parli di un tablet, parli di
+
+68
+00:04:47,920 --> 00:04:51,360
+iPad alla fine, l'iPad e tablet sono la stessa cosa, è un
+
+69
+00:04:51,360 --> 00:04:55,440
+po' come i collant, il collante in realtà è il nome della
+
+70
+00:04:55,440 --> 00:04:59,680
+ditta che li produceva, e poi è diventato il nome che definisce
+
+71
+00:04:59,680 --> 00:05:02,080
+l'oggetto, e così è anche per l'iPad.
+
+72
+00:05:02,160 --> 00:05:05,200
+Tu, quando parli di iPad, parli di un tablet essenzialmente.
+
+73
+00:05:05,200 --> 00:05:10,320
+Quindi è una cosa che ha sconvolto molto perché questa tavoletta che
+
+74
+00:05:10,320 --> 00:05:14,160
+io dico sinceramente, quando l'ho preso la prima volta avevo comprato il
+
+75
+00:05:14,160 --> 00:05:14,960
+tablet.
+
+76
+00:05:15,120 --> 00:05:16,960
+È quello che ho ancora adesso.
+
+77
+00:05:17,280 --> 00:05:22,480
+Il mio mitico iPad air prima generazione 2013, è ancora lì.
+
+78
+00:05:22,480 --> 00:05:26,320
+Che fa di tutto e di più, viene super utilizzato dai miei
+
+79
+00:05:26,320 --> 00:05:31,400
+figli e un po' anch'io, e comunque è decisamente all'inizio, quando l'avevo
+
+80
+00:05:29,840 --> 00:05:31,560
+preso
+
+81
+00:05:29,920 --> 00:05:35,720
+in mano, ho detto, ma questo è semplicemente un iPhone più grande.
+
+82
+00:05:36,040 --> 00:05:38,120
+Subito mi era venuto in mente.
+
+83
+00:05:38,120 --> 00:05:43,320
+C'è da dire che da quando l'ho comprato, dal 2013 al 2021,
+
+84
+00:05:43,320 --> 00:05:45,800
+di passi in avanti ne ha fatti, vero Filippo?
+
+85
+00:05:45,800 --> 00:05:46,760
+Esatto, esatto.
+
+86
+00:05:46,920 --> 00:05:50,760
+Adesso, giusto per fare il mio solito recap storico, ma anche perché
+
+87
+00:05:50,760 --> 00:05:53,400
+ho fatto le mie ricerche.
+
+88
+00:05:53,640 --> 00:05:58,520
+iOS nasce come iPhone OS, è già la dice lunga su quello
+
+89
+00:05:58,520 --> 00:06:04,200
+che era il sistema operativo pensato da Apple esplicitamente ed esclusivamente per
+
+90
+00:06:04,200 --> 00:06:05,480
+l'iPhone.
+
+91
+00:06:05,480 --> 00:06:10,760
+Tra l'altro, le basi di iOS sono le basi di macOS, cioè
+
+92
+00:06:10,920 --> 00:06:19,320
+una versione ridotta, chiamiamola così, di macOS comunque, con ovviamente un'interfaccia totalmente
+
+93
+00:06:19,320 --> 00:06:21,400
+tattile e touch.
+
+94
+00:06:21,720 --> 00:06:27,560
+E da questa poi iOS di fatto è diventato il sistema operativo
+
+95
+00:06:27,560 --> 00:06:32,520
+sia degli iPhone che degli iPad fino a settembre 2019, dove Apple,
+
+96
+00:06:32,520 --> 00:06:39,240
+finalmente, dico io, ha deciso di dividere i rami di questi sistemi
+
+97
+00:06:39,240 --> 00:06:40,040
+operativi.
+
+98
+00:06:40,040 --> 00:06:46,280
+Che di fatto appunto l'iPhone grosso, tra virgolette, è un iPad, ebbene
+
+99
+00:06:46,520 --> 00:06:52,760
+nel 2019 settembre è stato inaugurato iPadOS, ed effettivamente dal 2019
+
+100
+00:06:53,400 --> 00:06:58,760
+Apple si è dedicata maggiormente anche se a danni alterni, non sempre
+
+101
+00:06:58,760 --> 00:07:06,520
+in maniera stabile, diciamo, a personalizzare, a rendere specifica l'esperienza di iPad
+
+102
+00:07:06,680 --> 00:07:11,560
+OS per l'iPad e gli iOS, invece specificamente
+
+103
+00:07:13,160 --> 00:07:14,920
+per gli smartphone Apple.
+
+104
+00:07:15,360 --> 00:07:17,120
+Per cui diciamo che
+
+105
+00:07:18,240 --> 00:07:22,640
+adesso siamo in un momento evoluto, l'iPad ha compiuto 10 anni ormai,
+
+106
+00:07:22,640 --> 00:07:27,200
+l'iPhone ha più di 10 anni, sono sistemi operativi che a questo
+
+107
+00:07:27,200 --> 00:07:31,920
+punto sono maturi è indiscutibile, devono ancora, probabilmente
+
+108
+00:07:33,520 --> 00:07:39,600
+avere quello che invece, per esempio, macOS, che credo abbia già ormai
+
+109
+00:07:39,920 --> 00:07:42,080
+20-25 anni.
+
+110
+00:07:42,320 --> 00:07:44,960
+Sì, una bella carriera sulle spalle.
+
+111
+00:07:45,360 --> 00:07:52,720
+Ovviamente non possono avere, però, sicuramente da sistemi operativi minimalisti, diciamo, perché
+
+112
+00:07:53,680 --> 00:07:59,120
+parliamoci chiaramente: nel 2007 non c'era l'App Store, c'erano 8 o 9
+
+113
+00:07:59,120 --> 00:08:04,480
+applicazioni sull'iPhone, e praticamente non si poteva fare tantissime cose, tra cui
+
+114
+00:08:05,440 --> 00:08:08,960
+credo che in iOS o iPhone OS 3 o 4 sia stato
+
+115
+00:08:09,120 --> 00:08:10,720
+aggiunto il tagli incolla.
+
+116
+00:08:10,720 --> 00:08:16,880
+Ah, sì, gli utenti Android sbeffeggiavano Apple per il fatto che non
+
+117
+00:08:16,880 --> 00:08:21,200
+c'erano delle funzioni chiamiamole così basilari all'epoca.
+
+118
+00:08:21,520 --> 00:08:27,200
+Tuttavia, nel tempo, con i tempi di Apple, con la modalità abbastanza
+
+119
+00:08:27,200 --> 00:08:29,920
+totalitarista di Apple, sicuramente
+
+120
+00:08:30,960 --> 00:08:34,640
+i due sistemi operativi, che a questo punto sono due sistemi operativi
+
+121
+00:08:35,520 --> 00:08:40,000
+diversi, anche se effettivamente sono fratelli, chiamiamoli così.
+
+122
+00:08:40,000 --> 00:08:45,840
+Non è che buona parte di quello che diremo su iOS è
+
+123
+00:08:45,840 --> 00:08:51,280
+in parte applicabile ad iPadOS e per iPadOS, diciamo, la mia idea
+
+124
+00:08:51,280 --> 00:08:55,200
+è quella di fare degli approfondimenti specifici più che altro per i
+
+125
+00:08:55,200 --> 00:08:59,680
+flussi di lavoro, il modo di utilizzare al meglio, questo strumento che
+
+126
+00:08:59,960 --> 00:09:07,560
+oggettivamente, con uno schermo dai 10 ai 13 pollici, sicuramente dà delle
+
+127
+00:09:07,560 --> 00:09:13,800
+possibilità che l'iPhone non ha e non potrà mai avere.
+
+128
+00:09:13,800 --> 00:09:18,120
+No, no, l'iPhone non può portarsi a livello di produttività di un
+
+129
+00:09:18,280 --> 00:09:23,880
+iPad, anche perché una cosa che secondo me, almeno per il mio
+
+130
+00:09:23,880 --> 00:09:27,640
+settore, parlo dell'architettura, è stato un game changer e quindi parlo di
+
+131
+00:09:27,640 --> 00:09:28,280
+Pencil.
+
+132
+00:09:28,280 --> 00:09:33,320
+Pencil la prima volta che l'ho provata, ero letteralmente senza parole.
+
+133
+00:09:33,320 --> 00:09:39,960
+Perché ti permette di avere praticamente una tavoletta grafica lì sulle mani,
+
+134
+00:09:39,960 --> 00:09:44,520
+senza grossi problemi, e ha una velocità di risposta che quando l'ho
+
+135
+00:09:44,520 --> 00:09:49,880
+provata, la prima interazione di Pencil non era sovrapponibile a nessuna tavoletta
+
+136
+00:09:49,880 --> 00:09:51,960
+grafica, era qualcosa di istantaneo.
+
+137
+00:09:51,960 --> 00:09:56,200
+Sembrava di scrivere sullo schermo, e adesso è ancora meglio perché all'epoca,
+
+138
+00:09:56,200 --> 00:10:00,360
+quando era uscito Pencil, lavorava a 60 Hz lo schermo, adesso mi
+
+139
+00:10:00,360 --> 00:10:02,200
+pare che siamo intorno ai 120 Hz.
+
+140
+00:10:02,280 --> 00:10:06,680
+Quindi, ragazzi miei, è un bello strumento soprattutto per chi si occupa
+
+141
+00:10:06,680 --> 00:10:09,480
+di grafica, ma non solo, perché so benissimo che Filippo.
+
+142
+00:10:09,560 --> 00:10:13,640
+Nonostante non si occupi di grafica, diciamo dal punto di vista professionale,
+
+143
+00:10:13,640 --> 00:10:17,320
+perché so che qualcosa di grafica lo fa, anche se si nasconde
+
+144
+00:10:17,320 --> 00:10:20,600
+molto bene e disegna molto bene, non lo tira fuori quando è
+
+145
+00:10:20,600 --> 00:10:21,320
+il caso.
+
+146
+00:10:21,320 --> 00:10:26,200
+Ma comunque in ogni caso, la questione non solo grafica dal punto
+
+147
+00:10:26,200 --> 00:10:29,960
+di vista dei disegni tecnici, come o dei disegni a mano libera,
+
+148
+00:10:29,960 --> 00:10:34,520
+ma anche nella scrittura, perché le nuove feature di iPadOS permettono
+
+149
+00:10:34,520 --> 00:10:39,000
+appunto la scrittura a mano libera all'interno dei campi e riescono a
+
+150
+00:10:39,240 --> 00:10:40,760
+ricondurla all'italiano.
+
+151
+00:10:40,760 --> 00:10:47,040
+Quindi sicuramente l'arrivo di pencil su iPad, secondo me, è una di
+
+152
+00:10:47,040 --> 00:10:52,080
+quelle cose che ha ulteriormente incentivato la produttività con questi strumenti, che
+
+153
+00:10:52,080 --> 00:10:56,560
+indubbiamente continuo a dire, in questo momento, non quando sono nati, perché
+
+154
+00:10:56,560 --> 00:11:01,920
+l'iPad all'inizio era effettivamente un iPhone più grosso, ma adesso, avendo un
+
+155
+00:11:01,920 --> 00:11:07,200
+sistema operativo suo, avendo addirittura delle periferiche proprie, che l'iPhone non ce
+
+156
+00:11:07,200 --> 00:11:10,720
+l'ha, per esempio, la tastiera è una tastiera fatta apposta da Apple,
+
+157
+00:11:10,720 --> 00:11:15,200
+e conseguentemente anche Pencil avete tutta una serie di strumenti da utilizzare
+
+158
+00:11:15,200 --> 00:11:20,480
+che rendono in effetti l'iPad qualcosa di molto simile a un Mac.
+
+159
+00:11:20,480 --> 00:11:25,360
+Se voi mettete un Mac e un iPad di fianco in 13
+
+160
+00:11:25,360 --> 00:11:29,760
+pollici, a parte il sistema operativo, voi potete lavorare tranquillamente.
+
+161
+00:11:29,760 --> 00:11:34,800
+Chiaramente alcuni strumenti professionali non li potete trovare perché sono strumenti che
+
+162
+00:11:34,800 --> 00:11:39,520
+sono nanti sul Mac e non sono stati portati su iPad.
+
+163
+00:11:39,520 --> 00:11:43,440
+Però c'è altro da dire che adesso gli strumenti che ci sono
+
+164
+00:11:43,440 --> 00:11:46,480
+su iPad molto probabilmente arriveranno su Mac.
+
+165
+00:11:46,480 --> 00:11:50,080
+Ad esempio, una caso è Sharp 3D, che è un'applicazione che è
+
+166
+00:11:50,080 --> 00:11:55,840
+nata su iPad, per fare modellazione tridimensionale con la Pencil, è arrivata
+
+167
+00:11:55,840 --> 00:11:59,200
+come per magia anche su Mac, grazie all'avvento di M1, ma non
+
+168
+00:11:59,200 --> 00:12:03,120
+solo perché sto provando addirittura la beta di questa applicazione
+
+169
+00:12:04,160 --> 00:12:05,920
+su piattaforma Intel.
+
+170
+00:12:05,920 --> 00:12:09,200
+Quindi diciamo che la cosa si fa molto interessante.
+
+171
+00:12:09,200 --> 00:12:15,120
+Voi immaginate tra pochi anni di avere delle applicazioni che passare dall'iPad
+
+172
+00:12:15,280 --> 00:12:19,840
+al Mac e viceversa, non c'è veramente continuità su tutto il punto
+
+173
+00:12:19,840 --> 00:12:20,320
+di vista.
+
+174
+00:12:20,280 --> 00:12:24,880
+Sì, sì, e poi già tantissime applicazioni appunto con la funzione continuity
+
+175
+00:12:25,520 --> 00:12:26,800
+ti permettono
+
+176
+00:12:27,920 --> 00:12:31,160
+meno complicate di quelle che ovviamente stai citando tu.
+
+177
+00:12:31,320 --> 00:12:35,080
+Tuttavia, ti permettono ovviamente di fare di passare, per esempio, di iniziare
+
+178
+00:12:35,080 --> 00:12:39,960
+a scrivere la mail sul Mac e passarla sull'iPad o il contrario.
+
+179
+00:12:39,960 --> 00:12:43,960
+Comunque, torniamo a bomba visto che abbiamo fatto già la nostra solita
+
+180
+00:12:43,960 --> 00:12:48,680
+introduzione di 15 minuti quasi per non smentirci mai.
+
+181
+00:12:48,920 --> 00:12:51,640
+Iniziamo a vedere un po' le cose da sapere.
+
+182
+00:12:51,800 --> 00:12:56,920
+La prima cosa da sapere sono le informazioni sui gesti per interagire
+
+183
+00:12:56,920 --> 00:12:57,800
+con l'iPhone.
+
+184
+00:12:58,040 --> 00:13:01,480
+Qui devo dire la verità: io ormai li conosco solo in lingua
+
+185
+00:13:01,480 --> 00:13:04,840
+inglese e quindi io parlo in lingua inglese, ma devo dire la
+
+186
+00:13:04,840 --> 00:13:05,240
+verità.
+
+187
+00:13:05,240 --> 00:13:11,640
+Facendogli approfondimenti del caso, ho trovato, anzi, nella note di questo episodio,
+
+188
+00:13:11,640 --> 00:13:17,880
+avrete ovviamente tutti i link dei riferimenti che facciamo ovviamente nel corso
+
+189
+00:13:17,880 --> 00:13:24,120
+della puntata, ho trovato invece tutte le descrizioni dei gesti, quindi delle
+
+190
+00:13:24,120 --> 00:13:30,520
+gesture vengono chiamate in lingua inglese per iPhone ed effettivamente è interessante
+
+191
+00:13:30,680 --> 00:13:34,120
+perché non le conoscevo, devo dire la verità.
+
+192
+00:13:34,120 --> 00:13:37,800
+E la prima è il tap, quello che spesso e volentieri viene
+
+193
+00:13:37,800 --> 00:13:41,800
+definito come tap, anzi, dovrò ottimizzare anche i miei articoli su avvocati
+
+194
+00:13:41,880 --> 00:13:45,320
+e Mac utilizzando la terminologia giusta, e tocca.
+
+195
+00:13:45,320 --> 00:13:49,880
+Quindi, il primo comando, ovviamente, quello più banale, è quello di toccare
+
+196
+00:13:50,840 --> 00:13:55,720
+lo schermo capacitivo nella sostanza dell'iPhone per
+
+197
+00:13:57,000 --> 00:14:00,680
+interagire fisicamente con il dispositivo.
+
+198
+00:14:00,680 --> 00:14:06,280
+Poi abbiamo il tocca che tieni premuto, che è il trapp prolungato,
+
+199
+00:14:06,280 --> 00:14:12,360
+chiamiamolo così, che permette di andare, per esempio nelle opzioni delle varie
+
+200
+00:14:12,360 --> 00:14:13,080
+applicazioni.
+
+201
+00:14:13,080 --> 00:14:19,760
+Tra l'altro, un'altra cosa che bisogna ricordare, però, è dato per scontato,
+
+202
+00:14:19,840 --> 00:14:25,280
+però, ci sono alcuni dispositivi, mi pare fino all'iPhone 8 se non
+
+203
+00:14:25,280 --> 00:14:30,800
+erro, che il sistema operativo sotto un certo punto di vista cambia
+
+204
+00:14:30,800 --> 00:14:35,840
+rispetto ai moderni iPhone, per moderni, intendo tutto ciò che dall'iPhone 10
+
+205
+00:14:36,000 --> 00:14:40,800
+in avanti, diciamo che l'interfaccia grafica è leggermente cambiata.
+
+206
+00:14:40,800 --> 00:14:43,040
+C'è qualche gesture un po' diversa.
+
+207
+00:14:43,040 --> 00:14:45,040
+Tuttav niente di particolare.
+
+208
+00:14:45,040 --> 00:14:49,680
+Tuttavia, vai pure avanti, sono curioso di vedere questo tocca e tieni
+
+209
+00:14:49,680 --> 00:14:50,400
+premuto.
+
+210
+00:14:50,720 --> 00:14:52,400
+Quello è il tocca, tieni premuto.
+
+211
+00:14:52,400 --> 00:14:53,520
+Ti permette sostanzialmente.
+
+212
+00:14:53,600 --> 00:14:56,640
+Io adesso lo sto facendo, per esempio, su draft.
+
+213
+00:14:56,640 --> 00:15:04,160
+Se tengo premuto, compare un menu contestuale, chiamiamolo così, dove è possibile
+
+214
+00:15:04,160 --> 00:15:06,400
+scegliere varie opzioni e varie.
+
+215
+00:15:06,400 --> 00:15:13,040
+Non so, per esempio, c'è l'opzione di ricerca, l'opzione di accedere all'ultimo
+
+216
+00:15:13,040 --> 00:15:15,600
+draft, di dettare con la voce.
+
+217
+00:15:15,600 --> 00:15:20,560
+Adesso non sto facendo la traduzione automatica dall'inglese all'italiano perché ovviamente draft
+
+218
+00:15:20,560 --> 00:15:22,320
+non c'è in lingua italiana.
+
+219
+00:15:22,320 --> 00:15:24,640
+Adesso provo a vedere to doist se mi.
+
+220
+00:15:24,800 --> 00:15:30,240
+No, suist se me lo fa, si, anche to doist, anche to
+
+221
+00:15:30,240 --> 00:15:35,360
+doist, mi da la possibilità di aggiungere attività, di vedere quelle di
+
+222
+00:15:35,360 --> 00:15:37,280
+oggi o le prossime attività.
+
+223
+00:15:37,280 --> 00:15:39,440
+Quasi tutte le applicazioni ormai ce l'hanno.
+
+224
+00:15:39,440 --> 00:15:43,600
+Ecco una, ad esempio, che non si sto guardando Notion.
+
+225
+00:15:43,600 --> 00:15:44,640
+Ad esempio, non ce l'ha.
+
+226
+00:15:44,640 --> 00:15:49,360
+Però, per esempio, se provate con Telegram, voi tenete premuto, potete fare,
+
+227
+00:15:49,360 --> 00:15:53,840
+potete andare ai messaggi salvati, acquisire foto video e fare un nuovo
+
+228
+00:15:53,840 --> 00:15:54,320
+messaggio.
+
+229
+00:15:54,320 --> 00:15:59,440
+Ma questo vale anche, per esempio, con le applicazioni di Apple, che
+
+230
+00:15:59,440 --> 00:16:02,600
+in questo momento guarda caso, mi dice: Vuoi mandare se io tengo
+
+231
+00:16:02,600 --> 00:16:03,800
+premuto su messaggi?
+
+232
+00:16:03,800 --> 00:16:06,840
+Mi dice: Vuoi mandare un messaggio a Filippo Strozzi?
+
+233
+00:16:07,400 --> 00:16:10,360
+Mandami un messaggino dai, te lo mando subito, amico.
+
+234
+00:16:10,920 --> 00:16:17,480
+Anzi, ti mando un selfie, allora poi abbiamo ovviamente anche l'opzione scorri:
+
+235
+00:16:18,120 --> 00:16:22,600
+che ci permette ovviamente nei menu o nelle pagine web di muoversi
+
+236
+00:16:22,600 --> 00:16:26,440
+avanti e indietro nello schermo, lo scorri è
+
+237
+00:16:27,560 --> 00:16:30,360
+può essere sia dal lato verso il basso che a destra a
+
+238
+00:16:30,440 --> 00:16:34,920
+sinistra per permetterci, poi di andare nelle varie schermate dalla Home
+
+239
+00:16:36,440 --> 00:16:39,000
+alle schermate successive dell'iPhone.
+
+240
+00:16:39,240 --> 00:16:45,560
+Abbiamo il trascina che invece ci permette di spostare, tenendo premuto, diciamo,
+
+241
+00:16:45,560 --> 00:16:51,160
+tenendo schiacciato se teniamo premuto, ovviamente ci permette di muovere
+
+242
+00:16:53,080 --> 00:16:54,520
+l'interfaccia video.
+
+243
+00:16:54,680 --> 00:17:00,200
+Poi abbiamo il cosiddetto pinch to zoom, cioè l'ingrandisci, che ha tutta
+
+244
+00:17:00,200 --> 00:17:01,480
+una serie di funzioni.
+
+245
+00:17:02,360 --> 00:17:05,640
+Ovi, per esempio, nelle foto ci permette
+
+246
+00:17:06,760 --> 00:17:11,960
+di zoomare sostanzialmente o di ridurre la dimensione delle foto.
+
+247
+00:17:11,960 --> 00:17:15,400
+Su una pagina web, su Safari, ci permette di
+
+248
+00:17:16,760 --> 00:17:19,880
+zoomare all'interno della pagina e così via.
+
+249
+00:17:20,040 --> 00:17:25,080
+Queste sono le impostazioni di base, diciamo, che dobbiamo conoscere il gergo,
+
+250
+00:17:25,080 --> 00:17:29,080
+diciamo che anzi, ci dovremmo abituare a utilizzare, perché io devo dire
+
+251
+00:17:29,080 --> 00:17:30,040
+la verità.
+
+252
+00:17:30,040 --> 00:17:34,200
+Probabilmente nel corso della puntata di rotta up quando invece bisognerebbe dire
+
+253
+00:17:34,200 --> 00:17:35,000
+tocca.
+
+254
+00:17:35,480 --> 00:17:40,040
+È ovvio che per lanciare le applicazioni basta toccare l'icona di un'applicazione
+
+255
+00:17:40,040 --> 00:17:43,000
+e automaticamente l'applicazione viene lanciata.
+
+256
+00:17:43,320 --> 00:17:48,880
+A questo punto l'applicazione viene, si può interagire appunto,
+
+257
+00:17:49,040 --> 00:17:53,360
+con il touch screen sostanzialmente nelle varie applicazioni.
+
+258
+00:17:53,680 --> 00:17:59,520
+Questa è proprio l'ABC dell'iPhone, però credo che sia fondamentale da avere
+
+259
+00:17:59,520 --> 00:18:05,920
+come base strutturale per poi interagire con tutti i vari sistemi del
+
+260
+00:18:06,800 --> 00:18:12,240
+mobile e Apple sostanzialmente, perché ovviamente questo funziona nella stessa maniera anche
+
+261
+00:18:12,400 --> 00:18:13,520
+l'iPad.
+
+262
+00:18:13,520 --> 00:18:17,360
+Con i dispositivi iPhone con Face ID, come dicevi tu, Roberto.
+
+263
+00:18:17,360 --> 00:18:25,120
+Poi abbiamo ulteriore particolarità: perché negli iPhone vecchi, diciamo, abbiamo il tasto
+
+264
+00:18:25,120 --> 00:18:31,360
+Home, il tasto Home che ci permette sostanzialmente di tornare alla home
+
+265
+00:18:31,360 --> 00:18:36,000
+o di aprire lo schermo dell'iPhone o dell'iPad, nel caso
+
+266
+00:18:37,280 --> 00:18:38,720
+fosse quello,
+
+267
+00:18:40,000 --> 00:18:45,360
+per tutti i nuovi dispositivi, sostanzialmente tutti i nuovi iPhone, invece abbiamo
+
+268
+00:18:45,360 --> 00:18:50,000
+il Face ID, perché nel tasto home sotto il tasto home, sostanzialmente
+
+269
+00:18:50,080 --> 00:18:56,480
+c'è anche il riconoscimento dell'impronota digitale che serve poi per sbloccare il
+
+270
+00:18:56,480 --> 00:18:57,600
+dispositivo.
+
+271
+00:18:57,600 --> 00:19:04,800
+Unica particolarità attualmente è l' nuovo iPad Air perché non c'è il
+
+272
+00:19:04,800 --> 00:19:07,120
+Face ID nell'ipad Air, ma
+
+273
+00:19:08,720 --> 00:19:14,960
+il TouchD, cioè il riconoscimento dell'impornota digitale, è nel pulsante di accensione
+
+274
+00:19:14,960 --> 00:19:17,680
+in alto sull'iPad, giusto come Kicka
+
+275
+00:19:19,600 --> 00:19:24,480
+per chi caso mai non lo sapesse, si trovasse con un iPad
+
+276
+00:19:24,720 --> 00:19:26,640
+Air di nuova generazione.
+
+277
+00:19:26,640 --> 00:19:32,760
+Ovviamente le gesture per iPhone con F6 ID sono lo swipe, cioè
+
+278
+00:19:33,000 --> 00:19:36,280
+o meglio, accedere alla schermata Home usando
+
+279
+00:19:37,720 --> 00:19:43,080
+il pollice o l'indice dal basso dello schermo dell'iPhone verso l'altro, che
+
+280
+00:19:43,720 --> 00:19:49,800
+è la nuova modalità per aprire il telefono, l'iconica invece modalità, era
+
+281
+00:19:50,360 --> 00:19:56,920
+swipe verso destra, swipe verso destra, quindi è trascina verso destra, detto
+
+282
+00:19:56,920 --> 00:19:59,080
+con le parole italiane di Apple,
+
+283
+00:20:00,360 --> 00:20:05,560
+a questo punto, sempre col Face ID c'è la noche cosiddetta noce,
+
+284
+00:20:05,560 --> 00:20:09,240
+cioè la nicchia dove ci sono poi i sensori per il Face
+
+285
+00:20:09,400 --> 00:20:11,720
+ID, e sulla parte destra
+
+286
+00:20:13,400 --> 00:20:18,440
+se si trascina il dito dal basso verso l'altro, si accede al
+
+287
+00:20:18,440 --> 00:20:19,880
+centro di controllo.
+
+288
+00:20:19,880 --> 00:20:23,560
+Ne parleremo dopo quindi non aggiungiamo.
+
+289
+00:20:23,880 --> 00:20:29,480
+Abbiamo la possibilità sempre di aprire le applicazioni cando dall'elenco.
+
+290
+00:20:30,440 --> 00:20:34,840
+Sto cercando di farlo anche contemporaneamente mentre lo faccio, ma mi si
+
+291
+00:20:34,840 --> 00:20:37,560
+chiude sempre l'iPhone e devo fare sempre il blocco.
+
+292
+00:20:38,920 --> 00:20:44,840
+L'altra cosa interessante dell'iPhone è che ovviamente c'è lo sfogliare delle applicazioni
+
+293
+00:20:44,840 --> 00:20:45,640
+aperte.
+
+294
+00:20:46,040 --> 00:20:52,920
+Sempre con questo, nella parte bassa dell'iPhone, utilizzando il pollice o l'indice
+
+295
+00:20:53,080 --> 00:20:55,640
+spostandosi da sinistra a destra.
+
+296
+00:20:55,640 --> 00:21:00,120
+Scusami, ci permette, ma anche da destra a sinistra, dire la verità,
+
+297
+00:21:00,200 --> 00:21:06,360
+se stiamo muovendoci da un'applicazione all'altra, ci permette di spostarsi da un'applicazione
+
+298
+00:21:06,360 --> 00:21:07,480
+all'altra.
+
+299
+00:21:07,480 --> 00:21:13,640
+Ovviamente, dopo abbiamo tutti i vari tasti aggiuntivi che qui direi che
+
+300
+00:21:13,880 --> 00:21:16,880
+non ha senso metterci a fare l'elencazione.
+
+301
+00:21:17,040 --> 00:21:22,640
+Tuttavia, queste sono tendenzialmente le informazioni di base che una persona dovrebbe
+
+302
+00:21:22,640 --> 00:21:23,360
+avere.
+
+303
+00:21:23,360 --> 00:21:28,080
+L'altra cosa interessante da tenere presente: ma secondo me, dopo ne parliamo
+
+304
+00:21:28,080 --> 00:21:31,600
+nella scaletta, ma già che ci siamo lo possiamo aggiungere.
+
+305
+00:21:31,600 --> 00:21:37,040
+Se si tocca lo schermo dell'iPhone e si trascina verso il basso,
+
+306
+00:21:37,680 --> 00:21:42,080
+si accede direttamente alla ricerca delle applicazioni e se l'avete attivato, i
+
+307
+00:21:42,080 --> 00:21:44,560
+suggerimenti Siri e così via.
+
+308
+00:21:44,800 --> 00:21:48,800
+E infine se si trascina dal basso verso l'alto
+
+309
+00:21:49,920 --> 00:21:56,800
+dall'alto verso il basso, sulla sinistra della noce, si ha invece il
+
+310
+00:21:56,800 --> 00:22:02,000
+centro notifica, quindi si può accedere direttamente al centro delle notifiche e
+
+311
+00:22:02,240 --> 00:22:03,680
+vedere appunto le notifiche.
+
+312
+00:22:03,680 --> 00:22:06,640
+Vabbè, è una cosa che io non faccio quasi mai, però è
+
+313
+00:22:06,800 --> 00:22:10,080
+giusto segnalarlo e specificarlo.
+
+314
+00:22:10,880 --> 00:22:11,520
+Vuoi andare?
+
+315
+00:22:11,520 --> 00:22:16,000
+Tu con come si attiva invece un iPhone, che è effettivamente l'altra
+
+316
+00:22:16,000 --> 00:22:18,080
+opzione possibile?
+
+317
+00:22:18,320 --> 00:22:23,360
+Adesso mi becchi ovviamente in fallo, perché chiaramente è una di quelle
+
+318
+00:22:23,360 --> 00:22:25,280
+cose che non è che faccio proprio tutti i giorni: quella di
+
+319
+00:22:25,280 --> 00:22:29,040
+attivare un iPhone, ma insomma, ci sono almeno tre modalità.
+
+320
+00:22:29,040 --> 00:22:35,360
+Abbiamo pensato, hai appena hai un iPhone nuovo, hai cambiato l'iPhone da
+
+321
+00:22:35,680 --> 00:22:39,360
+pochissimo, da un annetto anche tu, sì, da un annetto circa.
+
+322
+00:22:39,360 --> 00:22:44,160
+Diciamo che possiamo pensarla così: vi dico la mia esperienza di
+
+323
+00:22:45,280 --> 00:22:49,840
+Apple user e poi passiamo a quello che invece un Apple user
+
+324
+00:22:49,840 --> 00:22:51,760
+non è e lo sta diventando.
+
+325
+00:22:51,760 --> 00:22:53,680
+Dunque, la cosa molto
+
+326
+00:22:54,720 --> 00:23:00,680
+bella dei dispositivi Apple è la possibilità di appoggiarsi ai loro servizi
+
+327
+00:23:00,680 --> 00:23:05,640
+per riuscire a fare un passaggio indolore da un iPhone all'altro.
+
+328
+00:23:05,640 --> 00:23:11,400
+Hanno aggiunto recentemente la possibilità addirittura di avvicinare un iPhone a un
+
+329
+00:23:11,400 --> 00:23:17,480
+altro dispositivo Apple, ma sempre dotato penso di chip RFI oppure talmente
+
+330
+00:23:17,640 --> 00:23:19,800
+Bluetooth, non ho capito bene la tecnologia.
+
+331
+00:23:19,800 --> 00:23:24,280
+Ma fatto sta che io l'ho fatto da un iPhone 6 a
+
+332
+00:23:24,280 --> 00:23:29,880
+un iPhone 11, però quindi direi che la tecnologia è proprio minimale.
+
+333
+00:23:30,200 --> 00:23:32,760
+Bluetooth, probabilmente wifi.
+
+334
+00:23:33,000 --> 00:23:37,080
+Sì, anche perché l'ho fatto su un, anche secondo me, perché l'ho
+
+335
+00:23:37,080 --> 00:23:39,480
+fatto anche su un Apple TV.
+
+336
+00:23:39,480 --> 00:23:44,520
+Quindi, praticamente questa procedura ti permette, nel momento in cui, ad esempio,
+
+337
+00:23:44,520 --> 00:23:49,400
+l'Apple TV te lo chiede, di non inserire manualmente le proprie credenziali,
+
+338
+00:23:49,400 --> 00:23:53,960
+ma capisce che hai lì di fianco il tuo dispositivo, quindi essenzialmente
+
+339
+00:23:53,960 --> 00:23:56,680
+si ciuccia da lì le credenziali.
+
+340
+00:23:56,680 --> 00:24:01,960
+Ma non solo questo, ci si può ad esempio, cosa fondamentale, quando
+
+341
+00:24:01,960 --> 00:24:06,120
+si cambia un iPhone e fare un backup prima del dispositivo.
+
+342
+00:24:06,600 --> 00:24:11,400
+Io devo dire una cosa, che chiaramente sono sempre un po'.
+
+343
+00:24:11,400 --> 00:24:14,760
+Io mi scontro contro queste cose perché in effetti, Apple ha la
+
+344
+00:24:14,760 --> 00:24:19,960
+tendenza a dire: Sì, vabbè, pensa a quelli che si comprano un
+
+345
+00:24:19,960 --> 00:24:25,160
+iPhone recentissimo e hanno l'iPhone vecchio e fare il passaggio.
+
+346
+00:24:25,160 --> 00:24:29,400
+E quindi c'è una particolarità per questo passaggio in dolore dal passaggio
+
+347
+00:24:29,400 --> 00:24:33,400
+dei dati da un iPhone all'altro, e la questione è che entrambi
+
+348
+00:24:33,400 --> 00:24:37,000
+devono avere lo stesso sistema operativo, però, il problema è che se
+
+349
+00:24:37,000 --> 00:24:41,080
+ho un iPhone 7 che non ci arriva al nuovo sistema operativo,
+
+350
+00:24:41,080 --> 00:24:42,120
+che faccio?
+
+351
+00:24:42,120 --> 00:24:42,760
+Ah!
+
+352
+00:24:43,320 --> 00:24:44,120
+Lì nasce
+
+353
+00:24:45,280 --> 00:24:51,120
+complicata la cosa, quello è il problema, per esempio, esattamente.
+
+354
+00:24:51,120 --> 00:24:56,400
+Quindi tendenzialmente, questo può essere molto utile nel caso in cui si
+
+355
+00:24:56,400 --> 00:25:01,360
+utilizza un backup i cloud, ma per fortuna esiste la seconda via
+
+356
+00:25:01,360 --> 00:25:04,560
+che è quello di utilizzare i backup tramite iTunes.
+
+357
+00:25:04,560 --> 00:25:09,600
+Quindi avere un computer su cui viene fatto questi backup tramite iTunes,
+
+358
+00:25:09,600 --> 00:25:10,640
+è una cosa abbastanza semplice.
+
+359
+00:25:10,640 --> 00:25:15,600
+Voi infilate il cavo del vecchio cellulare, fate il backup dei dati
+
+360
+00:25:15,920 --> 00:25:20,160
+e poi quando attaccate il nuovo cellulare, lo attaccate e fate decisamente
+
+361
+00:25:20,480 --> 00:25:26,960
+un ripristino, chiamiamolo così veloce delle proprie impostazioni in modo assolutamente trasparente.
+
+362
+00:25:26,960 --> 00:25:30,960
+Voi considerate che a me conviene fare questo perché è una linea
+
+363
+00:25:30,960 --> 00:25:33,440
+che ci vogliono i cricetti.
+
+364
+00:25:33,440 --> 00:25:36,240
+Se gli chiedono di farmi fare tirare su un backup
+
+365
+00:25:37,520 --> 00:25:42,640
+dalla rete con la linea che ho, praticamente lo lascio lì la
+
+366
+00:25:42,640 --> 00:25:46,560
+sera, forse per mezzogiorno del giorno dopo, forse ho il backup fatto.
+
+367
+00:25:46,560 --> 00:25:50,000
+Quindi considerate anche la mole di dati che avete e che linea
+
+368
+00:25:50,000 --> 00:25:50,560
+avete.
+
+369
+00:25:50,560 --> 00:25:53,600
+In ogni caso, io ho trovato sempre abbastanza molto sicuro e molto
+
+370
+00:25:53,600 --> 00:25:58,960
+veloce da fare il trasferimento dei dati tramite un Mac, è molto
+
+371
+00:25:58,960 --> 00:26:01,440
+più semplice perché è velocissimo.
+
+372
+00:26:01,440 --> 00:26:06,160
+E la cosa interessante è che lascia sempre tutti molto basiti: che
+
+373
+00:26:06,480 --> 00:26:10,400
+voi abbandonate il cellulare vecchio, prendete quello nuovo che ha le stesse
+
+374
+00:26:10,400 --> 00:26:14,160
+impostazioni, le icone messe nello stesso posto, le impostazioni messe allo stesso
+
+375
+00:26:14,160 --> 00:26:17,200
+posto, le foto backuppate, i contatti giusti.
+
+376
+00:26:17,200 --> 00:26:20,960
+Quindi è una cosa molto molto facile a meno che non avate
+
+377
+00:26:20,960 --> 00:26:22,160
+due sistemi operativi diversi.
+
+378
+00:26:22,120 --> 00:26:25,920
+Allora, allora a quel punto avete qualche piccolo problema, ma si risolve
+
+379
+00:26:25,920 --> 00:26:26,880
+anche quello.
+
+380
+00:26:26,960 --> 00:26:31,720
+Una piccola precisazione, perché questa è una cosa che non tutti sanno,
+
+381
+00:26:29,760 --> 00:26:34,200
+e tu la sei ricordata quindi può essere.
+
+382
+00:26:34,520 --> 00:26:41,160
+Ricordatevi sempre che se volete avere il backup completo, c'è da impostare
+
+383
+00:26:41,160 --> 00:26:47,400
+la password nel backup perché altrimenti tutti i dati biometrici, le password
+
+384
+00:26:47,480 --> 00:26:53,480
+già salvate all'interno dell'iPhone, per esempio, per accedere a una determinata applicazione
+
+385
+00:26:53,640 --> 00:26:56,200
+e così via, non vengono trasportate.
+
+386
+00:26:56,200 --> 00:27:02,600
+Cioè, la configurazione base viene trasportata da un iPhone all'altro, ma non
+
+387
+00:27:02,600 --> 00:27:03,800
+questo materiale.
+
+388
+00:27:03,800 --> 00:27:06,680
+Quindi, se per esempio avete un Apple Watch, per esempio, tutti i
+
+389
+00:27:06,680 --> 00:27:10,040
+dati biometrici non vengono trasferiti.
+
+390
+00:27:10,360 --> 00:27:14,600
+Attenzione: io consiglio sempre: oltre a fare il backup, fatelo con la
+
+391
+00:27:14,600 --> 00:27:17,480
+password, ovviamente la password che bisogna ricordarsi.
+
+392
+00:27:17,880 --> 00:27:23,720
+A questo punto potete trasferire praticamente senza colpo ferire tutti i dati
+
+393
+00:27:23,720 --> 00:27:28,200
+completi del vecchio iPhone nel nuovo iPhone.
+
+394
+00:27:28,680 --> 00:27:33,080
+Questa è una cosa da tenere presente perché alcune volte la gente
+
+395
+00:27:33,080 --> 00:27:35,560
+non ha ben presente
+
+396
+00:27:36,840 --> 00:27:41,080
+i sistemi di sicurezza che ha impostato Apple, che sono effettivamente anche
+
+397
+00:27:41,080 --> 00:27:44,520
+abbastanza significativi e che però sono necessari.
+
+398
+00:27:44,520 --> 00:27:49,000
+Altra piccola cosa che dico: ovviamente è backup ai cloud.
+
+399
+00:27:49,000 --> 00:27:53,720
+Abitualmente dovete avere comunque un piano i cloud di dati perché altrimenti
+
+400
+00:27:53,720 --> 00:27:54,680
+nei 5 MB
+
+401
+00:27:56,200 --> 00:28:00,200
+GB il backup non lo fa o non avete praticamente niente sul
+
+402
+00:28:00,200 --> 00:28:03,800
+telefono o nei 5 GB non lo fate.
+
+403
+00:28:03,800 --> 00:28:07,080
+Devo dire la verità, anche in questo caso, io, per esempio, non
+
+404
+00:28:07,080 --> 00:28:10,200
+faccio i backup ai cloud per la professione che svolgo e quindi
+
+405
+00:28:10,200 --> 00:28:15,280
+non voglio lasciare ad Apple i dati potenzialmente anche dei miei clienti
+
+406
+00:28:14,760 --> 00:28:16,560
+che sono presenti
+
+407
+00:28:14,920 --> 00:28:20,080
+più che sul telefono o sull'iPad.
+
+408
+00:28:20,480 --> 00:28:25,760
+Però, ho fatto e trovo comodissimo, avendo io 2TB di spazio ai
+
+409
+00:28:25,840 --> 00:28:30,560
+cloud, che condivido in famiglia, ho fatto i backup del telefono di
+
+410
+00:28:30,560 --> 00:28:36,480
+mia moglie e quello è stato tuttora salvifico, nel senso che non
+
+411
+00:28:36,480 --> 00:28:38,960
+ci sono stati problemi a ripristinare.
+
+412
+00:28:38,960 --> 00:28:43,920
+Ovviamente avendo un buon collegamento internet, non c'è il problema di ricordarsi
+
+413
+00:28:43,920 --> 00:28:47,600
+di dover fare i backup, perché anche qui l'altra questione è che
+
+414
+00:28:47,600 --> 00:28:53,280
+dovete ricordarvi di collegare il vostro iPhone al computer e fare almeno
+
+415
+00:28:53,280 --> 00:28:56,240
+settimanalmente il backup di tutti i dati.
+
+416
+00:28:56,560 --> 00:29:01,600
+Altrimenti rischiate poi che se vi rubano l'iPhone, si rompe l'iPhone, non
+
+417
+00:29:01,600 --> 00:29:05,120
+riuscite più a cedere agli iPhone, nella sostanza, avete perso tutto.
+
+418
+00:29:05,120 --> 00:29:11,280
+Quindi questa è una cosa fondamentale, ne riparleremo di backup, ma sicuramente
+
+419
+00:29:12,320 --> 00:29:16,000
+il telefono cellulare, in particolar modo con le foto e così via,
+
+420
+00:29:16,000 --> 00:29:19,520
+è uno di quegli strumenti a prescindere dall'attività lavorativa
+
+421
+00:29:20,640 --> 00:29:24,320
+che c'è più che fa più parte ormai di noi, della nostra
+
+422
+00:29:24,320 --> 00:29:26,320
+vita, ha dei ricordi, anche
+
+423
+00:29:27,840 --> 00:29:31,120
+tutte le chat di Whatsapp se siete iscritti al WhatsApp e così
+
+424
+00:29:31,120 --> 00:29:36,320
+via, tutti i messaggi, ovviamente, ha un contenuto di dati che da
+
+425
+00:29:36,320 --> 00:29:42,160
+perdere, o comunque non avere più a disposizione potrebbe dare fastidio ai
+
+426
+00:29:42,160 --> 00:29:42,480
+più.
+
+427
+00:29:42,480 --> 00:29:47,120
+Quindi, ovviamente, il consiglio è o fare un backup dei cloud se
+
+428
+00:29:47,120 --> 00:29:51,200
+non avete grossi problemi, e devo dire la verità: questo vi permette
+
+429
+00:29:51,200 --> 00:29:54,640
+nella sostanza di non pensarci più.
+
+430
+00:29:54,640 --> 00:29:57,360
+Quindi, io l'ho, per esempio, appunto per i miei familiari, l'ho fatto
+
+431
+00:29:57,360 --> 00:30:00,600
+proprio per quel motivo lì per rendere la vita più semplice a
+
+432
+00:30:00,600 --> 00:30:07,560
+me e a loro, se no, altrimenti ragionare di fare un piano
+
+433
+00:30:07,560 --> 00:30:11,400
+di backup anche abbastanza significativo.
+
+434
+00:30:11,400 --> 00:30:17,960
+Ultimissima cosa che segnalo: attenzione anche qui: i backup che fate.
+
+435
+00:30:18,040 --> 00:30:24,200
+Tendenzialmente vi vanno a mangiare spazio su disco, ovviamente, del vostro Mac.
+
+436
+00:30:24,200 --> 00:30:30,520
+Quindi, soprattutto con gli hard disk non generosissimi a stato solido di
+
+437
+00:30:30,520 --> 00:30:35,160
+Apple, rendetevi conto che se iniziate ad avere un iPhone con 50
+
+438
+00:30:35,160 --> 00:30:40,920
+GB di foto e fate più backup, vi mangiate praticamente tutto lo
+
+439
+00:30:40,920 --> 00:30:43,160
+spazio su disco del vostro Mac.
+
+440
+00:30:43,160 --> 00:30:47,080
+Quindi anche lì c'è da fare tutta una serie di ragionamenti che
+
+441
+00:30:47,080 --> 00:30:49,000
+è meglio avere presente.
+
+442
+00:30:50,680 --> 00:30:55,560
+Se vorrete in una futura puntata possiamo ragionare su come spostare i
+
+443
+00:30:55,560 --> 00:30:59,400
+backup non sul vostro Mac ma su un disco esterno e quindi
+
+444
+00:30:59,400 --> 00:31:02,440
+riuscire a gabolare Apple.
+
+445
+00:31:02,440 --> 00:31:07,000
+Tuttavia ci sono varie considerazioni da fare sul discorso di fare il
+
+446
+00:31:07,000 --> 00:31:11,720
+backup su i cloud o su Mac, proprio per quel motivo lì.
+
+447
+00:31:11,720 --> 00:31:15,480
+Uno dei motivi per cui per esempio io non faccio backup perché
+
+448
+00:31:15,640 --> 00:31:18,840
+bene o male non mi interessano, nel senso che ho le foto
+
+449
+00:31:18,840 --> 00:31:24,840
+comunque backup nel cloud di Apple e i dati diciamo seri dell'ufficio
+
+450
+00:31:25,000 --> 00:31:30,280
+non sono fisicamente sui dispositivi, non ho grossi problemi di gestione dei
+
+451
+00:31:30,280 --> 00:31:34,120
+miei dispositivi, e quindi alla fine non ho problemi di sorta.
+
+452
+00:31:34,160 --> 00:31:39,480
+Tuttavia ammetto che altrimenti il problema di fare dei backup e di
+
+453
+00:31:40,680 --> 00:31:46,000
+utilizzo di questo spazio è significativo, soprattutto se come molti ormai da
+
+454
+00:31:46,000 --> 00:31:50,800
+anni fate foto, le foto sono sul vostro cellulare e queste progressivamente
+
+455
+00:31:44,840 --> 00:31:52,080
+crescono a dismisura.
+
+456
+00:31:52,320 --> 00:31:55,200
+Sì, sì, la situazione è proprio esattamente quella.
+
+457
+00:31:55,200 --> 00:31:58,880
+Però volevo aggiungere un paio di cose, secondo me, al di là
+
+458
+00:31:58,880 --> 00:32:03,280
+del fatto che una puntata sui backup bisogna assolutamente farlo perché per
+
+459
+00:32:03,280 --> 00:32:05,600
+la professione sono fondamentali.
+
+460
+00:32:05,600 --> 00:32:10,400
+Quello che volevo aggiungere è che iTunes in sé non esiste più,
+
+461
+00:32:10,400 --> 00:32:16,080
+nel senso che quando voi collegate il cellulare, in realtà vi trovate
+
+462
+00:32:16,320 --> 00:32:20,320
+le impostazioni che avevate prima in iTunes sul Finder.
+
+463
+00:32:20,320 --> 00:32:22,960
+Quindi la situazione è leggermente cambiata.
+
+464
+00:32:22,960 --> 00:32:27,840
+Almeno da catalina, da Calina in avanti, quindi siamo già, sono già
+
+465
+00:32:27,840 --> 00:32:28,960
+due sistemi operativi.
+
+466
+00:32:28,960 --> 00:32:33,120
+Quindi, il terzo, fra poco, tira le cuoie, perché il prossimo anno
+
+467
+00:32:33,120 --> 00:32:34,560
+fanno il nuovo sistema operativo.
+
+468
+00:32:34,560 --> 00:32:36,000
+Quindi ce lo trascordiamo.
+
+469
+00:32:36,000 --> 00:32:38,960
+Quindi diventa essenzialmente la normalità.
+
+470
+00:32:38,960 --> 00:32:43,520
+È un po' particolare perché finché non vedete finché non collegate un
+
+471
+00:32:43,520 --> 00:32:47,920
+cellulare o un iPad, non vedete questa schermata, non sapete come arrivarci.
+
+472
+00:32:47,920 --> 00:32:51,920
+Ma comunque sono molto contento che abbiano un po' smembrato iTunes in
+
+473
+00:32:51,920 --> 00:32:54,800
+tutte le varie applicazioni, ma questo è un altro discorso.
+
+474
+00:32:54,800 --> 00:32:57,600
+L'altra cosa che volevo aggiungere, che non ho mai provato è che
+
+475
+00:32:57,600 --> 00:33:02,080
+c'è la possibilità di avere il backup via wifi nel momento in
+
+476
+00:33:02,080 --> 00:33:04,080
+cui sono sulla stessa rete.
+
+477
+00:33:04,080 --> 00:33:08,480
+Nel senso che non c'è bisogno di collegarlo fisicamente col cavo, ma
+
+478
+00:33:08,480 --> 00:33:12,400
+può anche succedere che potete avere il backup tramite wifi.
+
+479
+00:33:12,400 --> 00:33:16,080
+Io non l'ho mai fatto personalmente perché, come diceva Filippo, io sono
+
+480
+00:33:16,080 --> 00:33:19,520
+uno di quegli utenti Apple che ha poco spazio sull'hard disk e
+
+481
+00:33:19,520 --> 00:33:23,440
+quindi ha tutta una serie di scamotage per riuscire a fare backup
+
+482
+00:33:23,440 --> 00:33:26,160
+e metterlo da qualche altra parte che non sia sul mio hard
+
+483
+00:33:26,160 --> 00:33:28,800
+disk, perché se no, una volta che faccio il backup di tutti
+
+484
+00:33:28,800 --> 00:33:31,720
+i dispositivi che ci sono in casa, io non lavoro più.
+
+485
+00:33:31,720 --> 00:33:34,680
+Cioè, praticamente ho finito lo spazio e devo comprarmi un altro Mac
+
+486
+00:33:34,840 --> 00:33:39,000
+come minimo, visto che ormai i Mac hanno l'hard disk saldato e
+
+487
+00:33:39,000 --> 00:33:40,840
+quindi non c'è altra alternativa.
+
+488
+00:33:40,840 --> 00:33:45,800
+Che sia, magari una possibilità di Apple per aumentare le vendite, che
+
+489
+00:33:45,800 --> 00:33:49,640
+sia anche questa, ma chi lo sa, in ogni caso, sapete, Apple
+
+490
+00:33:49,640 --> 00:33:52,360
+dà con una mano e prende con l'altra
+
+491
+00:33:53,480 --> 00:33:59,960
+l'ultimissima cosa che dovremmo affrontare per l'attivazione, chiamiamola così, di iPhone.
+
+492
+00:33:59,960 --> 00:34:06,200
+Quindi, ovviamente, se è la prima volta che avete un iPhone, di
+
+493
+00:34:06,200 --> 00:34:09,720
+fatto c'è un sistema guidato che vi permette di creare un Apple
+
+494
+00:34:09,800 --> 00:34:16,360
+ID che è fondamentale nell'ecosistema Apple e soprattutto nell'ecosistema mobile di Apple.
+
+495
+00:34:16,680 --> 00:34:23,880
+E se venite da Android, in questo caso esiste anche l'applicazione che
+
+496
+00:34:23,880 --> 00:34:29,320
+si chiama Pass iOS, che vi permette che trovate sul Google Store
+
+497
+00:34:29,480 --> 00:34:32,920
+o come si chiama, Google Play Store deve essere.
+
+498
+00:34:32,920 --> 00:34:39,480
+E che ovviamente vi permette attraverso tutta una serie di interfacce di
+
+499
+00:34:39,480 --> 00:34:45,320
+trasferire i dati da un cellulare Android a un cellulare iOS.
+
+500
+00:34:45,560 --> 00:34:50,600
+Anche qui non stiamo a fare troppe descrizioni, anche perché credo nessuno
+
+501
+00:34:50,600 --> 00:34:52,920
+dei due abbia mai fatto questo passaggio.
+
+502
+00:34:52,920 --> 00:34:57,560
+C'è comunque anche qui una guida molto dettagliata di Apple per cui
+
+503
+00:34:57,560 --> 00:35:00,680
+la trovate come sempre nelle note dell'episodio.
+
+504
+00:35:00,680 --> 00:35:04,440
+A questo punto non ci rimane che passare alle impostazioni del dispositivo.
+
+505
+00:35:04,440 --> 00:35:08,360
+Avete un vostro bel nuovo dispositivo con iOS o con iPadOS
+
+506
+00:35:08,520 --> 00:35:10,360
+e dove le trovate le impostazioni?
+
+507
+00:35:10,360 --> 00:35:15,360
+Ma è semplice, c'è un'iconcina che vi guarda lì nella home perché
+
+508
+00:35:15,360 --> 00:35:19,600
+di sotto la trovate lì con scritto impostazioni dove potete trovare tutta
+
+509
+00:35:19,600 --> 00:35:24,720
+una serie di cose che vi risulteranno molto interessanti nel corso dell'utilizzo
+
+510
+00:35:24,720 --> 00:35:26,480
+del vostro dispositivo.
+
+511
+00:35:26,480 --> 00:35:28,640
+Essenzialmente cosa vi trovate?
+
+512
+00:35:28,800 --> 00:35:32,960
+Potete trovare una serie di impostazioni che riguardano appunto
+
+513
+00:35:34,880 --> 00:35:36,640
+lo guardo così tanto che non mi ricordo anche.
+
+514
+00:35:36,640 --> 00:35:39,520
+Dunque, sicuramente avete in prima battuta
+
+515
+00:35:41,440 --> 00:35:45,920
+le impostazioni che riguardano il vostro Apple ID dove praticamente con i
+
+516
+00:35:45,920 --> 00:35:51,360
+nuovi sistivi potete cercare di capire come sta andando il vostro account.
+
+517
+00:35:51,360 --> 00:35:55,920
+Che comunque è una cosa interessante perché anche il vostro account prende
+
+518
+00:35:55,920 --> 00:35:59,680
+un po' di spazio, indubbiamente è una cosa che
+
+519
+00:36:01,280 --> 00:36:05,600
+in questo momento dalle impostazioni non utilizzerete mai, ma avete tutta la
+
+520
+00:36:05,600 --> 00:36:10,400
+possibilità di capire se il wifi è acceso, il Bluetooth e tutta
+
+521
+00:36:10,400 --> 00:36:15,680
+la parte diciamo di connettività del vostro iPhone o iPad può essere
+
+522
+00:36:16,720 --> 00:36:21,520
+connesso o no, ma quello che sicuramente dovete dare una bella occhiata
+
+523
+00:36:21,920 --> 00:36:27,360
+riguarda la possibilità delle notifiche che io amo definire il male del
+
+524
+00:36:27,360 --> 00:36:31,280
+millennio perché purtroppo ci siamo beccati questo male, ce lo dobbiamo però
+
+525
+00:36:31,280 --> 00:36:32,240
+gestire.
+
+526
+00:36:32,240 --> 00:36:37,200
+Queste notifiche che continuano a venirvi a rompere le scatole, ma la
+
+527
+00:36:37,200 --> 00:36:42,080
+cosa interessante è che Apple ha messo una serie di impostazioni che
+
+528
+00:36:42,080 --> 00:36:44,480
+possono tornarvi davvero molto utili.
+
+529
+00:36:44,480 --> 00:36:49,440
+Per quanto mi riguarda, ci sono pochissime applicazioni che hanno la possibilità
+
+530
+00:36:49,440 --> 00:36:55,760
+di far vedere la loro notifica tramite una notifica sul blocco schermo
+
+531
+00:36:55,760 --> 00:36:58,320
+oppure sul centro notifica o sui banner.
+
+532
+00:36:58,320 --> 00:37:01,400
+Ce ne sono moltissime, però in compenso che hanno un secco no
+
+533
+00:36:59,280 --> 00:37:04,280
+per qualsiasi cosa, quindi non mi disturbano.
+
+534
+00:37:04,840 --> 00:37:08,200
+Questo è per me davvero utile perché continuo a dire
+
+535
+00:37:09,320 --> 00:37:12,600
+è un dispositivo di lavoro prima di tutto e poi in seconda
+
+536
+00:37:12,600 --> 00:37:15,160
+battuta anche un dispositivo di divertimento.
+
+537
+00:37:15,400 --> 00:37:20,600
+Ma oltre a questo sono state aggiunte altre caratteristiche che possono essere
+
+538
+00:37:20,600 --> 00:37:25,000
+davvero molto interessanti, come ad esempio la modalità non disturbare, che si
+
+539
+00:37:25,000 --> 00:37:30,200
+può ovviamente configurare come volete, e vi permette di avere un cellulare
+
+540
+00:37:30,200 --> 00:37:33,240
+che a una certa ora, da una certa ora a una certa
+
+541
+00:37:33,480 --> 00:37:37,240
+altra ora, va in sonno, nel senso che non vi rompe più
+
+542
+00:37:37,240 --> 00:37:37,880
+le scatole.
+
+543
+00:37:37,880 --> 00:37:41,320
+È una cosa molto interessante, si usa chiaramente quando si dorme per
+
+544
+00:37:41,320 --> 00:37:42,520
+chi lo tiene acceso.
+
+545
+00:37:42,520 --> 00:37:46,200
+Io, ad esempio, ce l'ho programmato tutti i giorni dalle 22 alle
+
+546
+00:37:46,200 --> 00:37:51,080
+7 di mattina, quindi in quelle ore lì non ho rotture di
+
+547
+00:37:51,080 --> 00:37:54,440
+scatole, chiamiamole così in modo gentile perché io la definirei in un
+
+548
+00:37:54,520 --> 00:37:58,760
+altro modo e quindi, ad esempio, vengono filtrate anche le chiamate, le
+
+549
+00:37:58,760 --> 00:38:03,240
+chiamate, se non entrano all'interno di un elenco che si chiama elenco
+
+550
+00:38:03,240 --> 00:38:07,080
+VIP in questo caso, le chiamate non passano.
+
+551
+00:38:07,080 --> 00:38:11,480
+Quindi, se vi chiama, che ne so, il vostro cugino che non
+
+552
+00:38:11,480 --> 00:38:15,320
+vedete da sette anni non è un elenco VIP, questa chiamata voi
+
+553
+00:38:15,320 --> 00:38:17,160
+non la vedete, potete dormire tranquillo.
+
+554
+00:38:17,160 --> 00:38:20,600
+Invece, se vi chiama vostro padre che è nell'elenco VIP e ha
+
+555
+00:38:20,600 --> 00:38:23,880
+bisogno, che ne so, di sapere cosa fate domani.
+
+556
+00:38:24,520 --> 00:38:29,800
+Questa chiamata passa, come anche se non sbaglio, anche i messaggi.
+
+557
+00:38:29,800 --> 00:38:34,920
+Altra caratteristica molto interessante che è stato aggiunto negli iPhone, negli sistemi
+
+558
+00:38:34,920 --> 00:38:37,720
+operativi recenti è il tempo di utilizzo.
+
+559
+00:38:37,720 --> 00:38:42,520
+Il tempo di utilizzo è quello che un professionista dovrebbe guardare per
+
+560
+00:38:42,520 --> 00:38:48,240
+capire dov'è che drena il tempo, perché il dispositivo ha la tendenza
+
+561
+00:38:48,240 --> 00:38:51,440
+a levarti del tempo, ma è fatto proprio per questo motivo.
+
+562
+00:38:51,440 --> 00:38:54,720
+Non solo il dispositivo in sé, ma soprattutto le applicazioni che vogliono
+
+563
+00:38:54,720 --> 00:38:58,080
+tenerti incollati il più tempo possibile sullo schermo.
+
+564
+00:38:58,080 --> 00:39:01,600
+Il tempo di utilizzo, oltre a darvi le
+
+565
+00:39:02,640 --> 00:39:09,120
+diciamo, definiamole così, le statistiche di quello che fate nella settimana o
+
+566
+00:39:09,120 --> 00:39:13,360
+nell'ultimo giorno, vi permette anche, però, di impostare una pausa di utilizzo
+
+567
+00:39:13,440 --> 00:39:15,360
+che può essere molto interessante.
+
+568
+00:39:15,360 --> 00:39:20,880
+Litare le app e fare altri tipi di limitazioni che vengono assolutamente
+
+569
+00:39:21,200 --> 00:39:25,040
+in aiuto quando avete dei bambini piccoli in modo tale che riuscite
+
+570
+00:39:25,040 --> 00:39:28,640
+un po' a gestire la loro smania di stare tutto il giorno
+
+571
+00:39:28,640 --> 00:39:33,440
+sull'iPad o sull'iPhone per chi gli dà l'iPhone da utilizzare.
+
+572
+00:39:33,760 --> 00:39:38,640
+Poi, chiaramente, da lì in avanti si inizia a configurare qualsiasi cosa
+
+573
+00:39:38,640 --> 00:39:45,280
+del cellulare, dal centro di controllo, l'oluminità, la schermata home, l'accessibilità, sfondo,
+
+574
+00:39:45,280 --> 00:39:48,080
+e compagnia cantante e discorrendo.
+
+575
+00:39:48,080 --> 00:39:52,080
+Perché, comunque, oltre a queste impostazioni, se voi continuate a scrollare, vi
+
+576
+00:39:52,080 --> 00:39:57,040
+trovate anche tutte le impostazioni delle singole applicazioni che avete all'interno del
+
+577
+00:39:57,040 --> 00:39:58,240
+vostro iPhone.
+
+578
+00:39:58,240 --> 00:39:59,840
+Qualcosa da aggiungere, Filippo?
+
+579
+00:39:59,920 --> 00:40:01,760
+Sicuramente che tu utilizzi di più?
+
+580
+00:40:01,760 --> 00:40:05,120
+Io l'iPhone lo uso decisamente poco nell'ultimo periodo.
+
+581
+00:40:05,120 --> 00:40:10,880
+Comunque, una cosa sicuramente di interesse per molti è che una volta
+
+582
+00:40:10,880 --> 00:40:17,600
+che aprite le impostazioni, se fate spostamento dall'alto verso l'anno in inglese.
+
+583
+00:40:18,640 --> 00:40:22,240
+Infatti, sto cercando di utilizzare i termini giusti, non ce la faccio.
+
+584
+00:40:22,240 --> 00:40:24,400
+Ci sarà l'opzione cerca.
+
+585
+00:40:24,400 --> 00:40:29,120
+Questa opzione è abbastanza sconosciuta, ma vi permette digitando appunto cosa state
+
+586
+00:40:29,120 --> 00:40:29,680
+cercando, di
+
+587
+00:40:30,920 --> 00:40:37,800
+muovervi rapidamente, diciamo, nel menu delle impostazioni, che diciamolo anche molto chiaramente
+
+588
+00:40:37,960 --> 00:40:40,600
+è relativamente complicata e tentacolare.
+
+589
+00:40:40,600 --> 00:40:46,680
+Esatto, abbiamo tempo di entrare nel dettaglio di tutte le impostazioni, pensate
+
+590
+00:40:46,680 --> 00:40:50,840
+solo che già nella parte dell'accessibilità ci sono tutta una serie di
+
+591
+00:40:50,840 --> 00:40:56,760
+funzioni anche interessanti, che, però, vanno testate, ragionate e così via.
+
+592
+00:40:56,760 --> 00:41:00,760
+Che casomai poi potrebbero essere oggetto di una futura puntata.
+
+593
+00:41:00,760 --> 00:41:06,120
+Oggi l'idea è quella di dare una sgrossata e dare un'infarinatura di
+
+594
+00:41:06,120 --> 00:41:10,440
+base di come funziona iOS e quindi non possiamo andare proprio nel
+
+595
+00:41:10,440 --> 00:41:12,760
+dettaglio a raccontarvi tutto.
+
+596
+00:41:12,760 --> 00:41:16,760
+L'altra cosa invece che ritengo molto utile, ne dovremmo aver parlato anche
+
+597
+00:41:16,760 --> 00:41:21,320
+nelle puntate precedenti per il Mac è la funzione airdrop che è
+
+598
+00:41:21,320 --> 00:41:26,760
+presente ovviamente anche sui dispositivi mobile e che di fatto è uno
+
+599
+00:41:26,760 --> 00:41:32,760
+dei modi più semplici, chiamiamoli così, per trasferire dati da iPhone, per
+
+600
+00:41:32,760 --> 00:41:37,080
+esempio, a un Mac o da iPhone a un iPad e viceversa.
+
+601
+00:41:37,080 --> 00:41:41,240
+Quindi questa funzione vi permette di, con
+
+602
+00:41:42,520 --> 00:41:46,200
+la gestione e la condivisione dei contenuti, che adesso andremo poi a
+
+603
+00:41:46,200 --> 00:41:52,280
+vedere un po' più avanti, di condividere documenti di vario genere, le
+
+604
+00:41:52,280 --> 00:41:55,800
+foto e così via, da dispositivo a dispositivo.
+
+605
+00:41:55,800 --> 00:41:59,880
+E questo sicuramente è una cosa da tenere ben presente e da
+
+606
+00:42:00,200 --> 00:42:05,240
+utilizzare in maniera abbastanza continua.
+
+607
+00:42:05,240 --> 00:42:07,640
+Molti non lo sanno, spesso e volentieri.
+
+608
+00:42:07,640 --> 00:42:12,120
+Ho visto soprattutto chi ha casomai solo un dispositivo Apple, cioè ha
+
+609
+00:42:12,120 --> 00:42:15,840
+solo un iPhone o ha solo l'iPad o ha solo il Mac,
+
+610
+00:42:15,840 --> 00:42:20,000
+e quindi non ha avuto modo di o la necessità anche di
+
+611
+00:42:20,000 --> 00:42:26,320
+trasferire dati da una parte all'altra, non lo conosce, però, anche qui,
+
+612
+00:42:26,320 --> 00:42:30,640
+giusto per fare un esempio banale, se volete trasferire le foto che
+
+613
+00:42:30,640 --> 00:42:36,080
+avete fatto, per esempio, dal vostro iPhone all'iPhone di un vostro amico,
+
+614
+00:42:36,080 --> 00:42:42,320
+collega o parente che vi richiede alcune foto, la modalità migliore per
+
+615
+00:42:42,320 --> 00:42:46,240
+condividere queste foto è Airdrop, perché in tutti gli altri casi voi
+
+616
+00:42:46,240 --> 00:42:52,000
+mandate comunque delle foto con qualità ridotta, perché, per esempio, una foto
+
+617
+00:42:52,000 --> 00:42:58,320
+mandata su Whatsapp piuttosto che su messaggi, comunque viene compressa dai sistemi
+
+618
+00:42:58,320 --> 00:43:00,080
+di consegna sostanzialmente.
+
+619
+00:43:00,400 --> 00:43:05,120
+Quindi l'unico modo per dare le foto in formato così originale è
+
+620
+00:43:05,120 --> 00:43:09,840
+quello appunto di uno dei modi più semplici, chiamiamolo così, è quello
+
+621
+00:43:09,840 --> 00:43:11,600
+ovviamente di utilizzare airdrop.
+
+622
+00:43:11,600 --> 00:43:16,960
+Quindi lo segnalo sempre perché agli utenti novizi, spesso e volentieri capita
+
+623
+00:43:16,960 --> 00:43:20,640
+invece di fare il contrario, per esempio, se la stessa foto viene
+
+624
+00:43:20,640 --> 00:43:25,280
+mandata a più catene di Whatsapp, giusto per fare un esempio, questa
+
+625
+00:43:25,280 --> 00:43:27,760
+foto sarà sempre più degradata.
+
+626
+00:43:30,880 --> 00:43:33,920
+Il terzo o quarto persona della catena la vuole andare a stampare,
+
+627
+00:43:33,920 --> 00:43:37,680
+casomai si trova una foto che da un certo punto di vista
+
+628
+00:43:37,680 --> 00:43:41,520
+è fatta con un dispositivo che ha delle fotocamere meravigliose, ha una
+
+629
+00:43:41,520 --> 00:43:47,120
+resa meravigliosa, ma che per il passaggio da chat a chat è
+
+630
+00:43:47,120 --> 00:43:52,720
+degradata notevolmente nella sua qualità, e quindi è una cosa da tenere
+
+631
+00:43:52,720 --> 00:43:53,360
+presente.
+
+632
+00:43:53,360 --> 00:43:55,680
+Credo possa essere utile a molti.
+
+633
+00:43:55,680 --> 00:44:00,600
+Sì, sì, è assolutamente vero, ho avuto recentemente anche una cosa sul
+
+634
+00:43:59,280 --> 00:44:04,680
+lavoro: un mio cliente mi doveva far vedere delle foto di una
+
+635
+00:44:05,000 --> 00:44:07,560
+casa sua e me le voleva mandare via mail.
+
+636
+00:44:07,640 --> 00:44:11,880
+Ha detto: Ma senti, ma mandameli con airdrop e non conosceva il
+
+637
+00:44:11,880 --> 00:44:13,160
+mezzo effettivamente.
+
+638
+00:44:13,160 --> 00:44:15,080
+Diceva Airdrop e che cos'è?
+
+639
+00:44:15,640 --> 00:44:18,120
+Mi ha dato il cellulare in mano, gliel'ho fatto vedere.
+
+640
+00:44:18,120 --> 00:44:22,600
+Quindi lui è un utente che usa il telefono per messaggiare, fare
+
+641
+00:44:22,600 --> 00:44:26,920
+fotografie e telefonare, ma nel momento in cui si è trovato nella
+
+642
+00:44:26,920 --> 00:44:30,760
+situazione di condividere delle fotografie, la cosa migliore che gli è venuta
+
+643
+00:44:30,760 --> 00:44:36,120
+in mente era quella di usare mail, mentre invece bastava semplicemente utilizzare
+
+644
+00:44:36,120 --> 00:44:39,880
+questo sistema che effettivamente non molti non conoscono.
+
+645
+00:44:40,600 --> 00:44:44,440
+Infatti, noi ci pensiamo a farvelo conoscere.
+
+646
+00:44:44,920 --> 00:44:48,840
+Le altre opzioni che sono da tenere presente, che sono presenti nelle
+
+647
+00:44:48,840 --> 00:44:53,160
+impostazioni e che trovate anche nel centro di controllo di cui abbiamo
+
+648
+00:44:53,160 --> 00:44:59,720
+parlato velocemente all'inizio, e che di fatto permette di modificare le impostazioni
+
+649
+00:45:00,040 --> 00:45:06,920
+principali di iOS, è ovviamente la modalità aereo, cioè quella modalità per
+
+650
+00:45:06,920 --> 00:45:12,760
+cui il telefono smette di funzionare come telefono, ma diventa in pratica
+
+651
+00:45:12,760 --> 00:45:17,080
+semplicemente un computer, quindi non ha nessun tipo di collegamento.
+
+652
+00:45:17,400 --> 00:45:25,000
+Tutto l'apparato se è presente, ovviamente l'apparato dati e telefonico viene spento,
+
+653
+00:45:25,000 --> 00:45:28,200
+il Bluetooth e così via anche il wifi.
+
+654
+00:45:28,200 --> 00:45:30,760
+L'unica nota particolare di tutta
+
+655
+00:45:30,760 --> 00:45:32,000
+di questa
+
+656
+00:45:32,200 --> 00:45:39,400
+modalità uso aereo è che se voi durante questa modalità riabilitate invece
+
+657
+00:45:39,400 --> 00:45:44,520
+il Bluetooth, per esempio, o il wifi, questi rimarranno attivi.
+
+658
+00:45:44,800 --> 00:45:48,400
+Quindi è da tenere presente perché se voi dite che metto in
+
+659
+00:45:48,400 --> 00:45:53,680
+modalità uso aereo e non ho problemi di sorta, solitamente l'uso aereo
+
+660
+00:45:53,680 --> 00:45:57,760
+viene fatto espressamente per l'uso aereo, cioè quando dovete salire in un
+
+661
+00:45:57,760 --> 00:46:02,080
+aereo, però può diventare anche comodo per altri motivi, diciamo.
+
+662
+00:46:02,080 --> 00:46:08,080
+Tenete presente, però, questa cosa perché ha i suoi pro e i
+
+663
+00:46:08,080 --> 00:46:09,120
+suoi contro.
+
+664
+00:46:09,440 --> 00:46:13,920
+Un esempio abbastanza banale, ma credo possa essere utile per molti, se
+
+665
+00:46:13,920 --> 00:46:19,760
+avete l'Apple Watch è ovvio che l'Apple Watch senza il collegamento Bluetooth
+
+666
+00:46:20,000 --> 00:46:22,960
+non trasmette i dati al telefono,
+
+667
+00:46:24,160 --> 00:46:25,520
+e viceversa.
+
+668
+00:46:25,680 --> 00:46:29,040
+Quindi, per esempio, non potete avere tutta una serie di notifiche
+
+669
+00:46:31,040 --> 00:46:33,680
+sull'orologio se non è attivo.
+
+670
+00:46:33,760 --> 00:46:36,880
+Quindi, se avete la modalità aereo e non avete il Bluetooth acceso,
+
+671
+00:46:36,880 --> 00:46:38,480
+ovviamente perdete questo.
+
+672
+00:46:38,480 --> 00:46:43,840
+Se accendete, perché vi rendete conto di avere il telefono e l'orologio,
+
+673
+00:46:43,840 --> 00:46:49,200
+chiamiamolo così bloccato comunque in una modalità non comoda, ve lo potreste
+
+674
+00:46:49,200 --> 00:46:52,960
+anche poi trovare sempre attivo quando non volete.
+
+675
+00:46:52,960 --> 00:46:57,600
+Quindi l'unica cosa da tenere molto presente è questa, soprattutto se uno
+
+676
+00:46:57,600 --> 00:47:01,920
+viaggia molto in aereo nell'ultimo periodo, diciamo, non è un problema di
+
+677
+00:47:01,920 --> 00:47:07,600
+molti, ma per il futuro, devo dire che, nonostante non si viaggi
+
+678
+00:47:07,680 --> 00:47:09,360
+in aereo, per me è molto utile.
+
+679
+00:47:09,360 --> 00:47:14,000
+Capita spesso, ci sono dei momenti in cui ho bisogno di concentrazione.
+
+680
+00:47:14,000 --> 00:47:16,320
+La modalità aereo mi viene in soccorso.
+
+681
+00:47:16,320 --> 00:47:18,880
+Però devo ancora controllare una cosa.
+
+682
+00:47:18,880 --> 00:47:23,680
+Perché la modalità aereo, se ho visto bene le volte che lo
+
+683
+00:47:23,680 --> 00:47:29,360
+uso in abbinata al sistema che ho su iOS per il pomodoro
+
+684
+00:47:29,520 --> 00:47:32,840
+time, ma questi ne parleremo più avanti quando saremo più avanti sulle
+
+685
+00:47:29,920 --> 00:47:35,160
+varie tecniche di concentrazione.
+
+686
+00:47:35,400 --> 00:47:39,160
+Diciamo che per chi non la conoscesse è una tecnica che ti
+
+687
+00:47:39,160 --> 00:47:43,240
+chiede 25 minuti per essere concentrato, e poi dopo fai 5 minuti
+
+688
+00:47:43,240 --> 00:47:46,760
+di concentrazione dove puoi fare quello che vuoi essenzialmente.
+
+689
+00:47:46,760 --> 00:47:51,240
+Tuttavia, in quei 25 minuti lì che metto modalità aereo, mi pare
+
+690
+00:47:51,240 --> 00:47:55,800
+che l'applicazione non riesca neanche a mandarmi una notifica di avviso.
+
+691
+00:47:55,800 --> 00:47:58,360
+Quindi, essenzialmente.
+
+692
+00:47:59,240 --> 00:48:03,960
+Lo fa solo sull'iPhone, eventualmente, cioè la notifica te la puoi fare
+
+693
+00:48:03,960 --> 00:48:06,120
+solo attraverso l'iPhone, ovviamente esattamente.
+
+694
+00:48:06,120 --> 00:48:10,600
+Che ovviamente in modalità silenziosa, quindi non mi dice assolutamente nulla.
+
+695
+00:48:11,560 --> 00:48:13,640
+Se esageri, esageri.
+
+696
+00:48:13,960 --> 00:48:17,320
+E vabbè, è chiaro, io faccio questi esperimenti qua.
+
+697
+00:48:17,320 --> 00:48:22,360
+Ci fosse anche la possibilità di far passare in modalità aereo alcune
+
+698
+00:48:22,680 --> 00:48:28,040
+cose, secondo me, questa impostazione, almeno nel mio conto, sarebbe molto utile.
+
+699
+00:48:28,040 --> 00:48:35,720
+Per esempio, mi piacerebbe che passasse quel semplice, diciamo, messaggio via Bluetooth
+
+700
+00:48:35,960 --> 00:48:39,160
+o come notifica, in qualche modo, che mi rivi anche a dire
+
+701
+00:48:39,240 --> 00:48:40,120
+solo al polso.
+
+702
+00:48:40,120 --> 00:48:44,600
+Ma qui veramente andiamo in un uso decisamente molto verticale.
+
+703
+00:48:44,600 --> 00:48:48,680
+Penso che potrei usarlo solo io, quindi è una cosa assoluta che
+
+704
+00:48:48,680 --> 00:48:50,760
+non si può richiedere ad Apple in questo caso.
+
+705
+00:48:50,920 --> 00:48:57,160
+Altra cosa di cui tenere presente funzione molto interessante e credo adesso
+
+706
+00:48:57,400 --> 00:49:02,280
+è molto legata al piano telefonico di fatto che si ha.
+
+707
+00:49:02,280 --> 00:49:07,160
+Tuttavia la funzione cosiddetta hotspot personale che vi permette di utilizzare il
+
+708
+00:49:07,160 --> 00:49:13,560
+piano dati del vostro telefono, quindi della vostra SIM, con altri dispositivi,
+
+709
+00:49:13,560 --> 00:49:16,720
+siano essi iPad, per esempio.
+
+710
+00:49:14,520 --> 00:49:20,800
+Io lo utilizzo abitualmente quando sono in mobilità con l'iPad.
+
+711
+00:49:21,040 --> 00:49:24,400
+Se ho bisogno di navigare in internet, utilizzo il piano dati del
+
+712
+00:49:24,400 --> 00:49:29,920
+telefono, ma anche per il vostro computer, addirittura credo che regga 4
+
+713
+00:49:29,920 --> 00:49:36,480
+o nessioni contemporanee, quindi 4-5 dispositivi contemporaneamente collegati al telefono che fa
+
+714
+00:49:36,480 --> 00:49:38,240
+da appunto hotspot.
+
+715
+00:49:38,480 --> 00:49:40,160
+È una cosa da tenere presente.
+
+716
+00:49:40,160 --> 00:49:45,440
+Sappiate anche, però, che ci possono essere vari problemi nel senso che
+
+717
+00:49:47,280 --> 00:49:54,400
+nei dispositivi più recenti, sicuramente, gli iPad si rendono conto che sono
+
+718
+00:49:54,400 --> 00:49:59,040
+collegati all'iPhone e quindi vanno in una modalità, chiamiamola così, di risparmio
+
+719
+00:49:59,040 --> 00:49:59,760
+dati.
+
+720
+00:50:00,080 --> 00:50:05,600
+Il Mac non credo che sia, o quantomeno, le versioni che ho
+
+721
+00:50:05,600 --> 00:50:10,320
+provato io, forse big sur ci sarebbe da guardare forse big sur.
+
+722
+00:50:10,320 --> 00:50:14,560
+Io, ad esempio, utilizzo applicazioni di terze parti per filtrare i dati,
+
+723
+00:50:14,560 --> 00:50:18,560
+nel senso che voi dovete immaginare che nel momento in cui voi
+
+724
+00:50:18,560 --> 00:50:23,280
+collegate in modalità hotspot il vostro cellulare, il vostro cellulare diventa un
+
+725
+00:50:23,280 --> 00:50:25,200
+modem a tutti gli effetti.
+
+726
+00:50:25,200 --> 00:50:28,000
+Quindi, il computer si mette come
+
+727
+00:50:29,760 --> 00:50:33,440
+tutti i computer che lavorano appena hanno una connessione internet, incominciano a
+
+728
+00:50:33,440 --> 00:50:37,680
+guardare la posta, gli aggiornamenti, incominciano a scaricare qualsiasi cosa che passa
+
+729
+00:50:37,680 --> 00:50:41,760
+di lì, le applicazioni si devono aggiornare per qualche modo, controllo gli
+
+730
+00:50:41,840 --> 00:50:42,400
+aggiornamenti.
+
+731
+00:50:42,400 --> 00:50:43,520
+Questo cosa vuol dire?
+
+732
+00:50:43,520 --> 00:50:48,320
+Che se avete una connessione infinita, come può essere la FLAT che
+
+733
+00:50:48,320 --> 00:50:52,080
+ormai è normale, una volta non era così, la FLA che avete
+
+734
+00:50:52,080 --> 00:50:53,760
+a casa va tutto bene.
+
+735
+00:50:53,760 --> 00:50:56,640
+Nel momento in cui avete un cellulare che ha un monte dati,
+
+736
+00:50:56,640 --> 00:50:59,600
+questo va molto male perché questo vi va a erodere tutti quanti
+
+737
+00:50:59,600 --> 00:51:00,000
+i dati.
+
+738
+00:51:00,360 --> 00:51:05,640
+Per esempio, potrebbe anche essere semplicemente la sincronizzazione delle foto che mezz'ora
+
+739
+00:51:05,720 --> 00:51:08,040
+fa avete fatto con l'iPhone.
+
+740
+00:51:08,040 --> 00:51:09,640
+Cominciate a fare tutte le foto.
+
+741
+00:51:09,640 --> 00:51:12,040
+Poi ve lo collegate come hotspot.
+
+742
+00:51:12,040 --> 00:51:15,400
+Qua incominciamo a far passare tutti i dati tramite la linea hotspot
+
+743
+00:51:15,560 --> 00:51:17,640
+e quindi vi porta via tutti i dati delle foto.
+
+744
+00:51:17,640 --> 00:51:23,720
+Che comunque vi ricordo che con i normali dispositivi iPhone discorrendo, ormai
+
+745
+00:51:23,880 --> 00:51:27,560
+la dimensione di queste foto è veramente aumentata tantissimo.
+
+746
+00:51:27,560 --> 00:51:32,440
+Insomma, incominciano a essere pesanti, soprattutto anche i filmati e vi discorrendo.
+
+747
+00:51:32,440 --> 00:51:37,720
+Quindi il mio consiglio spassionato perché io ho lavorato moltissimo in mobilità
+
+748
+00:51:37,720 --> 00:51:41,080
+fino al lockdown che ci sono stati.
+
+749
+00:51:41,080 --> 00:51:46,600
+Io lavoravo essenzialmente in mobilità, quindi per me era fondamentale limitare tutti
+
+750
+00:51:46,680 --> 00:51:48,360
+quanti i dati che passavano.
+
+751
+00:51:48,360 --> 00:51:53,960
+Quindi decidevo io tramite questa applicazione, che può essere, ce ne sono
+
+752
+00:51:53,960 --> 00:51:58,840
+molte in commercio, diciamo che questa applicazione, o una di queste applicazioni,
+
+753
+00:51:59,000 --> 00:52:03,800
+vi permette di filtrare le applicazioni che vanno a richiedere dati.
+
+754
+00:52:03,800 --> 00:52:08,520
+Quindi, se avete in questo momento avete bisogno di fare come ho
+
+755
+00:52:08,520 --> 00:52:12,200
+fatto io con Filippo in questo momento, visto che io praticamente la
+
+756
+00:52:12,200 --> 00:52:15,000
+connessione che ho a casa è simile, anzi, va più lenta di
+
+757
+00:52:15,000 --> 00:52:19,000
+quella che ho fuori, per riuscire a andare bene, devo cercare di
+
+758
+00:52:19,000 --> 00:52:23,320
+filtrare le applicazioni che in questo momento potrebbero richiedere della banda.
+
+759
+00:52:23,320 --> 00:52:26,520
+Quindi in questo momento ho Skype perché sono collegato a lui, ho
+
+760
+00:52:26,520 --> 00:52:32,040
+Safari perché sto leggendo le note dell'episodio, ho Telegram eventualmente per i
+
+761
+00:52:32,040 --> 00:52:35,800
+messaggi tra me e Filippo, ma tutte le altre applicazioni che possono
+
+762
+00:52:35,800 --> 00:52:40,440
+essere semplicemente anche il sistema operativo che va a richiedere degli aggiornamenti
+
+763
+00:52:40,600 --> 00:52:45,840
+oppure altre applicazioni che ho all'interno del computer che vanno a richiedere
+
+764
+00:52:45,840 --> 00:52:50,320
+gli aggiornamenti o sincronizzazioni varie anche come iCloud queste sono tutte bloccate
+
+765
+00:52:50,400 --> 00:52:54,400
+quindi non ti vanno a erodere la banda nel mio caso quando
+
+766
+00:52:54,400 --> 00:52:58,320
+sono a casa oppure ti vanno a erodere i molti GB che
+
+767
+00:52:58,320 --> 00:53:02,000
+hai sul cellulare che io poter dire è consigliatissimo per chi lo
+
+768
+00:53:02,000 --> 00:53:06,080
+utilizza e in ogni caso perché è vero può essere utile nel
+
+769
+00:53:06,080 --> 00:53:09,040
+caso in cui siate collegati a un iPhone ma come nel mio
+
+770
+00:53:09,040 --> 00:53:12,800
+caso può essere utile per avere la banda più libera possibile.
+
+771
+00:53:12,800 --> 00:53:19,280
+Molte call che si fanno adesso in videochiamata diventa molto utile anche
+
+772
+00:53:19,280 --> 00:53:23,040
+per riuscire ad avere un'ottima qualità audio e video perché voi non
+
+773
+00:53:23,040 --> 00:53:28,960
+avete intrusioni sulla vostra banda che vi abbassano momentaneamente
+
+774
+00:53:30,080 --> 00:53:34,880
+la quantità di dati che possono passare, quindi voi avete sempre la
+
+775
+00:53:34,880 --> 00:53:40,160
+stessa banda e quindi non ci sono rallentamenti della voce o rallentamenti
+
+776
+00:53:40,160 --> 00:53:40,800
+del video.
+
+777
+00:53:41,040 --> 00:53:46,000
+Quindi può essere utile anche in questo modo professionale riuscire a filtrare
+
+778
+00:53:46,000 --> 00:53:48,000
+i dati in uscita dal vostro computer.
+
+779
+00:53:48,000 --> 00:53:54,160
+Esatto, però adesso basta con queste divagazioni, anche perché ore sono!
+
+780
+00:53:54,160 --> 00:53:56,080
+Sì, abbiamo ancora una mezz'oretta.
+
+781
+00:53:56,640 --> 00:53:59,520
+Per concludere per concludere,
+
+782
+00:54:00,640 --> 00:54:07,600
+altro argomento importante e abbastanza sconosciuto, perché su macOS è un'applicazione a
+
+783
+00:54:07,600 --> 00:54:12,000
+sé stante, mentre su iOS e iPadOS non lo è e non
+
+784
+00:54:12,000 --> 00:54:13,920
+ho mai capito per quale ragione.
+
+785
+00:54:14,160 --> 00:54:21,120
+È l'anteprima nascosta: cioè, in iOS è presente una funzione interna, chiamiamola
+
+786
+00:54:21,120 --> 00:54:24,640
+così, perché non esiste un'applicazione vera e propria che potete andare ad
+
+787
+00:54:24,640 --> 00:54:30,760
+aprire in pratica, ma vi si accede prevalentemente adesso da file.
+
+788
+00:54:31,080 --> 00:54:37,800
+Dopo vedremo esattamente che cos'è l'applicazione file, ma anche da altre applicazioni
+
+789
+00:54:38,120 --> 00:54:39,640
+e quella dell'anteprima.
+
+790
+00:54:39,640 --> 00:54:43,640
+L'anteprima è un sistema vero e proprio di anteprima che vi permette
+
+791
+00:54:43,640 --> 00:54:50,920
+di visualizzare vari documenti, sia per esempio i PDF, che le immagini,
+
+792
+00:54:51,160 --> 00:54:58,360
+che anche i documenti di testo, DochX, RTF e così via, direttamente
+
+793
+00:54:58,360 --> 00:55:02,600
+dall'iPhone o dall'iPad nel caso specifico.
+
+794
+00:55:03,240 --> 00:55:07,240
+Questa applicazione è importante da conoscere perché vi permette, per esempio, di
+
+795
+00:55:07,240 --> 00:55:12,520
+vedere gli allegati nelle mail, di fare tante operazioni che abitualmente non
+
+796
+00:55:12,520 --> 00:55:13,800
+vi sarebbero possibili.
+
+797
+00:55:14,040 --> 00:55:20,680
+Nelle ultime versioni, il programma di Anteprima vi permette anche di
+
+798
+00:55:22,920 --> 00:55:28,920
+commentare questi documenti con gli strumenti, per esempio, di firma, di sottolineatura,
+
+799
+00:55:28,920 --> 00:55:33,720
+di segnalazione per mettere frecce, riquadri e così via.
+
+800
+00:55:33,720 --> 00:55:40,520
+Quindi è un'applicazione molto utile, ovviamente, in dipendenza dalla tipologia di documento
+
+801
+00:55:40,520 --> 00:55:44,120
+che state aprendo, perché per esempio un file di testo
+
+802
+00:55:45,400 --> 00:55:48,440
+non è modificabile in senso tecnico, non ci si può fare i
+
+803
+00:55:48,440 --> 00:55:53,720
+commenti, mentre un PDF piuttosto che un'immagine è possibile.
+
+804
+00:55:53,960 --> 00:55:58,520
+L'altra cosa che anche qui è abbastanza sconosciuta, è un trucco, chiamiamolo
+
+805
+00:55:58,520 --> 00:56:04,920
+così, ma è fondamentale se si vuole utilizzare il flusso digitale con
+
+806
+00:56:04,880 --> 00:56:12,000
+i dispositivi mobile di Apple, è la possibilità, abbastanza nascosta allo stato,
+
+807
+00:56:11,960 --> 00:56:15,840
+di creare PDF in automatico da iOS.
+
+808
+00:56:15,840 --> 00:56:17,200
+Questo come si fa?
+
+809
+00:56:14,920 --> 00:56:19,760
+Si fa attraverso la funzione di stampa.
+
+810
+00:56:19,920 --> 00:56:26,080
+Quindi in ogni applicazione dove è presente la funzione di stampa generica,
+
+811
+00:56:26,080 --> 00:56:31,520
+diciamo, cioè quella del sistema operativo, aprendo la stampa, vi verrà data
+
+812
+00:56:31,520 --> 00:56:35,840
+la possibilità ovviamente di scegliere la stampante, il numero delle copie
+
+813
+00:56:37,760 --> 00:56:39,040
+da stampare.
+
+814
+00:56:39,280 --> 00:56:44,000
+Sotto ci sarà un'anteprima, una piccola anteprima del documento.
+
+815
+00:56:44,000 --> 00:56:48,320
+Se fate appunto il famoso pinto su zoom, cioè quindi l'ingrandimento e
+
+816
+00:56:48,320 --> 00:56:55,680
+quindi ingrandite l'anteprima del documento, questo documento si ingrandirà a tutto schermo,
+
+817
+00:56:55,760 --> 00:57:02,000
+e da qui sarà possibile convertirlo direttamente in PDF e addirittura condividerlo
+
+818
+00:57:02,000 --> 00:57:07,040
+poi ad altre applicazioni, piuttosto che addirittura mandarlo via email e così
+
+819
+00:57:07,040 --> 00:57:07,520
+via.
+
+820
+00:57:07,520 --> 00:57:13,200
+Quindi questa è la modalità, diciamo, abbastanza nascosta per salvare in PDF
+
+821
+00:57:13,200 --> 00:57:17,120
+un qualsiasi tipo di documento, per esempio, appunto anche in mail non
+
+822
+00:57:17,120 --> 00:57:19,120
+esiste una funzione stampa in PDF.
+
+823
+00:57:19,600 --> 00:57:24,800
+Bisogna fare tutta questa operazione per stampare, tra virgolette, come PDF la
+
+824
+00:57:24,800 --> 00:57:25,760
+mail di mail.
+
+825
+00:57:26,160 --> 00:57:28,960
+Il gioco di parole non è voluto, ma è
+
+826
+00:57:30,560 --> 00:57:31,760
+così che funziona.
+
+827
+00:57:31,760 --> 00:57:36,480
+Io aggiungo solo un altro dettaglio perché, come airdrop, anche questa è
+
+828
+00:57:36,480 --> 00:57:39,920
+una cosa che non tutti sanno: ovvero che si possono stampare le
+
+829
+00:57:39,920 --> 00:57:42,320
+cose da iOS e da i pad.
+
+830
+00:57:42,560 --> 00:57:46,320
+Nel senso che sembra un dispositivo che sia limitato, ma in realtà
+
+831
+00:57:46,400 --> 00:57:52,080
+se ci sono delle stampanti airprint oppure stampanti collegate al modem di
+
+832
+00:57:52,080 --> 00:57:55,600
+caso dell'ufficio, vi permette appunto di stampare.
+
+833
+00:57:55,600 --> 00:57:56,080
+Come si fa?
+
+834
+00:57:56,160 --> 00:58:01,640
+Aprite il vostro documento, andate sul menu di condivisione, cioè quello famoso
+
+835
+00:58:01,640 --> 00:58:06,200
+con il quadratino e la freccettina che esce, e poi andate semplicemente
+
+836
+00:58:06,200 --> 00:58:10,680
+a cercarvi stampa, che dovrebbe essere tendenzialmente la seconda riga del menu
+
+837
+00:58:10,680 --> 00:58:11,720
+che vi appare.
+
+838
+00:58:11,960 --> 00:58:15,160
+Questo vi permette, appunto, poi, come vi diceva Filippo, di selezionare le
+
+839
+00:58:15,160 --> 00:58:17,640
+stampanti oppure di creare dei file di PDF.
+
+840
+00:58:17,640 --> 00:58:25,080
+Cosa non è notissima, questa perché appunto i telefoni e gli iPad
+
+841
+00:58:25,080 --> 00:58:30,760
+non sono più degli strumenti di semplice consumo, ma diventano degli strumenti
+
+842
+00:58:30,760 --> 00:58:34,360
+anche per essere produttivi a tutti gli effetti.
+
+843
+00:58:34,360 --> 00:58:39,640
+Allora, già che siamo nella parentesi stampante, segnalo se forse di interesse
+
+844
+00:58:39,640 --> 00:58:45,720
+a qualcuno che esistono vari software, perché la funzione airprint non è
+
+845
+00:58:45,720 --> 00:58:48,600
+così generale sulle stampanti.
+
+846
+00:58:48,840 --> 00:58:53,400
+Diciamo, esiste però a questo punto la stampante deve essere collegata a
+
+847
+00:58:53,400 --> 00:58:56,280
+un computer e penso a un Mac nello specifico.
+
+848
+00:58:56,520 --> 00:58:58,040
+Esiste questa applicazione.
+
+849
+00:58:58,040 --> 00:58:59,080
+Credo che esista ancora.
+
+850
+00:58:59,080 --> 00:59:01,480
+Io mi ricordo che esisteva di sicuro.
+
+851
+00:59:01,640 --> 00:59:07,480
+Si chiama Printopia, che permette di fatto di rendere qualsiasi stampante USB
+
+852
+00:59:07,720 --> 00:59:11,320
+collegato ovviamente a un Mac perché è un'applicazione Mac
+
+853
+00:59:12,600 --> 00:59:18,600
+, di permetterle appunto di stampare di diventare una stampante, chiamiamola così, di
+
+854
+00:59:18,600 --> 00:59:24,200
+rete è compatibile col protocollo Airprint e quindi anche iPhone e iPad
+
+855
+00:59:24,520 --> 00:59:27,080
+possono stampare in questa maniera.
+
+856
+00:59:27,400 --> 00:59:33,000
+Personalmente credo di aver fatto qualche tentativo qualche volta, devo dire la
+
+857
+00:59:33,000 --> 00:59:40,840
+verità: la stampa da iPad e iPhone non è ottimale, è molto
+
+858
+00:59:40,840 --> 00:59:46,240
+limitata, è molto limitata nel senso che delle volte ti stampa solo
+
+859
+00:59:46,560 --> 00:59:52,080
+nella parte alta a sinistra del foglio A4, ma quando si tratta
+
+860
+00:59:52,080 --> 00:59:57,200
+di documenti va veramente sciolto con le immagini ho trovato delle difficoltà,
+
+861
+00:59:57,200 --> 00:59:59,920
+le opzioni non sono molte, nel senso che non è che c'è
+
+862
+00:59:59,920 --> 01:00:04,240
+la possibilità di adattarlo allo schermo, adattarlo al foglio, cercare un altro
+
+863
+01:00:04,240 --> 01:00:07,840
+tipo di formato sono molto limitate.
+
+864
+01:00:07,840 --> 01:00:09,760
+Diciamo che per ora è limitato.
+
+865
+01:00:09,760 --> 01:00:14,000
+Su iPadOS, però, non avendo una iPad recente, le opzioni sono
+
+866
+01:00:14,000 --> 01:00:15,360
+sempre limitate.
+
+867
+01:00:15,760 --> 01:00:19,520
+Allora, devo dire la verità: sai che io non stampo per principio
+
+868
+01:00:19,600 --> 01:00:23,040
+ormai, extra digitale.
+
+869
+01:00:23,600 --> 01:00:30,480
+Uno dei motivi per cui ho progressivamente lavorato sempre più su iPad,
+
+870
+01:00:30,720 --> 01:00:34,880
+è proprio il motivo che mi permette un flusso totalmente digitale, appunto,
+
+871
+01:00:34,880 --> 01:00:38,800
+grazie alla Pencil, grazie a tutta una serie di applicazioni che utilizzo,
+
+872
+01:00:38,800 --> 01:00:45,840
+che adesso sarebbero esulano da questa puntata introduttiva, non ho necessità di
+
+873
+01:00:45,840 --> 01:00:51,600
+utilizzare la stampante se non a fine della produzione, quando devo poi,
+
+874
+01:00:51,760 --> 01:00:54,480
+se necessario, stampare qualcosa di fisico.
+
+875
+01:00:54,480 --> 01:00:58,640
+Quindi, tutto il flusso che ho è totalmente digitale per cui devo
+
+876
+01:00:58,640 --> 01:01:01,440
+dire la verità: no, l'iPad, ma
+
+877
+01:01:03,520 --> 01:01:08,960
+non credo di ricordarmi grosse possibilità anche con i modelli più avanzati,
+
+878
+01:01:08,960 --> 01:01:10,160
+chiamiamoli così.
+
+879
+01:01:11,360 --> 01:01:16,640
+Adesso una breve carrellata, giusto per dare un'infarinatura generale, appunto, come abbiamo
+
+880
+01:01:16,640 --> 01:01:19,840
+detto, questo episodio è sulle basi di iOS.
+
+881
+01:01:19,840 --> 01:01:25,920
+Quindi cercheremo di darvi, se non avete mai avuto contatto con questo
+
+882
+01:01:25,920 --> 01:01:30,000
+sistema operativo, un po' le info di base, molto velocemente.
+
+883
+01:01:30,120 --> 01:01:37,080
+Ovviamente iOS nasce nel trittico voluto da Steve Jobs come un telefono,
+
+884
+01:01:37,080 --> 01:01:43,080
+anche quindi, ovviamente, ci sono tutta una serie di applicazioni, quella proprio
+
+885
+01:01:43,080 --> 01:01:45,480
+del telefono, credo che si chiami.
+
+886
+01:01:45,480 --> 01:01:48,520
+Dei messaggi e dei contatti che sono
+
+887
+01:01:49,720 --> 01:01:56,360
+necessari per la gestione telefonica e messaggistica di iOS.
+
+888
+01:01:56,360 --> 01:02:02,360
+La particolarità prevalente dei messaggi è quella che, oltre ai normali sms,
+
+889
+01:02:02,360 --> 01:02:09,240
+diciamo, Apple nel tempo ha implementato un suo protocollo di messaggistica online
+
+890
+01:02:09,400 --> 01:02:10,840
+sostanzialmente.
+
+891
+01:02:11,160 --> 01:02:14,920
+La particolarità di Apple è che funziona con tutti gli strumenti Apple,
+
+892
+01:02:14,920 --> 01:02:16,200
+ma solo con questi.
+
+893
+01:02:16,200 --> 01:02:21,400
+Quindi, se vivete nell'ecosistema Apple, per esempio, come me, Roberto, l'utilizzo di
+
+894
+01:02:21,400 --> 01:02:26,680
+I message è un messaggio come viene tratto in italiano, ma giusto
+
+895
+01:02:26,680 --> 01:02:32,440
+per distinguere, diciamo tra sms e i message.
+
+896
+01:02:32,440 --> 01:02:38,040
+È automatico, funziona attraverso internet, quindi non avete costi di messaggistica e
+
+897
+01:02:38,040 --> 01:02:42,600
+la differenza tra messaggi e sms è che la bolla di testo
+
+898
+01:02:42,600 --> 01:02:46,120
+che andate a inviare è verde se è un messaggio, se è
+
+899
+01:02:46,120 --> 01:02:51,240
+un SMS sostanzialmente invece, se è un I messagge utilizza il protocollo
+
+900
+01:02:51,240 --> 01:02:56,040
+proprietario di Apple cifrato end to end e così via, che, però
+
+901
+01:02:56,040 --> 01:02:59,800
+viaggia attraverso i server di Apple, è blu.
+
+902
+01:02:59,800 --> 01:03:04,520
+Quindi, in questa maniera vi rendete conto cosa sta succedendo e che
+
+903
+01:03:05,080 --> 01:03:09,480
+se avete un piano limitato con un tot numero messaggio, addirittura senza
+
+904
+01:03:09,480 --> 01:03:17,200
+messaggi SMS, scusate, perché se no faccio confusione senza SMS, ovviamente dovete
+
+905
+01:03:14,840 --> 01:03:18,720
+starci un attimo attenti.
+
+906
+01:03:19,040 --> 01:03:24,560
+L'altra cosa dei contatti che segnalo da sempre e ad oggi non
+
+907
+01:03:24,560 --> 01:03:26,320
+credo che sia modificato.
+
+908
+01:03:26,560 --> 01:03:32,720
+La follia, tra virgolette, di Apple è che l'applicazione contatti è una
+
+909
+01:03:32,720 --> 01:03:38,320
+versione meno potente, diciamo di quella presente su macOS.
+
+910
+01:03:38,320 --> 01:03:45,360
+Meno potente perché nella sostanza non è possibile con l'applicazione contatti nativa
+
+911
+01:03:45,920 --> 01:03:49,840
+modificare i gruppi, che voi mi direte che roba è, cioè casomai,
+
+912
+01:03:49,840 --> 01:03:54,800
+non è di grosso interesse, ma se volete avere differenti gruppi, cioè
+
+913
+01:03:54,800 --> 01:03:58,320
+i contatti differenziati per gruppi, quindi, non so, un gruppo di lavoro,
+
+914
+01:03:58,320 --> 01:03:59,120
+un gruppo
+
+915
+01:04:00,400 --> 01:04:04,800
+dei familiari, un gruppo, per esempio, di contatti legati a una specifica
+
+916
+01:04:04,800 --> 01:04:07,360
+attività, ad esempio, avvocati e Mac.
+
+917
+01:04:07,360 --> 01:04:11,600
+Ecco da Mac potete creare questi gruppi e muovere i contatti da
+
+918
+01:04:11,600 --> 01:04:13,440
+un gruppo all'altro.
+
+919
+01:04:13,440 --> 01:04:17,920
+Da iOS non è possibile farlo, potete inserire un nuovo contatto, ma
+
+920
+01:04:18,800 --> 01:04:24,480
+va nel gruppo generale e non nei singoli sottogruppi, l'unica particolarità di
+
+921
+01:04:24,480 --> 01:04:25,120
+questa cosa.
+
+922
+01:04:25,120 --> 01:04:30,400
+Credo che probabilmente interessi solo a me, perché anche Roberto mi guarda
+
+923
+01:04:30,400 --> 01:04:36,240
+abbastanza sterefatto, però, dei gruppi non li ho mai utilizzati.
+
+924
+01:04:36,240 --> 01:04:38,880
+Ma adesso ti spiego perché poi ti guardavo il sterefatto.
+
+925
+01:04:38,880 --> 01:04:39,680
+Vai pure avanti.
+
+926
+01:04:39,680 --> 01:04:41,360
+Una cosa che volevo.
+
+927
+01:04:41,360 --> 01:04:44,720
+Stavo cercando di rintracciare, ma non riuscivo a rintracciarlo così al volo,
+
+928
+01:04:44,720 --> 01:04:48,800
+vedete, è così tentacolare le impostazioni che mi ci perdo anch'io dopo
+
+929
+01:04:48,800 --> 01:04:52,480
+un sacco di anni, sono appunto i contatti che potete aggiungere alla
+
+930
+01:04:52,480 --> 01:04:53,360
+lista VIP.
+
+931
+01:04:53,400 --> 01:04:57,040
+Che adesso mi sfugge come cacchio, si aggiungono, probabilmente dalla impostazione.
+
+932
+01:04:57,120 --> 01:04:59,840
+Lo sono i preferiti la lista VIP, da quello che ne so
+
+933
+01:05:00,120 --> 01:05:04,680
+io esatto, dalle applicazioni telefono, però io già cercavo i contatti invece
+
+934
+01:05:04,680 --> 01:05:10,760
+dall'applicazione telefono, potete aggiungere questi famosi, chiamiamoli VIP preferiti esatto, che vi
+
+935
+01:05:10,760 --> 01:05:16,120
+possono essere utili nel caso in cui dicevamo prima l'inizio della puntata,
+
+936
+01:05:16,120 --> 01:05:20,040
+altra cosa da non sottovalutare, però, è anche la questione Face time
+
+937
+01:05:20,440 --> 01:05:24,840
+perché c'è l'applicazione face time che vi permette di fare videochiamate in
+
+938
+01:05:24,840 --> 01:05:30,360
+questo caso, ma soprattutto, ve lo dico anche perché soprattutto anche chiamate.
+
+939
+01:05:30,360 --> 01:05:35,560
+Se abitate in un paese sperduto come quello del sottoscritto, può darsi
+
+940
+01:05:35,560 --> 01:05:39,320
+che la linea telefonica cellulare non sia delle migliori.
+
+941
+01:05:39,320 --> 01:05:43,800
+Quindi è molto utile utilizzare le chiamate Face time audio
+
+942
+01:05:44,840 --> 01:05:49,800
+nel momento in cui l'interlocutore o voi siete sotto una situazione che
+
+943
+01:05:49,800 --> 01:05:54,280
+non è proprio delle migliore dal punto di vista della connessione della
+
+944
+01:05:54,440 --> 01:05:59,240
+voce, ma se avete un wifi, voi potete utilizzare tranquillamente questo tipo
+
+945
+01:05:59,240 --> 01:06:04,840
+di chiamata, ovviamente con strumenti iPhone e anche dell'altro interlocutore, per bypassare
+
+946
+01:06:04,840 --> 01:06:08,920
+questo piccolo problema di mancanza di linea essenzialmente.
+
+947
+01:06:08,920 --> 01:06:16,440
+L'altro trittico, diciamo, delle caratteristiche tipiche di interesse dell'iPhone: ovviamente il comparto
+
+948
+01:06:16,440 --> 01:06:17,720
+fotografico.
+
+949
+01:06:17,880 --> 01:06:23,320
+Il comparto fotografico dobbiamo andare via veloci quindi ormai le fotocamere dell'iPhone
+
+950
+01:06:23,720 --> 01:06:27,880
+sono forse la cosa che interessa di più a molti.
+
+951
+01:06:28,120 --> 01:06:32,120
+Vi permettono ovviamente di gestire sia le foto con l'applicazione foto dove
+
+952
+01:06:32,120 --> 01:06:34,360
+vengono salvate tutte le foto.
+
+953
+01:06:34,360 --> 01:06:41,000
+C'è l'applicazione per scattare le foto, che nel tempo, ovviamente, ha aumentato
+
+954
+01:06:41,000 --> 01:06:47,040
+notevolmente le sue capacità e che oggettivamente Apple ha implementato tutta una
+
+955
+01:06:47,040 --> 01:06:50,880
+serie di funzioni che oggi non riusciamo a specificare nel dettaglio.
+
+956
+01:06:50,880 --> 01:06:56,400
+Possiamo però dire che tra le varie cose ha implementato molta intelligenza
+
+957
+01:06:56,400 --> 01:07:03,120
+artificiale per ottimizzare e stabilizzare le immagini sui video, per ottimizzare anche
+
+958
+01:07:03,120 --> 01:07:05,440
+il risultato finale delle foto.
+
+959
+01:07:05,440 --> 01:07:09,360
+E ha fatto veramente un grande lavoro per, per esempio, creare l'effetto
+
+960
+01:07:09,360 --> 01:07:11,200
+sfocato software.
+
+961
+01:07:11,200 --> 01:07:15,840
+Insomma, sicuramente l'iPhone, uno dei pregi e uno dei motivi per cui
+
+962
+01:07:16,160 --> 01:07:22,160
+tanti li acquistano, sono anche le capacità fotografiche veramente elevate.
+
+963
+01:07:22,320 --> 01:07:26,080
+Uno dei motivi per cui sono contento del mio ultimo iPhone, a
+
+964
+01:07:26,080 --> 01:07:29,680
+prescindere dal costo che ho dovuto, il prezzo che ho dovuto pagare
+
+965
+01:07:29,680 --> 01:07:35,040
+ad Apple, è proprio che effettivamente il reparto fotografico e video, devo
+
+966
+01:07:35,040 --> 01:07:41,600
+dire la verità, non ha nulla da invidiare, quasi a una fotocamera
+
+967
+01:07:41,600 --> 01:07:47,840
+digitale compatta, anzi anzi, qualcosa di più, venendo invece a qualcosa di
+
+968
+01:07:47,840 --> 01:07:52,160
+diverso e cercherò di essere veramente sintetico perché abbiamo abbastanza una scaletta
+
+969
+01:07:52,160 --> 01:07:54,400
+ancora pregna di contenuti.
+
+970
+01:07:54,400 --> 01:07:58,640
+Parliamo delle note dei promemoria che sono di fatto gli strumenti di
+
+971
+01:07:58,640 --> 01:08:03,600
+base di Apple che offre Apple per la gestione degli appunti e
+
+972
+01:08:03,600 --> 01:08:05,120
+dei pro memoria.
+
+973
+01:08:05,120 --> 01:08:10,000
+Sono applicazioni relativamente semplici, anche se nel tempo si sono hanno aumentato
+
+974
+01:08:10,000 --> 01:08:12,160
+le loro caratteristiche, le loro peculiarità.
+
+975
+01:08:12,160 --> 01:08:16,320
+Quindi c'è la possibilità, per esempio, in nota di condividere queste note,
+
+976
+01:08:16,320 --> 01:08:19,680
+di fare delle note sicure che sono cifrate.
+
+977
+01:08:19,680 --> 01:08:20,720
+Disegnare anche.
+
+978
+01:08:20,720 --> 01:08:24,480
+Disegnare anche, ma quello per l'iPad ma no, anche su iPhone.
+
+979
+01:08:24,480 --> 01:08:31,480
+Beh, è col dito, però, o con la penna capacitiva schifosa, la
+
+980
+01:08:31,480 --> 01:08:32,920
+pena capacitiva, però
+
+981
+01:08:35,160 --> 01:08:38,920
+non trattarli così male se penne capacitive, che le uso anch'io.
+
+982
+01:08:39,320 --> 01:08:44,120
+Comunque è il sistema di base per una gestione molto basica, ovviamente
+
+983
+01:08:44,280 --> 01:08:48,840
+sia di prendere velocemente gli appunti delle note che di gestire i
+
+984
+01:08:48,840 --> 01:08:51,640
+propri impegni e i propri pro memoria.
+
+985
+01:08:51,640 --> 01:08:55,000
+Io praticamente pro Memoria lo uso solo per la gestione delle liste
+
+986
+01:08:55,000 --> 01:08:56,680
+delle spese familiari.
+
+987
+01:08:56,680 --> 01:08:58,200
+Però devo dire la verità: anche
+
+988
+01:08:59,240 --> 01:09:04,280
+tutto questo in maniera condivisa, quindi, ormai è un sistema abbastanza avanzato
+
+989
+01:09:04,280 --> 01:09:10,280
+che diciamo per l'utente medio, sicuramente vi permette di ovviamente sempre tutto
+
+990
+01:09:10,280 --> 01:09:16,200
+nell'ecosistema Apple, perché anche FaceTime, per esempio, è possibile utilizzarlo solo esclusivamente
+
+991
+01:09:16,200 --> 01:09:20,280
+su dispositivi Apple e non su altri dispositivi.
+
+992
+01:09:20,280 --> 01:09:25,640
+Quindi, per esempio, se aveste la necessità di chiacchierare con qualcun altro,
+
+993
+01:09:25,720 --> 01:09:31,480
+Skype o altre soluzioni sarebbero fattibili se avete degli utenti Android con
+
+994
+01:09:31,480 --> 01:09:32,280
+cui dialogare.
+
+995
+01:09:32,280 --> 01:09:36,680
+L'altra applicazione di cui dobbiamo parlare e che è stato il punto
+
+996
+01:09:36,680 --> 01:09:41,400
+di svolta, secondo me, di iOS, è l'App Store, l'app store che
+
+997
+01:09:41,400 --> 01:09:46,360
+non nasce con iOS, perché nel 2007 nella mentalità di Steve Jobs,
+
+998
+01:09:46,360 --> 01:09:49,800
+non ci dovevano essere altre applicazioni se non quelle di Apple o
+
+999
+01:09:49,800 --> 01:09:53,640
+le web app era il futuro per Jobs.
+
+1000
+01:09:53,640 --> 01:09:55,320
+Invece, dopo
+
+1001
+01:09:57,240 --> 01:10:01,320
+neanche un annetto, è nato l'app store ed è quello che ha
+
+1002
+01:10:01,320 --> 01:10:09,160
+probabilmente lanciato nell'Empiro Shell iOS, perché da qui si sono sviluppate un'infinità
+
+1003
+01:10:09,160 --> 01:10:13,560
+di applicazioni che hanno permesso di fare con prima l'iPhone e poi
+
+1004
+01:10:13,560 --> 01:10:20,960
+l'iPad un'infinità di cose differenti di videogiochi e varie attività che prima
+
+1005
+01:10:20,960 --> 01:10:23,120
+non erano neanche immaginabili.
+
+1006
+01:10:23,120 --> 01:10:26,720
+All'origine quando è stato sviluppato il sistema operativo.
+
+1007
+01:10:26,720 --> 01:10:31,040
+Non possiamo parlarne più in dettaglio di quello che vi ho accennato,
+
+1008
+01:10:31,040 --> 01:10:38,080
+però sicuramente buona parte di un telefono moderno diciamo è legato più
+
+1009
+01:10:38,080 --> 01:10:42,720
+alle applicazioni che le applicazioni di terze parti, chiamiamole così, che alle
+
+1010
+01:10:42,720 --> 01:10:47,280
+applicazioni native del sistema che invece stiamo andando a vedere oggi in
+
+1011
+01:10:47,280 --> 01:10:50,320
+questa puntata ovviamente introduttiva per le basi.
+
+1012
+01:10:50,320 --> 01:10:54,320
+L'altra cosa di cui invece volevo parlare brevemente, ma con un minimo
+
+1013
+01:10:54,320 --> 01:10:54,640
+di
+
+1014
+01:10:56,000 --> 01:10:58,800
+approfondimento, è l'applicazione file.
+
+1015
+01:10:58,800 --> 01:11:02,880
+L'applicazione file ha questo nome che da un certo punto di vista
+
+1016
+01:11:02,960 --> 01:11:06,880
+non ha senso, nel senso che è un termine inglese che non
+
+1017
+01:11:06,880 --> 01:11:09,280
+è stato tradotto in italiano.
+
+1018
+01:11:09,280 --> 01:11:11,120
+Sarebbe l'applicazione documenti.
+
+1019
+01:11:11,120 --> 01:11:16,000
+Potremmo definirla se la volessimo tradurre in italiano, è di fatto il
+
+1020
+01:11:16,000 --> 01:11:20,560
+finder di macOS su iOS e iPadOS.
+
+1021
+01:11:20,560 --> 01:11:25,200
+Ne parleremo ovviamente più in dettaglio su iPadOS su come funziona tutto
+
+1022
+01:11:25,200 --> 01:11:25,760
+il sistema.
+
+1023
+01:11:25,760 --> 01:11:30,720
+Se avrò tempo e modo, cercherò di fare degli approfondimenti specifici perché
+
+1024
+01:11:30,960 --> 01:11:36,400
+personalmente su iPados è il modo di lavorare con i documenti, è
+
+1025
+01:11:36,400 --> 01:11:39,600
+l'unico modo per lavorare in maniera sensata sui documenti.
+
+1026
+01:11:39,600 --> 01:11:44,080
+Come sempre, se siete interessati agli approfondimenti fin da ad ora, lasciamo
+
+1027
+01:11:44,080 --> 01:11:48,240
+nel link nelle note dell'episodio, tutta una serie di guide di Apple
+
+1028
+01:11:48,480 --> 01:11:53,040
+per le basi di file, diciamo che le basi sono queste: cioè
+
+1029
+01:11:53,200 --> 01:11:57,040
+il sistema di base, ovviamente file è il sistema di base per
+
+1030
+01:11:57,040 --> 01:11:59,440
+gestire i documenti di iOS.
+
+1031
+01:11:59,440 --> 01:12:06,440
+Non nasce nativamente come sistema di gestione dei documenti perché iOS nasce
+
+1032
+01:12:06,680 --> 01:12:10,360
+originariamente come un sistema app centrico.
+
+1033
+01:12:10,360 --> 01:12:14,200
+Ne abbiamo parlato prima, le app sono diventate
+
+1034
+01:12:15,400 --> 01:12:20,040
+la struttura di base del sistema dei dispositivi mobili di Apple.
+
+1035
+01:12:20,040 --> 01:12:23,880
+E in estrema sintesi per tutta una politica di sicurezza di Apple,
+
+1036
+01:12:23,880 --> 01:12:30,280
+i documenti non vivevano in una struttura cartella ma dentro le applicazioni.
+
+1037
+01:12:30,280 --> 01:12:37,400
+Quindi se io volevo scrivere un documento andavo in Word, scrivevo il
+
+1038
+01:12:37,400 --> 01:12:42,040
+documento in Word e il documento di Word lo trovavo all'interno dell'applicazione
+
+1039
+01:12:42,040 --> 01:12:42,840
+Word.
+
+1040
+01:12:42,840 --> 01:12:47,320
+Se volevo fare un'immagine la andavo a trovare in foto e solo
+
+1041
+01:12:47,320 --> 01:12:48,440
+lì trovavo
+
+1042
+01:12:50,120 --> 01:12:54,440
+tutte le varie foto che avevo scattato o che avevo salvato appunto
+
+1043
+01:12:54,440 --> 01:12:56,280
+all'interno di questa applicazione.
+
+1044
+01:12:56,280 --> 01:13:00,760
+Se volevo mandare tuttora funziona così se voglio mandare un'email con le
+
+1045
+01:13:00,760 --> 01:13:06,120
+foto che ho fatto, di fatto accedo alle foto dentro foto e
+
+1046
+01:13:06,920 --> 01:13:12,040
+carico queste foto nella mail piuttosto che in un messaggio e così
+
+1047
+01:13:12,040 --> 01:13:12,520
+via.
+
+1048
+01:13:13,240 --> 01:13:18,280
+Fino a 4-5 anni fa, questo era il sistema di funzionamento
+
+1049
+01:13:19,480 --> 01:13:21,560
+delle applicazioni nella struttura dei documenti.
+
+1050
+01:13:21,800 --> 01:13:26,440
+I documenti di fatto erano qualcosa contenuto all'interno di un'applicazione.
+
+1051
+01:13:26,440 --> 01:13:31,160
+A livello professionale non funzionava bene perché se io dovevo spostare il
+
+1052
+01:13:31,160 --> 01:13:36,680
+file da più applicazioni, dovevo copiare quel file sull'applicazione A, B e
+
+1053
+01:13:36,680 --> 01:13:37,960
+C eventualmente.
+
+1054
+01:13:37,920 --> 01:13:42,120
+E mi ritrovavo con delle copie all'interno di ogni singola applicazione di
+
+1055
+01:13:42,120 --> 01:13:43,160
+questo documento.
+
+1056
+01:13:43,160 --> 01:13:46,320
+Quindi, scomodissimo, e anche complicato da gestire.
+
+1057
+01:13:46,560 --> 01:13:53,920
+Nasce file e questo programma, appunto di fatto, si basa sull'architettura i
+
+1058
+01:13:53,920 --> 01:13:58,720
+cloud, poi anche architettura sul dispositivo stesso.
+
+1059
+01:13:58,720 --> 01:14:02,800
+Quindi ci troviamo con un file system un po' diverso da quello
+
+1060
+01:14:02,800 --> 01:14:07,040
+che siamo abituati a utilizzare su un normale computer, sia S o
+
+1061
+01:14:07,120 --> 01:14:09,840
+Mac o Windows o Linux.
+
+1062
+01:14:09,840 --> 01:14:12,800
+Per cui abbiamo una struttura un po' particolare.
+
+1063
+01:14:12,800 --> 01:14:16,000
+La prima cosa che vediamo è che c'è una memoria interna del
+
+1064
+01:14:16,000 --> 01:14:17,360
+singolo dispositivo.
+
+1065
+01:14:17,360 --> 01:14:21,760
+Quindi, per l'iPhone è il mio iPhone, per l'iPad è il mio
+
+1066
+01:14:21,760 --> 01:14:26,720
+iPad, abbiamo sempre una memoria esterna che è cloud.
+
+1067
+01:14:26,720 --> 01:14:31,600
+Che di fatto è quella che Apple sponsorizza per la gestione dei
+
+1068
+01:14:31,600 --> 01:14:38,560
+documenti, per cui tendenzialmente se vogliamo utilizzare documenti e per tantissimo tempo,
+
+1069
+01:14:38,560 --> 01:14:45,120
+per esempio, i documenti finché cloud non è diventato qualcosa di semi
+
+1070
+01:14:45,360 --> 01:14:52,960
+decente, chiamiamolo così, Dropbox ha fatto da padrone nella gestione documentale dei
+
+1071
+01:14:52,960 --> 01:14:59,040
+dispositivi mobili proprio perché era l'unico modo per condividere facilmente i documenti
+
+1072
+01:14:59,360 --> 01:15:03,040
+tra più dispositivi, ovviamente appoggiandosi a un cloud esterno.
+
+1073
+01:15:03,040 --> 01:15:07,680
+ICloud adesso ha queste funzioni, ha quasi tutte le funzioni principali che
+
+1074
+01:15:08,560 --> 01:15:13,680
+ha tuttora Dropbox, e può diventare un sistema abbastanza semplice di gestione
+
+1075
+01:15:13,680 --> 01:15:17,440
+con tutta una serie di problematiche.
+
+1076
+01:15:17,440 --> 01:15:22,960
+Negli ultimi due anni, tuttavia, abbiamo un ulteriore sviluppo della vicenda che
+
+1077
+01:15:22,960 --> 01:15:28,800
+è poi nato probabilmente con iPadOS, ovvero la possibilità di gestire
+
+1078
+01:15:28,800 --> 01:15:34,280
+anche le memorie esterne direttamente da iOS e iPadOS, e quindi
+
+1079
+01:15:34,360 --> 01:15:38,200
+la possibilità di fatto di collegare degli hard disk o delle memorie
+
+1080
+01:15:38,200 --> 01:15:44,120
+di massa in generale al sistema che viene visto a determinate condizioni
+
+1081
+01:15:44,280 --> 01:15:47,960
+perché non tutti i file system vengono gestiti da file, ma che
+
+1082
+01:15:47,960 --> 01:15:53,640
+ci permette di spostare i documenti dall'iPhone a un dispositivo
+
+1083
+01:15:55,400 --> 01:15:58,680
+di massa esterno senza troppi problemi.
+
+1084
+01:15:58,680 --> 01:16:03,560
+Io continuo a ripeterlo, l'iPhone lo uso pochissimo per spostare documenti per
+
+1085
+01:16:03,560 --> 01:16:07,240
+gestire documenti, l'iPad è tutto un altro paio di modi che lo
+
+1086
+01:16:07,240 --> 01:16:10,680
+vedremo meglio più avanti.
+
+1087
+01:16:10,680 --> 01:16:14,360
+L'altra cosa che ricordo è che è molto utile per poter utilizzare
+
+1088
+01:16:14,360 --> 01:16:19,480
+velocemente files, perché anche qui la visualizzazione di queste cartelle non è
+
+1089
+01:16:19,480 --> 01:16:25,960
+comodissima, soprattutto su iOS, sono i preferiti: cioè è possibile trascinare nella
+
+1090
+01:16:25,960 --> 01:16:30,440
+barra dei preferiti, nella barra di sinistra di file una serie di
+
+1091
+01:16:30,440 --> 01:16:33,480
+cartelle, chiamiamole così ad accesso rapido.
+
+1092
+01:16:33,480 --> 01:16:37,720
+Quindi, se io devo accedere a una cartella che è nidificata, cioè
+
+1093
+01:16:37,720 --> 01:16:41,640
+è in una struttura ad albero abbastanza complesso, con questo sistema riesco
+
+1094
+01:16:41,640 --> 01:16:46,840
+ad avere velocemente l'accesso a questi documenti.
+
+1095
+01:16:47,160 --> 01:16:51,480
+Come vi dicevo, nella sostanza, io l'iPhone non lo uso per la
+
+1096
+01:16:51,480 --> 01:16:56,840
+gestione documentale proprio perché il piccolo schermo e tutta una serie di
+
+1097
+01:16:56,840 --> 01:17:00,680
+altre limitazioni non mi permettono di lavorarci in maniera seria.
+
+1098
+01:17:00,680 --> 01:17:06,600
+Però, in alcuni casi d'emergenza, per esempio, devo salvare velocemente un allegato
+
+1099
+01:17:06,600 --> 01:17:12,840
+che poi voglio utilizzare altrove l'iPhone può diventare uno strumento di emergenza
+
+1100
+01:17:12,840 --> 01:17:18,000
+e sicuramente con un po' di fatica, chiamiamola così, si possono salvare
+
+1101
+01:17:18,000 --> 01:17:23,840
+i documenti nelle rispettive cartelle strutturandosi in una certa maniera, non vado
+
+1102
+01:17:23,840 --> 01:17:27,920
+oltre, nel senso che, o meglio, l'unica altra cosa che specifico è
+
+1103
+01:17:27,920 --> 01:17:32,400
+che adesso addirittura in files è possibile collegarsi a dischi di rete,
+
+1104
+01:17:32,400 --> 01:17:36,720
+quindi anche qui con tutta una serie di limitazioni, se c'è una
+
+1105
+01:17:36,720 --> 01:17:42,320
+necessità, c'è la possibilità di vedere dischi di rete e quindi condividere
+
+1106
+01:17:43,120 --> 01:17:46,480
+se siete nello stesso wifi sostanzialmente.
+
+1107
+01:17:47,040 --> 01:17:49,920
+Documenti anche tra computer differenti.
+
+1108
+01:17:49,920 --> 01:17:53,200
+Per esempio, avete la necessità di salvare dei documenti su un PC
+
+1109
+01:17:53,200 --> 01:17:56,320
+Windows da iPhone, come fate?
+
+1110
+01:17:56,720 --> 01:18:02,400
+Airdrop ovviamente non funziona, quindi dovete utilizzare uno di questi escamotage, chiamiamoli
+
+1111
+01:18:02,400 --> 01:18:02,800
+così.
+
+1112
+01:18:02,800 --> 01:18:09,360
+Quindi, comunque la gestione documentale anche su iOS è notevolmente migliorata dall'inizio,
+
+1113
+01:18:09,360 --> 01:18:13,520
+dove, come vi dicevo, è una versione app centrica.
+
+1114
+01:18:13,760 --> 01:18:18,400
+Questi dispositivi smartphone e i pad hanno questa grandissima possibilità di navigare
+
+1115
+01:18:18,400 --> 01:18:22,720
+in internet tramite Safari, che è il browser integrato all'interno di questi
+
+1116
+01:18:22,720 --> 01:18:28,080
+sistemi operativi, ma c'è anche Mail, che è praticamente il programma posta
+
+1117
+01:18:28,240 --> 01:18:32,160
+elettronica di iOS, ma non solo, perché si chiama così anche su
+
+1118
+01:18:32,160 --> 01:18:34,400
+macOS, e praticamente
+
+1119
+01:18:35,680 --> 01:18:37,200
+funzionano nello stesso modo.
+
+1120
+01:18:37,200 --> 01:18:43,120
+Diciamo che le cose interessanti per chi utilizza questi sistemi di navigazione,
+
+1121
+01:18:43,280 --> 01:18:48,480
+parlo di Safari: la modalità reader, che è una modalità molto minimale,
+
+1122
+01:18:48,480 --> 01:18:52,240
+molto pulita, che permette di vedere il sito solo in formato testo,
+
+1123
+01:18:52,240 --> 01:18:55,520
+ed è davvero molto utile nel momento in cui si inizia a
+
+1124
+01:18:55,520 --> 01:18:56,960
+leggere un testo lungo.
+
+1125
+01:18:56,960 --> 01:19:00,840
+Quindi non avete banner, non avete pubblicità, non avete fastidi di nessun
+
+1126
+01:19:00,840 --> 01:19:04,600
+tipo, ma altra cosa interessante che potete decidere voi qual è la
+
+1127
+01:19:04,600 --> 01:19:08,600
+dimensione del testo e lo sfondo di questa vista.
+
+1128
+01:19:08,600 --> 01:19:11,880
+Quindi se siete di noto viene molto utile averlo con sfondo nero,
+
+1129
+01:19:11,880 --> 01:19:14,600
+dei caratteri magari un po' più grandini, in modo tale che non
+
+1130
+01:19:14,600 --> 01:19:18,760
+diventate ciechi e domani non sapete come svegliarvi, non trovate neanche più
+
+1131
+01:19:18,760 --> 01:19:21,240
+gli occhiali perché non vedete più niente.
+
+1132
+01:19:21,240 --> 01:19:23,400
+Detto questo, cosa c'è ancora di interessante?
+
+1133
+01:19:23,400 --> 01:19:27,320
+Che c'è la possibilità nel caso in cui il sito mobile sia
+
+1134
+01:19:27,560 --> 01:19:32,680
+fatto con i piedi, perché ci sono ancora nel 2021 siti mobile
+
+1135
+01:19:32,680 --> 01:19:36,280
+fatti con i piedi che è molto più facile da navigare con
+
+1136
+01:19:36,520 --> 01:19:42,520
+la modalità desktop, ovvero che come voi sapete i siti internet decidono
+
+1137
+01:19:42,520 --> 01:19:46,200
+in base alle dimensioni dello schermo e al dispositivo che avete, se
+
+1138
+01:19:46,200 --> 01:19:50,600
+farvi vedere la versione mobile o la versione desktop, con
+
+1139
+01:19:51,800 --> 01:19:56,840
+iOS potete chiedere di vedere la versione desktop del sito in modo
+
+1140
+01:19:56,840 --> 01:20:00,120
+tale che non siete limitati dalla versione mobile che magari è stata
+
+1141
+01:20:00,120 --> 01:20:04,040
+studiata decisamente male e anche a tavolino.
+
+1142
+01:20:04,040 --> 01:20:08,680
+Altra cosa che potete utilizzare è la condivisione di quello che state
+
+1143
+01:20:08,680 --> 01:20:09,240
+navigando.
+
+1144
+01:20:09,240 --> 01:20:13,640
+Ad esempio, a me capita spesso che mentre sto navigando qualcosa sul
+
+1145
+01:20:14,280 --> 01:20:19,400
+cellulare, lo avvicino al Mac e compare una bella iconcina sulla barra
+
+1146
+01:20:19,400 --> 01:20:24,440
+dei menu scusate, sulla doc, e quindi mi permette di, con un
+
+1147
+01:20:24,440 --> 01:20:30,200
+semplice critico, di passare la navigazione diretta sul browser che ho sul
+
+1148
+01:20:30,200 --> 01:20:35,000
+Macintosh senza sforzi, senza usare hair drop e senza usare niente.
+
+1149
+01:20:35,000 --> 01:20:40,680
+Essenzialmente, il famoso continuity che dicevamo prima: la possibilità di iniziare a
+
+1150
+01:20:40,680 --> 01:20:43,720
+fare una cosa su un dispositivo e finirla su un altro, e
+
+1151
+01:20:43,720 --> 01:20:47,920
+questo è molto utile anche nella navigazione nel caso in cui capiti
+
+1152
+01:20:44,840 --> 01:20:48,960
+cose di questo tipo.
+
+1153
+01:20:49,120 --> 01:20:53,840
+Un'altra possibilità è quella di sfogliare avanti e indietro rispetto alle pagine
+
+1154
+01:20:53,840 --> 01:20:58,080
+che state navigando, ma chiaramente queste qui sono gesture che all'interno di
+
+1155
+01:20:58,080 --> 01:21:02,000
+iOS o di iPadOS vi verranno naturali nel momento in cui
+
+1156
+01:21:02,000 --> 01:21:03,360
+lo utilizzate.
+
+1157
+01:21:03,360 --> 01:21:10,640
+Altra cosa che soprattutto per noi professionisti è fondamentale appunto la gestione
+
+1158
+01:21:10,640 --> 01:21:11,840
+della posta elettronica.
+
+1159
+01:21:11,840 --> 01:21:17,120
+Io mi trovo benissimo con Mail, che è integrato con iOS ma
+
+1160
+01:21:17,120 --> 01:21:24,480
+anche con Macintosh, soprattutto perché è interessante anche qua la gestualità con
+
+1161
+01:21:24,960 --> 01:21:25,680
+Mail.
+
+1162
+01:21:25,680 --> 01:21:30,240
+Essenzialmente potete buttare via le mail con uno swipe, potete decidere di
+
+1163
+01:21:30,240 --> 01:21:32,480
+dire che se è letto o non è letto o con uno
+
+1164
+01:21:32,480 --> 01:21:38,000
+swipe dall'altra parte, e potete essenzialmente fare tutto quello che fate sul
+
+1165
+01:21:38,000 --> 01:21:40,000
+Macintosh senza grossi problemi.
+
+1166
+01:21:40,000 --> 01:21:43,840
+Qui adesso, a questo punto, chiedo direttamente a Filippo invece come si
+
+1167
+01:21:43,840 --> 01:21:49,200
+comporta adesso con le PAC iOS, perché sul Macintosh bene o male
+
+1168
+01:21:49,280 --> 01:21:52,000
+se la cava, non so come se la cavi su iOS, perché
+
+1169
+01:21:52,000 --> 01:21:54,560
+non ho mai affrontato direttamente l'argomento.
+
+1170
+01:21:56,240 --> 01:22:02,320
+Non sono utilizzatore di mail su iOS, quindi ammetto di peccare.
+
+1171
+01:22:02,320 --> 01:22:07,520
+Credo che attualmente il funzionamento sicuramente su macOS apra le PAC senza
+
+1172
+01:22:07,520 --> 01:22:08,000
+problemi.
+
+1173
+01:22:08,000 --> 01:22:12,640
+È configurabile comunque su iOS, la PAC senza nessun tipo di problema.
+
+1174
+01:22:12,960 --> 01:22:16,160
+Gli allegati credo che possono avere qualche tipo di.
+
+1175
+01:22:16,120 --> 01:22:21,120
+Adesso aspetta che faccio una prova in diretta: se ho tutto aperto
+
+1176
+01:22:21,120 --> 01:22:23,000
+e se tutto funziona.
+
+1177
+01:22:23,240 --> 01:22:28,720
+Credo che in alcuni casi ci siano ancora dei problemi su mail,
+
+1178
+01:22:28,720 --> 01:22:32,920
+ma casomai mi sbaglio perché andiamo subito a vedere.
+
+1179
+01:22:33,160 --> 01:22:39,320
+Nella sostanza, il vero problema di mail è che essendoci no, dovrebbe
+
+1180
+01:22:39,320 --> 01:22:39,800
+aprirle.
+
+1181
+01:22:39,800 --> 01:22:44,600
+No, le apre perfettamente quindi non ci sono più grossi problemi nella
+
+1182
+01:22:44,760 --> 01:22:47,480
+gestione delle pack, da quello che vedo.
+
+1183
+01:22:47,480 --> 01:22:52,200
+Il problema che avevo abitualmente aspetta, provo a vedere, ma direi che
+
+1184
+01:22:52,440 --> 01:22:54,440
+no, no, funziona tutto perfettamente.
+
+1185
+01:22:54,440 --> 01:22:58,520
+C'è stato per un certo periodo di problemi degli allegati alla PAC
+
+1186
+01:22:58,680 --> 01:23:04,680
+nella sostanza, adesso anche su iOS 14 non ci sono più problemi
+
+1187
+01:23:04,680 --> 01:23:09,160
+nella gestione perché di fatto la PAC è una mail dentro una
+
+1188
+01:23:09,160 --> 01:23:14,280
+mail e quindi in questa maniera viene visualizzata da mail stesso.
+
+1189
+01:23:14,280 --> 01:23:18,840
+C'erano altre applicazioni che invece permettevano di fatto di vedere la propria
+
+1190
+01:23:18,840 --> 01:23:24,280
+casella di posta PA in maniera nativa, adesso Mail non ha più
+
+1191
+01:23:25,080 --> 01:23:28,440
+nessun problema di fatto anche a gestire gli allegati.
+
+1192
+01:23:28,440 --> 01:23:34,280
+Comunque da sempre si poteva configurare senza problemi sui nostri dispositivi mobile
+
+1193
+01:23:34,280 --> 01:23:39,080
+e per il professionista effettivamente diventa comodo avere la possibilità di leggere
+
+1194
+01:23:39,080 --> 01:23:42,520
+la propria PAC anche su un dispositivo come questo.
+
+1195
+01:23:42,520 --> 01:23:43,560
+Assolutamente si.
+
+1196
+01:23:43,720 --> 01:23:48,920
+Dedicheremo una puntata se non più di puntate sulla gestione delle mail,
+
+1197
+01:23:48,920 --> 01:23:54,360
+sul flusso di lavoro delle mail sia come os che con iOS.
+
+1198
+01:23:54,840 --> 01:23:57,960
+Chiuderei quella che è la mia parte, poi lascio la conclusione della
+
+1199
+01:23:58,120 --> 01:24:04,200
+puntata a te sulla sicurezza di iOS per dire due cose velocissime
+
+1200
+01:24:04,200 --> 01:24:05,960
+che sono però importanti.
+
+1201
+01:24:06,200 --> 01:24:13,240
+Innanzitutto è fondamentale impostare il cosiddetto codice di sblocco dell'iPhone o dell'iPad,
+
+1202
+01:24:13,240 --> 01:24:19,040
+questo perché in pratica, solo con questa modalità, i dati che sono
+
+1203
+01:24:19,040 --> 01:24:25,760
+conservati sull'iPhone e sull'iPad, vengono direttamente cifrati da Apple.
+
+1204
+01:24:26,080 --> 01:24:30,640
+La cifratura avviene solo quando il dispositivo è spento, quindi la cifratura
+
+1205
+01:24:30,640 --> 01:24:34,880
+avviene solo nel momento di spegnimento, attenzione, un'altra cosa fondamentale.
+
+1206
+01:24:35,200 --> 01:24:40,320
+Questa è la prima linea di difesa, chiamiamola così, ovviamente nel caso
+
+1207
+01:24:40,320 --> 01:24:47,120
+di smarimento o sottrazione addirittura del nostro dispositivo Apple, soprattutto se ci
+
+1208
+01:24:47,120 --> 01:24:50,720
+sono dei dati sensibili, ma pensiamo già solo alle foto che possono
+
+1209
+01:24:50,720 --> 01:24:55,440
+essere contenute all'interno del dispositivo se non mettete il blocco e se
+
+1210
+01:24:55,440 --> 01:25:00,640
+qualcuno vi ruba o anche solo semplicemente vi sottrae temporaneamente il dispositivo,
+
+1211
+01:25:00,640 --> 01:25:04,640
+potrebbe avere accesso a tutte le foto che vi siete fatte, momenti
+
+1212
+01:25:04,880 --> 01:25:08,720
+privati e altre cose poco piacevoli che potrebbero essere sul telefono.
+
+1213
+01:25:08,720 --> 01:25:11,760
+Quindi è fondamentale mettere il codice di sblocco.
+
+1214
+01:25:11,760 --> 01:25:17,680
+Se siete molto paranoici, c'è anche l'opzione che dopo dieci tentativi consecutivi
+
+1215
+01:25:18,000 --> 01:25:24,720
+di sblocare il telefono, questo viene totalmente cancellato.
+
+1216
+01:25:25,040 --> 01:25:27,120
+Questa forse è un'opzione un po'
+
+1217
+01:25:28,320 --> 01:25:34,000
+un po' estrema, mettiamola così, però, soprattutto se avete dei dati molto
+
+1218
+01:25:34,000 --> 01:25:38,720
+sensibili o se ci tenete particolarmente la vostra privacy, è una cosa
+
+1219
+01:25:38,720 --> 01:25:40,400
+da tenere presente.
+
+1220
+01:25:40,640 --> 01:25:45,520
+Quindi, il suggerimento è sapere che comunque se non mettete il codice
+
+1221
+01:25:45,520 --> 01:25:50,160
+di blocco, il vostro telefono di fatto è aperto a chiunque e
+
+1222
+01:25:50,240 --> 01:25:53,520
+chiunque può accedervi indiscriminatamente.
+
+1223
+01:25:53,560 --> 01:25:59,360
+Quindi il consiglio, Apple già imponeva da svariati anni il codice a
+
+1224
+01:25:59,360 --> 01:26:04,600
+quattro numeri che non è sicurissimo, però almeno il codice a sei
+
+1225
+01:26:04,600 --> 01:26:09,560
+numeri è quello fondamentale, poi addirittura c'è la possibilità di mettere un
+
+1226
+01:26:09,560 --> 01:26:14,280
+codice alfanumerico che ovviamente garantisce maggiore sicurezza.
+
+1227
+01:26:14,520 --> 01:26:19,320
+Questo codice che vi viene richiesto soltanto quando lo accendete la prima
+
+1228
+01:26:19,320 --> 01:26:25,720
+volta, perché poi durante l'utilizzo avete il PCD oppure l'impronta digitale non
+
+1229
+01:26:25,720 --> 01:26:29,160
+vi viene più chiesto, però è meglio che lo avviate perché, come
+
+1230
+01:26:29,160 --> 01:26:31,480
+vi diceva Filippo, è una sicurezza in più.
+
+1231
+01:26:31,480 --> 01:26:36,920
+Invece vado direttamente a chiudere l'argomento per la mia esperienza recentissima che
+
+1232
+01:26:36,920 --> 01:26:41,000
+anche Filippo non conosce molto bene perché è appunto proprio recente.
+
+1233
+01:26:41,240 --> 01:26:45,720
+Che ho seguito sul canale YouTube di uno dei vari architetti che
+
+1234
+01:26:45,720 --> 01:26:46,360
+seguo
+
+1235
+01:26:47,640 --> 01:26:51,880
+nei vari loro canali, dove c'era qualcuno che parlava in effetti di
+
+1236
+01:26:51,880 --> 01:26:55,320
+come avere un'impostazione minima sul proprio iPhone.
+
+1237
+01:26:55,320 --> 01:26:58,600
+E subito all'inizio l'ho visto, ho detto sì, sì, molto bello, l'ho
+
+1238
+01:26:58,600 --> 01:27:02,120
+lasciato scorrere perché sono uno di quelli che dice: Vabbè, tu sei
+
+1239
+01:27:02,120 --> 01:27:07,640
+padrone dell'iPhone, tu sei capace a trattenerti e non utilizzare l'iPhone nel
+
+1240
+01:27:07,640 --> 01:27:09,400
+momento in cui non devi.
+
+1241
+01:27:09,400 --> 01:27:13,240
+Nel senso, se vuoi perderci tempo va bene, però, se non vuoi
+
+1242
+01:27:13,240 --> 01:27:16,280
+perderci tempo, lo sai, lo lasci lì, non lo prendi in mano
+
+1243
+01:27:16,280 --> 01:27:19,800
+e poi a un certo punto ho deciso bene di fare questo
+
+1244
+01:27:19,800 --> 01:27:23,400
+esperimento perché secondo me era degno di nota.
+
+1245
+01:27:23,400 --> 01:27:25,800
+Perché cosa aveva fatto il nostro amico?
+
+1246
+01:27:25,800 --> 01:27:31,880
+Aveva semplicemente svuotato tutte le cartelle, tutte le pagine del proprio iPhone,
+
+1247
+01:27:31,880 --> 01:27:36,840
+ha lasciato una sola icona in alto a sinistra, l'unica icona che
+
+1248
+01:27:36,840 --> 01:27:41,960
+ha all'interno della schermata Home che di Notion, che poi un programma
+
+1249
+01:27:41,960 --> 01:27:45,840
+che vi spiegheremo per prendere note, ma non solo, e poi ha
+
+1250
+01:27:45,840 --> 01:27:53,040
+delegato la distribuzione delle app che ha sull'iPhone nella libreria app.
+
+1251
+01:27:53,040 --> 01:27:57,280
+Quindi voi aprite l'iPhone, avete la vostra icona in alto a sinistra.
+
+1252
+01:27:57,280 --> 01:27:59,360
+La scherma è tutto vuoto, ve lo faccio vedere.
+
+1253
+01:27:59,520 --> 01:28:04,800
+Una cosa di questo tipo fa abbastanza impressione, poi nella dock avete
+
+1254
+01:28:04,800 --> 01:28:07,120
+il telefono, messaggi, mail e safari.
+
+1255
+01:28:07,120 --> 01:28:08,640
+Questa è quella mia impostazione.
+
+1256
+01:28:08,640 --> 01:28:11,280
+E poi non avete più nient'altro, quindi l'unica cosa che potete fare
+
+1257
+01:28:11,280 --> 01:28:15,120
+è fare uno swipe verso sinistra e trovare la libreria app che
+
+1258
+01:28:15,120 --> 01:28:18,160
+è l'unico modo per riuscire a trovare le altre applicazioni se non
+
+1259
+01:28:18,320 --> 01:28:22,160
+con la funzione cerca e questa ha una grandissima utilità che è
+
+1260
+01:28:22,160 --> 01:28:26,400
+quella di non avere le applicazioni mangiatempo sotto gli occhi nella schermata
+
+1261
+01:28:26,400 --> 01:28:27,600
+Home.
+
+1262
+01:28:27,600 --> 01:28:30,480
+Non ci credevo, ho fatto l'esperimento in una settimana.
+
+1263
+01:28:30,480 --> 01:28:34,800
+Essenzialmente ho controllato con la quantità di utilizzo del mio iPhone.
+
+1264
+01:28:34,960 --> 01:28:40,080
+Ho visto che ogni giorno ho guadagnato un'ora, un'ora che non perdevo
+
+1265
+01:28:40,080 --> 01:28:44,160
+attaccato al telefono, che vuol dire che in una settimana avete mezza
+
+1266
+01:28:44,240 --> 01:28:49,440
+giornata in più che altrimenti lo buttavate via in perditempo essenzialmente.
+
+1267
+01:28:49,440 --> 01:28:51,840
+Quindi in drenaggio del vostro tempo.
+
+1268
+01:28:51,840 --> 01:28:56,720
+Questo ve lo dico sinceramente: oltre alle notifiche che sono il nemico
+
+1269
+01:28:56,720 --> 01:29:02,880
+del professionista, anche questo è un nemico molto sottile perché voi mettete
+
+1270
+01:29:02,880 --> 01:29:07,280
+le applicazioni che utilizzate di più nella scherm, solo che queste applicazioni
+
+1271
+01:29:07,360 --> 01:29:11,840
+che utilizzate di più nella scherm sono lì per chiamarvi.
+
+1272
+01:29:11,840 --> 01:29:17,760
+Invece, anche se voi usate la libreria app, è un gesto intenzionale
+
+1273
+01:29:17,920 --> 01:29:22,720
+quello di utilizzare le applicazioni che sono all'interno della libreria app, non
+
+1274
+01:29:22,720 --> 01:29:27,600
+ce l'avete lì sotto gli occhi, quindi siete automaticamente bloccati.
+
+1275
+01:29:27,600 --> 01:29:32,440
+Utilizzate solo un'applicazione e se volete fare qualcosa, dovete pensarci e devo
+
+1276
+01:29:32,440 --> 01:29:36,200
+andare a prendere l'applicazione, non ce l'avete lì sopra, e questo, solo
+
+1277
+01:29:36,200 --> 01:29:41,880
+per questa cosa qua la chiamiamola pigrizia, oppure la modalità di pensare
+
+1278
+01:29:42,520 --> 01:29:46,920
+a cercare un'applicazione del perché lo fate, a me ha fatto guadagnare
+
+1279
+01:29:46,920 --> 01:29:48,920
+un'ora al giorno che è preziosissima.
+
+1280
+01:29:48,920 --> 01:29:54,680
+Sicuramente, adesso beh, in un futuro parleremo anche del contextual computing di
+
+1281
+01:29:54,680 --> 01:29:57,560
+David Spark che sto cercando di applicare.
+
+1282
+01:29:58,520 --> 01:30:05,720
+Ma siamo andati oltre, abbiamo un'ora e 32 minuti di diretta, direi.
+
+1283
+01:30:05,720 --> 01:30:11,960
+Quindi, a questo punto, possiamo salutare i nostri ascoltatori e i nostri
+
+1284
+01:30:11,960 --> 01:30:13,160
+video ascoltatori.
+
+1285
+01:30:13,160 --> 01:30:16,840
+Qualcuno c'era in diretta anche con noi, anche se non si è
+
+1286
+01:30:16,840 --> 01:30:19,720
+fatto sentire la nostra chat.
+
+1287
+01:30:19,720 --> 01:30:25,800
+Vi ricordiamo sempre che, ovviamente, al venerdì sera dalle 21.30 fin verso
+
+1288
+01:30:25,800 --> 01:30:27,560
+le 23 facciamo la diretta
+
+1289
+01:30:29,160 --> 01:30:30,920
+delle nostre puntate.
+
+1290
+01:30:30,920 --> 01:30:36,920
+Se no, potete ascoltarci probabilmente dalla settimana prossima o comunque da fine
+
+1291
+01:30:36,920 --> 01:30:38,360
+febbraio, perché ho
+
+1292
+01:30:39,800 --> 01:30:45,320
+tanto così dal far partire il podcast in formato veramente podcast.
+
+1293
+01:30:45,320 --> 01:30:50,120
+Domani mi dedico all'editing di 3-4 puntate in stecca.
+
+1294
+01:30:50,120 --> 01:30:56,920
+Probabilmente a breve ci sentirete anche attraverso gli strumenti podcast.
+
+1295
+01:30:56,920 --> 01:31:02,520
+E niente dove ci potete trovare, allora, il sito ufficiale è a
+
+1296
+01:31:02,520 --> 01:31:02,760
+due
+
+1297
+01:31:03,880 --> 01:31:11,480
+podcast punti e ovviamente Roberto lo potete trovare sia su Twitter come
+
+1298
+01:31:11,720 --> 01:31:13,800
+Architet OK.
+
+1299
+01:31:13,880 --> 01:31:14,600
+E invece
+
+1300
+01:31:15,600 --> 01:31:20,560
+sul sito internet, oltre che sul podcast, dunque, qui cominciamo ad andare
+
+1301
+01:31:20,560 --> 01:31:21,280
+per le lunghe.
+
+1302
+01:31:21,280 --> 01:31:25,680
+Perché insomma, i modi per trovarmi trovate più o meno male dappertutto.
+
+1303
+01:31:25,680 --> 01:31:29,280
+Dunque, c'è Mac Architettura che è il mio blog, e poi c'è
+
+1304
+01:31:29,280 --> 01:31:33,360
+Snap Architettura Imperfetta che è il mio podcast personale che porto avanti
+
+1305
+01:31:33,360 --> 01:31:34,320
+in solitaria.
+
+1306
+01:31:34,320 --> 01:31:40,480
+A me, come al solito, trovate su avvocatemac.it e sull'omonimo podcast, denominato
+
+1307
+01:31:40,480 --> 01:31:44,800
+Compendi per Comodità che ha una cadenza decisamente meno regolare di quella
+
+1308
+01:31:44,800 --> 01:31:45,360
+di Roberto.
+
+1309
+01:31:45,360 --> 01:31:48,160
+Quindi, se dovete ascoltare qualcuno, andate ad ascoltare Roberto.
+
+1310
+01:31:48,160 --> 01:31:49,040
+Grazie.
+
+1311
+01:31:52,480 --> 01:31:56,880
+Ovviamente, tutti e due credo che abbiamo, se vi interessa, i rispettivi
+
+1312
+01:31:56,880 --> 01:31:58,080
+canali Telegram adesso.
+
+1313
+01:31:58,080 --> 01:32:02,480
+Prima o casomai, potremmo ragionare di aprire anche un canale
+
+1314
+01:32:04,240 --> 01:32:05,440
+un canale a due.
+
+1315
+01:32:05,440 --> 01:32:06,800
+Ma è ancora presto.
+
+1316
+01:32:06,800 --> 01:32:13,040
+Intanto, iniziamo a fare la pubblicazione delle puntate del podcast, quindi ci
+
+1317
+01:32:13,040 --> 01:32:16,800
+sentiamo se tutto va bene la settimana prossima e niente, nient'altro da
+
+1318
+01:32:16,800 --> 01:32:19,040
+dire, ci sentiamo alla prossima settimana.
+
+1319
+01:32:19,040 --> 01:32:21,440
+Buon lavoro a tutti, buona serata.

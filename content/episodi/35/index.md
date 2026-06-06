@@ -11,7 +11,7 @@ tags = ["mac", "pixelmator", "password-manager", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "fv6XuPvsWbQ"
   guest = "davide-gatti"
 +++

@@ -16,7 +16,7 @@ draft = false
 +++
 
 > In questa puntata Roberto e Filippo parlano dei c.d. Launcher o lanciatori di Applicazioni, di cosa fanno e perché potrebbero esserti utili su macOS.
-# Note dell’episodio
+## Note dell’episodio
 ## Cosa sono i launcher o lanciatori?
 
 ### Applicazioni che permettono di 

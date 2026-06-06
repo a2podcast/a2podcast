@@ -11,11 +11,11 @@ tags = ["mac", "app", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "0uDG5H_jqcg"
 +++
 
-# 13 - 10 utility per Mac
+## 13 - 10 utility per Mac
 
 > In questa puntata Roberto e Filippo di 10 utility da avere sul vostro Mac.
 

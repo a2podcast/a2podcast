@@ -11,13 +11,13 @@ tags = ["ipados", "ipad", "apple-pencil", "hardware"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "ybMrz9Nglx0"
 +++
 
 > In questa puntata Roberto e Filippo vi introducono alle particolarità di iPadOS il sistema operativo degli iPad. Oltre a parlare di come funziona il multitasking di iPadOS esamineranno in dettaglio l'app File, come navigare con Safari con la modalità desktop ed infine dell'utilizzo di iPad con l’_Apple Pencil,_ il mouse o il trackpad e le tastiere esterne tra cui: la [Bridge Keyboard](https://www.brydge.com/), la [Smart Folio Keyboard ](https://www.apple.com/it/ipad-keyboards/) e la [Magic Keyboard](https://www.apple.com/it/ipad-keyboards/).
 
-# Comunicazioni di servizio
+## Comunicazioni di servizio
 
 Il **podcast è ufficialmente online** e potete ascoltarlo sia su [Apple Podcast](https://podcasts.apple.com/it/podcast/a2/id1555104264), che su [Spotify](spotify:show:33N9cTw7MHLk58MDt22Cx4) che su Amazon.
 
@@ -29,7 +29,7 @@ Se volete **supportare il podcast** vi chiediamo con il cuore di fare una **rece
 
 Se volete sapere **come fare** una recensione trovate qui il [link](https://www.avvocati-e-mac.it/podcast/itunes).
 
-# Materiale di approfondimento
+## Materiale di approfondimento
 
 Vari podcast in lingua inglese dove poter estrarre tantissime informazioni: [Adapt](https://podcasts.apple.com/us/podcast/adapt/id1463771789) e [Canvas](https://podcasts.apple.com/us/podcast/canvas/id1073124209) (tutti interrotti) [iPad Pros](https://ipadpros.net/).
 
@@ -63,7 +63,7 @@ L'esperto "assoluto" l'italianissimo [Federico Viticci](https://www.macstories.n
 - [Utilizzare le abbreviazioni su una tastiera esterna con iPad](https://support.apple.com/it-it/guide/ipad/ipaddf61a0c2/ipados)
 - [Utilizzare le app clip su iPhone](https://support.apple.com/it-it/guide/iphone/iphb3a73ec53/ios)
 
-# I consigli di Roberto
+## I consigli di Roberto
 
 App consigliate: [Pdf Expert](https://apps.apple.com/it/app/pdf-expert-edit-and-sign-pdf/id1055273043?mt=12), [Morpholio Trace](https://apps.apple.com/us/app/morpholio-trace-sketch-cad/id547274918), [Notion](https://www.notion.so)
 
@@ -71,7 +71,7 @@ Per il 3D: [Shapr3D](https://apps.apple.com/it/app/shapr-cad-per-modellazione-3d
 
 LiDAR: [Displayland](https://www.display.land/); [Pix4D](https://www.pix4d.com/), [Matterport](https://matterport.com/cameras)
 
-# Dove ci possono trovare?
+## Dove ci possono trovare?
 
 ## Roberto:
 

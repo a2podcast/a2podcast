@@ -17,9 +17,9 @@ draft = false
 
 > In questa puntata Roberto e Filippo riprendo il tema diel "secondo cervello" e di come gestire la conoscenza e le informazioni in digitale e se e quando ha senso farlo. Sarà uno sguardo d’insieme ed un approfondimento rispetto alla puntata 39.
 
-# Note episodio
+## Note episodio
 
-# A2 ep.73 - Gestione della conoscenza personale (ripresa)
+## A2 ep.73 - Gestione della conoscenza personale (ripresa)
 
 - [Puntata 39: PKM – Personal Knowledge Management](http://a2podcast.it/39)
 - [Tutto è nato dalla mia lettura del libro“ Il tuo secondo cervello” di Tiago Forte](https://amzn.to/45qlVq1)

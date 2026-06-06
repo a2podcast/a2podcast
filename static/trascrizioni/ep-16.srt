@@ -1,0 +1,4427 @@
+1
+00:00:00,160 --> 00:00:04,560
+Benvenuti all'episodio 16 di A2, in cui scoprire come ottenere il massimo
+
+2
+00:00:04,560 --> 00:00:06,880
+della vostra tecnologia, Apple.
+
+3
+00:00:06,880 --> 00:00:10,640
+Io sono Filippo Strozzi e sono il vostro ospite assieme all'amico Roberto
+
+4
+00:00:10,640 --> 00:00:11,280
+Marin.
+
+5
+00:00:11,280 --> 00:00:13,760
+Di che cosa parliamo in questo episodio, Roberto?
+
+6
+00:00:13,760 --> 00:00:17,600
+Potremmo parlare di un sacco di cose, tra cui anche dell'evento Apple,
+
+7
+00:00:17,600 --> 00:00:19,200
+ma non è questa la sede.
+
+8
+00:00:19,200 --> 00:00:24,480
+Invece parleremo della puntata precedente in cui abbiamo parlato dei programmi di
+
+9
+00:00:24,480 --> 00:00:25,520
+videoscrittura.
+
+10
+00:00:25,520 --> 00:00:28,880
+Speriamo che vi siano piaciuti che siano stati interessanti.
+
+11
+00:00:28,880 --> 00:00:30,320
+Immagino che la maggior parte
+
+12
+00:00:31,360 --> 00:00:37,360
+li conoscevate già tutti, mentre quest'oggi parleremo del testo puro e semplice
+
+13
+00:00:37,360 --> 00:00:41,200
+e i programmi che permettono di utilizzare questo testo come se non
+
+14
+00:00:41,200 --> 00:00:42,240
+ci fosse un domani.
+
+15
+00:00:42,240 --> 00:00:46,320
+Ovvero il testo è la nostra, come si può dire la nostra
+
+16
+00:00:46,320 --> 00:00:47,520
+Bibbia.
+
+17
+00:00:47,840 --> 00:00:52,720
+Ma prima di passare a cose trascendentali, veniamo a noi e cercate
+
+18
+00:00:52,720 --> 00:00:54,400
+di supportare il podcast.
+
+19
+00:00:54,400 --> 00:00:55,840
+Come potete farlo?
+
+20
+00:00:55,840 --> 00:01:01,040
+Semplicemente con una bella recensione su Apple Podcast, e perché in questa
+
+21
+00:01:01,040 --> 00:01:04,320
+fase iniziale abbiamo bisogno di recensioni in modo tale che uno, ci
+
+22
+00:01:04,320 --> 00:01:06,480
+conoscono di più, due saliamo su
+
+23
+00:01:07,600 --> 00:01:12,400
+nella classifica dei podcast, tre, vi fate conoscere e conosciamo i nostri
+
+24
+00:01:12,400 --> 00:01:13,520
+ascoltatori.
+
+25
+00:01:13,520 --> 00:01:14,000
+4.
+
+26
+00:01:14,000 --> 00:01:16,800
+Se ci date dei feedback e non riusciamo a metterci anche sulla
+
+27
+00:01:16,800 --> 00:01:19,680
+strada giusta per piacervi sempre di più, ancora meglio.
+
+28
+00:01:19,680 --> 00:01:23,680
+E come vi dicevo, per questa recensione troverete il link nelle note
+
+29
+00:01:23,760 --> 00:01:28,640
+dell'episodio con tutte le istruzioni per divertirvi a fare questa bella cosa
+
+30
+00:01:28,640 --> 00:01:30,000
+che vi chiediamo.
+
+31
+00:01:30,000 --> 00:01:34,240
+Se invece volete parlare direttamente con Mimie e Coco che sono Filippo
+
+32
+00:01:34,400 --> 00:01:39,120
+Strozzi di Avvocati e Mac e Roberto Marin di Mac e Architettura
+
+33
+00:01:39,120 --> 00:01:40,800
+e Compagnia Briscola.
+
+34
+00:01:41,040 --> 00:01:43,440
+Potete scriverci a scrivi.
+
+35
+00:01:46,400 --> 00:01:46,880
+it.
+
+36
+00:01:46,880 --> 00:01:47,400
+Perfetto.
+
+37
+00:01:47,400 --> 00:01:48,400
+Sei stato bravissimo.
+
+38
+00:01:48,400 --> 00:01:48,840
+Ormai.
+
+39
+00:01:48,840 --> 00:01:50,400
+Sei velocissimo.
+
+40
+00:01:50,400 --> 00:01:54,720
+Complimenti, Roberto, velocissimo, grazie, grazie.
+
+41
+00:01:54,720 --> 00:01:58,240
+Adesso però andiamo subito subito sul dunque, che siamo già in ritardo,
+
+42
+00:01:58,240 --> 00:02:01,320
+ma ti vedo già sorridente perché questo è il tuo pane, la
+
+43
+00:02:01,320 --> 00:02:04,520
+cosa che ti piace un sacchissimo, ovvero il testo, che ce ne
+
+44
+00:02:04,520 --> 00:02:10,200
+facciamo del testo, oltre a mandare delle lettere, anzi, delle letteracce agli
+
+45
+00:02:10,200 --> 00:02:13,320
+avvocati perché non ci difendono nelle sedi opportune.
+
+46
+00:02:13,560 --> 00:02:17,960
+Possiamo, ad esempio, sfruttare le nuove tecnologie Apple che fanno il riconoscimento
+
+47
+00:02:17,960 --> 00:02:19,400
+del testo nelle immagini.
+
+48
+00:02:19,400 --> 00:02:21,080
+Cosa ce ne facciamo di questo testo?
+
+49
+00:02:21,080 --> 00:02:25,960
+Ce lo scriviamo con Apple Pencil nei vari sistemi operativi tipo iPad
+
+50
+00:02:25,960 --> 00:02:26,600
+OS.
+
+51
+00:02:26,600 --> 00:02:27,880
+Cosa facciamo del testo?
+
+52
+00:02:27,880 --> 00:02:32,040
+Ci aiuterà un sacchissimo il testo, perché il testo è universale, è
+
+53
+00:02:32,040 --> 00:02:33,320
+un po' come l'amore.
+
+54
+00:02:33,320 --> 00:02:38,680
+È universale, ognuno ha il suo modo di oggi gira così, Filippo.
+
+55
+00:02:38,680 --> 00:02:39,720
+Deve aver pazienza.
+
+56
+00:02:39,720 --> 00:02:42,680
+E anche tutti gli ascoltatori oggi sono così e va bene.
+
+57
+00:02:42,680 --> 00:02:47,560
+Comunque dicevamo il testo è come l'amore, ognuno lo usa come meglio
+
+58
+00:02:47,560 --> 00:02:48,200
+crede.
+
+59
+00:02:48,200 --> 00:02:54,040
+Quindi, conseguentemente, ognuno lo usa con, come dicevamo nella scorsa puntata, con
+
+60
+00:02:54,360 --> 00:02:58,280
+i programmi di videoscrittura, ma c'è anche qualcuno che gli piace fare
+
+61
+00:02:58,280 --> 00:02:59,160
+lo strano.
+
+62
+00:02:59,160 --> 00:03:04,840
+E quindi farlo strano si utilizzano degli strumenti che permettono di usare
+
+63
+00:03:06,120 --> 00:03:09,720
+questo amore per le lettere in modo semplice.
+
+64
+00:03:09,720 --> 00:03:13,080
+Prima di tutto, perché è una cosa che è universalmente riconosciuto: un
+
+65
+00:03:13,080 --> 00:03:17,640
+file TXT, mancano soltanto i tavoli che lo riescono a leggere, poi
+
+66
+00:03:17,640 --> 00:03:21,560
+lo riescono a leggere qualsiasi cosa che avete di informatico in mano,
+
+67
+00:03:21,560 --> 00:03:30,760
+dal computer, dall'ultimo a quello di 20 anni fa, 30, forse 30
+
+68
+00:03:30,840 --> 00:03:36,040
+anni fa, il vostro smartphone, il vostro Nokia 33.10, probabilmente anche quello
+
+69
+00:03:36,040 --> 00:03:36,760
+lo fa.
+
+70
+00:03:37,080 --> 00:03:41,080
+In ogni caso, la cosa interessante è che, oltre a essere ben
+
+71
+00:03:41,080 --> 00:03:44,160
+radicato nel passato, è anche a prova di futuro.
+
+72
+00:03:44,160 --> 00:03:47,920
+Perché nel futuro il TS servirà a tutti quanti, anche per il
+
+73
+00:03:44,840 --> 00:03:52,320
+semplice fatto che è proprio la base anche dell'informatica.
+
+74
+00:03:52,560 --> 00:03:55,920
+E tanto base tanto quanto multipiattaforma.
+
+75
+00:03:55,920 --> 00:04:01,200
+Avete Linux, il TS lo leggete, avete Mac, avete Windows e siete
+
+76
+00:04:01,200 --> 00:04:03,760
+disperati perché a poco arriverà Windows 11.
+
+77
+00:04:03,760 --> 00:04:07,040
+Non sapete come farete a leggere i file di testo, lo potrete
+
+78
+00:04:07,040 --> 00:04:11,440
+fare anche con Windows penso 11 che si chiama, e altrettanto con
+
+79
+00:04:11,440 --> 00:04:15,040
+iPadOS 15 e compagnia cantante che sono usciti adesso.
+
+80
+00:04:15,200 --> 00:04:17,040
+Soprattutto Monterey ha una.
+
+81
+00:04:17,360 --> 00:04:18,160
+Che usciranno
+
+82
+00:04:19,280 --> 00:04:19,520
+.
+
+83
+00:04:19,520 --> 00:04:20,960
+Devono uscire a settembre.
+
+84
+00:04:21,360 --> 00:04:25,120
+Vabbè, ma praticamente questa puntata sarà a settembre, arriverà più o meno
+
+85
+00:04:25,120 --> 00:04:27,440
+circa e quindi siamo lì agli sgoccioli.
+
+86
+00:04:27,440 --> 00:04:29,520
+Ma in ogni caso ci sono tutte le beta, perché so che
+
+87
+00:04:29,520 --> 00:04:34,080
+i nostri ascoltatori sono gente cattiva, gente arrabbiata, gente che testa tutte
+
+88
+00:04:34,080 --> 00:04:36,160
+le beta che gli passano sotto, vero Filippo?
+
+89
+00:04:36,160 --> 00:04:36,880
+Certo, certo.
+
+90
+00:04:37,120 --> 00:04:38,480
+Non vedo l'ora di che
+
+91
+00:04:39,520 --> 00:04:42,080
+la beta pubblica sia aperta.
+
+92
+00:04:42,080 --> 00:04:45,440
+Come dicevamo, Filippo è sul pezzo e lui ci spiegherà tutto quanto
+
+93
+00:04:45,600 --> 00:04:48,720
+sul file di formato TXT e soprattutto se hai pad OS, quindi
+
+94
+00:04:48,720 --> 00:04:52,320
+ce lo leggerà, ma ho quasi la certezza che lo leggerà come
+
+95
+00:04:52,320 --> 00:04:53,440
+tante altre cose.
+
+96
+00:04:53,440 --> 00:04:59,040
+Come dicevamo prima, praticamente tutto è multipiattaforma, adesso non so se anche
+
+97
+00:04:59,040 --> 00:05:02,640
+BOS, ah sì, anche BOS, non so se ve lo ricordavate, BOS
+
+98
+00:05:02,800 --> 00:05:04,160
+leggeva i file TXT.
+
+99
+00:05:04,160 --> 00:05:08,000
+Praticamente penso che anche quelli del catasto riescono a leggere i file
+
+100
+00:05:08,000 --> 00:05:12,160
+TS che insomma sono molto anziani e lavorano con programmi che girano
+
+101
+00:05:12,160 --> 00:05:14,080
+in Windows 3.1.
+
+102
+00:05:14,080 --> 00:05:17,040
+Conseguentemente riescono anche a loro a leggere i file TT.
+
+103
+00:05:17,120 --> 00:05:22,880
+File di testo, sono leggibili da DOS, da praticamente qualunque sistema informatico.
+
+104
+00:05:22,880 --> 00:05:25,040
+È la base dell'informatica per quel motivo lì.
+
+105
+00:05:25,040 --> 00:05:27,040
+Praticamente, cosa ci permette di fare?
+
+106
+00:05:27,040 --> 00:05:30,520
+Anzi, cosa vi consigliamo di fare in questa puntata?
+
+107
+00:05:30,680 --> 00:05:38,840
+È essenzialmente di trascendere il programmi di videoscrittura che praticamente fanno l'impaginazione
+
+108
+00:05:39,080 --> 00:05:42,360
+del file di testo e scendiamo un po' di più in una
+
+109
+00:05:42,360 --> 00:05:45,560
+profondità sul testo, che è quello che vi permette di fare la
+
+110
+00:05:45,560 --> 00:05:46,760
+vera scrittura.
+
+111
+00:05:47,080 --> 00:05:52,200
+Il contenuto, il content creator di fatti, usano il testo.
+
+112
+00:05:52,200 --> 00:05:53,080
+Vero Filippo?
+
+113
+00:05:53,080 --> 00:05:56,520
+Tu sei uno che usa il testo a gogo e a manetta
+
+114
+00:05:56,600 --> 00:05:58,120
+come se non ci fosse un domani.
+
+115
+00:05:58,360 --> 00:06:02,280
+E anche io, tutto sommato, nel mio piccolo, uso il mio testo
+
+116
+00:06:02,280 --> 00:06:06,520
+per qualsiasi cosa che mi capita sottotorto, anche perché comunque la memoria
+
+117
+00:06:06,760 --> 00:06:10,280
+dopo i 45 incomincia a perdere un po' i colpi.
+
+118
+00:06:10,280 --> 00:06:16,200
+Conseguentemente abbondano le note dappertutto, poi io continuo a ritornare agli US
+
+119
+00:06:16,200 --> 00:06:21,000
+15 alle quick notes che vengono prese con l'Apple Pencil, ma ne
+
+120
+00:06:21,000 --> 00:06:22,760
+parleremo in un'altra sede.
+
+121
+00:06:22,760 --> 00:06:25,880
+Vuoi proprio parlare, esatto, vuoi proprio parlare
+
+122
+00:06:27,080 --> 00:06:27,160
+?
+
+123
+00:06:27,240 --> 00:06:30,280
+Cerco di punzecchiarti perché so che hai voglia di parlarne.
+
+124
+00:06:30,280 --> 00:06:32,440
+E poi cosa ce ne facciamo di questo testo?
+
+125
+00:06:32,440 --> 00:06:35,560
+Lo possiamo usare anche per scrivere articoli per i web, ebbene sì,
+
+126
+00:06:35,560 --> 00:06:38,920
+perché poi alla fine quello che vedete sul web, a parte le
+
+127
+00:06:38,920 --> 00:06:43,480
+immagini, che ovviamente se andiamo proprio a vedere anche quelli sono testo.
+
+128
+00:06:43,480 --> 00:06:46,840
+Ma in ogni caso, il testo vi serve appunto per scrivere gli
+
+129
+00:06:46,840 --> 00:06:49,640
+articoli e anche documenti complessi.
+
+130
+00:06:49,640 --> 00:06:52,440
+Come mi ha fatto vedere il mio amico Filippo poco tempo fa,
+
+131
+00:06:52,440 --> 00:06:55,240
+nel senso che sarà stato ieri o l'altro ieri al massimo, mi
+
+132
+00:06:55,240 --> 00:06:59,560
+ha fatto vedere la differenza da un formato file di testo pure
+
+133
+00:06:59,560 --> 00:07:05,560
+e semplice che praticamente rimane una cosa quasi incomprensibile se nel momento
+
+134
+00:07:05,560 --> 00:07:10,120
+in cui vengono aggiunte tutto il dialetto La Tex e compagnia cantante.
+
+135
+00:07:10,120 --> 00:07:14,840
+In ogni caso mi ha fatto vedere davvero come si trasforma un
+
+136
+00:07:15,200 --> 00:07:20,800
+documento complesso utilizzando i metodi che utilizza, che insomma sono di tutto
+
+137
+00:07:20,800 --> 00:07:21,360
+rispetto.
+
+138
+00:07:21,360 --> 00:07:25,200
+Io me ne tengo la lontana perché per fortuna o per sfortuna
+
+139
+00:07:25,360 --> 00:07:29,440
+di documenti complessi non ne faccio molti, anzi li devo leggere, ma
+
+140
+00:07:29,440 --> 00:07:33,600
+diciamo le mie relazioni tendono un po' al minimalismo, nel senso come
+
+141
+00:07:33,600 --> 00:07:36,640
+il mio carattere, tendo a dirti subito come stanno le cose e
+
+142
+00:07:36,640 --> 00:07:40,160
+non ho bisogno di fare 8 milioni di riferimenti.
+
+143
+00:07:40,160 --> 00:07:43,680
+In ogni caso, oltre agli atti giuridici ci sono anche i libri.
+
+144
+00:07:43,680 --> 00:07:48,320
+I libri vengono fatti col test, testo, col testo, che è meglio
+
+145
+00:07:48,320 --> 00:07:52,000
+che col test, in ogni caso vengono fatti col testo tutti i
+
+146
+00:07:52,000 --> 00:07:56,240
+libri che avete sotto mano dal formato digitale, formato cartaceo ad altri
+
+147
+00:07:56,240 --> 00:07:58,240
+formati di cui adesso i riferimenti.
+
+148
+00:07:58,240 --> 00:08:00,560
+In ogni caso parliamo di testo.
+
+149
+00:08:00,560 --> 00:08:05,040
+Il testo può essere, come dicevamo, formattato come si vuole, ma se
+
+150
+00:08:05,040 --> 00:08:08,480
+andiamo a prendere contenuto si parte dal testo.
+
+151
+00:08:08,480 --> 00:08:12,480
+Non c'è soltanto questo tipo di tipologia di documenti, c'è anche la
+
+152
+00:08:12,480 --> 00:08:14,000
+documentazione scientifica.
+
+153
+00:08:14,000 --> 00:08:20,800
+Documentazione scientifica che tendenzialmente, adesso qui correggimi se sbaglio, viene tendenzialmente fatta
+
+154
+00:08:20,800 --> 00:08:22,560
+con latex se non sbaglio.
+
+155
+00:08:22,560 --> 00:08:27,840
+C'è tutta la parte, diciamo, scientifica non letteraria, chiamiamola così.
+
+156
+00:08:27,840 --> 00:08:32,800
+La parte umanistica raramente utilizza questi strumenti, siccome invece nella parte scientifica
+
+157
+00:08:32,800 --> 00:08:38,640
+le formule matematiche la fanno da padrone, spesso e volentieri, per abitudine,
+
+158
+00:08:38,640 --> 00:08:42,000
+diciamo, il mondo scientifico lavora con la
+
+159
+00:08:43,040 --> 00:08:43,280
+.
+
+160
+00:08:43,280 --> 00:08:49,440
+Quindi conseguentemente, alla fine il testo è quello che ti permette di
+
+161
+00:08:49,600 --> 00:08:54,720
+scrivere i tuoi pensieri ed esportarli in qualche altra parte in cui
+
+162
+00:08:54,720 --> 00:08:55,840
+vengono utilizzati.
+
+163
+00:08:55,840 --> 00:08:58,800
+Nel senso che in questa parte possono essere appunto i programmi di
+
+164
+00:08:58,800 --> 00:09:06,760
+videoscrittura oppure l'editor web per il WordPress o differentemente anche in una
+
+165
+00:09:06,760 --> 00:09:07,720
+relazione.
+
+166
+00:09:07,720 --> 00:09:11,080
+Ma il testo è anche comunque una cosa che aggiungo io, che
+
+167
+00:09:11,080 --> 00:09:13,880
+non c'era in scaletta, come sempre io vado sempre per i campi
+
+168
+00:09:13,880 --> 00:09:15,160
+perché mi piace.
+
+169
+00:09:15,160 --> 00:09:18,440
+Il testo è anche quello che dite, nel senso che
+
+170
+00:09:19,720 --> 00:09:25,960
+con i programmi di riconoscimento vocale le vostre note vocali diventano testo,
+
+171
+00:09:25,960 --> 00:09:32,200
+conseguentemente decisamente duttile e veloce riuscire anche a scrivere articoli o relazioni
+
+172
+00:09:32,200 --> 00:09:37,160
+come faccio io grazie a questo metodo che appunto vi trasforma automaticamente
+
+173
+00:09:37,160 --> 00:09:38,920
+ciò che dite in testo.
+
+174
+00:09:38,920 --> 00:09:42,920
+Questo testo poi alla fine si può portare in giro per il
+
+175
+00:09:42,920 --> 00:09:48,200
+vostro mondo informatico e formattarlo nel modo migliore che ritenete.
+
+176
+00:09:48,200 --> 00:09:51,960
+Quindi a questo punto io e Filippo abbiamo deciso bene di parlare
+
+177
+00:09:51,960 --> 00:09:56,920
+in questa sede anche dei programmi degni di nota, chiamiamoli così, che
+
+178
+00:09:56,920 --> 00:10:01,720
+sono stati divisi essenzialmente in due macro, in alcuni macro gruppi, io
+
+179
+00:10:01,720 --> 00:10:04,040
+ne ho visti due, ma in realtà ce ne sono di più.
+
+180
+00:10:04,040 --> 00:10:09,560
+In ogni caso, questi macro gruppi hanno una caratteristica, dipendono dalle esigenze
+
+181
+00:10:09,560 --> 00:10:14,840
+che potete avere sia per macOS che per iOS, o addirittura per
+
+182
+00:10:14,840 --> 00:10:17,240
+Windows e Android e Linux.
+
+183
+00:10:17,240 --> 00:10:20,760
+E qui arrivano le macro gruppi di cui dicevo prima che non
+
+184
+00:10:20,760 --> 00:10:21,720
+avevo visto.
+
+185
+00:10:21,720 --> 00:10:23,720
+Quindi, da dove vuoi partire?
+
+186
+00:10:24,040 --> 00:10:26,120
+Allora, due precisazioni.
+
+187
+00:10:26,120 --> 00:10:30,920
+Ovviamente quando parliamo di testo semplice, spesso e volentieri si fa riferimento
+
+188
+00:10:31,160 --> 00:10:36,120
+al testo più basico, che vabbè, quello semplice, proprio se non formattato,
+
+189
+00:10:36,360 --> 00:10:38,840
+o a un pelino più in alto che è il Markdown.
+
+190
+00:10:38,840 --> 00:10:40,920
+Abbiamo parlato nella puntata 10.
+
+191
+00:10:40,880 --> 00:10:43,080
+Quindi, quindi ovviamente non ne parliamo oggi.
+
+192
+00:10:43,080 --> 00:10:47,520
+Tuttavia, sappiate che tendenzialmente la maggior parte dei programmi di cui vi
+
+193
+00:10:47,520 --> 00:10:52,480
+parliamo e se volete arrivare a un livello minimo diciamo di formattazione,
+
+194
+00:10:52,480 --> 00:10:57,760
+il Markdown è la lingua franca, chiamiamola così, che si applica in
+
+195
+00:10:57,760 --> 00:10:58,400
+questi casi.
+
+196
+00:10:58,400 --> 00:11:03,040
+Poi, ovviamente si può andare a livelli più elevati.
+
+197
+00:11:03,040 --> 00:11:07,600
+L'abitualmente il livello più elevato è la tech, che, però, ovviamente richiede
+
+198
+00:11:07,600 --> 00:11:12,640
+tutta una serie di altre formatazioni, ma anche l'HTML, il semplice HTML
+
+199
+00:11:12,960 --> 00:11:17,280
+è un formato di testo semplice perché questo è, quindi se aprite
+
+200
+00:11:17,280 --> 00:11:21,760
+una pagina e guardate il sorgente della pagina, scoprirete che è un
+
+201
+00:11:21,760 --> 00:11:26,960
+file di testo normalissimo con ovviamente tutto il linguaggio di markup legato
+
+202
+00:11:26,960 --> 00:11:28,240
+all'HTML.
+
+203
+00:11:28,240 --> 00:11:32,320
+Però ovviamente oggi non ne parleremo in dettaglio perché poi, in base
+
+204
+00:11:33,280 --> 00:11:37,200
+al linguaggio di markup, ovviamente le cose cambiano, ma la maggior parte
+
+205
+00:11:37,200 --> 00:11:43,680
+di questi programmi serve proprio per rendere semplice, intuitivo o comunque anche
+
+206
+00:11:44,160 --> 00:11:48,320
+gestire in maniera semi-professionale tutte queste sfaccettature che
+
+207
+00:11:49,920 --> 00:11:50,880
+non possiamo
+
+208
+00:11:52,080 --> 00:11:57,760
+specificare programma per programma, perché se no, ovviamente la puntata diventerebbe decisamente
+
+209
+00:11:57,760 --> 00:11:58,560
+troppo lunga.
+
+210
+00:11:58,560 --> 00:12:03,440
+E quindi chiudendo direi la mia strutturazione della scaletta è questa: cioè
+
+211
+00:12:03,520 --> 00:12:08,320
+se avete bisogno di lavorare multipiattaforma Apple, chiamiamola così, adesso parliamo di
+
+212
+00:12:08,320 --> 00:12:11,200
+queste applicazioni che si trovano sia su Mac che su iOS e
+
+213
+00:12:11,200 --> 00:12:12,080
+iPadOS.
+
+214
+00:12:12,240 --> 00:12:18,480
+Poi vediamo alcune applicazioni che si trovano prevalentemente su Mac e poi
+
+215
+00:12:18,640 --> 00:12:23,680
+invece quelle che sono, chiamiamole così, multipiattaforma e che quindi sono disponibili,
+
+216
+00:12:23,680 --> 00:12:27,440
+per esempio, se avete un ambiente misto Windows e Mac o Mac
+
+217
+00:12:27,680 --> 00:12:29,040
+Android e così via.
+
+218
+00:12:29,040 --> 00:12:33,720
+Quindi, giusto per dare un quadro generale di quelle che diciamo, se
+
+219
+00:12:33,720 --> 00:12:38,680
+state cercando una cosa, casomai è bellissima l'applicazione che ne so, Macdown,
+
+220
+00:12:38,680 --> 00:12:41,400
+ma l'applicazione MacDown ovviamente,
+
+221
+00:12:42,680 --> 00:12:44,440
+come il nome, è solo per Mac.
+
+222
+00:12:44,440 --> 00:12:49,000
+Quindi se la volete utilizzare per Windows, non la potete utilizzare, per
+
+223
+00:12:49,000 --> 00:12:50,760
+cui vi trovereste in difficoltà.
+
+224
+00:12:51,240 --> 00:12:55,800
+Poi potreste anche avere applicazioni diverse per piattaforme diverse, però effettivamente quello
+
+225
+00:12:55,800 --> 00:13:01,320
+che ho notato io se ti trovi bene con un'applicazione è probabile
+
+226
+00:13:01,320 --> 00:13:04,440
+che te la porti dietro di posto in posto.
+
+227
+00:13:05,720 --> 00:13:07,480
+Sì, sì, no, no, stavo ascoltando.
+
+228
+00:13:07,480 --> 00:13:10,040
+Il mio approccio è stato invece un po' diverso perché
+
+229
+00:13:12,040 --> 00:13:16,120
+la mia idea era quella di utilizzare applicazioni gratuite che permettessero di
+
+230
+00:13:16,120 --> 00:13:19,160
+salvare file txt in iCloud.
+
+231
+00:13:19,400 --> 00:13:20,360
+Questo perché?
+
+232
+00:13:20,360 --> 00:13:27,000
+Perché l'unico lato negativo che ho intravisto in queste applicazioni che funzionano
+
+233
+00:13:27,000 --> 00:13:33,560
+su, diciamo, nei vari ambienti, nel senso nell'ambiente Apple, per esempio, salvano
+
+234
+00:13:33,560 --> 00:13:36,120
+in un formato loro tendenzialmente.
+
+235
+00:13:36,120 --> 00:13:42,120
+Quindi devi dirglielo proprio tu di salvare in TXT e salva, diciamo,
+
+236
+00:13:43,000 --> 00:13:47,400
+io volevo fare in modo che ci fosse un file puro Txt
+
+237
+00:13:47,640 --> 00:13:51,800
+salvato su i cloud che io potessi accedere da qualsiasi posto con
+
+238
+00:13:51,800 --> 00:13:53,320
+qualsiasi cosa essenzialmente.
+
+239
+00:13:53,320 --> 00:13:56,280
+La maggior parte delle applicazioni che uso io, per esempio che ho
+
+240
+00:13:56,280 --> 00:13:58,360
+elencato, salva tutto in Markdown.
+
+241
+00:13:59,320 --> 00:14:02,440
+E invece, io volevo proprio che salvasse in TXT, volevo proprio che
+
+242
+00:14:02,600 --> 00:14:05,160
+fosse proprio puro puro puro puro montale.
+
+243
+00:14:05,560 --> 00:14:10,560
+Allora, guarda, la prima applicazione di cui parliamo ora è By World
+
+244
+00:14:10,600 --> 00:14:12,240
+che ha le due opzioni, ha
+
+245
+00:14:12,440 --> 00:14:15,000
+le due opzioni o TXC o Markdown.
+
+246
+00:14:15,200 --> 00:14:18,560
+Quindi potrebbe interessarti anche se a pagamento, quindi esula
+
+247
+00:14:21,440 --> 00:14:23,440
+dalle tue specifiche tecniche.
+
+248
+00:14:23,680 --> 00:14:28,080
+La prima specifica è taglia subito le gambe, nonostante sia bellissima, perché
+
+249
+00:14:28,080 --> 00:14:29,040
+sto guardando qua.
+
+250
+00:14:29,040 --> 00:14:34,560
+Esatto, applicazione semplice, minimale e a pagamento esatto, molto semplice.
+
+251
+00:14:34,560 --> 00:14:36,000
+È la prima applicazione che ho usato.
+
+252
+00:14:36,000 --> 00:14:37,040
+Io sto guardando.
+
+253
+00:14:37,040 --> 00:14:37,600
+Quanto costa?
+
+254
+00:14:38,320 --> 00:14:38,880
+Te lo dico io.
+
+255
+00:14:38,880 --> 00:14:41,040
+Intanto voi poi avanti, che io sto controllando.
+
+256
+00:14:41,040 --> 00:14:43,040
+Mentre vado avanti, cosa dire?
+
+257
+00:14:43,040 --> 00:14:47,280
+Effettivamente rimane nel minimalismo di queste applicazioni.
+
+258
+00:14:47,280 --> 00:14:49,600
+Diciamo dalla formatazione Markdown.
+
+259
+00:14:49,600 --> 00:14:54,560
+Quindi, oltre a vedere il semplice testo, potete vedere le enfasi e
+
+260
+00:14:54,560 --> 00:14:56,000
+così via del Markdown.
+
+261
+00:14:56,000 --> 00:15:01,440
+Quindi all'interno proprio dell'applicazione stessa, per essere trasparente, non è aggiornatissima, ma
+
+262
+00:15:01,440 --> 00:15:04,960
+effettivamente è per quello che deve fare, lo fa e non ha
+
+263
+00:15:04,960 --> 00:15:06,480
+bisogno di grossi cambiamenti.
+
+264
+00:15:06,480 --> 00:15:09,840
+Ogni tanto viene aggiornata in base a nuovi sistemi operativi.
+
+265
+00:15:09,840 --> 00:15:13,360
+Per cui la consiglio non costa neanche tantissimo secondo me.
+
+266
+00:15:13,360 --> 00:15:16,720
+11 euro per il Mac e 6 euro per iOS.
+
+267
+00:15:16,800 --> 00:15:21,120
+Esatto, comunque con 20 euro te la sei portata via su tutte
+
+268
+00:15:21,120 --> 00:15:22,080
+e due le piattaforme.
+
+269
+00:15:22,080 --> 00:15:29,120
+Io l'acquistai ormai 4-5 anni fa, probabilmente ed effettivamente ce l'ho installata
+
+270
+00:15:29,120 --> 00:15:33,120
+su tutti i dispositivi, anche se oggettivamente su iOS non la utilizzo
+
+271
+00:15:33,120 --> 00:15:33,920
+quasi più.
+
+272
+00:15:33,920 --> 00:15:38,080
+Su Mac, invece, ogni tanto mi capita perché alla fine è molto
+
+273
+00:15:38,080 --> 00:15:38,800
+veloce.
+
+274
+00:15:38,800 --> 00:15:44,320
+Se devo aprire un file in Markdown velocemente la apro con questa
+
+275
+00:15:44,400 --> 00:15:44,720
+categoria.
+
+276
+00:15:44,880 --> 00:15:47,600
+Tra l'altro sto guardando sul loro sito ufficiale.
+
+277
+00:15:47,600 --> 00:15:51,920
+In effetti, noto che non è aggiornata perché i dispositivi che vengono
+
+278
+00:15:51,920 --> 00:15:55,760
+visualizzati in home page hanno qualche anno addosso.
+
+279
+00:15:55,760 --> 00:15:58,960
+In effetti, nel senso che a occhio c'è sempre un
+
+280
+00:15:59,960 --> 00:16:06,360
+perché poi di fatto 6S a occhio un iPad, io mentre facevo
+
+281
+00:16:06,600 --> 00:16:10,120
+le ricerche per le note dell'episodio e per la scaletta, ho visto
+
+282
+00:16:10,120 --> 00:16:15,640
+un copyright 2017 sul sito che già non già non.
+
+283
+00:16:15,800 --> 00:16:17,960
+però effettivamente vengono aggiornate.
+
+284
+00:16:18,200 --> 00:16:22,440
+Non sempre, però recentemente mi ricordo di averla vista aggiornata per i
+
+285
+00:16:22,520 --> 00:16:22,840
+OS.
+
+286
+00:16:23,160 --> 00:16:27,320
+Si sta aggiornando, ma non ogni sito, però piccole cose, perché sono
+
+287
+00:16:27,800 --> 00:16:30,600
+un'applicazione semplicissima, diciamo la verità.
+
+288
+00:16:30,600 --> 00:16:35,960
+Quindi non è che consigliatissima se volete iniziare a introdurre e ovviamente
+
+289
+00:16:36,200 --> 00:16:43,000
+acquistando la stessa Mac che su iOS, sostanzialmente ve la trovate senza
+
+290
+00:16:43,000 --> 00:16:46,840
+problemi in tutte le parti, per cui non male.
+
+291
+00:16:46,840 --> 00:16:53,240
+La seconda applicazione che è in parte gratuita: è Drafts, che io
+
+292
+00:16:53,240 --> 00:16:55,400
+consiglio caldamente.
+
+293
+00:16:55,640 --> 00:16:58,040
+Attualmente la situazione è questa.
+
+294
+00:16:58,360 --> 00:17:03,640
+La versione base del programma è gratuita ed è presente sia su
+
+295
+00:17:03,640 --> 00:17:06,680
+Mac che su iOS e iPadOS.
+
+296
+00:17:06,680 --> 00:17:11,800
+Per le funzioni elevate, però, le funzioni elevate sono veramente elevate perché
+
+297
+00:17:12,040 --> 00:17:17,400
+sono i cosiddetti workspace, cioè potete configurare l'applicazione in base a un
+
+298
+00:17:17,400 --> 00:17:22,600
+differente luogo di lavoro, chiamiamola così modalità di lavoro, in modo appunto
+
+299
+00:17:22,600 --> 00:17:26,760
+che se entrate in una certa modalità, vedete determinate note e invece
+
+300
+00:17:26,760 --> 00:17:31,720
+altrimenti no, o avete determinate funzioni che invece in un'altra modalità non
+
+301
+00:17:31,720 --> 00:17:32,200
+avete.
+
+302
+00:17:32,200 --> 00:17:33,640
+Quindi è interessante.
+
+303
+00:17:33,680 --> 00:17:35,840
+Cioè sono però funzioni molto avanzate.
+
+304
+00:17:35,840 --> 00:17:40,720
+Ecco, voglio dire, quindi tendenzialmente non servono a tutti.
+
+305
+00:17:40,720 --> 00:17:44,200
+E io appunto consiglio di almeno provarla.
+
+306
+00:17:44,200 --> 00:17:47,680
+Ecco, mettiamola così, perché ha tante piccole cose carine.
+
+307
+00:17:47,840 --> 00:17:51,920
+Io pago l'abbonamento anche se non è l'applicazione che uso per scrivere
+
+308
+00:17:51,920 --> 00:17:52,800
+o quant'altro.
+
+309
+00:17:52,800 --> 00:17:57,520
+Ma effettivamente Drafts ha il vantaggio di catturare velocemente il testo.
+
+310
+00:17:57,520 --> 00:18:01,440
+È nella doc di tutti i miei dispositivi.
+
+311
+00:18:01,840 --> 00:18:06,480
+Quindi se devo copiare testo, salvare dei link.
+
+312
+00:18:06,480 --> 00:18:10,640
+La newsletter di Avvocati e Mac nasce da Drafts.
+
+313
+00:18:10,640 --> 00:18:16,160
+Cioè catturo i link mentre leggo gli articoli dentro Drafts, una bozza
+
+314
+00:18:16,320 --> 00:18:18,720
+newsletter del mese tale tali.
+
+315
+00:18:18,720 --> 00:18:23,360
+Poi da lì sposto i link e a quel punto creo la
+
+316
+00:18:23,360 --> 00:18:27,520
+vera e propria newsletter insomma in maniera un po' più avanzata dopo,
+
+317
+00:18:27,520 --> 00:18:30,640
+ma tutto nasce da lì per cui io lo consiglio tantissimo, è
+
+318
+00:18:30,640 --> 00:18:35,440
+veloce, semplice, potete twittare, potete fare un po' di tutto attraverso queste
+
+319
+00:18:35,440 --> 00:18:36,320
+applicazioni.
+
+320
+00:18:36,560 --> 00:18:41,200
+Lo sviluppatore che è passato a questo sistema di abbonamento sostanzialmente l'abbonamento
+
+321
+00:18:41,200 --> 00:18:46,480
+annuale costa 20 euro più o meno 19,99 dovrebbe essere.
+
+322
+00:18:46,480 --> 00:18:49,840
+Tuttavia, ne vale la pena un unico sviluppatore che vive di questo
+
+323
+00:18:50,080 --> 00:18:53,440
+ed effettivamente c'è una bella comunità, ci sono le azioni.
+
+324
+00:18:53,440 --> 00:19:00,880
+Insomma, è veramente addirittura per i folli, c'è la possibilità di personalizzare
+
+325
+00:19:00,880 --> 00:19:04,640
+l'interfaccia, praticamente si può fare quello che si vuole.
+
+326
+00:19:05,280 --> 00:19:12,400
+I limiti sono dovuti all'esperienza, alle necessità dell'utente stesso, e adesso che
+
+327
+00:19:12,560 --> 00:19:15,280
+su multipiattaforma effettivamente è molto comodo.
+
+328
+00:19:15,280 --> 00:19:20,400
+È l'unica cosa che, per esempio, se avete necessità di privacy, è
+
+329
+00:19:20,400 --> 00:19:25,600
+meno interessante, è che tutto il sistema delle note viene salvato in
+
+330
+00:19:25,600 --> 00:19:31,000
+high cloud nel back-end, tra virgolette, per il sviluppatori, quindi non vi
+
+331
+00:19:31,000 --> 00:19:36,280
+va a incidere sulla quota prescindere che il Markdown di fatto non
+
+332
+00:19:36,280 --> 00:19:42,440
+pesa, mettiamola così: esatto, viene sincronizzato sui server Apple quindi, per esempio,
+
+333
+00:19:42,440 --> 00:19:47,000
+per tutta la parte legale, ovviamente io non lo utilizzo minimamente proprio
+
+334
+00:19:47,000 --> 00:19:50,360
+per questo motivo ed è uno dei limiti grossi di questa applicazione.
+
+335
+00:19:50,440 --> 00:19:55,640
+Tra virgolette, se avete dati sensibili, ecco, ovviamente lì vi trovate un
+
+336
+00:19:55,640 --> 00:19:57,960
+attimo in difficoltà, mettiamola così.
+
+337
+00:19:57,960 --> 00:20:02,520
+Tuttavia, per il resto consigliatissima: particolarità di questa applicazione è che funziona
+
+338
+00:20:02,520 --> 00:20:03,960
+anche su Apple Watch.
+
+339
+00:20:03,960 --> 00:20:07,400
+Ah, sì, sì, sì, sì, è con la dettatura vocale, come diceva
+
+340
+00:20:07,400 --> 00:20:08,040
+Roberto.
+
+341
+00:20:08,040 --> 00:20:11,560
+E a questo punto, visto che Roberto ci teneva, e ho appena
+
+342
+00:20:11,560 --> 00:20:17,880
+visto un video molto interessante, tra l'altro, con iOS 15-iPadOS 15, la
+
+343
+00:20:17,880 --> 00:20:22,200
+dettatura vocale con Siri è fatta on device.
+
+344
+00:20:22,520 --> 00:20:27,880
+Io ho visto ovviamente David Spark farlo in inglese, quindi ovviamente bisogna
+
+345
+00:20:27,880 --> 00:20:33,720
+attendere, devo attendere la beta pubblica per poterlo provare su iPados, ma
+
+346
+00:20:33,720 --> 00:20:37,880
+è molto interessante perché ovviamente non avete bisogno di un collegamento internet,
+
+347
+00:20:38,040 --> 00:20:42,840
+non c'è più il vincolo della dittatura vocale di sistema di qualche
+
+348
+00:20:43,400 --> 00:20:45,000
+tot minuti credo.
+
+349
+00:20:45,240 --> 00:20:48,680
+Quindi potete andare avanti con la dettatura senza nessun tipo di problema.
+
+350
+00:20:48,680 --> 00:20:52,920
+E per quella inglese, che vabbè, chiamiamola così la più semplice, nel
+
+351
+00:20:52,920 --> 00:20:55,960
+senso che è quella dove ci sono più dati quindi è più
+
+352
+00:20:55,960 --> 00:21:00,360
+facile da gestire, i risultati effettivamente erano buoni.
+
+353
+00:21:00,360 --> 00:21:01,280
+Poi David Spark.
+
+354
+00:21:01,520 --> 00:21:05,880
+Nel caso specifico, è uno come te, Roberto, che ama dettare quello
+
+355
+00:21:05,880 --> 00:21:10,360
+che scrive e quindi è anche abituato, per cui c'è anche quel
+
+356
+00:21:10,600 --> 00:21:11,960
+passaggio ulteriore lì.
+
+357
+00:21:12,000 --> 00:21:15,120
+Tuttavia, sicuramente è una cosa da tenere presente per il futuro a
+
+358
+00:21:15,120 --> 00:21:19,680
+settembre, quando non questa puntata uscirà, ma usciranno i nuovi sistemi operativi
+
+359
+00:21:14,760 --> 00:21:21,920
+di Mamma Apple esattamente.
+
+360
+00:21:22,240 --> 00:21:24,000
+La detatura è molto utile.
+
+361
+00:21:24,080 --> 00:21:27,360
+Tante volte ho visto che ci metto molto meno a dettare che
+
+362
+00:21:27,360 --> 00:21:28,320
+a scrivere.
+
+363
+00:21:28,320 --> 00:21:33,840
+Mi trovo dei tomoni scritti in poco tempo con la dettatura anche
+
+364
+00:21:33,840 --> 00:21:34,560
+in auto.
+
+365
+00:21:34,800 --> 00:21:38,400
+A me capita spesso di fare viaggi in auto perché abito in
+
+366
+00:21:38,400 --> 00:21:39,600
+Colonia.
+
+367
+00:21:41,360 --> 00:21:45,280
+In montagna si dice, questo è un podcast per tutti, ricordiamolo.
+
+368
+00:21:45,440 --> 00:21:47,680
+Vabbè, ma questo posto lo conoscono tutti.
+
+369
+00:21:48,080 --> 00:21:51,520
+In ogni caso, è molto utile perché vi fa guadagnare un sacco
+
+370
+00:21:51,520 --> 00:21:55,600
+di tempo, perché potete dettare mentre guidate e come per magia vi
+
+371
+00:21:55,600 --> 00:21:59,440
+trovate il lavoro fatto dopo un viaggio di una mezz'oretta.
+
+372
+00:21:59,440 --> 00:22:02,960
+Che per me è un normale viaggio per andare a fare anche
+
+373
+00:22:03,920 --> 00:22:07,360
+di lavoro per scendere dalla montagna.
+
+374
+00:22:07,360 --> 00:22:10,800
+La mezz'orta me la faccio, quindi è un attimo tirare su un
+
+375
+00:22:10,800 --> 00:22:11,600
+articolo.
+
+376
+00:22:11,600 --> 00:22:16,560
+Detto questo, passiamo a un altro software che si chiama Obsidian e
+
+377
+00:22:16,560 --> 00:22:20,480
+che da quello che ho capito sta soleticando le fantasie di Filippo.
+
+378
+00:22:20,480 --> 00:22:21,040
+Come mai
+
+379
+00:22:22,080 --> 00:22:23,760
+te le sta soliticando?
+
+380
+00:22:23,760 --> 00:22:29,600
+Premetto, attualmente no, perché alla fine, se sono riuscito a fare quello
+
+381
+00:22:29,600 --> 00:22:33,920
+che spero di riuscire a fare che fuori onda, racconto spesso e
+
+382
+00:22:33,920 --> 00:22:39,520
+volentieri a Roberto non ne avrei bisogno, non ne avrei bisogno.
+
+383
+00:22:39,520 --> 00:22:44,320
+La cosa interessante di Obsidian: innanzitutto, è gratuito, ma non è open
+
+384
+00:22:44,320 --> 00:22:44,880
+source.
+
+385
+00:22:44,880 --> 00:22:48,960
+Quindi è gratuito solo se non si utilizza a livello commerciale.
+
+386
+00:22:48,960 --> 00:22:51,920
+Per commerciale, dovete andare a vedere cosa intendono loro.
+
+387
+00:22:51,920 --> 00:22:56,800
+Tendenzialmente, se lo utilizzate per lavoro, è considerato commerciale, ve lo dico
+
+388
+00:22:56,800 --> 00:22:57,520
+già.
+
+389
+00:22:57,520 --> 00:23:02,200
+Tuttavia per il podcast, se ci guadagni, sì.
+
+390
+00:22:59,440 --> 00:23:02,920
+Quindi per il podcast
+
+391
+00:22:59,840 --> 00:23:05,400
+nostro no, blog anche.
+
+392
+00:23:05,720 --> 00:23:07,560
+Quindi o male potrei usarlo.
+
+393
+00:23:08,040 --> 00:23:12,840
+Sì, dipende molto da se fai le cose amatorialmente, oppure se io
+
+394
+00:23:12,920 --> 00:23:15,800
+ci scrivessi sopra gli atti, teoricamente, dovrai pagare la licenza,
+
+395
+00:23:17,240 --> 00:23:17,560
+business
+
+396
+00:23:18,600 --> 00:23:25,880
+, che costa varia, costosta varia, perché praticamente dopo lì eh sì, perché
+
+397
+00:23:25,880 --> 00:23:30,280
+praticamente c'è una versione minima e una versione massima che però ti
+
+398
+00:23:30,520 --> 00:23:33,720
+rende, diciamo, sponsor e quindi
+
+399
+00:23:35,640 --> 00:23:39,720
+il metodo di lavoro sono due o tre programmatori che vivono di
+
+400
+00:23:39,720 --> 00:23:43,560
+questo, e il metodo è sensato: cioè, se tu vuoi avere le
+
+401
+00:23:43,560 --> 00:23:48,600
+caratteristiche e le funzioni più moderne, l'applicazione la stanno sviluppando, nel giro
+
+402
+00:23:48,600 --> 00:23:50,280
+di una settimana escono due versioni.
+
+403
+00:23:50,840 --> 00:23:55,720
+Se vuoi avere le ultime versioni e così via, ovviamente paghi e
+
+404
+00:23:55,720 --> 00:23:57,400
+contribuisci allo sviluppo.
+
+405
+00:23:57,400 --> 00:24:02,760
+Finché va, perché il problema grosso è nella fase di solitamente di
+
+406
+00:24:02,760 --> 00:24:08,760
+lancio di queste applicazioni quando non sono ancora mature, ovviamente progressivamente su
+
+407
+00:24:08,760 --> 00:24:13,000
+Obsidian in particolare c'è stato un notevole hype quindi c'è tanta gente
+
+408
+00:24:13,000 --> 00:24:13,960
+che ne sta parlando.
+
+409
+00:24:13,960 --> 00:24:17,880
+A proposito, lasciamo nella nota dell'episodio un video di un'ora e mezza
+
+410
+00:24:18,200 --> 00:24:23,800
+di Andrea Ciraolo con due altre persone che adesso mi ricordo i
+
+411
+00:24:23,800 --> 00:24:25,960
+nomi, mi scuso, ma non.
+
+412
+00:24:26,200 --> 00:24:30,600
+Dove parlano di fatto della maggior parte delle funzioni di Obsidian per
+
+413
+00:24:30,600 --> 00:24:33,000
+scrivere, per prendere note e così via.
+
+414
+00:24:33,000 --> 00:24:36,840
+Obsidian, il vantaggio grosso è tutto in Markdown, sostanzialmente.
+
+415
+00:24:36,840 --> 00:24:40,600
+Quindi quello che andate a salvare, le note di Obsidian, sono tutti
+
+416
+00:24:40,600 --> 00:24:43,960
+i file in Markdown che rimangono sul vostro computer.
+
+417
+00:24:43,960 --> 00:24:48,480
+Quindi ottimo, ci sono dei servizi a pagamento, cioè se per esempio
+
+418
+00:24:48,560 --> 00:24:52,720
+volete sincronizzare le note in maniera sicura, hanno un servizio a pagamento
+
+419
+00:24:52,880 --> 00:24:57,440
+credo 5 o 5 euro non mi ricordo più al mese, dove
+
+420
+00:24:57,440 --> 00:24:59,360
+tutto è cifrato end to end.
+
+421
+00:24:59,360 --> 00:25:00,400
+Quindi perfetto
+
+422
+00:25:01,440 --> 00:25:06,400
+, se non volete fare così, comunque potete sincronizzare per i fatti vostri
+
+423
+00:25:06,720 --> 00:25:10,480
+tutto senza problemi e funziona tutto perfettamente.
+
+424
+00:25:10,480 --> 00:25:15,840
+Io, giusto per darvi un'idea, l'archivio di Obsidian lo sincronizzo con Sync
+
+425
+00:25:15,840 --> 00:25:22,240
+Thing tra i vari Mac e invece utilizzo Sicuro Shelfish per accedere
+
+426
+00:25:22,240 --> 00:25:28,240
+ai file direttamente sul Mac e vederli con su iPad, con gli
+
+427
+00:25:28,240 --> 00:25:32,400
+hair writer, ma con qualsiasi applicazione che ha accesso poi al file
+
+428
+00:25:32,400 --> 00:25:34,400
+system di iPad.
+
+429
+00:25:34,400 --> 00:25:37,200
+Sostanzialmente volendo, potete farlo poi.
+
+430
+00:25:37,200 --> 00:25:40,800
+Peraltro, le mie note di Obsidian non sono di lavoro, quindi potrei
+
+431
+00:25:40,960 --> 00:25:46,640
+anche utilizzare qualsiasi altro strumento, ma insomma, per prassi vado in questa
+
+432
+00:25:46,640 --> 00:25:47,440
+maniera.
+
+433
+00:25:47,680 --> 00:25:51,840
+C'è anche la versione per iPad che attualmente è in beta privata,
+
+434
+00:25:51,840 --> 00:25:58,480
+quindi anche lì, se pagate per lo sviluppo, venite sostanzialmente invitati in
+
+435
+00:25:58,480 --> 00:25:59,440
+questa beta.
+
+436
+00:25:59,440 --> 00:26:04,560
+Probabilmente a mesi dovremmo uscire la versione appunto gratuita per iPad.
+
+437
+00:26:04,560 --> 00:26:10,240
+La cosa particolare è che Obsidian è un'applicazione Electron e oggi di
+
+438
+00:26:10,240 --> 00:26:17,600
+applicazioni Electron ne parleremo a bizzeff perché ce ne sono varie nel
+
+439
+00:26:17,600 --> 00:26:20,560
+nostro elenco a fine dei discorsi.
+
+440
+00:26:20,560 --> 00:26:26,480
+Le applicazioni Electron Roberto fa sempre le facce quando ne parlo.
+
+441
+00:26:26,480 --> 00:26:33,160
+Nel caso specifico di Obsidian, però oggettivamente è un sistema interessante, anche
+
+442
+00:26:33,160 --> 00:26:37,720
+perché ha il vantaggio che essendo di fatto un'applicazione sviluppata per il
+
+443
+00:26:37,720 --> 00:26:44,280
+web, vi permette anche di creare plugin, cioè espansioni dell'applicazione stessa utilizzando
+
+444
+00:26:44,280 --> 00:26:46,440
+il JavaScript sostanzialmente.
+
+445
+00:26:46,440 --> 00:26:52,360
+Quindi, per esempio, per iPadOS questo è un bel modo di espandere
+
+446
+00:26:52,360 --> 00:26:57,080
+le funzioni, e il VTC nazionale, sta facendo un sacco di lavoro
+
+447
+00:26:57,320 --> 00:27:02,520
+adesso, ovviamente, ne ha parlato in vari podcast, non ha ancora condiviso
+
+448
+00:27:02,520 --> 00:27:08,200
+nella sua newsletter esattamente il come e il cosa, ma quello che
+
+449
+00:27:08,200 --> 00:27:12,360
+posso dire è che la iOS review, diciamo di quest'anno lo farà
+
+450
+00:27:12,600 --> 00:27:18,840
+molto probabilmente direttamente in Obsidian, quindi a dimostrazione delle potenzialità, abitualmente VTC
+
+451
+00:27:18,840 --> 00:27:24,280
+scrive 10.000 parole per una review: un piccolo libro in pratica
+
+452
+00:27:25,560 --> 00:27:25,880
+,
+
+453
+00:27:26,920 --> 00:27:32,120
+credo che sia tra i 100.000 e 150.000 parole, credo, vada a
+
+454
+00:27:32,120 --> 00:27:32,440
+memoria,
+
+455
+00:27:35,800 --> 00:27:40,360
+per cui vi fa capire le potenzialità di questo sistema.
+
+456
+00:27:40,520 --> 00:27:44,200
+La cosa interessante è appunto che Obsidian, essendo un'applicazione web.
+
+457
+00:27:44,200 --> 00:27:49,320
+In pratica, permette di interagire con tante cose effettivamente una volta che
+
+458
+00:27:49,320 --> 00:27:54,440
+si hanno le capacità o c'è una cerchia di soggetti interessati che
+
+459
+00:27:54,440 --> 00:27:59,640
+sviluppano appositi plugin e anche qui la comunità di Obsidian sta crescendo
+
+460
+00:27:59,640 --> 00:28:03,160
+e molto viva e così via, per cui ci sono, se andate
+
+461
+00:28:03,160 --> 00:28:08,040
+a vedere una quantità di plugin di terze parti notevoli, giusto per
+
+462
+00:28:08,040 --> 00:28:14,480
+dirne una: Obsidian ha una versione, una versione V-Mode sostanzialmente, per cui,
+
+463
+00:28:14,440 --> 00:28:18,640
+per esempio, in Obsidian è possibile scrivere con le stesse più o
+
+464
+00:28:18,640 --> 00:28:23,760
+meno con le stesse modalità di Vim, e insomma, ovviamente, per esempio,
+
+465
+00:28:23,760 --> 00:28:28,240
+per un soggetto che ama scrivere così, tipo sottoscritto, è una cosa
+
+466
+00:28:28,240 --> 00:28:32,720
+interessante, anche perché ovviamente nella stessa applicazione si hanno la stessa interfaccia
+
+467
+00:28:32,720 --> 00:28:36,960
+e le stesse modalità, ed è il bello, diciamo, di avere l'applicazione
+
+468
+00:28:36,960 --> 00:28:38,560
+sia su Mac che su WaiOff.
+
+469
+00:28:38,640 --> 00:28:43,120
+Tra l'altro ci sono la bellezza di 22 core plugin e 223
+
+470
+00:28:43,120 --> 00:28:44,320
+community plugin.
+
+471
+00:28:44,320 --> 00:28:48,480
+Quindi insomma potete farci un po' quello che volete con questo essenzialmente.
+
+472
+00:28:48,480 --> 00:28:52,960
+Dal punto di vista dell'interfaccia molto carina, mi piace molto.
+
+473
+00:28:53,360 --> 00:28:57,360
+Interessante, non fa per me perché fa anche troppo per quanto mi
+
+474
+00:28:57,360 --> 00:28:57,840
+riguarda,
+
+475
+00:28:59,120 --> 00:29:01,840
+è facile che mi perda semplicemente.
+
+476
+00:29:01,840 --> 00:29:07,120
+In compenso, però funziona su Windows, su macOS e su Linux senza
+
+477
+00:29:07,120 --> 00:29:08,000
+grossi problemi.
+
+478
+00:29:08,000 --> 00:29:13,280
+Come diceva il nostro amico Filippo, basta pagare, potete anche iniziare a
+
+479
+00:29:13,280 --> 00:29:18,560
+usare la beta della versione per iPadOS o iOS che siano.
+
+480
+00:29:18,560 --> 00:29:22,480
+In ogni caso tenetelo ad occhio perché appunto se ne parlano i
+
+481
+00:29:22,480 --> 00:29:26,960
+grandi nomi come Btci e compagnia cantante della sua
+
+482
+00:29:28,320 --> 00:29:32,640
+compriccola, vuol dire che un motivo c'è, vuol dire che il software
+
+483
+00:29:33,200 --> 00:29:36,240
+ha un certo API ed è notevole.
+
+484
+00:29:36,240 --> 00:29:38,960
+A questo punto direi che chiuso il
+
+485
+00:29:40,080 --> 00:29:42,960
+capitolo Mac OS e iOS.
+
+486
+00:29:42,960 --> 00:29:48,160
+Stavo pensando, Text edit non c'è per iOS, forse c'è una versione.
+
+487
+00:29:48,160 --> 00:29:49,600
+No, sarebbe stato male.
+
+488
+00:29:49,920 --> 00:29:54,560
+Per esempio, andava bene come uno di questi programmi che funziona anche
+
+489
+00:29:54,560 --> 00:29:54,960
+di là.
+
+490
+00:29:54,960 --> 00:29:55,760
+Comunque,
+
+491
+00:29:56,880 --> 00:30:00,280
+note potrebbe essere un programma, no?
+
+492
+00:30:00,440 --> 00:30:04,040
+In RTF, non fa il testo sempre,
+
+493
+00:30:05,800 --> 00:30:08,280
+neanche RTF in senso tecnico.
+
+494
+00:30:08,440 --> 00:30:09,560
+Ci avevo pensato.
+
+495
+00:30:09,560 --> 00:30:10,600
+Poi avevo detto: no, no,
+
+496
+00:30:12,200 --> 00:30:13,960
+utilizza tutto un sistema suo.
+
+497
+00:30:14,440 --> 00:30:19,160
+Un sistema in Apple che funzionasse per questo, ma non c'è.
+
+498
+00:30:21,400 --> 00:30:24,600
+Scusa un attimo, faccio un controllo che è venuto in mente adesso.
+
+499
+00:30:24,600 --> 00:30:31,240
+Mi ricordo, forse in una versione precedente di iOS che c'era in
+
+500
+00:30:31,480 --> 00:30:36,200
+file, se non erro, c'era anche una cartella text edit.
+
+501
+00:30:36,360 --> 00:30:40,760
+O me lo sono fumato: sì, ma se ce l'hai su me
+
+502
+00:30:41,800 --> 00:30:45,160
+è perché è il cloud: siccome lo apri di qua.
+
+503
+00:30:45,400 --> 00:30:49,000
+Ah, beh, allora, iOS ha l'anteprimata, il file di testo te li
+
+504
+00:30:49,000 --> 00:30:53,480
+legge tranquillamente, ma non te li modifica, e quindi se a punta
+
+505
+00:30:53,480 --> 00:30:53,960
+capo.
+
+506
+00:30:53,960 --> 00:30:59,160
+Poi di fatto, allora, su iOS, senza avere un'applicazione, non so, vuoi
+
+507
+00:30:59,160 --> 00:31:02,360
+modificarlo, teoricamente con shortcut e smacchinando un po'.
+
+508
+00:31:02,360 --> 00:31:06,040
+Lo fai tranquillamente perché basta appendere del testo al file di testo
+
+509
+00:31:06,040 --> 00:31:07,960
+originale, è già risolto.
+
+510
+00:31:07,960 --> 00:31:11,480
+Però, insomma, diciamo che non è un'applicazione
+
+511
+00:31:13,160 --> 00:31:13,400
+.
+
+512
+00:31:13,400 --> 00:31:13,960
+Va bene.
+
+513
+00:31:13,960 --> 00:31:16,200
+Adesso direi di passare a macOS.
+
+514
+00:31:16,200 --> 00:31:20,120
+Anche qua ci sono praticamente un'applicazione che uso io.
+
+515
+00:31:20,120 --> 00:31:25,560
+Il resto non la conosco, però mi inoltro verso Ziama così Z
+
+516
+00:31:29,320 --> 00:31:33,240
+editor Electron Open Source e multipiattaforma.
+
+517
+00:31:33,240 --> 00:31:36,040
+Funziona sia su Windows, macOS e Linux e compagnia.
+
+518
+00:31:36,040 --> 00:31:40,520
+Tutti quanti con tanti, con funzioni molto interessanti.
+
+519
+00:31:40,840 --> 00:31:47,360
+Stavo guardando adesso dal punto di vista dell'interfaccia grafica, non mi esalta
+
+520
+00:31:47,360 --> 00:31:50,560
+tantissimo perché mi ricorda qualcosa che ho già visto ma che non
+
+521
+00:31:44,920 --> 00:31:51,760
+mi è mai piaciuto molto.
+
+522
+00:31:52,000 --> 00:31:56,320
+Sembra veramente una pagina web a tutti gli effetti: l'interfaccia grafica.
+
+523
+00:31:56,320 --> 00:32:02,000
+Anche qui essendo un'applicazione Electron, di fatto è una pagina web in
+
+524
+00:32:02,000 --> 00:32:02,960
+pratica,
+
+525
+00:32:04,000 --> 00:32:07,040
+si possono modificare i temi e quindi si può fare un po'
+
+526
+00:32:07,040 --> 00:32:08,000
+quello che si vuole.
+
+527
+00:32:08,560 --> 00:32:12,320
+C'è come Obsidian, per esempio, ha una versione base, ma ha tutta
+
+528
+00:32:12,320 --> 00:32:17,600
+una serie di temi che sono personalizzabili, conoscendo il CC, il CSS
+
+529
+00:32:17,920 --> 00:32:22,720
+e così via, perché alla fine sono una renderizzazione di testo semplice,
+
+530
+00:32:22,720 --> 00:32:23,200
+in pratica
+
+531
+00:32:24,480 --> 00:32:26,800
+lì, dopo, appunto, va a
+
+532
+00:32:27,920 --> 00:32:28,960
+gusto, diciamo,
+
+533
+00:32:30,000 --> 00:32:33,200
+la cosa carina di Zettlr, diciamo, rispetto alle altre.
+
+534
+00:32:33,200 --> 00:32:37,200
+Non abbiamo parlato nelle altre, ma in molte applicazioni diciamo in qualche
+
+535
+00:32:37,200 --> 00:32:42,080
+maniera da Markdown si genera il PDF anche se spesso e volentieri
+
+536
+00:32:42,160 --> 00:32:45,840
+sono PDF generati dall'HTML nella sostanza.
+
+537
+00:32:45,840 --> 00:32:49,760
+Zettlr ha questa particolarità, ho fatto anche un video quindi non me
+
+538
+00:32:49,760 --> 00:32:54,560
+ne sto a preoccupare più di tanto nella spiegazione specifica.
+
+539
+00:32:54,800 --> 00:32:59,440
+Ma in pratica sotto si interfaccia con Pandoc e quindi avete la
+
+540
+00:32:59,440 --> 00:33:04,480
+possibilità non solo di generare dal markdown i PDF, che vabbè, quello
+
+541
+00:33:04,480 --> 00:33:06,480
+comodo, ma lo fanno un po' tutti.
+
+542
+00:33:06,480 --> 00:33:09,840
+In questo caso vi permette anche di fare i PDF avanzati.
+
+543
+00:33:09,840 --> 00:33:14,720
+Quindi, quello che hai visto tu, per esempio, si può fare direttamente
+
+544
+00:33:14,720 --> 00:33:18,000
+con Zettlr e con le configurazioni che ho fatto io.
+
+545
+00:33:18,000 --> 00:33:23,280
+La cosa carina è che essendo Pandoc, Z può esportare in DocX,
+
+546
+00:33:23,520 --> 00:33:28,080
+ODT, RTF, tu chiedi, e lui fa.
+
+547
+00:33:29,000 --> 00:33:32,680
+E la cosa carina, vera, è proprio che c'è un pulsantino: quindi
+
+548
+00:33:32,680 --> 00:33:35,800
+vuoi fare il Docx, tu schiacci il pulsantino Docx e lui ti
+
+549
+00:33:35,800 --> 00:33:37,800
+butta fuori il Docx.
+
+550
+00:33:37,800 --> 00:33:41,720
+Per cui questa secondo me come applicazione ha questo grosso vantaggio.
+
+551
+00:33:41,720 --> 00:33:46,920
+Se volete scrivere in testo semplice e volete esportare facilmente in maniera
+
+552
+00:33:46,920 --> 00:33:51,880
+trasparente, diciamo, ecco questa un'applicazione che merita da quel punto di vista
+
+553
+00:33:51,880 --> 00:33:52,040
+lì.
+
+554
+00:33:54,360 --> 00:33:59,720
+Sì, sì, no, allora adesso progressivamente lo fanno in tanti, però questa
+
+555
+00:33:59,720 --> 00:34:05,880
+è Taipora, sì, esatto, ma anche Taipora, che anche lì dovrebbe essere
+
+556
+00:34:05,880 --> 00:34:06,120
+così.
+
+557
+00:34:06,120 --> 00:34:10,280
+Io la chiamo così, perché è typo, sarebbe da typo.
+
+558
+00:34:11,160 --> 00:34:12,520
+Io la chiamo Taipora.
+
+559
+00:34:12,520 --> 00:34:16,040
+Poi sarebbe dipende anche lì, se la legge in inglese o in
+
+560
+00:34:16,360 --> 00:34:17,400
+semi-italiano.
+
+561
+00:34:17,400 --> 00:34:20,680
+Ecco, perché poi sono quelle applicazioni che non sai esattamente come.
+
+562
+00:34:20,680 --> 00:34:27,720
+Comunque, anche Taipora funziona nella stessa maniera, cioè sotto si interfaccia con
+
+563
+00:34:27,720 --> 00:34:32,600
+Pandock e permette l'esportazione, ha questa interfaccia web.
+
+564
+00:34:32,600 --> 00:34:37,960
+A me non piace l'approccio, molto bello graficamente, mettiamola così.
+
+565
+00:34:37,960 --> 00:34:41,640
+Non mi piace l'approccio ti nasconde il Markdown.
+
+566
+00:34:41,640 --> 00:34:46,760
+A me piace poter mettere le mani in maniera, però, anche Zettlr
+
+567
+00:34:47,080 --> 00:34:51,000
+ha difetto, tra virgolette, in alcuni contesti di togliere via il Markdown,
+
+568
+00:34:51,080 --> 00:34:53,320
+poi, se vai dentro il testo, lo fa.
+
+569
+00:34:53,480 --> 00:34:57,800
+Ecco l'altra cosa che mi piace molto di Zettlr: se scrivete cose
+
+570
+00:34:57,800 --> 00:35:02,680
+lunghe, tipo le note della scaletta di questo episodio, Zettlr ha già
+
+571
+00:35:02,680 --> 00:35:06,600
+incorporato un ripiegamento dei capitoli.
+
+572
+00:35:06,600 --> 00:35:11,160
+Quindi, se tu stai scrivendo i capitoli che hai già scritto, li
+
+573
+00:35:11,160 --> 00:35:14,960
+ripieghi, per esempio, e tutto il resto invece lo scrivi pian pianino,
+
+574
+00:35:14,960 --> 00:35:18,080
+hai tutto l'episodio, insomma, ti permette di vedere a colpo d'occhio, per
+
+575
+00:35:18,080 --> 00:35:22,800
+esempio, la struttura del documento, dove manca qualcosa e così via.
+
+576
+00:35:22,800 --> 00:35:26,960
+Insomma, sono tante piccole funzioni che però aiutano chi scrive.
+
+577
+00:35:27,360 --> 00:35:28,560
+Quindi io la consiglio.
+
+578
+00:35:28,560 --> 00:35:33,760
+Appunto, le note di questo episodio, barra la scaletta per noi, sono
+
+579
+00:35:33,840 --> 00:35:34,560
+ovviamente.
+
+580
+00:35:35,040 --> 00:35:36,240
+Oggi le ho scritte qua.
+
+581
+00:35:36,320 --> 00:35:40,080
+A volte poi le scrivo altrimenti, ma diciamo che Zettlr è una
+
+582
+00:35:40,160 --> 00:35:44,400
+bella applicazione, mi ci trovo molto bene, e quindi ogni tanto la
+
+583
+00:35:44,400 --> 00:35:46,160
+uso consigliata.
+
+584
+00:35:46,160 --> 00:35:48,720
+Vai con la tua invece applicazione.
+
+585
+00:35:48,720 --> 00:35:56,000
+Ecco, Zettlr potrebbe andare sempre nelle caratteristiche di Roberto, cioè gratuita.
+
+586
+00:35:56,400 --> 00:35:58,640
+Però a me piace Macdown, Macdown.
+
+587
+00:35:58,640 --> 00:36:03,520
+Già il nome mi piace tantissimo perché richiama il Markdown, ma su
+
+588
+00:36:03,520 --> 00:36:06,160
+Mac questa crasi tra le due nomi.
+
+589
+00:36:06,160 --> 00:36:09,840
+Poi mi piaceva anche l'icona, che è molto carina e molto simpatica,
+
+590
+00:36:09,840 --> 00:36:11,360
+tonda minimale.
+
+591
+00:36:11,520 --> 00:36:15,440
+La cosa interessante di questo editor di testo che mi è sempre
+
+592
+00:36:15,440 --> 00:36:20,720
+piaciuta molto, è la possibilità di avere questa applicazione a tutto schermo
+
+593
+00:36:20,960 --> 00:36:24,640
+e automaticamente divide in due lo schermo in modo tale che sulla
+
+594
+00:36:24,640 --> 00:36:28,560
+sinistra avete il testo che state digitando e invece sulla destra avete
+
+595
+00:36:28,560 --> 00:36:30,480
+la preview essenzialmente
+
+596
+00:36:31,840 --> 00:36:34,720
+del markdown come viene tirato fuori.
+
+597
+00:36:34,720 --> 00:36:40,480
+Questo mi aiuta moltissimo perché vi permette di avere subito, come diceva
+
+598
+00:36:40,640 --> 00:36:46,400
+Filippo, sulla parte sinistra avete il testo che potete modificare in qualsiasi
+
+599
+00:36:46,400 --> 00:36:50,080
+modo, avete il markdown da fare a quello che volete, e vedete
+
+600
+00:36:50,080 --> 00:36:55,760
+sulla destra invece quello che succede usando la sintassi Markdown.
+
+601
+00:36:55,800 --> 00:36:56,520
+Sotto questo punto
+
+602
+00:36:57,840 --> 00:37:03,000
+, chiamiamola così, sotto questo punto di vista o l'anteprima in italiano, in
+
+603
+00:36:59,840 --> 00:37:04,200
+effetti la chiamante prima.
+
+604
+00:37:05,080 --> 00:37:09,400
+Sotto questo punto di vista, oltre al fatto che è molto leggero
+
+605
+00:37:09,400 --> 00:37:14,920
+e molto facile da utilizzare e di una semplicità quasi disarmante, è
+
+606
+00:37:14,920 --> 00:37:18,600
+la cosa che non ha praticamente icone.
+
+607
+00:37:18,920 --> 00:37:24,360
+Vi si apre questo file, questa enorme scrivania dove voi dovete semplicemente
+
+608
+00:37:24,360 --> 00:37:27,320
+scrivere e quindi vi toglie anche tutte le distrazioni.
+
+609
+00:37:27,320 --> 00:37:30,680
+A me è piaciuto molto questo approccio, appunto, come vi dicevo.
+
+610
+00:37:30,840 --> 00:37:35,960
+Il mio editor di Markdown fino a poco tempo fa, diciamo, perché
+
+611
+00:37:36,040 --> 00:37:40,360
+purtroppo, o per fortuna, ho virato su un altro tipo di sistema,
+
+612
+00:37:40,360 --> 00:37:44,920
+anche un po' tirato da alcuni video che ho visto di un
+
+613
+00:37:44,920 --> 00:37:46,200
+architetto che mi piace.
+
+614
+00:37:46,200 --> 00:37:48,680
+Ma ne parleremo dopo, ne parleremo dopo.
+
+615
+00:37:49,160 --> 00:37:53,320
+Detto questo, Markdown ha anche un'altra cosa bella che è anche open
+
+616
+00:37:53,320 --> 00:37:53,880
+source.
+
+617
+00:37:53,880 --> 00:37:56,600
+Come dice il buon Filippo, che io non ho mai provato, è
+
+618
+00:37:56,680 --> 00:37:58,680
+possibile installarlo con Omebrew.
+
+619
+00:37:58,680 --> 00:38:03,160
+Io non ho mai provato il comando è Brew install trattino.
+
+620
+00:38:03,160 --> 00:38:05,000
+Cask, se ho letto bene.
+
+621
+00:38:05,000 --> 00:38:05,800
+Markdown.
+
+622
+00:38:05,800 --> 00:38:06,440
+Dico bene
+
+623
+00:38:08,040 --> 00:38:09,880
+praticamente Ombriu.
+
+624
+00:38:10,520 --> 00:38:15,720
+O installa i pacchetti senza il cask, i cask sono sostanzialmente dei
+
+625
+00:38:15,720 --> 00:38:20,840
+sistemi per scaricare dal sito dove si trova il DMG o così
+
+626
+00:38:20,840 --> 00:38:21,080
+via.
+
+627
+00:38:21,080 --> 00:38:24,920
+In automatico, ti scarica e ti installa il pacchetto senza che tu
+
+628
+00:38:24,920 --> 00:38:25,480
+faccia niente.
+
+629
+00:38:25,480 --> 00:38:30,040
+Io lo consiglio tantissimo sempre perché veramente ti semplifica molto la vita
+
+630
+00:38:30,040 --> 00:38:33,480
+nell'installazione dei software e nell'aggiornamento dello stesso.
+
+631
+00:38:33,480 --> 00:38:37,480
+Eh, per adesso è così minimale che non è che c'è molto
+
+632
+00:38:37,480 --> 00:38:38,280
+da aggiungere.
+
+633
+00:38:38,280 --> 00:38:40,680
+Io mi trovo molto bene, come vi dicevo, i file li salva
+
+634
+00:38:40,760 --> 00:38:43,160
+dove dici tu e non dove dice lui.
+
+635
+00:38:43,160 --> 00:38:48,080
+Conseguentemente, è molto facile da gestire da questo punto di vista, invece
+
+636
+00:38:48,240 --> 00:38:53,360
+BB Edit, che pare che sia uno degli editor preferiti da parte
+
+637
+00:38:53,680 --> 00:38:57,680
+dei Mac user della vecchia guardia, come mai?
+
+638
+00:38:57,920 --> 00:39:03,040
+Innanzitutto, BB Edit esiste da 30 anni sotto Mac, quindi è una
+
+639
+00:39:03,280 --> 00:39:10,640
+delle applicazioni più antiche per Macintosh e anche una delle applicazioni più
+
+640
+00:39:10,720 --> 00:39:16,720
+avanzate, diciamo così, nel senso che di fatto è automatizzabile, giusto per
+
+641
+00:39:16,720 --> 00:39:23,120
+dare un po' il panorama, John Gruber scriveva la documentazione tecnica di
+
+642
+00:39:23,120 --> 00:39:28,720
+BB Edit, insomma, a dimostrazione del fatto che comunque è legata strettamente.
+
+643
+00:39:28,720 --> 00:39:33,120
+John Gruber per chi non lo sapesse, è uno dei maggiori opinionisti
+
+644
+00:39:33,360 --> 00:39:36,560
+nel mondo Apple, è uno dei più famosi.
+
+645
+00:39:36,880 --> 00:39:43,200
+Per cui alla fine appunto nasce tantissimo tempo fa espressamente per l'interfaccia
+
+646
+00:39:43,200 --> 00:39:48,080
+grafica di macOS, o meglio, addirittura dei sistemi precedenti a macOS
+
+647
+00:39:48,400 --> 00:39:48,720
+o
+
+648
+00:39:50,240 --> 00:39:56,080
+M'Cos X, per cui nella sostanza la vecchia guardia lo apprezza molto
+
+649
+00:39:56,080 --> 00:39:58,640
+anche perché appunto ha tutta una serie di funzioni che adesso non
+
+650
+00:39:58,640 --> 00:40:01,840
+possiamo neanche andare, devo dire la verità, mai usato in vita mia.
+
+651
+00:40:01,840 --> 00:40:07,600
+Tro sicuramente ha Rex, ha tutta una serie di cose veramente anche
+
+652
+00:40:07,600 --> 00:40:12,480
+a livello relativamente avanzato e che vi permettono di fare sul testo
+
+653
+00:40:12,480 --> 00:40:18,480
+tantissime cose, quindi viene utilizzato da tantissime persone che utilizzano da tanto
+
+654
+00:40:18,480 --> 00:40:23,120
+tempo a un costo, a un costo che non me lo ricordo,
+
+655
+00:40:23,120 --> 00:40:28,640
+secondo me comunque costa scosticchia, perché questa non è un'applicazione e comunque
+
+656
+00:40:28,640 --> 00:40:31,800
+ha una base utente di un certo tipo quindi non credo sia
+
+657
+00:40:31,880 --> 00:40:37,720
+un abbonamento, ma comunque una licenza di BB Edit costa dei soldini.
+
+658
+00:40:37,720 --> 00:40:38,280
+Secondo me.
+
+659
+00:40:38,440 --> 00:40:40,760
+Stavo appunto dando un'occhiata,
+
+660
+00:40:42,280 --> 00:40:42,760
+costa.
+
+661
+00:40:42,760 --> 00:40:44,760
+Sì, costa 50 euro.
+
+662
+00:40:45,240 --> 00:40:51,720
+Poi adesso continua a ripetere per un'applicazione, che presumibilmente per uno scrittore
+
+663
+00:40:51,720 --> 00:40:53,800
+professionista costa pochissimo.
+
+664
+00:40:53,800 --> 00:40:56,760
+Tuttavia, se consideri che Word
+
+665
+00:40:58,040 --> 00:41:01,720
+ti costa 40 o 60 euro al
+
+666
+00:41:03,000 --> 00:41:09,320
+contrazione se vuoi, però all'anno alla fine BBI ti costa molto meno
+
+667
+00:41:09,480 --> 00:41:12,760
+ed è una licenza, una tanto, diciamo o meglio, poi ovviamente ci
+
+668
+00:41:12,760 --> 00:41:16,440
+sono gli aggiornamenti, ma questo è quanto.
+
+669
+00:41:16,440 --> 00:41:21,480
+Non entrerei più nel dettaglio, anche perché siamo poi già abbastanza oltre.
+
+670
+00:41:21,640 --> 00:41:28,520
+Io invece passerei alla multipiattaforma e l'unica applicazione veramente multipiattaforma che conosco
+
+671
+00:41:28,520 --> 00:41:33,960
+e che effettivamente vale la pena è iRider, è presente su Mac
+
+672
+00:41:34,200 --> 00:41:39,320
+OS, iOS, Android e Windows, quindi di fatto copre quasi tutta applicazione
+
+673
+00:41:39,480 --> 00:41:45,240
+a pagamento 30 euro la versione, diciamo, per desktop, chiamiamola così, cioè
+
+674
+00:41:45,320 --> 00:41:52,280
+Mac e Windows, credo 1999 quindi 20, invece la versione per iOS
+
+675
+00:41:52,280 --> 00:41:53,400
+e Android.
+
+676
+00:41:53,400 --> 00:41:59,800
+Il vantaggio, appunto, è che se avete un ecosistema misto, diciamo, è
+
+677
+00:41:59,800 --> 00:42:01,480
+presente su tutti gli ecosistemi.
+
+678
+00:42:01,480 --> 00:42:02,440
+È ben sviluppata.
+
+679
+00:42:02,440 --> 00:42:05,080
+Io vi parlo ovviamente della parte Mac.
+
+680
+00:42:05,240 --> 00:42:07,160
+Io ce l'ho solo per iOS.
+
+681
+00:42:07,160 --> 00:42:10,360
+E una delle cose più interessanti di iOS è che gestisce tutte
+
+682
+00:42:10,360 --> 00:42:12,760
+le funzioni avanzate del sistema operativo.
+
+683
+00:42:12,760 --> 00:42:17,360
+Quindi, per esempio, la possibilità di avere l'apertura delle cartelle sul posto,
+
+684
+00:42:17,360 --> 00:42:22,240
+quindi la cartella di un'altra applicazione, io la posso recuperare se ovviamente
+
+685
+00:42:22,240 --> 00:42:29,680
+l'applicazione su iOS o iPadOS gestisce la modalità corretta di Apple
+
+686
+00:42:29,680 --> 00:42:31,040
+sostanzialmente.
+
+687
+00:42:31,120 --> 00:42:35,520
+Vi permette, però, di lavorare direttamente su quei file contenuti in quella
+
+688
+00:42:35,520 --> 00:42:41,200
+cartella sottocartella che condividete con i writer ed è una delle pochissime
+
+689
+00:42:41,200 --> 00:42:44,080
+applicazioni per scrivere che lo fa.
+
+690
+00:42:44,080 --> 00:42:49,360
+Quindi da considerare, all'epoca l'ho presa proprio per questo motivo perché mi
+
+691
+00:42:49,360 --> 00:42:54,400
+permetteva di manipolare i file in markdown in questa maniera, cioè senza
+
+692
+00:42:54,400 --> 00:42:59,600
+dovere fare dei giri strani, spesso e volentieri ho una cartella dove
+
+693
+00:42:59,680 --> 00:43:02,800
+per esempio, l'avvocato e Mac ho una cartella dei file in scrittura
+
+694
+00:43:03,120 --> 00:43:05,840
+dove ci sono tutti gli articoli che ho iniziato a scrivere che
+
+695
+00:43:05,840 --> 00:43:06,800
+devo finire.
+
+696
+00:43:06,800 --> 00:43:12,080
+Quindi, ovvio che condividere solo quella cartella, mi diventa comodo per fare
+
+697
+00:43:12,080 --> 00:43:15,360
+le mie cose, perché in quella cartella trovo tutta la mia roba
+
+698
+00:43:15,600 --> 00:43:21,360
+e modificando in hair writer, dopo riesco a fare tutto il resto,
+
+699
+00:43:21,360 --> 00:43:25,680
+tutto il mio flusso di lavoro, diciamo, continua in maniera trasparente.
+
+700
+00:43:26,400 --> 00:43:31,680
+Quindi consigliatissima soltanto due note, una che costa 30 euro praticamente per
+
+701
+00:43:31,680 --> 00:43:32,720
+tutte le versioni.
+
+702
+00:43:32,720 --> 00:43:37,280
+L'altra cosa interessante è che una nota di colore che porta con
+
+703
+00:43:37,280 --> 00:43:42,320
+sé quattro font di high writer che si chiama Mono 4
+
+704
+00:43:43,360 --> 00:43:45,120
+e non li ho ancora visti.
+
+705
+00:43:45,120 --> 00:43:48,000
+Adesso volevo dargli un'occhiata per capire che tipo di font erano.
+
+706
+00:43:49,120 --> 00:43:51,040
+Sono particolari, carini.
+
+707
+00:43:51,040 --> 00:43:55,760
+Penso che poi quel font lì sia stato preso, cioè sia stata
+
+708
+00:43:55,760 --> 00:44:00,280
+una loro personalizzazione del font dell'IBM simile.
+
+709
+00:44:00,280 --> 00:44:01,160
+Però adesso
+
+710
+00:43:59,840 --> 00:44:05,560
+vado a memoria oggettivamente sono carini.
+
+711
+00:44:06,840 --> 00:44:13,000
+Ovviamente aspetto grafico minimalista, ha tutta una serie di funzioni molto carine.
+
+712
+00:44:13,320 --> 00:44:20,840
+La possibilità di vedere graficamente colorare differentemente i sintassi le parole.
+
+713
+00:44:20,840 --> 00:44:24,840
+Esatto, le parole quindi se sono avverbi, se sono verbi, se sono
+
+714
+00:44:25,400 --> 00:44:26,840
+insomma è interessante.
+
+715
+00:44:26,840 --> 00:44:31,320
+Sicuramente, un'applicazione che ha un costo quindi deve essere giustificata.
+
+716
+00:44:31,320 --> 00:44:35,960
+È anche in italiano quindi, anche da questo punto di vista, se
+
+717
+00:44:35,960 --> 00:44:40,440
+si vuole un approccio, diciamo, lineare, se non si conosce bene l'inglese
+
+718
+00:44:40,680 --> 00:44:43,880
+o comunque non si vuole avere un'interfaccia in inglese.
+
+719
+00:44:43,880 --> 00:44:45,800
+Ecco questo è un punto a favore.
+
+720
+00:44:45,800 --> 00:44:48,760
+Infatti, è una di quelle applicazioni che io consiglio sempre.
+
+721
+00:44:49,080 --> 00:44:52,920
+Diciamo già a un livello un po' più elevato, mettiamola così, perché
+
+722
+00:44:52,920 --> 00:44:54,280
+comunque hanno un costo.
+
+723
+00:44:54,280 --> 00:44:57,160
+Io su Mac non l'ho mai comprata e non l'ho mai usata,
+
+724
+00:44:57,160 --> 00:45:00,840
+quindi non posso dare giudizi di nessun genere.
+
+725
+00:45:00,840 --> 00:45:05,160
+Ah, no, nemmeno io, tanto sono applicazioni professionali, visto che parliamo di
+
+726
+00:45:05,160 --> 00:45:10,600
+applicazioni professionali, direi di parlare di sublime text, cui non ho alcun
+
+727
+00:45:10,600 --> 00:45:11,400
+approfondimento.
+
+728
+00:45:11,400 --> 00:45:15,640
+Però stavo guardando dal punto di vista, come sempre, faccio un giro
+
+729
+00:45:15,960 --> 00:45:20,040
+sul loro sito e mi fa abbastanza ridere che c'è una GPU
+
+730
+00:45:20,040 --> 00:45:20,920
+rendering.
+
+731
+00:45:20,920 --> 00:45:26,520
+Nel senso allora no, adesso ti spiego, ti spiego, ti spiego perché
+
+732
+00:45:26,760 --> 00:45:29,000
+tu non hai fatto la dovuta premessa.
+
+733
+00:45:29,000 --> 00:45:35,080
+Queste che seguono sono applicazioni particolari, sono veri e propri text editor
+
+734
+00:45:35,240 --> 00:45:38,520
+che sono prevalentemente pensati per la programmazione.
+
+735
+00:45:38,520 --> 00:45:42,920
+Ci ho detto, scrivere e programmare sono molto simili.
+
+736
+00:45:42,920 --> 00:45:47,920
+Queste applicazioni hanno la particolarità appunto di avere una quantità di plugin
+
+737
+00:45:48,160 --> 00:45:49,440
+incredibili.
+
+738
+00:45:49,440 --> 00:45:51,920
+Sono pensate per ovviamente fare coding.
+
+739
+00:45:51,920 --> 00:45:56,240
+Quindi le GPU e tutto il resto hanno questo motivo, nel senso
+
+740
+00:45:56,240 --> 00:46:01,760
+che permettono alcune di queste applicazioni, ovviamente permettono anche di fare la
+
+741
+00:46:01,760 --> 00:46:07,120
+codifica dei programmi e di fare tutta una serie di cose che
+
+742
+00:46:07,520 --> 00:46:10,640
+esulano da quello che ci interessa a noi, ovviamente.
+
+743
+00:46:10,640 --> 00:46:15,680
+Ma appunto hanno funzioni molto interessanti, non so su Blind Text, ma
+
+744
+00:46:15,920 --> 00:46:19,360
+quasi tutti le varie versioni di questi programmi.
+
+745
+00:46:19,920 --> 00:46:23,200
+Puoi andare a modificare, con avere più corsori.
+
+746
+00:46:23,200 --> 00:46:27,360
+Quindi, se per esempio, hai il testo ripetitivo, devi modificare del testo
+
+747
+00:46:27,360 --> 00:46:33,680
+in maniera particolare, tu puoi modificare parole in posti diversi della pagina
+
+748
+00:46:34,000 --> 00:46:39,280
+contemporaneamente con otto cursori diversi che si muovono, puoi fare delle robe
+
+749
+00:46:39,680 --> 00:46:45,600
+un po' folliche, però rido perché il GPU rendering no, no, ma
+
+750
+00:46:45,600 --> 00:46:48,880
+io rido per il GPU rendering che continua a farmi ridere, perché
+
+751
+00:46:48,880 --> 00:46:53,440
+qui dice che ha bisogno della GPU, utilizza la GPU del vostro
+
+752
+00:46:53,440 --> 00:46:56,080
+computer per renderizzare l'interfaccia.
+
+753
+00:46:56,080 --> 00:46:59,600
+Ave se va un po' sopra le righe, comunque io la GPU
+
+754
+00:46:59,600 --> 00:47:03,680
+rendering ci faccio tutt'altro che utilizzarlo per fare quello.
+
+755
+00:47:03,680 --> 00:47:06,880
+Comunque in ogni caso ha fatto ridere questa particolarità.
+
+756
+00:47:06,880 --> 00:47:07,200
+Ecco.
+
+757
+00:47:07,200 --> 00:47:13,120
+Subime Text è l'unico che non costa, o meglio, lo puoi scaricare,
+
+758
+00:47:13,120 --> 00:47:18,640
+ti dice di comprarlo, ma non fa null'altro da quello che ne
+
+759
+00:47:18,640 --> 00:47:18,800
+so.
+
+760
+00:47:18,800 --> 00:47:19,240
+Io.
+
+761
+00:47:19,280 --> 00:47:21,920
+Atom invece è una cosa simile.
+
+762
+00:47:22,160 --> 00:47:24,240
+Parliamo di tutti i programmi più o meno simili.
+
+763
+00:47:24,400 --> 00:47:25,840
+Tendo a precisare.
+
+764
+00:47:25,840 --> 00:47:31,320
+Atom è open source in questo caso, invece è stato sviluppato da
+
+765
+00:47:29,840 --> 00:47:32,840
+GitHub e anche qui appunto.
+
+766
+00:47:33,000 --> 00:47:41,800
+GitHub è la piattaforma diciamo comprata poi da Microsoft recentemente dove trovate
+
+767
+00:47:41,800 --> 00:47:48,600
+tutta una serie di progetti open source per sviluppo di programmi sostanzialmente.
+
+768
+00:47:48,600 --> 00:47:52,840
+Per cui hanno creato addirittura un loro text editor.
+
+769
+00:47:52,840 --> 00:47:58,280
+L'altro text editor che bisogna citare, perché di fatto credo che sia
+
+770
+00:47:58,440 --> 00:48:01,720
+utilizzato dal 50-60% degli sviluppatori.
+
+771
+00:48:01,720 --> 00:48:07,000
+Questo ve lo dico con beneficio del dubbio, comunque è il text
+
+772
+00:48:07,000 --> 00:48:16,680
+editor maggiormente utilizzato, tristemente è Microsoft ed è Visual Studio Code, però
+
+773
+00:48:16,680 --> 00:48:19,640
+è open source e altamente personalizzabile.
+
+774
+00:48:19,640 --> 00:48:23,080
+Infatti, anche qui a livello di plugin ce n'è una marea.
+
+775
+00:48:23,400 --> 00:48:29,720
+La cosa interessante di questo strumento è che, tra l'altro, è anche
+
+776
+00:48:29,720 --> 00:48:35,720
+qui un credo una sorta di applicazione Electron comunque un'interfaccia web per
+
+777
+00:48:35,720 --> 00:48:43,240
+cui nell'assurdo non esiste una interfaccia per iPad, per esempio, ma è
+
+778
+00:48:43,240 --> 00:48:48,600
+possibile, diciamo, emularla in una finestra del browser quindi potete avere un
+
+779
+00:48:48,600 --> 00:48:52,680
+editor di testo avanzato in una finestra del browser sostanzialmente.
+
+780
+00:48:52,680 --> 00:48:57,400
+Quindi ovviamente anche lì dipende dalle vostre esigenze, però
+
+781
+00:48:59,000 --> 00:49:01,240
+è una cosa da tenere presente.
+
+782
+00:49:01,240 --> 00:49:05,400
+Diciamo che tutte queste applicazioni sono tutte comunque per utenti molto di
+
+783
+00:49:05,400 --> 00:49:07,160
+nicchia, mettiamola così.
+
+784
+00:49:07,160 --> 00:49:12,120
+Diciamo, le ho volute raccontare perché poi l'ultima, quella a cui sono
+
+785
+00:49:12,120 --> 00:49:16,800
+invece più legato: è Vim che è open source, ovviamente merita.
+
+786
+00:49:17,040 --> 00:49:19,760
+E per chi ama scrivere in DOS,
+
+787
+00:49:23,120 --> 00:49:25,920
+un editor di testo, da rigri comando, punta.
+
+788
+00:49:26,880 --> 00:49:28,160
+Quindi, quello è.
+
+789
+00:49:28,160 --> 00:49:32,480
+Ovviamente, meriterebbe una o più puntate del podcast, ma Roberto se ne
+
+790
+00:49:32,480 --> 00:49:32,880
+andrebbe.
+
+791
+00:49:33,040 --> 00:49:35,920
+No, no, ma io mi metto lì ma faccio altro io intanto
+
+792
+00:49:36,080 --> 00:49:36,960
+dico qualcosa.
+
+793
+00:49:37,680 --> 00:49:43,120
+Comunque, se per caso siete interessati, facciamo che invece sono appassionato, ho
+
+794
+00:49:43,120 --> 00:49:46,080
+fatto una serie di video quindi lo trovate sul mio canale YouTube
+
+795
+00:49:46,080 --> 00:49:51,600
+e nella notte dell'episodio, trovate il link alla playlist, così vi posso
+
+796
+00:49:51,600 --> 00:49:56,720
+intrattenere sul perché uso Vim su tutta una serie di cose legate.
+
+797
+00:49:56,720 --> 00:50:01,280
+Beh almeno il colore, la cosa bella, esatto, se volete, perché poi
+
+798
+00:50:01,440 --> 00:50:04,960
+se non volete, non è perché se caricate da una finestra di
+
+799
+00:50:04,960 --> 00:50:05,760
+terminale.
+
+800
+00:50:05,920 --> 00:50:06,960
+No, beh, se la carica
+
+801
+00:50:08,000 --> 00:50:08,560
+del terminale
+
+802
+00:50:09,760 --> 00:50:15,600
+ha il colore del terminale, quindi dipende come lo usi addirittura poi
+
+803
+00:50:15,600 --> 00:50:20,640
+ci sono le applicazioni del terminale che ti fanno l'effetto monitor catodico
+
+804
+00:50:20,880 --> 00:50:22,400
+per i nostalgici.
+
+805
+00:50:22,400 --> 00:50:24,160
+Vabbè, comunque ci sono anche i caratteristiche
+
+806
+00:50:25,280 --> 00:50:30,160
+quel verde no, no, beh, allora il terminale di Mac o è
+
+807
+00:50:30,160 --> 00:50:31,840
+bianco o è verde e quello lì
+
+808
+00:50:32,880 --> 00:50:33,200
+.
+
+809
+00:50:33,520 --> 00:50:34,800
+Ti ricordi quei vecchi termi?
+
+810
+00:50:34,880 --> 00:50:38,640
+Sì, sì, è il verde fluorescente sul sfondo nero, esatto, si, su
+
+811
+00:50:38,720 --> 00:50:39,840
+sfondo nero, si, si
+
+812
+00:50:41,920 --> 00:50:45,040
+dopo un'ora di Vim, così esce con gli occhi come la peggio.
+
+813
+00:50:45,200 --> 00:50:49,120
+Io invece ho il Nord Team che è bellissimo, ha dei colori
+
+814
+00:50:49,120 --> 00:50:50,560
+splendidi per me.
+
+815
+00:50:50,800 --> 00:51:00,520
+Tuttavia, sì, sfondo nero con tonalità color ghiaccio, sull'azzurrino, sull'azzurrino, comunque con
+
+816
+00:51:00,520 --> 00:51:01,720
+colori freddi.
+
+817
+00:50:59,840 --> 00:51:05,880
+La cosa particolare è che essendo open source, Vim ovviamente è multipiattaforma.
+
+818
+00:51:06,360 --> 00:51:09,720
+Su iOS, che è quello che mi interessa di più, iPadOS
+
+819
+00:51:09,720 --> 00:51:11,160
+a dire la verità.
+
+820
+00:51:11,160 --> 00:51:16,600
+Abbiamo vari software che vi permettono di utilizzare Vim sostanzialmente, tra cui
+
+821
+00:51:16,600 --> 00:51:21,560
+la Shell, che nell'ultimo periodo sto utilizzando per fare tutta una serie
+
+822
+00:51:21,560 --> 00:51:24,840
+di cose che forse un giorno vi racconterò.
+
+823
+00:51:24,840 --> 00:51:29,080
+Hai Vim, che è il porting diretto, diciamo su iOS di Vim.
+
+824
+00:51:29,080 --> 00:51:33,160
+E la cosa carina è che anche qui tutte queste applicazioni comunque
+
+825
+00:51:33,160 --> 00:51:39,160
+sono integrate in iOS, quindi potete apri con queste applicazioni qualsiasi file
+
+826
+00:51:39,160 --> 00:51:42,440
+su iOS, quindi è molto carino da questo punto di vista.
+
+827
+00:51:42,440 --> 00:51:47,960
+Oppure iSH, che invece è una virtualizzazione, un'emulazione di Linux, e quindi
+
+828
+00:51:47,960 --> 00:51:51,960
+li potete installare sopra tra le varie cose, ovviamente, anche Vim.
+
+829
+00:51:52,360 --> 00:51:58,600
+Molto interessante, ma io Vim per me è troppo al di là
+
+830
+00:51:59,560 --> 00:52:04,680
+della mia comprensione del motivo del perché si utilizzano questi strumenti.
+
+831
+00:52:04,680 --> 00:52:07,800
+Ma Filippo è molto bravo a utilizzarli, questo bisogna dire, tira fuori
+
+832
+00:52:07,800 --> 00:52:09,320
+delle cose spettacolari.
+
+833
+00:52:09,320 --> 00:52:11,800
+Invece, io sono uno proprio più base base.
+
+834
+00:52:11,800 --> 00:52:16,280
+Tant'è che vi consiglio di utilizzare Block Quote su iOS, che è
+
+835
+00:52:16,280 --> 00:52:22,600
+un'applicazione gratuita molto minimale, con delle funzioni a pagamento, ma ricorda un
+
+836
+00:52:22,600 --> 00:52:25,800
+po' Markdown dal punto di vista dell'interfaccia.
+
+837
+00:52:25,800 --> 00:52:31,640
+Tant'è che c'è la possibilità di avere solo l'interfaccia che riguarda l'editazione
+
+838
+00:52:31,640 --> 00:52:34,920
+del testo, oppure la split, che appunto divide in due lo schermo
+
+839
+00:52:35,080 --> 00:52:40,120
+a sinistra, come sempre il Markdown e a destra la preview, e
+
+840
+00:52:40,120 --> 00:52:42,040
+poi in effetti avere solo la preview.
+
+841
+00:52:42,280 --> 00:52:46,800
+Questo è molto interessante, ha anche un diciamo un file manager che
+
+842
+00:52:46,800 --> 00:52:50,880
+è stato introdotto con iOS 12 che appunto il file punt, che
+
+843
+00:52:50,880 --> 00:52:54,160
+consente appunto di vedere tutti i vostri file di testo ed è
+
+844
+00:52:54,160 --> 00:52:58,160
+quello che a me servia molto come integrazione tra Markdown su MyOS
+
+845
+00:52:58,320 --> 00:53:01,600
+e block quot su iOS.
+
+846
+00:53:01,600 --> 00:53:01,840
+Esatto,
+
+847
+00:53:03,520 --> 00:53:07,840
+Macdown su MyOS e Block quot su iOS, mi permetteva appunto di
+
+848
+00:53:07,840 --> 00:53:13,280
+accedere indipendentemente dagli strumenti che utilizzavo nella stessa directory che c'era su
+
+849
+00:53:13,280 --> 00:53:17,680
+iCloud, che era essenzialmente una cartella con tanti file di testo e
+
+850
+00:53:17,680 --> 00:53:18,960
+via discorrendo.
+
+851
+00:53:18,960 --> 00:53:22,800
+Di particolare, che come sempre, visto che lo uso io, ha una
+
+852
+00:53:22,800 --> 00:53:24,720
+particolarità, ovvero che è gratuito.
+
+853
+00:53:24,720 --> 00:53:28,720
+Tuttavia, tra le funzioni a pagamento c'è la possibilità di esportare in
+
+854
+00:53:28,720 --> 00:53:35,920
+MD, in HTML o PDF, o addirittura stampare MD formattati, che MD
+
+855
+00:53:35,920 --> 00:53:37,920
+sta per Markdown formattati.
+
+856
+00:53:37,920 --> 00:53:41,680
+La cosa che ha stupito invece il nostro amico Filippo che supporta
+
+857
+00:53:41,680 --> 00:53:44,400
+la Tex e quindi equazioni
+
+858
+00:53:46,240 --> 00:53:48,160
+oggi è una giornata molto particolare, la mia.
+
+859
+00:53:48,160 --> 00:53:51,920
+Comunque lasciamo perdere, chiamiamola la Tech va benissimo.
+
+860
+00:53:52,080 --> 00:53:55,440
+Potevano mettere una C a posto della X in ogni caso.
+
+861
+00:53:55,440 --> 00:53:59,520
+Detto questo, perché ovviamente devo fare un po' di polemica.
+
+862
+00:53:59,520 --> 00:54:02,080
+Passiamo invece alla versione cloud.
+
+863
+00:54:02,080 --> 00:54:06,720
+Che questa mi riguarda perché mi riguarda perché sono approdato a una
+
+864
+00:54:06,960 --> 00:54:12,960
+particolare applicazione, anche se appunto probabilmente Electron che fa schifo, ma in
+
+865
+00:54:12,960 --> 00:54:16,080
+questo caso toglie molto probabilmente
+
+866
+00:54:17,960 --> 00:54:19,160
+trovate l'instant
+
+867
+00:54:20,560 --> 00:54:23,680
+dell'electron che ti dice questa è un'applicazione Electron.
+
+868
+00:54:23,680 --> 00:54:27,120
+Quindi voglio dire dicendo: Vedete, noi abbiamo anche questa.
+
+869
+00:54:28,320 --> 00:54:32,280
+Nonostante che io sia uno abbastanza refrattario, ho cercato di chiudere un
+
+870
+00:54:32,440 --> 00:54:35,320
+occhio, se non tutti e due, e girarmi dall'altra parte.
+
+871
+00:54:35,320 --> 00:54:38,440
+E ho utilizzato questa simpatica applicazione che si chiama Notion.
+
+872
+00:54:38,440 --> 00:54:41,960
+Fa un po' paura questo Notion perché vabbè, a parte che un'applicazione
+
+873
+00:54:42,040 --> 00:54:44,440
+gratuita quindi ha tutta la mia simpatia.
+
+874
+00:54:44,920 --> 00:54:48,360
+Lo puoi utilizzare sia su Boom Mac che su iOS, su iPad
+
+875
+00:54:48,360 --> 00:54:50,760
+OS senza grossi problemi.
+
+876
+00:54:51,080 --> 00:54:53,240
+La cosa interessante è che fa un po' paura.
+
+877
+00:54:53,240 --> 00:54:54,440
+Fa un po' paura perché?
+
+878
+00:54:54,440 --> 00:54:57,880
+Perché è un'applicazione che ti permette di fare la qualsiasi e per
+
+879
+00:54:57,880 --> 00:55:00,680
+la qualsiasi intendo davvero la qualsiasi.
+
+880
+00:55:00,680 --> 00:55:02,520
+Essenzialmente il mio utilizzo qual è?
+
+881
+00:55:02,520 --> 00:55:07,160
+È quello appunto di avere delle metterci dentro delle nozioni.
+
+882
+00:55:07,160 --> 00:55:13,480
+Adesso, giusto per portarvi un caso pratico, apro il mio notion direttamente.
+
+883
+00:55:13,480 --> 00:55:17,640
+Voi avete sulla vostra sinistra tutta una serie di, chiamiamole così, di
+
+884
+00:55:17,640 --> 00:55:22,280
+cartelle, io le chiamo, preferisco chiamarle cartelle, ma diciamo di progetti che
+
+885
+00:55:22,280 --> 00:55:25,320
+potete semplicemente aprire.
+
+886
+00:55:25,320 --> 00:55:29,080
+In realtà sono delle pagine web come giustamente ci fa notare il
+
+887
+00:55:29,080 --> 00:55:33,240
+nostro Filippo, essendo electron non può essere diversamente, ma la cosa interessante
+
+888
+00:55:33,240 --> 00:55:38,200
+è che sono decisamente facili da configurare, tant'è che la prima mia
+
+889
+00:55:38,200 --> 00:55:43,320
+pagina riguarda la settimana, quindi avete la vostra pagina divisa in 5
+
+890
+00:55:43,320 --> 00:55:47,640
+colonne dove potete mettere quello che dovete fare durante queste giornate.
+
+891
+00:55:47,640 --> 00:55:53,000
+Quindi conseguentemente ci sono i to-do che potete inserire delle pagine indipendenti,
+
+892
+00:55:53,000 --> 00:55:56,680
+delle togli list e adesso vediamo cosa si può inserire.
+
+893
+00:55:56,680 --> 00:56:01,480
+Basta che si prema shift slash e avete l'elenco.
+
+894
+00:56:01,480 --> 00:56:05,640
+Per esempio, diceva appunto, semplice testo, una pagina dove potete inserire un
+
+895
+00:56:05,640 --> 00:56:07,160
+sacco di cose, to-do list.
+
+896
+00:56:07,160 --> 00:56:13,880
+Chiaramente ci sono essendo markdown like che non è proprio markdown, è
+
+897
+00:56:13,880 --> 00:56:17,760
+vero e proprio, perché ho visto che se io copio una qualsiasi
+
+898
+00:56:18,000 --> 00:56:22,160
+parte del testo formattato come dico io, Markdown, non sempre viene letto
+
+899
+00:56:22,160 --> 00:56:23,040
+nel modo giusto.
+
+900
+00:56:23,040 --> 00:56:28,960
+Quindi, diciamo che Markdown like ci sono appunto i famosi H1, H2,
+
+901
+00:56:28,960 --> 00:56:35,280
+H3, poi c'è il bullet list per chi piace la Bujo Life,
+
+902
+00:56:35,280 --> 00:56:38,560
+ovvero il Bullet Journal, che non lo conosci?
+
+903
+00:56:38,560 --> 00:56:39,200
+Lo conosci?
+
+904
+00:56:39,920 --> 00:56:40,960
+Sì, sì, no, lo conosco.
+
+905
+00:56:41,200 --> 00:56:42,880
+Non capisco stava arrivando.
+
+906
+00:56:42,880 --> 00:56:48,160
+Perché la bullet list poi la list puntata però è molto utile
+
+907
+00:56:48,960 --> 00:56:51,680
+nel caso, per chi piace Bugio.
+
+908
+00:56:51,760 --> 00:56:56,240
+Io, per esempio, cerco sempre molto qualcosa che si avvicina a questo
+
+909
+00:56:56,240 --> 00:57:02,000
+tipo di pratica, perché mi piace moltissimo, l'ho utilizzata sulla carta tanto
+
+910
+00:57:02,080 --> 00:57:02,640
+tempo fa.
+
+911
+00:57:02,640 --> 00:57:05,200
+Adesso sto applando un po' a Notion, ma io tanto so già
+
+912
+00:57:05,200 --> 00:57:06,000
+che ci ricado.
+
+913
+00:57:06,000 --> 00:57:09,280
+Adesso che avendo un iPad con Apple Pensi, so già che ci
+
+914
+00:57:09,280 --> 00:57:12,720
+ricado dentro come un povero bambino.
+
+915
+00:57:12,720 --> 00:57:16,960
+Tornando a Notion, tra le altre cose, potete mettere ovviamente le liste
+
+916
+00:57:16,960 --> 00:57:22,960
+puntate il toggle list, che in realtà sono semplicemente dei file del
+
+917
+00:57:22,960 --> 00:57:26,240
+testo che potete cliccare con la freccettina di fianco e si apre
+
+918
+00:57:26,240 --> 00:57:27,680
+come un menu a tendina.
+
+919
+00:57:27,680 --> 00:57:29,440
+Poi ci sono ovviamente
+
+920
+00:57:30,480 --> 00:57:35,040
+altre cose molto particolari, come potete mettere degli elementi come divisione delle
+
+921
+00:57:35,040 --> 00:57:39,280
+pagine sia in orizzontale che in verticale, potete un po' giocarvela come
+
+922
+00:57:39,280 --> 00:57:41,280
+volete, ma non è finita qua.
+
+923
+00:57:42,160 --> 00:57:47,440
+Fale anche dei piccoli database che potete utilizzare, ad esempio, per
+
+924
+00:57:49,120 --> 00:57:52,880
+i task table, ovvero tutte le cose che dovete fare.
+
+925
+00:57:52,880 --> 00:57:57,680
+Potete mettere essenzialmente potete mettere una simpatica griglia come se fosse un
+
+926
+00:57:57,680 --> 00:58:01,560
+Excel e potete divertirvi a buttarci dentro dei campi che vanno dal
+
+927
+00:58:01,560 --> 00:58:08,760
+campo semplicemente con il quadratino di spunta al che ne so, alle
+
+928
+00:58:08,760 --> 00:58:09,240
+date.
+
+929
+00:58:09,240 --> 00:58:14,440
+Potete metterci la priorità, i tag, i link, potete metterci quello che
+
+930
+00:58:14,440 --> 00:58:19,080
+volete in questa tabella, potete riordinarla, potete filtrarla, potete metterla in altre
+
+931
+00:58:19,080 --> 00:58:19,720
+pagine.
+
+932
+00:58:19,720 --> 00:58:23,320
+Conseguentemente voi che ne so, avete una tabella, fate una tabella che
+
+933
+00:58:23,320 --> 00:58:27,720
+è un progetto, definiamolo così, voi potete prendere e linkarla all'interno di
+
+934
+00:58:27,720 --> 00:58:28,920
+un'altra pagina.
+
+935
+00:58:28,920 --> 00:58:33,800
+Conseguentemente può essere utile per avere, che ne so, la stessa tabella
+
+936
+00:58:33,800 --> 00:58:37,080
+dove avete tutti i task da fare, però per esempio potrebbe essere
+
+937
+00:58:37,080 --> 00:58:40,760
+richiamata in una pagina che è il vostro lavoro e a questo
+
+938
+00:58:40,760 --> 00:58:44,280
+punto filtrate quella tabella solo con il tag lavoro.
+
+939
+00:58:44,280 --> 00:58:49,880
+A questo punto sulla pagina lavoro vedete soltanto la task table solo
+
+940
+00:58:49,880 --> 00:58:51,880
+con tutto quello che avete da fare sul lavoro.
+
+941
+00:58:51,880 --> 00:58:56,600
+Questo è uno degli esempi, ma non è finita qua perché c'è
+
+942
+00:58:56,600 --> 00:58:58,360
+molto molto altro ancora.
+
+943
+00:58:58,920 --> 00:59:05,080
+Adesso volevo soltermi una pagina in particolare che era molto completa, perché
+
+944
+00:59:05,400 --> 00:59:12,040
+ho seguito il simpatico Eric Reynolds di 30 by 40, che è
+
+945
+00:59:12,040 --> 00:59:16,440
+uno studio di architettura che lavora in America in qualche posto desolato
+
+946
+00:59:16,440 --> 00:59:19,800
+perché quando vai in giro non c'è mai niente nessuno.
+
+947
+00:59:19,800 --> 00:59:25,320
+Una cosa interessante che potrebbe essere è le SOPS, ovvero che sono
+
+948
+00:59:25,320 --> 00:59:28,200
+gli standard operating.
+
+949
+00:59:29,880 --> 00:59:32,280
+Procedure standard di operatività.
+
+950
+00:59:32,280 --> 00:59:38,920
+Essenzialmente, come ha fatto il nostro buon Eric, potete fare una pagina
+
+951
+00:59:38,920 --> 00:59:43,160
+che racchiude tutto quello che fate ripetitivo ma che non volete più
+
+952
+00:59:43,160 --> 00:59:44,360
+ricordarvi.
+
+953
+00:59:44,360 --> 00:59:48,960
+Ad esempio, lui faceva una cosa molto semplice: che è quella dell'installazione
+
+954
+00:59:48,960 --> 00:59:49,920
+di una stampante.
+
+955
+00:59:44,840 --> 00:59:52,240
+Che vi sembra abbastanza stupido sul momento,
+
+956
+00:59:52,400 --> 00:59:55,840
+però quando dovete andare a incominciare a cercare i driver, i link
+
+957
+00:59:55,840 --> 00:59:59,040
+e capire come avete fatto l'ultima volta per farla funzionare se avete
+
+958
+00:59:59,040 --> 01:00:03,280
+avuto delle procedure, questo potrebbe essere una cosa molto interessante.
+
+959
+01:00:03,280 --> 01:00:06,960
+Ma non solo, per esempio, potete utilizzarle per le meeting notes oppure
+
+960
+01:00:06,960 --> 01:00:13,360
+anche, che ne so, se avete delle particolari idee per il marketing
+
+961
+01:00:13,520 --> 01:00:17,200
+oppure, che ne so, anche per le parcelle potrebbe funzionare.
+
+962
+01:00:17,200 --> 01:00:21,040
+Ad esempio, io non lo uso perché questa parte qua mi affido
+
+963
+01:00:21,040 --> 01:00:29,680
+a qualcos'altro, ma diciamo che potrebbe trattenere tutta la vostra vita non
+
+964
+01:00:29,680 --> 01:00:33,120
+solo sociale ma anche lavorativa.
+
+965
+01:00:33,120 --> 01:00:38,880
+Adesso finalmente sono uscito a pigliare questo non ancora, perché adesso volevo
+
+966
+01:00:38,880 --> 01:00:42,320
+soltanto cercarvi la pagina che mi interessava che non riesco a trovarla
+
+967
+01:00:42,720 --> 01:00:46,080
+perché è veramente tentacolare, nel senso che se non avete bene le
+
+968
+01:00:46,080 --> 01:00:48,000
+idee chiare fate un po' fatica a trovarla.
+
+969
+01:00:48,000 --> 01:00:52,320
+Allora vado sulla mia pagina che è quella del mio studio.
+
+970
+01:00:52,320 --> 01:00:54,080
+Se vado su faccio
+
+971
+01:00:55,600 --> 01:01:02,320
+una nuova pagina, dovrebbe a questo punto aprirmi quella che cercavo esattamente.
+
+972
+01:01:02,320 --> 01:01:05,680
+Che è molto completo, dipende da cosa lo volete fare.
+
+973
+01:01:05,680 --> 01:01:09,280
+Per esempio, se usate, io ho usato questo tipo di
+
+974
+01:01:10,480 --> 01:01:14,720
+modello, potete avere una serie di modelli dove avete per esempio in
+
+975
+01:01:14,720 --> 01:01:20,080
+progress potete mettere tutto quello che il cliente, il contratto, i consulenti,
+
+976
+01:01:20,080 --> 01:01:23,920
+i vendor ti richiedono, i follow up, cioè le cose da fare.
+
+977
+01:01:23,920 --> 01:01:29,040
+Le azioni che ti vengono chieste, potete farvi anche delle canban direttamente
+
+978
+01:01:29,040 --> 01:01:31,080
+all'interno della pagina del vostro progetto.
+
+979
+01:01:31,240 --> 01:01:34,200
+Per esempio, io ho tutta una serie di progetti, i progetti sono
+
+980
+01:01:34,200 --> 01:01:38,040
+racchiusi in queste pagine dove posso applicare
+
+981
+01:01:39,320 --> 01:01:45,320
+dei filtri per le task table e aggiungere anche delle canban che
+
+982
+01:01:45,480 --> 01:01:51,560
+come sapete sono essenzialmente divise in to do, doing e delle bacheche
+
+983
+01:01:51,640 --> 01:01:52,280
+esatto.
+
+984
+01:01:52,280 --> 01:01:55,640
+Però queste sono divise in tre colonne essenzialmente.
+
+985
+01:01:55,640 --> 01:01:57,800
+Quello che c'è da fare è quello che state facendo, quello che
+
+986
+01:01:57,800 --> 01:01:59,880
+avete completato e via discorrendo.
+
+987
+01:01:59,880 --> 01:02:06,440
+La cosa interessante, per esempio, è che potete aggiungere i dettagli sul
+
+988
+01:02:06,440 --> 01:02:15,960
+brief, ovvero quando incontrate il cliente, mettere l'indicazione anche con Google Maps
+
+989
+01:02:15,960 --> 01:02:21,240
+all'interno della vostra pagina dove è il sito, un elenco di procedure,
+
+990
+01:02:21,240 --> 01:02:24,840
+ad esempio potete avere, che ne so, io parlo della mia parte,
+
+991
+01:02:24,840 --> 01:02:29,800
+una procedura che riguarda il pre-design oppure lo schematic design, oppure il
+
+992
+01:02:29,800 --> 01:02:31,320
+design di
+
+993
+01:02:33,240 --> 01:02:38,040
+sviluppo, e poi alla fine l'esecutivo e via discorrendo.
+
+994
+01:02:38,040 --> 01:02:41,080
+Quindi è molto completo, si può fare davvero di tutto.
+
+995
+01:02:41,080 --> 01:02:46,760
+Quello che vi consiglio io è iniziate da una pagina, partite da
+
+996
+01:02:46,760 --> 01:02:50,200
+lì e iniziate a pacioccare per scoprire che in effetti si può
+
+997
+01:02:50,200 --> 01:02:51,320
+fare di tutto di più.
+
+998
+01:02:51,320 --> 01:02:55,560
+Un'altra cosa per cui utilizzate appunto è la scrittura degli articoli.
+
+999
+01:02:55,800 --> 01:03:00,520
+Visto che ha la possibilità del markdown like, chiamiamolo così, gli articoli
+
+1000
+01:03:00,520 --> 01:03:04,920
+ormai li scrivo più qua dentro perché essenzialmente in un'applicazione ho tutto
+
+1001
+01:03:04,920 --> 01:03:09,480
+concentrato, quindi come se fosse un'applicazione di lavoro dove ho tutto lì,
+
+1002
+01:03:09,480 --> 01:03:13,320
+se cerco qualcosa, una procedura che devo fare, che ne so, per
+
+1003
+01:03:13,320 --> 01:03:17,680
+il rendering, sapere le luci che metto di solito.
+
+1004
+01:03:14,920 --> 01:03:21,280
+Il miglior modo per fare una cosa ce l'ho lì.
+
+1005
+01:03:21,600 --> 01:03:26,720
+Sapere la situazione aggiornata dei lavori che sto seguendo, ce l'ho lì.
+
+1006
+01:03:27,040 --> 01:03:32,320
+Ho anche le cose di casa, per esempio, le note dell'episodio di
+
+1007
+01:03:32,320 --> 01:03:36,880
+Snap le scrivo tutte lì, nel senso che semplicemente ho
+
+1008
+01:03:38,160 --> 01:03:42,400
+un file che si chiama note episodio che utilizzo diviso in tre,
+
+1009
+01:03:42,400 --> 01:03:45,600
+dove appunto sono gli argomenti generali che tratto, quelli che riguardano il
+
+1010
+01:03:45,600 --> 01:03:47,200
+BIM e l'arc quiz.
+
+1011
+01:03:48,320 --> 01:03:51,440
+Ho il link all'articolo o al riferimento che mi serve.
+
+1012
+01:03:51,440 --> 01:03:56,640
+Conseguentemente io basta che prendo e sposto nella parte in alto di
+
+1013
+01:03:56,640 --> 01:04:02,560
+questa pagina la cosa che ho trattato, gli aggiungo il minutaggio e
+
+1014
+01:04:02,560 --> 01:04:05,280
+le mie note belle che ho fatte, nel senso che è una
+
+1015
+01:04:05,280 --> 01:04:08,160
+cosa molto semplice, veloce e schematica.
+
+1016
+01:04:08,800 --> 01:04:13,680
+Ultimamente stavo provando anche addirittura a scrivere con Pencil ebbene sì, c'è
+
+1017
+01:04:13,680 --> 01:04:18,400
+questa possibilità perché come sapete Pencil ha la capacità di capire la
+
+1018
+01:04:18,400 --> 01:04:19,680
+vostra scrittura.
+
+1019
+01:04:20,000 --> 01:04:25,200
+Proprio oggi stavo provando a scrivermi un articolo con Pencil.
+
+1020
+01:04:25,280 --> 01:04:28,320
+Quindi voi siete in questa pagina qua e incominciate a scrivere a
+
+1021
+01:04:28,320 --> 01:04:33,120
+mano libera normalmente e riuscite a scrivere un articolo semplicemente così.
+
+1022
+01:04:33,120 --> 01:04:33,840
+Anche con
+
+1023
+01:04:36,000 --> 01:04:41,280
+il dettato, se la cava egregiamente perché si appoggia ovviamente al sottosistema
+
+1024
+01:04:41,280 --> 01:04:44,160
+in cui è, tipo Mecco S e iOS, e se la cava
+
+1025
+01:04:44,240 --> 01:04:44,960
+molto bene.
+
+1026
+01:04:44,960 --> 01:04:49,280
+Direi che più o meno dovrei detto tutto, però so che Filippo
+
+1027
+01:04:49,360 --> 01:04:52,160
+voleva farmi qualche domanda e vedo se riesco a rispondere.
+
+1028
+01:04:52,160 --> 01:04:54,880
+A questo punto, bene o male, le domande che mi hanno appuntato,
+
+1029
+01:04:54,880 --> 01:04:57,120
+le hai più o meno risposte tutte.
+
+1030
+01:04:57,600 --> 01:05:03,240
+L'unica cosa utilizzi Web Clipper ed è così valido come dicono, oppure?
+
+1031
+01:05:03,240 --> 01:05:06,360
+No, non l'ho mai usato e francamente non so neanche come si
+
+1032
+01:05:06,360 --> 01:05:11,160
+utilizza, nel senso che una parte del programma che non conosco, sto
+
+1033
+01:05:11,160 --> 01:05:15,080
+ancora sperimentando, perché in effetti, nel momento in cui metti le mani
+
+1034
+01:05:15,080 --> 01:05:18,760
+dentro il database, incomincio a perderti, perché in effetti c'è la possibilità
+
+1035
+01:05:18,760 --> 01:05:22,520
+di fare un sacco di cose avendo un database interno dell'applicazione.
+
+1036
+01:05:22,520 --> 01:05:23,800
+Sì, ho visto che
+
+1037
+01:05:24,920 --> 01:05:28,440
+adesso a prescindere che sul web, quindi a me non va bene
+
+1038
+01:05:28,760 --> 01:05:31,000
+e ci sono sempre stato a distanza.
+
+1039
+01:05:31,000 --> 01:05:33,560
+Poi sapevo che è una di quelle applicazioni che probabilmente mi ci
+
+1040
+01:05:33,560 --> 01:05:36,120
+perderei a ragionarci sopra.
+
+1041
+01:05:36,120 --> 01:05:40,280
+Tuttavia, so di colleghi, per esempio, che l'hanno trovata molto interessante e
+
+1042
+01:05:40,280 --> 01:05:40,920
+ben fatta.
+
+1043
+01:05:40,920 --> 01:05:42,120
+Quindi ero curioso.
+
+1044
+01:05:42,520 --> 01:05:47,560
+Io mi sono trovato bene nel senso che lo dico chiaramente: subito
+
+1045
+01:05:47,640 --> 01:05:51,400
+mi ha spaventato, l'ho installata, l'ho guardata e ho detto, porca miseria,
+
+1046
+01:05:51,400 --> 01:05:56,040
+cos'è sta roba tolta, nel senso che l'ho tolta, poi l'ho lasciato
+
+1047
+01:05:56,040 --> 01:05:56,760
+decantare.
+
+1048
+01:05:56,760 --> 01:06:00,680
+Ho visto anche questo video dove spiegava appunto come poteva essere l'utilizzo
+
+1049
+01:06:00,680 --> 01:06:04,520
+nel mondo del lavoro, l'ho riaperta, mi ha rifatto paura.
+
+1050
+01:06:04,520 --> 01:06:09,320
+E ho preso proprio a piccolissime dose, ho fatto proprio un giro
+
+1051
+01:06:09,320 --> 01:06:14,040
+molto largo per riuscire a farmela andare bene, adesso capisci che in
+
+1052
+01:06:14,040 --> 01:06:16,440
+effetti le possibilità sono davvero tante.
+
+1053
+01:06:17,160 --> 01:06:21,080
+Non bisogna solo spaventarsi tutto qua, perché te le spiattella tutte in
+
+1054
+01:06:21,080 --> 01:06:23,800
+faccia, non è una cosa che devi andare a scoprire.
+
+1055
+01:06:24,120 --> 01:06:28,280
+Una volta che apri l'applicazione, ti vengono date tutte queste nozioni, nello
+
+1056
+01:06:28,440 --> 01:06:32,040
+senso della parola, è un po' spaventa solo quello.
+
+1057
+01:06:32,040 --> 01:06:35,040
+Una delle cose che non ho utilizzato è il web Clipper.
+
+1058
+01:06:35,120 --> 01:06:38,440
+Che adesso volevo cercare di capire come funziona e fare un esperimento
+
+1059
+01:06:38,600 --> 01:06:40,520
+per capire se potrebbe tornarmi utili.
+
+1060
+01:06:40,520 --> 01:06:44,280
+Da quello che ho capito io è come il web clipper.
+
+1061
+01:06:44,560 --> 01:06:50,560
+Anzi, dicono addirittura che sia meglio del web clipper di Evernote che
+
+1062
+01:06:50,560 --> 01:06:56,640
+effettivamente io quello l'avevo usato tempo addietro e ti permetteva di fatto
+
+1063
+01:06:56,640 --> 01:07:02,400
+di catturare il testo delle pagine HTML pagine web mentre navigavi e
+
+1064
+01:07:02,400 --> 01:07:02,880
+così via.
+
+1065
+01:07:02,880 --> 01:07:08,960
+Quindi diventava molto comodo per catturare informazioni, link a materiale di riferimento
+
+1066
+01:07:08,960 --> 01:07:11,520
+e così via, che poi potevi organizzare.
+
+1067
+01:07:11,520 --> 01:07:15,200
+Ma sicuramente quello è molto utile, nel senso, se fa un effetto
+
+1068
+01:07:15,200 --> 01:07:20,080
+di questa cosa che io non conosco, però ci vuole appunto un'estensione
+
+1069
+01:07:20,080 --> 01:07:25,040
+da quello che vedo da installare su Chrome, Safari e Firefox, e
+
+1070
+01:07:25,040 --> 01:07:27,840
+poi, forse è per quello che non l'ho installato, c'è anche da
+
+1071
+01:07:27,840 --> 01:07:32,480
+quello che ho capito, c'è anche per iOS, conseguentemente diventa molto molto
+
+1072
+01:07:32,480 --> 01:07:32,960
+utile.
+
+1073
+01:07:32,960 --> 01:07:37,760
+No, no, infatti, è esatto, cioè dovunque tu sia, riesci a catturare
+
+1074
+01:07:37,760 --> 01:07:41,120
+e buttare adesso, non so come e non so dove, perché appunto
+
+1075
+01:07:41,440 --> 01:07:45,840
+non ti so dire come funzioni nel dettaglio Notion, però può essere
+
+1076
+01:07:46,160 --> 01:07:51,440
+un sistema interessante, diciamo che Notion è assieme ad altri software come
+
+1077
+01:07:51,440 --> 01:07:55,040
+Obsidian, questi gestori di conoscenza vengono definiti
+
+1078
+01:07:57,200 --> 01:08:03,200
+per avere un unico posto, diciamo, tutto quello che sono le informazioni
+
+1079
+01:08:03,200 --> 01:08:08,400
+che ti interessano, chiamiamolo così, o comunque i concetti che vuoi puoi
+
+1080
+01:08:08,400 --> 01:08:10,560
+eventualmente sviluppare, quant'altro.
+
+1081
+01:08:10,640 --> 01:08:14,160
+Diciamo, la cosa che ho visto in alcuni video e così via
+
+1082
+01:08:14,240 --> 01:08:18,560
+è notion, catturi tutta una serie di cose che ti potrebbero interessare,
+
+1083
+01:08:18,560 --> 01:08:24,240
+poi da lì scrivi articoli, crei un libro, organizzi la tua formazione
+
+1084
+01:08:24,240 --> 01:08:25,440
+professionale piuttosto che.
+
+1085
+01:08:25,520 --> 01:08:27,680
+Sì, decisamente molto potente.
+
+1086
+01:08:27,680 --> 01:08:31,960
+Io per adesso mi trovo bene, devo ancora finire di organizzarmi.
+
+1087
+01:08:29,840 --> 01:08:36,280
+Nel senso, è davvero tentacolare, è una cosa.
+
+1088
+01:08:36,920 --> 01:08:41,640
+E a questo punto direi che visto che abbiamo sforato come il
+
+1089
+01:08:41,640 --> 01:08:45,880
+nostro solito, possiamo anche chiudere l'episodio.
+
+1090
+01:08:45,880 --> 01:08:47,400
+Andiamo a chiudere, chiudo io.
+
+1091
+01:08:47,960 --> 01:08:50,920
+Chiudo anche io, visto che sono andato per le lunghe, mi scuso
+
+1092
+01:08:50,920 --> 01:08:55,080
+per essere andato per le lunghe, ma troverete le note nell'episodio tutti
+
+1093
+01:08:55,080 --> 01:08:57,720
+i link di cui abbiamo parlato negli argomenti.
+
+1094
+01:08:57,720 --> 01:09:02,520
+E poi trovare la puntata andando a digitare a2podcast.it
+
+1095
+01:09:03,880 --> 01:09:04,680
+16.
+
+1096
+01:09:04,680 --> 01:09:07,480
+Dove ci potete trovare questi due simpatici ragazzoni?
+
+1097
+01:09:07,480 --> 01:09:12,280
+Per quanto mi riguarda potete trovarmi sul mio blog Mac Architettura oppure
+
+1098
+01:09:12,280 --> 01:09:17,160
+su Snap Architettura Imperfetta o in qualche altra parte perché sto incominciando
+
+1099
+01:09:17,160 --> 01:09:19,880
+a diventare anch'io tentacolare ma il tempo è sempre meno.
+
+1100
+01:09:19,880 --> 01:09:25,640
+Mentre Filippo lo trovate su avvocatiemac.it e probabilmente su qualche podcast tipo
+
+1101
+01:09:25,640 --> 01:09:28,200
+A2, ma ce n'è un altro di cui io non dirò niente
+
+1102
+01:09:28,200 --> 01:09:31,960
+perché so che Filippo non ne vuole parlare, ma comunque c'è sia
+
+1103
+01:09:32,200 --> 01:09:35,800
+un podcast a suo nome ma anche un canale YouTube che vi
+
+1104
+01:09:35,800 --> 01:09:39,480
+prego di andare a vedere e soprattutto cercate di farglielo fare ancora
+
+1105
+01:09:39,640 --> 01:09:41,800
+perché comunque è molto bravo come youtuber.
+
+1106
+01:09:41,800 --> 01:09:45,240
+Quindi direi che a questo punto Filippo possiamo dare un bel saluto
+
+1107
+01:09:45,240 --> 01:09:47,560
+a tutti quanti e ci sentiamo tra due settimane.

@@ -11,7 +11,7 @@ tags = ["audio", "podcasting", "apple"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   guest = "matteo-scandolin"
 +++
 
@@ -21,7 +21,7 @@ draft = false
 
 ## Di cosa abbiamo parlato nella puntata:
 
-# 44 - Mac Studio e Logic Pro con Matteo Scandolin
+## 44 - Mac Studio e Logic Pro con Matteo Scandolin
 
 * [Cosa fa matteo](https://scandol.in/)
 * [Puntata 34 di A2 con Matteo](https://a2podcast.it/34/)

@@ -1,0 +1,8167 @@
+1
+00:00:00,000 --> 00:00:04,560
+Benvenuti all'episodio 64 di Adue, in cui scoprire come ottenere il massimo
+
+2
+00:00:04,640 --> 00:00:06,400
+della vostra tecnologia Apple.
+
+3
+00:00:06,400 --> 00:00:10,160
+Io sono Filippo Strozzi e sono il vostro ospite, assieme all'amico Roberto
+
+4
+00:00:10,160 --> 00:00:10,720
+Marin.
+
+5
+00:00:10,720 --> 00:00:14,560
+Di che cosa parliamo in questo episodio, mio caro Roberto?
+
+6
+00:00:14,560 --> 00:00:18,640
+Di tutti i problemi che possono sorgere in una registrazione podcast, Mannaggia
+
+7
+00:00:18,640 --> 00:00:21,920
+la misera, li ho passati tutti io questa sera e come sentite
+
+8
+00:00:21,920 --> 00:00:24,080
+dal tono, sono anche un po' alterato.
+
+9
+00:00:24,080 --> 00:00:27,520
+Ma per fortuna c'è qualcuno che ci salverà tutti, e questo è
+
+10
+00:00:27,520 --> 00:00:30,240
+il nostro ospite, il grandissimo Matteo Scandolin.
+
+11
+00:00:30,400 --> 00:00:34,960
+Sono solo un po' alto, non sono grande Roberto, devi stare calmo
+
+12
+00:00:35,040 --> 00:00:38,800
+perché una delle caratteristiche principali, se vuoi fare un podcast, che poi
+
+13
+00:00:38,800 --> 00:00:42,000
+è il tema di questa puntata: come si fa un podcast, fare
+
+14
+00:00:42,080 --> 00:00:45,760
+un podcast, inventarsi un podcast, è avere molta pazienza.
+
+15
+00:00:45,760 --> 00:00:51,280
+Esatto, ma prima della pazienza, ovviamente facciamo partire la sigla.
+
+16
+00:00:52,800 --> 00:00:54,400
+A2 Podcast.
+
+17
+00:00:54,400 --> 00:00:57,920
+Scopri come ottenere il massimo dalla tua tecnologia apple.
+
+18
+00:00:57,920 --> 00:01:02,560
+Due professionisti, Filippo e Roberto, te lo spiegano con argomenti monotematici ed
+
+19
+00:01:02,560 --> 00:01:05,440
+ospiti che raccontano il loro flusso di lavoro,
+
+20
+00:01:11,440 --> 00:01:15,040
+allora devo confessarvi questa cosa: sono una delle bestie di Satana, che
+
+21
+00:01:15,040 --> 00:01:18,560
+secondo me dovrebbero essere legalizzate come best di Satana, che ascolta i
+
+22
+00:01:18,560 --> 00:01:21,040
+podcast ad almeno 1,3 di velocità.
+
+23
+00:01:21,040 --> 00:01:24,240
+Siccome vi conosco, Roberto lo conosco di persona, l'ho vista un paio
+
+24
+00:01:24,240 --> 00:01:25,520
+di volte, e filippo pure.
+
+25
+00:01:25,520 --> 00:01:28,880
+Ci ho parlato un paio di volte, ho sentito messaggi vocali o
+
+26
+00:01:28,880 --> 00:01:32,080
+cose del genere, so come suonate a velocità normale, ma la sigla
+
+27
+00:01:32,080 --> 00:01:34,080
+non l'avevo mai sentita a velocità normale.
+
+28
+00:01:34,160 --> 00:01:35,040
+Vedi, vedi, vedi.
+
+29
+00:01:35,840 --> 00:01:39,920
+Devo dirti la verità, anch'io mi auto-ascolto, anzi, mi edito a velocità
+
+30
+00:01:39,920 --> 00:01:41,040
+doppia, quindi.
+
+31
+00:01:41,040 --> 00:01:42,160
+Ah, beh, quello sicuro.
+
+32
+00:01:42,800 --> 00:01:46,160
+Quindi, ormai anch'io ho un effetto strano, però sì, sì, sì, noi
+
+33
+00:01:46,160 --> 00:01:48,880
+l'ascoltiamo solo quando facciamo la diretta, sostanzialmente.
+
+34
+00:01:49,360 --> 00:01:52,320
+Grazie per avermi invitato di nuovo, non ho ancora esattamente capito cosa
+
+35
+00:01:52,320 --> 00:01:55,120
+volete da me stasera, ma cercherò di fare il possibile.
+
+36
+00:01:55,120 --> 00:01:58,480
+Ma sì, ma sì, tu che non sai nulla di podcast, che
+
+37
+00:01:58,480 --> 00:02:01,240
+non hai scritto un libro sul podcast che non hai fatto un
+
+38
+00:02:01,240 --> 00:02:06,280
+corso sul podcast che non è appunto ne hai fatto uno, ne
+
+39
+00:02:06,280 --> 00:02:10,040
+hai vari uno su Garage Band, non hai un laboratorio permanente di
+
+40
+00:02:10,040 --> 00:02:15,480
+podcast e non hai un canale YouTube sul podcast, credo quindi non
+
+41
+00:02:15,480 --> 00:02:18,200
+so forse per farti incazzare Roberto
+
+42
+00:02:19,720 --> 00:02:24,440
+, quello che mi ha fatto arrabbiare è semplicemente uno scontro totale a
+
+43
+00:02:24,440 --> 00:02:28,440
+tutti i livelli della tecnologia nei miei confronti, ma oggi non è
+
+44
+00:02:28,440 --> 00:02:31,480
+giornata, è partita male e continuerà a andare male.
+
+45
+00:02:31,480 --> 00:02:33,480
+Io punto ad arrivare domani mattina.
+
+46
+00:02:33,480 --> 00:02:36,840
+Quando arriverò domani mattina, potrò tirare un sospiro di sollievo.
+
+47
+00:02:36,840 --> 00:02:41,480
+In ogni caso, questa puntata sarà molto interessante perché ho sperimentato direttamente
+
+48
+00:02:41,480 --> 00:02:45,080
+su di me tutti i vari problemi che possono avere una registrazione
+
+49
+00:02:45,080 --> 00:02:47,880
+di un podcast con più persone e non li hai ancora sperimentati
+
+50
+00:02:47,880 --> 00:02:49,000
+tutti.
+
+51
+00:02:49,000 --> 00:02:52,760
+Mentre ti sto ascoltando, ti do una brutta notizia: ma controlla in
+
+52
+00:02:52,760 --> 00:02:55,240
+Skype cosa stai mandando.
+
+53
+00:02:55,240 --> 00:03:00,120
+Perché secondo me ti stiamo ascoltando dai microfoni del MacBook Air, può
+
+54
+00:03:00,120 --> 00:03:04,280
+essere, è vero, perché c'è un'eco che abitualmente non hai.
+
+55
+00:03:04,280 --> 00:03:06,120
+Tanto brutto come audio, tra l'altro.
+
+56
+00:03:06,120 --> 00:03:09,880
+No, no, è l'audio buono, ma i nuovi Mac hanno dei microfoni
+
+57
+00:03:09,880 --> 00:03:10,920
+della Madonna.
+
+58
+00:03:11,080 --> 00:03:13,160
+Il problema è che secondo me si sente un po' di eco
+
+59
+00:03:13,160 --> 00:03:14,840
+e credo che non sia un microfono vero.
+
+60
+00:03:14,840 --> 00:03:19,800
+Ma che stiamo utilizzando l'ambientale e invece tu stia registrando con quello
+
+61
+00:03:19,800 --> 00:03:20,440
+giusto.
+
+62
+00:03:20,440 --> 00:03:21,880
+Questo voleva dire Filippo.
+
+63
+00:03:21,880 --> 00:03:22,440
+È così?
+
+64
+00:03:22,440 --> 00:03:24,520
+Oppure Filippo ha avuto le tregole.
+
+65
+00:03:24,760 --> 00:03:26,840
+Ovviamente ci ha preso perché sicuramente
+
+66
+00:03:27,880 --> 00:03:29,800
+è cambiato totalmente, perfetto.
+
+67
+00:03:30,120 --> 00:03:31,800
+Allora, va bene, lo svegliamo, ragazzi.
+
+68
+00:03:31,880 --> 00:03:32,680
+Ho cambiato me.
+
+69
+00:03:32,840 --> 00:03:35,880
+Sono un po' in maretta perché devo cambiare un po' di cose,
+
+70
+00:03:35,960 --> 00:03:38,680
+praticamente l'ho sistemato ieri, che era domenica.
+
+71
+00:03:38,680 --> 00:03:40,600
+Oggi sto facendo tutte le prove del caso.
+
+72
+00:03:40,600 --> 00:03:43,480
+Col lavoro oggi ed è già stata andata molto bene.
+
+73
+00:03:43,480 --> 00:03:47,280
+Invece, oggi, con la registrazione ho fatto un po' più di fatica
+
+74
+00:03:44,600 --> 00:03:50,240
+perché purtroppo mi sono dovuto scontrare con
+
+75
+00:03:50,640 --> 00:03:54,400
+la prima cosa, ma poi probabilmente ne parleremo anche più avanti: che
+
+76
+00:03:54,400 --> 00:03:58,080
+è proprio, come si può dire, quei piccoli problemi fastidiosi che si
+
+77
+00:03:58,080 --> 00:04:01,920
+incontrano nel momento in cui si cerca di mettere più teste assieme.
+
+78
+00:04:01,920 --> 00:04:06,640
+Noi tre lavoriamo con Mac e figuriamoci se siamo due podcast, anzi,
+
+79
+00:04:06,640 --> 00:04:09,680
+un podcast che lavora con Mac, uno con Windows e l'altro con
+
+80
+00:04:09,680 --> 00:04:10,320
+Linux.
+
+81
+00:04:10,320 --> 00:04:13,840
+Riuscire a mettere una registrazione con tre test di questo tipo diventa
+
+82
+00:04:13,840 --> 00:04:15,520
+ancora ulteriormente difficile.
+
+83
+00:04:15,520 --> 00:04:18,960
+Io dalla mia parte un po' di piccola esperienza ce l'ho avuta
+
+84
+00:04:18,960 --> 00:04:24,720
+all'interno del podcast Archica Talks, dove praticamente registro delle persone che tendenzialmente
+
+85
+00:04:24,720 --> 00:04:28,640
+non fanno podcast come noi tre e quindi sono delle persone estremamente
+
+86
+00:04:28,640 --> 00:04:32,320
+comuni che magari hanno la tecnologia, la usano in giro per il
+
+87
+00:04:32,320 --> 00:04:36,880
+mondo, ma magari non hanno ben compreso come funziona la registrazione di
+
+88
+00:04:36,880 --> 00:04:37,920
+un podcast.
+
+89
+00:04:37,920 --> 00:04:41,520
+Qualcuno è preparato, ha le cuffie con microfono e se la cava,
+
+90
+00:04:41,520 --> 00:04:44,000
+qualcun altro ha proprio un microfono vero e proprio perché magari ha
+
+91
+00:04:44,000 --> 00:04:52,400
+qualche vellità all'interno del nuovo mantra che è la diciamo utilizzare software
+
+92
+00:04:52,400 --> 00:04:57,600
+di chat, scusate, software di video chat, chiamiamola così, o di riunioni
+
+93
+00:04:57,600 --> 00:05:00,560
+in giro per il mondo, in sparsi per tutto il mondo, e
+
+94
+00:05:00,560 --> 00:05:03,600
+riescono ad utilizzare magari un microfono perché gli hanno detto che magari
+
+95
+00:05:03,600 --> 00:05:07,360
+il microfono di cui aggiungi il proprio portatile non è proprio il
+
+96
+00:05:07,360 --> 00:05:10,960
+meglio, e poi c'è chi, come tutte le altre persone, hanno invece
+
+97
+00:05:10,960 --> 00:05:16,560
+il portatile e utilizzano, come avete sentito prima, tra l'altro l'audio del
+
+98
+00:05:16,720 --> 00:05:17,440
+portatile.
+
+99
+00:05:17,440 --> 00:05:21,440
+Che, nonostante sia un MacBooker recente, nel senso che, essendo passato al
+
+100
+00:05:21,440 --> 00:05:25,680
+MacBooker M2, nonostante tutto, avete sentito che c'è una bella differenza.
+
+101
+00:05:25,680 --> 00:05:28,480
+Io ovviamente non me ne sono accorto, sono dovuto andare a gestire
+
+102
+00:05:28,480 --> 00:05:32,520
+un po' la questione, e poi, ovviamente, rimano contro anche i software.
+
+103
+00:05:32,680 --> 00:05:37,320
+Ma questo, ovviamente, è tutto pane del nostro grandissimo Matteo Scandolin, che,
+
+104
+00:05:37,320 --> 00:05:41,320
+come avete sentito, è l'uomo sul pezzo, l'uomo sul pezzo, perché chi
+
+105
+00:05:41,320 --> 00:05:43,000
+ne sa più di lui, io di sicuro no.
+
+106
+00:05:43,080 --> 00:05:47,480
+Filippo, penso nemmeno, e pochi altri possono mettersi al suo livello.
+
+107
+00:05:48,200 --> 00:05:50,040
+Un bel po' di gente ne sa più di me.
+
+108
+00:05:50,040 --> 00:05:53,000
+E comunque quello che aveva sgamato il microfono sbagliato su Skype era
+
+109
+00:05:53,000 --> 00:05:55,720
+Filippo, perché io mi ero preoccupato soltanto di quello di Quick Time
+
+110
+00:05:55,800 --> 00:05:57,640
+con il quale stai registrando questa puntata.
+
+111
+00:05:57,640 --> 00:06:00,440
+Quindi mille complimenti al nostro avvocato preferito.
+
+112
+00:06:00,600 --> 00:06:05,480
+Le mie orecchie sono perfette ancora per poco, ma più che altro,
+
+113
+00:06:05,560 --> 00:06:08,280
+conosco ormai conosco la voce da microfono di Roberto.
+
+114
+00:06:08,360 --> 00:06:08,680
+Quindi
+
+115
+00:06:10,120 --> 00:06:11,480
+è abbastanza semplice.
+
+116
+00:06:12,120 --> 00:06:17,000
+Comunque, devo confessarvi che, ascoltandovi attraverso una delle varie app di podcast,
+
+117
+00:06:17,000 --> 00:06:19,160
+non mi ero ancora iscritto al vostro canale YouTube.
+
+118
+00:06:19,320 --> 00:06:24,360
+Il nostro canale YouTube diciamo che lo utilizziamo così, come modo di
+
+119
+00:06:24,360 --> 00:06:28,040
+fare una diretta e di avere tutti in diretta a costo zero.
+
+120
+00:06:28,040 --> 00:06:31,800
+Questo è un piccolo spoiler, ma è un modo ottimo per fare
+
+121
+00:06:32,120 --> 00:06:38,920
+degli stream live, anche di podcast volendo, senza dover investire in quantità
+
+122
+00:06:38,920 --> 00:06:40,200
+enormi di denaro.
+
+123
+00:06:40,520 --> 00:06:42,920
+Tra l'altro, potrebbe essere una cosa carina.
+
+124
+00:06:42,920 --> 00:06:47,560
+Una volta che Roberto riesce a recuperare una connessione decente, la diretta
+
+125
+00:06:47,880 --> 00:06:50,680
+che fosse anche video, così la gente vi vede e poi l'audio
+
+126
+00:06:50,680 --> 00:06:51,480
+rimane audio.
+
+127
+00:06:51,480 --> 00:06:54,040
+Tuttavia, per la diretta almeno vi si vede, potrebbe essere una cosa
+
+128
+00:06:54,040 --> 00:06:54,600
+carina.
+
+129
+00:06:54,600 --> 00:06:59,000
+Abitualmente, facendo tutta una serie di mageggi ero riuscito.
+
+130
+00:06:59,080 --> 00:07:02,600
+Tutto, oggettivamente Roberto è praticamente quasi cartonato.
+
+131
+00:07:03,160 --> 00:07:06,760
+Non so se migliorerà la situazione nel momento in cui io riesco
+
+132
+00:07:06,760 --> 00:07:10,840
+a collegare via internet il mio portatile, non lo ve lo so
+
+133
+00:07:10,840 --> 00:07:12,200
+dire perché devo fare delle prove.
+
+134
+00:07:12,200 --> 00:07:15,920
+Ovviamente la cosa non è facile perché, ad esempio, uno dei problemi
+
+135
+00:07:14,920 --> 00:07:17,760
+di fare il podcast è la connessione.
+
+136
+00:07:18,080 --> 00:07:21,840
+In questo momento, ad esempio, noi abbiamo staccato tutti quanti: in un
+
+137
+00:07:21,840 --> 00:07:22,640
+certo tipo di podcast.
+
+138
+00:07:23,040 --> 00:07:27,440
+No, certo, se non riuscite a registrare la voce in modo separato,
+
+139
+00:07:27,440 --> 00:07:29,520
+penso che sia veramente un problema grosso.
+
+140
+00:07:29,520 --> 00:07:33,280
+Ho sentito tantissimi podcast, però realizzati in questo modo: nel senso che
+
+141
+00:07:33,280 --> 00:07:37,360
+prende così com'è la registrazione che salta fuori, magari utilizzando che ne
+
+142
+00:07:37,360 --> 00:07:40,160
+so, faccio un nome che stiamo utilizzando adesso che è Skype, che
+
+143
+00:07:40,160 --> 00:07:43,920
+magari vi fa la registrazione di tutte le voci mixate, e magari
+
+144
+00:07:43,920 --> 00:07:48,160
+la linea, i rallentamenti della linea, ve li beccate tutti quanti nella
+
+145
+00:07:48,160 --> 00:07:49,680
+registrazione che andate a utilizzare.
+
+146
+00:07:49,680 --> 00:07:50,240
+Sì, come no.
+
+147
+00:07:50,320 --> 00:07:55,200
+E quindi un consiglio, ad esempio, che posso dare io da povero
+
+148
+00:07:55,520 --> 00:08:00,800
+utente podcaster, e che vi consiglio anche da ascoltatore, fate le registrazioni
+
+149
+00:08:00,800 --> 00:08:05,520
+separate perché aumentate la qualità audio e sicuramente in fase di editing
+
+150
+00:08:05,520 --> 00:08:07,040
+vi aiuta davvero tantissimo.
+
+151
+00:08:07,040 --> 00:08:09,600
+Però, scusami Roberto, è verissimo.
+
+152
+00:08:09,600 --> 00:08:11,120
+Dobbiamo ricordarci di due cose.
+
+153
+00:08:11,120 --> 00:08:15,120
+Uno che comunque la gente ci ascolta in auto con del rumore
+
+154
+00:08:15,360 --> 00:08:19,120
+in metropolitana, in strada con moltissimo rumore.
+
+155
+00:08:19,120 --> 00:08:22,720
+Pertanto è vero che se noi abbiamo del materiale di partenza buono,
+
+156
+00:08:22,720 --> 00:08:24,880
+poi è meglio un po' per tutte.
+
+157
+00:08:24,880 --> 00:08:27,200
+Però è anche vero che dobbiamo sbatterci fino a un certo punto,
+
+158
+00:08:27,200 --> 00:08:29,280
+perché tanto poi le finezze loro non le sentono.
+
+159
+00:08:29,280 --> 00:08:33,040
+È ovvio che stiamo parlando del minimo sindacale di intelligibilità e di
+
+160
+00:08:33,040 --> 00:08:36,880
+non sanguinamento delle orecchie, su questo sono assolutamente d'accordo.
+
+161
+00:08:36,880 --> 00:08:40,800
+La seconda cosa è che non sempre è possibile ottenere una registrazione
+
+162
+00:08:40,800 --> 00:08:43,680
+separata per ciascun partecipante di una conversazione.
+
+163
+00:08:43,680 --> 00:08:47,520
+Per esempio in questo caso se Filippo non fosse matto con 450
+
+164
+00:08:47,520 --> 00:08:50,000
+robe su Audio e i Jack, che è uno strumento che magari
+
+165
+00:08:50,080 --> 00:08:54,640
+nomineremmo dopo, e se noi non fossimo effettivamente delle persone che realizzano
+
+166
+00:08:54,640 --> 00:08:57,600
+dei podcast e che quindi sono attrezzate sia a livello di software
+
+167
+00:08:57,840 --> 00:09:01,720
+basilare, tipo QuickTime nel tuo caso, poteva essere il registratore vocale, come
+
+168
+00:09:01,720 --> 00:09:03,160
+si chiama su Windows.
+
+169
+00:08:59,760 --> 00:09:07,240
+No, nella nuova versione.
+
+170
+00:09:07,400 --> 00:09:09,880
+No, memo vocale è su Apple, scusami.
+
+171
+00:09:09,960 --> 00:09:12,200
+No, ma temo che credo che abbia cambiato il nome con Windows
+
+172
+00:09:12,280 --> 00:09:13,960
+11, ma comunque è la stessa roba.
+
+173
+00:09:13,960 --> 00:09:17,560
+Quindi, volendo, si può portare a casa un risultato abbastanza decente anche
+
+174
+00:09:17,560 --> 00:09:19,000
+con le cose proprio basilari.
+
+175
+00:09:19,000 --> 00:09:21,720
+Però magari non c'hai il tempo, non c'hai modo, hai di fronte
+
+176
+00:09:21,880 --> 00:09:25,160
+a una persona che non parla non mastica proprio la tecnologia, e
+
+177
+00:09:25,160 --> 00:09:27,480
+quindi devi farti andare bene un po' quello che ti capita.
+
+178
+00:09:27,480 --> 00:09:30,840
+Per cui anche la conversazione su Skype, che, per esempio, quando Filippo
+
+179
+00:09:30,920 --> 00:09:34,040
+ha detto: andiamo su Skype, ho detto: no, e a momenti ti
+
+180
+00:09:34,040 --> 00:09:36,920
+rausgi una madonna, può andare bene, può andare bene comunque.
+
+181
+00:09:37,720 --> 00:09:42,440
+Piccola parentesi, ma lo dico piano perché conoscendo poi tutto salta.
+
+182
+00:09:42,440 --> 00:09:44,520
+Ma adesso io vi sento da Dio.
+
+183
+00:09:44,600 --> 00:09:46,120
+Non dovevi dirlo, non dovevi dirlo
+
+184
+00:09:48,760 --> 00:09:54,280
+potrà succedere di tutto, è anche vero, però, d'altra parte aggiungo solo
+
+185
+00:09:54,280 --> 00:09:57,480
+un altro piccolo appostile a quello che ha detto il nostro grandissimo
+
+186
+00:09:57,560 --> 00:10:00,920
+Matteo, di cui sottolineo tutto quanto perché è tutto verissimo.
+
+187
+00:10:00,920 --> 00:10:05,320
+La questione è che quando si fa, ad esempio, diciamo il conduttore,
+
+188
+00:10:05,320 --> 00:10:11,000
+bisogna anche prendersi, diciamo, l'onere, chiamiamolo così, di mettersi nei panni di
+
+189
+00:10:11,000 --> 00:10:14,680
+chi si ha di fronte e riuscire a guidarlo all'interno o del
+
+190
+00:10:14,680 --> 00:10:16,120
+Mac o di Windows.
+
+191
+00:10:16,120 --> 00:10:20,760
+Tutto sommato è abbastanza semplice, nel senso che nel momento in cui
+
+192
+00:10:20,760 --> 00:10:25,080
+riesce a guidare la persona, ad esempio, su Windows, andare sulla chiave
+
+193
+00:10:25,080 --> 00:10:28,200
+di ricerca che c'è in basso a sinistra, dirgli il registratore vocale,
+
+194
+00:10:28,200 --> 00:10:30,760
+prende e manda la registrazione e questo è risolto.
+
+195
+00:10:30,760 --> 00:10:32,520
+È anche dalla parte del Mac.
+
+196
+00:10:32,520 --> 00:10:35,880
+Quindi diciamo che ci vuole anche un po' di sensibilità in questo
+
+197
+00:10:35,880 --> 00:10:39,480
+senso nel riuscire a fare il conduttore non solo dal punto di
+
+198
+00:10:39,480 --> 00:10:43,400
+vista di porre le domande giuste, riuscire a legare chi è con
+
+199
+00:10:43,400 --> 00:10:48,720
+lui al microfono, riuscire a fare un buon discorso, ma c'è anche
+
+200
+00:10:48,720 --> 00:10:52,960
+la fase iniziale che in effetti noi abbiamo perso mezz'ora prima di
+
+201
+00:10:52,960 --> 00:10:57,360
+questa registrazione, probabilmente sentirete anche degli stralci dove io probabilmente mando qualcuno
+
+202
+00:10:57,360 --> 00:10:59,600
+a stendere in modo molto violento.
+
+203
+00:10:59,600 --> 00:11:03,520
+Ma vedremo se verso la fine della puntata Filippo mette diciamo
+
+204
+00:11:05,200 --> 00:11:05,280
+.
+
+205
+00:11:05,280 --> 00:11:09,280
+Esatto, se mette i fuori onda all'interno della puntata e così capirete
+
+206
+00:11:09,280 --> 00:11:12,640
+che tipo di temperamento ha il vostro Roberto quando è con i
+
+207
+00:11:12,640 --> 00:11:14,000
+microfoni spenti.
+
+208
+00:11:14,000 --> 00:11:18,160
+Ma in ogni caso, la questione è che purtroppo bisogna mettersi in
+
+209
+00:11:18,160 --> 00:11:23,840
+questa situazione e riuscire, come diceva Matteo, oltre alla sensibilità, ci vuole
+
+210
+00:11:23,840 --> 00:11:25,520
+veramente tanta pazienza.
+
+211
+00:11:25,520 --> 00:11:30,240
+Tanta pazienza perché, ad esempio, mi ero imballato io perché ero nervoso
+
+212
+00:11:30,320 --> 00:11:33,200
+di mio perché non riuscivo a fare certe cose.
+
+213
+00:11:33,200 --> 00:11:38,720
+Da questo punto sono passato da, diciamo, da podcaster a intervistato, mettiamola
+
+214
+00:11:38,720 --> 00:11:39,040
+così.
+
+215
+00:11:39,040 --> 00:11:41,440
+Ed ero un attimo imballato.
+
+216
+00:11:41,440 --> 00:11:44,640
+Non riuscivo a fare delle cose anche le più banali, non riuscivo
+
+217
+00:11:44,640 --> 00:11:45,840
+a uscirne.
+
+218
+00:11:46,320 --> 00:11:49,840
+Il buon Matteo, che ovviamente ha un sacco di esperienza addosso, mi
+
+219
+00:11:49,840 --> 00:11:52,800
+ha dato la soluzione, che era lì la portata di mano, che
+
+220
+00:11:52,800 --> 00:11:56,720
+conosco benissimo, ma in quel momento non mi veniva in mente e
+
+221
+00:11:57,520 --> 00:12:03,040
+di conseguenza continuo a sottolineare tanta sensibilità e tanta pazienza perché sembra
+
+222
+00:12:03,040 --> 00:12:07,680
+facile riuscire a mettere in collegamento qualcuno, ma siamo nel 2023 e
+
+223
+00:12:07,680 --> 00:12:12,080
+purtroppo ci troviamo anche di fronte a dei muri non dico insormontabili,
+
+224
+00:12:12,080 --> 00:12:16,960
+ma che fanno innervosire come quello che abbiamo provato a usare io
+
+225
+00:12:16,960 --> 00:12:19,600
+in prima persona, che ero quello un po' più in difficoltà.
+
+226
+00:12:19,600 --> 00:12:22,400
+Oltre a Skype, prima abbiamo cercato di utilizzare.
+
+227
+00:12:23,040 --> 00:12:26,400
+Non dire niente che adesso ci arriviamo, ci arriviamo, le nominiamo tutte.
+
+228
+00:12:26,400 --> 00:12:29,360
+Ok, nominiamo tutte, allora lascio di nuovo la parola a Matteo che
+
+229
+00:12:29,360 --> 00:12:32,680
+ci condurrà in questo magnifico viaggio verso il podcast.
+
+230
+00:12:32,840 --> 00:12:37,960
+No, Filippo, invece volevi: siccome hai perso del tempo: anzi, scusami, hai
+
+231
+00:12:37,960 --> 00:12:41,800
+investito del tempo nel creare una mappa mentale, una scaletta e tutto
+
+232
+00:12:41,800 --> 00:12:46,520
+quanto, che io a malapena ha aperto, vuoi guidare tu così almeno
+
+233
+00:12:46,520 --> 00:12:49,320
+non pensi di aver buttato via del tempo,
+
+234
+00:12:51,480 --> 00:12:55,560
+tanto, io allora sono ormai abituato con Roberto che salta di palla
+
+235
+00:12:55,720 --> 00:13:01,640
+in frasca, però appunto cerchiamo di dare un ordine al caos abituale.
+
+236
+00:13:01,640 --> 00:13:06,200
+L'idea di fondo di questa puntata, del podcast, è: Ormai siamo alla
+
+237
+00:13:06,360 --> 00:13:11,640
+puntata 64, quindi siamo diventati grandi come podcast, nel senso che abbiamo
+
+238
+00:13:11,640 --> 00:13:14,680
+iniziato a macinare qualche anno di registrazione.
+
+239
+00:13:14,680 --> 00:13:17,800
+E comunque le cose vanno in merda, questa è una cosa importantissima
+
+240
+00:13:18,360 --> 00:13:19,080
+da ricordarsi.
+
+241
+00:13:20,040 --> 00:13:23,320
+Quando in generale si è creatori di contenuti e creatrici di contenuti,
+
+242
+00:13:23,320 --> 00:13:26,440
+le cose vanno in merda, ma in qualsiasi momento: si va in
+
+243
+00:13:26,440 --> 00:13:30,600
+bicicletta, si buca, si va in auto e finisce l'olio.
+
+244
+00:13:30,600 --> 00:13:32,840
+Non lo so, non ho la patente, quindi magari questa cosa non
+
+245
+00:13:32,840 --> 00:13:33,400
+succede.
+
+246
+00:13:33,400 --> 00:13:35,560
+Però comunque è la patente, non lo sapevo.
+
+247
+00:13:36,440 --> 00:13:38,920
+Sto studiando però per prendermela: ti devi fare una ricetta e ti
+
+248
+00:13:38,920 --> 00:13:40,760
+sei dimenticato di prendere un ingrediente.
+
+249
+00:13:40,760 --> 00:13:44,040
+Cioè quelle cose succedono, come sempre, chi non fa, non falla.
+
+250
+00:13:44,040 --> 00:13:45,400
+Quindi mettiamocela via.
+
+251
+00:13:45,400 --> 00:13:45,720
+Proprio.
+
+252
+00:13:45,720 --> 00:13:49,800
+La prima cosa che si impara quando si fanno le cose in
+
+253
+00:13:49,800 --> 00:13:51,640
+generale, esattamente come i backup.
+
+254
+00:13:51,640 --> 00:13:53,000
+No, ah, ci picchia.
+
+255
+00:13:53,000 --> 00:13:56,040
+Non devi pensare, non ho ancora perso niente, non ho perso ancora
+
+256
+00:13:56,040 --> 00:13:56,600
+nessun dato.
+
+257
+00:13:56,600 --> 00:13:56,760
+Ma.
+
+258
+00:13:56,920 --> 00:14:00,040
+Scusatemi, non ho mai perso nessun dato, ma non ho ancora perso
+
+259
+00:14:00,040 --> 00:14:00,600
+un dato.
+
+260
+00:14:00,600 --> 00:14:01,720
+Facciamo un backup.
+
+261
+00:14:01,720 --> 00:14:04,600
+Quindi ti metti a fare qualcosa, qualcosa potrebbe andare storto.
+
+262
+00:14:04,600 --> 00:14:05,240
+Vero Roberto?
+
+263
+00:14:06,360 --> 00:14:07,640
+Non ci crederai.
+
+264
+00:14:08,360 --> 00:14:10,840
+Perché se lo racconti, no, non sembra vero.
+
+265
+00:14:11,000 --> 00:14:15,440
+Oggi sta succedendo di cose adesso, ad esempio, mette stavi dicendo che
+
+266
+00:14:15,440 --> 00:14:19,760
+può andare qualcosa storto, ho aperto la mappa Mind Node, che ovviamente
+
+267
+00:14:19,760 --> 00:14:22,720
+non avevo sotto gli occhi perché sto improvvisando.
+
+268
+00:14:23,040 --> 00:14:25,840
+Cosa mi ha restituito il nostro simpatico Mac
+
+269
+00:14:26,880 --> 00:14:33,120
+ode danneggiato e non può essere aperto, elimina l'applicazione, te la reinstalli, ok,
+
+270
+00:14:33,360 --> 00:14:34,480
+va bene.
+
+271
+00:14:34,480 --> 00:14:36,880
+Oggi l'ho detto, oggi non gira bene.
+
+272
+00:14:36,880 --> 00:14:38,960
+Vabbè, navigherai a vista come me, Roberto.
+
+273
+00:14:38,960 --> 00:14:39,520
+Non ti preoccupare.
+
+274
+00:14:39,520 --> 00:14:40,640
+C'è Filippo che ci guida.
+
+275
+00:14:40,640 --> 00:14:41,440
+Esatto, ok.
+
+276
+00:14:41,680 --> 00:14:45,520
+E comunque, questo problema che non c'entra niente, però potrebbe essere legato
+
+277
+00:14:45,520 --> 00:14:48,800
+al fatto che uno hai fatto l'installazione dal backup di Tine, quindi
+
+278
+00:14:48,800 --> 00:14:52,720
+quello potrebbe darti dei problemi, potrebbe essere l'applicazione non giusta.
+
+279
+00:14:52,720 --> 00:14:56,320
+Ma la seconda cosa che ho scoperto recentemente, perché anch'io avevo questo
+
+280
+00:14:56,320 --> 00:15:00,560
+tipo di problema, è che il server Apple dell'app store sostanzialmente non
+
+281
+00:15:00,560 --> 00:15:01,600
+è raggiungibile.
+
+282
+00:15:01,760 --> 00:15:05,360
+La prima volta che devi lanciare un'applicazione, devi avere accesso al server
+
+283
+00:15:05,920 --> 00:15:11,360
+e che vuole controllare che tu abbia legittimamente la licenza, chiamiamola così,
+
+284
+00:15:11,360 --> 00:15:15,920
+anche se poi Mind è gratuita la versione base e invece, a
+
+285
+00:15:15,920 --> 00:15:18,320
+pagamento la versione, diciamo, avanzata.
+
+286
+00:15:18,320 --> 00:15:20,240
+E quindi potrebbe essere quello anche il problema.
+
+287
+00:15:20,240 --> 00:15:24,400
+Mi è capitato, e dopo mille anni che avevo problemi vari ed
+
+288
+00:15:24,400 --> 00:15:28,320
+eventuali, ho capito il busillis di tutta questa vicenda.
+
+289
+00:15:28,320 --> 00:15:30,560
+Poi voglio vederti il montare,
+
+290
+00:15:31,600 --> 00:15:34,320
+il montaggio ne parliamo dopo.
+
+291
+00:15:34,800 --> 00:15:39,680
+Siamo un passo indietro, diciamo, quindi ragioniamo sull'idea di cosa mi serve
+
+292
+00:15:39,680 --> 00:15:42,320
+per fare il podcast, chiamiamolo così minimo.
+
+293
+00:15:42,320 --> 00:15:46,800
+E poi, dopo, invece, vediamo quali sono gli strumenti, quindi, tendenzialmente i
+
+294
+00:15:46,800 --> 00:15:51,360
+microfoni, vediamo quali sono i software per registrare da una parte per
+
+295
+00:15:51,360 --> 00:15:53,320
+fare appunto l'editing del podcast.
+
+296
+00:15:53,320 --> 00:15:54,400
+Che abitualmente.
+
+297
+00:15:54,400 --> 00:15:58,880
+Poi so che Matteo, quando lo fa professionalmente, fa un editing molto
+
+298
+00:15:58,880 --> 00:15:59,360
+avanzato.
+
+299
+00:15:59,360 --> 00:16:04,280
+Ma per esempio, buona parte delle sue produzioni, diciamo così amatoriali, cioè
+
+300
+00:16:04,280 --> 00:16:06,520
+non professionali, anzi esatto,
+
+301
+00:16:07,880 --> 00:16:11,800
+le fa molto più concedimi il termine, greze, nel senso così come
+
+302
+00:16:11,800 --> 00:16:13,240
+sono state registrate.
+
+303
+00:16:13,880 --> 00:16:17,800
+C'è sicuramente anche la questione dei capitoli che io sono un fan
+
+304
+00:16:17,800 --> 00:16:21,720
+dei capitoli, ma so che molti non sanno neanche cosa sono, anche
+
+305
+00:16:21,720 --> 00:16:27,400
+l'ottimizzazione dell'audio e poi ovviamente come pubblicare un podcast perché metti assieme
+
+306
+00:16:27,400 --> 00:16:32,600
+tutte queste tecnologie, fai tutta la registrazione, fai l'editing in finale e
+
+307
+00:16:32,600 --> 00:16:37,720
+poi come fai a farla ascoltare un'altra persona, quindi direi che queste
+
+308
+00:16:37,720 --> 00:16:41,640
+sono più o meno le poi, in finale ne abbiamo parlato già
+
+309
+00:16:41,640 --> 00:16:42,520
+all'inizio.
+
+310
+00:16:42,520 --> 00:16:46,360
+La mia idea è ragioniamo sul podcast, diciamo, in solitaria, che è
+
+311
+00:16:46,520 --> 00:16:50,120
+la soluzione più semplice da un certo punto di vista, perché ovviamente
+
+312
+00:16:50,120 --> 00:16:53,800
+devi registrare sulla tua voce e così via, anche se puoi anche
+
+313
+00:16:53,800 --> 00:16:58,360
+registrare solo la propria voce, ha le sue idiosincrasie e complessità.
+
+314
+00:16:58,360 --> 00:17:02,360
+Registrare un podcast come questo, cioè a tre voci, e a volte
+
+315
+00:17:02,360 --> 00:17:05,560
+ce ne sono anche con ben più di tre voci, invece ha
+
+316
+00:17:05,560 --> 00:17:10,040
+delle nuove sfide, appunto, dobbiamo riuscire innanzitutto a parlare di tre assieme
+
+317
+00:17:10,040 --> 00:17:13,000
+e sentirci, perché se no il dialogo sarebbe abbastanza agghiaciante.
+
+318
+00:17:13,000 --> 00:17:16,920
+Poi c'è tutto il discorso che abbiamo già visto un po' prima.
+
+319
+00:17:17,560 --> 00:17:22,040
+Dobbiamo registrare ognuno la sua singola traccia audio, come fare i backup.
+
+320
+00:17:22,040 --> 00:17:25,880
+Per esempio, io adesso vado avanti, ma ovviamente sto registrando sia quello
+
+321
+00:17:25,880 --> 00:17:29,640
+che dice Roberto sia quello che dice Matteo in una traccia, chiamiamola
+
+322
+00:17:29,640 --> 00:17:30,840
+così, di backup.
+
+323
+00:17:30,840 --> 00:17:36,200
+Perché in qualunque caso, se succedesse la cosa tremenda, cioè che poi
+
+324
+00:17:36,200 --> 00:17:40,200
+la registrazione, casomai, qualcuno si è scordato di farla, o il computer
+
+325
+00:17:40,200 --> 00:17:44,440
+ha avuto dei problemi, quindi la registrazione è danneggiata, almeno una coppia
+
+326
+00:17:44,440 --> 00:17:47,840
+non buona nel senso di dire non con l'audio perfetto e con
+
+327
+00:17:47,840 --> 00:17:48,560
+le voci che.
+
+328
+00:17:44,840 --> 00:17:49,600
+Però c'è esatto, c'è.
+
+329
+00:17:49,680 --> 00:17:53,760
+E a quel punto, lì, per esempio, adesso, recentemente, poi si è
+
+330
+00:17:53,760 --> 00:17:57,360
+dotato di attrezzature varie ed eventuali, ma spesso e volentieri, le prime
+
+331
+00:17:57,520 --> 00:17:59,920
+puntate che abbiamo fatto con Lucio Paragnolo.
+
+332
+00:17:59,920 --> 00:18:04,160
+Io registravo anche, chiamiamo così, la sua traccia, mettiamola in questi termini,
+
+333
+00:18:04,160 --> 00:18:08,240
+e ovviamente dovevo pulirla dalla voce di Roberto e recuperavo invece la
+
+334
+00:18:08,240 --> 00:18:11,680
+voce di Roberto dalle registrazioni che Roberto aveva fatto.
+
+335
+00:18:11,680 --> 00:18:15,040
+Quindi è ovvio che anche l'editing dopo diventa molto più complicato per
+
+336
+00:18:15,040 --> 00:18:16,240
+certi punti di vista.
+
+337
+00:18:16,240 --> 00:18:20,720
+Ma torniamo alla base prima di lanciarsi in avanti, ecco.
+
+338
+00:18:20,720 --> 00:18:24,400
+Sì, allora, la base fondamentale, secondo me, è una cosa che probabilmente
+
+339
+00:18:24,400 --> 00:18:28,080
+c'è gente che non la pensa minimamente così, ma va benissimo: è
+
+340
+00:18:28,080 --> 00:18:32,480
+che per iniziare a fare un podcast, basta pochissima roba, basta il
+
+341
+00:18:32,480 --> 00:18:35,280
+computer, anche il più scrauso che si ha, basta il telefono, anche
+
+342
+00:18:35,280 --> 00:18:39,120
+il più scrauso che si ha, basta veramente la strumentazione base che
+
+343
+00:18:39,120 --> 00:18:40,880
+già abbiamo in nostro possesso.
+
+344
+00:18:40,880 --> 00:18:44,080
+Prima ancora di spendere di fare dei ragionamenti, Lucio Bragagnolo si è
+
+345
+00:18:44,080 --> 00:18:47,440
+preso un bel microfono, ma prima quantomeno, aveva provato e aveva capito
+
+346
+00:18:47,440 --> 00:18:49,360
+che si era divertito a fare dei podcast.
+
+347
+00:18:49,360 --> 00:18:52,000
+E quindi, quando poi voi gli avete ripetuto,
+
+348
+00:18:53,040 --> 00:18:57,120
+gli avete ripetuto gli inviti, gli ha detto: Sì, Lucio, fermo lì
+
+349
+00:18:57,120 --> 00:18:58,640
+bisogna pensare un attimo: al tossetato.
+
+350
+00:18:58,800 --> 00:19:01,440
+Ha fatto tutto lui, no, ha fatto tutto lui da solo.
+
+351
+00:19:02,560 --> 00:19:04,720
+Si sentiva in difetto e quindi si è lanciato.
+
+352
+00:19:04,880 --> 00:19:09,040
+Il suggerimento è venuto da qualcuno che conosco molto bene, perché dormo
+
+353
+00:19:09,040 --> 00:19:12,240
+dentro il corpo di quella persona che sarebbe me stesso.
+
+354
+00:19:13,040 --> 00:19:15,760
+Hai rotto le scatole come il tuo solito, bravo.
+
+355
+00:19:15,920 --> 00:19:20,400
+Tuttavia, per iniziare, per capire, per fare delle prove, perché compiamo spesso
+
+356
+00:19:20,400 --> 00:19:24,720
+e volentieri, tutte noi compiamo degli errori abbastanza madornari e tragici, che
+
+357
+00:19:24,720 --> 00:19:28,800
+sono quelli che è quello di guardare chi è già avanti, chi
+
+358
+00:19:28,960 --> 00:19:31,960
+sta già facendo qualcosa che ci piace e dire io voglio arrivare
+
+359
+00:19:31,960 --> 00:19:35,240
+lì, poi iniziamo a fare quella cosa lì, vediamo che non siamo
+
+360
+00:19:35,240 --> 00:19:39,720
+minimamente a quel livello e ci scoraggiamo, ci mandiamo a quel paese,
+
+361
+00:19:39,720 --> 00:19:41,240
+diciamo che non siamo bravi a fare niente.
+
+362
+00:19:41,880 --> 00:19:44,520
+Quando non consideriamo il fatto che per arrivare lì, quella persona ci
+
+363
+00:19:44,520 --> 00:19:48,680
+ha messo un sacco di tempo, oppure è nata particolarmente dotata dalla
+
+364
+00:19:48,680 --> 00:19:52,120
+nascita, e quindi non possiamo farci proprio niente, è un altro campionato.
+
+365
+00:19:52,120 --> 00:19:55,880
+Ed è un errore madonnale, perché anche quella persona lì ha iniziato
+
+366
+00:19:55,880 --> 00:19:59,080
+con della strumentazione orripilante, a meno che non fosse già il suo
+
+367
+00:19:59,080 --> 00:20:00,840
+lavoro, quello e quello è un caso diverso.
+
+368
+00:20:00,840 --> 00:20:03,880
+E non lo considero neanche, non lo prendo veramente in considerazione perché
+
+369
+00:20:03,880 --> 00:20:05,560
+ci porta decisamente fuori strada.
+
+370
+00:20:05,560 --> 00:20:10,840
+Se voi andate a vedere Andrea Ciraolo oggi 130-140.000 followers iscritti su
+
+371
+00:20:10,840 --> 00:20:12,840
+YouTube, andiamo a vedere quanti ne ha Andre in
+
+372
+00:20:13,960 --> 00:20:14,920
+questo momento.
+
+373
+00:20:15,800 --> 00:20:19,560
+Ne ha 133.000 che buffo numero, Andre.
+
+374
+00:20:19,560 --> 00:20:22,600
+Quando ha iniziato a fare video su YouTube, ne aveva zero.
+
+375
+00:20:22,600 --> 00:20:25,720
+Quando ha iniziato a fare video su YouTube, facevano schifo, ma è
+
+376
+00:20:25,720 --> 00:20:30,600
+lui il primo che lo dice: era in cantina, era imbacuccato, aveva
+
+377
+00:20:30,600 --> 00:20:33,640
+il microfono in faccia proprio che gli impallava la faccia, tutte quelle
+
+378
+00:20:33,640 --> 00:20:34,680
+venate lì.
+
+379
+00:20:34,680 --> 00:20:41,240
+Non dobbiamo prendere in considerazione Andrea adesso, youtuber affermato, content creator ha
+
+380
+00:20:41,320 --> 00:20:42,120
+fermato, bla bla bla.
+
+381
+00:20:42,200 --> 00:20:44,600
+Dobbiamo prendere in considerazione Andrea all'inizio.
+
+382
+00:20:44,600 --> 00:20:48,360
+E Andrea all'inizio, i primissimi podcast che ha fatto, per esempio, giusto
+
+383
+00:20:48,360 --> 00:20:52,360
+per continuare a usarlo come prova, se li registrava veramente con della
+
+384
+00:20:52,360 --> 00:20:55,160
+roba di fortuna per iniziare a fare un podcast.
+
+385
+00:20:55,160 --> 00:20:58,920
+E poi, piano piano ha migliorato la strumentazione che sta usando.
+
+386
+00:20:58,920 --> 00:21:01,880
+È facile per me dire basta usare un telefono, poi mi guardo
+
+387
+00:21:01,880 --> 00:21:05,400
+intorno, ho centinaia di euro, forse anche migliaia di euro di strumentazione.
+
+388
+00:21:05,400 --> 00:21:09,240
+Ma non importa perché comunque anche il miglior microfono perde se manca
+
+389
+00:21:09,240 --> 00:21:09,800
+il contenuto.
+
+390
+00:21:09,800 --> 00:21:14,200
+Quindi, ancora prima di parlare di che cosa è necessario per fare
+
+391
+00:21:14,200 --> 00:21:17,360
+un podcast a livello pratico e fisico, pensa a che cazzo di
+
+392
+00:21:17,360 --> 00:21:20,960
+storia vuoi raccontare, perché è quello il punto focale, il punto fondamentale.
+
+393
+00:21:20,960 --> 00:21:25,120
+Diceva giustamente Roberto, prima che ci siamo soccati, ma tutti noi ci
+
+394
+00:21:25,120 --> 00:21:28,720
+siamo soccati dei podcast che facevano sanguinare le orecchie perché erano registrati
+
+395
+00:21:28,880 --> 00:21:32,960
+male, di buona, alla fortuna dicendo: ma il contenuto era talmente forte
+
+396
+00:21:32,960 --> 00:21:34,720
+che siamo rimasti lo stesso a soffrire.
+
+397
+00:21:34,720 --> 00:21:38,800
+E lì è il primo, il primissimo punto, lo spartiacque, se vuoi,
+
+398
+00:21:39,120 --> 00:21:41,760
+tra chi continua poi a fare dei podcast e chi a un
+
+399
+00:21:41,760 --> 00:21:44,800
+certo momento ci prova e giustamente dice: Non fa per me, mi
+
+400
+00:21:44,800 --> 00:21:45,760
+sono divertito, basta.
+
+401
+00:21:45,760 --> 00:21:50,080
+Troviamo delle cose belle da raccontare, troviamo delle cose interessanti da raccontare
+
+402
+00:21:50,080 --> 00:21:51,600
+e portiamo avanti quelle.
+
+403
+00:21:51,600 --> 00:21:53,920
+Facciamo delle prove, registriamoci col telefono.
+
+404
+00:21:53,920 --> 00:21:59,120
+Capiamo banalmente che oggi nel 2023 è abbastanza improbabile quello che sto
+
+405
+00:21:59,200 --> 00:22:01,760
+dicendo, ma abbiamo mai sentito la nostra voce?
+
+406
+00:22:01,760 --> 00:22:02,320
+Davvero?
+
+407
+00:22:02,320 --> 00:22:05,840
+Qualche anno fa era un po' più facile incappare in qualcuno che
+
+408
+00:22:05,840 --> 00:22:08,640
+per la prima volta aveva sentito la sua voce non dalle proprie
+
+409
+00:22:08,640 --> 00:22:12,640
+orecchie, ma da un dispositivo che gliela riproduceva, o comunque ancora non
+
+410
+00:22:12,640 --> 00:22:14,240
+si era abituata a quella voce lì.
+
+411
+00:22:14,240 --> 00:22:16,800
+Oggi è un attimo più difficile perché comunque i messaggi vocali li
+
+412
+00:22:16,800 --> 00:22:18,320
+usiamo un po' tutti, purtroppo.
+
+413
+00:22:18,320 --> 00:22:19,840
+Non mandatemene, grazie.
+
+414
+00:22:19,840 --> 00:22:21,360
+Io non li uso.
+
+415
+00:22:22,000 --> 00:22:23,440
+Bravo, bravo.
+
+416
+00:22:23,440 --> 00:22:27,600
+A me dà un fastidio incredibile, perché tendenzialmente sto ascoltando già delle
+
+417
+00:22:27,600 --> 00:22:31,600
+voci, sto già ascoltando delle cose quando lavoro e quindi devo interrompere
+
+418
+00:22:31,600 --> 00:22:33,760
+il mio lavoro per sentire la voce di qualcun altro, ma tanto
+
+419
+00:22:33,760 --> 00:22:34,720
+ti l'ascolti quando vuoi.
+
+420
+00:22:34,720 --> 00:22:36,880
+Sì, ma mandami un messaggio scritto.
+
+421
+00:22:36,880 --> 00:22:39,680
+Comunque, scusami, queste sono i miei paturni.
+
+422
+00:22:39,760 --> 00:22:40,320
+Dicevamo.
+
+423
+00:22:40,320 --> 00:22:43,280
+No, ti interrompo io perché, giustamente, oltre a darti un po' di
+
+424
+00:22:43,280 --> 00:22:49,520
+respiro, volevo senza scomandare Andrea Nazionale che ha fatto un enorme successo,
+
+425
+00:22:49,520 --> 00:22:53,280
+anche il sottoscritto è iniziato con strumenti veramente di fortuna.
+
+426
+00:22:53,280 --> 00:22:57,360
+Il podcast mio personale, che ormai conta più di 200 puntate, è
+
+427
+00:22:57,440 --> 00:22:59,560
+iniziato registrando in auto.
+
+428
+00:22:59,560 --> 00:23:02,600
+Ragazzi, non so scherzare, io registravo col cellulare in auto.
+
+429
+00:23:02,680 --> 00:23:05,880
+No, no, e tra l'altro, l'auto è un bellissimo studio di registrazione,
+
+430
+00:23:05,880 --> 00:23:10,600
+soprattutto se l'auto è moderna, perché è molto isolata dal contesto sonoro
+
+431
+00:23:10,600 --> 00:23:13,800
+intorno: al punto tale che si sente il rumore dei vestiti.
+
+432
+00:23:13,800 --> 00:23:16,760
+Quindi bisogna anche stare attento a come ci si muove dentro l'auto
+
+433
+00:23:16,840 --> 00:23:17,800
+quando si registra.
+
+434
+00:23:17,800 --> 00:23:21,720
+Assolutamente sì, è un effetto che ho dovuto tenere la bada anch'io
+
+435
+00:23:21,880 --> 00:23:26,040
+riuscendo a tenere il microfono a filo con una mano mentre guidavo,
+
+436
+00:23:26,040 --> 00:23:29,160
+perché, se no, ovviamente il microfono prendeva tutto quanto.
+
+437
+00:23:29,160 --> 00:23:32,360
+Ma oltre a quello, volevo aggiungere un'altra piccola nota personale.
+
+438
+00:23:32,360 --> 00:23:36,120
+Che quello che è bello del podcast è che per me è
+
+439
+00:23:36,120 --> 00:23:41,000
+stato molto interessante il fatto che sono partito con un'idea mentre registravo
+
+440
+00:23:41,160 --> 00:23:45,000
+in auto e mano a mano che andavo avanti, raffinavo questa idea
+
+441
+00:23:45,000 --> 00:23:48,440
+per riuscire poi a prendere una strada che sto portando avanti ancora
+
+442
+00:23:48,440 --> 00:23:50,680
+adesso, ma che è ancora in evoluzione.
+
+443
+00:23:50,680 --> 00:23:54,600
+La cosa bella del podcast, appunto, è che non è una cosa
+
+444
+00:23:54,600 --> 00:23:55,800
+estremamente fissa.
+
+445
+00:23:55,800 --> 00:24:01,480
+Il mio podcast è particolarmente verticale, ma nonostante questo, si apre su
+
+446
+00:24:01,720 --> 00:24:03,480
+tanti tanti aspetti.
+
+447
+00:24:03,480 --> 00:24:08,120
+Ma la cosa altra interessante e che, secondo me, è la cosa
+
+448
+00:24:08,120 --> 00:24:12,440
+diversa rispetto al resto del mondo è che ti mette veramente in
+
+449
+00:24:12,440 --> 00:24:16,600
+contatto con tantissime persone appassionate come voi di podcast.
+
+450
+00:24:16,600 --> 00:24:19,800
+Che da ascoltatore magari è passato a passare a questa parte qua
+
+451
+00:24:19,800 --> 00:24:21,320
+del microfono, come sono stato io.
+
+452
+00:24:21,320 --> 00:24:25,240
+Prima di fare podcast, ero iniziato davvero tantissimo ad ascoltare tanti altri
+
+453
+00:24:25,240 --> 00:24:25,720
+podcast.
+
+454
+00:24:25,720 --> 00:24:28,760
+Ne ascolta ancora adesso tanti tanti altri.
+
+455
+00:24:28,760 --> 00:24:31,640
+E la cosa che continuo a dire è interessante che entri in
+
+456
+00:24:31,640 --> 00:24:33,080
+contatto con tantissime persone.
+
+457
+00:24:33,080 --> 00:24:37,960
+Guardate con Filippo, guardate con Matteo Scandolin, guardate, c'è anche Lucio Bragagnolo,
+
+458
+00:24:37,960 --> 00:24:39,960
+Alex Raccuglia e via discorrendo.
+
+459
+00:24:39,960 --> 00:24:44,040
+Insomma, si apre veramente un mondo di persone che sono lì per
+
+460
+00:24:44,040 --> 00:24:50,480
+ascoltare e diventano vostri amici alla fine, perché poi si avvicinano a
+
+461
+00:24:50,480 --> 00:24:55,600
+voi e ascoltano la vostra voce soltanto per sentire gli argomenti che
+
+462
+00:24:55,600 --> 00:24:59,440
+sono a loro affini e conseguentemente è più facile riuscire a legare.
+
+463
+00:24:59,440 --> 00:25:01,680
+Questa è una bellissima cosa del podcast.
+
+464
+00:25:01,680 --> 00:25:03,760
+Che credo tanti media non hanno.
+
+465
+00:25:03,760 --> 00:25:08,400
+Quello della comunità che si crea, che io chiamo ruffianamente capitale umano,
+
+466
+00:25:08,400 --> 00:25:10,800
+è una cosa che però è in comune anche con altri tipi
+
+467
+00:25:10,800 --> 00:25:11,920
+di contenuti.
+
+468
+00:25:11,920 --> 00:25:15,760
+Io sono anni che faccio una rivista di narrativa, conto tra persone
+
+469
+00:25:15,840 --> 00:25:19,840
+estremamente care, alcune delle autrici, alcuni degli autori che sono passati per
+
+470
+00:25:19,840 --> 00:25:20,480
+inutile.
+
+471
+00:25:20,480 --> 00:25:22,240
+Quindi dipende molto dal tipo di.
+
+472
+00:25:22,480 --> 00:25:25,040
+Dipende, secondo me, di più di tutti, da come ti poni nei
+
+473
+00:25:25,040 --> 00:25:28,960
+confronti del contenuto che crei e del pubblico che vuoi avere e
+
+474
+00:25:28,960 --> 00:25:30,320
+che poi alla fine avrai.
+
+475
+00:25:30,320 --> 00:25:34,240
+Quindi sono d'accordo: nel senso, sono delle cose veramente importanti queste.
+
+476
+00:25:34,240 --> 00:25:37,200
+L'altra cosa riguardo il fatto che non è inciso sulla pietra, è
+
+477
+00:25:37,200 --> 00:25:40,240
+verissimo perché, contrariamente a quello che vive tutti i giorni il nostro
+
+478
+00:25:40,240 --> 00:25:44,640
+amico Filippo per mestiere, per fortuna, queste cose non le facciamo nel
+
+479
+00:25:44,640 --> 00:25:46,640
+tempo libero e nessuno ha firmato un contratto.
+
+480
+00:25:46,640 --> 00:25:49,520
+Hai capito la battuta sul contratto sugli avvocati?
+
+481
+00:25:53,520 --> 00:25:57,920
+Altro discorso importantissimo, e questo vale di nuovo per qualsiasi cosa che
+
+482
+00:25:57,920 --> 00:26:00,400
+uno fa o vuole fare: grandissima attenzione!
+
+483
+00:26:00,400 --> 00:26:03,760
+Perché noi che lo facciamo, ci rompiamo le balle molto prima della
+
+484
+00:26:03,760 --> 00:26:05,840
+gente che uso frisce dei nostri contenuti.
+
+485
+00:26:05,840 --> 00:26:09,360
+E quindi la necessità a volte anche di cambiare è una cosa
+
+486
+00:26:09,360 --> 00:26:13,120
+che se non abbracciamo, ci diamo baracche e burattini e ci mettiamo
+
+487
+00:26:13,120 --> 00:26:13,840
+a fare altro.
+
+488
+00:26:13,840 --> 00:26:19,200
+Invece, questa cosa, questa progressione evolutiva, scusatemi, questo è lo zampirone che
+
+489
+00:26:19,200 --> 00:26:20,000
+mi arriva in gola.
+
+490
+00:26:20,000 --> 00:26:24,720
+Questa progressione evolutiva, secondo me, fa molto molto bene, cioè non c'è
+
+491
+00:26:25,040 --> 00:26:28,480
+niente che io ho iniziato quando l'ho iniziato, che è uguale a
+
+492
+00:26:28,480 --> 00:26:31,560
+quando l'ho iniziato, se no, magari nello spirito nella voglia di fare
+
+493
+00:26:31,720 --> 00:26:33,960
+nel fatto che rimango lo scappato di casa che sono e ve
+
+494
+00:26:29,920 --> 00:26:34,440
+dicendo.
+
+495
+00:26:34,600 --> 00:26:38,040
+Per cui è verissimo questa cosa qui, Roberto ha iniziato in auto
+
+496
+00:26:38,040 --> 00:26:41,080
+e adesso lo fa in casa, lo ha registrato al telefono, adesso
+
+497
+00:26:41,080 --> 00:26:42,680
+lo fa con un altro tipo di strumento.
+
+498
+00:26:42,680 --> 00:26:45,880
+Non è solo un cambio di strumento, perché ogni strumento ci porta
+
+499
+00:26:45,880 --> 00:26:51,160
+dietro eventualmente anche un tipo di messaggio e anche di costruzione contenutistica
+
+500
+00:26:51,160 --> 00:26:54,440
+diversa, e semplicemente si è evoluto e ci sta.
+
+501
+00:26:54,440 --> 00:26:59,640
+E anzi, più le cose si evolvono, scusatemi, più rimangono vive perché
+
+502
+00:26:59,720 --> 00:27:01,160
+se no, siamo tutti fermi.
+
+503
+00:27:01,160 --> 00:27:05,080
+Vediamo un po', però, una volta che abbiamo capito che ci piace
+
+504
+00:27:05,080 --> 00:27:08,600
+fare podcast, o che vogliamo provare a fare podcast, abbiamo fatto le
+
+505
+00:27:08,600 --> 00:27:11,720
+nostre prime prove anche con quello che ci troviamo a mano.
+
+506
+00:27:11,720 --> 00:27:18,040
+Quindi abitualmente, appunto, il telefono, io dico sempre il telefono, perché effettivamente
+
+507
+00:27:18,040 --> 00:27:22,680
+i microfoni del telefono medio, diciamo, poi se avete un iPhone di
+
+508
+00:27:22,680 --> 00:27:29,480
+generazione relativamente recente, un Android, esatto, esatto, si trova, si riesce e
+
+509
+00:27:29,560 --> 00:27:32,040
+poi si può parlare molto vicino al microfono.
+
+510
+00:27:32,040 --> 00:27:35,640
+Quindi anche questo aiuta molto, non troppo!
+
+511
+00:27:35,640 --> 00:27:35,880
+Sì!
+
+512
+00:27:36,920 --> 00:27:38,280
+Si è preciso?
+
+513
+00:27:38,360 --> 00:27:40,200
+Perché poi diamo informazioni sbagliate.
+
+514
+00:27:41,160 --> 00:27:46,840
+A questo punto abbiamo deciso che vogliamo abbiamo un'idea, la vogliamo esprimere
+
+515
+00:27:47,160 --> 00:27:51,640
+al mondo e quindi vogliamo anche condividerla con altri e decidiamo di
+
+516
+00:27:51,640 --> 00:27:53,080
+spendere qualche euro.
+
+517
+00:27:53,080 --> 00:27:59,400
+Perché, ovviamente, se vogliamo fare il salto, diciamo, qualitativo, abitualmente la prima
+
+518
+00:27:59,400 --> 00:28:03,560
+cosa che bisogna ragionare è quella di comprare un microfono semidecente.
+
+519
+00:28:03,560 --> 00:28:08,680
+Poi adesso vedremo appunto che si possono fare scelte anche da 20-30
+
+520
+00:28:08,680 --> 00:28:09,160
+euro.
+
+521
+00:28:09,160 --> 00:28:13,080
+Ovviamente esistono microfoni anche da migliaia di euro, ma questi non li
+
+522
+00:28:13,080 --> 00:28:14,080
+consideriamo neanche,
+
+523
+00:28:15,840 --> 00:28:17,120
+consideriamoli perché io sono
+
+524
+00:28:18,480 --> 00:28:22,640
+, ho appena detto, usiamo qualsiasi schifezza che abbiamo in casa per imparare.
+
+525
+00:28:22,640 --> 00:28:26,960
+Anche il registratore a cassette, voglio dire, cioè, proprio impariamo a capire
+
+526
+00:28:26,960 --> 00:28:31,040
+se il gesto, l'abitudine, quelle menate lì di parlare ci piace o
+
+527
+00:28:31,040 --> 00:28:33,840
+non ci piace, perché magari dici che bello vorrei fare il nuovo
+
+528
+00:28:33,840 --> 00:28:35,200
+podcaster importantissimo.
+
+529
+00:28:35,200 --> 00:28:38,320
+Poi però è una fatica bestia stare un'ora a parlare a un
+
+530
+00:28:38,320 --> 00:28:38,720
+microfono.
+
+531
+00:28:38,880 --> 00:28:39,360
+Eccoci.
+
+532
+00:28:39,360 --> 00:28:43,280
+Scusami, ti interrompo solo per dirti perché mi è tornata la domanda,
+
+533
+00:28:43,280 --> 00:28:44,880
+barra affermazione che volevo fare.
+
+534
+00:28:44,880 --> 00:28:47,920
+Ricordate anche che è una ruia fare un podcast.
+
+535
+00:28:47,920 --> 00:28:48,320
+Nel senso
+
+536
+00:28:49,760 --> 00:28:53,600
+qualsiasi contenuto no, però è quello che
+
+537
+00:28:55,280 --> 00:29:01,840
+l'ascoltatore, cioè come ascoltatore, dice, sono una quarantina di minuti: esatto, sono
+
+538
+00:29:02,000 --> 00:29:04,880
+chiacchiere tra da bar che potevo fare
+
+539
+00:29:06,080 --> 00:29:08,080
+anche io senza troppi problemi.
+
+540
+00:29:08,080 --> 00:29:14,240
+Dietro, effettivamente, almeno parlo per la mia esperienza personale, però dietro un'ora
+
+541
+00:29:14,240 --> 00:29:17,840
+o un'ora e mezza di puntata A2 Podcast, ci sono altre
+
+542
+00:29:17,840 --> 00:29:21,760
+quasi due ore solo di editing, c'è la parte di chiamiamola così
+
+543
+00:29:21,920 --> 00:29:26,000
+creazione dei contenuti o scaletta che non viene rispettata, e tutto il
+
+544
+00:29:26,000 --> 00:29:26,480
+resto.
+
+545
+00:29:27,920 --> 00:29:31,920
+Oltre alla semplice emissione sonora e di fiato per 40 minuti, un'ora
+
+546
+00:29:32,400 --> 00:29:33,120
+dicendo.
+
+547
+00:29:33,120 --> 00:29:36,880
+E tra l'altro, chissà se me la tieni questa me la tagli.
+
+548
+00:29:36,880 --> 00:29:41,040
+Però se ci ragioniamo un attimo, tutti i comici non tutti, ma
+
+549
+00:29:41,040 --> 00:29:44,320
+moltissimi comici di YouTube o di TikTok, quando sono poi passati a
+
+550
+00:29:44,320 --> 00:29:47,360
+una cosa un po' più lunga, sono caduti male perché un conto
+
+551
+00:29:47,360 --> 00:29:50,240
+è fare uno sketch da un minuto, anche da dieci minuti, un
+
+552
+00:29:50,240 --> 00:29:52,960
+conto è fare un film o uno spettacolo da un'ora e mezza.
+
+553
+00:29:52,960 --> 00:29:55,200
+Cioè, sono proprio linguaggi completamente diversi.
+
+554
+00:29:55,200 --> 00:29:58,960
+Da puoi essere fortissima su una roba breve e spatacciarti su una
+
+555
+00:29:58,960 --> 00:30:02,280
+roba più lunga, o al contrario, essere fortissima su una roba lunga
+
+556
+00:30:02,280 --> 00:30:05,240
+e invece spatasciarti su breve, non avere il dono della sintesi, per
+
+557
+00:30:05,240 --> 00:30:10,600
+esempio, comunque hai deciso di provare a fare questo podcast in maniera
+
+558
+00:30:10,600 --> 00:30:11,640
+un pochino più seria.
+
+559
+00:30:12,120 --> 00:30:15,720
+Innanzitutto capiamo se lo facciamo da sole, cioè io da solo e
+
+560
+00:30:15,720 --> 00:30:17,480
+via, oppure insieme in gruppo.
+
+561
+00:30:17,480 --> 00:30:20,600
+Se lo facciamo insieme, cioè se lo facciamo da sole, ma in
+
+562
+00:30:20,600 --> 00:30:23,720
+entrambi i casi un microfono USB potrebbe anche andare bene.
+
+563
+00:30:23,720 --> 00:30:26,360
+Se lo facciamo in gruppo bisogna capire se lo facciamo di persona,
+
+564
+00:30:26,360 --> 00:30:29,800
+cioè vedendoci, cosa che ho fatto per un sacco di anni, oppure
+
+565
+00:30:29,800 --> 00:30:33,720
+da remoto e qui si aprono due strade diverse.
+
+566
+00:30:33,720 --> 00:30:37,560
+In generale i microfoni USB oggi hanno una qualità eccezionale.
+
+567
+00:30:37,800 --> 00:30:42,440
+Anche magari le schifezze a 30 euro che trovi su Amazon possono
+
+568
+00:30:42,440 --> 00:30:43,640
+essere un po' pericolose.
+
+569
+00:30:43,640 --> 00:30:46,200
+Però tendenzialmente vanno bene anche quelle.
+
+570
+00:30:46,200 --> 00:30:49,880
+Poi di nuovo il contenuto, se il contenuto è molto molto forte,
+
+571
+00:30:49,880 --> 00:30:53,240
+allora anche un microfono relativamente cattivo può andare bene.
+
+572
+00:30:53,240 --> 00:30:58,840
+Ci sono delle puntate che io ho registrato con le cuffiette, bicicletta,
+
+573
+00:30:58,840 --> 00:31:02,200
+insomma, ho fatto delle cose anche abbastanza scene, però di nuovo il
+
+574
+00:31:02,200 --> 00:31:03,960
+contenuto era meritorio, mi auguro.
+
+575
+00:31:03,960 --> 00:31:06,200
+Microfoni USB vanno molto molto bene.
+
+576
+00:31:06,200 --> 00:31:08,760
+Se siamo da sole bastano anche volendo quelli.
+
+577
+00:31:08,760 --> 00:31:13,160
+Ce ne sono alcuni che sono sia USB che XLR USB lo
+
+578
+00:31:13,160 --> 00:31:16,200
+dice la parola stessa: il microfono che attacca il computer attraverso la
+
+579
+00:31:16,200 --> 00:31:17,080
+porta USB.
+
+580
+00:31:17,080 --> 00:31:20,120
+Al suo interno contiene una scheda audio che è una roba che
+
+581
+00:31:20,120 --> 00:31:23,240
+converte il segnale audio da digitale ed analogico e viceversa.
+
+582
+00:31:23,240 --> 00:31:26,920
+Quindi trasforma la mia voce in qualcosa che il computer capisce e
+
+583
+00:31:26,920 --> 00:31:28,440
+registra eventualmente.
+
+584
+00:31:28,440 --> 00:31:32,760
+L'XLR è un tipo di connettore di cavo che poi ha bisogno
+
+585
+00:31:32,760 --> 00:31:36,600
+di qualche cos'altro per essere poi collegato al nostro computer.
+
+586
+00:31:36,600 --> 00:31:39,400
+Di solito in mezzo c'è o un mixer o una scheda audio.
+
+587
+00:31:39,400 --> 00:31:42,200
+Esattamente i microfoni USB ce l'hanno incorporata.
+
+588
+00:31:42,200 --> 00:31:47,040
+Le schede audio sono indipendenti esterne, possono essere usate eventualmente anche per
+
+589
+00:31:47,040 --> 00:31:47,920
+attaccare delle casse.
+
+590
+00:31:44,920 --> 00:31:49,120
+Che cazzo ne so io.
+
+591
+00:31:49,280 --> 00:31:53,120
+Al variare, al migliorare diciamo così, dei componenti interni di una scheda
+
+592
+00:31:53,120 --> 00:31:57,360
+audio anche all'interno di un microfono UB può variare il prezzo, ovvero
+
+593
+00:31:58,320 --> 00:32:04,160
+più è meglio, più è fedele la trasformazione del segnale analogico in
+
+594
+00:32:04,160 --> 00:32:07,360
+segnale digitale e viceversa, maggiore ovviamente il costo.
+
+595
+00:32:07,360 --> 00:32:13,680
+Più è cristallino, usiamo questo aggettivo, il volume al quale la scheda
+
+596
+00:32:13,680 --> 00:32:16,480
+audio riesce a catturare la mia voce, meglio è per poi la
+
+597
+00:32:16,480 --> 00:32:20,160
+registrazione, perché significa che non devo tenere un volume molto alto in
+
+598
+00:32:20,160 --> 00:32:22,880
+fase di registrazione, quindi riduco tutta una serie di problemi.
+
+599
+00:32:22,880 --> 00:32:25,440
+Dai rumori di fondo, al fatto che magari il microfono è troppo
+
+600
+00:32:25,440 --> 00:32:28,480
+alto e mi sente le moto scorreggette che mi stanno passando sotto
+
+601
+00:32:28,480 --> 00:32:30,640
+a casa in questo momento, perché fa molto caldo e devo tenere
+
+602
+00:32:30,640 --> 00:32:33,920
+la finestra aperta o l'autobus che in questo momento sta passando.
+
+603
+00:32:33,920 --> 00:32:37,040
+Sono tutte cose che vanno bilanciate, bisogna fare un po' di esperienza,
+
+604
+00:32:37,040 --> 00:32:38,080
+bisogna fare un po' di prove.
+
+605
+00:32:38,080 --> 00:32:41,680
+Ci sono dei microfoni che reagiscono molto bene in determinate posizioni e
+
+606
+00:32:41,680 --> 00:32:44,000
+in altre magari beccano male la nostra voce.
+
+607
+00:32:44,000 --> 00:32:50,240
+I Blu-eti, che adesso Logitech ribrandizza in ieti e basta, che è
+
+608
+00:32:50,240 --> 00:32:52,480
+il più famoso microfono usb della storia.
+
+609
+00:32:52,480 --> 00:32:57,440
+Io lo odio anche se è un microfono versatilissimo perché moltissima gente
+
+610
+00:32:57,520 --> 00:32:59,200
+lo usa male, ci parla dal culo.
+
+611
+00:32:59,200 --> 00:33:02,880
+E quindi il microfono percepisce molto di più la stanza che non
+
+612
+00:33:02,880 --> 00:33:04,480
+la voce della persona che sta parlando.
+
+613
+00:33:04,480 --> 00:33:07,760
+Quindi impariamo anche a utilizzare un filo della strumentazione, che sia di
+
+614
+00:33:07,760 --> 00:33:11,520
+nuovo il microfono del telefono, oppure un microfono che abbiamo comprato, le
+
+615
+00:33:11,520 --> 00:33:15,600
+cose andranno molto meglio, soprattutto non vivranno gli emboli come prima Roberto.
+
+616
+00:33:15,760 --> 00:33:19,280
+Devo dire la verità: la possessore e non ho più utilizzatore di
+
+617
+00:33:19,280 --> 00:33:25,280
+un Bluietti e il Bluietti ha un suono: trasforma la mia voce
+
+618
+00:33:25,600 --> 00:33:33,160
+meravigliosamente, ma con pochissimo riesce a captare suoni che provengono da metri
+
+619
+00:33:29,920 --> 00:33:34,200
+di distanza.
+
+620
+00:33:34,360 --> 00:33:37,080
+Quindi, è ovvio che dopo c'è tutto il problema di quello che
+
+621
+00:33:37,240 --> 00:33:39,480
+eventualmente può entrare assieme alla tua voce.
+
+622
+00:33:39,480 --> 00:33:41,960
+Eh sì, e qui grazie Filippo per l'assist, perché
+
+623
+00:33:43,080 --> 00:33:46,920
+mi permetti di parlare delle due grandi famiglie di microfoni, microfoni dinamici,
+
+624
+00:33:47,000 --> 00:33:48,200
+microfono e condensatore.
+
+625
+00:33:48,200 --> 00:33:51,640
+Tutte queste cose, parentesi, non serve conoscerle.
+
+626
+00:33:51,640 --> 00:33:54,760
+Cioè, basta prendere il telefono, iniziare a registrare, ci piace o non
+
+627
+00:33:54,760 --> 00:33:58,040
+ci piace, continuare a registrare il telefono fino a che non pubblichiamo
+
+628
+00:33:58,200 --> 00:34:01,000
+una, due, tre, quattro, cinque puntate e vedere anche come risponde il
+
+629
+00:34:01,000 --> 00:34:01,320
+pubblico.
+
+630
+00:34:01,320 --> 00:34:04,440
+Perché noi possiamo divertirci un casino, però vorremmo una risposta.
+
+631
+00:34:04,440 --> 00:34:06,840
+La risposta magari non arriva mai e allora ci fermiamo.
+
+632
+00:34:07,160 --> 00:34:10,040
+Insomma, non è che devi sapere la differenza tra un condensatore e
+
+633
+00:34:10,040 --> 00:34:12,520
+un dinamico per poter fare un podcast.
+
+634
+00:34:12,520 --> 00:34:16,920
+Sono tutte delle informazioni che prima o poi ti troverai a incrociare
+
+635
+00:34:16,920 --> 00:34:18,520
+e un po' ti aiutano.
+
+636
+00:34:18,520 --> 00:34:21,720
+Quindi mi dispiace se adesso divento ancora più noioso di prima.
+
+637
+00:34:21,720 --> 00:34:26,440
+I microfoni dinamici, secondo me, sono i microfoni migliori per registrare a
+
+638
+00:34:26,440 --> 00:34:27,240
+casa nostra.
+
+639
+00:34:27,240 --> 00:34:30,760
+Soprattutto se l'audio non è il nostro mestiere, quindi non siamo musicisti,
+
+640
+00:34:30,760 --> 00:34:34,120
+non siamo voi sover talent e tutte quelle robe lì.
+
+641
+00:34:34,120 --> 00:34:37,960
+Un microfono dinamico devi stare, devi baciarlo perché ti registri bene la
+
+642
+00:34:37,960 --> 00:34:41,880
+voce, per cui non devi tenere un volume troppo alto, reagisce male
+
+643
+00:34:41,880 --> 00:34:45,320
+ai rumori di fondo, ai rumori ambientali, a parte le moto forti,
+
+644
+00:34:45,320 --> 00:34:47,320
+la Madonna, scusatemi.
+
+645
+00:34:47,480 --> 00:34:51,400
+E per cui è il microfono perfetto per questo tipo di prodotto
+
+646
+00:34:51,400 --> 00:34:55,560
+che stiamo facendo, perché difficilmente andremo in studio di registrazione per registrare
+
+647
+00:34:55,560 --> 00:34:56,200
+un podcast.
+
+648
+00:34:56,200 --> 00:34:58,440
+Hanno un suono un pochino più scuro, la mia voce è un
+
+649
+00:34:58,440 --> 00:35:01,560
+pochino più scura rispetto alla realtà, con questo tipo di microfono.
+
+650
+00:35:01,560 --> 00:35:02,520
+Cosa vuol dire più scuro?
+
+651
+00:35:02,520 --> 00:35:04,120
+È un pochino più cupo se vuoi.
+
+652
+00:35:04,120 --> 00:35:06,120
+Puoi rimediare in fase di post-produzione.
+
+653
+00:35:06,120 --> 00:35:10,440
+I microfoni e condensatori invece hanno al loro interno, semplificando la stragrande,
+
+654
+00:35:10,440 --> 00:35:14,880
+un piccolo amplificatore che amplifica centinaia di volte il suono che ricevono,
+
+655
+00:35:14,600 --> 00:35:16,720
+pertanto sentono qualsiasi cosa.
+
+656
+00:35:16,720 --> 00:35:20,960
+Questo permette allora di essere anche incredibilmente realistici e fedeli rispetto al
+
+657
+00:35:14,840 --> 00:35:22,320
+suono che stanno catturando.
+
+658
+00:35:22,400 --> 00:35:25,760
+I microfoni e condensatori hanno bisogno di essere elettrificati, cioè attraverso un
+
+659
+00:35:25,760 --> 00:35:28,720
+cavo XLR che si collega alla scheda audio al mixer o attraverso
+
+660
+00:35:28,720 --> 00:35:33,520
+il cavo USB, ricevono proprio alimentazione, la cosiddetta Phantom Power o 48
+
+661
+00:35:33,520 --> 00:35:33,920
+volt.
+
+662
+00:35:34,160 --> 00:35:35,520
+Quella roba lì è fondamentale.
+
+663
+00:35:35,520 --> 00:35:37,920
+Senza di quello il microfono condensatore non lavora.
+
+664
+00:35:37,920 --> 00:35:42,880
+Ci sono poi tutta una serie di altri microfoni valvolari, a nastro,
+
+665
+00:35:42,880 --> 00:35:46,560
+Lavalier che sono a condensatore, fucili o mezzi fucili, che sono anche
+
+666
+00:35:46,560 --> 00:35:50,480
+loro a condensatore, però allargheremo troppo il campo d'azione.
+
+667
+00:35:50,480 --> 00:35:50,880
+Secondo me.
+
+668
+00:35:50,880 --> 00:35:53,840
+Rimaniamo sulle due tipologie principali: dinamici e condensatore.
+
+669
+00:35:53,840 --> 00:35:56,480
+Ti piace la tua voce come suona con un microfono condensatore tipo
+
+670
+00:35:56,480 --> 00:35:57,440
+col Bluietti?
+
+671
+00:35:57,440 --> 00:36:00,320
+Usa un microfono condensatore, ma non è detto che non è il
+
+672
+00:36:00,320 --> 00:36:02,800
+microfono giusto in una stanza non trattata.
+
+673
+00:36:02,800 --> 00:36:03,760
+Chi se ne frega?
+
+674
+00:36:03,760 --> 00:36:04,640
+Ti piace va bene così?
+
+675
+00:36:04,640 --> 00:36:06,960
+Adesso sta passando un'ambulanza, si sentirà di sicuro.
+
+676
+00:36:07,120 --> 00:36:09,760
+Anche con un microfono dinamico, perché io sto usando il microfono dinamico,
+
+677
+00:36:09,760 --> 00:36:14,240
+ma certe cose, purtroppo, o sei isolato e quindi o in montagna,
+
+678
+00:36:14,240 --> 00:36:17,600
+oppure hai costruito una stanza che è isolata dal mondo esterno esterno,
+
+679
+00:36:17,600 --> 00:36:20,560
+acusticamente parlando, se no te le suchi ste robe qua.
+
+680
+00:36:21,600 --> 00:36:24,960
+O registri dentro un armadio perché è l'altra opzione o registri dentro
+
+681
+00:36:24,960 --> 00:36:30,880
+un armadio, ma lì poi potresti incappare in un problema corollario: asciughi
+
+682
+00:36:30,960 --> 00:36:34,480
+troppo il suono della tua voce: grazie, collaterale, asciughi troppo il suono
+
+683
+00:36:34,480 --> 00:36:36,560
+della tua voce e quindi suona in naturale.
+
+684
+00:36:36,560 --> 00:36:41,600
+E alcuni a questo punto inseriscono dei riverberi artificiali in fase di
+
+685
+00:36:41,600 --> 00:36:42,480
+post-produzione.
+
+686
+00:36:42,480 --> 00:36:45,840
+Perché a noi, il riverbero, quando lo ascoltiamo, quando registriamo un podcast,
+
+687
+00:36:45,840 --> 00:36:47,600
+ci fa schifo il nostro nemico numero uno.
+
+688
+00:36:47,600 --> 00:36:49,480
+Tuttavia, come essere umano, mi serve.
+
+689
+00:36:49,480 --> 00:36:53,600
+Perché innanzitutto, in una stanza, in una via, nel mondo, mi fa
+
+690
+00:36:53,600 --> 00:36:56,320
+capire dove sono, mi fa capire quali sono i rumori intorno a
+
+691
+00:36:56,320 --> 00:36:58,720
+me e se c'è del pericolo, banalmente, anche intorno a me.
+
+692
+00:36:58,720 --> 00:37:03,320
+E in seconda battuta siamo abituati a un po' di riverbero nella
+
+693
+00:36:59,760 --> 00:37:03,960
+nostra vita.
+
+694
+00:37:04,280 --> 00:37:08,040
+Se ne togliamo troppo, tipo registrando nella cabina armadio, e c'è gente
+
+695
+00:37:08,040 --> 00:37:10,920
+che ha registrato dei podcast nella cabina armadio e tutto sommato non
+
+696
+00:37:10,920 --> 00:37:11,400
+era male.
+
+697
+00:37:11,400 --> 00:37:14,360
+Però, se ne togliamo troppo di riverbero, poi suona innaturale quella roba
+
+698
+00:37:14,360 --> 00:37:14,520
+lì.
+
+699
+00:37:14,520 --> 00:37:18,280
+E quindi c'è anche lì un attimo di compromesso che dobbiamo abbracciare
+
+700
+00:37:18,520 --> 00:37:22,760
+esattamente come la qualità delle registrazioni, a volte va bene così a
+
+701
+00:37:22,760 --> 00:37:24,120
+prescindere, diciamo così.
+
+702
+00:37:24,120 --> 00:37:27,640
+Lo puoi controllare, questo riverbero, il suono della stanza, puoi controllarlo anche
+
+703
+00:37:27,640 --> 00:37:29,960
+se non sei in uno studio di registrazione.
+
+704
+00:37:29,960 --> 00:37:33,720
+Se hai la possibilità di mettere dei tappeti, i tappeti assorbono molto.
+
+705
+00:37:33,720 --> 00:37:36,280
+Se nella tua stanza c'è un divano, un letto, delle cose molto
+
+706
+00:37:36,280 --> 00:37:39,480
+morbide di tessuto, delle tende pesanti aiutano moltissimo.
+
+707
+00:37:40,440 --> 00:37:44,600
+Se le pareti non sono perfettamente parallele, anche quello aiuta.
+
+708
+00:37:44,600 --> 00:37:50,280
+Non tanto ricesso, ma soprattutto parallele, perché è il rimbalzo che dà
+
+709
+00:37:50,280 --> 00:37:51,400
+fastidio.
+
+710
+00:37:51,400 --> 00:37:55,640
+Se in più ci sono anche tipo librerie, oggetti, quadri, menate, quella
+
+711
+00:37:55,640 --> 00:37:57,560
+roba aiuta un pochino ad asciugare.
+
+712
+00:37:57,560 --> 00:38:01,160
+Per cui prima di spendere migliaia di euro in strumenti: tra l'altro
+
+713
+00:38:01,240 --> 00:38:03,000
+ero partito a quel discorso lì.
+
+714
+00:38:03,960 --> 00:38:08,840
+Il migliino di microfoni, i 4.000 euro di Neumann aiutano perché comunque
+
+715
+00:38:08,840 --> 00:38:12,120
+aiutano, perché un microfono a 4.000 euro suonerà bene quasi sempre.
+
+716
+00:38:12,360 --> 00:38:14,920
+Mi pare che ci sia un video di Francesco Bonalume del canale
+
+717
+00:38:14,920 --> 00:38:19,880
+Riperiani, più o meno il riferimento nell'audio in Italia che aveva portato
+
+718
+00:38:19,960 --> 00:38:23,560
+lui, lavora in radio, aveva portato a casa un pomeriggio un Neuman
+
+719
+00:38:23,560 --> 00:38:26,200
+da 4.000 euro e si era messo sulle scale di casa a
+
+720
+00:38:26,200 --> 00:38:28,040
+registrare, a fare una prova di registrazione.
+
+721
+00:38:28,040 --> 00:38:30,040
+Suonava bene anche sulle scale di casa.
+
+722
+00:38:30,040 --> 00:38:32,280
+Cioè, non c'è un cazzo da dire.
+
+723
+00:38:32,920 --> 00:38:36,760
+La strumentazione professionale ti fa risparmiare tempo dopo, perché con un microfono
+
+724
+00:38:36,760 --> 00:38:39,720
+di merda devi spendere del tempo in post-produzione a migliorarlo.
+
+725
+00:38:39,720 --> 00:38:43,880
+Un microfono buono, tutto sommato, ti aiuta in un certo senso.
+
+726
+00:38:43,880 --> 00:38:47,440
+Bisogna stare attenti però perché certa strumentazione iper professionale, magari non la
+
+727
+00:38:47,440 --> 00:38:51,600
+sai gestire, e quindi magari o la utilizzi male o la sottoutilizzi
+
+728
+00:38:52,000 --> 00:38:57,280
+dicendo il Roadcaster Pro 2, 700, 800, 900 euro di scheda audio
+
+729
+00:38:57,280 --> 00:39:00,560
+o 14 canali che fa anche il caffè, è strepitoso.
+
+730
+00:39:00,560 --> 00:39:03,200
+Ma se stai facendo un podcast da sola dove ti basta veramente
+
+731
+00:39:03,200 --> 00:39:07,040
+soltanto un microfono USB, comprati un microfono USB, non serve spendere 900-800
+
+732
+00:39:07,120 --> 00:39:10,080
+euro, non so quanto costi adesso il roadcaster Pro, serve magari a
+
+733
+00:39:10,080 --> 00:39:11,520
+me per lavoro, un po' capitare.
+
+734
+00:39:12,080 --> 00:39:15,920
+Poi giusto per seguire la tua tangente, poi dopo ti riporto in
+
+735
+00:39:15,920 --> 00:39:16,720
+traccia.
+
+736
+00:39:16,720 --> 00:39:19,920
+Tra altre cose, per esempio, il roadcaster ha la possibilità di collegare
+
+737
+00:39:19,920 --> 00:39:22,960
+il telefono via via Bluetooth o usb.
+
+738
+00:39:22,960 --> 00:39:28,480
+Quindi, per esempio, se vuoi miglior l'audio di una telefonica, quello può
+
+739
+00:39:28,560 --> 00:39:29,360
+diventare comodo.
+
+740
+00:39:29,360 --> 00:39:33,040
+Però abitualmente: se sei a quei livelli lì, appunto, lo sai se
+
+741
+00:39:33,040 --> 00:39:34,400
+ti serve o no un prodotto.
+
+742
+00:39:34,800 --> 00:39:41,200
+Fascia, chiamiamola così, comunque alta e con ottimi risultati finali da avere.
+
+743
+00:39:41,200 --> 00:39:45,520
+Parliamo anche oltre del microfono, che è sicuramente la parte fondamentale.
+
+744
+00:39:45,520 --> 00:39:47,760
+Tuttavia, come lo gestisco il microfono?
+
+745
+00:39:47,760 --> 00:39:52,160
+Cioè, quali accessori mi viene comodo avere e qual è l'accessorio minimo?
+
+746
+00:39:52,160 --> 00:39:55,600
+Diciamo, perché il microfono lo potrei anche tenere in mano, teoricamente.
+
+747
+00:39:56,400 --> 00:39:58,640
+Se un microfono dinamico lo puoi tenere anche in mano.
+
+748
+00:39:58,640 --> 00:40:02,000
+Per esempio, la puntata 100 di organizzazione per negati che abbiamo fatto
+
+749
+00:40:02,000 --> 00:40:05,040
+dal vivo, e l'amico Daniele Borghi che è in chat su YouTube
+
+750
+00:40:05,040 --> 00:40:06,320
+adesso lo può testimoniare.
+
+751
+00:40:06,320 --> 00:40:10,400
+Scusatemi, è stata fatta con quattro microfoni dinamici di Bering.
+
+752
+00:40:10,400 --> 00:40:12,480
+Per favore, si regge Beringer con la G dolce, non si regge
+
+753
+00:40:12,560 --> 00:40:12,960
+Bering.
+
+754
+00:40:12,960 --> 00:40:13,760
+È tenuti in mano.
+
+755
+00:40:13,760 --> 00:40:17,680
+Il microfono dinamico è il microfono dinamico tipico è quello da palco.
+
+756
+00:40:17,680 --> 00:40:21,600
+L'SM58 come cazzo, si chiama da palco.
+
+757
+00:40:21,840 --> 00:40:23,920
+L'SM58 beta, una cosa del genere.
+
+758
+00:40:24,480 --> 00:40:26,640
+Il gelato, il classico microfono gelato.
+
+759
+00:40:26,720 --> 00:40:29,360
+Quella roba lì è fatta per essere tenuta in mano, quindi puoi
+
+760
+00:40:29,360 --> 00:40:30,600
+anche tenere in mano un dinamico.
+
+761
+00:40:30,680 --> 00:40:34,040
+Il condensatore, o hai la mano molto ferma, perché fai di mestiere
+
+762
+00:40:34,040 --> 00:40:36,840
+e apri la pancia alla gente, quindi devi stare ferma col bisturi,
+
+763
+00:40:36,840 --> 00:40:39,960
+se no, è si sente molto di più che lo tocchi.
+
+764
+00:40:39,960 --> 00:40:43,080
+Anche un microfono dinamico si sente in generale perché se io adesso
+
+765
+00:40:43,080 --> 00:40:45,720
+batto il microfono sul quale sto parlando.
+
+766
+00:40:46,040 --> 00:40:47,320
+Questa roba qua si sente.
+
+767
+00:40:47,400 --> 00:40:49,560
+Sto toccando un po' i cavi le robe.
+
+768
+00:40:49,560 --> 00:40:53,800
+Anche lì un microfono di fascia medio alta, tipo il famosissimo Shure
+
+769
+00:40:54,040 --> 00:40:58,760
+SM7 beta, quello non è un caso se è il microfono più
+
+770
+00:40:58,760 --> 00:41:03,560
+usato dagli streamer e dagli youtuber dicendo perché quello lo tocchi e
+
+771
+00:41:03,560 --> 00:41:04,760
+non si sente che lo stai toccando.
+
+772
+00:41:04,760 --> 00:41:06,760
+Però è 450 euro di microfono.
+
+773
+00:41:06,760 --> 00:41:09,400
+Magari per iniziare non serve spendere così tanto.
+
+774
+00:41:09,400 --> 00:41:12,680
+Di nuovo, poi tra l'altro, scusami Filippo, ti è morto un parente,
+
+775
+00:41:12,760 --> 00:41:16,280
+hai ricevuto un'edità cospicua, spendi quello che vuoi, cioè non è che
+
+776
+00:41:16,280 --> 00:41:19,640
+poi ti devi sentire in colpa perché ti sei voluto prendere la
+
+777
+00:41:19,640 --> 00:41:20,840
+strumentazione figa.
+
+778
+00:41:20,840 --> 00:41:25,160
+Se, però, per comprarti la strumentazione figa devi mangiare latte di mais
+
+779
+00:41:25,160 --> 00:41:29,000
+e di fagioli e di tonno per un anno, magari la priorità
+
+780
+00:41:29,000 --> 00:41:33,240
+andrebbe invertita, diciamo altrove esatto, esatto.
+
+781
+00:41:33,720 --> 00:41:39,400
+Io, per esempio, appunto pur amandolo, ho investito sul buietti, ho investito
+
+782
+00:41:39,400 --> 00:41:43,480
+sul ragno del Bieti, perché poi c'è una cosa apposta, devo dire
+
+783
+00:41:43,480 --> 00:41:48,440
+la verità: l'ho usato, ho iniziato a fare i podcast, però spendendo
+
+784
+00:41:48,440 --> 00:41:53,240
+molto meno con strumentazione anche meno precisa, se vuoi.
+
+785
+00:41:53,240 --> 00:41:58,040
+Però, alla fine con la metà delo sto registrando con la metà
+
+786
+00:41:58,040 --> 00:42:01,800
+del costo attuale del BUIETI più il vario coso, senza troppi problemi.
+
+787
+00:42:01,800 --> 00:42:03,720
+E apro chiuso una piccolissima parentesi.
+
+788
+00:42:03,720 --> 00:42:07,800
+Tra l'altro, oggi, per la prima volta su A2, sto registrando invece
+
+789
+00:42:07,800 --> 00:42:09,600
+con un microfono USB.
+
+790
+00:42:09,600 --> 00:42:13,000
+Perché ho fatto tutto un cambio di gestione, quindi invece di avere
+
+791
+00:42:13,000 --> 00:42:18,080
+l'XLR solito potreste sentire una voce lievemente diversa,
+
+792
+00:42:18,240 --> 00:42:24,480
+perché questo invece è il Samurai Q21, roba del genere 2Q1: un
+
+793
+00:42:24,480 --> 00:42:26,960
+microfono dinamico USB e XLR.
+
+794
+00:42:26,960 --> 00:42:29,760
+Quindi lui ha al suo interno una scheda audio per trasformare la
+
+795
+00:42:29,760 --> 00:42:32,000
+voce della logica digitale per il computer.
+
+796
+00:42:32,000 --> 00:42:35,200
+Tra l'altro, anche al ritorno, perché c'è anche l'uscita cuffia, lui, esatto,
+
+797
+00:42:35,200 --> 00:42:37,680
+io ti sto ascoltando dalle cuffie del microfono.
+
+798
+00:42:37,680 --> 00:42:38,960
+Che è un gran casino su Zoom.
+
+799
+00:42:39,040 --> 00:42:42,000
+Quando poi ci arriviamo su Zoom su tutti quei strumenti lì per
+
+800
+00:42:42,000 --> 00:42:46,880
+registrare eventualmente da remoto, perché una volta che lo inserisci, mi è
+
+801
+00:42:46,880 --> 00:42:51,280
+partito Skype, una volta che lo inserisci, perché Roberto è morto, direi
+
+802
+00:42:51,280 --> 00:42:52,240
+che non c'è più.
+
+803
+00:42:52,400 --> 00:42:58,640
+Ora che guardavo, dicevo su Zoom o su Skype, tutti quei programmi
+
+804
+00:42:58,640 --> 00:43:00,720
+lì, viene vista come schedaud esterna.
+
+805
+00:43:00,720 --> 00:43:02,960
+Quindi uno si aspetta di sentire la voce dalle casse del computer
+
+806
+00:43:02,960 --> 00:43:05,120
+e non sente più niente perché deve attaccare le cuffiette.
+
+807
+00:43:06,320 --> 00:43:08,160
+Direttamente a quel tipo di microfono lì.
+
+808
+00:43:08,160 --> 00:43:09,360
+Però, sì, per esempio,
+
+809
+00:43:10,480 --> 00:43:14,320
+a parte alcuni microfoni che possono essere tenuti in mano, la maggior
+
+810
+00:43:14,320 --> 00:43:16,480
+parte ha bisogno di un'asta per essere eretto.
+
+811
+00:43:16,480 --> 00:43:19,680
+E ci sono aste di vari tipi a forbice, tipo la lampada
+
+812
+00:43:19,680 --> 00:43:24,080
+della Pixar, oppure basi molto pesanti che tengano fermo il microfono sulla
+
+813
+00:43:24,080 --> 00:43:24,720
+scivania.
+
+814
+00:43:24,720 --> 00:43:27,760
+E una cosa che si deve imparare e che io dopo 12-15
+
+815
+00:43:27,760 --> 00:43:30,960
+anni ho ancora in cappello è non toccare il microfono.
+
+816
+00:43:31,680 --> 00:43:35,120
+Quando si gesticola mentre si parla non va toccato il microfono, non
+
+817
+00:43:35,120 --> 00:43:38,960
+va neanche sferato il microfono, il tavolo, il cavo.
+
+818
+00:43:38,960 --> 00:43:43,440
+Tutte queste cose qui potrebbero venire registrate, soprattutto se, per esempio, il
+
+819
+00:43:43,440 --> 00:43:47,920
+microfono è attaccato alla scrivania senza quello che tu hai definito, perché
+
+820
+00:43:48,240 --> 00:43:51,680
+è effettivamente il nome tecnico: il ragno, cioè è una cosa che
+
+821
+00:43:51,680 --> 00:43:55,120
+isola il microfono attraverso una serie di elastici e fa in modo
+
+822
+00:43:55,120 --> 00:43:58,560
+che il microfono non riceva le vibrazioni della scrivania.
+
+823
+00:43:58,560 --> 00:43:59,920
+Faccio per dire se la colpisco.
+
+824
+00:43:59,960 --> 00:44:03,640
+Nel caso mio, con i gatti che zompano ovunque sarebbe ce li
+
+825
+00:44:03,640 --> 00:44:08,520
+ho, ho 4-5 diversi ragni, ma non li uso perché comunque una
+
+826
+00:44:08,520 --> 00:44:11,640
+rottura di bella in più voglio essere un po' più agile da
+
+827
+00:44:11,640 --> 00:44:12,280
+questo punto di vista.
+
+828
+00:44:12,280 --> 00:44:16,520
+Però, se si ha la possibilità, compriamo anche un ragno assieme all'asta
+
+829
+00:44:16,760 --> 00:44:20,280
+che sia appunto da scrivania oppure a forbice.
+
+830
+00:44:20,280 --> 00:44:24,360
+I cavi ci sono spesso su Amazon delle offerte di cavi anche
+
+831
+00:44:24,360 --> 00:44:27,320
+relativamente poco economiche, poco costose, scusami.
+
+832
+00:44:27,320 --> 00:44:30,440
+Però almeno un cavo buono e per cavo buono vuol dire tipo
+
+833
+00:44:30,440 --> 00:44:35,160
+almeno 5-6 euro a metro, anche di più, investiamo non subito.
+
+834
+00:44:35,160 --> 00:44:37,880
+Di nuovo becchiamoci la merda che troviamo in offerta.
+
+835
+00:44:37,880 --> 00:44:42,200
+Tuttavia, prima o poi facciamo un investimento per prima, per esempio, stavamo
+
+836
+00:44:42,280 --> 00:44:44,280
+facendo delle prove di registrazione con Filippo.
+
+837
+00:44:44,280 --> 00:44:48,040
+Mi sentiva male con un fortissimo fruscio e rumore di fondo.
+
+838
+00:44:48,040 --> 00:44:49,960
+Questa cosa l'avevo già captata.
+
+839
+00:44:49,960 --> 00:44:53,720
+Non volevo crederci, non stasera l'avevo captata nelle settimane scorse.
+
+840
+00:44:53,720 --> 00:44:56,760
+Non volevo crederci e invece ho dovuto crederci il cavo, dove fa
+
+841
+00:44:56,760 --> 00:44:57,960
+schifo e lo devo buttare.
+
+842
+00:44:57,960 --> 00:45:01,880
+Poi per fortuna mi escono cavi da sotto il materasso, quindi non
+
+843
+00:45:01,880 --> 00:45:02,680
+è un problema.
+
+844
+00:45:02,680 --> 00:45:05,720
+Però fosse stato il mio unico cavo, per esempio, sarei rimasto fregato.
+
+845
+00:45:06,120 --> 00:45:07,960
+A me è capitato lo stesso discorso.
+
+846
+00:45:08,440 --> 00:45:11,000
+Avevo tutta una serie di problemi che non capivo da dove venivano
+
+847
+00:45:11,000 --> 00:45:11,320
+fuori.
+
+848
+00:45:11,320 --> 00:45:14,920
+O adattatore a seconda del tipo di strumento che stiamo usando, cavo,
+
+849
+00:45:14,920 --> 00:45:18,920
+alla fine, ho cambiato il cavo, perché poi ovviamente lavorando con un
+
+850
+00:45:18,920 --> 00:45:23,720
+segnale elettrico è ovvio che se avete tensioni latenti, adesso poi
+
+851
+00:45:26,360 --> 00:45:28,120
+da elettricità sono zero.
+
+852
+00:45:28,520 --> 00:45:30,920
+Che sappiamo ci sono, ma non sappiamo come funzionano.
+
+853
+00:45:31,000 --> 00:45:32,760
+Questo aneddoto lo racconto sempre.
+
+854
+00:45:32,760 --> 00:45:35,480
+Una volta stavo facendo una registrazione, avevo attaccato il mixer o la
+
+855
+00:45:35,480 --> 00:45:37,080
+scheda audio, adesso, non mi ricordo cosa fosse.
+
+856
+00:45:37,080 --> 00:45:37,960
+Doveva essere alimentata.
+
+857
+00:45:37,960 --> 00:45:38,320
+Comunque.
+
+858
+00:45:38,320 --> 00:45:41,480
+Alla presa a cui lo attaccavo sempre e c'era un ronzio che
+
+859
+00:45:41,480 --> 00:45:42,200
+non si toglieva.
+
+860
+00:45:42,200 --> 00:45:44,520
+Ho staccato, ho preso una prolunga, tra l'altro le robe peggiori che
+
+861
+00:45:46,240 --> 00:45:49,840
+avessi potuto fare, l'ho attaccato a un'altra presa e il rzio era
+
+862
+00:45:44,920 --> 00:45:50,160
+sparito.
+
+863
+00:45:50,320 --> 00:45:55,120
+Evidentemente sulla colonna di quella sera c'era una lavatrice a tre piani,
+
+864
+00:45:55,200 --> 00:45:57,920
+non lo so, c'era qualcosa che, però, elettricamente rompeva le balle.
+
+865
+00:45:57,920 --> 00:46:02,800
+E sono tutte piccole cose che si potrebbero incontrare oggi, molto meno
+
+866
+00:46:02,800 --> 00:46:05,600
+di anni fa, perché comunque la maggior parte delle schede audi e
+
+867
+00:46:05,600 --> 00:46:08,640
+dei cavi sono schermati: il telefono non emette più così tante interferenze
+
+868
+00:46:08,720 --> 00:46:10,160
+e tutte quelle menate lì.
+
+869
+00:46:10,160 --> 00:46:12,240
+Tuttavia, comunque qualcosa potresti trovare ancora?
+
+870
+00:46:12,240 --> 00:46:14,400
+Tra gli accessori, lo mettiamo il filtro al tipo.
+
+871
+00:46:14,480 --> 00:46:16,720
+Stavo giusto per parlare di lui o della spugnetta.
+
+872
+00:46:16,720 --> 00:46:18,720
+Io il filtro del T pop lo uso molto molto poco.
+
+873
+00:46:18,800 --> 00:46:22,320
+Uso di più la spugnetta, per esempio, sono dei due strumenti che
+
+874
+00:46:22,320 --> 00:46:25,680
+funzionano in maniera simile anche se non sono proprio identici e servono
+
+875
+00:46:25,680 --> 00:46:30,640
+fondamentalmente alla stessa cosa, cioè evitare che siamo troppo vicini al microfono
+
+876
+00:46:30,640 --> 00:46:34,800
+e evitare l'effetto delle plosive: cioè quando diciamo pizza e la P
+
+877
+00:46:34,880 --> 00:46:39,760
+esplode, o quando diciamo Filippo e anche la F esplode, perché la
+
+878
+00:46:39,760 --> 00:46:43,920
+nostra emissione di fiato colpisce le capsule del microfono in maniera troppo
+
+879
+00:46:43,920 --> 00:46:46,960
+violenta e le capsule esplodono in quel momento lì.
+
+880
+00:46:46,960 --> 00:46:50,640
+Normalmente se stiamo registrando con un software di qualsiasi tipo e vediamo
+
+881
+00:46:50,640 --> 00:46:56,480
+le forme d'onda, quella onicella tipica delle registrazioni audio, ci sono dei
+
+882
+00:46:56,480 --> 00:46:58,800
+picchi notevoli in quei punti lì.
+
+883
+00:46:59,200 --> 00:47:02,320
+Il filtro anti-pop è molto comodo perché proprio fisicamente non ti puoi
+
+884
+00:47:02,320 --> 00:47:04,160
+avvicinare più di tanto al microfono.
+
+885
+00:47:04,160 --> 00:47:08,800
+I microfoni di fascia più alta hanno uno o due addirittura filtri
+
+886
+00:47:08,800 --> 00:47:14,400
+anti-pop, scusami, spugnette o filtri anti-pop incorporati proprio all'interno della struttura del
+
+887
+00:47:14,400 --> 00:47:15,440
+microfono stesso.
+
+888
+00:47:15,440 --> 00:47:18,320
+Io preferisco di più la spugnetta, però sono veramente questi personaggi.
+
+889
+00:47:18,320 --> 00:47:20,160
+Sì, anche io sono con la spugnetta.
+
+890
+00:47:20,160 --> 00:47:24,160
+Ho anche i filtri anti-pop, però alla fine adesso sono proprio dei
+
+891
+00:47:24,160 --> 00:47:29,360
+cerchi diciamo di tessuto trasparente che però cercano di evitare
+
+892
+00:47:30,760 --> 00:47:35,000
+l'onda che viene generata dalla bocca con le plausi, ovviamente.
+
+893
+00:47:29,840 --> 00:47:37,320
+Tutti effettivamente ti complicano la vita.
+
+894
+00:47:37,400 --> 00:47:38,840
+A me piace muovere.
+
+895
+00:47:38,840 --> 00:47:42,440
+Io adesso sto, per esempio, muovendo il microfono in me stesso, e
+
+896
+00:47:42,440 --> 00:47:47,480
+quindi il ragno mi aiuta a far sentire meno questi movimenti, non
+
+897
+00:47:47,480 --> 00:47:48,360
+si sentono.
+
+898
+00:47:49,000 --> 00:47:54,520
+Insomma, devo far vedere anche ogni tanto qualcosa riesco a fare anch'io.
+
+899
+00:47:54,760 --> 00:47:57,080
+Tuttavia, il discorso di fondo è proprio questo.
+
+900
+00:47:57,080 --> 00:48:02,360
+Adesso ho detto un però un po' violento, chiamiamolo così, con la
+
+901
+00:48:02,360 --> 00:48:06,760
+parte ascendente, perché poi questo forse è già troppo tecnico.
+
+902
+00:48:06,760 --> 00:48:10,520
+Però è ovvio che abitualmente si inizia a parlare forte e poi
+
+903
+00:48:10,520 --> 00:48:11,720
+si scende
+
+904
+00:48:13,000 --> 00:48:18,920
+con l'esperienza, sostanzialmente, soprattutto parlando molto davanti ai microfoni e ascoltandosi, si
+
+905
+00:48:18,920 --> 00:48:24,600
+riesce a migliorare, anche se almeno la mia esperienza con Roberto è
+
+906
+00:48:24,600 --> 00:48:27,800
+sempre stata che a fine puntata siamo visivamente più scarichi.
+
+907
+00:48:27,800 --> 00:48:33,160
+Soprattutto io vedo l'editing e quindi vedo l'onda che progressivamente scende di
+
+908
+00:48:33,160 --> 00:48:34,040
+dimensione.
+
+909
+00:48:34,040 --> 00:48:38,760
+Però hai toccato un punto molto molto importante che è riascoltarsi: che
+
+910
+00:48:38,760 --> 00:48:42,040
+è borderline con il egocentrismo.
+
+911
+00:48:42,040 --> 00:48:44,840
+Però se non ci si risente non si capisce che cosa si
+
+912
+00:48:44,840 --> 00:48:46,200
+sta sbagliando eventualmente.
+
+913
+00:48:46,600 --> 00:48:51,000
+Capiscono eventualmente anche i tic mentali o verbali, cioè le cose che
+
+914
+00:48:51,240 --> 00:48:55,320
+quelle parole che utilizziamo per riempire i momenti in cui non sappiamo
+
+915
+00:48:55,320 --> 00:48:57,560
+cosa dire, oppure che utilizziamo troppo.
+
+916
+00:48:57,560 --> 00:49:00,840
+Quella roba lì se non ci riascoltiamo, non sappiamo che esiste e
+
+917
+00:49:00,840 --> 00:49:03,240
+non sappiamo eventualmente che dobbiamo togliere qualcosa.
+
+918
+00:49:03,240 --> 00:49:05,560
+Tipo tra parentesi, no?
+
+919
+00:49:05,560 --> 00:49:07,520
+Tu dicevi tanto tra virgolette, per esempio.
+
+920
+00:49:07,520 --> 00:49:09,480
+Anche tra virgolette, dai, hai ragione, è vero, è vero.
+
+921
+00:49:09,640 --> 00:49:12,120
+Infatti, una volta ho detto Filippo: devo dirti una cosa, secondo me
+
+922
+00:49:12,280 --> 00:49:16,720
+mi odirai, però, secondo me dici troppo, lo so, perché tu ti
+
+923
+00:49:16,720 --> 00:49:19,120
+risenti e lo sai, e ci vuole tempo:
+
+924
+00:49:21,120 --> 00:49:25,200
+poi cerchi di, però appunto, poi sono le espressioni di dire i
+
+925
+00:49:25,200 --> 00:49:29,360
+modi di dire che fai fatica, cioè progressivamente pian pianino.
+
+926
+00:49:29,360 --> 00:49:31,280
+Perché rimane un work in progress questa.
+
+927
+00:49:31,600 --> 00:49:34,960
+Appunto, sono vari anni che lo faccio, esatto, esatto.
+
+928
+00:49:35,520 --> 00:49:38,400
+Quindi certe espressioni, anche solo lei
+
+929
+00:49:40,000 --> 00:49:46,640
+all'inizio le fai molte, io faccio su podcast raramente ci sentite fare
+
+930
+00:49:46,640 --> 00:49:49,360
+queste cose perché taglio con l'accetta.
+
+931
+00:49:49,360 --> 00:49:53,600
+Ma se si sentisse normalmente, ho molte più e così via.
+
+932
+00:49:54,400 --> 00:49:57,600
+Parliamo subito di quella roba lì, già che ci siamo qua o
+
+933
+00:49:57,600 --> 00:49:59,360
+ti sconvolgo la scaletta troppo.
+
+934
+00:49:59,360 --> 00:50:01,040
+No, no, no, vai tranquillo, vai tranquillo.
+
+935
+00:50:01,200 --> 00:50:03,520
+E io sono, per esempio, a meno che non sia un lavoro
+
+936
+00:50:03,520 --> 00:50:07,680
+che sto facendo, però, tendenzialmente i lavori che faccio hanno anche una,
+
+937
+00:50:07,680 --> 00:50:09,200
+chiamiamolo un copione.
+
+938
+00:50:09,200 --> 00:50:13,520
+Io normalmente taglio pochissimo, a meno che non ci siano 10 secondi
+
+939
+00:50:13,520 --> 00:50:16,320
+di silenzio che bisogna intervenire.
+
+940
+00:50:16,320 --> 00:50:21,200
+Ma taglio pochissimo perché la mia filosofia è che quello che finisce
+
+941
+00:50:21,200 --> 00:50:25,440
+in puntata deve essere quanto più trasparente, quanto più realistico, nel senso
+
+942
+00:50:25,520 --> 00:50:28,960
+corrispondente al vero, rispetto a quello che sono e faccio.
+
+943
+00:50:28,960 --> 00:50:31,600
+E di nuovo dipende tantissimo dal tipo di programma.
+
+944
+00:50:31,600 --> 00:50:35,920
+Però, per esempio, quando registravamo Ricciotto, che adesso è un programma di
+
+945
+00:50:35,920 --> 00:50:40,720
+cinema, adesso è in un momento di pausa tecnica perché siamo incasinatissime.
+
+946
+00:50:40,720 --> 00:50:43,840
+Ma non ci ricordavamo il nome di un attore, di un'attrice, di
+
+947
+00:50:43,840 --> 00:50:45,520
+un regista, di una storia, di un film.
+
+948
+00:50:45,520 --> 00:50:47,680
+Dicevamo, cazzo, in questo momento non mi viene in mente.
+
+949
+00:50:47,680 --> 00:50:51,600
+Allora, mentre eravamo in tre, mentre una delle altre due persone andava
+
+950
+00:50:51,600 --> 00:50:54,320
+avanti, io andavo a controllare quelle robe e poi intervenivo.
+
+951
+00:50:54,320 --> 00:50:57,760
+Ma lì era anche una cosa, adesso dico una parola che non
+
+952
+00:50:57,760 --> 00:50:59,920
+c'entra niente, anche politica perché.
+
+953
+00:50:59,720 --> 00:51:04,360
+Perché volevamo che il podcast fosse quanto vicina a una chiacchierata tra
+
+954
+00:51:04,360 --> 00:51:07,800
+amici che sanno, che conoscono molto bene quell'argomento.
+
+955
+00:51:07,800 --> 00:51:14,280
+E togliere qualsiasi aura di maestà, usiamo un'altra parolaccia, che effettivamente creare
+
+956
+00:51:14,280 --> 00:51:16,920
+un contenuto, parlare di fronte al microfono o rivolgersi a un pubblico,
+
+957
+00:51:17,000 --> 00:51:18,920
+anche inconsciamente ti butta addosso.
+
+958
+00:51:18,920 --> 00:51:21,720
+E quindi tu anche i gatti che facevano casino, in certi momenti
+
+959
+00:51:21,880 --> 00:51:25,560
+ho tagliato delle cose, ovviamente, perché o eravamo andati fuori strada, o
+
+960
+00:51:25,560 --> 00:51:28,280
+che ne so, io non ci si sentiva quando abbiamo registrato da
+
+961
+00:51:28,280 --> 00:51:28,760
+remoto.
+
+962
+00:51:28,920 --> 00:51:33,640
+Tuttavia, normalmente quello che finisce 18 è 18, proprio dritto per dritto.
+
+963
+00:51:33,720 --> 00:51:35,080
+Ovviamente dipende dai gusti.
+
+964
+00:51:35,080 --> 00:51:38,440
+Io, per esempio, che sono dall'altra parte: allora diciamo, tu hai due
+
+965
+00:51:38,440 --> 00:51:43,400
+podcast perché il mio ragionamento sono puntate monotematiche abitualmente.
+
+966
+00:51:43,400 --> 00:51:48,840
+E solitamente addirittura potreste ascoltare questa puntata perché interessa fare il podcast,
+
+967
+00:51:48,840 --> 00:51:50,840
+ma tutto il resto non te ne può fregare di meno.
+
+968
+00:51:50,840 --> 00:51:55,240
+E io sono della teoria che tutto il superfluo, chiamiamolo in questa
+
+969
+00:51:55,240 --> 00:52:00,280
+maniera lo tolgo perché in questa maniera chi ascolta, ascolta un concentrato
+
+970
+00:52:00,920 --> 00:52:02,680
+il meglio che possiamo dare.
+
+971
+00:52:02,680 --> 00:52:03,640
+E questo è il mio approccio.
+
+972
+00:52:03,960 --> 00:52:05,240
+E ci sta, ci sta.
+
+973
+00:52:05,240 --> 00:52:05,560
+Però
+
+974
+00:52:07,080 --> 00:52:10,760
+, soprattutto perché, tra l'altro, stiamo chiedendo loro del tempo prezioso della loro
+
+975
+00:52:10,760 --> 00:52:14,760
+vita, che nessuno restituirà mai, per cui è giustissimo dare loro contenuti
+
+976
+00:52:14,760 --> 00:52:15,320
+di valore.
+
+977
+00:52:15,640 --> 00:52:20,040
+Questo è fondamentale, la base proprio, però quel minimo diciuramento nel manico
+
+978
+00:52:20,200 --> 00:52:22,200
+ti permette di creare un rapporto con le persone.
+
+979
+00:52:22,280 --> 00:52:26,440
+No, no, beh, allora, poi ovvio che a volte le sbavature è
+
+980
+00:52:26,760 --> 00:52:30,040
+quello che non serve proprio a niente, cerco di toglierlo, quello che
+
+981
+00:52:30,040 --> 00:52:34,040
+invece ha un suo perché, o se prendiamo una tangente che veramente
+
+982
+00:52:34,040 --> 00:52:38,760
+non ha senso, allora cerco di fare, diciamo, comunque raffinare il prodotto,
+
+983
+00:52:38,760 --> 00:52:41,000
+mettiamola così, senza ovviamente snaturarlo.
+
+984
+00:52:41,080 --> 00:52:42,200
+Sì, sì, sì, quello è vero.
+
+985
+00:52:42,200 --> 00:52:46,000
+Soprattutto dopo un tot di tempo, io adesso dimelo tu però immagino
+
+986
+00:52:46,080 --> 00:52:48,800
+che i tagli che tu debba fare oggi per questi motivi qui
+
+987
+00:52:48,960 --> 00:52:51,040
+siano minori rispetto a quelli di quattro anni fa.
+
+988
+00:52:44,840 --> 00:52:51,680
+Sì, sì, sì, sì.
+
+989
+00:52:52,400 --> 00:52:58,320
+Anche perché sono diventato la sopravvivenza, comunque fare ammetto di aver creato
+
+990
+00:52:58,320 --> 00:53:02,480
+un flusso di lavoro abbastanza ottimizzato per le mie esigenze.
+
+991
+00:53:02,880 --> 00:53:05,200
+Dopo, casomai, c'è tempo, ne parliamo un attimo.
+
+992
+00:53:05,200 --> 00:53:10,000
+Tuttavia, il discorso è ovvio che essere troppo precisini, a parte che
+
+993
+00:53:10,000 --> 00:53:14,880
+è un mio grande difetto, quindi cerco sempre di non cercare l'ottima,
+
+994
+00:53:14,960 --> 00:53:17,520
+ma di farmi andare bene da lavoro, sei anche abituato per lavoro,
+
+995
+00:53:17,520 --> 00:53:19,840
+cioè, se non sei preciso sul lavoro, sono
+
+996
+00:53:21,120 --> 00:53:22,240
+problemici!
+
+997
+00:53:22,720 --> 00:53:26,080
+C'è una forma mentis che è quella e quindi è anche complicato.
+
+998
+00:53:26,080 --> 00:53:30,800
+Poi, appunto ho iniziato ascoltando i podcast inglesi che sono in lingua
+
+999
+00:53:30,800 --> 00:53:34,560
+inglese, che sono un pelino sopra, ma perché sono avanti a noi
+
+1000
+00:53:34,560 --> 00:53:37,040
+rispetto a tante cose, diciamo.
+
+1001
+00:53:37,040 --> 00:53:40,000
+E quindi ho comunque sempre quel ricordo.
+
+1002
+00:53:40,000 --> 00:53:42,800
+Non so se mi spiego, e quel raffronto che poi abbiamo anche
+
+1003
+00:53:42,800 --> 00:53:49,760
+già detto prima che effettivamente non bisogna pensare a la produzione da
+
+1004
+00:53:49,760 --> 00:53:54,400
+100.000 euro del podcast, o quella NPR che è perfetta con tutte
+
+1005
+00:53:54,400 --> 00:53:56,640
+le siglette, con tutti i momenti.
+
+1006
+00:53:56,640 --> 00:54:00,640
+È ovvio che si possono fare, credo che tu faccia delle cose
+
+1007
+00:54:00,640 --> 00:54:03,920
+anche di questo genere, però è ovvio che hanno dei costi, hanno,
+
+1008
+00:54:03,920 --> 00:54:07,360
+hanno un lavoro dietro che è un monte ora anche di lavoro
+
+1009
+00:54:07,360 --> 00:54:10,560
+dietro che è totalmente diverso casomai da un podcast come questo che
+
+1010
+00:54:10,560 --> 00:54:12,240
+è amatoriale, comunque
+
+1011
+00:54:14,240 --> 00:54:18,400
+con l'esperienza certe cose e riascoltandosi, certe cose si capiscono e si
+
+1012
+00:54:18,400 --> 00:54:20,160
+evitano proprio in fase di registrazione.
+
+1013
+00:54:20,160 --> 00:54:24,000
+Cioè, dopo 530 puntate, è ovvio che una volta che ho finito
+
+1014
+00:54:24,000 --> 00:54:26,640
+di registrare il riciotto, ok, sistemo un po' i volumi, faccio un
+
+1015
+00:54:26,640 --> 00:54:27,520
+attimo di eh.
+
+1016
+00:54:27,520 --> 00:54:31,240
+Però poi la puntata poteva già uscire così come era stata registrata,
+
+1017
+00:54:31,240 --> 00:54:35,160
+dritta per dritta, ma perché dopo 530 puntate, si siamo abituati anche
+
+1018
+00:54:35,160 --> 00:54:38,760
+noi proprio a fare il podcast al netto della parte tecnica, proprio
+
+1019
+00:54:39,000 --> 00:54:40,440
+che anche quella è importante.
+
+1020
+00:54:40,680 --> 00:54:42,360
+Roberto, qualcosa da.
+
+1021
+00:54:42,920 --> 00:54:47,240
+No, francamente no, stavo ascoltandovi e in effetti sposo tutto quanto.
+
+1022
+00:54:47,240 --> 00:54:53,400
+Il grosso del problema, secondo me, che tanto sottovalutato, è appunto l'editing:
+
+1023
+00:54:53,400 --> 00:54:57,960
+l'editing è un problema non da poco conto perché porta via un
+
+1024
+00:54:57,960 --> 00:54:58,840
+sacco di tempo.
+
+1025
+00:54:58,840 --> 00:54:59,960
+Se lo fai, sì.
+
+1026
+00:55:00,280 --> 00:55:06,040
+Quando iniziavo in quelle personali, ho iniziato, ero molto cattivo con me
+
+1027
+00:55:06,040 --> 00:55:09,960
+stesso, nel senso che c'erano anche più errori, ma ero anche molto
+
+1028
+00:55:10,200 --> 00:55:10,760
+più cattivo.
+
+1029
+00:55:10,760 --> 00:55:14,040
+Adesso tante cose le lascio passare in scioltezza perché mi rendo conto
+
+1030
+00:55:14,040 --> 00:55:16,920
+che alla fine erano soltanto fisi mie.
+
+1031
+00:55:17,080 --> 00:55:18,760
+Mi perdevo solo del gran tempo.
+
+1032
+00:55:18,840 --> 00:55:19,960
+L'editing è
+
+1033
+00:55:21,240 --> 00:55:22,840
+veramente alchimia quella roba lì.
+
+1034
+00:55:23,080 --> 00:55:26,520
+È la pietra filosofale, non c'è la maniera giusta o la maniera
+
+1035
+00:55:26,520 --> 00:55:29,880
+sbagliata di farla, perché di nuovo appunto io per lavoro faccio delle
+
+1036
+00:55:29,880 --> 00:55:33,640
+robe molto molto più pulite rispetto a quelle dei miei podcast personali.
+
+1037
+00:55:33,640 --> 00:55:37,960
+Addirittura alcuni rimangono proprio degli errori anche marchiani, ma perché appunto è
+
+1038
+00:55:37,960 --> 00:55:40,280
+tutta una questione di visione del mondo, bla bla bla.
+
+1039
+00:55:40,280 --> 00:55:44,040
+Ma anzi, permettetemi di usare una parolaccia mentre passa la moto, è
+
+1040
+00:55:44,040 --> 00:55:45,880
+tutta una questione di Welt Shaung.
+
+1041
+00:55:45,880 --> 00:55:49,240
+Quindi a seconda di come guardi il mondo, ti ci muovi anche
+
+1042
+00:55:49,240 --> 00:55:50,760
+e agisci di conseguenza.
+
+1043
+00:55:50,760 --> 00:55:54,360
+Però, se uno invece lo vuole fare, che lo faccia sapendo che
+
+1044
+00:55:55,160 --> 00:55:56,920
+potrebbe portare via un botto di tempo.
+
+1045
+00:55:56,920 --> 00:56:02,040
+Le intelligenze artificiali, chiamiamole così, magari nei prossimi anni ci aiuteranno anche
+
+1046
+00:56:02,040 --> 00:56:05,720
+in questo, visto che già lo fanno, per esempio, per il video.
+
+1047
+00:56:05,720 --> 00:56:09,000
+Sicuramente per il video, a me piace talmente tanto: proprio la parte
+
+1048
+00:56:09,000 --> 00:56:13,320
+di spippolamento, sporcarsi le mani, tagliare le cose, spostare le cose del
+
+1049
+00:56:13,320 --> 00:56:18,000
+mio lavoro che non sono neanche andato a cercarmi delle cose, degli
+
+1050
+00:56:18,000 --> 00:56:21,920
+strumenti informatici digitali che possano aiutarmi a risparmiare il tempo da questo
+
+1051
+00:56:21,920 --> 00:56:22,320
+punto di vista.
+
+1052
+00:56:22,320 --> 00:56:23,600
+Perché proprio mi piacciono.
+
+1053
+00:56:23,600 --> 00:56:25,680
+Cioè, mi piace anche quella parte lì del mio lavoro.
+
+1054
+00:56:25,680 --> 00:56:28,160
+Sono un po' un artigiano, se volete, da questo punto di vista,
+
+1055
+00:56:28,160 --> 00:56:31,360
+quindi scalo molto molto poco, purtroppo.
+
+1056
+00:56:31,360 --> 00:56:34,560
+Però dipende tutto da quello che devi fare e da quello che
+
+1057
+00:56:34,560 --> 00:56:38,000
+vuoi che da come vuoi che suoni il podcast tuo.
+
+1058
+00:56:38,000 --> 00:56:40,880
+Perché ricordiamoci che chi se ne ha, cioè sei tu che devi
+
+1059
+00:56:40,880 --> 00:56:42,240
+decidere se ti piace pure no.
+
+1060
+00:56:42,240 --> 00:56:45,680
+E il pubblico, certo, però io ho visto fare a Daniele Borghi,
+
+1061
+00:56:45,680 --> 00:56:48,400
+cioè a Daniele, che lo prendo sempre in giro per queste robe
+
+1062
+00:56:48,400 --> 00:56:52,640
+qua, delle cose con plugin, mica plugin, delle robe, delle catene infinite
+
+1063
+00:56:52,640 --> 00:56:58,160
+di effetti, che poi effettivamente eri anche riuscito a semplificare.
+
+1064
+00:56:58,160 --> 00:57:00,720
+Però lui piaceva come suona la sua voce e andava bene.
+
+1065
+00:57:00,720 --> 00:57:03,680
+Spoiler, non ti piacerà mai come suona la tua voce, cercai sempre
+
+1066
+00:57:03,680 --> 00:57:06,560
+qualcosa di meglio e non lo troverai mai qualcosa di meglio.
+
+1067
+00:57:06,560 --> 00:57:09,760
+Però anche il percorso è una cosa importante perché ti aiuta a
+
+1068
+00:57:09,760 --> 00:57:13,040
+prendere confidenza con te stesso, con come vedi il mondo di nuovo,
+
+1069
+00:57:13,040 --> 00:57:16,880
+come senti le cose che ti piacciono e come poi agisci di
+
+1070
+00:57:16,880 --> 00:57:18,480
+conseguenza con la strumentazione che hai.
+
+1071
+00:57:18,480 --> 00:57:21,680
+Un suggerimento che do: cioè è solo tangenziale.
+
+1072
+00:57:21,680 --> 00:57:23,840
+Impariamo a usare queste dannate orecchie.
+
+1073
+00:57:23,840 --> 00:57:27,760
+Quando guardiamo un film, quando ascoltiamo la musica, quando siamo per strada,
+
+1074
+00:57:27,760 --> 00:57:32,560
+quando passiamo sotto l'arco di una porta, sentiamo come cambia la nostra
+
+1075
+00:57:32,560 --> 00:57:33,360
+voce, per esempio.
+
+1076
+00:57:33,360 --> 00:57:36,480
+Oppure una cosa che dico sempre nei corsi: Dracula è un film
+
+1077
+00:57:36,480 --> 00:57:43,360
+che è fatto dal 50% dalle interpretazioni straordinarie, dal 50% da fotografie
+
+1078
+00:57:43,360 --> 00:57:46,480
+e tecniche di effetti speciali che risalgono a 150 anni fa più
+
+1079
+00:57:46,480 --> 00:57:47,040
+o meno.
+
+1080
+00:57:47,040 --> 00:57:51,040
+E un 80% ulteriore dal suono: come si muove Dracula, quello che
+
+1081
+00:57:51,040 --> 00:57:52,600
+fa, quello che succede intorno.
+
+1082
+00:57:52,680 --> 00:57:53,680
+Gli animali.
+
+1083
+00:57:53,680 --> 00:57:55,440
+Cioè, sono tutte delle cose che sono.
+
+1084
+00:57:55,600 --> 00:58:00,280
+L'attenzione di quel film è creata proprio con il con l'audio, col
+
+1085
+00:58:00,000 --> 00:58:00,680
+suono.
+
+1086
+00:58:00,840 --> 00:58:04,680
+Per cui ovvio che non dobbiamo fare una roba del genere ogni
+
+1087
+00:58:04,680 --> 00:58:07,560
+volta che ci mettiamo di fronte al microfono, ovvio, però impariamo a
+
+1088
+00:58:07,560 --> 00:58:10,200
+riconoscere quelle cose lì e impariamo a goderne anche.
+
+1089
+00:58:10,200 --> 00:58:13,480
+Quanto sono andato fuori strada, no, no, no, ma io tanto sai
+
+1090
+00:58:13,560 --> 00:58:16,040
+che vi rimetto in careggiato.
+
+1091
+00:58:16,040 --> 00:58:20,360
+Parliamo prima di parlare di editing, anche se ne abbiamo già accennato,
+
+1092
+00:58:20,360 --> 00:58:23,720
+parliamo a questo punto dell'altro step di tutta la vicenda che però
+
+1093
+00:58:23,800 --> 00:58:26,200
+è fondamentale: cioè come si registra un podcast?
+
+1094
+00:58:26,200 --> 00:58:29,960
+Perché alla fine di tutta la vicenda abbiamo il microfono meraviglioso o
+
+1095
+00:58:29,960 --> 00:58:35,320
+meno meraviglioso, abbiamo deciso i contenuti, abbiamo iniziato a provare a parlare,
+
+1096
+00:58:35,320 --> 00:58:39,160
+ma dobbiamo registrare tutte queste nostre parole, diciamo.
+
+1097
+00:58:39,160 --> 00:58:43,400
+Ci sono vari gradini anche lì, perché non è detto che l'aspetto
+
+1098
+00:58:43,400 --> 00:58:48,120
+tecnologico, e per tecnologia non intendo soltanto il computer, ma banalmente anche
+
+1099
+00:58:48,120 --> 00:58:52,520
+un mixer del 1968, non è detto che l'aspetto tecnologico sia uno
+
+1100
+00:58:52,520 --> 00:58:55,240
+dei nostri, debba essere per forza uno dei nostri punti di forza.
+
+1101
+00:58:55,240 --> 00:58:57,720
+Per cui per esempio Roberto in questo momento, anche perché se no
+
+1102
+00:58:57,880 --> 00:59:02,760
+ci avrebbe accoltellati, sta registrando con Quick Time, che è un'app molto
+
+1103
+00:59:02,760 --> 00:59:05,000
+molto basilare del suo Mac.
+
+1104
+00:59:05,000 --> 00:59:08,520
+For se avesse avuto un portatile in Windows, avrebbe registrato con memo
+
+1105
+00:59:08,600 --> 00:59:11,800
+vocale, registratore vocale, dipende dalla versione del sistema operativo, però con quella
+
+1106
+00:59:11,800 --> 00:59:12,280
+roba lì.
+
+1107
+00:59:12,280 --> 00:59:14,760
+Per cui può bastare veramente anche poco.
+
+1108
+00:59:14,760 --> 00:59:18,920
+Poi ci sono dei software per la gestione dell'audio più o meno
+
+1109
+00:59:18,920 --> 00:59:21,880
+professionali, a seconda di quello che uno vuole spendere, ma anche di
+
+1110
+00:59:21,880 --> 00:59:26,520
+nuovo a seconda della propria competenza tecnica, se vuoi, che ci aiutano
+
+1111
+00:59:26,520 --> 00:59:27,720
+a fare anche queste cose qui.
+
+1112
+00:59:27,720 --> 00:59:31,080
+In questo momento sto usando Logic Pro, ma perché io di solito
+
+1113
+00:59:31,080 --> 00:59:33,320
+uso Logic Pro e lo conosco abbastanza bene.
+
+1114
+00:59:33,320 --> 00:59:38,760
+Audacity è gratuito e multiplattaforma, a me fa vomitare, però è potentissimo,
+
+1115
+00:59:38,760 --> 00:59:39,440
+è potentissimo.
+
+1116
+00:59:39,400 --> 00:59:43,960
+Cioè, l'algoritmo di riduzione del rumore, soprattutto il rumore fisso, costante di
+
+1117
+00:59:43,960 --> 00:59:47,760
+Audacity è una roba che in giro che, gratuitamente, con quella qualità
+
+1118
+00:59:44,920 --> 00:59:48,160
+lì.
+
+1119
+00:59:48,480 --> 00:59:53,760
+Adesso sta arrivando con vari servizi tipo Adobe, tipo Phonic, e via
+
+1120
+00:59:53,840 --> 00:59:57,600
+dicendo: ma se no, era l'unica roba che potevi utilizzare, e infatti,
+
+1121
+00:59:57,600 --> 01:00:01,360
+una delle pochissime, e infatti, ogni tanto mi è capitato di utilizzare
+
+1122
+01:00:01,360 --> 01:00:05,840
+prima Audacity, ripulire un po' di rumore e poi importare l'audio su
+
+1123
+01:00:05,840 --> 01:00:06,160
+Logic.
+
+1124
+01:00:06,240 --> 01:00:10,480
+Garage Band gratuito per me è che il 90% e il 95%
+
+1125
+01:00:10,480 --> 01:00:13,440
+di questi software qua però sono pensati per la musica, per cui
+
+1126
+01:00:13,440 --> 01:00:18,160
+avranno tantissime cose che noi non toccheremo, non apriamo mai.
+
+1127
+01:00:18,160 --> 01:00:21,760
+Se io sono particolarmente in buona, una cosa che dico spesso: se
+
+1128
+01:00:21,760 --> 01:00:25,760
+sono particolarmente in buona, io utilizzo il 10-15% al massimo di funzionalità
+
+1129
+01:00:25,760 --> 01:00:26,560
+di Logic.
+
+1130
+01:00:26,560 --> 01:00:29,440
+Ma perché magari in quel momento ho un progetto da 60 tracce,
+
+1131
+01:00:29,440 --> 01:00:33,120
+di cui 18 sono di musica, e le altre 20 sono di
+
+1132
+01:00:33,120 --> 01:00:36,240
+effetti sonori, passi, gocce d'acqua con le mirate lì.
+
+1133
+01:00:36,240 --> 01:00:40,400
+E il resto sono, non so quanto fa la sottrazione, e il
+
+1134
+01:00:40,400 --> 01:00:43,440
+resto sono voci registrate tutte in maniera diversa, per cui non ho
+
+1135
+01:00:43,440 --> 01:00:45,440
+bisogno tutte di un trattamento diverso.
+
+1136
+01:00:45,440 --> 01:00:48,720
+Però non faccio sempre dei podcast da 60 tracce per lavoro.
+
+1137
+01:00:48,720 --> 01:00:53,120
+Normesto sulle 40, però comunque anche in quei casi lì non utilizzo
+
+1138
+01:00:53,120 --> 01:00:56,480
+mai pienamente Logic perché c'è tutta la parte di composizione, tutte quelle
+
+1139
+01:00:56,640 --> 01:00:59,920
+note lì che va veramente, non so neanche da che parte iniziare.
+
+1140
+01:00:59,920 --> 01:01:02,640
+La maggior parte dei software che trovo in giro sono così.
+
+1141
+01:01:02,640 --> 01:01:06,640
+No, segnalavo uno che io sto usando e che trovo molto comodo
+
+1142
+01:01:06,880 --> 01:01:10,160
+e che è Audio e Jack, è una via.
+
+1143
+01:01:10,320 --> 01:01:11,600
+Sono solo di registrazione.
+
+1144
+01:01:11,600 --> 01:01:15,120
+Sì, è solo di registrazione, infatti, però, poi dal mio punto di
+
+1145
+01:01:15,120 --> 01:01:19,120
+vista mi semplifica molto la vita perché io, posizionando gli effetti prima,
+
+1146
+01:01:19,120 --> 01:01:23,280
+diciamo, della registrazione, quindi, nella sostanza, io ho un The Noise, ho
+
+1147
+01:01:23,280 --> 01:01:27,200
+l'equalizzatore o un compressore direttamente dentro audio e jack.
+
+1148
+01:01:27,360 --> 01:01:29,480
+Bravo, che il compressore ce l'hai dopo l'equalizzatore.
+
+1149
+01:01:29,480 --> 01:01:32,760
+Sì, ho letto il libro di qualcuno, non mi ricordo più chi
+
+1150
+01:01:29,360 --> 01:01:35,800
+dove lo segnalava, devo dirti la verità.
+
+1151
+01:01:35,960 --> 01:01:40,440
+Dopo aver letto il tuo libro, ho fatto la cosa corretta.
+
+1152
+01:01:41,400 --> 01:01:41,560
+No,
+
+1153
+01:01:43,400 --> 01:01:46,040
+effettivamente adesso stiamo andando di nuovo in tangente.
+
+1154
+01:01:46,040 --> 01:01:49,720
+Tuttavia, tra tante cose, ho scritto anche un libro sul podcast, e
+
+1155
+01:01:49,800 --> 01:01:54,840
+effettivamente, se non sei un tecnico audiofonico, o comunque se non si
+
+1156
+01:01:54,840 --> 01:01:57,880
+ha fatto studi specifici, tipo me, che non li ho fatti, però,
+
+1157
+01:01:57,880 --> 01:02:00,280
+hai poi imparato il solito discorso.
+
+1158
+01:02:00,440 --> 01:02:05,000
+Diciamo che per imparare effettivamente almeno quello che è la mia esperienza
+
+1159
+01:02:05,000 --> 01:02:05,480
+personale.
+
+1160
+01:02:05,480 --> 01:02:06,760
+Diciamo, su internet
+
+1161
+01:02:07,800 --> 01:02:12,520
+ci sono tante cose, però raramente c'è qualcosa di organico, chiamiamolo in
+
+1162
+01:02:12,520 --> 01:02:13,560
+questo termine.
+
+1163
+01:02:13,560 --> 01:02:17,400
+È organico e facile da digerire, chiamiamolo anche
+
+1164
+01:02:18,440 --> 01:02:22,280
+perché il podcast, alla fine non è un'attività di gestione dell'audio ad
+
+1165
+01:02:22,280 --> 01:02:25,000
+alto livello, ma è relativamente medio-bassa.
+
+1166
+01:02:26,200 --> 01:02:31,000
+Io ho trovato che i venditori dei commessi dei negozi di strumenti
+
+1167
+01:02:31,000 --> 01:02:36,360
+musicali ci trattano come se fossimo veramente gli ultimi della catena alimentare.
+
+1168
+01:02:36,600 --> 01:02:39,160
+C'è questo razzismo strisciante nei nostri confronti.
+
+1169
+01:02:39,160 --> 01:02:41,240
+È una cosa che mi dà molto fastidio, però lo posso anche
+
+1170
+01:02:41,240 --> 01:02:42,120
+capire da un certo punto.
+
+1171
+01:02:42,200 --> 01:02:47,560
+Tuttavia, effettivamente, grazie appunto al libro di Matteo, ho messo a posto
+
+1172
+01:02:47,560 --> 01:02:51,720
+alcune cose che altrimenti sarei andato avanti nei miei errori.
+
+1173
+01:02:51,720 --> 01:02:55,720
+Perché poi, appunto, da ignorante, tranquillamente lo dico.
+
+1174
+01:02:55,720 --> 01:03:00,280
+Non sapevo che per me la somma era uguale, non so se
+
+1175
+01:03:00,280 --> 01:03:00,920
+mi spiego.
+
+1176
+01:03:00,920 --> 01:03:04,360
+Quindi avanti o indietro, l'addendo, non cambia niente.
+
+1177
+01:03:04,560 --> 01:03:07,240
+Adesso spieghiamolo anche perché effettivamente non ha mai toccato un compressore o
+
+1178
+01:03:07,320 --> 01:03:08,280
+un equalizzatore.
+
+1179
+01:03:08,600 --> 01:03:13,880
+Il compressore è un effetto di dinamica, per cui gli dai un
+
+1180
+01:03:13,880 --> 01:03:14,840
+segnale audio e lui
+
+1181
+01:03:15,920 --> 01:03:19,280
+te lo controlla, diciamo così, nel senso che abbassa i picchi più
+
+1182
+01:03:19,280 --> 01:03:22,080
+alti e se glielo dici può alzare anche quelli più bassi, per
+
+1183
+01:03:22,080 --> 01:03:24,880
+cui rende il suono un po' più uniforme.
+
+1184
+01:03:24,880 --> 01:03:28,320
+Se tu lo metti prima di un compressore, lui agisce o se
+
+1185
+01:03:28,320 --> 01:03:31,520
+tu lo metti prima di un equalizzatore, lui agisce direttamente sul suono
+
+1186
+01:03:31,520 --> 01:03:32,240
+che gli dai.
+
+1187
+01:03:32,240 --> 01:03:35,840
+Se tu prima, però, quel suono lo modifichi, lo equalizzi, cioè vai
+
+1188
+01:03:35,840 --> 01:03:41,200
+a modificare la quantità di volume delle singole frequenze del suono che
+
+1189
+01:03:41,200 --> 01:03:41,920
+gli stai dando.
+
+1190
+01:03:41,920 --> 01:03:43,600
+Quindi è un suono che rimbomba molto.
+
+1191
+01:03:43,680 --> 01:03:46,640
+Gli cavi un po' di basse, c'è un po' di riverbero, gli
+
+1192
+01:03:46,640 --> 01:03:50,320
+cavi un po' di alte, c'è una risonanza brutta ai 500 Hz,
+
+1193
+01:03:50,320 --> 01:03:51,520
+gliela togli un attimo.
+
+1194
+01:03:51,520 --> 01:03:55,360
+Vorresti la voce un attimo più da annunciatore americano, gli pompi un
+
+1195
+01:03:55,360 --> 01:03:59,200
+attimo le media basse, il compressore va ad agire, il compressore, il
+
+1196
+01:03:59,200 --> 01:04:03,520
+riverbero, qualsiasi teffetto, ci metta dopo, va ad agire soltanto sulle cose
+
+1197
+01:04:03,520 --> 01:04:04,960
+che effettivamente sono rimaste.
+
+1198
+01:04:04,960 --> 01:04:08,080
+Per cui non ti vada ad amplificare il rimubo di una stanza
+
+1199
+01:04:08,080 --> 01:04:11,440
+o il riverbo di una stanza, faccio per dire che infatti, una
+
+1200
+01:04:11,440 --> 01:04:15,600
+volta che poi spiegato e ci ragioni sopra, è evidente, però il
+
+1201
+01:04:15,600 --> 01:04:19,040
+ragionamento è torniamo anche al punto che dicevo prima: se ti piaceva
+
+1202
+01:04:19,040 --> 01:04:21,760
+di più prima, hai fatto la prova come ti ho detto io
+
+1203
+01:04:21,840 --> 01:04:24,000
+e come ti piaceva a te, ti piace più come ti piaceva
+
+1204
+01:04:24,000 --> 01:04:25,120
+a te, usa quella.
+
+1205
+01:04:25,120 --> 01:04:26,000
+Cioè, non è che.
+
+1206
+01:04:26,000 --> 01:04:30,000
+No, no, però io, per esempio, appunto già sull'equalizzazione di cui non
+
+1207
+01:04:30,000 --> 01:04:34,160
+sapevo nulla, grazie a due o tre consigli, credo di aver migliorato
+
+1208
+01:04:34,240 --> 01:04:38,240
+soprattutto in questa stanza è anche un piccola, quindi senti di meno.
+
+1209
+01:04:38,320 --> 01:04:43,200
+Nell'altra stanza dove avevo il soffitto a 4,40 m, il microfono suonava
+
+1210
+01:04:43,200 --> 01:04:47,040
+decisamente meglio dopo un'equalizzazione fatta correttamente.
+
+1211
+01:04:47,760 --> 01:04:51,360
+Torniamo al discorso prima: è una questione alchemica, proprio: cioè, devi fare
+
+1212
+01:04:51,360 --> 01:04:54,000
+le prove, devi capire tutte quelle menate.
+
+1213
+01:04:54,000 --> 01:04:56,800
+A un certo momento hai registrato sta roba, che sia con Quick
+
+1214
+01:04:56,880 --> 01:05:00,120
+Time, che sia con un software fatto e finito, e poi inizia
+
+1215
+01:05:00,120 --> 01:05:00,760
+a montarci.
+
+1216
+01:05:00,760 --> 01:05:04,200
+Stavo dicendo prima: scusami, Filippo, che la maggior parte dei software sono
+
+1217
+01:04:59,840 --> 01:05:05,160
+pensati per la musica.
+
+1218
+01:05:05,400 --> 01:05:09,640
+Ci stanno arrivando anche dei software pensati direttamente per i podcast.
+
+1219
+01:05:09,800 --> 01:05:13,400
+Per i computer in generale c'è Hindenburg, che è stato pensato per
+
+1220
+01:05:13,400 --> 01:05:18,120
+i giornalisti tendenzialmente americani, tipo NPR, quelle cose lì, Siri, alcune menate,
+
+1221
+01:05:18,120 --> 01:05:20,840
+ed è pensato esclusivamente per podcast e audiolibri.
+
+1222
+01:05:20,840 --> 01:05:24,520
+Su iPad c'è Ferrite, che è un editor audio pensato.
+
+1223
+01:05:24,760 --> 01:05:30,440
+Mio preferito esatto, pensato direttamente, pensato proprio per gestire i podcast, per
+
+1224
+01:05:30,440 --> 01:05:31,320
+montare i podcast.
+
+1225
+01:05:31,320 --> 01:05:35,080
+Quindi piano piano stanno arrivando anche quel tipo di strumenti lì.
+
+1226
+01:05:36,040 --> 01:05:37,080
+Segnalo perché
+
+1227
+01:05:38,360 --> 01:05:42,680
+abbiamo ottenuto dall'amico Alex Aracuglio anche uno sconto su tutte le sue
+
+1228
+01:05:42,680 --> 01:05:43,320
+applicazioni.
+
+1229
+01:05:43,320 --> 01:05:47,560
+C'è anche un altro software che però diciamo io lo consiglio per
+
+1230
+01:05:47,560 --> 01:05:51,320
+l'utilizzo di podcast singoli, anche se poi da un po' non lo
+
+1231
+01:05:51,320 --> 01:05:55,080
+utilizzo, quindi casomai Alex ha aggiunto delle feature.
+
+1232
+01:05:55,320 --> 01:05:59,080
+Però il Producer è effettivamente un ottimo strumento.
+
+1233
+01:05:59,080 --> 01:06:03,160
+Io ho iniziato a fare editing di podcast con l'app di Alex
+
+1234
+01:06:03,160 --> 01:06:06,920
+perché è molto rapida, è pensata molto anche sul flusso di lavoro
+
+1235
+01:06:06,920 --> 01:06:10,760
+di Alex, che è particolare, chiamiamolo qui in certi termini.
+
+1236
+01:06:10,760 --> 01:06:15,240
+Però, se è interessati, non costa una follia, quindi è anche un
+
+1237
+01:06:16,200 --> 01:06:21,000
+programma equo, con il codice sconto ha due podcast, tutto maiuscolo.
+
+1238
+01:06:21,000 --> 01:06:22,680
+C'è il fino al 31-12.
+
+1239
+01:06:22,680 --> 01:06:25,720
+Quindi è uno sconto generosissimo, diciamo.
+
+1240
+01:06:25,720 --> 01:06:28,120
+Il 20% di sconto su tutte le app di Alex.
+
+1241
+01:06:28,120 --> 01:06:29,320
+Quindi lo segnaliamo.
+
+1242
+01:06:29,320 --> 01:06:29,960
+Alex è una lista
+
+1243
+01:06:31,160 --> 01:06:34,920
+è il papà di questo podcast, nel senso che sia a me
+
+1244
+01:06:34,920 --> 01:06:39,880
+che Roberto ha aiutato a iniziare a fare questa cosa.
+
+1245
+01:06:39,880 --> 01:06:42,040
+E poi dopo la sigla è di Alex.
+
+1246
+01:06:42,040 --> 01:06:43,880
+Insomma, siamo molto legati.
+
+1247
+01:06:43,880 --> 01:06:44,560
+Sì, sì, sì.
+
+1248
+01:06:44,360 --> 01:06:47,760
+No, ma hai fatto benissimo a ricordare questa cosa qui.
+
+1249
+01:06:48,160 --> 01:06:53,440
+Tascam, che è un'azienda di strumentazione, ha fatto un software praticamente identico
+
+1250
+01:06:53,520 --> 01:06:54,400
+a PODucer.
+
+1251
+01:06:54,400 --> 01:06:58,160
+E PODucer, secondo me, è anche più carino come funzionamento e tutto.
+
+1252
+01:06:58,160 --> 01:07:00,240
+Non mi ricordo come si chiama quello di Tascan.
+
+1253
+01:07:00,240 --> 01:07:03,280
+Però stanno venendo fuori un po' di queste cose qui.
+
+1254
+01:07:03,280 --> 01:07:06,880
+Road, in questi ultimi mesi, che è un'altra marca piuttosto nota nell'ambito
+
+1255
+01:07:06,880 --> 01:07:11,120
+del podcasting, ha tirato fuori talmente tanta roba hardware, ma si sta
+
+1256
+01:07:11,120 --> 01:07:14,400
+buttando anche sul software e secondo me tirerà fuori.
+
+1257
+01:07:14,560 --> 01:07:19,440
+Questa è una roba mia, non frequento forum, non frequento siti di
+
+1258
+01:07:19,440 --> 01:07:21,840
+rumors perché secondo me è solo tempo buttato stare dietro.
+
+1259
+01:07:22,320 --> 01:07:25,120
+Ah, dicono che, soprattutto in ambito di Apple, a me non me
+
+1260
+01:07:25,120 --> 01:07:26,880
+ne frega veramente niente dei rumor.
+
+1261
+01:07:27,040 --> 01:07:29,680
+Quando esce un prodotto, anzi, finché non esce un prodotto, gli ho
+
+1262
+01:07:29,680 --> 01:07:33,200
+dico sempre a Roberto, ma dovrebbe uscire ogni volta che ne parlavamo
+
+1263
+01:07:33,840 --> 01:07:35,600
+del suo eventuale nuovo computer.
+
+1264
+01:07:35,840 --> 01:07:38,720
+Ma aspetto quest'altro, Roberto, ti serve il computer oppure no?
+
+1265
+01:07:38,720 --> 01:07:44,240
+Non aspettare una cosa che qualcuno rubando un dischetto ha trovato l'informazione
+
+1266
+01:07:44,640 --> 01:07:45,200
+Idem,
+
+1267
+01:07:46,320 --> 01:07:48,880
+su tutte le cose dei retroscena politici.
+
+1268
+01:07:48,880 --> 01:07:50,160
+Ma chi cazzo se rilegge?
+
+1269
+01:07:50,160 --> 01:07:51,520
+Ma perché devo perdere tempo?
+
+1270
+01:07:51,520 --> 01:07:54,640
+Comunque, scusami, Filippo, riportaci in caricetta.
+
+1271
+01:07:55,040 --> 01:07:59,200
+Quindi abbiamo visto che ci sono sia i software per l'editing gratuiti,
+
+1272
+01:07:59,200 --> 01:08:00,160
+chiamiamoli così.
+
+1273
+01:08:00,320 --> 01:08:05,600
+Probabilmente per chi vuole entrare con la minor spesa, chiamiamoli in questi
+
+1274
+01:08:05,600 --> 01:08:11,760
+termini: Garage Band, dove, peraltro, qualcuno ha fatto un videocorso, si trova
+
+1275
+01:08:11,760 --> 01:08:12,480
+su The Miss.
+
+1276
+01:08:12,480 --> 01:08:15,040
+Se non sbaglio, io de Miss, esatto.
+
+1277
+01:08:15,360 --> 01:08:20,800
+Quindi, nel caso, ovviamente, se volesse approfondire, aveva una bellissima cravatta natalizza.
+
+1278
+01:08:21,760 --> 01:08:23,280
+I dettagli che ne sono accolta.
+
+1279
+01:08:23,920 --> 01:08:28,640
+Però appunto Garage Band è ovviamente disponibile sia per Mac che per
+
+1280
+01:08:28,640 --> 01:08:29,200
+iPad.
+
+1281
+01:08:29,200 --> 01:08:30,760
+Vabbè, anche per iOS, cioè per
+
+1282
+01:08:29,840 --> 01:08:31,320
+iPhone.
+
+1283
+01:08:31,400 --> 01:08:37,160
+Però direi che fare editing di podcast su un cellulare è un
+
+1284
+01:08:37,160 --> 01:08:37,960
+virtuosismo.
+
+1285
+01:08:37,960 --> 01:08:39,480
+Mettiamoli in questi termini.
+
+1286
+01:08:39,480 --> 01:08:44,440
+Tuttavia, sicuramente si può iniziare così, credo che Roberto editi io stesso,
+
+1287
+01:08:44,440 --> 01:08:47,800
+io stesso ho iniziato con Garage Band, uso Logic perché ho fatto
+
+1288
+01:08:47,800 --> 01:08:51,480
+il passaggio da garage band a Logic, se no, oggi avrei potuto
+
+1289
+01:08:51,480 --> 01:08:52,520
+anche usare qualcosa di diverso.
+
+1290
+01:08:52,520 --> 01:08:57,560
+Perché poi Logic invece è la versione, diciamo, a pagamento professionale di
+
+1291
+01:08:57,560 --> 01:09:02,120
+Garage Band, diciamo, garage band è la versione base base addirittura, se
+
+1292
+01:09:02,120 --> 01:09:08,120
+avete la licenza vecchia, c'erano proprio originariamente esatto, i preset per
+
+1293
+01:09:09,640 --> 01:09:10,920
+un po' più pensato per i posti.
+
+1294
+01:09:11,160 --> 01:09:15,320
+Poi progressivamente ci hanno data l'alta, non ho mai capito bene poi
+
+1295
+01:09:15,320 --> 01:09:19,720
+perché, perché poi Apple sul discorso podcast è molto un divaga.
+
+1296
+01:09:19,800 --> 01:09:24,760
+Adesso addirittura ti dà la possibilità di fare gli abbodamenti volendo, però,
+
+1297
+01:09:24,760 --> 01:09:29,480
+per tantissimo tempo è stato da una parte un tiranno benevolo, dall'altro
+
+1298
+01:09:29,480 --> 01:09:32,440
+indifferente, non so come definirlo.
+
+1299
+01:09:32,680 --> 01:09:36,360
+Sono ben d'accordo su Ferrite, giusto perché io lo uso e quindi
+
+1300
+01:09:36,920 --> 01:09:38,520
+sono un appassionatissimo.
+
+1301
+01:09:38,520 --> 01:09:39,080
+Diciamo.
+
+1302
+01:09:39,480 --> 01:09:42,600
+Nella episodio, ovviamente, ci saranno tutti i link a tutti i programmi
+
+1303
+01:09:42,600 --> 01:09:45,640
+di cui abbiamo parlato e anche un po' di materiale.
+
+1304
+01:09:45,800 --> 01:09:48,120
+Per avere almeno le linee guida.
+
+1305
+01:09:48,120 --> 01:09:51,320
+Poi continuo a ripetere, ci sono anche i corsi di Matteo se
+
+1306
+01:09:51,320 --> 01:09:53,640
+si vuole fare degli approfondimenti e così via.
+
+1307
+01:09:53,720 --> 01:09:56,600
+Ferrite ha il vantaggio dal mio punto di vista.
+
+1308
+01:09:57,160 --> 01:10:02,920
+Innanzitutto, si può fare editing sull'iPad, e per fare podcast, non è
+
+1309
+01:10:02,920 --> 01:10:06,200
+proprio il top, mettiamola così se uno si volesse fare domande.
+
+1310
+01:10:06,200 --> 01:10:09,400
+Si riesce a fare le registrazioni perché io le ho fatte, ma
+
+1311
+01:10:09,400 --> 01:10:11,320
+se si vuole fare un podcast a più voci,
+
+1312
+01:10:12,600 --> 01:10:16,880
+attualmente e per il futuro, probabilmente, perché io sto guardando anche vari
+
+1313
+01:10:16,880 --> 01:10:17,440
+estrati
+
+1314
+01:10:18,640 --> 01:10:24,160
+per gli sviluppatori e si parla di comunque sempre solo un flusso
+
+1315
+01:10:24,160 --> 01:10:25,680
+audio su iPad.
+
+1316
+01:10:25,680 --> 01:10:31,120
+Quindi per ora, almeno fino all'iPadOS 17, non avremo il multi-audio
+
+1317
+01:10:31,120 --> 01:10:33,440
+e questo poi crea tutta una serie di problemi.
+
+1318
+01:10:33,440 --> 01:10:35,920
+Ma ho preso la mia solita tangente.
+
+1319
+01:10:35,920 --> 01:10:38,480
+Vero vantaggio dal mio punto di vista è che si può fare
+
+1320
+01:10:38,480 --> 01:10:42,800
+editing direttamente con le Paul Pencil, sravaccati sul divano e così via.
+
+1321
+01:10:42,960 --> 01:10:47,600
+E appunto, essendo io uno che fa editing nei momenti di relax,
+
+1322
+01:10:47,680 --> 01:10:52,720
+chiamiamolo così, o comunque non professionalmente, il flusso di lavoro mi rende
+
+1323
+01:10:52,720 --> 01:10:57,520
+molto più semplice gestire tutte queste cose, proprio perché lo vivo, diciamo,
+
+1324
+01:10:57,520 --> 01:11:00,880
+come un momento di relax, con un momento di tranquillità e non
+
+1325
+01:11:01,200 --> 01:11:02,240
+mi affatica.
+
+1326
+01:11:02,240 --> 01:11:06,560
+Ovvio che tutti questi software vanno, bisogna imparare a utilizzarli.
+
+1327
+01:11:06,800 --> 01:11:12,880
+Quindi, soprattutto all'inizio, l'attività di editing è anche dispendiosa perché non si
+
+1328
+01:11:12,880 --> 01:11:14,880
+sa utilizzare correttamente il software.
+
+1329
+01:11:14,880 --> 01:11:18,240
+Alex, per esempio, me lo diceva sempre: ma guarda, che io ormai
+
+1330
+01:11:18,240 --> 01:11:19,360
+gli errori o
+
+1331
+01:11:20,560 --> 01:11:22,560
+e tutto il resto li riesco a vedere
+
+1332
+01:11:24,160 --> 01:11:25,120
+nell'onda audio.
+
+1333
+01:11:25,120 --> 01:11:26,960
+Subito io dicevo: Ma come fai, ma come fai?
+
+1334
+01:11:27,040 --> 01:11:32,400
+Poi effettivamente, dopo anni di editing, ti rendi conto, l'occhio si abitua
+
+1335
+01:11:32,400 --> 01:11:36,960
+anche a questa forma donda e riesce a riconoscere i modelli della
+
+1336
+01:11:36,960 --> 01:11:38,000
+forma donna a volte.
+
+1337
+01:11:38,000 --> 01:11:43,200
+Quindi, per esempio, io con le Apple Pencil ormai senza troppi problemi,
+
+1338
+01:11:43,200 --> 01:11:43,920
+con un movimento.
+
+1339
+01:11:43,920 --> 01:11:48,080
+Proprio del sottolineo la parte che voglio cancellare, la cancello, diventa molto
+
+1340
+01:11:48,080 --> 01:11:48,560
+semplice.
+
+1341
+01:11:48,560 --> 01:11:52,640
+Poi immagino anche per te, addirittura per te sarà ancora di più.
+
+1342
+01:11:52,960 --> 01:11:53,760
+Sì, sì, sì.
+
+1343
+01:11:53,760 --> 01:11:56,320
+No, è vero, è tutta una questione di abitudine.
+
+1344
+01:11:56,560 --> 01:12:02,920
+Una cosa, però, Filippo, torno all'importanza dell'editing, ma eventualmente anche della sua
+
+1345
+01:12:02,920 --> 01:12:06,600
+assenza, perché, di nuovo, non è che per fare un podcast sia
+
+1346
+01:12:06,600 --> 01:12:10,840
+necessario imparare a fare il sound engineer, il fonico, e tutte quelle
+
+1347
+01:12:10,840 --> 01:12:11,560
+venate lì.
+
+1348
+01:12:11,560 --> 01:12:14,680
+Non vorrei neanche che la gente prendesse al netto del prendere spavento
+
+1349
+01:12:14,760 --> 01:12:17,240
+per la durata di questa puntata, ma non vorrei neanche che prendesse
+
+1350
+01:12:17,240 --> 01:12:22,120
+spavento perché pensa che tu debba per forza diventare cintura nera e
+
+1351
+01:12:22,120 --> 01:12:25,320
+come si collega al cazzo cosa a qualcos'altro.
+
+1352
+01:12:25,320 --> 01:12:27,560
+Cioè, non è per forza di cose così.
+
+1353
+01:12:27,560 --> 01:12:29,720
+Se lo vuoi fare così va benissimo, ma non è per forza
+
+1354
+01:12:29,720 --> 01:12:31,400
+di cose così, questa è una cosa importante.
+
+1355
+01:12:31,400 --> 01:12:34,040
+Un'altra cosa importante è Daniele che ci dice che il software di
+
+1356
+01:12:34,040 --> 01:12:35,560
+Tascam si chiama Podcast Editor.
+
+1357
+01:12:35,720 --> 01:12:37,960
+Quindi, vedi che c'è, ok, perfetto.
+
+1358
+01:12:37,960 --> 01:12:40,440
+Sì, anche quello credo che sia gratuito.
+
+1359
+01:12:41,000 --> 01:12:41,720
+Quello è gratuito.
+
+1360
+01:12:41,720 --> 01:12:43,720
+Devi avere un account con Tascam.
+
+1361
+01:12:43,720 --> 01:12:47,800
+Però sì, vabbè, ti chiedono solo un po' di dati dai.
+
+1362
+01:12:49,320 --> 01:12:50,440
+Esattamente.
+
+1363
+01:12:50,440 --> 01:12:53,720
+Poi a questo punto cerchiamo di velocizzare, perché abbiamo ancora un paio
+
+1364
+01:12:53,960 --> 01:12:58,760
+di cose da trattare, velocemente, una cosa a cui io continuo a
+
+1365
+01:12:58,760 --> 01:13:03,960
+ripetere, nell'ottica, proprio di dire dare il massimo, il miglior prodotto, chiamiamolo
+
+1366
+01:13:03,960 --> 01:13:10,360
+così, all'ascoltatore, io ritengo utilissimo di inserire i cosiddetti capitoli.
+
+1367
+01:13:10,360 --> 01:13:15,880
+Che una volta era un'operazione di alta ingegneria fare, attualmente, se si
+
+1368
+01:13:15,880 --> 01:13:20,040
+vuole farlo in maniera gratuita, il software migliore è forecast del buon
+
+1369
+01:13:20,040 --> 01:13:25,880
+Marco Armand, che l'unico difetto è, diciamo, se si usa Logic, se
+
+1370
+01:13:26,040 --> 01:13:30,680
+sono creati punti, non so come si chiamano esattamente segna posto, i
+
+1371
+01:13:30,680 --> 01:13:36,600
+marcatori in Logic, perché Armato giustamente usa Logic per editare il suo
+
+1372
+01:13:36,600 --> 01:13:39,080
+podcast, le importa direttamente.
+
+1373
+01:13:39,080 --> 01:13:43,240
+In generale, un po' tutti i software di editing audio e di
+
+1374
+01:13:43,240 --> 01:13:47,280
+manipolazione dell'audio ti permettono di appunto inserire questi segnaposti, i marcatori.
+
+1375
+01:13:47,360 --> 01:13:51,680
+L'importante è che tu esporti il file in un determinato formato, che
+
+1376
+01:13:51,680 --> 01:13:54,640
+è quello di più alta qualità che è wave, dicendo al software
+
+1377
+01:13:54,640 --> 01:13:57,920
+di incorporare i marcatori all'interno del file stampato.
+
+1378
+01:13:58,160 --> 01:14:01,040
+Una volta che tu l'hai fatto, poi lo importi in forecast e
+
+1379
+01:14:01,360 --> 01:14:04,480
+forecast li legge, e poi tu puoi inserire il titolo o le
+
+1380
+01:14:04,480 --> 01:14:08,400
+immagini vanno fatti a manina, esatto, esatto, se no, vanno fatti a
+
+1381
+01:14:08,400 --> 01:14:08,960
+manina.
+
+1382
+01:14:08,960 --> 01:14:10,240
+Come faccio io, per esempio?
+
+1383
+01:14:10,240 --> 01:14:14,160
+Però a pagamento diciamo esistono vari software che ti permettono di fare.
+
+1384
+01:14:14,400 --> 01:14:15,120
+Sull'app Store.
+
+1385
+01:14:15,120 --> 01:14:18,720
+Io ho comprato un podcast che si chiama Podcapters.
+
+1386
+01:14:18,720 --> 01:14:19,280
+Ti mando
+
+1387
+01:14:20,400 --> 01:14:21,840
+, l'ho comprato.
+
+1388
+01:14:22,320 --> 01:14:26,640
+È già messo nelle nuove scusa, perché l'ho comprato anch'io.
+
+1389
+01:14:26,640 --> 01:14:32,160
+Alla fine, per esempio, Ferrite ce l'ha effettivamente a livello di fluzione,
+
+1390
+01:14:33,040 --> 01:14:38,000
+credo abbia anche lui la possibilità di inserire i capitoli ed esportarli.
+
+1391
+01:14:38,000 --> 01:14:39,920
+E quindi è molto più comodo mentre si fa già.
+
+1392
+01:14:40,720 --> 01:14:44,320
+Però lì di nuovo dipende dal tipo di prodotto che stai facendo,
+
+1393
+01:14:44,320 --> 01:14:48,720
+nel senso che un podcast di 5 minuti che è uno sfogo,
+
+1394
+01:14:48,720 --> 01:14:54,080
+faccio per dire che non ha argomenti da talmente definiti una puntata
+
+1395
+01:14:54,080 --> 01:14:54,880
+come questa, sì.
+
+1396
+01:14:55,200 --> 01:14:57,840
+Stiamo parlando di diverse cose in scansione.
+
+1397
+01:14:58,320 --> 01:15:02,000
+Sì, sì, io ha ragione sempre che per me A2 Podcast,
+
+1398
+01:15:02,000 --> 01:15:09,760
+comunque rimane all'approccio diciamo dell'insegnamento, nel senso buono, e quindi giustamente, casomai,
+
+1399
+01:15:09,760 --> 01:15:14,480
+so già alcune cose, non mi interessa approfondirle e invece preferisco andare
+
+1400
+01:15:14,480 --> 01:15:14,960
+oltre.
+
+1401
+01:15:14,960 --> 01:15:18,080
+Poi, o è ovvio che, anche già, non so, per esempio, un
+
+1402
+01:15:18,080 --> 01:15:21,840
+podcast di news, voglio ascoltare questa news, ma non mi interessa quell'altra,
+
+1403
+01:15:21,840 --> 01:15:26,480
+perché non è argomento, può diventare utile spezzare velocemente e dare la
+
+1404
+01:15:26,480 --> 01:15:27,120
+possibilità.
+
+1405
+01:15:27,120 --> 01:15:32,440
+Io anche solo per riascoltare un punto, una cosa che ci interessava,
+
+1406
+01:15:29,520 --> 01:15:33,480
+ma che non troviamo.
+
+1407
+01:15:33,560 --> 01:15:37,240
+Io spesso volentieri dico: ma mi ricordo di aver ascoltato il podcast
+
+1408
+01:15:37,240 --> 01:15:38,280
+che diceva questo.
+
+1409
+01:15:38,440 --> 01:15:43,960
+Poi i capitoli diventano molto comodi, almeno per avere un movimento rapido,
+
+1410
+01:15:43,960 --> 01:15:47,480
+poi ovvio, che non so, in certe situazioni, non so, Alex Carculia,
+
+1411
+01:15:47,480 --> 01:15:50,200
+spesso e volentieri fa un suo podcast, diciamo, che sono il suo
+
+1412
+01:15:50,200 --> 01:15:54,200
+flusso di coscienza, a volte appunto il flusso di coscienza si muove
+
+1413
+01:15:54,200 --> 01:15:59,560
+per i fatti suoi, e quindi è difficile distinguere un punto dall'altro.
+
+1414
+01:15:59,960 --> 01:16:02,600
+Mi spiego a meno che proprio non parli di due argomenti totalmente
+
+1415
+01:16:02,600 --> 01:16:03,000
+diversi.
+
+1416
+01:16:03,000 --> 01:16:05,240
+Scusami, ho una domanda: abbiamo perso Roberto o ancora lì?
+
+1417
+01:16:05,240 --> 01:16:09,240
+No, no, sono qua che vi ascolto, è molto silente.
+
+1418
+01:16:10,520 --> 01:16:14,360
+No, perché sta ancora sbollendo prima, non da cenni di vita, neanche
+
+1419
+01:16:14,520 --> 01:16:16,600
+la frecciatina mi preoccupa.
+
+1420
+01:16:17,480 --> 01:16:18,280
+E una frecciatina
+
+1421
+01:16:19,400 --> 01:16:21,480
+, questa la tagliamo.
+
+1422
+01:16:22,280 --> 01:16:25,480
+E poi c'è anche il discorso di ottimizzare l'audio.
+
+1423
+01:16:25,480 --> 01:16:31,000
+Che vabbè, anche qui è sempre un po', diciamo, oltre la media,
+
+1424
+01:16:31,000 --> 01:16:36,520
+mettiamola in questi termini, però a volte software come Auphonic, adesso noi
+
+1425
+01:16:36,840 --> 01:16:38,520
+sia tu che io.
+
+1426
+01:16:38,520 --> 01:16:40,760
+Cosa intendi per ottimizzare l'audio?
+
+1427
+01:16:40,760 --> 01:16:44,920
+Auphonic abitualmente fa un lavoro di compressione di pulizia.
+
+1428
+01:16:45,560 --> 01:16:46,920
+Ah, ok, ok, ok.
+
+1429
+01:16:47,080 --> 01:16:52,680
+Quella post produzione di ottimizzazione per sì, post produzione, perché pensavo invece
+
+1430
+01:16:52,680 --> 01:16:53,960
+al peso del file audio.
+
+1431
+01:16:54,040 --> 01:16:56,680
+Ah, no, no, beh, vabbè, adesso che sì, io non l'ho neanche
+
+1432
+01:16:56,760 --> 01:16:57,560
+messo in scaletta.
+
+1433
+01:16:57,560 --> 01:17:02,120
+Io sono molto rigoroso, vado con il peso minore possibile, mettiamoli in
+
+1434
+01:17:02,120 --> 01:17:02,920
+questi termini.
+
+1435
+01:17:02,920 --> 01:17:07,000
+Cioè, giusto l'audio che si capisca bene, ma tanto abitualmente un podcast.
+
+1436
+01:17:07,560 --> 01:17:12,600
+Lo standard, lo standard normalmente è 128 kg al secondo.
+
+1437
+01:17:12,760 --> 01:17:17,760
+Io vado, secondo me, più basso, sì, ma dipende tantissimo, nel senso,
+
+1438
+01:17:14,280 --> 01:17:19,120
+già 96 va bene.
+
+1439
+01:17:19,440 --> 01:17:23,520
+Andare comunque in ogni caso andare sopra 128 è uno spreco di
+
+1440
+01:17:23,520 --> 01:17:25,920
+banda, è uno spreco di tutto, anche perché poi, a seconda del
+
+1441
+01:17:26,000 --> 01:17:30,080
+hosting che uno sceglie, cioè dove poi effettivamente viene pubblicato il podcast,
+
+1442
+01:17:30,080 --> 01:17:33,280
+però la maggior parte a loro volta pubblicano 128.
+
+1443
+01:17:33,360 --> 01:17:36,960
+E quindi io mi dico: anziché dargli un formato wave, quindi ultra
+
+1444
+01:17:36,960 --> 01:17:41,520
+pesante, ma anche ultra di qualità, che però loro poi mi comprimono
+
+1445
+01:17:41,520 --> 01:17:45,040
+e mi trasformano, diamogli subito quello che vogliono, così magari non rompono
+
+1446
+01:17:45,040 --> 01:17:45,600
+troppo le balle.
+
+1447
+01:17:45,600 --> 01:17:48,080
+Feniamo al discorso sulla post-produzione.
+
+1448
+01:17:48,880 --> 01:17:52,080
+Vale lo stesso discorso per l'editing, cioè uno non deve diventare matto
+
+1449
+01:17:52,080 --> 01:17:53,200
+a imparare queste cose.
+
+1450
+01:17:53,200 --> 01:17:56,800
+Secondo me sono divertentissime e un minimo fanno comodo a tutte.
+
+1451
+01:17:56,800 --> 01:18:00,160
+Però hai registrato, hai fatto un po' di editing, puoi esportare a
+
+1452
+01:18:00,160 --> 01:18:04,800
+una buona qualità, quindi o un MP320 di kb oppure un Fidewave,
+
+1453
+01:18:04,800 --> 01:18:07,200
+o ciò che pesa molto, e lo carichi su un sito tipo
+
+1454
+01:18:07,200 --> 01:18:07,760
+Auphonic.
+
+1455
+01:18:07,920 --> 01:18:12,160
+Auphonic fa tantissime cose, ma quella più bella, secondo me, è quella
+
+1456
+01:18:12,160 --> 01:18:16,880
+di proprio comprimere e pulire da rumori quello che gli carichi.
+
+1457
+01:18:16,880 --> 01:18:21,760
+Ocio che di default lui ti farebbe ottenere un MP3 a 112
+
+1458
+01:18:21,760 --> 01:18:26,480
+kb, quindi devi andargli a chiedere 128, se vuoi il 128, oppure
+
+1459
+01:18:26,480 --> 01:18:30,000
+gli chiedi di nuovo il file wave che tu gli hai dato,
+
+1460
+01:18:30,000 --> 01:18:32,640
+e poi lo reimporti nel tuo programma e esporti tu.
+
+1461
+01:18:32,640 --> 01:18:36,160
+Non lo so, ti mette anche i capitoli, tra l'altro, così sei
+
+1462
+01:18:36,160 --> 01:18:36,480
+contento.
+
+1463
+01:18:37,680 --> 01:18:38,800
+Fa un sacchissimo di cose.
+
+1464
+01:18:38,880 --> 01:18:42,080
+No, questo non lo sapevo, perché poi anche lì ho iniziato a
+
+1465
+01:18:42,080 --> 01:18:46,400
+utilizzare queste cose all'inizio, poi dopo progressivamente il mio flusso di lavoro
+
+1466
+01:18:46,400 --> 01:18:49,360
+è andato tutto dentro Ferrite, e faccio tutto lì.
+
+1467
+01:18:49,360 --> 01:18:52,400
+Non ci penso più, perché poi effettivamente sposta di qua, vai di
+
+1468
+01:18:52,400 --> 01:18:55,600
+là, ricordati di fare questo, ricordati di fare quell'altro.
+
+1469
+01:18:56,400 --> 01:18:59,760
+Però io, per esempio, nei corsi che tengono, di solito sono corsi
+
+1470
+01:18:59,960 --> 01:19:05,000
+su Zoom, il mostro, le menate equalizza, comprimi, togli, taglia.
+
+1471
+01:19:05,400 --> 01:19:07,800
+E poi gli dico: però, se non avete voglia di fare sta
+
+1472
+01:19:07,800 --> 01:19:10,360
+roba qui, tra che te c'è la mica fonic che fino a
+
+1473
+01:19:10,360 --> 01:19:13,400
+due ore al mese è gratuito due ore, non due euro.
+
+1474
+01:19:13,400 --> 01:19:15,400
+Due ore al mese è gratuito.
+
+1475
+01:19:15,400 --> 01:19:19,880
+Andiamo sul hosting, così magari riusciamo ad andare anche a dormire.
+
+1476
+01:19:19,880 --> 01:19:21,400
+Ce n'è un po' per tutti i gusti.
+
+1477
+01:19:21,400 --> 01:19:25,640
+Alcuni hanno anche dei piani gratuiti, altri devi pagare.
+
+1478
+01:19:25,640 --> 01:19:29,000
+Tendenzialmente quando devi pagare per gestire.
+
+1479
+01:19:29,000 --> 01:19:31,720
+Scusami, aspetta, grandissimo passo indietro.
+
+1480
+01:19:31,720 --> 01:19:35,080
+Un podcast non è il file MP3 dell'audio, è un feed RSS
+
+1481
+01:19:35,720 --> 01:19:39,160
+all'interno del quale ci sono tutte le informazioni che servono alle diverse
+
+1482
+01:19:39,160 --> 01:19:42,920
+app, che sia Spotify, che sia Apple podcast che sia qualsiasi: serve
+
+1483
+01:19:42,920 --> 01:19:46,120
+a queste app per andare a recuperare quell'MP3 e tutti i suoi
+
+1484
+01:19:46,120 --> 01:19:49,800
+dati: tipo il titolo del podcast a cui fa riferimento: il titolo
+
+1485
+01:19:49,800 --> 01:19:52,440
+della puntata, il giorno di pubblicazione, l'ora di pubblicazione.
+
+1486
+01:19:52,440 --> 01:19:55,000
+Se c'è un testo accompagnatorio, se ci sono dei link in quel
+
+1487
+01:19:55,000 --> 01:19:58,040
+testo accompagnatorio, quanto cazzo dura questa puntata?
+
+1488
+01:19:58,040 --> 01:20:01,720
+Ci sono dei capitoli, ci sono delle immagini da mostrare, c'è una
+
+1489
+01:20:01,720 --> 01:20:05,240
+cover, tutte queste robe qui sono contenute nel file XML che è
+
+1490
+01:20:05,240 --> 01:20:07,720
+il federess del podcast.
+
+1491
+01:20:07,720 --> 01:20:10,600
+Si può fare a manina, l'ho fatto per tanto tempo, ho creato
+
+1492
+01:20:10,600 --> 01:20:11,960
+dei disastri.
+
+1493
+01:20:11,960 --> 01:20:16,120
+A un certo momento sono arrivati i bellissimi servizi di hosting per
+
+1494
+01:20:16,120 --> 01:20:19,480
+podcast che funzionano esattamente come gli hosting per i siti web.
+
+1495
+01:20:19,480 --> 01:20:23,880
+E quindi tu gli carichi il file e scrivi tipo come se
+
+1496
+01:20:23,880 --> 01:20:27,240
+fosse WordPress, scrivi il titolo, il contenuto, tutte quelle venate lì.
+
+1497
+01:20:27,240 --> 01:20:29,480
+Poi addirittura programmare l'uscita.
+
+1498
+01:20:29,480 --> 01:20:33,960
+Questa roba bellissima della modernità, esatto, la modernità.
+
+1499
+01:20:33,960 --> 01:20:38,040
+Infatti, questa puntata viene registrata alla bellezza del 12 di giugno e
+
+1500
+01:20:38,040 --> 01:20:40,400
+uscirà il 24 di luglio che programmerai.
+
+1501
+01:20:41,000 --> 01:20:45,360
+Dipende tantissimo dal tipo di prodotto di nuovo che uno che uno
+
+1502
+01:20:44,520 --> 01:20:46,000
+sta facendo, che uno
+
+1503
+01:20:44,840 --> 01:20:47,680
+ha in mente di fare.
+
+1504
+01:20:48,160 --> 01:20:52,320
+Io alcune puntate, le primissime puntate di 18 e compagnia, io le
+
+1505
+01:20:52,320 --> 01:20:57,920
+gestivo, le caricavo su Dropbox, account gratuito, e scrivevo maniera il fidare
+
+1506
+01:20:58,000 --> 01:21:00,400
+SS e ci copiavo dentro il link e non puoi.
+
+1507
+01:21:00,400 --> 01:21:03,440
+Non è vero, puoi immaginare benissimo i disastri che ho combinato in
+
+1508
+01:21:03,440 --> 01:21:03,920
+questa maniera qua.
+
+1509
+01:21:04,000 --> 01:21:07,360
+Sbagliando il link, invertendo le puntate, i disastri.
+
+1510
+01:21:07,360 --> 01:21:10,400
+Questi servizi di hosting risolvono moltissimi di questi problemi, e in più
+
+1511
+01:21:10,400 --> 01:21:12,880
+ti danno anche lo spazio dove caricare questa roba.
+
+1512
+01:21:12,880 --> 01:21:16,720
+Perché ok, con 128 kb viene fuori più o meno un mega
+
+1513
+01:21:16,720 --> 01:21:17,120
+al minuto.
+
+1514
+01:21:17,120 --> 01:21:18,800
+Fammi vedere quanto stiamo registrando.
+
+1515
+01:21:19,280 --> 01:21:20,560
+Un'ora e 38.
+
+1516
+01:21:20,720 --> 01:21:23,200
+Diciamo che questa puntata è di un'ora e 20 quando esce, più
+
+1517
+01:21:23,200 --> 01:21:26,160
+o meno, fanno comunque un bel po' di mega.
+
+1518
+01:21:26,160 --> 01:21:29,760
+Sono intorno ai 30-40 mega, anche di più anche di più.
+
+1519
+01:21:29,920 --> 01:21:30,480
+Insomma, dipende.
+
+1520
+01:21:31,120 --> 01:21:32,000
+No, io comprimo
+
+1521
+01:21:33,360 --> 01:21:34,400
+abitualmente tendo.
+
+1522
+01:21:34,800 --> 01:21:39,520
+No, beh, sì, abitualmente, tengo abbastanza tutto basso, anche perché appunto.
+
+1523
+01:21:39,520 --> 01:21:42,720
+Alla fine poi ecco, diciamolo!
+
+1524
+01:21:43,360 --> 01:21:47,840
+Tutte le applicazioni che ti permettono di ascoltare questo o altri podcast,
+
+1525
+01:21:47,840 --> 01:21:52,640
+scaricano i file MP3 intero, esatto, sì.
+
+1526
+01:21:52,880 --> 01:21:57,040
+Però comunque la banda passante, diciamo, è quella.
+
+1527
+01:21:57,040 --> 01:22:02,560
+Io abitualmente, appunto, visto che cerco di stare molto tranquillo, perché anche
+
+1528
+01:22:02,720 --> 01:22:06,480
+permette di scaricare in maniera più rapida e veloce, soprattutto se non
+
+1529
+01:22:06,480 --> 01:22:06,960
+hai uno.
+
+1530
+01:22:06,960 --> 01:22:11,600
+Io penso sempre a Roberto che ha una connessione abbastanza ballerina, diciamo.
+
+1531
+01:22:12,160 --> 01:22:15,120
+Ma però fai bene, perché nonostante ci siano un sacco di abbonamenti
+
+1532
+01:22:15,120 --> 01:22:20,400
+telefonici, con il mio ha giga illimitati, e mi torna anche comodo
+
+1533
+01:22:20,400 --> 01:22:24,320
+quando, per esempio, mi è successo, si rompe il router di fast
+
+1534
+01:22:24,480 --> 01:22:25,920
+web o altre robe.
+
+1535
+01:22:25,920 --> 01:22:29,400
+Tuttavia, normalmente non li consumerò mai quei giga illimitati.
+
+1536
+01:22:29,480 --> 01:22:32,920
+Però non tutti hanno sta roba qui per cui fai benissimo a
+
+1537
+01:22:29,280 --> 01:22:33,320
+comprimere.
+
+1538
+01:22:33,720 --> 01:22:37,720
+Poi a casomai anche lì dipende molto anche dalla connessione che uno
+
+1539
+01:22:37,720 --> 01:22:41,480
+ha, perché poi dipende anche perché poi avere anche una connessione limitata,
+
+1540
+01:22:41,480 --> 01:22:43,720
+ma tanto internet va pianissimo.
+
+1541
+01:22:43,720 --> 01:22:48,360
+Adesso io a luglio vado in montagna e sono terrorizzato perché abitualmente
+
+1542
+01:22:48,440 --> 01:22:51,800
+tra la gente che è in montagna e quindi riduce ulteriormente i
+
+1543
+01:22:51,800 --> 01:22:54,840
+canali, le poche celle, certo certo.
+
+1544
+01:22:55,400 --> 01:22:58,680
+Sono appena entrato nell'app della mia compagnia telefonica, non so neanche dirti
+
+1545
+01:22:58,680 --> 01:23:02,040
+cosa ha consumato a giugno perché mi dice giga limitati e non
+
+1546
+01:23:02,040 --> 01:23:03,960
+mi bastassero, ne ho altre 80.
+
+1547
+01:23:04,040 --> 01:23:04,760
+Quello è comodo.
+
+1548
+01:23:04,760 --> 01:23:07,000
+Avere gighe limitati più 80.
+
+1549
+01:23:07,320 --> 01:23:11,080
+però quella volta lì, per esempio, mi ricordo: ho fatto due settimane
+
+1550
+01:23:11,080 --> 01:23:15,000
+senza router, perché poi c'erano altri casini, e poi per sei mesi
+
+1551
+01:23:15,000 --> 01:23:17,960
+non ho pagato la bolletta perché mi hanno tolto tipo 5 euro
+
+1552
+01:23:17,960 --> 01:23:20,040
+al giorno di servizio, una cosa del genere.
+
+1553
+01:23:20,040 --> 01:23:24,840
+Però ho veramente consumato, avevo il telefono sempre attaccato alla corrente perché
+
+1554
+01:23:24,840 --> 01:23:27,640
+mi si scaricava tantissimo per usarlo come hotspot.
+
+1555
+01:23:28,280 --> 01:23:29,800
+Diventa impegnativo come te.
+
+1556
+01:23:30,120 --> 01:23:34,280
+E quella volta ho bruciato tipo 100 giga di fai conto 160
+
+1557
+01:23:34,280 --> 01:23:35,480
+che avevo, una cosa del genere.
+
+1558
+01:23:35,480 --> 01:23:37,400
+Però non tutti di nuovo hanno questi abmanamenti qua.
+
+1559
+01:23:37,400 --> 01:23:41,720
+Quindi fai benissimo a comprimere, contenere, diciamo così, le dimensioni dei file.
+
+1560
+01:23:42,440 --> 01:23:46,600
+Domanda perché io su quel punto sono abbastanza poco ferrato.
+
+1561
+01:23:46,600 --> 01:23:51,160
+A prescindere dal discorso, che ovviamente i servizi gratuiti hanno dei limiti,
+
+1562
+01:23:51,160 --> 01:23:54,360
+ovviamente, ma giustamente anche da un certo punto di vista, e hanno
+
+1563
+01:23:54,360 --> 01:23:55,960
+ovviamente il login.
+
+1564
+01:23:55,960 --> 01:23:58,920
+Cioè, nel senso, è ovvio che poi se hai iniziato a pubblicare
+
+1565
+01:23:58,920 --> 01:24:00,120
+le prime dieci puntate.
+
+1566
+01:24:00,440 --> 01:24:01,960
+No, no, no, no, no, niente lock in.
+
+1567
+01:24:01,960 --> 01:24:05,320
+La cosa bellissima dei podcast, ed è una cosa che Spotifia sta
+
+1568
+01:24:05,320 --> 01:24:08,920
+combattendo con tutte le sue forze, ma non gli sta ancora riuscendo,
+
+1569
+01:24:08,920 --> 01:24:10,760
+è che è un fitter SS un podcast.
+
+1570
+01:24:10,760 --> 01:24:14,200
+Quindi, fin tanto che tu hai gli MP3, tu puoi spostarli ovunque,
+
+1571
+01:24:14,200 --> 01:24:18,080
+puoi fare veramente i cambi di hosting e via dicendo.
+
+1572
+01:24:18,080 --> 01:24:20,800
+E però il feed rimane lo stesso rimane lo stesso perché lo
+
+1573
+01:24:14,840 --> 01:24:21,760
+fai in redirect.
+
+1574
+01:24:22,800 --> 01:24:26,880
+È la cosa meravigliosa dei podcast che si è sviluppata un settore
+
+1575
+01:24:27,040 --> 01:24:31,520
+lavorativo che fattura anche abbastanza e si basa su una tecnologia libera,
+
+1576
+01:24:31,520 --> 01:24:35,440
+che è il motivo per cui Spotify ha un diavolo per capello,
+
+1577
+01:24:35,440 --> 01:24:37,200
+perché loro vorrebbero invece chiudere tutto.
+
+1578
+01:24:37,200 --> 01:24:38,720
+Ah, sì, sì, lo so.
+
+1579
+01:24:38,720 --> 01:24:42,080
+E poter guadagnare il più possibile da un discorso chiuso, ma tu
+
+1580
+01:24:42,080 --> 01:24:44,960
+prendi un fil esattamente come i DNS di un sito: cioè se
+
+1581
+01:24:44,960 --> 01:24:47,520
+tu prendi un sito e cambi losting del sito, non è che
+
+1582
+01:24:47,520 --> 01:24:51,600
+con quell'indirizzo non ce arrivi più, devi fare delle cosine, d'accordo.
+
+1583
+01:24:51,600 --> 01:24:52,800
+Però poi funziona.
+
+1584
+01:24:52,800 --> 01:24:57,040
+Che questo sia un tra altre cose, devo farlo quindi adesso dovrò
+
+1585
+01:24:57,040 --> 01:24:58,320
+approfondire purtroppo.
+
+1586
+01:24:58,320 --> 01:25:02,000
+Che questo sia un processo indolore, è un altro paio di maniche
+
+1587
+01:25:02,000 --> 01:25:04,480
+perché casini, purtroppo su ste robe succedono sempre.
+
+1588
+01:25:04,480 --> 01:25:07,200
+Però si può fare questa è una buona notizia per il buon
+
+1589
+01:25:07,200 --> 01:25:07,920
+Filippo.
+
+1590
+01:25:08,160 --> 01:25:11,840
+Sì, poi dipende perché, per esempio, Anchor, che non esiste più perché
+
+1591
+01:25:11,840 --> 01:25:14,560
+si è comprato Spotify anni fa, adesso gli ha cambiato nome, si
+
+1592
+01:25:14,560 --> 01:25:17,040
+chiama Spotify for podcasters.
+
+1593
+01:25:17,040 --> 01:25:21,200
+Scusami, se usi certe funzionalità, tipo i messaggi vocali che gli ascoltatori
+
+1594
+01:25:21,360 --> 01:25:24,320
+ti possono lasciare, è ovvio che se cambi hosting e quell'hosting non
+
+1595
+01:25:24,320 --> 01:25:26,000
+ce l'ha, non lo puoi usare.
+
+1596
+01:25:26,000 --> 01:25:30,000
+Hai perso, non hai perso la puntata pubblicata con i messaggi vocali,
+
+1597
+01:25:30,000 --> 01:25:32,160
+però hai perso quella funzionalità e ci sta.
+
+1598
+01:25:32,160 --> 01:25:38,080
+Suggerimenti per chi vuole iniziare appunto qualcosa casomai di gratuito, ma che
+
+1599
+01:25:38,080 --> 01:25:39,360
+poi ti possa accompagnare.
+
+1600
+01:25:39,840 --> 01:25:40,800
+Di hosting.
+
+1601
+01:25:41,520 --> 01:25:44,880
+Spreaker è un piano gratuito molto molto generoso in questo momento.
+
+1602
+01:25:44,960 --> 01:25:46,800
+Prima era il male.
+
+1603
+01:25:46,800 --> 01:25:50,000
+Lascia stare come piano gratuito per un podcast solo, non vedo perché
+
+1604
+01:25:50,000 --> 01:25:50,640
+non suggerirlo.
+
+1605
+01:25:50,720 --> 01:25:52,960
+Spotify for Podcaster Ex Anchor.
+
+1606
+01:25:52,960 --> 01:25:57,520
+Ce l'ha anche lui ha un unico piano che è quello gratuito.
+
+1607
+01:25:57,640 --> 01:26:00,040
+Ce ne sono, ce ne sono altri, dipende, anche lì.
+
+1608
+01:26:00,040 --> 01:26:03,240
+Se vuoi iniziare a guadagnare un po', per esempio, con le pubblicità
+
+1609
+01:25:59,840 --> 01:26:03,720
+dinamiche.
+
+1610
+01:26:03,800 --> 01:26:06,920
+Che, però, dopo un'ora e cinquanta di registrazione, non toccherai come argomento
+
+1611
+01:26:07,000 --> 01:26:10,760
+perché, se no, ne abbiamo qua per un'altra mezz'ora, preaker, così come
+
+1612
+01:26:10,840 --> 01:26:13,560
+altri hosting, ti fanno però pagare un abbonamento.
+
+1613
+01:26:13,560 --> 01:26:17,240
+A cast, per esempio, è un altro hosting che ha un piano
+
+1614
+01:26:17,240 --> 01:26:18,840
+gratuito, abbastanza dignitoso.
+
+1615
+01:26:20,280 --> 01:26:24,280
+Noi, come due podcast, siamo su Fireside, ma perché io sono appunto
+
+1616
+01:26:24,280 --> 01:26:24,920
+anglofono.
+
+1617
+01:26:25,000 --> 01:26:28,440
+Però il pagamento è anche abbastanza caro da un certo punto di
+
+1618
+01:26:28,440 --> 01:26:28,760
+vista.
+
+1619
+01:26:28,760 --> 01:26:32,520
+Però, appunto ti dà poi ovviamente come tutto, se paghi, hai funzione
+
+1620
+01:26:32,520 --> 01:26:32,840
+in più,
+
+1621
+01:26:34,200 --> 01:26:35,160
+i servizi in più.
+
+1622
+01:26:35,160 --> 01:26:37,000
+Però ci sta, ecco, voglio dire.
+
+1623
+01:26:37,000 --> 01:26:41,720
+Chiuderei a questo punto: perché, se no, andiamo veramente oltre, e anche
+
+1624
+01:26:41,880 --> 01:26:47,560
+dopo i miei tagli, in post-produzione, diciamo, allunghiamo molto.
+
+1625
+01:26:47,560 --> 01:26:50,920
+Parliamo dell'ultima cosa che secondo me bisogna avere presente.
+
+1626
+01:26:50,920 --> 01:26:54,760
+Perché una volta che abbiamo pubblicato il nostro feed sul nostro hosting
+
+1627
+01:26:54,760 --> 01:26:58,920
+e tutto il resto, come possono gli altri trovare il nostro podcast?
+
+1628
+01:26:59,320 --> 01:27:02,520
+Quello è il gigantesco punto debole di tutto il cocuzzaro, nel senso
+
+1629
+01:27:02,520 --> 01:27:05,640
+che non c'è anche il riferimento per andare a trovare informazioni sulle
+
+1630
+01:27:05,720 --> 01:27:06,680
+uscite o quelle cose lì.
+
+1631
+01:27:06,680 --> 01:27:10,600
+Tu, una volta che pubblichi il tuo podcast su Preaker, ACAST, Red
+
+1632
+01:27:10,600 --> 01:27:11,880
+Circle, e via dicendo.
+
+1633
+01:27:11,880 --> 01:27:15,880
+Poi odici loro di parlare con le diverse piattaforme di ascolto e
+
+1634
+01:27:15,880 --> 01:27:17,480
+farti indicizzare.
+
+1635
+01:27:17,480 --> 01:27:22,440
+Se no, ciascuna piattaforma Apple Podcast, Spotify, Google Podcast, via dicendo, c'è
+
+1636
+01:27:22,440 --> 01:27:24,840
+il modo per cui tu gli bussi e dici ehi, sto facendo
+
+1637
+01:27:24,840 --> 01:27:28,280
+un podcast, questo è il Feeder SS, mi piacerebbe che lo indicizzassi
+
+1638
+01:27:28,360 --> 01:27:31,800
+e lo facessi trovare alla gente e chi subito o chi meno
+
+1639
+01:27:31,800 --> 01:27:32,920
+subito, lo fa.
+
+1640
+01:27:32,920 --> 01:27:36,200
+Dipende anche lì da te, cioè sprecare è tutto automatizzato e lo
+
+1641
+01:27:36,200 --> 01:27:37,320
+puoi fare senza problemi.
+
+1642
+01:27:37,320 --> 01:27:40,440
+A grande asterisco per Apple Podcast perché ci vuole sempre molto bene
+
+1643
+01:27:40,600 --> 01:27:43,320
+di caricarglielo a manina, ma lasciamo perdere.
+
+1644
+01:27:43,400 --> 01:27:45,280
+Altri invece, poi dipende anche da come.
+
+1645
+01:27:44,840 --> 01:27:47,680
+Perché c'è tutto il discorso delle statistiche di ascolto.
+
+1646
+01:27:47,840 --> 01:27:51,040
+Per cui ogni singolo hosting ti dice quante puntate, quante volte è
+
+1647
+01:27:51,040 --> 01:27:54,240
+stata scaricata barra ascoltata una puntata, Spotify ti dice anche cosa ha
+
+1648
+01:27:54,240 --> 01:27:55,920
+mangiato colazione a chi ti ha ascoltato.
+
+1649
+01:27:55,920 --> 01:27:58,800
+Perché Spotify è campa di dati, quindi dipende da quello che ti
+
+1650
+01:27:58,800 --> 01:27:59,440
+interessa anche.
+
+1651
+01:27:59,440 --> 01:28:02,640
+A me non interessa per niente, a me basta sapere grosso modo
+
+1652
+01:28:02,880 --> 01:28:05,920
+quanto sono ascoltato, non mi interessa sapere chi mi ascolta.
+
+1653
+01:28:05,920 --> 01:28:09,920
+Se invece vuoi, per esempio, vendere le orecchie di chi ti ascolta
+
+1654
+01:28:09,920 --> 01:28:13,920
+ai eventuali investitori pubblicitari, anche nella maniera più etica possibile, tipo come
+
+1655
+01:28:13,920 --> 01:28:16,800
+si fa tantissimo negli Stati Uniti e che qui da noi ha
+
+1656
+01:28:16,800 --> 01:28:21,040
+preso zero, cioè con le sponsorship RIDS, cioè l'azienda ti dà un
+
+1657
+01:28:21,040 --> 01:28:23,680
+elenco di punti o ti dice parla di questo prodotto, e tu
+
+1658
+01:28:23,680 --> 01:28:27,200
+che fai i podcast, ne parli, non parte la pubblicità di merda,
+
+1659
+01:28:27,200 --> 01:28:30,720
+fitto radiofonica, come invece purtroppo si usa tantissimo qui da noi.
+
+1660
+01:28:30,720 --> 01:28:33,200
+È ovvio che se vuoi fare un discorso di quel tipo, hai
+
+1661
+01:28:33,200 --> 01:28:36,160
+bisogno di sapere un minimo chi ti ascolta, c'è poco da fare.
+
+1662
+01:28:36,160 --> 01:28:40,160
+Tuttavia, se non hai quelle necessità lì, basta un piano gratuito senza
+
+1663
+01:28:40,160 --> 01:28:43,520
+alcun tipo di problemi, che ti dice sempre bene o male quanto
+
+1664
+01:28:43,520 --> 01:28:44,640
+viene ascoltato.
+
+1665
+01:28:44,880 --> 01:28:50,320
+Segnalavo anche il podcast Index, forse che è l'unica iniziativa più o
+
+1666
+01:28:50,320 --> 01:28:53,200
+meno per lì si ha discorso gigantesco.
+
+1667
+01:28:53,200 --> 01:28:56,160
+E c'è stato un vostro ospite di cui non ricordo in questo
+
+1668
+01:28:56,160 --> 01:28:56,880
+momento il nome.
+
+1669
+01:28:56,880 --> 01:28:59,840
+Lo sviluppatore della puntata è proprio per Franco Solerio.
+
+1670
+01:28:59,840 --> 01:29:00,800
+Credo di sì.
+
+1671
+01:29:00,800 --> 01:29:02,400
+Avete parlato solo colui di podcast?
+
+1672
+01:29:02,560 --> 01:29:03,200
+Secondo me sì.
+
+1673
+01:29:03,200 --> 01:29:07,360
+Ok, allora deve essere puntata con Franco Solerio dove si parla: 48.
+
+1674
+01:29:08,000 --> 01:29:10,400
+Dove si parla più estesamente di questi argomenti qui.
+
+1675
+01:29:11,120 --> 01:29:13,440
+Sì, sì, vaglio per voglio.
+
+1676
+01:29:13,440 --> 01:29:16,480
+Poi sarà argomento probabilmente di future puntate.
+
+1677
+01:29:16,480 --> 01:29:19,200
+Esatto, perché ci stiamo lavorando e approfondendo.
+
+1678
+01:29:19,200 --> 01:29:19,600
+Ma prima
+
+1679
+01:29:20,640 --> 01:29:23,360
+chiedo scusa a Franco perché non mi ricordo che era la sua
+
+1680
+01:29:23,360 --> 01:29:23,840
+puntata.
+
+1681
+01:29:23,800 --> 01:29:24,000
+Sì, sì.
+
+1682
+01:29:24,440 --> 01:29:25,440
+C'è anche quella roba lì.
+
+1683
+01:29:25,440 --> 01:29:27,840
+Ed è una roba che io ignoro completamente, per esempio.
+
+1684
+01:29:27,840 --> 01:29:30,600
+Invito alla gente che ci sta ascoltando adesso di andare a recuperare
+
+1685
+01:29:29,840 --> 01:29:34,920
+la puntata 48, dove queste cose sono un attimino più esplicitate.
+
+1686
+01:29:35,160 --> 01:29:38,360
+Tra l'altro non è così difficile perché l'ho implementato anche su Snapchat.
+
+1687
+01:29:38,440 --> 01:29:42,360
+Sì, sì, anche perché è proprio un argomento verticale.
+
+1688
+01:29:42,360 --> 01:29:42,520
+Sì,
+
+1689
+01:29:43,560 --> 01:29:44,840
+per me è molto complicato.
+
+1690
+01:29:45,400 --> 01:29:49,400
+Complicato nel senso che è contiguo a tutto il discorso delle criptovalute.
+
+1691
+01:29:49,400 --> 01:29:51,160
+Esatto, sì, diciamo farlo.
+
+1692
+01:29:51,400 --> 01:29:54,760
+Che per me è un gigantesco di domanda.
+
+1693
+01:29:54,760 --> 01:29:55,320
+Solo per quello.
+
+1694
+01:29:56,440 --> 01:29:57,240
+Diciamo che
+
+1695
+01:29:58,600 --> 01:30:03,400
+sto facendo lo studio prima di preparare la puntata, ancora parziale come
+
+1696
+01:30:03,400 --> 01:30:08,280
+cosa, però sì, soprattutto in Italia, perché nel mondo ovviamente americano, soprattutto,
+
+1697
+01:30:08,280 --> 01:30:12,040
+a parte tutte le problematiche legate, alle frodi che ci sono state
+
+1698
+01:30:12,200 --> 01:30:16,440
+e quindi anche alle bolle che secondo me probabilmente esploderanno.
+
+1699
+01:30:16,440 --> 01:30:18,520
+Stanno già esplodendo probabilmente.
+
+1700
+01:30:18,520 --> 01:30:23,880
+Tuttavia effettivamente la bellezza del sistema è che è un sistema libero
+
+1701
+01:30:23,880 --> 01:30:27,160
+anche equo da un certo punto di vista: cioè io posso dire:
+
+1702
+01:30:27,400 --> 01:30:33,000
+Ascolti il podcast di Matteo e gli voglio dare tot a minuto
+
+1703
+01:30:33,000 --> 01:30:36,040
+che ascolto, o dall'altra
+
+1704
+01:30:37,560 --> 01:30:42,200
+si innesta tutto in un sistema di criptovalute, di gestione di queste
+
+1705
+01:30:42,200 --> 01:30:47,720
+criptovalute che non è per tutti, decisamente, e quindi poi, conseguentemente, è
+
+1706
+01:30:47,720 --> 01:30:52,600
+ovvio che su podcast molto verticali, sulla tecnologia, su certi tipi di
+
+1707
+01:30:52,600 --> 01:30:56,280
+di, può avere un suo seguito e avere un suo senso.
+
+1708
+01:30:56,280 --> 01:31:00,600
+Su altri, credo molto meno, soprattutto nel mondo italiano, dove da quello
+
+1709
+01:31:00,600 --> 01:31:05,120
+che ne so io, secondo me, mandavo delle schermate a Roberto.
+
+1710
+01:31:05,120 --> 01:31:09,560
+Comprare con le criptovalute è praticamente non dico impossibile, ma comunque diciamo
+
+1711
+01:31:09,560 --> 01:31:11,640
+molto raro, mettiamolo in questi terzi.
+
+1712
+01:31:11,880 --> 01:31:15,600
+E torniamo ai discorsi che facevamo prima su editing effettistiche e mate
+
+1713
+01:31:15,840 --> 01:31:16,160
+varie.
+
+1714
+01:31:14,920 --> 01:31:19,040
+Cioè, per fare un podcast non è fondamentale sapere fare quella cosa.
+
+1715
+01:31:19,360 --> 01:31:24,720
+Sono d'accordo, è interessante come sistema, come modello di business, esatto.
+
+1716
+01:31:24,880 --> 01:31:29,040
+Ma anche proprio il concetto di value for value, sicuramente ha un
+
+1717
+01:31:29,040 --> 01:31:31,520
+suo pregio a prescindere dalle criptovalute.
+
+1718
+01:31:31,520 --> 01:31:32,400
+Non so se mi spiego.
+
+1719
+01:31:32,400 --> 01:31:33,680
+Sì, sì, sì, sì, assolutamente.
+
+1720
+01:31:34,240 --> 01:31:40,560
+Però sì, è complesso e oggi, ovviamente, diciamo che chiudiamo qui, esatto,
+
+1721
+01:31:41,360 --> 01:31:44,480
+l'ultimissima cosa, che forse va segnalata.
+
+1722
+01:31:44,480 --> 01:31:44,720
+Appunto.
+
+1723
+01:31:45,440 --> 01:31:46,240
+Bene o male.
+
+1724
+01:31:46,240 --> 01:31:50,080
+Tutto quello che abbiamo detto fino adesso è sul come fare, chiamiamo
+
+1725
+01:31:50,080 --> 01:31:51,760
+così un podcast solista.
+
+1726
+01:31:51,760 --> 01:31:56,880
+Sul podcast a più voci c'è, diciamo, la particolarità, chiamiamola in questo
+
+1727
+01:31:56,880 --> 01:31:59,600
+termine, del cosiddetto double hander.
+
+1728
+01:31:59,600 --> 01:32:00,160
+Esatto.
+
+1729
+01:32:00,160 --> 01:32:04,560
+Allora, se siamo, no, no, cioè sì, ma no, se siamo di
+
+1730
+01:32:04,560 --> 01:32:07,280
+persona, devi avere un microfono a testa, possibilmente
+
+1731
+01:32:08,400 --> 01:32:13,120
+e avere una scheda audio o un computer che gestisca più ingressi.
+
+1732
+01:32:13,760 --> 01:32:16,960
+Molto probabilmente la stai registrando da remoto come stiamo facendo noi adesso.
+
+1733
+01:32:16,960 --> 01:32:18,720
+E lì si apre un ventaglio di possibilità.
+
+1734
+01:32:18,720 --> 01:32:22,000
+Il minimo della pena è Skype barra zoom o altro.
+
+1735
+01:32:22,480 --> 01:32:24,960
+Zoom forse fare anche le tracce separate.
+
+1736
+01:32:25,440 --> 01:32:26,560
+Bravo, bravo.
+
+1737
+01:32:26,800 --> 01:32:28,320
+È quello più comodo, effettivamente.
+
+1738
+01:32:28,320 --> 01:32:29,200
+Però hocio, zoom
+
+1739
+01:32:30,320 --> 01:32:33,440
+avere una traccia singola significa si interviene su tutte e tre le
+
+1740
+01:32:33,440 --> 01:32:34,160
+voci insieme.
+
+1741
+01:32:34,160 --> 01:32:36,720
+Perché se la mia voce fosse troppo bassa e quella di Roberto
+
+1742
+01:32:36,720 --> 01:32:39,360
+troppo alta, con un pochino di compressione e un pochino di magia
+
+1743
+01:32:39,440 --> 01:32:41,600
+si riesce a rendere tutto più equilibrato.
+
+1744
+01:32:41,600 --> 01:32:44,640
+Ma se io ho un riverber della Madonna e Roberto no, e
+
+1745
+01:32:44,640 --> 01:32:46,560
+Filippo volesse togliere il mio riverbero.
+
+1746
+01:32:46,560 --> 01:32:49,600
+Poi, magari la mia voce suona anche bene, ma la loro viene
+
+1747
+01:32:49,600 --> 01:32:52,880
+rovinata dal fatto che le frequenze che ha tolto a me vengono
+
+1748
+01:32:52,880 --> 01:32:55,200
+tolte anche a loro, che non ne avevano bisogno.
+
+1749
+01:32:55,200 --> 01:32:58,400
+Motivo per il quale si cerca sempre di avere le tracce per
+
+1750
+01:32:58,400 --> 01:32:59,720
+ciascun partecipante.
+
+1751
+01:32:59,440 --> 01:33:01,640
+Questo genera tutta una serie di casini.
+
+1752
+01:33:02,200 --> 01:33:06,440
+Skype, per esempio, non ti registra le tracce separate, credo che faccia
+
+1753
+01:33:06,440 --> 01:33:10,120
+ancora soltanto il video dal quale devi estrapolare l'audio, che mi pare
+
+1754
+01:33:10,280 --> 01:33:10,760
+una follia.
+
+1755
+01:33:12,040 --> 01:33:14,680
+Perché, comunque, non è solo per fare un podcast che può avere
+
+1756
+01:33:14,680 --> 01:33:19,160
+senso registrare l'audio, anche una riunione aziendale potrebbe avere senso registrare l'audio.
+
+1757
+01:33:19,160 --> 01:33:21,320
+Faccio per dire amici di Skype,
+
+1758
+01:33:22,920 --> 01:33:26,040
+Zoom ti fa le tracce separate, ma gliele devi chiedere e devi
+
+1759
+01:33:26,040 --> 01:33:29,800
+registrare la chiamata sul computer, non sul cloud.
+
+1760
+01:33:29,800 --> 01:33:32,040
+Pertanto devi avere comunque credo.
+
+1761
+01:33:32,040 --> 01:33:35,160
+No, anche il piano gratuito ti permette di registrare sul computer, vero?
+
+1762
+01:33:35,160 --> 01:33:35,880
+Mi pare di sì.
+
+1763
+01:33:35,880 --> 01:33:40,200
+Poi si apre tutto il ventaglio delle piattaforme pensate per la registrazione
+
+1764
+01:33:40,200 --> 01:33:44,600
+di podcast a remoto, cioè Zencaster, Riverside, SquadCast, che ha vario titolo
+
+1765
+01:33:44,600 --> 01:33:46,600
+e vario prezzo, fanno la stessa cosa.
+
+1766
+01:33:46,600 --> 01:33:50,920
+Cioè, ogni partecipante viene registrato, ha qualità più o meno buona, e
+
+1767
+01:33:51,160 --> 01:33:55,000
+il servizio stesso si preoccupa di sincronizzare e caricare questi file in
+
+1768
+01:33:55,000 --> 01:33:57,560
+maniera tale che poi c'è quello che pesca il cerino più piccolo.
+
+1769
+01:33:57,560 --> 01:33:59,960
+Di solito sono io, in questo caso è Filippo.
+
+1770
+01:33:59,960 --> 01:34:02,360
+Scarica tutti i file e li monta.
+
+1771
+01:34:02,360 --> 01:34:04,520
+Puoi fare la stessa cosa su Zoom o su Skype.
+
+1772
+01:34:04,520 --> 01:34:07,160
+Per esempio, io sto registrando in questo momento la mia traccia, Roberto
+
+1773
+01:34:07,160 --> 01:34:08,440
+la sua e Filippo la sua.
+
+1774
+01:34:08,600 --> 01:34:13,480
+Filippo avrà la generale della registrazione di questa chiamata e metterà in
+
+1775
+01:34:13,480 --> 01:34:15,560
+sync basandosi su quella.
+
+1776
+01:34:15,560 --> 01:34:19,560
+Non avessimo la strumentazione che abbiamo perché fatalità non siamo podcaster, possiamo
+
+1777
+01:34:19,560 --> 01:34:24,040
+registrare, sentiamo la telefonata su Skype e ci registriamo col telefono.
+
+1778
+01:34:24,120 --> 01:34:28,920
+Il concetto di Filippo, il double hander, è fondamentale: cioè ognuno registra
+
+1779
+01:34:28,920 --> 01:34:33,000
+la sua parte perché anche una parte registrata col telefono con qualche
+
+1780
+01:34:33,000 --> 01:34:37,320
+cosa che non è bellissima, registrata in locale sarà comunque meglio della
+
+1781
+01:34:37,480 --> 01:34:41,800
+conversazione di Zoom registrata e compressa, compressa non nel senso che compressore
+
+1782
+01:34:41,800 --> 01:34:46,160
+di segnale come parlavamo prima, ma compressa nel senso che devono ridurre
+
+1783
+01:34:46,160 --> 01:34:49,840
+il flusso di audio ed eventualmente anche di video per farlo passare
+
+1784
+01:34:49,840 --> 01:34:51,200
+e farlo arrivare anche a Roberto.
+
+1785
+01:34:51,200 --> 01:34:53,360
+Mi spiace Roberto che prendiamo sempre di mira a te.
+
+1786
+01:34:53,360 --> 01:34:55,280
+Però Roberto con la connessione a Criceti.
+
+1787
+01:34:55,520 --> 01:34:58,640
+Uno dei consigli che do sempre è che stiamo utilizzando anche adesso
+
+1788
+01:34:59,120 --> 01:34:59,920
+staccare il video
+
+1789
+01:35:01,040 --> 01:35:02,320
+quando si registra un podcast.
+
+1790
+01:35:02,320 --> 01:35:06,240
+In questa maniera eviti di utilizzare dati che non ti servono, perché
+
+1791
+01:35:06,240 --> 01:35:09,360
+se non stai facendo un video podcast, puoi evitare tutta la parte
+
+1792
+01:35:09,360 --> 01:35:09,840
+video.
+
+1793
+01:35:09,840 --> 01:35:12,640
+Diciamo che ogni tanto il video è comodo perché ci si vede
+
+1794
+01:35:12,640 --> 01:35:14,720
+e quindi è comodissimo, è comodissimo.
+
+1795
+01:35:14,720 --> 01:35:17,280
+Però, se hai la connessione a Criceti, c'è poco da fare.
+
+1796
+01:35:17,440 --> 01:35:19,200
+Sì, sì, sì, sì, sono d'accordo con te.
+
+1797
+01:35:19,840 --> 01:35:23,440
+Un'altra cosa che non abbiamo detto e che, però, non dico fondamentale,
+
+1798
+01:35:23,440 --> 01:35:27,120
+ma comunque è molto utile e bisogna tenere presente.
+
+1799
+01:35:27,120 --> 01:35:29,600
+Tu stai tranquillo, che ci diranno un sacco di cose di cui
+
+1800
+01:35:29,600 --> 01:35:31,680
+non abbiamo parlato perché non ci sono venute.
+
+1801
+01:35:31,680 --> 01:35:32,480
+Sono le cuffie.
+
+1802
+01:35:32,480 --> 01:35:34,480
+Effettivamente non l'ho messo neanche nella scaletta.
+
+1803
+01:35:34,480 --> 01:35:35,600
+Oh, bravo, bravissimo.
+
+1804
+01:35:35,600 --> 01:35:36,960
+Le cuffie è fondamentale.
+
+1805
+01:35:37,120 --> 01:35:38,800
+Questo bisogna dirlo, perché
+
+1806
+01:35:39,920 --> 01:35:43,440
+registrare un podcast e sentire l'audio
+
+1807
+01:35:45,040 --> 01:35:45,120
+.
+
+1808
+01:35:45,120 --> 01:35:50,400
+Perché, ovviamente, comunque per il microfono migliore che tu abbia, difficilmente se
+
+1809
+01:35:50,400 --> 01:35:55,040
+senti con le casse, diciamo, esterne, la voce degli altri, questa potrebbe
+
+1810
+01:35:55,600 --> 01:35:58,720
+le cuffie sono fondamentali, sia che si sia da sole che si
+
+1811
+01:35:58,720 --> 01:35:59,360
+sia in gruppo.
+
+1812
+01:35:59,360 --> 01:36:03,520
+Se sia da sole devono essere tenute al minimo sindacali per sentirsi,
+
+1813
+01:36:03,520 --> 01:36:06,320
+ma servono per capire se ci sono dei ronzini, ci sono dei
+
+1814
+01:36:06,320 --> 01:36:10,160
+rumori, se ci si mette troppo distante dal microfono oppure no, oppure
+
+1815
+01:36:10,160 --> 01:36:14,000
+ci si muove tanto, sono fondamentali e bastano anche le cuffette scrause
+
+1816
+01:36:14,160 --> 01:36:16,320
+del telefono, e cioè non è che serve comprare delle cose di
+
+1817
+01:36:16,320 --> 01:36:17,360
+chissà che prezzo.
+
+1818
+01:36:17,360 --> 01:36:20,960
+Quando c'è in gruppo diventa fondamentale per il discorso che faceva Filippo.
+
+1819
+01:36:20,960 --> 01:36:24,880
+Perché, per quanto tutti questi sistemi, a cominciare da Zoom, hanno tutti
+
+1820
+01:36:25,200 --> 01:36:28,880
+degli algoritmi di cancellazione del rumore, barra dell'eco e per evitare proprio
+
+1821
+01:36:28,880 --> 01:36:31,880
+che la nostra voce rientri o che la voce degli altri rientri
+
+1822
+01:36:29,920 --> 01:36:32,600
+nel nostro microfono.
+
+1823
+01:36:32,760 --> 01:36:36,040
+Se ascoltiamo voi cuffia meglio e di nuovo a basso volume, il
+
+1824
+01:36:36,040 --> 01:36:37,560
+minimo sindacale per sentire.
+
+1825
+01:36:37,560 --> 01:36:40,280
+Perché io ho fatto registrare in diverse puntate, ognuno ha la sua
+
+1826
+01:36:40,280 --> 01:36:43,560
+traccia e poi avevo la generale di Zoom che usavo per montare,
+
+1827
+01:36:43,560 --> 01:36:47,800
+ma una delle persone coinvolte stava ascoltando una cuffietta nella orecchia e
+
+1828
+01:36:47,800 --> 01:36:48,600
+l'altra appoggiata.
+
+1829
+01:36:48,600 --> 01:36:49,640
+E quella roba lì.
+
+1830
+01:36:49,640 --> 01:36:52,760
+Cioè, io avevo tutta la traccia con un segnale: o era la
+
+1831
+01:36:52,760 --> 01:36:55,480
+sua voce o era la nostra voce, perché ho usato direttamente la
+
+1832
+01:36:55,480 --> 01:36:58,760
+traccia di Zoom, perché non c'era alcun tipo di senso di fare
+
+1833
+01:36:58,760 --> 01:37:02,920
+un lavoro incredibile, fosse stato un lavoro pagato, ancora, ma se no
+
+1834
+01:37:03,000 --> 01:37:05,720
+non c'è proprio alcun tipo di senso nel stare lì a tagliare
+
+1835
+01:37:05,720 --> 01:37:06,520
+a impazzire.
+
+1836
+01:37:06,680 --> 01:37:09,880
+E giusto solo per dare un'idea e poi chiudiamo: a me è
+
+1837
+01:37:09,880 --> 01:37:15,000
+capitato svariate volte di fare videoconferenze con Zoom o Teams, ancora peggio
+
+1838
+01:37:15,320 --> 01:37:17,880
+dove c'era dove c'erano tutti i rientri.
+
+1839
+01:37:18,200 --> 01:37:22,280
+Perché poi la gente che non è abituata in questi casi a
+
+1840
+01:37:22,280 --> 01:37:24,840
+me vedeva col microfono le cuffie.
+
+1841
+01:37:24,840 --> 01:37:29,560
+E invece loro parlavano come col microfono ambientale del computer se ce
+
+1842
+01:37:29,560 --> 01:37:33,320
+l'avevano, perché a volte, soprattutto di desktop, non è detto che ce
+
+1843
+01:37:33,320 --> 01:37:34,600
+l'abbiano, e
+
+1844
+01:37:35,880 --> 01:37:41,000
+le casse a pieno volume, quindi con dei feedback audio infernali, con
+
+1845
+01:37:41,000 --> 01:37:45,240
+dei giri poi di perché poi proprio si crea quell'effetto eco, neanche
+
+1846
+01:37:45,400 --> 01:37:49,160
+eco proprio riverbero, è tremendo.
+
+1847
+01:37:49,320 --> 01:37:51,400
+Che fa fischiare sostanzialmente tutto.
+
+1848
+01:37:51,400 --> 01:37:54,680
+E nessuno, se tu li guardavi, dicevi va bene, la prima volta
+
+1849
+01:37:54,680 --> 01:37:57,240
+che è successo in pandemia, posso anche capirlo.
+
+1850
+01:37:57,240 --> 01:38:00,520
+Ma alla centesima volta mettiti le cuffiette.
+
+1851
+01:38:00,520 --> 01:38:03,240
+Tra l'altro, il minimo della pena è mettere in moto il microfono
+
+1852
+01:38:03,320 --> 01:38:07,400
+quando non si sta parlando, esatto, esatto, l'alternativa, effettivamente è anche quella:
+
+1853
+01:38:07,640 --> 01:38:09,560
+proprio il minimo della civiltà.
+
+1854
+01:38:09,800 --> 01:38:14,760
+Va bene, io direi che facciamo dormire Roberto, che mi sembra stremato
+
+1855
+01:38:14,880 --> 01:38:15,840
+dal nostro monologo.
+
+1856
+01:38:14,840 --> 01:38:20,560
+No, no, assolutamente no, molto interessante, l'ho trovato denso di argomenti.
+
+1857
+01:38:20,880 --> 01:38:26,160
+Ovviamente bisogna riprenderli, secondo me, a parte e approfondire perché abbiamo toccato
+
+1858
+01:38:26,160 --> 01:38:30,640
+veramente tantissimi argomenti sul podcast, spero che vi sia piaciuto tutti quanti
+
+1859
+01:38:30,640 --> 01:38:31,360
+gli ascoltatori.
+
+1860
+01:38:31,360 --> 01:38:36,000
+Nonostante sia abbastanza lunghezza, ma come avete sentito, non è ancora abbastanza
+
+1861
+01:38:36,000 --> 01:38:38,080
+lunga da aver detto tutto quanto.
+
+1862
+01:38:38,080 --> 01:38:41,600
+Caso, noi qui andiamo a chiudere, vi ricordiamo soltanto, semplicemente che se
+
+1863
+01:38:41,600 --> 01:38:46,000
+volete supportare il podcast, potete lasciarci qualche stellina su Apple Podcast che
+
+1864
+01:38:46,000 --> 01:38:47,440
+ci fa un sacco di piacere.
+
+1865
+01:38:47,440 --> 01:38:51,120
+Non correre, non correre, non correre è una parte importante.
+
+1866
+01:38:51,120 --> 01:38:52,560
+Se corri, non ti ascoltano.
+
+1867
+01:38:52,560 --> 01:38:53,360
+Lo so, lo so.
+
+1868
+01:38:55,200 --> 01:38:58,080
+Lo so che sei stanco, però questi dettagli qui.
+
+1869
+01:38:58,080 --> 01:38:59,360
+Ma anche questo, prendetelo.
+
+1870
+01:38:59,600 --> 01:39:00,720
+Questi dettagli qui sono importanti.
+
+1871
+01:39:00,720 --> 01:39:02,960
+Ma tanto Filippo non lo taglierà è tranquillo.
+
+1872
+01:39:03,440 --> 01:39:03,600
+No,
+
+1873
+01:39:04,640 --> 01:39:07,760
+eh no, secondo me non dovrebbe tagliarlo, perché questa roba qui è
+
+1874
+01:39:07,760 --> 01:39:08,080
+importante.
+
+1875
+01:39:08,080 --> 01:39:10,880
+Perché un sacco di gente ha un'ora e 59 di registrazione e
+
+1876
+01:39:10,960 --> 01:39:14,080
+vuole chiudere e basta e correre, però la chiusura è una delle
+
+1877
+01:39:14,080 --> 01:39:15,360
+parti fondamentali.
+
+1878
+01:39:15,360 --> 01:39:19,120
+Per cui adesso la ridici bene, facciamolo dire a Filippo che è
+
+1879
+01:39:19,120 --> 01:39:20,160
+un po' più tranquillo.
+
+1880
+01:39:21,360 --> 01:39:25,840
+Mi hai preso la sprovvista come al solito, sai che sono il
+
+1881
+01:39:25,840 --> 01:39:27,680
+fantasista.
+
+1882
+01:39:27,680 --> 01:39:31,840
+Fantasista, aspetta che devo tirare fuori le note finali.
+
+1883
+01:39:31,840 --> 01:39:34,080
+Io avevo già chiuso tutto qua.
+
+1884
+01:39:34,400 --> 01:39:38,880
+Ecco altro grandissimo insegnamento: mai chiudere tutto finché non si chiude.
+
+1885
+01:39:38,880 --> 01:39:41,040
+Sì, ma solitamente è Roberto che fa questa parte.
+
+1886
+01:39:41,040 --> 01:39:44,160
+Quindi, io ero pacifico, non so se mi spiego.
+
+1887
+01:39:44,320 --> 01:39:45,120
+Male male.
+
+1888
+01:39:45,120 --> 01:39:46,800
+Bisogna sempre sapere tutto.
+
+1889
+01:39:46,960 --> 01:39:48,640
+Ma allora, sai che ci avevo pensato?
+
+1890
+01:39:48,640 --> 01:39:52,320
+Comunque adesso sto riversando perché devo tirare fuori il tutto e ci
+
+1891
+01:39:52,320 --> 01:39:54,080
+sto mettendo più del previsto, ovviamente.
+
+1892
+01:39:55,360 --> 01:39:59,120
+No, a tenerla fuori per sicurezza, visto che Roberto aveva avuto un
+
+1893
+01:39:59,120 --> 01:39:59,920
+po' di problemi.
+
+1894
+01:40:00,680 --> 01:40:04,840
+Giusto per chiudere a questo punto, e così spero anche di fare
+
+1895
+01:40:04,840 --> 01:40:09,880
+contento Matteo, e dall'altra parte farvi vedere un attimo come funziona un
+
+1896
+01:40:09,880 --> 01:40:12,360
+podcast, anche nella parte di chiusura.
+
+1897
+01:40:12,360 --> 01:40:16,600
+Se volete sostenere il podcast, vi chiediamo con il cuore di fare
+
+1898
+01:40:16,600 --> 01:40:21,560
+una recensione su Apple Podcast, che di fatto è una delle piattaforme
+
+1899
+01:40:21,560 --> 01:40:26,040
+maggiori o maggioritarie, che danno la possibilità di farci scoprire anche da
+
+1900
+01:40:26,040 --> 01:40:26,680
+altre persone.
+
+1901
+01:40:26,680 --> 01:40:30,760
+Quindi la recensione delle 5 stelline, come diceva Roberto prima, o addirittura
+
+1902
+01:40:30,920 --> 01:40:34,520
+una recensione scritta, noi le leggiamo sempre e le apprezziamo sempre, fa
+
+1903
+01:40:34,520 --> 01:40:36,120
+comunque la sua differenza.
+
+1904
+01:40:36,120 --> 01:40:39,560
+Poi, se volete sapere come si fa una recensione, perché non lo
+
+1905
+01:40:39,560 --> 01:40:43,240
+sapete, abbiamo fatto, anzi, io ho fatto all'epoca una guida.
+
+1906
+01:40:43,240 --> 01:40:47,160
+Quindi, nei link delle note all'episodio, che sono anche un'altra parte di
+
+1907
+01:40:47,160 --> 01:40:51,400
+cui non abbiamo parlato effettivamente nella creazione del podcast, ma che, tra
+
+1908
+01:40:51,400 --> 01:40:57,640
+virgolette, è un ulteriore punto comodo e utile, cioè tutto quello di
+
+1909
+01:40:57,640 --> 01:41:01,640
+cui abbiamo parlato oggi, i programmi a cui abbiamo fatto riferimento, i
+
+1910
+01:41:01,640 --> 01:41:05,800
+corsi di Matteo, il libro di Matteo e così via, li trovate
+
+1911
+01:41:05,800 --> 01:41:08,440
+comodamente nel link del noto dell'episodio.
+
+1912
+01:41:08,440 --> 01:41:16,600
+Come lo potete trovare è semplicissimo digitando a podcast.it64, che è il
+
+1913
+01:41:16,600 --> 01:41:17,720
+numero dell'episodio.
+
+1914
+01:41:17,720 --> 01:41:22,280
+Se voi volete rimanere in contatto con noi, potete anche utilizzare l'email
+
+1915
+01:41:22,360 --> 01:41:25,720
+che è un po' ormai desueta, però abbiamo ricevuto anche le mail.
+
+1916
+01:41:25,720 --> 01:41:27,080
+La segnaliamo sempre.
+
+1917
+01:41:27,320 --> 01:41:30,880
+Il nome dell'email è molto carina, ma è uno sci in lingua,
+
+1918
+01:41:30,880 --> 01:41:31,400
+scrivi.
+
+1919
+01:41:33,880 --> 01:41:34,280
+it.
+
+1920
+01:41:34,280 --> 01:41:37,800
+Per il resto, Matteo, dove ti troviamo su internet?
+
+1921
+01:41:37,800 --> 01:41:40,760
+Ma io suggerirei di andare su YouTube e cercare il mio nome,
+
+1922
+01:41:40,760 --> 01:41:44,120
+che ci sono un sacco di video dove dico cose sceme, oppure
+
+1923
+01:41:44,120 --> 01:41:48,720
+sul mio sito che è scandal.in Roberto invece il mio blog mach
+
+1924
+01:41:44,920 --> 01:41:49,440
+architettura.
+
+1925
+01:41:49,680 --> 01:41:54,000
+E al sottoscritto per ora mi trovate su avvocatim.it.
+
+1926
+01:41:54,000 --> 01:41:56,400
+A questo punto ci sentiamo tra due settimane.
+
+1927
+01:41:56,400 --> 01:41:57,280
+Grazie mille, ciao
+
+1928
+01:42:00,560 --> 01:42:00,880
+.
+
+1929
+01:42:09,520 --> 01:42:11,920
+Possiamo partire la diretta così intanto.
+
+1930
+01:42:11,920 --> 01:42:12,640
+Parlate un attimo
+
+1931
+01:42:14,400 --> 01:42:15,840
+arbetissimo
+
+1932
+01:42:17,520 --> 01:42:17,840
+,
+
+1933
+01:42:20,480 --> 01:42:23,920
+primeira per partire poi arriva Edge a Chrome e a quelli di
+
+1934
+01:42:23,920 --> 01:42:29,680
+Riverside che non prendono altre app, mannaggia loro, va bene.
+
+1935
+01:42:29,680 --> 01:42:30,000
+Comunque,
+
+1936
+01:42:31,280 --> 01:42:32,560
+ho ragione io.
+
+1937
+01:42:32,560 --> 01:42:37,200
+Come diceva Filippo, la maniera perfetta per iniziare il discorso
+
+1938
+01:42:38,720 --> 01:42:42,320
+perché queste sono le cose tipiche di una registrazione.
+
+1939
+01:42:43,840 --> 01:42:45,760
+Vuoi fare podcast nel 2023?
+
+1940
+01:42:45,760 --> 01:42:48,640
+Devi affrontare anche queste piccole caccate.
+
+1941
+01:42:49,760 --> 01:42:52,160
+Siamo anche più o meno in diretta su YouTube
+
+1942
+01:42:54,560 --> 01:42:56,560
+25 minuti di ritardo.
+
+1943
+01:42:56,560 --> 01:42:57,920
+Pensavo peggio,
+
+1944
+01:43:01,040 --> 01:43:03,680
+a proposito, registrate ovviamente le vostre
+
+1945
+01:43:05,200 --> 01:43:06,240
+vedi.
+
+1946
+01:43:07,840 --> 01:43:08,960
+Mi ricordo.
+
+1947
+01:43:09,040 --> 01:43:09,760
+Che, se no,
+
+1948
+01:43:12,000 --> 01:43:13,200
+tu stai registrando Skype.
+
+1949
+01:43:13,200 --> 01:43:17,520
+Scusa, io sto registrando di tutto di più, io ho la mia
+
+1950
+01:43:17,520 --> 01:43:18,880
+super configurazione.
+
+1951
+01:43:20,400 --> 01:43:21,480
+Ho il mixer.
+
+1952
+01:43:21,720 --> 01:43:23,560
+Di tutto di più, e c'è Daniele.
+
+1953
+01:43:25,000 --> 01:43:28,960
+Abbiamo avuto qualche problema in prediretta, Daniele.
+
+1954
+01:43:28,960 --> 01:43:33,240
+No, ma oggi adesso mi fa girare le palle.
+
+1955
+01:43:29,920 --> 01:43:35,480
+Anche questo ti do fuoco, che succede adesso.
+
+1956
+01:43:35,720 --> 01:43:37,320
+Che cosa c'è?
+
+1957
+01:43:38,760 --> 01:43:41,640
+Ho l'incendio facile, hai anche
+
+1958
+01:43:42,680 --> 01:43:43,960
+Jack che non ti va.
+
+1959
+01:43:48,120 --> 01:43:49,800
+Aspetta, che non leggo mai.
+
+1960
+01:43:49,800 --> 01:43:52,440
+Allora vai su,
+
+1961
+01:43:54,200 --> 01:43:55,400
+che succede, Roberto,
+
+1962
+01:43:56,600 --> 01:43:58,680
+niente solite preferenze.
+
+1963
+01:43:58,680 --> 01:43:59,400
+Porca.
+
+1964
+01:44:00,200 --> 01:44:01,720
+È il problema di avere un Mac nuovo.
+
+1965
+01:44:01,720 --> 01:44:04,200
+Io infatti avrei esatto onestamente quello vecchio.
+
+1966
+01:44:04,280 --> 01:44:05,640
+Sto giro,
+
+1967
+01:44:07,000 --> 01:44:09,960
+aspetta, fammi ragionare
+
+1968
+01:44:11,240 --> 01:44:11,560
+.
+
+1969
+01:44:13,400 --> 01:44:14,200
+Intanto Daniele.
+
+1970
+01:44:14,200 --> 01:44:14,600
+In chat.
+
+1971
+01:44:14,600 --> 01:44:15,160
+Rede
+
+1972
+01:44:16,360 --> 01:44:18,040
+, io sono dispero.
+
+1973
+01:44:18,200 --> 01:44:20,680
+Tutto questo ovviamente è registrato in diretta.
+
+1974
+01:44:20,680 --> 01:44:23,880
+È registrato in diretta che rimarrà per i porti.
+
+1975
+01:44:23,880 --> 01:44:26,280
+La voglio della puntata finita, Filippo.
+
+1976
+01:44:26,280 --> 01:44:27,320
+Si, si, dopo
+
+1977
+01:44:28,520 --> 01:44:31,000
+, questo è al massimo in fondo.
+
+1978
+01:44:31,000 --> 01:44:31,720
+Dai,
+
+1979
+01:44:37,720 --> 01:44:39,160
+non mi arrendo.
+
+1980
+01:44:39,400 --> 01:44:42,920
+Ci metto anche la musica di sottofondo.
+
+1981
+01:44:47,640 --> 01:44:50,680
+Se mi mettete così, facciamo non riesco a fare più niente, quindi
+
+1982
+01:44:51,720 --> 01:44:52,200
+Daniele.
+
+1983
+01:44:52,280 --> 01:44:52,440
+Stai
+
+1984
+01:44:53,720 --> 01:44:54,520
+stai in silenzio.
+
+1985
+01:44:54,520 --> 01:44:56,280
+Che se no, Roberto, si casina
+
+1986
+01:44:57,560 --> 01:45:01,320
+, secondo me sono le vibrazioni negative di Daniele.
+
+1987
+01:45:01,560 --> 01:45:03,120
+È vero, proprio.
+
+1988
+01:45:03,080 --> 01:45:03,800
+Daniele
+
+1989
+01:45:05,400 --> 01:45:05,720
+.
+
+1990
+01:45:11,960 --> 01:45:12,520
+Tra l'altro,
+
+1991
+01:45:13,640 --> 01:45:16,240
+capisco più un cazzo, ragazzi, fatelo voi.
+
+1992
+01:45:16,240 --> 01:45:17,440
+Io salto stasera
+
+1993
+01:45:14,920 --> 01:45:19,440
+aspetta, qual è il problema.
+
+1994
+01:45:20,240 --> 01:45:21,040
+Devo dare
+
+1995
+01:45:23,200 --> 01:45:23,920
+come si dice
+
+1996
+01:45:25,120 --> 01:45:27,360
+l'accesso completo al
+
+1997
+01:45:28,480 --> 01:45:30,240
+disco da audio e jack.
+
+1998
+01:45:30,240 --> 01:45:32,400
+Ok, non usare audio e jack.
+
+1999
+01:45:32,400 --> 01:45:32,640
+Adesso.
+
+2000
+01:45:32,640 --> 01:45:36,720
+Apri quick time, quella roba che ti fa riavviare il computer.
+
+2001
+01:45:36,720 --> 01:45:40,880
+Apri quick time, perché non avevi installato audio e jack.
+
+2002
+01:45:40,880 --> 01:45:43,040
+Ah, ma siamo ce l'ho installato.
+
+2003
+01:45:43,040 --> 01:45:46,000
+E allora scusami, però è una nuova installazione.
+
+2004
+01:45:46,000 --> 01:45:48,640
+Devi ridare le autorizzazioni, credo.
+
+2005
+01:45:48,640 --> 01:45:50,640
+Vabbè, registriamo così,
+
+2006
+01:45:52,320 --> 01:45:53,440
+sto registrando.
+
+2007
+01:45:53,840 --> 01:45:55,520
+Da cosa si capisce, non si capisce.
+
+2008
+01:45:55,760 --> 01:45:56,560
+Testa.
+
+2009
+01:45:56,560 --> 01:45:57,520
+Cosa stai usando?
+
+2010
+01:45:57,840 --> 01:46:02,960
+Se vai nelle note dell'episodio ci sono anche il link a come
+
+2011
+01:46:02,960 --> 01:46:04,080
+registrare il podcast.
+
+2012
+01:46:04,640 --> 01:46:05,440
+Stai fermo,
+
+2013
+01:46:07,280 --> 01:46:08,080
+scoppia.
+
+2014
+01:46:08,080 --> 01:46:08,560
+Ok.
+
+2015
+01:46:08,560 --> 01:46:10,720
+Fai nuova registrazione audio.
+
+2016
+01:46:10,720 --> 01:46:12,640
+Dove sei in quick time?
+
+2017
+01:46:13,840 --> 01:46:15,520
+Sei dentro quick time?
+
+2018
+01:46:15,520 --> 01:46:18,000
+Aspetta, che stava anche prendendo il microfono sbagliato.
+
+2019
+01:46:18,880 --> 01:46:23,920
+Nuova registrazione audio da lì la freccetta ti dice che microfono usare,
+
+2020
+01:46:23,920 --> 01:46:25,280
+e poi il pulsante rosso.
+
+2021
+01:46:25,280 --> 01:46:28,720
+E lo vedi che lo sta usando, perché ci sono da audio
+
+2022
+01:46:30,000 --> 01:46:34,320
+, oltre che aumenta, però capisci se sta usando il microfono giusto perché
+
+2023
+01:46:34,320 --> 01:46:36,560
+se lo tocchi, poi lo vedi,
+
+2024
+01:46:38,960 --> 01:46:44,160
+vai Mastro di Cerimoni e Strozzi, non so cosa dico, probabilmente starò
+
+2025
+01:46:44,160 --> 01:46:45,280
+zitto,
+
+2026
+01:46:47,760 --> 01:46:50,960
+so che avete tutti guardato le note dell'episodio che ho fatto giusto
+
+2027
+01:46:50,960 --> 01:46:52,160
+oggi pomeriggio
+
+2028
+01:46:55,360 --> 01:46:58,920
+, una grossa soddisfazione per il sottoscritto.
+
+2029
+01:46:58,920 --> 01:46:59,240
+Sempre.
+
+2030
+01:46:59,240 --> 01:47:00,360
+Comunque Roberto.
+
+2031
+01:47:00,360 --> 01:47:01,800
+Hai acceso la webcam.
+
+2032
+01:47:01,800 --> 01:47:06,120
+Te lo dico solo perché potresti avere dei problemi di banda, non
+
+2033
+01:46:59,840 --> 01:47:07,240
+dovrebbe essere accesa.
+
+2034
+01:47:07,800 --> 01:47:11,320
+Io vedo un cielo stellato, una mappa con il cielo stellato, ok?
+
+2035
+01:47:11,320 --> 01:47:14,280
+Quindi te lo dico solo perché tu lo sappia,
+
+2036
+01:47:15,560 --> 01:47:17,480
+ok, va benissimo.
+
+2037
+01:47:17,480 --> 01:47:20,200
+Allora, solo con cosa?
+
+2038
+01:47:20,440 --> 01:47:24,920
+Ma dai, solo con mezz'ora di ritardo, ok, siamo qui pronti.
+
+2039
+01:47:24,920 --> 01:47:26,680
+Quindi 3, 2, poi dopo parto.
+
+2040
+01:47:26,680 --> 01:47:29,960
+Va bene, non ce la faccio più, voglio andare a casa.
+
+2041
+01:47:29,960 --> 01:47:31,000
+Sono già a casa,
+
+2042
+01:47:32,120 --> 01:47:36,040
+3, 2, benvenuti all'episodio 64 di A2 in cui.

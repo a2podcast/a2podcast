@@ -1,0 +1,6731 @@
+1
+00:00:00,240 --> 00:00:05,120
+Benvenuti all'episodio 23 di A2, in cui scoprirete come ottenere il massimo
+
+2
+00:00:05,120 --> 00:00:06,800
+della vostra tecnologia Apple.
+
+3
+00:00:06,800 --> 00:00:10,080
+Io sono sempre il solito Roberto Marin e sono il vostro ospite
+
+4
+00:00:10,080 --> 00:00:12,400
+assieme al solito Filippo Strozzi.
+
+5
+00:00:12,400 --> 00:00:16,320
+Ma oggi abbiamo qualcosa che è un po' più diverso dal solito.
+
+6
+00:00:16,320 --> 00:00:17,760
+Cosa ci racconti, Filippo?
+
+7
+00:00:17,760 --> 00:00:21,920
+Allora, oggi inauguriamo un nuovo format, tra virgolette, di puntate che spero
+
+8
+00:00:21,920 --> 00:00:23,680
+piaceranno ai nostri ascoltatori.
+
+9
+00:00:23,680 --> 00:00:27,440
+È da tempo che volevamo introdurlo, e come al solito, chi poteva
+
+10
+00:00:27,440 --> 00:00:32,000
+essere il nostro primo ospite, se non il papà putativo di questo
+
+11
+00:00:32,000 --> 00:00:38,160
+podcast, l'amico, il podcaster, il videomaker, nonché il sviluppatore, Alex Arcuglia.
+
+12
+00:00:38,160 --> 00:00:42,480
+Ma prima di fare il due chiacchiere con Alex, Roberto, cosa devi
+
+13
+00:00:42,480 --> 00:00:43,120
+fare?
+
+14
+00:00:43,120 --> 00:00:45,120
+Vado a pulire la macchina di Alex?
+
+15
+00:00:45,120 --> 00:00:46,640
+No, non questa volta almeno.
+
+16
+00:00:46,880 --> 00:00:48,400
+Vado a pulirgli la cucina.
+
+17
+00:00:48,400 --> 00:00:52,160
+Ma se invece voi volete supportare il podcast, vi chiediamo con il
+
+18
+00:00:52,160 --> 00:00:55,520
+cuore di fare una bella recensione su Apple Podcast.
+
+19
+00:00:55,520 --> 00:00:59,200
+E in questa fase iniziale, tante recensioni ci permetteranno di essere visti
+
+20
+00:00:59,200 --> 00:01:00,480
+da più persone possibili.
+
+21
+00:01:00,480 --> 00:01:03,440
+Se volete sapere come fare una recensione, troverete il link come sempre
+
+22
+00:01:03,520 --> 00:01:06,800
+nelle note dell'episodio curatissime dal nostro Filippo.
+
+23
+00:01:06,960 --> 00:01:11,840
+Invece, se volete scriverci qualcosa, anche come qualche suggerimento o qualche applicazione
+
+24
+00:01:12,000 --> 00:01:17,280
+che volete, una recensione, troverete il link nei note dell'episodio, oppure scrivete,
+
+25
+00:01:17,280 --> 00:01:18,640
+come sempre, arrivi.
+
+26
+00:01:21,200 --> 00:01:21,440
+it.
+
+27
+00:01:21,600 --> 00:01:23,760
+Dunque abbiamo qualche novità.
+
+28
+00:01:23,760 --> 00:01:25,600
+Abbiamo ricevuto delle recensioni.
+
+29
+00:01:25,600 --> 00:01:29,200
+Che adesso, il buon Roberto, che si è beccato questa cosa da
+
+30
+00:01:29,200 --> 00:01:35,440
+leggere, abbiamo anche due simpatiche nuove recensioni, uno fatto da Matteo Fumix
+
+31
+00:01:35,600 --> 00:01:39,200
+che per il primo novembre 2021 ci ha scritto che è venuto
+
+32
+00:01:39,200 --> 00:01:41,360
+a conoscenza del podcast per caso.
+
+33
+00:01:41,360 --> 00:01:46,720
+I conduttori con passione e professionalità affrontano argomenti e offrono soluzioni anche
+
+34
+00:01:46,720 --> 00:01:49,920
+alternative per chi vuole utilizzare il mondo Apple con tutti i suoi
+
+35
+00:01:49,920 --> 00:01:50,800
+dispositivi.
+
+36
+00:01:50,800 --> 00:01:56,000
+Nella sua sfera lavorativa, rendendola più efficiente, ma anche più intrigante, e
+
+37
+00:01:56,000 --> 00:01:58,080
+questa è una cosa assolutamente positiva.
+
+38
+00:01:58,080 --> 00:02:01,320
+Grazie, davvero tantissimo Matteo per le tue belle parole.
+
+39
+00:02:01,560 --> 00:02:06,200
+Adesso passiamo invece a Luca Zero o potrebbe anche essere una O,
+
+40
+00:02:06,200 --> 00:02:10,520
+67, che il 14 novembre scrive un'altra bellissima recensione che dice, aperte
+
+41
+00:02:10,680 --> 00:02:13,640
+virgolette, ho scoperto questo podcast per caso.
+
+42
+00:02:13,640 --> 00:02:18,520
+Questo podcast è stato scoperto grazie alla partenza da Rantum Radio.
+
+43
+00:02:18,520 --> 00:02:23,160
+Lavoro da anni nel campo informatico, sono rimasto letteralmente sbalordito.
+
+44
+00:02:23,160 --> 00:02:27,880
+Due ottimi professionisti orientati al mondo della mela morsicata e non solo:
+
+45
+00:02:27,880 --> 00:02:30,760
+professionalità, umorismo e competenza.
+
+46
+00:02:30,760 --> 00:02:33,880
+Grazie mille per il vostro tempo e dedizione, ma soprattutto grazie a
+
+47
+00:02:33,880 --> 00:02:36,040
+te, Luca, per questa bellissima recensione.
+
+48
+00:02:36,200 --> 00:02:41,880
+Ti ringraziamo col cuore e, veramente, anche voi, ascoltatori, se volete darci
+
+49
+00:02:41,880 --> 00:02:46,520
+una mano, potete seguire l'esempio di questi nostri due illustri ascoltatori che
+
+50
+00:02:46,520 --> 00:02:50,360
+baciamo con la bocca direttamente, anche se non si dovrebbe, visto che
+
+51
+00:02:50,360 --> 00:02:51,720
+siamo in tempi di Covid.
+
+52
+00:02:51,720 --> 00:02:54,680
+Ma giusto per dirvi quanto vi vogliamo bene, vi diamo un bel
+
+53
+00:02:54,840 --> 00:02:55,560
+abbraccio.
+
+54
+00:02:55,560 --> 00:03:01,240
+Ma adesso abbiamo parlato abbastanza di due podcast, adesso parliamo del nostro
+
+55
+00:03:01,240 --> 00:03:03,000
+ospite speciale.
+
+56
+00:03:03,000 --> 00:03:05,080
+Chi è il nostro ospite speciale?
+
+57
+00:03:05,080 --> 00:03:09,320
+Abbiamo introdotto prima il nostro papà di molti podcast, non solo il
+
+58
+00:03:09,320 --> 00:03:11,960
+mio, non solo quel di Filippo, non solo quello che facciamo assieme
+
+59
+00:03:12,040 --> 00:03:14,920
+io e Filippo, ma anche il papà del podcast che facciamo, io
+
+60
+00:03:15,080 --> 00:03:15,800
+Filippo.
+
+61
+00:03:15,800 --> 00:03:19,160
+Alex è compreso, e il suo amico del cuore
+
+62
+00:03:21,400 --> 00:03:27,640
+Davide Gatti, e poi tanti altri podcast del network Rantam Radio.
+
+63
+00:03:27,640 --> 00:03:30,760
+Ma allora, Alex, raccontaci un po' cosa fai nella vita?
+
+64
+00:03:30,760 --> 00:03:34,200
+Allora, prima di tutto, ciao i tuoi vostri ascoltatori, visto che mi
+
+65
+00:03:34,200 --> 00:03:37,000
+avete presentato, ma non mi avete dato l'occasione di dire ciao.
+
+66
+00:03:37,000 --> 00:03:41,320
+Ciao a tutti, piacere di conoscervi e di farmi conoscere in qualche
+
+67
+00:03:41,320 --> 00:03:41,640
+modo.
+
+68
+00:03:41,640 --> 00:03:42,840
+Allora, io sono Alex.
+
+69
+00:03:42,840 --> 00:03:48,000
+Nella vita faccio il regista di video promozionali, spot televisivi e ultimamente
+
+70
+00:03:44,840 --> 00:03:49,680
+molto più spesso video corporate.
+
+71
+00:03:49,840 --> 00:03:54,800
+Ho studiato ingegneria informatica quando ero giovane, quando avevo i capelli lunghi.
+
+72
+00:03:54,800 --> 00:03:56,640
+E il mio sogno è sempre stato fare cinema.
+
+73
+00:03:56,640 --> 00:03:59,680
+Solo che quando ero giovane, io non c'era la possibilità di fare
+
+74
+00:03:59,680 --> 00:04:04,080
+video, non c'era il modo, anche se non eri veramente ricco, non
+
+75
+00:04:04,160 --> 00:04:08,480
+avevi una macchina per fare film, per cui era praticamente impossibile.
+
+76
+00:04:08,480 --> 00:04:12,720
+Un mercato al di là della possibilità, allora ho studiato ingegneria, con
+
+77
+00:04:12,720 --> 00:04:15,520
+sempre il sogno di fare video, di fare queste cose.
+
+78
+00:04:15,520 --> 00:04:19,120
+E infatti, durante gli studi ho sempre fatto piccole animazioni col computer
+
+79
+00:04:19,120 --> 00:04:19,840
+e cose così.
+
+80
+00:04:19,840 --> 00:04:22,560
+Poi sono andato a lavorare in un'azienda che faceva software multimediale, ve
+
+81
+00:04:22,560 --> 00:04:23,200
+li ricordate?
+
+82
+00:04:23,200 --> 00:04:24,880
+CD Rom e C di Rom multimediali.
+
+83
+00:04:24,880 --> 00:04:25,920
+Io faccio quella roba lì.
+
+84
+00:04:25,920 --> 00:04:28,320
+E a un certo punto nei nostri clienti ci ha chiesto: C'abbiamo
+
+85
+00:04:28,400 --> 00:04:29,280
+bisogno di alcune animazioni.
+
+86
+00:04:29,600 --> 00:04:30,080
+Le faccio io.
+
+87
+00:04:30,080 --> 00:04:32,000
+C'è abbiamo di questo, ci abbiamo bisogno di questo, ci abbiamo bisogno
+
+88
+00:04:32,080 --> 00:04:32,560
+di quest'altro.
+
+89
+00:04:32,560 --> 00:04:34,400
+In sei mesi mi sono ritrovato a fare solo video e non
+
+90
+00:04:34,400 --> 00:04:35,920
+fare più sviluppo software.
+
+91
+00:04:35,920 --> 00:04:41,280
+Per cui dal circa 97-98 la mia prima attività è quella di
+
+92
+00:04:41,280 --> 00:04:45,280
+videomaker, a tutto tondo, perché nascendo dal basso faccio sì la regia,
+
+93
+00:04:45,280 --> 00:04:49,200
+ma mi occupo anche e soprattutto del montaggio e anche delle animazioni,
+
+94
+00:04:49,360 --> 00:04:53,600
+spesso volentieri anche dell'audio come sound design e a volte come quello
+
+95
+00:04:53,600 --> 00:04:56,720
+che prende le tracce audio, le pulisce, le sincronizza, le mette a
+
+96
+00:04:56,720 --> 00:04:58,640
+posto e fa queste cose qui.
+
+97
+00:04:58,640 --> 00:05:01,840
+Dato che, però, sono comunque uno sviluppatore, la mia qualifica è più
+
+98
+00:05:01,840 --> 00:05:03,360
+quella che quella di regista.
+
+99
+00:05:03,360 --> 00:05:07,440
+Io mi sono sempre sviluppato delle utility che mi aiutano nel mio
+
+100
+00:05:07,440 --> 00:05:07,840
+lavoro.
+
+101
+00:05:07,840 --> 00:05:11,280
+Questo sempre, in tutti questi anni ho sempre fatto queste cose.
+
+102
+00:05:11,280 --> 00:05:16,320
+Ultimamente, il lavoro da videomaker era diventato, non dico più stagnante, però
+
+103
+00:05:16,640 --> 00:05:18,160
+ce n'era un pochettino di meno.
+
+104
+00:05:18,160 --> 00:05:21,200
+Col tempo libero, tra virgolette, ho sviluppato sempre di più.
+
+105
+00:05:21,200 --> 00:05:22,960
+E a un certo punto ho detto: sai che c'è?
+
+106
+00:05:22,960 --> 00:05:25,760
+Questa roba qui che ho fatto, una delle mie prime app, è
+
+107
+00:05:25,760 --> 00:05:29,040
+talmente figa che potrei quasi pensare di metterla sul mercato.
+
+108
+00:05:29,040 --> 00:05:33,240
+Allora mi sono messo un nuovo cappello in testa, quello di imprenditore,
+
+109
+00:05:33,240 --> 00:05:34,440
+ma fa ridere come cosa.
+
+110
+00:05:34,440 --> 00:05:37,320
+Beh, insomma, non è che fa tanto ridere, non è una cosa
+
+111
+00:05:37,320 --> 00:05:42,040
+semplice fare l'imprenditore, però hai ottenuto dei grandi risultati, questo bisogna anche
+
+112
+00:05:42,040 --> 00:05:47,240
+ricordarlo, perché tu minimizzi, ma in realtà hai ottenuto dei risultati notevoli,
+
+113
+00:05:47,240 --> 00:05:51,560
+come ad esempio quello, diciamo, più banale, ma quello di pagarti il
+
+114
+00:05:51,560 --> 00:05:53,320
+mutuo con la tua seconda attività.
+
+115
+00:05:53,320 --> 00:05:55,240
+E non è una cosa banale, Alex.
+
+116
+00:05:55,240 --> 00:05:57,560
+Questo bisogna rimarcarlo e sottolinearlo.
+
+117
+00:05:57,720 --> 00:05:58,600
+Sì, è vero, grazie.
+
+118
+00:05:58,760 --> 00:06:02,440
+Devo dire che sto cercando di muovermi ovviamente facendo un sacco di
+
+119
+00:06:02,440 --> 00:06:05,720
+errori, mi sembra di essere come sull'auto scontro: quando ti finiva il
+
+120
+00:06:05,720 --> 00:06:08,360
+gettone, ti venivano addosso tutti gli altri, è presente.
+
+121
+00:06:08,360 --> 00:06:08,920
+È così.
+
+122
+00:06:09,000 --> 00:06:12,920
+Non capisco cosa sto facendo, faccio dieci cose e 8 le sbaglio
+
+123
+00:06:12,920 --> 00:06:13,800
+completamente.
+
+124
+00:06:14,120 --> 00:06:17,000
+Una mi serve per imparare, la decima, ho detto, ah, questa roba
+
+125
+00:06:17,000 --> 00:06:18,280
+qua non è neanche troppo sbagliata.
+
+126
+00:06:18,280 --> 00:06:21,720
+Allora ogni tanto cerco di capire come muovermi in questo ambiente.
+
+127
+00:06:21,720 --> 00:06:25,080
+Che tra l'altro in mente è molto particolare perché dato che sviluppo
+
+128
+00:06:25,320 --> 00:06:28,680
+app per chi fa video, per me Quintosh è un mercato, è
+
+129
+00:06:28,680 --> 00:06:29,720
+una nicchia della nicchia.
+
+130
+00:06:29,720 --> 00:06:31,880
+Un sacco di gente si mette a fare app e le vende
+
+131
+00:06:31,880 --> 00:06:34,280
+nell'app store che poi qualcuno ci faccia i soldi.
+
+132
+00:06:34,280 --> 00:06:39,240
+Secondo me il 99% degli sviluppatori, anzi il 99,9% degli sviluppatori magari
+
+133
+00:06:39,240 --> 00:06:42,440
+fa delle cose indie, nel senso vende la propria app, però le
+
+134
+00:06:42,440 --> 00:06:46,280
+vere revenue le fai acquisendo skill e poi andando a fare dei
+
+135
+00:06:46,280 --> 00:06:47,480
+lavori commissionati.
+
+136
+00:06:47,480 --> 00:06:49,480
+Le applicazioni su iOS sono molto ricche.
+
+137
+00:06:49,960 --> 00:06:54,040
+Loro in un'azienda che sviluppa siti internet e applicazioni e le applicazioni
+
+138
+00:06:54,040 --> 00:06:56,760
+corporate ci sono e si fanno e lì si fanno.
+
+139
+00:06:56,760 --> 00:06:59,400
+Non dico si fanno i bei soldi, però lì effettivamente la cosa
+
+140
+00:06:59,400 --> 00:07:00,360
+ha un senso.
+
+141
+00:07:00,360 --> 00:07:04,680
+Venderle direttamente nello store, se non si hanno delle spalle veramente larghe,
+
+142
+00:07:04,680 --> 00:07:07,880
+larghe, larghe, larghe, ci fa solo del male perché ci si scontra
+
+143
+00:07:07,960 --> 00:07:11,240
+con altri 2 milioni di applicazioni che stanno lì.
+
+144
+00:07:11,240 --> 00:07:13,240
+E non solo 2.000, sono 2 milioni.
+
+145
+00:07:13,240 --> 00:07:17,520
+Perché qualsiasi idea ti è venuta, o sei veramente un pazzo scatenato,
+
+146
+00:07:17,520 --> 00:07:20,560
+oppure ce l'hanno già avuta in mente altre 100 persone e hanno
+
+147
+00:07:20,560 --> 00:07:23,120
+già fatto una cosa o mille volte più bello, o hanno comunque
+
+148
+00:07:23,120 --> 00:07:26,640
+un sacco di risorse per fare marketing, comunicazione, per cui pensare di
+
+149
+00:07:26,640 --> 00:07:29,920
+inventare una cosa, di proporla sullo store e diventare ricchi è un
+
+150
+00:07:29,920 --> 00:07:30,960
+bellissimo sogno.
+
+151
+00:07:30,960 --> 00:07:31,680
+Però.
+
+152
+00:07:31,920 --> 00:07:35,760
+Mentre l'ambito dello sviluppo di app per Mac, di tool per chi
+
+153
+00:07:35,760 --> 00:07:38,800
+fa il mio mestiere, perché io faccio delle robe che servono innanzitutto
+
+154
+00:07:38,800 --> 00:07:39,200
+a me.
+
+155
+00:07:39,200 --> 00:07:42,480
+E poi ho detto: Vabbè, vediamo di pulirle un pochettino, ha molti
+
+156
+00:07:42,480 --> 00:07:45,840
+più spazi, perché la gente dice figuriamoci se mi metto a sviluppare
+
+157
+00:07:45,840 --> 00:07:47,920
+applicazioni su Mac che non ce l'ha nessuno.
+
+158
+00:07:47,920 --> 00:07:50,880
+Cosa che tra l'altro abbiamo scoperto che non è vero, perché è
+
+159
+00:07:51,040 --> 00:07:54,480
+uno dei computer più venduti al mondo, è uno dei sistemi operativi
+
+160
+00:07:54,480 --> 00:07:55,440
+più venduti e più amati.
+
+161
+00:07:55,440 --> 00:07:58,160
+Nel senso, una volta che passi a Mac è difficile che torni
+
+162
+00:07:58,160 --> 00:08:00,800
+indietro, se non per motivi molto strani.
+
+163
+00:08:00,800 --> 00:08:04,400
+Di conseguenza c'è un mercato, quello c'è una sorta di mercato.
+
+164
+00:08:04,400 --> 00:08:07,040
+Il mio mercato è globale, nel senso, io, il mio sito è
+
+165
+00:08:07,040 --> 00:08:10,160
+tutto ovviamente in inglese, il mio mercato di riferimento sono gli Stati
+
+166
+00:08:10,160 --> 00:08:11,600
+Uniti ma anche worldwide.
+
+167
+00:08:11,600 --> 00:08:15,200
+La Russia, per esempio, sembra strano, ma è uno dei mercati più
+
+168
+00:08:15,200 --> 00:08:15,760
+forti per me.
+
+169
+00:08:15,760 --> 00:08:18,560
+C'è un sacco di gente in Russia che usa le mie applicazioni.
+
+170
+00:08:18,560 --> 00:08:21,920
+Dove un sacco è qualcuno, non è che faccio paperone da paperoni.
+
+171
+00:08:21,920 --> 00:08:26,480
+Sì, certamente, però bisogna anche ricordare che comunque hai avuto ben due
+
+172
+00:08:26,640 --> 00:08:30,240
+interviste per le tue applicazioni su un canale molto verticale.
+
+173
+00:08:30,240 --> 00:08:35,600
+Che parla, se non sbaglio, di Final Cut Pro, lui è Richard
+
+174
+00:08:35,600 --> 00:08:39,280
+Taylor, è uno dei guru, forse non il più importante, però uno
+
+175
+00:08:39,280 --> 00:08:42,640
+di quelli che fa più comunicazione, ma ha intervistato tre volte per
+
+176
+00:08:42,640 --> 00:08:44,800
+tre applicazioni che ho sviluppato.
+
+177
+00:08:45,040 --> 00:08:48,640
+Ogni volta che faccio qualcosa, tendenzialmente si fa sentire, nel senso, mi
+
+178
+00:08:48,640 --> 00:08:49,280
+ritwita.
+
+179
+00:08:49,280 --> 00:08:51,680
+E devo dire che quando passo attraverso lui, lui non è che
+
+180
+00:08:51,680 --> 00:08:55,920
+abbia tantissimi ascoltatori quando fa le dirette, non sono tanti, magari le
+
+181
+00:08:55,920 --> 00:08:58,240
+sue visualizzazioni non arrivano a mille.
+
+182
+00:08:58,240 --> 00:09:01,000
+Tro è un mercato veramente tanto verticale che la gente, dopo aver
+
+183
+00:08:59,920 --> 00:09:03,720
+fatto una comparsata lì, c'è una certa risonanza.
+
+184
+00:09:03,880 --> 00:09:07,800
+Ecco giusto per fare un recap veloce per chi diciamo non è
+
+185
+00:09:07,800 --> 00:09:09,240
+proprio del tuo settore.
+
+186
+00:09:09,240 --> 00:09:13,880
+Tu, prevalentemente il grosso, diciamo, delle tue applicazioni, poi ne fate di
+
+187
+00:09:13,880 --> 00:09:19,240
+vario genere, però sono definirli plugin per Final Cut Pro, cioè per
+
+188
+00:09:19,240 --> 00:09:22,520
+il software di montaggio professionale Apple.
+
+189
+00:09:23,160 --> 00:09:25,800
+No, è giusto chiamarle Companion App.
+
+190
+00:09:25,800 --> 00:09:28,920
+I plugin sono una cosa che sta dentro e scriverli non è
+
+191
+00:09:28,920 --> 00:09:29,560
+così facile.
+
+192
+00:09:29,560 --> 00:09:33,160
+Però sì, sono applicazioni che vanno in tandem con Final Cut che
+
+193
+00:09:33,160 --> 00:09:37,560
+è il programma di montaggio video sviluppato da Apple che a tre
+
+194
+00:09:37,560 --> 00:09:43,000
+anni fa aveva venduto 3 milioni di copie, cioè comunque 3 milioni
+
+195
+00:09:43,000 --> 00:09:45,720
+di persone che hanno comprato la licenza.
+
+196
+00:09:45,720 --> 00:09:49,320
+E sappiamo benissimo che ce ne sono, tipo 20 volte tanto che
+
+197
+00:09:49,320 --> 00:09:54,920
+lo stanno usando così, alternativamente, mettiamola così.
+
+198
+00:09:55,720 --> 00:10:00,840
+Le mie applicazioni sono relativamente economiche, infatti, la più costosa adesso nello
+
+199
+00:10:00,840 --> 00:10:02,760
+store, costa 15 euro.
+
+200
+00:10:02,760 --> 00:10:05,960
+Devo dire che per gli Stati Uniti questi 15 euro sono come
+
+201
+00:10:05,960 --> 00:10:08,760
+per noi in arbe un caffè, per cui non è un grosso
+
+202
+00:10:08,760 --> 00:10:09,160
+problema.
+
+203
+00:10:09,160 --> 00:10:12,280
+Per il resto del mondo, tipo a volte ho della gente dalla
+
+204
+00:10:12,280 --> 00:10:16,920
+Cina, dalla Malesia, dal sud est asiatico, che hanno dice, però loro,
+
+205
+00:10:16,920 --> 00:10:18,600
+questa cifra qui è un po' più sensata.
+
+206
+00:10:18,600 --> 00:10:22,200
+Però devo dire che considerando che molta gente mi ha detto: si
+
+207
+00:10:22,280 --> 00:10:25,080
+venda la 49 dollari sta roba qui, però adesso mi va bene
+
+208
+00:10:25,080 --> 00:10:25,320
+così.
+
+209
+00:10:25,320 --> 00:10:27,640
+E devo dire che con gli sconti che ho fatto su Black
+
+210
+00:10:27,640 --> 00:10:30,760
+Friday, un sacco di app che avevano avuto un grosso calo di
+
+211
+00:10:30,760 --> 00:10:32,440
+vendite hanno avuto un boost.
+
+212
+00:10:32,440 --> 00:10:35,080
+Che mi fa anche pensare: magari il prezzo giusto per questa roba
+
+213
+00:10:35,080 --> 00:10:36,880
+qui potrebbe essere un po' più basso.
+
+214
+00:10:36,880 --> 00:10:41,080
+Perché dici ci metto di più a raggiungere il target che mi
+
+215
+00:10:41,080 --> 00:10:41,800
+sono prefisso.
+
+216
+00:10:41,800 --> 00:10:44,120
+Però diciamo che c'è molta più gente.
+
+217
+00:10:44,120 --> 00:10:48,400
+C'è da consegnare l'overhead dei costi di gestione dei clienti perché ce
+
+218
+00:10:44,920 --> 00:10:51,280
+n'è sempre qualcuna, cioè uno che ha delle configurazioni strane.
+
+219
+00:10:51,360 --> 00:10:53,840
+Tipo oggi sono rimasto in ballo con due o tre scambi di
+
+220
+00:10:53,840 --> 00:10:56,480
+mail con un utente che dice Sì sì, ho scaricato l'ultima versione,
+
+221
+00:10:56,480 --> 00:10:57,040
+non andava.
+
+222
+00:10:57,040 --> 00:10:59,520
+Poi a un certo punto ho controllato bene, ma ti arriva questa
+
+223
+00:10:59,520 --> 00:11:00,080
+finestra, no?
+
+224
+00:11:00,080 --> 00:11:02,640
+E allora la versione precedente di scusa, scusa, scusa.
+
+225
+00:11:02,720 --> 00:11:04,400
+Per cui c'è sempre questa sorta di.
+
+226
+00:11:04,400 --> 00:11:07,840
+Imprenditorialmente, se devo essere sincero, va considerato come un costo la gestione
+
+227
+00:11:07,840 --> 00:11:09,120
+dei clienti, il rapporto con i clienti.
+
+228
+00:11:09,120 --> 00:11:11,600
+Siccome sono ancora piccolo il mio giro d'affari comunque.
+
+229
+00:11:12,080 --> 00:11:14,880
+Non vado in giro con la Lamborghini e cerco di gestirla in
+
+230
+00:11:14,880 --> 00:11:15,840
+maniera più sensata.
+
+231
+00:11:15,920 --> 00:11:18,640
+Il giorno che avessi o dieci volte il volume d'affari, sì, dovrei
+
+232
+00:11:18,640 --> 00:11:21,680
+trovare il modo di organizzare meglio questa cosa.
+
+233
+00:11:21,680 --> 00:11:26,880
+No, no, beh, sicuramente tutta questa gestione adesso, casomai alcuni non hanno
+
+234
+00:11:26,880 --> 00:11:28,240
+ben presente, cosa vuol dire?
+
+235
+00:11:28,240 --> 00:11:32,160
+Infatti, anche tu mi raccontavi, per esempio, che l'App Store per certi
+
+236
+00:11:32,160 --> 00:11:35,280
+versi è molto comodo perché ti toglie via tutta una serie di
+
+237
+00:11:35,280 --> 00:11:39,120
+incombenti, tra virgolette, e puoi dedicarti allo sviluppo.
+
+238
+00:11:39,120 --> 00:11:44,080
+Però poi hai lo svantaggio dell'essere talleggiato, ma anche i vincoli che
+
+239
+00:11:44,080 --> 00:11:45,200
+impone poi Apple.
+
+240
+00:11:45,200 --> 00:11:46,800
+Apple ha dei vincoli.
+
+241
+00:11:47,280 --> 00:11:50,800
+Il primo step è il 30%, che però dopo un anno diventa
+
+242
+00:11:50,800 --> 00:11:53,680
+il 15% se non raggiungi un milione di euro di dollari, che
+
+243
+00:11:53,680 --> 00:11:54,240
+dici?
+
+244
+00:11:55,200 --> 00:11:58,080
+Non è un problema mio, peccato.
+
+245
+00:11:58,400 --> 00:12:01,040
+Il 15% sarebbe una cifra perfetta per me.
+
+246
+00:12:01,040 --> 00:12:03,920
+Io le derei volentieri proprio suonanti.
+
+247
+00:12:03,920 --> 00:12:09,040
+Tuttavia è che sul Mac App store ti craccano in 12 minuti
+
+248
+00:12:09,600 --> 00:12:11,600
+13 se vanno per il caffè.
+
+249
+00:12:11,600 --> 00:12:13,680
+Per cui è veramente.
+
+250
+00:12:14,320 --> 00:12:15,280
+aprire le porte.
+
+251
+00:12:15,280 --> 00:12:18,800
+Io ve lo dico, quando mi hanno craccato Bitmark un anno e
+
+252
+00:12:18,800 --> 00:12:22,160
+mezzo fa, da quel giorno ho perso il 95% del mio mercato
+
+253
+00:12:22,160 --> 00:12:23,040
+cinese.
+
+254
+00:12:23,120 --> 00:12:24,640
+La Cina era il mio primo mercato.
+
+255
+00:12:24,640 --> 00:12:29,040
+Da quel giorno, proprio verticale, per cui l'idea di avere un'applicazione craccata
+
+256
+00:12:29,720 --> 00:12:31,480
+non è che mi ispira tanto.
+
+257
+00:12:31,480 --> 00:12:33,480
+In più ci sono un sacco di vincoli su quello che le
+
+258
+00:12:29,760 --> 00:12:35,400
+applicazioni possono fare o non possono fare.
+
+259
+00:12:35,720 --> 00:12:39,320
+Le mie applicazioni sono abbastanza crude, cioè, vanno abbastanza un po' in
+
+260
+00:12:39,320 --> 00:12:42,840
+basso a livello di sistema operativo, e poi su queste cose è
+
+261
+00:12:42,840 --> 00:12:44,120
+molto rompiscatole.
+
+262
+00:12:44,120 --> 00:12:47,800
+Ultimamente è un po' più largo, però ci sono anche solo il
+
+263
+00:12:47,800 --> 00:12:51,560
+fatto che se tu ti trovi un bug, devi sottoporlo per il
+
+264
+00:12:51,560 --> 00:12:52,920
+test da parte loro.
+
+265
+00:12:52,920 --> 00:12:57,160
+E loro ci mettono su Mac 3-4 giorni, quattro giorni.
+
+266
+00:12:57,160 --> 00:13:01,560
+E soprattutto siccome sono molto piccole, non posso fare tanto marketing, opinione
+
+267
+00:13:01,560 --> 00:13:02,600
+pubblica.
+
+268
+00:13:02,600 --> 00:13:10,040
+Ma Alex, tu sei uno sviluppatore chiaramente affezionato ad Apple, ma forse
+
+269
+00:13:10,200 --> 00:13:14,600
+dovresti iniziare dall'inizio e raccontarci un po' qual è la tua storia
+
+270
+00:13:14,600 --> 00:13:15,320
+con Apple.
+
+271
+00:13:15,320 --> 00:13:17,400
+Nel senso, quando è che l'hai conosciuta?
+
+272
+00:13:17,400 --> 00:13:24,040
+Come sei arrivato nell'ecosistema, chiamiamolo così, Apple almeno e poi anche come
+
+273
+00:13:24,040 --> 00:13:27,800
+hai visto sviluppare la storia di Apple, perché tu sei un utente
+
+274
+00:13:27,880 --> 00:13:31,160
+se non sbaglio, di lunga data, cioè non sei come me che
+
+275
+00:13:31,160 --> 00:13:36,520
+sono arrivato l'altro ieri e sono arrivato praticamente nell'era post Jobs essenzialmente
+
+276
+00:13:36,600 --> 00:13:37,080
+io.
+
+277
+00:13:37,080 --> 00:13:41,560
+Tu te la sei vissuta, tutta e volevo appunto avere qualche dettaglio
+
+278
+00:13:41,560 --> 00:13:44,840
+in più da te di com'è la tua storia con Apple.
+
+279
+00:13:45,320 --> 00:13:46,840
+Cercherò di essere breve.
+
+280
+00:13:46,840 --> 00:13:51,480
+Ultimo anno delle superiori, il mio insegnante di informatica: 93.
+
+281
+00:13:51,480 --> 00:13:53,720
+Insegnante di informatica mi prende di sparte.
+
+282
+00:13:53,720 --> 00:13:56,760
+L'ultimo anno era veramente un secchione.
+
+283
+00:13:56,760 --> 00:13:59,960
+Andavo bene perché ero un buon boss, giravo per la scuola, facevo
+
+284
+00:14:00,040 --> 00:14:01,160
+po' quello cavolo che volevo.
+
+285
+00:14:01,160 --> 00:14:05,960
+Tanto andavo bene, ero andato, sono stato veramente molto molto anche coccolato.
+
+286
+00:14:06,040 --> 00:14:08,600
+Il professore mi prende di parte: senti, quando finisce sta roba a
+
+287
+00:14:08,640 --> 00:14:11,000
+Periori, ti va di lavorare insieme a me, figata.
+
+288
+00:14:11,000 --> 00:14:12,600
+Cioè, stesso mi offrimo un lavoro.
+
+289
+00:14:12,600 --> 00:14:17,680
+Luca Comazzi, che è un dei guru di Apple in Italia, mio
+
+290
+00:14:17,680 --> 00:14:21,040
+insegnante di informatica delle superiori, mi ha dato il suo secondo Mac
+
+291
+00:14:21,840 --> 00:14:24,080
+con cui ho iniziato le prime cose.
+
+292
+00:14:24,080 --> 00:14:28,080
+Inizialmente come giornalista e poi anche come sviluppatore, ci ho sviluppato le
+
+293
+00:14:28,080 --> 00:14:31,120
+prime cose, ci ho sviluppato il motore grafico di un gioco che
+
+294
+00:14:31,440 --> 00:14:32,320
+in realtà è nato così.
+
+295
+00:14:32,320 --> 00:14:34,720
+Io giocavo a Dungeons Dragons con gli amici e ho fatto questo
+
+296
+00:14:34,720 --> 00:14:38,560
+motore tridimensionale per visualizzare in 3D le mappe quando giocavamo, una sorta
+
+297
+00:14:38,560 --> 00:14:41,360
+di cose, gliel'ho fatta vedere e lui è rimasto pensieroso.
+
+298
+00:14:41,680 --> 00:14:42,240
+Figata.
+
+299
+00:14:42,240 --> 00:14:44,480
+Poi la sera dopo stasera mi chiama Alex.
+
+300
+00:14:44,480 --> 00:14:46,560
+Devi farmi il motore 3D del mio gioco.
+
+301
+00:14:46,560 --> 00:14:50,480
+E allora così è nata anche la scoperta della grafica e anche
+
+302
+00:14:50,480 --> 00:14:53,760
+dell'ottimizzazione, perché fare videogiochi è una cosa complicatissima.
+
+303
+00:14:53,760 --> 00:14:56,240
+E allora non c'era la grafica 3D, non c'erano le schede.
+
+304
+00:14:56,240 --> 00:14:59,440
+Cioè, lì era proprio tutti, ogni pixel era disegnato a mano con
+
+305
+00:14:59,440 --> 00:15:04,640
+degli algoritmi iper ottimizzati, poi a quel punto di Apple mi ero
+
+306
+00:15:04,640 --> 00:15:05,040
+innamorato.
+
+307
+00:15:05,120 --> 00:15:07,760
+Ho iniziato col System 7, ma ho usato anche il System 6.
+
+308
+00:15:07,760 --> 00:15:12,960
+Ogni tanto nei primi giorni quando trabaccavo le cose, ho visto tutte
+
+309
+00:15:12,960 --> 00:15:13,760
+le aree.
+
+310
+00:15:14,000 --> 00:15:18,800
+Mi sono comprato un power PC, prima serie, del 601, poi un
+
+311
+00:15:18,800 --> 00:15:20,880
+G3, un G4.
+
+312
+00:15:21,040 --> 00:15:24,320
+Ho avuto 2, 3, 4 portatili se non sbaglio.
+
+313
+00:15:24,560 --> 00:15:28,880
+MacBook il G5 quindi ti sei già fatta la prima transizione?
+
+314
+00:15:28,880 --> 00:15:32,320
+Sì, sì, ho fatto la prima transizione tra 68.000 power PC, che
+
+315
+00:15:32,320 --> 00:15:34,000
+però è stata molto indolore.
+
+316
+00:15:34,000 --> 00:15:37,120
+La seconda su Intel, è stata una bella mazzata.
+
+317
+00:15:37,120 --> 00:15:40,480
+Però in quel momento era la nostra azienda andava veramente bene.
+
+318
+00:15:40,480 --> 00:15:42,080
+Evamo clienti grandissimi.
+
+319
+00:15:42,080 --> 00:15:45,120
+Ci siamo dotati di una rete dei primi Power Mac Intel, con
+
+320
+00:15:45,120 --> 00:15:47,840
+i quali oltre a dopo aver avuto un paio di G5, con
+
+321
+00:15:47,840 --> 00:15:50,960
+i quali abbiamo costruito una Sun Storage Area Network, non come la
+
+322
+00:15:50,960 --> 00:15:54,400
+NAS, praticamente tutti i computer erano collegati in fiber in fibra ottica
+
+323
+00:15:54,640 --> 00:16:00,280
+all'Xerve centrale, della Udito Udite, generosa capacità di 7 terabyte, era
+
+324
+00:16:01,320 --> 00:16:04,440
+tipo 40 kg di oggetto, cosa che adesso c'è, secondo me, in
+
+325
+00:16:04,440 --> 00:16:07,880
+questa roba in un oggetto piccolo così ci stanno 14 terabyte.
+
+326
+00:16:07,960 --> 00:16:11,640
+Perché facendo video, sapete benissimo, il video è una delle cose, la
+
+327
+00:16:11,640 --> 00:16:14,120
+cosa che occupa più spazio in assoluto.
+
+328
+00:16:14,120 --> 00:16:18,280
+E poi, appunto, l'ultima transizione è un Mac M1, un Mac Mini
+
+329
+00:16:18,280 --> 00:16:22,920
+M1 che abbiamo preso ricondizionato perché in ufficio sviluppiamo comunque app.
+
+330
+00:16:22,920 --> 00:16:26,200
+Che devo dire che quando ho provato, ho fatto tutte le configurazioni
+
+331
+00:16:26,200 --> 00:16:28,040
+qui in casa, mi ha abbastanza stupito.
+
+332
+00:16:28,040 --> 00:16:31,320
+Perché veramente è una macchinetta piccola, però non fa un pliss.
+
+333
+00:16:31,560 --> 00:16:35,080
+Nel senso, ha dei grossi è l'oggetto più piccolo, nel senso con
+
+334
+00:16:35,080 --> 00:16:39,800
+8 GB di RAM, 256 GB di hard disk, cioè, proprio è
+
+335
+00:16:39,800 --> 00:16:40,360
+il minimo
+
+336
+00:16:41,640 --> 00:16:45,880
+che si poteva comprare, e però i grossi problemi li ha quando
+
+337
+00:16:46,120 --> 00:16:50,600
+va a tappo di memoria e succede spesso quando hai due utenti
+
+338
+00:16:50,600 --> 00:16:52,280
+attivi contemporaneamente.
+
+339
+00:16:52,280 --> 00:16:55,400
+In ufficio con la macchina la usiamo io e un altro mio
+
+340
+00:16:55,400 --> 00:16:55,880
+collega.
+
+341
+00:16:55,880 --> 00:16:57,720
+Io per fare sia sviluppo che video.
+
+342
+00:16:57,720 --> 00:16:59,160
+Il mio collega solo per fare sviluppo.
+
+343
+00:16:59,160 --> 00:17:02,760
+Tra l'altro applicazioni non native, ma frappate.
+
+344
+00:17:02,760 --> 00:17:06,520
+Praticamente sono dei siti web che diventano delle applicazioni native.
+
+345
+00:17:06,520 --> 00:17:09,400
+E a volte quando siamo in due facciamo lo switch veloce e
+
+346
+00:17:09,400 --> 00:17:12,200
+lì sento veramente quella macchina che dice: No!
+
+347
+00:17:12,520 --> 00:17:15,320
+Tuttavia, per il resto, quando gli fai esportare da Final Cut, proprio
+
+348
+00:17:15,480 --> 00:17:18,680
+nessun problema compilare su X, cioè se gli fai fare un task
+
+349
+00:17:18,680 --> 00:17:22,120
+alla volta e Davide Gatti, che tra l'altro è qui, sta guardando.
+
+350
+00:17:22,120 --> 00:17:23,000
+Salutiamo.
+
+351
+00:17:23,160 --> 00:17:25,320
+Salutiamo calorosamente, Davide!
+
+352
+00:17:25,320 --> 00:17:28,920
+E lui dice che lui gli 8 giga si sentono tantissimo.
+
+353
+00:17:28,920 --> 00:17:30,920
+Però sì, gli ho viste tu tutte le transizioni.
+
+354
+00:17:30,920 --> 00:17:33,800
+Ho avuto praticamente un modello per ogni generazione.
+
+355
+00:17:33,800 --> 00:17:35,320
+Come la vedi questa transizione?
+
+356
+00:17:35,320 --> 00:17:36,840
+È più facile delle altre?
+
+357
+00:17:36,840 --> 00:17:38,600
+Sì, sì, sì, assolutamente.
+
+358
+00:17:38,680 --> 00:17:42,920
+I grossi problemi arrivano nell'applicazione che vanno più a basso livello, ovvero
+
+359
+00:17:43,000 --> 00:17:46,080
+sia l'audio, che è quello che è sempre più cattivo.
+
+360
+00:17:46,240 --> 00:17:50,480
+Perché sul video Apple ha lavorato tanto e ha tipo queste macchine
+
+361
+00:17:50,560 --> 00:17:54,720
+hanno i coprocessori che fanno il video, lo gestiscono in maniera molto
+
+362
+00:17:55,040 --> 00:17:58,000
+lineare, ma anche perché il video si è semplificato moltissimo negli anni.
+
+363
+00:17:58,000 --> 00:18:01,040
+Quando ho iniziato io, i programmi di encoding erano meravigliosi.
+
+364
+00:18:01,680 --> 00:18:04,880
+Visto che lo spazio era poco, la banda su internet era pochissima,
+
+365
+00:18:04,880 --> 00:18:08,400
+andare a recuperare un 1% di un video, era comunque sempre qualche
+
+366
+00:18:08,400 --> 00:18:09,680
+kilobyte che era qualcosa.
+
+367
+00:18:09,680 --> 00:18:13,040
+E c'era questa applicazione, c'era questo media cleaner, se non sbaglio, si
+
+368
+00:18:13,040 --> 00:18:16,240
+chiamava, ti faceva vedere le barrette per ogni singolo fotogramma di quanto
+
+369
+00:18:16,240 --> 00:18:20,400
+occupava, allora praticamente diventavi una sorta di mago con i codec.
+
+370
+00:18:20,400 --> 00:18:26,320
+Adesso, se tutto standardizzato, si utilizza un peg 4 per qualsiasi cosa
+
+371
+00:18:26,480 --> 00:18:30,320
+ed è decodificato e decodificato in tempo reale da questi hardware, ma
+
+372
+00:18:30,320 --> 00:18:31,200
+proprio senza problemi.
+
+373
+00:18:31,200 --> 00:18:34,320
+L'audio invece è molto più stronza, la gente pensa che il video
+
+374
+00:18:34,320 --> 00:18:34,880
+sia cattivo.
+
+375
+00:18:34,880 --> 00:18:39,280
+L'audio è molto più cattivo perché l'audio ogni singolo intervento dell'audio ha
+
+376
+00:18:39,280 --> 00:18:42,560
+una durata di un 50 millesimo di secondo, per cui c'è nel
+
+377
+00:18:42,560 --> 00:18:45,120
+senso che c'è un sacco di robe che devono avvenire contemporaneamente.
+
+378
+00:18:45,120 --> 00:18:47,200
+Tra l'altro il video, se tu perdi un fotogramma, non te ne
+
+379
+00:18:47,200 --> 00:18:48,240
+accorgi neanche.
+
+380
+00:18:48,240 --> 00:18:52,560
+In audio, se perdi un centesimo di secondo, ti dà un colpo
+
+381
+00:18:52,560 --> 00:18:54,880
+bestiale per cui gestire l'audio è un casino.
+
+382
+00:18:54,880 --> 00:18:58,880
+Infatti, quello è gestito veramente tanto tanto a basso livello.
+
+383
+00:18:58,880 --> 00:19:01,920
+Fino a due anni fa, quando tu guardavi il WWDC di Apple,
+
+384
+00:19:01,920 --> 00:19:05,360
+le breakdown session che parlavano di audio, dicevano non usate Swift per
+
+385
+00:19:05,360 --> 00:19:08,880
+fare audio, dovete usare il C, perché altrimenti non è abbastanza performante.
+
+386
+00:19:08,880 --> 00:19:11,920
+E dici che con tutta la potenza di calcolo che hanno queste
+
+387
+00:19:11,920 --> 00:19:14,880
+macchine, ti dicevano devi abbassare di una tacca, stare più vicino al
+
+388
+00:19:14,880 --> 00:19:15,600
+metallo possibile.
+
+389
+00:19:15,680 --> 00:19:17,520
+Per cui quella è la cosa più difficile ed è il motivo
+
+390
+00:19:17,520 --> 00:19:20,240
+per cui ogni volta che c'è una nuova versione del sistema operativo,
+
+391
+00:19:20,240 --> 00:19:22,960
+tutto il sottosistema audio va alle cozze.
+
+392
+00:19:22,960 --> 00:19:26,960
+È l'audio è sempre un cattivo cliente, diciamo, nel senso che anche
+
+393
+00:19:27,200 --> 00:19:30,600
+non si riesce a neanche a capire tanto bene parlando tra comuni
+
+394
+00:19:30,600 --> 00:19:34,600
+mortali, a differenza di un decibel, che non è di un'unità ma
+
+395
+00:19:34,600 --> 00:19:39,240
+è esponenziale, e quindi è difficile dirgli: guarda, se alzi dei decibel
+
+396
+00:19:39,240 --> 00:19:43,160
+è difficile, è diverso che alzare di un decibel soltanto, solo per
+
+397
+00:19:43,160 --> 00:19:46,120
+parlare solo dell'unità di misura.
+
+398
+00:19:46,120 --> 00:19:50,360
+Quindi pensiamo a cosa deve fare un computer dietro a un calcolo
+
+399
+00:19:50,360 --> 00:19:53,880
+di questo tipo, perché comunque sono calcoli mica semplici da fare tra
+
+400
+00:19:53,880 --> 00:19:54,680
+altre cose.
+
+401
+00:19:54,680 --> 00:19:59,240
+Adesso hai parlato delle tue, diciamo del tuo setup aziendale, in realtà
+
+402
+00:19:59,240 --> 00:20:00,520
+hai parlato del tuo Mac
+
+403
+00:20:02,120 --> 00:20:07,240
+Mini M1 che usate in azienda, ma tu personalmente cosa stai utilizzando
+
+404
+00:20:07,240 --> 00:20:08,280
+adesso nella vita?
+
+405
+00:20:08,600 --> 00:20:12,760
+La mia macchina è sempre aziendale, è un MacBook Pro del 2019
+
+406
+00:20:12,760 --> 00:20:14,520
+da 16 pollici.
+
+407
+00:20:15,320 --> 00:20:21,400
+Ho chiesto, mi è stato concesso modello bolla papale, mi è stato
+
+408
+00:20:21,400 --> 00:20:24,840
+concesso di averlo con 32GB di RAM, che è stata una mossa
+
+409
+00:20:25,000 --> 00:20:31,080
+vincente perché, soprattutto con Intel, io spesso volentieri uso almeno due applicazioni
+
+410
+00:20:31,080 --> 00:20:35,240
+grosse contemporaneamente che sono Final Cut per il montaggio, ma soprattutto After
+
+411
+00:20:35,320 --> 00:20:37,800
+Effects per fare gli effetti speciali l'animazione.
+
+412
+00:20:37,960 --> 00:20:41,000
+Sono due applicazioni che inglobano RAM.
+
+413
+00:20:41,000 --> 00:20:45,080
+C'è solo un'applicazione più cattiva di questa: che è Google Chrome, che
+
+414
+00:20:45,080 --> 00:20:47,880
+è quella un buco nero di memoria.
+
+415
+00:20:47,880 --> 00:20:49,480
+Però in realtà, queste due sono veramente cicli.
+
+416
+00:20:49,560 --> 00:20:54,120
+Poi, appena appena ci attacchi le applicazioni che utilizzi per fare per
+
+417
+00:20:54,120 --> 00:20:59,720
+altre cose, tipo l'email, la messaggistica istantanea, magari il background Spotify per
+
+418
+00:20:59,720 --> 00:21:02,600
+ascoltare musica, magari hai i Photoshop in quel momento per fare.
+
+419
+00:21:02,600 --> 00:21:03,960
+Cioè, a questo punto è un sacco di roba.
+
+420
+00:21:04,040 --> 00:21:06,720
+Questa macchina sulla RAM non ha mai avuto un problema di RAM
+
+421
+00:21:06,840 --> 00:21:07,400
+pressure.
+
+422
+00:21:07,400 --> 00:21:10,200
+Ho chiesto quello invece di un artista di un terabyte e devo
+
+423
+00:21:10,200 --> 00:21:13,000
+dire che un po' mi sono pentito perché sono sempre lì lì
+
+424
+00:21:13,000 --> 00:21:18,240
+tra il giusto bilanciamento e posso avere essenzialmente un solo grosso progetto.
+
+425
+00:21:18,560 --> 00:21:23,760
+I miei progetti tendenzialmente sono dell'ordine dei 70 ai 200 GB a
+
+426
+00:21:23,760 --> 00:21:25,840
+seconda della grandezza.
+
+427
+00:21:25,840 --> 00:21:29,440
+Oggi ho lavorato su un progetto da 450 GB di un video
+
+428
+00:21:29,440 --> 00:21:30,240
+farmaceutico.
+
+429
+00:21:30,240 --> 00:21:32,320
+Però tendenzialmente l'ordine di ragazza è quello.
+
+430
+00:21:32,320 --> 00:21:35,360
+E di conseguenza riesco ad averne solo uno di questi qui, che
+
+431
+00:21:35,360 --> 00:21:37,200
+è quello su cui sto lavorando in quel momento.
+
+432
+00:21:37,200 --> 00:21:41,600
+Altrimenti ho attaccato un hard disk esterno, un hard disk da 5TB
+
+433
+00:21:41,760 --> 00:21:44,720
+che ho comprato 85 euro qualche mese fa su Amazon.
+
+434
+00:21:44,720 --> 00:21:48,160
+Sai quelle offerte imperdibili, ho detto sì, lo prendo, lo voglio.
+
+435
+00:21:48,400 --> 00:21:53,520
+Altrimenti per alcune cose ho un paio di SD interni, che però
+
+436
+00:21:53,680 --> 00:21:57,520
+ho messo in un guscio di quelli da pochi euro su Aliexpress,
+
+437
+00:21:57,520 --> 00:21:58,880
+collegati in USB 3.
+
+438
+00:21:59,360 --> 00:22:01,680
+L'USB3 va più che bene per questo tipo di cose.
+
+439
+00:22:01,840 --> 00:22:05,120
+Il grosso problema è sempre la questione: è un oggetto che è
+
+440
+00:22:05,120 --> 00:22:08,960
+staccato per cui lo prendi dentro, non gli rompi le scatole, più
+
+441
+00:22:09,120 --> 00:22:14,080
+la problematica fisica del collegamento che la problematica della velocità.
+
+442
+00:22:14,080 --> 00:22:17,520
+Un'altra domanda che ti volevo fare è questo simpatico MacBoo Pro.
+
+443
+00:22:17,520 --> 00:22:20,720
+Ne parliamo sempre tanto bene di Apple, ma in realtà ti ha
+
+444
+00:22:20,720 --> 00:22:26,080
+dato qualche grattacapo con il suo cacchio di termal trotting in fame.
+
+445
+00:22:26,080 --> 00:22:30,240
+Allora, io devo essere sincero, io sono uno che potrebbe essere che
+
+446
+00:22:30,240 --> 00:22:33,760
+va a fare la Parigi da car con un computer per tutti
+
+447
+00:22:33,760 --> 00:22:36,880
+i casini che si beccano, perché i miei computer si sporcano molto
+
+448
+00:22:37,040 --> 00:22:41,040
+perché li uso dappertutto, per farvi capire, io lo uso in bagno
+
+449
+00:22:41,040 --> 00:22:44,080
+intanto che faccio la doccia per ascoltare musica o guardare un video,
+
+450
+00:22:44,160 --> 00:22:46,560
+a volte guardi i video intanto che sto facendo la doccia.
+
+451
+00:22:46,560 --> 00:22:48,560
+Un iPad, no, per queste cose.
+
+452
+00:22:48,560 --> 00:22:52,480
+Ma non avrebbe il giusto volume, dovresti provare con l'Apple Watch, che
+
+453
+00:22:52,480 --> 00:22:56,480
+è anche impermeabile, sì, si no, non mi piace avere cose i
+
+454
+00:22:56,480 --> 00:23:00,120
+polsi, per cui non riuscirei mai a mettere un orologio per cui
+
+455
+00:22:59,120 --> 00:23:01,240
+si è sporcato molto.
+
+456
+00:22:59,360 --> 00:23:03,960
+E dopo due anni di un anno e mezzo di onorato servizio,
+
+457
+00:23:04,040 --> 00:23:05,160
+si scaldava tantissimo.
+
+458
+00:22:59,760 --> 00:23:06,600
+Le vento le partivano tantissimo.
+
+459
+00:23:06,840 --> 00:23:11,000
+Devo dire che, con l'aiuto di Davide Gatti, ma guarda un po',
+
+460
+00:23:11,640 --> 00:23:14,760
+Davide Gatti, ha essenzialmente a casa sua, perché ce l'aveva la bomboletta
+
+461
+00:23:14,760 --> 00:23:18,920
+di aria compressa, ci ha spruzzato dentro l'infinito, sono usciti dei topi
+
+462
+00:23:18,920 --> 00:23:19,240
+morti.
+
+463
+00:23:19,240 --> 00:23:21,320
+Non credevo, veramente sono usciti dei topi morti.
+
+464
+00:23:21,320 --> 00:23:24,280
+Dopo questa operazione, il computer faceva un casino della Madonna, perché probabilmente
+
+465
+00:23:24,360 --> 00:23:26,600
+c'era qualche granello di polvere incastrato.
+
+466
+00:23:27,240 --> 00:23:29,720
+E allora ho passato due giorni, dicevo, Madonna Santa che.
+
+467
+00:23:29,800 --> 00:23:32,360
+però, dopo un po' si è sistemato e devo dire che non
+
+468
+00:23:32,360 --> 00:23:33,640
+ho più avuto grossi problemi.
+
+469
+00:23:33,640 --> 00:23:35,640
+C'è da dire che è anche finita l'estate.
+
+470
+00:23:35,640 --> 00:23:38,840
+Mi sono comprato l'aria compressa, l'ho usato sul videoproiettore che ha lo
+
+471
+00:23:38,840 --> 00:23:39,320
+stesso problema.
+
+472
+00:23:39,320 --> 00:23:42,760
+Il termaltrotali del videoproiettore, perché se tu stai guardando un film o
+
+473
+00:23:42,840 --> 00:23:45,160
+stai guardando una partita di calcio, a certo punto ti dice c'ho
+
+474
+00:23:45,240 --> 00:23:49,080
+caldo, si spegne, e anche se lo resetti, non va più invece,
+
+475
+00:23:49,240 --> 00:23:51,640
+l'altro giorno anche lì ci ha spruzzato dentro quello, sono usciti i
+
+476
+00:23:51,640 --> 00:23:53,000
+toppi morti anche da quello.
+
+477
+00:23:53,000 --> 00:23:55,480
+C'è molta polvere nella mia casa, probabilmente.
+
+478
+00:23:55,480 --> 00:23:58,600
+Ma anche perché il videoproiettore stai nell'angolo per cui pulirlo proprio più
+
+479
+00:23:58,600 --> 00:23:59,320
+un casino.
+
+480
+00:23:59,320 --> 00:24:02,040
+Il computer sta in giro nel senso, ma io quando vado da
+
+481
+00:24:02,120 --> 00:24:04,520
+pranzo ce l'ho davanti per mangiare.
+
+482
+00:24:05,080 --> 00:24:06,200
+Sì, lo sporcato.
+
+483
+00:24:06,440 --> 00:24:09,800
+Adesso che so come si pulisce, lo tengo più pulito, sono molto
+
+484
+00:24:09,800 --> 00:24:11,880
+più soddisfatto e molto più sereno di una volta.
+
+485
+00:24:11,880 --> 00:24:15,160
+Prima sentivo molto più l'esigenza di dire devo comprare un computer nuovo,
+
+486
+00:24:15,160 --> 00:24:17,240
+devo comprare un computer nuovo, devo comprare un computer nuovo.
+
+487
+00:24:17,240 --> 00:24:18,280
+Adesso dico: vabbè, sì.
+
+488
+00:24:18,280 --> 00:24:21,400
+Poi il contratto di noleggio operativo scade a gennaio.
+
+489
+00:24:21,960 --> 00:24:25,640
+Io mi auguro che questo di averne almeno uno in mano, non
+
+490
+00:24:25,640 --> 00:24:27,320
+vorrei essere senza, anche perché.
+
+491
+00:24:27,320 --> 00:24:29,000
+Sento odore di M1.
+
+492
+00:24:29,400 --> 00:24:31,320
+Io deve essere un Max.
+
+493
+00:24:31,880 --> 00:24:33,480
+Ho avuto le mie considerazioni.
+
+494
+00:24:33,480 --> 00:24:35,320
+Se deve essere, deve essere quello, giusto.
+
+495
+00:24:35,400 --> 00:24:36,520
+No, in ufficio, tra l'altro,
+
+496
+00:24:37,960 --> 00:24:42,680
+abbiamo un Mac Pro del 2012 che non è ufficialmente sopportato dai
+
+497
+00:24:42,680 --> 00:24:46,480
+sistivi di Apple da quattro anni e ogni anno c'è un escamotage
+
+498
+00:24:46,480 --> 00:24:50,480
+per la prima volta l'aggiornamento del firmware che diceva al sistema operativo:
+
+499
+00:24:50,480 --> 00:24:52,320
+Sì, sì, sono quello nuovo vai tranquillo.
+
+500
+00:24:52,480 --> 00:24:55,520
+La volta dopo una patch del sistema operativo, l'ultima patch è stata
+
+501
+00:24:55,520 --> 00:24:56,720
+veramente quella di Big Sur.
+
+502
+00:24:56,800 --> 00:24:58,880
+È stata veramente cattiva e l'ha ucciso.
+
+503
+00:24:58,880 --> 00:25:02,400
+Nel senso, adesso sta macchina è veramente seduta, anche perché non riconosce
+
+504
+00:25:02,400 --> 00:25:05,600
+la scheda grafica, che è una MD vecchia, aggiornata rispetto a quella
+
+505
+00:25:05,600 --> 00:25:09,200
+che c'era dentro, che era un'invidia di queste dimensioni, un quadratino di
+
+506
+00:25:09,200 --> 00:25:11,680
+quelli del secolo scorso.
+
+507
+00:25:11,680 --> 00:25:14,320
+Però, nel senso che adesso ogni tanto ho dei momenti di crisi
+
+508
+00:25:14,320 --> 00:25:16,400
+ed è diventata veramente la mia seconda macchina.
+
+509
+00:25:16,400 --> 00:25:18,640
+Anche quando sono in un ufficio, uso il portatile, uso il max
+
+510
+00:25:18,640 --> 00:25:21,680
+o grosso grosso solo se devo fare delle cose che sono sicuro
+
+511
+00:25:21,680 --> 00:25:22,800
+che ci riesco a fare.
+
+512
+00:25:22,800 --> 00:25:25,520
+Ecco, vi do un pro tip, giusto perché non tutti hanno un
+
+513
+00:25:25,520 --> 00:25:29,680
+Davide Gatti dietro con sé, il pro tip è questo che io
+
+514
+00:25:29,680 --> 00:25:34,000
+utilizzo normalmente una volta al mese prendo e sbatto le ventole a
+
+515
+00:25:34,000 --> 00:25:37,360
+manetta per 20 minuti, indipendentemente da quello che succede.
+
+516
+00:25:37,360 --> 00:25:41,200
+Quindi, essenzialmente, facendo in questo modo, anche se il computer non ha
+
+517
+00:25:41,200 --> 00:25:45,360
+bisogno, utilizzo Mac fan control e permette di mettere le ventole a
+
+518
+00:25:45,360 --> 00:25:48,240
+manette, le lascio lì 20 minuti e vedo già che la roba
+
+519
+00:25:48,240 --> 00:25:48,720
+incomincia.
+
+520
+00:25:48,880 --> 00:25:51,920
+C'è già il mio video che incomincia a sporcarsi di polvere.
+
+521
+00:25:51,920 --> 00:25:55,520
+Quindi, se lavorate in ambienti polverosi o ve lo portate spesso in
+
+522
+00:25:55,520 --> 00:25:58,800
+giro, invece di farlo solo una volta al mese, incominciate a farlo
+
+523
+00:25:58,800 --> 00:26:00,320
+una volta ogni due settimane.
+
+524
+00:26:00,320 --> 00:26:05,280
+E vedete che ringrazierete tanto quanto ha ringraziato il nostro simpatico Alex,
+
+525
+00:26:05,280 --> 00:26:06,560
+il nostro Davide Gatti.
+
+526
+00:26:06,560 --> 00:26:07,760
+Che ringraziamo tutti quanti.
+
+527
+00:26:07,760 --> 00:26:10,720
+In ogni caso, per dire la verità: consiglio di Roberto ho iniziato
+
+528
+00:26:10,720 --> 00:26:15,520
+a applicarlo anch'io ed effettivamente è utile, lo faccio su tutti i
+
+529
+00:26:15,520 --> 00:26:18,400
+Mac, portatili e non portatili.
+
+530
+00:26:18,400 --> 00:26:23,200
+Anche perché, comunque, col fatto che ci sono elettrostatici, sostanzialmente basta un
+
+531
+00:26:23,200 --> 00:26:26,240
+poco di polvere e la polvere è ovunque.
+
+532
+00:26:26,400 --> 00:26:31,400
+Poi vabbè, in città è una roba imbarazzante, si fa a riempirli
+
+533
+00:26:31,400 --> 00:26:35,800
+di schifo, e ovviamente, ecco i Mac secondo me uno dei difetti,
+
+534
+00:26:35,800 --> 00:26:38,280
+chiamiamoli così, è che sono silenziosissimi.
+
+535
+00:26:38,280 --> 00:26:43,000
+Cioè, Apple tira al massimo per non far partire le ventole, però
+
+536
+00:26:43,080 --> 00:26:45,080
+a volte è un po' eccessivo.
+
+537
+00:26:45,080 --> 00:26:47,560
+Io mi ricordo ancora una volta che a un certo punto ho
+
+538
+00:26:47,560 --> 00:26:51,880
+sentito la ventola partire, ho visto la sbuffata di fumo uscire dalle
+
+539
+00:26:52,120 --> 00:26:54,840
+Mac e ho detto che cacchio è successo!
+
+540
+00:26:54,840 --> 00:26:57,960
+E mi sono preoccupato perché ho detto qua è bruciato.
+
+541
+00:26:58,200 --> 00:27:01,400
+Poi è andato avanti e ho detto: Vabbè, allora tutto a posto.
+
+542
+00:27:01,720 --> 00:27:05,320
+Si vede che era la prima volta che poi il mio lavoro
+
+543
+00:27:05,320 --> 00:27:10,280
+non surriscalda particolarmente la macchina perché io faccio videosctura quindi non è
+
+544
+00:27:10,280 --> 00:27:12,600
+che faccio delle cose clamorose.
+
+545
+00:27:12,840 --> 00:27:15,320
+Tuttavia, sì, c'ero rimasto abbastanza male.
+
+546
+00:27:15,880 --> 00:27:19,800
+Detto questo, io il consiglio di usare l'aria compressa, cioè la bottiglietta
+
+547
+00:27:19,880 --> 00:27:21,800
+costa 3,50 euro su Amazon.
+
+548
+00:27:21,800 --> 00:27:25,240
+Non ve la possono spedire nei locker, perché essendo un oggetto che
+
+549
+00:27:25,240 --> 00:27:29,080
+se trattato male esplode, te la possono portare solo a casa.
+
+550
+00:27:29,080 --> 00:27:31,000
+Ho scoperto facendo questa cosa qua.
+
+551
+00:27:31,000 --> 00:27:35,080
+Tuttavia, effettivamente quella roba lì spruzzandola in entrambi i sensi, ovviamente il
+
+552
+00:27:35,080 --> 00:27:39,800
+computer spento, sia dove l'aria entra, cioè nei lati, sia da dove
+
+553
+00:27:39,800 --> 00:27:41,160
+esce, cioè da dietro.
+
+554
+00:27:41,160 --> 00:27:45,560
+Io lo consiglierei perché effettivamente quella ha veramente tanta potenza, una potenza
+
+555
+00:27:45,560 --> 00:27:49,640
+che le ventole normali non possono avere, e di conseguenza, cioè, esce,
+
+556
+00:27:49,640 --> 00:27:50,760
+esce veramente
+
+557
+00:27:52,280 --> 00:27:55,960
+qualche pollo di polvere esce, quella più solida, cioè non esce proprio
+
+558
+00:27:55,960 --> 00:27:57,560
+il fumoso, però esce proprio la roba.
+
+559
+00:27:57,560 --> 00:27:59,960
+E quella veramente mi ha cambiato la vita, bisogna essere un po'
+
+560
+00:28:00,120 --> 00:28:00,680
+delicati.
+
+561
+00:28:00,680 --> 00:28:03,800
+Andare avanti, un po' di volte l'ho fatta per 5 minuti per
+
+562
+00:28:03,800 --> 00:28:06,520
+lato, e dopo, veramente questa cosa qua mi ha cambiato la vita.
+
+563
+00:28:06,920 --> 00:28:09,480
+La saperla l'avrei fatto un anno prima.
+
+564
+00:28:09,480 --> 00:28:13,640
+Ma dici un po': invece: oltre al me, che utilizzi anche altri
+
+565
+00:28:13,640 --> 00:28:18,240
+hardware Apple, cioè, nel senso, sistema iOS, iPad, hai un iPhone, che
+
+566
+00:28:18,240 --> 00:28:20,560
+fai nella vita nell'ambito iOS?
+
+567
+00:28:20,800 --> 00:28:26,320
+Allora, mi sono comprato un iPhone 12 Pro ricondizionato prima dell'estate, è
+
+568
+00:28:26,320 --> 00:28:30,000
+stata una mossa economicamente sbagliata perché ad averlo fatto dopo, dopo il
+
+569
+00:28:30,000 --> 00:28:33,280
+lancio dell'iPhone 13, avrei pagato molto meno, ma ho deciso che voglio
+
+570
+00:28:33,280 --> 00:28:35,920
+portarmi soltanto un oggetto piccolo per fare le fotografie.
+
+571
+00:28:35,920 --> 00:28:38,400
+Il che è stato interessante, perché mia moglie ha detto: No, porta
+
+572
+00:28:38,400 --> 00:28:40,560
+anche la macchina fotografica che fa le foto più belle.
+
+573
+00:28:40,560 --> 00:28:42,240
+Tanto la tieni tu nel tuo zaino.
+
+574
+00:28:42,240 --> 00:28:46,560
+L'ho usata per 5 foto dallo stesso identico punto in alto adige
+
+575
+00:28:46,560 --> 00:28:49,280
+e per zero foto in Sicilia, per cui quest'anno un kilo e
+
+576
+00:28:49,280 --> 00:28:54,320
+mezzo sulle spalle per un merato cavolo, l'iPhone 12 Pro a livello
+
+577
+00:28:54,320 --> 00:28:56,080
+fotografico fa paura.
+
+578
+00:28:56,080 --> 00:28:59,840
+Non ho pensato come sia il 13, ma fa delle foto meravigliose
+
+579
+00:28:59,840 --> 00:29:01,760
+e veramente veramente veramente belle.
+
+580
+00:29:01,760 --> 00:29:03,120
+C'è da dire una cosa.
+
+581
+00:29:03,120 --> 00:29:05,760
+Ultimamente lo sto usando anche per fare i video, ho girato un
+
+582
+00:29:05,760 --> 00:29:09,520
+videoclip, ho girato due video che sono nati ieri in questo evento
+
+583
+00:29:10,000 --> 00:29:11,920
+che hanno nascosto molto successo.
+
+584
+00:29:11,920 --> 00:29:16,960
+Cioè, adesso lo sto usando proprio al 60% i phone, 40% macchine
+
+585
+00:29:16,960 --> 00:29:17,760
+fotografiche.
+
+586
+00:29:17,760 --> 00:29:20,480
+Problema che hai adesso che ho adesso, devo dire che forse ci
+
+587
+00:29:20,480 --> 00:29:21,680
+vorrebbe una macchina più potente.
+
+588
+00:29:21,680 --> 00:29:25,440
+È che mi sono detto: Oh, sono un professionista, giriamo a 10
+
+589
+00:29:25,440 --> 00:29:28,320
+bit in HDR non l'avessi mai fatto.
+
+590
+00:29:28,320 --> 00:29:33,920
+Cioè, i file pesano praticamente identici, però, final cat dice: Non riconosco
+
+591
+00:29:33,920 --> 00:29:34,800
+sta roba qui.
+
+592
+00:29:34,800 --> 00:29:36,960
+L'hai fatto tu, praticamente.
+
+593
+00:29:36,960 --> 00:29:40,320
+Per cui bisogna ogni volta che si fa un video in HDR
+
+594
+00:29:40,400 --> 00:29:44,320
+con l'iPhone, in fin a casa bisogna andare a forzargli Color Space
+
+595
+00:29:44,320 --> 00:29:49,840
+a 2020, che è fondamentalmente il modo di interpretare i colori, la
+
+596
+00:29:49,840 --> 00:29:54,240
+dico praticamente in maniera molto semplice: perché altrimenti vedi un oggetto veramente
+
+597
+00:29:54,640 --> 00:29:58,080
+non illuminato, cioè, sovraesposto all'infinito, e mi sono detto: Oh mio dio,
+
+598
+00:29:58,080 --> 00:30:00,360
+ho rovinato tutte le riprese, poi a un certo punto ho detto:
+
+599
+00:30:00,360 --> 00:30:01,560
+ma no, ma io la vedevo giusta.
+
+600
+00:30:01,560 --> 00:30:02,440
+Poi lo guardo nel telefono.
+
+601
+00:29:59,840 --> 00:30:03,320
+No, il telefono si vede giusto.
+
+602
+00:30:03,720 --> 00:30:07,080
+Vabbè, sarà il color space, allora bisogna dargli a mano nei setting
+
+603
+00:30:07,080 --> 00:30:07,720
+del clip.
+
+604
+00:30:07,880 --> 00:30:09,480
+È un ordore della verità.
+
+605
+00:30:09,480 --> 00:30:13,400
+Tuttavia, ti dà quel minimo di controllo in più che effettivamente, probabilmente
+
+606
+00:30:13,560 --> 00:30:16,440
+quando giri in green screen, quando fai delle cose in cui hai
+
+607
+00:30:16,440 --> 00:30:21,480
+bisogno della correzione colore veramente cattiva o degli effetti speciali molto precisi,
+
+608
+00:30:21,480 --> 00:30:21,880
+funziona.
+
+609
+00:30:21,880 --> 00:30:25,080
+Però per le persone normali, ma anche per me, gli 8 bit
+
+610
+00:30:25,240 --> 00:30:26,840
+sono vanno più che bene.
+
+611
+00:30:26,840 --> 00:30:31,800
+E devo dire che, però, a fare video, sono delle macchine spettacolari.
+
+612
+00:30:31,800 --> 00:30:35,800
+E l'idea di piacerebbe per pure cosità provare un 13 per vedere
+
+613
+00:30:35,800 --> 00:30:37,960
+come funziona la questione della profondità di campo.
+
+614
+00:30:37,960 --> 00:30:42,920
+Perché essendo fotografie, anzi, videografia computazionale, cosa di cui sono un grande
+
+615
+00:30:42,920 --> 00:30:43,320
+fan.
+
+616
+00:30:43,320 --> 00:30:46,280
+Non sono per niente un purista, a me interessa l'immagine come viene
+
+617
+00:30:46,280 --> 00:30:48,680
+fatta va benissimo.
+
+618
+00:30:49,000 --> 00:30:53,000
+Il problema è sempre capire come vengono gestiti i contorni più delicati,
+
+619
+00:30:53,000 --> 00:30:53,960
+cioè i capelli.
+
+620
+00:30:53,960 --> 00:30:57,160
+Ho fatto delle riprese a una donna che ha i capelli ricci
+
+621
+00:30:57,320 --> 00:31:01,480
+e l'idea di uno sfondo su uno sfondo molto lontano.
+
+622
+00:31:01,480 --> 00:31:04,280
+L'idea di avere lo sfondo più separato mi piaceva di tantissimo.
+
+623
+00:31:04,280 --> 00:31:07,640
+Però, se poi l'effetto è che vedo il blur attorno ai capelli,
+
+624
+00:31:08,200 --> 00:31:11,560
+cioè questa cosa qua o si fa benissimo o non si fa.
+
+625
+00:31:11,560 --> 00:31:14,920
+E adesso, come adesso, mentre ho visto un sacco di recensioni degli
+
+626
+00:31:14,920 --> 00:31:18,680
+i Mac dei Mac nuovi M1 ma Pro e Max, non ho
+
+627
+00:31:18,680 --> 00:31:21,400
+ancora visto uno che l'ha fatto e ha detto sì, funziona o
+
+628
+00:31:21,400 --> 00:31:22,520
+no, non funziona.
+
+629
+00:31:24,760 --> 00:31:26,200
+Non ho ancora capito questa cosa.
+
+630
+00:31:26,360 --> 00:31:29,560
+Filippo in chat mi dici gna.
+
+631
+00:31:29,560 --> 00:31:31,160
+E sono tendo.
+
+632
+00:31:31,640 --> 00:31:37,080
+Secondo me l'algoritmo di sottofondo è quello anche del blur che fanno
+
+633
+00:31:37,080 --> 00:31:37,960
+per le foto.
+
+634
+00:31:37,960 --> 00:31:43,160
+E comunque, se è sempre migliorato nel tempo, non è ancora così
+
+635
+00:31:43,160 --> 00:31:43,960
+perfetto.
+
+636
+00:31:44,440 --> 00:31:47,760
+Se vuoi essere un purista, si vede secondo me, lo stacco.
+
+637
+00:31:47,840 --> 00:31:52,240
+Dove hai dei piani, comunque ben distinti, e soprattutto casomai non hai
+
+638
+00:31:52,240 --> 00:31:56,240
+capelli o non hai della peluria, tipo i cani, allora secondo me
+
+639
+00:31:56,320 --> 00:31:57,760
+la situazione migliora molto.
+
+640
+00:31:57,840 --> 00:32:02,880
+Però, poi a volte non so, per esempio, sugli occhiali, su alcune
+
+641
+00:32:02,880 --> 00:32:07,760
+parti, sul dettaglio fine, almeno per le foto, perché io ho l'11
+
+642
+00:32:07,760 --> 00:32:10,080
+Pro quindi non ne ho nel video.
+
+643
+00:32:10,080 --> 00:32:16,080
+Però sulle foto vedo che ogni tanto l'algoritmo non è perfetto, ecco,
+
+644
+00:32:16,080 --> 00:32:20,480
+mettiamola così, e in grafica in movimento credo che sia ancora peggio.
+
+645
+00:32:20,640 --> 00:32:25,760
+Allora, tutta questa ricerca, Apple ha puntato molto sull'intelligenza artificiale, tutti i
+
+646
+00:32:25,760 --> 00:32:30,240
+suoi chip hanno più del 50% della potenza di calcolo solo per
+
+647
+00:32:30,720 --> 00:32:32,560
+l'engine Neural Engine.
+
+648
+00:32:32,560 --> 00:32:35,760
+Apple però non inventa niente, non c'è mai stato un paper di
+
+649
+00:32:35,760 --> 00:32:40,160
+Apple di un algoritmo nuovo, di una ricerca nuova, Apple utilizza robe
+
+650
+00:32:40,160 --> 00:32:43,440
+che hanno fatto altri e poi ci costruisce attorno l'hardware per velocizzarle.
+
+651
+00:32:43,760 --> 00:32:47,680
+Stessa cosa che fa Google con i processori Tensor, che sono anche
+
+652
+00:32:48,400 --> 00:32:49,200
+cellulari.
+
+653
+00:32:49,520 --> 00:32:54,240
+Gli algoritmi di separazione dei piani, che si chiamano di segmenti, segmentazione,
+
+654
+00:32:54,240 --> 00:32:58,880
+sono gli stessi da diversi anni e come tutte le cose, soprattutto
+
+655
+00:32:58,880 --> 00:33:03,120
+sull'intelligenza artificiale, l'idea è più hai potenza di calcolo, più sta roba
+
+656
+00:33:03,120 --> 00:33:03,760
+è raffinata.
+
+657
+00:33:03,760 --> 00:33:06,960
+Però questo algoritmo in particolare, più di un certo livello, siccome non
+
+658
+00:33:06,960 --> 00:33:07,520
+ci arriverà.
+
+659
+00:33:07,520 --> 00:33:12,400
+E non ci arriverà Apple in persona perché mentre altre aziende, Google
+
+660
+00:33:12,400 --> 00:33:16,240
+per prima, ma anche quelli di Prism, russi, che hanno fatto le
+
+661
+00:33:16,240 --> 00:33:20,720
+applicazioni che ti fanno diventare più vecchio, più giovane, donna, avrete presente,
+
+662
+00:33:20,720 --> 00:33:21,960
+quelle app per telefono?
+
+663
+00:33:22,120 --> 00:33:25,120
+Hanno sfruttato un sacco di dati degli utenti per fare le loro
+
+664
+00:33:25,120 --> 00:33:25,680
+ricerche.
+
+665
+00:33:25,680 --> 00:33:29,360
+Che va benissimo, può essere discutibile, però, se lo sai,
+
+666
+00:33:29,680 --> 00:33:31,320
+basta che tu lo sai, ne
+
+667
+00:33:30,000 --> 00:33:33,400
+sei conscio, eccetera, eccetera, eccetera.
+
+668
+00:33:33,480 --> 00:33:37,240
+Apple, sta roba non la fa per cui gli manca questa risorsa
+
+669
+00:33:37,240 --> 00:33:42,040
+di ricerca interna, allora si utilizza sistemi inventati da altri, e a
+
+670
+00:33:42,040 --> 00:33:45,400
+oggi effettivamente, questa cosa, i capelli non è ancora
+
+671
+00:33:47,080 --> 00:33:47,240
+.
+
+672
+00:33:47,560 --> 00:33:49,160
+non ce l'abbiamo ancora.
+
+673
+00:33:49,400 --> 00:33:51,480
+Dal mio punto di vista, io ogni volta che ti faccio una
+
+674
+00:33:51,480 --> 00:33:53,320
+previsione, poi si dimezzano gli anni.
+
+675
+00:33:53,320 --> 00:33:56,200
+Io pensavo a dieci anni, probabilmente fra cinque anni non ne avremo
+
+676
+00:33:56,200 --> 00:33:59,560
+più bisogno, non avremo più bisogno del green screen, non avremo più
+
+677
+00:33:59,560 --> 00:34:03,960
+bisogno di ottiche da 1000 da 2000 euro per fare delle fotografie.
+
+678
+00:34:03,960 --> 00:34:06,200
+Poi, il punto, il cos va nel telefono per cui alla fine
+
+679
+00:34:06,200 --> 00:34:07,160
+costa anche di più.
+
+680
+00:34:07,160 --> 00:34:10,920
+Tuttavia, fino ad allora siamo qui a sì, va abbastanza bene per
+
+681
+00:34:10,920 --> 00:34:14,760
+un'inquadratura di un secondo ci sta, se ci devi proprio raccontare una
+
+682
+00:34:14,760 --> 00:34:16,200
+storia, no.
+
+683
+00:34:16,200 --> 00:34:20,200
+Dal mio punto di vista, da regista e da direttore della fotografia,
+
+684
+00:34:20,200 --> 00:34:23,240
+io mi dico sempre: ok, questa roba qui fa questa cosa qui.
+
+685
+00:34:23,240 --> 00:34:26,280
+Va bene, so quali sono i suoi limiti, li posso fare.
+
+686
+00:34:26,280 --> 00:34:29,880
+Cioè, adesso tutti a cercare sempre la profondità di campo zero.
+
+687
+00:34:29,880 --> 00:34:34,040
+Ovvero spiega per i non, nel senso che la persona è a
+
+688
+00:34:34,040 --> 00:34:36,360
+fuoco e il resto è tutto sfocatissimo dietro.
+
+689
+00:34:36,520 --> 00:34:39,880
+Se voi guardate un film western degli anni 60 girati nella Monument
+
+690
+00:34:39,960 --> 00:34:42,520
+Valley, è tutto a fuoco perché?
+
+691
+00:34:42,520 --> 00:34:44,120
+Perché con quel cavolo di sole
+
+692
+00:34:45,720 --> 00:34:49,320
+chiudi il diaframma al massimo, è un'apertura di un certo tipo per
+
+693
+00:34:49,320 --> 00:34:50,760
+cui è tutto a fuoco.
+
+694
+00:34:50,760 --> 00:34:54,360
+Per cui non è l'estetica di queste cose iper sfocate dietro.
+
+695
+00:34:54,360 --> 00:34:57,640
+Il bokeh, si chiama così in fotografia, è una cosa degli ultimi
+
+696
+00:34:57,640 --> 00:35:00,120
+anni che vabbè, bella, ci sta, piacevole, eccetera.
+
+697
+00:35:00,120 --> 00:35:00,440
+Eccetera.
+
+698
+00:35:00,440 --> 00:35:03,320
+Ma non è l'unica, se tu sai cosa cosa puoi ottenere e
+
+699
+00:35:03,320 --> 00:35:04,520
+cosa non puoi ottenere, ci sta.
+
+700
+00:35:04,520 --> 00:35:07,480
+Nel senso, è un po' come dire un grande adesso non voglio
+
+701
+00:35:07,480 --> 00:35:08,920
+dire che sono un grande regista, no.
+
+702
+00:35:08,920 --> 00:35:12,360
+Un grande chef apre il frigorifero, trova tre ingredienti, dice, tranquillo, ti
+
+703
+00:35:12,360 --> 00:35:13,720
+tiro quello fuori così buono.
+
+704
+00:35:13,720 --> 00:35:17,040
+Non è la ricetta migliore del mondo però ci mangiamo bene stasera
+
+705
+00:35:17,200 --> 00:35:20,160
+per cui se tu sai cosa cosa puoi ottenere con queste macchine
+
+706
+00:35:20,320 --> 00:35:23,920
+bene io il telefono l'uso tantissimo con lo stabilizzatore portato lo stabilizzatore
+
+707
+00:35:23,920 --> 00:35:28,640
+da 65 euro è proprio l'ultima cosa che puoi comprare su Amazon,
+
+708
+00:35:28,640 --> 00:35:32,640
+fai delle cose spettacolari e ben sapendo cosa puoi fare e cosa
+
+709
+00:35:32,640 --> 00:35:35,760
+non puoi fare con un po' di esperienza, ripeto io dopo 23
+
+710
+00:35:35,760 --> 00:35:38,960
+anni ho ancora un sacco di robe da imparare però diciamo che
+
+711
+00:35:38,960 --> 00:35:43,920
+sono meno spaventato l'esperienza ti fa spaventare di meno perché hai viste
+
+712
+00:35:43,920 --> 00:35:47,120
+tante per cui sai come muoverti e sai cosa ottenere.
+
+713
+00:35:47,200 --> 00:35:51,360
+Poi effettivamente se voglio ottenere lo sfondo sfocato, metto la mia bella
+
+714
+00:35:51,360 --> 00:35:57,040
+camera con il mio bel obiettivo da 1800 euro sull'insieme e faccio
+
+715
+00:35:57,040 --> 00:35:58,080
+quello che devo fare.
+
+716
+00:35:58,080 --> 00:36:02,160
+Mi sembra un'ottima cosa, nel senso, avere anche la possibilità di utilizzare
+
+717
+00:36:02,160 --> 00:36:06,560
+mezzi che non sono stati spessamente pensati per fare fotografie di alto
+
+718
+00:36:06,560 --> 00:36:10,480
+livello, avere anche il tuo parere riguardo a questi mezzi che abbiamo,
+
+719
+00:36:10,480 --> 00:36:12,000
+che sono gli smartphone, che molti
+
+720
+00:36:13,120 --> 00:36:20,400
+utilizzano limitatamente per mandare messaggi oppure fare qualche fotografia, sapere che il
+
+721
+00:36:20,400 --> 00:36:24,000
+livello si è alzato così tanto inizia a dar da pensare, nel
+
+722
+00:36:24,000 --> 00:36:28,400
+senso che immagino che molti abbiano lasciato a casa, come hai fatto
+
+723
+00:36:28,400 --> 00:36:34,320
+tu, la propria macchina fotografica, chiamiamola così professionale, perché alla fine diciamocelo
+
+724
+00:36:34,320 --> 00:36:38,560
+chiaramente, la miglior macchina fotografica che uno può avere è quella che
+
+725
+00:36:38,560 --> 00:36:42,160
+hai sempre con te e hai sempre con te lo smartphone, purtroppo.
+
+726
+00:36:42,160 --> 00:36:44,640
+Quella che hai sempre con te è che impieghi meno di tre
+
+727
+00:36:44,720 --> 00:36:47,360
+secondi a scattare la foto.
+
+728
+00:36:47,360 --> 00:36:51,440
+Una però devo dire che i limiti, non limiti, al buio, questa
+
+729
+00:36:51,440 --> 00:36:53,040
+roba qui fa delle cose spettacolari.
+
+730
+00:36:53,040 --> 00:36:57,680
+Ho fatto una foto alla luna sul mare, ha l'algoritmo bellissimo.
+
+731
+00:36:58,080 --> 00:37:01,160
+Ti dice stai fermo per tre secondi, e tu stai fermo, cioè,
+
+732
+00:37:01,160 --> 00:37:04,440
+non è che devi non respirare, stai abbastanza fermo e ti vengono
+
+733
+00:36:59,840 --> 00:37:06,040
+fuori delle cose che neanche tu vedi
+
+734
+00:36:59,920 --> 00:37:07,000
+a occhio nudo.
+
+735
+00:37:07,240 --> 00:37:08,600
+Ho fatto delle foto con concerto.
+
+736
+00:37:08,600 --> 00:37:11,160
+Le prime foto vere che ho fatto con questo telefono il giorno
+
+737
+00:37:11,160 --> 00:37:13,240
+dopo che l'ho preso, sono nato a un concerto di un mio
+
+738
+00:37:13,240 --> 00:37:15,320
+amico, il primo concerto dopo due anni.
+
+739
+00:37:15,320 --> 00:37:18,120
+E cavolo, ho fatto delle cose che non avevo visto.
+
+740
+00:37:18,120 --> 00:37:22,840
+E la cosa più bella è: sorgeva la luna sul mare, all'ultimo
+
+741
+00:37:22,840 --> 00:37:23,480
+traghetto.
+
+742
+00:37:23,480 --> 00:37:27,320
+Proprio c'era il pixel rosso là in fondo, e ho fatto il
+
+743
+00:37:27,320 --> 00:37:31,720
+video del mare che si muoveva in Parallasse sulla luna, o cioè
+
+744
+00:37:31,880 --> 00:37:35,880
+sta roba qui, nel senso, con una macchina fotografica dovevo avere una
+
+745
+00:37:35,880 --> 00:37:39,720
+Sony Alpha di quelle da incazzate per fare una roba del genere
+
+746
+00:37:39,800 --> 00:37:41,160
+e non so se ci sarei riuscito.
+
+747
+00:37:41,160 --> 00:37:44,680
+Invece, con questo oggettino qui, cretino, porca miseria, ho fatto delle cose.
+
+748
+00:37:44,680 --> 00:37:48,600
+Manca uno zoomone a questo oggetto per essere perfetto.
+
+749
+00:37:48,600 --> 00:37:52,920
+Tuttavia questo grandangolo meraviglioso che io ti invidiavo tantissimo, Filippo.
+
+750
+00:37:53,240 --> 00:37:58,200
+Adesso è meraviglioso fare riprese a 0,5 perio, proprio hai una visione
+
+751
+00:37:58,200 --> 00:37:59,720
+meravigliosa del mondo.
+
+752
+00:37:59,720 --> 00:38:04,040
+E tra l'altro con lo stabilizzatore è talmente largo che prende dentro
+
+753
+00:38:04,040 --> 00:38:08,520
+un po' dello stabilizzatore per cui devo andare a 0,7508 come zoom,
+
+754
+00:38:08,520 --> 00:38:15,800
+e ciò, nonostante, ho movimenti meravigliosi, perfetti e fighissimi, e la cosa
+
+755
+00:38:15,800 --> 00:38:18,360
+vera, non mi devo più preoccupare della scarsa luce.
+
+756
+00:38:19,080 --> 00:38:22,040
+Non è poco, non è poco assolutamente.
+
+757
+00:38:22,040 --> 00:38:24,040
+Ma sentì, oltre ai
+
+758
+00:38:25,560 --> 00:38:28,200
+phone, hai anche per caso un iPad che gira per casa?
+
+759
+00:38:28,200 --> 00:38:28,760
+Lo usi?
+
+760
+00:38:28,760 --> 00:38:31,560
+Sì, ho un iPad del 2018, anche questo.
+
+761
+00:38:31,560 --> 00:38:35,640
+Ho comprato un'offerta meravigliosa: 199 euro al Bennett.
+
+762
+00:38:35,640 --> 00:38:36,280
+Era bellissimo.
+
+763
+00:38:36,960 --> 00:38:38,360
+E chi è che te l'ha indicato?
+
+764
+00:38:38,360 --> 00:38:38,840
+Tu?
+
+765
+00:38:39,000 --> 00:38:39,920
+Ricordamelo?
+
+766
+00:38:39,720 --> 00:38:40,960
+Me lo ricordavo,
+
+767
+00:38:41,160 --> 00:38:42,040
+grazie.
+
+768
+00:38:42,040 --> 00:38:43,840
+Cuoricino, cuoricino.
+
+769
+00:38:43,480 --> 00:38:45,920
+Il Bennett vicino
+
+770
+00:38:43,640 --> 00:38:46,480
+a casa mia,
+
+771
+00:38:44,680 --> 00:38:47,520
+apriva alle 8 e mezza.
+
+772
+00:38:47,680 --> 00:38:51,600
+Eravamo davanti al coso in tre, ci siamo guardati e lei padre:
+
+773
+00:38:51,600 --> 00:38:52,560
+sì, bene, bene.
+
+774
+00:38:52,560 --> 00:38:54,720
+E tutti, speriamo che ce ne siano abbastanza.
+
+775
+00:38:54,720 --> 00:38:55,440
+Siamo entrati,
+
+776
+00:38:56,480 --> 00:38:59,680
+alle otto e mezza di mattina il Bennett non c'è nessuno.
+
+777
+00:38:59,680 --> 00:39:02,320
+E il tizio dice, sì, sì, ne abbiamo sei o sette, va
+
+778
+00:39:02,320 --> 00:39:03,520
+bene di che color lo vuoi?
+
+779
+00:39:03,520 --> 00:39:04,720
+Nero, certo.
+
+780
+00:39:04,960 --> 00:39:08,960
+Eravamo tutti contenti, è una bella macchina, una bella macchina, funziona molto
+
+781
+00:39:08,960 --> 00:39:09,760
+bene con la Pencil.
+
+782
+00:39:09,760 --> 00:39:12,000
+Io non ho la Pencil, ma in ufficio ce l'abbiamo.
+
+783
+00:39:12,000 --> 00:39:15,680
+Siccome ho scritto un'applicazione che utilizza la Pencil per fare delle cose,
+
+784
+00:39:15,680 --> 00:39:21,920
+l'ho testato tanto, lo utilizzo veramente come strumento per leggere e per
+
+785
+00:39:21,920 --> 00:39:22,640
+fare cose.
+
+786
+00:39:22,880 --> 00:39:25,520
+Non ci produco contenuti, però non produci.
+
+787
+00:39:25,520 --> 00:39:27,760
+Però devo dire, io il primo iPad che ho preso è stato
+
+788
+00:39:27,760 --> 00:39:28,720
+dall'iPad 2.
+
+789
+00:39:28,720 --> 00:39:31,440
+E i motivi per cui uno compra le cose sono sempre la
+
+790
+00:39:31,440 --> 00:39:31,920
+pancia.
+
+791
+00:39:31,920 --> 00:39:37,280
+Poi la testa cerca di sviluppare delle scuse per quelle decisioni che
+
+792
+00:39:37,280 --> 00:39:38,720
+la pancia ha già preso.
+
+793
+00:39:38,720 --> 00:39:42,160
+Io avevo deciso di comprare l'iPad, non avevo deciso, ma avevo capito
+
+794
+00:39:42,160 --> 00:39:43,520
+che l'ho deciso lì.
+
+795
+00:39:43,520 --> 00:39:47,920
+Ero su un aeroplano, andavo a Brighton a trovare la mia ragazza
+
+796
+00:39:47,920 --> 00:39:51,600
+di allora che mi lasciò dopo due settimane, ma vabbè, questo almeno.
+
+797
+00:39:51,600 --> 00:39:56,160
+Scrivevo, io avevamo un blog in comune io e lei scrivevamo su
+
+798
+00:39:56,160 --> 00:39:56,800
+questo blog.
+
+799
+00:39:56,800 --> 00:40:00,480
+Che era carino perché erano delle lettere aperte, perché link era nascosto,
+
+800
+00:40:01,200 --> 00:40:02,240
+non era ritrovabile.
+
+801
+00:40:02,240 --> 00:40:04,720
+Scrivevo a lei sul telefono: mi ha detto: cacchio, se avessi avuto
+
+802
+00:40:04,720 --> 00:40:07,040
+un iPad sull'aereo, sarebbe stato molto più comodo.
+
+803
+00:40:07,040 --> 00:40:10,880
+E lì ho quello e guardare Twitter la mattina quando facevo colazione.
+
+804
+00:40:10,880 --> 00:40:11,840
+Abitavo ancora da solo.
+
+805
+00:40:11,840 --> 00:40:12,080
+Allora.
+
+806
+00:40:13,040 --> 00:40:16,000
+Ho avuto l'iPad 2, che era una chiave che infernale, però funzionava.
+
+807
+00:40:16,000 --> 00:40:17,280
+Quello che doveva fare lo faceva.
+
+808
+00:40:17,280 --> 00:40:21,440
+L'iPad 4 che abbiamo preso in azienda ed è stata una bella
+
+809
+00:40:21,440 --> 00:40:24,080
+macchina fino a che proprio non ce la faceva più.
+
+810
+00:40:24,080 --> 00:40:27,440
+E adesso questo iPad del 2018, che per me è come se
+
+811
+00:40:27,440 --> 00:40:30,760
+fosse nuovo, non gli faccio fare grandi cose effettivamente.
+
+812
+00:40:30,840 --> 00:40:35,480
+Poi l'applicazione che io ho scritto, ho scritto questa applicazione interna, ad
+
+813
+00:40:35,560 --> 00:40:39,960
+uso corporate su iPad, fa delle grandi cose, a un certo punto
+
+814
+00:40:40,280 --> 00:40:42,840
+deve ragionare un sacco di cose, deve fare un sacco di lavori
+
+815
+00:40:42,840 --> 00:40:48,440
+con asincroni con la connessione di rete, e veramente sembra quasi che
+
+816
+00:40:48,440 --> 00:40:49,400
+non faccia nulla.
+
+817
+00:40:49,400 --> 00:40:53,320
+Per cui ormai questi processori che sono dentro questi cosi sono veramente
+
+818
+00:40:53,320 --> 00:40:57,160
+potentissimi e molto ottimizzati per la gestione dei risparmi.
+
+819
+00:40:57,160 --> 00:40:58,600
+Sì, ho queste cose qui.
+
+820
+00:40:58,600 --> 00:41:02,920
+Ho anche un'Apple TV, l'Apple TV da sviluppatore ce la siamo comprata
+
+821
+00:41:03,240 --> 00:41:04,760
+a un dollaro, ve la ricordate?
+
+822
+00:41:04,920 --> 00:41:07,800
+Adesso in questo momento è a casa dei miei genitori perché non
+
+823
+00:41:07,800 --> 00:41:09,800
+riuscivano più a vedere da zona.
+
+824
+00:41:11,080 --> 00:41:15,400
+E invece, nel tuo lavoro, quando invece torni in ufficio, quali sono
+
+825
+00:41:15,400 --> 00:41:16,840
+le tue applicazioni di punta?
+
+826
+00:41:17,000 --> 00:41:19,560
+Magari vorrei, visto che questo qui non deve essere proprio la storia
+
+827
+00:41:19,560 --> 00:41:22,840
+di Alex Raccuglia, che probabilmente frega poco a chiunque.
+
+828
+00:41:22,840 --> 00:41:26,920
+Non è vero, anzi, interessantissimo come sempre, ci hai raccontato delle cose
+
+829
+00:41:26,920 --> 00:41:29,160
+interessanti, fidati.
+
+830
+00:41:29,160 --> 00:41:32,760
+Se voi vedeste la mia bar, quella che c'è in basso, un
+
+831
+00:41:32,760 --> 00:41:34,360
+sacco di icone, un po' di
+
+832
+00:41:35,480 --> 00:41:36,520
+hockey, esatto.
+
+833
+00:41:36,520 --> 00:41:39,720
+Allora, l'applicazione che uso sempre non mi è sono Final Cut, After
+
+834
+00:41:39,880 --> 00:41:44,760
+Effects, Photoshop Audition, quando proprio mi tocca, non è che mi fa
+
+835
+00:41:44,840 --> 00:41:45,800
+impazzire.
+
+836
+00:41:45,800 --> 00:41:51,080
+Adesso l'applicazione che uso praticamente tutti i giorni l'ho scritta io, ed
+
+837
+00:41:51,080 --> 00:41:53,240
+è un'applicazione che secondo me è utilissima.
+
+838
+00:41:53,240 --> 00:41:56,120
+Ovviamente, è un'applicazione che non ha avuto nessun successo perché è difficile
+
+839
+00:41:56,440 --> 00:41:57,720
+da comunicare.
+
+840
+00:41:57,720 --> 00:42:03,160
+Nel passato, quando ero giovane, facevo un video, lo mandavo al cliente
+
+841
+00:42:03,320 --> 00:42:05,400
+e ovviamente il cliente chiedeva delle modifiche.
+
+842
+00:42:05,960 --> 00:42:10,120
+Revisione 2, revisione 3, e poi a certo punto final del finale
+
+843
+00:42:10,120 --> 00:42:10,840
+definitivo.
+
+844
+00:42:11,160 --> 00:42:14,120
+Se mi cambia ancora qualcosa, ti stai, queste cose è meravigliose.
+
+845
+00:42:14,200 --> 00:42:18,320
+Sì, sì, capita anche noi, architetti, è una cosa così: progetto quasi
+
+846
+00:42:18,320 --> 00:42:24,240
+finito, progetto quasi finito con qualche modifica, quasi finale, manca due tocchettine,
+
+847
+00:42:24,240 --> 00:42:24,960
+ci siamo.
+
+848
+00:42:25,360 --> 00:42:28,320
+Allora a un certo punto, siccome sono credo che deve essere ossessivo
+
+849
+00:42:28,320 --> 00:42:30,960
+e compulsivo per certi versi, mi sono devo trovare un ordine a
+
+850
+00:42:30,960 --> 00:42:33,200
+queste cose, e a un certo punto mi sono detto: sai che
+
+851
+00:42:33,200 --> 00:42:33,680
+c'è?
+
+852
+00:42:33,680 --> 00:42:36,800
+Non dico più final così perché sono diventato scaremanti.
+
+853
+00:42:37,120 --> 00:42:39,520
+Fare il mestiere di fare video, diventi scaramantico.
+
+854
+00:42:40,000 --> 00:42:41,680
+Ho iniziato ad aggiungere la data.
+
+855
+00:42:41,920 --> 00:42:44,400
+La data è l'ora del momento in cui facciamo questo file.
+
+856
+00:42:44,400 --> 00:42:47,360
+Così, ok, almeno sono sicuro che parliamo la stessa lingua.
+
+857
+00:42:47,360 --> 00:42:50,560
+Cioè, tu vedi lo stesso quale versione stai guardando, ma c'è quella
+
+858
+00:42:50,560 --> 00:42:55,120
+final, no, quella 12 dicembre 41, almeno sono sicuro.
+
+859
+00:42:55,120 --> 00:42:58,720
+Allora mi sostituito questa applicazione che è semplice: trascina un file su
+
+860
+00:42:58,720 --> 00:43:00,880
+questa applicazione e ci aggiunge la data.
+
+861
+00:43:01,040 --> 00:43:04,960
+Secondo me è comodissima, perché così almeno hai il versioning in automatico.
+
+862
+00:43:05,360 --> 00:43:08,880
+Lo sai che si è capitato proprio nel posto sbagliato per dirlo,
+
+863
+00:43:08,880 --> 00:43:11,840
+perché io adesso non lo sto guardando in video, provo a dare
+
+864
+00:43:11,840 --> 00:43:13,520
+un'occhiata adesso a Filippo.
+
+865
+00:43:13,520 --> 00:43:17,280
+Che faccia, ma conoscendo il nostro Filippo, è già lì che sta
+
+866
+00:43:17,280 --> 00:43:21,840
+pensando con comandi rapidi come fare la stessa cosa, ma la vedo
+
+867
+00:43:21,840 --> 00:43:24,960
+io la luce che hai negli occhi, Filippo, la vedo già.
+
+868
+00:43:25,600 --> 00:43:30,480
+Allora a dirti la verità: io utilizzo Tex Espander per fare queste
+
+869
+00:43:30,480 --> 00:43:31,200
+cose qua.
+
+870
+00:43:31,360 --> 00:43:32,480
+Che a me capita
+
+871
+00:43:33,520 --> 00:43:38,400
+del versioning, chiamiamolo così, in questo caso, dato il file che mando,
+
+872
+00:43:38,400 --> 00:43:43,040
+diciamo, io aggiungo solitamente Rev e poi FS, per esempio, per dire
+
+873
+00:43:43,040 --> 00:43:46,720
+Filippo Strozzi, di modo che bene o male, c'è un e se
+
+874
+00:43:46,720 --> 00:43:52,160
+succedono nello stesso giorno, a noi non capita molto spesso di fare
+
+875
+00:43:52,160 --> 00:43:54,400
+avanti e indietro in giornata, chiamiamolo così.
+
+876
+00:43:54,400 --> 00:43:58,080
+Solitamente io lo mando, il giorno dopo viene visto o viene letto.
+
+877
+00:43:58,040 --> 00:44:00,920
+Tuttavia, tendenzialmente questo è il mio metodo.
+
+878
+00:44:01,160 --> 00:44:06,120
+Tuttavia, capisco che invece, casomai un botta a risposta col cliente anche
+
+879
+00:44:06,120 --> 00:44:08,440
+rapido, sia molto più comodo una gestione.
+
+880
+00:44:08,600 --> 00:44:12,040
+Poi immagino perché tu trascini proprio il file sulla tua app, in
+
+881
+00:44:12,040 --> 00:44:14,600
+automatico viene tutto da solo.
+
+882
+00:44:14,600 --> 00:44:17,320
+Allora ti dico, un text e spanner lo uso anch'io.
+
+883
+00:44:17,320 --> 00:44:23,720
+Io credo di avere tipo 300 diverse espansioni, dall'email, naturalmente, chiocciola a
+
+884
+00:44:23,720 --> 00:44:27,960
+chiocciola, la data, perché tutti i video che faccio hanno comunque un
+
+885
+00:44:27,960 --> 00:44:32,360
+cartello impresso nel video con la versione, eccetera, e anche lì lo
+
+886
+00:44:32,360 --> 00:44:35,400
+metto, infatti, sto spensando, prima o un po' dovrò fare un'app anche
+
+887
+00:44:35,400 --> 00:44:35,880
+per questo.
+
+888
+00:44:36,840 --> 00:44:39,880
+Sì, è un po' più lungo perché devo fondamentalmente comprimere il video
+
+889
+00:44:39,880 --> 00:44:40,920
+due volte poi dopo.
+
+890
+00:44:40,920 --> 00:44:43,400
+Il problema è se devo mandare 10 file.
+
+891
+00:44:43,880 --> 00:44:47,080
+Se tu devi fare così, devi fondamentalmente cliccare sul nome del file,
+
+892
+00:44:47,080 --> 00:44:50,520
+aspettare quel mezzo secondo che capisca che sei andato lì, poi spostarti
+
+893
+00:44:50,920 --> 00:44:54,040
+col mouse o con la tastiera dare alla fine del file, aggiungere
+
+894
+00:44:55,080 --> 00:44:58,760
+la combinazione di comandi, e tu hai usato 5 lettere, che secondo
+
+895
+00:44:58,760 --> 00:45:01,560
+me sono troppi, io mi sbaglierei 3 volte su 4.
+
+896
+00:45:01,560 --> 00:45:05,240
+Cioè, invece, a me l'idea di non dover usare neanche la tastiera,
+
+897
+00:45:05,240 --> 00:45:07,400
+per queste cose qua mi piace tantissimo.
+
+898
+00:45:07,400 --> 00:45:10,920
+Per cui ho questo mio sistema con cui poi non solo mando
+
+899
+00:45:10,920 --> 00:45:13,320
+i file, ma ho anche le varie versioni dei file che ho
+
+900
+00:45:13,320 --> 00:45:13,720
+mandato.
+
+901
+00:45:13,720 --> 00:45:16,600
+Ovvio di alcune cose non ha senso, tipo se il file che
+
+902
+00:45:16,600 --> 00:45:19,880
+ho prodotto oggi era di 7 GB e ho 10 versioni, comincia
+
+903
+00:45:19,880 --> 00:45:23,240
+a diventare impegnativo, diventa importante.
+
+904
+00:45:23,240 --> 00:45:26,520
+Però per i preventivi, per i documenti, ma anche veramente tutti i
+
+905
+00:45:26,520 --> 00:45:29,720
+filmati, anche quando li carico su YouTube, ci metto sempre a stacchio
+
+906
+00:45:29,720 --> 00:45:31,640
+di aggiunta perché mi fa comodo.
+
+907
+00:45:31,640 --> 00:45:35,480
+Io dico sempre: se tu fai il timestamp di qualcosa nel nome,
+
+908
+00:45:35,480 --> 00:45:37,800
+quel file automaticamente diventa univoco.
+
+909
+00:45:37,800 --> 00:45:41,080
+Per esempio, quando faccio i filmati, telecamera, eccetera, eccetera, alla fin fine
+
+910
+00:45:41,320 --> 00:45:46,240
+i filmati hanno MV underscore e quattro cifre diverse.
+
+911
+00:45:46,480 --> 00:45:48,800
+Per cui quel file lì è un file, so che un file
+
+912
+00:45:48,800 --> 00:45:52,320
+video fatto magari da quella camera, perché so che la sintassi è
+
+913
+00:45:52,320 --> 00:45:53,120
+quella lì.
+
+914
+00:45:53,120 --> 00:45:56,480
+Però magari che ho l'ultima volta che ho girato, avevo due telecamere
+
+915
+00:45:56,560 --> 00:46:00,160
+due camere, l'iPhone, una GoPro e in più tutti questi file erano
+
+916
+00:46:00,240 --> 00:46:02,080
+GoPro, GoPro 1, GoPro 2.
+
+917
+00:46:02,080 --> 00:46:04,480
+La prima cosa che faccio è aggiungere un prefisso.
+
+918
+00:46:04,480 --> 00:46:08,320
+Qui utilizzavo fino a qualche tempo fa, a Bader Finder remname, che
+
+919
+00:46:08,320 --> 00:46:10,240
+è un'applicazione di reneaming di file.
+
+920
+00:46:10,240 --> 00:46:14,640
+Praticamente trascino questi file e automaticamente ci mettevo header in testa.
+
+921
+00:46:14,640 --> 00:46:18,080
+Il nome del cliente, il nome del progetto, e poi in coda
+
+922
+00:46:18,080 --> 00:46:18,560
+la data.
+
+923
+00:46:18,560 --> 00:46:20,880
+E poi mi sono scritto un'applicazione Cine che fa questa roba qui.
+
+924
+00:46:20,880 --> 00:46:23,920
+Per cui adesso è diventata è un'applicazione che a seconda del nome
+
+925
+00:46:23,920 --> 00:46:28,320
+del file aggiunge o toglie le estensioni, prefissi e suffissi, che mi
+
+926
+00:46:28,320 --> 00:46:29,280
+aiuta tantissimo.
+
+927
+00:46:29,280 --> 00:46:32,640
+Perché così almeno so che quel file lì, anche senza aprirlo, so
+
+928
+00:46:32,640 --> 00:46:35,360
+che il file di quel progetto lì, di quella roba lì, girato
+
+929
+00:46:35,360 --> 00:46:36,160
+quel giorno lì.
+
+930
+00:46:36,160 --> 00:46:38,800
+Perché è una cosa che succede spesso a chi fa video, è
+
+931
+00:46:38,800 --> 00:46:39,520
+che i progetti.
+
+932
+00:46:39,520 --> 00:46:42,160
+Ah, non solo a chi fa video, anche a chi far renderlo.
+
+933
+00:46:42,640 --> 00:46:44,640
+È una cosa importante quando fai video.
+
+934
+00:46:44,640 --> 00:46:48,320
+Mentre quando fai un file di Photoshop, il file di Photoshop alla
+
+935
+00:46:48,320 --> 00:46:52,240
+fine occupa tipo 300 giga perché ha dentro tutto tutti i livelli,
+
+936
+00:46:52,240 --> 00:46:53,600
+tutte le grafi, tutte le cose.
+
+937
+00:46:53,600 --> 00:46:56,560
+Quando fai video non è così, Final Cut puoi scegliere di farlo,
+
+938
+00:46:56,560 --> 00:46:59,680
+io scelgo di non farlo perché voglio avere sott'occhio le cose.
+
+939
+00:46:59,680 --> 00:47:02,400
+Per cui i progetti di Final Cut e anche quelli di After
+
+940
+00:47:02,560 --> 00:47:06,240
+Effects sono molto snelli perché hanno un riferimento, nel senso, anche perché
+
+941
+00:47:06,560 --> 00:47:08,640
+un progetto occuperebbe centinaia di GB.
+
+942
+00:47:08,720 --> 00:47:11,440
+Quelli di Davide Gatti, infatti, occupano così, ma perché lui
+
+943
+00:47:12,560 --> 00:47:14,000
+non fa le cose come le faccio io.
+
+944
+00:47:14,080 --> 00:47:17,120
+Per cui hai un riferimento a un puntatore a quel file lì.
+
+945
+00:47:17,120 --> 00:47:18,960
+E a volte ti capita di spostarti.
+
+946
+00:47:18,960 --> 00:47:21,280
+Magari prendi il progetto e lo metti su un hard disk esterno
+
+947
+00:47:21,280 --> 00:47:24,160
+per poterci lavorare da casa, e hai le cose che hanno una
+
+948
+00:47:24,160 --> 00:47:27,120
+struttura che è leggermente simile, ma non è identica, alla struttura di
+
+949
+00:47:27,120 --> 00:47:27,600
+cartelle.
+
+950
+00:47:27,600 --> 00:47:29,760
+E allora, se fai nel caso ti dice: Dove sta il file
+
+951
+00:47:29,760 --> 00:47:31,320
+MV001?
+
+952
+00:47:31,480 --> 00:47:34,680
+E tu dici cercatelo tu, e lui dici: ne ho trovati tre.
+
+953
+00:47:34,680 --> 00:47:38,520
+Anzi, neanche, il primo che ho trovato te lo attacco.
+
+954
+00:47:38,600 --> 00:47:42,200
+Magari il file 001 di un altro progetto che non c'entra assolutamente
+
+955
+00:47:42,200 --> 00:47:42,520
+niente.
+
+956
+00:47:42,520 --> 00:47:44,360
+E una volta che hai fatto questa roba qui non può più
+
+957
+00:47:44,360 --> 00:47:45,080
+tornare indietro.
+
+958
+00:47:45,080 --> 00:47:46,760
+Nel senso, torna alla versione precedente.
+
+959
+00:47:46,760 --> 00:47:49,720
+E no, ormai è questa qui, cioè ti attacchi.
+
+960
+00:47:49,720 --> 00:47:52,760
+Per cui per me la nomenclatura, il fatto che un file sia
+
+961
+00:47:52,760 --> 00:47:56,680
+assolutamente univoco è fondamentale per il mio lavoro perché finisco per
+
+962
+00:47:57,800 --> 00:48:00,360
+perdere dati è quasi come non avere un backup.
+
+963
+00:48:00,520 --> 00:48:03,240
+Per cui io sono molto talebano in questo.
+
+964
+00:48:03,240 --> 00:48:06,280
+Ogni volta che avevo uno stagista o cosa del genere, gli facevo
+
+965
+00:48:06,280 --> 00:48:09,480
+un corso: tipo: se sbagli, ti arrivo alla cinquina.
+
+966
+00:48:10,520 --> 00:48:11,400
+E devo dire che
+
+967
+00:48:12,600 --> 00:48:17,320
+li ho educati tanto bene perché essere molto paranoici diciamo che dormi
+
+968
+00:48:17,320 --> 00:48:18,680
+un po' più tranquillamente.
+
+969
+00:48:18,680 --> 00:48:19,320
+Sono d'accordo.
+
+970
+00:48:19,320 --> 00:48:21,640
+Ma senti un po' che nome ha questa tua applicazione?
+
+971
+00:48:21,640 --> 00:48:22,920
+Che non ce l'hai ancora detto?
+
+972
+00:48:23,160 --> 00:48:24,920
+Questa applicazione si chiama Date Up.
+
+973
+00:48:24,920 --> 00:48:28,120
+Credo che costi un euro, cioè 0,99.
+
+974
+00:48:28,120 --> 00:48:29,480
+Perché è un'applicazione assolutamente
+
+975
+00:48:30,520 --> 00:48:32,840
+utilissime, però fa questa roba qui.
+
+976
+00:48:33,240 --> 00:48:36,520
+Tutte queste mini applicazioni, queste mini utility le ho messe dentro tutti
+
+977
+00:48:36,680 --> 00:48:40,840
+in questo grande pacchetto di applicazioni dove sono tutte le mie applicazioni
+
+978
+00:48:40,840 --> 00:48:45,800
+in un unico bundle che se acquistate separatamente costerebbero 90 rotti dollari
+
+979
+00:48:45,880 --> 00:48:46,840
+di solito euro.
+
+980
+00:48:46,840 --> 00:48:51,640
+E di sotto la vendo 49,99 così tipo al 50% e ti
+
+981
+00:48:51,640 --> 00:48:54,040
+trovi tutte queste utilità sceme, piccoline.
+
+982
+00:48:54,040 --> 00:48:57,960
+Che tendenzialmente mi sono scritto per me, perché sono pigro.
+
+983
+00:48:57,960 --> 00:49:01,960
+Allora, la mia filosofia di vita è: se tu devi fare un
+
+984
+00:49:01,960 --> 00:49:04,760
+lavoro una volta ci stai attento, lo controlli.
+
+985
+00:49:04,760 --> 00:49:06,440
+La seconda volta ci stai attento, lo controlli.
+
+986
+00:49:06,920 --> 00:49:08,840
+La terza volta ti può scappare.
+
+987
+00:49:08,840 --> 00:49:12,760
+La distrazione, la quarta volta ti sei rotto le scatole e te
+
+988
+00:49:12,760 --> 00:49:16,880
+la perdi, per cui quanto più possibile io riesco ad automatizzare lavori
+
+989
+00:49:16,880 --> 00:49:20,640
+ripetitivi è un bene, ma non perché sono pigro, perché ci mette
+
+990
+00:49:21,120 --> 00:49:24,400
+secondo il tempo che hai impiegato a sviluppare un'applicazione,
+
+991
+00:49:25,920 --> 00:49:28,400
+non l'utilizzerò mai per fare questa cosa qui.
+
+992
+00:49:28,400 --> 00:49:32,880
+Tuttavia, è un risparmio dal punto di vista della concentrazione del context
+
+993
+00:49:32,880 --> 00:49:34,400
+Switch mentale.
+
+994
+00:49:34,400 --> 00:49:35,520
+Un risparmio mentale.
+
+995
+00:49:35,520 --> 00:49:38,240
+Tu sai che se trascini quella roba su quella roba lì, va
+
+996
+00:49:38,240 --> 00:49:40,800
+avanti per i cavoli suoi, parte, svolge il suo lavoro, tu non
+
+997
+00:49:40,800 --> 00:49:43,680
+ci devi pensare infatti, tu non ci devi pensare perché il grosso
+
+998
+00:49:43,680 --> 00:49:45,280
+problema per me è anche il context Switch.
+
+999
+00:49:45,280 --> 00:49:48,720
+Sei concentrato su una cosa, il cliente dice, mi mandi quella roba
+
+1000
+00:49:48,720 --> 00:49:49,120
+lì.
+
+1001
+00:49:49,120 --> 00:49:52,240
+Quando il cliente dice mi mandi quella roba lì, automaticamente hai perso
+
+1002
+00:49:52,240 --> 00:49:55,360
+gli ultimi 20 secondi di quel lavoro che stai facendo, è un
+
+1003
+00:49:55,360 --> 00:49:58,800
+quarto d'ora per raccapezzarti perché eri veramente concentrato.
+
+1004
+00:49:58,800 --> 00:50:00,640
+Più riesco ad evitare queste cose qui.
+
+1005
+00:50:00,640 --> 00:50:03,680
+Proprio perché sono vecchio e anziano, non so più l'elasticità mentale di
+
+1006
+00:50:03,680 --> 00:50:06,320
+quando avevo vent'anni, e meglio è per me.
+
+1007
+00:50:06,320 --> 00:50:09,440
+Ma no, ma non solo anche per te, perché comunque mantenere la
+
+1008
+00:50:09,440 --> 00:50:12,960
+concentrazione non è facile, soprattutto in tempi moderni.
+
+1009
+00:50:12,960 --> 00:50:17,120
+Ci stavo ragionando proprio l'altro giorno che abbiamo dovuto aspettare a iOS
+
+1010
+00:50:17,120 --> 00:50:18,720
+15 che infilasse
+
+1011
+00:50:19,920 --> 00:50:26,960
+questa gestione delle notifiche, ci dobbiamo auto creare un sistema per difenderci
+
+1012
+00:50:27,600 --> 00:50:31,120
+da ciò che il cellulare ci dà fastidio e ci notifica.
+
+1013
+00:50:31,360 --> 00:50:34,000
+Siamo arrivati a qualcosa di assurdo.
+
+1014
+00:50:34,480 --> 00:50:37,760
+Io ho un cellulare che ha al suo interno un sistema che
+
+1015
+00:50:37,760 --> 00:50:41,280
+permette di azittire le notifiche che mi deve dare il cellulare.
+
+1016
+00:50:41,280 --> 00:50:45,120
+Siamo a questo punto, siamo veramente allo sbando.
+
+1017
+00:50:45,120 --> 00:50:50,800
+Quindi la concentrazione in questo tempo moderno non è così banale mantenerla.
+
+1018
+00:50:50,880 --> 00:50:54,160
+Poso completamente quello che hai detto: che nel momento in cui ti
+
+1019
+00:50:54,160 --> 00:50:59,200
+chiede il cliente qualcosa, tu ti devi per forza staccare dal tuo
+
+1020
+00:50:59,200 --> 00:51:01,160
+lavoro e sono momenti preziosi.
+
+1021
+00:50:59,840 --> 00:51:02,840
+E ben vengano queste applicazioni.
+
+1022
+00:51:03,080 --> 00:51:07,560
+Perché tra l'altro ci raccontavi almeno noi sappiamo, perché qualcuno di noi
+
+1023
+00:51:07,560 --> 00:51:11,080
+fa anche il beta testa delle tue applicazioni, alzo la mano anche
+
+1024
+00:51:11,240 --> 00:51:12,440
+ogni tanto.
+
+1025
+00:51:12,680 --> 00:51:16,520
+E oltre a dei tab, invece io sono quello messo sempre sotto,
+
+1026
+00:51:16,520 --> 00:51:20,440
+sono sempre quello più cattivo nelle sue applicazioni a dirgli cosa non
+
+1027
+00:51:20,440 --> 00:51:24,040
+va di fatti, facciamo delle risate tra le altre cose.
+
+1028
+00:51:24,040 --> 00:51:27,480
+Perché io sono sempre quello perfettino che dice: Guarda, che dovresti fare
+
+1029
+00:51:27,480 --> 00:51:31,240
+così perché io mi metto dalla parte dell'utonto, quello che apre l'applicazione
+
+1030
+00:51:31,400 --> 00:51:33,960
+per la prima volta, dice che non so dove mettere le mani,
+
+1031
+00:51:33,960 --> 00:51:37,160
+perché alla fine siamo tutti bravi, ma fino a un certo punto,
+
+1032
+00:51:37,480 --> 00:51:38,920
+nel senso come si dice.
+
+1033
+00:51:38,920 --> 00:51:43,240
+E quindi anche chi sviluppa le applicazioni ha bisogno di un personaggio
+
+1034
+00:51:43,240 --> 00:51:46,360
+come me che ti dica: guarda, io qua non so cosa devo
+
+1035
+00:51:46,360 --> 00:51:50,120
+fare, forse è il caso che metti una freccia, un'indicazione, un titolo
+
+1036
+00:51:50,120 --> 00:51:51,640
+o qualcosa di questo tipo.
+
+1037
+00:51:51,640 --> 00:51:56,680
+Ma oltre a date app, cos'è nel tuo forziere di applicazioni che
+
+1038
+00:51:56,680 --> 00:51:57,160
+utilizzi?
+
+1039
+00:51:57,160 --> 00:52:00,520
+Allora, la seconda applicazione più usata, che questa, probabilmente è meno per
+
+1040
+00:52:00,520 --> 00:52:03,800
+mainstream, mentre la date app può servire a chiunque deve spedire roba
+
+1041
+00:52:03,800 --> 00:52:05,320
+in giro, ma anche tenersele per sé.
+
+1042
+00:52:05,320 --> 00:52:08,920
+Come vi dicevo, quando fai video, le applicazioni, sia il programma di
+
+1043
+00:52:08,920 --> 00:52:12,840
+montaggio sia il programma di compositing, fanno dei riferimenti a un particolare
+
+1044
+00:52:12,840 --> 00:52:13,240
+file.
+
+1045
+00:52:13,240 --> 00:52:16,680
+Siamo a casa che il tuo cliente Pippo Progetto Poop 01.
+
+1046
+00:52:16,680 --> 00:52:18,840
+Io già.
+
+1047
+00:52:19,480 --> 00:52:23,000
+Se questo file è un video catturato, un documento, una cosa, c'è
+
+1048
+00:52:23,160 --> 00:52:25,320
+una cosa statica, non è un problema.
+
+1049
+00:52:25,320 --> 00:52:27,640
+Il problema è che a volte sono dei semi lavorati.
+
+1050
+00:52:27,640 --> 00:52:32,120
+Io faccio così: in After Effects preparo delle composizioni che fanno dei
+
+1051
+00:52:32,120 --> 00:52:36,360
+video brevi da 10-20 secondi, e poi questi video brevi da 10-20
+
+1052
+00:52:36,360 --> 00:52:40,200
+secondi vengono tirati dentro in final cat per il montaggio.
+
+1053
+00:52:40,200 --> 00:52:44,440
+Tuttavia, questi video qui possono cambiare perché possono essere aggiornati, possono lavorare
+
+1054
+00:52:44,440 --> 00:52:47,520
+un'altra volta, aggiungere una cosa, togliere una cosa, per cui quel file
+
+1055
+00:52:47,520 --> 00:52:51,200
+lì che ha quel nome, in realtà è un file che deve
+
+1056
+00:52:51,200 --> 00:52:55,440
+cambiare nel corso del tempo, ma non ha senso mettergli la data
+
+1057
+00:52:55,520 --> 00:52:59,440
+perché ogni volta che magari aggiorno sto file dovrei fare tutto lo
+
+1058
+00:52:59,440 --> 00:53:02,000
+sbattimento di cambiare, rilinkare.
+
+1059
+00:53:02,000 --> 00:53:06,400
+E allora tendenzialmente questi file intermedi hanno un nome molto preciso.
+
+1060
+00:53:06,400 --> 00:53:09,440
+Cioè nel senso, c'è Pippo Puppa 01 vuol dire che non è
+
+1061
+00:53:09,440 --> 00:53:12,240
+che c'è una cosa fatta a caso, cioè proprio Pippo Pupp A01.
+
+1062
+00:53:12,240 --> 00:53:15,280
+After Effects quando crei una composizione ti dice composizione.
+
+1063
+00:53:15,280 --> 00:53:17,920
+E tu dici no, prima ci metto il nome in modo che
+
+1064
+00:53:17,920 --> 00:53:20,400
+se almeno in qualche modo quel file lì sia univoco.
+
+1065
+00:53:20,400 --> 00:53:22,480
+E deve stare in quella particolare posizione.
+
+1066
+00:53:22,480 --> 00:53:24,160
+Cioè io ho una cartella di render.
+
+1067
+00:53:24,160 --> 00:53:27,120
+Per ogni mio progetto, la cartella dei render di After Effects ha
+
+1068
+00:53:27,120 --> 00:53:31,360
+dentro 7-8 sottocartelle a seconda del tipo, se sono effetti speciali, se
+
+1069
+00:53:31,360 --> 00:53:35,360
+sono dei re times, se sono delle stabilizzazioni, correzione del colore, motion
+
+1070
+00:53:35,360 --> 00:53:37,360
+graphics, animazione, testi.
+
+1071
+00:53:37,680 --> 00:53:40,880
+A seconda del tipo della natura c'è una sottocartella per cui metto
+
+1072
+00:53:40,880 --> 00:53:42,400
+le cose in quella cartella lì.
+
+1073
+00:53:42,400 --> 00:53:45,920
+Però ad After Effects, per mia comodità, io renderizzo sempre in un'unica
+
+1074
+00:53:45,920 --> 00:53:49,760
+grossa cartella che si chiama cartella di render, a seconda della posizione
+
+1075
+00:53:49,920 --> 00:53:54,160
+o sulla scrivania, proprio per comodità, sul portatile o su un hard
+
+1076
+00:53:54,160 --> 00:53:57,920
+disk collegato interno sul desktop, su cui renderizzo tutto.
+
+1077
+00:53:57,920 --> 00:54:01,200
+Per cui ogni volta che After Effects renderizza per qualsiasi progetto, va
+
+1078
+00:54:01,200 --> 00:54:02,080
+sempre a finire lì.
+
+1079
+00:54:02,080 --> 00:54:05,360
+E ci va a finire anche il file Pippo Poppa01.
+
+1080
+00:54:05,360 --> 00:54:08,800
+Visto che questo Pippo Poop 01 è la versione nuova, devo sovrascrivere
+
+1081
+00:54:08,800 --> 00:54:12,320
+quella precedente e devo allora aprire il progetto Pippo Poopa 01, aprire
+
+1082
+00:54:12,320 --> 00:54:15,600
+tutte le cartelle, ricordarmi se questa roba qui è una motion graphics,
+
+1083
+00:54:15,600 --> 00:54:20,640
+è un'animazione, è un testo animato, cioè perché molte cose possono essere
+
+1084
+00:54:20,640 --> 00:54:21,120
+entrambe.
+
+1085
+00:54:21,120 --> 00:54:24,640
+Allora ho scritto un'applicazione molto semplice che si chiama Seek and Replace.
+
+1086
+00:54:24,640 --> 00:54:28,960
+Praticamente il Sic and Replace, tu gli dici la cartella del progetto,
+
+1087
+00:54:28,960 --> 00:54:32,280
+cioè il progetto Pico Popp e gli dici qual è la route
+
+1088
+00:54:29,840 --> 00:54:33,080
+di questo progetto.
+
+1089
+00:54:33,240 --> 00:54:37,960
+Tu trascini un file qualsiasi nella parte sotto e lui va a
+
+1090
+00:54:37,960 --> 00:54:43,000
+cercare tutte le ripetizioni di questo file all'interno del progettone e fa
+
+1091
+00:54:43,000 --> 00:54:46,280
+la sovrascrittura, cioè praticamente aggiorna la versione.
+
+1092
+00:54:46,280 --> 00:54:49,880
+Che è molto comodo perché puoi averne più di una copia o
+
+1093
+00:54:49,880 --> 00:54:54,440
+avere diverse cose, per esempio, in Final Cut il progettone Pippo Poppa
+
+1094
+00:54:54,440 --> 00:54:56,280
+con questo file esterno.
+
+1095
+00:54:56,280 --> 00:54:59,240
+In alcuni casi non sto qui a spiegare i motivi per cui
+
+1096
+00:54:59,240 --> 00:55:01,000
+succede, secondo me è sbagliato.
+
+1097
+00:55:01,000 --> 00:55:03,960
+Final Cut se lo tiene comunque anche al suo interno, per cui
+
+1098
+00:55:03,960 --> 00:55:08,120
+tu magari lo sostituisci nella tua cartella dove puoi accedere.
+
+1099
+00:55:08,120 --> 00:55:09,320
+Però in quella interna no.
+
+1100
+00:55:09,320 --> 00:55:11,880
+E allora dici perché la nuova versione non si vede e vedo
+
+1101
+00:55:11,880 --> 00:55:12,840
+ancora quella vecchia versione?
+
+1102
+00:55:12,840 --> 00:55:16,520
+Perché lui impancia quella vecchia, invece, la mia applicazione è proprio cattiva.
+
+1103
+00:55:16,520 --> 00:55:20,040
+Va a beccare tutte le sottocartelle, anche quelle nascoste per fare questo
+
+1104
+00:55:20,040 --> 00:55:21,320
+tipo di sostituzione.
+
+1105
+00:55:21,320 --> 00:55:25,160
+E questa cosa mi è comodissima, perché così facendo così non devo
+
+1106
+00:55:25,160 --> 00:55:27,000
+guardare io, non devo pensare.
+
+1107
+00:55:27,560 --> 00:55:29,880
+La mia piegherizia è mentare, ma non ho voglia neanche di stare
+
+1108
+00:55:29,880 --> 00:55:30,040
+lì.
+
+1109
+00:55:30,040 --> 00:55:30,840
+Perché perdere.
+
+1110
+00:55:30,840 --> 00:55:34,360
+A volte magari ci metto 20 secondi a renderizzare e tipo un
+
+1111
+00:55:34,360 --> 00:55:36,360
+minuto e mezzo a trovare dove devo andare a sostituirla.
+
+1112
+00:55:36,360 --> 00:55:40,360
+Così invece è tac, dritto come un fulmine, lo faccio in automatico,
+
+1113
+00:55:40,360 --> 00:55:43,080
+puoi impostare tanti progetti quanti vuoi.
+
+1114
+00:55:43,080 --> 00:55:46,440
+Questa è un'applicazione che ho sviluppato tanto tempo fa, infatti, oggi la
+
+1115
+00:55:46,440 --> 00:55:49,400
+rifaremo in maniera persa, anche un pochettino più elegante.
+
+1116
+00:55:49,400 --> 00:55:52,120
+Tuttavia, in questo momento funziona, non è una di quelle cose che
+
+1117
+00:55:52,120 --> 00:55:52,920
+ha grande revenue.
+
+1118
+00:55:52,920 --> 00:55:56,120
+E devo dire, questa, probabilmente è molto più indicata perché fa un
+
+1119
+00:55:56,120 --> 00:55:58,120
+lavoro più settoriale come il mio.
+
+1120
+00:55:58,120 --> 00:56:01,720
+Però per farvi capire: le icone delle mie app, io le faccio
+
+1121
+00:56:01,720 --> 00:56:04,520
+con After Effects, per cui poi le tiro dentro il progetto di
+
+1122
+00:56:04,520 --> 00:56:08,520
+XCode, che è l'idea con cui si sviluppano le applicazioni.
+
+1123
+00:56:08,520 --> 00:56:12,280
+Se io faccio una nuova versione delle icone, devo andare a trovarle.
+
+1124
+00:56:12,280 --> 00:56:15,040
+Ognuna di queste cose qui deve andarle a sostituire a mano: una
+
+1125
+00:56:15,120 --> 00:56:15,920
+rottura di scatola.
+
+1126
+00:56:15,920 --> 00:56:20,320
+Invece, così facendo, dico: Senti, trovami tutte le icone e sostituiscimele tu.
+
+1127
+00:56:14,840 --> 00:56:22,240
+Ed è questa cosa che è molto comoda.
+
+1128
+00:56:22,400 --> 00:56:26,480
+Ovvio che questa cosa qui funziona, questa applicazione Sick Replace funziona solo
+
+1129
+00:56:26,480 --> 00:56:29,200
+perché è un flusso di lavoro video, pure anche di sviluppo di
+
+1130
+00:56:29,200 --> 00:56:29,600
+app.
+
+1131
+00:56:29,840 --> 00:56:33,360
+Anche questa qua la uso tutti i giorni continuamente perché spesso volentieri
+
+1132
+00:56:33,360 --> 00:56:34,560
+mi capita di aggiornare.
+
+1133
+00:56:34,560 --> 00:56:37,920
+Alex, l'ultima applicazione di cui ci volevi parlare oggi, che poi ho
+
+1134
+00:56:38,080 --> 00:56:39,520
+ancora delle domande da farti.
+
+1135
+00:56:39,520 --> 00:56:39,840
+Quindi
+
+1136
+00:56:41,120 --> 00:56:44,800
+, velocemente, mi sono scritto un'applicazione per me che credo che sia una
+
+1137
+00:56:44,800 --> 00:56:47,520
+delle più belle che abbia mai fatto, sia dal punto di vista
+
+1138
+00:56:47,520 --> 00:56:49,360
+estetico sia dal punto di vista della completezza.
+
+1139
+00:56:49,360 --> 00:56:52,000
+Allora, io lavoro nei media, vuol dire che spesso e volentieri mi
+
+1140
+00:56:52,000 --> 00:56:57,040
+capita di transcodificare filmati, comprimerli per renderli più appetibili, ma spesso volentieri
+
+1141
+00:56:57,120 --> 00:57:01,680
+mi capita di fare un sacco di lavori con l'audio: tipo convertire
+
+1142
+00:57:01,680 --> 00:57:05,920
+una straccia stero in mono, oppure separare le tracce, oppure convertire immagini,
+
+1143
+00:57:05,920 --> 00:57:07,120
+eccetera, eccetera, eccetera.
+
+1144
+00:57:07,120 --> 00:57:10,320
+Mi sono scritto un'applicazione che racchiude tutto questo perché ce ne sono
+
+1145
+00:57:10,320 --> 00:57:13,600
+tantissime che lo fanno, ma la maggior parte fa o solo audio
+
+1146
+00:57:13,600 --> 00:57:15,840
+e video, però non gestisce la questione delle immagini.
+
+1147
+00:57:15,840 --> 00:57:19,040
+Invece, io mi sono fatto una sorta di coltellino svizzero che mi
+
+1148
+00:57:19,040 --> 00:57:22,160
+sta dando delle grandi soddisfazioni personali, non lo sta vendendo neanche una,
+
+1149
+00:57:22,960 --> 00:57:25,680
+perché è difficile da far capire quali sono i plasti di questa
+
+1150
+00:57:25,840 --> 00:57:26,320
+applicazione.
+
+1151
+00:57:26,320 --> 00:57:28,320
+Però diciamo che ha un sacco di utility dentro.
+
+1152
+00:57:28,320 --> 00:57:31,120
+Oltre al fatto che è molto più veloce di altre applicazioni che
+
+1153
+00:57:31,120 --> 00:57:32,800
+si usano per fare la transcodifica.
+
+1154
+00:57:32,800 --> 00:57:36,240
+Per esempio, Compressor, quella di Apple, è molto bella, molto ricca, eccetera,
+
+1155
+00:57:36,240 --> 00:57:36,560
+eccetera.
+
+1156
+00:57:36,560 --> 00:57:39,920
+Però tu puoi impostare un preset di default, che di solito è
+
+1157
+00:57:39,920 --> 00:57:42,640
+il mio MP 4 per i clienti, però magari ha delle particolari
+
+1158
+00:57:42,640 --> 00:57:45,360
+esigenze per un cliente che lo vuole, una risoluzione più bassa, eccetera,
+
+1159
+00:57:45,360 --> 00:57:45,760
+eccetera.
+
+1160
+00:57:45,760 --> 00:57:49,680
+Allora, prepari questo preset, trascini il video, devi selezionare tra tutti i
+
+1161
+00:57:49,680 --> 00:57:53,120
+preset quello che ti serve, trascinarlo, cioè, è sempre una rottura a
+
+1162
+00:57:53,120 --> 00:57:54,720
+livello di pensiero, una rotura di scatola.
+
+1163
+00:57:54,720 --> 00:57:56,440
+Allora, la mia applicazione è semplice.
+
+1164
+00:57:56,440 --> 00:57:59,280
+Anche con questo puoi definire i tuoi preset, però diventano dei grossi
+
+1165
+00:57:59,280 --> 00:58:01,240
+bottoncioni su cui puoi trascinare i file.
+
+1166
+00:58:01,400 --> 00:58:04,520
+Quando trascini i file, quella ti si occupa di convertire e puoi
+
+1167
+00:58:04,520 --> 00:58:09,320
+impostare tanti workflow diversi, tipo i file convertiti, aggiungigli la data, per
+
+1168
+00:58:09,320 --> 00:58:15,640
+esempio, magicamente, oppure aggiungig un suffisso, oppure mettili in una sottocartella, mettili
+
+1169
+00:58:15,640 --> 00:58:18,120
+in una sottocadera comune, cioè per ognuna di queste cose si possono
+
+1170
+00:58:18,120 --> 00:58:21,800
+impostare un sacco di preferenze comodissime per quel tipo di lavoro.
+
+1171
+00:58:21,800 --> 00:58:24,440
+E soprattutto è molto comodo dal mio punto di vista per la
+
+1172
+00:58:24,440 --> 00:58:28,760
+transcodifica anzi, come utility tra media diversi: cioè, se tu trascini un
+
+1173
+00:58:28,760 --> 00:58:32,040
+file video su un settaggio audio, ti tira fuori la traccia audio.
+
+1174
+00:58:32,040 --> 00:58:35,560
+Oppure trascini un video sformato di compressione dell'immagine e ti chiede quali
+
+1175
+00:58:35,560 --> 00:58:37,880
+fotogrammi di questo video vuoi estrapolare.
+
+1176
+00:58:37,880 --> 00:58:40,600
+Che, credetemi, è una di quelle cose che ti cambia la vita.
+
+1177
+00:58:40,600 --> 00:58:43,800
+Perché se lo devi fare, final cut, devi andare sul fotogramma che
+
+1178
+00:58:43,800 --> 00:58:47,000
+ti serve, selezionare Sport, poi andare su un altro fotogramma e di
+
+1179
+00:58:47,000 --> 00:58:49,000
+default te lo sovrascrive quello precedente.
+
+1180
+00:58:49,000 --> 00:58:50,760
+Se lo fai in After Effects è lungo.
+
+1181
+00:58:50,760 --> 00:58:53,560
+Invece, così facendo è immediato, veloce solare.
+
+1182
+00:58:54,200 --> 00:58:58,360
+Trascini un formato vettoriale come Illustrator te lo permette di salvare in
+
+1183
+00:58:58,360 --> 00:59:01,640
+PNG o in JPEG, oppure di convertire in PNG o in JPEG
+
+1184
+00:59:01,960 --> 00:59:05,400
+una web P che sono quel formato del cavolo inventato da Google
+
+1185
+00:59:05,400 --> 00:59:08,760
+per le immagini che legge solo Google il suo cavolo di Chrome,
+
+1186
+00:59:08,760 --> 00:59:11,480
+cioè non puoi usarlo per nient'altro al mondo.
+
+1187
+00:59:11,560 --> 00:59:12,680
+Invece così.
+
+1188
+00:59:12,680 --> 00:59:16,520
+Ho scoperto questo formato con la DAD perché la maestra ci mandava
+
+1189
+00:59:16,520 --> 00:59:22,280
+i file in questo formato tremendo perché usava Google Drive, ovviamente.
+
+1190
+00:59:22,280 --> 00:59:26,840
+E io ho dovuto fare tutta transcodifica a mano delle lezioni della
+
+1191
+00:59:27,000 --> 00:59:27,880
+maestra.
+
+1192
+00:59:29,000 --> 00:59:31,880
+Adesso c'è la mia app che fa questa cosa qui.
+
+1193
+00:59:31,880 --> 00:59:34,040
+L'ultima cosa che ho aggiunto è il PDF.
+
+1194
+00:59:33,840 --> 00:59:36,480
+Adesso converti i PDF in immagini.
+
+1195
+00:59:36,480 --> 00:59:38,920
+Di sotto lo si fa in Photoshop, si trascina il documento in
+
+1196
+00:59:38,920 --> 00:59:44,040
+Photoshop, si apre Photoshop, cioè hai bevuto il primo caffè, ti fa
+
+1197
+00:59:44,040 --> 00:59:48,720
+vedere tutte le immagini che vuoi convertire, scegli il range, eccetera, eccetera.
+
+1198
+00:59:48,880 --> 00:59:51,920
+Insomma, una volta che devi fare sta roba, hai passato veramente 2,
+
+1199
+00:59:51,920 --> 00:59:53,760
+3, 4 minuti a fare questo lavoro.
+
+1200
+00:59:53,760 --> 00:59:55,040
+Invece, questo è molto comodo.
+
+1201
+00:59:55,040 --> 00:59:58,000
+Trascini il file, ti apre una finestra e dice le vuoi convertire
+
+1202
+00:59:58,000 --> 00:59:58,720
+tutte?
+
+1203
+00:59:58,720 --> 00:59:59,360
+Sì, no?
+
+1204
+00:59:59,360 --> 01:00:04,080
+Puppire solo alcune, un range, fai così e automaticamente ti salva il
+
+1205
+01:00:04,080 --> 01:00:04,400
+file.
+
+1206
+01:00:04,400 --> 01:00:07,440
+Veramente se non devi fare delle cose, ti serve tutto il documento,
+
+1207
+01:00:07,440 --> 01:00:09,520
+fai due clic e hai fatto tutto.
+
+1208
+01:00:09,520 --> 01:00:13,280
+I ho pensato a un'applicazione perché fosse veloce perché non ho voglia
+
+1209
+01:00:13,280 --> 01:00:14,160
+di pensare.
+
+1210
+01:00:14,160 --> 01:00:18,240
+Cioè, già sono più lento di quando ero giovane, perché già quel
+
+1211
+01:00:18,240 --> 01:00:23,120
+poco che penso voglio pensare, cavoli miei, non a capire come utilizzare
+
+1212
+01:00:23,120 --> 01:00:26,800
+Photoshop, anche perché Photoshop è meraviglioso, come tutta la suite di Adobe.
+
+1213
+01:00:26,800 --> 01:00:29,920
+Adobe, se ci stai ascoltando, sappi che ti vogliamo male.
+
+1214
+01:00:29,920 --> 01:00:34,080
+Gli shortcut di tastiera delle applicazioni di Adobe sono diverse da quelle
+
+1215
+01:00:34,080 --> 01:00:35,040
+delle altre applicazioni.
+
+1216
+01:00:35,040 --> 01:00:39,680
+Perché noi siamo adobe, se tutta l'applicazione, per nascondere l'applicazione, fai mela
+
+1217
+01:00:39,680 --> 01:00:42,160
+H, loro no, devi fare altre combinazioni.
+
+1218
+01:00:42,320 --> 01:00:45,680
+Con poi illustrator che non ha neanche questa combinazione, anche tra loro
+
+1219
+01:00:45,680 --> 01:00:47,280
+sono diverse le cose.
+
+1220
+01:00:47,280 --> 01:00:48,800
+È veramente bestia.
+
+1221
+01:00:48,800 --> 01:00:51,440
+Cioè, per la serie tu, se deve usare le nostre applicazioni, devi
+
+1222
+01:00:51,440 --> 01:00:53,600
+usare solo le nostre a modo nostro.
+
+1223
+01:00:53,600 --> 01:00:57,200
+E dal mio punto di vista devi essere grato all'ambiente che ti
+
+1224
+01:00:57,200 --> 01:01:00,640
+circonda e capire soprattutto il tuo utente che non ha tempo, non
+
+1225
+01:01:00,640 --> 01:01:02,640
+c'ha voglia di inventarsi cose nuove.
+
+1226
+01:01:02,640 --> 01:01:06,400
+Io sono contento che Photoshop nell'ultima versione ha neural filters che mi
+
+1227
+01:01:06,400 --> 01:01:11,120
+fanno che mi cambiano il paesaggio da primaverile a invernale.
+
+1228
+01:01:11,120 --> 01:01:14,720
+Queste sono figate che mi separa benissimo il soggetto, che mi fa
+
+1229
+01:01:14,720 --> 01:01:16,160
+diventare più sorridente una persona.
+
+1230
+01:01:16,160 --> 01:01:17,200
+Cioè, queste sono figate.
+
+1231
+01:01:17,280 --> 01:01:19,280
+Io voglio usare Photoshop e fare sta roba qui.
+
+1232
+01:01:19,280 --> 01:01:22,320
+Per fare tutte queste transcodifiche, queste cose qui in altura di scatola.
+
+1233
+01:01:22,320 --> 01:01:25,040
+Ecco, l'unica cosa che manca la mia applicazione, e non sono ancora
+
+1234
+01:01:25,040 --> 01:01:29,040
+riuscito a implementare decentemente, è un motore che comprima i video in
+
+1235
+01:01:29,040 --> 01:01:31,400
+formato GIF o GIF meglio GIF.
+
+1236
+01:01:31,400 --> 01:01:34,440
+Il mio benchmark è appunto Photoshop che ha un motore di rendering
+
+1237
+01:01:29,440 --> 01:01:34,760
+delle GIF
+
+1238
+01:01:29,920 --> 01:01:36,280
+spettacolare.
+
+1239
+01:01:36,680 --> 01:01:40,600
+Tutte le altre soluzioni che sto cercando di trovare, non arrivano neanche
+
+1240
+01:01:40,600 --> 01:01:43,800
+a un briciolo della qualità di Photoshop.
+
+1241
+01:01:43,800 --> 01:01:46,520
+Per cui per adesso quella roba non c'è, e ancora lo faccio
+
+1242
+01:01:46,520 --> 01:01:46,920
+a mano.
+
+1243
+01:01:46,920 --> 01:01:47,880
+In questo caso siamo.
+
+1244
+01:01:47,880 --> 01:01:52,760
+I miei beta tester principali sono Luca Pinigiani e Giovanna Sala, te
+
+1245
+01:01:52,760 --> 01:01:53,320
+la ricordo?
+
+1246
+01:01:53,880 --> 01:01:55,240
+Salutiamo tra l'altro.
+
+1247
+01:01:55,240 --> 01:01:57,400
+Esatto, il web P, per esempio, me l'hanno tirato dentro loro.
+
+1248
+01:01:57,400 --> 01:01:59,480
+E hanno detto: ma senti, ma per caso la tua app converte
+
+1249
+01:01:59,480 --> 01:02:00,360
+anche il web P?
+
+1250
+01:02:00,360 --> 01:02:03,320
+No, dopo due ore, adesso sì,
+
+1251
+01:02:05,000 --> 01:02:10,200
+adesso sì, no, perché loro stessi mi dicono e loro lavorano nell'imaging
+
+1252
+01:02:10,200 --> 01:02:13,320
+da vent'anni, insegnano comunicazione visiva.
+
+1253
+01:02:13,480 --> 01:02:15,400
+Noi non usiamo più Adobe se possiamo.
+
+1254
+01:02:15,400 --> 01:02:17,960
+Cioè, effettivamente si sente il peso della cosa.
+
+1255
+01:02:17,960 --> 01:02:21,720
+Io devo essere sincero, After Effects lo adoro, ha delle iosincrasie, ma
+
+1256
+01:02:21,720 --> 01:02:22,440
+lo adoro.
+
+1257
+01:02:22,440 --> 01:02:26,200
+Tuttavia, sembra sviluppato da un'altra azienda, perché tutte le altre applicazioni sembrano
+
+1258
+01:02:26,520 --> 01:02:31,560
+farraginose, complicate, molto grosse, molto molto grosse.
+
+1259
+01:02:32,600 --> 01:02:37,560
+Un transatlantico per andare per fare la traversata del lago di Garda,
+
+1260
+01:02:37,560 --> 01:02:41,960
+per dire: ci sono queste cose, di dimensioni.
+
+1261
+01:02:41,960 --> 01:02:45,320
+Infatti, non dico che le app devono essere tutte minuscole che fanno
+
+1262
+01:02:45,320 --> 01:02:49,080
+una cosa sola, però dovrebbero, non lo so,
+
+1263
+01:02:50,280 --> 01:02:53,560
+tra questi due estremi, c'è qualcosa.
+
+1264
+01:02:53,560 --> 01:02:58,600
+Poi io Adobe Cloud lo odio, è una roba che devi installare
+
+1265
+01:02:58,600 --> 01:03:02,920
+per installare le applicazioni, se no, non ti si installa le applicazioni.
+
+1266
+01:03:02,920 --> 01:03:05,560
+Poi cerca di fare delle cose che non capisci mai che cosa
+
+1267
+01:03:05,560 --> 01:03:06,680
+cerca di fare.
+
+1268
+01:03:06,680 --> 01:03:11,640
+No, no, io a un certo punto usavo solo Acrobat Reader Pro
+
+1269
+01:03:12,280 --> 01:03:16,240
+per le mie esigenze che è già troppo, però oggettivamente è un
+
+1270
+01:03:14,840 --> 01:03:16,560
+dramma.
+
+1271
+01:03:17,440 --> 01:03:21,360
+In questi giorni sto usando molto Acrobat, Acrobat è quello che permette
+
+1272
+01:03:21,360 --> 01:03:27,360
+di fare il PDF, credo che sia l'applicazione più bugata del mondo,
+
+1273
+01:03:27,360 --> 01:03:29,680
+veramente ce ne ha di tutte è lenta
+
+1274
+01:03:30,800 --> 01:03:31,920
+come la morte.
+
+1275
+01:03:32,480 --> 01:03:36,240
+Ogni tanto si pianta così va proprio bellamente, diciamo cavolo!
+
+1276
+01:03:37,040 --> 01:03:38,800
+Veramente veramente fastidiosa!
+
+1277
+01:03:38,880 --> 01:03:43,520
+Ha un'interfaccia utente la serie è una sfida che tu lo possa
+
+1278
+01:03:43,520 --> 01:03:44,000
+usare.
+
+1279
+01:03:44,000 --> 01:03:44,880
+Sentite qua.
+
+1280
+01:03:44,880 --> 01:03:46,000
+Allora, ragazzi.
+
+1281
+01:03:46,000 --> 01:03:49,040
+Adesso voi mi spiegate perché sul mio hard disk.
+
+1282
+01:03:49,200 --> 01:03:53,600
+Con tutte le applicazioni che uso per la progettazione edilizia, cioè stiamo
+
+1283
+01:03:53,600 --> 01:03:57,440
+parlando di far stare sulle case, finite quella.
+
+1284
+01:03:57,600 --> 01:04:03,600
+La prima che occupa di più al mondo, chi è Acrobat Reader
+
+1285
+01:04:03,760 --> 01:04:09,920
+che occupa la bellezza di 560 mega per aprire dei cacchio di
+
+1286
+01:04:09,920 --> 01:04:10,800
+PDF.
+
+1287
+01:04:10,800 --> 01:04:13,440
+Allora, Adobe ci sei, ci fai.
+
+1288
+01:04:13,440 --> 01:04:18,240
+Cosa ci metti dentro 500, cioè mezzo giga per aprire dei PDF,
+
+1289
+01:04:18,240 --> 01:04:19,520
+ma sei scema?
+
+1290
+01:04:19,520 --> 01:04:25,200
+Nel senso, parliamoci chiaramente, ci sono applicazioni che permettono di editare e
+
+1291
+01:04:25,200 --> 01:04:30,720
+modificare i PDF in modo tranquillo senza ammazzarsi.
+
+1292
+01:04:30,720 --> 01:04:35,680
+Per esempio, PDF Expert è una di queste e occupa 120 mega.
+
+1293
+01:04:35,680 --> 01:04:38,240
+Adesso tu mi spieghi perché ho 300 mega di.
+
+1294
+01:04:38,320 --> 01:04:40,880
+Ma la spiegazione è semplice: si chiamano dipendenze.
+
+1295
+01:04:40,880 --> 01:04:44,400
+Nel senso, se tu hai un'applicazione che hai sviluppata in 30 anni,
+
+1296
+01:04:44,400 --> 01:04:47,760
+hai dipendenze da librerie che hanno dipendenze da librerie che hanno dipendenze
+
+1297
+01:04:47,760 --> 01:04:48,400
+da librerie.
+
+1298
+01:04:48,400 --> 01:04:51,760
+Per cui magari per una singola chiamata ti serve una libreria che
+
+1299
+01:04:51,760 --> 01:04:55,280
+ha bisogno di altre tre librerie per essere compilata, per cui magari
+
+1300
+01:04:55,280 --> 01:04:59,200
+per una singola chiamata puoi occupare 20 megabyte così, perché ti serve
+
+1301
+01:04:59,200 --> 01:05:01,960
+quella roba lì e pensi che chi se ne frega di 20
+
+1302
+01:05:02,040 --> 01:05:05,000
+megabyte, è meno il costo di usare sta roba che già comunque
+
+1303
+01:05:05,000 --> 01:05:08,520
+conosciamo e funziona piuttosto che andare a riscriversela da zero.
+
+1304
+01:05:08,520 --> 01:05:10,760
+Dal punto di vista dell'ingegnere del software, è così.
+
+1305
+01:05:10,760 --> 01:05:14,840
+Tutto vero, tra l'altro, perché ne parlavo appunto su Snap Architettura Imperfetta,
+
+1306
+01:05:14,840 --> 01:05:18,440
+di niente meno di Autodesk, che in questo momento è un po'
+
+1307
+01:05:18,440 --> 01:05:23,720
+in difficoltà, non vediamo un AutoCAD nativo per M1, perché appunto Autocad
+
+1308
+01:05:24,040 --> 01:05:27,800
+nato più di vent'anni fa, ha delle chiamate che fanno paura e
+
+1309
+01:05:27,800 --> 01:05:31,480
+non sanno più come girarlo nel vero senso della parola.
+
+1310
+01:05:31,480 --> 01:05:36,120
+Hanno dei problemi a gestire questo popò di programma che è nato
+
+1311
+01:05:36,120 --> 01:05:39,560
+praticamente quando io ancora bevevo il latte ancora un po'.
+
+1312
+01:05:39,560 --> 01:05:43,880
+Ma vabbè, questi sono problemi di Autodesk, ma immagino che dal punto
+
+1313
+01:05:43,880 --> 01:05:46,680
+di vista dei programmatori non sia proprio semplice.
+
+1314
+01:05:46,680 --> 01:05:51,160
+E tu immagino che me lo puoi tranquillamente dire e confermare.
+
+1315
+01:05:51,160 --> 01:05:56,920
+Ma adesso tornando al nostro argomento principale, cioè Alex Raccuglia, abbiamo parlato
+
+1316
+01:05:56,920 --> 01:06:00,840
+fino adesso che fai il programmatore, ma non fai solo questo, fai
+
+1317
+01:06:00,840 --> 01:06:06,440
+il papà dei podcaster dei podcaster e non fai solo quello, fai
+
+1318
+01:06:06,440 --> 01:06:07,800
+anche dei podcaster.
+
+1319
+01:06:07,800 --> 01:06:10,840
+Ma tu hai una filosofia tua.
+
+1320
+01:06:10,840 --> 01:06:17,640
+Ovvero che hai inaugurato un nuovo filone, diciamo, in questa palude dei
+
+1321
+01:06:17,640 --> 01:06:23,160
+podcaster che devono essere per forza in studio con le pareti insonorizzate,
+
+1322
+01:06:23,160 --> 01:06:25,640
+con il microfono e via discorrendo.
+
+1323
+01:06:25,640 --> 01:06:29,080
+Tu hai preso una strada diversa nel vero senso della parola e
+
+1324
+01:06:29,160 --> 01:06:34,720
+inaugurato un nuovo filone, ovvero il podcaster di cui sono stato anch'io,
+
+1325
+01:06:34,680 --> 01:06:38,200
+precisamente uno di quelli che lo ha fatto fino a quando andava
+
+1326
+01:06:38,200 --> 01:06:40,200
+in giro in macchina e non aveva tempo.
+
+1327
+01:06:40,200 --> 01:06:43,640
+Un altro è Davide Gatti, un altro sei tu e ci devi
+
+1328
+01:06:43,640 --> 01:06:45,360
+raccontare qual è questo filone.
+
+1329
+01:06:44,840 --> 01:06:48,480
+Simone Pizzi mi ha detto: fai un podcast in cui rispondi alle
+
+1330
+01:06:44,920 --> 01:06:50,080
+mie domande di tecnica e di tecnologia.
+
+1331
+01:06:50,400 --> 01:06:52,720
+Va bene, ma non c'avevo mai tempo di rispondere.
+
+1332
+01:06:52,720 --> 01:06:53,840
+Siamo negli anni?
+
+1333
+01:06:54,000 --> 01:06:56,160
+Quattro anni fa, quattro o cinque anni fa, credo.
+
+1334
+01:06:56,320 --> 01:06:59,760
+Ho fatto le prime sei puntate a casa, ma ne facevo una
+
+1335
+01:06:59,760 --> 01:07:00,320
+al mese perché
+
+1336
+01:07:01,600 --> 01:07:05,280
+non è tanto una questione di tempo, è il tempo giusto: cioè
+
+1337
+01:07:05,440 --> 01:07:09,360
+avere quella 30, 40, 50 minuti in cui sei a casa e
+
+1338
+01:07:09,360 --> 01:07:12,240
+puoi fare quello che vuoi, parlare ad alta voce senza che qualcuno
+
+1339
+01:07:12,240 --> 01:07:13,920
+ti chieda cose, senza essere interrotto.
+
+1340
+01:07:13,920 --> 01:07:16,400
+A un certo punto ho detto: Senti, faccio un esperimento, lo registro
+
+1341
+01:07:16,400 --> 01:07:18,000
+in macchina così ti do una risposta.
+
+1342
+01:07:18,000 --> 01:07:21,360
+Utilizzando l'iPhone 6, devo dire che facendo un po' di riduzione del
+
+1343
+01:07:21,360 --> 01:07:23,200
+rumore, ho detto, è accettabile.
+
+1344
+01:07:23,200 --> 01:07:26,960
+Ho sentito dei podcast registrati da YouTube, perché magari c'è gente che
+
+1345
+01:07:26,960 --> 01:07:30,960
+fa le comunicazioni, registra esattamente lo Skype, che si sentivano peggio.
+
+1346
+01:07:30,960 --> 01:07:33,600
+E da allora sono andato avanti a dire: Ma sai che c'è?
+
+1347
+01:07:33,600 --> 01:07:34,320
+Lo faccio in macchina?
+
+1348
+01:07:34,320 --> 01:07:38,240
+Anche perché poi in macchina uno ha veramente un ambiente di grande
+
+1349
+01:07:38,240 --> 01:07:38,720
+libertà.
+
+1350
+01:07:38,720 --> 01:07:41,760
+A parte il movimento del rumore del motore, cioè la macchina sarebbe
+
+1351
+01:07:41,760 --> 01:07:45,200
+un ambiente perfetto per registrare, perché i sedili sono tessuto per cui
+
+1352
+01:07:45,200 --> 01:07:48,080
+assorbono, non c'è praticamente riflessione se non nei vetri.
+
+1353
+01:07:48,720 --> 01:07:50,080
+L'acustica è veramente comoda.
+
+1354
+01:07:50,080 --> 01:07:55,200
+Ho andato avanti a registrare questi miei pensieri liberi senza script.
+
+1355
+01:07:55,200 --> 01:07:58,640
+Cioè, so cosa devo dire, cerco di raccontare delle storie.
+
+1356
+01:07:58,640 --> 01:08:03,200
+Parlando decentemente al telefono, tenendolo bene, poi passando un microfono, ne ho
+
+1357
+01:08:03,200 --> 01:08:04,240
+provati di tutte.
+
+1358
+01:08:04,400 --> 01:08:08,640
+Ovviamente sulla pulizia dell'audio adesso utilizzo un software che si chiama Isotope
+
+1359
+01:08:08,640 --> 01:08:13,760
+RX8, è uscito il 9 recentemente, che è un software che utilizza
+
+1360
+01:08:13,760 --> 01:08:17,360
+l'intelligenza artificiale per andare a pulire l'audio, che fa una cosa che
+
+1361
+01:08:17,360 --> 01:08:18,400
+è allucinante.
+
+1362
+01:08:18,400 --> 01:08:23,280
+Ogni tanto sento le registrazioni, dico: sembra quasi che sia in casa
+
+1363
+01:08:23,280 --> 01:08:26,560
+e non in automobile, e per cui quello, più alcuni tool che
+
+1364
+01:08:26,560 --> 01:08:30,120
+mi sono scritti io, riesco ad avere un audio che è abbastanza,
+
+1365
+01:08:29,680 --> 01:08:34,040
+se non perfetto, ma più che accettabile e non fastidioso.
+
+1366
+01:08:34,200 --> 01:08:38,600
+Poi, vabbè, sul montaggio cerco di montarlo a volte mettendomi lì, proprio
+
+1367
+01:08:38,600 --> 01:08:42,280
+guardandolo, a volte invece metto la traccia lì del programma di montaggio,
+
+1368
+01:08:42,280 --> 01:08:45,000
+lo lascio andare avanti e mi metto lì a tagliare solo se
+
+1369
+01:08:45,000 --> 01:08:48,520
+sento delle grosse castronerie o dei buchi enormi.
+
+1370
+01:08:48,520 --> 01:08:51,320
+Ma una curiosità, scusami un attimo, ti interrompo.
+
+1371
+01:08:51,320 --> 01:08:54,040
+Ma che programma utilizzi tu per fare montaggio?
+
+1372
+01:08:54,280 --> 01:08:57,160
+Utilizzo un programma che si chiama PODucer, che ho scritto, ho iniziato
+
+1373
+01:08:57,160 --> 01:09:00,920
+a scriverlo anche quello 4-5 anni fa, perché volevo un programma di
+
+1374
+01:09:00,920 --> 01:09:05,000
+montaggio audio pensato solo per i podcast, perché non c'è, non c'era,
+
+1375
+01:09:05,000 --> 01:09:05,720
+non c'è ancora.
+
+1376
+01:09:05,880 --> 01:09:09,720
+C'è questo programma che è veramente una grande fabbri del Duomo su
+
+1377
+01:09:09,720 --> 01:09:12,200
+cui lavoro sempre continuamente.
+
+1378
+01:09:12,200 --> 01:09:14,280
+È in evoluzione, è in vendita.
+
+1379
+01:09:14,280 --> 01:09:17,560
+Tuttavia, è una di quelle applicazioni che non pubblicizzo tanto perché non
+
+1380
+01:09:17,560 --> 01:09:21,080
+me la sento ancora pronta per essere utilizzata.
+
+1381
+01:09:21,080 --> 01:09:24,120
+Per esempio, Filippo l'ha usato, poi l'ha abbandonato per tornare.
+
+1382
+01:09:24,360 --> 01:09:24,600
+No,
+
+1383
+01:09:25,800 --> 01:09:31,240
+io lo apprezzo, l'ho usato, non esiste per iPad ed è quello
+
+1384
+01:09:31,240 --> 01:09:33,240
+l'ccato.
+
+1385
+01:09:33,240 --> 01:09:33,800
+Sapete che
+
+1386
+01:09:34,920 --> 01:09:39,560
+questo podcast è tutto fatto su iPad come editing, ed è effettivamente
+
+1387
+01:09:39,560 --> 01:09:42,760
+per me una comunità infinita, nel senso che io abitualmente faccio il
+
+1388
+01:09:42,760 --> 01:09:45,400
+sabato e la domenica l'editing di questo podcast.
+
+1389
+01:09:45,640 --> 01:09:47,960
+Stare davanti al computer, non ce la faccio.
+
+1390
+01:09:47,960 --> 01:09:50,200
+Non so se mi spiego, visto che poi vivo davanti a un
+
+1391
+01:09:50,200 --> 01:09:55,320
+computer, invece, casomai sdraiato sul letto, uso la pencil per editare, è
+
+1392
+01:09:55,320 --> 01:10:01,560
+un altro modo, ma non critico il tuo programma, anzi, è veramente
+
+1393
+01:10:01,560 --> 01:10:02,600
+un bel programma.
+
+1394
+01:10:02,760 --> 01:10:09,040
+Adesso diciamo, io parlo da utilizzatore che dunque sarà 120 puntate.
+
+1395
+01:10:09,040 --> 01:10:11,720
+Che l'utilizzo, quindi, insomma, qualche ora l'ho usato.
+
+1396
+01:10:11,960 --> 01:10:14,840
+Devo dire che ho visto l'evoluzione dall'inizio
+
+1397
+01:10:14,840 --> 01:10:20,160
+a quello che utilizzo ora, a novembre 2021.
+
+1398
+01:10:20,560 --> 01:10:25,280
+Ragazzi le ore che mi ha fatto risparmiare questo programma, non lo
+
+1399
+01:10:25,280 --> 01:10:32,000
+sa nemmeno Alex, perché io sono riuscito a mantenere una cadenza settimanale
+
+1400
+01:10:32,000 --> 01:10:36,480
+del mio podcast grazie al suo programma, perché la mia parlata è
+
+1401
+01:10:36,720 --> 01:10:37,920
+un po' particolare.
+
+1402
+01:10:38,000 --> 01:10:41,040
+Faccio un sacco di tagli, ne faccio davvero tantissimi.
+
+1403
+01:10:41,520 --> 01:10:44,640
+Lascio anche tante pause per farmi venire anche in mente le parole
+
+1404
+01:10:44,640 --> 01:10:45,440
+giuste.
+
+1405
+01:10:45,440 --> 01:10:50,000
+E quindi, con questo programma che ha delle particolarità come quello del
+
+1406
+01:10:50,000 --> 01:10:55,120
+taglio dei silenzi, ad esempio, o anche ad esempio quello di modificare
+
+1407
+01:10:55,120 --> 01:11:00,720
+il picco di entrata o di uscita all'interno di un taglio della
+
+1408
+01:11:00,720 --> 01:11:01,920
+traccia audio.
+
+1409
+01:11:01,920 --> 01:11:07,120
+Quindi vi permette, per esempio, se riprendete la parlata dopo una pausa,
+
+1410
+01:11:07,120 --> 01:11:11,280
+è facile che iniziate con un tono o più basso o più
+
+1411
+01:11:11,280 --> 01:11:11,840
+alto.
+
+1412
+01:11:12,160 --> 01:11:13,440
+Grazie a queste
+
+1413
+01:11:14,640 --> 01:11:19,280
+piccole maniglie che si vanno a creare sulla onda audio, voi potete
+
+1414
+01:11:19,280 --> 01:11:23,840
+alzarlo, abbassarlo in modo tale da rendere i due tagli essenzialmente allo
+
+1415
+01:11:23,840 --> 01:11:28,320
+stesso livello audio e conseguentemente a chi ascolta non se ne rende
+
+1416
+01:11:28,320 --> 01:11:28,960
+conto.
+
+1417
+01:11:28,960 --> 01:11:32,960
+A tutte queste piccole cose, come ad esempio la facilità di prendere
+
+1418
+01:11:32,960 --> 01:11:38,640
+e inserire il tappeto sonoro, modificarlo, inserire anche, esempio, delle.
+
+1419
+01:11:39,200 --> 01:11:43,440
+Il mio podcast è molto particolare perché inserisco tante musiche e qualche
+
+1420
+01:11:43,440 --> 01:11:47,280
+taglio qua e là viene molto molto comodo perché appunto si riesce
+
+1421
+01:11:47,280 --> 01:11:48,880
+a inserire anche delle pubblicità.
+
+1422
+01:11:48,880 --> 01:11:53,840
+È facile inserire delle pubblicità perché, appunto, grazie a questo programma, io
+
+1423
+01:11:53,840 --> 01:11:57,920
+inserisco la pubblicità e il tappeto sonoro si ferma prima che inizi
+
+1424
+01:11:58,080 --> 01:12:00,520
+la pubblicità, in modo tale che ci sia anche un po' di
+
+1425
+01:11:59,840 --> 01:12:02,600
+ducking sia all'ingresso che all'uscita.
+
+1426
+01:12:02,760 --> 01:12:07,720
+Sono tante di quelle piccole funzionalità che rendono facile anche per chi
+
+1427
+01:12:08,040 --> 01:12:13,160
+come me non è stato assolutamente un mago dell'audio, ha reso possibile
+
+1428
+01:12:13,160 --> 01:12:15,720
+creare un podcast come Snap, ad esempio.
+
+1429
+01:12:15,720 --> 01:12:20,280
+Quindi, secondo me, mi rendo conto che per te, Alex, è stato
+
+1430
+01:12:20,360 --> 01:12:23,240
+un lungo calvario perché l'abbiamo più o meno vissuto assieme.
+
+1431
+01:12:23,240 --> 01:12:27,880
+Cioè l'abbiamo vissuto assieme lo sviluppo di questa applicazione, dei problemi che
+
+1432
+01:12:27,880 --> 01:12:31,400
+dava, di come riuscire a trovare la soluzione migliore, la grafica e
+
+1433
+01:12:31,640 --> 01:12:32,840
+via discorrendo.
+
+1434
+01:12:32,840 --> 01:12:36,440
+Ma bisogna dire che io, dal mio punto di vista, sono estremamente
+
+1435
+01:12:36,440 --> 01:12:40,360
+soddisfatto di questo programma e non passerei ad altro appunto perché mi
+
+1436
+01:12:40,360 --> 01:12:43,000
+toglie tanto di quel tempo che non avete idea.
+
+1437
+01:12:43,000 --> 01:12:45,640
+Per fare un podcast ci vuole davvero tanto tempo.
+
+1438
+01:12:45,640 --> 01:12:49,400
+Voi non me ne rendete conto, ma loro mi annuiscono perché sono
+
+1439
+01:12:49,400 --> 01:12:51,800
+entrambi i podcaster e so bene che voi lo capite.
+
+1440
+01:12:51,800 --> 01:12:55,560
+Ma chi dall'altra parte pensa che sia abbastanza semplice mettersi davanti un
+
+1441
+01:12:55,560 --> 01:12:56,680
+microfono e parlare?
+
+1442
+01:12:56,680 --> 01:13:01,640
+C'è dietro un lavoro prima di preparazione della puntata, ma poi soprattutto
+
+1443
+01:13:01,960 --> 01:13:06,760
+della creazione della puntata, dei tagli, di tutte le finezze che ci
+
+1444
+01:13:06,760 --> 01:13:07,800
+vogliono dietro.
+
+1445
+01:13:07,800 --> 01:13:12,600
+Considerate che per quanto mi riguarda, una mezz'ora di registrato equivale a
+
+1446
+01:13:12,600 --> 01:13:16,200
+circa un'ora, un'ora e un quarto di lavoro per farla diventare 20
+
+1447
+01:13:16,200 --> 01:13:19,640
+minuti di puntata ascoltabile.
+
+1448
+01:13:19,640 --> 01:13:24,680
+Quindi voi considerate questo, Filippo so che ci va giù secco con
+
+1449
+01:13:24,680 --> 01:13:27,400
+queste cose qua e il tempo ce ne vuole tantissimo.
+
+1450
+01:13:27,400 --> 01:13:31,720
+Ma adesso tagliamo questo e ritorniamo ad Alex Pod Carster.
+
+1451
+01:13:31,720 --> 01:13:34,600
+No, va bene, adesso quello che devo dire l'ho detto.
+
+1452
+01:13:34,600 --> 01:13:37,560
+Volevo solo rispondere a Davide Gatti, che mi chiede quali strumenti preferisci
+
+1453
+01:13:37,560 --> 01:13:41,160
+per tenerti aggiornato sulle tecnologie che evolvono continuamente.
+
+1454
+01:13:41,160 --> 01:13:45,760
+Ma guarda, credo di avere qualche canale YouTube, qualche sito che frequento.
+
+1455
+01:13:46,800 --> 01:13:51,520
+Più che altro, altri podcast podcast americani che discutono di tecnologia, per
+
+1456
+01:13:51,520 --> 01:13:54,000
+cui qualcosa mi è sfuggito mi arriva.
+
+1457
+01:13:54,000 --> 01:13:57,920
+Ma con Twitter ho una mia lista di gente che dice delle
+
+1458
+01:13:57,920 --> 01:13:58,720
+cose interessanti.
+
+1459
+01:13:58,720 --> 01:14:01,040
+Per cui è molto facile che quando esci una nuova versione di
+
+1460
+01:14:01,040 --> 01:14:02,240
+un'app o
+
+1461
+01:14:03,440 --> 01:14:05,280
+quando c'è qualcosa di nuovo.
+
+1462
+01:14:05,760 --> 01:14:08,320
+Non sono uno che scopre tante cose nuove per cui mi sono
+
+1463
+01:14:08,320 --> 01:14:12,160
+fatto una sorta di mio elenco personale che mi viene fuori ormai
+
+1464
+01:14:12,160 --> 01:14:14,240
+in automatico su Twitter, su YouTube.
+
+1465
+01:14:14,240 --> 01:14:18,480
+Per cui è difficile che ci sia qualcosa di rompente senza che
+
+1466
+01:14:18,480 --> 01:14:22,480
+in qualche modo non venga informato con una bella stellona.
+
+1467
+01:14:22,480 --> 01:14:23,520
+Oh, c'è questa roba!
+
+1468
+01:14:23,520 --> 01:14:24,640
+Sappiano, sappiano.
+
+1469
+01:14:24,640 --> 01:14:26,080
+Dirti esattamente che cosa?
+
+1470
+01:14:26,080 --> 01:14:26,720
+Non lo so.
+
+1471
+01:14:26,720 --> 01:14:29,600
+Il fatto che quando Apple fa qualcosa, tutti i miei, tutte le
+
+1472
+01:14:29,600 --> 01:14:33,360
+persone che seguo su Twitter urlino al miracolo, diciamo che me ne
+
+1473
+01:14:33,360 --> 01:14:35,040
+accorgo abbastanza anch'io.
+
+1474
+01:14:35,040 --> 01:14:36,880
+Invece, io giro con la stessa domanda a Filippo.
+
+1475
+01:14:36,880 --> 01:14:38,000
+Tu invece cosa utilizzo?
+
+1476
+01:14:38,000 --> 01:14:42,000
+No, io sono diventato talebano, uso solo RSS.
+
+1477
+01:14:42,320 --> 01:14:46,400
+Twitter non lo uso più, cioè, ogni tanto ci vado, ma raramente.
+
+1478
+01:14:46,400 --> 01:14:48,080
+Questa è la mia fonte principale.
+
+1479
+01:14:49,200 --> 01:14:53,840
+Adesso per dire, in queste ultime due settimane non ho aperto Twitter
+
+1480
+01:14:53,840 --> 01:14:55,280
+perché non c'è avuto tempo.
+
+1481
+01:14:55,440 --> 01:14:58,720
+Sotto Twitter lo uso quando proprio ho un attimino di tempo libero.
+
+1482
+01:14:58,720 --> 01:15:02,000
+L'ho aperto gli ultimi cinque giorni per fare la promozione delle mie
+
+1483
+01:15:02,160 --> 01:15:03,440
+app durante il Black Friday.
+
+1484
+01:15:03,600 --> 01:15:07,280
+Mi sono accorto che avevo una coda tipo di 1500 robe da
+
+1485
+01:15:07,280 --> 01:15:07,920
+leggere.
+
+1486
+01:15:07,920 --> 01:15:10,240
+A un certo punto ho detto vabbè, scorro fino all'inizio.
+
+1487
+01:15:10,240 --> 01:15:13,920
+Mi sono perso qualsiasi cosa, lo sbarco dell'uomo su Marte, probabilmente ma
+
+1488
+01:15:13,920 --> 01:15:15,280
+va bene così.
+
+1489
+01:15:15,600 --> 01:15:18,880
+Direi che a questo punto abbiamo rubato abbastanza tempo ad Alex.
+
+1490
+01:15:18,880 --> 01:15:21,440
+Che, peraltro, secondo me, deve andare a fare delle cose,
+
+1491
+01:15:22,720 --> 01:15:25,520
+e quindi esatto.
+
+1492
+01:15:25,520 --> 01:15:30,440
+No, però volevo solo fare un piccolo pensiero per i vostri ascoltatori.
+
+1493
+01:15:30,760 --> 01:15:35,000
+Ho preparato un codice sconto, un coupon per il mio e-commerce per
+
+1494
+01:15:35,000 --> 01:15:39,480
+tutte le mie app fino al 31 gennaio, utilizzando il coupon a
+
+1495
+01:15:39,480 --> 01:15:43,080
+due podcast, poi, ovviamente è scritto A2 Podcast.
+
+1496
+01:15:43,080 --> 01:15:46,920
+Tutto attaccato, ma troverete i riferimenti li dà anche Filippo.
+
+1497
+01:15:46,920 --> 01:15:49,720
+E avete il 30% di sconto su tutto quello che comprate.
+
+1498
+01:15:49,720 --> 01:15:51,240
+Cioè, divertitevi.
+
+1499
+01:15:51,240 --> 01:15:55,320
+Potete comprare un Utility o comprarvi un po' di user, no, però
+
+1500
+01:15:56,680 --> 01:15:58,120
+grandissimo, Alex.
+
+1501
+01:15:58,120 --> 01:15:59,160
+Grazie Ale.
+
+1502
+01:15:59,160 --> 01:16:02,520
+Grazie davvero per questo grandissimo regalo che fai.
+
+1503
+01:16:02,520 --> 01:16:04,040
+Tutti quanti, anche a noi compresi.
+
+1504
+01:16:04,040 --> 01:16:04,440
+Tra l'altro.
+
+1505
+01:16:04,440 --> 01:16:06,200
+Adesso mi metto lì e ti compro tutte le app.
+
+1506
+01:16:06,520 --> 01:16:07,720
+Ma andate quel paese.
+
+1507
+01:16:08,440 --> 01:16:11,400
+Quando un amico mi compra un'app, dice sto male, veramente?
+
+1508
+01:16:11,400 --> 01:16:14,520
+L'altro giorno, veramente una persona che conosco aveva preso la domanda: Ma
+
+1509
+01:16:14,520 --> 01:16:16,440
+sei scemo.
+
+1510
+01:16:16,760 --> 01:16:20,680
+Dimmelo: ti tiro dietro i codici seriali al volo.
+
+1511
+01:16:20,680 --> 01:16:23,640
+Vabbè, vabbè, sei troppo di buon cuore, diciamoci la verità.
+
+1512
+01:16:23,640 --> 01:16:25,000
+Ascolta un po', Alex.
+
+1513
+01:16:25,000 --> 01:16:28,120
+Adesso siamo arrivati un po' verso la fine della puntata, e come
+
+1514
+01:16:28,120 --> 01:16:30,280
+sempre tocca a me un po' tirare le fila.
+
+1515
+01:16:30,280 --> 01:16:32,280
+Dove troviamo Alex Raccuglia?
+
+1516
+01:16:32,280 --> 01:16:37,720
+Lo troviamo su Altimedia, il sito dove praticamente è il suo sito
+
+1517
+01:16:37,720 --> 01:16:41,320
+principe dove ci sono tutte le applicazioni che crea Alex.
+
+1518
+01:16:41,320 --> 01:16:46,360
+Possiamo trovarlo su un tre podcast, ma ce ne sono penso altri
+
+1519
+01:16:46,760 --> 01:16:52,440
+anche altri spazi nel mondo come comparsata oppure come dietro le quinte.
+
+1520
+01:16:52,440 --> 01:16:57,400
+Citiamo i più famosi: Techno Pills Techno Pills, T C N O
+
+1521
+01:16:57,400 --> 01:16:59,800
+Pills che è il mio flusso di coscienza digitale.
+
+1522
+01:16:59,880 --> 01:17:02,200
+Molto particolare, cioè, o lo si odia o lo si ama, di
+
+1523
+01:17:02,200 --> 01:17:03,960
+sotto lo si odia senza grossi problemi.
+
+1524
+01:17:03,960 --> 01:17:06,680
+Ma non mi interessa perché lo faccio più che altro per me
+
+1525
+01:17:06,680 --> 01:17:07,000
+stesso.
+
+1526
+01:17:07,000 --> 01:17:09,480
+E poi, dopo, se qualcuno ascolta le registrazioni, sono contente.
+
+1527
+01:17:09,480 --> 01:17:11,360
+Guarda, che noi ti ascoltiamo, quindi.
+
+1528
+01:17:11,720 --> 01:17:15,760
+Cuorigini, cuoricini, mi avo tantissimo e poi ho il podcast che spesso
+
+1529
+01:17:15,760 --> 01:17:19,680
+e volentieri faccio con Roberto che MdB Samma Radio, che è il
+
+1530
+01:17:19,680 --> 01:17:22,960
+nostro podcast di musica, che è un po' in.
+
+1531
+01:17:23,040 --> 01:17:27,680
+Torneremo un po' in ibernazione perché sia io che lui abbiamo veramente.
+
+1532
+01:17:27,840 --> 01:17:30,480
+Voi sapete che il mondo finisce due volte all'anno, a luglio e
+
+1533
+01:17:30,480 --> 01:17:31,200
+a dicembre.
+
+1534
+01:17:31,200 --> 01:17:34,320
+Quest'anno per me è iniziato a settembre la tirata.
+
+1535
+01:17:34,320 --> 01:17:38,880
+Devo essere sincero, sono contento perché dopo tutti i mesi di lockdown,
+
+1536
+01:17:38,880 --> 01:17:42,640
+i nostri clienti più grossi, che sono delle case farmaceutiche, mi occupo
+
+1537
+01:17:42,640 --> 01:17:45,520
+spesso di comunicazione per le case farmaceutiche.
+
+1538
+01:17:45,520 --> 01:17:49,840
+Sono tornati all'arremaggio e mi sono detto: settimana prossima forse respiro.
+
+1539
+01:17:49,840 --> 01:17:51,840
+O c'è un video da fare per una settimana.
+
+1540
+01:17:51,840 --> 01:17:52,560
+Va bene.
+
+1541
+01:17:52,560 --> 01:17:55,600
+Infatti, sono molto felice che ci sia il ponte di Sant'Ambrogio, per
+
+1542
+01:17:55,600 --> 01:17:59,040
+cui farò cinque giorni a dormire o a guardare serie televisive.
+
+1543
+01:17:59,200 --> 01:18:02,720
+Per cui il poco tempo, ma più che il poco tempo, è
+
+1544
+01:18:02,720 --> 01:18:04,160
+anche la poca energia.
+
+1545
+01:18:04,160 --> 01:18:07,680
+Cioè uno dice: Potrei anche dedicare un'ora e mezza per sta cosa.
+
+1546
+01:18:07,680 --> 01:18:10,480
+però vorrei farlo con l'allegria, non sentendolo come un peso.
+
+1547
+01:18:10,480 --> 01:18:13,040
+E allora dice: Vabbè, con calma, poi c'è Natale.
+
+1548
+01:18:13,040 --> 01:18:14,080
+Natale si recupera.
+
+1549
+01:18:14,080 --> 01:18:17,760
+Ma non vi preoccupate, MDB Samma Radio tornerà, ve lo dico.
+
+1550
+01:18:19,040 --> 01:18:20,400
+Poi abbiamo un altro podcast.
+
+1551
+01:18:20,400 --> 01:18:22,880
+Se non errò, il vino lo porto io.
+
+1552
+01:18:22,880 --> 01:18:24,240
+Ah, giusto, è vero, che scemo.
+
+1553
+01:18:24,640 --> 01:18:28,720
+Tra l'altro, adesso notizia, non dovrei dirlo, ma nella prossima stagione, dall'anno
+
+1554
+01:18:28,800 --> 01:18:35,360
+prossimo 2022, stanno arrivando le sponsorizzate, cioè ci spediscono le bottiglie di
+
+1555
+01:18:35,360 --> 01:18:36,640
+vino fighe.
+
+1556
+01:18:37,040 --> 01:18:39,360
+Questo sì, è un bel risultato, caro Alex.
+
+1557
+01:18:40,080 --> 01:18:44,320
+Come se a me mandassero i Mac oppure mi mandassero i programmi
+
+1558
+01:18:44,320 --> 01:18:44,960
+da provare.
+
+1559
+01:18:45,200 --> 01:18:47,640
+Tutte cose che ti mandassero le case.
+
+1560
+01:18:47,640 --> 01:18:50,640
+Pensavo pensavo che ti mandano le case.
+
+1561
+01:18:50,640 --> 01:18:52,640
+A me mandano le fotografie.
+
+1562
+01:18:52,640 --> 01:18:53,840
+La fotografia tieni.
+
+1563
+01:18:53,840 --> 01:18:55,760
+Questa qui è la fotografia che devi provare.
+
+1564
+01:18:55,760 --> 01:18:56,400
+Grazie.
+
+1565
+01:18:56,400 --> 01:18:57,040
+Molto genio.
+
+1566
+01:18:57,200 --> 01:19:00,680
+Effettivamente, per certi casi, per certi versi, è come se mandassero da
+
+1567
+01:18:59,920 --> 01:19:05,000
+provare l'iPhone 13 Pro, cioè siamo lì.
+
+1568
+01:19:06,360 --> 01:19:07,880
+Siamo molto in fibrillazione.
+
+1569
+01:19:08,520 --> 01:19:13,640
+E questa è una cosa che non riesco a capire quanta poca
+
+1570
+01:19:13,640 --> 01:19:18,200
+lungimiranza ci sia in Italia perché in realtà ci sono dei podcast.
+
+1571
+01:19:18,200 --> 01:19:21,480
+Io parlo dal mio punto di vista, al di là del numero
+
+1572
+01:19:21,480 --> 01:19:25,400
+di ascolti, ci sono dei podcast che parlano delle stesse cose che
+
+1573
+01:19:25,400 --> 01:19:30,920
+parlo io e sono sponsorizzate dalle ditte di cui parlo anche io.
+
+1574
+01:19:30,920 --> 01:19:34,440
+Quindi io lo faccio gratis da pirla, mentre gli altri si fanno
+
+1575
+01:19:34,440 --> 01:19:35,960
+pagare per parlarne.
+
+1576
+01:19:35,960 --> 01:19:41,320
+E quindi, veramente qui in Italia c'è un'aberrazione di questo tipo, in
+
+1577
+01:19:41,320 --> 01:19:46,360
+America invece funziona decisamente meglio, diciamo che il business funziona meglio, sono
+
+1578
+01:19:46,520 --> 01:19:49,560
+molto contento di questa notizia: del vino lo porto io che venga
+
+1579
+01:19:49,560 --> 01:19:53,400
+sponsorizzato, vuol dire che c'è luce, quindi c'è qualcuno che ci crede
+
+1580
+01:19:53,400 --> 01:19:54,920
+e sono molto molto ben contento.
+
+1581
+01:19:55,080 --> 01:19:56,680
+Sì, devo essere sincero.
+
+1582
+01:19:56,680 --> 01:20:00,040
+Qui è il podcast funziona, è uno dei più, non è che
+
+1583
+01:20:00,040 --> 01:20:03,960
+ce ne sono molti, il fatto che c'è Marco Barbetti, che è
+
+1584
+01:20:03,960 --> 01:20:08,440
+una sorta di personalità, a parlarne, per cui ha un sacco di
+
+1585
+01:20:08,440 --> 01:20:09,960
+contatti diretti.
+
+1586
+01:20:09,960 --> 01:20:12,520
+La cosa bella è che Dessas ha iniziato a dire così pur
+
+1587
+01:20:12,600 --> 01:20:12,840
+parla.
+
+1588
+01:20:12,920 --> 01:20:18,360
+Ma senti, sai, c'è una cosa che potrebbe interessarvi: tendenzialmente, sono gli
+
+1589
+01:20:18,360 --> 01:20:22,280
+altri due sommelie: cioè mia moglie e lo chef, quando ogni volta
+
+1590
+01:20:22,280 --> 01:20:26,120
+che arriva una notizia, calzano fanno la ola per dire figata.
+
+1591
+01:20:27,240 --> 01:20:29,640
+Perché un paio di vini non li abbiamo neanche mai provati, per
+
+1592
+01:20:29,640 --> 01:20:31,960
+cui è molto interessante.
+
+1593
+01:20:31,960 --> 01:20:33,720
+Tuttavia, questa non ditela a nessuno.
+
+1594
+01:20:33,960 --> 01:20:38,600
+2022, devi fare un bel taglione, caro mio.
+
+1595
+01:20:38,600 --> 01:20:42,040
+Quindi a questo punto, Alex, che ci hai raccontato di tutti i
+
+1596
+01:20:42,040 --> 01:20:44,120
+tuoi podcast, cosa dici?
+
+1597
+01:20:44,120 --> 01:20:45,120
+Ci salutiamo?
+
+1598
+01:20:44,920 --> 01:20:46,720
+Vuoi salutare i nostri ascoltatori?
+
+1599
+01:20:46,960 --> 01:20:50,080
+Allora, sì, grazie, grazie di aver ascoltato questa puntata e aver ascoltato
+
+1600
+01:20:50,080 --> 01:20:50,880
+il sottoscritto.
+
+1601
+01:20:50,880 --> 01:20:54,080
+I blatteramenti senza senso, probabilmente.
+
+1602
+01:20:54,080 --> 01:20:58,880
+Un abbraccio fortissimo a voi, ascoltatori, ma soprattutto a Filippo e Roberto,
+
+1603
+01:20:58,880 --> 01:21:00,320
+che sono due carissimi amici.
+
+1604
+01:21:00,320 --> 01:21:02,800
+Con cui mi piacerebbe vedermi molto più spesso.
+
+1605
+01:21:02,800 --> 01:21:06,080
+Tuttavia, ti accontenti di Davide Gatti, dicono.
+
+1606
+01:21:11,040 --> 01:21:13,680
+Oh Gesù, Santissimo.
+
+1607
+01:21:15,920 --> 01:21:18,880
+Vieni anche tu al cinema con noi, che ti devo dire?
+
+1608
+01:21:18,880 --> 01:21:21,920
+Grazie, grazie, grazie dell'ospitalità.
+
+1609
+01:21:22,240 --> 01:21:23,120
+Spero che sia stato
+
+1610
+01:21:24,320 --> 01:21:25,280
+da sua parte tutte.
+
+1611
+01:21:25,280 --> 01:21:27,440
+Spero che non è che sono venuto qua per vendere le mie
+
+1612
+01:21:27,440 --> 01:21:28,000
+app.
+
+1613
+01:21:28,240 --> 01:21:30,240
+Il mercato italiano è interessante.
+
+1614
+01:21:30,240 --> 01:21:32,240
+Ogni tanto, quando arrivo qualcuno dall'Italia, dicevo, chi è?
+
+1615
+01:21:32,320 --> 01:21:33,360
+L'ultimo è stato un VIP.
+
+1616
+01:21:33,360 --> 01:21:35,040
+Uno che lavora da Strice della notizia.
+
+1617
+01:21:35,280 --> 01:21:36,320
+Interessante, figata.
+
+1618
+01:21:36,320 --> 01:21:37,520
+Chissà come c'è arrivato.
+
+1619
+01:21:37,520 --> 01:21:41,360
+Più che altro mi piaceva l'idea di trasmettere la mia filosofia sul
+
+1620
+01:21:41,360 --> 01:21:41,920
+workflow.
+
+1621
+01:21:41,920 --> 01:21:45,920
+Che per me è molto importante perché tenere le cose in ordine
+
+1622
+01:21:46,160 --> 01:21:49,760
+aiuta tantissimo e soprattutto ti libera la testa da altro.
+
+1623
+01:21:50,560 --> 01:21:53,040
+Ci sono applicazioni molto più fighe di quelle che faccio io.
+
+1624
+01:21:53,040 --> 01:21:56,880
+C'è Keyboard Maestro, c'è Text Expander che uso anch'io.
+
+1625
+01:21:56,960 --> 01:21:58,640
+C'è Alfred.
+
+1626
+01:21:58,640 --> 01:22:03,040
+Su Mac ci sono un sacco di applicazioni che automatizzano un sacco
+
+1627
+01:22:03,040 --> 01:22:03,840
+di cose.
+
+1628
+01:22:04,320 --> 01:22:07,840
+Io non ho ancora trovato una che mi faccia da Wii transfer.
+
+1629
+01:22:07,840 --> 01:22:11,600
+Che secondo me è l'ultimo l'anello della mia catena che mi manca.
+
+1630
+01:22:11,600 --> 01:22:15,280
+Ce ne sono alcune che sfruttano i servizi come quelli di S3
+
+1631
+01:22:15,280 --> 01:22:19,200
+o di Azure o di Blackblaze, che potrebbe essere interessanti, ma non
+
+1632
+01:22:19,200 --> 01:22:22,160
+ho ancora trovato quella che mi dice, ok, questa mi sono innamorato.
+
+1633
+01:22:22,160 --> 01:22:25,440
+E lì, quando è di spedire, ti tocca farla?
+
+1634
+01:22:25,600 --> 01:22:32,120
+No, ci ho pensato, ma anche no, sforzarsi di automatizzare inizialmente può
+
+1635
+01:22:32,120 --> 01:22:34,680
+essere anche un po' più controintuitivo.
+
+1636
+01:22:28,640 --> 01:22:34,920
+Tuttavia,
+
+1637
+01:22:35,160 --> 01:22:38,840
+nel medio termine già diventa una cosa molto comoda.
+
+1638
+01:22:39,000 --> 01:22:43,000
+So che appunto Filippo Strozzi, soprattutto, è un fan di questo tipo
+
+1639
+01:22:43,000 --> 01:22:44,360
+di cosa.
+
+1640
+01:22:44,360 --> 01:22:48,120
+Altro che Tebano, lì proprio è il manifesto dell'ottimizzazione.
+
+1641
+01:22:48,120 --> 01:22:52,280
+Assolutamente tutto vero, ma volevo soltare questa nota di colore prima di
+
+1642
+01:22:52,280 --> 01:22:55,640
+salutare Alex e ringraziarlo per il tempo che ci ha dedicato.
+
+1643
+01:22:55,640 --> 01:22:58,360
+Prima di tutto, non solo a noi, ma anche agli ascoltatori.
+
+1644
+01:22:58,520 --> 01:23:02,680
+Quando ha detto che stava blaterando, ho visto in video sia io
+
+1645
+01:23:02,680 --> 01:23:06,600
+che Filippo che stavano guardando al cielo, come dire: Sì, va bene,
+
+1646
+01:23:06,600 --> 01:23:08,920
+non stai blaterando, stai tranquillo.
+
+1647
+01:23:08,920 --> 01:23:11,800
+Abbiamo fatto proprio la stessa faccia, lo stesso modo.
+
+1648
+01:23:11,880 --> 01:23:15,560
+Quindi, Alex direi che a questo punto puoi andare tranquillo.
+
+1649
+01:23:15,640 --> 01:23:19,960
+Nessuno pensa che tu stia blaterando, soprattutto noi, ma anche gli ascoltatori,
+
+1650
+01:23:19,960 --> 01:23:20,680
+fidati.
+
+1651
+01:23:20,680 --> 01:23:22,280
+Quindi a questo punto direi che
+
+1652
+01:23:23,560 --> 01:23:24,600
+non te l'avremmo chiamato.
+
+1653
+01:23:24,920 --> 01:23:26,840
+Assolutamente sì, ti abbiamo lasciato fuori.
+
+1654
+01:23:26,840 --> 01:23:27,400
+Grazie, grazie.
+
+1655
+01:23:27,560 --> 01:23:29,240
+È un piacere tutto nostro.
+
+1656
+01:23:29,240 --> 01:23:33,800
+Ok, detto questo, scivoliamo verso la chiusura della puntata.
+
+1657
+01:23:34,120 --> 01:23:37,640
+Abbiamo già fatto una bella chiacchierata, bella lunga.
+
+1658
+01:23:37,640 --> 01:23:41,240
+Non invidio il nostro povero Filippo che dovrà mettersi lì e fare
+
+1659
+01:23:41,240 --> 01:23:44,600
+tagli, copie, incolla, pulisci tutto quanto.
+
+1660
+01:23:44,600 --> 01:23:48,360
+Io vi ricordo che sono Roberto Marin, sono un autore di un
+
+1661
+01:23:48,360 --> 01:23:52,120
+blog che si chiama Mac Architettura, di un podcast che si chiama
+
+1662
+01:23:52,120 --> 01:23:57,080
+Snap Architettura Imperfetta, che esce a puntate settimanali finché tiene.
+
+1663
+01:23:57,080 --> 01:23:57,640
+Poi sono.
+
+1664
+01:23:57,640 --> 01:24:02,200
+Ogni tanto scrivo anche sul blog ufficiale di Grafisoft Italia, che per
+
+1665
+01:24:02,200 --> 01:24:06,040
+chi non lo sapesse, produce Archicad, che è un software di bim
+
+1666
+01:24:06,040 --> 01:24:09,400
+outering e quindi molto mirato per l'architettura.
+
+1667
+01:24:09,400 --> 01:24:12,040
+E penso che di cose ne faccio già abbastanza.
+
+1668
+01:24:12,040 --> 01:24:15,920
+Poi, ovviamente, la 2 che state ascoltando e che ci sta portando
+
+1669
+01:24:15,920 --> 01:24:22,240
+tanta di quella gioia nel realizzarlo, ma anche nel capire che siete
+
+1670
+01:24:22,240 --> 01:24:25,840
+con noi, ci sono tante persone che ci ascoltano e siamo decisamente
+
+1671
+01:24:25,840 --> 01:24:27,040
+molto molto contenti.
+
+1672
+01:24:27,040 --> 01:24:29,920
+Vi ringraziamo tutti, dal primo all'ultimo.
+
+1673
+01:24:29,920 --> 01:24:33,440
+Invece, il nostro caro amico Filippo, cosa fa nella vita?
+
+1674
+01:24:33,520 --> 01:24:40,320
+Scrivo su avvocatemac.it e ogni tanto, a parte questo podcast, produco molto
+
+1675
+01:24:40,320 --> 01:24:42,240
+saltuariamente.
+
+1676
+01:24:42,560 --> 01:24:44,720
+Tutta colpa mia, in ogni caso.
+
+1677
+01:24:44,960 --> 01:24:48,240
+Quindi ringraziate me se Filippo non riesce a portare avanti l'altro suo
+
+1678
+01:24:48,240 --> 01:24:49,840
+podcast perché do troppo lavoro.
+
+1679
+01:24:49,840 --> 01:24:53,360
+Ma adesso proseguo del prossimo anno di riuscire a dargli una mano
+
+1680
+01:24:53,360 --> 01:24:54,880
+un po' più consistente.
+
+1681
+01:24:54,880 --> 01:24:59,040
+E per quanto ci riguarda, intendo tutti quanti, ci sentiamo tra due
+
+1682
+01:24:59,040 --> 01:24:59,600
+settimane.
+
+1683
+01:24:59,600 --> 01:25:00,640
+Ciao ciao.

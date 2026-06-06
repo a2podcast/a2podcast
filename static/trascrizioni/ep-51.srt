@@ -1,0 +1,5803 @@
+1
+00:00:00,000 --> 00:00:06,080
+Benvenuti all'episodio 51 di A2 Podcast in cui potrete scoprire come ottenere
+
+2
+00:00:06,080 --> 00:00:08,400
+il massimo dalla vostra tecnologia Apple.
+
+3
+00:00:08,400 --> 00:00:12,800
+Io sono sempre Roberto Marin e sono il vostro ospite assieme all'amico
+
+4
+00:00:12,800 --> 00:00:14,080
+Filippo Strozzi.
+
+5
+00:00:14,080 --> 00:00:16,240
+Di cosa parliamo in questo episodio, Filippo?
+
+6
+00:00:16,240 --> 00:00:21,600
+Oggi, anzi, stasera, oggi, quando ci ascolterete, diciamo, l'argomento è un po'
+
+7
+00:00:21,600 --> 00:00:25,600
+diverso dal solito, diciamo, noi stiamo registrando il 9 di gennaio, quindi
+
+8
+00:00:25,600 --> 00:00:27,760
+siamo all'inizio del 2023.
+
+9
+00:00:28,000 --> 00:00:35,280
+Non sapevamo cosa fare come ulteriori puntata, siamo nella sostanza abbastanza a
+
+10
+00:00:35,280 --> 00:00:41,760
+ridosso, diciamo, delle pubblicazioni recentemente, quindi dobbiamo ricreare un po' di fila
+
+11
+00:00:41,760 --> 00:00:43,440
+di episodi già registrati.
+
+12
+00:00:43,440 --> 00:00:48,880
+Anzi, adesso bisogna trovare un modo tra gli impegni reciproci di riuscire
+
+13
+00:00:48,880 --> 00:00:52,000
+a essere un po' più produttivi su questo fronte, ma questo è
+
+14
+00:00:52,000 --> 00:00:53,520
+un altro discorso.
+
+15
+00:00:53,520 --> 00:00:57,760
+L'argomento di oggi quindi è un po' inusuale, tra virgolette, poi ci
+
+16
+00:00:57,760 --> 00:01:00,720
+direte se piace o non piace, così via.
+
+17
+00:01:00,720 --> 00:01:02,720
+Parleremo del tema dell'anno.
+
+18
+00:01:02,720 --> 00:01:05,040
+Cosa intendo per il tema dell'anno?
+
+19
+00:01:05,040 --> 00:01:11,040
+Tutto nasce, diciamo, come idea di fondo da un'idea dei temi dell'anno
+
+20
+00:01:11,120 --> 00:01:15,680
+di Cortex, che è un podcast in lingua inglese che io seguo.
+
+21
+00:01:15,920 --> 00:01:19,920
+Forse Roberto ha guardato qualcosa dei compiti che gli avevo dato per
+
+22
+00:01:19,920 --> 00:01:24,640
+casa, ma come al solito, l'ho visto, l'ho visto di CGP Grey
+
+23
+00:01:24,640 --> 00:01:25,840
+almeno, ok.
+
+24
+00:01:25,840 --> 00:01:30,480
+Comunque, giusto per fare un minimo di storia, diciamo CGP Grey che
+
+25
+00:01:30,480 --> 00:01:35,680
+è uno youtuber molto famoso e un divulgatore sostanzialmente.
+
+26
+00:01:35,680 --> 00:01:39,840
+E Mike Early, che invece è uno dei due fondatori di un
+
+27
+00:01:39,840 --> 00:01:45,440
+gruppo, un network è un network di podcast, bravissimo, bravissimo, bravissimo Roberto
+
+28
+00:01:45,440 --> 00:01:48,640
+che mi ha dato il la giusto.
+
+29
+00:01:48,640 --> 00:01:51,440
+È un network di podcast che, di fatto, io è uno di
+
+30
+00:01:51,440 --> 00:01:52,480
+quelli che ascolto di più.
+
+31
+00:01:52,480 --> 00:01:58,400
+Tra virgolette, sono molto legato, diciamo, sono anglofono e sono molto legato
+
+32
+00:01:58,400 --> 00:02:00,040
+in particolare a quel network.
+
+33
+00:02:00,040 --> 00:02:02,200
+Come utente di podcast, diciamo.
+
+34
+00:02:02,200 --> 00:02:05,880
+E una delle cose che hanno iniziato a fare progressivamente appunto in
+
+35
+00:01:59,920 --> 00:02:06,600
+Cortex.
+
+36
+00:02:06,760 --> 00:02:11,720
+Che se conoscete l'inglese, diciamo, consiglio di ascoltare perché è molto molto
+
+37
+00:02:11,720 --> 00:02:18,680
+interessante e legata alla produttività, ha tanti aspetti interessanti, diciamo, dell'organizzazione e
+
+38
+00:02:18,680 --> 00:02:18,920
+non
+
+39
+00:02:20,120 --> 00:02:23,240
+comunque l'idea dei temi dell'anno.
+
+40
+00:02:23,240 --> 00:02:26,920
+Perché diciamo qual è il problema di solito che si parte con
+
+41
+00:02:26,920 --> 00:02:31,720
+l'anno dicendo voglio dimagrire a 5 kg, non so, oppure voglio correre
+
+42
+00:02:31,720 --> 00:02:32,360
+di più.
+
+43
+00:02:32,360 --> 00:02:38,040
+Spesso e volentieri sono tutte buone intenzioni di inizio anno, chiamiamole così,
+
+44
+00:02:38,040 --> 00:02:44,200
+che però nel giro di settimane, se non mesi, progressivamente si perdono
+
+45
+00:02:44,200 --> 00:02:48,680
+e tra virgolette, ti lasciano della mare in bocca, nel senso che
+
+46
+00:02:48,680 --> 00:02:53,160
+alla fine non hai ti prefissato una meta, chiamiamola così, non ci
+
+47
+00:02:53,160 --> 00:02:54,520
+sei arrivato.
+
+48
+00:02:54,680 --> 00:02:58,280
+A questo punto è una sorta di chiamiamola così piccolo fallimento che
+
+49
+00:02:58,280 --> 00:03:01,000
+però non ti aiuta ovviamente a migliorare.
+
+50
+00:03:01,000 --> 00:03:06,200
+Ma anzi, tra virgolette, diventa un freno per future intenzioni.
+
+51
+00:03:06,200 --> 00:03:10,520
+Quest'anno non sono riuscito a fare questo quindi l'anno prossimo non mi
+
+52
+00:03:10,520 --> 00:03:12,200
+pongo neanche un traguardo.
+
+53
+00:03:13,240 --> 00:03:19,320
+Volevo soltanto fare un'aggiunta alla premessa, perché volevo soltanto ricordare che questa
+
+54
+00:03:19,560 --> 00:03:23,880
+non è la tipica puntata dove ci facciamo.
+
+55
+00:03:23,880 --> 00:03:27,640
+Io e Filippo ci diamo le pacche sulle spalle: diciamo, Oh, quanto
+
+56
+00:03:27,800 --> 00:03:30,040
+siamo stati bravi nel 2022!
+
+57
+00:03:30,040 --> 00:03:33,160
+Cosa possiamo fare ancora di meglio nel 2023?
+
+58
+00:03:33,160 --> 00:03:37,960
+Insomma, non siamo questo tipo di persone, volevo soltanto ricordarlo, perché magari
+
+59
+00:03:38,200 --> 00:03:41,560
+chi si è messo all'ascolto recentemente non ci conosce a sufficienza.
+
+60
+00:03:41,560 --> 00:03:45,680
+Ma in ogni caso sarò una puntata di amarezza,
+
+61
+00:03:47,200 --> 00:03:53,440
+in ogni caso, quello che vogliamo fare non è spiatellare i risultati
+
+62
+00:03:53,440 --> 00:03:58,480
+che abbiamo ottenuto o cercare di puntare sempre più in alto, cioè
+
+63
+00:03:58,720 --> 00:04:02,720
+non vogliamo mettere in difficoltà i nostri ascoltatori dicendo guarda, questi qui
+
+64
+00:04:02,720 --> 00:04:05,120
+quanto sono bravi, perché hanno ottenuto questo.
+
+65
+00:04:05,120 --> 00:04:08,640
+In realtà, ascoltandoci, capirete che non sempre
+
+66
+00:04:09,680 --> 00:04:14,240
+le ciambelle escono col buco, non siamo perfetti, siamo degli esseri umani
+
+67
+00:04:14,240 --> 00:04:19,600
+come tutti quanti voi, anche perché spesso magari chi sa dall'altra parte
+
+68
+00:04:19,600 --> 00:04:23,120
+pensa che noi siamo degli esseri che riescono a ottenere di tutto
+
+69
+00:04:23,120 --> 00:04:26,960
+e di più nella loro vita, ma in realtà è ben diversa
+
+70
+00:04:26,960 --> 00:04:27,920
+la situazione.
+
+71
+00:04:27,920 --> 00:04:33,120
+Siamo essenzialmente due professionisti che si mettono al microfono e vi vogliamo
+
+72
+00:04:33,120 --> 00:04:37,600
+raccontare le nostre esperienze senza pretesa di essere superiori.
+
+73
+00:04:37,600 --> 00:04:43,040
+Questa è una cosa, una premessa fondamentale per riuscire, secondo me, a
+
+74
+00:04:43,040 --> 00:04:46,080
+spiegarvi quello che vogliamo fare in questo podcast.
+
+75
+00:04:46,080 --> 00:04:50,720
+Come diceva Filippo, dobbiamo mettere delle puntate una dietro l'altra, ma ci
+
+76
+00:04:50,720 --> 00:04:56,240
+piaceva l'idea di metterci davanti i microfoni e raccontarvi quello che abbiamo
+
+77
+00:04:56,480 --> 00:05:02,160
+passato nel 2022 e come vogliamo affrontare il 2023.
+
+78
+00:05:02,160 --> 00:05:06,160
+Non con una lista di buoni propositi, come tutti quanti fanno.
+
+79
+00:05:06,720 --> 00:05:10,800
+Se voi aprite un attimo qualsiasi tipo di social, qualsiasi tipo di
+
+80
+00:05:11,120 --> 00:05:15,120
+ascoltate qualsiasi tipo di podcast, insomma, ne sentite di cotte e di
+
+81
+00:05:15,120 --> 00:05:19,520
+crude, noi non siamo questo tipo di persone che cercano di inanellare
+
+82
+00:05:19,760 --> 00:05:27,920
+essenzialmente successi e spiatellarvelo in faccia, ma vogliamo semplicemente raccontarvi come se
+
+83
+00:05:27,920 --> 00:05:33,080
+fossimo davanti a una birra, essenzialmente tra professionisti, tra tecnici, tra amici
+
+84
+00:05:33,320 --> 00:05:37,000
+per raccontarci come è andato il 2022 e riuscire ad affrontare il
+
+85
+00:05:37,000 --> 00:05:40,120
+2023 senza una lista di buoni propositi.
+
+86
+00:05:40,120 --> 00:05:42,600
+Perché questa qui è una genialata che ha tirato fuori il buon
+
+87
+00:05:42,600 --> 00:05:42,920
+filmo.
+
+88
+00:05:43,480 --> 00:05:46,040
+Non ho inventato, continuo a ripetere, non ho inventato niente.
+
+89
+00:05:46,040 --> 00:05:51,240
+L'idea di fondo, appunto, è quella di non creare appunto una lista
+
+90
+00:05:51,400 --> 00:05:56,440
+di cose da raggiungere in senso tecnico, diciamo, ma creare un tema:
+
+91
+00:05:56,440 --> 00:05:57,960
+un tema dell'anno, appunto.
+
+92
+00:05:57,960 --> 00:05:58,280
+Quindi
+
+93
+00:05:59,560 --> 00:06:04,440
+un tema che adesso, dopo lo vedremo, faremo appunto, tra virgolette, faremo
+
+94
+00:06:04,440 --> 00:06:09,320
+i nostri ragionamenti proprio per dare degli esempi, non perché vogliamo perché
+
+95
+00:06:09,320 --> 00:06:12,600
+continuo a ripetere dal mio punto di vista il 2022 non è
+
+96
+00:06:12,600 --> 00:06:15,800
+stato uno degli anni migliori, mettiamoli in questi termini.
+
+97
+00:06:15,800 --> 00:06:19,960
+Tuttavia è stato sicuramente un anno di cambiamento, un anno dove ho
+
+98
+00:06:19,960 --> 00:06:21,480
+ragionato su tante cose.
+
+99
+00:06:21,720 --> 00:06:26,040
+Quindi è stato un anno appunto che adesso faccio lo spoiler perché,
+
+100
+00:06:26,040 --> 00:06:29,240
+tra virgolette, così iniziamo a ragionare assieme.
+
+101
+00:06:29,240 --> 00:06:31,960
+Io l'ho definito anno del passaggio.
+
+102
+00:06:31,960 --> 00:06:36,440
+E proprio per questo motivo, diciamo, l'idea è proprio quella di dare
+
+103
+00:06:36,440 --> 00:06:41,000
+un tema all'anno, cioè piegare a se stessi e quindi anche di
+
+104
+00:06:41,640 --> 00:06:48,040
+darsi delle indicazioni, ma di massima appunto non stringenti per dire l'anno
+
+105
+00:06:48,040 --> 00:06:52,440
+in cui ho fatto A, B e C, ma semplicemente un anno,
+
+106
+00:06:52,440 --> 00:06:56,200
+per esempio il mio, dove ho messo insieme tutta una serie di
+
+107
+00:06:56,200 --> 00:07:01,640
+cose nella speranza, tra virgolette, di avere un 2023 migliore, più strutturato
+
+108
+00:07:01,640 --> 00:07:05,400
+da un certo punto di vista, o chiamiamolo così, adesso poi ne
+
+109
+00:07:05,400 --> 00:07:09,400
+parleremo più in dettaglio, ma ho cercato di tagliare i rami secchi
+
+110
+00:07:09,560 --> 00:07:15,200
+e di ottimizzare, soprattutto a livello di spese e di gestione mia
+
+111
+00:07:14,920 --> 00:07:16,320
+familiare non.
+
+112
+00:07:16,880 --> 00:07:22,720
+Proprio per permettermi poi di gestire con più flessibilità una situazione che
+
+113
+00:07:22,720 --> 00:07:28,560
+non è grandiosa, ma che comunque va avanti e appunto deve essere
+
+114
+00:07:28,640 --> 00:07:30,320
+gestito in qualche maniera.
+
+115
+00:07:30,320 --> 00:07:37,520
+Quindi grandi obiettivi, voglio fatturare 100.000 euro, voglio diventare uno youtuber famoso,
+
+116
+00:07:37,520 --> 00:07:43,200
+ma mettere in pista diciamo tutta una serie di accorgimenti e di
+
+117
+00:07:43,200 --> 00:07:49,280
+soluzioni per indirizzarmi in una determinata direzione, che è la direzione che
+
+118
+00:07:49,280 --> 00:07:50,720
+voglio, tra virgolette, io.
+
+119
+00:07:50,720 --> 00:07:53,840
+Poi è ovvio che c'è la vita sempre di mezzo, chiamiamola così,
+
+120
+00:07:53,840 --> 00:07:57,520
+quindi è ovvio anche che tutta una serie di programmi, anche i
+
+121
+00:07:57,520 --> 00:08:03,920
+programmi più ben strutturati e così via, difficilmente funzionano.
+
+122
+00:08:04,240 --> 00:08:08,560
+Non mi ricordo più chi era che diceva che appena un progetto,
+
+123
+00:08:08,560 --> 00:08:09,680
+diciamo,
+
+124
+00:08:10,960 --> 00:08:16,640
+un progetto di attacco di guerra, tra virgolette, si imbatte contro il
+
+125
+00:08:16,640 --> 00:08:21,200
+nemico, di fatto cambia totalmente e diventa qualcosa di diverso.
+
+126
+00:08:21,680 --> 00:08:22,560
+È questo il motivo.
+
+127
+00:08:22,640 --> 00:08:26,720
+La vita bene o male ha delle incertezze e spesso e volentieri
+
+128
+00:08:26,800 --> 00:08:33,120
+non possiamo controllare, possiamo controllare invece come noi reagiamo alla vita, tra
+
+129
+00:08:33,120 --> 00:08:39,280
+virgolette, e il modo di affrontare appunto queste cose, per cui l'idea,
+
+130
+00:08:39,280 --> 00:08:42,880
+appunto, è quella di creare questo tema.
+
+131
+00:08:42,880 --> 00:08:48,000
+Diciamo che addirittura adesso noi la facciamo all'inizio anno, ma non ha
+
+132
+00:08:48,000 --> 00:08:48,880
+neanche il senso.
+
+133
+00:08:48,880 --> 00:08:52,240
+Cioè, voglio dire, i buoni propositi di inizio anno, dal mio punto
+
+134
+00:08:52,240 --> 00:08:55,760
+di vista, sono sempre state una di quelle cose abbastanza stupide, tra
+
+135
+00:08:55,760 --> 00:08:58,720
+virgolette, nel senso che non è perché
+
+136
+00:08:59,840 --> 00:09:05,640
+dal passaggio dal 31-12 al primo gennaio qualcosa cambia realmente.
+
+137
+00:09:06,360 --> 00:09:09,960
+Capodanno, per esempio, per me è una delle feste più stupide sulla
+
+138
+00:09:09,960 --> 00:09:14,520
+faccia della Terra, ma non perché è veramente arbitrario.
+
+139
+00:09:15,160 --> 00:09:16,840
+Capodanno potrebbe essere oggi
+
+140
+00:09:18,120 --> 00:09:24,760
+, come il 15 d'agosto, per quello che è semplicemente un qualcosa che
+
+141
+00:09:24,760 --> 00:09:29,720
+arbitrariamente abbiamo imposto come un passaggio da un anno all'altro, ma di
+
+142
+00:09:29,720 --> 00:09:34,280
+fatto la vita non cambia quello che eri ieri se anche oggi,
+
+143
+00:09:34,280 --> 00:09:35,800
+tra virgolette, così via.
+
+144
+00:09:35,800 --> 00:09:39,560
+Quindi è solo qualcosa di metaforico da un certo punto di vista,
+
+145
+00:09:39,560 --> 00:09:45,640
+di arbitrario, di condiviso se vogliamo, ma invece il tema dell'anno appunto
+
+146
+00:09:45,800 --> 00:09:50,440
+il tema può cambiare anche nel corso dell'anno e non c'è questo
+
+147
+00:09:50,440 --> 00:09:57,480
+vincolo, deve essere semplicemente un modo per essere diciamo più propositivi e
+
+148
+00:09:57,480 --> 00:10:03,800
+avere un obiettivo di fronte agli occhi, e quindi anche è ovvio
+
+149
+00:10:03,800 --> 00:10:06,120
+che poi adesso lo vedremo.
+
+150
+00:10:06,600 --> 00:10:10,280
+Il tema dell'anno, tra virgolette, è anche un modo di ragionare il
+
+151
+00:10:10,280 --> 00:10:15,480
+passato e guardare al futuro, nel senso che è ovvio che appunto,
+
+152
+00:10:16,680 --> 00:10:20,680
+nel mio caso specifico, il 2022 è stato l'anno del passaggio
+
+153
+00:10:21,800 --> 00:10:26,040
+e dopo spiegherò le motivazioni che diciamo me l'hanno fatto definire in
+
+154
+00:10:26,040 --> 00:10:27,880
+tale maniera, chiamiamola così.
+
+155
+00:10:27,880 --> 00:10:31,480
+Tuttavia, un anno del passaggio, che, tra virgolette, lo è diventato da
+
+156
+00:10:31,480 --> 00:10:32,840
+un certo punto di vista.
+
+157
+00:10:32,840 --> 00:10:39,080
+È cresciuto e ho maturato determinate scelte proprio in questo passaggio, è
+
+158
+00:10:39,080 --> 00:10:39,640
+per questo.
+
+159
+00:10:39,640 --> 00:10:43,720
+Poi a fine d'anno posso dire, tra virgolette, che tutto quello che
+
+160
+00:10:43,720 --> 00:10:47,520
+ho messo in moto è culminato a settembre ottobre, quando poi ho
+
+161
+00:10:47,520 --> 00:10:54,480
+cambiato ufficio e ho cambiato buona parte dei riferimenti lavorativi e così
+
+162
+00:10:54,480 --> 00:10:55,040
+via.
+
+163
+00:10:55,040 --> 00:10:55,920
+È proprio questo.
+
+164
+00:10:56,240 --> 00:10:58,240
+Non è che nel 2031
+
+165
+00:10:59,440 --> 00:11:06,720
+ho dato un taglio di forbici all'anno e ho scavallato.
+
+166
+00:11:07,040 --> 00:11:10,960
+Semplicemente un percorso come tutti i percorsi.
+
+167
+00:11:11,200 --> 00:11:16,400
+Casomai se una strada è bloccata perché è caduto un albero, torni
+
+168
+00:11:16,400 --> 00:11:23,040
+un attimo indietro, fai il giro, circunnavighi l'incidente e vai avanti.
+
+169
+00:11:23,040 --> 00:11:27,840
+Casomai, non la strada che ti hai prefigurato tu, ma alla fine
+
+170
+00:11:28,400 --> 00:11:30,320
+il risultato non sarà il medesimo.
+
+171
+00:11:30,320 --> 00:11:34,240
+Chiamolo in questi termini, ma comunque sarà simile e soprattutto sapendo dove
+
+172
+00:11:34,240 --> 00:11:40,800
+vuoi andare, hai maggiori facoltà e maggiore capacità anche di capire, di
+
+173
+00:11:40,800 --> 00:11:42,800
+gestire la vicenda, sostanzialmente.
+
+174
+00:11:42,800 --> 00:11:43,360
+Sì, esatto.
+
+175
+00:11:43,360 --> 00:11:47,360
+Volevo soltanto fare un attimo un appunto, perché, giustamente, hai parlato prima
+
+176
+00:11:47,360 --> 00:11:51,520
+di un obiettivo, ma secondo me non si tratta di un obiettivo
+
+177
+00:11:51,520 --> 00:11:54,720
+da darsi per l'anno, ma è proprio vero un tema
+
+178
+00:11:56,160 --> 00:11:56,480
+.
+
+179
+00:11:57,360 --> 00:11:59,600
+Ma neanche tema è anche giusto.
+
+180
+00:11:59,600 --> 00:12:03,280
+Stavo cercando mentre ci stavi parlando, di cercare la parola giusta, ma
+
+181
+00:12:03,280 --> 00:12:04,480
+non la trovo.
+
+182
+00:12:04,480 --> 00:12:09,440
+Diciamo che dovrebbe essere una linea guida, forse una linea guida che
+
+183
+00:12:09,440 --> 00:12:14,560
+ti deve accompagnare nel corso dell'anno e che ti aiuti a prendere
+
+184
+00:12:14,560 --> 00:12:20,240
+delle decisioni, a indirizzare le tue energie secondo questa linea guida che
+
+185
+00:12:20,240 --> 00:12:21,440
+ti sei prefissato.
+
+186
+00:12:21,440 --> 00:12:23,280
+È un po' come un angelo custode.
+
+187
+00:12:23,280 --> 00:12:28,160
+Diciamo, tu ce l'hai lì di fianco e ti indirizzerà una volta
+
+188
+00:12:28,160 --> 00:12:32,520
+che ci pensi, automaticamente nella direzione che dovrebbe essere giusta, quella che
+
+189
+00:12:29,920 --> 00:12:36,280
+ti sei prefissato, magari pensandoci sopra un attimo.
+
+190
+00:12:36,520 --> 00:12:37,640
+Ad esempio,
+
+191
+00:12:38,840 --> 00:12:42,840
+nelle scelte che vengono fatte, tutte le piccole varie scelte che vengono
+
+192
+00:12:42,840 --> 00:12:47,880
+fatte nel corso dei giorni, delle settimane o anche dei mesi, se
+
+193
+00:12:48,040 --> 00:12:55,320
+fatte e ragionate seguendo una linea guida, ti possono portare non all'obiettivo,
+
+194
+00:12:55,320 --> 00:12:58,680
+ma a perseguire quello che si era prefissato.
+
+195
+00:12:58,680 --> 00:13:03,080
+Seguendo questa linea guida, diciamo che una sorta di neanche di tracciato,
+
+196
+00:13:03,080 --> 00:13:04,920
+ma è proprio una specie di puntatore.
+
+197
+00:13:04,920 --> 00:13:10,120
+Nel senso, tu vuoi seguire questa linea guida che può essere ognuna
+
+198
+00:13:10,120 --> 00:13:14,360
+ha la sua, nel senso, come diceva giustamente Filippo, ognuna ha la
+
+199
+00:13:14,360 --> 00:13:16,920
+sua, può cambiare nel corso dell'anno.
+
+200
+00:13:17,160 --> 00:13:21,000
+Tendenzialmente si fa a fine inizio anno, ma diciamo perché per noi
+
+201
+00:13:21,000 --> 00:13:24,600
+professionisti è anche forse più facile perché c'è proprio la chiusura fiscale
+
+202
+00:13:25,720 --> 00:13:26,600
+dell'anno.
+
+203
+00:13:26,600 --> 00:13:30,920
+Quindi aiuta molto a fare un attimo il punto della situazione.
+
+204
+00:13:30,920 --> 00:13:35,160
+Perché anche questo entra nel calderone.
+
+205
+00:13:35,160 --> 00:13:39,800
+Questa linea guida ovviamente casca, diciamo che è un cappello che copre
+
+206
+00:13:39,960 --> 00:13:44,040
+la parte fiscale, la parte personale, la parte della famiglia e via
+
+207
+00:13:44,040 --> 00:13:44,920
+discorrendo.
+
+208
+00:13:44,920 --> 00:13:50,440
+Quindi è un punto di vista molto interessante perché inquadrato in questo
+
+209
+00:13:50,440 --> 00:13:55,000
+modo c'è la forte possibilità che si riesca ad arrivare a fine
+
+210
+00:13:55,000 --> 00:13:59,160
+anno a dire che ho perseguito questo obiettivo o linea guida.
+
+211
+00:13:59,160 --> 00:13:59,800
+Questo perché?
+
+212
+00:13:59,800 --> 00:14:03,000
+Perché, come diceva giustamente Filippo, se voi vi fate un bel elenco
+
+213
+00:14:03,000 --> 00:14:09,800
+delle cose che volete fare, volete ottenere, probabilmente cadranno nella settimana dopo,
+
+214
+00:14:10,040 --> 00:14:14,680
+ma non per colpa vostra, è perché la vita e ci sommerge
+
+215
+00:14:14,680 --> 00:14:16,080
+di cose da fare.
+
+216
+00:14:14,840 --> 00:14:19,680
+Il tipico io lo bevo praticamente tutte le settimane.
+
+217
+00:14:19,760 --> 00:14:25,200
+Io mi pianifico tutta la mia settimana la domenica, poi ho la
+
+218
+00:14:25,200 --> 00:14:28,080
+paura del lunedì perché ho sempre un milione di cose di liste
+
+219
+00:14:28,080 --> 00:14:31,280
+da fare nel lunedì, poi ovviamente poi le sposto lungo la settimana,
+
+220
+00:14:31,280 --> 00:14:34,000
+ma io le butto tutto lì anche perché mi viene anche comodo,
+
+221
+00:14:34,000 --> 00:14:37,280
+però hai questo muro di cose da fare e dici cacchio, devo
+
+222
+00:14:37,280 --> 00:14:38,400
+fare tutta sta roba qua.
+
+223
+00:14:38,400 --> 00:14:42,320
+Uno dici va bene, ok, vedo di farne il più possibile perché
+
+224
+00:14:42,320 --> 00:14:48,800
+sai benissimo che ti chiama qualcuno, succede l'incidente, c'è qualcosa da mettere
+
+225
+00:14:48,800 --> 00:14:53,280
+a posto, bisogna qualcuno si ammala e vieni scorrendo.
+
+226
+00:14:53,280 --> 00:14:57,600
+Voi prendete tutte queste cose qua, le diluite lungo tutto l'anno e
+
+227
+00:14:57,600 --> 00:15:01,280
+capite che di cose che ne possono capitare ne capitano una marea
+
+228
+00:15:01,520 --> 00:15:06,880
+e mezza e quindi il senso stesso di darsi degli obiettivi perde
+
+229
+00:15:06,880 --> 00:15:10,880
+in effetti di efficacia, non ha alcun senso, perché
+
+230
+00:15:12,000 --> 00:15:16,000
+è praticamente matematico non riuscire a perseguire degli obiettivi.
+
+231
+00:15:16,000 --> 00:15:22,720
+L'unica cosa che obiettivamente mi sono un po' prefissato quest'anno, ma non
+
+232
+00:15:22,720 --> 00:15:28,160
+peraltro, perché ho iniziato a usare uno strumento che mi ha messo
+
+233
+00:15:28,160 --> 00:15:30,320
+di fronte questa questione.
+
+234
+00:15:30,320 --> 00:15:35,680
+Che forse l'unica questione evidentemente si può tenere un po' sotto controllo
+
+235
+00:15:35,760 --> 00:15:38,560
+come obiettivo, forse l'unica è la finanza.
+
+236
+00:15:38,880 --> 00:15:42,640
+Nel senso che puoi dire, OK, quest'anno ho fatturato, che ne so,
+
+237
+00:15:42,640 --> 00:15:43,200
+10%.
+
+238
+00:15:43,280 --> 00:15:46,320
+Prossimo anno voglio il 10% in più, quindi voglio cercare di arrivare
+
+239
+00:15:46,560 --> 00:15:48,240
+a 11.000 per dire.
+
+240
+00:15:48,400 --> 00:15:53,600
+E quindi dici: vabbè, ok, questo si può seguire perché l'andamento delle
+
+241
+00:15:53,600 --> 00:15:56,800
+finanze è un po' più facile da seguire rispetto a quello della
+
+242
+00:15:56,800 --> 00:15:57,440
+vita.
+
+243
+00:15:57,440 --> 00:16:00,280
+Dico un po' più facile, ma solo per il fatto che tu
+
+244
+00:16:00,280 --> 00:16:04,920
+ti puoi mettere delle scadenze lungo il corso dell'anno e dire Ok,
+
+245
+00:16:04,920 --> 00:16:08,360
+più o meno come sono andato fino qua c'è da migliorare, c'è
+
+246
+00:16:08,360 --> 00:16:10,120
+da aggiustare, c'è da fare qualcosa.
+
+247
+00:16:10,120 --> 00:16:15,240
+Che diciamo che essendo numeri, forse sono più facili da controllare rispetto
+
+248
+00:16:15,240 --> 00:16:16,360
+a un obiettivo.
+
+249
+00:16:16,360 --> 00:16:19,160
+Ma questo è solo il mio punto di vista, ma più che
+
+250
+00:16:19,160 --> 00:16:21,960
+altro perché quest'anno è la prima volta che lo faccio, nel senso
+
+251
+00:16:21,960 --> 00:16:26,760
+che prendo di mira il fatturato e vedo un po' come gestirlo.
+
+252
+00:16:26,840 --> 00:16:32,680
+Diciamo che anche il fatturato numerico diventa complicato da gestire, nel senso
+
+253
+00:16:32,680 --> 00:16:37,240
+che, ovviamente, sì, fino a che dai l'incertezza del cliente che ti
+
+254
+00:16:37,400 --> 00:16:40,120
+paga o non ti paga, quando ti paga e così via.
+
+255
+00:16:40,120 --> 00:16:42,280
+Quindi, comunque spesso e volentieri.
+
+256
+00:16:42,280 --> 00:16:45,000
+È ovvio che, non so, per esempio, a fine anno bene o
+
+257
+00:16:45,000 --> 00:16:48,280
+male, so che non è entrata questa cosa qui che speravo entrasse.
+
+258
+00:16:48,360 --> 00:16:52,840
+Tra virgolette, e quindi andrà nell'anno nuovo, e a un certo punto
+
+259
+00:16:53,000 --> 00:16:57,480
+bisogna essere abbastanza ovvio che tenere monitorato diciamo i flussi di cassa,
+
+260
+00:16:57,480 --> 00:17:04,520
+quello sicuramente è un ottimo strumento per non trovarsi, poi in difficoltà
+
+261
+00:17:04,520 --> 00:17:04,840
+a
+
+262
+00:17:06,040 --> 00:17:06,680
+fine anno.
+
+263
+00:17:06,680 --> 00:17:09,720
+Poi, noi tutti e due siamo professionisti.
+
+264
+00:17:09,720 --> 00:17:13,400
+C'è una notevole incertezza, soprattutto in questo periodo.
+
+265
+00:17:13,640 --> 00:17:20,440
+Negli ingressi, diciamo, le uscite sono certe, stanno aumentando drasticamente.
+
+266
+00:17:21,480 --> 00:17:24,600
+Sì, no, con la benzina a 2 euro, ci credo.
+
+267
+00:17:25,400 --> 00:17:28,040
+Sono contento perché io uso pochissimo la macchina.
+
+268
+00:17:28,040 --> 00:17:30,600
+Tu usi un po' la macchina, ma io la uso pochissimo la
+
+269
+00:17:30,600 --> 00:17:33,400
+macchina, e stavo dicendo: cacchio, mi ha aumentato la benzina.
+
+270
+00:17:33,600 --> 00:17:35,160
+Avo detto dovevo fare la benzina.
+
+271
+00:17:35,160 --> 00:17:37,800
+Poi stamattina ho preso la macchina, ho ancora il pieno,
+
+272
+00:17:41,160 --> 00:17:46,240
+niente, io devo usare di più la bici, quest'anno tra gli altri
+
+273
+00:17:45,000 --> 00:17:47,520
+propositi che mi sono messa.
+
+274
+00:17:47,680 --> 00:17:53,440
+Va bene, quindi cerchiamo di dare un minimo di organizzazione, di spiegazione.
+
+275
+00:17:53,440 --> 00:17:57,440
+Poi è ovvio che nella note dell'episodio ci saranno ovviamente i link.
+
+276
+00:17:57,600 --> 00:18:00,240
+La maggior parte sono risorse in lingua inglese.
+
+277
+00:18:00,800 --> 00:18:09,200
+L'unica particolarità appunto cerchiamo di incuriosirvi e poi, ovviamente, se ci sarà
+
+278
+00:18:09,520 --> 00:18:14,320
+interesse, perché diciamo è qualcosa di, parleremo ovviamente di tecnologia.
+
+279
+00:18:14,320 --> 00:18:14,880
+Diciamo.
+
+280
+00:18:14,880 --> 00:18:20,880
+Quindi, comunque è in parte legato a un approccio tecnologico, anche.
+
+281
+00:18:20,880 --> 00:18:23,920
+Ma diciamo questa puntata più concettuale.
+
+282
+00:18:23,920 --> 00:18:26,880
+Abbiamo già visto che comunque altre puntate diciamo più di concetto
+
+283
+00:18:28,000 --> 00:18:30,160
+sono state appena accolte.
+
+284
+00:18:30,960 --> 00:18:36,480
+Quindi, come intermezzo, chiamiamolo in questo modo, e anche come puntata di
+
+285
+00:18:36,800 --> 00:18:40,880
+inizio anno, almeno a livello di registrazioni, diciamo.
+
+286
+00:18:40,880 --> 00:18:44,800
+È sicuramente cade a fagiolo, mettiamola in questi temi.
+
+287
+00:18:44,800 --> 00:18:48,240
+Sì, direi proprio di sì, anche perché secondo me ci sono tante
+
+288
+00:18:48,240 --> 00:18:53,360
+cose interessanti di cui parlare, anche perché bisogna implementarle in qualche modo:
+
+289
+00:18:53,440 --> 00:18:55,600
+nel senso che è la parte tecnologica di senso di
+
+290
+00:18:57,280 --> 00:19:02,160
+prescindere dal tema, che può essere più o meno ragionato, studiato e
+
+291
+00:19:02,160 --> 00:19:07,920
+così via, in base anche a un ragionamento sul passato, diciamo.
+
+292
+00:19:07,920 --> 00:19:13,760
+Sicuramente comunque per diciamo mantenere la rotta, chiamiamoli in questi termini, sapere
+
+293
+00:19:13,760 --> 00:19:15,200
+quantomeno dove si sta andando.
+
+294
+00:19:16,240 --> 00:19:21,760
+Per avere un GPS della gestione dell'anno, chiamiamoli in questi termini, è
+
+295
+00:19:21,760 --> 00:19:27,520
+sicuramente utile avere un qualche tipo di strumento, chiamiamoli in questi termini,
+
+296
+00:19:27,840 --> 00:19:29,680
+per tenere traccia
+
+297
+00:19:32,520 --> 00:19:38,760
+fondamentali, cioè l'idea comunque seguendo un tema dell'anno è quella di cercare
+
+298
+00:19:38,760 --> 00:19:44,520
+in qualche maniera appunto di pianificare, pianificare non nel senso di dire
+
+299
+00:19:45,480 --> 00:19:52,760
+appunto voglio tenere questo, ma semplicemente cercare di mantenere di vista
+
+300
+00:19:53,960 --> 00:19:57,160
+l'orizzonte e capire dove si vuole andare.
+
+301
+00:19:57,320 --> 00:20:00,840
+Ovviamente per capire dove si vuole andare dobbiamo tenere traccia di dove
+
+302
+00:20:00,840 --> 00:20:01,960
+siamo stati.
+
+303
+00:20:01,960 --> 00:20:08,840
+Quindi è ovvio che c'è bisogno e lo strumento fondamentale di un
+
+304
+00:20:08,840 --> 00:20:12,920
+lavoro di questo genere è avere uno strumento che appunto ci permette
+
+305
+00:20:12,920 --> 00:20:17,800
+di tenere traccia giorno per giorno, periodo per periodo, perché anche qui
+
+306
+00:20:18,040 --> 00:20:21,160
+il discorso di flessibilità è grosso.
+
+307
+00:20:21,160 --> 00:20:26,760
+Cioè, io, per esempio, l'anno scorso, per un grosso, per due, quattro
+
+308
+00:20:26,760 --> 00:20:31,080
+mesi dell'anno di fatto, ho tenuto proprio un giornale, quindi sono stato
+
+309
+00:20:31,400 --> 00:20:32,760
+preciso e puntuale.
+
+310
+00:20:32,760 --> 00:20:36,760
+Poi la vita, ovviamente, come al solito, si è intromessa, diciamo, e
+
+311
+00:20:36,760 --> 00:20:37,800
+quindi sono stato.
+
+312
+00:20:37,800 --> 00:20:38,760
+Usavi dei wild?
+
+313
+00:20:38,760 --> 00:20:43,560
+No, no, no, no, io ho usato di fatto Obsidian, le funzioni
+
+314
+00:20:43,560 --> 00:20:50,120
+basi di Obsidian per creare una nuova entry, diciamo, tutti i giorni.
+
+315
+00:20:50,120 --> 00:20:54,440
+E bene o male, a fine giornata, bar inizio mattinata del giorno
+
+316
+00:20:54,440 --> 00:21:00,360
+dopo, chiamiamola così, quindi, a conclusione, comunque della giornata, cercavo di fare
+
+317
+00:21:00,360 --> 00:21:03,720
+un breve riassunto di cosa avevo fatto, di quello che eriuscito a
+
+318
+00:21:03,720 --> 00:21:06,360
+fare, quello che non ero riuscito a fare, quindi anche di avere
+
+319
+00:21:06,360 --> 00:21:12,760
+un'idea poi quotidiana, perché spesso e volentieri nel 330 della vita quotidiana,
+
+320
+00:21:12,760 --> 00:21:16,800
+non ti rendi conto anche di cosa hai portato a casa, di
+
+321
+00:21:16,800 --> 00:21:18,160
+quello che sei riuscito a fare.
+
+322
+00:21:18,720 --> 00:21:24,320
+A volte invece è anche importante, tra virgolette, rendersi conto che appunto
+
+323
+00:21:24,480 --> 00:21:29,200
+la giornata è finita, nel senso che c'è una quantità di tempo
+
+324
+00:21:29,200 --> 00:21:34,640
+finito nella giornata, quindi non possiamo fare inverosimile sostanzialmente.
+
+325
+00:21:34,880 --> 00:21:37,840
+Che bene o male, ed è un dato di fatto oggettivo.
+
+326
+00:21:37,840 --> 00:21:42,240
+Lo vedevo mentre parlavo e ragionavo come oggi, tra virgolette, sono riuscito
+
+327
+00:21:42,240 --> 00:21:44,640
+a fare un atto, abbastanza anche stupido.
+
+328
+00:21:44,720 --> 00:21:50,400
+Tra virgolette, ho dovuto però mettere in pista perché non avevo finito
+
+329
+00:21:50,400 --> 00:21:56,720
+ieri delle cose per avvocati e Mac che sto mandando avanti, diciamo,
+
+330
+00:21:56,720 --> 00:22:03,040
+anche perché mi aspettano fino a maggio, fino a marzo una serie
+
+331
+00:22:03,200 --> 00:22:06,560
+se tutto va bene perché sono ancora su giudice, nel senso che
+
+332
+00:22:06,560 --> 00:22:12,320
+sto creando questo corso diciamo, accreditato, però l'accreditamento non è ancora arrivato
+
+333
+00:22:12,480 --> 00:22:15,600
+e dovrei iniziare il 19 di gennaio a fare il corso.
+
+334
+00:22:15,600 --> 00:22:18,240
+Quindi, insomma, siamo in zona abbastanza
+
+335
+00:22:19,600 --> 00:22:25,040
+da una parte colpa mia, mettiamola in questi termini, dovevo essere più
+
+336
+00:22:25,040 --> 00:22:26,160
+programmatico.
+
+337
+00:22:26,160 --> 00:22:30,080
+Ma anche qui appunto, uno degli errori che ho fatto, tra virgolette,
+
+338
+00:22:30,160 --> 00:22:34,800
+a fine dell'anno scorso, mettiamola così, è quella di lo faccio domani,
+
+339
+00:22:34,800 --> 00:22:38,720
+lo faccio domani, invece di fare la richiesta a settembre come avevo
+
+340
+00:22:38,720 --> 00:22:43,520
+programmato, diciamo, l'ho fatta a fine novembre, che vuol dire che nella
+
+341
+00:22:43,520 --> 00:22:48,640
+sostanza, appunto, teoricamente il termine per avere l'accreditamento è scaduto il 7
+
+342
+00:22:48,640 --> 00:22:49,760
+di gennaio.
+
+343
+00:22:49,760 --> 00:22:52,600
+Con i tempi tecnici, diciamo, di tutte queste vicende.
+
+344
+00:22:52,600 --> 00:22:56,800
+Spero che entro fine settimana di avere almeno delle notizie per poi,
+
+345
+00:22:56,800 --> 00:23:00,000
+diciamo, poter andare avanti con più tranquillità.
+
+346
+00:23:02,520 --> 00:23:07,960
+Tuttavia, questo è uno dei piccoli esempi di come appunto una giornata
+
+347
+00:23:07,960 --> 00:23:10,920
+che potrebbe andare da un certo punto di vista in una certa
+
+348
+00:23:11,000 --> 00:23:16,520
+maniera, va in parte in un'altra perché ho telefonato a un potenziale
+
+349
+00:23:16,520 --> 00:23:21,320
+cliente, ho preso appuntamento quindi ho incastrato tutta una serie di eventi,
+
+350
+00:23:21,320 --> 00:23:27,800
+e tra virgolette, la settimana lavorativa ce l'ho già piena e appunto
+
+351
+00:23:28,040 --> 00:23:30,600
+eventi che voglio, cose che voglio fare io.
+
+352
+00:23:32,440 --> 00:23:39,480
+Un'ora di webinar giovedì pomeriggio varie cose di lavoro, vari impegni familiari,
+
+353
+00:23:39,640 --> 00:23:46,040
+alla fine una settimana vola rapidamente, mettiamoli in questi termini.
+
+354
+00:23:46,280 --> 00:23:51,080
+Però appunto tutte queste cose vanno nella direzione che voglio io, tra
+
+355
+00:23:51,080 --> 00:23:56,280
+virgolette, e quindi bene o male sono soddisfatto almeno per ora, diciamo
+
+356
+00:23:56,920 --> 00:24:01,800
+di come sta procedendo la settimana, anche se ovviamente ho per esempio
+
+357
+00:24:01,960 --> 00:24:06,920
+dato priorità a determinate cose a non ad altre, tra virgolette, meno
+
+358
+00:24:06,920 --> 00:24:10,840
+urgenti, proprio in ragione anche del quadro generale che avevo e che
+
+359
+00:24:10,840 --> 00:24:15,240
+mi sono fatto, e cosa voglio ottenere sul lungo periodo non solo
+
+360
+00:24:15,240 --> 00:24:17,720
+in questa settimana, ma appunto
+
+361
+00:24:19,000 --> 00:24:22,360
+andando avanti, diciamo, nel corso del 20
+
+362
+00:24:23,480 --> 00:24:24,200
+esatto.
+
+363
+00:24:24,360 --> 00:24:30,600
+Io stavo guardando un attimo la scaletta, stavo controllando sui metodi di
+
+364
+00:24:31,000 --> 00:24:37,560
+implementazione di questo, diciamo, delle linee guida che stiamo suggerendo di utilizzare,
+
+365
+00:24:37,560 --> 00:24:41,080
+che hai scritto un planner come quello di Cortex.
+
+366
+00:24:41,080 --> 00:24:44,040
+Io adesso, poi volevo capire di che si trattava perché non ce
+
+367
+00:24:44,040 --> 00:24:47,920
+l'ho ben chiaro, ma mi è venuto in mente di raccontarvi che
+
+368
+00:24:44,920 --> 00:24:51,440
+c'è un metodo che per me è il massimo.
+
+369
+00:24:52,320 --> 00:24:55,680
+Lo so, però, non me ne vuole molto brevemente, perché
+
+370
+00:24:57,600 --> 00:25:01,280
+da editor del podcast ti posso dire che tu ne parli veramente
+
+371
+00:25:01,280 --> 00:25:06,640
+molto spesso, non te ne rendi conto, quale di quale sto parlando?
+
+372
+00:25:06,800 --> 00:25:10,560
+Il buugio, il bullet journal, vedi che ormai sono.
+
+373
+00:25:10,560 --> 00:25:12,480
+Mi raccomando, quello è fantastico.
+
+374
+00:25:12,480 --> 00:25:15,360
+Nel senso che, in effetti, è un metodo molto interessante.
+
+375
+00:25:15,360 --> 00:25:18,960
+Ma un'altra cosa che mi veniva in mente mentre parlava Filippo è
+
+376
+00:25:18,960 --> 00:25:22,160
+che di tutto questo simpatico discorso che abbiamo fatto.
+
+377
+00:25:22,160 --> 00:25:26,640
+La cosa importante è fare il controllo finale.
+
+378
+00:25:26,640 --> 00:25:32,320
+Diciamo, cercare di controllare a fine settimana, a fine mese bisogna sempre
+
+379
+00:25:32,320 --> 00:25:35,360
+ritornare a dare una controllata.
+
+380
+00:25:35,360 --> 00:25:39,760
+Lui diceva, ad esempio, a fine giornata, tirare un po' le fila
+
+381
+00:25:39,760 --> 00:25:41,120
+di quello che si è fatto.
+
+382
+00:25:41,120 --> 00:25:45,680
+Questo continuare a ritornare è molto utile perché non perdete le fila
+
+383
+00:25:45,680 --> 00:25:47,360
+di quello che state facendo.
+
+384
+00:25:47,520 --> 00:25:50,640
+Ed è fondamentale, non lo tralasciate mai.
+
+385
+00:25:50,640 --> 00:25:57,120
+Sembra un pezzetto che si può tralasciare da un giorno all'altro, e
+
+386
+00:25:57,120 --> 00:25:59,760
+invece, no, bisogna continuare a essere costanti.
+
+387
+00:25:59,760 --> 00:26:04,400
+Quella è la parte fondamentale della revisione di quello che state vedendo.
+
+388
+00:26:04,400 --> 00:26:10,000
+Perché in tutti i metodi che ne abbiamo già decantato, ma soprattutto
+
+389
+00:26:10,000 --> 00:26:13,920
+quando si tratta di tenere le linee guida, alla fine se non
+
+390
+00:26:13,920 --> 00:26:20,800
+tenete una revisione giornaliera, settimanale, mensile, quando vi viene voglia, però bisogna
+
+391
+00:26:20,800 --> 00:26:21,280
+farla.
+
+392
+00:26:21,280 --> 00:26:24,960
+Io la faccio tendenzialmente una volta a settimana quando mi riprogrammo la
+
+393
+00:26:24,960 --> 00:26:26,400
+settimana, essenzialmente.
+
+394
+00:26:26,400 --> 00:26:29,120
+Adesso Filippo, tu invece come sei messo con la revisione?
+
+395
+00:26:29,120 --> 00:26:31,000
+Sei sempre giornaliera o hai scalista?
+
+396
+00:26:31,640 --> 00:26:35,960
+Adesso a dire la verità sono diventato piccolo da una parte, abitualmente
+
+397
+00:26:35,960 --> 00:26:40,520
+succede in questa maniera: o i picchi di produttività dove mi sono
+
+398
+00:26:40,520 --> 00:26:48,120
+organizzato bene dove sono focalizzato, dove stranamente la vita non mi viene,
+
+399
+00:26:50,040 --> 00:26:53,320
+non mi fa inciampare, a volte purtroppo
+
+400
+00:26:55,640 --> 00:27:00,440
+recentemente prima di Natale mi sono ammalato col Covid, che tra virgolette,
+
+401
+00:27:00,440 --> 00:27:01,880
+ho preso tardissimo.
+
+402
+00:27:01,880 --> 00:27:08,920
+Diciamo, nel senso che sono stato ero ancora covid-free fino al 20
+
+403
+00:27:09,240 --> 00:27:10,680
+di dicembre.
+
+404
+00:27:10,680 --> 00:27:16,280
+Tuttavia, ovviamente, questo poi per fortuna è arrivato a fine anno, verso
+
+405
+00:27:16,280 --> 00:27:22,840
+le festività, quindi ha impattato decisamente poco l'attività professionale, però ha impattato
+
+406
+00:27:22,840 --> 00:27:25,640
+poi la vita familiare, conseguentemente,
+
+407
+00:27:28,200 --> 00:27:32,120
+a cavallo dell'anno, alla fine ho combinato decisamente poco, mettiamolo in questi
+
+408
+00:27:32,120 --> 00:27:36,600
+termini, a livello lavorativo e dei programmi che mi erano fatto.
+
+409
+00:27:36,680 --> 00:27:40,040
+Diciamo di riuscire a gestire determinate cose.
+
+410
+00:27:40,360 --> 00:27:45,080
+Ma questo periodo è abitualmente ormai sono rassegnato, nel senso che per
+
+411
+00:27:45,080 --> 00:27:50,280
+un motivo o per l'altro, per impegni familiari, per cene e così
+
+412
+00:27:50,280 --> 00:27:54,440
+via, finisce che poi i giorni buoni, diciamo per fare le cose,
+
+413
+00:27:54,440 --> 00:27:57,160
+poi sono pochi nel periodo natalizio.
+
+414
+00:27:57,480 --> 00:28:03,000
+Ormai anzi, dovrei essere più pacifico e dire va bene, sono giorni
+
+415
+00:28:03,880 --> 00:28:06,120
+di ferie dove comunque tanto non si combina niente.
+
+416
+00:28:06,120 --> 00:28:08,520
+Chi si è visto si è visto come si suol dire?
+
+417
+00:28:08,520 --> 00:28:13,080
+Sì, a me, d'altra parte, mi sono ammalato, come immagino molti abbiano
+
+418
+00:28:13,080 --> 00:28:18,240
+capito, l'ultima puntata che abbiamo fatto con Filippo continuava a tossire, quello
+
+419
+00:28:14,840 --> 00:28:22,080
+lì era soltanto il preambolo di quello che poi ho preso dopo.
+
+420
+00:28:22,480 --> 00:28:27,440
+Mi ha aiutato questo perché tendenzialmente fine anno e a fine luglio
+
+421
+00:28:27,600 --> 00:28:31,680
+per noi nel mio settore è la fine del mondo.
+
+422
+00:28:31,680 --> 00:28:35,360
+Nel senso che semestralmente c'è la fine del mondo e non si
+
+423
+00:28:35,360 --> 00:28:37,200
+continua a cambiare mentalità.
+
+424
+00:28:37,200 --> 00:28:42,880
+Quest'anno che ho avuto la fortuna, tra virgolette, di ammalarmi, ho lasciato
+
+425
+00:28:42,880 --> 00:28:44,480
+cadere proprio il cellulare.
+
+426
+00:28:44,480 --> 00:28:49,840
+Ho detto, ragazzi, io non ci sono per nessuno, arrangiatevi e questo
+
+427
+00:28:49,840 --> 00:28:51,920
+ha aiutato molto dal punto di vista mentale.
+
+428
+00:28:52,000 --> 00:28:53,280
+Poi non è morto nessuno?
+
+429
+00:28:53,520 --> 00:28:55,040
+Non è morto nessuno visto?
+
+430
+00:28:55,040 --> 00:28:58,800
+La fine del mondo non è vera, è soltanto una questione mentale
+
+431
+00:28:58,800 --> 00:29:02,960
+che ci imponiamo che ci impongono, ma che in realtà sono tutte
+
+432
+00:29:02,960 --> 00:29:08,320
+stupidaggini dalla prima all'ultima, nel senso che o veramente c'è una minaccia
+
+433
+00:29:08,320 --> 00:29:11,920
+di una bomba nucleare sulla testa che ci hanno detto tra 10
+
+434
+00:29:11,920 --> 00:29:14,560
+secondi ti arriva, allora sì, c'è la fine del mondo.
+
+435
+00:29:14,560 --> 00:29:19,600
+Se no, ragazzi, passiamoci le vacanze nel miglior modo possibile, stiamo sereni.
+
+436
+00:29:19,600 --> 00:29:23,840
+Che già a essere sereni è un grandissimo regalo.
+
+437
+00:29:24,640 --> 00:29:29,280
+Tutto quello che abbiamo dobbiamo anche iniziare a percepirlo.
+
+438
+00:29:29,280 --> 00:29:34,240
+Nel senso che non dobbiamo essere trascinati dal lavoro che ci sommerge
+
+439
+00:29:34,240 --> 00:29:34,880
+di cose da fare.
+
+440
+00:29:34,880 --> 00:29:38,080
+Bisogna anche un po' a un certo punto scrollarsi le cose dalle
+
+441
+00:29:38,080 --> 00:29:41,040
+spalle e dire ok va bene, va bene, va bene tutto quanto,
+
+442
+00:29:41,280 --> 00:29:44,400
+però ci sono anche altri tipi di priorità.
+
+443
+00:29:44,400 --> 00:29:50,240
+Nel senso, me lo sarei pure anche evitato di ammalarmi se avessi
+
+444
+00:29:50,240 --> 00:29:52,720
+tirato un po' meno la corda, aggiungo.
+
+445
+00:29:52,720 --> 00:29:56,720
+Perché mi sono fatto praticamente tre giorni in cantiere a meno due,
+
+446
+00:29:56,720 --> 00:30:00,680
+magari non era proprio il massimo infilarle l'uno dopo l'altro, ma purtroppo
+
+447
+00:30:00,680 --> 00:30:04,120
+è andata così, non c'è niente da rimpiangere, anzi, mi ha aiutato
+
+448
+00:30:04,120 --> 00:30:09,000
+a capire un po' meglio la questione mentale della fine del mondo
+
+449
+00:30:09,160 --> 00:30:12,200
+programmata ogni sei mesi, che è veramente inutile.
+
+450
+00:30:12,200 --> 00:30:17,000
+Questo per dire che, comunque, ritornando a bomba, mi raccomando, la revisione.
+
+451
+00:30:17,000 --> 00:30:21,400
+La revisione è che se utilizzate degli strumenti analogici, che adesso ci
+
+452
+00:30:21,400 --> 00:30:25,080
+spiegherà il planner come quello di Cortex, come viene fatta?
+
+453
+00:30:25,080 --> 00:30:25,880
+Ad esempio?
+
+454
+00:30:26,520 --> 00:30:32,200
+Nella sostanza, adesso il discorso è sempre il solito, non è importante
+
+455
+00:30:33,480 --> 00:30:34,760
+lo strumento fisico
+
+456
+00:30:36,120 --> 00:30:38,600
+o digitale, chiamiamolo così, ma il metodo
+
+457
+00:30:40,280 --> 00:30:44,760
+che sia, quindi è ovvio che tenere traccia appunto di quello che
+
+458
+00:30:44,760 --> 00:30:48,360
+si fa anche nella forma più blanda possibile.
+
+459
+00:30:48,360 --> 00:30:53,880
+Non so se mi spiego, non c'è bisogno di fare la narrazione
+
+460
+00:30:55,400 --> 00:31:00,120
+minuto per minuto delle giornate, o addirittura si può fare una sintesi,
+
+461
+00:31:00,120 --> 00:31:02,520
+tra virgolette, della settimana.
+
+462
+00:31:02,520 --> 00:31:07,400
+Quindi l'approccio, secondo me, può essere il più creativo e il più
+
+463
+00:31:07,400 --> 00:31:08,600
+comodo possibile.
+
+464
+00:31:08,600 --> 00:31:14,680
+Avere però un resoconto, tra virgolette, del passare del tempo e di
+
+465
+00:31:14,680 --> 00:31:16,840
+cosa come si è speso il tempo.
+
+466
+00:31:16,840 --> 00:31:21,800
+Ecco, per esempio, anche qui sta dando di pane in frasca, ma
+
+467
+00:31:22,040 --> 00:31:26,040
+recentemente sono stato più dietro appunto, visto che
+
+468
+00:31:27,160 --> 00:31:31,080
+la mia attività prevalente è fatta davanti al computer, visto che ho
+
+469
+00:31:31,480 --> 00:31:34,280
+questa applicazione che si chiama Time in 2, che mi traccia su
+
+470
+00:31:34,520 --> 00:31:36,520
+Mac sostanzialmente.
+
+471
+00:31:36,840 --> 00:31:38,920
+Cosa faccio al computer?
+
+472
+00:31:38,920 --> 00:31:43,080
+E quindi mi permette anche di capire che ho dedicato tot ore
+
+473
+00:31:43,080 --> 00:31:45,520
+a questa cosa piuttosto che tot'ore a quest'altra.
+
+474
+00:31:45,760 --> 00:31:51,280
+Sto cercando diciamo di fare molta più revisione del tempo, diciamo, trascorso
+
+475
+00:31:51,280 --> 00:31:54,960
+davanti al computer o davanti alla iPad, perché apro chiudendo una parentesi.
+
+476
+00:31:55,200 --> 00:32:00,080
+Diciamo che ci saranno delle novità interessanti per questa applicazione a breve
+
+477
+00:32:00,240 --> 00:32:03,120
+perché sono beta testera.
+
+478
+00:32:03,440 --> 00:32:08,160
+Quindi non posso dire più di questo, ma sappiate che a me
+
+479
+00:32:08,160 --> 00:32:12,480
+ha cambiato decisamente la vita perché fino adesso non avevo bene o
+
+480
+00:32:12,560 --> 00:32:17,520
+male una cognizione completa del computer, diciamo del tablet, mettiamolo in questi
+
+481
+00:32:17,520 --> 00:32:17,920
+termini.
+
+482
+00:32:17,920 --> 00:32:20,400
+Il telefono, devo dire la verità, per me non è mai stato
+
+483
+00:32:20,400 --> 00:32:21,280
+un problema.
+
+484
+00:32:21,680 --> 00:32:26,720
+Anzi, uno, abitualmente, quando sono in ufficio a casa, cioè è poggiato
+
+485
+00:32:26,720 --> 00:32:33,040
+su un caricabatterie, C-charger, sta lì e non ce l'ho in mano
+
+486
+00:32:33,040 --> 00:32:34,320
+sostanzialmente, quindi
+
+487
+00:32:35,840 --> 00:32:37,120
+raramente lo utilizzo.
+
+488
+00:32:37,120 --> 00:32:41,280
+Invece, i computer e i tablet sono
+
+489
+00:32:43,120 --> 00:32:47,280
+sia strumenti di lavoro ma anche sia strumenti di consumo.
+
+490
+00:32:47,280 --> 00:32:48,880
+Diciamo per mille motivi.
+
+491
+00:32:48,880 --> 00:32:53,200
+Perché, per esempio, comunque nell'ultimo periodo ho cercato di leggere di più,
+
+492
+00:32:53,200 --> 00:32:54,240
+ci sono riuscito.
+
+493
+00:32:54,240 --> 00:32:58,800
+Apro chiuso una parentesi, ma ho letto tutto su libri digitali e
+
+494
+00:32:58,800 --> 00:33:02,560
+avere un quadro anche solo sommario diciamo di queste applicazioni.
+
+495
+00:33:02,640 --> 00:33:08,560
+Perché, per esempio, su iPad ho un tracciato, diciamo, più grezzo, chiamiamoli
+
+496
+00:33:08,560 --> 00:33:09,280
+in questi termini.
+
+497
+00:33:09,280 --> 00:33:13,680
+Mentre su Mac ho un tracciato più definito e grazie a questa
+
+498
+00:33:13,760 --> 00:33:20,240
+applicazione riesco, addirittura praticamente in base ai criteri diciamo che ho preimpostato
+
+499
+00:33:20,240 --> 00:33:20,480
+io.
+
+500
+00:33:20,480 --> 00:33:21,440
+Ovviamente.
+
+501
+00:33:21,760 --> 00:33:26,560
+Meno male, se non so, ho aperto la pratica A, lui mi
+
+502
+00:33:26,560 --> 00:33:29,920
+traccia il tempo che ho, la cartella del finder aperto sulla pratica
+
+503
+00:33:29,920 --> 00:33:33,240
+A come tempo dedicato a svolgere quella pratica.
+
+504
+00:33:33,640 --> 00:33:38,920
+Quindi mi dà la possibilità, mi traccia, per esempio, addirittura proprio granularmente
+
+505
+00:33:38,920 --> 00:33:40,360
+i siti in cui sono stato.
+
+506
+00:33:40,360 --> 00:33:45,320
+Quindi, ovviamente, se sono stato mezz'ora su Twitter piuttosto che mezz'ora sulla
+
+507
+00:33:45,320 --> 00:33:50,280
+banca dati giuridica, è ovvio che il tempo è stato speso in
+
+508
+00:33:50,280 --> 00:33:51,000
+maniera diversa.
+
+509
+00:33:51,640 --> 00:34:00,120
+Revisionare perché comunque pur facendo tutta un'attività diciamento automatico, buona metà del
+
+510
+00:34:00,120 --> 00:34:05,240
+tempo, tra virgolette, non viene incasellato, viene tracciato fisicamente, ma non viene
+
+511
+00:34:05,240 --> 00:34:07,240
+associato un'attività specifica.
+
+512
+00:34:07,480 --> 00:34:13,640
+Ho visto che effettivamente nel tempo tanta roba passava nelle maglie del
+
+513
+00:34:13,640 --> 00:34:18,920
+setaccio, ho cercato di stringervi più quindi spesso e volentieri la domenica
+
+514
+00:34:18,920 --> 00:34:26,600
+cerco di fare un'operazione di controllo, diciamo, dell'attività dei giorni passati, della
+
+515
+00:34:26,600 --> 00:34:27,480
+settimana.
+
+516
+00:34:27,800 --> 00:34:33,320
+Que comunque anche se non ho tenuto un vero e proprio chiamiamolo
+
+517
+00:34:33,320 --> 00:34:37,400
+così diario della mia attività, mi permette di avere un quadro
+
+518
+00:34:38,440 --> 00:34:42,280
+abbastanza chiaro di cosa ho fatto, cosa non ho fatto, di come
+
+519
+00:34:42,280 --> 00:34:45,000
+ho speso il mio tempo e di cosa l'ho dedicato, e se
+
+520
+00:34:45,000 --> 00:34:49,880
+effettivamente il tempo che ho dedicato alla questione apposta che alla questione
+
+521
+00:34:49,880 --> 00:34:53,640
+B era quello che volevo fare oppure no, perché, ovviamente,
+
+522
+00:34:55,000 --> 00:34:59,720
+sapendo come ho speso il tempo, e se l'ho speso, bene o
+
+523
+00:34:59,720 --> 00:35:06,120
+male, adesso concedetemi questi termini, sì, non è bianco o nero, però
+
+524
+00:35:06,120 --> 00:35:11,480
+è giusto per spiegarci velocemente: se diciamo ho speso il tempo come
+
+525
+00:35:11,480 --> 00:35:15,520
+volevo o come comunque mi ero prefissato, piuttosto che sono perso
+
+526
+00:35:14,920 --> 00:35:20,720
+in vari rivoli e in varie attività che non avevo previsto.
+
+527
+00:35:22,000 --> 00:35:27,200
+La settimana entrante, diciamo, posso aggiustare la rotta, posso dire no, questa
+
+528
+00:35:27,360 --> 00:35:30,880
+settimana, per esempio, ho dedicato poco tempo nelle ultime due settimane al
+
+529
+00:35:30,880 --> 00:35:36,160
+lavoro, devo dedicare maggiormente tempo al lavoro, devo gestire certe cose, certi
+
+530
+00:35:36,160 --> 00:35:40,640
+progetti che mi piacerebbe mettere a cui mi piacerebbe mettere mano, e
+
+531
+00:35:40,640 --> 00:35:44,000
+ho un progetto meraviglioso che non vedo l'ora di riuscire a mettere
+
+532
+00:35:44,080 --> 00:35:49,280
+mano, ma mi sono fermato, mi sono fermato perché veramente poteva essere
+
+533
+00:35:49,280 --> 00:35:53,360
+una cosa dove perdevo decine e decine di ore, mettiamola in questi
+
+534
+00:35:53,360 --> 00:35:54,080
+termini.
+
+535
+00:35:54,080 --> 00:35:57,520
+Appunto, rendendomi conto che avevo tutta una serie di cose da fare,
+
+536
+00:35:57,520 --> 00:36:02,240
+ho detto: va bene, mettiamola in stop, ce l'ho lì casomai nei
+
+537
+00:36:02,240 --> 00:36:07,280
+momenti di down dove cerco di inserirli in quei momenti lì.
+
+538
+00:36:07,280 --> 00:36:09,440
+Ma il concetto, quindi, qual è?
+
+539
+00:36:09,440 --> 00:36:12,640
+Non è lo strumento, quindi si può partire da uno strumento analogico.
+
+540
+00:36:12,640 --> 00:36:18,240
+Quindi, tra virgolette, tracciare su un quadernino di carta nell'agenda della banca,
+
+541
+00:36:18,240 --> 00:36:24,080
+tra virgolette, ovviamente Cortex, ma ce ne sono veramente tanti.
+
+542
+00:36:24,400 --> 00:36:30,000
+Adesso l'esempio, io lo faccio con loro perché, diciamo, sono abituato, l'ho
+
+543
+00:36:30,000 --> 00:36:33,920
+già sentito parlare, l'ho visto e ovviamente nei note all'episodio se siete
+
+544
+00:36:33,920 --> 00:36:38,640
+interessati, c'è anche il link al sito del planner sostanzialmente.
+
+545
+00:36:38,960 --> 00:36:43,360
+Quindi, questa chiamiamola così agenda anche se non hai i giorni dell'anno,
+
+546
+00:36:43,360 --> 00:36:46,400
+perché alla fine è un'agenda chiamiamola così libera.
+
+547
+00:36:46,400 --> 00:36:51,040
+Quindi puoi scrivere tu il giorno dell'anno, puoi anche non lavorare sul
+
+548
+00:36:51,040 --> 00:36:52,000
+singolo giorno,
+
+549
+00:36:53,680 --> 00:36:58,000
+però, appunto, è strutturata in una maniera, ovviamente, secondo le loro idee,
+
+550
+00:36:58,000 --> 00:37:04,200
+secondo il loro chiamiamolo così metodo, per rendere più facile, diciamo appunto
+
+551
+00:37:04,200 --> 00:37:07,320
+la revisione a valutare cosa si è fatto,
+
+552
+00:37:09,160 --> 00:37:12,760
+cosa ci si proponeva nella giornata, nella settimana e così via, e
+
+553
+00:37:12,760 --> 00:37:15,960
+così invece, tra virgolette, è il risultato.
+
+554
+00:37:16,040 --> 00:37:21,800
+Quindi, poi appunto fare i famosi ragionamenti su quale direzione stiamo prendendo
+
+555
+00:37:22,360 --> 00:37:24,200
+se c'è necessità di
+
+556
+00:37:26,920 --> 00:37:29,560
+un cambio di rotta oppure no.
+
+557
+00:37:30,040 --> 00:37:35,480
+L'altra opzione ibrida, io la chiamo è quella, io vi parlerò qui
+
+558
+00:37:35,480 --> 00:37:38,760
+di Goodnote, ma secondo me ormai ne abbiamo parlato, non mi ricordo
+
+559
+00:37:38,760 --> 00:37:41,880
+più in che puntata, ma comunque ne abbiamo già delle applicazioni per
+
+560
+00:37:41,880 --> 00:37:43,000
+prendere appunti a mano.
+
+561
+00:37:43,720 --> 00:37:44,600
+Su iPad.
+
+562
+00:37:44,600 --> 00:37:48,920
+Good Note è l'applicazione che io utilizzo di cui parlo, ma ce
+
+563
+00:37:48,920 --> 00:37:52,920
+ne sono varie, cioè Notability e altre sostanzialmente.
+
+564
+00:37:52,920 --> 00:37:57,480
+Il vantaggio qual è, è che da una parte abbiamo lo schermo,
+
+565
+00:37:57,480 --> 00:38:01,640
+l'iPad quindi è qualcosa di digitale, chiamiamolo in questi termini.
+
+566
+00:38:01,640 --> 00:38:05,720
+Si può, però, comunque scrivere, chiamiamole così, a mano attraverso la pensile
+
+567
+00:38:05,960 --> 00:38:07,480
+o strumenti simili.
+
+568
+00:38:07,480 --> 00:38:11,960
+Adesso recentemente tra l'altro e qui apro chiuso una parentesi.
+
+569
+00:38:12,280 --> 00:38:17,320
+Tuttavia, sono nati rispetto all'iPad, diciamo, tutta una serie di strumenti che
+
+570
+00:38:17,480 --> 00:38:21,080
+mi incuriosiscono molto, ma che da quello che ho visto non fanno
+
+571
+00:38:21,080 --> 00:38:24,040
+per me: sono il Remarkable 2, il
+
+572
+00:38:25,320 --> 00:38:27,000
+Kindle, Scribe.
+
+573
+00:38:27,240 --> 00:38:30,440
+Ho visto che adesso recentemente nel nuovo ne hanno fatto un altro.
+
+574
+00:38:30,440 --> 00:38:34,920
+Quindi sono lettori INC sostanzialmente dove, però, si può anche scrivere,
+
+575
+00:38:36,040 --> 00:38:37,320
+molto interessanti.
+
+576
+00:38:37,320 --> 00:38:42,200
+L'idea del poter lavorare con l'Ink per me è splendida.
+
+577
+00:38:42,200 --> 00:38:46,880
+I costi attualmente sono veramente elevati e spesso e volentieri, almeno dal
+
+578
+00:38:46,880 --> 00:38:50,480
+mio punto di vista, un iPad che io peraltro ho e quindi
+
+579
+00:38:50,480 --> 00:38:55,520
+che comunque non mi richiede un costo, diciamo, ha lo svantaggio appunto
+
+580
+00:38:55,600 --> 00:39:00,720
+di avere lo schermo che ti flascia la faccia, ma ha l'innegabile
+
+581
+00:39:00,720 --> 00:39:04,480
+vantaggio che è uno strumento, diciamo, che mi permette ovviamente non solo
+
+582
+00:39:04,480 --> 00:39:06,240
+di prendere appunti, non solo di leggere
+
+583
+00:39:07,280 --> 00:39:10,880
+un libro, ma anche di fare mille altre cose, cosa che questi
+
+584
+00:39:10,880 --> 00:39:15,440
+strumenti che hanno dei prezzi, comunque non meno di 350 e anche
+
+585
+00:39:15,440 --> 00:39:17,840
+fino a 800 euro.
+
+586
+00:39:17,840 --> 00:39:24,240
+Sinceramente, attualmente a me non convincono in quell'ottica lì, diciamo di strumenti
+
+587
+00:39:24,240 --> 00:39:28,800
+che comunque possono fare molte più cose così via in più spesso
+
+588
+00:39:28,800 --> 00:39:33,600
+e volentieri e giuro che dopo la chiudo, hanno degli strumenti proprietari
+
+589
+00:39:33,600 --> 00:39:40,560
+di sincronizzazione di questi taccuini, che è l'ulteriore fardello della vicenda sostanzialmente.
+
+590
+00:39:40,560 --> 00:39:42,720
+Per cui, sinceramente,
+
+591
+00:39:45,600 --> 00:39:51,520
+ho visto tante recensioni, sono curioso, diciamo, addirittura sono molto curioso, ma
+
+592
+00:39:51,520 --> 00:39:55,120
+anche lì i costi sono folli sugli schermi.
+
+593
+00:39:55,120 --> 00:39:58,160
+Dai monitor, gli ink.
+
+594
+00:39:58,800 --> 00:40:05,520
+Effettivamente, adesso, se mi ricordo, inserirò Riccardo Palumbo ha fatto recentemente una
+
+595
+00:40:05,520 --> 00:40:07,840
+recensione, però,
+
+596
+00:40:09,040 --> 00:40:12,800
+le cifre, per quello che si hanno, tra virgolette, allora prendo un
+
+597
+00:40:12,800 --> 00:40:15,440
+Apple Studio Display, tutta la vita.
+
+598
+00:40:15,840 --> 00:40:18,240
+Non se ne parla più dal mio punto di vista.
+
+599
+00:40:18,240 --> 00:40:27,360
+Confermo e sottoscrivo: tra l'altro, quindi, comunque, l'aspetto analogico digitale, analogico, diciamo,
+
+600
+00:40:27,360 --> 00:40:33,160
+viene preso, viene fatto da queste applicazioni, diciamo, Good Note come Notability
+
+601
+00:40:33,320 --> 00:40:38,840
+addirittura hanno riconoscimento della scrittura, quindi teoricamente, si ha la possibilità anche
+
+602
+00:40:38,840 --> 00:40:43,880
+di esportare in qualche maniera, oltre a avere un PDF, chiamiamolo così,
+
+603
+00:40:44,200 --> 00:40:51,400
+annotato, creando dei invece di, per esempio, giusto per se vi piace
+
+604
+00:40:52,360 --> 00:40:54,120
+il sistema di Cortex.
+
+605
+00:40:54,120 --> 00:41:00,600
+Ci sono gli screenshot del libro, del planner, li importate dentro good
+
+606
+00:41:00,840 --> 00:41:02,920
+note, e tra virgolette, potete
+
+607
+00:41:04,360 --> 00:41:09,400
+molto piccamente riciclare in parte quel plan aperto e chiusa parentesi adesso
+
+608
+00:41:09,640 --> 00:41:10,040
+Roberto.
+
+609
+00:41:10,040 --> 00:41:13,560
+Prima o poi lo guarderai, è puntinato come piace a te.
+
+610
+00:41:16,440 --> 00:41:17,480
+Sul puntinato,
+
+611
+00:41:19,160 --> 00:41:20,120
+la mia passione.
+
+612
+00:41:20,120 --> 00:41:25,240
+Volevo dirvi soltanto una cosa: nel caso in cui voleste utilizzare strumenti
+
+613
+00:41:25,240 --> 00:41:28,760
+come Good Notes, ce n'è un altro molto simpatico che si chiama
+
+614
+00:41:28,760 --> 00:41:32,920
+Cola Note ed è completamente gratuito, che ha all'interno già i planner.
+
+615
+00:41:32,920 --> 00:41:39,480
+Nel senso che ne ha planner annuali, planner settimanali, vari colori, dimensioni,
+
+616
+00:41:39,480 --> 00:41:43,720
+forme, c'è un po' da sbizzarrirsi e quindi se volete fare questa
+
+617
+00:41:43,720 --> 00:41:47,880
+cosa, potete anche guardare quello che potrebbe tornarvi utile in questo senso
+
+618
+00:41:48,280 --> 00:41:48,840
+anche lì.
+
+619
+00:41:48,840 --> 00:41:50,600
+Adesso pressendo dal piratare
+
+620
+00:41:51,800 --> 00:41:53,640
+la roba di Cortex.
+
+621
+00:41:53,640 --> 00:41:59,640
+Tendenzialmente sicuramente GoodNote lo può fare, si può creare appunto un PDF
+
+622
+00:41:59,960 --> 00:42:04,840
+con World Pages o quello che volete, con diciamo lo schema di
+
+623
+00:42:04,840 --> 00:42:09,400
+base del vostro planner, che può essere a quel punto lì personalizzato
+
+624
+00:42:09,400 --> 00:42:14,360
+e fatto come volete, e poi inserito appunto all'interno di GoodNote è
+
+625
+00:42:14,360 --> 00:42:19,680
+utilizzato, diciamo, come carta, tra virgolette, virtuale per farlo, quindi molto interessante.
+
+626
+00:42:20,000 --> 00:42:24,880
+L'alternativa, ovviamente, è quella di andare totalmente digitale.
+
+627
+00:42:24,880 --> 00:42:29,440
+Quindi scriverlo al computer sostanzialmente, un po' quello che ho fatto io
+
+628
+00:42:29,440 --> 00:42:35,280
+all'inizio del 2022 con Obsidian, il vantaggio di Obsidian, ma come tutte
+
+629
+00:42:35,280 --> 00:42:44,160
+queste tipologie di strumenti, è la possibilità di interconnettere, chiamiamolo così le
+
+630
+00:42:44,160 --> 00:42:49,840
+note e quindi l'altro vantaggio che trovavo tra virgolette, era che oltre
+
+631
+00:42:49,840 --> 00:42:55,520
+ad avere la nota giornaliera, diciamo, avevo anche tutto il sistema per
+
+632
+00:42:55,520 --> 00:43:00,880
+poter puntare ai giorni precedenti, alle persone che ho frequentato, quindi anche
+
+633
+00:43:00,880 --> 00:43:07,520
+vedere concretamente graficamente, perché poi Obsidian, ma come altre altre applicazioni del
+
+634
+00:43:07,520 --> 00:43:15,280
+genere, hanno la possibilità di avere questo grafo dell'interconnessione delle note, diciamo,
+
+635
+00:43:15,280 --> 00:43:22,880
+e quindi andando avanti, effettivamente si creava un bel sistema di interconnessione,
+
+636
+00:43:22,880 --> 00:43:26,800
+quindi anche tra le varie cose di cui tenevo traccia, tra virgolette,
+
+637
+00:43:26,800 --> 00:43:30,560
+mentre scrivevo, c'era appunto che sono andato a prendere il caffè con
+
+638
+00:43:30,560 --> 00:43:31,120
+Caio.
+
+639
+00:43:31,520 --> 00:43:35,520
+Ho fatto una registrazione con Roberto, ho fatto questo con la famiglia,
+
+640
+00:43:35,520 --> 00:43:39,600
+ed effettivamente in questa maniera si creava anche, hai un tracciato
+
+641
+00:43:40,640 --> 00:43:46,320
+delle persone che frequenti di più e quanto le frequenti, quindi conseguentemente,
+
+642
+00:43:46,320 --> 00:43:52,320
+per esempio, dall'aspetto di vista puramente familiare e sociale, chiamiamoli in questi
+
+643
+00:43:52,320 --> 00:43:52,880
+termini.
+
+644
+00:43:52,880 --> 00:43:56,000
+Per esempio, è da un po' che non sento Roberto, gli faccio
+
+645
+00:43:56,000 --> 00:43:57,200
+una telefonata perché
+
+646
+00:43:58,320 --> 00:44:00,600
+non ci siamo sentiti, però non tot di tempo.
+
+647
+00:44:02,760 --> 00:44:04,920
+Da questo sistema nascono anche
+
+648
+00:44:06,360 --> 00:44:10,200
+modalità per poi rendersi conto che, per esempio, una persona a cui
+
+649
+00:44:10,200 --> 00:44:15,080
+tu sei legato la stai perdendo di vista, soprattutto in questo periodo
+
+650
+00:44:15,640 --> 00:44:21,080
+dove comunque la socialità è ancora in parte limitata per mille motivi,
+
+651
+00:44:21,080 --> 00:44:27,960
+può essere anche un modo sensato di gestire anche gli aspetti che
+
+652
+00:44:27,960 --> 00:44:31,400
+danno poi senso alla vita, perché ovviamente la vita non è solo
+
+653
+00:44:31,400 --> 00:44:36,040
+lavoro, non è solo produttività, tra virgolette, un altro sistema invece che
+
+654
+00:44:36,040 --> 00:44:41,240
+ho utilizzato io è Notion, mi sono creato essenzialmente un planner settimanale,
+
+655
+00:44:41,240 --> 00:44:45,720
+che, però, essendo digitale, ha tutta una serie di rimandi e possibilità,
+
+656
+00:44:46,040 --> 00:44:48,520
+ovviamente mi sono trovato, però,
+
+657
+00:44:50,120 --> 00:44:53,640
+a metà tra quello che può essere l'utilizzo di good notes.
+
+658
+00:44:53,640 --> 00:44:55,960
+Che vi ricordo che adesso, per tre
+
+659
+00:44:57,640 --> 00:45:02,760
+PDF o qualcosa del genere, è gratuito l'utilizzo di treini, si chiamano
+
+660
+00:45:02,760 --> 00:45:08,120
+Taquini, esatto, scusami, tre taquini e gratuito.
+
+661
+00:45:08,120 --> 00:45:11,720
+Difatti, io ho iniziato a usarlo per applicazione interessante, non c'è niente
+
+662
+00:45:11,720 --> 00:45:12,120
+da dire.
+
+663
+00:45:12,120 --> 00:45:16,040
+Tra l'altro, aggiungo soltanto che c'è questa simpatica possibilità: se voi avete
+
+664
+00:45:16,040 --> 00:45:19,720
+un planner settimanale come quelli che ho utilizzato fino qualche tempo fa
+
+665
+00:45:19,720 --> 00:45:23,000
+di prova, se voi fate uno swipe verso sinistra, vi fa un
+
+666
+00:45:23,000 --> 00:45:23,560
+duplicato.
+
+667
+00:45:23,720 --> 00:45:29,880
+Quindi potete essenzialmente ripartire con la settimana senza cancellare l'altra e fare
+
+668
+00:45:29,880 --> 00:45:30,600
+un po' di cose.
+
+669
+00:45:30,600 --> 00:45:33,880
+Molto interessante come applicazione, ve la consiglio.
+
+670
+00:45:35,080 --> 00:45:37,400
+Obsidian, esempio, ma anche Notion.
+
+671
+00:45:37,400 --> 00:45:40,520
+Insomma, dovete trovare un po' soltanto la quadri trovare lo strumento digitale
+
+672
+00:45:40,520 --> 00:45:41,320
+adatto a voi.
+
+673
+00:45:41,320 --> 00:45:44,280
+Si, un po' partire tra virgolette, per esempio, giusto per fare i
+
+674
+00:45:44,280 --> 00:45:48,960
+nomi, Newport utilizza un file di testo semplicissimo.
+
+675
+00:45:49,200 --> 00:45:54,240
+Si scrive le cose che deve fare, va avanti, fa una gestione
+
+676
+00:45:54,240 --> 00:45:55,040
+veramente molto
+
+677
+00:45:56,080 --> 00:45:56,560
+minimale.
+
+678
+00:45:56,560 --> 00:46:01,280
+Nel senso che usa per la strutturazione della sua attività di lungo
+
+679
+00:46:01,280 --> 00:46:05,840
+periodo un Google Doc per la quotidianità un file di testo, diciamo,
+
+680
+00:46:05,840 --> 00:46:08,560
+che è sincronizzato tra i suoi computer.
+
+681
+00:46:08,800 --> 00:46:15,760
+Quindi si può fare, diciamo, con strumenti avanzatissimi, tra virgolette, intelligenza artificiale,
+
+682
+00:46:15,760 --> 00:46:22,000
+predizione di quello che vorrai fare, ma anche con strumenti analogici o
+
+683
+00:46:22,240 --> 00:46:25,760
+digitali, ma digitali solo di nome, tra virgolette, per cui
+
+684
+00:46:27,440 --> 00:46:33,280
+non focalizzatevi sullo strumento perfetto, ma sul metodo eventualmente, o il metodo,
+
+685
+00:46:33,280 --> 00:46:36,480
+che poi anche lì non esiste un metodo perfetto, esiste solo il
+
+686
+00:46:36,480 --> 00:46:37,120
+metodo
+
+687
+00:46:38,240 --> 00:46:44,480
+personale, che più vi crea meno attrito per farlo, che risuona con
+
+688
+00:46:44,480 --> 00:46:45,600
+voi bravissimo.
+
+689
+00:46:46,480 --> 00:46:49,760
+Io direi: visto che siamo già abbastanza lunghi come nostro solito, perché
+
+690
+00:46:49,760 --> 00:46:52,720
+non ce la possiamo fare, raccontaci un po' il tuo avio, facciamo
+
+691
+00:46:52,720 --> 00:46:55,600
+cosa così facciamo degli esempi.
+
+692
+00:46:55,600 --> 00:47:01,200
+Il mio anno, il mio 2022, e poi il tuo 2022, e
+
+693
+00:47:01,200 --> 00:47:06,000
+poi a mia volta, cosa punta nel 2023, poi, casomai, a questo
+
+694
+00:47:06,000 --> 00:47:10,880
+punto, se ci sarà del, se sarà apprezzata, diciamo, questa modalità, diciamo,
+
+695
+00:47:10,880 --> 00:47:16,480
+potremmo anche ragionare di fare un 2024, tra virgolette,
+
+696
+00:47:17,760 --> 00:47:24,320
+per tenerci anche reciprocamente legati a queste cose, perché poi è anche
+
+697
+00:47:24,320 --> 00:47:26,400
+un altro discorso che non abbiamo fatto.
+
+698
+00:47:26,400 --> 00:47:31,080
+Ma ragionare sulle cose, tra virgolette, anche parlare con gli altri, è
+
+699
+00:47:31,080 --> 00:47:34,680
+un modo anche per investire in quello che si sta facendo, chiamiamoli
+
+700
+00:47:34,680 --> 00:47:40,200
+in questi termini, e quindi responsabilizzarsi, e anche un modo per gettare
+
+701
+00:47:40,200 --> 00:47:43,960
+meno volentieri la spugna, tra virgolette, poi continua a ripetere.
+
+702
+00:47:44,040 --> 00:47:47,480
+Già, il concetto di gettare la spugna è sbagliato dal mio punto
+
+703
+00:47:47,480 --> 00:47:47,880
+di vista.
+
+704
+00:47:47,880 --> 00:47:53,080
+Tuttavia, giusto per sempre come al solito, parlare in termini semplici e
+
+705
+00:47:53,080 --> 00:47:57,160
+non andare troppo a fare i filosofi, mettiamola così.
+
+706
+00:47:57,400 --> 00:48:02,920
+Allora, come dicevo, anno di passaggio, diciamo che il 2021 forse è
+
+707
+00:48:02,920 --> 00:48:07,880
+stato l'anno peggiore attualmente nella mia carriera professionale per tutta una serie
+
+708
+00:48:07,880 --> 00:48:11,800
+di motivi, legato al Covid, legato al sistema di giustizia che è
+
+709
+00:48:11,880 --> 00:48:15,560
+cambiato, peggiorato e così via.
+
+710
+00:48:16,120 --> 00:48:20,120
+Anche scelte che avevo fatto, quindi avevo
+
+711
+00:48:21,160 --> 00:48:28,600
+, ho sempre lavorato molto col tribunale, curatore, altri incarichi di questo genere,
+
+712
+00:48:28,600 --> 00:48:31,160
+che da un certo punto di vista sono molto
+
+713
+00:48:32,360 --> 00:48:36,520
+diciamo dove c'è da mangiare c'è molto da mangiare, dove non c'è
+
+714
+00:48:36,520 --> 00:48:40,360
+molto da mangiare, c'è veramente poco da mangiare, però, meno male c'era
+
+715
+00:48:40,440 --> 00:48:43,160
+un equilibrio in queste vicende.
+
+716
+00:48:43,160 --> 00:48:49,480
+Progressivamente c'è stato un calo drastico di quel lavoro, avevo tagliato invece
+
+717
+00:48:49,480 --> 00:48:54,440
+i lavori meno economicamente vantaggiosi, mettiamoli in questo termine, ovviamente ho dovuto
+
+718
+00:48:54,440 --> 00:48:59,800
+riequilibrare un po' tutta la vicenda e sto ancora cercando di rimettere
+
+719
+00:48:59,800 --> 00:49:01,640
+in sesto determinate cose.
+
+720
+00:49:01,960 --> 00:49:07,480
+A fronte, però, di queste considerazioni, ovviamente, l'anno di passaggio è perché
+
+721
+00:49:07,480 --> 00:49:11,960
+ho deciso a inizio anno, mi sono reso conto che insomma, bisognava
+
+722
+00:49:11,960 --> 00:49:13,720
+fare delle scelte abbastanza
+
+723
+00:49:13,720 --> 00:49:16,640
+dare una certo tipo di
+
+724
+00:49:14,120 --> 00:49:18,000
+svolta al timone,
+
+725
+00:49:14,840 --> 00:49:19,280
+mettiamole in questi termini.
+
+726
+00:49:19,360 --> 00:49:26,480
+Quindi non potevo navigare, tra virgolette, sotto costa e in tranquillità e
+
+727
+00:49:26,960 --> 00:49:30,640
+a fare dei piccoli aggiustamenti di rotti, ma la rotta doveva essere
+
+728
+00:49:32,560 --> 00:49:35,280
+abbastanza sterzata, ecco, diciamo.
+
+729
+00:49:35,280 --> 00:49:39,120
+Per cui ho messo in piedi tutta una serie di cose, tra
+
+730
+00:49:39,120 --> 00:49:44,800
+virgolette, che nel corso del 2022 mi hanno portato a abbandonare lo
+
+731
+00:49:44,800 --> 00:49:47,600
+studio in cui ero in affitto con anche dei colleghi.
+
+732
+00:49:47,600 --> 00:49:53,040
+De colleghi peraltro con cui ho condiviso la vita professionale per quasi
+
+733
+00:49:53,040 --> 00:49:56,720
+una decina d'anni, quindi insomma è stato un bel cambio, tra virgolette,
+
+734
+00:49:57,040 --> 00:50:01,920
+è stata anche una scelta relativamente sofferta, ma necessitata appunto da tutta
+
+735
+00:50:01,920 --> 00:50:06,560
+una serie di situazioni, mettiamole in questi termini.
+
+736
+00:50:06,560 --> 00:50:12,240
+Ho ottimizzato il discorso spese perché sono andato a casa mia quindi
+
+737
+00:50:12,240 --> 00:50:18,720
+in un immobile dove sono il proprietario, quindi ovviamente ho ottimizzato drasticamente
+
+738
+00:50:18,720 --> 00:50:23,280
+da affitto a gestione personale, tra virgolette, di un immobile che peraltro
+
+739
+00:50:23,280 --> 00:50:27,920
+non è affittato quindi doppiamente vantaggioso da quel punto di vista lì,
+
+740
+00:50:27,920 --> 00:50:33,760
+ho anche drasticamente ridotto le spese di gestione quotidiana, perché ovviamente uno
+
+741
+00:50:33,760 --> 00:50:38,720
+studio di tre persone con esigenze diverse, con tutta una serie di
+
+742
+00:50:38,720 --> 00:50:40,960
+cose, ovviamente a dei costi.
+
+743
+00:50:40,960 --> 00:50:44,240
+È stata una scelta lungimirante da un certo punto di vista, perché
+
+744
+00:50:44,800 --> 00:50:51,520
+non avevo minimamente ragionato sull'aumento dei costi esponenziali, diciamo, del caro bolletta
+
+745
+00:50:51,520 --> 00:50:55,120
+e così via, la scelta è stata molto più banale: diciamo, di
+
+746
+00:50:55,120 --> 00:50:59,200
+ottimizzazione delle risorse che avevo già in mano e di spese che
+
+747
+00:50:59,200 --> 00:51:02,200
+non avevano senso a fronte delle risorse che avevo in mano, col
+
+748
+00:51:02,360 --> 00:51:07,320
+senno di poi, ovviamente è stata una grande scelta tra virgolette, in
+
+749
+00:51:07,320 --> 00:51:10,200
+più il vantaggio grosso, assolutamente sì.
+
+750
+00:51:10,200 --> 00:51:15,800
+Io dicevo, l'ho fatto qualche anno fa e confermo: cambia la vita.
+
+751
+00:51:15,880 --> 00:51:22,040
+Avendo digitalizzato completamente la mia attività professionale e di fatto lavorando già
+
+752
+00:51:22,040 --> 00:51:28,120
+tantissimo da casa, oggettivamente la giustificazione di uno studio legale, cioè di
+
+753
+00:51:28,120 --> 00:51:33,640
+un ufficio affittato per ricevere i clienti e così via, aveva veramente
+
+754
+00:51:33,640 --> 00:51:35,480
+poco senso, cioè erano più le spese.
+
+755
+00:51:35,480 --> 00:51:38,920
+Che comunque non era vicino a casa mia, l'ufficio, è vicino al
+
+756
+00:51:38,920 --> 00:51:40,440
+tribunale se si vuole.
+
+757
+00:51:40,440 --> 00:51:45,720
+Ma ovviamente questo richiedeva di o di muoversi in macchina o di
+
+758
+00:51:45,720 --> 00:51:49,720
+muoversi a piedi, ma perderci e investire molto tempo nelle passeggiate che
+
+759
+00:51:49,720 --> 00:51:52,360
+da un certo punto di vista, a livello pratico per me è
+
+760
+00:51:52,360 --> 00:51:56,680
+una cosa positiva, nel senso che mi aiutava e mi aiuta a
+
+761
+00:51:56,680 --> 00:52:02,520
+tenermi in forma, ma dall'altro ovviamente rendeva tutto più complicato.
+
+762
+00:52:02,760 --> 00:52:07,320
+La collocazione, la location dove sono ora, mi permette di muovermi facilmente
+
+763
+00:52:07,320 --> 00:52:13,080
+a piedi, di raggiungere comunque rapidamente il tribunale nelle occasioni in cui
+
+764
+00:52:13,320 --> 00:52:19,400
+ne ho bisogno, ma veramente la gestione è totalmente diversa e mi
+
+765
+00:52:19,400 --> 00:52:22,360
+ha permesso veramente di essere molto più flessibile.
+
+766
+00:52:22,360 --> 00:52:26,040
+Quindi se da una parte ho avuto il vantaggio della riduzione di
+
+767
+00:52:26,040 --> 00:52:31,720
+spese, chiamiamolo così, anche proprio la gestione familiare e lavorativa e la
+
+768
+00:52:31,720 --> 00:52:35,960
+flessibilità che mi sono creato progressivamente.
+
+769
+00:52:36,120 --> 00:52:42,120
+Oggettivamente è stata utilissima proprio perché ho messo assieme tutta una serie
+
+770
+00:52:42,120 --> 00:52:48,400
+di tecnologie e ambienti di lavoro, chiamiamoli in questi termini, che mi
+
+771
+00:52:48,400 --> 00:52:53,200
+hanno permesso di avere una marcia diversa rispetto a quello che ovviamente
+
+772
+00:52:53,200 --> 00:52:54,080
+ho perso
+
+773
+00:52:55,280 --> 00:52:59,200
+la possibilità, poi perso fino a mezzogiorno, perché stamattina sono andato a
+
+774
+00:52:59,200 --> 00:53:02,160
+prendere un caffè con il mio ex collega e siamo stati in
+
+775
+00:53:02,160 --> 00:53:05,120
+chiacchiere un'ora, quindi voglio dire, non è che
+
+776
+00:53:06,560 --> 00:53:12,560
+volendo, non si perdono i rapporti, e anzi, diciamo, si possono coltivare
+
+777
+00:53:12,560 --> 00:53:16,720
+in maniera diversa e più anche cosciente, mettiamoli in questi termini.
+
+778
+00:53:16,720 --> 00:53:22,160
+Dall'altra ho tutta una serie di attività collaterali, diciamo, che nel corso
+
+779
+00:53:22,160 --> 00:53:27,680
+del 2022 devo dire la verità, ho ottimizzato perché a due, per
+
+780
+00:53:27,680 --> 00:53:29,120
+ora, anzi, no,
+
+781
+00:53:30,880 --> 00:53:35,760
+lo dico qui con somma, gioia, abbiamo fatto una puntata tutti i
+
+782
+00:53:35,760 --> 00:53:42,320
+mesi e mantenuto la cadenza bisettimanale, tra virgolette, tranne, per il mese
+
+783
+00:53:42,320 --> 00:53:42,880
+d'agosto.
+
+784
+00:53:42,880 --> 00:53:48,160
+Quindi 25 e mezzo 25 e mezzo in un anno, però è
+
+785
+00:53:48,160 --> 00:53:53,520
+stato mentre il primo anno abbiamo avuto proprio, abbiamo dovuto trovare un
+
+786
+00:53:53,520 --> 00:53:58,480
+modo, diciamo, di fare andare le cose come dovevano andare.
+
+787
+00:53:58,800 --> 00:54:03,280
+Quest'anno, salvo forse alla fine dell'anno, che è stato effettivamente, siamo un
+
+788
+00:54:03,280 --> 00:54:07,280
+po' in affanno adesso, mettiamoli in questi termini, a livello di tranquillità,
+
+789
+00:54:07,280 --> 00:54:14,560
+di episodi già registrati, di puntate, già strutturate come scalette e così
+
+790
+00:54:14,560 --> 00:54:20,080
+via, ci siamo per vari motivi miei e di Roberto, diciamo, abbiamo
+
+791
+00:54:20,080 --> 00:54:23,840
+avuto un po' di debacle, diciamo già a fine anno.
+
+792
+00:54:24,520 --> 00:54:30,920
+Trocato, sicuramente, il modo l'ottimizzazione del lavoro e quindi anche il peso,
+
+793
+00:54:30,920 --> 00:54:36,120
+perché è detto Internos: io sono quello che gestisce la parte di
+
+794
+00:54:36,120 --> 00:54:41,400
+preproduzione e post-produzione su di me, che tra virgolette, lo dico senza
+
+795
+00:54:41,400 --> 00:54:46,920
+voler fare il martire, mettiamolo in questi termini, ricade il maggiore onere
+
+796
+00:54:47,720 --> 00:54:52,120
+della gestione di A2, poi Roberto fa la sua parte,
+
+797
+00:54:54,520 --> 00:54:55,480
+tutti gli ospiti
+
+798
+00:54:57,000 --> 00:55:01,000
+li hai contattati tu e hai fatto tutto il cioè, puoi capire,
+
+799
+00:55:01,000 --> 00:55:03,640
+è un bello sbatti dal mio punto di vista, quindi io te
+
+800
+00:55:03,640 --> 00:55:06,760
+ne sono totalmente grato quindi
+
+801
+00:55:07,800 --> 00:55:10,680
+proprio perché guarda, il lavoro duro è sempre il tuo.
+
+802
+00:55:10,840 --> 00:55:14,280
+In più, sono riuscito a mantenere una cadenza mensile di compegno, mai
+
+803
+00:55:14,440 --> 00:55:18,120
+avrei detto anche qui tutto l'anno, quindi sono riuscito a ripartire.
+
+804
+00:55:18,120 --> 00:55:21,880
+Adesso, ho avuto appunto a fine anno col Covid,
+
+805
+00:55:22,920 --> 00:55:27,880
+il Natale, Capodanno e così via, ho registrato in ritardo e infatti
+
+806
+00:55:28,040 --> 00:55:32,840
+questo mese sarà il mese tremendo, tra virgolette, perché ho abbastanza impegni
+
+807
+00:55:32,840 --> 00:55:37,880
+e non sono riuscito a coprire il mese anche con la puntata,
+
+808
+00:55:37,880 --> 00:55:43,560
+però insomma spero di farcela, diciamo e in più sono riuscito, e
+
+809
+00:55:43,800 --> 00:55:46,680
+questo è stato un grande raggiungimento dal mio punto di vista.
+
+810
+00:55:46,680 --> 00:55:52,680
+Anche a mettere in piedi l'esperimento webinar, tra virgolette, chiamiamolo così anche
+
+811
+00:55:52,680 --> 00:55:57,320
+lì bisettimanali tra virgolette, nel senso che sono riuscito innanzitutto a trovare
+
+812
+00:55:57,320 --> 00:55:58,840
+la formula che mi piaceva.
+
+813
+00:55:58,840 --> 00:56:03,160
+Diciamo, quindi ogni giovedì, ogni due giovedì al mese in diretta è
+
+814
+00:56:03,160 --> 00:56:08,120
+disponibile, tra virgolette, con il mio pubblico, chiamiamoli in questi termini, in
+
+815
+00:56:08,120 --> 00:56:10,200
+quelle che io chiamo Office Hour.
+
+816
+00:56:10,200 --> 00:56:14,120
+Sono un'ora appunto il giovedì pomeriggio, dalle 2 alle 3 del pomeriggio
+
+817
+00:56:14,200 --> 00:56:18,560
+dove posso rispondere alle domande di chi me le vuole fare, diciamo.
+
+818
+00:56:18,800 --> 00:56:22,800
+E dall'altro se non c'è nessuna domanda, adesso è la terza office
+
+819
+00:56:22,800 --> 00:56:26,080
+hour la faccio giovedì, quindi non è che ne ho fatte tantissime.
+
+820
+00:56:26,080 --> 00:56:30,320
+Tuttavia, riesco anche a spero a intrattenere per un'ora il pubblico e
+
+821
+00:56:30,320 --> 00:56:35,040
+per ora da quello che è responsable, tra virgolette, sia del feedback
+
+822
+00:56:35,040 --> 00:56:39,360
+di colleghi, sia del feedback, diciamo, di YouTube che ha comunque un
+
+823
+00:56:39,360 --> 00:56:41,760
+modo di tracciare le cose.
+
+824
+00:56:41,920 --> 00:56:46,960
+Sta andando come voglio io, anche se probabilmente è un programma a
+
+825
+00:56:46,960 --> 00:56:48,880
+lungo termine per il 2023.
+
+826
+00:56:48,880 --> 00:56:52,560
+Mi piacerebbe e non ci sono riuscito, ed è stata forse la
+
+827
+00:56:52,800 --> 00:56:58,160
+cosa non che ho sottovalutato, ma diciamo su cui dovevo.
+
+828
+00:56:58,400 --> 00:57:02,400
+C'erano già troppe robe in movimento, quindi va bene così, diciamo, perché
+
+829
+00:57:02,480 --> 00:57:07,680
+appunto a due compendium sono tutte attività extralavorative che si vanno a
+
+830
+00:57:07,760 --> 00:57:10,320
+cumulare alla famiglia e tutto il resto.
+
+831
+00:57:10,320 --> 00:57:14,240
+Non sono riuscito a fare o meglio, ho registrato, sto finendo di
+
+832
+00:57:14,240 --> 00:57:15,280
+fare l'editing.
+
+833
+00:57:15,280 --> 00:57:18,480
+Voglio fare YouTube in una maniera un po' particolare, mettiamola in questi
+
+834
+00:57:18,480 --> 00:57:18,960
+termini.
+
+835
+00:57:18,960 --> 00:57:25,600
+Diciamo che ho scelto, secondo me, razionalmente, un asticella un po' troppo
+
+836
+00:57:25,600 --> 00:57:29,520
+alta, alta, mettiamola così, non troppo alta, alta.
+
+837
+00:57:29,520 --> 00:57:33,040
+Perché voglio anche lì mettere assieme tutta una serie di passioni che
+
+838
+00:57:33,040 --> 00:57:38,560
+ho quindi sia fare formazione con video di 10 minuti, quindi molto
+
+839
+00:57:38,560 --> 00:57:42,960
+stringati, che dal mio punto di vista devono essere il modo
+
+840
+00:57:44,160 --> 00:57:49,680
+per essere accattivanti, tra virgolette, su YouTube e per, secondo me, creare
+
+841
+00:57:49,920 --> 00:57:54,960
+un prodotto, diciamo, che è vendibile, nel senso che il mio scopo
+
+842
+00:57:54,960 --> 00:57:58,080
+di tutta questa cosa è divulgativo, quindi non me ne frega niente
+
+843
+00:57:58,080 --> 00:58:01,640
+di fare un euro o 10 euro o 0 euro.
+
+844
+00:58:02,360 --> 00:58:05,880
+Il mio discorso è ottenere un risultato, cioè nel senso essere il
+
+845
+00:58:05,880 --> 00:58:11,000
+più efficace, con la scarsa attenzione, che un medium come YouTube e
+
+846
+00:58:11,000 --> 00:58:17,400
+quindi dove vengono prodotti video in quantità fenomenale, la mia è sicuramente
+
+847
+00:58:17,400 --> 00:58:19,000
+una nicchia, diciamo.
+
+848
+00:58:19,000 --> 00:58:24,520
+Voglio cercare di dare un prodotto, quest'ottica, diciamo, divulgativa, come lo voglio
+
+849
+00:58:24,520 --> 00:58:29,160
+io e anche divertendomi, nel senso che appunto Roberto sa tutte le
+
+850
+00:58:29,160 --> 00:58:34,040
+mie peripezie, i miei ragionamenti perché fa parte del gruppo di soggetti
+
+851
+00:58:34,040 --> 00:58:37,320
+a cui rompo le scatole e faccio vedere i video
+
+852
+00:58:38,600 --> 00:58:42,680
+, però, delle volte rimango senza parole perché dico: ma qui si sta
+
+853
+00:58:42,680 --> 00:58:48,760
+complicando la vita, continua ripeta sì, però rimane, sto trovando spero di
+
+854
+00:58:48,760 --> 00:58:51,640
+aver trovato un insieme di cose per cui
+
+855
+00:58:53,320 --> 00:58:59,640
+parlare di diritto comunque di informatica giuridica in video è complicato e
+
+856
+00:58:59,720 --> 00:59:05,320
+ovviamente riuscire a venderla, tra virgolette, a un pubblico che stia ad
+
+857
+00:59:05,320 --> 00:59:10,040
+ascoltare impari, non è così semplice, secondo me, farlo fatto male, tanto
+
+858
+00:59:10,040 --> 00:59:12,200
+vale non farlo dal mio punto di vista.
+
+859
+00:59:12,200 --> 00:59:18,120
+Quindi vorrei trovare, riuscire a creare un connubio, ovviamente, con le risorse
+
+860
+00:59:18,120 --> 00:59:21,480
+che ho con la passione artistica che ho e che da quel
+
+861
+00:59:21,480 --> 00:59:25,480
+punto di vista lì è un bello svavolo di sfogo.
+
+862
+00:59:25,480 --> 00:59:31,880
+Perché, appunto, amo animare, tra virgolette, il video e mi piacerebbe comunque
+
+863
+00:59:31,880 --> 00:59:36,360
+trovare un modo di intermezzare anche le mini e animazioni dei miei
+
+864
+00:59:36,360 --> 00:59:37,320
+video.
+
+865
+00:59:37,320 --> 00:59:41,800
+È ovvio che sono tanti pezzi che si devono mettere insieme e
+
+866
+00:59:41,800 --> 00:59:45,920
+soprattutto all'inizio dove non ho la manualità.
+
+867
+00:59:45,920 --> 00:59:50,400
+Lo dico sempre a Roberto: recentemente tra le novità di Ferit 3
+
+868
+00:59:50,640 --> 00:59:55,760
+che mi ha permesso di velocizzare ulteriormente l'editing dei podcast e così
+
+869
+00:59:55,760 --> 00:59:59,040
+via, il fatto che ormai lo faccio da due anni quindi, comunque
+
+870
+00:59:59,360 --> 01:00:00,640
+ho macinato.
+
+871
+01:00:00,640 --> 01:00:05,760
+Ormai non so, per esempio, tutti i vari, li vedo ad occhio,
+
+872
+01:00:05,760 --> 01:00:09,680
+quindi li riesco a cancellare con un colpo di pencil.
+
+873
+01:00:10,000 --> 01:00:14,880
+È ovvio che sono tutte cose che qualità e capacità che acquisisci
+
+874
+01:00:14,880 --> 01:00:18,480
+nel tempo, esperienza che acquisisci nel tempo, e quindi, conseguentemente, poi ti
+
+875
+01:00:18,480 --> 01:00:22,240
+permette di essere, tra virgolette, più performante.
+
+876
+01:00:22,240 --> 01:00:26,080
+A due ci abbiamo messo tipo due anni a farlo partire, adesso
+
+877
+01:00:26,080 --> 01:00:31,360
+va, sono contento di stiamo ottenendo anche, tra virgolette, un minimo di
+
+878
+01:00:31,360 --> 01:00:36,400
+riscontro pratico, per cui è ovvio che ci vuole del tempo per
+
+879
+01:00:36,400 --> 01:00:40,560
+fare certe cose, soprattutto se sono progetti collaterali, come sono i miei,
+
+880
+01:00:40,560 --> 01:00:41,520
+assolutamente sì.
+
+881
+01:00:43,600 --> 01:00:46,720
+Comunque sono davvero tanti e sicuramente interessanti.
+
+882
+01:00:46,720 --> 01:00:48,720
+Tagliando corto, vado sul mio anno.
+
+883
+01:00:48,720 --> 01:00:52,720
+Il mio anno, tutto sommato, non mi posso lamentare un anno positivo,
+
+884
+01:00:52,720 --> 01:00:57,680
+come se devo inquadrarlo è positivo perché essenzialmente sono riuscito a portare
+
+885
+01:00:57,680 --> 01:01:01,520
+la pagnotta a casa e quindi per me questo vale più di
+
+886
+01:01:01,520 --> 01:01:02,000
+tutto.
+
+887
+01:01:02,000 --> 01:01:09,040
+Se invece vogliamo dargli un cappello, possiamo identificarlo come l'anno della diversificazione.
+
+888
+01:01:09,040 --> 01:01:16,080
+Essenzialmente sono un architetto progettista, quindi ho visto che all'inizio dello scorso
+
+889
+01:01:16,080 --> 01:01:21,600
+anno vedevo che la progettazione dal punto di vista del fatturato cominciava
+
+890
+01:01:21,600 --> 01:01:25,280
+un po' a calare dal punto di vista anche dell'impegno, e quindi
+
+891
+01:01:25,760 --> 01:01:29,520
+ho cercato un po' di mettermi in gioco e cercare di trovare
+
+892
+01:01:29,520 --> 01:01:31,080
+altre strade.
+
+893
+01:01:31,080 --> 01:01:35,400
+Una di queste strade si chiama Site Manager, che essenzialmente è una
+
+894
+01:01:35,400 --> 01:01:39,960
+figura un po' particolare che va in questo momento di bonus facciate
+
+895
+01:01:39,960 --> 01:01:46,040
+e bonus ristrutturazioni, si va in cantiere ed è quello che si
+
+896
+01:01:46,040 --> 01:01:54,920
+interfaccia tra l'impresa affidataria e l'impresa esecutrice e conseguentemente tira un po'
+
+897
+01:01:54,920 --> 01:01:58,360
+le file del cantiere in modo distaccato, chiamiamolo così.
+
+898
+01:01:58,360 --> 01:02:03,240
+Quindi devo fare essenzialmente dei report di cantiere, non ho la responsabilità
+
+899
+01:02:03,240 --> 01:02:08,200
+della DL, non ho la responsabilità del progettista, è abbastanza semplice perché
+
+900
+01:02:08,520 --> 01:02:14,200
+ti solleva di tante cose, ma certamente essendo effettivamente un manager, devi
+
+901
+01:02:14,200 --> 01:02:16,360
+guardare tante altre cose.
+
+902
+01:02:16,360 --> 01:02:20,200
+Ma la cosa interessante è che comunque avevo iniziato due anni fa
+
+903
+01:02:20,280 --> 01:02:23,960
+in realtà, ma diciamo che si è concretizzato con più cantieri in
+
+904
+01:02:23,960 --> 01:02:24,520
+quest'anno.
+
+905
+01:02:24,520 --> 01:02:28,120
+Quindi questo si è aggiunto, non è progettazione, io non faccio alcuna
+
+906
+01:02:28,120 --> 01:02:33,800
+progettazione, quindi era distante dalla mia linea guida, essenzialmente, che era quello
+
+907
+01:02:33,800 --> 01:02:35,960
+di lavorare come architetto.
+
+908
+01:02:35,960 --> 01:02:39,720
+L'altra opportunità che mi si è posto è quello appunto che mi
+
+909
+01:02:39,720 --> 01:02:44,920
+ha dato Grafisoft Italia, iniziando dal blog che sto portando avanti con
+
+910
+01:02:44,920 --> 01:02:49,400
+un articolo al mese, che poi si è trasformato grazie a una
+
+911
+01:02:49,400 --> 01:02:53,720
+proposta che mi hanno fatto, appunto di condurre Archicad Talks che è
+
+912
+01:02:54,520 --> 01:02:57,880
+la versione podcast di Grafisoft Italia.
+
+913
+01:02:58,120 --> 01:03:01,640
+A livello nazionale per me è un successo sotto tutti i punti
+
+914
+01:03:01,640 --> 01:03:07,880
+di vista, perché non me l'aspettavo, riesco a mantenere comunque anche perché
+
+915
+01:03:08,200 --> 01:03:11,640
+dalla mia parte avevo anche un po' paura di fare la sorta
+
+916
+01:03:11,640 --> 01:03:13,840
+figura del pinto.
+
+917
+01:03:13,840 --> 01:03:16,480
+Come si dice che c'è da noi, ovvero una figura non proprio
+
+918
+01:03:16,800 --> 01:03:21,840
+delle migliori per in capacità, ma in realtà vedo che da quello
+
+919
+01:03:21,840 --> 01:03:25,520
+che mi ha detto appunto, il responsabile, la parte del blog sta
+
+920
+01:03:25,520 --> 01:03:26,480
+andando molto bene.
+
+921
+01:03:26,480 --> 01:03:30,560
+E dall'altra parte, però, archicard Talks, vedo io direttamente le statistiche.
+
+922
+01:03:30,560 --> 01:03:34,640
+Perché carico direttamente io il podcast, ho visto che c'è stato un
+
+923
+01:03:34,640 --> 01:03:39,280
+grosso riscontro e in effetti c'è stato un miglioramento dal punto di
+
+924
+01:03:39,280 --> 01:03:41,440
+vista dei download e degli ascolti.
+
+925
+01:03:41,440 --> 01:03:46,080
+Quindi, ho avuto questa opportunità, l'ho colta, sta andando bene per adesso.
+
+926
+01:03:46,080 --> 01:03:47,600
+Adesso vediamo per 2022.
+
+927
+01:03:47,600 --> 01:03:52,400
+Ma lo stai dicendo, ma sei un podcaster serio, cioè professionale, perché
+
+928
+01:03:52,400 --> 01:03:53,120
+viene pagato.
+
+929
+01:03:53,120 --> 01:03:54,400
+Che è una cosa più
+
+930
+01:03:55,600 --> 01:03:55,760
+.
+
+931
+01:03:56,640 --> 01:04:02,320
+Sono riuscito a trasformare il blog, la scrittura e diciamo il podcasting
+
+932
+01:04:02,400 --> 01:04:06,320
+che era stato fatto entrambi a livello amatoriale con il mio blog,
+
+933
+01:04:06,320 --> 01:04:07,920
+che è Mac Architettura.
+
+934
+01:04:07,920 --> 01:04:09,120
+E con Snap.
+
+935
+01:04:09,120 --> 01:04:12,720
+Si sono trasformati entrambi in fonte di reddito ed è una cosa
+
+936
+01:04:12,720 --> 01:04:14,960
+che francamente non mi aspettavo.
+
+937
+01:04:14,960 --> 01:04:19,520
+Ed è stato una qualcosa veramente che mi ha perdo una strada.
+
+938
+01:04:20,000 --> 01:04:23,680
+Adesso vediamo, la manteniamo e cerco di portarla avanti nel miglior modo
+
+939
+01:04:23,680 --> 01:04:24,240
+possibile.
+
+940
+01:04:24,240 --> 01:04:28,320
+Per me è stata veramente una grandissima esperienza e mi è piaciuto
+
+941
+01:04:28,320 --> 01:04:29,360
+tantissimo.
+
+942
+01:04:29,680 --> 01:04:33,280
+D'altra parte ci sono, oltre a questi aspetti lavorativi, ci sono i
+
+943
+01:04:33,280 --> 01:04:36,800
+progetti collaterali, A2 che stiamo portando avanti alla grande, abbiamo visto che
+
+944
+01:04:36,800 --> 01:04:38,160
+gli ascolti sono migliorati.
+
+945
+01:04:38,160 --> 01:04:41,840
+Ringraziamo tutti gli ascoltatori per il supporto, per l'aiuto.
+
+946
+01:04:41,840 --> 01:04:45,040
+Venite ad ascoltarci anche in diretta chi riesce, anche perché mi rendo
+
+947
+01:04:45,040 --> 01:04:50,640
+conto che l'ora non è dei migliori, ma comunque qualcuno c'è e
+
+948
+01:04:50,640 --> 01:04:52,400
+vi ringraziamo per questo.
+
+949
+01:04:52,400 --> 01:04:54,880
+Vediamo che c'è inizia a esserci riscontro.
+
+950
+01:04:54,880 --> 01:04:56,560
+Siamo davvero molto contenti.
+
+951
+01:04:56,560 --> 01:05:00,200
+Lo dico da parte di entrambi, penso proprio di non sbagliarmi.
+
+952
+01:05:00,200 --> 01:05:05,560
+L'altro progetto è Snap: Architettura Imperfetta, che quest'anno ha avuto un grosso
+
+953
+01:04:59,840 --> 01:05:06,200
+riscontro.
+
+954
+01:05:06,280 --> 01:05:11,800
+Che arriva da Domus Domus è una rivista, non dico delle più
+
+955
+01:05:11,800 --> 01:05:15,000
+importanti, ma una tra le più importanti di architettura.
+
+956
+01:05:15,000 --> 01:05:18,840
+Il suo reparto web ha inserito Snap tra i podcast da ascoltare
+
+957
+01:05:18,840 --> 01:05:20,440
+per l'anno 2022.
+
+958
+01:05:20,440 --> 01:05:25,320
+E io mai più avrei pensato di finire su Domus assolutamente.
+
+959
+01:05:25,320 --> 01:05:32,520
+Era lontanissimo dalle mie idee, e per fortuna ho avuto questo successo,
+
+960
+01:05:32,520 --> 01:05:35,640
+ma anche questo non è un successo direttamente mio, è un successo
+
+961
+01:05:35,640 --> 01:05:41,320
+degli ascoltatori che permettono di progredire come a due anche Snap.
+
+962
+01:05:41,320 --> 01:05:47,560
+D'altra parte, però, c'è il mio blog che trasferendo tutte le forze
+
+963
+01:05:47,560 --> 01:05:52,840
+tra A2, Snap, tra il blog, tra Archicard Talks, vi discorrendo, cosa
+
+964
+01:05:53,000 --> 01:05:53,640
+è successo?
+
+965
+01:05:53,640 --> 01:05:59,240
+Il mio progetto personale iniziale che Mac Architettura, ho visto un andamento
+
+966
+01:05:59,240 --> 01:06:03,320
+a campana dove ho iniziato praticamente il podcast e era il punto
+
+967
+01:06:03,320 --> 01:06:08,680
+più alto degli ascolti, delle letture, poi ho iniziato a scendere, come
+
+968
+01:06:08,760 --> 01:06:11,240
+praticamente sto tornando quasi all'inizio.
+
+969
+01:06:11,240 --> 01:06:14,120
+Per fortuna, no, perché comunque c'è un zoccolo duro che continua a
+
+970
+01:06:14,120 --> 01:06:16,680
+rimanere lì e leggere le cose che scrivo.
+
+971
+01:06:16,680 --> 01:06:20,920
+Ma diciamo, ho visto veramente una discesa, ma mi rendo conto che
+
+972
+01:06:21,160 --> 01:06:26,600
+più di tanto non posso fare, cercherò di pubblicare qualcosa in più.
+
+973
+01:06:26,600 --> 01:06:30,760
+Se vedeste la lista, l'ho vista proprio l'altro giorno la lista degli
+
+974
+01:06:30,760 --> 01:06:34,840
+articoli che voglio pubblicare, ce ne sono almeno 20 così e devo
+
+975
+01:06:34,840 --> 01:06:36,200
+soltanto metterli a scrivere.
+
+976
+01:06:37,720 --> 01:06:40,280
+Tra le varie cose che ho fatto ieri, mentre mettevo a posto
+
+977
+01:06:40,280 --> 01:06:44,200
+tutta una serie di altre cose, insomma, così via, ho spostato nella
+
+978
+01:06:44,360 --> 01:06:49,200
+ricerca e ideazione una quantità di articoli che non ho ancora scritto.
+
+979
+01:06:55,200 --> 01:06:57,680
+Le idee sono tante e poi anche i progetti collaterali.
+
+980
+01:06:57,680 --> 01:07:01,600
+Come vedete io e Filippo siamo sempre molto messi sotto pressione sotto
+
+981
+01:07:01,600 --> 01:07:04,320
+questo punto di vista, e in effetti è un lavoro e bisogna
+
+982
+01:07:04,320 --> 01:07:06,160
+sempre cercare di infilarlo da qualche parte.
+
+983
+01:07:06,160 --> 01:07:10,640
+Io, per esempio, spesso scrivo gli articoli direttamente sul cellulare mentre sto
+
+984
+01:07:10,640 --> 01:07:14,320
+aspettando i figli, mentre sono lì 5 minuti e 5 minuti liberi,
+
+985
+01:07:14,320 --> 01:07:17,520
+metto giù delle idee, degli schemi, delle frasi, qualcosa che mi viene
+
+986
+01:07:17,520 --> 01:07:18,880
+in mente lo metto giù.
+
+987
+01:07:18,880 --> 01:07:22,480
+Altro progetto caratterale che mi sta dando molte soddisfazioni, più che altro
+
+988
+01:07:22,720 --> 01:07:27,360
+non tanto dal punto di vista delle persone che mi seguono, ma
+
+989
+01:07:27,360 --> 01:07:28,640
+delle interazioni.
+
+990
+01:07:28,880 --> 01:07:33,680
+Non pensavo a un progetto come il mio, diciamo, profilo Instagram che
+
+991
+01:07:33,680 --> 01:07:39,600
+non è particolarmente curato, pubblico poche cose, poche cose, pubblico alcune cose,
+
+992
+01:07:39,600 --> 01:07:41,440
+in effetti il feed è abbastanza lungo.
+
+993
+01:07:41,440 --> 01:07:45,680
+Tuttavia mi ha permesso di entrare in contatto con molte persone particolari,
+
+994
+01:07:45,680 --> 01:07:51,120
+diciamo così, è stato bello entrare in contatto con queste persone che
+
+995
+01:07:52,640 --> 01:07:57,360
+porta, diciamo, dal punto di vista professionale delle aperture, non dal punto
+
+996
+01:07:57,360 --> 01:08:02,880
+di vista, nel senso che ho degli altri lavori, ma che interagisce
+
+997
+01:08:02,880 --> 01:08:05,840
+anche con persone che mai più mi sarei aspettato.
+
+998
+01:08:05,840 --> 01:08:10,000
+Ad esempio, sono entrato in contatto essenzialmente con due persone che mai
+
+999
+01:08:10,000 --> 01:08:14,000
+più avrei mai detto che erano inarrivabili.
+
+1000
+01:08:14,000 --> 01:08:18,720
+Una è Eric Reynolds, che per me è il mitico guru di
+
+1001
+01:08:18,880 --> 01:08:20,720
+30 by 40 workshop.
+
+1002
+01:08:20,720 --> 01:08:24,800
+Che per me bisogna puntare lì come lavoro, nel senso che, sotto
+
+1003
+01:08:24,800 --> 01:08:29,360
+tutti i punti di vista sia della comunicazione che dei lavori che
+
+1004
+01:08:29,360 --> 01:08:33,000
+fa e del tratto che ha sull'iPad, mannaggia lui che ha la
+
+1005
+01:08:33,000 --> 01:08:36,440
+mano felice e io non ce l'ho e lo invidio tantissimo per
+
+1006
+01:08:36,440 --> 01:08:37,000
+questo.
+
+1007
+01:08:37,000 --> 01:08:39,880
+Ma al di là di quello, oltre a quello, sono entrato anche
+
+1008
+01:08:39,880 --> 01:08:40,760
+in contatto.
+
+1009
+01:08:40,760 --> 01:08:45,640
+Con, non tutti lo sanno, ma con Lene, che un altro architetto
+
+1010
+01:08:45,640 --> 01:08:50,360
+molto famoso di Los Angeles, che addirittura mi ha chiesto il curriculum.
+
+1011
+01:08:51,000 --> 01:08:56,920
+Ovviamente io gliel'ho mandato, sapevo benissimo che non poteva andare diversamente, ma
+
+1012
+01:08:56,920 --> 01:09:00,120
+un po' come se Dio ti chiedesse: mi mandi qualcosa da guardare,
+
+1013
+01:09:00,120 --> 01:09:04,520
+e tu rimani così e vuol dire Dio mio, cosa succede?
+
+1014
+01:09:04,520 --> 01:09:08,040
+E anche questa è una cosa molto particolare che è successo, è
+
+1015
+01:09:08,120 --> 01:09:09,960
+successo tutto su Instagram.
+
+1016
+01:09:10,120 --> 01:09:14,760
+Poi ci sono tante altre persone, nel senso, molte persone le ho
+
+1017
+01:09:14,760 --> 01:09:19,000
+conosciute per via traverso, ma ci teniamo in contatto con Instagram.
+
+1018
+01:09:19,000 --> 01:09:22,360
+Quindi per me Instagram, al di là del fatto che non utilizzo
+
+1019
+01:09:22,360 --> 01:09:26,200
+Facebook, perché per me è una piattaforma essenzialmente inutile, nel senso che
+
+1020
+01:09:26,200 --> 01:09:29,640
+non la uso per nessun motivo al mondo, essenzialmente, se non per
+
+1021
+01:09:29,640 --> 01:09:35,000
+qualche cosa che devo pubblicare su alcuni, diciamo, forum, chiamiamoli così vecchi
+
+1022
+01:09:35,000 --> 01:09:39,160
+forum, che sono dei gruppi che devo pubblicare alcune cose lì.
+
+1023
+01:09:39,160 --> 01:09:41,880
+Ma al di là di quello, per me Instagram si sta rivelando
+
+1024
+01:09:41,880 --> 01:09:47,080
+davvero qualcosa di creativo, molto creativo, è una cosa molto particolare, lo
+
+1025
+01:09:47,080 --> 01:09:48,520
+consiglio a tutti gli architetti.
+
+1026
+01:09:48,520 --> 01:09:52,520
+Ora adesso lascio la parola per l'anno 2023 di Filip.
+
+1027
+01:09:52,680 --> 01:09:57,400
+Cercherò di essere breve, cosa che non è nota nelle mie corte,
+
+1028
+01:09:57,400 --> 01:09:58,520
+diciamo, però.
+
+1029
+01:09:58,520 --> 01:09:59,960
+Questa puntata ha due ore.
+
+1030
+01:09:59,960 --> 01:10:03,400
+No, no, dai, cerchiamo di anche perché poi staglizzerò qua e là
+
+1031
+01:10:04,680 --> 01:10:08,280
+per me, questo è l'anno delle intenzionalità e della crescita.
+
+1032
+01:10:08,280 --> 01:10:13,240
+Quindi, l'idea è quella di mettere in pista tutta una serie di
+
+1033
+01:10:13,240 --> 01:10:14,680
+cose che ho in mente da tempo
+
+1034
+01:10:16,160 --> 01:10:19,360
+tra le prime, che è una vergogna che non ho ancora fatto,
+
+1035
+01:10:19,360 --> 01:10:22,000
+perché è un anno che sono lì che lo devo fare è
+
+1036
+01:10:22,000 --> 01:10:23,520
+il sito dell'ufficio.
+
+1037
+01:10:23,520 --> 01:10:28,720
+Come al solito, il sito lo potrei fare, 4 secondi, nel senso
+
+1038
+01:10:28,720 --> 01:10:32,320
+che buttare su una pagina dove i contatti e quant'altro e probabilmente
+
+1039
+01:10:32,320 --> 01:10:33,520
+arriverò a fare quello.
+
+1040
+01:10:33,520 --> 01:10:37,840
+Mi piacerebbe, però, fare qualcosa anche qui un po' più di strutturato,
+
+1041
+01:10:38,160 --> 01:10:43,200
+dove, appunto, visto che lo devo fare, tra virgolette, che sia la
+
+1042
+01:10:43,200 --> 01:10:47,600
+casa professionale, come avvocato e me, che è diciamo la mia casa,
+
+1043
+01:10:47,600 --> 01:10:51,440
+diciamo, per tutte le attività collaterali, chiamiamoli in questi termini.
+
+1044
+01:10:51,440 --> 01:10:55,040
+Il sito dell'ufficio dovrebbe essere il sito dello studio, il mio sito
+
+1045
+01:10:55,040 --> 01:11:00,080
+personale, poi come professionista, dovrebbe essere un po' il punto di riferimento
+
+1046
+01:11:00,080 --> 01:11:02,400
+con informazioni e così via.
+
+1047
+01:11:02,400 --> 01:11:07,520
+Anche proprio per il discorso: di finché non ti metti in gioco,
+
+1048
+01:11:07,520 --> 01:11:10,720
+finché non ti fai conoscere, nessuno ti potrà mai conoscere.
+
+1049
+01:11:10,720 --> 01:11:15,120
+Quindi anche il ragionamento che Roberto, tra virgolette, ha giocato su Instagram
+
+1050
+01:11:15,200 --> 01:11:16,400
+e ha ottenuto
+
+1051
+01:11:17,600 --> 01:11:22,320
+dei risultati insperati per lui è proprio il discorso.
+
+1052
+01:11:22,320 --> 01:11:25,760
+Se non ti butti, non imparerai mai a notare.
+
+1053
+01:11:26,080 --> 01:11:31,200
+È abbastanza basilare come principio una volta che ci si pensa, ma
+
+1054
+01:11:31,200 --> 01:11:32,240
+spesso e volentieri.
+
+1055
+01:11:32,240 --> 01:11:37,600
+Poi, appunto, la mia esperienza con avvocati e Mac, lo dico sempre,
+
+1056
+01:11:37,920 --> 01:11:40,560
+mi sono buttato senza neanche pensarci più di tanto.
+
+1057
+01:11:40,560 --> 01:11:43,520
+Rileggendo gli articoli che ho scritto all'inizio mi vengono i brividi.
+
+1058
+01:11:45,520 --> 01:11:51,760
+Appunto, questo podcast, l'amistizia con Roberto, ma l'amistizia con tantissime altre persone
+
+1059
+01:11:52,320 --> 01:11:58,720
+non esisterebbe senza questa scelta iniziale, e anche la crescita personale che
+
+1060
+01:11:58,720 --> 01:12:02,760
+ho avuto io per conoscenza per tantissime cose.
+
+1061
+01:12:03,160 --> 01:12:07,640
+Buona parte di quello che faccio oggi io, a livello informatico, nasce
+
+1062
+01:12:07,640 --> 01:12:11,400
+dal percorso che ho iniziato a tracciare nel 2015 con Avvocati e
+
+1063
+01:12:11,400 --> 01:12:11,800
+Mac.
+
+1064
+01:12:11,800 --> 01:12:15,480
+Quindi la stessa cosa, dal mio punto di vista, dovrebbe valere, anzi,
+
+1065
+01:12:15,560 --> 01:12:19,960
+maggior ragione da un certo punto di vista per l'attività professionale.
+
+1066
+01:12:19,960 --> 01:12:21,480
+È il progetto di quest'anno.
+
+1067
+01:12:21,480 --> 01:12:25,720
+Adesso, probabilmente non prima di marzo, anche quello, ma dopo mi ci
+
+1068
+01:12:25,720 --> 01:12:31,720
+metto seriamente e con cattiveria, tra virgolette, l'altro progetto veramente enorme che
+
+1069
+01:12:31,720 --> 01:12:35,640
+mi fa paura, tra virgolette, però è una cosa che ormai ho
+
+1070
+01:12:35,640 --> 01:12:38,920
+deciso di fare pian pianino, anche lì un pezzettino alla volta, ci
+
+1071
+01:12:38,920 --> 01:12:40,760
+sto arrivando in fondo, spero.
+
+1072
+01:12:41,000 --> 01:12:46,360
+È il passaggio, finalmente dalla piattaforma pagamento che utilizzo, che è Squarespace
+
+1073
+01:12:46,360 --> 01:12:53,480
+per Avvocati e Mac, a una gestione totalmente self-host e open source, come
+
+1074
+01:12:53,480 --> 01:12:56,920
+piace a me di Avvocati e Mac, però questo vorrà dire anche perché
+
+1075
+01:12:57,080 --> 01:13:01,800
+appunto ho fatto i primi test di esportazione, manca un quintale di
+
+1076
+01:13:01,800 --> 01:13:05,320
+roba, sono 300 articoli che ho scoperto.
+
+1077
+01:13:05,880 --> 01:13:09,880
+È qualcosa, cioè un sito che comunque nel bene e nel male
+
+1078
+01:13:10,120 --> 01:13:16,680
+ha avuto una progressione di pubblicazione abbastanza continua dal 2015, quindi ormai
+
+1079
+01:13:16,760 --> 01:13:20,840
+siamo a 7 anni, anzi, verso l'ottavo, diciamo.
+
+1080
+01:13:21,160 --> 01:13:26,360
+È ovvio che richiede un po' di fatica.
+
+1081
+01:13:26,360 --> 01:13:31,560
+E effettivamente ora capisco perché ti dicono: ma inizia da noi, che
+
+1082
+01:13:31,560 --> 01:13:33,480
+costa poco e così via.
+
+1083
+01:13:33,480 --> 01:13:39,880
+Perché poi quando inizi spostarti, soprattutto se stai lì molto, diciamo, diventa
+
+1084
+01:13:39,960 --> 01:13:44,680
+impegnativo impegnativo e per esempio alcuni articoli credo di non aver neanche
+
+1085
+01:13:44,680 --> 01:13:48,480
+più pur avendo scritto tutti in Markdown, non so dove ce li
+
+1086
+01:13:48,480 --> 01:13:54,240
+ho, come li ho archiviati progressivamente nel tempo, sono stato più attento,
+
+1087
+01:13:54,240 --> 01:13:55,200
+più bravo.
+
+1088
+01:13:55,440 --> 01:13:59,440
+Ma è ovvio che si impara crescendo e si impara pian pianino.
+
+1089
+01:13:59,440 --> 01:14:02,480
+Quindi ho tutta una serie di problemi che andranno affrontati.
+
+1090
+01:14:02,480 --> 01:14:08,880
+Adesso sto facendo vari esperimenti anche qui nel tempo libero, nelle modalità
+
+1091
+01:14:08,880 --> 01:14:09,840
+che riesco.
+
+1092
+01:14:09,840 --> 01:14:15,200
+La cosa più di soddisfazione è che era uno degli step fondamentali
+
+1093
+01:14:15,360 --> 01:14:21,840
+è che finalmente sono riuscito a gestire le statistiche del sito esternamente.
+
+1094
+01:14:22,560 --> 01:14:29,280
+Si chiama Matomo, un sistema di gestione delle statistiche, a norma GDPR,
+
+1095
+01:14:29,280 --> 01:14:34,400
+molto rispettoso della privacy, tra virgolette, degli utenti, ma dall'altro avere un
+
+1096
+01:14:34,400 --> 01:14:38,240
+minimo di feedback di come stanno andando le cose, quali sono gli
+
+1097
+01:14:38,320 --> 01:14:42,000
+articoli che sono andati meglio, tra virgolette, e così via.
+
+1098
+01:14:42,000 --> 01:14:50,400
+Adesso attualmente funziona temporaneamente sul vecchio sito progressivamente poi, ma almeno in
+
+1099
+01:14:50,400 --> 01:14:54,640
+questo caso ci sarà una continuità anche di statistiche, anche io appunto
+
+1100
+01:14:54,640 --> 01:14:58,880
+ho le statistiche di sette anni di attività a crescita progressiva.
+
+1101
+01:14:58,880 --> 01:15:04,000
+Insomma, perdere, quel trascorso è un po' fastidioso.
+
+1102
+01:15:04,960 --> 01:15:09,680
+Da ultimo, appunto, sto cercando di essere sempre più presente, tra virgolette,
+
+1103
+01:15:09,760 --> 01:15:10,800
+su YouTube.
+
+1104
+01:15:11,120 --> 01:15:17,120
+Non perché la piattaforma mi piace, anzi, tendenzialmente sono abbastanza contrario a
+
+1105
+01:15:17,120 --> 01:15:21,520
+YouTube come sistema di monetizzazione, come sistema di tutto.
+
+1106
+01:15:21,520 --> 01:15:25,840
+Tra virgolette, se mi stai ascoltando YouTube, non cancellare questo video, ma
+
+1107
+01:15:25,840 --> 01:15:27,360
+questo è un altro discorso.
+
+1108
+01:15:27,360 --> 01:15:32,440
+Anche A2 Podcast, comunque in parte su YouTube, quindi, però, devo
+
+1109
+01:15:32,440 --> 01:15:37,880
+dire la verità come piattaforma per divulgazione, lo streaming video è clamoroso,
+
+1110
+01:15:37,880 --> 01:15:41,880
+a due, in diretta, viene fatto su YouTube per un motivo semplicissimo.
+
+1111
+01:15:42,040 --> 01:15:44,600
+A livello pratico non ci costa niente.
+
+1112
+01:15:45,160 --> 01:15:51,960
+Ci permette comunque di interagire e di avere un qualcosa in diretta
+
+1113
+01:15:51,960 --> 01:15:57,240
+che altrimenti sarebbe stato decisamente molto più complesso da gestire.
+
+1114
+01:15:57,240 --> 01:16:01,640
+Poi è ovvio che, per esempio, se volete venire a fare dei
+
+1115
+01:16:01,640 --> 01:16:05,240
+commenti in chat, dovete essere registrati su YouTube.
+
+1116
+01:16:05,240 --> 01:16:10,040
+Quindi non potete fare dei commenti anonimi o partecipare anonimamente e così
+
+1117
+01:16:10,040 --> 01:16:10,360
+via.
+
+1118
+01:16:10,360 --> 01:16:13,720
+Quindi, è ovvio che ci sono i limiti, è ovvio che loro
+
+1119
+01:16:13,720 --> 01:16:14,920
+ci vogliono guadagnare.
+
+1120
+01:16:14,920 --> 01:16:20,520
+Quindi, tra virgolette, per esempio, come stiamo facendo adesso, a due per
+
+1121
+01:16:20,520 --> 01:16:24,280
+YouTube, non ha speranze, ma lo sappiamo.
+
+1122
+01:16:24,280 --> 01:16:27,960
+E lo scopo non è questo, ma appunto ci siamo sempre detti:
+
+1123
+01:16:27,960 --> 01:16:31,640
+se siamo in diretta non possiamo permetterci di fare poi più di
+
+1124
+01:16:31,640 --> 01:16:36,120
+tanto e quindi di interromperci e di fare delle pause.
+
+1125
+01:16:36,120 --> 01:16:40,280
+La puntata viene registrata, ovvio che viene pulita nella versione dei podcast.
+
+1126
+01:16:40,280 --> 01:16:43,720
+Diciamo, quello che vedete su YouTube è quello che è quello che
+
+1127
+01:16:43,720 --> 01:16:46,760
+è buona la prima e quello che abbiamo fatto.
+
+1128
+01:16:46,760 --> 01:16:50,200
+Quando ci riesce, cerchiamo di creare un po' più di interattività, ci
+
+1129
+01:16:50,200 --> 01:16:52,040
+vedete con i nostri faccioni.
+
+1130
+01:16:52,840 --> 01:16:56,680
+Provo farlo, però prima o poi quello di buttare direttamente anche i
+
+1131
+01:16:56,680 --> 01:16:58,200
+video quelli registriamo.
+
+1132
+01:16:58,200 --> 01:17:00,520
+Dipende tanto dalla mia connessione.
+
+1133
+01:17:02,280 --> 01:17:06,680
+Come ne volere, fino a che tu non sarai, mi hanno detto
+
+1134
+01:17:07,000 --> 01:17:11,160
+a marzo mi parlano di fibra in zona.
+
+1135
+01:17:11,960 --> 01:17:14,960
+Speriamo, speriamo, speriamo.
+
+1136
+01:17:14,120 --> 01:17:18,880
+Per cui, questi sono i miei progetti, ovviamente, il lavoro.
+
+1137
+01:17:20,000 --> 01:17:24,480
+Mi sto barcamenando, sto cercando di diversificare come piace a me.
+
+1138
+01:17:24,480 --> 01:17:28,640
+È ovvio che appunto, purtroppo.
+
+1139
+01:17:28,720 --> 01:17:34,000
+Reggio Emilia non è sicuramente la capitale tech, diciamo, dell'Italia.
+
+1140
+01:17:34,000 --> 01:17:38,080
+Già l'Italia non è particolarmente tech, e in più per ora, anche
+
+1141
+01:17:38,080 --> 01:17:42,800
+le necessità familiari, comunque richiedono che io non possa andare fuori città
+
+1142
+01:17:42,800 --> 01:17:44,880
+tutto il giorno, ecco sostanzialmente.
+
+1143
+01:17:45,360 --> 01:17:46,320
+Quindi, comunque
+
+1144
+01:17:47,760 --> 01:17:52,400
+ho degli incastri, diciamo, Roberto sa che ho fatto collochi e avevo
+
+1145
+01:17:52,400 --> 01:17:52,960
+trovato.
+
+1146
+01:17:52,960 --> 01:17:56,080
+C'era un'opzione veramente interessante, diciamo
+
+1147
+01:17:57,200 --> 01:18:03,520
+che mi avrebbe permesso di, però, appunto per fortuna, per fortuna, diciamo,
+
+1148
+01:18:03,840 --> 01:18:05,440
+non è andato in porto.
+
+1149
+01:18:06,160 --> 01:18:11,600
+Comunque, è stata un'esperienza anche qui nel corso del 2022 molto interessante.
+
+1150
+01:18:12,000 --> 01:18:16,080
+Messi in gioco che comunque continuo a ripetere, non avevo mai fatto
+
+1151
+01:18:16,080 --> 01:18:19,520
+un colloquio in vita mia, ho fatto un colloquio per un futuro:
+
+1152
+01:18:19,520 --> 01:18:25,680
+è sicuramente qualcosa di utile, mettiamola in questi termini, assolutamente sì.
+
+1153
+01:18:25,680 --> 01:18:30,000
+In attesa di vedere il tuo sbarco su YouTube, chiamiamolo così,
+
+1154
+01:18:31,760 --> 01:18:32,160
+io
+
+1155
+01:18:34,080 --> 01:18:35,680
+il Didi, il Did
+
+1156
+01:18:38,240 --> 01:18:44,000
+dy, dunque, invece, per la prima volta ho fatto una revisione dell'anno.
+
+1157
+01:18:44,000 --> 01:18:49,600
+Grazie, appunto al modello che è disponibile per il download, che ha
+
+1158
+01:18:49,680 --> 01:18:54,160
+appunto il famoso Eric Reynolds di prima ha messo a disposizione per
+
+1159
+01:18:54,160 --> 01:18:56,960
+gli architetti, e quest'anno è la prima volta che ci ho messo
+
+1160
+01:18:56,960 --> 01:19:01,160
+in mano e ovviamente neanche a sbagliarsi è fatto da Dio.
+
+1161
+01:18:59,920 --> 01:19:02,200
+Quindi è molto interessante.
+
+1162
+01:19:02,360 --> 01:19:05,480
+Quello che vi volevo dire è che, appunto, oltre ai vari obiettivi
+
+1163
+01:19:05,480 --> 01:19:09,000
+che tendenzialmente uno si dà, come quelli che adesso vi andrò a
+
+1164
+01:19:09,000 --> 01:19:14,520
+delencare, ma giusto per dare la retta via, gli obiettivi sono una
+
+1165
+01:19:14,680 --> 01:19:18,520
+conseguenza della retta via che ci siamo impostati precedentemente.
+
+1166
+01:19:18,840 --> 01:19:22,360
+Una cosa che ho accennato all'inizio è appunto gli obiettivi finanziari, perché
+
+1167
+01:19:22,520 --> 01:19:27,160
+all'interno di questo modello notion c'è appunto una cosa molto interessante che
+
+1168
+01:19:27,160 --> 01:19:30,600
+è quanto ti vuoi prefiggere per quest'anno, poi lo prendi, lo dividi
+
+1169
+01:19:30,600 --> 01:19:34,920
+per quattro e poi in una tabella c'è alla fine il reminder
+
+1170
+01:19:35,080 --> 01:19:38,760
+per dirti al fine trimestre o bimestre, adesso non mi ricordo più,
+
+1171
+01:19:38,760 --> 01:19:42,200
+al trimestre di fare una revisione.
+
+1172
+01:19:42,200 --> 01:19:45,720
+Ti manda un reminder, quindi un allarme che ti dice quanto sei
+
+1173
+01:19:45,720 --> 01:19:46,440
+arrivato.
+
+1174
+01:19:46,440 --> 01:19:48,040
+E questo è molto interessante.
+
+1175
+01:19:48,040 --> 01:19:52,920
+Quiccolo meccanismo, questa automazione che ho scoperto grazie alla revisione che ho
+
+1176
+01:19:52,920 --> 01:19:57,160
+fatto del 2022 e poi anche per il 2023, molto interessante all'interno
+
+1177
+01:19:57,160 --> 01:19:58,120
+di Notion.
+
+1178
+01:19:58,120 --> 01:20:03,080
+Ma detto questo, l'anno futuro la mia linea guida è migliorare.
+
+1179
+01:20:03,080 --> 01:20:08,280
+Migliorare perché dalla diversificazione che ho fatto prima, adesso devo iniziare a
+
+1180
+01:20:08,600 --> 01:20:12,600
+essere sul pezzo, nel senso che devo migliorare molti aspetti della mia
+
+1181
+01:20:12,600 --> 01:20:16,440
+vita professionale e anche di quello che delle nuove attività che sto
+
+1182
+01:20:16,440 --> 01:20:17,000
+facendo.
+
+1183
+01:20:17,000 --> 01:20:20,120
+Sottotitolo è lavorare di meno guadagnare di più.
+
+1184
+01:20:20,120 --> 01:20:20,760
+Questo perché?
+
+1185
+01:20:20,760 --> 01:20:26,120
+Perché ho notato che dal mio punto di vista progettuale è una
+
+1186
+01:20:26,120 --> 01:20:29,080
+constatazione tendenzialmente amara, ma è
+
+1187
+01:20:30,520 --> 01:20:33,880
+vera, nel senso che io sviluppo progetti esecutivi.
+
+1188
+01:20:33,880 --> 01:20:37,000
+Se io faccio un piccolo bilancio delle ore che mi vengono richieste,
+
+1189
+01:20:37,000 --> 01:20:42,040
+l'impegno mentale che mi viene richiesto in questa attività rispetto alle altre,
+
+1190
+01:20:42,040 --> 01:20:47,840
+è decisamente meno remunerativa ed è un aspetto non di poco conto,
+
+1191
+01:20:47,840 --> 01:20:51,520
+perché nel momento in cui ci sei dentro non te ne rendi
+
+1192
+01:20:51,520 --> 01:20:56,560
+conto, quando hai delle attività collaterali che diventano pagate, vedi che forse
+
+1193
+01:20:56,560 --> 01:20:59,600
+anche perché anche l'architettura per me è una passione, ma anche le
+
+1194
+01:20:59,600 --> 01:21:00,880
+altre sono passioni.
+
+1195
+01:21:00,880 --> 01:21:06,640
+Vedi che comunque hanno un peso diverso, un bilancio diverso rispetto all'impegno,
+
+1196
+01:21:06,640 --> 01:21:08,560
+alle ore che bisogna impiegare.
+
+1197
+01:21:09,760 --> 01:21:14,240
+L'idea è quella di avere più lavori di, non dico remunerati meglio,
+
+1198
+01:21:14,240 --> 01:21:18,880
+ma di un livello più alto, mettiamola così, nel senso che magari
+
+1199
+01:21:18,880 --> 01:21:24,480
+ti chiedono lo stesso quantità di ore, ma vengono valorizzate meglio, diciamola
+
+1200
+01:21:24,480 --> 01:21:26,400
+così, che mi piace molto di più.
+
+1201
+01:21:26,400 --> 01:21:29,760
+Tra le cose che voglio migliorare, ovviamente non lo nascondo, è il
+
+1202
+01:21:29,760 --> 01:21:34,160
+mio hardware, quindi il mio simpatico Intel che va solo più bene
+
+1203
+01:21:34,160 --> 01:21:37,840
+per essere buttato dentro al cemento armato se va bene come ferro
+
+1204
+01:21:37,840 --> 01:21:42,960
+per le riprese, ma perché ovviamente sono usciti questi Apple Silicon che
+
+1205
+01:21:42,960 --> 01:21:44,560
+hanno ammazzato:
+
+1206
+01:21:46,240 --> 01:21:49,600
+alluminio purtroppo non funziona, ma io dico sempre un pezzo di ferro,
+
+1207
+01:21:49,600 --> 01:21:52,960
+perché ormai ha questo peso specifico nella mia vita.
+
+1208
+01:21:52,960 --> 01:21:57,040
+Diciamo rispetto agli Apple Silicon, che ovviamente sono un passo decisamente avanti,
+
+1209
+01:21:57,040 --> 01:22:00,080
+sia dal punto di vista della computazione che della GPU, che è
+
+1210
+01:22:00,080 --> 01:22:01,920
+un'altra parte che mi interessa molto.
+
+1211
+01:22:01,920 --> 01:22:06,960
+E quindi diciamo che sto mettendo in cantiere in modo programmatico di
+
+1212
+01:22:06,960 --> 01:22:10,240
+riuscire a mettere via i soldi per riusci ad arrivare ad apprenderne
+
+1213
+01:22:10,320 --> 01:22:10,640
+uno.
+
+1214
+01:22:10,640 --> 01:22:14,080
+Ovviamente sarà usato, lo so già, ma diciamo le mie speranze sono
+
+1215
+01:22:14,080 --> 01:22:16,560
+quelle di riuscire a ottenere qualcosa di interessante.
+
+1216
+01:22:16,560 --> 01:22:21,320
+Anche perché andando avanti col tempo, l'usato diventa sempre più conveniente.
+
+1217
+01:22:21,320 --> 01:22:26,480
+Con le uscite che vedremo probabilmente nel primo trimestre sarà interessante.
+
+1218
+01:22:26,480 --> 01:22:27,920
+Vediamo un po' come si mette.
+
+1219
+01:22:27,920 --> 01:22:31,400
+Invece, dal punto di vista: dovremo a marzo o aprile avere qualcosa.
+
+1220
+01:22:29,840 --> 01:22:34,360
+Infatti, infatti, infatti, sono attendo.
+
+1221
+01:22:35,720 --> 01:22:39,640
+Invece, per quanto riguarda i miglioramenti che mi sono messo, diciamo, tra
+
+1222
+01:22:39,640 --> 01:22:45,080
+le cose da fare: uno riguarda lo studio, proprio l'ufficio dove lavoro.
+
+1223
+01:22:45,080 --> 01:22:48,360
+Per migliorare le luci, uno, una grandissima dritta è quella che mi
+
+1224
+01:22:48,360 --> 01:22:49,400
+ha mandato Filippo.
+
+1225
+01:22:49,400 --> 01:22:54,280
+Per, diciamo, light bar da mettere sopra al video, l'ho comprata per
+
+1226
+01:22:54,280 --> 01:22:58,360
+mia moglie, per il suo compleanno, è veramente una figata, nel senso
+
+1227
+01:22:58,360 --> 01:23:01,880
+che assolutamente qualcosa cambia la vita.
+
+1228
+01:23:02,120 --> 01:23:05,400
+Tutto il resto dell'illuminazione la prendi, la bruci perché non serve più
+
+1229
+01:23:05,560 --> 01:23:09,560
+e hai questa light bar che ti illumina direttamente la tastiera, non
+
+1230
+01:23:09,560 --> 01:23:13,080
+ti illumina lo schermo, quindi non hai problemi di riflessi, hai gli
+
+1231
+01:23:13,080 --> 01:23:16,920
+occhi riposati, hai tutto illuminato, è tutto sotto controllo ed è una
+
+1232
+01:23:16,920 --> 01:23:18,280
+figata spaziale.
+
+1233
+01:23:18,440 --> 01:23:21,400
+Ti vorrei ricordare che quando io ho detto: ho comprato la prima
+
+1234
+01:23:21,400 --> 01:23:24,200
+e ne ho comprato un'altra per avere su tutti e due monitor
+
+1235
+01:23:24,200 --> 01:23:24,600
+e fare.
+
+1236
+01:23:24,680 --> 01:23:28,600
+Il solito spendacciato, ma ti dicevano, guarda, che ti cambia la vita,
+
+1237
+01:23:28,680 --> 01:23:31,480
+cambia la vita, assolutamente, confermo e sottoscrivo.
+
+1238
+01:23:31,800 --> 01:23:36,040
+Oltre a queste luci, diciamo, di lavoro sul dex, volevo anche fare
+
+1239
+01:23:36,040 --> 01:23:39,320
+le luci, diciamo di illuminazione ambientale che voglio cambiare.
+
+1240
+01:23:39,320 --> 01:23:42,920
+Essenzialmente mi voglio rivolgere i led, voglio dare un'illuminazione un po' più
+
+1241
+01:23:43,240 --> 01:23:43,880
+ampia.
+
+1242
+01:23:44,280 --> 01:23:48,200
+Perché tendenzialmente è molto scuro il mio studio, nel senso che, avendo
+
+1243
+01:23:48,200 --> 01:23:53,320
+la fortuna di avere una finestra che dà direttamente a sud, stai
+
+1244
+01:23:54,200 --> 01:23:58,040
+stai parlando praticamente per chi ti può vedere live
+
+1245
+01:23:59,240 --> 01:24:02,400
+dal vivo, ma non stai parlando perché del buio con la luce.
+
+1246
+01:24:02,520 --> 01:24:06,600
+Ma questa qui è una scelta tecnica, nel senso che volevo provare
+
+1247
+01:24:06,600 --> 01:24:07,760
+a vedere un po' come sta.
+
+1248
+01:24:07,760 --> 01:24:09,040
+Secondo me non sto neanche male.
+
+1249
+01:24:09,040 --> 01:24:09,280
+Così
+
+1250
+01:24:10,440 --> 01:24:15,000
+nella penombra, sono illuminato nella faccia, sono tranquillo e rilassato.
+
+1251
+01:24:15,280 --> 01:24:18,960
+Tuttavia stavo notando che forse anche questo: anche cappuccio,
+
+1252
+01:24:20,240 --> 01:24:23,520
+sto pensando, sto vedendo adesso che la batteria dura molto di più,
+
+1253
+01:24:23,520 --> 01:24:27,520
+quindi potrebbe anche essere un fattore di illuminazione che mi chiede meno
+
+1254
+01:24:27,520 --> 01:24:31,840
+luce sullo schermo: è ovvio che se lo schermo hai lo schermo
+
+1255
+01:24:31,840 --> 01:24:34,480
+a io dovevo già chiedere l'aiuto della batteria.
+
+1256
+01:24:34,480 --> 01:24:38,880
+Invece sono circa metà, quindi gran parte del problema è il video.
+
+1257
+01:24:38,880 --> 01:24:39,680
+Buono sapersi.
+
+1258
+01:24:39,760 --> 01:24:44,480
+Comunque, vedi, per esempio, questo esperimento mi ha dato la per vedere
+
+1259
+01:24:44,480 --> 01:24:46,240
+anche la questione della batteria.
+
+1260
+01:24:46,240 --> 01:24:50,640
+L'altra questione è la postazione podcast, che è questa qua attuale, che
+
+1261
+01:24:50,640 --> 01:24:54,320
+vorrei un po' migliorare sotto qualche punto di vista di ergonomia, perché
+
+1262
+01:24:54,480 --> 01:25:00,480
+ovviamente, essendo nato come un progetto collaterale, è stato buttato lì all'interno
+
+1263
+01:25:00,480 --> 01:25:02,720
+della casa, e non ci è stato mai pensato.
+
+1264
+01:25:02,720 --> 01:25:06,400
+Adesso è ora di pensarci perché comincia a diventare qualcosa che potrebbe
+
+1265
+01:25:06,880 --> 01:25:11,120
+essere un podcast professionista, io te lo continuo a ripetere, devo darci
+
+1266
+01:25:11,120 --> 01:25:11,840
+dentro.
+
+1267
+01:25:11,840 --> 01:25:18,000
+E quindi, è una mia, diciamo, prerogativa quella di investire qualcosa in
+
+1268
+01:25:18,000 --> 01:25:21,760
+più per quanto riguarda, tra l'altro, volevo dire: tra altre cose, sto
+
+1269
+01:25:22,560 --> 01:25:28,960
+rifunzionalizzando la taverna in cui sono adesso, alle mie spalle manca la
+
+1270
+01:25:28,960 --> 01:25:29,680
+libreria.
+
+1271
+01:25:29,680 --> 01:25:32,640
+Quindi è facile che sentite un po' più di riverbero, ma è
+
+1272
+01:25:32,640 --> 01:25:36,240
+a causa del fatto che sto lavorando anche in questo senso, sì,
+
+1273
+01:25:36,240 --> 01:25:37,760
+sì, devo dirti la verità.
+
+1274
+01:25:39,280 --> 01:25:42,400
+Te lo volevo dire, poi l'hai detto tu allora visto che sono
+
+1275
+01:25:42,400 --> 01:25:46,240
+riuscito a contenerlo con l'equalizzazione, quindi sono molto contento, però è una
+
+1276
+01:25:46,240 --> 01:25:47,840
+questione passeggera.
+
+1277
+01:25:47,840 --> 01:25:50,800
+Qui non so se adesso Filippo vuole che gli donne equalizzate e
+
+1278
+01:25:50,800 --> 01:25:53,280
+poi gli mando il file, dimmi poi tu cosa preferisci.
+
+1279
+01:25:53,280 --> 01:25:56,240
+No, no, la sento, ma non è drammatica.
+
+1280
+01:25:56,240 --> 01:25:57,520
+Non è drammatica, in effetti.
+
+1281
+01:25:58,240 --> 01:26:04,440
+E poi andando avanti, detto questo, rimane l'ultima cosa che ho aggiunto:
+
+1282
+01:26:04,440 --> 01:26:08,760
+riguarda fermare la discesa delle letture del blog.
+
+1283
+01:26:08,760 --> 01:26:12,440
+Questa è, diciamo, è una cosa che mi piacerebbe fare, migliorare, diciamo,
+
+1284
+01:26:12,440 --> 01:26:13,800
+questo aspetto.
+
+1285
+01:26:13,800 --> 01:26:17,960
+Ovviamente non potevo mancare anch'io lo sbarco su YouTube.
+
+1286
+01:26:17,960 --> 01:26:21,960
+La mia idea, so come farla, ho fatto le prime inquadrature, ho
+
+1287
+01:26:21,960 --> 01:26:26,120
+fatto le prime prove e sta venendo come dico io, nel senso
+
+1288
+01:26:26,120 --> 01:26:32,200
+che mi piacerebbe vedere un video fatto così, però rimane ancora l'ultimo
+
+1289
+01:26:32,200 --> 01:26:36,280
+pezzo, che secondo me, non è proprio una passeggiata, che è come
+
+1290
+01:26:36,280 --> 01:26:37,800
+mettere assieme le cose.
+
+1291
+01:26:38,120 --> 01:26:42,280
+Questo qui sarà un lavoraccio, il video è
+
+1292
+01:26:43,400 --> 01:26:44,120
+complicato.
+
+1293
+01:26:44,120 --> 01:26:46,440
+Purtroppo anche io speravo.
+
+1294
+01:26:46,520 --> 01:26:47,960
+No, no, sarà impegnativo.
+
+1295
+01:26:48,200 --> 01:26:53,160
+Diciamo che ho cercato di contenere i danni, perché essenzialmente, non essendo
+
+1296
+01:26:53,160 --> 01:26:59,720
+nato come youtuber, devo un po' cercare di ottenere il miglior prodotto
+
+1297
+01:26:59,720 --> 01:27:03,320
+con il minor sforzo possibile, più che altro anche sforzo hardware, perché
+
+1298
+01:27:03,320 --> 01:27:09,320
+comunque considerate che ho sempre un portatile 13 pollici che non è
+
+1299
+01:27:09,320 --> 01:27:13,320
+stato acquistato per questo, l'idea non era proprio quella.
+
+1300
+01:27:13,320 --> 01:27:18,840
+Ma diciamo che l'idea in generale è quello di fare video divulgativi
+
+1301
+01:27:18,920 --> 01:27:22,200
+anch'io, appunto, per la professione dell'architetto digitalizzata.
+
+1302
+01:27:22,200 --> 01:27:28,200
+Quindi aspettatevi qualche video, non saranno, chissà che saranno lunghi una decina
+
+1303
+01:27:28,200 --> 01:27:32,600
+di minuti, penso anch'io, perché non ho intenzione di ammorbarvi con le
+
+1304
+01:27:32,600 --> 01:27:34,680
+mie idee pazze.
+
+1305
+01:27:34,720 --> 01:27:39,000
+E detto questo, le ultime due cose, ma questi sono proprio progetti
+
+1306
+01:27:40,200 --> 01:27:41,640
+collateralissimi.
+
+1307
+01:27:41,680 --> 01:27:45,600
+Che è quello di leggere di più, ma ci sta, diciamo un'altra
+
+1308
+01:27:45,600 --> 01:27:50,720
+forma di lettura, leggo tantissimi articoli, vorrei leggere più libri.
+
+1309
+01:27:44,840 --> 01:27:51,760
+Sto finendo 4.
+
+1310
+01:27:51,840 --> 01:27:55,200
+000 settimane, un po' per volta ci sto arrivando anch'io.
+
+1311
+01:27:56,400 --> 01:28:00,000
+Io faccio piano piano, ho già due tre altre consigli.
+
+1312
+01:28:00,320 --> 01:28:02,960
+Lo so, lo sapevo io per quello che dico, voglio leggere di
+
+1313
+01:28:02,960 --> 01:28:06,080
+più perché so che Filippo mi butta dentro dei libri e io
+
+1314
+01:28:06,080 --> 01:28:09,440
+devo leggerli e insomma, è sempre così: un circo vizioso ma è
+
+1315
+01:28:09,440 --> 01:28:11,840
+molto interessante, con 4.000 settimane vi apre la testa.
+
+1316
+01:28:11,920 --> 01:28:14,960
+Devo dire la verità, non ho inserito, però è una cosa che
+
+1317
+01:28:15,520 --> 01:28:19,760
+sono sempre più della teoria che è importante leggere, nel senso che
+
+1318
+01:28:19,840 --> 01:28:25,600
+comunque è un modo anche ti aiuta a concentrare, nel senso che
+
+1319
+01:28:25,840 --> 01:28:30,800
+in un mondo appunto dove sei bombardato di informazioni, tra virgolette, in
+
+1320
+01:28:30,800 --> 01:28:35,440
+continuazione e anche di piccole informazioni, chiamiamolo così, cioè anche leggere un
+
+1321
+01:28:35,440 --> 01:28:36,320
+articolo piccolo.
+
+1322
+01:28:36,320 --> 01:28:40,560
+Ma io non riesco a scrivere articoli piccoli, tra virgolette, ve leggo
+
+1323
+01:28:40,560 --> 01:28:43,520
+abitualmente tra il 1800 e 2000 parole.
+
+1324
+01:28:44,000 --> 01:28:45,680
+Normalmente diciamo.
+
+1325
+01:28:45,680 --> 01:28:48,720
+Però comunque non sono neanche, non è neanche un libro.
+
+1326
+01:28:48,720 --> 01:28:52,560
+E effettivamente un ragionamento che fa Cal Newport che sposo tutta la
+
+1327
+01:28:52,560 --> 01:28:55,920
+vita se un libro è stato scritto in una certa maniera, cioè
+
+1328
+01:28:55,920 --> 01:29:00,720
+se non è il primo che ha scritto il libro così, abitualmente
+
+1329
+01:29:00,720 --> 01:29:04,560
+un libro è il lavoro di almeno 6-8 mesi della vita dell'autore,
+
+1330
+01:29:05,840 --> 01:29:12,000
+quindi, comunque è un qualcosa che a prescindere se ti piace o
+
+1331
+01:29:12,000 --> 01:29:17,120
+non ti piace, se condividi o non condividi, è sicuramente un qualcosa
+
+1332
+01:29:17,440 --> 01:29:22,640
+che in nessun'altra maniera riesci ad avere, tra virgolette, e anche il
+
+1333
+01:29:22,640 --> 01:29:27,760
+fatto che tu ti metta lì a leggere, io lo vedo proprio,
+
+1334
+01:29:28,400 --> 01:29:31,480
+ho un problema con YouTube, tra virgolette, nel senso che
+
+1335
+01:29:32,760 --> 01:29:34,440
+è una forma di intrattenimento.
+
+1336
+01:29:30,000 --> 01:29:36,600
+Amo i video di YouTube sono video,
+
+1337
+01:29:37,480 --> 01:29:41,000
+che come giustificazione sono sempre collegati a quello che faccio, quello che
+
+1338
+01:29:41,000 --> 01:29:42,120
+mi interessa e così via.
+
+1339
+01:29:42,120 --> 01:29:46,680
+Quindi faccio delle scelte, diciamo, coscienti, mettiamolo così, non è intrattenimento allo
+
+1340
+01:29:46,680 --> 01:29:51,080
+stato puro, però, effettivamente alla fine serata ammetto un video che chiama
+
+1341
+01:29:51,080 --> 01:29:53,640
+l'altro, la modalità 10 minuti
+
+1342
+01:29:54,760 --> 01:29:56,520
+, è un investimento minimo.
+
+1343
+01:29:56,520 --> 01:29:58,840
+Sì, intanto ne guardo uno, poi ne guardi un secondo, poi ne
+
+1344
+01:29:58,840 --> 01:30:01,080
+guardi un terzo, se arrivi un'ora in sciolto,
+
+1345
+01:30:02,680 --> 01:30:05,240
+infatti, è per quello che io odio YouTube da quel punto di
+
+1346
+01:30:05,240 --> 01:30:05,560
+vista.
+
+1347
+01:30:05,560 --> 01:30:06,040
+Lì.
+
+1348
+01:30:06,040 --> 01:30:10,280
+La lettura mettersi a leggere un libro, ti chiede uno sforzo iniziale
+
+1349
+01:30:10,600 --> 01:30:15,640
+possente, perché comunque devi metterti a leggere, che è banale, ma poi
+
+1350
+01:30:15,640 --> 01:30:19,000
+quando ti prende, casomai sto delle ore a leggere,
+
+1351
+01:30:20,600 --> 01:30:22,520
+lo voglio tenendo a precisare.
+
+1352
+01:30:22,520 --> 01:30:27,240
+Il problema è proprio rompere il ghiaccio, per cui bisogna proprio cercare
+
+1353
+01:30:27,240 --> 01:30:32,360
+di inserire nella propria vita quotidiana, tra virgolette, momenti dove ti metti
+
+1354
+01:30:32,360 --> 01:30:33,880
+e dici, leggo.
+
+1355
+01:30:33,880 --> 01:30:38,440
+Sto cercando di fare anche quello, perché secondo me è comunque anche
+
+1356
+01:30:38,440 --> 01:30:38,920
+un modo.
+
+1357
+01:30:38,920 --> 01:30:42,680
+Perché quando leggi fai solo quello, non puoi fare dell'altro, tra virgolette,
+
+1358
+01:30:42,920 --> 01:30:46,920
+non puoi guardare la posta, non puoi guardare i messaggi.
+
+1359
+01:30:47,080 --> 01:30:52,200
+Effettivamente ti aiuta veramente tanto a riprendere fuoco, cosa che in questo
+
+1360
+01:30:52,200 --> 01:30:54,280
+momento storico è complicato.
+
+1361
+01:30:54,760 --> 01:31:00,680
+Appunto, anche in questa direzione è l'altro mio ultimo obiettivo, che nel
+
+1362
+01:31:00,680 --> 01:31:05,160
+migliorare, ma è migliorare uno stato mentale che è quello di andare
+
+1363
+01:31:05,160 --> 01:31:09,000
+in bici, perché vedo che mi dà dei grossissimi benefici.
+
+1364
+01:31:09,000 --> 01:31:13,800
+A parte il fatto che, essendo già in una zona molto favorevole,
+
+1365
+01:31:13,800 --> 01:31:17,760
+sotto questo punto di vista, però mi fa rientrare in contatto con
+
+1366
+01:31:17,760 --> 01:31:22,080
+la natura ancora di più perché avendo una mountain bike e quindi
+
+1367
+01:31:22,320 --> 01:31:26,720
+faccio veramente sentieri, sono proprio in mezzo agli alberi e quindi è
+
+1368
+01:31:26,720 --> 01:31:29,680
+molto bello anche perché ho scoperto che la mia zona è piena
+
+1369
+01:31:29,680 --> 01:31:32,160
+di sentieri e voglio farmeni tutti.
+
+1370
+01:31:32,640 --> 01:31:37,920
+Voglio farmeni tutti dal primo all'ultimo e riuscire a dedicarmi che poi,
+
+1371
+01:31:37,920 --> 01:31:41,440
+alla fine, anche lì non si tratta di prendersi delle giornate, poi
+
+1372
+01:31:41,520 --> 01:31:45,120
+alla fine basta una mezz'ora, al massimo un'ora e un'ora ne hai
+
+1373
+01:31:45,200 --> 01:31:46,640
+già tanta di strada da fare.
+
+1374
+01:31:47,040 --> 01:31:51,520
+Ti do un'altra notizia: appunto, l'ultima mia lettura è sul fatto che
+
+1375
+01:31:51,520 --> 01:31:56,480
+il movimento e l'attività fisica aiuti non solo, tra virgolette, a stare
+
+1376
+01:31:56,480 --> 01:32:02,080
+bene così via, a ridurre lo stress, ma anche concentrazione, sviluppo cerebrale,
+
+1377
+01:32:02,080 --> 01:32:07,600
+tra virgolette, tutta una serie di cose che tristemente io non sono
+
+1378
+01:32:07,760 --> 01:32:11,280
+diciamo uno sportivo, mettiamoli in questi termini.
+
+1379
+01:32:11,680 --> 01:32:13,280
+Diciamo che sto
+
+1380
+01:32:14,800 --> 01:32:16,000
+riragionando
+
+1381
+01:32:17,280 --> 01:32:21,920
+di cercare di fare un po' di attività sportiva, mettiamoli in questi
+
+1382
+01:32:21,920 --> 01:32:24,800
+termini, un camminatore seriale, direi.
+
+1383
+01:32:24,800 --> 01:32:30,720
+No, quello è la mia attività principale motoria, mettiamola in questo modo.
+
+1384
+01:32:32,000 --> 01:32:36,800
+Tuttavia, ci vuole anche attività un po' più di pelo più alto
+
+1385
+01:32:36,800 --> 01:32:38,640
+a livello di movimento.
+
+1386
+01:32:38,640 --> 01:32:40,880
+Tra virgolette, quindi bisogna che inserisca.
+
+1387
+01:32:41,120 --> 01:32:46,080
+Diciamo che vi abbiamo dato argomenti per supportare il vostro miglioramento e
+
+1388
+01:32:46,080 --> 01:32:47,360
+il vostro 2023.
+
+1389
+01:32:47,360 --> 01:32:53,120
+Invece, voi potete supportarci semplicemente facendo una recensione, bastano anche 5 stelle,
+
+1390
+01:32:53,200 --> 01:32:57,080
+basta una vanza sui vostri ascoltatori di ipotizio.
+
+1391
+01:32:57,280 --> 01:32:59,280
+5 stelle è il massimo, scusami.
+
+1392
+01:33:00,200 --> 01:33:03,960
+Per evitare di scrivere, perché spesso la recensione
+
+1393
+01:33:05,160 --> 01:33:06,120
+si pensa
+
+1394
+01:33:07,400 --> 01:33:10,440
+nel mettere le stelle e scrivere qualcosa.
+
+1395
+01:33:10,440 --> 01:33:14,600
+Non è necessario scrivere per forza qualcosa, basta anche una valutazione, chiamiamola
+
+1396
+01:33:14,600 --> 01:33:16,120
+così con le stelline.
+
+1397
+01:33:16,120 --> 01:33:21,000
+Per noi basta avanza, perché sappiamo benissimo che comunque scrivere è anche
+
+1398
+01:33:21,000 --> 01:33:25,080
+un'attività un po' tediosa, mettiamola così, anche perché bisogna cercare di trovare
+
+1399
+01:33:25,080 --> 01:33:29,080
+le parole giuste, metterle giù bene e cercare anche di raccontare cosa
+
+1400
+01:33:29,080 --> 01:33:33,080
+trovate all'interno del podcast, che a noi fa sicuramente molto piacere perché
+
+1401
+01:33:33,080 --> 01:33:37,720
+ci aiuta a migliorare il podcast, ma ovviamente le recensioni aiutano invece
+
+1402
+01:33:37,720 --> 01:33:38,920
+a farci conoscere di più.
+
+1403
+01:33:38,920 --> 01:33:40,760
+Più siamo più ci divertiamo.
+
+1404
+01:33:40,760 --> 01:33:44,920
+Se invece volete entrare in contatto direttamente con noi, basta che ci
+
+1405
+01:33:44,920 --> 01:33:53,160
+scrivete un'email all'indirizzo di posta elettronica scrivi.atcholaaduepodcast.it, mentre per quanto riguarda le
+
+1406
+01:33:53,160 --> 01:33:56,120
+note dell'episodio, tutti i link e gli argomenti che abbiamo trattato in
+
+1407
+01:33:56,120 --> 01:34:00,600
+puntata, basta che andate a vedere il sito internet a2podcast.it dove
+
+1408
+01:34:00,600 --> 01:34:01,560
+c'è tutto quanto.
+
+1409
+01:34:01,560 --> 01:34:05,400
+G aggiungete uno slash, aggiungete un 51 e avete tutto quello che
+
+1410
+01:34:05,400 --> 01:34:06,920
+riguarda questa puntata.
+
+1411
+01:34:06,920 --> 01:34:08,280
+Dove ci potete trovare?
+
+1412
+01:34:08,280 --> 01:34:13,000
+Penso che ormai l'abbiamo già chiarito all'interno dei nostri, diciamo, della parte
+
+1413
+01:34:13,000 --> 01:34:16,600
+finale del podcast dove abbiamo raccontato praticamente quello che facciamo.
+
+1414
+01:34:16,600 --> 01:34:18,440
+Essenzialmente me mi trovate un po' dappertutto.
+
+1415
+01:34:18,440 --> 01:34:19,560
+Invece, Filippo, dove lo troviamo?
+
+1416
+01:34:19,560 --> 01:34:21,640
+No, mi trovate su AvocatiMac.
+
+1417
+01:34:22,280 --> 01:34:25,240
+Ti segnalo che abbiamo ricevuto la nostra prima email.
+
+1418
+01:34:26,120 --> 01:34:29,240
+Tu lo so che non hai neanche guardato perché ti ho dato
+
+1419
+01:34:29,240 --> 01:34:31,400
+le credenziali per vedere la mail, ma non l'avrei mai fatto.
+
+1420
+01:34:31,480 --> 01:34:35,720
+Ti devo ritrovare, perfetto, ringraziamo Simone.
+
+1421
+01:34:36,280 --> 01:34:39,480
+Sto cercando di mettere a posto il problema che mi ha sottolineato
+
+1422
+01:34:39,480 --> 01:34:40,200
+Simone.
+
+1423
+01:34:40,440 --> 01:34:44,680
+È la nostra icona, diciamo, di A due i bordi degli sgarbi
+
+1424
+01:34:45,000 --> 01:34:48,000
+bianchi esatto, esatto, esatto.
+
+1425
+01:34:48,480 --> 01:34:56,320
+Infatti, abbiamo richiesto al nostro mentore e amico Alex di farci avere
+
+1426
+01:34:56,320 --> 01:35:01,280
+una versione migliorata migliorata proprio per questo motivo.
+
+1427
+01:35:01,280 --> 01:35:05,600
+Quindi il feedback è arrivato, non ti ho risposto direttamente perché non
+
+1428
+01:35:05,600 --> 01:35:09,040
+sapevo cosa rispondere, nel senso che all'epoca non avevo ancora avuto l'ok
+
+1429
+01:35:09,360 --> 01:35:10,080
+di Alex.
+
+1430
+01:35:10,080 --> 01:35:13,040
+Adesso a breve risolveremo anche questo problema.
+
+1431
+01:35:13,040 --> 01:35:17,840
+Che a me dava molto fastidio, ma appunto, recentemente Alex, è abbastanza
+
+1432
+01:35:17,840 --> 01:35:22,640
+in faccenda faccendata, non volevo tediarlo ulteriormente, mettiamolo così,
+
+1433
+01:35:24,480 --> 01:35:29,280
+l'ho convinto, tra virgolette, con la scusa che compiamo due anni come
+
+1434
+01:35:29,280 --> 01:35:32,560
+podcast e ci meritavamo la sigla.
+
+1435
+01:35:34,400 --> 01:35:36,800
+Visto che Alex ci ascolta abitualmente,
+
+1436
+01:35:38,480 --> 01:35:39,440
+subito Alex.
+
+1437
+01:35:39,440 --> 01:35:40,880
+Prenditi il tempo che ci serve.
+
+1438
+01:35:43,280 --> 01:35:44,800
+Non abbiamo avuto problemi fino adesso.
+
+1439
+01:35:44,800 --> 01:35:46,640
+Non avremo problemi più avanti.
+
+1440
+01:35:46,640 --> 01:35:50,720
+Tuttavia, sull'icona, volendo, potrei anche metterci mano io nel momento in cui
+
+1441
+01:35:51,040 --> 01:35:54,480
+magari Alex mi passa il file sorgente.
+
+1442
+01:35:54,480 --> 01:35:55,760
+Vediamo, ci mettiamo d'accordo.
+
+1443
+01:35:55,760 --> 01:35:57,520
+In ogni caso, non è un grosso problema.
+
+1444
+01:35:57,520 --> 01:35:59,440
+Vediamo di risolvere questo
+
+1445
+01:36:00,640 --> 01:36:01,360
+dettaglio.
+
+1446
+01:36:01,360 --> 01:36:03,280
+Ti ringrazio per le mail.
+
+1447
+01:36:03,280 --> 01:36:07,440
+Ti ringraziamo anzi, per le mail che ci hai inviato, molto interessante.
+
+1448
+01:36:07,440 --> 01:36:12,400
+Che ci ha segnalato questo dettaglio da migliorare, ma direi che a
+
+1449
+01:36:12,400 --> 01:36:15,520
+questo punto abbiamo concluso questa puntata che si avvia verso le due
+
+1450
+01:36:15,520 --> 01:36:19,280
+ore di registrazione, mentre noi ci sentiremo tra due settimane.
+
+1451
+01:36:19,280 --> 01:36:20,600
+Alla prossima!

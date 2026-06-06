@@ -51,7 +51,11 @@
   "transcript": "{{ printf "%strascrizioni/ep-%d.srt" .Site.BaseURL .Params.episodeNumber }}"{{ end }}{{ with .Params.youtubeId }},
   "video": {
     "@type": "VideoObject",
-    "url": "https://www.youtube.com/watch?v={{ . }}",
+    "name": "{{ $.Title | htmlEscape }}",
+    "description": "{{ $.Params.description | htmlEscape }}",
+    "thumbnailUrl": "https://i.ytimg.com/vi/{{ . }}/maxresdefault.jpg",
+    "uploadDate": "{{ $.Date.Format "2006-01-02" }}",
+    "contentUrl": "https://www.youtube.com/watch?v={{ . }}",
     "embedUrl": "https://www.youtube-nocookie.com/embed/{{ . }}"
   }{{ end }}
 }

@@ -1,0 +1,4315 @@
+1
+00:00:00,000 --> 00:00:04,240
+Benvenuti all'episodio di A2, in cui scoprire come ottenere il massimo dalla
+
+2
+00:00:04,240 --> 00:00:06,160
+vostra tecnologia Apple.
+
+3
+00:00:06,160 --> 00:00:09,760
+Io sono sempre il solito Roberto Marin e sono il vostro ospite
+
+4
+00:00:09,760 --> 00:00:12,960
+assieme al nostro amico comune Filippo Strozzi.
+
+5
+00:00:12,960 --> 00:00:14,720
+Di cosa parliamo in questo episodio, Filippo?
+
+6
+00:00:14,960 --> 00:00:21,680
+Allora, oggi concludiamo il nostro approfondimento sulle note con l'iPad e l'Apple
+
+7
+00:00:21,680 --> 00:00:27,360
+Pencil parlando dei programmi da utilizzare e se ci resterà tempo dei
+
+8
+00:00:27,360 --> 00:00:29,440
+metodi per prendere note.
+
+9
+00:00:29,440 --> 00:00:34,080
+Se mi dai 3 secondi tre, alcune comunicazioni di servizio molto molto
+
+10
+00:00:34,320 --> 00:00:35,360
+veloci.
+
+11
+00:00:35,360 --> 00:00:40,160
+Segnalo e troverete nella nota dell'episodio, se vi interessa, che nel giro
+
+12
+00:00:40,160 --> 00:00:45,680
+di tipo 15 giorni ho fatto due webinar e quindi se volete
+
+13
+00:00:45,920 --> 00:00:48,000
+seguirli lo potete fare.
+
+14
+00:00:48,000 --> 00:00:50,320
+Sono abbastanza particolari, mettiamola così.
+
+15
+00:00:50,320 --> 00:00:56,320
+Ma uno è sull'automazione documentale, quindi come automatizzare appunto la creazione dei
+
+16
+00:00:56,320 --> 00:01:00,080
+documenti, l'inserimento dei dati dei documenti.
+
+17
+00:01:00,080 --> 00:01:05,920
+Il secondo recentissimo quando stiamo registrando, ma voi lo vedrete già da
+
+18
+00:01:05,920 --> 00:01:09,600
+un mesetto, perché questa puntata dovrebbe uscire a fine marzo, anche se
+
+19
+00:01:09,600 --> 00:01:14,400
+siamo a fine febbraio, mentre la registriamo, è invece sull'utilizzo di Markdown,
+
+20
+00:01:14,480 --> 00:01:19,040
+Pando e la Tech, in particolare come creare delle lettere, carta intestata
+
+21
+00:01:19,120 --> 00:01:20,320
+sostanzialmente.
+
+22
+00:01:20,320 --> 00:01:21,520
+Con questi strumenti.
+
+23
+00:01:21,520 --> 00:01:23,040
+Sono stato abbastanza operativo.
+
+24
+00:01:23,040 --> 00:01:25,200
+Il prossimo webinar invece sarà ad aprile.
+
+25
+00:01:25,200 --> 00:01:29,600
+Quindi, nell'eventualità che mi interessi, dovremmo, perché forse avevo un ospite, ma
+
+26
+00:01:29,680 --> 00:01:31,040
+lo scopriremo vivendo.
+
+27
+00:01:31,200 --> 00:01:31,840
+Non sono io.
+
+28
+00:01:31,840 --> 00:01:32,800
+Che non sei tu.
+
+29
+00:01:32,800 --> 00:01:38,560
+Dovremmo parlare di Devon Think, che poi, eventualmente, se interessa, ne parleremo
+
+30
+00:01:38,560 --> 00:01:39,200
+anche qui.
+
+31
+00:01:39,200 --> 00:01:42,240
+Tuttavia, per ora ne parliamo di là
+
+32
+00:01:43,840 --> 00:01:48,880
+, giustamente, io purtroppo non sono un utilizzatore di Devon Think, faccio tutt'altro,
+
+33
+00:01:48,880 --> 00:01:50,960
+però deve essere sicuramente molto interessante.
+
+34
+00:01:50,960 --> 00:01:54,640
+Sono molto curioso di vedere quale sarà il tuo ospite.
+
+35
+00:01:54,640 --> 00:01:56,160
+Non ce lo dici, vero?
+
+36
+00:01:55,800 --> 00:01:58,880
+Ovviamente no, anche perché mi ha detto di sì, ma mi ha
+
+37
+00:01:58,880 --> 00:01:59,280
+fatto.
+
+38
+00:01:59,280 --> 00:02:00,760
+Vediamo, vediamo.
+
+39
+00:02:00,920 --> 00:02:05,320
+Non dico niente fino a che eventualmente ci sarò solo io.
+
+40
+00:01:59,920 --> 00:02:07,320
+Ok, che non è mai male.
+
+41
+00:02:07,800 --> 00:02:11,720
+Se sente la puntata, se la sente la puntata per caso, forse
+
+42
+00:02:11,720 --> 00:02:13,880
+avrà il messaggio subliminale.
+
+43
+00:02:14,120 --> 00:02:15,480
+Sicuramente gli arriverà.
+
+44
+00:02:15,480 --> 00:02:16,840
+Come potete sostenerci?
+
+45
+00:02:16,840 --> 00:02:20,040
+Dunque, se volete supportare il podcast, vi chiediamo con il cuore di
+
+46
+00:02:20,040 --> 00:02:22,200
+fare una recensione su Apple Podcast.
+
+47
+00:02:22,200 --> 00:02:25,400
+In questa fase iniziale, tante recensioni ci permetteranno di essere visti da
+
+48
+00:02:25,400 --> 00:02:26,280
+più persone possibili.
+
+49
+00:02:26,440 --> 00:02:29,960
+Se volete sapere come fare una recensione, trovate il link nei note
+
+50
+00:02:30,040 --> 00:02:30,600
+dell'episodio.
+
+51
+00:02:30,600 --> 00:02:35,320
+Se invece vuoi scriverci una bella letterina, vai sul tuo programma di
+
+52
+00:02:35,320 --> 00:02:39,000
+posta elettronica e scrivi all'indirizzo scrivi.
+
+53
+00:02:41,720 --> 00:02:42,360
+it.
+
+54
+00:02:42,360 --> 00:02:46,760
+Dunque, oggi parliamo di un sacco di cose e abbiate pazienza perché
+
+55
+00:02:46,920 --> 00:02:50,200
+Roberto, qua è il sottoscritto andrà a braccio, quindi vi potrà dire
+
+56
+00:02:50,200 --> 00:02:52,840
+di tutto e di più senza un costrutto mentale.
+
+57
+00:02:52,840 --> 00:02:56,840
+Allora, dunque, intanto volevo fare qualche follow-up come dicono quelli bravi e
+
+58
+00:02:56,840 --> 00:02:57,880
+quelli che sono capaci.
+
+59
+00:02:57,880 --> 00:03:01,720
+Vi voglio raccontare due cose su note, che è l'applicazione di Apple
+
+60
+00:03:01,720 --> 00:03:05,240
+che ci permette di prendere note perché ho avuto, diciamo, una recrudiscienza
+
+61
+00:03:05,240 --> 00:03:06,760
+nell'utilizzo di note.
+
+62
+00:03:06,760 --> 00:03:10,360
+Cos'è successo nella mia vita professionale e non solo?
+
+63
+00:03:10,360 --> 00:03:13,000
+Ho usato note fino all'altro ieri, poi a un certo punto è
+
+64
+00:03:13,000 --> 00:03:16,760
+arrivato Notion mi sono invagito di Notion e ho abbandonato note di
+
+65
+00:03:16,760 --> 00:03:17,240
+brutto.
+
+66
+00:03:17,240 --> 00:03:20,840
+Quindi mi sono perso tutta l'evoluzione che ha fatto circa da due
+
+67
+00:03:20,920 --> 00:03:23,880
+o tre anni più o meno, da due anni di evoluzione di
+
+68
+00:03:23,880 --> 00:03:27,560
+note e adesso l'ho ripreso in mano appunto, perché anche con l'occasione
+
+69
+00:03:27,560 --> 00:03:31,720
+di avere la fortuna di utilizzare un iPad con la sua simpatica
+
+70
+00:03:31,720 --> 00:03:34,600
+pencil, ho provato a vedere un po' come funziona.
+
+71
+00:03:34,600 --> 00:03:38,920
+E in effetti ci sono alcune cose che vorrei dire delle luci,
+
+72
+00:03:38,920 --> 00:03:40,360
+ma ci sono anche delle ombre.
+
+73
+00:03:40,360 --> 00:03:42,360
+Raccontaci, raccontaci!
+
+74
+00:03:42,600 --> 00:03:46,480
+Ombre tra parentesi, perché devo vedere, poi con l'aiuto di Filippo che
+
+75
+00:03:46,480 --> 00:03:49,680
+chiederò di fare una prova, ma sicuramente lui è sul pezzo di
+
+76
+00:03:49,680 --> 00:03:53,200
+me su questo tipo di strumento, ma poi vediamo un po' insieme
+
+77
+00:03:53,200 --> 00:03:55,360
+se riusciamo a fare una prova comparativa.
+
+78
+00:03:55,360 --> 00:03:57,200
+Allora, le luci quali sono?
+
+79
+00:03:57,200 --> 00:04:01,360
+Essenzialmente una cosa che mi ha sorpreso molto come tipico di Apple,
+
+80
+00:04:01,360 --> 00:04:02,880
+è la semplicità dell'utilizzo.
+
+81
+00:04:02,880 --> 00:04:05,840
+Una volta capita la prima nota, avete la vostra barra sotto dove
+
+82
+00:04:05,840 --> 00:04:06,880
+potete scegliere il colore.
+
+83
+00:04:06,880 --> 00:04:11,440
+Io, ad esempio, avendo sempre il tablet e l'iPhone e tutto quanto
+
+84
+00:04:11,520 --> 00:04:16,160
+in modalità scura, io ho un foglio nero e quindi utilizzo la
+
+85
+00:04:16,160 --> 00:04:19,760
+mia simpatica color bianco perché mi piace avere questo contrasto.
+
+86
+00:04:19,760 --> 00:04:22,640
+Ma detto questo, la cosa interessante che mi è piaciuta di note,
+
+87
+00:04:22,720 --> 00:04:26,160
+ve la faccio abbastanza breve: è la possibilità appunto di che la
+
+88
+00:04:26,160 --> 00:04:29,280
+prima riga che viene scritta, quella è il titolo della vostra nota
+
+89
+00:04:29,360 --> 00:04:32,480
+e quindi prende automaticamente il nome della nota in base a quello
+
+90
+00:04:32,480 --> 00:04:33,840
+che scrivete nella prima riga.
+
+91
+00:04:33,840 --> 00:04:39,200
+Voi potete scriverlo tranquillamente con la vostra caligrafia e questa viene riconosciuta.
+
+92
+00:04:39,200 --> 00:04:42,960
+Quindi è già una forma di automazione, chiamiamola così, che permette appunto
+
+93
+00:04:43,040 --> 00:04:45,920
+di scrivere qualsiasi cosa, quella viene presa con il titolo.
+
+94
+00:04:45,920 --> 00:04:49,280
+Poi voi proseguite, andate avanti con la vostra caligrafia e prendete le
+
+95
+00:04:49,280 --> 00:04:49,760
+note.
+
+96
+00:04:49,760 --> 00:04:53,040
+Un'altra cosa che mi è piaciuta molto di Apple Note è anche
+
+97
+00:04:53,040 --> 00:04:57,440
+la possibilità di scrivere, come capita sempre spesso a me, perché magari
+
+98
+00:04:57,440 --> 00:05:00,400
+ho delle aggiunte da fare: ne so, mi scrivo una frase che
+
+99
+00:05:00,400 --> 00:05:03,920
+magari prende tre righe, poi cambio argomento e lascio uno spazio di
+
+100
+00:05:03,920 --> 00:05:06,800
+2 cm perché dico: boh, magari devo ancora aggiungere qualcosa.
+
+101
+00:05:06,800 --> 00:05:09,920
+E poi prendo un altro appunto che riguarda qualcos'altro e mi faccio
+
+102
+00:05:09,920 --> 00:05:11,280
+il mio solito i due o tre righe.
+
+103
+00:05:11,280 --> 00:05:14,880
+La cosa interessante è che in Apple Note su iPad c'è la
+
+104
+00:05:14,880 --> 00:05:19,400
+possibilità di evidenziare tutta la nota, e questa viene vista, diciamo così,
+
+105
+00:05:19,360 --> 00:05:23,440
+da parte di Note come un'immagine, a fianco in alto a sinistra
+
+106
+00:05:23,440 --> 00:05:28,160
+di questa frase che avete evidenziato c'è una specie di identazione, e
+
+107
+00:05:28,160 --> 00:05:30,600
+potete prenderla lì col ditone e spostarla in giù.
+
+108
+00:05:30,600 --> 00:05:31,560
+Quindi, cosa succede?
+
+109
+00:05:30,000 --> 00:05:36,360
+Essenzialmente vi permette di spostare la nota all'interno del vostro foglio.
+
+110
+00:05:36,520 --> 00:05:40,360
+E secondo me è davvero molto interessante perché in modo molto semplice
+
+111
+00:05:40,600 --> 00:05:44,280
+vi permette di spostare la vostra nota perché magari volete aggiungere delle
+
+112
+00:05:44,280 --> 00:05:46,040
+altre cose che vi sono venute in mente dopo.
+
+113
+00:05:46,040 --> 00:05:48,600
+Quindi può essere interessante sotto questo punto di vista.
+
+114
+00:05:48,600 --> 00:05:53,000
+Altra cosa interessante che nella scorsa puntata Filippo mi ha tagliato perché
+
+115
+00:05:53,000 --> 00:05:54,040
+sono arrivato a lungo.
+
+116
+00:05:54,920 --> 00:05:58,680
+Lo dico io perché c'è stato un bel taglio di una cosa
+
+117
+00:05:58,680 --> 00:06:01,400
+che non mi ricordavo, ma che adesso mi è venuta in mente.
+
+118
+00:06:01,560 --> 00:06:05,160
+È appunto una cosa che anche questo aiuta davvero molto per quanto
+
+119
+00:06:05,160 --> 00:06:06,200
+riguarda le vostre note.
+
+120
+00:06:06,440 --> 00:06:11,400
+Ovvero è quello di evidenziare una parola della vostra note presencia scritta
+
+121
+00:06:11,560 --> 00:06:11,800
+mano.
+
+122
+00:06:11,960 --> 00:06:13,720
+Parlo sempre di scritta mano, non col text.
+
+123
+00:06:13,960 --> 00:06:20,120
+Evidenziate questa simpatica scritta, potete vedere che questa scritta viene riconosciuta come
+
+124
+00:06:20,120 --> 00:06:23,880
+una vera e propria scritta, quindi potete copiarla e incollarla in qualche
+
+125
+00:06:23,880 --> 00:06:28,680
+altro punto del mondo, nel senso che potete, per esempio, selezionare un
+
+126
+00:06:28,680 --> 00:06:33,080
+tot di parole, copiarle andle in un foglio un documento Word.
+
+127
+00:06:33,080 --> 00:06:35,080
+And anche questo è un sicuro aiuto.
+
+128
+00:06:35,080 --> 00:06:38,120
+Voi praticamente la vostra nota che prendete con la scrittura a mano
+
+129
+00:06:38,200 --> 00:06:42,520
+senza che venga convertita automaticamente in testo, può essere direttamente copiato e
+
+130
+00:06:42,520 --> 00:06:46,520
+incollato in un'altra zona del vostro, chiamiamolo così, del vostro sistema di
+
+131
+00:06:46,520 --> 00:06:47,560
+lavorare, ok?
+
+132
+00:06:47,560 --> 00:06:50,280
+Questo è all'interno di iPad, pad OS.
+
+133
+00:06:50,280 --> 00:06:55,000
+Tra l'altro, perché ti sto seguendo, ti sto seguendo, ho fatto dei
+
+134
+00:06:55,000 --> 00:06:56,280
+test, è interessante.
+
+135
+00:06:56,360 --> 00:07:01,240
+C'è un'ulteriore funzione, oltre a copia come testo, che ti permette appunto
+
+136
+00:07:01,240 --> 00:07:04,520
+di copiare il testo della nota scritta a mano, ok?
+
+137
+00:07:04,680 --> 00:07:08,680
+C'è anche inserisci spazio sopra che proprio ti dispostano di un paragrafo,
+
+138
+00:07:08,680 --> 00:07:12,280
+non so come definirlo, altrimenti è la nota in automatico.
+
+139
+00:07:12,280 --> 00:07:13,560
+È molto interessante.
+
+140
+00:07:13,560 --> 00:07:17,280
+Altra cosa interessante, secondo me, è la ricerca testuale.
+
+141
+00:07:17,280 --> 00:07:21,680
+C'è la possibilità appunto di cercare all'interno della vostra nota un testo.
+
+142
+00:07:21,680 --> 00:07:23,680
+Molti programmi di noti non hanno.
+
+143
+00:07:23,680 --> 00:07:26,640
+Faccio un esempio che non è nato come programma di note, ma
+
+144
+00:07:26,640 --> 00:07:29,120
+io l'ho usato fino all'altro ieri come programma di nota che è
+
+145
+00:07:29,200 --> 00:07:32,080
+Paper, ha tutta una serie di funzioni che Paper non ha.
+
+146
+00:07:32,080 --> 00:07:36,240
+Invece, Apple Note, tra le altre cose, ha una carta vincente che
+
+147
+00:07:36,240 --> 00:07:40,480
+è anche quella di distribuire le note sui sistemi operativi macOS o
+
+148
+00:07:40,480 --> 00:07:43,280
+iPhone, e se li gestisce tranquillamente.
+
+149
+00:07:43,280 --> 00:07:48,640
+E annciandomi a questa cosa che viene gestita tranquillamente, aggiungo la mia
+
+150
+00:07:48,640 --> 00:07:52,000
+ombra, che è la cosa che mi ha lasciato abbastanza perplesso.
+
+151
+00:07:52,000 --> 00:07:55,520
+Ho parlato prima della questione: che voi prendete una nota, scrivete la
+
+152
+00:07:55,520 --> 00:07:57,600
+prima riga e quello diventa il titolo della vostra nota.
+
+153
+00:07:57,600 --> 00:07:59,520
+Per rinominarla, come si fa?
+
+154
+00:07:59,520 --> 00:08:04,560
+Dunque, su iPadOS basta prendere col vostro ditone, spostare in basso
+
+155
+00:08:04,560 --> 00:08:09,440
+la nota e compare in alto un modifica e riuscite a modificare
+
+156
+00:08:09,440 --> 00:08:11,040
+il testo della vostra nota.
+
+157
+00:08:11,040 --> 00:08:14,880
+Se invece andate in Mac OS, questa nota, io parlo di Mac
+
+158
+00:08:15,120 --> 00:08:18,320
+OS su Big Sur, io non riesco a rinominarla.
+
+159
+00:08:18,320 --> 00:08:20,960
+Non c'è un modo di rinominare la nota.
+
+160
+00:08:20,960 --> 00:08:24,560
+Non ho trovato un menu, non ho trovato un tasto destro, non
+
+161
+00:08:24,560 --> 00:08:27,840
+c'è una ceppa di niente, non sono riuscito a fare nulla.
+
+162
+00:08:27,840 --> 00:08:30,080
+Probabilmente perché è da un po' che non lo uso.
+
+163
+00:08:30,080 --> 00:08:34,160
+In effetti su Big Sur per me è un ambiente diciamo relativamente
+
+164
+00:08:34,160 --> 00:08:36,320
+nuovo perché lo uso da due mesi.
+
+165
+00:08:36,320 --> 00:08:43,120
+Io facendo il salto, diciamo, di sistema operativo praticamente una volta all'anno,
+
+166
+00:08:43,120 --> 00:08:46,320
+sono indietro di un anno perché non seguo il rilascio, e ho
+
+167
+00:08:46,320 --> 00:08:48,560
+trovato delle difficoltà a rinominare le note.
+
+168
+00:08:48,560 --> 00:08:53,120
+Ma magari appunto in questo senso Filippo forse riusciva a darmi una
+
+169
+00:08:53,120 --> 00:08:54,960
+mano che magari ne sa un po' più di me.
+
+170
+00:08:54,960 --> 00:08:58,480
+Le mie conoscenze di note sono tremende.
+
+171
+00:08:58,480 --> 00:09:00,600
+Tra virgolette, nel senso che anch'io
+
+172
+00:09:01,640 --> 00:09:06,040
+lo uso pochissimo, e devo dirti la verità: sto cercando di ravanare
+
+173
+00:08:59,840 --> 00:09:06,920
+nei vari menu.
+
+174
+00:09:07,000 --> 00:09:11,400
+Ma ecco l'ho scoperto adesso perché ragionano in due modi diversi.
+
+175
+00:09:11,400 --> 00:09:15,080
+Questa è una cosa diversa tra macOS e i padOS.
+
+176
+00:09:15,080 --> 00:09:17,960
+Paddo S, come vi dicevo, bisogna prendere la nota e farla scendere
+
+177
+00:09:17,960 --> 00:09:21,560
+per fargli comparire in alto il testo modifica e quindi vai a
+
+178
+00:09:21,560 --> 00:09:24,200
+modificare il titolo della nota.
+
+179
+00:09:24,200 --> 00:09:26,600
+Invece cosa succede su macOS?
+
+180
+00:09:26,600 --> 00:09:31,400
+Che tu vai a modificare la prima riga della nota e quello
+
+181
+00:09:31,400 --> 00:09:33,400
+cambia il titolo della nota,
+
+182
+00:09:34,600 --> 00:09:39,400
+effettivamente intuitivo quando l'hai capito, relativamente intuitivo.
+
+183
+00:09:39,400 --> 00:09:43,000
+Eh sì, adesso sì è chiaro, ma l'ho cercato con te adesso,
+
+184
+00:09:43,000 --> 00:09:46,600
+perché comunque è la mia bella, il mio quarto d'ora, diciamo, di
+
+185
+00:09:46,600 --> 00:09:49,160
+ravanatura me la sono fatta perché non lo trovavo.
+
+186
+00:09:50,040 --> 00:09:52,840
+Sì, perché diciamo, la possibilità di fare questo passaggio.
+
+187
+00:09:53,000 --> 00:09:56,040
+Il titolo della nota non ti fa niente, anzi, te la apre,
+
+188
+00:09:56,040 --> 00:09:59,320
+ma anche la parte alta, che è inusuale, poi, tra l'altro, perché
+
+189
+00:09:59,800 --> 00:10:03,880
+abitualmente quando è una finestra aperta su Mac, soprattutto se è un
+
+190
+00:10:03,880 --> 00:10:10,680
+file, chiamiamolo così, lo puoi modificare dalla barra un po' aberrante, come
+
+191
+00:10:11,320 --> 00:10:13,080
+gestione dell'interfaccia.
+
+192
+00:10:13,240 --> 00:10:14,520
+Sì, sì, è un po' strano.
+
+193
+00:10:14,520 --> 00:10:17,800
+Difatti, sono contento che mi hai dato il fianco, nel senso che
+
+194
+00:10:17,800 --> 00:10:21,480
+mi supporti, perché anche io l'ho trovato abbastanza poco intuitivo in questo
+
+195
+00:10:21,480 --> 00:10:23,000
+caso, purtroppo aggiungo.
+
+196
+00:10:23,240 --> 00:10:27,240
+Diciamo che io ho trovato in note un buon alleato per ora,
+
+197
+00:10:27,240 --> 00:10:30,760
+anche perché ci si può creare delle cartelle in cui archiviare queste
+
+198
+00:10:30,760 --> 00:10:34,840
+note all'interno proprio di note, in modo tale che abbiate anche ne
+
+199
+00:10:34,840 --> 00:10:36,760
+so, degli argomenti separati.
+
+200
+00:10:36,760 --> 00:10:41,320
+Altra cosa interessante, secondo me, è appunto questa integrazione e la possibilità
+
+201
+00:10:41,320 --> 00:10:42,680
+anche di condividere le note.
+
+202
+00:10:42,680 --> 00:10:45,360
+Ma direi che su note abbiamo detto abbastanza.
+
+203
+00:10:45,600 --> 00:10:50,400
+Direi che possiamo tranquillamente scivolare con un po' di simpatia verso le
+
+204
+00:10:50,400 --> 00:10:53,680
+applicazioni per scrivere sui PDF.
+
+205
+00:10:53,680 --> 00:10:57,360
+Dunque, la mia esperienza, come sapete sono un architetto, la mia esperienza
+
+206
+00:10:57,360 --> 00:11:00,160
+è quella di scrivere sui PDF delle tavole essenzialmente.
+
+207
+00:11:00,160 --> 00:11:03,200
+Un po' meno testuale rispetto a quello di Filippo, che invece li
+
+208
+00:11:03,200 --> 00:11:07,520
+vendo di testo essenzialmente e lavora sotto questo punto di vista.
+
+209
+00:11:07,520 --> 00:11:11,360
+Dal mio punto di vista, invece, io sono abituato a prendere le
+
+210
+00:11:11,360 --> 00:11:16,240
+note sui PDF per le più svariate motivazioni.
+
+211
+00:11:16,240 --> 00:11:18,320
+La prima che mi viene in mente è quando vado in un
+
+212
+00:11:18,320 --> 00:11:21,760
+cantiere e devo prendere delle misure, me le noto sul PDF di
+
+213
+00:11:21,760 --> 00:11:26,640
+progetto, oppure, che ne so, posso anche segnarmi delle variazioni o fare
+
+214
+00:11:26,640 --> 00:11:28,400
+dei disegni e via discorrendo.
+
+215
+00:11:28,400 --> 00:11:34,160
+Quindi partendo dal fatto che il PDF è quel famoso file, metto,
+
+216
+00:11:34,320 --> 00:11:39,360
+immodificabile perché era nato come un file immodificabile, ma nel corso della
+
+217
+00:11:39,360 --> 00:11:41,440
+storia del tempo abbiamo visto che.
+
+218
+00:11:41,440 --> 00:11:45,280
+No, tu non hai avuto questa esperienza che il PDF era immodificabile
+
+219
+00:11:45,280 --> 00:11:48,560
+e quindi era sacro santo per mandare in giro i progetti.
+
+220
+00:11:48,560 --> 00:11:54,160
+Allora, di fatto, chiamiamolo così, che molta gente non sa che i
+
+221
+00:11:54,160 --> 00:12:01,760
+PDF sono modificabili, per rendere immodificabili tra virgolette, bisogna utilizzare chiamano così
+
+222
+00:12:01,920 --> 00:12:04,000
+opzioni avanzate dei programmi avanzati.
+
+223
+00:12:04,000 --> 00:12:08,960
+Per esempio, inserire una password non per bloccare la visualizzazione del PDF,
+
+224
+00:12:08,960 --> 00:12:11,440
+ma per proprio bloccare la modifica del PDF.
+
+225
+00:12:11,440 --> 00:12:18,320
+Addirittura modifica stampa, perché poi giochino, si può ottenere in maniera molto
+
+226
+00:12:18,320 --> 00:12:19,040
+semplice.
+
+227
+00:12:19,200 --> 00:12:22,320
+Se tu lasci la stampa di un PDF, di fatto puoi fare
+
+228
+00:12:22,320 --> 00:12:25,840
+una stampa virtuale di PDF a PDF e comunque se hai dei
+
+229
+00:12:25,840 --> 00:12:27,760
+blocchi, li togli abitualmente.
+
+230
+00:12:27,760 --> 00:12:32,040
+Questo lo dico perché nel nostro ambiente di architettura, il PDF è
+
+231
+00:12:32,120 --> 00:12:37,320
+stato visto sempre come quel mezzo di scambio dei progetti è essenzialmente
+
+232
+00:12:37,320 --> 00:12:38,440
+immodificabile.
+
+233
+00:12:39,480 --> 00:12:41,000
+Non me lo puoi fregare.
+
+234
+00:12:41,320 --> 00:12:43,480
+Esatto, vi svelo un piccolo segreto.
+
+235
+00:12:43,480 --> 00:12:49,000
+Autocad per Mac converte i file PDF creati con un qualsiasi programma
+
+236
+00:12:49,000 --> 00:12:52,120
+di CAD e lo trasforma direttamente in vettoriale.
+
+237
+00:12:52,120 --> 00:12:53,320
+È già vettoriale.
+
+238
+00:12:53,320 --> 00:12:54,680
+Cioè, un PDF vettoriale.
+
+239
+00:12:54,680 --> 00:12:57,480
+Sì, sì, no, no, ma inteso vettoriale che io ho le linee.
+
+240
+00:12:57,560 --> 00:13:00,600
+Le linee che vedo sono linee effettive che posso modificare in questo
+
+241
+00:13:00,600 --> 00:13:01,000
+senso.
+
+242
+00:13:01,000 --> 00:13:02,520
+Te lo importa sostanzialmente.
+
+243
+00:13:02,520 --> 00:13:06,680
+Sì, sì, te lo importa non come un file immagine per intenderci,
+
+244
+00:13:06,680 --> 00:13:09,960
+oppure te lo veterizza proprio con le linee diventano delle vere e
+
+245
+00:13:09,960 --> 00:13:10,600
+proprie linee.
+
+246
+00:13:10,600 --> 00:13:14,120
+Il testo diventa un testo, e quindi all'interno di un programma come
+
+247
+00:13:14,120 --> 00:13:17,560
+AutoCAD per Mac ti permette proprio di fare delle modifiche.
+
+248
+00:13:17,560 --> 00:13:21,480
+Quindi sotto questo punto di vista il copyright salta di brutto.
+
+249
+00:13:21,480 --> 00:13:25,560
+Quindi spero di non avervi svelato l'acqua calda, ma la realtà dei
+
+250
+00:13:25,560 --> 00:13:26,520
+fatti è questa.
+
+251
+00:13:26,520 --> 00:13:30,840
+In ogni caso, noi invece torniamo sulla zona di, in questo caso
+
+252
+00:13:30,920 --> 00:13:35,160
+di iPad, perché secondo me è lo strumento putativo per riuscire a
+
+253
+00:13:35,160 --> 00:13:37,880
+prendere delle note per il semplice fatto perché ci puoi scrivere sopra
+
+254
+00:13:37,880 --> 00:13:38,760
+uno schermo.
+
+255
+00:13:38,760 --> 00:13:42,840
+E quindi la prima, diciamo, mia scelta è stata appunto su PDF
+
+256
+00:13:42,840 --> 00:13:43,800
+Expert.
+
+257
+00:13:43,800 --> 00:13:48,040
+Applicazione con un bel po' di anni sulle spalle, se non ricordo
+
+258
+00:13:48,040 --> 00:13:52,680
+male, è una delle primissime che mi pare che circolasse su iPad
+
+259
+00:13:52,920 --> 00:13:53,720
+all'epoca.
+
+260
+00:13:53,720 --> 00:13:58,920
+Quindi io l'avevo già sull'iPad Air, probabilmente è nato qualche anno prima,
+
+261
+00:13:58,920 --> 00:14:01,960
+quindi, insomma, sarà dal 2010, la butto lì.
+
+262
+00:14:01,960 --> 00:14:07,880
+La società che sviluppa PDFX Expert come altre soluzioni, diciamo, sempre molto
+
+263
+00:14:07,880 --> 00:14:11,000
+legate alla gestione documentale e non solo.
+
+264
+00:14:11,000 --> 00:14:13,560
+È una società che credo ci sia da tanto tempo e è
+
+265
+00:14:13,560 --> 00:14:18,240
+in ambito Apple lavora da tanto, non come per esempio Omni Group
+
+266
+00:14:18,560 --> 00:14:24,080
+di Omni Focus, Omni Eyeliner e così via, ma la Riddle c'è
+
+267
+00:14:24,080 --> 00:14:24,640
+da tanto.
+
+268
+00:14:24,640 --> 00:14:29,760
+C'è da tanto, anche perché aveva fatto il primo document provider essenzialmente
+
+269
+00:14:30,000 --> 00:14:34,480
+esatto, Document che è proprio l'applicazione, diciamo, per la gestione dei documenti
+
+270
+00:14:34,640 --> 00:14:38,560
+era una delle primissime, assieme a Good Reader, che ti permetteva di
+
+271
+00:14:38,560 --> 00:14:43,920
+fare qualcosa con l'iPad, non collegandolo solo al cavo e spostando file.
+
+272
+00:14:43,920 --> 00:14:44,240
+Esatto.
+
+273
+00:14:44,240 --> 00:14:49,920
+Dunque il DF Expert è comunque un'applicazione che se vado un po'
+
+274
+00:14:49,920 --> 00:14:51,520
+a memoria perché da un po' che ce l'ho.
+
+275
+00:14:51,520 --> 00:14:56,160
+C'è una versione free, non so quali siano le limitazioni, perché, francamente,
+
+276
+00:14:56,160 --> 00:14:57,200
+non me lo ricordo.
+
+277
+00:14:57,280 --> 00:15:01,680
+Nella mappa mentale che ti ho implementato, che ce l'hai.
+
+278
+00:15:01,680 --> 00:15:05,680
+Di fatto ti ho inserito le versioni a pagamento.
+
+279
+00:15:05,920 --> 00:15:07,760
+Ma c'è qualcosa che non mi torna.
+
+280
+00:15:07,760 --> 00:15:08,640
+Ti spiego.
+
+281
+00:15:08,640 --> 00:15:12,320
+Se non ricordo male la versione free, però, questo vado proprio a
+
+282
+00:15:12,320 --> 00:15:15,120
+memoria perché io l'ho acquistata tempo fa e non mi ricordo più
+
+283
+00:15:15,120 --> 00:15:16,480
+quali sono stati i passaggi.
+
+284
+00:15:16,480 --> 00:15:20,400
+Diciamo che la versione free, se non ricordo male, leggeva semplicemente il
+
+285
+00:15:20,400 --> 00:15:25,680
+PDF e ti permetteva di annotare questo dai pad OS.
+
+286
+00:15:25,680 --> 00:15:30,400
+Io ho anche la versione per macOS di PDF Expert che ti
+
+287
+00:15:30,400 --> 00:15:36,480
+permette proprio di modificare il testo che c'è all'interno del PDF, sì,
+
+288
+00:15:36,480 --> 00:15:39,440
+allora però appunto macOS il problema qual è?
+
+289
+00:15:39,440 --> 00:15:43,760
+E non so come è distribuito la questione la versione a pagamento.
+
+290
+00:15:44,000 --> 00:15:47,360
+Il problema è che loro hanno fatto il mitico passaggio ad abbonamento.
+
+291
+00:15:48,320 --> 00:15:52,560
+Quindi, la versione free le funzioni, chiamiamole così, base.
+
+292
+00:15:52,560 --> 00:15:56,160
+Se vuoi delle funzioni avanzate, almeno per iPad, perché non ho fatto
+
+293
+00:15:56,160 --> 00:15:57,920
+l'approfondimento su Mac.
+
+294
+00:15:57,920 --> 00:15:58,880
+Anche io credo di aver
+
+295
+00:15:59,600 --> 00:16:01,720
+la comprata a Temporis, la
+
+296
+00:16:01,960 --> 00:16:03,640
+versione chiamiamola così a pagamento:
+
+297
+00:16:05,480 --> 00:16:10,280
+di fatto, invece, su iPad, adesso gli strumenti di genere architettura edilizia,
+
+298
+00:16:10,280 --> 00:16:11,240
+che forse a te interessa,
+
+299
+00:16:13,240 --> 00:16:14,440
+la conversione di PDF.
+
+300
+00:16:14,440 --> 00:16:17,800
+Quindi, hai la possibilità di convertire il PDF in Word, pages e
+
+301
+00:16:17,800 --> 00:16:22,840
+così via, e quindi puoi modificare il PDF, la riduzione delle dimensioni
+
+302
+00:16:22,840 --> 00:16:28,680
+e la barra degli strumenti preferiti, immagino perché la traduzione così non
+
+303
+00:16:28,680 --> 00:16:29,640
+avrebbe molto senso.
+
+304
+00:16:29,800 --> 00:16:34,200
+La bar degli strumenti preferita sono tutte opzioni, diciamo, della versione pro
+
+305
+00:16:34,200 --> 00:16:37,480
+a pagamento in abbonamento, da quello che mi ricordo io.
+
+306
+00:16:37,480 --> 00:16:41,000
+Ok, qui prendo un attimo la parola perché stavo appunto facendo un
+
+307
+00:16:41,000 --> 00:16:41,240
+po'.
+
+308
+00:16:41,560 --> 00:16:44,440
+Come sempre faccio le prove io mentre Filippo parla.
+
+309
+00:16:44,440 --> 00:16:48,120
+La cosa interessante secondo me è di PDF Expert.
+
+310
+00:16:48,120 --> 00:16:52,280
+Voi aprite il vostro file PDF che questo può essere caricato direttamente
+
+311
+00:16:52,280 --> 00:16:57,800
+sull'iPad oppure sul vostro spazio iCloud o spazio cloud che vi interessa.
+
+312
+00:16:57,800 --> 00:16:59,560
+Ve l'ho andata prendere, lo aprite.
+
+313
+00:16:59,560 --> 00:17:03,480
+E molto interessante perché io non utilizzo tante funzioni, utilizzo essenzialmente quello
+
+314
+00:17:03,480 --> 00:17:06,440
+per le note, come vi dicevo, che è sulla parte centrale.
+
+315
+00:17:06,440 --> 00:17:09,960
+A me piace molto perché sono quelle cose molto semplici che durante
+
+316
+00:17:09,960 --> 00:17:16,040
+la notazione diventano normale utilizzare perché non sono veloci e semplici.
+
+317
+00:17:16,040 --> 00:17:20,120
+Se voi c'è appunto il simpatico simbolo al centro, in alto al
+
+318
+00:17:20,120 --> 00:17:23,960
+centro della finestra dove c'è una pennina, voi la selezionate e da
+
+319
+00:17:23,960 --> 00:17:27,880
+lì potete ad essa si apre la possibilità di scegliere il colore
+
+320
+00:17:27,880 --> 00:17:28,600
+della pennina.
+
+321
+00:17:28,600 --> 00:17:32,680
+Io tendenzialmente uso il rosso perché noi architetti siamo abituati a fare
+
+322
+00:17:32,680 --> 00:17:35,640
+le correzioni sulle tavole con la penna rota perché si veda: anche
+
+323
+00:17:35,720 --> 00:17:37,480
+gli avvocati, anche gli avvocati.
+
+324
+00:17:37,480 --> 00:17:39,160
+Anche gli avvocati, anche gli avvocati.
+
+325
+00:17:39,160 --> 00:17:43,160
+Quindi siamo siamo quelli che spargono il rosso sui propri documenti come
+
+326
+00:17:43,160 --> 00:17:44,280
+se non ci fosse un domani.
+
+327
+00:17:44,280 --> 00:17:47,920
+Altra cosa interessante è che di fianco a questa pennettina c'è il
+
+328
+00:17:44,920 --> 00:17:51,040
+classico evidenziatore che funziona effettivamente come un evidenziatore.
+
+329
+00:17:51,200 --> 00:17:53,920
+E anche questo va a mano libera, è molto interessante.
+
+330
+00:17:53,920 --> 00:17:57,520
+Funziona allo stesso modo, a destra, nel momento in voi date un
+
+331
+00:17:57,520 --> 00:18:01,040
+tap con la penna sullo strumento, si apre a destra il colore
+
+332
+00:18:01,040 --> 00:18:01,840
+da scegliere.
+
+333
+00:18:01,840 --> 00:18:05,280
+E anche questo è molto facile perché ce ne sono essenzialmente 5
+
+334
+00:18:05,280 --> 00:18:06,160
+preimpostati.
+
+335
+00:18:06,240 --> 00:18:10,160
+Tuttavia, se volete potete darci giù decisi e scegliere i colori che
+
+336
+00:18:10,160 --> 00:18:10,720
+volete.
+
+337
+00:18:10,720 --> 00:18:14,720
+Ad esempio, per l'evidenziatore c'è anche da selezionare in modo semplice la
+
+338
+00:18:14,720 --> 00:18:17,440
+percentuale di trasparenza dell'evidenzazione.
+
+339
+00:18:17,440 --> 00:18:22,480
+La diversità della penna è che la differenza del tratto della penna,
+
+340
+00:18:22,480 --> 00:18:26,800
+che a me piace anche queste impostazioni semplici, c'è persistente o variabile.
+
+341
+00:18:26,880 --> 00:18:27,920
+Qual è la differenza?
+
+342
+00:18:27,920 --> 00:18:32,080
+A me piace avere la penna persistente, chiamiamola così, vuol dire semplicemente
+
+343
+00:18:32,080 --> 00:18:36,640
+che il tratto non si modifica al variare del movimento della vostra
+
+344
+00:18:36,640 --> 00:18:37,440
+pencil.
+
+345
+00:18:37,440 --> 00:18:42,080
+Invece quello variabile, giustamente perché è variabile, quindi potete avere il tratto
+
+346
+00:18:42,080 --> 00:18:45,040
+che può andare verso un po' più fine se intendete a inclinare
+
+347
+00:18:45,040 --> 00:18:48,960
+la penna, oppure rimanere più grande quando la tenente è dritta, quella
+
+348
+00:18:48,960 --> 00:18:50,400
+è la grossa differenza.
+
+349
+00:18:50,400 --> 00:18:54,880
+E per me è molto interessante avere questa differenziazione molto veloce, tra
+
+350
+00:18:54,880 --> 00:18:58,240
+altre cose, si può anche scegliere in modo molto veloce anche lo
+
+351
+00:18:58,240 --> 00:18:59,760
+spessore della penna.
+
+352
+00:18:59,760 --> 00:19:04,480
+Queste qui sono le prime funzioni che utilizzo in PDF Expert.
+
+353
+00:19:04,480 --> 00:19:08,000
+L'altra funzione che è molto interessante è la possibilità di inserire dei
+
+354
+00:19:08,000 --> 00:19:08,560
+simboli.
+
+355
+00:19:08,560 --> 00:19:13,360
+Io, per esempio, metto delle frecce, delle frecce di richiamo che sono
+
+356
+00:19:13,520 --> 00:19:17,440
+molto facili da trovare, anche quelle rosse, chiaramente perché sono dei simboli
+
+357
+00:19:17,440 --> 00:19:19,680
+che utilizzo all'interno della notazione.
+
+358
+00:19:19,680 --> 00:19:22,880
+C'è il quadrato, c'è il cerchio, c'è la linea e ovviamente la
+
+359
+00:19:22,880 --> 00:19:24,880
+freccia che utilizzo costantemente.
+
+360
+00:19:24,880 --> 00:19:28,560
+E anche questo è bello perché si può scegliere facilmente il colore
+
+361
+00:19:28,560 --> 00:19:31,160
+tra quelli preimpostati che ci sono, che vanno benissimo: ci sono i
+
+362
+00:19:31,160 --> 00:19:34,440
+classici verde, arancione e rosso, e poi c'è l'azzurro o il nero,
+
+363
+00:19:34,440 --> 00:19:37,080
+anche qua lo spessore, poi anche lo stile di bordo.
+
+364
+00:19:37,080 --> 00:19:40,360
+Quindi, insomma, ci sono tante piccole opzioni che vi vengono presentate in
+
+365
+00:19:40,360 --> 00:19:43,800
+modo molto semplice e vi vengono davvero utili durante la notazione.
+
+366
+00:19:43,800 --> 00:19:47,560
+Poi c'è anche la modifica dei PDF che lo può fare anche
+
+367
+00:19:48,200 --> 00:19:49,240
+questa applicazione.
+
+368
+00:19:49,240 --> 00:19:52,600
+Ed è proprio qua che non sono convintissimo che la versione free
+
+369
+00:19:52,600 --> 00:19:53,560
+lo possa fare.
+
+370
+00:19:53,560 --> 00:19:57,240
+Metto un punto interrogativo per le cose con le molle perché come
+
+371
+00:19:57,240 --> 00:20:02,040
+cercavo di spiegarvi prima, anche Filippo ha comprato la versione a pagamento
+
+372
+00:20:02,040 --> 00:20:06,120
+su macOS e funziona in un modo, qua funziona in un altro.
+
+373
+00:20:06,120 --> 00:20:08,680
+Nei vari passaggi ci siamo persi un po' come funziona.
+
+374
+00:20:08,840 --> 00:20:13,880
+Io, anche PDF Expert, non è la mia applicazione di preferenza, diciamo,
+
+375
+00:20:13,880 --> 00:20:16,680
+per annotare i PDF e quindi ti devo dire la verità, anche
+
+376
+00:20:16,920 --> 00:20:19,400
+non ti so dire esattamente tutto il pacchetto.
+
+377
+00:20:19,400 --> 00:20:22,920
+Ti posso dire perché appunto avevo fatto le ricerche: che, tra l'altro,
+
+378
+00:20:22,920 --> 00:20:27,000
+è abbastanza caro come abbonamento, perché è un acquista in app e
+
+379
+00:20:27,000 --> 00:20:28,360
+ce ne sono svariati.
+
+380
+00:20:28,360 --> 00:20:33,960
+Tuttavia, diciamo, dal prezzo minimo di 45 euro l'anno a 55 euro
+
+381
+00:20:33,960 --> 00:20:35,240
+l'anno, praticamente.
+
+382
+00:20:35,240 --> 00:20:40,840
+Quindi, comunque un abbonamento annuale piuttosto significativo pesante e quello mensile è
+
+383
+00:20:40,840 --> 00:20:41,800
+di 11 euro.
+
+384
+00:20:41,800 --> 00:20:44,520
+Devo dire la verità, non male.
+
+385
+00:20:44,680 --> 00:20:47,880
+Non male, sì, sì, io potrei dire, ho avuto la fortuna di
+
+386
+00:20:47,880 --> 00:20:51,160
+beccarmi in un momento che costava una ciofeca, sì.
+
+387
+00:20:51,160 --> 00:20:51,880
+Credo anche io.
+
+388
+00:20:51,880 --> 00:20:55,480
+Infatti, di aver acquistato con le varie offerte.
+
+389
+00:20:55,480 --> 00:21:01,080
+Adesso, giustamente, apremo una parentesi brevissima: ma queste applicazioni circolano da tantissimo
+
+390
+00:21:01,080 --> 00:21:01,640
+tempo.
+
+391
+00:21:01,640 --> 00:21:07,080
+Io, come te l'abbiamo acquistate tempo addietro, lo sviluppo di un'applicazione costa
+
+392
+00:21:07,080 --> 00:21:11,800
+dei soldi, e quindi, in una qualche maniera, devono giustamente portare a
+
+393
+00:21:11,800 --> 00:21:13,240
+casa la pagnotta.
+
+394
+00:21:13,240 --> 00:21:20,560
+Tutti, e adesso, per mille motivi, l'abbonamento è quello che probabilmente garantisce
+
+395
+00:21:20,640 --> 00:21:23,760
+maggior sicurezza economica agiluppatori,
+
+396
+00:21:25,120 --> 00:21:27,440
+diciamo che era partito come un sistema one shot.
+
+397
+00:21:27,440 --> 00:21:29,680
+Tu pagavi l'applicazione.
+
+398
+00:21:29,840 --> 00:21:31,120
+Il sistema era quello.
+
+399
+00:21:31,120 --> 00:21:34,240
+Poi si sono accorti nel corso del tempo perché all'inizio se ne
+
+400
+00:21:34,240 --> 00:21:37,040
+vendevano un botto, poi si sono accorti che a un certo punto
+
+401
+00:21:37,040 --> 00:21:41,760
+il mercato diventava saturo e comunque loro, gli sviluppatori dovevano portare avanti
+
+402
+00:21:41,760 --> 00:21:44,000
+lo sviluppo dell'applicazione.
+
+403
+00:21:44,160 --> 00:21:51,040
+L'unica alternativa sensata era o inondare l'applicazione di pubblicità oppure chiedere un
+
+404
+00:21:51,040 --> 00:21:55,360
+abbonamento per mantenere e sviluppare nuove funzionalità.
+
+405
+00:21:55,520 --> 00:21:56,880
+A proposito mi incollego a questo.
+
+406
+00:21:57,040 --> 00:21:59,440
+Probabilmente la pubblicità comunque non ti paga abbastanza.
+
+407
+00:21:59,440 --> 00:22:02,800
+E quindi mi ricollego a questione delle funzionalità a nuovo perché ne
+
+408
+00:22:02,800 --> 00:22:05,280
+volevo provare una adesso che non avevo ancora provato.
+
+409
+00:22:05,280 --> 00:22:08,640
+È una cosa che per noi architetti, ma penso che generalmente nel
+
+410
+00:22:08,640 --> 00:22:11,360
+momento in cui si ha a che fare con una piantina in
+
+411
+00:22:11,360 --> 00:22:15,920
+PDF, può essere utile a molti, c'è la possibilità di misurare il
+
+412
+00:22:15,920 --> 00:22:17,840
+PDF, ovvero metterlo in scala.
+
+413
+00:22:17,840 --> 00:22:22,000
+Adesso io lo faccio qua per la prima volta direttamente come prova.
+
+414
+00:22:22,000 --> 00:22:25,440
+Voi andate sulla tab misura, poi a un certo punto c'è Calibra.
+
+415
+00:22:25,440 --> 00:22:28,160
+Vediamo se funziona perché questa qui dovrebbe essere una funzione a pagamento,
+
+416
+00:22:28,160 --> 00:22:29,680
+non ho ancora capito perché riesco a farla.
+
+417
+00:22:29,680 --> 00:22:34,480
+In ogni caso, Calibra permette appunto di mettere in scala un PDF.
+
+418
+00:22:34,480 --> 00:22:37,520
+Qui dice che si può selezionare il primo punto del segmento con
+
+419
+00:22:37,520 --> 00:22:41,280
+distanza conosciuta e si può inserire la scala manualmente.
+
+420
+00:22:41,360 --> 00:22:46,320
+Una cosa molto interessante è che impianta riconosce addirittura gli spigoli.
+
+421
+00:22:46,320 --> 00:22:49,200
+Quindi vedo che il cursore va a beccare gli spigoli in modo
+
+422
+00:22:49,200 --> 00:22:50,960
+giusto, e questo mi ha sorpreso molto.
+
+423
+00:22:50,960 --> 00:22:53,680
+E poi si può selezionare il secondo punto.
+
+424
+00:22:53,680 --> 00:22:56,720
+Una volta che si selezionano i due punti, dice che ci sono
+
+425
+00:22:56,720 --> 00:22:58,960
+delle distanze selezionate.
+
+426
+00:22:58,960 --> 00:23:00,520
+Io gli dico accetta.
+
+427
+00:23:00,840 --> 00:23:04,200
+A questo punto, con quella scala lì che era in mm, riuscite
+
+428
+00:23:04,280 --> 00:23:07,960
+a riconoscere la misura, bisogna inserire la misura, ovviamente quello che pensate
+
+429
+00:23:07,960 --> 00:23:08,280
+che sia.
+
+430
+00:23:08,280 --> 00:23:12,440
+Io avevo semplice perché ho 60 cm, ho fatto in modo molto
+
+431
+00:23:12,440 --> 00:23:13,960
+semplice l'inserimento.
+
+432
+00:23:13,960 --> 00:23:17,720
+E a questo punto, se io vado su distanza, che invece questa
+
+433
+00:23:17,720 --> 00:23:20,120
+è l'applicazione e la parte a pagamento.
+
+434
+00:23:20,120 --> 00:23:23,080
+Una volta che l'avete calibrato, potete prendere le distanze.
+
+435
+00:23:23,320 --> 00:23:24,920
+Come vi dicevo, con la parte a pagamento.
+
+436
+00:23:24,920 --> 00:23:28,680
+A questo punto potete girolare la vostra pianta e prendere le misure
+
+437
+00:23:28,680 --> 00:23:31,320
+che possono essere in prospetto in sezione e via discorrendo.
+
+438
+00:23:31,320 --> 00:23:35,880
+Davvero interessante, secondo me, sono quelle funzionalità che possono per una nicchia,
+
+439
+00:23:35,880 --> 00:23:39,400
+chiamiamola così perché noi architetti siamo una nicchia, ma che comunque possono
+
+440
+00:23:39,400 --> 00:23:41,800
+diventare utili più o meno a tutti quanti.
+
+441
+00:23:41,800 --> 00:23:46,040
+Altre cose da aggiungere su PDF Expert, non avrei molto da aggiungere.
+
+442
+00:23:46,040 --> 00:23:49,720
+A me diventa molto utile perché avendo l'applicazione su MecS e avendo
+
+443
+00:23:49,720 --> 00:23:53,640
+l'applicazione su iPadOS, per me diventa semplice gestire da una parte
+
+444
+00:23:53,640 --> 00:23:58,120
+o dall'altra il mio file coeditato perché le note prese su un
+
+445
+00:23:58,120 --> 00:24:04,440
+dispositivo vengono riconosciute dall'altro, quindi possono anche modificarle e conseguentemente diventa molto
+
+446
+00:24:04,440 --> 00:24:10,360
+facile la gestione del PDF all'interno di questo ecosistema e chiaramente è
+
+447
+00:24:10,360 --> 00:24:13,880
+uno dei punti di forza di Apple e chi riesce a sfruttare
+
+448
+00:24:13,880 --> 00:24:18,200
+questa possibilità e penso faccio una previsione anche nel futuro che sarà
+
+449
+00:24:18,200 --> 00:24:24,360
+molto sfruttabile con l'incrocio, chiamiamolo così, tra il sistema operativo desktop e
+
+450
+00:24:24,360 --> 00:24:29,000
+quello mobile da parte di Apple, la possibilità di far passare un'applicazione
+
+451
+00:24:29,000 --> 00:24:31,400
+scritta per iOS, farla passare su Mac.
+
+452
+00:24:31,400 --> 00:24:36,280
+In ogni caso questo diventa ancora ulteriormente interessante perché non vediamo l'ora
+
+453
+00:24:36,280 --> 00:24:41,640
+essenzialmente di vedere sul campo questa tipologia di applicazioni che passano da
+
+454
+00:24:41,640 --> 00:24:43,000
+un sistema operativo all'altro.
+
+455
+00:24:43,000 --> 00:24:46,640
+Alcune le ho già viste direttamente, ci sono delle applicazioni che sono
+
+456
+00:24:46,640 --> 00:24:51,600
+nate su macOS e poi si sono trasferite su iPadOS e
+
+457
+00:24:51,600 --> 00:24:54,640
+anche viceversa sono nate su iPadOS e poi sono andati un
+
+458
+00:24:54,640 --> 00:24:58,640
+po' a contaminare la questione Mac OS ovviamente con i pro e
+
+459
+00:24:58,640 --> 00:25:02,640
+i contro perché comunque se voi considerate che un'applicazione su iPadOS
+
+460
+00:25:02,640 --> 00:25:06,880
+è nata per essere touch e quando arriva sul Mac incomincia probabilmente
+
+461
+00:25:06,880 --> 00:25:10,640
+a avere delle difficoltà di sviluppo che io personalmente, avendo fatto da
+
+462
+00:25:10,640 --> 00:25:14,400
+beta tester a una di queste applicazioni, si è reso chiaramente una
+
+463
+00:25:14,640 --> 00:25:16,240
+difficoltà da superare.
+
+464
+00:25:16,240 --> 00:25:20,160
+In ogni caso, come diceva Filippo, per quanto riguarda PDF Expert c'è
+
+465
+00:25:20,160 --> 00:25:22,880
+la versione Pro di un anno che costa la bellezza di 53
+
+466
+00:25:22,880 --> 00:25:26,880
+euro, se non l'hanno modificato, che ha poi tutta una serie di
+
+467
+00:25:27,040 --> 00:25:32,080
+pacchetti da prendere insieme che comunque io vi rimando direttamente al sito
+
+468
+00:25:32,080 --> 00:25:37,200
+di Riddle per capire bene come funziona, oppure sul vostro app store
+
+469
+00:25:37,200 --> 00:25:39,520
+che usate sul iPadOS.
+
+470
+00:25:39,520 --> 00:25:43,920
+A questo punto io invece chiudo la questione PDF Expert se Filippo
+
+471
+00:25:44,000 --> 00:25:46,880
+non ha nient'altro da aggiungere, invece gli chiederei di parlare di good
+
+472
+00:25:47,040 --> 00:25:51,360
+notes, sì, ma prima mi sono reso conto mentre parlavi e mentre
+
+473
+00:25:51,360 --> 00:25:55,440
+riguardavo la scaletta, o meglio la mappa mentale e che non abbiamo
+
+474
+00:25:55,440 --> 00:26:01,360
+parlato di una cosa qui abbiamo già accennato, però sarebbe bene segnalarlo:
+
+475
+00:26:01,360 --> 00:26:09,280
+esiste un'applicazione gratuita, abbastanza nascosta, perché mentre anteprima fa parte del pacchetto,
+
+476
+00:26:09,280 --> 00:26:14,320
+diciamo di programmi disponibili nel sistema operativo, di fatto non esiste una
+
+477
+00:26:14,320 --> 00:26:19,920
+vera applicazione per i PAD OS e ai OS chiamata anteprima, ma
+
+478
+00:26:19,920 --> 00:26:25,120
+l'anteprima c'è e grazie a questa anteprima, tra l'altro, è possibile anche
+
+479
+00:26:25,120 --> 00:26:29,840
+modificare i PDF e così via, modificarli nel senso di annotarli
+
+480
+00:26:30,920 --> 00:26:35,320
+annotarli più che altro inserire a frecce, inserire a freccia, non si
+
+481
+00:26:35,320 --> 00:26:39,240
+può modificare nel senso, non posso cambiare il testo all'interno del PDF.
+
+482
+00:26:39,240 --> 00:26:42,680
+Questo sì, però, tutto il resto lo riesco a fare.
+
+483
+00:26:42,680 --> 00:26:44,840
+Quest'applicazione è utile.
+
+484
+00:26:44,840 --> 00:26:48,360
+Per esempio, se devo firmare qualcosa al volo, lo firmo con quello
+
+485
+00:26:48,600 --> 00:26:54,680
+perché di fatto aprendo in file un PDF, anteprima, chiamiamolo così, funziona
+
+486
+00:26:54,680 --> 00:26:59,640
+e ti permette, appunto, da una parte di selezionare il testo, copiarlo,
+
+487
+00:26:59,640 --> 00:27:05,480
+evidenziarlo e se utilizzi la Pencil, anche andare a non a modificarlo,
+
+488
+00:27:05,480 --> 00:27:07,640
+ma a commentarlo, chiamiamolo così.
+
+489
+00:27:07,640 --> 00:27:09,720
+Esatto, è una cosa da tenere presente.
+
+490
+00:27:09,720 --> 00:27:14,200
+Questo diciamo, fa parte del pacchetto completo delle applicazioni di sistema.
+
+491
+00:27:14,200 --> 00:27:14,520
+Sì.
+
+492
+00:27:14,520 --> 00:27:19,400
+Aggiungo una cosa: anteprima su Mac OS, molto interessante come inserire la
+
+493
+00:27:19,400 --> 00:27:24,200
+firma se non è cambiato, anteprima permette di fare una scansione tramite
+
+494
+00:27:24,200 --> 00:27:28,600
+la webcam del vostro MacBoo Pro, fa la scansione della vostra firma
+
+495
+00:27:28,600 --> 00:27:31,400
+che avete fatto su un foglio e poi li applica direttamente canale
+
+496
+00:27:31,400 --> 00:27:34,360
+Alfa e quindi diventa molto carino da inserire.
+
+497
+00:27:34,360 --> 00:27:38,840
+Do una chicca che ho provato ieri, credo non ci avevo mai
+
+498
+00:27:38,840 --> 00:27:39,560
+provato.
+
+499
+00:27:39,560 --> 00:27:44,280
+Ma nel magico mondo di Apple se tu hai un Mac e
+
+500
+00:27:44,280 --> 00:27:48,920
+un iPad, e per esempio, vai a fare delle modifiche a un
+
+501
+00:27:48,920 --> 00:27:52,440
+documento o un PDF o roba del genere, lo puoi passare o
+
+502
+00:27:52,440 --> 00:27:57,000
+un'immagine, la puoi passare a notare su iPad e te lo ritrovi
+
+503
+00:27:57,000 --> 00:27:58,600
+notato sul Mac.
+
+504
+00:27:58,600 --> 00:28:04,600
+L'ho fatto recentemente perché mi è comparso proprio la possibilità di passarlo.
+
+505
+00:28:05,160 --> 00:28:07,400
+Passatemi il termine, con continuo?
+
+506
+00:28:07,880 --> 00:28:11,520
+Sì, adesso probabilmente una versione librea.
+
+507
+00:28:11,520 --> 00:28:14,160
+Perché io nel caso specifico ho usato Big Sure.
+
+508
+00:28:14,160 --> 00:28:15,600
+Perché in ufficio avevo Big Sure.
+
+509
+00:28:15,600 --> 00:28:18,640
+Tuttavia, in estrema ho fatto uno screenshot di qualcosa.
+
+510
+00:28:14,840 --> 00:28:19,520
+Credo volevo
+
+511
+00:28:14,920 --> 00:28:21,920
+annotarlo, mi è venuto in mente.
+
+512
+00:28:22,160 --> 00:28:27,920
+Di fianco avevo l'iPad, è comparso l'iPad il nome dell'iPad nella finestra
+
+513
+00:28:27,920 --> 00:28:32,560
+per gestire lo screenshot, chiamiamolo così, che comunque è una versione di
+
+514
+00:28:32,560 --> 00:28:37,280
+anteprima, e ho potuto fare questa operazione che è effettivamente molto comoda.
+
+515
+00:28:37,280 --> 00:28:41,120
+Molto interessante, non la conoscevo e grazie per avercelo detto.
+
+516
+00:28:41,120 --> 00:28:44,400
+Stesso discorso che è abbastanza sconosciuto, ma molto comodo.
+
+517
+00:28:44,400 --> 00:28:50,720
+Se utilizzate mail e avete un PDF in mail, potete annotarlo e
+
+518
+00:28:50,720 --> 00:28:53,280
+a fine annotazione quindi sempre con anteprima
+
+519
+00:28:54,800 --> 00:28:57,760
+lo potete allegare alla risposta di quella mail.
+
+520
+00:28:57,760 --> 00:29:01,440
+Vi arriva il PDF in mail, dite c'è un errore qui, c'è
+
+521
+00:29:01,440 --> 00:29:04,640
+un errore qui e mettete il matita rossa, chiamiamolo così.
+
+522
+00:29:04,640 --> 00:29:06,880
+Automaticamente o addirittura volete firmarlo.
+
+523
+00:29:06,880 --> 00:29:09,600
+Io, per esempio, alcune cose chiedono di fermare.
+
+524
+00:29:09,600 --> 00:29:11,840
+Ovviamente non è una firma vera e tutto il resto.
+
+525
+00:29:11,840 --> 00:29:14,800
+Però se devo fare delle robe veloci e o casomai sono in
+
+526
+00:29:14,800 --> 00:29:19,920
+mano l'iPad, mi evito di fare mille giri e comunque abitualmente, soprattutto
+
+527
+00:29:19,920 --> 00:29:24,160
+se stampare e scansionare, diventa una rottura di scatole e al valore
+
+528
+00:29:24,160 --> 00:29:27,440
+uguale di una firma fatta con l'iPad, cioè niente.
+
+529
+00:29:27,440 --> 00:29:28,080
+Però
+
+530
+00:29:29,120 --> 00:29:33,280
+diventa una comodità, una rapidità notevole, soprattutto per il fatto che ti
+
+531
+00:29:33,280 --> 00:29:36,000
+chiedono di restituire un documento firmato via email.
+
+532
+00:29:36,000 --> 00:29:40,480
+Tu non fai altro che aprirlo in mail su iPad, firmare e
+
+533
+00:29:40,480 --> 00:29:43,920
+rispedirlo indietro direttamente senza passare dal via.
+
+534
+00:29:44,080 --> 00:29:47,120
+Questa è una delle poche ipotesi in cui io utilizzo mail.
+
+535
+00:29:47,120 --> 00:29:52,000
+Tra l'altro di una comodità notevole, semplifica molto venendo invece a Good
+
+536
+00:29:52,000 --> 00:29:57,840
+Note, di fatto vi segnalo due cose perché, allora, in pratica, quello
+
+537
+00:29:57,840 --> 00:30:04,520
+che ha raccontato Roberto su PDF Expert, praticamente ha tutte le funzioni,
+
+538
+00:30:04,520 --> 00:30:08,360
+tranne la parte di misurazione di modifica dei PDF, che sono comunque
+
+539
+00:30:08,360 --> 00:30:14,040
+quelle avanzate, chiamiamole così, ha le stesse funzioni base di PDF Expert.
+
+540
+00:30:14,040 --> 00:30:19,160
+La particolarità di Good Note è invece un'altra, che fino a pochissimo
+
+541
+00:30:19,160 --> 00:30:25,320
+tempo fa, cioè fino all'ultimo aiOS 15 e Pados 15, riconosceva il
+
+542
+00:30:25,320 --> 00:30:26,760
+testo scritto a mano.
+
+543
+00:30:26,760 --> 00:30:32,520
+Quindi, potevate da una parte ovviamente annotare i PDF, caricare i PDF
+
+544
+00:30:32,520 --> 00:30:36,600
+o anche l'immagine della verità e annotarli, ma in questo caso il
+
+545
+00:30:36,600 --> 00:30:38,120
+testo veniva riconosciuto.
+
+546
+00:30:38,120 --> 00:30:41,720
+Io ho fatto un video, il mio primo video pubblico su YouTube,
+
+547
+00:30:41,720 --> 00:30:46,360
+appunto parlando di Good Note nel caso specifico, la versione 4.
+
+548
+00:30:46,360 --> 00:30:50,920
+Adesso siamo alla versione 5 e delle sue capacità di riconoscere il
+
+549
+00:30:50,920 --> 00:30:54,760
+testo, ed era il 2017, quindi ormai un pelino di anni fa.
+
+550
+00:30:54,760 --> 00:30:58,760
+Ovviamente se è sviluppata nel tempo e così via, recentemente ha tutta
+
+551
+00:30:58,760 --> 00:31:03,720
+una serie di funzioni anche molto carine come timbri, ma timbanzati non
+
+552
+00:31:03,720 --> 00:31:08,360
+avanzati, ma diciamo che c'è la possibilità di inserire per esempio delle
+
+553
+00:31:08,360 --> 00:31:14,120
+immagini come timbro, quindi hanno addirittura personalizzato come con degli stickers, chiamiamoli
+
+554
+00:31:14,120 --> 00:31:14,520
+così.
+
+555
+00:31:14,520 --> 00:31:19,960
+Ci sono tante funzioni interessanti in più rispetto a applicazioni come PDF
+
+556
+00:31:19,960 --> 00:31:24,280
+Expert, proprio perché il ragionamento è quello di scrivere a mano in
+
+557
+00:31:24,280 --> 00:31:28,040
+maniera digitale con il riconoscimento del testo, quindi con la possibilità poi
+
+558
+00:31:28,040 --> 00:31:32,200
+di recuperare e ricercare quel testo, quello che ha fatto Apple con
+
+559
+00:31:32,200 --> 00:31:38,040
+Note appunto, esisteva cinque anni fa in Good Note, di fatto prendere
+
+560
+00:31:38,040 --> 00:31:43,400
+appunti a mano, anche se in digitale, quindi ritrovarsi poi tutti i
+
+561
+00:31:43,400 --> 00:31:46,720
+documenti, tutti gli appunti si chiamano così scritti a mano in digitale.
+
+562
+00:31:46,880 --> 00:31:53,360
+Ovunque noi siamo, passarli tranquillamente come PDF in un documento sul computer
+
+563
+00:31:53,360 --> 00:31:58,880
+fisso, e ovviamente avendo sotto il riconoscimento del testo poter ricercare i
+
+564
+00:31:58,880 --> 00:32:02,720
+nostri appunti scritti a mano direttamente per gli studenti, per esempio, è
+
+565
+00:32:02,720 --> 00:32:03,680
+comodissimo.
+
+566
+00:32:03,680 --> 00:32:07,600
+Proprio perché casomai ho 10-100 pagine di appunti scritti a mano su
+
+567
+00:32:07,680 --> 00:32:11,040
+iPad e posso andare a cercare i vari argomenti o le varie
+
+568
+00:32:11,040 --> 00:32:14,000
+parole, chiamiamole così chiave lì sopra.
+
+569
+00:32:14,000 --> 00:32:19,760
+L'altra cosa molto carina di Good Note sono le capacità di ottimizzare,
+
+570
+00:32:19,760 --> 00:32:24,560
+diciamo, queste note per se a mano, perché avendo strumenti come il
+
+571
+00:32:24,560 --> 00:32:30,880
+lazzo e così via, è possibile fare delle modifiche successivamente e spostare
+
+572
+00:32:30,880 --> 00:32:35,360
+il testo, modificare il testo a livello grafico tendo a precisare, proprio
+
+573
+00:32:35,360 --> 00:32:38,960
+per rendere gli appunti anche più accattivanti.
+
+574
+00:32:38,960 --> 00:32:43,040
+Un'altra cosa molto molto carina che, per esempio, il PDF Expert non
+
+575
+00:32:43,040 --> 00:32:48,480
+ha quando si fa l'evidenzazione, diciamo, con la penna, chiamiamola così, cioè
+
+576
+00:32:48,560 --> 00:32:54,080
+non l'evidenzazione del testo del PDF qui è stato fatto OCR, chiamiamolo
+
+577
+00:32:54,080 --> 00:32:54,960
+in questo termine.
+
+578
+00:32:54,960 --> 00:32:57,040
+Quindi il testo vero e proprio va
+
+579
+00:32:58,080 --> 00:33:00,320
+a coprire, chiamiamolo così il nero.
+
+580
+00:33:00,320 --> 00:33:06,960
+Invece, in Good Note, quando scriviamo una nota possiamo evidenziarla, ma l'evidenzazione,
+
+581
+00:33:06,960 --> 00:33:11,200
+diciamo, sta sotto, chiamiamolo così e il testo rimane sopra.
+
+582
+00:33:11,200 --> 00:33:15,520
+Quindi, se io ho scritto una nota in testo nero, diciamo, non
+
+583
+00:33:15,520 --> 00:33:23,040
+viene sbiadito, ma l'evidenzazione avviene sotto, insomma, molto carina da gestire e
+
+584
+00:33:23,040 --> 00:33:25,840
+appunto per queste cose molto ben fatta.
+
+585
+00:33:25,840 --> 00:33:27,280
+Anche qui varie penne.
+
+586
+00:33:27,360 --> 00:33:31,800
+Possibilità appunto di avere la penna sfera piuttosto che sorta di penna
+
+587
+00:33:31,800 --> 00:33:37,560
+stilografica o una linea così una linea, un marker, ecco, chiamiamolo in
+
+588
+00:33:37,560 --> 00:33:44,040
+questa maniera: possibilità di creare forme geometriche disegnando come ha poi anche
+
+589
+00:33:44,280 --> 00:33:44,920
+note.
+
+590
+00:33:44,920 --> 00:33:49,000
+Io faccio un cerchio tutto fatto male, non sono giotto, ma mi
+
+591
+00:33:49,000 --> 00:33:53,560
+trasforma ovviamente l'oggetto in un vero cerchio ben fatto come si deve.
+
+592
+00:33:53,560 --> 00:33:56,200
+Stesso discorso per quadrati, stelle e così via.
+
+593
+00:33:56,200 --> 00:33:59,160
+Altre cose fondamentali direi che non ci sono.
+
+594
+00:33:59,160 --> 00:34:05,640
+Io, per esempio, utilizzo se devo correggo Roberto, anche gli avvocati utilizzano
+
+595
+00:34:05,640 --> 00:34:09,480
+appunto, anzi, io ritengo che sia una funzione utilissima.
+
+596
+00:34:09,480 --> 00:34:14,440
+Abitualmente gli atti, i documenti vengono riletti e corretti, e io proprio
+
+597
+00:34:14,760 --> 00:34:17,080
+correggo come se fosse un foglio di carta.
+
+598
+00:34:17,080 --> 00:34:22,440
+Quindi con la penna rossa vado a cancellare, a scrivere, modificare, prendere
+
+599
+00:34:22,440 --> 00:34:24,200
+degli appunti e così via.
+
+600
+00:34:24,920 --> 00:34:29,560
+Ovviamente questo sistema è comodissimo e a maggior ragione quello che scrivo
+
+601
+00:34:29,720 --> 00:34:31,880
+non solo, diciamo, lo posso appuntare
+
+602
+00:34:33,000 --> 00:34:37,800
+come se fosse un commento a una pagina di foglio o cartacea,
+
+603
+00:34:37,800 --> 00:34:41,480
+ma addirittura volendo, anche se poi devo dire la verità, utilizzo questa
+
+604
+00:34:41,480 --> 00:34:42,200
+funzione poco.
+
+605
+00:34:42,200 --> 00:34:45,720
+Se ho scritto qualcosa che mi interessa, posso strapolarlo appunto grazie al
+
+606
+00:34:45,720 --> 00:34:49,720
+riconoscimento del testo e andarla a copiare sul file digitale, chiamiamolo così,
+
+607
+00:34:49,720 --> 00:34:53,320
+e andare a modificare poi il falso urgente del PDF.
+
+608
+00:34:53,320 --> 00:34:54,520
+Quindi è molto comodo.
+
+609
+00:34:54,520 --> 00:34:58,520
+Ok, good notes, se non ricordo male, dovrebbe costare intorno agli 8
+
+610
+00:34:58,520 --> 00:34:59,640
+euro per la versione.
+
+611
+00:34:59,640 --> 00:35:02,400
+Quello non me lo ricordo, non me lo ricordo.
+
+612
+00:35:03,280 --> 00:35:06,680
+Dovrebbe costare 8 euro per la versione per iOS.
+
+613
+00:35:06,920 --> 00:35:10,200
+Adesso invece vado a vedere un attimo sul sito mentre parliamo.
+
+614
+00:35:10,200 --> 00:35:14,440
+Invece andiamo a vedere invece per Mac quanto costa, non costa niente
+
+615
+00:35:14,440 --> 00:35:18,240
+perché se ce l'hai per uno, ce l'hai anche per l'altro, anche
+
+616
+00:35:18,240 --> 00:35:18,560
+perché
+
+617
+00:35:19,680 --> 00:35:24,320
+è un'applicazione companionale, cioè ti permette di vedere i PDF che hai
+
+618
+00:35:24,320 --> 00:35:29,120
+generato dall'iPad, ma non credo che tu possa fare con una, per
+
+619
+00:35:29,120 --> 00:35:33,440
+esempio, tavoletta grafica, scrivere e avere tutte le funzioni che ha sull'iPad.
+
+620
+00:35:33,440 --> 00:35:38,160
+Quindi di fatto diventa comodo perché se tu non esporti, diciamo, cioè
+
+621
+00:35:38,240 --> 00:35:41,520
+ovviamente ecco questo, non l'ho detto, ovviamente non è.
+
+622
+00:35:41,840 --> 00:35:46,720
+Ma l'applicazione Good Note utilizza un formato proprietario.
+
+623
+00:35:46,720 --> 00:35:52,800
+Quindi possiamo generare un PDF o cosiddetto flat, cioè senza nulla dentro,
+
+624
+00:35:53,120 --> 00:35:57,920
+è quindi un PDF immagine, oppure un PDF con un livello chiamiamolo
+
+625
+00:35:57,920 --> 00:36:02,240
+così nascosto di OCR, cioè di riconoscimento del testo scritto che ci
+
+626
+00:36:02,240 --> 00:36:05,760
+permette ovviamente di col PDF andare a cercare anche il testo scritto
+
+627
+00:36:05,760 --> 00:36:06,240
+a mano.
+
+628
+00:36:06,240 --> 00:36:10,560
+Però in questo caso poi non lo posso reimportare dentro Good Note,
+
+629
+00:36:11,120 --> 00:36:17,440
+e quindi l'applicazione compagna sostanzialmente mi permette di avercela su Mac e
+
+630
+00:36:17,440 --> 00:36:21,200
+potere, per esempio, non so, posso estrarre addirittura solo una pagina del
+
+631
+00:36:21,200 --> 00:36:23,840
+documento che ho commentato, annotato.
+
+632
+00:36:24,080 --> 00:36:28,480
+Tutte queste funzioni ci sono nell'applicazione compagna e ti permettono casomai di
+
+633
+00:36:28,480 --> 00:36:32,640
+fare operazioni sul Mac se non hai, per esempio, a mano l'iPad,
+
+634
+00:36:32,640 --> 00:36:35,600
+ma non è un'applicazione completa, quel che ne so io, anche se
+
+635
+00:36:35,600 --> 00:36:38,560
+devo dirti la verità, lo uso così poco su Mac che non
+
+636
+00:36:38,560 --> 00:36:39,280
+garantisco.
+
+637
+00:36:39,360 --> 00:36:42,400
+Mi hai fatto venire in mente però una cosa riguardo al PDF
+
+638
+00:36:42,400 --> 00:36:48,480
+Expert, che invece il PDF editato da PDF Expert sia su iOS
+
+639
+00:36:48,480 --> 00:36:51,920
+che poi portato sul Mac e viene riconosciute tutte le notazioni, ma
+
+640
+00:36:51,920 --> 00:36:52,640
+non solo.
+
+641
+00:36:52,640 --> 00:36:57,680
+Se questo PDF non viene aperto con PDF Expert, ma con anteprima,
+
+642
+00:36:57,680 --> 00:37:02,360
+le notazioni vengono comunque riconosciute e vengono modificate da anteprima ed è
+
+643
+00:37:02,360 --> 00:37:06,760
+una cosa interessante perché questo si vede probabilmente anche da quanto tempo
+
+644
+00:37:06,760 --> 00:37:09,480
+sono sul pezzo rispetto alle altre applicazioni.
+
+645
+00:37:09,480 --> 00:37:14,440
+Perché essenzialmente hanno la piena compatibilità addirittura con Anteprima, che è un'applicazione
+
+646
+00:37:14,600 --> 00:37:15,640
+di sistema del Mac.
+
+647
+00:37:15,640 --> 00:37:19,560
+Anteprima è una roba strana, perché anche lì anteprima, se ne avanzate
+
+648
+00:37:19,560 --> 00:37:23,240
+di PDF, fa delle cose strane, non è conforme allo standard PDF,
+
+649
+00:37:23,240 --> 00:37:25,080
+secondo me è il 100%.
+
+650
+00:37:25,320 --> 00:37:29,720
+Per esempio sulle firme digitali fatte sul PDF, addirittura fino a poco
+
+651
+00:37:29,720 --> 00:37:32,280
+tempo fa potevi cancellare la firma.
+
+652
+00:37:32,440 --> 00:37:36,200
+Sì, no, c'è da dire che di anteprima, ad esempio, per chi
+
+653
+00:37:36,200 --> 00:37:41,560
+lavora nel mio ambito come architetto, si è dovuto magari scontrare con
+
+654
+00:37:41,560 --> 00:37:45,560
+dei PDF generati da parte delle amministrazioni comunali.
+
+655
+00:37:45,560 --> 00:37:50,840
+Essenzialmente che vanno editate su un programma tipo il normale Acrobat Reader
+
+656
+00:37:50,920 --> 00:37:55,320
+che anche se li legge, però si possono scrivere all'interno del testo.
+
+657
+00:37:55,320 --> 00:37:59,880
+Ci sono dei campi di scelta, per esempio, sono dei PDF avanzati,
+
+658
+00:37:59,880 --> 00:38:04,280
+dove magari nel campo si può selezionare una linguetta colatita a una
+
+659
+00:38:04,280 --> 00:38:10,520
+scelta multiplali, oppure la modifica o la scelta all'interno di questo PDF
+
+660
+00:38:10,680 --> 00:38:15,800
+editabile, diciamolo così, si aprono delle altre tendine da cui puoi ancora
+
+661
+00:38:15,800 --> 00:38:20,280
+aggiungere delle altre richieste che riguardano la pratica comunale.
+
+662
+00:38:20,280 --> 00:38:23,880
+Questo tipo di file PDF, per esempio, da anteprima non viene aperto
+
+663
+00:38:23,960 --> 00:38:27,000
+ma neanche se gli spari le gambe, nel senso che non lo
+
+664
+00:38:27,000 --> 00:38:32,760
+capisce assolutamente, mentre Acrobat Reader, nella sua declinazione solo di lettura, lo
+
+665
+00:38:32,760 --> 00:38:35,000
+legge tranquillamente, senza grossi problemi.
+
+666
+00:38:35,000 --> 00:38:39,160
+Sì, sì, purtroppo ho portato alcune cose, anteprima le fa in maniera
+
+667
+00:38:39,240 --> 00:38:39,640
+diversa.
+
+668
+00:38:39,640 --> 00:38:44,360
+Per esempio, la firma, del famoso PDF fatto su iPad, a volte
+
+669
+00:38:44,520 --> 00:38:48,800
+non viene riconosciuto, proprio non si vede su Windows o su altre
+
+670
+00:38:48,800 --> 00:38:53,440
+cose, quindi ogni tanto c'è da fare dei mageggi, chiamiamoli così.
+
+671
+00:38:53,440 --> 00:38:57,520
+Io spesso ho dovuto stampare un PDF che avevo firmato
+
+672
+00:38:58,800 --> 00:38:59,760
+per far vedere la firma.
+
+673
+00:38:59,760 --> 00:39:04,640
+Insomma, Apple, appunto, non utilizza al 100% le specifiche di Acrobat, che
+
+674
+00:39:04,640 --> 00:39:06,080
+è quello che ha creato i PDF.
+
+675
+00:39:06,320 --> 00:39:10,160
+Direi che a questo punto possiamo scivolare su Notability, che è un'applicazione
+
+676
+00:39:10,160 --> 00:39:14,720
+che ho usato molto tempo fa con l'iPad, ma ovviamente mi sono
+
+677
+00:39:14,720 --> 00:39:17,680
+subito fermato perché non avendo una pensi non è che si gustasse
+
+678
+00:39:17,840 --> 00:39:18,880
+molto la questione.
+
+679
+00:39:18,880 --> 00:39:22,640
+Tendenzialmente, se non ricordo male, ha più o meno a grandi linee
+
+680
+00:39:22,640 --> 00:39:26,480
+tutte le funzioni che hanno gli altri due che abbiamo nominato precedentemente.
+
+681
+00:39:26,480 --> 00:39:30,160
+In particolare posso dire che se devo andare un po' a memoria
+
+682
+00:39:30,240 --> 00:39:35,520
+mi pare che ci sia nato prima PDF Expert, poi Notability e
+
+683
+00:39:35,520 --> 00:39:36,800
+poi Good Notes.
+
+684
+00:39:36,800 --> 00:39:41,040
+Notability so che per un certo periodo è stata veramente l'applicazione non
+
+685
+00:39:41,040 --> 00:39:47,120
+plusulta per chi andava all'università e poteva prendere le note sui PDF
+
+686
+00:39:47,280 --> 00:39:52,400
+che i professori rilasciavano ed era molto molto funzionale appunto anche per
+
+687
+00:39:52,400 --> 00:39:55,040
+la capacità di prendere le note a mano.
+
+688
+00:39:55,040 --> 00:39:59,680
+Io altro francamente non mi ricordo, possiamo dire semplicemente che anche l'abbonamento
+
+689
+00:39:59,680 --> 00:40:03,680
+annuale costa 12,50 euro circa.
+
+690
+00:40:03,680 --> 00:40:07,040
+E poi ci sono anche tutta una serie di pacchettini che bisogna
+
+691
+00:40:07,040 --> 00:40:10,240
+andare a scoprire un po' andando a vedere l'app store.
+
+692
+00:40:10,320 --> 00:40:12,560
+A questo punto lascio la parola al nostro amico Filippo.
+
+693
+00:40:12,800 --> 00:40:15,280
+Una piccola nota chiusura sulla notability.
+
+694
+00:40:15,280 --> 00:40:19,600
+Premesso che io appunto sono metà testa di Good Note e lo
+
+695
+00:40:19,600 --> 00:40:21,720
+uso da appunto dal 2017.
+
+696
+00:40:21,720 --> 00:40:24,720
+Anzi, da prima del 2017, perché ci ho fatto un video quindi,
+
+697
+00:40:24,200 --> 00:40:29,600
+quindi ben prima, la particolarità, secondo me, interessante per gli studenti o
+
+698
+00:40:29,600 --> 00:40:33,320
+comunque per chi segue corsi e così via.
+
+699
+00:40:33,720 --> 00:40:37,320
+Non credo ci sia in Good Note, non è una funzione che
+
+700
+00:40:37,320 --> 00:40:40,520
+me ne interessa, però, casomai a qualcuno che ascolta, può interessare.
+
+701
+00:40:40,520 --> 00:40:45,000
+È che Notability ti permette anche di registrare l'audio giusto di una
+
+702
+00:40:45,000 --> 00:40:49,880
+lezione che stai seguendo, ovviamente con il microfono dell'iPad, chiamiamolo così, e
+
+703
+00:40:49,880 --> 00:40:55,240
+hai praticamente mentre produci l'audio, puoi vedere la nota che stavi scrivendo
+
+704
+00:40:55,240 --> 00:40:55,960
+nel momento.
+
+705
+00:40:55,960 --> 00:40:59,400
+Quindi è molto interessante da quel punto di vista lì, nel senso
+
+706
+00:40:59,400 --> 00:41:04,200
+che ti permette di avere un raffronto tra audio della registrazione della
+
+707
+00:41:04,200 --> 00:41:06,040
+lezione e i tuoi appunti.
+
+708
+00:41:06,040 --> 00:41:10,680
+Quindi, questa, secondo me, è una funzione abbastanza particolare e molto utile.
+
+709
+00:41:10,680 --> 00:41:11,560
+Esatto.
+
+710
+00:41:11,560 --> 00:41:13,720
+Quindi andate a vedere un attimo.
+
+711
+00:41:13,720 --> 00:41:17,560
+Io a questo punto direi che possiamo andare nella seconda parte, andiamo
+
+712
+00:41:17,560 --> 00:41:21,720
+a vedere un po' un metodo molto simpatico ed è anche il
+
+713
+00:41:21,720 --> 00:41:24,440
+perché di questo super pippone sulle note.
+
+714
+00:41:24,440 --> 00:41:29,240
+È perché, appunto, uno dei metodi che vi consigliamo, almeno io personalmente
+
+715
+00:41:29,240 --> 00:41:34,440
+vi consiglio di utilizzare nel vostro lavoro è appunto il bullet journal
+
+716
+00:41:34,520 --> 00:41:36,600
+che per gli amici è bujo.
+
+717
+00:41:36,600 --> 00:41:39,640
+A me ogni volta che dici bujo mi vengono in mente altre
+
+718
+00:41:39,640 --> 00:41:40,760
+cose, ma comunque.
+
+719
+00:41:41,080 --> 00:41:43,960
+Comunque è così sul diminutivo.
+
+720
+00:41:43,960 --> 00:41:48,360
+Ho iniziato a utilizzare il bullet journal sulla carta, perché in realtà
+
+721
+00:41:48,360 --> 00:41:50,920
+parte dalla carta questo metodo.
+
+722
+00:41:50,920 --> 00:41:57,240
+Voi utilizzate i classici quadernetti in formato A5, meglio se puntinato con
+
+723
+00:41:57,240 --> 00:42:01,080
+le pagine puntinate che molto sono molto più carini di quelli con
+
+724
+00:42:01,080 --> 00:42:02,360
+le righe o con i quadretti.
+
+725
+00:42:02,360 --> 00:42:05,400
+Io, per esempio, l'ho cercato per tantissimo tempo e mi piacciono un
+
+726
+00:42:05,400 --> 00:42:08,760
+sacco, li ho usati fino all'altro giorno, e anzi, vi dirò di
+
+727
+00:42:08,760 --> 00:42:12,680
+più, una delle prime cose che guardo quando apro un'applicazione per prendere
+
+728
+00:42:12,680 --> 00:42:15,920
+le note è se hanno un foglio preimpostato di sfondo con i
+
+729
+00:42:14,920 --> 00:42:16,320
+puntini.
+
+730
+00:42:16,400 --> 00:42:21,120
+Questo perché sono abbastanza quadrato sotto questo punto di vista, perché diventano
+
+731
+00:42:21,120 --> 00:42:23,280
+molto utili nel metodo bujo.
+
+732
+00:42:23,280 --> 00:42:28,800
+Allora, il metodo Bullet Journal è un sistema di organizzazione delle cose
+
+733
+00:42:28,800 --> 00:42:30,240
+da fare, chiamiamole così.
+
+734
+00:42:30,240 --> 00:42:33,520
+Molto semplice, nel senso che ci sono varie versioni.
+
+735
+00:42:33,680 --> 00:42:38,240
+Vi parlo della versione più semplificata che utilizzo io direttamente, perché secondo
+
+736
+00:42:38,240 --> 00:42:42,080
+me lì è la base e bisogna andarci decisi sotto questo punto
+
+737
+00:42:42,080 --> 00:42:46,560
+di vista, si divide essenzialmente in tre tipi di annotazione.
+
+738
+00:42:46,560 --> 00:42:51,920
+La prima è l'azione che viene tendenzialmente rappresentato con un puntino.
+
+739
+00:42:51,920 --> 00:42:56,080
+Quindi, voi che ne so, hai un compito da svolgere, per esempio,
+
+740
+00:42:56,080 --> 00:42:57,920
+pulire casa, ok?
+
+741
+00:42:58,080 --> 00:42:59,360
+Voi andate
+
+742
+00:43:00,640 --> 00:43:05,920
+nella vostra pagina bianca, fate un bel puntino piccolo che sta all'incirca
+
+743
+00:43:05,920 --> 00:43:10,320
+nel centro dei quattro pallini che vi dicevo prima del foglio sotto,
+
+744
+00:43:10,320 --> 00:43:13,200
+lo mettete lì e poi vi spostate di un quadratino e iniziate
+
+745
+00:43:13,200 --> 00:43:15,040
+a segnarvi la pallottola.
+
+746
+00:43:15,040 --> 00:43:20,480
+Cioè devono essere azioni semplici, chiare, che devono essere anche condensate in
+
+747
+00:43:20,480 --> 00:43:21,040
+poche parole.
+
+748
+00:43:21,040 --> 00:43:23,760
+Quindi non è che dovete iniziare a scrivere domani devo andare a
+
+749
+00:43:23,760 --> 00:43:28,400
+prendere la macchina dal meccanico perché poi devo vedere se ho fatto
+
+750
+00:43:28,400 --> 00:43:30,240
+il tagliando e pagare via discorrendo.
+
+751
+00:43:30,240 --> 00:43:34,880
+No, niente di tutto questo, dovete fare un'azione corta, comprensibile al volo
+
+752
+00:43:34,880 --> 00:43:38,480
+e che soprattutto sia condensabile in un'azione.
+
+753
+00:43:38,480 --> 00:43:41,840
+Poi c'è un altro tipo di cose che si possono notare che
+
+754
+00:43:41,840 --> 00:43:45,440
+sono gli eventi che vengono rappresentati da un cerchio.
+
+755
+00:43:45,440 --> 00:43:49,200
+Quindi il puntino è proprio una punta piccola, diciamo di un millimetro
+
+756
+00:43:49,200 --> 00:43:54,400
+di diametri, invece il pallino è proprio un cerchio di un diametro
+
+757
+00:43:54,400 --> 00:43:57,600
+circa intorno a, io di sotto l'utilizzo, sarei intorno a un diametro
+
+758
+00:43:57,600 --> 00:44:03,320
+di 4 mm, 4-5 mm, che rappresenta appunto l'impegno di varia natura.
+
+759
+00:43:59,360 --> 00:44:04,840
+Per esempio, mi devo vedere con Filippo.
+
+760
+00:44:05,080 --> 00:44:08,040
+Allora ti segno il pallino, vi devo vedere con Filippo, vi segnate
+
+761
+00:44:08,040 --> 00:44:08,360
+l'ora.
+
+762
+00:44:08,360 --> 00:44:11,320
+E poi ci sono proprio le vere e proprie note, che queste
+
+763
+00:44:11,320 --> 00:44:17,400
+sono proprio note, niente di particolare, cioè fatti, idee, pensieri, ricordi.
+
+764
+00:44:17,400 --> 00:44:20,840
+Voi segnate una nota con un trattino, con una linea, con un
+
+765
+00:44:20,840 --> 00:44:23,960
+meno, e poi di fianco scrivete la vostra nota.
+
+766
+00:44:23,960 --> 00:44:28,760
+Dunque da qua poi incominciano a dipartire le varie personalizzazioni, perché questa
+
+767
+00:44:28,760 --> 00:44:31,160
+qui è un'idea in realtà.
+
+768
+00:44:31,160 --> 00:44:35,960
+Ad esempio per me viene molto più facile scrivere l'azione con un
+
+769
+00:44:35,960 --> 00:44:39,560
+trattino perché ho ragiono così, non so per quale motivo, invece che
+
+770
+00:44:39,560 --> 00:44:43,320
+il pallino, quindi diventa un po' diverso, ognuno se lo può personalizzare.
+
+771
+00:44:43,320 --> 00:44:47,000
+Ma la cosa importante è appunto avere questa distinzione tra azione, eventi
+
+772
+00:44:47,080 --> 00:44:47,560
+e note.
+
+773
+00:44:47,720 --> 00:44:53,080
+Un'altra particolarità di questo bullet journal è che oltre a suddividervi le
+
+774
+00:44:53,080 --> 00:44:57,160
+cose in modo molto schematico, in modo tale da avere chiaro subito
+
+775
+00:44:57,160 --> 00:45:01,240
+cosa avete da fare, dovete lasciare a di fianco di questi segni
+
+776
+00:45:01,240 --> 00:45:03,800
+uno spazio bianco sulla sinistra.
+
+777
+00:45:03,800 --> 00:45:04,760
+Questo perché?
+
+778
+00:45:04,760 --> 00:45:09,800
+Perché questi eventi che avete suddiviso in queste tre categorie possono essere
+
+779
+00:45:09,800 --> 00:45:15,880
+ulteriormente annotate, come per esempio se voi avete da fare qualcosa e
+
+780
+00:45:15,880 --> 00:45:19,640
+per qualsiasi motivo è spostato al giorno dopo, voi gli mettete una
+
+781
+00:45:19,640 --> 00:45:24,040
+frecciolina di fianco per indicare che è stato spostato a una data
+
+782
+00:45:24,040 --> 00:45:27,720
+successiva, che può essere annotato in quel momento o un altro momento
+
+783
+00:45:28,360 --> 00:45:29,400
+non è importante.
+
+784
+00:45:29,400 --> 00:45:33,080
+Un'altra cosa che può essere utile: questo spazio, questa colonna immaginaria di
+
+785
+00:45:33,080 --> 00:45:37,080
+fianco e i segni, può essere anche l'indicazione delle priorità, con un
+
+786
+00:45:37,080 --> 00:45:40,280
+simpatico 1, 2, 3, 4 via discorrendo in modo tale che riuscite
+
+787
+00:45:40,280 --> 00:45:43,160
+anche a capire la giornata come deve essere gestita.
+
+788
+00:45:43,160 --> 00:45:44,920
+E poi ci sono tanti altri segni.
+
+789
+00:45:44,960 --> 00:45:50,960
+Quello che vi posso dire direttamente è che questa metodologia di segnarsi
+
+790
+00:45:50,960 --> 00:45:54,800
+all'inizio, quando vi sedete al tavolo e dovete incominciare a pensare cosa
+
+791
+00:45:54,800 --> 00:45:59,200
+c'è da fare durante la giornata diventa davvero molto utile perché in
+
+792
+00:45:59,200 --> 00:46:03,920
+uno schema semplice, chiaro, che si può racchiudere in una pagina, questo
+
+793
+00:46:03,920 --> 00:46:07,200
+è nato su carta, ci sono anche tutta una serie di versioni,
+
+794
+00:46:07,200 --> 00:46:12,000
+chiamiamole così, digitali che possono essere fatte con le applicazioni di note
+
+795
+00:46:12,160 --> 00:46:16,560
+che vi abbiamo spiegato nella scorsa puntata e in questa puntata, oppure
+
+796
+00:46:16,560 --> 00:46:21,760
+c'è addirittura l'applicazione che è nata con diciamo questa filosofia, che è
+
+797
+00:46:21,760 --> 00:46:27,520
+un'applicazione che serve appunto a prendere note con questa metodologia.
+
+798
+00:46:27,520 --> 00:46:30,400
+Ma non si ferma qua perché quella che vi ho spiegato io
+
+799
+00:46:30,400 --> 00:46:32,880
+è quella diciamo quotidiana.
+
+800
+00:46:32,880 --> 00:46:36,800
+Mettete al tavolo quando vi svegliate, quando vi viene comodo essenzialmente, si
+
+801
+00:46:36,800 --> 00:46:40,480
+parte mettendo la data in alto a sinistra tendenzialmente, segnate la data
+
+802
+00:46:40,480 --> 00:46:45,360
+in formato numerico e poi iniziate a scrivere il giorno.
+
+803
+00:46:45,520 --> 00:46:48,560
+Che giorno è, lunedì, martedì, mercoledì, giovedì quello che sarà, e poi
+
+804
+00:46:48,560 --> 00:46:51,040
+andate giù a scrivere quello che c'è da fare.
+
+805
+00:46:51,040 --> 00:46:55,040
+Questa è la minima parte perché in realtà questo si sviluppa ancora
+
+806
+00:46:55,200 --> 00:47:01,200
+molto molto più ampiamente, perché in realtà la pianificazione della giornata è
+
+807
+00:47:01,200 --> 00:47:04,240
+la versione finale del bullet journal.
+
+808
+00:47:04,240 --> 00:47:07,680
+Ma io vi consiglio da partire invece da questo, perché è quello
+
+809
+00:47:07,680 --> 00:47:10,160
+che direttamente vi aiuta tutti i giorni.
+
+810
+00:47:10,160 --> 00:47:17,120
+In realtà sembra partire da una pianificazione annuale, ci sono un sacco
+
+811
+00:47:17,120 --> 00:47:21,840
+di immagini che potete trovare come spunto per come utilizzare, come personalizzare
+
+812
+00:47:21,840 --> 00:47:25,760
+il proprio bullet journal, andando o sul sito o anche su Instagram
+
+813
+00:47:26,000 --> 00:47:28,960
+ed è molto bello perché dal punto di vista grafico è molto
+
+814
+00:47:28,960 --> 00:47:29,680
+accattivante.
+
+815
+00:47:29,800 --> 00:47:33,880
+Ognuno può fare un po' quello che vuole perché è ultra personalizzabile.
+
+816
+00:47:33,880 --> 00:47:37,480
+Si parte dall'anno se non mi ricordo male, perché io, per esempio,
+
+817
+00:47:37,560 --> 00:47:40,120
+quello dell'anno non lo utilizzo mai, ma si vede anche perché io
+
+818
+00:47:40,120 --> 00:47:44,600
+sono un disorganizzato cronico, nel senso che non c'è modo per me
+
+819
+00:47:44,600 --> 00:47:49,240
+di riuscire a creare questa vista che nel metodo Bullet Journal si
+
+820
+00:47:49,240 --> 00:47:54,200
+chiama Future Log, che è una vista generale sui mesi in cui
+
+821
+00:47:54,200 --> 00:47:57,400
+indicare impegni e cose da fare già definiti.
+
+822
+00:47:57,400 --> 00:48:01,400
+Ad esempio, che ne so, mi devo sposare, devo fare il compleanno
+
+823
+00:48:01,720 --> 00:48:04,440
+o una cena aziendale, la butto lì.
+
+824
+00:48:04,440 --> 00:48:08,200
+E serve solo come proprio memoria delle cose più importanti, perché poi
+
+825
+00:48:08,200 --> 00:48:13,000
+tutta questa roba qua verrà buttata nella così famosa to-do list giornaliera,
+
+826
+00:48:13,000 --> 00:48:13,240
+ok?
+
+827
+00:48:13,320 --> 00:48:16,680
+Ma non si finisce qua c'è anche il monthly log che invece
+
+828
+00:48:16,680 --> 00:48:17,960
+è la vista mensile.
+
+829
+00:48:17,960 --> 00:48:23,640
+Quindi, voi avete all'inizio del mese, vi appuntate tutti i numerini.
+
+830
+00:48:23,640 --> 00:48:27,480
+Prima mettete il mese di gennaio, vi segnate tutti i numerini 1,
+
+831
+00:48:27,480 --> 00:48:30,440
+2, 3, 4, 5, 6, andate avanti fino al 31.
+
+832
+00:48:30,440 --> 00:48:34,280
+E questo di sotto sta tutto in una pagina in formato A5
+
+833
+00:48:34,680 --> 00:48:36,600
+e si compila essenzialmente in due parti.
+
+834
+00:48:36,600 --> 00:48:39,880
+Allora l'elenco con un numero iniziale del giorno della settimana, e all'altro
+
+835
+00:48:39,960 --> 00:48:44,440
+ciascun giorno si potrà indicare sinteticamente il task e gli eventi già
+
+836
+00:48:44,440 --> 00:48:46,920
+pianificati e specifici per quel giorno.
+
+837
+00:48:46,920 --> 00:48:50,920
+E poi chiaramente nel corso del mese incominciate a infilargli dentro le
+
+838
+00:48:50,920 --> 00:48:55,160
+cose che magari vi capitano durante il mese e quindi avete questa
+
+839
+00:48:55,160 --> 00:48:59,640
+vista mensile che vi permette appunto di avere abbastanza chiaro cosa c'è
+
+840
+00:48:59,640 --> 00:49:00,600
+da fare nel mese.
+
+841
+00:49:00,600 --> 00:49:05,080
+Questo bullet journal parte da una vista annuale per scendere da quella
+
+842
+00:49:05,080 --> 00:49:08,920
+mensile che anche questa obiettivamente è utile.
+
+843
+00:49:08,920 --> 00:49:12,280
+Però, dal mio punto di vista, a me viene molto più comodo
+
+844
+00:49:12,280 --> 00:49:18,400
+utilizzare il calendario di Apple dove all'interno, lì in quel calendario, inserisco
+
+845
+00:49:14,280 --> 00:49:21,600
+tutti quante gli eventi pianificati, gli impegni di lavoro.
+
+846
+00:49:21,760 --> 00:49:25,680
+Vi riscorrendo perché mi viene davvero comodo perché riesco a gestirlo con
+
+847
+00:49:25,680 --> 00:49:30,080
+l'incrocio degli impegni familiari e gli impegni del podcast e di tutte
+
+848
+00:49:30,080 --> 00:49:33,200
+le cose che faccio che incominciano ad essere un po' tante, devo
+
+849
+00:49:33,200 --> 00:49:35,440
+darmi una regolata perché ho anche una certa età.
+
+850
+00:49:35,440 --> 00:49:40,960
+E poi comunque io ho trovato una buonissima forma di incrocio tra
+
+851
+00:49:40,960 --> 00:49:44,720
+quello che può essere il bullet journal nato sulla carta, a un
+
+852
+00:49:44,720 --> 00:49:46,480
+bullet journal digitale.
+
+853
+00:49:46,480 --> 00:49:49,120
+La mia è una via di mezzo, me ne rendo conto, non
+
+854
+00:49:49,120 --> 00:49:52,640
+è un'applicazione in toto della filosofia bullet journal.
+
+855
+00:49:52,640 --> 00:49:57,600
+Demando tutto quanto all'applicazione calendario di Apple, che può essere qualsiasi applicazione
+
+856
+00:49:57,600 --> 00:50:02,560
+che utilizzate per il calendario in formato digitale, diventa molto comodo sotto
+
+857
+00:50:02,560 --> 00:50:07,120
+questo punto di vista, perché invece di avere bisogno di qualcosa su
+
+858
+00:50:07,120 --> 00:50:12,160
+cui appuntarsi le cose in formato fisico, quindi avete bisogno di una
+
+859
+00:50:12,160 --> 00:50:16,960
+penna e di un tacuino, deve essere sempre quello e deve essere
+
+860
+00:50:16,960 --> 00:50:17,840
+sempre con voi.
+
+861
+00:50:17,840 --> 00:50:21,680
+Purtroppo bisogna dirlo: la cosa che è più con noi nella vita
+
+862
+00:50:21,680 --> 00:50:23,520
+in questo momento è lo smartphone.
+
+863
+00:50:23,520 --> 00:50:29,360
+Quindi mi sembra più giusto delegare questa parte della generale, chiamiamola così,
+
+864
+00:50:30,000 --> 00:50:33,440
+della gestione delle giornate, delle settimane, dei mesi.
+
+865
+00:50:33,520 --> 00:50:38,400
+Mi viene più giusta infilarla all'interno del calendario, anche perché una cosa
+
+866
+00:50:38,400 --> 00:50:42,960
+che non ha la versione, chiamiamola così, cartacea del Bullet Journal è
+
+867
+00:50:42,960 --> 00:50:45,840
+che non ti può dare una sveglia, invece, io mi posso applicare
+
+868
+00:50:45,840 --> 00:50:48,720
+all'interno del calendario una sveglia che mi dice guarda che tra due
+
+869
+00:50:48,720 --> 00:50:52,400
+giorni devi andare a salutare Filippo perché arriva l'instazione.
+
+870
+00:50:52,960 --> 00:50:54,880
+A me diventa interessante questo.
+
+871
+00:50:54,880 --> 00:51:00,600
+Invece, la parte del daily log, chiamiamolo così, che invece quello giornaliero
+
+872
+00:50:59,920 --> 00:51:03,960
+che vi dicevo all'inizio di quando vi ho parlato del bullet journal,
+
+873
+00:51:04,200 --> 00:51:09,640
+invece quello è una cosa che va bene sia cartacea che digitale,
+
+874
+00:51:09,640 --> 00:51:10,280
+secondo me.
+
+875
+00:51:10,280 --> 00:51:13,320
+Nel senso che Cartacea tendenzialmente quando ti mette a fare il daily
+
+876
+00:51:13,320 --> 00:51:15,800
+log vuol dire che seduti e stai facendo il punto della situazione
+
+877
+00:51:15,800 --> 00:51:20,280
+della giornata e devi pensare a come gestire il tuo lavoro.
+
+878
+00:51:20,360 --> 00:51:23,160
+Perché io lo applico tantissimo al lavoro, ma in realtà si può
+
+879
+00:51:23,160 --> 00:51:25,000
+applicare anche a tutta la vita.
+
+880
+00:51:25,160 --> 00:51:29,560
+Sono più per una questione più lavorativa e visto che anche a
+
+881
+00:51:29,560 --> 00:51:33,720
+due podcast è indirizzato a chi lavora con questi strumenti, invece io
+
+882
+00:51:33,720 --> 00:51:39,480
+preferisco utilizzare all'inizio la versione cartacea dove mi appunto tutto quanto, poi
+
+883
+00:51:39,480 --> 00:51:44,120
+sono passato a queste applicazioni che appunto permettono di prendere le note
+
+884
+00:51:44,280 --> 00:51:48,600
+e quindi fare anche il bullet journal tranquillamente in scioltezza con il
+
+885
+00:51:48,600 --> 00:51:53,320
+vostro tablet appoggiato di lì e potete avere anche la possibilità di
+
+886
+00:51:53,320 --> 00:51:56,840
+ricercare le note, cercare il testo e via discorrendo.
+
+887
+00:51:56,840 --> 00:52:00,440
+Aiutano anche le applicazioni che prendono le note, quelle che ti permettono
+
+888
+00:52:00,440 --> 00:52:05,160
+anche di fare dei segni grafici come diceva appunto Filippo all'inizio, dove
+
+889
+00:52:05,160 --> 00:52:08,360
+se non sei Giotto non fai il cerchio giusto, però almeno c'è
+
+890
+00:52:08,360 --> 00:52:13,000
+l'applicazione che ti aiuta a chiudere il cerchio in modo abbastanza chiaro.
+
+891
+00:52:13,000 --> 00:52:17,400
+Un'altra mia particolarità, come vi dicevo, è quella di cercare subito immediatamente
+
+892
+00:52:17,560 --> 00:52:23,240
+se all'interno dell'applicazione di note che viene utilizzato c'è questo sfondo puntinato,
+
+893
+00:52:23,240 --> 00:52:26,920
+su Paper ad esempio c'è ed è una delle mie preferite appunto
+
+894
+00:52:26,920 --> 00:52:30,360
+per quello, su note non c'è mannaggia loro, nel senso che se
+
+895
+00:52:30,360 --> 00:52:33,520
+mettessero anche un po' di sfondi non sarebbe male.
+
+896
+00:52:33,520 --> 00:52:37,320
+E poi ci sono tante altre applicazioni che permettono appunto di cambiare
+
+897
+00:52:37,320 --> 00:52:41,320
+gli sfondi, ne cito due, giusto al volo, uno potrebbe anche essere
+
+898
+00:52:41,480 --> 00:52:46,080
+Morfolio Journal eppure Cola Note, che è un'altra applicazione per prendere note,
+
+899
+00:52:44,920 --> 00:52:47,520
+ma ce ne sono tante altre.
+
+900
+00:52:47,760 --> 00:52:53,840
+Questa cosa si incrocia anche con l'applicazione per prendere appunti sui PDF.
+
+901
+00:52:53,840 --> 00:52:54,800
+Questo perché?
+
+902
+00:52:54,800 --> 00:52:59,440
+Perché è una cosa interessante, nel senso che voi potreste addirittura fare
+
+903
+00:52:59,680 --> 00:53:03,520
+come ho intenzione di fare io, perché sto sviluppando un modello preciso
+
+904
+00:53:03,520 --> 00:53:08,240
+apposta per questo: un foglio PDF dove ci sono già gli spazi
+
+905
+00:53:08,240 --> 00:53:15,040
+per questa tipologia di notazione, potete creare autonomamente un file PDF dove
+
+906
+00:53:15,360 --> 00:53:18,960
+in alto c'è la data da compilare, il giorno da compilare.
+
+907
+00:53:19,120 --> 00:53:23,280
+Poi avete lo spazio, magari puntinato come piace a me, senza grossi
+
+908
+00:53:23,280 --> 00:53:23,760
+problemi.
+
+909
+00:53:23,760 --> 00:53:28,000
+Voi potete inserire le vostre notazioni, il vostro quadratino, il vostro cerchio,
+
+910
+00:53:28,000 --> 00:53:28,800
+il vostro puntino.
+
+911
+00:53:28,800 --> 00:53:29,360
+Dipende.
+
+912
+00:53:29,360 --> 00:53:32,320
+Io per esempio, un'altra cosa che non ho detto, non ho la
+
+913
+00:53:32,480 --> 00:53:37,120
+notazione classica del bullet journal, ma per esempio utilizzo quasi dei to-do
+
+914
+00:53:37,360 --> 00:53:41,120
+con dei quadratini dove io posso segnare appunto che ho fatto quel
+
+915
+00:53:41,120 --> 00:53:41,680
+task.
+
+916
+00:53:41,920 --> 00:53:44,480
+Un'altra cosa che mi sono dimenticato che mi sta venendo in mente
+
+917
+00:53:44,480 --> 00:53:49,440
+adesso è che la notazione principale era quella del puntino per delle
+
+918
+00:53:49,440 --> 00:53:52,480
+cose da fare, perché poi quando l'avete finito ci mettete sopra una
+
+919
+00:53:52,480 --> 00:53:56,960
+bella X e quindi conseguentemente diventa più semplice da fare, per esempio
+
+920
+00:53:57,040 --> 00:54:00,080
+che il meno, ma io uso il meno perché mi viene comodo,
+
+921
+00:54:00,080 --> 00:54:02,400
+oppure utilizzo il quadratino.
+
+922
+00:54:02,400 --> 00:54:05,360
+Dipende anche dalla giornata, non è che io non sono uno che,
+
+923
+00:54:05,360 --> 00:54:09,120
+mentre si segna le cose, usa delle regole precise.
+
+924
+00:54:09,120 --> 00:54:12,640
+Se vedete poi in giro per internet e tutte le varie cose,
+
+925
+00:54:12,640 --> 00:54:17,360
+vedrete che ci sono proprio delle opere d'arte, sono così ricercate, così
+
+926
+00:54:17,360 --> 00:54:22,400
+belle da vedere, anche semplicemente delle opere veramente da amanuense per scrivere
+
+927
+00:54:22,400 --> 00:54:24,320
+il nome del mese.
+
+928
+00:54:24,320 --> 00:54:27,360
+Sono veramente delle cose incredibili e poi non ci si ferma lì.
+
+929
+00:54:27,360 --> 00:54:29,440
+C'è chi le personalizza facendo dei disegni.
+
+930
+00:54:29,640 --> 00:54:34,200
+Io, per esempio, lavorando nel campo tecnico dove disegno anch'io, tante notazioni
+
+931
+00:54:34,200 --> 00:54:37,400
+non si fermano con la nota, ma lascio uno spazio sulla destra
+
+932
+00:54:37,400 --> 00:54:40,680
+che mi può venire utile per fare quei piccoli disegni, quei piccoli
+
+933
+00:54:40,680 --> 00:54:44,600
+schemi che mi vengono utili nel corso delle notazioni.
+
+934
+00:54:44,600 --> 00:54:48,440
+Questa forma di bullet journal è molto interessante perché è un cerchio
+
+935
+00:54:48,440 --> 00:54:52,840
+chiuso, nel senso che una grande chiarezza mentale per cercare di capire
+
+936
+00:54:52,840 --> 00:54:54,280
+come potrebbe andare l'anno.
+
+937
+00:54:54,280 --> 00:54:57,960
+Poi avete questo montly log per il mese, nel momento in cui
+
+938
+00:54:57,960 --> 00:55:02,600
+voi finite un mese il mese dopo, dovete fare, diciamo, la somma
+
+939
+00:55:02,600 --> 00:55:05,560
+di quello che avete fatto il mese prima, perché magari vi siete
+
+940
+00:55:05,560 --> 00:55:10,200
+appuntati de obiettivi, delle cose da fare che non sono state fatte.
+
+941
+00:55:10,200 --> 00:55:13,800
+Quindi dopo è cominciate a prendere, ok, ragazzi, di tutto il mese
+
+942
+00:55:13,800 --> 00:55:18,600
+scorso, di tutti i miei daily log che mi sono appuntato come
+
+943
+00:55:18,600 --> 00:55:22,280
+bravo amanuense, non come me che vado più o meno a caso
+
+944
+00:55:22,280 --> 00:55:26,680
+e le faccio non proprio bellissime perché sono un po' più pratico.
+
+945
+00:55:26,680 --> 00:55:30,680
+Però, come vedete poi anche dalle varie immagini che troverete su internet,
+
+946
+00:55:30,680 --> 00:55:34,040
+questa forma di ripasso di quello che è stato fatto nel mese
+
+947
+00:55:34,040 --> 00:55:39,480
+precedente aiuta anche a non perdersi i pezzi, perché magari nella vita
+
+948
+00:55:39,480 --> 00:55:43,720
+caotica che abbiamo tutti quanti nella nostra vita questo ripasso di quello
+
+949
+00:55:43,720 --> 00:55:46,680
+che viene fatto questo mese, che è stato tralasciato, che vi siete
+
+950
+00:55:46,680 --> 00:55:49,240
+dimenticati così non mi sfugge niente.
+
+951
+00:55:49,240 --> 00:55:53,640
+Buon Filippo penso che nelle note dell'episodio metterà un po' di link
+
+952
+00:55:53,640 --> 00:55:59,080
+per le varie possibilità, la filosofia e magari qualche pagina di riferimento
+
+953
+00:55:59,160 --> 00:56:01,320
+lo troverete nelle note dell'episodio.
+
+954
+00:56:01,320 --> 00:56:03,560
+Questo è uno dei tanti metodi.
+
+955
+00:56:03,560 --> 00:56:10,600
+Io, per esempio, aggiungo che la questione è un po' più complessificata,
+
+956
+00:56:10,600 --> 00:56:14,200
+ma neanche troppo nel mio punto di vista, perché all'interno del bullet
+
+957
+00:56:14,200 --> 00:56:20,400
+journal che non si potrebbe, secondo la filosofia dritta e chiara del
+
+958
+00:56:14,760 --> 00:56:21,280
+bullet journal non
+
+959
+00:56:21,520 --> 00:56:25,520
+si potrebbe, ma io all'interno del bullet journal ci ficco dentro anche
+
+960
+00:56:25,520 --> 00:56:26,640
+il time blocking.
+
+961
+00:56:26,640 --> 00:56:27,760
+Cos'è il time blocking?
+
+962
+00:56:27,920 --> 00:56:28,720
+Abbiamo già parlato.
+
+963
+00:56:28,720 --> 00:56:35,120
+Sul podcast essenzialmente è dedicare del tempo preciso all'interno della giornata per
+
+964
+00:56:35,120 --> 00:56:39,040
+varie task, nel mio caso è per vari lavori, perché magari all'interno
+
+965
+00:56:39,040 --> 00:56:42,960
+di una giornata devo portare avanti tre lavori, allora decido che il
+
+966
+00:56:42,960 --> 00:56:45,920
+time blocking coincide col pomodoro time.
+
+967
+00:56:45,920 --> 00:56:48,800
+Arrivo in ufficio, magari alle 10, perché la mattina ho dovuto fare
+
+968
+00:56:48,800 --> 00:56:51,280
+una serie di commissioni ho portato i bambini e via discorrendo.
+
+969
+00:56:51,280 --> 00:56:54,400
+So che davanti a me faccio un numero per fare una cosa
+
+970
+00:56:54,400 --> 00:56:56,000
+semplice, ci sono tre ore.
+
+971
+00:56:56,000 --> 00:56:59,840
+Decido di dividere questi tre ore in segmenti da mezz'ora.
+
+972
+00:56:59,840 --> 00:57:01,760
+Quindi ho sei segmenti.
+
+973
+00:57:01,760 --> 00:57:02,880
+Quindi, cosa faccio?
+
+974
+00:57:02,880 --> 00:57:07,600
+Mi faccio una colonnina in fondo alla mia pagina dove mi sto
+
+975
+00:57:07,600 --> 00:57:12,960
+segnando tutto quanto le cose da fare, che divido all'interno di questi
+
+976
+00:57:12,960 --> 00:57:16,240
+blocchi mi segno di fianco a cosa dedicato.
+
+977
+00:57:16,240 --> 00:57:21,120
+Ad esempio, se ho tre lavori, chiaramente posso decidere io normalmente di
+
+978
+00:57:21,120 --> 00:57:25,680
+dedicare a questi tre lavori lo stesso tempo, ma se sono indietro
+
+979
+00:57:25,680 --> 00:57:29,360
+con un lavoro posso anche decidere di dare quattro blocchi a un
+
+980
+00:57:29,360 --> 00:57:33,440
+lavoro e gli altri rimanenti blocchi agli altri due lavori.
+
+981
+00:57:33,440 --> 00:57:38,960
+Quindi riuscite anche a gestirvi mentalmente con le priorità, grazie al time
+
+982
+00:57:38,960 --> 00:57:43,440
+blocking, questa tipologia di lavori che si vanno a sovrapporre.
+
+983
+00:57:43,440 --> 00:57:47,200
+Cosa succede tendenzialmente nella testa di qualsiasi professionista?
+
+984
+00:57:47,200 --> 00:57:50,800
+Ho otto lavori assieme, non so da che parte girarmi, non so
+
+985
+00:57:50,800 --> 00:57:51,600
+quale portare.
+
+986
+00:57:51,760 --> 00:57:56,080
+Do tutto il tempo che posso a quello che mi hanno telefonato,
+
+987
+00:57:56,080 --> 00:57:57,360
+mi hanno detto che è urgente.
+
+988
+00:57:57,360 --> 00:57:59,880
+E se mi arriva la seconda telefonata che mi dice che è
+
+989
+00:57:59,880 --> 00:58:04,280
+urgente, vado in panico, vado in palla e molto probabilmente lascio indietro
+
+990
+00:57:59,520 --> 00:58:05,720
+qualche lavoro per portare avanti quello che è
+
+991
+00:57:59,680 --> 00:58:06,360
+diventato urgente.
+
+992
+00:58:07,080 --> 00:58:11,000
+Questo sistema di time blocking può diventare davvero utile anche per cercare
+
+993
+00:58:11,000 --> 00:58:14,920
+di dedicare il tempo che avete nella giornata, che ricordiamolo a tutti
+
+994
+00:58:14,920 --> 00:58:17,160
+quanti: il tempo della giornata non è infinito.
+
+995
+00:58:17,160 --> 00:58:22,440
+Bisogna darsi delle scadenze e il pomodoro time, incrociato col time blocking,
+
+996
+00:58:22,440 --> 00:58:29,960
+diventa assolutamente molto tagliente perché quando suona capite se state andando a
+
+997
+00:58:29,960 --> 00:58:32,280
+lungo o siete corti.
+
+998
+00:58:32,280 --> 00:58:34,200
+Questa è un'abilità che vi viene dopo.
+
+999
+00:58:34,200 --> 00:58:38,680
+Per esempio, a me ho visto recentemente che riesco a beccarlo circa
+
+1000
+00:58:38,680 --> 00:58:42,360
+10 secondi prima che si metta a suonare so che suona.
+
+1001
+00:58:42,360 --> 00:58:47,000
+Ma un'altra cosa che diventa, secondo me, molto importante dal punto di
+
+1002
+00:58:47,000 --> 00:58:51,320
+vista del professionista è la gestione del tempo.
+
+1003
+00:58:51,320 --> 00:58:56,280
+Come vi dicevo, noi abbiamo un tempo limitato, può capitare che dal
+
+1004
+00:58:56,280 --> 00:59:00,280
+punto di vista del cervello il time blocking aiuta tantissimo perché vi
+
+1005
+00:59:00,280 --> 00:59:01,720
+date una scadenza.
+
+1006
+00:59:01,720 --> 00:59:05,720
+Quante volte vi capita che magari dico ok faccio questo lavoro ma
+
+1007
+00:59:05,720 --> 00:59:09,400
+non so quanto ci metto e vi trovate che magari a metà
+
+1008
+00:59:09,400 --> 00:59:13,560
+della giornata siete a un quarto di che pensate e quindi incomincia
+
+1009
+00:59:13,560 --> 00:59:17,240
+a sballarsi tutta la gestione del lavoro.
+
+1010
+00:59:17,240 --> 00:59:21,560
+Invece, dandovi delle scaden del genere, dici ok, in mezz'ora riesco ad
+
+1011
+00:59:21,560 --> 00:59:25,240
+arrivare a questo punto, si incomincia a fare questo ragionamento mentale, incomincio
+
+1012
+00:59:25,240 --> 00:59:29,000
+a capire che a mezz'ora arrivo a questo punto, però devo arrivare
+
+1013
+00:59:29,000 --> 00:59:31,960
+al doppio di quello che penso di fare in mezz'ora e chiaramente
+
+1014
+00:59:31,960 --> 00:59:33,720
+devo aggiungerci due blocchi.
+
+1015
+00:59:33,720 --> 00:59:38,360
+Perché così riesco a coprire dove devo arrivare e cerco di dedicargli
+
+1016
+00:59:38,360 --> 00:59:39,240
+il tempo giusto.
+
+1017
+00:59:39,240 --> 00:59:42,520
+La cosa migliore, secondo me, è metterci dentro il pomotoro time perché
+
+1018
+00:59:42,520 --> 00:59:47,920
+appunto avete questi 5 minuti di pausa che sembrano tanti, però in
+
+1019
+00:59:47,920 --> 00:59:51,040
+realtà sono veramente pochi tra un passaggio e l'altro, nel senso che
+
+1020
+00:59:51,040 --> 00:59:52,800
+vi sembrano veramente stretti.
+
+1021
+00:59:52,800 --> 00:59:56,480
+Però in quei 5 minuti lì ringrazierete di averlo perché se voi
+
+1022
+00:59:56,480 --> 01:00:00,960
+fate il conto di questi 5 minuti che passate tra un pomodoro
+
+1023
+01:00:00,960 --> 01:00:04,960
+e l'altro, nell'esempio che ho fatto prima delle tre ore, voi avete
+
+1024
+01:00:04,960 --> 01:00:10,000
+essenzialmente 10 minuti ad ora, quindi avete fatto mezz'ora circa di pausa
+
+1025
+01:00:10,240 --> 01:00:12,160
+in modo molto corto.
+
+1026
+01:00:12,160 --> 01:00:16,000
+Io ad esempio ci infilo delle cose da fare molto semplici come
+
+1027
+01:00:16,000 --> 01:00:18,720
+possono per esempio scrivere due righe per l'articolo.
+
+1028
+01:00:18,720 --> 01:00:25,520
+Però capite che cambio modalità di vista, per me non è lavoro,
+
+1029
+01:00:26,480 --> 01:00:31,440
+scrivo un articolo, penso ad altro e quindi mentalmente rimango più scarico.
+
+1030
+01:00:31,440 --> 01:00:34,240
+Posso fare quello o posso anche, che ne so, andarmi a vedere
+
+1031
+01:00:34,240 --> 01:00:35,200
+un video, chi lo sa.
+
+1032
+01:00:35,200 --> 01:00:41,600
+Comunque, diciamo che a me diventa molto interessante riuscire a mettere insieme
+
+1033
+01:00:41,600 --> 01:00:47,040
+il time blocking il bullet journal con la notazione dei file PDF
+
+1034
+01:00:47,040 --> 01:00:49,440
+o le app che permettono di prendere note.
+
+1035
+01:00:49,600 --> 01:00:53,920
+Diciamo che questo qui, secondo me, è la chiusura del cerchio, almeno
+
+1036
+01:00:53,920 --> 01:00:59,040
+dal mio punto di vista, della filosofia che ci sta dietro all'utilizzo
+
+1037
+01:00:59,040 --> 01:01:00,320
+di questi strumenti.
+
+1038
+01:01:00,320 --> 01:01:04,640
+Sì, direi che siamo arrivati al punto giusto, come si suol dire,
+
+1039
+01:01:04,640 --> 01:01:08,480
+e quindi chiudiamo la puntata con questi argomenti.
+
+1040
+01:01:08,800 --> 01:01:12,480
+Quindi do nuovo la parola a Roberto per i saluti finali come
+
+1041
+01:01:12,480 --> 01:01:13,280
+al suo solito.
+
+1042
+01:01:13,280 --> 01:01:19,200
+Per quanto riguarda questa simpatica nota gigante di come fare le note
+
+1043
+01:01:19,360 --> 01:01:22,760
+all'interno del vostro lavoro, sperando di avervi fatto un bel servizio.
+
+1044
+01:01:22,760 --> 01:01:24,720
+Troverete come sempre tutto quanto.
+
+1045
+01:01:24,720 --> 01:01:27,920
+Il link e tutte le spiegazioni degli argomenti che abbiamo trattato in
+
+1046
+01:01:27,920 --> 01:01:34,040
+questa puntata e tutti i nostri riferimenti su aduepodcast.it31 che è la
+
+1047
+01:01:29,920 --> 01:01:36,280
+puntata che abbiamo fatto quest'oggi.
+
+1048
+01:01:36,520 --> 01:01:37,800
+Dove ci potete trovare?
+
+1049
+01:01:37,800 --> 01:01:43,480
+Allora, dunque, come mi piace definirmi Filippo Prezzemolino Roberto perché sono un
+
+1050
+01:01:43,480 --> 01:01:45,800
+po' dappertutto, ma perché do fastidio senza mezzo.
+
+1051
+01:01:45,960 --> 01:01:48,760
+Sono dappertutto e do fastidio perché sono dappertutto mi trovate.
+
+1052
+01:01:48,920 --> 01:01:49,720
+È vero, è vero.
+
+1053
+01:01:49,880 --> 01:01:55,160
+Allora, ho un blog personale che si chiama marcodonnet.wordpress.com che è dedicato
+
+1054
+01:01:55,160 --> 01:01:56,920
+al Mac e architettura.
+
+1055
+01:01:56,920 --> 01:02:01,320
+Non solo, si sta sviluppando anche sul digitale e all'interno sto mettendo
+
+1056
+01:02:01,320 --> 01:02:07,800
+anche gli articoli che sto scrivendo per il blog di Grafisoft Italia
+
+1057
+01:02:07,800 --> 01:02:12,440
+che sono tendenzialmente dedicati al BIM, che è una filosofia che serve
+
+1058
+01:02:12,440 --> 01:02:13,960
+a progettare meglio.
+
+1059
+01:02:13,960 --> 01:02:19,000
+Poi c'è un simpatico podcast che si chiama Snap Architettura Imperfetta.
+
+1060
+01:02:19,000 --> 01:02:22,920
+Che recentemente ha anche ricevuto qualche riconoscimento, non te ne ho ancora
+
+1061
+01:02:22,920 --> 01:02:25,640
+parlato Filippo, te ne parlo poi in separata sede.
+
+1062
+01:02:25,640 --> 01:02:27,480
+Ma sono stato molto contento.
+
+1063
+01:02:27,480 --> 01:02:32,920
+Un podcast molto verticale dedicato agli architetti e alla coevoluzione di quello
+
+1064
+01:02:32,920 --> 01:02:35,960
+che è la professione dell'architetto con la tecnologia.
+
+1065
+01:02:35,960 --> 01:02:40,440
+E come vi dicevo prima, mi trovate anche sul blog di Graffisoft
+
+1066
+01:02:40,440 --> 01:02:44,760
+Italia su Instagram, su LinkedIn, su Twitter e penso che possa bastare
+
+1067
+01:02:44,760 --> 01:02:45,240
+così.
+
+1068
+01:02:45,240 --> 01:02:47,480
+Invece, il nostro amico Filippo, dove lo troviamo?
+
+1069
+01:02:47,480 --> 01:02:52,680
+Avvocati e Mac.it non solo, perché adesso escono le nuove puntate negli scorsi
+
+1070
+01:02:52,680 --> 01:02:57,320
+mesi di Avvocati e Mac Compendium da gennaio, sto uscendo.
+
+1071
+01:02:57,320 --> 01:03:03,240
+Cioè siamo a febbraio mentre registrò, sto uscendo mensilmente, non garantisco che
+
+1072
+01:03:03,240 --> 01:03:07,480
+i due di fila porteranno anche un terzo, ma ci sto provando
+
+1073
+01:03:07,720 --> 01:03:09,560
+e anche qualche webinar.
+
+1074
+01:03:09,720 --> 01:03:13,000
+Non lo dice spesso, però, sta facendo anche questo.
+
+1075
+01:03:13,000 --> 01:03:16,400
+Quindi anche il nostro Filippo, a forza di stare col gobo, sta
+
+1076
+01:03:14,920 --> 01:03:18,640
+incominciando a zoppicare anche lui: il gobo.
+
+1077
+01:03:20,000 --> 01:03:22,960
+Si vede che sei tardi, non ce la faccio più, ragazzi.
+
+1078
+01:03:22,960 --> 01:03:25,920
+Un bacio a tutti, ci sentiamo tra due settimane.
+
+1079
+01:03:25,920 --> 01:03:26,960
+Alla prossima!

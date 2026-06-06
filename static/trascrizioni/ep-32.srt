@@ -1,0 +1,3759 @@
+1
+00:00:00,000 --> 00:00:04,800
+Benvenuti all'episodio 32 di A2 in cui scoprire come ottenere il massimo
+
+2
+00:00:04,800 --> 00:00:06,800
+dalla vostra tecnologia Apple.
+
+3
+00:00:06,800 --> 00:00:11,040
+Io sono Filippo Strozzi e sono il vostro ospite, assieme all'amico Roberto
+
+4
+00:00:11,040 --> 00:00:11,680
+Marin.
+
+5
+00:00:11,680 --> 00:00:13,760
+Di cosa parliamo in questo episodio, Roberto?
+
+6
+00:00:13,760 --> 00:00:17,920
+Dunque, potremmo parlare di qualsiasi cosa visto che abbiamo fatto un intro
+
+7
+00:00:17,920 --> 00:00:23,760
+fuori onda lunghissimo e abbiamo dovuto tagliare, ma rientriamo in puntata perché
+
+8
+00:00:23,760 --> 00:00:26,880
+oggi parleremo delle mail, ma con un taglio più tecnico rispetto alla
+
+9
+00:00:26,880 --> 00:00:27,920
+puntata 29.
+
+10
+00:00:27,920 --> 00:00:33,440
+Infatti, approfondiremo il funzionamento sotto il cofono delle mail, ovvero cos'è IMAP
+
+11
+00:00:33,440 --> 00:00:34,480
+e Pop 3.
+
+12
+00:00:34,480 --> 00:00:38,000
+Immagino che i più giovani pop 3 non sappiano nemmeno cosa sia,
+
+13
+00:00:38,000 --> 00:00:38,800
+ipotizzo.
+
+14
+00:00:38,800 --> 00:00:42,720
+E alcune particolarità dei servizi di posta elettronica più famosi: come rendere
+
+15
+00:00:42,720 --> 00:00:45,920
+più sicure le mail, come salvare le mail sul vostro computer e
+
+16
+00:00:45,920 --> 00:00:49,680
+se ci sarà tempo, ma né dubito, ovviamente, essendo io e Filippo
+
+17
+00:00:49,840 --> 00:00:53,760
+due chiacchieroni, parleremo anche un attimo delle PAC.
+
+18
+00:00:53,840 --> 00:00:57,760
+Ma prima di parlare delle PAC, vi ricordo come potete sostenerci.
+
+19
+00:00:57,760 --> 00:01:03,680
+Come potete sostenerci, cari nostri ascoltatori, potete supportare il podcast semplicemente facendo
+
+20
+00:01:03,680 --> 00:01:05,840
+una bella recensione su Apple Podcast.
+
+21
+00:01:05,840 --> 00:01:09,760
+In questa fase iniziale, tante recensioni ci permetteranno di essere visti da
+
+22
+00:01:09,760 --> 00:01:14,080
+più persone possibili, ma soprattutto di capire come la pensate sul nostro
+
+23
+00:01:14,080 --> 00:01:15,040
+bel podcast.
+
+24
+00:01:15,040 --> 00:01:17,040
+E se non è un bel podcast, ve lo dico io che
+
+25
+00:01:17,040 --> 00:01:18,160
+è un bel podcast.
+
+26
+00:01:18,160 --> 00:01:22,080
+Se volete sapere come fare una recensione, invece troverete il link nei
+
+27
+00:01:22,160 --> 00:01:23,120
+note dell'episodio.
+
+28
+00:01:23,120 --> 00:01:27,200
+Se invece vuoi scriverci due righe anche per dirci Roberto, smettila di
+
+29
+00:01:27,200 --> 00:01:29,120
+parlare, vogliamo sentire solo Filippo.
+
+30
+00:01:29,120 --> 00:01:31,680
+Basta che lo scrivete a scrivi.
+
+31
+00:01:34,880 --> 00:01:35,600
+it.
+
+32
+00:01:35,600 --> 00:01:40,080
+A questo punto direi di lasciare chiaramente la parola al nostro mago
+
+33
+00:01:40,080 --> 00:01:43,040
+delle mail, non saprei come definirlo in modo diverso.
+
+34
+00:01:43,040 --> 00:01:45,600
+Filippo Strozzi di Avvocati e Mac.
+
+35
+00:01:45,600 --> 00:01:47,160
+Allora, mago delle email.
+
+36
+00:01:47,160 --> 00:01:51,520
+Diciamo che le mail sono il strumento che utilizzo quotidianamente.
+
+37
+00:01:51,520 --> 00:01:56,160
+E nel tempo, sia per la mia attività formativa sia per il
+
+38
+00:01:56,160 --> 00:01:59,280
+fatto che appunto adesso se ci sarà tempo, le PEC comunque sono
+
+39
+00:01:59,280 --> 00:02:04,120
+diventate uno strumento abbastanza importante del lavoro e la conservazione anche delle
+
+40
+00:02:04,120 --> 00:02:09,960
+email di fatto, è diventata una parte integrante della mia vita professionale,
+
+41
+00:02:09,960 --> 00:02:15,080
+ho progressivamente approfondito più o meno questo argomento dal punto di vista
+
+42
+00:02:15,080 --> 00:02:20,280
+tecnico, anche perché spesso e volentieri non si sa esattamente come funzionano
+
+43
+00:02:20,280 --> 00:02:26,360
+le email e quindi, a prescindere dall'utilizzare l'email, cioè utilizzare lo strumento,
+
+44
+00:02:26,360 --> 00:02:31,720
+non si sa dietro come funziona, ci andrò giù molto leggero anche
+
+45
+00:02:31,720 --> 00:02:37,240
+perché siamo in un podcast, quindi parlare di cose troppo tecniche non
+
+46
+00:02:37,240 --> 00:02:41,160
+è comodissimo, ma è importante capire alcune cose.
+
+47
+00:02:41,240 --> 00:02:44,920
+Innanzitutto, la cosa che a me lascia sempre basito, tra virgolette, adesso
+
+48
+00:02:45,000 --> 00:02:48,440
+io non so se è un'esperienza che hai avuto anche tu, ma
+
+49
+00:02:48,440 --> 00:02:53,160
+tantissima gente sull'iPhone non ha configurato la propria email.
+
+50
+00:02:53,160 --> 00:02:58,200
+E non perché, come la puntata 29, abbiamo detto che la mail
+
+51
+00:02:58,200 --> 00:03:03,240
+può essere uno strumento disruptive che può cambiare la vita, ma perché
+
+52
+00:03:03,240 --> 00:03:07,960
+può ovviamente danneggiare l'attività di concentrazione e quant'altro.
+
+53
+00:03:08,280 --> 00:03:12,280
+Ma per un motivo molto più banale che, però appunto mi lascia
+
+54
+00:03:12,280 --> 00:03:13,800
+abbastanza perplesso.
+
+55
+00:03:13,800 --> 00:03:16,840
+È fatto che non lo sanno configurare, cioè non sanno inserire i
+
+56
+00:03:16,840 --> 00:03:22,360
+parametri che servono per configurare la mail all'interno di Mail, cioè perché
+
+57
+00:03:22,360 --> 00:03:26,440
+qui ovviamente Apple che è genia, a tutte le sue applicazioni si
+
+58
+00:03:26,440 --> 00:03:28,760
+chiamano come la cosa che fanno.
+
+59
+00:03:28,760 --> 00:03:36,040
+Quindi nel nostro caso specifico, ovviamente dobbiamo le mail, sono l'apposta elettronica.
+
+60
+00:03:36,040 --> 00:03:40,840
+Mail è invece il programma sia per macOS che per iOS, iPad
+
+61
+00:03:41,080 --> 00:03:46,160
+OS di Apple, diciamo, che gestisce quindi la posta elettronica, è sostanzialmente
+
+62
+00:03:44,360 --> 00:03:47,360
+il client di posta elettronica.
+
+63
+00:03:48,560 --> 00:03:55,040
+E già qui introduciamo il primo concetto, le mail sono lato client,
+
+64
+00:03:55,040 --> 00:04:00,720
+cioè lato programma che scarica le email vere e proprie, che ci
+
+65
+00:04:00,720 --> 00:04:02,400
+permette poi di leggere le email.
+
+66
+00:04:02,400 --> 00:04:08,320
+E lato server, cioè c'è un computer nel web sostanzialmente dove le
+
+67
+00:04:08,320 --> 00:04:11,600
+mail vengono ricevute e inviate.
+
+68
+00:04:11,920 --> 00:04:18,400
+E appunto per dialogare tra client e server esistono di fatto due
+
+69
+00:04:18,400 --> 00:04:22,000
+fondamentali protocolli, che sono il pop track che è quello più vecchio.
+
+70
+00:04:22,320 --> 00:04:26,960
+Funziona esattamente come una cassetta della posta concreta.
+
+71
+00:04:26,960 --> 00:04:29,520
+Quindi in estrema sintesi, il postino.
+
+72
+00:04:29,520 --> 00:04:32,480
+Voi andate in posta, spedite la vostra lettera.
+
+73
+00:04:32,480 --> 00:04:37,760
+L'ufficio postale ovviamente lo manda all'ufficio postale di destinazione.
+
+74
+00:04:38,080 --> 00:04:42,880
+Questo al postino che arriva, prende la corrispondenza e ve la mette
+
+75
+00:04:42,880 --> 00:04:44,960
+nella vostra buca delle lettere.
+
+76
+00:04:44,960 --> 00:04:51,360
+In tutto questo sistema, ovviamente, il file, chiamiamolo così, si muove appunto
+
+77
+00:04:51,680 --> 00:04:56,960
+dal client di posta elettronica originaria al server della vostra posta elettronica
+
+78
+00:04:57,040 --> 00:05:03,120
+dove avete appunto l'indirizzo di posta elettronica, lo passa al server dove
+
+79
+00:05:03,120 --> 00:05:08,160
+invece avete il server del destinatario, e a questo punto dal server
+
+80
+00:05:08,320 --> 00:05:15,920
+destinatario viene scaricato l'unica copia, chiamiamola così, sul client invece del destinatario.
+
+81
+00:05:15,920 --> 00:05:19,680
+Quindi in questo caso, proprio c'è il passaggio, chiamiamolo così, fisico, anche
+
+82
+00:05:19,680 --> 00:05:22,560
+se con i dati non è vero, ovviamente.
+
+83
+00:05:22,600 --> 00:05:27,600
+Tuttavia, una volta col pop 3, di fatto, se si scarica la
+
+84
+00:05:27,600 --> 00:05:32,360
+posta e si decide di non lasciarne una copia, diciamo, sul server,
+
+85
+00:05:32,360 --> 00:05:37,240
+il pacchetto email, diciamo che il pacchetto dati dove sono contenute l'email,
+
+86
+00:05:37,240 --> 00:05:40,840
+passa direttamente sul vostro computer e da lì non si può più
+
+87
+00:05:40,840 --> 00:05:41,400
+muovere.
+
+88
+00:05:41,400 --> 00:05:45,320
+Nel momento in cui, per esempio, il computer muore, anche l'email non
+
+89
+00:05:45,320 --> 00:05:50,600
+esiste più, e questo era il vecchio sistema perché abitualmente una persona
+
+90
+00:05:50,600 --> 00:05:55,480
+aveva eventualmente un computer, non ne aveva vari computer o vari dispositivi
+
+91
+00:05:55,480 --> 00:05:56,200
+mobili.
+
+92
+00:05:56,200 --> 00:05:59,400
+Invece, adesso la situazione è molto cambiata.
+
+93
+00:05:59,400 --> 00:06:03,640
+È molto cambiata, e già avendo due soli computer, quindi, per esempio,
+
+94
+00:06:03,640 --> 00:06:06,520
+un computer di casa e un computer dell'ufficio, se io scaricavo la
+
+95
+00:06:06,520 --> 00:06:10,680
+posta in ufficio, non la potevo leggere a casa e viceversa.
+
+96
+00:06:10,680 --> 00:06:14,760
+E quindi mi trovavo nella difficoltà di avere casomai la posta elettronica
+
+97
+00:06:14,760 --> 00:06:16,840
+da una parte e non dall'altra.
+
+98
+00:06:16,840 --> 00:06:20,760
+La soluzione a tutti questi problemi è il protocollo IMAP, che invece
+
+99
+00:06:20,760 --> 00:06:23,560
+funziona a livello centralizzato sostanzialmente.
+
+100
+00:06:23,560 --> 00:06:28,280
+Quindi tutti i dati sono salvati nella vostra casella di posta elettronica
+
+101
+00:06:28,280 --> 00:06:33,960
+che risiede fisicamente, diciamo, su un server e invece il vari client,
+
+102
+00:06:33,960 --> 00:06:39,800
+i vostri vari client, per esempio sull'iPhone, sull'iPad o sul vostro Mac,
+
+103
+00:06:40,040 --> 00:06:45,720
+si collegano e si sincronizzano in questo caso con il server centrale.
+
+104
+00:06:45,720 --> 00:06:50,120
+Quindi il vantaggio grosso dell'IMAP è che una volta che voi avete
+
+105
+00:06:50,120 --> 00:06:54,200
+scaricato la posta sul vostro computer di casa, la potete scaricare anche
+
+106
+00:06:54,200 --> 00:06:57,000
+contemporaneamente sull'iPhone o sull'iPad.
+
+107
+00:06:57,000 --> 00:07:00,840
+E una volta che avete risposto a una mail da casa o
+
+108
+00:07:00,840 --> 00:07:05,560
+dal vostro computer, la trovate anche sull'iPhone, sull'iPad e così via.
+
+109
+00:07:05,560 --> 00:07:09,640
+Quindi, di fatto c'è l'ubiquità della posta elettronica.
+
+110
+00:07:09,640 --> 00:07:14,960
+L'unico problema, diciamo, della vicenda qual è, è che ovviamente, tutti i
+
+111
+00:07:14,960 --> 00:07:18,080
+vostri file sono sul server di posta elettronica.
+
+112
+00:07:14,920 --> 00:07:18,720
+Quindi dovete,
+
+113
+00:07:18,880 --> 00:07:24,640
+soprattutto in questo periodo dove si mandano allegati a Google, dovete avere
+
+114
+00:07:24,640 --> 00:07:31,360
+un sistema di storage, cioè un'archiviazione nel cloud molto impegnativa.
+
+115
+00:07:31,360 --> 00:07:35,440
+Dall'ultima volta che ho guardato, la mia casella che si appoggia a
+
+116
+00:07:35,440 --> 00:07:41,200
+Gmail ha tipo 16 GB di spazio utilizzato di email.
+
+117
+00:07:41,200 --> 00:07:47,600
+E infatti, poi cosa è successo all'inizio, ovviamente almeno a me personalmente
+
+118
+00:07:47,760 --> 00:07:48,560
+è capitato così.
+
+119
+00:07:48,560 --> 00:07:50,480
+All'inizio io sono andato
+
+120
+00:07:51,760 --> 00:07:55,840
+con gli indirizzi di posta elettronica, diciamo, gratuiti, chiamiamoli così.
+
+121
+00:07:55,840 --> 00:08:01,360
+Progressivamente sono invece passato a un indirizzo a pagamento con anche il
+
+122
+00:08:01,360 --> 00:08:04,240
+mio dominio, ovviamente nello studio legale e così via.
+
+123
+00:08:04,240 --> 00:08:08,880
+E sto utilizzando solo quello, anzi, anche A2 Podcast, al suo
+
+124
+00:08:08,960 --> 00:08:14,320
+indirizzo di posta elettronica come avete sentito prima, o meglio, un forward,
+
+125
+00:08:14,400 --> 00:08:17,920
+dirla la verità un forward perché siamo dei braccini, io ho Roberto
+
+126
+00:08:18,160 --> 00:08:22,560
+si appoggia in back-end, si appoggia una Gmail gratuita.
+
+127
+00:08:22,560 --> 00:08:27,840
+Ma abbiamo il forward che significa semplicemente che le email che vengono
+
+128
+00:08:27,840 --> 00:08:33,600
+inviate a scrivi.a@a2podcast.it, vengono girati di fatto
+
+129
+00:08:33,760 --> 00:08:37,200
+a una casella di posta elettronica, che poi possiamo leggere se io
+
+130
+00:08:37,200 --> 00:08:37,840
+che Roberto.
+
+131
+00:08:37,840 --> 00:08:41,840
+Daniele, che è in diretta e risalutiamo anche per dire a tutti
+
+132
+00:08:41,840 --> 00:08:44,240
+quelli che ci ascoltano invece in differita.
+
+133
+00:08:44,240 --> 00:08:50,320
+Che se volete ascoltarci in anteprimo nella totalità, chiamiamola così, dei nostri
+
+134
+00:08:50,320 --> 00:08:55,760
+errori e delle nostre simpatie, diciamo, potete venirci a trovare.
+
+135
+00:08:55,760 --> 00:08:59,000
+Io il consiglio che vi do è iscrivervi al canale di Adobe
+
+136
+00:08:59,040 --> 00:09:03,720
+Podcast su YouTube, dove di fatto ci sono solo le dirette, dove,
+
+137
+00:09:03,720 --> 00:09:08,120
+però, come iscritti al canale riceverete anche le notifiche per vedere le
+
+138
+00:09:08,120 --> 00:09:14,040
+nostre dirette, che abitualmente si tengono comunque il venerdì sera verso le
+
+139
+00:09:14,040 --> 00:09:16,040
+ore 21 più o meno.
+
+140
+00:09:16,040 --> 00:09:18,520
+Oggi siamo partiti solo con 20 minuti di ritardo.
+
+141
+00:09:18,760 --> 00:09:20,280
+I capita che
+
+142
+00:09:21,720 --> 00:09:22,280
+dettagli.
+
+143
+00:09:22,280 --> 00:09:27,560
+Comunque, se ci volete ascoltare in diretta, lo potete fare solitamente ascoltate
+
+144
+00:09:27,560 --> 00:09:30,360
+addirittura con un mese d'anticipo: le puntate.
+
+145
+00:09:30,360 --> 00:09:36,360
+Quindi se volete avere informazioni in anteprima, diciamo che questo è il
+
+146
+00:09:36,360 --> 00:09:40,200
+modo giusto per ascoltarci, ci fa anche piacere perché ci potete fare
+
+147
+00:09:40,200 --> 00:09:44,680
+delle domande venendo dopo questa parentesi clamorosa che come al solito ho
+
+148
+00:09:44,680 --> 00:09:48,600
+fatto anch'io, alla domanda di Daniele: meglio l'IMAP o pop 3?
+
+149
+00:09:48,600 --> 00:09:51,080
+Da buon avvocato, la risposta è dipende.
+
+150
+00:09:51,240 --> 00:09:53,960
+Nel senso che dipende da cosa volete fare,
+
+151
+00:09:55,000 --> 00:09:58,440
+come volete utilizzare la casella di posta elettronica.
+
+152
+00:09:58,440 --> 00:10:04,760
+Sicuramente l'IMAP, secondo me, nell'80-90% dei casi se avete più dispositivi è
+
+153
+00:10:04,760 --> 00:10:05,400
+meglio.
+
+154
+00:10:05,400 --> 00:10:10,840
+Devo dire la verità: adesso forse apro una parentesi ulteriormente complicata, ma
+
+155
+00:10:11,160 --> 00:10:18,040
+nelle mie escursioni linuxiane barra di gestione più intelligente dell'email, devo dire
+
+156
+00:10:18,040 --> 00:10:23,400
+la verità: che una possibilità interessante di utilizzo del Pop 3 è
+
+157
+00:10:23,400 --> 00:10:29,080
+il seguente: cioè avere di fatto appunto un computer che scarica tutte
+
+158
+00:10:29,080 --> 00:10:30,920
+le mail e solo quel computer.
+
+159
+00:10:30,920 --> 00:10:35,400
+E poi invece di avere tutto nel cloud, chiamiamolo così, e dopo
+
+160
+00:10:35,400 --> 00:10:39,720
+parleremo anche dei potenziali rischi, appunto del cloud.
+
+161
+00:10:39,720 --> 00:10:44,840
+In questa maniera voi avete tutto sul vostro computer e proprio perché
+
+162
+00:10:44,840 --> 00:10:48,320
+avere tutto su un computer di fatto è pericoloso.
+
+163
+00:10:48,480 --> 00:10:52,560
+Vi ricordo che abbiamo fatto una bellissima puntata iniziale, credo la 8
+
+164
+00:10:52,720 --> 00:10:53,920
+sui backup.
+
+165
+00:10:53,920 --> 00:10:58,400
+È possibile però sincronizzare i dati che sono su un computer su
+
+166
+00:10:58,400 --> 00:11:02,880
+altri computer e a questo punto avere sostanzialmente su differenti computer i
+
+167
+00:11:02,880 --> 00:11:04,800
+backup della vostra posta elettronica.
+
+168
+00:11:04,800 --> 00:11:12,160
+Questo ovviamente vi garantisce una serie di sicurezze maggiori, anche se diciamolo
+
+169
+00:11:12,160 --> 00:11:15,120
+così un lavoro di fondo maggiore.
+
+170
+00:11:15,120 --> 00:11:18,320
+Quindi il pop 3 in questi casi, secondo me, può essere una
+
+171
+00:11:18,320 --> 00:11:22,800
+cosa interessante perché di fatto non venite monitorati o non potete essere
+
+172
+00:11:22,800 --> 00:11:27,120
+monitorati se non nella posta in transito, soprattutto se il vostro cliente
+
+173
+00:11:27,120 --> 00:11:30,480
+è di posta sul computer fisso, perché in questo caso non ha
+
+174
+00:11:30,480 --> 00:11:34,400
+veramente senso avere un dispositivo mobile, scarica tutto immediatamente.
+
+175
+00:11:34,400 --> 00:11:39,280
+Quindi, di fatto, sul server in cloud la roba passa per pochissimo
+
+176
+00:11:39,280 --> 00:11:39,680
+tempo.
+
+177
+00:11:40,160 --> 00:11:44,560
+Ovviamente il difetto è quello che: se per caso non avete fatto
+
+178
+00:11:44,560 --> 00:11:45,520
+i backup giusti,
+
+179
+00:11:47,280 --> 00:11:51,680
+o volete avere la mail sul cellulare, ecco, questo può diventare un
+
+180
+00:11:51,680 --> 00:11:52,320
+po' più complicato.
+
+181
+00:11:52,400 --> 00:11:52,880
+Esatto.
+
+182
+00:11:52,880 --> 00:11:56,000
+Quando iniziate a pensare ai map, non so voi io inizio a
+
+183
+00:11:56,000 --> 00:12:00,880
+sentire Google che ride continuamente, perché IMAP vuol dire semplicemente che lasciate
+
+184
+00:12:00,880 --> 00:12:03,840
+tutte le vostre mail in mano a Google che se le guardi,
+
+185
+00:12:03,840 --> 00:12:05,840
+controlli, tiri su tutti i dati.
+
+186
+00:12:05,840 --> 00:12:11,520
+Ma questo è un discorso che unisce l'utilità, chiamiamola così, di avere
+
+187
+00:12:11,520 --> 00:12:15,560
+la sincronizzazione tra tutti i vari dispositivi, ma a sentire dall'altra parte,
+
+188
+00:12:15,600 --> 00:12:19,040
+io continuo a sentirlo ridere Google quando parlo di IMAP, ma penso
+
+189
+00:12:19,040 --> 00:12:22,400
+che forse addirittura l'abbia inventato lei, l'ha butto lì.
+
+190
+00:12:23,520 --> 00:12:28,720
+Addirittura Google ha creato un suo standard, non lavora esattamente con l'imap.
+
+191
+00:12:28,720 --> 00:12:31,160
+E infatti, da quello che ne so io, anche se io devo
+
+192
+00:12:31,160 --> 00:12:33,080
+dire la verità, non ho mai avuto.
+
+193
+00:12:33,080 --> 00:12:36,040
+Probabilmente per come utilizzo la mail, non ho mai avuto grossi problemi.
+
+194
+00:12:36,120 --> 00:12:42,280
+Tuttavia, di fatto per un certo periodo Google ha sempre avuto.
+
+195
+00:12:42,280 --> 00:12:46,120
+Diciamo, hanno sempre avuto problemi con mail di Apple.
+
+196
+00:12:46,120 --> 00:12:51,320
+Proprio perché mail utilizza il protocollo IMAP e Gmail non utilizza esattamente
+
+197
+00:12:51,320 --> 00:12:52,520
+il protocollo IMAP.
+
+198
+00:12:52,520 --> 00:12:57,800
+Ma qui andiamo: un aspetto tecnico che ho sentito, ma non ho
+
+199
+00:12:57,800 --> 00:12:58,600
+mai approfondito.
+
+200
+00:12:58,600 --> 00:13:01,640
+Quello che vi voglio segnalare, giusto, proprio su quello che ha detto
+
+201
+00:13:01,640 --> 00:13:08,040
+Roberto: è questo: se avete una Gmail gratuita, Google vi legge le
+
+202
+00:13:08,040 --> 00:13:08,440
+mail.
+
+203
+00:13:08,440 --> 00:13:10,520
+Questo è nero su bianco.
+
+204
+00:13:10,520 --> 00:13:16,600
+Quindi attenzione: solo i clienti business che chiamiamoli così, cioè che pagano,
+
+205
+00:13:16,920 --> 00:13:23,320
+hanno teoricamente la garanzia di avere la mail non guardata.
+
+206
+00:13:23,320 --> 00:13:27,720
+Proprio perché in estrema sintesi, le pubblicità che poi Gmail vi fa
+
+207
+00:13:27,720 --> 00:13:32,760
+vedere sono legate alla corrispondenza che ricevete.
+
+208
+00:13:33,160 --> 00:13:35,080
+È una triste verità.
+
+209
+00:13:35,080 --> 00:13:37,560
+Questa e purtroppo è tutto vero.
+
+210
+00:13:37,560 --> 00:13:39,880
+Ragazze lo sapete, questo è quanto.
+
+211
+00:13:39,880 --> 00:13:43,400
+Ma immagino che volevo un attimo collegarmi a quello che ha detto
+
+212
+00:13:43,400 --> 00:13:49,400
+all'inizio, alle difficoltà di impostare mail su iPhone o su Mac, perché
+
+213
+00:13:49,560 --> 00:13:53,880
+volevo soltegnalare che chi utilizza Google mi pare che ci sia una
+
+214
+00:13:53,880 --> 00:14:00,280
+procedura praticamente guidata a costo di spesa di cervello uguale a zero,
+
+215
+00:14:00,280 --> 00:14:04,120
+dove praticamente vi portano dritti dritti a collegare la vostra casella di
+
+216
+00:14:04,200 --> 00:14:09,720
+posta elettronica Gmail senza colpo ferire, forse addirittura senza inserire nessun tipo
+
+217
+00:14:09,720 --> 00:14:10,280
+di dato.
+
+218
+00:14:10,360 --> 00:14:16,000
+Sì, Apple è abbastanza brava in questo, l'unica particolarità anche qui sempre
+
+219
+00:14:16,000 --> 00:14:21,680
+di Google che oggettivamente il Gmail è di fatto credo l'email più
+
+220
+00:14:21,680 --> 00:14:25,600
+utilizzata sulla faccia della Terra, almeno nel mondo occidentale.
+
+221
+00:14:25,600 --> 00:14:26,720
+Mettiamola così.
+
+222
+00:14:26,720 --> 00:14:31,280
+Google è molto attento a queste cose e quindi adesso è impossibile
+
+223
+00:14:31,280 --> 00:14:38,000
+utilizzare il sistema che abitualmente si utilizza per l'IMAP, ma richiede automaticamente
+
+224
+00:14:38,000 --> 00:14:42,400
+più o meno un token barra un'autenticazione a due fattori.
+
+225
+00:14:42,400 --> 00:14:44,000
+Quindi passo indietro, giusto?
+
+226
+00:14:44,000 --> 00:14:46,400
+Solo per darvi un'idea per come è possibile.
+
+227
+00:14:46,400 --> 00:14:51,200
+Ovviamente qui non riusciamo a spiegarvi passo passo come configurare la vostra
+
+228
+00:14:51,200 --> 00:14:52,400
+mail dappertutto.
+
+229
+00:14:52,400 --> 00:14:53,360
+È impossibile.
+
+230
+00:14:53,360 --> 00:14:57,840
+Vi diamo delle idee di base, giusto per almeno capire cosa dovete
+
+231
+00:14:57,840 --> 00:14:58,240
+fare.
+
+232
+00:14:58,480 --> 00:15:03,760
+Come vi dicevo, c'è un server che riceve mail e manda email.
+
+233
+00:15:03,760 --> 00:15:05,600
+Sono due protocolli diversi.
+
+234
+00:15:05,760 --> 00:15:10,560
+Infatti, se utilizzate l'imp c'è un protocollo appunto IMAP di gestione delle
+
+235
+00:15:10,720 --> 00:15:14,000
+mail, quindi di sincronizzazione dell'email col vostro server.
+
+236
+00:15:14,000 --> 00:15:23,520
+E dovete informarvi sostanzialmente dell'indirizzo IP dell'url, sostanzialmente del vostro provider di
+
+237
+00:15:23,520 --> 00:15:24,400
+email.
+
+238
+00:15:24,720 --> 00:15:29,520
+Nel caso di Google non me lo ricordo più, deve essere imap.google.com,
+
+239
+00:15:29,520 --> 00:15:30,880
+una roba del genere.
+
+240
+00:15:30,880 --> 00:15:34,480
+Ma comunque basta fare una ricerca su Google o se siete più
+
+241
+00:15:34,480 --> 00:15:40,080
+bravi su Dach Duck Go e trovate praticamente gli Imap di tutti
+
+242
+00:15:40,080 --> 00:15:45,360
+i provider presenti nel mondo e tutti i provider hanno comunque una
+
+243
+00:15:45,360 --> 00:15:51,120
+pagina dove spiegano come configurare addirittura i singoli clienti in posta elettronica.
+
+244
+00:15:51,120 --> 00:15:57,840
+Quindi iPhone piuttosto che iPad piuttosto che Mac, Outlook e così via.
+
+245
+00:15:57,840 --> 00:16:01,640
+Tranne Aruba perché io ho avuto un piccolo problema.
+
+246
+00:16:01,800 --> 00:16:07,000
+Proprio recentemente dove mi hanno collegato una nuova casella di posta elettronica
+
+247
+00:16:07,000 --> 00:16:09,960
+che serve per un certo tipo di lavoro e ho provato a
+
+248
+00:16:09,960 --> 00:16:14,200
+configurarla su mail nonostante le spiegazioni di Aruba e niente, non c'è
+
+249
+00:16:14,360 --> 00:16:16,680
+modo di fargliela vedere nessun tipo.
+
+250
+00:16:16,680 --> 00:16:19,400
+Adesso proverò un po' più di calma, magari l'ho fatto io in
+
+251
+00:16:19,400 --> 00:16:20,200
+fretta.
+
+252
+00:16:20,200 --> 00:16:24,680
+Posso consigliare tendenzialmente come aveva accennato giustamente prima Filippo.
+
+253
+00:16:24,680 --> 00:16:28,760
+Visto che Gmail gli piace farsi i fatti nostri, se volete anche
+
+254
+00:16:28,760 --> 00:16:33,560
+fare un forward, ovvero fare in modo che il signor Gmail si
+
+255
+00:16:33,560 --> 00:16:38,520
+prenda in carico di scaricare le vostre mail da qualsiasi altro provider,
+
+256
+00:16:38,520 --> 00:16:41,800
+c'è la possibilità, adesso non ve lo spiegheremo qua, lo trovate anche
+
+257
+00:16:41,800 --> 00:16:43,080
+facilmente in rete.
+
+258
+00:16:43,160 --> 00:16:45,880
+Quello potrebbe essere un escamotage che mi è venuto in mente a
+
+259
+00:16:45,880 --> 00:16:47,880
+proposito di questo problema con Arba.
+
+260
+00:16:47,960 --> 00:16:50,680
+Se voi avete un problema con un provider, non ve lo legge
+
+261
+00:16:50,680 --> 00:16:54,440
+in qualche modo, fate un forward e salute baci e ce lo
+
+262
+00:16:54,440 --> 00:16:55,480
+salutiamo.
+
+263
+00:16:55,480 --> 00:16:58,840
+E invece volevo ancora una cosa su Gmail.
+
+264
+00:16:58,840 --> 00:17:02,840
+Ogni tanto ve lo dico così spassionatamente, andate a liberare la casella
+
+265
+00:17:02,840 --> 00:17:03,880
+di posta elettronica.
+
+266
+00:17:03,880 --> 00:17:07,640
+Perché io, per esempio, sono nato un paio d'anni fa, io ero
+
+267
+00:17:07,640 --> 00:17:10,200
+convinto che non ci fosse tutta quella roba lì.
+
+268
+00:17:10,200 --> 00:17:12,040
+C'era ma del 2008.
+
+269
+00:17:12,040 --> 00:17:15,320
+Cioè, ci sono ma del 2008, io ho dovuto prendere e cominciare
+
+270
+00:17:15,320 --> 00:17:19,720
+a sezionare dal più o meno dal 2008 ho scelto il 2015,
+
+271
+00:17:19,720 --> 00:17:23,720
+dal 2015 a prima cancella tutto e non ne voglio più vedere.
+
+272
+00:17:23,720 --> 00:17:28,440
+E ragazzi, lì spazio se ne fa appaccate però state attenti perché
+
+273
+00:17:28,440 --> 00:17:31,720
+nel momento in cui manca spazio, ragazzi, cominciano ad iniziare a esserci
+
+274
+00:17:31,760 --> 00:17:32,200
+i problemi.
+
+275
+00:17:32,200 --> 00:17:36,680
+Perché comunque mi pare che fossero 15 giga, quelli disponibili da Gmail
+
+276
+00:17:36,680 --> 00:17:37,560
+che diano.
+
+277
+00:17:37,560 --> 00:17:39,000
+Vado così a memoria.
+
+278
+00:17:39,000 --> 00:17:42,600
+Controllate, sì, adesso io vedo il taglio a pagamento, non me lo
+
+279
+00:17:42,600 --> 00:17:43,360
+ricordo, devo dirlo.
+
+280
+00:17:43,480 --> 00:17:50,080
+Comunque c'altra cosa fondamentale, riprendendo la domanda di Daniele e agganciandomi a
+
+281
+00:17:50,080 --> 00:17:57,920
+quella di Roberto, attenzione, nel senso che l'imap sincronizza i dati quindi,
+
+282
+00:17:57,920 --> 00:18:02,640
+se non cancellate le mail, non solo vi riempite la posta elettronica
+
+283
+00:18:02,640 --> 00:18:07,600
+sul server, ma se avete un hard disk non enorme o comunque
+
+284
+00:18:07,600 --> 00:18:12,400
+avete una casella di posta elettronica enorme, andate a riempire di posta
+
+285
+00:18:12,400 --> 00:18:15,680
+elettronica il vostro computer, il vostro iPhone e così via.
+
+286
+00:18:15,680 --> 00:18:20,560
+Io, per esempio, anticipo una cosa, ma utilizzo Irmail come client di
+
+287
+00:18:20,560 --> 00:18:24,320
+posta elettronica Sensu Mac che è su iOS iPad.
+
+288
+00:18:24,320 --> 00:18:28,960
+E una delle funzioni, diciamo che amo di Irmail è quella che
+
+289
+00:18:28,960 --> 00:18:34,320
+mi permette di sincronizzare nella casella IMAP solo gli ultimi mesi di
+
+290
+00:18:34,480 --> 00:18:36,720
+corrispondenza e non l'infinito.
+
+291
+00:18:36,720 --> 00:18:37,680
+E oltre.
+
+292
+00:18:37,680 --> 00:18:43,200
+Ah, ecco, ricordatevi non solo quella ricevuta, ma anche quella inviata.
+
+293
+00:18:43,200 --> 00:18:47,840
+Quindi occhio è che ne avete almeno due caselle da controllare, due
+
+294
+00:18:48,000 --> 00:18:51,840
+cartelline da controllare, ma colentarle molto bene.
+
+295
+00:18:51,840 --> 00:18:58,080
+Per cui attenzione, perché veramente può essere un problema grosso sull'IMAP, soprattutto
+
+296
+00:18:58,080 --> 00:19:02,480
+se, come tantissime persone fanno, da tempo ne parleremo.
+
+297
+00:19:02,480 --> 00:19:08,000
+Oltretutto, inviate grossi allegati via email, l'email non nasce per gli allegati.
+
+298
+00:19:08,000 --> 00:19:10,720
+Apro e chiudo una parentesi, poi vi spiegherò a modo un po'
+
+299
+00:19:10,720 --> 00:19:14,720
+meglio dopo tra altre cose come funziona tutto questo sistema.
+
+300
+00:19:15,040 --> 00:19:20,320
+Abbiamo visto, c'è un server che manda che fa la sincronizzazione, chiamiamola
+
+301
+00:19:20,320 --> 00:19:22,160
+così, e ti gestisce le mail.
+
+302
+00:19:22,160 --> 00:19:26,720
+E poi c'è il server cosiddetto SMTP che è un altro server
+
+303
+00:19:26,720 --> 00:19:29,760
+che a sua volta va configurato, che è il server di invio
+
+304
+00:19:29,920 --> 00:19:31,320
+della posta elettronica.
+
+305
+00:19:31,640 --> 00:19:35,320
+Una cosa particolare che forse non tutti sanno è che di fatto,
+
+306
+00:19:35,320 --> 00:19:40,520
+in base anche alla tipologia del vostro server sostanzialmente, voi potete inviare
+
+307
+00:19:40,520 --> 00:19:43,720
+una mail fuori, diciamo, mandare fuori un'email.
+
+308
+00:19:43,720 --> 00:19:47,240
+La mail, per esempio, di libero la potreste, vabbè, libero è particolare,
+
+309
+00:19:47,240 --> 00:19:51,080
+ma comunque la mail di libero, facciamo anche lì l'esempio: la mail
+
+310
+00:19:51,080 --> 00:19:56,200
+di libero la potreste mandare con il server SMTP di Gmail, per
+
+311
+00:19:56,200 --> 00:19:56,840
+esempio.
+
+312
+00:19:56,840 --> 00:20:01,640
+Quindi si possono fare anche tutti questi arzigogoli che però complicano inutilmente
+
+313
+00:20:01,640 --> 00:20:02,280
+la vita.
+
+314
+00:20:02,280 --> 00:20:05,800
+Apro e chiudo una parentesi su Libero dicendovi due cose.
+
+315
+00:20:06,040 --> 00:20:09,480
+Cancellate il vostro account di libero.
+
+316
+00:20:09,480 --> 00:20:14,200
+Non me ne voglia libero, ma di fatto libero colla Brodo a
+
+317
+00:20:14,200 --> 00:20:19,080
+livello di difese e di gestione, sono state hackerate milioni di volte
+
+318
+00:20:19,080 --> 00:20:23,400
+un'intalata di email su Libero che anche lì è una casella di
+
+319
+00:20:23,400 --> 00:20:26,200
+posta elettronica gratuita sostanzialmente.
+
+320
+00:20:26,520 --> 00:20:32,040
+Da lì partono le catene di Sant'Antonio perché spesso e volentieri cosa
+
+321
+00:20:32,040 --> 00:20:32,920
+succede?
+
+322
+00:20:32,920 --> 00:20:38,760
+Una volta che sono entrati dentro queste caselle di posta elettronica, recuperano
+
+323
+00:20:38,760 --> 00:20:43,560
+tutti i mittenti destinatari nella casella, cioè che sono comunque all'interno di
+
+324
+00:20:43,560 --> 00:20:45,400
+questa casella, e utilizzano.
+
+325
+00:20:45,560 --> 00:20:49,400
+Lo vedremo dopo nella parte di come difendersi, tra virgolette, utilizzano queste
+
+326
+00:20:49,400 --> 00:20:53,240
+email per mandare spam e altre cose poco piacevoli.
+
+327
+00:20:53,240 --> 00:20:56,520
+Se voi avete avuto una corrispondenza con qualcuno che ha libero.
+
+328
+00:20:56,520 --> 00:21:01,080
+Nell'80-90% vi arriverà della spazzatura.
+
+329
+00:21:01,080 --> 00:21:06,360
+Nella migliore delle ipotesi sono spam, nella peggiore delle ipotesi sono ransomware,
+
+330
+00:21:06,360 --> 00:21:11,320
+phishing e altre cose poco piacevoli che vengono fatte attraverso le email.
+
+331
+00:21:11,320 --> 00:21:16,960
+Quindi attenzione a queste cose, in particolare, Libero era veramente il top,
+
+332
+00:21:16,960 --> 00:21:20,000
+nel senso che per far funzionare la casella di Libero, che era
+
+333
+00:21:20,000 --> 00:21:22,880
+gratuita all'epoca e credo tuttora sia gratuita.
+
+334
+00:21:23,520 --> 00:21:28,960
+Dovevi fare degli arzgogoli incredibili proprio perché Libero, in estrema sintesi, voleva
+
+335
+00:21:28,960 --> 00:21:35,040
+che tu ti collegassi esclusivamente col suo server e esclusivamente attraverso determinate
+
+336
+00:21:35,040 --> 00:21:35,680
+modalità.
+
+337
+00:21:35,680 --> 00:21:39,120
+Quindi poi c'erano tutta una serie di trucchi per estrapolare i dati
+
+338
+00:21:39,120 --> 00:21:40,640
+delle mail, non stante la libera.
+
+339
+00:21:40,720 --> 00:21:44,480
+I me lo ricordo perché lo facevo tanto tanto tempo fa, per
+
+340
+00:21:44,480 --> 00:21:46,640
+mia sorella, credo, che ha avuto per tante.
+
+341
+00:21:46,800 --> 00:21:51,280
+Io mi ricordo, una casella di posta elettronica del 99 con libero.
+
+342
+00:21:52,080 --> 00:21:52,880
+Parliamo veramente di.
+
+343
+00:21:53,040 --> 00:21:55,680
+Credo di aver avuto anche una casella di con infinito.
+
+344
+00:21:56,720 --> 00:22:03,280
+Perché poi dopo, all'inizio, veramente era una cosa dove andavi dal miglior
+
+345
+00:22:03,280 --> 00:22:05,840
+offerente che ti dava qualcosina in più.
+
+346
+00:22:06,400 --> 00:22:10,960
+Credo che oltre a Gmail, fosse Yahoo, quello che ti dava spazio
+
+347
+00:22:10,960 --> 00:22:14,800
+infinito, una roba del giro, e quindi anch'io, per esempio, una casella
+
+348
+00:22:14,800 --> 00:22:20,320
+di posta elettronica di Yahoo che ogni volta dico la dismetto,
+
+349
+00:22:21,840 --> 00:22:23,520
+poi dopo devo dire la verità.
+
+350
+00:22:23,520 --> 00:22:25,920
+La pigrizia, fa queste l'altra.
+
+351
+00:22:26,320 --> 00:22:30,320
+Daniele sottolinea oltre al discorso di evitare di mandarsi in giro gli
+
+352
+00:22:30,320 --> 00:22:34,640
+allegati, cioè di allegare la roba attraverso le mail, evitare anche di
+
+353
+00:22:34,640 --> 00:22:39,280
+utilizzare la mail come un archivio, perché di fatto non è un
+
+354
+00:22:39,280 --> 00:22:44,480
+archivio di documenti, ma eventualmente un archivio di corrispondenza, che è una
+
+355
+00:22:44,480 --> 00:22:45,440
+cosa diversa.
+
+356
+00:22:45,760 --> 00:22:52,480
+Adesso vedremo appunto come è possibile archiviare la corrispondenza, garantendosi anche una
+
+357
+00:22:52,480 --> 00:22:55,360
+vita, tra virgolette, decente, mettiamola così.
+
+358
+00:22:55,600 --> 00:22:57,920
+Mi ha fatto ridere perché anch'io io.
+
+359
+00:22:57,920 --> 00:23:03,640
+Io veramente tendo a odiarle tutte le mail dalla prima all'ultima, comunque
+
+360
+00:22:59,920 --> 00:23:05,880
+andiamo avanti, vita decente.
+
+361
+00:23:06,040 --> 00:23:09,720
+Insomma, veramente quelli che mi fanno impazzire sono quelli che ti mettono
+
+362
+00:23:09,720 --> 00:23:15,240
+in coppia carbone per qualsiasi menata che solo perché forse passavi di
+
+363
+00:23:15,240 --> 00:23:18,360
+lì ti mettono in coppia carbone, ma lascia perdere.
+
+364
+00:23:19,800 --> 00:23:25,880
+L'ultima cosa agghiacciante a cui ho assistito è stata una corrispondenza email
+
+365
+00:23:26,200 --> 00:23:30,200
+del mio ordine dove io non c'entravo veramente niente.
+
+366
+00:23:30,200 --> 00:23:33,880
+Ma dico niente ho messo a conoscenza per farlo sapere.
+
+367
+00:23:33,960 --> 00:23:39,080
+No, aspetta, probabilmente mi dovevano escludere, cioè, diciamo, mi sono fatti i
+
+368
+00:23:39,080 --> 00:23:43,640
+fatti degli altri che discutevano tra le altre cose, tra di loro,
+
+369
+00:23:43,640 --> 00:23:48,680
+e io ho tutto in coppia, che io leggevo, rabbrivedivo e dicevo:
+
+370
+00:23:48,680 --> 00:23:52,840
+Ma scusate, ma a prescindere da tutto, con gente che non è
+
+371
+00:23:53,000 --> 00:23:56,520
+che non me ne ho neanche accorto che mi avessero messo in
+
+372
+00:23:56,520 --> 00:24:00,280
+coppia tra virgolette, infatti, altra cosa fondamentale.
+
+373
+00:24:00,280 --> 00:24:04,360
+Guardate, se adesso molti programmi per rendere molti programmi di posta elettronico
+
+374
+00:24:04,520 --> 00:24:09,880
+per rendere più semplice diciamo l'email, nascondono in parte da Filippo a
+
+375
+00:24:09,880 --> 00:24:14,280
+Roberto, ma se ci fosse anche in CC ad Alex o a
+
+376
+00:24:14,280 --> 00:24:15,320
+Daniele, esatto.
+
+377
+00:24:15,320 --> 00:24:20,760
+Spesso e volentieri se non vai ad aprire il contenuto del te
+
+378
+00:24:20,760 --> 00:24:21,480
+lo fa vedere.
+
+379
+00:24:21,480 --> 00:24:25,640
+Quindi attenzione, anche, perché poi se tu, senza pensarci, fai rispondere a
+
+380
+00:24:25,640 --> 00:24:29,720
+tutti, inizia a crearsi situazioni, oppure dici?
+
+381
+00:24:29,720 --> 00:24:34,120
+Mi raccomando, non ditelo ad Alex che il lotto ci sarà solo
+
+382
+00:24:34,120 --> 00:24:35,880
+lui a guardare il keynote.
+
+383
+00:24:36,040 --> 00:24:40,840
+Si creano situazioni poco piacevoli, mettiamola così, e comunque non è una
+
+384
+00:24:40,840 --> 00:24:41,720
+buona prassi.
+
+385
+00:24:42,120 --> 00:24:47,760
+L'altra, visto che di fatto abbiamo parlato di Gmail, l'altro candidato
+
+386
+00:24:48,400 --> 00:24:50,480
+per una mail è i cloud.
+
+387
+00:24:44,920 --> 00:24:51,840
+I cloud è particolare.
+
+388
+00:24:52,080 --> 00:24:56,000
+Adesso non entrerò troppo nel dettaglio, ma soprattutto se si ha il
+
+389
+00:24:56,000 --> 00:24:57,200
+taglio a pagamento.
+
+390
+00:24:57,200 --> 00:25:00,720
+ICloud di fatto non è a pagamento, ma se si hanno i
+
+391
+00:25:00,720 --> 00:25:07,120
+servizi di iCloud, quindi lo spazio tendenzialmente, si hanno tutta una serie
+
+392
+00:25:07,120 --> 00:25:12,880
+di nuovi servizi dall'ultimo sistema operativo che effettivamente sono molto interessanti e
+
+393
+00:25:13,040 --> 00:25:16,400
+vi permettono di fare veramente tante cosette carine.
+
+394
+00:25:16,400 --> 00:25:20,000
+Anche se anche lì Apple, come al solito, lancia il sasso ma
+
+395
+00:25:20,000 --> 00:25:25,200
+poi dopo non approfondisce il servizio, nel senso, non esiste, diciamo, la
+
+396
+00:25:25,200 --> 00:25:31,760
+possibilità di creare in senso pratico, ovviamente Apple non fornisce il domini
+
+397
+00:25:32,000 --> 00:25:32,800
+e così via.
+
+398
+00:25:32,800 --> 00:25:37,600
+Quindi non posso crearmi una posta personalizzata se non con i cloud,
+
+399
+00:25:37,600 --> 00:25:39,760
+cioè con il suffisso i cloud.com.
+
+400
+00:25:39,760 --> 00:25:44,640
+Però proprio con questi nuovi sistemi io posso associare il mio dominio
+
+401
+00:25:44,960 --> 00:25:49,360
+a massimo tre caselle di posta elettronica i cloud, è anche lì
+
+402
+00:25:49,360 --> 00:25:51,600
+che non ha veramente senso come cosa.
+
+403
+00:25:51,600 --> 00:25:55,840
+Quindi posso personalizzarla, ma non la posso fare in maniera veramente professionale.
+
+404
+00:25:55,840 --> 00:25:57,200
+Non so se mi spiego.
+
+405
+00:25:57,200 --> 00:26:00,720
+E c'è da dire che i cloud proprio perché nasce con l'approccio
+
+406
+00:26:00,720 --> 00:26:04,640
+di Apple e quindi con un approccio maggiore alla privacy, poi io
+
+407
+00:26:04,640 --> 00:26:06,240
+vi continuo a ripetere.
+
+408
+00:26:06,240 --> 00:26:12,080
+Se dovete gestire della corrispondenza sicura, l'email non lo è.
+
+409
+00:26:12,080 --> 00:26:13,920
+Punto a capo e stop.
+
+410
+00:26:14,640 --> 00:26:18,960
+Se dovete mandare delle robe confidenziali, non fatelo via e mail, se
+
+411
+00:26:18,960 --> 00:26:24,880
+lo fate, fatelo in maniera sufficientemente complessa: cioè cifrate i dati che
+
+412
+00:26:24,880 --> 00:26:25,360
+passate.
+
+413
+00:26:26,080 --> 00:26:28,800
+Fate andare, la mail deve essere cifrata e così via.
+
+414
+00:26:28,800 --> 00:26:33,560
+Oggi non ne parleremo minimamente di questo argomento che meriterebbe addirittura una
+
+415
+00:26:33,560 --> 00:26:37,720
+puntata a parte, e di cui io, peraltro, non sono esperto, perché
+
+416
+00:26:37,720 --> 00:26:40,440
+io non ho mai mandato una mail cifrata in giro.
+
+417
+00:26:40,440 --> 00:26:45,240
+Però attenzione proprio a questo: la mail è il posto meno sicuro
+
+418
+00:26:45,240 --> 00:26:47,400
+in cui far girare dei documenti.
+
+419
+00:26:47,480 --> 00:26:49,240
+Meglio usare i pizzini,
+
+420
+00:26:50,360 --> 00:26:51,800
+sì, esatto.
+
+421
+00:26:52,600 --> 00:26:57,320
+Gente che deve farlo per lavoro, sì, esatto, in maniera professionale, appunto
+
+422
+00:26:57,480 --> 00:26:59,480
+utilizza altri strumenti.
+
+423
+00:27:00,280 --> 00:27:04,280
+Fatevi una domanda e datevi anche la diretta risposta.
+
+424
+00:27:04,280 --> 00:27:07,960
+Per cui iCloud comunque offre tutta una serie di servizi anche molto
+
+425
+00:27:07,960 --> 00:27:12,360
+interessanti, tra cui appunto mail finte, nel senso che potete dare una
+
+426
+00:27:12,360 --> 00:27:15,160
+mail che non è la vostra vera mail, per evitare di ricevere
+
+427
+00:27:15,320 --> 00:27:17,640
+poi spam a stretto giro.
+
+428
+00:27:17,640 --> 00:27:21,480
+Una cosa che vi segnalo, visto che ho scritto recentemente un articolo,
+
+429
+00:27:21,480 --> 00:27:23,400
+è una serie di servizi.
+
+430
+00:27:23,400 --> 00:27:26,440
+Io ho fatto un articolo sul servizio che sto utilizzando che è
+
+431
+00:27:26,440 --> 00:27:27,880
+open source e gratuito.
+
+432
+00:27:27,880 --> 00:27:33,560
+Tra l'altro, cioè, o meglio, potete fare donazioni all'amabile sviluppatore che ha
+
+433
+00:27:33,560 --> 00:27:39,800
+creato questo sistema, che si chiama Kill The Mail, Kill the Newsletter
+
+434
+00:27:40,200 --> 00:27:41,000
+mitico.
+
+435
+00:27:41,000 --> 00:27:44,600
+Lo trovate proprio a kill the newsletter.com, devo.
+
+436
+00:27:45,160 --> 00:27:47,320
+Non mi ricordo il punto, non me lo ricordo.
+
+437
+00:27:47,320 --> 00:27:51,000
+Comunque il mio ultimo articolo su Avvocati e Mac e che vi
+
+438
+00:27:51,000 --> 00:27:53,880
+permette sostanzialmente di avere un indirizzo email
+
+439
+00:27:55,160 --> 00:27:57,320
+per iscrivervi alle newsletter.
+
+440
+00:27:57,320 --> 00:28:03,400
+Non solo questo indirizzo email farlocco, poi genera un feed RSS e
+
+441
+00:28:03,400 --> 00:28:08,120
+quindi voi vi potete leggere comodamente in un lettore di feed RRS
+
+442
+00:28:08,360 --> 00:28:14,520
+sul vostro dispositivo di fiducia, le newsletter, senza però ricevere email fastidiose.
+
+443
+00:28:14,640 --> 00:28:19,280
+Vi faccio una domanda: per curiosità, tu ti sei cancellato dalla newsletter
+
+444
+00:28:19,280 --> 00:28:23,600
+con il tuo indirizzo email originale nel momento in hai utilizzato quello
+
+445
+00:28:23,600 --> 00:28:24,400
+farlocco?
+
+446
+00:28:24,400 --> 00:28:28,480
+Allora, no, attualmente io sono iscritto a veramente poche newsletter.
+
+447
+00:28:28,480 --> 00:28:30,000
+Apro qui una parentesi.
+
+448
+00:28:30,000 --> 00:28:33,360
+Per le newsletter di fatto ho una casella di posta elettronica che
+
+449
+00:28:33,360 --> 00:28:38,720
+ormai di resulta mettiamola così: diciamo per le poche vecchie newsletter le
+
+450
+00:28:38,720 --> 00:28:39,760
+ho mantenute così.
+
+451
+00:28:39,760 --> 00:28:43,680
+Le nuove, cioè quelle che voglio testare, invece, sto utilizzando questo sistema,
+
+452
+00:28:43,840 --> 00:28:46,640
+sono molto contento, devo dire la verità.
+
+453
+00:28:46,640 --> 00:28:50,480
+Anche perché qui non ne abbiamo mai parlato, anche qui di un'ulteriore
+
+454
+00:28:50,480 --> 00:28:55,840
+parentesi nella parentesi, ma sono diventato un utilizzatore dei lettori news tra
+
+455
+00:28:55,840 --> 00:29:01,360
+virgolette, attraverso i fide RSS, e di fatto quello che leggo viene
+
+456
+00:29:01,360 --> 00:29:01,920
+da lì.
+
+457
+00:29:02,240 --> 00:29:03,760
+Anch'io quale usi?
+
+458
+00:29:03,840 --> 00:29:06,720
+Net news, ho capito qua.
+
+459
+00:29:06,720 --> 00:29:10,480
+Ce l'ho sull'iPad e quindi adesso non riesco a tirarlo fuori sostanzialmente.
+
+460
+00:29:10,480 --> 00:29:14,960
+Ne ho parlato nella mia newsletter a cui dico la gente: potete
+
+461
+00:29:14,960 --> 00:29:18,160
+scrivere la mia newsletter utilizzando Kill the newsletter.
+
+462
+00:29:18,640 --> 00:29:21,760
+Infatti, è una cosa che gli ho fatto subito notare a Filippo
+
+463
+00:29:21,920 --> 00:29:24,080
+quando mi ha mandato in preview la questione.
+
+464
+00:29:24,160 --> 00:29:27,760
+Ho detto guarda, che non so sei tanto sano, comunque è un
+
+465
+00:29:27,760 --> 00:29:28,640
+bel articolo.
+
+466
+00:29:28,640 --> 00:29:33,280
+Ma allora anche lì il solito discorso, cioè dipende cosa ci vuoi
+
+467
+00:29:33,280 --> 00:29:34,240
+fare con la newsletter.
+
+468
+00:29:34,240 --> 00:29:39,200
+La newsletter, almeno la mia, è un modo di convogliare informazioni a
+
+469
+00:29:39,200 --> 00:29:40,640
+gente che è interessata.
+
+470
+00:29:40,640 --> 00:29:43,760
+Sinceramente, che tu sia iscritto, o meno alla mia newsletter a me
+
+471
+00:29:43,760 --> 00:29:45,440
+interessa fino a mezzogiorno.
+
+472
+00:29:45,440 --> 00:29:50,640
+Scrivo una volta al mese, quindi se riesco, per cui c'è proprio
+
+473
+00:29:50,640 --> 00:29:56,080
+quello: cioè io non voglio fare, io odio la spam, diciamo, odio
+
+474
+00:29:56,080 --> 00:30:01,720
+alle newsletter a cui viene iscritto così, a strascico, e effettivamente sulla
+
+475
+00:30:01,720 --> 00:30:06,440
+casella di posta elettronica, diciamo, di lavoro dell'ufficio, sta succedendo un po'
+
+476
+00:29:59,920 --> 00:30:07,080
+troppe volte.
+
+477
+00:30:07,240 --> 00:30:12,360
+Mettiamola così, quindi appunto pulsante spam tech spam, e poi, dopo se
+
+478
+00:30:12,360 --> 00:30:13,880
+posso mi cancello.
+
+479
+00:30:13,880 --> 00:30:17,000
+E con Irmail, che tra le varie funzioni, ha anche quella di
+
+480
+00:30:17,000 --> 00:30:24,280
+bounce, cosiddetta, di rimbalzo, cioè, mando un finto avviso al sistema automatico
+
+481
+00:30:24,600 --> 00:30:28,120
+che invia la newsletter che la casa di posta non esiste più,
+
+482
+00:30:28,120 --> 00:30:29,240
+o ha un problema.
+
+483
+00:30:29,240 --> 00:30:31,160
+In questa maniera si spera di
+
+484
+00:30:32,760 --> 00:30:36,200
+creare il feedback negativo che serve, esatto.
+
+485
+00:30:36,360 --> 00:30:39,640
+Mi pare che da Big Sur, forse, se non vorrei ricordare male,
+
+486
+00:30:39,640 --> 00:30:45,400
+c'è la questione di annullamento automatico all'iscrizione con un semplice tasto nel
+
+487
+00:30:45,560 --> 00:30:47,000
+client di posta elettronica.
+
+488
+00:30:47,080 --> 00:30:47,720
+Sì, allora
+
+489
+00:30:48,840 --> 00:30:52,600
+esatto, però poi dopo, anche lì, secondo me, ci sono tutta una
+
+490
+00:30:52,600 --> 00:30:58,120
+serie di problemi: cioè, la funzione di cancellazione della newsletter, diciamo, è
+
+491
+00:30:58,120 --> 00:31:04,040
+una funzione interessante, giusta, premetto, ma preoccupante da un certo punto di
+
+492
+00:31:04,040 --> 00:31:06,040
+vista, perché poi il solito discorso.
+
+493
+00:31:06,040 --> 00:31:10,680
+Vai sulla fiducia di chi ti ha iscritto a questa newsletter sostanzialmente.
+
+494
+00:31:10,680 --> 00:31:14,920
+Per cui devo dire la verità: anzi, da un certo punto di
+
+495
+00:31:14,920 --> 00:31:18,520
+vista, se tu ti cancelli, vuol dire che sei vivo e quella
+
+496
+00:31:18,520 --> 00:31:23,320
+casella di posta elettronica ha un suo preso, proprio perché chi compra
+
+497
+00:31:25,000 --> 00:31:30,280
+indirizzi di posta elettronici per mandare newsletter sostanzialmente per fare la pesca
+
+498
+00:31:30,280 --> 00:31:32,200
+strascica come la chiamo io.
+
+499
+00:31:32,200 --> 00:31:35,400
+Ovviamente è interessato a casella di posta attiva.
+
+500
+00:31:35,400 --> 00:31:41,560
+Perché ovviamente adesso, a questo punto, passiamo, diciamo all'argomento sicurezza posta elettronica,
+
+501
+00:31:41,560 --> 00:31:42,680
+in questi casi.
+
+502
+00:31:42,680 --> 00:31:47,360
+Ovviamente si parla veramente di pesca strascica, nel senso che io mando
+
+503
+00:31:47,360 --> 00:31:51,760
+una mail, che sia phishing, che sia anche solo per cercare di
+
+504
+00:31:51,760 --> 00:31:53,200
+vendere qualcosa, ok.
+
+505
+00:31:53,440 --> 00:31:57,520
+Statisticamente, se io la mando un milione di caselle di posta elettronica,
+
+506
+00:31:57,520 --> 00:32:01,040
+casomale, l'1% di quel milione mi compra qualcosa.
+
+507
+00:32:01,040 --> 00:32:05,920
+Neanche la versione peggiore, diciamo che cerco di rubare le credenziali o
+
+508
+00:32:05,920 --> 00:32:09,360
+fare altre cose strane, cerco solo di vendere un prodotto.
+
+509
+00:32:09,360 --> 00:32:14,320
+Statisticamente è tirato a caso, però è vera come cosa: un 1%
+
+510
+00:32:14,560 --> 00:32:18,320
+su un milione che comunque sono dei soldi, soprattutto se io vendo
+
+511
+00:32:18,320 --> 00:32:20,400
+un prodotto, non so, da 100 euro.
+
+512
+00:32:20,640 --> 00:32:22,960
+E così funzionano le campagne email.
+
+513
+00:32:22,960 --> 00:32:27,600
+Cioè, è ovvio che sui grandi numeri, anche se tu vendi a
+
+514
+00:32:27,600 --> 00:32:32,080
+delle percentuali bassissime, comunque vendi e vendi e fai dei soldi.
+
+515
+00:32:32,080 --> 00:32:37,600
+Peggio ancora se fai dell'attività illegale, posso garantire che il mio buon
+
+516
+00:32:37,600 --> 00:32:42,320
+suocero si è fatto fregare un tot 2.000 euro in questa maniera
+
+517
+00:32:42,320 --> 00:32:43,360
+brillante.
+
+518
+00:32:43,360 --> 00:32:48,640
+Con la solita mail che dice: Attenzione, la tua carta prepagata, le
+
+519
+00:32:48,640 --> 00:32:53,520
+tue credenziali per accesso al long banking sono state hackerate.
+
+520
+00:32:54,320 --> 00:32:57,200
+Clicca qui e vali a cambiare.
+
+521
+00:32:57,200 --> 00:33:02,480
+Facendo questo giochino, di fatto, tu vai a dare le credenziali all'hacker
+
+522
+00:33:02,640 --> 00:33:09,520
+al hacker al cattivissimo hacker, e di fatto nel giro di pochissimo,
+
+523
+00:33:09,520 --> 00:33:13,840
+a mio suocero, hanno fatto due o tre bonifici immediati, tra l'altro,
+
+524
+00:33:13,920 --> 00:33:18,720
+per la Spagna, e poi dalla Spagna, ovviamente, non sai dove vanno.
+
+525
+00:33:18,960 --> 00:33:20,880
+Ciao, per cui attenzione!
+
+526
+00:33:20,880 --> 00:33:25,200
+E anche un mio cliente, per esempio, ha appunto, avviso di Aruba.
+
+527
+00:33:25,200 --> 00:33:29,760
+Che il tuo dominio sta scadendo, clicca qui per pagare
+
+528
+00:33:30,760 --> 00:33:34,120
+, carta di credito 2500 euro di
+
+529
+00:33:29,760 --> 00:33:37,080
+pagamento con carta di credito.
+
+530
+00:33:38,600 --> 00:33:40,360
+Voilà, esatto, esatto.
+
+531
+00:33:40,520 --> 00:33:45,960
+Ovviamente l'altro consiglio che do è quello di mai mai cliccare sui
+
+532
+00:33:45,960 --> 00:33:51,720
+link all'interno dell'email o aprire gli allegati all'interno di una mail, soprattutto
+
+533
+00:33:51,720 --> 00:33:57,320
+di gente sconosciuta, o anche presunta tale, cioè nel senso, un altro
+
+534
+00:33:57,320 --> 00:34:02,120
+trucco che è meglio sempre controllare, soprattutto quando sono cose un po'
+
+535
+00:34:02,120 --> 00:34:06,840
+particolari, perché è ovvio che la mail perfetta dove pingono una persona
+
+536
+00:34:06,840 --> 00:34:12,120
+che voi conoscete e così via è difficile da evitare, mettiamola così.
+
+537
+00:34:12,120 --> 00:34:16,760
+Ma è raro appunto che si facciano degli attacchi così mirati.
+
+538
+00:34:17,240 --> 00:34:20,840
+Solitamente in questi casi si fa quella che è una tecnica di
+
+539
+00:34:21,000 --> 00:34:26,840
+reverse engineering, cioè addirittura si segue la persona sui social network, nella
+
+540
+00:34:27,000 --> 00:34:30,920
+vita reale, e a fronte di quella si fa un trabocchetto vero
+
+541
+00:34:30,920 --> 00:34:31,800
+e proprio.
+
+542
+00:34:32,120 --> 00:34:32,760
+Ma qui
+
+543
+00:34:34,280 --> 00:34:39,160
+è veramente una cosa diciamo di gente che vuole farvi del male
+
+544
+00:34:39,240 --> 00:34:40,280
+sostanzialmente.
+
+545
+00:34:40,280 --> 00:34:45,320
+Nella maggior parte dei casi invece, si parla di pesca strascica appunto.
+
+546
+00:34:45,560 --> 00:34:46,840
+Quindi vengono
+
+547
+00:34:48,120 --> 00:34:54,760
+lo zio sudafricano o americano che ha una grande eredità, clicca e
+
+548
+00:34:54,760 --> 00:34:56,200
+diventerai ricco.
+
+549
+00:34:56,520 --> 00:34:59,880
+Queste cose solitamente avvengono.
+
+550
+00:34:59,880 --> 00:35:04,440
+Alcuni sprovveduti o alcuni che hanno effettivamente lo zio, perché io non
+
+551
+00:35:04,440 --> 00:35:08,360
+ho lo zio americano in Sud Africa ricco e quindi non ci
+
+552
+00:35:08,360 --> 00:35:15,360
+casco, ma casomai chi ce l'ha invece spera la morte, prematura, certo,
+
+553
+00:35:16,000 --> 00:35:18,320
+chiaramente o comunque dei parenti all'estero.
+
+554
+00:35:18,320 --> 00:35:20,560
+Ma non ci sono solo questo tipi di truffe, ci sono anche
+
+555
+00:35:20,560 --> 00:35:25,120
+delle truffe che ho intanto quando le ascolto, vengono i brividi, che
+
+556
+00:35:25,120 --> 00:35:30,080
+fanno leva appunto sui nostri sentimenti, ma anche quello di trovare una
+
+557
+00:35:30,080 --> 00:35:34,960
+persona dell'altro sesso disponibile a condividere con te la vita, solo che
+
+558
+00:35:34,960 --> 00:35:37,200
+avrà sempre il sottoproblemico.
+
+559
+00:35:37,200 --> 00:35:42,720
+Se gli puoi anticipare quelle 2-3.000 euro per riuscire a chiudere i
+
+560
+00:35:42,720 --> 00:35:47,280
+conti e venire in Italia discorrendo, ma ne sono rimasti tantissimi fregati
+
+561
+00:35:47,280 --> 00:35:47,680
+così.
+
+562
+00:35:47,680 --> 00:35:52,960
+L'altra cosa sono i Ramsonware che adesso stanno diventando veramente una piaga.
+
+563
+00:35:53,040 --> 00:35:58,480
+Sono delle email dove se vai a cliccare, viene scaricato sostanzialmente un
+
+564
+00:35:58,480 --> 00:36:02,880
+software che poi va a cifrare tutto il tuo contenuto dell'hardisk, te
+
+565
+00:36:03,040 --> 00:36:10,320
+a fronte della cifratura dell'hardisk, i rapinatori, diciamo, chiedono un riscatto.
+
+566
+00:36:10,400 --> 00:36:14,320
+Da evitarlo anche perché, tra l'altro, spesso e volentieri, soprattutto se ransom
+
+567
+00:36:14,480 --> 00:36:15,520
+in giro da un po'.
+
+568
+00:36:15,520 --> 00:36:19,600
+I fattori ovviamente non ci sono più, o comunque il sistema di
+
+569
+00:36:19,600 --> 00:36:21,680
+decretazione non c'è più.
+
+570
+00:36:21,680 --> 00:36:25,520
+E quindi, di fatto voi pagate qualcosa che poi non vi permetterà
+
+571
+00:36:25,520 --> 00:36:27,920
+di recuperare appunto i vostri dati.
+
+572
+00:36:27,920 --> 00:36:30,720
+Giusto per fare degli esempi, la Regione Lazio.
+
+573
+00:36:30,720 --> 00:36:35,680
+Appunto, se trovate in piena pandemia bloccata da un ransomware e così
+
+574
+00:36:35,680 --> 00:36:35,920
+via.
+
+575
+00:36:36,160 --> 00:36:40,480
+Anche qui per il Ransom, l'unico vero, ovviamente proteggersi con tutta una
+
+576
+00:36:40,480 --> 00:36:46,640
+serie di cose che oggi non approfondiremo, ma secondariamente avere una strategia
+
+577
+00:36:46,640 --> 00:36:52,240
+di backup per poter recuperare i dati persi eventualmente.
+
+578
+00:36:52,240 --> 00:36:57,360
+Quindi attenzione, evitare i clic sulle email, avere comunque un antivirus, barra
+
+579
+00:36:57,440 --> 00:37:01,880
+una serie di sistemi di un firewall e sistemi di protezione proprio
+
+580
+00:37:01,880 --> 00:37:07,880
+per fare questo, evitare appunto di aprire gli allegati strani, controllare il
+
+581
+00:37:07,880 --> 00:37:13,160
+mittente, cioè anche qui tutti i programmi di posta elettronica cosa fanno?
+
+582
+00:37:13,320 --> 00:37:20,040
+Abbelliscono, il mittente è Filippo chiocciola studio Legale Strozzi.com, ok.
+
+583
+00:37:20,280 --> 00:37:21,800
+Questo è il mio indirizzo di email.
+
+584
+00:37:21,880 --> 00:37:27,400
+Ma abitualmente a Roberto arriva a avvocato Filippo Strozzi, però il nome,
+
+585
+00:37:27,400 --> 00:37:33,240
+diciamo, la sostituzione del nome con l'indirizzo dell'indirizzo email con il nome,
+
+586
+00:37:33,240 --> 00:37:35,320
+può portare anche a delle truffe.
+
+587
+00:37:35,320 --> 00:37:39,800
+Perché casomai c'è qualcuno si può mettere come avvocato Filippo Strozzi mando
+
+588
+00:37:39,800 --> 00:37:44,040
+un'email a Roberto, ma non è la mia email, è un'email stramba,
+
+589
+00:37:44,040 --> 00:37:46,040
+diciamo che viene da un'altra parte.
+
+590
+00:37:46,040 --> 00:37:51,400
+Se una persona non è attenta, ovviamente può cadere nella trappola.
+
+591
+00:37:51,400 --> 00:37:56,200
+E appunto sono successe tante volte, soprattutto per le aziende, che facendo
+
+592
+00:37:56,200 --> 00:38:00,680
+finta e non facendo capire, o avendo dei domini molto simili, cioè
+
+593
+00:38:00,760 --> 00:38:05,880
+non so, per esempio, pippsrl.it che invece diventa.net.
+
+594
+00:38:05,880 --> 00:38:11,000
+Quindi stesso dominio su una nazione diversa o comunque su un dominio
+
+595
+00:38:11,080 --> 00:38:15,240
+primario diverso con lo stesso nome e tutto il resto, fammi il
+
+596
+00:38:15,240 --> 00:38:15,880
+bonifico.
+
+597
+00:38:15,880 --> 00:38:20,120
+Queste sono le coordinate bonifiche per pagare la roba in copallina, e
+
+598
+00:38:20,120 --> 00:38:25,400
+poi dopo, invece di aver pagato il vostro fornitore, avete pagato un
+
+599
+00:38:25,720 --> 00:38:27,160
+abile ladro.
+
+600
+00:38:27,320 --> 00:38:31,880
+Quindi, ci sono tutta una serie di attenzioni, soprattutto in ambito alla
+
+601
+00:38:32,200 --> 00:38:34,760
+mail personale, raramente appunto.
+
+602
+00:38:35,080 --> 00:38:41,640
+O fanno una truffa molto strutturata, diciamo, oppure oggettivamente ha più senso
+
+603
+00:38:41,640 --> 00:38:42,040
+farla?
+
+604
+00:38:42,040 --> 00:38:47,280
+Diciamo, in ambito commerciale, anzi, ce ne sono molte di queste truffe,
+
+605
+00:38:47,280 --> 00:38:53,120
+quindi fate attenzione per cui gestire anche la posta elettronica in maniera
+
+606
+00:38:53,120 --> 00:38:53,840
+attenta.
+
+607
+00:38:53,840 --> 00:38:58,720
+Un'altra cosa che non abbiamo detto, ma è meglio dirlo: utilizzate delle
+
+608
+00:38:58,720 --> 00:39:05,040
+password per accedere alla vostra posta elettronica sensate, quindi password alfanumeriche con
+
+609
+00:39:05,040 --> 00:39:07,920
+caratteri speciali, lunghe e così via.
+
+610
+00:39:07,920 --> 00:39:10,400
+So che è fastidioso, ne abbiamo già parlato.
+
+611
+00:39:10,640 --> 00:39:15,680
+Esistono i cosiddetti password manager, sono fondamentali per garantire un minimo di
+
+612
+00:39:15,680 --> 00:39:17,840
+sicurezza delle vostre email.
+
+613
+00:39:17,840 --> 00:39:23,840
+E il secondo baluardo è ovviamente la doppia autenticazione, l'autenticazione di due
+
+614
+00:39:23,840 --> 00:39:24,560
+fattori.
+
+615
+00:39:26,160 --> 00:39:31,520
+Facendo in questa maniera può ovviamente garantire una certa riservatezza di queste
+
+616
+00:39:31,520 --> 00:39:32,080
+email.
+
+617
+00:39:32,080 --> 00:39:38,080
+Che, comunque, lo ripeto, attenzione, dovreste non avere nulla di sensibile, non
+
+618
+00:39:38,080 --> 00:39:40,880
+mandate le carte di identità via email e così via.
+
+619
+00:39:40,880 --> 00:39:46,080
+È una roba da evitare come la morte, ecco, perché potreste anche
+
+620
+00:39:46,080 --> 00:39:48,640
+subire dei furti di identità e quant'altro.
+
+621
+00:39:48,640 --> 00:39:53,760
+Adesso non voglio sembrare l'avvocato che fa, dice le peggio cose, però
+
+622
+00:39:53,840 --> 00:39:54,480
+è la verità.
+
+623
+00:39:54,720 --> 00:39:59,440
+Considerate che chiunque vi chieda dei dati via email è sospetto, mettetela
+
+624
+00:39:59,440 --> 00:40:00,080
+così.
+
+625
+00:40:00,080 --> 00:40:02,880
+Se vi chiedono dei dati, la banca vi chiede dei dati, vuol
+
+626
+00:40:02,880 --> 00:40:04,240
+dire che c'è qualcosa che non va.
+
+627
+00:40:04,640 --> 00:40:08,720
+Dovete chiamare i TR sul telefono e sentitelo di persona, è la
+
+628
+00:40:08,720 --> 00:40:09,840
+cosa migliore.
+
+629
+00:40:10,080 --> 00:40:15,600
+Quello già toglie molti dubbi a riguardo di queste email.
+
+630
+00:40:15,600 --> 00:40:20,560
+Quindi, detto questo, sostanzialmente arriviamo alla parte finale a questo punto.
+
+631
+00:40:20,560 --> 00:40:25,680
+La puntata, perché direi che siamo già andati avanti da un po'.
+
+632
+00:40:25,680 --> 00:40:27,200
+E parliamo di
+
+633
+00:40:28,440 --> 00:40:34,200
+vedi che chiacchierando si va via veloce sull'archiviazione delle mail.
+
+634
+00:40:34,360 --> 00:40:38,280
+Archiviazione delle mail, innanzitutto, perché archiviare le mail credo che sia a
+
+635
+00:40:38,280 --> 00:40:44,280
+questo punto evidente, nel senso che lasciare troppa roba sui server altrui
+
+636
+00:40:44,280 --> 00:40:50,040
+è sempre pericoloso, soprattutto se lasciarlo, chiamiamolo così, in maniera incostodita.
+
+637
+00:40:50,040 --> 00:40:56,920
+Lo ripeto, ricordatevi come la maggior parte degli hackeraggi viene fatto attraverso
+
+638
+00:40:57,080 --> 00:41:01,960
+sistemi molto banali, cioè l'indirizzo di posta elettronica è conosciuto e a
+
+639
+00:41:01,960 --> 00:41:07,880
+questo punto si utilizzano dei database di password semplici, ovviamente pensati per
+
+640
+00:41:07,880 --> 00:41:11,800
+il singolo utente, cioè ovvio che c'è un database di password per
+
+641
+00:41:11,800 --> 00:41:15,560
+le password per gli italiani, c'è un database di password per gli
+
+642
+00:41:15,560 --> 00:41:17,560
+americani e così via.
+
+643
+00:41:17,560 --> 00:41:21,160
+Perché ovviamente si utilizzano parole diverse per fare password, ma spesso e
+
+644
+00:41:21,160 --> 00:41:26,760
+volentieri, appunto, l'abbiamo già parlato nella puntata sulle password e sui gestori
+
+645
+00:41:26,760 --> 00:41:32,200
+di password, vengono utilizzate le password veramente molto molto semplici.
+
+646
+00:41:32,200 --> 00:41:38,200
+Ogni volta che mi interfaccio con dei colleghi, vedo l'utilizzo di password
+
+647
+00:41:38,280 --> 00:41:40,360
+veramente banali.
+
+648
+00:41:40,360 --> 00:41:45,080
+Questo è pericoloso su vari fronti, quindi dovete stare attenti.
+
+649
+00:41:45,080 --> 00:41:48,760
+Anche perché dentro le vostre email c'è veramente tanta roba, spesso e
+
+650
+00:41:48,760 --> 00:41:51,240
+volentieri le foto e quant'altro.
+
+651
+00:41:51,240 --> 00:41:57,240
+Come archiviare, quindi come togliere le mail dal server esistono varie modalità.
+
+652
+00:41:57,240 --> 00:42:02,120
+Di fatto la modalità più semplice che io non amo, però nell'80-90%
+
+653
+00:42:02,120 --> 00:42:05,560
+dei casi forse è quella più semplice da utilizzare, è quella di
+
+654
+00:42:05,560 --> 00:42:07,240
+stampare le mail come PDF.
+
+655
+00:42:07,240 --> 00:42:08,920
+Ecco, evitate di stampare le mail.
+
+656
+00:42:08,920 --> 00:42:09,800
+Punto a cap e stop.
+
+657
+00:42:09,800 --> 00:42:10,040
+Cioè,
+
+658
+00:42:11,320 --> 00:42:12,040
+ce n'è già passata.
+
+659
+00:42:12,120 --> 00:42:16,640
+Però come PDF ve lo concedo, tra virgolette, è ovvio che come
+
+660
+00:42:16,640 --> 00:42:21,200
+PDF, l'email è una fotocopia sostanzialmente, quindi non ha nessun tipo di
+
+661
+00:42:21,200 --> 00:42:26,880
+valore in pratica a livello giuridico, mentre salvato come file ML o
+
+662
+00:42:26,880 --> 00:42:32,160
+MSG già un suo valore giuridico ce l'ha poco, se vogliamo, però
+
+663
+00:42:32,320 --> 00:42:37,360
+giusto solo perché appunto deformazione professionale, una mail mandata da una casella
+
+664
+00:42:37,360 --> 00:42:44,000
+di posta elettronica anche non certificata, che sia collegabile in maniera univoca,
+
+665
+00:42:44,000 --> 00:42:51,280
+ovviamente a un soggetto, cioè non amministrazione chiocciola SRL.it, ma Filippo chiocciola
+
+666
+00:42:51,760 --> 00:42:57,680
+SRL.it dove casomai io ho una corrispondenza di varie andate in ritorno,
+
+667
+00:42:57,680 --> 00:43:02,160
+diciamo, con questa persona che chiamiamola così firma, cioè non mette una
+
+668
+00:43:02,160 --> 00:43:06,640
+firma digitale, ma mette semplicemente nome e cognome, si presume che appunto
+
+669
+00:43:06,720 --> 00:43:10,000
+quella casella posto che ha un ID e una password quindi è
+
+670
+00:43:10,000 --> 00:43:11,040
+univocamente.
+
+671
+00:43:11,040 --> 00:43:15,520
+L'accesso è possibile a farlo da solo una specifica persona, quelle email,
+
+672
+00:43:15,520 --> 00:43:20,320
+diciamo, salvo che tizio dica: no, mi hanno accarato la posta.
+
+673
+00:43:20,480 --> 00:43:26,320
+No, tizio, posso dimostrare che io non ero in ospedale in coma
+
+674
+00:43:26,640 --> 00:43:28,960
+e queste mail non le ho mai mandate.
+
+675
+00:43:28,960 --> 00:43:33,440
+Diciamo, le mail che vengono inviate in questa maniera, quindi mail semplici,
+
+676
+00:43:33,440 --> 00:43:36,640
+hanno comunque un valore giuridico e quindi attenzione anche a quello che
+
+677
+00:43:36,640 --> 00:43:41,120
+fate: aperto chiuso la parentesi e però hanno un valore solo nel
+
+678
+00:43:41,120 --> 00:43:46,160
+momento in cui sono in formato EML che è il formato base
+
+679
+00:43:47,120 --> 00:43:50,640
+delle mail, o MSG, che invece è quello di Outlook, in estrema
+
+680
+00:43:50,640 --> 00:43:54,480
+sintesi, che di fatto, però, è praticamente lo standard, che è un
+
+681
+00:43:54,480 --> 00:43:56,320
+formato proprietario Microsoft.
+
+682
+00:43:57,280 --> 00:44:00,680
+L'altra cosa che vi segnalo sul formato EML, che è un po'
+
+683
+00:44:00,840 --> 00:44:04,920
+una cosa particolare, ma secondo me è importante per capire come funzionano
+
+684
+00:43:59,840 --> 00:44:05,320
+le email.
+
+685
+00:44:05,560 --> 00:44:09,720
+Se andate a aprire un file ML con un context edit, cioè
+
+686
+00:44:09,800 --> 00:44:14,520
+con un semplice editor di testo, vedrete una cosa imbarazzante.
+
+687
+00:44:14,520 --> 00:44:17,800
+Non ho mai fatto, spiegami, spiegami un po'.
+
+688
+00:44:17,800 --> 00:44:21,800
+Valla a fare ah no, è quello per cui vi dico non
+
+689
+00:44:21,800 --> 00:44:23,240
+mandate niente via email.
+
+690
+00:44:24,200 --> 00:44:28,760
+Perché l'email è un semplice file di testo, essendo un file di
+
+691
+00:44:28,760 --> 00:44:31,080
+testo, tutto è in chiaro.
+
+692
+00:44:31,080 --> 00:44:36,120
+Se qualcuno intercetta la vostra email, ha esattamente quello che avete mandato
+
+693
+00:44:36,120 --> 00:44:39,800
+per email in chiaro a disposizione a propria disposizione.
+
+694
+00:44:39,800 --> 00:44:42,600
+E voi mi direte: vabbè, ma io tanto ho messo un file
+
+695
+00:44:42,760 --> 00:44:47,080
+e anche il file di fatto viene codificato in base a 64,
+
+696
+00:44:47,400 --> 00:44:51,880
+ma è sempre in chiaro tra virgolette, tanto è vero che io
+
+697
+00:44:51,880 --> 00:44:56,040
+poi, con tutta una serie di automazioni, estrapolo anche da file ML
+
+698
+00:44:56,120 --> 00:44:58,520
+e riesco a strapolare tranquillamente gli allegati.
+
+699
+00:44:58,520 --> 00:45:02,440
+Motivo anche per cui i file ML, cioè le mail, sono pesanti.
+
+700
+00:45:02,440 --> 00:45:06,840
+Se fate gli allegati, perché ovviamente vengono inserite delle quantità enormi di
+
+701
+00:45:06,840 --> 00:45:07,800
+stringhe di testo.
+
+702
+00:45:07,800 --> 00:45:13,320
+Perché un allegato da un megabyte occupa migliaia di caratteri per essere
+
+703
+00:45:13,320 --> 00:45:15,800
+tradotto in base a 64.
+
+704
+00:45:16,280 --> 00:45:19,560
+Grazie anche a questo è possibile fare tutta una serie di automazioni
+
+705
+00:45:19,560 --> 00:45:23,000
+che adesso non vi sto neanche a raccontare, ma se vi interessano,
+
+706
+00:45:23,000 --> 00:45:27,880
+ho fatto un webinar apposta su come automatizzo l'archiviazione delle mail proprio
+
+707
+00:45:28,120 --> 00:45:35,240
+andando a vedere all'interno del file ML, pescando determinati dati, per esempio,
+
+708
+00:45:35,240 --> 00:45:39,080
+la data in cui è stata spedita l'email e quindi datando automaticamente
+
+709
+00:45:39,080 --> 00:45:43,400
+l'email, proprio perché dentro l'email ci sono i dati di riferimento di
+
+710
+00:45:43,400 --> 00:45:44,280
+tutta questa roba.
+
+711
+00:45:44,280 --> 00:45:48,000
+Quindi il mio suggerimento è quello: prendete un file ML.
+
+712
+00:45:48,000 --> 00:45:51,520
+Ah, non l'ho detto, come si salva un file ML su mail,
+
+713
+00:45:51,680 --> 00:45:56,320
+sulla maggior parte dei programmi di posta elettronica c'è un'opzione di salva,
+
+714
+00:45:56,320 --> 00:46:02,000
+salva con nome, voi salvate dove volete e avrete il vostro file
+
+715
+00:46:02,000 --> 00:46:02,960
+ML.
+
+716
+00:46:02,960 --> 00:46:07,840
+Se non avete tutta questa spinta, basta trascinare l'email fuori su desktop,
+
+717
+00:46:07,840 --> 00:46:11,760
+per esempio, e vi ritroverete col file ML salvato sul vostro desktop.
+
+718
+00:46:11,760 --> 00:46:14,480
+Questo vale anche per i file MSG di Outlook.
+
+719
+00:46:14,560 --> 00:46:18,480
+Beh, io intanto sto guardando col formato testo, le mail c'è veramente
+
+720
+00:46:18,480 --> 00:46:19,760
+di tutto, ragazzi!
+
+721
+00:46:19,760 --> 00:46:25,760
+C'è tutto perché poi di fatto sotto c'è il protocollo cosiddetto mime
+
+722
+00:46:27,120 --> 00:46:27,440
+che
+
+723
+00:46:28,640 --> 00:46:33,360
+rende in pratica uno standard che appunto c'è l'oggetto della mail, c'è
+
+724
+00:46:33,360 --> 00:46:37,360
+il mittente destinatario, c'è la data in cui è stata spedita, i
+
+725
+00:46:37,360 --> 00:46:39,680
+vari server dove è passata.
+
+726
+00:46:39,680 --> 00:46:43,200
+Sì, infatti, stavo vedendo anche quella, tutta una serie di informazioni.
+
+727
+00:46:43,840 --> 00:46:48,640
+Adesso la mail ormai è in HTML abitualmente viene spedita.
+
+728
+00:46:48,640 --> 00:46:52,240
+Quindi c'è la versione testuale, la versione HTML delle mail.
+
+729
+00:46:52,240 --> 00:46:55,840
+Poi appunto, se ci sono gli allegati, c'è tutta una serie di
+
+730
+00:46:55,840 --> 00:47:01,920
+parametri e un testo enorme che permette, appunto, di vedere anche il
+
+731
+00:47:01,920 --> 00:47:02,960
+nome dell'allegato.
+
+732
+00:47:02,960 --> 00:47:04,960
+Quindi, tra l'altro, proprio tutto in chiaro:
+
+733
+00:47:06,560 --> 00:47:09,600
+ecco, quello che vi volevo dire è questo.
+
+734
+00:47:09,600 --> 00:47:14,240
+Nella maggior parte dei casi ormai, proprio perché l'email è la roba
+
+735
+00:47:14,480 --> 00:47:18,240
+meno sicura sulla faccia della Terra, perché era un sistema di messaggistica
+
+736
+00:47:18,240 --> 00:47:19,600
+veloce, sostanzialmente.
+
+737
+00:47:19,600 --> 00:47:24,640
+Non pensate addirittura, l'abbiamo visto nella puntata sulle mail, nasce come comunicazione
+
+738
+00:47:24,640 --> 00:47:25,120
+interna.
+
+739
+00:47:25,120 --> 00:47:29,520
+Quindi ovviamente non c'era neanche il problema di dire questa mail esce.
+
+740
+00:47:29,520 --> 00:47:33,880
+Non so se mi spiego, perché girava nella internet dell'azienda, ok?
+
+741
+00:47:34,120 --> 00:47:38,680
+Resi conto di tutta questa vicenda, sono stati implementati dei sistemi di
+
+742
+00:47:38,680 --> 00:47:40,520
+relativa sicurezza.
+
+743
+00:47:40,520 --> 00:47:44,840
+Quindi, quando andate a configurare la mail, vi consiglio di attivare il
+
+744
+00:47:44,840 --> 00:47:47,720
+sistema di cifratura SSL.
+
+745
+00:47:47,720 --> 00:47:51,480
+La mail in transito però solo in transito, quindi da un server
+
+746
+00:47:51,480 --> 00:47:53,720
+all'altro, viene cifrata.
+
+747
+00:47:53,880 --> 00:47:58,520
+In questo caso, se una persona intercetta traffico dal vostro computer al
+
+748
+00:47:58,520 --> 00:48:01,400
+server, non riesce a leggere il contenuto della mail.
+
+749
+00:48:01,400 --> 00:48:03,960
+Ma se entra dentro il server, la mail è in chiaro.
+
+750
+00:48:03,960 --> 00:48:08,760
+Proprio per questo motivo esistono tutta una serie di software per cifrare
+
+751
+00:48:08,760 --> 00:48:12,600
+la mail vera e propria, chiavi di cifratura per cui che rendono
+
+752
+00:48:12,600 --> 00:48:16,920
+di fatto inutilizzabile l'email perché si utilizzano queste chiavi asincrone.
+
+753
+00:48:16,920 --> 00:48:20,200
+Quindi c'è una chiave pubblica che voi trovate online.
+
+754
+00:48:20,200 --> 00:48:23,560
+Che serve per io voglio mandare un'email sicura a Roberto.
+
+755
+00:48:23,560 --> 00:48:24,760
+Cosa faccio?
+
+756
+00:48:24,760 --> 00:48:28,200
+Prendo la chiave pubblica di Roberto per cifrare l'email.
+
+757
+00:48:28,200 --> 00:48:30,840
+Cifro l'email, mando l'email a Roberto.
+
+758
+00:48:30,840 --> 00:48:34,760
+Roberto ha la chiave privata che serve per decifrare l'email.
+
+759
+00:48:34,760 --> 00:48:36,760
+E a questo punto lui può leggere la mia email.
+
+760
+00:48:36,920 --> 00:48:40,360
+Stesso gioco vale se Roberto mi vuole mandare un'email e io voglio
+
+761
+00:48:40,360 --> 00:48:43,640
+essere sicuro che l'email provenga da Roberto, cioè la cifra con la
+
+762
+00:48:43,640 --> 00:48:45,240
+sua chiave di cifratura.
+
+763
+00:48:45,240 --> 00:48:48,360
+La chiave pubblica mi permette di decifrarlo, ok?
+
+764
+00:48:48,360 --> 00:48:51,560
+Quindi di dire sì, la mail è proprio quella di Roberto e
+
+765
+00:48:51,560 --> 00:48:54,760
+non è di qualcuno che si fa finta di essere Roberto.
+
+766
+00:48:54,760 --> 00:49:00,040
+Di fatto, tutta questa operazione, però, è abbastanza complicata e ha poco
+
+767
+00:49:00,040 --> 00:49:07,160
+senso, mettiamola così, cioè perde la comodità della comunicazione rapida delle e-mail,
+
+768
+00:49:07,160 --> 00:49:10,040
+ve lo segnalo solo come opzione.
+
+769
+00:49:10,040 --> 00:49:15,360
+Altre cose da dire: diciamo che l'unica segnalazione che vi faccio perché
+
+770
+00:49:14,840 --> 00:49:18,240
+è qualcosa di molto è un prodotto molto interessante a pagamento.
+
+771
+00:49:18,800 --> 00:49:21,760
+Vi legge le mail, o meglio, leggo solo gli oggetti delle mail
+
+772
+00:49:21,840 --> 00:49:24,640
+perché ho controllato e ho scritto direttamente.
+
+773
+00:49:24,640 --> 00:49:27,840
+È un prodotto che ormai probabilmente ne esistono vari.
+
+774
+00:49:27,840 --> 00:49:32,320
+Diciamo che nel mondo anglofono è sponsor di vari podcast e così
+
+775
+00:49:32,320 --> 00:49:36,000
+via, che si chiama Sandbox, è un sistema per filtrare le mail
+
+776
+00:49:36,000 --> 00:49:41,600
+a monte: cioè voi agganciate il server di sandbox alla vostra casella
+
+777
+00:49:41,600 --> 00:49:46,480
+di posta elettronica, a fronte di come, quando e come leggete le
+
+778
+00:49:46,480 --> 00:49:48,160
+mail, dell'oggetto delle mail.
+
+779
+00:49:48,160 --> 00:49:51,040
+Quindi non va a leggere il contenuto, ma legge gli oggetti, comunque
+
+780
+00:49:51,040 --> 00:49:54,320
+gli date totale accesso alla vostra casella di posta elettronica, ve lo
+
+781
+00:49:54,320 --> 00:49:54,880
+dico già.
+
+782
+00:49:54,880 --> 00:49:57,120
+Tanto è vero che io non l'ho mai fatto proprio per questo
+
+783
+00:49:57,120 --> 00:49:58,000
+motivo.
+
+784
+00:49:58,000 --> 00:50:02,960
+Però via appunto grazie a una serie di filtri e così via,
+
+785
+00:50:02,960 --> 00:50:07,760
+vi appunto pulisce le mail, vi sgrossa, chiamiamole così le mail e
+
+786
+00:50:07,760 --> 00:50:12,320
+vi permette di avere, diciamo, meno confusione nella vostra casella di posta
+
+787
+00:50:12,320 --> 00:50:13,040
+elettronica.
+
+788
+00:50:13,040 --> 00:50:15,840
+Lo segnalo perché è un servizio interessante.
+
+789
+00:50:15,840 --> 00:50:19,840
+Esistono vari servizi differenti e simili, anche Gmail ha tutta una serie
+
+790
+00:50:19,840 --> 00:50:24,800
+di filtri, buona parte delle email professionali, ha tutto un modo di
+
+791
+00:50:25,280 --> 00:50:30,000
+passare attraverso algoritmi di vario genere le mail per rendere più semplice
+
+792
+00:50:30,000 --> 00:50:30,640
+la cosa.
+
+793
+00:50:30,640 --> 00:50:32,320
+Questo è sicuramente interessante.
+
+794
+00:50:32,320 --> 00:50:36,480
+L'altra cosa, visto che siamo a particolarità utili, una cosa che io
+
+795
+00:50:36,480 --> 00:50:42,480
+consiglio caldamente è effettivamente è presente già in Gmail quindi è possibile.
+
+796
+00:50:42,480 --> 00:50:46,000
+Se avete una Gmail, sappiate che la potete utilizzare, è quella di
+
+797
+00:50:46,000 --> 00:50:49,840
+inviare in maniera postuma, cioè dopo un'email.
+
+798
+00:50:49,840 --> 00:50:53,920
+È una cosa utile, nel senso che appunto, io odio i colleghi
+
+799
+00:50:53,920 --> 00:50:56,320
+che mi mandano le mail alle 3 di notte o alle 2
+
+800
+00:50:56,480 --> 00:50:58,560
+del mattino e così via.
+
+801
+00:50:58,560 --> 00:51:02,040
+Io casomai scrivo anche le mail ad orari improbabili o nei momenti
+
+802
+00:51:02,040 --> 00:51:05,080
+improbabili nel weekend e così via, ma cosa faccio?
+
+803
+00:51:05,080 --> 00:51:10,040
+Pospongo l'invio al primo giorno lavorativo utile alle 8 e mezza 9
+
+804
+00:51:10,040 --> 00:51:11,000
+del mattino.
+
+805
+00:51:11,000 --> 00:51:15,160
+È una buona prassi, ci sono appunto software posta elettronica che vi
+
+806
+00:51:15,160 --> 00:51:19,960
+permettono di farlo, anche qui perdete qualcosa di privacy.
+
+807
+00:51:19,960 --> 00:51:25,400
+Perché ovviamente per fare queste automazioni o create un'automazione sul vostro computer,
+
+808
+00:51:25,400 --> 00:51:30,120
+diciamo che è un qualcosa che spara le mail quando lo decidete.
+
+809
+00:51:30,120 --> 00:51:32,760
+Voi esistono tutta una serie di trucchetti.
+
+810
+00:51:32,760 --> 00:51:36,440
+Se vi interessano, poi eventualmente ne possiamo anche parlare.
+
+811
+00:51:36,440 --> 00:51:40,520
+Ma altrimenti, lato server, in pratica, si dà un comando al server
+
+812
+00:51:40,520 --> 00:51:43,000
+per dire: Io te la mando a te server.
+
+813
+00:51:43,080 --> 00:51:49,640
+Tu, però, server, mandamela quel giorno, quell'ora, quel minuto dell'email.
+
+814
+00:51:49,640 --> 00:51:53,560
+Quindi è una cosa da tenere presente, sicuramente è un modo sano
+
+815
+00:51:53,560 --> 00:51:54,600
+di gestire la mail.
+
+816
+00:51:54,600 --> 00:51:57,800
+Non so se vi spiego: sì, sicuramente.
+
+817
+00:51:57,800 --> 00:52:01,960
+Purtroppo, mail di Apple non ha questa possibilità.
+
+818
+00:52:02,120 --> 00:52:05,960
+E poi, tra le altre cose, due particolarità che vi volevo solo
+
+819
+00:52:05,960 --> 00:52:07,080
+ricordare.
+
+820
+00:52:07,080 --> 00:52:11,640
+La prima è che mi pare che a differenza di Outlook, mail
+
+821
+00:52:11,880 --> 00:52:14,440
+non dia la conferma di lettura.
+
+822
+00:52:14,440 --> 00:52:18,360
+Non so se avete mai avuto, la conferma di lettura è una
+
+823
+00:52:18,360 --> 00:52:22,040
+delle sciagure sulla faccia del mondo, mail non ce l'ha, mail non
+
+824
+00:52:22,040 --> 00:52:22,600
+ce l'ha, ma
+
+825
+00:52:23,720 --> 00:52:27,640
+di fatto in ambito Apple è difficile che ci sia.
+
+826
+00:52:27,640 --> 00:52:32,400
+È proprio una cosa business è Outlook che ce l'ha sostanzialmente, e
+
+827
+00:52:32,440 --> 00:52:37,320
+Outlook è di fatto lo standard, però nel mondo business e quindi
+
+828
+00:52:37,400 --> 00:52:42,280
+io credo con alcune aziende rendevo, facevo impazzire la gente.
+
+829
+00:52:42,280 --> 00:52:43,480
+Non hai letto le mail?
+
+830
+00:52:43,760 --> 00:52:44,840
+Tu sì, l'ho letta perché
+
+831
+00:52:45,920 --> 00:52:49,200
+la conferma di lettura da impazzire!
+
+832
+00:52:44,840 --> 00:52:51,200
+Gente che ha sbarellato per queste cose.
+
+833
+00:52:51,520 --> 00:52:55,440
+Questa particolarità, la seconda particolarità che è venuta in mente è: ricordatevi
+
+834
+00:52:55,760 --> 00:53:04,160
+quando spostate un'email sul desktop per creare il vostro file EML, ricordatevi
+
+835
+00:53:04,160 --> 00:53:07,760
+che il file EML si porta dietro gli allegati.
+
+836
+00:53:07,760 --> 00:53:12,160
+Quindi non è che dovete salvare gli allegati in una cartella separata
+
+837
+00:53:12,160 --> 00:53:15,520
+con dentro il file EML e avete tutto.
+
+838
+00:53:15,520 --> 00:53:17,200
+Basta il file EML.
+
+839
+00:53:17,200 --> 00:53:18,400
+È inutile fare.
+
+840
+00:53:18,400 --> 00:53:22,400
+Allora, io di dirti la verità lo faccio per un motivo diverso.
+
+841
+00:53:22,400 --> 00:53:26,240
+Scrivi correttamente le email, ho fatto un webinar quindi non ci sto
+
+842
+00:53:26,240 --> 00:53:27,120
+neanche lì a parlare.
+
+843
+00:53:27,120 --> 00:53:29,840
+Nell'eventualità ve lo metto nell'episodio.
+
+844
+00:53:29,840 --> 00:53:31,840
+Tuttavia non è facile recuperare.
+
+845
+00:53:31,840 --> 00:53:36,240
+Cioè, una volta che sai dove qual è l'email con quelli allegati,
+
+846
+00:53:36,240 --> 00:53:40,240
+ok, ma di fatto oggettivamente non ha molto senso.
+
+847
+00:53:40,240 --> 00:53:41,200
+Quindi, io cosa faccio?
+
+848
+00:53:41,200 --> 00:53:45,520
+Gli allegati se mi servono, ovviamente li salvo nella pratica, nella posizione,
+
+849
+00:53:45,520 --> 00:53:48,160
+li metto dove devono essere dove devono stare.
+
+850
+00:53:48,160 --> 00:53:54,320
+Tra virgolette, poi salvo il file eml nella corrispondenza relativa a quella
+
+851
+00:53:54,320 --> 00:53:57,840
+posizione, sapendo che ho anche, tra virgolette, un backup.
+
+852
+00:53:57,840 --> 00:54:02,720
+E tra l'altro, ho la prova provata che quelli allegati mi sono
+
+853
+00:54:02,720 --> 00:54:04,320
+stati mandati in quella mail.
+
+854
+00:54:04,320 --> 00:54:08,400
+Perché anche lì, se per esempio, io stampo l'email dove ti dice
+
+855
+00:54:08,400 --> 00:54:10,960
+che c'è quell'allegato non vuol dire niente.
+
+856
+00:54:10,960 --> 00:54:13,920
+Invece, il file ML che li contieni, non mi puoi venire a
+
+857
+00:54:13,920 --> 00:54:16,640
+dire che non mi avevi mandato o che mi avevi mandato quell'allegato,
+
+858
+00:54:16,640 --> 00:54:18,080
+ma che poi l'allegato non c'era.
+
+859
+00:54:18,160 --> 00:54:21,040
+Sul discorso di non salvare gli allegati perché sono dentro il file
+
+860
+00:54:21,200 --> 00:54:22,080
+ML,
+
+861
+00:54:23,200 --> 00:54:28,240
+anche perché appunto, dovresti archivare la mail in modo da sapere quali
+
+862
+00:54:28,240 --> 00:54:30,280
+sono gli allegati che hai dentro, se no, ti tocca andare a
+
+863
+00:54:30,280 --> 00:54:31,400
+aprire tutte le mail.
+
+864
+00:54:31,720 --> 00:54:32,920
+Sono d'accordo con te.
+
+865
+00:54:29,920 --> 00:54:36,040
+Allora, dunque, qui ci sono due sistemi di gestione.
+
+866
+00:54:36,120 --> 00:54:39,800
+Io, per esempio, tendenzialmente non salvo gli allegati se non li devo
+
+867
+00:54:39,800 --> 00:54:40,520
+modificare.
+
+868
+00:54:40,520 --> 00:54:43,160
+Il mio lavoro è diverso dal tuo, a me arrivano dei documenti
+
+869
+00:54:43,160 --> 00:54:47,320
+che magari devo modificare: dei DVG, dei PDF o via discorrendo.
+
+870
+00:54:47,320 --> 00:54:50,040
+Quindi quelli che vado a modificare, chiaramente me li salvo e poi
+
+871
+00:54:50,040 --> 00:54:51,000
+me li modifico.
+
+872
+00:54:51,000 --> 00:54:54,600
+Le mail, a parte che le metto sempre in ordine cronologico e
+
+873
+00:54:54,600 --> 00:54:57,240
+quindi più o meno segui il discorso.
+
+874
+00:54:57,240 --> 00:55:00,120
+Come dicevi tu, però non riesci a beccare l'allegato.
+
+875
+00:55:00,120 --> 00:55:06,440
+Però facendo il semplice usando la barra spaziatrice sul file EML, lo
+
+876
+00:55:06,440 --> 00:55:08,680
+scorri un attimo, lo trovi al volo.
+
+877
+00:55:08,680 --> 00:55:12,120
+Quindi è vero che non lo vedo subito, però non saprei.
+
+878
+00:55:12,120 --> 00:55:15,320
+Un'altra cosa che volevo chiederti: che tu sei più esperto, come viene
+
+879
+00:55:15,320 --> 00:55:16,520
+gestita la ricerca.
+
+880
+00:55:16,520 --> 00:55:21,240
+Nel senso, se io faccio una ricerca all'interno del finder va a
+
+881
+00:55:21,240 --> 00:55:25,640
+beccare il dato all'interno dell'allegato, o è meglio che sia fuori?
+
+882
+00:55:25,640 --> 00:55:29,400
+No, questa è una cosa che ho scoperto per puro caso, intendo
+
+883
+00:55:29,400 --> 00:55:30,120
+a precisare.
+
+884
+00:55:30,120 --> 00:55:35,800
+Tuttavia, nella sostanza su macOS il finder, perché vada a cercare il
+
+885
+00:55:35,800 --> 00:55:40,920
+testo dentro i file ML, non devono essere ML, ma devono essere
+
+886
+00:55:40,920 --> 00:55:42,200
+MLX
+
+887
+00:55:43,320 --> 00:55:44,840
+motivo: non lo so,
+
+888
+00:55:46,040 --> 00:55:50,280
+però nella sostanza, pur essendo un file di testo, finder non lo
+
+889
+00:55:50,280 --> 00:55:53,480
+regge come file di testo e non va a cercarci dentro perché
+
+890
+00:55:53,560 --> 00:55:56,840
+non è un file di testo, cioè nel senso, non ha l'estensione
+
+891
+00:55:56,840 --> 00:56:00,120
+txt, dovresti cambiarla con TXT in TXT.
+
+892
+00:56:00,120 --> 00:56:04,280
+Probabilmente ti estrapola il dato, per cui di fatto la ricerca che
+
+893
+00:56:04,280 --> 00:56:06,040
+potresti fare non la riesce a fare.
+
+894
+00:56:06,040 --> 00:56:08,640
+Quindi è meglio salvarli fuori gli allegati esatto.
+
+895
+00:56:08,720 --> 00:56:14,280
+Perché poi anche lì il solito discorso il file.mlx, poi non è
+
+896
+00:56:14,280 --> 00:56:15,600
+compatibile con tutto il resto.
+
+897
+00:56:15,760 --> 00:56:18,640
+Quindi funziona su Mac, ma ovunque non va,
+
+898
+00:56:20,480 --> 00:56:24,800
+o se no, devi avere un software apposta che diciamo ti vada
+
+899
+00:56:24,800 --> 00:56:27,280
+a guardare dentro il file di testo sostanzialmente.
+
+900
+00:56:27,280 --> 00:56:30,480
+Cioè, quindi tu gli dici che è un file di testo, eppure
+
+901
+00:56:30,480 --> 00:56:34,080
+essendo un file ML, allora il software va e ricerca.
+
+902
+00:56:34,080 --> 00:56:37,840
+Per esempio, Devon Think che gestisce tranquillamente i file ML.
+
+903
+00:56:37,840 --> 00:56:41,360
+Addirittura è un ottimo strumento per fare i backup delle caselle di
+
+904
+00:56:41,440 --> 00:56:47,040
+posta elettronica, perché ha degli strumenti di import massivo delle caselle, lì
+
+905
+00:56:47,200 --> 00:56:52,240
+invece il database funziona perfettamente e lì riesci a trovare tutto e
+
+906
+00:56:52,240 --> 00:56:58,960
+addirittura ti renderizza direttamente dentro Devocing file ML, quindi leggi proprio la
+
+907
+00:56:58,960 --> 00:57:02,080
+mail e ti estrappola gli allegati.
+
+908
+00:57:02,080 --> 00:57:06,000
+Quindi lì, ecco, in quel caso specifico, lì allora potresti farlo.
+
+909
+00:57:06,400 --> 00:57:10,880
+Quindi segnalo per chi fosse interessato, direi che a questo punto abbiamo
+
+910
+00:57:10,880 --> 00:57:16,400
+detto abbastanza di andare sulla chiusura della puntata se siete d'accordo, Filippo.
+
+911
+00:57:16,400 --> 00:57:19,920
+Allora troverete le note dell'episodio con i link agli argomenti che abbiamo
+
+912
+00:57:19,920 --> 00:57:23,120
+trattato in questa puntata e tutti i nostri riferimenti su a due
+
+913
+00:57:23,200 --> 00:57:25,600
+podcast.it32.
+
+914
+00:57:25,600 --> 00:57:30,160
+Ringraziamo gli spettatori che sono in diretta in questo momento, Daniele nella
+
+915
+00:57:30,400 --> 00:57:34,560
+Fattispecie, che ricordo che è anche lui un podcast, è un podcaster.
+
+916
+00:57:34,560 --> 00:57:38,560
+Il suo podcast si chiama Il Tiraline, andatevelo ad ascoltare.
+
+917
+00:57:38,720 --> 00:57:43,920
+Mentre ascoltate lui ricordatevi di lasciare una recensione anche a noi perché
+
+918
+00:57:43,920 --> 00:57:46,720
+siamo bravi, ma anche lui perché anche lui è bravo.
+
+919
+00:57:46,720 --> 00:57:51,640
+E poi ricordatevi dove potete trovare i nostri due simpatici attori.
+
+920
+00:57:51,640 --> 00:57:57,760
+Ovvero il sottoscritto, potete trovarlo sul suo blog personale Mac Architettura che
+
+921
+00:57:57,760 --> 00:58:01,960
+potete trovare all'indirizzo marto.net.wordpress.com.
+
+922
+00:58:01,960 --> 00:58:06,200
+Oppure potete andarlo ad ascoltare se già non vi basta sentirlo adesso.
+
+923
+00:58:06,200 --> 00:58:09,160
+Volete andare a sentire che parla di architettura.
+
+924
+00:58:09,160 --> 00:58:14,040
+C'è il suo podcast settimanale che si chiama Snap Architettura Imperfetta, che
+
+925
+00:58:14,120 --> 00:58:17,080
+appunto vi parla di architettura e tecnologia.
+
+926
+00:58:17,080 --> 00:58:20,600
+Eventualmente, se non avete ancora abbastanza, volete sapere ancora un po' di
+
+927
+00:58:20,600 --> 00:58:21,720
+più di tecnologia.
+
+928
+00:58:21,720 --> 00:58:26,520
+Potete trovarmi anche sul blog ufficiale di Grafisoft Italia dove parlo del
+
+929
+00:58:26,520 --> 00:58:31,960
+BIM di questa tecnologia che spero soppianti in fretta il CAD perché
+
+930
+00:58:31,960 --> 00:58:34,920
+recentemente ho avuto a che fare di nuovo col CAD e non
+
+931
+00:58:34,920 --> 00:58:36,360
+lo voglio più vedere.
+
+932
+00:58:36,360 --> 00:58:38,280
+Mentre Filippo, dove lo troviamo?
+
+933
+00:58:38,280 --> 00:58:44,920
+Il nostro simpatico Filippo avvocateMac.it e lo dico piano, perché anche ho
+
+934
+00:58:45,080 --> 00:58:49,880
+anche un podcast che sta riprendendo a cadenza più o meno mensile.
+
+935
+00:58:49,880 --> 00:58:53,400
+Ma adesso vediamo se a marzo riesco a registrare la puntata.
+
+936
+00:58:53,400 --> 00:58:57,400
+Già il primo giro di registrazione è saltato per vari impegni.
+
+937
+00:58:57,400 --> 00:59:03,400
+Cercherò di mantenere una cadenza mensile, spero anche nel mio podcast che
+
+938
+00:59:03,400 --> 00:59:05,720
+si chiama Compendium Avvocati e Mac Compendium.
+
+939
+00:59:05,720 --> 00:59:09,320
+Benissimo, adesso sapete dove trovarci, ci sentiamo tra due settimane.
+
+940
+00:59:09,320 --> 00:59:10,280
+Alla prossima!

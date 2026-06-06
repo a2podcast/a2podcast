@@ -11,7 +11,7 @@ tags = ["sicurezza", "password-manager", "privacy", "cybersecurity"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "Mhq2YnKDih8"
   guest = "andrea-ciraolo"
 +++

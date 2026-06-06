@@ -1,0 +1,4675 @@
+1
+00:00:00,160 --> 00:00:05,920
+Benvenuti all'episodio 54 di A2, in cui scoprire come ottenere il massimo
+
+2
+00:00:05,920 --> 00:00:07,440
+dalla vostra tecnologia Apple.
+
+3
+00:00:07,440 --> 00:00:11,280
+Io sono Filippo Strozzi e sono il vostro ospite, assieme all'amico Roberto
+
+4
+00:00:11,280 --> 00:00:11,760
+Marin.
+
+5
+00:00:11,760 --> 00:00:13,840
+Di che cosa parliamo in questa puntata, Roberto?
+
+6
+00:00:13,840 --> 00:00:16,080
+Ti interrompo subito perché hai sbagliato tutto.
+
+7
+00:00:16,080 --> 00:00:19,200
+Ti riprendo da capo perché è vero, sono tuo amico, mi chiamo
+
+8
+00:00:19,200 --> 00:00:23,440
+Roberto Marin, ma non siamo da soli, abbiamo un ospite ovviamente di
+
+9
+00:00:23,440 --> 00:00:24,640
+enorme importanza.
+
+10
+00:00:24,640 --> 00:00:29,040
+Come ormai qua su A2 Podcast, siamo abituati a ospitare gente
+
+11
+00:00:29,040 --> 00:00:33,040
+di un certo livello, come si direbbe in certi ambiti, abbiamo con
+
+12
+00:00:33,040 --> 00:00:37,040
+noi il mitico, il grandissimo Lucio Bragagnolo.
+
+13
+00:00:37,040 --> 00:00:42,320
+Non ho guadagnato tutto questo peso durante le vacanze, quindi smettetela subito.
+
+14
+00:00:42,320 --> 00:00:46,240
+Ciao a tutti, è un piacerone averti qui con noi ai microfoni,
+
+15
+00:00:46,240 --> 00:00:47,920
+come sempre, simpaticissimo.
+
+16
+00:00:47,920 --> 00:00:49,680
+Soprattutto sei molto
+
+17
+00:00:50,720 --> 00:00:53,360
+dire, alla mano, che è una cosa che non tutti hanno.
+
+18
+00:00:53,520 --> 00:00:56,560
+E questo ci fa molto piacere, siamo molto contenti di stare di
+
+19
+00:00:56,560 --> 00:00:57,760
+nuovo in tua compagnia.
+
+20
+00:00:57,760 --> 00:01:01,600
+E questa volta ti abbiamo invitato perché abbiamo qualcosa di cui parlare,
+
+21
+00:01:01,600 --> 00:01:04,640
+di un'applicazione che più o meno stavamo aspettando tutti e tre per
+
+22
+00:01:04,640 --> 00:01:06,160
+un motivo o per l'altro.
+
+23
+00:01:06,160 --> 00:01:10,400
+E quindi, diciamo, il quarto ospite, perché giustamente si gioca in poker
+
+24
+00:01:10,560 --> 00:01:13,120
+in quattro o in 5, adesso non mi ricordo più, comunque diciamo
+
+25
+00:01:13,120 --> 00:01:14,960
+che si gioca a scopa in quattro.
+
+26
+00:01:14,960 --> 00:01:16,240
+Così dobbiamo essere più sicuri.
+
+27
+00:01:16,240 --> 00:01:17,200
+Oppure Pinacola.
+
+28
+00:01:17,200 --> 00:01:20,480
+Pinacola sono più tranquillo perché sono sicuro che si gioca almeno in
+
+29
+00:01:20,480 --> 00:01:21,040
+quattro.
+
+30
+00:01:21,040 --> 00:01:25,760
+E il quarto ospite è Free Form, l'applicazione di Apple che ci
+
+31
+00:01:25,760 --> 00:01:30,000
+ha lanciato diciamo così un po' sulla schiena, perché ci ha lasciato
+
+32
+00:01:30,000 --> 00:01:35,760
+un po' sospeso da quando l'aveva annunciato nel lontano 2022, se non
+
+33
+00:01:35,760 --> 00:01:37,040
+erro nell'ultimo chinote
+
+34
+00:01:38,400 --> 00:01:42,640
+, che abbiamo commentato assieme tra l'altro, al buon Lucio.
+
+35
+00:01:43,200 --> 00:01:44,160
+Esatto, esatto.
+
+36
+00:01:44,160 --> 00:01:47,520
+Ci ha lasciato in sospeso adesso, finalmente ne possiamo parlare.
+
+37
+00:01:47,520 --> 00:01:51,440
+Ma prima di parlare di Friform, chiediamo un po' a Lucio come
+
+38
+00:01:51,520 --> 00:01:53,280
+va la vita, cosa ci racconti di Benio?
+
+39
+00:01:53,440 --> 00:01:56,720
+Dunque, ieri ho fatto notte a guardare il Super Bowl.
+
+40
+00:01:56,720 --> 00:02:01,880
+Quindi adesso sono completamente rintronato e aspetto che voi mi mettiate in
+
+41
+00:02:01,880 --> 00:02:05,000
+bocca le parole perché non ho la minima idea di che cosa
+
+42
+00:02:05,000 --> 00:02:07,720
+sta succedendo né di come mi chiamo.
+
+43
+00:02:07,720 --> 00:02:12,120
+Al di là di questo sto usando Freeform un bel po' per
+
+44
+00:02:12,120 --> 00:02:22,040
+attività paraludiche e perché avevo una grande esigenza di uno strumento che
+
+45
+00:02:22,520 --> 00:02:29,400
+fosse nativo, capace di operare come un'app e non come una finestra
+
+46
+00:02:29,400 --> 00:02:34,120
+web per prendere appunti in modo libero e magari anche per farlo
+
+47
+00:02:34,120 --> 00:02:36,760
+in modo collaborativo.
+
+48
+00:02:36,760 --> 00:02:42,840
+Dopodiché, da quando ci siamo visti l'ultima volta, ho cambiato iPhone, ho
+
+49
+00:02:42,840 --> 00:02:48,520
+cambiato iPad, e tutto questo involontariamente.
+
+50
+00:02:48,520 --> 00:02:50,840
+Quindi la vita va benissimo.
+
+51
+00:02:50,840 --> 00:02:56,200
+Il conto corrente conta di rimpinguarsi con gli incassi di questo favoloso
+
+52
+00:02:56,200 --> 00:02:56,760
+popolo.
+
+53
+00:02:56,760 --> 00:03:00,120
+Ok, bene, allora sei messo malissimo,
+
+54
+00:03:01,400 --> 00:03:03,240
+stiamo aspettando anche noi.
+
+55
+00:03:03,240 --> 00:03:07,320
+Vi interrompo solo un attimo perché se no dopo perdiamo la trebisonda,
+
+56
+00:03:07,320 --> 00:03:12,120
+come ho solito, e devo far ascoltare la sigla A2 Podcast.
+
+57
+00:03:12,120 --> 00:03:15,640
+Scopri come ottenere il massimo dalla tua tecnologia apple.
+
+58
+00:03:15,640 --> 00:03:20,200
+Due professionisti, Filippo e Roberto, te lo spiegano con argomenti monotematici ed
+
+59
+00:03:20,200 --> 00:03:23,080
+ospiti che raccontano il loro flusso di lavoro,
+
+60
+00:03:29,800 --> 00:03:33,880
+vedici qua, dopo la sigla, possiamo lanciarci con il nostro ospite, come
+
+61
+00:03:33,880 --> 00:03:36,680
+dicevamo, che ci racconterà il suo flusso di lavoro che ha avuto
+
+62
+00:03:36,680 --> 00:03:37,880
+anche con noi due.
+
+63
+00:03:37,880 --> 00:03:43,400
+Perché abbiamo avuto la bella idea di mettere subito questa magnifica applicazione
+
+64
+00:03:43,560 --> 00:03:48,240
+che stavamo aspettando appunto per un lavoro collaborativo, ovvero parlare della puntata
+
+65
+00:03:48,240 --> 00:03:54,480
+di Freeform con Freeform in siti diversi su sistemi diversi.
+
+66
+00:03:54,480 --> 00:03:58,480
+Io, ad esempio, sono un poverino e non ho ancora il Ma
+
+67
+00:03:58,800 --> 00:04:02,800
+Sultimo aggiornato, quindi non l'ho usato sul computer.
+
+68
+00:04:02,800 --> 00:04:06,880
+Ma in compenso l'ho usato su iPhone e iPad e dobbiamo dire
+
+69
+00:04:06,880 --> 00:04:11,440
+che ci sono luci e ombre sul sistema su Freeform, è potuto
+
+70
+00:04:11,600 --> 00:04:12,720
+dire molto interessante.
+
+71
+00:04:12,720 --> 00:04:16,000
+No, beh, vabbè, allora, bene o male, hai già raccontato, abbiamo
+
+72
+00:04:17,040 --> 00:04:21,520
+cos'è ormai 3-4 settimane che abbiamo iniziato a giocarci assieme.
+
+73
+00:04:21,520 --> 00:04:26,800
+Abbiamo fatto un po' di esperimenti di vario genere, la collaborazione anche
+
+74
+00:04:26,800 --> 00:04:31,040
+in diretta, perché a un certo punto ci siamo trovati più o
+
+75
+00:04:31,040 --> 00:04:38,240
+meno sulla stessa lavagna assieme, mettiamola così, abbiamo visto i pregi e
+
+76
+00:04:38,240 --> 00:04:44,080
+anche i difetti di questa nuova applicazione, sicuramente credo condividiate con me.
+
+77
+00:04:44,080 --> 00:04:49,520
+È un ottimo prima release, ma ha ancora qualcosa da aggiustare qua
+
+78
+00:04:49,520 --> 00:04:53,120
+e là e probabilmente deve ancora un po' crescere.
+
+79
+00:04:53,120 --> 00:04:53,680
+Tutto,
+
+80
+00:04:55,200 --> 00:05:00,080
+come primo giro, non è affatto male e almeno da utente Apple
+
+81
+00:05:00,080 --> 00:05:05,440
+che conosce meno male gli strumenti, perché Friform, almeno dal mio punto
+
+82
+00:05:05,440 --> 00:05:11,360
+di vista, riprende tanti archetipi di applicazioni del mondo high work
+
+83
+00:05:12,800 --> 00:05:14,000
+di Apple.
+
+84
+00:05:14,000 --> 00:05:18,960
+Sicuramente, per esempio, io che uso molto Kynote, non dico mi sono
+
+85
+00:05:18,960 --> 00:05:23,600
+trovato a casa, ma comunque ho trovato molte similarità e molti concetti
+
+86
+00:05:23,760 --> 00:05:25,680
+simili su Freeform.
+
+87
+00:05:25,680 --> 00:05:31,240
+Quindi effettivamente mi sono trovato molto bene per iniziare a creare tante
+
+88
+00:05:31,240 --> 00:05:36,360
+cose, ecco, perché poi abbiamo fatto veramente una cosa abbastanza ci abbiamo
+
+89
+00:05:36,440 --> 00:05:40,600
+giocato molto, mettiamola così: non è una chiamiamola in questi termini, mappa
+
+90
+00:05:40,600 --> 00:05:48,360
+mentale super organizzata, ma sicuramente l'abbiamo proprio testata, non dico tirata al
+
+91
+00:05:48,360 --> 00:05:50,360
+massimo, ma abbiamo sicuramente
+
+92
+00:05:52,760 --> 00:05:55,800
+abbiamo provato tutto quello che si poteva provare, ci abbiamo cercato di
+
+93
+00:05:55,800 --> 00:05:59,880
+provarlo a fare con esiti più o meno positivi, ma questo è
+
+94
+00:05:59,880 --> 00:06:01,000
+un altro discorso.
+
+95
+00:06:01,000 --> 00:06:04,760
+Tuttavia, le idee ce le siamo fatte credo abbastanza chiare.
+
+96
+00:06:04,760 --> 00:06:06,760
+Sì, esatto, tornando a Freeform.
+
+97
+00:06:06,760 --> 00:06:08,360
+Forse dobbiamo dare un attimo di spiegazione.
+
+98
+00:06:08,360 --> 00:06:12,600
+Friform cos'è essenzialmente questa nuova applicazione che vi trovate che ha un
+
+99
+00:06:12,600 --> 00:06:16,600
+canvas, ovvero un foglio infinito che io aspettavo veramente da moltissimo.
+
+100
+00:06:16,600 --> 00:06:21,240
+Perché chiusa note per prendere le proprie annotazioni, si trova bloccato in
+
+101
+00:06:21,240 --> 00:06:24,520
+questo foglio, non può spostarsi né a destra né a sinistra, ma
+
+102
+00:06:24,520 --> 00:06:27,800
+può soltanto andare verso il basso, perché verso l'alto sono note che
+
+103
+00:06:27,800 --> 00:06:30,600
+ci ha preso, quindi devi scendere, scendere e scendere.
+
+104
+00:06:30,600 --> 00:06:34,280
+Essenzialmente pare che con due dita vi potete spostare ovunque all'interno di
+
+105
+00:06:34,280 --> 00:06:35,720
+questo foglio infinito.
+
+106
+00:06:35,720 --> 00:06:40,920
+Per fortuna aggiungo io perché non aspettavo nient'altro, perché uno dei problemi,
+
+107
+00:06:40,920 --> 00:06:45,480
+secondo me, di note è che non aveva, diciamo, il sottofondo con
+
+108
+00:06:45,480 --> 00:06:47,800
+i puntini, che a me serve tantissimo.
+
+109
+00:06:47,800 --> 00:06:51,000
+Essendo architetto, purtroppo questo è il mio lavoro, ma sono abituato a
+
+110
+00:06:51,000 --> 00:06:55,000
+disegnare sui fogli con i puntini per avere almeno delle dimensioni, una
+
+111
+00:06:55,000 --> 00:06:58,680
+serie di punti di riferimento per riuscire a disegnare in scala e
+
+112
+00:06:58,680 --> 00:07:00,760
+a me serviva moltissimo questi puntini.
+
+113
+00:07:00,760 --> 00:07:04,200
+Ma ovviamente questo è un lato positivo, ma penso che a fine
+
+114
+00:07:04,200 --> 00:07:07,960
+puntata raccoglierò tutti i lati negativi e li racconto io dal mio
+
+115
+00:07:07,960 --> 00:07:09,800
+punto di vista che facciamo prima.
+
+116
+00:07:09,800 --> 00:07:15,760
+In ogni caso, non ha soltanto questa, diciamo, questa possibilità free form,
+
+117
+00:07:15,760 --> 00:07:20,000
+perché potete usarla con una lavagna condivisa come abbiamo fatto io, Filippo
+
+118
+00:07:14,760 --> 00:07:20,880
+e Lucio.
+
+119
+00:07:21,120 --> 00:07:25,600
+Con la possibilità di disegnare a mano con Apple Pencil, potete anche
+
+120
+00:07:25,600 --> 00:07:27,120
+scrivere normale testo.
+
+121
+00:07:27,120 --> 00:07:32,320
+C'è questa possibilità, c'è riconoscimento, se non ricordo male, corrigetemi se sbaglio.
+
+122
+00:07:32,480 --> 00:07:35,200
+Ricoscimento del testo anche all'interno di free form.
+
+123
+00:07:35,440 --> 00:07:36,960
+Sì, c'è Scribble, ma
+
+124
+00:07:39,120 --> 00:07:44,400
+non ti stira fuori, non so come definirlo, non riesce a strapolare
+
+125
+00:07:44,720 --> 00:07:48,880
+le lettere scritte a mano, chiamiamoli questi termini come note, non riesci
+
+126
+00:07:48,880 --> 00:07:53,680
+a farti la conversione, se usi Scribble, però sì: scrivi con Scribble
+
+127
+00:07:53,680 --> 00:07:57,440
+e poi te lo converti, quello che scrivi, quello che scrivi, viene
+
+128
+00:07:57,440 --> 00:08:03,200
+convertito in tempo reale, non riesce a farlo a posteriore, esatto, cosa
+
+129
+00:08:03,200 --> 00:08:06,400
+che invece, secondo me, in note riesce a fare, e tra l'altro
+
+130
+00:08:07,120 --> 00:08:10,160
+una delle cose che mi sarebbe piaciuta avere, però capisco che come
+
+131
+00:08:10,160 --> 00:08:14,000
+prima versione non si può prendere la luna, in note hai tutta
+
+132
+00:08:14,000 --> 00:08:17,280
+una serie di funzioni, non so, per radrizzare il testo, che casomai
+
+133
+00:08:17,440 --> 00:08:22,400
+non è scritto perfettamente e dritto, si può disegnare con Apple Pencil,
+
+134
+00:08:22,400 --> 00:08:22,880
+ma non
+
+135
+00:08:23,920 --> 00:08:26,000
+ci sono ancora almeno.
+
+136
+00:08:26,000 --> 00:08:30,240
+Le funzioni chiamiamole così più avanzate che sono presenti invece in note.
+
+137
+00:08:30,400 --> 00:08:34,080
+L'unica cosa che mi ha lasciato abbastanza basito, anche se capisco che
+
+138
+00:08:34,080 --> 00:08:39,920
+dal punto di vista Apple, probabilmente è evoluta, è che se si
+
+139
+00:08:39,920 --> 00:08:46,480
+può scrivere tranquillamente, disegnare tutto con Apple Pencil su iPad, non si
+
+140
+00:08:46,480 --> 00:08:52,000
+può, per esempio, utilizzare una tavoletta grafica su Mac per fare altrettanto.
+
+141
+00:08:52,000 --> 00:08:57,520
+L'unica cosa che si può fare eventualmente è disegnare con Apple Pencil,
+
+142
+00:08:57,520 --> 00:09:01,960
+cioè da Mac passo la palla come già fanno tutte le applicazioni
+
+143
+00:08:59,760 --> 00:09:02,520
+Apple.
+
+144
+00:09:02,840 --> 00:09:06,760
+Passo la palla a un iPad e a questo punto posso disegnare
+
+145
+00:09:06,760 --> 00:09:12,280
+sull'iPad la parte, diciamo, grafica che voglio disegnare e poi riaverla sul
+
+146
+00:09:12,280 --> 00:09:12,760
+Mac.
+
+147
+00:09:12,760 --> 00:09:16,920
+Non si riesce per esempio a utilizzare, io non ho provato con
+
+148
+00:09:16,920 --> 00:09:21,400
+la tavoletta grafica perché quando ho provato non ce l'avevo, ma ho
+
+149
+00:09:21,400 --> 00:09:24,680
+utilizzato l'iPad come tavoletta grafica con Astropad.
+
+150
+00:09:24,680 --> 00:09:27,160
+Tuttavia, il vero problema è che proprio non c'è la funzione di
+
+151
+00:09:27,160 --> 00:09:30,040
+disegno a mano libera, chiamiamola in questi termini.
+
+152
+00:09:30,360 --> 00:09:35,240
+Su Mac, mentre su iPad c'è, e quindi si può fare tranquillamente.
+
+153
+00:09:36,760 --> 00:09:41,240
+Gli ingegneri Apple a copertino so che si sono vantati di molto
+
+154
+00:09:41,400 --> 00:09:46,520
+perché io mi sono sempre opposto a usare l'Apple Pencil è una
+
+155
+00:09:46,520 --> 00:09:52,600
+cosa che proprio non mi appartiene come logica, ma arrivato freeform per
+
+156
+00:09:52,600 --> 00:09:57,160
+la prima volta l'ho usata, e loro sono stati molto contenti.
+
+157
+00:09:57,160 --> 00:09:59,080
+So per certo che è successo questo!
+
+158
+00:09:59,080 --> 00:10:00,280
+C'è stata la ola
+
+159
+00:10:01,480 --> 00:10:01,720
+.
+
+160
+00:10:01,720 --> 00:10:06,600
+Sì, diciamo che secondo me è un'occasione persa, da un po' che
+
+161
+00:10:06,600 --> 00:10:11,400
+di questa cosa non riesco a capacitarmene perché in effetti col TrackPad,
+
+162
+00:10:11,400 --> 00:10:14,680
+che insomma, incomincia a avere delle dimensioni abbastanza generose.
+
+163
+00:10:14,680 --> 00:10:19,800
+Potrebbe essere utile, ad esempio, utilizzare l'Epple Pencil per questo tipo di
+
+164
+00:10:19,800 --> 00:10:23,160
+cose per piccole cose, non è che bisogna fare chissà cosa.
+
+165
+00:10:23,160 --> 00:10:27,960
+Tuttavano essere interessanti il passaggio di Apple Pencil che può passare da
+
+166
+00:10:27,960 --> 00:10:33,240
+un iPad a un MacBook, ad esempio, senza grosse problematiche.
+
+167
+00:10:33,240 --> 00:10:35,080
+Sarebbe interessante, secondo me.
+
+168
+00:10:35,080 --> 00:10:37,880
+Secondo me, tu la fai un po' troppo semplice, Roberto, a livello
+
+169
+00:10:37,880 --> 00:10:38,880
+tecnologico.
+
+170
+00:10:38,880 --> 00:10:44,920
+Non me ne volere, ma da uno schermo tattile, cioè, le tecnologie
+
+171
+00:10:44,920 --> 00:10:49,040
+effettivamente sono simili probabilmente, ma non sono uguali.
+
+172
+00:10:49,360 --> 00:10:53,680
+L'Apple Pencil, per esempio, comunque utilizza anche il Bluetooth
+
+173
+00:10:55,600 --> 00:11:00,080
+del dispositivo, è più complicato da gestire, secondo me,
+
+174
+00:11:02,560 --> 00:11:06,720
+che solo lo schermo di vetro, chiamiamoli in questi termini, capacitivo e
+
+175
+00:11:06,720 --> 00:11:07,440
+così via.
+
+176
+00:11:07,440 --> 00:11:10,960
+Già mi avete fatto usare Apple Pencil sull'iPad.
+
+177
+00:11:10,960 --> 00:11:16,560
+Adesso, per favore, non portate neanche il Mac con lo schermo
+
+178
+00:11:18,320 --> 00:11:23,920
+su cui si può scrivere, o abomini di questo tipo.
+
+179
+00:11:24,320 --> 00:11:28,960
+Ma no, ma io più che pensare proprio a uno schermo.
+
+180
+00:11:29,280 --> 00:11:31,120
+Bastava anche un trackpad.
+
+181
+00:11:31,120 --> 00:11:35,280
+Per esempio, potrebbe essere utile per firmare oppure per fare piccoli disegni
+
+182
+00:11:35,360 --> 00:11:38,960
+in questo caso, ma lasciando comunque tutto il resto del puntamento al
+
+183
+00:11:38,960 --> 00:11:44,400
+mouse, proprio come diciamo, opzione, una cosa in senso: come tavoletta grafica
+
+184
+00:11:44,400 --> 00:11:47,280
+sul track esatto, in miniatura, una cosa da avere lì che puoi
+
+185
+00:11:47,280 --> 00:11:47,680
+utilizzare.
+
+186
+00:11:47,680 --> 00:11:51,120
+Che ne so, anche per esempio, con Photoshop potrebbe essere utile farlo
+
+187
+00:11:51,120 --> 00:11:54,240
+direttamente con la pencil invece che passare col mouse.
+
+188
+00:11:54,240 --> 00:11:58,720
+Oppure anche dei disegni semplici da fare su note potrebbe essere interessante.
+
+189
+00:11:58,720 --> 00:12:02,320
+O anche su il famosissimo freeform.
+
+190
+00:12:02,320 --> 00:12:05,760
+Ma qui ovviamente stiamo prendendo la tangente tanto per cambiare.
+
+191
+00:12:05,920 --> 00:12:09,520
+Quindi torniamo subito dritti dritti su quello che si può fare e
+
+192
+00:12:09,520 --> 00:12:11,280
+cosa non si può fare con Freeform.
+
+193
+00:12:11,280 --> 00:12:14,400
+Perché se no sapete già che ce la raccontiamo fino a notte
+
+194
+00:12:14,400 --> 00:12:14,880
+fonda.
+
+195
+00:12:14,880 --> 00:12:18,720
+Quindi un problema poi per Filippo che si deve editare tutto quanto.
+
+196
+00:12:18,960 --> 00:12:23,760
+In ogni caso, tornando invece a Free Form, ci sono molti strumenti
+
+197
+00:12:23,760 --> 00:12:29,360
+a disposizione, con essenzialmente strumenti simili a quelli che si usa in
+
+198
+00:12:29,360 --> 00:12:37,320
+Keynote, per chi non sapesse, Keynote è essenzialmente il programma antagonista, probabilmente
+
+199
+00:12:37,640 --> 00:12:43,080
+anche fatto meglio, giusto perché siamo amici di Apple,
+
+200
+00:12:44,600 --> 00:12:47,480
+del programma che non si può dire il nome in questo momento,
+
+201
+00:12:47,480 --> 00:12:48,680
+ma anche di Microsoft.
+
+202
+00:12:48,680 --> 00:12:53,400
+Quindi avete immaginato di chi sto parlando, giusto per essere politicamente corretti.
+
+203
+00:12:53,720 --> 00:12:57,240
+Oltre a queste cose, a questi strumenti a disposizione, c'è anche la
+
+204
+00:12:57,240 --> 00:13:01,240
+possibilità di inserire post-it virtuali, potete inserire immagini.
+
+205
+00:13:01,240 --> 00:13:05,320
+Come vi dicevamo prima, scrivere sia dal punto di vista del testo
+
+206
+00:13:05,320 --> 00:13:12,280
+normale, diciamo, digitato, al testo riconosciuto con Scribble, al testo fatto a
+
+207
+00:13:12,280 --> 00:13:12,920
+mano.
+
+208
+00:13:12,920 --> 00:13:18,600
+Sul testo fatto a mano c'è stato qualche piccolo, diciamo, imprevisto o
+
+209
+00:13:18,920 --> 00:13:21,480
+diciamo inciampo di percorso.
+
+210
+00:13:21,480 --> 00:13:25,160
+Ma a questo punto lascio la parola a Lucio perché sono veramente
+
+211
+00:13:25,160 --> 00:13:29,240
+curioso di sentire i suoi pensieri riguardo a Freeform dopo che l'ha
+
+212
+00:13:29,320 --> 00:13:30,680
+utilizzato qualche tempo.
+
+213
+00:13:30,680 --> 00:13:36,840
+Ma intanto una premessa: Friform ha già attraversato un aggiornamento e adesso,
+
+214
+00:13:36,840 --> 00:13:43,320
+dopo l'aggiornamento, è la versione 1.0, per cui abbiamo una qualche idea
+
+215
+00:13:43,320 --> 00:13:46,600
+di che cosa fosse prima del primo aggiornamento.
+
+216
+00:13:46,680 --> 00:13:52,120
+Update che, come si può immaginare, ha messo a posto prima di
+
+217
+00:13:52,120 --> 00:13:56,680
+tutto, qualcuna delle problematiche più importanti
+
+218
+00:13:57,960 --> 00:13:59,560
+e più critiche
+
+219
+00:14:00,840 --> 00:14:03,240
+per lo scopo dell'app.
+
+220
+00:14:03,480 --> 00:14:09,160
+Una di queste era sincronizzare correttamente il testo scritto a mano, da
+
+221
+00:14:09,160 --> 00:14:14,200
+dove lo scrivi agli altri device, chiunque li possieda, con cui viene
+
+222
+00:14:14,200 --> 00:14:17,920
+condivisa la lavagna, la board.
+
+223
+00:14:19,920 --> 00:14:25,040
+Da questo punto di vista sembra che siano state risolte queste cose
+
+224
+00:14:25,360 --> 00:14:28,960
+primarie, di prima necessità.
+
+225
+00:14:28,960 --> 00:14:34,640
+Se avete lavagne vecchie, quelle lì continueranno ad aggiornarsi e a sincronizzarsi
+
+226
+00:14:34,640 --> 00:14:40,080
+male, apritene una nuova, aprendone una nuova da zero con il programma
+
+227
+00:14:40,080 --> 00:14:45,200
+aggiornato, la sincronizzazione funziona come deve funzionare.
+
+228
+00:14:45,200 --> 00:14:47,680
+E questa era la prima cosa.
+
+229
+00:14:47,680 --> 00:14:52,400
+Prima di ripassare la palla aggiungo la premessa della premessa.
+
+230
+00:14:52,400 --> 00:15:00,640
+Io uso da molto tempo un'app di quelle zero code che stanno
+
+231
+00:15:00,640 --> 00:15:05,840
+su internet, sono dei blob di JavaScript pazzeschi che si chiama Miro,
+
+232
+00:15:05,840 --> 00:15:14,880
+Miro.com, che fa esattamente quello che aspira a fare Freeform, lavoro collaborativo
+
+233
+00:15:15,200 --> 00:15:23,360
+su una tela infinita con libertà di disporre a piacere testo, immagini,
+
+234
+00:15:23,360 --> 00:15:28,560
+video, HTML, mappe mentali, contenuti di ogni genere.
+
+235
+00:15:28,560 --> 00:15:33,840
+Quindi ogni tanto a me capiterà di fare soprattutto dei confronti con
+
+236
+00:15:33,840 --> 00:15:40,000
+Miro che io uso non quotidianamente ma molte volte l'anno in ambito
+
+237
+00:15:40,000 --> 00:15:46,320
+lavorativo con clienti per cui si fanno dei workshop a distanza, si
+
+238
+00:15:46,320 --> 00:15:52,880
+presentano cose sulla lavagna infinita di Miro, si fa lavoro collaborativo a
+
+239
+00:15:53,040 --> 00:15:53,200
+fare.
+
+240
+00:15:53,440 --> 00:15:57,440
+Allora, Filippo, invece tu ci racconti un attimo invece cosa ci hai
+
+241
+00:15:57,440 --> 00:16:00,520
+appiccicato a queste lavagne, diciamo condivise.
+
+242
+00:16:01,240 --> 00:16:05,800
+La cosa interessante di Friform è che di fatto ci puoi lanciare
+
+243
+00:16:05,800 --> 00:16:11,080
+quasi tutto dentro e lo gestisci in qualche maniera non nella maniera
+
+244
+00:16:11,080 --> 00:16:16,600
+migliore, forse, ma qualche maniera lo gestisce perché abbiamo provato a buttarci
+
+245
+00:16:16,600 --> 00:16:20,120
+dentro la cattura a schermo, nessun problema, anzi,
+
+246
+00:16:21,880 --> 00:16:25,000
+io mi sono in particolar modo divertito a fare la cattura a
+
+247
+00:16:25,000 --> 00:16:30,840
+schermo dei problemi di free form e inserirli dentro come immagine.
+
+248
+00:16:30,840 --> 00:16:32,920
+C'è la possibilità di inserire il PDF.
+
+249
+00:16:32,920 --> 00:16:37,640
+Abbiamo già detto le note, diciamo, tipo post-it, che chiamano in questi
+
+250
+00:16:37,640 --> 00:16:41,960
+termini: i link che è una delle funzioni che io amo e
+
+251
+00:16:41,960 --> 00:16:45,960
+che, per esempio, non ho nelle mie mappe mentali e che gradirei
+
+252
+00:16:46,120 --> 00:16:47,880
+avere nelle mappe mentali.
+
+253
+00:16:48,200 --> 00:16:54,520
+Se tu inserisci il link automaticamente, come note, non solo vedi il
+
+254
+00:16:54,520 --> 00:17:00,680
+link, diciamo, ma hai anche l'anteprima, per esempio, non so, della pagina
+
+255
+00:17:00,680 --> 00:17:06,440
+web il nome dell'articolo sotto è un'operazione relativamente semplice: cioè va a
+
+256
+00:17:06,440 --> 00:17:09,720
+catturare quello che è di partenza
+
+257
+00:17:11,000 --> 00:17:15,800
+della pagina web del link e il titolo della pagina sostanzialmente.
+
+258
+00:17:15,800 --> 00:17:20,520
+Tuttavia, effettivamente a livello grafico diventa molto intuitivo e ti permette di
+
+259
+00:17:20,520 --> 00:17:25,240
+comprendere rapidamente mentre casomai un link se non c'è il nome dentro
+
+260
+00:17:25,480 --> 00:17:29,000
+così via, fai fatica anche a capire di cosa si tratta.
+
+261
+00:17:29,000 --> 00:17:30,040
+Per esempio,
+
+262
+00:17:31,160 --> 00:17:35,800
+per questa lavagna ho inserito tutta una serie di link a risorse
+
+263
+00:17:35,800 --> 00:17:38,120
+che saranno poi nelle note dell'episodio.
+
+264
+00:17:38,120 --> 00:17:42,840
+Divide prevalentemente in inglese, devo dire la verità: su come utilizzare Freeform,
+
+265
+00:17:42,840 --> 00:17:45,600
+su trucchi per utilizzare Freeform.
+
+266
+00:17:45,600 --> 00:17:48,560
+E la cosa bella di questi link è che si vedeva la
+
+267
+00:17:48,560 --> 00:17:49,280
+miniatura.
+
+268
+00:17:49,280 --> 00:17:53,360
+La maggior parte sono video, la miniatura appunto del video di YouTube
+
+269
+00:17:53,600 --> 00:17:55,440
+con il nome e col titolo del video.
+
+270
+00:17:55,440 --> 00:18:02,400
+E quindi diventava veramente molto più semplice da visualizzare, comprendere, anche far
+
+271
+00:18:02,400 --> 00:18:07,680
+vedere a chi è interessato, perché alla fine, appunto, diventa molto grafico,
+
+272
+00:18:07,680 --> 00:18:11,600
+molto visuale e ti permette proprio di gestire in maniera
+
+273
+00:18:12,720 --> 00:18:18,160
+molto puntuale e molto bella il tutto, e anche qui con cavas
+
+274
+00:18:18,160 --> 00:18:18,960
+è infinita.
+
+275
+00:18:18,960 --> 00:18:26,080
+Quindi le posso rigirare, spostare, riorganizzare, commentare, abbiamo fatto un po' di
+
+276
+00:18:26,080 --> 00:18:27,440
+tutto di più sostanzialmente.
+
+277
+00:18:27,440 --> 00:18:31,360
+Quindi devo dire la verità: questo aspetto secondo me è veramente molto
+
+278
+00:18:31,360 --> 00:18:31,920
+interessante.
+
+279
+00:18:31,920 --> 00:18:35,600
+Si possono inserire anche i video, infatti, l'altra cosa che mi lascia
+
+280
+00:18:35,600 --> 00:18:38,960
+abbastanza perplesso, mettiamoli in questi termini.
+
+281
+00:18:39,120 --> 00:18:45,040
+Non ho trovato, se avete trovato voi, immagino che il backend sia
+
+282
+00:18:45,040 --> 00:18:51,040
+sempre di i cloud, cioè lo spazio, diciamo, dove vive il file,
+
+283
+00:18:51,280 --> 00:18:57,040
+l'enorme file, perché la nostra lavagna è effettivamente una lavagna diventata piuttosto
+
+284
+00:18:57,040 --> 00:19:01,120
+grossa, mettiamoli in questi termini a livello di spazio.
+
+285
+00:19:01,520 --> 00:19:06,080
+Mentre Lucio scriveva a mano, ho ripreso con l'iPhone e postato il
+
+286
+00:19:06,320 --> 00:19:07,600
+cosa vedevo io.
+
+287
+00:19:07,600 --> 00:19:12,000
+Diciamo mentre Lucio scriveva, tutto il video.
+
+288
+00:19:12,080 --> 00:19:15,680
+Tra altre cose, comunque un video girato dall'iPhone, che quindi vuol dire
+
+289
+00:19:15,680 --> 00:19:19,440
+saranno centinaia di megabyte, se non di più.
+
+290
+00:19:19,440 --> 00:19:20,880
+Queste lavagne diventano.
+
+291
+00:19:22,480 --> 00:19:26,560
+La lavagna che abbiamo creato noi oggettivamente diventa un qualcosa di abbastanza
+
+292
+00:19:26,560 --> 00:19:29,440
+impegnativo anche a livello di spazio.
+
+293
+00:19:29,440 --> 00:19:31,320
+Non ho ben capito come funziona.
+
+294
+00:19:31,560 --> 00:19:37,880
+Presumo e dico presumo che utilizzi lo spazio per le applicazioni di
+
+295
+00:19:38,120 --> 00:19:39,000
+cloud drive.
+
+296
+00:19:39,000 --> 00:19:41,400
+Tuttavia, questo è un punto di domanda.
+
+297
+00:19:41,400 --> 00:19:42,040
+Diciamo che
+
+298
+00:19:44,280 --> 00:19:49,880
+non ho trovato, secondo me, cose specifiche o articoli dove anche il
+
+299
+00:19:49,880 --> 00:19:55,240
+testo, per esempio, scritto a mano, essendo un'immagine, comunque un testo pesante
+
+300
+00:19:55,240 --> 00:20:01,240
+e probabilmente i primi problemi di sincronizzazione di questo testo erano legati
+
+301
+00:20:01,240 --> 00:20:07,000
+anche alle dimensioni, chiamiamole così, di questo testo, perché soprattutto all'inizio i
+
+302
+00:20:07,000 --> 00:20:09,720
+video ho visto che facevano abbastanza fatica.
+
+303
+00:20:10,040 --> 00:20:12,600
+Io facevo una cosa che non si dovrebbe fare, cioè lavoravo con
+
+304
+00:20:12,600 --> 00:20:18,120
+Friform aperto sul Mac e aperto su iPad, e in contemporanea guardavo
+
+305
+00:20:18,120 --> 00:20:21,000
+cosa succedeva da un dispositivo all'altro.
+
+306
+00:20:21,000 --> 00:20:26,200
+Come diceva Lucio con la versione 1.1, non ci credevo, ma lui
+
+307
+00:20:26,200 --> 00:20:27,080
+mi fa: No, è così.
+
+308
+00:20:27,080 --> 00:20:28,600
+E c'ha ragione, Lucio.
+
+309
+00:20:28,600 --> 00:20:29,320
+Ovviamente.
+
+310
+00:20:29,320 --> 00:20:33,960
+Ho provato a fare la stessa cosa su una nuova lavagna, e
+
+311
+00:20:33,960 --> 00:20:35,400
+tutto si è sincronizzato
+
+312
+00:20:36,840 --> 00:20:38,600
+in diretta mentre lo facevo.
+
+313
+00:20:38,600 --> 00:20:43,080
+Addirittura ho tirato fuori anche l'iPhone e anche nell'iPhone funzionava tutto senza
+
+314
+00:20:43,080 --> 00:20:43,560
+problemi.
+
+315
+00:20:43,560 --> 00:20:48,520
+Quindi devo dire la verità: mentre all'inizio abbiamo avuto veramente dei grossi
+
+316
+00:20:48,520 --> 00:20:53,320
+problemi sul soprattutto sul testo scritto a mano, chiamiamoli in questi termini,
+
+317
+00:20:53,320 --> 00:20:59,960
+adesso invece sembra funzionare tutto in maniera molto lineare e la cosa
+
+318
+00:21:00,040 --> 00:21:05,760
+appunto, più bella, ne ho parlato velocemente, ma credo che vada sottolineato,
+
+319
+00:21:05,880 --> 00:21:08,680
+è che la collaborazione può essere fatta veramente in diretta.
+
+320
+00:21:08,680 --> 00:21:13,080
+Cioè, io ho visto Lucio scrivere mentre scrivevo su un dispositivo, si
+
+321
+00:21:13,080 --> 00:21:19,520
+vedeva scrivere nell'altro, e quindi diventa anche molto interessante questa modalità collaborativa
+
+322
+00:21:19,920 --> 00:21:24,880
+non come Google Doc per intenderci, perché non è che si scrive
+
+323
+00:21:24,880 --> 00:21:30,480
+in senso tecnico un testo, però la lavagna si può riempire e
+
+324
+00:21:30,480 --> 00:21:35,280
+si possono fare commenti, si possono fare tante cose molto interessanti.
+
+325
+00:21:35,280 --> 00:21:38,400
+Dall'altra ci sono comunque una sorta di limiti.
+
+326
+00:21:38,400 --> 00:21:44,640
+Probabilmente non l'abbiamo provato questo, dovremmo provare per il prossimo giro.
+
+327
+00:21:44,640 --> 00:21:48,000
+L'idea di Freeform è proprio di avere la lavagna, essere in posti
+
+328
+00:21:48,000 --> 00:21:53,360
+differenti, usare face time per dialogare mentre si sta lavorando sulla lavagna.
+
+329
+00:21:54,640 --> 00:21:57,760
+Questo non l'abbiamo fatto, è l'unica cosa che ci siamo.
+
+330
+00:21:57,760 --> 00:22:03,840
+Non siamo riusciti a coordinarci così tanto, diciamo, probabilmente in quest'ottica diciamo,
+
+331
+00:22:03,840 --> 00:22:07,680
+non c'è il bisogno di capire chi sta facendo cosa, perché nel
+
+332
+00:22:07,680 --> 00:22:11,600
+mentre si sta è come se si fosse tutti assieme nello stesso
+
+333
+00:22:11,600 --> 00:22:15,200
+posto, anche se lontani, chiamiamoli in questo termine.
+
+334
+00:22:15,200 --> 00:22:19,680
+Se si lavora però in maniera diciamo asincrona invece, cioè io metto
+
+335
+00:22:19,680 --> 00:22:25,360
+qualcosa sulla lavagna, ma giustamente Roberto e Lucio non sono contemporaneamente presenti
+
+336
+00:22:25,360 --> 00:22:29,200
+con me, si perde questo aspetto.
+
+337
+00:22:29,200 --> 00:22:32,240
+E infatti, dopo abbiamo fatto tutta una serie di giochi per far
+
+338
+00:22:32,240 --> 00:22:35,360
+capire chi faceva cosa o chi aveva scritto cosa.
+
+339
+00:22:35,360 --> 00:22:41,760
+Apple ha una opportunità piuttosto grossa davanti in questo scenario perché se
+
+340
+00:22:41,760 --> 00:22:50,080
+l'esperimento con FaceTime riesce, hai comunicazione video di livello di punta di
+
+341
+00:22:50,080 --> 00:22:57,120
+qualità e auspicabilmente con la crescita di freeform, collaborazione sulla lavagna infinita
+
+342
+00:22:57,120 --> 00:22:58,640
+di livello di qualità.
+
+343
+00:22:58,640 --> 00:23:03,160
+Dico questo perché da utente di Miro e poi da esploratore degli
+
+344
+00:23:03,160 --> 00:23:10,680
+altri ambienti che ci sono in questo ambito o funziona bene l'ambito
+
+345
+00:23:10,680 --> 00:23:19,080
+del disegno della collaborazione e funziona meno bene la parte di contatto
+
+346
+00:23:19,080 --> 00:23:24,760
+video, di conferenza, di chiacchiera, o funziona molto bene la parte video
+
+347
+00:23:25,080 --> 00:23:32,840
+e invece la parte di lavagna lascia a desiderare uno dei grandi
+
+348
+00:23:33,480 --> 00:23:37,960
+programmi di collaborazione che fanno quelli là che non si devono nominare
+
+349
+00:23:38,040 --> 00:23:45,160
+che sono il male assoluto, ha dentro un ambiente di lavagna interattiva
+
+350
+00:23:45,160 --> 00:23:48,360
+collaborativa, fa abbastanza ridere.
+
+351
+00:23:48,840 --> 00:23:55,240
+Mitt ha un ambiente di lavagna collaborativa, fa un po' meno ridere,
+
+352
+00:23:55,240 --> 00:23:57,720
+però siamo ancora nel campo della comicità.
+
+353
+00:23:58,040 --> 00:24:05,080
+Miro fa molto bene la lavagna collaborativa e insomma non si trova
+
+354
+00:24:05,080 --> 00:24:09,240
+benissimo almeno per ora con le connessioni audio-video.
+
+355
+00:24:09,240 --> 00:24:13,720
+Se Apple riuscisse a fare bene l'una cosa e l'altra avrebbe un
+
+356
+00:24:13,720 --> 00:24:21,400
+asso da giocarsi negli ambienti di lavoro o comunque di intrattenimento, apprendimento
+
+357
+00:24:21,720 --> 00:24:24,760
+di un certo livello, una bella carta.
+
+358
+00:24:24,840 --> 00:24:31,080
+Assolutamente, la cosa che probabilmente dobbiamo dire è che effettivamente questa applicazione
+
+359
+00:24:31,400 --> 00:24:36,760
+nasce per risolvere un problema della pandemia, probabilmente della stessa Apple.
+
+360
+00:24:36,760 --> 00:24:42,920
+Roberto lo accennava ma non lo diceva, cioè keynote nasce perché Steve
+
+361
+00:24:42,920 --> 00:24:46,480
+Job voleva fare le presentazioni fatte bene appunto.
+
+362
+00:24:44,920 --> 00:24:50,080
+E questa applicazione è stata sviluppata perché l'ha voluta Steve Job.
+
+363
+00:24:50,480 --> 00:24:54,640
+Cioè Kino nasce da quello e funziona in una certa maniera e
+
+364
+00:24:54,640 --> 00:24:59,600
+ha caratteristiche che il suo competitor non ha o comunque non ha
+
+365
+00:24:59,600 --> 00:25:04,400
+tutte le sfaccettature, diciamo, che ha Kino proprio per questo motivo, secondo
+
+366
+00:25:04,400 --> 00:25:05,040
+me.
+
+367
+00:25:05,440 --> 00:25:10,320
+Freeform, secondo me, nasce in quest'ottica e probabilmente non lo sappiamo.
+
+368
+00:25:10,320 --> 00:25:15,280
+Però è una bella unione tra le varie tecnologie Apple, proprio perché
+
+369
+00:25:15,280 --> 00:25:20,320
+dovevano lavorare da remoto lontano e tuttora credo che lavorino ancora, perché
+
+370
+00:25:20,320 --> 00:25:25,760
+non credo che siano tornati al 100%, anche se vorrebbero, visto che
+
+371
+00:25:25,760 --> 00:25:34,160
+hanno speso milioni di dollari sul campus nuovo, ripristinare la presenza, c'è
+
+372
+00:25:34,160 --> 00:25:38,480
+una policy di giorni fissi di presenza e giorni fissi di possibile
+
+373
+00:25:38,480 --> 00:25:44,320
+assenza, che non piace assolutamente a tutti, ha provocato anche qualche defezione,
+
+374
+00:25:44,560 --> 00:25:48,400
+però, in questo momento per ora è quella del.
+
+375
+00:25:48,480 --> 00:25:52,560
+Quindi, effettivamente, se si vuole lavorare con un po' di gente a
+
+376
+00:25:52,560 --> 00:25:56,720
+caso, un po' di gente in ufficio questa diventa per forza.
+
+377
+00:25:57,200 --> 00:26:01,040
+E infatti, effettivamente, anche le interazioni sono state abbastanza veloci.
+
+378
+00:26:01,040 --> 00:26:08,320
+Cioè, dalla 1.0 alla 1.1 non è passato poi tanto.
+
+379
+00:26:09,440 --> 00:26:14,160
+Coi tempi di Apple, sempre che Freeform non è uscita in contemporanea
+
+380
+00:26:14,160 --> 00:26:16,560
+con tutti i sistemi operativi e così via.
+
+381
+00:26:16,880 --> 00:26:22,560
+Nel caso di Apple bisogna sempre cercare di indovinare che reparto si
+
+382
+00:26:22,560 --> 00:26:28,520
+sta occupando di quel pezzo di codice di quell'app, perché Page, schynote
+
+383
+00:26:28,480 --> 00:26:34,440
+e numbers non stanno sotto lo stesso cappello di dove sta macOS
+
+384
+00:26:34,440 --> 00:26:39,320
+piuttosto che piuttosto che altre piuttosto che Apple podcast per dire una
+
+385
+00:26:39,320 --> 00:26:44,760
+cosa qualsiasi io ho l'impressione quando l'ho visto per la prima volta
+
+386
+00:26:45,080 --> 00:26:47,560
+ho detto Filippo
+
+387
+00:26:49,160 --> 00:26:55,400
+avrà avuto ragione il 13 febbraio quando dirà nel podcast che è
+
+388
+00:26:55,400 --> 00:27:00,040
+stato fatto per le esigenze indotte dalla pandemia è stato un momento
+
+389
+00:27:00,040 --> 00:27:04,360
+di previsione del futuro in cui io mi sono molto compiaciuto di
+
+390
+00:27:04,360 --> 00:27:11,400
+me stesso e poi ho detto è un'app Frankenstein qualcuno ha detto
+
+391
+00:27:11,560 --> 00:27:16,600
+ma facciamo così per fare questa cosa prendiamo queste cose da Keynote
+
+392
+00:27:16,840 --> 00:27:20,920
+che poi come dire le prendiamo da Pegis e da Numbers perché
+
+393
+00:27:21,240 --> 00:27:28,920
+condividono lo stesso toolbox di strumenti queste cose le prendiamo da Safari,
+
+394
+00:27:28,920 --> 00:27:33,240
+queste altre cose le prendiamo da quello che rimane di QuickTime, mettiamo
+
+395
+00:27:33,240 --> 00:27:35,640
+tutto insieme e cuciamo insieme
+
+396
+00:27:36,920 --> 00:27:45,080
+il prototipo, l'inizio, la prima fase di una bella app per collaborare
+
+397
+00:27:45,080 --> 00:27:48,520
+insieme su della lavagna infinita.
+
+398
+00:27:49,320 --> 00:27:53,160
+Secondo me è andata un po' così, non è stato qualcuno a
+
+399
+00:27:53,160 --> 00:27:57,080
+volerla di preciso fatta in un certo modo, ma hanno detto mettiamo
+
+400
+00:27:57,080 --> 00:27:59,880
+insieme queste funzioni che sono quelle utili.
+
+401
+00:28:00,200 --> 00:28:05,880
+Infatti adesso possiamo intrattenerci durante la serata parlando come già si sta
+
+402
+00:28:05,880 --> 00:28:09,480
+facendo, di quello che fa, di quello che non fa, dovrebbe, non
+
+403
+00:28:09,480 --> 00:28:10,040
+dovrebbe.
+
+404
+00:28:10,600 --> 00:28:15,760
+Una piccola curiosità che volevo chiedervi è: avete parlato di versione 1.0
+
+405
+00:28:14,600 --> 00:28:17,440
+che abbiamo usato praticamente fino
+
+406
+00:28:14,760 --> 00:28:20,880
+all'altro ieri per parlare, lavorare insieme con Freeform.
+
+407
+00:28:21,040 --> 00:28:27,040
+Invece la versione chiamiamola 1.1 dove si fa aggiornare all'interno del sistema
+
+408
+00:28:27,040 --> 00:28:34,000
+operativo, immagino, attualmente sì, attualmente sì, che l'altra cosa strana della vicenda,
+
+409
+00:28:34,000 --> 00:28:37,440
+tra l'altro, perché Freeform nasce come
+
+410
+00:28:38,480 --> 00:28:45,200
+applicazione preinstallata, chiamiamola in questi termini, mentre tutto il reparto, diciamo ex
+
+411
+00:28:45,200 --> 00:28:49,840
+i work, cioè Nambars, PG e così via, invece sono applicazioni a
+
+412
+00:28:50,000 --> 00:28:57,120
+testanti, probabilmente però, casmai, mi sbaglio, preinstallata nel sistema operativo ha il
+
+413
+00:28:57,120 --> 00:29:01,280
+vantaggio di farla conoscere quando non è ancora conosciuta.
+
+414
+00:29:01,280 --> 00:29:06,320
+Anche se come al solito, Apple ne ha parlato al keynote, non
+
+415
+00:29:06,320 --> 00:29:08,000
+si è visto più niente
+
+416
+00:29:09,920 --> 00:29:16,080
+anche nelle ultime presentazioni, non è che ci abbiano minimamente parlato.
+
+417
+00:29:16,080 --> 00:29:21,840
+Adesso vediamo col nuovo keynote di quest'anno se casomai ci saranno novità.
+
+418
+00:29:21,840 --> 00:29:26,720
+Sai, quella volta lì dovevano mostrarti share time,
+
+419
+00:29:28,480 --> 00:29:35,440
+le funzioni aggiunte di FaceTime, quelle integrazioni lì che sono anche molto
+
+420
+00:29:35,440 --> 00:29:37,040
+più spettacolari.
+
+421
+00:29:37,600 --> 00:29:41,040
+E questo arriva dopo, non arriva proprio per tutti, non è che
+
+422
+00:29:41,040 --> 00:29:46,800
+tutti abbiano voglia di avere l'applicazione per prendere appunti a mano libera
+
+423
+00:29:47,600 --> 00:29:52,000
+su Mac o su o su iPhone o su iPad
+
+424
+00:29:53,040 --> 00:29:53,360
+.
+
+425
+00:29:53,360 --> 00:29:55,360
+E questa è un po' la ragione
+
+426
+00:29:56,560 --> 00:30:03,720
+dell'apparente trascuratezza poi ultimamente sono state presentate novità che poco avevano a
+
+427
+00:30:03,720 --> 00:30:08,680
+che vedere per me possiamo aspettarci qualche novità magari per la WW
+
+428
+00:30:08,920 --> 00:30:09,480
+DC
+
+429
+00:30:10,600 --> 00:30:16,360
+perché si vede che evoluzione hanno le prossime versioni dei sistemi operativi
+
+430
+00:30:16,680 --> 00:30:23,160
+e Freeform, come ha detto Filippo, appartiene alla cerchia più larga del
+
+431
+00:30:23,160 --> 00:30:26,760
+sistema operativo, delle app preinstallate.
+
+432
+00:30:26,760 --> 00:30:27,240
+Esatto.
+
+433
+00:30:27,240 --> 00:30:30,360
+E poi un'altra cosa di cui volevo parlare è che una mia
+
+434
+00:30:30,360 --> 00:30:35,800
+esperienza personale, a proposito di Keynote, che è un'applicazione così trasversale, che,
+
+435
+00:30:35,800 --> 00:30:39,800
+ad esempio, alcuni architetti lo utilizzano per fare le presentazioni dei propri
+
+436
+00:30:39,960 --> 00:30:40,680
+progetti.
+
+437
+00:30:40,680 --> 00:30:45,160
+Nel senso che invece di andare a scomodare app blasonate per
+
+438
+00:30:46,200 --> 00:30:47,560
+l'impaginazione
+
+439
+00:30:48,680 --> 00:30:53,800
+di tavole oppure di libri, basta anche semplicemente usare Keynote, perché è
+
+440
+00:30:53,800 --> 00:30:58,440
+così semplice, così trasversale nell'utilizzo che si può utilizzare anche per questi
+
+441
+00:30:58,680 --> 00:31:03,400
+tipi di presentazioni dei propri progetti o delle idee, o fare delle
+
+442
+00:31:03,560 --> 00:31:06,200
+mode board, ad esempio, o via discorrendo.
+
+443
+00:31:06,200 --> 00:31:11,560
+E Keynote è un'applicazione gratuita, tra le altre cose, preinstallata, che la
+
+444
+00:31:11,640 --> 00:31:16,520
+potete installare in qualsiasi momento, di Apple, e che comunque ha una
+
+445
+00:31:16,520 --> 00:31:20,760
+curva di apprendistato, chiamiamolo così, veramente piatta.
+
+446
+00:31:20,760 --> 00:31:25,080
+Perché è questione di pochi secondi per entrito nell'ordine di idee di
+
+447
+00:31:25,080 --> 00:31:27,400
+come utilizzarlo, per essere subito operativa.
+
+448
+00:31:27,480 --> 00:31:27,960
+Esatto.
+
+449
+00:31:28,120 --> 00:31:34,600
+Io adoro Kinote per come, specialmente dopo che ti sei preso la
+
+450
+00:31:34,600 --> 00:31:39,560
+briga di definirti uno stile, un template che è tuo dove non
+
+451
+00:31:39,560 --> 00:31:45,920
+devi cambiare il font, non devi cambiare magari la palette grafica, far
+
+452
+00:31:46,240 --> 00:31:52,240
+nascere una presentazione approssimata è questione veramente non di secondi, ma di
+
+453
+00:31:52,240 --> 00:31:54,240
+minuti e pochi minuti.
+
+454
+00:31:54,240 --> 00:31:59,840
+E se vuoi farla bella hai veramente tutti gli strumenti.
+
+455
+00:31:59,840 --> 00:32:04,080
+Poi a me capita tantissimo di essere in mobilità, essere in ritardo
+
+456
+00:32:04,080 --> 00:32:10,880
+con la presentazione, quindi in treno, in tram, in monopattino, tirare fuori
+
+457
+00:32:10,880 --> 00:32:20,240
+l'iPad al volo, sistemare, aggiungere, integrare, correggere, abbellire, arricchire, rivedere, si fa
+
+458
+00:32:20,240 --> 00:32:21,840
+meravigliosamente.
+
+459
+00:32:21,840 --> 00:32:26,400
+Poi se domani i free form si connettesse in qualche modo
+
+460
+00:32:27,680 --> 00:32:30,960
+a questo mondo sarebbe fantastico.
+
+461
+00:32:30,960 --> 00:32:36,480
+Se io potessi usare il programma per far arrivare automaticamente delle cose
+
+462
+00:32:36,720 --> 00:32:40,240
+dentro una slide di keynote, non sarebbe male.
+
+463
+00:32:40,240 --> 00:32:44,960
+Magari qualcuno, armeggiando con Apple Script o con i comandi rapidi, può
+
+464
+00:32:44,960 --> 00:32:47,360
+combinare qualcosa, o magari si potrà fare.
+
+465
+00:32:48,000 --> 00:32:52,880
+Per ora, FreeFone, come tutte le applicazioni che nascono così in Apple,
+
+466
+00:32:52,880 --> 00:32:57,600
+non ha nessun tipo di collegamento con comandi rapidi o altro.
+
+467
+00:32:57,600 --> 00:33:00,000
+Adesso aspetta, quello mi è fatto venire
+
+468
+00:33:01,120 --> 00:33:03,360
+un dubbio, andiamo a vedere.
+
+469
+00:33:03,760 --> 00:33:05,360
+Voi parlate tranquillamente.
+
+470
+00:33:05,360 --> 00:33:09,200
+Azione che buon Filippo parte per la tangente, lo lasciamo lavorare.
+
+471
+00:33:09,440 --> 00:33:14,240
+Un'altra cosa del discorso che avete fatto che è molto interessante questa
+
+472
+00:33:14,480 --> 00:33:18,960
+possibilità di utilizzare gli strumenti Apple per la collaborazione attiva, nel senso
+
+473
+00:33:18,960 --> 00:33:24,480
+che sono praticamente real time, l'ho provata in una versione beta di
+
+474
+00:33:24,480 --> 00:33:28,960
+un'applicazione che adesso si può utilizzare tranquillamente, che è Morfolio Trace, che
+
+475
+00:33:28,960 --> 00:33:35,720
+permetteva appunto di avere una Canva dove potevamo disegnare essenzialmente ognuno la
+
+476
+00:33:35,720 --> 00:33:41,400
+sua parte in tempo reale, utilizzando però appoggiandosi a FaceTime.
+
+477
+00:33:41,400 --> 00:33:47,560
+E quindi tramite una chiamata FaceTime e la condivisione, praticamente di quello
+
+478
+00:33:47,560 --> 00:33:51,720
+che si vedeva, era possibile disegnare sullo stesso foglio in due persone
+
+479
+00:33:51,800 --> 00:33:55,560
+diverse a distanza ed era veramente qualcosa di molto bello.
+
+480
+00:33:55,560 --> 00:33:58,360
+Questo l'ho visto prima dell'uscita di Freeform.
+
+481
+00:33:58,360 --> 00:34:02,520
+Secondo me è anche una di quelle aperture che ci sono sotto
+
+482
+00:34:02,520 --> 00:34:08,200
+al cofano di Apple, che comunque magari non ti interessa perché subito
+
+483
+00:34:08,200 --> 00:34:12,680
+non riesci a vedere le applicazioni operative di queste cose, ma poi
+
+484
+00:34:12,680 --> 00:34:16,760
+quando inizi a utilizzarle effettivamente ti rendi conto che sono quelle modifiche
+
+485
+00:34:16,760 --> 00:34:20,760
+sotto il cofano che possono cambiarti veramente la vita collaborativa con le
+
+486
+00:34:20,760 --> 00:34:24,360
+persone e fare un lavoro addirittura distribuito e quindi molto interessante.
+
+487
+00:34:24,520 --> 00:34:27,880
+Confermo non ci sono neanche Apple Script, non c'è dizionario.
+
+488
+00:34:27,880 --> 00:34:33,400
+Quindi ad oggi Freeform non è accessibile a nulla, nel senso che,
+
+489
+00:34:33,640 --> 00:34:39,160
+casomai, dopo parliamo anche delle esportazioni o delle non esportazioni che permette
+
+490
+00:34:39,160 --> 00:34:40,280
+Freeform.
+
+491
+00:34:40,280 --> 00:34:44,760
+Però attualmente non c'è modo con comandi rapidi o con Apple Script
+
+492
+00:34:44,920 --> 00:34:46,280
+di accedere all'applicazione.
+
+493
+00:34:46,280 --> 00:34:51,880
+Devo dire la verità, sarebbe anche relativamente complicato, però perché essendo una
+
+494
+00:34:52,360 --> 00:34:55,720
+lavagna infinita, come fai a piazzare
+
+495
+00:34:57,480 --> 00:35:01,560
+con un comando, chiamiamolo in questo termine, un qualcosa all'interno di questa
+
+496
+00:35:01,560 --> 00:35:06,040
+lavagna senza andare casomai a cozzare contro altre regioni.
+
+497
+00:35:06,360 --> 00:35:11,480
+Questo è interessante da girare a chi sta gestendo le API in
+
+498
+00:35:11,480 --> 00:35:15,120
+ambito Apple, e speriamo abbia voglia.
+
+499
+00:35:15,280 --> 00:35:18,960
+Apple, alla fine la amiamo perché ogni tanto trova delle risposte a
+
+500
+00:35:14,840 --> 00:35:21,840
+dei quesiti che sembrano irrisolvibili.
+
+501
+00:35:22,000 --> 00:35:26,800
+Sarebbe bello avere un cassetto dove le altre applicazioni inviano le cose
+
+502
+00:35:26,800 --> 00:35:30,560
+e questo cassetto si apre all'interno di freeform e si possono selezionare
+
+503
+00:35:30,880 --> 00:35:34,640
+una per volta, come se fosse un contenitore di cose o inviate
+
+504
+00:35:34,640 --> 00:35:36,000
+o copie incollate.
+
+505
+00:35:36,000 --> 00:35:36,560
+Diciamo.
+
+506
+00:35:36,560 --> 00:35:42,400
+Nel senso, potrebbe essere interessante questo, un oggetto che ti permette di
+
+507
+00:35:42,400 --> 00:35:45,600
+recuperare tutto quello che gli viene inviato dalle altre applicazioni.
+
+508
+00:35:45,600 --> 00:35:48,480
+Potrebbe essere interessante, una soluzione possibile.
+
+509
+00:35:48,480 --> 00:35:52,800
+Una cosa bella che fa Friform, che Filippo ha abbondantemente descritto prima
+
+510
+00:35:53,200 --> 00:35:58,320
+è il poter porre sulla lavagna come la chiamiamo?
+
+511
+00:35:58,400 --> 00:36:02,160
+Lagna, tela, canvas, board, superficie.
+
+512
+00:36:02,400 --> 00:36:06,160
+Secondo me parla si parla di lavagna, cioè, ti dice proprio nuova
+
+513
+00:36:06,160 --> 00:36:06,720
+lavagna.
+
+514
+00:36:06,720 --> 00:36:09,200
+Sì, sì, lui è una lavagna e una board.
+
+515
+00:36:09,200 --> 00:36:13,120
+Però, poi, quando diciamo canvas viene in mente la tela.
+
+516
+00:36:14,400 --> 00:36:20,080
+Allora, diciamo che sul selciato di free form, come ha detto Filippo,
+
+517
+00:36:20,080 --> 00:36:26,320
+è molto comodo e molto interessante poter mettere i video, i PDF,
+
+518
+00:36:26,320 --> 00:36:29,840
+chiaramente le immagini ci mancherebbe altro.
+
+519
+00:36:29,840 --> 00:36:35,440
+Una cosa che gli manca in questo momento, e che non mi
+
+520
+00:36:35,440 --> 00:36:42,160
+invento l'ho vista in funzione su Miro è la possibilità di spogliare
+
+521
+00:36:42,160 --> 00:36:43,200
+documenti.
+
+522
+00:36:43,200 --> 00:36:51,040
+Quello che a me piacerebbe è poter mettere su Freeform, sulla griglia,
+
+523
+00:36:51,040 --> 00:36:54,960
+di, no, sulla rete da pesca di Free Form
+
+524
+00:36:56,080 --> 00:37:00,760
+un documento Pagis e poterlo spogliare.
+
+525
+00:37:01,000 --> 00:37:06,040
+Non pretendo di editarlo, di usarlo come se fossi dentro Pagis, ma
+
+526
+00:37:06,040 --> 00:37:11,880
+poter fare l'anteprima che alla fine uno può avere dalle icone del
+
+527
+00:37:11,880 --> 00:37:12,440
+Finder.
+
+528
+00:37:12,440 --> 00:37:17,960
+Il finder permette di spogliare i documenti se lo facesse anche free
+
+529
+00:37:17,960 --> 00:37:22,200
+forma, come lo fa Miro il PDF ti permette di fare un
+
+530
+00:37:22,200 --> 00:37:22,840
+anteprima.
+
+531
+00:37:22,840 --> 00:37:24,840
+Tutto schermo, ma te lo permette di farlo.
+
+532
+00:37:24,840 --> 00:37:29,080
+Non ho provato, con ho provato con Pegis, devo dirti la verità.
+
+533
+00:37:29,080 --> 00:37:34,520
+No, con almeno se un ultimo aggiornamento non mi buggeria e mi
+
+534
+00:37:34,520 --> 00:37:37,560
+smentisce, cosa di cui sarei felice.
+
+535
+00:37:37,880 --> 00:37:46,040
+Se tu butti su un documento Pegis, ti arriva uno zip generico
+
+536
+00:37:46,040 --> 00:37:49,480
+che non ha neanche l'estensione Pagis, è uno zip.
+
+537
+00:37:49,640 --> 00:37:53,400
+Perché poi Pagis di fatto, però, certo, sì, sì, ma
+
+538
+00:37:54,440 --> 00:38:00,040
+lui non compie il lavoro che sarebbe necessario per renderlo di nuovo
+
+539
+00:38:00,040 --> 00:38:01,720
+documento visibile.
+
+540
+00:38:02,760 --> 00:38:07,080
+Questo si questo mi pesa un pochino.
+
+541
+00:38:07,880 --> 00:38:15,880
+E invece, giusto per bilanciare, una cosa che amo è il lavoro
+
+542
+00:38:15,880 --> 00:38:20,360
+a livello di interfaccia utente e esperienza utente.
+
+543
+00:38:20,360 --> 00:38:24,760
+Poi arriveremo a parlare delle funzioni specifiche e anche lì voglio dire
+
+544
+00:38:24,760 --> 00:38:25,560
+qualche cosina.
+
+545
+00:38:25,560 --> 00:38:30,360
+Però, a livello alto, interfaccia utente e esperienza utente, per il momento
+
+546
+00:38:31,320 --> 00:38:37,080
+si sta facendo un lavoro abbastanza buono, abbastanza apple, abbastanza piacevole.
+
+547
+00:38:37,080 --> 00:38:42,040
+Lo dico perché gli altri strumenti da Miro in poi sono quasi
+
+548
+00:38:42,040 --> 00:38:46,160
+tutti strumenti che nascono per poter essere eseguiti dentro un browser.
+
+549
+00:38:46,240 --> 00:38:48,640
+Quindi sono web applications
+
+550
+00:38:49,760 --> 00:38:57,040
+in soldoni, applicazioni web, grandi blob di JavaScript, e dal punto di
+
+551
+00:38:57,040 --> 00:39:04,720
+vista dell'interfaccia utente e dell'esperienza utente lasciano sempre un po' a desiderare
+
+552
+00:39:04,720 --> 00:39:07,280
+rispetto a quello che sono le app native.
+
+553
+00:39:07,280 --> 00:39:10,400
+Allora, Lucio ti do una notizia che non so se è bella
+
+554
+00:39:10,400 --> 00:39:11,360
+o brutta, ma
+
+555
+00:39:13,040 --> 00:39:16,800
+sono già seduto allora, il file doc li vede.
+
+556
+00:39:16,800 --> 00:39:22,720
+Quindi adesso sto provando a salvare il file doc che ho trascinato,
+
+557
+00:39:23,040 --> 00:39:25,040
+provare a buttare fuori.
+
+558
+00:39:25,040 --> 00:39:30,080
+No, allora ti fa anche peggio nella versione 1.1, ti fa anche
+
+559
+00:39:30,080 --> 00:39:35,040
+peggio, cioè, tu vedi l'anteprima adesso non so dove farvela vedere.
+
+560
+00:39:35,040 --> 00:39:36,640
+Aspettate, perché poi è una roba.
+
+561
+00:39:36,880 --> 00:39:43,200
+Ho il primo file che ho trovato nell'entusiasmo generale, chiamavoli.
+
+562
+00:39:43,280 --> 00:39:46,560
+Ma tu pensi a quella riunione a copertino in cui gli ingegneri
+
+563
+00:39:46,560 --> 00:39:47,920
+hanno detto: Ma avete sentito
+
+564
+00:39:48,960 --> 00:39:49,840
+come si chiamano?
+
+565
+00:39:49,840 --> 00:39:55,200
+Strozzi, Marini, Bragagnolo, ma bisogna fare la versione in cui si leggono
+
+566
+00:39:55,200 --> 00:39:57,920
+i documenti pages e che diamine.
+
+567
+00:40:00,640 --> 00:40:03,600
+E dopo è la visualizzazione: hai l'anteprima
+
+568
+00:40:05,200 --> 00:40:05,360
+!
+
+569
+00:40:05,600 --> 00:40:09,840
+L'unica cosa è tutto schermo che è fastidiosissimo per me, però, questo
+
+570
+00:40:09,840 --> 00:40:11,120
+è punti di vista.
+
+571
+00:40:11,120 --> 00:40:14,880
+Ma questo arriva vuol dire che l'hanno fatta su iPad.
+
+572
+00:40:14,880 --> 00:40:16,880
+Secondo me può essere effettivamente.
+
+573
+00:40:16,880 --> 00:40:18,080
+L'approccio è quello.
+
+574
+00:40:19,520 --> 00:40:23,680
+Il senso è che su iPad tu abbia l'anteprima.
+
+575
+00:40:24,320 --> 00:40:29,600
+Siccome stage manager poi arriva dopo in termini evolutivi, per il momento
+
+576
+00:40:30,120 --> 00:40:36,680
+è tutto schermo perché iPad lavora così probabilmente effettivamente sarà stata sviluppata
+
+577
+00:40:37,480 --> 00:40:38,680
+in Swift Wide.
+
+578
+00:40:38,680 --> 00:40:40,120
+Effettivamente questa applicazione.
+
+579
+00:40:40,120 --> 00:40:44,440
+Ora che mi ci fai ragionare sopra come struttura, quella, effettivamente.
+
+580
+00:40:44,440 --> 00:40:48,840
+Quindi possiamo a questo livello dire solo bene di free form, per
+
+581
+00:40:48,840 --> 00:40:50,600
+poco tempo.
+
+582
+00:40:50,600 --> 00:40:55,720
+Si ha un podcast progressista in cui si fanno progressi man mano
+
+583
+00:40:55,720 --> 00:41:00,600
+che va avanti, l'applicazione migliora sotto i nostri occhi e dentro le
+
+584
+00:41:00,600 --> 00:41:01,160
+nostre reti.
+
+585
+00:41:01,320 --> 00:41:04,920
+Io sono ansioso, per esempio, di vedere il miglioramento come dicevamo per
+
+586
+00:41:04,920 --> 00:41:09,720
+il riconoscimento della scrittura, ovvero non proprio il riconoscimento della scrittura, ma
+
+587
+00:41:09,720 --> 00:41:12,520
+dici la visualizzazione della scrittura fatta con pensi.
+
+588
+00:41:12,600 --> 00:41:17,880
+Perché vi racconto questo piccolo aneddoto mio personale che ho detto: vabbè,
+
+589
+00:41:18,200 --> 00:41:24,840
+c'è un problema di sincronizzazione tra persone diverse sulla scrittura, ma sono
+
+590
+00:41:24,840 --> 00:41:29,240
+sicuro, ho fatto i miei conti in tasca che se lo faccio
+
+591
+00:41:29,240 --> 00:41:33,720
+tra dispositivi che sono della stessa persona all'interno della stessa rete, figuriamoci
+
+592
+00:41:33,720 --> 00:41:34,600
+se non funziona.
+
+593
+00:41:34,600 --> 00:41:35,640
+Così cosa ho fatto?
+
+594
+00:41:35,640 --> 00:41:39,560
+Stavo per uscire di casa, però avevo l'iPad sotto mano e ho
+
+595
+00:41:39,560 --> 00:41:40,760
+ricevuto una telefonata.
+
+596
+00:41:40,760 --> 00:41:43,720
+Mi sono preso un appunto del numero di telefono su Freeform perché
+
+597
+00:41:43,720 --> 00:41:48,280
+ormai lo uso come blocco note totale, globale, finale, esco.
+
+598
+00:41:48,280 --> 00:41:52,360
+Salgo in macchina, prendo, vado via, tiro sull'iPhone, guardo, cerco il numero
+
+599
+00:41:52,360 --> 00:41:56,040
+di telefono che mi era puntato e vedevo soltanto parte della scritta
+
+600
+00:41:56,200 --> 00:42:00,680
+visibile nonostante avessi diciamo sotto copertura perfetta.
+
+601
+00:42:00,680 --> 00:42:06,680
+E lì veramente deve essere caduto qualche Madonna in zona di cupertino,
+
+602
+00:42:06,680 --> 00:42:10,600
+perché veramente avevo bisogno di quel numero di telefono e purtroppo avevo
+
+603
+00:42:10,600 --> 00:42:14,040
+bisogno dell'iPad perché non era sincronizzato giusto.
+
+604
+00:42:14,040 --> 00:42:19,040
+Questa diciamo era uno dei tanti problemi che avevamo visto nella versione
+
+605
+00:42:19,040 --> 00:42:22,320
+base e spero che nella nuova versione che io non ho ancora
+
+606
+00:42:22,320 --> 00:42:26,480
+aggiornato, continuo a dire, ma sono certo che la nuova versione questa
+
+607
+00:42:26,480 --> 00:42:28,640
+situazione si sia molto molto migliorata.
+
+608
+00:42:28,800 --> 00:42:35,440
+Dicevo, dovrebbe essersi risolta con il famoso aggiornamento attuale, che non va
+
+609
+00:42:35,440 --> 00:42:38,640
+a 1.1, arriva a 1.0
+
+610
+00:42:39,920 --> 00:42:46,720
+ok a me proprio attualmente su Mac, a me da versione 1.12,
+
+611
+00:42:46,720 --> 00:42:51,840
+hai una versione più aggiornata della mia, più bella della tua, non
+
+612
+00:42:51,840 --> 00:42:56,960
+è aggiornato, aggiornato, io ho una versione 1.0, vedi a cosa servono
+
+613
+00:42:56,960 --> 00:42:57,920
+questi podcast.
+
+614
+00:42:58,480 --> 00:43:05,840
+Me ne servirebbe una, io sono Aventura 13.2, quello non credo che
+
+615
+00:43:05,840 --> 00:43:09,120
+sia, è collegato a quello.
+
+616
+00:43:09,760 --> 00:43:11,040
+Non ho aggiornato.
+
+617
+00:43:11,200 --> 00:43:15,280
+No, hai ragione, hai ragione perché io ho la mia abitudine di
+
+618
+00:43:15,280 --> 00:43:20,480
+aggiornare quando il sistema dice ho l'aggiornamento.
+
+619
+00:43:20,480 --> 00:43:25,040
+Dico bene, fallo, bravo, perché non voglio mettere tempo sulla cosa.
+
+620
+00:43:25,040 --> 00:43:26,640
+Sto pagando caramente
+
+621
+00:43:27,920 --> 00:43:33,840
+questo mio ritardo di aggiornamento con il ritardo nella preparazione, ma ancora
+
+622
+00:43:33,840 --> 00:43:36,400
+una volta posso solo essere contento di tutto ciò.
+
+623
+00:43:36,400 --> 00:43:39,600
+Già che ci siamo, allora, a questo punto faccio io la domanda:
+
+624
+00:43:39,600 --> 00:43:43,280
+Roberto, ti rubo il mestiere per 10 secondi.
+
+625
+00:43:43,280 --> 00:43:51,920
+Adesso si riescono a fare ruotare le scritte, ma qui, anche in
+
+626
+00:43:51,920 --> 00:43:55,600
+questo caso, faccio la corsa su Miro.
+
+627
+00:43:55,920 --> 00:44:00,040
+Miro permette di ruotare il testo.
+
+628
+00:43:59,840 --> 00:44:03,320
+Sì, si può, vedi, vedi, vedi, vedi, vedi.
+
+629
+00:44:04,520 --> 00:44:07,880
+Però attenzione, ma forse si poteva fare anche prima.
+
+630
+00:44:07,880 --> 00:44:12,600
+Si seleziona la scritta, chiamiamola in questo termine: cioè il testo, si
+
+631
+00:44:12,600 --> 00:44:16,920
+tiene premuto command e a questo punto il cursore che prima faceva,
+
+632
+00:44:16,920 --> 00:44:21,640
+ingrandisci e riduci, ti permette di ruotarlo sostanzialmente.
+
+633
+00:44:21,640 --> 00:44:26,360
+C'è anche addirittura l'angolo di rotazione, cioè mentre ruoti, ti dice anche
+
+634
+00:44:26,360 --> 00:44:29,160
+cosa stai ruotando, che angolo stai ruotando.
+
+635
+00:44:29,160 --> 00:44:30,760
+Molto carino, molto carino.
+
+636
+00:44:30,760 --> 00:44:34,040
+Nella versione precedente, però no, sto provando io adesso su iPad.
+
+637
+00:44:34,440 --> 00:44:39,880
+Aspetta, adesso stavo guardando in quella vecchia ah si, si riusciva.
+
+638
+00:44:40,760 --> 00:44:43,800
+Si riusciva con due dita, la ruoti con due dite.
+
+639
+00:44:44,200 --> 00:44:49,800
+Questo mi piace, mentre sei lì che mentre sei lì che paciocchi.
+
+640
+00:44:49,800 --> 00:44:54,680
+Avevamo segnato sulla scaletta che non era possibile lavorare, però, con gli
+
+641
+00:44:54,680 --> 00:44:57,000
+allegati che vengono inseriti.
+
+642
+00:44:57,000 --> 00:44:58,680
+Questo rimane
+
+643
+00:44:59,880 --> 00:45:00,840
+una costante.
+
+644
+00:45:00,840 --> 00:45:01,320
+Penso.
+
+645
+00:45:01,320 --> 00:45:03,720
+Puoi aprire un'anteprima, ok.
+
+646
+00:45:04,040 --> 00:45:06,520
+Non puoi andare a modificare.
+
+647
+00:45:06,520 --> 00:45:11,480
+Il trucco almeno, quello che ho provato e funziona, è se lezioni
+
+648
+00:45:11,560 --> 00:45:18,840
+il file all'interno di freeform, fai command C sostanzialmente, command V sul
+
+649
+00:45:19,400 --> 00:45:20,840
+esempio sulla scrivania.
+
+650
+00:45:20,840 --> 00:45:23,800
+Il file viene copiato sulla scrivania e a questo punto lo puoi
+
+651
+00:45:23,800 --> 00:45:27,800
+lavorare, ma non puoi lavorarlo dall'interno.
+
+652
+00:45:27,800 --> 00:45:31,080
+Non so come, è solo l'anteprima all'interno.
+
+653
+00:45:31,080 --> 00:45:33,800
+Quindi vedi solo il file, però se lo porta dietro.
+
+654
+00:45:33,800 --> 00:45:37,560
+Però lo riesci a portare fuori e quindi puoi riportare dentro, eventualmente
+
+655
+00:45:37,640 --> 00:45:38,440
+modificato.
+
+656
+00:45:38,440 --> 00:45:43,320
+Diciamo che è interessante, ma poi non credo che sia pensato in
+
+657
+00:45:43,320 --> 00:45:49,920
+quell'ottica lì, cioè, eventualmente hai sulla lavagna hai i file come punto
+
+658
+00:45:49,920 --> 00:45:50,880
+di riferimento.
+
+659
+00:45:44,920 --> 00:45:51,600
+Modelli.
+
+660
+00:45:52,480 --> 00:45:56,960
+Ho preparato questo documento, te lo metto qui, però non credo che
+
+661
+00:45:56,960 --> 00:45:59,520
+c'è un modo di condividere, chiamiamoli in questi termini.
+
+662
+00:46:00,960 --> 00:46:06,320
+Non è un lavoro collaborativo sul documento mentre sei dentro FIFO, anche
+
+663
+00:46:06,560 --> 00:46:11,760
+perché comunque hai tutta una serie di problemi più complicati, perché anche
+
+664
+00:46:12,080 --> 00:46:17,360
+gestire poi la sincronizzazione di questi documenti, immagino che diventerebbe anche abbastanza
+
+665
+00:46:17,360 --> 00:46:19,920
+complicato, diventerebbe
+
+666
+00:46:21,200 --> 00:46:26,000
+un sistema ancora più complicato rispetto a una scatola dentro la scatola.
+
+667
+00:46:26,000 --> 00:46:28,320
+Non so come definirlo differentemente.
+
+668
+00:46:28,640 --> 00:46:35,760
+Io ritorno per un attimo sui blocchi di testo dentro free form,
+
+669
+00:46:36,080 --> 00:46:41,200
+e alzo la posta, visto che abbiamo scoperto che la rotazione si
+
+670
+00:46:41,200 --> 00:46:49,360
+può fare, mi piacerebbe tantissimo avere anche la distorsione, lo stiramento, lo
+
+671
+00:46:49,360 --> 00:46:55,360
+stiracchiamento, cioè quello con l'altro, con l'alt ingrandisci.
+
+672
+00:46:56,080 --> 00:46:57,440
+Eh, infatti, secondo me.
+
+673
+00:46:57,520 --> 00:47:00,560
+No, io parlo di stirare, farlo
+
+674
+00:47:02,320 --> 00:47:06,240
+in modo che anche i font si deformino per capirci.
+
+675
+00:47:07,520 --> 00:47:12,320
+Per una ragione, uno dei grandi vantaggi e una delle ragioni di
+
+676
+00:47:12,320 --> 00:47:19,360
+usare freeform per prendere i nostri appunti è che dal punto di
+
+677
+00:47:19,360 --> 00:47:25,760
+vista della tipografia e della gestione delle forme geometriche, del colore dei
+
+678
+00:47:25,760 --> 00:47:29,600
+font e di ogni elemento che possiamo creare, lui si appoggia al
+
+679
+00:47:29,680 --> 00:47:29,920
+sistema.
+
+680
+00:47:30,520 --> 00:47:34,440
+La tipografia di Apple è la migliore del mondo, la gestione del
+
+681
+00:47:34,440 --> 00:47:40,440
+colore e della geometria, pure quella del colore di sicuro, quella della
+
+682
+00:47:40,440 --> 00:47:49,000
+geometria comunque si difende molto bene e allora vedere il trattamento del
+
+683
+00:47:49,000 --> 00:47:55,560
+testo, come lo si può avere nell'ecosistema Apple ai suoi massimi dentro
+
+684
+00:47:55,640 --> 00:47:58,040
+Free Form, sarebbe una grande figata.
+
+685
+00:47:58,040 --> 00:48:03,240
+Ti do questa buona notizia: cioè se vai, seleziona il testo, si
+
+686
+00:48:03,240 --> 00:48:09,160
+apre una nuvoletta dove hai il colore, chiamiamolo così, appunto un font,
+
+687
+00:48:09,160 --> 00:48:13,080
+cioè AA per intenderci, e la dimensione del font.
+
+688
+00:48:13,080 --> 00:48:18,120
+Se schiacci su A e clicchi su font, si apre la palette,
+
+689
+00:48:18,120 --> 00:48:20,360
+diciamo, dei font di macOS.
+
+690
+00:48:20,360 --> 00:48:25,560
+Quindi ovviamente riesci a fare tutto quello con le legature, gli spazi,
+
+691
+00:48:25,560 --> 00:48:27,400
+puoi fare un sacco di cose.
+
+692
+00:48:31,320 --> 00:48:39,560
+Veniamo alla funzione spicciola approfondita di freeform che a me fa impazzire
+
+693
+00:48:39,560 --> 00:48:44,760
+più di ogni altra perché questo non ce l'ha nessun altro strumento
+
+694
+00:48:44,760 --> 00:48:49,000
+concorrente e non ditemi che non li ho provati tutti, ne sono
+
+695
+00:48:49,000 --> 00:48:50,120
+sicuro.
+
+696
+00:48:50,440 --> 00:48:54,040
+Per avere la smentita voglio veramente vederla.
+
+697
+00:48:54,040 --> 00:49:00,520
+Il blocco, diciamo così, il rettangolo dentro cui sta il blocco di
+
+698
+00:49:00,520 --> 00:49:08,520
+testo può essere modellato, può essere deformato e al suo interno il
+
+699
+00:49:08,520 --> 00:49:13,720
+testo scorre in modo da adattarsi alla forma del
+
+700
+00:49:15,280 --> 00:49:16,240
+rettangolo
+
+701
+00:49:17,360 --> 00:49:21,520
+che non è più a quel punto un rettangolo uno può inserire
+
+702
+00:49:22,080 --> 00:49:29,840
+ogni tipo di curva linea continua retta spezzata immaginaria può avere pezzi
+
+703
+00:49:29,840 --> 00:49:35,040
+di testo di ogni tipo di forma come un fumetto come un
+
+704
+00:49:35,040 --> 00:49:42,800
+cuore come un fulmine basta avere voglia di disegnarlo con lo strumento
+
+705
+00:49:42,800 --> 00:49:48,080
+di curve di Besier che c'è poi dentro Pages Key Note e
+
+706
+00:49:48,080 --> 00:49:59,600
+Numbers e il contorno così rieditato, così modificato può comunque acquisire tutti
+
+707
+00:49:59,600 --> 00:50:00,640
+gli attributi
+
+708
+00:50:01,920 --> 00:50:08,640
+delle linee, quindi essere colorato, essere spesso, essere sottile, puntinato, seghettato a
+
+709
+00:50:08,640 --> 00:50:12,160
+pallini verdi, continuo.
+
+710
+00:50:12,160 --> 00:50:18,320
+Insomma, io lo trovo una meraviglia dal punto di vista della creatività
+
+711
+00:50:19,280 --> 00:50:25,840
+applicata in un momento di improvvisazione di presa di appunti, e questa
+
+712
+00:50:25,840 --> 00:50:31,200
+funzione, assolutamente, se fosse solo questa, Free Form sarebbe già il campione
+
+713
+00:50:31,200 --> 00:50:32,720
+assoluto della categoria.
+
+714
+00:50:33,040 --> 00:50:36,800
+Infatti, ho visto che ti eri divertito, come si suol dire, fare
+
+715
+00:50:36,800 --> 00:50:42,640
+questi esperimenti, infatti, infatti, ma perché quando l'ho scoperto ero veramente al
+
+716
+00:50:42,640 --> 00:50:43,680
+settimo cielo.
+
+717
+00:50:43,680 --> 00:50:47,440
+Sì, tra l'altro, mentre stavate parlando, sto facendo appunto delle prove con
+
+718
+00:50:47,440 --> 00:50:51,920
+le linee molto interessanti, che forse non abbiamo ancora parlato bene.
+
+719
+00:50:52,080 --> 00:50:55,440
+Che ci sono questi oggetti che si possono inserire all'interno di Freeform
+
+720
+00:50:55,600 --> 00:50:59,440
+che fanno da collegamento tra, che ne so, del testo e un
+
+721
+00:51:00,120 --> 00:51:03,000
+segno fatto con l'Apple Pencil.
+
+722
+00:51:03,000 --> 00:51:08,680
+Quindi riesce ad agganciare automaticamente questa linea degli oggetti vettoriali, chiamiamoli così,
+
+723
+00:51:08,920 --> 00:51:10,840
+e rende questo un gruppo.
+
+724
+00:51:10,840 --> 00:51:14,840
+Quindi, se voi volete spostare, che ne so, un concetto scritto a
+
+725
+00:51:14,840 --> 00:51:19,080
+mano con una linea e poi che ne so, un cerchio fatto
+
+726
+00:51:19,240 --> 00:51:23,160
+con Apple Pencil, voi usate questa linea di collegamento e poi la
+
+727
+00:51:23,160 --> 00:51:26,360
+potete spostare tranquillamente come se fossero degli oggetti.
+
+728
+00:51:26,360 --> 00:51:29,800
+E questa linea è interessante perché, come dicevi tu, si può molto
+
+729
+00:51:29,800 --> 00:51:33,400
+personalizzare, si può farla diventare da una freccia a una linea semplice
+
+730
+00:51:33,400 --> 00:51:39,240
+di collegamento, cambiargli la dimensione del tratto, cioè aumentare lo spessore di
+
+731
+00:51:39,240 --> 00:51:44,040
+questa linea, oppure farla addirittura tratteggiata e c'è solo veramente da divertirsi.
+
+732
+00:51:44,520 --> 00:51:49,160
+Comecevi tu, aiuta tantissimo dal punto di vista della creatività.
+
+733
+00:51:49,160 --> 00:51:53,400
+Sono cose che richiamano molto keynote, secondo me, ed è questo un
+
+734
+00:51:53,400 --> 00:51:56,120
+collegamento molto interessante, quello che hai fatto, Lucio.
+
+735
+00:51:56,280 --> 00:52:00,120
+Mi è piaciuto davvero tanto perché aiuta la creatività.
+
+736
+00:52:00,120 --> 00:52:04,040
+Freeform sembra quasi un passo in questa direzione.
+
+737
+00:52:04,120 --> 00:52:10,760
+Ma per esempio, quando hai a disposizione un elemento immagine, puoi applicare
+
+738
+00:52:10,760 --> 00:52:17,160
+il masking, puoi escluderne dalla vista un pezzo, esattamente come fai con
+
+739
+00:52:17,560 --> 00:52:18,360
+Kinote
+
+740
+00:52:19,880 --> 00:52:21,160
+e compagnia.
+
+741
+00:52:21,160 --> 00:52:26,200
+E anche questa è una cosa che manca, se non su tutti
+
+742
+00:52:26,200 --> 00:52:29,560
+i programmi analoghi, certamente su molti.
+
+743
+00:52:29,640 --> 00:52:32,640
+Sì, già che siamo su questo argomento.
+
+744
+00:52:32,640 --> 00:52:36,280
+Ci sono due opzioni che secondo me sono molto carine, cioè, se
+
+745
+00:52:36,520 --> 00:52:42,360
+trascini dentro un'immagine, hai la possibilità sia di creare l'effetto ombra, chiamiamolo
+
+746
+00:52:42,360 --> 00:52:44,840
+in questi termini, cioè l'immagine comunque
+
+747
+00:52:45,920 --> 00:52:52,720
+non è diciamo piana sulla canva, ma ha questo effetto di risalto.
+
+748
+00:52:52,720 --> 00:52:56,560
+E se si schiaccia il tasto destro del mouse su Mac si
+
+749
+00:52:56,560 --> 00:52:59,920
+può abilitare o meno e poi ha gli angoli arrotondati, che dà
+
+750
+00:52:59,920 --> 00:53:01,120
+quell'effetto un po' più
+
+751
+00:53:02,800 --> 00:53:03,920
+meglio esatto
+
+752
+00:53:05,280 --> 00:53:05,520
+.
+
+753
+00:53:05,840 --> 00:53:11,600
+All'argomento, e ovviamente c'è la possibilità anche di fare quello che
+
+754
+00:53:12,640 --> 00:53:19,200
+io abitualmente faccio in keynote di modificare appunto le dimensioni, cioè il
+
+755
+00:53:19,200 --> 00:53:24,880
+ritaglio, chiamiamola così, dell'immagine, perché casomai voglio focalizzarmi solo su una parte
+
+756
+00:53:24,880 --> 00:53:31,520
+dell'immagine e non su tutto, e anche deformarla nell'immagine, nel senso che
+
+757
+00:53:31,920 --> 00:53:36,560
+adesso io sto usando su iPad, se si dà un tap sull'immagine
+
+758
+00:53:36,800 --> 00:53:40,880
+e poi diciamo sull'icona, tutta destra con i tre puntini, si apre
+
+759
+00:53:40,880 --> 00:53:44,160
+il menu che dovrebbe essere immagino col tasto destro.
+
+760
+00:53:44,160 --> 00:53:51,040
+Basta spuntare le proporzioni vincolate, puoi decidere se l'immagine quando la deformi
+
+761
+00:53:51,520 --> 00:53:57,520
+mantiene le proporzioni vincolate oppure è libera nella deformazione, ovviamente mantenendo sempre
+
+762
+00:53:57,520 --> 00:54:02,960
+la forma rettangolare, però si può deformare l'altezza e la base in
+
+763
+00:54:02,960 --> 00:54:05,680
+modo libero oppure mantenerla vincolata.
+
+764
+00:54:05,760 --> 00:54:11,840
+Ecco, diciamo che è utile, soprattutto su Mac, ricordarsi del tasto destro,
+
+765
+00:54:11,840 --> 00:54:15,440
+perché se si va col tasto destro, su immagini o
+
+766
+00:54:17,200 --> 00:54:22,320
+su altre possibilità, diciamo, ci sono tutta una serie di cose tra
+
+767
+00:54:22,320 --> 00:54:25,480
+cui mettere in sfondo in primo piano, tagli e incollo.
+
+768
+00:54:25,480 --> 00:54:26,160
+Ovviamente.
+
+769
+00:54:26,160 --> 00:54:33,320
+La possibilità di duplicare l'elemento selezionato, di bloccarlo, quindi di non renderlo
+
+770
+00:54:29,600 --> 00:54:36,680
+più modificabile, chiamiamolo in questo termine.
+
+771
+00:54:37,000 --> 00:54:41,640
+Se si selezionano più oggetti si possono raggruppare come in kinota anche
+
+772
+00:54:41,640 --> 00:54:43,320
+qui, quindi si possono creare
+
+773
+00:54:44,360 --> 00:54:48,760
+così dei macro oggetti anche solo per spostare rapidamente una serie di
+
+774
+00:54:48,760 --> 00:54:52,680
+elementi e non altri, quindi può diventare molto comodo anche per questo.
+
+775
+00:54:53,080 --> 00:54:57,800
+In più appunto, non so, per esempio, sull'immagine c'è la possibilità di
+
+776
+00:54:58,040 --> 00:55:05,560
+modifica non proporzionale, di salvare lo stile, di fare tutta una serie
+
+777
+00:55:05,560 --> 00:55:10,280
+di cose che effettivamente per esempio si può addirittura se
+
+778
+00:55:11,480 --> 00:55:18,920
+si clicca sull'icona dell'immagine, mettere a dimensione originale l'immagine, ma soprattutto sostituirla,
+
+779
+00:55:18,920 --> 00:55:22,200
+quindi anche fare il cambio di immagine con
+
+780
+00:55:23,480 --> 00:55:24,520
+un altro documento.
+
+781
+00:55:24,520 --> 00:55:29,480
+Insomma, diciamo che effettivamente sotto il cofano ci sono veramente tante tante
+
+782
+00:55:29,480 --> 00:55:31,000
+opzioni e tante possibilità.
+
+783
+00:55:31,400 --> 00:55:37,720
+In questo ambito, soprattutto blocchi di testo, oltre che blocchi immagine.
+
+784
+00:55:37,720 --> 00:55:43,160
+A me piace tantissimo l'idea di poter copiare lo stile del blocco
+
+785
+00:55:43,160 --> 00:55:47,400
+testo e poterlo riportare su un altro blocco testo, che è un
+
+786
+00:55:47,400 --> 00:55:51,320
+problema tipico di questi sistemi dove tu hai tanti blocchi di testo
+
+787
+00:55:51,320 --> 00:55:56,280
+indipendenti, e arrivi la settimana dopo, ti dimentichi che avevi usato il
+
+788
+00:55:56,280 --> 00:56:02,360
+Buskerville e lui ti salta fuori in elvetica per motivi di benessere
+
+789
+00:56:02,360 --> 00:56:05,960
+mentale non lo vuoi e allora lo devi cambiare, però non ti
+
+790
+00:56:05,960 --> 00:56:10,760
+ricordi quanto era alto e invece con la copia e l'incolla
+
+791
+00:56:11,880 --> 00:56:14,360
+dello stile questo si fa in un attimo.
+
+792
+00:56:14,480 --> 00:56:21,360
+Altra cosa, sempre nel menu diciamo così, contestuale della modifica degli oggetti
+
+793
+00:56:21,600 --> 00:56:26,560
+c'è un campo interessante per chi fa queste cose per lavoro che
+
+794
+00:56:26,560 --> 00:56:32,320
+è description, io lo vedo in inglese, descrizione dove si possono mettere
+
+795
+00:56:32,480 --> 00:56:36,240
+informazioni, un po' come i commenti che ci sono dentro il finder
+
+796
+00:56:36,400 --> 00:56:40,960
+se chiediamo le informazioni su un file, è una finestra in cui
+
+797
+00:56:40,960 --> 00:56:46,640
+si può scrivere quello che si vuole relativamente al contenuto, al senso
+
+798
+00:56:46,640 --> 00:56:48,720
+che per noi ha quel file lì.
+
+799
+00:56:49,440 --> 00:56:55,760
+Una nota, la nota proprio così, e questo quando, non so, stai
+
+800
+00:56:55,760 --> 00:57:00,640
+preparando una serie di elementi da mostrare in una presentazione piuttosto che
+
+801
+00:57:00,800 --> 00:57:04,720
+ah, ma qui il professore ha detto questa cosa c'è da ricordarsi,
+
+802
+00:57:05,040 --> 00:57:12,000
+li infili lì invece che nella lavagna dove non gli apparterrebbero, e
+
+803
+00:57:12,160 --> 00:57:16,560
+la tua comodità di lavoro e il tuo ordine mentale ne risentono
+
+804
+00:57:16,560 --> 00:57:17,360
+assai positivamente.
+
+805
+00:57:17,520 --> 00:57:22,080
+Correggo li ovemente perché la descrizione serve, ma solo perché lo leggo,
+
+806
+00:57:22,320 --> 00:57:26,480
+non perché questa è una descrizione utilizzata dalla tecnologia assistive come voice
+
+807
+00:57:26,480 --> 00:57:26,880
+over.
+
+808
+00:57:26,880 --> 00:57:32,400
+Quindi per non udenti, non vedenti, sì, beh, questo è l'uso, poi
+
+809
+00:57:32,880 --> 00:57:37,600
+successivo, però, sai, senza avere voice over, io comunque posso
+
+810
+00:57:39,360 --> 00:57:41,520
+tranquillamente andare a vedere quello che c'è scritto.
+
+811
+00:57:41,520 --> 00:57:47,040
+Se poi ho una esigenza di farmi leggere quel testo, sai che
+
+812
+00:57:47,040 --> 00:57:51,520
+Apple sull'accessibilità non fa sconti a nessuno, ed è una cosa molto
+
+813
+00:57:51,520 --> 00:57:54,960
+bella, quindi hai fatto molto bene a sottolinearlo.
+
+814
+00:57:54,960 --> 00:57:59,400
+Ne approfitto perché parlavamo degli stili e dico due cose.
+
+815
+00:57:59,400 --> 00:58:04,520
+Una, nella versione 1 non c'era, secondo me, la scorciatoia tastiera, in
+
+816
+00:58:04,520 --> 00:58:08,520
+questa versione 1.1 invece ci sono un sacco di scorciatoie tastiere, tra
+
+817
+00:58:08,520 --> 00:58:14,120
+cui copia stile e incolla stile che è Option Command C e
+
+818
+00:58:14,120 --> 00:58:19,400
+Option Command V, che poi la scorciatoia tipica anche di keynote e
+
+819
+00:58:19,400 --> 00:58:24,280
+altri software di Apple per copiare e incollare gli stili.
+
+820
+00:58:24,280 --> 00:58:30,440
+Quindi per ulteriormente velocizzare le operazioni si può anche fare in questa
+
+821
+00:58:30,440 --> 00:58:31,240
+maniera.
+
+822
+00:58:31,400 --> 00:58:34,600
+E appunto, la cosa interessante è che non ci sono ancora tutte,
+
+823
+00:58:34,600 --> 00:58:39,480
+tutte, tutte le scorciatoie da tastiera, ma bel grossa fetta di cose
+
+824
+00:58:39,640 --> 00:58:44,280
+è possibile farle anche a scorciatori a tastiera o quantomeno, chiamiamole così:
+
+825
+00:58:44,280 --> 00:58:46,120
+le scorciatoie a tastiere di sistema.
+
+826
+00:58:46,200 --> 00:58:50,760
+Quindi quelle che sei abituato a utilizzare in altre applicazioni, finalmente ci
+
+827
+00:58:50,760 --> 00:58:56,040
+sono anche in questa, e quindi tutto funziona in maniera più fluida,
+
+828
+00:58:56,040 --> 00:59:00,680
+probabilmente anche per chi, per esempio, come sottoscritto, una volta che ha
+
+829
+00:59:00,680 --> 00:59:06,280
+poi imparato le scorciatoie a tastiere, le preferisce al clicca qua punta
+
+830
+00:59:06,280 --> 00:59:06,920
+qua.
+
+831
+00:59:06,920 --> 00:59:10,200
+Io so che Roberto è stato a copertino in una riunione di
+
+832
+00:59:10,200 --> 00:59:15,560
+ingegneri, e ha detto: assolutamente: non dovete mettere la scorciatoia di tastiera
+
+833
+00:59:15,560 --> 00:59:17,480
+sul comando che nasconde la griglia.
+
+834
+00:59:17,480 --> 00:59:20,040
+Perché a me la griglia piace tantissimo, era la cosa che mi
+
+835
+00:59:20,040 --> 00:59:20,680
+mancava.
+
+836
+00:59:20,680 --> 00:59:25,000
+Non aspettavo altro, non la dovete togliere, uno deve accorgersene a fatica
+
+837
+00:59:25,160 --> 00:59:28,360
+e lo hanno ascoltato, manca il comando.
+
+838
+00:59:29,320 --> 00:59:32,200
+Però, vedi, mi hanno accontentato su una cosa, ma non su un'altra,
+
+839
+00:59:32,280 --> 00:59:36,600
+che è quella che spero che nella versione nuova sia stata adottata.
+
+840
+00:59:36,600 --> 00:59:41,680
+Che purtroppo non c'è la versione night di questa di questo freeform.
+
+841
+00:59:41,680 --> 00:59:43,880
+Nel senso che sarebbe bello avere
+
+842
+00:59:44,440 --> 00:59:45,600
+non c'è dark World.
+
+843
+00:59:46,160 --> 00:59:49,360
+Nel senso che se lo usi di notte dopo un po' rimani
+
+844
+00:59:49,440 --> 00:59:54,320
+un po' dire sbaragliato dalla luce del bianco.
+
+845
+00:59:54,320 --> 00:59:56,640
+Quindi sarebbe bello avere una versione dark mode.
+
+846
+00:59:56,800 --> 01:00:00,800
+Spero che la introducano, perché potrebbe essere davvero interessante.
+
+847
+01:00:00,960 --> 01:00:04,640
+Anche se mi rendo conto che in una situazione con tante cose
+
+848
+01:00:04,800 --> 01:00:09,120
+di questo tipo, con vari colori, dimensioni forme, ci puoi infilare di
+
+849
+01:00:09,120 --> 01:00:11,840
+tutto, diventa complicato gestire.
+
+850
+01:00:11,840 --> 01:00:14,080
+L'interfaccia comunque ha il dark mode.
+
+851
+01:00:14,400 --> 01:00:20,800
+Adesso, io lo sto guardando, essendo notte, tra virgolette, è tutto nero,
+
+852
+01:00:21,120 --> 01:00:27,200
+però, sì, la canvas, la lavagna è totalmente bianca con i puntini,
+
+853
+01:00:27,440 --> 01:00:31,120
+però, devo dire la verità diventa anche complicato perché dopo gli devi
+
+854
+01:00:31,120 --> 01:00:37,360
+anche devi fare anche dei ragionamenti sul cambiamento non tanto del testo
+
+855
+01:00:37,360 --> 01:00:42,240
+scritto, che forse quello più semplice, e del testo scritto a mano,
+
+856
+01:00:42,240 --> 01:00:45,440
+che a questo punto deve avere l'effetto inverso.
+
+857
+01:00:45,760 --> 01:00:48,320
+Il testo colorato in otto modi diversi
+
+858
+01:00:50,400 --> 01:00:52,560
+diventa diventa una cosa.
+
+859
+01:00:54,080 --> 01:00:56,800
+È difficile fare l'effetto.
+
+860
+01:00:57,280 --> 01:00:59,360
+L'effetto negativo
+
+861
+01:01:00,480 --> 01:01:04,080
+solarizzato, è però poi la leggibilità, chi lo sa
+
+862
+01:01:05,120 --> 01:01:05,680
+ottieni?
+
+863
+01:01:06,160 --> 01:01:09,840
+Ma, no, è ovvio che cambia molto a livello pratico.
+
+864
+01:01:09,840 --> 01:01:14,320
+Ecco un'altra cosa che volevo segnalare che io, visto che sono un
+
+865
+01:01:14,320 --> 01:01:18,480
+amante di Apple Pencil, che, però, mi sta dando, non mi sta
+
+866
+01:01:18,480 --> 01:01:22,800
+dando i feedback che mi aspetto da Freeform.
+
+867
+01:01:22,800 --> 01:01:23,280
+Anche qua.
+
+868
+01:01:23,280 --> 01:01:25,840
+Io continuo dire, sono sempre sulla versione vecchia.
+
+869
+01:01:25,840 --> 01:01:28,320
+Spero che la nuova sia risolta.
+
+870
+01:01:28,320 --> 01:01:32,680
+Ad esempio, se io uso Pencil, non ho la possibilità di fare
+
+871
+01:01:29,840 --> 01:01:36,600
+delle selezioni che vadano al di là degli oggetti vettoriali.
+
+872
+01:01:36,760 --> 01:01:41,240
+Nel senso, se utilizzo la Pencil per selezionare col proprio strumento, se
+
+873
+01:01:41,240 --> 01:01:47,240
+voglio prendere assieme, un'immagine, una scritta fatta a mano e una parte
+
+874
+01:01:47,240 --> 01:01:51,800
+del testo, prenderla e spostarla tutta assieme, questa non viene selezionata, ed
+
+875
+01:01:51,800 --> 01:01:56,600
+è quelle cose che non ti aspetti, perché ti aspetti che quando
+
+876
+01:01:56,600 --> 01:01:59,320
+facci una selezione, becca tutto quello che c'è dentro.
+
+877
+01:01:59,320 --> 01:02:00,120
+No, perché
+
+878
+01:02:01,160 --> 01:02:06,520
+probabilmente se non utilizzi, cioè se la pensi, la utilizzi, ma secondo
+
+879
+01:02:06,520 --> 01:02:11,160
+me abitualmente Apple non fa funzionare così in estrema sintesi, nella versione
+
+880
+01:02:11,160 --> 01:02:16,600
+per iPad c'è un pulsante, diciamo, di disegno che non esiste nella
+
+881
+01:02:16,600 --> 01:02:19,000
+versione Mac per intenderci.
+
+882
+01:02:19,800 --> 01:02:23,960
+Nel momento in cui la utilizzo, se raccatto, provo anche a raccattare
+
+883
+01:02:23,960 --> 01:02:25,800
+l'iPad, che comunque è alla beta,
+
+884
+01:02:26,840 --> 01:02:29,880
+no, ma io ho la beta sull'iPad, quindi sono sicuro di essere
+
+885
+01:02:29,880 --> 01:02:32,200
+aggiornato, cioè più avanti di te.
+
+886
+01:02:32,200 --> 01:02:35,720
+Come al solito, il discorso è che abitualmente quando
+
+887
+01:02:36,840 --> 01:02:42,200
+l'iPad sente la penna, parte con lo strumento penna che disegna, e
+
+888
+01:02:42,200 --> 01:02:48,440
+quindi forse disabilitando lo strumento penna, l'ole pencil può diventare un input
+
+889
+01:02:48,520 --> 01:02:53,000
+diciamo per la gestione dell'interfaccia, ma dubito fortemente perché in questi casi
+
+890
+01:02:53,000 --> 01:02:57,720
+è raro che lo faccia e abitualmente il contrario: cioè appena sente
+
+891
+01:02:57,720 --> 01:02:59,000
+la pencil, va
+
+892
+01:03:00,440 --> 01:03:03,560
+e ti dico subito se per caso nell'ultima versione ha fatto qualcosa
+
+893
+01:03:03,560 --> 01:03:03,960
+di diverso.
+
+894
+01:03:04,040 --> 01:03:08,840
+No, volevo dire, a meno che non ci sia una impostazione della
+
+895
+01:03:08,840 --> 01:03:14,840
+Pencil dove tu puoi fare alternanza tra modalità disegno e modalità
+
+896
+01:03:16,800 --> 01:03:24,080
+dispositivo di proprio come pensavo io, ho disabilitato la funzione disegno appena
+
+897
+01:03:24,080 --> 01:03:27,520
+io appoggio la pencil sullo schermo, lei disegna.
+
+898
+01:03:27,520 --> 01:03:33,200
+E parte è fatta per scrivere e non rompere esatto, però se
+
+899
+01:03:33,200 --> 01:03:37,360
+tu selezioni l'ultimo strumento sulla destra che è quello della selezione con
+
+900
+01:03:37,360 --> 01:03:43,280
+Apple Pencil, ma è la selezione del selezione del disegno fatto del
+
+901
+01:03:43,280 --> 01:03:50,160
+tratto del tratto, e infatti, se cerco di seleziona perfettamente il tratto,
+
+902
+01:03:50,160 --> 01:03:54,720
+e infatti mi dà addirittura la possibilità di ridimensionare il tratto.
+
+903
+01:03:54,720 --> 01:03:58,800
+Vabbè, con nulla di particolare, di separare il tratto.
+
+904
+01:03:58,800 --> 01:04:01,680
+Addirittura adesso volevo vedere se si riesce a fare.
+
+905
+01:04:01,680 --> 01:04:03,200
+Sì, sì, prende solo il tratto.
+
+906
+01:04:03,200 --> 01:04:09,840
+In effetti, e proprio perché secondo me il disegno è pensato solo
+
+907
+01:04:09,840 --> 01:04:10,800
+in questa maniera.
+
+908
+01:04:10,800 --> 01:04:15,120
+Io preferirei facesse una selezione di tutto, però va da uno all'altro,
+
+909
+01:04:15,200 --> 01:04:18,400
+nel senso perché immagino che ognuno abbia le proprie preferenze.
+
+910
+01:04:18,400 --> 01:04:19,360
+Poi ognuno.
+
+911
+01:04:19,360 --> 01:04:23,360
+Non siamo nella testa degli ingegneri Apple e questa probabilmente la soluzione
+
+912
+01:04:23,360 --> 01:04:27,200
+migliore, perché in effetti, se uno sta scrivendo, vuole anche selezionare quello
+
+913
+01:04:27,200 --> 01:04:30,000
+che sta scrivendo, non tutto il resto che c'è attorno.
+
+914
+01:04:30,000 --> 01:04:32,080
+È una soluzione, forse più furba.
+
+915
+01:04:32,080 --> 01:04:33,680
+Questa di quello che uno ci si aspetta.
+
+916
+01:04:33,680 --> 01:04:38,880
+Poi volete in bastardirmi il Mac con tutte queste robe di input
+
+917
+01:04:38,880 --> 01:04:44,240
+con le dita, input con la penna, input con le orecchie, il
+
+918
+01:04:44,240 --> 01:04:49,360
+Mac è un Mac, andate sull'iPad, andate sull'iPhone.
+
+919
+01:04:49,360 --> 01:04:57,360
+Allora, per Roberto, nelle impostazioni, nelle impostazioni di Freeform in impostazioni, perché
+
+920
+01:04:58,320 --> 01:05:03,400
+nel tab delle impostazioni di sistema, chiamiamoli in questi termini sotto l'applicazione
+
+921
+01:04:59,840 --> 01:05:07,080
+freeform, c'è su Apple Pencil selezione scorri.
+
+922
+01:05:07,160 --> 01:05:11,720
+Usa Apple Pencil per selezionare gli oggetti e scorrere sulla lavagna.
+
+923
+01:05:11,720 --> 01:05:15,480
+Quindi se la abiliti adesso te l'abilito e torno in free form
+
+924
+01:05:15,640 --> 01:05:19,080
+e selezione scorri è quella, intendi, eh?
+
+925
+01:05:20,040 --> 01:05:26,280
+Ah no, sì, in questa maniera effettivamente mi fa il doppio sistema.
+
+926
+01:05:26,280 --> 01:05:32,440
+Cioè, per esempio, ho selezionato del testo scritto, con leppel pencil me
+
+927
+01:05:32,440 --> 01:05:33,480
+l'ha selezionato.
+
+928
+01:05:33,480 --> 01:05:37,560
+A questo punto c'è l'icona dello scrivere, e mi passa a scrivere
+
+929
+01:05:37,560 --> 01:05:38,840
+con Apple Pencil.
+
+930
+01:05:38,840 --> 01:05:40,760
+Quindi, se lo vuoi, puoi fare?
+
+931
+01:05:40,920 --> 01:05:45,240
+Sì, ma non funziona come dico io, adesso te puoi.
+
+932
+01:05:46,200 --> 01:05:49,880
+No, però è interessante il fatto che comunque tu lo possa selezionare.
+
+933
+01:05:49,880 --> 01:05:51,880
+È una selezione diversa, in effetti.
+
+934
+01:05:51,880 --> 01:05:55,000
+Questa forse no, la usi come input
+
+935
+01:05:56,920 --> 01:05:58,280
+ma è ancora più giusto.
+
+936
+01:05:58,280 --> 01:06:00,360
+Ah, beh, tu volevi il solito gioco.
+
+937
+01:06:01,000 --> 01:06:02,360
+Ma è più giusto così.
+
+938
+01:06:02,360 --> 01:06:07,800
+E che non ti aspetti questa situazione, perché magari associ la scrittura
+
+939
+01:06:08,440 --> 01:06:12,760
+a usare la pencil come strumento di input, no, e invece, per
+
+940
+01:06:12,760 --> 01:06:14,440
+Apple è completamente diverso.
+
+941
+01:06:14,440 --> 01:06:18,520
+Cioè, se lo usi come strumento di input, quello che selezioni è
+
+942
+01:06:18,520 --> 01:06:19,880
+quello che stai scrivendo.
+
+943
+01:06:19,880 --> 01:06:23,880
+Una volta che esci da questa forma di scrittura, esci, puoi utilizzare
+
+944
+01:06:23,880 --> 01:06:29,560
+le pole pencil in effetti come strumento di puntamento, non funziona facendo
+
+945
+01:06:29,560 --> 01:06:34,280
+un cerchio attorno all'oggetto che ti serve, ma gli dai un diventa
+
+946
+01:06:34,280 --> 01:06:35,640
+un sostituto del dito.
+
+947
+01:06:35,640 --> 01:06:37,080
+Sostanzialmente esattamente.
+
+948
+01:06:37,080 --> 01:06:40,440
+Gli devi dare un tapp sull'oggetto, allora lo puoi muovere con la
+
+949
+01:06:40,440 --> 01:06:43,240
+pencil, che è molto interessante come idea.
+
+950
+01:06:43,240 --> 01:06:46,240
+La prossima volta che vai a copertino e sei in riunione con
+
+951
+01:06:46,240 --> 01:06:48,320
+gli ingegneri, gli passi anche quello.
+
+952
+01:06:44,840 --> 01:06:51,280
+Tra l'altro, un'altra cosa che a proposito che volevo passargli,
+
+953
+01:06:51,360 --> 01:06:55,600
+che è un'altra cosa che mi ha lasciato molto perplesso, è il
+
+954
+01:06:55,600 --> 01:07:00,640
+raddrizzamento automatico della linea che disegni con Pencil su Note, puoi farlo,
+
+955
+01:07:00,640 --> 01:07:03,680
+nel senso, se tu tiri una linea dal punto A al punto
+
+956
+01:07:03,680 --> 01:07:09,200
+B, se ti soffermi sul punto B, la linea diventa automaticamente dritta.
+
+957
+01:07:09,200 --> 01:07:12,640
+Adesso non so, io ho provato su Freeform, non funziona, magari sulla
+
+958
+01:07:12,640 --> 01:07:13,760
+versione nuova funziona.
+
+959
+01:07:14,000 --> 01:07:18,560
+Sto testando in diretta, ma attendiamo anche questa.
+
+960
+01:07:18,880 --> 01:07:23,760
+Non ci sono alcune opzioni che sono presenti in note: quindi, anche
+
+961
+01:07:23,760 --> 01:07:27,680
+la possibilità di raddrizzare, per esempio, il testo scritto un po' istorto.
+
+962
+01:07:28,000 --> 01:07:33,440
+Funzioni che ad oggi, però, appunto, continua a ripetere, effettivamente già hanno
+
+963
+01:07:33,440 --> 01:07:38,800
+risolto tutta una serie di problemi che erano forse prioritarie rispetto a
+
+964
+01:07:38,800 --> 01:07:39,440
+questo.
+
+965
+01:07:39,760 --> 01:07:40,880
+Assolutamente sì.
+
+966
+01:07:40,880 --> 01:07:45,440
+E a proposito, una cosa che avevamo segnalato, diciamo, sulla collaborazione.
+
+967
+01:07:45,440 --> 01:07:49,600
+Che adesso non so se hanno introdotto qualcosa di diverso, è appunto
+
+968
+01:07:49,600 --> 01:07:53,040
+non riuscire a distinguere chi scrive che cosa, nel senso che non
+
+969
+01:07:53,040 --> 01:07:57,840
+c'è un segnalibro o un'indicazione, per esempio, su quello che ho scritto
+
+970
+01:07:57,840 --> 01:07:59,920
+io, su quello che ha scritto Filippo o quello che ha scritto
+
+971
+01:07:59,920 --> 01:08:06,000
+Lucio all'interno dello stesso contesto, adesso, magari in quella versione nuova c'è
+
+972
+01:08:06,000 --> 01:08:08,000
+la possibilità di vedere la differenza.
+
+973
+01:08:09,280 --> 01:08:12,240
+Dovrei condividervelo adesso ci provo se volete.
+
+974
+01:08:12,240 --> 01:08:16,200
+In diretta fallo con Lucio perché io purtroppo sono indietro, no?
+
+975
+01:08:16,960 --> 01:08:18,560
+Ti mando il link che facevano
+
+976
+01:08:20,880 --> 01:08:21,200
+.
+
+977
+01:08:19,000 --> 01:08:21,840
+Aspetta, che guardo.
+
+978
+01:08:21,160 --> 01:08:22,200
+Aspetta, vero
+
+979
+01:08:23,000 --> 01:08:29,680
+, che sotto, qui è tutto e noi facciamo tutti in diretta perché
+
+980
+01:08:29,960 --> 01:08:32,680
+non ci facciamo mancare niente come si soldi?
+
+981
+01:08:32,680 --> 01:08:38,600
+Ma perché il Mac bicicletta della mente, amplificatore di intelligenza, ragazzi.
+
+982
+01:08:38,680 --> 01:08:39,320
+Non è
+
+983
+01:08:41,160 --> 01:08:41,960
+tutto vero.
+
+984
+01:08:41,960 --> 01:08:44,120
+Comunque, te l'ho mandato su Telegram.
+
+985
+01:08:44,280 --> 01:08:50,440
+Sì, disgraziatamente, secondo me, non essendo io aggiornato, non riesco ad apprendere.
+
+986
+01:08:51,160 --> 01:08:51,640
+Ragazzi.
+
+987
+01:08:51,960 --> 01:08:56,040
+Siete tutti su sistemi non aggiornati a vero.
+
+988
+01:08:56,280 --> 01:09:01,240
+Siamo su sistemi anziani, infatti, no, e questo è molto vero.
+
+989
+01:09:01,240 --> 01:09:05,240
+Daveri appassionati, Apple è così che funziona, ragazzi.
+
+990
+01:09:06,040 --> 01:09:10,760
+Quando sento qualche giovane che si lamenta perché quando era giovane, veramente
+
+991
+01:09:11,960 --> 01:09:18,760
+si poteva smanettare dentro dei sistemi, cercare, incuriosire, imparare dall'esperienza, adesso hai
+
+992
+01:09:18,760 --> 01:09:24,360
+dei sistemi infinitamente più complessi, dove se tu avessi lo stesso spirito
+
+993
+01:09:24,360 --> 01:09:32,360
+di 92 anni fa potresti acquisire dall'esperienza infinite cose in più invece
+
+994
+01:09:32,360 --> 01:09:34,120
+di lamentarti.
+
+995
+01:09:35,080 --> 01:09:38,280
+È vero e un'altra cosa che vi volevo far ridere tutti e
+
+996
+01:09:38,360 --> 01:09:39,080
+due è perché
+
+997
+01:09:40,120 --> 01:09:44,360
+mentre stavo cercando, è dato fuori un non so se è vero,
+
+998
+01:09:44,360 --> 01:09:47,640
+perché lascio a voi l'onere del
+
+999
+01:09:49,400 --> 01:09:53,720
+provare che sia in effetti vero su Max City Net è saltato
+
+1000
+01:09:53,720 --> 01:09:59,240
+fuori che c'è già 13.2.1 che l'articolo è proprio di oggi, quindi
+
+1001
+01:09:59,880 --> 01:10:03,560
+anche qua fixo, legati alla sicurezza, niente di particolare.
+
+1002
+01:10:04,040 --> 01:10:06,520
+Siamo già al punto 1,
+
+1003
+01:10:08,440 --> 01:10:13,320
+io sono già sull'iPad, sono sul 16.6, sì, ma che esiste come
+
+1004
+01:10:13,320 --> 01:10:14,440
+beta, giusto?
+
+1005
+01:10:14,800 --> 01:10:18,320
+Sì, sì, sì, sì, infatti, qui sono in beta, quindi non è
+
+1006
+01:10:18,320 --> 01:10:25,120
+che per cui, signori, direi che abbiamo fatto la solita nostra ora:
+
+1007
+01:10:25,200 --> 01:10:25,840
+abbondante,
+
+1008
+01:10:28,560 --> 01:10:31,440
+il giro di riassunti.
+
+1009
+01:10:31,440 --> 01:10:35,360
+Allora, Lucio, raccontaci, Freeform come ti è sembrata?
+
+1010
+01:10:35,360 --> 01:10:45,360
+Dunque, Friform è una ottima 1.0 che promette molto, realizza delle aspettative
+
+1011
+01:10:45,680 --> 01:10:49,440
+interessanti che avevo dal punto di vista tipografico, dal punto di vista
+
+1012
+01:10:49,440 --> 01:10:55,200
+dell'interfaccia utente, dell'esperienza utente, manca ancora
+
+1013
+01:10:56,960 --> 01:11:02,800
+in qualche modo sulla parte delle esportazioni, sulla parte del dialogo con
+
+1014
+01:11:02,800 --> 01:11:07,760
+il resto del sistema e invece, grazie a un paio di aggiornamenti,
+
+1015
+01:11:07,760 --> 01:11:13,360
+è diventata più che soddisfacente al pari delle aspettative rispetto alla sincronizzazione
+
+1016
+01:11:13,360 --> 01:11:14,800
+e alla collaborazione.
+
+1017
+01:11:14,800 --> 01:11:21,760
+Quindi chiudo: potrebbe davvero costituire l'altro asso di quella coppia di assi
+
+1018
+01:11:21,760 --> 01:11:25,840
+che Apple potrebbe mettere sul tavolo, videoconferenza
+
+1019
+01:11:27,760 --> 01:11:35,120
+ricca e magari domani in realtà aumentata, e collaborazione su Lavagna Infinita
+
+1020
+01:11:35,440 --> 01:11:38,480
+che nessun altro concorrente in questo momento ha.
+
+1021
+01:11:38,480 --> 01:11:44,080
+Lo vedo bene anche come studio, come strumento di studio tra diversi,
+
+1022
+01:11:44,080 --> 01:11:48,280
+diciamo, studenti che magari sono a casa, ognuno è una proprio a
+
+1023
+01:11:48,240 --> 01:11:50,160
+casa e portano avanti un compito insieme.
+
+1024
+01:11:50,240 --> 01:11:55,280
+Potrebbe anche essere questa una bella strada dal punto di vista educational,
+
+1025
+01:11:55,280 --> 01:11:56,160
+chiamiamolo così.
+
+1026
+01:11:56,160 --> 01:11:57,840
+Invece, Filippo, cosa ne pensi?
+
+1027
+01:11:58,000 --> 01:11:59,600
+Sono rimasto veramente colpito.
+
+1028
+01:11:59,600 --> 01:12:02,200
+Sono ancora più interessato.
+
+1029
+01:12:02,200 --> 01:12:08,760
+Adesso anzi, mi ripropongo, ci riproviamo a usarla quando vi siete aggiornati
+
+1030
+01:12:09,000 --> 01:12:10,680
+con anche FaceTime.
+
+1031
+01:12:10,680 --> 01:12:14,920
+Perché effettivamente credo che il connubio.
+
+1032
+01:12:15,160 --> 01:12:19,800
+Recentemente ho testato FaceTime con un collega, quindi ho condiviso la scrivania,
+
+1033
+01:12:19,800 --> 01:12:25,160
+condiviso finestre mentre eravamo in chat in FaceTime e devo dire la
+
+1034
+01:12:25,160 --> 01:12:30,120
+verità: il collega aveva anche un buon collegamento come sottoscritto, ma il
+
+1035
+01:12:30,120 --> 01:12:35,560
+risultato finale della vicenda è stato molto interessante e molto funzionale.
+
+1036
+01:12:35,560 --> 01:12:43,480
+Quindi aggiungere anche questo ulteriore tassello al sistema, ammetto che FaceTime, diciamo,
+
+1037
+01:12:43,720 --> 01:12:47,320
+è un giochino per noi utenti Apple, ma per il resto del
+
+1038
+01:12:47,320 --> 01:12:49,480
+mondo è qualcosa di conosciuto.
+
+1039
+01:12:49,480 --> 01:12:53,400
+Però devo dire la verità: col fatto che adesso, per esempio, FaceTime
+
+1040
+01:12:53,560 --> 01:12:58,440
+si può comunque utilizzare nella finestra del browser, le possibilità ci sono
+
+1041
+01:12:58,600 --> 01:13:02,360
+e probabilmente se funziona tutto correttamente
+
+1042
+01:13:03,400 --> 01:13:08,840
+diventa interessante anche perché il concorrente che io purtroppo conosco perché è
+
+1043
+01:13:08,840 --> 01:13:12,600
+Teams in cui si fanno le udienze con Teams, si fanno i
+
+1044
+01:13:12,600 --> 01:13:18,280
+convegni con Teams e l'esperienza che ne ho io è abbastanza imbarazzante
+
+1045
+01:13:19,080 --> 01:13:24,680
+a dir poco, mettiamone in questi termini, per cui ben venga tutte
+
+1046
+01:13:24,680 --> 01:13:28,840
+queste novità, e effettivamente, forse
+
+1047
+01:13:30,120 --> 01:13:32,600
+noi, tra virgolette, evangelisti
+
+1048
+01:13:33,720 --> 01:13:38,600
+dovremmo cercare di portare il verbo più in giro, perché effettivamente, per
+
+1049
+01:13:38,600 --> 01:13:44,520
+esempio, in Italia Face Time l'ho usato pochissime volte, con appunto colleghi
+
+1050
+01:13:44,520 --> 01:13:50,800
+appassionati di Mac, con appassionati Mac in generale, ma alla fine è
+
+1051
+01:13:50,800 --> 01:13:54,160
+veramente qualcosa di residuale a dirtato.
+
+1052
+01:13:54,560 --> 01:14:00,960
+Io ultimamente ho dato un paio di appuntamenti a persone con FaceTime
+
+1053
+01:14:01,120 --> 01:14:05,920
+che loro usavano dentro la finestra del browser e ci siamo riusciti.
+
+1054
+01:14:05,920 --> 01:14:13,120
+Chiaramente è uno spostamento culturale per queste persone abbastanza importante, quindi ci
+
+1055
+01:14:13,120 --> 01:14:18,400
+vuole un po' di pazienza e molta mano diplomatica, diciamo così.
+
+1056
+01:14:18,400 --> 01:14:22,640
+Io, ad esempio, lo utilizzo per quando devo chiamare mia moglie o
+
+1057
+01:14:22,640 --> 01:14:26,160
+viceversa, quando uno dei due è a casa, visto che a casa
+
+1058
+01:14:26,320 --> 01:14:29,440
+ho anche la linea cellulare non prende bene, invece utilizziamo Face time
+
+1059
+01:14:29,600 --> 01:14:31,360
+audio in questo caso.
+
+1060
+01:14:31,360 --> 01:14:34,800
+Si appoggia ovviamente alla rete WiFi, invece chi è fuori utilizza il
+
+1061
+01:14:34,800 --> 01:14:38,240
+3G, il 4C o il 5G in base a quello che gli
+
+1062
+01:14:38,240 --> 01:14:39,920
+serve e funziona molto bene.
+
+1063
+01:14:39,920 --> 01:14:44,000
+Quello non potrebbe essere un possibile utilizzo alternativo di FaceTime che può
+
+1064
+01:14:44,000 --> 01:14:47,280
+essere sia video, ma ricordiamoci che c'è anche la versione audio che
+
+1065
+01:14:47,280 --> 01:14:47,840
+è molto interessante.
+
+1066
+01:14:50,960 --> 01:14:55,600
+La qualità della chiamata audio di FaceTime è vastamente superiore a quella
+
+1067
+01:14:55,600 --> 01:14:56,640
+della chiamata cellulare.
+
+1068
+01:14:56,640 --> 01:15:01,440
+È stato in effetti è vero, questo posso dimostrarlo, in effetti è
+
+1069
+01:15:01,440 --> 01:15:05,040
+una funzione che si dimentica, ma è lì che ti fa l'occhiolino
+
+1070
+01:15:05,040 --> 01:15:07,520
+e ce ne si dimentica, ovviamente.
+
+1071
+01:15:07,520 --> 01:15:13,680
+Devi avere entrambi l'iPhone, alla fine, però, in un ecosistema Apple questa
+
+1072
+01:15:13,680 --> 01:15:15,600
+cosa funziona decisamente molto bene.
+
+1073
+01:15:15,600 --> 01:15:19,520
+Guarda, che anche in azienda è pieno di gente che ha il
+
+1074
+01:15:19,520 --> 01:15:23,840
+PC sulla scrivania e l'iPhone in mano, perché le alternative non sono
+
+1075
+01:15:23,840 --> 01:15:24,560
+moltissime.
+
+1076
+01:15:24,560 --> 01:15:28,720
+Appena sali di livello nella gerarchia, nessuno ha un Android.
+
+1077
+01:15:28,720 --> 01:15:30,440
+È vero, quello l'ho notato anch'io.
+
+1078
+01:15:30,680 --> 01:15:34,200
+Ma altra cosa che fa molto ridere, che, ad esempio, con queste
+
+1079
+01:15:34,200 --> 01:15:39,000
+persone che a me capita di lavorare con persone che utilizzano iPhone
+
+1080
+01:15:39,080 --> 01:15:42,680
+ma non hanno un Mac, nonostante faccio il mio stesso mestiere, è
+
+1081
+01:15:42,760 --> 01:15:46,280
+bello che io possa rispondere dal Mac mentre loro devono per forza
+
+1082
+01:15:46,280 --> 01:15:50,120
+fermarsi e utilizzare il telefono per forza di cosa.
+
+1083
+01:15:50,120 --> 01:15:55,320
+Invece, grazie a questo ecosistema completamente integrato, ti permette anche di fare
+
+1084
+01:15:55,320 --> 01:15:57,880
+queste cose che ti guardano sempre con una faccia un po' invidiosa,
+
+1085
+01:15:57,880 --> 01:16:00,760
+come dire, ma cacchio, ma come tu puoi e io no?
+
+1086
+01:16:01,080 --> 01:16:05,320
+Rimasta nella mitologia di un certo gruppo di miei amici.
+
+1087
+01:16:05,320 --> 01:16:11,000
+Il momento in cui durante la partita a calcio a sette, ho
+
+1088
+01:16:11,000 --> 01:16:17,640
+ricevuto, siccome ero vicino alla panchina, ho ricevuto una chiamata sull'Apple Watch.
+
+1089
+01:16:17,880 --> 01:16:23,320
+Mentavo ho risposto a voce dettando: Guarda, sono impegnato, ti richiamo dopo
+
+1090
+01:16:23,560 --> 01:16:25,320
+e sono andato avanti a giocare.
+
+1091
+01:16:25,320 --> 01:16:28,440
+Questo è rimasto ancora si ricorda.
+
+1092
+01:16:28,440 --> 01:16:31,720
+Eh, sì, sì, è una di quelle cose che lascia il segno
+
+1093
+01:16:31,880 --> 01:16:35,240
+questo tipo di utilizzo degli strumenti Apple.
+
+1094
+01:16:35,240 --> 01:16:36,040
+È interessante.
+
+1095
+01:16:36,040 --> 01:16:42,840
+Noi siamo, diciamolo, fortunati a poterli utilizzare allegramente tutti quanti, non solo
+
+1096
+01:16:42,840 --> 01:16:47,400
+nel nostro tempo libero, ma anche nelle fasi lavorative.
+
+1097
+01:16:47,400 --> 01:16:52,520
+Molti purtroppo perché sono in un sistema che non glielo consente e
+
+1098
+01:16:52,520 --> 01:16:53,880
+si sono proprio legati.
+
+1099
+01:16:53,880 --> 01:16:59,320
+Io, ad esempio, dovessi scegliere in questo momento, ovviamente, probabilmente in questa
+
+1100
+01:16:59,320 --> 01:17:03,480
+fase della mia vita, probabilmente eviterei anche di lavorarci con un sistema
+
+1101
+01:17:03,560 --> 01:17:06,600
+Windows, ma più che altro perché ho un altro tipo di mentalità.
+
+1102
+01:17:06,600 --> 01:17:08,520
+Mi rendo conto che per me è difficile.
+
+1103
+01:17:08,520 --> 01:17:11,240
+Mia moglie, ad esempio, al contrario: non riesce a lavorare su Mac
+
+1104
+01:17:11,400 --> 01:17:13,000
+e lavora bene su Windows.
+
+1105
+01:17:13,000 --> 01:17:17,360
+Però abbiamo la fortuna, ognuno, di poter scegliere il proprio sistema operativo,
+
+1106
+01:17:17,360 --> 01:17:18,720
+ma di lavorare insieme.
+
+1107
+01:17:14,920 --> 01:17:21,120
+In altre situazioni, purtroppo questo non è possibile.
+
+1108
+01:17:22,880 --> 01:17:27,840
+Su questa, diciamo che su questa triste constatazione del mondo del lavoro,
+
+1109
+01:17:27,840 --> 01:17:31,600
+che purtroppo tutti quanti ci auguriamo di arrivare in un momento in
+
+1110
+01:17:31,600 --> 01:17:36,480
+cui ognuno può usare quello che vuole e tutto funziona normalmente che
+
+1111
+01:17:36,480 --> 01:17:38,960
+tutti si dialogano tranquillamente.
+
+1112
+01:17:38,960 --> 01:17:44,000
+Basta che abbiano un qualsiasi dispositivo hardware che possa essere connesso alla
+
+1113
+01:17:44,000 --> 01:17:46,640
+rete, prima o poi arriveremo anche a questo punto.
+
+1114
+01:17:46,640 --> 01:17:51,840
+Vi ricordiamo che se volete supportare il podcast, basta semplicemente passare in
+
+1115
+01:17:51,840 --> 01:17:57,360
+un qualsiasi aggregatore di podcast e lasciare, ad esempio, qualche stellina.
+
+1116
+01:17:57,360 --> 01:18:00,560
+Io come sempre suggerisco 5 stelline che aiutano tutti quanti.
+
+1117
+01:18:00,560 --> 01:18:04,960
+Su Apple Podcast, ad esempio, visto che siamo soprattutto qua che battiamo
+
+1118
+01:18:04,960 --> 01:18:09,360
+forte su Apple, visto che è il nostro strumento che ci aiuta
+
+1119
+01:18:10,000 --> 01:18:12,480
+a portare la pagnotta a casa.
+
+1120
+01:18:12,800 --> 01:18:16,960
+Se volete, potete anche lasciare una recensione direttamente con una scritta, e
+
+1121
+01:18:16,960 --> 01:18:20,160
+potete trovare anche una guida all'interno delle note dell'episodio.
+
+1122
+01:18:20,160 --> 01:18:24,080
+Se volete invece entrare in contatto con noi, potete iscriverci all'indirizzo di
+
+1123
+01:18:24,080 --> 01:18:28,880
+posta elettronica, scrivi.a chiocciola podcast.it.
+
+1124
+01:18:28,880 --> 01:18:31,200
+Ora è arrivato il momento di chiudere la puntata.
+
+1125
+01:18:31,200 --> 01:18:34,480
+Prima di tutto, però, salutiamo Lucio, che ci ha dato il suo
+
+1126
+01:18:34,480 --> 01:18:38,880
+tempo preziosissimo, la sua simpatia, la sua disponibilità, e noi siamo veramente
+
+1127
+01:18:38,880 --> 01:18:41,280
+orgogliosi di averlo qua con noi a microfoni.
+
+1128
+01:18:41,280 --> 01:18:42,960
+Come sempre, è stato un piacere.
+
+1129
+01:18:42,960 --> 01:18:47,920
+Ho preso anche un sacco di appunti, ma posso condividerli solo dopo
+
+1130
+01:18:47,920 --> 01:18:51,120
+avervi mostrati a Coopertino la prossima riunione.
+
+1131
+01:18:52,400 --> 01:18:54,560
+Ottimo, volentieri,
+
+1132
+01:18:55,840 --> 01:18:56,720
+ok?
+
+1133
+01:18:56,720 --> 01:18:58,880
+Drei che per questa puntata è tutto.
+
+1134
+01:18:58,880 --> 01:19:03,480
+Potete trovare le note dell'episodio con tutti i link di quello che
+
+1135
+01:18:59,920 --> 01:19:05,800
+abbiamo parlato in puntata, essenzialmente friform.
+
+1136
+01:19:05,960 --> 01:19:09,160
+Quindi non so quanti link ci possono essere, ma probabilmente ci saranno.
+
+1137
+01:19:09,880 --> 01:19:15,400
+Tutti i video che ho copiosamente ricopiato nella mappa mentale per poi
+
+1138
+01:19:15,400 --> 01:19:17,240
+avere la conversione in Markdown.
+
+1139
+01:19:17,480 --> 01:19:20,200
+E per trovare tutto questo bellissimo lavoro che fa sempre Filippo.
+
+1140
+01:19:20,200 --> 01:19:23,480
+Dietro le quinte, che comunque è il lavoro più spesso di tutti
+
+1141
+01:19:23,480 --> 01:19:32,040
+quanti, potete trovare anche queste simpatiche note e l'episodio in adopodcast.it slash
+
+1142
+01:19:32,040 --> 01:19:32,920
+54.
+
+1143
+01:19:33,160 --> 01:19:36,760
+Invece, dove ci potete trovare Lucio, non lo dico nemmeno perché mi
+
+1144
+01:19:36,760 --> 01:19:37,720
+vergogno di dirlo.
+
+1145
+01:19:37,720 --> 01:19:39,160
+Lucio lo trovate,
+
+1146
+01:19:40,360 --> 01:19:44,040
+lo trovate, non c'è bisogno di fare presentazioni.
+
+1147
+01:19:44,040 --> 01:19:47,800
+Noi siamo Macintelligence.org esattamente.
+
+1148
+01:19:47,800 --> 01:19:52,360
+Lì il punto ha una capacità di mandare fuori articoli uno al
+
+1149
+01:19:52,360 --> 01:19:54,840
+giorno quando va bene, perché se no, ne manda anche due o
+
+1150
+01:19:54,840 --> 01:19:55,240
+tre.
+
+1151
+01:19:55,240 --> 01:19:58,280
+Io non ho idea ancora adesso di come faccia.
+
+1152
+01:19:58,280 --> 01:20:00,520
+Seguitelo perché sono tutte cose interessanti.
+
+1153
+01:20:00,520 --> 01:20:04,680
+Non parla solo di Apple, parla anche di altre cose interessantissime.
+
+1154
+01:20:04,680 --> 01:20:08,200
+Tutte dalla prima all'ultima, è sempre un piacere leggerlo perché è un
+
+1155
+01:20:08,200 --> 01:20:09,480
+bellissimo punto di vista.
+
+1156
+01:20:09,480 --> 01:20:13,960
+Quindi andatevelo a cercare, se non sapete chi è, frustate sulla schiena
+
+1157
+01:20:13,960 --> 01:20:18,520
+subito e andatevelo subito a leggere, linkare e fate come noi che
+
+1158
+01:20:18,520 --> 01:20:21,480
+lo seguiamo dalla notte dei tempi essenzialmente.
+
+1159
+01:20:21,480 --> 01:20:24,280
+Appena abbiamo messo piede sul mondo Apple.
+
+1160
+01:20:24,280 --> 01:20:28,760
+Seguiamo Lucio da quando siamo praticamente abbonati ad Apple.
+
+1161
+01:20:28,760 --> 01:20:31,720
+Invece, per quanto mi riguarda, mi trovate sul mio blog personale Mac
+
+1162
+01:20:31,840 --> 01:20:37,560
+e Architettura che trovate l'indirizzo marktonnet.wordpress.com, e invece il nostro Filippo dove
+
+1163
+01:20:37,560 --> 01:20:38,120
+lo troviamo?
+
+1164
+01:20:38,120 --> 01:20:38,920
+Avocate Mac.
+
+1165
+01:20:39,960 --> 01:20:42,760
+Come siamo stati veloci, sto giro Roberto?
+
+1166
+01:20:42,760 --> 01:20:43,480
+Hai visto?
+
+1167
+01:20:43,480 --> 01:20:48,240
+Direi che con questa bellissima conclusione è tutto e ci sentiamo tra
+
+1168
+01:20:48,240 --> 01:20:49,200
+un paio di settimane.
+
+1169
+01:20:44,920 --> 01:20:51,440
+Ciao a tutti, grazie, alla prossima.

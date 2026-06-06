@@ -1,0 +1,4399 @@
+1
+00:00:00,000 --> 00:00:05,680
+Benvenuti all'episodio 41, pensate un po' di A2 in cui scoprire come
+
+2
+00:00:05,680 --> 00:00:08,720
+ottenere il massimo dalla vostra tecnologia Apple.
+
+3
+00:00:08,720 --> 00:00:12,880
+Io sono, come sempre, il vostro amico, compagno di merende e via
+
+4
+00:00:12,880 --> 00:00:17,840
+discorrendo Roberto Marin e sono il vostro ospite, ovviamente, assieme al mitico
+
+5
+00:00:17,840 --> 00:00:19,040
+Filippo Strozzi.
+
+6
+00:00:19,040 --> 00:00:21,440
+Quest'oggi, Filippo, cosa ci racconti di bello?
+
+7
+00:00:21,440 --> 00:00:25,200
+So già che la scaletta sarà bella lunga, quindi vai a braccio
+
+8
+00:00:25,200 --> 00:00:26,000
+e butta giù.
+
+9
+00:00:26,000 --> 00:00:26,240
+Tutto.
+
+10
+00:00:26,240 --> 00:00:28,640
+Lo sai che io non vado ad abbraccio, non ce la posso
+
+11
+00:00:28,640 --> 00:00:28,960
+fare.
+
+12
+00:00:28,960 --> 00:00:34,880
+Tuttavia, caro Roberto, per questa puntata di inizembre, perché riprendiamo le trasmissioni
+
+13
+00:00:34,880 --> 00:00:39,840
+bisettimanali, tra virgolette, abbiamo deciso di tornare alle basi e parlare di
+
+14
+00:00:39,840 --> 00:00:44,400
+una delle applicazioni che Apple fornisce di serie sui nostri iPhone, iPad
+
+15
+00:00:44,400 --> 00:00:44,960
+e Mac.
+
+16
+00:00:44,960 --> 00:00:49,280
+Oggi parliamo dell'applicazione Pro Memoria di Apple, quella per fare le liste
+
+17
+00:00:49,280 --> 00:00:50,880
+della spesa, per intenderci.
+
+18
+00:00:50,880 --> 00:00:54,880
+Ma devo dire, mentre facevo gli approfondimenti per questa puntata, mi sono
+
+19
+00:00:54,880 --> 00:00:57,760
+accorto che può fare molto di più.
+
+20
+00:00:57,760 --> 00:01:01,840
+E non vedo l'ora di condividere con voi le potenzialità di questa
+
+21
+00:01:01,840 --> 00:01:02,720
+applicazione.
+
+22
+00:01:02,720 --> 00:01:07,200
+Ma prima di iniziare con tutte queste bellissime notizie che ci darà
+
+23
+00:01:07,200 --> 00:01:10,400
+il nostro mitico Filippo, che è sempre sul pezzo e spacca la
+
+24
+00:01:10,400 --> 00:01:11,040
+pietra.
+
+25
+00:01:11,040 --> 00:01:13,920
+Se volete supportare il podcast, vi chiediamo con il cuore di fare
+
+26
+00:01:13,920 --> 00:01:16,000
+una bella recensione su Apple Podcast.
+
+27
+00:01:16,000 --> 00:01:18,880
+In questa fase iniziale, che ormai iniziale non è più, dopo 40
+
+28
+00:01:18,880 --> 00:01:20,800
+puntate, siamo circa quasi un anno.
+
+29
+00:01:20,800 --> 00:01:23,840
+Però, ragazzi miei, dateci dentro con le recensioni.
+
+30
+00:01:23,920 --> 00:01:27,120
+Ecco un anno e mezzo, dateci dentro con queste recensioni perché ci
+
+31
+00:01:27,120 --> 00:01:30,480
+permettono di essere visti da più persone possibili e anche capire se
+
+32
+00:01:30,480 --> 00:01:32,160
+siamo sulla strada giusta.
+
+33
+00:01:32,160 --> 00:01:35,520
+Ma se volete entrare direttamente in contatto con noi, sapete che c'è
+
+34
+00:01:35,520 --> 00:01:36,560
+anche una bella mail.
+
+35
+00:01:36,560 --> 00:01:42,560
+L'indirizzo mail è proprio questo: si chiama scrivi.a chiocciolapodcast.it dove potete scriverci
+
+36
+00:01:42,560 --> 00:01:45,760
+le vostre impressioni, i vostri dubbi, le vostre richieste, quello che vi
+
+37
+00:01:45,760 --> 00:01:50,080
+passa per la mente, mandare a stendere anche sottoscritto, e magari chiedere
+
+38
+00:01:50,240 --> 00:01:55,280
+una parcella, ad esempio, in consulenza al nostro mitico Filippo che vi
+
+39
+00:01:55,280 --> 00:01:57,280
+digitalizzerà tutto l'ufficio.
+
+40
+00:01:57,280 --> 00:02:02,120
+Oppure, se volete sapere come fare una recensione, troverete, come sempre, il
+
+41
+00:01:59,920 --> 00:02:03,720
+link nelle note dell'episodio.
+
+42
+00:02:03,880 --> 00:02:07,480
+Segnatevelo ovviamente dove tutte queste cose qua su un bel Pro Memoria,
+
+43
+00:02:07,480 --> 00:02:13,080
+come adesso il nostro mitico Filippo ci racconterà nella grandissima puntata che
+
+44
+00:02:13,080 --> 00:02:16,600
+state per ascoltare, la numero 41 di A2 Podcast.
+
+45
+00:02:16,600 --> 00:02:20,360
+Benissimo, parto io subito veloce e la prima cosa che vi dico
+
+46
+00:02:20,360 --> 00:02:23,320
+è che io non uso Pro Memoria, o meglio, io uso Pro
+
+47
+00:02:23,400 --> 00:02:26,600
+Memoria solo per le liste della spesa, come ho detto all'inizio della
+
+48
+00:02:26,600 --> 00:02:27,240
+puntata.
+
+49
+00:02:27,240 --> 00:02:33,720
+Però appunto ragionavamo assieme sul fatto che effettivamente Apple, dando un rene
+
+50
+00:02:33,800 --> 00:02:38,040
+e mezzo per i suoi dispositivi, comunque ci fornisce tutta una serie
+
+51
+00:02:38,040 --> 00:02:43,880
+di applicazioni di base preinstallate sui nostri telefoni, sui nostri tablet, sui
+
+52
+00:02:43,880 --> 00:02:44,920
+nostri Mac.
+
+53
+00:02:45,080 --> 00:02:49,960
+Quindi era carina l'idea di fare un approfondimento e di vedere effettivamente
+
+54
+00:02:49,960 --> 00:02:54,200
+cosa si può fare anche per i professionisti, diciamo, e non solo,
+
+55
+00:02:54,200 --> 00:02:58,360
+con queste applicazioni, chiamiamole così, tra virgolette, di base, ho iniziato a
+
+56
+00:02:58,360 --> 00:03:03,320
+fare un po' di approfondimenti e mentre appunto chattavo con Roberto, ho
+
+57
+00:03:03,320 --> 00:03:06,280
+iniziato a dire: sì, vedi Roberto, però questa cosa qui non la
+
+58
+00:03:06,280 --> 00:03:08,040
+sa fare, promemoria.
+
+59
+00:03:08,280 --> 00:03:11,240
+E poi dieci minuti dopo dicevo, Roberto, no, non è vero, si
+
+60
+00:03:11,240 --> 00:03:14,920
+riesce a fare questa cosa, e poi ancora no, ma guarda che
+
+61
+00:03:14,920 --> 00:03:17,880
+non riesce a fare questa, però che è per me essenziale, e
+
+62
+00:03:17,880 --> 00:03:20,440
+poi no, ma guarda che si riesce anche a fare questo.
+
+63
+00:03:20,440 --> 00:03:25,640
+Nella sostanza, adesso non voglio mettere il caro davanti a voi, ma
+
+64
+00:03:25,640 --> 00:03:33,320
+se si utilizzano ovviamente comandi rapidi e qualche automazione, effettivamente, Pro Memoria
+
+65
+00:03:33,960 --> 00:03:38,600
+sotto il cofano, ha degli strumenti più interessanti di quelli che io
+
+66
+00:03:38,600 --> 00:03:40,840
+inizialmente, originalmente, avevo pensato.
+
+67
+00:03:40,840 --> 00:03:45,360
+Faccio subito una bella domanda per chiederti: metterai queste automazioni in giro
+
+68
+00:03:45,360 --> 00:03:48,480
+per il web in modo tale che possiamo utilizzarle anche noi comuni
+
+69
+00:03:44,680 --> 00:03:48,960
+cristiani?
+
+70
+00:03:49,280 --> 00:03:54,080
+Allo stato non sono robe raffinate, non utilizzo Pro Memoria per lavorare
+
+71
+00:03:54,080 --> 00:03:55,680
+o per cose fondamentali.
+
+72
+00:03:55,680 --> 00:04:00,480
+Ho provato, ho fatto qualche test con una lista condivisa con Roberto
+
+73
+00:04:00,640 --> 00:04:04,960
+per vedere, per esempio, se si riusciva a organizzare la struttura del
+
+74
+00:04:04,960 --> 00:04:06,080
+nostro podcast.
+
+75
+00:04:06,560 --> 00:04:10,880
+Noi utilizziamo come Toist, e se aveva tutta una serie di funzioni
+
+76
+00:04:10,880 --> 00:04:13,120
+che potenzialmente potevano essere interessanti.
+
+77
+00:04:13,120 --> 00:04:17,200
+Ho visto che ci sono riuscito velocemente, però ho raffazzonato su dei
+
+78
+00:04:17,200 --> 00:04:18,640
+comandi rapidi molto
+
+79
+00:04:20,000 --> 00:04:24,320
+veloci, diciamo, non particolarmente cesellati.
+
+80
+00:04:24,320 --> 00:04:29,120
+E quindi adesso eventualmente cercherò se riesco di mettere degli screenshot o
+
+81
+00:04:29,120 --> 00:04:31,920
+comunque delle immagini per far vedere due o tre cose.
+
+82
+00:04:31,920 --> 00:04:36,480
+L'interno della scaletta, appunto, ho fatto degli screenshot proprio per mostrare alcune
+
+83
+00:04:36,480 --> 00:04:41,040
+cose per avere visualmente modo di poi parlarvene.
+
+84
+00:04:41,040 --> 00:04:46,800
+Quindi cercherò di, ma come dicevo, non sono un utilizzatore professionale o
+
+85
+00:04:46,800 --> 00:04:50,480
+comunque di fatto Pro Memoria io l'utilizzo per condividere le liste della
+
+86
+00:04:50,480 --> 00:04:53,200
+spesa con mia mamma moglie, e questo è quanto.
+
+87
+00:04:53,200 --> 00:04:55,600
+Per cui è stata anche un'esperienza interessante.
+
+88
+00:04:55,600 --> 00:05:00,960
+Approfondire e scoprire queste cose e effettivamente vedere che ProMemoria può fare
+
+89
+00:05:00,960 --> 00:05:02,000
+molto di più.
+
+90
+00:05:02,000 --> 00:05:05,760
+Tuttavia passo indietro alcune necessarie premesse.
+
+91
+00:05:05,760 --> 00:05:09,680
+Pro Memoria nasce di fatto come un Pro Memoria, cioè una gestione
+
+92
+00:05:09,680 --> 00:05:10,320
+di liste.
+
+93
+00:05:10,320 --> 00:05:17,360
+Quindi una checklist, proprio detta banalmente, dove in una lista inserivo: prendi
+
+94
+00:05:17,360 --> 00:05:22,120
+il pane, prendi il prosciutto, prendi il melone, prendi la ricotta.
+
+95
+00:05:22,440 --> 00:05:27,280
+Quando andavo a fare la spesa, cliccando, diciamo, sulla voce, questa veniva
+
+96
+00:05:27,280 --> 00:05:28,160
+spuntata.
+
+97
+00:05:28,320 --> 00:05:32,760
+A questo punto avevo la mia lista di pro memoria perché l'applicazione
+
+98
+00:05:29,840 --> 00:05:33,400
+è nata così.
+
+99
+00:05:33,560 --> 00:05:39,000
+Nel tempo, Apple ha migliorato notevolmente questa applicazione, ha inserito varie funzionalità.
+
+100
+00:05:39,000 --> 00:05:42,840
+Adesso andremo a vedere, ma il concetto di fondo è quello che
+
+101
+00:05:42,840 --> 00:05:47,240
+nasce molto semplice ed è molto semplice da utilizzare nella sua base,
+
+102
+00:05:47,240 --> 00:05:50,920
+ma poi si possono fare le cose un po' più organizzate e
+
+103
+00:05:50,920 --> 00:05:51,720
+strutturate.
+
+104
+00:05:51,720 --> 00:05:56,440
+Non è mia intenzione andare approfonditamente nessun argomento che meriterebbe e forse
+
+105
+00:05:56,440 --> 00:06:01,400
+meriterà una puntata dedicata, però, di fatto ProMemoria può diventare uno dei
+
+106
+00:06:01,400 --> 00:06:07,640
+tanti cosiddetti task manager, ovvero gestori di attività o di compiti.
+
+107
+00:06:08,120 --> 00:06:13,880
+Questa tipologia di software sostanzialmente, in parte, e dal mio punto di
+
+108
+00:06:13,880 --> 00:06:18,520
+vista, quello che cerco, e quindi anche il punto di vista che
+
+109
+00:06:18,520 --> 00:06:22,840
+cercherò di dare nel corso della puntata, è proprio quello di utilizzare
+
+110
+00:06:22,840 --> 00:06:27,640
+questo software per quello che è il metodo cosiddetto GTD o get
+
+111
+00:06:27,640 --> 00:06:30,680
+thing done, che tradotto in italiano è detto fatto.
+
+112
+00:06:30,680 --> 00:06:36,040
+Il metodo GTD è un metodo ormai utilizzato da tanti in varie
+
+113
+00:06:36,040 --> 00:06:42,200
+varianti e in varie volgarizzazioni, anche io ne utilizzo una versione volgarizzata,
+
+114
+00:06:42,200 --> 00:06:43,240
+chiamiamolo così.
+
+115
+00:06:43,240 --> 00:06:48,840
+Tuttavia, diciamo questo metodo che cercherò poi di esprimermi velocemente di base,
+
+116
+00:06:48,840 --> 00:06:55,080
+era stato pensato originariamente per essere cartaceo all'epoca e infatti, giusto come
+
+117
+00:06:55,080 --> 00:06:59,320
+aneddoto, il sito che ha poi lanciato Merlin Man si chiama 43
+
+118
+00:06:59,320 --> 00:07:03,720
+folders, cioè quindi 43 cartelle, prendeva il nome dai 43 folder
+
+119
+00:07:05,160 --> 00:07:10,760
+che teoricamente dovevi utilizzare per gestire in maniera cartacea il sistema GTD.
+
+120
+00:07:10,760 --> 00:07:17,280
+Ovviamente questo sistema è stato implementato spesso e volentieri da appassionati di
+
+121
+00:07:14,600 --> 00:07:20,160
+tecnologia, Merlin Man, David Spark.
+
+122
+00:07:20,560 --> 00:07:25,600
+Addirittura Omnifocus, che è una delle altre applicazioni per la gestione dei
+
+123
+00:07:25,600 --> 00:07:32,160
+impegni e delle attività, nasce, diciamo, proprio come app di Omni Outliner
+
+124
+00:07:32,400 --> 00:07:34,960
+per gestire un sistema GTD.
+
+125
+00:07:35,280 --> 00:07:41,600
+Quindi Omnifocus è l'applicazione, tra virgolette, nell'ecosistema Apple che ha sposato più
+
+126
+00:07:41,600 --> 00:07:45,360
+questa filosofia, e tutta una serie di altre applicazioni similari.
+
+127
+00:07:45,360 --> 00:07:49,520
+Noi utilizziamo To Do Wist, io utilizzo quotidianamente per l'attività professionale e
+
+128
+00:07:49,520 --> 00:07:53,520
+non solo per il podcast, e per il blog, e per YouTube,
+
+129
+00:07:53,520 --> 00:07:57,200
+e per personale podcast to doist.
+
+130
+00:07:57,200 --> 00:08:01,600
+Esistono altre applicazioni to do e tutta una serie di altre perché
+
+131
+00:08:01,600 --> 00:08:02,880
+ce ne sono veramente tante.
+
+132
+00:08:02,880 --> 00:08:05,120
+Poi nel tempo che si sono sviluppate.
+
+133
+00:08:05,120 --> 00:08:10,560
+Diciamo che nel tempo Pro Memoria, essendoci comunque una base, diciamo, di
+
+134
+00:08:10,560 --> 00:08:15,200
+soggetti che richiedono qualcosa di più rispetto a una semplice lista della
+
+135
+00:08:15,200 --> 00:08:19,920
+spesa, che in alcune situazioni è ottima, Pro Memoria si è sviluppato
+
+136
+00:08:19,920 --> 00:08:24,400
+e si è ampliato proprio a fronte di questa esigenza e di
+
+137
+00:08:24,400 --> 00:08:26,240
+questa cultura, chiamiamola così.
+
+138
+00:08:26,240 --> 00:08:29,920
+Per cui anch'io non ho mai utilizzato, per esempio, Pro Memoria, proprio
+
+139
+00:08:29,920 --> 00:08:34,480
+perché lo ritenevo un software abbastanza minimale e semplice.
+
+140
+00:08:34,480 --> 00:08:38,400
+Una delle grandi fortune di Pro Memoria, che magari è molto basico,
+
+141
+00:08:38,400 --> 00:08:43,280
+ma può essere utilizzato su tutti i dispositivi Apple, compreso Apple Watch
+
+142
+00:08:43,440 --> 00:08:45,440
+quindi non è roba da poco.
+
+143
+00:08:45,440 --> 00:08:49,360
+Una cosa per la spesa, per esempio, soprattutto in questo periodo di
+
+144
+00:08:49,360 --> 00:08:51,280
+Covid, ma l'ho sempre usato.
+
+145
+00:08:51,280 --> 00:08:55,840
+È comodissimo, l'Apple Watch per spuntare quello che hai comprato e andare
+
+146
+00:08:55,840 --> 00:09:01,720
+avanti nella spesa, e i maggiori esempi che farò sono sempre legati
+
+147
+00:09:01,720 --> 00:09:04,840
+alla spesa, perché è per quello che io utilizzo,
+
+148
+00:09:07,560 --> 00:09:10,600
+per memoria, la spesa importantissima.
+
+149
+00:09:10,600 --> 00:09:15,240
+Tornando a noi, quindi, quali sono i principi, chiamiamo così, del GDD,
+
+150
+00:09:15,240 --> 00:09:20,680
+anche se è una versione totalmente dulcurata e molto semplificata, David Allen,
+
+151
+00:09:20,680 --> 00:09:27,320
+che è il padrone barra creatore di questo metodo divulgatore è diventato
+
+152
+00:09:27,320 --> 00:09:28,840
+anche stra ricco, credo.
+
+153
+00:09:28,840 --> 00:09:32,840
+L'idea è che dobbiamo svolgere una serie di attività.
+
+154
+00:09:32,840 --> 00:09:37,640
+L'idea generale del metodo è quello che, secondo me, è la cosa
+
+155
+00:09:37,640 --> 00:09:38,040
+che ha.
+
+156
+00:09:38,200 --> 00:09:42,440
+È il concetto per cui il nostro cervello non è fatto, diciamo,
+
+157
+00:09:42,680 --> 00:09:47,640
+per immagazzinare tot attività, ricordarsi tot attività da svolgere.
+
+158
+00:09:47,640 --> 00:09:52,920
+Quindi, quando iniziano ad esserci tante tante attività, ovviamente si si trova
+
+159
+00:09:52,920 --> 00:09:56,440
+di fronte al fatto che ricordarsi tutta memoria diventa complicato.
+
+160
+00:09:56,440 --> 00:10:02,120
+Quindi ci vuole un sistema sostanzialmente per conservare queste attività, questi compiti
+
+161
+00:10:02,120 --> 00:10:07,720
+da svolgere, e ovviamente, quando sono necessari, recuperarli e essere sicuri che
+
+162
+00:10:08,200 --> 00:10:09,800
+queste attività non vadano perse.
+
+163
+00:10:09,800 --> 00:10:13,480
+Quindi le cose che ci vengono per la testa, tra virgolette, vai
+
+164
+00:10:13,480 --> 00:10:18,360
+a comprare questa cosa piuttosto che prepara note dell'episodio di questa puntata,
+
+165
+00:10:18,360 --> 00:10:23,400
+e così via, siano contenute in un qualche tipo di contenitore che
+
+166
+00:10:23,400 --> 00:10:25,720
+può essere fisico, ma può essere anche digitale.
+
+167
+00:10:25,720 --> 00:10:30,040
+Noi parleremo ovviamente di contenitori digitali, e che sia affidabile per interrompere
+
+168
+00:10:30,040 --> 00:10:34,760
+il loop, perché poi il discorso è appunto: sai che devi fare
+
+169
+00:10:34,760 --> 00:10:36,360
+10 cose oggi.
+
+170
+00:10:36,360 --> 00:10:40,080
+È ovvio che se tu stai facendo la prima cosa, ma nel
+
+171
+00:10:40,080 --> 00:10:43,400
+mente ti viene in mente la seconda, o addirittura che ne devi
+
+172
+00:10:43,400 --> 00:10:47,680
+fare un'undicesima, questo interrompe il pensiero, non sei focalizzato lo che stai
+
+173
+00:10:44,440 --> 00:10:48,480
+facendo e così via.
+
+174
+00:10:48,560 --> 00:10:53,840
+Quindi l'idea di fondo è applicarsi a una singola attività, fare quella,
+
+175
+00:10:53,840 --> 00:10:56,560
+e se ci vengono in mente delle idee o delle altre cose
+
+176
+00:10:56,560 --> 00:11:02,720
+da fare, devolverli, diciamo, un secondo cervello, chiamiamolo così, delegato però solo
+
+177
+00:11:02,720 --> 00:11:05,040
+allo svolgimento delle singole attività.
+
+178
+00:11:05,040 --> 00:11:06,400
+No, ti spieghi benissimo.
+
+179
+00:11:06,400 --> 00:11:13,040
+Anzi, la questione del secondo cervello è assolutamente un aiuto molto valido.
+
+180
+00:11:13,040 --> 00:11:16,240
+Io fino a poco tempo fa non avevo neanche mai preso in
+
+181
+00:11:16,240 --> 00:11:22,000
+considerazione la questione del secondo cervello, ma aumentando le attività, perché chiaramente
+
+182
+00:11:22,160 --> 00:11:24,880
+nel momento in cui si è monotasking e si fa quello tutto
+
+183
+00:11:24,880 --> 00:11:29,280
+il giorno, probabilmente un secondo cervello può anche non essere d'aiuto, perché
+
+184
+00:11:29,280 --> 00:11:31,840
+tendenzialmente riesce anche magari a tenere tutto insieme.
+
+185
+00:11:31,840 --> 00:11:34,800
+Però è altrettanto vero che nel momento in cui tu vuoi seguire
+
+186
+00:11:34,800 --> 00:11:39,040
+molti progetti insieme che possono essere paralleli, magari diventa un po' difficile
+
+187
+00:11:39,040 --> 00:11:40,240
+tenere tutto in testa.
+
+188
+00:11:40,240 --> 00:11:44,560
+E come abbiamo già spiegato all'interno della puntata, ovvero la gestione della
+
+189
+00:11:44,560 --> 00:11:48,880
+conoscenza personale, al numero 39, dovete cercare essenzialmente di liberare la mente
+
+190
+00:11:48,880 --> 00:11:52,800
+per essere più produttivi, in poche parole, perché ovviamente questi pensieri vi
+
+191
+00:11:52,800 --> 00:11:57,120
+tengono occupati il cervello e il vostro cervello invece deve essere produttivo
+
+192
+00:11:57,120 --> 00:12:00,400
+e riuscire a ottenere quello che deve essere fatto in poco tempo.
+
+193
+00:12:00,400 --> 00:12:01,200
+Esatto.
+
+194
+00:12:01,200 --> 00:12:06,880
+E quindi l'idea, appunto, prima idea centrale di questo metodo è questa:
+
+195
+00:12:06,880 --> 00:12:08,560
+l'altra è la prospettiva.
+
+196
+00:12:08,560 --> 00:12:12,080
+Spesso e volentieri voi vi trovate in una situazione dove avete da
+
+197
+00:12:12,160 --> 00:12:16,160
+comprare, non so, il pane, il salume, il formaggio, la verdura e
+
+198
+00:12:16,160 --> 00:12:17,440
+varie tipologie di verdura.
+
+199
+00:12:17,440 --> 00:12:19,760
+Ma ovvio che se non siete al verdurato e non siete al
+
+200
+00:12:19,760 --> 00:12:24,640
+supermercato dove potete comprare questi beni, sapere e avere in testa cosa
+
+201
+00:12:24,640 --> 00:12:26,640
+dovete comprare non serve a niente.
+
+202
+00:12:26,640 --> 00:12:31,160
+Quindi l'idea originale è appunto quella di avere dei luoghi e quindi
+
+203
+00:12:31,240 --> 00:12:36,280
+avere delle liste legate ai luoghi, tipo l'ufficio per fare le telefonate,
+
+204
+00:12:36,280 --> 00:12:41,400
+davanti al computer per mandare un'email al supermercato per comprare qualcosa, avere
+
+205
+00:12:41,480 --> 00:12:43,880
+dei luoghi dove e quindi prospettive
+
+206
+00:12:45,160 --> 00:12:48,120
+di cosa si può fare in una determinata situazione.
+
+207
+00:12:48,120 --> 00:12:51,880
+Nel tempo, diciamo, si è sviluppato il concetto di contesto, che è
+
+208
+00:12:52,120 --> 00:12:55,960
+qualcosa di un po' più generale, cioè per esempio lavoro intensa, attività
+
+209
+00:12:55,960 --> 00:12:56,440
+in giro.
+
+210
+00:12:56,440 --> 00:12:59,880
+Quindi è ovvio che se ho 5 minuti per fare una cosa,
+
+211
+00:12:59,880 --> 00:13:04,440
+non avrò invece tempo di fare un'attività che, per esempio, so richiedere
+
+212
+00:13:04,440 --> 00:13:08,520
+almeno un'ora e che comunque mi richiede di stare sull'argomento e di
+
+213
+00:13:08,520 --> 00:13:10,600
+ragionare sull'argomento per molto tempo.
+
+214
+00:13:10,600 --> 00:13:15,240
+Quindi eviterò di fare tutta una serie di cose e casomai, appunto,
+
+215
+00:13:15,240 --> 00:13:19,640
+farò attività amministrativa che casomai mi richiede poco tempo e quindi posso
+
+216
+00:13:19,640 --> 00:13:22,280
+fare anche spezzettata e senza troppi problemi.
+
+217
+00:13:22,280 --> 00:13:24,200
+Oppure persone con cui interagire.
+
+218
+00:13:24,200 --> 00:13:27,080
+Cioè, per esempio, mi viene in mente una cosa di cui voglio
+
+219
+00:13:27,080 --> 00:13:28,120
+parlare, Roberto.
+
+220
+00:13:28,120 --> 00:13:32,120
+Invece di rompere le scatole subito come abitualmente faccio, mi posso segnare
+
+221
+00:13:32,280 --> 00:13:36,120
+semplicemente le cose da dire a Roberto quando ci sentiamo e così
+
+222
+00:13:36,120 --> 00:13:36,440
+via.
+
+223
+00:13:36,440 --> 00:13:37,960
+E questo è un modo anche utile.
+
+224
+00:13:37,960 --> 00:13:41,080
+Questo sarebbe il top per la moglie, ma purtroppo credo che tutta
+
+225
+00:13:41,080 --> 00:13:44,520
+questa attività non penso riuscirò mai a convincere la moglie a.
+
+226
+00:13:44,520 --> 00:13:46,200
+No, no, no, non riuscirò.
+
+227
+00:13:46,200 --> 00:13:51,320
+Io ho gettato la spugna, vado tranquillamente su Telegram per darci i
+
+228
+00:13:51,320 --> 00:13:51,880
+messaggi.
+
+229
+00:13:51,880 --> 00:13:56,600
+Ormai funzioniamo così su Telegram e eventualmente abbiamo il calendario condiviso, lì
+
+230
+00:13:56,680 --> 00:14:00,760
+riusciamo a mettere dentro almeno gli appuntamenti di lavoro e le cose
+
+231
+00:14:01,000 --> 00:14:01,800
+di famiglia.
+
+232
+00:14:01,760 --> 00:14:03,520
+Tuttavia, però basta, non niente.
+
+233
+00:14:03,840 --> 00:14:07,320
+Ah sì, abbiamo anche una nota condivisa per la spesa, non un
+
+234
+00:14:07,320 --> 00:14:07,960
+Pro Memoria.
+
+235
+00:14:07,960 --> 00:14:08,520
+Pensa a te.
+
+236
+00:14:08,520 --> 00:14:10,280
+No, beh, poi la cosa più bella è che mia moglie non
+
+237
+00:14:10,280 --> 00:14:13,480
+toglie via le voci, quindi, quando ha comprato la roba non le
+
+238
+00:14:13,480 --> 00:14:13,960
+toglie.
+
+239
+00:14:14,120 --> 00:14:15,760
+Quindi è abbastanza inutile.
+
+240
+00:14:16,080 --> 00:14:17,200
+Comunque, lasciamo stare.
+
+241
+00:14:14,520 --> 00:14:17,600
+Eh sì, abbastanza
+
+242
+00:14:14,920 --> 00:14:19,200
+giusto quel tantino.
+
+243
+00:14:19,360 --> 00:14:22,400
+L'ultima idea di fondo è ovviamente quella di pescare da questa lista
+
+244
+00:14:22,800 --> 00:14:24,960
+della spesa, fare le cose.
+
+245
+00:14:25,120 --> 00:14:29,200
+Questa è proprio veramente una versione non banalizzata, ma di più del
+
+246
+00:14:29,200 --> 00:14:29,680
+sistema.
+
+247
+00:14:29,680 --> 00:14:34,720
+Però è abitualmente come utilizzo io il sistema e soprattutto una cosa
+
+248
+00:14:34,720 --> 00:14:36,480
+che ha anche accennato Roberto.
+
+249
+00:14:36,480 --> 00:14:41,520
+Nel momento in cui diciamo la nostra attività è relativamente semplice, le
+
+250
+00:14:41,520 --> 00:14:44,880
+checklist sono comunque utili, ma diciamo, non sono essenziali.
+
+251
+00:14:44,880 --> 00:14:47,680
+Quindi poi per memoria diventa anche uno strumento molto comodo.
+
+252
+00:14:47,680 --> 00:14:51,280
+Quello che mi ha sempre lasciato perplesso è che, per esempio, per
+
+253
+00:14:51,280 --> 00:14:56,320
+la mia attività specifica ho tante attività legate a singole posizioni, e
+
+254
+00:14:56,320 --> 00:15:01,440
+quindi sostanzialmente singoli progetti che hanno singole attività che si svolgono in
+
+255
+00:15:01,440 --> 00:15:08,160
+un lasso temporale anche relativamente lungo, legato spesso volentieri alla giustizia e
+
+256
+00:15:08,160 --> 00:15:10,400
+a comunque scadenze termine e così via.
+
+257
+00:15:10,560 --> 00:15:12,000
+Spece dell'edilizia.
+
+258
+00:15:12,240 --> 00:15:16,000
+Per cui spesso e volentieri io mi trovo comunque in una situazione
+
+259
+00:15:16,000 --> 00:15:20,000
+dove una posizione non la muovo per anche dei mesi e quindi
+
+260
+00:15:20,000 --> 00:15:23,280
+a avere segnato tutto quello che deve fare, e casomai ho tante
+
+261
+00:15:23,280 --> 00:15:27,920
+posizioni, tante attività, ma scollegate, spesso volentieri anche nel tempo.
+
+262
+00:15:27,920 --> 00:15:32,160
+Per cui ho bisogno di avere un sistema di tracciamento molto preciso,
+
+263
+00:15:32,160 --> 00:15:33,120
+molto sicuro.
+
+264
+00:15:33,120 --> 00:15:36,320
+Proprio anche perché, per esempio, io ho delle scadenze dove non è
+
+265
+00:15:36,320 --> 00:15:38,080
+che posso dire la faccio domani.
+
+266
+00:15:38,080 --> 00:15:41,760
+Se scade la memoria quel giorno, quel giorno o il giorno prima
+
+267
+00:15:41,760 --> 00:15:42,960
+deve essere stata fatta.
+
+268
+00:15:42,960 --> 00:15:46,800
+Quindi devo avere tutto un sistema che mi permette di tenere traccia
+
+269
+00:15:46,800 --> 00:15:50,720
+e con puntualità della cosa, per cui anche qui ho sempre cercato
+
+270
+00:15:50,960 --> 00:15:53,760
+delle soluzioni un po' più elevate.
+
+271
+00:15:53,760 --> 00:15:58,320
+All'inizio ho utilizzato Omnifocus un po' perché tutta una serie di persone
+
+272
+00:15:58,320 --> 00:16:01,640
+che stimavo e che facevano più o meno la mia attività utilizzavano
+
+273
+00:16:01,800 --> 00:16:02,600
+OmniFocus.
+
+274
+00:15:59,920 --> 00:16:06,200
+Oggettivamente OmniFocus è abbastanza oneroso e complesso.
+
+275
+00:16:06,360 --> 00:16:10,920
+E quindi poi ho trovato una quadra, tra virgolette, utilizzando To Doist.
+
+276
+00:16:10,920 --> 00:16:15,560
+Che in parte ho cooptato, diciamo Roberto, nell'utilizzo per il podcast, anche
+
+277
+00:16:15,560 --> 00:16:18,760
+se da quello che ne so io, la scaletta delle puntate, non
+
+278
+00:16:18,760 --> 00:16:21,000
+so quanto le guardi Roberto.
+
+279
+00:16:21,240 --> 00:16:22,760
+Le guardo su Mind.
+
+280
+00:16:22,760 --> 00:16:25,160
+No, ho capito, però su Mind abbiamo nessun.
+
+281
+00:16:25,240 --> 00:16:26,520
+Ah, tu dici la programmazione
+
+282
+00:16:27,800 --> 00:16:28,760
+ogni tanto le guardo.
+
+283
+00:16:30,360 --> 00:16:32,600
+Mi dai qualche soddisfazione allora ogni tanto,
+
+284
+00:16:34,680 --> 00:16:39,240
+non sono una partita persa così come sembra esatto, esatto, esatto.
+
+285
+00:16:39,240 --> 00:16:43,720
+Per cui benissimo, fatta questa premessa, andiamo a vedere perché usare i
+
+286
+00:16:43,720 --> 00:16:44,840
+Pro Memoria di Apple.
+
+287
+00:16:44,840 --> 00:16:47,080
+Alzo la manina perché do anch'io la mia esperienza.
+
+288
+00:16:47,080 --> 00:16:53,720
+Io, per esempio, ProMemoria l'ho usato praticamente sempre finché non sono approdato
+
+289
+00:16:53,720 --> 00:16:57,320
+a Notion, che ha un sistema al suo interno di Pro Memoria,
+
+290
+00:16:57,320 --> 00:17:01,880
+ma in realtà non è così valido come quello di, o meno,
+
+291
+00:17:01,880 --> 00:17:04,520
+non è così immediato come quello di Apple.
+
+292
+00:17:04,520 --> 00:17:08,680
+Ho visto, tra l'altro, perché sono sempre alla ricerca di qualcosa di
+
+293
+00:17:08,680 --> 00:17:11,960
+interessante di cui parlare anche su Snap Architettura Imperfetta, che ricordo il
+
+294
+00:17:11,960 --> 00:17:17,080
+mio podcast di architettura, ho approdato recentemente un'altra applicazione che vi consiglio
+
+295
+00:17:17,080 --> 00:17:20,120
+di andare a vedere perché non è una semplice applicazione, ma è
+
+296
+00:17:20,120 --> 00:17:23,320
+quasi un metodo per riuscire a portare avanti le giornate lavorative ed
+
+297
+00:17:23,320 --> 00:17:26,600
+è Anple Note, dove è molto interessante.
+
+298
+00:17:26,600 --> 00:17:31,560
+All'interno ci sono anche dei Pro Memoria, ma è decisamente molto strutturata.
+
+299
+00:17:31,560 --> 00:17:34,520
+E in questo senso vi consiglio nel caso in cui, ad esempio,
+
+300
+00:17:34,680 --> 00:17:38,280
+Pro Memoria vi sembra troppo poco, ma penso che dopo quello che
+
+301
+00:17:38,280 --> 00:17:42,040
+vi dirà Filippo, non vi sembrà più così troppo poco, andatevi a
+
+302
+00:17:42,040 --> 00:17:46,880
+vedere anche questa applicazione perché essenzialmente fa quello che fa quel sistema
+
+303
+00:17:46,960 --> 00:17:49,920
+che ho applicato io su Notion, ma lo fa senza andare lì
+
+304
+00:17:49,920 --> 00:17:50,800
+a smanettare.
+
+305
+00:17:50,800 --> 00:17:51,600
+Quindi è molto interessante.
+
+306
+00:17:51,600 --> 00:17:55,200
+Quindi, tornando a noi, perché usare i Pro Memoria di Apple?
+
+307
+00:17:55,200 --> 00:18:01,120
+Il motivo forse più semplice se siete nell'ecosistema Apple perché è multipiattaforma.
+
+308
+00:18:01,120 --> 00:18:06,240
+Quindi ce l'abbiamo su iPad, iPhone, Mac, lo abbiamo sui cloud web.
+
+309
+00:18:06,240 --> 00:18:11,040
+Quindi per chi usa Windows è possibile utilizzare anche ProMemoria o anche
+
+310
+00:18:11,040 --> 00:18:16,000
+Linux, a dire la verità, o Android, diciamo, utilizzare l'interfaccia web per
+
+311
+00:18:16,000 --> 00:18:17,440
+gestire ProMemoria.
+
+312
+00:18:17,440 --> 00:18:22,880
+Ecco, in questi casi ovviamente l'integrazione è meno profonda rispetto a quella
+
+313
+00:18:23,200 --> 00:18:28,800
+che c'è, ovviamente nell'ecosistema Apple, perché Pro Memoria, appunto avvantaggiandosi del fatto
+
+314
+00:18:28,800 --> 00:18:33,520
+che sono un'applicazione di Apple, sono molto integrati in tutto il sistema
+
+315
+00:18:33,520 --> 00:18:34,560
+operativo di Apple.
+
+316
+00:18:34,560 --> 00:18:38,560
+L'applicazione ovviamente è gratuita di base su tutti i dispositivi perché è
+
+317
+00:18:38,560 --> 00:18:39,680
+preinstallata.
+
+318
+00:18:39,920 --> 00:18:44,480
+Quindi se avete qualche tipo di account ai cloud, in pratica l'avete
+
+319
+00:18:44,480 --> 00:18:45,440
+a disposizione.
+
+320
+00:18:45,440 --> 00:18:49,200
+E se avete un dispositivo Apple, ce l'avete, quindi anche la sincronizzazione
+
+321
+00:18:49,280 --> 00:18:54,080
+ovviamente diventa molto semplice e molto comoda tra tutti i vostri dispositivi.
+
+322
+00:18:54,080 --> 00:18:55,440
+Come funziona per memoria?
+
+323
+00:18:55,440 --> 00:18:58,800
+Perché ne abbiamo accennato velocemente, ma non abbiamo mai parlato in maniera
+
+324
+00:18:58,800 --> 00:18:59,280
+specifica.
+
+325
+00:18:59,280 --> 00:19:03,120
+Beh, allora, innanzitutto, come vi ripeto, nasce col concetto di checklist, cioè
+
+326
+00:19:03,200 --> 00:19:04,800
+lista della spese o simile.
+
+327
+00:19:04,880 --> 00:19:08,080
+Oltre a questo, diciamo, nasce così.
+
+328
+00:19:08,080 --> 00:19:12,720
+Tuttav adesso è possibile appunto creare un elenco o una lista, quindi
+
+329
+00:19:12,880 --> 00:19:15,760
+avere più liste legate a singole attività.
+
+330
+00:19:15,760 --> 00:19:21,200
+E anche qui è interessante vedere come Apple nel mentre ha sviluppato,
+
+331
+00:19:21,200 --> 00:19:26,160
+per esempio, la possibilità di condividere con specifico soggetto uno specifico elenco
+
+332
+00:19:26,160 --> 00:19:26,800
+o lista.
+
+333
+00:19:26,800 --> 00:19:31,560
+Quindi, per esempio, con Roberto ho condiviso un elenco di test per
+
+334
+00:19:29,840 --> 00:19:33,080
+fare tutta una serie di prove.
+
+335
+00:19:33,240 --> 00:19:37,960
+Con mia moglie, abitualmente condivido appunto le varie della spesa nei vari
+
+336
+00:19:37,960 --> 00:19:38,360
+locali.
+
+337
+00:19:38,360 --> 00:19:41,640
+Perché poi ovviamente, non so, c'è chi va a quel supermercato, c'è
+
+338
+00:19:41,640 --> 00:19:45,800
+chi va a quell'altro supermercato, c'è chi va nel posto dove andiamo
+
+339
+00:19:45,800 --> 00:19:48,520
+a comprare la furtura che costa poco ma è buona.
+
+340
+00:19:48,520 --> 00:19:52,280
+Insomma, tutta una serie di cose che ovviamente ti permettono poi di
+
+341
+00:19:52,280 --> 00:19:55,640
+differenziare un po' il sistema.
+
+342
+00:19:55,640 --> 00:19:59,560
+Come si crea un Pro Memoria è abbastanza semplice perché basta creare
+
+343
+00:19:59,560 --> 00:20:03,960
+una data di scadenza, aggiungere un luogo eventualmente se si vuole, aggiungere
+
+344
+00:20:03,960 --> 00:20:07,640
+un tag e ovviamente inserire il Pro Memoria nella lista che si
+
+345
+00:20:07,640 --> 00:20:09,720
+vuole e verrà inserito.
+
+346
+00:20:09,720 --> 00:20:13,240
+Oltre a questo, abbiamo la possibilità di dare una priorità che può
+
+347
+00:20:13,240 --> 00:20:15,080
+essere bassa, media o alta.
+
+348
+00:20:15,080 --> 00:20:18,440
+E infine, da un certo punto di vista, abbiamo anche la possibilità
+
+349
+00:20:18,440 --> 00:20:21,800
+di aggiungere una serie di cose che già iniziano a essere un
+
+350
+00:20:21,800 --> 00:20:24,920
+po' più, diciamo, evolute, che sono i link.
+
+351
+00:20:24,920 --> 00:20:29,400
+Quindi, è possibile, per esempio, aggiungere riferimento a una pagina web, a
+
+352
+00:20:29,400 --> 00:20:34,920
+un'immagine o a un altro poi memoria, addirittura utilizzando, per esempio, se
+
+353
+00:20:34,920 --> 00:20:38,280
+io dico la trigger face, cioè la frase che fa partire la
+
+354
+00:20:38,280 --> 00:20:41,080
+serie, e non lo dico perché, se no, partirebbero i miei vari
+
+355
+00:20:41,240 --> 00:20:44,280
+dispositivi qui in diretta, quindi non ha molto senso dirlo.
+
+356
+00:20:44,280 --> 00:20:48,520
+E dite ricordami questo, che è la pagina, per esempio, web che
+
+357
+00:20:48,520 --> 00:20:51,080
+avete attiva o la nota che avete attivo.
+
+358
+00:20:51,080 --> 00:20:55,400
+Ricordami, tra due ore è questo, per esempio, si attiverà un pro
+
+359
+00:20:55,560 --> 00:20:59,480
+memoria dove tra due ore vi verrà rimostrata, per esempio, la pagina
+
+360
+00:20:59,480 --> 00:21:00,440
+web che avete visto.
+
+361
+00:21:00,440 --> 00:21:03,480
+Perché, per esempio, avete trovato un link interessante o avete aperto una
+
+362
+00:21:03,480 --> 00:21:06,360
+pagina che però non avete tempo di leggere e volete vi ricordarlo,
+
+363
+00:21:06,360 --> 00:21:08,040
+lo potete fare direttamente con Siri.
+
+364
+00:21:08,120 --> 00:21:11,160
+Questa è una bellissima cosa molto interessante che mi hai svelato che
+
+365
+00:21:11,160 --> 00:21:14,600
+non conoscevo perché il mio utilizzo, penso che sia anche quello base
+
+366
+00:21:14,600 --> 00:21:18,560
+di più meno male di tutti, è quello di dire semplicemente a
+
+367
+00:21:18,560 --> 00:21:22,800
+Siri di ricordarmi in un certo momento della giornata qualcosa e loro
+
+368
+00:21:22,800 --> 00:21:24,240
+lo inserisce in un Promemoria.
+
+369
+00:21:24,240 --> 00:21:29,200
+Cioè ricordami questo pomeriggio di chiamare Filippo perché devo raccontargli qualcosa e
+
+370
+00:21:29,200 --> 00:21:32,240
+lui lo mette tra i Pro Memoria e si risolve così.
+
+371
+00:21:32,240 --> 00:21:37,120
+E questa invece di avere la pagina una pagina attiva e chiedere
+
+372
+00:21:37,120 --> 00:21:41,520
+a Siri di ricordarlo, questa è una bellissima novità per me che
+
+373
+00:21:41,520 --> 00:21:46,720
+non conoscevo e diventa molto interessante secondo me, soprattutto per quei creatori
+
+374
+00:21:46,800 --> 00:21:51,840
+di contenuti che comunque hanno all'interno delle pagine web sparse per il
+
+375
+00:21:51,840 --> 00:21:56,480
+mondo molti punti di riferimento, molti spunti, e quindi può diventare interessante
+
+376
+00:21:56,480 --> 00:22:01,120
+riuscire a raggruppare questi link all'interno di una lista di Pro Memoria
+
+377
+00:22:01,280 --> 00:22:02,880
+con i link che vi interessano.
+
+378
+00:22:02,880 --> 00:22:06,880
+Ovviamente queste funzionalità si possono avere anche senza Siri.
+
+379
+00:22:06,960 --> 00:22:11,040
+Quindi nel Mac, per esempio, utilizzando o i servizi e il tasto
+
+380
+00:22:11,040 --> 00:22:15,840
+destro nel mouse, con l'opzione Condividi, potete fare Condividi a Pro Memoria,
+
+381
+00:22:15,840 --> 00:22:19,920
+e a questo punto si avrà una finestra dove, oltre a inserire
+
+382
+00:22:19,920 --> 00:22:23,520
+il testo del Pro Memoria vero e proprio, potrete ovviamente inserire tutta
+
+383
+00:22:23,520 --> 00:22:26,320
+una serie di cose, scadenze, priorità e così via.
+
+384
+00:22:26,320 --> 00:22:30,960
+In iOS, invece utilizzando la share sheet, cioè la scheda di condivisione,
+
+385
+00:22:30,960 --> 00:22:37,360
+potete fare altrettanto, e appunto con Siri dicendo una frase tipo ricordami
+
+386
+00:22:37,360 --> 00:22:37,760
+questo.
+
+387
+00:22:37,760 --> 00:22:41,680
+Devo dirvi la verità: una cosa molto comoda di Siri, che però
+
+388
+00:22:41,760 --> 00:22:44,960
+io non riesco a far funzionare bene, ma proprio perché lo utilizzo
+
+389
+00:22:44,960 --> 00:22:49,360
+poco, probabilmente è che potete anche dire a Siri di inserire il
+
+390
+00:22:49,360 --> 00:22:51,680
+Pro Memore in una specifica lista.
+
+391
+00:22:51,680 --> 00:22:55,840
+Attenzione: l'unica cosa, che la lista deve avere un nome facile.
+
+392
+00:22:55,840 --> 00:23:00,360
+Per esempio, avevo creato una lista test A2, che ovviamente non è
+
+393
+00:22:59,520 --> 00:23:02,520
+la cosa migliore perché è corta, non è
+
+394
+00:22:59,840 --> 00:23:04,920
+una parola vera e così via.
+
+395
+00:23:05,320 --> 00:23:10,200
+Ho fatto una fatica incredibile, tra virgolette, a cercare di inserire a
+
+396
+00:23:10,200 --> 00:23:13,560
+voce, tra virgolette, di pro memoria in questa maniera.
+
+397
+00:23:13,560 --> 00:23:18,600
+Se però, per esempio, invece di test A2 avessi messo podcast a
+
+398
+00:23:18,600 --> 00:23:22,680
+due, già a due comunque la vive male come cosa, perché spesso
+
+399
+00:23:22,680 --> 00:23:28,200
+volentieri la visualizza mai in maniera diversa, cioè non A2 come lettera.
+
+400
+00:23:28,200 --> 00:23:32,280
+Tuttavia, già il risultato era migliore, ovviamente non so, spesa se lunga
+
+401
+00:23:32,280 --> 00:23:34,280
+piuttosto che spesa Conad o
+
+402
+00:23:35,880 --> 00:23:39,800
+singole attività molto specifiche, diventa molto più facile centrare
+
+403
+00:23:41,080 --> 00:23:42,040
+il Pro Memoria.
+
+404
+00:23:42,040 --> 00:23:45,640
+Nel Pro Memoria, ovviamente possono essere inserite anche delle note, per esempio,
+
+405
+00:23:45,640 --> 00:23:48,760
+degli appunti che vi siete presi, che può essere molto comodo perché,
+
+406
+00:23:48,760 --> 00:23:53,960
+nel senso, scrive un articolo su questo, però nelle note potete mettere
+
+407
+00:23:53,960 --> 00:23:57,960
+già una scaletta molto abbozzata di quali sono le idee del vostro
+
+408
+00:23:57,960 --> 00:23:58,360
+articolo.
+
+409
+00:23:58,360 --> 00:24:01,160
+Io spesso volentieri adesso non lo faccio con Pro Memoria, ma lo
+
+410
+00:24:01,160 --> 00:24:02,680
+faccio con Tudost.
+
+411
+00:24:02,680 --> 00:24:06,200
+Quando mi viene un'idea di un qualcosa, vi voglio scrivere già ho
+
+412
+00:24:06,200 --> 00:24:10,920
+due o tre idee, proprio per non scordarmelo, butto dentro qualche informazione
+
+413
+00:24:10,920 --> 00:24:15,240
+in più e il Pro Memoria può avere anche delle immagini allegate.
+
+414
+00:24:15,240 --> 00:24:18,760
+Quindi anche qui molto comodo, se per esempio, non so, avete le
+
+415
+00:24:18,760 --> 00:24:22,440
+immagini di un sito internet perché dovete fare una determinata ricerca o
+
+416
+00:24:22,440 --> 00:24:26,600
+dovete fare un qualcosa e volete ricordarvi cosa dovete fare perché ci
+
+417
+00:24:26,600 --> 00:24:29,400
+avete provato prima, ma il sito non era disponibile o vi ha
+
+418
+00:24:29,400 --> 00:24:30,120
+dato un errore.
+
+419
+00:24:30,120 --> 00:24:31,840
+Potete inserire anche dei documenti.
+
+420
+00:24:31,840 --> 00:24:35,720
+Apro e chiudo una parentesi, ovviamente immagini, documenti e tutto il resto.
+
+421
+00:24:35,720 --> 00:24:40,920
+Ricordatevi che se non utilizzate Pro Memoria solo sul device, diciamo, ma
+
+422
+00:24:40,920 --> 00:24:44,840
+utilizzate in cloud quindi con la sincronizzazione, tutti questi Pro Memoria vanno
+
+423
+00:24:45,280 --> 00:24:46,640
+nel Cloud Apple.
+
+424
+00:24:46,640 --> 00:24:50,400
+Attenzione a quello che fate, soprattutto in base alla tipologia di attività
+
+425
+00:24:44,840 --> 00:24:51,200
+che svolgete.
+
+426
+00:24:51,360 --> 00:24:55,280
+Ricordatevi sempre che i dati vanno su dei server americani di Apple.
+
+427
+00:24:55,280 --> 00:24:58,480
+Teoricamente dovrebbe essere cifrati tutto il resto, però insomma.
+
+428
+00:24:58,480 --> 00:25:00,320
+Sì, giusto, ottima osservazione.
+
+429
+00:25:00,320 --> 00:25:01,920
+Il fatto che va sui server americani.
+
+430
+00:25:01,920 --> 00:25:05,120
+Vi ricordo per chi non lo sapesse o chi non segue da
+
+431
+00:25:05,120 --> 00:25:09,840
+vicino alla vicenda, ricordo il podcast di Walter Vannini che si chiama
+
+432
+00:25:09,920 --> 00:25:12,880
+Data Nightmare, del Network Round Radio.
+
+433
+00:25:12,880 --> 00:25:17,920
+È molto interessante, vi spiega cos'è la Shudge è molto tagliente, spiega
+
+434
+00:25:17,920 --> 00:25:21,520
+in parole povere di che si tratta e soprattutto cosa ci attende.
+
+435
+00:25:21,520 --> 00:25:25,760
+Ma oltre a questo, vi volevo santo dire perché giustamente può capitare
+
+436
+00:25:25,760 --> 00:25:28,560
+che aprendo Pro Memoria per la prima volta uno non sa neanche
+
+437
+00:25:28,560 --> 00:25:32,400
+dove inserire le varie note, link immagini vi discorrendo.
+
+438
+00:25:32,400 --> 00:25:36,480
+Essenzialmente, voi, una volta che avete fatto più sul vostro elenco di
+
+439
+00:25:36,480 --> 00:25:41,040
+pro memoria in quello che vi serve, dovete andare semplicemente per aggiungere
+
+440
+00:25:41,040 --> 00:25:41,840
+tutte queste cosine.
+
+441
+00:25:42,160 --> 00:25:47,680
+Sulla i che trovate tutto a destra, tendenzialmente in arancione, dove praticamente
+
+442
+00:25:47,680 --> 00:25:50,640
+lì si possono inserire tutte queste cose dettagliate.
+
+443
+00:25:50,640 --> 00:25:53,120
+Che vi stavo appunto elencando il buon Filippo.
+
+444
+00:25:53,120 --> 00:25:54,320
+Bravissimo, bravissimo.
+
+445
+00:25:54,320 --> 00:25:58,960
+Effettivamente l'ho quasi dato per scontato, ma a volte è meglio evitare
+
+446
+00:25:58,960 --> 00:26:00,400
+di dare per scontate le cose.
+
+447
+00:26:00,480 --> 00:26:04,800
+Infatti, per sicurezza, adesso mi sono aperto sotto l'iPhone con questa rivista
+
+448
+00:26:04,800 --> 00:26:08,720
+condivisa, di modo che nel caso ci do un occhio anch'io, giusto
+
+449
+00:26:09,200 --> 00:26:11,680
+per rinfrescarmi e per essere un po' più dettagliato.
+
+450
+00:26:11,680 --> 00:26:16,720
+Una cosa interessante che anche qui è ovviamente legata all'ecosistema Apple, la
+
+451
+00:26:16,720 --> 00:26:20,240
+possibilità di ricevere un prove memoria mentre si sta mandando un messaggio,
+
+452
+00:26:20,240 --> 00:26:22,640
+usando ovviamente messaggi di Apple, con qualcuno.
+
+453
+00:26:22,640 --> 00:26:27,120
+Abbiamo testato, avevo inserito appunto il nominativo di Roberto, e ogni volta
+
+454
+00:26:27,120 --> 00:26:30,840
+che messaggiavo Roberto mi ricordava che gli dovevo dire questa cosa, quest'altra,
+
+455
+00:26:30,840 --> 00:26:34,680
+che è comunque il concetto di cui abbiamo parlato prima in parte,
+
+456
+00:26:34,680 --> 00:26:39,720
+e che Apple, tra virgolette, grazie al suo ecosistema molto compenetrato, ovviamente
+
+457
+00:26:39,960 --> 00:26:42,280
+vi permette di ottimizzare da un certo punto.
+
+458
+00:26:42,360 --> 00:26:46,840
+L'altra cosa interessante che è relativamente recente, credo che sia una o
+
+459
+00:26:46,840 --> 00:26:51,160
+due versioni fa di iOS, è la possibilità di nidificare un Pro
+
+460
+00:26:51,240 --> 00:26:55,160
+Memoria, cioè creare un sottoelenco o una sottoattività.
+
+461
+00:26:55,160 --> 00:26:59,480
+E qui già entriamo in una strutturazione dell'applicazione un po' più complicata.
+
+462
+00:26:59,480 --> 00:27:03,800
+Quando hai un elenco semplice, diciamo, solitamente hai anche attività semplici.
+
+463
+00:27:03,800 --> 00:27:07,400
+Appunto, compra le banane, compra le pere, compra le mele e così
+
+464
+00:27:07,400 --> 00:27:07,720
+via.
+
+465
+00:27:07,720 --> 00:27:12,520
+Per essere volentieri, però, non ci troviamo a svolgere un'attività così semplice,
+
+466
+00:27:12,520 --> 00:27:16,680
+così monotematica, mettiamola così: cioè puoi comprare le banane e le mele,
+
+467
+00:27:16,680 --> 00:27:19,320
+ma non è che puoi fare qualcosa di diverso in questa singola
+
+468
+00:27:19,320 --> 00:27:21,320
+attività, perché è quello che devi fare.
+
+469
+00:27:21,320 --> 00:27:26,360
+Già, per esempio, preparare una puntata A2 Podcast richiede tutta una
+
+470
+00:27:26,360 --> 00:27:27,880
+serie di sottoattività.
+
+471
+00:27:27,880 --> 00:27:33,640
+E' ovvio che, per esempio, nell'ipotesi di avere una lista condivisa, diciamo,
+
+472
+00:27:33,640 --> 00:27:37,160
+tra me e Roberto, dell'elenco diciamo, delle puntate o delle idee delle
+
+473
+00:27:37,160 --> 00:27:41,560
+puntate, e poi avere per ogni singola puntata l'attività da svolgere è
+
+474
+00:27:41,560 --> 00:27:43,560
+quella già stata svolta, tra l'altro.
+
+475
+00:27:43,560 --> 00:27:47,320
+Quindi sapere anche a che stato della produzione siamo, può diventare molto
+
+476
+00:27:47,320 --> 00:27:47,800
+comodo.
+
+477
+00:27:47,800 --> 00:27:53,400
+Che tra l'altro, vengono indicate in promemoria come attività secondarie, dove trovare
+
+478
+00:27:53,640 --> 00:27:57,960
+come aggiungere dei sotto promemoria, si trova in attività secondarie.
+
+479
+00:27:57,960 --> 00:28:03,160
+Addirittura, una volta che avete creato un'attività, diciamo, come lista principale, chiamiamola
+
+480
+00:28:03,160 --> 00:28:06,840
+così, se la andate, quantomeno su iOS e iPadOS, se la
+
+481
+00:28:06,840 --> 00:28:12,360
+andate a spostare sotto un'altra attività, chiamiamola così indentare, cioè lievemente spostata,
+
+482
+00:28:12,360 --> 00:28:15,680
+abitualmente si dovrebbe inserire come sottoattività.
+
+483
+00:28:15,000 --> 00:28:19,040
+Una volta che abbiamo completato i Pro Memoria, questi scompaiono.
+
+484
+00:28:19,280 --> 00:28:23,040
+Questi scompaiono, ma non scompaiono del tutto, nel senso che li troviamo
+
+485
+00:28:23,040 --> 00:28:27,520
+nei Pro Memoria completati sia su iOS che su macOS.
+
+486
+00:28:27,520 --> 00:28:31,680
+È possibile mostrare, sì, Roberto, se ci sono in tutti e due
+
+487
+00:28:31,680 --> 00:28:37,680
+i casi, io cerco perché vedevo programmati contrassegnati tutti oggi.
+
+488
+00:28:37,680 --> 00:28:42,080
+Se sei su iOS, devi andare sui puntini in alto a destra
+
+489
+00:28:42,240 --> 00:28:44,560
+su iPhone per intenderci.
+
+490
+00:28:44,560 --> 00:28:48,560
+E sui puntini mostra completati, a quel punto lì vedrai tutti i
+
+491
+00:28:48,560 --> 00:28:50,960
+mostra completati su macOS.
+
+492
+00:28:51,200 --> 00:28:55,520
+A questo punto lo diciamo, c'è proprio invece un tag.
+
+493
+00:28:55,840 --> 00:28:59,520
+Nella normalità non si vedono, ma se semplicemente si tira in giù,
+
+494
+00:28:59,520 --> 00:29:04,560
+diciamo col mouse o col trackpad, l'elenco delle attività delle singole attività
+
+495
+00:29:04,640 --> 00:29:09,040
+appunto dei Pro Memoria, comparirà, per esempio, nel nostro caso ha due
+
+496
+00:29:09,040 --> 00:29:14,160
+podcast nella lista condivisa, otto completati, cancella oppure mostra.
+
+497
+00:29:14,160 --> 00:29:17,600
+Se cliccate su mostra, vedrete tutte le attività completate.
+
+498
+00:29:17,600 --> 00:29:20,560
+Che nel mio caso, che tra l'altro ho appena guardato con te
+
+499
+00:29:20,560 --> 00:29:25,120
+perché non li guardavo mai, ne ho 678 che forse si possono
+
+500
+00:29:25,120 --> 00:29:26,480
+anche eliminare completamente.
+
+501
+00:29:26,960 --> 00:29:32,640
+L'altra cosa, due parentesi nel discorso uno, sì, non so, lista della
+
+502
+00:29:32,640 --> 00:29:38,000
+spesa, anch'io avevo milioni di attività completate perché ogni volta inserivamo, tra
+
+503
+00:29:38,000 --> 00:29:42,000
+virgolette, le nuove cose da comprare, le cancelavamo e quindi di fatto
+
+504
+00:29:42,000 --> 00:29:46,560
+avevamo 100.000 banane da comprare, 100.000 mele da comprare
+
+505
+00:29:47,840 --> 00:29:49,280
+nelle attività completate.
+
+506
+00:29:49,280 --> 00:29:50,480
+Quindi ho fatto pulizia.
+
+507
+00:29:50,480 --> 00:29:53,440
+Ho scoperto dopo, ovviamente, che mia moglie invece cosa faceva?
+
+508
+00:29:53,440 --> 00:29:58,720
+Ogni tanto andava nelle completate, le decompletava per avercele di nuovo nella
+
+509
+00:29:58,720 --> 00:30:03,880
+lista, lasciamo, stendiamo veli pietosi, perché ovviamente c'è
+
+510
+00:29:59,840 --> 00:30:07,000
+un metodo migliore che vi racconterò.
+
+511
+00:30:07,480 --> 00:30:11,960
+Tuttavia, ecco la seconda cosa è che ovviamente se le cancellate non
+
+512
+00:30:11,960 --> 00:30:12,840
+ce l'avete più.
+
+513
+00:30:12,840 --> 00:30:16,520
+Se svolgete delle attività di un certo tipo, per esempio, come la
+
+514
+00:30:16,520 --> 00:30:19,960
+mia, ma credono anche come la tua: cioè ho depositato un progetto.
+
+515
+00:30:19,960 --> 00:30:24,520
+Quando l'ho depositato, se l'ho fatto con segnandomelo su per memoria, è
+
+516
+00:30:24,520 --> 00:30:27,800
+ovvio che queste attività completate le dovete tenere.
+
+517
+00:30:27,800 --> 00:30:30,600
+Perché se le cancellate, non avete più traccia di quando avete fatto
+
+518
+00:30:30,600 --> 00:30:31,080
+le cose.
+
+519
+00:30:31,080 --> 00:30:35,560
+E lo vedremo dopo, nella parte avanzata, diciamo che era una delle
+
+520
+00:30:35,880 --> 00:30:38,120
+limitazioni di cui mi lamentavo di per memoria.
+
+521
+00:30:38,120 --> 00:30:41,400
+Come cacchio faccio vedere quando è stata completata quell'attività?
+
+522
+00:30:41,400 --> 00:30:44,360
+Che è un'altra cosa fondamentale: cioè, io mi ricordo che ho mandato
+
+523
+00:30:44,360 --> 00:30:46,680
+la mail a tizio e non mi ha mai risposto.
+
+524
+00:30:46,680 --> 00:30:50,280
+Se avevo il mio per memoria di mandare le mail a tizio
+
+525
+00:30:50,280 --> 00:30:54,120
+e l'ho spuntato, come faccio a trovare quando ho mandato questa email?
+
+526
+00:30:54,120 --> 00:30:57,400
+È ovvio che, va bene, nell'esempio dell'email è abbastanza banale perché teoricamente
+
+527
+00:30:57,400 --> 00:30:59,800
+ho le mail anche inviate quindi dovrei trovarlo.
+
+528
+00:30:59,800 --> 00:31:03,800
+Però, per esempio, non so, telefono a Roberto li dovevo telefonare o
+
+529
+00:31:03,800 --> 00:31:05,960
+gli ho provato a telefonare dieci volte ma lui non mi ha
+
+530
+00:31:05,960 --> 00:31:09,400
+mai risposto, o gli ho telefonati dieci volte e abbiamo parlato di
+
+531
+00:31:09,400 --> 00:31:10,440
+questo e di quest'altro.
+
+532
+00:31:10,440 --> 00:31:13,880
+In questa maniera ovviamente so quando ho telefonato a Roberto ora minuto,
+
+533
+00:31:13,880 --> 00:31:16,920
+e quindi ovviamente indipendenza da cosa ci volete fare con questi Pro
+
+534
+00:31:16,920 --> 00:31:21,160
+Memoria sostanzialmente, cioè se avete un utilizzo più avanzato, il mio consiglio
+
+535
+00:31:21,160 --> 00:31:26,680
+è non cancellare tutti i Pro Memoria o cancellare selettivamente.
+
+536
+00:31:26,680 --> 00:31:30,120
+Se invece avete il Pro Memoria chiamiamolo così banale come da lista
+
+537
+00:31:30,120 --> 00:31:34,120
+della spesa e non vi interessa avere un report di cosa avete
+
+538
+00:31:34,120 --> 00:31:38,360
+fatto e quando l'avete fatto, allora potete cancellare tutto senza grossi problemi.
+
+539
+00:31:38,360 --> 00:31:40,640
+Intervengo e ti interrompo un secondo, Filippo.
+
+540
+00:31:40,640 --> 00:31:44,120
+Perché dalla chat Daniele ci fa una domanda che penso che possa
+
+541
+00:31:44,120 --> 00:31:49,360
+essere interessante, ovvero ci chiede se un Pro Memoria lo si può
+
+542
+00:31:44,920 --> 00:31:52,080
+unire a un evento di calendario.
+
+543
+00:31:52,560 --> 00:31:53,440
+Allora,
+
+544
+00:31:54,640 --> 00:31:58,480
+credo adesso mi trovo impreparato, nel senso che è una cosa che
+
+545
+00:31:58,480 --> 00:32:02,400
+non mi interessava e quindi l'ho visto che c'era, ma o forse
+
+546
+00:32:02,400 --> 00:32:07,360
+è in Fantasticale, basta in Fantastic perché è una cosa che secondo
+
+547
+00:32:07,360 --> 00:32:09,280
+me in Apple hanno molto separato.
+
+548
+00:32:09,280 --> 00:32:13,040
+Il pro Memoria è un pro Memoria, cioè che deve ricordare qualcosa
+
+549
+00:32:13,280 --> 00:32:18,640
+e almeno come l'ho pensata io, in calendario è proprio qualcosa che
+
+550
+00:32:18,640 --> 00:32:21,760
+mi occupa del tempo e mi deve trasferire in un luogo.
+
+551
+00:32:21,760 --> 00:32:22,800
+Faccio un passo indietro.
+
+552
+00:32:22,800 --> 00:32:25,600
+Io utilizzo Fantastical come gestione del calendario.
+
+553
+00:32:25,600 --> 00:32:29,280
+Fantastica, tra le varie cose, mi permette di vedere, chiamiamoli così Pro
+
+554
+00:32:29,280 --> 00:32:30,560
+Memoria di To Doist.
+
+555
+00:32:30,560 --> 00:32:34,160
+Quindi le attività di Toist all'interno del calendario, se ovviamente hanno una
+
+556
+00:32:34,160 --> 00:32:39,360
+data, cioè un orario specifico, e postarle addirittura quindi si sincronizza e
+
+557
+00:32:39,360 --> 00:32:40,320
+fa tutto questo.
+
+558
+00:32:40,320 --> 00:32:43,200
+Lo fa anche con i Pro Memoria di Apple e quindi vi
+
+559
+00:32:43,200 --> 00:32:46,800
+permette anche di visualizzare i Pro Memoria di Apple non come li
+
+560
+00:32:46,800 --> 00:32:48,880
+visualizza con ToDist, credo.
+
+561
+00:32:48,880 --> 00:32:52,880
+Secondo me, però, c'è un modo qui devo dire la verità, però
+
+562
+00:32:52,880 --> 00:32:56,560
+ce lo andiamo a cercare, o casomai Roberto lo cerca mentre io
+
+563
+00:32:56,640 --> 00:33:00,720
+chiacchiero: c'è un modo per creare contemporaneamente, secondo me, un Pro Memoria
+
+564
+00:33:00,800 --> 00:33:04,240
+e anche un evento di calendario e comunque sicuramente è fattibile con
+
+565
+00:33:04,240 --> 00:33:09,680
+un comando rapido, perché ovviamente il comando rapido può generare contemporaneamente un
+
+566
+00:33:09,680 --> 00:33:13,440
+Pro Memoria e un evento di calendario con lo stesso oggetto.
+
+567
+00:33:13,440 --> 00:33:18,400
+Tuttavia, devo dirti la verità: credo ho questo ricordo, ma non garantisco
+
+568
+00:33:18,560 --> 00:33:19,920
+della possibilità di farlo.
+
+569
+00:33:19,920 --> 00:33:24,400
+Quindi c'è, non è così integrato, per esempio, come Fantastical, e infatti,
+
+570
+00:33:24,400 --> 00:33:29,200
+appunto, Fantastical ha un costo di 30-40 euro l'anno, però tutta una
+
+571
+00:33:29,200 --> 00:33:33,160
+serie di piccole funzioni in più che devo dire la verità, ti
+
+572
+00:33:29,920 --> 00:33:34,200
+cambiano comunque la vita.
+
+573
+00:33:34,280 --> 00:33:37,240
+Abbiamo detto appunto che si possono aggiungere per memoria con la voce:
+
+574
+00:33:37,400 --> 00:33:42,200
+Siri è abbastanza complicato dal mio punto di vista, però probabilmente più
+
+575
+00:33:42,200 --> 00:33:45,960
+sei abituato e più impari le frasi giuste da dire a Siri,
+
+576
+00:33:45,960 --> 00:33:48,040
+è più è facile farlo.
+
+577
+00:33:48,040 --> 00:33:51,240
+Abbiamo parlato appunto degli elink o delle liste.
+
+578
+00:33:51,240 --> 00:33:55,560
+Esistono una serie particolari di elenchi e lo vedremo meglio anche nelle
+
+579
+00:33:55,560 --> 00:34:00,200
+nuove funzioni che stanno per arrivare e che probabilmente se ascoltate questa
+
+580
+00:34:00,200 --> 00:34:04,680
+puntata a inizio settembre barra metà settembre, forse sono già arrivate con
+
+581
+00:34:04,680 --> 00:34:09,800
+l'uscita di iOS 16, lo vedremo nella parte successiva.
+
+582
+00:34:09,800 --> 00:34:14,040
+Ci sono però questi elenchi Smart che vi permettono di visualizzare una
+
+583
+00:34:14,040 --> 00:34:16,280
+specifica prospettiva o un filtro.
+
+584
+00:34:16,280 --> 00:34:20,040
+La particolarità è che abbiamo le attività da fare oggi, le attività
+
+585
+00:34:20,040 --> 00:34:25,000
+programmate, tutte le attività, chiamiamole col simbolo dell'inbox e poi pro memoria
+
+586
+00:34:25,080 --> 00:34:26,360
+contrassegnati.
+
+587
+00:34:26,360 --> 00:34:31,240
+C'è un altro, diciamo, elenco Smart che possiamo attribuire che è assegnati
+
+588
+00:34:31,240 --> 00:34:31,720
+a me.
+
+589
+00:34:31,720 --> 00:34:36,200
+Se abbiamo delle attività condivise, diciamo, quelle assegnate a me possono diventare
+
+590
+00:34:36,280 --> 00:34:40,360
+quindi assegnate a me da altri, presumibilmente, perché se no non avrebbe
+
+591
+00:34:40,360 --> 00:34:41,080
+senso.
+
+592
+00:34:41,080 --> 00:34:44,200
+Diciamo, posso inserire anche queste quindi può diventare comodo.
+
+593
+00:34:44,200 --> 00:34:47,640
+Per esempio, se Roberto mi dice fai questa cosa perché ci serve
+
+594
+00:34:47,640 --> 00:34:52,120
+per il podcast, ho un elenco apposta dei pro memoria legati ad
+
+595
+00:34:52,280 --> 00:34:54,200
+attività che Roberto ha assegnato a me.
+
+596
+00:34:54,200 --> 00:34:58,920
+O per esempio abbiamo un sottoposto che lavora sotto piattaforma Apple, li
+
+597
+00:34:58,920 --> 00:35:02,200
+possiamo demandare, fai questo giro, per esempio, in cancelleria nel punto di
+
+598
+00:35:02,200 --> 00:35:06,600
+vista come avvocato, fai questa memoria, e ovviamente col fatto che l'assegni
+
+599
+00:35:06,600 --> 00:35:09,480
+a un altro, poi puoi anche vedere quando è stata fatta, come
+
+600
+00:35:09,480 --> 00:35:12,040
+è stata fatta, se è stata fatta, perché non è stata fatta
+
+601
+00:35:12,040 --> 00:35:12,840
+e così via.
+
+602
+00:35:12,840 --> 00:35:17,520
+Quindi si riesce anche in una maniera molto semplice, diciamo, a gestire
+
+603
+00:35:17,520 --> 00:35:21,120
+in maniera collaborativa anche attività relativamente complesse.
+
+604
+00:35:21,120 --> 00:35:26,720
+Appunto, gli elenchi Smart ne parliamo meglio a fine della puntata dove
+
+605
+00:35:26,720 --> 00:35:32,160
+parleremo delle novità invece di iOS 16, iPadOS 16 e macOS Ventura,
+
+606
+00:35:32,160 --> 00:35:32,960
+sostanzialmente.
+
+607
+00:35:32,960 --> 00:35:38,080
+Abbiamo già parlato quindi della condivisione degli elenchi, praticamente quindi la sincronizzazione
+
+608
+00:35:38,080 --> 00:35:43,200
+degli elenchi tra più persone, con la possibilità addirittura assegnare specifiche attività,
+
+609
+00:35:43,200 --> 00:35:47,760
+specifici pro memoria a una persona e quindi anche fare delle cose
+
+610
+00:35:47,840 --> 00:35:48,880
+collaborative.
+
+611
+00:35:48,880 --> 00:35:52,960
+L'esempio che faccio io è, non so, spesso e volentieri, l'avvocato ha
+
+612
+00:35:52,960 --> 00:35:57,200
+sia un'attività chiamiamola così di cancelleria, anche se è diventata molta di
+
+613
+00:35:57,200 --> 00:36:02,480
+queste attività si è dematerializzata, e poi un'attività di creazione di documenti
+
+614
+00:36:02,480 --> 00:36:04,240
+o di impegni di vario genere.
+
+615
+00:36:04,240 --> 00:36:08,160
+È ovvio che se ho un dipendente o comunque un collaboratore, io
+
+616
+00:36:08,160 --> 00:36:12,000
+potrei attribuire al collaboratore, non so, di andare a vedere il fascicolo
+
+617
+00:36:12,000 --> 00:36:15,840
+digitale a scaricare le memorie di controparte e quando lui le ha
+
+618
+00:36:15,840 --> 00:36:21,680
+scaricate, ovviamente fare le memorie contro quelle memorie e io leggermi le
+
+619
+00:36:21,680 --> 00:36:22,000
+cose.
+
+620
+00:36:22,000 --> 00:36:27,360
+Quindi, solo quando vedo che l'attività è stata svolta, e addirittura volendo,
+
+621
+00:36:27,360 --> 00:36:32,080
+probabilmente con una serie di automazioni, si possono anche avvisare che l'altro
+
+622
+00:36:32,080 --> 00:36:35,520
+ha fatto una determinata azione e quindi vedere cosa è stato fatto,
+
+623
+00:36:35,520 --> 00:36:40,880
+e quindi conseguentemente poi muovere altri pezzi del flusso di lavoro in
+
+624
+00:36:40,880 --> 00:36:42,800
+base all'attività svolta da altri.
+
+625
+00:36:42,800 --> 00:36:43,440
+Esiste
+
+626
+00:36:45,040 --> 00:36:50,400
+diciamo nell'attività di base, nelle informazioni di base da tenere presente un
+
+627
+00:36:50,400 --> 00:36:54,080
+elenco di promemoria di default, chiamiamolo così: cioè base, che è il
+
+628
+00:36:54,080 --> 00:36:55,040
+primo creato.
+
+629
+00:36:55,040 --> 00:36:59,280
+È possibile modificarlo e in promemoria si trova in preferenze, poi si
+
+630
+00:36:59,280 --> 00:37:03,800
+va nell'elenco predefinito e si sceglie l'elenco che si vuole utilizzare come
+
+631
+00:37:03,800 --> 00:37:04,520
+predefinito.
+
+632
+00:37:04,520 --> 00:37:05,720
+Quindi, cosa vuol dire?
+
+633
+00:37:05,720 --> 00:37:09,000
+Se io dico ricordami di fare questo, per esempio, a Siri, questo
+
+634
+00:37:09,320 --> 00:37:13,160
+è nell'elenco default che viene inserito quest'avviso.
+
+635
+00:37:13,400 --> 00:37:17,560
+Se invece voglio inserirlo, per esempio, nella lista della spesa ad essere
+
+636
+00:37:17,640 --> 00:37:22,440
+lunga, devo dire ricordami di comprare le banane nella lista della spesa.
+
+637
+00:37:22,680 --> 00:37:28,040
+Avere l'elenco di prememoria di file diventa comodo perché abitualmente in quell'elenco
+
+638
+00:37:28,040 --> 00:37:31,800
+lì confluiscono tutti i promemoria che vengono salvati in automatico.
+
+639
+00:37:31,880 --> 00:37:36,120
+Quindi è importante anche sapere poterlo modificare per le esigenze proprie specifiche.
+
+640
+00:37:36,120 --> 00:37:40,040
+Vi parlerei invece dei comandi rapidi e Pro Memoria, che diciamo la
+
+641
+00:37:40,040 --> 00:37:44,360
+parte forse anche un po' più sucosa di tutta la vicenda e
+
+642
+00:37:44,360 --> 00:37:49,320
+che devo dire la verità, poi vi permette di espandere notevolmente le
+
+643
+00:37:49,400 --> 00:37:52,680
+funzionalità e le capacità di Pro Memoria.
+
+644
+00:37:52,680 --> 00:37:56,120
+Ho provato a cercare qualche indizio in rete per quanto riguarda il
+
+645
+00:37:56,120 --> 00:38:00,120
+collegamento tra Pro Memoria e calendario, ma penso che siano ancora separati.
+
+646
+00:38:00,120 --> 00:38:02,040
+Andiamo a comandi rapidi e Pro Memoria.
+
+647
+00:38:02,600 --> 00:38:07,640
+Innanzitutto, l'idea di fondo, secondo me, è utilizzare i comandi rapidi quando
+
+648
+00:38:07,800 --> 00:38:13,400
+si ha da inserire tanti, chiamiamoli così, Pro Memoria una volta sola.
+
+649
+00:38:13,400 --> 00:38:15,560
+Esempio, lista della spesa.
+
+650
+00:38:15,560 --> 00:38:18,600
+Una delle cose che ho cercato di fare con mia moglie è
+
+651
+00:38:18,600 --> 00:38:23,240
+invece di fare il suo metodo, cioè andare nei ProMemoria completati e
+
+652
+00:38:23,240 --> 00:38:28,440
+decompletarli, avere invece, siccome poi bene o male, la spesa al supermercato
+
+653
+00:38:28,440 --> 00:38:32,280
+è più o meno similare, addirittura, vabbè, ne ho accendate le puntate
+
+654
+00:38:32,280 --> 00:38:32,840
+scorse.
+
+655
+00:38:32,840 --> 00:38:36,440
+Comunque, io ho bene o male un programma dei pasti più o
+
+656
+00:38:36,440 --> 00:38:42,600
+meno standardizzato per rendere più semplice l'attività del cuoco che mi compete.
+
+657
+00:38:42,600 --> 00:38:46,240
+E quindi anche una serie di ingredienti che sono necessari per fare
+
+658
+00:38:44,840 --> 00:38:48,800
+queste cene, questi pranzi.
+
+659
+00:38:49,040 --> 00:38:53,920
+Benissimo, si può creare un sistema per inserire o addirittura per avere
+
+660
+00:38:53,920 --> 00:38:58,720
+un elenco di cose da comprare, scegliere quali comprare poi da questo
+
+661
+00:38:58,880 --> 00:39:02,400
+elenco e inserirli direttamente in una volta sola.
+
+662
+00:39:02,560 --> 00:39:05,840
+Non devo digitare mano tutte le volte ogni volta.
+
+663
+00:39:05,840 --> 00:39:10,560
+Uso una checklist per decidere cosa voglio comprare dell'elenco che bene o
+
+664
+00:39:10,560 --> 00:39:14,880
+male, quello standard, e a quel punto lì mi genera direttamente un
+
+665
+00:39:14,880 --> 00:39:19,760
+promemoria, cioè mi inserisce tutte queste singole voci di promemoria direttamente nella
+
+666
+00:39:19,760 --> 00:39:20,880
+lista della spesa.
+
+667
+00:39:20,880 --> 00:39:24,560
+Su quest'ottica, diciamo questo è il principio, chiamiamolo così, secondo me, di
+
+668
+00:39:24,560 --> 00:39:26,080
+automazione di queste cose.
+
+669
+00:39:26,080 --> 00:39:31,520
+Su quest'ottica, ovviamente, si possono fare qualsiasi cosa in base alle specifiche
+
+670
+00:39:31,520 --> 00:39:33,360
+esigenze di ognuno.
+
+671
+00:39:33,360 --> 00:39:36,880
+E adesso cerchiamo di vedere un po' quali sono le azioni, diciamo,
+
+672
+00:39:36,880 --> 00:39:40,720
+presenti in promemoria, o meglio le azioni in comandi rapidi presenti in
+
+673
+00:39:40,720 --> 00:39:45,040
+promemoria per l'applicazione in promemoria, e quali dal mio punto di vista,
+
+674
+00:39:45,040 --> 00:39:48,400
+sono quelli più interessanti e quelli cui, se non sai che ci
+
+675
+00:39:48,400 --> 00:39:50,640
+sono, ci metti un po' di tempo, io ci ho messo un
+
+676
+00:39:50,640 --> 00:39:54,160
+po' di tempo poi, dopo come diceva Roberto, ho letto un articolo
+
+677
+00:39:54,160 --> 00:39:59,280
+di Federico Vittici, un approfondimento di Federico Vittici, ho detto, bastava leggerlo
+
+678
+00:39:59,280 --> 00:40:03,040
+prima di fare le mie ricerche e ci sarei arrivato molto più
+
+679
+00:40:03,040 --> 00:40:03,680
+velocemente.
+
+680
+00:40:03,680 --> 00:40:05,360
+Ma l'importante
+
+681
+00:40:06,400 --> 00:40:08,800
+è come ci arrivi, non è arrivarci.
+
+682
+00:40:08,800 --> 00:40:11,760
+Quindi alla fine è stato utile comunque.
+
+683
+00:40:11,760 --> 00:40:16,160
+Allora, abbiamo innanzitutto aggiungi nuovo Pro Memoria, che evidentemente aggiunge un nuovo
+
+684
+00:40:16,160 --> 00:40:19,280
+Pro Memoria, ma lo vediamo a parte perché ha tutta una serie
+
+685
+00:40:19,280 --> 00:40:20,880
+di sottopossibilità.
+
+686
+00:40:20,880 --> 00:40:23,920
+Cerca un Pro Memoria che vi permette di trovare il Pro Memoria,
+
+687
+00:40:23,920 --> 00:40:27,680
+modifica Pro Memoria che indovina cosa fa, modifica i Pro Memoria, mostra
+
+688
+00:40:27,680 --> 00:40:28,880
+un elenco di Pro Memoria.
+
+689
+00:40:28,880 --> 00:40:32,600
+Quindi vi dà la possibilità, per esempio, di estrapolare un elenco.
+
+690
+00:40:32,760 --> 00:40:35,720
+Ottieni i dettagli del Pro Memoria, quindi vi dà tutta una serie
+
+691
+00:40:35,720 --> 00:40:38,040
+di informazioni più dettagliate su quel Pro Memoria.
+
+692
+00:40:38,040 --> 00:40:42,280
+Ricordate il discorso di dire quando è stato concluso e così via.
+
+693
+00:40:42,280 --> 00:40:44,280
+Ottieni i prossimi Pro Memoria.
+
+694
+00:40:44,280 --> 00:40:48,920
+Può essere utile se volete avere, per esempio, l'elenco dell'attività, vi estrapola
+
+695
+00:40:49,240 --> 00:40:52,120
+questo elenco o vi estrapola anche cose più.
+
+696
+00:40:52,120 --> 00:40:54,840
+E poi, ovviamente rimuovi Pro Memoria.
+
+697
+00:40:54,920 --> 00:40:59,800
+Quello in cui mi vorrei soffermare sono due: aggiungi nuovo Pro Memoria,
+
+698
+00:40:59,800 --> 00:41:02,600
+che ovviamente è quello che serve per inserire i Pro Memoria, e
+
+699
+00:41:02,600 --> 00:41:06,440
+quello cerca Pro Memoria, che di fatto vi permette di filtrare tutto
+
+700
+00:41:06,680 --> 00:41:10,520
+l'insieme dei Pro Memoria e cercare quello che vi interessa a voi.
+
+701
+00:41:10,520 --> 00:41:13,320
+E poi su questo ovviamente fare delle automazioni.
+
+702
+00:41:13,320 --> 00:41:17,480
+L'aggiungi nuovo Pro Memoria, diciamo la base è abbastanza semplice, cioè vi
+
+703
+00:41:17,480 --> 00:41:20,280
+chiede di inserire il testo del Pro Memoria ad aggiungere, è quello
+
+704
+00:41:20,280 --> 00:41:21,400
+ovviamente necessario.
+
+705
+00:41:21,400 --> 00:41:25,080
+L'elenco in cui aggiungerlo, quindi già abbiamo la possibilità di decidere dove
+
+706
+00:41:25,160 --> 00:41:30,840
+inserire questa roba e standardizzarlo, tra virgolette, cioè appunto l'elenco della lista
+
+707
+00:41:30,840 --> 00:41:33,960
+della spesa, lo possiamo mettere nella lista della spesa, c'è la possibilità
+
+708
+00:41:33,960 --> 00:41:38,040
+di inserire l'avviso, che è l'allert, diciamo che vi viene fuori e
+
+709
+00:41:38,040 --> 00:41:40,760
+vi può venire fuori ovviamente prima o dopo.
+
+710
+00:41:41,000 --> 00:41:44,440
+Poi se cliccate su mostra di più abbiamo le priorità.
+
+711
+00:41:44,440 --> 00:41:47,640
+Quindi il grado di priorità, che, come vi dicevo, ce ne sono
+
+712
+00:41:47,640 --> 00:41:51,560
+quattro, cioè non c'è priorità e poi la priorità 1, 2, 3,
+
+713
+00:41:51,560 --> 00:41:53,240
+alta, media e bassa.
+
+714
+00:41:53,240 --> 00:41:57,800
+La possibilità di mettere come contrassegnato quella di inserire un URL.
+
+715
+00:41:57,800 --> 00:42:03,160
+Quindi anche qui per esempio, potreste creare un comando rapido per inserire
+
+716
+00:42:03,160 --> 00:42:04,680
+dentro una specifica lista.
+
+717
+00:42:04,680 --> 00:42:08,840
+Per esempio lista di articoli che si vogliono leggere, l'URL dell'articolo da
+
+718
+00:42:08,840 --> 00:42:15,600
+leggere e utilizzando queste automazioni, per esempio che interessava a Roberto, Federico
+
+719
+00:42:15,600 --> 00:42:17,120
+Vittici, cosa ha fatto?
+
+720
+00:42:17,120 --> 00:42:22,800
+Ha non solo preso il word dell'articolo, ma estrappolato il contenuto dell'articolo.
+
+721
+00:42:22,800 --> 00:42:26,720
+Ha fatto un conteggio di parole dell'articolo, e in questa maniera una
+
+722
+00:42:26,720 --> 00:42:32,560
+doppia shortcut, diciamo, ha creato un comando rapido per cui se sopra
+
+723
+00:42:32,800 --> 00:42:36,720
+tot parole va negli articoli corti e quindi che si possono leggere,
+
+724
+00:42:36,720 --> 00:42:39,680
+per esempio in 3-4 minuti, e quindi se voglio una lettura veloce
+
+725
+00:42:39,920 --> 00:42:43,680
+vada a pescare da quella lista di articoli veloci, e invece in
+
+726
+00:42:43,680 --> 00:42:48,160
+una seconda lista di articoli lunghi, dove invece casomai ho 20 mezz'ora
+
+727
+00:42:48,480 --> 00:42:53,040
+di tempo per leggere, dove sono articoli ovviamente, non so, da 3.000-4.000
+
+728
+00:42:53,120 --> 00:42:57,040
+parole che richiedono ovviamente un certo tempo per poterlo fare.
+
+729
+00:42:57,040 --> 00:43:02,240
+È possibile ovviamente inserire immagini e documenti, e la cosa interessante è
+
+730
+00:43:02,240 --> 00:43:04,240
+il ProMemoria principale.
+
+731
+00:43:04,240 --> 00:43:09,040
+Pro Memoria principale vi permette di sostanzialmente, una volta che si riesce
+
+732
+00:43:09,040 --> 00:43:10,720
+a puntare al ProMemoria principale.
+
+733
+00:43:10,720 --> 00:43:14,480
+Adesso vi spiegherò bene male come funziona tutta questa vicenda perché qui
+
+734
+00:43:14,480 --> 00:43:18,320
+non è così leggibile a primo acito, ma comunque vi permette di
+
+735
+00:43:18,320 --> 00:43:24,000
+prendere il ProMemoria che volete inserire e promemoria che create sarà inserito
+
+736
+00:43:24,000 --> 00:43:28,720
+sotto il Pro Memoria principale e quindi potete fare poi la struttura,
+
+737
+00:43:28,720 --> 00:43:31,680
+diciamo, di sotto promemoria nel sistema.
+
+738
+00:43:31,840 --> 00:43:37,920
+Questo diventa molto utile perché ovviamente vi permette di creare attività complesse
+
+739
+00:43:38,080 --> 00:43:39,920
+come interessava a me, per esempio.
+
+740
+00:43:39,920 --> 00:43:43,200
+Un esempio tipico quale può essere per un avvocato è fare un
+
+741
+00:43:43,200 --> 00:43:44,080
+precetto.
+
+742
+00:43:44,080 --> 00:43:48,720
+Fare un precetto è un'attività relativamente banale da un certo punto di
+
+743
+00:43:48,720 --> 00:43:52,240
+vista, ma che richiede di aver fatto tutta una serie di cose.
+
+744
+00:43:52,240 --> 00:43:57,280
+È ovvio che io posso creare una macro attività, chiamamola così precetto,
+
+745
+00:43:57,280 --> 00:44:01,720
+e sotto ovviamente vedere il titolo esecutivo, recuperare il titolo esecutivo, notificare
+
+746
+00:44:01,720 --> 00:44:05,560
+il titolo esecutivo se non notificato, creare il precetto, creare i conteggi,
+
+747
+00:44:05,560 --> 00:44:09,160
+notificare il precetto, vedere se le cartoline nel precetto sono state se
+
+748
+00:44:09,160 --> 00:44:13,160
+il precetto è stato notificato e ritirare le cartoline.
+
+749
+00:44:13,160 --> 00:44:17,960
+Adesso questo era tutto il flusso cartaceo, è molto più semplice nel
+
+750
+00:44:17,960 --> 00:44:23,080
+momento digitale, però giusto per darvi un'idea di un'attività relativamente semplice ma
+
+751
+00:44:23,080 --> 00:44:25,640
+complessa, lo stesso, fatta di più step.
+
+752
+00:44:25,640 --> 00:44:27,880
+E ovviamente questo è un sistema.
+
+753
+00:44:27,880 --> 00:44:33,160
+Cioè utilizzando questo sistema, io posso creare un evento principale e tutta
+
+754
+00:44:33,160 --> 00:44:38,600
+una serie di sottoattività automatizzate, tra virgolette, anche perché, siccome è possibile
+
+755
+00:44:38,600 --> 00:44:43,880
+anche mettere la data, ovviamente entro il quale il Proemoria deve essere
+
+756
+00:44:43,880 --> 00:44:48,840
+fatto, la data di svolgimento del Pro Memoria, posso anche fare dei
+
+757
+00:44:48,840 --> 00:44:50,600
+calcoli relativi in base alla data.
+
+758
+00:44:50,600 --> 00:44:54,920
+E quindi non so, per esempio, se io so quando è la
+
+759
+00:44:54,920 --> 00:44:57,320
+data di pubblicazione di questo podcast.
+
+760
+00:44:57,320 --> 00:44:59,800
+Tendenzialmente credo che sia il 5 di settembre.
+
+761
+00:44:59,800 --> 00:45:03,880
+Se tutto va come dovrebbe andare, io so che, per esempio, il
+
+762
+00:45:03,880 --> 00:45:07,160
+4 di settembre, che è la domenica, devo aver caricato.
+
+763
+00:45:07,160 --> 00:45:11,160
+Quindi, un giorno prima devo aver caricato su Firesite, che è l'hosting
+
+764
+00:45:11,160 --> 00:45:15,720
+provider, diciamo, del podcast 2, devo aver caricato la puntata.
+
+765
+00:45:15,720 --> 00:45:19,320
+Quindi il giorno prima ancora devo avere le note dell'episodio già pronte
+
+766
+00:45:19,720 --> 00:45:24,120
+e solitamente ci metto 3-4 ore per fare l'editing della puntata.
+
+767
+00:45:24,120 --> 00:45:28,520
+Quindi devo, per esempio, nei 3-4 giorni prima della scadenza avere un
+
+768
+00:45:28,520 --> 00:45:31,320
+po' memoria che mi ricorda di editare il podcast.
+
+769
+00:45:31,320 --> 00:45:34,840
+In questa maniera posso automatizzare tutto e fare tutta una serie di
+
+770
+00:45:34,840 --> 00:45:39,960
+conteggio anche a retroso attraverso un comando rapido e quindi popolare una
+
+771
+00:45:39,960 --> 00:45:45,920
+serie di attività anche in maniera relativamente complessa direttamente in comandi rapidi.
+
+772
+00:45:44,760 --> 00:45:47,120
+Da ultimo, sempre nell'ag
+
+773
+00:45:45,000 --> 00:45:49,600
+giungi di memoria c'è la possibilità di inserire delle note.
+
+774
+00:45:49,760 --> 00:45:54,400
+Quindi, per esempio, io adesso ovviamente vi faccio degli esempi nati su
+
+775
+00:45:54,400 --> 00:45:56,240
+un momento molto semplici.
+
+776
+00:45:56,240 --> 00:45:58,320
+È ovvio che dopo dovete approfondire.
+
+777
+00:45:58,320 --> 00:46:02,720
+Tuttavia, se io, per esempio, richiedo che l'utente inserisca il primo input
+
+778
+00:46:02,720 --> 00:46:06,080
+che è l'oggetto del Pro Memoria, per esempio, e poi un secondo
+
+779
+00:46:06,080 --> 00:46:10,400
+input che sono le eventuali note, e con un comando rapido, appunto,
+
+780
+00:46:10,400 --> 00:46:14,240
+comparirà la possibilità di inserire il testo del Pro Memoria, poi comparirà
+
+781
+00:46:14,240 --> 00:46:17,840
+la possibilità di inserire le note io in automatico senza dover andare
+
+782
+00:46:17,840 --> 00:46:22,080
+nell'interfaccia di Pro Memoria e così via, posso creare popolare il Pro
+
+783
+00:46:22,160 --> 00:46:24,400
+Memoria velocemente senza troppi problemi.
+
+784
+00:46:24,400 --> 00:46:30,400
+Eppure, per esempio, nell'assurdità, utilizzando una serie di automazioni di comandi rapidi,
+
+785
+00:46:30,400 --> 00:46:30,880
+posso.
+
+786
+00:46:30,880 --> 00:46:34,160
+Non so, la prima riga è il testo del Pro Memoria e
+
+787
+00:46:34,160 --> 00:46:38,240
+le eventuali righe sono la nota che voglio fare.
+
+788
+00:46:38,240 --> 00:46:42,400
+Il primo testo vada capo e tutto il testo successivo lo posso
+
+789
+00:46:42,400 --> 00:46:48,640
+spezzare utilizzando delle semplici comandi per separare, diciamo, i due pezzi anche
+
+790
+00:46:48,640 --> 00:46:50,320
+di una nota complessiva.
+
+791
+00:46:50,320 --> 00:46:55,920
+Diciamo che c'è un mondo infinito di possibilità che potete appunto sperimentare.
+
+792
+00:46:55,920 --> 00:46:56,240
+Esatto.
+
+793
+00:46:56,240 --> 00:46:59,280
+Io intanto sto iniziando a paccioccare in a parlavi un po' con
+
+794
+00:46:59,280 --> 00:47:03,920
+comandi rapidi perché ormai mi stai attaccando questa passione per comandi rapidi.
+
+795
+00:47:03,920 --> 00:47:08,800
+In effetti è molto interessante perché creando un semplice comando rapido come
+
+796
+00:47:08,800 --> 00:47:14,160
+applicazione ProMemoria vi permette appunto di creare velocemente un Pro Memoria gitando
+
+797
+00:47:14,160 --> 00:47:18,720
+semplicemente quello che volete ricordare, senza pensare essenzialmente a tanto altro in
+
+798
+00:47:18,720 --> 00:47:21,360
+più, se non per esempio dove incasellarlo.
+
+799
+00:47:21,360 --> 00:47:26,480
+Questo può essere molto interessante perché se vi mettete il widget dei
+
+800
+00:47:26,640 --> 00:47:31,960
+comandi rapidi in home page, voi avete in modo molto veloce la
+
+801
+00:47:31,960 --> 00:47:34,120
+possibilità di ricordarvi qualcosa.
+
+802
+00:47:29,840 --> 00:47:35,960
+È un'azione molto tagliente.
+
+803
+00:47:36,120 --> 00:47:40,280
+Io adesso lo sto mettendo tra i widget che all'interno del widget
+
+804
+00:47:40,280 --> 00:47:44,600
+che utilizzo normalmente su iPadOS, perché appunto i programmi ammessi così
+
+805
+00:47:44,680 --> 00:47:49,640
+sono quasi addirittura velocissimi, li paragonerei quasi a quelli di Siri.
+
+806
+00:47:49,640 --> 00:47:51,880
+Non vorrei sbagliarmi, ma siamo velocissimi.
+
+807
+00:47:51,880 --> 00:47:55,960
+Perché essenzialmente è un comando così veloce e tagliente.
+
+808
+00:47:55,960 --> 00:47:59,960
+E la cosa interessante, appunto, se ho capito bene, volevo chiedere conferma
+
+809
+00:47:59,960 --> 00:48:03,800
+a Filippo: se io vado a esplorare di più i comandi rapidi,
+
+810
+00:48:03,800 --> 00:48:08,840
+posso, ad esempio, inserire delle note all'interno di questo Pro Memoria direttamente
+
+811
+00:48:08,840 --> 00:48:10,200
+da comandi rapidi.
+
+812
+00:48:10,200 --> 00:48:14,280
+E volevo chiederti se questa nota che io ho digitato all'interno di
+
+813
+00:48:14,280 --> 00:48:18,600
+Pro Memoria si può trasformare a sua volta in una nota in
+
+814
+00:48:18,840 --> 00:48:19,640
+note.
+
+815
+00:48:19,640 --> 00:48:24,600
+Nel senso, questo testo può già affilarsi di là o rimane di
+
+816
+00:48:24,600 --> 00:48:25,640
+qua in Pro Memoria?
+
+817
+00:48:25,640 --> 00:48:28,680
+Ne parleremo, ma anche le note possono essere automatizzate.
+
+818
+00:48:28,920 --> 00:48:32,600
+Ovviamente dallo stesso testo si possono creare più cose.
+
+819
+00:48:32,600 --> 00:48:37,800
+Come dicevo prima, teoricamente potreste creare un comando rapido per creare appunto
+
+820
+00:48:37,800 --> 00:48:43,080
+Pro Memoria, contemporaneamente avere un evento nel calendario e contemporaneamente avere una
+
+821
+00:48:43,080 --> 00:48:43,720
+nota.
+
+822
+00:48:43,720 --> 00:48:48,360
+Non credo che si riesca facilmente però, questo ve la vendo con
+
+823
+00:48:48,360 --> 00:48:53,240
+dei dubitativi, a creare un'automazione in cui i tre eventi, le tre
+
+824
+00:48:53,240 --> 00:48:57,720
+cose sono collegate: cioè avere un link che manda la nota o
+
+825
+00:48:57,720 --> 00:49:01,000
+un link che manda al comando rapido.
+
+826
+00:49:01,000 --> 00:49:03,080
+Forse si riesce si riesce.
+
+827
+00:49:03,080 --> 00:49:08,040
+Ovviamente con le automazioni si possono fare molte cose che abitualmente richiederebbero
+
+828
+00:49:08,040 --> 00:49:10,120
+molti più accessi a varie applicazioni.
+
+829
+00:49:10,120 --> 00:49:15,440
+Andiamo ad un'altra azione che credo sia interessante, cerca ProMemoria c'è la
+
+830
+00:49:15,440 --> 00:49:19,680
+possibilità appunto di cercare un ProMemoria quindi di inserire dei filtri per
+
+831
+00:49:19,680 --> 00:49:22,560
+cercare nell'elenco e filtrare queste legne.
+
+832
+00:49:22,560 --> 00:49:26,720
+Per esempio, c'è la possibilità di filtrare per attività completate o non
+
+833
+00:49:26,720 --> 00:49:30,560
+completate, per attività che sono in scadenza o non in scadenza, fatte
+
+834
+00:49:30,560 --> 00:49:35,760
+o non fatte, che hanno uno specifico tag piuttosto che hanno un
+
+835
+00:49:35,760 --> 00:49:40,480
+contenuto specifico di una nota o di insomma, si può fare veramente
+
+836
+00:49:40,480 --> 00:49:41,200
+tante cose.
+
+837
+00:49:41,200 --> 00:49:44,960
+La cosa interessante è che si può fare una filtrazione, chiamiamola così,
+
+838
+00:49:44,960 --> 00:49:47,760
+progressiva, cioè si mette il primo filtro che fa una cosa, il
+
+839
+00:49:47,760 --> 00:49:50,160
+secondo filtro che fa un'altra e così via.
+
+840
+00:49:50,160 --> 00:49:53,840
+E quindi si possono fare già tutta una serie di scrematura.
+
+841
+00:49:53,840 --> 00:50:00,560
+L'altro è scegliere anche l'ordinamento della lista di promemoria che viene svolta,
+
+842
+00:50:00,560 --> 00:50:04,480
+e ovviamente a questo punto c'è un elenco di promemoria che può
+
+843
+00:50:04,480 --> 00:50:08,320
+essere a sua volta ulteriormente filtrato, quindi essere
+
+844
+00:50:09,440 --> 00:50:12,880
+l'azione di un successivo filtro, chiamiamolo così.
+
+845
+00:50:13,120 --> 00:50:17,360
+Oppure essere passata un'azione, per esempio, di elenco.
+
+846
+00:50:17,360 --> 00:50:22,880
+Quindi, non so, ho una lista con 10 attività e io mi
+
+847
+00:50:22,880 --> 00:50:26,720
+ricordo che alla quinta attività che adesso non so, è chiamare Roberto.
+
+848
+00:50:26,720 --> 00:50:30,320
+Voglio inserire un ulteriore sottovoce, però non mi ricordo se ho scritto
+
+849
+00:50:30,320 --> 00:50:34,320
+chiamare Roberto, telefonare a Roberto o scrivere a Roberto.
+
+850
+00:50:35,120 --> 00:50:36,000
+Quindi cosa faccio?
+
+851
+00:50:36,000 --> 00:50:41,440
+Ho fatto una prima filtro appunto l'elenco dove ci sono le attività.
+
+852
+00:50:41,440 --> 00:50:43,040
+A questo punto avrò l'elenco.
+
+853
+00:50:43,040 --> 00:50:46,880
+Posso mettere, per esempio, come filtro la ricerca del nome Roberto.
+
+854
+00:50:46,880 --> 00:50:50,080
+Ma se non ho voglia neanche di fare questo, posso, per esempio,
+
+855
+00:50:50,080 --> 00:50:54,560
+avere l'elenco di tutti i pro memoria in quella lista e selezionare
+
+856
+00:50:54,560 --> 00:51:00,280
+appunto Pro Memoria di scrivere o telefonare o così via Roberto, e
+
+857
+00:50:59,600 --> 00:51:00,680
+a quel punto
+
+858
+00:50:59,840 --> 00:51:04,840
+lì passare una successiva azione che mi genera attività successive.
+
+859
+00:51:05,000 --> 00:51:09,800
+E qui entrano in gioco le variabili di promemoria, perché dalle variabili
+
+860
+00:51:09,800 --> 00:51:15,000
+di promemoria è possibile estrapolare un sacco di informazioni, cioè tipo il
+
+861
+00:51:15,000 --> 00:51:17,160
+titolo, le note, il luogo.
+
+862
+00:51:17,160 --> 00:51:18,600
+Ah, non abbiamo parlato.
+
+863
+00:51:18,600 --> 00:51:20,120
+Qui è stato un mio errore.
+
+864
+00:51:20,120 --> 00:51:23,800
+È possibile farsi ricordare un Pro Memoria non solo a una determinata
+
+865
+00:51:23,800 --> 00:51:27,720
+data o entro ore e così via, ma anche in un determinato
+
+866
+00:51:27,720 --> 00:51:28,280
+luogo.
+
+867
+00:51:28,280 --> 00:51:32,840
+Quindi, non so, ricordami quando vado in ufficio di fare questa cosa,
+
+868
+00:51:32,840 --> 00:51:36,440
+o ricordami quando torno a casa di fare questa cosa.
+
+869
+00:51:36,680 --> 00:51:41,560
+Il Pro Memoria fare questa cosa suonerà, tra virgolette, quando siete in
+
+870
+00:51:41,560 --> 00:51:42,840
+un determinato luogo.
+
+871
+00:51:42,840 --> 00:51:47,640
+E ovviamente avete anche la possibilità di non far la voce, ma
+
+872
+00:51:47,640 --> 00:51:53,000
+di individuare una specifica area entro la quale ovviamente il Pro Memoria
+
+873
+00:51:53,560 --> 00:51:56,200
+debba scattare, chiamiamolo così.
+
+874
+00:51:56,200 --> 00:52:01,800
+Queste variabili, il fatto del filtrare i Pro Memoria ci permette inserire
+
+875
+00:52:01,800 --> 00:52:06,600
+i sotto promemoria, chiamiamoli così, cioè inserire degli altri promemoria all'interno di
+
+876
+00:52:06,600 --> 00:52:08,040
+un Pro Memoria principale.
+
+877
+00:52:08,040 --> 00:52:12,760
+Per creare le sottoattività, infatti, occorre prima filtrare e recuperare una precedente
+
+878
+00:52:12,760 --> 00:52:18,360
+attività e poi creare puntando a tale attività una nuova sottoattività, o
+
+879
+00:52:18,360 --> 00:52:22,680
+addirittura, e quindi questo è l'arzogolo di tutta la vicenda: cioè se
+
+880
+00:52:22,680 --> 00:52:27,320
+io voglio mettere appunto una sottoattività in quella di Roberto, non posso
+
+881
+00:52:27,560 --> 00:52:32,680
+dire inserisci questo Pro Memoria in chiama Roberto, anche se so che
+
+882
+00:52:32,920 --> 00:52:38,520
+in quella lista c'è un'attività, una pro memoria chiamato Chiama Roberto.
+
+883
+00:52:38,520 --> 00:52:42,920
+Non funziona così, devo prima recuperare il Pro Memoria quindi fare un
+
+884
+00:52:42,920 --> 00:52:43,760
+filtraggio.
+
+885
+00:52:43,760 --> 00:52:47,760
+Anche solo cerca il Pro Memoria nella lista Pinco Pallino in cui
+
+886
+00:52:44,840 --> 00:52:49,280
+c'è scritto chiama Roberto.
+
+887
+00:52:49,440 --> 00:52:53,280
+A quel punto lì, utilizzando una variabile magica, devo inserire in Pro
+
+888
+00:52:53,360 --> 00:52:59,520
+Memoria Principale quel riferimento, il riferimento che ho trovato con il filtro,
+
+889
+00:52:59,520 --> 00:53:02,560
+e in quel modo è possibile inserire il Pro Memoria.
+
+890
+00:53:02,560 --> 00:53:06,400
+L'altra soluzione: cioè se voglio invece generare un nuovo Pro Memoria con
+
+891
+00:53:06,400 --> 00:53:10,160
+dei sotto promemoria è generare il Pro Memoria principale e poi tutta
+
+892
+00:53:10,160 --> 00:53:14,240
+una serie e tutti sotto promemoria, fargli puntare anche lì a prima
+
+893
+00:53:14,400 --> 00:53:16,080
+Pro Memoria che abbiamo creato.
+
+894
+00:53:16,080 --> 00:53:21,360
+Quindi questa è un po' la fase sgogolata della creazione del sottopromemoria,
+
+895
+00:53:21,360 --> 00:53:25,280
+perché funzionano solo in questa maniera: ma di fatto solo avendo un
+
+896
+00:53:25,280 --> 00:53:29,520
+riferimento da parte di comandi di una variabile con il Pro Memoria
+
+897
+00:53:29,680 --> 00:53:33,760
+specifico, è possibile inserire dei sotto promemoria in quel Pro Memoria specifico.
+
+898
+00:53:33,760 --> 00:53:37,200
+Quindi, o si cerca il Pro Memoria o si genera il Pro
+
+899
+00:53:37,280 --> 00:53:40,560
+Memoria e tutti gli altri sotto promemoria vanno a puntare a quello
+
+900
+00:53:40,560 --> 00:53:40,720
+lì.
+
+901
+00:53:40,800 --> 00:53:45,600
+Questo poi vi permette veramente di aprire mondo a una strutturazione abbastanza
+
+902
+00:53:45,600 --> 00:53:51,760
+complicata anche dei Pro Memoria e ad automazione abbastanza avanzata.
+
+903
+00:53:51,760 --> 00:53:56,640
+Altro esempio interessante è quello di recuperare, per esempio, invece quando è
+
+904
+00:53:56,640 --> 00:54:01,520
+stata svolta una determinata attività, questo perché addirittura per creare dei report.
+
+905
+00:54:01,520 --> 00:54:06,720
+Immaginate che appunto dobbiate fare un report al cliente, ho depositato in
+
+906
+00:54:06,720 --> 00:54:08,320
+questa data la pratica edilizia.
+
+907
+00:54:08,320 --> 00:54:12,000
+Il comune mi ha risposto in questa data, mi ha chiesto queste
+
+908
+00:54:12,000 --> 00:54:17,200
+specificazioni, ho dato queste specificazioni, la pratica è stata autorizzata in tal
+
+909
+00:54:17,200 --> 00:54:17,600
+data.
+
+910
+00:54:17,600 --> 00:54:23,280
+Ovviamente facendolo tutta a pro memoria, pian pianino Roberto, che è il
+
+911
+00:54:23,280 --> 00:54:28,240
+tecnico del mio esempio, spunta le varie attività, e a fine della
+
+912
+00:54:28,240 --> 00:54:31,480
+posizione, dice: Io ho fatto questa roba, e l'ho fatta in questi
+
+913
+00:54:31,480 --> 00:54:31,960
+termini.
+
+914
+00:54:29,920 --> 00:54:32,760
+Questi sono i termini.
+
+915
+00:54:32,920 --> 00:54:36,920
+Ovviamente è possibile recuperare i singoli promemoria quindi il nome e il
+
+916
+00:54:36,920 --> 00:54:40,120
+titolo del singolo promemoria e eventualmente anche le note, se ci fosse
+
+917
+00:54:40,120 --> 00:54:44,120
+interessante, vedere quando è stato completato, quindi dire, ho fatto questo ed
+
+918
+00:54:44,120 --> 00:54:47,560
+è stato completato in questo momento a quest'ora o in questa data,
+
+919
+00:54:47,560 --> 00:54:52,440
+se non serve l'ora specifica, e di fatto creare un piccolo report.
+
+920
+00:54:52,440 --> 00:54:57,240
+Poi, ovviamente abbellendolo se c'è da abbellirlo, ma tutto generato in comandi
+
+921
+00:54:57,240 --> 00:54:57,800
+rapidi.
+
+922
+00:54:57,800 --> 00:55:04,440
+Un esempio giusto per darvi delle idee su anche livelli avanzati e
+
+923
+00:55:04,440 --> 00:55:11,000
+spesso volentieri utili perché continuo a ripetere, appunto, a volte poter andare
+
+924
+00:55:11,640 --> 00:55:16,040
+a sapere quando è stata fatta una cosa, diventa utile anche un
+
+925
+00:55:16,040 --> 00:55:18,280
+modo di documentare l'attività.
+
+926
+00:55:18,280 --> 00:55:24,280
+Ti vedo silenzioso, quindi sono stato bravissimo o ti ho lasciato basito,
+
+927
+00:55:24,440 --> 00:55:25,480
+non so quale.
+
+928
+00:55:25,480 --> 00:55:29,160
+Non ho niente da aggiungere, direi: sei stato più che completo.
+
+929
+00:55:29,160 --> 00:55:33,320
+Per cui io chiuderei velocemente con le novità invece.
+
+930
+00:55:33,320 --> 00:55:39,240
+Visto che questa puntata nasce a mezzo, tra virgolette, tra iOS 15
+
+931
+00:55:39,560 --> 00:55:39,880
+e
+
+932
+00:55:41,400 --> 00:55:44,440
+Monterey l'uscita del nuovo sistema operativo.
+
+933
+00:55:44,440 --> 00:55:49,800
+Ovviamente, se state ascoltando puntata nel futuro, probabilmente ci saranno ulteriori novità,
+
+934
+00:55:49,800 --> 00:55:54,520
+eventualmente più avanti faremo un recap nuovo se ci sono molte novità
+
+935
+00:55:54,680 --> 00:55:58,760
+o una puntata dedicata alle novità dell'applicazione Apple, vedremo.
+
+936
+00:55:58,760 --> 00:56:02,760
+Nel caso specifico temporale di questo momento, cosa uscirà a settembre del
+
+937
+00:56:02,760 --> 00:56:04,840
+2022, settembre-ottobre?
+
+938
+00:56:04,840 --> 00:56:06,960
+Perché adesso addirittura stanno.
+
+939
+00:56:06,960 --> 00:56:11,880
+Nel momento in cui stiamo registrando, stanno parlando che probabilmente uscirà solo
+
+940
+00:56:11,880 --> 00:56:17,920
+iOS 16, uscirà più tardi iPadOS 16 e presumibilmente ottobre-novembre costos
+
+941
+00:56:14,920 --> 00:56:18,480
+Ventura.
+
+942
+00:56:18,720 --> 00:56:24,560
+Se sono i movimenti standard di Apple, abbiamo innanzitutto gli elenchi smart
+
+943
+00:56:24,560 --> 00:56:27,440
+personalizzati, che devo dire che sono molto molto interessanti.
+
+944
+00:56:27,440 --> 00:56:30,320
+Sono una sorta di prospettive di omnifocus.
+
+945
+00:56:30,320 --> 00:56:35,040
+C'è la possibilità di creare appunto un elenco quindi un punto di
+
+946
+00:56:35,040 --> 00:56:39,520
+vista, una prospettiva, appunto in base a tutta una serie di parametri
+
+947
+00:56:39,520 --> 00:56:43,040
+e filtrare le attività in base a questi parametri.
+
+948
+00:56:43,040 --> 00:56:48,480
+Per esempio, può diventare interessante avere, non so, una prospettiva dove vedere
+
+949
+00:56:48,480 --> 00:56:51,280
+i Pro Memoria in scadenza nei prossimi sette giorni.
+
+950
+00:56:51,280 --> 00:56:54,080
+O addirittura, non so, i Pro Memoria già scaduti.
+
+951
+00:56:54,080 --> 00:56:57,680
+Quindi sapere dove siete in ritardo e cosa sta per arrivare.
+
+952
+00:56:57,680 --> 00:57:01,280
+Oppure, se avete, non so, in promemoria avete sia l'attività di casa
+
+953
+00:57:01,280 --> 00:57:02,400
+che l'attività di lavoro.
+
+954
+00:57:02,400 --> 00:57:07,760
+Se avete tag casa e tag lavoro, potete separare Pro Memoria scaduti
+
+955
+00:57:07,760 --> 00:57:10,640
+di casa e promemoria scaduti di lavoro.
+
+956
+00:57:10,640 --> 00:57:16,800
+E vedete come strutturare appunto prospettive e contesti differenti in base appunto
+
+957
+00:57:17,440 --> 00:57:18,640
+di circostanze.
+
+958
+00:57:18,640 --> 00:57:22,080
+I tag in questo caso, per esempio, possono diventare molto comodi.
+
+959
+00:57:22,080 --> 00:57:26,960
+Proprio perché casomai, appunto, io nella stessa attività, nella stessa promemoria posso
+
+960
+00:57:27,120 --> 00:57:28,400
+inserire tag diversi.
+
+961
+00:57:28,400 --> 00:57:31,440
+Quindi estrapolando solo i tag io posso vedere tutta una sera.
+
+962
+00:57:31,440 --> 00:57:34,160
+Per esempio, non so, sono a casa e voglio parlare con mia
+
+963
+00:57:34,160 --> 00:57:37,840
+moglie, ho un tag casa o un tag moglie, estrapolo tutti i
+
+964
+00:57:37,840 --> 00:57:42,080
+pro memoria che posso esaminare o discutere con mia moglie quando siamo
+
+965
+00:57:42,080 --> 00:57:42,640
+a casa.
+
+966
+00:57:42,640 --> 00:57:47,360
+Esempi banali, ma ovviamente pensate alle vostre esigenze e ai vostri.
+
+967
+00:57:47,360 --> 00:57:52,000
+Certo, diciamo che diventa quasi più vicino a un database, piuttosto che
+
+968
+00:57:52,000 --> 00:57:53,280
+a un pro memoria.
+
+969
+00:57:53,280 --> 00:57:57,200
+E questo è molto interessante perché il database è una delle parti
+
+970
+00:57:57,200 --> 00:57:59,960
+fondamentali di Notion che permette di avere delle viste.
+
+971
+00:57:59,200 --> 00:58:01,320
+Essenzialmente queste sono delle vis
+
+972
+00:57:59,600 --> 00:58:03,160
+te smart, quelle dotte
+
+973
+00:57:59,840 --> 00:58:07,320
+da Apple, e possono diventare davvero molto interessanti per questo strumento.
+
+974
+00:58:07,640 --> 00:58:12,360
+Poi abbiamo le note più dettagliate, chiamiamole così: cioè fino adesso si
+
+975
+00:58:12,360 --> 00:58:15,160
+potevano fare delle note semplici in testo semplice.
+
+976
+00:58:15,160 --> 00:58:20,440
+Adesso ho aggiunto la possibilità di fare linchi, personalizzare il testo, insomma,
+
+977
+00:58:20,440 --> 00:58:23,960
+mettere in grassetto credo sottolineato quelle cose lì.
+
+978
+00:58:23,960 --> 00:58:26,760
+Quindi avere delle note anche un po' più strutturate.
+
+979
+00:58:26,760 --> 00:58:28,920
+Disegnare con Apple Pencil no?
+
+980
+00:58:29,240 --> 00:58:29,960
+Ciao!
+
+981
+00:58:31,240 --> 00:58:35,480
+Diciamo che puoi fare sketch, tra virgolette, con note o comunque con
+
+982
+00:58:35,560 --> 00:58:38,920
+altro programma e poi incollarli l'immagine, quello puoi farlo.
+
+983
+00:58:38,920 --> 00:58:44,200
+Un'altra cosa interessante è avere i modelli da importare e da condividere.
+
+984
+00:58:44,200 --> 00:58:49,480
+Quindi, nella sostanza, è una via di mezzo tra comandi rapidi, chiamiamola
+
+985
+00:58:49,480 --> 00:58:53,240
+così, che può essere appunto un po' più fastidioso, diciamo per gli
+
+986
+00:58:53,240 --> 00:58:57,960
+utenti meno tecnologici o meno avvezzi a queste cose, è possibile creare,
+
+987
+00:58:57,960 --> 00:59:02,520
+non so, una lista, la lista della spesa tipica, farla diventare un
+
+988
+00:59:02,520 --> 00:59:07,000
+modello, e a quel punto lì condividere il modello, per esempio, quello
+
+989
+00:59:07,000 --> 00:59:10,600
+che serve per fare la torta di cioccolato e la condivido con
+
+990
+00:59:10,600 --> 00:59:14,280
+Roberto e sa, Roberto, sa esattamente se le importa nella sua lista
+
+991
+00:59:14,280 --> 00:59:17,480
+della spesa e può fare la spesa per la torta di cioccolato.
+
+992
+00:59:17,480 --> 00:59:21,240
+Oppure eventi ricorrenti, non so, cosa inserire in una valigia per andare
+
+993
+00:59:21,240 --> 00:59:24,760
+al mare in montagna, tutti gli indumenti che ti servono, puoi generare
+
+994
+00:59:24,760 --> 00:59:31,800
+velocemente queste liste, questi modelli, e quindi poi reimportare direttamente all'interno del
+
+995
+00:59:31,800 --> 00:59:32,360
+sistema.
+
+996
+00:59:32,360 --> 00:59:34,840
+Funziona bene, l'ho testato molto carinho.
+
+997
+00:59:35,000 --> 00:59:39,320
+Sembra qualcosa che si avvicina molto a notion, per intenderci, anche questo
+
+998
+00:59:39,320 --> 00:59:41,720
+dei modelli, avere delle liste
+
+999
+00:59:43,000 --> 00:59:43,960
+che tu ti
+
+1000
+00:59:44,960 --> 00:59:48,560
+compili, in modo tale che sai che sono delle cose che fai
+
+1001
+00:59:48,560 --> 00:59:51,440
+sempre, o perlomeno non fai tutti i giorni, ma magari lo fai
+
+1002
+00:59:51,440 --> 00:59:54,880
+a scadenza di un anno, come per esempio la lista
+
+1003
+00:59:56,480 --> 01:00:00,080
+delle cose da mettere in borsa per viaggiare, diventa anche questo un
+
+1004
+01:00:00,080 --> 01:00:04,800
+avvicinamento a quello che è l'utilizzo comune, ad esempio, di Notion: quello
+
+1005
+01:00:04,800 --> 01:00:11,680
+appunto di inserire delle procedure, le standard operation qualcos'altro, perché insomma è
+
+1006
+01:00:11,680 --> 01:00:14,880
+da un attimo che stiamo registrando un po' le idee confuse.
+
+1007
+01:00:14,880 --> 01:00:19,600
+Ma detto questo, comunque è interessante questo avvicinamento di Apple.
+
+1008
+01:00:19,600 --> 01:00:26,240
+Sicuramente l'avvicinamento già del sistema operativo verso questo tipo di intenzione, ovvero
+
+1009
+01:00:26,400 --> 01:00:32,000
+che non c'è bisogno di un'applicazione per fare l'enozione della tua personale
+
+1010
+01:00:32,000 --> 01:00:35,680
+vita, ma c'è bisogno di un sistema operativo perché così è ancora
+
+1011
+01:00:35,680 --> 01:00:36,800
+molto più integrato.
+
+1012
+01:00:36,800 --> 01:00:40,240
+Sicuramente le altre applicazioni che nascono bene o male come i funghi
+
+1013
+01:00:40,480 --> 01:00:44,400
+devono iniziare un po' a capire come riuscire a tenere
+
+1014
+01:00:45,680 --> 01:00:47,040
+il loro orticello.
+
+1015
+01:00:47,040 --> 01:00:52,160
+Perché qua Apple, come sempre, a cominciare a mangiuchiare anche negli altri
+
+1016
+01:00:52,160 --> 01:00:58,400
+orticelli, grazie all'inserimento di nuove funzionalità che essenzialmente possono fare anche morire
+
+1017
+01:00:58,400 --> 01:00:59,600
+certe applicazioni.
+
+1018
+01:00:59,680 --> 01:01:05,440
+Segnalo se siete interessati perché è una cosa a pagamento, ma che
+
+1019
+01:01:05,440 --> 01:01:06,880
+può essere di interesse.
+
+1020
+01:01:06,880 --> 01:01:12,400
+Se già vi piace, diciamo l'utilizzo di pro memoria.
+
+1021
+01:01:12,400 --> 01:01:18,880
+Esiste l'applicazione Good Task che in estrema sintesi, vi permette di potenziare.
+
+1022
+01:01:18,880 --> 01:01:21,680
+Funziona con l'infrastruttura di Pro Memoria.
+
+1023
+01:01:21,680 --> 01:01:26,400
+Quindi, di fatto genera Pro Memoria di Apple, si sovrappone, chiamiamola così,
+
+1024
+01:01:26,400 --> 01:01:30,680
+alla Pro Memoria e ovviamente vi dà delle funzioni più avanzate.
+
+1025
+01:01:30,000 --> 01:01:33,640
+Quindi, questo può essere un'altra soluzione interessante.
+
+1026
+01:01:33,800 --> 01:01:36,040
+Quali sono i pro di Pro Memoria?
+
+1027
+01:01:36,040 --> 01:01:41,640
+Innanzitutto, sicuramente di base del sistema operativo, la trovate senza problemi se
+
+1028
+01:01:41,640 --> 01:01:43,640
+siete nell'ecosist.
+
+1029
+01:01:43,640 --> 01:01:48,280
+Sicuramente semplice da usare, ma nella parte base.
+
+1030
+01:01:48,280 --> 01:01:53,000
+Ma ovviamente se volete un approccio un po' più elevato, effettivamente mi
+
+1031
+01:01:53,000 --> 01:01:55,960
+ha stupito e può fare delle cose interessanti.
+
+1032
+01:01:56,120 --> 01:01:59,960
+Contro, per fare cose complesse è necessaria l'automazione.
+
+1033
+01:02:00,120 --> 01:02:03,720
+All'80-90% dovete sporcarvi le mani con comandi rapidi.
+
+1034
+01:02:03,720 --> 01:02:08,120
+Che non è una brutta cosa, ma diciamo può non essere per
+
+1035
+01:02:08,120 --> 01:02:09,080
+tutti.
+
+1036
+01:02:09,080 --> 01:02:15,640
+E vabbè, se siete proprio super lanciati su Mac potete utilizzare anche
+
+1037
+01:02:15,640 --> 01:02:16,760
+Apple Script.
+
+1038
+01:02:16,760 --> 01:02:21,000
+Tuttavia, non so, questo forse non è il futuro, ecco, mettiamola così.
+
+1039
+01:02:21,320 --> 01:02:24,920
+Per cui per chi è pro memoria, diciamo sicuramente per l'utente alle
+
+1040
+01:02:24,920 --> 01:02:28,920
+prime anni o medio, giusto per dare un'idea, non ha troppe esigenze,
+
+1041
+01:02:28,920 --> 01:02:34,120
+50, 30, 50 attività da tenere a traccia abitualmente.
+
+1042
+01:02:34,440 --> 01:02:39,720
+Ma se si vuole approfondire le automazioni, è possibile, secondo me, anche
+
+1043
+01:02:39,720 --> 01:02:46,040
+utilizzare un utente avanzato sopra per intenderci le 100 attività da gestire.
+
+1044
+01:02:46,040 --> 01:02:50,440
+Io abitualmente sono ben oltre questo numero, ma devo dire la verità:
+
+1045
+01:02:50,440 --> 01:02:58,520
+con questo approfondimento, se originariamente avevo molte perplessità su ProMemoria, VTC utilizza
+
+1046
+01:02:58,680 --> 01:03:00,360
+abitualmente Pro Memoria.
+
+1047
+01:03:00,360 --> 01:03:04,640
+Però, per esempio, lui ha un'attività, tra virgolette, relativamente semplice, cioè nel
+
+1048
+01:03:04,680 --> 01:03:07,080
+senso, è un'attività editoriale, chiamiamola così.
+
+1049
+01:03:07,080 --> 01:03:09,720
+Quindi devi scrivere articoli e gestire tutta una serie di cose.
+
+1050
+01:03:09,720 --> 01:03:14,200
+Però non sono cose clamorose solitamente a dei progetti che nascono e
+
+1051
+01:03:14,200 --> 01:03:17,120
+muoiono, sono abbastanza rapidi, non so se mi spiego.
+
+1052
+01:03:14,920 --> 01:03:19,920
+Mi aveva sempre lasciato un po' intardetto.
+
+1053
+01:03:20,000 --> 01:03:24,480
+Dice, la mia attività personale, per esempio, è molto più complessa proprio
+
+1054
+01:03:24,480 --> 01:03:29,280
+perché ho spesso e volentieri, 20, 30, 40 anche progetti contemporaneamente che
+
+1055
+01:03:29,280 --> 01:03:34,880
+vanno avanti per lungo periodo di tempo, e quindi in queste situazioni
+
+1056
+01:03:34,880 --> 01:03:37,440
+un dubbio o due mi vengono.
+
+1057
+01:03:37,440 --> 01:03:41,120
+Anche perché spesso volentieri poi sono progetti, non c'è da fare una
+
+1058
+01:03:41,120 --> 01:03:44,000
+cosa, due cose, ma ci sono 20, 30, 40 cose.
+
+1059
+01:03:44,000 --> 01:03:48,480
+Il progetto da fare, quindi ovviamente tutto cresce esponenzialmente.
+
+1060
+01:03:48,480 --> 01:03:51,520
+Però devo dire la verità: con quello che ho visto, non so
+
+1061
+01:03:51,520 --> 01:03:54,880
+se ne avrò la voglia, mettiamola così, ma sicuramente per chi non
+
+1062
+01:03:54,880 --> 01:03:59,120
+vuole ancora investire su prodotti a pagamento e comunque vuole un po'
+
+1063
+01:03:59,120 --> 01:04:03,840
+sporcarsi le mani con comandi rapidi e diciamo crearsi una specie di
+
+1064
+01:04:03,840 --> 01:04:08,640
+applicazione fatta su misura, ecco, Pro Memoria sicuramente ha tutta una serie
+
+1065
+01:04:08,640 --> 01:04:11,840
+di possibilità che vanno, secondo me, approfondite.
+
+1066
+01:04:11,840 --> 01:04:12,880
+Vi potrebbe stupire.
+
+1067
+01:04:12,880 --> 01:04:17,520
+Io sono convinto che con il rilascio di iOS barra iPadOS
+
+1068
+01:04:17,520 --> 01:04:21,520
+16, le cose si faranno ancora molto più sugose, interessanti.
+
+1069
+01:04:21,520 --> 01:04:26,800
+Magari chi lo sa, faremo un approfondimento ulteriore su non tanto sulle
+
+1070
+01:04:26,800 --> 01:04:29,280
+novità inserite, ma più che altro sugli sviluppi.
+
+1071
+01:04:29,280 --> 01:04:36,160
+Quello potrebbe essere interessante perché, come sapete, internet è grande e sicuramente
+
+1072
+01:04:36,160 --> 01:04:40,320
+c'è qualcuno oltre a VTC che si inventerà un sacco di cose
+
+1073
+01:04:40,320 --> 01:04:42,800
+con le possibilità offerte da ProME.
+
+1074
+01:04:42,880 --> 01:04:45,440
+Io direi che per questa puntata è tutto.
+
+1075
+01:04:45,440 --> 01:04:50,160
+L'approfondimento è stato più che ottimo, come sempre, grazie al buon Filippo.
+
+1076
+01:04:50,160 --> 01:04:53,920
+Trovate come sempre le note dell'episodio con il link degli argomenti che
+
+1077
+01:04:53,920 --> 01:04:57,880
+abbiamo trattato in questa puntata e tutti i nostri riferimenti su a
+
+1078
+01:04:57,880 --> 01:04:59,280
+due podcast.it
+
+1079
+01:05:00,360 --> 01:05:03,720
+42 dove ci potete trovare 41.
+
+1080
+01:05:03,720 --> 01:05:07,000
+Nella regione, vi comincio già a barcollare con la vista.
+
+1081
+01:05:07,000 --> 01:05:08,440
+Dove ci potete trovare?
+
+1082
+01:05:08,440 --> 01:05:12,440
+Ci potete trovare il sottoscritto nel mio blog personale che si chiama
+
+1083
+01:05:12,440 --> 01:05:14,040
+Mac e Architettura.
+
+1084
+01:05:14,360 --> 01:05:18,600
+Potete trovare all'indirizzo marchdonnet.wordpress.com.
+
+1085
+01:05:18,600 --> 01:05:22,600
+Se invece volete ascoltare la mia tremenda voce, potete andare ad ascoltare
+
+1086
+01:05:22,600 --> 01:05:25,880
+il podc settimanale Snap Architettura Imperfetta.
+
+1087
+01:05:25,880 --> 01:05:29,480
+Che potete trovare bene o male su tutte le piattaforme di podcast.
+
+1088
+01:05:29,480 --> 01:05:33,720
+Poi mi potete trovare anche con gli articoli che scrivo per il
+
+1089
+01:05:33,720 --> 01:05:37,800
+blog di Grafisoft Italia che riguarda essenzialmente il BIM, che è uno
+
+1090
+01:05:37,800 --> 01:05:38,440
+strumento.
+
+1091
+01:05:38,440 --> 01:05:41,640
+Chi fa architettura per chi progetta.
+
+1092
+01:05:41,640 --> 01:05:45,320
+E poi nel corso di settembre, molto probabilmente, ci saranno altre novità
+
+1093
+01:05:45,400 --> 01:05:47,320
+che poi ne parleremo più avanti.
+
+1094
+01:05:47,320 --> 01:05:50,120
+Invece, il nostro simpatico Filippo, dove lo troviamo?
+
+1095
+01:05:50,120 --> 01:05:54,840
+Lo trovate su Avocatemac.it e siccome Roberto rompere sempre le scatole, anche
+
+1096
+01:05:55,000 --> 01:06:01,960
+su Mensilmente, Avocate Mac Compendium, che è il podcast dell'omonimo sito web.
+
+1097
+01:06:01,960 --> 01:06:05,800
+Perfetto, ora non mi rimane che mettervi il promemoria perché ci sentiamo
+
+1098
+01:06:05,800 --> 01:06:06,840
+tra due settimane.
+
+1099
+01:06:06,840 --> 01:06:07,640
+Alla prossima!
+
+1100
+01:06:07,640 --> 01:06:08,120
+Ciao!

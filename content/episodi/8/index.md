@@ -11,7 +11,7 @@ tags = ["backup", "sicurezza", "macos", "storage", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "9L5K_jdat34"
 +++
 
@@ -26,7 +26,7 @@ Se volete **supportare il podcast** vi chiediamo con il cuore di fare una **rece
 
 Se volete sapere come fare una recensione trovate il [link qui](https://www.avvocati-e-mac.it/podcast/itunes).
 
-# Note episodio
+## Note episodio
 
 ## 1. macOS
 

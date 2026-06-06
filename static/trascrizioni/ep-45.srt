@@ -1,0 +1,4083 @@
+1
+00:00:00,000 --> 00:00:04,720
+Benvenuti all'episodio 45 di A2, in cui scoprire come ottenere il massimo
+
+2
+00:00:04,720 --> 00:00:06,240
+della vostra tecnologia Apple.
+
+3
+00:00:06,240 --> 00:00:09,280
+Io sono Roberto Marin e sono il nostro ospite assieme all'amico Filippo
+
+4
+00:00:09,440 --> 00:00:10,080
+Strozzi.
+
+5
+00:00:10,080 --> 00:00:13,280
+Di cosa parliamo in questa puntata, caro il mio amico Filippo?
+
+6
+00:00:13,440 --> 00:00:18,240
+Allora, parliamo di una cosa, cara Roberto, qui anche ha scritto un
+
+7
+00:00:18,240 --> 00:00:25,600
+articolo che ovviamente sarà citato rigorosamente nelle note dell'episodio, ovvero il minimalismo
+
+8
+00:00:25,600 --> 00:00:28,400
+con iPhone e iPad.
+
+9
+00:00:28,400 --> 00:00:34,080
+Io ho preso dallo spunto dell'articolo di Roberto, poi ho fatto un
+
+10
+00:00:34,080 --> 00:00:35,200
+po' di approfondimenti.
+
+11
+00:00:35,360 --> 00:00:40,480
+A fondo puntata vi racconterò anche le mie peripezie e il mio
+
+12
+00:00:40,480 --> 00:00:45,360
+approccio odierno a dire la verità, quindi ancora molto grezzo.
+
+13
+00:00:45,360 --> 00:00:50,560
+Tuttavia novità, diciamo, di iPadOS e quindi anche di iOS 16.
+
+14
+00:00:50,560 --> 00:00:55,120
+Apro chi una parentesi mentre noi stiamo registrando, è appena uscito iOS
+
+15
+00:00:55,200 --> 00:00:59,840
+16 e probabilmente quando state ascoltando questa puntata che sarà pubblicata a
+
+16
+00:00:59,840 --> 00:01:03,600
+fine ottobre, se non la state seguendo live come sta facendo il
+
+17
+00:01:03,600 --> 00:01:05,280
+nostro caro amico Daniele.
+
+18
+00:01:05,280 --> 00:01:10,000
+Che ringraziamo, e con le nostre faccione in diretta ci sarà probabilmente
+
+19
+00:01:10,080 --> 00:01:14,320
+perché non si sa ancora la data di uscita di iPadOS, ma
+
+20
+00:01:14,320 --> 00:01:16,160
+sarà disponibile anche iPadOS.
+
+21
+00:01:16,160 --> 00:01:21,520
+Quindi teoricamente, quello che vi racconterò oggi a fine puntata potrete farlo
+
+22
+00:01:21,520 --> 00:01:22,080
+anche voi.
+
+23
+00:01:22,080 --> 00:01:22,880
+Esattamente.
+
+24
+00:01:22,880 --> 00:01:26,240
+Io in realtà non ho scritto solo un articolo a riguardo, ma
+
+25
+00:01:26,240 --> 00:01:30,400
+ben due: addirittura il primo che si chiama appunto iPadOS modalità
+
+26
+00:01:30,400 --> 00:01:35,840
+produttiva, e poi c'è la seconda parte che si chiama iPadOS
+
+27
+00:01:36,080 --> 00:01:38,000
+Home Page minimale.
+
+28
+00:01:38,000 --> 00:01:38,800
+Questo perché?
+
+29
+00:01:38,800 --> 00:01:41,280
+Perché mi sono fatto prendere in realtà un po' la mano.
+
+30
+00:01:41,280 --> 00:01:46,560
+Sono partito dalla modalità produttiva che diciamo parte da un assunto, diciamo,
+
+31
+00:01:46,560 --> 00:01:51,920
+ovvero che l'iPad è veramente uno strumento molto importante, nel senso che
+
+32
+00:01:51,920 --> 00:01:54,960
+non solo nella mia vita professionale, ma ad esempio anche quella di
+
+33
+00:01:54,960 --> 00:01:58,880
+Filippo, è un ottimo strumento lavorativo, ma anche per altri tanti altri
+
+34
+00:01:58,880 --> 00:02:04,360
+professionisti, e con Apple Pencil diventa ovviamente insostituibile, soprattutto di chi si
+
+35
+00:02:04,360 --> 00:02:08,040
+occupa di lavori creativi, tra cui anche il mio.
+
+36
+00:02:08,040 --> 00:02:12,680
+Tuttavia il problema grosso è che è una forte componente ludica e
+
+37
+00:02:12,680 --> 00:02:17,000
+comunicativa, che ovviamente quando si lavora bisogna cercare di tenere un po'
+
+38
+00:02:17,000 --> 00:02:19,160
+a bada per non esserne travolti.
+
+39
+00:02:19,160 --> 00:02:23,640
+Chiaramente sarebbe tutto bello se lavorassimo in un ambiente molto ludico e
+
+40
+00:02:23,640 --> 00:02:29,000
+molto comunicativo, in modo tale da poter sfruttare completamente le capacità di
+
+41
+00:02:29,000 --> 00:02:34,680
+iPad, ma può capitare spesso e volentieri che essere bombardati continuamente da
+
+42
+00:02:34,920 --> 00:02:39,560
+email, notifiche, messaggi e chi più ne ha ne metta non è
+
+43
+00:02:39,560 --> 00:02:42,040
+proprio il massimo per rimanere concentrati.
+
+44
+00:02:42,040 --> 00:02:47,000
+Sapete benissimo che la concentrazione è un nostro punto di forza.
+
+45
+00:02:47,000 --> 00:02:50,600
+Qua che stiamo cercando di comunicare su A2 Podcast, potete vedere
+
+46
+00:02:50,600 --> 00:02:55,400
+ormai se mangiare la puntata 45, ne abbiamo parlato e straparlato di
+
+47
+00:02:55,400 --> 00:03:01,560
+come rimanere concentrati, di come limitare i fastidi, diciamo, della vita quotidiana.
+
+48
+00:03:01,960 --> 00:03:07,160
+Non è tanto bello essere continuamente interrotti, come è capitato poc'anzi, ma
+
+49
+00:03:07,160 --> 00:03:10,440
+solo chi è nella diretta potrà capire da cosa mi riferisco.
+
+50
+00:03:10,680 --> 00:03:16,760
+Diciamo che questa tipologia di funzioni di ammorbidire le interruzioni quando si
+
+51
+00:03:16,760 --> 00:03:20,120
+lavora, è disponibile anche in macOS Monterey.
+
+52
+00:03:20,120 --> 00:03:24,840
+Ma ovviamente io, essendo uno scappato di casa doc, non ho ancora
+
+53
+00:03:24,840 --> 00:03:29,640
+potuto provarla perché seguo la strategia di usare il sistema operativo precedente
+
+54
+00:03:29,640 --> 00:03:33,720
+all'ultima versione disponibile per avere la maggior stabilità sulla macchina di produzione.
+
+55
+00:03:33,720 --> 00:03:39,960
+Filippo prima diceva che è uscito iOS 16, non ancora iPadOS
+
+56
+00:03:39,960 --> 00:03:41,960
+16 mentre stiamo registrando.
+
+57
+00:03:41,960 --> 00:03:44,440
+Io probabilmente lo installerò il prossimo mese.
+
+58
+00:03:44,440 --> 00:03:47,840
+Se tutto va bene sui miei dispositivi o se no, aspetto ancora
+
+59
+00:03:47,840 --> 00:03:48,240
+un po'.
+
+60
+00:03:44,920 --> 00:03:50,480
+Tendenzialmente aspetto quando mi viene la notifica.
+
+61
+00:03:50,560 --> 00:03:53,520
+Comunque, ognuno è libero di fare un po' come meglio crede, c'è
+
+62
+00:03:53,520 --> 00:03:57,600
+qualcuno che installa anche le beta sui propri sistemi produttivi.
+
+63
+00:03:57,600 --> 00:04:00,960
+Questa è una cosa che sia io che Filippo sconsigliamo caldamente.
+
+64
+00:04:00,960 --> 00:04:05,600
+Perché purtroppo se usate questi sistemi per la produzione, non dovete essere
+
+65
+00:04:05,600 --> 00:04:06,480
+bloccati.
+
+66
+00:04:06,480 --> 00:04:11,920
+In questo, diciamo, in questo argomento della puntata di oggi, ovviamente, andiamo
+
+67
+00:04:11,920 --> 00:04:18,160
+a vedere appunto come mantenere l'iPad produttivo grazie a alcune capacità come
+
+68
+00:04:18,160 --> 00:04:22,960
+quelle introdotte da Apple con full immersion e i comandi rapidi.
+
+69
+00:04:22,960 --> 00:04:27,040
+Ovviamente, tutto questo può essere assistito anche dai widget per fare un
+
+70
+00:04:27,040 --> 00:04:32,800
+passaggio, diciamo, molto veloce degli ambienti che cercheremo di creare per rendere
+
+71
+00:04:32,800 --> 00:04:34,560
+il sistema più produttivo.
+
+72
+00:04:34,560 --> 00:04:38,960
+Questo magari lo spiego magari più avanti, visto che comunque ho scritto
+
+73
+00:04:38,960 --> 00:04:43,200
+un articolo, magari lascio un attimo la parola a Filippo, che invece
+
+74
+00:04:43,440 --> 00:04:49,200
+parla di cose un po' più interessanti e main stream, come la
+
+75
+00:04:49,200 --> 00:04:51,200
+definizione di minimalismo.
+
+76
+00:04:51,200 --> 00:04:53,600
+L'idea di fondo, visto che è il nome della puntata, abbiamo già
+
+77
+00:04:53,600 --> 00:04:58,000
+fatto una puntata sul chiamiamolo così minimalismo su macOS.
+
+78
+00:04:58,000 --> 00:05:01,200
+Quindi come rendere minimalista my co
+
+79
+00:05:03,680 --> 00:05:09,200
+alizzando le scalette varie degli episodi, abbiamo pensato anche di, visto che Roberto
+
+80
+00:05:09,200 --> 00:05:14,080
+aveva fatto questo articolo, di fare anche una puntata dedicata ai OS
+
+81
+00:05:14,240 --> 00:05:15,120
+e ai PADOS.
+
+82
+00:05:15,200 --> 00:05:19,040
+Mi sembrava utile prima di entrare nel vivo e di darvi tutta
+
+83
+00:05:19,040 --> 00:05:22,240
+una serie di esempi di cose che si possono fare per cercare
+
+84
+00:05:22,240 --> 00:05:27,920
+di ottimizzare, creare un ambiente meno distratto e comunque complesso, diciamo per
+
+85
+00:05:27,920 --> 00:05:28,720
+lavorare.
+
+86
+00:05:28,720 --> 00:05:30,760
+Cosa intendiamo per minimalismo?
+
+87
+00:05:30,760 --> 00:05:36,440
+Anche perché sì, il termine, diciamo, dà un'idea, ma casomai è meglio
+
+88
+00:05:36,440 --> 00:05:37,000
+precisare.
+
+89
+00:05:37,240 --> 00:05:40,920
+È un po' abusato, è un po' abusato, anche esatto, esatto, esatto.
+
+90
+00:05:40,920 --> 00:05:45,880
+E infatti iPhone e iPad, diciamo, sono potenziali anzi, sono strumenti di
+
+91
+00:05:45,880 --> 00:05:51,640
+distrazione, soprattutto se si usano applicazioni social piuttosto che di messaggistica e
+
+92
+00:05:51,640 --> 00:05:52,440
+quant'altro.
+
+93
+00:05:52,440 --> 00:05:55,160
+Quindi, l'idea di fondo è quella, appunto.
+
+94
+00:05:55,800 --> 00:06:01,480
+Nell'ottica di minimalismo, di utilizzare poche applicazioni, poche strumenti, ma in modo
+
+95
+00:06:01,480 --> 00:06:07,720
+corretto e funzionale per stare avanti il proprio lavoro, portare avanti quello
+
+96
+00:06:07,720 --> 00:06:09,880
+che si sta, che si vuole fare.
+
+97
+00:06:09,880 --> 00:06:16,120
+Quindi, il ragionamento di fondo, appunto, per definire minimalismo, è utilizzare solo
+
+98
+00:06:16,120 --> 00:06:19,720
+quello che è essenziale e ridurre appunto la confusione.
+
+99
+00:06:19,720 --> 00:06:24,680
+Per cui questo è il tentativo, diciamo, sono gli stratagemmi che cercheremo
+
+100
+00:06:24,680 --> 00:06:25,480
+di proporvi.
+
+101
+00:06:25,480 --> 00:06:30,120
+Come il nostro Filippo sta cercando di spiegare, il minimalismo digitale, possiamo
+
+102
+00:06:30,120 --> 00:06:35,080
+anche introdurlo grazie a un libro che mi ha fatto conoscere Filippio,
+
+103
+00:06:35,080 --> 00:06:39,800
+che è quello di Carl Newport, Digital Minimalist, che veramente è molto,
+
+104
+00:06:40,040 --> 00:06:44,520
+diciamo, molto duro sotto questo aspetto, nel senso che, leggendo il libro,
+
+105
+00:06:44,520 --> 00:06:50,680
+vi spiega essenzialmente che la nostra vita, in effetti, è fatta, anzi,
+
+106
+00:06:50,680 --> 00:06:55,880
+la nostra vita deve fare i conti con degli strumenti che richiedono
+
+107
+00:06:55,880 --> 00:06:57,880
+continuamente la nostra attenzione.
+
+108
+00:06:57,880 --> 00:07:02,840
+E questo non è un bene perché uno vi succhiano del tempo
+
+109
+00:07:02,840 --> 00:07:07,080
+e delle risorse, che potete impiegare in qualcosa di decisamente migliore.
+
+110
+00:07:07,080 --> 00:07:12,040
+La cosa interessante è che all'interno di questo libro viene proprio spiegato
+
+111
+00:07:12,040 --> 00:07:18,400
+come fare una dieta essenzialmente informatica, chiamiamola così, per cercare di arrivare
+
+112
+00:07:18,400 --> 00:07:24,960
+a qualcosa di molto interessante che appunto il minimalismo digitale, ovvero arrivare
+
+113
+00:07:24,960 --> 00:07:30,480
+a qualcosa che non è un semplice, diciamo, non è una semplice
+
+114
+00:07:30,480 --> 00:07:33,280
+moda, ma è qualcosa di veramente ragionato.
+
+115
+00:07:33,280 --> 00:07:37,440
+Nel senso che io per primo, magari faccio un esempio, sull'iPad ho
+
+116
+00:07:37,440 --> 00:07:40,240
+tre applicazioni che fanno essenzialmente la stessa cosa.
+
+117
+00:07:40,240 --> 00:07:44,480
+Magari la fanno un po' diversa, magari hanno delle cose in più
+
+118
+00:07:44,480 --> 00:07:45,440
+e in meno.
+
+119
+00:07:45,440 --> 00:07:51,200
+Ma quello che vi stimola e vi rende cerca di farvi capire
+
+120
+00:07:51,200 --> 00:07:54,640
+questo libro è che possono andare bene tutti e tre, ma per
+
+121
+00:07:54,640 --> 00:07:58,880
+il vostro benessere dovete cercare di capire quali di queste tre applicazioni,
+
+122
+00:07:58,880 --> 00:08:01,040
+ad esempio, è quella che fa il caso vostro.
+
+123
+00:08:01,040 --> 00:08:04,240
+Nel mio caso, io seguendo i consigli di questo libro, ho capito
+
+124
+00:08:04,240 --> 00:08:08,320
+qual era la differenza sostanziale per il mio lavoro di queste tre
+
+125
+00:08:08,320 --> 00:08:12,640
+applicazioni e tant'è vero che le altre due applicazioni piano piano le
+
+126
+00:08:12,640 --> 00:08:13,520
+sto abbandonando.
+
+127
+00:08:13,520 --> 00:08:14,880
+Cosa vuol dire questo?
+
+128
+00:08:14,880 --> 00:08:19,040
+Che la mia mente non deve pensare a quello che devo fare,
+
+129
+00:08:19,040 --> 00:08:20,400
+con cosa lo faccio.
+
+130
+00:08:20,400 --> 00:08:24,160
+Lo faccio con quello perché so già, è stata una scelta a
+
+131
+00:08:24,160 --> 00:08:29,760
+monte che mi ha permesso di arrivare all'obiettivo senza perdere tempo e
+
+132
+00:08:30,000 --> 00:08:30,960
+dritti al punto.
+
+133
+00:08:30,960 --> 00:08:35,280
+Cioè, nel senso, non sono distratto, so che uso quell'applicazione, non vado
+
+134
+00:08:35,280 --> 00:08:39,840
+a pensare se usassi quel, magari potrei fare qualcosa di diverso oppure
+
+135
+00:08:39,840 --> 00:08:41,520
+potrei essere più facilitato.
+
+136
+00:08:41,520 --> 00:08:46,760
+Facendo un attimo, in realtà dice di un mese di dieta digitale,
+
+137
+00:08:46,720 --> 00:08:47,920
+che è veramente tanto.
+
+138
+00:08:48,080 --> 00:08:50,880
+Nel senso, io non so chi possa fare una cosa del genere.
+
+139
+00:08:50,960 --> 00:08:55,200
+Forse Filippo l'ha fatto mentre era su in montagna, ma francamente io
+
+140
+00:08:55,200 --> 00:08:58,800
+non ce la farei perché con i miei dispositivi essenzialmente ci vivo,
+
+141
+00:08:58,800 --> 00:09:02,360
+mi comunico, mi informo e ci lavoro
+
+142
+00:09:03,640 --> 00:09:07,640
+quindi non riuscirei a stare un mese senza questi strumenti, perché purtroppo
+
+143
+00:09:07,720 --> 00:09:09,400
+non riuscirei a fare diversamente.
+
+144
+00:09:09,720 --> 00:09:15,480
+Conseguentemente, questo aspetto è molto importante nella nostra vita lavorativa e quindi
+
+145
+00:09:15,480 --> 00:09:18,360
+vi consiglio prima di tutto di leggere questo libro.
+
+146
+00:09:18,360 --> 00:09:23,960
+Perché, come dicevo, ha consigliato di fare un mese di dieta digitale,
+
+147
+00:09:23,960 --> 00:09:28,280
+cosa che per me è impossibile, come spiegavo prima, perché ci lavoro
+
+148
+00:09:28,280 --> 00:09:31,720
+con questi dispositivi quindi per me è impossibile.
+
+149
+00:09:31,720 --> 00:09:34,840
+Però vi basta anche una settimana, secondo me.
+
+150
+00:09:34,840 --> 00:09:38,120
+Nel senso che una settimana incominciate già a sforbicciare un bel po'
+
+151
+00:09:38,120 --> 00:09:38,520
+di cose.
+
+152
+00:09:38,520 --> 00:09:41,480
+Perché una volta che riprendete il dispositivo, incominciate a dire: Ma io
+
+153
+00:09:41,480 --> 00:09:45,480
+questo non me ne faccio niente, non ho sentito l'esigenza, sentite proprio
+
+154
+00:09:45,480 --> 00:09:49,720
+la diversa richiesta di quello che è nel vostro lavoro ciò che
+
+155
+00:09:49,720 --> 00:09:50,280
+vi serve.
+
+156
+00:09:50,280 --> 00:09:52,200
+E questo è importantissimo, secondo me.
+
+157
+00:09:52,200 --> 00:09:57,080
+Comunque detto questo, andatevelo a leggere, sicuramente vi spiegherà molto più in
+
+158
+00:09:57,080 --> 00:10:01,240
+dettaglio ciò che stiamo cercando di condensare in questa puntata.
+
+159
+00:10:01,240 --> 00:10:03,000
+Due piccole precisazioni.
+
+160
+00:10:03,000 --> 00:10:08,120
+Se non ricordo male, adesso esiste anche la versione in lingua italiana
+
+161
+00:10:08,120 --> 00:10:10,280
+di minimalismo digitale.
+
+162
+00:10:10,520 --> 00:10:13,800
+E quindi, se tutto va bene, poi vi troverete i link nelle
+
+163
+00:10:13,800 --> 00:10:14,920
+note dell'episodio.
+
+164
+00:10:14,920 --> 00:10:20,360
+L'idea di fondo di Kal è più legata nel caso specifico ai
+
+165
+00:10:20,360 --> 00:10:26,360
+social media, quindi al togliere qualcosa che non è essenziale, già a
+
+166
+00:10:26,360 --> 00:10:27,240
+prescindere.
+
+167
+00:10:27,480 --> 00:10:32,440
+Sicuramente, però, che è un approccio poi simile ad altri approcci, chiamiamoli
+
+168
+00:10:32,440 --> 00:10:33,480
+così, minimalisti.
+
+169
+00:10:33,480 --> 00:10:37,480
+Per esempio, io ho visto un documentario sempre sul minimalismo non digitale,
+
+170
+00:10:37,480 --> 00:10:41,400
+ma proprio fisico, un'idea che effettivamente ha un sostegno logico, anche se
+
+171
+00:10:41,400 --> 00:10:46,320
+non è penso per tutti, in casa è quella di inscatolare tutto,
+
+172
+00:10:46,480 --> 00:10:51,280
+mettere tutto nelle scatole, è come se doveste fare un trasloco e
+
+173
+00:10:51,280 --> 00:10:56,400
+solo quando vi serve una determinata cosa, tirarla fuori dalla scatola dove
+
+174
+00:10:56,400 --> 00:11:00,880
+l'avete riposta, diciamo, lo scatolone dove l'avete riposta, e in questo caso
+
+175
+00:11:01,040 --> 00:11:05,040
+diventa un oggetto, chiamiamolo così, essenziale.
+
+176
+00:11:05,040 --> 00:11:09,920
+L'idea di fondo che approcceremo, la modalità di approccio sarà un po'
+
+177
+00:11:09,920 --> 00:11:15,200
+simile, almeno in alcuni punti, a questa, anche se meno estremista, chiamiamolo
+
+178
+00:11:15,200 --> 00:11:19,360
+così, perché l'idea di fondo è proprio quello: cioè spesso e volentieri,
+
+179
+00:11:19,360 --> 00:11:24,320
+soprattutto sull'app store, abbiamo milioni di applicazioni che fanno più o meno
+
+180
+00:11:24,320 --> 00:11:28,480
+tutte la stessa cosa, o comunque sono classi di applicazioni che fanno
+
+181
+00:11:28,480 --> 00:11:32,160
+cose molto simili, a volte sono gratuite, a volte sono a pagamento,
+
+182
+00:11:32,160 --> 00:11:37,280
+a volte sono in abbonamento e spesso e volentieri ci si trova
+
+183
+00:11:37,280 --> 00:11:40,960
+anche con chiamiamo così dei doppioni o anche applicazioni che si sono
+
+184
+00:11:40,960 --> 00:11:44,000
+scaricate, ma che poi alla fine non si sono mai utilizzate.
+
+185
+00:11:44,000 --> 00:11:48,880
+Ecco, l'idea di fondo, anche di minimalismo, chiamiamo così digitale, è quello
+
+186
+00:11:49,520 --> 00:11:52,720
+di vedere cosa si utilizza e cosa no, e
+
+187
+00:11:53,920 --> 00:11:55,120
+pulire il sistema.
+
+188
+00:11:55,360 --> 00:11:58,080
+Una delle cose che non ho mai fatto, ma che sono a
+
+189
+00:11:58,080 --> 00:12:03,360
+tanto così da fare è quello di, per esempio, cancellare l'intero iPhone
+
+190
+00:12:03,520 --> 00:12:06,240
+che ormai si trascina da
+
+191
+00:12:07,280 --> 00:12:08,880
+anni, sì, esatto.
+
+192
+00:12:08,880 --> 00:12:14,480
+E partire con un'installazione fresca, cosa che effettivamente, mentre su Mac è
+
+193
+00:12:14,480 --> 00:12:19,120
+abbastanza così, semplice da fare, su iPhone e su iPad è un
+
+194
+00:12:19,120 --> 00:12:22,720
+po' meno è un po' meno semplice per tutta una serie di
+
+195
+00:12:22,720 --> 00:12:23,280
+motivi.
+
+196
+00:12:23,440 --> 00:12:29,560
+Tuttavia, questo avrebbe il vantaggio, diciamo, di fare appunto quel generale ripulisti,
+
+197
+00:12:29,440 --> 00:12:34,040
+dove effettivamente, quando ci si accorsa di non avere un'applicazione chiamiamo così
+
+198
+00:12:34,200 --> 00:12:38,760
+essenziale o comunque che ci serve, la scarichiamo altrimenti, tutto il resto
+
+199
+00:12:38,760 --> 00:12:43,000
+andiamo avanti, chiamiamola così, con le applicazioni di sistema o comunque con
+
+200
+00:12:43,000 --> 00:12:48,200
+quelle applicazioni che per noi sono indispensabili e sappiamo che non possiamo
+
+201
+00:12:48,200 --> 00:12:48,840
+farne a meno.
+
+202
+00:12:49,240 --> 00:12:53,640
+Appunto, in questo approccio se non volete fare questo approccio che è
+
+203
+00:12:53,640 --> 00:12:57,320
+un po' eccessivo, forse da un certo punto di vista, e comunque
+
+204
+00:12:57,320 --> 00:12:59,480
+in determinate situazioni, ovviamente vi può.
+
+205
+00:12:59,480 --> 00:13:03,160
+Se non avete un sistema di backup o comunque un sistema dove
+
+206
+00:13:03,480 --> 00:13:06,920
+i vostri dati sono altrove rispetto al telefono, per esempio.
+
+207
+00:13:06,920 --> 00:13:10,760
+E quindi se fate un ripristino da zero, è ovvio che perdete
+
+208
+00:13:10,760 --> 00:13:13,560
+tutti i dati o avete un backup, ma comunque non riuscite a
+
+209
+00:13:13,560 --> 00:13:15,320
+estrapolare quei dati dal backup.
+
+210
+00:13:15,320 --> 00:13:20,200
+L'altra soluzione è invece quella di andare nelle impostazioni e utilizzare un
+
+211
+00:13:20,200 --> 00:13:25,400
+sistema che nasce per risparmiare spazio su un device.
+
+212
+00:13:25,400 --> 00:13:31,000
+Cioè, se andate nell'impostazione, appunto di sistema, adesso anzi, se ce la
+
+213
+00:13:31,000 --> 00:13:36,360
+faccio, se andate a vedere qui ho messo degli screenshot nella mappa
+
+214
+00:13:36,360 --> 00:13:42,280
+mentale, se andate nelle impostazioni del sistema e andate, scendete nelle varie
+
+215
+00:13:42,280 --> 00:13:47,560
+voci dell'impostazione, andate su App Store, alla voce App Store, sempre in
+
+216
+00:13:47,560 --> 00:13:53,080
+fondo troverete rimuovi applicazioni che non usi, spuntando quindi mettendo la spunta
+
+217
+00:13:53,160 --> 00:14:00,600
+verde, chiamiamola così a questo sistema, nella sostanza iOS o iPadOS
+
+218
+00:14:00,920 --> 00:14:06,440
+cosa farà per risparmiare, tra virgolette, spazio, cancellerà solo le applicazioni, non
+
+219
+00:14:06,440 --> 00:14:08,360
+i dati relativi alle applicazioni.
+
+220
+00:14:08,400 --> 00:14:12,280
+E a questo punto, se vi venisse la necessità di utilizzare quell'applicazione,
+
+221
+00:14:12,280 --> 00:14:16,560
+dovreste solo riscaricarla nuovamente sul telefono o sul tablet.
+
+222
+00:14:16,720 --> 00:14:23,360
+Questo sistema è interessante perché io lo utilizzativamente sull'iPhone, perché ha solo
+
+223
+00:14:23,360 --> 00:14:28,080
+64 GB di spazio, credo, e quindi non ho tantissimo spazio.
+
+224
+00:14:28,080 --> 00:14:32,080
+Aspetta, innanzitutto vado a vedere se l'aggiornamento sta andando avanti.
+
+225
+00:14:32,080 --> 00:14:36,560
+Si sta preparando l'aggiornamento di iO 16 e se vado nello spazio
+
+226
+00:14:36,560 --> 00:14:40,080
+del mio iPhone, si ho 64 GB e ne ho.
+
+227
+00:14:40,080 --> 00:14:44,960
+Vabbè, adesso in questo caso specifico 54 occupati, ma perché ho scaricato
+
+228
+00:14:44,960 --> 00:14:51,440
+l'aggiornamento da qualche GB di iOS, dovrebbe ripulirsi progressivamente.
+
+229
+00:14:51,440 --> 00:14:52,720
+Tuttavia, cosa succede?
+
+230
+00:14:52,720 --> 00:14:58,240
+Ovviamente devo tenere, diciamo, controllato, chiamiamolo così, lo spazio sull'iPhone e quindi
+
+231
+00:14:58,400 --> 00:15:02,720
+per essere volentieri tutte le applicazioni che non utilizzo vengono cancellate.
+
+232
+00:15:02,720 --> 00:15:06,560
+Questo è interessante perché poi quando andate a cercare l'applicazione vi rendete
+
+233
+00:15:06,560 --> 00:15:10,240
+conto che è stata cancellata e vi rendete conto quindi anche che
+
+234
+00:15:10,240 --> 00:15:12,480
+non la utilizzate da molto tempo.
+
+235
+00:15:12,720 --> 00:15:17,440
+A volte ci sono applicazioni che utilizzano saltuariamente, ma che quella volta
+
+236
+00:15:17,760 --> 00:15:22,560
+vi può essere utile utilizzare, ma vi renderete conto, spesso e volentieri
+
+237
+00:15:22,880 --> 00:15:28,240
+che invece ci sono applicazioni che non utilizzate proprio e quindi effettivamente
+
+238
+00:15:28,240 --> 00:15:30,160
+può diventare un ottimo strumento.
+
+239
+00:15:30,160 --> 00:15:33,840
+Infatti, io spesso e volentieri cosa faccio quando vedo le applicazioni che
+
+240
+00:15:33,840 --> 00:15:37,760
+hanno la nuvoletta e la freccia che dice che la puoi scaricare,
+
+241
+00:15:37,760 --> 00:15:41,600
+la cancello direttamente, in modo che a quel punto lì non ho
+
+242
+00:15:41,600 --> 00:15:44,720
+neanche più quel problema, non ho neanche proprio l'applicazione.
+
+243
+00:15:44,720 --> 00:15:48,240
+Sì, esatto, c'è iOS che fa il lavoro sporco che troviamo fare
+
+244
+00:15:48,240 --> 00:15:49,440
+in teoria noi.
+
+245
+00:15:49,600 --> 00:15:52,640
+Nel senso, accorgerci che ci sono applicazioni che non funzionano e che
+
+246
+00:15:52,640 --> 00:15:53,600
+non vi servono.
+
+247
+00:15:53,600 --> 00:15:58,880
+Questo è un ottimo consiglio per me, ad esempio, è stato super
+
+248
+00:15:59,200 --> 00:16:05,000
+funzionale quando avevo in casa degli iPad Air prima generazione con 16
+
+249
+00:16:05,000 --> 00:16:10,440
+GB di spazio, quello mi ha veramente salvato la vita in moltissimi
+
+250
+00:16:10,440 --> 00:16:14,600
+casi e ovviamente aiuta davvero a ridurre la questione.
+
+251
+00:16:14,600 --> 00:16:19,160
+Anche perché, qual è l'altro barbatrucco che vi volevamo consigliare che si
+
+252
+00:16:19,160 --> 00:16:21,720
+collega direttamente con questo per un semplice fatto?
+
+253
+00:16:21,720 --> 00:16:25,960
+Ad esempio, l'accesso rapido alle applicazioni nel mio caso su iPhone non
+
+254
+00:16:25,960 --> 00:16:30,520
+su iPad, su iPhone, essenzialmente io ho liberato completamente la schermata Home.
+
+255
+00:16:30,520 --> 00:16:35,640
+C'è solo una applicazione che utilizzo e poi c'è ovviamente la doc.
+
+256
+00:16:35,640 --> 00:16:38,760
+E poi tutto il resto delle applicazioni con uno swipe verso destra
+
+257
+00:16:38,840 --> 00:16:41,320
+mi trovo questa famosa libreria delle applicazioni.
+
+258
+00:16:41,400 --> 00:16:47,160
+Questa è un, diciamo, è molto molto intransigente come approccio.
+
+259
+00:16:47,160 --> 00:16:51,080
+Sull'iPad, invece, che mi piace avere più applicazioni sullo schermo, anche perché
+
+260
+00:16:51,080 --> 00:16:54,040
+è più grande, forse sarà quello che mi frega.
+
+261
+00:16:54,040 --> 00:16:57,800
+Ho semplicemente una sola pagina, che è quella della Home, e recupero
+
+262
+00:16:57,800 --> 00:17:01,080
+tutto quanto, ovviamente con lo swipe verso destra e quindi trovo questa
+
+263
+00:17:01,080 --> 00:17:02,440
+famosa libreria.
+
+264
+00:17:02,440 --> 00:17:08,040
+Quello che, però, questa libreria vi può aiutare anche soltanto per capire
+
+265
+00:17:08,040 --> 00:17:11,400
+effettivamente le applicazioni che andate a cercare in questa libreria sono quelle
+
+266
+00:17:11,400 --> 00:17:13,400
+che effettivamente avete bisogno.
+
+267
+00:17:13,400 --> 00:17:16,600
+Non ce l'avete lì sulla Home che vi fanno l'occhiolino blink blink,
+
+268
+00:17:16,600 --> 00:17:21,720
+anzi wink wing con un occhiolino solo, vi fa l'occhiolino e quindi
+
+269
+00:17:21,720 --> 00:17:26,280
+voi volete usarla, facendo anche soltanto il gesto dello swipe verso destra
+
+270
+00:17:26,520 --> 00:17:31,800
+vi dovrebbe in teoria far capire che state facendo un'azione voluta.
+
+271
+00:17:31,800 --> 00:17:35,160
+Questo è vero solo all'inizio, secondo me.
+
+272
+00:17:35,160 --> 00:17:38,680
+Adesso vi spiego perché, perché è da circa un anno, un anno
+
+273
+00:17:38,680 --> 00:17:41,080
+e mezzo che una situazione di questo genere.
+
+274
+00:17:41,080 --> 00:17:42,560
+Ormai per me è diventato.
+
+275
+00:17:42,560 --> 00:17:45,760
+La memoria muscolare è diventata tale per cui io faccio uno swipe
+
+276
+00:17:45,920 --> 00:17:50,160
+verso destra, so benissimo dove andarmi a beccare le applicazioni, che è
+
+277
+00:17:50,160 --> 00:17:54,640
+quasi tanto uguale avere in om, non cambia molto effettivamente.
+
+278
+00:17:54,640 --> 00:17:58,960
+Quindi può aiutarvi sotto un certo punto di vista, dall'altro è relativamente
+
+279
+00:17:58,960 --> 00:17:59,840
+aiutante.
+
+280
+00:17:59,840 --> 00:18:03,840
+Ma quello che volevo ricollegarmi al discorso di prima, delle applicazioni che
+
+281
+00:18:03,840 --> 00:18:08,640
+si autodisinstallano e fanno e iOS e fa il lavoro sporco per
+
+282
+00:18:08,640 --> 00:18:12,000
+voi è perché, appunto facendo un approccio di questo tipo, avendo la
+
+283
+00:18:12,000 --> 00:18:17,040
+libreria, voi perdete direttamente la concezione di quello che c'è installato sul
+
+284
+00:18:17,040 --> 00:18:19,920
+vostro tablet o sul vostro iPhone.
+
+285
+00:18:19,920 --> 00:18:24,160
+Non avete idea perché ci sono queste X applicazioni che vi fanno
+
+286
+00:18:24,160 --> 00:18:29,520
+vedere tendenzialmente sono quattro per gruppo essenzialmente, e quindi non avete un'idea
+
+287
+00:18:29,520 --> 00:18:30,000
+precisa.
+
+288
+00:18:30,000 --> 00:18:33,760
+L'idea precisa ce l'avete quando andate a fare un tap sulla libreria
+
+289
+00:18:33,760 --> 00:18:37,920
+per cercare, sul cerca e vedete tutte le applicazioni elencate.
+
+290
+00:18:37,920 --> 00:18:40,480
+Ma se non fate così non avete idea di quello che c'è
+
+291
+00:18:40,480 --> 00:18:41,120
+installato.
+
+292
+00:18:41,120 --> 00:18:43,840
+Quindi un altro consiglio a questo punto, che è quello che farò
+
+293
+00:18:43,840 --> 00:18:47,440
+anch'io, perché penso di aver perso un po' il punto di vista
+
+294
+00:18:47,440 --> 00:18:51,760
+sotto questo aspetto delle applicazioni installate, sarà quello appunto di fargli rimuovere
+
+295
+00:18:51,760 --> 00:18:53,520
+automaticamente l'applicazione installata.
+
+296
+00:18:53,520 --> 00:18:58,080
+Perché tendenzialmente è molto facile che ci sia dello spazio da liberare,
+
+297
+00:18:58,080 --> 00:19:01,040
+ma più che altro ci sono delle applicazioni che molto probabilmente non
+
+298
+00:19:01,040 --> 00:19:05,440
+mi ricordo di aver scaricato, lo ammetto, che magari le ho provate,
+
+299
+00:19:05,440 --> 00:19:09,440
+sono lì che guardano, fanno, disfano e io non ne so più
+
+300
+00:19:09,440 --> 00:19:13,520
+niente e occupano essenzialmente dello spazio.
+
+301
+00:19:13,520 --> 00:19:17,360
+Quindi, questo, secondo me, dal punto di vista minimale è molto interessante
+
+302
+00:19:17,440 --> 00:19:21,200
+perché sia l'approccio di usare la libreria e delle app vi può
+
+303
+00:19:21,200 --> 00:19:25,520
+mettere di fronte a capire quali sono queste effettivamente queste applicazioni che
+
+304
+00:19:25,520 --> 00:19:27,200
+meritano la vostra attenzione.
+
+305
+00:19:27,200 --> 00:19:28,080
+Diciamo così.
+
+306
+00:19:28,240 --> 00:19:32,280
+E invece dall'altra parte, se avete un approccio molto lungo come è
+
+307
+00:19:32,280 --> 00:19:37,480
+stato per me per l'uso della libreria delle applicazioni sul lato destro,
+
+308
+00:19:37,480 --> 00:19:42,520
+questo invece il consiglio di cominciare a fare liberare iOS tutto quanto,
+
+309
+00:19:42,520 --> 00:19:44,120
+è decisamente da utilizzare.
+
+310
+00:19:44,280 --> 00:19:46,280
+Penso che lo farò assolutamente anch'io.
+
+311
+00:19:46,280 --> 00:19:49,160
+Come vi dicevo, questo è un modo di un accesso rapido alle
+
+312
+00:19:49,160 --> 00:19:52,840
+app installate appunto tramite la libreria app, si può usare anche la
+
+313
+00:19:52,840 --> 00:19:57,160
+funzione cerca che essenzialmente basta fare scorrimento verso il basso al centro
+
+314
+00:19:57,240 --> 00:20:01,560
+della schermata Home per far comparire questa funzione cerca che non è
+
+315
+00:20:01,560 --> 00:20:06,760
+nient'altro che il nostro simpatico spotlight di Mac OS.
+
+316
+00:20:06,760 --> 00:20:12,440
+Essenzialmente è una versione simile perché comunque sì, di fatti, però diciamo
+
+317
+00:20:12,440 --> 00:20:15,720
+che per bene spotlight è interessante anche per lanciare le applicazioni e
+
+318
+00:20:15,800 --> 00:20:18,440
+sotto questo punto di vista si allaccia molto iOS.
+
+319
+00:20:18,440 --> 00:20:24,200
+Per esempio, sul Mac il comando rapido da tastiera, comanda più spazio.
+
+320
+00:20:24,200 --> 00:20:25,480
+Poi digito una lettera.
+
+321
+00:20:25,480 --> 00:20:29,160
+Ad esempio, Telegram, basta che dico T, invio e questo è partito
+
+322
+00:20:29,160 --> 00:20:32,760
+senza andare a cercare in giro per il mondo oppure fare cose
+
+323
+00:20:32,760 --> 00:20:33,400
+strane.
+
+324
+00:20:33,640 --> 00:20:39,640
+Questo sistema fa iPadOS, tra virgolette, perché hai OS oggettivamente diventa
+
+325
+00:20:39,640 --> 00:20:46,120
+complicato avere una tastiera, diciamo, meccanica sull'iPhone, ma penso e dico penso
+
+326
+00:20:46,120 --> 00:20:50,200
+che funzioni potenzialmente anche lì in maniera uguale e
+
+327
+00:20:51,400 --> 00:20:52,920
+quindi è molto comoda.
+
+328
+00:20:52,920 --> 00:20:56,600
+E diciamo che più si va avanti nel tempo, più i due
+
+329
+00:20:56,680 --> 00:20:58,120
+chiamiamoli così Spotlight.
+
+330
+00:20:58,120 --> 00:21:02,280
+Anche se in senso tecnico, secondo me appunto è la funzione cerca
+
+331
+00:21:02,920 --> 00:21:07,640
+per Hai Osha e iPadOS, almeno dai manuali, chiamiamoli così di Apple.
+
+332
+00:21:07,640 --> 00:21:09,480
+Però le funzioni sono molto simili.
+
+333
+00:21:09,600 --> 00:21:11,560
+Sì, sì, si chiama cerca.
+
+334
+00:21:11,560 --> 00:21:14,840
+Per esempio, stamattina ho fatto qualche test
+
+335
+00:21:14,840 --> 00:21:20,400
+e se si fa le stesse cose, diciamo, volevo fare dei conti.
+
+336
+00:21:20,800 --> 00:21:25,680
+Se si fa, per esempio, 20 più 10, automaticamente anche utilizzando la
+
+337
+00:21:25,680 --> 00:21:27,200
+funzione cerca,
+
+338
+00:21:28,480 --> 00:21:32,640
+viene data la somma o viene fatta l'operazione che
+
+339
+00:21:34,480 --> 00:21:37,360
+è inserita nel testo di ricerca.
+
+340
+00:21:37,360 --> 00:21:42,000
+Quindi, comunque ci sono molte funzioni simili o la conversione delle misure,
+
+341
+00:21:42,000 --> 00:21:47,440
+ci sono tutta una serie di funzioni che di fatto sono equiparabili
+
+342
+00:21:47,440 --> 00:21:48,320
+a Spotlight.
+
+343
+00:21:48,320 --> 00:21:54,480
+Quindi, poi alla fine probabilmente non è una a uno la corrispondenza,
+
+344
+00:21:54,480 --> 00:21:57,680
+però sicuramente è molto molto vicino.
+
+345
+00:21:57,680 --> 00:22:03,360
+E ovviamente è uno strumento anche molto utile per aprire rapidamente applicazioni.
+
+346
+00:22:03,840 --> 00:22:06,560
+Esatto, apro una parentesi sul MyOS.
+
+347
+00:22:06,560 --> 00:22:10,640
+Che, come dicevi tu, fa il spotlight permette di fare le operazioni.
+
+348
+00:22:10,640 --> 00:22:14,960
+Questo è venuto in soccorso a me perché, per esempio, utilizzavo tantissimo
+
+349
+00:22:14,960 --> 00:22:19,200
+la tastiera sulla destra quando facevo uno swipe con due dita sul
+
+350
+00:22:19,200 --> 00:22:22,240
+trackpad e quindi mi saltava fuori il centro di controllo.
+
+351
+00:22:22,240 --> 00:22:26,960
+Io adesso la calcolatrice lì non ce l'ho più e qualche maledizione
+
+352
+00:22:26,960 --> 00:22:31,280
+se l'è beccata Craderichi subito da me senza passare dal via, perché
+
+353
+00:22:31,280 --> 00:22:34,240
+questa mi è rimasta proprio qua sullo stomaco.
+
+354
+00:22:34,240 --> 00:22:38,400
+Però in compenso a questo punto utilizzo più spotlight per queste cose,
+
+355
+00:22:38,400 --> 00:22:42,240
+fa un po' girare le scatole perché è un accesso veloce.
+
+356
+00:22:42,240 --> 00:22:44,720
+Chi non è a conoscenza di questa cosa qua, si deve aprire
+
+357
+00:22:44,720 --> 00:22:48,640
+la calcolatrice, ma la calcolatrice, d'altra parte, ha delle funzioni in più
+
+358
+00:22:48,800 --> 00:22:50,640
+come ad esempio il nastro.
+
+359
+00:22:50,640 --> 00:22:53,760
+Che secondo me è una cosa fantastica, soprattutto per chi deve fare
+
+360
+00:22:53,760 --> 00:22:56,800
+calcoli complessi e ha bisogno magari di rivedere cosa ha fatto.
+
+361
+00:22:56,800 --> 00:23:02,520
+Senza passare dalla calcolatrice scientifica, che, ovviamente, questo diciamo questo, chiamiamolo widget
+
+362
+00:23:02,520 --> 00:23:07,000
+che c'era fino a qualche versione prima, forse deve essere Catalina, forse
+
+363
+00:23:07,000 --> 00:23:09,720
+c'era ancora, vado un po' a memoria, ma non ne sono neanche
+
+364
+00:23:09,720 --> 00:23:10,840
+tanto sicuro.
+
+365
+00:23:10,840 --> 00:23:12,600
+In ogni caso, non mi ricordo neanche io.
+
+366
+00:23:12,600 --> 00:23:17,480
+Comunque in ogni caso è interessante che questo spotlight è qualcosa che
+
+367
+00:23:17,640 --> 00:23:22,120
+essenzialmente è centrale, non soltanto in Mac OS, ma anche in iOS
+
+368
+00:23:22,120 --> 00:23:25,960
+e i Pad OS, perché oltre alle varie funzioni di ricerca, ha
+
+369
+00:23:25,960 --> 00:23:29,480
+la possibilità di lanciare le applicazioni, quindi ha un lanciar a tutti
+
+370
+00:23:29,480 --> 00:23:32,680
+gli effetti, e anche una calcolatrice che non è male, ma fa
+
+371
+00:23:32,680 --> 00:23:33,640
+anche le conversioni.
+
+372
+00:23:33,640 --> 00:23:37,400
+Quindi, piccola parentesi, chiudo e possiamo passare dire a questo punto: i
+
+373
+00:23:37,400 --> 00:23:39,080
+widget: che ne dici, Filippo?
+
+374
+00:23:39,080 --> 00:23:45,080
+Widget è questa funzione, diciamo che a me all'inizio, quando l'ho vista
+
+375
+00:23:45,080 --> 00:23:49,960
+arrivare su iOS, principalmente poi sui iPadOS, mi ha lasciato un
+
+376
+00:23:49,960 --> 00:23:53,160
+po' così come dire belli, che me ne faccio?
+
+377
+00:23:53,160 --> 00:23:55,640
+La prima domanda è stata proprio quella.
+
+378
+00:23:55,640 --> 00:23:59,240
+Poi nel corso degli anni, perché per me ci è voluto un
+
+379
+00:23:59,240 --> 00:24:03,320
+attimo un po' di tempo per assimilare la questione, ho capito che
+
+380
+00:24:03,320 --> 00:24:06,840
+in effetti potevano diventare utili, io arrivo sempre un po' tardi, però
+
+381
+00:24:06,840 --> 00:24:09,080
+quando ci arrivo, insomma, incomincio a metterli in pratica.
+
+382
+00:24:09,080 --> 00:24:12,440
+Dunque, i widget sono simpatici.
+
+383
+00:24:12,440 --> 00:24:16,600
+Per esempio, Filippo nella sua home page, se non ho visto male,
+
+384
+00:24:16,600 --> 00:24:19,480
+ha una qualcosa come un ferro di cavallo che gira attorno a
+
+385
+00:24:19,480 --> 00:24:22,760
+tutto lo schermo, più quattro applicazioni al centro e questo ferro di
+
+386
+00:24:22,760 --> 00:24:25,320
+cavallo è fatto di widget, se non ricordo male.
+
+387
+00:24:25,320 --> 00:24:28,920
+Invece la mia home page è decisamente più minimale.
+
+388
+00:24:29,560 --> 00:24:30,840
+Mi ricordo bene, visto?
+
+389
+00:24:30,880 --> 00:24:31,520
+Sì, sì, sì, sì.
+
+390
+00:24:31,720 --> 00:24:35,880
+Invece, la mia home page è molto minimale, ma ha più, diciamo,
+
+391
+00:24:35,880 --> 00:24:36,520
+icone.
+
+392
+00:24:36,520 --> 00:24:39,880
+Tuttavia, bisogna anche a questo punto vedere il pro e il contro,
+
+393
+00:24:39,880 --> 00:24:41,480
+nel senso che Filippo.
+
+394
+00:24:41,480 --> 00:24:44,440
+Non penso che adotti la mia tecnica, questo qui
+
+395
+00:24:45,520 --> 00:24:54,800
+divergiamo, perché io ho questa modalità, chiamiamola così, produttiva dell'iPad, è una
+
+396
+00:24:55,120 --> 00:25:00,080
+diciamo è un barbatrucco, chiamiamolo così, in verità che comunque è stato
+
+397
+00:25:00,080 --> 00:25:06,480
+introdotto da iOS 15, permette comunque di avere una personalizzazione maggiore del
+
+398
+00:25:06,480 --> 00:25:07,760
+proprio iPad.
+
+399
+00:25:07,760 --> 00:25:11,600
+Io lo uso su iPad, potete farlo anche su iOS, per carità
+
+400
+00:25:11,760 --> 00:25:12,560
+non muore.
+
+401
+00:25:12,560 --> 00:25:18,720
+Ma diciamo che questa possibilità, ovvero di avere delle pagine, chiamiamole così,
+
+402
+00:25:18,720 --> 00:25:26,560
+personalizzate che si possono nominare e richiamare tramite l'utilizzo di un'altra funzione,
+
+403
+00:25:26,880 --> 00:25:29,440
+diciamo che è stata una miscellanea.
+
+404
+00:25:29,440 --> 00:25:33,360
+Quello che ho messo su, è un incrocio tra la full immersion,
+
+405
+00:25:33,360 --> 00:25:37,360
+le possibilità di full immersion, e la possibilità di personalizzare le pagine
+
+406
+00:25:37,360 --> 00:25:39,120
+e dargli anche un nome.
+
+407
+00:25:39,120 --> 00:25:44,320
+Per fare lo spiegone, vi rimando ovviamente all'articolo che metteremo poi nei
+
+408
+00:25:44,320 --> 00:25:48,320
+note dell'episodio che ho scritto, però vi spiego d'altra parte cosa mi
+
+409
+00:25:48,320 --> 00:25:48,880
+serve.
+
+410
+00:25:48,880 --> 00:25:54,240
+Appunto, partendo dalla questione che l'iPad è molto davvero tanto comunicativo e
+
+411
+00:25:54,240 --> 00:25:59,200
+ludico, perché ci sono questi aspetti tutti e tre: quello produttivo, ludico
+
+412
+00:25:59,200 --> 00:26:04,800
+e diciamo comunicativo, io avevo bisogno di un'area protetta, chiamiamola così, per
+
+413
+00:26:04,800 --> 00:26:05,600
+la produzione.
+
+414
+00:26:05,600 --> 00:26:07,040
+Quindi, cosa ho fatto?
+
+415
+00:26:07,040 --> 00:26:13,520
+Ho fatto una serie di tecniche per riuscire a impostare una pagina
+
+416
+00:26:13,520 --> 00:26:17,120
+generale che uso tutti i giorni quando non devo lavorare, e una
+
+417
+00:26:17,120 --> 00:26:22,640
+pagina produttiva con solo le applicazioni che utilizzo, che agganciata alla modalità
+
+418
+00:26:22,640 --> 00:26:26,240
+full immersion, per la quale viene anche richiamata, mi permette anche di
+
+419
+00:26:26,240 --> 00:26:30,280
+tagliare fuori tutte le comunicazioni che non mi interessano a partire dalle
+
+420
+00:26:30,280 --> 00:26:31,400
+notifiche.
+
+421
+00:26:31,400 --> 00:26:36,840
+Essenzialmente penso che forse c'è una notifica che passa che mi interessa,
+
+422
+00:26:36,840 --> 00:26:40,440
+quella che deriva dall'applicazione del Pomodoro Time e tutto il resto è
+
+423
+00:26:40,440 --> 00:26:41,240
+silenziato.
+
+424
+00:26:41,240 --> 00:26:44,520
+Così le email non mi interessano, sono i pad, non le voglio
+
+425
+00:26:44,520 --> 00:26:48,280
+neanche vedere, non voglio vedere messaggi, non voglio vedere Telegram, non voglio
+
+426
+00:26:48,280 --> 00:26:49,640
+vedere niente di tutto questo
+
+427
+00:26:51,320 --> 00:26:52,920
+è molto blindato.
+
+428
+00:26:52,920 --> 00:26:54,360
+Perché questo è interessante?
+
+429
+00:26:54,360 --> 00:27:01,000
+Perché grazie ai barbatrucchi che ho messo in pista e l'utilizzo di
+
+430
+00:27:01,000 --> 00:27:07,720
+widget ho quindi dei comandi rapidi che mi fanno passare alternativamente dalla
+
+431
+00:27:07,720 --> 00:27:11,720
+home page, chiamiamola normale, quella di tutti i giorni, a una home
+
+432
+00:27:11,720 --> 00:27:13,080
+page solo per la produzione.
+
+433
+00:27:13,240 --> 00:27:16,360
+Quindi, a questo punto mi è venuto molto utile questo widget perché
+
+434
+00:27:16,360 --> 00:27:19,320
+il widget dei comandi rapidi l'ho preso e l'ho messo in alto
+
+435
+00:27:19,320 --> 00:27:24,200
+a sinistra e posso, con un semplice tocco, passare da una modalità
+
+436
+00:27:24,200 --> 00:27:29,000
+all'altra senza particolari sbattimenti, permettetemi il termine.
+
+437
+00:27:29,000 --> 00:27:32,040
+Questo è uno dei tanti utilizzi di widget, ad esempio, questo qui
+
+438
+00:27:32,040 --> 00:27:35,320
+è dei widget dei comandi rapidi che può tornare utile.
+
+439
+00:27:35,320 --> 00:27:37,480
+Ma ce ne sono tanti altri.
+
+440
+00:27:37,480 --> 00:27:42,680
+Ma la cosa che, diciamo recentemente mi è piaciuta moltissimo, che non
+
+441
+00:27:42,680 --> 00:27:47,080
+avevo capito fino a non dico tanto fino a penso tre mesi
+
+442
+00:27:47,080 --> 00:27:51,800
+fa, non vorrei sbagliarmi, tre o quattro mesi fa, queste raccolte smart.
+
+443
+00:27:51,960 --> 00:27:55,320
+Vi spiego qual è stato il mio problema da nabo.
+
+444
+00:27:55,320 --> 00:27:58,760
+Chiamolo così, perché questo mio figlio mi dà del nabo, ma questa
+
+445
+00:27:58,760 --> 00:28:00,920
+volta sono stato veramente nabo.
+
+446
+00:28:00,920 --> 00:28:05,640
+Quindi, io mi caricavo le mie simpatiche raccolte Smart.
+
+447
+00:28:05,600 --> 00:28:09,640
+Tuttavia, le vedevo che, francamente, a me ero un chiavante Smart, ma
+
+448
+00:28:09,640 --> 00:28:13,280
+non me ne fregava essenzialmente niente di quello che mi veniva proposto.
+
+449
+00:28:13,280 --> 00:28:17,120
+In questo, diciamo, widget che permettava di ruotare su se stesso e
+
+450
+00:28:14,840 --> 00:28:18,960
+far vedere delle altre schermate.
+
+451
+00:28:19,280 --> 00:28:23,280
+Finché non sono riuscito a capire che si poteva personalizzare.
+
+452
+00:28:23,440 --> 00:28:26,400
+Facciamo un passo indietro, facciamo un passo indietro.
+
+453
+00:28:26,720 --> 00:28:30,880
+Le raccolte Smart cosa sono, giusto per avere un'idea?
+
+454
+00:28:30,880 --> 00:28:35,520
+Diciamo che i widget sono delle viste, chiamiamole così, sulle applicazioni.
+
+455
+00:28:35,520 --> 00:28:38,640
+Ovviamente ne esistono di qualunque tipo.
+
+456
+00:28:38,800 --> 00:28:43,680
+Adesso ve ne parleremo di alcuni che vi permettono di avere tutta
+
+457
+00:28:43,680 --> 00:28:47,920
+una serie di personalizzazioni e informazioni anche potenzialmente utili.
+
+458
+00:28:47,920 --> 00:28:53,280
+Ma le raccolte Smart fanno qualcosina in più: cioè, teoricamente, in base
+
+459
+00:28:53,280 --> 00:28:58,640
+all'orario, all'attività che svolgete, l'attività che svolgete abitudinariamente.
+
+460
+00:28:58,640 --> 00:29:04,480
+L'intelligenza artificiale di Apple vi permette diciamo, le viste cambiano e cambiano
+
+461
+00:29:04,480 --> 00:29:07,920
+in base alle teoricamente vostre esigenze.
+
+462
+00:29:07,920 --> 00:29:13,520
+Originariamente c'era una cosa simile su Apple Watch che vi permetteva, diciamo,
+
+463
+00:29:13,520 --> 00:29:17,520
+di avere tutta una serie di informazioni a portata di mano nel
+
+464
+00:29:17,520 --> 00:29:23,360
+quadrante dell'Apple Watch, basato, non so, per esempio, si sta avvicinando un
+
+465
+00:29:23,360 --> 00:29:27,520
+appuntamento che avete segnato sul calendario, vi fa vedere questo appuntamento.
+
+466
+00:29:27,520 --> 00:29:31,760
+Vi è arrivato un'email importante, vi fa vedere che avete un'email importante
+
+467
+00:29:32,320 --> 00:29:33,120
+e così via.
+
+468
+00:29:33,120 --> 00:29:37,920
+Stesso discorso varrebbe per le raccolte smart.
+
+469
+00:29:37,920 --> 00:29:44,320
+Personalmente dal mio utilizzo permesso uno, ovviamente le raccolte smart possono essere
+
+470
+00:29:44,320 --> 00:29:48,240
+personalizzate, cioè, ci potete mettere su i widget che volete voi.
+
+471
+00:29:48,240 --> 00:29:51,040
+Due, è possibile anche disabilitarle.
+
+472
+00:29:51,040 --> 00:29:57,600
+Quindi semplicemente avete 3-4 widget che vi fanno vedere cose differenti.
+
+473
+00:29:57,600 --> 00:29:58,480
+Diciamo.
+
+474
+00:29:58,480 --> 00:30:04,120
+Per esempio, nella mia Home screen, abitualmente ho il calendario con l'attività
+
+475
+00:29:59,840 --> 00:30:05,080
+della giornata.
+
+476
+00:30:05,240 --> 00:30:09,640
+Quindi ho un widget più grosso, diciamo, che mi dà il quadro
+
+477
+00:30:09,640 --> 00:30:13,800
+della situazione, ma se scorro ho anche il widget delle foto.
+
+478
+00:30:13,800 --> 00:30:19,800
+Quindi ho le foto che vengono presentate da Apple, che è sempre
+
+479
+00:30:19,800 --> 00:30:25,240
+carino avere, diciamo, nel senso che abitualmente sono ricordi, sono situazioni e
+
+480
+00:30:25,240 --> 00:30:25,960
+così via.
+
+481
+00:30:25,960 --> 00:30:28,920
+E che effettivamente a me fa piacere poter avere.
+
+482
+00:30:28,920 --> 00:30:29,560
+Non sempre.
+
+483
+00:30:29,560 --> 00:30:35,560
+Anzi, abitualmente, diciamo il widget principale, quello sempre operativo e solo raramente
+
+484
+00:30:35,720 --> 00:30:39,400
+in qualche momento parte il widget delle foto.
+
+485
+00:30:39,400 --> 00:30:41,800
+Tuttavia effettivamente è molto comodo.
+
+486
+00:30:41,800 --> 00:30:45,880
+E bene o male c'è la schermata, la mia home, diciamo, dell'iPad
+
+487
+00:30:46,040 --> 00:30:49,960
+è più una dashboard, diciamo, che mi dà un quadro generale di
+
+488
+00:30:49,960 --> 00:30:54,280
+tante cose che mi interessano, ma non sono prevalentemente legate al lavoro.
+
+489
+00:30:54,280 --> 00:31:00,440
+Certo, e aggiungo che appunto questa possibilità di personalizzarla per me è
+
+490
+00:31:00,440 --> 00:31:01,800
+stata un'epifania.
+
+491
+00:31:01,800 --> 00:31:05,320
+Perché a questo punto ho detto: ah, ok, adesso i widget la
+
+492
+00:31:05,320 --> 00:31:08,600
+raccolta smart del widget incomincia a diventare interessante.
+
+493
+00:31:08,600 --> 00:31:11,800
+Sotto questo punto di vista, secondo me, Apple non è stata proprio
+
+494
+00:31:11,800 --> 00:31:16,040
+legia, nel senso che dal punto di vista dell'interfaccia di personalizzazione non
+
+495
+00:31:16,040 --> 00:31:18,840
+è che sia il massimo da utilizzare.
+
+496
+00:31:18,840 --> 00:31:21,800
+Ma in ogni caso, la cosa interessante è appunto che c'è la
+
+497
+00:31:21,800 --> 00:31:25,480
+possibilità di personalizzare questi widget un po' come vi serve.
+
+498
+00:31:25,480 --> 00:31:30,040
+Ma altra cosa interessante, appunto, tornando al minimalismo, è che, ad esempio,
+
+499
+00:31:30,040 --> 00:31:34,760
+se voi infilate note scusate, in una di queste raccolte SMART, voi
+
+500
+00:31:34,760 --> 00:31:37,800
+la potete togliere dalla home screen, ad esempio.
+
+501
+00:31:37,800 --> 00:31:43,400
+Quindi la raccolta Smart riesce anche a liberare di parecchio la vostra
+
+502
+00:31:43,400 --> 00:31:44,400
+home page.
+
+503
+00:31:44,400 --> 00:31:47,920
+Perché è inutile tenere, che ne so, fatto prima l'esempio di note,
+
+504
+00:31:47,920 --> 00:31:49,600
+ma adesso sto scorrendo.
+
+505
+00:31:49,600 --> 00:31:50,720
+Per esempio, notion.
+
+506
+00:31:50,720 --> 00:31:54,080
+Mi è utile, per esempio, in questo caso il widget perché ho
+
+507
+00:31:54,080 --> 00:31:56,960
+tutte le mie pagine che mi servono elencate.
+
+508
+00:31:57,280 --> 00:31:59,920
+Con un tap posso passare a una di quelle che mi serve,
+
+509
+00:32:00,080 --> 00:32:05,920
+d'altra parte è relativamente utile tenere notion all'interno della home screen.
+
+510
+00:32:05,920 --> 00:32:11,120
+Quindi vedete la raccolta Smart come quasi qualcosa che vi aiuta a
+
+511
+00:32:11,120 --> 00:32:14,960
+liberare la vostra pagina iniziale, ma anche tante altre pagine.
+
+512
+00:32:14,960 --> 00:32:18,480
+Grazie a questi widget che posso tenere all'interno della home, incomincio a
+
+513
+00:32:18,480 --> 00:32:20,720
+liberare tutte le pagine che ci sono al di là.
+
+514
+00:32:20,720 --> 00:32:22,320
+Perché tendenzialmente cosa fate?
+
+515
+00:32:22,320 --> 00:32:26,240
+Voi installate continuamente applicazioni e continuano a crearsi pagine.
+
+516
+00:32:26,240 --> 00:32:30,000
+Invece l'idea è quella di avere una pagina Home sola, una, basta
+
+517
+00:32:30,000 --> 00:32:30,640
+avanza.
+
+518
+00:32:30,640 --> 00:32:34,240
+Tutto il resto, quello che non vi serve, lo buttate sulla libreria
+
+519
+00:32:34,880 --> 00:32:40,160
+delle applicazioni e vi fate aiutare ovviamente da questi widget che potete
+
+520
+00:32:40,160 --> 00:32:43,920
+mettere sì in home, ma potete anche richiamare all'interno del centro di
+
+521
+00:32:43,920 --> 00:32:44,480
+controllo.
+
+522
+00:32:44,480 --> 00:32:47,760
+Io, ad esempio, sul centro di controllo ho messo qualcosa che non
+
+523
+00:32:47,760 --> 00:32:51,040
+mi serve sempre, però, quando mi serve so che lì.
+
+524
+00:32:51,120 --> 00:32:53,680
+Quindi non devo andarlo a cercare in giro per la home.
+
+525
+00:32:53,680 --> 00:32:58,080
+Ad esempio, cercarlo anche col colpo d'occhio sull'applicazione, oppure col comando cerca.
+
+526
+00:32:58,080 --> 00:33:02,960
+Quindi ci sono essenzialmente delle applicazioni di secondo piano, chiamiamole così.
+
+527
+00:33:02,960 --> 00:33:08,400
+Quindi ho focalizzato sulla home essenzialmente ciò che mi serve utilizzo tutti
+
+528
+00:33:08,400 --> 00:33:08,800
+i giorni.
+
+529
+00:33:08,800 --> 00:33:11,440
+Le mie raccolte SMAT che mi aiutano a liberare dello spazio, e
+
+530
+00:33:11,440 --> 00:33:16,160
+poi ho la mia simpatica barra della doc, che a questo punto
+
+531
+00:33:16,160 --> 00:33:18,240
+diventa molto interessante.
+
+532
+00:33:18,320 --> 00:33:22,720
+La doc nella mia fase di personalizzazione ho notato che quella non
+
+533
+00:33:22,720 --> 00:33:24,400
+rimane personalizzata.
+
+534
+00:33:24,400 --> 00:33:29,800
+Nel senso, la vostra DOC se la modificate essenzialmente rimane modificata sia
+
+535
+00:33:29,120 --> 00:33:30,840
+quella famosa schermata
+
+536
+00:33:29,440 --> 00:33:31,320
+home sia
+
+537
+00:33:31,800 --> 00:33:34,760
+in quella famosa schermata produttiva.
+
+538
+00:33:34,760 --> 00:33:39,240
+Quindi per me è stata una sorpresa perché mi aspettavo che invece
+
+539
+00:33:39,240 --> 00:33:41,800
+la doc reagisse al contesto.
+
+540
+00:33:41,800 --> 00:33:47,000
+Ricordami un po', Filippo, iOS 16 permette questo tipo di personalizzazione.
+
+541
+00:33:47,000 --> 00:33:50,360
+Mi pare di aver capito di sì, ma non ne sono sicurissimo.
+
+542
+00:33:50,360 --> 00:33:53,560
+No, da quello che ne so io, no, per un semplice motivo,
+
+543
+00:33:53,560 --> 00:33:54,680
+la DOC e la DOC.
+
+544
+00:33:54,680 --> 00:33:58,280
+Avevano migliorato la personalizzazione a lo sfondo
+
+545
+00:33:59,720 --> 00:34:04,280
+, anche lo sfondo, ad esempio, si fa già con iOS 15 lo
+
+546
+00:34:04,280 --> 00:34:04,760
+sfondo.
+
+547
+00:34:04,760 --> 00:34:05,560
+No, ho provato.
+
+548
+00:34:05,560 --> 00:34:08,600
+Per esempio, uno sfondo, uno sfondo unico da una parte dall'altra, cioè
+
+549
+00:34:08,760 --> 00:34:13,960
+quello che imposti viene ribaltato in tutte le schermate che vai ad
+
+550
+00:34:13,960 --> 00:34:19,480
+impostare in iOS 16 invece la schermata dello sfondo puoi personalizzarla.
+
+551
+00:34:19,480 --> 00:34:22,840
+Do il trucco ti do il trucco comunque.
+
+552
+00:34:22,840 --> 00:34:29,640
+Visto che conoscendoti, non passerai dai aiPados o iOS 16 subito.
+
+553
+00:34:29,640 --> 00:34:34,440
+C'è il comando rapido che ti permette di modificare lo sfondo.
+
+554
+00:34:34,440 --> 00:34:34,760
+Quindi
+
+555
+00:34:36,360 --> 00:34:37,400
+quando lanci
+
+556
+00:34:38,440 --> 00:34:43,240
+una determinata full immersion, puoi anche far partire una shortcut in automatico
+
+557
+00:34:43,240 --> 00:34:45,080
+e fare tutta una serie di modifiche.
+
+558
+00:34:45,080 --> 00:34:46,120
+Ti cambia lo sfondo.
+
+559
+00:34:46,120 --> 00:34:50,200
+Diciamo che sto anticipando un po' quello che è la mia idea
+
+560
+00:34:50,200 --> 00:34:57,080
+di futuro sistema interattivo, diciamo, di personalizzazione appunto delle modalità chiamiamole così
+
+561
+00:34:57,240 --> 00:35:03,960
+operative di iPad e di iPhone, dove appunto utilizzando questi trucchetti, diciamo,
+
+562
+00:35:03,960 --> 00:35:09,160
+si riesce a ottenere una versione, diciamo, personalizzata e più tagliente e
+
+563
+00:35:09,160 --> 00:35:12,280
+più affilata del nostro dispositivo mobile.
+
+564
+00:35:12,280 --> 00:35:15,280
+Una cosa di cui non abbiamo parlato, e ne accenno, visto che
+
+565
+00:35:15,280 --> 00:35:21,440
+così, dopo casomai chiudiamo la questione dei widget, è che ogni applicazione
+
+566
+00:35:21,440 --> 00:35:26,640
+potenzialmente può donare o comunque essere dotata di una serie di widget,
+
+567
+00:35:26,640 --> 00:35:29,920
+perché anche qui poi non abbiamo detto, ma anche perché secondo me
+
+568
+00:35:30,000 --> 00:35:34,640
+ne avevamo già parlato nelle puntate precedenti, quindi non volevamo troppo entrare
+
+569
+00:35:34,640 --> 00:35:39,440
+nel merito, ma comunque i widget possono essere di vari formati, avere
+
+570
+00:35:39,440 --> 00:35:45,120
+differenti riempimenti, chiamiamoli così, in base ovviamente a quello che il programmatore
+
+571
+00:35:45,120 --> 00:35:46,160
+ha voluto fare.
+
+572
+00:35:46,160 --> 00:35:51,040
+Quindi il consiglio che vi diamo ovviamente è quello di approfondire soprattutto
+
+573
+00:35:51,040 --> 00:35:54,640
+le applicazioni che utilizzate di più o le applicazioni di sistema, approfondire
+
+574
+00:35:54,960 --> 00:36:01,360
+il loro funzionamento e decidere qual è casomai, la funzione più interessante
+
+575
+00:36:01,360 --> 00:36:02,640
+per voi di questo widget.
+
+576
+00:36:02,640 --> 00:36:06,800
+I widget non sono interattivi, nel senso che se li ci toccate
+
+577
+00:36:06,800 --> 00:36:12,320
+sopra, vi apre l'applicazione abitualmente, o vai in un determinato punto dell'applicazione
+
+578
+00:36:12,320 --> 00:36:16,480
+al di più, ma vi possono dare informazioni in presa diretta, chiamiamoli
+
+579
+00:36:16,480 --> 00:36:16,800
+così.
+
+580
+00:36:16,800 --> 00:36:18,880
+Per esempio, una serie di widget che ho io.
+
+581
+00:36:18,880 --> 00:36:24,080
+S widget legati alla temperatura di casa e quindi mi permettono di
+
+582
+00:36:24,080 --> 00:36:28,400
+monitorare con i vari sensori che ho la situazione di casa piuttosto
+
+583
+00:36:28,400 --> 00:36:32,400
+che l'utilizzo dell'iPad di mio figlio e altre cose.
+
+584
+00:36:32,400 --> 00:36:35,920
+Esistono, però, dei widget particolari, chiamiamoli così.
+
+585
+00:36:35,920 --> 00:36:41,280
+Appunto, Roberto nel suo articolo, parla di Widgie, credo che sia.
+
+586
+00:36:41,280 --> 00:36:43,840
+O il più famoso ma a pagamento.
+
+587
+00:36:43,840 --> 00:36:45,600
+È Widget Smith.
+
+588
+00:36:45,600 --> 00:36:49,440
+Che deve aver fatto anche un botto notevole di un programmatore.
+
+589
+00:36:50,080 --> 00:36:54,000
+Un ottimo programmatore, tra l'altro, che ha fatto svariate applicazioni per Apple
+
+590
+00:36:54,000 --> 00:36:54,800
+Watch.
+
+591
+00:36:55,440 --> 00:36:57,120
+È relativamente famoso
+
+592
+00:36:58,320 --> 00:37:04,520
+nella piccola bolla, tra virgolette, anglofola di Apple, e che ovviamente vi
+
+593
+00:37:04,520 --> 00:37:11,160
+permette di personalizzare proprio l'aspetto, chiamiamolo così, dell'iPad piuttosto che degli iPhone,
+
+594
+00:37:11,160 --> 00:37:16,440
+e sono spesso e volentieri applicazioni che puntano prevalentemente sulla grafica, non
+
+595
+00:37:16,440 --> 00:37:21,000
+so come definirla altrimenti, ma vi permette di avere appunto, non so,
+
+596
+00:37:21,000 --> 00:37:22,840
+il calendario con particolari sfondi.
+
+597
+00:37:22,840 --> 00:37:26,200
+Addirittura personalizzare gli sfondi di questi widget.
+
+598
+00:37:26,200 --> 00:37:33,000
+E quindi diciamo utilizzare questi widget come mattonelle per anche decorare il
+
+599
+00:37:33,000 --> 00:37:35,960
+vostro iPad o iPhone.
+
+600
+00:37:35,960 --> 00:37:39,800
+Poi a questo punto direi Roberto: io devo dirti la verità, non
+
+601
+00:37:39,800 --> 00:37:43,960
+li uso e quindi ti do la parola e ti lascio dare
+
+602
+00:37:43,960 --> 00:37:44,760
+i tuoi spunti.
+
+603
+00:37:45,160 --> 00:37:50,360
+Ecco, io invece ho imparato a usarli appunto perché ho personalizzato la
+
+604
+00:37:50,360 --> 00:37:52,680
+mia home page e volevo renderla produttiva.
+
+605
+00:37:52,680 --> 00:37:56,200
+Quello che sentivo è la necessità e la mancanza era di un
+
+606
+00:37:56,200 --> 00:38:00,360
+orologio che fosse grande e di facile compressione al volo.
+
+607
+00:38:00,520 --> 00:38:02,520
+Così cercando in rete, finalmente ho trovato.
+
+608
+00:38:02,600 --> 00:38:07,000
+Se non mi sbaglio, questo deve essere del nostro famoso amico di
+
+609
+00:38:07,000 --> 00:38:11,240
+Zis che abbiamo accennato qualche tempo fa quando abbiamo parlato appunto di
+
+610
+00:38:11,240 --> 00:38:16,760
+minimalismo dell'iPad, come o forse era del Mac addirittura perché comunque aveva
+
+611
+00:38:16,760 --> 00:38:19,560
+dato un consiglio del Mac su YouTube.
+
+612
+00:38:19,560 --> 00:38:22,840
+E in questo caso invece aveva introdotto Widigi.
+
+613
+00:38:22,840 --> 00:38:27,400
+Wigg è un'applicazione non proprio semplice da utilizzare.
+
+614
+00:38:27,800 --> 00:38:31,640
+Io, francamente, non mi sono neanche esposto a mettermi lì a utilizzare.
+
+615
+00:38:31,640 --> 00:38:35,640
+Intanto, diciamo subito che è un'applicazione è gratuito finché utilizzi un widget
+
+616
+00:38:35,640 --> 00:38:36,760
+personalizzato.
+
+617
+00:38:37,000 --> 00:38:39,560
+Nel mio caso, Widget basta, avanza.
+
+618
+00:38:39,560 --> 00:38:42,360
+Se volete fare invece più Widget dovete pagare.
+
+619
+00:38:42,440 --> 00:38:43,320
+Io cosa ho fatto?
+
+620
+00:38:43,320 --> 00:38:45,280
+Mi sono preso e mi sono appollagliato.
+
+621
+00:38:45,440 --> 00:38:50,000
+Diciamo sulla schiena di Disease che sul suo canale YouTube aveva spiegato
+
+622
+00:38:50,000 --> 00:38:53,920
+questa applicazione e ha dato anche la possibilità di scaricare questo widget
+
+623
+00:38:53,920 --> 00:38:55,520
+che aveva impostato.
+
+624
+00:38:55,520 --> 00:38:59,520
+La cosa interessante di questo widget, appunto, è che di quella forma
+
+625
+00:38:59,920 --> 00:39:00,800
+quadrata.
+
+626
+00:39:00,800 --> 00:39:01,920
+Cos'è successo?
+
+627
+00:39:01,920 --> 00:39:07,120
+Ha inserito in alto la prima riga molto alta c'è l'ora, poi
+
+628
+00:39:07,120 --> 00:39:08,640
+sotto il giorno.
+
+629
+00:39:08,640 --> 00:39:11,520
+Poi la cosa che mi è piaciuta molto di questo widget, quindi
+
+630
+00:39:11,520 --> 00:39:14,800
+l'ho preso e l'ho buttato subito dentro, è che c'è la settimana,
+
+631
+00:39:14,800 --> 00:39:18,960
+cioè dal lunedì al sabato con la numerazione sotto con un pallino
+
+632
+00:39:18,960 --> 00:39:20,720
+rosso sulla giornata in cui si è.
+
+633
+00:39:20,720 --> 00:39:26,880
+E altra chicca che vi è piaciuta tantissimo, era l'aggiunta della possibilità
+
+634
+00:39:26,880 --> 00:39:30,080
+di mettere le previsioni meteo ogni tre ore.
+
+635
+00:39:30,080 --> 00:39:34,320
+Quindi capite bene che questo widget impostato così vi dà un sacco
+
+636
+00:39:34,320 --> 00:39:35,360
+di informazioni.
+
+637
+00:39:35,680 --> 00:39:40,960
+La cosa bella è appunto magari a farlo è difficile partire da
+
+638
+00:39:40,960 --> 00:39:41,360
+zero.
+
+639
+00:39:41,360 --> 00:39:45,200
+Però, partendo da dei modelli già personalizzati come questo, per esempio mi
+
+640
+00:39:45,200 --> 00:39:50,160
+è tornato utile per modificare tante varie cose, ma l'altra cosa interessante
+
+641
+00:39:50,160 --> 00:39:53,520
+di questa applicazione è che vi permette di lanciare quello che volete
+
+642
+00:39:53,600 --> 00:39:56,960
+se fate un tap in alcune aree di questo widget.
+
+643
+00:39:56,960 --> 00:40:01,920
+Quindi se io tappo sulla settimana, ad esempio sulla lista dei giorni
+
+644
+00:40:01,920 --> 00:40:05,360
+da lunedì al sabato con i numeri mi apre il calendario.
+
+645
+00:40:05,360 --> 00:40:08,800
+Se do un tap, ovviamente qua non me lo può fare perché
+
+646
+00:40:08,960 --> 00:40:13,760
+per adesso iPadOS non ha un'applicazione del meteo personalizzata, ma ad
+
+647
+00:40:13,760 --> 00:40:17,760
+esempio ne ho un'altra così invece per abbellire su iOS, mi apre
+
+648
+00:40:17,760 --> 00:40:22,480
+direttamente l'applicazione di sistema che riguarda il meteo.
+
+649
+00:40:22,480 --> 00:40:27,680
+Chiaramente questo è così potente che permette di lanciare qualsiasi tipo di
+
+650
+00:40:27,680 --> 00:40:31,400
+applicazione che avete installato sul vostro tablet o iOS.
+
+651
+00:40:31,560 --> 00:40:37,960
+Ed è veramente fenomenale perché io questa l'ho personalizzata poco su widget,
+
+652
+00:40:37,960 --> 00:40:41,320
+ma quello che ho messo, ad esempio, sul mio iPhone è decisamente
+
+653
+00:40:41,320 --> 00:40:48,360
+personalizzato perché riprende, diciamo, la falsa riga della riga da lunedì alla
+
+654
+00:40:48,600 --> 00:40:53,480
+domenica con i numeri sotto l'indicazione col pallino di che giorno siamo,
+
+655
+00:40:53,480 --> 00:40:58,520
+poi sulla sinistra ho messo la temperatura attuale e la previsione mento
+
+656
+00:40:58,760 --> 00:40:59,560
+attuale.
+
+657
+00:40:59,560 --> 00:41:04,200
+Quindi, in questi due diversi mi sono divertito un po' ad allinearlo
+
+658
+00:41:04,280 --> 00:41:09,000
+perché voi avete la possibilità di spostare per pixel essenzialmente gli oggetti
+
+659
+00:41:09,000 --> 00:41:11,160
+che ci sono all'interno di questo widget.
+
+660
+00:41:11,160 --> 00:41:15,640
+Quindi, per chi è appassionato di queste cose qua ci si perde.
+
+661
+00:41:15,640 --> 00:41:19,400
+Io, francamente, mi sono limitato a fare questo e una volta che
+
+662
+00:41:19,400 --> 00:41:22,920
+si entra nel meccanismo, c'è veramente da divertirsi.
+
+663
+00:41:23,240 --> 00:41:28,840
+Quget lo inserito sia nella mia home page generale che in quella
+
+664
+00:41:28,840 --> 00:41:29,400
+produttiva.
+
+665
+00:41:29,400 --> 00:41:31,560
+Perché per me è un punto di riferimento perché mi dà un
+
+666
+00:41:31,560 --> 00:41:33,560
+sacco di informazioni con un colpo d'occhio.
+
+667
+00:41:33,720 --> 00:41:37,000
+Se volete provarla, andatevela a scaricare.
+
+668
+00:41:37,000 --> 00:41:40,280
+Non so se penso che Filippo metta tutti i link che abbiamo
+
+669
+00:41:40,280 --> 00:41:40,840
+indicato.
+
+670
+00:41:40,840 --> 00:41:44,280
+Diciamo che se andate a vedere sull'articolo che ho scritto, anche questa
+
+671
+00:41:44,280 --> 00:41:47,640
+parte qua che potete andare a vedere con i vari riferimenti e
+
+672
+00:41:47,640 --> 00:41:52,040
+soprattutto un'altra cosa interessante di questa applicazione è che c'è un modello
+
+673
+00:41:52,040 --> 00:41:57,240
+già fatto ed è pubblico, è stato pubblicato, è possibile semplicemente copiare
+
+674
+00:41:57,240 --> 00:42:01,560
+e incollare il link per poter averlo già a disposizione e metterlo
+
+675
+00:42:01,560 --> 00:42:07,880
+direttamente dentro nel vostro, diciamo, wallet di widget e partire serenamente nella
+
+676
+00:42:07,880 --> 00:42:11,000
+modifica, come ho fatto io, è una cosa molto semplice e vi
+
+677
+00:42:11,000 --> 00:42:12,040
+consiglio di fare.
+
+678
+00:42:12,040 --> 00:42:15,680
+A questo punto, direi che possiamo passare invece ai consigli che ha
+
+679
+00:42:14,920 --> 00:42:17,360
+messo sull'accessibilità a Filippo.
+
+680
+00:42:17,600 --> 00:42:20,160
+Secondo me potremmo passare direttamente a quello, cosa dici?
+
+681
+00:42:20,160 --> 00:42:23,120
+Ne parli anche nel tuo articolo, ed è una cosa che, da
+
+682
+00:42:23,120 --> 00:42:28,160
+quel che ne so io, è abbastanza apprezzata da molti, tra virgolette,
+
+683
+00:42:28,320 --> 00:42:33,040
+cioè la possibilità di personalizzare le icone della Home o comunque le
+
+684
+00:42:33,040 --> 00:42:37,520
+icone che si utilizzano i suoi OS e i suoi pad.
+
+685
+00:42:38,640 --> 00:42:43,360
+Nel tuo articolo, come dicevo: è abbastanza divertente divertente.
+
+686
+00:42:43,360 --> 00:42:46,960
+Io sono una di quelle cose che odio fare, è possibile farlo
+
+687
+00:42:46,960 --> 00:42:48,240
+anche su macOS.
+
+688
+00:42:48,240 --> 00:42:53,360
+An se una volta si faceva, c'erano proprio i vari packaging di
+
+689
+00:42:53,360 --> 00:42:54,080
+icone.
+
+690
+00:42:54,320 --> 00:43:00,160
+E lo facevo più su Windows, perché volevo l'interfaccia di macOS per
+
+691
+00:43:00,160 --> 00:43:06,240
+quello su iPadOS e iOS, diciamo, esistono tutta una serie di packaging
+
+692
+00:43:06,240 --> 00:43:08,640
+gratuiti piuttosto che a pagamento.
+
+693
+00:43:09,600 --> 00:43:13,920
+Non ho inserito i link alle icone che proponeva Roberto, perché nella
+
+694
+00:43:13,920 --> 00:43:16,640
+sostanza c'è stato un piccolo problema.
+
+695
+00:43:16,640 --> 00:43:21,200
+Ma ho inserito quelle invece a pagamento di Mac Stories, un problema
+
+696
+00:43:21,200 --> 00:43:26,000
+tecnico, quantomeno, vi dà un'idea di che cosa è possibile fare, mettiamole
+
+697
+00:43:26,000 --> 00:43:26,960
+in questi termini.
+
+698
+00:43:26,960 --> 00:43:32,960
+Sicuramente è interessante soprattutto perché queste icone possono essere associate a dei
+
+699
+00:43:32,960 --> 00:43:33,920
+comandi rapidi.
+
+700
+00:43:33,920 --> 00:43:39,760
+Queste icone possono diventare da una parte dei semplici lanciar di un'applicazione,
+
+701
+00:43:39,760 --> 00:43:46,560
+ma anche lanciare specifici comandi rapidi che possono fare anche cose, diciamo,
+
+702
+00:43:46,560 --> 00:43:49,040
+più complesse di una semplice applicazione.
+
+703
+00:43:49,040 --> 00:43:50,320
+Sì, ti sei spiegato bene.
+
+704
+00:43:50,400 --> 00:43:53,920
+Diciamo che la personalizzazione dell'icona passa da comandi rapidi, con i pro
+
+705
+00:43:53,920 --> 00:43:56,160
+e i contro, nel senso che uno ci si aspetta mai di
+
+706
+00:43:56,160 --> 00:43:59,840
+passare da comandi rapidi per personalizzare le icone, ma la cosa interessante
+
+707
+00:43:59,960 --> 00:44:04,360
+è che diventa essenzialmente molto potente la questione, perché voi potete fargli
+
+708
+00:44:04,360 --> 00:44:09,320
+fare un sacco di cose con un comando rapido travestito da icona
+
+709
+00:44:09,400 --> 00:44:14,360
+essenzialmente, perché alla fine sono tutti dei travestimenti, sono delle icone che
+
+710
+00:44:14,360 --> 00:44:18,440
+celano al loro interno un comando rapido che quindi potete personalizzare come
+
+711
+00:44:18,440 --> 00:44:23,000
+volete e conseguentemente potete caricare l'icona che vi interessa.
+
+712
+00:44:23,000 --> 00:44:27,960
+Nel mio caso parlo dell'home page produttiva, sono andato anche un po'
+
+713
+00:44:27,960 --> 00:44:32,200
+oltre obiettivamente perché non mi sono fermato, come vi dicevo, avere questa
+
+714
+00:44:32,200 --> 00:44:37,960
+home page produttiva, l'ho resa anche minimale, appunto sfruttando questa possibilità e
+
+715
+00:44:37,960 --> 00:44:44,920
+togliendo addirittura il nome dell'applicazione che c'è all'interno di questo comando rapido,
+
+716
+00:44:44,920 --> 00:44:49,080
+in modo tale che non vedessi neanche le scritte e ho personalizzato
+
+717
+00:44:49,080 --> 00:44:53,880
+le icone in modo tale che mi ricordassero facilmente a memoria l'applicazione
+
+718
+00:44:54,040 --> 00:44:55,160
+che vanno a richiamare.
+
+719
+00:44:55,160 --> 00:44:58,600
+Chiaramente se io do un iPad mio a qualcun altro non sa
+
+720
+00:44:58,600 --> 00:45:02,520
+da che parte girarsi in quella modalità perché voi vedete queste icone
+
+721
+00:45:02,520 --> 00:45:05,560
+che non hanno il nome, quindi devi aprirle per forza una per
+
+722
+00:45:05,560 --> 00:45:07,160
+volta per capire di che si tratta.
+
+723
+00:45:07,160 --> 00:45:11,080
+La cosa interessante qual è, è che le icone che ho scelto
+
+724
+00:45:11,080 --> 00:45:16,920
+hanno uno sfondo nero e aggiungendo lo sfondo nero all'iPad avete veramente
+
+725
+00:45:17,240 --> 00:45:22,280
+un effetto, secondo me, anche molto elegante, ma decisamente molto professionale perché
+
+726
+00:45:22,600 --> 00:45:27,560
+è molto asciutto come Home, nel senso che anche con il widget,
+
+727
+00:45:27,560 --> 00:45:30,760
+che, tra l'altro quello che vi ho detto prima ha lo sfondo
+
+728
+00:45:30,760 --> 00:45:31,480
+nero.
+
+729
+00:45:31,480 --> 00:45:37,560
+Voi praticamente avete questa lavagna nera dove praticamente galleggiano icone e scritte
+
+730
+00:45:37,720 --> 00:45:38,920
+solo quelle più importanti.
+
+731
+00:45:38,920 --> 00:45:43,960
+Perché il widget essenzialmente si mimetizza tanto quanto lo sfondo dell'icona con
+
+732
+00:45:43,960 --> 00:45:45,360
+lo sfondo dell'iPad.
+
+733
+00:45:45,360 --> 00:45:48,160
+E quindi si amalgama bene o male tutto quanto.
+
+734
+00:45:45,000 --> 00:45:50,000
+Secondo me è interessante.
+
+735
+00:45:50,160 --> 00:45:53,600
+Andatevi vedere anche le bellissime icone di Max Stories.
+
+736
+00:45:53,600 --> 00:45:57,600
+Che se non ricordo male, è la fidanzata barra moglie, non so
+
+737
+00:45:57,600 --> 00:46:03,200
+che tipo di livello di direi di rapporto sia, ma dovrebbe essere
+
+738
+00:46:03,200 --> 00:46:05,040
+la sua la sua compagna.
+
+739
+00:46:05,040 --> 00:46:08,640
+Pare che si chiami Silvia Gatta una cosa del genere.
+
+740
+00:46:08,640 --> 00:46:09,680
+Confermo bravissimo.
+
+741
+00:46:10,160 --> 00:46:11,600
+In ogni caso, è bravissima.
+
+742
+00:46:11,600 --> 00:46:14,960
+Andatevela a vedere perché bravissima, è veramente un capo.
+
+743
+00:46:14,960 --> 00:46:16,480
+Ha fatto delle illustrazioni bellissime.
+
+744
+00:46:17,040 --> 00:46:18,960
+Icone sono molto belle.
+
+745
+00:46:19,520 --> 00:46:21,360
+In vari formati e quant'altro.
+
+746
+00:46:21,360 --> 00:46:23,440
+Quello trucco se non l'hai detto già tu.
+
+747
+00:46:23,440 --> 00:46:27,680
+Di fatto, se non volete avere il nome dell'applicazione o comunque non
+
+748
+00:46:27,680 --> 00:46:34,320
+avere il nome sotto l'icona, c'è praticamente un carattere trasparente che dovete
+
+749
+00:46:34,320 --> 00:46:36,560
+andare a copiare unicode, credo che sia.
+
+750
+00:46:36,560 --> 00:46:39,760
+Che dovete andare a copiare per poi non avere sotto i carattere
+
+751
+00:46:39,920 --> 00:46:44,720
+quindi avere proprio solo l'icone, e appunto nel caso di uno sfondo
+
+752
+00:46:44,720 --> 00:46:49,360
+nero, per esempio, l'icone bordo nero si fondono tutte assieme.
+
+753
+00:46:49,760 --> 00:46:54,160
+Stesso discorso con lo sfondo bianco o sfondi di altro colore, però
+
+754
+00:46:54,160 --> 00:46:56,880
+diventa un po' più complicata da gestire, probabilmente.
+
+755
+00:46:57,120 --> 00:46:57,280
+Sì.
+
+756
+00:46:58,240 --> 00:47:01,840
+Facciamo un cenno alla chat, perché giustamente Daniele ci chiede: visto che
+
+757
+00:47:01,840 --> 00:47:06,560
+parlavamo dei comandi rapidi, se secondo te, visto che hai avuto entrambi
+
+758
+00:47:06,560 --> 00:47:11,600
+gli appoggi, se è meglio comandi rapidi o automator: allora, automator sta
+
+759
+00:47:11,600 --> 00:47:12,240
+morendo.
+
+760
+00:47:12,240 --> 00:47:16,640
+Qui meglio comandi rapidi se ci vuole avere qualcosa per il futuro,
+
+761
+00:47:16,640 --> 00:47:23,120
+mettiamola così: cioè comunque rispetto a automaticamente a comandi rapidi è futuribile.
+
+762
+00:47:23,360 --> 00:47:28,960
+Nel senso, è comunque il futuro dell'automazioni su Mac OS e i
+
+763
+00:47:29,040 --> 00:47:29,280
+OS.
+
+764
+00:47:29,360 --> 00:47:35,400
+Ma secondariamente ha molte più applicazioni che funzionano o che danno nuove
+
+765
+00:47:35,400 --> 00:47:37,240
+funzionalità comandi rapidi.
+
+766
+00:47:37,240 --> 00:47:42,120
+Per fare un esempio, forse stupido, ma per far capire ho creato
+
+767
+00:47:42,120 --> 00:47:47,240
+un'automazione per creare le note dell'episodio, bene o mano standardizzati, episodi di
+
+768
+00:47:47,240 --> 00:47:47,800
+a 2.
+
+769
+00:47:47,800 --> 00:47:53,000
+Tra le varie cose, ho utilizzato data jar come sistema per avere
+
+770
+00:47:53,000 --> 00:47:58,280
+il numero della puntata nuova, diciamo, successiva, cioè senza dover fare dei
+
+771
+00:47:58,280 --> 00:47:59,080
+ragionamenti.
+
+772
+00:47:59,080 --> 00:48:03,240
+Io quando clicco il pulsante per creare le note dell'episodio, passo dalla
+
+773
+00:48:03,240 --> 00:48:08,280
+puntata 44, che è l'ultima, diciamo, alla puntata 45, che è quella
+
+774
+00:48:08,280 --> 00:48:12,200
+di oggi, in automatico, senza dover fare ragionamenti e così via.
+
+775
+00:48:12,200 --> 00:48:15,800
+Perché ogni volta che genero una nuova puntata, il contatore in data
+
+776
+00:48:15,800 --> 00:48:20,920
+jar viene aggiornato dalla shortcut che o dal comando rapido, che genera
+
+777
+00:48:20,920 --> 00:48:22,520
+ovviamente le note dell'episodio.
+
+778
+00:48:22,520 --> 00:48:27,800
+Data jar funziona sia su Mac che su Pad o su iOS,
+
+779
+00:48:28,280 --> 00:48:33,080
+si sincronizza ovviamente via i cloud ed è qualcosa che non esiste,
+
+780
+00:48:33,080 --> 00:48:34,440
+per esempio, su AutoMator.
+
+781
+00:48:34,440 --> 00:48:40,920
+Quindi, tutte queste applicazioni che adesso danno, donano funzionalità aggiuntive, azioni aggiuntive
+
+782
+00:48:41,080 --> 00:48:44,280
+a comandi rapidi sono inesistenti su automator.
+
+783
+00:48:44,280 --> 00:48:48,280
+Quindi è ovvio che su questo, un esempio, fosse anche banale, stupido,
+
+784
+00:48:48,600 --> 00:48:53,800
+però è questo il concetto: ormai difficilmente le applicazioni per macOS e
+
+785
+00:48:53,800 --> 00:48:59,400
+per iOS hanno queste funzionalità su iOS, ovviamente non esiste automator, quindi
+
+786
+00:48:59,400 --> 00:49:00,760
+comunque non è possibile.
+
+787
+00:49:00,760 --> 00:49:05,560
+Però è ovvio che sviluppare un comando rapido su iOS mi permette
+
+788
+00:49:05,560 --> 00:49:10,280
+anche di poterlo utilizzare su macOS e quindi è ovvio che riesco
+
+789
+00:49:10,280 --> 00:49:14,600
+poi a fare, per esempio, nel caso specifico, vabbè, fate una modifica
+
+790
+00:49:14,600 --> 00:49:19,040
+a questo comando rapido che abitualmente lanciavo da iOS, l'ho fatto direttamente
+
+791
+00:49:19,040 --> 00:49:22,800
+su macOS, non ha avuto nessun tipo di problema.
+
+792
+00:49:23,200 --> 00:49:28,480
+Appunto, testimone Roberto, le note dell'episodio sono state generate in una modalità
+
+793
+00:49:28,480 --> 00:49:34,560
+chiamiamola così diversa, perché abbiamo usato un supporto cloud diverso, ma
+
+794
+00:49:35,680 --> 00:49:40,000
+il sistema era il medesimo che avevo già sviluppato, e questa è
+
+795
+00:49:40,000 --> 00:49:42,800
+sicuramente, secondo me, una cosa impagabile.
+
+796
+00:49:43,040 --> 00:49:47,040
+Sì, c'è da dire che primo acquisto per me automator è rimasto
+
+797
+00:49:47,040 --> 00:49:51,520
+più semplice che i comandi rapidi per entrare all'interno di comandi rapidi
+
+798
+00:49:51,520 --> 00:49:54,400
+e capire bene come funziona, bisogna un po' lavorarci.
+
+799
+00:49:54,400 --> 00:49:58,000
+Tuttavia, francamente, è decisamente potente.
+
+800
+00:49:58,000 --> 00:50:04,000
+Ma noi abbiamo fatto delle puntate dove lo spieghiamo: decisamente potente.
+
+801
+00:50:04,000 --> 00:50:07,520
+Sì, potete andarvi a vedere le puntate di A2.
+
+802
+00:50:07,520 --> 00:50:11,360
+Ma invece, quello che volevo parlare, visto che siamo su comandi rapidi,
+
+803
+00:50:11,360 --> 00:50:13,360
+volevo sentire i comandi rapidi di Filippo.
+
+804
+00:50:13,520 --> 00:50:18,560
+Allora, diciamo che visto che tu hai fatto tutta questa roba qua,
+
+805
+00:50:18,560 --> 00:50:22,720
+io non avevo niente in mano da raccontare, ma avevo alcune idee.
+
+806
+00:50:23,200 --> 00:50:26,400
+Avevo alcune idee da tempo che volevo approfondire.
+
+807
+00:50:26,400 --> 00:50:30,160
+Ne approfitto perché ovviamente quello che vi racconterò in parte è legato
+
+808
+00:50:30,160 --> 00:50:36,000
+alle novità di iOS 16 e iPods 16 e le nuove funzionalità
+
+809
+00:50:36,000 --> 00:50:37,840
+che si possono utilizzare.
+
+810
+00:50:37,840 --> 00:50:42,160
+Volevo creare una cosa che avevo già letto tantissimo tempo fa: cioè,
+
+811
+00:50:42,240 --> 00:50:46,960
+l'idea di fondo è che i nostri dispositivi sono appunto dei dispositivi
+
+812
+00:50:46,960 --> 00:50:48,320
+che ci distraggono.
+
+813
+00:50:48,320 --> 00:50:52,800
+Una delle modalità con cui ci distraggono, tra virgolette, sono anche i
+
+814
+00:50:52,800 --> 00:50:58,720
+colori, cioè tendenzialmente siamo attratti dai colori, se vedete tutte le applicazioni
+
+815
+00:50:58,720 --> 00:51:02,520
+e tutte le varie cose, non so, Instagram è tutta colorata.
+
+816
+00:51:02,680 --> 00:51:07,160
+Ci sono tutta una serie di le foto, diciamo, sono uno strumento
+
+817
+00:51:07,160 --> 00:51:11,400
+per distrarci, nel senso che ovviamente vedi una foto colorata è molto
+
+818
+00:51:11,400 --> 00:51:14,440
+diversa dal vedere una foto in bianco e nero.
+
+819
+00:51:14,680 --> 00:51:19,720
+Una delle funzioni interessanti e uno dei consigli che avevo letto all'epoca,
+
+820
+00:51:19,720 --> 00:51:23,800
+perché secondo me ho ricercato l'articolo, ma non l'ho trovato, quindi non
+
+821
+00:51:24,040 --> 00:51:27,720
+ve lo riesco a mettere se ce la faccio, cerco di mettere
+
+822
+00:51:27,800 --> 00:51:31,480
+note l'episodio, ma oggi pomeriggio non sono riuscito a trovarlo.
+
+823
+00:51:31,480 --> 00:51:35,880
+Era quella di rendere, per esempio, lo schermo dell'iPhone in bianco e
+
+824
+00:51:35,880 --> 00:51:38,760
+nero, cosa che ho fatto all'epoca.
+
+825
+00:51:38,760 --> 00:51:44,440
+Il problema è che c'è da andare nelle impostazioni di accessibilità dell'iPhone
+
+826
+00:51:44,840 --> 00:51:49,640
+in fondo a un sottomenu e passare dalla versione a colori a
+
+827
+00:51:49,640 --> 00:51:52,760
+quella in bianco e nero che effettivamente ti cambia la vita: cioè,
+
+828
+00:51:52,760 --> 00:51:55,560
+se tu guardi l'iPhone in bianco e nero e un iPhone a
+
+829
+00:51:55,560 --> 00:52:01,640
+colori è totalmente una cosa diversa e quindi anche una distrazione diversa.
+
+830
+00:52:01,640 --> 00:52:05,000
+Ora, l'idea era carina: però, per esempio, con l'iPhone ci fai le
+
+831
+00:52:05,000 --> 00:52:10,280
+foto e poter inquadrare con la fotocamera colori, lo schermo a colori
+
+832
+00:52:10,280 --> 00:52:13,240
+e fare le foto, far vedere una foto a colori, credo che
+
+833
+00:52:13,240 --> 00:52:14,440
+sia fondamentale.
+
+834
+00:52:14,440 --> 00:52:20,200
+Per cui dover fare tutto questo arzigogolo ogni volta era oggettivamente una
+
+835
+00:52:20,200 --> 00:52:22,440
+roba dal mio punto di vista impensabile.
+
+836
+00:52:22,440 --> 00:52:24,360
+Tant'è vero che ci avevo provato qualche giorno.
+
+837
+00:52:24,360 --> 00:52:27,720
+Poi ho detto: vabbè, non ne parliamo più, diventa troppo scomodo.
+
+838
+00:52:27,720 --> 00:52:32,360
+A volte addirittura se non ha colori, non vedi bene alcune cose.
+
+839
+00:52:32,360 --> 00:52:37,000
+Quindi, quindi insomma, c'è tutta una serie di problematiche che nascevano da
+
+840
+00:52:37,000 --> 00:52:39,000
+una scelta di campo di questo genere.
+
+841
+00:52:39,000 --> 00:52:43,880
+Quello che sapevo, tuttavia, è che con le novità di comandi rapidi
+
+842
+00:52:43,880 --> 00:52:47,760
+di iOS 16 e ai Padlo 16 c'erano tutta una serie di
+
+843
+00:52:47,760 --> 00:52:53,120
+nuove funzionalità azioni di cui si poteva andare a usufruire, tra cui
+
+844
+00:52:53,120 --> 00:52:59,040
+appunto il filtro colore che permette di rendere in scala di grigio,
+
+845
+00:52:59,040 --> 00:53:04,080
+ho fatto qualche test veloce oggi pomeriggio rendere scala di grig invece
+
+846
+00:53:04,080 --> 00:53:05,440
+il vostro dispositivo.
+
+847
+00:53:05,440 --> 00:53:11,520
+Ovviamente, con un comando rapido, questo cambia drasticamente la complessità della vicenda
+
+848
+00:53:11,600 --> 00:53:15,360
+perché basta lanciare il comando rapido metacolori e un comando rapido metti
+
+849
+00:53:15,360 --> 00:53:16,400
+in bianco e nero.
+
+850
+00:53:16,400 --> 00:53:22,000
+Se aggiungiamo a possibilità delle full immersion di lanciare specifici comandi rapidi,
+
+851
+00:53:22,000 --> 00:53:25,360
+ci rendiamo conto che il cerchio si chiude e diventa semplice.
+
+852
+00:53:25,360 --> 00:53:31,360
+Cioè, quando, per esempio, voglio lavorare, posso attivare la modalità diciamo in
+
+853
+00:53:31,360 --> 00:53:31,840
+grigio
+
+854
+00:53:33,280 --> 00:53:39,520
+cercando di abbattere tutte le distrazioni, rendere fermata grigia quindi anche visivamente
+
+855
+00:53:39,600 --> 00:53:43,520
+rendermi conto che devo fare una cosa e sono in una determinata
+
+856
+00:53:43,520 --> 00:53:45,680
+modalità, farlo in automatico.
+
+857
+00:53:45,840 --> 00:53:51,680
+Ovviamente uscendo da questa modalità è possibile automatizzare e far partire l'altro
+
+858
+00:53:51,680 --> 00:53:57,440
+comando rapido che invece mi ripristina senza problemi tutte le funzioni.
+
+859
+00:53:57,840 --> 00:54:01,120
+Mi sono divertito, ho detto, ma sarebbe carino anche, non so, per
+
+860
+00:54:01,120 --> 00:54:06,720
+esempio, mettere i suoni sottofondo, quelli che fanno il cosiddetto rumore bianco,
+
+861
+00:54:06,720 --> 00:54:09,040
+diciamo che ti aiuta a concentrare maggiormente.
+
+862
+00:54:09,200 --> 00:54:12,560
+Anche qui non mi ricordo più se sono già in iOS 15
+
+863
+00:54:12,560 --> 00:54:17,200
+o sono solo di iOS 16, ma comunque, sicuramente ci sono tutta
+
+864
+00:54:17,200 --> 00:54:21,920
+una serie di azioni di comandi che vi permettono di attivarli, chiamiamolo
+
+865
+00:54:22,000 --> 00:54:24,400
+così in automatico o cioè con un comando rapido.
+
+866
+00:54:24,400 --> 00:54:29,080
+Non sono tantissimi i rumori bianchi, chiamiamoli così, presenti già di base,
+
+867
+00:54:29,080 --> 00:54:31,640
+pare che siano tre o quattro, credo.
+
+868
+00:54:31,640 --> 00:54:33,560
+Di sottofondo in iOS.
+
+869
+00:54:28,800 --> 00:54:35,240
+Tuttavia, vi segnalo anche che ci sono.
+
+870
+00:54:35,560 --> 00:54:38,520
+Se siete dei fan di queste cose qui, non so, avere il
+
+871
+00:54:38,520 --> 00:54:43,800
+rumore del fuoco, il rumore del chiacchiericcio di sottofondo del bar e
+
+872
+00:54:43,800 --> 00:54:47,400
+così via, esistono applicazioni di terza parte invece che possono essere in
+
+873
+00:54:47,400 --> 00:54:52,040
+questo caso lanciate sempre raccomandi rapidi e vi permettono di fare qualcosa
+
+874
+00:54:52,040 --> 00:54:57,720
+di più customizzato, chiamiamolo in questi termini, addirittura tra le varie funzioni,
+
+875
+00:54:57,720 --> 00:55:00,200
+tra le varie azioni che ci sono, c'è la possibilità di alzare
+
+876
+00:55:00,200 --> 00:55:01,560
+o abbassare questi volumi.
+
+877
+00:55:01,560 --> 00:55:05,480
+Quindi, per esempio, volete proprio mettervi nelle cuffie solo i rumori di
+
+878
+00:55:05,480 --> 00:55:07,400
+sottofondo e escludere tutto il resto.
+
+879
+00:55:07,400 --> 00:55:10,760
+Alzate, chiamiamo così rumori sottofondo a manetta.
+
+880
+00:55:11,000 --> 00:55:15,800
+O altrimenti potete abbassarli quindi volete ascoltare la musica o volete fare
+
+881
+00:55:16,200 --> 00:55:19,960
+o avere comunque la possibilità di non dare fastidio casomai a qualcun
+
+882
+00:55:19,960 --> 00:55:21,560
+altro, o comunque ascoltarli.
+
+883
+00:55:21,560 --> 00:55:26,920
+Quindi potete anche creare i comandi rapidi per alzare, abbassare o fermare
+
+884
+00:55:26,920 --> 00:55:28,440
+questi rumori di sottofondo.
+
+885
+00:55:28,440 --> 00:55:34,600
+L'altro discorso, invece, anche qui interessante, è quello di utilizzare comandi rapidi
+
+886
+00:55:34,600 --> 00:55:37,160
+per modificare lo sfondo dello schermo.
+
+887
+00:55:37,160 --> 00:55:42,040
+E quindi ovviamente personalizzare come volete, perché di fatto poi questa azione
+
+888
+00:55:42,040 --> 00:55:46,680
+vi permette di passare un'immagine come schermo di fondo del vostro iPad
+
+889
+00:55:46,680 --> 00:55:47,480
+o iPhone.
+
+890
+00:55:47,480 --> 00:55:51,560
+È ovvio che creando tutta una serie di potete o salvare direttamente
+
+891
+00:55:51,560 --> 00:55:58,040
+un'immagine all'interno del comando rapido, potete recuperare da una serie prestabilita, un
+
+892
+00:55:58,040 --> 00:56:03,640
+elenco prestabilito di immagini, potete andare a pescare un'immagine casuale nella libreria
+
+893
+00:56:03,640 --> 00:56:04,440
+delle immagini.
+
+894
+00:56:04,440 --> 00:56:07,560
+Insomma, si può fare veramente dopo tutto quello che si vuole, in
+
+895
+00:56:07,560 --> 00:56:11,640
+base ovviamente, alle personalizzazioni che si vogliono dare.
+
+896
+00:56:11,640 --> 00:56:15,920
+L'altra cosa che vi avevo già raccontato, ci sto dietro particolarmente, ma
+
+897
+00:56:15,920 --> 00:56:20,960
+per esempio, quando faccio l'editing dei podcast, in automatico faccio partire un
+
+898
+00:56:20,960 --> 00:56:25,680
+timer con la modalità di editing podcast quindi ho un full immersion
+
+899
+00:56:25,760 --> 00:56:27,760
+dedicato solo ai podcast.
+
+900
+00:56:27,760 --> 00:56:31,600
+Anzi, adesso ne sto pensando a due, diciamo: una per Adue e
+
+901
+00:56:31,600 --> 00:56:35,520
+una per Compendium, così ho i timer differenziati ovviamente.
+
+902
+00:56:36,080 --> 00:56:40,880
+Dove, in pratica, un comando rapido fa partire il timer, fa partire
+
+903
+00:56:41,040 --> 00:56:41,920
+una serie di timer.
+
+904
+00:56:41,920 --> 00:56:45,520
+Poi il timer per tenere traccia del fatto che sto facendo l'editing
+
+905
+00:56:45,520 --> 00:56:49,520
+del podcast e poi perché cerco di farlo per non più di
+
+906
+00:56:49,520 --> 00:56:50,000
+un'ora.
+
+907
+00:56:50,000 --> 00:56:53,360
+Un altro timer che parte quando inizia a fare l'editing e mi
+
+908
+00:56:53,360 --> 00:56:56,880
+dà il timer di un'ora appunto, quindi mi suona una sveglia un'ora
+
+909
+00:56:57,040 --> 00:56:59,920
+dopo che ho editato il podcast un'ora.
+
+910
+00:56:59,920 --> 00:57:03,280
+Che è molto comodo perché è un po' una versione del pomodoro
+
+911
+00:57:03,280 --> 00:57:07,760
+timer o roba del genere, nel senso che lavori finché non senti
+
+912
+00:57:08,640 --> 00:57:13,520
+la sveglia che suona, e quindi può essere uno strumento per dire
+
+913
+00:57:13,600 --> 00:57:16,640
+non ho ancora sentito la sveglia, devo andare avanti, vado, vado, vado,
+
+914
+00:57:16,640 --> 00:57:18,080
+finché non sento la sveglia.
+
+915
+00:57:18,080 --> 00:57:22,880
+E la cosa interessante è che tutte queste azioni possono essere collegate
+
+916
+00:57:23,120 --> 00:57:29,440
+al cambiamento di focus mode o di full immersion che avete creato,
+
+917
+00:57:29,440 --> 00:57:34,160
+in base a come volete strutturare il vostro flusso di lavoro lo
+
+918
+00:57:34,160 --> 00:57:38,640
+specifico lavoro che volete fare, potete inserire tutte queste azioni.
+
+919
+00:57:38,640 --> 00:57:45,440
+Non ho comandi rapidi specifici da condividere, semplicemente perché è un'operazione che
+
+920
+00:57:45,760 --> 00:57:51,360
+ho testato ovviamente in preparazione dell'episodio, ma non ho nulla di definitivo.
+
+921
+00:57:51,360 --> 00:57:56,480
+Tuttavia, sicuramente è qualcosa di interessante che va tenuto presente e che
+
+922
+00:57:57,760 --> 00:58:01,320
+rende strumenti ancora più efficaci e efficienti.
+
+923
+00:58:01,560 --> 00:58:07,160
+I nostri dispositivi mobili, che spesso sono il contrario, diventano invece una
+
+924
+00:58:07,160 --> 00:58:10,600
+fonte di disattenzione o di distrazione.
+
+925
+00:58:10,600 --> 00:58:16,840
+Adesso sto prendendo in mano l'iPhone proprio come fonte di distrazione, proprio
+
+926
+00:58:16,840 --> 00:58:20,200
+perché sono aggiornato ai OS 16.
+
+927
+00:58:20,600 --> 00:58:24,520
+Secondo me questa home screen ci darà delle soddisfazioni.
+
+928
+00:58:24,520 --> 00:58:28,040
+Invece, per quanto riguarda comandi rapidi, la cosa giusta è che diceva:
+
+929
+00:58:29,720 --> 00:58:30,120
+esatto.
+
+930
+00:58:30,120 --> 00:58:34,840
+Invece, in questo caso, nel mio caso, fate in specie, lanciando un
+
+931
+00:58:34,840 --> 00:58:40,600
+comando rapido che mi cambia l'interfaccia grafica essenzialmente di iPad, si può
+
+932
+00:58:40,600 --> 00:58:42,200
+associare all'azione.
+
+933
+00:58:42,200 --> 00:58:47,160
+Ovviamente il cambiamento dello sfondo e aggiungere una musica.
+
+934
+00:58:47,160 --> 00:58:52,760
+Quindi con un tap, riuscite in questo widget che mantengo nella home
+
+935
+00:58:52,840 --> 00:58:58,040
+page e voi potete avere essenzialmente un'azione che vi cambia veramente la
+
+936
+00:58:58,040 --> 00:59:00,360
+modalità di utilizzo del vostro iPad.
+
+937
+00:59:00,360 --> 00:59:03,800
+Sembra una cosa banale, ma vi esorto a provarlo.
+
+938
+00:59:03,800 --> 00:59:06,600
+Perché secondo me è molto interessante.
+
+939
+00:59:06,600 --> 00:59:11,080
+È molto interessante uno perché vi permette di conoscere un altro tipo
+
+940
+00:59:11,080 --> 00:59:15,320
+di modalità di utilizzo del vostro iPad che passa da comandi rapidi,
+
+941
+00:59:15,320 --> 00:59:21,320
+da widget e dal full immersion, che vi può aprire molte molte
+
+942
+00:59:21,320 --> 00:59:22,040
+strade.
+
+943
+00:59:22,040 --> 00:59:27,320
+Ad esempio, su iPhone, non utilizzando questa modalità qua, ma una modalità
+
+944
+00:59:27,320 --> 00:59:31,800
+che si chiama lavoro, semplicemente di full immersion, dove ovviamente taglia tutto
+
+945
+00:59:31,800 --> 00:59:32,120
+quanto.
+
+946
+00:59:32,120 --> 00:59:34,680
+Nel senso, le notifiche che mi interessano che passano sono quelle che
+
+947
+00:59:34,680 --> 00:59:35,480
+riguardano mia moglie.
+
+948
+00:59:35,560 --> 00:59:38,840
+Essendo un telefono e non un iPad, ho bisogno di sentire se
+
+949
+00:59:38,840 --> 00:59:41,560
+ci sono problemi da parte di mia moglie quando è in giro
+
+950
+00:59:42,120 --> 00:59:43,400
+o chiamate di lavoro.
+
+951
+00:59:43,400 --> 00:59:48,400
+Mentre questa modalità mi manda anche in esecuzione il pomodoro timer.
+
+952
+00:59:48,480 --> 00:59:52,000
+Quindi praticamente io con un tap faccio tutte queste cose in modo
+
+953
+00:59:52,000 --> 00:59:54,080
+veloce, semplice e limpido.
+
+954
+00:59:54,080 --> 00:59:57,120
+Perché io faccio un tap, fa tutte le sue cose e poi
+
+955
+00:59:57,120 --> 01:00:02,800
+ti manda sulla schermata principale direttamente l'applicazione di pomodoro timer che utilizzo.
+
+956
+01:00:02,800 --> 01:00:07,840
+Che nella fattispecie si chiama piccola parentesi, minimalist, che è molto particolare
+
+957
+01:00:07,840 --> 01:00:13,520
+perché aggancia la funzione di Pomodoro timer alla lista minimale che voi
+
+958
+01:00:13,520 --> 01:00:14,880
+potete segnarvi.
+
+959
+01:00:14,880 --> 01:00:18,320
+Per esempio, per me è molto interessante all'inizio o alla fine della
+
+960
+01:00:18,320 --> 01:00:21,280
+giornata fare un attimo di mente locale e scriverci le cose che
+
+961
+01:00:21,280 --> 01:00:21,840
+ci sono.
+
+962
+01:00:21,840 --> 01:00:24,400
+Io me le trovo il giorno dopo, do un tap sulla cosa
+
+963
+01:00:24,400 --> 01:00:27,040
+che sto facendo e mi parte 25 minuti.
+
+964
+01:00:27,040 --> 01:00:30,720
+Quindi è un'applicazione interessante, vi consiglio gratuita.
+
+965
+01:00:30,720 --> 01:00:32,080
+Guardatevi anche questo.
+
+966
+01:00:32,160 --> 01:00:33,280
+Che ne dici Filippo?
+
+967
+01:00:33,280 --> 01:00:35,920
+Direi che hai altro da aggiungere a riguardo?
+
+968
+01:00:35,920 --> 01:00:40,480
+No, direi che possiamo chiudere visto che abbiamo fatto la nostra solita
+
+969
+01:00:40,480 --> 01:00:41,360
+puntata
+
+970
+01:00:42,560 --> 01:00:44,480
+di un'ora e mezza più o meno.
+
+971
+01:00:44,960 --> 01:00:50,160
+Puntina, perché non riusciamo a non sbrudolare.
+
+972
+01:00:50,320 --> 01:00:54,080
+Poi vabbè, in editing, probabilmente sarà un po' meno perché c'è da
+
+973
+01:00:54,160 --> 01:00:55,840
+toglier via qualche sbavatura.
+
+974
+01:00:55,840 --> 01:00:58,560
+Però arriveremo sempre alla nostra ora, ora e un quarto.
+
+975
+01:00:58,560 --> 01:01:01,760
+Con l'ottimo lavoro di Filippo che lavora sempre dietro alle quinte.
+
+976
+01:01:02,000 --> 01:01:04,640
+Se volete ringraziarlo, sapete come fare?
+
+977
+01:01:04,640 --> 01:01:08,480
+Ve lo dico io o gli fate complimenti utilizzando il nostro indirizzo
+
+978
+01:01:08,480 --> 01:01:13,840
+di posta elettronica che si chiama scrivi.a@a2podcast.it, oppure
+
+979
+01:01:13,840 --> 01:01:17,840
+scrivete una bella recensione che ci aiuta non solo i nostri cuori,
+
+980
+01:01:17,840 --> 01:01:21,600
+ma anche a farci conoscere di più all'interno delle classifiche di Apple
+
+981
+01:01:21,600 --> 01:01:22,080
+Podcast.
+
+982
+01:01:22,080 --> 01:01:26,160
+Che, tra l'altro, non sono neanche tanto male perché A2 Podcast,
+
+983
+01:01:26,320 --> 01:01:28,480
+salta fuori spesso e sovente.
+
+984
+01:01:28,480 --> 01:01:33,320
+Tra primi, chiamiamoli così tra virgolette 100 perché alla fine mi pare
+
+985
+01:01:33,320 --> 01:01:36,520
+che siano 100-200 in quelle che si fa che fa vedere adesso
+
+986
+01:01:36,600 --> 01:01:40,760
+non mi ricordo più precisamente ma in ogni caso compare spesso e
+
+987
+01:01:40,760 --> 01:01:46,520
+sovente in alto in classifica nella classifica tecnologia e vi ringraziamo prima
+
+988
+01:01:46,520 --> 01:01:49,640
+di tutto per l'ascolto e poi se volete ancora farlo salire di
+
+989
+01:01:49,640 --> 01:01:55,320
+più perché per Apple è importante la recensione andatevela a fare tranquillamente
+
+990
+01:01:55,320 --> 01:01:59,080
+seguendo il link che troverete all'interno delle note dell'episodio.
+
+991
+01:01:59,080 --> 01:02:04,360
+A proposito di note dell'episodio, come sempre troverete all'interno di questo lunghissimo
+
+992
+01:02:04,360 --> 01:02:07,720
+papiro che ci sarà anche per questa volta molto molto lungo.
+
+993
+01:02:07,720 --> 01:02:10,440
+Perché ci sono tutti i link di quello che vi abbiamo parlato
+
+994
+01:02:10,440 --> 01:02:15,160
+in puntata, andando tranquillamente nella pagina a2podcast.it
+
+995
+01:02:16,520 --> 01:02:17,320
+45.
+
+996
+01:02:17,320 --> 01:02:20,120
+Scusate, non vedo più perché incomincio ad essere stanco anch'io.
+
+997
+01:02:20,120 --> 01:02:22,920
+Dove ci potete trovare i nostri simpatici eroi.
+
+998
+01:02:22,920 --> 01:02:26,280
+Ma guardate, per quanto mi riguarda, mi trovate un meno male dappertutto.
+
+999
+01:02:26,280 --> 01:02:29,160
+Prima o poi dovrò smettere anche di fare tutta questa roba così
+
+1000
+01:02:29,320 --> 01:02:30,760
+indiscriminatamente.
+
+1001
+01:02:30,760 --> 01:02:36,040
+Ma essenzialmente principalmente mi trovate sul mio blog personale Mac Architettura.
+
+1002
+01:02:36,040 --> 01:02:42,680
+Che potete trovare all'indirizzo marchonnet.wordpress.com sul mio podcast settimanale che si chiama
+
+1003
+01:02:42,680 --> 01:02:44,360
+Snap Architettura Imperfetta.
+
+1004
+01:02:44,360 --> 01:02:48,520
+E anche qui lo trovate su tutti gli aggregatori di podcast.
+
+1005
+01:02:48,680 --> 01:02:53,160
+E poi mi trovate anche sul blog di Grafisoft Italia dove vi
+
+1006
+01:02:53,160 --> 01:02:56,520
+parlo del BIM e di come si utilizza nel mondo dell'architettura.
+
+1007
+01:02:56,520 --> 01:02:58,920
+Invece, il nostro simpatico Filippo, dove lo troviamo?
+
+1008
+01:02:58,920 --> 01:03:04,520
+Lo trovate su avvocatemac.it e se volete ascoltarmi anche su un altro
+
+1009
+01:03:04,520 --> 01:03:09,320
+podcast, Compendium Cadenza mensile quindi non troppo pesante.
+
+1010
+01:03:09,640 --> 01:03:13,960
+Nell'ultimo periodo sto facendo tutta una serie di cose legate un po'
+
+1011
+01:03:14,040 --> 01:03:17,280
+al minimalismo e un po' al fatto che ho fatto una serie
+
+1012
+01:03:17,280 --> 01:03:22,160
+infinita di traslochi, quindi ho tutta una serie di pensieri e di
+
+1013
+01:03:22,160 --> 01:03:27,760
+ragionamenti sull'argomento che sono diventati abbastanza importanti, mettiamola.
+
+1014
+01:03:27,840 --> 01:03:33,760
+Quindi, se volete avere altri spunti, diciamo, potete trovarli nelle ultime puntate
+
+1015
+01:03:33,760 --> 01:03:34,480
+di compagno.
+
+1016
+01:03:34,560 --> 01:03:39,120
+Come ragionamento principe, quello di evitare come la peste i traslochi.
+
+1017
+01:03:39,120 --> 01:03:45,280
+Ma questo lo capirete anche voi sentendo le sottolineature molto pesanti, che
+
+1018
+01:03:45,280 --> 01:03:47,680
+ha fatto nel suo podcast, Filippo.
+
+1019
+01:03:47,680 --> 01:03:51,920
+E per adesso non ci rimane che darvi appuntamento fra due settimane.
+
+1020
+01:03:51,920 --> 01:03:52,800
+Alla prossima!
+
+1021
+01:03:52,800 --> 01:03:53,680
+Alla prossima!

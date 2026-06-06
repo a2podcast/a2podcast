@@ -1,0 +1,3107 @@
+1
+00:00:00,160 --> 00:00:04,720
+Benvenuti all'episodio 12 di A2 in cui scoprire come ottenere il massimo
+
+2
+00:00:04,720 --> 00:00:06,240
+dalla vostra tecnologia Apple.
+
+3
+00:00:06,240 --> 00:00:09,680
+Io sono Filippo Strozzi e sono il vostro ospite assieme all'amico Roberto
+
+4
+00:00:09,680 --> 00:00:10,400
+Marin.
+
+5
+00:00:10,400 --> 00:00:12,720
+Di che cosa parliamo in questo episodio, Roberto?
+
+6
+00:00:12,720 --> 00:00:19,120
+In questa puntata introduciamo un argomento molto caro a Filippo, ovvero l'automazione.
+
+7
+00:00:19,120 --> 00:00:22,800
+Oggi non entreremo troppo nel dettaglio di come creare un'automazione o degli
+
+8
+00:00:22,800 --> 00:00:29,040
+specifici programmi per l'automazione con macOS e iOS barra iPadOS, ma
+
+9
+00:00:29,040 --> 00:00:35,200
+ci soffermeremo sul perché è importante automatizzare e quali trappole dobbiamo evitare.
+
+10
+00:00:35,200 --> 00:00:37,360
+C'è una sorpresa di cui vi vogliamo parlare.
+
+11
+00:00:37,360 --> 00:00:38,560
+Qual è la sorpresa?
+
+12
+00:00:38,560 --> 00:00:43,920
+Una nuova e bellissima recensione di cui facciamo veramente gli applausi.
+
+13
+00:00:43,920 --> 00:00:46,240
+Grazie mille, siete troppo gentili.
+
+14
+00:00:46,560 --> 00:00:50,960
+Una domanda, ma dove possono fare i nostri ascoltatori le recensioni bellissime?
+
+15
+00:00:50,960 --> 00:00:52,960
+Lasciami fare che glielo spiego dopo.
+
+16
+00:00:52,960 --> 00:00:58,720
+Prima leggiamo la lezione, lascia fare, lascia fare, anche se divago come
+
+17
+00:00:58,720 --> 00:01:00,960
+sempre, ma ho tutta una mia cosa in testa.
+
+18
+00:01:00,960 --> 00:01:02,400
+Sono un architetto, Filippo.
+
+19
+00:01:02,400 --> 00:01:04,720
+Deve avere pazienza, pazienza.
+
+20
+00:01:06,880 --> 00:01:13,840
+Allora, ringraziamo Paolo Rendina o Rendina Orendina che scrive: aperte virgolette, c'è
+
+21
+00:01:13,840 --> 00:01:14,400
+tutto.
+
+22
+00:01:14,400 --> 00:01:19,120
+Dalla spiegazione per neofiti alla chiave per un diverso utilizzo del sistema
+
+23
+00:01:19,200 --> 00:01:21,760
+che non si finisce mai di imparare del tutto.
+
+24
+00:01:21,760 --> 00:01:27,520
+Dall'opportunità di tornare a scrivere, tra virgolette, lo cito io e non
+
+25
+00:01:27,520 --> 00:01:29,600
+semplicemente datilografare.
+
+26
+00:01:29,600 --> 00:01:34,480
+All'app che ti semplifica il processo lavorativo e da avvocato tutta la
+
+27
+00:01:34,480 --> 00:01:40,160
+mia stima per un approccio mai banale, innovativo, rigoroso, ma soprattutto critico,
+
+28
+00:01:40,160 --> 00:01:43,600
+dove l'uomo rimane comunque al centro di ogni passaggio.
+
+29
+00:01:43,600 --> 00:01:44,800
+Bravissimi.
+
+30
+00:01:44,800 --> 00:01:46,560
+Grazie mille, davvero Paolo!
+
+31
+00:01:47,280 --> 00:01:48,560
+Veramente bellissime parole.
+
+32
+00:01:48,560 --> 00:01:52,000
+Si vede che c'è dietro un avvocato, dietro queste parole, ti ringraziamo
+
+33
+00:01:52,000 --> 00:01:52,480
+davvero.
+
+34
+00:01:52,600 --> 00:01:57,600
+E se volete seguire questo esempio, sapete come dovete fare?
+
+35
+00:01:57,600 --> 00:02:00,760
+Basta andare semplicemente a seguire una delle tante guide che ha fatto
+
+36
+00:02:00,760 --> 00:02:04,280
+il nostro simpatico Filippo Strozzi sul suo sito Avvocati e Mac.
+
+37
+00:02:04,280 --> 00:02:06,680
+Che non metterà il link perché questa volta ti ho colto in
+
+38
+00:01:59,760 --> 00:02:07,080
+castagna.
+
+39
+00:02:07,160 --> 00:02:12,040
+Che mi ha messo il link del tuo articolo di cui parli
+
+40
+00:02:12,200 --> 00:02:16,280
+di come mettere le recensioni, mentre sul mio podcast link il tuo
+
+41
+00:02:16,280 --> 00:02:19,160
+articolo perché io sono bravo.
+
+42
+00:02:19,720 --> 00:02:20,920
+Bravo.
+
+43
+00:02:21,560 --> 00:02:25,480
+Quindi, ragazzi miei, aiutateci con le recensioni che ci aiuta a portare
+
+44
+00:02:25,480 --> 00:02:30,360
+gli ascolti in alto, a far ascoltare a qualche amico vostro.
+
+45
+00:02:30,360 --> 00:02:33,720
+Continua a dire come dico sempre a tutti quanti: se vi piace
+
+46
+00:02:33,720 --> 00:02:38,120
+il podcast, la miglior cosa è divulgare a amici e parenti per
+
+47
+00:02:38,120 --> 00:02:42,120
+far capire un po' come si può utilizzare questo mondo con la
+
+48
+00:02:42,120 --> 00:02:47,320
+mela morsicata sopra nel modo più fruttuoso per noi esseri umani, appunto,
+
+49
+00:02:47,400 --> 00:02:51,560
+seguendo la citazione che ci ha dato il nostro amico Paolo Ascoltatore.
+
+50
+00:02:51,560 --> 00:02:56,440
+Poi, se invece volete iscriverci, sapete qual è l'indirizzo e quello simpatico
+
+51
+00:02:56,680 --> 00:03:00,680
+dove tutti i nostri bambini si impappinano indelebilmente, ma noi no, perché
+
+52
+00:03:00,680 --> 00:03:06,360
+siamo adulti e forse riusciamo anche a leggerlo, forse si dice così.
+
+53
+00:03:06,360 --> 00:03:10,680
+Intanto vedo, a proposito, parlando di bambini, salutiamo mio figlio che sta
+
+54
+00:03:10,680 --> 00:03:11,480
+passando qua dietro.
+
+55
+00:03:11,480 --> 00:03:15,400
+Non so se lo vedi, saluta, lo vedo, lo vedo come ti
+
+56
+00:03:15,400 --> 00:03:16,280
+chiami?
+
+57
+00:03:18,760 --> 00:03:19,880
+Grazie per la lettera.
+
+58
+00:03:19,880 --> 00:03:20,120
+Abbiamo
+
+59
+00:03:21,160 --> 00:03:23,320
+dalla Spagna, grazie mille, Leo.
+
+60
+00:03:23,320 --> 00:03:26,520
+Ok, a proposito di lettera, già che ci siamo, l'indirizzo a cui
+
+61
+00:03:26,520 --> 00:03:32,200
+potete iscriverci è scrivi.a@a2podcast.it.
+
+62
+00:03:32,200 --> 00:03:36,440
+Allora, Filippo, raccontaci un po', cos'è questa storia dell'automazione?
+
+63
+00:03:36,520 --> 00:03:39,160
+Non riesco neanche a dirlo da quanto è complicato, sicuramente è una
+
+64
+00:03:39,160 --> 00:03:39,960
+cosa complicata.
+
+65
+00:03:39,960 --> 00:03:42,440
+No, non è vero, non è vero, non è vero, anzi,
+
+66
+00:03:43,480 --> 00:03:47,520
+apro e chiudo una parentesi, ovviamente io sono un fan dell'automazione se
+
+67
+00:03:47,520 --> 00:03:53,040
+non si fosse capito, e quindi parlo, diciamo per partito preso.
+
+68
+00:03:53,040 --> 00:03:58,640
+Però in estrema sintesi, l'automazione poi è pensata come una ricetta, una
+
+69
+00:03:58,640 --> 00:04:05,680
+ricetta che facciamo eseguire al nostro computer, per cui nella sostanza, invece
+
+70
+00:04:05,680 --> 00:04:10,800
+di svolgere noi il lavoro, diamo delle indicazioni passo passo.
+
+71
+00:04:10,800 --> 00:04:13,920
+Quindi pensate a una ricetta, c'è da prendere la farina, c'è da
+
+72
+00:04:13,920 --> 00:04:18,960
+prendere le uova, c'è da prendere il latte, mescolare tutte assieme e
+
+73
+00:04:19,040 --> 00:04:20,880
+ovviamente creare l'impasto.
+
+74
+00:04:20,880 --> 00:04:26,000
+Ecco benissimo, un'automazione di fatto fa questo: cioè indica il computer cosa
+
+75
+00:04:26,000 --> 00:04:31,840
+c'è da fare, indica gli elementi che vogliamo unire e modificare in
+
+76
+00:04:31,840 --> 00:04:39,520
+un nuovo elemento, e ovviamente crea questo nuovo elemento che dovrebbe velocizzare
+
+77
+00:04:39,520 --> 00:04:43,280
+le operazioni che svolgiamo quotidianamente davanti a un computer.
+
+78
+00:04:43,280 --> 00:04:46,640
+Esatto, bisogna iniziare a far lavorare il computer al posto nostro perché
+
+79
+00:04:46,720 --> 00:04:48,640
+se no, cosa ci stiamo a fare qua?
+
+80
+00:04:48,640 --> 00:04:52,960
+Insomma, se usiamo il computer come uno strumento, come in teoria potrebbe
+
+81
+00:04:52,960 --> 00:04:57,680
+essere quello di uno scalpello e un martello, cioè io semplicemente batto
+
+82
+00:04:57,680 --> 00:05:02,720
+ripetutamente sulla testa del martello, tanto vale usare un computer, dico io,
+
+83
+00:05:02,720 --> 00:05:05,760
+nel senso andate a scrivere a mano piuttosto.
+
+84
+00:05:05,760 --> 00:05:09,120
+Invece, per esempio, ci sono delle automazioni molto semplici, giusto per fare
+
+85
+00:05:09,120 --> 00:05:15,360
+il collegamento con la puntata precedente, semplicemente anche l'espansione del testo è
+
+86
+00:05:15,360 --> 00:05:17,840
+alla fine una piccola automazione.
+
+87
+00:05:17,840 --> 00:05:21,840
+Quindi non è un argomento che deve fare paura perché comunque è
+
+88
+00:05:21,840 --> 00:05:26,480
+una cosa molto semplice da attuare, ma come spesso ci racconta Alex
+
+89
+00:05:26,480 --> 00:05:31,880
+Raccuglia, ogni secondo guadagnato ti porta a fine giornata, magari a guadagnare
+
+90
+00:05:29,840 --> 00:05:32,520
+anche un'ora.
+
+91
+00:05:32,600 --> 00:05:36,360
+Perché alla fine metti un secondo qua, metti due minuti di là,
+
+92
+00:05:36,360 --> 00:05:39,400
+mettene cinque di qua, e una volta che fai sette operazioni tutte
+
+93
+00:05:39,400 --> 00:05:42,680
+uguali, alla fine ti porti a casa del tempo che, come sapete,
+
+94
+00:05:42,680 --> 00:05:45,080
+io sono un fatore di questo, il tempo è la cosa più
+
+95
+00:05:45,080 --> 00:05:47,960
+preziosa che abbiamo e che ci permette anche di fare delle scelte
+
+96
+00:05:47,960 --> 00:05:50,600
+in base al tempo che abbiamo a disposizione.
+
+97
+00:05:51,320 --> 00:05:53,880
+Anche perché non abbiamo tempo infinito a disposizione.
+
+98
+00:05:53,880 --> 00:05:54,360
+Esattamente.
+
+99
+00:05:54,360 --> 00:05:57,960
+E con questo so che mi stai ricordando di non divagare e
+
+100
+00:05:57,960 --> 00:05:59,960
+andare avanti sulla scaletta.
+
+101
+00:06:01,240 --> 00:06:05,160
+Esatto, ormai colgo le citazioni, ormai.
+
+102
+00:06:05,160 --> 00:06:11,640
+Quindi possiamo ragionare sul perché è utile imparare a automatizzare alcuni compiti,
+
+103
+00:06:11,640 --> 00:06:12,920
+ovviamente davanti al computer.
+
+104
+00:06:12,920 --> 00:06:18,120
+La prima cosa, forse la fondamentale, è quella dell'uniformità, soprattutto se abbiamo
+
+105
+00:06:18,360 --> 00:06:24,200
+un'operazione da svolgere in una determinata modalità e ripetutamente, quindi non una
+
+106
+00:06:24,200 --> 00:06:29,800
+sola volta, ma tante volte, l'automazione ci garantisce di avere dalle medesime
+
+107
+00:06:29,800 --> 00:06:33,080
+premesse un medesimo risultato, che è molto utile.
+
+108
+00:06:33,080 --> 00:06:39,560
+Immaginate, giusto perché stiamo parlando di digitalizzazione anche per concretizzare un po'
+
+109
+00:06:39,560 --> 00:06:45,960
+la parte, chiamiamola così, teorica delle precedenti puntate, dobbiamo generare una pratica,
+
+110
+00:06:46,200 --> 00:06:49,800
+nel caso mio specifico, da avvocato, quindi con tutta una serie di
+
+111
+00:06:49,800 --> 00:06:55,480
+sottocartelle ed eventualmente anche documenti presenti in questa sottocartella, è ovvio che
+
+112
+00:06:55,480 --> 00:07:02,760
+avere un'automazione che automaticamente, cliccando casomai un tasto o una scocciatoia tastiera,
+
+113
+00:07:02,760 --> 00:07:07,560
+mi genera tutte queste sottocartelle diventa molto comodo e io avrò tutte
+
+114
+00:07:07,560 --> 00:07:14,160
+le pratiche con la stessa sottostruttura cartella che ho predisposto originariamente io.
+
+115
+00:07:14,160 --> 00:07:18,640
+Quindi invece di dover andare a prendere, eventualmente copiare da un modello,
+
+116
+00:07:13,800 --> 00:07:20,080
+ricordarsi dov'è il modello.
+
+117
+00:07:20,160 --> 00:07:25,440
+Innanzitutto andare a prendere copia e incollare nella nuova cartella della nuova
+
+118
+00:07:25,440 --> 00:07:33,200
+posizione, io con una semplice scorciatoia tastiera automaticamente viene generato tutta l'architettura
+
+119
+00:07:33,200 --> 00:07:36,880
+delle sottocartelle in un attimo senza che io debba fare niente.
+
+120
+00:07:36,880 --> 00:07:41,440
+Ecco, anche lì un'altra cosa che a volte si sottovaluta: i computer
+
+121
+00:07:41,440 --> 00:07:44,000
+sono velocissimi a operare.
+
+122
+00:07:44,000 --> 00:07:49,600
+Per cui le automazioni si avvantaggiano di un'altra parte fondamentale dell'attività davanti
+
+123
+00:07:49,600 --> 00:07:50,080
+al computer.
+
+124
+00:07:50,080 --> 00:07:53,440
+Cioè, mentre noi casomai ci mettiamo 20 secondi a fare tutte queste
+
+125
+00:07:53,440 --> 00:07:57,840
+operazioni perché sposta il mouse, vai a cercare la cartella, clicca lì,
+
+126
+00:07:57,840 --> 00:08:00,880
+poi clicca copia, poi vai e fai.
+
+127
+00:08:00,880 --> 00:08:03,440
+Invece, il computer lo fa in millisecondi.
+
+128
+00:08:03,440 --> 00:08:07,760
+E quindi quello che è un'operazione che per noi casomai proprio fisicamente
+
+129
+00:08:07,840 --> 00:08:12,960
+richiede del tempo, al computer richiede un istante.
+
+130
+00:08:12,960 --> 00:08:16,800
+Per cui, per esempio, una volta che faccio partire l'automazione, in pratica,
+
+131
+00:08:16,800 --> 00:08:19,280
+le cartelle sono già create.
+
+132
+00:08:19,840 --> 00:08:21,840
+È veramente una questione di.
+
+133
+00:08:21,840 --> 00:08:27,200
+Quindi, sicuramente questa è una cosa importante e utile dell'automazione.
+
+134
+00:08:27,200 --> 00:08:30,560
+L'altra cosa che è collegata ovviamente è evitare errori.
+
+135
+00:08:30,560 --> 00:08:34,320
+Se io devo fare la stessa operazione tante volte.
+
+136
+00:08:34,320 --> 00:08:36,720
+Non è detto che tutte le volte la faccia in maniera uguale
+
+137
+00:08:36,880 --> 00:08:39,200
+e casomai a volte posso sbagliare.
+
+138
+00:08:39,200 --> 00:08:43,760
+Datare un documento casomai un numero lo digito sbagliato ci sta.
+
+139
+00:08:43,760 --> 00:08:45,920
+O digito il numero a fianco.
+
+140
+00:08:45,920 --> 00:08:51,120
+Ovviamente l'automazione ti permette di essere tranquillo sul fatto che non vengano
+
+141
+00:08:51,120 --> 00:08:52,800
+compiuti errori.
+
+142
+00:08:52,800 --> 00:08:56,800
+Per cui ovviamente velocizza l'esecuzione di una determinata attività.
+
+143
+00:08:56,800 --> 00:09:01,960
+Adesso abbiamo fatto sempre degli esempi abbastanza minimali, giusto per rimanere molto
+
+144
+00:09:01,960 --> 00:09:03,480
+pratici e così via.
+
+145
+00:08:59,920 --> 00:09:07,320
+Però a volte ci sono operazioni più complicate da svolgere.
+
+146
+00:09:07,480 --> 00:09:11,560
+E per esempio, non so, adesso interessante che ho visto fare è
+
+147
+00:09:11,560 --> 00:09:15,800
+copiare dei dati da un foglio di calcolo, quindi un foglio di
+
+148
+00:09:15,800 --> 00:09:16,840
+Excel e così via.
+
+149
+00:09:16,840 --> 00:09:20,360
+Che sono quindi in una tabella, copiarli in una maniera diversa da
+
+150
+00:09:20,360 --> 00:09:23,240
+come è strutturata la tabella, per esempio, non so, in un foglio
+
+151
+00:09:23,240 --> 00:09:24,040
+di Word.
+
+152
+00:09:24,200 --> 00:09:29,320
+Ecco con Kyboard Maestro ne parleremo tra i vari programmi che possono
+
+153
+00:09:29,320 --> 00:09:31,560
+essere utili per automatizzare su macOS.
+
+154
+00:09:31,560 --> 00:09:35,880
+Con Kimboard Maestro io ho visto delle automazioni dove praticamente il computer
+
+155
+00:09:35,880 --> 00:09:40,760
+faceva tutte le operazioni manuali di copia e incolla fisico spostandosi a
+
+156
+00:09:40,760 --> 00:09:46,360
+destra e a manca da un'applicazione all'altra, fatta direttamente dal computer e
+
+157
+00:09:46,360 --> 00:09:49,480
+vedi il computer che si muova a una velocità che comunque il
+
+158
+00:09:49,480 --> 00:09:56,920
+nostro taglia incolla sarebbe inimmaginabile, e casomai appunto l'errore è facilissimo perché
+
+159
+00:09:57,240 --> 00:10:01,320
+una volta che clicca qua clicca là, è ovvio che casomai clicchi
+
+160
+00:10:01,320 --> 00:10:05,880
+nel posto sbagliato e se l'automazione è ben strutturata, ovviamente il computer
+
+161
+00:10:05,880 --> 00:10:06,840
+non sbaglia.
+
+162
+00:10:06,840 --> 00:10:10,760
+L'unico eventuale errore che commette è quello che abbiamo impostato noi nella
+
+163
+00:10:11,080 --> 00:10:17,160
+chiamiamola così programmazione di questa attività, da ultimo, ovviamente, ne abbiamo già
+
+164
+00:10:17,160 --> 00:10:22,440
+parlato, in pratica, l'utilità di automatizzare e evitare operazioni banali, tipo dover
+
+165
+00:10:22,440 --> 00:10:28,600
+copiare o modificare, per esempio, un documento abbiamo un elenco di 100
+
+166
+00:10:28,600 --> 00:10:32,840
+persone e abbiamo il nome davanti al cognome, e casomai, io me
+
+167
+00:10:32,840 --> 00:10:37,560
+lo sono trovato recentemente, e casomai l'elenco è in ordine alfabetico dei
+
+168
+00:10:37,560 --> 00:10:42,200
+nomi, che è inutile, ovviamente, perché fare tutta l'operazione sposta il nome
+
+169
+00:10:42,840 --> 00:10:46,560
+o il cognome davanti al nome e poi riordina in ordine alfabetico
+
+170
+00:10:44,920 --> 00:10:47,760
+questo elenco.
+
+171
+00:10:48,000 --> 00:10:52,320
+Ecco, è una di quelle attività tesiose da fare manualmente, ma che
+
+172
+00:10:52,320 --> 00:10:57,200
+con tutta una serie di automazioni è facilmente implementabile, invece di 5-10
+
+173
+00:10:57,200 --> 00:11:01,680
+minuti a fare 100 nomi, casomai ci si mette 5, 10-15 secondi
+
+174
+00:11:01,760 --> 00:11:06,880
+perché il computer, una volta che sa, è un'attività ripetitiva, perché il
+
+175
+00:11:06,880 --> 00:11:10,560
+modello è sempre medesimo, cioè prendi il nome, spostalo dietro e a
+
+176
+00:11:10,560 --> 00:11:15,920
+fine di tutta l'operazione fai l'indicizzazione con
+
+177
+00:11:17,760 --> 00:11:22,560
+le lettere, è un'operazione che il computer fa in tempi rapidissimi e
+
+178
+00:11:22,560 --> 00:11:26,720
+senza neanche sprecare particolarmente energie.
+
+179
+00:11:26,720 --> 00:11:31,760
+Quindi questi possono essere degli esempi proprio per farvi capire come è
+
+180
+00:11:31,760 --> 00:11:33,600
+possibile automatizzare.
+
+181
+00:11:33,760 --> 00:11:36,800
+Invece parliamo di quando ha senso automatizzare.
+
+182
+00:11:36,960 --> 00:11:41,840
+Cerco di dare un'interpretata ai grafici che ho davanti ai miei occhi,
+
+183
+00:11:41,840 --> 00:11:45,600
+che stavo guardando mentre stavi parlando, tu per cercare di non fare
+
+184
+00:11:45,600 --> 00:11:49,120
+figuracce come il mio solito, perché io arrivo sempre molto preparato.
+
+185
+00:11:49,120 --> 00:11:52,400
+Io sono continuamente impreparato e in vento sul momento.
+
+186
+00:11:52,400 --> 00:11:54,800
+Quindi vedo che funziona, andiamo avanti anche qua.
+
+187
+00:11:54,800 --> 00:11:57,600
+Allora, vediamo qua un po' di che si tratta.
+
+188
+00:11:57,600 --> 00:11:59,200
+Allora, abbiamo due simpaticità.
+
+189
+00:12:00,000 --> 00:12:01,680
+Ti fermo solo un attimo.
+
+190
+00:12:01,680 --> 00:12:07,680
+Se riesco, non garantisco, le immagini che vi descriverà adesso Roberto saranno
+
+191
+00:12:07,680 --> 00:12:10,240
+incorporate nel podcast stesso.
+
+192
+00:12:10,240 --> 00:12:17,360
+Quindi, se aprite il lettore podcast di riferimento, dovreste trovare l'immagine più
+
+193
+00:12:17,360 --> 00:12:20,960
+o meno visibile, perché solitamente poi vengono abbastanza piccole nel riquadro del
+
+194
+00:12:20,960 --> 00:12:21,440
+podcast.
+
+195
+00:12:21,440 --> 00:12:25,760
+Ma diciamo, farò anche questa attività ulteriore visto che si può fare.
+
+196
+00:12:25,760 --> 00:12:31,320
+Allora, tornando alla nostra simpatica vignetta, con la chiamo così perché è
+
+197
+00:12:28,880 --> 00:12:32,520
+scritto: sembra quasi una vignetta
+
+198
+00:12:29,600 --> 00:12:33,480
+, poi la vedrete.
+
+199
+00:12:33,640 --> 00:12:38,680
+No, no, allora è un fumetto, una web comics, ma allora è
+
+200
+00:12:38,680 --> 00:12:43,400
+proprio lui l'avore riconosciuto dal fondo, XKCD.
+
+201
+00:12:43,400 --> 00:12:46,920
+Comunque nelle note dell'episodio ci sarà anche il link, ovviamente, perché li
+
+202
+00:12:47,000 --> 00:12:50,120
+ho già fatti: un sacco di lavoro, Filippo.
+
+203
+00:12:50,200 --> 00:12:55,400
+Allora, dunque, immaginate di avere essenzialmente un grafico dove ci sono nelle
+
+204
+00:12:55,400 --> 00:12:59,960
+ascisse il tempo e nelle ordinate il work, o a viceversa, dipende
+
+205
+00:12:59,960 --> 00:13:01,480
+da come vi viene più comodo.
+
+206
+00:13:01,480 --> 00:13:07,080
+Praticamente la teoria dice che per una task, diciamo che ti occupa
+
+207
+00:13:07,080 --> 00:13:11,960
+solo del gran tempo, tu potresti un'attività traduciamo perché siamo italiani.
+
+208
+00:13:11,960 --> 00:13:14,760
+Mi devo abituare a questa nuova posizione del microfono, mi sento un
+
+209
+00:13:14,760 --> 00:13:15,560
+po' scomodo.
+
+210
+00:13:15,560 --> 00:13:17,640
+Comunque detto questo, perché
+
+211
+00:13:21,480 --> 00:13:25,320
+level level nella prima diretta, insomma, abbiamo fatto un po' di modifiche
+
+212
+00:13:25,320 --> 00:13:27,800
+al microfono, ma non so se saranno.
+
+213
+00:13:27,800 --> 00:13:30,680
+Cosa che avevo detto di non fare, ma tu hai voluto fare
+
+214
+00:13:30,840 --> 00:13:31,240
+lo stesso.
+
+215
+00:13:31,240 --> 00:13:33,800
+Ma bisogna provare, se non le fai, non le provi mai.
+
+216
+00:13:35,560 --> 00:13:36,920
+Mi è già venuto caldo.
+
+217
+00:13:36,920 --> 00:13:43,400
+Quindi parliamo di quando si interviene con l'automazione di un task, ovvero
+
+218
+00:13:43,640 --> 00:13:45,160
+di un'attività.
+
+219
+00:13:45,160 --> 00:13:50,520
+Quindi si perderà molto tempo, diciamo così, a scrivere il codice.
+
+220
+00:13:51,160 --> 00:13:55,960
+Per codice si intende non un codice come programma, ma in realtà
+
+221
+00:13:56,280 --> 00:14:02,360
+cercare qualcosa che permetta di fare questa azione, che potrebbe essere qualsiasi
+
+222
+00:14:02,360 --> 00:14:02,680
+cosa.
+
+223
+00:14:03,080 --> 00:14:07,160
+Può essere del codice, può essere anche un'applicazione volendo, ma ci sono
+
+224
+00:14:07,160 --> 00:14:11,560
+anche, come vedremo più avanti, delle applicazioni che permettono in modo visuale
+
+225
+00:14:11,560 --> 00:14:16,320
+di aggiungere delle azioni in base a qualcosa, ma questo ne parleremo
+
+226
+00:14:14,600 --> 00:14:16,640
+più avanti.
+
+227
+00:14:16,720 --> 00:14:21,680
+Comunque, in ogni caso, il tempo che viene perso per scrivere il
+
+228
+00:14:21,680 --> 00:14:26,960
+codice, chiamiamolo così, viene poi direttamente guadagnato nel momento in cui l'automazione
+
+229
+00:14:27,280 --> 00:14:28,800
+entra al lavoro.
+
+230
+00:14:28,800 --> 00:14:31,520
+Quindi cosa otteniamo del gran tempo libero?
+
+231
+00:14:31,520 --> 00:14:34,640
+Però dobbiamo un attimo guardare, questa è la teoria.
+
+232
+00:14:37,120 --> 00:14:37,680
+È l'ottimo
+
+233
+00:14:38,960 --> 00:14:43,120
+quando becchi la cosa subito alla grande e funziona tutto.
+
+234
+00:14:43,120 --> 00:14:47,360
+In realtà la cosa è un po' diversa perché quando voi mettete
+
+235
+00:14:47,360 --> 00:14:52,080
+lì a scrivere del codice o cercare qualcosa che faccia funzionare qualcos'altro,
+
+236
+00:14:52,080 --> 00:14:57,040
+sicuramente farete delle prove e quindi lì iniziano le fasi di test
+
+237
+00:14:57,040 --> 00:15:02,320
+e debugging, ovvero quello di riuscire a trovare, se il risultato non
+
+238
+00:15:02,320 --> 00:15:06,320
+è quello ottenuto, capire il perché e come intervenire.
+
+239
+00:15:06,320 --> 00:15:11,360
+E insomma, ci vuole un attimo di presenza mentale e di spese
+
+240
+00:15:11,840 --> 00:15:16,160
+energetiche del vostro cervello per riuscire a capire qual è il problema.
+
+241
+00:15:16,160 --> 00:15:20,400
+Perché i computer sono tanto belli, ma sono decisamente molto stupidi, nel
+
+242
+00:15:20,560 --> 00:15:26,560
+senso che purtroppo se il programmatore pensa da umano, non riesce a
+
+243
+00:15:26,560 --> 00:15:29,040
+fargli fare le cose che vorrebbe questo computer.
+
+244
+00:15:29,040 --> 00:15:32,480
+Invece bisogna proprio parlare neanche con i bambini, perché i bambini sono
+
+245
+00:15:32,480 --> 00:15:33,440
+già evoluti.
+
+246
+00:15:33,440 --> 00:15:37,120
+Bisogna proprio cercare di portare per mano il computer a fare tutte
+
+247
+00:15:37,120 --> 00:15:40,000
+le cose e allora a questo punto si riesce a
+
+248
+00:15:41,200 --> 00:15:49,600
+togliere il problema, il bug del sistema, magari ripensare il sistema perché
+
+249
+00:15:49,600 --> 00:15:52,800
+come l'avete pensato per il computer non va bene, e magari è
+
+250
+00:15:52,800 --> 00:15:55,920
+piena di falle e ci sono delle variabili che voi non avete
+
+251
+00:15:55,920 --> 00:15:59,040
+pensato perché siete un umano, mentre il vostro computer le ha pensate
+
+252
+00:15:59,040 --> 00:16:00,000
+perché è un computer.
+
+253
+00:16:00,280 --> 00:16:01,480
+E allora cosa succede?
+
+254
+00:16:01,480 --> 00:16:06,360
+Che perderete un sacco di tempo nello sviluppo di questa applicazione tra
+
+255
+00:16:06,360 --> 00:16:10,040
+virgolette, codice o automazione, chiamatela come volete.
+
+256
+00:16:10,040 --> 00:16:11,640
+Dov'è finito il tempo libero?
+
+257
+00:16:11,640 --> 00:16:12,360
+È andato.
+
+258
+00:16:12,360 --> 00:16:16,360
+È quello che mi capita spesso, perché devo dire la verità, a
+
+259
+00:16:16,360 --> 00:16:19,720
+volte mi vengono anche delle belle idee, devo dire.
+
+260
+00:16:19,800 --> 00:16:21,080
+E quindi inizio a dire va bene.
+
+261
+00:16:21,080 --> 00:16:24,920
+Allora, adesso potrei fare questo per risolvere questo problema.
+
+262
+00:16:24,920 --> 00:16:27,080
+Innanzitutto, ovviamente al primo colpo.
+
+263
+00:16:27,080 --> 00:16:32,520
+Cioè, se siete come nel sottoscritto, che sì, qualcosina di codice ne
+
+264
+00:16:32,520 --> 00:16:37,800
+sa, ma non è che sia un programmatore professionale, anzi, tendenzialmente vi
+
+265
+00:16:37,800 --> 00:16:42,280
+trovate a dover affrontare il problema e cercare su internet come altri
+
+266
+00:16:42,280 --> 00:16:43,400
+hanno risolto il problema.
+
+267
+00:16:43,400 --> 00:16:48,680
+Quindi iniziate a digitare nel mio caso specifico su Duck DuckGo, cercando
+
+268
+00:16:48,680 --> 00:16:50,120
+soluzioni a un problema.
+
+269
+00:16:50,120 --> 00:16:55,240
+Quindi, innanzitutto vi ponete il problema di come tradurlo in inglese perché
+
+270
+00:16:55,240 --> 00:16:59,400
+è lì che trovate molte più risposte rispetto alla lingua italiana, ovviamente.
+
+271
+00:16:59,400 --> 00:17:03,480
+Secondariamente iniziate a guardare un tot di pagine internet e scoprite: no,
+
+272
+00:17:03,480 --> 00:17:06,760
+questa ha fatto una cosa però a me non interessa, questa ha
+
+273
+00:17:06,760 --> 00:17:08,680
+fatto un'altra cosa diversa.
+
+274
+00:17:08,680 --> 00:17:12,200
+A un certo punto, casomai, vi viene anche un'idea migliore, perché poi
+
+275
+00:17:12,200 --> 00:17:16,120
+avete visto come altri hanno risolto il problema in varie maniere diverse,
+
+276
+00:17:16,120 --> 00:17:18,760
+non proprio il vostro problema, ma un problema simile.
+
+277
+00:17:18,920 --> 00:17:21,320
+Quindi dite va bene, allora, io adesso prendo il problema.
+
+278
+00:17:21,320 --> 00:17:25,480
+La risoluzione A, la risoluzione B, ci aggiungo la C.
+
+279
+00:17:25,480 --> 00:17:30,520
+Morale da favola invece di aver risolto il problema originale, cioè, come
+
+280
+00:17:30,520 --> 00:17:38,760
+velocizzare la gestione dell'attività iniziale, vi siete relativamente complicati.
+
+281
+00:17:38,760 --> 00:17:39,240
+La vita.
+
+282
+00:17:39,240 --> 00:17:43,640
+A volte ottenete risultati notevoli perché devo dire la verità.
+
+283
+00:17:43,640 --> 00:17:47,200
+Nell'ultimo periodo mi sono reso conto che, per esempio, alcune automazioni che
+
+284
+00:17:47,200 --> 00:17:52,480
+ho creato, diciamo, le ho potute poi rimodellare per fare delle altre
+
+285
+00:17:52,480 --> 00:17:52,880
+cose.
+
+286
+00:17:52,880 --> 00:17:56,640
+Quindi, il vantaggio è che una volta che avete risolto un problema,
+
+287
+00:17:56,880 --> 00:18:02,400
+e quindi vi siete un po' scerrellati sul risolvere problemi simili, diciamo.
+
+288
+00:18:02,400 --> 00:18:07,120
+L'automazione 1 può servire casomai per automatizzare il problema 2.
+
+289
+00:18:07,120 --> 00:18:11,200
+Quindi diventa anche comodo o trovate anche dei modi alternativi e più
+
+290
+00:18:11,200 --> 00:18:15,760
+veloci o più efficaci o che fanno una cosa diversa o migliore.
+
+291
+00:18:15,920 --> 00:18:19,920
+Io nel mio piccolo non sono per niente un programmatore, anzi, non
+
+292
+00:18:19,920 --> 00:18:22,880
+penso di essere fatto per la programmazione.
+
+293
+00:18:23,360 --> 00:18:29,840
+Anche se continuo a ribadire che anche gli architetti non potranno più
+
+294
+00:18:30,160 --> 00:18:37,040
+tirarsi indietro davanti a questa evoluzione dell'informatica, perché dico per me che
+
+295
+00:18:37,040 --> 00:18:40,880
+non sono in grado e nessuno me l'ha spiegato, però penso che
+
+296
+00:18:40,880 --> 00:18:48,080
+nei prossimi corsi che riguardano i laureand in architettura riguarderà anche la
+
+297
+00:18:48,080 --> 00:18:53,760
+programmazione perché ci sono dei programmi che utilizzano la programmazione visuale.
+
+298
+00:18:53,760 --> 00:18:55,680
+Quindi se l'informatica.
+
+299
+00:18:57,200 --> 00:19:01,680
+Ho capito da te, il BIM di fatto è una costruzione programmatica.
+
+300
+00:19:02,400 --> 00:19:07,920
+No, non precisamente, però il BIM è un discorso diverso, è la
+
+301
+00:19:08,400 --> 00:19:14,400
+progettazione parametrica o quella parametrica è un conto, ma lo step successivo
+
+302
+00:19:14,400 --> 00:19:18,000
+è quella algoritmica, dove in effetti tu fai un vero e proprio
+
+303
+00:19:18,000 --> 00:19:22,560
+programma, tu hai dei programmi visuali dove metti dei blocchi che puoi
+
+304
+00:19:22,560 --> 00:19:27,440
+agganciare con delle linee e quindi per noi, diciamo, non programmatori è
+
+305
+00:19:27,440 --> 00:19:32,280
+molto più semplice lavorare così ma continuo a dire è una cosa
+
+306
+00:19:32,280 --> 00:19:38,120
+molto complessa molto affascinante sicuramente ci saranno degli sviluppi anche dal punto
+
+307
+00:19:38,120 --> 00:19:42,760
+di vista degli architetti di questo ne sono ultra convinto ma tornando
+
+308
+00:19:42,760 --> 00:19:47,800
+invece sull'argomento principe di questa puntata invece lascio la palla a Filippo
+
+309
+00:19:48,120 --> 00:19:52,280
+perché il grafico che mi ha messo sul coso è da mezz'ora
+
+310
+00:19:52,280 --> 00:19:55,000
+che continuo a leggerlo e da mezz'ora che non riesco a capire
+
+311
+00:19:55,000 --> 00:19:58,920
+di cosa parla, nel senso che non mi tornano i conti.
+
+312
+00:19:58,920 --> 00:20:01,480
+Non so se hai provato, a me non tornano i conti, adesso
+
+313
+00:20:01,480 --> 00:20:03,080
+vediamo se tornate.
+
+314
+00:20:03,080 --> 00:20:06,600
+Devo dirti la verità, non ho guardato il grafico in senso stretto,
+
+315
+00:20:06,600 --> 00:20:11,640
+ma volevo dare l'idea poi di fondo della vicenda: cioè il discorso
+
+316
+00:20:11,880 --> 00:20:13,720
+è come quando
+
+317
+00:20:15,000 --> 00:20:20,120
+decidiamo di automatizzare qualcosa, quale dovrebbe essere la nostra linea guida, per
+
+318
+00:20:20,120 --> 00:20:25,480
+ovviamente dire questo è un compito che ha senso automatizzare, e questo
+
+319
+00:20:25,480 --> 00:20:28,520
+è un compito che non ha senso automatizzare.
+
+320
+00:20:28,520 --> 00:20:32,760
+La mia idea di fondo, che dovrebbe rispecchiare questo grafico, che è
+
+321
+00:20:32,760 --> 00:20:38,360
+molto bellino per quello che volevo, lo inserito, diciamo, è che più
+
+322
+00:20:38,440 --> 00:20:46,440
+svolgete un'attività nel tempo e questa attività vi comunque richiede tot tempo,
+
+323
+00:20:46,440 --> 00:20:51,240
+più automatizzare ha un suo valore, nel senso, anche se io per
+
+324
+00:20:51,240 --> 00:20:54,280
+risolvere un problema ci metto, non so, un giorno di lavoro quindi
+
+325
+00:20:54,280 --> 00:20:57,960
+otto ore lavorative, ma è un problema che io affronto tutti i
+
+326
+00:20:57,960 --> 00:20:59,560
+giorni e mi
+
+327
+00:21:00,600 --> 00:21:04,440
+fa io ci perdo mezz'ora al giorno per risolvere il problema.
+
+328
+00:21:04,400 --> 00:21:04,880
+Ok, ok.
+
+329
+00:21:04,880 --> 00:21:09,000
+Lo stesso problema, che ha sempre la stessa soluzione, a questo punto,
+
+330
+00:21:09,000 --> 00:21:15,280
+se io ho impiegato un giorno a predisporre quell'automazione, ovviamente sul lungo
+
+331
+00:21:14,200 --> 00:21:15,680
+periodo,
+
+332
+00:21:14,840 --> 00:21:17,440
+quindi in un anno o due anni.
+
+333
+00:21:17,920 --> 00:21:22,480
+Però al posto, se è mezz'ora al giorno, ovviamente vi rendete conto
+
+334
+00:21:22,480 --> 00:21:28,400
+quanto tempo ho recuperato per svolgere quell'attività, perché a quel punto dovrebbe
+
+335
+00:21:28,400 --> 00:21:33,120
+essere lo schermo: l'immagine che vedete a schermo, dice da una parte
+
+336
+00:21:33,120 --> 00:21:41,440
+dice quante volte svolgete questa attività, dall'altra dice quanto tempo togliete con
+
+337
+00:21:41,440 --> 00:21:47,440
+l'automazione per svolgere questa attività, più ovviamente tempo togliete, più su lungo
+
+338
+00:21:47,440 --> 00:21:50,480
+periodo voi guadagnate una quantità notevole di secondi.
+
+339
+00:21:50,560 --> 00:21:56,080
+Per cui, per esempio, la premessa tra parentesi tra parentesi sopra across
+
+340
+00:21:56,240 --> 00:22:01,760
+5 years, cioè nel corso di 5 anni quindi per 5 anni
+
+341
+00:22:01,760 --> 00:22:02,000
+è
+
+342
+00:22:03,040 --> 00:22:03,680
+ok.
+
+343
+00:22:03,680 --> 00:22:04,960
+Ok, va bene.
+
+344
+00:22:05,600 --> 00:22:06,240
+Infatti, dice
+
+345
+00:22:07,280 --> 00:22:10,720
+risparmi un secondo all'anno.
+
+346
+00:22:10,720 --> 00:22:14,800
+Ovviamente h risparmiato in 5 anni e 5 secondi, adesso tornano i
+
+347
+00:22:14,800 --> 00:22:15,280
+conti.
+
+348
+00:22:15,360 --> 00:22:15,840
+Ma mettiamo
+
+349
+00:22:17,040 --> 00:22:17,920
+tutto in piccolo.
+
+350
+00:22:17,920 --> 00:22:21,440
+Non avevi letto tra parenti cosa servono le parentesi?
+
+351
+00:22:21,440 --> 00:22:24,400
+Se non sei in matematica non servono.
+
+352
+00:22:25,520 --> 00:22:28,400
+Allora, dunque, torniamo a bomba, che qua stiamo già di nuovo divagando.
+
+353
+00:22:29,360 --> 00:22:31,200
+Allora, ascolta,
+
+354
+00:22:33,040 --> 00:22:36,080
+comunque siamo già a metà dell'episodio quindi siamo a posto parliamo dei
+
+355
+00:22:36,080 --> 00:22:38,080
+programmi per automatizzare.
+
+356
+00:22:38,640 --> 00:22:42,560
+Ovviamente siamo in ambito Mac OS, perché partiamo da lì è un
+
+357
+00:22:42,560 --> 00:22:46,240
+ambito un po' più una brevissima premessa.
+
+358
+00:22:46,240 --> 00:22:53,520
+Ovviamente noi parliamo dell'automazione su MEC OS, su iOS e iPadOS,
+
+359
+00:22:55,360 --> 00:22:57,280
+ovviamente, è tutto un approccio.
+
+360
+00:22:57,280 --> 00:23:01,320
+Vi parleremo solo dei programmi che esistono e che potreste utilizzare, e
+
+361
+00:22:59,840 --> 00:23:04,120
+più o meno, quali sono i vari approcci di questi programmi.
+
+362
+00:23:04,520 --> 00:23:10,040
+Entreremo nel dettaglio perché andare nel dettaglio vorrebbe fare una specifica puntata
+
+363
+00:23:10,040 --> 00:23:11,800
+su ogni singolo.
+
+364
+00:23:11,800 --> 00:23:15,000
+Già, solo su Apple Script, per esempio, ce ne vorrebbero due o
+
+365
+00:23:15,000 --> 00:23:15,240
+tre.
+
+366
+00:23:15,240 --> 00:23:15,800
+Probabilmente.
+
+367
+00:23:15,800 --> 00:23:19,800
+Io tuttora ci capisco qualcosa, ma veramente poco.
+
+368
+00:23:19,800 --> 00:23:24,200
+E poi parleremo anche di quella che probabilmente il futuro dell'automazione, cioè
+
+369
+00:23:24,200 --> 00:23:28,200
+l'automazione nel cloud, che ha effettivamente alcuni aspetti interessanti.
+
+370
+00:23:28,200 --> 00:23:32,280
+Che se siete novizi, diciamo, può essere anche una cosa molto comoda
+
+371
+00:23:32,280 --> 00:23:36,040
+perché vi permette anche di gestire l'automazione multipiattaforma che non fa mai
+
+372
+00:23:36,040 --> 00:23:36,440
+male.
+
+373
+00:23:36,440 --> 00:23:42,040
+Adesso lascio la parola a Roberto, ambito Mac OS, ci provo io.
+
+374
+00:23:42,040 --> 00:23:47,240
+Dunque, Apple Script su Apple Script ti dovrò intervenire.
+
+375
+00:23:47,240 --> 00:23:51,320
+Sì, ma io leggo semplicemente perché non ho nient'altro da dire perché
+
+376
+00:23:51,320 --> 00:23:53,080
+non l'ho mai utilizzato.
+
+377
+00:23:53,080 --> 00:23:58,120
+Tuttavia, è qualcosa che permette di creare un sistema di collegamenti tra
+
+378
+00:23:58,120 --> 00:24:04,440
+differenti applicazioni di Mac OS che ovviamente devono supportare Apple Script, che
+
+379
+00:24:04,440 --> 00:24:09,000
+è stata introdotta nel lontano 93 ed è un successore di Hyper
+
+380
+00:24:09,000 --> 00:24:17,080
+Cards, dunque, giusto per fare un pelo di storia, nella sostanza, Apple
+
+381
+00:24:17,080 --> 00:24:22,120
+Script è quello che ha mantenuto in piedi Apple, nel senso che
+
+382
+00:24:22,280 --> 00:24:26,920
+Hypercard nasce ovviamente con i addirittura credo forse i primi Apple 2
+
+383
+00:24:26,920 --> 00:24:32,440
+o roba del genere, cioè nasce nei primissimi sistemi operativi di Apple,
+
+384
+00:24:32,440 --> 00:24:37,080
+però con gli ultimi sistemi operativi prima di macOS, sostanzialmente anzi di
+
+385
+00:24:37,080 --> 00:24:43,480
+macOS 10, perché è di quello che parliamo originariamente.
+
+386
+00:24:43,960 --> 00:24:49,360
+Apple Script è sempre stato un sistema per fare dialogare differenti applicazioni.
+
+387
+00:24:49,360 --> 00:24:51,680
+Cosa vuol dire far dialogare differenti applicazioni?
+
+388
+00:24:51,760 --> 00:24:55,440
+È che se io, per esempio, ho le immagini del materiale che
+
+389
+00:24:56,320 --> 00:25:00,880
+voglio pubblicizzare e i nomi e i prezzi di questi materiali, ok,
+
+390
+00:25:00,880 --> 00:25:06,160
+invece in un foglio di calcolo, posso creare un foglio di pages,
+
+391
+00:25:06,480 --> 00:25:11,680
+ma perché manca Word, credo, non so l'ultima versione, ma la versione
+
+392
+00:25:11,680 --> 00:25:12,800
+precedente per Mac
+
+393
+00:25:13,840 --> 00:25:17,760
+aveva tutta una serie di funzionalità di Apple Script ce le aveva
+
+394
+00:25:17,840 --> 00:25:22,480
+adesso non vi so dire esattamente se adesso sull'ultimo, il 3, 6,
+
+395
+00:25:22,480 --> 00:25:26,560
+5 di Office ci sia, vi permetteva di prendere i dati da
+
+396
+00:25:26,560 --> 00:25:33,600
+un'applicazione e da un'altra e farli confluire ovviamente in maniera programmatica in
+
+397
+00:25:33,600 --> 00:25:36,240
+una terza, per esempio, come
+
+398
+00:25:37,600 --> 00:25:41,600
+impostare comand in un'applicazione per fare determinate cose.
+
+399
+00:25:41,600 --> 00:25:45,600
+Per cui, giusto per fare un esempio, una recente Apple script che
+
+400
+00:25:45,600 --> 00:25:49,200
+ho fatto io, qual è una cosa abbastanza complicata?
+
+401
+00:25:49,200 --> 00:25:52,240
+Infatti, ci ho perso dei giorni sostanzialmente.
+
+402
+00:25:52,240 --> 00:25:54,800
+In pratica, con Devon Thing è possibile.
+
+403
+00:25:54,800 --> 00:25:58,000
+In Devon Thing è possibile salvare tutta una serie di cose, varie
+
+404
+00:25:58,000 --> 00:25:58,800
+ed eventuali.
+
+405
+00:25:58,800 --> 00:26:04,640
+A me interessava poter aprire i file Markdown salvati dentro Devanthing con
+
+406
+00:26:04,640 --> 00:26:07,920
+i term e in particolare con Vim.
+
+407
+00:26:07,920 --> 00:26:10,000
+Per cui cosa ho dovuto fare?
+
+408
+00:26:10,000 --> 00:26:14,320
+Ho dovuto, anzi, cosa volevo fare e cosa sono riuscito poi a
+
+409
+00:26:14,320 --> 00:26:20,640
+fare, selezionando determinati file, quindi Markdown da Devon Thing e cliccando una
+
+410
+00:26:20,640 --> 00:26:27,200
+scorciatoia a tastiera, in pratica, il file veniva aperto in, anzi, in
+
+411
+00:26:27,200 --> 00:26:28,720
+Vim dentro i term.
+
+412
+00:26:28,680 --> 00:26:35,240
+Quindi prendeva il file, individuava dove si trovava in Devonzen quel file,
+
+413
+00:26:35,240 --> 00:26:39,640
+sostanzialmente quindi il percorso del file, a quel punto lì l'Apple script
+
+414
+00:26:39,880 --> 00:26:43,640
+estrapolava quel dato ovviamente del file che io avevo selezionato.
+
+415
+00:26:43,640 --> 00:26:45,000
+Tenete presente il devono scening.
+
+416
+00:26:45,080 --> 00:26:47,400
+Mi lo facendo io sono già perso.
+
+417
+00:26:48,200 --> 00:26:51,320
+A quel punto lì il nome del file, la cartella dove si
+
+418
+00:26:51,320 --> 00:26:57,000
+trovava il file, apriva una nuova finestra dierm, diceva alla finestra di
+
+419
+00:26:57,000 --> 00:27:01,720
+Aterm di far partire il comando Vim per ovviamente far partire su
+
+420
+00:27:01,720 --> 00:27:08,360
+terminale Vim e non solo Vim, ma Vim doveva puntare a lo
+
+421
+00:27:08,360 --> 00:27:09,400
+specifico file.
+
+422
+00:27:09,400 --> 00:27:14,920
+Quindi, nella sostanza il dato, il file si trova qui, veniva passato
+
+423
+00:27:14,920 --> 00:27:20,200
+come comando complesso ad Iterm dicendo fai partire il programma terminale Vim
+
+424
+00:27:20,360 --> 00:27:22,200
+con questo percorso del file.
+
+425
+00:27:23,320 --> 00:27:26,840
+Una volta che si capisce tutto il funzionamento è relativamente banale.
+
+426
+00:27:26,840 --> 00:27:30,680
+Nella sostanza il risultato finale è che io selezionavo i file e
+
+427
+00:27:30,680 --> 00:27:33,080
+automaticamente si apriva la finestra col file aperto.
+
+428
+00:27:33,080 --> 00:27:36,920
+Bene ottimo, come avete capito, io non sono un fan della programmazione,
+
+429
+00:27:36,920 --> 00:27:39,720
+mi sono perso circa metà della spiegazione.
+
+430
+00:27:40,200 --> 00:27:44,600
+La particolarità di Apple Script, allora permesso, è un linguaggio di programmazione,
+
+431
+00:27:44,600 --> 00:27:48,760
+quindi lì non se ne esce, tra virgolette, la cosa particolare di
+
+432
+00:27:48,760 --> 00:27:54,440
+Apple Script è che sostanzialmente tutti i programmi Apple che gestiscono AppleScript
+
+433
+00:27:54,760 --> 00:27:56,520
+hanno dei dizionari.
+
+434
+00:27:56,520 --> 00:28:02,440
+Quindi il programmatore che sviluppa Hermail piuttosto che mail, piuttosto che appunto
+
+435
+00:28:02,440 --> 00:28:07,400
+Devon Thing, piuttosto che iterm, hanno tutti dei dizionari di Apple Script,
+
+436
+00:28:07,400 --> 00:28:13,960
+quindi, nella sostanza, hanno uno specifico linguaggio che ti dice: apri una
+
+437
+00:28:13,960 --> 00:28:19,360
+nuova finestra di ai term, impassa il comando tagli ad ai term
+
+438
+00:28:14,920 --> 00:28:20,640
+e fai quello che devi fare.
+
+439
+00:28:21,280 --> 00:28:23,680
+Stesso discorso vale per Devon Thing.
+
+440
+00:28:23,680 --> 00:28:29,040
+Nella sostanza, c'è un comando che dice: quando tu hai selezionato tre
+
+441
+00:28:29,040 --> 00:28:35,440
+file, OK, prendi da ogni singolo file e strappola, diciamo il percorso
+
+442
+00:28:35,440 --> 00:28:40,400
+del file, perché, peraltro, se sono salvati in Devon Thing, sono intanati
+
+443
+00:28:40,400 --> 00:28:43,760
+in delle sottocartelle particolari di DevonTing.
+
+444
+00:28:43,760 --> 00:28:48,160
+Quindi non è così semplice ovviamente andare a prendere il file col
+
+445
+00:28:48,160 --> 00:28:53,920
+nome, perché il file è in una serie di sottocartelle gestite
+
+446
+00:28:55,040 --> 00:28:59,920
+in automatico da Devanthing sostanzialmente, fa tutte queste operazioni.
+
+447
+00:29:00,240 --> 00:29:05,200
+Vi permette appunto di far veicolare dati sostanzialmente, perché appunto dove si
+
+448
+00:29:05,200 --> 00:29:09,520
+trova il file A all'interno di DevonTing, lo dice a un'altra applicazione
+
+449
+00:29:10,080 --> 00:29:14,480
+che poi, su quel file fa quello che deve fare e casomai
+
+450
+00:29:14,560 --> 00:29:17,520
+dice all'applicazione di fare una determinata operazione.
+
+451
+00:29:17,520 --> 00:29:20,320
+Questo è tutto il sistema di Apple Script.
+
+452
+00:29:20,640 --> 00:29:26,080
+La particolarità è che Apple, quando ha creato Apple Script, l'ha creata
+
+453
+00:29:26,080 --> 00:29:26,400
+per
+
+454
+00:29:27,600 --> 00:29:29,680
+essere simile all'inglese.
+
+455
+00:29:29,680 --> 00:29:34,320
+Quindi, ovviamente, per un italiano non è comodo, lo dico già.
+
+456
+00:29:34,320 --> 00:29:38,720
+Ma ovviamente i linguaggi di programmazione vivono di lingua inglese quindi non
+
+457
+00:29:38,720 --> 00:29:40,000
+c'è modo di uscirne.
+
+458
+00:29:40,000 --> 00:29:44,560
+Diciamo, non credo che esista un linguaggio di programmazione che parli italiano
+
+459
+00:29:44,720 --> 00:29:47,440
+per cui ovviamente dovete conoscere la lingua inglese.
+
+460
+00:29:47,680 --> 00:29:50,840
+Una volta che conoscete la lingua inglese, ce n'è uno Apple Script
+
+461
+00:29:51,040 --> 00:29:55,600
+perché Apple Script è andato ben oltre le sue origini con Apple
+
+462
+00:29:55,600 --> 00:29:59,760
+Studio e ha degli ambienti di sviluppi che sono stati
+
+463
+00:29:59,760 --> 00:30:04,840
+migrati in dialetti come il francese, il giapponese e l'italiano.
+
+464
+00:30:05,000 --> 00:30:05,960
+A me non risulta
+
+465
+00:30:07,000 --> 00:30:10,040
+al quinto capitolo, te lo spiega: come dialetti.
+
+466
+00:30:10,040 --> 00:30:14,760
+Io invece l'ho cercato su Wikipedia e in effetti ci è riportato
+
+467
+00:30:14,760 --> 00:30:19,560
+che per un certo periodo Apple Skip supportò il linguaggio in diverse
+
+468
+00:30:19,560 --> 00:30:22,840
+lingue, tra le quali, come vi dicevo, oltre all'inglese, per un certo
+
+469
+00:30:22,840 --> 00:30:27,880
+periodo, però lì, secondo me, attualmente non è, non è più così
+
+470
+00:30:28,520 --> 00:30:33,240
+da Mac OS 8.5 si torna a una sola lingua supportata
+
+471
+00:30:34,600 --> 00:30:35,560
+8.5.
+
+472
+00:30:36,600 --> 00:30:41,080
+Però, dicevo, è interessante, appunto, volevo non coglierti in castagna, ma dare
+
+473
+00:30:41,080 --> 00:30:41,400
+questa
+
+474
+00:30:43,400 --> 00:30:47,560
+particolarità di Apple Script, che in effetti poteva funzionare anche in altre
+
+475
+00:30:47,560 --> 00:30:51,320
+lingue rispetto a quella con cui era nata.
+
+476
+00:30:51,320 --> 00:30:58,120
+Questo sistema ha reso possibile nel periodo buio di Apple, sostanzialmente, soprattutto
+
+477
+00:30:58,120 --> 00:31:03,640
+nel comparto grafico, c'era la possibilità, soprattutto con Quark Express, che è
+
+478
+00:31:03,640 --> 00:31:09,480
+un programma di impaginazione sostanzialmente, potevi in pratica estrapolare i dati, non
+
+479
+00:31:09,480 --> 00:31:12,760
+so, un listino prezzi per fare un catalogo e così via, da
+
+480
+00:31:12,760 --> 00:31:18,200
+un foglio di Excel e inserirli invece a livello grafico all'interno di
+
+481
+00:31:18,200 --> 00:31:19,960
+questo programma di impaginazione.
+
+482
+00:31:19,960 --> 00:31:25,480
+Tutto questo ha fatto sì che Apple continuasse pur essendo in acque
+
+483
+00:31:25,480 --> 00:31:33,800
+pessime a galleggiare, proprio perché tantissimi sistemi di produzione utilizzavano pesantemente questi
+
+484
+00:31:33,800 --> 00:31:41,320
+Apple Script per gestire, per informatizzare e per far dialogare appunto queste
+
+485
+00:31:41,320 --> 00:31:45,840
+differenti applicazioni, cosa che, da quel che ne so io, con altri
+
+486
+00:31:45,840 --> 00:31:54,160
+sistemi operativi non hanno mai avuto un sistema così penetrante, perché di
+
+487
+00:31:54,160 --> 00:31:58,720
+fatto Apple Script ha il vantaggio di creare una sorta di una
+
+488
+00:31:58,720 --> 00:32:05,200
+colla tra più applicativi, diciamo per macOS ed è credo un unicum
+
+489
+00:32:05,520 --> 00:32:10,160
+da quel che ne so io nel mondo dell'informatica a livello di
+
+490
+00:32:10,160 --> 00:32:12,240
+programmi con interfaccia grafica.
+
+491
+00:32:12,560 --> 00:32:16,880
+Il mondo Unix, per esempio, per i programmi diciamo a regolare comando,
+
+492
+00:32:16,960 --> 00:32:21,120
+invece funziona su questo archetipo: cioè ho un programma che fa una
+
+493
+00:32:21,120 --> 00:32:22,880
+cosa, un altro che ne fa un altro.
+
+494
+00:32:22,880 --> 00:32:26,720
+Posso passare dati da un programma all'altro e quindi manipolare questi dati
+
+495
+00:32:26,720 --> 00:32:28,880
+attraverso tutti questi programmi.
+
+496
+00:32:29,200 --> 00:32:35,280
+Questo esiste praticamente dalla preistoria dell'informatica.
+
+497
+00:32:35,280 --> 00:32:41,520
+Comunque, la premessa è: Apple Script è complesso, può sembrare ostico.
+
+498
+00:32:41,520 --> 00:32:44,880
+Il suggerimento che do io è quello di andare a vedere il
+
+499
+00:32:44,880 --> 00:32:50,720
+sito macOS Automation che è gestito da Sal Soghoian che era capo
+
+500
+00:32:50,720 --> 00:32:55,360
+delle automazioni ad Apple, è stato più o meno licenziato in malo
+
+501
+00:32:55,440 --> 00:33:00,960
+modo, hanno soppresso il post, mettiamola così, vedetela voi come preferite in
+
+502
+00:33:00,960 --> 00:33:02,160
+Apple,
+
+503
+00:33:03,840 --> 00:33:04,880
+vi fa vedere.
+
+504
+00:33:04,880 --> 00:33:08,480
+Ci sono ovviamente tutto in inglese, ve lo dico già, però fa
+
+505
+00:33:08,480 --> 00:33:12,160
+vedere le potenzialità di AppleScript e l'utilità.
+
+506
+00:33:12,160 --> 00:33:16,320
+Per esempio, non so, in Kynote, avendo tutta una serie di informazioni,
+
+507
+00:33:16,320 --> 00:33:21,040
+vi genera in automatico la presentazione o comunque una grossa parte della
+
+508
+00:33:21,040 --> 00:33:26,080
+presentazione, sono tanti esempi di cosa può fare Apple Script.
+
+509
+00:33:26,080 --> 00:33:29,920
+Poi, ovviamente, se ne possono fare svariati, però.
+
+510
+00:33:29,880 --> 00:33:34,040
+Tuttavia, un'altra cosa carina che ha fatto David Spark, che può essere
+
+511
+00:33:34,040 --> 00:33:37,880
+alla portata di un po' più di tutti: ha creato un piccolo
+
+512
+00:33:37,880 --> 00:33:43,080
+AppleScript per cui se tu hai delle mail selezionate in mail, crea,
+
+513
+00:33:43,080 --> 00:33:49,160
+cliccando, credo che abbia usato l'Apple Script all'interno di un text expander,
+
+514
+00:33:49,400 --> 00:33:56,360
+praticamente digitando dei caratteri, automaticamente prende di crea il link alle mail
+
+515
+00:33:56,360 --> 00:33:58,040
+nel programma in cui state scrivendo.
+
+516
+00:33:58,040 --> 00:34:02,440
+Quindi, se voi avete aperto mail con una mail selezionata, state scrivendo
+
+517
+00:34:02,440 --> 00:34:05,720
+da un'altra parte, vi crea questo URL scheme.
+
+518
+00:34:05,720 --> 00:34:09,320
+Poi, di fatto, che vi permetterà poi di aprire, immaginate che sia
+
+519
+00:34:09,320 --> 00:34:13,320
+un file markdown di aprire di fare riferimento e di aprire quell'email.
+
+520
+00:34:13,320 --> 00:34:14,920
+Queste sono cosette carine.
+
+521
+00:34:14,920 --> 00:34:18,120
+Poi, ovviamente anche qui solito discorso.
+
+522
+00:34:18,120 --> 00:34:25,800
+Uno potete copiare da altri, io l'80-90% prendo e rubo pezzi di
+
+523
+00:34:25,800 --> 00:34:30,600
+codice da altri e cerco di assemblarli più o meno come il
+
+524
+00:34:30,600 --> 00:34:35,160
+dottor Frankenstein, però si fa o se no, ci sono già automazioni
+
+525
+00:34:35,160 --> 00:34:37,400
+belle che pronte nella sostanza.
+
+526
+00:34:37,400 --> 00:34:41,880
+Se avete voglia tempo e volete sporcarvi le mani, ovviamente Apple's vi
+
+527
+00:34:41,880 --> 00:34:46,600
+permette veramente di fare, non dico tutto, ma soprattutto se volete far
+
+528
+00:34:46,600 --> 00:34:50,280
+dialogare differenti applicazioni, questo può essere una cosa interessante.
+
+529
+00:34:50,280 --> 00:34:54,440
+Venendo invece a quello che io consiglio come primo approccio per l'automazione
+
+530
+00:34:54,600 --> 00:34:59,240
+su macOS è Automator che nasce da un'idea del Sal Soghoian che
+
+531
+00:34:59,240 --> 00:34:59,880
+è il papà di
+
+532
+00:35:01,080 --> 00:35:04,520
+8 è il robottino che si vede nell'icona di Automator.
+
+533
+00:35:04,520 --> 00:35:08,280
+Questo è un approccio totalmente diverso, cioè molto più semplice di AppleScript,
+
+534
+00:35:08,360 --> 00:35:14,360
+AppleScript di fatto lo utilizzate con c'è un programmino che anche qui
+
+535
+00:35:14,360 --> 00:35:18,880
+lascerò sempre nella notte dell'episodio il link al manuale Apple dello script
+
+536
+00:35:18,880 --> 00:35:23,200
+editor che vi permette di testare questi Apple Script e vi permette
+
+537
+00:35:23,200 --> 00:35:26,240
+di fare tutta una serie di cose, ma quello è proprio un
+
+538
+00:35:26,240 --> 00:35:27,920
+linguaggio di programmazione.
+
+539
+00:35:27,920 --> 00:35:32,000
+Automator invece è un sistema totalmente all'opposto.
+
+540
+00:35:32,000 --> 00:35:37,360
+Automator è un sistema di automazione, chiamamolo così, costruito a blocchi, cioè
+
+541
+00:35:37,440 --> 00:35:41,680
+ci sono tante piccole azioni che voi potete concatenare l'uno all'altro per
+
+542
+00:35:41,680 --> 00:35:43,280
+ottenere il risultato.
+
+543
+00:35:43,280 --> 00:35:48,560
+Quindi per fare un esempio, l'automazione che ho fatto per la creazione
+
+544
+00:35:48,560 --> 00:35:56,000
+delle sottocartelle è fatta con automator: in pratica automator, c'è un'azione che
+
+545
+00:35:56,000 --> 00:35:59,440
+dice: prendi la cartella selezionata nel finder.
+
+546
+00:35:59,440 --> 00:36:01,360
+A questo punto ci sono del
+
+547
+00:36:03,280 --> 00:36:07,040
+'azione che dice: Crea una sottocartella in quella cartella lì.
+
+548
+00:36:07,040 --> 00:36:11,200
+E ovviamente facendolo 10 volte con i nomi che decidi tu delle
+
+549
+00:36:11,200 --> 00:36:15,520
+sottocartelle, hai 10 sottocartelle strutturate nella maniera che vuoi tu.
+
+550
+00:36:15,520 --> 00:36:19,840
+Ed è tutto visuale, drag and drop, perché praticamente tu in
+
+551
+00:36:20,880 --> 00:36:23,440
+questa linea di azioni che si svolgono.
+
+552
+00:36:23,440 --> 00:36:27,680
+Quindi il famoso concetto della ricetta fai A, fai B, fai C,
+
+553
+00:36:27,680 --> 00:36:29,360
+fai D, fai E.
+
+554
+00:36:29,360 --> 00:36:33,440
+Ecco, voi vi create questa struttura sostanzialmente.
+
+555
+00:36:33,760 --> 00:36:39,120
+E automator vi permette di fare azioni singole, diciamo, o le cosiddette
+
+556
+00:36:39,120 --> 00:36:44,240
+quick action, cioè quelle azioni che potete lanciare direttamente dal finder selezionando
+
+557
+00:36:44,240 --> 00:36:47,680
+un file e cliccando sulla specifica quick action.
+
+558
+00:36:47,680 --> 00:36:53,200
+Adesso non entreremo nel dettaglio perché ovviamente esula dal tutto.
+
+559
+00:36:53,200 --> 00:36:56,800
+Per un certo periodo, anche qui Automator è stato lasciato da quando
+
+560
+00:36:56,800 --> 00:37:01,080
+è andato via, Sites a Goan, è stato licenziato sostanzialmente da Apple.
+
+561
+00:37:01,320 --> 00:37:06,440
+Autometor non è che abbia avuto, come Apple Script, abbia avuto delle
+
+562
+00:37:06,680 --> 00:37:10,840
+grosse espansioni, il potere c'è, cioè quello che potevano fare prima, continuano
+
+563
+00:37:10,840 --> 00:37:15,880
+a farlo, anche in Mixure tutto funziona, diciamo, è probabile che a
+
+564
+00:37:15,880 --> 00:37:19,960
+breve possa nascere un nuovo sistema di automazione per macOS.
+
+565
+00:37:19,960 --> 00:37:23,000
+È una tua ipotesi o hai letto qualcosa da qualche parte?
+
+566
+00:37:23,000 --> 00:37:24,680
+È molto paventata.
+
+567
+00:37:24,680 --> 00:37:28,600
+Molto probabilmente comandi rapidi arriverà su macOS.
+
+568
+00:37:28,680 --> 00:37:31,000
+Così si dice e quale preferisci dei due?
+
+569
+00:37:31,000 --> 00:37:35,560
+Per esempio, automator è molto schematico, molto facile da utilizzare.
+
+570
+00:37:35,560 --> 00:37:36,680
+Comandi?
+
+571
+00:37:36,840 --> 00:37:42,520
+Automator ha il vantaggio che diciamo ci sono già delle azioni predisposte
+
+572
+00:37:42,520 --> 00:37:43,000
+da Apple.
+
+573
+00:37:43,000 --> 00:37:45,960
+E una volta meno male che hai imparato a utilizzarle, è abbastanza
+
+574
+00:37:45,960 --> 00:37:47,320
+semplice da gestire.
+
+575
+00:37:47,320 --> 00:37:51,640
+Il vero vantaggio era che a un certo punto gli sviluppatori avevano
+
+576
+00:37:51,640 --> 00:37:55,560
+creato tutta una serie di azioni aggiuntive per automator e quindi avevano
+
+577
+00:37:55,560 --> 00:37:58,440
+in parte espanso le capacità, da quel che ne so io, ci
+
+578
+00:37:58,440 --> 00:38:03,160
+sono pochissimi nuovi programmi che vengono predisposte delle azioni per Autometro.
+
+579
+00:38:03,160 --> 00:38:08,840
+Comandi Rapidi, probabilmente il futuro è stata acquisita e l'ex Workflow, dopo
+
+580
+00:38:08,840 --> 00:38:13,320
+ne parleremo che è stata acquisita e integrata all'interno di iOS.
+
+581
+00:38:13,480 --> 00:38:18,680
+Ha veramente tante azioni ed è molto più florida adesso come ecosistema.
+
+582
+00:38:18,680 --> 00:38:23,000
+Visto che le due piattaforme si stanno uniformando e stanno andando verso
+
+583
+00:38:23,000 --> 00:38:28,600
+qualcosa non di ibrido, ma comunque di interoperativo, chiamiamolo così, immagino
+
+584
+00:38:29,640 --> 00:38:31,160
+che il futuro sia quello.
+
+585
+00:38:31,720 --> 00:38:32,840
+Molti parlano.
+
+586
+00:38:33,160 --> 00:38:38,200
+Ci sono stati anche dei progetti di portare comandi rapidi su macOS
+
+587
+00:38:38,360 --> 00:38:39,560
+e ci sono riusciti,
+
+588
+00:38:40,840 --> 00:38:45,760
+non avendo le capacità di Apple, alcuni sviluppatori hanno fatto un retro
+
+589
+00:38:45,760 --> 00:38:51,600
+engineering e alcune operazioni riuscivano con comandi rapidi su macOS.
+
+590
+00:38:51,600 --> 00:38:54,000
+Tecnicamente fattibile, da quel che ne so io.
+
+591
+00:38:54,000 --> 00:38:59,120
+È molto probabile che proprio perché la piattaforma di automazione nuova su
+
+592
+00:38:59,120 --> 00:39:05,280
+iOS, iPadOS, e quella su cui Apple ha investito nella sostanza, perché
+
+593
+00:39:05,600 --> 00:39:09,840
+non solo hanno comprato l'applicazione, ma hanno preso gli sviluppatori di questa
+
+594
+00:39:09,920 --> 00:39:12,000
+applicazione, li hanno portati dentro Apple.
+
+595
+00:39:12,000 --> 00:39:16,160
+Quindi l'applicazione non è stata acquisita per avere l'applicazione dentro Apple, ma
+
+596
+00:39:16,160 --> 00:39:17,760
+per avere gli sviluppatori.
+
+597
+00:39:17,760 --> 00:39:22,000
+Diciamo che il vantaggio grosso è che chi sa già utilizzare comandi
+
+598
+00:39:22,000 --> 00:39:28,720
+rapidi su iOS e iPadOS ovviamente ne beneficierebbe su macOS.
+
+599
+00:39:28,720 --> 00:39:35,440
+Addirittura siccome comunque sarebbe un'applicazione come tante altre, caso mai che funziona
+
+600
+00:39:35,440 --> 00:39:41,360
+come catalyst con dietro catalyst, il vantaggio è che probabilmente i comandi
+
+601
+00:39:41,360 --> 00:39:45,280
+rapidi, il comando rapido che crei su iOS potrebbe funzionare anche su
+
+602
+00:39:45,280 --> 00:39:48,400
+macOS e quello renderebbe ancora più interessante la cosa.
+
+603
+00:39:49,520 --> 00:39:50,960
+Attualmente il vero
+
+604
+00:39:52,080 --> 00:39:57,200
+ne parliamo prima, ma attualmente lo grosso svantaggio tranne gli scheme che
+
+605
+00:39:57,200 --> 00:40:01,360
+sono funzionano su tutte e due le piattaforme, le automazioni di macOS
+
+606
+00:40:01,360 --> 00:40:06,640
+native diciamo nel sistema operativo non funzionano su iPadOS e viceversa.
+
+607
+00:40:07,280 --> 00:40:13,200
+Quindi quello potrebbe essere un bel sistema per uniformare, non dico unificare,
+
+608
+00:40:13,200 --> 00:40:18,400
+ma comunque creare un continuum, diciamo, tra i due sistemi operativi che
+
+609
+00:40:18,400 --> 00:40:24,480
+di fatto poi sono cugini, quindi ha un suo senso logico, esattamente.
+
+610
+00:40:24,480 --> 00:40:24,800
+Si.
+
+611
+00:40:24,800 --> 00:40:28,800
+Immagino quelli che hanno fatto tutta questa programmazione con i linguaggi precedenti,
+
+612
+00:40:28,800 --> 00:40:34,040
+le madonne che tireranno quando si troveranno davanti al naso, solo più
+
+613
+00:40:34,040 --> 00:40:34,840
+comandi,
+
+614
+00:40:35,960 --> 00:40:40,040
+allora, secondo me convivranno comunque.
+
+615
+00:40:40,040 --> 00:40:42,280
+Cioè, tu fai conto che Apple script
+
+616
+00:40:43,960 --> 00:40:46,520
+c'è rimasto da tanto tempo.
+
+617
+00:40:46,520 --> 00:40:50,200
+Quindi, dici che ci sarà una convivenza tra i tre sistemi: Apple
+
+618
+00:40:50,360 --> 00:40:53,320
+Script, Automator e i comandi essenzialmente?
+
+619
+00:40:53,320 --> 00:40:58,360
+Secondo me sì, secondo me sì, anche perché appunto diciamo che se
+
+620
+00:40:58,440 --> 00:41:04,280
+per caso, comandi rapidi passerà anche su Mac OS, è più che
+
+621
+00:41:04,280 --> 00:41:08,120
+altro dire dare la possibilità a chi è già abituato a iOS,
+
+622
+00:41:08,120 --> 00:41:12,360
+che è comunque la piattaforma più vincente di Apple.
+
+623
+00:41:12,360 --> 00:41:15,960
+Cioè, voglio dire, c'è iOS, poi c'è iPadOS, o meglio c'è
+
+624
+00:41:15,960 --> 00:41:19,240
+l'iPhone, poi c'è l'iPad e poi ci sono i Mac.
+
+625
+00:41:19,640 --> 00:41:22,280
+Questo è l'ordine, stanno recuperando.
+
+626
+00:41:22,280 --> 00:41:27,560
+Parecono erano dietro ad iPad notevolmente comunque.
+
+627
+00:41:28,600 --> 00:41:31,960
+Facciamo un po' di parliamo degli altri programmi.
+
+628
+00:41:31,960 --> 00:41:38,360
+Come vi dicevamo prima c'è Keyboard Maestro, c'è Hazel, c'è Text Expander
+
+629
+00:41:38,840 --> 00:41:44,920
+che sono essenzialmente possiamo mettere tutti e tre assieme essenzialmente Kybo Maestro
+
+630
+00:41:44,920 --> 00:41:50,440
+è un sistema di automazione avanzato che utilizza un approccio simile a
+
+631
+00:41:50,440 --> 00:41:51,240
+Automator.
+
+632
+00:41:51,320 --> 00:41:55,320
+Quindi ci sono tutta una serie di azioni, diciamo, che possono essere
+
+633
+00:41:55,320 --> 00:41:55,960
+implementate.
+
+634
+00:41:55,960 --> 00:42:01,720
+Il vantaggio grosso di Kybor Maestro è che praticamente simula anche la
+
+635
+00:42:01,720 --> 00:42:06,200
+gestione dei tasti e ha tutta una serie di trigger, chiamiamoli così,
+
+636
+00:42:06,200 --> 00:42:09,320
+cioè di attivatori molto avanzati.
+
+637
+00:42:09,320 --> 00:42:12,840
+Per cui, giusto per fare un esempio, tu entri nel wifi di
+
+638
+00:42:12,840 --> 00:42:18,480
+casa, automaticamente Kybor Maestro può montare il disco di rete che ovviamente
+
+639
+00:42:14,920 --> 00:42:21,760
+trovi solo nella wifi di casa tua e non in un'altra wifi.
+
+640
+00:42:22,160 --> 00:42:25,840
+E quando non è più collegata al wifi di casa tua, automaticamente
+
+641
+00:42:25,840 --> 00:42:30,080
+togliere via il disco di rete dal tuo Mac e mille altre
+
+642
+00:42:30,080 --> 00:42:30,480
+cose.
+
+643
+00:42:30,480 --> 00:42:35,280
+Io, per esempio, non so, ho creato un'automazione che può sembrare banale,
+
+644
+00:42:35,280 --> 00:42:36,560
+ma è comodissima.
+
+645
+00:42:36,560 --> 00:42:41,200
+Quando collego la mia tastiera americana ai miei Mac, in automatico fa
+
+646
+00:42:41,200 --> 00:42:45,600
+il passaggio da layout di tastiera italiana a quella americana.
+
+647
+00:42:45,600 --> 00:42:49,280
+Quindi basta che attacchi la tastiera, lui vede che ho attaccato la
+
+648
+00:42:49,280 --> 00:42:53,280
+tastiera come dispositivo USB e impone a me cost di fare questo
+
+649
+00:42:53,280 --> 00:42:54,160
+cambiamento.
+
+650
+00:42:54,160 --> 00:42:58,640
+Le potenzialità anche qui sono clamorose e può fare veramente tantissime cose
+
+651
+00:42:58,720 --> 00:43:03,680
+anche perché Kybo Maestro invece rispetto a automator, ha tutta una serie
+
+652
+00:43:03,840 --> 00:43:08,160
+anche di programmabilità maggiore, per esempio i loop
+
+653
+00:43:09,200 --> 00:43:16,960
+o le ipotesi, cioè se è attaccata alla tastiera Y attiva questo,
+
+654
+00:43:16,960 --> 00:43:20,240
+se non è attaccata alla tastiera Y attiva quello.
+
+655
+00:43:20,240 --> 00:43:26,000
+Queste funzioni avanzate di programmazione che sono tutte visive tendo a precisare,
+
+656
+00:43:26,080 --> 00:43:27,920
+cioè combini strutturando.
+
+657
+00:43:27,920 --> 00:43:32,240
+La stessa cosa funziona anche con comandi rapidi come funzionamento, cioè c'è
+
+658
+00:43:32,400 --> 00:43:39,440
+una programmabilità maggiore, anche se di fatto viene fatta con azioni grafiche,
+
+659
+00:43:39,440 --> 00:43:42,480
+chiamiamole così, con mattoncini per costruire.
+
+660
+00:43:42,480 --> 00:43:47,520
+Quindi Kimbor maestro può fare tantissime cose, può tener monitorato una cartella,
+
+661
+00:43:47,520 --> 00:43:52,560
+se succede qualcosa nella cartella, attivare delle altre cose, addirittura funziona anche
+
+662
+00:43:52,560 --> 00:43:56,200
+il cosiddetto webbook, cioè un gancio nella rete.
+
+663
+00:43:56,080 --> 00:44:00,760
+Cioè, se tu fai partire, fai caricare un apposito Ul
+
+664
+00:44:01,960 --> 00:44:05,480
+e ovviamente il tuo Mac è collegato ad internet perché se no
+
+665
+00:44:05,560 --> 00:44:07,880
+non funzionerebbe, parte un'azione sul tuo Mac.
+
+666
+00:44:07,880 --> 00:44:13,000
+Quindi tu sei fuori casa dal telefono con un link a Safari
+
+667
+00:44:13,320 --> 00:44:16,360
+e puoi far partire un'azione sul tuo computer da remoto.
+
+668
+00:44:16,360 --> 00:44:19,880
+Insomma, c'è veramente di tutto di più.
+
+669
+00:44:19,880 --> 00:44:23,240
+Kibo maestro, non so, per esempio, puoi far partire delle scorciatoie a
+
+670
+00:44:23,240 --> 00:44:28,520
+tastiera dalle pianole MIDI quindi se tu hai una pianola midi perché
+
+671
+00:44:28,680 --> 00:44:32,040
+suoni, puoi attaccare al computer e tutti i tasti.
+
+672
+00:44:32,040 --> 00:44:36,680
+La pianola possono diventare delle scorciatoie a tastiera, giusto per darti delle
+
+673
+00:44:36,760 --> 00:44:39,400
+idee: insomma, c'è di tutto di più nella sostanza.
+
+674
+00:44:39,400 --> 00:44:43,720
+Per cui è veramente costa una quarantina d'euro.
+
+675
+00:44:43,720 --> 00:44:46,600
+Compratelo se potete, se volete, ovviamente.
+
+676
+00:44:46,600 --> 00:44:50,760
+L'unico difetto, ecco, di Kibro Maestro è che è tutto in inglese
+
+677
+00:44:51,000 --> 00:44:53,800
+come quasi tutte le applicazioni, tranne Xpander.
+
+678
+00:44:53,800 --> 00:44:57,640
+Ezzel invece di fatto fa una cosa, la fa molto bene, cioè
+
+679
+00:44:57,880 --> 00:45:03,640
+l'abbiamo parlato la volta scorsa: monitora una determinata cartella e quando succede
+
+680
+00:45:03,640 --> 00:45:09,720
+qualcosa in quella determinata cartella, se ci sono determinate condizioni, fa partire
+
+681
+00:45:09,720 --> 00:45:11,000
+altre operazioni.
+
+682
+00:45:11,000 --> 00:45:16,040
+Anche qui infinite, tra virgolette, perché addirittura si possono usare degli Apple
+
+683
+00:45:16,200 --> 00:45:20,280
+Script o degli script di linguaggi per fare tutta una serie di
+
+684
+00:45:20,280 --> 00:45:22,680
+cose anche relativamente avanzate.
+
+685
+00:45:22,680 --> 00:45:26,520
+Text Respander invece è quello più semplice, tra virgolette, fa solo una
+
+686
+00:45:26,520 --> 00:45:28,600
+cosa: fa l'espansione del testo.
+
+687
+00:45:28,600 --> 00:45:32,360
+Ma anche qui se si vuole nella parte avanzata, David Spark ha
+
+688
+00:45:32,360 --> 00:45:33,320
+fatto questa automazione.
+
+689
+00:45:33,320 --> 00:45:38,360
+Per cui digitando adesso mi ricordo più che cosa, però crea il
+
+690
+00:45:38,360 --> 00:45:41,160
+link a una determinata email selezionata in mail.
+
+691
+00:45:41,160 --> 00:45:44,040
+Quindi si possono fare veramente un po' quello che si vuole.
+
+692
+00:45:44,040 --> 00:45:47,920
+Gli ultimi due sono simili, ma anche qui non sono uguali: Launch
+
+693
+00:45:48,080 --> 00:45:51,200
+bar che è quello che uso io e che sto per abbandonare,
+
+694
+00:45:51,200 --> 00:45:56,720
+probabilmente è una questione economica, ma è un lanciatore in senso tecnico.
+
+695
+00:45:56,720 --> 00:46:01,920
+Quindi digitando, io abitualmente l'ho collegata a Command Space al posto di
+
+696
+00:46:01,920 --> 00:46:03,280
+Spotlight.
+
+697
+00:46:03,600 --> 00:46:06,880
+Command Space si apre una barra che vi permette di fare milioni
+
+698
+00:46:06,880 --> 00:46:12,720
+di cose, aprire cartelle, lanciare automazioni, copiare file e così via.
+
+699
+00:46:12,720 --> 00:46:15,840
+È un lancia o aprire applicazioni e così via.
+
+700
+00:46:16,160 --> 00:46:20,960
+Alfred che bene o male faceva le stesse cose, adesso ha implementato
+
+701
+00:46:20,960 --> 00:46:25,120
+anche qui tutto un sistema di gestione delle automazioni, quindi vi permette
+
+702
+00:46:25,120 --> 00:46:28,960
+di fare delle automazioni un po' più complesse di launchbar.
+
+703
+00:46:28,960 --> 00:46:31,920
+Comunque rientra sempre in questo modo.
+
+704
+00:46:31,920 --> 00:46:38,160
+L'idea di fondo sono dei lanchar per cui digitando il comando, cioè
+
+705
+00:46:38,160 --> 00:46:43,360
+la scorciata di tastiera che invoca l'unchbar piuttosto che Alfred.
+
+706
+00:46:43,360 --> 00:46:47,600
+A questo punto avete questo programmino che compare come una barra di
+
+707
+00:46:47,600 --> 00:46:52,880
+spotlight sostanzialmente nel vostro Mac e digitando pochissime lettere vi permette di
+
+708
+00:46:52,880 --> 00:46:54,640
+far partire qualcosa.
+
+709
+00:46:54,960 --> 00:46:57,520
+Automazioni, aprire cartelle,
+
+710
+00:46:59,520 --> 00:47:03,600
+eseguire azioni di Keyboard Maestro, di tutto di più, quindi è molto
+
+711
+00:47:03,600 --> 00:47:07,280
+interessante anche da questo punto di vista, e poi, a conclusione del
+
+712
+00:47:07,280 --> 00:47:11,040
+tutto, per gli smanettoni seri ci sono i linguaggi di programmazione vera
+
+713
+00:47:11,040 --> 00:47:14,960
+e propria, shell, Python, JavaScript e così via.
+
+714
+00:47:14,960 --> 00:47:19,920
+Qui ovviamente dovete essere avere qualche infarinatura di programmazione e di fatto
+
+715
+00:47:20,880 --> 00:47:23,160
+scrivete un programma un
+
+716
+00:47:24,160 --> 00:47:28,080
+programma per svolgere delle piccole operazioni.
+
+717
+00:47:28,080 --> 00:47:34,280
+Abitualmente si possono unire questi sistemi, cioè quel che abbiamo appena elencato,
+
+718
+00:47:34,600 --> 00:47:41,480
+con degli script per rendere, automatizzare ancora di più il lancio di
+
+719
+00:47:41,480 --> 00:47:43,720
+queste di queste di queste cose.
+
+720
+00:47:43,720 --> 00:47:48,200
+Il vero vantaggio di MEC OS è che da sempre è un
+
+721
+00:47:48,200 --> 00:47:54,760
+sistema pensato anche, oltre alla facilità di utilizzo, chiamiamola così, alla semplicità,
+
+722
+00:47:54,760 --> 00:47:57,960
+all'economia, all'automazione.
+
+723
+00:47:57,960 --> 00:48:02,200
+Quindi moltissime applicazioni di Mac comunque
+
+724
+00:48:03,400 --> 00:48:07,400
+hanno dei collegamenti e funzionano con questi sistemi di automazione.
+
+725
+00:48:08,040 --> 00:48:14,040
+Benissimo, detto questo, possiamo parlare tranquillamente di iPad e iOS, dove abbiamo
+
+726
+00:48:14,040 --> 00:48:17,720
+parlato di comandi rapidi, di URL e Schems, e poi Filippo ci
+
+727
+00:48:17,720 --> 00:48:22,040
+spiegherà l'ultima parte che riguarda Talbox e via discorrendo.
+
+728
+00:48:22,040 --> 00:48:25,000
+Allora, di comandi rapidi ne abbiamo già più o meno parlato, quindi
+
+729
+00:48:25,800 --> 00:48:31,560
+non ovviamente comandi rapidi sarebbe una puntata a sé stante e così
+
+730
+00:48:31,560 --> 00:48:31,880
+via.
+
+731
+00:48:31,880 --> 00:48:33,320
+Diciamo che i comandi rapidi.
+
+732
+00:48:33,320 --> 00:48:39,080
+La cosa più interessante è che l'applicazione di Apple, pensata esclusivamente per
+
+733
+00:48:39,640 --> 00:48:41,640
+l'automazione di iOS.
+
+734
+00:48:41,640 --> 00:48:47,560
+iOS, fino alla presenza di Workflow, che poi è diventato comandi rapidi
+
+735
+00:48:47,560 --> 00:48:49,880
+o shortcut in inglese,
+
+736
+00:48:51,160 --> 00:48:57,160
+non permetteva il dialogo tra un'applicazione e l'altra, anzi, col sandboxing era
+
+737
+00:48:57,320 --> 00:49:05,080
+notevolmente complicato, e l'unico accrocchio che gli sviluppatori erano riusciti a implementare
+
+738
+00:49:05,080 --> 00:49:06,360
+sono gli URSCIM.
+
+739
+00:49:06,520 --> 00:49:10,680
+Gli US Schlimm di fatto funzionano anche su macOS, sempre se l'applicazione
+
+740
+00:49:10,920 --> 00:49:16,320
+lo supporta, di fatto sono dei link invece di essere un link
+
+741
+00:49:16,320 --> 00:49:19,920
+a una pagina web, sono i link a un'applicazione.
+
+742
+00:49:20,240 --> 00:49:23,040
+Quindi, giusto per darvi un'idea: Drafts
+
+743
+00:49:25,280 --> 00:49:32,560
+due punti slashless è lo scheme di base per interfacciarsi con Drafts.
+
+744
+00:49:32,560 --> 00:49:36,640
+Stesso discorso vale per mille applicazioni per Mac e per iOS.
+
+745
+00:49:36,640 --> 00:49:42,800
+Quindi, DevonSing, credo due punti slashless sono e funziona ovviamente su Devonzing
+
+746
+00:49:43,280 --> 00:49:49,600
+per Mac e per iPad, io, per esempio, utilizzo spesso il link
+
+747
+00:49:49,600 --> 00:49:55,600
+alle mail che in Tost, in Tudo c'è la possibilità ovviamente di
+
+748
+00:49:55,600 --> 00:50:01,040
+utilizzare Markdown per fare i link a documenti esterni, diciamo, che possono
+
+749
+00:50:01,040 --> 00:50:02,560
+essere anche pagine web.
+
+750
+00:50:02,640 --> 00:50:03,920
+Tendo a precisare.
+
+751
+00:50:04,320 --> 00:50:10,000
+Siccome funziona, il link alle mail suil funziona sia su Mac che
+
+752
+00:50:10,000 --> 00:50:17,200
+su iOS, io posso creare questo link dovunque io sia, e agnosticamente,
+
+753
+00:50:17,200 --> 00:50:22,320
+rispetto alla piattaforma, aprire quella specifica mail dato Dost, che sia sui
+
+754
+00:50:22,320 --> 00:50:25,040
+iPhone, che sia su iPad o che sia su Mac.
+
+755
+00:50:25,040 --> 00:50:29,360
+Quindi, lo scheme è molto vantaggioso per questo motivo.
+
+756
+00:50:29,360 --> 00:50:35,360
+E l'altro motivo dove poi hanno lavorato gli sviluppatori il web funziona
+
+757
+00:50:35,360 --> 00:50:39,760
+anche con la possibilità di nei link sostanzialmente di inserire anche dei
+
+758
+00:50:39,760 --> 00:50:46,240
+dati e quindi cosa hanno fatto prima che appunto comandi rapidi diventasse
+
+759
+00:50:46,480 --> 00:50:52,560
+l'applicazione di base dell'automazione, i dati passavano attraverso il scheme, cioè se
+
+760
+00:50:52,560 --> 00:50:57,200
+io voglio copiare un dato, non so, da Safari a Drafts, io
+
+761
+00:50:57,200 --> 00:50:58,400
+creo uno scheme
+
+762
+00:50:59,800 --> 00:51:02,440
+che è proprio però un link vero e proprio.
+
+763
+00:50:58,400 --> 00:51:03,640
+Quindi bisogna con
+
+764
+00:51:03,720 --> 00:51:10,600
+vertire gli spazi bianchi, per esempio, in 120, c'è tutta una conversione da
+
+765
+00:51:10,600 --> 00:51:16,120
+fare sostanzialmente, non è user friendly, chiamiamolo così, che vi permette, però,
+
+766
+00:51:16,120 --> 00:51:20,680
+di far passare dati da un'applicazione all'altra, si potevano far salvare file
+
+767
+00:51:20,680 --> 00:51:21,720
+e così via.
+
+768
+00:51:21,720 --> 00:51:26,680
+Ed è tuttora il sistema, diciamo, un po' complesso che, però, con
+
+769
+00:51:26,680 --> 00:51:31,160
+comandi rapidi si può fare per passare dati da un'applicazione all'altra che
+
+770
+00:51:31,480 --> 00:51:36,280
+non abbia qualche interfaccia vera e propria con comandi rapidi in pratica.
+
+771
+00:51:36,280 --> 00:51:41,640
+Benissimo, dopo questa lunga carerata di automazione, possiamo andare tranquillamente nei note
+
+772
+00:51:41,800 --> 00:51:45,080
+dell'episodio per trovare il link degli argomenti che abbiamo trattato in questa
+
+773
+00:51:45,080 --> 00:51:50,440
+puntata, e tutti i nostri riferimenti su a2podcast.it quattordi.
+
+774
+00:51:50,440 --> 00:51:55,080
+Per quanto mi riguarda, potete trovarmi sul mio blog, Mac Architettura, oppure
+
+775
+00:51:55,080 --> 00:51:58,440
+sul mio podcast settimanale Snap Architettura Imperfetta.
+
+776
+00:51:58,440 --> 00:51:59,880
+Invece, Filippo, dove la troviamo?
+
+777
+00:52:00,200 --> 00:52:03,560
+Su AvocatoMac.itissimo, ci sentiamo tra due settimane.

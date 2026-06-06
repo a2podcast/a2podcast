@@ -11,7 +11,7 @@ tags = ["mac", "workflow", "video", "automazione"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "banxIKrxPzw"
   guest = "alex-raccuglia"
 +++

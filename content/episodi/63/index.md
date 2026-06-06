@@ -11,14 +11,14 @@ tags = ["apple", "vision-pro", "wwdc"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "LyyfCF7EZ3M"
   guest = "lucio-bragagnolo"
 +++
 
 > Roberto e Filippo, con l'ormai immancabile Lucio Bragagnolo, commentano le novità del WWDC 2023 sulla presentazione del Vision Pro.
 
-# Note dell’episodio
+## Note dell’episodio
 
 ## Link interessanti 
 

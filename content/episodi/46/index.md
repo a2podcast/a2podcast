@@ -17,7 +17,7 @@ draft = false
 
 > In questa puntata Roberto e Filippo fanno un approfondimento su cosa sono i c.d. Task Manager (software che ti permettono di gestire progetti sia semplici che complessi), su come sono nati e si sono sviluppati, sul perché può essere utile utilizzarli.
 
-# Note episodio
+## Note episodio
 ## Iniziare dal processo
 
 ## Cos’è un task manager?

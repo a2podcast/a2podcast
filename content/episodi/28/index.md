@@ -11,7 +11,7 @@ tags = ["apple", "workflow", "wordpress", "cnr"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "0JxBJqC-GtA"
   guest = "nicola-losito"
 +++

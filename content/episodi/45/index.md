@@ -11,7 +11,7 @@ tags = ["minimalismo", "iphone", "ipad", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "r0ke_mxT2Wk"
 +++
 

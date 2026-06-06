@@ -11,7 +11,7 @@ tags = ["wwdc", "apple", "app", "ospite"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   guest = "lucio-bragagnolo"
 +++
 

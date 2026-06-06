@@ -11,7 +11,7 @@ tags = ["macos", "apple-silicon"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "CslWCsvepJg"
 +++
 
@@ -25,7 +25,7 @@ Se volete sapere come fare una recensione trovate il [link nelle note dell’epi
 
 Potete anche scriverci a scrivi.a@a2podcast.it
 
-# 1. MacOS 12 Monterey
+## 1. MacOS 12 Monterey
 
 Come ha testato macOS Monterey Filippo? Su SSD esterno collegato al suo MBP 16” del 2019 aggiornando dalla beta di Big Sur alla beta Monterey
 
@@ -141,7 +141,7 @@ Filippo: nel complesso un aggiornamento incrementale, Apple non è riuscita a co
 * Traduci
   * **Traduci a livello di sistema** : Fai clic sul testo tenendo premuto il tasto Ctrl e seleziona Traduci, poi copia il risultato, cambia la lingua o sostituisci il testo selezionato con la traduzione. Grazie a “Testo attivo” puoi anche tradurre il testo che selezioni nelle foto.
 
-# I nuovi M1 Pro e Max ed i MBP 14 e 16 pollici
+## I nuovi M1 Pro e Max ed i MBP 14 e 16 pollici
 
 * Estetica
   * Notch

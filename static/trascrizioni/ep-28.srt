@@ -1,0 +1,3695 @@
+1
+00:00:00,000 --> 00:00:04,480
+Benvenuti all'episodio 28 di A2, in cui scoprire come ottenere al massimo
+
+2
+00:00:04,480 --> 00:00:05,760
+dalla vostra tecnologia Apple.
+
+3
+00:00:05,760 --> 00:00:08,880
+Io sono Filippo Strozzi e sono il vostro ospite assieme alla Vicco
+
+4
+00:00:09,040 --> 00:00:09,920
+Roberto Marin.
+
+5
+00:00:09,920 --> 00:00:11,920
+Di cosa parliamo in questo episodio, Roberto?
+
+6
+00:00:11,920 --> 00:00:15,520
+In realtà non parliamo di assolutamente niente, ma parliamo con una persona
+
+7
+00:00:15,680 --> 00:00:17,680
+che prima di tutto è un nostro amico.
+
+8
+00:00:17,680 --> 00:00:19,520
+Facciamo subito le presentazioni.
+
+9
+00:00:19,520 --> 00:00:23,840
+Abbiamo con noi Nicola Rossito, un grandissimo amico di vecchia data, ma
+
+10
+00:00:23,840 --> 00:00:28,640
+non solo, ci sarà poi da raccontare le varie vicissitudini e gli
+
+11
+00:00:28,640 --> 00:00:31,840
+aiuti che ha dato sia a me che al nostro amico Filippo
+
+12
+00:00:32,000 --> 00:00:37,920
+Strozzi, lui è un simpatico, chiamiamolo così lavoratore nel campo della ricerca
+
+13
+00:00:38,000 --> 00:00:41,520
+nel CNR, se posso dirlo ma ormai l'ho detto, e poi lavora
+
+14
+00:00:41,520 --> 00:00:43,120
+come consulente ICT.
+
+15
+00:00:43,120 --> 00:00:44,320
+Benvenuto tra di noi.
+
+16
+00:00:44,320 --> 00:00:47,840
+Ciao a tutti, grazie dell'invito e un piacere essere tra voi.
+
+17
+00:00:47,840 --> 00:00:48,800
+Ottimo, Nick.
+
+18
+00:00:48,960 --> 00:00:52,960
+Sono veramente felicissimo, ma non solo io, ma anche Filippo che ovviamente
+
+19
+00:00:52,960 --> 00:00:53,920
+ha organizzato tutto.
+
+20
+00:00:53,920 --> 00:00:57,360
+Come sempre è quello che riesce a rendere a due un podcast
+
+21
+00:00:57,360 --> 00:01:02,560
+fantastico ed è tanto fantastico che immagino che vogliate sostenerci.
+
+22
+00:01:02,560 --> 00:01:04,000
+Come potete sostenerci?
+
+23
+00:01:04,000 --> 00:01:08,960
+Beh, semplicemente facendo una bella recensione su Apple Podcast, in questa fase
+
+24
+00:01:08,960 --> 00:01:13,280
+iniziale, tante recensioni ci permetteranno di essere visti da più persone possibili
+
+25
+00:01:13,280 --> 00:01:16,960
+e soprattutto di capire cosa volete voi dalla nostra vita, nel senso
+
+26
+00:01:16,960 --> 00:01:21,120
+che grazie ai vostri feedback, riusciamo a capire come sta andando questo
+
+27
+00:01:21,120 --> 00:01:21,920
+podcast.
+
+28
+00:01:21,920 --> 00:01:26,720
+Se volete sapere come fare, troverete, come sempre, la guida nei noti.
+
+29
+00:01:26,960 --> 00:01:32,000
+E poi potete anche iscriverci al nostro simpatico indirizzo di posta elettronica
+
+30
+00:01:32,240 --> 00:01:34,560
+che recita così, scrivi.
+
+31
+00:01:34,960 --> 00:01:37,200
+@a2podcast.it.
+
+32
+00:01:38,080 --> 00:01:41,360
+E adesso passiamo subito a Bomba a parlare con il nostro amico
+
+33
+00:01:41,360 --> 00:01:42,560
+Nicola Losito.
+
+34
+00:01:42,560 --> 00:01:46,480
+Hai voglia di raccontarci chi sei, cosa fai e soprattutto dove stai
+
+35
+00:01:46,480 --> 00:01:48,240
+andando e da dove vieni
+
+36
+00:01:49,520 --> 00:01:49,840
+.
+
+37
+00:01:50,400 --> 00:01:56,480
+Allora, innanzitutto, chiamandomi Nicola, non posso che venire da Bari perché ormai
+
+38
+00:01:57,080 --> 00:02:01,560
+è, diciamo, è quasi la palissiano questo abbinamento.
+
+39
+00:01:59,440 --> 00:02:06,200
+Praticamente, sono un appassionato di moto,
+
+40
+00:02:06,440 --> 00:02:13,080
+sono arrivato molto tardi al computing, praticamente a 25 anni ho scoperto
+
+41
+00:02:13,240 --> 00:02:17,640
+di avere questo pallino per l'informatica ed è stata la passione che
+
+42
+00:02:17,640 --> 00:02:22,520
+mi ha finalmente tenuto in chiodato la scrivania, portato a finire gli
+
+43
+00:02:22,520 --> 00:02:23,080
+studi.
+
+44
+00:02:23,080 --> 00:02:29,000
+Quindi ho incominciato, diciamo, di prima mano ad usare la tecnologia abbastanza
+
+45
+00:02:29,000 --> 00:02:29,880
+grandicello.
+
+46
+00:02:29,880 --> 00:02:34,600
+Avevo avuto delle esperienze in passato all'università dove ho avuto i primi
+
+47
+00:02:34,600 --> 00:02:39,400
+approcci con internet con dei Mac, parliamo, penso, con dei quadra o
+
+48
+00:02:39,640 --> 00:02:41,560
+roba del genere.
+
+49
+00:02:42,040 --> 00:02:46,600
+Mia moglie, la mia attuale moglie, invece era una smanettona già da
+
+50
+00:02:46,600 --> 00:02:52,200
+piccolina, avevo a casa il PC1 Prodest dell'Olivetti, preso inizio anni 80,
+
+51
+00:02:52,200 --> 00:02:57,960
+e anche uno dei primi X 386 con cui aveva già incominciato
+
+52
+00:02:57,960 --> 00:03:03,160
+a lavorare, anche una collega di Roberto, ingegnere Edile, anche diciamo con
+
+53
+00:03:03,160 --> 00:03:06,120
+lei, avevo iniziato a vedere un po' come era il computer a
+
+54
+00:03:06,120 --> 00:03:11,880
+casa, nel 99, anno del mio primo acquisto, tra l'altro, online del
+
+55
+00:03:11,880 --> 00:03:17,320
+computer, una famosa catena all'epoca di computing.
+
+56
+00:03:17,320 --> 00:03:21,320
+Insomma, questo computer mi ha iniziato a dare dei problemi perché ovviamente
+
+57
+00:03:21,320 --> 00:03:24,760
+era un computer Windows, un assemblato e quant'altro.
+
+58
+00:03:25,160 --> 00:03:28,360
+Lì ho iniziato a smanettare e a risolvere i problemi da solo.
+
+59
+00:03:28,360 --> 00:03:32,040
+E ho capito che quella poteva essere effettivamente la mia strada, la
+
+60
+00:03:32,040 --> 00:03:32,680
+mia passione.
+
+61
+00:03:32,680 --> 00:03:37,640
+Quindi, ho mollato gli studi di ingegneria meccanica e mi sono buttato
+
+62
+00:03:37,640 --> 00:03:39,800
+nel fantastico mondo dell'informatica.
+
+63
+00:03:39,800 --> 00:03:43,400
+È stato molto bello perché poi mi sono trasferito a Cesena da
+
+64
+00:03:43,400 --> 00:03:48,080
+Bari e qui ho studiato con molte persone in gamba.
+
+65
+00:03:44,680 --> 00:03:49,840
+Devo dire che sono stato molto fortunato
+
+66
+00:03:44,840 --> 00:03:52,000
+a conoscere queste persone.
+
+67
+00:03:53,600 --> 00:03:58,240
+Grazie a loro, e anche a un cugino, ho iniziato ad approcciarmi
+
+68
+00:03:58,240 --> 00:04:01,040
+al mondo Linux e al mondo dell'open source.
+
+69
+00:04:01,040 --> 00:04:06,320
+Da qui mi sono laureato e con queste due competenze mi sono
+
+70
+00:04:06,320 --> 00:04:08,000
+affaccio sul mondo del lavoro.
+
+71
+00:04:08,000 --> 00:04:15,440
+Ho fatto qualche piccola docenza, poi tramite un'amicizia motociclistica, ritorniamo ai cicli
+
+72
+00:04:15,440 --> 00:04:19,120
+della vita, ho avuto l'occasione di partecipare a un bando di concorso
+
+73
+00:04:19,120 --> 00:04:22,560
+per un assegno di ricerca al CNR e qui sono approdato nel
+
+74
+00:04:22,560 --> 00:04:27,520
+2007 e mi ritrovo un po' di anni dopo qui a lavorare.
+
+75
+00:04:27,520 --> 00:04:32,320
+Nel mentre ho conosciuto Apple, mi sono comprato il primo Mac con
+
+76
+00:04:32,320 --> 00:04:38,160
+Intel, il MacBook Pro bianco in policarbonato, proprio la primissima generazione, e
+
+77
+00:04:38,160 --> 00:04:40,720
+qui ho scoperto la magia.
+
+78
+00:04:40,720 --> 00:04:45,360
+In un mondo di informatica dove le cose un po' te le
+
+79
+00:04:45,360 --> 00:04:49,440
+dovevi inventare tu e cercare di mettere a posto, mi sono trovato
+
+80
+00:04:49,440 --> 00:04:55,120
+con un prodotto ingegnerizzato, pensato dall'inizio alla fine, 15 anni.
+
+81
+00:04:55,120 --> 00:04:56,000
+No, quanti anni sono?
+
+82
+00:04:56,000 --> 00:05:00,640
+16 anni, 17 anni dopo, eccomi, ancora qui, praticamente in casa, non
+
+83
+00:05:00,640 --> 00:05:04,400
+ho più nessun dispositivo Windows centrico.
+
+84
+00:05:04,400 --> 00:05:06,240
+Grandissimo, grandissimo.
+
+85
+00:05:06,240 --> 00:05:09,840
+In effetti l'effetto che ha fatto Apple è lo stesso che ha
+
+86
+00:05:09,840 --> 00:05:10,480
+fatto anche a me.
+
+87
+00:05:10,480 --> 00:05:15,040
+Anche io arrivavo dal mondo Windows e vedevo da lontano questi Mac
+
+88
+00:05:15,360 --> 00:05:21,280
+che lavoravano nel dipartimento dell'Adipro, nell'angolino della facoltà di architettura e sono
+
+89
+00:05:21,280 --> 00:05:23,360
+sempre rimasti un po' il sogno nel cassetto.
+
+90
+00:05:23,360 --> 00:05:27,360
+Poi, per fortuna le case software si sono accorte che esistono anche
+
+91
+00:05:27,360 --> 00:05:30,280
+i Mac e lo usano anche gli architetti, quindi ho potuto fare
+
+92
+00:05:30,280 --> 00:05:32,520
+anch'io l'ingresso nel mondo Apple.
+
+93
+00:05:29,840 --> 00:05:36,440
+L'effetto è proprio quello di non pensarci più a un prodotto ingegnerizzato.
+
+94
+00:05:36,520 --> 00:05:40,440
+Beh, chiaramente bisogna anche dire che il povero Windows deve occuparsi di
+
+95
+00:05:40,440 --> 00:05:44,280
+un milione di macchine diverse a differenza di Apple, quindi le cose
+
+96
+00:05:44,280 --> 00:05:49,640
+sono un po' più difficili, diciamolo così, mantenere questa compatibilità con queste
+
+97
+00:05:49,800 --> 00:05:53,080
+milione di macchine che sono tutte diverse una dall'altra, anche forse solo
+
+98
+00:05:53,080 --> 00:05:57,560
+per la RAM, per i componenti della RAM, quindi diventa un po'
+
+99
+00:05:57,560 --> 00:05:58,520
+difficoltoso.
+
+100
+00:05:58,520 --> 00:06:03,160
+Quindi sono molto interessante, come avete capito, è un motociclista che condividiamo
+
+101
+00:06:03,160 --> 00:06:06,040
+la stessa passione anche io e lui, solo che io ho preso
+
+102
+00:06:06,040 --> 00:06:08,600
+il casco al chiodo mentre lui continua e ha tutto il mio
+
+103
+00:06:08,600 --> 00:06:09,800
+massimo rispetto.
+
+104
+00:06:09,800 --> 00:06:14,360
+Stiamo ancora valutando qua a casa se quando avrò 50 anni ritornerò
+
+105
+00:06:14,360 --> 00:06:18,040
+col casco in testa oppure mi prenderò una bicicletta, ma penso che
+
+106
+00:06:18,040 --> 00:06:19,640
+andrò più sulla bicicletta.
+
+107
+00:06:19,640 --> 00:06:23,480
+Però Nicola, tra le altre cose, ha una bellissima moto, ha sempre
+
+108
+00:06:23,480 --> 00:06:25,320
+avuto bellissime moto, bisogna dire.
+
+109
+00:06:25,560 --> 00:06:29,400
+Abbiamo anche attraversato, nonostante la distanza,
+
+110
+00:06:30,520 --> 00:06:36,120
+per vie traversa, diciamo così, delle esperienze motociclistiche insieme, insomma, perché abbiamo
+
+111
+00:06:36,120 --> 00:06:37,720
+condiviso un po' di cose.
+
+112
+00:06:38,040 --> 00:06:43,000
+Oltre a questo aspetto, Nicola non fa solo questo nella vita, ha
+
+113
+00:06:43,000 --> 00:06:46,680
+una serie di side project che sono veramente lunghi.
+
+114
+00:06:46,680 --> 00:06:49,560
+E qui anche qui lascio di nuovo la parola al mio amico
+
+115
+00:06:49,560 --> 00:06:53,640
+Nick che insomma i suoi side project hanno investito sia me che
+
+116
+00:06:53,640 --> 00:06:54,360
+Filippo.
+
+117
+00:06:54,360 --> 00:06:57,960
+Allora, come approcciare questa tua presentazione?
+
+118
+00:06:57,960 --> 00:07:02,360
+Diciamo che la curiosità e la voglia di esplorare la rete probabilmente
+
+119
+00:07:02,680 --> 00:07:06,440
+sono delle cose che mi caratterizzano parecchio.
+
+120
+00:07:06,760 --> 00:07:11,400
+Come dicevo, quando ho comprato il primo computer, la prima cosa che
+
+121
+00:07:11,400 --> 00:07:16,480
+ho fatto è stata iscrivermi ad ICQ, che all'epoca era un network,
+
+122
+00:07:16,480 --> 00:07:22,400
+uno dei social network, anche Literac, vogliamo, ti permetteva di parlare, conoscere
+
+123
+00:07:22,400 --> 00:07:24,320
+persone provenienti da tutto il mondo.
+
+124
+00:07:24,640 --> 00:07:30,560
+Avevo già un giro di amicizie, perché, anche se offline, adesso la
+
+125
+00:07:30,560 --> 00:07:34,400
+dico in maniera strana, avevo modo di seguire delle mailing list di
+
+126
+00:07:34,400 --> 00:07:39,520
+fumetti perché i fumetti sono erremoto, sono le mie due grandi passioni.
+
+127
+00:07:39,520 --> 00:07:42,720
+In questo momento, Filippo e Roberto possono vedere le mie spalle una
+
+128
+00:07:42,720 --> 00:07:47,920
+libreria che contiene un quarto della mia collezione fumettistica e ci ho
+
+129
+00:07:47,920 --> 00:07:50,400
+speso tantissimi soldi, tantissimo tempo.
+
+130
+00:07:50,400 --> 00:07:54,160
+Quindi, in pratica, non avendo un computer, avevo uno zio che mi
+
+131
+00:07:54,160 --> 00:08:00,320
+tirava giù delle mani tabulate di mail en list, credo scaricati con
+
+132
+00:08:00,320 --> 00:08:04,880
+Eodora all'epoca, e io mi leggevo le mail e le mail a
+
+133
+00:08:04,880 --> 00:08:08,240
+cui volevo rispondere, me le scrivevo in qualche maniera.
+
+134
+00:08:08,240 --> 00:08:13,760
+Poi, quando ero in facoltà mi collegavo al mio account credo all'epoca
+
+135
+00:08:13,760 --> 00:08:20,000
+e rispondevo alla singola email perché tanto tempo fa la connessione era
+
+136
+00:08:20,240 --> 00:08:21,120
+costosissima.
+
+137
+00:08:21,120 --> 00:08:26,480
+Era come l'inchiostro delle stampanti, era la seconda cosa più costosa dell'inchiostro
+
+138
+00:08:26,480 --> 00:08:27,520
+delle stampanti.
+
+139
+00:08:27,520 --> 00:08:32,960
+Quindi già avevo un network di contatti, e da qui ho iniziato
+
+140
+00:08:32,960 --> 00:08:36,480
+una fitta rete di relazioni che, appunto, come ha detto Roberto, vedo
+
+141
+00:08:36,560 --> 00:08:36,960
+Filippo.
+
+142
+00:08:36,960 --> 00:08:42,560
+Fanui, mi ha portato a conoscere tantissima gente in tantissime parti d'Italia
+
+143
+00:08:42,640 --> 00:08:43,440
+del mondo.
+
+144
+00:08:43,440 --> 00:08:48,800
+Ed è stato bello in alcuni periodi parlare contemporaneamente con uno a
+
+145
+00:08:48,800 --> 00:08:54,000
+Milano, uno a Singapore, uno in Canada, l'altro in Messico, nello stesso
+
+146
+00:08:54,000 --> 00:08:55,120
+istante.
+
+147
+00:08:55,120 --> 00:09:00,600
+È un'esperienza affascinante e io credo che sia il vero valore della
+
+148
+00:08:59,840 --> 00:09:03,960
+rete, quello di poter conoscere gli altri.
+
+149
+00:09:04,200 --> 00:09:12,520
+Detto questo, assieme a questo aspetto sociale, è disceso nel tempo, la
+
+150
+00:09:12,520 --> 00:09:18,440
+conoscenza dei blog, perché ovviamente nasce la prima blogosfera, il primo mondo
+
+151
+00:09:18,520 --> 00:09:23,160
+e mi sono gettato a capofitto all'epoca in Italia c'era una piattaforma
+
+152
+00:09:23,160 --> 00:09:29,000
+che si chiamava Splindr che raccoglieva, diciamo, la prima è stata la
+
+153
+00:09:29,000 --> 00:09:30,280
+prima ondata italiana.
+
+154
+00:09:30,280 --> 00:09:35,480
+Ovviamente permetteva a chi non aveva conoscenze tecniche di poter scrivere e
+
+155
+00:09:35,480 --> 00:09:39,640
+pubblicare i propri pensieri, e anche lì si è creato un innesto,
+
+156
+00:09:39,640 --> 00:09:46,120
+un circuito di amicizie molto forte, era affiancato da un network IRC
+
+157
+00:09:46,280 --> 00:09:54,600
+azzurra, diversi blogger, anche famosi oggi, persone che dirigono testate giornalistiche piuttosto
+
+158
+00:09:54,600 --> 00:10:00,680
+che vanno in tv o per dire Matteo Bordone, uno dei personaggi
+
+159
+00:10:00,680 --> 00:10:05,800
+più famosi o Luca Soffri del post, era gente che bazzicava questi
+
+160
+00:10:05,800 --> 00:10:10,360
+network e quindi si conosceva veramente tanta gente interessata.
+
+161
+00:10:10,360 --> 00:10:16,280
+Da qui, ovviamente, il nocciolo duro di persone era sempre presente, esplorava
+
+162
+00:10:16,280 --> 00:10:20,600
+il web man mano che si formava e quindi a ondate ci
+
+163
+00:10:20,600 --> 00:10:24,760
+fondavamo sui social network che man mano nascevano.
+
+164
+00:10:24,760 --> 00:10:31,000
+C'era Orchut, poi è seguito Facebook, poi Twitter, poi Fran Feed che
+
+165
+00:10:31,000 --> 00:10:31,880
+poi è morto.
+
+166
+00:10:31,880 --> 00:10:36,760
+Insomma, c'era una allegra baracca di gente che si trasferiva, tipo
+
+167
+00:10:38,040 --> 00:10:40,920
+migrazione stanziale, sulle varie piattaforme.
+
+168
+00:10:40,920 --> 00:10:46,160
+Un po' imparava i meccanismi, poi c'era chi restava su una piattaforma
+
+169
+00:10:46,240 --> 00:10:51,280
+tipo Friend Fid, ha fatto moltissimo breccio nel cuore di moltissime persone
+
+170
+00:10:51,280 --> 00:10:57,840
+perché ha permesso degli scambi molto intimi, di confidenze, conoscenze, sono seguiti
+
+171
+00:10:58,080 --> 00:11:00,800
+incontri di persone, quant'altro.
+
+172
+00:11:00,800 --> 00:11:04,640
+E altre persone come me che un po' hanno continuato a girare
+
+173
+00:11:04,640 --> 00:11:06,720
+cercando la propria nicchia.
+
+174
+00:11:06,720 --> 00:11:12,000
+Una di queste cose è stata trovare un gruppo di persone su
+
+175
+00:11:12,000 --> 00:11:18,160
+Twitter dove si discuteva, ci si confrontava, però purtroppo Twitter non è
+
+176
+00:11:18,160 --> 00:11:22,960
+nato per favorire lo scambio organico di una discussione.
+
+177
+00:11:22,960 --> 00:11:28,080
+All'epoca era nato Slack, Slack era nato da pochissimi mesi e si
+
+178
+00:11:28,080 --> 00:11:32,960
+era proposta come una piattaforma centralizzante e alternativa ai forum e alle
+
+179
+00:11:32,960 --> 00:11:33,440
+email.
+
+180
+00:11:33,440 --> 00:11:38,160
+E qui ho iniziato a fare con l'amico Giuseppe Pessi un reclutamento
+
+181
+00:11:38,160 --> 00:11:45,440
+di persone che ritenevo interessanti e stimolanti, soprattutto aperte a conoscere gli
+
+182
+00:11:45,440 --> 00:11:47,520
+altri e a confrontarsi.
+
+183
+00:11:47,520 --> 00:11:53,440
+Uno dei fattori comuni, oltre a conoscere mio Giuseppe all'epoca, era la
+
+184
+00:11:53,440 --> 00:11:59,040
+passione per l'informatica e per il mondo Apple, però, diciamo che negli
+
+185
+00:11:59,040 --> 00:12:04,880
+anni abbiamo raccolto anche persone Linux convinti, o c'è sempre un confronto
+
+186
+00:12:04,880 --> 00:12:08,640
+aperto, oltre che uno sfruttò, chiaramente tra di noi.
+
+187
+00:12:08,880 --> 00:12:14,320
+E quindi abbiamo la nostra piccola bolla dove ogni giorno possiamo confrontarci
+
+188
+00:12:14,560 --> 00:12:19,040
+e poi abbiamo le nostre aperture verso il mondo, ciascuno verso il
+
+189
+00:12:19,040 --> 00:12:21,360
+proprio mondo di riferimento.
+
+190
+00:12:21,360 --> 00:12:25,880
+Ti sei dimenticato un pezzo, mi sembra, che non è tanto piccolo.
+
+191
+00:12:25,880 --> 00:12:27,280
+Della blogosfera.
+
+192
+00:12:27,280 --> 00:12:29,040
+Vogliamo parlare di te, Vac?
+
+193
+00:12:29,440 --> 00:12:30,520
+Esatto, va bene.
+
+194
+00:12:30,680 --> 00:12:38,120
+Nel mondo dei blog del mondo Apple, seguivo diverse realtà italiane tra
+
+195
+00:12:38,120 --> 00:12:39,400
+cui Tevac.
+
+196
+00:12:39,400 --> 00:12:47,000
+Tevac è stato forse un grande amore ne rimpiango ancora l'esistenza, qui
+
+197
+00:12:47,160 --> 00:12:53,080
+ho scoperto alcune persone eccezionali, tra cui il mitico Power User, un
+
+198
+00:12:53,080 --> 00:12:57,480
+amico che oggi non c'è più, ci ha lasciato che Claudio Torretta
+
+199
+00:12:57,800 --> 00:13:04,840
+che mi piace sempre ricordare, perché era una persona delicata d'animo e
+
+200
+00:13:05,320 --> 00:13:10,600
+che illuminava un mondo di, diciamo, di cattiveri o rancori.
+
+201
+00:13:10,600 --> 00:13:16,200
+Era una persona che quando interveniva interveniva sempre con gentilezza, cercando di
+
+202
+00:13:16,200 --> 00:13:16,920
+aiutare.
+
+203
+00:13:16,920 --> 00:13:21,640
+Non era mai tranchant nei confronti di un commento scritto male o
+
+204
+00:13:21,640 --> 00:13:25,800
+di una lamentela su un software che funzionava e faceva frustare il
+
+205
+00:13:25,800 --> 00:13:28,360
+cliente, mi piace ricordare Claudio.
+
+206
+00:13:28,360 --> 00:13:33,000
+All'epoca, verso gli ultimi anni di vita, complice la mia passione per
+
+207
+00:13:33,000 --> 00:13:37,320
+WordPress, di cui è un'altra cosa di cui non abbiamo accennato.
+
+208
+00:13:37,640 --> 00:13:43,400
+Roberto Rota mi chiese se avesse voglia di seguire una rinascita della
+
+209
+00:13:43,400 --> 00:13:48,680
+parte web di Tovac perché era essenzialmente un forum con una lunghissima
+
+210
+00:13:48,680 --> 00:13:53,720
+storia alle spalle e aveva anche un paio di siti, tipo quello
+
+211
+00:13:53,720 --> 00:14:00,680
+dedicato alla fotografia e il sito principale, però Roberto volle all'epoca distinguersi
+
+212
+00:14:00,680 --> 00:14:06,600
+da testate tipo Max City o altro che riportavano solo notizie, ma
+
+213
+00:14:06,600 --> 00:14:12,760
+aveva pensato a un page di Tebac che riportasse sì qualche notizia
+
+214
+00:14:12,760 --> 00:14:18,560
+di commento alle news principali di Apple, ma riportasse anche l'aspetto sociale
+
+215
+00:14:14,920 --> 00:14:19,920
+degli utenti di Tavac.
+
+216
+00:14:20,080 --> 00:14:25,360
+Quindi ognuno di noi poteva aprirsi un blog quindi nel mio caso
+
+217
+00:14:25,520 --> 00:14:29,440
+con linustev.com, ma ce ne erano altri.
+
+218
+00:14:29,600 --> 00:14:34,080
+Ognuno scrivere dalla propria esperienza informatica.
+
+219
+00:14:34,080 --> 00:14:39,520
+Ovviamente il minimo comune multiplo era Apple, però da lì ognuno era
+
+220
+00:14:39,520 --> 00:14:41,520
+libero, era non censurato.
+
+221
+00:14:41,760 --> 00:14:44,240
+Questa cosa andata avanti per un po' di tempo.
+
+222
+00:14:44,240 --> 00:14:49,920
+Poi, un po' Facebook, un po' gli impegni delle persone che ovviamente
+
+223
+00:14:49,920 --> 00:14:56,400
+crescono, mettono su famiglia o altre cose, ha portato a una diminuzione
+
+224
+00:14:56,560 --> 00:15:01,920
+dei contributi e del tempo che c'era a disposizione per tenere sulla
+
+225
+00:15:01,920 --> 00:15:06,960
+piattaforma, che nel frattempo era anche cresciuta tantissimo perché il forum, se
+
+226
+00:15:06,960 --> 00:15:11,040
+non sbaglio, aveva avuto quasi una ventina d'anni di vita utile.
+
+227
+00:15:11,040 --> 00:15:15,040
+Quindi il database alle spalle era parecchio grosso.
+
+228
+00:15:15,040 --> 00:15:21,360
+La piattaforma da aggiornare non era semplice qui, nonostante avessimo degli aiuti
+
+229
+00:15:21,360 --> 00:15:26,480
+dal lato server, dal lato a coprire i costi, mancava poi la
+
+230
+00:15:26,480 --> 00:15:30,400
+parte di moderazione e di coordinamento del tutto.
+
+231
+00:15:30,720 --> 00:15:35,360
+L'esperimento poi è giunto alla fine e consamo rammarico di tantissimi.
+
+232
+00:15:35,360 --> 00:15:41,520
+Però, anche questa è stata un'esperienza per conoscere persone e mondi diversi
+
+233
+00:15:41,520 --> 00:15:45,200
+dal mio, che è la summa dell'internet per me.
+
+234
+00:15:45,200 --> 00:15:45,760
+Assolutamente.
+
+235
+00:15:45,760 --> 00:15:49,040
+Tra l'altro, io parlavo appunto di teva perché è stato uno degli
+
+236
+00:15:49,040 --> 00:15:55,360
+appoggi all'inizio della mia carriera da Mac user, chiamiamolo così.
+
+237
+00:15:55,360 --> 00:15:58,800
+Ti ringrazio per questa parentesi, è stata molto interessante.
+
+238
+00:15:58,800 --> 00:16:03,240
+Molti articoli erano soprattutto utili per chi iniziava, ma poi anche l'ambiente
+
+239
+00:15:59,840 --> 00:16:04,600
+era molto molto carino.
+
+240
+00:16:04,760 --> 00:16:09,640
+Ma invece, a questo punto, dobbiamo andare a pomba su WordPress perché,
+
+241
+00:16:09,640 --> 00:16:14,760
+insomma, Nicola non è proprio il primo venuto su WordPress, anzi, mi
+
+242
+00:16:14,760 --> 00:16:20,440
+sembra che recentemente, nonostante la pandemia, abbia anche organizzato i meetup bari
+
+243
+00:16:20,440 --> 00:16:21,720
+di WordPress.
+
+244
+00:16:21,720 --> 00:16:26,760
+Quindi direi che non è proprio uno sprovveduto, e volevo sentire la
+
+245
+00:16:26,760 --> 00:16:29,320
+sua versione di come ha approcciato WordPress.
+
+246
+00:16:29,320 --> 00:16:32,840
+Che per me, ad esempio, ma penso anche per Filippo, è uno
+
+247
+00:16:32,840 --> 00:16:36,360
+strumento di pubblicazione del mio blog.
+
+248
+00:16:36,360 --> 00:16:38,680
+Datti, il mio blog si appoggia su WordPress.
+
+249
+00:16:38,680 --> 00:16:40,520
+Filippo, invece volevi dirci?
+
+250
+00:16:40,520 --> 00:16:44,280
+Facciamo un passo indietro per chi non sapesse, perché noi diciamo abbiamo
+
+251
+00:16:44,280 --> 00:16:48,440
+ognuno il suo sito e abbazziamo in internet, mettiamo il caso che
+
+252
+00:16:48,440 --> 00:16:52,360
+qualcuno non sappes esattamente cos'è Wordpress, partiamo dalle origini.
+
+253
+00:16:52,360 --> 00:16:54,040
+Cos'è WordPress?
+
+254
+00:16:54,920 --> 00:16:58,280
+Allora ti risponderei come dice un mio collega.
+
+255
+00:16:58,280 --> 00:17:06,120
+Al contrario, nel senso, WordPress è una comunità essenzialmente oggi nel 2022
+
+256
+00:17:06,440 --> 00:17:14,360
+originariamente era nato, è un sistema di gestione dei contenuti online.
+
+257
+00:17:14,360 --> 00:17:19,640
+La mission di WordPress del progetto open source WordPress è quella di
+
+258
+00:17:19,640 --> 00:17:27,640
+democratizzare l'online publishing, cioè permettere a chiunque, indipendentemente dalle proprie capacità e
+
+259
+00:17:27,640 --> 00:17:33,080
+possibilità, di pubblicare il proprio pensiero online, non essere sottoposto a censure,
+
+260
+00:17:33,560 --> 00:17:37,000
+potersi esprimere liberamente.
+
+261
+00:17:37,160 --> 00:17:41,880
+Questa è la mission più alta del progetto WordPress, che spesso viene
+
+262
+00:17:41,880 --> 00:17:44,560
+dimenticata dai più.
+
+263
+00:17:44,560 --> 00:17:49,680
+Molti si fermano all'aspetto tecnico, che sicuramente è perfettibile.
+
+264
+00:17:50,080 --> 00:17:56,240
+L'aspetto sociale, i meetup o i WordCamp, ma anche il semplice confronto
+
+265
+00:17:56,560 --> 00:18:01,680
+tra utenti e professionisti che utilizzano la piattaforma, sia la base di
+
+266
+00:18:01,680 --> 00:18:08,400
+questo processo democratico ed è anche uno degli esempi migliori di come
+
+267
+00:18:08,720 --> 00:18:15,440
+è possibile far convivere persone di culture ed etnie diverse fare lavorare
+
+268
+00:18:15,440 --> 00:18:18,640
+assieme verso un unico progetto e un unico scopo.
+
+269
+00:18:18,640 --> 00:18:23,680
+Credo che sia in base a questa filosofia sottostante su cui spesso
+
+270
+00:18:23,680 --> 00:18:31,280
+si sorvola, che il progetto è oggi arrivato a inglobare quasi metà
+
+271
+00:18:31,280 --> 00:18:35,120
+dei siti web in tutto il mondo gestiti con un CMS.
+
+272
+00:18:35,120 --> 00:18:38,000
+Cosa vuol dire CMS per chi non lo sapesse?
+
+273
+00:18:38,320 --> 00:18:44,480
+Sistema di gestione dei contenuti Content Management System, perfetto, quindi chiudiamo il
+
+274
+00:18:44,480 --> 00:18:46,480
+cerchio con l'apertura.
+
+275
+00:18:46,960 --> 00:18:52,000
+Sono quindi diciamo un utilizzatore della piattaforma dal 2004, credo.
+
+276
+00:18:52,480 --> 00:18:57,920
+Ho fatto un'indagine con un collega attualmente dipendente di Automatic che è
+
+277
+00:18:59,440 --> 00:19:03,360
+il maggior promotore di WordPress.
+
+278
+00:19:03,360 --> 00:19:06,560
+Bisognerebbe, non so, ditemi voi se devo approfondire o meno in questo
+
+279
+00:19:06,640 --> 00:19:07,120
+aspetto.
+
+280
+00:19:07,120 --> 00:19:10,560
+Se vuoi parlare, anche perché questo è un argomento che è interessantissimo.
+
+281
+00:19:10,560 --> 00:19:13,360
+Quindi h carta bianca, come si suol dire.
+
+282
+00:19:13,360 --> 00:19:18,720
+Ok, allora magari vediamo di fare anche un exclusivo che ci porta
+
+283
+00:19:19,680 --> 00:19:21,360
+alla nostra produttività.
+
+284
+00:19:22,080 --> 00:19:25,280
+WordPress nasce come progetto open source.
+
+285
+00:19:25,280 --> 00:19:28,960
+C'è delle persone che hanno fatto un fork di un progetto abbandonato,
+
+286
+00:19:28,960 --> 00:19:33,080
+il fork perché non è un informatico, partendo da un codice open
+
+287
+00:19:33,080 --> 00:19:38,840
+source, lo posso copiare, lo posso modificare secondo le mie capacità, esperienze,
+
+288
+00:19:38,840 --> 00:19:40,200
+e esigenze.
+
+289
+00:19:40,200 --> 00:19:46,760
+Attorno a questo progetto, Martin Rullenberg ha raccolto con sé diverse persone,
+
+290
+00:19:46,760 --> 00:19:50,120
+ed è partito il progetto open source di sistema di gestione dei
+
+291
+00:19:50,120 --> 00:19:51,480
+contenuti WordPress.
+
+292
+00:19:51,480 --> 00:19:56,760
+Dopodiché, essendo degli informatici dei professionisti, ha messo su un'azienda che si
+
+293
+00:19:56,760 --> 00:20:02,680
+chiama Automatic tramite cui ha incominciato a vendere proprio, diciamo, un hosting,
+
+294
+00:20:02,680 --> 00:20:06,760
+un servizio di hosting in parte gratis, in parte a pagamento che
+
+295
+00:20:06,760 --> 00:20:12,600
+è WordPress.com che è la maggior piattaforma, piattaforma come servizio che offre
+
+296
+00:20:12,600 --> 00:20:16,520
+la possibilità di aprire un blog o un sito al mondo, all'epoca
+
+297
+00:20:16,760 --> 00:20:23,240
+WordPress.com se la giocava con blogger.com, che era di proprietà Google o
+
+298
+00:20:23,560 --> 00:20:27,480
+è stata diventata subito dopo la sua nascita di proprietà Google per
+
+299
+00:20:27,480 --> 00:20:30,360
+far capire contro chi ci si scontra.
+
+300
+00:20:30,360 --> 00:20:35,640
+C'era un'altra piattaforma che era livejournal.com, ma c'era Movable Type che era
+
+301
+00:20:35,640 --> 00:20:37,080
+sempre una piattaforma americana.
+
+302
+00:20:37,080 --> 00:20:39,480
+Insomma, c'erano tante piattaforme anche in Italia.
+
+303
+00:20:39,480 --> 00:20:45,000
+C'era Splinter, ovviamente, siamo minoritari verso i grandi colossi americani.
+
+304
+00:20:45,000 --> 00:20:48,360
+E quindi tra investimenti e quant'altro.
+
+305
+00:20:48,360 --> 00:20:55,000
+Automatic che appunto è partita con WordPress.com, è diventata un'azienda che ha
+
+306
+00:20:55,000 --> 00:20:59,240
+comprato negli anni tantissime altre software house.
+
+307
+00:20:59,400 --> 00:21:03,160
+A per la sud ha anche comprato uno dei suoi maggiori competitor
+
+308
+00:21:03,320 --> 00:21:09,560
+che era Tumblr.com, che era un altro posto dove le persone praticamente
+
+309
+00:21:09,560 --> 00:21:12,640
+senza censura non potevano esprimersi.
+
+310
+00:21:13,280 --> 00:21:18,320
+Questa piattaforma, Tumblr.com, è passata attraverso varie proprietà, vari livelli di censura,
+
+311
+00:21:18,320 --> 00:21:21,440
+ed è tornata sotto l'ombrello di Automatic.
+
+312
+00:21:21,760 --> 00:21:27,760
+Tutto sommato ne sta mantenendo lo spirito come si dice, Filippo: libero
+
+313
+00:21:27,920 --> 00:21:28,240
+di
+
+314
+00:21:30,240 --> 00:21:32,560
+liberista, facciamo liberista.
+
+315
+00:21:32,560 --> 00:21:38,400
+Non so se il liberista è corretto, diciamo, pur combattendo un po'
+
+316
+00:21:38,560 --> 00:21:43,840
+la parte di pornografia, che purtroppo la piattaforma negli anni ha ospitato,
+
+317
+00:21:43,840 --> 00:21:46,400
+che poi non è propriamente pornografia.
+
+318
+00:21:46,480 --> 00:21:54,480
+È più un ripubblicare foto essenzialmente, perché poi l'industria pornografica è altrove,
+
+319
+00:21:54,480 --> 00:21:57,920
+insomma, però è molto steggiato molto in vista.
+
+320
+00:21:57,920 --> 00:22:02,480
+Quindi, automatica ha preso sotto di sé tanti progetti, un altro è
+
+321
+00:22:02,480 --> 00:22:07,280
+Simple Note che fa parte della mia produttività chiave.
+
+322
+00:22:07,440 --> 00:22:13,840
+Quindi torniamo, come dicevo, al tema principale e sta costruendo un ecosistema
+
+323
+00:22:13,840 --> 00:22:19,280
+di servizi e applicazioni, diciamo, gestiti in maniera democratica.
+
+324
+00:22:19,280 --> 00:22:27,040
+C'è sempre un condottiero, chiamiamolo così che è Matt, però è un
+
+325
+00:22:27,040 --> 00:22:32,880
+condottiere illuminato, non è un despota, è una persona molto aperta al
+
+326
+00:22:32,880 --> 00:22:37,840
+cambiamento e soprattutto molto alla mano, perché nei vari World Camp a
+
+327
+00:22:37,840 --> 00:22:42,800
+cui ha partecipato e venuto praticamente quando c'è World Camp Europe, viene
+
+328
+00:22:42,800 --> 00:22:43,840
+sempre in Europa.
+
+329
+00:22:43,840 --> 00:22:48,240
+Ci puoi parlare anche di 10, 15, 20 minuti, ti fai la
+
+330
+00:22:48,240 --> 00:22:50,880
+foto, come stiamo parlando noi?
+
+331
+00:22:50,880 --> 00:22:55,120
+Ed è uno che ha una barca di soldi e un peso
+
+332
+00:22:55,120 --> 00:23:01,000
+non indifferente nell'economia del web e della tecnologia oggi, infatti, pochi giorni
+
+333
+00:23:01,000 --> 00:23:07,640
+fa leggevo proprio un articolo secondo cui qualcuno proponeva tipo contrapporre alle
+
+334
+00:23:07,800 --> 00:23:12,840
+major tipo Facebook per promuovere un tipo di pubblicazione di gestione dei
+
+335
+00:23:12,840 --> 00:23:17,240
+contenuti web diversa dalla maniera commerciale solita.
+
+336
+00:23:17,800 --> 00:23:21,640
+Volevo tornare un secondo su WordPress se posso.
+
+337
+00:23:21,640 --> 00:23:28,920
+E quindi questa mia frequentazione della comunità WordPress ho deciso di contribuire
+
+338
+00:23:28,920 --> 00:23:34,360
+per le mie poche capacità traducendo e aiutando altre persone ad utilizzare
+
+339
+00:23:34,360 --> 00:23:39,640
+la piattaforma e qui ho organizzato il meetup barese insieme a degli
+
+340
+00:23:39,640 --> 00:23:45,240
+amici e abbiamo organizzato due WordPress meetup a Bari prima della pandemia.
+
+341
+00:23:45,240 --> 00:23:51,720
+Sono orgognoso di dire che sono due dei tre eventi meridionali tecnologici
+
+342
+00:23:51,880 --> 00:23:56,120
+di respiro internazionale che ci sono stati al Sud Italia perché purtroppo
+
+343
+00:23:56,120 --> 00:24:00,440
+l'Italia, come la Puglia dove vivo, è una regione del mondo molto
+
+344
+00:24:00,440 --> 00:24:03,640
+lunga e quindi è difficile per
+
+345
+00:24:04,840 --> 00:24:09,880
+uno straniero poter venire qui, ma anche solo far venire Roberto a
+
+346
+00:24:09,880 --> 00:24:15,320
+mangiare una bufala, corrisponde per lui a una giornata di viaggio molto
+
+347
+00:24:15,320 --> 00:24:18,280
+impegnativa se non viene con l'aereo, ovviamente.
+
+348
+00:24:18,280 --> 00:24:23,400
+Quest'anno ho visto che gli incontri di persona non sono ancora possibili,
+
+349
+00:24:23,400 --> 00:24:28,680
+mi sono buttato nell'organizzazione del meetup nazionale, scusatemi, del World Camp Nazionale
+
+350
+00:24:28,680 --> 00:24:34,200
+e quindi World Camp 2021 nazionale italiano perché ce n'è stato uno
+
+351
+00:24:34,200 --> 00:24:35,240
+in tutta l'Italia.
+
+352
+00:24:35,240 --> 00:24:38,200
+Mi ha visto tra gli organizzatori.
+
+353
+00:24:38,440 --> 00:24:45,520
+Diciamo, questa maniera di portare la possibilità di esprimersi, di installare il
+
+354
+00:24:44,920 --> 00:24:50,480
+proprio CMS, sistema dei contenuti, scegliere il tema o quant'altro.
+
+355
+00:24:50,720 --> 00:24:56,720
+Il mio contributo verso questo progetto, questa comunità che in cambio mi
+
+356
+00:24:56,720 --> 00:25:01,360
+ha dato possibilità di lavorare per un periodo, perché adesso sono dipendente
+
+357
+00:25:01,440 --> 00:25:04,080
+CNR full time, non faccio più il consulente.
+
+358
+00:25:04,080 --> 00:25:08,320
+Però una parte della mia consulenza è stata oltre a risolvere problemi
+
+359
+00:25:08,480 --> 00:25:12,160
+hardware e software, è stata quella di far portare i siti web
+
+360
+00:25:12,320 --> 00:25:14,000
+ad aziende e piccoli professioni.
+
+361
+00:25:14,160 --> 00:25:16,320
+Tra cui anche il mio blog, tra le altre cose, perché
+
+362
+00:25:17,440 --> 00:25:23,680
+io sono seguito nonostante tanti anni mi sembra che sia 4-6 anni
+
+363
+00:25:23,680 --> 00:25:24,720
+che ho il blog.
+
+364
+00:25:24,720 --> 00:25:26,240
+Lui mi è sempre stato dietro.
+
+365
+00:25:26,240 --> 00:25:31,120
+Ci siamo conosciuti, grazie appunto, alle sue frequentazioni, ma più che altro
+
+366
+00:25:31,280 --> 00:25:35,440
+un articolo che era nato all'epoca su The Suite setup, dove parlavo
+
+367
+00:25:35,440 --> 00:25:40,560
+del mio setup hardware nel mondo dell'architettura, però a livello diciamo mondiale,
+
+368
+00:25:40,560 --> 00:25:43,760
+perché il setup è conosciuto a livello internazionale.
+
+369
+00:25:43,760 --> 00:25:48,320
+E appunto mi ricollego alla questione del setup hardware per parlare del
+
+370
+00:25:48,320 --> 00:25:50,560
+tuo setup hardware, Nicola.
+
+371
+00:25:50,560 --> 00:25:52,720
+Cosa hai sotto mano adesso?
+
+372
+00:25:52,720 --> 00:25:57,600
+In questo momento ho un MacBook Pro 16 pollici fornito da lavoro
+
+373
+00:25:57,920 --> 00:26:01,200
+a casa colleziono Mac abbandonati.
+
+374
+00:26:01,440 --> 00:26:07,920
+Però, diciamo, ho un MacBook scusatemi, un MacBook Pro del 2013, 15
+
+375
+00:26:07,920 --> 00:26:12,960
+pollici, uno del 2010 correntemente usato da mia moglie, la tua collega
+
+376
+00:26:13,120 --> 00:26:15,440
+qui sta strezzando il collo.
+
+377
+00:26:15,440 --> 00:26:17,720
+Un Mac Mini un paio di pad.
+
+378
+00:26:17,840 --> 00:26:23,760
+iPhone iPod iFi o un pod per la gioia di Filippo che
+
+379
+00:26:23,760 --> 00:26:27,680
+ho sfortato per qualche mese e niente, diciamo, più o meno ho
+
+380
+00:26:27,680 --> 00:26:28,360
+un po'.
+
+381
+00:26:28,360 --> 00:26:32,760
+Tut quello che Apple ha prodotto negli anni.
+
+382
+00:26:32,920 --> 00:26:36,840
+Adesso Filippo ci sta facendo vedere il suo home pod volante, lo
+
+383
+00:26:36,840 --> 00:26:40,680
+chiamiamo così perché è dotato di batteria per girare per casa senza
+
+384
+00:26:40,680 --> 00:26:41,320
+spina.
+
+385
+00:26:41,320 --> 00:26:44,680
+E quindi è un accessorio che praticamente penso che si porti anche
+
+386
+00:26:44,680 --> 00:26:47,480
+in bagno, direi ad occhio e croce.
+
+387
+00:26:47,480 --> 00:26:51,720
+Ovviamente scusami, non ascolti la musica, i podcast mentre fai la danza.
+
+388
+00:26:53,000 --> 00:26:57,880
+Invece volevo chiedere a Nick di M1 c'è qualcosa a casa tua?
+
+389
+00:26:57,880 --> 00:27:03,160
+Non ancora, non ancora, perché una delle caratteristiche del mio lavoro è
+
+390
+00:27:03,160 --> 00:27:05,560
+dare supporto un po' a tutti.
+
+391
+00:27:05,560 --> 00:27:09,400
+E in questo momento lM1 per me e per la mia famiglia
+
+392
+00:27:09,560 --> 00:27:11,000
+è un po' di frontiera.
+
+393
+00:27:11,000 --> 00:27:15,000
+Non tanto per me personalmente, perché tutto quello che uso è abbastanza
+
+394
+00:27:15,000 --> 00:27:20,040
+neutro e pronto al salto tecnologico, però, per esempio, ci sono dei
+
+395
+00:27:20,040 --> 00:27:24,920
+software che utilizza mia moglie o che possono essere utilizzati da degli
+
+396
+00:27:24,920 --> 00:27:30,360
+amici che richiedono il possesso di un Intel per poter virtualizzare sistemi
+
+397
+00:27:30,360 --> 00:27:32,200
+Linux o sistemi Windows.
+
+398
+00:27:32,200 --> 00:27:36,200
+E quindi se devo fare delle prove ho bisogno di una piattaforma
+
+399
+00:27:36,200 --> 00:27:37,240
+trasversale.
+
+400
+00:27:37,480 --> 00:27:41,560
+Diciamo che il Mac con Intel mi ha permesso appunto dal 2006
+
+401
+00:27:41,720 --> 00:27:46,120
+fino ad oggi, perché poi il MacBook 16 con Intel l'ho scelto
+
+402
+00:27:46,120 --> 00:27:51,880
+quando c'era già l'1 in commercio, l'ho scelto coscientemente proprio per continuare
+
+403
+00:27:52,440 --> 00:27:54,600
+questo mio approccio lavorativo.
+
+404
+00:27:54,600 --> 00:28:01,320
+Non ti nascondo che l'I-Mac con M1 mi tenta tantissimo, mi piace
+
+405
+00:28:01,320 --> 00:28:02,360
+tantissimo.
+
+406
+00:28:02,360 --> 00:28:06,360
+Ho avuto modo di spacchettare e lavorare un paio di giorni con
+
+407
+00:28:06,360 --> 00:28:10,440
+quello di una collega, però al momento sarebbe un capriccio.
+
+408
+00:28:10,600 --> 00:28:15,920
+Una bellissima macchina, però non mi sarebbe proprio utile nel fare le
+
+409
+00:28:14,840 --> 00:28:17,840
+cose che faccio tutti i giorni.
+
+410
+00:28:18,000 --> 00:28:23,040
+Insomma, diciamo, sono qui ad aspettare The Next Big Think o i
+
+411
+00:28:23,040 --> 00:28:26,720
+famosi M2 o Mac Pro, che ne so, all'ufficio.
+
+412
+00:28:26,720 --> 00:28:27,840
+Avrò la rotazione.
+
+413
+00:28:27,840 --> 00:28:32,880
+Spero entro la fine dell'anno una nuova macchina spero che portare fuori
+
+414
+00:28:33,120 --> 00:28:38,800
+un desktop un po' più professionale dove per me, a differenza tua
+
+415
+00:28:38,800 --> 00:28:44,880
+e professionale, la capacità di gestire tanto io, tanto input output.
+
+416
+00:28:44,880 --> 00:28:51,520
+Non ho esigenze di calcolo, ma ho tante esigenze di trasferimento file,
+
+417
+00:28:51,680 --> 00:28:58,240
+capacità di sostenere a lungo flussi di dati costanti e stabili.
+
+418
+00:28:58,240 --> 00:29:02,080
+Sì, sì, la differenza è grossa, nel senso che io e il
+
+419
+00:29:02,080 --> 00:29:06,080
+mio amico Nick abbiamo proprio esigenze diverse, come anche tra l'altro Filippo.
+
+420
+00:29:06,080 --> 00:29:09,280
+Siamo in tre persone che hanno tre esigenze diverse, usano tutti quanti
+
+421
+00:29:09,280 --> 00:29:10,480
+i piattaforme Apple.
+
+422
+00:29:10,480 --> 00:29:16,000
+Ad esempio, per me saltare su un Apple Silicon, chiamiamolo così, sarebbe
+
+423
+00:29:16,080 --> 00:29:20,080
+soltanto una manna dal cielo, perché obiettivamente in questo momento il mio
+
+424
+00:29:20,080 --> 00:29:25,440
+MacBoo Pro 13 Pollice del 2019, versione base, tiene testa, nel senso
+
+425
+00:29:25,440 --> 00:29:27,760
+che per quello che faccio io va benissimo.
+
+426
+00:29:27,760 --> 00:29:31,520
+Chiaro è che con un M1 che praticamente si avvicina anche sulla
+
+427
+00:29:31,600 --> 00:29:35,200
+versione base al MacBoo Pro 16 Pollice a livello di prestazioni già
+
+428
+00:29:35,280 --> 00:29:36,960
+mi aiuterebbe tantissimo.
+
+429
+00:29:36,960 --> 00:29:41,840
+Chiaramente prendere un M1 Max, un M1 Pro dovrei cambiare quasi addirittura
+
+430
+00:29:41,840 --> 00:29:46,560
+il lavoro, nel senso che dovrei prendere una fetta molto specifica del
+
+431
+00:29:46,560 --> 00:29:48,320
+mio lavoro e potenziarlo.
+
+432
+00:29:48,320 --> 00:29:52,160
+Per adesso questo non è nei miei programmi e quindi capisco bene
+
+433
+00:29:52,160 --> 00:29:56,480
+che in fase di transizione, chiamiamolo così, può essere ancora una scelta
+
+434
+00:29:56,800 --> 00:30:01,400
+interessante utilizzare tecnologia Intel, come tale fa anche tua moglie, Nick, perché
+
+435
+00:30:01,400 --> 00:30:06,440
+so che ci sono alcuni programmi dannati i programmi e soprattutto i
+
+436
+00:30:06,440 --> 00:30:10,920
+programmatori che sviluppano solo per Windows e che in questo periodo dove
+
+437
+00:30:10,920 --> 00:30:16,360
+praticamente sviluppare solo per Windows, penso che sia una scelta abbastanza beca
+
+438
+00:30:16,360 --> 00:30:19,000
+e cieca, io dico il mio punto di vista.
+
+439
+00:30:19,000 --> 00:30:23,960
+Più che altro perché ti chiudi semplicemente ci sono un milione di
+
+440
+00:30:23,960 --> 00:30:25,960
+dispositivi iPhone per dire.
+
+441
+00:30:25,960 --> 00:30:31,160
+Soprattutto penso che sviluppare per una piattaforma come potrebbe essere iOS, diventi
+
+442
+00:30:31,320 --> 00:30:36,040
+interessante soprattutto adesso che in questo momento di convergenza il porting, tra
+
+443
+00:30:36,040 --> 00:30:38,040
+virgolette, dovrebbe essere più semplice.
+
+444
+00:30:38,040 --> 00:30:42,120
+Quindi faccio un paio di nomi a caso, giusto per dire come
+
+445
+00:30:42,120 --> 00:30:45,160
+la penso, perché Nick lo sa benissimo come la penso su questo
+
+446
+00:30:45,160 --> 00:30:49,880
+aspetto, perché abbiamo avuto modo di parlare e riparlare sulla questione.
+
+447
+00:30:49,880 --> 00:30:54,200
+Penso che un software come Docfa, che penso sia ancora sviluppato con
+
+448
+00:30:54,200 --> 00:30:57,080
+le librerie di Windows 3.1.
+
+449
+00:30:57,080 --> 00:31:00,200
+E non sto scherzando perché se lo aprite ha la stessa interfaccia
+
+450
+00:31:00,200 --> 00:31:02,760
+di quello che abbiamo visto vent'anni fa.
+
+451
+00:31:02,760 --> 00:31:08,680
+Possa essere semplicemente aggiornato e portato su piattaforme mobili anche per l'aiuto
+
+452
+00:31:08,680 --> 00:31:09,560
+dei professionisti.
+
+453
+00:31:09,560 --> 00:31:13,720
+Perché immaginate come possa essere più semplice, ad esempio, mentre mi prendo
+
+454
+00:31:13,720 --> 00:31:16,600
+un caffè e farlo con l'iPad e una pencil.
+
+455
+00:31:16,600 --> 00:31:21,400
+Perché alla fine l'input è semplicissimo e sarebbe un aiuto per tutti
+
+456
+00:31:21,400 --> 00:31:21,720
+quanti.
+
+457
+00:31:21,720 --> 00:31:27,720
+Invece no, si lavora ancora con situazioni su Windows che potrebbero essere
+
+458
+00:31:27,720 --> 00:31:28,840
+tranquillamente aggiornate.
+
+459
+00:31:28,840 --> 00:31:33,000
+Io purtroppo metto anche dalla parte di chi sviluppa, che in effetti
+
+460
+00:31:33,000 --> 00:31:38,600
+potrebbe essere poco remunerativo, ma continua a dire soprattutto in questo momento
+
+461
+00:31:38,680 --> 00:31:45,600
+specifico, cioè diciamo dal 2020 in avanti, riuscire a rimanere inchiodati a
+
+462
+00:31:45,600 --> 00:31:49,600
+una piattaforma tendenzialmente può essere addirittura controproduttivo.
+
+463
+00:31:44,920 --> 00:31:51,680
+Ma questa è una mia opinione personale.
+
+464
+00:31:51,920 --> 00:31:56,000
+Lascio la palla quindi a Filippo se vuole fare qualche domanda al
+
+465
+00:31:56,000 --> 00:31:59,440
+nostro amico comune Nick'unica precisazione.
+
+466
+00:31:59,440 --> 00:32:03,920
+Tu non consideri mai che la pubblica amministrazione non funziona come un'azienda.
+
+467
+00:32:03,920 --> 00:32:06,800
+Quello è anche vero, ma si dovrebbero dare anche loro una bella
+
+468
+00:32:06,800 --> 00:32:13,040
+svegliata, perché, ad esempio, licenze diciamo a pioggia anche se sono pagate
+
+469
+00:32:13,040 --> 00:32:17,680
+pochissimo, perché ne prendono una quantità infinita, di ad esempio World.
+
+470
+00:32:17,680 --> 00:32:22,160
+Faccio l'esempio più specifico che per impaginare
+
+471
+00:32:23,440 --> 00:32:27,920
+dei fogli molto semplici perché non è che se fanno voli pindarici.
+
+472
+00:32:27,920 --> 00:32:32,800
+Basterebbe anche semplicemente prendere qualche alternativa open source che ad esempio è
+
+473
+00:32:32,800 --> 00:32:33,920
+multipiattaforma.
+
+474
+00:32:33,920 --> 00:32:38,080
+Allora a quel punto ti permetterebbe di aprire la testa non solo
+
+475
+00:32:39,200 --> 00:32:39,520
+a
+
+476
+00:32:41,040 --> 00:32:46,880
+dipendenti, ma aprirebbe probabilmente la testa anche ai dirigenti, rendendo anche probabilmente
+
+477
+00:32:46,880 --> 00:32:51,040
+molto più funzionale e remunerativo lavorare nella pubblica amministrazione.
+
+478
+00:32:51,040 --> 00:32:55,840
+Ma ovviamente io la vedo sempre dall'esterno e la vedo in questo
+
+479
+00:32:55,840 --> 00:32:56,080
+modo.
+
+480
+00:32:56,080 --> 00:33:00,320
+Mi dando conto che lì praticamente ci stiamo immergendo in una salsa,
+
+481
+00:33:00,320 --> 00:33:03,520
+anzi, in un pezzo di ghiaccio, un blocco di marmo che è
+
+482
+00:33:03,520 --> 00:33:05,120
+difficile da riuscire a scalfire.
+
+483
+00:33:05,280 --> 00:33:09,760
+Racconto questo aneddoto perché secondo me è esemplificativa: a me ha aperto
+
+484
+00:33:09,760 --> 00:33:10,400
+gli occhi.
+
+485
+00:33:10,400 --> 00:33:14,480
+Mia sorella è medico legale, lavora all'as di Reggio Emilia.
+
+486
+00:33:14,480 --> 00:33:21,600
+Quindi l'AS dell'Emilia Romagno, che, tra virgolette, è una delle eccellenze, come
+
+487
+00:33:21,600 --> 00:33:24,480
+la chiamerebbe qualcuno italiana.
+
+488
+00:33:24,800 --> 00:33:29,280
+Lavora su un computer che ha Windows, ovviamente, non si ha mai,
+
+489
+00:33:29,280 --> 00:33:34,520
+che avrà 10-12 anni e lei è contenta e te lo vendo
+
+490
+00:33:34,520 --> 00:33:37,560
+come è stata detta, lei è contenta?
+
+491
+00:33:37,560 --> 00:33:41,800
+Perché rispetto a quel programma strano che è Open Office.
+
+492
+00:33:41,800 --> 00:33:45,320
+Che attenzione, loro usano in alcuni computer usano ancora Open Office.
+
+493
+00:33:45,320 --> 00:33:46,840
+Lei ha Wor 2000.
+
+494
+00:33:46,840 --> 00:33:49,320
+I adesso mi alzo e me ne vado.
+
+495
+00:33:49,720 --> 00:33:53,960
+Lei si considera una persona fortunata perché ha un computer che può
+
+496
+00:33:53,960 --> 00:33:55,960
+fare certe cose, ok?
+
+497
+00:33:56,200 --> 00:33:56,840
+E quindi
+
+498
+00:33:58,040 --> 00:34:03,800
+adesso caso mai la situazione è quella, però, diciamo che secondo me
+
+499
+00:34:04,120 --> 00:34:07,320
+non tutte le pubbliche amministrazioni non hanno le sensibilità, non hanno le
+
+500
+00:34:07,320 --> 00:34:08,200
+conoscenze.
+
+501
+00:34:08,200 --> 00:34:11,560
+Insomma, c'è tutta una serie di cose che se tu sei abituato
+
+502
+00:34:11,560 --> 00:34:16,520
+da 15 anni e 20 anni a usare determinati software, a prescindere
+
+503
+00:34:16,520 --> 00:34:18,120
+che sono buoni o meno.
+
+504
+00:34:18,120 --> 00:34:21,560
+Se te li cambiano per te vuol dire rimparare tutto da capo
+
+505
+00:34:21,800 --> 00:34:26,680
+e quindi c'è anche veramente una grossa difficoltà a fare il passaggio
+
+506
+00:34:26,680 --> 00:34:27,240
+tecnologico.
+
+507
+00:34:27,240 --> 00:34:28,280
+Eccolo, mettiamola così.
+
+508
+00:34:28,280 --> 00:34:33,000
+E mia sorella, per chiudo una parentesi, siccome mia sorella è stata
+
+509
+00:34:33,000 --> 00:34:36,920
+condizionata a comprare Mac da tempo.
+
+510
+00:34:36,920 --> 00:34:40,760
+Quindi, comunque lei a casa ha un vecchio Mac, però alla fine
+
+511
+00:34:40,760 --> 00:34:42,440
+poi il lavoro lavoro.
+
+512
+00:34:43,000 --> 00:34:45,320
+Ecco sotto questo punto di vista, credo
+
+513
+00:34:46,680 --> 00:34:49,560
+, chiudo subito la parentesi, dico soltanto il mio ultimo pensiero.
+
+514
+00:34:49,640 --> 00:34:54,440
+Io penso che rimanere fossilizzato su una tecnologia penso che sia la
+
+515
+00:34:54,440 --> 00:34:56,440
+morte della produttività.
+
+516
+00:34:56,440 --> 00:35:02,360
+Questo sono il continuo sviluppo della tecnologia, soprattutto saperla usare, mantenersi aggiornato,
+
+517
+00:35:02,360 --> 00:35:04,840
+può dare quella marcia in più a tutti i professionisti.
+
+518
+00:35:04,840 --> 00:35:08,600
+Poi vabbè, parliamo dal pubblica amministrazione e quindi direi che il discorso
+
+519
+00:35:08,600 --> 00:35:09,640
+si conclude qua.
+
+520
+00:35:09,640 --> 00:35:13,080
+Allora, tornando invece al nostro amico Nick che è stato in silenzio,
+
+521
+00:35:13,080 --> 00:35:16,400
+ma so che la pensa come me, anzi, come noi,
+
+522
+00:35:18,160 --> 00:35:22,080
+anzi, Nicola alla fine lavora per la pubblica amministrazione, lui è un
+
+523
+00:35:22,080 --> 00:35:24,800
+illuminato dare qualche è un illuminato.
+
+524
+00:35:25,040 --> 00:35:30,480
+Se volete, dico due cose a proposito, se vi va.
+
+525
+00:35:30,480 --> 00:35:36,960
+Il problema nostro strutturale, allora faccio un passo indietro come informatico, una
+
+526
+00:35:36,960 --> 00:35:42,560
+delle cose che più spesso mi capita di farmi mi è capitato,
+
+527
+00:35:42,560 --> 00:35:47,920
+mi capita, è di immergermi nel problema che ha un'altra persona che
+
+528
+00:35:47,920 --> 00:35:54,640
+ha ovviamente un compito da fare, non deve imparare il computer, ma
+
+529
+00:35:54,640 --> 00:35:55,920
+deve fare una cosa.
+
+530
+00:35:55,920 --> 00:35:58,000
+E il computer si mette di mezzo.
+
+531
+00:35:58,320 --> 00:36:02,160
+Questo è un aspetto su cui si sorvola.
+
+532
+00:36:02,400 --> 00:36:05,760
+Io vado dal medico perché mi fa male il ginocchio.
+
+533
+00:36:05,760 --> 00:36:08,960
+Lui mi deve dare la medicina, non me ne frega niente di
+
+534
+00:36:08,960 --> 00:36:10,800
+sapere che cosa sta la medicina.
+
+535
+00:36:10,800 --> 00:36:13,920
+Basta che il ginocchio torni a funzionare.
+
+536
+00:36:13,920 --> 00:36:18,800
+Stessa cosa è l'approccio degli utenti verso il computer.
+
+537
+00:36:18,800 --> 00:36:22,880
+Quindi, la sorella di Filippo è un medico legale, un medico, quello
+
+538
+00:36:22,880 --> 00:36:24,320
+è il suo mestiere.
+
+539
+00:36:24,320 --> 00:36:30,880
+Non è comporre un documento allo stato dell'arte, ma è scrivere cose
+
+540
+00:36:30,880 --> 00:36:34,160
+sensate, dare diagnosi, dare pareri.
+
+541
+00:36:34,160 --> 00:36:38,000
+Questo dal punto di vista di chi lavora a più basso livello.
+
+542
+00:36:38,000 --> 00:36:45,360
+Il peccato originale della pubblica amministrazione italiana, una complessità legale molto elevata
+
+543
+00:36:45,680 --> 00:36:52,080
+che praticamente impone, la scrittura di software che valgono solo in Italia,
+
+544
+00:36:52,080 --> 00:36:54,720
+solo per la durata di vita della legge.
+
+545
+00:36:54,720 --> 00:37:01,240
+Adesso noi al CNR abbiamo un software che si chiama EPA, serve
+
+546
+00:37:01,240 --> 00:37:04,920
+a gestire le presenze, le malattie, le ferie.
+
+547
+00:36:59,920 --> 00:37:07,160
+Do una bella notizia da entrambi.
+
+548
+00:37:07,480 --> 00:37:12,920
+La presidenza francese della Comunità Europea che è iniziata qualche giorno fa,
+
+549
+00:37:13,240 --> 00:37:19,480
+ha già dato un indirizzo per premiare alcuni progetti open source delle
+
+550
+00:37:19,480 --> 00:37:25,800
+pubbliche amministrazioni nei vari stati europei e questa nostra piattaforma sviluppata da
+
+551
+00:37:25,800 --> 00:37:31,080
+colleghi del CNR e altri credo del GAR, è tra i due
+
+552
+00:37:31,080 --> 00:37:38,120
+progetti che l'Italia porta sul tavolo e che ha molta molta probabilità
+
+553
+00:37:38,120 --> 00:37:43,480
+di essere sovvenzionata e finanziata, questo per dire che serve, dimmi Filippo.
+
+554
+00:37:43,720 --> 00:37:49,320
+CNR GAR cosa sono per chi non è tecnico, ha detto, allora,
+
+555
+00:37:49,480 --> 00:37:53,160
+CNR e il consiglio sono cose interessanti per quello che io voglio
+
+556
+00:37:53,160 --> 00:37:57,400
+che tu precisi, perché allora il CNR, che è l'ente per cui
+
+557
+00:37:57,400 --> 00:38:00,520
+lavoro, il Consiglio nazionale delle Ricerche ed è il più grande ente
+
+558
+00:38:00,520 --> 00:38:03,080
+di ricerca in Italia.
+
+559
+00:38:03,080 --> 00:38:09,080
+La sua caratteristica è di coprire praticamente tutto lo scibile della scienza
+
+560
+00:38:09,080 --> 00:38:10,520
+e della conoscenza.
+
+561
+00:38:10,520 --> 00:38:15,960
+Abbiamo istituti che si occupano di letteratura, istituti che si occupano di
+
+562
+00:38:15,960 --> 00:38:19,640
+genetica piuttosto che di ingegneria dei materiali.
+
+563
+00:38:19,640 --> 00:38:22,120
+Ci sono altri enti di ricerca in Italia che invece hanno una
+
+564
+00:38:22,120 --> 00:38:28,840
+mission specifica come l'NFN, che è praticamente l'Istituto Nazionale di Fisica, oppure
+
+565
+00:38:28,840 --> 00:38:33,800
+quello di vulcanologia, che hanno invece l'Istat, che le statistiche, che hanno
+
+566
+00:38:33,800 --> 00:38:35,960
+delle mission specifiche e univoche.
+
+567
+00:38:36,040 --> 00:38:40,600
+Il CNR invece copre un po' tutte queste branche del sapere.
+
+568
+00:38:40,600 --> 00:38:46,560
+Il GAR è invece un consorzio sia interuniversitario che di tutti gli
+
+569
+00:38:44,840 --> 00:38:51,520
+enti di ricerca che promuove l'infrastruttura tecnologica la base.
+
+570
+00:38:51,920 --> 00:38:57,760
+Quindi, banalmente la rete, il cablagio tra gli enti scientifici, ma gestisce
+
+571
+00:38:57,760 --> 00:39:04,080
+anche i domini.it alla fine sono una derivazione dei compiti che il
+
+572
+00:39:04,080 --> 00:39:05,680
+garà in Italia.
+
+573
+00:39:05,680 --> 00:39:11,920
+Quindi, questi due enti comunque sono in grado, anche altri, di sviluppare
+
+574
+00:39:11,920 --> 00:39:14,240
+del software, delle tecnologie.
+
+575
+00:39:14,240 --> 00:39:22,080
+Purtroppo il ricercatore, nel caso del CNR, fa il ricercatore, non fa
+
+576
+00:39:22,320 --> 00:39:24,800
+lo sviluppatore e manutentore del software.
+
+577
+00:39:24,800 --> 00:39:27,840
+Quindi ce n'è anche uno adesso mi sfugge il nome che si
+
+578
+00:39:27,840 --> 00:39:33,360
+occupa di calcolo termotecnico nel campo di Roberto, serve per fare certificazioni
+
+579
+00:39:33,360 --> 00:39:36,320
+energetiche è gratuito e sviluppato.
+
+580
+00:39:36,320 --> 00:39:41,360
+Tuttavia, ovviamente noi non siamo una software house che rispondiamo a tutti
+
+581
+00:39:41,360 --> 00:39:42,560
+i problemi del cliente.
+
+582
+00:39:42,560 --> 00:39:46,320
+Alla fine, l'azienda commerciale, che invece ha il suo core business nello
+
+583
+00:39:46,320 --> 00:39:52,400
+sviluppo del software, ti proporrà un pacchettino e ovviamente lì deve massimizzare
+
+584
+00:39:52,400 --> 00:39:53,600
+il profitto.
+
+585
+00:39:53,600 --> 00:39:58,800
+Ad oggi massimizzare il profitto è stato mantenere il più a lungo
+
+586
+00:39:58,800 --> 00:40:01,600
+possibile quello che funzionava.
+
+587
+00:40:02,400 --> 00:40:05,600
+Siccome non ci sono i soldi e le risorse di Apple per
+
+588
+00:40:05,600 --> 00:40:13,280
+rivoluzionare il mondo, per scriversi il suo processore, comprarsi brevetto Arm sovvenzionandolo,
+
+589
+00:40:13,280 --> 00:40:19,120
+e scriversi di nascosto le specifiche e poi prodursi il proprio processore,
+
+590
+00:40:19,120 --> 00:40:24,720
+il resto del mondo è un po' vincolato a logiche diverse.
+
+591
+00:40:24,720 --> 00:40:32,600
+Sicuramente è in atto una rivoluzione, nel senso auspicato, da Roberto, non
+
+592
+00:40:29,840 --> 00:40:33,080
+va velo
+
+593
+00:40:33,240 --> 00:40:37,160
+ce come vorremmo noi smanettoni, però c'è
+
+594
+00:40:38,280 --> 00:40:45,640
+adesso, un po' il professionista, l'avvocato o l'architetto, si aspetta di poter
+
+595
+00:40:45,640 --> 00:40:49,000
+mandare una PEC e non andare più a fare la coda il
+
+596
+00:40:49,000 --> 00:40:55,000
+lunedì e il giovedì dalle 9 alle 10, c'è piano piano una
+
+597
+00:40:55,000 --> 00:40:58,280
+transizione verso un mondo più veloce.
+
+598
+00:40:58,280 --> 00:41:03,720
+Sicuramente dal punto di regista legislativo, snellire i processi.
+
+599
+00:41:03,960 --> 00:41:07,320
+Io la vedo adesso, la dico da ignorante Filippo.
+
+600
+00:41:07,320 --> 00:41:11,000
+Dovremmo snellire i processi e non andare a scrivere tutti i cavilli
+
+601
+00:41:11,560 --> 00:41:12,680
+di ogni caso.
+
+602
+00:41:12,680 --> 00:41:19,240
+Cioè, dovremmo avere una direzione seguirla, il caso specifico, se problematico, viene
+
+603
+00:41:19,240 --> 00:41:21,320
+discusso in sede giudiziaria.
+
+604
+00:41:21,480 --> 00:41:27,720
+Tuttavia, non possiamo normare il mondo perché il mondo è troppo ricco
+
+605
+00:41:27,720 --> 00:41:29,080
+di specificità.
+
+606
+00:41:29,080 --> 00:41:32,200
+L'Italia è il posto con le leggi più belle sulla faccia della
+
+607
+00:41:32,200 --> 00:41:36,040
+terra nell'80-90% dei casi disapplicate totalmente.
+
+608
+00:41:37,160 --> 00:41:37,800
+Lasciano anche
+
+609
+00:41:39,400 --> 00:41:41,160
+lasciano anche molti dubbi interpretativi.
+
+610
+00:41:41,160 --> 00:41:44,600
+Io non commento sulle leggi per quanto riguarda l'edilizia, che vai un
+
+611
+00:41:44,600 --> 00:41:45,640
+po' a stima.
+
+612
+00:41:45,880 --> 00:41:47,960
+I tecnici hanno anche la possibilità.
+
+613
+00:41:47,960 --> 00:41:53,960
+Parlo dei tecnici dei comuni, hanno anche possibilità di gestire le pratiche
+
+614
+00:41:53,960 --> 00:41:55,000
+un po' come vogliono.
+
+615
+00:41:55,000 --> 00:41:59,240
+La cosa divertente italiana, e poi qui mi taccio, è che la
+
+616
+00:41:59,240 --> 00:42:04,680
+legge viene fatta dal Parlamento, teoricamente, ma poi i vari enti, agenzie
+
+617
+00:42:04,680 --> 00:42:10,360
+delle entrate, IMS, INAL, la interpretano al loro modo con interpretazione veritiva,
+
+618
+00:42:12,040 --> 00:42:16,400
+autentica, e a quel punto lì è ovvio che nascono dei problemi,
+
+619
+00:42:14,920 --> 00:42:17,280
+mettiamola così.
+
+620
+00:42:17,440 --> 00:42:23,280
+Poi capisco anche che la legge va anche usata quotidianamente.
+
+621
+00:42:23,280 --> 00:42:27,600
+Quindi poi, alla fine il soggetto che la usa, quindi l'ente, per
+
+622
+00:42:27,600 --> 00:42:32,160
+esempio, providenziale, che deve dare le pensioni o accettare o non accettare
+
+623
+00:42:32,160 --> 00:42:36,720
+determinate cose, è ovvio che poi fa segno alla strada, mettiamola così,
+
+624
+00:42:36,720 --> 00:42:39,120
+nel bene e nel male, purtroppo.
+
+625
+00:42:39,120 --> 00:42:42,240
+E mi taccio a questo punto perché stiamo andando oltre.
+
+626
+00:42:42,400 --> 00:42:46,880
+Allora, torniamo a Bomba sulle questioni di Nicola, il suo workflow.
+
+627
+00:42:46,880 --> 00:42:50,240
+Abbiamo parlato un po' di hardware, di software, cosa utilizzi in generale?
+
+628
+00:42:50,240 --> 00:42:55,760
+Allora, come software c'è uno strumento base, anzi, due che sono le
+
+629
+00:42:56,000 --> 00:43:01,280
+pietre miliari, no, non le pietre, le pietre d'angolo della mia produttività.
+
+630
+00:43:01,280 --> 00:43:06,400
+Una è Simple Note, che è un'applicazione che permette di memorizzare in
+
+631
+00:43:06,400 --> 00:43:09,040
+formato testuale varie informazioni.
+
+632
+00:43:09,040 --> 00:43:11,840
+È multipiattaforma come piace a Roberto.
+
+633
+00:43:11,840 --> 00:43:15,680
+Si può usare sia web su Mac, su Windows, su Android.
+
+634
+00:43:16,000 --> 00:43:19,920
+La seconda pietra miliare è un password manager.
+
+635
+00:43:19,920 --> 00:43:24,800
+Al momento ne uso due per me e la mia famiglia utilizziamo
+
+636
+00:43:24,800 --> 00:43:30,000
+da diversi anni OnePassword che è un prodotto commerciale su cui ho
+
+637
+00:43:30,000 --> 00:43:31,840
+tantissima fiducia.
+
+638
+00:43:32,160 --> 00:43:33,120
+Al lavoro
+
+639
+00:43:34,240 --> 00:43:39,200
+stiamo usando Ki Pass X C nello specifico, chi pass è un
+
+640
+00:43:39,200 --> 00:43:45,520
+password manager open source, anche lui multipiattaforma, il client per Android o
+
+641
+00:43:45,840 --> 00:43:52,560
+per Mac, scusatemi, per iOS, il client per iOS sono sviluppati come
+
+642
+00:43:52,560 --> 00:43:57,600
+progetti a parte, quindi non c'è un download unico centralizzato.
+
+643
+00:43:57,920 --> 00:44:04,200
+Però, diciamo in questa maniera riesco a gestire circa mille password,
+
+644
+00:44:05,480 --> 00:44:09,880
+tra siti web, credenziali bancarie, servizi, sistemi.
+
+645
+00:44:10,200 --> 00:44:15,800
+Quindi con uno tengo traccia di alcuni aspetti chiave importanti.
+
+646
+00:44:15,800 --> 00:44:19,640
+Quindi, che ne so come è composta una certa rete, piuttosto che
+
+647
+00:44:19,880 --> 00:44:24,040
+da che cosa è composto gli strumenti di un ufficio o anche
+
+648
+00:44:24,040 --> 00:44:28,360
+banalmente dove sono conservate alcune cose a casa.
+
+649
+00:44:28,360 --> 00:44:35,320
+Nei password manager conservo credenziali e note che devo proteggere sui vari
+
+650
+00:44:35,320 --> 00:44:36,520
+sistemi.
+
+651
+00:44:36,520 --> 00:44:43,320
+A seguire utilizzo alcuni sistemi cloud di sincronizzazione dei dati.
+
+652
+00:44:43,560 --> 00:44:47,720
+Da questo punto di vista sono, tra virgolette, ecumenico.
+
+653
+00:44:47,720 --> 00:44:53,480
+Utilizzo quasi tutti, tranne Google, su cui non ho grande simpatia.
+
+654
+00:44:53,480 --> 00:44:58,040
+Però, per esempio, Dropbox che Roberto non tanto ama, ero quasi disposto
+
+655
+00:44:58,040 --> 00:44:59,080
+a pagarlo
+
+656
+00:45:00,120 --> 00:45:05,960
+perché comunque trovo che sia tecnicamente quello che mi permette l'esperienza utente
+
+657
+00:45:05,960 --> 00:45:11,400
+migliore, sicuramente quello più veloce, nel mio caso d'uso, nel sincronizzare e
+
+658
+00:45:11,400 --> 00:45:15,640
+nel condividere delle cose con mia moglie o con dei colleghi.
+
+659
+00:45:15,640 --> 00:45:18,760
+Abbiamo a lavoro un Next Cloud che so Filippo
+
+660
+00:45:20,520 --> 00:45:21,160
+ama.
+
+661
+00:45:21,400 --> 00:45:23,880
+Però, per esempio, ha dei problemi.
+
+662
+00:45:23,880 --> 00:45:31,160
+Perché poi su Next Cloud il progetto si sta appoggiando tanta roba
+
+663
+00:45:31,320 --> 00:45:35,240
+tipo sistemi di gestione documentale o altro.
+
+664
+00:45:35,240 --> 00:45:42,040
+E quindi in campo enterprise, quando hai 700-800 utenti, fare un salto
+
+665
+00:45:42,040 --> 00:45:46,480
+di versione, fare un salto di PHP aggiornare un database che ha
+
+666
+00:45:44,920 --> 00:45:51,520
+sotto pochetera di documenti non tuoi.
+
+667
+00:45:51,840 --> 00:45:55,200
+Produce sempre vari brividi sulla schiena.
+
+668
+00:45:56,160 --> 00:45:58,720
+Confermo anche da solo.
+
+669
+00:46:00,320 --> 00:46:03,680
+Abbiamo fatto una serata chattando con io che tiravano
+
+670
+00:46:04,800 --> 00:46:08,160
+vari nomi perché mi si era bloccato tutto il server.
+
+671
+00:46:08,160 --> 00:46:11,200
+E sono riuscito anche a metterlo a posto che questa è stata
+
+672
+00:46:11,200 --> 00:46:12,320
+la soddisfazione maggiore.
+
+673
+00:46:14,880 --> 00:46:17,920
+Quindi, questi sono gli strumenti principali.
+
+674
+00:46:17,920 --> 00:46:21,440
+A Corredo poi c'è il terminale di Mac.
+
+675
+00:46:21,440 --> 00:46:24,960
+Per un periodo ho anche provato AI Term, che è un altro
+
+676
+00:46:24,960 --> 00:46:28,560
+terminale, c'è un programma che mi permette di collegarmi ai server.
+
+677
+00:46:28,560 --> 00:46:30,880
+Però, diciamo, non sono
+
+678
+00:46:32,080 --> 00:46:39,520
+abbastanza dentro la programmazione online o di strumenti, per cui mi serve
+
+679
+00:46:39,520 --> 00:46:40,800
+uno strumento come Itermi.
+
+680
+00:46:40,800 --> 00:46:43,920
+Il terminale standard di Apple mi va benissimo.
+
+681
+00:46:44,560 --> 00:46:50,480
+Uso come browser di lezione Firefox praticamente da sempre, proprio l'altro giorno
+
+682
+00:46:50,720 --> 00:46:55,280
+revisionando il mio blog, ho trovato un post che parlava di Firefox
+
+683
+00:46:55,280 --> 00:47:02,160
+2 ieri è stato rilasciato il 96, quindi potete capire come sono
+
+684
+00:47:02,160 --> 00:47:02,960
+un po' vecchio.
+
+685
+00:47:02,960 --> 00:47:06,960
+È vero che Firefox ormai butta fuori una release nuova come se
+
+686
+00:47:06,960 --> 00:47:08,560
+non ci fosse un domani.
+
+687
+00:47:09,360 --> 00:47:14,320
+È una malattia, una malattia comune a tutti quanti.
+
+688
+00:47:14,800 --> 00:47:20,080
+Poi utilizzo Edge per avere un browser basato su Chrome su Chromium
+
+689
+00:47:20,080 --> 00:47:23,200
+e fare appunto delle prove con i miei colleghi.
+
+690
+00:47:23,200 --> 00:47:27,360
+Ma ne utilizzo anche sul mio comic ci sono installati quasi tutti
+
+691
+00:47:27,360 --> 00:47:32,360
+i browser esistenti proprio per fare prove verifiche nel caso un collega
+
+692
+00:47:29,920 --> 00:47:33,720
+mi dica di serve questo.
+
+693
+00:47:35,400 --> 00:47:41,880
+Poi banalmente ed editor testuali tipo TextMate, o BB Edit che usano
+
+694
+00:47:41,880 --> 00:47:47,880
+la variante gratuita, ma anche editor Makdown come Iawriter o by Word
+
+695
+00:47:48,040 --> 00:47:50,680
+o Makdown, appunto, forse l'ho citato.
+
+696
+00:47:50,680 --> 00:47:57,240
+Insomma, ho una serie di utility negli anni, diciamo, nell'ambiente mi capita
+
+697
+00:47:57,240 --> 00:48:01,960
+di aver individuato dei software chiave per cui nel momento in cui
+
+698
+00:48:01,960 --> 00:48:09,800
+escono delle promozioni, tipo ieri segnalavo gli amici di Snap, il podcast
+
+699
+00:48:09,800 --> 00:48:14,520
+di Roberto nel gruppo di avvocati a Mac di Filippo, segnalavo Luminar
+
+700
+00:48:14,760 --> 00:48:19,560
+che è un software professionale per la gestione fotografica, che era in
+
+701
+00:48:19,560 --> 00:48:22,440
+regalo di cui la versione precedente ero in regalo.
+
+702
+00:48:22,440 --> 00:48:27,880
+Non facendo il fotografo non mi serve l'ultimissima versione, la penultima va
+
+703
+00:48:27,880 --> 00:48:28,200
+bene.
+
+704
+00:48:28,200 --> 00:48:33,000
+Quindi ho collezionato negli anni una serie di strumenti a pagamento che
+
+705
+00:48:33,480 --> 00:48:35,320
+mi servono un po' a far tutto.
+
+706
+00:48:35,320 --> 00:48:40,520
+Dalla rinomina dei file tipo Better Finder Renewer, se ho dei grandi
+
+707
+00:48:40,520 --> 00:48:41,400
+sequenze di file.
+
+708
+00:48:41,400 --> 00:48:47,880
+Perché o come dicevo, per lavoro manipolo tantissimi file, spesso bisogno anonimizzarli
+
+709
+00:48:47,880 --> 00:48:53,080
+o rinominarli o farci quelle cose e quindi utilizzo quest'app, oppure che
+
+710
+00:48:53,080 --> 00:48:58,360
+ne so, applicazioni come Gemini per trovare duplicati o applicazioni per fare
+
+711
+00:48:58,360 --> 00:49:00,040
+manutenzione sul sistema.
+
+712
+00:49:00,040 --> 00:49:03,800
+Questi diciamo sono i miei strumenti di lavoro principali.
+
+713
+00:49:03,800 --> 00:49:08,040
+Mi sto appassionando a tenere su un diario e quindi, oltre ai
+
+714
+00:49:08,040 --> 00:49:13,240
+vari blog che ho, sono anche un cliente affezionato di Day One
+
+715
+00:49:13,480 --> 00:49:20,480
+che è un'applicazione che permette di mantenere dei diari, per esempio, ho
+
+716
+00:49:20,640 --> 00:49:26,880
+un diario personale, ho un diario degli aspetti WordPress, un diario dei
+
+717
+00:49:26,880 --> 00:49:30,560
+siti che gestisco dove mi scrivo ho aggiornato questo, se ci sono
+
+718
+00:49:30,560 --> 00:49:37,040
+delle transizioni particolari, e poi ho un log testuale, markdown, delle attività
+
+719
+00:49:37,040 --> 00:49:38,880
+che faccio per lavoro.
+
+720
+00:49:38,880 --> 00:49:45,760
+Perché gestendo una decina di server ho trovato utile, trovo molto utile
+
+721
+00:49:46,240 --> 00:49:51,040
+salvarmi cosa ho fatto, se ho installato una libreria particolare o un
+
+722
+00:49:51,040 --> 00:49:55,440
+pacchetto particolare, e posso fare quello che viene detto un rollback, cioè
+
+723
+00:49:55,520 --> 00:50:00,800
+tornare indietro una situazione, oppure tenere traccia in caso di compromissione o
+
+724
+00:50:00,800 --> 00:50:08,160
+quant'altro, degli aspetti di personalizzazione di tuning fatti su una specifica macchina.
+
+725
+00:50:08,160 --> 00:50:11,680
+Il formato testuale, markdown perché?
+
+726
+00:50:11,920 --> 00:50:18,400
+Perché sicuramente lo posso leggere con qualunque cosa, posso accendere il mio
+
+727
+00:50:18,400 --> 00:50:22,640
+vecchio Hack e aprire un file di testo.
+
+728
+00:50:22,640 --> 00:50:27,040
+Posso aprire un Nokia N80 che già c'è nel cassetto e aprirmi
+
+729
+00:50:27,040 --> 00:50:28,000
+il file di testo.
+
+730
+00:50:28,000 --> 00:50:32,320
+Quindi sono molto legato a file testuali.
+
+731
+00:50:32,320 --> 00:50:36,560
+Programmi come Notion o Craft di cui si è parlato negli episodi
+
+732
+00:50:36,640 --> 00:50:39,760
+precedenti del podcast, mi affascinano.
+
+733
+00:50:39,760 --> 00:50:43,440
+Ma ho sempre paura di perdere l'accesso, cioè quello a cui devo
+
+734
+00:50:43,440 --> 00:50:47,280
+accedere sempre, ci devo poter accedere sempre letteralmente.
+
+735
+00:50:47,280 --> 00:50:53,360
+Non devo essere vincolato a nessuna piattaforma o strumento per leggerla.
+
+736
+00:50:53,320 --> 00:50:59,280
+Ripeto, ripeto l'unica eccezione, forse è OnePassword, però anche lì i concorrenti
+
+737
+00:50:59,280 --> 00:51:03,720
+si sono messi a studiare il formato del file per cui nel
+
+738
+00:51:03,720 --> 00:51:07,880
+momento in cui hai la tua master password che te la ricordi,
+
+739
+00:51:07,880 --> 00:51:10,520
+puoi sempre tirare fuori le informazioni.
+
+740
+00:51:11,080 --> 00:51:12,840
+C'è anche One Password adesso.
+
+741
+00:51:12,840 --> 00:51:17,240
+Tra l'altro, con la versione 8, la modalità, diciamo, di avere il
+
+742
+00:51:17,240 --> 00:51:21,000
+tuo database e non essere collegato ai loro server.
+
+743
+00:51:21,240 --> 00:51:27,640
+Infatti, io sto ragionando di cambiare parrocchia, chiamiamola così, però effettivamente ci
+
+744
+00:51:27,640 --> 00:51:31,240
+sono abituato, sono riuscito ad abituare la famiglia, che è l'altra cosa
+
+745
+00:51:32,040 --> 00:51:37,000
+complicata, per cui non so sinceramente se riuscirò a fare una transizione
+
+746
+00:51:37,000 --> 00:51:37,880
+tranquilla.
+
+747
+00:51:38,520 --> 00:51:43,080
+Senti, al momento io mi fido di loro e quindi sono passato
+
+748
+00:51:43,880 --> 00:51:49,480
+alla versione 7, sì, sì, sì, ma con i dati sincronizzati online
+
+749
+00:51:50,120 --> 00:51:56,120
+perché mi capita di utilizzare Linux o mi capita di utilizzare Windows,
+
+750
+00:51:56,120 --> 00:52:01,800
+potrei utilizzare Android se al lavoro mi passano un telefono Android e
+
+751
+00:52:01,800 --> 00:52:06,760
+quindi legarmi un backup su i cloud o diciamo sul mio Dropbox.
+
+752
+00:52:06,760 --> 00:52:09,800
+Non ero più a posto.
+
+753
+00:52:09,800 --> 00:52:15,160
+Ti segnalo Secrets per il mondo Apple che pare essere una bella
+
+754
+00:52:15,160 --> 00:52:18,280
+piattaforma di gestione della password sicura.
+
+755
+00:52:18,280 --> 00:52:23,000
+Però ti escludi client Windows e client Linux o Android.
+
+756
+00:52:23,160 --> 00:52:29,480
+Effettivamente, diciamo, la scelta ci sono altri servizi commerciali, però c'è sempre
+
+757
+00:52:29,480 --> 00:52:30,600
+riuscito un baco.
+
+758
+00:52:30,600 --> 00:52:33,080
+Un problema che mi ha fatto desistere.
+
+759
+00:52:33,080 --> 00:52:37,480
+Cioè che i pass è l'unico, tutto sommato, che mi permette di
+
+760
+00:52:37,480 --> 00:52:43,480
+allentare questa mia fiducia verso OnePassword, soprattutto perché poi puoi anche gestire
+
+761
+00:52:43,480 --> 00:52:45,600
+tu sul tuo Next cloud, sul tuo cloud
+
+762
+00:52:46,000 --> 00:52:51,040
+, dove conservare la casa forte delle password, credo che non hai molte
+
+763
+00:52:44,680 --> 00:52:51,760
+possibilità.
+
+764
+00:52:52,080 --> 00:52:56,160
+Ah, lo so, lo so, infatti, il problema è o self hosting
+
+765
+00:52:56,160 --> 00:53:01,040
+ed oggettivamente, sulla gestione delle password, non credo che sia, meglio, non
+
+766
+00:53:01,040 --> 00:53:05,120
+essendo io un tecnico, non è una cosa tranquillissima.
+
+767
+00:53:05,120 --> 00:53:07,760
+Se no, infatti, sì, l'idea di fond era di andare su chi
+
+768
+00:53:07,840 --> 00:53:09,760
+passa, anche io stavo ragionando.
+
+769
+00:53:10,160 --> 00:53:14,640
+Ho visto, tra l'altro, che ti permettono di importare tutti i dati
+
+770
+00:53:14,640 --> 00:53:15,440
+da one passso.
+
+771
+00:53:15,440 --> 00:53:16,480
+Effettivamente.
+
+772
+00:53:16,480 --> 00:53:21,520
+Adesso il passaggio, diciamo, da un concorrente all'altro può diventare.
+
+773
+00:53:21,840 --> 00:53:24,480
+Faccio ancora un paio di domande a Nicola.
+
+774
+00:53:24,480 --> 00:53:29,200
+Più che altro per questa gestione dei file di testo, che giustamente
+
+775
+00:53:29,200 --> 00:53:30,560
+è un'ottima osservazione.
+
+776
+00:53:30,560 --> 00:53:35,120
+Questa notion sotto questo punto di vista è carente perché è tutto
+
+777
+00:53:36,000 --> 00:53:38,480
+a casa di qualcun altro, essenzialmente.
+
+778
+00:53:38,640 --> 00:53:41,680
+Quindi, se questa casa di qualcun altro te la trovi chiusa, tutte
+
+779
+00:53:41,680 --> 00:53:45,920
+le tue nozioni rimangono chiuse all'interno della casa di qualcun altro.
+
+780
+00:53:45,920 --> 00:53:51,120
+Ma volevo chiedere appunto questa dicotomia tra hire writer che utilizzi e
+
+781
+00:53:51,120 --> 00:53:56,800
+dei One, nel senso, quasi quasi potresti addirittura tutto gestire all'interno di
+
+782
+00:53:56,800 --> 00:54:01,760
+dei One, perché se non ricordo male, fa anche editor Markdown, e
+
+783
+00:54:02,240 --> 00:54:05,600
+forse potrebbe esserci anche la possibilità di collegarsi a qualche sito, ma
+
+784
+00:54:05,600 --> 00:54:06,640
+vado un po' a memoria.
+
+785
+00:54:06,640 --> 00:54:08,080
+Potrei anche sbagliarmi.
+
+786
+00:54:08,080 --> 00:54:09,680
+Questa è la prima domanda.
+
+787
+00:54:09,680 --> 00:54:13,840
+E la seconda che aggiungo subito è quella se utilizzi nel tuo
+
+788
+00:54:13,840 --> 00:54:15,760
+lavoro anche macchine virtuali.
+
+789
+00:54:15,760 --> 00:54:17,680
+Sì, allora utilizzo l'inconveniente.
+
+790
+00:54:17,680 --> 00:54:22,320
+Hai writer come altri editor Markdown, li utilizzo un po' per vedere
+
+791
+00:54:22,320 --> 00:54:27,680
+come è lo stato della piattaforma, degli editor Markdown, insomma, è tipo
+
+792
+00:54:27,680 --> 00:54:29,080
+una piccola perversione.
+
+793
+00:54:28,880 --> 00:54:31,720
+Quindi, se esce un editor, lo devo provare.
+
+794
+00:54:31,960 --> 00:54:35,800
+La differenza con dei One è che dei One mi permette di
+
+795
+00:54:35,800 --> 00:54:37,960
+conservarmi anche delle fotografie.
+
+796
+00:54:37,960 --> 00:54:43,720
+Porta anche la geolocalizzazione dalla foto, estrae i dati metadati della foto
+
+797
+00:54:43,880 --> 00:54:44,680
+e mi salva.
+
+798
+00:54:44,680 --> 00:54:47,400
+Quindi, quella fotografia mi dice che giorno e che ora e dove
+
+799
+00:54:47,560 --> 00:54:49,240
+l'ho salvata.
+
+800
+00:54:49,560 --> 00:54:55,800
+Vendo, salendo di piano, potrei anche avere la funzionalità di memorizzazione di
+
+801
+00:54:55,800 --> 00:54:56,200
+video.
+
+802
+00:54:56,200 --> 00:55:00,520
+Quindi, avendo un bambino piccolo, uno vuole mantenersi un ricordo in questo
+
+803
+00:55:00,520 --> 00:55:05,160
+diario multimediale, dei One mi permette di farlo.
+
+804
+00:55:05,160 --> 00:55:09,240
+Quindi, questa è la differenza essenziale fra dei One e gli high
+
+805
+00:55:09,240 --> 00:55:13,640
+writer, c'è anche poi tutto il sistema di backup cloud di Day
+
+806
+00:55:13,640 --> 00:55:14,920
+One che
+
+807
+00:55:16,200 --> 00:55:21,640
+writer di fatto che uso anch'io ogni tanto, hai comunque i dati
+
+808
+00:55:21,640 --> 00:55:24,760
+o nel tuo cloud o sul tuo dispositivo.
+
+809
+00:55:25,080 --> 00:55:26,680
+È proprio un editor di testo.
+
+810
+00:55:27,400 --> 00:55:34,760
+Come diciamo strumento di scrittura di blog, utilizzo di più by Word,
+
+811
+00:55:34,760 --> 00:55:38,440
+che una piccola software portoghese.
+
+812
+00:55:38,440 --> 00:55:41,320
+Lo sviluppo di quell'app un po' mi sembra fermo.
+
+813
+00:55:41,560 --> 00:55:45,800
+Non ho capito come campano, visto che anche gli aggiornamenti non sono
+
+814
+00:55:45,800 --> 00:55:50,280
+più tantissimi, probabilmente faranno consulenze su altro.
+
+815
+00:55:50,280 --> 00:55:58,680
+Per la virtualizzazione, come accennavo prima, utilizzo VirtualBox essenzialmente, perché comunque spesso
+
+816
+00:55:58,680 --> 00:56:02,920
+e volentieri virtualizzo macchine Linux.
+
+817
+00:56:03,240 --> 00:56:09,880
+Ho avuto occasione di avere una licenza gratuita per Fusion WMW Fusion,
+
+818
+00:56:09,880 --> 00:56:14,680
+appunto suondando il web e monitorando le varie promozioni.
+
+819
+00:56:15,120 --> 00:56:23,440
+Devo dire che per Windows 10 sto provando Fusion e il 12,
+
+820
+00:56:23,440 --> 00:56:28,720
+e devo dire che una maggior stabilità, una maggior coerenza rispetto a
+
+821
+00:56:28,720 --> 00:56:30,800
+VirtualBox me la offre.
+
+822
+00:56:31,120 --> 00:56:36,640
+In passato, ho provato ad utilizzare anche Parallels, però non ho colto
+
+823
+00:56:36,640 --> 00:56:38,320
+benefici particolari.
+
+824
+00:56:38,320 --> 00:56:43,280
+Quindi, terminato il periodo gratuito, sono tornato a Virtual Box.
+
+825
+00:56:43,280 --> 00:56:48,640
+Su Virtual Box voglio ricordare solo una cosa: il modulo delle estensioni
+
+826
+00:56:49,200 --> 00:56:54,960
+che permette l'utilizzo di USB 2 e altro, non ha la stessa
+
+827
+00:56:54,960 --> 00:57:00,000
+licenza di Virtual Box programma principale, quindi, diciamo, in teoria un giorno
+
+828
+00:57:00,000 --> 00:57:05,440
+Oracle, come ha fatto in passato per altri software, potrebbe venirti a
+
+829
+00:57:06,160 --> 00:57:12,320
+bussare a casa e dire, amico, stai usando qualcosa fuori dalla licenza,
+
+830
+00:57:12,320 --> 00:57:15,440
+sia pur gratis, non va bene.
+
+831
+00:57:16,240 --> 00:57:18,480
+Con Oracle bisogna sempre stare attenti.
+
+832
+00:57:18,480 --> 00:57:24,880
+Quindi, se lo utilizzate in maniera professionale, avete uno studio, varie postazioni,
+
+833
+00:57:24,880 --> 00:57:28,400
+varie cose, io ci sarei attento a spenderei due soldi in più
+
+834
+00:57:28,400 --> 00:57:32,960
+per un software che almeno legalmente mi permette di ottenere il massimo
+
+835
+00:57:32,960 --> 00:57:36,560
+delle prestazioni di virtualizzazione dalla tua macchina.
+
+836
+00:57:36,560 --> 00:57:42,240
+Non mi piace degli virtualizzatori professionali, il fatto che ti permettono di
+
+837
+00:57:42,240 --> 00:57:47,680
+utilizzare Word della macchina virtuale piuttosto che il Word del Mac, cioè
+
+838
+00:57:47,840 --> 00:57:53,280
+se devo avere un Word da una parte e basta.
+
+839
+00:57:53,520 --> 00:57:58,400
+Mentre capisco che possa essere recomodo cliccare sull'icona di Doc e far
+
+840
+00:57:58,400 --> 00:58:02,840
+partire la macchina virtuale a doc per se mi serve la mac
+
+841
+00:58:02,920 --> 00:58:08,440
+china virtuale questa è sempre in esecuzione quindi in background al massimo la
+
+842
+00:58:08,600 --> 00:58:12,440
+iberno e poi la riavvio con un click senza fare tutto il
+
+843
+00:58:12,440 --> 00:58:18,120
+boot di Windows e giocarmela con gli aggiornamenti a sorpresa che croce
+
+844
+00:58:18,120 --> 00:58:20,280
+delizia di chi utilizza Windows.
+
+845
+00:58:20,280 --> 00:58:24,840
+Aggiungo per quanto riguarda le macchine virtuali, che c'è una, diciamo un'altra
+
+846
+00:58:24,840 --> 00:58:29,560
+strada che è Wine che io utilizzo per il Dockfa per l'ambiente
+
+847
+00:58:29,560 --> 00:58:34,680
+Mac che almeno ti permette di risparmiare qualcosa come tipo 10 o
+
+848
+00:58:34,680 --> 00:58:35,720
+12 giga su.
+
+849
+00:58:35,720 --> 00:58:41,320
+Spiega cos'è velocemente Wine, perché l'abbiamo buttata lì ma ecco Wine che
+
+850
+00:58:41,320 --> 00:58:45,560
+prima o poi ne parleremo anche di questo, è essenzialmente una versione
+
+851
+00:58:45,560 --> 00:58:51,880
+iper ridotta di Windows che permette di far partire un programma Windows
+
+852
+00:58:51,880 --> 00:58:55,080
+senza bisogno di installare tutto il sistema operativo.
+
+853
+00:58:55,080 --> 00:58:59,320
+Proprio detto, è un software open source, diciamolo, che simula le librerie
+
+854
+00:58:59,320 --> 00:59:03,000
+di Windows, mettiamola così, perché è più specifico, non è Windows
+
+855
+00:59:04,120 --> 00:59:08,920
+e questo è il termine tecnico, diciamo non è Windows, ma semplicemente
+
+856
+00:59:09,080 --> 00:59:15,720
+i programmi che utilizzano il sistema operativo Windows dialogano con questo wine,
+
+857
+00:59:16,200 --> 00:59:22,840
+su macchine Linux-like come anche macOS sostanzialmente, anzi, Unix like, perché dopo
+
+858
+00:59:22,920 --> 00:59:28,280
+quelli di Linux si arrabbiano, che noi siamo sotto il cofano, macOS
+
+859
+00:59:28,360 --> 00:59:31,640
+è un BSD, credo, o una roba del genere.
+
+860
+00:59:31,880 --> 00:59:36,920
+Però praticamente fa da collante, diciamo, e quindi vi permette di far
+
+861
+00:59:36,920 --> 00:59:43,240
+funzionare non tutte, ma alcune applicazioni Windows senza dover installare fisicamente Windows
+
+862
+00:59:43,240 --> 00:59:45,200
+su una macchina virtuale o così via.
+
+863
+00:59:45,200 --> 00:59:47,920
+Sì, sì, con i pro e i contro, perché per applicazioni semplici
+
+864
+00:59:44,920 --> 00:59:49,520
+come il Dogfa è perfetto.
+
+865
+00:59:49,840 --> 00:59:53,760
+Per altre applicazioni, ad esempio, ho fatto due esperimenti per quello del
+
+866
+00:59:53,760 --> 00:59:58,480
+computo metrico, invece lì ci sono delle difficoltà, in effetti, se il
+
+867
+00:59:58,480 --> 01:00:02,720
+programma è installato, però non funziona completamente, e in altri casi può
+
+868
+01:00:02,800 --> 01:00:06,560
+addirittura avere difficoltà anche nella semplice installazione.
+
+869
+01:00:06,560 --> 01:00:12,400
+Direi che abbiamo ovviamente sforato i nostri tempi, quindi se va bene
+
+870
+01:00:13,120 --> 01:00:16,400
+a meno che Nicola non ci voglia raccontare ancora qualcosa.
+
+871
+01:00:16,400 --> 01:00:20,960
+A prescindere che è stata una ti dobbiamo risentire a questo punto,
+
+872
+01:00:20,960 --> 01:00:24,960
+perché già solo la nostra breve chiacchierata di questa retta è stata
+
+873
+01:00:24,960 --> 01:00:26,080
+veramente interessante.
+
+874
+01:00:26,080 --> 01:00:31,040
+Questi momenti sono sempre piacevoli, proprio anche di condivisione di scoperta.
+
+875
+01:00:31,200 --> 01:00:34,160
+Apro chiudere una parentesi: anch'io sono appassionato di fumetti, ma non l'ho
+
+876
+01:00:34,160 --> 01:00:34,800
+mai detto.
+
+877
+01:00:34,800 --> 01:00:38,480
+Ma, e non conoscevo, per esempio, questa.
+
+878
+01:00:38,800 --> 01:00:42,240
+Abbiamo scoperto un'altra soprattutto, non conoscevo la tua passione.
+
+879
+01:00:42,880 --> 01:00:44,880
+Ha anche una bella mano, aggiungo.
+
+880
+01:00:44,880 --> 01:00:47,360
+Io ho visto anche i suoi disegni di Filippo, è una bella
+
+881
+01:00:47,360 --> 01:00:49,520
+mano, anche questo è un altro altarino.
+
+882
+01:00:49,520 --> 01:00:51,520
+È troppo versatile, questo Filippo.
+
+883
+01:00:51,520 --> 01:00:53,920
+Dobbiamo un po' di legare.
+
+884
+01:00:54,240 --> 01:00:57,520
+Fa tantissime, non è vero, non è vero.
+
+885
+01:00:57,520 --> 01:01:01,280
+Quindi direi che a questo punto ci salutiamo a breve, ma salutiamo
+
+886
+01:01:01,280 --> 01:01:02,640
+i nostri ascoltatori.
+
+887
+01:01:02,640 --> 01:01:03,200
+Nicola.
+
+888
+01:01:03,200 --> 01:01:06,080
+Che sei ovunque anche tu come Roberto in pratica.
+
+889
+01:01:06,080 --> 01:01:11,040
+Tutti, qual è il posto migliore per venirti a trovare per conoscere
+
+890
+01:01:11,040 --> 01:01:13,040
+quello che fai e così via?
+
+891
+01:01:13,040 --> 01:01:18,640
+Con Linus.net, che è il mio blog storico scritto koo Linus.net o
+
+892
+01:01:18,640 --> 01:01:20,560
+nicolosito.it.
+
+893
+01:01:20,560 --> 01:01:22,960
+Da lì ci sono un po' i link di tutti i miei
+
+894
+01:01:22,960 --> 01:01:23,840
+social.
+
+895
+01:01:23,840 --> 01:01:30,360
+Comunque, sono online dappertutto come con Linus che nasce poi dal punto
+
+896
+01:01:30,440 --> 01:01:31,480
+dei fumetti.
+
+897
+01:01:29,840 --> 01:01:32,840
+E niente, vi ringrazio.
+
+898
+01:01:33,240 --> 01:01:37,400
+Conto di risentirvi, perché mi sto rendendo conto che forse non abbiamo
+
+899
+01:01:37,560 --> 01:01:41,720
+parlato della mia passione di supporto per il piccolo professionista.
+
+900
+01:01:41,720 --> 01:01:43,160
+Esprimersi online e a dire
+
+901
+01:01:44,600 --> 01:01:46,200
+nel mondo del lavoro.
+
+902
+01:01:46,360 --> 01:01:50,840
+Allora direi che a questo punto sei già fregato, e quindi ti
+
+903
+01:01:50,840 --> 01:01:54,120
+toccherà tornare con noi ai microfoni.
+
+904
+01:01:54,120 --> 01:01:56,600
+Va bene, va bene, grazie, ancora.
+
+905
+01:01:56,600 --> 01:01:59,000
+Un piacere, è tutto nostro come sempre.
+
+906
+01:01:59,320 --> 01:02:04,440
+Io veramente ti ringrazio, Nicola, per esserti messo a nostra disposizione.
+
+907
+01:02:04,440 --> 01:02:06,760
+Non solo nostra, ma anche degli ascoltatori.
+
+908
+01:02:06,760 --> 01:02:10,680
+Ricordo quindi agli ascoltatori che potete trovare le note dell'episodio con i
+
+909
+01:02:10,680 --> 01:02:14,440
+link agli argomenti che abbiamo trattato in questa puntata e tutti i
+
+910
+01:02:14,440 --> 01:02:18,680
+nostri riferimenti su a2podcast.it/28.
+
+911
+01:02:18,920 --> 01:02:23,240
+Per quanto mi riguarda, potete trovarmi su Mac Architettura, il mio blog
+
+912
+01:02:23,480 --> 01:02:27,000
+di architettura applicata all'ambiente Macintosh.
+
+913
+01:02:27,000 --> 01:02:32,840
+Potete trovarla all'indirizzo marchonnet.wordpress.com e trovete anche qualche riferimento a Nicola lo
+
+914
+01:02:32,840 --> 01:02:36,280
+sito perché giustamente è bazzica anche un po' dalle mie parti.
+
+915
+01:02:36,280 --> 01:02:41,800
+Mi potete trovare sul podcast Snap Architettura Imperfetta, dove vi racconto cose
+
+916
+01:02:41,800 --> 01:02:48,120
+che riguardano l'informatica all'ambiente dell'architettura, che ricorda, non deve mai rimanere fermo
+
+917
+01:02:48,120 --> 01:02:52,680
+a se stessa sull'utilizzo della tecnologia, anzi, deve essere coevolutiva.
+
+918
+01:02:52,680 --> 01:02:56,920
+Poi mi trovate anche sul blog di Grafisoft Italia dove scrivo ogni
+
+919
+01:02:56,920 --> 01:03:00,600
+tanto, una volta al mese, un articolo dove appunto parla dell'utilizzo di
+
+920
+01:03:00,600 --> 01:03:03,080
+Archicad nel mondo dell'architettura.
+
+921
+01:03:03,080 --> 01:03:05,240
+Invece, il nostro amico Filippo, dove lo possiamo trovare?
+
+922
+01:03:05,400 --> 01:03:09,240
+Avocatemec.it e direi che anche per questa puntata è tutto.
+
+923
+01:03:09,240 --> 01:03:11,000
+Ci risentiamo tra due settimane.
+
+924
+01:03:11,000 --> 01:03:11,800
+Alla prossima!

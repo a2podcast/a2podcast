@@ -11,7 +11,7 @@ tags = ["email", "produttivita", "organizzazione"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "e2iAOeH8hXY"
 +++
 

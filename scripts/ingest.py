@@ -86,6 +86,17 @@ def clean_body(raw: str) -> str:
     while lines and not lines[0].strip():
         lines.pop(0)
 
+    # 2b. Declass any remaining body H1 (# ) to H2 (## ): the page already has a
+    #     single H1 (the episode title from the template). A second H1 in the body
+    #     hurts SEO. Skip lines inside fenced code blocks (```).
+    in_code = False
+    for idx, line in enumerate(lines):
+        if line.lstrip().startswith("```"):
+            in_code = not in_code
+            continue
+        if not in_code and re.match(r'^#\s', line):
+            lines[idx] = "#" + line  # "# x" -> "## x"
+
     # 3. Find and drop 'Dove ci potete trovare' section to end of file
     cutoff = None
     for i, line in enumerate(lines):

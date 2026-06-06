@@ -11,13 +11,13 @@ tags = ["macos", "apple", "gaming", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "yvxU0T24v74"
 +++
 
 > In questa puntata Roberto e Filippo parlano delle novità di macOS 14 Sonoma che è uscito il 26 settembre 2023.
 
-# Note dell’episodio
+## Note dell’episodio
 
 
 - Giochi su Mac [Come attivare la modalità gaming in macOS Sonoma](https://www.macitynet.it/come-attivare-la-modalita-gaming-in-macos-sonoma/)

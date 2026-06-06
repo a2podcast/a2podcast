@@ -11,14 +11,14 @@ tags = ["intelligenza-artificiale", "apple"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "KaLU8utCNns"
   guest = "alex-raccuglia"
 +++
 
 > In questa puntata Roberto e Filippo con l'ospite d'eccezione, Alex Raccuglia, – dopo aver parlato di IA con Lucio Bragagnolo – chiacchierano di Machine Learning in salsa Apple: delle sue possibilità attuali e delle speranze future dal punto di uno sviluppatore e dell'utente finale.
 
-# Note dell’episodio
+## Note dell’episodio
 
 ### [Puntata 57 con Lucio Bragagnolo](http://www.a2podcast.it/57)
 

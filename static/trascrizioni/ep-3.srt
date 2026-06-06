@@ -1,0 +1,4487 @@
+1
+00:00:00,320 --> 00:00:06,160
+Benvenuti tutti quanti all'episodio numero 3 di A2, in cui scoprirete come
+
+2
+00:00:06,160 --> 00:00:08,720
+ottenere il massimo della tua tecnologia Apple.
+
+3
+00:00:08,720 --> 00:00:11,840
+Io sono Roberto Marin e indovinate un po' qui chi c'è con
+
+4
+00:00:11,840 --> 00:00:16,240
+me c'è Filippo Strozzi di Avvocati e Mac e compagnia briscola.
+
+5
+00:00:17,200 --> 00:00:23,680
+E compagnia briscola mi sembra necessario da inserire oggi, perché ovviamente non
+
+6
+00:00:23,680 --> 00:00:27,520
+hai fatto tutta l'intro che dovevi fare come al tuo solito, bravissimo.
+
+7
+00:00:27,680 --> 00:00:33,200
+Oggi daremo lo sguardo finale, si spera, come funziona macOS e quindi
+
+8
+00:00:33,200 --> 00:00:38,400
+chiuderemo il trittico a questo punto di puntate dedicate a passare a
+
+9
+00:00:38,400 --> 00:00:40,560
+Mac nel 2021.
+
+10
+00:00:40,560 --> 00:00:43,920
+A proposito di 2021, vi racconto una bella cosa che mi è
+
+11
+00:00:43,920 --> 00:00:49,920
+successa proprio cos'era mercoledì, è successo mercoledì ho l'abitudine di fare backup
+
+12
+00:00:49,920 --> 00:00:53,360
+dei miei dati su cui ho smesso di lavorare i progetti, li
+
+13
+00:00:53,360 --> 00:00:58,720
+prendo li zippo e li butto anzi, li butto sulla chiavetta e
+
+14
+00:00:58,720 --> 00:01:00,320
+su un hard disk esterno.
+
+15
+00:01:00,320 --> 00:01:04,960
+Sono andato a recuperarmi il mio simpatico file zippato, l'ho messo sul
+
+16
+00:01:04,960 --> 00:01:09,440
+desktop, ho provato a disinzipparlo, come si dice in gergo tecnico professionale
+
+17
+00:01:09,680 --> 00:01:10,000
+e
+
+18
+00:01:12,320 --> 00:01:14,960
+professionale e mi ha restituito un bel errore.
+
+19
+00:01:14,960 --> 00:01:18,400
+Quindi il mio file zip ha fatto ciao ciao con la mano,
+
+20
+00:01:18,400 --> 00:01:21,600
+e io gli ho fatto invece con l'altra mano un gestaccio del
+
+21
+00:01:21,600 --> 00:01:22,400
+tipo.
+
+22
+00:01:22,640 --> 00:01:26,160
+Ok, Filippo sa perché mi ha visto, sa benissimo e sa anche
+
+23
+00:01:26,160 --> 00:01:27,600
+ridendo.
+
+24
+00:01:28,400 --> 00:01:33,520
+Comunque, per fortuna, che noi dispensiamo consigli, ma li mettiamo anche in
+
+25
+00:01:33,520 --> 00:01:34,000
+pratica.
+
+26
+00:01:34,000 --> 00:01:38,560
+Sono andato con il mio bel time machine a recuperarmi la cartella
+
+27
+00:01:38,560 --> 00:01:41,040
+e il panico è finito in pochi secondi.
+
+28
+00:01:41,040 --> 00:01:45,920
+Quindi mi raccomando, ragazzi miei, quando lavorate, fatevi più copie di backup
+
+29
+00:01:46,160 --> 00:01:47,680
+dove ogni pare
+
+30
+00:01:49,040 --> 00:01:49,520
+piace.
+
+31
+00:01:49,520 --> 00:01:54,240
+Insomma, ci dovrebbe essere la regola 321, ma ne parleremo nella puntata
+
+32
+00:01:54,240 --> 00:01:57,680
+apposta dove parleremo dei backup e compagnia briscola.
+
+33
+00:01:57,680 --> 00:02:00,840
+Che qua oggi la compagnia briscola giochiamo a carte oggi.
+
+34
+00:02:01,080 --> 00:02:01,800
+Dici Filippo?
+
+35
+00:02:02,120 --> 00:02:05,880
+Stai esagerando come il tuo solito, io lo dico spesso
+
+36
+00:02:06,920 --> 00:02:10,680
+è un messaggio subliminale per dirmi: ritorna sulla scaletta.
+
+37
+00:02:10,680 --> 00:02:14,920
+Va bene, è bravo, bravo!
+
+38
+00:02:14,920 --> 00:02:18,840
+Anche perché ti vorrei segnalare che la scaletta che doveva essere di
+
+39
+00:02:18,840 --> 00:02:23,160
+un episodio, siamo riusciti a espanderla a tre come minimo, perché io
+
+40
+00:02:23,160 --> 00:02:26,280
+non ci credo ancora che arriviamo a fine puntata, abbiamo chiuso tutto
+
+41
+00:02:26,280 --> 00:02:27,400
+quello che dovevamo dire.
+
+42
+00:02:27,400 --> 00:02:29,800
+Ce la facciamo, ce la facciamo.
+
+43
+00:02:29,960 --> 00:02:33,160
+La questione è che non sappiosa dire la prossima puntata, ma ci
+
+44
+00:02:33,160 --> 00:02:37,720
+meneremo qualcosa in ogni caso, non ti preoccupare, c'è già l'argomento della
+
+45
+00:02:37,720 --> 00:02:38,360
+prossima.
+
+46
+00:02:38,360 --> 00:02:40,520
+Lo so, lo so, è permettere un po' di che dovrei studiare,
+
+47
+00:02:41,480 --> 00:02:43,400
+dovrei già iniziare a studiare.
+
+48
+00:02:43,560 --> 00:02:47,160
+Vabbè, vabbè, dettagli, studierò come sempre.
+
+49
+00:02:47,480 --> 00:02:49,960
+Allora, di cosa vogliamo parlare?
+
+50
+00:02:49,960 --> 00:02:53,240
+Avete preso il vostro Mac, avete fatto tutti i vostri passaggi dei
+
+51
+00:02:53,240 --> 00:02:53,880
+dati.
+
+52
+00:02:53,880 --> 00:02:59,560
+Ma siete abituati a Windows e Windows funziona in modo leggermente diverso
+
+53
+00:02:59,560 --> 00:03:00,360
+dal Mac.
+
+54
+00:03:00,600 --> 00:03:02,840
+Niente di trascendentale, per carità.
+
+55
+00:03:02,840 --> 00:03:05,560
+Tuttavia, intanto è una di quelle cose che mi ha fatto passare
+
+56
+00:03:05,560 --> 00:03:08,840
+da Windows a Mac è proprio il funzionamento diverso.
+
+57
+00:03:08,840 --> 00:03:10,200
+Prima di tutto, di cosa parliamo?
+
+58
+00:03:10,200 --> 00:03:11,640
+Parliamo del click destro.
+
+59
+00:03:11,640 --> 00:03:15,000
+Partiamo così, aspetta, che guardo la scaletta perché ovviamente non ti sto
+
+60
+00:03:15,000 --> 00:03:15,960
+seguendo.
+
+61
+00:03:15,960 --> 00:03:17,000
+Sì, bravissimo.
+
+62
+00:03:17,000 --> 00:03:21,640
+Ma ovviamente, ma perché facciamo una scaletta quando possiamo andare a braccio?
+
+63
+00:03:21,640 --> 00:03:22,840
+Hai ragione tu.
+
+64
+00:03:23,080 --> 00:03:28,120
+Scusami, io così ormai sono uno showman, non sto più.
+
+65
+00:03:28,200 --> 00:03:31,800
+Le scalette sono cose che servono solo a salire i piani.
+
+66
+00:03:31,800 --> 00:03:38,040
+Allora, dunque, come funziona una volta nel lontano, 80, non mi ricordo
+
+67
+00:03:38,040 --> 00:03:38,560
+più.
+
+68
+00:03:38,560 --> 00:03:41,160
+Comunque, no, facciamo una cosa un po' più recente.
+
+69
+00:03:41,160 --> 00:03:49,360
+C'era un simpatico mouse che forniva Apple con l'IMAC quello colorato, ed
+
+70
+00:03:49,360 --> 00:03:54,320
+era un mouse tondo, monotasto ed era bellissimo perché era tondo, aveva
+
+71
+00:03:54,320 --> 00:03:58,080
+un tasto e una cosa di trascendentale perché all'epoca o avevi due
+
+72
+00:03:58,080 --> 00:04:00,880
+tasti, non facevi una beata ceppa di niente.
+
+73
+00:04:00,880 --> 00:04:04,480
+Anzi, adesso, addirittura ce ne vogliono quasi tre perché c'è la rotella
+
+74
+00:04:04,480 --> 00:04:06,160
+centrale che ti fa da tasto tasto.
+
+75
+00:04:06,480 --> 00:04:08,720
+Lo scrolling, ma adesso arriviamo anche allo scrolling.
+
+76
+00:04:08,720 --> 00:04:13,200
+Dicevamo una volta si usava se mi sbaglio, il tasto command con
+
+77
+00:04:13,360 --> 00:04:13,680
+il
+
+78
+00:04:14,880 --> 00:04:15,280
+funziona
+
+79
+00:04:16,320 --> 00:04:17,200
+, io non lo uso più.
+
+80
+00:04:17,200 --> 00:04:21,040
+Comunque, tuttora funziona che tu usi il tasto comm assieme al click
+
+81
+00:04:21,040 --> 00:04:27,200
+del monotasto, e funziona come tasto destro per i mouse che si
+
+82
+00:04:27,200 --> 00:04:32,400
+usano su Windows, ovvero che richiami un menu contestuale di quello che
+
+83
+00:04:32,400 --> 00:04:33,440
+stai facendo.
+
+84
+00:04:33,440 --> 00:04:38,480
+Per fortuna, poi è stato inserito anche su tutti i mouse, anche
+
+85
+00:04:38,480 --> 00:04:42,160
+quelli Apple che sono nati come il Magic Mouse e compagnia Briscola,
+
+86
+00:04:42,160 --> 00:04:45,920
+anche quelli di nuovo, compagnia Briscola oggi giochiamo a carte e compagnia
+
+87
+00:04:46,960 --> 00:04:48,160
+della serata.
+
+88
+00:04:48,720 --> 00:04:50,320
+Oggi parliamo di briscola.
+
+89
+00:04:50,320 --> 00:04:51,440
+Giochiamo a carte.
+
+90
+00:04:51,440 --> 00:04:59,040
+E comunque il tasto destro adesso funziona normalmente diciamo, ovvero diciamo normalmente
+
+91
+00:04:59,040 --> 00:05:01,520
+per chi arriva dal mondo Windows.
+
+92
+00:05:01,520 --> 00:05:05,760
+Io attualmente utilizzo il tasto destro come se fosse un tasto destro,
+
+93
+00:05:05,760 --> 00:05:11,600
+e infatti non uso la scocciatoia command tasto sinistro in questo caso.
+
+94
+00:05:11,840 --> 00:05:13,840
+Questa qui è una delle prime
+
+95
+00:05:15,440 --> 00:05:17,120
+cose che saltano all'occhio.
+
+96
+00:05:17,120 --> 00:05:21,680
+Non so, tu ti è capitato di aprire un Mac appena installato?
+
+97
+00:05:21,680 --> 00:05:25,600
+Immagino di sì, perché fai la formattazione da zero quando passa un
+
+98
+00:05:25,600 --> 00:05:26,640
+nuovo Mac.
+
+99
+00:05:26,640 --> 00:05:30,440
+Quindi immagino che la situazione qual è: quella che lo apri e
+
+100
+00:05:29,920 --> 00:05:32,520
+c'è il tasto monotasto.
+
+101
+00:05:32,840 --> 00:05:34,440
+No, no, allora adesso
+
+102
+00:05:35,800 --> 00:05:39,080
+faccio un piccolo passo indietro perché poi io sono un maniaco.
+
+103
+00:05:39,320 --> 00:05:41,320
+Io il Magic Mouse lo odio,
+
+104
+00:05:42,520 --> 00:05:43,720
+me piace tantissimo, io
+
+105
+00:05:45,720 --> 00:05:49,080
+non ne ho ne ho praticamente tutti i miei Mac.
+
+106
+00:05:49,080 --> 00:05:51,880
+Dopo, forse no, neanche perché il mio primo Mac è stato un
+
+107
+00:05:51,880 --> 00:05:53,800
+Mac mini quindi non ce l'ho mai avuto.
+
+108
+00:05:55,160 --> 00:05:56,600
+Credo di averne avuto uno.
+
+109
+00:05:56,600 --> 00:05:57,960
+L'ho preso, l'ho buttato.
+
+110
+00:05:57,960 --> 00:06:01,400
+No, non è vero, però praticamente ho comprato subito il Magic Trackpad
+
+111
+00:06:01,960 --> 00:06:04,600
+sia nella prima versione che credo di averne due o tre.
+
+112
+00:06:04,600 --> 00:06:08,200
+Addirittura, perché poi li ho, ovviamente sono arrivati con i vari i
+
+113
+00:06:08,200 --> 00:06:08,600
+Mac.
+
+114
+00:06:08,600 --> 00:06:12,680
+C'era sempre comunque un trackpad.
+
+115
+00:06:13,240 --> 00:06:20,840
+Adesso uso il Magic Trackpad 2, che qui è una roba meravigliosa,
+
+116
+00:06:20,840 --> 00:06:25,400
+e infatti, adesso, oltre alla tastiera che mi porto tra casa ufficio,
+
+117
+00:06:25,400 --> 00:06:27,800
+mi porto anche dietro il Magic Trappad.
+
+118
+00:06:28,040 --> 00:06:30,600
+Devo dire la verità: il Magic Trappad.
+
+119
+00:06:30,600 --> 00:06:35,880
+Che se avete un portatile Apple è uguale, praticamente le dimensioni sul
+
+120
+00:06:35,880 --> 00:06:39,720
+mio 16 pollici sono identiche, cioè quello che c'è sul 16 pollici
+
+121
+00:06:39,720 --> 00:06:46,440
+lo trovate anche come trackpad separato, non c'è più il problema, diciamo,
+
+122
+00:06:46,440 --> 00:06:51,320
+del tasto destro, perché in pratica con due dita cliccando si fa
+
+123
+00:06:51,320 --> 00:06:52,120
+il tasto destro.
+
+124
+00:06:52,120 --> 00:06:57,400
+Quindi, io, per esempio, appunto sono così abituato che è una gesture,
+
+125
+00:06:57,400 --> 00:06:58,920
+diciamo, ormai normale.
+
+126
+00:06:59,560 --> 00:07:04,120
+E io vivo solo di Magic Trackpad, nel senso che adesso effettivamente
+
+127
+00:07:04,120 --> 00:07:07,320
+il mouse diventa comodo, ma quello Apple, io veramente lo odio.
+
+128
+00:07:07,320 --> 00:07:12,360
+Cioè, nel senso, quando uso il Magic Mouse del mio collega, il
+
+129
+00:07:12,360 --> 00:07:16,400
+mouse mi va da tutte le parti, clicco involontariamente cose che non
+
+130
+00:07:14,840 --> 00:07:20,720
+vorrei cliccare e mi infastidisce notevolmente.
+
+131
+00:07:21,520 --> 00:07:22,400
+Ciò detto, però,
+
+132
+00:07:24,160 --> 00:07:29,440
+sicuramente questione di abitudini, devo dire la verità: appunto, il Magic Trackpad,
+
+133
+00:07:30,560 --> 00:07:34,640
+avendo la possibilità di gestirlo con tutte le cinque dita, perché di
+
+134
+00:07:34,640 --> 00:07:39,520
+fatto poi adesso forse oggi non ha senso entrare troppo nel dettaglio,
+
+135
+00:07:39,520 --> 00:07:44,480
+ma il Trackpad vi permette di utilizzare un po' il Mac come
+
+136
+00:07:44,480 --> 00:07:51,360
+fosse un iPad, quindi ci sono state implementate nel tempo e trovate
+
+137
+00:07:51,360 --> 00:07:55,200
+tutte le varie gesture in preferenza di sistema.
+
+138
+00:07:55,200 --> 00:07:58,240
+Credo che sia Mouse Trackpad, la voce adesso, dopo
+
+139
+00:08:00,080 --> 00:08:07,040
+esatto, trovate tutte le gesture anche visivamente spiegate, è una di quelle
+
+140
+00:08:07,040 --> 00:08:12,960
+cose Easy, chiamiamola così, di Apple dove saluti a Easy Apple a
+
+141
+00:08:12,960 --> 00:08:19,440
+proposito, dove alla fine ti spiega visivamente come funziona una cosa, e
+
+142
+00:08:19,440 --> 00:08:24,880
+quindi puoi anche in maniera rapida apprendere le gesture e devo dire
+
+143
+00:08:24,880 --> 00:08:30,480
+la verità, ormai sono gesture che io utilizzo ovunque perché poi, avendo
+
+144
+00:08:30,480 --> 00:08:34,320
+un portatile e avendo comunque da sempre il Magic Trappad,
+
+145
+00:08:35,520 --> 00:08:37,520
+quello è il mio modo di lavorare.
+
+146
+00:08:37,520 --> 00:08:44,320
+L'altra particolarità invece che può lasciare veramente basiti, secondo me, al primo
+
+147
+00:08:44,320 --> 00:08:48,960
+approccio di chi va su Windows e a me dà l'effetto contrario:
+
+148
+00:08:48,960 --> 00:08:53,440
+cioè, quando vado su un non Mac è fastidiosissimo.
+
+149
+00:08:53,440 --> 00:08:57,520
+È il fatto che Apple, ovviamente, la pensa alla sua maniera e
+
+150
+00:08:57,520 --> 00:09:01,480
+probabilmente ha ragione perché è il modo di fare lo scroll corretto.
+
+151
+00:09:01,800 --> 00:09:07,160
+Lo scroll è inverso, chiamiamolo così: cioè, se io mando in su
+
+152
+00:09:07,480 --> 00:09:13,560
+le dita, la pagina web o comunque l'interfaccia scorre dal basso verso
+
+153
+00:09:13,560 --> 00:09:16,760
+l'altro e quindi si muove e io posso vedere di più.
+
+154
+00:09:16,760 --> 00:09:22,440
+E se invece vado in giù, ovviamente ho la possibilità di ritornare
+
+155
+00:09:22,440 --> 00:09:27,720
+al punto di partenza e a tutti gli effetti gravitazionali o gravimetrici,
+
+156
+00:09:27,720 --> 00:09:31,720
+non so come definirli: cioè se io do un colpo, la pagina
+
+157
+00:09:32,280 --> 00:09:38,040
+non si ferma mentre alzo le dita, ma prende velocità e all'effetto
+
+158
+00:09:38,840 --> 00:09:43,800
+gravità, praticamente quindi è molto intuitivo e devo dire la verità, tornare
+
+159
+00:09:43,800 --> 00:09:45,160
+indietro non si può.
+
+160
+00:09:45,160 --> 00:09:48,680
+Io ho a livello sperimentale
+
+161
+00:09:50,040 --> 00:09:55,240
+uno ThinkPad ante lucano con sopra Linux e devo dire la verità:
+
+162
+00:09:55,240 --> 00:09:59,080
+una delle cose che oggi di più in assoluto è il trackpad
+
+163
+00:09:59,240 --> 00:10:03,560
+dello Thinkpad che è tipo con tre dita l'ho coperto e quindi
+
+164
+00:10:03,560 --> 00:10:05,560
+è ingestibile.
+
+165
+00:10:05,560 --> 00:10:10,680
+Devo usare un'altra mano per fare il tasto destro è una roba
+
+166
+00:10:10,680 --> 00:10:10,920
+che
+
+167
+00:10:14,360 --> 00:10:19,000
+è veramente imbarazzante dal mio punto di vista, poi comprendo che è
+
+168
+00:10:19,000 --> 00:10:24,120
+solo una questione di abitudine, però, effettivamente a parti inversa, devo dire
+
+169
+00:10:24,120 --> 00:10:25,000
+la verità:
+
+170
+00:10:26,280 --> 00:10:33,560
+chi viene da Windows sul Mac effettivamente all'inizio potrebbe trovarsi spiazzato, devo
+
+171
+00:10:33,560 --> 00:10:37,240
+dire, però, che è il modo giusto di pensare, in queste cose
+
+172
+00:10:37,400 --> 00:10:40,200
+Apple ha ragione, devo dire la verità.
+
+173
+00:10:40,360 --> 00:10:45,520
+Non sempre sono d'accordo, ma in questo caso l'ergonomia e la gestione
+
+174
+00:10:45,520 --> 00:10:47,520
+è veramente molto molto
+
+175
+00:10:48,800 --> 00:10:50,560
+semplice, però bisogna saperlo.
+
+176
+00:10:50,720 --> 00:10:55,280
+Quindi, effettivamente, apro e chiudo una parentesi, noi stiamo seguendo più o
+
+177
+00:10:55,280 --> 00:10:59,920
+meno nella scaletta, in pratica, quello che è la guida che la
+
+178
+00:10:59,920 --> 00:11:05,120
+stessa Apple fa, è interessante anche vedere il punto di vista appunto
+
+179
+00:11:05,120 --> 00:11:10,480
+di Apple che ha approfondito questa vicenda sui suggerimenti per chi vuole
+
+180
+00:11:10,480 --> 00:11:11,920
+passare da Windows a Mac.
+
+181
+00:11:11,920 --> 00:11:16,400
+Quindi nelle note dell'episodio e nella descrizione ovviamente di questo video se
+
+182
+00:11:16,400 --> 00:11:22,400
+lo guardate su YouTube, metteremo ovviamente tutti i link a queste guide.
+
+183
+00:11:22,400 --> 00:11:26,080
+Lo ripeto ancora una volta, l'abbiamo già detto nelle puntate scorse.
+
+184
+00:11:26,080 --> 00:11:32,560
+Apple effettivamente ha fatto un notevole sforzo per dare la possibilità di
+
+185
+00:11:32,880 --> 00:11:39,360
+apprendere l'utilizzo corretto del Mac, perché tutte queste guide sono in almeno
+
+186
+00:11:39,360 --> 00:11:42,320
+una trentina di lingue, se non di più, devo dire la verità,
+
+187
+00:11:42,320 --> 00:11:46,800
+tra cui appunto l'italiano, quindi è tutto facile e tutto semplice.
+
+188
+00:11:46,800 --> 00:11:51,360
+Un'altra cosa che vi capiterà sott'occhio quando passate da Windows a Mac
+
+189
+00:11:51,760 --> 00:11:55,760
+è una simpatica barra che sta in alto, che lì ferma, che
+
+190
+00:11:55,760 --> 00:12:00,240
+vi continua a guardare, mentre in Windows avete una barra invece bassa,
+
+191
+00:12:00,240 --> 00:12:05,760
+dove ci sono tutte le icone, tutti l'orologio discorrendo, invece per il
+
+192
+00:12:05,760 --> 00:12:07,360
+Mac invece è in alto.
+
+193
+00:12:07,360 --> 00:12:10,800
+E quindi è lì una piccola barra del menu dove ci sono
+
+194
+00:12:11,280 --> 00:12:14,000
+raggruppati tutti i menu di ogni applicazione.
+
+195
+00:12:14,000 --> 00:12:17,440
+Quindi, nel momento in cui voi avete un'applicazione, l'ha ridimensionate, l'ha mandata
+
+196
+00:12:17,440 --> 00:12:20,960
+tutto a schermo, voi sapete che lì in alto troverete tutto il
+
+197
+00:12:20,960 --> 00:12:25,680
+menu che vi serve, tra cui anche la famosa meletta a sinistra
+
+198
+00:12:25,680 --> 00:12:28,640
+che vi permette di accedere a tutta una serie di informazioni che
+
+199
+00:12:28,640 --> 00:12:32,360
+riguardano il Mac e le preferenze di sistema e via discorrendo.
+
+200
+00:12:32,520 --> 00:12:35,720
+Ma diciamo che la cosa più particolare è appunto questo menu che
+
+201
+00:12:35,880 --> 00:12:38,520
+cambia al cambiare dell'applicazione.
+
+202
+00:12:38,520 --> 00:12:39,800
+Quindi, se avete Safari
+
+203
+00:12:42,120 --> 00:12:46,440
+l'indicazione dell'applicazione aperta che è indicata in grassetto
+
+204
+00:12:47,480 --> 00:12:51,640
+, e poi avete i vostri menu che sono file, modifica, vista, cronologia
+
+205
+00:12:51,640 --> 00:12:53,560
+e tutti quanti gli altri amici suoi.
+
+206
+00:12:53,720 --> 00:12:59,240
+Per esempio, io adesso apro Telegram e rimane semplicemente Telegram, Edit, View
+
+207
+00:12:59,240 --> 00:13:00,120
+e Window.
+
+208
+00:13:00,120 --> 00:13:03,160
+Quindi capite che nel momento in cui passate da un momento
+
+209
+00:13:04,440 --> 00:13:08,280
+da un'applicazione all'altra, troverete i menu che cambiano e diciamo che rimane
+
+210
+00:13:08,520 --> 00:13:10,680
+un punto fisso
+
+211
+00:13:11,960 --> 00:13:15,880
+del sistema operativo, almeno fino a un paio di versioni fa, perché,
+
+212
+00:13:15,880 --> 00:13:19,320
+se non mi ricordo male, hanno messo la possibilità di nascondere anche
+
+213
+00:13:19,960 --> 00:13:24,040
+la barra dei menu, oltre la barra delle icone che avete sotto
+
+214
+00:13:24,120 --> 00:13:30,120
+che si chiama la barra del doc, che possono nascondersi automaticamente.
+
+215
+00:13:30,440 --> 00:13:33,240
+Io preferisco tenerla sempre lì che mi guardi.
+
+216
+00:13:33,240 --> 00:13:36,360
+Esatto, è una delle funzioni più.
+
+217
+00:13:36,360 --> 00:13:43,560
+Diciamo che, o veramente, devi utilizzare ogni pixel dello schermo, praticamente, oppure
+
+218
+00:13:43,560 --> 00:13:48,760
+avere mentre il doc oggettivamente apro e chiudo una parentesi, immagino che
+
+219
+00:13:48,760 --> 00:13:51,080
+noi la penseremo totalmente differente.
+
+220
+00:13:51,080 --> 00:13:55,240
+La barra del doc dove si vedono poi sotto, al posto di
+
+221
+00:13:55,240 --> 00:13:59,000
+quella che è invece la barra dei menu di Windows, chiamiamola così:
+
+222
+00:13:59,160 --> 00:14:03,400
+è un appunto doc dove si vedono tutte le applicazioni che sono
+
+223
+00:14:03,400 --> 00:14:07,800
+o predefinite sotto me, che io le tolgo via tutte, tra l'altro.
+
+224
+00:14:09,720 --> 00:14:13,480
+Io no, sono un talebano, no, no, no, io le tolgo via
+
+225
+00:14:13,480 --> 00:14:17,520
+tutte e lascio solo quelle che si utilizzano quindi solo i programmi
+
+226
+00:14:14,920 --> 00:14:18,960
+attivi sono nel mio DOC.
+
+227
+00:14:19,200 --> 00:14:23,440
+Ovviamente il DOC non è in basso, che è una roba inutile
+
+228
+00:14:23,600 --> 00:14:24,480
+veramente.
+
+229
+00:14:24,800 --> 00:14:29,360
+Ma è sulla destra perché io sono mancino, ma tendenzialmente ho visto
+
+230
+00:14:29,360 --> 00:14:33,680
+chi è destro lo tiene sulla sinistra e pensa come penso io,
+
+231
+00:14:33,680 --> 00:14:39,360
+mettiamola così e ovviamente lo faccio scomparire con il comando: anzi, con
+
+232
+00:14:39,520 --> 00:14:44,080
+comando, perché ho scoperto che la traduzione italiana di command è comando
+
+233
+00:14:44,160 --> 00:14:45,120
+secondo Apple.
+
+234
+00:14:45,120 --> 00:14:51,040
+Quindi dobbiamo sì, comando e opzione, l'alt è il tasto opzione per
+
+235
+00:14:51,040 --> 00:14:52,000
+Apple.
+
+236
+00:14:52,480 --> 00:14:59,280
+Quindi, con comando e i scompare il doc e semplicemente quando ci
+
+237
+00:14:59,280 --> 00:15:02,320
+si avvicina con il mouse il DOC ricompare.
+
+238
+00:15:02,640 --> 00:15:06,880
+Anche qui il doc, se si vuole, ha tutta una serie di
+
+239
+00:15:08,000 --> 00:15:10,080
+amole così funzioni aggiuntive.
+
+240
+00:15:10,080 --> 00:15:15,040
+Quindi ha l'effetto genio come lo chiama Apple, ovvero se io passo
+
+241
+00:15:15,040 --> 00:15:21,920
+col mouse su una delle icone e ho abilitato questa funzione.
+
+242
+00:15:21,920 --> 00:15:27,600
+L'icona dell'applicazione su cui sto passando si espande, ho tolto via anche
+
+243
+00:15:27,600 --> 00:15:32,880
+quello, ovviamente odio, tutto quello che si muove e quant'altro e in
+
+244
+00:15:32,880 --> 00:15:38,960
+più trovati in fondo al doc la possibilità o le applicazioni più
+
+245
+00:15:38,960 --> 00:15:43,680
+utilizzate, credo similmente ai Pados, ma credo che sia una delle cose
+
+246
+00:15:43,680 --> 00:15:50,480
+delle ultime versioni, anche, però, il cestino e abitualmente i download e
+
+247
+00:15:50,480 --> 00:15:56,560
+eventualmente altri altre cartelle che si vogliono avere diciamo ad accesso rapido,
+
+248
+00:15:56,560 --> 00:16:02,360
+chiamiamolo così, devo dire la verità, io lascio solo praticamente i download,
+
+249
+00:15:59,840 --> 00:16:05,640
+ma perché effettivamente il download dal mio punto di vista.
+
+250
+00:16:06,600 --> 00:16:09,880
+Quando scarico qualcosa da internet, è il primo posto dove va a
+
+251
+00:16:09,880 --> 00:16:11,160
+finire un documento.
+
+252
+00:16:11,160 --> 00:16:15,560
+Quindi è prevalentemente con la paccioniera esatto.
+
+253
+00:16:16,840 --> 00:16:23,720
+Lasciamo stare l'argomento, anzi, ho creato un sistema per archiviare in sottocartelle
+
+254
+00:16:23,720 --> 00:16:24,760
+del download.
+
+255
+00:16:24,760 --> 00:16:30,120
+I download di modo che quando apro, non vengano gigabyte di roba,
+
+256
+00:16:30,120 --> 00:16:32,920
+ma bisognerebbe ogni tanto anche fare pulizia direi.
+
+257
+00:16:32,920 --> 00:16:36,680
+Però ogni tanto diciamo, l'ho scaricato, poi metti il caso che lo
+
+258
+00:16:36,680 --> 00:16:37,480
+riscarico di nuovo.
+
+259
+00:16:37,480 --> 00:16:40,600
+Poi ovviamente Discordi deve lo scaricato e rimane lì per i secoli.
+
+260
+00:16:40,600 --> 00:16:47,080
+E quando lo scarichi di nuovo, dici: ma perché c'è Pippo 31.pdf?
+
+261
+00:16:47,560 --> 00:16:51,640
+O 2 o 3, perché ne hai scaricato 1000, non te ne
+
+262
+00:16:51,640 --> 00:16:52,200
+sei accorto.
+
+263
+00:16:52,200 --> 00:16:53,560
+Ma vabbè, lasciamo stare.
+
+264
+00:16:53,560 --> 00:16:57,720
+Questo è argomento di un'altra puntata, forse.
+
+265
+00:16:58,600 --> 00:17:05,640
+A proposito di Filippo, mi tocca correggerlo, perché l'effetto di cui parlavi
+
+266
+00:17:05,640 --> 00:17:10,280
+prima si chiama effetto ingrandimento, e da una barra che va dal
+
+267
+00:17:10,280 --> 00:17:11,480
+minimo al massimo.
+
+268
+00:17:11,960 --> 00:17:16,360
+Per quanto riguarda l'ingrandimento dell'icone quando passi il mouse sulla dock.
+
+269
+00:17:16,600 --> 00:17:21,000
+Invece, l'effetto genio di cui parlavi è la contrazione della finestra, che
+
+270
+00:17:21,000 --> 00:17:24,280
+può essere con effetto genio o effetto scala.
+
+271
+00:17:24,600 --> 00:17:26,600
+Io ho attualmente ho un effetto.
+
+272
+00:17:27,240 --> 00:17:30,760
+È facile mentre uno parla a controllare, perché ovviamente stai parlando a
+
+273
+00:17:30,760 --> 00:17:31,080
+pratica.
+
+274
+00:17:31,320 --> 00:17:33,720
+Mi fai le pulsian, anche sei vergognoso.
+
+275
+00:17:34,360 --> 00:17:39,560
+Io sono fastidioso, non uso scalette, faccio ridere essenzialmente, io sono la
+
+276
+00:17:39,560 --> 00:17:40,680
+mosca che fa ridere.
+
+277
+00:17:40,680 --> 00:17:43,960
+In ogni caso, io invece, a differenza di Filippo, la DOC la
+
+278
+00:17:43,960 --> 00:17:46,400
+tengo in basso per il semplice fatto che
+
+279
+00:17:44,760 --> 00:17:51,120
+sono abituato a usare le applicazioni a tutto schermo.
+
+280
+00:17:51,360 --> 00:17:57,120
+Quindi, essenzialmente non mi dà alcun fastidio avere, la barra della doc
+
+281
+00:17:57,440 --> 00:18:01,520
+lì sotto e la lascio proprio come Apple l'ha fatto.
+
+282
+00:18:01,520 --> 00:18:03,360
+Preferisco fare così:
+
+283
+00:18:04,560 --> 00:18:10,640
+diciamo che le applicazioni le richiamo semplicemente usando una scorciatoia da tastiera
+
+284
+00:18:10,640 --> 00:18:15,440
+che ne parleremo poi dopo, ma vi do un'anteprima: comand barra spazzatrice,
+
+285
+00:18:15,440 --> 00:18:16,880
+ma quello ne parliamo dopo.
+
+286
+00:18:16,880 --> 00:18:21,280
+E invece uso anch'io la cartella download, ma ho messo anche la
+
+287
+00:18:21,280 --> 00:18:25,120
+cartella applicazioni e poi c'è il cestino e le solite cose.
+
+288
+00:18:25,120 --> 00:18:30,480
+Insomma, io sono molto schematico su questo, mi piace tenere il Mac,
+
+289
+00:18:30,480 --> 00:18:34,880
+ma anche le applicazioni come sono state pensate, fare il minimo delle
+
+290
+00:18:37,600 --> 00:18:43,760
+personalizzazioni, perché mi avevano insegnato all'epoca quando si passava dal disegno manolino
+
+291
+00:18:44,080 --> 00:18:49,040
+al CAD, che se tu riesci a lavorare con un CAD con
+
+292
+00:18:49,040 --> 00:18:50,240
+l'interfaccia
+
+293
+00:18:51,840 --> 00:18:56,960
+che aveva impostato la fabbrica nella fattispecie Autodesk, tu riuscivi a passare
+
+294
+00:18:56,960 --> 00:18:58,960
+da un computer all'altro senza un problema.
+
+295
+00:18:58,960 --> 00:19:02,160
+Perché all'epoca il computer non è che era proprio la portata di
+
+296
+00:19:02,160 --> 00:19:04,560
+tutti, si lavorava in
+
+297
+00:19:05,920 --> 00:19:10,160
+un open space con tanti computer a disposizione degli studenti.
+
+298
+00:19:10,160 --> 00:19:13,760
+Quindi io ho ancora questo vecchio retaggio di mantenere le cose così
+
+299
+00:19:14,000 --> 00:19:18,160
+come sono e cercare di dare il massimo usando piuttosto i comandi
+
+300
+00:19:18,160 --> 00:19:19,280
+da tastiera.
+
+301
+00:19:19,280 --> 00:19:20,240
+Mi sembra giusto.
+
+302
+00:19:21,520 --> 00:19:26,960
+L'altra cosa che probabilmente potrebbe spiazzare un utente Windows su Mac è
+
+303
+00:19:26,960 --> 00:19:28,960
+la gestione delle finestre.
+
+304
+00:19:29,640 --> 00:19:35,960
+Innanzitutto vi trovate tutti i tasti al contrario, ovvero in una finestra
+
+305
+00:19:36,200 --> 00:19:42,920
+dell'interfaccia Apple, non vi trovate i tre pulsanti, chiamiamoli così, per massimizzare
+
+306
+00:19:42,920 --> 00:19:48,040
+e minimizzare o chiudere la finestra sulla destra, ma li trovate sulla
+
+307
+00:19:48,360 --> 00:19:51,320
+sinistra e sono speculari.
+
+308
+00:19:51,320 --> 00:19:54,840
+Quindi il primo tasto che il tasto rosso, chiamiamolo così, è quello
+
+309
+00:19:54,840 --> 00:19:59,400
+per chiudere la finestra, il tasto giallo è quello per minimizzare se
+
+310
+00:19:59,400 --> 00:20:02,200
+non mi ricordo male, perché poi devo dirvi ok.
+
+311
+00:20:02,440 --> 00:20:07,400
+E il tasto verde, ecco lì il tocco Apple, diciamo perché in
+
+312
+00:20:07,400 --> 00:20:14,360
+estrema sintesi vi permette sia col primo tocco di mettere, anzi, no,
+
+313
+00:20:14,360 --> 00:20:15,960
+lo sto facendo in diretta.
+
+314
+00:20:15,960 --> 00:20:17,960
+Il primo tocco mette totalmente
+
+315
+00:20:20,200 --> 00:20:24,280
+a pieno schermo l'applicazione, che è da quello che ho capito io.
+
+316
+00:20:24,280 --> 00:20:26,120
+Che usi tu sostanzialmente?
+
+317
+00:20:26,440 --> 00:20:28,280
+Ok, uso sempre al tempo.
+
+318
+00:20:28,280 --> 00:20:31,240
+Poi secondo me se ci si va, no, non mi ricordo più.
+
+319
+00:20:31,240 --> 00:20:35,800
+Cioè c'era un modo per farla a tutto schermo, ma devo dire
+
+320
+00:20:35,800 --> 00:20:36,280
+la verità.
+
+321
+00:20:36,280 --> 00:20:37,640
+Adesso non mi ricordo più come si fa.
+
+322
+00:20:37,640 --> 00:20:42,920
+Se farlo a tutto schermo, clicchi semplicemente, dai un clic sul tasto
+
+323
+00:20:42,920 --> 00:20:45,080
+verde e lo manda a tutto schermo.
+
+324
+00:20:45,080 --> 00:20:49,720
+Un altro clic sul tasto verde ritorna nella dimensione normale.
+
+325
+00:20:49,720 --> 00:20:53,400
+Se tu tieni cliccato il tasto verde, si apre un menu con
+
+326
+00:20:53,400 --> 00:20:57,640
+scritto attivo modalità tutto schermo, oppure sposta la finestra sulla metà sinistra
+
+327
+00:20:57,640 --> 00:21:00,120
+o sposta la finestra sulla metà destra.
+
+328
+00:21:00,200 --> 00:21:03,640
+Secondo me, una volta però effettivamente forse è perché io poi è.
+
+329
+00:21:03,600 --> 00:21:07,400
+Una di quelle funzioni che uso pochissimo, perché io uso un timing
+
+330
+00:21:07,400 --> 00:21:11,800
+manager, quindi fa un po' te quanto mi interessa, tutta questa roba.
+
+331
+00:21:12,280 --> 00:21:16,640
+Tuttavia, una volta, quando non c'era il full screen, chiamiamolo così, perché
+
+332
+00:21:16,640 --> 00:21:18,240
+credo che sia una
+
+333
+00:21:19,360 --> 00:21:23,040
+novità di 3, 4, 5 sistemi fa.
+
+334
+00:21:24,000 --> 00:21:31,120
+Il tasto verde espandeva, diciamo, la finestra alla massima grandezza possibile per
+
+335
+00:21:31,120 --> 00:21:35,520
+lo schermo, ma mantenendo il menu e il doc in fondo, vieni
+
+336
+00:21:35,600 --> 00:21:41,520
+premuto il tasto option con il click e diventa il più normale.
+
+337
+00:21:41,520 --> 00:21:42,880
+Ah, si, bravissimo!
+
+338
+00:21:42,880 --> 00:21:43,440
+Bravissimo!
+
+339
+00:21:43,440 --> 00:21:45,440
+Vedi che si imparano sempre tante cose.
+
+340
+00:21:45,440 --> 00:21:48,000
+Ce n'è sempre una da imparare, non si finisce.
+
+341
+00:21:48,640 --> 00:21:53,200
+Come, anche qui uscire dalle applicazioni, come si fa?
+
+342
+00:21:53,200 --> 00:21:59,200
+Attenzione, ecco anche qui: Mac funziona diverso da Windows, nel senso che
+
+343
+00:21:59,520 --> 00:22:08,160
+o si fa, diciamo che comando più comando Q, scusami, o command
+
+344
+00:22:08,160 --> 00:22:12,960
+Q, è io dico come dice Apple comando comando Q, comando più
+
+345
+00:22:12,960 --> 00:22:14,160
+Q.
+
+346
+00:22:14,160 --> 00:22:15,760
+L'applicazione si esce.
+
+347
+00:22:15,760 --> 00:22:24,000
+Che sostanzialmente poi quit quindi in inglese vuol dire quit esatto, altrimenti
+
+348
+00:22:24,240 --> 00:22:28,560
+se anche chiudete la finestra, la finestra viene chiusa, ma
+
+349
+00:22:30,160 --> 00:22:37,600
+effettivamente l'applicazione non si esce dall'applicazione, l'applicazione rimane in background solitamente per
+
+350
+00:22:37,600 --> 00:22:42,080
+vedere se un'applicazione è attiva o meno, diciamo cioè se è in
+
+351
+00:22:42,080 --> 00:22:45,120
+esecuzione anche se non sta facendo niente perché avete chiuso tutte le
+
+352
+00:22:45,120 --> 00:22:45,920
+finestre.
+
+353
+00:22:45,920 --> 00:22:47,360
+Bisogna andare nel doc.
+
+354
+00:22:47,440 --> 00:22:49,360
+C'è un pallino solitamente.
+
+355
+00:22:49,360 --> 00:22:50,640
+Adesso controllo che ci sia.
+
+356
+00:22:51,920 --> 00:22:58,480
+Nell'ultima versione di fianco all'applicazione aperta e funzionante c'è un pallino di
+
+357
+00:22:58,480 --> 00:22:59,360
+fianco.
+
+358
+00:22:59,800 --> 00:23:03,960
+Vabbè, nel mio caso, per esempio, nel mio doc, tutte le applicazioni
+
+359
+00:23:03,960 --> 00:23:06,680
+che ci sono sono col pallino di fianco perché sono le applicazioni
+
+360
+00:23:06,680 --> 00:23:07,960
+che stanno girando.
+
+361
+00:23:07,960 --> 00:23:10,920
+Però nel caso di Roberto invece non è così.
+
+362
+00:23:11,720 --> 00:23:16,360
+Sicuramente è una cosa che non abbiamo detto: avere le applicazioni che
+
+363
+00:23:16,360 --> 00:23:21,080
+si usano di più nel DOC diventa comodo perché appunto o si
+
+364
+00:23:21,080 --> 00:23:26,120
+scende per attivarlo o nel mio caso si va a destra.
+
+365
+00:23:26,120 --> 00:23:31,080
+Però anche qui io che sono abbastanza particolare, ma anzi, ne possiamo
+
+366
+00:23:31,080 --> 00:23:37,640
+parlare quasi subito perché tanto c'era da introdurlo un po' più avanti,
+
+367
+00:23:37,640 --> 00:23:43,720
+io utilizzo uno specifico applicazione per lanciare le applicazioni nella versione base.
+
+368
+00:23:43,720 --> 00:23:49,880
+Comunque, macOS ha già Spotlight che è la lente nella bar dei
+
+369
+00:23:49,880 --> 00:23:55,480
+menu che trovate in alto a destra e che si può abilitare,
+
+370
+00:23:55,480 --> 00:23:58,200
+cioè invocare, chiamiamola così,
+
+371
+00:23:59,480 --> 00:24:05,160
+con comando spazio digitando le prime parole di un'applicazione, le prime lettere
+
+372
+00:24:05,240 --> 00:24:07,800
+scusami di un'applicazione.
+
+373
+00:24:08,440 --> 00:24:13,560
+Abitualmente Spotlight così come l'applicazione che uso io, che si chiama Lunchbar,
+
+374
+00:24:13,560 --> 00:24:20,040
+va e recupera e individua velocemente l'applicazione, un invio e l'applicazione viene
+
+375
+00:24:20,040 --> 00:24:22,200
+lanciata e viene aperta sostanzialmente.
+
+376
+00:24:22,520 --> 00:24:26,440
+Questo per me è il modo più lineare, più semplice.
+
+377
+00:24:26,440 --> 00:24:32,200
+Sono un amante delle scorciatoie a tastiera di lavorare efficientemente su Mac,
+
+378
+00:24:32,200 --> 00:24:34,040
+ma qui esuliamo
+
+379
+00:24:36,280 --> 00:24:40,520
+dal nostro scopo, anche se oggettivamente, visto che sono le basi, è
+
+380
+00:24:40,520 --> 00:24:47,120
+utile sapere che c'è questa funzione che effettivamente velocizza notevolmente l'apertura delle
+
+381
+00:24:44,840 --> 00:24:48,000
+applicazioni.
+
+382
+00:24:48,320 --> 00:24:53,600
+Su Spotlight, già che ci stiamo parlando, c'è da dire che non
+
+383
+00:24:53,600 --> 00:24:57,680
+fa solo questo, ma è un sistema di ricerca tutto tondo.
+
+384
+00:24:57,680 --> 00:25:02,640
+Quindi, se avete un documento che state cercando digitando le prime parole
+
+385
+00:25:02,640 --> 00:25:04,640
+del nome del documento,
+
+386
+00:25:05,840 --> 00:25:11,520
+macOS indicizza tutti i documenti che sono presenti sul vostro hard disk.
+
+387
+00:25:12,160 --> 00:25:14,560
+Apro un'ulteriore parentesi.
+
+388
+00:25:14,560 --> 00:25:20,400
+Attenzione perché se avete molti hard disk esterni, soprattutto all'inizio, questa indicizzazione
+
+389
+00:25:20,640 --> 00:25:26,160
+ha dei costi, diciamo, a livello sia di potenza sia di reattività
+
+390
+00:25:26,160 --> 00:25:27,440
+del vostro Mac.
+
+391
+00:25:27,440 --> 00:25:32,880
+Quindi, perché poi l'idea di fondo è quella di un Mac nuovo,
+
+392
+00:25:32,880 --> 00:25:37,600
+diciamo, ha pochissima roba da indicizzare e quindi progressivamente si indicizza la
+
+393
+00:25:37,600 --> 00:25:39,840
+roba man mano che li viene copiata dentro.
+
+394
+00:25:39,840 --> 00:25:42,720
+Però, se aggiungete degli hard disk esterni.
+
+395
+00:25:43,280 --> 00:25:47,760
+E con molta roba con molti file all'interno, sappiate che casomai lì
+
+396
+00:25:47,760 --> 00:25:51,280
+potrebbe avere qualche problema il vostro Mac, anche se con i nuovi
+
+397
+00:25:51,280 --> 00:25:55,120
+hard disk in stato solido e così via, diciamo, è un problema
+
+398
+00:25:55,520 --> 00:26:02,480
+di quando c'erano i dischi fissi con i dischi rottanti sostanzialmente.
+
+399
+00:26:04,000 --> 00:26:07,920
+Altre cose, spotlight: sembra un'arma di un propo'attica.
+
+400
+00:26:09,440 --> 00:26:10,240
+I dischi rottanti.
+
+401
+00:26:10,480 --> 00:26:14,080
+Il funzionamento di base del hard disk è sempre stato così e
+
+402
+00:26:14,080 --> 00:26:18,720
+tuttora, comunque, gli hard disk non a stato solido, sono a dischi
+
+403
+00:26:18,720 --> 00:26:23,600
+rottanti, piatti con delle tastine che girano a una velocità pazzesca.
+
+404
+00:26:23,600 --> 00:26:27,040
+Ma vabbè, stiamo divagando come il nostro solito.
+
+405
+00:26:27,040 --> 00:26:30,840
+Spotlight vi permette anche di fare tutta una serie di funzioni aggiuntive.
+
+406
+00:26:31,160 --> 00:26:37,880
+Quindi, le demo tipiche di Apple, sono: fammi vedere cosa fanno i
+
+407
+00:26:37,880 --> 00:26:41,800
+New York Yankees, perché ovviamente sono americani.
+
+408
+00:26:41,800 --> 00:26:47,640
+Però, per esempio, Inter Milan, se digitate Inter Milan, tendenzialmente vi tira
+
+409
+00:26:47,640 --> 00:26:53,480
+fuori i risultati delle partite di calcio, potete fare delle operazioni di
+
+410
+00:26:53,480 --> 00:26:57,400
+base, conversione di misure, credo e anche di moneta.
+
+411
+00:26:57,400 --> 00:27:02,200
+Insomma, Spotlight ha tutta una serie di funzioni che è utile conoscere
+
+412
+00:27:02,200 --> 00:27:07,720
+e che vi permettono appunto, conoscendo la scorciatoia tastiera, comando più spazio
+
+413
+00:27:07,960 --> 00:27:09,560
+di accedere velocemente.
+
+414
+00:27:09,560 --> 00:27:14,440
+Mentre state facendo tutt'altro, perché la cosa canina è che praticamente io
+
+415
+00:27:14,440 --> 00:27:17,720
+sto scrivendo per esempio un documento, mi viene in mente che voglio
+
+416
+00:27:17,720 --> 00:27:21,000
+fare una ricerca su internet e così via.
+
+417
+00:27:21,000 --> 00:27:27,800
+Comando spazio compare sostanzialmente in mezzo allo schermo una specie di finestrella
+
+418
+00:27:27,960 --> 00:27:32,760
+dove io posso digitare il testo, dare invio e lui mi va
+
+419
+00:27:32,920 --> 00:27:34,600
+e cerca le cose che
+
+420
+00:27:35,800 --> 00:27:37,080
+mi sono venuta alla mente.
+
+421
+00:27:37,080 --> 00:27:41,640
+Quindi è molto comodo per muoversi velocemente o dobbiamo lanciare un'applicazione.
+
+422
+00:27:41,640 --> 00:27:42,840
+Tutte queste cose qua.
+
+423
+00:27:42,840 --> 00:27:45,960
+Hai qualcosa da aggiungere, Roberto, come credo?
+
+424
+00:27:46,280 --> 00:27:50,680
+Ma no, niente di parole su Spotlight c'è poco da aggiungere, se
+
+425
+00:27:50,680 --> 00:27:55,480
+non è un ottimo compagno di lavoro, nel senso che vi permette
+
+426
+00:27:55,480 --> 00:27:59,720
+veramente di ricercare qualsiosa che avete sull'hardisk.
+
+427
+00:27:59,720 --> 00:28:07,320
+Ma quello che volevo aggiungere è una cosa abbastanza diciamo, poco utilizzata
+
+428
+00:28:07,320 --> 00:28:10,760
+da parte dell'utente Mac di vecchia data, ma che secondo me è
+
+429
+00:28:10,760 --> 00:28:14,880
+per gli utenti Mac di giovane data, chiamiamolo così.
+
+430
+00:28:14,760 --> 00:28:16,880
+I nuovi utenti potrebbe essere utile.
+
+431
+00:28:17,120 --> 00:28:17,920
+È il
+
+432
+00:28:19,040 --> 00:28:23,920
+aspetto un attimo che viene in mente, il Launchpad: il Launchpad è
+
+433
+00:28:23,920 --> 00:28:30,240
+un altro sistema per poter avere le applicazioni tutte davanti allo schermo
+
+434
+00:28:30,240 --> 00:28:33,200
+come se fosse un iPad essenzialmente un iPhone.
+
+435
+00:28:33,200 --> 00:28:36,320
+Quindi voi potete configurarvi le schermate.
+
+436
+00:28:36,320 --> 00:28:39,600
+Che ne so, potete mettere nella prima schermata tutte le applicazioni che
+
+437
+00:28:39,600 --> 00:28:42,640
+utilizzate per lavoro in modo tale che quando la richiamate, avete solo
+
+438
+00:28:42,640 --> 00:28:47,840
+quelle applicazioni lì e con un semplice tocco riuscite a lanciarlo senza
+
+439
+00:28:47,840 --> 00:28:50,080
+problema senza lanciare spotlight.
+
+440
+00:28:50,080 --> 00:28:57,200
+Questa è una novità che accomuna, diciamo, i sistemi operativi mobile e
+
+441
+00:28:57,200 --> 00:29:04,320
+desktop di Apple, perché ovviamente sta, diciamo, le interfacce stanno convergendo soprattutto
+
+442
+00:29:04,400 --> 00:29:08,880
+nell'ultima versione che si chiama Big Sure, che è apprezzata o non
+
+443
+00:29:08,880 --> 00:29:12,480
+apprezzata, insomma, qui non si capisce bene cosa si preferisce.
+
+444
+00:29:12,480 --> 00:29:16,640
+Io per adesso non l'ho ancora installata perché da buon professionista aspetto
+
+445
+00:29:16,640 --> 00:29:22,080
+circa un anno dall'uscita del sistema operativo per installarlo sulla macchina su
+
+446
+00:29:22,080 --> 00:29:26,560
+cui lavoro, perché non voglio avere nessun tipo di grana o impuntamento
+
+447
+00:29:26,560 --> 00:29:28,720
+o ricerca di qualcosa che non mi funziona.
+
+448
+00:29:28,720 --> 00:29:30,400
+Non voglio sapere niente.
+
+449
+00:29:30,400 --> 00:29:33,920
+Quando faccio il passaggio, voglio essere tranquillo.
+
+450
+00:29:34,160 --> 00:29:39,120
+Ormai non sono un beta tester che installa la versione 1 come
+
+451
+00:29:39,120 --> 00:29:41,680
+qualcuno di mia conoscenza, vero Filippo.
+
+452
+00:29:44,400 --> 00:29:48,400
+Tuttavia, io sono un beta tester cosciente, io non ho nessun
+
+453
+00:29:49,520 --> 00:29:50,720
+hard disk esterno.
+
+454
+00:29:50,880 --> 00:29:55,120
+Io non ho installato sui miei Mac, non ho ancora installato Big
+
+455
+00:29:55,280 --> 00:29:56,000
+Shore.
+
+456
+00:29:56,000 --> 00:30:01,880
+Tuttavia, davvero beta tester, ho già un hard disk dedicato dove ho
+
+457
+00:29:59,840 --> 00:30:07,240
+l'ultima beta di Big Sure che ogni tanto attivo e utilizzo.
+
+458
+00:30:07,880 --> 00:30:09,720
+È comunque un bel sistema operativo.
+
+459
+00:30:09,720 --> 00:30:14,440
+Mi piace molto che si stia un po' più ripulendo l'interfaccia, perché
+
+460
+00:30:15,080 --> 00:30:17,560
+c'è da dire soprattutto da parte della doc.
+
+461
+00:30:17,560 --> 00:30:21,400
+Io vedo un sacco di icone che sono un po' messe distorte,
+
+462
+00:30:21,400 --> 00:30:23,800
+un po' tonde, un po' quadrate.
+
+463
+00:30:23,800 --> 00:30:28,600
+Non era una doc, diciamo, pulita come ci si aspetta.
+
+464
+00:30:28,600 --> 00:30:33,720
+Però, insomma, una cosa che apprezzerete anche voi che passerete da Windows,
+
+465
+00:30:33,720 --> 00:30:37,320
+sono queste icone che, come diceva il buon Steve Jobs, vi verrà
+
+466
+00:30:37,400 --> 00:30:43,160
+voglia di leccare perché sono veramente bellissime e sono super rifinite ed
+
+467
+00:30:43,160 --> 00:30:44,920
+è un piacere per gli occhi.
+
+468
+00:30:44,920 --> 00:30:48,920
+Ma detto questo, un'altra cosa che può essere molto interessante soprattutto per
+
+469
+00:30:48,920 --> 00:30:54,280
+chi passa da Windows, è la rinomina dei file che viene semplicemente
+
+470
+00:30:54,520 --> 00:30:59,320
+evidenziando il file, dando invio e vi rimane già evidenziato la parte
+
+471
+00:30:59,320 --> 00:31:03,320
+del file il nome del file senza l'estensione.
+
+472
+00:31:03,320 --> 00:31:08,200
+Quindi potete cambiare in modo molto veloce il nome del file, ma
+
+473
+00:31:08,200 --> 00:31:15,160
+un'altra chicca che penso non abbia Windows è la rinomina, diciamo intelligente
+
+474
+00:31:15,160 --> 00:31:16,040
+di più file.
+
+475
+00:31:16,040 --> 00:31:20,360
+Se voi selezionate due file, cliccate col tasto destro, c'è rinomina due
+
+476
+00:31:20,360 --> 00:31:26,360
+elementi, vi si apre una simpatica finestrella dove vi permette di aggiungere
+
+477
+00:31:26,360 --> 00:31:32,120
+del testo prima del nome, sostituire del testo o cambiare direttamente il
+
+478
+00:31:32,120 --> 00:31:32,840
+formato.
+
+479
+00:31:32,840 --> 00:31:34,920
+E questo ci sono tante altre opzioni.
+
+480
+00:31:35,080 --> 00:31:38,760
+Questo vi permette, ad esempio, se avete due file che sono, che
+
+481
+00:31:38,760 --> 00:31:43,320
+ne so, due immagini con un nome diverso, ma se volete identificarlo
+
+482
+00:31:43,320 --> 00:31:46,160
+con la data oppure mettergli in un numero
+
+483
+00:31:47,280 --> 00:31:52,640
+consecutivo a uno all'altra, che c'è l'immagine che uno avrà uno trattino
+
+484
+00:31:53,520 --> 00:31:58,080
+vate la pesca e due trattino Sono tornato dalla pesca.
+
+485
+00:31:58,080 --> 00:32:02,880
+Potete farlo direttamente con questo rinomina che è una funzione molto intelligente
+
+486
+00:32:03,040 --> 00:32:07,360
+soprattutto per chi lavora con molti file e deve spostare grandi quantità
+
+487
+00:32:07,360 --> 00:32:08,400
+di informazioni.
+
+488
+00:32:08,720 --> 00:32:10,720
+Un'altra cosa che invece è interessante:
+
+489
+00:32:13,200 --> 00:32:16,560
+ti interrompo un attimo solo perché abbiamo saltato un pezzo - è
+
+490
+00:32:16,560 --> 00:32:20,160
+colpa mia questo caso, quindi non hpe.
+
+491
+00:32:22,560 --> 00:32:24,160
+Ho saltato qualcosa, Filippo.
+
+492
+00:32:24,160 --> 00:32:24,960
+Non ci credo.
+
+493
+00:32:24,960 --> 00:32:27,280
+Perché ho fatto l'inciso, poi tu sei andato avanti.
+
+494
+00:32:27,280 --> 00:32:29,280
+Tuttavia, non abbiamo parlato del finder
+
+495
+00:32:30,480 --> 00:32:37,120
+queste tutte queste impostazioni di cui ho appena parlato sono del finder.
+
+496
+00:32:37,120 --> 00:32:38,800
+Il finder che cos'è?
+
+497
+00:32:38,800 --> 00:32:46,480
+È chiamiamolo così l'esplora risorse di macOS, cioè il sistema attraverso il
+
+498
+00:32:46,480 --> 00:32:50,400
+quale il programma attraverso il quale ovviamente possiamo accedere a tutti i
+
+499
+00:32:50,400 --> 00:32:54,800
+file e le cartelle contenute nel nostro computer.
+
+500
+00:32:54,800 --> 00:32:59,040
+Quindi il finder è il cuore, chiamiamolo così di macOS, nel senso
+
+501
+00:32:59,040 --> 00:33:03,920
+che in pratica è il modo base per accedere ai documenti, per
+
+502
+00:33:03,920 --> 00:33:08,400
+aprire i documenti e così via, è il punto di partenza praticamente
+
+503
+00:33:08,400 --> 00:33:08,880
+di tutti
+
+504
+00:33:10,480 --> 00:33:12,160
+gli utenti Mac.
+
+505
+00:33:12,160 --> 00:33:16,880
+E bisogna un minimo conoscerlo, perché effettivamente è ragionato in maniera molto
+
+506
+00:33:16,880 --> 00:33:19,760
+differente da Windows.
+
+507
+00:33:19,760 --> 00:33:21,440
+E quindi diamo due o tre
+
+508
+00:33:22,560 --> 00:33:23,760
+indirizzi di base.
+
+509
+00:33:23,760 --> 00:33:27,920
+Poi è ovvio che ognuno potrà approfondire perché effettivamente il finder è
+
+510
+00:33:27,920 --> 00:33:33,480
+uno strumento potente e veramente potremmo dedicare forse una puntata intera a
+
+511
+00:33:33,480 --> 00:33:38,360
+solo il finder, quindi non ha senso oggi esagerare.
+
+512
+00:33:38,360 --> 00:33:44,360
+Il finder di fatto è gestito in maniera totalmente diversa dall'esplorer risorse.
+
+513
+00:33:44,360 --> 00:33:49,640
+Perché, per esempio, sulla sinistra, dove in esplora risorse di Windows troviamo
+
+514
+00:33:49,640 --> 00:33:52,040
+gli hard disk, le periferiche e così via.
+
+515
+00:33:52,040 --> 00:33:54,920
+Nel finder invece abbiamo diciamo quelle
+
+516
+00:33:56,520 --> 00:34:03,400
+sulla barra di sinistra, chiamiamola così, abbiamo invece le risorse preferite, che
+
+517
+00:34:03,400 --> 00:34:04,760
+è una cosa totalmente diversa.
+
+518
+00:34:04,760 --> 00:34:10,520
+Cioè spesso e volentieri, qui troviamo tutta una serie di cose che
+
+519
+00:34:10,520 --> 00:34:12,680
+innanzitutto possiamo personalizzare.
+
+520
+00:34:12,680 --> 00:34:17,400
+Quindi adesso anche qui il finder può essere personalizzato in varie maniere.
+
+521
+00:34:17,400 --> 00:34:20,920
+Io vi racconto più o meno quello che dovrebbe essere la versione
+
+522
+00:34:20,920 --> 00:34:24,680
+base, anche se io ho fatto delle personalizzazioni e quindi non vi
+
+523
+00:34:24,680 --> 00:34:26,040
+posso garantire.
+
+524
+00:34:26,360 --> 00:34:32,120
+Troviamo subito Airdrop che apre chiudo una parentesi, ma è una delle
+
+525
+00:34:32,120 --> 00:34:38,120
+funzioni del mondo mela, chiamiamola così, più interessanti perché è il sistema
+
+526
+00:34:39,080 --> 00:34:43,240
+di passaggio dei file wireless
+
+527
+00:34:44,680 --> 00:34:45,560
+di Apple.
+
+528
+00:34:45,560 --> 00:34:49,720
+Ovviamente è proprietaria, quindi funziona solo con dispositivi Apple, che è il
+
+529
+00:34:49,720 --> 00:34:52,920
+grosso lato negativo di airdrop.
+
+530
+00:34:52,920 --> 00:34:59,640
+Però vi permette, in maniera veramente semplice di condividere documenti tra differenti
+
+531
+00:34:59,640 --> 00:35:02,680
+Mac senza avere nessun tipo di collegamento.
+
+532
+00:35:03,000 --> 00:35:09,320
+Addirittura credo, o devono essere sotto la stessa wifi, ma addirittura se
+
+533
+00:35:09,320 --> 00:35:12,520
+sono vicini se sono vicini, secondo me, c'è anche un modo di
+
+534
+00:35:12,520 --> 00:35:15,760
+farlo end-to-end, chiamiamola così.
+
+535
+00:35:14,920 --> 00:35:20,800
+Perché funziona su funziona anche su iOS e iPadOS.
+
+536
+00:35:21,200 --> 00:35:25,760
+Quindi l'altro vantaggio enorme è che se io devo trasferire dei file
+
+537
+00:35:25,760 --> 00:35:31,680
+da Mac ad iPhone o iPad, airdrop mi permette di fare queste
+
+538
+00:35:31,680 --> 00:35:37,120
+operazioni in maniera semplice, tra l'altro, appunto con un sistema di discovery,
+
+539
+00:35:37,120 --> 00:35:42,960
+cioè di riconoscimento di altri dispositivi nell'etere, molto molto intuitivo, e anche
+
+540
+00:35:42,960 --> 00:35:44,720
+qui attenzione, perché
+
+541
+00:35:46,000 --> 00:35:51,840
+se lasciate Airdrop troppo aperto, di fatto vi potrebbero vedere, vi potrebbero
+
+542
+00:35:51,840 --> 00:35:54,880
+quantomeno inviare documenti involontariamente.
+
+543
+00:35:55,520 --> 00:36:01,680
+Dovete sempre dare l'accettazione per riceverli però è sicuramente una funzione interessante.
+
+544
+00:36:01,680 --> 00:36:06,320
+Poi abbiamo i recenti file che sono stati utilizzati più di recente
+
+545
+00:36:06,400 --> 00:36:10,240
+quindi aperti recentemente o creati recentemente.
+
+546
+00:36:10,400 --> 00:36:14,800
+Anche qui molto comodo perché se non sappiamo dove abbiamo salvato una
+
+547
+00:36:14,800 --> 00:36:19,760
+cosa che abbiamo chiuso 5 minuti prima andando nei recenti, abitualmente la
+
+548
+00:36:19,760 --> 00:36:21,600
+si trova velocemente.
+
+549
+00:36:22,160 --> 00:36:23,520
+Ci sono le applicazioni.
+
+550
+00:36:23,680 --> 00:36:27,280
+Io devo dire la verità rispetto al come fa Roberto che ce
+
+551
+00:36:27,280 --> 00:36:32,960
+l'ha nel doc, se devo scegliere, vado in applicazioni nel finder per
+
+552
+00:36:32,960 --> 00:36:36,880
+cercarle, e non mi ricordo più qual è la scorciata tastiera, ma
+
+553
+00:36:36,880 --> 00:36:41,040
+adesso Roberto la troverà magicamente mentre io parlo.
+
+554
+00:36:42,720 --> 00:36:47,280
+C'è la cartella, ovviamente documenti, e poi c'è la possibilità di aggiungere
+
+555
+00:36:47,280 --> 00:36:50,560
+cartelle su cartelle senza nessun tipo di problema.
+
+556
+00:36:50,720 --> 00:36:54,240
+Questi sono i preferiti sostanzialmente.
+
+557
+00:36:54,240 --> 00:36:59,600
+Dopo, da due o tre versioni, abbiamo iCloud che ovviamente il sistema
+
+558
+00:36:59,960 --> 00:37:04,920
+cloud di Apple, l'abbiamo già detto, con l'acquisto di un Mac o
+
+559
+00:37:04,920 --> 00:37:10,840
+di un iPhone, vi vengono dati gratuitamente 5 GB,
+
+560
+00:37:12,120 --> 00:37:14,120
+5 giga.
+
+561
+00:37:14,280 --> 00:37:16,040
+Cosa ci faccio con 5 giga?
+
+562
+00:37:16,040 --> 00:37:17,080
+Non ci faccio niente.
+
+563
+00:37:17,800 --> 00:37:25,880
+Esatto, abbiamo anche poi le posizioni, che sono sostanzialmente i dispositivi di
+
+564
+00:37:25,880 --> 00:37:30,280
+rete collegati alla stessa rete del nostro Mac che vi permette di
+
+565
+00:37:30,280 --> 00:37:36,200
+fatto di esplorare la rete e collegarvi con differenti dispositivi.
+
+566
+00:37:36,200 --> 00:37:40,440
+Anche qui ci sarebbe un mondo da dire quindi non entriamo nel
+
+567
+00:37:40,440 --> 00:37:41,560
+dettaglio.
+
+568
+00:37:41,960 --> 00:37:49,640
+In pratica, macOS comunque è compatibile col protocollo di rete di Microsoft
+
+569
+00:37:49,640 --> 00:37:56,440
+che Samba, e quindi ha la possibilità di dialogare anche con PC
+
+570
+00:37:56,440 --> 00:38:00,760
+Windows sotto la stessa rete, senza troppe difficoltà.
+
+571
+00:38:00,760 --> 00:38:04,920
+Ovviamente, in base a come avete configurato il PC Windows, vi richiedà
+
+572
+00:38:04,920 --> 00:38:07,800
+una password, un utente e così via.
+
+573
+00:38:07,800 --> 00:38:11,640
+Però, una volta risolti quei problemi, diciamo,
+
+574
+00:38:12,840 --> 00:38:15,560
+potete collegare a hard disk
+
+575
+00:38:17,160 --> 00:38:21,320
+di PC senza problemi, o di un server o di un NAS
+
+576
+00:38:21,640 --> 00:38:22,840
+e potete gestirli.
+
+577
+00:38:22,920 --> 00:38:27,640
+Infine abbiamo i tag, una cosa che io non utilizzo quasi mai,
+
+578
+00:38:27,960 --> 00:38:33,160
+però è utile perché il tag vi permette di avere di
+
+579
+00:38:35,240 --> 00:38:37,720
+fatto categorizzare i vostri file.
+
+580
+00:38:37,720 --> 00:38:41,960
+Lo stesso file, per esempio, può avere due tag differenti e quindi
+
+581
+00:38:41,960 --> 00:38:47,200
+può essere trovato all'interno di due insiemi differenti di documenti.
+
+582
+00:38:47,440 --> 00:38:53,680
+Quindi può diventare comodo in certe situazioni, ammetto io l'approccio su divisione
+
+583
+00:38:53,680 --> 00:38:57,200
+a cartella e struttura cartella della mia archiviazione.
+
+584
+00:38:57,200 --> 00:38:57,520
+Quindi
+
+585
+00:38:58,720 --> 00:39:03,120
+non sono un amante, non li uso di fatto, non è anche
+
+586
+00:39:03,280 --> 00:39:07,680
+un discorso di amare o non amare, proprio che non diventa comodo,
+
+587
+00:39:07,680 --> 00:39:10,720
+ma anche dal punto di vista di come gestisco il lavoro io.
+
+588
+00:39:11,200 --> 00:39:16,640
+Tendenzialmente ho delle cartelle legate alle pratiche che gestisco e quindi è
+
+589
+00:39:16,640 --> 00:39:20,080
+ovvio che i file relativi a una pratica finiscono in quella pratica
+
+590
+00:39:21,600 --> 00:39:25,840
+o sotto cartella di quella pratica, per cui la mia forma mentale
+
+591
+00:39:26,160 --> 00:39:31,200
+non è adatta a questo approccio, hai qualcosa da aggiungere?
+
+592
+00:39:31,360 --> 00:39:32,720
+Io invece sto cercando.
+
+593
+00:39:32,720 --> 00:39:37,280
+Sì, io stavo cercando appunto come si faceva ad aprire la cartella
+
+594
+00:39:37,280 --> 00:39:41,440
+applicazioni, ma non lo trovo e quindi lascerò il lavoro a te
+
+595
+00:39:43,120 --> 00:39:43,200
+.
+
+596
+00:39:43,440 --> 00:39:47,440
+Deve essere o comanda, no, comanda.
+
+597
+00:39:48,000 --> 00:39:52,560
+Il alta fa vedere, si, no,
+
+598
+00:39:54,960 --> 00:39:56,400
+no, aspetta, forse è così,
+
+599
+00:39:58,000 --> 00:39:59,360
+devo dirti la verità.
+
+600
+00:39:59,360 --> 00:40:01,760
+Mi ricordo che c'è un modo, ma
+
+601
+00:40:03,680 --> 00:40:04,720
+non me lo ricordo.
+
+602
+00:40:04,880 --> 00:40:06,240
+Adesso lo cercherei.
+
+603
+00:40:06,240 --> 00:40:08,000
+È una cosa che non utilizzo soltanto.
+
+604
+00:40:08,480 --> 00:40:12,240
+Allora, anche io devo dirti, con quanto spazio funziona più.
+
+605
+00:40:12,240 --> 00:40:17,280
+Esatto, io ho lo stesso principio di funzionamento.
+
+606
+00:40:17,280 --> 00:40:20,400
+Tuttavia, però devo dire la verità: ho scoperto che alcuni facendo un
+
+607
+00:40:20,400 --> 00:40:23,120
+po' di ricerche per la puntata di oggi, è una di quelle
+
+608
+00:40:23,200 --> 00:40:24,400
+scorciatoie a tastiere.
+
+609
+00:40:24,400 --> 00:40:24,800
+Che anch'io
+
+610
+00:40:26,240 --> 00:40:29,720
+so che esiste, ma non me la ricordo perché non la uso,
+
+611
+00:40:29,720 --> 00:40:35,880
+però viene spesso citata e quindi mi sembrava corretto dirlo perché casomai
+
+612
+00:40:36,040 --> 00:40:42,040
+qualcuno lo può trovare comodo di andare nella catenelle applicazioni direttamente.
+
+613
+00:40:42,680 --> 00:40:48,200
+E gestire così la nostra cosa, nella barra alta, chiamiamola così,
+
+614
+00:40:49,960 --> 00:40:53,320
+del finder abbiamo le visualizzazioni.
+
+615
+00:40:53,560 --> 00:40:57,640
+Anche qui c'è la possibilità di modificarle con scorciato e tastiere.
+
+616
+00:40:57,640 --> 00:41:01,880
+Che spero siano command 1, comm 2, comm 3, command 4.
+
+617
+00:41:01,960 --> 00:41:06,360
+Ok, queste l'ho provate in diretta mentre te lo dicevo, per essere
+
+618
+00:41:06,520 --> 00:41:09,800
+sicuro di non dire delle castronerie,
+
+619
+00:41:11,320 --> 00:41:17,400
+questa barra è personalizzabile quindi, se andate su una di queste, schiacciate
+
+620
+00:41:17,400 --> 00:41:21,560
+tasto destro e personalizza barra degli strumenti quindi si chiama barra degli
+
+621
+00:41:21,560 --> 00:41:29,400
+strumenti, comparirà un'ulteriore finestra con varie possibilità di personalizzazione.
+
+622
+00:41:29,400 --> 00:41:34,040
+Una cosa che segnalo perché anch'io io non la uso, però anche
+
+623
+00:41:34,040 --> 00:41:40,360
+qui mentre facevo le mie ricerche per questa puntata, in vari video
+
+624
+00:41:40,520 --> 00:41:45,160
+è emerso, potete trascinare se utilizzate un'applicazione molto spesso e se la
+
+625
+00:41:45,160 --> 00:41:50,120
+utilizzate nel finder: o comunque vi serve mentre avete una finestra del
+
+626
+00:41:50,120 --> 00:41:54,360
+finder aperta, potete trascinare direttamente in questa
+
+627
+00:41:55,560 --> 00:42:02,520
+nella barra degli strumenti un'applicazione e cliccandoci sopra, ovviamente vi apre quell'applicazione.
+
+628
+00:42:02,920 --> 00:42:11,240
+C'è abitualmente nella barra standard, chiamiamola così, c'è l'opzione, la rotella, chiamiamola,
+
+629
+00:42:11,560 --> 00:42:16,480
+per aprire un nuovo pannello perché il finder ha la possibilità di
+
+630
+00:42:16,480 --> 00:42:20,880
+aprire più cartelle in pannelle differenti e quindi avere un'unica finestra del
+
+631
+00:42:20,880 --> 00:42:26,320
+finder, ma con più cartelle aperte contemporaneamente e questa è una cosa
+
+632
+00:42:26,320 --> 00:42:31,040
+che io faccio spessissimo e se non mi ricordo male, anche la
+
+633
+00:42:31,040 --> 00:42:34,400
+scorciatoia da tastiera, solo anche scorciatoia tastiera che
+
+634
+00:42:35,680 --> 00:42:39,120
+ho cercato per una mia macro che CTRL command
+
+635
+00:42:40,240 --> 00:42:45,920
+ra laterale CTRL command, barra laterale CTRL, command O e te la apri
+
+636
+00:42:45,920 --> 00:42:49,200
+in diretta la cartella selezionata.
+
+637
+00:42:49,440 --> 00:42:52,240
+Se ne selezioni, ma la mia è pagata
+
+638
+00:42:53,760 --> 00:42:55,440
+la mia è totalmente a tastiera.
+
+639
+00:42:55,440 --> 00:42:56,240
+La tua invece
+
+640
+00:42:58,000 --> 00:42:59,360
+devi fare col mouse.
+
+641
+00:42:59,360 --> 00:43:04,960
+Io sono un credente della tastiera, Filippo.
+
+642
+00:43:04,960 --> 00:43:07,440
+Prima o poi ti converto anch'io al mouse.
+
+643
+00:43:08,640 --> 00:43:11,440
+No, no, non è possibile.
+
+644
+00:43:12,000 --> 00:43:16,000
+Ero indeciso se togliere addirittura il Magic Trackpad e andare solo di
+
+645
+00:43:16,000 --> 00:43:18,560
+tastiera, però effettivamente è troppo comodo.
+
+646
+00:43:18,560 --> 00:43:23,360
+Sempre rimanendo sulle nostre cose, tra l'altro c'è la possibilità ovviamente di
+
+647
+00:43:23,360 --> 00:43:24,560
+creare le cartelle.
+
+648
+00:43:25,040 --> 00:43:30,320
+Command Shift, adesso per chi ci sta ascoltando, ovviamente diamo sembra che
+
+649
+00:43:30,320 --> 00:43:35,440
+diamo i numeri, ma ve lo ripeto: appena iniziate a diventare
+
+650
+00:43:36,720 --> 00:43:41,280
+pratici del Mac, vi renderete conto che imparare pian pianino, perché ovviamente
+
+651
+00:43:41,280 --> 00:43:46,400
+non potete ricordarvi tutte le scorciatoie a tastiera a memoria fin dall'inizio,
+
+652
+00:43:46,400 --> 00:43:51,520
+ma una volta che vi entrano nella memoria muscolare delle dita, sostanzialmente.
+
+653
+00:43:51,520 --> 00:43:56,400
+Vi troverete a muovervi molto molto più rapidamente con questa scorciatoia.
+
+654
+00:43:56,400 --> 00:44:01,880
+Quindi anche se sembra un po' qualcosa di inusuale, ve ne parliamo
+
+655
+00:44:01,880 --> 00:44:07,240
+proprio perché se io che Roberto le utilizziamo quotidianamente e sono diventate
+
+656
+00:44:07,400 --> 00:44:12,840
+strumenti per velocizzare il lavoro e l'accesso a documenti
+
+657
+00:44:14,600 --> 00:44:18,120
+in maniera quotidiana, assolutamente sì.
+
+658
+00:44:18,120 --> 00:44:22,120
+La tastiera è una manna, soprattutto con le scorciatoie.
+
+659
+00:44:22,120 --> 00:44:25,960
+All'inizio mi ricordo che non ne ricordavo nemmeno una, poi, piano piano,
+
+660
+00:44:25,960 --> 00:44:30,920
+ascoltando podcast, vedendo filmati, guardando guide, alla fine ti rimangono tra le
+
+661
+00:44:30,920 --> 00:44:35,000
+dita, e in effetti il lavoro viaggia decisamente più veloce facendo la
+
+662
+00:44:35,000 --> 00:44:35,560
+tastiera.
+
+663
+00:44:35,560 --> 00:44:36,040
+Addirittura
+
+664
+00:44:37,160 --> 00:44:43,960
+, diciamo che per un utente novizio, l'utente che utilizza in maniera massiccia
+
+665
+00:44:43,960 --> 00:44:50,680
+la tastiera per muoversi attraverso l'interfaccia, sembra veramente la hacker
+
+666
+00:44:52,200 --> 00:44:52,920
+dei film.
+
+667
+00:44:53,080 --> 00:44:57,160
+Tuttavia, una volta che si è padroneggiata
+
+668
+00:44:58,280 --> 00:45:03,880
+l'utilizzo, è veramente una cosa naturale e devo dire la verità.
+
+669
+00:45:04,440 --> 00:45:07,400
+Pian pianino, una scorciatoia a tastiera alla volta.
+
+670
+00:45:07,560 --> 00:45:13,240
+Non vi fossilizzate su imparare a memoria 10 scorciatoie, ma semplicemente un
+
+671
+00:45:13,240 --> 00:45:17,400
+po' alla volta aggiungete al vostro bagaglio le cose che vi servono
+
+672
+00:45:17,480 --> 00:45:21,240
+poi perché casomai, io non mi ricordo la scorciatoia a tastiera per
+
+673
+00:45:21,240 --> 00:45:24,360
+le applicazioni, perché io non la uso nella sostanza.
+
+674
+00:45:25,320 --> 00:45:32,520
+Come invece comando spazio è una seconda natura, anziché sui Mac che
+
+675
+00:45:32,520 --> 00:45:36,840
+non è abilitato, perché il mio collega non ce l'ha abilitato, non
+
+676
+00:45:36,840 --> 00:45:40,960
+dirmi perché, ogni volta che lo faccio per aprire un'applicazione, dico: ma
+
+677
+00:45:40,920 --> 00:45:41,880
+perché non funziona?
+
+678
+00:45:41,960 --> 00:45:43,640
+Poi mi ricordo.
+
+679
+00:45:43,280 --> 00:45:44,680
+È vero,
+
+680
+00:45:44,680 --> 00:45:48,160
+ha un'altra scorciatoia appena installato.
+
+681
+00:45:48,400 --> 00:45:51,360
+No, allora, adesso nelle ultime versioni è quella
+
+682
+00:45:52,720 --> 00:45:54,400
+comando spazio.
+
+683
+00:45:54,720 --> 00:45:58,560
+Tant'è vero che io, per esempio, con l'Aunch bar vado a sovrascriverla
+
+684
+00:45:58,640 --> 00:46:00,960
+perché, se no, non funziona.
+
+685
+00:46:01,200 --> 00:46:04,240
+Tuttavia, il collega credo che abbia ancora serra.
+
+686
+00:46:04,240 --> 00:46:06,320
+Non so per quale ragione,
+
+687
+00:46:08,240 --> 00:46:10,960
+non ce l'ha impostata correttamente, perché
+
+688
+00:46:12,400 --> 00:46:16,080
+adesso finiamo il finder, poi parliamo anche delle preferenze di sistema, che
+
+689
+00:46:16,080 --> 00:46:19,040
+è l'altra cosa fondamentale di cui bisogna che parliamo.
+
+690
+00:46:19,360 --> 00:46:25,120
+L'ultima cosa da dire sul finder: ovviamente, nella parte principale troviamo i
+
+691
+00:46:25,120 --> 00:46:28,640
+file, quello che ci servono: i file e le cartelle, ovviamente.
+
+692
+00:46:28,960 --> 00:46:34,960
+Abbiamo detto che ci sono quattro modalità di visualizzazione dei file: quella
+
+693
+00:46:34,960 --> 00:46:41,040
+di icone, quella a lista, che personalmente è quella che amo, ma
+
+694
+00:46:41,680 --> 00:46:45,360
+anche qui: The Gustibus, e poi quella colonna.
+
+695
+00:46:45,440 --> 00:46:50,320
+Quella colonna, devo dire la verità, io non la uso praticamente, però
+
+696
+00:46:50,320 --> 00:46:56,880
+ammetto che probabilmente dovrei utilizzarla di più perché in questo caso, utilizzando
+
+697
+00:46:56,880 --> 00:47:04,720
+le frecce, è possibile muoversi direttamente a tastiera attraverso la gerarchia delle
+
+698
+00:47:04,720 --> 00:47:11,360
+cartelle, e ovviamente, una volta che ci siamosi fino all'ultima, diciamo al
+
+699
+00:47:11,360 --> 00:47:13,280
+file che vogliamo vedere,
+
+700
+00:47:15,440 --> 00:47:20,960
+sulla colonna di destra vedremo invece una sorta di anteprima con eventualmente
+
+701
+00:47:20,960 --> 00:47:26,160
+delle azioni se presenti per lavorare il file, quindi è molto utile.
+
+702
+00:47:26,160 --> 00:47:28,960
+La quarta, io infatti uso sempre questa infatti.
+
+703
+00:47:29,040 --> 00:47:30,360
+Immaginavo, proprio
+
+704
+00:47:31,080 --> 00:47:35,240
+col fatto che tendenzialmente pannelli e le cartelle aperte nei vari pannelli
+
+705
+00:47:35,400 --> 00:47:38,040
+mi sposto eventualmente nei vari pannelli,
+
+706
+00:47:39,800 --> 00:47:44,440
+se ho bisogno di quattro cartelle aperte per gestire, per esempio una
+
+707
+00:47:44,440 --> 00:47:48,840
+pratica, ce li ho tutti nei vari pannelli nella stessa finestra del
+
+708
+00:47:48,840 --> 00:47:51,400
+finder e mi muovo tra i vari pannelli.
+
+709
+00:47:51,400 --> 00:47:51,720
+Quindi
+
+710
+00:47:53,000 --> 00:47:56,520
+non mi capita spesso di fare così.
+
+711
+00:47:56,520 --> 00:48:00,760
+Ah, ecco, se ci sono le cartelle di fianco alle cartelle abitualmente,
+
+712
+00:48:00,760 --> 00:48:07,160
+nella modalità a lista, chiamiamola così, trovate una freccia di fianco alla
+
+713
+00:48:07,160 --> 00:48:12,920
+cartella su cui un triangolo a punta che punta verso la cartella.
+
+714
+00:48:12,920 --> 00:48:16,840
+Se ci cliccate sopra, punterà verso il basso e vi farà vedere
+
+715
+00:48:16,840 --> 00:48:19,960
+le sottocartelle o i file contenuti all'interno.
+
+716
+00:48:19,960 --> 00:48:25,080
+Quindi anche qui se ho bisogno di entrare nella gerarchia cartella
+
+717
+00:48:26,680 --> 00:48:31,880
+dei vari documenti che ho, spesso e volentieri io utilizzo questo sistema.
+
+718
+00:48:32,120 --> 00:48:38,280
+Anche qui, ovviamente, si può utilizzare le frecce per cui su e
+
+719
+00:48:38,280 --> 00:48:41,880
+giù vi permette di andare avanti e indietro, su e giù dai
+
+720
+00:48:41,880 --> 00:48:48,680
+documenti o dalle cartelle, tasto freccia a destra per aprire la sottocartella
+
+721
+00:48:52,040 --> 00:48:59,560
+su cui si è e per chiuderla invece tasto freccia a sinistra.
+
+722
+00:48:59,560 --> 00:49:04,520
+Quindi se volete, oggi siamo in fase scorcciato alla tastiera manetta, lo
+
+723
+00:49:04,520 --> 00:49:10,440
+sapevo quando parto non smetto, ma vabbè, fa lo stesso, ne riparleremo
+
+724
+00:49:10,680 --> 00:49:11,520
+esatto.
+
+725
+00:49:11,520 --> 00:49:14,600
+Ovviamente, anche il finder ha le sue preferenze.
+
+726
+00:49:14,800 --> 00:49:20,880
+Ecco, altra cosa: aspetta, aspetta, ti sei dimenticato il quarto pulsantino che
+
+727
+00:49:20,880 --> 00:49:25,280
+secondo me è molto inutile, soprattutto per chi lavora con le immagini,
+
+728
+00:49:26,160 --> 00:49:32,320
+perché ti permette di visualizzare tutte le immagini in una comoda, chiamiamola
+
+729
+00:49:32,320 --> 00:49:35,920
+così, visualizzazione che permette, appunto non solo le immagini, ma anche le
+
+730
+00:49:35,920 --> 00:49:37,520
+cartelle, i file discorrendo.
+
+731
+00:49:37,520 --> 00:49:43,520
+Esatto, i documenti vengono visualizzati anche i documenti con l'anteprima sostanzialmente esatto.
+
+732
+00:49:43,520 --> 00:49:49,440
+È un po' come avete un piccolo desktop in una cartella dove
+
+733
+00:49:49,440 --> 00:49:53,120
+voi avete in basso una specie di doc dove potete vedere tutta
+
+734
+00:49:53,120 --> 00:49:56,800
+la gerarchia delle cartelle, ma la cosa interessante è che potete vedere
+
+735
+00:49:56,800 --> 00:50:02,080
+l'immagine nella sua dimensione, soprattutto se la mettete a tutto schermo, avete
+
+736
+00:50:02,080 --> 00:50:06,720
+la possibilità di fare una visione molto veloce e molto chiara di
+
+737
+00:50:06,720 --> 00:50:12,640
+quello che c'è all'interno della cartella perché è a tutto schermo ed
+
+738
+00:50:12,640 --> 00:50:18,080
+è visibile anche tutti i documenti, quindi una interessante possibilità offerta dal
+
+739
+00:50:18,080 --> 00:50:22,320
+Finder che non è da sottovalutare soprattutto per chi lavora con le
+
+740
+00:50:22,320 --> 00:50:23,280
+immagini.
+
+741
+00:50:23,600 --> 00:50:28,480
+Io, soprattutto nelle cartelle con le immagini, utilizzo questa visualizzazione perché mi
+
+742
+00:50:28,480 --> 00:50:30,800
+ci trova davvero bene, ci navigo.
+
+743
+00:50:30,960 --> 00:50:36,160
+Poi la cosa interessante è che potete anche fare delle piccole modifiche,
+
+744
+00:50:36,160 --> 00:50:41,040
+ma queste ne parleremo poi in una seconda botta, diciamo così, perché
+
+745
+00:50:41,920 --> 00:50:45,360
+ce ne sono tante di cose che potete fare con il sistema
+
+746
+00:50:45,360 --> 00:50:47,440
+operativo di Apple.
+
+747
+00:50:47,440 --> 00:50:52,720
+Esatto, a questo punto chiudiamo la vicenda Finder dicendo solo una cosa
+
+748
+00:50:52,960 --> 00:50:59,480
+breve e veloce, spero, ovvero in tutte le applicazioni a livello standard,
+
+749
+00:50:59,360 --> 00:51:02,360
+Apple dà delle indicazioni specifiche.
+
+750
+00:51:02,600 --> 00:51:08,440
+Quindi se utilizziamo la scacciata tastiera comando virgola, ci troviamo nelle preferenze.
+
+751
+00:51:08,440 --> 00:51:16,200
+Nel caso specifico del finder abbiamo varie possibilità di personalizzare il finder
+
+752
+00:51:16,840 --> 00:51:24,360
+e alcune sono interessanti e ve volevo citare velocemente.
+
+753
+00:51:24,360 --> 00:51:29,720
+Di base non sono abilitate nelle preferenze del finder in generale.
+
+754
+00:51:29,720 --> 00:51:34,920
+I dischi e i dischi esterni, vabbè, CD e DVD, quello interessa
+
+755
+00:51:35,000 --> 00:51:35,960
+ormai poco.
+
+756
+00:51:35,960 --> 00:51:37,400
+E i server connessi.
+
+757
+00:51:37,400 --> 00:51:43,800
+Io abitualmente abilito tutto perché altrimenti non vedete, diciamo, sulla scrivania
+
+758
+00:51:45,400 --> 00:51:48,680
+questi dischi esterni sostanzialmente, ma
+
+759
+00:51:49,960 --> 00:51:55,640
+potete accedervi esclusivamente appunto dal finder nella relativa sezione.
+
+760
+00:51:55,640 --> 00:51:57,720
+Quindi questo lo abilito sempre.
+
+761
+00:51:58,040 --> 00:52:03,080
+L'altra cosa, è la scelta di dove aprire una nuova finestra del
+
+762
+00:52:03,080 --> 00:52:03,640
+finder.
+
+763
+00:52:03,640 --> 00:52:11,880
+Abitualmente io uso il Macintosh HD, cioè l'hard disk del Macintosh, ma
+
+764
+00:52:11,880 --> 00:52:13,640
+lì si può scegliere.
+
+765
+00:52:14,680 --> 00:52:19,320
+Ad esempio, documenti, tu vai sempre nei documenti ecco, io per esempio,
+
+766
+00:52:19,880 --> 00:52:23,800
+utilizzando un sistema diverso di gestione, abitualmente in documenti non ci sono
+
+767
+00:52:23,800 --> 00:52:25,880
+i miei documenti, quindi non mi interessa.
+
+768
+00:52:26,920 --> 00:52:31,640
+C'è la possibilità ovviamente di fare delle scelte di selezionare dei
+
+769
+00:52:32,920 --> 00:52:38,360
+preset dei preferiti nella barra laterale del finder, e volevo anche dire
+
+770
+00:52:38,360 --> 00:52:39,960
+un'altra cosa che non trovo più.
+
+771
+00:52:39,960 --> 00:52:45,200
+Quindi, ah, ecco, l'altra cosa che io cambio in continuazione su tutti
+
+772
+00:52:45,200 --> 00:52:52,080
+i meck che possiedo, è la funzione di ricerca.
+
+773
+00:52:52,080 --> 00:52:54,080
+Che anche a questo punto possiamo fare
+
+774
+00:52:55,680 --> 00:52:59,440
+una ulteriore piccola postilla a quello che abbiamo già detto.
+
+775
+00:53:02,480 --> 00:53:07,280
+Nella barra di strumenti, tutto sulla destra, trovate una lente ingrandimento con
+
+776
+00:53:07,280 --> 00:53:13,040
+il fianco scritto cerca che vi permette di fare la ricerca all'interno
+
+777
+00:53:13,040 --> 00:53:18,160
+delle cartelle del vostro hard disk su macOS, ovviamente.
+
+778
+00:53:18,400 --> 00:53:24,480
+Impostazione di base è di fare la ricerca su tutto l'hard disk.
+
+779
+00:53:24,480 --> 00:53:28,400
+Quindi quando vi viene in mente dove ho messo quel file, se
+
+780
+00:53:28,400 --> 00:53:33,840
+digitate il nome del file, per esempio, potenzialmente il vostro Mac va
+
+781
+00:53:33,840 --> 00:53:36,080
+a cercarlo su tutto il vostro hard disk.
+
+782
+00:53:36,080 --> 00:53:36,800
+Personalmente
+
+783
+00:53:38,080 --> 00:53:42,400
+lo ritengo abbastanza inutile perché abitualmente cosa succede?
+
+784
+00:53:42,400 --> 00:53:47,200
+Solo in una cartella, eventualmente il file so che è all'interno della
+
+785
+00:53:47,200 --> 00:53:51,600
+cartella, se ce ne sono tanti, o in una sottocartella di quella
+
+786
+00:53:51,600 --> 00:53:57,920
+cartella, per cui io modifico le impostazioni per fare la ricerca non
+
+787
+00:53:57,920 --> 00:54:03,120
+nelle avanzate, vado in quando esegue una ricerca cerca nella cartella attuale,
+
+788
+00:54:03,120 --> 00:54:08,880
+al contrario, se no, c'è cerca in questo Mac, che è quella
+
+789
+00:54:09,040 --> 00:54:15,440
+prestabilita, chiamiamola così, di default di Apple, e ritengo che sia più
+
+790
+00:54:15,440 --> 00:54:16,720
+comodo in questa maniera.
+
+791
+00:54:16,720 --> 00:54:20,800
+Proprio perché abitualmente se è già in un posto specifico, se è
+
+792
+00:54:20,800 --> 00:54:24,640
+già aperta una cartella specifica e si sta cercando qualcosa che si
+
+793
+00:54:24,640 --> 00:54:28,560
+sa essere in quel posto o comunque nelle vicinanze, chiamiamola così.
+
+794
+00:54:28,560 --> 00:54:32,760
+Esattamente, anch'io ce l'ho impostata così e infatti consiglio a tutti quanti
+
+795
+00:54:29,920 --> 00:54:37,320
+di fare questo modo per cercare le cose all'interno del finder.
+
+796
+00:54:37,640 --> 00:54:41,320
+Altra cosa da aggiungere ne parlevi prima dei dischi esterni.
+
+797
+00:54:41,320 --> 00:54:46,280
+Come facciamo a buttare fuori dal nostro hardware Mac un hard disk
+
+798
+00:54:46,520 --> 00:54:47,080
+esterno?
+
+799
+00:54:47,080 --> 00:54:50,840
+Semplic si prende l'icona e la si sbatte sul cestino.
+
+800
+00:54:50,840 --> 00:54:55,880
+Questo qui è il metodo che utilizza il Macintosh per smontare le
+
+801
+00:54:55,880 --> 00:55:00,520
+chiavette o gli hard disk esterni, a differenza di Windows, che invece
+
+802
+00:55:00,520 --> 00:55:03,720
+bisogna andare a cercare la rimozione sicura dell'hardware.
+
+803
+00:55:03,720 --> 00:55:05,240
+Questo è interessante.
+
+804
+00:55:05,240 --> 00:55:10,920
+Allora, devo dirti la verità, io non lo faccio così, ovviamente.
+
+805
+00:55:11,800 --> 00:55:15,800
+Tasto destro e spelli, ma siamo proprio vecchia vecchia scuola!
+
+806
+00:55:16,280 --> 00:55:19,640
+No, no, no, no, si fa così: si prende e si trascina.
+
+807
+00:55:19,720 --> 00:55:23,960
+No, poi tra le altre cose trascinare il cestino mi dà ansia,
+
+808
+00:55:23,960 --> 00:55:24,760
+tra l'altro.
+
+809
+00:55:24,840 --> 00:55:29,400
+Ma perché hai paura di buttarsi, ma no, si l'icona, ho capito,
+
+810
+00:55:29,400 --> 00:55:30,680
+ho capito, hai ragionissimo.
+
+811
+00:55:30,680 --> 00:55:35,080
+Tu sono d'accordo con te, ma devo dirti la verità, tasto destra,
+
+812
+00:55:35,240 --> 00:55:39,400
+e l'altro modo per farlo, è tasto destro, appunto si apre un
+
+813
+00:55:39,400 --> 00:55:40,600
+menu contestuale.
+
+814
+00:55:40,600 --> 00:55:43,400
+Tra cui credo che sia la
+
+815
+00:55:44,840 --> 00:55:48,680
+seconda o terza, opzioni,
+
+816
+00:55:51,720 --> 00:55:53,560
+a quel punto, lì, ovviamente.
+
+817
+00:55:53,960 --> 00:55:59,320
+Questa non l'ho mai utilizzata, buona saperla, io faccio sempre così, siamo
+
+818
+00:55:59,320 --> 00:56:00,840
+proprio complementari.
+
+819
+00:56:00,840 --> 00:56:04,760
+Al top, ognuno usa un po' il Macintosh.
+
+820
+00:56:04,760 --> 00:56:07,960
+La cosa bella del Macintosh è proprio che permette di utilizzarlo in
+
+821
+00:56:07,960 --> 00:56:09,000
+modi diversi.
+
+822
+00:56:09,320 --> 00:56:13,080
+Si adatta facilmente al proprio stile di produttività.
+
+823
+00:56:13,360 --> 00:56:17,120
+E altra parte di cui abbiamo già parlato all'inizio della puntata, è
+
+824
+00:56:17,120 --> 00:56:17,680
+time machine.
+
+825
+00:56:17,760 --> 00:56:21,200
+Ne abbiamo parlato anche nella scorsa puntata, direi che c'è poco da
+
+826
+00:56:21,200 --> 00:56:23,040
+aggiungere, se non da utilizzarla.
+
+827
+00:56:23,600 --> 00:56:32,000
+Stai andando avanti, dobbiamo recuperare un ulteriore punto grosso che va recuperato:
+
+828
+00:56:32,400 --> 00:56:38,400
+invece, le preferenze di sistema, che è l'altro, allora, time machine, giusto
+
+829
+00:56:38,560 --> 00:56:42,160
+per ne abbiamo parlato, si trova nelle preferenze di sistema.
+
+830
+00:56:42,240 --> 00:56:48,320
+Tra l'altro, le preferenze di sistema sono ecco forse, no, neanche, le
+
+831
+00:56:48,320 --> 00:56:49,280
+ho tolte via anche quelle.
+
+832
+00:56:49,280 --> 00:56:53,280
+Quindi, devo dire la verità: ho proprio tolto via qualsiasi icona,
+
+833
+00:56:54,320 --> 00:57:01,440
+comunque nelle icone di base che Apple già predispone sul dock, è
+
+834
+00:57:01,440 --> 00:57:08,720
+l'ultima, di fatto è molto simile alle impostazioni di iPhone e iPad,
+
+835
+00:57:08,720 --> 00:57:12,080
+quindi l'icona è quella delle rotelle
+
+836
+00:57:13,520 --> 00:57:19,520
+un'icona metallica, chiamiamola così: con delle rotelle, un ingranaggio, un ingranaggio.
+
+837
+00:57:19,520 --> 00:57:19,760
+Si.
+
+838
+00:57:21,040 --> 00:57:22,400
+Guardo, sì, c'è solo un ingranaggio,
+
+839
+00:57:23,440 --> 00:57:26,480
+ed è praticamente uguale sia su Mac che su
+
+840
+00:57:27,520 --> 00:57:30,080
+iPad, su i fondi, direi se vado adesso.
+
+841
+00:57:30,080 --> 00:57:30,960
+Vado a vedere.
+
+842
+00:57:30,960 --> 00:57:33,120
+Mi pare che abbia ancora due ingranaggi.
+
+843
+00:57:33,120 --> 00:57:33,920
+Quello del
+
+844
+00:57:35,040 --> 00:57:35,520
+no, allora
+
+845
+00:57:37,280 --> 00:57:42,560
+sono delle ruote degli ingranaggi, concentriche, ma sono da tutte e due
+
+846
+00:57:42,560 --> 00:57:43,280
+le parti almeno.
+
+847
+00:57:43,280 --> 00:57:47,040
+Io vedo Catalina perché ho Catalina.
+
+848
+00:57:47,520 --> 00:57:51,520
+L'icona è molto simile, non è uguale, ma è molto simile.
+
+849
+00:57:51,520 --> 00:57:57,600
+Chiamiamola così quindi e sono di fatto dove tutte adesso, ovviamente oggi
+
+850
+00:57:57,600 --> 00:58:02,360
+non riusciremo a entrare nel dettaglio, perché, se no, staremo qui ancora
+
+851
+00:58:02,920 --> 00:58:08,040
+un'ora a parlare delle preferenze di sistema di macOS.
+
+852
+00:58:08,360 --> 00:58:13,720
+Diciamo che qui trovate tutte le opzioni e sono veramente tante.
+
+853
+00:58:14,040 --> 00:58:21,960
+Per configurare anche in maniera molto dettagliata il vostro sistema operativo,
+
+854
+00:58:23,160 --> 00:58:29,240
+io direi di scorrere velocemente perché non ha senso eccedere.
+
+855
+00:58:29,240 --> 00:58:32,280
+No, ma si accede veramente pochissimo.
+
+856
+00:58:32,280 --> 00:58:36,680
+L'unica che bisogna un po' guardare per personalizzare il sistema operativo sono
+
+857
+00:58:36,680 --> 00:58:40,120
+i generali a scrivenere salva schermo o il doc essenzialmente.
+
+858
+00:58:40,120 --> 00:58:42,440
+Poi sicuramente bisogna fare un giro
+
+859
+00:58:45,160 --> 00:58:49,000
+nelle notifiche per quanto riguarda il sistema di notifiche.
+
+860
+00:58:49,160 --> 00:58:51,800
+Poi ci sarà ovviamente quando parleremo.
+
+861
+00:58:51,800 --> 00:58:53,640
+Scusa il TOCD.
+
+862
+00:58:53,720 --> 00:58:58,520
+Se avete un Mac con il TOCD mentale per metterla impronta che
+
+863
+00:58:58,520 --> 00:59:02,760
+funziona appunto nella stessa maniera, in pratica di un iPhone o di
+
+864
+00:59:02,760 --> 00:59:05,160
+un iPad con il sistema di Torch ID.
+
+865
+00:59:05,160 --> 00:59:08,120
+Quindi vi permette di sbloccare il vostro Mac
+
+866
+00:59:09,240 --> 00:59:12,280
+direttamente con l'impronta del dito.
+
+867
+00:59:12,280 --> 00:59:17,080
+Nel caso specifico invece del pollice, abitualmente si usa l'indice perché è
+
+868
+00:59:17,080 --> 00:59:18,760
+posizionato in maniera differente
+
+869
+00:59:20,120 --> 00:59:20,200
+.
+
+870
+00:59:20,200 --> 00:59:27,880
+L'altra cosa che bisogna sapere che esiste, mettiamola così, è sicurezza privacy,
+
+871
+00:59:27,880 --> 00:59:31,800
+perché qui lo dico fin da subito, anche se è un qualcosa
+
+872
+00:59:31,800 --> 00:59:36,520
+di un po' più avanzato, chiamiamolo in questa maniera, ci sono alcune
+
+873
+00:59:36,520 --> 00:59:42,440
+impostazioni di base da tenere presente per la sicurezza e la privacy.
+
+874
+00:59:42,440 --> 00:59:48,320
+Nelle generali, ovviamente trovate l'auto lock, chiamiamolo in questa maniera, cioè il
+
+875
+00:59:48,480 --> 00:59:53,840
+sistema per cui il computer vi richiede la password dopo tot minuti
+
+876
+00:59:54,800 --> 01:00:00,000
+di inattività o quando è stato attivato il salva schermo, e io
+
+877
+01:00:00,000 --> 01:00:03,360
+abitualmente credo che sia di default 5 minuti
+
+878
+01:00:05,120 --> 01:00:05,440
+esatto.
+
+879
+01:00:05,520 --> 01:00:10,160
+Quindi quando il Mac di fatto non ci lavora per 5 minuti,
+
+880
+01:00:10,160 --> 01:00:16,960
+automaticamente appena mi rimetto le mani sulla tastiera o muovo il mouse,
+
+881
+01:00:17,280 --> 01:00:18,720
+mi richiede la password.
+
+882
+01:00:18,880 --> 01:00:24,080
+Questo è sicuramente un sistema importante di sicurezza del vostro computer, l'altra
+
+883
+01:00:24,080 --> 01:00:25,760
+cosa, io ho messo
+
+884
+01:00:29,120 --> 01:00:29,280
+.
+
+885
+01:00:29,280 --> 01:00:30,880
+L'altra cosa è fare il volt.
+
+886
+01:00:31,120 --> 01:00:35,200
+Se usate un portatile, io lo consiglio anche se per il fisso.
+
+887
+01:00:35,200 --> 01:00:39,360
+Ma se usate un portatile, quindi, il vostro computer gira con voi
+
+888
+01:00:39,360 --> 01:00:46,240
+e potenzialmente può essere smarrito, perso o rubato, è importante garantire la
+
+889
+01:00:46,240 --> 01:00:52,240
+sicurezza dei vostri dati da accessi esterni e quindi attivare File Volt,
+
+890
+01:00:52,240 --> 01:00:58,320
+che inizialmente dava dei problemi, ma parliamo appunto dei primissimi sistemi MECO
+
+891
+01:00:59,680 --> 01:01:05,520
+macOS 10, perché poi adesso con Big Sur siamo all'11, quindi siamo
+
+892
+01:01:05,520 --> 01:01:06,080
+passati.
+
+893
+01:01:06,080 --> 01:01:11,040
+Diciamo, ma i primissimi quindi Snow Leopard, addirittura forse Leopard, aveva dei
+
+894
+01:01:11,040 --> 01:01:11,760
+problemi.
+
+895
+01:01:12,000 --> 01:01:16,720
+Attualmente, se avete un SSD, tra l'altro, non lo sentite e vi
+
+896
+01:01:16,720 --> 01:01:18,400
+garantisce,
+
+897
+01:01:20,000 --> 01:01:25,440
+nel caso di smarrimento o furto del vostro computer, di non lasciare
+
+898
+01:01:25,440 --> 01:01:30,000
+in mano a sconosciuti i dati sul vostro portatile, chiamiamolo così.
+
+899
+01:01:31,160 --> 01:01:36,920
+Io faccio questa operazione anche sul fisso, ma perché sono un po'
+
+900
+01:01:36,920 --> 01:01:42,440
+paranoico e la mia professione comunque richiede livelli di sicurezza maggiori per
+
+901
+01:01:42,440 --> 01:01:47,400
+i dati dei miei clienti, quindi ovviamente cerco di mantenere questa cosa.
+
+902
+01:01:47,800 --> 01:01:54,520
+Dopo abbiamo sempre nella sicurezza privacy un firewall integrato del Mac, io
+
+903
+01:01:54,520 --> 01:01:55,640
+devo dire la verità.
+
+904
+01:01:55,640 --> 01:02:02,040
+Siccome abitualmente sono dentro delle reti con già un firewall nativo che
+
+905
+01:02:02,040 --> 01:02:05,000
+mi divide da internet, non lo attivo.
+
+906
+01:02:05,000 --> 01:02:09,800
+Però, se si naviga, per esempio, in reti non protette e così
+
+907
+01:02:09,800 --> 01:02:11,880
+via, sicuramente un firewall è fondamentale.
+
+908
+01:02:11,880 --> 01:02:18,280
+Bisogna sapere che è presente e di attivarlo nei casi di necessità.
+
+909
+01:02:18,520 --> 01:02:24,040
+Poi l'ultimo tab, chiamiamolo così, è quello sulla privacy che ha una
+
+910
+01:02:24,200 --> 01:02:28,440
+quantità adesso di sottosezioni enormi.
+
+911
+01:02:28,760 --> 01:02:33,720
+Diciamo che qui dove se volete concedere l'utilizzo del microfono a determinate
+
+912
+01:02:33,720 --> 01:02:37,960
+applicazioni, dovete entrare però, entrare nel dettaglio di
+
+913
+01:02:39,320 --> 01:02:43,480
+queste funzioni, esula da questa prima scarlata
+
+914
+01:02:44,760 --> 01:02:45,080
+su
+
+915
+01:02:47,640 --> 01:02:52,120
+Mac, le altre due cose, anzi, tre cose, secondo me, che sono
+
+916
+01:02:52,120 --> 01:02:53,640
+fondamentali.
+
+917
+01:02:53,640 --> 01:02:58,360
+Sono gli aggiornamenti di software che adesso credo da non mi ricordo
+
+918
+01:02:58,360 --> 01:03:01,960
+più, sicuramente Moave, forse anche il sistema operativo.
+
+919
+01:03:01,960 --> 01:03:08,200
+Prima gli aggiornamenti software che prima si trovavano dalla mela, chiamiamola così,
+
+920
+01:03:08,760 --> 01:03:15,520
+sul pulsante della mela nella parte sinistra appunto della barra del menu,
+
+921
+01:03:15,520 --> 01:03:17,120
+adesso si trovano
+
+922
+01:03:14,840 --> 01:03:20,240
+nelle preferenze di sistema.
+
+923
+01:03:21,040 --> 01:03:25,440
+Qui, se volete tenere il vostro Mac aggiornato, è necessario per forza
+
+924
+01:03:26,640 --> 01:03:31,520
+sapere dove sono e poter abilitare queste funzioni.
+
+925
+01:03:32,960 --> 01:03:34,400
+Il tab rete
+
+926
+01:03:36,160 --> 01:03:38,640
+è una cosa un po' avanzata, chiamiamola così.
+
+927
+01:03:38,640 --> 01:03:40,720
+Tuttavia, se volete sapere gli indirizzi IP
+
+928
+01:03:41,920 --> 01:03:47,120
+del vostro Mac per collegarvi in remoto piuttosto che fare anche altre
+
+929
+01:03:47,120 --> 01:03:52,720
+cose, è necessario ovviamente accedere a queste impostazioni.
+
+930
+01:03:53,040 --> 01:03:58,640
+Anche qui può essere utile sapere che esiste, soprattutto se vivete in
+
+931
+01:03:58,640 --> 01:04:05,520
+un mondo ibrido, Windows e Mac, perché nelle avanzate delle impostazioni di
+
+932
+01:04:05,520 --> 01:04:11,280
+rete potete impostare il gruppo che abitualmente è necessario inserire il work
+
+933
+01:04:11,440 --> 01:04:11,840
+group.
+
+934
+01:04:11,840 --> 01:04:12,400
+Credo che sia.
+
+935
+01:04:12,560 --> 01:04:14,800
+Aspetta che vado a vedere perché io non ci sono più in
+
+936
+01:04:14,800 --> 01:04:17,040
+una rete di questo sistema.
+
+937
+01:04:17,040 --> 01:04:20,880
+Sì, il work group per i server Windows, cioè se avete una
+
+938
+01:04:20,880 --> 01:04:25,360
+rete interna con server Windows dovete andare nelle impostazioni avanzate
+
+939
+01:04:26,560 --> 01:04:32,160
+della rete per dare i comandi per accedere poi ai server Windows
+
+940
+01:04:32,400 --> 01:04:36,640
+che permettono di fare tutta una serie di cose che esulano dalla
+
+941
+01:04:36,640 --> 01:04:43,120
+nostra chiacchierata introduttiva, però, casomai per chi vive in un ambiente corporate
+
+942
+01:04:43,680 --> 01:04:47,520
+dove Windows comunque la fa da padrone è importante.
+
+943
+01:04:47,520 --> 01:04:50,960
+L'ultimo tab di cui voglio parlare: poi ce ne sarebbero tantissimi: c'è
+
+944
+01:04:51,040 --> 01:04:55,760
+Time Machine, ci sono appunto, tastiera, trackpad, mouse e i monitor che
+
+945
+01:04:55,760 --> 01:04:58,880
+non parliamo ne oggi perché, se no, impazziamo.
+
+946
+01:04:58,880 --> 01:05:01,000
+È quello delle stampate degli scanner.
+
+947
+01:05:01,320 --> 01:05:07,560
+Qui è il tab, diciamo, dove poter installare stampante e scanner e
+
+948
+01:05:07,560 --> 01:05:08,840
+direi di fermarci.
+
+949
+01:05:08,840 --> 01:05:15,080
+Poi, Roberto, se hai qualche considerazione aggiuntiva, direi che è stato più
+
+950
+01:05:15,480 --> 01:05:18,360
+che esauriente, direi che hai detto praticamente tutto.
+
+951
+01:05:18,360 --> 01:05:23,800
+Quindi non aggiungerei nient'altro perché, se no, anche la puntata diventa molto
+
+952
+01:05:23,800 --> 01:05:24,520
+lunga.
+
+953
+01:05:24,680 --> 01:05:29,000
+L'unica cosa che vi posso dire è che esiste al di fuori
+
+954
+01:05:29,640 --> 01:05:34,600
+delle preferenze di sistema un tasto magico che si chiama Command: se
+
+955
+01:05:34,600 --> 01:05:37,800
+non se non sbaglio, option, non mi ricordo mai, quello che vi
+
+956
+01:05:37,800 --> 01:05:42,840
+permette di fare bene o male, di vedere delle cose nuove del
+
+957
+01:05:42,840 --> 01:05:44,360
+vostro sistema operativo.
+
+958
+01:05:44,360 --> 01:05:45,480
+Ad esempio, se voi
+
+959
+01:05:47,080 --> 01:05:51,480
+il tasto opzione, voi cliccate col tasto, cliccate col tasto sinistro.
+
+960
+01:05:51,480 --> 01:05:56,360
+Opzione dove vi capita, potrebbe succedere delle cose nuove interessanti.
+
+961
+01:05:56,360 --> 01:06:00,040
+Vi lascio questa cosa da scoprire per i nuovi utenti, così vi
+
+962
+01:06:00,040 --> 01:06:03,000
+fate un po' le ossa di quello che può essere il vostro
+
+963
+01:06:03,000 --> 01:06:06,680
+nuovo sistema operativo preferito, esatto.
+
+964
+01:06:06,680 --> 01:06:09,320
+Direi che abbiamo il grosso, l'abbiamo detto.
+
+965
+01:06:09,320 --> 01:06:12,360
+Time Machine, voi che ne parliamo?
+
+966
+01:06:12,360 --> 01:06:17,400
+Perché poi abbiamo o ne riparleremo comunque di un'altra puntata dove parleremo
+
+967
+01:06:17,400 --> 01:06:20,840
+appunto del backup esatto, esatto.
+
+968
+01:06:20,840 --> 01:06:25,560
+L'altra cosa di cui volevo parlarvi: accennarvi brevemente.
+
+969
+01:06:25,720 --> 01:06:31,080
+Posto che appunto, se avete acquistato un nuovo Mac, avrete sicuramente Big
+
+970
+01:06:31,080 --> 01:06:37,800
+Sur, quindi l'ultimo sistema operativo mentre stiamo registrando questa puntata, ci sono
+
+971
+01:06:37,800 --> 01:06:42,600
+alcune cose da tenere presente, nel senso che sono state fatte alcune
+
+972
+01:06:43,080 --> 01:06:48,240
+modifiche di aspetto e di gestione, e quindi mi sembra giusto per
+
+973
+01:06:48,240 --> 01:06:53,360
+un nuovo utente che appunto deve familiarizzare, anche qui c'è una pagina
+
+974
+01:06:53,360 --> 01:06:58,240
+specifica della guida Apple su Big Sure e quindi sulle novità di
+
+975
+01:06:58,240 --> 01:06:59,200
+Big Sure.
+
+976
+01:06:59,200 --> 01:07:02,160
+Noi cercheremo di seguirle velocemente.
+
+977
+01:07:02,160 --> 01:07:07,280
+La cosa fondamentale che è stata ridisegnata e riorganizzata è quella che
+
+978
+01:07:07,280 --> 01:07:14,880
+viene chiamato centro di controllo, che di fatto ripropone in maniera simile
+
+979
+01:07:14,880 --> 01:07:19,120
+il centro di controllo di iOS e iPadOS.
+
+980
+01:07:19,120 --> 01:07:21,760
+Nella sostanza, il centro di controllo
+
+981
+01:07:23,200 --> 01:07:27,440
+raggruppa tutta una serie di sistemi.
+
+982
+01:07:27,440 --> 01:07:31,760
+WiFi Bluetooth, l'air d'abbiamo parlato.
+
+983
+01:07:31,760 --> 01:07:36,000
+La luminosità dello schermo, il volume.
+
+984
+01:07:37,520 --> 01:07:41,200
+Adesso non avendo big sur, faccio fatica a dirvi come si tira
+
+985
+01:07:41,200 --> 01:07:45,760
+fuori, ma c'è un'icona a posto, è con uno swipe con due
+
+986
+01:07:45,760 --> 01:07:50,400
+dita da due dita da fuori dal trackpad verso l'interno.
+
+987
+01:07:50,400 --> 01:07:51,840
+Ok, perfetto.
+
+988
+01:07:52,080 --> 01:07:57,040
+Vi permette ovviamente di accedere a questo pannello che è anche personalizzabile
+
+989
+01:07:57,280 --> 01:07:59,040
+da quello che mi ricordo.
+
+990
+01:07:59,520 --> 01:08:04,080
+E ovviamente, così come non abbiamo ancora parlato, ma ne parleremo.
+
+991
+01:08:04,080 --> 01:08:07,360
+Così come su iOS iPadOS, un
+
+992
+01:08:08,560 --> 01:08:15,600
+tap, diciamo, su questi rettangoli, su questi tile, queste mattonelle, diciamo, vi
+
+993
+01:08:15,600 --> 01:08:21,200
+permetterà di espandere la mattonella con delle funzioni aggiuntive nella sostanza, e
+
+994
+01:08:21,200 --> 01:08:26,080
+quindi vi permetterà poi di personalizzare tutta una serie di aspetti che
+
+995
+01:08:26,080 --> 01:08:29,240
+possono diventare utile e importante conoscere.
+
+996
+01:08:29,480 --> 01:08:32,760
+E questa è un'altra funzione che è già presente ma è stata
+
+997
+01:08:29,120 --> 01:08:34,200
+migliorata, devo dire la verità.
+
+998
+01:08:34,360 --> 01:08:39,640
+Avendo iniziato a utilizzare un po' Big Sure nei mesi scorsi per
+
+999
+01:08:39,640 --> 01:08:43,800
+fare un po' dei test e così via, il nuovo centro notifiche
+
+1000
+01:08:43,800 --> 01:08:50,040
+che è lo swipe, attualmente su Catalina, per esempio, è lo swipe
+
+1001
+01:08:50,360 --> 01:08:52,680
+da destra a sinistra dei margini
+
+1002
+01:08:53,960 --> 01:08:55,640
+del trackpad.
+
+1003
+01:08:55,800 --> 01:08:57,400
+Non vi so dire come si appare.
+
+1004
+01:08:57,400 --> 01:09:00,760
+Ah, no, e c'è l'icona apposta tutta a sinistra.
+
+1005
+01:09:00,760 --> 01:09:07,480
+Che potete cliccarci sopra: diciamo, sono dei puntini delle righe, trovate
+
+1006
+01:09:09,640 --> 01:09:10,200
+allora.
+
+1007
+01:09:10,200 --> 01:09:10,760
+Scusate.
+
+1008
+01:09:10,760 --> 01:09:13,240
+Allora, che io, per esempio, non ho in quel punto lì, ma
+
+1009
+01:09:13,240 --> 01:09:16,600
+perché ho personalizzato anche la barra del menu, ovviamente.
+
+1010
+01:09:20,280 --> 01:09:25,480
+Qui trovate, se fate lo swipe in basso, il Night Shift e
+
+1011
+01:09:25,480 --> 01:09:32,280
+il non disturbare, cioè, le funzioni, il Night Shift serve per ridurre
+
+1012
+01:09:32,280 --> 01:09:35,400
+i riflessi, la luce blu dello schermo.
+
+1013
+01:09:35,400 --> 01:09:37,080
+Quindi Apple ha implementato.
+
+1014
+01:09:37,080 --> 01:09:38,600
+Io utilizzavo prima
+
+1015
+01:09:39,720 --> 01:09:44,600
+un programma che si chiamava Flux, che serve, diciamo per
+
+1016
+01:09:45,720 --> 01:09:49,880
+ridurre le luci blu soprattutto alla sera, perché
+
+1017
+01:09:51,640 --> 01:09:56,200
+c'è studi scientifici, diciamo che la luce blu, che è quella naturale,
+
+1018
+01:09:56,200 --> 01:09:57,400
+chiamiamola così, che
+
+1019
+01:09:58,440 --> 01:10:02,760
+il nostro cervello associa alla luce solare e alla luce diurna,
+
+1020
+01:10:07,000 --> 01:10:11,000
+danneggia il ritmo circadiano del nostro sonno, e quindi
+
+1021
+01:10:13,240 --> 01:10:19,120
+alla sera, sostanzialmente, è opportuno avere invece le luci più calde, quindi
+
+1022
+01:10:19,120 --> 01:10:24,000
+più tendenti verso il rosso, proprio per ridurre
+
+1023
+01:10:25,600 --> 01:10:26,560
+questo stress
+
+1024
+01:10:28,480 --> 01:10:32,960
+non corretto, diciamo, e dormire meglio la notte in estrema sintesi.
+
+1025
+01:10:32,960 --> 01:10:35,760
+Quindi è una funzione, chiamiamola così, ergonomica.
+
+1026
+01:10:36,320 --> 01:10:44,240
+Nightshift è possibile configurarlo dal tramonto all'alba, almeno io faccio così, nella
+
+1027
+01:10:44,240 --> 01:10:44,960
+sostanza
+
+1028
+01:10:46,160 --> 01:10:53,920
+verso il tramonto, il vostro Mac aumenta le tinte rosse e riduce
+
+1029
+01:10:53,920 --> 01:11:00,160
+le tinte di colore blu, e questo sistema si interrompe nella sostanza
+
+1030
+01:11:00,160 --> 01:11:06,160
+con l'alba quindi utilizza l'orologio interno del computer per fare questa cosa.
+
+1031
+01:11:06,240 --> 01:11:11,200
+Poi il non disturbare, però è la stessa cosa, nel senso che
+
+1032
+01:11:11,520 --> 01:11:13,360
+blocca le notifiche
+
+1033
+01:11:14,480 --> 01:11:20,160
+di tutto il sistema operativo in determinati periodi o in determinate fasce
+
+1034
+01:11:20,160 --> 01:11:20,640
+orarie.
+
+1035
+01:11:20,640 --> 01:11:25,040
+Io, per esempio, credo dalle 7 di sera alle 8 del mattino
+
+1036
+01:11:25,040 --> 01:11:29,680
+o il non disturbare che si attiva automaticamente sia sui telefoni che
+
+1037
+01:11:30,320 --> 01:11:31,840
+sul Mac.
+
+1038
+01:11:31,840 --> 01:11:34,720
+Sì, sì, esattamente anche la stessa cosa,
+
+1039
+01:11:36,000 --> 01:11:40,240
+è molto interessante il non disturbare da attivare quando si sta lavorando
+
+1040
+01:11:40,240 --> 01:11:44,160
+in modo profondo, come piace definirlo Filippo.
+
+1041
+01:11:44,160 --> 01:11:48,640
+Il dipork, che vi permette di essere non distratti dal mondo, lo
+
+1042
+01:11:48,640 --> 01:11:51,600
+mettete sia sul cellulare che sul computer.
+
+1043
+01:11:51,600 --> 01:11:54,640
+Finalmente state un attimo in santa pace.
+
+1044
+01:11:54,640 --> 01:11:59,360
+Che chiaramente ha abbinato, magari al pomodoro, alla tecnica del pomodoro e
+
+1045
+01:11:59,360 --> 01:12:04,200
+la morte sua per essere più produttivi possibili in questo mondo digitale
+
+1046
+01:11:59,840 --> 01:12:07,240
+che ci sta cercando di saltare addosso anche quando siamo in bagno.
+
+1047
+01:12:07,320 --> 01:12:11,800
+Anzi, in bagno ci sono già, manca più pochi spazi in cui
+
+1048
+01:12:11,800 --> 01:12:14,440
+il digitale non sia ancora arrivato.
+
+1049
+01:12:14,440 --> 01:12:20,280
+Io direi, Filippo, che con questa bella frase, questa bella immagine, direi
+
+1050
+01:12:20,280 --> 01:12:24,760
+che possiamo concludere il podcast o la diretta video in base a
+
+1051
+01:12:24,760 --> 01:12:27,160
+dove ci state guardando o vedendo.
+
+1052
+01:12:27,160 --> 01:12:28,040
+Tuttavia, prima vi ricordo
+
+1053
+01:12:29,640 --> 01:12:33,800
+e sentendo, e vi ricordo, come sempre, però, di sostenerci un attimino,
+
+1054
+01:12:33,800 --> 01:12:37,640
+visto che io e Filippo vi diamo tutto il cuore e tutta
+
+1055
+01:12:37,640 --> 01:12:42,600
+la nostra professionalità possibile per aiutarvi a essere molto produttivi sul Mac.
+
+1056
+01:12:42,840 --> 01:12:46,280
+Quindi potete utilizzare il link affiliati che prima o poi avremo e
+
+1057
+01:12:46,280 --> 01:12:48,440
+vi metteremo nelle note dell'episodio.
+
+1058
+01:12:48,440 --> 01:12:52,360
+Dovevi farlo tu, io ti ricordo che devi farlo tu sai come
+
+1059
+01:12:53,240 --> 01:12:56,280
+le giornate sono difficili, sono lunghe.
+
+1060
+01:12:56,280 --> 01:13:00,120
+Il gatto mi ha mangiato le password della mail
+
+1061
+01:13:01,240 --> 01:13:03,160
+esattamente.
+
+1062
+01:13:04,360 --> 01:13:08,280
+Ma sai, i miei stanno divorziando, brutta storia, lo capisco,
+
+1063
+01:13:10,200 --> 01:13:13,560
+oppure possiamo fare anche un'altra cosa molto interessante.
+
+1064
+01:13:13,560 --> 01:13:16,280
+Che può essere per quanto guarda il podcast, quando ci sarà il
+
+1065
+01:13:16,280 --> 01:13:21,240
+feed, lasciare una bella recensione sui iTunes così, magari qualcuno in più
+
+1066
+01:13:21,240 --> 01:13:26,680
+ci conosce e ci vorrà conoscere meglio seguendo le nostre avventure col
+
+1067
+01:13:26,680 --> 01:13:29,160
+Mac nel mondo della professione.
+
+1068
+01:13:29,160 --> 01:13:30,280
+Oppure ci si può
+
+1069
+01:13:31,880 --> 01:13:33,640
+Mac e iscriversi.
+
+1070
+01:13:33,640 --> 01:13:36,760
+Stiamo parlando di iPad, immagino così a naso.
+
+1071
+01:13:36,760 --> 01:13:41,960
+Comunque anche iPad sta diventando interessante, soprattutto per quanto riguarda il disegno
+
+1072
+01:13:41,960 --> 01:13:44,600
+digitale, che è tutta una cosa, tutta una serie di cose da
+
+1073
+01:13:44,600 --> 01:13:46,560
+dire, ma le diremo a tempo debito.
+
+1074
+01:13:46,800 --> 01:13:52,000
+Ma voi, intanto, iscrivetevi tutti quanti al feed RSS del podcast oppure
+
+1075
+01:13:52,000 --> 01:13:58,480
+al feed di YouTube, premete la campanella per farvi subito avvertire quando
+
+1076
+01:13:58,480 --> 01:14:02,160
+andremo in diretta a raccontare tutte le nostre cose e tenervi un'ora
+
+1077
+01:14:02,160 --> 01:14:02,800
+di compagnia.
+
+1078
+01:14:02,800 --> 01:14:07,680
+Perché ormai pensavamo di fare una mezz'ora di puntata, ormai ne facciamo
+
+1079
+01:14:09,520 --> 01:14:14,000
+, e non c'è stato, non riusciamo a tirarla più giù di un'ora.
+
+1080
+01:14:14,000 --> 01:14:19,680
+Comunque, la cosa altra importante è condividere con gli amici o persone
+
+1081
+01:14:19,840 --> 01:14:25,200
+che potrebbero essere interessati a questo simpatico mondo, avevo una cosa da
+
+1082
+01:14:25,200 --> 01:14:28,160
+dire, ma me la sono già scordata mentre chiachi eravamo.
+
+1083
+01:14:28,160 --> 01:14:34,320
+Quindi, ah no, ecco comunicazione di servizio se vi interessa, non garantisco
+
+1084
+01:14:34,320 --> 01:14:35,280
+ancora nulla.
+
+1085
+01:14:35,280 --> 01:14:39,760
+Spero a fine febbraio dovremmo partire con il feed del podcast vero
+
+1086
+01:14:39,760 --> 01:14:40,240
+e proprio.
+
+1087
+01:14:40,240 --> 01:14:43,680
+Quindi se state ascoltando su YouTube, sappiate.
+
+1088
+01:14:43,840 --> 01:14:46,160
+Poi, ovviamente faremo una comunicazione
+
+1089
+01:14:47,280 --> 01:14:52,800
+nella prima puntata utile, diciamo, ma domani mattina
+
+1090
+01:14:54,960 --> 01:14:58,960
+ho già ritagliato, anzi, ho già messo lì due ore di tempo
+
+1091
+01:14:58,960 --> 01:15:08,160
+per gestire la parte tecnologica per creare il feed RSS del podcast.
+
+1092
+01:15:08,320 --> 01:15:12,640
+Quindi, se tutto va bene a stretto giro, devo fare l'editing delle
+
+1093
+01:15:12,640 --> 01:15:13,200
+puntate.
+
+1094
+01:15:13,200 --> 01:15:17,560
+Ma dopo pubblicheremo tutto quello che abbiamo pubblicato fino ad oggi, e
+
+1095
+01:15:17,560 --> 01:15:25,040
+poi l'idea di fondo, mia è venerdì, registriamo e lunedì mattina pubblichiamo
+
+1096
+01:15:25,200 --> 01:15:28,800
+invece, sul feed del podcast vero e proprio.
+
+1097
+01:15:28,800 --> 01:15:30,360
+Salvo varie eventuali,
+
+1098
+01:15:30,440 --> 01:15:37,000
+perché potrebbe capitare, ovviamente, perché tra famiglia, lavoro e tutto esatto, no,
+
+1099
+01:15:37,000 --> 01:15:39,880
+più che altro, sai cos'è per noi che altro?
+
+1100
+01:15:39,880 --> 01:15:41,320
+Perché poi ci diamo delle regole.
+
+1101
+01:15:41,320 --> 01:15:44,600
+Noi nessuno ce l'ha chiesta, e poi facciamo il due giorni e
+
+1102
+01:15:44,600 --> 01:15:49,880
+ci ammazziamo già, adesso che riusciamo, abbiamo fatto quattro settimane, quattro settimane
+
+1103
+01:15:50,040 --> 01:15:52,440
+abbiamo fatto perché questa è la terza puntata, abbiamo fatto anche la
+
+1104
+01:15:52,440 --> 01:15:58,120
+zero, quattro settimane di fila a registrare, io sono contentissimo e abbiamo
+
+1105
+01:15:58,120 --> 01:16:00,920
+superato gli standard che mi ero prefissato.
+
+1106
+01:16:00,920 --> 01:16:04,840
+Quindi sto impegnando a seguire i tuoi standard.
+
+1107
+01:16:04,840 --> 01:16:12,120
+Quindi va benissimo così ed ovviamente, tenendo tutti famiglia, avendo un'attività professionale
+
+1108
+01:16:12,200 --> 01:16:17,880
+comunque da mandare avanti in maniera prioritaria, cercheremo ovviamente di
+
+1109
+01:16:19,240 --> 01:16:25,000
+essere più puntuali e precisi possibili, ma ovviamente questa non
+
+1110
+01:16:26,040 --> 01:16:29,480
+è la nostra attività principale da cui mangiamo.
+
+1111
+01:16:29,480 --> 01:16:30,440
+Quindi bisogna anche
+
+1112
+01:16:32,200 --> 01:16:35,560
+a meno che non ci ricopriate di soldi.
+
+1113
+01:16:35,560 --> 01:16:39,400
+Dipende da voi, se ci volete fare diventare dei podcaster o dei
+
+1114
+01:16:40,200 --> 01:16:41,640
+youtuber famosi.
+
+1115
+01:16:41,640 --> 01:16:43,560
+Insomma, dipende solo da voi.
+
+1116
+01:16:43,560 --> 01:16:47,240
+Quindi se volete darci da mangiare così, per noi va anche bene.
+
+1117
+01:16:47,720 --> 01:16:49,320
+Sarebbe anche interessante, esatto.
+
+1118
+01:16:49,320 --> 01:16:49,640
+Esatto.
+
+1119
+01:16:49,720 --> 01:16:52,120
+Però diciamo per ora non è il nostro scopo.
+
+1120
+01:16:52,120 --> 01:16:56,680
+Ecco, mettiamola così bene, direi che a questo punto chiudo la diretta
+
+1121
+01:16:56,680 --> 01:16:58,280
+e salutiamo tutti.
+
+1122
+01:16:58,280 --> 01:16:59,320
+Alla prossima!

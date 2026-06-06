@@ -11,7 +11,7 @@ tags = ["shortcuts", "automazione", "note", "iphone", "ipad"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "1UG5rn2P36c"
   guest = "daniele-borghi"
 +++

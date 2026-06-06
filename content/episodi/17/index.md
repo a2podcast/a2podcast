@@ -11,13 +11,13 @@ tags = ["app", "apple", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "y387qcREUBU"
 +++
 
 > In questa puntata Roberto e Filippo approfondiscono l'utilizzo di Keynote l'applicazione gratuita di Apple per creare presentazioni.
 
-# note episodio
+## note episodio
 
 
 Link ed argomenti trattati in questa puntata: 

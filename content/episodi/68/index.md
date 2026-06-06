@@ -11,13 +11,13 @@ tags = ["ios", "ipados", "apple"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "kE-ZRN-31r4"
 +++
 
 > Roberto e Filippo parlano delle novità di iOS e iPadOS che usciranno dopo l’evento Apple del 12 Settembre.
 
-# Note dell’episodio
+## Note dell’episodio
 
 🚨Se vuoi il nostro commento (assieme a Daniele Borghi, Davide Gatti e Alex Racuglia) puoi guardare [qui il nostro video commento in diretta del Keynote](https://www.youtube.com/watch?v=Sz-0imAArBA&ab_channel=RuntimeRadio).🚨
 

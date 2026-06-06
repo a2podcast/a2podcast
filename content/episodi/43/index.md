@@ -11,7 +11,7 @@ tags = ["pkm", "produttivita", "note", "organizzazione"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "_zu2bcuBcaI"
 +++
 

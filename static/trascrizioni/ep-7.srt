@@ -1,0 +1,3583 @@
+1
+00:00:00,160 --> 00:00:05,360
+Benvenuti all'episodio 7 di A2 in cui scoprire come ottenere il massimo
+
+2
+00:00:05,360 --> 00:00:07,440
+della vostra tecnologia Apple.
+
+3
+00:00:07,440 --> 00:00:11,520
+Io sono Bianca Marin e sono la vostra ospite insieme all'amico Filippo
+
+4
+00:00:11,680 --> 00:00:15,280
+Strozzi, Roberto Marin, Andrea Strozzi.
+
+5
+00:00:15,600 --> 00:00:18,080
+Di cosa parliamo in questo episodio, Filippo?
+
+6
+00:00:18,480 --> 00:00:23,840
+Oggi puntata leggera, parliamo di come ottenere, come tenere in buono stato
+
+7
+00:00:24,000 --> 00:00:25,760
+il nostro Mac.
+
+8
+00:00:25,760 --> 00:00:29,600
+Questa è una puntata decisamente voluta da Roberto, quindi sarà lui a
+
+9
+00:00:29,600 --> 00:00:31,200
+condurre le danze.
+
+10
+00:00:31,200 --> 00:00:34,960
+E invece, io e Andrea, che anzi, Andrea, puoi salutare, saluta il
+
+11
+00:00:34,960 --> 00:00:35,600
+pubblico.
+
+12
+00:00:35,600 --> 00:00:37,280
+Ciao, sono Anastasti
+
+13
+00:00:38,800 --> 00:00:43,040
+grandissimo, grandissimo Andrea vai sii tutti noi.
+
+14
+00:00:43,280 --> 00:00:45,280
+Allora, Bianca, raccontaci un po'.
+
+15
+00:00:45,520 --> 00:00:49,200
+Stai utilizzando la tecnologia Apple per la tua DAD?
+
+16
+00:00:49,200 --> 00:00:52,240
+Dico bene, direi di sì.
+
+17
+00:00:52,240 --> 00:00:53,760
+E come ti trovi?
+
+18
+00:00:53,760 --> 00:00:55,280
+Molto bene, molto bene.
+
+19
+00:00:55,280 --> 00:00:57,360
+Cosa stai usando in questo momento?
+
+20
+00:00:57,600 --> 00:00:58,080
+We're
+
+21
+00:00:59,520 --> 00:01:04,080
+WeSchool ovviamente un'app dentro l'iPad, perfetto, ottimo!
+
+22
+00:01:04,080 --> 00:01:05,200
+E come ti sembra?
+
+23
+00:01:05,200 --> 00:01:07,680
+Sembra facile da utilizzare o è difficile?
+
+24
+00:01:07,680 --> 00:01:09,760
+No, direi che è abbastanza facile.
+
+25
+00:01:09,760 --> 00:01:13,040
+Ok, quindi possiamo dire che l'iPad è un ottimo strumento per lo
+
+26
+00:01:13,040 --> 00:01:14,000
+studio?
+
+27
+00:01:14,000 --> 00:01:15,440
+Sì, molto.
+
+28
+00:01:15,440 --> 00:01:17,680
+Ma lo usi anche per altro?
+
+29
+00:01:17,840 --> 00:01:23,120
+Ovviamente per guardare video, giocare, scrivere, disegnare.
+
+30
+00:01:23,120 --> 00:01:24,720
+Ho capito, molto interessante.
+
+31
+00:01:24,720 --> 00:01:27,680
+Ma allora a questo punto devi far passare la palla ad Andrea.
+
+32
+00:01:27,680 --> 00:01:32,480
+Andrea, ascolta un po', tu invece usi strumenti Apple per la tua
+
+33
+00:01:32,480 --> 00:01:32,960
+vita?
+
+34
+00:01:32,960 --> 00:01:33,440
+No!
+
+35
+00:01:33,680 --> 00:01:35,360
+Ma si che li usi?
+
+36
+00:01:35,600 --> 00:01:40,640
+Eh sì, li uso so perché devo andare in classe fare molti
+
+37
+00:01:40,640 --> 00:01:41,520
+compiti.
+
+38
+00:01:41,760 --> 00:01:43,840
+Ah già, parla del microfono.
+
+39
+00:01:44,240 --> 00:01:51,200
+Perché visto che abbiamo restritto le ore in tre ore, vuol dire
+
+40
+00:01:51,440 --> 00:01:53,680
+che andiamo molto veloci.
+
+41
+00:01:53,840 --> 00:01:59,680
+Altre volte facciamo pochissime cose a scuola in tre ore.
+
+42
+00:01:59,800 --> 00:02:03,000
+E che cosa usi per fare scuola tu?
+
+43
+00:02:04,200 --> 00:02:09,000
+Io uso un computer un Mac, un i Mac!
+
+44
+00:02:09,000 --> 00:02:12,680
+Wow, quello con lo schermo gigante!
+
+45
+00:02:12,680 --> 00:02:16,200
+Esatto, un vecchio i Mac 24 pollici.
+
+46
+00:02:16,200 --> 00:02:16,920
+Come ti trovi?
+
+47
+00:02:16,920 --> 00:02:17,720
+Come ti trovi?
+
+48
+00:02:17,720 --> 00:02:18,920
+Di chi è il Mac?
+
+49
+00:02:19,160 --> 00:02:22,440
+Benissimo, è il Mac di Filippo Strozzi.
+
+50
+00:02:23,320 --> 00:02:27,720
+Quindi vale doppio, nome e cognome, non si sbaglia.
+
+51
+00:02:27,960 --> 00:02:31,640
+Che non ci si sbagli, ma mi hanno detto che usi anche
+
+52
+00:02:31,640 --> 00:02:33,400
+un iPad, è vero?
+
+53
+00:02:33,400 --> 00:02:40,600
+È un iPad, un iPad nuovo che è uscito nel 2019-18, secondo
+
+54
+00:02:40,600 --> 00:02:40,840
+me.
+
+55
+00:02:40,840 --> 00:02:43,080
+No, 19, c'hai ragione.
+
+56
+00:02:43,400 --> 00:02:46,040
+Ma usi anche la pencil per caso?
+
+57
+00:02:46,040 --> 00:02:50,200
+La uso poco, però la uso ottimo, direi che qui abbiamo un
+
+58
+00:02:50,200 --> 00:02:51,880
+utente Apple di un certo tipo.
+
+59
+00:02:52,040 --> 00:02:55,320
+Cavoli, direi che è stato bene è un'ottima intervista.
+
+60
+00:02:58,120 --> 00:03:05,320
+Io dovrei utilizzare quello meno tencolò quello del passato che pento perché
+
+61
+00:03:05,800 --> 00:03:10,840
+Pietro Bogali ce lo fa utilizzare per l'informatica.
+
+62
+00:03:11,080 --> 00:03:15,160
+Fanno informatica su Windows e usano Painter
+
+63
+00:03:17,960 --> 00:03:20,600
+ovviamente no comment, non posso dire di più.
+
+64
+00:03:20,600 --> 00:03:21,880
+Ovviamente no comment.
+
+65
+00:03:21,880 --> 00:03:25,880
+Qua non possiamo commentare perché non saremmo politicamente corretti.
+
+66
+00:03:25,880 --> 00:03:27,560
+Allora, senti un po', Bianca.
+
+67
+00:03:27,560 --> 00:03:29,560
+Vuoi aggiungere qualcosa?
+
+68
+00:03:29,560 --> 00:03:33,160
+Cosa vorresti dalla tua tecnologia Apple?
+
+69
+00:03:33,160 --> 00:03:38,440
+Allora, sicuramente un telefono che però arriverà quando sarà il momento.
+
+70
+00:03:38,760 --> 00:03:46,240
+Almeno spero, poi una pencil, tutta mia, un iPad magari di ultima
+
+71
+00:03:46,240 --> 00:03:47,040
+generazione.
+
+72
+00:03:44,760 --> 00:03:48,720
+Perché quello che ho non so di che anno è.
+
+73
+00:03:48,880 --> 00:03:52,640
+Spero, che non sia del 2000 o qualcos'altro.
+
+74
+00:03:52,640 --> 00:03:54,960
+No, il 2013, non ti preoccupare.
+
+75
+00:03:55,280 --> 00:03:58,960
+Ok, direi che come lista per Babbo Natale ho già preso nota
+
+76
+00:03:58,960 --> 00:04:01,920
+e incomincio a fare le rate io.
+
+77
+00:04:02,080 --> 00:04:05,520
+Adesso escono i nuovi iPad Pro, quindi gli puoi prendere un vecchio
+
+78
+00:04:05,600 --> 00:04:06,240
+iPad Pro.
+
+79
+00:04:06,240 --> 00:04:08,080
+Insomma, facciamo le cose serie.
+
+80
+00:04:08,080 --> 00:04:10,720
+Non aspetto nient'altro.
+
+81
+00:04:11,360 --> 00:04:16,240
+Vabbè, allora, a questo punto direi che possiamo passare alle comunicazioni di
+
+82
+00:04:16,240 --> 00:04:22,560
+servizio per ricordarvi che il podcast è ufficialmente online e potete ascoltarlo
+
+83
+00:04:22,560 --> 00:04:27,120
+sia su Apple Podcast che su Spotify e se volete anche su
+
+84
+00:04:27,120 --> 00:04:27,680
+Amazon.
+
+85
+00:04:27,920 --> 00:04:30,640
+Abbiamo visto un sacco di gente che ci ascolta anche da lì.
+
+86
+00:04:30,640 --> 00:04:34,560
+È operativo inoltre anche il sito ufficiale con le note degli episodi.
+
+87
+00:04:34,560 --> 00:04:40,240
+Lo potete trovare all'indirizzo a due podcast.it oppure potete andarci a cercare
+
+88
+00:04:40,240 --> 00:04:44,160
+direttamente sul canale YouTube che si chiama a due podcast.it
+
+89
+00:04:45,200 --> 00:04:49,680
+YouTube dove potete trovare tutte le nostre dirette del venerdì sera come
+
+90
+00:04:49,680 --> 00:04:52,320
+questa sera che passiamo in compagnia dei nostri figli.
+
+91
+00:04:52,320 --> 00:04:54,720
+Può capitare una novità interessante.
+
+92
+00:04:54,720 --> 00:05:01,200
+Direi che abbiamo dato vita nuova, vita giovane, gente giovane che segue
+
+93
+00:05:01,200 --> 00:05:01,840
+il podcast.
+
+94
+00:05:01,840 --> 00:05:05,440
+Non è solo per i professionisti come avete sentito, la tecnologia Apple,
+
+95
+00:05:05,760 --> 00:05:10,960
+mentre se volete supportare il podcast, vi chiediamo con il cuore di
+
+96
+00:05:10,960 --> 00:05:16,000
+fare una recensione su Apple podcast in questa fase iniziale, tante recensioni
+
+97
+00:05:16,000 --> 00:05:18,720
+ci permetteranno di essere visti da più persone possibili.
+
+98
+00:05:18,720 --> 00:05:22,640
+Se volete sapere come fare una recensione, trovate il link nelle note
+
+99
+00:05:22,640 --> 00:05:24,000
+dell'episodio.
+
+100
+00:05:24,000 --> 00:05:27,960
+Potete scriverci anche a chiocciola a chiocciola.
+
+101
+00:05:29,560 --> 00:05:30,120
+Vai con calma.
+
+102
+00:05:27,760 --> 00:05:34,760
+Si chiama l'indirizzo internet è scrivi.
+
+103
+00:05:35,480 --> 00:05:39,400
+@a2podcast.it.
+
+104
+00:05:39,720 --> 00:05:40,760
+Facile, vero?
+
+105
+00:05:40,760 --> 00:05:45,720
+Effettivamente, è un po' uno scogilingua benissimo, quindi a questo punto possiamo
+
+106
+00:05:45,880 --> 00:05:48,760
+passare agli argomenti interessanti del podcast.
+
+107
+00:05:48,760 --> 00:05:50,680
+Di cosa parliamo Bianca?
+
+108
+00:05:50,680 --> 00:05:57,080
+Allora parliamo innanzitutto della manutenzione del Mac, cosa fare e cosa utilizzare.
+
+109
+00:05:57,080 --> 00:06:00,120
+Ok, poi chiaramente questo lo dico io perché tu non lo puoi
+
+110
+00:06:00,120 --> 00:06:04,760
+conoscere, visto che non usa sistemi Windows, non siamo a livelli dei
+
+111
+00:06:04,760 --> 00:06:08,440
+sistemi Windows che invece hanno bisogno di manutenzione, perché, come tutti ben
+
+112
+00:06:08,440 --> 00:06:14,280
+sapete, sono sistemi un po' particolari, non sono come i sistemi Macintosh,
+
+113
+00:06:14,280 --> 00:06:19,720
+sono un po' diversi perché tendenzialmente si incraccia, che è un termine
+
+114
+00:06:19,720 --> 00:06:21,880
+tecnico chiaro a tutti quanti:
+
+115
+00:06:23,640 --> 00:06:28,200
+il registro di sistema e quindi a volte capita che Windows a
+
+116
+00:06:28,200 --> 00:06:31,560
+un certo punto dica che è troppo stanco per portare avanti la
+
+117
+00:06:31,560 --> 00:06:35,640
+sua vita da Windows ed è meglio formattare e ripartire da zero.
+
+118
+00:06:35,640 --> 00:06:38,920
+È un po' diverso per quanto riguarda il Mac perché ha un
+
+119
+00:06:38,920 --> 00:06:43,880
+diverso sistema e di gestione delle applicazioni perché non ha un registro
+
+120
+00:06:43,880 --> 00:06:44,760
+di sistema.
+
+121
+00:06:44,760 --> 00:06:49,640
+Le applicazioni sono praticamente, per quello che posso dire io da informatico
+
+122
+00:06:49,880 --> 00:06:55,800
+della primora, sono praticamente tutte raggruppate all'interno di uno scatolone che si
+
+123
+00:06:55,800 --> 00:06:57,160
+chiama app.
+
+124
+00:06:57,480 --> 00:07:02,520
+Lì hanno praticamente tutto, lasciano soltanto qualche preferenzi di sistema in giro
+
+125
+00:07:02,520 --> 00:07:07,160
+per il sistema operativo, ma niente di grave, niente che occupi chissà
+
+126
+00:07:07,160 --> 00:07:07,800
+cosa.
+
+127
+00:07:07,800 --> 00:07:10,600
+Quello che vi volevo parlare io, invece, aspetta, vediamo un po' se
+
+128
+00:07:10,600 --> 00:07:12,120
+Bianca rientra tra di noi.
+
+129
+00:07:12,120 --> 00:07:17,920
+È la manutenzione, mensiri che consiglia questo individuo che ha chiamato Roberto
+
+130
+00:07:14,920 --> 00:07:18,640
+esattamente.
+
+131
+00:07:18,800 --> 00:07:22,800
+Che usa il suo Mac per professione, per lavoro e si diverte
+
+132
+00:07:22,800 --> 00:07:29,120
+pure quando i figli glielo permettono di lavorare qui in DAD siamo
+
+133
+00:07:29,120 --> 00:07:32,720
+veramente messi un po' così, siamo alla prima settimana di DAD.
+
+134
+00:07:32,720 --> 00:07:34,000
+Siamo sopravvissuti.
+
+135
+00:07:34,000 --> 00:07:37,360
+Hai qualcosa da dirci al riguardo della DAD Bianca?
+
+136
+00:07:37,440 --> 00:07:39,520
+Come è andata la prima settimana?
+
+137
+00:07:39,520 --> 00:07:46,160
+Allora, secondo me la DAD è andata bene, solo che io preferisco
+
+138
+00:07:46,160 --> 00:07:49,920
+stare in presenza invece che in DAD, ma anche perché ho avuto
+
+139
+00:07:50,480 --> 00:07:56,240
+un trascorso, diciamo, nell'altra scuola che la DAD era veramente molto pesante,
+
+140
+00:07:56,240 --> 00:08:00,560
+facevano soprattutto geometria se non sbaglio, e nient'altro.
+
+141
+00:08:00,560 --> 00:08:01,440
+Esattamente.
+
+142
+00:08:01,440 --> 00:08:06,080
+Comunque, bene, sono contento che questa tua nuova versione di DAD funzioni,
+
+143
+00:08:06,080 --> 00:08:07,280
+funziona anche per noi.
+
+144
+00:08:07,280 --> 00:08:09,840
+Cerchiamo di lavorare sì e no.
+
+145
+00:08:09,840 --> 00:08:14,320
+E come vi dicevo usiamo strumenti MAC in questo caso perché parliamo
+
+146
+00:08:14,320 --> 00:08:16,000
+di manutenzione del Mac.
+
+147
+00:08:16,000 --> 00:08:18,720
+Quindi io direi che a questo punto passo la palla al mio
+
+148
+00:08:18,720 --> 00:08:24,800
+amico Filippo Strozzi che ci racconterà un po' la sicurezza intrinseca all'interno
+
+149
+00:08:24,800 --> 00:08:26,400
+dei sistemi Macintosh.
+
+150
+00:08:26,400 --> 00:08:31,280
+Esatto, diciamo che come primo step dobbiamo ragionare se installare o meno
+
+151
+00:08:31,280 --> 00:08:34,080
+un antivirus o un anti-malware.
+
+152
+00:08:34,400 --> 00:08:41,760
+Questo è il tipico approccio, diciamo, da utente Windows, perché abitualmente l'utente
+
+153
+00:08:42,000 --> 00:08:50,080
+Mac invece schifa, chiamiamolo così, sempre in termine tecnico: l'installazione di antivirus
+
+154
+00:08:50,080 --> 00:08:51,760
+e antimalware.
+
+155
+00:08:51,760 --> 00:08:58,960
+Questo per ragioni storiche abbastanza concrete, ovvero che macOS ha una quota
+
+156
+00:08:58,960 --> 00:09:04,840
+di mercato dei PC relativamente piccola, per cui ovviamente
+
+157
+00:09:06,040 --> 00:09:11,720
+in generale è meno appetibile per gli hacker, e quindi tendenzialmente ci
+
+158
+00:09:11,720 --> 00:09:15,480
+sono meno virus e meno malware, meno troio e così via.
+
+159
+00:09:15,640 --> 00:09:17,800
+Quindi va a fatto una distinzione.
+
+160
+00:09:17,800 --> 00:09:24,120
+Se si è utenti relativamente attenti e consapevoli nell'utilizzo del proprio computer,
+
+161
+00:09:24,120 --> 00:09:30,040
+la risposta a se installare o meno un antivirus, o un antimalware
+
+162
+00:09:30,200 --> 00:09:31,720
+è tendenzialmente no.
+
+163
+00:09:31,720 --> 00:09:35,320
+Però questo vuol dire, per esempio, non aprire legati strani delle mail
+
+164
+00:09:35,400 --> 00:09:40,680
+o cliccare sul link all'interno di mail, che sono i principali vettori
+
+165
+00:09:40,680 --> 00:09:41,000
+di
+
+166
+00:09:42,200 --> 00:09:49,560
+contagio, e ovviamente non navigare in siti pericolosi, tipo scaricare programmi legitamente,
+
+167
+00:09:49,560 --> 00:09:55,880
+video, guardare in maniera pirata le parti di ricalcio, perché abitualmente proprio
+
+168
+00:09:55,880 --> 00:10:00,920
+su questi siti si annidano sorprese poco piacevoli.
+
+169
+00:10:00,920 --> 00:10:05,560
+L'altra cosa che io suggerisco, che esce un po' dall'ambito, è, però,
+
+170
+00:10:05,880 --> 00:10:11,800
+implementare sistemi come ad esempio Pie Hall per proteggere la navigazione di
+
+171
+00:10:11,800 --> 00:10:13,320
+casa o dell'ufficio.
+
+172
+00:10:13,320 --> 00:10:18,200
+Faccio una piccolissima parentesi, ma Pai Hall è un sistema che permette
+
+173
+00:10:18,200 --> 00:10:23,720
+di filtrare sul traffico internet, in particolare la risoluzione dei DNS, e
+
+174
+00:10:24,360 --> 00:10:30,600
+attraverso tutta una lista di siti chiamati malevoli o che tracciano, è
+
+175
+00:10:30,600 --> 00:10:32,760
+possibile bloccare pubblicità.
+
+176
+00:10:33,000 --> 00:10:38,680
+Quindi ecco, anche la pubblicità può essere uno dei vettori di sorprese
+
+177
+00:10:38,840 --> 00:10:46,320
+perché attualmente anche nella pubblicità vengono iniettati programmi potenzialmente malevoli e ovviamente
+
+178
+00:10:46,320 --> 00:10:50,960
+vi permette di bloccare tutta una serie di siti noti, per esempio
+
+179
+00:10:50,960 --> 00:10:55,520
+per i malware dove i Crypto Locker, cioè i ransomware.
+
+180
+00:10:55,520 --> 00:11:00,560
+Spesso e volentieri nelle liste di PIL vengono bloccati tutti i INS,
+
+181
+00:11:00,560 --> 00:11:04,560
+quindi i domini legati ai programmi più noti che fanno queste cose
+
+182
+00:11:04,720 --> 00:11:09,360
+e quindi ovviamente vi dà un'ulteriore protezione a livello di rete
+
+183
+00:11:10,560 --> 00:11:15,360
+della casa e quindi sicuramente sono cose da implementare.
+
+184
+00:11:15,360 --> 00:11:22,800
+Adesso oggi esulerebbe dalle nostre argomentazioni specifiche, però sappiate che esistono tutta
+
+185
+00:11:22,800 --> 00:11:27,600
+una serie di sistemi che vi permettono di proteggere non solo il
+
+186
+00:11:27,600 --> 00:11:32,400
+singolo computer, ma proprio la rete, e quindi può essere utile implementare
+
+187
+00:11:32,400 --> 00:11:33,120
+queste cose.
+
+188
+00:11:33,120 --> 00:11:39,680
+Altrimenti se siete inesperti, se navigate senza particolari accortezze, ovviamente il consiglio
+
+189
+00:11:39,680 --> 00:11:44,720
+è quello di installare dei software antivirus e antimalware.
+
+190
+00:11:44,720 --> 00:11:48,640
+La conseguenza però è che spesso e volentieri questi sono programmi che
+
+191
+00:11:48,640 --> 00:11:53,360
+si aggiungono ai programmi già presenti sul vostro Mac e che abitualmente
+
+192
+00:11:53,520 --> 00:11:59,680
+per funzionare in maniera valida richiedono di fare analisi sul vostro hard
+
+193
+00:11:59,680 --> 00:12:00,160
+disk.
+
+194
+00:12:00,160 --> 00:12:05,920
+Quindi tendenzialmente l'antivirus è una di quelle cose che rallenta almeno una
+
+195
+00:12:05,920 --> 00:12:09,440
+percentuale le performance ovviamente del vostro computer.
+
+196
+00:12:09,440 --> 00:12:14,560
+Quindi se il vostro computer è relativamente lento o comunque non è
+
+197
+00:12:14,560 --> 00:12:16,400
+moderno, sicuramente ciò non aiuta.
+
+198
+00:12:16,400 --> 00:12:20,480
+Io personalmente ho installato su un Mac una volta un antivirus e
+
+199
+00:12:20,480 --> 00:12:25,360
+ho deciso che non era cosa da farsi perché le performance nel
+
+200
+00:12:25,360 --> 00:12:29,440
+Mac erano degradate notevolmente.
+
+201
+00:12:29,480 --> 00:12:35,400
+E lo continuo a ripetere, i rischi di infezioni diciamo sono relativamente
+
+202
+00:12:35,400 --> 00:12:41,720
+bassi, ma ovviamente sono ancora più bassi se si utilizzano delle modalità
+
+203
+00:12:42,040 --> 00:12:47,400
+specifiche, cioè non si fanno cose che possono dare una mano ai
+
+204
+00:12:47,560 --> 00:12:52,680
+Trojan piuttosto che ai virus piuttosto che ai malware per l'installazione.
+
+205
+00:12:53,000 --> 00:12:58,600
+Un'altra cosa fondamentale da tenere presente è che casomai voi avete un
+
+206
+00:12:58,600 --> 00:13:02,120
+virus per Windows e non lo sapete sul vostro Mac, e questo
+
+207
+00:13:02,120 --> 00:13:07,640
+potrebbe infettare, se andate, per esempio, in una rete con computer Windows,
+
+208
+00:13:08,280 --> 00:13:10,760
+con i PC Windows che avete nella rete.
+
+209
+00:13:10,760 --> 00:13:17,400
+Quindi attenzione perché c'è anche quell'ulteriore problema della vicenda che va sottolineato.
+
+210
+00:13:18,280 --> 00:13:25,080
+La politica di Apple è progressivamente sempre più talebana sulla sicurezza.
+
+211
+00:13:25,080 --> 00:13:29,560
+Quindi se mantenete anche un sistema operativo aggiornato, quindi nelle ultime due
+
+212
+00:13:29,560 --> 00:13:33,320
+versioni del sistema operativo, giusto per fare un esempio, si va a
+
+213
+00:13:33,320 --> 00:13:39,160
+due sistemi operativi indietro abitualmente per le patch di sicurezza dei Mac,
+
+214
+00:13:39,160 --> 00:13:45,000
+quindi ad oggi teoricamente viene ancora garantita la sicurezza di Moave che
+
+215
+00:13:45,000 --> 00:13:50,440
+è macOS 10.14 dovrebbe essere e nulla di più.
+
+216
+00:13:50,440 --> 00:13:54,440
+Quindi, se avete anche un sistema operativo vecchio, ovviamente più vecchio di
+
+217
+00:13:54,440 --> 00:13:55,240
+Moave.
+
+218
+00:13:55,400 --> 00:13:59,720
+E ovviamente se ascolterete questa puntata tra un anno le cose cambieranno
+
+219
+00:13:59,800 --> 00:14:04,360
+perché l'anno prossimo diventerà Catalina l'ultimo, anzi, quest'anno dirà la verità, perché
+
+220
+00:14:04,360 --> 00:14:09,080
+uscirà sicuramente un nuovo sistema operativo a settembre-ottobre di quest'anno.
+
+221
+00:14:09,080 --> 00:14:15,200
+Quindi a settembre-ottobre di quest'anno probabilmente Catalina sarà l'ultimo sistema garantito da
+
+222
+00:14:14,840 --> 00:14:16,160
+Apple per la sicurezza.
+
+223
+00:14:16,240 --> 00:14:19,840
+Poi anche Apple spesso e volentieri fa degli aggiornamenti di sistema anche
+
+224
+00:14:19,840 --> 00:14:23,520
+per i vecchi sistemi se queste le falle di sicurezza sono molto
+
+225
+00:14:23,520 --> 00:14:24,480
+gravi.
+
+226
+00:14:24,800 --> 00:14:31,920
+Però la garanzia, diciamo, di avere un sistema tranquillo è appunto quella
+
+227
+00:14:31,920 --> 00:14:38,000
+di avere un sistema aggiornato almeno a due versioni precedenti, da Big
+
+228
+00:14:38,000 --> 00:14:41,600
+Sure, tra le altre cose, Apple, che sempre appunto si è sempre
+
+229
+00:14:41,600 --> 00:14:46,800
+focalizzata molto tra le altre cose, sulla sicurezza, ha creato una cosa
+
+230
+00:14:46,800 --> 00:14:50,480
+un po' particolare, cioè il sistema operativo in solo lettura.
+
+231
+00:14:50,480 --> 00:14:55,360
+Quindi quando andate a installare Big Sure sul vostro computer, ci sarà
+
+232
+00:14:55,360 --> 00:15:00,320
+una partizione del vostro hard disk col sistema operativo che in pratica
+
+233
+00:15:00,480 --> 00:15:05,680
+potrete leggere ma non potrete modificare, e invece un ulteriore volume dove
+
+234
+00:15:05,840 --> 00:15:09,040
+salvare poi i documenti dove avete la possibilità non solo di leggere
+
+235
+00:15:09,120 --> 00:15:13,920
+ma anche di modificare l'hardisk e questo proprio per aumentare e garantire
+
+236
+00:15:13,920 --> 00:15:15,440
+la sicurezza dei Mac.
+
+237
+00:15:15,440 --> 00:15:20,480
+Anche qui segnalo Apple comunque adesso, dopo ti do la parola a
+
+238
+00:15:20,480 --> 00:15:23,120
+Roberto una domanda più che altro.
+
+239
+00:15:23,120 --> 00:15:29,680
+Apple comunque ha implementato una serie di firme anti-malware quindi viene aggiornato
+
+240
+00:15:29,680 --> 00:15:32,720
+abitualmente un particolare pacchetto.
+
+241
+00:15:32,720 --> 00:15:36,240
+Lascio poi il link nelle note dell'episodio se vi interessa approfondire.
+
+242
+00:15:36,240 --> 00:15:42,400
+Adesso non mi sembra sensato andare troppo nello specifico, ma c'è comunque
+
+243
+00:15:42,400 --> 00:15:48,480
+una serie di sistemi implementati da Apple proprio per la sicurezza anti-malware.
+
+244
+00:15:48,480 --> 00:15:54,080
+E in generale viene gestito Gatekeeper, che è il sistema che garantisce,
+
+245
+00:15:54,080 --> 00:15:58,640
+o meglio, che chiede il permesso all'utente finale, che ha ovviamente privilegi
+
+246
+00:15:58,800 --> 00:16:03,320
+da amministratore, di installare sul Mac dei programmi.
+
+247
+00:16:03,480 --> 00:16:09,640
+Quindi c'è un doppio meccanismo di sicurezza nell'installazione delle applicazioni.
+
+248
+00:16:09,640 --> 00:16:11,720
+Ecco la domanda riguarda appunto le applicazioni.
+
+249
+00:16:11,720 --> 00:16:16,360
+Prima hai parlato di una partizione, chiamiamola così, separata per i documenti,
+
+250
+00:16:16,360 --> 00:16:18,120
+ma i programmi dove vanno a finire?
+
+251
+00:16:18,120 --> 00:16:22,680
+Dalla parte del sistema operativo o dalla parte dei documenti, dalla parte
+
+252
+00:16:22,680 --> 00:16:29,400
+dei documenti e nella parte utenti, perché di fatto la strutturazione del
+
+253
+00:16:29,400 --> 00:16:33,800
+file system di macOS, la parte vera del sistema operativo è nella
+
+254
+00:16:33,800 --> 00:16:35,880
+library nelle librerie.
+
+255
+00:16:36,040 --> 00:16:39,240
+Tutto il resto invece abitualmente è gestito.
+
+256
+00:16:39,240 --> 00:16:44,040
+Le applicazioni stanno nella cartella applicazioni, la maggior parte delle applicazioni stanno
+
+257
+00:16:44,040 --> 00:16:46,760
+nella cartella applicazioni perché poi lo vedremo.
+
+258
+00:16:46,760 --> 00:16:51,640
+Ogni tanto lasciano cose installate a destra manca, però molto meno che
+
+259
+00:16:51,640 --> 00:16:53,160
+Windows, chiamiamola così.
+
+260
+00:16:53,160 --> 00:16:58,200
+È ovvio che quindi le cose funzionano in maniera abbastanza differente.
+
+261
+00:16:58,840 --> 00:17:02,600
+Io adesso Bixur non lo utilizzo ancora in maniera seria, però mi
+
+262
+00:17:02,600 --> 00:17:08,040
+sono reso conto, avendolo installato su un disco esterno, proprio di questa
+
+263
+00:17:08,040 --> 00:17:15,240
+differenza e del fatto che anche tanti programmi che per esempio implementano
+
+264
+00:17:15,240 --> 00:17:18,360
+cose un po' particolari si sono dovute riadattare.
+
+265
+00:17:18,360 --> 00:17:21,800
+Un esempio è Easel, perché, per esempio, non è più possibile da
+
+266
+00:17:21,800 --> 00:17:28,840
+Big Sure installare l'applicazione delle preferenze di sistema, ma deve essere un'applicazione
+
+267
+00:17:28,840 --> 00:17:33,880
+appunto esterna, proprio perché deve andare nella cartella delle applicazioni, non può
+
+268
+00:17:33,880 --> 00:17:39,080
+più essere installata a livello più profondo, chiamiamolo così.
+
+269
+00:17:39,080 --> 00:17:40,680
+Certamente, capito.
+
+270
+00:17:40,680 --> 00:17:44,360
+Tra le altre cose, colgo la palla al balzo per ringraziare gli
+
+271
+00:17:44,360 --> 00:17:46,880
+utenti che hanno iniziato a dare i primi feedback.
+
+272
+00:17:47,440 --> 00:17:51,280
+Uno di questi che volevo ricordare più che altro anche a Filippo
+
+273
+00:17:51,600 --> 00:17:53,680
+è di cercare di stare entro un'ora.
+
+274
+00:17:53,680 --> 00:17:56,640
+Perché in effetti andiamo sempre molto lunghi.
+
+275
+00:17:56,640 --> 00:18:02,480
+Io direi di cercare di tenere un'oretta di podcasting come stiamo facendo
+
+276
+00:18:02,480 --> 00:18:03,680
+in questo momento.
+
+277
+00:18:05,120 --> 00:18:08,720
+Non c'è molto da dire, però volevo cercare di essere un po'
+
+278
+00:18:08,720 --> 00:18:14,560
+veloce, nel senso che per gli approfondimenti abbiamo avanti almeno un centinaio
+
+279
+00:18:14,560 --> 00:18:19,360
+di puntate davanti a noi prima che diventiamo vecchi e inservibili.
+
+280
+00:18:19,600 --> 00:18:22,080
+Conseguentemente direi che tempo ne abbiamo.
+
+281
+00:18:22,080 --> 00:18:24,320
+Iniziamo a dare una spolverata.
+
+282
+00:18:24,320 --> 00:18:30,800
+Poi penso che faremo come i bravi podcaster che si riascolteranno, prenderanno
+
+283
+00:18:30,800 --> 00:18:34,880
+note delle cose che devono parlare e ne parleranno nelle puntate successive.
+
+284
+00:18:34,880 --> 00:18:36,160
+Faremo così penso.
+
+285
+00:18:36,160 --> 00:18:40,800
+Quindi saremo gli ascoltatori migliori di A2 Podcast.
+
+286
+00:18:40,800 --> 00:18:45,600
+Detto questo, ringrazio come sempre gli ascoltatori, chi c'è offline che ci
+
+287
+00:18:45,600 --> 00:18:49,440
+ascolta in seconda battuto e chi c'è online che ci ascolta in
+
+288
+00:18:49,440 --> 00:18:50,080
+questo momento.
+
+289
+00:18:50,240 --> 00:18:54,720
+Adesso passiamo direttamente a quello che è la mia esperienza diretta col
+
+290
+00:18:54,720 --> 00:18:57,520
+Mac per quanto riguarda la manutenzione.
+
+291
+00:18:57,520 --> 00:19:00,640
+Come vi abbiamo spiegato, non è come Windows che ha bisogno di
+
+292
+00:19:00,640 --> 00:19:06,640
+manutenzione particolare, ma io ho una routine mensile che utilizzo sul mio
+
+293
+00:19:06,640 --> 00:19:10,240
+Mac e lo faccio ogni primo del mese essenzialmente.
+
+294
+00:19:10,640 --> 00:19:13,040
+Vedo che la situazione è molto stabile.
+
+295
+00:19:13,040 --> 00:19:18,640
+Il mio Mac è molto stabile, tant'è che lo scorso anno, no,
+
+296
+00:19:18,640 --> 00:19:24,400
+era due anni fa, ho praticamente usato l'installazione quasi del 2014.
+
+297
+00:19:24,640 --> 00:19:30,600
+Quindi io ho fatto quando avevo il MacBook Pro del 2014 ho
+
+298
+00:19:29,920 --> 00:19:33,080
+installato i vari aggiornamenti andando avanti così.
+
+299
+00:19:33,160 --> 00:19:36,440
+Poi, quando è stata ora di passare al mio attuale Mac, ho
+
+300
+00:19:36,440 --> 00:19:41,480
+fatto semplicemente un ripristino e il mio Mac continua a rimanere stabile.
+
+301
+00:19:41,480 --> 00:19:47,160
+Conseguentemente, dalla mia esperienza, questa manutenzione, in effetti funziona a tutti gli
+
+302
+00:19:47,160 --> 00:19:47,640
+effetti.
+
+303
+00:19:47,640 --> 00:19:50,760
+È una manutenzione abbastanza stupida, nel senso che è molto veloce, non
+
+304
+00:19:50,760 --> 00:19:52,040
+ci vuole niente di che.
+
+305
+00:19:52,040 --> 00:19:55,800
+La mia idea è che è bene fidarsi degli strumenti Apple, ma
+
+306
+00:19:55,800 --> 00:19:59,240
+è meglio averne un altro di scorta, ed è per quello che
+
+307
+00:19:59,240 --> 00:20:05,480
+io, almeno sul mio Mac, ho un antivirus che non è residente
+
+308
+00:20:05,640 --> 00:20:09,720
+in, mi viene da dire da System 3, ma ovviamente questi qui
+
+309
+00:20:09,720 --> 00:20:13,240
+sono termini da Windows nella barra dei menu.
+
+310
+00:20:13,240 --> 00:20:17,640
+Non è lì ferma, ma è semplicemente un'applicazione che avvio una volta
+
+311
+00:20:17,640 --> 00:20:23,320
+al mese che faccio una ricerca sull'hard disk e sui percorsi più
+
+312
+00:20:24,360 --> 00:20:28,920
+diciamo pericolosi in cui si possono trovare già i maloware e via
+
+313
+00:20:28,920 --> 00:20:29,800
+discorrendo.
+
+314
+00:20:29,800 --> 00:20:34,680
+Io utilizzo Bit Defender virus scanner che dovrebbe essere ancora gratuito.
+
+315
+00:20:34,680 --> 00:20:38,920
+Io uso la versione gratuita, io prendo lo scarico, si scarica le
+
+316
+00:20:38,920 --> 00:20:42,520
+firme, fa un giro sull'hard disk e in giro di una mezz'oretta
+
+317
+00:20:42,600 --> 00:20:44,440
+il mio lavoro è fatto che è finito.
+
+318
+00:20:44,440 --> 00:20:48,440
+Considerate che io ho 128 GB di hard disk, fa la sua
+
+319
+00:20:48,440 --> 00:20:52,840
+ricerca tra scansione e via discorrendo, e quindi sono abbastanza tranquillo.
+
+320
+00:20:52,840 --> 00:20:57,640
+Perché le firme sono aggiornate, si fa la sua scansione.
+
+321
+00:20:57,640 --> 00:21:02,120
+In più ci sono ovviamente tutti i sistemi che ha appena elencato
+
+322
+00:21:02,120 --> 00:21:06,920
+Filippo che vi aiuteranno di sicuro a mantenere il vostro sistema operativo
+
+323
+00:21:06,920 --> 00:21:08,280
+bello che pulito.
+
+324
+00:21:08,280 --> 00:21:13,320
+Chiaramente se vi andate a cercare le grane, le trovate perché MEC
+
+325
+00:21:13,880 --> 00:21:16,400
+sia un sistema sicuro, ma
+
+326
+00:21:14,760 --> 00:21:19,920
+non è imbattibile.
+
+327
+00:21:20,160 --> 00:21:24,880
+Quindi, se vi andate ad adentrare in alcuni siti discutibili, chiaramente se
+
+328
+00:21:24,880 --> 00:21:27,760
+ve le andate a cercare prima o poi arriva.
+
+329
+00:21:27,760 --> 00:21:28,240
+Quindi,
+
+330
+00:21:29,360 --> 00:21:33,040
+come in tutte le buone famiglie, il buon padre di famiglia ti
+
+331
+00:21:33,040 --> 00:21:37,760
+dice: usa il tuo sistema operativo, ma stai attento a quello che
+
+332
+00:21:37,760 --> 00:21:39,280
+fai, semplicemente.
+
+333
+00:21:39,600 --> 00:21:45,840
+Per quanto riguarda invece i malware, uso due simpatiche applicazioni molto molto
+
+334
+00:21:46,240 --> 00:21:52,320
+leggere che arrivano dal sito Objective-C che vi consiglio di andare a
+
+335
+00:21:52,320 --> 00:21:53,200
+vedere.
+
+336
+00:21:53,200 --> 00:21:59,760
+Il sito di Objective-C è pieno di utiliti che vi aiutano a
+
+337
+00:21:59,760 --> 00:22:04,400
+mantenere molto sicuro e contro l'altro il vostro Mac.
+
+338
+00:22:04,400 --> 00:22:08,880
+Sono veramente delle micro utility, sono praticamente tutte gratuite.
+
+339
+00:22:09,440 --> 00:22:14,640
+Io ad esempio utilizzo BlockBlock che è un utility che ti dice
+
+340
+00:22:14,640 --> 00:22:19,040
+se ci sono in esecuzione o stanno per entrare in esecuzione dei
+
+341
+00:22:19,200 --> 00:22:20,800
+servizi non voluti.
+
+342
+00:22:20,800 --> 00:22:25,360
+Quindi praticamente lui rimane lì tranquillo, controlla che il tuo sistema operativo
+
+343
+00:22:25,360 --> 00:22:29,600
+stia facendo le cose normali di un sistema operativo, nel momento in
+
+344
+00:22:29,600 --> 00:22:33,120
+cui vede qualcosa di strano, te lo fa sapere.
+
+345
+00:22:33,120 --> 00:22:36,800
+Ad esempio, vi faccio un esempio pratico.
+
+346
+00:22:37,120 --> 00:22:45,600
+Nelle prime versioni di Spotify veniva lanciato un servizio che BlockBlock reputava
+
+347
+00:22:46,480 --> 00:22:49,360
+un po' birrichino, chiamiamolo così.
+
+348
+00:22:50,240 --> 00:22:54,720
+Dalla finestra di Block Block c'è la possibilità di fare subito una
+
+349
+00:22:54,720 --> 00:23:00,360
+scansione per vedere se questo servizio è un virus, semplicemente cliccando su
+
+350
+00:23:00,360 --> 00:23:01,800
+una specie di bandierina.
+
+351
+00:23:01,800 --> 00:23:05,000
+E quindi vi dà un risultato e vi fa vedere se questo
+
+352
+00:22:59,840 --> 00:23:07,080
+rientra tra i virus conosciuti.
+
+353
+00:23:07,320 --> 00:23:11,240
+E poi va a fare ancora un sito, va a fare ancora
+
+354
+00:23:11,240 --> 00:23:16,680
+una ricerca per vedere se deriva da qualche altro tipo di
+
+355
+00:23:18,200 --> 00:23:21,160
+altri virus che sono in giro per il sistema operativo.
+
+356
+00:23:21,480 --> 00:23:25,800
+Molto simpatico perché è molto leggero e vi diceva appunto Spotify ho
+
+357
+00:23:25,800 --> 00:23:29,800
+provato a bloccarlo con block block e il risultato è che giustamente
+
+358
+00:23:29,800 --> 00:23:31,960
+Spotify ha smesso di funzionare.
+
+359
+00:23:31,960 --> 00:23:36,040
+Quindi è bastato semplicemente riavviare il servizio e poi Spotify è ripreso,
+
+360
+00:23:36,040 --> 00:23:42,040
+ma chiaramente era uno di quei servizi sotterranei che un utente normale
+
+361
+00:23:42,040 --> 00:23:46,680
+non vede, però nel momento in cui ha certi strumenti riesce a
+
+362
+00:23:46,680 --> 00:23:50,040
+bloccare cose che possono essere potenzialmente dannose.
+
+363
+00:23:50,040 --> 00:23:54,760
+Chiaramente non era questo il problema di Spotify perché ho voluto proprio
+
+364
+00:23:54,760 --> 00:23:56,600
+fare una prova perché né
+
+365
+00:23:57,640 --> 00:24:05,000
+l'antivirus interno di BlockBlock nella ricerca sul database dava positività di questo
+
+366
+00:24:05,000 --> 00:24:09,480
+servizio, però ho voluto proprio vedere se Spotify riusciva a funzionare lo
+
+367
+00:24:09,480 --> 00:24:11,800
+stesso con questo servizio bloccato.
+
+368
+00:24:11,800 --> 00:24:16,280
+Quindi, oltre a essere leggero, è anche potente perché permette appunto di
+
+369
+00:24:16,280 --> 00:24:21,640
+chiudere la porta a determinati tipi di servizi non voluti.
+
+370
+00:24:21,640 --> 00:24:27,720
+Altra cosa che utilizzo su sempre di Objective C oversight.
+
+371
+00:24:27,720 --> 00:24:32,680
+Oversight è una simpatica utility che anche quella rimane lì nella bar
+
+372
+00:24:32,680 --> 00:24:36,920
+del menu, non occupa assolutamente niente, se non un po' di spazio
+
+373
+00:24:36,920 --> 00:24:38,360
+nella menu bar.
+
+374
+00:24:38,320 --> 00:24:44,440
+E ti avverte se c'è il microfono o la telecamera che sono
+
+375
+00:24:44,760 --> 00:24:48,160
+in esecuzione senza che tu l'abbia chiesto.
+
+376
+00:24:48,400 --> 00:24:52,560
+Ad esempio, se io apro Skype e mi voglio collegare con Filippo,
+
+377
+00:24:52,560 --> 00:24:57,120
+oversight mi dice: Guarda, c'è Skype che sta chiedendo di accedere al
+
+378
+00:24:57,120 --> 00:25:00,800
+tuo microfono e alla tua camera, vuoi farglielo fare?
+
+379
+00:25:00,800 --> 00:25:02,800
+Quindi praticamente questo cosa permette?
+
+380
+00:25:02,800 --> 00:25:07,600
+Permette di evitare che, come sapete, avete una telecamera sempre puntata davanti
+
+381
+00:25:07,600 --> 00:25:12,080
+alla fronte, che questa telecamera non vi riprenda sempre o nel caso
+
+382
+00:25:12,080 --> 00:25:15,760
+in cui ci siano intrusioni nella propria rete e vi attivino la
+
+383
+00:25:15,760 --> 00:25:18,400
+telecamera o il microfono.
+
+384
+00:25:18,400 --> 00:25:23,200
+Chiaramente questo va alla parte della sicurezza che è importantissima per chi
+
+385
+00:25:23,200 --> 00:25:27,440
+è un professionista e ha a che fare con dati sensibili che
+
+386
+00:25:27,440 --> 00:25:30,240
+non venga ascoltato da chiunque passi di lì.
+
+387
+00:25:30,480 --> 00:25:35,280
+Quindi vi consiglio anche questa di installarla, è molto leggera e non
+
+388
+00:25:35,280 --> 00:25:36,720
+è per niente invasiva.
+
+389
+00:25:36,720 --> 00:25:41,920
+Aggiungo che il sito di Objective-C è molto molto interessante sotto questo
+
+390
+00:25:41,920 --> 00:25:45,520
+punto di vista, perché ci sono tante altre utility che vi consiglio
+
+391
+00:25:45,520 --> 00:25:46,320
+di dare un'occhiata.
+
+392
+00:25:46,320 --> 00:25:49,600
+Io ho semplicemente installato queste due, ma ce ne sono molte altre.
+
+393
+00:25:49,680 --> 00:25:55,200
+Per esempio c'è anche un'utility che permette di filtrare il traffico che
+
+394
+00:25:55,200 --> 00:25:56,240
+avete sulla rete.
+
+395
+00:25:56,240 --> 00:25:59,680
+Questo è interessante, non lo utilizzo non perché non funzioni, ma per
+
+396
+00:25:59,680 --> 00:26:04,160
+il semplice fatto che utilizzo un'altra applicazione che si chiama Tripolo Mode,
+
+397
+00:26:04,160 --> 00:26:05,600
+ma la loro va benissimo.
+
+398
+00:26:05,600 --> 00:26:10,880
+Io l'ho acquistata Trip mode e conseguentemente mi conviene usare questa.
+
+399
+00:26:11,200 --> 00:26:17,680
+Per quanto riguarda la ricerca e sicurezza del MAC, io utilizzo semplicemente
+
+400
+00:26:17,680 --> 00:26:24,640
+questo, oltre, alla crittografazione dell'hard disk, ma quello ne abbiamo già parlato.
+
+401
+00:26:24,640 --> 00:26:29,840
+Ma sono tutte, diciamo, cose che vanno implementate al fine della sicurezza
+
+402
+00:26:30,200 --> 00:26:32,200
+intrinseca del proprio sistema operativo.
+
+403
+00:26:29,840 --> 00:26:35,160
+Diciamo che sono piccole aggiunte, non è niente di che.
+
+404
+00:26:35,400 --> 00:26:39,480
+Invece, per quanto riguarda la manutenzione, la procedura che vi dicevo, quella
+
+405
+00:26:39,480 --> 00:26:43,880
+mensile, quella che faccio è quella di ricercare i file di grandi
+
+406
+00:26:43,880 --> 00:26:47,240
+dimensioni o doppi all'interno del mio hard disk.
+
+407
+00:26:47,240 --> 00:26:51,320
+Come sapete, io sono un professionista che vive con un hard disk
+
+408
+00:26:51,560 --> 00:26:57,080
+da 128 GB e anche se sembra incredibile, ho comunque dello spazio
+
+409
+00:26:57,080 --> 00:26:57,880
+libero.
+
+410
+00:26:57,880 --> 00:27:03,320
+Per il semplice fatto che, oltre a utilizzare questo tipo di manutenzione,
+
+411
+00:27:03,640 --> 00:27:09,080
+cerco di spostare i file i file grandi oppure le commesse chiuse,
+
+412
+00:27:09,080 --> 00:27:11,560
+non me le tengo lì sull'hard disk e me le porto avanti
+
+413
+00:27:11,560 --> 00:27:14,200
+e indietro, me le metto su un hard disk esterno e per
+
+414
+00:27:14,200 --> 00:27:16,120
+me è chiusa l' questione.
+
+415
+00:27:16,120 --> 00:27:20,680
+Quindi, visto che l'hard disk è piccolino, faccio questa manutenzione che comunque
+
+416
+00:27:20,680 --> 00:27:25,000
+consiglio a tutti quanti perché vi ritroverete come per magia a scoprire
+
+417
+00:27:25,000 --> 00:27:29,080
+di avere l'hard disk pieno di cavolate, perché alla fine si tratta
+
+418
+00:27:29,080 --> 00:27:29,960
+di questo.
+
+419
+00:27:29,960 --> 00:27:37,480
+Ci sono interessanti applicazioni come Gemini, che è un esempio di un'utility
+
+420
+00:27:37,480 --> 00:27:40,040
+magnifica che vi fa un giro per tutto l'hard disk e vi
+
+421
+00:27:40,040 --> 00:27:45,160
+dà tutti i duplicati in un modo veramente puntuale e direi quasi
+
+422
+00:27:45,160 --> 00:27:46,600
+ritagliato su misura.
+
+423
+00:27:46,600 --> 00:27:52,360
+Perché potete trovare addirittura due immagini uguali, nonostante magari ci sia il
+
+424
+00:27:52,360 --> 00:27:56,680
+nome del file diverso, riesce ad arrivare a questo tipo di controllo
+
+425
+00:27:56,680 --> 00:27:58,040
+sui propri file.
+
+426
+00:27:58,040 --> 00:28:02,360
+Ma questa è un'applicazione che ho utilizzato per un certo periodo finché
+
+427
+00:28:02,360 --> 00:28:05,880
+non è entrato nell'orbita di quella famosa applicazione, che adesso mi sfugge
+
+428
+00:28:05,880 --> 00:28:10,680
+il nome, che diciamo che è un'alternativa all'App Store setup.
+
+429
+00:28:10,680 --> 00:28:14,080
+Esatto, con setup che praticamente dietro a un
+
+430
+00:28:13,800 --> 00:28:18,720
+pagamento di una certa quota mensile, vi permette di scaricare un
+
+431
+00:28:18,960 --> 00:28:20,560
+tot di applicazioni.
+
+432
+00:28:20,560 --> 00:28:24,720
+Quindi per raggirare il problema, per fortuna ci ha aiutato la nostra
+
+433
+00:28:24,720 --> 00:28:29,600
+amica Apple, che vi permette, grazie alla meletta che troverete in alto
+
+434
+00:28:29,600 --> 00:28:35,120
+a sinistra della vostra bar, potete andare tranquillamente in informazioni su questo
+
+435
+00:28:35,120 --> 00:28:36,160
+Mac.
+
+436
+00:28:36,160 --> 00:28:40,240
+Poi, dopo che avete guardato la vostra bella finestrina che vi fa
+
+437
+00:28:40,240 --> 00:28:44,880
+una sintesi di quello che è il vostro Macintosh, andate semplicemente nella
+
+438
+00:28:44,880 --> 00:28:50,080
+tendina archiviazione e poi vedete che dopo un bel grafico colorato a
+
+439
+00:28:50,080 --> 00:28:53,200
+barre, sulla destra c'è il tastino Gestisci.
+
+440
+00:28:53,360 --> 00:28:58,880
+Questo, secondo me, è una delle grandi novità di dei sistemi operativi
+
+441
+00:28:58,880 --> 00:29:03,440
+Apple che ha tagliato penso le gambe a molte utility perché cosa
+
+442
+00:29:03,440 --> 00:29:03,920
+fa?
+
+443
+00:29:03,920 --> 00:29:09,360
+Vi dà una panoramica dello spazio occupato sul vostro Mac, senza bisogno
+
+444
+00:29:09,360 --> 00:29:13,040
+di ricorrere a grafici particolari, ma semplicemente vi dice che in questo
+
+445
+00:29:13,040 --> 00:29:15,920
+momento vi faccio un esempio del mio Macintosh.
+
+446
+00:29:15,920 --> 00:29:22,640
+Le applicazioni occupano circa 14 GB, i documenti 24, quindi capite già
+
+447
+00:29:22,640 --> 00:29:28,000
+l'ordine di grandezza rispetto alle applicazioni, o più documenti che applicazioni, e
+
+448
+00:29:28,000 --> 00:29:31,760
+poi vi parla delle foto, di cloud drive, i libri, la mail,
+
+449
+00:29:31,760 --> 00:29:33,280
+i messaggi, musica.
+
+450
+00:29:33,280 --> 00:29:38,560
+E poi il sistema, ad esempio, in questo caso occupa 11 GB.
+
+451
+00:29:38,560 --> 00:29:43,680
+Poi abbiamo una bellissima tendina che magari forse è utilizzabile, sarebbe bello
+
+452
+00:29:43,680 --> 00:29:48,320
+vedere cos'è sto altro con 54 GB, che vuol dire che occupa
+
+453
+00:29:48,320 --> 00:29:50,080
+quasi la metà del mio hard disk.
+
+454
+00:29:50,080 --> 00:29:52,960
+Non lo sappiamo per il momento, ci sono le utility che vi
+
+455
+00:29:52,960 --> 00:29:56,080
+ho appena descritto che possono aiutarvi.
+
+456
+00:29:56,080 --> 00:29:59,360
+Un'altra che mi ero dimenticato di dirvi che è gratuita e si
+
+457
+00:29:59,360 --> 00:30:04,680
+chiama Grand Perspective, che vi permette di fare un'analisi grafica di quello
+
+458
+00:29:59,600 --> 00:30:05,720
+che è il vostro hard disk.
+
+459
+00:30:06,200 --> 00:30:09,560
+E vuol dire semplicemente che una volta che analizzato il vostro hard
+
+460
+00:30:09,560 --> 00:30:15,480
+disk, vi fa vedere le dimensioni occupate dai file rispetto all'intero.
+
+461
+00:30:15,480 --> 00:30:16,600
+Quindi, se voi avete
+
+462
+00:30:17,880 --> 00:30:24,520
+il filmato di Gundam della vecchia generazione che occupa 10 GB
+
+463
+00:30:25,640 --> 00:30:30,040
+, chiaramente vi farà vedere questo file molto più grande rispetto al file
+
+464
+00:30:30,120 --> 00:30:34,120
+di progettazione AutoCAD che magari occupa 500 megab.
+
+465
+00:30:34,360 --> 00:30:38,040
+Quindi lo vedete molto più piccolo e quindi con un colpo d'occhio
+
+466
+00:30:38,120 --> 00:30:41,800
+vedete subito quello che occupa di più sul vostro hard disk.
+
+467
+00:30:41,800 --> 00:30:47,800
+Gram Perspective inoltre suddivide i file per colore e li raggruppa per
+
+468
+00:30:47,800 --> 00:30:48,280
+tipo.
+
+469
+00:30:48,280 --> 00:30:51,480
+Quindi avete delle zone rosse, delle zone blu, delle zone verde e
+
+470
+00:30:51,480 --> 00:30:54,520
+voi potete andare a vedere quello che occupa di più.
+
+471
+00:30:54,520 --> 00:31:02,520
+Tornando invece, per esempio, invece all'applicazione interna di Apple, è molto interessante
+
+472
+00:31:02,520 --> 00:31:06,600
+quando entrate nella cartella documenti perché potete andare a vedere già un
+
+473
+00:31:06,600 --> 00:31:09,880
+bel po' di cose che vi verranno molto utili.
+
+474
+00:31:09,880 --> 00:31:14,920
+Noi che siamo dei podcaster e utilizziamo ad esempio Producer, è meglio
+
+475
+00:31:14,920 --> 00:31:19,560
+che controlliamo questa simpatica utility perché Producer ha la tendenza a fare
+
+476
+00:31:19,560 --> 00:31:21,560
+duplicati di file WAV.
+
+477
+00:31:21,560 --> 00:31:25,640
+E come sappiamo bene io e Filippo, i file WAV occupano una
+
+478
+00:31:25,640 --> 00:31:30,200
+Madonna e mezza e conseguentemente è meglio iniziare a liberare spazio passando
+
+479
+00:31:30,200 --> 00:31:32,880
+da lì, iniziando a togliere i file duplicati.
+
+480
+00:31:32,880 --> 00:31:33,640
+Inutili.
+
+481
+00:31:33,640 --> 00:31:36,200
+Comunque, vi consiglio di andare a fare un giro perché ogni hard
+
+482
+00:31:36,200 --> 00:31:40,200
+disk e ogni sistema operativo e ogni utente ha il suo modo
+
+483
+00:31:40,200 --> 00:31:41,480
+di archiviare le cose.
+
+484
+00:31:41,520 --> 00:31:45,280
+E quindi andatevi a fare un bel giro per capire come gira
+
+485
+00:31:45,280 --> 00:31:48,160
+il mondo sul vostro hard disk.
+
+486
+00:31:45,000 --> 00:31:52,480
+Vedo nelle note dell'episodio che Filippo ha aggiunto Daisy.
+
+487
+00:31:52,640 --> 00:31:54,640
+Hai voglia di parlarcene un attimo?
+
+488
+00:31:54,640 --> 00:31:56,160
+Volentieri, volentieri.
+
+489
+00:31:56,160 --> 00:32:01,680
+Sì, io abitualmente l'ho acquistato ormai tempo addietro e la utilizzo spesso
+
+490
+00:32:01,840 --> 00:32:03,040
+volentieri.
+
+491
+00:32:03,040 --> 00:32:07,920
+Daisy disc è un utility ovviamente a pagamento, adesso non mi ricordo
+
+492
+00:32:07,920 --> 00:32:10,480
+che costo, ma deve costare intorno ai 15 euro.
+
+493
+00:32:10,480 --> 00:32:10,960
+Credo.
+
+494
+00:32:10,960 --> 00:32:16,160
+L'idea di Daisy Disc è ovviamente simile a quella di serie di
+
+495
+00:32:16,160 --> 00:32:20,480
+Apple, la cosa carina è che Daisy Disc praticamente fa un grafico
+
+496
+00:32:20,480 --> 00:32:25,520
+a torta dove si vedono le cartelle all'interno delle quali ci sono
+
+497
+00:32:25,520 --> 00:32:30,400
+più file, quindi le cartelle così più grosse, e entrando ovviamente dentro
+
+498
+00:32:30,400 --> 00:32:35,280
+la singola cartella, è possibile vedere a sua volta quali sono i
+
+499
+00:32:35,280 --> 00:32:37,040
+file più grandi.
+
+500
+00:32:37,040 --> 00:32:42,240
+Quindi è un modo molto rapido per vedere innanzitutto da che cosa
+
+501
+00:32:42,240 --> 00:32:47,360
+e come è occupato il vostro computer e andare a fare un'analisi
+
+502
+00:32:47,360 --> 00:32:52,320
+un po' più raffinata e un po' più specifica rispetto a quella
+
+503
+00:32:52,320 --> 00:32:58,720
+dell'applicazione diciamo di base di Apple, che si dà delle informazioni abbastanza
+
+504
+00:32:58,720 --> 00:32:59,120
+utili.
+
+505
+00:32:59,120 --> 00:33:03,520
+Però, per esempio, una cosa che forse Roberto non ha detto: ma
+
+506
+00:33:03,520 --> 00:33:08,560
+se non avete salvato i file dentro documenti, per esempio, questa applicazione
+
+507
+00:33:08,720 --> 00:33:13,360
+di Apple non va a fare le ricerche e fa vedere le
+
+508
+00:33:13,360 --> 00:33:14,400
+varie cose.
+
+509
+00:33:14,400 --> 00:33:20,400
+Quindi Daisy Disc, per esempio, vi può far scoprire che alcune applicazioni
+
+510
+00:33:20,400 --> 00:33:25,760
+hanno creato delle cash piuttosto che delle cose strane che abitualmente vengono
+
+511
+00:33:25,760 --> 00:33:29,680
+salvate in altre parti del sistema operativo e che possono dare dei
+
+512
+00:33:29,680 --> 00:33:30,000
+programmati.
+
+513
+00:33:31,240 --> 00:33:37,720
+Esempio tipico, che nel nostro caso specifico viene rilevato comunque dall'utility di
+
+514
+00:33:37,720 --> 00:33:42,200
+Apple, ma che fino a secondo me, due o tre sistemi che
+
+515
+00:33:42,200 --> 00:33:47,160
+hanno aggiunto questa funzione del gestire lo spazio su hard disk.
+
+516
+00:33:47,160 --> 00:33:54,040
+Prima se tu facevi molti backup dell'iPhone sul computer, vedevi che non
+
+517
+00:33:54,040 --> 00:33:57,720
+avevi più spazio su disco, ma non sapevi per quale ragione, spesso
+
+518
+00:33:57,720 --> 00:34:03,480
+e volentieri mi sono accorto che uno dei problemi era dovuto ai
+
+519
+00:34:03,480 --> 00:34:08,840
+backup appunto dei telefoni piuttosto che dell'iPad e così via.
+
+520
+00:34:08,840 --> 00:34:13,480
+Quindi Daisy Disc è molto utile da questo punto di vista per
+
+521
+00:34:13,480 --> 00:34:15,320
+fare questa tipologia.
+
+522
+00:34:15,320 --> 00:34:19,240
+È ovviamente un'applicazione chiamata a pagamento quindi professionale,
+
+523
+00:34:20,520 --> 00:34:25,640
+ti permette di fare delle indagini più specifiche e a volte anche
+
+524
+00:34:25,640 --> 00:34:30,920
+utili per capire, soprattutto se si hanno molti file, molte cartelle e
+
+525
+00:34:30,920 --> 00:34:36,120
+molte cose, riuscire a individuare dove ci sono dei problemi e dove
+
+526
+00:34:36,120 --> 00:34:40,040
+si può intervenire per ottimizzare il tutto.
+
+527
+00:34:40,040 --> 00:34:44,600
+Mentre tu parlavi, ovviamente ho lanciato anche io l'applicazione di Apple e
+
+528
+00:34:44,600 --> 00:34:47,880
+mi sono per esempio reso conto che ho dei filmati ancora salvati
+
+529
+00:34:47,880 --> 00:34:49,240
+sull'hardis.
+
+530
+00:34:49,560 --> 00:34:55,560
+Che ovviamente posso archiviare altrove, e che infatti sto archiviando mentre stiamo
+
+531
+00:34:55,560 --> 00:34:58,840
+discutendo perché sono 4 GB di film.
+
+532
+00:34:59,960 --> 00:35:03,080
+È un attimo con i filmati di salire con la cifra.
+
+533
+00:35:04,280 --> 00:35:08,520
+È vero che sul mio MacBook Pro 16 pollici ho 512 GB
+
+534
+00:35:09,080 --> 00:35:11,960
+di hard disk, quindi è una cosa diversa.
+
+535
+00:35:12,000 --> 00:35:15,600
+Si, per me sarebbe una prateria con tutto quello spazio, non saprei
+
+536
+00:35:15,600 --> 00:35:22,800
+cosa farmene attualmente ho 115 151 GB liber.
+
+537
+00:35:26,960 --> 00:35:29,280
+Che ha lo spazio lo usa, giustamente?
+
+538
+00:35:29,840 --> 00:35:34,720
+A proposito di spazio, bisogna ricordarsi che i backup di iPhone e
+
+539
+00:35:34,720 --> 00:35:40,160
+i pad si possono spostare dall'hard disk del Macintosh, cioè nel senso
+
+540
+00:35:40,160 --> 00:35:44,640
+che potete prenderli e archiviarli da un'altra parte senza fare danni nel
+
+541
+00:35:44,720 --> 00:35:47,760
+momento in cui ne avete bisogno, lo rimettete nella stessa cartella.
+
+542
+00:35:47,760 --> 00:35:51,280
+Ma secondo me forse è meglio il caso parlarne in una puntata
+
+543
+00:35:51,280 --> 00:35:53,840
+apposita tra i vari backup e compagnia briscola.
+
+544
+00:35:53,840 --> 00:35:59,280
+Comunque ricordatevi che non per forza dovete essere proni a quello che
+
+545
+00:35:59,280 --> 00:36:00,480
+vi dice Apple.
+
+546
+00:36:00,480 --> 00:36:04,240
+Si può fare anche in modo alternativo, soprattutto se seguite il nostro
+
+547
+00:36:04,240 --> 00:36:09,920
+podcast dove vi svegliamo o perlomeno vi raccontiamo quello che facciamo noi
+
+548
+00:36:09,920 --> 00:36:15,440
+per sopravvivere con la tecnologia Apple da professionisti.
+
+549
+00:36:15,440 --> 00:36:21,280
+Una piccola precisazione perché mentre parlavamo ho fatto due controlli e segnalo
+
+550
+00:36:21,280 --> 00:36:26,080
+che effettivamente l'applicazione di Apple è più furba del previsto, cioè nel
+
+551
+00:36:26,080 --> 00:36:31,440
+senso, se andiamo in documenti e andiamo a vedere, non solo ci
+
+552
+00:36:31,440 --> 00:36:35,600
+fa vedere i file più grandi, diciamo, ma ci fa vedere i
+
+553
+00:36:35,600 --> 00:36:40,800
+file all'interno della cartella di download e vabbè, cioè meglio, vabbè, effettivamente
+
+554
+00:36:40,880 --> 00:36:45,520
+io su questa cartella dovrei lavorarci più spesso perché ho veramente tanto
+
+555
+00:36:46,160 --> 00:36:48,000
+tante cose bruttine.
+
+556
+00:36:48,000 --> 00:36:48,160
+Ma
+
+557
+00:36:49,200 --> 00:36:54,720
+l'ultima tab è browser file e vi permette di vedere appunto quali
+
+558
+00:36:54,720 --> 00:36:55,760
+sono le cartelle.
+
+559
+00:36:55,760 --> 00:36:59,280
+Sempre all'interno dei documenti attendo a precisare, no, neanche perché ci sono
+
+560
+00:36:59,280 --> 00:37:03,480
+anche immagini quindi direi che in generale raggruppa per tutto è molto
+
+561
+00:37:03,480 --> 00:37:08,120
+interessante non l'avevo ancora guardato infatti ti dico non l'avevo neanche neanche
+
+562
+00:37:08,200 --> 00:37:11,320
+io e lì vi fa vedere appunto per esempio la cartella più
+
+563
+00:37:11,320 --> 00:37:14,760
+grossa che ho e che quindi è simile a Easy Disc come
+
+564
+00:37:14,760 --> 00:37:20,200
+approccio e immagini dove ci sono solo 55 GB di immagini ma
+
+565
+00:37:20,200 --> 00:37:25,400
+c'è c'è dentro la libreria di foto ovviamente quindi anche quello si
+
+566
+00:37:25,400 --> 00:37:29,320
+può fare il backup lo so anzi addirittura è possibile spostarla su
+
+567
+00:37:29,320 --> 00:37:34,680
+un hard disk esterno però nella sostanza anche di quelle cose ne
+
+568
+00:37:34,680 --> 00:37:39,400
+dovremmo parlare anche di questo nel senso vedi perché dobbiamo riascoltare le
+
+569
+00:37:39,400 --> 00:37:44,920
+puntate perché mentre parliamo ci vengono altre idee da sviluppare successivamente anzi
+
+570
+00:37:45,000 --> 00:37:48,520
+direi io per esempio invece la cartella più grande è quella dei
+
+571
+00:37:48,520 --> 00:37:53,400
+documenti che ho 15 giga e invece la cartella immagini arriva solo
+
+572
+00:37:53,400 --> 00:37:57,800
+a 1 giga e 12, perché appunto questa tendenza a liberarmi di
+
+573
+00:37:57,800 --> 00:38:00,840
+file che non utilizzo o che vanno archiviati.
+
+574
+00:38:00,840 --> 00:38:05,240
+Io per esempio do una piccola preview la libreria delle immagini faccio
+
+575
+00:38:05,240 --> 00:38:08,920
+un archivio per anno e poi la spedisco ogni anno a dicembre
+
+576
+00:38:09,000 --> 00:38:12,760
+prendo un pacchettino e lo spedisco sul hard disk esterno certo se
+
+577
+00:38:12,760 --> 00:38:17,000
+mi bolla all'hard disk esterno sono morto devi fare i backup ma
+
+578
+00:38:17,000 --> 00:38:23,960
+questa sarà puntata probabilmente una delle prossime puntate mentre parlavamo ho liberato
+
+579
+00:38:23,960 --> 00:38:28,920
+12 GB della beta di Big Sure che avevo sul Mac, già
+
+580
+00:38:29,000 --> 00:38:32,120
+installato ho già installato su un hard disk esterno quindi ho big
+
+581
+00:38:32,120 --> 00:38:36,440
+sure comunque funzionante d'altrove e mi sono reso conto che avevo ancora
+
+582
+00:38:36,440 --> 00:38:42,760
+12 GB leggerissimo e quindi ho cancellato anche questa roba quindi direi
+
+583
+00:38:42,760 --> 00:38:44,560
+che oggi mi sei servito.
+
+584
+00:38:44,720 --> 00:38:49,520
+Visto, la puntata di oggi è diventata utile a tutti, noi stessi
+
+585
+00:38:49,520 --> 00:38:50,080
+compreso.
+
+586
+00:38:50,240 --> 00:38:54,240
+Dunque, andiamo avanti e andiamo a vedere un po' per quanto riguarda
+
+587
+00:38:54,400 --> 00:38:59,680
+invece l'installazione e la disinstallazione delle applicazioni, perché magari tra le varie
+
+588
+00:38:59,680 --> 00:39:04,720
+vostre applicazioni troverete delle applicazioni che non utilizzate più, avete installato e
+
+589
+00:39:04,720 --> 00:39:07,760
+non ve ne fate più niente o vi hanno dato dei problemi.
+
+590
+00:39:07,760 --> 00:39:10,960
+Chi lo sa, non tutte le ciambelle vengono col buco.
+
+591
+00:39:11,280 --> 00:39:14,560
+La cosa più veloce da fare è qual è: e se non
+
+592
+00:39:14,560 --> 00:39:20,640
+essendo su sistemi operativi Windows, non dobbiamo ricorrere a una procedura di
+
+593
+00:39:20,640 --> 00:39:27,440
+disinstallazione, almeno generalmente nella maggior parte dei casi, e basta prendere semplicemente
+
+594
+00:39:27,440 --> 00:39:32,640
+l'applicazione della cartella applicazione, buttarla nel cestino e così l'avete salutata una
+
+595
+00:39:32,640 --> 00:39:33,760
+volta per tutte.
+
+596
+00:39:33,760 --> 00:39:40,080
+Se invece volete entrare a gamba tesa sulla eliminazione e estirpazione di
+
+597
+00:39:40,080 --> 00:39:45,120
+tutto ciò che riguarda questa applicazione, ci sono delle utility apposta, come
+
+598
+00:39:45,120 --> 00:39:48,240
+ad esempio quella che utilizzo io che si chiama App Cleaner, e
+
+599
+00:39:48,240 --> 00:39:53,760
+che ti permette semplicemente di invece spostare l'applicazione nel cestino, la spostate
+
+600
+00:39:53,760 --> 00:40:00,240
+all'interno dell'applicazione app cleaner e questa applicazione vi controllerà tutte le varie
+
+601
+00:40:00,240 --> 00:40:06,800
+P list che sono i file che utilizza il Macintosh per ricordare
+
+602
+00:40:06,800 --> 00:40:10,080
+le vostre preferenze e quindi farà un giro del vostro disk e
+
+603
+00:40:10,080 --> 00:40:13,040
+vi prende anche quelle preferenze e ve le butta nel cestino.
+
+604
+00:40:13,040 --> 00:40:16,160
+Quindi è una pulizia decisamente più mirata.
+
+605
+00:40:16,160 --> 00:40:18,920
+Io lo faccio perché continua a dire per me lo spazio su
+
+606
+00:40:18,920 --> 00:40:20,480
+a disk è prezioso.
+
+607
+00:40:20,480 --> 00:40:25,120
+Ma considerate che basta semplicemente anche prendere l'applicazione, buttarla nel cestino e
+
+608
+00:40:25,120 --> 00:40:27,120
+avete risolto tutto quanto.
+
+609
+00:40:27,360 --> 00:40:29,840
+Ecco una precisazione.
+
+610
+00:40:30,520 --> 00:40:36,120
+Attenzione, perché a me è già capitato varie volte soprattutto in Firefox,
+
+611
+00:40:36,120 --> 00:40:37,800
+mi ha dato questi problemi.
+
+612
+00:40:37,960 --> 00:40:43,640
+Appunto, le applicazioni hanno sia l'applicazione, chiamiamola così core che tutta una
+
+613
+00:40:43,640 --> 00:40:49,720
+serie di file, diciamo, di configurazione che Mecost trattiene abitualmente.
+
+614
+00:40:49,720 --> 00:40:53,400
+Proprio perché se voi avete fatto dei salvataggi o avete delle impostazioni
+
+615
+00:40:53,400 --> 00:40:59,480
+su un'applicazione, la cancellate, la riinstallate, la riscaricate dall'ap store Mac App
+
+616
+00:40:59,640 --> 00:41:07,400
+Store, queste impostazioni rimangono, però ovviamente queste impostazioni hanno un peso, diciamo,
+
+617
+00:41:07,400 --> 00:41:11,480
+sul vostro hard disk e quindi appunto up cleaner piuttosto che io
+
+618
+00:41:11,480 --> 00:41:16,840
+utilizzo Azer perché ce l'ho già e quindi di fatto fa la
+
+619
+00:41:16,840 --> 00:41:18,200
+stessa funzione.
+
+620
+00:41:18,200 --> 00:41:23,320
+Quando vado a cancellare un'applicazione, la sposto nel cestino e poi la
+
+621
+00:41:23,320 --> 00:41:29,480
+cancello, si accorge che l'applicazione è stata cancellata e mi sottopone una
+
+622
+00:41:29,480 --> 00:41:36,040
+finestra dove mi dice vuoi cancellare anche tutti questi file collegati all'applicazione.
+
+623
+00:41:36,040 --> 00:41:41,400
+Abitualmente se avete disinstallato un'applicazione nell'80-90% dei caso è perché non la
+
+624
+00:41:41,400 --> 00:41:45,560
+usate, perché ve le volete disfare quindi anche le varie configurazioni non
+
+625
+00:41:45,560 --> 00:41:46,600
+vi interessano.
+
+626
+00:41:46,600 --> 00:41:50,920
+È ovvio che se, per esempio, per emergenza avete dovuto cancellare 10
+
+627
+00:41:50,920 --> 00:41:56,520
+applicazioni perché non avevate spazio sull'hardisk ma le volete reinstallare, allora tutta
+
+628
+00:41:56,520 --> 00:41:58,680
+questa attività non ha senso.
+
+629
+00:41:58,680 --> 00:42:05,000
+Tuttavate che sotto il cofano, diciamo, è così che funziona il sistema.
+
+630
+00:42:05,000 --> 00:42:10,440
+È molto intuitivo perché, appunto, in generale rispetto a Windows, salvo casi
+
+631
+00:42:10,440 --> 00:42:17,440
+particolari, driver, piuttosto che applicazioni che fino a Big Sure richiedevano un'installazione
+
+632
+00:42:17,440 --> 00:42:23,680
+all'interno del sistema operativo, chiamiamolo così, la maggior parte delle applicazioni DMG
+
+633
+00:42:23,760 --> 00:42:28,640
+per intenderci, i file DMG di installazione delle applicazioni, basta trascinare le
+
+634
+00:42:28,640 --> 00:42:34,640
+applicazioni nella cartella applicazioni e basta a quel punto lì cancellare dalla
+
+635
+00:42:34,640 --> 00:42:36,800
+cartella applicazioni l'applicazione.
+
+636
+00:42:36,800 --> 00:42:42,480
+Sui packag PKG invece, che sono i pacchetti che richiedono un'installazione più
+
+637
+00:42:42,800 --> 00:42:46,960
+interna nel sistema operativo, che è tipico dei driver o delle stampanti,
+
+638
+00:42:46,960 --> 00:42:49,840
+per esempio, lì è un discorso diverso.
+
+639
+00:42:49,840 --> 00:42:55,520
+Infatti, spesso e volentieri il PKG ha anche un disinstaller perché deve
+
+640
+00:42:55,520 --> 00:43:00,000
+andare a fare pulizia in altre parti del sistema operativo.
+
+641
+00:43:00,000 --> 00:43:03,840
+Devo dire la verità, recentemente l'unica cosa che non ho testato di
+
+642
+00:43:03,840 --> 00:43:09,280
+Big Sure è l'installazione di periferiche come una stampante, uno scanner e
+
+643
+00:43:09,280 --> 00:43:10,000
+così via.
+
+644
+00:43:10,000 --> 00:43:14,400
+Quindi non so dirvi esattamente se ci sono problemi o meno.
+
+645
+00:43:14,400 --> 00:43:19,760
+Tuttavia, per esempio, ho installato una cosa un po' particolare, ma OpenSC
+
+646
+00:43:19,760 --> 00:43:26,000
+su Big Sure che è un PKG come file di base, e
+
+647
+00:43:26,240 --> 00:43:29,600
+devo dire la verità, non ho avuto grossi problemi.
+
+648
+00:43:30,000 --> 00:43:34,720
+Anche lì dipende molto dove va a installare cosa è tutto chiaro.
+
+649
+00:43:34,720 --> 00:43:40,480
+Sì, sì, poi chiaramente io ve lo raccontiamo così prendetele con le
+
+650
+00:43:40,480 --> 00:43:44,960
+pinze la questione, perché bisogna provarlo col sistema operativo corrente.
+
+651
+00:43:44,960 --> 00:43:47,680
+Noi adesso stiamo registrando nel 2021.
+
+652
+00:43:47,680 --> 00:43:50,880
+Io, ad esempio, non ho ancora Big Sure per il semplice fatto
+
+653
+00:43:50,880 --> 00:43:53,360
+che aspetto un anno dalla data di uscita.
+
+654
+00:43:53,600 --> 00:43:59,600
+Può darsi che magari alcune di queste cose devono essere riviste nell'anno
+
+655
+00:43:59,920 --> 00:44:01,640
+in cui ascoltate.
+
+656
+00:44:01,880 --> 00:44:05,560
+Ve lo dico questo perché appunto una delle utility che vi sto
+
+657
+00:44:05,560 --> 00:44:09,880
+per citare adesso è un utility che cambia in base al sistema
+
+658
+00:44:09,880 --> 00:44:10,360
+operativo.
+
+659
+00:44:10,360 --> 00:44:15,400
+Si chiama Onix, vi permette di fare una pulizia del sistema come
+
+660
+00:44:15,400 --> 00:44:17,320
+liberare la cache via discorrendo.
+
+661
+00:44:17,320 --> 00:44:19,720
+Adesso do un'occhiata anche alle preferenze.
+
+662
+00:44:19,720 --> 00:44:24,600
+Però questa simpatica applicazione ce n'è uno per tipo di sistema operativo.
+
+663
+00:44:24,600 --> 00:44:30,040
+Quindi, se avete Mojave avete un Onix apposta, se avete Big Sur
+
+664
+00:44:30,200 --> 00:44:32,360
+ne avrete un'altra apposta.
+
+665
+00:44:32,360 --> 00:44:37,480
+Allora io adesso lancio un attimo, meglio di nuovo, ho paura che
+
+666
+00:44:37,480 --> 00:44:41,160
+faccia casini perché richiede di chiudere tutte le applicazioni.
+
+667
+00:44:41,160 --> 00:44:43,720
+Onix è un'applicazione molto interessante.
+
+668
+00:44:43,720 --> 00:44:53,720
+Tuttavia, come per Spider-Man, dai grandi poteri derivano grandi responsabilità bravissimo.
+
+669
+00:44:53,880 --> 00:44:54,840
+Stavo passando.
+
+670
+00:44:54,840 --> 00:44:57,960
+Tu sei responsabile, un fan del lavoro.
+
+671
+00:44:58,200 --> 00:44:59,480
+Infatti, te l'ho lasciata lì.
+
+672
+00:44:59,480 --> 00:45:01,000
+Ho detto dillo
+
+673
+00:45:02,920 --> 00:45:03,240
+.
+
+674
+00:45:03,240 --> 00:45:08,280
+Comunque, detto questo, perché Onix è un'applicazione decisamente potente.
+
+675
+00:45:08,280 --> 00:45:11,560
+Che se non sapete dove mettere le mani, è facile che vi
+
+676
+00:45:11,560 --> 00:45:13,240
+blocchi anche il sistema operativo.
+
+677
+00:45:13,240 --> 00:45:18,040
+Ma è un'applicazione dall'altra parte molto semplice che fa quello che deve.
+
+678
+00:45:18,360 --> 00:45:22,120
+Io di tutte le tendine che ci sono, ne guardo semplicemente una
+
+679
+00:45:22,120 --> 00:45:26,440
+che è quella della manutenzione, lascio tutte le impostazioni di default e
+
+680
+00:45:26,440 --> 00:45:27,800
+la lascio lavorare.
+
+681
+00:45:27,800 --> 00:45:31,960
+Questa simpatica applicazione prende e incomincia a liberare la cash del sistema,
+
+682
+00:45:32,600 --> 00:45:39,560
+di safari, insomma, dà una bella pulita di quello che non serve
+
+683
+00:45:39,560 --> 00:45:45,520
+all'interno del sistema operativo e poi chiaramente fa un riavvio alla fine
+
+684
+00:45:44,600 --> 00:45:46,560
+della procedura.
+
+685
+00:45:46,880 --> 00:45:48,160
+Chiaramente perché
+
+686
+00:45:49,440 --> 00:45:55,680
+funzioni come debba funzionare, tutte le applicazioni vanno chiuse prima di avviare
+
+687
+00:45:55,680 --> 00:45:56,400
+Onix.
+
+688
+00:45:56,400 --> 00:45:59,840
+In ogni caso, questo vi avverte di quello che sta facendo.
+
+689
+00:46:00,080 --> 00:46:06,720
+Centemente è un'applicazione sicura, bastano andare in giro a cercarvi delle grane,
+
+690
+00:46:06,720 --> 00:46:07,520
+è un po'
+
+691
+00:46:08,960 --> 00:46:12,160
+il discorso di prima: se non vi cercate delle grane, tutto funziona
+
+692
+00:46:12,160 --> 00:46:12,720
+alla grande.
+
+693
+00:46:12,800 --> 00:46:16,560
+Se non sapete dove mettere le mani, potete combinare dei disastri perché
+
+694
+00:46:16,560 --> 00:46:22,080
+Onix è un'applicazione molto potente e può fare cose interessanti, ma può
+
+695
+00:46:22,080 --> 00:46:24,960
+anche farne altre che vi possono creare dei problemi se non sapete
+
+696
+00:46:24,960 --> 00:46:26,000
+dove mettere le mani.
+
+697
+00:46:26,000 --> 00:46:30,080
+Poi continuo a dire: questo è un consiglio che io ho testato
+
+698
+00:46:30,080 --> 00:46:30,800
+da anni.
+
+699
+00:46:30,800 --> 00:46:34,480
+Onix, nella sua situazione di default, fa quello che deve fare e
+
+700
+00:46:34,480 --> 00:46:40,000
+non fa danni, semplicemente basta avviarla a QuerSerena e non andarci a
+
+701
+00:46:40,000 --> 00:46:41,520
+cercare delle grane.
+
+702
+00:46:41,840 --> 00:46:45,840
+Questo più o meno è quello che faccio io dal punto di
+
+703
+00:46:45,840 --> 00:46:49,920
+vista software sul mio Mac e poi passo direttamente a quello che
+
+704
+00:46:49,920 --> 00:46:51,520
+faccio sull'hardware.
+
+705
+00:46:51,520 --> 00:46:55,840
+Non è che ci sia chissà cosa, però anche l'hardware ha bisogno
+
+706
+00:46:55,840 --> 00:46:59,120
+di una sua pulizia e manutenzione.
+
+707
+00:46:59,520 --> 00:47:03,520
+Questo in teoria dovrebbe essere valido per tutti i computer o strumenti
+
+708
+00:47:03,520 --> 00:47:04,720
+che utilizzate.
+
+709
+00:47:04,960 --> 00:47:10,240
+Ad esempio, la prima cosa che faccio io, che soprattutto in periodo
+
+710
+00:47:10,240 --> 00:47:15,520
+di pandemia penso che sia appena il minimo, è quello di pulire
+
+711
+00:47:15,520 --> 00:47:21,120
+il case e la tastiera del vostro Macintosh o del vostro computer.
+
+712
+00:47:21,120 --> 00:47:26,880
+Qui incominciamo ad allargare il gettito anche iPad e iPhone, perché comunque
+
+713
+00:47:27,040 --> 00:47:33,240
+soprattutto l'iPhone e l'iPad sono strumenti che forse stanno molto più vicini
+
+714
+00:47:29,760 --> 00:47:35,640
+a noi dal punto di vista tattile.
+
+715
+00:47:35,800 --> 00:47:40,200
+Anche del parlare, perché comunque quando avete un iPhone e siete il
+
+716
+00:47:40,200 --> 00:47:45,720
+telefono, comunque ce l'avete più vicino, sicuramente che un Mac e conseguentemente
+
+717
+00:47:45,720 --> 00:47:49,160
+hanno bisogno di essere puliti molto più spesso.
+
+718
+00:47:49,400 --> 00:47:53,000
+Io faccio così: utilizzo tendenzialmente l'alcol.
+
+719
+00:47:53,000 --> 00:47:58,280
+Ho visto che su iPhone e iPad non patiscono assolutamente nulla, nel
+
+720
+00:47:58,280 --> 00:48:01,880
+senso che lo schermo lo potete pulire tranquillamente con un po' di
+
+721
+00:48:01,880 --> 00:48:07,800
+altol, non è che dovete renderlo completamente fradicio, basta inumidirlo un po'
+
+722
+00:48:07,960 --> 00:48:12,200
+un panno, lo passate davanti, dietro, attorno dietro dove lo prendete, poi
+
+723
+00:48:12,200 --> 00:48:15,080
+anche sullo schermo, date una pulita e via andate.
+
+724
+00:48:15,080 --> 00:48:20,680
+Invece, sul Mackintosh credo che non ne ho la certezza, ma credo
+
+725
+00:48:20,680 --> 00:48:26,840
+che il video sia decisamente più delicato rispetto all'iPad e l'iPhone.
+
+726
+00:48:27,080 --> 00:48:33,480
+Conseguentemente, io pulisco semplicemente la scocca dietro al video e la scocca
+
+727
+00:48:33,480 --> 00:48:35,320
+sotto la tastiera, con
+
+728
+00:48:36,600 --> 00:48:40,280
+il panno im bevuto di alcol e lì vi stupirete di quante
+
+729
+00:48:40,280 --> 00:48:44,600
+schifezze rimangono attaccate al vostro Mac e non ve ne rendete conto.
+
+730
+00:48:44,600 --> 00:48:49,400
+E poi bisogna pulire fare la stessa cosa direttamente sulla tastiera, anche
+
+731
+00:48:49,560 --> 00:48:54,520
+lì le tastiere sono tendenzialmente un ricettacolo di schifezze, perché comunque le
+
+732
+00:48:54,520 --> 00:48:56,680
+mani, a meno che non lavorate
+
+733
+00:48:57,800 --> 00:49:03,000
+all'interno di una clinica, saranno sempre per forza di cose, più sporche
+
+734
+00:49:03,000 --> 00:49:03,880
+del dovuto.
+
+735
+00:49:04,120 --> 00:49:08,040
+Conseguentemente bisogna pulire con alcol anche quelle superfici.
+
+736
+00:49:08,040 --> 00:49:11,960
+Nel corso degli anni ho pulito le tastiere, il trackpad e tutta
+
+737
+00:49:11,960 --> 00:49:16,720
+la parte sopra del Mac e non ho mai riscoltato problemi.
+
+738
+00:49:16,720 --> 00:49:19,600
+Quello che vi consiglio, però, di fare per quanto riguarda lo schermo
+
+739
+00:49:19,680 --> 00:49:23,440
+è di lasciar perdere l'alcol e di prendere uno di quei pannetti
+
+740
+00:49:23,680 --> 00:49:26,640
+che chi utilizza gli occhiali sa di quello che parlo, sono il
+
+741
+00:49:26,640 --> 00:49:32,400
+microfibra e inumidirlo leggermente e poi passarlo tranquillamente sul vostro schermo.
+
+742
+00:49:32,400 --> 00:49:37,760
+Anche lì, almeno io che parlo spesso e volentieri davanti al Macintosh
+
+743
+00:49:38,080 --> 00:49:41,600
+è un pullulare di puntini sul video.
+
+744
+00:49:41,600 --> 00:49:45,840
+Quindi io questa pulizia sarò un po' pazzo, però la faccio ogni
+
+745
+00:49:45,840 --> 00:49:47,280
+settimana essenzialmente.
+
+746
+00:49:47,440 --> 00:49:50,000
+Voi se non siete pazzi come me, ve la fate una volta
+
+747
+00:49:50,000 --> 00:49:53,680
+al mese e state tranquilli che funziona tutto quanto.
+
+748
+00:49:53,680 --> 00:49:58,560
+Detto questo, io faccio ancora un'altra cosa che riguarda l'hardware, che è
+
+749
+00:49:58,560 --> 00:50:01,760
+una cosa abbastanza semplice ma che non tutti ci pensano.
+
+750
+00:50:01,760 --> 00:50:05,520
+Che è quello che riguarda la pulizia delle ventole.
+
+751
+00:50:05,520 --> 00:50:08,560
+Io non vado a smontarmi il Mac per dare una pulita alle
+
+752
+00:50:08,560 --> 00:50:12,400
+ventole, ma grazie a un consiglio che ha dato il grandissimo Nicola
+
+753
+00:50:12,400 --> 00:50:17,520
+Lossito che ringrazio e saluto caldamente perché è amico comune sia mio
+
+754
+00:50:17,520 --> 00:50:22,800
+di Filippo e che praticamente ci ha fatto conoscere, lui ha avuto
+
+755
+00:50:22,800 --> 00:50:27,360
+un problema con i Mac, mi pare che sia il 27 pollici,
+
+756
+00:50:27,360 --> 00:50:28,240
+se non ricordo male.
+
+757
+00:50:28,320 --> 00:50:32,240
+Fatto sta che aveva dei problemi di raffreddamento e ha deciso bene
+
+758
+00:50:32,240 --> 00:50:33,920
+di provare a fare un esperimento.
+
+759
+00:50:33,920 --> 00:50:38,080
+Invece di aprire il Mac e pulire le ventole ha preso un
+
+760
+00:50:38,080 --> 00:50:42,320
+utility, all'epoca si chiamava SMC Fan Control, e ha preso e ha
+
+761
+00:50:42,320 --> 00:50:47,600
+sbattuto alla massima velocità le ventole ed è uscito di tutto
+
+762
+00:50:49,440 --> 00:50:56,080
+dall'uscita delle ventole perché giustamente il MAC tendenzialmente lavora a ventole ferme
+
+763
+00:50:56,080 --> 00:50:59,680
+o che girano molto poco, però la polvere la becca non lo
+
+764
+00:50:59,680 --> 00:51:00,000
+stesso.
+
+765
+00:51:00,520 --> 00:51:05,720
+SMC Fan Control è un'applicazione che mi pare che non funzioni con
+
+766
+00:51:06,040 --> 00:51:11,560
+i MAC recenti dotati di chip T2, almeno a me non funzionava.
+
+767
+00:51:11,560 --> 00:51:17,080
+Così sono andato a cercarmi un'altra utility che si chiama Mac Fan
+
+768
+00:51:17,080 --> 00:51:23,080
+Control, che probabilmente dà sicuramente più indicazioni rispetto a SMC fan conto
+
+769
+00:51:23,240 --> 00:51:26,280
+che era abbastanza un'utility molto povera, diciamola così.
+
+770
+00:51:26,280 --> 00:51:33,160
+Invece questa è un'utility abbastanza completa, perché oltre ad avere la possibilità
+
+771
+00:51:33,160 --> 00:51:36,680
+di mandare le ventole al massimo, vi dà tutta una serie di
+
+772
+00:51:36,680 --> 00:51:40,760
+parametri che sono per esempio le temperature che stanno subendo il vostro
+
+773
+00:51:40,760 --> 00:51:41,960
+hardware interno.
+
+774
+00:51:41,960 --> 00:51:46,040
+Per esempio, adesso che sto registrando, ho la CPU che viaggia intorno
+
+775
+00:51:46,040 --> 00:51:52,760
+a 67 gradi e la GPU pure GPU in questo caso è
+
+776
+00:51:53,080 --> 00:51:58,120
+integrata al processore e sto guardando che la parte più fresca è
+
+777
+00:51:58,120 --> 00:52:04,280
+quella dove c'è il palmo che è a 27 gradi, invece l'SSD
+
+778
+00:52:04,280 --> 00:52:08,680
+viagg intorno ai 45 gradi, ma questi sono dati poco importanti.
+
+779
+00:52:08,680 --> 00:52:11,560
+Quello che vi dico io è che c'è la possibilità di prendere
+
+780
+00:52:11,560 --> 00:52:14,040
+e sbattere le ventole al massimo.
+
+781
+00:52:14,040 --> 00:52:17,720
+Io le tendo tendenzialmente 20 minuti al massimo.
+
+782
+00:52:17,720 --> 00:52:22,680
+In modo tale in 20 minuti di giramento di ventole, chiamiamolo così,
+
+783
+00:52:22,680 --> 00:52:25,880
+tutti i vari residui che ci sono all'interno di un portatile perché
+
+784
+00:52:25,880 --> 00:52:30,040
+comunque lo mettete dentro una borsa e comunque va in vari ambienti
+
+785
+00:52:30,200 --> 00:52:33,240
+o anche al Mac che rimane lì e comunque si becca la
+
+786
+00:52:33,240 --> 00:52:37,640
+polvere, perché in ogni ambiente c'è la polvere più o meno.
+
+787
+00:52:38,040 --> 00:52:43,320
+Sono macchine che essendo girandoci elettricità attirano la polvere.
+
+788
+00:52:43,320 --> 00:52:46,480
+Esattamente è una cosa improbata.
+
+789
+00:52:47,680 --> 00:52:52,160
+Direi che è matematico che attiri la polvere, e quindi questa qui
+
+790
+00:52:52,160 --> 00:52:56,240
+può essere un'ottima soluzione, e vi dico per me lo è stato
+
+791
+00:52:56,240 --> 00:53:04,640
+perché lo utilizzo praticamente dal 2014, giù di lì, questa possibilità.
+
+792
+00:53:05,600 --> 00:53:09,440
+Io non ho mai avuto problemi col Mac, forse anche grazie a
+
+793
+00:53:09,440 --> 00:53:14,400
+questa possibilità che il sistema di raffreddamento, soprattutto con i Mac Intel,
+
+794
+00:53:14,400 --> 00:53:18,320
+perché per quanto riguarda i Mac M1, potete anche probabilmente staccare la
+
+795
+00:53:18,320 --> 00:53:20,960
+ventola che non se ne accorge neanche il processore.
+
+796
+00:53:20,960 --> 00:53:23,840
+Invece, con i Mac Intel che hanno la tendenza a diventare delle
+
+797
+00:53:23,840 --> 00:53:29,920
+stufette che sono molto deliziose d'inverno, ma d'estate vi fanno maledire Intel
+
+798
+00:53:29,920 --> 00:53:31,840
+e tutti i suoi ingegneri.
+
+799
+00:53:31,840 --> 00:53:37,680
+Però con questa possibilità di mandare le ventole a picco è una
+
+800
+00:53:37,680 --> 00:53:42,160
+cosa molto interessante non solo per quanto riguarda la pulizia, ma soprattutto
+
+801
+00:53:42,160 --> 00:53:46,080
+per quanto mi riguarda nel mio lavoro professionale, capita di fare dei
+
+802
+00:53:46,080 --> 00:53:50,240
+rendering e quando devo fare dei rendering, la prima cosa che faccio
+
+803
+00:53:50,320 --> 00:53:53,920
+prima di iniziare ad aprire il programma, metto direttamente le ventole al
+
+804
+00:53:53,920 --> 00:53:57,920
+massimo perché so già che il processore sarà sotto carico e quindi
+
+805
+00:53:58,080 --> 00:54:01,200
+inizia già subito a lavorare bello fresco che avrà poi tempo di
+
+806
+00:54:01,200 --> 00:54:04,240
+raffrescarsi piano piano e quindi non ci penso più.
+
+807
+00:54:04,240 --> 00:54:07,680
+So che le ventole sono al massimo, non sono gestite dal sistema
+
+808
+00:54:07,680 --> 00:54:09,840
+operativo perché è abbastanza
+
+809
+00:54:10,960 --> 00:54:16,600
+, tende a non mandare subito le ventole alla velocità che serve tende.
+
+810
+00:54:16,880 --> 00:54:22,240
+Ho notato che il MEC tende a far riscaldare il sistema, probabilmente
+
+811
+00:54:22,400 --> 00:54:26,720
+perché avranno anche sicuramente dei parametri loro, sanno bene quello che fanno,
+
+812
+00:54:26,720 --> 00:54:33,320
+ma vedo che anche quando faccio carichi molto complessi, l'evento non sono
+
+813
+00:54:33,320 --> 00:54:36,840
+quasi mai al massimo e sono sempre io che cerco di spingerle
+
+814
+00:54:36,840 --> 00:54:40,440
+al massimo in modo tale che sia raffreddato nei migliori dei modi.
+
+815
+00:54:40,440 --> 00:54:44,520
+Beh, ma abitualmente secondo me l'approccio di Apple è quello di non
+
+816
+00:54:44,520 --> 00:54:45,640
+far sentire la macchina.
+
+817
+00:54:45,640 --> 00:54:49,640
+Io una delle prime cose che mi sono reso conto passando Apple
+
+818
+00:54:49,640 --> 00:54:55,640
+è che rispetto ai PC, soprattutto all'epoca, erano silenziosissimi.
+
+819
+00:54:55,800 --> 00:54:59,000
+Io me ne rendo conto perché, non so, la IMAC quando inizia
+
+820
+00:54:59,000 --> 00:55:03,560
+ad essere sotto sforzo, si inizia a sentire la svampata della ventola
+
+821
+00:55:03,560 --> 00:55:04,520
+e dici che roba è?
+
+822
+00:55:04,520 --> 00:55:05,880
+Poi dopo la ventola.
+
+823
+00:55:06,200 --> 00:55:10,200
+Sì, sì, sì, è perché siamo appunto abituati a viaggiare nel silenzio.
+
+824
+00:55:10,200 --> 00:55:13,720
+E appunto per questo che consiglio di tenerle pulite.
+
+825
+00:55:13,720 --> 00:55:14,520
+Ste ventole.
+
+826
+00:55:14,520 --> 00:55:18,440
+Perché a forza di non farle girare, per forza di cose, la
+
+827
+00:55:18,440 --> 00:55:23,720
+polvere si va a per esempio sul MacBook Pro 16 pollici Intel
+
+828
+00:55:24,360 --> 00:55:29,080
+che scalda in maniera vergognosa da un certo punto di vista, anche
+
+829
+00:55:29,400 --> 00:55:34,200
+la gestione delle ventole, effettivamente, non avevo mai considerato di fare un
+
+830
+00:55:34,200 --> 00:55:35,240
+acquisto del genere.
+
+831
+00:55:35,240 --> 00:55:39,080
+Tu, a proposito, hai comprato, hai scaricato la versione free o la
+
+832
+00:55:39,080 --> 00:55:40,040
+versione apagata?
+
+833
+00:55:40,360 --> 00:55:41,640
+Io viaggio con la versione free.
+
+834
+00:55:42,360 --> 00:55:47,240
+Infatti, immaginavo quindi chiedevo per gli utenti che casomai vogliono provarla, la
+
+835
+00:55:47,240 --> 00:55:52,680
+possono provare tranquillamente, c'è semplicemente l'applicazione che invece di farvi salvare vari
+
+836
+00:55:52,680 --> 00:55:57,000
+preset, vi fa salvare quello normale che è quello automatico del sistema
+
+837
+00:55:57,000 --> 00:55:59,560
+operativo, e quello al massimo, che è quello che serve a me.
+
+838
+00:55:59,560 --> 00:56:05,480
+Quindi potrebbe tornare utile avere, che ne so: d'estate, l'evento le messa
+
+839
+00:56:05,480 --> 00:56:08,200
+a circa un po' più della metà, in modo tale che sia
+
+840
+00:56:08,200 --> 00:56:09,480
+un po' più fresco
+
+841
+00:56:10,760 --> 00:56:11,880
+l'hardware.
+
+842
+00:56:11,880 --> 00:56:16,000
+Tuttavia, io ho visto che tendenzialmente non mi serve e quindi mi
+
+843
+00:56:16,000 --> 00:56:19,920
+sono sempre fatto andare bene la versione gratuita che fa il suo
+
+844
+00:56:19,920 --> 00:56:23,920
+lavoro e poi soprattutto ha questo monitoraggio dei vari
+
+845
+00:56:25,520 --> 00:56:29,840
+sensori che ci sono all'interno dell'hardware che è molto interessante.
+
+846
+00:56:29,840 --> 00:56:33,040
+Insomma, sai cosa sta caricando di brutto e sai anche forse anche
+
+847
+00:56:33,040 --> 00:56:34,640
+dove intervenire volendo?
+
+848
+00:56:34,640 --> 00:56:36,720
+No, no, effettivamente devo dire la verità.
+
+849
+00:56:36,720 --> 00:56:41,200
+Una cosa, io adesso non sono un uomo da portatile e il
+
+850
+00:56:41,200 --> 00:56:45,120
+mio MacBook Pro di fatto non è un portatile, non viene utilizzato
+
+851
+00:56:45,120 --> 00:56:46,560
+come un portatile.
+
+852
+00:56:46,800 --> 00:56:53,040
+Tuttavia, per esempio, appunto mi sono reso conto perché l'ho lasciato, diciamo,
+
+853
+00:56:53,040 --> 00:56:57,600
+quasi come un fisso per un tot di tempo, mi sono reso
+
+854
+00:56:57,600 --> 00:57:02,640
+conto prendendolo in mano, ho detto: ma perché sporco c'erano i segni
+
+855
+00:57:02,640 --> 00:57:05,520
+della polvere delle ventole, cioè dove
+
+856
+00:57:07,360 --> 00:57:12,880
+siccome è una parte nascosta, diciamo, del Mac che io non utilizzo.
+
+857
+00:57:12,880 --> 00:57:13,920
+Mi sono reso conto.
+
+858
+00:57:13,920 --> 00:57:17,280
+Infatti, adesso mi sto sforzando ogni tanto di usarlo come un vero
+
+859
+00:57:17,280 --> 00:57:20,880
+portatile, me lo porto in giro per casa a fare poco o
+
+860
+00:57:20,880 --> 00:57:25,840
+niente, però almeno per risparmare le batterie, che effettivamente sono abbastanza già
+
+861
+00:57:25,840 --> 00:57:27,280
+fruste adesso.
+
+862
+00:57:27,280 --> 00:57:33,840
+E anche per fargli fare questo, ma credo che inserirò anche l'aggiunta
+
+863
+00:57:33,840 --> 00:57:38,400
+dell'evento a manetta, che effettivamente è una buona cosa, devo dire la
+
+864
+00:57:38,400 --> 00:57:38,960
+verità.
+
+865
+00:57:38,960 --> 00:57:43,440
+Penso che invece a me l'evento le buttano sullo schermo, quindi vedo
+
+866
+00:57:43,440 --> 00:57:48,080
+praticamente tutte le schifezze che vanno sullo schermo quindi mi fa abbastanza
+
+867
+00:57:48,080 --> 00:57:48,720
+ridere
+
+868
+00:57:50,000 --> 00:57:50,320
+.
+
+869
+00:57:51,120 --> 00:57:56,960
+Io direi, Filippo: che con questa puntata abbiamo raggiunto l'ora, siamo riusciti
+
+870
+00:57:56,960 --> 00:57:58,040
+a dire tutto.
+
+871
+00:57:58,040 --> 00:58:00,680
+Abbiamo detto tutto, ci siamo prefissati.
+
+872
+00:58:00,680 --> 00:58:03,720
+Un obiettivo ce l'abbiamo fatta, io direi che a questo punto possiamo
+
+873
+00:57:59,920 --> 00:58:04,760
+chiudere che ne pensi.
+
+874
+00:58:04,920 --> 00:58:10,920
+Volentieri, volentieri, quindi trovate le note dell'episodio come con i link, ovviamente,
+
+875
+00:58:10,920 --> 00:58:15,240
+gli argomenti di cui abbiamo trattato in questa puntata, e tutti i
+
+876
+00:58:15,560 --> 00:58:19,000
+nostri riferimenti su a due in numero podcast.
+
+877
+00:58:21,400 --> 00:58:23,800
+Che è la puntata di oggi.
+
+878
+00:58:24,120 --> 00:58:27,720
+Dove ci potete trovare, Roberto, lo trovate su mach
+
+879
+00:58:29,640 --> 00:58:34,440
+net.wordpress.com, un sito, un dominio, non compriamolo.
+
+880
+00:58:34,600 --> 00:58:38,360
+Guarda, non chiedermi, ma io ero partito così tranquillo.
+
+881
+00:58:38,360 --> 00:58:41,000
+Poi non pensavo neanche che mi seguissero, figuraci.
+
+882
+00:58:41,000 --> 00:58:44,600
+E oltre a questo, chi vuoi che lo sappia che ci sia
+
+883
+00:58:44,600 --> 00:58:46,040
+un architetto che parla di me?
+
+884
+00:58:46,200 --> 00:58:49,560
+Chi vuoi che interessi invece, alla fine è interessato?
+
+885
+00:58:49,640 --> 00:58:52,680
+Ma nessuno ti vede di comprare un dominio anche adesso, aperta e
+
+886
+00:58:52,680 --> 00:58:53,320
+chiusa.
+
+887
+00:58:53,560 --> 00:58:55,320
+Lo farò, chi lo sa, lo farò.
+
+888
+00:58:55,480 --> 00:59:00,120
+E ovviamente il podcast settimanale di Roberto che è Snap Architettura Imperfetta
+
+889
+00:59:00,120 --> 00:59:07,720
+sul network runtime radio, a me invece trovate su avvocatima.it e direi
+
+890
+00:59:07,720 --> 00:59:10,280
+che a questo punto ci sentiamo la settimana prossima.
+
+891
+00:59:10,280 --> 00:59:15,080
+No, perché ti sei dimenticato che c'è anche l'altro tuo podcast Compendium.
+
+892
+00:59:15,080 --> 00:59:17,720
+Ah, vabbè, compendium, sì, vabbè, dai.
+
+893
+00:59:20,440 --> 00:59:23,160
+Mi potete trovare saltuariamente
+
+894
+00:59:24,280 --> 00:59:26,840
+ecco, così mi piace molto di più.
+
+895
+00:59:26,840 --> 00:59:31,320
+Adesso, ragazzi, vi salutiamo di cuore, vi auguriamo una buona settimana o
+
+896
+00:59:31,320 --> 00:59:34,600
+quello che verrà, e ci sentiamo alla prossima volta.

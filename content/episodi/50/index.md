@@ -6,16 +6,16 @@ slug = "50"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335978/fedb7b19_6f44_4d22_a619_19b1f903d369.mp3"
 spreakerEpisodeId = "64335978"
 duration = "1:26:31"
-description = "In questa puntata Roberto e Filippo faranno un approfondimento sul programma di posta elettronica montato sui dispositivi Apple: Mail. Puntate precedenti sulle email e come gestirle 29: Email (Introduzione): il problema delle email e come cercare di risolverlo (https://a2podcast.it/29/) 32: "
+description = "In questa puntata Roberto e Filippo faranno un approfondimento sul programma di posta elettronica montato sui dispositivi Apple: Mail."
 tags = ["email", "mac", "iphone", "ipad"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "DaZ8H7_ATRo"
 +++
 
-In questa puntata Roberto e Filippo faranno un approfondimento sul programma di posta elettronica montato sui dispositivi Apple: Mail.
+> In questa puntata Roberto e Filippo faranno un approfondimento sul programma di posta elettronica montato sui dispositivi Apple: Mail.
 
 ## Puntate precedenti sulle email e come gestirle
 - [29: Email (Introduzione): il problema delle email e come cercare di risolverlo](https://a2podcast.it/29/)

@@ -1,0 +1,3759 @@
+1
+00:00:00,000 --> 00:00:06,640
+Benvenuti all'episodio 11 numero palindromo di A2, in cui scoprire come ottenere
+
+2
+00:00:06,640 --> 00:00:09,520
+il massimo dalla vostra tecnologia Apple.
+
+3
+00:00:09,520 --> 00:00:14,240
+Io sono Roberto Marin e sono il vostro ospite assieme all'amico Filippo
+
+4
+00:00:14,400 --> 00:00:18,480
+Strozzi, ma soprattutto ospite di Andrea Strozzi.
+
+5
+00:00:18,480 --> 00:00:20,160
+Di cosa parliamo oggi, Andrea?
+
+6
+00:00:20,160 --> 00:00:22,480
+Ci racconti qualcosa di nuovo interessante?
+
+7
+00:00:22,800 --> 00:00:24,000
+Sì, sì, sì.
+
+8
+00:00:24,720 --> 00:00:26,560
+Oggi parliamo di come
+
+9
+00:00:28,560 --> 00:00:34,720
+digitalizzare la carta che opprime la nostra vita.
+
+10
+00:00:35,040 --> 00:00:39,040
+Quello che gli americani chiamano
+
+11
+00:00:42,320 --> 00:00:43,600
+è senza carta.
+
+12
+00:00:43,920 --> 00:00:48,160
+Abbiamo deciso di dividere l'argomento in due episodi.
+
+13
+00:00:48,640 --> 00:00:58,160
+Questo è il prossimo speciale di non suonare Lola come abbiamo fatto
+
+14
+00:00:58,160 --> 00:01:03,120
+la scorsa volta esatto, perché la scorsa volta l'abbiamo tenuta lunghissima anche
+
+15
+00:01:03,120 --> 00:01:04,960
+se l'argomento era relativamente.
+
+16
+00:01:04,960 --> 00:01:09,200
+Vero, comunque a me piace di più paperless che paperless, paperless è
+
+17
+00:01:09,200 --> 00:01:09,600
+più carino
+
+18
+00:01:11,200 --> 00:01:12,880
+, paperless è più carino.
+
+19
+00:01:12,880 --> 00:01:15,600
+Le papere di carta ci sono le papere, sì, Andrea?
+
+20
+00:01:15,600 --> 00:01:16,800
+Sì, perché ci sono i
+
+21
+00:01:19,120 --> 00:01:19,360
+o.
+
+22
+00:01:19,520 --> 00:01:23,920
+Però non posso fare il verso perché siamo in live e non
+
+23
+00:01:23,920 --> 00:01:27,840
+voglio fare teniamoci buoni, teniamoci buoni.
+
+24
+00:01:27,840 --> 00:01:32,720
+Allora, prima di partire, però dopo darò la parola ad Andrea giusto
+
+25
+00:01:32,720 --> 00:01:38,640
+per fare la intro su come ci potete sostenere, un follow up,
+
+26
+00:01:38,640 --> 00:01:44,640
+ovvero ci hanno fatto notare, giustamente, alcune cose che eravamo un po'
+
+27
+00:01:44,640 --> 00:01:51,280
+impreparatini sulla puntata scorsa nel canale di Telegram di Avvocati e Mac.
+
+28
+00:01:51,280 --> 00:01:57,280
+Paolo, a far notare che per inserire l'accetto acuto, che è l'accento,
+
+29
+00:01:57,280 --> 00:02:03,560
+quello che noi cercavamo di descrivere in vari maniera, è possibile fare,
+
+30
+00:02:03,560 --> 00:02:04,200
+oltre
+
+31
+00:02:05,480 --> 00:02:12,120
+a come l'abbiamo descritto noi, quindi il tasto alto option o opzione
+
+32
+00:02:12,120 --> 00:02:19,960
+in italiano è 9, anche option e il esatto lo back slash
+
+33
+00:02:20,920 --> 00:02:22,920
+la barra inversa, che
+
+34
+00:02:24,200 --> 00:02:25,480
+backlash.
+
+35
+00:02:25,720 --> 00:02:32,360
+Ovviamente Paolo ci faceva notare che l'accento acuto come l'accento concavo, credo
+
+36
+00:02:32,360 --> 00:02:37,400
+che sia, vengono in inglese vengono chiamati back quote e back tick.
+
+37
+00:02:37,640 --> 00:02:37,960
+Quindi
+
+38
+00:02:39,080 --> 00:02:46,040
+se vi domandavate come fare, ecco, abbiamo dato alcune indicazioni.
+
+39
+00:02:46,040 --> 00:02:49,800
+Ecco, queste qui sono le spiegazioni che ci hanno dato, ma io
+
+40
+00:02:49,800 --> 00:02:57,000
+ricordo che basta fare shift, accentato quello di fianco al back e
+
+41
+00:02:57,000 --> 00:03:00,600
+abbiamo vinto senza fare tanti numeri, vero Paolo?
+
+42
+00:03:01,400 --> 00:03:05,880
+Grazie Paolo, il nostro ascoltatore preferito che ci segue dall'inizio.
+
+43
+00:03:05,880 --> 00:03:07,240
+Veramente ti vogliamo bene.
+
+44
+00:03:07,240 --> 00:03:11,080
+Grazie per seguirci, ma soprattutto per tirarci le orecchie quando serve, perché
+
+45
+00:03:11,080 --> 00:03:12,200
+vuol dire che sei attento.
+
+46
+00:03:12,280 --> 00:03:16,200
+Difatti, noi mettiamo in giro per le puntate delle trappole in modo
+
+47
+00:03:16,200 --> 00:03:20,200
+tale che gli ascoltatori più affezionati si vedono, ci riprendono e noi
+
+48
+00:03:20,200 --> 00:03:24,040
+capiamo che loro sono quelli affezionati e li ringraziamo tanto.
+
+49
+00:03:24,040 --> 00:03:32,200
+Detto questo, direi di passare velocemente e assiduamente e zompettantamente o saltellantemente
+
+50
+00:03:32,840 --> 00:03:33,000
+o
+
+51
+00:03:34,520 --> 00:03:38,280
+paperarmente a come potete sostenerci.
+
+52
+00:03:38,280 --> 00:03:42,200
+E Andrea ci spiega cosa possiamo fare perché dobbiamo sostenerci anche tra
+
+53
+00:03:42,200 --> 00:03:42,920
+di noi.
+
+54
+00:03:42,920 --> 00:03:44,840
+Il podcast è ufficialmente
+
+55
+00:03:45,920 --> 00:03:53,600
+online e potete ascoltarlo sia su Apple Podcast che su Stify che
+
+56
+00:03:53,920 --> 00:04:00,640
+su Amazon Music podcast e effettivamente ho scoperto in questi giorni che
+
+57
+00:04:00,720 --> 00:04:05,760
+uscito, cioè che adesso anche in Italia è possibile ascoltare i podcast
+
+58
+00:04:05,760 --> 00:04:11,680
+su Amazon Music, e forse tutto il casino che c'è stato nella
+
+59
+00:04:11,760 --> 00:04:18,720
+puntata 8 a livello nostro interno di scaricamenti eccessivi è probabile anche
+
+60
+00:04:18,720 --> 00:04:23,120
+che fosse perché Amazon ha iniziato a far movimentare la cosa in
+
+61
+00:04:23,120 --> 00:04:26,240
+tutto il mondo e quindi oltre che l'America diciamo.
+
+62
+00:04:26,240 --> 00:04:28,640
+E quindi forse questo è stato uno dei motivi.
+
+63
+00:04:28,640 --> 00:04:30,720
+Vai Andrea continua.
+
+64
+00:04:31,200 --> 00:04:38,960
+È operativo anche il sito ufficiale con le note degli episodi a
+
+65
+00:04:39,040 --> 00:04:47,200
+due podcast.it a2podcast.it sballa
+
+66
+00:04:48,320 --> 00:04:57,680
+puntoyoutube per il canale dove trovate le nostre dirette del venerdì sera.
+
+67
+00:04:58,000 --> 00:05:05,440
+Se volete supportare il podcast, vi chiediamo con il cuore di fare
+
+68
+00:05:05,440 --> 00:05:08,640
+una recensione su Apple Podcast.
+
+69
+00:05:08,640 --> 00:05:08,960
+In questo
+
+70
+00:05:11,120 --> 00:05:14,160
+scrivere io stavo per dire in questa, però...
+
+71
+00:05:14,320 --> 00:05:15,760
+Grande Andrea, vai così!
+
+72
+00:05:15,840 --> 00:05:16,720
+Ho sbagliato a scrivere,
+
+73
+00:05:22,680 --> 00:05:29,040
+visto che la diretta è molto molto lunga, abbiamo dovuto usare gli
+
+74
+00:05:29,200 --> 00:05:34,040
+iPad, i computer e molte cose altre.
+
+75
+00:05:35,080 --> 00:05:39,800
+E ovviamente noi ci vediamo, però voi non ci potete vedere perché
+
+76
+00:05:39,800 --> 00:05:40,360
+l'appella
+
+77
+00:05:41,480 --> 00:05:43,560
+è molto brava sicurezza.
+
+78
+00:05:43,560 --> 00:05:44,920
+Esatto, esatto, esatto.
+
+79
+00:05:44,920 --> 00:05:48,200
+Ve lo spiego io perché secondo me qualcuno
+
+80
+00:05:49,480 --> 00:05:51,800
+vorrebbe hacker gli account.
+
+81
+00:05:52,120 --> 00:05:55,880
+Non vogliamo che ci hackerino gli account, vero adesso, però finiamo di
+
+82
+00:05:55,880 --> 00:06:01,400
+leggere, quindi in questa fase iniziale, cosa dobbiamo potete possono fare i
+
+83
+00:06:01,400 --> 00:06:01,960
+nostri.
+
+84
+00:06:02,200 --> 00:06:10,200
+Tante recensioni ci permettranno di essere visti da più persone possibili.
+
+85
+00:06:10,200 --> 00:06:14,440
+Abbiamo la prima recensione, posso leggerla io la prima recensione?
+
+86
+00:06:14,440 --> 00:06:18,920
+No, io aspetta, che ti devo ti devo fare, perché qua il
+
+87
+00:06:19,080 --> 00:06:20,920
+nostro Filippo è caduto.
+
+88
+00:06:20,920 --> 00:06:23,000
+Abbiamo ben due recensioni.
+
+89
+00:06:23,000 --> 00:06:27,880
+È caduto perché mi ha messo nelle note dell'episodio: mi ha messo
+
+90
+00:06:28,040 --> 00:06:30,440
+non l'immagine perché non la posso caricare?
+
+91
+00:06:30,440 --> 00:06:35,800
+No, allora l'immagine c'è: l'immagine c'è e c'è anche nel back end
+
+92
+00:06:36,040 --> 00:06:39,000
+nelx cloud, ma il next cloud non la fa vedere.
+
+93
+00:06:39,000 --> 00:06:40,520
+però esattamente
+
+94
+00:06:41,800 --> 00:06:46,840
+quindi è una recensione che ascolterò con voi e sono prima di
+
+95
+00:06:46,840 --> 00:06:50,440
+tutto, sono molto lieto di ascoltarla perché è gran bella cosa.
+
+96
+00:06:50,440 --> 00:06:53,560
+Vi ringrazio per la recensione o le recensioni.
+
+97
+00:06:53,560 --> 00:06:58,440
+Adesso vediamo perché Andrea ci racconterà quali sono queste recensioni.
+
+98
+00:06:58,920 --> 00:06:59,880
+Due recensioni.
+
+99
+00:06:59,880 --> 00:07:06,200
+La prima un po' di cas che mancava con il linguaggio semplice
+
+100
+00:07:06,200 --> 00:07:09,560
+e chiave, ben chiaro.
+
+101
+00:07:09,560 --> 00:07:15,600
+Scusatemi, vengono finalmente spiegate alla
+
+102
+00:07:16,880 --> 00:07:20,880
+portata di tutte le caratteristiche
+
+103
+00:07:22,160 --> 00:07:25,120
+dei sistemi Mac ad
+
+104
+00:07:26,960 --> 00:07:35,440
+osi nelle regolazioni delle varie variabili sotto il cofano consigliato.
+
+105
+00:07:35,440 --> 00:07:37,840
+Consigliatissimo, eh, sono stati bravissimi.
+
+106
+00:07:37,840 --> 00:07:41,120
+Qua invece è il nostro amino Co-Alex che ci ha fatto la
+
+107
+00:07:41,120 --> 00:07:42,160
+recensione.
+
+108
+00:07:42,160 --> 00:07:43,600
+Marinna e sorsi
+
+109
+00:07:44,720 --> 00:07:56,400
+rigorosamente in ordine alfabetico, per non essere men che politicamente colletto.
+
+110
+00:07:56,400 --> 00:08:01,600
+Due professionisti, due prospettive
+
+111
+00:08:03,520 --> 00:08:04,640
+diverse.
+
+112
+00:08:04,960 --> 00:08:12,000
+Una cosa in comune, Mac, ha io spiegato a chi sta pensando
+
+113
+00:08:12,000 --> 00:08:20,240
+di compiere il grande passo, o anche da chi usa Apple da
+
+114
+00:08:20,720 --> 00:08:33,680
+anni, con informazioni approfondimenti e dettagli, ma tutto con un linguaggio schietto
+
+115
+00:08:35,440 --> 00:08:36,960
+e leggero.
+
+116
+00:08:36,960 --> 00:08:42,000
+Al tavolo entrano in campo anche i loro figli.
+
+117
+00:08:42,000 --> 00:08:43,440
+Anche Andrea, vedi?
+
+118
+00:08:43,440 --> 00:08:46,880
+Sì, e anche Bianca Marino oggi non c'è oggi non c'è, oggi
+
+119
+00:08:46,880 --> 00:08:48,080
+abbiamo perso Bianca.
+
+120
+00:08:48,080 --> 00:08:48,640
+Ma perché?
+
+121
+00:08:48,800 --> 00:08:51,040
+E perché era stanca se voleva andare a leggere?
+
+122
+00:08:51,040 --> 00:08:52,560
+Sì, era un po' stanca.
+
+123
+00:08:52,880 --> 00:08:54,880
+Ma perché molte volte stanca?
+
+124
+00:08:55,040 --> 00:08:57,440
+Perché fa il tempo pieno, fa quattro giorni.
+
+125
+00:08:57,600 --> 00:09:00,600
+No, fa quattro giorni pieni e fa solo il venerdì solo mezza
+
+126
+00:08:59,920 --> 00:09:03,880
+giornata e allora arriva sempre un po' il capo.
+
+127
+00:09:04,280 --> 00:09:04,840
+Ma noi
+
+128
+00:09:06,120 --> 00:09:11,400
+facciamo piena giornata lunedì fino ai 4 venerdì
+
+129
+00:09:12,440 --> 00:09:15,320
+fino ai tu fai da lunedì al venerdì fino alle 8 alle
+
+130
+00:09:15,320 --> 00:09:16,600
+4 del giorno tutti i giorni?
+
+131
+00:09:16,600 --> 00:09:18,200
+Tutti i giorni mazza!
+
+132
+00:09:18,200 --> 00:09:19,000
+Complimenti!
+
+133
+00:09:19,000 --> 00:09:21,240
+Finiamo la recensione, la finisco io la recensione
+
+134
+00:09:22,360 --> 00:09:22,440
+.
+
+135
+00:09:22,600 --> 00:09:23,800
+E c'è da dire
+
+136
+00:09:25,160 --> 00:09:37,160
+da ridere, ma anche essere contenti che le nuove generazioni potranno sistemare
+
+137
+00:09:37,880 --> 00:09:46,440
+sistemare il mondo, meglio di come lo stiamo facendo noi, cinque steroni
+
+138
+00:09:47,160 --> 00:09:48,840
+più che meritati.
+
+139
+00:09:48,840 --> 00:09:49,720
+Perfetto!
+
+140
+00:09:49,800 --> 00:09:50,520
+Giovedì
+
+141
+00:09:52,280 --> 00:09:54,840
+, abbiamo finito, ok?
+
+142
+00:09:56,840 --> 00:09:59,320
+Devo dire una cosa, devo dire una cosa.
+
+143
+00:09:59,640 --> 00:10:07,560
+Se volete scrivere una recensione c'è anche un'applicazione che vi permette tipo
+
+144
+00:10:07,560 --> 00:10:11,400
+di vedere a podcast, avvocati e Mac
+
+145
+00:10:12,680 --> 00:10:16,920
+e altre due cose che non mi cogono il nome.
+
+146
+00:10:18,200 --> 00:10:23,240
+Mac Architettura lo si può trovare sia su internet ovviamente che anche
+
+147
+00:10:23,240 --> 00:10:28,120
+sull'applicazione di Apple, su tutti i dispositivi Apple, infatti è possibile ascoltare
+
+148
+00:10:28,120 --> 00:10:32,440
+il nostro podcast ed è per quello che, appunto, chiediamo diciamo di
+
+149
+00:10:32,440 --> 00:10:37,720
+fare le recensioni perché, appunto, più gente ci ascolta, più ovviamente
+
+150
+00:10:38,840 --> 00:10:41,480
+possiamo fare cose interessanti.
+
+151
+00:10:41,480 --> 00:10:45,360
+Va bene adesso facciamo riposare un attimo.
+
+152
+00:10:45,440 --> 00:10:48,240
+Andrea che ha fatto una super lettura:
+
+153
+00:10:50,960 --> 00:10:57,040
+partiamo invece col cuore della puntata, anche perché appunto abbiamo tanta carne
+
+154
+00:10:57,040 --> 00:10:58,240
+al fuoco anche oggi.
+
+155
+00:10:58,240 --> 00:11:00,560
+Vuoi partire tu o parto io?
+
+156
+00:11:00,560 --> 00:11:01,920
+Sì, ma parto io, non c'è problema.
+
+157
+00:11:01,920 --> 00:11:05,040
+Prima di tutto, mettetevi in fila che vi voglio tutti sulla Wall
+
+158
+00:11:05,040 --> 00:11:08,800
+of Fame per tutte le vostre belle recensioni.
+
+159
+00:11:08,800 --> 00:11:10,800
+Fate come i nostri due amici.
+
+160
+00:11:10,800 --> 00:11:17,840
+Mi raccomando, ascoltateci, divulgate, ma soprattutto cerchiamo di capire perché dobbiamo digitalizzare.
+
+161
+00:11:17,840 --> 00:11:20,560
+Perché la carta puzza e tutto qua la questione?
+
+162
+00:11:20,560 --> 00:11:24,240
+No, non è proprio così, ma ci sono motivi ben più alti
+
+163
+00:11:24,240 --> 00:11:29,440
+che possono essere, ad esempio, quello di risparmiare, perché comunque la carta
+
+164
+00:11:29,440 --> 00:11:32,720
+ha un costo, come sapete bene, ha un costo non solo dal
+
+165
+00:11:32,720 --> 00:11:35,520
+punto di vista di acquisto, ma ha anche un costo dal punto
+
+166
+00:11:35,520 --> 00:11:37,280
+di vista della realizzazione.
+
+167
+00:11:37,280 --> 00:11:41,520
+Come sapete la carta arriva dal legno, il legno è una risorsa
+
+168
+00:11:41,520 --> 00:11:46,240
+chiaramente che si può rinnovare, ma tutto il procedimento per realizzare la
+
+169
+00:11:46,240 --> 00:11:48,880
+carta è un processo molto dispendioso.
+
+170
+00:11:48,880 --> 00:11:53,200
+Non ve lo sto qua a raccontare, andatevi a leggervi su Wikipedia
+
+171
+00:11:53,200 --> 00:11:57,760
+il capitolo che riguarda la carta così vi fate anche un po'
+
+172
+00:11:57,760 --> 00:12:00,480
+di informazioni, me lo vado a ripassare anch'io.
+
+173
+00:12:00,480 --> 00:12:05,120
+Ma soprattutto ha un altro tipo di costo che riguarda la fatica
+
+174
+00:12:05,120 --> 00:12:09,680
+di trasportarla in giro questa carta e lo spazio, la fatica di
+
+175
+00:12:09,680 --> 00:12:15,040
+archiviare, la fatica di spostare gli archivi, c'è tutto uno spazio, per
+
+176
+00:12:15,040 --> 00:12:21,360
+esempio Filippo immagine, essendo un avvocato, avrà dei faldoni come si vede
+
+177
+00:12:21,360 --> 00:12:26,000
+sempre nei tribunali che tendenzialmente se non sono alti meno di 10
+
+178
+00:12:26,000 --> 00:12:28,200
+centimetri non sono faldoni.
+
+179
+00:12:28,200 --> 00:12:29,960
+Perché io mi ricordo sono.
+
+180
+00:12:30,120 --> 00:12:33,960
+Eh no, no, no, io ho digitalizzato tutto, lo so, ma ti
+
+181
+00:12:27,920 --> 00:12:35,080
+sto prendendo in giro.
+
+182
+00:12:35,240 --> 00:12:39,800
+Io il tempo indietro giravo per i tribunali perché un amico che
+
+183
+00:12:39,880 --> 00:12:43,560
+ancora adesso lavora in tribunale e mi ricordo che
+
+184
+00:12:45,320 --> 00:12:50,440
+aveva praticamente la stanza piena di faldoni che erano alti veramente tra
+
+185
+00:12:50,440 --> 00:12:53,640
+i 12 e i 15 centimetri la spanna più dietro e poi
+
+186
+00:12:53,640 --> 00:12:56,920
+c'era un legaccio che gli chiudeva davanti.
+
+187
+00:12:56,920 --> 00:13:02,200
+Quindi era veramente vecchio formato e voi immaginate ce le abbiamo ancora
+
+188
+00:13:02,200 --> 00:13:05,640
+queste cose, ce l'avete ancora, quindi le lasciamo perdere.
+
+189
+00:13:05,960 --> 00:13:10,680
+Quindi immaginate lo spazio e il tempo che bisogna darsi a cercare
+
+190
+00:13:10,680 --> 00:13:14,440
+la roba lì dentro in 10 cm di carta, andare a cercare
+
+191
+00:13:14,440 --> 00:13:15,880
+l'archivio giusto.
+
+192
+00:13:15,880 --> 00:13:19,400
+Poi, una volta che non servono, bisogna prendere gli archiviali da qualche
+
+193
+00:13:19,400 --> 00:13:19,880
+parte.
+
+194
+00:13:19,880 --> 00:13:24,440
+Quindi c'è tutta anche una questione che riguarda l'organizzazione che è un
+
+195
+00:13:24,440 --> 00:13:28,120
+po' difficile da tenere per quanto riguarda la carta, perché voi avete
+
+196
+00:13:28,120 --> 00:13:30,600
+questi faldoni, non ci potete vedere dentro.
+
+197
+00:13:30,600 --> 00:13:34,760
+E conseguentemente non solo non ci potete vedere dentro, ma se ce
+
+198
+00:13:34,760 --> 00:13:38,520
+l'avete sulla scrivania è facile che non riuscite neanche a usare il
+
+199
+00:13:38,520 --> 00:13:44,200
+mouse oppure a appoggiare il cellulare oppure mettere una penna semplicemente di
+
+200
+00:13:44,200 --> 00:13:47,960
+fianco a voi perché siete invasi dalla carta.
+
+201
+00:13:47,960 --> 00:13:49,480
+Quindi l'idea qual è?
+
+202
+00:13:49,480 --> 00:13:54,520
+Quella di lavorare di meno e la possibilità comunque di lavorare ovunque.
+
+203
+00:13:54,520 --> 00:13:57,560
+Lavorare di meno per i motivi che vi ho spiegato prima perché
+
+204
+00:13:57,560 --> 00:14:02,120
+la digitalizzazione vi permette di risparmiare la carta, ma soprattutto vi permette
+
+205
+00:14:02,120 --> 00:14:05,000
+una cosa molto utile che è l'organizzazione.
+
+206
+00:14:05,000 --> 00:14:10,440
+Come sapete l'organizzazione dei computer di iOS e compagnia briscola lavora essenzialmente
+
+207
+00:14:10,440 --> 00:14:14,440
+su cartelle, giusto per ricordarvi che si tratta della stessa cosa che
+
+208
+00:14:14,440 --> 00:14:16,240
+si fa con la carta.
+
+209
+00:14:16,240 --> 00:14:20,320
+È proprio una trasposizione di quello che può essere il mondo reale
+
+210
+00:14:20,320 --> 00:14:21,520
+in un mondo digitale.
+
+211
+00:14:21,520 --> 00:14:25,760
+Quindi abbiamo delle cartelle e all'interno di queste cartelle ci infiliamo tanti
+
+212
+00:14:25,760 --> 00:14:26,880
+vari file.
+
+213
+00:14:27,360 --> 00:14:30,240
+La cosa interessante di questi file è che
+
+214
+00:14:31,280 --> 00:14:35,040
+si può ricercare delle parole all'interno dei file, cosa che non potete
+
+215
+00:14:35,040 --> 00:14:39,200
+fare ovviamente sulla carta, dovete andarvelo a cercare a manina spulciando col
+
+216
+00:14:39,200 --> 00:14:40,880
+ditino e anche magari
+
+217
+00:14:42,480 --> 00:14:47,040
+inuminidendendolo un po' perché dovete far sfogliare un sacco di pagine, ma
+
+218
+00:14:47,040 --> 00:14:53,120
+soprattutto avete un'altra possibilità, il digitale comunque riesce anche a creare più
+
+219
+00:14:53,120 --> 00:14:58,720
+carta della carta normale perché potete duplicare, triplicare, quadruplicare le vostre copie
+
+220
+00:14:58,720 --> 00:15:00,640
+in base a quello che vi serve.
+
+221
+00:15:00,960 --> 00:15:04,240
+Un'altra cosa interessante è che non vi dovete poi appoggiare la posta
+
+222
+00:15:04,480 --> 00:15:07,920
+normale per inviare una missiva, ma avete la posta elettronica che è
+
+223
+00:15:07,920 --> 00:15:10,640
+tendenzialmente istantanea.
+
+224
+00:15:10,640 --> 00:15:16,160
+Conseguentemente avrete come ben sapete, perché lo so io, lo sa Filippo,
+
+225
+00:15:16,160 --> 00:15:20,800
+lo sanamente anche i muri, un periodo che la casella di posta
+
+226
+00:15:20,880 --> 00:15:22,960
+elettronica tende ad esplodere.
+
+227
+00:15:22,960 --> 00:15:26,080
+Perché non ci si mettono le newsletter che non hanno niente da
+
+228
+00:15:26,080 --> 00:15:29,440
+fare che riempirvi la casella di posta elettronica, tranne quella del nostro
+
+229
+00:15:29,440 --> 00:15:32,800
+amatissimo Filippo che è sempre piena di cose interessanti.
+
+230
+00:15:33,040 --> 00:15:37,040
+Mi raccomando iscrivetevi alla newsletter di Filippo perché è una chicca, ci
+
+231
+00:15:37,040 --> 00:15:38,400
+sono cose interessantissime.
+
+232
+00:15:38,400 --> 00:15:42,320
+Basta andare sul sito di Filippo, Avvocati e Mac, e andate a
+
+233
+00:15:42,320 --> 00:15:44,320
+cercare il modo di iscrivervi.
+
+234
+00:15:44,320 --> 00:15:47,840
+Fatto questo andate e prendete e cestriete tutte le altre newsletter che
+
+235
+00:15:47,840 --> 00:15:50,400
+non vi servono a niente e poi vi rimane la casella di
+
+236
+00:15:50,400 --> 00:15:54,640
+posta elettronica piena di missive che molto probabilmente non vi servono a
+
+237
+00:15:54,640 --> 00:15:54,960
+niente.
+
+238
+00:15:54,960 --> 00:15:55,520
+Perché?
+
+239
+00:15:55,520 --> 00:15:59,120
+Perché spesso si utilizza questa possibilità invece di telefonare.
+
+240
+00:15:59,120 --> 00:16:05,080
+Ma tornando a Bomba, c'è un'altra cosa molto interessante che la carta
+
+241
+00:16:05,400 --> 00:16:10,520
+può fare ma a costi molto più alti, cioè ovvero immagazzinare un
+
+242
+00:16:10,520 --> 00:16:15,560
+sacco di dati all'interno di un penna USB non è proprio la
+
+243
+00:16:15,560 --> 00:16:19,640
+stessa cosa di stampare tutti questi dati e portarveli dietro a meno
+
+244
+00:16:19,800 --> 00:16:22,760
+abbiate un furgone, a meno che non vi piace andare in giro
+
+245
+00:16:22,760 --> 00:16:26,120
+con un carrello e caricarci sopra tutta la vostra carta.
+
+246
+00:16:26,120 --> 00:16:31,720
+Quindi essenzialmente vi permette di abbattere un po' meno gli alberi anche
+
+247
+00:16:31,720 --> 00:16:35,480
+se ci pensa IKEA ad abbatterli perché deve fare tutti i suoi
+
+248
+00:16:35,480 --> 00:16:39,720
+bellissimi mobili che andiamo a comprare perché cosa dobbiamo fare?
+
+249
+00:16:39,720 --> 00:16:39,880
+È
+
+250
+00:16:41,400 --> 00:16:43,320
+un cane che si morde la coda.
+
+251
+00:16:43,320 --> 00:16:48,680
+Noi facciamo la carta e abbiamo bisogno di archivi per mettere all'interno
+
+252
+00:16:48,680 --> 00:16:49,240
+questa carta.
+
+253
+00:16:49,240 --> 00:16:49,960
+Cosa usiamo?
+
+254
+00:16:49,960 --> 00:16:53,880
+Usiamo i mobili IKEA per mettere dentro tutti i nostri fascicoli e
+
+255
+00:16:53,880 --> 00:16:56,280
+quindi siamo appunto a capo.
+
+256
+00:16:56,280 --> 00:17:02,280
+Per fare una cosa migliore è meglio comprarsi una scrivania che occupa
+
+257
+00:17:02,280 --> 00:17:06,040
+sicuramente dal punto di vista degli alberi meno spazio.
+
+258
+00:17:06,040 --> 00:17:09,320
+Vi prendete la vostra bella scrivania, vi piazzate sopra un bel Mac
+
+259
+00:17:09,480 --> 00:17:14,440
+o un bel PC Windows con hard disk e cercate di eliminare
+
+260
+00:17:14,440 --> 00:17:17,160
+tutta questa carta che vi circonda.
+
+261
+00:17:17,160 --> 00:17:22,280
+Quindi a questo punto io direi che possiamo tranquillamente cavalcare l'onda della
+
+262
+00:17:22,280 --> 00:17:26,440
+digitalizzazione, come avete capito, questa qui è una cosa molto importante.
+
+263
+00:17:26,440 --> 00:17:31,080
+Io per primo alzo la manina perché gli architetti sanno benissimo che
+
+264
+00:17:31,080 --> 00:17:36,360
+sono i maggiori responsabili della deforestazione del mondo intero.
+
+265
+00:17:36,360 --> 00:17:41,560
+Perché noi lavoriamo su carta, facciamo delle tavole che sono delle lenzuola
+
+266
+00:17:41,640 --> 00:17:45,840
+e vi dico io sono responsabile più che altro perché dove lavoravo
+
+267
+00:17:45,840 --> 00:17:51,280
+prima, quando ero un architetto non libero professionista, ma un impiegato vero
+
+268
+00:17:51,280 --> 00:17:54,480
+e proprio con tanto di mutua.
+
+269
+00:17:54,720 --> 00:17:57,120
+Stampavo delle tavole lunghe 5 metri.
+
+270
+00:17:57,120 --> 00:18:02,160
+Non sto scherzando, 5 metri di tavola, insomma, potete immaginare quanti fogli
+
+271
+00:18:02,160 --> 00:18:03,440
+ho buttato via.
+
+272
+00:18:03,440 --> 00:18:06,800
+A questo punto, mi pare però, lì dalla webcam, mi pare di
+
+273
+00:18:06,800 --> 00:18:08,240
+aver visto un ditino alzato.
+
+274
+00:18:08,240 --> 00:18:10,880
+Forse Andrea aveva bisogno qualcosa di dirci, vero?
+
+275
+00:18:10,880 --> 00:18:16,480
+Sì, però devo fare quando arriviamo ai passi per.
+
+276
+00:18:16,640 --> 00:18:19,520
+Ci siamo, siamo qui dal organizzare.
+
+277
+00:18:20,400 --> 00:18:21,680
+Ci siamo, ci siamo arrivati.
+
+278
+00:18:23,200 --> 00:18:29,920
+Dovrei dire una cosa, che speriamo che tutti i nostri ascoltatori
+
+279
+00:18:31,200 --> 00:18:36,640
+ricano la carta plastica perché dobbiamo spedarci.
+
+280
+00:18:37,280 --> 00:18:38,240
+Altrimenti
+
+281
+00:18:39,520 --> 00:18:46,960
+i pesci muorono perché mangiano lattina, la plastica, la carta.
+
+282
+00:18:47,040 --> 00:18:53,120
+Sì, e si è anche formata un'isola di spastatura.
+
+283
+00:18:53,120 --> 00:18:59,120
+Speriamo che qualcuno ci ascolti e smetta di buttare in mare o
+
+284
+00:18:59,120 --> 00:19:06,480
+nei fiumi dove ci sono pesci, i rifiuti e tutto, perché poi
+
+285
+00:19:06,480 --> 00:19:11,200
+se un pesce incontra il rifiuto, pensa che sia un pesce, lo
+
+286
+00:19:11,200 --> 00:19:12,880
+mangia, è morto.
+
+287
+00:19:13,200 --> 00:19:14,800
+Giusto, esatto, esatto, esatto.
+
+288
+00:19:14,800 --> 00:19:15,280
+Bravo.
+
+289
+00:19:15,280 --> 00:19:20,400
+Ok, quindi la digitalizzazione è molto utile, anche appunto a fini ecologici,
+
+290
+00:19:20,400 --> 00:19:21,520
+chiamiamola così.
+
+291
+00:19:21,520 --> 00:19:22,240
+Ok?
+
+292
+00:19:22,240 --> 00:19:25,440
+Vuoi raccontarci qual è la scaletta o la dico io?
+
+293
+00:19:25,440 --> 00:19:26,000
+Dimmi te.
+
+294
+00:19:26,080 --> 00:19:27,760
+Non hai anche la palla?
+
+295
+00:19:28,000 --> 00:19:31,480
+Parla un po' io allora, si perfetto, allora
+
+296
+00:19:32,760 --> 00:19:37,800
+parlo io va bene, brevemente cercherò di
+
+297
+00:19:38,920 --> 00:19:42,360
+farvi assunto più o meno di come è strutturata sia questa puntata
+
+298
+00:19:42,360 --> 00:19:43,560
+che quella prossima.
+
+299
+00:19:43,560 --> 00:19:47,400
+Perché, ovviamente la digitalizzazione non è una cosa che si fa da
+
+300
+00:19:47,400 --> 00:19:51,160
+oggi a domani, ci sono vari punti da affrontare.
+
+301
+00:19:51,160 --> 00:19:57,160
+Oggi ci occuperemo della fase di cattura barra acquisizione dei documenti, che
+
+302
+00:19:57,160 --> 00:20:04,760
+ovviamente è la fase fondamentale principale della digitalizzazione, perché senza la cattura
+
+303
+00:20:05,000 --> 00:20:09,080
+dei documenti è impossibile digitalizzare.
+
+304
+00:20:09,080 --> 00:20:15,800
+Poi parleremo probabilmente nel prossimo episodio di come organizzare i documenti digitali,
+
+305
+00:20:15,800 --> 00:20:21,080
+come lavorare con i documenti digitali, perché ovviamente la carta e il
+
+306
+00:20:21,080 --> 00:20:22,520
+digitale sono due cose diverse.
+
+307
+00:20:22,600 --> 00:20:27,880
+Gli strumenti sono diversi e bisogna fare alcune modifiche nel proprio flusso
+
+308
+00:20:27,880 --> 00:20:31,480
+di lavoro, diciamo, da analogico a digitale.
+
+309
+00:20:31,480 --> 00:20:37,560
+Infine ragioneremo anche su come conservare questi documenti digitali, perché anche la
+
+310
+00:20:37,560 --> 00:20:40,680
+conservazione dei documenti digitali è fondamentale.
+
+311
+00:20:40,680 --> 00:20:45,880
+Parleremo anche di come condividere i documenti e dei backup dei documenti
+
+312
+00:20:45,880 --> 00:20:46,360
+stessi.
+
+313
+00:20:46,360 --> 00:20:51,400
+Perché appunto ovviamente abbiamo già parlato nella puntata 8 del podcast di
+
+314
+00:20:51,400 --> 00:20:56,280
+come fare i backup, ma soprattutto se si digitalizza è importante ovviamente
+
+315
+00:20:56,280 --> 00:21:00,920
+salvare i nostri documenti non più su carta ma sui file.
+
+316
+00:21:00,920 --> 00:21:07,000
+E poi, infine, ragioneremo anche, sempre nella prossima puntata, cosa tenere di
+
+317
+00:21:07,000 --> 00:21:12,840
+carta, perché, ovviamente, anche quello è importante, non tutti i documenti vanno
+
+318
+00:21:12,840 --> 00:21:18,320
+cestinati, vanno riciclati e così via, ma bisogna anche ricordarsi: appunto che
+
+319
+00:21:18,320 --> 00:21:22,480
+alcune cose bisogna tenerle perché sono importanti, hanno valore legale e così
+
+320
+00:21:22,480 --> 00:21:23,680
+via, ma non ci dilunghiamo.
+
+321
+00:21:23,760 --> 00:21:26,080
+Come ad esempio, la carta igienica,
+
+322
+00:21:28,240 --> 00:21:30,320
+devo dire una cosa importante.
+
+323
+00:21:31,440 --> 00:21:40,640
+Quando lavorate molto tempo al computer bisogna fare delle pause, perché altrimenti
+
+324
+00:21:40,640 --> 00:21:48,880
+potreste stancarvi la vista stancare la vista, e dopo non vedete più,
+
+325
+00:21:48,880 --> 00:21:53,120
+e non solo, c'è anche una questione di postura della schiena e
+
+326
+00:21:53,120 --> 00:21:54,320
+di movimento del corpo.
+
+327
+00:21:54,320 --> 00:21:57,680
+Il nostro corpo è fatto per muoversi, non per stare fermo davanti
+
+328
+00:21:57,680 --> 00:21:58,400
+un computer.
+
+329
+00:21:58,400 --> 00:22:02,960
+Quindi, come dice il nostro grandissimo Andrea, che oltre a essere un
+
+330
+00:22:03,200 --> 00:22:08,880
+bambino perfetto e provetto per quanto riguarda la difesa della natura, ci
+
+331
+00:22:08,880 --> 00:22:13,280
+ricorda che in effetti va bene lavorare, ma ogni tanto muovetevi che
+
+332
+00:22:13,280 --> 00:22:14,880
+vi fa solo del gran bene.
+
+333
+00:22:14,880 --> 00:22:17,120
+Vuoi fare allora il punto 3?
+
+334
+00:22:17,120 --> 00:22:19,360
+Sì, catturare acquisti
+
+335
+00:22:20,400 --> 00:22:21,520
+digitale.
+
+336
+00:22:22,160 --> 00:22:34,400
+Assudo partire digitalizzando tutto, meglio approccio semplice, di iniziare a digitalizzare quello
+
+337
+00:22:34,400 --> 00:22:34,560
+che
+
+338
+00:22:36,720 --> 00:22:39,680
+entra in casa o in ufficio.
+
+339
+00:22:40,000 --> 00:22:45,360
+Quindi è importante non partire subito volendo digitalizzare tutto quello che abbiamo,
+
+340
+00:22:45,360 --> 00:22:51,520
+anche perché è solitamente un compito abbastanza impegnativo, ma iniziare a digitalizzare
+
+341
+00:22:51,520 --> 00:22:52,640
+pian pianino.
+
+342
+00:22:52,640 --> 00:22:56,480
+Quando ci arriva, per esempio, una lettera, la digitalizziamo e se non
+
+343
+00:22:56,480 --> 00:23:01,000
+è una lettera importante, la possiamo poi mettere nella carta da riciclare.
+
+344
+00:22:59,840 --> 00:23:04,600
+Vi do un barbatrucco così che mi è venuto al volo.
+
+345
+00:23:04,840 --> 00:23:10,600
+Che mi diceva giustamente quando vi arriva una lettera di digitalizzarla, e
+
+346
+00:23:10,600 --> 00:23:15,000
+ovviamente questa lettera immagino che la archiviate da qualche parte, ma come
+
+347
+00:23:15,000 --> 00:23:20,280
+fate a sapere se questa lettera è se è digitalizzata, vi sveglio
+
+348
+00:23:20,280 --> 00:23:20,760
+un trucchetto.
+
+349
+00:23:20,840 --> 00:23:24,440
+Io faccio così: faccio un semplice pallino con la matita nella parte
+
+350
+00:23:24,440 --> 00:23:27,320
+alta destra del documento che ho digitalizzato.
+
+351
+00:23:27,320 --> 00:23:31,000
+Così quando lo apro so che quelli che sono digitalizzati e quelli
+
+352
+00:23:31,000 --> 00:23:31,400
+no.
+
+353
+00:23:31,400 --> 00:23:33,640
+Trucchetto semplice, veloce, incisivo.
+
+354
+00:23:33,640 --> 00:23:36,200
+Bravissimo, io sono più talebano, devo dire la verità.
+
+355
+00:23:36,280 --> 00:23:41,480
+Lo butto direttamente tutto quello che è digitalizzato e non è fondamentale,
+
+356
+00:23:41,720 --> 00:23:47,240
+c'è un fuoco perennemente accesso davanti a casa tua, sempre fuoco, fuoco,
+
+357
+00:23:47,240 --> 00:23:48,040
+fuoco.
+
+358
+00:23:48,040 --> 00:23:52,680
+Io sono sulla digitalizzazione, sono un pelino forse di me, sicuramente.
+
+359
+00:23:52,680 --> 00:23:57,720
+Ovviamente, nel caso del lavoro, spesso e volentieri, la carta che mi
+
+360
+00:23:57,720 --> 00:24:02,920
+arriva che non sia fondamentale, cioè che non è la tengo, però
+
+361
+00:24:03,160 --> 00:24:08,440
+tutta una serie di cose che non servono, diciamo, poi progressivamente, visto
+
+362
+00:24:08,440 --> 00:24:15,080
+che ecco, possiamo dire, pian pianino la digitalizzazione chiama digitalizzazione, quindi anche
+
+363
+00:24:15,080 --> 00:24:20,600
+più documenti vengono inviati a mezzo mail, in altri formati quindi diventa
+
+364
+00:24:20,600 --> 00:24:23,400
+anche più semplice l'archiviazione digitale.
+
+365
+00:24:26,200 --> 00:24:30,040
+Ma è giusto che sia così, ma meno male, perché continuo dire,
+
+366
+00:24:30,040 --> 00:24:35,320
+ad esempio, una parte di digitalizzazione è importante che l'abbia fatta la
+
+367
+00:24:35,320 --> 00:24:36,520
+pubblica amministrazione.
+
+368
+00:24:36,520 --> 00:24:40,200
+Immagino anche dalla parte dei tribunali di Filippo, ma soprattutto dalla parte
+
+369
+00:24:40,200 --> 00:24:44,840
+dei comuni per quanto riguarda gli architetti, che ci sono finalmente
+
+370
+00:24:47,600 --> 00:24:52,160
+le pratiche vengono consegnate in digitale ed è una cosa che ha
+
+371
+00:24:52,160 --> 00:24:56,160
+liberato veramente dalla schiavitù tantissime persone.
+
+372
+00:24:56,160 --> 00:25:00,960
+Perché ad esempio, vi faccio un esempio stupido, non è più necessario
+
+373
+00:25:01,040 --> 00:25:06,240
+comprarsi il plotter oppure mandare le tavole in stampa oppure alzarsi dal
+
+374
+00:25:06,240 --> 00:25:10,080
+cadrigin, come dicono di qua, e andare a portare la roba in
+
+375
+00:25:10,080 --> 00:25:11,520
+comune per farla protocollare.
+
+376
+00:25:11,520 --> 00:25:16,560
+Adesso è del tutto digitale e immaginate soltanto per questa piccola tra
+
+377
+00:25:16,560 --> 00:25:22,880
+virgolette cosa, quante ore sono state risparmiate, quanta carta risparmiata, ma soprattutto
+
+378
+00:25:22,880 --> 00:25:28,000
+quanto è meglio lavorare così perché posso tranquillamente, quando ero felice e
+
+379
+00:25:28,000 --> 00:25:31,520
+sereno due anni fa e non sapevo che sarebbe arrivata la pandemia,
+
+380
+00:25:31,520 --> 00:25:36,640
+io tendenzialmente lavoravo molto fuori di casa in completa mobilità e per
+
+381
+00:25:36,640 --> 00:25:39,840
+me la carta era una cosa che mi portavo dietro due o
+
+382
+00:25:39,840 --> 00:25:43,120
+tre fogli se andava bene perché dovevo prendermi gli appunti.
+
+383
+00:25:43,120 --> 00:25:47,120
+Che in realtà stavo già ragionando all'epoca di evitare anche quello, ma
+
+384
+00:25:47,120 --> 00:25:48,640
+ne parleremo più avanti.
+
+385
+00:25:48,640 --> 00:25:53,600
+In ogni caso, tornando a Bomba, Filippo, qual è il formato preferito
+
+386
+00:25:53,600 --> 00:25:55,600
+per la digitalizzazione?
+
+387
+00:25:55,760 --> 00:26:00,080
+Il formato predefinito ormai è uno standard di fatto che è il
+
+388
+00:26:00,080 --> 00:26:05,680
+PDF, è stato creato originariamente da Adobe, è diventato uno standard di
+
+389
+00:26:05,680 --> 00:26:10,240
+fatto più o meno come lo standard di fatto World per i
+
+390
+00:26:10,240 --> 00:26:11,920
+momenti di videoscrittura.
+
+391
+00:26:11,920 --> 00:26:17,600
+Adesso è stato Adobe ha reso, aperto il formato.
+
+392
+00:26:17,600 --> 00:26:18,320
+Meno male.
+
+393
+00:26:19,200 --> 00:26:22,000
+Sì, perché c'è stato un periodo che non era aperto.
+
+394
+00:26:22,000 --> 00:26:24,400
+Adesso che mi fai pensare, è una cosa che noi diamo per
+
+395
+00:26:24,400 --> 00:26:28,480
+scontato che il formato PDF fosse aperto, ma qualche anno fa il
+
+396
+00:26:28,480 --> 00:26:34,520
+formato PDF poteva essere solo aperto da Adobe Reader, se non ricordo
+
+397
+00:26:34,520 --> 00:26:38,920
+male, e quello te lo tenevi e creare PDF era un casino
+
+398
+00:26:39,080 --> 00:26:43,720
+in ogni caso perché o avevi dei programmi specialistici che forniva indovinate
+
+399
+00:26:43,720 --> 00:26:49,000
+un po' chi Adobe stessa oppure vi attaccavate essenzialmente al tram.
+
+400
+00:26:49,000 --> 00:26:54,200
+Invece adesso è molto più semplice, soprattutto con chi utilizza i sistemi
+
+401
+00:26:54,200 --> 00:26:59,800
+Apple, perché vi permette appunto di stampare qualsiasi cosa in formato PDF
+
+402
+00:26:59,800 --> 00:27:01,480
+come se non ci fosse un domani.
+
+403
+00:27:01,480 --> 00:27:05,640
+Perché all'interno di Apple, per fortuna, e io alzo la manina che
+
+404
+00:27:05,640 --> 00:27:09,960
+sono veramente super super contento di questa cosa che ho scoperto quando
+
+405
+00:27:09,960 --> 00:27:13,960
+sono arrivato all'interno dell'ambiente di Apple e che c'è la possibilità di
+
+406
+00:27:13,960 --> 00:27:18,680
+stampare da qualsiasi cosa in formato PDF ma da qualsiasi applicazione.
+
+407
+00:27:18,680 --> 00:27:27,720
+Quindi diciamo che il formato digitale è molto semplificato all'interno dell'ecosistema Apple.
+
+408
+00:27:27,800 --> 00:27:32,200
+Sì, lo acceniamo adesso, ma ne avremmo parlato forse dopo.
+
+409
+00:27:32,200 --> 00:27:38,840
+Il sistema macOS ha un gestore dei PDF integrato e quindi tutto
+
+410
+00:27:39,080 --> 00:27:43,480
+quello che si può stampare può essere stampato come PDF.
+
+411
+00:27:43,480 --> 00:27:49,400
+Anteprima, di fatto, è un pigliatto, diciamo, che permette di dare una
+
+412
+00:27:49,400 --> 00:27:55,720
+grossa mano alla digitalizzazione proprio perché il PDF è gestito direttamente dal
+
+413
+00:27:55,720 --> 00:27:57,560
+sistema operativo e così via.
+
+414
+00:27:57,880 --> 00:28:04,520
+Alcune precisazioni, esistono vari gusti o flavor, come viene detto in lingua
+
+415
+00:28:04,520 --> 00:28:06,520
+inglese di PDF.
+
+416
+00:28:06,520 --> 00:28:10,920
+Per ragioni di spazio, ovviamente non ne possiamo parlare in modo approfondito,
+
+417
+00:28:10,920 --> 00:28:17,040
+ma è opportuno sapere che esistono per non rimanere impressionati ovviamente dalla
+
+418
+00:28:17,040 --> 00:28:17,600
+cosa.
+
+419
+00:28:17,600 --> 00:28:22,400
+Infatti, oltre ai PDF normali diciamo, esistono anche altri formati tipo il
+
+420
+00:28:22,400 --> 00:28:29,520
+PDF A che sono prevalentemente pensati là per archiviazione quindi per archiviare
+
+421
+00:28:29,520 --> 00:28:36,000
+per lunghi periodi di tempo dei documenti con retrocompatibilità, ovviamente a versioni
+
+422
+00:28:36,000 --> 00:28:42,400
+precedenti, proprio per evitare che il tutto sia leggibile nel tempo.
+
+423
+00:28:42,400 --> 00:28:48,400
+Esattamente, stavo guardando su Wikipedia e mi sono rimasto assolutamente stupito perché
+
+424
+00:28:48,960 --> 00:28:50,160
+io conoscevo il PDF
+
+425
+00:28:52,480 --> 00:28:57,520
+Barra, che sapevo per l'archiviazione serve perché alcuni comuni lo richiedono, tra
+
+426
+00:28:57,520 --> 00:29:01,520
+l'altro, ma ci sono almeno 5 altre categorie di cui ci sono
+
+427
+00:29:01,520 --> 00:29:05,520
+almeno due sottocategorie per ogni categoria.
+
+428
+00:29:05,520 --> 00:29:09,760
+Quindi immaginate che questa cosa qua è un po' esplosa sotto le
+
+429
+00:29:09,760 --> 00:29:11,040
+mani di Adobe.
+
+430
+00:29:11,040 --> 00:29:15,120
+Tanto per cambiare sapete bene come la penso su Adobe e qui
+
+431
+00:29:15,120 --> 00:29:16,800
+si è ovviamente distinta
+
+432
+00:29:18,880 --> 00:29:20,320
+come tutte le altre volte.
+
+433
+00:29:20,320 --> 00:29:25,920
+Vi lasciamo nelle episodio un simpatico link dove potete rifarvi gli occhi
+
+434
+00:29:26,160 --> 00:29:32,080
+e quindi a questo punto direi che possiamo tranquillamente passare alle tipologie
+
+435
+00:29:32,080 --> 00:29:33,120
+di PDF.
+
+436
+00:29:33,120 --> 00:29:34,640
+Dico bene, Filippo?
+
+437
+00:29:34,640 --> 00:29:39,520
+Esatto, esatto, di fatto chiamiamole così, ce ne possono essere due ipotesi
+
+438
+00:29:39,520 --> 00:29:46,960
+di base, cioè quelle che sono i PDF semere acquisizioni dei documenti,
+
+439
+00:29:46,960 --> 00:29:50,720
+quindi delle fotocopie digitali, chiamiamole così, giusto per essere
+
+440
+00:29:52,240 --> 00:29:53,520
+molto semplici.
+
+441
+00:29:53,680 --> 00:29:59,960
+E invece abbiamo anche i PDF nativi digitali, cioè i PDF testuali,
+
+442
+00:29:59,760 --> 00:30:03,720
+dove il PDF viene generato da un programma di videoscrittura, ma non
+
+443
+00:29:59,920 --> 00:30:04,520
+solo, ovviamente.
+
+444
+00:30:04,760 --> 00:30:10,200
+Quindi nasce già digitale, c'è già il testo, ci sono già dentro
+
+445
+00:30:10,200 --> 00:30:13,960
+le immagini e così via in un formato più avanzato.
+
+446
+00:30:13,960 --> 00:30:19,000
+Tendenzialmente il PDF è uno strumento vettoriale, quindi uno dei vantaggi del
+
+447
+00:30:19,000 --> 00:30:24,120
+PDF è quando viene generato nativamente digitale lo si può chiamiamolo così,
+
+448
+00:30:24,120 --> 00:30:30,600
+zoomare indefinitivamente e non perdere la qualità perché appunto l'immagine è un
+
+449
+00:30:30,600 --> 00:30:35,080
+vettore, quindi immagine grafica e non è invece strutturata con i pixel
+
+450
+00:30:35,080 --> 00:30:36,920
+come invece una scansione.
+
+451
+00:30:36,920 --> 00:30:43,320
+E quindi ovviamente la qualità finale del documento vettoriale è sicuramente maggiore
+
+452
+00:30:43,320 --> 00:30:48,040
+rispetto a quella invece del documento in bitmap, chiamiamolo così.
+
+453
+00:30:48,040 --> 00:30:54,680
+Pensate che è talmente vettoriale che in una recente versione di AutoCAD,
+
+454
+00:30:54,680 --> 00:31:01,400
+mi pare dalla 2019, per Mac è possibile praticamente trasformare un PDF
+
+455
+00:31:01,400 --> 00:31:05,480
+in un disegno DVG con pochissimi passaggi.
+
+456
+00:31:05,480 --> 00:31:12,200
+Quindi potete immaginare che la tanto decantata sicurezza dei file PDF che
+
+457
+00:31:12,200 --> 00:31:18,840
+vi garantivano la paternità tra virgolette del vostro disegno sono tranquillamente saltate
+
+458
+00:31:18,840 --> 00:31:23,960
+grazie a questo appunto, alla vettorialità del disegno che vi permette appunto
+
+459
+00:31:24,120 --> 00:31:27,880
+di avere un DVG in modo semplice e carino.
+
+460
+00:31:27,880 --> 00:31:32,280
+Purtroppo questo non funziona col catasto perché il catasto ha una sua
+
+461
+00:31:32,280 --> 00:31:38,040
+procedura che trasforma il PDF essenzialmente in un'immagine, è una scansione brutta
+
+462
+00:31:38,200 --> 00:31:43,160
+e cattiva del disegno digitale che hanno e purtroppo questo è quanto
+
+463
+00:31:43,160 --> 00:31:44,120
+e ce lo teniamo.
+
+464
+00:31:44,120 --> 00:31:48,320
+Questi qui sono due esempi per dirvi quello che possono essere e
+
+465
+00:31:48,320 --> 00:31:52,720
+quanto può essere la qualità di un file PDF, ma soprattutto siamo
+
+466
+00:31:52,720 --> 00:31:58,880
+riusciti a dare l'opportunità a Filippo di coccolare suo figlio un attimino,
+
+467
+00:31:58,880 --> 00:32:02,640
+il buon Andrea, che incomincia a avere un po' le pile scariche.
+
+468
+00:32:02,640 --> 00:32:05,600
+Adesso dimmi tu Filippo se vuoi leggerti qualcosa
+
+469
+00:32:07,200 --> 00:32:10,080
+sulla carta e su quello che si può fare con iPhone e
+
+470
+00:32:10,080 --> 00:32:13,680
+iPad oppure vado avanti io alla tua scelta.
+
+471
+00:32:14,240 --> 00:32:18,720
+Allora intanto cerco, poi dopo vediamo cosa riusciamo a fare nel tempo,
+
+472
+00:32:18,720 --> 00:32:23,360
+perché effettivamente sto facendo un po' il diavolo a 4 per cercare
+
+473
+00:32:23,360 --> 00:32:24,480
+di riuscire a fare tutto.
+
+474
+00:32:24,480 --> 00:32:31,920
+Allora, diciamo che innanzitutto la base abbiamo due opzioni, ovviamente di digitalizzare
+
+475
+00:32:31,920 --> 00:32:36,400
+dalla carta, che è quello normale che si fa normalmente, diciamo.
+
+476
+00:32:36,400 --> 00:32:41,360
+Ma poi abbiamo anche la digitalizzazione, ovviamente, cioè mantenere in digitale quello
+
+477
+00:32:41,360 --> 00:32:42,560
+che è digitale.
+
+478
+00:32:42,560 --> 00:32:48,240
+Ovviamente affrontiamo e approfondiamo la parte della digitalizzazione della carta.
+
+479
+00:32:48,560 --> 00:32:54,800
+Quindi, appunto, una volta catturato e acquisito un documento di carta, una
+
+480
+00:32:54,800 --> 00:32:59,280
+volta era necessario acquistare degli strumenti specifici.
+
+481
+00:32:59,520 --> 00:33:04,800
+Lo scanner è il tipico strumento che si utilizza per acquisire i
+
+482
+00:33:04,800 --> 00:33:06,880
+documenti di carta.
+
+483
+00:33:06,880 --> 00:33:12,080
+Diciamo che nell'ultimo periodo i nostri smartphone sostanzialmente, ma anche i tablet,
+
+484
+00:33:12,080 --> 00:33:18,000
+sono tutti dotati di una fotocamera e ovviamente l'utilizzo di questa fotocamera
+
+485
+00:33:18,000 --> 00:33:24,240
+ci permette in via rudimentale, non vedremo poi bene o male come
+
+486
+00:33:25,040 --> 00:33:26,080
+funziona.
+
+487
+00:33:26,080 --> 00:33:31,320
+Di acquisire documenti non in grandi moli, come invece uno scanner professionale
+
+488
+00:33:31,320 --> 00:33:38,120
+può fare, ma sicuramente ci permette acquisire documenti anche in mobilità senza
+
+489
+00:33:38,120 --> 00:33:41,080
+avere a disposizione per esempio un computer.
+
+490
+00:33:41,080 --> 00:33:46,200
+Giusto proprio perché facevamo, stavo preparando le note di questo episodio, mi
+
+491
+00:33:46,200 --> 00:33:54,120
+sono approfondito quella che è l'applicazione più semplice su iOS per l'acquisizione
+
+492
+00:33:54,120 --> 00:33:57,160
+digitale anche perché è gratuita, che note.
+
+493
+00:33:57,160 --> 00:34:00,760
+Io non sono un utilizzatore di note per cui per me era
+
+494
+00:34:00,760 --> 00:34:05,480
+tutta roba nuova, ma ho approfondito un attimo e trovate le note
+
+495
+00:34:05,560 --> 00:34:11,480
+dell'episodio diciamo alle guide poi di Apple per l'acquisizione digitale.
+
+496
+00:34:11,480 --> 00:34:16,280
+Però, tra le cose che forse non tutti sanno, cliccando su quando
+
+497
+00:34:16,280 --> 00:34:20,920
+si apre una nuova nota in estrema sintesi su iOS come su
+
+498
+00:34:20,920 --> 00:34:26,760
+iPad, cliccando sull'icona della macchina fotografica è possibile fare l'acquisizione di un
+
+499
+00:34:26,760 --> 00:34:27,320
+documento.
+
+500
+00:34:27,320 --> 00:34:32,680
+L'acquisizione del documento è veramente molto ben fatta da Apple perché Apple
+
+501
+00:34:33,160 --> 00:34:37,640
+già imposta tutta una serie di sistemi per cui vi permette di
+
+502
+00:34:37,640 --> 00:34:43,960
+fare una foto anche laterale del documento e a determinate condizioni vi
+
+503
+00:34:43,960 --> 00:34:50,840
+permette di raddrizzare questo documento, di farne appunto la scansione, quindi acquisirla
+
+504
+00:34:50,840 --> 00:34:54,120
+in vari formati, quindi bianco e nero a colori e così via,
+
+505
+00:34:54,440 --> 00:35:00,040
+non riesce a fare l'OCR, cioè il riconoscimento dei caratteri, ma sicuramente
+
+506
+00:35:00,040 --> 00:35:03,160
+l'acquisizione del documento è molto buona.
+
+507
+00:35:03,160 --> 00:35:08,680
+L'altra cosa da tenere presente, ovviamente, per fare l'acquisizione di qualsiasi documento
+
+508
+00:35:08,920 --> 00:35:14,120
+su iPhone o iPad, innanzitutto, non usare la macchina fotografica nude e
+
+509
+00:35:14,120 --> 00:35:19,040
+cruda, perché ovviamente i risultati sono tendenzialmente di bassa qualità.
+
+510
+00:35:14,920 --> 00:35:21,280
+Non perché le macchine fotografiche facciano.
+
+511
+00:35:21,440 --> 00:35:24,960
+Sì, è Roberto che ci sta provando e sta vedendo che effettivamente
+
+512
+00:35:24,960 --> 00:35:26,320
+il risultato è notevole.
+
+513
+00:35:26,320 --> 00:35:31,680
+L'ho fatto sul video, ho fatto una scansione del documento della scaletta
+
+514
+00:35:31,680 --> 00:35:32,640
+che avevo video.
+
+515
+00:35:32,640 --> 00:35:35,680
+Mi sono messo di veramente messo storto.
+
+516
+00:35:35,680 --> 00:35:40,480
+Ho fatto la scansione e l'ha fatta ottimamente e tutto perfettamente dritto.
+
+517
+00:35:40,480 --> 00:35:45,840
+Complimenti ad Apple, veramente esatto e senza neanche è tutto in automatico,
+
+518
+00:35:46,320 --> 00:35:50,080
+non ti richiede neanche di andare a fare tutte le operazioni di
+
+519
+00:35:50,080 --> 00:35:53,920
+ritaglio o di aggiustamento diciamo dei margini.
+
+520
+00:35:53,920 --> 00:35:57,600
+Ecco, una cosa particolare da tenere presente in questo caso è che
+
+521
+00:35:57,600 --> 00:36:01,840
+se avete un foglio di carta bianca come è tipico nel senso
+
+522
+00:36:01,840 --> 00:36:06,880
+avere, le scansioni migliori che vengono è avendo una scrivania di un
+
+523
+00:36:06,880 --> 00:36:11,360
+colore invece scuro, di modo che il rilevamento dei bordi sostanzialmente del
+
+524
+00:36:11,360 --> 00:36:15,920
+foglio venga fatto bene in maniera automatica senza problemi.
+
+525
+00:36:15,920 --> 00:36:20,080
+Se fate bianco su bianco, ecco spesso e volentieri qui i risultati
+
+526
+00:36:20,080 --> 00:36:26,320
+peggiorano, ma anche qui quasi tutti i software alla stessa note, vi
+
+527
+00:36:26,320 --> 00:36:32,000
+permette poi di centrare gli angoli del foglio di carta, e quindi
+
+528
+00:36:32,000 --> 00:36:36,960
+acquisire raddrizzare il meglio possibile il documento.
+
+529
+00:36:36,960 --> 00:36:38,880
+Altre cose da dire.
+
+530
+00:36:38,880 --> 00:36:44,080
+Ovviamente oltre a note esistono una serie infinita sostanzialmente
+
+531
+00:36:45,920 --> 00:36:53,600
+di applicazioni esatto per l'acquisizione video, l'acquisizione diciamo la digitalizzazione della carta.
+
+532
+00:36:54,160 --> 00:36:58,640
+I vantaggi maggiori rispetto a note sono sicuramente il fatto di acquisire
+
+533
+00:36:58,720 --> 00:37:03,400
+più pagine in contemporanea, ovvero si fanno più foto, chiamiamole così una
+
+534
+00:37:03,400 --> 00:37:08,440
+dietro l'altra, girando le pagine del documento e ovviamente il PDF finale
+
+535
+00:37:08,440 --> 00:37:13,480
+che viene generato è un PDF multipagina con 4, 5, 6, 7,
+
+536
+00:37:13,480 --> 00:37:17,240
+8, 10 pagine al suo interno.
+
+537
+00:37:17,240 --> 00:37:23,400
+Il riconoscimento del test acquisito e corazione automatica avanzata delle immagini, quindi
+
+538
+00:37:23,640 --> 00:37:25,640
+si riescono, soprattutto se
+
+539
+00:37:26,840 --> 00:37:30,360
+la luce non è buona e così via, si riescono a fare
+
+540
+00:37:30,680 --> 00:37:35,960
+delle corazioni che sono molto utili ovviamente se si vuole arrivare a
+
+541
+00:37:35,960 --> 00:37:40,440
+un livello di qualità delle scansioni relativamente elevato.
+
+542
+00:37:40,440 --> 00:37:49,320
+Diciamolo rispetto a uno scanner professionale, comunque l'iPhone e l'iPad non riesce
+
+543
+00:37:49,320 --> 00:37:54,120
+a fare dei risultati uguali, ma devo dire la verità si legge
+
+544
+00:37:54,120 --> 00:37:56,600
+tutto bene e il risultato finale non è male.
+
+545
+00:37:56,600 --> 00:38:01,560
+L'unica cosa forse che fastidiosa, chiamiamola così, è che utilizzando una macchina
+
+546
+00:38:01,560 --> 00:38:08,120
+fotografica abbastanza potente e spesso e volentieri non riducendo le dimensioni dei
+
+547
+00:38:08,120 --> 00:38:14,040
+file, i PDF che vengono generati dalle acquisizioni fatte dai iPhone e
+
+548
+00:38:14,040 --> 00:38:18,760
+iPad tendono a essere un po' cicciottelli a livello di occupazione dello
+
+549
+00:38:18,760 --> 00:38:25,240
+spazio, ma eventualmente si possono fare dei passaggi successivi per ridurre queste
+
+550
+00:38:25,240 --> 00:38:26,280
+dimensioni.
+
+551
+00:38:26,280 --> 00:38:30,040
+Roberto, vuoi parlarci un attimo delle applicazioni possibili?
+
+552
+00:38:30,680 --> 00:38:31,320
+Beno male.
+
+553
+00:38:31,320 --> 00:38:35,240
+Io ho fatto anche un sondaggio su Telegram su Avvocati e Mac,
+
+554
+00:38:35,240 --> 00:38:37,240
+canale Telegram di Avvocati e Mac.
+
+555
+00:38:37,400 --> 00:38:41,800
+Infatti, bene o male appunto, infatti, la scaletta è più o meno
+
+556
+00:38:41,960 --> 00:38:47,440
+fatta e ringrazio, anzi, tutti quelli che hanno dato la loro opinione,
+
+557
+00:38:44,840 --> 00:38:50,560
+quali sono le migliori applicazioni o le applicazioni più comode.
+
+558
+00:38:50,720 --> 00:38:56,960
+Effettivamente alcune, per esempio, non le conoscevo, altre sapevo che esistevano, ma
+
+559
+00:38:56,960 --> 00:38:58,080
+non le utilizzavo.
+
+560
+00:38:58,080 --> 00:39:01,840
+Io devo dire la verità: uso Swift X che poi è l'ex
+
+561
+00:39:02,000 --> 00:39:06,080
+Can Pro che ha cambiato nome e quando ha cambiato nome ha
+
+562
+00:39:06,080 --> 00:39:11,520
+anche cambiato modalità di utilizzo, devo dire la verità: io l'avevo acquistato
+
+563
+00:39:11,920 --> 00:39:15,840
+a me tutte le funzioni base che avevo già acquistato sono rimaste
+
+564
+00:39:16,000 --> 00:39:18,880
+quindi alla fine per me non è un grosso problema.
+
+565
+00:39:18,880 --> 00:39:22,480
+Sicuramente credo immagino che sia stata acquisita a questo punto.
+
+566
+00:39:23,120 --> 00:39:32,080
+Però sì, adesso in abbonamento l'abbonamento costa 37,99 euro all'anno, perché effettivamente
+
+567
+00:39:32,400 --> 00:39:35,600
+a quel punto lì bisogna dire la verità, non so se ne
+
+568
+00:39:35,600 --> 00:39:36,240
+valga la pena.
+
+569
+00:39:36,240 --> 00:39:36,800
+Dimmi Andrea
+
+570
+00:39:40,640 --> 00:39:43,120
+un'applicazione casomai te la facciamo dire anche a te.
+
+571
+00:39:43,120 --> 00:39:47,520
+Però qui se no, se vuoi già leggerla subito, non c'è problema.
+
+572
+00:39:47,520 --> 00:39:50,960
+Se vuoi leggere, sono tutti i nomi in inglese, un po'
+
+573
+00:39:52,480 --> 00:39:52,720
+.
+
+574
+00:39:52,720 --> 00:39:55,600
+Tanto sbagliando, si impala giusto.
+
+575
+00:39:55,600 --> 00:39:57,920
+Questo è il modo giusto di affrontare le cose.
+
+576
+00:39:57,920 --> 00:40:04,080
+La prima applicazione è scanclo, no, è questa qua: PDF
+
+577
+00:40:05,520 --> 00:40:14,320
+PDF Pen si chiama PDF Pen 6 attualmente in sconto esatto, attualmente
+
+578
+00:40:14,320 --> 00:40:17,200
+scontata, costa secondo me 7-8 dollari.
+
+579
+00:40:17,200 --> 00:40:19,120
+Perché quando ho guardato era nel dollaro.
+
+580
+00:40:19,280 --> 00:40:22,240
+Sto guardando, costa 20 cacchio.
+
+581
+00:40:22,240 --> 00:40:25,280
+Me l'ha cambiato sotto il naso, mannaggia chi ha fatto il sito.
+
+582
+00:40:25,280 --> 00:40:32,200
+Allora, dunque, PDF Pensi, perché io per iOS costava 20 dollari e
+
+583
+00:40:32,200 --> 00:40:35,480
+adesso è passato a 7, che io ve l'ho rotto.
+
+584
+00:40:29,680 --> 00:40:35,720
+Andato è
+
+585
+00:40:29,840 --> 00:40:36,520
+già qualcosa.
+
+586
+00:40:36,600 --> 00:40:38,920
+Insomma, è già un bello sconto per Mac.
+
+587
+00:40:38,920 --> 00:40:42,680
+C'è anche la versione per Mac che costa bellezza di 79 dollari
+
+588
+00:40:42,680 --> 00:40:45,320
+e 95 dollari esatto, esatto, quella
+
+589
+00:40:46,440 --> 00:40:49,320
+ne vale la pena se non avete nessun tipo di software per
+
+590
+00:40:49,320 --> 00:40:52,360
+il conoscimento su Mac, una sostanza.
+
+591
+00:40:52,360 --> 00:40:59,720
+Poi abbiamo Andrea Microsoft Lens quindi Microsoft Lens che
+
+592
+00:41:01,320 --> 00:41:08,120
+Microsoft è come quella di Windows Microsoft Lens esatto e chi l'ha
+
+593
+00:41:08,200 --> 00:41:09,160
+consigliato?
+
+594
+00:41:09,640 --> 00:41:12,120
+Quello lì è chi ha consigliato?
+
+595
+00:41:12,120 --> 00:41:13,880
+Chi ha consigliato?
+
+596
+00:41:13,880 --> 00:41:18,520
+Nicola che salutiamo, Nicola Losito grandissimo!
+
+597
+00:41:18,680 --> 00:41:22,600
+Effettivamente ci ha anche detto che l'ha testato in varie occasioni anche
+
+598
+00:41:22,600 --> 00:41:28,440
+con delle maestre, quindi comunque è un prodotto di Microsoft che è
+
+599
+00:41:28,440 --> 00:41:34,040
+stata dichiarata un'eccellenza o comunque un bel prodotto, per cui lo segnaliamo
+
+600
+00:41:34,120 --> 00:41:38,600
+anche perché in questo caso è gratuito, cioè non ha costi aggiuntivi,
+
+601
+00:41:38,600 --> 00:41:41,880
+quindi lo potete scaricare e la potete utilizzare.
+
+602
+00:41:42,120 --> 00:41:46,440
+Non l'ho provata, ma l'ha usata mia moglie e in effetti funzionava
+
+603
+00:41:46,440 --> 00:41:47,160
+molto bene.
+
+604
+00:41:47,400 --> 00:41:53,080
+Gratuita, fatevi un giro se utilizzate soprattutto prodotti Microsoft, ringrazierete perché in
+
+605
+00:41:53,080 --> 00:41:54,280
+effetti è un bel prodotto.
+
+606
+00:41:54,280 --> 00:41:56,120
+Andrea direi di passare alla prossima.
+
+607
+00:41:56,120 --> 00:41:58,520
+Che abbiamo invece Adobe Scan
+
+608
+00:42:00,360 --> 00:42:02,680
+esatto, questo è Sergio che ce la consiglia.
+
+609
+00:42:04,280 --> 00:42:10,440
+Basta perché i cognomi li teniamo per non abbiamo avuto l'autorizzazione a
+
+610
+00:42:10,440 --> 00:42:12,760
+divulgare nome e cognome, solo il nome.
+
+611
+00:42:12,760 --> 00:42:18,240
+Tanto chi lo sa, si ci vede e sa benissimo di chi
+
+612
+00:42:18,240 --> 00:42:19,120
+stiamo parlando.
+
+613
+00:42:14,920 --> 00:42:20,320
+Li ringraziamo tutti.
+
+614
+00:42:20,560 --> 00:42:22,640
+Tenendo a precisare perché.
+
+615
+00:42:22,640 --> 00:42:23,360
+Ovviamente.
+
+616
+00:42:23,520 --> 00:42:28,720
+Anzi, se volete, anche voi ascoltatori tra virgolette, non l'abbiamo detto, ma
+
+617
+00:42:28,880 --> 00:42:31,200
+potete sempre iscriverci a scrivi.
+
+618
+00:42:34,320 --> 00:42:36,000
+it e segnalarci.
+
+619
+00:42:36,000 --> 00:42:40,880
+Ovviamente se abbiamo sbagliato qualcosa possibilissimo, se ci sono cose che non
+
+620
+00:42:40,880 --> 00:42:43,200
+abbiamo considerato altrettanto possibile.
+
+621
+00:42:43,360 --> 00:42:47,520
+E quindi potete instaurare con noi anche un dialogo epistolare se volete.
+
+622
+00:42:47,520 --> 00:42:48,640
+Esattamente esatto.
+
+623
+00:42:48,720 --> 00:42:55,120
+Poi ovviamente, se volete, potete venire sui nostri canali di Avvocati e Mac
+
+624
+00:42:55,440 --> 00:43:01,040
+e Mac Architettura e invece dialogare direttamente su Telegram se avete questa
+
+625
+00:43:01,040 --> 00:43:01,600
+voglia.
+
+626
+00:43:01,600 --> 00:43:05,680
+Adobe Scan ovviamente è l'applicazione di Adobe.
+
+627
+00:43:05,680 --> 00:43:07,280
+Credo anche questa gratuita.
+
+628
+00:43:07,280 --> 00:43:10,080
+Credo adesso controlliamo il volo subito.
+
+629
+00:43:10,400 --> 00:43:15,600
+Siamo gente molto smart Scanner Pro, che invece è quella che è
+
+630
+00:43:15,600 --> 00:43:20,960
+oannata dai più, quindi che sicuramente ha vinto, almeno nel nostro piccolo
+
+631
+00:43:21,280 --> 00:43:28,640
+pool di recensioni, ha vinto alla stragrande, la medaglia d'oro come miglior
+
+632
+00:43:28,640 --> 00:43:33,200
+applicazione per fare scansioni su iOS e iPadOS.
+
+633
+00:43:33,200 --> 00:43:38,720
+Scanner Pro della società Riddle che fa tutta una serie di altre
+
+634
+00:43:38,720 --> 00:43:41,200
+applicazioni valide, devo dire la verità.
+
+635
+00:43:41,200 --> 00:43:45,280
+C'è una versione base e c'è una versione plus invece che a
+
+636
+00:43:45,280 --> 00:43:48,320
+pagamento e costa però una tanto 20 euro.
+
+637
+00:43:48,320 --> 00:43:51,600
+A differenza di Adobe Scan che è gratuita, ma ha una serie
+
+638
+00:43:51,600 --> 00:43:56,320
+di pacchettini che partono da 11 euro in avanti a salire fino
+
+639
+00:43:56,320 --> 00:43:58,440
+alla bellezza di 102 euro.
+
+640
+00:43:58,440 --> 00:44:03,080
+E non commento oltre, lasciamo perdere Adobe perché io sono noto e
+
+641
+00:43:59,840 --> 00:44:05,640
+comincio a smadonnare.
+
+642
+00:44:05,880 --> 00:44:09,480
+Invece, non l'ho messo in scaletta perché volevo fare una sorpresa al
+
+643
+00:44:09,480 --> 00:44:10,520
+mio amico Filippo.
+
+644
+00:44:10,520 --> 00:44:14,280
+Mi ho anche io qua un qualche chica da buttarvi fuori nel
+
+645
+00:44:14,440 --> 00:44:20,600
+lontano 2013, penso che fosse all'inizio di quando avessi un iPhone, avevo
+
+646
+00:44:20,600 --> 00:44:25,800
+scaricato Tini Scanner Plus, che probabilmente ancora gratuita, e quindi è un
+
+647
+00:44:25,800 --> 00:44:26,040
+po'
+
+648
+00:44:27,320 --> 00:44:31,000
+dire perché era uno dei primi programmi che ho scaricato per l'iPhone.
+
+649
+00:44:31,240 --> 00:44:37,240
+Invece esiste una simpatica applicazione di Evernote che si chiama Scannable, anche
+
+650
+00:44:37,240 --> 00:44:39,880
+questa è gratuita e di Evernote.
+
+651
+00:44:40,040 --> 00:44:44,360
+Quindi, per chi utilizza questo tipo di applicazioni, fate un giro su
+
+652
+00:44:44,360 --> 00:44:49,880
+quello che molto probabilmente troverete tutto quanto collegato con la vostra applicazione
+
+653
+00:44:49,880 --> 00:44:51,880
+preferita per prendere le note.
+
+654
+00:44:51,880 --> 00:44:56,360
+E chiaramente io, essendo un architetto, non potevo anche darvi un paio
+
+655
+00:44:56,360 --> 00:45:01,080
+di kic perché non volete scannerizzare anche le case, oltre le cose
+
+656
+00:45:01,080 --> 00:45:03,800
+digitali, potete provare se volete.
+
+657
+00:45:03,800 --> 00:45:09,560
+Home Scan Pro per fare una scansione della vostra casa oppure Display
+
+658
+00:45:09,560 --> 00:45:12,120
+Land, che purtroppo penso non sia più disponibile.
+
+659
+00:45:12,120 --> 00:45:15,240
+In questo momento mi pare che non fosse più disponibile, che vi
+
+660
+00:45:15,240 --> 00:45:19,800
+permetteva di fare una piccola nuvola di punti di quello che stavate
+
+661
+00:45:19,800 --> 00:45:25,400
+digitalizzando e quindi oltre alla carta potete digitalizzarvi la casa o quello
+
+662
+00:45:25,400 --> 00:45:26,120
+che volete.
+
+663
+00:45:26,120 --> 00:45:30,440
+Questo per dire che il vostro smartphone, ridendo e scherzando, ha una
+
+664
+00:45:30,440 --> 00:45:32,520
+fotocamera di tutto rispetto.
+
+665
+00:45:32,520 --> 00:45:36,520
+Conseguentemente all'inizio anch'io ero un po' scettico sul fatto di usare un
+
+666
+00:45:36,520 --> 00:45:41,080
+iPhone o un iPad come strumento di scansione, ma quando quel giorno
+
+667
+00:45:41,080 --> 00:45:43,880
+che mi sono messo a scansionare tutta una serie di documenti che
+
+668
+00:45:43,880 --> 00:45:48,320
+dovevo mandare al commercialista che non avevo digitalizzato perché non ero ancora
+
+669
+00:45:48,320 --> 00:45:51,440
+digitale io, e a usare questo tipo di applicazioni per fare la
+
+670
+00:45:51,440 --> 00:45:57,920
+scansione volante di tutte queste documentazioni, vi dico che veramente risparmiate una
+
+671
+00:45:57,920 --> 00:46:02,240
+bagonata di tempo perché voglio vedervi a stare lì a scansionare tutto
+
+672
+00:46:02,240 --> 00:46:06,080
+quanto con lo scanner invece che fare delle fotografie scansionate con la
+
+673
+00:46:06,080 --> 00:46:10,080
+vostra applicazione del cuore che spero sia tra quelle che vi abbiamo
+
+674
+00:46:10,080 --> 00:46:11,760
+elencato poco tempo fa.
+
+675
+00:46:11,760 --> 00:46:16,000
+Ringraziamo nuovamente i nostri ascoltatori per averci dato delle dritte.
+
+676
+00:46:16,000 --> 00:46:19,200
+Grazie a tutti quanti, siete stati veramente carinissimi.
+
+677
+00:46:19,200 --> 00:46:24,400
+Però adesso dobbiamo parlare anche di una possibilità che ci è offerta
+
+678
+00:46:24,560 --> 00:46:30,240
+Apple con la sua modalità di continuità tra i vari sistemi che
+
+679
+00:46:30,240 --> 00:46:35,840
+permette appunto di fare una scansione con iPhone o iPad che viene
+
+680
+00:46:35,840 --> 00:46:40,640
+utilizzata in questo caso come scanner e viene passata al Mac tranquillamente
+
+681
+00:46:40,640 --> 00:46:42,320
+usando la funzione continuity.
+
+682
+00:46:42,320 --> 00:46:43,760
+Cos'è la funzione continuity?
+
+683
+00:46:43,760 --> 00:46:47,600
+Lo spieghiamo così proprio per dare un'infrenatura veloce.
+
+684
+00:46:47,600 --> 00:46:51,360
+Può capitare che magari state leggendo un'email sul cellulare e poi quando
+
+685
+00:46:51,360 --> 00:46:54,480
+vi avvicinate al Mac vedete che sulla parte in basso a sinistra
+
+686
+00:46:54,480 --> 00:46:59,600
+della doc vi compare una cosa che ricorda la mail e che
+
+687
+00:46:59,600 --> 00:47:04,000
+quindi vi permette di andare avanti a leggere le mail direttamente sul
+
+688
+00:47:04,000 --> 00:47:04,880
+vostro Mac.
+
+689
+00:47:04,880 --> 00:47:07,680
+Questa è una cosa molto interessante, non c'è solo mail, ci sono
+
+690
+00:47:07,680 --> 00:47:10,160
+tutta una serie di altre applicazioni che mi sto qui a elencare
+
+691
+00:47:10,160 --> 00:47:11,840
+che funzionano con continuity.
+
+692
+00:47:11,840 --> 00:47:15,920
+Però una di queste è appunto la possibilità di usare la fotocamera
+
+693
+00:47:15,920 --> 00:47:20,800
+del vostro iPhone o iPad come scanner volante per il vostro Mac.
+
+694
+00:47:20,800 --> 00:47:24,240
+A questo punto possiamo passare alle limitazioni.
+
+695
+00:47:24,240 --> 00:47:29,280
+Questa funzione che funziona con le app di Apple.
+
+696
+00:47:29,280 --> 00:47:34,600
+Avete bisogno di Mobave e di iOS 12 come requisiti minimi e
+
+697
+00:47:34,600 --> 00:47:39,080
+sicuramente un'autenticazione a due fattori che non sapevo: il wifi e il
+
+698
+00:47:39,080 --> 00:47:43,080
+bluetooth attivi sia su Mac che sui dispositivi iOS.
+
+699
+00:47:43,080 --> 00:47:47,960
+Anche qui troverete tutto troverete tutto nelle note dell'episodio.
+
+700
+00:47:47,960 --> 00:47:53,160
+Tutte queste informazioni, ovviamente io le ho rubate dalle guide Apple del
+
+701
+00:47:53,160 --> 00:47:54,520
+supporto Apple.
+
+702
+00:47:54,760 --> 00:47:58,200
+Altro da aggiungere è che se utilizzate soluzioni cloud, c'è la possibilità
+
+703
+00:47:58,200 --> 00:48:01,640
+di fare scansioni anche delle app dei vari provider.
+
+704
+00:48:01,640 --> 00:48:04,360
+Questa qui è una dritta che ci ha dato Valerio.
+
+705
+00:48:04,360 --> 00:48:08,360
+Detto questo, direi che a questo punto possiamo fare l'ultimo capitolo che
+
+706
+00:48:08,360 --> 00:48:13,400
+è il Mac più il scanner dedicato, che lascerei la palla al
+
+707
+00:48:13,400 --> 00:48:18,280
+nostro Andrea che ci racconta cosa riguarda questo punto della scaletta.
+
+708
+00:48:18,840 --> 00:48:24,200
+Su Mac non è possibile catturare autonom
+
+709
+00:48:25,480 --> 00:48:25,800
+amente
+
+710
+00:48:27,000 --> 00:48:31,880
+, ma è necessario acquistare con uno
+
+711
+00:48:33,720 --> 00:48:39,400
+acquisire con uno scanner, non scanner piano.
+
+712
+00:48:40,200 --> 00:48:44,040
+Aspetta, ti interrompo solo un attimo, è meglio non utilizzare uno scanner
+
+713
+00:48:44,040 --> 00:48:48,280
+piano, cioè quegli scanner che ti permettono di scansionare un foglio alla
+
+714
+00:48:48,280 --> 00:48:51,800
+volta perché se no ci metti una vita, non passa più.
+
+715
+00:48:51,800 --> 00:48:55,240
+Ma adesso te lo leggo io perché questo qui è una parola
+
+716
+00:48:55,240 --> 00:48:57,800
+strana, è un fascicolatore, ok?
+
+717
+00:48:57,800 --> 00:49:01,000
+Fascicolatore e sai come è fatto un fascicolatore?
+
+718
+00:49:01,000 --> 00:49:03,560
+No, almeno così lo sanno tutti.
+
+719
+00:49:03,800 --> 00:49:06,720
+Allora, il fascicolatore te lo spiego io.
+
+720
+00:49:06,720 --> 00:49:11,480
+È praticamente un particolare scanner che tu ci infili dentro i fogli
+
+721
+00:49:11,480 --> 00:49:17,840
+dall'alto e lui li mangia una alla volta e fa l'acquisizione fronte-retro
+
+722
+00:49:14,920 --> 00:49:18,960
+dei fogli.
+
+723
+00:49:19,600 --> 00:49:24,240
+Il vantaggio di questo sistema sostanzialmente è che se non ho i
+
+724
+00:49:24,240 --> 00:49:29,600
+fogli pinzati o comunque legati uno con l'altro, ma sono dei semplici
+
+725
+00:49:29,600 --> 00:49:34,800
+fogli A4 perché solitamente sono fascicolatori di quelle dimensioni lì.
+
+726
+00:49:34,960 --> 00:49:41,200
+Se ovviamente i fotocopiatori di grosse dimensioni possono fare anche fogli più
+
+727
+00:49:41,200 --> 00:49:41,920
+grossi.
+
+728
+00:49:41,920 --> 00:49:46,880
+Vi permette ovviamente di fare una scansione di 100 fogli, casomai in
+
+729
+00:49:46,880 --> 00:49:51,680
+pochi minuti, proprio perché un foglio alla volta, in automatico e molto
+
+730
+00:49:51,680 --> 00:49:57,200
+velocemente, lo scanner vi permette di acquisire molti molti documenti.
+
+731
+00:49:57,200 --> 00:50:00,800
+L'unica avvertenza è quella di ricordarsi di dare da mangiare al crescetto
+
+732
+00:50:00,800 --> 00:50:03,840
+che c'è dentro il fascicolatore che fa girare i fogli.
+
+733
+00:50:03,840 --> 00:50:05,760
+Soltanto questa come piccola avvertenza.
+
+734
+00:50:06,000 --> 00:50:09,360
+Rispetto agli iPhone e iPad
+
+735
+00:50:12,080 --> 00:50:12,320
+.
+
+736
+00:50:12,560 --> 00:50:18,960
+Scansioni più precise e con più opzioni.
+
+737
+00:50:19,280 --> 00:50:24,880
+Inoltre possibilità di scansionare grossa
+
+738
+00:50:27,040 --> 00:50:28,640
+mole di documenti.
+
+739
+00:50:28,640 --> 00:50:30,560
+Quello che dicevamo prima, vero Andrea?
+
+740
+00:50:30,960 --> 00:50:39,840
+Utile per un flusso di lavoro veloce e rapido e permette di
+
+741
+00:50:40,480 --> 00:50:44,560
+automatizzare, vedendo
+
+742
+00:50:45,600 --> 00:50:47,840
+vedremo meglio nella prossima puntata.
+
+743
+00:50:47,840 --> 00:50:49,680
+Nella prossima puntata.
+
+744
+00:50:49,680 --> 00:50:56,560
+Diciamo che brevemente, siccome appunto è possibile scansionare velocemente dei documenti anche
+
+745
+00:50:56,560 --> 00:51:03,320
+grossi, abitualmente questi fascicolatori portano almeno 50 pagine di documento, diciamo, e
+
+746
+00:51:03,320 --> 00:51:08,360
+questi documenti vengono salvati immediatamente sul vostro Mac, è ovvio che con
+
+747
+00:51:08,360 --> 00:51:11,800
+tutta una serie di programmi di cui cercheremo di parlare velocemente nella
+
+748
+00:51:11,800 --> 00:51:19,560
+prossima puntata, potete anche implementare un sistema di automazione per archiviare velocemente
+
+749
+00:51:19,560 --> 00:51:20,920
+questi documenti.
+
+750
+00:51:20,920 --> 00:51:26,360
+Posto che, diciamo anche qua subito, spesso e volentieri questi scanner hanno
+
+751
+00:51:26,360 --> 00:51:30,440
+anche già la funzione di fare l'OCR, cioè il riconoscimento del testo.
+
+752
+00:51:30,440 --> 00:51:34,760
+E questo è molto utile perché ovviamente sapendo il testo, riconoscendo il
+
+753
+00:51:34,760 --> 00:51:38,360
+testo all'interno del documento, poi si possono creare tutta una serie di
+
+754
+00:51:38,360 --> 00:51:42,440
+automazioni, oltre che ricercare facilmente questi documenti.
+
+755
+00:51:42,440 --> 00:51:45,960
+Quindi, quali sono gli scanner che noi consigliamo?
+
+756
+00:51:45,960 --> 00:51:48,760
+Io poi di fatto ne uso solo uno, però
+
+757
+00:51:49,960 --> 00:51:50,680
+da testo
+
+758
+00:51:51,880 --> 00:51:55,080
+si chiama scan snap della Fugizu.
+
+759
+00:51:55,080 --> 00:51:56,040
+Questo è difficilissimo
+
+760
+00:51:59,240 --> 00:52:02,120
+come snap architettura imperfetto, giusto per non fare.
+
+761
+00:52:02,280 --> 00:52:03,320
+È di quello sempre bravo.
+
+762
+00:52:03,320 --> 00:52:04,200
+Della browser
+
+763
+00:52:06,680 --> 00:52:09,320
+esatto della Fugizu ma
+
+764
+00:52:11,960 --> 00:52:17,880
+nel 2014 quando io avevo piccolo, adesso non dire quanti anni avevi
+
+765
+00:52:17,880 --> 00:52:23,000
+quell'epoca, perché anche questi sono dati che teniamo per noi, stavo scherzando
+
+766
+00:52:24,360 --> 00:52:25,320
+quando eri piccolo,
+
+767
+00:52:27,640 --> 00:52:32,840
+scan snap scan snap IX500.
+
+768
+00:52:33,240 --> 00:52:38,360
+Sì, non è facile da leggere in produzione, che adesso non è
+
+769
+00:52:38,360 --> 00:52:47,280
+più in produzione, infatti funziona perfettamente costoso 500 euro perché sono tanti
+
+770
+00:52:48,160 --> 00:52:53,600
+esatto soprattutto nel 2014 però map è super
+
+771
+00:52:54,880 --> 00:52:57,920
+possibile fa come si chiama
+
+772
+00:53:00,800 --> 00:53:06,640
+dei documenti dei documenti e Filippo sei mi eticato dei documenti
+
+773
+00:53:07,760 --> 00:53:13,120
+le ho scritte per noi rimuove pagine bianche le pagine bianche esatto
+
+774
+00:53:13,280 --> 00:53:16,800
+quindi se ci sono delle pagine bianche all'interno del documento le togli
+
+775
+00:53:16,880 --> 00:53:20,880
+via dalla scansione quindi ti evita anche di avere delle pagine bianche
+
+776
+00:53:20,880 --> 00:53:24,160
+scansionate che di fatto non servono a niente e poi
+
+777
+00:53:26,400 --> 00:53:36,560
+scansiona addirittura 50 pagine e gestisce quasi tutti i formati da a
+
+778
+00:53:36,560 --> 00:53:41,520
+4 in giù esatto un'altra cosa interessante di questo scan snap che
+
+779
+00:53:41,520 --> 00:53:44,400
+è uno dei migliori o anche dei più costosi, devo dire la
+
+780
+00:53:44,400 --> 00:53:44,640
+verità
+
+781
+00:53:45,760 --> 00:53:49,280
+è il fatto che qualunque cosa tu li dia impasto lui la
+
+782
+00:53:49,280 --> 00:53:53,360
+riesce a scansionare per cui per esempio per me la mia professione
+
+783
+00:53:53,520 --> 00:53:58,640
+ci sono le cartoline delle notifiche piuttosto che i tagliandini della posta
+
+784
+00:53:58,800 --> 00:54:02,960
+e così via che sono vari formati di dimensioni differenti diciamo e
+
+785
+00:54:02,960 --> 00:54:08,640
+inusuali ecco tutti questi formati lo Scansnam li riesce a mangiare, li
+
+786
+00:54:08,640 --> 00:54:14,960
+riesce ad acquisire senza troppi problemi, ovviamente basta regolare la dimensione dell'apertura
+
+787
+00:54:14,960 --> 00:54:20,000
+della bocca di inserimento e quindi è molto comodo perché in 448
+
+788
+00:54:20,000 --> 00:54:25,200
+si riesce a scansionare un intero atto velocemente e così via, quindi
+
+789
+00:54:25,200 --> 00:54:30,200
+io lo consiglio molto, adesso ne esistono dei modelli nuovi più avanzati,
+
+790
+00:54:30,200 --> 00:54:35,880
+tra virgolette, col display, touch e altre cose costano sempre più o
+
+791
+00:54:35,880 --> 00:54:37,800
+meno intorno ai 500 euro.
+
+792
+00:54:37,800 --> 00:54:42,440
+Tuttavia, devo dire la verità: ormai sono passati sette anni, lo dico
+
+793
+00:54:42,440 --> 00:54:43,960
+piano, tocco ferro.
+
+794
+00:54:43,960 --> 00:54:51,000
+Ma attualmente comunque io praticamente il 90% delle acquisizioni che faccio sono
+
+795
+00:54:51,240 --> 00:54:52,920
+con lo Scannap.
+
+796
+00:54:52,920 --> 00:54:56,440
+Addirittura i modelli come il mio hanno la possibilità di fare la
+
+797
+00:54:56,440 --> 00:55:01,160
+scansione via wifi, cioè potete addirittura non collegarlo fisicamente al computer.
+
+798
+00:55:01,160 --> 00:55:03,720
+In pratica, io ce l'ho sulla scrivania in ufficio.
+
+799
+00:55:03,720 --> 00:55:07,640
+Quando mi arriva della carta, finisce lì dentro e poi nel mio
+
+800
+00:55:07,640 --> 00:55:13,240
+flusso di lavoro, ovviamente, digitale per la digitalizzazione di tutto il discorso.
+
+801
+00:55:14,520 --> 00:55:18,760
+L'altra macchina che costa più o meno, però la stessa cifra come
+
+802
+00:55:18,760 --> 00:55:20,120
+si chiama, Andrea?
+
+803
+00:55:20,120 --> 00:55:27,800
+L'altro scanner che consigliamo, io non so, è l'Epson Force Work Duplex,
+
+804
+00:55:27,800 --> 00:55:31,800
+che effettivamente sono tutti i nomi Epson Force Work Duplex.
+
+805
+00:55:34,360 --> 00:55:37,560
+Allora facciamo un'altra volta perché vedo che è complicato.
+
+806
+00:55:37,560 --> 00:55:43,080
+È consigliato da David Spark che è colui che mi ha introdotto
+
+807
+00:55:43,240 --> 00:55:48,280
+la digitalizzazione al paperless, è un autore americano di Mac Power User
+
+808
+00:55:48,440 --> 00:55:53,960
+che ha scritto nel 2012 un libro appunto intitolato Paperless in inglese.
+
+809
+00:55:53,960 --> 00:55:57,480
+Quindi se conoscete la lingua ve lo consiglio.
+
+810
+00:55:57,720 --> 00:56:02,520
+Recentemente ha fatto una nuova versione come videoguida, però, in questo caso,
+
+811
+00:56:02,520 --> 00:56:05,880
+dove appunto ha aggiunto tutta una serie di cose, tra cui questi
+
+812
+00:56:05,880 --> 00:56:10,840
+nuovi scanner della Epson, che sono considerati molto validi per tutta una
+
+813
+00:56:10,840 --> 00:56:12,040
+serie di motivi.
+
+814
+00:56:12,040 --> 00:56:16,080
+La funzione duplex che è anche lo ScanSnap è quella funzione per
+
+815
+00:56:16,080 --> 00:56:21,280
+cui il foglio non passa due volte nello scanner, ma lo scanner
+
+816
+00:56:21,280 --> 00:56:25,520
+ha sostanzialmente dei lettori di immagine sia sul fronte che sul retro.
+
+817
+00:56:25,520 --> 00:56:30,240
+Quindi con un solo passaggio viene fatta la scansione di tutti i
+
+818
+00:56:30,240 --> 00:56:35,200
+lati del foglio, anche qui molto utile perché velocizza notevolmente l'acquisizione dei
+
+819
+00:56:35,200 --> 00:56:40,160
+documenti e quindi è consigliabile un acquisto di questo genere proprio per
+
+820
+00:56:40,160 --> 00:56:41,280
+quel motivo lì.
+
+821
+00:56:41,280 --> 00:56:44,080
+I vecchi fotocopiatori avevano invece un sistema.
+
+822
+00:56:44,080 --> 00:56:47,120
+Era un po' più complicato e sicuramente faceva perdere un sacco di
+
+823
+00:56:47,120 --> 00:56:47,440
+cose.
+
+824
+00:56:47,440 --> 00:56:52,160
+Più complicato per girare il foglio all'interno per girare il foglio all'interno
+
+825
+00:56:52,160 --> 00:56:54,400
+della macchina e si inceppava sempre.
+
+826
+00:56:54,400 --> 00:56:55,440
+Esatto, esatto.
+
+827
+00:56:55,440 --> 00:56:57,600
+Quindi anche lì è una cosa che.
+
+828
+00:56:57,920 --> 00:56:58,320
+Esatto.
+
+829
+00:56:58,320 --> 00:57:03,600
+Poi se invece non avete grosse quantità di carta da scansionare, come
+
+830
+00:57:03,680 --> 00:57:08,320
+sottoscritto che ha veramente pochissima carta, vi basta affidarsi a una qualsiasi
+
+831
+00:57:08,320 --> 00:57:13,680
+stampante multifunzione con scanner piano e avete risolto tutti i vostri problemi.
+
+832
+00:57:13,680 --> 00:57:16,960
+Basta lanciare con un semplice command
+
+833
+00:57:18,800 --> 00:57:24,080
+barra spazzatrice AC e si apre acquisizione immagini e voi potete scansionare
+
+834
+00:57:24,080 --> 00:57:26,080
+automaticamente tutto quello che avete.
+
+835
+00:57:26,080 --> 00:57:32,080
+Io a me viene molto comodo perché uso delle stampanti multifunzioni wifi,
+
+836
+00:57:32,080 --> 00:57:35,520
+quindi io da qualsiasi posto in cui sono posso anche chiedere a
+
+837
+00:57:35,520 --> 00:57:38,480
+mia figlia bianca quando non dorme, quando non si riposa ed è
+
+838
+00:57:39,360 --> 00:57:42,800
+un po' più sui generis di mettere un foglio lì e io
+
+839
+00:57:42,800 --> 00:57:46,400
+lo posso scansionare per dire quando ero sdraiato a letto ed avevo
+
+840
+00:57:46,400 --> 00:57:47,200
+un mal di schiena.
+
+841
+00:57:47,200 --> 00:57:51,440
+È una cosa molto semplice e facile e tutto integrato in MecORS,
+
+842
+00:57:51,440 --> 00:57:53,920
+ma ne parleremo in un'altra puntata.
+
+843
+00:57:53,920 --> 00:57:59,680
+In ogni caso bisogna scegliere uno scanner che acquisisca velocemente una mole
+
+844
+00:57:59,960 --> 00:58:02,680
+sufficiente di documenti ovviamente per la vostra quantità.
+
+845
+00:57:59,920 --> 00:58:04,200
+Per me basta uno scanner a 4.
+
+846
+00:58:04,360 --> 00:58:09,480
+Per Filippo ci vuole qualcosa che scansioni molto più cose e soprattutto
+
+847
+00:58:09,480 --> 00:58:11,400
+molto più velocemente.
+
+848
+00:58:11,720 --> 00:58:15,960
+È importante che oltre alla scansione facciano anche l'OCR come vi dicevamo
+
+849
+00:58:15,960 --> 00:58:19,080
+prima, perché se scansionate e tirate su anche il testo, non ve
+
+850
+00:58:19,080 --> 00:58:22,120
+lo dovete scrivere voi o farlo scrivere da qualcun altro.
+
+851
+00:58:22,120 --> 00:58:25,720
+Io direi che ad occhio e croce siamo arrivati alla fine della
+
+852
+00:58:25,720 --> 00:58:29,320
+puntata e un'ora che siamo qua che ce la raccontiamo di Papless,
+
+853
+00:58:29,320 --> 00:58:30,200
+lasceremo la parte
+
+854
+00:58:31,640 --> 00:58:31,800
+.
+
+855
+00:58:32,440 --> 00:58:37,400
+Parleremo di questo del digitale, penso nella seconda parte della puntata perché
+
+856
+00:58:37,400 --> 00:58:41,800
+vedo qua un po' di occhietti che tendono a chiudersi, a vederlo
+
+857
+00:58:41,800 --> 00:58:46,520
+da qua e chiederei clemenza per tutti i nostri ascoltatori, ma abbiamo
+
+858
+00:58:46,840 --> 00:58:50,360
+anche i nostri doveri di padre direi che ne dici Filippo?
+
+859
+00:58:50,360 --> 00:58:54,680
+A questo punto direi sì, così chiudiamo la puntata, diciamo, è vero?
+
+860
+00:58:54,680 --> 00:58:57,880
+Andrea vuoi salutare tutto il pubblico?
+
+861
+00:58:58,680 --> 00:59:02,200
+Sì, con una cosa molto speciale.
+
+862
+00:59:03,000 --> 00:59:05,880
+Ci rivediamo alla seconda puntata.
+
+863
+00:59:05,880 --> 00:59:11,160
+Che se non sa, se non male, si sarà la prossima settimana
+
+864
+00:59:11,160 --> 00:59:14,760
+il lunedì, ma non possiamo sapere se qualcuno è impegnato.
+
+865
+00:59:15,480 --> 00:59:18,280
+I riferimenti sono puramente casuali.
+
+866
+00:59:18,440 --> 00:59:21,160
+Siamo gente impegnata noi,
+
+867
+00:59:22,840 --> 00:59:27,000
+se fermiamo con questo video la prossima parte.
+
+868
+00:59:27,000 --> 00:59:28,680
+Che cosa faremo?
+
+869
+00:59:28,680 --> 00:59:32,280
+L'abbiamo già detto la prossima parte, adesso dobbiamo solo fare i saluti.
+
+870
+00:59:33,320 --> 00:59:34,800
+Certo, certo, vai veramente.
+
+871
+00:59:34,800 --> 00:59:42,040
+Quindi dove trovate le nostre note dell'episodio con i link agli argomenti
+
+872
+00:59:42,280 --> 00:59:47,360
+che abbiamo trattato in questa puntata è tutti e noi
+
+873
+00:59:49,600 --> 00:59:53,760
+i nostri infelicimenti su a due.
+
+874
+00:59:55,280 --> 01:00:02,960
+it balla 11 è il numero dell'episodio di oggi dove ci potete trovare
+
+875
+01:00:03,200 --> 01:00:03,760
+Roberto.
+
+876
+01:00:03,760 --> 01:00:08,400
+Lo potete trovare sul suo podcast Mac Architettura oppure sul suo blog
+
+877
+01:00:08,560 --> 01:00:15,760
+marcodonet.wordpress.com dove ci raccontiamo Mac Architettura e l'altro che sono anch'io Cotto
+
+878
+01:00:16,000 --> 01:00:17,440
+Snap e Architettura Imperfetta.
+
+879
+01:00:17,440 --> 01:00:21,280
+Sempre di architettura è, sempre podcast, sapete dove trovarmi, non c'è bisogno
+
+880
+01:00:21,280 --> 01:00:24,000
+che ve lo dica, tanto sapete che è quello bravo e l'altro.
+
+881
+01:00:24,000 --> 01:00:28,160
+E di conseguenza possiamo passare a Filippo che invece lo troviamo su
+
+882
+01:00:28,160 --> 01:00:33,120
+Avvocati e Mac.it, su A2 Podcast su Compendium.
+
+883
+01:00:33,120 --> 01:00:38,080
+E poi prossimamente mi raccomando, siateci martedì se arrivate in tempo per
+
+884
+01:00:38,080 --> 01:00:44,640
+il Keynote Apple, dove troverete il sottoscritto Filippo Alex Raccuglia e Forza
+
+885
+01:00:44,640 --> 01:00:51,040
+Andrea Davide Gatti, insomma, ma magari c'è anche lui un'allegra brigata che
+
+886
+01:00:51,040 --> 01:00:56,640
+inizierà a commentare in diretta il chi note.
+
+887
+01:00:56,800 --> 01:00:58,640
+Non sappiamo cosa ci sarà.
+
+888
+01:00:58,640 --> 01:01:02,560
+Filippo vuoi darci qualche piccola anticipazione, cosa ci potrà essere secondo te?
+
+889
+01:01:02,880 --> 01:01:05,920
+Tristemente credo che ci saranno solo i nuovi.
+
+890
+01:01:06,080 --> 01:01:06,480
+Tutto
+
+891
+01:01:07,760 --> 01:01:09,600
+io speravo anche gli iMac.
+
+892
+01:01:10,720 --> 01:01:15,600
+Perché tristemente doppio, perché non li posso comprare e quindi comunque sono
+
+893
+01:01:15,600 --> 01:01:17,160
+triste, devo dire la verità.
+
+894
+01:01:17,240 --> 01:01:20,480
+Probabilmente non ne varrà la pena, nel senso che a parte la
+
+895
+01:01:20,480 --> 01:01:26,080
+Pencil nuova, che si vocifera una Apple Pencil 3 che effettivamente un
+
+896
+01:01:26,080 --> 01:01:27,880
+po' mi fa sgolosare.
+
+897
+01:01:27,880 --> 01:01:33,080
+E questo schermo LED che dovrebbe essere molto interessante.
+
+898
+01:01:33,240 --> 01:01:38,680
+Tuttavia, appunto delle grosse, grosse novità, diciamo che sicuramente l'iPad c'è perché
+
+899
+01:01:38,840 --> 01:01:45,960
+non è ancora uscito iOS così 14 ormai 14.5 deve essere, che
+
+900
+01:01:46,040 --> 01:01:49,880
+praticamente si è fatto aspettare per svariati mesi perché è in beta
+
+901
+01:01:49,880 --> 01:01:53,000
+da almeno due o tre mesi esatto.
+
+902
+01:01:53,000 --> 01:01:57,480
+Quindi sicuramente gli iPad ci sono perché non si capirebbe altrimenti tutto
+
+903
+01:01:57,480 --> 01:01:58,440
+il resto.
+
+904
+01:01:58,440 --> 01:02:00,200
+Molto probabilmente gli airtag
+
+905
+01:02:01,400 --> 01:02:10,200
+questo sistema geolocalizzazione di oggettini esatto per geolocalizzare chiavi piuttosto che bambini
+
+906
+01:02:11,640 --> 01:02:12,760
+l'avevo pensato anch'io.
+
+907
+01:02:12,760 --> 01:02:14,760
+Oppure case esatto?
+
+908
+01:02:14,760 --> 01:02:15,640
+E poi vedremo.
+
+909
+01:02:15,640 --> 01:02:19,400
+Io devo dirti la verità: a questo punto mi piacerebbe anche se
+
+910
+01:02:19,400 --> 01:02:23,800
+subito che uscissero anche gli i Mac nuovi perché sono molto curioso.
+
+911
+01:02:23,800 --> 01:02:30,120
+Tuttavremo se vedremo se anche perché appunto devo decidere cosa fare da
+
+912
+01:02:30,440 --> 01:02:34,040
+grande se acquistare un McMini M1 o
+
+913
+01:02:35,080 --> 01:02:38,200
+sappiamo tutti qual è la risposta, Filippo.
+
+914
+01:02:38,200 --> 01:02:43,080
+Non commento oltre in ogni caso, mettiamo anche sul piatto, oltre i
+
+915
+01:02:43,080 --> 01:02:48,040
+vari iPad Pro che attendiamo tutti per vedere l'avanzamento tecnologico di questo
+
+916
+01:02:48,040 --> 01:02:53,160
+iPad che è sicuramente interessantissimo per l'ambiente dei professionisti.
+
+917
+01:02:53,160 --> 01:02:59,320
+Aggiungerei sul tavolo forse un iPad economico, diverso, magari più economico o
+
+918
+01:02:59,320 --> 01:03:02,120
+comunque che va a sostituire l'attuale iPad base.
+
+919
+01:03:02,120 --> 01:03:05,560
+Chi lo sa, già quello iPad base dà delle grandi cose per
+
+920
+01:03:05,560 --> 01:03:07,080
+un prezzo molto piccolo.
+
+921
+01:03:07,080 --> 01:03:13,960
+Aggiungerei, però, sul piatto il possibile MacBook Pro 14 pollici, un possibile
+
+922
+01:03:13,960 --> 01:03:20,240
+16 oppure tirano la bordata e buttano fuori un nuovo chip M1
+
+923
+01:03:21,440 --> 01:03:22,480
+nuovo chip M1.
+
+924
+01:03:22,480 --> 01:03:25,920
+No lo chiamiamo M1, ma un nuovo chip Apple Silicon che potrebbe
+
+925
+01:03:25,920 --> 01:03:28,720
+essere l M1X oppure l'M2.
+
+926
+01:03:28,720 --> 01:03:32,000
+Chi lo sa, staremo a vedere magari arriva anche una scheda grafica,
+
+927
+01:03:32,000 --> 01:03:35,040
+c'è un bel po' di cose che ci si aspetta, ma soprattutto
+
+928
+01:03:35,040 --> 01:03:39,440
+ci siamo noi quattro che vi racconteremo i nostri punti di vista.
+
+929
+01:03:39,440 --> 01:03:42,160
+Direi che a questo punto per la puntata se non hai altro
+
+930
+01:03:42,160 --> 01:03:43,600
+da aggiungere Filippo è tutto.
+
+931
+01:03:43,600 --> 01:03:44,960
+Hai qualcosa da aggiungere?
+
+932
+01:03:45,280 --> 01:03:47,520
+Che ci sentiamo la settimana prossima.
+
+933
+01:03:47,520 --> 01:03:48,640
+Perfetto.
+
+934
+01:03:48,640 --> 01:03:49,600
+Andrea?
+
+935
+01:03:49,600 --> 01:03:51,440
+Vuoi salutare anche tu Andrea?
+
+936
+01:03:51,600 --> 01:03:53,840
+Sì, nel mio mano personale.
+
+937
+01:03:53,840 --> 01:03:59,920
+Ci rivediamo tutti nella seconda parte di questo episodio che dite là.
+
+938
+01:03:59,920 --> 01:04:05,520
+Non lo sappiamo se è il venerdì, la prossima settimana il venerdì,
+
+939
+01:04:05,520 --> 01:04:09,600
+però vi do un saluto grande, un abbraccio, un bacio.
+
+940
+01:04:10,240 --> 01:04:11,760
+E ciao ciao!

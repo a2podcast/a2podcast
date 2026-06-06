@@ -11,13 +11,13 @@ tags = ["ios", "apple", "sicurezza"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "At0BEW9c77A"
 +++
 
 > In questa puntata Roberto e Filippo aprono le danze con iOS, la sua storia, come funzionano i “gesti” del sistema touch di Apple e come è possibile passare da Android ad iOS. Poi esaminano le più importanti impostazioni di iOS per passare alle principali applicazioni pre-installate sull’iPhone. Con anche un piccolo sguardo alla sicurezza.
 
-# Note dell’episodio
+## Note dell’episodio
 
 In questa puntata Roberto e Filippo aprono le danze con iOS, la sua storia, come funzionano i “gesti” del sistema touch di Apple e come è possibile passare da Android ad iOS. Poi esaminano le più importanti impostazioni di iOS per passare alle principali applicazioni pre-installate sull’iPhone. Con anche un piccolo sguardo alla sicurezza.
 

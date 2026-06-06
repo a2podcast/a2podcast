@@ -11,7 +11,7 @@ tags = ["ipados", "ios", "apple", "ipad"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "N8_lkBbQJLA"
 +++
 

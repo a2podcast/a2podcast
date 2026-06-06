@@ -11,15 +11,15 @@ tags = ["scrittura", "app", "apple", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "MqsAQ7PUWdw"
 +++
 
 > In questa puntata Roberto e Filippo fanno un approfondimento sul programma di videoscrittura di Apple e su quello per i fogli di calcolo rispettivamente Pages e Numbers.
 
-# Note episodio
+## Note episodio
 
-# A2 ep.60 - iWorks - Pages e Numbers
+## A2 ep.60 - iWorks - Pages e Numbers
 
 Già parlato di Keynote in [ep. 17](https://a2podcast.it/17/). Roberto segnala uso interessante anche per i video in abbinata ad iMovie.
 

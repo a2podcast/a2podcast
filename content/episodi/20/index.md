@@ -11,7 +11,7 @@ tags = ["brainstorming", "workflow", "produttivita", "mac", "app"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "GDOYSAo3d88"
 +++
 

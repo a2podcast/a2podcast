@@ -11,7 +11,7 @@ tags = ["apple", "ospite", "bbedit", "produttivita", "autori"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "9E02cYz_j3A"
   guest = "lucio-bragagnolo"
 +++

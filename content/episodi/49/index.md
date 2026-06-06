@@ -11,7 +11,7 @@ tags = ["ipad", "apple", "hardware", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "pdqM2DWAcNs"
   guest = "daniele-borghi"
 +++

@@ -11,7 +11,7 @@ tags = ["fotografia", "minimale", "workflow", "apple"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "FkuX6c6x-Ao"
   guest = "lorenzo-morandi"
 +++

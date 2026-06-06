@@ -11,7 +11,7 @@ tags = ["calendario", "produttivita", "app", "time-management", "apple"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "b55jQMLzSw0"
 +++
 

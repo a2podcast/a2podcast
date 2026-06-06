@@ -11,13 +11,13 @@ tags = ["shortcuts", "apple", "ios", "macos", "accessibilita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "TNTlip_nYEw"
 +++
 
 > In questa puntata Roberto e Filippo faranno un approfondimento sullo stato della dettatura vocale con i dispositivi Apple e le novità di iOS e iPadOS 16 e macOS Ventura.
 
-# Note episodio
+## Note episodio
 
 In questa puntata Roberto e Filippo faranno un approfondimento sullo stato della dettatura vocale con i dispositivi Apple e le novità di iOS e iPadOS 16 e macOS Ventura.
 

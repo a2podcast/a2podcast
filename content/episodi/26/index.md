@@ -11,7 +11,7 @@ tags = ["shortcuts", "calendario", "automazione", "produttivita"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "FvskHBRqOg0"
 +++
 

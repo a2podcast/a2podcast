@@ -1,0 +1,5303 @@
+1
+00:00:00,000 --> 00:00:04,640
+Benvenuti all'episodio 38 di A2, in cui scoprire come ottenere il massimo
+
+2
+00:00:04,640 --> 00:00:06,080
+dalla vostra tecnologia Apple.
+
+3
+00:00:06,080 --> 00:00:09,600
+Io sono Filippo Strozzi e sono il vostro ospite, assieme all'amico Roberto
+
+4
+00:00:09,600 --> 00:00:10,400
+Marin.
+
+5
+00:00:10,400 --> 00:00:12,480
+Di cosa parliamo in questo episodio, Roberto?
+
+6
+00:00:12,480 --> 00:00:16,240
+Allora, dunque, francamente, non mi ricordo assolutamente di cosa potremmo parlare perché
+
+7
+00:00:16,240 --> 00:00:17,920
+siamo senza scaletta questa volta.
+
+8
+00:00:17,920 --> 00:00:21,760
+Perché Filippo, a stare con lo zoppo, ha imparato a zoppicare.
+
+9
+00:00:21,760 --> 00:00:24,400
+Chissà, magari io imparo a non zoppicare più.
+
+10
+00:00:24,400 --> 00:00:29,520
+Quindi, purtroppo abbiamo avuto delle giornate un po' frenetiche, un po' incasinate.
+
+11
+00:00:29,520 --> 00:00:34,880
+Ma ciò non toglie che abbiamo un'eminenza del mondo qui con noi.
+
+12
+00:00:34,880 --> 00:00:38,800
+Siamo tutti onorati di stare qui al microfono e con le cuffie
+
+13
+00:00:38,880 --> 00:00:43,440
+ben tese, con le orecchie dentro che friggono per ascoltare il nostro
+
+14
+00:00:43,440 --> 00:00:46,240
+amico comune, Lucio Bragagnolo.
+
+15
+00:00:46,240 --> 00:00:47,360
+Benvenuto tra di noi.
+
+16
+00:00:47,360 --> 00:00:49,120
+È un onore, un piacere.
+
+17
+00:00:49,120 --> 00:00:53,680
+Speriamo che non sia un onere a parte gli scherzi, sono molto
+
+18
+00:00:53,840 --> 00:00:59,840
+contento di condividere questa platea e questi minuti con voi perché mi
+
+19
+00:00:59,840 --> 00:01:03,120
+sto divertendo tantissimo e non abbiamo ancora neanche cominciato.
+
+20
+00:01:03,120 --> 00:01:05,600
+Grazie, Lucio, veramente bellissime parole.
+
+21
+00:01:05,920 --> 00:01:09,600
+Io non nascondo, si sente anche dalla voce, sono molto emozionato perché,
+
+22
+00:01:09,600 --> 00:01:14,480
+insomma, io sono relativamente giovane nel mondo Mac, tu hai fatto la
+
+23
+00:01:14,480 --> 00:01:19,120
+storia assieme ad altri, ma tu sei una delle colonne portanti, almeno
+
+24
+00:01:19,120 --> 00:01:23,280
+qui in Italia, per quanto riguarda il mondo Apple, bisogna riconoscerlo, perché
+
+25
+00:01:23,360 --> 00:01:29,040
+se non lo si riconosce, saremo veramente degli acchi, diciamola così.
+
+26
+00:01:29,040 --> 00:01:35,120
+Oltre a questo, volevo, appunto, come dicevamo nella prepuntata, ringraziare le persone
+
+27
+00:01:35,200 --> 00:01:40,000
+che sono qua con noi in chat, e particolarmente oltre le persone
+
+28
+00:01:40,000 --> 00:01:42,240
+che conosciamo, insomma, sono molte.
+
+29
+00:01:42,240 --> 00:01:46,160
+Una persona, secondo me, che bisogna ringraziare, perché ci ha messo in
+
+30
+00:01:46,160 --> 00:01:49,520
+collegamento alla fine lui quello che ha tirato le fila e Nicola
+
+31
+00:01:49,600 --> 00:01:52,720
+Lo Sito, che è stato anche lui host di questo podcast, a
+
+32
+00:01:52,720 --> 00:01:57,040
+raccontarci e non ha ancora finito di raccontarci quindi molto probabilmente tornerà.
+
+33
+00:01:57,040 --> 00:01:59,040
+Volevo ringraziarlo personalmente.
+
+34
+00:01:59,200 --> 00:02:03,560
+In ogni caso è riuscito a mettere sotto lo stesso ombrello un
+
+35
+00:02:03,560 --> 00:02:05,720
+bel po' di persone interessanti.
+
+36
+00:02:05,960 --> 00:02:11,080
+Io sono stato davvero orgoglioso di poter entrare in contatto con queste
+
+37
+00:02:11,080 --> 00:02:17,800
+persone e sono assolutamente contento di poter portare alle vostre orecchie l'esperienza
+
+38
+00:02:17,800 --> 00:02:18,520
+di Lucio.
+
+39
+00:02:18,520 --> 00:02:20,920
+Perché Lucio ha fatto molte cose.
+
+40
+00:02:21,160 --> 00:02:25,640
+Come gli stavo pregando in prepuntata, se riesce a condensare una vita,
+
+41
+00:02:25,640 --> 00:02:29,560
+che probabilmente avrebbe bisogno di tre o quattro podcast per essere raccontata.
+
+42
+00:02:29,560 --> 00:02:33,400
+Tutta, con tutte le dovizie di particolari e di tutte le cose
+
+43
+00:02:33,400 --> 00:02:36,600
+che ha fatto, ho detto: Senti, io non riesco perché se no
+
+44
+00:02:36,920 --> 00:02:38,120
+incomincio a perdermi.
+
+45
+00:02:38,120 --> 00:02:39,160
+Devi farlo tu.
+
+46
+00:02:39,160 --> 00:02:41,560
+Mi spiace, devo lasciarti la palla.
+
+47
+00:02:41,560 --> 00:02:42,120
+Va bene.
+
+48
+00:02:42,120 --> 00:02:47,960
+La sostanza è che ho cominciato a occuparmi di tecnologia in ambito
+
+49
+00:02:47,960 --> 00:02:54,840
+editoriale, esattamente nel momento in cui arrivavano i personal computer e segnalmente
+
+50
+00:02:55,720 --> 00:03:00,280
+prima i micro, come lo Spectrum, il Commodore 64, e via dicendo,
+
+51
+00:03:00,280 --> 00:03:04,280
+e poi la poli e poi il Mac, quindi, in sostanza, ho
+
+52
+00:03:04,280 --> 00:03:08,840
+avuto la grande capacità, cioè il grande culo di vivere una carriera
+
+53
+00:03:08,840 --> 00:03:13,880
+professionale esattamente mentre si evolveva la tecnologia
+
+54
+00:03:15,160 --> 00:03:16,840
+del personal computing.
+
+55
+00:03:17,000 --> 00:03:23,000
+Sono diventato un iscritto all'ordine dei giornalisti, poi sono diventato anche senza
+
+56
+00:03:23,000 --> 00:03:26,200
+iscrizioni, un consulente per le aziende.
+
+57
+00:03:26,200 --> 00:03:31,000
+Oggi al 50% faccio il content specialist, diciamo così.
+
+58
+00:03:31,000 --> 00:03:36,920
+Al 30% faccio gestione a livello di comunicazione aziendale.
+
+59
+00:03:36,920 --> 00:03:43,480
+Al 10% mi occupo, questa è una diversificazione recente, di accompagnare le
+
+60
+00:03:43,480 --> 00:03:48,240
+aziende nella trasformazione digitale.
+
+61
+00:03:48,240 --> 00:03:53,520
+Tutto questo una volta lo si faceva con Apple II, con Mac,
+
+62
+00:03:53,680 --> 00:03:56,320
+da un po' da pionieri, un po' da giornalisti, un po' da
+
+63
+00:03:56,320 --> 00:04:01,760
+scopritori dell'ignoto, un po' da esploratori dell'inedito.
+
+64
+00:04:01,760 --> 00:04:09,200
+Poi lo si è fatto da rinnegati, da guerriglieri, da videpesi, da
+
+65
+00:04:09,680 --> 00:04:10,960
+esseri inferiori.
+
+66
+00:04:11,200 --> 00:04:17,440
+E oggi posso dire che sempre di più si può fare con
+
+67
+00:04:17,440 --> 00:04:22,560
+il Mac, anzi con il Mac, con Apple, perché oramai di piattaforme
+
+68
+00:04:22,560 --> 00:04:26,560
+ce n'è più di una, con Apple che è cittadina del mondo.
+
+69
+00:04:26,560 --> 00:04:33,040
+Nell'azienda ormai entra di tutto commentavo di recente con qualcuno che Volvo
+
+70
+00:04:33,360 --> 00:04:39,520
+ha messo ai polsi di 1500 meccanici Apple Watch a livello aziendale.
+
+71
+00:04:39,520 --> 00:04:46,320
+Insomma, parlare di Mac è sempre la base, però, c'è tutto un
+
+72
+00:04:46,320 --> 00:04:50,320
+ecosistema intorno che Mac ha fatto nascere.
+
+73
+00:04:50,320 --> 00:04:53,360
+Come al solito mi sono allargato, voi non mi fermate e sono
+
+74
+00:04:53,360 --> 00:04:56,960
+fatti i vostri giusto, ma hai toccato già molti punti interessanti.
+
+75
+00:04:56,960 --> 00:05:02,880
+Mi riallaccio subito perché proprio recentemente stavamo parlando appunto di MEC e
+
+76
+00:05:02,880 --> 00:05:09,120
+dell'allargamento del loro bacino di utenza, perché è stato proprio questo mese
+
+77
+00:05:09,120 --> 00:05:15,360
+uscito il mensile IC Magazine che è dedicato essenzialmente alla tecnologia e
+
+78
+00:05:15,360 --> 00:05:21,040
+all'informatizzazione per il mondo dell'edilizia, che ha dedicato un intero numero a
+
+79
+00:05:21,040 --> 00:05:25,760
+praticamente quello che si può fare con l'iPad, che sta diventando veramente
+
+80
+00:05:25,760 --> 00:05:31,160
+uno strumento multifunzionale nel mondo delle costruzioni e Filippo so che gioisce
+
+81
+00:05:29,120 --> 00:05:35,400
+per questo perché io c'è questo piccolo trascorso tra me e Filippo.
+
+82
+00:05:36,360 --> 00:05:40,600
+Io sono quello che fino a circa due anni fa era un
+
+83
+00:05:40,600 --> 00:05:45,480
+po' un detrattore dell'iPad, nel senso che non lo vedevo un sostituto
+
+84
+00:05:45,480 --> 00:05:46,120
+del computer.
+
+85
+00:05:46,120 --> 00:05:51,480
+Perché personalmente non potevo farci poche cose dal punto di vista progettuale.
+
+86
+00:05:51,480 --> 00:05:57,080
+Con l'evolvere del sistema operativo, di come è equipaggiato anche l'interno l'hardware
+
+87
+00:05:57,080 --> 00:06:02,360
+e quello che si può fare, da semplice compagno della progettazione è
+
+88
+00:06:02,360 --> 00:06:08,920
+diventato veramente un'arma molto tagliente perché è riuscito a prendere delle qualità
+
+89
+00:06:08,920 --> 00:06:11,240
+che tuttora il Mac non ha.
+
+90
+00:06:11,720 --> 00:06:16,520
+Questo è sicuramente una cosa molto interessante e soprattutto è molto interessante
+
+91
+00:06:16,680 --> 00:06:21,560
+il fatto che Lucio si occupi anche di portare questa possibilità all'interno
+
+92
+00:06:21,560 --> 00:06:24,520
+delle aziende, ma questo ci racconterà più avanti.
+
+93
+00:06:24,520 --> 00:06:30,440
+Peresso, ovviamente, tutti siamo qua che vogliamo sapere almeno la tua configurazione
+
+94
+00:06:30,440 --> 00:06:31,560
+hardware attuale.
+
+95
+00:06:31,560 --> 00:06:35,320
+Raccontaci un po' cosa stai facendo adesso con il tuo hardware.
+
+96
+00:06:35,320 --> 00:06:40,440
+Dunque, uso metà del tempo macchina che ho per stare su Mac
+
+97
+00:06:40,440 --> 00:06:46,440
+Mini, un Mac Mini M1 16 giga Unter, M1 base perché ho
+
+98
+00:06:46,440 --> 00:06:51,400
+dovuto comprarlo per rimpiazzare un Mini Intel che non ce la faceva
+
+99
+00:06:51,400 --> 00:06:52,200
+veramente più.
+
+100
+00:06:52,200 --> 00:06:57,560
+E poi il mio portatile è diventato da tempo iPad, lo è
+
+101
+00:06:57,560 --> 00:07:03,240
+diventato dai tempi di iPad terza generazione, poi a un certo punto
+
+102
+00:07:03,240 --> 00:07:06,760
+dovevo fare un viaggio di lavoro in Cina.
+
+103
+00:07:06,760 --> 00:07:13,000
+Evidentemente l'iPad di terza generazione non sarebbe bastato, e in tutta fredda
+
+104
+00:07:13,000 --> 00:07:14,480
+ho preso un iPad Pro.
+
+105
+00:07:14,360 --> 00:07:21,520
+L'iPad Pro usa l'altro 50% del tempo macchina, poi c'è un iPhone
+
+106
+00:07:21,760 --> 00:07:24,560
+X e io ho sempre avuto degli iPhone decrepiti.
+
+107
+00:07:24,560 --> 00:07:29,360
+L'iPhone X me l'hanno regalato perché altrimenti starei usando un iPhone 5.
+
+108
+00:07:29,440 --> 00:07:35,680
+Come punto tutto sull'iPad, l'iPhone mi serve per fare da hotspot, ricevere
+
+109
+00:07:35,680 --> 00:07:40,000
+telefonate e avere la connessione quando serve.
+
+110
+00:07:40,000 --> 00:07:44,000
+Quelle volte che proprio c'è da sistemare una parola, c'è da cambiare
+
+111
+00:07:44,000 --> 00:07:48,000
+una cosa, lo fai dall'iPhone, ma è l'uno per mille del lavoro
+
+112
+00:07:48,000 --> 00:07:48,800
+quotidiano.
+
+113
+00:07:48,800 --> 00:07:55,120
+Infine ho un'Apple Watch Serie 7 che ha sostituito una prima generazione
+
+114
+00:07:55,280 --> 00:07:59,360
+che l'anno scorso si è aperta in due, da solo spontaneamente, però
+
+115
+00:07:59,360 --> 00:08:04,800
+comunque dopo qualche anno, e che trovo molto prezioso nel mio setup
+
+116
+00:08:04,800 --> 00:08:08,240
+perché è la macchina perfetta di filtraggio delle notifiche.
+
+117
+00:08:08,400 --> 00:08:13,360
+Io amo dire che l'Apple Watch è intanto il device che ti
+
+118
+00:08:13,360 --> 00:08:16,320
+permette di tenere il telefono in tasca, e questo è un grande
+
+119
+00:08:16,320 --> 00:08:16,960
+dono.
+
+120
+00:08:16,960 --> 00:08:20,160
+E poi è quello che ti rende gestibili le notifiche.
+
+121
+00:08:20,160 --> 00:08:24,720
+Il filtraggio di Apple Watch è fantastico e fa risparmiare una quantità
+
+122
+00:08:24,720 --> 00:08:26,560
+di tempo siderale.
+
+123
+00:08:26,560 --> 00:08:30,160
+Poi ho fatto un comando rapido che fa caso le domande alla
+
+124
+00:08:30,160 --> 00:08:34,720
+figlia sulle tabelline, con Apple Watch glielo metto davanti alla faccia quanto
+
+125
+00:08:34,960 --> 00:08:38,720
+fa 4x4, si ricparla, si fanno anche queste cose.
+
+126
+00:08:38,720 --> 00:08:42,560
+Interrogazione da parte dell'Apple Watch, questa è la prima volta che lo
+
+127
+00:08:42,720 --> 00:08:45,440
+sento, massimo rispetto, grande Lucio!
+
+128
+00:08:45,440 --> 00:08:47,040
+Veramente ottimo lavoro.
+
+129
+00:08:47,040 --> 00:08:52,880
+Però in ogni caso confermo perché, nonostante tutto, nel senso che l'iPhone
+
+130
+00:08:52,880 --> 00:08:57,520
+è diventato essenzialmente quello che tira avanti la baracca d'Apple, perché insomma
+
+131
+00:08:57,520 --> 00:09:03,080
+è una grande percentuale del suo fatturato, nonostante questo, Apple è uscita
+
+132
+00:09:03,080 --> 00:09:07,000
+a mettere in campo degli strumenti che, come ha detto Lucio, in
+
+133
+00:09:07,000 --> 00:09:09,240
+teoria te lo puoi anche dimenticare, l'iPhone.
+
+134
+00:09:09,240 --> 00:09:13,240
+Insomma, se hai un iPad e un Apple Watch, essenzialmente l'iPhone ti
+
+135
+00:09:13,240 --> 00:09:15,640
+serve proprio per quelle due cose che ti servono.
+
+136
+00:09:15,640 --> 00:09:19,080
+Puoi usare anche una versione abbastanza vecchia, chiamiamola così.
+
+137
+00:09:19,080 --> 00:09:23,320
+Io non ho un hardware tanto aggiornato quanto tu, ho un XS
+
+138
+00:09:23,480 --> 00:09:27,080
+quindi non è che sono tanto avanti, sono appena la generazione dopo.
+
+139
+00:09:27,080 --> 00:09:30,280
+Però mi rendo conto che con una situazione del genere con un
+
+140
+00:09:30,280 --> 00:09:34,840
+iPad recente, un Apple Watch al polso, essenzialmente delle volte non telefono
+
+141
+00:09:34,840 --> 00:09:41,160
+nemmeno col cellulare perché puoi telefonare dal Mac o dall'iPad tranquillamente senza
+
+142
+00:09:41,160 --> 00:09:42,040
+grossi problemi.
+
+143
+00:09:42,040 --> 00:09:43,400
+Ed è davvero interessante.
+
+144
+00:09:43,400 --> 00:09:46,920
+Ma adesso invece facciamo un passo indietro perché ti devo chiedere dell'iPad
+
+145
+00:09:46,920 --> 00:09:51,240
+Pro, che tipo di connessioni utilizzi, che tipo di strumenti utilizzi con
+
+146
+00:09:51,240 --> 00:09:51,960
+l'iPad Pro?
+
+147
+00:09:51,960 --> 00:09:57,240
+Perché, essendo il tuo diciamo computer principale, eravamo molto incuriositi di sapere
+
+148
+00:09:57,240 --> 00:09:58,120
+come lo utilizza.
+
+149
+00:09:58,200 --> 00:10:03,560
+Dunque, io cerco di usare un po' per deformazione il più possibile.
+
+150
+00:10:03,560 --> 00:10:08,360
+Gli strumenti standard di Apple, ma mentre questo sul Mac funziona molto
+
+151
+00:10:08,360 --> 00:10:14,920
+bene, invece sui iPad è sempre comunque questione di individuare il flusso
+
+152
+00:10:14,920 --> 00:10:17,640
+giusto per un lavoro.
+
+153
+00:10:17,640 --> 00:10:22,520
+Mentre il Mac come una dispensa e tu prendi gli ingredienti per
+
+154
+00:10:22,520 --> 00:10:24,920
+fare la tua ricetta, ne prendi uno qui, uno qui, uno qui,
+
+155
+00:10:24,920 --> 00:10:26,120
+uno qui, uno qui e uno qui.
+
+156
+00:10:26,120 --> 00:10:31,000
+L'iPad è un nastro trasportatore che si muove come una catena di
+
+157
+00:10:31,000 --> 00:10:36,680
+montaggio di pasticceria, e tu devi trovare le app giuste, i passaggi
+
+158
+00:10:36,680 --> 00:10:41,160
+giusti per definire il tuo flusso di lavoro in modo che scorra
+
+159
+00:10:41,240 --> 00:10:45,760
+fluido e ti porti all'obiettivo con la produttività che vuoi avere, che
+
+160
+00:10:45,760 --> 00:10:50,240
+non deve essere chiaramente inferiore a quella di Mac, e anzi, magari
+
+161
+00:10:50,720 --> 00:10:53,680
+per certe volte per certi versi è superiore.
+
+162
+00:10:53,680 --> 00:10:59,200
+Il mio grande cruccio è che iPad non ha BB Edit per
+
+163
+00:10:59,200 --> 00:10:59,600
+iPad.
+
+164
+00:10:59,600 --> 00:11:04,320
+Se avesse BB Edit per iPad, penso che vivrei nel nirvana, sarei
+
+165
+00:11:04,320 --> 00:11:07,440
+un santone a 10 cm da terra.
+
+166
+00:11:07,440 --> 00:11:13,760
+Invece, non avendo BB Edit su iPad mi capita di usare quell'editor
+
+167
+00:11:13,760 --> 00:11:17,280
+che di volta in volta di più si avvicina al bisogno che
+
+168
+00:11:17,280 --> 00:11:18,640
+ho in quel momento lì.
+
+169
+00:11:18,640 --> 00:11:25,760
+Tendenzialmente uso Runstone che è uscito da poco ed è perfettamente usabile
+
+170
+00:11:25,760 --> 00:11:31,760
+in versione gratuita e vale la pena di comprarlo per avere delle
+
+171
+00:11:31,760 --> 00:11:37,520
+opzioni che, però, sono del tutto superfluo se uno vuole scrivere basta.
+
+172
+00:11:37,520 --> 00:11:43,120
+Insomma, Rounstone è molto carino e poi Editorial, per quanto non più
+
+173
+00:11:43,280 --> 00:11:53,840
+sviluppato, è molto capace di tenermi agganciato a velocità infinita con i
+
+174
+00:11:54,000 --> 00:11:55,120
+miei Dropbox.
+
+175
+00:11:55,120 --> 00:11:59,200
+Editorial fa solo compatibilità Dropbox, ma la fa istantanea.
+
+176
+00:11:59,200 --> 00:12:01,920
+Ci sono tutta una serie di cose che io faccio che si
+
+177
+00:12:01,920 --> 00:12:04,880
+basano su file di testo che stanno su Dropbox.
+
+178
+00:12:04,880 --> 00:12:09,920
+Da editorial le raggiungo in un secondo.
+
+179
+00:12:09,920 --> 00:12:15,840
+Poi ho Goodreader, su iPad serve un lettore di PDF, ho comprato
+
+180
+00:12:15,840 --> 00:12:21,360
+Goodreader ai primi tempi proprio dell'iPhone, un acquisto di cui non mi
+
+181
+00:12:21,360 --> 00:12:24,720
+sono mai pentito e non ho mai cambiato.
+
+182
+00:12:24,720 --> 00:12:29,520
+E poi tendo a usare le versioni iPadOS delle app che
+
+183
+00:12:29,520 --> 00:12:30,000
+ci sono.
+
+184
+00:12:30,360 --> 00:12:36,680
+Uso Net News Wire per il feed, poi ecco su Mac uso
+
+185
+00:12:36,680 --> 00:12:43,720
+Pixel Metro Pro per cose di piccola grafica che mi toccano, mi
+
+186
+00:12:43,720 --> 00:12:49,000
+è molto comodo, la versione che c'è per iPad, su cui a
+
+187
+00:12:49,000 --> 00:12:52,680
+volte faccio esattamente le stesse cose e le faccio di là.
+
+188
+00:12:52,680 --> 00:13:00,680
+Siccome ho più clienti con diverse esigenze e vado da funzioni specialmente
+
+189
+00:13:01,000 --> 00:13:07,240
+di produzione a funzioni totalmente di consulenza, i miei bisogni variano in
+
+190
+00:13:07,240 --> 00:13:09,320
+continuazione a seconda del cliente.
+
+191
+00:13:09,320 --> 00:13:13,320
+Quindi non posso trovare un setup fisso che va sempre bene per
+
+192
+00:13:13,320 --> 00:13:16,520
+tutto quello che devo fare, ma a volte ho la fortuna di
+
+193
+00:13:16,520 --> 00:13:20,040
+poterlo dettare io, il setup e il cliente si conforma.
+
+194
+00:13:20,040 --> 00:13:26,120
+A volte devo cercare di avvicinarmi al setup del cliente.
+
+195
+00:13:26,360 --> 00:13:33,240
+Uno dei miei pilastri nell'organizzare il lavoro è che, in teoria, almeno
+
+196
+00:13:33,400 --> 00:13:38,520
+io posso lavorare su quello che mi serve sul Mac, sull'iPad, sull'iPhone
+
+197
+00:13:38,760 --> 00:13:45,720
+dove ci fosse bisogno, dovunque mi trovi, alla scrivania o in aereo.
+
+198
+00:13:45,720 --> 00:13:51,320
+Questo detta la maggior parte delle mie scelte di software e di
+
+199
+00:13:51,320 --> 00:13:52,280
+applicazioni.
+
+200
+00:13:52,280 --> 00:13:57,640
+Cerco di usare il più possibile piattaforme di messaggistica collaborativa perché sono
+
+201
+00:13:57,640 --> 00:14:03,560
+quelle che ti fanno uscire dall'unpass della posta elettronica, che è una
+
+202
+00:14:03,560 --> 00:14:09,240
+piaga oramai che bagno di sangue esatto, affligge da troppo tempo questa
+
+203
+00:14:09,240 --> 00:14:11,000
+nostra società imperfetta.
+
+204
+00:14:11,000 --> 00:14:14,120
+Quindi, prima di tutto, slack per quanto possibile.
+
+205
+00:14:14,120 --> 00:14:17,840
+Se potessi, se comandassi il mondo, direi che si va tutti su
+
+206
+00:14:17,840 --> 00:14:25,040
+internet richat, RC e si torna tutti all'antico Slack.
+
+207
+00:14:25,040 --> 00:14:30,400
+E poi Miro per la collaborazione interattiva spinta.
+
+208
+00:14:30,400 --> 00:14:37,280
+Miro uno strumento di una creatività pazzesca che prescinde da qualsiasi vincolo
+
+209
+00:14:37,280 --> 00:14:46,080
+di piattaforma, banda, disponibilità, per fare brainstorming, progettare, pasticciare insieme, mostrare idee,
+
+210
+00:14:46,080 --> 00:14:47,120
+eccetera, eccetera.
+
+211
+00:14:47,120 --> 00:14:50,640
+Lo trovo stupendo, ovviamente, degustibus.
+
+212
+00:14:50,640 --> 00:14:51,120
+Non so se
+
+213
+00:14:52,160 --> 00:14:53,280
+non l'ho mai visto.
+
+214
+00:14:53,280 --> 00:14:57,040
+Sì, sì, hai risposto benissimo, anzi, molto completa come risposta.
+
+215
+00:14:57,040 --> 00:14:59,120
+Molti software non li conoscevo.
+
+216
+00:14:59,120 --> 00:15:03,680
+Uno tra tutti, per esempio, che andrò a cercarmi come funziona e
+
+217
+00:15:03,680 --> 00:15:04,800
+come va il Miro.
+
+218
+00:15:04,800 --> 00:15:06,640
+Adesso non so, Filippo, tu lo conoscevi?
+
+219
+00:15:06,640 --> 00:15:08,800
+No, infatti, volevo un approfondimento.
+
+220
+00:15:08,800 --> 00:15:09,680
+Sarà possibile?
+
+221
+00:15:10,560 --> 00:15:16,320
+Guarda, Miro.com è uno di quei servizi no code di cui si
+
+222
+00:15:16,320 --> 00:15:18,320
+parla tanto in questi anni.
+
+223
+00:15:18,320 --> 00:15:22,480
+Lo usi con il browser oppure con l'app, sia su Mac che
+
+224
+00:15:22,880 --> 00:15:23,920
+sui device.
+
+225
+00:15:23,920 --> 00:15:28,800
+E in sostanza è una lavagna interattiva di dimensioni di fatto illimitate
+
+226
+00:15:29,280 --> 00:15:33,600
+dove puoi disegnare, puoi fare testo, puoi mettere giù un file Excel,
+
+227
+00:15:33,600 --> 00:15:38,160
+puoi proiettare un filmato, fare andare una presentazione invece che creare un
+
+228
+00:15:38,160 --> 00:15:39,520
+diagramma di flusso.
+
+229
+00:15:39,520 --> 00:15:42,240
+Qualsiasi cosa ti possa passare per la testa.
+
+230
+00:15:42,240 --> 00:15:44,640
+E questo tutti insieme.
+
+231
+00:15:44,640 --> 00:15:50,560
+Ovviamente c'è un tasto dolente che è rappresentato dal pricing, miro è
+
+232
+00:15:50,560 --> 00:15:55,120
+gratuito fino a quando hai tre persone dentro nel gruppo.
+
+233
+00:15:55,120 --> 00:15:55,760
+Poi
+
+234
+00:15:57,040 --> 00:15:58,400
+bisogna pagarlo.
+
+235
+00:15:58,400 --> 00:16:04,120
+Tuttavia, negli ambienti aziendali dove hanno aperto un po' gli occhi, molte
+
+236
+00:15:59,840 --> 00:16:05,640
+fasi di brainstorming,
+
+237
+00:16:05,800 --> 00:16:11,560
+di prototipazione molto lassa, molto libera, di giochi insieme.
+
+238
+00:16:11,560 --> 00:16:16,280
+Adesso va molto il team building, nelle aziende facciamo delle cose insieme
+
+239
+00:16:16,280 --> 00:16:19,560
+per cementare lo spirito di gruppo, eccetera, eccetera.
+
+240
+00:16:19,640 --> 00:16:22,280
+Su Miro si possono mettere in piedi dei casini
+
+241
+00:16:23,480 --> 00:16:27,800
+assolutamente niente male ed è tutto multipiattaforma.
+
+242
+00:16:27,800 --> 00:16:32,120
+L'unico difetto che può avere Miro è che è ancora un po'
+
+243
+00:16:32,280 --> 00:16:37,080
+acerbo perché la versione in funzione è una 0.7.
+
+244
+00:16:37,320 --> 00:16:44,760
+Qualcosa, lo usi tranquillissimamente, però ancora non è proprio completamente al 100%
+
+245
+00:16:44,920 --> 00:16:48,920
+quello che deve essere, ma io trovo uno strumento straordinario.
+
+246
+00:16:48,920 --> 00:16:55,240
+Oltretutto, è molto leggero fino a che non provi a fare delle
+
+247
+00:16:55,240 --> 00:16:59,160
+videoconferenze pesanti, puoi fare anche videoconferenze dentro meno.
+
+248
+00:16:59,160 --> 00:17:04,520
+Stavo guardando appunto sul sito direttamente che praticamente si collega con qualsiasi
+
+249
+00:17:04,520 --> 00:17:08,440
+cosa: cioè, se c'è qualcosa che si respira, si collega e riesce
+
+250
+00:17:08,440 --> 00:17:13,480
+ad avere questa, diciamo, lavagna condivisa con cui puoi appunto lavorare assieme
+
+251
+00:17:13,480 --> 00:17:14,280
+agli altri.
+
+252
+00:17:14,280 --> 00:17:18,520
+Stavo guardando anche il pricing, praticamente non è tremendo.
+
+253
+00:17:18,760 --> 00:17:22,040
+No, infatti non sono tre persone, ma sono tre board.
+
+254
+00:17:23,240 --> 00:17:26,760
+Adesso che tu l'hai usato, forse sai che deve essere diverso, perché
+
+255
+00:17:27,000 --> 00:17:30,440
+diceva utenti limitati, ma con solo con tre board.
+
+256
+00:17:30,440 --> 00:17:31,720
+Spiegaci un po' meglio.
+
+257
+00:17:31,800 --> 00:17:33,560
+Hai ragione sulle tre board.
+
+258
+00:17:33,560 --> 00:17:35,400
+Le board sono le lavagne.
+
+259
+00:17:35,400 --> 00:17:37,640
+Chiaramente uno può accendere tante lavagne.
+
+260
+00:17:37,640 --> 00:17:39,800
+Quanti sono i progetti di cui si vuole occupare.
+
+261
+00:17:39,800 --> 00:17:46,000
+All'interno di ogni board, tu puoi invitare un numero illimitato di utenti
+
+262
+00:17:46,320 --> 00:17:51,280
+gratuiti, ma dopo i primi tre gli altri possono solo vedere e
+
+263
+00:17:51,280 --> 00:17:52,240
+non collaborare.
+
+264
+00:17:52,400 --> 00:17:55,120
+Ok, sono utenti passi, chiamamoli così, sì, sì, sì,
+
+265
+00:17:56,960 --> 00:18:00,080
+non sono editor, il che a volte è un vantaggio.
+
+266
+00:18:00,320 --> 00:18:05,760
+Se devi fare una presentazione di cose, può farti tantissimo gioco, avere
+
+267
+00:18:05,760 --> 00:18:08,480
+una platea di gente che non può toccare la lavagna.
+
+268
+00:18:08,480 --> 00:18:13,680
+Ho avuto la fortuna di lavorare con aziende che hanno colto questa
+
+269
+00:18:13,840 --> 00:18:19,440
+occasione, e abbiamo fatto di recente, per esempio, un gioco di ruolo,
+
+270
+00:18:19,440 --> 00:18:24,640
+per fare team building in un'azienda, con dentro 50 persone che lavoravano
+
+271
+00:18:24,640 --> 00:18:27,600
+in miro, gli facevamo fare le caccia al tesoro.
+
+272
+00:18:27,600 --> 00:18:30,160
+Tutte le porcate che si facevano da adolescenti.
+
+273
+00:18:30,160 --> 00:18:34,320
+Se si sta attenti a contenere il numero di elementi grafici sulla
+
+274
+00:18:34,400 --> 00:18:41,360
+lavagna, che è il fattore di criticità quando hai tantissima gente collegata,
+
+275
+00:18:41,360 --> 00:18:44,640
+va tutto, che è una meraviglia.
+
+276
+00:18:44,640 --> 00:18:49,200
+Bisogna anche saper disegnare la lavagna bene e non abusare della potenza
+
+277
+00:18:49,200 --> 00:18:53,680
+dello strumento, che è micidiale, perché ha uno zoom enorme, non dico
+
+278
+00:18:53,680 --> 00:18:58,160
+illimitato, ma quasi quindi puoi mettere veramente tantissime cose.
+
+279
+00:18:58,160 --> 00:18:59,040
+Una vettoriale.
+
+280
+00:18:59,040 --> 00:19:03,040
+Ma a proposito che parliamo di disegno, punto che dobbiamo assolutamente toccare,
+
+281
+00:19:03,040 --> 00:19:07,760
+perché per me è stata la chiave di volta per l'utilizzo dell'iPad
+
+282
+00:19:07,760 --> 00:19:12,000
+nella mia professione, che è Pol Pencil, che mi ricordo il primo
+
+283
+00:19:12,000 --> 00:19:15,520
+giorno che l'ho provato, ho detto che questo qui, secondo me, cambiava
+
+284
+00:19:15,520 --> 00:19:19,840
+il mercato, almeno dal punto di vista dell'architetto, per il semplice fatto
+
+285
+00:19:19,840 --> 00:19:24,320
+che ero abituato a utilizzare le tavolette grafiche, avevano un lag che
+
+286
+00:19:24,400 --> 00:19:27,760
+definire fastidioso era fare un complemento.
+
+287
+00:19:27,760 --> 00:19:31,400
+Mentre quando mi sono approcciato a Apple Pains l'anno in cui è
+
+288
+00:19:31,400 --> 00:19:35,480
+uscito e ho visto che il lag era inesistente, ho detto questa
+
+289
+00:19:35,480 --> 00:19:39,960
+qui è la strada, che devono prendere, secondo me, i grafici.
+
+290
+00:19:40,040 --> 00:19:43,720
+Perché alla fine se tu disegni con un lag, sei rallentato, non
+
+291
+00:19:43,720 --> 00:19:45,880
+hai la percezione di quello che fai.
+
+292
+00:19:45,880 --> 00:19:50,280
+E vedere la possibilità di vedere un disegno digitale fatto così velocemente,
+
+293
+00:19:50,280 --> 00:19:54,120
+senza lag con le Paul Pencil, per me è stato veramente un'epifania.
+
+294
+00:19:54,120 --> 00:19:56,840
+Finché non sono arrivato circa un anno e mezzo fa ad avere
+
+295
+00:19:56,840 --> 00:20:01,160
+anch'io finalmente le Paul Pencil e provarla, e rimane comunque l'epifania.
+
+296
+00:20:01,160 --> 00:20:05,080
+E volevo chiedere appunto a te: visto che utilizzi tanto l'iPad, se
+
+297
+00:20:05,080 --> 00:20:07,640
+utilizzi la pencil nel tuo lavoro.
+
+298
+00:20:07,800 --> 00:20:12,360
+No, perché non sono un tipo da penna non perché non valga,
+
+299
+00:20:12,360 --> 00:20:16,600
+anzi, l'ho provata e poi l'ho riprovata, riprovata ancora perché non ci
+
+300
+00:20:16,600 --> 00:20:17,800
+credevo.
+
+301
+00:20:17,800 --> 00:20:20,920
+Ho provato la 1 quando è uscita la 2, sono andato in
+
+302
+00:20:20,920 --> 00:20:25,320
+apostora a provare la 2 perché non riuscivo a crederci.
+
+303
+00:20:25,320 --> 00:20:32,440
+Adesso a settembre mia figlia entra in terza elementare, e stiamo pensando,
+
+304
+00:20:32,440 --> 00:20:36,040
+siccome un qualcosa che somiglia a un computer lo dovrà avere di
+
+305
+00:20:36,040 --> 00:20:41,960
+prendere un'iPad con dentro assolutamente una pencil, perché poi lei disegna, è
+
+306
+00:20:41,960 --> 00:20:44,280
+bravina, si diverte, le piace.
+
+307
+00:20:44,280 --> 00:20:45,400
+Ed è giusto così.
+
+308
+00:20:45,400 --> 00:20:49,000
+La pena del contrappasso è che un milione di anni fa io
+
+309
+00:20:49,000 --> 00:20:56,360
+ero un late adopter di Newton, quando Jobs ha annunciato la fine
+
+310
+00:20:56,920 --> 00:21:01,400
+di Newton, io avevo un PowerBook Duo.
+
+311
+00:21:01,400 --> 00:21:07,240
+Sono corso a vendere il PowerBook Duo per comprarmi un Newton prima
+
+312
+00:21:07,240 --> 00:21:09,560
+che uscisse di produzione.
+
+313
+00:21:09,720 --> 00:21:14,120
+Ho usato per anni Newton come portatile quando era già uscito in
+
+314
+00:21:14,120 --> 00:21:14,840
+produzione.
+
+315
+00:21:14,960 --> 00:21:18,960
+Mi presentavo le riunioni, erano gli anni novanta, e prendevo gli appunti
+
+316
+00:21:18,960 --> 00:21:22,960
+in inchiostro digitale con lo stile di Newton.
+
+317
+00:21:22,960 --> 00:21:27,120
+Ancora adesso, il mio Newton funziona ancora, si accende, e ci sono
+
+318
+00:21:27,120 --> 00:21:31,120
+dentro gli appunti delle riunioni presi 30 anni fa.
+
+319
+00:21:31,120 --> 00:21:34,880
+Ogni tanto, quando sento qualcuno di quei tempi, dico: Ma tu ce
+
+320
+00:21:35,040 --> 00:21:36,560
+li hai gli appunti delle riunioni?
+
+321
+00:21:36,800 --> 00:21:42,160
+Lui mi guarda come si guarda un parente, come dice Iannnaci, dice,
+
+322
+00:21:42,160 --> 00:21:42,800
+Come scusa?
+
+323
+00:21:42,800 --> 00:21:45,600
+Sì, no, io ho tutti gli appunti, ce li ho all'inchiostra digitale
+
+324
+00:21:45,680 --> 00:21:50,240
+Newton, però era un requisito di uso dello strumento.
+
+325
+00:21:50,480 --> 00:21:57,600
+Con iPad preferisco assolutamente le dita, l'audio, il testo, un approccio più
+
+326
+00:21:58,160 --> 00:21:59,920
+assolutamente più informatico.
+
+327
+00:21:59,920 --> 00:22:04,880
+Su iPad non uso nemmeno strumenti presi apposta per lui.
+
+328
+00:22:04,880 --> 00:22:09,840
+Io davanti al McMini ho una Magic Keyboard e un Magic Trackpad.
+
+329
+00:22:09,840 --> 00:22:15,360
+Quando uso l'iPad in modalità desktop, uso quella Magic Keyboard e quel
+
+330
+00:22:15,600 --> 00:22:20,000
+Magic Trackpad, uso sempre gli stessi strumenti di input da un apparecchio
+
+331
+00:22:20,000 --> 00:22:20,560
+all'altro.
+
+332
+00:22:20,800 --> 00:22:27,120
+Anche se questa è una strategia poco estetica, perché non stanno benissimo
+
+333
+00:22:27,120 --> 00:22:31,200
+insieme a vederli, per me è favolosamente funzionale perché le mie dita
+
+334
+00:22:31,200 --> 00:22:32,320
+vanno da sole.
+
+335
+00:22:32,320 --> 00:22:37,120
+Si faccio una domanda a uso e consumo mio personale, ma come
+
+336
+00:22:37,120 --> 00:22:38,000
+li colleghi?
+
+337
+00:22:38,000 --> 00:22:42,080
+Magic Keyboard e Magic Trackpad alle iPad via cavo?
+
+338
+00:22:43,200 --> 00:22:45,280
+Quindi scolleghi e colleghi tutte le volte.
+
+339
+00:22:45,280 --> 00:22:47,680
+Sì, sì, sì, sì, sì, scollego collego tutte le volte.
+
+340
+00:22:47,680 --> 00:22:51,280
+Ma tieni conto che se sono, cioè, se sono la mia scrivania,
+
+341
+00:22:51,280 --> 00:22:54,080
+ho davanti un Mini e sto usando il Mac Mini.
+
+342
+00:22:54,080 --> 00:22:58,080
+Se sono in giro e so che avrò una situazione in cui
+
+343
+00:22:58,080 --> 00:23:03,080
+posso mettermi a un tavolo o fare, eccetera, porto via il tracke.
+
+344
+00:23:03,960 --> 00:23:07,400
+Io mi trascino caso in ufficio e il trackpad.
+
+345
+00:23:07,400 --> 00:23:11,080
+E in più ogni tanto me lo porto e lo attacco l'iPad.
+
+346
+00:23:11,080 --> 00:23:13,960
+Tuttavia, devo dirti la verità: sono un pigro quindi lo attacco a
+
+347
+00:23:13,960 --> 00:23:16,440
+cavo, perché se no, così non mi fa il paierino.
+
+348
+00:23:16,440 --> 00:23:19,160
+No, no, no, io sono fortunato perché tutto funziona.
+
+349
+00:23:19,160 --> 00:23:22,600
+L'unica cosa, ovviamente, è non provare a fare questi giochi quando sono
+
+350
+00:23:22,600 --> 00:23:24,760
+tutti e due sulla stessa scrivania, perché
+
+351
+00:23:25,880 --> 00:23:30,120
+uno continua a chiamare mentre la tastiera sarebbe dell'altro.
+
+352
+00:23:30,520 --> 00:23:35,960
+Io tendenzialmente l'iPad me lo trascino sempre dietro, quindi, comunque o sono
+
+353
+00:23:36,280 --> 00:23:40,520
+in giro diciamo in mobilità e nell'ultimo periodo mi sto divertendo molto
+
+354
+00:23:40,520 --> 00:23:46,120
+a lavorare fuori, che effettivamente il tempo ormai lo permette, mettiamola così,
+
+355
+00:23:46,120 --> 00:23:48,440
+e l'iPad per me è una cosa meravigliosa.
+
+356
+00:23:48,440 --> 00:23:52,120
+Tuttavia, altrimenti ho attualmente, per esempio, sono davanti al Mac ma con
+
+357
+00:23:52,120 --> 00:23:58,600
+l'iPad di fianco, quindi rischierei di complicarmi la vita inutilmente, mettiamola così,
+
+358
+00:23:59,560 --> 00:24:03,960
+io quando sono in questa situazione, assolutamente ho l'iPad in mano, quindi
+
+359
+00:24:03,960 --> 00:24:08,680
+zero tastiera, gli tolgo anche la custodia, deve essere una cosa leggerissima.
+
+360
+00:24:09,000 --> 00:24:12,520
+Ami la vita pericolosa, sì, sì, sì, sì, sì.
+
+361
+00:24:13,480 --> 00:24:14,920
+Fido il destino.
+
+362
+00:24:14,920 --> 00:24:17,480
+Per ora mi è andata abbastanza bene.
+
+363
+00:24:17,880 --> 00:24:24,600
+Sostengo che non bisogna fare la colera sui device perché due anni
+
+364
+00:24:24,600 --> 00:24:25,640
+sono troppo pochi.
+
+365
+00:24:25,640 --> 00:24:29,400
+Chiaramente se a uno cade spesso, poi la situazione cambia.
+
+366
+00:24:29,400 --> 00:24:32,360
+Ma allora, io ti dirò la verità, ero molto sprintoso.
+
+367
+00:24:32,360 --> 00:24:38,360
+Poi l'iPaduno, l'ho fatto andare di piatto per terra in mille frantumi.
+
+368
+00:24:38,360 --> 00:24:41,720
+Mio figlio aveva 3-4 anni col martello di torcio, cioè un martellino
+
+369
+00:24:41,720 --> 00:24:44,480
+di plastica, sai, di quelli che ci giocano a bambini bicchi.
+
+370
+00:24:44,560 --> 00:24:46,320
+Me l'ha tirato sull'Apple Watch 3.
+
+371
+00:24:46,480 --> 00:24:47,360
+Ah, che bello!
+
+372
+00:24:47,360 --> 00:24:52,640
+E ovviamente l'ha inclinato totalmente, sai dove ha toccato?
+
+373
+00:24:52,640 --> 00:25:00,480
+E allora sto diventando un nuovo sponsor dell'assicurazione Apple, perché almeno due
+
+374
+00:25:00,480 --> 00:25:04,960
+anni dura così, non lo so, io l'Apple Carlo l'ho fatta pochissimo,
+
+375
+00:25:04,960 --> 00:25:09,920
+però qui il chilometraggio varia a seconda dell'esperienza di ciascuno.
+
+376
+00:25:09,920 --> 00:25:14,880
+Poi per tanti anni sono stato un portatista dai tempi del Powerbook
+
+377
+00:25:15,040 --> 00:25:20,800
+100, però c'era una specie di rispetto reverenziale nei confronti della macchina,
+
+378
+00:25:20,800 --> 00:25:24,960
+quindi non lo si maltrattava, non lo si trascurava, lo si teneva
+
+379
+00:25:26,160 --> 00:25:27,520
+con grande rispetto.
+
+380
+00:25:27,520 --> 00:25:32,240
+Mentre l'iPad invece è una specie di gatto aggiunto in famiglia che
+
+381
+00:25:32,240 --> 00:25:36,640
+ti sta vicino, ti fa le fusa, lo tieni con un dito
+
+382
+00:25:36,640 --> 00:25:38,800
+per un angolo incoscientemente.
+
+383
+00:25:39,040 --> 00:25:42,880
+Tra l'altro è un iPad Pro 12 e 9, quindi è leggero,
+
+384
+00:25:42,880 --> 00:25:45,200
+però non è leggerissimo.
+
+385
+00:25:45,200 --> 00:25:45,360
+E
+
+386
+00:25:46,480 --> 00:25:52,320
+vo che viva la sua vera vita quando è nudo, senza custodia, senza.
+
+387
+00:25:52,480 --> 00:25:56,240
+Speriamo che nessuno voglia dare delle indicazioni morali da questo.
+
+388
+00:25:56,240 --> 00:25:56,640
+Però
+
+389
+00:25:57,920 --> 00:26:00,480
+l'iPad vero è l'iPad nudo.
+
+390
+00:26:00,480 --> 00:26:04,880
+Quando c'è bisogno, si trasforma in supereroe, la tastiera, il mouse, il
+
+391
+00:26:04,880 --> 00:26:07,600
+trackpad, deve fare il computer.
+
+392
+00:26:07,600 --> 00:26:09,600
+Non so, io il computer ce l'ho già.
+
+393
+00:26:09,840 --> 00:26:16,000
+Quando mi dicono che bisogna mettergli il multi window, eccetera, dico: sì,
+
+394
+00:26:16,000 --> 00:26:18,080
+va bene, ma è un altro tipo di macchina.
+
+395
+00:26:18,080 --> 00:26:22,560
+Cioè cercare di riavere un Mac che, però, invece di essere un
+
+396
+00:26:22,560 --> 00:26:26,000
+Mac e un iPad, secondo me non è una roba molto produttiva.
+
+397
+00:26:26,000 --> 00:26:28,240
+I Mac sono fantastici così come sono.
+
+398
+00:26:28,240 --> 00:26:29,200
+Concordo, concordo.
+
+399
+00:26:29,200 --> 00:26:32,760
+Io invece do la mia interpretazione perché l'ho maturata proprio in questo
+
+400
+00:26:29,920 --> 00:26:33,000
+periodo.
+
+401
+00:26:33,080 --> 00:26:38,040
+A parte che quando ho avuto l'opportunità di usare l'iPadOS con
+
+402
+00:26:38,040 --> 00:26:42,760
+il mouse, mi sono letteralmente spaventato perché ho detto, ok, ragazzi, qua
+
+403
+00:26:42,760 --> 00:26:47,000
+siamo di fronte a praticamente a un desktop, non siamo più di
+
+404
+00:26:47,000 --> 00:26:49,000
+fronte a un tablet normale.
+
+405
+00:26:49,000 --> 00:26:53,000
+Quel coso che si è trasformato in un computer vero e proprio
+
+406
+00:26:53,000 --> 00:26:54,520
+con il mouse fa spavento.
+
+407
+00:26:54,520 --> 00:27:00,840
+Poi, avendo molto le icone uguali, avendo le impostazioni molto simili, ti
+
+408
+00:27:00,840 --> 00:27:04,440
+fa perdere il collegamento con l'iPad, che rimane soltanto uno
+
+409
+00:27:05,720 --> 00:27:06,840
+di consumo.
+
+410
+00:27:06,840 --> 00:27:11,240
+Mettendogli il mouse, ti dà subito l'impressione di essere produttivo, nonostante il
+
+411
+00:27:11,240 --> 00:27:15,080
+fatto che in realtà, secondo me, la sua grossa produttività è data
+
+412
+00:27:15,080 --> 00:27:21,960
+da tre fattori essenzialmente: l'or Pencil, la fotocamera e il sensore LIDAR,
+
+413
+00:27:21,960 --> 00:27:26,680
+che sono tre oggettini che messi assieme hanno una marcia in più
+
+414
+00:27:26,680 --> 00:27:28,120
+rispetto al Mac.
+
+415
+00:27:28,360 --> 00:27:34,120
+Sotto questo punto di vista, il Mac probabilmente è una macchina che
+
+416
+00:27:34,120 --> 00:27:39,080
+forse non si sta evolvendo e rimane forse più uguale a se
+
+417
+00:27:39,080 --> 00:27:39,640
+stesso.
+
+418
+00:27:39,880 --> 00:27:46,040
+L'iPad sta evolvendo verso una forma di informatica che adesso non riusciamo
+
+419
+00:27:46,040 --> 00:27:48,360
+ancora a mettere a fuoco, secondo me.
+
+420
+00:27:48,360 --> 00:27:55,560
+Però vedo molto forte questa capacità dell'iPad a tirare fuori qualcosa che
+
+421
+00:27:55,800 --> 00:27:58,040
+un normale computer non può fare.
+
+422
+00:27:58,040 --> 00:28:02,840
+Cioè mi posso aspettare che un iPad faccia quello che faccia il
+
+423
+00:28:02,840 --> 00:28:06,920
+computer, ma è molto difficile che un computer possa fare la stessa
+
+424
+00:28:06,920 --> 00:28:08,120
+cosa che fa un iPad.
+
+425
+00:28:08,440 --> 00:28:11,080
+Questa è una distinzione molto netta.
+
+426
+00:28:11,080 --> 00:28:13,640
+Che ognuno ha i suoi pro e i suoi contro.
+
+427
+00:28:13,640 --> 00:28:18,160
+Tuttavia, questa è una cosa molto importante perché una pensile, ad esempio,
+
+428
+00:28:18,160 --> 00:28:21,760
+un computer con un Mac non lo posso utilizzare, che non ha
+
+429
+00:28:14,840 --> 00:28:22,240
+molto senso.
+
+430
+00:28:22,400 --> 00:28:26,960
+Abbiamo un bel trackpad, farla funzionare con il trackpad sarebbe la morte
+
+431
+00:28:26,960 --> 00:28:27,440
+sua.
+
+432
+00:28:27,440 --> 00:28:32,400
+Tuttavia, evidentemente ci sono dei problemi: immagino tecnici, oppure bisogna tenere differenziate
+
+433
+00:28:32,400 --> 00:28:32,880
+le cose.
+
+434
+00:28:32,880 --> 00:28:37,280
+Però fatto sta che non hai una fotocamera che ti permette, ad
+
+435
+00:28:37,280 --> 00:28:41,760
+esempio, di utilizzare la realtà aumentata, la prima cosa che mi viene
+
+436
+00:28:41,760 --> 00:28:45,520
+in mente, ma neanche di scattare delle fotografie subito al momento e
+
+437
+00:28:45,520 --> 00:28:48,000
+magari disegnarci sopra con le pencil.
+
+438
+00:28:48,000 --> 00:28:53,200
+Oppure il sensore Alida, che permette, almeno per il mio lavoro, di
+
+439
+00:28:53,360 --> 00:28:58,240
+velocizzare quello che si fa, ovvero la scansione del costruito.
+
+440
+00:28:58,240 --> 00:29:02,400
+Che cavolo, io sono andati avanti fino a due anni fa con
+
+441
+00:29:02,400 --> 00:29:07,840
+la Bindella, ancora, ragazzi mie, col distanziometro, eravamo fermi a quel paradigma.
+
+442
+00:29:07,840 --> 00:29:12,400
+Con una strumentazione del genere ti permette di fare un passo evolutivo
+
+443
+00:29:12,400 --> 00:29:16,320
+in avanti, che purtroppo il Mac non ti permette di fare, ti
+
+444
+00:29:16,320 --> 00:29:19,600
+permette di fare tante altre cose, ma queste non te le permette.
+
+445
+00:29:19,920 --> 00:29:24,080
+Premesso che magari in Apple hanno deciso ieri di cambiare linea e
+
+446
+00:29:24,080 --> 00:29:25,120
+noi non lo sappiamo.
+
+447
+00:29:25,120 --> 00:29:28,720
+Tuttavia, fino a questo momento, la linea che è stata seguita di
+
+448
+00:29:28,880 --> 00:29:32,720
+far fare al Mac le cose da Mac e far fare l'iPad
+
+449
+00:29:32,720 --> 00:29:36,000
+le cose da i pad, a me piace tantissimo.
+
+450
+00:29:36,000 --> 00:29:40,240
+Quelle volte che mi hanno chiesto in presenza qual era il merito
+
+451
+00:29:40,240 --> 00:29:45,520
+dell'iPad, qual era la differenza fondamentale, io lo prendevo, ce l'avevo in
+
+452
+00:29:45,520 --> 00:29:48,160
+mano, l'iPad, lo giravo di 90 gradi.
+
+453
+00:29:48,320 --> 00:29:50,680
+Dico la differenza clamorosa.
+
+454
+00:29:50,680 --> 00:29:54,320
+È questa, che è un piccolo gesto, ma racchiude veramente tutta la
+
+455
+00:29:54,320 --> 00:29:55,920
+diversità dell'oggetto.
+
+456
+00:29:56,080 --> 00:29:59,520
+Il Mac è fatto per stare poggiato su una scrivania, su due
+
+457
+00:29:59,520 --> 00:30:05,880
+ginocchia, per carità, però è fatto per stare fermi anche se è
+
+458
+00:30:00,000 --> 00:30:06,360
+un po'.
+
+459
+00:30:06,920 --> 00:30:12,840
+L'iPad è fatto per stare in movimento appunto, i rilievi, le attività
+
+460
+00:30:12,840 --> 00:30:14,840
+sul campo in cantiere.
+
+461
+00:30:14,840 --> 00:30:19,240
+Quante volte mi è capitato in treno di comporre una presentazione in
+
+462
+00:30:19,240 --> 00:30:21,160
+ritardo agli ultimi tocchi, eccetera.
+
+463
+00:30:21,160 --> 00:30:25,000
+Mi serve una foto, tac, faccio la foto con l'iPad, tac la
+
+464
+00:30:25,000 --> 00:30:32,040
+infilo dentro chi nota e quella è una situazione di comodità, di
+
+465
+00:30:32,040 --> 00:30:36,600
+velocità, di efficacia che Mac non può avere, ma non perché non
+
+466
+00:30:36,600 --> 00:30:39,880
+possa vedere un file su i cloud e tirarlo dentro in una
+
+467
+00:30:39,880 --> 00:30:46,200
+presentazione, perché non scatti la foto quando usi lo stesso strumento per
+
+468
+00:30:46,200 --> 00:30:48,040
+tutto il ciclo
+
+469
+00:30:49,640 --> 00:30:54,840
+di produzione che ti serve in quel momento lì, cambiano radicalmente le
+
+470
+00:30:54,840 --> 00:30:55,240
+cose.
+
+471
+00:30:55,400 --> 00:30:58,440
+Mica una fotocamera può fare la video chat.
+
+472
+00:30:58,440 --> 00:30:59,640
+È giusto che faccia quello.
+
+473
+00:30:59,640 --> 00:31:04,200
+L'iPad, secondo me, è un'altra categoria di strumento, però prego che li
+
+474
+00:31:04,200 --> 00:31:08,760
+tengano ben separati e su cammini ben distanti.
+
+475
+00:31:08,760 --> 00:31:15,560
+Poi possono fare tutte le chiacchiere che si vuole sull'unificazione dell'interfaccia, le
+
+476
+00:31:15,560 --> 00:31:19,160
+cose del Mac che vanno sull'iPad, le cose dell'iPad che vanno sul
+
+477
+00:31:19,160 --> 00:31:20,120
+Mac.
+
+478
+00:31:20,120 --> 00:31:23,320
+Io per il momento sono soddisfattissimo di vedere che esiste un Mac
+
+479
+00:31:23,480 --> 00:31:27,160
+OS ed esiste un iPadOS, che sono due oggetti distinti.
+
+480
+00:31:27,160 --> 00:31:32,440
+Poi, se tanto mi da tanto tra dieci giorni mi annunciano un
+
+481
+00:31:32,440 --> 00:31:37,880
+Reality OS, quindi un ennesimo sistema operativo che è un ennesimo oggetto
+
+482
+00:31:37,880 --> 00:31:42,440
+software diverso, e quello che sogno io, per il futuro della piattaforma
+
+483
+00:31:42,440 --> 00:31:49,120
+Apple è avere un sistema operativo il più possibile personalizzato e su
+
+484
+00:31:49,200 --> 00:31:51,600
+misura per ogni oggetto.
+
+485
+00:31:44,920 --> 00:31:52,320
+Assolutamente sì.
+
+486
+00:31:52,640 --> 00:31:56,880
+Volevo fare una parentesi perché per gli ascoltatori che ascoltano molto probabilmente
+
+487
+00:31:57,120 --> 00:32:01,680
+questa puntata dopo il VWDC di quest'anno, che si tiene il 6
+
+488
+00:32:01,680 --> 00:32:06,960
+giugno, se non ricordo male, perché abbiamo le puntate prerregistrate, le mandiamo
+
+489
+00:32:06,960 --> 00:32:09,920
+avanti nel tempo, giusto per avere anche un po' la possibilità di
+
+490
+00:32:09,920 --> 00:32:12,560
+portare avanti le professioni e varie cose.
+
+491
+00:32:12,560 --> 00:32:16,240
+Quindi, se state ascoltando le parole di Lucio in questo momento è
+
+492
+00:32:16,240 --> 00:32:16,560
+perché
+
+493
+00:32:17,760 --> 00:32:22,800
+non abbiamo ancora visto il VWC, e considerate questo mentre ascoltate.
+
+494
+00:32:22,800 --> 00:32:24,000
+Invece, Filippo, cosa volevi dire?
+
+495
+00:32:24,400 --> 00:32:27,680
+Già che siamo qua, ho controllato, la puntata uscirà il 4 di
+
+496
+00:32:27,680 --> 00:32:28,320
+luglio,
+
+497
+00:32:30,000 --> 00:32:33,280
+l'altra cosa che invece volevo chiedere alla luce, io collegandomi a quello
+
+498
+00:32:33,280 --> 00:32:36,800
+che diceva prima lui, è: quindi Universal Control.
+
+499
+00:32:37,120 --> 00:32:39,200
+Come ti trovi se lo usi?
+
+500
+00:32:39,840 --> 00:32:45,360
+Lo uso saltuariamente, cioè non è una funzione abituale, però, ci sono
+
+501
+00:32:45,360 --> 00:32:48,400
+delle situazioni in cui lo trovo impagabile.
+
+502
+00:32:48,400 --> 00:32:55,040
+Per esempio, una delle cose che faccio è coordinare editorialmente il sito
+
+503
+00:32:55,040 --> 00:33:01,040
+di un editore di tecnologie, quindi pubblicare articoli, e questo editore ha
+
+504
+00:33:01,360 --> 00:33:04,240
+una ampia produzione di ebook.
+
+505
+00:33:04,240 --> 00:33:08,240
+Molte volte mi capita di dover creare del contenuto a partire dai
+
+506
+00:33:08,640 --> 00:33:10,000
+book di questo editore.
+
+507
+00:33:10,000 --> 00:33:15,680
+Per definizione, quando mi capita questo, io mi metto l'iPad in orizzontale
+
+508
+00:33:15,680 --> 00:33:18,960
+e in piedi, appoggiato sopra il McMini.
+
+509
+00:33:18,960 --> 00:33:23,600
+L'ebook va a finire lì e io lo guardo lì perché l'iPad
+
+510
+00:33:23,760 --> 00:33:25,840
+è nato per guardare degli ebook.
+
+511
+00:33:25,840 --> 00:33:31,080
+E poi tutto il lavoro lo faccio sullo schermone del Mac.
+
+512
+00:33:31,080 --> 00:33:35,640
+Proprio perché mi piace che siano oggetti distinti che fanno le cose
+
+513
+00:33:35,640 --> 00:33:41,480
+in modo diverso, tendo a non vedere l'iPad come un'estensione di schermo
+
+514
+00:33:41,640 --> 00:33:45,960
+del Mac, se non in casi particolari come questi dove mi è
+
+515
+00:33:45,960 --> 00:33:49,480
+molto visibile subito il caso di uso.
+
+516
+00:33:49,480 --> 00:33:55,160
+Cercare una situazione in cui posso usare, eccetera, non lo faccio, mi
+
+517
+00:33:55,160 --> 00:34:01,000
+è invece molto caro hand off perché smetto di scrivere una cosa
+
+518
+00:34:01,240 --> 00:34:05,400
+con Pegis perché mi tocca Pegis, sono sul Mac, vado a prendere
+
+519
+00:34:05,400 --> 00:34:09,480
+un treno, salgo sul treno, apro l'iPad, apro Peges, e quello che
+
+520
+00:34:09,480 --> 00:34:11,480
+stavo scrivendo, e riprendo a scrivere.
+
+521
+00:34:11,480 --> 00:34:16,840
+Questa è la parte che apprezzo tantissimo a livello di interconnessione tra
+
+522
+00:34:16,840 --> 00:34:23,640
+gli ambienti, più di Universal Control per ora, è perché secondo me
+
+523
+00:34:23,880 --> 00:34:28,200
+se continuo a evolvere e si allarga, magari diventa interessante.
+
+524
+00:34:28,200 --> 00:34:33,880
+Per quel poco che ho usato è molto, molto bello, però io
+
+525
+00:34:33,880 --> 00:34:39,320
+penso all'utilizzo dei miei device in un modo un pochino diverso, salvo
+
+526
+00:34:39,320 --> 00:34:40,440
+casi particolari.
+
+527
+00:34:40,440 --> 00:34:45,400
+Io lo sto osicchiando, mettiamola così anch'io, lo trovo comodo anche.
+
+528
+00:34:45,960 --> 00:34:50,040
+Ma come te, diciamo, le applicazioni per iPad e le applicazioni per
+
+529
+00:34:50,040 --> 00:34:54,040
+Mac che meno male si specchiano, nel senso, abitualmente cerco applicazioni, non
+
+530
+00:34:54,040 --> 00:34:57,800
+so, MyNote che mi funziona se su Mac che su iPad e
+
+531
+00:34:57,800 --> 00:35:00,760
+quindi passo dall'uno all'altro indifferentemente.
+
+532
+00:35:00,760 --> 00:35:04,680
+Cioè, credo di aver fatto la mappa mentale che ci siamo scambiati
+
+533
+00:35:04,840 --> 00:35:08,040
+prima su iPad, poi adesso la sto guardando su Mac e così
+
+534
+00:35:08,040 --> 00:35:08,280
+via.
+
+535
+00:35:08,280 --> 00:35:11,320
+Quindi per me è proprio spostarsi dall'uno all'altro è normale.
+
+536
+00:35:11,320 --> 00:35:15,760
+Però a volte, soprattutto quando lavoro, mi diventa comodo come una dashboard,
+
+537
+00:35:14,840 --> 00:35:16,480
+chiamiamola così.
+
+538
+00:35:16,720 --> 00:35:20,640
+Non so, sto lavorando, sto scrivendo, ma ho le attività da svolgere,
+
+539
+00:35:20,640 --> 00:35:24,800
+il calendario sull'iPad e se ho bisogno mi ci sposto.
+
+540
+00:35:25,040 --> 00:35:29,840
+Se non ho bisogno, è lì mi serve, diciamo, solo come riferimento.
+
+541
+00:35:29,840 --> 00:35:32,640
+Come oggi adesso devo fare questo, tra virgolette.
+
+542
+00:35:32,960 --> 00:35:37,840
+Io faccio la stessa cosa e uso l'app degli pad più che
+
+543
+00:35:37,840 --> 00:35:38,720
+mettere su Mac
+
+544
+00:35:40,320 --> 00:35:42,000
+tere su iPad l'app di Mac.
+
+545
+00:35:42,000 --> 00:35:46,480
+Io mentre una volta facevo lo schermo secondario, ma è scomodo sidecar,
+
+546
+00:35:46,480 --> 00:35:49,440
+non è, cioè almeno dal mio punto di vista, non è perfetto,
+
+547
+00:35:49,440 --> 00:35:51,840
+come per esempio, io ho sempre amato di più.
+
+548
+00:35:51,840 --> 00:35:57,920
+Allora, applicazioni come Duet che ti permette invece di gestire l'iPad come
+
+549
+00:35:57,920 --> 00:35:58,720
+schermo secondario.
+
+550
+00:35:58,720 --> 00:36:03,040
+Addirittura vabbè sono appassionato di disegno, quindi ogni tanto invece uso Astropad
+
+551
+00:36:03,520 --> 00:36:09,520
+per disegnare dall'iPad su Mac come tavoletta grafica, tra virgolette, e allora
+
+552
+00:36:09,520 --> 00:36:11,760
+lì il discorso cambia, secondo me.
+
+553
+00:36:11,760 --> 00:36:17,280
+Probabilmente cominciamo solo adesso ad avere dei desktop, intesi come installazione sulla
+
+554
+00:36:17,280 --> 00:36:21,200
+scrivania, che hanno superato un certo grado di maturità, nel senso che
+
+555
+00:36:21,280 --> 00:36:26,480
+gli Universal Control, io me lo immagino quando hai tre monitor 8K
+
+556
+00:36:26,640 --> 00:36:30,320
+e poi l'iPad appoggiato di là, poi perfino l'iPhone messo da quella
+
+557
+00:36:30,320 --> 00:36:34,960
+parte, e tu con una tastiera, con un trackpad, con un mouse
+
+558
+00:36:35,440 --> 00:36:39,520
+che orchestri tutto quanto sullo schermo che vuoi, dove vuoi.
+
+559
+00:36:39,520 --> 00:36:44,800
+Cioè, quella cosa la vedo nella mente e mi piace tantissimo.
+
+560
+00:36:44,800 --> 00:36:49,200
+In questo momento io sono qui con un monitor 8K, per cui
+
+561
+00:36:49,200 --> 00:36:50,240
+stravedo.
+
+562
+00:36:50,560 --> 00:36:56,000
+Sto pensando di comprarmene un altro, però, molto alla periferia del cervello.
+
+563
+00:36:56,000 --> 00:36:59,400
+Chissà se lo farò, magari non lo faccio perché comunque qui è
+
+564
+00:36:59,120 --> 00:37:02,200
+come stare è come stare in villa dal punto di vista del
+
+565
+00:36:59,840 --> 00:37:02,600
+lavoro.
+
+566
+00:37:02,760 --> 00:37:07,480
+Per cui Universal Control è forse più avanti di quelle che sono
+
+567
+00:37:07,480 --> 00:37:08,840
+le mie necessità attuali.
+
+568
+00:37:08,840 --> 00:37:13,800
+Mentre se qualcuno che fa musica, che fa video, che ha davanti
+
+569
+00:37:13,800 --> 00:37:18,840
+a otto schermi, un architetto che si cimenta di brutto con Autocad
+
+570
+00:37:19,000 --> 00:37:22,120
+Vector Works e compagnia, cambia tutto.
+
+571
+00:37:22,280 --> 00:37:27,160
+Ecco, su questo, però, io sono un po', diciamo, viaggio tanto con
+
+572
+00:37:27,160 --> 00:37:30,200
+la testa, essendo un architetto, purtroppo, questo è quanto e ve lo
+
+573
+00:37:30,200 --> 00:37:34,440
+dovete far andare un po' bene, ma la mia idea invece è
+
+574
+00:37:34,440 --> 00:37:41,800
+un po' diversa: che, secondo me, soprattutto chi utilizza, chi sviluppa software,
+
+575
+00:37:41,800 --> 00:37:44,440
+si sta perdendo un po' un treno.
+
+576
+00:37:44,440 --> 00:37:50,520
+Perché la possibilità che viene data da sidecar oppure da Universal Control,
+
+577
+00:37:50,520 --> 00:37:56,040
+sarebbe molto interessante che non fosse solo relegata, ad esempio, a Photoshop.
+
+578
+00:37:56,040 --> 00:37:57,080
+Adesso vi spiego.
+
+579
+00:37:57,080 --> 00:38:02,440
+Con Photoshop, se voi prendete lo buttate con sidecar su iPad, potete
+
+580
+00:38:02,440 --> 00:38:06,840
+utilizzare la Pencil per fare i vostri disegni, ritoccare le foto e
+
+581
+00:38:06,840 --> 00:38:08,280
+vi discorrendo.
+
+582
+00:38:08,280 --> 00:38:12,760
+Mentre altre applicazioni che possono essere come quello del disegno tecnico computerizzato
+
+583
+00:38:12,840 --> 00:38:17,560
+come il CAD oppure il modello tridimensionale, discorrendo il Beam, tu li
+
+584
+00:38:17,560 --> 00:38:24,600
+porti nella finestra dell'iPad e sono completamente inutilizzabili con la Pencil, che
+
+585
+00:38:24,680 --> 00:38:29,160
+sarebbe veramente quello il campo di utilizzo di uno strumento CAD.
+
+586
+00:38:29,160 --> 00:38:32,280
+Perché alla fine lo sappiamo tutti, il CAD ci ha trasportato dal
+
+587
+00:38:32,280 --> 00:38:36,360
+disegno a mano fatto con Acchina e Righelli, ci ha trasportato in
+
+588
+00:38:36,360 --> 00:38:38,840
+un'era digitale fatto di righelli.
+
+589
+00:38:38,840 --> 00:38:39,480
+Comunque.
+
+590
+00:38:39,480 --> 00:38:41,520
+Non è niente di così evoluto.
+
+591
+00:38:41,520 --> 00:38:46,000
+E quindi, soprattutto, secondo me il CAD si sta perdendo un treno
+
+592
+00:38:46,000 --> 00:38:49,920
+infinito sotto questo punto di vista, perché nel momento in cui riescono
+
+593
+00:38:50,160 --> 00:38:55,120
+a trasportare la possibilità di disegnare a mano e tirare linee rette,
+
+594
+00:38:55,120 --> 00:39:01,760
+direttamente disegnando e facendo diventare vettoriali, è un valore aggiunto, senza considerare
+
+595
+00:39:01,760 --> 00:39:04,640
+quello che può essere la modellazione tridimensionale.
+
+596
+00:39:04,640 --> 00:39:10,000
+Sotto questo punto di vista volevo soltanto sottolineare perché ricollegando al discorso
+
+597
+00:39:10,000 --> 00:39:13,520
+che facevamo in prepuntata che il software è molto importante.
+
+598
+00:39:13,520 --> 00:39:16,560
+Perché abbiamo visto in questi anni dal punto di vista della modellazione
+
+599
+00:39:16,560 --> 00:39:23,200
+tridimensionale, abbiamo visto un'applicazione che è Sharp 3D, che è nata sull'iPad,
+
+600
+00:39:23,200 --> 00:39:27,600
+si è trasferita sul Mac, nel bene e nel male, ma recentemente
+
+601
+00:39:27,600 --> 00:39:32,960
+abbiamo visto veramente un game changer perché è grosso, di vedere SketchUp
+
+602
+00:39:33,040 --> 00:39:38,320
+che è nato sui Mac, sui computer, si è trasportato su qualcosa
+
+603
+00:39:38,320 --> 00:39:42,720
+che ti permette di disegnare con la Pencil, e è una cosa
+
+604
+00:39:42,720 --> 00:39:45,440
+che tutti aspettavano da tantissimo tempo.
+
+605
+00:39:45,440 --> 00:39:48,720
+C'è questa richiesta di utilizzo di una penna.
+
+606
+00:39:48,720 --> 00:39:53,200
+Perché quello che dico sempre, il mouse è stato tanto bello, è
+
+607
+00:39:53,200 --> 00:39:56,560
+un ottimo strumento, ti fa fare un sacco di cose, ma è
+
+608
+00:39:56,560 --> 00:39:59,200
+estremamente distante dallo schermo.
+
+609
+00:39:59,520 --> 00:40:01,440
+La tua azione è lontana.
+
+610
+00:40:01,440 --> 00:40:04,320
+Hai la mano da una parte e guardi da un'altra parte.
+
+611
+00:40:04,480 --> 00:40:09,360
+Invece, con la Pencil permette veramente di fare delle cose strabiglianti.
+
+612
+00:40:09,600 --> 00:40:12,960
+Mi sembra, ma io potrei dire il mio punto di vista che
+
+613
+00:40:12,960 --> 00:40:16,960
+è del tutto opinabile, sono l'ultimo arrivato nel mondo dell'iPad.
+
+614
+00:40:16,960 --> 00:40:20,560
+Tuttavia, però mi sembra che dal punto di vista dello sviluppo software
+
+615
+00:40:20,640 --> 00:40:23,120
+ci sia questo treno che non è sfruttato.
+
+616
+00:40:23,840 --> 00:40:25,440
+Forse non è neanche partito.
+
+617
+00:40:25,440 --> 00:40:32,040
+Però sarebbe bello vedere l'iPad come estensione del Mac, ma un'estensione touch
+
+618
+00:40:32,520 --> 00:40:33,800
+da sfruttare cosa pensi?
+
+619
+00:40:34,040 --> 00:40:37,480
+Guarda, hai detto delle cose fondatissime.
+
+620
+00:40:37,640 --> 00:40:42,840
+Sfondi non una porta, ma i cancelli del paradiso, e questa è
+
+621
+00:40:43,080 --> 00:40:49,480
+una delle tante testimonianze del problema cronico che da sempre porta a
+
+622
+00:40:49,640 --> 00:40:52,760
+frustrazione nell'ecosistema di Apple.
+
+623
+00:40:52,760 --> 00:40:58,040
+L'ecosistema di Apple, fatto da Apple, si muove sempre più rapidamente di
+
+624
+00:40:58,040 --> 00:41:03,800
+quanto tutti quelli che stanno intorno abbiano voglia di tenerne conto, sfruttarlo,
+
+625
+00:41:04,040 --> 00:41:06,440
+metterlo a punto, eccetera, eccetera.
+
+626
+00:41:06,440 --> 00:41:10,040
+E ti faccio un esempio che non c'entra nulla apparentemente, che invece,
+
+627
+00:41:10,040 --> 00:41:13,080
+sotto la superficie nasconde tutta una serie di problematiche.
+
+628
+00:41:13,080 --> 00:41:17,080
+Io sto ragionando con un'azienda che è un Apple System Integrator e
+
+629
+00:41:17,080 --> 00:41:21,080
+sto cercando di convincergli della necessità di creare una divisione di personal
+
+630
+00:41:21,080 --> 00:41:25,720
+automation, per cui questi vanno dal cliente, vedono com'è il suo day
+
+631
+00:41:25,720 --> 00:41:29,400
+by day, le operazioni che compie, il suo flusso di lavoro, eccetera,
+
+632
+00:41:29,400 --> 00:41:29,960
+eccetera.
+
+633
+00:41:29,960 --> 00:41:34,680
+E poi mettono lì degli specialisti di comandi rapidi, Apple script, automator,
+
+634
+00:41:34,840 --> 00:41:40,120
+l'accidente che ci vuole, egli creano le scorciatoie, i comandi rapidi, gli
+
+635
+00:41:40,120 --> 00:41:45,320
+script, quello che è, per fargli risparmiare un 20% di tempo e
+
+636
+00:41:45,320 --> 00:41:50,280
+farli guadagnare un 30% di produttività automatizzando tutto quello che è possibile
+
+637
+00:41:50,280 --> 00:41:51,160
+automatizzare.
+
+638
+00:41:51,160 --> 00:41:58,920
+E queste persone che vivono nell'ambito Mac, vivono dell'ambito Apple, perché vendono
+
+639
+00:41:58,920 --> 00:42:05,480
+cose di Apple integrando, eccetera, eccetera, non capiscono questa logica perché loro
+
+640
+00:42:05,720 --> 00:42:10,600
+sono di una logica di 10, 15, 20 anni fa.
+
+641
+00:42:10,600 --> 00:42:14,840
+L'ecosistema di Apple, anche in questo caso, si sta muovendo più rapidamente
+
+642
+00:42:15,440 --> 00:42:20,960
+di quanto il mondo sia disposto a supportarlo, e qui ci tocca
+
+643
+00:42:20,960 --> 00:42:25,840
+sempre un po' soffrire, perché vediamo a volte dei gioielli che sono
+
+644
+00:42:25,840 --> 00:42:26,880
+sottoutilizzati.
+
+645
+00:42:26,880 --> 00:42:31,360
+È vero, è stato così anche per Apple Silicon quando è arrivato
+
+646
+00:42:31,360 --> 00:42:35,520
+sull'iPad, tutti a gridare lo scandalo, cosa ce ne facciamo di tutta
+
+647
+00:42:35,520 --> 00:42:36,320
+questa potenza?
+
+648
+00:42:36,320 --> 00:42:40,320
+La sposta di un mese fa hanno iniziato a fare praticamente rendering
+
+649
+00:42:40,480 --> 00:42:45,440
+in real time con Sharp 3D, appunto che ha importato la visualizzazione
+
+650
+00:42:45,440 --> 00:42:49,760
+direttamente sull'iPad, cose mai viste e la modellazione tridimensionale.
+
+651
+00:42:50,080 --> 00:42:54,240
+Questo qui è l'inizio dell'utilizzo di questa potenza e ce ne sarà
+
+652
+00:42:54,240 --> 00:42:57,760
+ancora tanta perché comunque anche la gestione delle nuvole di punti che
+
+653
+00:42:57,760 --> 00:43:02,080
+poi fare con le leader sono comunque operazioni decisamente pesanti che mettono
+
+654
+00:43:02,080 --> 00:43:04,960
+in crisi anche Mac decisamente più carrozzati.
+
+655
+00:43:05,120 --> 00:43:10,640
+Sotto questo punto di vista, l'iPad e l'hardware Apple è comunque un
+
+656
+00:43:10,640 --> 00:43:11,520
+passo in avanti.
+
+657
+00:43:11,520 --> 00:43:13,440
+Ne parlavamo anche prima in prepuntata.
+
+658
+00:43:13,520 --> 00:43:18,080
+Che comunque stiamo vedendo, da parte di Apple con l'introduzione di Apple
+
+659
+00:43:18,080 --> 00:43:23,120
+Silicon un terremoto dal punto di vista dell'informatica dove non se ne
+
+660
+00:43:23,120 --> 00:43:24,320
+vedevano da un bel pezzo.
+
+661
+00:43:24,400 --> 00:43:29,200
+Insomma, siamo stati bene o male schiavi di Intel, ho fatto l'esempio
+
+662
+00:43:29,200 --> 00:43:32,400
+in prepuntata ma lo riporto perché, secondo me, deve essere chiara questa
+
+663
+00:43:32,400 --> 00:43:32,960
+cosa.
+
+664
+00:43:33,120 --> 00:43:38,640
+Io non riesco a portare a casa una puntata in registrazione adesso
+
+665
+00:43:38,640 --> 00:43:43,600
+col computer scollegato che fa solo una videochiamata se non disabilito il
+
+666
+00:43:43,600 --> 00:43:45,600
+turbo boost di Intel.
+
+667
+00:43:45,600 --> 00:43:48,160
+Capite che non dico che ne ha presa in giro, ma è
+
+668
+00:43:48,160 --> 00:43:49,120
+un controsenso.
+
+669
+00:43:49,120 --> 00:43:51,840
+Non è possibile utilizzare una cosa del genere.
+
+670
+00:43:51,840 --> 00:43:56,320
+Oppure vedere d'altra parte schede video dedicate.
+
+671
+00:43:56,880 --> 00:43:58,480
+Sappiamo tutti di chi stiamo parlando.
+
+672
+00:43:58,480 --> 00:44:02,680
+Stiamo parlando di Nvidia della GeForce, che ha bisogno di un vantaggio
+
+673
+00:43:59,920 --> 00:44:04,760
+che è molto alto.
+
+674
+00:44:05,400 --> 00:44:09,560
+All'interno di un computer fisso vuol dire che bisogna incominciare già a
+
+675
+00:44:09,560 --> 00:44:14,440
+pensare quasi al kilowatt di potenza impegnata di un computer perché tra
+
+676
+00:44:14,600 --> 00:44:18,760
+monitor scheda grafica che te ne tira su 400, le altre 200
+
+677
+00:44:18,920 --> 00:44:23,720
+te la fa magari la CPU, metti 4 ventole e hai fatto
+
+678
+00:44:23,720 --> 00:44:24,840
+subito un kilowatt.
+
+679
+00:44:24,840 --> 00:44:28,520
+Quindi per arrivare a quella potenza c'è bisogno di questa dissipazione di
+
+680
+00:44:28,520 --> 00:44:31,240
+calore che poi alla fine è potenza sprecata.
+
+681
+00:44:31,480 --> 00:44:35,640
+Vedi come ho visto, ad esempio, con Alex Raccuglia, che è un
+
+682
+00:44:35,640 --> 00:44:38,040
+videomaker essenzialmente, uno sviluppatore.
+
+683
+00:44:38,200 --> 00:44:39,800
+Siamo andati in un postore.
+
+684
+00:44:39,960 --> 00:44:44,280
+Abbiamo aperto il MacBoo Pro 16 pollici con l M1 Max.
+
+685
+00:44:44,280 --> 00:44:48,840
+Mi pare di ricordare o l'Ultra comunque non è indifferente, aveva qualcosa
+
+686
+00:44:48,840 --> 00:44:53,960
+come un flusso 8K che stava gestendo come se fosse acqua, e
+
+687
+00:44:53,960 --> 00:44:57,160
+la sensazione abbiamo toccato il portatile.
+
+688
+00:44:57,160 --> 00:45:02,600
+Sembrava che il portatile fosse scaldato dalla temperatura dell'aria che c'era in
+
+689
+00:45:02,600 --> 00:45:07,080
+quella stanza, e non fosse il portatile che scaldasse la stanza.
+
+690
+00:45:08,040 --> 00:45:11,800
+È una cosa che cambia il paradigma, perché vuol dire che tu
+
+691
+00:45:11,800 --> 00:45:15,400
+non hai bisogno di essere attaccato a una presa elettrica per riuscire
+
+692
+00:45:15,400 --> 00:45:19,320
+a portare a casa il tuo lavoro, hai un computer potente abbastanza
+
+693
+00:45:19,320 --> 00:45:23,560
+che non consuma così tanto da poter lavorare in libertà ed è
+
+694
+00:45:23,560 --> 00:45:26,280
+punto fondamentale, secondo me, soprattutto per riportarsi.
+
+695
+00:45:26,520 --> 00:45:28,360
+Mi permetti di rincaro la dose?
+
+696
+00:45:28,360 --> 00:45:33,320
+Perché quando tu hai un Mac M1, M1 Ultra, domani M2, quello
+
+697
+00:45:33,320 --> 00:45:37,320
+che devi fare dal punto di vista di un programmare un'app è
+
+698
+00:45:37,320 --> 00:45:40,920
+sfruttare tutta quella potenza del processore.
+
+699
+00:45:40,920 --> 00:45:41,960
+E va bene.
+
+700
+00:45:42,280 --> 00:45:47,600
+Quando parli di iPadOS, una cosa che leggi molto spesso è
+
+701
+00:45:44,840 --> 00:45:50,400
+che mannaggia Apple fa un hardware così bello,
+
+702
+00:45:50,480 --> 00:45:55,200
+ma invece il sistema operativo è rimasto indietro, è sottoutilizzato e così
+
+703
+00:45:55,200 --> 00:45:55,600
+via.
+
+704
+00:45:55,600 --> 00:46:00,320
+E nessuno mette mai l'accento sulle app perché la gente che programma
+
+705
+00:46:00,320 --> 00:46:07,440
+le app per iPad nel 99% dei casi fa delle cose qualsiasi
+
+706
+00:46:08,400 --> 00:46:13,920
+senza tenere conto del fatto che è un apparecchio diverso con logiche
+
+707
+00:46:13,920 --> 00:46:20,480
+diverse, che dovrebbe ispirare delle modalità diverse di fruizione.
+
+708
+00:46:20,480 --> 00:46:23,600
+Il mio parere personale è che su App Store ci sono tipo
+
+709
+00:46:23,680 --> 00:46:30,800
+300.000 app per iPad o simile, e quelle progettate per iPad si
+
+710
+00:46:30,800 --> 00:46:33,360
+contano sulle dita di una mano.
+
+711
+00:46:33,360 --> 00:46:38,720
+Dopodiché, se tu usi Numbers, che è stata la prima a essere
+
+712
+00:46:38,720 --> 00:46:42,240
+progettata per iPad, e ancora adesso è una delle poche, tu usi
+
+713
+00:46:42,240 --> 00:46:43,440
+Numbers sull'iPad.
+
+714
+00:46:43,440 --> 00:46:47,520
+All'inizio non capisci niente, cioè ti sembra di aver sbagliato strada, di
+
+715
+00:46:47,520 --> 00:46:48,800
+essere ubriaco.
+
+716
+00:46:49,360 --> 00:46:54,640
+Proprio ti trovi in un mondo alieno, poi capisci nel giro di
+
+717
+00:46:54,640 --> 00:46:57,760
+un minuto qual è la logica, e ti rendi conto che quella
+
+718
+00:46:57,760 --> 00:47:02,320
+lì è un'interfaccia progettata apposta per stare sull'iPad.
+
+719
+00:47:02,320 --> 00:47:07,840
+Usi un quarto d'ora Numbers sull'iPad, e poi, quando ti viene da
+
+720
+00:47:07,840 --> 00:47:12,160
+lanciare un altro foglio elettronico su una qualunque altra piattaforma, ti vengono
+
+721
+00:47:12,160 --> 00:47:12,960
+iconati.
+
+722
+00:47:12,960 --> 00:47:18,240
+Perché quello lì è un modo diverso per un apparecchio diverso.
+
+723
+00:47:18,240 --> 00:47:22,000
+Numbers su iPad è fatto per essere usato su iPad e di
+
+724
+00:47:22,000 --> 00:47:26,960
+app così su iPad, ce ne saranno 5, 4, 10, non lo
+
+725
+00:47:26,960 --> 00:47:33,320
+so, ovviamente non le posso conoscere tutte, ma c'è questo problema: cioè
+
+726
+00:47:33,320 --> 00:47:38,520
+l'app per iPad è una cosa fatta da uno che più o
+
+727
+00:47:38,520 --> 00:47:43,720
+meno è abituato a programmare neanche tanto il Mac il personal computer
+
+728
+00:47:43,720 --> 00:47:47,800
+tipico e fa un'app che per necessità, per carità, deve usare il
+
+729
+00:47:47,800 --> 00:47:51,960
+touch, deve usare il dito, non è fatta per la logica, la
+
+730
+00:47:51,960 --> 00:47:57,320
+filosofia di iPad, è un portato da un'epoca precedente.
+
+731
+00:47:57,320 --> 00:48:03,800
+Tra l'altro, secondo me, ci sono veramente pochissimi sviluppatori che sanno implementare
+
+732
+00:48:03,800 --> 00:48:04,760
+le tecnologie.
+
+733
+00:48:04,760 --> 00:48:05,560
+Apple poi dà
+
+734
+00:48:08,040 --> 00:48:11,000
+parlo di una cosa che conosco perché è uno sviluppatore che io
+
+735
+00:48:11,080 --> 00:48:16,440
+amo, tra virgolette, è lo sviluppatore di Working Copy e Sicuro Shelfish.
+
+736
+00:48:16,440 --> 00:48:21,480
+È l'unico che ha implementato in maniera sensata la gestione dei documenti
+
+737
+00:48:21,560 --> 00:48:23,880
+delle cartelle come vorrebbe Apple.
+
+738
+00:48:23,880 --> 00:48:27,240
+Poi sono il primo a dire che casomai non è così normale
+
+739
+00:48:27,240 --> 00:48:32,520
+come lo fa Apple, però, il discorso è qualsiasi altro cloud provider
+
+740
+00:48:32,520 --> 00:48:38,280
+non ti permette di condividere una cartella che hai su Dropbox piuttosto
+
+741
+00:48:38,280 --> 00:48:41,000
+che anche Next Cloud.
+
+742
+00:48:41,000 --> 00:48:46,840
+Rimango basito perché o entri dentro con il loro sistema, oppure di
+
+743
+00:48:46,840 --> 00:48:51,480
+fatto, io non posso, da un'applicazione di terze parti, lavorare su un'intera
+
+744
+00:48:51,480 --> 00:48:54,760
+cartella di Next Cloud o di quel che è adesso.
+
+745
+00:48:54,760 --> 00:48:57,800
+Next Cloud è quello che mi dà più fastidio perché lo uso
+
+746
+00:48:57,800 --> 00:49:01,240
+ed è open source e quindi mi piacerebbe, ho provato in varie
+
+747
+00:49:01,240 --> 00:49:03,400
+maniere a dire: ma guardate che si può fare!
+
+748
+00:49:03,400 --> 00:49:06,760
+Tuttavia, da quello che ho capito, o c'è un problema a monte,
+
+749
+00:49:06,760 --> 00:49:10,360
+perché poi è la gestione interna loro è dei documenti sostanzialmente che
+
+750
+00:49:10,360 --> 00:49:10,840
+cambia.
+
+751
+00:49:10,840 --> 00:49:15,040
+Quindi, però, alla fine io sto utilizzando solo determinate applicazioni perché nel
+
+752
+00:49:15,040 --> 00:49:20,000
+mio flusso di lavoro è l'unico modo per poter usare quegli spazi
+
+753
+00:49:20,000 --> 00:49:24,160
+in qualunque momento e con qualunque applicazione che ovviamente abbia la possibilità
+
+754
+00:49:24,160 --> 00:49:27,840
+di lavorare sulla cartella e quindi di avere più documenti che io
+
+755
+00:49:27,840 --> 00:49:32,080
+posso lavorare in contemporanea, chiamiamola così, e sono pochissimi.
+
+756
+00:49:32,480 --> 00:49:35,520
+Al massimo riesci ad andare a prendere quel singolo documento, ma non
+
+757
+00:49:35,520 --> 00:49:36,880
+vedi gli altri.
+
+758
+00:49:37,120 --> 00:49:40,880
+Quello per me è molto fastidioso, come si sente?
+
+759
+00:49:41,040 --> 00:49:45,040
+Ma Working Copy è un bellissimo esempio, anzi, è il secondo esempio
+
+760
+00:49:45,040 --> 00:49:52,080
+di applicazione di app studiata per iPad, che proprio ti cambia la
+
+761
+00:49:52,080 --> 00:49:57,280
+vita perché lavori in un modo diverso su Mac, e a volte
+
+762
+00:49:57,280 --> 00:50:00,960
+più comodo, a volte meno comodo, però è fatta per lavorare su
+
+763
+00:50:01,200 --> 00:50:02,000
+iPad.
+
+764
+00:50:02,000 --> 00:50:08,000
+Sugli editori di testo, che è il mio campo di lamentazioni preferito,
+
+765
+00:50:08,320 --> 00:50:12,960
+non ce n'è uno che sia veramente pensato per iPad.
+
+766
+00:50:13,120 --> 00:50:15,600
+Tutti hanno qualche intuizione.
+
+767
+00:50:16,160 --> 00:50:19,520
+Ti do un'anteprima, poi forse casomai, lo sai già.
+
+768
+00:50:19,520 --> 00:50:23,040
+Tuttavia, io writer, la versione 6 che sto testando in beta, è
+
+769
+00:50:23,040 --> 00:50:27,600
+notevole, non fa tutto quello che vorrei io, però, se non l'hai
+
+770
+00:50:27,760 --> 00:50:31,760
+provata, la beta, ti dico, aspettati qualcosa di interessante perché
+
+771
+00:50:33,360 --> 00:50:36,880
+diciamo che il mio secondo editor di test attualmente è dopo Vimo,
+
+772
+00:50:36,880 --> 00:50:38,000
+ovviamente.
+
+773
+00:50:39,360 --> 00:50:44,400
+Beh, non dico, io mi sono messo tante volte su iPad, lanciando
+
+774
+00:50:44,400 --> 00:50:49,840
+prompt per usare Max piuttosto che per usare il terminale brutalmente, da
+
+775
+00:50:50,000 --> 00:50:55,120
+iPad, andando su un Mac, andando sul mio cloud personale, andando in
+
+776
+00:50:55,120 --> 00:50:58,120
+SSH, ovunque mi toccava andare.
+
+777
+00:50:58,080 --> 00:51:01,880
+No, sono un un unixista mancato perché a me piacerebbe fare come
+
+778
+00:51:01,880 --> 00:51:05,000
+certa gente che ho visto, avere il Mac che parte o l'iPad
+
+779
+00:51:05,000 --> 00:51:10,120
+che parte, avere un grande terminale o 18 finestre di terminale, solo
+
+780
+00:51:10,120 --> 00:51:13,240
+quelle e fare tutto da lì dentro.
+
+781
+00:51:13,240 --> 00:51:16,440
+Tuttavia, devo ancora mangiare qualche cibo.
+
+782
+00:51:17,400 --> 00:51:21,480
+Mi ci sto addentrando anch'io e devo dirti la verità: che è
+
+783
+00:51:22,440 --> 00:51:26,280
+un viaggio, mettiamola così, come quelli in India.
+
+784
+00:51:26,440 --> 00:51:31,560
+Una che fece anche Steve Jobs, quelli che doveva raggiungi l'illuminazione, o
+
+785
+00:51:31,560 --> 00:51:35,080
+torni stonato, ma in ogni caso non sei più lo stesso di
+
+786
+00:51:35,080 --> 00:51:35,400
+prima
+
+787
+00:51:36,680 --> 00:51:37,000
+.
+
+788
+00:51:37,800 --> 00:51:42,360
+Infatti, ogni volta che parlo di terminale, Roberto mi guarda come venirsi
+
+789
+00:51:42,360 --> 00:51:46,440
+da un altro pianeta, quindi forse uso ancora la penna, sono più
+
+790
+00:51:46,440 --> 00:51:47,240
+indietro di te.
+
+791
+00:51:47,240 --> 00:51:51,240
+Non so se ma qualcuno farà qualche driver, secondo me, che permettono
+
+792
+00:51:51,240 --> 00:51:54,600
+di combinare qualcosa con terminale penna.
+
+793
+00:51:54,600 --> 00:51:59,480
+Perché su Unix gira gente veramente fuori di melone.
+
+794
+00:51:59,640 --> 00:52:04,360
+Gente che non ha bisogno di pensare a interfaccia utente, user experience
+
+795
+00:52:05,560 --> 00:52:11,320
+termini inglesi, semplicemente fanno codice, tanto loro hanno l'interfaccia testo e ne
+
+796
+00:52:11,400 --> 00:52:13,880
+combinano di tutti colori.
+
+797
+00:52:13,880 --> 00:52:17,880
+Altre che le app che non seguono l'evoluzione del sistema operativo su
+
+798
+00:52:17,880 --> 00:52:22,360
+Unix, ti puoi tranquillamente perdere in un labirinto senza file.
+
+799
+00:52:22,360 --> 00:52:26,760
+Ma a proposito di parlare di Unix e tendenzialmente di
+
+800
+00:52:27,880 --> 00:52:33,000
+sotto Unix lo associo col software libero oppure con gli smanettoni.
+
+801
+00:52:33,000 --> 00:52:37,400
+Sappiamo benissimo che tu sei un sostenitore dell'open source.
+
+802
+00:52:37,400 --> 00:52:39,880
+Vuoi raccontarci qualcosa di questa tua?
+
+803
+00:52:39,880 --> 00:52:44,840
+chiamiamola passione che comunque tramuta in qualcosa di materiale.
+
+804
+00:52:45,120 --> 00:52:51,360
+Dunque, intanto, io sono un socio quest'anno, l'anno scorso, socio sostenitore di
+
+805
+00:52:51,360 --> 00:52:57,680
+Liber Italia e Caldeggio sulla home del mio blog, c'è un link
+
+806
+00:52:57,760 --> 00:52:58,160
+fisso.
+
+807
+00:52:58,240 --> 00:53:02,480
+Iscriviti a Liber Italia, che è l'associazione italiana che si batte per
+
+808
+00:53:02,480 --> 00:53:08,480
+la diffusione del software libero e segnatamente specialmente per la diffusione di
+
+809
+00:53:08,640 --> 00:53:10,000
+LiberOffice.
+
+810
+00:53:10,000 --> 00:53:15,760
+Soprattutto vuol dire che dove riusciamo a portare LiberoOffice, dove riusciamo a
+
+811
+00:53:15,760 --> 00:53:19,680
+portare il software libero, c'è una copia di Office o di Windows
+
+812
+00:53:19,840 --> 00:53:22,960
+che se ne va, e quindi è un doppio beneficio che si
+
+813
+00:53:22,960 --> 00:53:25,200
+reca al mondo.
+
+814
+00:53:25,200 --> 00:53:29,840
+Come cominciato tutto questo è cominciato perché sono un anziano.
+
+815
+00:53:29,840 --> 00:53:36,080
+Quindi tutte le tecnologie che io ho visto arrivare all'inizio erano aperte
+
+816
+00:53:36,640 --> 00:53:37,280
+e poi
+
+817
+00:53:39,120 --> 00:53:40,560
+non si sono chiuse.
+
+818
+00:53:40,560 --> 00:53:45,760
+C'è gente che comunque ha un'esperienza, ma è rimasto sprovveduto mentalmente da
+
+819
+00:53:45,760 --> 00:53:50,640
+questo punto di vista, per architetture chiuse non sono architetture chiuse, sono
+
+820
+00:53:50,640 --> 00:53:56,240
+architetture complesse, dove lo spazio per intervenire da parte dell'utente è una
+
+821
+00:53:56,240 --> 00:53:59,040
+cerchia più esterna di quella che era prima.
+
+822
+00:53:59,040 --> 00:54:04,560
+Il Mac originale c'è gente che non cessa di ricordarlo, vantarsene, eccetera,
+
+823
+00:54:04,640 --> 00:54:11,200
+la tua previo resedit e lo sventravi, arrivavi a qualunque livello interno
+
+824
+00:54:11,760 --> 00:54:15,520
+al software di Mac, poi cerca di fare la stessa cosa oggi,
+
+825
+00:54:15,520 --> 00:54:17,840
+dopo 40 anni, e non ci riesce.
+
+826
+00:54:17,840 --> 00:54:19,760
+E dice: Ma l'architettura è chiusa?
+
+827
+00:54:19,840 --> 00:54:21,840
+No, l'architettura è complessa.
+
+828
+00:54:21,840 --> 00:54:26,080
+Il Mac una volta aveva qualche centinaio di file, adesso ha qualche
+
+829
+00:54:26,080 --> 00:54:28,320
+centinaio di migliaia di file.
+
+830
+00:54:28,320 --> 00:54:32,120
+Quindi, la zona dove tu riesci ad arrivare con la tua voglia
+
+831
+00:54:32,120 --> 00:54:36,200
+di imparare è più all'esterno, è più stratificato.
+
+832
+00:54:36,200 --> 00:54:36,920
+Sì, sì, è più
+
+833
+00:54:38,040 --> 00:54:39,240
+stratificato.
+
+834
+00:54:39,240 --> 00:54:44,040
+Poi ti fanno l'esempio di hypercard, con hypercard potevi programmare, potevi fare
+
+835
+00:54:44,040 --> 00:54:46,520
+il database, le schede, eccetera.
+
+836
+00:54:46,520 --> 00:54:49,880
+Oggi, se tu ti metti con un po' di JavaScript, un po'
+
+837
+00:54:49,960 --> 00:54:55,320
+di PKP o di Ruby pasticci con lo scripting con Python con
+
+838
+00:54:55,320 --> 00:55:01,320
+i linguaggi facili, puoi fare 300 volte quello che facevi con hypercard.
+
+839
+00:55:01,320 --> 00:55:05,000
+Ti serve padroneggiare un filo di complessità in più.
+
+840
+00:55:05,000 --> 00:55:07,560
+Scusa se nel frattempo sono passati 35 anni.
+
+841
+00:55:07,560 --> 00:55:09,960
+Ma che cosa è successo in questi 35 anni?
+
+842
+00:55:09,960 --> 00:55:15,960
+E vengo al punto, a un certo punto sembrava che ci fosse
+
+843
+00:55:15,960 --> 00:55:20,120
+solo Windows, che ci fosse solo Intel, e che il mondo sarebbe
+
+844
+00:55:20,120 --> 00:55:27,480
+terminato in una nuvola di Internet Explorer, ed è arrivato Linux.
+
+845
+00:55:27,480 --> 00:55:33,400
+Cioè, una delle cose che ci ha salvato, oltre alla pervicacia di
+
+846
+00:55:33,400 --> 00:55:39,400
+Apple, per esistere fino a quando è riuscita a ritrovare una quadra,
+
+847
+00:55:39,400 --> 00:55:44,280
+è stato il software libero che Microsoft non poteva controllare, e che
+
+848
+00:55:44,280 --> 00:55:48,600
+grazie a internet poteva diffondersi liberamente.
+
+849
+00:55:48,600 --> 00:55:54,680
+Software libero che arriva da quello stesso tessuto sociale che negli anni
+
+850
+00:55:54,680 --> 00:56:01,160
+'70 ha generato la rivoluzione microinformatica, hub di smanettoni che si ritrovavano
+
+851
+00:56:01,160 --> 00:56:05,560
+la sera a ragionare di circuiti stampati, quelli dove c'era Steve Vosniak,
+
+852
+00:56:05,560 --> 00:56:10,760
+quelli dove c'era l'Apple II, quelli che poi sono finiti dentro le
+
+853
+00:56:10,760 --> 00:56:14,600
+università o i loro figli, o quello che è, e nelle università
+
+854
+00:56:14,600 --> 00:56:22,880
+da Berkeley è uscito BSD, che oggi diventa FreeBSD, OpenBSD, e che
+
+855
+00:56:22,880 --> 00:56:29,680
+sono tutte manifestazioni non di resistenza contro l'invasore Microsoft, perché per carità
+
+856
+00:56:29,760 --> 00:56:32,160
+c'è chi ci si trova bene, auguri.
+
+857
+00:56:32,160 --> 00:56:40,640
+Sono possibilità di scegliere da molti anni ho comunque sul mio Mac,
+
+858
+00:56:40,960 --> 00:56:46,800
+un virtual box da due soldi, con dentro una copia di FreeBSD.
+
+859
+00:56:46,800 --> 00:56:52,160
+Ogni tanto apro, smanetto, faccio qualcosa, non combino assolutamente nulla di utile,
+
+860
+00:56:52,160 --> 00:56:54,320
+ma mi dicono che mi è chiuso.
+
+861
+00:56:54,320 --> 00:56:57,760
+Non è vero, io in qualsiasi momento posso smettere di usare MacS
+
+862
+00:56:57,840 --> 00:56:59,760
+e mettermi a usare FreeBSD.
+
+863
+00:56:59,760 --> 00:57:05,680
+E questa possibilità di scegliere di decidere qualcosa di diverso, di imparare
+
+864
+00:57:05,680 --> 00:57:08,480
+qualcosa di differente sta nel software libero.
+
+865
+00:57:08,480 --> 00:57:11,840
+Non parliamo dei fenomeni di collaborazione.
+
+866
+00:57:11,840 --> 00:57:16,720
+Internet ormai è ampiamente degenerata da un punto di vista di interazione
+
+867
+00:57:16,960 --> 00:57:17,840
+sociale.
+
+868
+00:57:17,840 --> 00:57:23,440
+Uno dei pochi punti dove le cose funzionano come avevamo sognato che
+
+869
+00:57:23,440 --> 00:57:31,760
+funzionassero, come volevamo l'utopia del mondo interconnesso, è il lavoro insieme in
+
+870
+00:57:31,760 --> 00:57:36,560
+collaborazione con il Benevolent Dictator sul software libero.
+
+871
+00:57:36,560 --> 00:57:41,040
+Scusate la lunghezza, ma qui mi infermo, non ho mai fatto benissimo
+
+872
+00:57:41,200 --> 00:57:42,960
+a sottolineare questi punti.
+
+873
+00:57:42,960 --> 00:57:48,480
+Poi con una foto aperta perché di là ho una macchina Linux,
+
+874
+00:57:48,480 --> 00:57:54,960
+e anch'io sto passando in parte quando riesco a fare questi giochi.
+
+875
+00:57:55,760 --> 00:57:59,600
+Sono convinto che sia un ingrediente
+
+876
+00:58:00,760 --> 00:58:01,720
+essenziale.
+
+877
+00:58:02,040 --> 00:58:07,800
+Non mi piace la logica un po' talebana di Richard Stallman e
+
+878
+00:58:07,800 --> 00:58:12,280
+compagnia, per cui tutto deve essere libero, tutto quello che è proprietario,
+
+879
+00:58:12,280 --> 00:58:15,880
+è pericoloso, perché chiuso non puoi, quante cazzate?
+
+880
+00:58:15,880 --> 00:58:19,480
+Io ho il microonde a casa e non lo posso aprire perché
+
+881
+00:58:19,640 --> 00:58:22,920
+se provo ad aprirlo, non capendo né un accidente, mi faccio del
+
+882
+00:58:22,920 --> 00:58:23,480
+male.
+
+883
+00:58:23,480 --> 00:58:31,880
+Allora, se io creo un'architettura di crittografia per garantire la privacy dei
+
+884
+00:58:32,120 --> 00:58:36,680
+file, è meglio se non la lascio aprire al primo che passa
+
+885
+00:58:36,680 --> 00:58:40,520
+e che decide che vuole imparare, che fa lui le prove, e
+
+886
+00:58:40,520 --> 00:58:43,960
+la macchina è sua ci fa quello che vuole perché si sputtana
+
+887
+00:58:44,440 --> 00:58:45,960
+il sistema operativo.
+
+888
+00:58:45,960 --> 00:58:51,080
+Cioè ci sono semplicemente delle cose, 35 anni di complessità dopo che
+
+889
+00:58:51,080 --> 00:58:55,560
+vanno oltre la nostra comprensione di esseri mortali.
+
+890
+00:58:55,560 --> 00:59:00,200
+E la questione è che bisogna un po' evolvere, certe ideologie, chiamiamole
+
+891
+00:59:00,200 --> 00:59:06,520
+così, sono belle nel contesto in cui sono nate, ma devono evolversi
+
+892
+00:59:06,520 --> 00:59:08,120
+con l'involversi del tempo.
+
+893
+00:59:08,120 --> 00:59:11,480
+Non è un po' come lo sconto generazionale.
+
+894
+00:59:11,480 --> 00:59:14,760
+Al fine si tratta di quello essenzialmente.
+
+895
+00:59:14,760 --> 00:59:18,440
+I nostri figli la vedono in un modo diverso da noi, come
+
+896
+00:59:18,440 --> 00:59:22,440
+noi da figli vedevamo le cose in modo diverso dei nostri padri.
+
+897
+00:59:22,440 --> 00:59:26,760
+Ma alla fine stiamo parlando di tutti della stessa vita, solo che
+
+898
+00:59:27,320 --> 00:59:30,920
+si usano dei punti di vista diversi e si evolve però con
+
+899
+00:59:30,920 --> 00:59:32,440
+questi punti di vista diversi.
+
+900
+00:59:32,440 --> 00:59:38,440
+È una cosa molto interessante, ovviamente un argomento molto ampio e sono
+
+901
+00:59:38,440 --> 00:59:42,680
+molto contento, però, che tu l'abbia toccato, perché è una cosa che
+
+902
+00:59:42,680 --> 00:59:44,520
+va sottolineata spesso.
+
+903
+00:59:44,520 --> 00:59:48,400
+Bisogna anche rendersi conto di quello che si ha sotto mano, che
+
+904
+00:59:44,920 --> 00:59:51,120
+è un frutto di un'evoluzione.
+
+905
+00:59:51,680 --> 00:59:59,920
+Mi rendo conto che spesso alcune evoluzioni sono manipolate, in stradate e
+
+906
+00:59:59,920 --> 01:00:02,000
+non hanno preso una strada giusta.
+
+907
+01:00:02,320 --> 01:00:08,080
+Tuttavia, come tutte le evoluzioni, se prendono questa strada, sono destinati a
+
+908
+01:00:08,080 --> 01:00:08,880
+fermarsi.
+
+909
+01:00:08,880 --> 01:00:10,720
+Faccio un esempio della mia
+
+910
+01:00:12,080 --> 01:00:15,920
+carriera informatica, la poca che ho avuto perché comunque non ho la
+
+911
+01:00:15,920 --> 01:00:16,880
+tua esperienza.
+
+912
+01:00:16,880 --> 01:00:22,640
+Io ho visto il DVG che era un formato di disegno CAD
+
+913
+01:00:22,960 --> 01:00:30,800
+completamente chiuso, che richiedeva assolutamente qualcosa come un AutoCAD per essere aperto,
+
+914
+01:00:30,800 --> 01:00:37,360
+c'era solo AutoCAD, e questo qui è il simbolo della chiusura dell'informatica,
+
+915
+01:00:37,600 --> 01:00:42,800
+ma d'altra parte, come in tutte le cose, c'è un bilanciamento, c'è
+
+916
+01:00:42,800 --> 01:00:47,360
+stato, poi, alla fine, nel corso del tempo, l'apertura di questo file
+
+917
+01:00:47,360 --> 01:00:52,400
+DVG perché qualcuno si è messo contro e ha fatto valere le
+
+918
+01:00:52,400 --> 01:00:57,200
+sue idee e l'evoluzione dei tempi, in quel senso, l'evoluzione dei tempi
+
+919
+01:00:57,200 --> 01:01:00,080
+ha avuto una bella spinta.
+
+920
+01:01:00,320 --> 01:01:05,120
+È chiaro che, essendo così tanti, avendo questo tipo di collaborazione, essendo
+
+921
+01:01:05,120 --> 01:01:09,280
+tutto molto così alla luce rispetto a quello che succedeva trent'anni fa.
+
+922
+01:01:09,280 --> 01:01:11,040
+Trent anni fa.
+
+923
+01:01:11,520 --> 01:01:17,760
+C'era qualcuno che programmava di un garage adesso è difficile che qualcuno
+
+924
+01:01:17,760 --> 01:01:21,520
+si metta a programmare in un garage, è assieme a tante altre
+
+925
+01:01:21,520 --> 01:01:23,520
+persone disparate nel mondo.
+
+926
+01:01:23,520 --> 01:01:29,600
+È difficile contenere qualcosa di chiamiamolo fazzioso, mettiamola così: non mi viene
+
+927
+01:01:29,600 --> 01:01:34,760
+un termine giusto in mente, ma è difficile riuscire a portare avanti
+
+928
+01:01:34,760 --> 01:01:39,720
+un progetto con qualcosa di oscuro al suo interno.
+
+929
+01:01:39,720 --> 01:01:40,920
+Se mi passate terno.
+
+930
+01:01:40,920 --> 01:01:44,840
+In realtà la battaglia del software libero è una battaglia dei formati
+
+931
+01:01:44,840 --> 01:01:51,320
+aperti perché il vero Crimine è costringermi a usare un formato che
+
+932
+01:01:51,320 --> 01:01:55,480
+solo una certa applicazione conosce.
+
+933
+01:01:55,480 --> 01:01:59,640
+Le applicazioni quello che vogliono, come vogliono, si fanno la guerra e
+
+934
+01:01:59,640 --> 01:02:05,400
+la concorrenza, però il formato deve essere condiviso, libero, aperto fra tutti.
+
+935
+01:02:05,400 --> 01:02:08,680
+Io vado nelle scuole, mi faccio cacciare e poi non mi invitano
+
+936
+01:02:08,680 --> 01:02:13,880
+più perché dico che dovrebbero buttare via tutto quello che hanno e
+
+937
+01:02:13,880 --> 01:02:20,200
+fare scrivere i ragazzi in HTML perché l'HTML: testo, non è un
+
+938
+01:02:20,200 --> 01:02:25,800
+punto d'oc, non è un punto qualcosa, è testo, sono caratteri uno
+
+939
+01:02:25,800 --> 01:02:26,520
+dietro l'altro.
+
+940
+01:02:26,520 --> 01:02:30,440
+Tra 50 anni, chi arriverà in quella scuola 50 anni dopo vedrà
+
+941
+01:02:30,440 --> 01:02:34,360
+le ricerche che hanno scritto i bambini di adesso perché sono testo
+
+942
+01:02:34,360 --> 01:02:35,640
+e rimangono leggibili.
+
+943
+01:02:35,640 --> 01:02:40,200
+Se c'è bisogno di aggiornare un tag, fai una espressione regolare, aggiorni
+
+944
+01:02:40,200 --> 01:02:42,120
+tutto quanto e via discorrendo.
+
+945
+01:02:42,120 --> 01:02:46,200
+E da questo punto di vista Liber Italia ha fatto una battaglia
+
+946
+01:02:46,200 --> 01:02:47,080
+pazzesca.
+
+947
+01:02:47,080 --> 01:02:51,000
+Ci sono delle cose che so dietro le quinte, non si possono
+
+948
+01:02:51,000 --> 01:02:54,920
+dire se non fino a un certo punto, perché si entra poi
+
+949
+01:02:54,920 --> 01:03:01,240
+in episodi di minacce alle persone, insomma, cose poco simpatiche che riguardano
+
+950
+01:03:01,240 --> 01:03:08,120
+il momento in cui doveva essere definito standard per forza anche il
+
+951
+01:03:08,120 --> 01:03:13,640
+formato XML di Office e non solo il formato Open Document.
+
+952
+01:03:13,640 --> 01:03:14,200
+Perché?
+
+953
+01:03:14,200 --> 01:03:20,160
+Perché questo significava mantenere il controllo su una base di utenza, convinta,
+
+954
+01:03:20,160 --> 01:03:24,800
+tuttora che per scambiarsi la lettera del condominio bisogna scambiarsi un punto
+
+955
+01:03:24,800 --> 01:03:29,440
+doc, e che l'unico modo per aprire un punto d'oc sia avere
+
+956
+01:03:29,440 --> 01:03:31,200
+una copia di Word.
+
+957
+01:03:33,040 --> 01:03:37,760
+Questo è un problema di cui ancora ci dobbiamo liberare, ci arriveremo,
+
+958
+01:03:37,760 --> 01:03:39,440
+ma non ci vuole tanto tempo.
+
+959
+01:03:39,440 --> 01:03:41,520
+Iscrivetevi tutti a Liber Italia.
+
+960
+01:03:41,520 --> 01:03:44,000
+Sicuramente dovete passare dal blog.
+
+961
+01:03:44,240 --> 01:03:46,480
+Non hai detto l'indirizzo del tuo blog?
+
+962
+01:03:46,480 --> 01:03:51,680
+Oh, va bene, il mio blog è macintelligence.org.
+
+963
+01:03:51,680 --> 01:03:53,200
+Ma non ti possiamo trovare solo lì?
+
+964
+01:03:53,200 --> 01:03:54,400
+Dove ti troviamo ancora?
+
+965
+01:03:55,040 --> 01:04:00,640
+Diciamo, sono su tutti i social, però l'unico social che frequenti a
+
+966
+01:04:00,640 --> 01:04:06,080
+livello di interesse è Twitter, dove sono Logs L-O-O-X.
+
+967
+01:04:06,080 --> 01:04:09,760
+Poi ci sono anche su Facebook, ci sono anche su LinkedIn, anche
+
+968
+01:04:09,760 --> 01:04:15,360
+su Instagram per questioni di lavoro, però tendenzialmente lì tutta al più
+
+969
+01:04:15,440 --> 01:04:18,000
+rispondo a qualche amico, faccio qualche cosa.
+
+970
+01:04:18,000 --> 01:04:23,760
+Sono una persona poco attiva sui social, mentre invece se ricevo
+
+971
+01:04:24,960 --> 01:04:31,840
+un direct message su Twitter rispondo: come voi ben sapete, ho un
+
+972
+01:04:31,840 --> 01:04:38,000
+canale Slack che si chiama go del punto.com goedel.
+
+973
+01:04:39,280 --> 01:04:39,840
+com.
+
+974
+01:04:40,080 --> 01:04:41,520
+Chiaramente invito.
+
+975
+01:04:41,760 --> 01:04:48,240
+Mandatemi una mail, vi invito, ci ritrovate Roberto, ci ritrovate un po'
+
+976
+01:04:48,240 --> 01:04:51,680
+di gente che sta ascoltando su YouTube.
+
+977
+01:04:51,680 --> 01:04:56,080
+Ci si trova un po' da amici, un bell'ambito di strada e
+
+978
+01:04:56,080 --> 01:04:59,880
+sono molto fiero del fatto che è un ambiente a moderazione zero,
+
+979
+01:04:59,600 --> 01:05:02,600
+nel senso che tutte le persone che ci sono sono splendide.
+
+980
+01:05:02,840 --> 01:05:09,480
+Si chiacchiera di tutto senza problemi, il rapporto segnale rumore è altissimo
+
+981
+01:05:10,120 --> 01:05:14,600
+e è piacevole perché poi ci si fanno anche delle buone risate
+
+982
+01:05:14,760 --> 01:05:15,560
+in compagnia.
+
+983
+01:05:16,040 --> 01:05:19,640
+È un ambiente molto pulito e se ne trovano mai più pochi.
+
+984
+01:05:19,640 --> 01:05:22,440
+È davvero un bell'ambiente se volete unirvi.
+
+985
+01:05:22,440 --> 01:05:27,160
+Insomma, parlate con Lux, che diciamo è il padrone di casa.
+
+986
+01:05:27,160 --> 01:05:31,560
+Basta basta un commento nel blog, insomma, quello che si vuole, se
+
+987
+01:05:31,560 --> 01:05:38,120
+no, come posta elettronica, io sono Lux chiocciolaMac.com che è l'indirizzo più
+
+988
+01:05:38,120 --> 01:05:43,080
+breve che sia riuscito ad avere negli ultimi anni, bellissimo tra l'altro.
+
+989
+01:05:43,080 --> 01:05:48,040
+Visto che andiamo verso la chiusura della puntata, la chicca che Filippo
+
+990
+01:05:48,200 --> 01:05:52,680
+era così ansioso di sapere, perché io a questo punto potrei anche
+
+991
+01:05:52,680 --> 01:05:53,640
+togliermi le cuffie.
+
+992
+01:05:53,640 --> 01:05:56,680
+Perché è una cosa che proprio è una cosa che non è
+
+993
+01:05:56,680 --> 01:06:00,120
+nelle mie corde, ma invece Filippo, è già lì che freme e
+
+994
+01:06:00,120 --> 01:06:02,040
+lo vedo saltellare sulla sedia.
+
+995
+01:06:02,040 --> 01:06:03,400
+Parlaci di BB Edit.
+
+996
+01:06:04,280 --> 01:06:08,120
+Accidenti, Bib Edit è l'acqua per gli affamati.
+
+997
+01:06:08,120 --> 01:06:09,400
+No, aspetta, ho sbagliato.
+
+998
+01:06:09,400 --> 01:06:17,080
+BB Edit, diciamolo seriamente, è un editor di testo potentissimo, con funzioni,
+
+999
+01:06:17,080 --> 01:06:23,320
+evidentemente di trattamento del testo, e poi orientato alla programmazione e allo
+
+1000
+01:06:23,320 --> 01:06:25,720
+sviluppo di HTML.
+
+1001
+01:06:25,720 --> 01:06:31,080
+Torno dopo su questa composizione di funzioni perché è importante.
+
+1002
+01:06:31,080 --> 01:06:35,000
+Quali sono i primi ingredienti che mi fanno amare Bibbi Edit da
+
+1003
+01:06:35,240 --> 01:06:35,560
+sempre?
+
+1004
+01:06:35,560 --> 01:06:39,960
+Intanto, che Mac da sempre, Bib Edit è nato negli anni 90
+
+1005
+01:06:40,200 --> 01:06:43,760
+e si è subito distinto perché era l'unico editor ai tempi dei
+
+1006
+01:06:43,240 --> 01:06:47,440
+tempi dei tempi, dei tempi dei tempi, che riusciva a trattare più
+
+1007
+01:06:44,920 --> 01:06:49,280
+di 32k di testo.
+
+1008
+01:06:49,680 --> 01:06:54,160
+Tutti gli altri, per via delle limitazioni del sistema operativo, si dovevano
+
+1009
+01:06:54,160 --> 01:06:54,960
+fermare lì.
+
+1010
+01:06:54,960 --> 01:07:00,000
+E invece già certi programmatori, certi amministratori di sistema avevano bisogno di
+
+1011
+01:07:00,000 --> 01:07:01,040
+superare quel limite.
+
+1012
+01:07:01,040 --> 01:07:07,600
+Oggi BB Edit apre file grandi gigabyte di testo, e non scherzo,
+
+1013
+01:07:07,920 --> 01:07:14,240
+e lo fa tranquillamente, non tutti gli altri editor ci riescono.
+
+1014
+01:07:14,240 --> 01:07:20,320
+BB Edit è totalmente personalizzabile a livello di scorciatoia di tastiera.
+
+1015
+01:07:20,320 --> 01:07:25,360
+Puoi decidere tutti i menu che vuoi che compaiano, quelli che vuoi
+
+1016
+01:07:25,360 --> 01:07:31,200
+che non compaiano, a tutti puoi associare scorciatoia di tastiera che preferisci.
+
+1017
+01:07:31,200 --> 01:07:31,920
+Non è che
+
+1018
+01:07:33,360 --> 01:07:37,200
+non ci siano altri editor che fanno questo, BB Edit lo fa
+
+1019
+01:07:37,200 --> 01:07:43,840
+con una semplicità, con una velocità sconvolgenti, dopodiché, ha un ambiente che
+
+1020
+01:07:43,840 --> 01:07:50,000
+si chiama worksheet dove tu puoi lavorare dentro Unix come se fosse
+
+1021
+01:07:50,000 --> 01:07:55,440
+una finestra di terminale, ma sei dentro una finestra di BB Edit.
+
+1022
+01:07:55,440 --> 01:08:00,560
+Quindi tutto quello che tu digiti rimane, tu lasci lì una sessione
+
+1023
+01:08:00,560 --> 01:08:03,040
+salvata come file, la riapri, te la ritrovi.
+
+1024
+01:08:03,040 --> 01:08:09,840
+Dai un comando, quel comando parte, ti puoi salvare RIPT che vuoi
+
+1025
+01:08:09,840 --> 01:08:11,920
+tenerti lì per lavorarci.
+
+1026
+01:08:11,920 --> 01:08:17,280
+C'è tutta questa fase di Unix con cui BB Edit si interfaccia
+
+1027
+01:08:17,280 --> 01:08:18,160
+molto bene.
+
+1028
+01:08:18,160 --> 01:08:20,480
+Poi è estensibile.
+
+1029
+01:08:20,480 --> 01:08:27,600
+Negli anni sono state scritte estensioni per qualunque cosa, da linguaggi specifici
+
+1030
+01:08:27,600 --> 01:08:34,440
+a protocolli specifici, a database, il cavolo, ha dentro la connessione a
+
+1031
+01:08:34,760 --> 01:08:40,040
+server remoti, ha dentro la connessione a subversion, ha dentro la connessione
+
+1032
+01:08:40,040 --> 01:08:41,320
+a Git.
+
+1033
+01:08:41,320 --> 01:08:45,880
+Praticamente tu puoi fare tutto quello che ti serve a livello di
+
+1034
+01:08:45,880 --> 01:08:50,760
+editore di testo, è il mio sogno di Unixista mancato.
+
+1035
+01:08:50,760 --> 01:08:54,680
+Io vorrei che mi partisse la schermata di terminale con dentro Emacs
+
+1036
+01:08:54,680 --> 01:08:56,120
+e faccio tutto.
+
+1037
+01:08:56,440 --> 01:09:01,640
+Sono molto vicino a far partire la schermata con BB Edit e
+
+1038
+01:09:01,640 --> 01:09:04,680
+fare non tutto, ma quasi tutto.
+
+1039
+01:09:04,680 --> 01:09:06,440
+Aggiungo due cose.
+
+1040
+01:09:06,440 --> 01:09:11,320
+La prima è che BB Edit ha un supporto micidiale fantastico: cioè
+
+1041
+01:09:11,400 --> 01:09:16,120
+tu gli scrivi, lo capiscono, ti rispondono, è gente anche simpatica.
+
+1042
+01:09:16,280 --> 01:09:19,160
+Le volte che ho avuto un problema, io ho scritto e mi
+
+1043
+01:09:19,160 --> 01:09:22,040
+hanno risposto e mi hanno risolto il problema.
+
+1044
+01:09:22,040 --> 01:09:27,880
+Questo è accaduto più volte, non una volta, e si fanno realmente
+
+1045
+01:09:28,520 --> 01:09:29,800
+in quattro.
+
+1046
+01:09:29,800 --> 01:09:33,400
+La seconda cosa è il discorso dei componenti, che dicevo prima: perché
+
+1047
+01:09:33,400 --> 01:09:37,720
+un editor di testo, perché fa HTML e perché fa sviluppo di
+
+1048
+01:09:37,720 --> 01:09:38,520
+software.
+
+1049
+01:09:38,520 --> 01:09:41,880
+La mia figura che ha a che fare con il contenuto è
+
+1050
+01:09:41,880 --> 01:09:43,880
+molto ibrida da questo punto di vista.
+
+1051
+01:09:43,880 --> 01:09:49,320
+A me capita tantissimo, per esempio, di scrivere dei testi che sono
+
+1052
+01:09:49,320 --> 01:09:56,600
+HTMLizzati, cioè contengono i tag dell'HTML, ma che non sono documenti HTML
+
+1053
+01:09:56,760 --> 01:10:03,480
+perché non hanno l'intestazione HTML, non hanno tag di chiusura del documento
+
+1054
+01:10:03,720 --> 01:10:04,680
+alla fine.
+
+1055
+01:10:04,680 --> 01:10:08,440
+Sono solo del testo libero con dentro tag HTML.
+
+1056
+01:10:08,440 --> 01:10:13,880
+A me basta nominarli come HTML, BB Edit li maneggia senza problemi,
+
+1057
+01:10:13,880 --> 01:10:18,400
+colora la sintassi, mi fa inserire i tag, controlla le parentesi e
+
+1058
+01:10:18,400 --> 01:10:19,040
+fa tutto.
+
+1059
+01:10:14,920 --> 01:10:22,160
+E quindi da questo punto di vista mi consente.
+
+1060
+01:10:22,400 --> 01:10:27,040
+Io non sono mai né solo uno che scrive, né solo uno
+
+1061
+01:10:27,200 --> 01:10:32,320
+che fa HTML, né solo uno che programma no, però smanetta ogni
+
+1062
+01:10:32,320 --> 01:10:33,680
+tanto ci prova.
+
+1063
+01:10:33,680 --> 01:10:36,640
+Sono saltello sempre tra queste funzioni.
+
+1064
+01:10:36,640 --> 01:10:41,520
+Bibedit non mi costringe mai ad assumere un ruolo preciso e non
+
+1065
+01:10:41,520 --> 01:10:45,760
+mi tratta da programmatore quando io voglio scrivere, non mi tratta da
+
+1066
+01:10:45,760 --> 01:10:48,720
+sviluppatore HTML quando io voglio scrivere.
+
+1067
+01:10:48,880 --> 01:10:52,880
+Se invece voglio fare lo sviluppatore HTML ha dentro una quantità di
+
+1068
+01:10:52,880 --> 01:10:57,760
+comandi spaventosa, perfetta e aggiornatissima.
+
+1069
+01:10:57,760 --> 01:11:01,760
+Gli aggiornamenti di Bibedit, quando ne esce uno, io vado sempre a
+
+1070
+01:11:01,760 --> 01:11:05,520
+vedermi la lista dei cambiamenti, anche se non me ne frega niente
+
+1071
+01:11:05,520 --> 01:11:12,720
+perché sono cose veramente da iperuraneo, ma loro hanno un'attenzione meticolosa verso
+
+1072
+01:11:12,720 --> 01:11:16,560
+tutti gli aspetti del programma.
+
+1073
+01:11:16,560 --> 01:11:23,120
+Detesto le vendite di software con la formula dell'abbonamento, ma tranquillamente quando
+
+1074
+01:11:23,120 --> 01:11:27,280
+esce una nuova versione di Bibed Edit, io pago il mio rinnovo
+
+1075
+01:11:28,240 --> 01:11:33,120
+come se niente fosse a occhi chiusi e con la carta di
+
+1076
+01:11:33,120 --> 01:11:36,560
+credito pronta, non so se hai domande, Filippo,
+
+1077
+01:11:37,600 --> 01:11:42,640
+è quello che ti direi: devo dire che capisco, nel senso che
+
+1078
+01:11:42,880 --> 01:11:48,400
+appunto dare ormai utente Vim a tutte le cose che mi piacciono,
+
+1079
+01:11:48,400 --> 01:11:53,040
+tra virgolette, di Vim, perché appunto è spandibile, lo puoi personalizzare come
+
+1080
+01:11:53,040 --> 01:11:53,760
+vuoi.
+
+1081
+01:11:54,000 --> 01:11:56,400
+Tutte queste cose, infatti, capisco.
+
+1082
+01:11:56,400 --> 01:12:00,440
+Devo dire la verità, anche lì edit, ma sempre: finché non ho
+
+1083
+01:12:00,440 --> 01:12:05,640
+avuto questo flusso di lavoro, diciamo, unitario, chiamiamolo così, cioè tra divertimento
+
+1084
+01:12:05,640 --> 01:12:08,680
+e lavoro, mettiamola in questi termini.
+
+1085
+01:12:09,000 --> 01:12:14,280
+Non ho mai approcciato il tax editor per motivi evidenti, mi toccava
+
+1086
+01:12:14,280 --> 01:12:19,960
+scrivere o in Word o in LibreOffice, avendo unificato le fasi, diciamo,
+
+1087
+01:12:20,680 --> 01:12:23,800
+mi rendo conto di cosa vuol dire avere un text editor che
+
+1088
+01:12:23,800 --> 01:12:28,600
+fa quello che vuoi tu, come lo vuoi tu, che puoi personalizzare
+
+1089
+01:12:29,240 --> 01:12:34,040
+come meglio credi, e appunto avere il terminale, per esempio, all'interno o
+
+1090
+01:12:34,040 --> 01:12:38,360
+poter mandare dei comandi terminale mentre stai lavorando, non ti accorgi di
+
+1091
+01:12:38,360 --> 01:12:44,280
+avere queste necessità finché non hai queste necessità, ma molto spesso mi
+
+1092
+01:12:44,280 --> 01:12:46,840
+ritrovo in situazioni in cui dico: ma non è che posso fare
+
+1093
+01:12:46,840 --> 01:12:51,560
+questa cosa con Bibedit, sempre viene fuori che posso o potrei.
+
+1094
+01:12:52,040 --> 01:12:56,120
+A volte non sono in grado di gestirne la complessità, ma quasi
+
+1095
+01:12:56,120 --> 01:12:56,920
+sempre si può.
+
+1096
+01:12:56,920 --> 01:13:00,120
+Tra l'altro, una cosa che adoro di Bibedit, ecco che non avevo
+
+1097
+01:13:00,120 --> 01:13:05,400
+detto: è il suo trattamento delle espressioni regolari per fare ricerca e
+
+1098
+01:13:05,400 --> 01:13:09,160
+sostituzione su blocchi di testo, non in funzione di quello che c'è
+
+1099
+01:13:09,160 --> 01:13:12,360
+scritto, ma in funzione di come sono composti.
+
+1100
+01:13:12,360 --> 01:13:15,640
+Per cui io posso dire: tipo: non so, devo cambiare delle date
+
+1101
+01:13:16,840 --> 01:13:23,960
+, e con un'espressione regolare posso dire a Bibedit: trovami tutti i gruppi
+
+1102
+01:13:23,960 --> 01:13:28,360
+di numeri lunghi quattro cifre dove la seconda cifra è una zero,
+
+1103
+01:13:28,360 --> 01:13:32,920
+e cambia in modo che, non so, la terza cifra diventi quattro.
+
+1104
+01:13:32,920 --> 01:13:35,720
+Non so se sono riuscito a spiegarmi queste cose.
+
+1105
+01:13:35,960 --> 01:13:40,520
+Io capisco perché le espressioni regolari sono diventate anche lì un po'
+
+1106
+01:13:40,600 --> 01:13:44,120
+il pane della mia vita, nel senso che appunto ti permettono poi
+
+1107
+01:13:44,120 --> 01:13:47,360
+di fare tutta una serie di automazioni che in altre maniere è
+
+1108
+01:13:44,840 --> 01:13:48,000
+impossibile.
+
+1109
+01:13:48,240 --> 01:13:53,440
+Ammetto che sono abbastanza complicate da raccontare perché sono matematici.
+
+1110
+01:13:53,680 --> 01:13:55,200
+L'idea di fondo è matematica.
+
+1111
+01:13:55,200 --> 01:13:59,520
+Cioè, nel senso, tu devi trovare un modello e quindi devi descrivere
+
+1112
+01:13:59,520 --> 01:14:00,400
+un modello
+
+1113
+01:14:01,840 --> 01:14:07,440
+facciamo l'esempio dell'email, che forse è più semplice, cioè nome, chiocciola, il
+
+1114
+01:14:07,440 --> 01:14:08,000
+dominio.
+
+1115
+01:14:08,720 --> 01:14:10,720
+T, come quello che è.
+
+1116
+01:14:10,720 --> 01:14:14,960
+È un partner, cioè un modello che meno male puoi descrivere appunto
+
+1117
+01:14:15,040 --> 01:14:16,480
+con un'espressione regolare.
+
+1118
+01:14:16,480 --> 01:14:21,760
+L'espressione regolare è tutto forché chiara, però come io abitualmente lavoro con
+
+1119
+01:14:21,920 --> 01:14:25,680
+la cheat cheat di fianco e dico mi serve questo, mi serve
+
+1120
+01:14:25,680 --> 01:14:31,200
+quello e faccio questo carica di il manuale di Bibedit perché la
+
+1121
+01:14:31,200 --> 01:14:36,240
+sezione sulle espressioni regolari è favolosa.
+
+1122
+01:14:36,320 --> 01:14:41,440
+Poi, come non è, siccome ci sono delle variazioni dei dialetti, non
+
+1123
+01:14:41,440 --> 01:14:46,400
+è detto che tutto corrisponda esattamente al 100%, lo so, però il
+
+1124
+01:14:46,400 --> 01:14:49,200
+manuale di Bib Edit è bellissimo in sé.
+
+1125
+01:14:49,200 --> 01:14:51,760
+La parte sulle espressioni regolari è fantastica.
+
+1126
+01:14:51,760 --> 01:14:53,440
+Non tutti sanno che
+
+1127
+01:14:55,360 --> 01:14:59,280
+parte della documentazione di Bibb Edit originale è stata scritta a suo
+
+1128
+01:14:59,280 --> 01:15:04,800
+tempo da John Gruber, che è uno dei blogger principali di Apple
+
+1129
+01:15:04,880 --> 01:15:07,760
+che oggi scrive su Darin Farb.
+
+1130
+01:15:08,000 --> 01:15:13,520
+E non tutti sanno che nel bout di Bibb Edit scorrono i
+
+1131
+01:15:13,520 --> 01:15:22,480
+ringraziamenti, e se tu hai pagato il programma, nei ringraziamenti, a qualche
+
+1132
+01:15:22,480 --> 01:15:25,160
+titolo non sempre giustificato, viene fuori sempre.
+
+1133
+01:15:25,160 --> 01:15:26,000
+Comunque il tuo nome.
+
+1134
+01:15:26,000 --> 01:15:30,280
+Uno si sente parte del team, anche se non è messo un
+
+1135
+01:15:30,280 --> 01:15:33,560
+dito per contribuire a Bibedit,
+
+1136
+01:15:36,600 --> 01:15:40,840
+tra l'altro, giusto perché John Gruber è anche quello che ha creato,
+
+1137
+01:15:40,840 --> 01:15:44,600
+assieme, non mi ricordo mai il suo nome, il Markdown.
+
+1138
+01:15:44,600 --> 01:15:48,200
+Quindi, comunque dal mio punto di vista, è un mito a prescindere.
+
+1139
+01:15:48,280 --> 01:15:53,240
+No, io scritto il mio blog è scritto ovviamente in Markdown, ovunque
+
+1140
+01:15:53,240 --> 01:15:54,680
+posso, lo uso.
+
+1141
+01:15:54,680 --> 01:15:58,520
+Markdown vorrei portarlo nelle scuole, anche qui è una battaglia persa!
+
+1142
+01:15:58,520 --> 01:16:05,880
+Ma mi piace combatterla perché è la cosa più semplice del mondo.
+
+1143
+01:16:06,200 --> 01:16:08,120
+E insomma,
+
+1144
+01:16:09,240 --> 01:16:13,560
+meriterebbe più attenzione anche fuori dal mondo tecnico.
+
+1145
+01:16:13,560 --> 01:16:17,960
+Purtroppo fuori dal mondo tecnico sembra che l'unico modo possibile di avere
+
+1146
+01:16:17,960 --> 01:16:23,160
+dei documenti di testo, sia appunto avere dei documenti office, che è
+
+1147
+01:16:23,160 --> 01:16:25,960
+un controsenso, lentamente cambierà.
+
+1148
+01:16:27,080 --> 01:16:32,680
+Purtroppo siamo tutti genitori e tutti conosciamo la DAD e tutti conosciamo
+
+1149
+01:16:32,680 --> 01:16:36,760
+cosa vuol dire la DAD e come è stata gestita brillantemente.
+
+1150
+01:16:36,760 --> 01:16:42,040
+Poi io capisco diciamo che giustamente c'erano mille problemi, e anche il
+
+1151
+01:16:42,040 --> 01:16:47,240
+problema solo ragionare a qualcosa di diverso dal binario già tracciato da
+
+1152
+01:16:47,240 --> 01:16:49,720
+milioni di anni è difficile.
+
+1153
+01:16:49,720 --> 01:16:55,880
+Però ammetto che appunto con un po' di buona volontà, forse mio
+
+1154
+01:16:55,880 --> 01:17:00,760
+figlio mi fa sempre ridere perché ovviamente lavorano su Windows, cioè quel
+
+1155
+01:17:00,760 --> 01:17:04,800
+poco di informatica, è una parola grossa: il poco di informatica, cioè,
+
+1156
+01:17:04,800 --> 01:17:07,480
+la prima cosa che gli hanno fatto fare è usare Paint.
+
+1157
+01:17:08,120 --> 01:17:09,960
+Mi fa, ma tu non ce l'hai, Paint?
+
+1158
+01:17:11,320 --> 01:17:18,800
+Io ho vissuto un'esperienza in inizio, lockdown interessante perché frequentavo per ragioni
+
+1159
+01:17:18,800 --> 01:17:27,520
+varie, un portale di insegnanti abbastanza frequentato, con 10.000 iscritti, tipo insomma,
+
+1160
+01:17:27,520 --> 01:17:34,320
+una cosa abbastanza grossa, che pubblica costantemente una certa moda di articoli.
+
+1161
+01:17:34,320 --> 01:17:38,960
+A un certo punto ho fatto una ricerca dentro il motore di
+
+1162
+01:17:38,960 --> 01:17:43,360
+questo portale e ho cercato le parole didattica a distanza in tutti
+
+1163
+01:17:43,360 --> 01:17:48,160
+gli articoli scritti prima del 2020 e ne sono venuti fuori, non
+
+1164
+01:17:48,160 --> 01:17:49,120
+so, sette.
+
+1165
+01:17:49,120 --> 01:17:54,000
+Ho cercato didattica a distanza in tutti gli articoli scritti dopo il
+
+1166
+01:17:54,000 --> 01:17:57,280
+2020 ed erano diventati centinaia.
+
+1167
+01:17:57,280 --> 01:18:02,000
+E mi sono chiesto: ma che insegnanti sono quelli che non si
+
+1168
+01:18:02,000 --> 01:18:08,720
+sono mai premurati di capire, di interessarsi, di sapere come si insegna
+
+1169
+01:18:08,720 --> 01:18:11,600
+a distanza, anche se non devi farlo domani.
+
+1170
+01:18:11,600 --> 01:18:17,360
+Ma insegnare dovrebbe fare parte del tuo corredo, eppure nessuno se ne
+
+1171
+01:18:17,360 --> 01:18:22,960
+occupava improvvisamente è emersa la necessità e tutti hanno cominciato a occuparsene
+
+1172
+01:18:23,200 --> 01:18:26,640
+per dire che bisognava tornare alla presenza e grazie.
+
+1173
+01:18:26,640 --> 01:18:30,000
+Fate in modo di sistemate le scuole in modo che si possa.
+
+1174
+01:18:30,000 --> 01:18:34,080
+Non so, chiedo scusa: sto entrando in politica non dovevo, mi rendo
+
+1175
+01:18:34,080 --> 01:18:34,560
+conto.
+
+1176
+01:18:35,280 --> 01:18:40,000
+Qui fondi, una porta aperta, come si suol dire, perché purtroppo ho
+
+1177
+01:18:40,000 --> 01:18:45,600
+lottato, ho perso, e quindi ho deciso anch'io che non si poteva
+
+1178
+01:18:45,600 --> 01:18:47,680
+fare altrimenti, come si suol dire.
+
+1179
+01:18:47,680 --> 01:18:51,600
+Credo per chi, diciamo, un po' bazzica nella tecnologia,
+
+1180
+01:18:53,600 --> 01:18:58,720
+nel periodo brutto, diciamo, doversi interfacciare con gli insegnanti, con alcuni insegnanti,
+
+1181
+01:18:58,880 --> 01:19:01,560
+poi io sono il primo a dire: per esempio, alla maestra di
+
+1182
+01:19:01,560 --> 01:19:05,160
+mio figlio a me faceva sorridere quando vedevo.
+
+1183
+01:19:05,480 --> 01:19:10,600
+Mio figlio era in prima elementare nei tre mesi di lockdown, diciamo,
+
+1184
+01:19:10,920 --> 01:19:16,600
+e ci mandavi video e nei video c'era bellissimo perché c'era ovviamente
+
+1185
+01:19:16,600 --> 01:19:18,280
+nella barra Windows.
+
+1186
+01:19:18,920 --> 01:19:20,840
+Sotto si vedeva l'icona di Minecraft.
+
+1187
+01:19:20,840 --> 01:19:23,720
+Quindi tu capivi immediatamente che il computer non era suo
+
+1188
+01:19:25,880 --> 01:19:29,640
+e la cosa più divertente era che faceva questi video con ovviamente
+
+1189
+01:19:29,640 --> 01:19:33,720
+dei programmi gratuiti, o meglio, quelli a pagamento, che però ti limitano
+
+1190
+01:19:33,720 --> 01:19:36,680
+un tot di minuti la registrazione.
+
+1191
+01:19:36,680 --> 01:19:38,760
+Quindi ogni tanto avevi il taglio secco
+
+1192
+01:19:40,680 --> 01:19:43,480
+, oltre i cinque minuti, avevi il taglio secco.
+
+1193
+01:19:43,480 --> 01:19:49,480
+Invece, io guardavo gli sfondi degli insegnanti perché questa gente che si
+
+1194
+01:19:49,480 --> 01:19:58,360
+collegava dallo sgabuzzino, dagli scalini di chissà che parte della stanza, dalla
+
+1195
+01:19:58,360 --> 01:20:05,160
+cucina con vista l'avello sotto il frigorifero, con il gatto.
+
+1196
+01:20:05,160 --> 01:20:11,960
+Insomma, veramente gente all'insegna della buona volontà per carità, ma di una
+
+1197
+01:20:11,960 --> 01:20:16,280
+improvvisazione totale, è un po' discutibile.
+
+1198
+01:20:17,160 --> 01:20:17,640
+Molti non
+
+1199
+01:20:18,680 --> 01:20:20,360
+avevano neanche il computer.
+
+1200
+01:20:20,680 --> 01:20:26,600
+Io ammetto che compagni di mio figlio ho col cellulare.
+
+1201
+01:20:26,600 --> 01:20:31,640
+Io ho fatto lezione all'università di Milano da remoto, ovviamente, in quel
+
+1202
+01:20:31,640 --> 01:20:36,760
+periodo lì, e mi è stato detto non preparare cose strane, perché,
+
+1203
+01:20:36,760 --> 01:20:41,640
+comunque ci sono studenti che legittimamente hanno solo come l'unico strumento che
+
+1204
+01:20:41,640 --> 01:20:46,000
+hanno a mano è un cellulare e quindi, ovviamente, fare le slide
+
+1205
+01:20:46,000 --> 01:20:50,240
+su non so quanto testo diventa praticamente impossibile.
+
+1206
+01:20:50,560 --> 01:20:56,960
+Ho parlato di recente: non offendetevi, vi prego, a un'assemblea di animatori
+
+1207
+01:20:57,120 --> 01:21:03,680
+di un oratorio estivo sulle questioni della rete dei social, eccetera, eccetera,
+
+1208
+01:21:03,680 --> 01:21:08,400
+e sapendo che erano tutti ragazzi sostanzialmente adolescenti e tutti con un
+
+1209
+01:21:08,400 --> 01:21:13,120
+cellulare, invece che portare una presentazione, ho fatto una serie di
+
+1210
+01:21:14,240 --> 01:21:20,160
+sondaggi con Google Form facendomi dare degli input che poi servivano solo
+
+1211
+01:21:20,160 --> 01:21:25,120
+come pretesti per sviluppare una serie di argomenti che andavano trattati e
+
+1212
+01:21:25,120 --> 01:21:27,360
+questi si sono divertiti come pazzi.
+
+1213
+01:21:27,360 --> 01:21:32,640
+Naturalmente, avevano solo il cellulare, non sempre si può fare così ovunque,
+
+1214
+01:21:32,960 --> 01:21:38,800
+la scuola è un ambiente complesso però tanti problemi della didattica a
+
+1215
+01:21:38,800 --> 01:21:44,080
+distanza li abbiamo avuti perché non c'è nessuna idea di come usare
+
+1216
+01:21:44,320 --> 01:21:50,080
+gli strumenti, perché l'idea che si dovesse fare la lezione frontale con
+
+1217
+01:21:50,080 --> 01:21:56,800
+l'insegnante davanti alla telecamera, già doveva essere visto come progresso è spaventosa,
+
+1218
+01:21:57,280 --> 01:21:59,280
+è un'altra cosa, la didattica a distanza.
+
+1219
+01:21:59,360 --> 01:22:04,720
+Certo, nel suo complesso, questa pandemia ci ha messo di fronte a
+
+1220
+01:22:04,720 --> 01:22:10,640
+una scuola che non è avanzata, nel senso che la cosa più
+
+1221
+01:22:10,640 --> 01:22:14,640
+tecnologica che hanno avuto fino a qualche anno fa era la Lim
+
+1222
+01:22:14,880 --> 01:22:18,720
+e non sempre utilizzata, tra le altre cose, e utilizzata delle volte
+
+1223
+01:22:18,720 --> 01:22:26,000
+anche male, ma si è visto proprio quasi un approccio che definire
+
+1224
+01:22:26,080 --> 01:22:32,280
+dilettantistico un complimento verso l'informatica ed è un vero peccato perché da
+
+1225
+01:22:29,600 --> 01:22:34,520
+lì passa il futuro dei nostri ragazzi.
+
+1226
+01:22:34,680 --> 01:22:41,080
+Io chiudo, diciamo, vorrei chiudere la puntata con questa cosa che secondo
+
+1227
+01:22:41,080 --> 01:22:43,720
+me ci riporta all'inizio ed è molto interessante.
+
+1228
+01:22:43,720 --> 01:22:50,120
+Mi avete dato una palla incredibile, il fatto che mia figlia fa
+
+1229
+01:22:50,280 --> 01:22:56,520
+informatica alle medie, però ha affrontato i due anni di pandemia tra
+
+1230
+01:22:56,520 --> 01:23:01,320
+una cosa e l'altra, sempre col suo iPad e mi ha detto:
+
+1231
+01:23:01,320 --> 01:23:05,240
+testualmente, ha detto: a me il computer non piace perché è difficile.
+
+1232
+01:23:05,560 --> 01:23:10,520
+Invece, l'iPad è il suo strumento principe per creare qualsiasi cosa, e
+
+1233
+01:23:10,520 --> 01:23:15,960
+direi che con questo torniamo direttamente all'inizio e abbiamo chiuso il cerchio
+
+1234
+01:23:15,960 --> 01:23:17,240
+in modo fantastico.
+
+1235
+01:23:17,240 --> 01:23:20,200
+Ma bianca avanti, io l'ho sempre detto.
+
+1236
+01:23:20,680 --> 01:23:24,680
+Se quello spot di Apple, WhatsApp
+
+1237
+01:23:25,800 --> 01:23:29,720
+esatto, lei è proprio quella, è proprio quella.
+
+1238
+01:23:29,880 --> 01:23:31,480
+Non me lo aspettavo,
+
+1239
+01:23:33,080 --> 01:23:36,360
+sì, loro hanno capito, hanno assolutamente capito bene.
+
+1240
+01:23:36,520 --> 01:23:42,440
+E soprattutto sono, secondo me, l'iPad è quello strumento smart che gli
+
+1241
+01:23:42,440 --> 01:23:49,720
+permette di esprimersi probabilmente più di un computer e più potente di
+
+1242
+01:23:49,720 --> 01:23:53,160
+uno smartphone, ma è più vicino a uno smartphone come facilità di
+
+1243
+01:23:53,160 --> 01:23:53,800
+uso
+
+1244
+01:23:55,400 --> 01:23:55,720
+.
+
+1245
+01:23:56,600 --> 01:23:59,640
+Assolutamente vero bene direi, Lucio.
+
+1246
+01:23:59,640 --> 01:24:02,040
+Che abbiamo fatto la bellezza di due ore.
+
+1247
+01:24:02,040 --> 01:24:06,760
+Io ho registrato, abbiamo fatto una bellissima chiacchierata, so come ringraziarti per
+
+1248
+01:24:06,760 --> 01:24:08,040
+il tempo che ci hai dedicato.
+
+1249
+01:24:08,040 --> 01:24:10,520
+È stato tutto interessantissimo.
+
+1250
+01:24:10,520 --> 01:24:13,400
+Me ne sono accorto adesso di quando parlavo di Bianca.
+
+1251
+01:24:13,400 --> 01:24:16,160
+Che ora era, perché ha detto chissà che ore sono guardato loro,
+
+1252
+01:24:14,840 --> 01:24:19,680
+ho detto: Mamma mia, Abbia, sono andati.
+
+1253
+01:24:20,000 --> 01:24:23,760
+Il pocherino ci vorrebbe, ma abbiamo il pocherino col morto.
+
+1254
+01:24:23,760 --> 01:24:24,800
+Siamo in tre.
+
+1255
+01:24:25,600 --> 01:24:29,520
+Ci vuole qualcuno che ci aiuti in questo senso, pocherino.
+
+1256
+01:24:32,080 --> 01:24:34,720
+Lucio, davvero, un'ottima puntata!
+
+1257
+01:24:34,720 --> 01:24:38,480
+Grazie per averci donato i tieri che sono stati tutti interessantissimi dal
+
+1258
+01:24:38,480 --> 01:24:39,440
+primo all'ultimo.
+
+1259
+01:24:39,440 --> 01:24:43,040
+Argomenti che io spero ne parlerò con Filippo.
+
+1260
+01:24:43,040 --> 01:24:44,240
+Poi in separata sede.
+
+1261
+01:24:44,240 --> 01:24:47,840
+Spero di riuscire di nuovo a avere la fortuna di averti di
+
+1262
+01:24:47,840 --> 01:24:52,000
+nuovo tra di noi al microfono per chiederti tante altre cose che
+
+1263
+01:24:52,000 --> 01:24:54,640
+non abbiamo ancora trattato in questa puntata.
+
+1264
+01:24:54,640 --> 01:24:58,400
+Pensate un po', non abbiamo ancora chiuso gli argomenti, c'è un sacco
+
+1265
+01:24:58,400 --> 01:25:03,120
+di cose di cui parlare avere la possibilità di ascoltare una persona
+
+1266
+01:25:03,280 --> 01:25:08,560
+dell'esperienza, della statura morale come luce, insomma, è qualcosa che non capita
+
+1267
+01:25:08,560 --> 01:25:12,800
+tutti i giorni, e avere la possibilità di donarvelo a voi, ascoltatori,
+
+1268
+01:25:12,800 --> 01:25:14,720
+per noi è motivo di vanto.
+
+1269
+01:25:14,960 --> 01:25:17,600
+Penso di parlare a nome anche di Filippo.
+
+1270
+01:25:17,600 --> 01:25:20,480
+Io a questo punto, Filippo, non avrei altre domande da fare.
+
+1271
+01:25:20,480 --> 01:25:24,000
+Se vuoi fare altre domande, tu, oppure dire qualcos'altro?
+
+1272
+01:25:24,000 --> 01:25:27,600
+No, no, direi che direi che abbiamo.
+
+1273
+01:25:27,600 --> 01:25:31,440
+Secondo me, tagliando qua e là, arriviamo almeno all'ora e mezza, alle
+
+1274
+01:25:31,760 --> 01:25:35,920
+40, quindi direi che la puntata più interessante è il volume di
+
+1275
+01:25:35,920 --> 01:25:37,200
+sempre.
+
+1276
+01:25:37,200 --> 01:25:40,080
+Dai, è stato molto bello, molto divertente.
+
+1277
+01:25:40,080 --> 01:25:44,640
+Vi ringrazio tanto perché mi sono divertito e mi sono sentito proprio
+
+1278
+01:25:44,640 --> 01:25:47,920
+a casa, pur essendo a casa, ma a casa in un altro
+
+1279
+01:25:47,920 --> 01:25:48,400
+senso.
+
+1280
+01:25:48,400 --> 01:25:53,120
+Se volete, quando volete, ho ancora, essendo anziano, un sacco di robe
+
+1281
+01:25:53,120 --> 01:25:54,240
+da raccontare.
+
+1282
+01:25:54,240 --> 01:25:55,440
+Perfetto, perfetto.
+
+1283
+01:25:56,240 --> 01:25:58,080
+Noi ti prendiamo, sappilo?
+
+1284
+01:25:58,400 --> 01:26:00,200
+Ti sei fregato da solo?
+
+1285
+01:25:59,840 --> 01:26:02,600
+Qui ti sei fregato con le tue mani.
+
+1286
+01:26:02,760 --> 01:26:08,360
+Abbiamo la registrazione, e adesso avremo la possibilità di chiamarti di nuovo
+
+1287
+01:26:08,360 --> 01:26:09,240
+in puntata,
+
+1288
+01:26:10,280 --> 01:26:12,360
+Zonis.
+
+1289
+01:26:13,640 --> 01:26:16,680
+Niente, tutto registrato, ormai è andata.
+
+1290
+01:26:17,960 --> 01:26:19,640
+E questa non la taglio.
+
+1291
+01:26:20,120 --> 01:26:23,640
+Ovviamente, no, assolutamente che lo sappiano tutti che adesso.
+
+1292
+01:26:23,640 --> 01:26:28,440
+Luci è obbligata a venire in puntata molto volentieri, ragazzi, è stato
+
+1293
+01:26:28,440 --> 01:26:31,960
+proprio divertente e vi ringrazio tantissimo.
+
+1294
+01:26:32,120 --> 01:26:36,440
+Saluto tutti, ovviamente, quelli che hanno avuto la pazienza di stare ad
+
+1295
+01:26:36,440 --> 01:26:37,400
+ascoltarci.
+
+1296
+01:26:37,400 --> 01:26:40,920
+Spero che sia stato un tempo bello, valido, divertente anche per loro.
+
+1297
+01:26:41,080 --> 01:26:43,720
+Certo, il piacere è stato tutto nostro e anche per tutti gli
+
+1298
+01:26:43,720 --> 01:26:44,360
+ascoltatori.
+
+1299
+01:26:44,360 --> 01:26:49,160
+Fidati, ne sono assolutamente convinto perché è stato un tempo di qualità,
+
+1300
+01:26:49,160 --> 01:26:50,920
+come si dice da genitori.
+
+1301
+01:26:50,920 --> 01:26:54,200
+Per quanto ci riguarda, invece, trovate tutte le note dell'episodio con i
+
+1302
+01:26:54,200 --> 01:26:57,400
+link degli argomenti che abbiamo trattato in questa puntata e tutti i
+
+1303
+01:26:57,400 --> 01:27:03,240
+nostri riferimenti su addorepodc.it slash numero lo sapremo magari
+
+1304
+01:27:05,880 --> 01:27:08,920
+quando Filippo ce lo dirà, ovvero 38.
+
+1305
+01:27:09,160 --> 01:27:14,840
+Invece dove ci potete trovare noi piccolini, insomma, lui ci abbiamo sentito
+
+1306
+01:27:14,840 --> 01:27:16,520
+i suoi riferimenti.
+
+1307
+01:27:16,520 --> 01:27:21,320
+Per quanto mi riguarda, sono l'autore del blog Mac Architettura che parla
+
+1308
+01:27:21,480 --> 01:27:23,960
+indovinate un po' di Mac e Architettura.
+
+1309
+01:27:23,960 --> 01:27:29,000
+Appunto che potete trovare all'indirizzo markdonnet.wordpress.com.
+
+1310
+01:27:29,000 --> 01:27:34,760
+Ho anche un podcast personale, dedicato al mondo dell'architettura, dell'informatica e alla
+
+1311
+01:27:34,760 --> 01:27:35,800
+loro coevoluzione.
+
+1312
+01:27:35,800 --> 01:27:42,200
+Che potete trovare cercando Snap Architettura Imperfetta in qualsiasi sito che ospita
+
+1313
+01:27:42,200 --> 01:27:45,000
+essenzialmente o che vi fa ascoltare i podcast.
+
+1314
+01:27:45,520 --> 01:27:48,880
+Recentemente, ormai non più tanto recentemente, perché è quasi più di un
+
+1315
+01:27:48,880 --> 01:27:53,760
+anno, scrivo per il blog di Graphisoft Italia dove vi spiego come
+
+1316
+01:27:53,760 --> 01:27:57,360
+utilizzare il beam nella fattispecie Archicad.
+
+1317
+01:27:57,360 --> 01:28:01,840
+Invece, il nostro amico Filippo che continua a aggiungere cose di quello
+
+1318
+01:28:01,840 --> 01:28:05,120
+che fa, ci racconta con le sue parole invece dove lo possiamo
+
+1319
+01:28:05,120 --> 01:28:05,680
+trovare.
+
+1320
+01:28:05,680 --> 01:28:06,800
+Avocate Mac.
+
+1321
+01:28:10,000 --> 01:28:14,640
+C'è anche il podcast che sta uscendo a livello mensile, poi vedremo.
+
+1322
+01:28:14,640 --> 01:28:16,400
+Direi che è un ottimo risultato.
+
+1323
+01:28:16,400 --> 01:28:20,640
+Insomma, adesso sapete dove trovarci tutti noi tre, oltre che qua su
+
+1324
+01:28:20,640 --> 01:28:23,520
+A2 Podcast, ci trovate un po' dappertutto.
+
+1325
+01:28:23,520 --> 01:28:27,520
+Per ora è tutto, ci sentiamo molto probabilmente tra due settimane.
+
+1326
+01:28:27,520 --> 01:28:29,200
+Ciao a tutti, alla prossima!

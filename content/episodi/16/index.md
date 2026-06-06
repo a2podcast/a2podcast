@@ -11,7 +11,7 @@ tags = ["scrittura", "produttivita", "apple", "markdown", "workflow"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "izsKsOEgT74"
 +++
 

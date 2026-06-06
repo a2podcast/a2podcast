@@ -11,14 +11,14 @@ tags = ["intelligenza-artificiale", "apple"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "fJ33GN29PqU"
   guest = "lucio-bragagnolo"
 +++
 
 > In questa puntata Roberto e Filippo assieme a Lucio Bragagnolo parlano di Intelligenza Artificiale o quello che viene passato per essere e del futuro dell’assistente vocale di Apple.
 
-# Note dell’episodio
+## Note dell’episodio
 
 ## L’elefante nella stanza: Chat GPT
 

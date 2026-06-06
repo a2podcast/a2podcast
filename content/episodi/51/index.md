@@ -11,7 +11,7 @@ tags = ["tema-annuale", "produttivita", "planning"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "rc__msv84Ls"
 +++
 

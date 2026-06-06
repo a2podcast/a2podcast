@@ -1,0 +1,3855 @@
+1
+00:00:00,160 --> 00:00:04,960
+Benvenuti all'episodio 26 di A2 in cui scoprire come ottenere il massimo
+
+2
+00:00:04,960 --> 00:00:06,720
+dalla vostra tecnologia Apple.
+
+3
+00:00:06,720 --> 00:00:10,640
+Io sono Filippo Strozzi e sono il vostro ospite, assieme all'amico Roberto
+
+4
+00:00:10,640 --> 00:00:11,280
+Marin.
+
+5
+00:00:11,280 --> 00:00:13,520
+Di cosa parliamo in questo episodio, Roberto?
+
+6
+00:00:13,520 --> 00:00:18,240
+Come promesso nella scorsa puntata, oggi concludiamo l'approfondimento sui calendari.
+
+7
+00:00:18,240 --> 00:00:22,000
+Così evitate di arrivare tardi come fa il sottoscritto, finisce di lavorare
+
+8
+00:00:22,000 --> 00:00:24,960
+alle 8 e mezza, mangia un boccone e poi torna alle 9.40,
+
+9
+00:00:25,120 --> 00:00:26,880
+preciso su due podcast.
+
+10
+00:00:26,880 --> 00:00:30,640
+Oppure riuscite anche un po' a gestirvi meglio la vita invece di
+
+11
+00:00:30,640 --> 00:00:31,760
+fare come faccio io.
+
+12
+00:00:31,760 --> 00:00:35,520
+Quindi vedremo alcune azioni dei comandi rapidi interessanti, tutta una serie di
+
+13
+00:00:35,520 --> 00:00:38,800
+applicazioni che non sono proprio dei calendari, ma che permettono di aiutare
+
+14
+00:00:38,800 --> 00:00:42,080
+a gestire i calendari e gli appuntamenti e essere più pimpanti nella
+
+15
+00:00:42,080 --> 00:00:42,480
+vita.
+
+16
+00:00:42,480 --> 00:00:44,560
+Come potete sostenerci prima di tutto?
+
+17
+00:00:44,560 --> 00:00:48,240
+Prima di tutto ci potete offrire una birra quando ci vedete, mandarci
+
+18
+00:00:48,240 --> 00:00:52,800
+dei regali anche fuori anche dopo Natale, noi li accettiamo comunque.
+
+19
+00:00:52,800 --> 00:00:55,280
+Oppure potete fare anche un versamento.
+
+20
+00:00:55,280 --> 00:01:00,560
+Vi diamo poi in modalità privata gli ban dei rispettivi conduttori.
+
+21
+00:01:00,560 --> 00:01:04,320
+O in alternativa, se non volete spegnere, perché insomma siamo già inizio
+
+22
+00:01:04,320 --> 00:01:07,360
+anno e quindi abbiamo speso tutti i nostri soldi per andare in
+
+23
+00:01:07,360 --> 00:01:11,920
+vacanza e fare regali, potete supportare il podcast facendo una bella recensione
+
+24
+00:01:11,920 --> 00:01:13,200
+su Apple Podcast.
+
+25
+00:01:13,200 --> 00:01:16,480
+Come sapete, queste recensioni ci aiutano a farci vedere di più, a
+
+26
+00:01:16,480 --> 00:01:17,600
+farci ascoltare di più.
+
+27
+00:01:17,600 --> 00:01:20,640
+E se volete sapere come fare una recensione, trovate il link nelle
+
+28
+00:01:20,640 --> 00:01:23,040
+note dell'episodio, che è sempre un di più.
+
+29
+00:01:23,200 --> 00:01:27,920
+Potete scriverci se volete anche solo un più a scrivi.
+
+30
+00:01:30,400 --> 00:01:30,880
+it.
+
+31
+00:01:30,880 --> 00:01:34,720
+Benissimo, direi che a questo punto possiamo andare a scivolare tranquillamente nell'argomento
+
+32
+00:01:34,800 --> 00:01:40,160
+principe di questo podcast che aiuterà tutti quanti i disorganizzati cronici come
+
+33
+00:01:40,160 --> 00:01:42,880
+sono io, che cercano di organizzare il mondo.
+
+34
+00:01:42,880 --> 00:01:47,440
+Ma arriva sempre qualcosa che ti scombussola la vita e ti deve
+
+35
+00:01:47,440 --> 00:01:51,680
+far per forza arrivare a fine orario, intorno alle otto e mezza
+
+36
+00:01:51,840 --> 00:01:52,400
+di sera.
+
+37
+00:01:52,400 --> 00:01:56,320
+Nonostante voi non abbiate fatto una ceppa prima, appunto perché pensavate di
+
+38
+00:01:56,320 --> 00:01:58,880
+essere liberi, ma invece era una falsa speranza.
+
+39
+00:01:58,880 --> 00:02:03,720
+E quindi lasciamo la parola al nostro amico e soprattutto iper organizzato,
+
+40
+00:02:03,720 --> 00:02:09,800
+soprattutto, come si può dire, quasi robotico nella vita perché è praticamente
+
+41
+00:02:09,800 --> 00:02:13,880
+iper organizzato qualsiasi aspetto della sua vita, grazie, appunto, al calendario.
+
+42
+00:02:13,880 --> 00:02:14,760
+Come fai, Filippo?
+
+43
+00:02:14,760 --> 00:02:15,960
+Raccontaci un po'
+
+44
+00:02:17,000 --> 00:02:21,400
+allora, la partenza: siccome la puntata scorsa siamo arrivati un po' lunghi,
+
+45
+00:02:21,400 --> 00:02:23,000
+non ci stava, diciamo, di fare
+
+46
+00:02:24,120 --> 00:02:27,800
+strano, appunto, non ci stava di fare anche i comandi rapidi, ma
+
+47
+00:02:27,800 --> 00:02:31,080
+ci tenevo a mettere un piccolo angoletto comando rapidi.
+
+48
+00:02:31,080 --> 00:02:34,120
+Anzi, Roberto tira fuori l'iPad barra l'iPhone.
+
+49
+00:02:34,120 --> 00:02:36,200
+Che ovviamente partiamo col nostro
+
+50
+00:02:37,400 --> 00:02:38,440
+ecco, bravissimo.
+
+51
+00:02:38,440 --> 00:02:43,320
+Partiamo col nostro primo test per fare una cosa molto carina con
+
+52
+00:02:43,320 --> 00:02:48,520
+comandi rapidi, perché sulla parte di gestione delle date, tra virgolette, cioè
+
+53
+00:02:48,520 --> 00:02:53,160
+di computo delle date, piuttosto che di interazione con i calendari.
+
+54
+00:02:53,160 --> 00:02:57,240
+Ecco, dobbiamo dire la verità: comandi rapidi è molto ben strutturato e
+
+55
+00:02:57,240 --> 00:02:58,680
+ha molte funzioni.
+
+56
+00:02:58,680 --> 00:03:04,040
+Ovviamente oggi non riusciamo a vederle tutte sarebbe folle, ma faremo la
+
+57
+00:03:04,040 --> 00:03:09,080
+solita nostra col comando rapido fatto in casa, sono quattro azioni, quindi
+
+58
+00:03:09,080 --> 00:03:10,760
+non è una roba clamorosa.
+
+59
+00:03:10,760 --> 00:03:14,600
+Non è neanche un'attività clamorosa, nel senso che è diciamo, è uno
+
+60
+00:03:14,600 --> 00:03:15,080
+spunto.
+
+61
+00:03:15,080 --> 00:03:20,600
+Poi per eventualmente darvi idee, darvi modo di sperimentare, approfondire e così
+
+62
+00:03:20,600 --> 00:03:20,920
+via.
+
+63
+00:03:20,920 --> 00:03:23,080
+Quindi, cosa sarà il nostro comando?
+
+64
+00:03:23,240 --> 00:03:24,680
+Il nostro primo comando rapido?
+
+65
+00:03:24,680 --> 00:03:27,160
+Perché ne faremo due comand rapidi.
+
+66
+00:03:27,160 --> 00:03:29,240
+Il primo è abbastanza semplice.
+
+67
+00:03:29,240 --> 00:03:34,840
+Otterremo i prossimi cinque eventi di calendario, possiamo decidere addirittura quale calendario,
+
+68
+00:03:34,840 --> 00:03:37,120
+se abbiamo più calendari di scegliere, ok.
+
+69
+00:03:37,400 --> 00:03:42,600
+A questo punto, i prossimi cinque eventi del calendario, ci verranno proposti
+
+70
+00:03:42,600 --> 00:03:48,240
+in un menu a tendina con l'oggetto del calendario e ovviamente la
+
+71
+00:03:48,240 --> 00:03:48,800
+data.
+
+72
+00:03:48,800 --> 00:03:53,760
+Ne potremo scegliere uno e se volete lanciarvi oltre, tra virgolette, ci
+
+73
+00:03:53,760 --> 00:03:58,320
+sarebbe anche l'opzione, ma non approfondiremo oggi perché probabilmente complicherebbe troppo la
+
+74
+00:03:58,320 --> 00:04:01,840
+vita di fare questa operazione anche per più eventi, diciamo.
+
+75
+00:04:01,840 --> 00:04:04,800
+E poi lo sposteremo avanti di un giorno, o meglio, avanti di
+
+76
+00:04:04,800 --> 00:04:09,520
+una data che decideremo noi contestualmente, quindi nulla di clamoroso.
+
+77
+00:04:09,520 --> 00:04:12,880
+Però, tendenzialmente oggi volevate fare della roba che non siete riusciti a
+
+78
+00:04:12,880 --> 00:04:16,240
+fare perché siete arrivati un po' lunghi, Roberto.
+
+79
+00:04:16,880 --> 00:04:18,720
+E la spostate al giorno dopo.
+
+80
+00:04:19,120 --> 00:04:20,080
+Questa è l'idea.
+
+81
+00:04:20,080 --> 00:04:24,480
+Senza ovviamente dovervi mettere lì, aprire il calendario e con la versione,
+
+82
+00:04:24,480 --> 00:04:29,680
+diciamo, più evoluta, tra virgolette, addirittura potreste spostare più eventi.
+
+83
+00:04:29,680 --> 00:04:33,600
+Quindi, ovviamente spostate in blocco un tot di roba in avanti.
+
+84
+00:04:33,600 --> 00:04:37,760
+Questa è la versione proprio base, si potrebbero fare delle evoluzioni un
+
+85
+00:04:37,760 --> 00:04:43,440
+po' più organizzate, però, ovviamente per motivi di podcast, diciamo, non esageriamo.
+
+86
+00:04:43,920 --> 00:04:45,840
+Sono qua con il mio iPad.
+
+87
+00:04:45,840 --> 00:04:50,080
+Che ti aspetto, vai, allora, come al solito, cosa dovete fare?
+
+88
+00:04:50,720 --> 00:04:55,200
+Dovete aprire, cioè dovete creare, esatto, una nuova, un nuovo comando rapido.
+
+89
+00:04:55,200 --> 00:04:58,320
+Scusatemi, ma io appunto sono abitato a dire shortcut.
+
+90
+00:04:58,480 --> 00:05:00,160
+Quindi ogni tanto mi scappa.
+
+91
+00:05:00,160 --> 00:05:01,280
+Che nome li diamo?
+
+92
+00:05:01,280 --> 00:05:03,280
+E la prima cosa che andremo,
+
+93
+00:05:05,280 --> 00:05:08,080
+aspetta, vediamo come gli ho dato io.
+
+94
+00:05:08,080 --> 00:05:11,360
+Modifica evento, perché poi sono sul evento del calendario.
+
+95
+00:05:11,360 --> 00:05:14,960
+Gli ho dato come modifica evento calendario, è indifferente.
+
+96
+00:05:14,960 --> 00:05:16,800
+Diciamo, lo potete nominare come volete.
+
+97
+00:05:16,800 --> 00:05:20,720
+Mi piace allora, la prima cosa che dovete andare a fare è:
+
+98
+00:05:20,720 --> 00:05:22,240
+aspetta, che adesso cerco di.
+
+99
+00:05:22,400 --> 00:05:23,120
+Cosa sto facendo?
+
+100
+00:05:23,360 --> 00:05:26,080
+Sto cliccando delle robe che non dovevo cliccare perché aver fatto il
+
+101
+00:05:26,080 --> 00:05:26,480
+casino.
+
+102
+00:05:26,880 --> 00:05:27,920
+Prano, strano.
+
+103
+00:05:28,080 --> 00:05:30,760
+Allora, la prima cosa che dobbiamo fare è andare a prendere la
+
+104
+00:05:30,760 --> 00:05:34,840
+prima azione, che è ottieni i prossimi eventi, che è un'azione di
+
+105
+00:05:29,920 --> 00:05:35,480
+calendario.
+
+106
+00:05:36,040 --> 00:05:40,040
+Il suggerimento che vi do è nella finestrella di ricerca dei comandi
+
+107
+00:05:40,040 --> 00:05:44,680
+mettete calendario, così iniziate, vi dovrebbero uscire fuori tutte le azioni collegate
+
+108
+00:05:44,680 --> 00:05:45,480
+al calendario.
+
+109
+00:05:45,480 --> 00:05:48,280
+Stavo cercando di farlo anch'io, ma non riesco a fare tornare dentro
+
+110
+00:05:48,360 --> 00:05:50,440
+la tastiera dell'iPhone.
+
+111
+00:05:50,760 --> 00:05:51,720
+Rilassati, rilassati.
+
+112
+00:05:51,720 --> 00:05:52,680
+Ci penso io, ci penso io.
+
+113
+00:05:52,680 --> 00:05:56,360
+Allora, dunque, andate in alto a destra sul campo di ricerca e
+
+114
+00:05:56,360 --> 00:05:58,120
+scrivete calendario, ok?
+
+115
+00:05:58,280 --> 00:06:03,720
+A questo punto il primo risultato dovrebbe essere dovrebbe essere ottieni dettagli.
+
+116
+00:06:03,720 --> 00:06:07,480
+Siamo su iPad, è quello che esatto, perché, se no, sui iPhone
+
+117
+00:06:07,560 --> 00:06:08,760
+invece ve lo trovate sotto.
+
+118
+00:06:08,760 --> 00:06:12,440
+Esatto, dovrebbe essere ottieni i dettagli degli eventi di calendario e questo
+
+119
+00:06:12,440 --> 00:06:13,400
+è quello che dobbiamo prendere.
+
+120
+00:06:13,480 --> 00:06:14,600
+O dobbiamo cercare un altro.
+
+121
+00:06:14,600 --> 00:06:16,760
+Esatto, esatto, esatto, quello proprio quello lì.
+
+122
+00:06:16,760 --> 00:06:17,000
+Ok.
+
+123
+00:06:17,000 --> 00:06:19,000
+Quindi ci tappiamo sopra con il ditone
+
+124
+00:06:20,040 --> 00:06:22,440
+e questa si aggiunge sul lato sinistra.
+
+125
+00:06:22,440 --> 00:06:30,280
+Esatto, vi dovrebbe venire scritto: ottieni poi un evento abitualmente, da, ovviamente
+
+126
+00:06:30,280 --> 00:06:34,120
+uno spazio vuoto perché non abbiamo ancora scelto il calendario, ok?
+
+127
+00:06:34,280 --> 00:06:35,880
+No, vado subito contro.
+
+128
+00:06:36,440 --> 00:06:38,920
+Perché l'ho già fatta allazione, lo so, di fatto, per quello che
+
+129
+00:06:38,920 --> 00:06:45,720
+io lo faccio da nubo con la terminologia da giovani freelance del
+
+130
+00:06:45,720 --> 00:06:46,280
+mondo
+
+131
+00:06:47,880 --> 00:06:49,720
+del professionismo a detto.
+
+132
+00:06:49,720 --> 00:06:51,480
+Lo dice mio figlio.
+
+133
+00:06:51,800 --> 00:06:58,520
+Allora, io vedo un ottieni, poi data di inizio e poi e
+
+134
+00:06:58,520 --> 00:07:03,320
+poi un campo libero con una scritta evento di calendario in modo
+
+135
+00:07:03,560 --> 00:07:04,840
+intorno leggero.
+
+136
+00:07:04,840 --> 00:07:05,240
+Esatto.
+
+137
+00:07:05,240 --> 00:07:05,560
+Allora.
+
+138
+00:07:05,560 --> 00:07:10,280
+La prima cosa che dobbiamo fare è ovviamente nell'ottieni, cliccare sul primo
+
+139
+00:07:10,280 --> 00:07:14,600
+campo e dovrebbero venire fuori il più e il meno sostanzialmente, almeno
+
+140
+00:07:14,600 --> 00:07:17,200
+su iPhone mi viene fuori più e meno.
+
+141
+00:07:14,840 --> 00:07:20,880
+No, viene data d'inizio: data di fine durata tutto il giorno.
+
+142
+00:07:21,200 --> 00:07:22,880
+No, allora abbiamo sbagliato
+
+143
+00:07:24,160 --> 00:07:25,440
+abbiamo sbagliato azione.
+
+144
+00:07:25,440 --> 00:07:29,120
+L'azione deve essere: ottieni i prossimi eventi.
+
+145
+00:07:29,120 --> 00:07:33,120
+Ok, non era quello, era ottieni i dettagli, quindi ottieni i prossimi.
+
+146
+00:07:33,840 --> 00:07:38,240
+Allora lo ottieni i dettagli, ovviamente estra estrai i dati da un
+
+147
+00:07:38,240 --> 00:07:41,040
+evento del calendario che gli dovremmo passare, ovviamente.
+
+148
+00:07:41,680 --> 00:07:44,640
+In questo caso noi otteniamo invece i prossimi eventi.
+
+149
+00:07:46,320 --> 00:07:50,960
+Un evento da tutti i calendari per adesso impostato così esatto, benissimo.
+
+150
+00:07:50,960 --> 00:07:55,200
+Io lo metterei, ovviamente possiamo scegliere a nostro piacimento, io lo metterei
+
+151
+00:07:55,200 --> 00:08:00,000
+a 5 perché tendenzialmente abbiamo 5 eventi nel futuro di un calendario.
+
+152
+00:08:00,000 --> 00:08:04,160
+Nel mio caso specifico, per esempio, sto usando il calendario del podcast
+
+153
+00:08:04,480 --> 00:08:08,800
+quindi ho l'evento di stasera della registrazione di stasera e ho l'evento
+
+154
+00:08:08,800 --> 00:08:09,680
+di domani.
+
+155
+00:08:09,680 --> 00:08:12,880
+Anzi, due eventi di domani che sono le due ore che mi
+
+156
+00:08:12,880 --> 00:08:15,600
+sono ritagliato per fare l'editing della puntata.
+
+157
+00:08:15,600 --> 00:08:17,760
+Non mi ricordo più quali devo ancora editare.
+
+158
+00:08:18,720 --> 00:08:22,960
+Tuttavia, la puntata che verrà invece pubblicata per noi il 20 di
+
+159
+00:08:22,960 --> 00:08:24,400
+dicembre, sostanzialmente.
+
+160
+00:08:24,400 --> 00:08:27,520
+In questo caso, i calendari non è a scelta multipla, sai che
+
+161
+00:08:27,600 --> 00:08:28,080
+non lo so.
+
+162
+00:08:28,080 --> 00:08:30,800
+Secondo me aspetta, guardiamo subito.
+
+163
+00:08:30,800 --> 00:08:34,560
+No, è singola scelta singola, o puoi fare tutti i calendari, secondo
+
+164
+00:08:34,560 --> 00:08:35,040
+me.
+
+165
+00:08:35,520 --> 00:08:36,960
+Tutti i calendari, mi piace.
+
+166
+00:08:36,960 --> 00:08:43,040
+A questo punto andiamo di nuovo invece a trovare un'azione, diciamo, e
+
+167
+00:08:43,040 --> 00:08:45,040
+cerchiamo l'azione, scegli da.
+
+168
+00:08:45,040 --> 00:08:47,920
+Anzi, aspetta, deve essere, perché poi io la vedo già.
+
+169
+00:08:47,920 --> 00:08:51,760
+Scegli dall'elenco, che è una di quelle azioni di cui abbiamo già
+
+170
+00:08:51,760 --> 00:08:55,840
+parlato nella puntata sui comandi rapidi intermedi, chiamiamolo così.
+
+171
+00:08:55,840 --> 00:09:02,040
+E così finalmente la vediamo, tra l'altro, questa azione, diciamo, cosa fa?
+
+172
+00:09:02,040 --> 00:09:05,400
+Ci permette di scegliere da un elenco che li dobbiamo aver passato
+
+173
+00:08:59,840 --> 00:09:06,600
+precedentemente.
+
+174
+00:09:07,080 --> 00:09:08,040
+Di opzioni.
+
+175
+00:09:08,040 --> 00:09:12,440
+Nel nostro caso specifico, se non è già stato selezionato l'evento prossimi
+
+176
+00:09:12,440 --> 00:09:14,840
+eventi del calendario, li dobbiamo selezionare.
+
+177
+00:09:14,840 --> 00:09:20,680
+Quindi facciamo tap su scegli da e facciamo variabile magica, che così
+
+178
+00:09:20,680 --> 00:09:24,680
+andiamo anche a vedere come funziona il nostro sistema di variabile magica.
+
+179
+00:09:25,320 --> 00:09:31,160
+E a questo punto saremo rimandati nella versione dell'editor in variabile magica
+
+180
+00:09:31,240 --> 00:09:35,720
+e selezioniamo prossimi eventi, che è poi la variabile che viene fuori
+
+181
+00:09:35,720 --> 00:09:38,200
+dalla prima azione che abbiamo fatto sostanzialmente.
+
+182
+00:09:38,200 --> 00:09:43,640
+Come vedremo una volta che faremo partire l'azione, ci troveremo i 5
+
+183
+00:09:43,640 --> 00:09:45,160
+eventi da scegliere.
+
+184
+00:09:45,320 --> 00:09:49,240
+Quindi potremo scegliere tra questi cinque eventi vedendo anche quali sono questi
+
+185
+00:09:49,240 --> 00:09:49,640
+eventi.
+
+186
+00:09:49,640 --> 00:09:54,120
+Adesso, se vuoi fare una test di prova, tra virgolette Roberto, perché
+
+187
+00:09:54,200 --> 00:09:57,240
+tanto l'azione ti dà solo l'elenco e poi dopo non ti fa
+
+188
+00:09:57,240 --> 00:09:57,960
+fare niente.
+
+189
+00:09:57,960 --> 00:10:03,000
+Ok, per fare la prova, basta semplicemente andarci a cercare l'iconcina Play,
+
+190
+00:10:03,000 --> 00:10:03,880
+mi ricordo bene.
+
+191
+00:10:03,880 --> 00:10:06,040
+Esatto, esatto, ti ricordi benissimo.
+
+192
+00:10:06,040 --> 00:10:11,960
+Ok, mi ha in effetti rilasciato i miei simpatici 5 futuri appuntamenti.
+
+193
+00:10:11,960 --> 00:10:12,760
+Perfetto, perfetto.
+
+194
+00:10:12,760 --> 00:10:15,320
+Quindi vedi che funziona tutto perfettamente.
+
+195
+00:10:15,320 --> 00:10:19,480
+Adesso inseriamo invece modifica la data.
+
+196
+00:10:19,480 --> 00:10:26,360
+Diciamo che se cercate data, compariranno tutte le funzioni di calcolo della
+
+197
+00:10:26,360 --> 00:10:27,000
+data.
+
+198
+00:10:28,200 --> 00:10:30,840
+Adesso noi la vedremo in maniera molto molto semplice.
+
+199
+00:10:30,840 --> 00:10:35,160
+Ma è una cosa molto interessante perché ovviamente la modifica data ti
+
+200
+00:10:35,160 --> 00:10:41,480
+permette di catturare una data sostanzialmente dall'azione precedente e aggiungere, sottrarre giorni,
+
+201
+00:10:41,480 --> 00:10:45,440
+ore, secondi, minuti e così via a una data.
+
+202
+00:10:45,440 --> 00:10:46,480
+L'hai trovata?
+
+203
+00:10:44,840 --> 00:10:48,240
+Certo, la inseriamo.
+
+204
+00:10:48,320 --> 00:10:52,720
+Quindi e a questo punto, se tutto va come dovrebbe andare, dovresti
+
+205
+00:10:52,720 --> 00:10:56,320
+trovare o giorni o secondi, non mi ricordo qual è l'opzione di
+
+206
+00:10:56,880 --> 00:11:01,920
+aggiungi e se clicchi su aggiungi, ovviamente hai la possibilità di avere
+
+207
+00:11:01,920 --> 00:11:03,360
+tutta una serie di altre opzioni.
+
+208
+00:11:03,360 --> 00:11:08,320
+Quindi aggiungi, sotrai, o tieni inizio del minuto, o tieni inizio dell'ora,
+
+209
+00:11:08,720 --> 00:11:13,520
+tutta una serie di voci, noi lasciamo l'opzione aggiungi, tra virgolette, che
+
+210
+00:11:13,840 --> 00:11:19,440
+dovrebbe essere quella di default, e poi invece, nei giorni secondi, cioè
+
+211
+00:11:20,080 --> 00:11:25,280
+la temporaneità diciamo di questa cosa, andiamo, clicchiamo sopra perché ci dovrebbe
+
+212
+00:11:25,280 --> 00:11:26,800
+essere tipo 1, ok?
+
+213
+00:11:26,800 --> 00:11:29,280
+Cioè aggiungi 0 secondi al giorno.
+
+214
+00:11:29,280 --> 00:11:33,280
+Allora ci andiamo a cliccare, ci andiamo a cliccare su al giorno
+
+215
+00:11:33,520 --> 00:11:41,920
+e facciamo lo zero, e clicchiamo nelle varie opzioni tra variabili magiche
+
+216
+00:11:41,920 --> 00:11:43,280
+e tutte le serie di variabili.
+
+217
+00:11:43,280 --> 00:11:48,320
+Se scrolliamo verso destra, troviamo un piedi ogni volta, clicchiamo lì.
+
+218
+00:11:48,320 --> 00:11:53,120
+Questo farà sì che potremmo ovviamente dire aggiungi un giorno, per esempio,
+
+219
+00:11:53,360 --> 00:11:55,680
+ma metti il caso che tu non vuoi aggiungere un giorno, ma
+
+220
+00:11:55,680 --> 00:11:59,280
+ne vuoi aggiungere due, perché oggi è venerdì e quindi l'appuntamento, il
+
+221
+00:11:59,280 --> 00:12:02,480
+lavoro che devi fare, non lo vuoi fare sabato, ma lo vuoi
+
+222
+00:12:02,480 --> 00:12:03,280
+fare lunedì.
+
+223
+00:12:03,280 --> 00:12:05,040
+Come fai a questo punto?
+
+224
+00:12:05,040 --> 00:12:06,480
+In questo caso, ovviamente
+
+225
+00:12:07,680 --> 00:12:11,520
+con l'opzione, si è un'altra idea.
+
+226
+00:12:11,760 --> 00:12:18,480
+Ma con l'opzione aggiungi, quando ti chiede la durata, tu puoi modificarlo
+
+227
+00:12:18,560 --> 00:12:19,840
+ovviamente ogni volta.
+
+228
+00:12:19,840 --> 00:12:25,280
+La scomodità, ovviamente, è quella che avrai un ulteriore, chiamiamolo così, momento.
+
+229
+00:12:25,280 --> 00:12:29,600
+Cioè, oltre a scegliere l'evento che vuoi modificare, dovrai anche dirgli quanto
+
+230
+00:12:29,600 --> 00:12:31,320
+tempo lo vuoi modificare.
+
+231
+00:12:29,840 --> 00:12:34,680
+Ovviamente andiamo su secondi, facciamo tap su secondi.
+
+232
+00:12:34,840 --> 00:12:39,320
+Adesso noi mettiamo giorni più sensato, però, per esempio, potremmo utilizzare anche
+
+233
+00:12:39,320 --> 00:12:44,440
+le ore, l'appuntamento delle 5 non abbiamo avuto tempo perché abbiamo dovuto
+
+234
+00:12:44,440 --> 00:12:47,800
+fare un'altra cosa, lo spostiamo casomai alle 6 o alle 7 quindi
+
+235
+00:12:47,960 --> 00:12:53,720
+a due ore di distanza, al giorno dobbiamo andare all'elemento scelto.
+
+236
+00:12:53,720 --> 00:12:56,280
+Quindi, teoricamente, dovrebbe essere vuoto, o
+
+237
+00:12:57,400 --> 00:13:01,480
+se è corretto, mettiamo l'elemento scelto e teniamo l'elemento scelto, se no,
+
+238
+00:13:01,480 --> 00:13:03,240
+sempre solito discorso.
+
+239
+00:13:03,240 --> 00:13:06,920
+Andiamo con la variabile magica e andiamo a prendere l'elemento scelto.
+
+240
+00:13:06,920 --> 00:13:09,400
+Quindi, questa operazione cosa fa?
+
+241
+00:13:09,400 --> 00:13:14,440
+L'elemento scelto: immaginiamo fare il podcast oggi alle ore 21, gli viene
+
+242
+00:13:14,440 --> 00:13:19,240
+aggiunto il giorno, quindi viene spostata il giorno sabato, nel nostro caso
+
+243
+00:13:19,240 --> 00:13:22,040
+specifico, o l'ora che decidiamo noi.
+
+244
+00:13:22,280 --> 00:13:25,960
+L'ultima azione che dobbiamo inserire, abbiamo fatto le nostre modifiche.
+
+245
+00:13:25,960 --> 00:13:32,600
+Quindi abbiamo cambiato il tempo dell'appuntamento, dobbiamo fare imposta aspetta, scusami,
+
+246
+00:13:34,520 --> 00:13:36,760
+modifica un evento del calendario.
+
+247
+00:13:36,760 --> 00:13:38,360
+Se la trovi.
+
+248
+00:13:38,360 --> 00:13:39,640
+Ok, questo cosa serve?
+
+249
+00:13:39,640 --> 00:13:44,360
+Noi adesso abbiamo calcolato il giorno giusto, cioè la data disposto, dobbiamo
+
+250
+00:13:44,360 --> 00:13:45,560
+spostarlo veramente.
+
+251
+00:13:45,560 --> 00:13:50,440
+Quindi, dobbiamo modificare l'evento che abbiamo preso, selezionato e spostarlo al giorno
+
+252
+00:13:50,440 --> 00:13:51,320
+successivo.
+
+253
+00:13:51,320 --> 00:13:56,280
+Quindi imposta, data d'inizio nel nostro caso, ma potremmo anche cambiare la
+
+254
+00:13:56,280 --> 00:13:57,160
+data di fine.
+
+255
+00:13:57,160 --> 00:14:01,560
+Perché, ovviamente, come sempre io vi faccio l'esempio più banale, chiamiamolo così.
+
+256
+00:14:01,560 --> 00:14:04,120
+Ma se andiamo a vedere la data d'inizio, abbiamo data di fine,
+
+257
+00:14:04,120 --> 00:14:09,560
+durata di tutto il giorno, posizione, durata, partecipanti, ur, titolo, si possono
+
+258
+00:14:09,560 --> 00:14:11,320
+fare tutta una serie di modifiche.
+
+259
+00:14:11,320 --> 00:14:16,480
+Ovviamente dovremmo costruire un'azione pensata appunto per fare una modifica diversa.
+
+260
+00:14:16,640 --> 00:14:22,960
+Quindi facciamo data d'inizio e dopodice di dobbiamo andare a prendere sempre
+
+261
+00:14:22,960 --> 00:14:27,440
+la nostra solita variabile, cioè l'elemento scelto che usiamo sempre la variabile
+
+262
+00:14:27,440 --> 00:14:32,800
+magica, e su dobbiamo mettere la data modificata, cioè la data che
+
+263
+00:14:32,800 --> 00:14:34,800
+abbiamo modificato con l'azione precedente.
+
+264
+00:14:34,800 --> 00:14:39,040
+Quindi modifichiamo la data dell'evento iniziale che abbiamo scelto, che è la
+
+265
+00:14:39,040 --> 00:14:40,880
+seconda azione, per intenderci.
+
+266
+00:14:40,880 --> 00:14:47,440
+E quindi dobbiamo far puntare la variabile magica alla seconda azione, alla
+
+267
+00:14:47,440 --> 00:14:53,840
+variabile creata dalla seconda azione, cioè scegli da elementi dai vari prossimi
+
+268
+00:14:53,840 --> 00:14:59,600
+eventi, e poi invece, su la data di modifica, la andiamo a
+
+269
+00:14:59,600 --> 00:15:01,360
+mettere quella che abbiamo modificato.
+
+270
+00:15:01,360 --> 00:15:02,400
+Ti vedo perplesso.
+
+271
+00:15:02,400 --> 00:15:04,160
+Allora vediamo se ho capito.
+
+272
+00:15:04,160 --> 00:15:10,000
+Allora, io uso quindi nelle due ultime possibilità, o variabili, o inserimento
+
+273
+00:15:10,160 --> 00:15:14,480
+di variabili, utilizzo due variabili magiche, chiamiamole così: la prima
+
+274
+00:15:15,680 --> 00:15:20,080
+, due variabili che abbiamo già catturato nel nostro caso, però, sì.
+
+275
+00:15:20,080 --> 00:15:26,720
+La prima è elemento scelto, ovvero sarebbe la seconda azione, nell'elenco.
+
+276
+00:15:26,720 --> 00:15:30,320
+Il risultato della seconda azione, l'output della seconda azione sostanzialmente.
+
+277
+00:15:30,320 --> 00:15:35,520
+Invece, la seconda variabile magica, a questo punto diventa la data modificata,
+
+278
+00:15:36,400 --> 00:15:37,120
+sarebbe la terza
+
+279
+00:15:39,680 --> 00:15:40,000
+.
+
+280
+00:15:40,000 --> 00:15:43,840
+A questo punto possiamo cliccare play e mi dirai se è venuta
+
+281
+00:15:43,840 --> 00:15:44,880
+giusta, come spero.
+
+282
+00:15:45,120 --> 00:15:48,320
+Adesso mi ha fatto vedere i soliti 5 e 20, ovviamente ne
+
+283
+00:15:48,320 --> 00:15:51,200
+devi scegliere uno perché altrimenti non funziona.
+
+284
+00:15:51,200 --> 00:15:52,880
+Aspetta, poi ne devo rispostare.
+
+285
+00:15:52,880 --> 00:15:55,120
+Faccio un casino, perché poi arrivano le notifiche.
+
+286
+00:15:55,200 --> 00:15:58,040
+Mia moglie mi fa un sedere così,
+
+287
+00:15:59,960 --> 00:16:02,760
+infatti, io ho usato il calendario del podcast.
+
+288
+00:15:57,680 --> 00:16:03,000
+E no,
+
+289
+00:16:03,080 --> 00:16:05,400
+i li ho presi tutti a mannaggia i serie.
+
+290
+00:16:05,480 --> 00:16:06,760
+Comunque ci credo sulla
+
+291
+00:16:08,040 --> 00:16:09,640
+dovrebbe funzionare tutto.
+
+292
+00:16:09,800 --> 00:16:12,440
+Sì, ok, aspetta, che provo a cambiare tutti i calendari.
+
+293
+00:16:12,440 --> 00:16:14,120
+Perché poi cambia solo un evento.
+
+294
+00:16:14,120 --> 00:16:17,000
+Quindi casomai, scegli un evento che non è fondamentale.
+
+295
+00:16:17,320 --> 00:16:20,280
+Appunto, cambia i calendari, vediamo se me li va beccare.
+
+296
+00:16:20,280 --> 00:16:21,240
+Non ce n'è uno.
+
+297
+00:16:21,560 --> 00:16:26,200
+L'altra cosa che vi segnalo: per fare qualcosa di un po' più
+
+298
+00:16:26,200 --> 00:16:30,680
+avanzato nella seconda azione, cioè scegliete i prossimi eventi.
+
+299
+00:16:30,920 --> 00:16:35,480
+Se andate a cliccare sulla freccia che punta a si apre un
+
+300
+00:16:35,480 --> 00:16:42,040
+sottomenu e se selezioniamo selezione multipla, a questo punto potremmo scegliere addirittura
+
+301
+00:16:42,040 --> 00:16:47,080
+più eventi, ovviamente in questo caso dovremmo andare a complicare un attimo
+
+302
+00:16:47,080 --> 00:16:52,600
+la nostra azione perché per ogni singolo evento dovremmo prendere quindi dovremmo
+
+303
+00:16:52,600 --> 00:16:56,840
+fare una'azione che chiamiamola così di loop, si chiama in termini tecnico.
+
+304
+00:16:56,840 --> 00:17:01,560
+Che è ripeti, l'azione dovrebbe essere ripeti per ogni elemento.
+
+305
+00:17:01,560 --> 00:17:06,360
+Dovremmo prendere questo elemento, ovviamente fare il conto della data e poi
+
+306
+00:17:06,360 --> 00:17:10,680
+spostarlo per ogni singolo elemento, di quelli selezionati.
+
+307
+00:17:10,680 --> 00:17:13,560
+Quindi si può fare, non è molto più complicato.
+
+308
+00:17:13,560 --> 00:17:20,680
+Diciamo che, però, per ovvi motivi non mi addentro troppo nella creazione
+
+309
+00:17:21,320 --> 00:17:25,320
+di un comando rapido troppo complesso, abbiamo già messo abbastanza canna al
+
+310
+00:17:25,320 --> 00:17:25,720
+fuoco.
+
+311
+00:17:25,720 --> 00:17:30,440
+Ed è ovvio che questo sistema, tra virgolette, ci fa vedere come
+
+312
+00:17:30,440 --> 00:17:35,240
+appunto possiamo estrapolare degli elenchi e poi facendo variazioni.
+
+313
+00:17:35,240 --> 00:17:39,240
+Nel nostro caso specifico, l'elenco degli ultimi 5 eventi, ma possono essere
+
+314
+00:17:39,240 --> 00:17:44,840
+l'elenco delle ultime cinque foto scattate, o addirittura, siccome possiamo anche andare
+
+315
+00:17:45,120 --> 00:17:50,400
+a cercare per esempio dei calendari o degli appuntamenti specifici degli eventi
+
+316
+00:17:50,400 --> 00:17:56,720
+specifici che hanno, non so, voi vedete spesso un fornitore, potete estrapolare
+
+317
+00:17:56,720 --> 00:18:00,800
+i dati legati agli appuntamenti fornitore tizio, ok?
+
+318
+00:18:00,800 --> 00:18:06,960
+Quindi vi proporrà l'elenco dei prossimi appuntamenti con il fornitore tizio nel
+
+319
+00:18:06,960 --> 00:18:10,560
+calendario e poi potete spostare il primo, il secondo, il terzo.
+
+320
+00:18:10,560 --> 00:18:14,240
+Insomma, si possono fare tante piccole operazioni adesso.
+
+321
+00:18:14,240 --> 00:18:17,840
+Io vi do un po' di esempi poi dopo ecco, io volevo
+
+322
+00:18:17,840 --> 00:18:22,640
+soltanto aggiungere una cosa: visto che intanto vedo che Filippo sta studiando,
+
+323
+00:18:22,640 --> 00:18:29,440
+quello che vedo io da diciamo povero ignorante in programmazione, bisogna proprio
+
+324
+00:18:30,000 --> 00:18:34,960
+pensare come neanche come si spiegasse un bambino peggio, a qualcosa ancora
+
+325
+00:18:35,040 --> 00:18:38,240
+più indietro di un bambino, perché il bambino a un certo punto
+
+326
+00:18:38,400 --> 00:18:41,440
+mi aspettavo che alla terza azione non dovesse fare più niente.
+
+327
+00:18:41,440 --> 00:18:45,600
+E invece, no, bisogna passare alla quarta azione dove proprio bisogna fargli
+
+328
+00:18:45,600 --> 00:18:48,080
+capire dove mettere le cose.
+
+329
+00:18:48,080 --> 00:18:51,040
+Eccolo, questa è una cosa che in effetti, quando uno prende in
+
+330
+00:18:51,040 --> 00:18:54,000
+mano comandi rapidi, non gli viene proprio in mente la prima cosa
+
+331
+00:18:54,000 --> 00:18:59,040
+da fare ed è proprio quella: nel senso, deve aspettarsi di fare
+
+332
+00:18:59,200 --> 00:19:03,600
+le cose a manina, proprio un pezzettino per volta.
+
+333
+00:19:03,600 --> 00:19:09,520
+La programmazione, anche attraverso comandi rapidi, è come seguire una ricetta.
+
+334
+00:19:09,520 --> 00:19:16,400
+Quindi, è ovvio che voi dovete dire prendi 5 uova, aprile, estrai
+
+335
+00:19:16,720 --> 00:19:19,120
+il tuo orlo, sbatti il tuo orlo.
+
+336
+00:19:19,680 --> 00:19:23,680
+Il computer è stupido, tra virgolette, cioè è molto bravo a seguire
+
+337
+00:19:23,680 --> 00:19:26,000
+gli ordini, ma stupido.
+
+338
+00:19:26,000 --> 00:19:32,280
+Quindi, ovviamente, dovete essere voi molto molto specifici e ragionare sempre come
+
+339
+00:19:29,680 --> 00:19:34,280
+una ricetta, sostanzialmente.
+
+340
+00:19:34,440 --> 00:19:39,800
+Tutti i passi dettagliati, specifici, ed è ovvio che se dai per
+
+341
+00:19:39,800 --> 00:19:44,440
+scontato qualcosa, lì ovviamente c'è il rischio di fare degli errori.
+
+342
+00:19:45,000 --> 00:19:49,320
+Per esempio, in questo caso, con questo tipo di programmazione, se io
+
+343
+00:19:49,320 --> 00:19:53,640
+sposto un evento e mettiamo che vada in conflitto con un altro
+
+344
+00:19:53,640 --> 00:19:55,080
+evento, come va a finire?
+
+345
+00:19:55,080 --> 00:19:56,280
+Che lo mette di fianco.
+
+346
+00:19:56,280 --> 00:20:00,680
+I calendari possono sì, esatto, e comunque adesso tu non hai fatto
+
+347
+00:20:00,680 --> 00:20:03,720
+il tasto play, ma se tu avessi fatto il tasto play, tu
+
+348
+00:20:03,720 --> 00:20:08,840
+vedi addirittura in anticipo il calendario, cioè il risultato del calendario, viene
+
+349
+00:20:08,840 --> 00:20:09,480
+fuori un
+
+350
+00:20:10,760 --> 00:20:11,480
+qui a iOS.
+
+351
+00:20:11,480 --> 00:20:13,960
+È molto carino, quindi ti fa un'anteprima
+
+352
+00:20:15,080 --> 00:20:17,480
+di quel giorno e quell'orario, chiamiamolo così.
+
+353
+00:20:17,560 --> 00:20:22,680
+Quindi, nel mio caso, per esempio, domani appunto ho l'editing dei podcast
+
+354
+00:20:22,680 --> 00:20:27,000
+e quindi mi andava, anzi, no, scusami, siccome le 21, mi va
+
+355
+00:20:27,000 --> 00:20:30,520
+più o meno vicino alla cena, e quindi mi si affiancava, per
+
+356
+00:20:30,520 --> 00:20:32,520
+esempio, alla cena di domani.
+
+357
+00:20:32,520 --> 00:20:37,800
+Che appunto come dicevo, forse nel podcast o forse era solo Roberto.
+
+358
+00:20:37,800 --> 00:20:41,320
+Comunque, io sono il cuoco di famiglia, quindi programmo anche i pasti,
+
+359
+00:20:41,320 --> 00:20:41,960
+ovviamente.
+
+360
+00:20:41,960 --> 00:20:47,320
+E ovviamente li programmo nel calendario, di modo che sia tutto condiviso,
+
+361
+00:20:47,320 --> 00:20:51,960
+spesso e volentieri come tutti i bravi cuochi, riciclo il menu perché
+
+362
+00:20:52,200 --> 00:20:54,520
+diventa molto più semplice di gestirlo.
+
+363
+00:20:54,520 --> 00:20:57,960
+Per cui quello che vedremo adesso è un esempio molto banale, se
+
+364
+00:20:57,960 --> 00:21:03,000
+volete, ma che può diventare l'esempio tipico di un calendario ripetuto nel
+
+365
+00:21:03,000 --> 00:21:05,800
+tempo e di automazione del calendario ripetuto.
+
+366
+00:21:05,800 --> 00:21:12,280
+Cioè, per esempio, non so, al lunedì anzi, al sabato è tipica
+
+367
+00:21:12,280 --> 00:21:12,680
+la pizza.
+
+368
+00:21:12,760 --> 00:21:15,600
+Io faccio la pizza fatta in casa, quindi tutti i sabati noi
+
+369
+00:21:15,600 --> 00:21:20,880
+abitualmente mangiamo pizza, e quindi ovviamente ci sono due opzioni: prendo il
+
+370
+00:21:20,880 --> 00:21:24,800
+calendario, apro il calendario, copio e solitamente lo riesce a fare solo
+
+371
+00:21:24,800 --> 00:21:29,280
+però su Mac, copio l'evento pizza di sabato e lo sposto al
+
+372
+00:21:29,280 --> 00:21:32,480
+sabato successivo e ho il mio calendario che si ripete.
+
+373
+00:21:32,480 --> 00:21:38,160
+Questo è il trucchetto, tra virgolette, command C, command V potete duplicare
+
+374
+00:21:38,240 --> 00:21:40,240
+gli eventi del calendario nel futuro.
+
+375
+00:21:40,240 --> 00:21:44,880
+Quindi se avete dei eventi ricorrenti, e io non amo l'evento ricorrente,
+
+376
+00:21:44,880 --> 00:21:47,280
+anche se, per esempio, la moglie invece ha
+
+377
+00:21:49,120 --> 00:21:53,520
+evento ricorrente secolare, quindi tu hai eventi ricorrenti per sempre e a
+
+378
+00:21:53,520 --> 00:21:57,440
+me infastidisce notevolmente perché ovviamente non ti dà flessibilità.
+
+379
+00:21:57,440 --> 00:21:59,840
+Ma si può anche fare con gli eventi ricorrenti.
+
+380
+00:21:59,840 --> 00:22:04,880
+Quindi, un evento che tutti sabati, effettivamente, più o meno in maniera
+
+381
+00:22:04,880 --> 00:22:07,200
+standard, tutti i sabati io faccio la pizza.
+
+382
+00:22:07,200 --> 00:22:13,360
+Quindi, salvo casi eccezionali, organizzazioni diverse del menage familiare, si potrebbe fare
+
+383
+00:22:13,360 --> 00:22:16,400
+come evento ricorrente e non porsi neanche il problema.
+
+384
+00:22:16,400 --> 00:22:21,680
+Nel mio caso, invece, io preferisco avere la possibilità di manovra, diciamo,
+
+385
+00:22:21,680 --> 00:22:24,880
+perché casomai ci sono altre necessità e così via.
+
+386
+00:22:25,360 --> 00:22:30,720
+Quindi un modo interessante e veloce per, per esempio, programmare l'intera settimana
+
+387
+00:22:30,720 --> 00:22:34,960
+in un colpo solo del pasti e dei pranzi e delle cene,
+
+388
+00:22:35,040 --> 00:22:40,000
+quello di aggiungere un evento direttamente con un'azione di comandi rapidi, creiamo
+
+389
+00:22:40,000 --> 00:22:44,240
+una nuova azione e questa è veramente banale per azione, ma è
+
+390
+00:22:44,240 --> 00:22:45,840
+aggiungi nuovo evento.
+
+391
+00:22:45,840 --> 00:22:50,000
+Ovviamente è vento del calendario, è sempre quindi andate sempre nel calendario
+
+392
+00:22:50,000 --> 00:22:52,560
+a cercare l'azione aggiungi evento.
+
+393
+00:22:52,800 --> 00:22:55,920
+A questo punto vi si aprirà sostanzialmente.
+
+394
+00:22:55,920 --> 00:23:01,800
+Abbiamo sempre il solito giochino, aggiungi il testo che vogliamo aggiungere al
+
+395
+00:23:01,800 --> 00:23:07,560
+calendario quindi l'appuntamento, l'evento che vogliamo fissare, pizza o quello che è
+
+396
+00:23:07,720 --> 00:23:10,440
+l'inizio dell'evento, la fine dell'evento
+
+397
+00:23:11,640 --> 00:23:15,240
+che è composta ovviamente dal giorno, diciamo e dall'ora.
+
+398
+00:23:15,240 --> 00:23:22,920
+Quindi, io, per esempio, ho messo sabato ore 19:45 fino alle 8
+
+399
+00:23:23,160 --> 00:23:27,160
+e quarto, 8 e mezza l'orario della cena.
+
+400
+00:23:27,160 --> 00:23:32,760
+A questo punto potete selezionare la posizione se fate sempre il solito
+
+401
+00:23:32,760 --> 00:23:38,440
+click sulla freccia che va verso destra, ma che se pigiate, si
+
+402
+00:23:38,440 --> 00:23:42,760
+apre un menu a tendina, chiamiamolo così, e la freccia punta verso
+
+403
+00:23:42,760 --> 00:23:43,240
+il basso.
+
+404
+00:23:43,240 --> 00:23:46,680
+A questo punto avremo la posizione e il calendario in cui deve
+
+405
+00:23:46,680 --> 00:23:48,040
+andare questo nuovo evento.
+
+406
+00:23:48,040 --> 00:23:53,400
+Quindi potete scegliere dove mandare l'evento, avete la possibilità di inserirlo come
+
+407
+00:23:53,400 --> 00:23:54,760
+evento per tutto il giorno.
+
+408
+00:23:54,840 --> 00:23:57,400
+Che nel calendario di Apple va a finire in alto.
+
+409
+00:23:57,400 --> 00:23:58,920
+Sostanzialmente non viene.
+
+410
+00:23:58,920 --> 00:24:00,360
+Potete mettere degli avvisi.
+
+411
+00:24:00,360 --> 00:24:03,880
+Quindi, per esempio, se io mi devo mettere a cucinare un quarto
+
+412
+00:24:03,880 --> 00:24:08,920
+d'ora, venti minuti prima, posso farmi arrivare a un avviso automatico, per
+
+413
+00:24:08,920 --> 00:24:11,960
+esempio, di ricordarmi che devo farlo.
+
+414
+00:24:11,960 --> 00:24:15,480
+E poi mostro foglio di scrittura, sinceramente, non so cosa sia, quindi
+
+415
+00:24:15,800 --> 00:24:18,280
+non lo sto per chiedere, ci sono anche la possibilità di mettere
+
+416
+00:24:18,280 --> 00:24:19,000
+delle note,
+
+417
+00:24:20,120 --> 00:24:23,240
+non ho idea, non l'ho mai attivato e non ho idea, dovrei
+
+418
+00:24:23,240 --> 00:24:24,120
+fare un test.
+
+419
+00:24:24,120 --> 00:24:28,920
+La cosa interessante è che ovviamente potete fare più azioni in un
+
+420
+00:24:28,920 --> 00:24:29,880
+colpo solo.
+
+421
+00:24:29,880 --> 00:24:36,520
+Quindi, io la mia shortcut come costruita, diciamo, ho appunto lunedì, martedì,
+
+422
+00:24:36,520 --> 00:24:39,160
+mercoledì, giovedì, venerdì e sabato, ok.
+
+423
+00:24:39,400 --> 00:24:44,200
+Quindi, io ho preimpostato ovviamente tutti gli eventi di
+
+424
+00:24:45,200 --> 00:24:47,360
+tutte le cene sostanzialmente.
+
+425
+00:24:44,520 --> 00:24:50,080
+Pigando solo, facendo partire questa shortcut.
+
+426
+00:24:50,240 --> 00:24:57,280
+Io in automatico faccio creare tutti i 6-7 eventi della settimana direttamente
+
+427
+00:24:57,280 --> 00:24:58,240
+sul calendario.
+
+428
+00:24:58,240 --> 00:25:02,800
+Con un clic solo, anche qui potremmo creare delle automazioni più elevate,
+
+429
+00:25:02,800 --> 00:25:03,520
+ovviamente.
+
+430
+00:25:03,520 --> 00:25:08,240
+Una cosa che adesso non ho avuto tempo e voglia, mettiamola così,
+
+431
+00:25:08,240 --> 00:25:12,480
+è quella di fare un gioco un po' più interessante, cioè avere
+
+432
+00:25:12,480 --> 00:25:17,760
+bene o male i menu prepronti, chiamiamoli così, e poi poter decidere
+
+433
+00:25:18,400 --> 00:25:20,160
+dove farli e andare a finire.
+
+434
+00:25:20,160 --> 00:25:26,720
+Quindi mettere assieme, tra virgolette, il menu della cena, sostanzialmente in base
+
+435
+00:25:26,720 --> 00:25:28,400
+a come voglio fare io.
+
+436
+00:25:28,400 --> 00:25:34,160
+Tuttavia, per ora la famiglia, per fortuna, ha una routine serale abbastanza
+
+437
+00:25:34,160 --> 00:25:38,000
+standard, e quindi alla fine diventa molto più comodo fare tutto uguale.
+
+438
+00:25:38,000 --> 00:25:40,960
+Ho solo il giovedì che il giorno Jolly, chiamiamolo così per il
+
+439
+00:25:40,960 --> 00:25:43,680
+resto, invece sono abbastanza metodico.
+
+440
+00:25:44,880 --> 00:25:47,360
+Ottimo, davvero, è interessante.
+
+441
+00:25:47,600 --> 00:25:50,560
+Io rimango sempre affascinato dalle possibilità che ci sono.
+
+442
+00:25:50,560 --> 00:25:55,120
+Perché, se vi per caso vi mettete lì e cominciate a scartabellare,
+
+443
+00:25:55,200 --> 00:25:58,480
+guardare tutte le cose che si possono fare, non ne uscite più
+
+444
+00:25:58,480 --> 00:26:03,840
+vivi, perché ce è davvero una marea, una marea di robe da
+
+445
+00:26:03,840 --> 00:26:11,040
+fare, soprattutto se avete cose tipiche, mettiamola così, quindi una cosa tipica
+
+446
+00:26:11,040 --> 00:26:14,720
+molto specifica per cui volete avere delle impostazioni molto dettagliate.
+
+447
+00:26:14,720 --> 00:26:18,240
+Non so, è ovvio che volete avere tre allarmi perché è una
+
+448
+00:26:18,240 --> 00:26:19,120
+cosa importante.
+
+449
+00:26:19,120 --> 00:26:25,040
+Volete ricevere degli avvisi, curi di andare all'appuntamento giusto o così via.
+
+450
+00:26:25,440 --> 00:26:27,880
+Può diventare comodo, ovviamente.
+
+451
+00:26:27,960 --> 00:26:32,440
+Personalizzare in questa maniera, proprio perché invece a mano dovreste mettervi lì,
+
+452
+00:26:32,440 --> 00:26:36,120
+scrivere e scegli il giorno e fare tutta una serie di altre
+
+453
+00:26:36,120 --> 00:26:40,600
+cose che oggettivamente possono essere anche: vi fanno perdere tempo.
+
+454
+00:26:40,600 --> 00:26:44,920
+Invece, in questa maniera qui, soprattutto per le cose che sono spesso
+
+455
+00:26:45,240 --> 00:26:47,560
+ripetute, diventa molto comodo.
+
+456
+00:26:48,040 --> 00:26:52,840
+Poi ovviamente di fatto potete cucinare le vostre automazioni un po' come
+
+457
+00:26:52,840 --> 00:27:00,280
+volete, sono un limite tra possibilità concrete di comandi rapidi e ovviamente
+
+458
+00:27:00,280 --> 00:27:01,160
+la vostra fantasia.
+
+459
+00:27:01,160 --> 00:27:06,280
+Sì, io mi stavo perdendo ovviamente tra le varie opzioni di comandi
+
+460
+00:27:06,280 --> 00:27:06,920
+rapidi.
+
+461
+00:27:06,920 --> 00:27:11,480
+Ma io adesso direi a questo punto di passare tranquillamente, abbandonare comandi
+
+462
+00:27:11,480 --> 00:27:16,200
+rapidi e passare invece alle applicazioni che non sono proprio come calendario,
+
+463
+00:27:16,200 --> 00:27:17,880
+ma sono degne di nota.
+
+464
+00:27:17,880 --> 00:27:21,960
+Dunque, qua ne abbiamo qualcuna qui sotto mano, ma direi che non
+
+465
+00:27:21,960 --> 00:27:26,280
+ne è qualcuna, ne è veramente un calendario infinito.
+
+466
+00:27:26,520 --> 00:27:31,240
+Anzi, si poteva fare così, si poteva fare un'applicazione per ogni giorno
+
+467
+00:27:31,240 --> 00:27:32,120
+per l'avvento.
+
+468
+00:27:32,120 --> 00:27:35,960
+Era il calendario del calendario dell'Avvento.
+
+469
+00:27:36,360 --> 00:27:39,480
+Sarebbe stata una cosa ricorsiva, non era male.
+
+470
+00:27:39,480 --> 00:27:41,160
+Allora, dunque, vediamo un po'.
+
+471
+00:27:41,160 --> 00:27:47,160
+Io di quelle che vedo qua tirate giù, ne conosco praticamente nemmeno
+
+472
+00:27:47,160 --> 00:27:48,120
+una.
+
+473
+00:27:49,400 --> 00:27:51,160
+Sono veramente un po'.
+
+474
+00:27:51,160 --> 00:27:55,640
+Mi rendo conto di essere un po' un ignorante, ma perché io
+
+475
+00:27:55,640 --> 00:27:59,640
+quelle due applicazioni che mi servono fanno quello che chiedo e
+
+476
+00:28:01,000 --> 00:28:02,440
+non mi pongo più il problema.
+
+477
+00:28:02,440 --> 00:28:05,320
+Invece, Filippo, che è uno che dei problemi se li pone e
+
+478
+00:28:05,320 --> 00:28:09,160
+li vuole risolverli, e soprattutto è molto più conoscente di me sotto
+
+479
+00:28:09,160 --> 00:28:12,840
+questo punto di vista, ha iniziato subito da, ovviamente, non ho guardato
+
+480
+00:28:13,240 --> 00:28:15,000
+e sono ordinati in ordine alfabetico.
+
+481
+00:28:15,360 --> 00:28:22,240
+No, si quasi ordinati in ordine più o meno di interesse, secondo
+
+482
+00:28:22,240 --> 00:28:25,200
+me, da una parte, e di particolarità.
+
+483
+00:28:25,360 --> 00:28:28,400
+Diciamo che anche allora premetto, quello che vi ho raccontato la volta
+
+484
+00:28:28,400 --> 00:28:31,120
+scorsa è più o meno come utilizzo io, cioè io uso il
+
+485
+00:28:31,120 --> 00:28:32,640
+calendario e tu doist.
+
+486
+00:28:32,640 --> 00:28:33,280
+Basta.
+
+487
+00:28:33,840 --> 00:28:35,680
+Il mio calendario è fantastical.
+
+488
+00:28:36,240 --> 00:28:39,920
+Quindi queste sono le due applicazioni che uso seriamente e sono quelle
+
+489
+00:28:39,920 --> 00:28:42,400
+a cui faccio riferimento e che conosco meglio.
+
+490
+00:28:42,400 --> 00:28:45,920
+Queste sono applicazioni che, secondo me, sono degne di nota, nel senso
+
+491
+00:28:45,920 --> 00:28:49,520
+che mentre facciamo un po' di ricerca le ho trovate, le conoscevo
+
+492
+00:28:49,520 --> 00:28:53,680
+in parte già, sono cose un po' particolari, però, secondo me è
+
+493
+00:28:53,680 --> 00:29:00,960
+utile appunto parlarne, perché potrebbe in alcuni casi potrebbero essere molto interessanti.
+
+494
+00:29:01,120 --> 00:29:04,000
+La prima, secondo me, è Agenda, che di fatto non è un
+
+495
+00:29:04,000 --> 00:29:10,880
+calendario lo specifico, ma è un sistema abbastanza ibrido di prendere note,
+
+496
+00:29:11,120 --> 00:29:16,880
+fate markdown, però note che sono collegate alla giornata e quindi puoi
+
+497
+00:29:16,880 --> 00:29:21,040
+prendere appunti su cosa fare e va tutto a finire appunto in
+
+498
+00:29:21,040 --> 00:29:21,680
+questo sistema.
+
+499
+00:29:21,680 --> 00:29:25,520
+Si integra anche col calendario quindi riesce a avere anche gli impegni
+
+500
+00:29:26,800 --> 00:29:28,080
+dentro l'agenda.
+
+501
+00:29:28,080 --> 00:29:33,040
+L'idea è sostanzialmente avere un'agenda che puoi scrivere in Markdown.
+
+502
+00:29:33,040 --> 00:29:38,320
+Quindi, per esempio, puoi anche metterci, prendere appunti addirittura, cioè, non so,
+
+503
+00:29:38,320 --> 00:29:42,880
+ho l'appuntamento con Roberto di cui dobbiamo parlare della programmazione a due
+
+504
+00:29:42,880 --> 00:29:44,400
+podcast, io cosa faccio?
+
+505
+00:29:44,400 --> 00:29:50,080
+Non solo ho l'appuntamento fissato e quindi vedo in agenda, che appunto
+
+506
+00:29:50,320 --> 00:29:51,520
+è il nome
+
+507
+00:29:53,040 --> 00:29:56,320
+è lo stesso, vedo in agenda l'appuntamento.
+
+508
+00:29:56,320 --> 00:29:59,680
+Ma mentre parliamo degli argomenti di cui vogliamo parlare, casomai, posso avere
+
+509
+00:29:59,680 --> 00:30:02,920
+la scaletta di argomenti di cui parlare, e una volta che abbiamo
+
+510
+00:30:02,920 --> 00:30:07,800
+deciso cosa fare durante la riunione, posso prendere anche appunti sulla riunione.
+
+511
+00:30:07,960 --> 00:30:09,960
+Secondo me questo è un approccio.
+
+512
+00:30:10,120 --> 00:30:13,880
+A me non interessa perché a me non capita molto spesso di
+
+513
+00:30:13,880 --> 00:30:15,400
+fare delle cose simili.
+
+514
+00:30:15,400 --> 00:30:18,760
+Tuttavia per altri soggetti può diventare molto comodo.
+
+515
+00:30:18,760 --> 00:30:21,880
+Ovviamente, anche qui tutto il discorso di sincronizzazione.
+
+516
+00:30:21,880 --> 00:30:26,040
+Io non ho approfondito perché sinceramente questa è un'applicazione che io non
+
+517
+00:30:26,040 --> 00:30:31,320
+ho mai usato, l'ho vista graficamente, ha vinto l'Apple Design Award del
+
+518
+00:30:31,320 --> 00:30:32,280
+2018.
+
+519
+00:30:32,280 --> 00:30:34,360
+È veramente una bellissima applicazione.
+
+520
+00:30:35,320 --> 00:30:36,760
+Non c'è nulla da dire.
+
+521
+00:30:36,760 --> 00:30:41,880
+Il funzionamento, diciamolo così è premium, cioè è free per le funzioni
+
+522
+00:30:41,880 --> 00:30:47,000
+base, e poi se si acquista tutto, cioè applicazione per Mac e
+
+523
+00:30:47,000 --> 00:30:51,560
+per iOS, chiamiamolo così iPadOS sono 35 euro.
+
+524
+00:30:51,800 --> 00:30:56,280
+Se invece si sceglie solo l'applicazione per iOS sono 15.
+
+525
+00:30:56,280 --> 00:30:59,000
+E l'altra cosa interessante è che tutta tradotta in italiano.
+
+526
+00:30:59,000 --> 00:31:04,360
+Quindi comunque avete una bella interfaccia, ha vinto gli award, quindi è
+
+527
+00:31:04,360 --> 00:31:09,400
+proprio un'applicazione per Mac e per iPhone e per iPad, diciamo, stesso
+
+528
+00:31:09,400 --> 00:31:14,280
+discorso che abbiamo fatto per Craft, veramente ha un bel sistema.
+
+529
+00:31:15,240 --> 00:31:21,240
+Secondo me è appunto serve per situazioni molto particolari, o comunque non
+
+530
+00:31:21,240 --> 00:31:23,960
+è il calendario standard, mettiamola così.
+
+531
+00:31:23,960 --> 00:31:29,080
+Però sicuramente per certi lavori e per certe esigenze è una cosa
+
+532
+00:31:29,080 --> 00:31:31,560
+che io consiglio di approfondire.
+
+533
+00:31:31,560 --> 00:31:35,640
+Se il calendario normale non vi va bene, non avete necessità, diciamo,
+
+534
+00:31:35,720 --> 00:31:41,800
+di avere una to-do list app specifica, ma volete avere un qualcosa
+
+535
+00:31:41,800 --> 00:31:48,000
+di omnicomprensivo, scritto in Mark now, quindi che potete poi strapolare facilmente
+
+536
+00:31:48,000 --> 00:31:52,480
+e gestire facilmente, perché di fatto sono file di testi e appunto
+
+537
+00:31:52,480 --> 00:31:57,520
+gli appunti della riunione li potete poi prendere e utilizzare per scrivere
+
+538
+00:31:57,520 --> 00:32:03,840
+la relazione, per esempio per abbellirli e formalizzarli meglio per una riunione.
+
+539
+00:32:03,840 --> 00:32:10,080
+Quindi è uno strumento poliedrico e per necessità, diciamo che tipicamente io
+
+540
+00:32:10,080 --> 00:32:13,120
+non ho perché io bene o male, se ho un appuntamento o
+
+541
+00:32:13,280 --> 00:32:18,960
+prendo appunti separatamente, chiamiamoli così, o dei documenti e quindi comunque non
+
+542
+00:32:18,960 --> 00:32:20,160
+ho tutte queste necessità.
+
+543
+00:32:20,160 --> 00:32:24,160
+Però, sicuramente è un'applicazione molto interessante da conoscere e dal sapere che
+
+544
+00:32:24,160 --> 00:32:24,800
+esiste.
+
+545
+00:32:24,800 --> 00:32:29,680
+Sostanzialmente, poi, ovviamente, ci sono nelle note di episodi i famosi link,
+
+546
+00:32:29,680 --> 00:32:36,240
+andatela a vedere e casomai provatela perché c'è l'approccio freemium, quindi potete
+
+547
+00:32:36,240 --> 00:32:39,360
+provarla e poi decidere se fa per voi o meno.
+
+548
+00:32:39,360 --> 00:32:42,880
+E quindi il mio consiglio è ragionateci sopra.
+
+549
+00:32:42,880 --> 00:32:47,040
+Aggiungo un'altra cosa, invece io, perché sto guardando appunto su iPad.
+
+550
+00:32:47,040 --> 00:32:51,120
+La cosa interessante di questa applicazione è che permette anche di prendere
+
+551
+00:32:51,120 --> 00:32:54,640
+appunti disegnando, che non è una cosa da poco.
+
+552
+00:32:54,640 --> 00:32:59,520
+Nel senso che, ad esempio, Notion puoi fare tutto quello che vuoi,
+
+553
+00:32:59,520 --> 00:33:03,280
+tranne disegnare, ed è una grossa mancanza, secondo me.
+
+554
+00:33:03,440 --> 00:33:08,240
+Invece questa applicazione, che assomiglia molto a Notion, invece permette di prendere
+
+555
+00:33:08,240 --> 00:33:09,360
+appunti disegnando.
+
+556
+00:33:09,360 --> 00:33:13,120
+Quindi, un voto favorevole, secondo me, da provare, come diceva il buon
+
+557
+00:33:13,120 --> 00:33:13,600
+Filippo.
+
+558
+00:33:13,600 --> 00:33:18,560
+Ottimo, ottimo, vedi che alla fine anche tu hai approfondito.
+
+559
+00:33:18,560 --> 00:33:23,520
+Allora, l'altra applicazione che mi attira da sempre, devo dire la verità,
+
+560
+00:33:23,520 --> 00:33:26,640
+ma ha un difetto dal mio punto di vista, che attualmente per
+
+561
+00:33:26,640 --> 00:33:29,480
+me è insommontabile, è sorted 3.
+
+562
+00:33:29,280 --> 00:33:36,280
+Allora, questa applicazione a livello di gestione, diciamo, del calendario è spettacolare.
+
+563
+00:33:36,520 --> 00:33:42,200
+È spettacolare nel senso che hanno ingegnerizzato tutta l'applicazione per gestire il
+
+564
+00:33:42,200 --> 00:33:45,080
+calendario in maniera veloce, facile.
+
+565
+00:33:45,240 --> 00:33:51,000
+Potete spostare l'automazione che abbiamo fatto prima, di spostare gli appuntamenti o
+
+566
+00:33:51,000 --> 00:33:56,600
+gli eventi nel calendario, ecco, sorted vi permette di farlo con dei
+
+567
+00:33:56,600 --> 00:34:03,160
+tap perché nasce come applicazione per iPhone e iPad, si integra ovviamente
+
+568
+00:34:03,160 --> 00:34:04,920
+con le applicazioni calendario.
+
+569
+00:34:04,920 --> 00:34:09,000
+Quindi, di fatto le modifiche al calendario che fate in sorted vengono
+
+570
+00:34:09,000 --> 00:34:12,040
+rispecchiate anche nell'applicazione standard di calendario.
+
+571
+00:34:12,040 --> 00:34:15,640
+L'unica cosa che a me non va bene, tra virgolette, perché fino
+
+572
+00:34:15,640 --> 00:34:21,640
+a qui sarebbe topico, è il fatto che non si interfaccia con
+
+573
+00:34:21,880 --> 00:34:28,760
+un'applicazione dell'attività specifica, cioè non puoi ovviamente agganciarla come mi piacerebbe a
+
+574
+00:34:28,760 --> 00:34:30,840
+me a to do Wist, per esempio.
+
+575
+00:34:30,840 --> 00:34:35,160
+Ma non puoi neanche utilizzare i reminder i pro memoria come strumento
+
+576
+00:34:35,160 --> 00:34:35,880
+alternativo.
+
+577
+00:34:35,880 --> 00:34:40,520
+No, tutta l'attività del tutti i to-do, cioè tutte le attività invece
+
+578
+00:34:40,760 --> 00:34:44,840
+sono gestite internamente in un database interno che ovviamente può essere sincronizzato
+
+579
+00:34:44,840 --> 00:34:47,800
+col solito discorso, credo solo di al cloud.
+
+580
+00:34:47,800 --> 00:34:51,480
+Ed è lì dal mio punto di vista che è la peccadolente
+
+581
+00:34:52,120 --> 00:34:53,800
+di questo sistema, diciamo.
+
+582
+00:34:53,800 --> 00:34:59,400
+Anche qui, ovviamente, calendario e attività vengono messe assieme anche a livello
+
+583
+00:34:59,400 --> 00:35:03,000
+di temporale, chiamiamoli così, e quindi è molto interessante.
+
+584
+00:35:03,640 --> 00:35:09,320
+Anche qui applicazione splendida a livello di grafica, diciamo di interazione su
+
+585
+00:35:09,560 --> 00:35:13,240
+iOS, iPadOS e adesso anche per Mac.
+
+586
+00:35:13,480 --> 00:35:17,440
+Ovviamente, anche qui l'applicazione agli acquisti in app, diciamo, non è un
+
+587
+00:35:17,440 --> 00:35:23,120
+abbonamento, ma c'è lo sblocco per macOS sono 25 euro per iPadOS
+
+588
+00:35:23,680 --> 00:35:27,920
+e iOS, sono 15 sostanzialmente.
+
+589
+00:35:28,080 --> 00:35:31,680
+Se invece comprate lo sblocale, diciamo di tutti e tre
+
+590
+00:35:32,720 --> 00:35:36,000
+dispositivi, invece andiamo sui 36 euro.
+
+591
+00:35:36,000 --> 00:35:42,560
+Quindi molto interessante, timeline unificata, e diciamo l'idea è di pianificare velocemente
+
+592
+00:35:42,560 --> 00:35:48,800
+e rapidamente la giornata con questo, appunto, sorted, to sort, vuol dire
+
+593
+00:35:48,960 --> 00:35:51,680
+organizzare e mettere in fila sostanzialmente.
+
+594
+00:35:51,680 --> 00:35:56,080
+Quindi questa è l'idea: addirittura ha una sorta di intelligenza artificiale per
+
+595
+00:35:56,080 --> 00:36:00,640
+la organizzazione degli appuntamenti in base agli spazi che avete nel calendario.
+
+596
+00:36:00,640 --> 00:36:04,080
+Quindi non so un appuntamento alle 2 e 1 alle 5, devo
+
+597
+00:36:04,080 --> 00:36:06,400
+spostare l'appuntamento delle 11.
+
+598
+00:36:06,400 --> 00:36:10,400
+Mi dice che lo posso spostare tra le 4 e le 5,
+
+599
+00:36:10,400 --> 00:36:11,520
+una roba del genere.
+
+600
+00:36:11,920 --> 00:36:13,040
+Insomma, sicuramente
+
+601
+00:36:14,640 --> 00:36:20,480
+è molto interessante anche qui dipende dalle vostre esigenze, però sicuramente io
+
+602
+00:36:21,040 --> 00:36:23,360
+sono stato tentato varie volte di implementarlo.
+
+603
+00:36:23,360 --> 00:36:28,640
+Poi appunto ho necessità di avere comunque una strutturazione delle attività un
+
+604
+00:36:28,640 --> 00:36:34,160
+po' più elaborata appunto io divido le attiv in pratiche e quindi
+
+605
+00:36:34,160 --> 00:36:39,520
+c'è ogni pratica ha una tot di attività, ci sono tutti i
+
+606
+00:36:39,600 --> 00:36:44,000
+progetti collaterali, insomma, avevo bisogno di un'organizzazione un po' più strutturale, e
+
+607
+00:36:44,000 --> 00:36:47,680
+a quel punto lì questo sistema, secondo me, non è perfetto.
+
+608
+00:36:47,680 --> 00:36:52,600
+Diciamo, per altre attività invece, secondo me è il suo perché, ecco,
+
+609
+00:36:52,720 --> 00:36:54,720
+mettiamola così: assolutamente sì.
+
+610
+00:36:54,720 --> 00:36:57,760
+Ma adesso passiamo agli strumenti open source.
+
+611
+00:36:57,760 --> 00:36:59,760
+Fassiamo agli strumenti open source, che ce n'è uno che
+
+612
+00:37:00,000 --> 00:37:03,480
+mi incuriosisce tantissimo, che è proprio il primo.
+
+613
+00:37:03,720 --> 00:37:04,920
+Questo è uno scegli
+
+614
+00:37:06,280 --> 00:37:06,520
+strateg
+
+615
+00:37:08,440 --> 00:37:08,600
+.
+
+616
+00:37:08,840 --> 00:37:12,280
+Allora, questo è molto interessante, non l'ho provato.
+
+617
+00:37:12,440 --> 00:37:13,640
+Apro qui una parentesi.
+
+618
+00:37:13,640 --> 00:37:17,160
+Mentre le prime due applicazioni le ho viste, ho guardato qualche tutorial,
+
+619
+00:37:17,160 --> 00:37:22,200
+ma non le ho utilizzate nella concretezza, diciamo, questa lista di ho
+
+620
+00:37:22,200 --> 00:37:22,920
+cercato.
+
+621
+00:37:22,920 --> 00:37:25,240
+Siccome abbiamo parlato solo di applicazioni a pagamento.
+
+622
+00:37:25,240 --> 00:37:28,440
+Che comunque capisco che non è per tutti, diciamo.
+
+623
+00:37:28,680 --> 00:37:34,440
+Abitualmente, appunto io, per esempio, uso Fantastica e Dist perché le uso
+
+624
+00:37:34,440 --> 00:37:35,160
+per lavoro.
+
+625
+00:37:35,160 --> 00:37:42,280
+Se probabilmente non avessi necessità lavorative, non so se impiegherei questa somma.
+
+626
+00:37:42,280 --> 00:37:46,680
+Non so se fossi ancora studente, ecco caso mai utilizzerei degli strumenti
+
+627
+00:37:46,680 --> 00:37:48,920
+meno costosi, ecco, mettiamola così.
+
+628
+00:37:48,920 --> 00:37:53,720
+Per cui, casomai vi volete semplicemente organizzare per i fatti vostri, vi
+
+629
+00:37:53,720 --> 00:37:58,520
+fa piacere essere organizzati, ma non avete un motivo oggettivo di spendere
+
+630
+00:37:58,520 --> 00:38:03,560
+quei soldi per avere degli strumenti in più, ecco, gli strumenti open
+
+631
+00:38:03,560 --> 00:38:05,720
+source ovviamente sono una bella risorsa.
+
+632
+00:38:05,720 --> 00:38:10,040
+E StarTiger è una di quelle applicazioni che mi ha lasciato molto
+
+633
+00:38:10,120 --> 00:38:12,520
+molto positivamente colpito.
+
+634
+00:38:12,520 --> 00:38:18,280
+È innanzitutto un'applicazione solo per Mac, diciamo progettata per il time locking
+
+635
+00:38:18,440 --> 00:38:23,640
+di cui ho accennato velocemente, c'è sempre il mio famoso webinar e
+
+636
+00:38:23,640 --> 00:38:24,360
+così via.
+
+637
+00:38:24,520 --> 00:38:28,760
+L'idea è quella: lui prende sostanzialmente i dati dal calendario e
+
+638
+00:38:30,040 --> 00:38:30,360
+vi
+
+639
+00:38:31,560 --> 00:38:35,760
+permette di fare una sorta di scaletta di cosa fare nella giornata,
+
+640
+00:38:35,400 --> 00:38:41,320
+proprio, c'è solo il singolo giorno, diciamo, e voi dovete andare da
+
+641
+00:38:41,320 --> 00:38:44,440
+A a B a C a D fino in fondo e fare
+
+642
+00:38:44,440 --> 00:38:46,000
+le vostre cose.
+
+643
+00:38:46,000 --> 00:38:51,360
+È proprio pensato appunto per utilizzare il time blocking in maniera abbastanza
+
+644
+00:38:51,360 --> 00:38:53,440
+stron, come si suol direco.
+
+645
+00:38:53,440 --> 00:38:58,800
+Quindi ti dico, ovviamente esatto, è open source, quindi gratuita anche tra
+
+646
+00:38:58,800 --> 00:39:03,520
+le varie cose, anche a livello grafico, come applicazione Mac è bella,
+
+647
+00:39:03,520 --> 00:39:04,560
+secondo me.
+
+648
+00:39:04,800 --> 00:39:08,880
+Per cui io devo dire la verità, quando l'ho vista, sono rimasto
+
+649
+00:39:08,880 --> 00:39:13,360
+positivamente colpito anche se, come vi dicevo, non l'ho testata sul campo.
+
+650
+00:39:13,360 --> 00:39:17,520
+Ma a questo punto Roberto forse farà un follow-up nelle prossime episodi.
+
+651
+00:39:17,680 --> 00:39:18,960
+Sembra interessante.
+
+652
+00:39:19,280 --> 00:39:24,000
+Mi piace perché, appunto, stavo appunto cercando di trovare un metodo in
+
+653
+00:39:24,000 --> 00:39:27,600
+notion per fare il time blocking, ed è in effetti un po'
+
+654
+00:39:27,920 --> 00:39:31,120
+non dico difficile, ma ci devo un attimo ragionare sopra per come
+
+655
+00:39:31,120 --> 00:39:35,360
+metterlo giù, nel senso che se conviene farselo a parte oppure no,
+
+656
+00:39:35,360 --> 00:39:39,680
+se però c'è un'applicazione di questo tipo che ti aiuta non è
+
+657
+00:39:39,680 --> 00:39:40,000
+male.
+
+658
+00:39:40,000 --> 00:39:44,240
+Perché poi notion prendi i calendari di ICAL o no?
+
+659
+00:39:44,240 --> 00:39:48,400
+Non ho ancora provato a fare una convergenza, chiamiamola così.
+
+660
+00:39:48,400 --> 00:39:50,560
+Secondo me viaggia in modo separato.
+
+661
+00:39:50,560 --> 00:39:53,360
+Uno delle problematiche, tra virgolette, del time blocking.
+
+662
+00:39:53,360 --> 00:39:56,880
+È ovvio che se devi avere due calendari separati e uno fa
+
+663
+00:39:56,880 --> 00:40:00,240
+il time blocking e nell'altro c'è gli appuntamenti, è una duplicazione di
+
+664
+00:40:00,240 --> 00:40:04,320
+attività, cioè inizia a diventare dispendioso a livello di tempo, mettiamola così.
+
+665
+00:40:04,480 --> 00:40:09,760
+Invece, qui prendi i dati da calendario e quindi, ovviamente, avete il
+
+666
+00:40:09,760 --> 00:40:11,840
+vantaggio di aver già tutto strutturato.
+
+667
+00:40:11,840 --> 00:40:15,360
+Infatti, poi è uno dei motivi per cui, per esempio, l'integrazione tra
+
+668
+00:40:15,360 --> 00:40:18,400
+Fantastical e to doist a me fa molto comodo.
+
+669
+00:40:18,400 --> 00:40:22,160
+Perché in questa maniera ho tutto in un posto solo e posso
+
+670
+00:40:22,160 --> 00:40:25,920
+proprio utilizzare il calendario per spostare gli impegni per spostare sia le
+
+671
+00:40:25,920 --> 00:40:29,840
+attività da fare e avere una sincronia tra attività da fare e
+
+672
+00:40:30,520 --> 00:40:33,240
+tempo bloccato per fare quella singola attività.
+
+673
+00:40:29,840 --> 00:40:37,240
+Lo sto provando proprio in questo momento è molto carino.
+
+674
+00:40:37,880 --> 00:40:42,120
+Allora, adesso io vado avanti, intanto, tu vai il test.
+
+675
+00:40:42,120 --> 00:40:43,320
+Bene, bene, bene.
+
+676
+00:40:43,320 --> 00:40:45,320
+Poi abbiamo corner call.
+
+677
+00:40:45,560 --> 00:40:50,360
+Allora ci sono tutta una serie di applicazioni abbastanza di nicchia, secondo
+
+678
+00:40:50,360 --> 00:40:50,680
+me.
+
+679
+00:40:50,680 --> 00:40:54,680
+Tuttavia che, per esempio, a me in Fantastical piace molto.
+
+680
+00:40:54,680 --> 00:40:58,200
+Anche se poi io non uso neanche quella parte di Fantastical, ma
+
+681
+00:40:58,200 --> 00:41:00,760
+io uso High Stat menu High Status menu.
+
+682
+00:41:00,760 --> 00:41:04,520
+Una delle cose interessanti è avere tutta una serie, chiamiamolo così, di
+
+683
+00:41:04,520 --> 00:41:08,760
+widget di piccoli programmi da barra di menu che vi permettono di
+
+684
+00:41:08,760 --> 00:41:13,560
+vedere il calendario, per esempio, assieme all'orologio, nell'orologio.
+
+685
+00:41:13,560 --> 00:41:17,560
+E io infatti sembra una banalità, però spesso e volentieri, non so,
+
+686
+00:41:17,560 --> 00:41:21,800
+oggi stiamo registrando il venerdì 17 dicembre.
+
+687
+00:41:21,800 --> 00:41:24,200
+Se io ci clicco sopra utilizzando
+
+688
+00:41:25,320 --> 00:41:31,160
+ai status menu, ho ovviamente vedo quanti impegni, cioè quanti calendari sono
+
+689
+00:41:31,160 --> 00:41:34,680
+nei singoli giorni, vedo il calendario ovviamente di tutto il mese di
+
+690
+00:41:34,680 --> 00:41:38,760
+dicembre, che a volte è utile avere la possibilità di vedere velocemente
+
+691
+00:41:39,240 --> 00:41:43,480
+cosa sta succedendo, qual è il giovedì successivo e così via.
+
+692
+00:41:43,720 --> 00:41:48,600
+Questo è molto comodo perché sta nella barra del menu di macOS,
+
+693
+00:41:48,600 --> 00:41:51,880
+ovviamente mi dà la data del giorno, quindi io a colpo d'occhio
+
+694
+00:41:52,040 --> 00:41:54,360
+so che oggi è quel giorno lì.
+
+695
+00:41:54,360 --> 00:41:58,680
+Se ci clicco sopra, vedo il calendario completo, vedo anche più o
+
+696
+00:41:58,680 --> 00:42:01,400
+meno quanti eventi e di che calendari sono.
+
+697
+00:42:01,400 --> 00:42:06,760
+Gli eventi, ed ecco, Corna Call ovviamente lo fa open source quindi
+
+698
+00:42:06,760 --> 00:42:08,280
+gratuitamente e così via.
+
+699
+00:42:08,320 --> 00:42:12,200
+Sì, stavo aggiungo anche qui la mia, stavo osservando che, in effetti,
+
+700
+00:42:12,200 --> 00:42:14,560
+è una pecca questa di Meco S.
+
+701
+00:42:13,640 --> 00:42:15,200
+Se tu clic
+
+702
+00:42:15,360 --> 00:42:20,480
+chi sull'orologio con la data, salta fuori solo quattro impostazioni marce e invece
+
+703
+00:42:20,560 --> 00:42:25,520
+facesse saltare fuori questo, sarebbe decisamente più interessante.
+
+704
+00:42:27,120 --> 00:42:31,760
+Vedi che ti sto facendo conoscere applicazioni interessanti.
+
+705
+00:42:34,240 --> 00:42:36,240
+L'altra si chiama App Next.
+
+706
+00:42:36,960 --> 00:42:38,160
+Che mi ricorda il nome
+
+707
+00:42:39,600 --> 00:42:40,080
+Alex.
+
+708
+00:42:40,240 --> 00:42:43,840
+Ma nel caso specifico, qui è molto più tecnica, come si dice,
+
+709
+00:42:43,840 --> 00:42:48,880
+perché è la cosa che arriva dopo, sostanzialmente, l'attività successiva.
+
+710
+00:42:49,040 --> 00:42:54,640
+Quindi sono appuntamenti successivi come videocamate con Zoom Google Meet e quant'altro.
+
+711
+00:42:54,640 --> 00:42:59,120
+Anche qui è molto interessante perché ti permette, soprattutto adesso, vabbè, è
+
+712
+00:42:59,120 --> 00:43:04,000
+molto americana come approccio, cioè sono in call dalle 5 del pattino
+
+713
+00:43:04,000 --> 00:43:05,120
+alle 5 del pomeriggio.
+
+714
+00:43:05,280 --> 00:43:06,960
+Ma spiega un po' meglio come funziona.
+
+715
+00:43:06,960 --> 00:43:07,760
+Aspetta un po'.
+
+716
+00:43:07,760 --> 00:43:12,400
+Ah, quindi becca tutto quanto dal proprio calendario esatto.
+
+717
+00:43:12,560 --> 00:43:18,400
+E poi ti fa vedere i meet, le videochiamate, chiamiamole così del
+
+718
+00:43:18,400 --> 00:43:18,800
+giorno.
+
+719
+00:43:18,800 --> 00:43:24,720
+Infatti, questa rientra tra le applicazioni molto verticali, chiamiamole così, come quella
+
+720
+00:43:24,720 --> 00:43:29,440
+successiva che è i meeting bar, che appunto è un'applicazione, sempre a
+
+721
+00:43:29,440 --> 00:43:33,120
+bar di menu per gli appuntamenti, e più o meno, infatti, sono
+
+722
+00:43:33,120 --> 00:43:35,840
+tutte applicazioni similari, diciamo.
+
+723
+00:43:35,840 --> 00:43:40,400
+L'unica l'ultima applicazione open source, che questa l'ho messa come chicca perché
+
+724
+00:43:40,400 --> 00:43:44,480
+so che a Roberto non interesserà, ma è Carse, che vi permette
+
+725
+00:43:44,480 --> 00:43:48,080
+di avere un'applicazione calendario direttamente nel terminale.
+
+726
+00:43:48,320 --> 00:43:54,160
+Cioè, se volete tornare a usare, MS-DOS per il calendario, qui avete
+
+727
+00:43:54,160 --> 00:43:55,920
+il vostro applicazione.
+
+728
+00:43:56,560 --> 00:43:57,600
+È molto ben fatto,
+
+729
+00:43:58,800 --> 00:44:02,200
+molto semplice, ovviamente li collega sempre al calendario di macOS.
+
+730
+00:44:02,440 --> 00:44:07,160
+Quindi addirittura voi vivete nel terminale, diciamo, potete avere anche la vostra
+
+731
+00:44:07,160 --> 00:44:11,080
+applicazione del calendario che ovviamente gestita riga di comando con vari comand
+
+732
+00:44:11,080 --> 00:44:11,640
+e così via.
+
+733
+00:44:11,640 --> 00:44:17,000
+Insomma, questa è una chicchina che ho messo lì come cosa finale,
+
+734
+00:44:17,000 --> 00:44:17,640
+diciamo.
+
+735
+00:44:17,640 --> 00:44:21,720
+E poi invece abbiamo applicazioni da barra di menu, chiamiamole così.
+
+736
+00:44:22,600 --> 00:44:26,440
+Nel senso che ce ne sono alcune gratuite, diciamo un po' meno
+
+737
+00:44:26,440 --> 00:44:27,880
+belle, devo dire la verità.
+
+738
+00:44:27,880 --> 00:44:32,840
+E alcune invece a pagamento, anche abbastanza carucce a livello generale, che
+
+739
+00:44:32,920 --> 00:44:37,640
+però devo dire la verità, fanno il loro mestiere quindi le segnalo.
+
+740
+00:44:37,640 --> 00:44:41,640
+Allora, la prima è EtSync che è gratuita e di fatto fa
+
+741
+00:44:41,640 --> 00:44:45,720
+quello che abbiamo appena detto, nella data dovrebbe farvi vedere.
+
+742
+00:44:45,720 --> 00:44:49,000
+Adesso apro anche il sito per essere sicuro, perché poi ne ho
+
+743
+00:44:49,000 --> 00:44:50,920
+viste veramente tante, devo dire la verità.
+
+744
+00:44:51,080 --> 00:44:56,120
+Questa è gratuita, molto bellina come grafica, vi fa vedere il calendario
+
+745
+00:44:56,120 --> 00:45:00,440
+e gli appuntamenti della giornata, cioè gli appuntamenti che avete nel calendario.
+
+746
+00:45:00,440 --> 00:45:04,440
+Molto ben strutturata, molto graficamente carina.
+
+747
+00:45:04,680 --> 00:45:08,600
+È una società che sviluppa altri software, questo è un software molto
+
+748
+00:45:08,600 --> 00:45:10,200
+basico, mettiamola così.
+
+749
+00:45:10,200 --> 00:45:18,200
+Tuttavia, se volete una cosa gratuita, diciamo è questa calendar 366, 366
+
+750
+00:45:18,280 --> 00:45:19,640
+giorni all'anno.
+
+751
+00:45:19,640 --> 00:45:23,960
+2, invece che ho scoperto che non ho messo il link all'applicazione
+
+752
+00:45:25,240 --> 00:45:30,840
+dell'episodio, ma adesso lo cercheremo immediatamente, fa la stessa cosa, ma cosa
+
+753
+00:45:30,840 --> 00:45:33,000
+è che costa 15 euro.
+
+754
+00:45:33,000 --> 00:45:38,920
+È molto più, assomiglia, tra virgolette, Fantastical per certi versi, e vi
+
+755
+00:45:38,920 --> 00:45:42,920
+permette proprio anche di vedere il calendario in varie modalità.
+
+756
+00:45:42,920 --> 00:45:47,600
+Anche qui appunto, il gioco è quello di visualizzare velocemente nella barra
+
+757
+00:45:44,760 --> 00:45:49,360
+di menu il calendario.
+
+758
+00:45:49,680 --> 00:45:53,200
+Personalmente, per la cifra che è, non so se ne valga la
+
+759
+00:45:53,200 --> 00:45:54,320
+pena, devo dire la verità.
+
+760
+00:45:54,880 --> 00:45:56,800
+L'icona è molto carina,
+
+761
+00:45:58,080 --> 00:46:00,480
+sì, sì, no, ho capito.
+
+762
+00:46:00,480 --> 00:46:03,360
+però adesso è salito di scorso.
+
+763
+00:46:03,520 --> 00:46:06,960
+Abbiamo anche Istacal che fa più o meno la stessa cosa.
+
+764
+00:46:06,960 --> 00:46:11,520
+Sono applicazioni paritetiche, adesso me le sto aprendo anch'io perché me le
+
+765
+00:46:11,520 --> 00:46:15,680
+ricordo, ma volevo darci una scorsa, anch'io.
+
+766
+00:46:15,680 --> 00:46:19,360
+Questa, diciamo, vi dà proprio tutto il calendario: cioè, nel senso, oltre
+
+767
+00:46:19,360 --> 00:46:23,200
+a avere la possibilità di vedere il calendario, potete addirittura dalla barra
+
+768
+00:46:23,200 --> 00:46:26,640
+del menu poi aprire il calendario, modificarlo e fare tutta una serie
+
+769
+00:46:26,640 --> 00:46:27,040
+di cose.
+
+770
+00:46:27,040 --> 00:46:30,160
+E ovviamente anche qui la cosa interessante è che, oltre al calendario
+
+771
+00:46:30,160 --> 00:46:35,520
+di Mac, calendario di Apple, diciamo, ha la possibilità di interagire con
+
+772
+00:46:35,520 --> 00:46:38,880
+Office 365, Google, Outlook e così via.
+
+773
+00:46:38,880 --> 00:46:44,560
+Quindi sono, diciamo che sono applicazioni molto specifiche a pagamento, quindi diciamo
+
+774
+00:46:44,880 --> 00:46:50,000
+nascono per uno scopo specifico e per una funzione specifica, esigenze specifiche.
+
+775
+00:46:50,000 --> 00:46:53,840
+Ecco, questa la potete trovare, ti interrompo sempre nell'ultimo commento.
+
+776
+00:46:53,840 --> 00:46:57,360
+Questa la potete trovare anche in setup per gli afficionators
+
+777
+00:46:58,800 --> 00:47:01,520
+o estat menu.
+
+778
+00:47:01,520 --> 00:47:04,080
+Allora anche Istat menu c'è
+
+779
+00:47:05,520 --> 00:47:08,240
+io uso la versione 5 che avevo comprato.
+
+780
+00:47:08,240 --> 00:47:12,240
+Che peraltro ho scoperto con mia gioia che funziona ancora perfettamente su
+
+781
+00:47:12,400 --> 00:47:12,960
+Moave.
+
+782
+00:47:13,040 --> 00:47:14,400
+L'ho installata e funziona.
+
+783
+00:47:14,400 --> 00:47:19,120
+La cosa carina, ovviamente Istat menu non è un'applicazione di calendario, tendo
+
+784
+00:47:19,120 --> 00:47:23,760
+a precisare, ha anche la possibilità, come vi dicevo, di visualizzare la
+
+785
+00:47:23,760 --> 00:47:25,120
+data e il calendario.
+
+786
+00:47:25,120 --> 00:47:28,320
+Se si clicca sulla data, ha tutta una serie di altre funzioni
+
+787
+00:47:28,320 --> 00:47:31,240
+che diciamo non sono tematiche di questa puntata.
+
+788
+00:47:31,640 --> 00:47:36,760
+Vi permettono di vedere quanto la CPU è in stress, quando il
+
+789
+00:47:36,760 --> 00:47:42,040
+trasferimento dati per il computer, quanto hard disk avete occupato.
+
+790
+00:47:42,040 --> 00:47:44,040
+Insomma, tutta una serie di sensori.
+
+791
+00:47:44,040 --> 00:47:48,520
+Solitamente i sensori negli ultimi, io ho la versione vecchia, non sono
+
+792
+00:47:48,520 --> 00:47:51,640
+tutti sopportati, però, insomma, ha tutta una serie di funzioni anche molto
+
+793
+00:47:51,640 --> 00:47:52,200
+carine.
+
+794
+00:47:52,200 --> 00:47:56,440
+Pacchettino completo di varie utility da menu, diciamo da menu bar.
+
+795
+00:47:56,440 --> 00:47:59,960
+Alla fine, io l'avendola comprata, la uso perché ce l'ho, quindi queste
+
+796
+00:48:00,040 --> 00:48:00,360
+qua.
+
+797
+00:48:00,360 --> 00:48:04,520
+Da ultimo abbiamo i cosiddetti servizi colorare al calendario.
+
+798
+00:48:04,520 --> 00:48:05,640
+Quali sono?
+
+799
+00:48:05,640 --> 00:48:11,560
+Anche qui è molto legato al settore business enterprise, diciamo cioè gente
+
+800
+00:48:11,560 --> 00:48:13,880
+che fa riunioni in continuazione.
+
+801
+00:48:13,880 --> 00:48:19,240
+Tuttavia sono tutti servizi similari, diciamo, li descriviamo a livello generale.
+
+802
+00:48:19,240 --> 00:48:22,360
+Poi è ovvio che ognuno ha i suoi pregi e i suoi
+
+803
+00:48:22,360 --> 00:48:30,120
+difetti, tendenzialmente se volete averli fatti bene, dovete pagare, altrimenti avete queste
+
+804
+00:48:30,280 --> 00:48:38,600
+opzioni gratuite, diciamo, che possono essere comode, ma abitualmente portano pubblicità, limitazioni,
+
+805
+00:48:38,600 --> 00:48:44,200
+tracciamenti abbastanza discutibili, mettiamola così, quindi valutate poi in base alle vostre
+
+806
+00:48:44,200 --> 00:48:44,840
+esigenze.
+
+807
+00:48:44,840 --> 00:48:47,960
+Per esempio, Doodle, che è il primo di cui parliamo, credo di
+
+808
+00:48:48,120 --> 00:48:52,600
+aver scoperto questa funzione, credo su Mac Power User, ma non garantisco.
+
+809
+00:48:52,600 --> 00:48:55,880
+La mamma, perché almeno da quello che ne so io, è la
+
+810
+00:48:55,880 --> 00:48:57,560
+prima applicazione che fa queste cose.
+
+811
+00:48:57,960 --> 00:49:04,280
+Di fatto, voi create dei giorni di disponibilità e potete appunto invitare,
+
+812
+00:49:04,280 --> 00:49:09,800
+diciamo, gli altri partecipanti alla riunione a decidere qual è il giorno
+
+813
+00:49:09,800 --> 00:49:11,000
+che va bene a tutti.
+
+814
+00:49:11,000 --> 00:49:15,600
+Quindi si fa una sorta di voto sul giorno che va bene
+
+815
+00:49:14,840 --> 00:49:20,720
+a tutti, o quantomeno, va bene alla maggior parte dei presunti partecipanti.
+
+816
+00:49:20,800 --> 00:49:26,160
+Io l'ho usata molto per le attività di associazionismo a cui partecipo,
+
+817
+00:49:26,160 --> 00:49:31,440
+perché ovviamente c'era da incastrare calendari di vari avvocati con vari impegni
+
+818
+00:49:31,440 --> 00:49:32,160
+e tutto il resto.
+
+819
+00:49:32,160 --> 00:49:36,160
+Quindi buttavi delle date più o meno nell'arco di una settimana e
+
+820
+00:49:36,160 --> 00:49:41,120
+abitualmente siamo in sette, credo, almeno 6 si riuscivano a trovare una
+
+821
+00:49:41,120 --> 00:49:44,480
+data in cui andava bene un po' a tutti, o quantomeno una
+
+822
+00:49:44,480 --> 00:49:47,840
+data dove la maggior parte era presente o poteva essere presente e
+
+823
+00:49:47,840 --> 00:49:48,320
+così via.
+
+824
+00:49:48,320 --> 00:49:52,880
+Quindi molto comodo, anche qui pubblicità a Google se non fate il
+
+825
+00:49:52,880 --> 00:49:57,920
+piano pagamento, che, però è abbastanza caro, sono quasi 7 euro al
+
+826
+00:49:57,920 --> 00:50:03,120
+mese, se avete veramente tante riunioni, ha un senso logico, altrimenti non
+
+827
+00:50:03,120 --> 00:50:04,560
+ne vale veramente la pena.
+
+828
+00:50:04,560 --> 00:50:08,800
+Doodle è uno che scimmiotta Google, ovviamente.
+
+829
+00:50:08,800 --> 00:50:10,320
+È tradotto anche in italiano.
+
+830
+00:50:10,320 --> 00:50:16,480
+Quindi anche questo è interessante, è anche user friendly, per le madrelingue
+
+831
+00:50:16,480 --> 00:50:21,920
+italiane e non gli anglofoni, mettiamola così, Calendli, che è l'altra soluzione
+
+832
+00:50:21,920 --> 00:50:26,960
+che molto in auge adesso, però rimane, è in inglese e quindi
+
+833
+00:50:26,960 --> 00:50:29,840
+già questo dipende da in realtà
+
+834
+00:50:31,120 --> 00:50:35,360
+le utilizzate tendenzialmente, diciamo, non va bene per tutti, diciamo.
+
+835
+00:50:35,520 --> 00:50:41,200
+Piano essenzial che è il medio, costa comunque 8 dollari al mese
+
+836
+00:50:41,360 --> 00:50:45,440
+e quello che ha almeno le funzioni base per funzionare abbastanza bene.
+
+837
+00:50:45,440 --> 00:50:49,280
+La cosa carina di questo sistema è che potete fare anche automazioni,
+
+838
+00:50:49,520 --> 00:50:53,680
+insomma, si possono fare tutta una serie di cosette in più casomai,
+
+839
+00:50:53,840 --> 00:50:55,520
+che può diventare comodo.
+
+840
+00:50:55,520 --> 00:50:59,680
+È diverso calendary, cioè si aggancia il vostro calendario, voi potete dare
+
+841
+00:50:59,680 --> 00:51:05,400
+delle disponibilità del vostro calendario, e a questo punto i vostri clienti
+
+842
+00:51:06,040 --> 00:51:10,280
+l'esempio tipico potrebbe essere questo: i vostri clienti o i vostri studenti
+
+843
+00:51:10,280 --> 00:51:15,160
+che devono venire a colloquio, voi date queste fasce orar in cui
+
+844
+00:51:15,160 --> 00:51:21,960
+siete disponibili, possono, tra virgolette, prenotare l'appuntamento direttamente e ovviamente, una volta
+
+845
+00:51:21,960 --> 00:51:26,920
+che vi verrà mostrato nel vostro calendario di scelta, diciamo, e potrete
+
+846
+00:51:26,920 --> 00:51:29,080
+accettare o rifiutare l'appuntamento.
+
+847
+00:51:29,080 --> 00:51:33,480
+Quindi, molto comodo, perché, per esempio, non so, io ricevo al martedì
+
+848
+00:51:33,480 --> 00:51:39,320
+pomeriggio o ogni ora un cliente può prenotarsi e io posso mandare
+
+849
+00:51:39,320 --> 00:51:43,880
+direttamente il link per prenotarsi in quei giorni lì, ovviamente, quando io
+
+850
+00:51:43,880 --> 00:51:48,200
+non ho già prenotato un altro appuntamento quindi è molto comodo per
+
+851
+00:51:48,200 --> 00:51:48,840
+queste cose.
+
+852
+00:51:49,080 --> 00:51:51,880
+Il difetto, appunto, è che è in lingua inglese.
+
+853
+00:51:51,880 --> 00:51:56,600
+La versione open source c'è quindi sarebbe gratuita.
+
+854
+00:51:56,600 --> 00:52:00,360
+Tuttavia, vi metto già le mani avanti, non è per tutti, e
+
+855
+00:52:00,360 --> 00:52:06,040
+comunque se costa poco perché è open source, richiede comunque competenze tecniche
+
+856
+00:52:06,040 --> 00:52:09,800
+tali per cui probabilmente vi costa a livello pratico di più.
+
+857
+00:52:09,800 --> 00:52:17,000
+Tuttavia, si chiama Calenzo, che è stato poi rinominato recentemente CalcomCal.com, che
+
+858
+00:52:17,000 --> 00:52:20,200
+è anche il sito diciamo del questo progetto, è un progetto open
+
+859
+00:52:20,200 --> 00:52:25,160
+source, quindi lo potete installare e self hostare, come si dice: in
+
+860
+00:52:25,160 --> 00:52:29,880
+giargo tecnico, cioè avere il servizio in un vostro sistema di hosting.
+
+861
+00:52:29,880 --> 00:52:33,320
+Ovviamente dovete avere anche le capacità per installarlo.
+
+862
+00:52:33,400 --> 00:52:36,520
+Lo stanno sviluppando, è un progetto nuovo, lo stanno sviluppando molto, ha
+
+863
+00:52:36,520 --> 00:52:43,160
+ottenuto molti finanziamenti economici, perché nel mondo invece anglosassone, soprattutto nella grande
+
+864
+00:52:43,160 --> 00:52:50,080
+impresa, queste queste soluzioni hanno il loro perché, perché abitualmente nel terzo
+
+865
+00:52:50,080 --> 00:52:55,280
+settore, chiamiamolo così, le riunioni sono la maggior parte della giornata lavorativa
+
+866
+00:52:55,280 --> 00:52:59,680
+di un dipendente e quindi gestire anche le riunioni del team e
+
+867
+00:52:59,680 --> 00:53:01,760
+così via, può diventare molto comodo.
+
+868
+00:53:01,760 --> 00:53:05,840
+Quindi hanno molto successo in America e vengono finanziate, ce ne sono
+
+869
+00:53:05,840 --> 00:53:08,480
+vari appunto che hanno fatto questa cosa qua.
+
+870
+00:53:08,480 --> 00:53:14,240
+Come dicevo, il problema è che la parte gratuita, veramente gratuita, richiede
+
+871
+00:53:14,240 --> 00:53:18,720
+comunque capacità che non tutti hanno, mettiamola così, anche perché ovviamente per
+
+872
+00:53:18,720 --> 00:53:23,520
+potersi interfacciare al vostro calendario dovete fare tutta una serie di operazioni
+
+873
+00:53:23,520 --> 00:53:28,720
+relativamente complicate perché di fatto date accesso a un'applicazione terza al vostro
+
+874
+00:53:28,720 --> 00:53:34,400
+calendario, ed è anche uno di quei motivi, chiamiamoli così, per stare
+
+875
+00:53:34,400 --> 00:53:36,960
+un attimo all'occhio su queste soluzioni.
+
+876
+00:53:36,960 --> 00:53:41,440
+Cioè, la soluzione gratuita, però non è open source o comunque io
+
+877
+00:53:41,440 --> 00:53:42,960
+ci starei abbastanza lontano.
+
+878
+00:53:42,960 --> 00:53:49,680
+Perché ovviamente permettete a un'applicazione terza di andare a inserirsi nel vostro
+
+879
+00:53:49,680 --> 00:53:53,120
+calendario e quindi anche fare potenzialmente dei danni.
+
+880
+00:53:53,120 --> 00:53:57,360
+È ovvio che non sono cose clamorose, però, da avvocato, come si
+
+881
+00:53:57,360 --> 00:54:01,920
+suol dire, io consiglio cautela e mettiamola così.
+
+882
+00:54:02,240 --> 00:54:07,280
+L'ultimo progetto non è strettamente legato a questo, ma è una cosa:
+
+883
+00:54:07,440 --> 00:54:08,400
+sono molto curioso.
+
+884
+00:54:08,400 --> 00:54:14,320
+Poi noi abbiamo come back-end di A2 Next Cloud, quindi probabilmente Roberto
+
+885
+00:54:14,320 --> 00:54:16,960
+si coccherà qualche test, quando avrò.
+
+886
+00:54:17,040 --> 00:54:17,920
+Fatto l'upgrade.
+
+887
+00:54:17,920 --> 00:54:22,320
+Tuttavia, perché attualmente non siamo la versione giusta per poterlo utilizzare.
+
+888
+00:54:22,320 --> 00:54:26,640
+Next Cloud, dalla versione 23 Next Cloud tra le varie cose, è
+
+889
+00:54:26,640 --> 00:54:29,240
+una piattaforma open source per la collaborazione.
+
+890
+00:54:29,240 --> 00:54:33,800
+Sia scrittura collaborativa che gestione dei file in maniera collaborativa che del
+
+891
+00:54:29,920 --> 00:54:34,600
+calendario.
+
+892
+00:54:34,760 --> 00:54:38,920
+E dalla versione 23, che è app 2, si chiama, dà la
+
+893
+00:54:38,920 --> 00:54:40,920
+possibilità anche di fissare appuntamenti.
+
+894
+00:54:40,920 --> 00:54:47,240
+Quindi già comunque hai un calendario interno di Nextcloud che funziona anche
+
+895
+00:54:47,240 --> 00:54:47,640
+con me.
+
+896
+00:54:47,640 --> 00:54:51,240
+Che è interessante proprio perché in questo caso tu hai il calendario
+
+897
+00:54:51,240 --> 00:54:55,960
+cloud, ma con una gestione, ovviamente tua del tuo cloud, chiamiamolo così,
+
+898
+00:54:55,960 --> 00:55:01,800
+perché NextCloud, appunto, sempre nel discorso del self host, cioè del gestirlo
+
+899
+00:55:01,800 --> 00:55:08,600
+in proprio, diciamo, garantisce maggior sicurezza, maggior tutela e ovviamente ti garantisce
+
+900
+00:55:08,600 --> 00:55:11,560
+una piattaforma collaborativa sempre più evoluta.
+
+901
+00:55:11,560 --> 00:55:14,760
+Per cui questa forse è l'alternativa migliore attualmente.
+
+902
+00:55:14,760 --> 00:55:18,520
+Non ho testato e quindi non posso garantire che funzioni anche con
+
+903
+00:55:18,520 --> 00:55:22,520
+calendari di terze parti, cosa che dubito fondamentalmente.
+
+904
+00:55:22,760 --> 00:55:27,400
+Però sicuramente è una bella alternativa e appunto, tra le varie cose,
+
+905
+00:55:27,400 --> 00:55:30,680
+uno dei ragionamenti che sto pensando di fare per la professione è
+
+906
+00:55:30,680 --> 00:55:34,280
+di avere tutti i miei calendari cloud, chiamiamoli così su Next Cloud.
+
+907
+00:55:34,440 --> 00:55:38,280
+Ho fatto qualche test, non sono ancora arrivato in fondo, anche perché
+
+908
+00:55:38,360 --> 00:55:43,800
+appunto, come vi dicevo, attualmente me lo gestisco io questo server e
+
+909
+00:55:43,800 --> 00:55:46,120
+non sono un tecnico informatico, mettiamola così.
+
+910
+00:55:46,120 --> 00:55:46,680
+Quindi anche
+
+911
+00:55:47,880 --> 00:55:50,520
+l'avvocato me lo sconsiglio da solo esatto.
+
+912
+00:55:50,760 --> 00:55:56,120
+Per cui per ora preferisco appoggiarmi a servizi di terze parti.
+
+913
+00:55:56,120 --> 00:56:02,760
+Però sappiate che può essere una soluzione interessante e peraltro esistono vari
+
+914
+00:56:03,720 --> 00:56:09,080
+in Europa, perché poi Nextcloud, la società che lo sviluppa è tedesca,
+
+915
+00:56:09,080 --> 00:56:13,400
+sostanzialmente, ha tutta una serie di vantaggi, tra cui essere stata pensata
+
+916
+00:56:13,400 --> 00:56:15,000
+appositamente anche per il GDPR.
+
+917
+00:56:15,280 --> 00:56:19,600
+Quindi, insomma, per chi ci lavora, secondo me, una soluzione interessante a
+
+918
+00:56:19,600 --> 00:56:24,880
+pagamento, cioè con un fornitore del servizio che vi garantisca la gestione
+
+919
+00:56:24,880 --> 00:56:28,160
+di tutta la parte infrastrutturale e di server.
+
+920
+00:56:28,160 --> 00:56:32,320
+Direi che a questo punto abbiamo chiuso però un orario decente: sono
+
+921
+00:56:32,320 --> 00:56:36,080
+le 10 e mezza di sera e quindi non ti puoi lamentare.
+
+922
+00:56:36,720 --> 00:56:40,880
+Mi lamento, ma ti vedo anche un po' più rilassato.
+
+923
+00:56:40,880 --> 00:56:41,520
+Sì, vero?
+
+924
+00:56:41,520 --> 00:56:42,960
+È incredibile!
+
+925
+00:56:43,280 --> 00:56:46,560
+Comunque, in ogni caso è stata un'altra bella puntata.
+
+926
+00:56:46,560 --> 00:56:50,080
+Questa è il numero 26 dove abbiamo parlato di crendali e tutto
+
+927
+00:56:50,080 --> 00:56:54,000
+ciò che ci gira attorno, a corollario della puntata scorsa la 25
+
+928
+00:56:54,080 --> 00:56:58,640
+dove abbiamo iniziato il discorso, troverete, come sempre, all'interno delle note dell'episodio
+
+929
+00:56:58,720 --> 00:57:03,360
+il link degli argomenti che abbiamo trattato in puntata e tutti i
+
+930
+00:57:03,360 --> 00:57:10,480
+nostri riferimenti li potete trovare anche sulla pagina web podcast.it26.
+
+931
+00:57:10,480 --> 00:57:14,320
+Per quanto mi riguarda, potete trovare un po' dove volete se sono
+
+932
+00:57:14,320 --> 00:57:15,360
+ancora vivo.
+
+933
+00:57:15,360 --> 00:57:18,720
+Nel senso che con tutto quello che faccio prima o poi dovrò
+
+934
+00:57:18,720 --> 00:57:19,840
+mollare da qualche parte.
+
+935
+00:57:19,840 --> 00:57:22,800
+C'è solo da tirare fuori quello con la paglizza più corta per
+
+936
+00:57:22,800 --> 00:57:24,000
+capire da dove mollare.
+
+937
+00:57:24,000 --> 00:57:27,120
+Maker e architettura, il mio blog personale.
+
+938
+00:57:27,120 --> 00:57:28,960
+Snap, architettura imperfetta.
+
+939
+00:57:28,960 --> 00:57:33,040
+Invece il mio podcast, mi trovate anche qualche articolo sul blog di
+
+940
+00:57:33,040 --> 00:57:38,240
+Graphisoft Italia che praticamente tratta di Archicad, essenzialmente un programma per la
+
+941
+00:57:38,240 --> 00:57:39,440
+progettazione Beam.
+
+942
+00:57:39,440 --> 00:57:43,760
+Poi dove mi possono trovare tendenzialmente su qualche podcast qua e là,
+
+943
+00:57:43,760 --> 00:57:46,400
+e poi ovviamente su A2 podcast.
+
+944
+00:57:46,400 --> 00:57:50,720
+E se andate in giro, probabilmente trovete anche qualche simpatico articolo su
+
+945
+00:57:50,720 --> 00:57:56,320
+LinkedIn Twitter oppure Instagram dove posto tante belle fotografie del mio lavoro,
+
+946
+00:57:56,320 --> 00:57:57,360
+di quello che faccio.
+
+947
+00:57:57,360 --> 00:58:01,960
+E poi, tra l'altro, sono amico con un simpatico personaggio che si
+
+948
+00:58:01,960 --> 00:58:05,400
+chiama Filippo Strozzi che invece lui lo potete trovare un po' meno
+
+949
+00:58:05,400 --> 00:58:08,120
+in giro di me perché lui lavora molto più di me, ma
+
+950
+00:58:08,120 --> 00:58:13,720
+soprattutto e ha un blog che si chiama Avvocati e Mac dove
+
+951
+00:58:13,720 --> 00:58:16,840
+parla delle sue avventure di avvocato col Mac un po' come le
+
+952
+00:58:16,840 --> 00:58:21,240
+mie avventure da architetto col Mac e chiaramente siamo molto affini sotto
+
+953
+00:58:21,240 --> 00:58:24,840
+questo punto di vista ha un altro podcast che si chiama Compendium
+
+954
+00:58:24,840 --> 00:58:28,840
+e prima o poi riprenderà speriamo nel corso del 2022 di sentirlo
+
+955
+00:58:28,840 --> 00:58:32,280
+un po' più spesso e appunto dobbiamo iniziare a fare le puntate
+
+956
+00:58:32,280 --> 00:58:35,560
+un po' più corte così lui perde meno tempo a fare la
+
+957
+00:58:35,880 --> 00:58:41,800
+post produzione e riesce a creare qualche nuovo podcast qualche nuovo diciamo
+
+958
+00:58:41,960 --> 00:58:43,640
+puntata per il podcast suo
+
+959
+00:58:44,760 --> 00:58:49,160
+dai adesso io sono soddisfatto di A2 quindi per ora le mie
+
+960
+00:58:49,160 --> 00:58:53,080
+produzioni sono contento che tu sia molto soddisfatto lo sono anch'io spero
+
+961
+00:58:53,160 --> 00:58:57,160
+che lo siano anche gli ascoltatori che ci stanno mi raccomando diffendete
+
+962
+00:58:57,320 --> 00:59:00,680
+il verbo e ricordatevi di noi due quando parlate con i vostri
+
+963
+00:59:00,680 --> 00:59:03,960
+amici dove imparate le cose direi che a questo punto ci sentiamo
+
+964
+00:59:04,040 --> 00:59:06,680
+come al solito tra due settimane alla prossima

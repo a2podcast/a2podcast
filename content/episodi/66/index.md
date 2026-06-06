@@ -11,9 +11,9 @@ tags = ["apple", "podcast", "speciale", "conduttori"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
 +++
 
 > Roberto e Filippo si trovano tra le montagna di Torino e registrano dal vivo per un episodio speciale estivo.
 
-# Note dell’episodio
+## Note dell’episodio

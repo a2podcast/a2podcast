@@ -11,14 +11,14 @@ tags = ["podcast", "apple", "audio"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "X5wZSGc994w"
   guest = "matteo-scandolin"
 +++
 
 > In questa puntata Roberto e Filippo parlano di come fare un podcast con gli strumenti Apple in compagnia del maestro Matteo Scandolin.
 
-# Note dell’episodio
+## Note dell’episodio
 
 ## [Matteo Scandolin](https://scandol.in)
 

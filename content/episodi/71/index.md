@@ -11,11 +11,11 @@ tags = ["privacy", "sicurezza"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "Kf-uLAACb3E"
   guest = "giuseppe-pugliese"
 +++
 
 > In questa puntata Roberto e Filippo chiacchierano con Giuseppe Pugliese @MagnetarMan per fare un approfondimento su quanto già detto nella puntata 67.
 
-# Note episodio
+## Note episodio

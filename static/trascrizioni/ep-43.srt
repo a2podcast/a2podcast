@@ -1,0 +1,3027 @@
+1
+00:00:00,000 --> 00:00:05,520
+Benvenuti all'episodio 43 di A2, in cui potrete scoprire come ottenere il
+
+2
+00:00:05,520 --> 00:00:07,600
+massimo della vostra tecnologia Apple.
+
+3
+00:00:07,600 --> 00:00:10,880
+Io sono sempre il solito Roberto Marin e sono il vostro ospite
+
+4
+00:00:10,960 --> 00:00:13,120
+assieme all'amico Filippo Strozzi.
+
+5
+00:00:13,120 --> 00:00:15,600
+Di cosa parliamo in questo episodio, caro il mio Filippo?
+
+6
+00:00:15,680 --> 00:00:20,400
+Allora, Roberto, in questo episodio non ne parliamo mai, ma parleremo delle
+
+7
+00:00:20,400 --> 00:00:21,280
+mappe mentali.
+
+8
+00:00:21,280 --> 00:00:25,200
+Faremo però un approfondimento diverso dal solito, ne abbiamo già parlato nella
+
+9
+00:00:25,200 --> 00:00:27,440
+puntata di come cucinare le idee.
+
+10
+00:00:27,440 --> 00:00:31,200
+In questa puntata parleremo faremo un po' un approccio più teorico, diciamo,
+
+11
+00:00:31,200 --> 00:00:36,800
+alle mappe mentali e dall'altro faremo anche un approccio più a 360
+
+12
+00:00:36,800 --> 00:00:37,360
+gradi.
+
+13
+00:00:37,360 --> 00:00:42,400
+Tra l'altro, mentre preparavo la puntata, ho trovato alcune risorse interessanti.
+
+14
+00:00:42,560 --> 00:00:47,120
+Quindi, diciamo che oltre alle applicazioni per creare le mappe mentali di
+
+15
+00:00:47,120 --> 00:00:50,880
+cui in parte abbiamo già parlato in altre puntate, parleremo di tutto
+
+16
+00:00:50,960 --> 00:00:53,520
+il contorno del companatico, chiamiamolo così.
+
+17
+00:00:53,600 --> 00:00:56,560
+Quindi spero e penso da una parte che sia una puntata breve
+
+18
+00:00:56,640 --> 00:00:56,960
+perché
+
+19
+00:00:58,160 --> 00:01:05,040
+abbiamo già sforato di mezz'ora la partenza, dall'altra, una puntata interessante perché
+
+20
+00:01:05,360 --> 00:01:08,160
+lo vedrete se siete in diretta con noi.
+
+21
+00:01:08,400 --> 00:01:10,640
+Qui apro una piccola parentesi.
+
+22
+00:01:10,640 --> 00:01:14,960
+Ma la registrazione di oggi se ci state ascoltando in diretta, e
+
+23
+00:01:14,960 --> 00:01:19,920
+forse, e dico forse, se ci vedrete in differita sarà appunto con
+
+24
+00:01:19,920 --> 00:01:24,960
+le nostre facce e con la nostra presenza fisica in video.
+
+25
+00:01:24,960 --> 00:01:30,160
+È un esperimento, diciamo, legato più che altro alle mie esigenze di
+
+26
+00:01:30,160 --> 00:01:33,280
+salvare tracce audio con un sistema nuovo.
+
+27
+00:01:33,280 --> 00:01:38,800
+Quindi è un esperimento, potrebbe vedersi come non vedersi, potrebbe risultare piacevole
+
+28
+00:01:38,800 --> 00:01:39,760
+come non piacevole.
+
+29
+00:01:39,760 --> 00:01:44,880
+Date un occhio su YouTube se quando verrà pubblicata questa puntata, sicuramente,
+
+30
+00:01:44,880 --> 00:01:48,160
+appena finita la diretta la tolgo dalla disponibilità.
+
+31
+00:01:48,160 --> 00:01:50,800
+Poi io e Roberto decideremo con calma.
+
+32
+00:01:50,800 --> 00:01:56,080
+Diciamo, se pubblicarla e come con la pubblicazione di questo episodio del
+
+33
+00:01:56,080 --> 00:01:56,880
+podcast.
+
+34
+00:01:56,960 --> 00:02:02,520
+Sicuramente ci farebbe piacere, se la vedrete visivamente feedback, quindi anche nei
+
+35
+00:01:59,600 --> 00:02:06,040
+commenti al video, diteci se vi piace questo.
+
+36
+00:02:06,280 --> 00:02:09,720
+Non è un nuovo format in senso tecnico, perché, diciamo, è un
+
+37
+00:02:09,720 --> 00:02:11,800
+qualcosa che nasce per altri motivi.
+
+38
+00:02:11,800 --> 00:02:14,680
+Visto che abbiamo fatto 90, come si suol dire, facciamo anche 91.
+
+39
+00:02:14,680 --> 00:02:16,600
+Diciamo che per noi non è nuovo.
+
+40
+00:02:16,600 --> 00:02:20,760
+L'altra cosa interessante è che ovviamente oggi faremo una cosa molto blanda.
+
+41
+00:02:20,760 --> 00:02:23,720
+Tuttavia, ci dà la possibilità ovviamente di condividere con voi in video
+
+42
+00:02:23,800 --> 00:02:27,960
+anche nel caso oggi specifico, la mappa mentale che ho costruito per
+
+43
+00:02:27,960 --> 00:02:32,680
+questo episodio, quindi vedere anche, chiamiamolo così, un backstage di quello che
+
+44
+00:02:32,680 --> 00:02:36,680
+il nostro flusso di lavoro per creare questo podcast, ma più avanti,
+
+45
+00:02:36,680 --> 00:02:41,080
+potenzialmente, ci sarà la possibilità anche di condividere, è più complicato quindi
+
+46
+00:02:41,080 --> 00:02:45,080
+non è detto che lo faremo, condividere anche lo schermo, diciamo.
+
+47
+00:02:45,080 --> 00:02:48,760
+Quindi, mentre parliamo di un'applicazione, anche per farvela vedere, che probabilmente può
+
+48
+00:02:48,760 --> 00:02:50,360
+essere interessanti su certi fronti.
+
+49
+00:02:50,360 --> 00:02:53,720
+Tuttavia, non voglio mettere troppa carne al fuoco e fare promesse che
+
+50
+00:02:53,720 --> 00:02:55,240
+poi non riusciremo a mantenere.
+
+51
+00:02:55,240 --> 00:02:57,480
+Quindi, se avete tempo, date un occhio su YouTube.
+
+52
+00:02:57,640 --> 00:03:01,160
+Eventualmente, già che ci siete, se andate su YouTube iscrivetevi al canale
+
+53
+00:03:01,160 --> 00:03:06,680
+se non siete iscritti, ma consideratelo come un esperimento e comunque dateci
+
+54
+00:03:06,680 --> 00:03:10,520
+un feedback sostanzialmente la richiesta che vi faccio.
+
+55
+00:03:10,520 --> 00:03:15,400
+Per il resto, se ascoltate, vi piace ascoltare il podcast come podcast,
+
+56
+00:03:15,400 --> 00:03:16,200
+fatelo e basta.
+
+57
+00:03:16,280 --> 00:03:20,200
+E come si suol dire, bando alle ciance, diciamo così, e passiamo
+
+58
+00:03:20,200 --> 00:03:25,240
+subito all'argomento principe di questa puntata di cui ovviamente io ascolterò e
+
+59
+00:03:25,240 --> 00:03:30,840
+dirò semplicemente sì, perché ovviamente è Filippo Master of Mappe mentali e
+
+60
+00:03:30,840 --> 00:03:33,080
+partiamo subito con una domanda.
+
+61
+00:03:33,080 --> 00:03:36,760
+Filippo, mi spieghi cosa sono le mappe mentali o concettuali?
+
+62
+00:03:36,760 --> 00:03:42,920
+Innanzitutto partiamo da un po' di storia: diciamo che le mappe mentali
+
+63
+00:03:42,920 --> 00:03:47,440
+non sono in senso tecnico un'invenzione di Tony Buzan, che è il
+
+64
+00:03:47,600 --> 00:03:51,680
+questo signore Tony Buzan, che negli anni 70-80, di fatto, è un
+
+65
+00:03:51,680 --> 00:03:57,200
+educatore inglese, ha fatto i miliardi, perché, tra le varie cose, ha
+
+66
+00:03:57,440 --> 00:04:01,040
+proposto metodi alternativi sia di studio.
+
+67
+00:04:01,040 --> 00:04:01,760
+Ho finalmente
+
+68
+00:04:03,360 --> 00:04:04,560
+, mi ha caricato l'immagine.
+
+69
+00:04:04,560 --> 00:04:09,920
+No, è clamoroso, ce l'ho fatta, ce l'ho fatta e ammirate, dovresti
+
+70
+00:04:09,920 --> 00:04:12,000
+vederla anche tu in diretta a questo punto.
+
+71
+00:04:12,000 --> 00:04:14,640
+Sì, sì, sì, l'ho già messa nella mappa mentale.
+
+72
+00:04:14,640 --> 00:04:17,040
+Ecco, apro chiudo una parentesi.
+
+73
+00:04:17,040 --> 00:04:21,280
+Quello che ho appena fatto è una delle funzioni interessanti di l'applicazione
+
+74
+00:04:21,280 --> 00:04:25,440
+che state vedendo a video e My Node che utilizzo abitualmente, sono
+
+75
+00:04:25,440 --> 00:04:28,880
+beta tester, quindi, anzi, questa è una versione beta, dir la verità.
+
+76
+00:04:28,880 --> 00:04:34,720
+Tuttavia non credo ci siano funzioni clamorose che sto spoilerando nel video.
+
+77
+00:04:34,720 --> 00:04:38,480
+Ma tra le varie cose, c'è la possibilità appunto di inserire nelle
+
+78
+00:04:38,480 --> 00:04:42,960
+mappe mentali anche delle immagini, nel caso specifico in questo caso.
+
+79
+00:04:42,960 --> 00:04:47,520
+Quindi adesso state vedendo la foto di Tony Buzan, che è l'inventore,
+
+80
+00:04:47,520 --> 00:04:52,320
+comunque chi ha brandizzato le mappe mentali sono in parte un marchio
+
+81
+00:04:52,320 --> 00:04:56,240
+registrato, ma l'idea di fondo è abbastanza semplice.
+
+82
+00:04:56,240 --> 00:05:02,160
+Negli ultimi anni sono nate innanzitutto tutta una serie di applicazioni, diciamo
+
+83
+00:05:02,160 --> 00:05:07,280
+così, per creare in maniera digitale le mappe mentali, ma le mappe
+
+84
+00:05:07,280 --> 00:05:10,000
+mentali nascono come qualcosa di analogico.
+
+85
+00:05:10,000 --> 00:05:15,280
+L'idea di fondo è quella di collegarci, siccome il pensiero è il
+
+86
+00:05:15,280 --> 00:05:21,200
+pensiero fluido, è anche in parte visuale, cioè noi comunque utilizziamo la
+
+87
+00:05:21,200 --> 00:05:25,200
+nostra memoria, diciamo, e quindi poi il nostro pensiero funziona anche per
+
+88
+00:05:25,200 --> 00:05:31,240
+immagini, perché nella sostanza, adesso, qui vi racconto cose che sono pseudoscientifiche,
+
+89
+00:05:31,240 --> 00:05:34,440
+nel senso che non vi posso dare la documentazione che sia tutto
+
+90
+00:05:34,440 --> 00:05:38,920
+corretto e gli studi scientifici che lo dimostrano, ma tendenzialmente la nostra
+
+91
+00:05:38,920 --> 00:05:43,080
+evoluzione è legata molto, e quindi la nostra memoria è legata molto
+
+92
+00:05:43,080 --> 00:05:44,600
+alla memoria spaziale.
+
+93
+00:05:44,600 --> 00:05:48,760
+Le mappe mentali, diciamo, sono un modo per vedere in maniera spaziale
+
+94
+00:05:48,760 --> 00:05:49,720
+e organica
+
+95
+00:05:50,920 --> 00:05:52,600
+i concetti e i contenuti.
+
+96
+00:05:52,600 --> 00:05:56,920
+E quindi, teoricamente, almeno secondo Tony Buzan, questo è un modo anche.
+
+97
+00:05:56,920 --> 00:05:59,880
+Sì, tra l'altro, volevo aggiungere una cosa.
+
+98
+00:06:00,120 --> 00:06:06,200
+La questione della spaziità dei pensieri, comunque, non si era anche configurata
+
+99
+00:06:06,200 --> 00:06:10,280
+sotto il punto di vista del castello dei pensieri, com'è
+
+100
+00:06:11,400 --> 00:06:12,280
+il nome giusto?
+
+101
+00:06:12,440 --> 00:06:14,920
+Allora, i palazzi della memoria.
+
+102
+00:06:14,920 --> 00:06:18,680
+Tony Buzan, anche qui, i palazzi della memoria adesso vado per una
+
+103
+00:06:18,680 --> 00:06:24,120
+tangente notevole, però, nella sostanza, i palazzi della memoria sono di epoca
+
+104
+00:06:24,120 --> 00:06:29,480
+romana, cioè la teoria è che adesso un antico romano che si
+
+105
+00:06:29,480 --> 00:06:32,360
+trovava un banchetto, non mi ricordo il nome, lo si può trovare
+
+106
+00:06:32,360 --> 00:06:33,480
+su Wikipedia comunque.
+
+107
+00:06:33,480 --> 00:06:34,520
+Che era un banchetto.
+
+108
+00:06:34,520 --> 00:06:38,120
+Durante questo banchetto avviene un terremoto e la casa crolla.
+
+109
+00:06:38,120 --> 00:06:42,600
+Lui miracolosamente si salva, ma ci sono tutti i commensali sotto le
+
+110
+00:06:42,600 --> 00:06:43,240
+macerie.
+
+111
+00:06:43,240 --> 00:06:49,800
+Per salvare i commensali, utilizza, tra virgolette, riprende il percorso dall'entrata diciamo
+
+112
+00:06:49,880 --> 00:06:55,880
+della Domus romana nei vari spazi per dire tizio era lì che
+
+113
+00:06:55,880 --> 00:07:00,840
+stava mangiando questo, Caio era là che stava facendo questo.
+
+114
+00:07:00,800 --> 00:07:05,960
+E l'idea di fondo è proprio che diciamo posizionando i ricordi all'interno
+
+115
+00:07:06,280 --> 00:07:08,840
+di una casa, perché poi è questo il ragionamento.
+
+116
+00:07:08,840 --> 00:07:14,280
+Comunque di un luogo conosciuto è possibile ricostruire questi corsi mentali, memorizzare
+
+117
+00:07:14,280 --> 00:07:19,520
+sostanzialmente dei percorsi e la nostra memoria, appunto, perché di fatto noi
+
+118
+00:07:19,680 --> 00:07:26,080
+originariamente eravamo dei cacciatori bar raccoglitori, e quindi ci dovevamo muovere nel
+
+119
+00:07:26,080 --> 00:07:31,440
+territorio e anche spesso in territori non sempre conosciuti, diciamo, si basa
+
+120
+00:07:31,440 --> 00:07:37,200
+proprio o molto sviluppato il rapporto di memorizzazione spaziale sostanzialmente.
+
+121
+00:07:37,200 --> 00:07:39,520
+Questa è la teoria di base.
+
+122
+00:07:39,520 --> 00:07:45,040
+Ovviamente si applica anche alle mappe mentali e chiudo la parentesi che
+
+123
+00:07:45,040 --> 00:07:49,200
+ho fatto: Tony Buzan è uno di quelli che, tra virgolette, recentemente
+
+124
+00:07:49,200 --> 00:07:54,960
+riscoperto la teoria dei palazzi della mente, e tra l'altro, il libro
+
+125
+00:07:54,960 --> 00:07:59,760
+è molto interessante, è stato tradotto malissimo in italiano, lo metterò comunque
+
+126
+00:07:59,760 --> 00:08:02,960
+nelle note dell'episodio, ma c'è un bel libro di un americano che
+
+127
+00:08:02,960 --> 00:08:10,080
+è diventato campione della memoria americano e che praticamente vi racconta tutta
+
+128
+00:08:10,080 --> 00:08:11,760
+questa vicenda, anche
+
+129
+00:08:12,800 --> 00:08:17,680
+incontrato Tony Buzan facendo tutta una serie di approfondimenti e spiegando anche
+
+130
+00:08:17,680 --> 00:08:22,320
+le tecniche di base della memorizzazione attraverso i palazzi della mente.
+
+131
+00:08:22,320 --> 00:08:28,480
+Quindi, se siete interessati, poi mi ricorderò di inserire le note dell'episodio.
+
+132
+00:08:28,480 --> 00:08:34,960
+Tra l'altro aggiungo visto che sto leggendo Wikipedia, aggiungo il fondatore del
+
+133
+00:08:34,960 --> 00:08:40,000
+campionato mondiale della memoria, niente meno, in cui centinaia di atleti della
+
+134
+00:08:40,000 --> 00:08:44,480
+memoria provenienti da tutto il mondo, si sfidano in dieci discipline di
+
+135
+00:08:44,480 --> 00:08:45,600
+memorizzazione.
+
+136
+00:08:45,600 --> 00:08:48,880
+Altra piccola nota che non è proprio un Pirla, questo perché in
+
+137
+00:08:48,880 --> 00:08:52,160
+effetti è tra l'altro anche membro dei Mensa.
+
+138
+00:08:52,160 --> 00:08:56,880
+Quindi direi che il riferimento è più che altro molto elevato.
+
+139
+00:08:57,720 --> 00:09:02,600
+Tony Buzan gira in Rolls Royce, cioè solo per darti un'idea.
+
+140
+00:08:59,840 --> 00:09:05,560
+Sta piuttosto bene, ecco.
+
+141
+00:09:06,040 --> 00:09:08,040
+Sì, beh, certamente, certamente.
+
+142
+00:09:08,280 --> 00:09:09,560
+Diciamo stava
+
+143
+00:09:11,640 --> 00:09:13,240
+nel 2019 è morto.
+
+144
+00:09:13,240 --> 00:09:15,160
+Ah, sai che non lo sapevo invece, questo.
+
+145
+00:09:15,400 --> 00:09:19,000
+Lo sto guardando, l'ho visto su Wikipedia, non è che lo sapessi.
+
+146
+00:09:19,320 --> 00:09:24,600
+Ok, comunque gossip a parte, diciamo quindi l'idea della mappa mentale, la
+
+147
+00:09:24,600 --> 00:09:27,640
+vedete mentre ne stiamo parlando.
+
+148
+00:09:27,640 --> 00:09:32,680
+Gli argomenti principali, diciamo, sono gestiti in modo circolare.
+
+149
+00:09:32,680 --> 00:09:37,880
+La vera mappa mentale, tra virgolette, è come la vedete adesso a
+
+150
+00:09:37,880 --> 00:09:44,200
+video, giusto per descriverla, concetto, diciamo al centro della mappa mentale e
+
+151
+00:09:44,200 --> 00:09:49,960
+tutti intorno delle dirazioni spesso volentieri colorate e anche con immagini dei
+
+152
+00:09:49,960 --> 00:09:54,840
+vari concetti, dei vari punti fondamentali che si vogliono approfondire.
+
+153
+00:09:54,840 --> 00:10:00,280
+Da questi concetti principali, diciamo, poi nascono successivi così, rami.
+
+154
+00:10:00,600 --> 00:10:04,680
+L'idea di fondo della mappa mentale è quella di un albero con
+
+155
+00:10:04,680 --> 00:10:09,480
+le radici o i rami che si appunto diramano e sono tutte
+
+156
+00:10:09,720 --> 00:10:12,520
+le idee che vengono utilizzate.
+
+157
+00:10:12,520 --> 00:10:17,160
+Quindi l'idea appunto di circolarità del fatto che le idee possono essere
+
+158
+00:10:17,160 --> 00:10:22,520
+collegate l'una con l'altra e di un sistema, chiamiamolo così, interconnesso di
+
+159
+00:10:22,520 --> 00:10:23,080
+conoscenze.
+
+160
+00:10:23,080 --> 00:10:27,400
+La mappa mentale ha milioni di modalità di utilizzo e di scopi.
+
+161
+00:10:27,400 --> 00:10:33,400
+Nel libro di Buzan, praticamente la mappa mentale parte, tra virgolette, dallo
+
+162
+00:10:33,400 --> 00:10:39,080
+studio, quindi dal memorizzare, chiamiamolo così, dei concetti, quindi creare una mappa
+
+163
+00:10:39,080 --> 00:10:44,120
+mentale per approfondire, e tutto nasce da quello dal punto di vista
+
+164
+00:10:44,120 --> 00:10:49,280
+di Tony Buza, nel senso che lui appunto aiutava ragazzi a studiare
+
+165
+00:10:49,280 --> 00:10:54,480
+meglio e faceva l'educatore, quindi erano strumenti per rendere più soprattutto anche
+
+166
+00:10:54,480 --> 00:11:00,560
+per bambini difficili o con problemi di memorizzazione e di gestione dei
+
+167
+00:11:00,560 --> 00:11:04,080
+contenuti, di imparare meglio in maniera chiamiamola così più facile.
+
+168
+00:11:04,080 --> 00:11:08,000
+Noi abitualmente, cioè qui per la gestione del podcast, e in particolare
+
+169
+00:11:08,080 --> 00:11:12,800
+io utilizzo le mappe mentali invece al contrario, cioè inizia a buttare
+
+170
+00:11:12,800 --> 00:11:17,280
+giù delle idee, e siccome appunto la mappa mentale nasce come uno
+
+171
+00:11:17,280 --> 00:11:24,880
+strumento molto flessibile, ovviamente queste idee vengono associate, vengono girate, chiamiamole così,
+
+172
+00:11:25,040 --> 00:11:29,200
+e quindi mi permette poi di strutturare se avete seguito il video,
+
+173
+00:11:29,200 --> 00:11:33,040
+appunto, ho modificato velocemente la mappa mentale in tre secondi.
+
+174
+00:11:33,040 --> 00:11:37,200
+Proprio perché l'idea di fondo di questo è che gli argomenti, la
+
+175
+00:11:37,200 --> 00:11:41,280
+struttura diciamo, di questa mappa mentale può e deve essere flessibile.
+
+176
+00:11:41,280 --> 00:11:46,480
+E deve permettere collegamenti, diciamo anche di diramazioni differenti delle idee.
+
+177
+00:11:46,480 --> 00:11:50,480
+E quindi, appunto, la cosa interessante della mappa mentale è proprio questa:
+
+178
+00:11:50,480 --> 00:11:54,640
+potere collegare le idee in maniera molto semplice ed è una fase,
+
+179
+00:11:54,640 --> 00:11:58,480
+chiamiamola così, iniziale della predisposizione di altre cose.
+
+180
+00:11:58,480 --> 00:12:02,960
+Nel caso nostro specifico, abitualmente quando tempo, dalla mappa mentale passiamo a
+
+181
+00:12:02,960 --> 00:12:06,880
+una scaletta abbastanza dettagliata, che poi diventano anche le note dell'episodio.
+
+182
+00:12:06,880 --> 00:12:11,040
+Nella mia attività professionale, per esempio, dalla mappa mentale, io poi genero,
+
+183
+00:12:11,040 --> 00:12:15,440
+tra virgolette, l'atto definitivo, il contratto, quello che devo fare.
+
+184
+00:12:15,440 --> 00:12:21,040
+Per avvocati Mac, per esempio, dalla mappa mentale ogni articolo nasce come
+
+185
+00:12:21,040 --> 00:12:25,360
+una mappa mentale, dalla quale poi nasce un articolo più o meno
+
+186
+00:12:25,360 --> 00:12:28,480
+dettagliato su un determinato argomento di cui voglio trattare.
+
+187
+00:12:28,480 --> 00:12:32,440
+È diciamo uno strumento molto flessibile dal mio punto di vista, molto
+
+188
+00:12:32,440 --> 00:12:39,560
+utile e soprattutto che toglie da quell'attrito iniziale del foglio bianco, chiamiamolo
+
+189
+00:12:39,560 --> 00:12:43,320
+così, dove diciamo non sai cosa scrivere, non sai di cosa scrivere,
+
+190
+00:12:43,480 --> 00:12:49,640
+invece, buttando velocemente giù appunto una mappa mentale casomai anche, riguardandola in
+
+191
+00:12:49,640 --> 00:12:50,920
+momenti differenti adesso.
+
+192
+00:12:50,920 --> 00:12:55,640
+Appunto facciamo un po' di backstage, chiamiamolo così qui su A2 all'inizio
+
+193
+00:12:55,800 --> 00:13:00,280
+ho condiviso una bozza di mappa mentale a Roberto non mi ricordo
+
+194
+00:13:00,280 --> 00:13:03,960
+più quando, ho fatto alcuni approfondimenti, ho guardato video e quindi ho
+
+195
+00:13:03,960 --> 00:13:04,360
+espanso
+
+196
+00:13:06,840 --> 00:13:11,640
+ho espanso la mappa mentale, ho inserito cose e oggettivamente adesso qui
+
+197
+00:13:11,640 --> 00:13:14,200
+non ve lo posso far vedere perché non riesco a tornare indietro
+
+198
+00:13:14,200 --> 00:13:14,760
+nel tempo.
+
+199
+00:13:14,760 --> 00:13:17,400
+Ma la mappa mentale si è evoluta.
+
+200
+00:13:17,400 --> 00:13:22,280
+E alcuni argomenti li ho spostati prima di iniziare, secondo me li
+
+201
+00:13:22,280 --> 00:13:26,280
+ho spostati da una parte all'altra, proprio perché alla fine, secondo me,
+
+202
+00:13:26,280 --> 00:13:31,320
+potevano stare in una determinata parte, diciamo, di quella che alla fine
+
+203
+00:13:31,320 --> 00:13:32,200
+di tutto diventerà
+
+204
+00:13:33,240 --> 00:13:34,760
+è la nostra scaletta del
+
+205
+00:13:35,960 --> 00:13:36,600
+episodio.
+
+206
+00:13:36,600 --> 00:13:41,320
+E che bene o male, con svarioni varie ed eventuali, seguiremo appunto
+
+207
+00:13:41,560 --> 00:13:43,560
+durante il corso di tutta questa puntata.
+
+208
+00:13:43,560 --> 00:13:46,760
+Quindi, diciamo, l'idea è questa.
+
+209
+00:13:46,760 --> 00:13:52,520
+L'altra cosa interessante della mappa mentale è appunto, abbiamo già accennato di
+
+210
+00:13:52,520 --> 00:13:56,280
+fatto che il pensiero, appunto, non è lineare, si muove in modo
+
+211
+00:13:56,280 --> 00:14:00,120
+a volte obliquo, ma anche con passaggi e così via.
+
+212
+00:14:00,120 --> 00:14:04,120
+Quindi è meno strutturata e vi permette appunto di elaborare anche più
+
+213
+00:14:04,120 --> 00:14:08,440
+velocemente i concetti e le idee o destrutturare anche i concetti e
+
+214
+00:14:08,440 --> 00:14:08,920
+le idee.
+
+215
+00:14:08,920 --> 00:14:13,400
+Un'altra cosa che spesso e volentieri può diventare comoda è quella di
+
+216
+00:14:13,640 --> 00:14:18,400
+avere un concetto complesso che volete approfondire, creare una mappa mentale su
+
+217
+00:14:18,400 --> 00:14:22,320
+questo concetto e quindi approfondirlo, vedere anche i collegamenti tra una parte
+
+218
+00:14:22,320 --> 00:14:22,880
+e l'altra.
+
+219
+00:14:22,880 --> 00:14:26,480
+Io non so, per esempio, quando ci sono delle norme complesse, le
+
+220
+00:14:26,720 --> 00:14:31,600
+costruisco in una mappa mentale proprio per avere una visualizzazione anche grafica,
+
+221
+00:14:31,600 --> 00:14:32,960
+diciamo, della mappa.
+
+222
+00:14:32,960 --> 00:14:35,760
+La mappa mentale è anche poco costosa a livello pratico, cioè la
+
+223
+00:14:35,760 --> 00:14:38,560
+potete fare su un foglio di carta, con una penna o una
+
+224
+00:14:38,560 --> 00:14:39,040
+matita.
+
+225
+00:14:39,040 --> 00:14:44,960
+Quindi anche nasce come un qualcosa di analogico, potete utilizzarli, anzi, io
+
+226
+00:14:44,960 --> 00:14:49,840
+utilizzo spesso e volentieri gli strumenti digitali, però la potete fare tranquillamente
+
+227
+00:14:49,840 --> 00:14:54,240
+in analogico e appunto aiuta anche a concentrarsi su un problema.
+
+228
+00:14:54,240 --> 00:14:58,320
+Addirittura forse forse un po' troppo, però in parte è vero.
+
+229
+00:14:58,320 --> 00:15:03,040
+Diciamo l'idea di fondo di Busan è che addirittura le mappe mentali
+
+230
+00:15:03,040 --> 00:15:05,760
+ti aiutino a risolvere un problema.
+
+231
+00:15:05,760 --> 00:15:08,320
+Nel senso che il centro della mappa mentale è il problema che
+
+232
+00:15:08,320 --> 00:15:12,160
+devi porti, diciamo, e le idee che ti vengono per risolvere il
+
+233
+00:15:12,160 --> 00:15:17,040
+problema sono una mappa mentale e tenendoti domande, vedendo queste domande cosa
+
+234
+00:15:17,040 --> 00:15:22,960
+portano, diciamo, ti permettono anche di analizzare in maniera migliore il problema
+
+235
+00:15:23,200 --> 00:15:26,160
+e probabilmente potenzialmente risolverlo.
+
+236
+00:15:26,160 --> 00:15:29,120
+Effettivamente, se la vediamo da un altro punto di vista, appunto la
+
+237
+00:15:29,120 --> 00:15:36,400
+mappa mentale che stiamo utilizzando per gestire questa puntata, è anche il
+
+238
+00:15:36,400 --> 00:15:37,440
+cosiddetto problem
+
+239
+00:15:38,480 --> 00:15:43,680
+i volevamo fare una puntata sulla mappa mentale, è ovvio che, grazie alla
+
+240
+00:15:43,680 --> 00:15:49,040
+mappa mentale, abbiamo comunque strutturato i contenuti e risolto il problema di
+
+241
+00:15:49,040 --> 00:15:53,760
+fare questa puntata e di preparare la scaletta, chiamiamola di questa puntata.
+
+242
+00:15:53,760 --> 00:15:57,600
+Sì, devo dire che ti rubo la parola un attimo, perché io,
+
+243
+00:15:57,600 --> 00:16:01,000
+ad esempio, sono una persona che non ha conosciuto le mappe mentali
+
+244
+00:16:01,080 --> 00:16:03,160
+finché non sono entrato in contatto con Filippo.
+
+245
+00:16:03,160 --> 00:16:07,480
+Devo dire che l'ho sempre visto un po' di cattivo occhio, ma
+
+246
+00:16:07,480 --> 00:16:11,720
+più che altro per un metodo di pensiero che non è specificatamente
+
+247
+00:16:11,720 --> 00:16:12,440
+il mio.
+
+248
+00:16:12,440 --> 00:16:17,000
+Ma devo dire che in effetti, applicato questo tipo di metodo di
+
+249
+00:16:17,000 --> 00:16:20,920
+pensiero a molti problemi, come ha descritto giustamente Filippo.
+
+250
+00:16:20,920 --> 00:16:25,240
+Per noi architetti, ad esempio, anche se ci vedete sempre con la
+
+251
+00:16:25,240 --> 00:16:28,120
+sciarpina e con la matita in mano, però abbiamo a che fare
+
+252
+00:16:28,120 --> 00:16:32,200
+con la normativa e riuscire a usare una mappa mentale per avere
+
+253
+00:16:32,200 --> 00:16:36,520
+il quadro normativo di quello che andate a fare, è sicuramente molto
+
+254
+00:16:36,520 --> 00:16:39,880
+importante e vi chiarisce di molto la questione.
+
+255
+00:16:39,880 --> 00:16:45,480
+Un'altra cosa è, appunto, come diceva Filippo, il nostro cervello funziona in
+
+256
+00:16:45,480 --> 00:16:52,680
+modo apparentemente strano, nel senso che il problema lo può prendere, vederlo
+
+257
+00:16:52,680 --> 00:16:56,040
+tutto insieme e magari rimaniamo anche un po' spaventati.
+
+258
+00:16:56,040 --> 00:17:03,880
+Poi invece quando andiamo a srotolare il problema in sottocapitoli, in sottocapoversi,
+
+259
+00:17:03,880 --> 00:17:08,680
+in capoversi, vi discorrendo per riuscire a renderlo più liquido, ma soprattutto
+
+260
+00:17:08,680 --> 00:17:14,040
+al nostro cervello di renderlo più comprensibile e facilmente manipolabile, aiuta anche
+
+261
+00:17:14,040 --> 00:17:17,240
+in questo senso, come dicevi, a risolvere i problemi, giustamente.
+
+262
+00:17:17,240 --> 00:17:21,480
+Oppure, come è successo anche a me, lo uso adesso, oltre che
+
+263
+00:17:21,480 --> 00:17:25,560
+con Filippo, lo uso anche per scrivere gli articoli del blog, principalmente
+
+264
+00:17:25,880 --> 00:17:30,120
+perché essenzialmente il podcast mio va per tutto un conto suo, che
+
+265
+00:17:30,120 --> 00:17:34,440
+non so neanche a spiegarvi, perché è proprio una concezione diversa, non
+
+266
+00:17:34,440 --> 00:17:35,960
+si appoggia alle mappe mentali.
+
+267
+00:17:35,960 --> 00:17:41,240
+Tuttavia, per esempio, per gli articoli diventa molto interessante perché potete segnarvi,
+
+268
+00:17:41,240 --> 00:17:45,440
+come diceva giustamente Filippo, dei piccoli pensieri che avete in mente, perché
+
+269
+00:17:44,440 --> 00:17:46,000
+magari ne avete
+
+270
+00:17:44,680 --> 00:17:46,960
+20 in
+
+271
+00:17:44,840 --> 00:17:47,840
+mente.
+
+272
+00:17:48,160 --> 00:17:52,320
+Però se state dietro a tutti questi 20 pensieri a mantenere il
+
+273
+00:17:52,320 --> 00:17:56,320
+pensiero focalizzato su questi 20, non riuscite più ad andare avanti perché
+
+274
+00:17:56,320 --> 00:17:59,120
+il vostro cervello, come si può dire, è andato in workflow e
+
+275
+00:17:59,120 --> 00:18:01,280
+non riesce più a gestirli.
+
+276
+00:18:01,280 --> 00:18:05,040
+Invece, iniziando a metterli attorno a questo pensiero centrale, fate una bella
+
+277
+00:18:05,040 --> 00:18:08,800
+corona con i vostri 20 pensierini che avete attorno, vi renderete conto
+
+278
+00:18:08,800 --> 00:18:14,160
+che il vostro cervello viene scaricato automaticamente e riuscite a rifocalizzare l'attenzione
+
+279
+00:18:14,480 --> 00:18:19,920
+su ognuno dei 20 pensierini e riuscite a sviluppare un concetto decisamente
+
+280
+00:18:19,920 --> 00:18:22,160
+più complesso e interessante.
+
+281
+00:18:22,160 --> 00:18:26,400
+Dopo ne parleremo anche perché è importante sotto questo punto di vista,
+
+282
+00:18:26,400 --> 00:18:32,240
+utilizzare delle applicazioni, non solo perché il digitale permette di ampliare il
+
+283
+00:18:32,240 --> 00:18:35,440
+discorso, ne parleremo più avanti, difatti, devo fare poi una nota a
+
+284
+00:18:35,440 --> 00:18:36,320
+riguardo.
+
+285
+00:18:36,320 --> 00:18:41,040
+Ma vi consiglio anche semplicemente di partire dalla carta alla penna, come
+
+286
+00:18:41,040 --> 00:18:42,160
+giustamente ha detto Filippo.
+
+287
+00:18:42,160 --> 00:18:46,880
+Perché nonostante io le abbia viste di cattivo occhio, diciamo così, non
+
+288
+00:18:46,880 --> 00:18:49,760
+le ho mai utilizzate, una volta che l'ho utilizzato, non ne potete
+
+289
+00:18:49,760 --> 00:18:50,400
+più fare a meno.
+
+290
+00:18:50,400 --> 00:18:56,960
+Quindi diventa il vostro strumento personale per riuscire a distribuire un'idea, chiamiamola
+
+291
+00:18:56,960 --> 00:18:57,840
+così: esatto.
+
+292
+00:18:57,840 --> 00:19:01,840
+Gli ultimi due punti che potrebbero essere interessanti, appunto, le mappe mentali
+
+293
+00:19:01,840 --> 00:19:04,640
+sono comunque una sorta di disegno.
+
+294
+00:19:04,640 --> 00:19:09,440
+Quindi adesso, anche qui si parla sempre di pseudoscienza o comunque non
+
+295
+00:19:09,600 --> 00:19:13,840
+ci sono elementi così chiari a riguardo, ma sicuramente se siete persone
+
+296
+00:19:13,840 --> 00:19:19,360
+diciamo più visuali e apprezzate più, sicuramente l'aspetto grafico ha un suo
+
+297
+00:19:19,360 --> 00:19:21,840
+peso anche nella memorizzazione, appunto.
+
+298
+00:19:21,840 --> 00:19:25,760
+Anche la possibilità di disegnare di fare qualcosa fisicamente con le mani
+
+299
+00:19:25,920 --> 00:19:29,440
+se lo fate in analogico, o comunque di avere un qualcosa di
+
+300
+00:19:29,440 --> 00:19:33,880
+anche piacevole da vedere se lo fate in digitale, è sicuramente utile.
+
+301
+00:19:34,280 --> 00:19:38,760
+E l'altra cosa che la mappa mentale è una visione dall'alto, chiamiamola
+
+302
+00:19:38,760 --> 00:19:43,240
+così, nel senso che abitualmente le mappe mentali non sono degli schemi
+
+303
+00:19:43,240 --> 00:19:48,840
+altamente complicati, non richiedono, pensieri lunghi di scrivere, chiamiamolo così, ci sono
+
+304
+00:19:48,840 --> 00:19:54,920
+dei concetti veloci e spesso volentieri anche visualizzate attraverso immagini e quindi
+
+305
+00:19:55,400 --> 00:19:57,640
+si ha uno sguardo anche di insieme.
+
+306
+00:19:57,640 --> 00:20:02,760
+Uno sguardo di insieme che sicuramente può diventare utile per non perdersi
+
+307
+00:20:02,760 --> 00:20:04,120
+nei piccoli rivoli.
+
+308
+00:20:04,120 --> 00:20:08,280
+Quindi anche questo, da un certo punto di vista, secondo me, può
+
+309
+00:20:08,280 --> 00:20:10,200
+essere molto interessante.
+
+310
+00:20:10,360 --> 00:20:16,920
+La questione di disegnare la mappa mentale è assolutamente utile perché spesso
+
+311
+00:20:17,240 --> 00:20:23,480
+vedo che il brutto del digitale appunto ti ruba del tempo per
+
+312
+00:20:23,800 --> 00:20:25,480
+fare qualcosa essenzialmente.
+
+313
+00:20:25,480 --> 00:20:26,200
+Perché questo?
+
+314
+00:20:26,200 --> 00:20:30,600
+Perché devi pensare, intanto vabbè che la tastiera la conosciamo tutti, ma
+
+315
+00:20:30,600 --> 00:20:34,680
+intanto dovete scrivere e pensare a come scrivere, e anche quel piccolo
+
+316
+00:20:34,680 --> 00:20:38,440
+pensiero di iniziare a pensare a scrivere alla tastiera, e se magari
+
+317
+00:20:38,440 --> 00:20:41,400
+avete un iPad e volete prendere una tastiera esterna, dove l'abbiamo messa,
+
+318
+00:20:41,400 --> 00:20:45,320
+questa tastiera esterna, vado a prendere la tastiera esterna e via discorrendo.
+
+319
+00:20:45,320 --> 00:20:51,320
+D'altra parte, la parte analogica, secondo me, è decisamente più diretta per
+
+320
+00:20:51,480 --> 00:20:52,520
+il nostro cervello.
+
+321
+00:20:52,520 --> 00:20:56,200
+Forse perché siamo anche abituati così, magari i nostri figli o i
+
+322
+00:20:56,200 --> 00:21:00,360
+figli dei nostri figli non vorranno neanche più sentire parlare della carta
+
+323
+00:21:00,360 --> 00:21:05,560
+e della penna, perché per loro diventa qualcosa di estremamente lento, diciamo
+
+324
+00:21:05,640 --> 00:21:08,920
+vecchio, qualcosa di desueto, chiamiamolo così.
+
+325
+00:21:09,240 --> 00:21:12,520
+Ma il fatto di riuscire a focalizzare dal punto di vista visuale
+
+326
+00:21:12,520 --> 00:21:17,760
+è molto interessante perché la vista anche dall'alto del problema vi permette
+
+327
+00:21:17,760 --> 00:21:22,560
+anche di avere una libertà mentale per riuscire a capire quali sono
+
+328
+00:21:22,720 --> 00:21:27,680
+i punti fondamentali di questo grosso problema, chiamiamolo così, che state affrontando,
+
+329
+00:21:27,840 --> 00:21:31,840
+può anche essere scrivere un articolo, su cosa focalizzarsi discorrendo.
+
+330
+00:21:31,840 --> 00:21:36,320
+Io ribadisco che sono sempre del parere che nel momento in cui
+
+331
+00:21:36,320 --> 00:21:41,120
+avete la possibilità di utilizzare qualcosa come una pencil, io mi riferisco
+
+332
+00:21:41,120 --> 00:21:43,760
+sempre a quella, una Apple Pencil, ma diciamo che ha un dispositivo
+
+333
+00:21:43,760 --> 00:21:48,400
+che vi permette di scrivere su qualcosa di digitale, sicuramente è molto
+
+334
+00:21:48,400 --> 00:21:54,080
+interessante perché vi permette di sfruttare delle capacità che purtroppo la carta
+
+335
+00:21:54,080 --> 00:21:54,720
+non ha.
+
+336
+00:21:54,720 --> 00:21:58,480
+Ma sotto questo punto di vista, ho visto anche Filippo che poi
+
+337
+00:21:58,480 --> 00:22:05,120
+ha sviluppato nel corso della mappa mentale appunto due modalità di utilizzo
+
+338
+00:22:05,120 --> 00:22:06,640
+di queste mappe mentali.
+
+339
+00:22:06,640 --> 00:22:11,920
+Fatto sta che comunque è molto interessante perché stavo ragionando che questo
+
+340
+00:22:11,920 --> 00:22:16,000
+tipo di approccio alla mappa mentale, ovvero quello di prendere un problema
+
+341
+00:22:16,320 --> 00:22:23,200
+e dividerlo in sottoproblemi, è essenzialmente qualcosa che facciamo tutti i giorni
+
+342
+00:22:23,200 --> 00:22:24,720
+in modo inconsapevole.
+
+343
+00:22:24,720 --> 00:22:27,200
+Nel senso che noi quando ci svegliamo la mattina, almeno per quanto
+
+344
+00:22:27,200 --> 00:22:30,800
+mi riguarda, oltre a cercare di capire come sono girato e come
+
+345
+00:22:30,800 --> 00:22:35,040
+mi chiamo, il secondo pensiero è quello di riuscire a capire quello
+
+346
+00:22:35,040 --> 00:22:37,840
+che devo fare oggi e cercare di mettere giù una specie di
+
+347
+00:22:37,840 --> 00:22:38,720
+scaletta.
+
+348
+00:22:38,720 --> 00:22:40,640
+Alla fine la stessa cosa.
+
+349
+00:22:40,640 --> 00:22:45,120
+Ho il problema di portare a casa del lavoro e quindi cerco
+
+350
+00:22:45,120 --> 00:22:49,040
+di gestirlo in base agli impegni che ho e quello che possono
+
+351
+00:22:49,040 --> 00:22:50,880
+essere i lavori principali.
+
+352
+00:22:50,880 --> 00:22:56,400
+Diciamo, la scrittura di quello che è da fare all'inizio della giornata
+
+353
+00:22:56,480 --> 00:22:58,880
+è qualcosa di molto simile alla mappa mentale.
+
+354
+00:22:58,880 --> 00:23:03,800
+È sotto un certo punto di vista diversa, ma direi che molto
+
+355
+00:23:03,800 --> 00:23:04,280
+simile.
+
+356
+00:23:04,280 --> 00:23:07,000
+E ne abbiamo parlato anche più di una volta qui su due
+
+357
+00:23:07,000 --> 00:23:12,040
+podcast, se andate indietro nelle altre puntate, di come cucinare le idee,
+
+358
+00:23:12,040 --> 00:23:16,200
+ma alla fine, se andate a fare un attimo di riassunto, vedete
+
+359
+00:23:16,200 --> 00:23:21,960
+che partiamo tutti dalla stessa questione: cioè essenzialmente riuscire a mettere in
+
+360
+00:23:21,960 --> 00:23:24,840
+fila i pensieri e riuscire a liberar la mente.
+
+361
+00:23:24,840 --> 00:23:28,280
+Sono tutti strumenti che vi permettono di fare questo tipo di lavoro.
+
+362
+00:23:28,280 --> 00:23:29,320
+Esatto, esatto.
+
+363
+00:23:29,320 --> 00:23:34,440
+Diciamo che adesso per chi sta guardando in diretta, per esempio, ho
+
+364
+00:23:34,440 --> 00:23:36,920
+abbellito velocemente la mappa mentale con
+
+365
+00:23:37,960 --> 00:23:43,800
+alcune immagini, diciamo, proprio per cercare di farvi anche capire concretamente il
+
+366
+00:23:43,800 --> 00:23:46,760
+valore anche estetico di una mappa mentale.
+
+367
+00:23:46,760 --> 00:23:51,960
+L'idea adesso è passiamo alle due tipologie, chiamiamole così, di mappe mentali,
+
+368
+00:23:51,960 --> 00:23:56,360
+quella originale, i termini, cioè quella analogica, che è fatta su un
+
+369
+00:23:56,360 --> 00:23:57,320
+foglio.
+
+370
+00:23:57,320 --> 00:24:01,240
+Mentre guardavo un po' di video, tra virgolette, ho guardato un po'
+
+371
+00:24:01,240 --> 00:24:04,360
+su YouTube alcune cose per capire un po'.
+
+372
+00:24:04,360 --> 00:24:09,880
+Oltre ai libri di Buzan che Benoit ho letto, che poi sono
+
+373
+00:24:10,200 --> 00:24:15,720
+anche qui una versione apocrifa di come lo utilizzo io, perché, come
+
+374
+00:24:15,720 --> 00:24:19,720
+al solito, poi alla fine uno strumento è valido solo se lo
+
+375
+00:24:19,720 --> 00:24:26,280
+usi e lo fai tuo, casomai anche, tra virgolette, diventando eretico, nel
+
+376
+00:24:26,280 --> 00:24:31,880
+senso che non segui il canone, diciamo, del canone standard delle mappe
+
+377
+00:24:31,880 --> 00:24:33,160
+mentali e così via.
+
+378
+00:24:33,160 --> 00:24:37,240
+Comunque l'idea di fondo, sostanzialmente è quella appunto di farlo su un
+
+379
+00:24:37,240 --> 00:24:41,080
+foglio, utilizzare la penna, e qui, devo dire la verità, una delle
+
+380
+00:24:41,080 --> 00:24:44,120
+cose che a me ha sempre fastidito è che appunto le mappe
+
+381
+00:24:44,120 --> 00:24:50,080
+mentali nascono come diciamo disegnati a pastelli con colori e quant'altro.
+
+382
+00:24:50,320 --> 00:24:53,920
+Una cosa a cui non avevo mai pensato, tra virgolette, e che
+
+383
+00:24:54,880 --> 00:24:59,600
+ho catturato e rubato per voi è che effettivamente esistono le penne
+
+384
+00:24:59,600 --> 00:25:00,560
+cancellabili.
+
+385
+00:25:00,560 --> 00:25:04,800
+Pene cancellabili che effettivamente vedo utilizzare mio figlio in questi primi anni
+
+386
+00:25:04,800 --> 00:25:10,480
+di scuola elementare, che possono però diventare uno strumento analogico molto comodo
+
+387
+00:25:10,800 --> 00:25:16,320
+per invece creare delle mappe mentali che possono evolvere rapidamente, nel senso
+
+388
+00:25:16,320 --> 00:25:19,680
+che si può cancellare un pezzo della mappa mentale, spostarlo da un'altra
+
+389
+00:25:19,840 --> 00:25:25,200
+parte, fare le modifiche, diciamo, in maniera anche relativamente semplice e facile.
+
+390
+00:25:25,200 --> 00:25:30,160
+Questo, tra l'altro, se utilizzate due colori, diciamo, c'è anche la possibilità
+
+391
+00:25:30,160 --> 00:25:35,200
+di creare una parte della mappa mentale, chiamiamola così, non so, in
+
+392
+00:25:35,200 --> 00:25:39,200
+blu, per esempio, con la struttura di base della mappa mentale, e
+
+393
+00:25:39,200 --> 00:25:43,920
+poi invece, casomai, utilizzare la penna rossa per fare i collegamenti da
+
+394
+00:25:43,920 --> 00:25:45,680
+una parte all'altra.
+
+395
+00:25:45,680 --> 00:25:49,760
+E sicuramente adesso nel link delle note dell'episodio ci saranno i vari
+
+396
+00:25:49,760 --> 00:25:53,120
+video, alcuni sono in inglese, ve lo segnalo già, alcuni sono in
+
+397
+00:25:53,120 --> 00:25:53,760
+italiano.
+
+398
+00:25:53,760 --> 00:25:58,240
+Quindi, se volete anche fare degli approfondimenti, c'è modo diciamo di farlo.
+
+399
+00:25:58,240 --> 00:26:02,480
+Uno di questi video in inglese è di questo ragazzo che effettivamente,
+
+400
+00:26:02,720 --> 00:26:08,560
+tra le varie cose, utilizzava questo trucco, chiamiamolo in questi termini, di
+
+401
+00:26:08,560 --> 00:26:12,720
+fare le mappe mentali molto semplici, scritta mano, chiamiamole così, ma dove
+
+402
+00:26:12,720 --> 00:26:19,600
+appunto utilizzava colori differenti per unire e creare interazione tra una parte
+
+403
+00:26:19,600 --> 00:26:21,360
+e l'altra della mappa mentale.
+
+404
+00:26:21,360 --> 00:26:27,600
+Ovviamente, una volta diciamo che siamo andati sul digitale, perché poi la
+
+405
+00:26:27,600 --> 00:26:31,720
+mappa mentale di fatto diventa poi relativamente semplice.
+
+406
+00:26:32,200 --> 00:26:38,440
+Appunto, adesso a video l'abbiamo vista appunto da un'idea centrale, si diramano
+
+407
+00:26:38,440 --> 00:26:45,080
+con colori differenti, idee differenti, che poi a loro volta sono strutturati
+
+408
+00:26:45,080 --> 00:26:51,080
+in sottorami, in figli come rami figli, e spesso e volentieri queste
+
+409
+00:26:51,080 --> 00:26:59,160
+idee sono ideeamole così, semplici, cioè sono piccole frasi, barra semplici parole
+
+410
+00:26:59,160 --> 00:27:03,240
+che però danno il concetto ed eventualmente per ogni concetto, per ogni
+
+411
+00:27:03,240 --> 00:27:07,080
+idea principale, chiamiamola così, poi si può avere un'immagine.
+
+412
+00:27:07,080 --> 00:27:11,560
+Adesso, giusto per dare un'idea a video, vedete come per esempio in
+
+413
+00:27:11,560 --> 00:27:16,840
+digitale io ho inserito la parola solo digitale nella mappa mentale, ho
+
+414
+00:27:17,080 --> 00:27:21,080
+inserito anche un'immagine di un computer, quindi dimostrare
+
+415
+00:27:22,280 --> 00:27:29,880
+, il tutto, e sotto questo abbiamo una struttura invece più complessa di
+
+416
+00:27:29,880 --> 00:27:33,560
+quello che invece sono le possibilità del digitale.
+
+417
+00:27:33,560 --> 00:27:37,240
+Per cui la prima possibilità è appunto il disegno digitale, cioè quello
+
+418
+00:27:37,240 --> 00:27:41,560
+che vi abbiamo appena raccontato per creare le mappe mentali, chiamiamole così,
+
+419
+00:27:41,560 --> 00:27:45,480
+attraverso un foglio di carta con i colori e così via, si
+
+420
+00:27:45,480 --> 00:27:50,120
+può fare, ovviamente, con gli strumenti digitali che già ci fornisce, per
+
+421
+00:27:50,120 --> 00:27:55,480
+esempio, un tablet come l'iPad, e quindi utilizzare applicazioni come Good Note
+
+422
+00:27:55,640 --> 00:28:01,160
+o Notability, o anche Procreate, che è più legata al disegno, chiamiamolo
+
+423
+00:28:01,160 --> 00:28:05,720
+così, ma che sicuramente è meno utile, probabilmente forse per fare le
+
+424
+00:28:05,720 --> 00:28:06,920
+mappe mentali.
+
+425
+00:28:06,920 --> 00:28:11,800
+Goodnote e Notability hanno tutta una serie di strumenti per, diciamo, manipolare,
+
+426
+00:28:11,800 --> 00:28:16,880
+gestire e disegnare da una parte, ma anche manipolare questo testo disegnato,
+
+427
+00:28:16,880 --> 00:28:22,080
+chiamiamolo così, quindi anche creare una mappa mentale visuale, ma col vantaggio
+
+428
+00:28:22,160 --> 00:28:27,360
+appunto di poter modificare la mappa mentale stessa in digitale senza nessun
+
+429
+00:28:27,360 --> 00:28:28,160
+tipo di problema.
+
+430
+00:28:28,320 --> 00:28:34,560
+Quindi se volete trasferire, vi piace l'approccio, diciamo, di usare una penna,
+
+431
+00:28:34,560 --> 00:28:38,880
+di avere un disegno finale della vostra mappa mentale e non un
+
+432
+00:28:38,880 --> 00:28:41,600
+elaborato software di un qualche genere.
+
+433
+00:28:41,680 --> 00:28:46,240
+Sempre se state guardando la nostra diretta su YouTube, appunto, vedete come
+
+434
+00:28:46,240 --> 00:28:53,680
+la mappa mentale generata da MyNode è comunque uno strumento meno più
+
+435
+00:28:53,680 --> 00:28:59,040
+meccanico e più grafico rispetto a invece un qualcosa di disegnata a
+
+436
+00:28:59,040 --> 00:29:01,680
+mano anche con le imperfezioni del disegno a mano.
+
+437
+00:29:01,680 --> 00:29:06,400
+Tra virgolette, ecco, questi sicuramente sono degli ottimi strumenti, anche qui di
+
+438
+00:29:06,400 --> 00:29:10,640
+Good Note and Notability ne abbiamo già parlato in varie altre puntate.
+
+439
+00:29:10,640 --> 00:29:16,800
+Quindi oggi non ci soffermeremo sulle possibilità che danno questi strumenti, però
+
+440
+00:29:17,280 --> 00:29:22,000
+sicuramente la possibilità di manipolare il testo, di manipolare i disegni, di
+
+441
+00:29:22,000 --> 00:29:28,800
+evidenziare certe parti del testo, anche del riconoscimento del testo visuale, diciamo,
+
+442
+00:29:28,800 --> 00:29:34,560
+è sicuramente utile e può diventare interessante e comodo.
+
+443
+00:29:34,560 --> 00:29:38,720
+Sì, volevo aggiungere un paio di cose ancora prima di passare al
+
+444
+00:29:38,720 --> 00:29:41,120
+prossimo, sono due cose abbastanza semplici.
+
+445
+00:29:41,120 --> 00:29:45,920
+La prima in quanto riguarda la mappa mentale analogica, per farvi un
+
+446
+00:29:45,920 --> 00:29:49,280
+esempio, quello che mi viene più veloce da farvi è una mappa
+
+447
+00:29:49,280 --> 00:29:53,040
+mentale che alla diprima non sembrerebbe una mappa mentale, ma in realtà
+
+448
+00:29:53,040 --> 00:29:53,520
+lo è.
+
+449
+00:29:53,520 --> 00:29:54,720
+Vi parlo di che cosa?
+
+450
+00:29:54,720 --> 00:29:57,200
+Di quello che vediamo nei film polizeschi, ovvero
+
+451
+00:29:58,400 --> 00:30:03,400
+il famoso tabellone con dentro il chi è stato ucciso al centro
+
+452
+00:30:03,400 --> 00:30:08,760
+e poi tutt'attorno ci sono le foto oppure gli indizi che gli
+
+453
+00:30:08,760 --> 00:30:12,440
+inquirenti in quel momento hanno raccolto e li mettono attorno e li
+
+454
+00:30:12,440 --> 00:30:15,480
+collegano con una freccia per suddividerli.
+
+455
+00:30:15,480 --> 00:30:21,400
+Questo qui potrebbe essere, secondo me, una delle mappe mentali interessanti perché
+
+456
+00:30:21,640 --> 00:30:28,120
+non sfrutta il disegno, non sfrutta un semplice foglio di carta, ma
+
+457
+00:30:28,120 --> 00:30:31,960
+se voi avete, ad esempio, una grande tabella di fronte a voi,
+
+458
+00:30:31,960 --> 00:30:36,280
+potete iniziare ad appiccicare anche solo con dei postiti, ad esempio, colori
+
+459
+00:30:36,280 --> 00:30:41,480
+diversi, oppure in effetti mettere delle fotografie, qualcosa che rende veramente qualcosa
+
+460
+00:30:41,480 --> 00:30:43,000
+di visuale, dei ritagli.
+
+461
+00:30:43,000 --> 00:30:45,560
+Quello che vi viene in mente, potete fare in base al vostro
+
+462
+00:30:45,560 --> 00:30:49,800
+lavoro, perché ovviamente noi parliamo del nostro e siamo un po' virati
+
+463
+00:30:49,800 --> 00:30:50,600
+sul digitale.
+
+464
+00:30:50,600 --> 00:30:53,880
+Però mi rendo conto che può diventare davvero utile nel momento in
+
+465
+00:30:53,880 --> 00:30:58,920
+cui qualcuno usa delle mappe mentali cartacei, diciamo fisiche.
+
+466
+00:30:58,920 --> 00:31:03,160
+Che un esempio, secondo me, più calzante è appunto questo: è quello
+
+467
+00:31:03,160 --> 00:31:04,520
+dei film polizeschi.
+
+468
+00:31:04,520 --> 00:31:09,000
+Sì, effettivamente anche collegare gli indizi uno all'altro.
+
+469
+00:31:10,120 --> 00:31:10,840
+Sicuramente
+
+470
+00:31:12,040 --> 00:31:14,680
+e poi magari ti viene in mente che c'è un altro tipo
+
+471
+00:31:14,680 --> 00:31:22,440
+di collegamento, lo aggiungi, lo togli, sposti, togli qualcuno dalla diciamo dal
+
+472
+00:31:22,680 --> 00:31:25,800
+tabellone, perché vi siete sbagliati.
+
+473
+00:31:25,880 --> 00:31:28,840
+Può essere tutto questo ed è molto interessante.
+
+474
+00:31:28,840 --> 00:31:31,880
+Questa è una mappa mentale molto
+
+475
+00:31:33,240 --> 00:31:35,160
+produttiva, chiamiamola così.
+
+476
+00:31:35,160 --> 00:31:40,760
+Invece, dal punto di vista delle mappe mentali digitali, chiamiamole così, volevo
+
+477
+00:31:40,760 --> 00:31:45,760
+un attimo spezzare ancora una cosa per quanto riguarda Mind Node: questa
+
+478
+00:31:46,000 --> 00:31:51,120
+applicazione che io, ad esempio, uso in formato gratuito perché permette di
+
+479
+00:31:51,120 --> 00:31:52,000
+fare quello che mi serve.
+
+480
+00:31:52,000 --> 00:31:55,040
+Essenzialmente non ho bisogno di aggiungere tanto altro.
+
+481
+00:31:55,040 --> 00:31:58,560
+Ma la cosa, secondo me, è davvero interessante, per esempio, per chi
+
+482
+00:31:58,560 --> 00:32:03,200
+scrive articoli, oppure chi deve scrivere, ad esempio, una relazione o via
+
+483
+00:32:03,200 --> 00:32:07,440
+discorrendo, è la possibilità, appunto che vi dicevo prima del digitale che
+
+484
+00:32:07,680 --> 00:32:09,440
+il cartaceo non può fare.
+
+485
+00:32:09,440 --> 00:32:13,200
+Ovvero qual è questo, Mindode ha la possibilità di esportare la vostra
+
+486
+00:32:13,200 --> 00:32:19,120
+mappa mentale in formato, diciamo, markdown, ovvero vi trasforma quello che avete
+
+487
+00:32:19,120 --> 00:32:24,480
+scritto in questo momento in qualcosa che si trasforma praticamente automaticamente in
+
+488
+00:32:24,480 --> 00:32:25,920
+un documento di testo.
+
+489
+00:32:25,920 --> 00:32:30,800
+Quindi, voi, dopo che avete messo tutte le vostre idee all'interno di
+
+490
+00:32:30,800 --> 00:32:36,160
+Mindode e le esportate, diciamo che avete già il 50% del lavoro
+
+491
+00:32:36,160 --> 00:32:42,560
+fatto perché voi si tratta semplicemente, tra virgolette, di espandere le idee
+
+492
+00:32:42,560 --> 00:32:48,000
+che avete focalizzato all'interno di Mindode e in questo documento di testo.
+
+493
+00:32:48,000 --> 00:32:54,400
+Questo è un passaggio, secondo me, fondamentale all'interno del digitale, perché vi
+
+494
+00:32:54,960 --> 00:33:02,160
+trasporta automaticamente da un ambiente di pensiero, di strutturazione del pensiero, diciamo
+
+495
+00:33:02,400 --> 00:33:08,240
+risoluzione dei problemi in un qualcosa che riuscite a tramutare facilmente in
+
+496
+00:33:08,240 --> 00:33:11,840
+qualcosa di leggibile, di trasmissibile.
+
+497
+00:33:11,840 --> 00:33:17,120
+Nel caso in cui la mappa mentale, diciamo, è limitata tra virgolette,
+
+498
+00:33:17,120 --> 00:33:18,560
+perché la capite solo voi.
+
+499
+00:33:18,560 --> 00:33:23,840
+Invece, facendo questo tipo di passaggio lo rendete anche più facilmente appetibile
+
+500
+00:33:23,840 --> 00:33:27,040
+e anche comprensibile a chi lo dovete dare.
+
+501
+00:33:27,120 --> 00:33:30,520
+Ad esempio, io parlo di relazioni, potete anche parlare tranquillamente di
+
+502
+00:33:30,760 --> 00:33:31,400
+articoli
+
+503
+00:33:29,840 --> 00:33:36,360
+del blog, oppure quello che vi viene in mente nel vostro lavoro.
+
+504
+00:33:36,520 --> 00:33:39,240
+Secondo me si può applicare a molti aspetti del vostro lavoro se
+
+505
+00:33:39,240 --> 00:33:40,360
+ci pensate un attimo.
+
+506
+00:33:40,520 --> 00:33:46,600
+Basta sfruttare questo tipo di strumenti che diciamo possono essere sfruttati con
+
+507
+00:33:46,600 --> 00:33:50,920
+un'applicazione gratuita che è Mind Node, è qualcosa che è un editor
+
+508
+00:33:50,920 --> 00:33:53,320
+di testo in modo molto semplice e lineare.
+
+509
+00:33:53,320 --> 00:33:56,680
+A chiosa di quello che hai detto tu, per esempio, spesso e
+
+510
+00:33:56,680 --> 00:33:58,520
+volentieri cosa faccio?
+
+511
+00:33:59,080 --> 00:34:02,680
+La prima parte di sviluppo di una puntata di A2 Podcast
+
+512
+00:34:03,080 --> 00:34:09,160
+è la mappa mentale, poi, diciamo, esporto la mappa mentale in Markdown,
+
+513
+00:34:09,160 --> 00:34:13,560
+e a quel punto lì mi fa diventa la struttura, chiamiamola in
+
+514
+00:34:13,560 --> 00:34:17,240
+questi termini, delle note dell'episodio, che poi vengono eventualmente quando ci siamo
+
+515
+00:34:17,480 --> 00:34:18,840
+sviluppate oltre.
+
+516
+00:34:18,840 --> 00:34:22,200
+Quindi, secondo me, bravo Roberto, è esattamente quello che facciamo.
+
+517
+00:34:24,680 --> 00:34:28,200
+Da quando me le hai fatte vedere queste mappe mentali le ho
+
+518
+00:34:28,200 --> 00:34:31,320
+fatte diventare, non dico subito mio, ci ho dovuto lavorare un attimo
+
+519
+00:34:31,480 --> 00:34:31,960
+anch'io.
+
+520
+00:34:32,120 --> 00:34:38,040
+Tuttavia, diventa uno strumento fondamentale, davvero fondamentale per riuscire a essere produttivi.
+
+521
+00:34:38,040 --> 00:34:43,480
+Poi, sempre nel reparto, chiamiamolo così di software, delle mappe mentali, prima
+
+522
+00:34:43,480 --> 00:34:46,120
+di parlare di quelli che sono i software di cui abbiamo già
+
+523
+00:34:46,120 --> 00:34:49,240
+parlato, quindi poi faremo una carellata veloce.
+
+524
+00:34:49,240 --> 00:34:53,400
+Tra le mie varie incursioni, vi segnalo un video in italiano che
+
+525
+00:34:53,400 --> 00:34:58,440
+sarà appunto nella notte dell'episodio, dove questo youtuber, diciamo, oltre a ovviamente
+
+526
+00:34:58,600 --> 00:35:01,880
+essere appassionato in mappa mentale e così via, ma utilizza Mero.
+
+527
+00:35:03,320 --> 00:35:07,400
+Che io non conoscevo, che abbiamo conosciuto con Lucio Bragagnolo.
+
+528
+00:35:07,560 --> 00:35:12,680
+Che effettivamente, tra le varie funzioni che ha, c'è appunto la possibilità
+
+529
+00:35:12,680 --> 00:35:16,480
+di avere delle mappe mentali preimpostate, chiamiamole così.
+
+530
+00:35:16,640 --> 00:35:20,400
+L'altra cosa interessante è che però appunto questo è un forse, nel
+
+531
+00:35:20,400 --> 00:35:24,400
+senso che lo dobbiamo ancora vedere se non come demo di Apple
+
+532
+00:35:24,400 --> 00:35:31,200
+al quinoa di giugno, Freeform potenzialmente potrebbe essere uno strumento molto interessante.
+
+533
+00:35:31,200 --> 00:35:34,560
+Diciamo per fare qualcosa di un po' più organizzato di una mappa
+
+534
+00:35:34,560 --> 00:35:35,600
+mentale, ma sempre
+
+535
+00:35:37,120 --> 00:35:42,080
+in questa maniera, forse più una mappa concettuale, perché adesso poi non
+
+536
+00:35:42,080 --> 00:35:46,320
+abbiamo parlato, ma se si vuole fare proprio i puntigliosi, la mappa
+
+537
+00:35:46,320 --> 00:35:51,760
+concettuale, è semplicemente una mappa dove, diciamo, i vari concetti sono legati
+
+538
+00:35:51,760 --> 00:35:57,520
+uno all'altro, mentre la mappa mentale, chiamiamolo così, appunto questa struttura d'albero,
+
+539
+00:35:57,520 --> 00:36:03,520
+quindi dove c'è un'idea fondamentale da cui si diramano tutte le idee
+
+540
+00:36:03,520 --> 00:36:04,560
+secondarie.
+
+541
+00:36:04,560 --> 00:36:08,480
+Se si vuole fare questa distinzione, questa sarebbe la distinzione che ho
+
+542
+00:36:08,480 --> 00:36:12,720
+visto fare, perché poi io continuo a ripetere, non ha senso, secondo
+
+543
+00:36:12,720 --> 00:36:17,840
+me, essere teorici, ma nella pratica, alla fine un misto di tutto
+
+544
+00:36:18,000 --> 00:36:23,040
+può diventare sempre utile e appunto, secondo me non si devono dare
+
+545
+00:36:23,040 --> 00:36:28,000
+definizioni, ma dare esempi e modalità di utilizzo di questi strumenti che
+
+546
+00:36:28,160 --> 00:36:32,320
+casomai non fanno il caso vostro, ma che casomai invece vi aprono.
+
+547
+00:36:32,400 --> 00:36:38,080
+Personalmente, per esempio, la mappa mentale mi ha profondamente modificato il modo
+
+548
+00:36:38,080 --> 00:36:45,520
+di lavorare, ammetto che credo di aver conosciuto di questo strumento torno
+
+549
+00:36:45,520 --> 00:36:48,960
+ai 35 anni, una decina di anni fa, probabilmente
+
+550
+00:36:50,080 --> 00:36:56,560
+l'avrei potuto utilizzare meglio, approfittarne di più nel periodo da studente su
+
+551
+00:36:56,560 --> 00:36:57,520
+altri fronti.
+
+552
+00:36:57,520 --> 00:37:00,840
+Quindi, devo dire la verità, una delle cose che mi fa piacere
+
+553
+00:37:00,840 --> 00:37:04,600
+di più di parlare di mappe mentali, ne parliamo spesso e volentieri,
+
+554
+00:37:04,600 --> 00:37:08,840
+perché poi li utilizziamo, è proprio anche quello di condividere con chi
+
+555
+00:37:08,840 --> 00:37:13,480
+non sa ancora che cosa sono, uno strumento che non è necessario
+
+556
+00:37:13,640 --> 00:37:18,840
+utilizzare, ma può essere la solita freccia in più nella faretra delle
+
+557
+00:37:18,840 --> 00:37:21,400
+nostre conoscenze e capacità.
+
+558
+00:37:21,400 --> 00:37:25,000
+Cerchiamo di mantenere una puntata quasi non troppo lunga.
+
+559
+00:37:25,000 --> 00:37:29,000
+I software, chiamiamoli così, invece di cui abbiamo già parlato e quindi
+
+560
+00:37:29,000 --> 00:37:31,240
+andremo abbastanza veloci.
+
+561
+00:37:31,880 --> 00:37:38,360
+My Node ne abbiamo parlato profusamente, anzi, tra virgolette, avete visto anche
+
+562
+00:37:38,360 --> 00:37:43,480
+per chi ha guardato la diretta, l'utilizzo del software in diretta.
+
+563
+00:37:43,480 --> 00:37:46,840
+È quello che io, tra virgolette, utilizzo ormai da una vita.
+
+564
+00:37:47,080 --> 00:37:52,120
+Appunto, tra le varie cose sono beta tester, proprio perché sono sempre
+
+565
+00:37:52,440 --> 00:37:56,040
+curioso di vedere le novità e credo di aver anche avuto qualche
+
+566
+00:37:56,040 --> 00:37:58,520
+tipo di interazione con gli sviluppatori.
+
+567
+00:37:58,520 --> 00:38:02,440
+La base della software A credo che sia austriaca, però ve la
+
+568
+00:38:02,440 --> 00:38:04,040
+vendo con dei dubitativi.
+
+569
+00:38:04,040 --> 00:38:08,200
+Esistono due tali, chiamiamoli così, di questo software: quella versione gratuita, che,
+
+570
+00:38:08,200 --> 00:38:11,960
+di fatto, appunto, peraltro, io ho la versione che chiamiamo così a
+
+571
+00:38:11,960 --> 00:38:13,720
+pagamento, anche se in beta test.
+
+572
+00:38:13,720 --> 00:38:18,120
+Roberto ha quella gratuita, riusciamo tranquillamente a condividere queste mappe mentali.
+
+573
+00:38:18,120 --> 00:38:22,680
+Ovvio che Roberto ha meno possibilità diciamo di abbellire la mappa mentale,
+
+574
+00:38:22,680 --> 00:38:28,040
+ma nella sostanza, anche qui collaboriamo senza nessun tipo di problema, utilizziamo
+
+575
+00:38:28,200 --> 00:38:34,280
+fare i condivisi di iCloud e quindi ognuno può interagire a virgolette
+
+576
+00:38:34,520 --> 00:38:38,120
+aggiungere idee e cose sulla mappa mentale, e quindi è anche uno
+
+577
+00:38:38,120 --> 00:38:43,080
+strumento collaborativo, tra virgolette, anche se sconsiglio caldamente di fare le modifiche
+
+578
+00:38:43,080 --> 00:38:44,720
+in contemporanea l'uno con l'altro.
+
+579
+00:38:44,520 --> 00:38:47,840
+Non è una soluzione tipo Google Doc.
+
+580
+00:38:48,000 --> 00:38:52,400
+È ovvio che se due contemporanei andate a modificare il file, ecco
+
+581
+00:38:52,560 --> 00:38:55,200
+lì ci potrebbero essere dei conflitti, mettiamola così.
+
+582
+00:38:55,200 --> 00:38:59,200
+A volte io lo uso molto, spesso e volentieri mi trovo.
+
+583
+00:38:59,200 --> 00:39:03,920
+Se un dispositivo diciamo non si è sincronizzato online e utilizzo la
+
+584
+00:39:03,920 --> 00:39:07,760
+stessa mappa mentale, perché poi appunto il vantaggio grosso di queste applicazioni
+
+585
+00:39:07,760 --> 00:39:11,440
+è che ovviamente potete fare le modifiche da iPhone, dai pad, da
+
+586
+00:39:11,600 --> 00:39:14,800
+Mac e è molto comodo, diciamo.
+
+587
+00:39:14,800 --> 00:39:19,040
+Però, se uno dei dispositivi non ha sincronizzato per qualche tipo di
+
+588
+00:39:19,040 --> 00:39:24,800
+motivo, spesso e volentieri vi trovate con due versioni lievemente differenti.
+
+589
+00:39:24,800 --> 00:39:28,160
+La cosa carina di MyNode è che comunque ti dice quale voglio
+
+590
+00:39:28,160 --> 00:39:32,640
+utilizzare delle ultime versioni che ho a disposizione, spesso e volentieri è
+
+591
+00:39:32,640 --> 00:39:35,040
+quella che si è modificato o meno.
+
+592
+00:39:35,200 --> 00:39:40,080
+Anche la risoluzione, chiamiamola così, di modifica è abbastanza risolvibile.
+
+593
+00:39:40,080 --> 00:39:46,160
+L'altra applicazione che è sempre diciamo simile e blasonata, chiamiamolo in questi
+
+594
+00:39:46,160 --> 00:39:50,160
+termini, multipiattaforma dal nostro punto di vista, nel senso che Mac e
+
+595
+00:39:50,160 --> 00:39:56,720
+iPad iPhone, si chiama i Thought, che rispetto a MyNode, ha il
+
+596
+00:39:56,720 --> 00:40:01,920
+vantaggio di avere anche una di alcune funzioni che, per esempio, MyNode
+
+597
+00:40:01,920 --> 00:40:09,440
+non ha, cioè adesso nell'ortodossia, chiamiamola così, delle mappe mentali, c'è anche,
+
+598
+00:40:09,440 --> 00:40:13,360
+oltre ai singoli rami, diciamo, c'è anche la possibilità di avere dei
+
+599
+00:40:13,360 --> 00:40:17,840
+rami a liska di pesce, dove di fatto le varie lische, cioè
+
+600
+00:40:18,480 --> 00:40:24,560
+le varie voci, diciamo, servono per fare elencazioni o comunque per dare
+
+601
+00:40:24,800 --> 00:40:29,280
+attributi all'idea principale di cui sono figlie, e quindi che in certi
+
+602
+00:40:29,280 --> 00:40:31,560
+casi può diventare molto comoda perché
+
+603
+00:40:29,920 --> 00:40:36,280
+permette in poco spazio di condensare più informazioni.
+
+604
+00:40:36,440 --> 00:40:38,680
+Se vi interessa, è una particolarità.
+
+605
+00:40:38,680 --> 00:40:43,400
+Poi ne abbiamo già parlata varie volte: peraltro c'è un errore nella
+
+606
+00:40:43,400 --> 00:40:45,480
+mappa mentale, la cambiamo subito.
+
+607
+00:40:45,480 --> 00:40:52,680
+È FreeMind, che è sicuramente l'applicazione che è multipiattaforma desktop, gratuita, l'unica
+
+608
+00:40:52,680 --> 00:40:57,640
+cosa che è piuttosto bruttina, visualizzazione grafica, anche Roberto se n'era lamentato
+
+609
+00:40:57,640 --> 00:40:59,160
+quando gliel'ho fatta vedere.
+
+610
+00:40:59,160 --> 00:41:03,960
+Quindi, diciamo, dopo anche lì dipende molto da cosa volete fare e
+
+611
+00:41:03,960 --> 00:41:10,120
+ne esistono una pletora, perché poi recentemente sono uscite svariatissime applicazioni.
+
+612
+00:41:10,120 --> 00:41:15,640
+Quelle di cui abbiamo parlato oggi sono quelle diciamo più note e
+
+613
+00:41:16,120 --> 00:41:20,200
+bene o male, poi, in dipendenza anche dalle vostre esigenze, non ci
+
+614
+00:41:20,200 --> 00:41:25,480
+vuole poi un software particolarmente evoluto, cioè anche ma è nota nella
+
+615
+00:41:25,480 --> 00:41:30,840
+versione in abbonamento, ha sì, delle funzioni aggiuntive molto carine, ha probabilmente
+
+616
+00:41:30,840 --> 00:41:35,160
+le funzioni di esportazione e quant'altro sono quelle più interessanti.
+
+617
+00:41:35,160 --> 00:41:38,760
+Tuttavia, non è che vi cambiano la vita e credo che Roberto,
+
+618
+00:41:38,760 --> 00:41:42,040
+che è braccino, possa confermarlo.
+
+619
+00:41:42,040 --> 00:41:46,760
+Sì, esatto, però stavo pensando a un'altra applicazione che potrebbe tornarvi utile,
+
+620
+00:41:46,760 --> 00:41:49,640
+di cui da quando ho iniziato a parlare di software che sto
+
+621
+00:41:49,640 --> 00:41:53,240
+cercando dappertutto di farvi venire in mente il nome, è un'applicazione che
+
+622
+00:41:53,240 --> 00:41:57,400
+abbiamo usato anch'io e Filippo per un certo periodo di tempo all'inizio
+
+623
+00:41:57,400 --> 00:42:00,760
+di A2 Podcast quando avevo ancora un nome un nome e
+
+624
+00:42:00,760 --> 00:42:02,200
+un cognome diverso.
+
+625
+00:42:02,200 --> 00:42:04,880
+Che si chiama, Comunque, ci verrà in mente.
+
+626
+00:42:05,120 --> 00:42:08,200
+Probabilmente lo troveremo tra le note dell'episodio.
+
+627
+00:42:08,360 --> 00:42:12,280
+Quella è un'applicazione molto interessante perché vi permette, appunto, di fare molti
+
+628
+00:42:12,280 --> 00:42:17,200
+blocchi all'interno di una lavagna, chiamiamola così, dove potete mettere dai link
+
+629
+00:42:17,200 --> 00:42:23,360
+dei siti web, alle foto, alle frecce, al testo, potete fare praticamente
+
+630
+00:42:23,360 --> 00:42:25,440
+qualsiasi cosa che vi viene in mente.
+
+631
+00:42:25,440 --> 00:42:28,480
+Solo che in questo momento non ci viene nessuno dei due il
+
+632
+00:42:28,480 --> 00:42:29,760
+nome in testa.
+
+633
+00:42:29,760 --> 00:42:30,480
+Guardate un po'.
+
+634
+00:42:30,880 --> 00:42:32,800
+Me l'avevi proposta tu, eh?
+
+635
+00:42:35,760 --> 00:42:40,000
+Sì, sì, ma la usavo tantissimo, solo che da quando sono passato
+
+636
+00:42:40,000 --> 00:42:42,640
+a Mind, quella lì me la sono dimenticata.
+
+637
+00:42:42,880 --> 00:42:43,440
+Ciao!
+
+638
+00:42:43,440 --> 00:42:45,760
+Tra quelle Notion, me la sono cambiata
+
+639
+00:42:47,120 --> 00:42:47,440
+.
+
+640
+00:42:47,440 --> 00:42:51,200
+Tra l'altro, sono tutti strumenti gratuiti, anche quello esatto.
+
+641
+00:42:51,920 --> 00:42:55,040
+Ho avuto una serie di persone che mi hanno messo, diciamo, sulla
+
+642
+00:42:55,040 --> 00:42:56,560
+buona strada, mettiamola così.
+
+643
+00:42:56,560 --> 00:42:58,800
+Però questa applicazione è molto interessante.
+
+644
+00:42:58,800 --> 00:43:02,720
+Purtroppo non riesco a farmi venire veramente in mente il nome perché
+
+645
+00:43:02,720 --> 00:43:08,640
+è particolarmente visuale, chiamiamola così, a differenza di Mind, che tendenzialmente nella
+
+646
+00:43:08,640 --> 00:43:13,680
+versione gratuita è praticamente del semplice testo e qualche linea colorata.
+
+647
+00:43:13,680 --> 00:43:19,680
+Con questa applicazione invece la cosa diventa molto più articolata e viene
+
+648
+00:43:19,680 --> 00:43:24,640
+utilizzata anche per la progettazione grafica di siti web, di pagine web,
+
+649
+00:43:24,640 --> 00:43:29,200
+oppure che ne so, anche per pensare a un progetto vero e
+
+650
+00:43:29,280 --> 00:43:35,600
+proprio, tant'è che viene usata spesso nell'ambiente dell'architettura, però continuo a dire
+
+651
+00:43:35,600 --> 00:43:36,880
+non mi viene in mente il nome.
+
+652
+00:43:36,880 --> 00:43:39,440
+Quindi ce ne faremo una ragione: prima o poi ci verrà in
+
+653
+00:43:39,440 --> 00:43:40,800
+mente, ne parleremo in puntata.
+
+654
+00:43:40,880 --> 00:43:45,120
+Sicuramente, sicuramente comunque adesso cercheremo nella notte di episodio di inserirla, perché
+
+655
+00:43:45,280 --> 00:43:51,200
+appunto, diciamo lo sviluppo iniziale della due podcast è nato lì.
+
+656
+00:43:51,200 --> 00:43:53,440
+Quindi anche c'è un qualche tipo di
+
+657
+00:43:54,960 --> 00:43:57,600
+tradizione che abbiamo implementato.
+
+658
+00:43:57,600 --> 00:44:01,720
+Direi a questo punto che stranamente, siamo andati via abbastanza veloci.
+
+659
+00:44:02,280 --> 00:44:04,360
+E a parte una partenza
+
+660
+00:44:05,400 --> 00:44:12,760
+lenta e iniziale, siamo arrivati a conclusione della puntata, per cui direi
+
+661
+00:44:12,760 --> 00:44:15,800
+che Roberto può andare in conclusione.
+
+662
+00:44:15,800 --> 00:44:18,680
+Non so se ce l'hai sotto mano perché me l'hai girato, però
+
+663
+00:44:18,760 --> 00:44:20,360
+segnaliamo e ringraziamo.
+
+664
+00:44:20,360 --> 00:44:25,720
+Adesso Roberto, nel mente casmai cerca, chi ha fatto le recensioni recenti
+
+665
+00:44:25,880 --> 00:44:27,160
+sui due podcast.
+
+666
+00:44:27,240 --> 00:44:31,240
+Noi lo diciamo sempre, le leggiamo tenendo a precisare, ma non leggiamo
+
+667
+00:44:31,240 --> 00:44:35,000
+sempre, però appunto, visto che ne abbiamo accumulate due.
+
+668
+00:44:35,000 --> 00:44:38,520
+Sì, esatto, adesso andiamo subito a parlarne.
+
+669
+00:44:38,520 --> 00:44:42,120
+Un attimo di sospans perché me lo deve tirare su.
+
+670
+00:44:42,120 --> 00:44:44,600
+Ovviamente ho la linea completamente intasata.
+
+671
+00:44:44,600 --> 00:44:47,960
+Perché ci sono anche giustamente i miei figli che si guardano la
+
+672
+00:44:47,960 --> 00:44:49,080
+TV, mannaggia loro.
+
+673
+00:44:49,080 --> 00:44:50,600
+Comunque in ogni caso le ho trovate,
+
+674
+00:44:52,680 --> 00:44:55,000
+non li mandi a letto il giorno del podcast.
+
+675
+00:44:55,560 --> 00:44:56,680
+No, sono in vacanza.
+
+676
+00:44:56,680 --> 00:45:02,280
+Allora, prima di tutto, leggiamo in ordine cronologico quella del 24 giugno
+
+677
+00:45:02,280 --> 00:45:07,080
+2022, da parte di Mastro di Chiavi che ci dà Grazie 5
+
+678
+00:45:07,240 --> 00:45:11,560
+Stelle, ti ringraziamo tantissimo per questo aiuto che dai assieme a tutti
+
+679
+00:45:11,560 --> 00:45:15,640
+gli altri ascoltatori, scrivendo appunto le recensioni.
+
+680
+00:45:15,960 --> 00:45:20,360
+Hai aggiunto anche questo, a parte virgolette, in modo semplice, i bravissimi
+
+681
+00:45:20,360 --> 00:45:25,080
+Roberto e Filippo accompagnano l'ascoltatore nei meandi del mondo Apple con un
+
+682
+00:45:25,080 --> 00:45:27,640
+occhio alla produttività da seguire.
+
+683
+00:45:27,640 --> 00:45:29,800
+Grazie, veramente, Mastro di Chiavi.
+
+684
+00:45:29,800 --> 00:45:32,920
+Forse ricordo bene se l'avevamo già letta, ma in ogni caso lo
+
+685
+00:45:32,920 --> 00:45:36,120
+ringraziamo lo stesso, in questo caso, anche due volte per quello che
+
+686
+00:45:36,120 --> 00:45:37,880
+ha scritto per le 5 stelle.
+
+687
+00:45:37,880 --> 00:45:44,360
+Come dobbiamo anche ringraziare, Luca Roma che l'11 luglio 2022 ha scritto,
+
+688
+00:45:44,360 --> 00:45:48,160
+per te virgolette, il bello di questo podcast è che Filippo e
+
+689
+00:45:48,160 --> 00:45:52,080
+Roberto ti fanno entrare nella loro bottega di Mac user per conoscere
+
+690
+00:45:52,080 --> 00:45:54,320
+gli attrezzi e il flusso di lavoro.
+
+691
+00:45:54,320 --> 00:45:58,480
+Forse non proprio per new by, più per intermediate, e non è
+
+692
+00:45:58,480 --> 00:45:59,440
+un difetto.
+
+693
+00:45:59,440 --> 00:46:01,200
+Grazie anche per questo, Luca Roma.
+
+694
+00:46:01,200 --> 00:46:03,600
+Cerchiamo di parlare bene o male a tutti quanti.
+
+695
+00:46:04,080 --> 00:46:04,160
+Quindi
+
+696
+00:46:05,200 --> 00:46:08,480
+è veramente un perché io mi ricordo il mio figlio che mi
+
+697
+00:46:08,480 --> 00:46:11,600
+continua a dire New Bo, e quindi io leggo Newby.
+
+698
+00:46:12,960 --> 00:46:14,400
+Mi fa molto ridere questa cosa.
+
+699
+00:46:14,560 --> 00:46:18,400
+In effetti, sì, mio figlio mi continua a dare del nabo, perché
+
+700
+00:46:18,400 --> 00:46:21,120
+adesso l'ha declinato anche in nabo.
+
+701
+00:46:21,120 --> 00:46:21,680
+Quindi quando
+
+702
+00:46:22,960 --> 00:46:25,600
+leggo in inglese faccio un po' fatica.
+
+703
+00:46:25,600 --> 00:46:29,760
+Purtroppo abbiate pazienza per il mio grosso difetto, che è quello della
+
+704
+00:46:29,760 --> 00:46:30,880
+pronuncia inglese.
+
+705
+00:46:30,880 --> 00:46:34,400
+In ogni caso, ringraziamo davvero tutti e due i nostri utenti che
+
+706
+00:46:34,400 --> 00:46:38,000
+hanno messo 5 stelle e hanno avuto anche tempo di scrivere una
+
+707
+00:46:38,000 --> 00:46:39,200
+bellissima recensione.
+
+708
+00:46:39,200 --> 00:46:40,880
+Vi ringraziamo di cuore.
+
+709
+00:46:40,880 --> 00:46:44,000
+Come ringraziamo chi vorrà aggiungersi
+
+710
+00:46:45,280 --> 00:46:48,880
+a queste recensioni che ci fanno conoscere di più.
+
+711
+00:46:48,880 --> 00:46:52,960
+E come hanno scritto, giustamente vuol dire che siamo sulla strada giusta.
+
+712
+00:46:52,960 --> 00:46:57,840
+Perché il nostro messaggio di spiegare la tecnologia Apple e dando i
+
+713
+00:46:57,840 --> 00:47:02,880
+nostri, chiamiamo così, trucchi del mestiere, ma diciamo che sono quelli che
+
+714
+00:47:02,880 --> 00:47:06,800
+vengono in mente a chi utilizza Apple tutti i giorni, sono cose
+
+715
+00:47:06,800 --> 00:47:09,600
+che possono tornare utili anche a tutti gli altri.
+
+716
+00:47:09,920 --> 00:47:13,120
+Se non sapete come fare a fare una recensione, troverete come sempre
+
+717
+00:47:13,120 --> 00:47:15,120
+il link nelle note dell'episodio.
+
+718
+00:47:15,120 --> 00:47:19,920
+Potete anche iscriverci alla casella di posta elettronica che risponde all'indirizzo mail,
+
+719
+00:47:20,000 --> 00:47:20,800
+scrivi, punto.
+
+720
+00:47:20,800 --> 00:47:23,760
+A chiocciolaadue podcast.it.
+
+721
+00:47:23,760 --> 00:47:27,520
+Poi, come sempre, trovate le note dell'episodio con il link degli argomenti
+
+722
+00:47:27,520 --> 00:47:29,080
+che abbiamo trattato in questa puntata.
+
+723
+00:47:29,080 --> 00:47:34,360
+E tutti i nostri riferimenti all'indirizzo a2podcast.it/43.
+
+724
+00:47:34,520 --> 00:47:38,520
+Dove ci potete trovare il sottoscritto, mi potete trovare sul mio blog
+
+725
+00:47:38,520 --> 00:47:41,000
+personale che si chiama Mac Architettura.
+
+726
+00:47:41,160 --> 00:47:47,960
+Potete trovare all'indirizzo marto.net.wordpress.com, dove proprio oggi, ma voi lo saprete poi
+
+727
+00:47:47,960 --> 00:47:51,480
+in differita perché questa puntata uscirà dopo, ma lo dico per chi
+
+728
+00:47:51,480 --> 00:47:53,160
+è online in questo momento.
+
+729
+00:47:53,160 --> 00:47:58,360
+Ho proprio pubblicato un articolo che parla della home page minimale su
+
+730
+00:47:58,360 --> 00:47:59,000
+iPad.
+
+731
+00:47:59,000 --> 00:48:00,600
+Ho fatto una piccola guida.
+
+732
+00:48:00,600 --> 00:48:04,520
+Se siete interessati alle personalizzazioni, secondo me, è da seguire perché vi
+
+733
+00:48:04,520 --> 00:48:09,640
+dà molti spunti per mettere giù una nuova personalizzazione del vostro iPad,
+
+734
+00:48:09,640 --> 00:48:11,320
+magari anche più produttivo.
+
+735
+00:48:11,560 --> 00:48:15,560
+Oltre agli altri articoli che, come avete potuto capire, parlano anche di
+
+736
+00:48:15,560 --> 00:48:21,240
+architettura e del Mac, oppure potete andarmi ad ascoltare su Snap Architettura
+
+737
+00:48:21,240 --> 00:48:25,960
+Imperfetta, che è il mio podcast settimanale, che ha preso una bella
+
+738
+00:48:25,960 --> 00:48:29,240
+pausa a settembre e adesso riprenderà a breve.
+
+739
+00:48:29,240 --> 00:48:32,280
+In ogni caso, non ci sono solo io, c'ho anche Filippo che
+
+740
+00:48:32,280 --> 00:48:34,520
+invece ha due progetti: quali sono?
+
+741
+00:48:34,520 --> 00:48:39,800
+Allora, avvocatimac.it blog, diciamo che scrivo, poi nell'ultimo periodo sto scrivendo poco,
+
+742
+00:48:39,800 --> 00:48:44,840
+ma lasciamo stare, diciamo che tante altre cose in pentola, mettiamola così.
+
+743
+00:48:44,840 --> 00:48:49,720
+E visto che Roberto ci tiene mensilmente attualmente, da inizio anno che
+
+744
+00:48:49,720 --> 00:48:53,560
+ho tirando avanti, quindi forse ce la faccio a arrivare fino a
+
+745
+00:48:53,560 --> 00:48:58,680
+dicembre, Avvocati e Mac Compendium, che è il podcast dove, diciamo, ovviamente più
+
+746
+00:48:58,680 --> 00:49:03,080
+pensato in parte per gli avvocati, dove racconto le mie cose, lo
+
+747
+00:49:03,080 --> 00:49:08,600
+sviluppo, diciamo, che utilizzo, la tecnologia che utilizzo, più incentrata sulla mia
+
+748
+00:49:08,600 --> 00:49:12,200
+attività professionale, mentre appunto qui su A2 Podcast.
+
+749
+00:49:12,200 --> 00:49:15,920
+Cerchiamo di essere un po' più a 360 gradi, un po' per
+
+750
+00:49:14,840 --> 00:49:16,080
+tutti.
+
+751
+00:49:16,320 --> 00:49:21,840
+Esatto, nel nostro intento cerchiamo anche di dare una conoscenza anche più
+
+752
+00:49:21,840 --> 00:49:26,160
+approfondita di questi strumenti, che comunque non è mai abbastanza.
+
+753
+00:49:26,160 --> 00:49:31,840
+Ma in ogni caso ci premeva ringraziarvi tutti quanti per l'ascolto, ma
+
+754
+00:49:31,840 --> 00:49:35,680
+da questa puntata anche per la visione, perché, insomma, siamo in diretta
+
+755
+00:49:35,840 --> 00:49:42,240
+YouTube, e quindi non ci rimane che darvi appuntamento al tra due
+
+756
+00:49:42,320 --> 00:49:43,040
+settimane.
+
+757
+00:49:43,040 --> 00:49:43,840
+Alla prossima.

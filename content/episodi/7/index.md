@@ -11,7 +11,7 @@ tags = ["mac", "sicurezza", "app"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "lV14XbD_v1I"
 +++
 

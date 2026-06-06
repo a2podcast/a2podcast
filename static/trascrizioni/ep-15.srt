@@ -1,0 +1,3751 @@
+1
+00:00:00,160 --> 00:00:05,840
+Benvenuti all'episodio 15 di A2, in cui scoprirete come ottenere il massimo
+
+2
+00:00:05,840 --> 00:00:07,760
+dalla vostra tecnologia Apple.
+
+3
+00:00:07,760 --> 00:00:11,920
+Io sono il solito, ovvero Roberto Marin e sono il vostro ospite
+
+4
+00:00:11,920 --> 00:00:14,640
+assieme al solito amico Filippo Strozzi.
+
+5
+00:00:14,640 --> 00:00:16,480
+Di cosa parliamo in questo episodio, Filippo?
+
+6
+00:00:16,720 --> 00:00:20,960
+Oggi, mio caro Roberto, parliamo dei programmi di videoscrittura: che cosa sono,
+
+7
+00:00:20,960 --> 00:00:23,440
+come funzionano e quali sono.
+
+8
+00:00:23,440 --> 00:00:28,000
+Ma prima, prima parola a te per fare il solito discorso.
+
+9
+00:00:28,000 --> 00:00:29,440
+Apro chiudo una parentesi.
+
+10
+00:00:29,440 --> 00:00:32,880
+Non abbiamo almeno guardato ieri, quindi direi che oggi è difficile che
+
+11
+00:00:32,880 --> 00:00:34,240
+ci fossero recensioni.
+
+12
+00:00:34,240 --> 00:00:38,640
+Quindi non abbiamo nuove recensioni su Apple Podcast, quindi non le leggiamo.
+
+13
+00:00:38,960 --> 00:00:39,440
+È un peccato.
+
+14
+00:00:39,440 --> 00:00:40,240
+È un peccato, lo so.
+
+15
+00:00:40,240 --> 00:00:40,800
+È un peccato.
+
+16
+00:00:40,800 --> 00:00:45,600
+Quindi, cari ascoltatori, correte a fare recensioni che ci aiutano a salire
+
+17
+00:00:45,600 --> 00:00:49,360
+e a farci conoscere ed è un modo dei tanti per poterci
+
+18
+00:00:49,360 --> 00:00:50,320
+sostenere.
+
+19
+00:00:50,320 --> 00:00:54,720
+Ma potete anche fare altre cose, come ad esempio fare una recensione,
+
+20
+00:00:54,720 --> 00:00:58,160
+come vi dicevo prima, seguendo il link nelle note dell'episodio della guida
+
+21
+00:00:58,320 --> 00:01:02,320
+che penso abbia fatto a manina il nostro grandissimo Filippo.
+
+22
+00:01:02,320 --> 00:01:06,000
+E poi, prima o poi, quando il sottoscritto inizierà a svegliarsi e
+
+23
+00:01:06,000 --> 00:01:11,200
+magari non essere tartassato anche il sabato mattina di lavoro perché purtroppo
+
+24
+00:01:11,200 --> 00:01:16,080
+ci sono delle scadenze, potete anche poi trovare altri modi per aiutarci.
+
+25
+00:01:16,080 --> 00:01:22,960
+Per adesso, intanto, potete anche iscriverci alla mail scrivi.a chiocciola a due
+
+26
+00:01:23,040 --> 00:01:25,040
+podcast.it.
+
+27
+00:01:25,040 --> 00:01:30,880
+Quindi a questo punto direi che possiamo andare a vedere l'argomento principale,
+
+28
+00:01:30,880 --> 00:01:33,040
+ovvero i programmi di videoscrittura.
+
+29
+00:01:33,040 --> 00:01:38,160
+Non vi nascondo che il sottoscritto, visto che ci sarà poi un'altra
+
+30
+00:01:38,160 --> 00:01:44,400
+puntata più avanti dove parleremo di altre tipologie di scrittura, chiamiamola così,
+
+31
+00:01:44,400 --> 00:01:49,040
+ho chiesto al mio amico Filippo, che richiederò di rispiegare in questo
+
+32
+00:01:49,040 --> 00:01:53,360
+momento qual è la differenza tra un programma di videoscrittura e quelli
+
+33
+00:01:53,360 --> 00:01:54,560
+di scrittura.
+
+34
+00:01:54,560 --> 00:02:01,960
+Allora, diciamo che la partenza è questa: tutti sanno, l'elefante nella stanza
+
+35
+00:02:01,960 --> 00:02:05,720
+è uno o nell'armadio, dipende dai punti di vista, comunque è uno
+
+36
+00:01:59,200 --> 00:01:59,520
+e
+
+37
+00:02:06,200 --> 00:02:09,960
+Microsoft World che tutti utilizzano per scrivere.
+
+38
+00:02:10,760 --> 00:02:16,200
+Di fatto Microsoft Word, che ormai è l'archetipo ed è il programma
+
+39
+00:02:16,440 --> 00:02:22,760
+de facto che ovviamente si utilizza per scrivere, diciamo, i suoi emuli
+
+40
+00:02:23,080 --> 00:02:26,600
+non sono in senso tecnico dei programmi per scrivere, ma sono dei
+
+41
+00:02:26,600 --> 00:02:32,760
+programmi per dati lo scrivere, ovvero per mettere in bella copia, chiamiamola
+
+42
+00:02:32,760 --> 00:02:35,560
+così, quello che si scriveva una volta a mano.
+
+43
+00:02:35,560 --> 00:02:38,680
+Adesso non vi faccio la storia lunga, ma ve la faccio molto
+
+44
+00:02:38,680 --> 00:02:39,400
+breve.
+
+45
+00:02:39,640 --> 00:02:45,000
+Nel tempo, negli uffici soprattutto, ma anche per pubblicare un qualsiasi libro,
+
+46
+00:02:45,000 --> 00:02:49,000
+gli articoli di giornale e così via, cosa facevano i reporter piuttosto
+
+47
+00:02:49,080 --> 00:02:49,960
+che gli scrittori?
+
+48
+00:02:49,960 --> 00:02:51,080
+Scriveva la macchina.
+
+49
+00:02:51,080 --> 00:02:55,240
+Ovviamente scrivere la macchina vuol dire che non solo devo scrivere con
+
+50
+00:02:55,480 --> 00:03:00,280
+un apposito sistema, ma ovviamente se faccio un errore e sono a
+
+51
+00:03:00,280 --> 00:03:04,280
+metà pagina spesso e volentieri mi tocca riscrivere tutta la pagina, o
+
+52
+00:03:04,520 --> 00:03:09,080
+fare le modifiche, diciamo direttamente sul foglio e così via, creando, però
+
+53
+00:03:09,160 --> 00:03:10,520
+ovviamente tutta una serie di.
+
+54
+00:03:10,680 --> 00:03:12,440
+Una volta appunto si barrava
+
+55
+00:03:13,640 --> 00:03:17,480
+il testo sbagliato, ripassando indietro con la macchina da scrivere e così
+
+56
+00:03:17,480 --> 00:03:17,800
+via.
+
+57
+00:03:17,800 --> 00:03:23,400
+Un altro mondo diverso invece era quello dell'editoria, chiamiamolo così, della carta
+
+58
+00:03:23,400 --> 00:03:28,120
+stampata vera e propria, dove ovviamente vivano e vivono tuttora tutta una
+
+59
+00:03:28,120 --> 00:03:33,320
+serie di altre regole dove vengono costruiti una volta a mano, proprio
+
+60
+00:03:33,320 --> 00:03:38,200
+fisicamente, cioè si metteva una lettera dietro l'altra per la stampa pressa,
+
+61
+00:03:38,200 --> 00:03:43,720
+diciamo, adesso si utilizzano strumenti più avanzati, ovviamente sempre informatici nell'ultimo periodo,
+
+62
+00:03:43,720 --> 00:03:48,400
+ma dove si impaginava il testo creato da scrittori di vario genere,
+
+63
+00:03:48,400 --> 00:03:51,440
+se un giornale, i giornalisti, se è di un libro, lo scrittore
+
+64
+00:03:51,440 --> 00:03:52,960
+del libro o gli scrittori del libro.
+
+65
+00:03:53,360 --> 00:03:58,400
+Cosa succede nel momento in cui passiamo da macchina da scrivere a
+
+66
+00:03:58,400 --> 00:04:02,480
+computer, i primi computer, nascono ovviamente tutta una serie di programmi di
+
+67
+00:04:02,480 --> 00:04:07,040
+cosiddetta appunto video scrittura, cioè scrittura video invece di scrivere a macchina
+
+68
+00:04:07,200 --> 00:04:10,480
+sulla macchina da scrivere, si scrive a video, quindi si vede quello
+
+69
+00:04:10,480 --> 00:04:13,520
+che si fa scrivendo ovviamente con la tastiera.
+
+70
+00:04:13,840 --> 00:04:19,360
+E da qui su Mac addirittura perché Windows addirittura scusami, non Windows,
+
+71
+00:04:19,360 --> 00:04:24,480
+ma Word, addirittura nasce sotto Macintosh come applicativo.
+
+72
+00:04:24,480 --> 00:04:28,960
+Microsoft è il primo, nasce, diciamo, come casa che ha prodotto il
+
+73
+00:04:28,960 --> 00:04:33,840
+primo programma di videoscrittura per Apple, perché all'epoca forse non esisteva neanche
+
+74
+00:04:33,840 --> 00:04:39,520
+il Macintosh, parliamo di uni fast a livello di storica storia dell'informatica
+
+75
+00:04:39,680 --> 00:04:40,320
+esatto.
+
+76
+00:04:40,320 --> 00:04:45,520
+Microsoft ovviamente è una software house di biglize e così via.
+
+77
+00:04:45,520 --> 00:04:49,520
+Dopo si mette a fare tutt'altro e tante altre cose, ma Word,
+
+78
+00:04:49,600 --> 00:04:55,360
+diciamo, nasce prima su Mac, poi passa sotto Windows e poi in
+
+79
+00:04:55,360 --> 00:04:56,880
+Windows prospera.
+
+80
+00:04:56,880 --> 00:05:00,800
+Diciamo perché poi di fatto diventa lo strumento che tutti utilizzano.
+
+81
+00:05:00,800 --> 00:05:06,160
+Perché tutti utilizzano Windows come PC, diciamo cioè come personal computer, comunque
+
+82
+00:05:06,160 --> 00:05:08,960
+computer da casa, chiamiamolo così, o da ufficio.
+
+83
+00:05:08,960 --> 00:05:12,560
+E da qui passa un po' come il signore degli anelli.
+
+84
+00:05:12,560 --> 00:05:18,240
+La storia dell'anello del potere passa nel tempo, nessuno si accorge più
+
+85
+00:05:18,400 --> 00:05:21,520
+di che cosa vuol dire scrivere, perché questo è il vero problema.
+
+86
+00:05:21,520 --> 00:05:25,360
+E abbiamo questi programmi che nascono ovviamente per mettere in bella copia
+
+87
+00:05:25,360 --> 00:05:27,920
+e per fare quello che una volta con la macchina da scrivere
+
+88
+00:05:28,000 --> 00:05:30,000
+era un'attività tediosa e complicata.
+
+89
+00:05:30,520 --> 00:05:33,320
+Per gli uffici, ma anche per casa, perché poi a questo punto
+
+90
+00:05:33,320 --> 00:05:36,520
+diventa tutto un calderone unico.
+
+91
+00:05:36,520 --> 00:05:41,080
+E quindi chi scrive inizia a scrivere utilizzando questi programmi che nascevano
+
+92
+00:05:41,080 --> 00:05:46,040
+appunto per datti lo scrivere, cioè per scrivere in bella copia gli
+
+93
+00:05:46,040 --> 00:05:47,560
+scritti e così via.
+
+94
+00:05:47,800 --> 00:05:52,280
+E infatti il funzionamento di base di tutti questi software di video
+
+95
+00:05:52,440 --> 00:05:58,440
+scrittura, appunto, è quello del foglio digitale di carta: cioè il vecchio
+
+96
+00:05:58,440 --> 00:06:02,600
+principio della macchina da scrivere dove infilavi il foglio e sopra quel
+
+97
+00:06:02,600 --> 00:06:07,800
+foglio battevi a macchina e ovviamente digitavi sostanzialmente il testo.
+
+98
+00:06:07,800 --> 00:06:14,680
+Ecco, stesso discorso vale per Word e tutti i suoi succedani, ma
+
+99
+00:06:15,000 --> 00:06:17,880
+abbiamo un vantaggio che è un vantaggio grosso che poi è il
+
+100
+00:06:17,880 --> 00:06:22,200
+vantaggio competitivo che ha fatto che ha reso questi programmi ovviamente da
+
+101
+00:06:22,200 --> 00:06:27,160
+padrone: che puoi modificare il foglio, vedi esattamente qual è il foglio
+
+102
+00:06:27,320 --> 00:06:32,280
+quindi cosa comparirà, cosa verrà stampato perché una volta si stampava solo
+
+103
+00:06:32,280 --> 00:06:34,680
+su carta progressivamente.
+
+104
+00:06:34,680 --> 00:06:38,920
+Poi se siete bravi e se avete seguito le nostre puntate sulla
+
+105
+00:06:38,920 --> 00:06:44,920
+digitalizzazione, non stampate più su carta, ma semplicemente generate dei PDF digitali
+
+106
+00:06:45,080 --> 00:06:48,680
+dei succedani appunto del foglio di carta.
+
+107
+00:06:49,560 --> 00:06:53,720
+A questo punto comunque così si faceva e effettivamente i risultati erano
+
+108
+00:06:53,720 --> 00:06:56,520
+notevoli, anche perché una volta che io ho finito il mio documento
+
+109
+00:06:56,680 --> 00:07:02,200
+ne potevo stampare 10, 100.000 copie e negli uffici, una volta, era
+
+110
+00:07:02,200 --> 00:07:08,760
+anche solo dispendioso fare le copie, per esempio, adesso, io, facendo l'avvocato,
+
+111
+00:07:08,760 --> 00:07:11,080
+mi raccontavano perché io sono arrivato.
+
+112
+00:07:11,080 --> 00:07:15,440
+Che diciamo i primi computer erano già presenti in ufficio, quindi si
+
+113
+00:07:14,440 --> 00:07:16,480
+stava già passando.
+
+114
+00:07:16,960 --> 00:07:21,680
+C'erano ancora le vecchie macchine da scrivere le elettroniche elettriche, chiamiamole così,
+
+115
+00:07:22,000 --> 00:07:26,480
+ma si utilizzava prevalentemente ovviamente i computer per fare tutto, anche se
+
+116
+00:07:26,480 --> 00:07:32,400
+c'erano ancora, secondo me, dei monitor a tubo cattodico di quelli piccolissimi
+
+117
+00:07:32,400 --> 00:07:37,680
+da 10-12 pollici, tipo e appunto mi raccontavano come si faceva a
+
+118
+00:07:37,680 --> 00:07:42,800
+fare, per esempio, noi in carta dovevi depositare lo stesso atto varie
+
+119
+00:07:42,800 --> 00:07:45,840
+volte, cioè un atto per il giudice, un atto per te come
+
+120
+00:07:45,840 --> 00:07:50,000
+copia per sapere cosa avevi depositato, ovviamente, e un atto per la
+
+121
+00:07:50,000 --> 00:07:50,640
+controparte.
+
+122
+00:07:50,640 --> 00:07:55,760
+Poi, se c'erano più controparti, ovviamente ne dovevi fare n copie.
+
+123
+00:07:55,760 --> 00:07:59,280
+Si prendeva la carta carbone e cosa succedeva?
+
+124
+00:07:59,280 --> 00:08:05,120
+Mettevi un foglio sull'altro di quella che veniva chiamata carta velina, proprio
+
+125
+00:08:05,120 --> 00:08:10,080
+che era sottile sottile sottile, facevi delle specie di sandwich di carta,
+
+126
+00:08:10,080 --> 00:08:14,320
+carta carbone, carta, carta carbone carta e così via.
+
+127
+00:08:14,800 --> 00:08:18,240
+Battendo macchina, ovviamente si creavano.
+
+128
+00:08:18,240 --> 00:08:22,320
+Io la segretaria, la datilografa.
+
+129
+00:08:22,320 --> 00:08:27,360
+Scrivevo un foglio e mentre ne uscivano 2, 3, 4, 5, 6.
+
+130
+00:08:27,360 --> 00:08:32,560
+Questo era il metodo precedente: della fotocopiatrice, sì, sì, esatto.
+
+131
+00:08:33,120 --> 00:08:38,880
+Per cui questo era il modo di lavorare una volta, e questi
+
+132
+00:08:38,880 --> 00:08:42,880
+programmi nascono in questo ambiente, perché è in questo ambiente che poi
+
+133
+00:08:42,880 --> 00:08:47,920
+il personal computer prospera, cresce e diventa quello che ormai non dico
+
+134
+00:08:47,920 --> 00:08:49,840
+che tutti abbiamo un nostro computer.
+
+135
+00:08:49,840 --> 00:08:54,160
+O meglio, tutti abbiamo il nostro computer tra un telefono, un tablet
+
+136
+00:08:54,400 --> 00:08:59,440
+o un computer, diciamo che sia un laptop, un portatile o un
+
+137
+00:08:59,440 --> 00:09:00,000
+fisso.
+
+138
+00:09:00,200 --> 00:09:01,640
+Però questo è quanto
+
+139
+00:09:02,760 --> 00:09:06,360
+per cui qui nascono questi programmi.
+
+140
+00:09:06,360 --> 00:09:13,480
+E il sistema che utilizzano, è questo, quello che si dice WYSI,
+
+141
+00:09:13,480 --> 00:09:13,640
+W
+
+142
+00:09:15,080 --> 00:09:19,160
+Wiz, cioè what you can see, what you can get, ovvero ciò
+
+143
+00:09:19,160 --> 00:09:22,840
+che vedi è quel che ottieni, sono programmi che di fatto virtualizzano
+
+144
+00:09:22,840 --> 00:09:27,560
+il foglio e vi permettono diciamo di scrivere su un foglio virtuale
+
+145
+00:09:27,560 --> 00:09:32,200
+come se fosse un foglio di carta vero con impaginazione e tutto.
+
+146
+00:09:32,200 --> 00:09:36,440
+Quindi ovviamente tutti questi programmi hanno le funzioni di base.
+
+147
+00:09:36,440 --> 00:09:41,960
+Adesso non entreremo nel dettaglio anche perché diamo quasi per scontato che
+
+148
+00:09:41,960 --> 00:09:49,160
+qualcosa gli utenti lo sappiano, anche se anche qui, una piccola parentesi,
+
+149
+00:09:49,160 --> 00:09:54,840
+tantissima gente è convinta di sapere usare World tra virgolette, quando appunto
+
+150
+00:09:55,080 --> 00:09:58,760
+World è un programma enorme, ha funzionalità
+
+151
+00:10:00,280 --> 00:10:03,000
+, dopo ne parleremo un po' più nel dettaglio.
+
+152
+00:10:03,000 --> 00:10:08,920
+Ma ci sono veramente tantissime funzioni che nell'80-90% non si conoscono e
+
+153
+00:10:08,920 --> 00:10:10,440
+non si utilizzano.
+
+154
+00:10:10,440 --> 00:10:17,240
+È una nota alla vicenda, a parte il grassetto corsivo, sottolineato, barrato,
+
+155
+00:10:17,400 --> 00:10:21,960
+tutte queste cose qua che dovrebbero essere nella faretra, diciamo, dello scrittore
+
+156
+00:10:21,960 --> 00:10:25,720
+digitale, chiamiamolo così, una cosa che pochi conoscono e che invece è
+
+157
+00:10:25,720 --> 00:10:31,400
+molto utile, quindi io lo sottolineo sempre, sono le intestazioni.
+
+158
+00:10:31,720 --> 00:10:36,760
+Nel senso che testo, diciamo, può avere vari livelli di intestazione.
+
+159
+00:10:37,000 --> 00:10:41,080
+Noi che scriviamo, per esempio, sul web li conosciamo perché, vabbè, come
+
+160
+00:10:41,080 --> 00:10:46,720
+nel Mark Now, ma anche nell'HTML, appunto, esistono vari livelli di intestazione
+
+161
+00:10:46,800 --> 00:10:49,520
+e i vari livelli di intestazione sono legati
+
+162
+00:10:51,360 --> 00:10:56,400
+all'importanza, quindi il titolo vero e proprio, il sottotitolo, chiamiamoli così adesso,
+
+163
+00:10:56,400 --> 00:10:59,520
+che abitualmente non vengono minimamente utilizzati
+
+164
+00:11:00,720 --> 00:11:05,200
+nella scrittura di un documento perché progressivamente appunto la gente non lo
+
+165
+00:11:05,200 --> 00:11:07,920
+sa fare, diciamo o comunque li sa fatica.
+
+166
+00:11:07,920 --> 00:11:11,280
+Io adesso non l'ho mai capito, credo la prima più che la
+
+167
+00:11:11,280 --> 00:11:12,080
+seconda.
+
+168
+00:11:12,240 --> 00:11:15,440
+Poi appunto, siccome la gente non lo sa, poi quando tu dici
+
+169
+00:11:15,600 --> 00:11:19,280
+ma guarda, che si potrebbe fare così, no, ma io lo faccio
+
+170
+00:11:19,280 --> 00:11:23,760
+già così e quindi esatto, diciamo che è un gatto che si
+
+171
+00:11:23,760 --> 00:11:27,440
+morde la coda, è un circolo vizioso, mettiamola così.
+
+172
+00:11:27,440 --> 00:11:31,600
+Io lo sottolineo sempre perché vi permette poi di strutturare in maniera
+
+173
+00:11:31,760 --> 00:11:37,840
+visivamente e anche strutturale, perché la titolazione poi permette di nei vari
+
+174
+00:11:37,840 --> 00:11:43,600
+formati ripiegare o comunque gestire in maniera più organica un documento, comunque,
+
+175
+00:11:43,600 --> 00:11:47,520
+non entriamo troppo nel dettaglio, segnalo solo che questa funzione è una
+
+176
+00:11:47,520 --> 00:11:50,320
+di quelle funzioni interessanti, ovviamente ormai.
+
+177
+00:11:50,320 --> 00:11:55,120
+Ma non so, io aggiungo anch'io la mia, che è l'interruzione di
+
+178
+00:11:55,120 --> 00:11:55,680
+pagina.
+
+179
+00:11:56,160 --> 00:11:59,920
+Vabbè, scusami, l'interruzione di pagina è così sconosciuta.
+
+180
+00:12:00,240 --> 00:12:06,320
+Allora, giusto, solo per aggiungere un'altra, gli spazi bianchi consecutivi: cioè, se
+
+181
+00:12:06,320 --> 00:12:09,680
+tu non vuoi che una parola, per esempio, ecco quello a me
+
+182
+00:12:09,680 --> 00:12:10,480
+manda in bestia.
+
+183
+00:12:10,480 --> 00:12:15,440
+Devo dire, allora premetto: io ormai sono diventato un talebano della tipografia.
+
+184
+00:12:15,440 --> 00:12:15,600
+Quindi
+
+185
+00:12:16,720 --> 00:12:17,840
+non fai più esatto.
+
+186
+00:12:18,160 --> 00:12:20,720
+Tuttavia, però una delle cose che mi manda più in bestia sulla
+
+187
+00:12:20,720 --> 00:12:25,120
+faccia della Terra è euro e il numero, e l'euro è alla
+
+188
+00:12:25,120 --> 00:12:28,400
+fine della riga precedente, e sotto c'è il numero.
+
+189
+00:12:28,400 --> 00:12:30,520
+È una roba in guardabile
+
+190
+00:12:31,800 --> 00:12:37,400
+, e appunto lo spazio bianco consecutivo diciamo è uno spazio bianco ma
+
+191
+00:12:37,400 --> 00:12:43,880
+differente perché appunto permette di legare la parola precedente a quella successiva.
+
+192
+00:12:43,880 --> 00:12:51,720
+Quindi anche se euro e 1000, per esempio, sono separati, perché appunto
+
+193
+00:12:52,680 --> 00:12:58,840
+la tabulazione sostanzialmente permetterebbe di mettere l'e come l'ultima lettera della prima
+
+194
+00:13:00,120 --> 00:13:04,040
+della riga 1 e invece 1000 come la prima parola della seconda
+
+195
+00:13:04,040 --> 00:13:07,480
+riga successiva, ecco in questa maniera si fa assieme.
+
+196
+00:13:07,480 --> 00:13:12,680
+Quindi ovviamente l'interruzione di pagina sembra una bagianata, ma io ho visto
+
+197
+00:13:12,680 --> 00:13:20,680
+tantissimi documenti con invio, invio, invio, invio, invio, e tra l'altro, crea
+
+198
+00:13:21,000 --> 00:13:26,920
+una confusione notevole, perché ovviamente, se tu, dopo aver fatto passare, diciamo,
+
+199
+00:13:27,800 --> 00:13:33,000
+il testo nella pagina successiva, nella prima pagina ci scrivi di nuovo,
+
+200
+00:13:33,000 --> 00:13:38,840
+casomai, si cambia tutto invece, con l'interruzione di pagina, è un sistema
+
+201
+00:13:39,480 --> 00:13:40,760
+molto lineare.
+
+202
+00:13:40,760 --> 00:13:44,200
+Ma oggi vi insegneremo a utilizzare
+
+203
+00:13:46,200 --> 00:13:47,880
+, come si chiama?
+
+204
+00:13:47,880 --> 00:13:52,680
+Io non so come si chiama quell'icona con la P dove
+
+205
+00:13:54,200 --> 00:13:54,520
+i
+
+206
+00:13:55,560 --> 00:13:57,880
+nome, però non te lo so dire per me.
+
+207
+00:13:57,880 --> 00:14:04,040
+Comunque, se voi è il testo nascosto, chiamiamolo così: esatto.
+
+208
+00:14:03,760 --> 00:14:08,040
+Ma se per caso vi capita in un testo qualsiasi che vi
+
+209
+00:14:08,040 --> 00:14:10,520
+hanno mandato, cliccate su quell'icona lì.
+
+210
+00:14:10,520 --> 00:14:14,920
+Probabilmente perdete due diotrie da tutto il macello che vedete di nascosto
+
+211
+00:14:15,520 --> 00:14:20,560
+sotto, perché quello vi fa vedere quanto è curato il testo dalla
+
+212
+00:14:20,560 --> 00:14:23,760
+parte di chi l'ha scritto, nel senso, appunto parlare di introduzione di
+
+213
+00:14:23,760 --> 00:14:29,280
+pagina, di capitoli, di sottocapitoli discorrendo, con quello salta tutto fuori e
+
+214
+00:14:29,280 --> 00:14:31,680
+delle volte veramente c'è da piangere.
+
+215
+00:14:32,720 --> 00:14:40,800
+I doppi tripli spazi, o addirittura i caratteri speciali, chiamiamoli così, i
+
+216
+00:14:40,800 --> 00:14:45,920
+puntini sono un apposito carattere, non sono tre puntini giusto per dare
+
+217
+00:14:46,560 --> 00:14:48,400
+qualche idea, ecco!
+
+218
+00:14:49,360 --> 00:14:53,040
+Però, insomma, io ho paura a mandare il testo a Filippo.
+
+219
+00:14:53,840 --> 00:14:58,720
+Glielo mando sempre in testo semplicissimo, che non ci sia mai un
+
+220
+00:14:58,720 --> 00:15:00,880
+errore, perché se no, qua è un casino.
+
+221
+00:15:01,440 --> 00:15:08,640
+Nel caso, su avvocati Mac oggettivamente trovate abbastanza articoli sull'argomento, e addirittura,
+
+222
+00:15:08,960 --> 00:15:11,760
+qui andiamo un po' più nel dettaglio.
+
+223
+00:15:11,760 --> 00:15:16,400
+Siccome appunto sono appassionato di tipografia, c'è anche un webinar: tipografia per
+
+224
+00:15:16,400 --> 00:15:20,320
+avvocati, ma ovviamente si applica a chiunque.
+
+225
+00:15:21,600 --> 00:15:25,520
+È ovviamente pensato un po' più per il mondo legale, quindi con
+
+226
+00:15:25,520 --> 00:15:29,840
+anche tutta una serie di particolarità tipiche del mondo legale, ma in
+
+227
+00:15:29,840 --> 00:15:33,760
+generale le regole della tipografia si applicano a qualsiasi tipo di testo,
+
+228
+00:15:33,760 --> 00:15:35,920
+a qualsiasi tipo di scritto.
+
+229
+00:15:35,920 --> 00:15:38,400
+Quindi sono, diciamo, generali.
+
+230
+00:15:38,400 --> 00:15:44,400
+Poi, ovviamente, in base alle necessità, vanno gestiti in una certa maniera.
+
+231
+00:15:44,400 --> 00:15:48,560
+Ma non ci addentriamo troppo perché, se no, riusciamo ad andare oltre.
+
+232
+00:15:50,160 --> 00:15:56,480
+Anche perché è un'ulteriore piccola premessa, appunto, abbiamo detto questi software di
+
+233
+00:15:56,480 --> 00:15:59,600
+videoscrittura, in senso tecnico, dal mio punto di vista, quantomeno, non sono
+
+234
+00:15:59,600 --> 00:16:04,120
+software per scrivere, cioè, vi permettono di mettere in bella copia qualcosa
+
+235
+00:15:59,840 --> 00:16:06,360
+che avete già scritto dal mio punto di vista.
+
+236
+00:16:06,760 --> 00:16:10,760
+Ci potete scrivere, ovviamente, nessuno vi vieta di scrivere con Word se
+
+237
+00:16:10,760 --> 00:16:13,400
+volete scrivere con Word o con un altro programma.
+
+238
+00:16:13,400 --> 00:16:19,880
+Vi segnalo che esistono altri programmi pensati invece per creare dei testiamo
+
+239
+00:16:20,040 --> 00:16:24,680
+per quindi creare contenuti, chiamiamoli così, non ne parliamo minimamente.
+
+240
+00:16:24,680 --> 00:16:29,960
+Eventualmente, se ci sarà voglia, ne parleremo in puntate dedicate.
+
+241
+00:16:29,960 --> 00:16:35,480
+Addirittura speriamo di avere un ospite nel caso specifico, ma Roberto deve
+
+242
+00:16:35,480 --> 00:16:41,880
+sentirlo quindi, lo metto online così sappiamo chi deve fare e se
+
+243
+00:16:41,880 --> 00:16:46,760
+non lo fa, di chi è colpa, vedrò di sentirlo.
+
+244
+00:16:47,320 --> 00:16:52,760
+No, a parte gli scherzi, saranno due programmi che io non utilizzo,
+
+245
+00:16:52,760 --> 00:16:55,160
+quindi devo per forza chiamare qualcuno che ne parli.
+
+246
+00:16:55,560 --> 00:17:01,880
+Allora, su Scrivener che ho usato per almeno 4-5 anni, che è
+
+247
+00:17:02,760 --> 00:17:06,760
+a colpa, diciamo, di avere di tutte le mie peripezie successive.
+
+248
+00:17:06,760 --> 00:17:09,880
+Diciamo, posso parlarle tranquillamente io.
+
+249
+00:17:09,880 --> 00:17:10,360
+Quindi,
+
+250
+00:17:11,640 --> 00:17:14,840
+volentieri vi aprirò la mente su.
+
+251
+00:17:15,160 --> 00:17:19,640
+Io praticamente sarò un ascoltatore, farò io le domande al posto vostro.
+
+252
+00:17:19,640 --> 00:17:21,960
+Ma poi continuo a ripetere anche tu.
+
+253
+00:17:21,960 --> 00:17:25,240
+Vabbè, adesso, secondo me, fai meno relazioni di una volta.
+
+254
+00:17:25,480 --> 00:17:31,240
+Tutto, appunto, tutto quello che è fare relazione e quant'altro, utilizzare questi
+
+255
+00:17:31,240 --> 00:17:33,000
+strumenti è comunque molto più utile.
+
+256
+00:17:33,000 --> 00:17:35,640
+Io lo dichiaro proprio: Ah sì, sì, ma io ho un altro
+
+257
+00:17:35,640 --> 00:17:36,440
+metodo.
+
+258
+00:17:37,880 --> 00:17:40,520
+Sono due software che utilizzi tu, ma che non utilizzo io.
+
+259
+00:17:40,520 --> 00:17:43,120
+Io utilizzo un'altra serie di software.
+
+260
+00:17:43,120 --> 00:17:47,600
+A questo punto per quanto riguarda, per le relazioni, mi sono più
+
+261
+00:17:47,600 --> 00:17:53,200
+invece appoggiato ai Pages per il semplice fatto che posso sfruttare agevolmente
+
+262
+00:17:53,200 --> 00:17:55,200
+la dettatura di MyOS.
+
+263
+00:17:55,200 --> 00:18:00,320
+Mentre per quanto riguarda veramente lo scrivere, utilizzo due software che non
+
+264
+00:18:00,320 --> 00:18:05,120
+sono citati qua, ma che comunque essenzialmente mi appoggia al Markdown, brutto
+
+265
+00:18:05,120 --> 00:18:07,840
+a brutto, nel senso che è proprio testo e basta.
+
+266
+00:18:07,840 --> 00:18:11,440
+Conseguentemente dipende da quello che devo fare.
+
+267
+00:18:11,440 --> 00:18:16,240
+Nel blog tendenzialmente utilizzo il Markdown, invece per le relazioni preferisco dettarle
+
+268
+00:18:16,240 --> 00:18:19,040
+perché posso farlo in macchina e recupero un po' di tempo.
+
+269
+00:18:19,040 --> 00:18:25,920
+Invece per quanto riguarda il blog o tutte quelle cose che tendenzialmente
+
+270
+00:18:25,920 --> 00:18:30,240
+escono come articolo, preferisco curarle un po' di più per il semplice
+
+271
+00:18:30,240 --> 00:18:30,880
+fatto che
+
+272
+00:18:32,160 --> 00:18:36,480
+ci si rende conto soprattutto che parlare è una cosa e scrivere
+
+273
+00:18:36,480 --> 00:18:37,200
+è un'altra.
+
+274
+00:18:37,200 --> 00:18:41,760
+Ci sono una serie di modi di dire che puoi utilizzare parlando
+
+275
+00:18:41,920 --> 00:18:49,200
+perché non c'è bisogno di rileggerlo, di risentirlo, mentre invece la lettura
+
+276
+00:18:49,200 --> 00:18:54,560
+è diversa, deve avere una serie di spiegazioni che nel parlato evidentemente
+
+277
+00:18:54,560 --> 00:18:55,920
+le puoi anche saltare.
+
+278
+00:18:55,920 --> 00:18:58,640
+Ma detto questo, passiamo subito invece.
+
+279
+00:18:58,800 --> 00:19:03,840
+Non abbiamo citato l'altro software che Ulysses, diciamolo giusto solo per dirlo.
+
+280
+00:19:07,520 --> 00:19:09,440
+Si appoggio sul Markdown.
+
+281
+00:19:09,440 --> 00:19:14,560
+Poi scrivere come Ulyssis di fatto possono essere utilizzati tranquillamente tutti e
+
+282
+00:19:14,560 --> 00:19:16,080
+due col Markdown.
+
+283
+00:19:16,080 --> 00:19:21,520
+Anche se scrive un approccio, chiamiamolo così, più classico, nel senso che
+
+284
+00:19:21,840 --> 00:19:26,320
+la base del suo testo, l'RTF, grazie a tutta una serie di
+
+285
+00:19:26,320 --> 00:19:31,880
+sistemi, poi può esportare in vari formati differenti, ma evitiamo di andare
+
+286
+00:19:29,600 --> 00:19:33,160
+oltre perché non ha senso.
+
+287
+00:19:33,320 --> 00:19:35,720
+No, no, no, prima ti devo fare una domanda: subito: come hai
+
+288
+00:19:35,800 --> 00:19:37,480
+fatto a scoprire i due software?
+
+289
+00:19:37,480 --> 00:19:39,160
+Allora, scrivener
+
+290
+00:19:40,360 --> 00:19:44,520
+l'ho scoperto per caso, devo dire la verità.
+
+291
+00:19:44,520 --> 00:19:51,480
+Perché poi diciamo nei miei passati trascorsi ho anche una vena di
+
+292
+00:19:51,640 --> 00:19:56,760
+scritto, una parola grossa, comunque, diciamo sono appassionato di fumetti e mi
+
+293
+00:19:56,840 --> 00:19:59,560
+è sempre piaciuto anche scrivere le storie a fumetti.
+
+294
+00:19:59,560 --> 00:20:05,480
+Quindi, nella sostanza, l'ho acquistato all'epoca per quello, l'ho usato poco perché
+
+295
+00:20:05,480 --> 00:20:08,920
+poi, vabbè, essendo un hobby, tutto il resto, è andata così.
+
+296
+00:20:08,920 --> 00:20:13,320
+Però quando non mi ricordo neanche più per quale motivo, ma ho
+
+297
+00:20:13,320 --> 00:20:18,920
+provato a utilizzarlo per lavorare nella sostanza, e lì c'è stato proprio
+
+298
+00:20:19,560 --> 00:20:23,880
+il cambio epocale, nel senso che mi sono reso conto che per
+
+299
+00:20:23,880 --> 00:20:26,600
+determinate cose, veramente era molto più comodo.
+
+300
+00:20:26,600 --> 00:20:30,440
+Mi permetteva di organizzare meglio soprattutto gli atti complessi e così via.
+
+301
+00:20:30,440 --> 00:20:36,360
+Ulissis invece nasce molto dopo, anche perché Ulissis credo che abbiano più
+
+302
+00:20:36,360 --> 00:20:39,080
+di 5-6 anni di vita, ok,
+
+303
+00:20:40,520 --> 00:20:49,640
+nasce invece dalle frequentazioni, diciamo, legate a Mac, iOS, Markdown.
+
+304
+00:20:50,600 --> 00:20:57,880
+Effettivamente all'inizio ormai scrivo Markdown da tanto, mettiamola così, almeno da quando
+
+305
+00:20:57,880 --> 00:21:02,040
+è iniziata avvocate Mac, quindi almeno da 5 anni, se non di
+
+306
+00:21:02,040 --> 00:21:05,400
+più, ed effettivamente, è una delle applicazioni interessanti.
+
+307
+00:21:05,400 --> 00:21:11,160
+Io all'epoca avevo comprato la versione per iPad, poi, mentre sono passati
+
+308
+00:21:12,120 --> 00:21:13,880
+all'abbonamento.
+
+309
+00:21:13,880 --> 00:21:18,320
+Insomma, morale della favola, io mi sono diretto in altre direzioni.
+
+310
+00:21:14,840 --> 00:21:22,240
+Era interessante come applicazione, è tuttora molto interessante.
+
+311
+00:21:22,400 --> 00:21:26,160
+Vari autori ci scrivono libri quindi non è un'applicazione da poco.
+
+312
+00:21:26,160 --> 00:21:30,800
+Non so se mi spiego, però appunto sono andato decisamente da un'altra
+
+313
+00:21:30,800 --> 00:21:31,280
+parte.
+
+314
+00:21:32,880 --> 00:21:34,400
+Grazie anche per questa condivisione.
+
+315
+00:21:34,400 --> 00:21:39,680
+Invece, passiamo direttamente al programma standard di fatto che Microsoft Word, e
+
+316
+00:21:39,680 --> 00:21:44,400
+soprattutto ci chiediamo, tutti come abbiamo fatto conoscerlo, semplicemente perché era preinstallato
+
+317
+00:21:44,400 --> 00:21:47,840
+nei computer che abbiamo utilizzato la prima volta tendenzialmente.
+
+318
+00:21:47,840 --> 00:21:53,040
+Io arrivo dal mondo Windows, tu non ho anch'io, ovviamente, ma la
+
+319
+00:21:53,040 --> 00:21:58,480
+cosa vera è una versione di straforo di Word: si, cade sempre
+
+320
+00:21:58,480 --> 00:21:59,520
+dal camion.
+
+321
+00:21:59,840 --> 00:22:04,160
+Tutti ce l'avevano, e poi anche uno dei motivi per cui perché
+
+322
+00:22:04,160 --> 00:22:11,840
+adesso prendiamoci chiaro è anche quello: tutti poi utilizzano questo sistema.
+
+323
+00:22:12,000 --> 00:22:15,840
+Nel tempo, tra l'altro, Microsoft si è fatta molto più furba, tra
+
+324
+00:22:15,840 --> 00:22:20,720
+virgolette, una cosa che ho notato che poi ritengo anche comoda da
+
+325
+00:22:20,720 --> 00:22:24,720
+un certo punto di vista, ma sicuramente è una bella politica commerciale.
+
+326
+00:22:24,720 --> 00:22:29,680
+Io, come ti raccontavo in prediretta, mi sono iscritto a dei corsi
+
+327
+00:22:29,680 --> 00:22:36,000
+di perfezionamento all'università e con l'iscrizione all'università, tra le varie cose, ho
+
+328
+00:22:36,000 --> 00:22:42,080
+anche accesso a tutta la suite office gratis come studente.
+
+329
+00:22:42,080 --> 00:22:48,960
+E questo, ovviamente, mi permette di utilizzare, diciamo, grazie appunto alla mia
+
+330
+00:22:49,120 --> 00:22:55,520
+iscrizione all'università, tutti i loro software, tra cui ovviamente anche Word.
+
+331
+00:22:55,760 --> 00:22:59,360
+E questo è un bel modo di entrare nel
+
+332
+00:23:00,520 --> 00:23:01,880
+mondo del lavoro.
+
+333
+00:23:01,880 --> 00:23:08,120
+Proprio perché se io, studente universitario, ho a disposizione gratuitamente questi strumenti
+
+334
+00:23:08,360 --> 00:23:11,880
+e imparo in qualche maniera a utilizzare questi strumenti.
+
+335
+00:23:11,880 --> 00:23:16,840
+È anche evidente che in un domani utilizzerò lo strumento che conosco
+
+336
+00:23:16,920 --> 00:23:19,560
+piuttosto che uno strumento sconosciuto, tipo la Tech,
+
+337
+00:23:21,240 --> 00:23:27,880
+che ovviamente devo imparare da zero e che casomai mi intimidisce notevolmente
+
+338
+00:23:27,880 --> 00:23:33,000
+perché devo imparare tutta una serie di cose che oggettivamente richiedono tempo,
+
+339
+00:23:33,000 --> 00:23:34,440
+richiedono sforzo.
+
+340
+00:23:34,440 --> 00:23:40,360
+Certo, politica perseguita anche da altri software house, come ad esempio, Autodesk
+
+341
+00:23:40,440 --> 00:23:41,880
+con il suo AutoCAD.
+
+342
+00:23:41,880 --> 00:23:46,840
+Praticamente c'era qualcuno di Autodesk ufficiale che arrivava nelle facoltà di architettura
+
+343
+00:23:46,840 --> 00:23:53,880
+e lanciava essenzialmente i CD-ROM con l'Autocad gratuito per tutti e fatene
+
+344
+00:23:53,880 --> 00:23:54,440
+buon uso.
+
+345
+00:23:54,440 --> 00:23:58,760
+Insomma, alla fine ci siamo trovati a usare Autocad come standard di
+
+346
+00:23:58,760 --> 00:24:01,560
+fatto nel bene e nel male, e mi fermo qui e non
+
+347
+00:24:01,560 --> 00:24:03,000
+aggiungo nient'altro.
+
+348
+00:24:03,320 --> 00:24:07,080
+Detto questo, passiamo a Microsoft Word che tutti ricordiamo per Clippy.
+
+349
+00:24:07,080 --> 00:24:09,160
+Al fine, quella simpatica.
+
+350
+00:24:09,800 --> 00:24:14,920
+Gli anziani come noi ricordano perché poi è sparito, adesso non c'è
+
+351
+00:24:14,920 --> 00:24:15,400
+più.
+
+352
+00:24:17,240 --> 00:24:18,360
+Che triste!
+
+353
+00:24:18,680 --> 00:24:22,200
+Tuttavia, se andate a cercare su internet lo trovate.
+
+354
+00:24:22,200 --> 00:24:23,480
+Quindi, non vi preoccupate.
+
+355
+00:24:23,480 --> 00:24:28,520
+Anzi, se sono bravo, cercherò di mettere anche o nelle note dell'episodio,
+
+356
+00:24:28,600 --> 00:24:32,360
+addirittura sul podcast il mitico Clippy a un certo punto.
+
+357
+00:24:32,360 --> 00:24:36,240
+Quindi guardate anche le icone del podcast.
+
+358
+00:24:36,560 --> 00:24:39,000
+Clippi era molto simpatico, ma non ce ne erano altre altre di
+
+359
+00:24:39,000 --> 00:24:40,200
+cui mi sfugge il nome.
+
+360
+00:24:40,200 --> 00:24:44,760
+Comunque era un assistente, diciamo, una prima forma di assistenza virtuale, chiamiamola
+
+361
+00:24:44,840 --> 00:24:49,520
+così, dove ti aiutava nella digitazione del testo e via discorrendo e
+
+362
+00:24:49,520 --> 00:24:52,880
+ti faceva anche delle proposte o scene come stampare un file.
+
+363
+00:24:53,200 --> 00:24:58,560
+In ogni caso era interessante, è una bella cosa che ti teneva
+
+364
+00:24:58,640 --> 00:25:02,000
+compagnia delle volte volevi solo ucciderlo, ma si poteva anche farlo perché
+
+365
+00:25:02,000 --> 00:25:03,360
+si poteva spegnere.
+
+366
+00:25:03,360 --> 00:25:07,920
+Ma detto questo vi ricordo che il sottoscritto non mette mano a
+
+367
+00:25:07,920 --> 00:25:12,240
+Microsoft Word praticamente da quando ci sono i ribon.
+
+368
+00:25:12,400 --> 00:25:14,400
+Nel senso che io non li ho mai visti, nel senso che
+
+369
+00:25:14,400 --> 00:25:16,880
+non ho mai usato un ribo in vita mia.
+
+370
+00:25:16,880 --> 00:25:21,600
+Io ti so dire da quando, per lavoro, diciamo, poi, per esempio,
+
+371
+00:25:21,680 --> 00:25:27,520
+appunto anche recentemente ho fatto qualche test su Word, ma non lo
+
+372
+00:25:27,520 --> 00:25:32,000
+uso per lavoro o per scrivere in qualche sua forma, diciamo, non
+
+373
+00:25:32,000 --> 00:25:36,160
+l'uso da tantissimo tempo dal 2003, perché a un certo punto su
+
+374
+00:25:36,160 --> 00:25:44,400
+un vecchio computer che ovviamente andava a carbonella, l'ulteriore esplosione di Word,
+
+375
+00:25:44,400 --> 00:25:48,160
+perché, diciamo, ce l'ho anche fino a un po' di tempo fa,
+
+376
+00:25:48,160 --> 00:25:49,760
+World aveva
+
+377
+00:25:51,280 --> 00:25:52,800
+i suoi problemi.
+
+378
+00:25:53,120 --> 00:26:00,560
+Ho deciso che non l'avrei mai più usato e effettivamente, all'epoca sono
+
+379
+00:26:00,560 --> 00:26:05,360
+passato a Open Office, ne parleremo dopo in una sua diversa incarnazione,
+
+380
+00:26:05,600 --> 00:26:10,640
+devo dire la verità: però, la stabilità di Open Office era rispetto
+
+381
+00:26:10,640 --> 00:26:15,600
+a quella del World del tempo, su una macchina ovviamente vecchia, non
+
+382
+00:26:15,600 --> 00:26:16,320
+performante.
+
+383
+00:26:16,320 --> 00:26:18,480
+Quindi non diamo tutta colpa a World.
+
+384
+00:26:18,480 --> 00:26:23,200
+Diciamo, ma sicuramente uno dei difetti di World grossi, è quello che,
+
+385
+00:26:23,200 --> 00:26:28,560
+per esempio, su Mac occupa circa 2 GB un programma di videoscrittura,
+
+386
+00:26:28,560 --> 00:26:29,840
+cioè un manco forse
+
+387
+00:26:29,840 --> 00:26:33,480
+un videogioco o Photoshop.
+
+388
+00:26:33,720 --> 00:26:35,160
+Photoshop arriva a 2GB
+
+389
+00:26:36,440 --> 00:26:40,600
+giusto per il contesto, Photoshop è un programma per manipolare le immagini
+
+390
+00:26:41,080 --> 00:26:45,640
+per fare milioni di cose nell'ambito grafico.
+
+391
+00:26:45,640 --> 00:26:50,120
+Quindi e Photoshop anche lì è un programma che prima serviva per
+
+392
+00:26:50,120 --> 00:26:53,800
+ritoccare le foto, adesso praticamente ci fai qualunque cosa.
+
+393
+00:26:54,280 --> 00:26:57,240
+C'è intelligenza artificiale lì dentro.
+
+394
+00:26:57,240 --> 00:27:01,240
+E poi c'è anche AutoCAD occupa una Madonna e mezza.
+
+395
+00:27:01,240 --> 00:27:05,960
+Altri programmi di Beam Autoring, ad esempio, pesano meno di AutoCAD e
+
+396
+00:27:05,960 --> 00:27:06,920
+fanno molto di più.
+
+397
+00:27:06,920 --> 00:27:11,640
+Questo giusto per darvi l'indizio di quando i programmi erano nati negli
+
+398
+00:27:11,640 --> 00:27:16,520
+anni 70, giudì di lì, si sono portati indietro tutto il codice
+
+399
+00:27:16,520 --> 00:27:21,240
+fino a diventare delle cose abominevoli, mentre il software più recente alla
+
+400
+00:27:21,240 --> 00:27:25,560
+fine è meno pesante perché è semplicemente molto più ottimizzato e tante
+
+401
+00:27:25,560 --> 00:27:26,200
+menate
+
+402
+00:27:27,400 --> 00:27:31,880
+di software precedenti se li possono scordare, quindi sono anche delle volte
+
+403
+00:27:31,880 --> 00:27:32,600
+molto più stile.
+
+404
+00:27:32,680 --> 00:27:38,520
+Anche perché poi alcuni software devono essere retrocompili, anche se ovviamente questo
+
+405
+00:27:38,520 --> 00:27:45,000
+crea ulteriori, perché un altro discorso grosso è che ormai, per esempio,
+
+406
+00:27:45,240 --> 00:27:50,040
+i file vecchi di Word sono i file.doc, adesso esiste lo standard
+
+407
+00:27:50,040 --> 00:27:54,680
+semi-aperto da quel che ne so io di Doc X, però io
+
+408
+00:27:54,680 --> 00:27:57,320
+vedo ancora circolare tantissimi file doc.
+
+409
+00:27:57,640 --> 00:28:04,680
+Ovviamente, per far funzionare tutto software, diciamo, cioè o meglio, formati di
+
+410
+00:28:04,680 --> 00:28:10,280
+file di 15, 20, 25 anni fa, è ovvio che bisogna fare
+
+411
+00:28:10,280 --> 00:28:13,560
+degli arzigogoli notevoli a livello informatico.
+
+412
+00:28:13,560 --> 00:28:19,200
+No, no, questo non lo metti in dubbio, solo che insomma, certe
+
+413
+00:28:19,200 --> 00:28:24,400
+cose si notano alla fine sul peso del disco e anche sulla
+
+414
+00:28:25,280 --> 00:28:27,040
+mastodonticità diciamo
+
+415
+00:28:28,160 --> 00:28:31,600
+perché poi appunto ovviamente un programma che occupa 2 GB
+
+416
+00:28:33,440 --> 00:28:37,760
+richiede anche tante risorse del vostro computer e così via.
+
+417
+00:28:37,760 --> 00:28:43,040
+Tant'è vero che spesso e volentieri si utilizzano le versioni per mille
+
+418
+00:28:43,440 --> 00:28:48,160
+ragioni, ma anche versioni antiche diciamo di Word.
+
+419
+00:28:48,160 --> 00:28:54,640
+Perché io ho visto computer con Word 2000 e Word, ci sono
+
+420
+00:28:54,640 --> 00:29:00,400
+poi perché poi Word, fino alla sua incarnazione attuale che Office 365,
+
+421
+00:29:00,400 --> 00:29:08,000
+cioè la piattaforma a 360 gradi di Microsoft, prima i singoli programmi,
+
+422
+00:29:08,000 --> 00:29:12,960
+ovviamente venivano venduti separatamente e c'erano aggiornamenti a cadenza
+
+423
+00:29:14,160 --> 00:29:19,520
+un po' differenziati, quindi si avevano le varie annate, diciamo, di Word,
+
+424
+00:29:19,760 --> 00:29:20,880
+giusto per dare un'idea.
+
+425
+00:29:20,880 --> 00:29:26,160
+Adesso, almeno Microsoft, con Windows 10, in sostanza, è da un po'
+
+426
+00:29:26,160 --> 00:29:31,440
+che mantiene sempre gli stessi nomi, cambia il numero di release sotto,
+
+427
+00:29:31,440 --> 00:29:34,800
+ma l'utente finale è abbastanza trasparente.
+
+428
+00:29:35,040 --> 00:29:38,960
+Parliamo un po' velocemente di Word, anche se anch'io appunto tutte e
+
+429
+00:29:39,040 --> 00:29:42,000
+due, non è che siamo degli esperti utilizzatori.
+
+430
+00:29:42,000 --> 00:29:47,120
+Io mi ricordo solo una cosa: quando facevo l'installazione, dovevo deselezionare tutta
+
+431
+00:29:47,120 --> 00:29:49,360
+una serie di opzioni infinite.
+
+432
+00:29:49,360 --> 00:29:53,680
+Solo per l'installazione di Word mi ci voleva mezz'ora, perché l'installazione standard
+
+433
+00:29:53,680 --> 00:29:57,600
+occupava, che ne so, dico 2 giga, tolte tutte le spunte che
+
+434
+00:29:57,760 --> 00:30:01,800
+dovevo togliere perché c'era tutta roba inutile che nessuno usava come delle
+
+435
+00:30:01,800 --> 00:30:04,040
+volte installava anche il visual basic per
+
+436
+00:30:06,360 --> 00:30:11,880
+le tante cose, Word è programmabile comunque con i programmi di Microsoft,
+
+437
+00:30:11,880 --> 00:30:14,760
+ma è programmabile, mettiamola così.
+
+438
+00:30:15,000 --> 00:30:21,080
+E quindi il vantaggio di Word ovviamente è attualmente multipiattaforma, multipiattaforma fino
+
+439
+00:30:21,080 --> 00:30:24,200
+a mezzogiorno, cioè, per esempio, Linux non credo che ci sia.
+
+440
+00:30:24,360 --> 00:30:28,360
+Però Mac e Windows bene o male sono la pari.
+
+441
+00:30:28,360 --> 00:30:33,000
+Una volta Mac era indietro rispetto a Windows, adesso ho visto che
+
+442
+00:30:33,000 --> 00:30:38,040
+l'interfaccia è praticamente uguale, quindi c'è anche uniformità di piattaforma.
+
+443
+00:30:38,520 --> 00:30:39,880
+Mettiamola così.
+
+444
+00:30:39,880 --> 00:30:45,400
+Esiste una variante per iOS e iPadOS, ne parleremo brevemente dopo.
+
+445
+00:30:45,400 --> 00:30:51,720
+Adesso Microsoft, che sta invece andando alla rincorsa, chiamiamola così, visto che
+
+446
+00:30:52,200 --> 00:30:56,920
+aveva il mercato dominante, ovviamente era il mercato del software per computer.
+
+447
+00:30:56,920 --> 00:30:58,360
+Vale alla rincorsa di Google.
+
+448
+00:30:58,360 --> 00:31:04,520
+Quindi ha creato anche una Word, diciamo, per il web, chiamiamolo così,
+
+449
+00:31:04,520 --> 00:31:08,040
+che si può utilizzare ovviamente da un qualsiasi browser
+
+450
+00:31:09,480 --> 00:31:12,040
+per la collaborazione online.
+
+451
+00:31:12,040 --> 00:31:14,600
+Quindi esiste anche la possibilità di collaborare online.
+
+452
+00:31:14,680 --> 00:31:19,800
+Anche se, lo continuo a ripetere, non è detto che sia la
+
+453
+00:31:19,800 --> 00:31:25,960
+cosa migliore, mettiamola così, e comunque è tendenzialmente un po' limitato rispetto
+
+454
+00:31:25,960 --> 00:31:31,720
+al Word vero e proprio, anche se lo ripeto, World ha talmente
+
+455
+00:31:31,720 --> 00:31:36,280
+tante funzioni che spesso e volentieri se ne usano nella normalità dei
+
+456
+00:31:36,280 --> 00:31:38,200
+casi tra il 10 e il 20%.
+
+457
+00:31:38,200 --> 00:31:44,840
+Quindi abitualmente per un utilizzo normale di scrivere, diciamo, si fa tranquillamente
+
+458
+00:31:45,680 --> 00:31:47,040
+senza nessuna
+
+459
+00:31:44,840 --> 00:31:49,520
+maggior parte delle funzioni.
+
+460
+00:31:49,680 --> 00:31:54,400
+E qui posso parlare velocemente delle applicazioni su iOS e iPadOS.
+
+461
+00:31:54,720 --> 00:32:00,400
+La particolarità di innanzitutto di Word è che, o meglio, di Office
+
+462
+00:32:00,400 --> 00:32:05,680
+365, perché credo e dico, credo che non sia più acquistabile separatamente
+
+463
+00:32:06,000 --> 00:32:11,840
+come programma, mettiamolo così, ma è in abbinamento con Office 365.
+
+464
+00:32:11,840 --> 00:32:16,720
+Addirittura con la pandemia, Office 365 è diventato ancora più grosso, c'è
+
+465
+00:32:16,720 --> 00:32:21,520
+dietro Teams le facce di Roberto che voi non potete vedere, sono
+
+466
+00:32:21,760 --> 00:32:26,320
+emblematiche, ma qui stendiamo a velipietosi.
+
+467
+00:32:26,320 --> 00:32:31,280
+Comunque, a prescindere da questo, le licenze sono molto particolari.
+
+468
+00:32:31,280 --> 00:32:34,320
+Per cui, per esempio, su iOS, se non sbaglio, se non è
+
+469
+00:32:34,320 --> 00:32:37,200
+cambiato qualcosa, perché anch'io non è che ci stia troppo dietro.
+
+470
+00:32:37,200 --> 00:32:42,640
+Su iOS è gratuito, nel senso che voi potete scaricare Microsoft Word
+
+471
+00:32:42,800 --> 00:32:47,520
+per iOS, quindi per il telefonino, per intenderci, o addirittura per gli
+
+472
+00:32:47,520 --> 00:32:52,240
+iPad piccoli e non pagare niente e avere tutte le funzioni senza
+
+473
+00:32:52,240 --> 00:32:53,600
+dover fare niente.
+
+474
+00:32:53,600 --> 00:32:56,560
+Roberto mi dice che ho sbagliato, immagino.
+
+475
+00:32:56,800 --> 00:33:01,200
+No, no, no, no, no, domanda cosa si intende per iPad piccolo?
+
+476
+00:33:01,200 --> 00:33:08,400
+Nel senso, l'iPad base, allora vado a memoria e non ho controllato,
+
+477
+00:33:08,400 --> 00:33:09,360
+devo dire la verità.
+
+478
+00:33:10,320 --> 00:33:11,840
+Sono stato un bambino cattivo.
+
+479
+00:33:11,840 --> 00:33:13,360
+Lo io, non ti preoccupavo.
+
+480
+00:33:13,360 --> 00:33:17,280
+Nella sostanza, l'ultima volta che me lo ricordo io, perché poi ascoltando
+
+481
+00:33:17,280 --> 00:33:20,320
+le varie cose, però non utilizzandolo non mi interessa.
+
+482
+00:33:20,480 --> 00:33:24,880
+Per la mia versione, cioè l'iPad Pro di grosse dimensioni, era pagamento.
+
+483
+00:33:25,120 --> 00:33:28,400
+Tanto, è vero che un anno giusto per provare com'era, l'ho pagato
+
+484
+00:33:28,400 --> 00:33:29,520
+anche un anno di abbonamento.
+
+485
+00:33:29,640 --> 00:33:31,480
+L'avoi fatti male proprio,
+
+486
+00:33:32,760 --> 00:33:38,760
+ma non costava poco, erano 30 euro, tipo, ho detto: Vabbè, caso
+
+487
+00:33:38,760 --> 00:33:42,600
+mai, tutti ne parlavano molto bene, tra l'altro, per cui ho detto:
+
+488
+00:33:42,840 --> 00:33:48,200
+proviamolo poi oggettivamente, come tutte le cose di Microsoft, soprattutto per il
+
+489
+00:33:48,200 --> 00:33:53,400
+sistema Apple, se Word, diciamo, per Mac va anche bene,
+
+490
+00:33:55,880 --> 00:33:59,640
+sto guardando adesso perché visto fare una faccia strana, ma per un
+
+491
+00:33:59,640 --> 00:34:04,760
+semplice fatto: ho aperto l'App Store, ho guardato il mio simpatico Microsoft
+
+492
+00:34:04,760 --> 00:34:08,840
+Word che ti dice che lo puoi scaricare, sì, ma solo lo
+
+493
+00:34:08,840 --> 00:34:13,800
+puoi usare se hai un abbonamento Microsoft 365 idoneo.
+
+494
+00:34:14,520 --> 00:34:18,040
+Sono sceso un po' e ho visto che occupa la bellezza di
+
+495
+00:34:18,040 --> 00:34:19,960
+1,1 GB
+
+496
+00:34:21,000 --> 00:34:24,280
+solo per Microsoft World!
+
+497
+00:34:24,520 --> 00:34:29,000
+Sono purtroppo avendo una serie di codici incredibili.
+
+498
+00:34:29,480 --> 00:34:34,680
+Ecco un'altra cosa da dire: soprattutto nell'ottica di Apple, chiamiamola così, se
+
+499
+00:34:34,680 --> 00:34:39,480
+appunto vi dicevo su macOS sostanzialmente non ci sono grossi problemi, da
+
+500
+00:34:39,480 --> 00:34:44,040
+quel che ne so io, su iOS e iPadOS che richiede ovviamente
+
+501
+00:34:44,040 --> 00:34:49,560
+implementazioni più avanzate di determinate tecnologie tipiche del sistema operativo, una tra
+
+502
+00:34:49,560 --> 00:34:54,440
+tutte la gestione dei file Microsoft Word, come tutte le varie applicazioni
+
+503
+00:34:54,440 --> 00:35:01,000
+Microsoft, sono tutto forché semplici da utilizzare sotto sotto iOS, sotto iPadOS,
+
+504
+00:35:01,000 --> 00:35:06,680
+addirittura proprio perché invece vanno al contrario, cioè l'interfaccia è la stessa
+
+505
+00:35:06,680 --> 00:35:13,240
+interfaccia che trovereste sul vostro Mac o su Windows, però nasconde di
+
+506
+00:35:13,240 --> 00:35:16,720
+fatto, per esempio, l'interfacile viene nascosto.
+
+507
+00:35:18,000 --> 00:35:22,320
+E per esempio, sì, è bellissimo perché ho dei colleghi che mi
+
+508
+00:35:22,320 --> 00:35:24,160
+hanno chiesto alcuni consigli.
+
+509
+00:35:24,960 --> 00:35:26,800
+Ovviamente lavoravano solo su Word.
+
+510
+00:35:26,800 --> 00:35:30,400
+Quindi, ma io ho l'iPad, mi piacerebbe lavorare sulle iPad.
+
+511
+00:35:30,720 --> 00:35:34,160
+Ovviamente loro facevano tutto attraverso OneDrive,
+
+512
+00:35:35,760 --> 00:35:41,760
+e anche lì l'interfaccia di Word si aggancia direttamente a OneDrive.
+
+513
+00:35:42,080 --> 00:35:44,400
+Saltando tra virgolette, file.
+
+514
+00:35:44,400 --> 00:35:47,280
+Quando gli ho fatto vedere, ma guarda, che puoi fare con anche
+
+515
+00:35:47,280 --> 00:35:49,520
+con file, è rimasto basito.
+
+516
+00:35:49,520 --> 00:35:50,720
+Tra virgolette, ok.
+
+517
+00:35:50,720 --> 00:35:54,800
+Invece ho trovato la notizia che cercavamo, sentite qua che simpatici di
+
+518
+00:35:54,800 --> 00:36:01,840
+Microsoft adesso gli rigo la macchina subito perché è gratuito per l'editing
+
+519
+00:36:01,840 --> 00:36:02,800
+dei testi.
+
+520
+00:36:02,800 --> 00:36:08,480
+Per, diciamo, dimensione dello schermo più piccolo di 10,1 pollici.
+
+521
+00:36:08,480 --> 00:36:11,120
+Quindi la base tagliato fuori.
+
+522
+00:36:11,520 --> 00:36:15,120
+Io mi ricordavo proprio una roba del genere, cioè il minifun c'è,
+
+523
+00:36:15,120 --> 00:36:16,640
+ma la in panna normale no.
+
+524
+00:36:16,640 --> 00:36:18,800
+Io mi ricordavo una cosa così, perfetta.
+
+525
+00:36:18,800 --> 00:36:24,000
+Che è assurda come cosa, tra l'altro, perché la diagonale del però
+
+526
+00:36:24,000 --> 00:36:28,560
+è assurda, ma non così assurda, perché ovviamente Word c'è anche per
+
+527
+00:36:28,560 --> 00:36:32,160
+i tablet, Microsoft, e forse per Android, non lo so.
+
+528
+00:36:32,160 --> 00:36:34,080
+E quindi probabilmente loro hanno fatto
+
+529
+00:36:35,680 --> 00:36:37,360
+una loro politica così.
+
+530
+00:36:37,360 --> 00:36:39,200
+Poi vabbè, Microsoft e Microsoft.
+
+531
+00:36:39,200 --> 00:36:45,440
+Insomma, non ne possiamo parlare di più perché, se no, intanto che
+
+532
+00:36:45,440 --> 00:36:51,040
+parliamo di Microsoft, volevo salutare il nostro amico comune, Nicola Losito,
+
+533
+00:36:51,040 --> 00:36:52,800
+che ci ha raggiunto in chat.
+
+534
+00:36:52,800 --> 00:36:53,600
+Ciao, Nicola.
+
+535
+00:36:53,600 --> 00:36:55,920
+Grazie, Nicola, per essere qua con noi e ad ascoltarci.
+
+536
+00:36:55,920 --> 00:36:58,960
+È un piacere, ovviamente averti in compagnia.
+
+537
+00:36:58,960 --> 00:37:04,840
+Stavamo parlando essenzialmente del male del millennio che è World, giusto per
+
+538
+00:36:59,840 --> 00:37:06,200
+fare i complimenti.
+
+539
+00:37:08,040 --> 00:37:13,640
+Comunque, tornando a Bomba, cosa ce ne facciamo di World?
+
+540
+00:37:13,640 --> 00:37:17,640
+Cioè di un giga e uno di spazio per fare due righe
+
+541
+00:37:17,640 --> 00:37:18,600
+di testo.
+
+542
+00:37:18,600 --> 00:37:21,000
+Possiamo sfruttare la collaborazione come dicevi.
+
+543
+00:37:21,000 --> 00:37:22,360
+C'è lo spazio cloud.
+
+544
+00:37:22,360 --> 00:37:25,720
+Bisogna pagare un abbonamento che mi pare di aver intravisto sui 70
+
+545
+00:37:25,720 --> 00:37:30,360
+euro per quanto riguarda la piattaforma Mac OS invece su iPad e
+
+546
+00:37:30,600 --> 00:37:33,400
+iOS, mi pare di aver intravisto un 7 euro.
+
+547
+00:37:33,400 --> 00:37:38,600
+Non ho capito se l'esa anche lì è abbastanza complicato, ma tendenzialmente
+
+548
+00:37:38,600 --> 00:37:42,600
+quello che consiglio io è di prendere la multilicenza, cioè ovviamente se
+
+549
+00:37:42,600 --> 00:37:46,280
+avete più di un dispositivo perché se no non ha senso.
+
+550
+00:37:46,280 --> 00:37:52,200
+Ma con la multilicenza se lavorate in ambienti misti, cioè World, Mac
+
+551
+00:37:52,840 --> 00:37:56,600
+e iOS iPad, perché poi alla fine, appunto abbiamo visto.
+
+552
+00:37:56,760 --> 00:38:01,480
+iPad nella sostanza, se avete un iPad normale fino al Pro, vi
+
+553
+00:38:01,480 --> 00:38:04,040
+tocca pagarlo eventualmente World.
+
+554
+00:38:04,040 --> 00:38:08,360
+Vi consiglio il multilicenza perché a questo punto potrete lavorare in maniera
+
+555
+00:38:08,360 --> 00:38:09,080
+indifferente.
+
+556
+00:38:09,080 --> 00:38:13,400
+Diciamo sia su Windows che su Mac che su iOS.
+
+557
+00:38:13,720 --> 00:38:17,960
+Credo la multilicenza vada fino a 5 dispositivi o 5 o 6,
+
+558
+00:38:17,960 --> 00:38:22,200
+anche lì vado a memoria, per cui da un certo punto di
+
+559
+00:38:22,200 --> 00:38:26,920
+vista, se volete utilizzare su vari dispositivi, ha molto più senso, diciamo,
+
+560
+00:38:26,920 --> 00:38:30,440
+avere che costa un po' di più ovviamente una multilicenza.
+
+561
+00:38:30,440 --> 00:38:34,680
+L'altra cosa che vi volevo raccontare sulla versione per iPad barra per
+
+562
+00:38:34,680 --> 00:38:40,360
+iOS, è che ovviamente non è un world completo al 100%, per
+
+563
+00:38:40,360 --> 00:38:44,520
+esempio, una delle cose che a me personalmente manda in bestia, ma
+
+564
+00:38:44,520 --> 00:38:51,280
+ci sta, voglio dire, è il fatto che non sia possibile impostare
+
+565
+00:38:51,280 --> 00:38:59,600
+gli stili e ovviamente la titolazione, se non un documento preformattato preformattato.
+
+566
+00:38:59,600 --> 00:39:01,120
+Certo, puoi utilizzare
+
+567
+00:39:02,400 --> 00:39:06,240
+, allora, credo e dico credo, perché anche lì non ho fatto un
+
+568
+00:39:06,240 --> 00:39:07,440
+controllo casomai.
+
+569
+00:39:07,520 --> 00:39:14,480
+Dopo ci provo mentre parli, un attimo, anche Pegis ha questo difetto
+
+570
+00:39:14,960 --> 00:39:16,400
+a livello pratico.
+
+571
+00:39:16,400 --> 00:39:19,600
+Su iPad, no, no, adesso io ce l'ho, infatti, ho solo il
+
+572
+00:39:19,600 --> 00:39:20,400
+Mac con me.
+
+573
+00:39:20,400 --> 00:39:20,960
+Ce l'ho.
+
+574
+00:39:20,960 --> 00:39:24,560
+Infatti, dopo lo provo immediatamente quando parliamo di Pegis.
+
+575
+00:39:24,720 --> 00:39:27,680
+A questo punto direi che parliamo di Pegis.
+
+576
+00:39:27,680 --> 00:39:33,120
+Che stavo dando una bell'occhiata giusto per dare due righe di differenza.
+
+577
+00:39:33,120 --> 00:39:38,400
+Parlatene male fin quanto volete di Pegis, ma intanto pesa solo 294
+
+578
+00:39:38,400 --> 00:39:39,600
+megabyte.
+
+579
+00:39:39,600 --> 00:39:46,320
+Ripeto 294 in confronto a un giga e pulsa inutili di Word.
+
+580
+00:39:46,320 --> 00:39:52,320
+Ovviamente immagino che il mio parere l'avete già intravisto dalle mie parole.
+
+581
+00:39:52,320 --> 00:39:56,240
+Che uso praticamente i Pegis e tutta la suite che ci ha
+
+582
+00:39:56,240 --> 00:40:02,320
+donato, tra virgolette, Apple, perché bisogna ricordare che questa suite: Peggis, Numbers,
+
+583
+00:40:02,400 --> 00:40:07,600
+Keynote, Garage Band, tutta la compagnia cantante è del tutta gratuita per
+
+584
+00:40:07,600 --> 00:40:09,920
+chi utilizza o compra.
+
+585
+00:40:10,480 --> 00:40:18,000
+Esatto, che utilizza, chi compra, diciamo per l'altro, attenzione, ecco, piccola particolarità:
+
+586
+00:40:18,000 --> 00:40:24,640
+perché non è solo comprare, ma devi avere attivato, agganciato le applicazioni
+
+587
+00:40:24,640 --> 00:40:30,120
+al tuo account Apple ID, che è un'altra mezza fregatura, tra virgolette,
+
+588
+00:40:30,680 --> 00:40:35,240
+mezza fregatura, perché ci stavo pensando perché appunto questa cosa qua dell'Appoli
+
+589
+00:40:35,480 --> 00:40:39,080
+D può essere però utilissimo perché stavo leggendo appunto nella nota della
+
+590
+00:40:39,240 --> 00:40:43,960
+scaletta che funziona solo su Mac, ma qua su Mac iOS o
+
+591
+00:40:43,960 --> 00:40:49,240
+iPadOS, ma qua in realtà non è completamente vero perché questa
+
+592
+00:40:49,560 --> 00:40:57,080
+tipo di suite è raggiungibile anche dal proprio account iCloud.com passando dal
+
+593
+00:40:57,080 --> 00:41:01,960
+sito ufficiale iCloud.com vi trovate il vostro spazio e in realtà potres
+
+594
+00:41:01,960 --> 00:41:07,320
+aprire qualsiasi tipo almeno di computer, chiamiamolo così, perché non so se
+
+595
+00:41:07,320 --> 00:41:08,600
+è fattibile su
+
+596
+00:41:10,040 --> 00:41:14,280
+smartphone o iPad diversi, ma in ogni caso sicuramente se avete computer
+
+597
+00:41:14,280 --> 00:41:19,560
+Windows voi potete accedere tranquillamente a Peges e compagnia cantante direttamente dal
+
+598
+00:41:19,560 --> 00:41:20,360
+browser.
+
+599
+00:41:20,360 --> 00:41:24,600
+Io l'ho usato per un po' di periodo dal browser perché qualche
+
+600
+00:41:24,600 --> 00:41:29,240
+anno fa lavoravo su computer Windows e mi veniva da grattarmi tutte
+
+601
+00:41:29,240 --> 00:41:31,720
+le volte, non riuscivo a capire come far funzionare Word e mi
+
+602
+00:41:31,720 --> 00:41:33,080
+sanguinavano gli occhi.
+
+603
+00:41:33,320 --> 00:41:37,400
+Preferivo quindi a questo punto farmi i miei documenti con Pages e
+
+604
+00:41:37,400 --> 00:41:41,320
+poi esportarli in formato DOX o come cavolo si chiama
+
+605
+00:41:42,520 --> 00:41:48,920
+di Word che appunto è diventato uno standard che non è di
+
+606
+00:41:48,920 --> 00:41:54,440
+fatto uno standard perché essenzialmente uno standard dovrebbe essere completamente aperto, completamente
+
+607
+00:41:54,440 --> 00:41:57,080
+libero, ma così non è da quello che ho capito.
+
+608
+00:41:57,080 --> 00:42:02,360
+In ogni caso, tornando invece per quanto riguarda, il nostro simpatico Pages,
+
+609
+00:42:02,360 --> 00:42:07,400
+fa tutto quello che fa essenzialmente Microsoft Word, a parte alcune parti
+
+610
+00:42:07,400 --> 00:42:12,360
+che tendenzialmente il 90% di tutti noi, compreso penso anche Filippo, non
+
+611
+00:42:12,360 --> 00:42:15,600
+utilizzi di Word, per esempio, fare le macro.
+
+612
+00:42:15,600 --> 00:42:17,600
+Penso che non te ne siete nutritioni,
+
+613
+00:42:19,680 --> 00:42:21,200
+ho anche questo.
+
+614
+00:42:21,200 --> 00:42:24,880
+No, no, no, non ci sono mai entrato dentro,
+
+615
+00:42:26,160 --> 00:42:28,720
+utilizzavo perché era necessario.
+
+616
+00:42:28,720 --> 00:42:34,720
+Creare le lettere sostanzialmente con un file di Excel, con tutti i
+
+617
+00:42:34,720 --> 00:42:36,960
+nomi, gli indirizzi e così via.
+
+618
+00:42:36,960 --> 00:42:42,800
+E fare 100 lettere uguali, diciamo soltanto che dove cambia l'indirizzo.
+
+619
+00:42:43,360 --> 00:42:47,040
+Una stampa unione, stampa unione.
+
+620
+00:42:47,040 --> 00:42:51,520
+Che comunque esiste in una qualche forma anche su Peges.
+
+621
+00:42:51,520 --> 00:42:55,440
+E chiudo una parentesi, ma non ci entro minimamente dentro.
+
+622
+00:42:55,440 --> 00:43:00,560
+Ovviamente Page su Mac, soprattutto, gestisce tutti gli Apple Script, quindi è
+
+623
+00:43:00,560 --> 00:43:02,160
+automatizzabile, ovviamente.
+
+624
+00:43:02,160 --> 00:43:02,960
+Buon sapersi.
+
+625
+00:43:03,120 --> 00:43:05,680
+Neanch io sono mai entrato dentro l'Apple Script e me ne tengo
+
+626
+00:43:05,680 --> 00:43:11,360
+da lontana, perché appunto diciamo che è più programmazione quella nel senso
+
+627
+00:43:11,360 --> 00:43:14,960
+della parola, a differenza di automator che ne abbiamo parlato qualche puntata
+
+628
+00:43:14,960 --> 00:43:18,720
+fa, che è decisamente più visuale, e si riesce a seguire anche
+
+629
+00:43:18,720 --> 00:43:23,680
+dagli ignoranti come sottoscritto, quindi tendenzialmente è più facile.
+
+630
+00:43:23,680 --> 00:43:29,040
+In ogni caso, come avevo accennato precedentemente, il utilizzo per le relazioni
+
+631
+00:43:29,120 --> 00:43:35,040
+perché posso parlare al Mac e il Mac scrive liberamente, quindi scommetto
+
+632
+00:43:35,040 --> 00:43:39,760
+che potete dirmi tutto quello che volete, che siete velocissimi nella vostra
+
+633
+00:43:39,760 --> 00:43:45,200
+scrittura, ma vi garantisco che dettare è decisamente più veloce, perché in
+
+634
+00:43:45,200 --> 00:43:50,400
+giro di poco tempo vi trovate delle pagine piene di testo, avete
+
+635
+00:43:50,400 --> 00:43:54,640
+soltanto forse da formattarlo, però è un costo che si va anche
+
+636
+00:43:55,200 --> 00:43:58,880
+a pagare volentieri perché ne avete risparmiato di tempo.
+
+637
+00:43:58,880 --> 00:44:02,840
+Certo bisogna rileggerlo, perché ovviamente se non siete abituati a dettare, bisogna
+
+638
+00:43:59,920 --> 00:44:04,920
+andare a capire un po' quali sono i problemi.
+
+639
+00:44:05,000 --> 00:44:07,320
+Per esempio, so che esistono
+
+640
+00:44:08,600 --> 00:44:14,600
+delle parole chiave per farlo andare a capo, ma porca miseria non
+
+641
+00:44:14,600 --> 00:44:16,680
+me lo ricordo mai tutte le volte.
+
+642
+00:44:16,680 --> 00:44:20,280
+Deve essere qualcosa come salta paragrafo, una cosa del genere.
+
+643
+00:44:20,280 --> 00:44:23,080
+Comunque ci sono delle parole chiave che permette anche di andare a
+
+644
+00:44:23,080 --> 00:44:23,400
+capo.
+
+645
+00:44:26,120 --> 00:44:30,280
+Nuovo paragrafo, prima o poi lo imparerò, me lo memorizzerò tutte le
+
+646
+00:44:30,280 --> 00:44:31,240
+volte devo smancare.
+
+647
+00:44:31,400 --> 00:44:35,720
+Su Make OS c'è l'assistente che è molto comodo perché ti dice
+
+648
+00:44:35,720 --> 00:44:37,080
+tutte le parole che devi dire.
+
+649
+00:44:37,160 --> 00:44:38,760
+I comandi, chiamiamolo così.
+
+650
+00:44:38,760 --> 00:44:40,840
+Tuttavano entriamo nel discorso.
+
+651
+00:44:40,840 --> 00:44:45,640
+Su iOS invece non è così automatico, ma di fatto, da quel
+
+652
+00:44:45,640 --> 00:44:49,640
+che mi ricordo, io, i comandi ci sono e probabilmente c'è anche
+
+653
+00:44:49,640 --> 00:44:51,160
+una pagina di supporto Apple.
+
+654
+00:44:51,160 --> 00:44:56,120
+Adesso vada a memoria, probabilmente sì, ma come sapete io sono abbastanza
+
+655
+00:44:56,120 --> 00:44:57,000
+pigro.
+
+656
+00:44:57,320 --> 00:45:00,520
+Conseguentemente mi piace sperimentare per conto mio.
+
+657
+00:45:00,520 --> 00:45:02,200
+Tuttavia, vabbè, userò la guida.
+
+658
+00:45:02,200 --> 00:45:03,080
+Grazie Filippo.
+
+659
+00:45:03,080 --> 00:45:04,440
+Adesso me la vado a cercare.
+
+660
+00:45:04,440 --> 00:45:10,040
+Ecco una piccola parentesi: anche World, anche per Mac e per iOS,
+
+661
+00:45:10,280 --> 00:45:15,000
+ha implementato la funzione di dettatura diciamo del testo.
+
+662
+00:45:15,320 --> 00:45:22,200
+Credo poi utilizzi sostanzialmente l'intelligenza artificiale, tutto il resto, di Cortana e
+
+663
+00:45:22,200 --> 00:45:22,920
+cose simili.
+
+664
+00:45:23,080 --> 00:45:30,680
+Quindi riconoscimento vocale, diciamo, stessa cosa vale per Apple, la cosa carina
+
+665
+00:45:30,680 --> 00:45:37,720
+su Mac è che addirittura potete utilizzare, esatto, non va sulla macchina
+
+666
+00:45:37,680 --> 00:45:46,000
+in automatico, diciamo, ma se vi scaricate, secondo me, 500-600 megabyte di
+
+667
+00:45:44,520 --> 00:45:47,920
+roba e dovete farlo.
+
+668
+00:45:48,400 --> 00:45:52,560
+Volutamente, cioè fisicamente dovete andare nell'impostazione apposta e dirglielo.
+
+669
+00:45:52,560 --> 00:45:54,880
+A quel punto lì funziona anche
+
+670
+00:45:56,480 --> 00:46:01,360
+senza collegamento internet per la dettatura vocale iPhone, da quello che ne
+
+671
+00:46:01,360 --> 00:46:04,800
+so io, invece non è possibile, è una delle grosse limitazioni.
+
+672
+00:46:04,800 --> 00:46:07,520
+Che lo sappia che no, deve avere un collegamento.
+
+673
+00:46:07,520 --> 00:46:12,080
+Però ho notato che secondo me su iOS non si appoggia a
+
+674
+00:46:12,080 --> 00:46:15,520
+Siri direttamente, ha proprio una dettatura interna.
+
+675
+00:46:15,520 --> 00:46:20,240
+Perché ho notato che, soprattutto nella zona in cui abito o cui
+
+676
+00:46:20,240 --> 00:46:24,720
+faccio la strada e poco coperta, la dettat comunque funziona allo stesso
+
+677
+00:46:24,720 --> 00:46:27,040
+con una copertura molto bassa del segnale.
+
+678
+00:46:27,040 --> 00:46:30,800
+Quindi ipotizzo che non si vada proprio a collegare a Siri per
+
+679
+00:46:30,800 --> 00:46:36,480
+la detatura, ma forse a un meccanismo interno che si associa all'hardware
+
+680
+00:46:36,480 --> 00:46:38,240
+del dispositivo che state utilizzando.
+
+681
+00:46:38,320 --> 00:46:42,720
+Ancora tutto da sperimentare, come sapete né io né Filippo, o perlomeno.
+
+682
+00:46:42,720 --> 00:46:45,840
+Io sicuramente non sono in grado di aprire un iPhone e guardare
+
+683
+00:46:45,840 --> 00:46:53,040
+dentro come funziona e capire quali siano i dettagli hardware che possono
+
+684
+00:46:53,040 --> 00:46:55,040
+far funzionare un software di questo tipo.
+
+685
+00:46:55,040 --> 00:46:58,400
+Però in ogni caso c'è qualcuno che si è anche lanciato a
+
+686
+00:46:58,400 --> 00:47:01,600
+capire queste cose, io me sono tenuto fuori, penso Filippo.
+
+687
+00:47:03,280 --> 00:47:07,280
+Io non sono un utilizzatore della dettatura, proprio, devo dire la verità.
+
+688
+00:47:07,600 --> 00:47:13,120
+Io lo uso costantemente perché mi viene comodo, nel senso che spesso
+
+689
+00:47:13,600 --> 00:47:18,240
+anche invece di fare i messaggi vocali, mi viene molto più comodo
+
+690
+00:47:18,240 --> 00:47:20,160
+fare un messaggio di testo dettato.
+
+691
+00:47:20,640 --> 00:47:25,360
+Apriamo chiudiamo una parentesi: il vocale non si fa al massimo.
+
+692
+00:47:25,520 --> 00:47:29,000
+Dettate un messaggio a Siri.
+
+693
+00:47:29,000 --> 00:47:34,120
+O quel che è, sono d'accordo, oppure ci sono anche adesso.
+
+694
+00:47:34,360 --> 00:47:40,200
+Ci si lancia anche sui video videopalla infiniti, che è capitato.
+
+695
+00:47:40,360 --> 00:47:44,200
+Nel senso, quelli degli amici si guardano volentieri, ma ci sono alcuni
+
+696
+00:47:44,200 --> 00:47:44,920
+videopalla.
+
+697
+00:47:45,080 --> 00:47:47,480
+No, allora i videopalla non si riesce.
+
+698
+00:47:47,640 --> 00:47:52,600
+I videopalla di Telegram sono a un minuto si bloccano un minuto
+
+699
+00:47:52,840 --> 00:47:54,760
+per carità un minuto, ma te ne trovi sette?
+
+700
+00:47:55,400 --> 00:47:57,240
+Ah, no, no, vabbè, quello.
+
+701
+00:47:57,240 --> 00:48:01,960
+Ma io tanto sono dalla teoria che mandatemi tutti i video e
+
+702
+00:48:01,960 --> 00:48:07,320
+audiomessaggio che volete, non li ascolto, ok, tagli direttamente.
+
+703
+00:48:07,320 --> 00:48:10,280
+No, la cosa interessante è che c'è la funzione due per quindi
+
+704
+00:48:10,600 --> 00:48:12,040
+si saluto molto.
+
+705
+00:48:12,040 --> 00:48:13,400
+È vero, è vero, è vero.
+
+706
+00:48:13,400 --> 00:48:19,000
+Nel caso di Alex, devo dire la verità, ogni tanto faccio un'eccezione.
+
+707
+00:48:19,000 --> 00:48:19,480
+No, ma
+
+708
+00:48:21,000 --> 00:48:26,360
+x ci sta per carità, perché possono anche essere interessanti, ma ti dico
+
+709
+00:48:26,360 --> 00:48:29,720
+che alcuni clienti mi mandano dei video parla che veramente mi vedi
+
+710
+00:48:29,720 --> 00:48:31,400
+capotato sulla sedia.
+
+711
+00:48:31,400 --> 00:48:32,680
+Ti dico solo questo.
+
+712
+00:48:33,320 --> 00:48:35,960
+Ah, no, anche lì, approccio diverso.
+
+713
+00:48:35,960 --> 00:48:39,400
+I miei clienti non hanno il cellulare, quindi apposto così, niente
+
+714
+00:48:41,640 --> 00:48:43,400
+, io vivo col cellulare.
+
+715
+00:48:43,400 --> 00:48:49,640
+Comunque, adesso chiudiamo la parentesi delle cose personali, ricordiamo di Pegis che
+
+716
+00:48:49,640 --> 00:48:51,560
+stiamo sforando come il nostro solito.
+
+717
+00:48:51,960 --> 00:48:55,800
+Adesso andiamo a chiudere su LibreOffice e il resto.
+
+718
+00:48:55,800 --> 00:49:02,040
+Due parole ancora su Pegis, che permette la collaborazione tra persone sullo
+
+719
+00:49:02,040 --> 00:49:03,480
+stesso documento.
+
+720
+00:49:03,480 --> 00:49:06,040
+Io l'ho provato, ha funzionato abbastanza bene.
+
+721
+00:49:06,040 --> 00:49:08,840
+Filippo l'ha definito non super fantastico.
+
+722
+00:49:09,320 --> 00:49:14,000
+Diciamo che la collaborazione per due o tre persone va.
+
+723
+00:49:14,320 --> 00:49:19,280
+Se si vuole utilizzare qualcosa di maggiore, chiamiamolo così.
+
+724
+00:49:19,280 --> 00:49:21,280
+Allora è qui iniziare.
+
+725
+00:49:21,520 --> 00:49:23,200
+L'ho usato per piccoli gruppi.
+
+726
+00:49:23,680 --> 00:49:27,360
+Altra cosa interessante è che, giustamente, visto che siamo in casa Apple,
+
+727
+00:49:27,360 --> 00:49:31,120
+non possiamo non parlare di Apple Pencil che permette di aggiungere delle
+
+728
+00:49:31,120 --> 00:49:35,600
+note smart al vostro documento, ovvero la possibilità di creare delle note
+
+729
+00:49:35,600 --> 00:49:39,040
+grafiche sulle parole che seguono il testo digitato.
+
+730
+00:49:39,040 --> 00:49:42,800
+È utile per la correzione di un documento interamente in digitale, molto
+
+731
+00:49:42,960 --> 00:49:43,680
+utile.
+
+732
+00:49:43,680 --> 00:49:48,240
+Davvero, questa Apple Pencil, apro una piccola parentesi, ma questa volta sono
+
+733
+00:49:48,400 --> 00:49:49,440
+due parole.
+
+734
+00:49:49,440 --> 00:49:53,840
+Continuo a dire che è una grandissima invenzione più che altro implementazione
+
+735
+00:49:53,840 --> 00:49:57,600
+sotto tutti i punti di vista del sistema su cui si va
+
+736
+00:49:57,600 --> 00:50:00,080
+a appoggiare tendenzialmente iPadOS.
+
+737
+00:50:00,080 --> 00:50:04,000
+Chiudo questo, la parentesi, usatela e mi ringrazierete.
+
+738
+00:50:04,000 --> 00:50:07,520
+Lascio la parola invece al mio amico Filippo per LibOffice.
+
+739
+00:50:07,840 --> 00:50:12,560
+Due parole, anche perché appunto bene o male tutte queste suite si
+
+740
+00:50:12,560 --> 00:50:13,920
+equivalgono.
+
+741
+00:50:13,920 --> 00:50:18,960
+Diciamo che office è bene o male a pagamento, salvo poi i
+
+742
+00:50:18,960 --> 00:50:24,960
+soliti discorsi, sconti, avere, per esempio, come sottoscritto da 5 euro
+
+743
+00:50:26,160 --> 00:50:27,680
+anche quelle lì, sì, esatto.
+
+744
+00:50:27,680 --> 00:50:32,080
+Oppure essere iscritti all'università e quindi poter usufruire come studente e così
+
+745
+00:50:32,080 --> 00:50:32,560
+via.
+
+746
+00:50:32,560 --> 00:50:36,640
+Pages è, tra virgolette, gratis se avete dato a mamma Apple il
+
+747
+00:50:36,640 --> 00:50:44,080
+vostro portafoglio, e infine abbiamo LibreOffice che è la versione open source
+
+748
+00:50:44,720 --> 00:50:50,320
+bene o male della suite Office che abbiamo visto fino adesso.
+
+749
+00:50:50,320 --> 00:50:53,440
+Ovviamente vi parlo di LibreOffice perché
+
+750
+00:50:54,960 --> 00:51:01,800
+all'epoca, cioè 10-15 anni fa, esisteva Open Office, ma c'è stata tutta
+
+751
+00:50:59,760 --> 00:51:06,040
+una serie di atribe, tra gli sviluppatori.
+
+752
+00:51:06,280 --> 00:51:11,640
+Per cui attualmente il software che viene sviluppato dopo una serie di
+
+753
+00:51:12,120 --> 00:51:18,520
+discussioni, diciamo, di gestioni differenti di questi software, perché Open Office, o
+
+754
+00:51:18,520 --> 00:51:25,640
+meglio, il sistema operativo, la suite, diciamo su cui si basava Open
+
+755
+00:51:25,640 --> 00:51:30,600
+Office era credo da Sam Microsystem, che ha fatto dei vari passaggi
+
+756
+00:51:30,680 --> 00:51:31,240
+ovviamente
+
+757
+00:51:32,680 --> 00:51:36,040
+di licenza e così via nelle varie acquisizioni.
+
+758
+00:51:36,040 --> 00:51:39,400
+Insomma, c'è stata un po' di confusione e il mondo open source
+
+759
+00:51:39,400 --> 00:51:41,320
+si è incacchiato sostanzialmente.
+
+760
+00:51:44,600 --> 00:51:47,000
+LibreOffice, però adesso è quello più sviluppato.
+
+761
+00:51:47,000 --> 00:51:51,720
+Quindi non ha senso andare su Open Office che è dietro anni
+
+762
+00:51:51,720 --> 00:51:53,080
+a questo punto, probabilmente
+
+763
+00:51:54,440 --> 00:51:58,440
+, sta morendo perché ovviamente se non viene sviluppato.
+
+764
+00:51:58,840 --> 00:52:04,040
+Invece, LibreOffice comunque viene sviluppato, è multipiattaforma.
+
+765
+00:52:04,040 --> 00:52:06,120
+Quindi Windows, Mac, Linux.
+
+766
+00:52:06,120 --> 00:52:10,520
+Ovviamente riuscite, non l'abbiamo detto chiare tondo, ma ovviamente tutti questi programmi
+
+767
+00:52:10,520 --> 00:52:14,600
+riescono bene o male ad aprire file DOC e DOCX.
+
+768
+00:52:14,600 --> 00:52:17,240
+Ognuno ha il suo formato proprietario.
+
+769
+00:52:17,240 --> 00:52:22,840
+Quindi Pages e Pages, appunto, LibreOffice è un formato aperto O di
+
+770
+00:52:22,840 --> 00:52:23,240
+T.
+
+771
+00:52:23,400 --> 00:52:25,160
+Bene o male, tutti li aprono.
+
+772
+00:52:25,160 --> 00:52:31,160
+I file Word sostanzialmente, non sempre la formatazione è corretta.
+
+773
+00:52:31,240 --> 00:52:33,480
+Ci sono degli svarioni delle volte.
+
+774
+00:52:33,480 --> 00:52:37,320
+Questo è grazie a Mamma Microsoft perché non c'è niente da fare.
+
+775
+00:52:37,320 --> 00:52:42,440
+Teoricamente, il DocX dovrebbe essere aperto, uno standard aperto.
+
+776
+00:52:42,440 --> 00:52:46,960
+Ci ho detto, non è esattamente così, almeno dalla mia poca esperienza,
+
+777
+00:52:46,960 --> 00:52:51,840
+perché poi devo dire la verità: io non utilizzo praticamente questo formato,
+
+778
+00:52:51,840 --> 00:52:54,480
+quindi mi interessa fino a mezzogiorno.
+
+779
+00:52:54,560 --> 00:53:00,960
+Però, spesso e volentieri, se scarico dei file DOC dalle pubbliche amministrazioni,
+
+780
+00:53:00,960 --> 00:53:03,840
+che peraltro dovrebbero un PDF, ma questo è un altro discorso.
+
+781
+00:53:03,840 --> 00:53:11,840
+Ancora, lasciamo perdere: l'impinazione viene fuori quando li apro su Apple, viene
+
+782
+00:53:11,840 --> 00:53:16,160
+fuori in maniera imbarazzante, ma alla fine, poco importa.
+
+783
+00:53:16,800 --> 00:53:24,000
+La cosa che voglio specificare, diciamo di più è quella che una
+
+784
+00:53:24,000 --> 00:53:29,120
+delle grosse mancanze, diciamo, di LibreOffice è che su iOS e iPadOS
+
+785
+00:53:30,160 --> 00:53:32,880
+di fatto non c'era nulla di concreto.
+
+786
+00:53:32,880 --> 00:53:37,280
+Ecco, recentemente poi da ormai due o tre anni, credo.
+
+787
+00:53:37,280 --> 00:53:44,640
+C'è Collabora Office, che è una versione, un fork di LibreOffice per
+
+788
+00:53:44,640 --> 00:53:49,120
+piattaforma mobile, credo scritto in JavaScript, credo questo ve lo vendo come
+
+789
+00:53:49,120 --> 00:53:53,840
+con dei dubitativi, che è la versione mobile e diciamo per il
+
+790
+00:53:53,840 --> 00:53:59,680
+web di LibreOffice, che attualmente non è ancora stata come LibreOffice sviluppato
+
+791
+00:54:00,000 --> 00:54:01,280
+approfonditamente.
+
+792
+00:54:01,280 --> 00:54:05,520
+Tuttavia, se andate e scaricate, è gratuita, quindi se volete aprire file
+
+793
+00:54:05,520 --> 00:54:11,040
+ODT anche su iOS e iPadOS, ovviamente con Collabora Office è
+
+794
+00:54:11,040 --> 00:54:13,840
+l'applicazione che fa per voi, chiamiamola così.
+
+795
+00:54:13,840 --> 00:54:18,720
+Pochi la conoscono perché non è molto conosciuta, ma è comoda per
+
+796
+00:54:18,720 --> 00:54:20,120
+avercelo come arsenale.
+
+797
+00:54:20,120 --> 00:54:23,840
+E se non per mille motivi è difficile, perché se avete iPado
+
+798
+00:54:24,240 --> 00:54:28,400
+a meno o mani, in qualche maniera avete comprato un iPhone o
+
+799
+00:54:28,560 --> 00:54:30,280
+un tablet di Apple.
+
+800
+00:54:30,440 --> 00:54:34,840
+Comunque, se aveste necessità, per esempio, di aprire un ODT perché ogni
+
+801
+00:54:34,840 --> 00:54:39,320
+tanto invece si vedono anche questi file, su iOS, lo potete fare
+
+802
+00:54:39,320 --> 00:54:42,360
+con questa applicazione che è Collabora Office.
+
+803
+00:54:42,840 --> 00:54:48,040
+Ovviamente la parte online esiste anche per queste applicazioni.
+
+804
+00:54:48,040 --> 00:54:53,640
+Noi ce l'abbiamo perché avendo un'istanza di Next Cloud, ho anche installato
+
+805
+00:54:53,720 --> 00:54:56,360
+Collabora Office su Next Cloud.
+
+806
+00:54:56,360 --> 00:54:56,680
+Quindi
+
+807
+00:54:58,440 --> 00:55:03,880
+è un pezzo aggiuntivo, chiamiamolo così, ma vi permette di aprire anche
+
+808
+00:55:04,440 --> 00:55:09,160
+in un browser web sostanzialmente un file ODT o un file doc
+
+809
+00:55:09,400 --> 00:55:13,240
+e così via, utilizzando appunto un software open source e così via.
+
+810
+00:55:13,240 --> 00:55:17,880
+Quindi, se siete più della parte dell'open, se volete appunto avere la
+
+811
+00:55:17,880 --> 00:55:22,440
+possibilità di mettere mano ai programmi e così via, ecco, questo è
+
+812
+00:55:22,440 --> 00:55:24,680
+il lato open source della vicenda.
+
+813
+00:55:24,760 --> 00:55:29,000
+Poi a questo punto chiudiamo a Roberto se va bene la palla,
+
+814
+00:55:29,000 --> 00:55:30,200
+ma velocemente, tanto
+
+815
+00:55:32,040 --> 00:55:35,000
+non è che c'è molto da dire su questo sistema.
+
+816
+00:55:35,240 --> 00:55:38,680
+Che è nuovo, però vero concorrente che ha sbaragliato tutti per certe
+
+817
+00:55:38,760 --> 00:55:39,000
+cose.
+
+818
+00:55:39,000 --> 00:55:43,960
+Ma pare di sì, questo Google Docs che io per fortuna non
+
+819
+00:55:43,960 --> 00:55:47,800
+lavoro, ma più che altro dico per fortuna perché molti non si
+
+820
+00:55:47,800 --> 00:55:52,600
+rendono conto che è gratuito, sì, ma come si dice col sedere
+
+821
+00:55:52,600 --> 00:55:53,400
+degli altri.
+
+822
+00:55:53,400 --> 00:55:58,280
+Nel senso che parliamo di Google, sappiamo benissimo che fa gocita dati
+
+823
+00:55:58,280 --> 00:56:01,800
+e li rivende a chi che sia per riuscire a mantenersi.
+
+824
+00:56:01,960 --> 00:56:07,800
+Quindi, conseguentemente, vedo un po' dubbioso dal mio punto di vista utilizzare
+
+825
+00:56:07,800 --> 00:56:13,000
+questo tipo di suite per documenti sensibili che possono anche essere una
+
+826
+00:56:13,000 --> 00:56:16,720
+semplice relazione, perché ricorda che sulla relazione devo mettere di chi parlo
+
+827
+00:56:14,920 --> 00:56:17,840
+chi sono i proprietari.
+
+828
+00:56:18,000 --> 00:56:22,800
+Conseguentemente ci sono dei dati sensibili e io di farli girare su
+
+829
+00:56:22,800 --> 00:56:24,800
+Google proprio non mi piace per niente.
+
+830
+00:56:24,800 --> 00:56:28,000
+Penso che Filippo sia della stessa opinione.
+
+831
+00:56:28,000 --> 00:56:29,200
+Ma ci sono molti.
+
+832
+00:56:29,360 --> 00:56:34,000
+Noi stiamo lavorando su un server Next Cloud per un motivo direi.
+
+833
+00:56:34,560 --> 00:56:36,720
+Sì, infatti esattamente.
+
+834
+00:56:37,040 --> 00:56:40,000
+Ma detto questo, ce ne sono molti che se ne fregano.
+
+835
+00:56:40,000 --> 00:56:42,880
+Beati loro e spero che non abbiano mai problemi.
+
+836
+00:56:42,880 --> 00:56:45,120
+Ma nel momento in cui avranno dei problemi, io sarò il primo
+
+837
+00:56:45,120 --> 00:56:50,160
+a ridere soprattutto per quanto riguarda quando arriverà come nascure l'attuazione della
+
+838
+00:56:50,160 --> 00:56:56,400
+Shremst 2, come parla Data Neither, quando arriverà questo simpatico taglio cesareo
+
+839
+00:56:56,400 --> 00:57:01,360
+con i server americani rimarrà tutti in Europa, sempre che succederà.
+
+840
+00:57:01,360 --> 00:57:05,280
+E se succederà ci saranno delle ripercussioni anche per Google Docs, ve
+
+841
+00:57:05,280 --> 00:57:06,560
+lo garantisco.
+
+842
+00:57:06,560 --> 00:57:10,640
+Detto questo, per mettere la collaborazione che è un aspetto fondamentale sotto
+
+843
+00:57:10,640 --> 00:57:14,720
+questo punto di vista, perché su questo è vincente Google perché grazie
+
+844
+00:57:14,720 --> 00:57:19,120
+anche a tutto il sottoinsieme di server che ha alle spalle può
+
+845
+00:57:19,120 --> 00:57:23,200
+permettersi anche di mettere 50 persone a lavorare su un documento che
+
+846
+00:57:23,200 --> 00:57:28,000
+riesce a gestire tutto quanto, ma anche perché gestisce decisamente più dati.
+
+847
+00:57:28,000 --> 00:57:32,400
+Tendenzialmente si accede dal cloud e essenzialmente cosa c'è da dire?
+
+848
+00:57:32,400 --> 00:57:38,720
+Funziona, lasciate tutto sul vostro sulla vostra spazio cloud, lo lasciate lì,
+
+849
+00:57:38,720 --> 00:57:42,400
+poi si può accedere da altre persone, fare il suo sporco lavoro.
+
+850
+00:57:42,400 --> 00:57:46,560
+Immagino che anche loro di Google abbiano dei problemi importare la formatazione
+
+851
+00:57:46,560 --> 00:57:50,640
+di Words nel caso in cui si importi, questa è una mia
+
+852
+00:57:50,640 --> 00:57:54,880
+domanda, ma penso che sarà così conoscendo i nostri amici di Microsoft.
+
+853
+00:57:54,880 --> 00:57:58,880
+La cosa carina è che adesso, secondo me, c'è il problema inverso,
+
+854
+00:57:58,880 --> 00:58:06,200
+cioè, siccome effettivamente nel mondo di collaborazione, tantissimi usano Google Docs e
+
+855
+00:57:59,920 --> 00:58:06,760
+in particolare,
+
+856
+00:58:06,840 --> 00:58:11,240
+anche qui Google, cosa ha fatto, ha cooptato le scuole.
+
+857
+00:58:11,240 --> 00:58:13,080
+Quindi tantissime scuole
+
+858
+00:58:14,200 --> 00:58:21,720
+hanno lavorano su Google e ovviamente gli studenti scrivono dei documenti su
+
+859
+00:58:21,720 --> 00:58:26,840
+Google Drive e quindi con Google Docs o documenti Google, perché questa
+
+860
+00:58:26,840 --> 00:58:28,200
+è la traduzione in italiano.
+
+861
+00:58:28,200 --> 00:58:33,240
+Ho scoperto da Wikipedia, e effettivamente, anche qui c'è gente che ha
+
+862
+00:58:33,240 --> 00:58:39,960
+imparato dalla terza alimentare a usare questi strumenti e anche qui, ovviamente,
+
+863
+00:58:40,200 --> 00:58:47,880
+soprattutto nell'ambito del lavoro con la G Suite, Workspace, Google Workspace, perché
+
+864
+00:58:47,960 --> 00:58:51,240
+qui ormai cambiano i nomi, Google ha la bellezza di cambiare ogni
+
+865
+00:58:51,240 --> 00:58:52,760
+tre per due nomi.
+
+866
+00:58:54,120 --> 00:58:54,920
+Il cimitero
+
+867
+00:58:57,400 --> 00:59:01,800
+è sicuramente verrò anche che io ho visto modificare in diretta e
+
+868
+00:59:01,800 --> 00:59:06,600
+tu addirittura vedi dove sono le persone mentre stanno modificando, veramente con
+
+869
+00:59:06,600 --> 00:59:07,800
+centinaia di persone.
+
+870
+00:59:07,800 --> 00:59:13,240
+Quindi, adesso prescendo dalla sensatezza di una roba del genere, però lavorare
+
+871
+00:59:13,240 --> 00:59:19,320
+in gruppo sicuramente può diventare molto interessante e molto utile.
+
+872
+00:59:19,320 --> 00:59:24,120
+Quindi, il punto di forza di Google è questo, e di fatto
+
+873
+00:59:24,200 --> 00:59:27,000
+poi appunto le funzioni sono più o meno simili.
+
+874
+00:59:27,000 --> 00:59:32,520
+Anche qui se si vuole andare verso la possibilità di scriptare, tra
+
+875
+00:59:32,520 --> 00:59:35,080
+virgolette, cioè di automatizzare alcune cose.
+
+876
+00:59:35,080 --> 00:59:39,000
+Anche qui Google vi permette di fare veramente tante cose, addirittura con
+
+877
+00:59:39,000 --> 00:59:40,120
+i servizi online.
+
+878
+00:59:40,120 --> 00:59:46,160
+Quindi moltissimi servizi online ormai si interfacciano con è più facile con
+
+879
+00:59:46,320 --> 00:59:48,880
+lo spreadsheet di Google.
+
+880
+00:59:48,880 --> 00:59:50,080
+però anche il doc
+
+881
+00:59:51,680 --> 00:59:52,880
+può essere gestito.
+
+882
+00:59:52,880 --> 00:59:56,560
+Quindi è molto interessante da questo punto di vista, secondo me.
+
+883
+00:59:56,560 --> 01:00:00,880
+Poi con tutti i semi del caso della gestione Google.
+
+884
+01:00:02,320 --> 01:00:06,320
+Aggiungo solo un paio di cose che stiamo leggendo qui su Wikipedia,
+
+885
+01:00:06,320 --> 01:00:11,200
+giusto per farmi un'informazione su questa simpatica suite che originalmente sfruttava la
+
+886
+01:00:11,200 --> 01:00:19,200
+tecnologia Microsoft ASP.net, che utilizzava quindi Microsoft Windows dal 2006 praticamente hanno
+
+887
+01:00:19,200 --> 01:00:21,760
+tagliato i ponti e hanno detto, ok, ragazzi, andiamo tutti su Linux
+
+888
+01:00:21,920 --> 01:00:22,720
+giusto per farvi capire che
+
+889
+01:00:23,840 --> 01:00:25,760
+non costa, è quello il vero vantaggio.
+
+890
+01:00:26,080 --> 01:00:31,840
+Non costa, ma soprattutto quanto Microsoft incomincia a avere il dente avvelenato
+
+891
+01:00:31,840 --> 01:00:34,480
+verso i nostri simpatici amici di Google.
+
+892
+01:00:34,480 --> 01:00:38,160
+Detto questo, direi che l'unica cosa che vi posso consigliare è di
+
+893
+01:00:38,160 --> 01:00:42,400
+andarvi a fare un simpatico giro su G Suite.
+
+894
+01:00:42,400 --> 01:00:46,480
+Sperare di non superare il milione e 24.000 caratteri.
+
+895
+01:00:46,480 --> 01:00:47,520
+Perché, se no, documento.
+
+896
+01:00:47,680 --> 01:00:53,120
+L'ho letto anche io, l'ho letto anche quella, era meraviglioso, meraviglioso.
+
+897
+01:00:53,120 --> 01:00:56,720
+E poi ci sono tutta un'altra serie di problemi che vi lascio
+
+898
+01:00:56,720 --> 01:01:03,680
+intuire, che sono abbastanza resibili come 256 colonne per foglio per i
+
+899
+01:01:03,680 --> 01:01:04,960
+fogli elettronici.
+
+900
+01:01:04,960 --> 01:01:10,560
+Ma io concludo qua su quanto riguarda, diciamo i vari problemi che
+
+901
+01:01:10,560 --> 01:01:14,880
+ci possono essere dietro alla G Suite, vi lascio, però vi esorto,
+
+902
+01:01:14,880 --> 01:01:19,440
+anzi, perché questa qui è la nostra missione di A2, vi esorto
+
+903
+01:01:19,440 --> 01:01:23,520
+di andare a fare un giro e provarlo per vedere come funziona
+
+904
+01:01:23,520 --> 01:01:25,520
+e se fa il caso vostro.
+
+905
+01:01:26,320 --> 01:01:29,360
+A noi non possiamo utilizzarlo per le cose di lavoro.
+
+906
+01:01:29,360 --> 01:01:34,040
+Per il resto magari lo utilizziamo anche, ma sperimentate, fate, disfate e
+
+907
+01:01:29,920 --> 01:01:35,720
+soprattutto ci dite qualcosa.
+
+908
+01:01:35,880 --> 01:01:37,960
+Come sempre sapete dove trovarci.
+
+909
+01:01:37,960 --> 01:01:40,280
+Beh, direi che a questo punto abbiamo concluso.
+
+910
+01:01:40,280 --> 01:01:44,680
+Siamo stati anche bravini, direi perché probabilmente con dei tagli dovremmo stare
+
+911
+01:01:44,680 --> 01:01:45,720
+sotto l'ora.
+
+912
+01:01:45,720 --> 01:01:46,200
+Per cui
+
+913
+01:01:47,480 --> 01:01:53,080
+chiudo io velocemente: trovate le note dell'episodio, come al solito con tutti
+
+914
+01:01:53,080 --> 01:01:58,600
+i link e gli argomenti di cui abbiamo parlato in questa puntata,
+
+915
+01:01:58,600 --> 01:02:01,720
+con anche i nostri riferimenti su adduepodc.
+
+916
+01:02:02,440 --> 01:02:06,680
+15 che il numero della puntata, dove ci potete trovare Roberto.
+
+917
+01:02:06,680 --> 01:02:14,280
+Lo trovate a Mac Architettura o Mac Dotnet WordPress.com sul podcast settimanale
+
+918
+01:02:14,520 --> 01:02:19,880
+Snap Architettura Imperfetta color grigio ciliegia, se non mi ricordo, sbagliato
+
+919
+01:02:21,080 --> 01:02:21,240
+.
+
+920
+01:02:21,240 --> 01:02:24,280
+E invece, sottoscritto lo trovate.
+
+921
+01:02:24,600 --> 01:02:28,520
+Spero che anche di riniziare a scrivere, perché effettivamente mi sono reso
+
+922
+01:02:28,520 --> 01:02:32,040
+conto che per tutta una serie di motivi e da un po'
+
+923
+01:02:32,040 --> 01:02:37,240
+che non scrivo su avvocatimac.it e poi il podcast che è decisamente
+
+924
+01:02:37,400 --> 01:02:41,880
+saltuario a questo punto, ma se no, appunto sul nostro due.
+
+925
+01:02:42,120 --> 01:02:44,600
+A questo punto ci sentiamo tra due settimane.
+
+926
+01:02:44,600 --> 01:02:48,360
+Perché lo ricordo, siamo passati a cadenza bisettimanale.
+
+927
+01:02:48,360 --> 01:02:57,560
+Quindi gli episodi del podcast vengono pubblicati bisettimanalmente assieme alle registrazioni su
+
+928
+01:02:57,560 --> 01:02:57,960
+YouTube.
+
+929
+01:02:57,960 --> 01:03:04,280
+Cioè, se avete ascoltato come Nicola grande Nicola in diretta questa sera,
+
+930
+01:03:04,280 --> 01:03:09,640
+che nel caso specifico era il sabato, perché avevamo avuto degli altri.
+
+931
+01:03:09,640 --> 01:03:14,040
+Bene, altrimenti, le dirette anche su YouTube, le vedete, anzi, le potete
+
+932
+01:03:14,040 --> 01:03:14,920
+ascoltare, dire la verità
+
+933
+01:03:14,920 --> 01:03:18,320
+quando esce la puntata del podcast.
+
+934
+01:03:18,560 --> 01:03:24,880
+In estrema sintesi, ovviamente, con la diretta non editata, quindi con i
+
+935
+01:03:24,880 --> 01:03:29,680
+pro e i contro della vicenda, soprattutto,
+
+936
+01:03:30,960 --> 01:03:32,000
+benissimo, ragazzi.
+
+937
+01:03:32,480 --> 01:03:33,120
+Ci sentiamo
+
+938
+01:03:34,320 --> 01:03:36,480
+alla prossima puntata, perfetto.

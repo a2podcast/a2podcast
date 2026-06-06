@@ -11,7 +11,7 @@ tags = ["automazione", "macos", "produttivita", "apple"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "Ad5CPa8KFUA"
 +++
 

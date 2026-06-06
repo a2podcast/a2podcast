@@ -1,0 +1,3687 @@
+1
+00:00:00,080 --> 00:00:05,520
+Benvenuti all'episodio 56 di A2, in cui scoprire come ottenere il massimo
+
+2
+00:00:05,520 --> 00:00:07,280
+dalla vostra tecnologia Apple.
+
+3
+00:00:07,280 --> 00:00:11,440
+Io sono Filippo Strozzi e sono il vostro ospite assieme all'amico Roberto
+
+4
+00:00:11,440 --> 00:00:12,000
+Marin.
+
+5
+00:00:12,000 --> 00:00:15,200
+Di che cosa parliamo in questo episodio, caro Roberto?
+
+6
+00:00:15,200 --> 00:00:18,800
+Probabilmente quello che sto cercando io è un rimedio al mio raffreddore,
+
+7
+00:00:18,800 --> 00:00:20,960
+ma non lo troveremo in questo episodio.
+
+8
+00:00:20,960 --> 00:00:24,960
+In questo episodio, invece, parleremo di una specifica applicazione che si chiama
+
+9
+00:00:24,960 --> 00:00:28,400
+Hazel, che ti permette di fare un sacco di cose con le
+
+10
+00:00:28,400 --> 00:00:32,240
+tue cartelle che hai sull'hard disk sperando che non le faccia sparire
+
+11
+00:00:32,320 --> 00:00:34,480
+prima di tutto, che è la cosa più interessante.
+
+12
+00:00:34,480 --> 00:00:38,240
+Ma quello che permette di fare in modo molto molto interessante è
+
+13
+00:00:38,480 --> 00:00:43,840
+organizzare in modo automatico la gestione delle cartelle nel tuo Mac.
+
+14
+00:00:43,840 --> 00:00:46,720
+Ma prima di iniziare, una bella sigla.
+
+15
+00:00:48,000 --> 00:00:49,680
+A2 Podcast.
+
+16
+00:00:49,680 --> 00:00:54,640
+Scopri come ottenere il massimo dalla tua tecnologia Apple, due professionisti, Filippo
+
+17
+00:00:54,800 --> 00:00:58,880
+e Roberto, te lo spiegano con argomenti monotematici ed ospiti che raccontano
+
+18
+00:00:58,880 --> 00:01:00,720
+il loro flusso di lavoro.
+
+19
+00:01:05,120 --> 00:01:08,800
+Ed eccoci qua con la puntata dedicata ad Ezel.
+
+20
+00:01:08,800 --> 00:01:13,760
+Un'applicazione che ovviamente io non utilizzo perché faccio ancora tutto a manina.
+
+21
+00:01:13,760 --> 00:01:17,200
+Ma il nostro buon Filippo se ne sta facendo una bella zuppa,
+
+22
+00:01:17,200 --> 00:01:20,720
+come si dice da questa parte, quando soprattutto non ha raffreddato sia
+
+23
+00:01:20,720 --> 00:01:22,080
+una zuppa di raffreddore.
+
+24
+00:01:22,080 --> 00:01:26,240
+Ezel intanto parte subito con una bellissima iconcina che sembra un più
+
+25
+00:01:26,400 --> 00:01:30,400
+meno pulisci, diciamo, Chapapuer: per chi non è in
+
+26
+00:01:31,840 --> 00:01:35,200
+atto per chi non risiede in Piemonte Chiapuer.
+
+27
+00:01:35,440 --> 00:01:40,960
+La traduzione è prendi polvere, ovvero sono tutti quelli quell'ogettistica che rimane
+
+28
+00:01:41,120 --> 00:01:46,000
+sui tavoli, prendono semplicemente polvere perché non hanno alcuna utilità.
+
+29
+00:01:46,000 --> 00:01:48,240
+E quindi c'è questo, diciamo,
+
+30
+00:01:49,520 --> 00:01:56,480
+possiamo definirlo come scopino: togli polvere per i Chapa Puerto, che appunto
+
+31
+00:01:56,800 --> 00:02:02,200
+vi permette, però, di organizzare e automatizzare il vostro Mac.
+
+32
+00:02:02,200 --> 00:02:04,680
+Sono molto curioso di vedere di che si tratta.
+
+33
+00:01:59,920 --> 00:02:06,520
+La cosa interessante di questa applicazione.
+
+34
+00:02:06,680 --> 00:02:11,640
+Prima di tutto è che un'applicazione sviluppata e creata da una sola
+
+35
+00:02:11,640 --> 00:02:17,240
+persona, quindi ha già tutto partendo tutto il nostro rispetto, e quindi
+
+36
+00:02:17,320 --> 00:02:20,120
+anche il costo si ripercuote anche su questa questione.
+
+37
+00:02:20,120 --> 00:02:25,640
+Perché parliamo di circa 42 dollari per la versione solo e 65
+
+38
+00:02:25,640 --> 00:02:28,680
+dollari per il pack per 5 persone.
+
+39
+00:02:28,840 --> 00:02:31,080
+L'aggiornamento costa 20 dollari.
+
+40
+00:02:31,400 --> 00:02:36,360
+Altro purtroppo non so perché non la utilizzo, però do un mio
+
+41
+00:02:36,360 --> 00:02:39,000
+punto di vista per quanto riguarda l'interfaccia grafica.
+
+42
+00:02:39,000 --> 00:02:45,960
+L'interfaccia grafica mi sembra abbastanza in linea con la normalità dell'applicazione IMAC.
+
+43
+00:02:46,040 --> 00:02:50,600
+Non c'è niente di particolarmente, mi pare possiamo definirlo ricercato.
+
+44
+00:02:50,600 --> 00:02:52,360
+Perché è giusto che sia così.
+
+45
+00:02:52,360 --> 00:02:57,320
+Deve essere un'applicazione che fa il suo lavoro, lo faccia bene e
+
+46
+00:02:57,320 --> 00:02:59,800
+soprattutto che lo faccia in modo sicuro.
+
+47
+00:02:59,800 --> 00:03:04,360
+Perché comunque mette le mani all'interno del nostro hard disk e bisogna
+
+48
+00:03:04,360 --> 00:03:08,680
+avere un po' anche di fiducia, nel senso che adesso sentiremo anche
+
+49
+00:03:08,680 --> 00:03:13,720
+Filippo i consigli che ci dà per la gestione del nostro arsenale
+
+50
+00:03:13,720 --> 00:03:18,280
+di cartelle che abbiamo sull'hardisc per fortuna esiste anche un forum che
+
+51
+00:03:18,280 --> 00:03:23,480
+ovviamente troverete all'interno delle note dell'episodio dove sono raccolti un po' di
+
+52
+00:03:23,480 --> 00:03:28,360
+cose, sicuramente degli aiuti per chi è un utente alle prime armi.
+
+53
+00:03:28,360 --> 00:03:33,000
+Si passa dagli annunci al supporto generale, alle discussioni aperte e ovviamente
+
+54
+00:03:33,000 --> 00:03:37,240
+ai tip and tricks che aiutano sempre tutti quanti a uscirne fuori,
+
+55
+00:03:37,400 --> 00:03:39,560
+fare cose nuove con questa applicazione.
+
+56
+00:03:39,560 --> 00:03:42,520
+Io direi che a questo punto è il momento di lasciare la
+
+57
+00:03:42,520 --> 00:03:45,280
+parola a Filippo che ci racconta la versione 5 cosa fa.
+
+58
+00:03:45,600 --> 00:03:50,880
+Allora, noi abbiamo ancora detto in maniera specifica che cos'è Azel e
+
+59
+00:03:44,680 --> 00:03:51,040
+che cosa
+
+60
+00:03:44,920 --> 00:03:51,840
+fa Azel.
+
+61
+00:03:52,560 --> 00:03:56,400
+È lo scoppedino per fare le pulizie e l'icone è questa, e
+
+62
+00:03:56,400 --> 00:04:02,000
+l'idea è che sia la nostra domestica che fa ordine nei nostri
+
+63
+00:04:02,000 --> 00:04:02,480
+file.
+
+64
+00:04:02,480 --> 00:04:04,080
+Questo è lo scopo di Hazel.
+
+65
+00:04:04,080 --> 00:04:10,320
+Quindi, nella sostanza, Hasel è un'applicazione che monitora una cartella, una o
+
+66
+00:04:10,320 --> 00:04:12,160
+più cartelle a dire la verità.
+
+67
+00:04:12,960 --> 00:04:15,600
+È lì in attesa, fermo immobile.
+
+68
+00:04:15,600 --> 00:04:19,680
+H24 quando il nostro computer è acceso, diciamo.
+
+69
+00:04:20,000 --> 00:04:24,640
+Per vedere se in questa cartella arrivano dei file o anche delle
+
+70
+00:04:24,640 --> 00:04:30,640
+altre cartelle, e se questi file o cartelle corrispondono a una determinata
+
+71
+00:04:30,640 --> 00:04:34,400
+regola o trigger o così via.
+
+72
+00:04:34,400 --> 00:04:39,440
+Cioè hanno delle caratteristiche specifiche per cui poi Hazel fa partire tutta
+
+73
+00:04:39,440 --> 00:04:40,720
+una serie di azioni.
+
+74
+00:04:40,720 --> 00:04:44,640
+Quindi, abitualmente, per esempio, cosa può succedere?
+
+75
+00:04:44,800 --> 00:04:50,480
+Un esempio tipico di un'azione di Azel che si può utilizzare quotidianamente,
+
+76
+00:04:50,480 --> 00:04:54,880
+tiene monitorata la cartella dei Down Lord, dove abitualmente arriva a una
+
+77
+00:04:54,880 --> 00:04:58,640
+quantità infinita di roba che spesso e volentieri diventa una cartella di
+
+78
+00:04:58,640 --> 00:05:00,800
+dimensioni spesso generose.
+
+79
+00:05:00,800 --> 00:05:04,240
+E per esempio, se il file è più vecchio di due settimane,
+
+80
+00:05:04,240 --> 00:05:05,600
+che quindi non
+
+81
+00:05:06,640 --> 00:05:10,400
+è stato spostato dalla cartella di Down da due settimane da quando
+
+82
+00:05:10,400 --> 00:05:13,760
+è stato scaricato, automaticamente ce lo cancella.
+
+83
+00:05:13,760 --> 00:05:19,040
+Quindi fa pulizia e non fa a catastare roba giga in giga
+
+84
+00:05:19,120 --> 00:05:21,680
+di roba, cosa che mi è capitata varie volte.
+
+85
+00:05:21,680 --> 00:05:24,960
+Tenendo a precisare, anzi, adesso mi hai fatto venire in mente, sto
+
+86
+00:05:24,960 --> 00:05:29,000
+andando a vedere quanto è pesante la cartella dei Dallo attualmente.
+
+87
+00:05:29,080 --> 00:05:31,720
+Mia, meglio non saperlo,
+
+88
+00:05:29,840 --> 00:05:37,320
+ottieni informazioni, potrebbe avere qualche problema.
+
+89
+00:05:37,480 --> 00:05:41,160
+Credo che ci sia scritto 36 GB, ma fa lo stesso
+
+90
+00:05:42,280 --> 00:05:45,080
+, io che mi lamentavo adesso devo controllare.
+
+91
+00:05:45,160 --> 00:05:47,560
+Probabilmente ci sono dei video che non dovevo lasciare lì.
+
+92
+00:05:47,560 --> 00:05:51,160
+Comunque, a prescindere da questo.
+
+93
+00:05:51,160 --> 00:05:53,560
+Uno di questi sistemi è proprio quello.
+
+94
+00:05:53,960 --> 00:05:57,480
+L'idea di fondo di Ezel è quindi la possibilità di rilevare dei
+
+95
+00:05:57,480 --> 00:06:03,800
+modelli all'interno di file e così via, e a fronte di questo
+
+96
+00:06:04,040 --> 00:06:06,600
+poi operare in una certa maniera.
+
+97
+00:06:06,600 --> 00:06:11,240
+Oggi la mia idea di fondo è quella di dare delle indicazioni
+
+98
+00:06:11,240 --> 00:06:17,720
+di base su da una parte appunto le condizioni, cioè le modalità
+
+99
+00:06:17,720 --> 00:06:22,280
+con cui Azel fa partire determinate regole.
+
+100
+00:06:22,280 --> 00:06:26,600
+E poi vedere anche cosa può fare, quali sono le azioni di
+
+101
+00:06:26,600 --> 00:06:32,360
+Helel e poi cercare, diciamo, di dare un'idea a tutto tondo di
+
+102
+00:06:32,600 --> 00:06:36,360
+cosa si può fare con Helzel, perché secondo me è molto utile.
+
+103
+00:06:36,360 --> 00:06:40,120
+Una cosa che dico sempre è Ezel è uno di quei programmi
+
+104
+00:06:40,120 --> 00:06:46,760
+che installi, configuri, cioè crei le prime, diciamo, le prime automazioni e
+
+105
+00:06:46,760 --> 00:06:50,680
+poi spesso e volentieri se non hai esigenze specifiche, ti scordi, ti
+
+106
+00:06:50,680 --> 00:06:53,320
+faccio una domanda al bruciapelo, come sempre, una delle mie.
+
+107
+00:06:53,480 --> 00:06:57,560
+Ti volevo chiedere che differenza c'è tra l'utilizzo di Azel e di
+
+108
+00:06:57,560 --> 00:06:58,440
+comandi rapidi.
+
+109
+00:06:58,440 --> 00:07:01,880
+Allora, comandi rapidi non funziona in autonomia abitualmente.
+
+110
+00:07:01,880 --> 00:07:03,720
+Ezzel di fatto sì.
+
+111
+00:07:03,720 --> 00:07:06,040
+Cioè, Ezzel te lo scordi.
+
+112
+00:07:06,040 --> 00:07:07,080
+Non so se mi spiego.
+
+113
+00:07:07,080 --> 00:07:12,040
+Cioè, per esempio, non devi stare a vedere se questo file nei
+
+114
+00:07:12,200 --> 00:07:16,880
+download ha più di due settimane o meno, lui in automatico fa,
+
+115
+00:07:16,880 --> 00:07:18,240
+è anche pericoloso in
+
+116
+00:07:14,840 --> 00:07:20,640
+questo senso
+
+117
+00:07:14,920 --> 00:07:21,680
+, ovviamente.
+
+118
+00:07:22,160 --> 00:07:27,120
+Ma nella sostanza, una volta che tu hai impostato la regola, lui
+
+119
+00:07:27,120 --> 00:07:30,160
+va per la sua strada ed è la cosa meravigliosa poi di
+
+120
+00:07:30,160 --> 00:07:31,040
+tutto il sistema.
+
+121
+00:07:31,040 --> 00:07:35,600
+Perché adesso ho fatto anche un webinar dedicato a una regola che
+
+122
+00:07:35,600 --> 00:07:41,200
+è abbastanza complicata, quindi oggi qui non andremo a specificare o a
+
+123
+00:07:41,200 --> 00:07:44,320
+argomentare anche perché ci ho messo tipo un'ora di webinar per spiegare
+
+124
+00:07:44,320 --> 00:07:44,800
+tutto.
+
+125
+00:07:45,040 --> 00:07:50,240
+Però, per esempio, una cosa che mi fa quotidianamente dove lo troviamo?
+
+126
+00:07:50,240 --> 00:07:50,960
+Il tuo webinar?
+
+127
+00:07:50,960 --> 00:07:53,680
+Scusami un attimo, è rintracciabile in qualche modo?
+
+128
+00:07:54,080 --> 00:07:59,280
+Ovviano, dovrebbe essere nell'aspetto, che controllo di averlo inserito, ma direi proprio
+
+129
+00:07:59,280 --> 00:07:59,920
+di sì.
+
+130
+00:08:00,640 --> 00:08:04,000
+Allora, tutti i link che troverete nel note di questo episodio, che
+
+131
+00:08:04,000 --> 00:08:07,840
+è la puntata 56, ci saranno ovviamente i miei articoli, non solo
+
+132
+00:08:07,840 --> 00:08:09,920
+i miei articoli, ma anche articoli di altri.
+
+133
+00:08:09,920 --> 00:08:14,880
+E anche il link al webinar dove parlo nello specifico di questa
+
+134
+00:08:14,880 --> 00:08:15,440
+regola.
+
+135
+00:08:15,440 --> 00:08:19,760
+Che adesso a questo punto accenno e dico, in pratica, cosa succede?
+
+136
+00:08:19,760 --> 00:08:21,520
+Questa regola cosa fa?
+
+137
+00:08:21,520 --> 00:08:24,960
+Prende le mail che ho i file ML che ho salvato.
+
+138
+00:08:24,960 --> 00:08:30,320
+Quindi mi serve per archiviare i file ML della corrispondenza email che
+
+139
+00:08:30,320 --> 00:08:32,720
+ho quotidianamente professionalmente.
+
+140
+00:08:32,720 --> 00:08:33,600
+Cosa succede?
+
+141
+00:08:33,600 --> 00:08:38,560
+Sostanzialmente c'è una cartella che si chiama email da archiviare, nota l'argume
+
+142
+00:08:39,120 --> 00:08:40,560
+del nome della cartella.
+
+143
+00:08:40,560 --> 00:08:46,160
+Va a vedere i file ML estrappola la data di invio di
+
+144
+00:08:46,160 --> 00:08:47,280
+quella email.
+
+145
+00:08:47,280 --> 00:08:51,440
+Sostanzialmente il file AML, un file di testo, e quindi si possono,
+
+146
+00:08:51,440 --> 00:08:55,760
+e lo vedremo dopo, estrapolare tutta una serie di dati e a
+
+147
+00:08:55,760 --> 00:09:00,920
+fronte del numero della pratica che è nel nome dell'oggetto dell'email, sostanzialmente
+
+148
+00:09:01,320 --> 00:09:06,920
+lui prende questa email e me la salva nella cartella specifica, quindi
+
+149
+00:09:07,320 --> 00:09:13,240
+nella pratica specifica, non so, 100f nella sottocartella della corrispondenza.
+
+150
+00:09:13,240 --> 00:09:17,320
+Quindi io in automatico, una volta che ho salvato il file ML
+
+151
+00:09:17,320 --> 00:09:23,320
+sul mio computer, me lo trovo dopo qualche secondo inserito nella corrispondenza
+
+152
+00:09:23,320 --> 00:09:25,800
+della specifica pratica di quell'email.
+
+153
+00:09:25,800 --> 00:09:30,360
+Quindi, in pratica, tutta l'attività che devo svolgere è ricordarmi di salvare
+
+154
+00:09:30,360 --> 00:09:31,240
+l'email.
+
+155
+00:09:31,240 --> 00:09:36,200
+L'archiviazione dell'email viene fatta in automatico, viene fatta in automatico la datazione.
+
+156
+00:09:36,520 --> 00:09:42,040
+Viene fatta anche tutta un'altra serie di operazioni per cui abitualmente nell'oggetto
+
+157
+00:09:42,040 --> 00:09:46,920
+dell'email e nel nome che corrisponde poi al salvataggio delle email, cioè,
+
+158
+00:09:46,920 --> 00:09:53,800
+non so, 300f, Pippo controllato trattino e l'oggetto vero dell'email.
+
+159
+00:09:53,800 --> 00:09:57,880
+Ecco, Pippo Contro Pluto me lo toglie via proprio per rendermi più
+
+160
+00:09:57,880 --> 00:09:59,720
+leggibile poi il file.
+
+161
+00:09:59,720 --> 00:10:01,800
+Quindi fa tutta una serie di operazioni.
+
+162
+00:10:01,960 --> 00:10:06,760
+Adesso vedremo come fa e come è possibile farlo: di manipolazione del
+
+163
+00:10:06,760 --> 00:10:13,400
+nome del file e di estrapolazione di dati dal file stesso, per
+
+164
+00:10:13,400 --> 00:10:16,760
+cui questo è il grosso vantaggio, secondo me, dizel.
+
+165
+00:10:16,760 --> 00:10:20,200
+E tutto questo lo fa in automatico: cioè ci ho messo casomai
+
+166
+00:10:20,200 --> 00:10:24,360
+due o tre ore a preparare tutto questo sistema abbastanza complesso di
+
+167
+00:10:24,360 --> 00:10:26,120
+estrapolazione di dati.
+
+168
+00:10:26,120 --> 00:10:31,480
+Ma una volta che l'ho fatto, io mi scordo di dover archiviare
+
+169
+00:10:31,480 --> 00:10:36,040
+le mail perché in automatico fa tutto esel da solo, e questo
+
+170
+00:10:36,040 --> 00:10:37,000
+è quanto ecco.
+
+171
+00:10:37,160 --> 00:10:39,720
+Questo secondo me è il vero grande pregio di tutta la vicenda:
+
+172
+00:10:39,760 --> 00:10:42,680
+te ne tira via già di lavoro, perché comunque io lo faccio
+
+173
+00:10:42,680 --> 00:10:44,680
+a manina e ce ne vuole già un bel po' di tempo
+
+174
+00:10:44,880 --> 00:10:47,440
+e quando non ti ricordi di farlo, ti trovi una balanca di
+
+175
+00:10:44,680 --> 00:10:50,160
+mail da spostare, che devi rinominare tutti.
+
+176
+00:10:50,480 --> 00:10:53,360
+Questo tipo di utilizzo aiuta davvero tanto.
+
+177
+00:10:53,520 --> 00:10:55,360
+Già per questo merita il prezzo.
+
+178
+00:10:55,360 --> 00:10:56,080
+Esatto, esatto.
+
+179
+00:10:56,080 --> 00:11:01,920
+Tu consideri, non so, anche immagini da rinominare con determinati pattern.
+
+180
+00:11:02,240 --> 00:11:06,240
+Ci sono veramente tantissime ipotesi in cui anche, non so,
+
+181
+00:11:07,760 --> 00:11:11,360
+hai fatto le foto in cantiere, giusto per darti delle idee per
+
+182
+00:11:11,520 --> 00:11:16,640
+fare gli acquisti, tu le scarichi sul tuo computer, lui in automatico
+
+183
+00:11:16,640 --> 00:11:20,720
+può, per esempio, rinominarle tutte in una certa maniera.
+
+184
+00:11:20,720 --> 00:11:24,000
+Quindi, per esempio, con la data di quando hai fatto le foto,
+
+185
+00:11:24,000 --> 00:11:28,720
+con una specifica modalità, te la può andare a salvare in una
+
+186
+00:11:28,720 --> 00:11:35,280
+cartella specifica, casomai datandola, o addirittura, per esempio, non so se utilizzi
+
+187
+00:11:35,600 --> 00:11:36,400
+tag.
+
+188
+00:11:36,400 --> 00:11:39,440
+Grazie ai tag, tu li puoi dire che va nella pratica 1
+
+189
+00:11:39,520 --> 00:11:43,200
+piuttosto che nella pratica 2, o nella pratica piccola piuttosto che nella
+
+190
+00:11:43,200 --> 00:11:44,160
+pratica Pluto.
+
+191
+00:11:44,320 --> 00:11:51,600
+Quindi, hai tutta una serie di possibilità: diciamo, di movimentare velocemente grosse
+
+192
+00:11:51,920 --> 00:11:52,880
+mole di file.
+
+193
+00:11:52,880 --> 00:11:58,800
+Perché non la uso in questo caso perché non la userei, anzi,
+
+194
+00:11:58,800 --> 00:12:04,720
+perché c'è un'applicazione di un nostro amico comune, Racuglia Alex, chiamiamolo così,
+
+195
+00:12:04,720 --> 00:12:06,720
+che è il suo nome, di battesimo.
+
+196
+00:12:06,720 --> 00:12:12,560
+Che ha fatto Ultimedia Converter che permette appunto, anche con dei trigger,
+
+197
+00:12:12,560 --> 00:12:17,920
+ovvero di monitorare una cartella, ti permette di modificarla, modificare i file
+
+198
+00:12:17,920 --> 00:12:25,040
+che ci butti dentro, rinominarli, cambiare tipo di file, fare delle conversioni
+
+199
+00:12:25,040 --> 00:12:26,000
+e tanto altro ancora.
+
+200
+00:12:26,080 --> 00:12:29,880
+Quindi, questo potrebbe essere un buon aggancio per il nostro Alex, gli
+
+201
+00:12:29,880 --> 00:12:32,520
+facciamo un minimo di pubblicità visto che lui ci ha fatto la
+
+202
+00:12:29,440 --> 00:12:34,280
+sigla, e noi gli facciamo un po' di pubblicità.
+
+203
+00:12:34,600 --> 00:12:40,120
+Giustamente, giustamente, poi Alex sta facendo tutta una serie di applicazioni bellissime.
+
+204
+00:12:40,120 --> 00:12:48,280
+Tornando a noi, diciamo che nel tempo Ezel ha acquistato caratteristiche veramente
+
+205
+00:12:48,280 --> 00:12:49,480
+avanzate.
+
+206
+00:12:49,480 --> 00:12:53,960
+Adesso ne accenno velocemente, poi dopo, casomai faccio degli esempi.
+
+207
+00:12:53,960 --> 00:12:58,920
+Ma la cosa interessante, soprattutto nella versione 5, già all'inizio potevo andare
+
+208
+00:12:58,920 --> 00:13:04,680
+a leggere all'interno dei PDF e appunto, sempre a fronte di determinati
+
+209
+00:13:04,680 --> 00:13:07,640
+modelli, estrapolare dati da questi PDF.
+
+210
+00:13:07,640 --> 00:13:12,920
+Quindi, per esempio, la possibilità di estrapolare la data di una ricevuta.
+
+211
+00:13:12,920 --> 00:13:17,400
+Quindi, se voglio archiviare, non so, delle fatture, per esempio, le fatture
+
+212
+00:13:17,720 --> 00:13:24,760
+dell'El, le posso archiviare predatandole sostanzialmente, cioè anendo il nome del file
+
+213
+00:13:24,920 --> 00:13:30,440
+la data, addirittura estrapolando l'importo dalla bolletta e così via.
+
+214
+00:13:30,440 --> 00:13:34,680
+Quindi diventa veramente molto comodo per tutta questa serie di cose.
+
+215
+00:13:34,680 --> 00:13:39,400
+Recentemente con la versione 5 ha la possibilità anche di estrapolare i
+
+216
+00:13:39,400 --> 00:13:43,480
+dati da liste e tabelle, cosa che è molto interessante.
+
+217
+00:13:43,480 --> 00:13:49,400
+Vabbè, c'è stato tutto un lavoro di sottofondo, perché praticamente la versione
+
+218
+00:13:49,400 --> 00:13:54,440
+5, secondo me, è uscita con O Bixur o Mohave.
+
+219
+00:13:54,680 --> 00:14:01,240
+Sostanzialmente con tutta una serie di modifiche nell'ecosistema Apple, nasceva come un'applicazione
+
+220
+00:14:01,240 --> 00:14:07,400
+che andava installata all'interno delle preferenze di sistema, perché ovviamente si interfaccia
+
+221
+00:14:07,400 --> 00:14:11,480
+in maniera abbastanza profonda con macOS e con tutti i sistemi, perché
+
+222
+00:14:11,480 --> 00:14:14,360
+deve tenere monitorato file e quant'altro.
+
+223
+00:14:14,360 --> 00:14:18,960
+Non mi ricordo più se da Big Sur o Monterei, comunque c'è
+
+224
+00:14:18,960 --> 00:14:21,840
+stata la necessità di cambiare il tutto e quindi è diventata una
+
+225
+00:14:21,840 --> 00:14:26,960
+vera e propria applicazione a sé stante, chiamiamola così dalla versione 5,
+
+226
+00:14:27,200 --> 00:14:31,440
+quindi non si installa più nell'impostazione di sistema.
+
+227
+00:14:31,440 --> 00:14:36,000
+E l'ultima cosa interessante che è stata fatta è quella di avere
+
+228
+00:14:36,960 --> 00:14:41,920
+tra le varie azioni che possono essere lanciate da Hazel, può lanciare
+
+229
+00:14:41,920 --> 00:14:43,040
+anche i comandi rapidi.
+
+230
+00:14:43,040 --> 00:14:44,960
+Quindi, nella sostanza, cosa può fare?
+
+231
+00:14:44,960 --> 00:14:51,280
+A fronte, diciamo, che quel determinato file corrisponda alle condizioni preimpostate.
+
+232
+00:14:51,280 --> 00:14:56,880
+Poi viene passato un comando rapido che può svolgere varie attività, e
+
+233
+00:14:56,880 --> 00:15:01,920
+quindi si riesce a unire, diciamo, la capacità di automazione di Ezel
+
+234
+00:15:02,400 --> 00:15:08,400
+sul monitorare i file, chiamiamoli in questi termini, con invece le potenzialità
+
+235
+00:15:08,400 --> 00:15:10,400
+di comandi rapidi e così via.
+
+236
+00:15:10,400 --> 00:15:13,200
+Quindi molto molto interessante da questo punto di vista.
+
+237
+00:15:13,200 --> 00:15:18,400
+Venendo al funzionamento, diciamo, il funzionamento come dicevo è abbastanza semplice, cioè
+
+238
+00:15:18,400 --> 00:15:22,960
+c'è una prima condizione, una serie di potenziali condizioni, cioè se ecco
+
+239
+00:15:23,040 --> 00:15:24,800
+una cosa che non l'abbiamo detto.
+
+240
+00:15:24,800 --> 00:15:30,160
+L'unico chiamiamo così difetto di Hesel è quello che ovviamente è sviluppato
+
+241
+00:15:30,160 --> 00:15:31,440
+una singola persona.
+
+242
+00:15:31,440 --> 00:15:37,120
+Il mercato principale di queste applicazioni è abitualmente quello anglofono, quindi non
+
+243
+00:15:37,120 --> 00:15:42,080
+esiste una versione in italiana di Hesel, ma tutta l'interfaccia e i
+
+244
+00:15:42,080 --> 00:15:47,040
+vari comandi e le varie condizioni e azioni sono tutte in inglese.
+
+245
+00:15:47,040 --> 00:15:53,200
+Quindi, comunque è richiesto un minimo di conoscenza in lingua inglese dell'applicazione
+
+246
+00:15:53,520 --> 00:15:55,520
+per poter lavorare con l'applicazione.
+
+247
+00:15:55,480 --> 00:15:59,960
+Quindi, se una o tutte, e qui è la cosa interessante di
+
+248
+00:15:59,680 --> 00:16:02,520
+Ezel, è che c'è la possibilità di decidere di
+
+249
+00:15:59,840 --> 00:16:05,480
+avere e o chiamiamola così.
+
+250
+00:16:05,560 --> 00:16:09,560
+Cioè se tutte le condizioni sono vere, allora fai questo.
+
+251
+00:16:09,800 --> 00:16:13,960
+Se no, può fare se una di queste condizioni è vera, fai
+
+252
+00:16:13,960 --> 00:16:14,360
+questo.
+
+253
+00:16:14,360 --> 00:16:17,320
+Che è molto utile perché, ovviamente, in base
+
+254
+00:16:18,360 --> 00:16:22,120
+alla regola che vuoi creare, ti permette flessibilità.
+
+255
+00:16:22,120 --> 00:16:27,720
+Addirittura facendo un passo in avanti, ha la possibilità di fare delle
+
+256
+00:16:27,720 --> 00:16:30,200
+condizioni nidificate.
+
+257
+00:16:30,200 --> 00:16:31,480
+Cosa significa?
+
+258
+00:16:31,480 --> 00:16:37,720
+Significa che io posso dire se tutte queste condizioni sono vere o
+
+259
+00:16:37,720 --> 00:16:42,680
+alcune di queste sottocondizioni sono vere, quindi posso avere una gestione anche
+
+260
+00:16:42,680 --> 00:16:46,280
+abbastanza strutturata di queste condizioni.
+
+261
+00:16:46,280 --> 00:16:47,080
+Vediamo
+
+262
+00:16:48,680 --> 00:16:53,160
+gli esempi, diciamo, più semplici, ma anche più utili.
+
+263
+00:16:53,160 --> 00:16:58,440
+Abitualmente c'è se il nome di un file contiene, per esempio,
+
+264
+00:16:59,960 --> 00:17:03,560
+una determinata parola o una serie di determinate parole.
+
+265
+00:17:03,560 --> 00:17:09,560
+Io abitualmente non so, cerco per esempio delle parole specifiche per spostare
+
+266
+00:17:09,560 --> 00:17:10,520
+determinati file.
+
+267
+00:17:10,520 --> 00:17:14,280
+Quindi, se il nome del file ha, per esempio, dentro Enel, allora
+
+268
+00:17:14,280 --> 00:17:17,400
+vanmela a spostare nella cartella delle bollette dell'ENL.
+
+269
+00:17:17,480 --> 00:17:20,680
+Questo lo può fare su tutto l'hard disk o solo su cartelle?
+
+270
+00:17:20,920 --> 00:17:28,520
+Su cartelle specifiche, poi, potenzialmente ha una regola per cui non solo
+
+271
+00:17:28,520 --> 00:17:33,640
+guarda la cartella d'origine, chiamiamola così, la route, diciamo, che va a
+
+272
+00:17:33,640 --> 00:17:35,800
+cercare, ma può guardare tutte le sottocartelle.
+
+273
+00:17:35,800 --> 00:17:40,200
+Quindi è ovvio che se tu fai andare la regola sulla route
+
+274
+00:17:40,200 --> 00:17:45,840
+del tuo sistema operativo, teoricamente può andarti a guardare tutto il file
+
+275
+00:17:44,440 --> 00:17:46,160
+system.
+
+276
+00:17:46,800 --> 00:17:52,400
+Abitualmente è sconsigliabile, nel senso, solitamente per esempio, David Spark è quello
+
+277
+00:17:52,400 --> 00:17:58,400
+che chiama action folder, cioè una cartella dove arriva tutto e dove
+
+278
+00:17:58,480 --> 00:18:03,120
+la maggior parte delle regole di Ezel, per esempio, sono concentrate.
+
+279
+00:18:03,120 --> 00:18:07,280
+Perché poi da lì, io per esempio, ho due o tre cartelle,
+
+280
+00:18:07,520 --> 00:18:12,320
+vabbè, download, o quella che io definisco l'action folder che si chiama
+
+281
+00:18:12,320 --> 00:18:13,120
+scansioni.
+
+282
+00:18:13,280 --> 00:18:19,760
+Cioè, abitualmente se devo fare se acquisisco un documento, vai in scansioni,
+
+283
+00:18:19,760 --> 00:18:23,760
+e a questo punto nella cartella scansioni ci sono tutta una serie
+
+284
+00:18:23,760 --> 00:18:26,320
+di regole per smistare i PDF.
+
+285
+00:18:26,320 --> 00:18:32,480
+Abitualmente sono PDF con OCR già fatto sopra e quindi ovviamente se
+
+286
+00:18:32,480 --> 00:18:33,840
+le condizioni vengono.
+
+287
+00:18:33,840 --> 00:18:34,640
+Vengono.
+
+288
+00:18:34,640 --> 00:18:38,960
+C'è corrispondenza nelle condizioni, ovviamente quel file viene rinominato e spostato dove
+
+289
+00:18:38,960 --> 00:18:39,600
+deve andare.
+
+290
+00:18:39,600 --> 00:18:44,560
+Oppure, per esempio, ho una cartella specifica per l'email e anche qui
+
+291
+00:18:44,800 --> 00:18:49,520
+ho fatto un doppio gioco per rendermi la vita più semplice, cioè
+
+292
+00:18:49,520 --> 00:18:50,640
+sia nella cartella di
+
+293
+00:18:51,680 --> 00:18:58,000
+nella cartella della scrivania ho una regola base molto semplice, cioè che
+
+294
+00:18:58,000 --> 00:19:04,960
+dice se l'estensione del file è ML e ML, spostala nelle email
+
+295
+00:19:05,120 --> 00:19:06,000
+da archiviare.
+
+296
+00:19:06,000 --> 00:19:10,000
+A questo punto, su quella cartella c'è invece tutta una serie di
+
+297
+00:19:10,000 --> 00:19:13,840
+regole, o meglio, adesso attualmente c'è solo una regola che le gestisce
+
+298
+00:19:13,840 --> 00:19:20,080
+tutte per poi smistare le email nelle varie cartelle dove devono andare,
+
+299
+00:19:20,080 --> 00:19:24,480
+e questo più o meno è il funzionamento del mio sistema di
+
+300
+00:19:24,480 --> 00:19:24,720
+base.
+
+301
+00:19:25,040 --> 00:19:27,040
+Chiamiamoli in questi termini.
+
+302
+00:19:27,040 --> 00:19:30,840
+Per cui poi ci sono altre cartelle che casomai vengono gestite in
+
+303
+00:19:29,840 --> 00:19:33,480
+maniera diversa, dipende molto dalle esigenze.
+
+304
+00:19:33,800 --> 00:19:39,960
+Siccome queste regole potenzialmente possono fare dei danni, perché c'è anche la
+
+305
+00:19:39,960 --> 00:19:43,000
+possibilità di cancellare i file, per esempio,
+
+306
+00:19:44,520 --> 00:19:49,640
+se nella cartella c'è un file più vecchio di due settimane, cancellalo,
+
+307
+00:19:49,960 --> 00:19:52,200
+ovviamente può fare dei danni.
+
+308
+00:19:52,200 --> 00:19:55,080
+Se per caso tu vai su tutto il sistema, ecco.
+
+309
+00:19:55,080 --> 00:19:58,440
+Io solitamente in questi casi consiglio prudenza.
+
+310
+00:19:59,240 --> 00:20:02,200
+Poi vedremo anche come testare le regole.
+
+311
+00:20:02,200 --> 00:20:07,080
+Ovviamente vabbè, full name, lo dice la parola stessa e il nome
+
+312
+00:20:07,080 --> 00:20:12,360
+completo è interessante, ci sono tutta una serie di regole per la
+
+313
+00:20:12,360 --> 00:20:19,480
+data di creazione di aggiunta del file, o addirittura l'ultima volta che
+
+314
+00:20:19,480 --> 00:20:21,640
+è stato aperto o modificato.
+
+315
+00:20:21,640 --> 00:20:26,600
+Quindi, per esempio, io sulla scrivania lavoro dei file, ok.
+
+316
+00:20:26,920 --> 00:20:30,600
+Se non li lavoro per due giorni, me le archivia automaticamente e
+
+317
+00:20:30,600 --> 00:20:32,120
+me li sposta la scrivania.
+
+318
+00:20:32,120 --> 00:20:34,920
+È una regola che per esempio uso molto.
+
+319
+00:20:34,920 --> 00:20:39,160
+Quella per gli screenshot, per le catture dello schermo.
+
+320
+00:20:39,160 --> 00:20:43,880
+Solitamente le catture dello schermo mi finiscono sulla scrivania, ma se la
+
+321
+00:20:43,880 --> 00:20:47,880
+cattura dello schermo è più vecchia di 24 ore, va a finire
+
+322
+00:20:47,880 --> 00:20:55,400
+in una cartella apposta, denominata schermate, dove io ho tutto l'archivio.
+
+323
+00:20:55,560 --> 00:20:59,560
+Poi vabbè, dovrei anche pulire ogni tanto, ma lasciamo stare e addirittura
+
+324
+00:20:59,640 --> 00:21:02,200
+ma questo c'entra poco con tutta la vicenda.
+
+325
+00:21:02,200 --> 00:21:06,520
+Siccome io ho più Mac, questa cartella è sincronizzata su tutti i
+
+326
+00:21:06,520 --> 00:21:10,920
+Mac, per cui se faccio le catture a schermo sul portatile o
+
+327
+00:21:10,920 --> 00:21:15,520
+sul fisso sul fisso di caso o sul fisso dell'ufficio, si sincronizzano
+
+328
+00:21:14,840 --> 00:21:20,480
+ovviamente dopo le 24 ore, e quindi, se per caso
+
+329
+00:21:20,880 --> 00:21:24,000
+mi ricordo che avevo fatto due giorni fa una cattura a schermo
+
+330
+00:21:24,320 --> 00:21:28,720
+che poi mi sono scordato di lavorare, chiamiamola in questi termini, me
+
+331
+00:21:28,720 --> 00:21:30,880
+la posso già trovare nelle schermate.
+
+332
+00:21:30,880 --> 00:21:34,960
+Quindi si riescono a fare tutta una serie di operazioni anche abbastanza
+
+333
+00:21:34,960 --> 00:21:35,840
+interessanti.
+
+334
+00:21:35,840 --> 00:21:41,280
+Ce ne sono tante da vedere condizioni, quella che io è la
+
+335
+00:21:41,280 --> 00:21:46,880
+più potente, chiamiamoli in questi termini, è quella content, cioè il contenuto.
+
+336
+00:21:47,120 --> 00:21:50,880
+Perché appunto Ezel non solo va a vedere il nome del file
+
+337
+00:21:50,880 --> 00:21:55,760
+o i metadati del file, ecco, un'altra cosa interessantissima di Azel è
+
+338
+00:21:55,760 --> 00:22:00,800
+quella che conosce, chiamiamola così, tutti i metadati di macOS.
+
+339
+00:22:00,800 --> 00:22:05,760
+Tutti i metadati di macOS, forse molti di voi potrebbero non saperlo,
+
+340
+00:22:05,760 --> 00:22:08,240
+ma ci sono dati clamorosi.
+
+341
+00:22:08,240 --> 00:22:12,960
+Quindi, per esempio, se tu hai scaricato un file da una macchina
+
+342
+00:22:12,960 --> 00:22:18,000
+fotografica o anche da un iPhone, tu tra i vari dati che
+
+343
+00:22:18,000 --> 00:22:21,840
+ci sono di queste immagini, c'è che quella foto è stata scattata
+
+344
+00:22:21,840 --> 00:22:28,720
+dall'iPhone 11 Pro, quella dall'iPhone 6, quella dalla Nikon Pinco Pallina e
+
+345
+00:22:28,720 --> 00:22:29,600
+così via.
+
+346
+00:22:29,600 --> 00:22:35,680
+Quindi addirittura Ezel conoscendo o potendo conoscere questi dati, questi metadati, può
+
+347
+00:22:35,680 --> 00:22:38,960
+suddividere, per esempio, le foto fatte con l'iPhone o
+
+348
+00:22:40,720 --> 00:22:44,320
+far fare dei percorsi differenti in base a questo.
+
+349
+00:22:44,320 --> 00:22:46,400
+Ci sono veramente tantissimi.
+
+350
+00:22:46,400 --> 00:22:53,520
+Non so, per esempio, sul podcast puoi recuperare, per esempio, il minutaggio
+
+351
+00:22:53,520 --> 00:22:58,960
+della registrazione, e quindi potenzialmente potrebbe anche inserire nel nome del file
+
+352
+00:22:59,120 --> 00:23:02,200
+i minuti della registrazione del file.
+
+353
+00:22:59,760 --> 00:23:04,440
+Si possono fare veramente tantissime cose.
+
+354
+00:23:04,680 --> 00:23:10,360
+Anzi, suggerisco, perché poi Mecosa ha tutta una serie di metadati abbastanza
+
+355
+00:23:10,360 --> 00:23:16,520
+imponente, diciamo, di andare a informarsi sulla cosa, sostanzialmente, quindi andare anche
+
+356
+00:23:16,520 --> 00:23:18,440
+a vedere le opzioni che ci sono.
+
+357
+00:23:18,440 --> 00:23:23,720
+Quello che, però mi interessa approfondire di più sono i contenuti del
+
+358
+00:23:23,720 --> 00:23:31,160
+file, perché praticamente per buona parte dei file, sicuramente testuali, sicuramente PDF,
+
+359
+00:23:32,360 --> 00:23:35,480
+non solo va a vedere il nome, i metadati e tutto il
+
+360
+00:23:35,480 --> 00:23:40,440
+resto, ma anche e soprattutto il contenuto all'interno del documento.
+
+361
+00:23:40,440 --> 00:23:41,960
+Questo secondo me
+
+362
+00:23:43,160 --> 00:23:45,880
+il contenuto è quello più interessante.
+
+363
+00:23:45,880 --> 00:23:53,080
+È più interessante perché si possono fare quello che si possono recuperare
+
+364
+00:23:53,080 --> 00:23:55,560
+sostanzialmente dei token.
+
+365
+00:23:55,560 --> 00:23:57,640
+Cosa sono questi token?
+
+366
+00:23:57,880 --> 00:24:04,120
+In pratica, sono un modo semplice di gestire le cosiddette espressioni regolari
+
+367
+00:24:04,120 --> 00:24:11,640
+o rejax, cioè Ezel dà dei parametri andando nella configurazione appunto di
+
+368
+00:24:11,640 --> 00:24:16,920
+queste regole, Ezel può andare alla ricerca all'interno del documento o addirittura
+
+369
+00:24:16,920 --> 00:24:19,560
+nel nome del file, di modelli.
+
+370
+00:24:20,920 --> 00:24:27,160
+Quindi che possono essere fatti con delle lettere, dei numeri, dei simboli,
+
+371
+00:24:27,160 --> 00:24:31,080
+tutti e tre i caratteri assieme, quindi una composizione di numeri e
+
+372
+00:24:31,080 --> 00:24:33,520
+così via, o numeri e lettere.
+
+373
+00:24:33,520 --> 00:24:40,840
+Addirittura questi token possono essere compositi, quindi parole, numeri, simboli e caratteri,
+
+374
+00:24:41,080 --> 00:24:45,920
+ovvero qualsiasi cosa, cioè io posso creare un modello specifico.
+
+375
+00:24:46,080 --> 00:24:48,720
+Abitualmente cosa faccio io?
+
+376
+00:24:48,720 --> 00:24:52,400
+E cosa fa Ezel adesso con delle regole automatizzate?
+
+377
+00:24:52,640 --> 00:24:59,920
+Per esempio, per autodatare un documento, se immaginiamo la fattura dell'Ener famosa.
+
+378
+00:24:59,920 --> 00:25:04,400
+All'interno della fattura dell'EL c'è una data solitamente di emissione alla fattura
+
+379
+00:25:04,400 --> 00:25:07,920
+o comunque termini di pagamento o roba del genere, ok?
+
+380
+00:25:08,240 --> 00:25:12,240
+Siccome la data è bene o male strutturata in una certa maniera,
+
+381
+00:25:12,240 --> 00:25:17,840
+quindi il giorno quindi 10 marzo 2023, ok?
+
+382
+00:25:18,080 --> 00:25:20,000
+Questo è un pattern, è un modello.
+
+383
+00:25:20,160 --> 00:25:24,240
+Edel può andare a guardare appunto il contenuto di questo documento, cercare
+
+384
+00:25:24,240 --> 00:25:29,280
+quello specifico modello e a questo punto estrapolarlo.
+
+385
+00:25:29,600 --> 00:25:36,160
+Estrapolarlo e ancora di più rielaborarlo, cioè invece di scrivere 10 febbraio
+
+386
+00:25:36,160 --> 00:25:38,880
+2023 o 10 marzo 2023.
+
+387
+00:25:38,880 --> 00:25:41,760
+Una volta che ha visto che il modello è quello e che
+
+388
+00:25:41,760 --> 00:25:48,480
+quindi c'è il match, cheamiamolo così, il modello è effettivamente corrispondente, può
+
+389
+00:25:48,640 --> 00:25:58,240
+anre al nome del file 2023-0310, quindi riesce a rielaborare quella caratteristica,
+
+390
+00:25:58,240 --> 00:26:02,560
+chiamiamola così, come abitualmente gli archiv file.
+
+391
+00:26:02,560 --> 00:26:07,440
+Adesso l'esempio che ho fatto è proprio quello lì nella sostanza, per
+
+392
+00:26:07,440 --> 00:26:12,320
+cui, secondo me, è molto interessante proprio per questo discorso, proprio perché
+
+393
+00:26:12,480 --> 00:26:17,680
+in questa maniera si riesce veramente a fare qualcosa di potente e
+
+394
+00:26:17,680 --> 00:26:18,720
+inusuale.
+
+395
+00:26:18,800 --> 00:26:22,400
+Questo sistema di cattura, diciamo, lo utilizzo molto.
+
+396
+00:26:22,720 --> 00:26:26,640
+È per pulire, ripulire diciamo il nome del file.
+
+397
+00:26:26,640 --> 00:26:30,680
+L'esempio che ho fatto dell'email è proprio quello: cioè ci sono delle
+
+398
+00:26:30,680 --> 00:26:35,080
+parti delle mail che non mi interessa mantenere, perché ovviamente è utile
+
+399
+00:26:35,080 --> 00:26:39,640
+avere il numero della pratica e tizio contro Caio nell'oggetto della mail.
+
+400
+00:26:39,640 --> 00:26:43,800
+Che ovviamente lo scambio di corrispondenza diventa più comodo.
+
+401
+00:26:43,800 --> 00:26:46,520
+Ma è ovvio che se io la vado ad archiviare nella pratica
+
+402
+00:26:46,520 --> 00:26:51,320
+Pippo contro Pluto, mi interessa eventualmente avere il numero della pratica, ma
+
+403
+00:26:51,480 --> 00:26:54,920
+che tutte le mail iniziano Pippo contro Pluto.
+
+404
+00:26:54,920 --> 00:27:00,920
+Non mi interessa, anzi, a me, interessa di più, diciamo, sapere l'oggetto,
+
+405
+00:27:00,920 --> 00:27:03,720
+cioè qual è l'argomento trattato in questa mail.
+
+406
+00:27:03,720 --> 00:27:08,440
+Non so, quindi documento, contratto di mutuo che mi viene mandato, e
+
+407
+00:27:08,440 --> 00:27:12,600
+quindi io così trovo una mail con scritto contratto di mutuo ed
+
+408
+00:27:12,600 --> 00:27:17,160
+è molto semplice andare a cercare e recuperare i dati che mi
+
+409
+00:27:17,160 --> 00:27:17,800
+servono.
+
+410
+00:27:18,280 --> 00:27:23,720
+Proprio questa pulizia all'interno del sistema è molto utile.
+
+411
+00:27:23,720 --> 00:27:29,880
+Perché, appunto, estrapolando questi dati, poi io posso creare il sistema finale
+
+412
+00:27:30,040 --> 00:27:34,280
+lo posso ricreare, quindi rinominare il file come più piace a me.
+
+413
+00:27:34,280 --> 00:27:39,320
+E quindi vedi anche come diventa molto molto comodo come gestione.
+
+414
+00:27:39,320 --> 00:27:44,360
+Per quanto invece riguarda le azioni vere e proprie, ovviamente ci sono
+
+415
+00:27:44,360 --> 00:27:53,000
+dalle più evidenti: tipo muovi, copia, rinomina, inserisci in una sottocartella.
+
+416
+00:27:53,800 --> 00:27:57,880
+Sincronizza e upload sono un po' particolari, io li uso pochissimo perché
+
+417
+00:27:58,040 --> 00:28:04,120
+sincronizza ti permette di sincronizzare, ma non come lo intenderei io, con
+
+418
+00:28:04,120 --> 00:28:05,320
+un'altra cartella.
+
+419
+00:28:05,320 --> 00:28:09,160
+Quindi va a fa una copia di quel file in una specifica
+
+420
+00:28:09,160 --> 00:28:13,480
+cartella, upload invece ti permette di caricare su un server FTP e
+
+421
+00:28:13,480 --> 00:28:13,720
+così via.
+
+422
+00:28:13,800 --> 00:28:18,080
+Potrebbe fare una specie di backup in questo caso come sincronizzazione.
+
+423
+00:28:14,920 --> 00:28:19,440
+No, esat
+
+424
+00:28:15,000 --> 00:28:20,880
+to, è una cosa fatta.
+
+425
+00:28:21,120 --> 00:28:23,520
+Non è un backup, non è un vero backup.
+
+426
+00:28:23,520 --> 00:28:29,120
+È per quello che dico, la sincronizzazione è qualcosa di non comodissimo,
+
+427
+00:28:29,120 --> 00:28:31,600
+anche perché comunque c'è il problema.
+
+428
+00:28:31,600 --> 00:28:36,480
+Può essere un backup in termini molto lati, mettiamoli in questi termini,
+
+429
+00:28:36,480 --> 00:28:39,760
+perché si comporta, fammi capire.
+
+430
+00:28:39,920 --> 00:28:42,240
+Devo andatelo a vedere perché lo uso pochissimo.
+
+431
+00:28:42,480 --> 00:28:45,520
+So che alla fine, quando ci avevo guardato, ho detto: non serve
+
+432
+00:28:45,520 --> 00:28:46,800
+quasi a niente,
+
+433
+00:28:48,640 --> 00:28:52,560
+per esempio, devi spostare una grossa quantità di file da hard disk
+
+434
+00:28:52,800 --> 00:28:55,600
+interno, casomai a un NAS, ecco.
+
+435
+00:28:55,600 --> 00:28:57,360
+Quello può diventare comodo.
+
+436
+00:28:57,360 --> 00:29:01,840
+Tuttavia, se tu ci lavori e quindi vuoi la sincronizzazione da everso
+
+437
+00:29:02,080 --> 00:29:06,320
+è abbastanza complicato perché poi manda solo i file, cioè è univoca,
+
+438
+00:29:06,320 --> 00:29:09,440
+non è bidirezionale, non so come spiegarlo.
+
+439
+00:29:09,600 --> 00:29:15,120
+E quindi è di fatto un sistema abbastanza scomodo abitualmente, è proprio
+
+440
+00:29:15,440 --> 00:29:20,160
+un backup nell'ottica di dire: ho un disco esterno che ogni tanto
+
+441
+00:29:20,160 --> 00:29:23,440
+attacco e quando mi vede il disco esterno, allora casomai mi fa.
+
+442
+00:29:23,440 --> 00:29:28,320
+Tuttavia, ci sono strumenti migliori, con backup incrementali qui non c'è tutto
+
+443
+00:29:28,560 --> 00:29:29,360
+questo sistema.
+
+444
+00:29:29,600 --> 00:29:33,760
+Infatti, ti dico, è una di quelle azioni che non ho quasi
+
+445
+00:29:33,760 --> 00:29:34,640
+mai usato.
+
+446
+00:29:34,640 --> 00:29:37,520
+Ci ho provato quando ho capito che funzionava male o comunque non
+
+447
+00:29:37,520 --> 00:29:41,520
+faceva quello che volevo io, ho deciso che non aveva senso spenderci
+
+448
+00:29:41,520 --> 00:29:42,000
+del tempo.
+
+449
+00:29:42,000 --> 00:29:47,680
+È un po' particolare, diciamo, come opzione all'interno di questa applicazione.
+
+450
+00:29:47,680 --> 00:29:50,480
+Non la capisco benissimo anch'io, ma fa lo stesso.
+
+451
+00:29:50,480 --> 00:29:54,400
+Nel senso, non ne vedo questa grossa utilità.
+
+452
+00:29:54,400 --> 00:29:59,120
+Casomai può servire a qualcuno, quindi c'è, però non è fondamentale.
+
+453
+00:29:59,120 --> 00:30:03,800
+L'appload è già può diventare comodo invece, anche se anche qui è
+
+454
+00:29:59,840 --> 00:30:05,720
+abbastanza inusuale ormai.
+
+455
+00:30:05,880 --> 00:30:09,720
+Però, se hai un server FTP, per esempio, per il sito web
+
+456
+00:30:09,720 --> 00:30:13,400
+o roba del genere, tu puoi dire controlla questa cartella.
+
+457
+00:30:13,400 --> 00:30:16,920
+Se c'è un nuovo file dentro questa cartella, tu caricamelo sul sito.
+
+458
+00:30:16,920 --> 00:30:21,960
+Quindi tu sai che se trascini dentro la cartella upload sito dei
+
+459
+00:30:21,960 --> 00:30:25,400
+file, questi vengono caricati sul tuo sito senza che tu faccia niente.
+
+460
+00:30:25,400 --> 00:30:29,080
+Perché Hazel pian pianino fa le sue cose da solo.
+
+461
+00:30:29,640 --> 00:30:32,840
+Questo può diventare utile e comodo, però, io, per esempio, non l'ho
+
+462
+00:30:32,840 --> 00:30:34,440
+mai usato quindi non ti so dire.
+
+463
+00:30:34,440 --> 00:30:39,000
+C'è la possibilità ovviamente di aggiungere e rimuovere tag molto comodo sempre
+
+464
+00:30:39,000 --> 00:30:41,080
+per il discorso di archiviazione.
+
+465
+00:30:41,080 --> 00:30:45,880
+Per esempio, adesso io non uso questo sistema, quindi ti invento qualcosa
+
+466
+00:30:45,880 --> 00:30:48,040
+di molto banale.
+
+467
+00:30:48,040 --> 00:30:51,000
+Tuttavia, per esempio, posso dire che
+
+468
+00:30:52,200 --> 00:30:56,200
+se io utilizzassi per esempio i tag in maniera estesa e quindi
+
+469
+00:30:57,000 --> 00:31:01,320
+ogni pratica ha un suo tag, potrei dire se c'è questa
+
+470
+00:31:02,440 --> 00:31:03,240
+regola.
+
+471
+00:31:03,240 --> 00:31:07,320
+Per cui se, per esempio, all'interno del file c'è il numero 100f
+
+472
+00:31:07,400 --> 00:31:10,840
+che è il numero della pratica, tu mettimi il tag 100f e
+
+473
+00:31:10,840 --> 00:31:15,240
+quindi ovviamente ho tutti i file taggati con 100f che sono relativi
+
+474
+00:31:15,240 --> 00:31:16,360
+a quella posizione.
+
+475
+00:31:16,360 --> 00:31:20,040
+Però personalmente non vedo cose utilissime.
+
+476
+00:31:20,040 --> 00:31:25,560
+Diciamo, è possibile aggiungere commenti, è possibile archiviare e quindi comprimere e
+
+477
+00:31:25,560 --> 00:31:30,440
+decomprimere, ma sono cose che abitualmente io non ho mai utilizzato.
+
+478
+00:31:30,440 --> 00:31:37,240
+È possibile aprire o mostrare nel finder un documento o creare addirittura
+
+479
+00:31:37,240 --> 00:31:43,400
+delle alias, le funzioni più potenti, ma che richiedono un minimo di
+
+480
+00:31:43,400 --> 00:31:49,360
+competenza, sono invece la possibilità di far partire un comando rapido, run
+
+481
+00:31:49,520 --> 00:31:57,680
+shortcut, oppure lanciare un Apple script, un JavaScript, un automator Workflow o
+
+482
+00:31:57,680 --> 00:32:03,040
+una Shell script, è ovvio che qui sono richieste comunque un minimo
+
+483
+00:32:03,040 --> 00:32:07,920
+di cognizioni di alto livello per fare tutte queste cose qui.
+
+484
+00:32:07,920 --> 00:32:13,600
+Per esempio, la famosa regola di autoarchiviazione delle email funziona attraverso un
+
+485
+00:32:13,600 --> 00:32:18,080
+Apple Script, proprio perché in pratica tra i vari dati che estrapolo
+
+486
+00:32:18,080 --> 00:32:23,600
+c'è il numero della pratica, e a fronte di quello, genero grazie
+
+487
+00:32:23,600 --> 00:32:26,880
+a un Apple Script il percorso finale dove poi devi andare a
+
+488
+00:32:26,880 --> 00:32:33,040
+salvare il file Ezel, però o meglio, probabilmente lo fare direttamente l'Apple
+
+489
+00:32:33,200 --> 00:32:38,640
+script, lo spostamento del file, però comunque il concetto è siccome io
+
+490
+00:32:38,640 --> 00:32:44,400
+so che in ogni cartella della pratica, diciamo, c'è una sottocartella che
+
+491
+00:32:44,400 --> 00:32:48,880
+ha lo stesso, perché la 0,5 che è corrispondenza, deve essere una
+
+492
+00:32:48,880 --> 00:32:54,480
+roba del genere, strapolando sapendo l'origine, diciamo dove stanno tutte le mie
+
+493
+00:32:54,480 --> 00:32:55,040
+pratiche.
+
+494
+00:32:55,040 --> 00:33:01,520
+Quindi sapendo la rute di partenza con tutto l'albero di arrivo, sapendo
+
+495
+00:33:01,520 --> 00:33:06,000
+il numero della pratica, sapendo che va a finire il file ML
+
+496
+00:33:06,160 --> 00:33:10,480
+finisce sempre nello stesso posto, nella sottocartella nello stesso posto per ogni
+
+497
+00:33:10,480 --> 00:33:11,120
+pratica.
+
+498
+00:33:11,120 --> 00:33:14,160
+Lui va a vedere se esiste la pratica e se esiste la
+
+499
+00:33:14,160 --> 00:33:17,200
+pratica, a quel punto lì me la salva in quella sottocartella.
+
+500
+00:33:17,200 --> 00:33:21,920
+E ovviamente non era fattibile una regola di Ezzel così dettagliata e
+
+501
+00:33:21,920 --> 00:33:26,080
+così specifica, per cui ho creato un Apple Script per fare tutta
+
+502
+00:33:26,080 --> 00:33:30,000
+questa operazione che altrimenti era impossibile da fare.
+
+503
+00:33:30,280 --> 00:33:33,800
+Ovviamente c'è anche la possibilità di avere delle notifiche quindi anche qui
+
+504
+00:33:33,960 --> 00:33:36,200
+comoda, io abitualmente
+
+505
+00:33:37,400 --> 00:33:43,000
+lo trovo scomodo nel senso che non è utile vedere tutte le
+
+506
+00:33:43,000 --> 00:33:47,880
+notifiche di una che è partita un'azione automatica di Lesel.
+
+507
+00:33:47,880 --> 00:33:52,760
+Tuttavia, in alcuni casi può diventare comodo sapere che è stato spostato
+
+508
+00:33:52,760 --> 00:33:55,640
+il file da qui a là, per esempio.
+
+509
+00:33:55,640 --> 00:34:02,440
+Quindi, come dicevo, è veramente potente come sistema, e nella sostanza, poi
+
+510
+00:34:02,440 --> 00:34:07,240
+adesso non l'abbiamo detto in maniera molto chiara prima, ma credo che
+
+511
+00:34:07,240 --> 00:34:08,680
+sia evidente.
+
+512
+00:34:09,640 --> 00:34:13,560
+La caratteristica tipica, secondo me, di utilità di Hazel è quella di
+
+513
+00:34:13,560 --> 00:34:20,040
+archiviazione digitale, perché appunto puoi rinominare file, a elabolare secondo modelli, estrapolare
+
+514
+00:34:20,040 --> 00:34:25,160
+i dati da un PDF, spostare i documenti, datare in maniera automatica
+
+515
+00:34:25,160 --> 00:34:28,680
+i documenti, gestire anche la musica e le foto.
+
+516
+00:34:28,680 --> 00:34:31,960
+Perché ovviamente adesso io non l'ho detto, perché sono cose che io
+
+517
+00:34:31,960 --> 00:34:36,200
+ormai non faccio più da tanto tempo, nel senso che il grosso
+
+518
+00:34:36,200 --> 00:34:40,600
+delle foto vengono dall'iPhone e sono sincronizzate via i cloud in automatico.
+
+519
+00:34:40,600 --> 00:34:45,000
+Però, una volta quando, non so, avevi le macchine fotografiche da cui
+
+520
+00:34:45,000 --> 00:34:51,240
+scaricavi le foto, ti permetteva, per esempio, di sincronizzarle direttamente all'interno della
+
+521
+00:34:51,240 --> 00:34:54,680
+libreria di foto e fare tutte le varie cose che c'hanno da
+
+522
+00:34:54,760 --> 00:35:00,200
+fare, quindi diventa molto molto comodo fare cose di questo genere.
+
+523
+00:35:00,200 --> 00:35:03,960
+L'ultima cosa che dico, perché secondo me è molto interessante.
+
+524
+00:35:03,960 --> 00:35:08,200
+Adesso è difficile spiegarlo, ovviamente in un podcast, quindi andrò a volo
+
+525
+00:35:08,280 --> 00:35:13,320
+d'uccello perché però sono le funzioni veramente più interessanti di Hazel e
+
+526
+00:35:13,320 --> 00:35:20,000
+quelle che io consiglio di approfondire e studiare, sono i cosiddetti modelli
+
+527
+00:35:20,000 --> 00:35:24,720
+denominati propri, cioè come dicevo prima si possono utilizzare questi token.
+
+528
+00:35:25,040 --> 00:35:31,600
+Questi token possono diventare appunto delle espressioni regolari complesse che
+
+529
+00:35:32,800 --> 00:35:36,640
+possono essere raggruppati, chiamiamole in questa maniera.
+
+530
+00:35:36,960 --> 00:35:40,480
+Quindi, cosa significa tutto questo?
+
+531
+00:35:40,480 --> 00:35:45,120
+Significa che, appunto, per esempio, posso strapolare una data da un documento
+
+532
+00:35:45,120 --> 00:35:49,680
+o riformattare la data, per esempio, per la rinomina di questo documento.
+
+533
+00:35:49,680 --> 00:35:51,200
+Quindi, io cosa faccio?
+
+534
+00:35:51,200 --> 00:35:56,640
+Semplicemente creo una sorta di token generale, denominato data, o quello che
+
+535
+00:35:56,640 --> 00:36:01,120
+voglio io, tendo a precisare, utilizzando i micro token.
+
+536
+00:36:01,280 --> 00:36:04,640
+E a questo punto, siccome appunto è la data, io la posso
+
+537
+00:36:04,640 --> 00:36:05,920
+riformattare come voglio.
+
+538
+00:36:05,920 --> 00:36:09,840
+Quindi, non so, io voglio la data invece di avere il 2023,
+
+539
+00:36:09,840 --> 00:36:13,680
+voglio 23 e basta perché il 2000 lo do per scontato, a
+
+540
+00:36:13,680 --> 00:36:18,960
+fronte del fatto che ho catturato il 2023 all'inizio nella data, nella
+
+541
+00:36:18,960 --> 00:36:23,600
+rinomina del file, posso dire utilizza la data che hai catturato, ma
+
+542
+00:36:23,600 --> 00:36:26,400
+riformattala in questa maniera che ti dico io.
+
+543
+00:36:26,400 --> 00:36:30,960
+E questo attraverso appunto questi testi personalizzati specifici.
+
+544
+00:36:30,960 --> 00:36:35,920
+Anche qui, siccome per esempio, il pattern è un numero e la
+
+545
+00:36:35,920 --> 00:36:40,400
+lettera F per le mie pratiche, è ovvio che io posso dire
+
+546
+00:36:40,400 --> 00:36:44,160
+che questo pattern, cioè un numero che può essere da 0 a
+
+547
+00:36:44,160 --> 00:36:49,880
+1000, più la F maiuscola, sono il nome della pratica, e quindi
+
+548
+00:36:49,920 --> 00:36:53,840
+me lo vai a questo punto, diventa una sorta di variabile, e
+
+549
+00:36:53,840 --> 00:36:58,320
+quindi io la posso spostare o inserire dove voglio io e come
+
+550
+00:36:58,320 --> 00:36:59,200
+mi impara a me.
+
+551
+00:36:59,200 --> 00:37:05,080
+Quindi, ci sono veramente tante modalità, diciamo di gestione di questa cosa.
+
+552
+00:37:05,080 --> 00:37:11,640
+Adesso poi se ci sarà tempo nella note dell'episodio, casomai, inserisco nel
+
+553
+00:37:11,640 --> 00:37:18,040
+dettaglio alcuni dei dati che ho estrapolato dal manuale dell'elp, chiamiamolo così,
+
+554
+00:37:18,040 --> 00:37:21,080
+che è una sorta di manuale di Ezel che è molto dettagliato
+
+555
+00:37:21,080 --> 00:37:27,240
+e anzi, consiglio, conosce diciamo l'inglese ovviamente di andare a approfondire perché
+
+556
+00:37:27,240 --> 00:37:31,880
+proprio l'Help di Ezel ti fa vedere in maniera molto dettagliata come
+
+557
+00:37:31,880 --> 00:37:37,160
+funzionano tutti questi token, questi match e come gestire appunto questi pattern
+
+558
+00:37:37,480 --> 00:37:43,000
+per poi creare queste operazioni anche abbastanza complesse, ma che sono il
+
+559
+00:37:43,000 --> 00:37:47,560
+vero potere e secondo me, il vero vantaggio di utilizzare Ezel in
+
+560
+00:37:47,560 --> 00:37:48,280
+questa maniera.
+
+561
+00:37:48,280 --> 00:37:51,560
+Sono stato bravo o hande, Roberto
+
+562
+00:37:53,160 --> 00:37:55,800
+sei stranamente silente.
+
+563
+00:37:56,040 --> 00:38:00,760
+Ma perché è un'applicazione che non conosco bene, fa un sacco di
+
+564
+00:38:00,760 --> 00:38:06,520
+cose che francamente non trovo utile per adesso nel mio workflow che
+
+565
+00:38:06,520 --> 00:38:08,760
+ho normalmente sul mio hard disk.
+
+566
+00:38:08,760 --> 00:38:15,080
+Diciamo che sono già abbastanza normalmente ordinato, chiamiamolo così, nel senso che
+
+567
+00:38:15,080 --> 00:38:18,840
+diciamo faccio io il lavoro che fa Ez, ma mi viene naturale.
+
+568
+00:38:18,840 --> 00:38:22,200
+Nel senso mi viene naturale fare questo tipo di lavoro e forse
+
+569
+00:38:22,200 --> 00:38:24,280
+non ne sento l'esigenza per questo.
+
+570
+00:38:24,280 --> 00:38:29,880
+Ma mi rendo conto che forse in un'altra mentalità avere un aiuto
+
+571
+00:38:29,880 --> 00:38:32,200
+di questo tipo, perché è un grossissimo aiuto.
+
+572
+00:38:32,200 --> 00:38:37,960
+Ricordo che, come dicevo all'inizio della puntata, la questione dell'archiviazione delle mail
+
+573
+00:38:37,960 --> 00:38:42,120
+non è così banale come sembra, nel senso che anche io utilizzo
+
+574
+00:38:42,120 --> 00:38:45,360
+un metodo simile a quello di Filippo, ma nel momento in cui
+
+575
+00:38:45,360 --> 00:38:46,320
+inizio a fare
+
+576
+00:38:47,360 --> 00:38:52,080
+un'archiviazione manuale mi rendo conto che porta via davvero un sacco di
+
+577
+00:38:52,080 --> 00:38:52,400
+tempo.
+
+578
+00:38:52,400 --> 00:38:56,480
+E avere un aiuto di questo tipo all'interno del vostro computer vi
+
+579
+00:38:56,480 --> 00:38:58,800
+può veramente cambiare la vita.
+
+580
+00:38:58,800 --> 00:39:03,440
+Stavo addirittura pensando in questo momento che in effetti avendo questa possibilità
+
+581
+00:39:03,440 --> 00:39:09,440
+di prendere dei dati da delle tabelle potrebbe magari diventare utile nel
+
+582
+00:39:09,440 --> 00:39:13,680
+caso dei Beam Specialist nell'ambiente dell'architettura.
+
+583
+00:39:13,680 --> 00:39:20,640
+Perché quello che hai nominato essenzialmente le capacità di filtraggio dei file
+
+584
+00:39:20,800 --> 00:39:25,520
+sono essenzialmente quello che fa un software di Beam Autoring per quanto
+
+585
+00:39:25,520 --> 00:39:30,880
+riguarda le caratteristiche che ci sono all'interno di un modello tridimensionale Beam.
+
+586
+00:39:31,280 --> 00:39:36,720
+Quello che poteva essere interessante, ad esempio, poteva funzionare come un viene
+
+587
+00:39:36,720 --> 00:39:43,120
+cambiatore, non è giusto un elemento software che ti cambia delle caratteristiche
+
+588
+00:39:43,360 --> 00:39:46,720
+di un oggetto utilizzando appunto queste tabelle.
+
+589
+00:39:46,720 --> 00:39:50,720
+È un discorso un po' molto borderline perché non so neanche se
+
+590
+00:39:50,720 --> 00:39:56,080
+c'è la possibilità di farlo, ma diciamo che mentre parlavi, era un
+
+591
+00:39:56,080 --> 00:40:00,560
+possibile utilizzo che si può avere avendo, non dico un database, però
+
+592
+00:40:00,640 --> 00:40:04,320
+tu hai una specie di elenco di caratteristiche che può diventare un
+
+593
+00:40:04,320 --> 00:40:10,640
+database, e tu potresti eseguire delle azioni, delle manipolazioni su questo database,
+
+594
+00:40:10,640 --> 00:40:14,320
+sempre tra virgolette, perché non è un database, si tratta semplicemente di
+
+595
+00:40:14,320 --> 00:40:19,040
+un insieme ordinato di dati, chiamiamolo così, anche in un formato Excel.
+
+596
+00:40:19,040 --> 00:40:22,480
+E questa capacità che può avere Aze potrebbe essere una cosa interessante.
+
+597
+00:40:22,640 --> 00:40:27,280
+Ne devo approfondire con qualche amico, ho già in mente, qualche nome,
+
+598
+00:40:27,280 --> 00:40:31,400
+per riuscire ad approfondire questo argomento e l'utilizzo di questo applicativo.
+
+599
+00:40:31,640 --> 00:40:36,680
+Dal punto di vista del utilizzo anche per l'archiviazione, è molto più
+
+600
+00:40:36,680 --> 00:40:39,080
+facile, come può essere per esempio quella delle bollette team.
+
+601
+00:40:39,320 --> 00:40:45,800
+Nel senso, se ti arriva una bolletta team, lo metti all'ownloader che
+
+602
+00:40:45,800 --> 00:40:46,120
+ti
+
+603
+00:40:47,240 --> 00:40:52,360
+monitorizza la cartella download, riconosce che è della team, riconosce la data,
+
+604
+00:40:52,360 --> 00:40:54,440
+ti mette la data nel file, te lo prende e te lo
+
+605
+00:40:54,440 --> 00:40:57,960
+sposta nella cartella e insomma fa tutto da solo, non devi fare
+
+606
+00:40:57,960 --> 00:40:58,440
+niente.
+
+607
+00:40:58,440 --> 00:41:01,160
+È una grandissima mano che ti può dare.
+
+608
+00:41:01,160 --> 00:41:04,120
+Io questa cosa qua, ad esempio, la faccio a manina proprio col
+
+609
+00:41:04,200 --> 00:41:05,080
+mio mouse.
+
+610
+00:41:05,080 --> 00:41:09,160
+Viene naturale spostare queste cose, ma mi rendo conto che già quei
+
+611
+00:41:09,160 --> 00:41:14,680
+due minuti moltiplicati per 12 mesi comincia già a fare un bel
+
+612
+00:41:14,680 --> 00:41:20,200
+guadagno di tempo personale e se questo lo estendete a tutto quello
+
+613
+00:41:20,200 --> 00:41:23,880
+che fate può diventare davvero molto molto interessante.
+
+614
+00:41:23,880 --> 00:41:28,760
+Da parte mia, comunque continuo a ritenere, per il mio uso, io
+
+615
+00:41:28,760 --> 00:41:31,640
+sono quello diciamo, meno geek tra me e Filippo.
+
+616
+00:41:31,640 --> 00:41:36,360
+Diciamo che già il fatto di mettermi lì e pensare a riuscire
+
+617
+00:41:36,360 --> 00:41:40,040
+a mettere giù una regola che funzioni e non faccia danni, già
+
+618
+00:41:40,120 --> 00:41:41,400
+mi fermo un po'.
+
+619
+00:41:41,400 --> 00:41:48,680
+È una mia personale diciamo non predisposizione, anzi indisposizione a questo tipo
+
+620
+00:41:48,680 --> 00:41:49,960
+di automatismi.
+
+621
+00:41:49,960 --> 00:41:54,520
+Faccia davvero una gran fatica, ma più che altro perché forse ho
+
+622
+00:41:54,520 --> 00:42:00,280
+paura di scontrarmi contro qualcosa che è molto simile, chiamiamola così, alla
+
+623
+00:42:00,280 --> 00:42:01,240
+programmazione.
+
+624
+00:42:01,240 --> 00:42:06,600
+Perché bisogna far capire al computer un'azione semplice, come potrebbe essere in
+
+625
+00:42:06,600 --> 00:42:11,960
+effetti quello di conoscere all'interno di una bolletta team la data per
+
+626
+00:42:11,960 --> 00:42:16,320
+riuscire poi a recuperarla e inserirla all'interno del nome del file.
+
+627
+00:42:16,560 --> 00:42:20,640
+Già mi viene mal di testa, pensarci perché devo cercare di tu
+
+628
+00:42:20,640 --> 00:42:25,680
+consideri che lo fai in automatico adesso, va a cercare.
+
+629
+00:42:25,680 --> 00:42:28,800
+Le date sono un pattern abbastanza standard.
+
+630
+00:42:28,960 --> 00:42:33,920
+Quindi abitualmente dico abitualmente perché non è detto che funzioni su tutti
+
+631
+00:42:33,920 --> 00:42:38,320
+i fronti, però già mentre prima dovevi farlo, chiamiamolo così tua manina,
+
+632
+00:42:38,320 --> 00:42:42,800
+mettiamola in questi termini, anche se non era poi un'attività, ovvio che,
+
+633
+00:42:42,800 --> 00:42:50,640
+per esempio, appunto una data scritta 10 Feb 2023, 10 febbraio 2023
+
+634
+00:42:50,640 --> 00:42:52,160
+o 10.02
+
+635
+00:42:53,360 --> 00:42:58,800
+3, sono sempre tutte date, ma sono modelli differenti di data.
+
+636
+00:42:58,800 --> 00:43:03,440
+Una volta dovevi se avevi la prima bolletta della telecom, chiamiamola così,
+
+637
+00:43:03,440 --> 00:43:07,760
+e meno male se è una bolletta, se è qualcosa di ripetuto
+
+638
+00:43:08,000 --> 00:43:14,560
+e standardizzato, è difficile che cambi la datazione, cioè come viene scritta
+
+639
+00:43:14,560 --> 00:43:17,280
+la data è da una bolletta all'altra, a meno che non vengano
+
+640
+00:43:17,280 --> 00:43:19,520
+fatte delle nuove impaginazioni e così via.
+
+641
+00:43:19,600 --> 00:43:24,240
+Quindi potevi comunque strapolare a mano, diciamo, quel pattern.
+
+642
+00:43:24,240 --> 00:43:33,040
+Adesso sulle date abitualmente le strappola da solo, quindi ti semplifica ulteriormente
+
+643
+00:43:33,200 --> 00:43:36,160
+la vita su questo fronte.
+
+644
+00:43:36,160 --> 00:43:40,000
+Per cui secondo me è molto comodo, e mentre ne parlavi, mi
+
+645
+00:43:40,000 --> 00:43:44,560
+è venuto in mente anche un'altra cosa molto comoda: Ezel ha una
+
+646
+00:43:44,560 --> 00:43:50,960
+funzione di preview della regola: cioè a fronte delle condizioni, tu gli
+
+647
+00:43:50,960 --> 00:43:55,440
+dici osserva questo file, cioè tu gli dici proprio il file bolletta
+
+648
+00:43:55,440 --> 00:44:01,640
+Telecom, adesso la inventiamo, deve avere dentro scritto team, deve aver dentro
+
+649
+00:43:59,840 --> 00:44:05,320
+estrapolare la data, deve avere tutta una serie di caratteristiche.
+
+650
+00:44:05,480 --> 00:44:10,360
+Ed è ovvio che, per esempio, non basta fare una regola dove
+
+651
+00:44:10,360 --> 00:44:13,960
+cerca team, cerca la data, e fine la vicenda.
+
+652
+00:44:13,960 --> 00:44:15,400
+Non so se mi spiego.
+
+653
+00:44:15,400 --> 00:44:20,120
+Ma abitualmente io quello che faccio è ricercare qualcosa di più, per
+
+654
+00:44:20,120 --> 00:44:23,240
+esempio, non so, ha il mio nome, quindi è intestata a me,
+
+655
+00:44:23,240 --> 00:44:24,280
+è intestata.
+
+656
+00:44:24,280 --> 00:44:30,040
+Per esempio, io avevo la boletta sia dell'ufficio dell'El che di casa,
+
+657
+00:44:30,440 --> 00:44:32,680
+che ovviamente dovevano andare in posti differenti.
+
+658
+00:44:32,680 --> 00:44:35,160
+Non so se mi spiego come archiviazione.
+
+659
+00:44:35,160 --> 00:44:39,720
+Quindi, a fronte, per esempio, dell'indirizzo di casa piuttosto che dell'indirizzo d'ufficio,
+
+660
+00:44:39,720 --> 00:44:45,240
+potevo smistarle e quindi avevo più fattori e quindi solitamente una regola
+
+661
+00:44:45,240 --> 00:44:50,600
+deve essere strutturata in maniera da rendere, chiamiamolo così, il match univoco,
+
+662
+00:44:50,600 --> 00:44:55,240
+nel senso che, ho più bollette della telecom, una di tua moglie
+
+663
+00:44:55,240 --> 00:44:56,840
+e una tua, per esempio.
+
+664
+00:44:56,840 --> 00:45:01,080
+È ovvio che deve essere intestata presumibilmente a soggetti diversi.
+
+665
+00:45:01,240 --> 00:45:06,280
+Quindi in quel caso ho partita IVA diversa, per esempio, ho codici
+
+666
+00:45:06,280 --> 00:45:07,320
+clienti diversi.
+
+667
+00:45:07,480 --> 00:45:11,320
+Quindi tu non vai solo a prendere il nome Telecom, ma dici
+
+668
+00:45:11,320 --> 00:45:17,000
+anche quella del cliente 001 piuttosto che del cliente 002, hai capito?
+
+669
+00:45:17,000 --> 00:45:20,680
+E in questa maniera appunto c'è questa preview per cui ti dice:
+
+670
+00:45:20,680 --> 00:45:25,800
+sì, questo file qui fa il check quindi alla spunta verde, chiamiamola
+
+671
+00:45:25,800 --> 00:45:26,760
+in questi termini.
+
+672
+00:45:26,760 --> 00:45:31,000
+Per la prima regola, la seconda regola, la terza regola.
+
+673
+00:45:31,000 --> 00:45:36,040
+Se tutte le regole ovviamente sono spuntate, allora sai che il match
+
+674
+00:45:36,040 --> 00:45:40,200
+è completo e quindi l'azione partirà, e quindi hai già anche le
+
+675
+00:45:40,280 --> 00:45:43,640
+maggiori certezze, diciamo che tutto funzioni correttamente.
+
+676
+00:45:43,640 --> 00:45:46,080
+Solitamente all'inizio cosa si fa?
+
+677
+00:45:46,080 --> 00:45:52,560
+Io abitualmente faccio una regola di prova su una cartella, chiamiamola così
+
+678
+00:45:52,560 --> 00:45:55,840
+di prova, ci butto dentro i file e vedo che cosa fa.
+
+679
+00:45:55,840 --> 00:46:00,320
+Poi ovvio che quando sono relativamente tranquillo, che quello che deve fare,
+
+680
+00:46:00,320 --> 00:46:04,480
+lo fa e non mi fa cose strane, a quel punto lì
+
+681
+00:46:04,480 --> 00:46:09,760
+la prendo quella regola e la invece imposto sulla cartella dove poi
+
+682
+00:46:10,000 --> 00:46:12,800
+vanno a finire tutti i file e dove si devono muovere tutti
+
+683
+00:46:12,800 --> 00:46:13,840
+i file.
+
+684
+00:46:13,840 --> 00:46:18,080
+E su questo argomento, visto che non abbiamo parlato effettivamente, perché questo
+
+685
+00:46:18,240 --> 00:46:22,320
+giro ho fatto una mappa mentale circolare, ma ragioniamo anche su come
+
+686
+00:46:22,320 --> 00:46:26,960
+si presenta questa applicazione, perché è effettivamente un po' particolare come sistema.
+
+687
+00:46:27,200 --> 00:46:31,840
+Diciamo che una volta che l'apriamo la prima volta, oltre a avere
+
+688
+00:46:31,840 --> 00:46:35,360
+la possibilità di avere, se vogliamo, delle regole di base giusto per
+
+689
+00:46:35,360 --> 00:46:39,200
+vedere come funzionano e per avere delle idee, abbiamo una prima colonna
+
+690
+00:46:39,360 --> 00:46:43,600
+che è la colonna dove sono le cartelle da monitorare sostanzialmente.
+
+691
+00:46:43,600 --> 00:46:49,600
+Quindi, nel mio caso specifico, per esempio, ho download desktop e notifica
+
+692
+00:46:49,600 --> 00:46:50,400
+mezzo pack, perché
+
+693
+00:46:51,520 --> 00:46:57,280
+ho fatto dei test per fare un'automazione per creare notifica mezzo pack.
+
+694
+00:46:57,280 --> 00:46:59,520
+Poi ho usato comandi rapidi e nonese.
+
+695
+00:46:59,520 --> 00:47:01,680
+Ma questo è un altro discorso, ancora.
+
+696
+00:47:02,000 --> 00:47:08,720
+Ovviamente selezionando la cartella specifica, quindi download piuttosto che desktop, c'è una
+
+697
+00:47:08,720 --> 00:47:12,880
+seconda colonna centrale dove invece ci sono le singole regole.
+
+698
+00:47:12,880 --> 00:47:16,640
+Singole regole che possono essere attivate o disattivate.
+
+699
+00:47:16,640 --> 00:47:21,600
+Quindi, anche qui, se per esempio abbiamo creato una regola perché avevamo
+
+700
+00:47:21,600 --> 00:47:25,680
+centinaia di file che volevamo rinominare, ma poi non ci serve più,
+
+701
+00:47:25,680 --> 00:47:30,280
+la possiamo disattivare di modo che anche casualmente c'è un file che
+
+702
+00:47:29,520 --> 00:47:32,280
+ha qualcosa di simile a quegli altri file
+
+703
+00:47:32,600 --> 00:47:34,440
+che avevamo lavorato.
+
+704
+00:47:29,840 --> 00:47:37,160
+Questa regola non va, non funziona e quindi siamo a posto.
+
+705
+00:47:37,400 --> 00:47:41,240
+Poi la finestra la parte più grande della finestra, dopo invece, è
+
+706
+00:47:41,240 --> 00:47:45,880
+come si struttura la regola vera e propria, che è sostanzialmente divisa
+
+707
+00:47:46,280 --> 00:47:52,360
+in due macro aree: la parte di if, cioè se tutte o
+
+708
+00:47:52,360 --> 00:47:58,040
+alcune delle seguenti condizioni sono avverate,
+
+709
+00:47:59,160 --> 00:48:02,760
+qui appunto abbiamo le famose condizioni, il nome del file o il
+
+710
+00:48:02,760 --> 00:48:05,800
+contenuto del file, a questo piuttosto che quest'altro.
+
+711
+00:48:05,960 --> 00:48:10,200
+Ed è molto semplice perché quando tu mi dicevi io non sono
+
+712
+00:48:10,200 --> 00:48:16,840
+un programmatore, la cosa bella di Hesel di fatto, diciamo tu potresti
+
+713
+00:48:16,840 --> 00:48:21,320
+fare tutte queste cose qui con un programmino in Python piuttosto che
+
+714
+00:48:21,320 --> 00:48:26,200
+in JavaScript o robe simili, perché nella sostanza si può fare tranquillamente
+
+715
+00:48:26,200 --> 00:48:29,080
+con un linguaggio di programmazione, tutta questa roba qua.
+
+716
+00:48:29,080 --> 00:48:32,120
+La bellezza di Helzel, almeno dal mio punto di vista di non
+
+717
+00:48:32,120 --> 00:48:38,840
+programmatore, è che parla in lingua umana, cioè, per esempio, adesso ti
+
+718
+00:48:38,840 --> 00:48:47,560
+leggo un esempio molto banale: lo spostamento delle catture schermo dopo le
+
+719
+00:48:47,560 --> 00:48:48,600
+24 ore.
+
+720
+00:48:48,600 --> 00:48:53,480
+La regola, come adesso, io ovviamente te la italianizzo, ma in inglese.
+
+721
+00:48:53,480 --> 00:48:59,720
+Quindi, se tutte le seguenti condizioni sono avverate, quindi il tipo di
+
+722
+00:48:59,720 --> 00:49:05,320
+file è un'immagine quindi vedi come è semplice da capire se sono
+
+723
+00:49:05,320 --> 00:49:06,680
+tutte immagini.
+
+724
+00:49:06,680 --> 00:49:09,400
+Ok, è la prima condizione.
+
+725
+00:49:09,400 --> 00:49:13,200
+La seconda condizione è la data creata non è oggi.
+
+726
+00:49:13,200 --> 00:49:20,400
+Quindi, tutte le immagini che sono state create antecedentemente a oggi, allora
+
+727
+00:49:21,760 --> 00:49:28,480
+fai la seguente cosa ai file o alle cartelle corrisponde ovviamente le
+
+728
+00:49:28,480 --> 00:49:30,640
+condizioni avverate.
+
+729
+00:49:30,880 --> 00:49:37,600
+In questo caso specifico muovi file nel caso nella cartella schermate.
+
+730
+00:49:37,600 --> 00:49:42,080
+Questa è una regola di Edel molto semplice da leggere, da capire,
+
+731
+00:49:42,080 --> 00:49:44,240
+da riprodurre, anche se vogliamo.
+
+732
+00:49:44,240 --> 00:49:49,120
+Ovviamente, questa è una regola molto basilare, ma la bellezza di tutto
+
+733
+00:49:49,120 --> 00:49:54,320
+ciò è proprio questo: cioè che appunto abbiamo un sistema che non
+
+734
+00:49:54,320 --> 00:49:55,920
+richiede un vero programmatore.
+
+735
+00:49:55,920 --> 00:49:59,440
+Poi ovvio che se iniziamo a fare, non so, già la cattura
+
+736
+00:49:59,440 --> 00:50:04,960
+delle immagini della data piuttosto che ma anche qui adesso non ho
+
+737
+00:50:05,200 --> 00:50:09,520
+un'immagine da far vedere, diciamo, e quindi da descriverti.
+
+738
+00:50:09,520 --> 00:50:15,440
+Ma il sistema, diciamo, per fare questa strapolazione dei dati è relativamente
+
+739
+00:50:15,440 --> 00:50:21,120
+intuitiva, di fatto tu trascini i quadratini, diciamo, che contengono, per esempio,
+
+740
+00:50:21,120 --> 00:50:24,560
+il simbolo che vuoi catturare piuttosto che è una lettera, è un
+
+741
+00:50:24,560 --> 00:50:28,480
+numero è un numero o una lettera è un simbolo, e quindi
+
+742
+00:50:28,480 --> 00:50:30,480
+aiutano, facilitano molto.
+
+743
+00:50:30,480 --> 00:50:36,160
+L'utente inesperto, appunto sono tutte abitualmente espressioni regolari.
+
+744
+00:50:36,160 --> 00:50:40,800
+Infatti, quando ho finalmente imparato cosa sono le espressioni regolari e come
+
+745
+00:50:40,800 --> 00:50:45,360
+funzionano, e non ne affatto un discorso simile a questo, ok.
+
+746
+00:50:46,160 --> 00:50:50,480
+Mi sono trovato, cioè, questa palestra che avevo già fatto con Hazel
+
+747
+00:50:51,120 --> 00:50:56,080
+di cercare appunto dei determinati appunto modelli all'interno di un test, mi
+
+748
+00:50:56,080 --> 00:50:57,120
+ha aiutato molto.
+
+749
+00:50:57,120 --> 00:51:02,040
+Soltanto che qui in Hedel tutto è possibile farlo senza avere tutte
+
+750
+00:50:59,920 --> 00:51:05,080
+queste conoscenze informatiche a monte.
+
+751
+00:51:05,240 --> 00:51:09,480
+È ovvio che un minimo qualcosa bisogna sapere, non si può andare
+
+752
+00:51:09,480 --> 00:51:11,080
+totalmente allo sbaraglio.
+
+753
+00:51:11,320 --> 00:51:16,840
+Io direi che abbiamo fatto la nostra solita ora, quindi chiudevo facendo
+
+754
+00:51:16,840 --> 00:51:21,160
+alcuni esempi, perché appunto ovviamente lo uso molto.
+
+755
+00:51:21,160 --> 00:51:24,920
+Proprio perché, secondo me, per esempio, tu non hai le esigenze che
+
+756
+00:51:24,920 --> 00:51:29,080
+ho io di archiviazione digitale, ho digitalizzato tutto l'ufficio.
+
+757
+00:51:29,080 --> 00:51:34,920
+Premessa, se no, uno degli strumenti che mi ha permesso di digitalizzare
+
+758
+00:51:34,920 --> 00:51:37,480
+tutto l'ufficio è stato proprio Ezel.
+
+759
+00:51:37,480 --> 00:51:42,200
+Infatti, io, appunto, tra le varie risorse, ci sono i corsi di
+
+760
+00:51:42,200 --> 00:51:48,840
+David Spark su Ezel, che sono state le basi da cui poi
+
+761
+00:51:48,840 --> 00:51:52,680
+ho imparato tutte le cose che ti ho raccontato io oggi.
+
+762
+00:51:53,000 --> 00:51:56,120
+Poi, ovviamente, pian pianino impari le cose
+
+763
+00:51:58,520 --> 00:52:03,320
+, piano piano, migliori e ti rendi autonomo.
+
+764
+00:52:03,320 --> 00:52:07,160
+Cioè, per esempio, l'archivazione delle email è una cosa che ho, tra
+
+765
+00:52:07,160 --> 00:52:11,400
+virgolette, inventato io perché è una mia esigenza, già lo facevo, ma
+
+766
+00:52:11,400 --> 00:52:12,280
+ogni volta
+
+767
+00:52:13,480 --> 00:52:17,400
+non l'ho detto, però credo che sia utile come ragionamento di fondo.
+
+768
+00:52:17,560 --> 00:52:20,520
+Io fino a che non ho creato la regola per dominarle tutte
+
+769
+00:52:20,600 --> 00:52:22,120
+come la chiamo io.
+
+770
+00:52:22,120 --> 00:52:23,800
+Ovviamente cosa facevo?
+
+771
+00:52:24,680 --> 00:52:28,520
+Per ogni nuova pratica che avevo, creavo una regola che di fatto,
+
+772
+00:52:28,520 --> 00:52:33,400
+cioè duplicavo la medesima regola, diciamo, cambiando il numero della pratica e
+
+773
+00:52:33,480 --> 00:52:37,480
+ovviamente andando a cambiare la cartella dove andava a salvarmi le mail
+
+774
+00:52:37,480 --> 00:52:38,760
+della pratica.
+
+775
+00:52:38,760 --> 00:52:41,480
+Soltanto che questo aveva due grossi problemi.
+
+776
+00:52:41,480 --> 00:52:45,000
+Uno, ovviamente dovevo farlo ed era uno sbatto infinito.
+
+777
+00:52:45,120 --> 00:52:49,200
+Due, se mi ricordavo di farlo, avevo delle pratiche che venivano archiviate
+
+778
+00:52:49,200 --> 00:52:53,200
+in automatico e delle altre che mi rimanevano nelle mail da archiviare
+
+779
+00:52:53,200 --> 00:52:56,400
+per una vita fino a quando dicevo: cacchio, dove sono finite tutte
+
+780
+00:52:56,400 --> 00:53:01,200
+le mail che avevo archiviato, mi accorgevo di non averle archiviate, prendevo,
+
+781
+00:53:01,200 --> 00:53:02,720
+spostavo e facevo.
+
+782
+00:53:02,720 --> 00:53:07,360
+Invece, in questa maniera, in pratica, ho automatizzato tutto, cioè, basta solo
+
+783
+00:53:07,360 --> 00:53:12,640
+che la cartella esista, e in automatico me la archivia tutto e
+
+784
+00:53:12,640 --> 00:53:16,640
+quindi con una sola regola riesco a archiviare tutte le mail di
+
+785
+00:53:16,640 --> 00:53:20,800
+tutte le potenziali pratiche presenti e future che utilizzo.
+
+786
+00:53:20,800 --> 00:53:23,840
+Ed è per questo che ho creato questa cosa che è decisamente
+
+787
+00:53:23,840 --> 00:53:28,080
+più complicata del sistema originario che utilizzavo.
+
+788
+00:53:28,080 --> 00:53:31,760
+Ma appunto sono andato avanti per degli anni con questo sistema che
+
+789
+00:53:31,760 --> 00:53:35,680
+era meno evoluto se vuoi, ma comunque che mi permetteva di fare
+
+790
+00:53:35,680 --> 00:53:37,520
+il lavoro e di semplificarmi la vita.
+
+791
+00:53:37,520 --> 00:53:38,800
+Non so se mi spiego.
+
+792
+00:53:39,360 --> 00:53:40,640
+Assolutamente sì.
+
+793
+00:53:40,640 --> 00:53:44,720
+Un'altra cosa utile, per esempio, che ho sempre fatto: appunto, tra gli
+
+794
+00:53:44,720 --> 00:53:49,440
+articoli che ho citato, che metterò nelle episodio, sono i bollettini all'epoca
+
+795
+00:53:49,520 --> 00:53:54,000
+i Mav, ma adesso sono i Pago PA della Cassa Forense.
+
+796
+00:53:54,160 --> 00:54:00,000
+Anche qui dobbiamo pagare la nostra pensione, i file che venivano scaricati,
+
+797
+00:54:00,000 --> 00:54:03,920
+tra l'altro, erano dei nomi astrusi e così via.
+
+798
+00:54:04,400 --> 00:54:06,640
+Ovviamente con questa regola cosa facevo?
+
+799
+00:54:06,640 --> 00:54:11,280
+Rinominavo i file strapolando ovviamente i dati dal bollettino Mav o dal
+
+800
+00:54:11,280 --> 00:54:12,160
+pago PA.
+
+801
+00:54:12,160 --> 00:54:15,600
+Quindi, prima, seconda, terza rata, quando scadeva la rata, quindi ce li
+
+802
+00:54:15,600 --> 00:54:17,600
+avevo tutti belli in ordine e organizzati.
+
+803
+00:54:17,600 --> 00:54:20,200
+E poi mi andavo a finire in una cartella specifica.
+
+804
+00:54:20,200 --> 00:54:24,720
+Così avevo i bollettini da pagare o i pago PA e così
+
+805
+00:54:24,720 --> 00:54:25,200
+via.
+
+806
+00:54:25,200 --> 00:54:28,880
+E dall'altra poi ci posso mettere i pagamenti e quindi avevo tutto
+
+807
+00:54:28,880 --> 00:54:29,680
+nella stessa cartella,
+
+808
+00:54:30,680 --> 00:54:34,200
+tutte le varie attività ed è molto comodo una cosa del genere
+
+809
+00:54:34,360 --> 00:54:40,680
+ed è il tipico sistema automazione e archiviazione che può rendere utile
+
+810
+00:54:40,840 --> 00:54:43,160
+e zele in queste cose.
+
+811
+00:54:43,160 --> 00:54:46,120
+Avevo creato, ma non la uso perché ho creato un servizio.
+
+812
+00:54:46,120 --> 00:54:48,120
+Per esempio, anche qui un'automazione.
+
+813
+00:54:48,760 --> 00:54:55,560
+Mettendo un tag alla cartella, automaticamente creava tutta una serie di sottocartelle
+
+814
+00:54:55,560 --> 00:54:57,640
+a quella cartella e togliere il tag.
+
+815
+00:54:57,640 --> 00:54:59,400
+Quindi, anche qui si possono.
+
+816
+00:54:59,400 --> 00:55:04,200
+Per esempio, i tag può diventare molto comodo perché su macOS a
+
+817
+00:55:04,200 --> 00:55:10,680
+determinati tag puoi corrispondere a determinate azioni e fare lavorare tra virgolette
+
+818
+00:55:10,760 --> 00:55:13,320
+i file utilizzando semplicemente i tag.
+
+819
+00:55:13,560 --> 00:55:16,120
+Altre cose adesso non mi vengono in mente.
+
+820
+00:55:16,120 --> 00:55:17,960
+Comunque ci saranno tutti gli articoli.
+
+821
+00:55:17,960 --> 00:55:21,880
+Sono uno, due, tre, quattro articoli che ho scritto.
+
+822
+00:55:21,880 --> 00:55:27,960
+Ho collezionato anche tutta un'altra serie di articoli di soggetti terzi che
+
+823
+00:55:27,960 --> 00:55:31,080
+possono dare un'idea di base alla vicenda.
+
+824
+00:55:31,240 --> 00:55:37,320
+Credo, ovviamente la fonte migliore se conosci l'inglese è David Spark, ha
+
+825
+00:55:37,320 --> 00:55:38,360
+fatto un corso.
+
+826
+00:55:38,360 --> 00:55:41,000
+Credo che sia intorno ai 30-40 dollari.
+
+827
+00:55:41,240 --> 00:55:48,200
+Dettagliato dalle basi fino a funzioni abbastanza avanzate su Ezzel e quindi
+
+828
+00:55:48,200 --> 00:55:49,000
+è molto utile.
+
+829
+00:55:49,000 --> 00:55:54,120
+Io credo di aver acquistato una delle primissime versioni addirittura dove ti
+
+830
+00:55:54,120 --> 00:55:55,160
+dava solo il video.
+
+831
+00:55:55,160 --> 00:56:00,440
+Adesso David, sostanzialmente, un sistema che usa Teachable, che è questa piattaforma,
+
+832
+00:56:00,440 --> 00:56:03,800
+dove ci sono singoli video, puoi vedere e quindi c'è un percorso
+
+833
+00:56:03,800 --> 00:56:08,040
+abbastanza semplice che tu guardi nel browser lezione dopo lezione, o se
+
+834
+00:56:08,040 --> 00:56:12,040
+ti interessa un argomento specifico, l'argomento specifico, l'unico discorso, ovviamente che tu
+
+835
+00:56:12,040 --> 00:56:12,440
+ti piace.
+
+836
+00:56:12,480 --> 00:56:12,920
+Facci.
+
+837
+00:56:12,560 --> 00:56:15,680
+Ti faccio una domanda: queste regole si possono salvare nel senso, se
+
+838
+00:56:14,920 --> 00:56:15,840
+io.
+
+839
+00:56:16,320 --> 00:56:22,160
+Sì, ovviamente possono essere salvate, importate ed esportate, e addirittura c'è la
+
+840
+00:56:22,160 --> 00:56:23,440
+possibilità di sincronizzare.
+
+841
+00:56:23,440 --> 00:56:26,080
+Devo dirti la verità, io non lo faccio, anzi, me ne ho
+
+842
+00:56:26,240 --> 00:56:31,120
+scordato, bravissimo Roberto, che hai guardato la scaletta o se no, hai
+
+843
+00:56:31,120 --> 00:56:32,880
+fatto la domanda giusta al momento giusto.
+
+844
+00:56:32,880 --> 00:56:40,000
+Io personalmente utilizzo un sistema, chiamiamolo così relativamente razgogolato, ma a fronte
+
+845
+00:56:40,000 --> 00:56:46,080
+di avere almeno tre computer da tenere in sincrono, chiamiamolo così.
+
+846
+00:56:46,080 --> 00:56:50,560
+Quindi, siccome alla fine io lavoro, ho un portatile che uso poco
+
+847
+00:56:50,640 --> 00:56:56,080
+recentemente, ma che ho usato abbastanza nel tempo, ho due computer fissi
+
+848
+00:56:56,080 --> 00:57:00,800
+in una casa e un ufficio per poter lavorare ovviamente, quando voglio.
+
+849
+00:57:00,800 --> 00:57:05,200
+Ovviamente questi tre computer devono sincronizzarsi l'uno con l'altro.
+
+850
+00:57:05,360 --> 00:57:08,880
+Quindi i file che ho sull'uno devo averceli su tutti e tre.
+
+851
+00:57:08,880 --> 00:57:12,800
+E quindi a volte salvo un'email sul computer dell'ufficio, a volte salvo
+
+852
+00:57:12,800 --> 00:57:20,000
+un'email sul computer di casa, a volte salvo un'email sul computer portatile.
+
+853
+00:57:20,000 --> 00:57:23,840
+Per cui ho un quarto computer per complicarmi la vita, diciamo un
+
+854
+00:57:23,840 --> 00:57:27,840
+vecchio Mac che utilizzo come server e lì ci sono tutte le
+
+855
+00:57:27,840 --> 00:57:29,200
+regole di Ezel che vanno.
+
+856
+00:57:29,200 --> 00:57:33,280
+Il vantaggio qual è che avendo il chiamiamo così il server che
+
+857
+00:57:33,280 --> 00:57:37,520
+mi tiene monitorato tutte le cartelle, mi tiene sincronizzato tutto perché è
+
+858
+00:57:37,520 --> 00:57:38,160
+sempre attivo.
+
+859
+00:57:38,320 --> 00:57:41,200
+I computer posso tenerli spenti.
+
+860
+00:57:41,200 --> 00:57:46,480
+Caso ufficio e portatile o non sempre collegati, quando si collegano, però
+
+861
+00:57:46,640 --> 00:57:52,160
+automaticamente, siccome c'è il server acceso, si sincronizzano con il server e
+
+862
+00:57:52,160 --> 00:57:53,680
+quindi cosa succede?
+
+863
+00:57:53,920 --> 00:57:58,320
+I vari computer sincronizzano i dati sul server e poi sul server
+
+864
+00:57:58,320 --> 00:58:02,440
+ci sono c'è solo un programma, cioè
+
+865
+00:57:59,840 --> 00:58:02,680
+solo un
+
+866
+00:58:02,920 --> 00:58:08,360
+Azel che lavora per fare tutto lo spostamento dei dati.
+
+867
+00:58:08,360 --> 00:58:11,240
+Questo degli svantaggi dei vantaggi.
+
+868
+00:58:11,240 --> 00:58:13,960
+Il vantaggio è ovviamente di avere un sistema
+
+869
+00:58:16,120 --> 00:58:21,880
+centralizzato e sempre operativo e quindi, per esempio, anche le automazioni mi
+
+870
+00:58:21,880 --> 00:58:24,120
+funzionano utilizzando l'iPad.
+
+871
+00:58:24,120 --> 00:58:29,560
+Nel senso che se io salvo nelle cartelle sincronizzate, ovviamente automaticamente Ezel
+
+872
+00:58:30,040 --> 00:58:32,760
+lavora sul famoso server.
+
+873
+00:58:32,760 --> 00:58:39,880
+Lo svantaggio è che deve sincronizzarsi tutto e ovviamente dietro il server
+
+874
+00:58:39,880 --> 00:58:43,560
+deve essere acceso e comunque ho tutta una serie di computer che
+
+875
+00:58:43,560 --> 00:58:44,520
+vanno.
+
+876
+00:58:44,840 --> 00:58:50,680
+Altrimenti si potrebbe fare appunto quel discorso della sincronizzazione delle regole, ma
+
+877
+00:58:50,680 --> 00:58:53,160
+il rischio, almeno dal mio punto di vista, è che se hai
+
+878
+00:58:53,160 --> 00:58:56,840
+più computer non sai mai qual è quello acceso e quando parto
+
+879
+00:58:56,840 --> 00:58:58,040
+una regola o meno.
+
+880
+00:58:58,040 --> 00:59:01,240
+Quindi sulla sincronizzazione, io ci sto abbastanza attento.
+
+881
+00:59:01,240 --> 00:59:04,920
+Preferisco avere una macchina che mi faccia da server e su quella
+
+882
+00:59:04,920 --> 00:59:07,080
+macchina avere tutte le regole di Ezer.
+
+883
+00:59:07,320 --> 00:59:09,960
+Mi sembra un'ottima spiegazione.
+
+884
+00:59:09,960 --> 00:59:11,240
+Direi che ne
+
+885
+00:59:12,360 --> 00:59:17,720
+avete un bel po' di informazioni, soprattutto guardando le note dell'episodio, direi
+
+886
+00:59:17,720 --> 00:59:19,800
+che per questa puntata è davvero tutto.
+
+887
+00:59:19,880 --> 00:59:20,920
+Cosa ne dici Filippo?
+
+888
+00:59:21,080 --> 00:59:22,520
+Concordo, concordo.
+
+889
+00:59:22,520 --> 00:59:26,680
+Adesso dal pubblico non abbiamo domande, direi che possiamo andare oltre come
+
+890
+00:59:26,680 --> 00:59:30,520
+si suol dire e chiudere pubblico che ringraziamo per averci seguito fino
+
+891
+00:59:30,480 --> 00:59:30,840
+a qui.
+
+892
+00:59:31,000 --> 00:59:34,760
+Vi ricordiamo che se volete supportare il podcast, vi chiediamo con il
+
+893
+00:59:34,760 --> 00:59:37,560
+cuore di fare una recensione su Apple Podcast.
+
+894
+00:59:37,560 --> 00:59:42,920
+E in questa fase diciamo iniziale, così ci ho sulle note dell'episodio,
+
+895
+00:59:42,920 --> 00:59:46,800
+ma siamo ormai a più di due anni e Pusa le recensioni
+
+896
+00:59:46,800 --> 00:59:50,800
+ci permettono di essere visti da più persone possibile ma come dico
+
+897
+00:59:50,800 --> 00:59:55,120
+sempre soprattutto farci capire qual è la strada giusta che dobbiamo prendere.
+
+898
+00:59:55,280 --> 00:59:59,120
+Non volete fare una recensione bastano anche qualche stellina, questo ci aiuterà
+
+899
+00:59:59,120 --> 01:00:02,560
+anche a farci salire in classifica e a farci conoscere da più
+
+900
+01:00:02,560 --> 01:00:03,200
+persone.
+
+901
+01:00:03,200 --> 01:00:06,320
+Se volete fare una recensione come sempre troverete il link nelle note
+
+902
+01:00:06,400 --> 01:00:10,960
+dell'episodio per con una guida per riuscire a fare questa recensione oppure
+
+903
+01:00:10,960 --> 01:00:15,600
+se volete avere un rapporto più intimo diciamo con noi due potete
+
+904
+01:00:15,600 --> 01:00:20,240
+tranquillamente iscriverci all'indirizzo di posta elettronica scrivi.
+
+905
+01:00:21,440 --> 01:00:23,520
+aduepodcast.it.
+
+906
+01:00:23,520 --> 01:00:27,200
+Per quanto riguarda le note dell'episodio con il link degli argomenti che
+
+907
+01:00:27,200 --> 01:00:31,200
+abbiamo trattato in questa puntata e tutti i nostri riferimenti, potete andare
+
+908
+01:00:31,200 --> 01:00:37,200
+a consultare l'indirizzo internet a2podcast.it/56.
+
+909
+01:00:37,200 --> 01:00:40,880
+Per quanto mi riguarda mi potete trovare nel mio blog che è
+
+910
+01:00:40,960 --> 01:00:48,720
+diventata ormai la mia casa digitale Mac e Architettura all'indirizzo marcdonnet.wordpress.com dove
+
+911
+01:00:48,720 --> 01:00:52,320
+potete vedere tutto quello che faccio nella vita, che sono un bel
+
+912
+01:00:52,320 --> 01:00:54,400
+po' di cose e quindi la taglio corta.
+
+913
+01:00:54,400 --> 01:00:58,640
+E invece il nostro Filippo li trovate su avvocademac.it e anche lì
+
+914
+01:00:58,640 --> 01:01:04,320
+trovate podcast, articoli, video su YouTube, ne ho pubblicato uno.
+
+915
+01:01:04,960 --> 01:01:08,720
+Già che ci sono, annuncio anche io ne pubblicherò uno io a
+
+916
+01:01:08,720 --> 01:01:12,720
+breve, in questo caso non sono belli come quelli di Filippo, i
+
+917
+01:01:12,720 --> 01:01:16,880
+miei sono semplicemente dei micro tutorial per chi vuole utilizzare un po'
+
+918
+01:01:16,880 --> 01:01:21,440
+di strumenti digitali nella professione dell'architetto, quindi molto verticali, quindi non adatto
+
+919
+01:01:21,440 --> 01:01:24,640
+a tutti, ma possono diventare interessanti in qualche modo.
+
+920
+01:01:24,960 --> 01:01:28,160
+Direi che possiamo seguirci tra due settimane, che dici Filippo?
+
+921
+01:01:28,160 --> 01:01:28,960
+Alla prossima!
+
+922
+01:01:28,960 --> 01:01:29,680
+Ciao a tutti

@@ -11,11 +11,11 @@ tags = ["wwdc", "apple", "hardware", "app"]
 draft = false
 
 [params]
-  hasTranscript = false
+  hasTranscript = true
   youtubeId = "YiFsS6oE9zs"
   guest = "lucio-bragagnolo"
 +++
 
 > Roberto e Filippo, con l'ormai immancabile Lucio Bragagnolo, commentano le novità hardware e software del WWDC 2023.
 
-# Note dell’episodio
+## Note dell’episodio

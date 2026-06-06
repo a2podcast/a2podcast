@@ -1,0 +1,3839 @@
+1
+00:00:00,160 --> 00:00:04,960
+Benvenuti all'episodio 22 di A2, in cui scoprire come ottenere il massimo
+
+2
+00:00:04,960 --> 00:00:06,800
+della vostra tecnologia Apple.
+
+3
+00:00:06,800 --> 00:00:11,040
+Io sono Filippo Strozzi, sono il vostro ospite, assieme all'amico Roberto Marin.
+
+4
+00:00:13,200 --> 00:00:14,240
+Parliamo del tempo.
+
+5
+00:00:14,240 --> 00:00:17,600
+Dunque, oggi è iniziato a fare un po' bello, finalmente dopo tanti
+
+6
+00:00:17,680 --> 00:00:21,440
+giorni di pioggia, and possiamo tirare un sospiro di solito finalmente.
+
+7
+00:00:21,440 --> 00:00:22,640
+But oltre a questo,
+
+8
+00:00:24,000 --> 00:00:28,480
+it's also the journal of oggi, and the pressure not come, possibly
+
+9
+00:00:28,560 --> 00:00:32,480
+parlor di command rapidly, which are in English are shortcuts, and the
+
+10
+00:00:32,560 --> 00:00:35,280
+possibility of automatic such iPhone and iPad.
+
+11
+00:00:35,280 --> 00:00:37,600
+And when the ultimate system operative
+
+12
+00:00:38,800 --> 00:00:41,360
+sul Mac and you are scoppiato anche sul Mac.
+
+13
+00:00:41,520 --> 00:00:45,920
+But prima di passare a those interessantissime which obviously Filippo andrà a
+
+14
+00:00:46,000 --> 00:00:49,120
+nozze mentre io starò qua ad ascoltare come tutti.
+
+15
+00:00:49,200 --> 00:00:52,000
+If volete supporting podcast, vi chiediamo con il cuore di fare una
+
+16
+00:00:52,080 --> 00:00:54,080
+bella recensione su Apple Podcast.
+
+17
+00:00:54,080 --> 00:00:58,160
+In questa fase iniziale, chiaramente tante recensioni ci permetteranno di essere visti
+
+18
+00:00:58,160 --> 00:01:01,760
+da più persone possibile andari far crescere il podcast, che non è
+
+19
+00:01:01,760 --> 00:01:03,600
+mai una cosa sbagliata.
+
+20
+00:01:03,600 --> 00:01:06,080
+Anzi, grazie a tutti quanti per i feedback.
+
+21
+00:01:06,080 --> 00:01:10,560
+Tra cui a breve avremo anche qualcun altro da ringraziare di persona.
+
+22
+00:01:10,560 --> 00:01:14,720
+Ma ricordiamo prima se volete sapere come fare una recensione, troverete come
+
+23
+00:01:14,720 --> 00:01:16,800
+sempre il link nel note dell'episodio.
+
+24
+00:01:16,960 --> 00:01:21,760
+Invece, se volete iscriverci, potete utilizzare questo simpaticissimo indirizzo mail inventato da
+
+25
+00:01:21,760 --> 00:01:26,320
+Filippo Strozzi che si chiama scrivi.a chiocciolapodcast.it.
+
+26
+00:01:26,320 --> 00:01:29,840
+Abbiamo parlato di follow up e adesso abbiamo una bella sorpresa per
+
+27
+00:01:29,840 --> 00:01:31,760
+tutti quanti voi, ma anche per noi.
+
+28
+00:01:31,760 --> 00:01:36,400
+Perché abbiamo qui qualcuno ai microfoni che ci farà compagnia, ci racconterà
+
+29
+00:01:36,400 --> 00:01:37,040
+qualcosa.
+
+30
+00:01:37,040 --> 00:01:39,680
+Siamo in compagnia con Daniele Borghi.
+
+31
+00:01:39,680 --> 00:01:42,800
+Buonasera a tutti, buonasera agli ascoltatori di A2 Podcast.
+
+32
+00:01:42,880 --> 00:01:43,760
+Benvenuto tra di noi.
+
+33
+00:01:43,760 --> 00:01:47,440
+Allora, Daniele, prima di tutto, ovviamente facciamo un po' di presentazioni.
+
+34
+00:01:47,440 --> 00:01:50,000
+Daniele non è un a caso che passava di qua.
+
+35
+00:01:50,000 --> 00:01:54,160
+Come sentite, anche dall'audio, non è proprio uno di primo pelo, diciamo
+
+36
+00:01:54,160 --> 00:01:56,160
+così, che si mette davanti al microfono.
+
+37
+00:01:56,160 --> 00:01:58,960
+Perché tu cosa fai nella vita, caro il nostro Daniele?
+
+38
+00:01:58,960 --> 00:02:02,200
+Io lo so e sorrido già, invece, voglio che ce lo racconti
+
+39
+00:01:59,840 --> 00:02:04,680
+tu perché così iniziamo a rompere un po' il ghiaccio.
+
+40
+00:02:05,080 --> 00:02:11,080
+Allora, io sono un disegnatore CAD 3D, sono un disegnatore meccanico per
+
+41
+00:02:11,080 --> 00:02:15,640
+la precisione, un particolarista, come si dava una volta.
+
+42
+00:02:15,640 --> 00:02:22,280
+Lavoro su Solid Works, Fusion 360 e il famoso Autocad che ormai
+
+43
+00:02:22,280 --> 00:02:24,200
+si conosce da millenni.
+
+44
+00:02:24,200 --> 00:02:25,960
+Il mio lavor principale lavoro è questo.
+
+45
+00:02:26,360 --> 00:02:33,560
+Ormai sono libero professionista da una decina d'anni, e pazzico tra un'azienda
+
+46
+00:02:33,560 --> 00:02:37,720
+e l'altra, e a volte lavoro anche da casa per qualche mio
+
+47
+00:02:37,720 --> 00:02:43,720
+piccolo cliente perché naturalmente il lavoro più grosso viene fatto come consulenza
+
+48
+00:02:43,720 --> 00:02:45,160
+presso le aziende.
+
+49
+00:02:45,160 --> 00:02:45,800
+Ho capito.
+
+50
+00:02:45,800 --> 00:02:47,800
+Ma ci stai nascondendo qualcosa?
+
+51
+00:02:47,800 --> 00:02:48,520
+Eccolo sì.
+
+52
+00:02:48,520 --> 00:02:55,160
+Allora, innanzitutto sono diventato podcaster da forse sei mesi da questa parte,
+
+53
+00:02:55,480 --> 00:03:03,160
+ho aperto un podcast seguendo un po' tutta una serie di eventi
+
+54
+00:03:03,160 --> 00:03:04,600
+che mi hanno portato a questo.
+
+55
+00:03:04,600 --> 00:03:11,320
+Naturalmente, parte di questa cosa è stato l'anno pandemico che ci sta
+
+56
+00:03:11,640 --> 00:03:13,960
+forse lasciando, speriamo.
+
+57
+00:03:14,200 --> 00:03:18,200
+Questo è stato un modo perché, mentre lavoravo da casa o stavo
+
+58
+00:03:18,200 --> 00:03:20,440
+a casa, ho cominciato ad ascoltare podcast.
+
+59
+00:03:20,440 --> 00:03:26,520
+Naturalmente già ascoltavo il famoso snapper, Architettura Imperfetta di Alberto Marin e
+
+60
+00:03:26,520 --> 00:03:27,880
+famigiarato più che altro.
+
+61
+00:03:28,040 --> 00:03:32,440
+E niente lì ho incontrato poi tutto il resto della famosa radio
+
+62
+00:03:32,440 --> 00:03:34,600
+geek Runtime Radio.
+
+63
+00:03:34,920 --> 00:03:39,960
+Naturalmente, poi Filippo Strozzi lo conoscevo perché era tra i blog sul
+
+64
+00:03:40,120 --> 00:03:42,280
+Mac a livello professionale.
+
+65
+00:03:42,760 --> 00:03:47,200
+Allora, a un certo punto, ho deciso di buttarmi alla veneranda età
+
+66
+00:03:44,920 --> 00:03:47,840
+di 50 anni.
+
+67
+00:03:48,000 --> 00:03:49,440
+Ho detto, ma si cosa facciamo?
+
+68
+00:03:49,440 --> 00:03:52,720
+Facciamo il millennials e apriamo
+
+69
+00:03:53,920 --> 00:03:54,800
+un podcast.
+
+70
+00:03:54,960 --> 00:03:56,560
+L'ho chiamato il Tiraline.
+
+71
+00:03:56,560 --> 00:04:03,840
+Lo trovate naturalmente nei vari siti che fanno dare deposito per il
+
+72
+00:04:04,080 --> 00:04:08,320
+podcast, il podcast, su Spreaker principalmente.
+
+73
+00:04:08,320 --> 00:04:14,880
+Parlo di soprattutto dei CAD Fusion 60 dei C3D e di tutto
+
+74
+00:04:14,880 --> 00:04:18,640
+quello che orbita intorno, soprattutto a livello meccanico.
+
+75
+00:04:18,640 --> 00:04:23,120
+Perché cercando tra i vari podcast in giro per la rete, pochi
+
+76
+00:04:23,120 --> 00:04:27,600
+e nessuno raccontava cosa succede per i disegnatori meccanici.
+
+77
+00:04:27,600 --> 00:04:34,800
+Molto, giustamente sono più famosi gli architetti che i disegnatori, e quindi
+
+78
+00:04:35,280 --> 00:04:38,400
+ci sono un sacco di podcast che parlano di architettura.
+
+79
+00:04:38,400 --> 00:04:40,480
+Facciamo una bella svriolinata.
+
+80
+00:04:41,040 --> 00:04:45,440
+Me lo faccio da solo, bravo, grazie, prego, prego.
+
+81
+00:04:45,440 --> 00:04:48,000
+E quindi niente adesso sto iniziando.
+
+82
+00:04:48,000 --> 00:04:52,960
+Sono ho superato la famosa settima puntata che è quella che dicono
+
+83
+00:04:52,960 --> 00:04:54,720
+del non ritorno.
+
+84
+00:04:55,200 --> 00:04:59,280
+Ormai siete dei nostri, e quindi eccomi qua a parlare.
+
+85
+00:04:59,280 --> 00:05:05,200
+Con due per me, secondo me, sono due professionisti del podcast.
+
+86
+00:05:05,680 --> 00:05:11,680
+Sì, va bene, grazie, ma non esageriamo come se soldiamo.
+
+87
+00:05:11,680 --> 00:05:15,200
+Dunque, sì, intanto prima di tutto ti ringrazio per i complimenti da
+
+88
+00:05:15,200 --> 00:05:20,960
+parte di entrambi, soprattutto da parte mia, perché, grazie, so che il
+
+89
+00:05:20,960 --> 00:05:24,960
+tuo progetto è nato un po' prendendo spunto da Snap, e la
+
+90
+00:05:24,960 --> 00:05:28,080
+cosa mi fa davvero molto piacere, mi lusinga davvero tanto.
+
+91
+00:05:28,080 --> 00:05:29,920
+Andatevi ad ascoltare il tiralline perché.
+
+92
+00:05:29,800 --> 00:05:30,360
+Perché
+
+93
+00:05:31,800 --> 00:05:37,160
+capisco che sembra una cosa strana, ma rendetevi conto che il CAD
+
+94
+00:05:37,240 --> 00:05:40,120
+meccanico non è proprio una cosa semplice.
+
+95
+00:05:40,360 --> 00:05:45,000
+Il nostro Daniele comunque riesce a sverare molte cose, molte cose interessanti
+
+96
+00:05:45,160 --> 00:05:47,720
+anche da parte mia, che sono un architetto, è proprio veramente la
+
+97
+00:05:47,720 --> 00:05:51,000
+cosa meccanica, è una cosa da me abbastanza distante.
+
+98
+00:05:51,000 --> 00:05:54,600
+Però ha un bel taglio tecnologico e in ogni caso è un
+
+99
+00:05:54,600 --> 00:05:57,880
+piacere sentirlo perché ci racconta un sacco di belle cose.
+
+100
+00:05:57,880 --> 00:06:01,240
+Belle cose perché prima di tutto noi le conosciamo e poi ha
+
+101
+00:06:01,240 --> 00:06:04,520
+anche un bel piglio per raccontarle, ha una bella scaletta e soprattutto
+
+102
+00:06:04,600 --> 00:06:08,440
+ha anche una bella base musicale che non fa mai male.
+
+103
+00:06:08,440 --> 00:06:13,320
+Abbiamo invitato qua Daniele tra di noi perché appunto la scorsa puntata
+
+104
+00:06:13,320 --> 00:06:18,280
+abbiamo parlato di un paio di suoi consigli e abbiamo pensato di
+
+105
+00:06:18,280 --> 00:06:21,640
+invitarlo in puntata per dargli un po' più di spazio e raccontarci
+
+106
+00:06:21,640 --> 00:06:23,880
+un po' quello che ci ha consigliato.
+
+107
+00:06:23,880 --> 00:06:26,760
+Perché giustamente diciamo come sono andate le cose.
+
+108
+00:06:26,760 --> 00:06:31,000
+Ne io e né Filippo abbiamo avuto il tempo di controllare per
+
+109
+00:06:31,000 --> 00:06:36,120
+bene le applicazioni che ci aveva consigliato e per evitare di lasciare
+
+110
+00:06:36,680 --> 00:06:40,600
+questo vuoto per gli ascoltatori abbiamo pensato io e Filippo di chiamarlo
+
+111
+00:06:40,600 --> 00:06:46,280
+direttamente in puntata e so benissimo che Daniele ci racconterà queste due
+
+112
+00:06:46,280 --> 00:06:48,120
+applicazioni in questo momento.
+
+113
+00:06:48,120 --> 00:06:51,880
+Poi chi lo sa magari più avanti lo incontreremo di nuovo lungo
+
+114
+00:06:51,880 --> 00:06:56,280
+il corso di A2 Podcast perché comunque ridendo e scherzando lui
+
+115
+00:06:56,280 --> 00:07:01,080
+lavora su un Mac, anche se non al 100%, ma comunque per
+
+116
+00:07:01,080 --> 00:07:03,160
+l'uso professionale usa anche un Mac.
+
+117
+00:07:03,160 --> 00:07:07,320
+Quindi potrebbe essere interessante sentire anche la sua opinione di come si
+
+118
+00:07:07,320 --> 00:07:09,800
+utilizza un Mac nella professione.
+
+119
+00:07:09,800 --> 00:07:13,800
+Ma adesso lascio la parola a Daniele che ci racconterà un po'
+
+120
+00:07:13,800 --> 00:07:16,560
+di più qualcosa su Craft, ad esempio.
+
+121
+00:07:16,880 --> 00:07:22,880
+Allora, parto dal fatto che io sono un utilizzatore di queste applicazioni
+
+122
+00:07:22,880 --> 00:07:27,840
+per prendere note, perché naturalmente avendo un sacco di informazioni, soprattutto a
+
+123
+00:07:27,840 --> 00:07:32,800
+volte in azienda o con i vari clienti, devo prendere appunti e
+
+124
+00:07:32,800 --> 00:07:36,720
+giustamente la quantità di informazioni è tale che ormai non si riesce
+
+125
+00:07:36,720 --> 00:07:42,080
+più a ricordarsi la memoria, poi complice anche l'età che avanza,
+
+126
+00:07:43,200 --> 00:07:46,560
+e questo mi conviene utilizzare questi strumenti.
+
+127
+00:07:46,560 --> 00:07:51,920
+Io sono un utilizzatore di Evernote dal 2007, un sacco di anni.
+
+128
+00:07:51,920 --> 00:07:57,280
+Sì, sì, forse sono stato tra i primi quando ha aperto l'applicazione.
+
+129
+00:07:57,280 --> 00:08:03,840
+Adesso stavo cercando un'altra applicazione perché, oltretutto, Evernote ha aumentato i prezzi
+
+130
+00:08:03,840 --> 00:08:10,240
+annuali, quindi, per una certa economia, di applicazioni che sto pagando, ho
+
+131
+00:08:10,240 --> 00:08:15,360
+dovuto fare dei conti e quindi cercare un'applicazione che costasse di meno
+
+132
+00:08:15,360 --> 00:08:18,720
+o che si potesse usare anche in multipiattaforma.
+
+133
+00:08:18,720 --> 00:08:24,720
+Come ha detto prima Roberto, io lavoro l'80% sul Mac, per i
+
+134
+00:08:24,720 --> 00:08:26,640
+miei lavori, però purtroppo
+
+135
+00:08:31,600 --> 00:08:33,760
+non sono un estimatore di Windows.
+
+136
+00:08:33,760 --> 00:08:38,560
+Ci dispiace per chi ci ascolta che utilizza Windows, ma le aziende,
+
+137
+00:08:38,560 --> 00:08:41,440
+purtroppo, utilizzano ancora Windows.
+
+138
+00:08:41,440 --> 00:08:46,400
+Quindi mi serviva a volte una applicazione che se fosse multipiattaforma.
+
+139
+00:08:46,400 --> 00:08:48,880
+Tra le varie tra le varie ricerche.
+
+140
+00:08:48,880 --> 00:08:55,040
+Così mi sono imbattuto in craft probabilmente l'anno scorso e l'ho utilizzato
+
+141
+00:08:55,040 --> 00:08:59,800
+per due o tre mesi per vedere come funzionava e per poter
+
+142
+00:08:59,040 --> 00:09:00,920
+soprattutto per poter
+
+143
+00:09:01,400 --> 00:09:07,080
+prendere appunti per il podcast perché mi serviva un'applicazione, visto che lavoravo
+
+144
+00:09:07,240 --> 00:09:08,040
+su su Mac
+
+145
+00:09:09,240 --> 00:09:11,960
+che potesse prendermi gli appunti in modo più
+
+146
+00:09:13,160 --> 00:09:17,800
+smart e soprattutto perché Evernote in questi anni è passato da un'applicazione
+
+147
+00:09:17,880 --> 00:09:25,400
+diciamo normale a un'applicazione Electron, e nel suo recap, chiamiamolo così, non
+
+148
+00:09:25,400 --> 00:09:30,360
+è che abbia fatto un bel lavoro, è lentissima e energiva su
+
+149
+00:09:30,440 --> 00:09:34,840
+che ha un sacco di energia sul MacBook, e quindi tra le
+
+150
+00:09:34,840 --> 00:09:38,200
+altre cose, oltre al prezzo, era anche questa condizione.
+
+151
+00:09:38,200 --> 00:09:41,720
+Kraft fa parte di una serie di applicazioni che ho provato.
+
+152
+00:09:41,720 --> 00:09:47,720
+Ho provato BR, ho provato noto Simple Not Notabili, good notes, notion
+
+153
+00:09:48,680 --> 00:09:48,840
+tutte
+
+154
+00:09:50,440 --> 00:09:54,200
+una, perché poi io sono uno di quelli che: che bello!
+
+155
+00:09:54,200 --> 00:10:00,360
+Però mi butto, sono un early adopter di natura, un nerdissimo in
+
+156
+00:10:00,360 --> 00:10:01,240
+questo senso.
+
+157
+00:10:01,240 --> 00:10:04,360
+Tuttavia, Craft mi è piaciuta più delle altre.
+
+158
+00:10:04,360 --> 00:10:10,520
+Perché, innanzitutto, si sposa benissimo con il sistema operativo OSX, che ha
+
+159
+00:10:10,520 --> 00:10:17,320
+una struttura e molte feature che utilizzano anche quelle del sistema operativo.
+
+160
+00:10:17,320 --> 00:10:21,640
+Tra le altre, visto che siamo in puntata, anche le shortcuts.
+
+161
+00:10:21,640 --> 00:10:26,120
+Questa era una delle cose che mi ha fatto provarlo di più
+
+162
+00:10:26,120 --> 00:10:26,840
+delle altre.
+
+163
+00:10:27,000 --> 00:10:32,200
+Craft è disponibile sia anche su iPhone e su iPad.
+
+164
+00:10:32,200 --> 00:10:35,480
+So che esiste, ho provato, ma non del tutto.
+
+165
+00:10:36,040 --> 00:10:39,560
+Una versione web che è in versione beta, però l'ho provata, ma
+
+166
+00:10:39,560 --> 00:10:43,160
+non è proprio stabilissima, ha dei problemi.
+
+167
+00:10:43,160 --> 00:10:49,520
+E praticamente Craft utilizza lo stesso approccio che penso conoscono molti che
+
+168
+00:10:49,520 --> 00:10:54,080
+è quello di Notion, perché è l'approccio basato sul blocchi.
+
+169
+00:10:54,320 --> 00:11:01,520
+La struttura del documento è molto strana all'inizio perché lascia un attimo
+
+170
+00:11:02,000 --> 00:11:05,840
+spesato, perché a differenza di vero, è vero.
+
+171
+00:11:06,000 --> 00:11:08,560
+L'effetto che ha fatto anche Notion anche a me, mi ha lasciato
+
+172
+00:11:08,560 --> 00:11:11,840
+proprio così: dico: Oh, santo cielo, non so dove mettere le mani.
+
+173
+00:11:12,000 --> 00:11:16,560
+Tuttavia, a differenza di Notion craft adotta anche un approccio che è
+
+174
+00:11:16,560 --> 00:11:22,720
+basato sulle cartelle, offre questa visione più vicina al modo tipico che
+
+175
+00:11:22,720 --> 00:11:26,960
+si usa noi per mettere via tutti i documenti, la nota di
+
+176
+00:11:26,960 --> 00:11:31,040
+base di Craft viene chiamata pagina, che è quella simile a Notion
+
+177
+00:11:31,120 --> 00:11:34,720
+le pagine, poi sono organizzate in cartelle, dove si possono scegliere se
+
+178
+00:11:34,720 --> 00:11:39,440
+visualizzare le pagine in griglia, oppure in un layout dinamico con dei
+
+179
+00:11:39,440 --> 00:11:40,160
+blocchi.
+
+180
+00:11:40,160 --> 00:11:45,360
+Per ricordarci, un po' se qualcuno sia usato Trello, esatto, assomiglia a
+
+181
+00:11:45,360 --> 00:11:46,080
+quella tipo
+
+182
+00:11:47,440 --> 00:11:47,600
+.
+
+183
+00:11:47,600 --> 00:11:52,080
+Allora, se all'inizio sembra facile, un mio amico che, un mio collega,
+
+184
+00:11:52,080 --> 00:11:55,120
+che mi ha visto usarlo, mi ha detto: ma questa è un'applicazione
+
+185
+00:11:55,280 --> 00:11:57,360
+stile inception il film
+
+186
+00:11:58,800 --> 00:12:03,920
+perché poi i blocchi naturalmente contengono altri blocchi uno sotto l'altro.
+
+187
+00:12:03,920 --> 00:12:04,560
+Le pagine
+
+188
+00:12:05,840 --> 00:12:11,280
+utilizzano questi blocchi per contenuti che imitando naturalmente il più noto.
+
+189
+00:12:11,280 --> 00:12:11,920
+Notion.
+
+190
+00:12:11,920 --> 00:12:18,400
+Si possono poi aggiungere blocchi con vari contenuti, possono essere multimedia, immagini,
+
+191
+00:12:18,720 --> 00:12:20,960
+anche delle note vocali.
+
+192
+00:12:20,960 --> 00:12:21,680
+Quindi, uno
+
+193
+00:12:22,880 --> 00:12:26,720
+può aggiungere la pagina e all'interno della pagina può creare anche una
+
+194
+00:12:26,720 --> 00:12:32,440
+carta, che è praticamente è una sottopagina con un'interfaccia visiva più interessante.
+
+195
+00:12:32,840 --> 00:12:35,400
+Praticamente può inserire
+
+196
+00:12:36,680 --> 00:12:40,760
+dei background che richiamano la carta stampata.
+
+197
+00:12:41,320 --> 00:12:44,200
+Ho capito, è bene configurabile questo.
+
+198
+00:12:44,200 --> 00:12:48,200
+Dal punto di vista grafico, appaga molto l'occhio, c'è da dire.
+
+199
+00:12:48,200 --> 00:12:49,960
+Assolutamente ha un effetto.
+
+200
+00:12:49,960 --> 00:12:53,400
+Che appaga l'occhio e aiuta anche a lavorarci sopra bene.
+
+201
+00:12:53,400 --> 00:12:57,400
+Noto che mi ricorda anche sotto un certo punto di vista, anche
+
+202
+00:12:57,400 --> 00:12:59,960
+WordPress dal punto di vista dei blocchi.
+
+203
+00:12:59,960 --> 00:13:03,240
+Magari mi sbaglio, ma me lo ricordo un po' lontanamente, perché vedo
+
+204
+00:13:03,240 --> 00:13:06,120
+immagini, vedo testo, vedo tutto un po' messo assieme.
+
+205
+00:13:06,360 --> 00:13:11,640
+La faccia sembra quella, sì, perché poi naturalmente è molto configurabile.
+
+206
+00:13:11,800 --> 00:13:17,640
+Intanto, ci possono applicare vari stili di pagina, ma per ogni singola
+
+207
+00:13:17,640 --> 00:13:18,360
+pagina.
+
+208
+00:13:18,360 --> 00:13:26,120
+Quindi c'è un divertimento, anche se uno gli piace abbellire le proprie
+
+209
+00:13:26,120 --> 00:13:29,480
+note, c'è tutta una serie di feature che possono farlo.
+
+210
+00:13:29,480 --> 00:13:33,720
+Ogni nota può avere un'intestazione con un'immagine stilata, giustamente come ha detto
+
+211
+00:13:33,800 --> 00:13:40,120
+Roberto, stile WordPress, che la puoi prendere da foto direttamente o da
+
+212
+00:13:40,120 --> 00:13:40,760
+finder.
+
+213
+00:13:40,760 --> 00:13:46,600
+Insomma, qui ho scoperto invece, magari poi dopo vi do il link,
+
+214
+00:13:46,600 --> 00:13:52,280
+un'integrazione con Un Splash, che UnSplash non lo conoscevo nemmeno io.
+
+215
+00:13:52,920 --> 00:13:57,240
+Sì, lo conosco, lo utilizzo spesso per il blog, ma vai pure.
+
+216
+00:13:58,600 --> 00:14:04,760
+Allora, è un servizio simile a Stock Photo dove si possono prendere
+
+217
+00:14:04,760 --> 00:14:10,120
+le immagini, pagarle e per utilizzarle nei propri siti, nei propri lavori
+
+218
+00:14:10,120 --> 00:14:10,840
+grafici.
+
+219
+00:14:10,840 --> 00:14:14,680
+Invece, Unsplash è utilissimo perché praticamente
+
+220
+00:14:15,760 --> 00:14:19,760
+si possono utilizzare tutte le immagini liberamente a patto di non rivendere
+
+221
+00:14:20,000 --> 00:14:23,040
+o di non creare un servizio simile ad ASPLAS, sì.
+
+222
+00:14:23,040 --> 00:14:26,240
+Infatti, io metto sempre la citazione in fondo all'articolo.
+
+223
+00:14:26,240 --> 00:14:30,560
+Di sotto utilizzo queste immagini come immagine di testa dell'articolo, e in
+
+224
+00:14:30,560 --> 00:14:33,680
+fondo all'articolo troverete dove sono utilizzate appunto.
+
+225
+00:14:33,680 --> 00:14:40,640
+I ringraziamenti ad Splash e all'autore, giustamente perché quando scarichi questa immagine,
+
+226
+00:14:40,640 --> 00:14:44,640
+ti mette proprio un comodissimo file di testo da copiare e inserire
+
+227
+00:14:44,640 --> 00:14:47,760
+direttamente sul proprio articolo e quindi diventa davvero molto utile.
+
+228
+00:14:47,840 --> 00:14:51,040
+Visto che stavo anche io guardando mentre ti stavo seguendo, per gli
+
+229
+00:14:51,040 --> 00:14:56,000
+ascoltatori, se andate sul sito di Craft, che trovate le note dell'episodio,
+
+230
+00:14:56,000 --> 00:14:56,880
+credo che
+
+231
+00:14:58,160 --> 00:15:01,840
+c'è una modalità visuale dove fa vedere come si modella la pagina
+
+232
+00:15:01,840 --> 00:15:06,800
+in Craft, che credo sia ovviamente più esplicativa delle parole delle semplici
+
+233
+00:15:06,800 --> 00:15:11,680
+parole, perché effettivamente è un'applicazione molto anche complessa e si vede in
+
+234
+00:15:11,680 --> 00:15:16,880
+un video di qualche secondo, proprio come da due note scritte, invece
+
+235
+00:15:16,880 --> 00:15:21,760
+riesca a generare addirittura siamo un articolo dal sito web, proprio.
+
+236
+00:15:22,080 --> 00:15:26,160
+No, esatto, perché una delle cose che mi è piaciuta da craft,
+
+237
+00:15:26,160 --> 00:15:30,720
+è il fatto che praticamente se tu prendi la nota, una parte
+
+238
+00:15:31,040 --> 00:15:35,200
+del paragrafo della nota può essa stessa diventare una nota, nel senso
+
+239
+00:15:35,200 --> 00:15:40,720
+che se tu di quel paragrafo vuoi dare l'idea oppure altre notizie
+
+240
+00:15:41,040 --> 00:15:45,200
+legate a quel paragrafo della nota, creando proprio un link che chiano
+
+241
+00:15:45,440 --> 00:15:51,120
+Wikilink, mi pare, e quindi portano ad ampliare tutta una serie di
+
+242
+00:15:51,120 --> 00:15:52,000
+altre note.
+
+243
+00:15:52,320 --> 00:15:58,320
+La sottonota stessa può diventare un'altra nota, utilizzando cascata ricorsiva, che può
+
+244
+00:15:58,480 --> 00:16:00,520
+andare sia in avanti che indietro.
+
+245
+00:15:59,840 --> 00:16:03,720
+Una delle cose belle che di Craft, che non hanno scono.
+
+246
+00:16:03,880 --> 00:16:08,120
+Ad esempio, che ha preso dall'altra applicazione che si chiama Roam e
+
+247
+00:16:08,120 --> 00:16:11,240
+che si linksa all'interno della pagina.
+
+248
+00:16:11,320 --> 00:16:16,680
+Troviamo tutti i link e pagina, quindi possiamo praticamente ritornare indietro senza
+
+249
+00:16:16,680 --> 00:16:20,680
+perdersi e dover ritornare alla home page, chiamiamola.
+
+250
+00:16:20,680 --> 00:16:26,840
+Interesse un'altra opzione che è piaciuta, che però è differente dal modo
+
+251
+00:16:26,840 --> 00:16:30,600
+che lo utilizzi, perché la larghezza della pagina è una cosa che
+
+252
+00:16:30,600 --> 00:16:36,840
+all'inizio è un po' destabilizzante perché si può variare a seconda dell'utilizzo.
+
+253
+00:16:36,840 --> 00:16:41,720
+Io, ad esempio, a volte uso il MacBook non attaccato al monitor
+
+254
+00:16:41,960 --> 00:16:47,080
+e quindi preferisco la visuazione normale che praticamente è molto stretta e
+
+255
+00:16:47,080 --> 00:16:49,960
+quindi giustamente il monitor è più piccolo.
+
+256
+00:16:49,960 --> 00:16:56,120
+Invece, quando sono a casa, sul 21 da 29 pollici utilizzo la
+
+257
+00:16:56,280 --> 00:17:00,120
+lunghezza totale in modo tale da avere proprio tutta la frase su
+
+258
+00:17:00,120 --> 00:17:04,280
+una linea sola, insomma, per non avere troppi per fare uno scroll
+
+259
+00:17:04,920 --> 00:17:05,800
+troppo lungo.
+
+260
+00:17:05,800 --> 00:17:06,520
+Certo, certo.
+
+261
+00:17:07,400 --> 00:17:12,440
+Difatti, stavo notando la visualizzazione che vediamo appunto sulla pagina principale di
+
+262
+00:17:12,440 --> 00:17:15,800
+Craft dell'animazione che parlava prima Filippo.
+
+263
+00:17:15,800 --> 00:17:20,680
+In effetti, se io prendo allargo questa pagina, ho quasi l'idea davvero
+
+264
+00:17:20,760 --> 00:17:23,080
+di un blocco note, nel senso che si lascia i margini di
+
+265
+00:17:23,080 --> 00:17:25,160
+fianco per prendere ulteriori note.
+
+266
+00:17:25,160 --> 00:17:30,440
+Adesso tendenzialmente possiamo, non vorrei dire che la pagina centrale occupi un
+
+267
+00:17:30,440 --> 00:17:36,120
+po' più della metà della pagina completa, circa andando così proprio con
+
+268
+00:17:36,120 --> 00:17:39,080
+lo spannometro ad onde infrarosse.
+
+269
+00:17:39,080 --> 00:17:42,680
+In ogni caso, io credo che questa qui sia davvero interessante come
+
+270
+00:17:42,680 --> 00:17:43,320
+applicazione.
+
+271
+00:17:43,320 --> 00:17:48,640
+Volevo chiederti due cose prima di andare avanti, la prima è perché
+
+272
+00:17:48,880 --> 00:17:52,480
+hai deciso di provare questa applicazione?
+
+273
+00:17:52,480 --> 00:17:54,160
+Cos'è che ti ha spinto a provarla?
+
+274
+00:17:54,160 --> 00:17:57,360
+Qual è la caratteristica che ti ha colpito?
+
+275
+00:17:57,600 --> 00:18:02,080
+La prima caratteristica è il fatto che supporta il Markdown, mi piace
+
+276
+00:18:02,080 --> 00:18:07,920
+il Markdown, mi dà la possibilità di avere il testo, quello che
+
+277
+00:18:07,920 --> 00:18:13,840
+scrivo, in mano, diciamo, di non avere mille cose come la World
+
+278
+00:18:13,840 --> 00:18:15,440
+o anche lo stesso page.
+
+279
+00:18:15,440 --> 00:18:16,880
+E poi è molto più divertente.
+
+280
+00:18:16,880 --> 00:18:24,320
+Giustamente utilizzando una tastiera meccanica, adesso fa molto bello quindi ritorno un
+
+281
+00:18:24,320 --> 00:18:29,360
+po' agli albori di quando si utilizzano le vecchie tastiere IBM, quelle
+
+282
+00:18:29,360 --> 00:18:32,080
+che ti sentono schiacciare i tassi dalla stanza di fianco.
+
+283
+00:18:32,640 --> 00:18:38,400
+La principale idea era quella di utilizzare il Markdown, perché poi potevo
+
+284
+00:18:38,400 --> 00:18:40,160
+fare delle note veramente piccole.
+
+285
+00:18:40,160 --> 00:18:46,000
+Evernote è bello, ma produce una quantità in mano di gigabyte.
+
+286
+00:18:46,000 --> 00:18:47,760
+Io avevo.
+
+287
+00:18:47,760 --> 00:18:52,640
+Mentre sto facendo il trasferimento da Evernote ad un altro sistema che
+
+288
+00:18:52,640 --> 00:18:54,720
+poi magari ne parleremo un'altra volta.
+
+289
+00:18:54,720 --> 00:18:57,760
+Avevo 70 giga di note,
+
+290
+00:19:00,000 --> 00:19:01,440
+comincia diventa pesante.
+
+291
+00:19:01,440 --> 00:19:06,400
+Evernote ti permette anche di catturare i PDF quindi poi esatto, anche
+
+292
+00:19:06,720 --> 00:19:07,600
+craft.
+
+293
+00:19:07,600 --> 00:19:13,920
+Perché craft puoi installare, poi allegare i PDF, puoi allegare le immagini,
+
+294
+00:19:13,920 --> 00:19:20,400
+naturalmente anche i documenti di Word, Excel, tra l'altro, hai una delle
+
+295
+00:19:20,400 --> 00:19:24,240
+funzioni che è stata introdotta poco tempo fa: le tabelle che non
+
+296
+00:19:24,240 --> 00:19:28,160
+c'erano fino a qualche mese fa, le tabelle in craft, quindi, se
+
+297
+00:19:28,160 --> 00:19:33,000
+qualcuno magari utilizza le tabelle, lo trova anche in craft.
+
+298
+00:19:33,000 --> 00:19:33,720
+Ottimo.
+
+299
+00:19:29,920 --> 00:19:36,760
+Volevo chiederti, appunto, per il Markdown, perché notion,
+
+300
+00:19:37,000 --> 00:19:40,680
+ad esempio, ha un supporto per il Markdown, ma come lo chiamo
+
+301
+00:19:40,680 --> 00:19:45,480
+io, è un supporto leggero perché chi ama scrivere il Markdown, probabilmente
+
+302
+00:19:45,480 --> 00:19:48,360
+non si troverà bene a scrivere in notion, il Markdown come ho
+
+303
+00:19:48,360 --> 00:19:48,840
+fatto io.
+
+304
+00:19:48,840 --> 00:19:52,200
+Perché per un certo periodo l'ho anche utilizzato per scrivere i miei
+
+305
+00:19:52,200 --> 00:19:54,680
+articoli, proprio scrivere completamente i miei articoli.
+
+306
+00:19:54,680 --> 00:19:58,200
+Però, visto che il supporto non è dei migliori, nel senso che
+
+307
+00:19:58,200 --> 00:20:01,320
+qualche pezzo se lo perde, nel senso dal punto di vista della
+
+308
+00:20:01,320 --> 00:20:04,840
+formatazione e anche dei link e via discorrendo, mi dava un po'
+
+309
+00:20:04,840 --> 00:20:05,240
+fastidio.
+
+310
+00:20:05,400 --> 00:20:10,280
+Sono passato ai vecchi mezzi che utilizzavo prima, ovvero delle applicazioni apposite
+
+311
+00:20:10,280 --> 00:20:11,720
+per scrivere in Markdown.
+
+312
+00:20:11,720 --> 00:20:15,160
+Invece, questo ha un supporto un po' più decente?
+
+313
+00:20:15,160 --> 00:20:18,280
+Sì, è molto più decente di notion.
+
+314
+00:20:18,280 --> 00:20:23,640
+Non è a livelli lo nomino di Obsidian o di Simple Note,
+
+315
+00:20:23,880 --> 00:20:25,000
+però è
+
+316
+00:20:26,200 --> 00:20:30,840
+molto più vicino alla scrittura in Markdown che quella di Notion.
+
+317
+00:20:30,840 --> 00:20:36,840
+Mi sono trovato bene perché poi scrivo direttamente con le varie funzioni
+
+318
+00:20:37,000 --> 00:20:41,640
+del Markdown e lui li traduce immediatamente, ottimo.
+
+319
+00:20:41,640 --> 00:20:45,640
+E invece l'altra domanda che ti volevo fare riguarda una cosa che
+
+320
+00:20:45,640 --> 00:20:49,160
+ci aveva lasciato, diciamo, non dico perplessi, ma non siamo riusciti ad
+
+321
+00:20:49,160 --> 00:20:49,800
+approfondire.
+
+322
+00:20:49,800 --> 00:20:53,640
+Magari tu hai avuto la possibilità di approfondirla visto che l'hai usato
+
+323
+00:20:53,640 --> 00:20:54,600
+un po' più di noi.
+
+324
+00:20:54,600 --> 00:20:58,040
+Questo ha detto che c'è appunto sul sito, ovvero che i tuoi
+
+325
+00:20:58,040 --> 00:21:01,400
+dati rimangono tuoi senza eccezioni.
+
+326
+00:21:01,400 --> 00:21:03,080
+I dati dove vengono salvati?
+
+327
+00:21:03,080 --> 00:21:05,080
+È anche la mia domanda,
+
+328
+00:21:06,120 --> 00:21:09,960
+i dati vengono salvati in locale, ma
+
+329
+00:21:11,800 --> 00:21:17,600
+praticamente l'applicazione li spara attraverso probabilmente un loro server.
+
+330
+00:21:17,600 --> 00:21:21,920
+Quindi non è proprio vero che io ho il controllo totale dei
+
+331
+00:21:21,920 --> 00:21:29,120
+dati, nel senso perché io quando vado sull'iPad o sull'iPhone, li ho
+
+332
+00:21:29,120 --> 00:21:34,720
+immediatamente, quindi in qualche modo si trasferiscono attraverso i cloud.
+
+333
+00:21:34,720 --> 00:21:41,200
+In pratica, come diceva giustamente Filippo nella puntata scorsa, per determinate funzioni,
+
+334
+00:21:41,200 --> 00:21:45,040
+tipo giustamente prendere gli appunti per un podcast o appunti per le
+
+335
+00:21:45,040 --> 00:21:47,680
+ricette, diciamo, potrebbe andare bene.
+
+336
+00:21:47,680 --> 00:21:54,000
+Giustamente, se tu utilizzi questo sistema per prendere appunti per una professione
+
+337
+00:21:54,000 --> 00:21:58,320
+che ha bisogno di una privacy restrizione dei dati e di un
+
+338
+00:21:58,320 --> 00:22:07,520
+controllo dei dati sensibili, non è sicuramente faccio una piccola parentesi: perché
+
+339
+00:22:08,000 --> 00:22:13,760
+nel mentre ho guardato il lungo documento che dice Roberto, i dati
+
+340
+00:22:13,760 --> 00:22:21,360
+sono salvati sui server Amazon e lo scrivono chiaramente: non sono cifrati
+
+341
+00:22:21,520 --> 00:22:27,200
+end to end, quindi da quel punto di vista lì sono cifrati
+
+342
+00:22:27,840 --> 00:22:29,280
+nel trasferimento.
+
+343
+00:22:29,280 --> 00:22:32,960
+No, infatti, tra le varie applicazioni che ho provato, non ne ho
+
+344
+00:22:33,040 --> 00:22:38,800
+trovata quasi nessuna che potesse darti la certezza che i tuoi dati
+
+345
+00:22:38,800 --> 00:22:40,240
+siano solo tuoi.
+
+346
+00:22:40,240 --> 00:22:43,280
+Mi chiedo chiedo a Filippo che è più sul pezzo.
+
+347
+00:22:43,280 --> 00:22:48,160
+Note di Apple invece come se la cava, stesso gioco, sono server
+
+348
+00:22:48,160 --> 00:22:52,920
+di Apple, ma di fatto, già varie volte.
+
+349
+00:22:52,960 --> 00:22:58,400
+Apple ha comunque consegnato i dati alle forze dell'ordine, che vuol dire
+
+350
+00:22:58,880 --> 00:23:04,040
+che i dati i dati non erano cifrati, ecco, perché il discorso
+
+351
+00:23:04,040 --> 00:23:07,480
+è se io ti consegno i dati, ma sono cifrati come se
+
+352
+00:23:07,480 --> 00:23:08,920
+non ti li avessi mai consegnato.
+
+353
+00:23:08,920 --> 00:23:14,360
+Sul dispositivo, sono cifrati, teoricamente, le note sicure dovrebbero essere cifrati a
+
+354
+00:23:14,360 --> 00:23:14,920
+loro volta.
+
+355
+00:23:14,920 --> 00:23:18,680
+Quindi dovrebbero essere pure perché la chiave di decifratura ce l'hai tu.
+
+356
+00:23:18,840 --> 00:23:20,440
+Tuttavia il solito discorso.
+
+357
+00:23:20,680 --> 00:23:24,920
+Se vai in un server altrui non hai certezza matematica.
+
+358
+00:23:24,920 --> 00:23:28,040
+Teoricamente però rettifico perché ho riletta moda.
+
+359
+00:23:28,040 --> 00:23:32,200
+Allora sono cifrati nel trasferimento e a riposo.
+
+360
+00:23:32,200 --> 00:23:35,720
+Tuttavia dicono che non sono cifrati end to end adesso.
+
+361
+00:23:35,800 --> 00:23:40,280
+Sul tecnicalismo della cosa non l'ho capita bene, però comunque mi lascia
+
+362
+00:23:40,280 --> 00:23:41,240
+un po' perplesso.
+
+363
+00:23:41,240 --> 00:23:45,160
+Diciamo quello che c'è scritto in craft, ecco.
+
+364
+00:23:45,160 --> 00:23:49,480
+Insomma, è ovvio che appunto se non avete dati ipersensibili e così
+
+365
+00:23:49,480 --> 00:23:51,880
+via, comunque utilizzarlo tranquillamente.
+
+366
+00:23:51,880 --> 00:23:58,040
+È ovvio che se invece, soprattutto per un avvocato, dati giudiziali o
+
+367
+00:23:58,040 --> 00:24:04,040
+comunque riservati, in quel caso lì oggettivamente io lo sconsiglierei, poi ovviamente
+
+368
+00:24:04,040 --> 00:24:05,800
+ognuno fa quel che vuole.
+
+369
+00:24:05,960 --> 00:24:11,560
+No, no, sicuramente tutte le applicazioni che ho provato, le chiamiamo le
+
+370
+00:24:11,560 --> 00:24:14,760
+applicazioni second brain, come vengono dette adesso.
+
+371
+00:24:15,000 --> 00:24:21,640
+Nessuna ha questa funzione di crittografia end to end, nemmeno anche Evernote
+
+372
+00:24:21,720 --> 00:24:25,480
+che lo dice tante volte, ma alla fine i dati non sono
+
+373
+00:24:25,480 --> 00:24:27,480
+proprio crittografati end-to end.
+
+374
+00:24:27,480 --> 00:24:33,960
+Teoricamente Obsidian col servizio di pagamento dovrebbe esserlo, perché anche lì, di
+
+375
+00:24:33,960 --> 00:24:38,920
+fatto, tu inserisci la chiave di cifrattura, tua e quindi, ovviamente, nessuno
+
+376
+00:24:38,920 --> 00:24:41,000
+può conoscerla se non la divulgi.
+
+377
+00:24:41,480 --> 00:24:47,600
+Poi ci sono mille problematiche che non ha senso neanche approfondire, visto
+
+378
+00:24:44,840 --> 00:24:51,680
+che non siamo nessuno di noi sufficientemente esperto a livello tecnico informatico.
+
+379
+00:24:52,400 --> 00:24:58,480
+E niente, poi volevo magari aggiungere altre cose su Craft, perché abbiamo
+
+380
+00:24:58,720 --> 00:25:05,600
+parlato prima che ha delle funzionalità molto legate al sistema operativo OS
+
+381
+00:25:05,600 --> 00:25:07,680
+X e anche iOS.
+
+382
+00:25:07,680 --> 00:25:13,760
+Infatti, supporta lo Split View, lo slide over e il multi windovo
+
+383
+00:25:14,160 --> 00:25:20,320
+sui iPad, ha anche il trascino e rilascia, quindi si possono spostare
+
+384
+00:25:20,320 --> 00:25:21,440
+nello spazio di lavoro.
+
+385
+00:25:21,440 --> 00:25:26,640
+Tutti i blocchi non sono proprio bloccati in una posizione, quindi uno
+
+386
+00:25:26,640 --> 00:25:30,960
+può spostare i blocchi a suo piacimento in modo da avere poi
+
+387
+00:25:31,760 --> 00:25:37,360
+un suo grafico, un suo modo di vedere proprio le note prese.
+
+388
+00:25:37,360 --> 00:25:41,280
+Supporta i widget sugli iOS, sono tre widget, e
+
+389
+00:25:42,480 --> 00:25:48,560
+anche giustamente visto che siamo in puntata, lo ripeto, supporta le shortcut
+
+390
+00:25:49,520 --> 00:25:57,040
+di iOS e i fortunati che hanno adesso Monterei anche su OS
+
+391
+00:25:57,040 --> 00:25:58,320
+X sui Mac.
+
+392
+00:25:58,320 --> 00:26:01,760
+Certo, invece, ti faccio un'altra domanda, appunto, perché ho notato che su
+
+393
+00:26:01,920 --> 00:26:04,400
+Notion avevo avuto dei problemi.
+
+394
+00:26:04,400 --> 00:26:06,480
+L'Apple Pencil come viene supportata?
+
+395
+00:26:06,480 --> 00:26:07,680
+Hai avuto modo di provarla?
+
+396
+00:26:07,680 --> 00:26:14,080
+Stavo aggiungendo la cosa, perché in effetti supporta il Pencil Kit: quindi
+
+397
+00:26:14,400 --> 00:26:20,320
+col Pencil Kit giustamente non puoi scrivere con la tua grafia, ma
+
+398
+00:26:20,120 --> 00:26:24,640
+però puoi fare le annotazioni su uno screenshot o su un PDF.
+
+399
+00:26:24,640 --> 00:26:25,040
+Ok.
+
+400
+00:26:25,040 --> 00:26:28,560
+Invece, su Notion, ho visto che si riesce a portare la scrittura
+
+401
+00:26:28,560 --> 00:26:34,760
+grafica propria, nel senso che si appoggia proprio completamente diciamo alla sottostruttura
+
+402
+00:26:34,760 --> 00:26:40,120
+di Apple, perché funziona abbastanza bene, però non è ancora ben implementato.
+
+403
+00:26:40,120 --> 00:26:43,080
+Perché, per esempio, se io volessi usare solo la penna al posto
+
+404
+00:26:43,080 --> 00:26:46,120
+del ditone, non si riesce ad esempio a spostare i blocchi da
+
+405
+00:26:46,120 --> 00:26:48,840
+una parte dell'altra, non si riesce a dare le spunte.
+
+406
+00:26:48,840 --> 00:26:51,560
+Ci sono un po' di problematiche che ovviamente io ho alzato la
+
+407
+00:26:51,560 --> 00:26:54,760
+manina, l'ho mandato a noi, ho detto ragazzi, guardate che dovete un
+
+408
+00:26:54,760 --> 00:26:58,200
+po' più lavorare meglio su Apple Pencil, perché siamo messi un po'
+
+409
+00:26:58,280 --> 00:26:58,680
+maluce.
+
+410
+00:26:58,680 --> 00:27:01,400
+Ho detto: eh sì, ci stiamo lavorando, hai perfettamente ragione.
+
+411
+00:27:01,400 --> 00:27:08,200
+Io purtroppo non ho l'iPad, ho ancora l'iPad del 2010, quindi purtroppo
+
+412
+00:27:08,200 --> 00:27:11,000
+non è supportato nemmeno craft.
+
+413
+00:27:11,720 --> 00:27:13,480
+Giustamente nel 2010
+
+414
+00:27:15,160 --> 00:27:16,040
+il primo iPad
+
+415
+00:27:17,800 --> 00:27:19,560
+1 che ancora dura.
+
+416
+00:27:19,560 --> 00:27:23,640
+Adesso è finito in mano al piccolo Matteo per vedere i video
+
+417
+00:27:23,960 --> 00:27:28,120
+oppure per giocare con i giochini, quelli per bambini, quelli che ti
+
+418
+00:27:28,120 --> 00:27:35,320
+dicono che fanno bene alla memorizzazione, alto, il padre responsabile, prima di
+
+419
+00:27:35,320 --> 00:27:35,880
+tutto.
+
+420
+00:27:35,880 --> 00:27:38,680
+Ci sono alcune cose da dire ancora.
+
+421
+00:27:38,680 --> 00:27:41,800
+C'è la possibilità di fare la collaborazione in tempo reale.
+
+422
+00:27:42,120 --> 00:27:45,640
+Queste sono, però, più per quelli a pagamento.
+
+423
+00:27:45,640 --> 00:27:48,920
+Ci sono delle varie funzioni che sono a pagamento, poi ve lo
+
+424
+00:27:48,920 --> 00:27:53,080
+dirò: craft diciamo a livello personale è un po' limitato.
+
+425
+00:27:53,080 --> 00:27:55,960
+Dopo un po' che lo si usa, se si entra nel mood
+
+426
+00:27:56,200 --> 00:28:00,360
+di utilizzarlo, ci si trova e ci si scontra con delle limitazioni
+
+427
+00:28:00,360 --> 00:28:07,080
+che poi, giustamente, business is business ti portano a dover acquistare l'abbonamento
+
+428
+00:28:07,080 --> 00:28:07,880
+annuale.
+
+429
+00:28:07,880 --> 00:28:13,000
+Tra queste cose, sono le visite delle pagine web pubbliche e le
+
+430
+00:28:13,000 --> 00:28:18,560
+opzioni di esportazione, che ce ne sono tante a livello gratuito, però
+
+431
+00:28:18,720 --> 00:28:25,520
+quelle più interessanti, tra cui la stampa, io non posso stampare la
+
+432
+00:28:25,520 --> 00:28:29,600
+nota perché quella la può fare solo chi ha l'abbonamento annuale.
+
+433
+00:28:29,600 --> 00:28:33,840
+Tuttavia, posso esportare il file in Markdown o il PDF o in
+
+434
+00:28:33,840 --> 00:28:34,960
+text bundle.
+
+435
+00:28:34,960 --> 00:28:40,080
+Insomma, queste le possiamo fare è una funzione bella che a Evernot
+
+436
+00:28:40,400 --> 00:28:45,520
+che ho trovato su Obsidian, ma tramite plugin e la cronologia delle
+
+437
+00:28:45,680 --> 00:28:51,680
+versioni: quindi uno può tornare a ritroso a una versione precedente, se
+
+438
+00:28:51,680 --> 00:28:56,080
+ha sbagliato, certo, per esempio, per il notion, questo mi pare che
+
+439
+00:28:56,080 --> 00:28:59,600
+sia pagamento per arrivare a una cronologia di 30 giorni se non
+
+440
+00:28:59,760 --> 00:29:03,040
+erro, vado un po' a memoria perché io sono sul piano proprio
+
+441
+00:29:03,040 --> 00:29:04,000
+base base.
+
+442
+00:29:04,000 --> 00:29:08,560
+E anche qui la versione diciamo free ha fino a tre recuperi,
+
+443
+00:29:09,040 --> 00:29:12,800
+puoi tornare indietro a tre versioni, non di più, se vuoi di
+
+444
+00:29:12,800 --> 00:29:14,400
+più, giustamente paghi.
+
+445
+00:29:15,120 --> 00:29:17,280
+Anche perché ho visto avendo tutto un sistema.
+
+446
+00:29:17,280 --> 00:29:23,520
+Oltre all'applicazione da sviluppare, anche il back-end di server, giustamente craft, se
+
+447
+00:29:23,520 --> 00:29:30,160
+uno lo utilizza a pieno, consiglio vivamente di acquistare l'abbonamento.
+
+448
+00:29:30,160 --> 00:29:33,600
+Che tra l'altro, adesso penso sia a giri sui 40
+
+449
+00:29:36,800 --> 00:29:40,640
+dollari, poi bisogna vedere come li traducono in euro.
+
+450
+00:29:40,880 --> 00:29:42,640
+Ah, sì, quello è anche vero.
+
+451
+00:29:42,640 --> 00:29:46,000
+Stavo osservando, alzo io un attimo la manina per quanto riguarda i
+
+452
+00:29:46,000 --> 00:29:50,240
+blocchi, perché alla fine, da quello che ho capito, si basa tantissimo
+
+453
+00:29:50,240 --> 00:29:51,200
+sui blocchi.
+
+454
+00:29:51,200 --> 00:29:54,960
+Tu immagino se ho capito bene, stai utilizzando la versione free e
+
+455
+00:29:54,960 --> 00:30:00,920
+quindi hai un limite di mille blocchi, hai già intuito l'orizzonte dei
+
+456
+00:30:00,920 --> 00:30:03,480
+mille blocchi, oppure ci stai alla larga?
+
+457
+00:29:59,840 --> 00:30:05,240
+Sono ancora alla larga.
+
+458
+00:30:05,400 --> 00:30:12,360
+Dopo aver buttato dentro, diciamo 5-6 puntate, poi ho messo dentro anche
+
+459
+00:30:13,560 --> 00:30:16,440
+delle note per alcuni clienti.
+
+460
+00:30:16,920 --> 00:30:20,280
+Sono ancora alla larga, diciamo che sono a metà.
+
+461
+00:30:20,280 --> 00:30:25,320
+Dopo un utilizzo di sei mesi circa, se lo si usa pesantemente,
+
+462
+00:30:25,320 --> 00:30:31,160
+dipende poi da quanto si prendono note, insomma, da quante note hai
+
+463
+00:30:31,160 --> 00:30:32,600
+giornalmente.
+
+464
+00:30:32,600 --> 00:30:36,680
+Perché poi c'è anche la funzione della nota giornaliera.
+
+465
+00:30:36,680 --> 00:30:40,760
+Se chi ha la passione di mettersi lì di farsi la to
+
+466
+00:30:40,840 --> 00:30:42,120
+do list ogni giorno.
+
+467
+00:30:42,920 --> 00:30:43,880
+Se poi utilizzi
+
+468
+00:30:45,160 --> 00:30:50,840
+, ogni sottoblocco viene contato come blocco quindi ti va a scalare i
+
+469
+00:30:50,840 --> 00:30:53,160
+mille blocchi che hai gratuitamente.
+
+470
+00:30:53,160 --> 00:30:55,720
+Gratuitamente hai anche altre limitazioni.
+
+471
+00:30:55,720 --> 00:30:59,560
+Il problema è che ad esempio hai solo tre pagine per i
+
+472
+00:30:59,560 --> 00:31:04,840
+backlinks quindi anche quella è una limitazione molto pesante, quella che tra
+
+473
+00:31:04,840 --> 00:31:09,080
+l'altro poi mi ha fatto decidere di passare ad altro, perché backlink
+
+474
+00:31:09,240 --> 00:31:14,680
+altre pagine ti limita tantissimo se tu utilizzi veramente la funzione SicConBrain
+
+475
+00:31:14,680 --> 00:31:16,040
+e le Wikilinks.
+
+476
+00:31:16,040 --> 00:31:17,160
+Questa è una limitazione.
+
+477
+00:31:17,320 --> 00:31:17,800
+Certo.
+
+478
+00:31:17,800 --> 00:31:21,880
+Stavo notando tra le altre cose che c'è un limite di file
+
+479
+00:31:21,880 --> 00:31:25,720
+uploads di 5 MB e uno storage di 1 GB per la
+
+480
+00:31:25,720 --> 00:31:29,960
+versione personal, che dovrebbe essere quella free, non l'avevo visto io.
+
+481
+00:31:29,960 --> 00:31:33,960
+Questa qui è la versione free, prende 5 MB di file upload
+
+482
+00:31:33,960 --> 00:31:38,920
+e appunto 1 GB di storage, che non è poco un GB.
+
+483
+00:31:38,920 --> 00:31:42,920
+Certo è che se lo metti di fianco all'unlimited dei file upload
+
+484
+00:31:43,000 --> 00:31:43,960
+dei 50 GB
+
+485
+00:31:45,040 --> 00:31:48,800
+della versione professional, che come dicevamo costa 45 euro e più o
+
+486
+00:31:48,800 --> 00:31:50,560
+meno quello che vai a pagare con
+
+487
+00:31:51,840 --> 00:31:57,280
+un diciamo un sistema di storage online più o meno, un po'
+
+488
+00:31:57,280 --> 00:31:57,680
+di più.
+
+489
+00:31:57,680 --> 00:32:01,440
+Però chiaramente ci sono tante cose e anche l'applicazione
+
+490
+00:32:04,960 --> 00:32:12,000
+l'applicazione la consiglio per chi, come noi lavora su OS X, è
+
+491
+00:32:12,000 --> 00:32:18,720
+l'applicazione che più mi è piaciuta come integrazione a livello sia di
+
+492
+00:32:18,720 --> 00:32:23,120
+interfaccia grafica che proprio di dialogo con il sistema operativo.
+
+493
+00:32:23,440 --> 00:32:29,600
+Hai qualche domanda o stai facendo un ripasso su comandi rapidi?
+
+494
+00:32:30,480 --> 00:32:36,160
+Quello dopo ci divertiremo, direi che Daniele è stato bravissimo, nel senso
+
+495
+00:32:36,160 --> 00:32:37,760
+che è stato molto preciso.
+
+496
+00:32:37,760 --> 00:32:38,400
+Sì, sì.
+
+497
+00:32:38,400 --> 00:32:42,320
+Alzo ancora la manina per dire l'ultima cosa, visto che voi due
+
+498
+00:32:42,320 --> 00:32:49,360
+siete utilizzatori di iPad, ecco Craft, ha un penso che stiano lavorando.
+
+499
+00:32:49,360 --> 00:32:54,480
+Comunque so che stanno pian piano tirando fuori sempre nuove versioni.
+
+500
+00:32:54,800 --> 00:32:58,560
+L'ho fatto provare a un mio collega, l'ha provato e mi ha
+
+501
+00:32:58,560 --> 00:33:00,160
+detto due o tre cose.
+
+502
+00:33:00,160 --> 00:33:03,360
+La prima cosa che lui ha visto la differenza tra il mio
+
+503
+00:33:03,360 --> 00:33:07,360
+MacBook e il suo iPad è che non ha lo stesso layout.
+
+504
+00:33:07,360 --> 00:33:12,080
+Quindi il layout non è proprio simile a quello che c'è sul
+
+505
+00:33:12,080 --> 00:33:12,800
+desktop.
+
+506
+00:33:12,800 --> 00:33:16,960
+Poi, ad esempio, mancano la visualizzazione a cartelle che c'è sul desktop
+
+507
+00:33:17,040 --> 00:33:18,080
+e non sui pad.
+
+508
+00:33:18,240 --> 00:33:22,400
+Sui pad si vedono solo i blocchi e quindi ti lascia un
+
+509
+00:33:22,400 --> 00:33:22,880
+po'
+
+510
+00:33:23,920 --> 00:33:25,320
+un'altra volta disorientato.
+
+511
+00:33:25,320 --> 00:33:30,840
+Quindi, perché non trovi la stessa scelta esatto, curiosa, e un problema,
+
+512
+00:33:30,840 --> 00:33:37,000
+almeno quello che mi ha detto lui riporto sempre, ringrazio Davide per
+
+513
+00:33:37,000 --> 00:33:37,880
+questo aiuto.
+
+514
+00:33:38,040 --> 00:33:43,320
+Per il track pad, perché dice che con la Magic Keyboard, lo
+
+515
+00:33:43,320 --> 00:33:47,640
+scorrimento a due dita che sul desktop, serve per navigare tra i
+
+516
+00:33:47,640 --> 00:33:53,880
+pannelli, invece, qua non funziona, sposta solamente i blocchi e basta.
+
+517
+00:33:53,880 --> 00:33:59,240
+Quindi, questa funzione che lui utilizza, che avevo utilizzato sul desktop, non
+
+518
+00:33:59,240 --> 00:34:01,320
+la ritrovavo sull'iPad.
+
+519
+00:34:01,880 --> 00:34:03,720
+I famosi tre puntini per
+
+520
+00:34:05,400 --> 00:34:11,320
+le varie impostazioni sul Mac, sono in alto a destra, mentre sull'iPad
+
+521
+00:34:11,400 --> 00:34:12,520
+sono in basso a sinistra.
+
+522
+00:34:12,520 --> 00:34:17,240
+Quindi, o qualche volta si perde dove sono questi tre puntini per
+
+523
+00:34:17,240 --> 00:34:19,080
+le impostazioni e le varie feci.
+
+524
+00:34:19,320 --> 00:34:22,920
+Ho visto che dall'iPad, proprio ha un doc che si alza con
+
+525
+00:34:22,920 --> 00:34:28,760
+varie funzioni, in stile iPad esatto, per concludere, io, come ho detto
+
+526
+00:34:28,760 --> 00:34:32,760
+prima, consiglio questa applicazione per gli utenti Mac.
+
+527
+00:34:32,760 --> 00:34:37,480
+Io non la utilizzo perché lavoro anche su Windows, quindi avevo bisogno
+
+528
+00:34:37,480 --> 00:34:43,640
+di un'applicazione multipiattaforma, craft non lo è, ma se sta all'interno dell'ecosistema
+
+529
+00:34:43,640 --> 00:34:49,480
+Apple, è sicuramente l'applicazione più vicina allo stile Apple, è decisamente
+
+530
+00:34:51,000 --> 00:34:51,880
+molto ben integrata.
+
+531
+00:34:51,880 --> 00:34:55,320
+Adesso sto guardando dal desktop, da un browser.
+
+532
+00:34:55,800 --> 00:35:01,480
+Allora vi saluto e vi ringrazio di avervi fatto partecipare al vostro
+
+533
+00:35:01,480 --> 00:35:02,280
+podcast.
+
+534
+00:35:02,600 --> 00:35:03,880
+Sono lusingato.
+
+535
+00:35:03,880 --> 00:35:07,880
+Un piacere, anzi, alla prossima, è stato un piacere, guardo Daniele.
+
+536
+00:35:07,880 --> 00:35:11,400
+Allora, dopo che abbiamo parlato con Daniele di questa bella applicazione che
+
+537
+00:35:11,400 --> 00:35:14,840
+ci ha spiegato tutto quanto, e ringraziamo ancora per averci dato questi
+
+538
+00:35:15,120 --> 00:35:19,440
+consigli e sponiamo come sempre tutti quanti gli ascoltatori a dire la
+
+539
+00:35:14,920 --> 00:35:21,280
+propria, sapete come contattarci.
+
+540
+00:35:21,360 --> 00:35:23,440
+Trovate tutti i link nelle note dell'episodio.
+
+541
+00:35:23,440 --> 00:35:26,880
+Ma adesso andiamo a bomba e andiamo un attimo a vedere di
+
+542
+00:35:26,880 --> 00:35:28,480
+che si parla di questa puntata.
+
+543
+00:35:28,480 --> 00:35:30,160
+Parliamo di comandi rapidi.
+
+544
+00:35:30,160 --> 00:35:35,280
+Probabilmente li daremo, visto il protarsi della puntata, magari ne facciamo solo
+
+545
+00:35:35,280 --> 00:35:39,680
+un po' di accenno, non andremo in profondità in questo caso, ma
+
+546
+00:35:39,680 --> 00:35:42,000
+ce l'avevamo già come idea.
+
+547
+00:35:42,000 --> 00:35:46,480
+Quindi direi che comandi rapidi, che per gli amici è Shock Huts,
+
+548
+00:35:46,480 --> 00:35:52,240
+perché utilizza le versioni inglese di questo simpatico aggeggio che aveva sostituito
+
+549
+00:35:52,240 --> 00:35:53,680
+qualche tempo fa un altro.
+
+550
+00:35:53,840 --> 00:35:55,600
+All'inizio non si chiamavano così.
+
+551
+00:35:55,600 --> 00:35:57,120
+Come si chiamavano già all'inizio?
+
+552
+00:35:58,160 --> 00:36:01,520
+L'applicazione di base, quella nativa, si chiama Workflow.
+
+553
+00:36:02,560 --> 00:36:08,080
+Facendo un po' di storia, diciamo, Workflow nasce come applicazione a pagamento
+
+554
+00:36:08,640 --> 00:36:13,280
+ed era l'automator, chiamiamolo così per iOS e poi iPadOS.
+
+555
+00:36:13,280 --> 00:36:17,760
+Questa applicazione è stata addirittura acquistata da Apple e tutta la società
+
+556
+00:36:17,920 --> 00:36:19,600
+con anche i programmatori.
+
+557
+00:36:19,600 --> 00:36:25,840
+E a questo punto sostanzialmente nasce Comandi Rapidi in italiano Siri Shortcut
+
+558
+00:36:26,080 --> 00:36:30,000
+perché ricordiamocelo, c'è una profonda integrazione anche con Siri e quindi con
+
+559
+00:36:30,000 --> 00:36:31,440
+il riconoscimento vocale.
+
+560
+00:36:32,160 --> 00:36:39,520
+Nasce dopo un annetto dall'acquisto di Warflow, appunto comandi rapidi, e da
+
+561
+00:36:39,520 --> 00:36:42,640
+qui poi nel tempo si è sviluppato.
+
+562
+00:36:42,640 --> 00:36:46,960
+E da quest'anno a ottobre i comandi rapidi è passato anche su
+
+563
+00:36:46,960 --> 00:36:51,080
+Mac, quindi a questo punto abbiamo il cerchio che si chiude.
+
+564
+00:36:51,080 --> 00:36:55,840
+Questa piattaforma di automazione, diciamo, per iPhone e per iPad passa anche
+
+565
+00:36:55,840 --> 00:36:56,960
+sui Mac.
+
+566
+00:36:56,960 --> 00:37:01,000
+E appunto la cosa interessante, diciamo, un po' per tutti è questo:
+
+567
+00:36:59,840 --> 00:37:05,240
+cioè il fatto che un certo limite, diciamo, di premure.
+
+568
+00:37:05,320 --> 00:37:09,320
+Perché i comandi rapidi non funzionano in maniera trasparente su tutte le
+
+569
+00:37:09,320 --> 00:37:15,800
+piattaforme in modo uguale, però molti comandi rapidi che potete creare funzionano
+
+570
+00:37:15,800 --> 00:37:19,480
+indifferentemente dalla piattaforma su cui lo utilizzate.
+
+571
+00:37:19,480 --> 00:37:23,480
+Quindi una cosa che avete creato per l'iPhone può funzionare tranquillamente sul
+
+572
+00:37:23,480 --> 00:37:24,840
+vostro Macatto.
+
+573
+00:37:25,000 --> 00:37:28,280
+Dunque, essenzialmente i comandi rapidi cosa fa?
+
+574
+00:37:28,280 --> 00:37:33,160
+È un sistema semplice e visuale perché non richiede in realtà di
+
+575
+00:37:33,160 --> 00:37:37,960
+essere un programmatore per ottenere qualcosa, utilizza dei comandi molto semplici per
+
+576
+00:37:37,960 --> 00:37:40,520
+la concatenazione di azioni.
+
+577
+00:37:40,520 --> 00:37:44,440
+Per esempio, ci potrebbe essere una short cuts che dice prendi questo
+
+578
+00:37:44,440 --> 00:37:48,280
+file, prendi lo sposti in questa cartella e volendo lo rinomina.
+
+579
+00:37:48,280 --> 00:37:50,520
+E qui sono andato un po' a braccio, non so se si
+
+580
+00:37:50,520 --> 00:37:52,600
+possa fare, ma ipotizzo di sì.
+
+581
+00:37:52,600 --> 00:37:56,680
+Diciamo che adesso sì, fino a poco tempo fa questa operazione che
+
+582
+00:37:56,680 --> 00:37:57,000
+tu
+
+583
+00:37:58,600 --> 00:38:04,200
+raccontavi era un po' limitata su iPhone e iPad, ma con l'unione
+
+584
+00:38:04,200 --> 00:38:08,920
+dei sistemi operativi, diciamo, con la gestione su più sistemi operativi.
+
+585
+00:38:08,920 --> 00:38:14,760
+Adesso comandi rapidi sulla gestione dei file, diciamo, è molto migliorata anche
+
+586
+00:38:14,760 --> 00:38:17,880
+su iPad e iPhone.
+
+587
+00:38:17,880 --> 00:38:22,840
+Questo sostanzialmente il grosso limite era legato al fatto del sandboxing che
+
+588
+00:38:22,840 --> 00:38:26,280
+è molto pesante sui dispositivi mobili di Apple.
+
+589
+00:38:26,280 --> 00:38:31,080
+E fino a poco tempo fa si poteva accedere prevalentemente solo alla
+
+590
+00:38:31,080 --> 00:38:36,840
+cartella shortcut con comandi rapida all'interno dei vostri dispositivi, sostanzialmente.
+
+591
+00:38:36,840 --> 00:38:40,200
+Quindi non si aveva la possibilità di accedere a tutto il file
+
+592
+00:38:40,200 --> 00:38:43,240
+system, chiamiamolo così, dei dispositivi mobili.
+
+593
+00:38:43,240 --> 00:38:48,160
+Giusto per fare un paragone, comandi rapidi è molto simile e si
+
+594
+00:38:44,840 --> 00:38:49,520
+ispira ad automator.
+
+595
+00:38:49,840 --> 00:38:53,120
+Quindi ci sono dei piccoli blocchi, diciamo.
+
+596
+00:38:53,120 --> 00:38:59,520
+Roberto è sempre contrario automator e io sono sempre contrario.
+
+597
+00:38:59,520 --> 00:39:05,440
+Automator, per esempio, dal mio punto di vista, un'interfaccia molto più intuitiva
+
+598
+00:39:05,440 --> 00:39:07,200
+di comandi rapidi.
+
+599
+00:39:07,440 --> 00:39:10,320
+Questo me lo dico per semplice fatto, forse perché ho iniziato a
+
+600
+00:39:10,320 --> 00:39:16,240
+lavorare su Mac su automator e la possibilità di avere una tendina
+
+601
+00:39:16,240 --> 00:39:21,760
+sulla sinistra dove io praticamente tutti i piccoli blocchi che potevo semplicemente
+
+602
+00:39:21,760 --> 00:39:26,240
+spostare con la manina sulla destra mi veniva più semplice piuttosto che
+
+603
+00:39:26,240 --> 00:39:30,640
+in comandi rapidi, che mi ha dato sempre un po' un'impressione di
+
+604
+00:39:30,880 --> 00:39:35,840
+non di difficoltà, ma diciamo che mi dovevo ambientare per riuscire a
+
+605
+00:39:35,840 --> 00:39:37,360
+ottenere qualcosa.
+
+606
+00:39:37,360 --> 00:39:40,640
+Mentre con Auto Metro mi sembrava molto più intuitivo.
+
+607
+00:39:40,640 --> 00:39:44,720
+Questo perché è anche vero che io passo le giornate sul Mac
+
+608
+00:39:45,200 --> 00:39:49,920
+e non su iPad e su iPhone e quindi la mia conoscenza
+
+609
+00:39:49,920 --> 00:39:53,200
+è molto limitata sotto questo punto di vista rispetto al Mac.
+
+610
+00:39:53,200 --> 00:39:58,320
+Al Mac diciamo l'interfaccia grafica che mi si presentava se all'inizio diciamo
+
+611
+00:39:58,320 --> 00:40:02,080
+che all'inizio, chiaramente come tutti i programmi che apri, ti lasci un
+
+612
+00:40:02,080 --> 00:40:03,200
+po' orientarti.
+
+613
+00:40:03,200 --> 00:40:07,040
+Però ho capito il meccanismo che bastava semplicemente spostare questi blocchi e
+
+614
+00:40:07,040 --> 00:40:13,280
+farli funzionare mettendo eventualmente delle variabili e registrando addirittura c'era la possibilità
+
+615
+00:40:13,280 --> 00:40:17,200
+di creare delle vere e proprie applicazioni, nel senso che delle micro
+
+616
+00:40:17,200 --> 00:40:20,560
+applicazioni, ce n'è una che io non ho mai avuto il tempo
+
+617
+00:40:21,200 --> 00:40:26,400
+di parlarne né su blog né su Snap, è un'applicazione che permette,
+
+618
+00:40:26,400 --> 00:40:30,280
+ad esempio, di fare un salvataggio giornaliero dei dati che sono stati
+
+619
+00:40:29,760 --> 00:40:30,680
+cambiati
+
+620
+00:40:29,840 --> 00:40:35,240
+all'interno del Mac dipene li salva in cifrato su i cloud.
+
+621
+00:40:35,400 --> 00:40:37,800
+Quindi non ho mai avuto modo di parlarne, ma per esempio con
+
+622
+00:40:37,800 --> 00:40:41,800
+automator questo è possibile farlo e se l'ho fatto io vi garantisco
+
+623
+00:40:41,800 --> 00:40:42,920
+che è veramente facile.
+
+624
+00:40:43,000 --> 00:40:47,320
+Si considera che comandi rapidi su Mac ha più o meno le
+
+625
+00:40:47,320 --> 00:40:52,520
+funzioni che dici tu: cioè la nuova interfaccia ti permette di vedere
+
+626
+00:40:53,000 --> 00:40:59,480
+automator sostanzialmente avevi sulla sinistra le azioni, chiamiamole così, e sulla destra
+
+627
+00:40:59,480 --> 00:41:03,160
+il flusso di lavoro, cioè la concatenazione delle azioni stesse che andavi
+
+628
+00:41:03,240 --> 00:41:04,120
+a tracciare.
+
+629
+00:41:04,120 --> 00:41:08,600
+Comandi rapidi funziona al contrario, cioè il flusso di lavoro è sulla
+
+630
+00:41:08,600 --> 00:41:15,080
+sinistra e invece sulla destra trovi tutte le singolazioni, c'è un sistema
+
+631
+00:41:15,400 --> 00:41:22,200
+di chiamiamola così, gerarchizzazione di queste azioni un po' diverso, ovviamente, perché
+
+632
+00:41:22,200 --> 00:41:27,720
+viene su iPad e iPhone, diciamo, lo spazio dello schermo spesso bloccava
+
+633
+00:41:27,880 --> 00:41:31,960
+la possibilità di avere tutta questa interfaccia a vista e quindi spesso
+
+634
+00:41:31,960 --> 00:41:36,600
+volentieri su iPhone, tuttora c'è in estrema sintesi un sistema per andare
+
+635
+00:41:36,600 --> 00:41:42,920
+a cercare velocemente questa azione, quindi trascinarla all'interno del flusso, ma ammetto
+
+636
+00:41:42,920 --> 00:41:46,440
+che io non faccio quasi mai, cioè non creo mai un comando
+
+637
+00:41:46,440 --> 00:41:47,800
+rapido da iPhone.
+
+638
+00:41:47,800 --> 00:41:52,360
+Su iPad, invece, soprattutto su quelli grossi, tipo il mio, c'era la
+
+639
+00:41:52,360 --> 00:41:57,000
+colonna di sinistra dove avevi tutte le azioni che potevi prendere e
+
+640
+00:41:57,000 --> 00:41:58,840
+inserire nel flusso di lavoro.
+
+641
+00:41:58,840 --> 00:42:02,840
+Quindi poi alla fine quello che vuoi fare tu o che volevi
+
+642
+00:42:02,840 --> 00:42:06,600
+fare tu, c'è, quindi non ti deve spaventare, mettiamola così.
+
+643
+00:42:06,600 --> 00:42:12,600
+Anche perché, appunto, come dicevo, workflow prima e comandi rapidi adesso ha
+
+644
+00:42:12,600 --> 00:42:17,120
+preso tantissimo da automator perché di fatto era l'automator
+
+645
+00:42:14,920 --> 00:42:18,960
+di iPhone iPad.
+
+646
+00:42:19,120 --> 00:42:24,240
+Anzi, da un certo punto di vista ha innovato e ha migliorato
+
+647
+00:42:24,240 --> 00:42:25,280
+su automator.
+
+648
+00:42:25,280 --> 00:42:28,240
+Per se si iniziano a fare adesso non voglio entrare proprio nel
+
+649
+00:42:28,240 --> 00:42:31,600
+dettaglio, ma se si iniziano a fare delle automazioni un pelo più
+
+650
+00:42:31,840 --> 00:42:38,880
+complesse, diciamo, le variabili magiche, tutta una serie di funzioni, anche come
+
+651
+00:42:39,360 --> 00:42:45,040
+comandi rapidi estrapolai i dati dai file che gli passi, è molto
+
+652
+00:42:45,120 --> 00:42:48,240
+molto più semplice e ti permette veramente di lavorare molto meglio.
+
+653
+00:42:48,240 --> 00:42:52,960
+Però già lì andiamo oltre l'aspetto medio della vicenda.
+
+654
+00:42:52,960 --> 00:42:57,360
+Quindi adesso la domanda che ti volevo fare, la rimandiamo: che variabili
+
+655
+00:42:57,360 --> 00:42:59,680
+magiche, ma sono davvero magiche?
+
+656
+00:42:59,840 --> 00:43:03,120
+Mettiamola così, tanto comunque ne volevo parlare brevemente.
+
+657
+00:43:03,120 --> 00:43:08,720
+Comunque la variabile, giusto perché parliamo degli argomenti, mettiamo le basi poi
+
+658
+00:43:08,720 --> 00:43:14,720
+per una puntata più approfondita, mettiamola così a livello di programmazione, perché
+
+659
+00:43:14,800 --> 00:43:18,400
+comunque adesso l'interfaccia può essere
+
+660
+00:43:20,080 --> 00:43:22,880
+semplice finché si vuole, ma comunque
+
+661
+00:43:24,000 --> 00:43:29,520
+comandi rapidi come automatore da precisare, richiede un minimo di concetti di
+
+662
+00:43:29,520 --> 00:43:31,760
+applicazione, cioè di come si programma.
+
+663
+00:43:31,760 --> 00:43:35,760
+Le variabili sono il tipico concetto di come viene fatto un programma
+
+664
+00:43:35,840 --> 00:43:40,880
+e le variabili consideriamole come delle scatole all'interno delle quali inseriamo un
+
+665
+00:43:40,880 --> 00:43:41,360
+dato.
+
+666
+00:43:41,360 --> 00:43:46,160
+Il dato può essere del testo, un file, un numero e così
+
+667
+00:43:46,160 --> 00:43:46,640
+via.
+
+668
+00:43:46,640 --> 00:43:52,160
+Una volta che abbiamo nel cassetto questo dato e abbiamo quindi questa
+
+669
+00:43:52,160 --> 00:43:57,120
+variabile la chiamiamo la variabile A, questa variabile A la possiamo ritirare
+
+670
+00:43:57,120 --> 00:44:00,360
+fuori e quindi tirare fuori di nuovo il dato dal cassetto alla
+
+671
+00:43:59,920 --> 00:44:04,840
+bisogna, diciamo e ovviamente fare operazioni con questi dati.
+
+672
+00:44:05,160 --> 00:44:11,800
+Le variabili magiche di fatto semplificano ulteriormente tutta questa operazione in maniera
+
+673
+00:44:11,800 --> 00:44:17,000
+anche grafica, quindi, insomma, hanno fatto secondo me qualcosa di molto intuitivo.
+
+674
+00:44:17,000 --> 00:44:21,720
+Io capisco qualcosa di programmazione, ma non sono tutto forché un programmatore,
+
+675
+00:44:21,720 --> 00:44:25,960
+e devo dire la verità: questa gestione, diciamo, una volta che ovviamente
+
+676
+00:44:25,960 --> 00:44:29,720
+si è capito, ma adesso lo vedremo nelle puntate successive, se le
+
+677
+00:44:29,720 --> 00:44:32,520
+faremo, anzi, apro e chiudo una parentesi.
+
+678
+00:44:32,520 --> 00:44:38,040
+Questa è una puntata introduttiva, cercheremo di chiuderla in un tempo decente,
+
+679
+00:44:38,040 --> 00:44:39,000
+chiamiamola così.
+
+680
+00:44:39,000 --> 00:44:42,760
+Se c'è interesse, ovviamente ne faremo delle altre un po' più approfondite,
+
+681
+00:44:42,760 --> 00:44:47,880
+giusto per andare un po' nel dettaglio, perché ovviamente ci sono tantissimi
+
+682
+00:44:47,880 --> 00:44:51,400
+aspetti di comandi rapidi, che è un'applicazione anche molto complessa, si riescono
+
+683
+00:44:51,560 --> 00:44:53,320
+a fare cose molto complesse.
+
+684
+00:44:53,560 --> 00:44:59,320
+Se invece non c'è questo interesse, casomai ne faremo un'altra, diciamo e
+
+685
+00:44:59,320 --> 00:45:02,120
+poi chiudiamo lì per tempi migliori, mettiamola così.
+
+686
+00:45:02,120 --> 00:45:06,840
+Tornando a noi, quindi invece andando un po' indietro, quindi cercando di
+
+687
+00:45:07,240 --> 00:45:12,440
+dare un'infarinatura di come funzionano sostanzialmente i comandi rapidi, se apriamo la
+
+688
+00:45:12,440 --> 00:45:19,320
+nostra Comandi Rapidi, che di fatto appunto nasce come Siri, shortcut e
+
+689
+00:45:19,320 --> 00:45:22,520
+quindi c'è una sorta di S come icona.
+
+690
+00:45:23,080 --> 00:45:25,560
+L'icona è appunto quella di una S.
+
+691
+00:45:25,560 --> 00:45:29,880
+Quindi, se pensate a una C o una R, non pensateci, è
+
+692
+00:45:29,880 --> 00:45:35,800
+tutto forché, perché la traduzione poi italiana di shortcut, che sarebbe scorciatoia,
+
+693
+00:45:35,800 --> 00:45:37,480
+tradotta proprio letteralmente.
+
+694
+00:45:37,720 --> 00:45:42,440
+Invece Apple ha pensato effettivamente comandi rapidi ha un suo senso logico,
+
+695
+00:45:42,440 --> 00:45:46,240
+cioè sono dei comandi che ti permettono di velocizzare delle operazioni che
+
+696
+00:45:46,240 --> 00:45:52,480
+abitualmente su iPhone, iPad o Mac richiederebbero un'interazione umana più complessa e
+
+697
+00:45:52,480 --> 00:45:53,520
+comunque più tempo.
+
+698
+00:45:54,080 --> 00:45:58,080
+Quindi sono automazioni per velocizzare un flusso di lavoro.
+
+699
+00:45:58,080 --> 00:46:03,200
+Se andiamo a vedere l'applicazione comandi rapidi partendo al contrario, cioè da
+
+700
+00:46:03,520 --> 00:46:08,720
+destra a sinistra, non si dovrebbe, ma secondo me è l'approccio più
+
+701
+00:46:09,200 --> 00:46:11,040
+intuitivo alla vicenda.
+
+702
+00:46:11,040 --> 00:46:14,160
+Abbiamo quella che è la galleria dei comandi rapidi.
+
+703
+00:46:14,160 --> 00:46:19,040
+Se non volete sporcarvi le mani con niente, questo è il posto
+
+704
+00:46:19,040 --> 00:46:20,400
+dove dovete andare voi.
+
+705
+00:46:20,400 --> 00:46:25,440
+Perché infatti io lì ci sguazzo, esatto, perché di fatto lì trovate
+
+706
+00:46:25,440 --> 00:46:29,120
+già dei comandi rapidi belli che pronti, con le descrizioni, con le
+
+707
+00:46:29,120 --> 00:46:32,640
+spiegazioni fatte da Apple e così via.
+
+708
+00:46:32,640 --> 00:46:34,240
+Sono cose semplici.
+
+709
+00:46:34,240 --> 00:46:38,640
+E secondo me la forza, diciamo, di comandi rapidi è proprio questa:
+
+710
+00:46:38,880 --> 00:46:40,800
+si possono fare delle cose molto compleche.
+
+711
+00:46:40,880 --> 00:46:45,520
+VT ci fa delle robe che ci sono 150 azioni dentro e
+
+712
+00:46:45,520 --> 00:46:47,360
+ti fa anche la birra, ok?
+
+713
+00:46:47,600 --> 00:46:51,520
+Ma la verità è che questa applicazione qui è comoda per fare
+
+714
+00:46:51,520 --> 00:46:55,200
+delle operazioni tra che guardate chiamiamole stupide, ma utili.
+
+715
+00:46:55,200 --> 00:46:59,200
+Un esempio che faccio sempre è state tornando a casa dal lavoro
+
+716
+00:46:59,200 --> 00:47:03,760
+in macchina e volete mandare un sms a vostra moglie dicendo arrivo
+
+717
+00:47:03,760 --> 00:47:06,640
+tra X minuti in base al traffico, ok.
+
+718
+00:47:06,640 --> 00:47:12,560
+E questi X minuti vengono calcolati da comandi rapidi accedendo alle capacità
+
+719
+00:47:12,560 --> 00:47:17,600
+di gestione del traffico e quindi al tempo previsto d'arrivo che l'iPhone,
+
+720
+00:47:17,600 --> 00:47:22,400
+sapendo la vostra posizione e avendo appunto mappe, permette di fare.
+
+721
+00:47:22,400 --> 00:47:29,080
+E tutta questa operazione la fate premendo un pulsante quindi in automatico,
+
+722
+00:47:29,120 --> 00:47:30,680
+comandi rapidi fa tutto.
+
+723
+00:47:30,920 --> 00:47:35,720
+Ed è questa, secondo me, la funzione utile alle masse, chiamiamola così,
+
+724
+00:47:35,720 --> 00:47:39,560
+poi è ovvio che per una nicchia di gente che è appassionata
+
+725
+00:47:39,560 --> 00:47:44,280
+di fare cose un po' particolari, si può fare anche questo.
+
+726
+00:47:44,280 --> 00:47:47,640
+La cosa interessante, appunto, di comandi rapidi è che vi permette, appunto,
+
+727
+00:47:47,640 --> 00:47:49,480
+di unire applicazioni differenti.
+
+728
+00:47:49,480 --> 00:47:55,000
+I messaggi e le mappe e estrarre dati dalle mappe per poi
+
+729
+00:47:55,000 --> 00:47:57,720
+mandare un messaggio, completare un messaggio in automatico.
+
+730
+00:47:57,720 --> 00:48:01,240
+Quindi non dovete neanche scriverlo, la persona a cui lo mandate casomai
+
+731
+00:48:01,560 --> 00:48:05,640
+è già stabilita e quindi vi velocizza notevolmente il lavoro.
+
+732
+00:48:06,120 --> 00:48:11,720
+Nell'appunto galleria trovate tutta una serie di ne trovate veramente tante e
+
+733
+00:48:12,040 --> 00:48:18,760
+mentre il workflow era in inglese, quindi c'era effettivamente già l'ulteriore scoglio
+
+734
+00:48:18,760 --> 00:48:23,960
+di avere un'applicazione in inglese con comandi rapidi, cioè con comandi comunque
+
+735
+00:48:23,960 --> 00:48:25,160
+in inglese.
+
+736
+00:48:25,160 --> 00:48:28,680
+Con il passaggio all'interno di Apple, Apple ha tradotto tutto.
+
+737
+00:48:28,680 --> 00:48:31,480
+Quindi i comandi rapidi sono in italiano.
+
+738
+00:48:31,480 --> 00:48:34,200
+A volte non sempre, perché poi
+
+739
+00:48:35,480 --> 00:48:41,080
+più che altro sono gli sviluppatori terzi che possono aggiungere comandi rapidi,
+
+740
+00:48:41,080 --> 00:48:43,400
+ma spesso e volentieri ovviamente lo fanno in inglese.
+
+741
+00:48:43,400 --> 00:48:49,960
+Quindi c'è questa non sincronia di tutto, però l'80% dell'interfaccia è pacificamente
+
+742
+00:48:49,960 --> 00:48:53,720
+trattato in italiano, hanno fatto veramente un bel lavoro e tutta la
+
+743
+00:48:53,720 --> 00:48:58,040
+galleria è in italiano quindi è molto comoda, vi fa vedere anche
+
+744
+00:48:58,040 --> 00:49:02,440
+come anche qui, per esempio, potete scaricare un'azione che non fa esattamente
+
+745
+00:49:02,440 --> 00:49:06,280
+quello che volete voi, ma sulla base della quale poi fate le
+
+746
+00:49:06,280 --> 00:49:10,680
+modifiche e potete ottimizzarla per i vostri flussi di lavoro e non
+
+747
+00:49:10,680 --> 00:49:13,800
+per i flussi di lavoro che casomai Apple ha pensato e così
+
+748
+00:49:13,800 --> 00:49:14,200
+via.
+
+749
+00:49:14,200 --> 00:49:20,160
+Direi che quella centrale, le automazioni, la teniamo per ultima, tutto invece
+
+750
+00:49:20,160 --> 00:49:22,640
+sulla sinistra vi trovate i miei comandi rapidi.
+
+751
+00:49:22,640 --> 00:49:27,680
+Se schiacciate lì avete invece i vostri comandi rapidi, cioè gli eventuali
+
+752
+00:49:27,680 --> 00:49:31,200
+comandi rapidi che avete scaricato la galleria o i comandi rapidi che
+
+753
+00:49:31,200 --> 00:49:32,160
+avete creato voi.
+
+754
+00:49:32,320 --> 00:49:37,680
+Quindi ovviamente lì dentro potete crearne di nuovi e potete giocare con
+
+755
+00:49:37,680 --> 00:49:38,880
+i comandi rapidi.
+
+756
+00:49:38,880 --> 00:49:43,280
+Segnalo che se avete abilitato la funzione di sincronizzazione.
+
+757
+00:49:43,280 --> 00:49:47,440
+I comandi rapidi che avete creato per esempio sull'iPad ve li ritrovate
+
+758
+00:49:47,440 --> 00:49:50,400
+sull'iPhone e così anche sul Mac.
+
+759
+00:49:50,400 --> 00:49:55,360
+Quindi è trasparente nelle precedenti versioni di comandi rapidi, soprattutto nelle versioni
+
+760
+00:49:55,360 --> 00:49:59,360
+beta, ci sono stati vari problemi nella sincronizzazione di queste cose qua.
+
+761
+00:49:59,360 --> 00:50:03,440
+Ma nell'ultimo periodo, almeno su questo fronte, Apple ha risolto
+
+762
+00:50:05,360 --> 00:50:06,720
+, ha risolto un po' di problemi.
+
+763
+00:50:06,720 --> 00:50:10,320
+Apro chiuso una parentesi nella chat che abbiamo che avevamo
+
+764
+00:50:11,360 --> 00:50:16,960
+per questa puntata mentre preparavo le ultime cose per andare in diretta,
+
+765
+00:50:16,960 --> 00:50:22,240
+appunto c'era un commento di VCC che diceva che la versione 15.2
+
+766
+00:50:22,240 --> 00:50:27,600
+ha peggiorato ulteriormente dei problemi con comandi rapidi.
+
+767
+00:50:27,600 --> 00:50:31,920
+Come dicevo nella puntata scorsa, ad oggi i comandi rapidi per Mac
+
+768
+00:50:32,080 --> 00:50:36,160
+e per iPhone è traballante, mettiamola così.
+
+769
+00:50:36,480 --> 00:50:41,360
+Questa convergenza di piattaforme è ancora inmatura, chiamiamola così.
+
+770
+00:50:41,360 --> 00:50:42,560
+Quindi attenzione!
+
+771
+00:50:43,120 --> 00:50:48,080
+L'avevamo già ipotizzato durante il keynote se ti ricordi, tante cose funzionano,
+
+772
+00:50:48,080 --> 00:50:52,320
+però ci sono ancora dei problemi e quindi tenetele anche in considerazione.
+
+773
+00:50:52,320 --> 00:50:54,600
+L'ultima funzione che però è interessantissima.
+
+774
+00:50:54,600 --> 00:51:01,480
+Adesso qui proprio la vediamo in maniera molto superficiale, ma se ci
+
+775
+00:50:59,600 --> 00:51:05,240
+sarà tempo è una cosa che dovremmo approfondire, sono le automazioni.
+
+776
+00:51:05,320 --> 00:51:09,400
+E voi direte: che senso ha avere automazioni dentro un programma di
+
+777
+00:51:09,400 --> 00:51:10,520
+automazioni?
+
+778
+00:51:10,520 --> 00:51:14,120
+È una cosa diversa, cioè, uno dei limiti grossi fino a poco
+
+779
+00:51:14,120 --> 00:51:19,800
+tempo fa, fino alla versione aiOS 13, sostanzialmente, era che i comandi
+
+780
+00:51:19,800 --> 00:51:25,880
+rapidi per funzionare richiedeva l'interazione umana, chiamiamola così: voi dovevate comunque in
+
+781
+00:51:26,040 --> 00:51:29,000
+qualche maniera far partire l'automazione.
+
+782
+00:51:29,000 --> 00:51:34,120
+In alcuni casi è comodo, necessaria, ma in altri può essere una
+
+783
+00:51:34,120 --> 00:51:38,520
+scocciatura o comunque un ulteriore azzigogolo alla vicenda.
+
+784
+00:51:38,520 --> 00:51:41,960
+Benissimo, Apple ha fatto due cose interessantissime.
+
+785
+00:51:41,960 --> 00:51:47,480
+Ha creato in questa sezione automazioni, si chiamano trigger, cioè degli eventi
+
+786
+00:51:47,480 --> 00:51:51,800
+che fanno partire i comandi rapidi e sono le automazioni personali.
+
+787
+00:51:51,800 --> 00:51:54,520
+E poi abbiamo anche l'automazioni per la casa.
+
+788
+00:51:54,520 --> 00:51:55,720
+Qui c'è la possibilità
+
+789
+00:51:57,320 --> 00:51:57,640
+esatto.
+
+790
+00:51:57,720 --> 00:52:02,040
+Qui c'è la possibilità di integrare i comandi rapidi con la domotica,
+
+791
+00:52:02,040 --> 00:52:06,280
+quindi con HomeKit e con la gestione diciamo della casa intelligente o
+
+792
+00:52:06,280 --> 00:52:08,040
+smart, chiamatela come volete.
+
+793
+00:52:08,040 --> 00:52:11,640
+Apple o non Apple adesso, anche qui sarebbe carino e in futuro
+
+794
+00:52:11,720 --> 00:52:13,720
+se c'è interesse, potremmo parlarne.
+
+795
+00:52:13,720 --> 00:52:18,520
+Perché non sono un amante, anche se non ho tanti strumenti, ma
+
+796
+00:52:18,760 --> 00:52:24,440
+di come gestire la casa intelligente con le varie soluzioni software.
+
+797
+00:52:24,440 --> 00:52:29,720
+Che anche qui, ovviamente, un kit è la piattaforma Apple, ma ne
+
+798
+00:52:29,720 --> 00:52:30,760
+esistono altre.
+
+799
+00:52:31,640 --> 00:52:35,160
+Esistono programmi per far dialogare piattaforme differenti.
+
+800
+00:52:35,160 --> 00:52:37,480
+Insomma, è una cosa interessante.
+
+801
+00:52:37,720 --> 00:52:42,760
+Se c'è la necessità, scrivete, ditecelo nelle recensioni o mandateci una mail:
+
+802
+00:52:42,760 --> 00:52:47,680
+Apprezziamo volentieri, o anche addirittura potete scriverci su Twitter
+
+803
+00:52:49,600 --> 00:52:51,600
+dove volete, noi leggiamo tutto.
+
+804
+00:52:52,160 --> 00:52:54,960
+Io mai Twitter lo leggo ogni morte di papa.
+
+805
+00:52:54,960 --> 00:52:59,680
+Tuttavia potete farlo, mettiamola così, ma Roberto invece che è un social,
+
+806
+00:52:59,680 --> 00:53:05,200
+anche su Instagram trovate Roberto, ormai è un prezzemolino Roberto.
+
+807
+00:53:05,520 --> 00:53:07,360
+Sì, sì, vi trovate dappertutto.
+
+808
+00:53:07,360 --> 00:53:12,880
+Quindi, come funzionano i comandi rapidi, sostanzialmente abbiamo delle azioni che adesso
+
+809
+00:53:12,880 --> 00:53:14,240
+ce ne sono veramente tante.
+
+810
+00:53:14,240 --> 00:53:20,560
+Quindi adesso vedremo anche come è possibile descriverle o inquadrarle.
+
+811
+00:53:20,800 --> 00:53:24,720
+Ma ci sono delle specificche azioni che possono essere dal mandare creare
+
+812
+00:53:24,720 --> 00:53:30,720
+una mail, mandare un sms o un i message, contare, contare, fare
+
+813
+00:53:30,720 --> 00:53:36,400
+delle operazioni, calcolare una data, sottrarre giorni a una data e così
+
+814
+00:53:36,400 --> 00:53:36,720
+via.
+
+815
+00:53:36,720 --> 00:53:41,680
+Quindi, veramente le azioni possibili sono veramente tante, non ha neanche senso
+
+816
+00:53:41,680 --> 00:53:43,280
+fare un elenco.
+
+817
+00:53:43,280 --> 00:53:48,960
+Grazie a tutte queste azioni che possono essere concatenate l'una all'altra, ovviamente
+
+818
+00:53:48,960 --> 00:53:53,440
+c'è la possibilità di passare i dati da un'applicazione all'altra e manipolare
+
+819
+00:53:53,440 --> 00:53:57,200
+anche questi dati, per cui è lì il gioco della vicenda.
+
+820
+00:53:57,280 --> 00:54:04,320
+Non so, vogliamo datare dei documenti, è ovvio che potendo estrapolare la
+
+821
+00:54:04,320 --> 00:54:08,640
+data del giorno odierno, o addirittura andare a vedere dentro il documento
+
+822
+00:54:08,640 --> 00:54:13,680
+qual è il contenuto e estrapolarlo, ci permette poi di manipolare questi
+
+823
+00:54:13,680 --> 00:54:16,880
+file e rinominarli, ridatarli e così via.
+
+824
+00:54:16,880 --> 00:54:22,800
+Cosa che fino a quando non c'è stato comandi rapidi barra Workflow
+
+825
+00:54:22,960 --> 00:54:27,280
+era praticamente impossibile su iOS, e bisogna andare a mano a modificare
+
+826
+00:54:27,280 --> 00:54:27,920
+tutta a mano.
+
+827
+00:54:28,240 --> 00:54:31,560
+Certo, e probabilmente molti di voi lo fanno tuttora, anche io a
+
+828
+00:54:31,560 --> 00:54:31,960
+volte,
+
+829
+00:54:33,000 --> 00:54:34,520
+di corsa lo faccio perché
+
+830
+00:54:35,720 --> 00:54:37,960
+sì, perché la prima cosa che ti viene in mente è quella
+
+831
+00:54:37,960 --> 00:54:39,000
+farlo manualmente.
+
+832
+00:54:39,000 --> 00:54:42,520
+Tuttavia, soprattutto in determinato: è ovvio che se devo cambiare un file,
+
+833
+00:54:42,520 --> 00:54:45,080
+vabbè, il nome di un file ci metto quello che ci metto,
+
+834
+00:54:45,080 --> 00:54:46,360
+ma non è un dramma.
+
+835
+00:54:46,360 --> 00:54:50,600
+Se già devo iniziare a modificare il nome di 10 file, la
+
+836
+00:54:50,600 --> 00:54:51,880
+cosa inizia a cambiare.
+
+837
+00:54:51,880 --> 00:54:57,560
+Perché con tastiera su iOS è anche abbastanza comodo, ma semplicemente con
+
+838
+00:54:57,560 --> 00:55:01,400
+le dita e quindi con la tastiera software la cosa inizia a
+
+839
+00:55:01,400 --> 00:55:04,440
+diventare meno piacevole solitamente.
+
+840
+00:55:04,440 --> 00:55:08,280
+Quindi, anche lì, per esempio, volete cambiare il nome del file su
+
+841
+00:55:08,440 --> 00:55:14,440
+iPhone, un'automazione vi aiuta molto rispetto, casomai, quanto è possibile fare su
+
+842
+00:55:14,440 --> 00:55:16,040
+un computer caso mai e così via.
+
+843
+00:55:16,040 --> 00:55:19,640
+E comunque anche su Mac, per esempio, ci sono tutta una serie
+
+844
+00:55:19,640 --> 00:55:21,560
+di funzioni e sono molto utili.
+
+845
+00:55:21,560 --> 00:55:25,640
+Poter rinominare velocemente decine di file con un colpo su.
+
+846
+00:55:25,800 --> 00:55:25,960
+Sì.
+
+847
+00:55:25,960 --> 00:55:28,520
+Beh, su Mac c'è anche c'è da dire che si può anche
+
+848
+00:55:28,520 --> 00:55:32,120
+evitare di usare automator in questo caso o i work for nuovi.
+
+849
+00:55:32,600 --> 00:55:32,840
+Esatto,
+
+850
+00:55:33,880 --> 00:55:37,720
+c'è il rinom che ha proprio una sua bella casella che funziona
+
+851
+00:55:37,720 --> 00:55:38,200
+da dio.
+
+852
+00:55:38,360 --> 00:55:42,040
+Secondo me, è una di quelle grand belle cose che ti semplificano
+
+853
+00:55:42,040 --> 00:55:42,920
+la vita.
+
+854
+00:55:42,920 --> 00:55:47,160
+Che probabilmente metto punto interrogativo perché non lo so, probabilmente su Windows
+
+855
+00:55:47,240 --> 00:55:48,440
+non l'ho trovato.
+
+856
+00:55:49,880 --> 00:55:55,160
+Io chiuderei con le ultime due cose, due o tre cose interessanti
+
+857
+00:55:55,400 --> 00:55:58,840
+dell'interfaccia, perché a questo punto non entrerei troppo nel dettaglio.
+
+858
+00:55:58,840 --> 00:56:05,160
+Speriamo di avervi incuriosito se c'è se c'è interesse, ovviamente approfondiremo.
+
+859
+00:56:05,160 --> 00:56:10,920
+C'è la possibilità di salvare come si fa con automator un comando
+
+860
+00:56:10,920 --> 00:56:14,600
+rapido direttamente come applicazione, chiamiamola così, con un'icona
+
+861
+00:56:14,840 --> 00:56:19,840
+nella home screen o nelle varie interfacce di iPhone e iPad.
+
+862
+00:56:20,080 --> 00:56:26,480
+E nella strema sintesi cliccando su facendo tap su quell'icona parte il
+
+863
+00:56:26,480 --> 00:56:31,360
+comando rapido e quindi ve lo trovate direttamente sul telefonino o sull'iPad
+
+864
+00:56:31,680 --> 00:56:32,800
+velocemente.
+
+865
+00:56:32,960 --> 00:56:36,000
+Questa è funzione molto comoda, spesso volentieri.
+
+866
+00:56:36,000 --> 00:56:39,680
+Poi abbiamo i comandi rapidi in quella che io chiamo share sheet,
+
+867
+00:56:39,680 --> 00:56:43,200
+ma che per Apple è il pannello di condivisione: cioè, per esempio,
+
+868
+00:56:43,200 --> 00:56:46,400
+selezionate in file tutta una serie di documenti.
+
+869
+00:56:46,400 --> 00:56:50,560
+Una volta che li avete selezionati, è possibile attivare il pannello di
+
+870
+00:56:50,560 --> 00:56:56,480
+condivisione e lì trovate se l'avete selezionata apposta, i comandi rapidi per
+
+871
+00:56:56,480 --> 00:57:03,760
+interagire con questi documenti, per esempio, o anche dall'applicazione A potete appunto
+
+872
+00:57:04,000 --> 00:57:10,800
+far partire o comunque condividere con un comando rapido i contenuti dell'applicazione
+
+873
+00:57:10,800 --> 00:57:16,240
+A e poi farli lavorare e modificarli come volete quindi questo è
+
+874
+00:57:16,240 --> 00:57:17,280
+utilissimo.
+
+875
+00:57:17,280 --> 00:57:22,160
+L'altra cosa interessante e semmrò finalmente i miei un po' di mini
+
+876
+00:57:22,320 --> 00:57:25,040
+ancora più interessanti dal mio punto di vista.
+
+877
+00:57:25,040 --> 00:57:30,160
+Comandi rapidi sono da sempre nascono come appunto si shortcut e quindi
+
+878
+00:57:30,480 --> 00:57:33,120
+nascono con interazione vocale anche.
+
+879
+00:57:33,440 --> 00:57:38,480
+È possibile invocare voce con il solito metodo che non possiamo dire
+
+880
+00:57:38,560 --> 00:57:44,560
+perché se li state ascoltando, non nelle cuffie, ma con un dispositivo
+
+881
+00:57:44,560 --> 00:57:47,440
+Apple, casomai lo facciamo partire.
+
+882
+00:57:47,680 --> 00:57:52,560
+Ma potete dire: possiamo dire i Samantha, ma ecco io non metterei
+
+883
+00:57:52,640 --> 00:57:55,800
+mai i S, perché solitamente anche.
+
+884
+00:57:55,800 --> 00:57:58,880
+Dici che basta, però Samantha è lunga rispetto.
+
+885
+00:57:59,440 --> 00:58:04,680
+A volte se dici cose simili alla Siri e poi dici Ehi,
+
+886
+00:58:06,440 --> 00:58:10,040
+parte Siri è lo stesso, infatti, è bellissimo una volta.
+
+887
+00:58:10,040 --> 00:58:11,800
+Ma a me capita con i film.
+
+888
+00:58:12,120 --> 00:58:13,560
+Spesso li guardiamo su iPad.
+
+889
+00:58:13,560 --> 00:58:15,880
+Mi capita spesso che ogni tanto si blocca.
+
+890
+00:58:16,440 --> 00:58:20,040
+Io l'ho disabilitato dappertutto, è una cosa che mi dà abbastanza fastidio.
+
+891
+00:58:20,040 --> 00:58:21,000
+No, devo dire la verità.
+
+892
+00:58:21,000 --> 00:58:22,920
+Invece io sto cercando di utilizzarlo di più.
+
+893
+00:58:22,920 --> 00:58:28,520
+Comunque chiudendo la parentesi come la solito, diciamo le automazioni possono essere
+
+894
+00:58:28,520 --> 00:58:30,520
+sia attivate con la voce.
+
+895
+00:58:30,520 --> 00:58:34,840
+Ma la cosa più interessante è che si possono creare delle automazioni
+
+896
+00:58:34,840 --> 00:58:39,480
+dove Siri ti dice ti fa delle domande, chiamiamole così, e a
+
+897
+00:58:39,480 --> 00:58:45,320
+fronte delle risposte si comporta, cioè esegue comandi differenti e quello è
+
+898
+00:58:45,320 --> 00:58:47,480
+molto interessante, devo dire la verità.
+
+899
+00:58:47,480 --> 00:58:48,920
+È quello molto interessante.
+
+900
+00:58:48,920 --> 00:58:51,560
+Io mi sono limitato a fare solo una cosa con siri il
+
+901
+00:58:51,560 --> 00:58:57,320
+comando vocale che l'ho impostato io a set peso, che posso dire,
+
+902
+00:58:58,520 --> 00:59:01,960
+gli dico ei siri, set peso e lui mi dice, cosa vuoi?
+
+903
+00:59:01,960 --> 00:59:03,160
+Quanto pesi oggi?
+
+904
+00:59:03,160 --> 00:59:06,600
+Allora gli metto la cosa e me lo carica direttamente sulla rapp
+
+905
+00:59:06,760 --> 00:59:09,480
+salute e ho il bravissimo.
+
+906
+00:59:09,480 --> 00:59:14,360
+Questa è proprio una semplice automazione, ma comoda.
+
+907
+00:59:14,360 --> 00:59:18,680
+Perché ti evita di andare lì, aprire l'applicazione salute, salicare il dato
+
+908
+00:59:18,680 --> 00:59:19,240
+e così via.
+
+909
+00:59:19,240 --> 00:59:21,240
+E lo riesci a fare anche vocalmente.
+
+910
+00:59:22,040 --> 00:59:28,600
+Di fatto tu hai creato un microprogramma che utilizza appunto riconoscimento vocale,
+
+911
+00:59:28,760 --> 00:59:30,920
+inserimento dati tutta voce.
+
+912
+00:59:30,920 --> 00:59:36,520
+Insomma, vedete com'è bravissimo Roberto che ormai è se ce la faccio
+
+913
+00:59:36,520 --> 00:59:39,160
+io, ragazzi, ce la può fare chiunque.
+
+914
+00:59:39,120 --> 00:59:44,360
+E l'ultima cosa: addirittura: i comandi rapidi si può attivare anche con
+
+915
+00:59:44,400 --> 00:59:48,800
+l'Apple Watch, quindi anche lì, anche se devo dire la verità, mai
+
+916
+00:59:48,800 --> 00:59:53,840
+usato in vita mia, però per chiudere le possibilità, diciamo, di comandi
+
+917
+00:59:53,840 --> 00:59:58,880
+rapidi, veramente si riesce a fare un po' ovunque in varie modalità.
+
+918
+00:59:58,880 --> 01:00:03,360
+Quindi direi che a questo punto chiudiamo brillantemente la nostra puntata perché
+
+919
+01:00:03,520 --> 01:00:06,240
+alla fine abbiamo stata molto bella.
+
+920
+01:00:06,240 --> 01:00:09,920
+Bisogna dire che è stata una bella puntata dove abbiamo avuto come
+
+921
+01:00:09,920 --> 01:00:13,280
+ospite Daniele Borghi del Tirallinea che ci ha spiegato Kraft.
+
+922
+01:00:13,280 --> 01:00:17,040
+E poi abbiamo avuto una grandissima persona come Filippo che ci ha
+
+923
+01:00:17,040 --> 01:00:18,880
+spiegato un po' i comandi rapidi.
+
+924
+01:00:18,880 --> 01:00:21,680
+E so già che vi ha un po' incuriosito, lo so già
+
+925
+01:00:21,680 --> 01:00:25,520
+perché queste cose sono interessanti, sono quelle cose che stuzzicano tutti quanti
+
+926
+01:00:25,600 --> 01:00:30,080
+perché rendono sia l'iPhone che l'iPad qualcosa di molto più vicino a
+
+927
+01:00:30,080 --> 01:00:33,200
+un computer di un semplice telefono o di un tablet.
+
+928
+01:00:33,200 --> 01:00:37,920
+Questa è bisogno dirlo la verità, è proprio questa: perché utilizzando questa
+
+929
+01:00:37,920 --> 01:00:44,640
+tipologia di applicazioni vi permette di fare qualcosa di più, di controllare
+
+930
+01:00:44,640 --> 01:00:46,560
+la posta sul tablet.
+
+931
+01:00:46,880 --> 01:00:52,160
+Sono certo che dal punto di vista del lavoro, di ciò che
+
+932
+01:00:52,160 --> 01:00:57,440
+utilizza il professionista, il proprio iPhone, il proprio tablet, questo possono aprire
+
+933
+01:00:57,440 --> 01:01:03,680
+degli orizzonti e creare delle automazioni che possono tornare davvero utili a
+
+934
+01:01:03,680 --> 01:01:04,640
+tutti quanti.
+
+935
+01:01:04,640 --> 01:01:09,760
+Direi che troverete come sempre le note dell'episodio con i link agli
+
+936
+01:01:09,760 --> 01:01:14,480
+argomenti che abbiamo trattato in questa puntata, come sempre, alla fine delle
+
+937
+01:01:14,480 --> 01:01:18,640
+note dell'episodio, e i nostri riferimenti che invece potete trovare al link
+
+938
+01:01:18,640 --> 01:01:22,640
+a due podcast.it slash numero dell'episodio.
+
+939
+01:01:22,640 --> 01:01:27,680
+In questo caso è il numero 22, che ci sta benissimo per
+
+940
+01:01:28,000 --> 01:01:32,680
+Automentor e Compagnia Brisco, è un numero diciamo, che si può leggere
+
+941
+01:01:29,920 --> 01:01:34,200
+da una parte e dall'altra palindromo.
+
+942
+01:01:34,760 --> 01:01:38,040
+E poi è pari, poi insomma non è primo in questo caso
+
+943
+01:01:38,120 --> 01:01:38,920
+se non sbaglio.
+
+944
+01:01:38,920 --> 01:01:43,880
+Comunque non andendiamoci nei meandi della matematica alle 10 e mezza di
+
+945
+01:01:43,880 --> 01:01:46,520
+sera perché è davvero troppo del venerdì sera.
+
+946
+01:01:46,520 --> 01:01:50,520
+E invece, come sempre, ci potete trovare un po' dappertutto per quanto
+
+947
+01:01:50,520 --> 01:01:51,240
+mi riguarda.
+
+948
+01:01:51,240 --> 01:01:52,760
+C'è il blog, c'è il podcast.
+
+949
+01:01:52,760 --> 01:01:55,960
+Insomma, cercate in giro per Instagram, ma insomma in qualche modo mi
+
+950
+01:01:55,960 --> 01:01:56,440
+trovate.
+
+951
+01:01:56,440 --> 01:01:57,880
+E invece Filippo lo troviamo.
+
+952
+01:01:57,880 --> 01:02:01,160
+È vero su Avvocati e Mac, ma abbiamo anche un podcast che
+
+953
+01:02:01,160 --> 01:02:04,920
+ha lasciato un po' lì da solo perché purtroppo si sta occupando
+
+954
+01:02:04,920 --> 01:02:06,680
+di questo podcast.
+
+955
+01:02:08,040 --> 01:02:10,280
+Dirti la verità e lo dico piano.
+
+956
+01:02:10,280 --> 01:02:14,040
+Ho registrato una nuova puntata ma non l'ho ancora editata.
+
+957
+01:02:14,040 --> 01:02:15,960
+Domani nevica.
+
+958
+01:02:17,880 --> 01:02:22,040
+In attesa della prossima nevicata, ci sentiamo tra due settimane.
+
+959
+01:02:22,040 --> 01:02:23,160
+Un saluto a tutti quanti.
+
+960
+01:02:23,160 --> 01:02:23,960
+Ciao ciao.

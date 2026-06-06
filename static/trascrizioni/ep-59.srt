@@ -1,0 +1,4099 @@
+1
+00:00:00,240 --> 00:00:06,240
+Benvenuti all'episodio cinquantove di A2, in cui scoprire come ottenere il massimo
+
+2
+00:00:06,240 --> 00:00:08,640
+dalla vostra tecnologia Apple.
+
+3
+00:00:08,640 --> 00:00:12,720
+Io sono Roberto Marin e sono il vostro ospite assieme all'amico Filippo
+
+4
+00:00:12,880 --> 00:00:13,440
+Strozzi.
+
+5
+00:00:13,440 --> 00:00:15,600
+Di cosa parliamo in questa puntata, caro Filippo?
+
+6
+00:00:15,680 --> 00:00:20,480
+Allora, in questa puntata, caro il mio Roberto, parliamo di è difficile
+
+7
+00:00:20,800 --> 00:00:23,360
+da tradurre, diciamo, in italiano.
+
+8
+00:00:23,360 --> 00:00:29,040
+Text expansion in inglese, espansione del testo sarebbe la traduzione più letterale
+
+9
+00:00:29,040 --> 00:00:32,800
+in lingua italiana, ma per esempio Apple la denomina.
+
+10
+00:00:32,800 --> 00:00:37,840
+Io alla fine ho deciso di utilizzare la traduzione Apple, sostituzione del
+
+11
+00:00:37,840 --> 00:00:38,320
+testo.
+
+12
+00:00:38,320 --> 00:00:42,000
+Quindi un argomento abbastanza inusuale ma interessante.
+
+13
+00:00:42,000 --> 00:00:46,240
+Adesso conoscendoti, tu non utilizzi niente, immagino dei software.
+
+14
+00:00:46,400 --> 00:00:47,360
+No, esattamente.
+
+15
+00:00:47,360 --> 00:00:52,560
+Io uso essenzialmente le estensioni del sistema, quelle di macOS e quelle
+
+16
+00:00:52,560 --> 00:00:53,440
+di iOS.
+
+17
+00:00:53,440 --> 00:00:57,200
+E tra l'altro, visto che a breve entreremo a fare le comunicazioni
+
+18
+00:00:57,200 --> 00:00:58,880
+di servizio e mi riallaccio.
+
+19
+00:00:58,880 --> 00:01:02,560
+Però prima mandiamo la sigla.
+
+20
+00:01:02,560 --> 00:01:04,240
+A2 Podcast.
+
+21
+00:01:04,240 --> 00:01:07,760
+Scopri come ottenere il massimo dalla tua tecnologia apple.
+
+22
+00:01:07,760 --> 00:01:12,320
+Due professionisti, Filippo e Roberto, te lo spiegano con argomenti monotematici ed
+
+23
+00:01:12,320 --> 00:01:15,200
+ospiti che raccontano il loro flusso di lavoro.
+
+24
+00:01:21,280 --> 00:01:25,600
+Ed eccoci qua dopo la sigla regalata dal nostro mitico Alex Raccuglia
+
+25
+00:01:25,680 --> 00:01:27,760
+che avete sentito in puntata con noi.
+
+26
+00:01:27,760 --> 00:01:30,480
+Spero che vi siete divertiti come ci siamo divertiti noi.
+
+27
+00:01:30,480 --> 00:01:33,280
+Ma ora è il momento di passare alle comunicazioni di servizio di
+
+28
+00:01:33,280 --> 00:01:35,440
+cui Filippo ne ha una bella sfizza.
+
+29
+00:01:35,440 --> 00:01:37,360
+Io ne ho una solo veloce e veloce.
+
+30
+00:01:37,360 --> 00:01:39,360
+Giusto per aggiornare così fare un po' di colore.
+
+31
+00:01:39,840 --> 00:01:43,120
+E riuscire a parlare di qualche cosa, visto che questo non è
+
+32
+00:01:43,120 --> 00:01:47,440
+un argomento proprio nelle mie corde, nell'espansione del testo, anche se lo
+
+33
+00:01:47,440 --> 00:01:51,040
+uso proprio in minima parte, in ogni caso è interessante.
+
+34
+00:01:51,040 --> 00:01:55,840
+Ma volevo dire che alla fine, grazie ai potenti mezzi che ci
+
+35
+00:01:55,840 --> 00:01:58,960
+ha dato in mano Apple, sono riuscito a passare dal mio sistema
+
+36
+00:01:59,120 --> 00:02:02,600
+Vetusto Big Sur a niente meno che Ventura.
+
+37
+00:01:59,520 --> 00:02:03,720
+Ho fatto proprio il salto
+
+38
+00:01:59,600 --> 00:02:04,680
+quantico.
+
+39
+00:02:04,840 --> 00:02:08,360
+Sono passato in una nuova atmosfera di Apple.
+
+40
+00:02:08,360 --> 00:02:11,560
+E devo dire che per ora mi ci trovo bene e tutto
+
+41
+00:02:11,560 --> 00:02:15,080
+sommato è molto simpatico questo sistema operativo per adesso.
+
+42
+00:02:15,080 --> 00:02:19,960
+Per adesso mi sta dando solo buone idee, buoni propositi, come per
+
+43
+00:02:19,960 --> 00:02:25,160
+esempio quello che intanto odiato, mettiamola così, da molti, tra cui il
+
+44
+00:02:25,160 --> 00:02:28,920
+sottoscritto, quando è saldato fuori, che non si poteva utilizzare sulle iPad
+
+45
+00:02:29,160 --> 00:02:31,080
+normale, parlo di stage manager.
+
+46
+00:02:31,080 --> 00:02:35,080
+La sto utilizzando sul Mac, mi sto divertendo, mi sembra molto efficiente,
+
+47
+00:02:35,080 --> 00:02:39,640
+almeno in determinati ambiti di utilizzo, che potrebbero essere quello di saltare
+
+48
+00:02:39,640 --> 00:02:45,640
+da un'applicazione all'altra continuamente, mentre chi utilizza un'applicazione sola, può anche farne
+
+49
+00:02:45,640 --> 00:02:47,160
+tranquillamente a meno.
+
+50
+00:02:47,160 --> 00:02:50,760
+Io mi sono trovato abbastanza bene questo piccolo periodo, sono un paio
+
+51
+00:02:50,760 --> 00:02:52,040
+di giorni che ci sto lavorando.
+
+52
+00:02:52,040 --> 00:02:56,920
+Ho visto altre cose fantasmagoriche come il passaggio del mouse dallo schermo
+
+53
+00:02:56,920 --> 00:03:00,840
+del Mac a quello dell'iPad, e fa veramente spaventa paura.
+
+54
+00:03:00,840 --> 00:03:08,680
+Nel senso che qualcosa benvenuto, benvenuto nel 2020, ed è molto bello,
+
+55
+00:03:08,680 --> 00:03:13,080
+nel senso che ti dà proprio l'idea di qualcosa che di un
+
+56
+00:03:13,080 --> 00:03:16,120
+ecosistema funzionante ed è qualcosa di incredibile.
+
+57
+00:03:16,120 --> 00:03:20,520
+Mi ha fatto molto piacere, mi ha fatto vedere, diciamo, le capacità
+
+58
+00:03:20,520 --> 00:03:24,440
+di Apple in queste piccole cose che secondo me sono fantastiche.
+
+59
+00:03:24,440 --> 00:03:27,800
+E ne ho trovate anche dell'utilizzo lavorativo.
+
+60
+00:03:27,800 --> 00:03:32,200
+Diciamo, nel caso, io avevo, ad esempio, da una parte un file
+
+61
+00:03:32,200 --> 00:03:36,840
+number sugli iPad, da un'altra parte avevo Excel, ho potuto copiare il
+
+62
+00:03:36,840 --> 00:03:40,920
+testo facilmente, passando da una parte o dall'altra senza grossi problemi.
+
+63
+00:03:40,920 --> 00:03:44,200
+Perché mi veniva comodo così, nel senso che sull'iPad ho i file
+
+64
+00:03:44,200 --> 00:03:47,520
+number che vado a editare, mentre sul Mac ho dei file Excel
+
+65
+00:03:44,920 --> 00:03:48,880
+che vado a editare a sua volta.
+
+66
+00:03:49,120 --> 00:03:52,480
+Non per mia scelta, perché se fosse per me, Excel è veramente
+
+67
+00:03:52,720 --> 00:03:53,040
+tosto
+
+68
+00:03:54,160 --> 00:03:58,320
+di vista, nel senso che non è proprio l'emblema dell'usabilità.
+
+69
+00:03:58,320 --> 00:04:01,600
+Ma detto questo, devo dire che mi sto trovando bene con macOS
+
+70
+00:04:01,760 --> 00:04:02,480
+Ventura.
+
+71
+00:04:02,880 --> 00:04:07,120
+Stiamo sperimentando alcune cose, tra cui, ad esempio, delle cose che mi
+
+72
+00:04:07,120 --> 00:04:12,080
+ha fatto notare Filippo con messaggi che ci è venuto incontro, soprattutto
+
+73
+00:04:12,160 --> 00:04:14,800
+perché io sono, sapete, sono smemorato.
+
+74
+00:04:14,800 --> 00:04:19,040
+D'altra parte sono molto social e perdo anche le cose facilmente perché
+
+75
+00:04:19,040 --> 00:04:23,280
+ho tante comunicazioni e faccio un po' fatica a starci dietro.
+
+76
+00:04:23,280 --> 00:04:26,960
+Invece, il nostro Filippo ha trovato un modo per farmi trovare prontamente
+
+77
+00:04:27,120 --> 00:04:29,920
+i messaggi che mi servono in messaggi di atto.
+
+78
+00:04:30,080 --> 00:04:33,200
+Mi sono accorto perché effettivamente è una di quelle funzioni che si
+
+79
+00:04:33,200 --> 00:04:36,240
+usano a meno che io non avevo mai quasi usato.
+
+80
+00:04:36,240 --> 00:04:40,560
+Ma siccome qualcuno si lamenta sempre, peraltro anche in diretta, del fatto
+
+81
+00:04:40,560 --> 00:04:44,320
+che non trova la scaletta o le note dell'episodio.
+
+82
+00:04:44,320 --> 00:04:48,080
+E siccome io tutte le volte gliele mando dopo averle fatte, ho
+
+83
+00:04:48,080 --> 00:04:52,880
+guardato e c'è l'opzione: aspetta, perché poi, come al solito, mi hai
+
+84
+00:04:52,880 --> 00:04:56,560
+scombinato la scaletta quindi non ero sul punto, sul pezzo, come si
+
+85
+00:04:56,560 --> 00:04:57,200
+suol dire.
+
+86
+00:04:57,200 --> 00:05:01,520
+Hai la possibilità di di adesso aspetta che te lo riproviamo a
+
+87
+00:05:01,520 --> 00:05:02,080
+fare?
+
+88
+00:05:02,320 --> 00:05:08,160
+C'è la possibilità di mettere in evidenza un documento a questo punto,
+
+89
+00:05:08,160 --> 00:05:10,000
+forse sono solo per i documenti.
+
+90
+00:05:10,000 --> 00:05:14,560
+Stavo ragionando perché le foto non si possono mettere in evidenza.
+
+91
+00:05:14,560 --> 00:05:17,840
+Adesso volevo vedere se trovo un documento che ti ho mandato.
+
+92
+00:05:17,840 --> 00:05:18,640
+Gli articoli.
+
+93
+00:05:18,640 --> 00:05:19,760
+Ma neanche le immagini.
+
+94
+00:05:20,720 --> 00:05:21,920
+Ma porca miseria!
+
+95
+00:05:21,920 --> 00:05:22,800
+Ma come è possibile?
+
+96
+00:05:22,800 --> 00:05:27,200
+Si possono mettere allora adesso, per esempio, mi hai mandato Podmaker e
+
+97
+00:05:27,200 --> 00:05:28,240
+te l'ho messo in evidenza.
+
+98
+00:05:28,240 --> 00:05:31,960
+Non so se lo vai a vedere, quindi poi lo dovresti trovare,
+
+99
+00:05:29,840 --> 00:05:32,680
+sì, infatti, c'è.
+
+100
+00:05:32,840 --> 00:05:37,800
+Quindi, così abbiamo fatto un recap generale, si possono mettere in evidenza
+
+101
+00:05:37,800 --> 00:05:42,360
+file mandati via messaggi o link.
+
+102
+00:05:42,680 --> 00:05:45,080
+Se si mettono in evidenza, cosa succede?
+
+103
+00:05:45,080 --> 00:05:52,200
+Se si va nell'angolo a destra nell'interfaccia MAC sul pulsante I, diciamo
+
+104
+00:05:52,360 --> 00:05:57,640
+esatto, e si scende da varie cose ci sono appunto in evidenza
+
+105
+00:05:57,800 --> 00:06:02,520
+e si trovano i vari file o i link messi in evidenza.
+
+106
+00:06:02,520 --> 00:06:05,000
+A questo punto si trovano anche velocemente.
+
+107
+00:06:05,000 --> 00:06:10,360
+L'altra cosa interessante che segnalavo anche a Roberto è che a prescindere
+
+108
+00:06:10,360 --> 00:06:14,680
+dall'in evidenza, quindi questi elementi, diciamo, a cui si è messo una
+
+109
+00:06:14,680 --> 00:06:20,280
+spunta per ricordarselo, c'è la possibilità di se ci si manda, diciamo,
+
+110
+00:06:20,520 --> 00:06:24,120
+dei documenti con cui collaborare, c'è anche collaborazione.
+
+111
+00:06:24,120 --> 00:06:29,240
+Quindi, per esempio, le ultime 1, 2, 3, 4, 5, 6 scalette
+
+112
+00:06:29,880 --> 00:06:37,080
+di 2 sono esattamente in collezione condivisa con Roberto perché ovviamente utilizziamo
+
+113
+00:06:37,320 --> 00:06:41,560
+colui anche spesso volentieri anche con gli ospiti, la condivisione di MyNode
+
+114
+00:06:41,880 --> 00:06:44,040
+per la scaletta dell'episodio.
+
+115
+00:06:44,040 --> 00:06:48,360
+Quindi, questa era la prima comunicazione di servizio, mettiamola in questi termini.
+
+116
+00:06:48,360 --> 00:06:52,520
+La seconda comunicazione di servizio in ordine di come l'avevo messa io,
+
+117
+00:06:52,520 --> 00:06:57,640
+che sarebbe stata la prima, è che stiamo registrando in avanti nel
+
+118
+00:06:57,640 --> 00:07:03,480
+tempo, nel senso che questa puntata dovrebbe uscire a metà maggio, credo.
+
+119
+00:07:03,640 --> 00:07:06,200
+E se tutto va bene nelle prossime settimane.
+
+120
+00:07:06,200 --> 00:07:08,640
+Registreremo più o meno sprombattuto?
+
+121
+00:07:08,640 --> 00:07:12,520
+Perché ovviamente mica tanto sprombattuto, visto che il primo di maggio è
+
+122
+00:07:12,520 --> 00:07:17,840
+già festa ed è un lunedì, registreremo per coprire poi fino a
+
+123
+00:07:17,840 --> 00:07:20,880
+luglio, perché come al solito il podcast va avanti fino a luglio,
+
+124
+00:07:20,880 --> 00:07:25,040
+ma io a luglio sono in ferie, quindi difficilmente riusciremo a registrare,
+
+125
+00:07:25,680 --> 00:07:30,640
+se non forse un qualcosa di speciale, come si suol dire, ma
+
+126
+00:07:30,640 --> 00:07:35,280
+ne parliamo un'altra volta se riusciamo a farlo, quindi, comunque tra maggio
+
+127
+00:07:35,280 --> 00:07:39,920
+e giugno registreremo tutte le puntate di a 2, per cui, presumibilmente,
+
+128
+00:07:39,920 --> 00:07:42,240
+visto che anche i primi di giugno ci sarà, e dopo mi
+
+129
+00:07:42,240 --> 00:07:43,040
+ricollego al
+
+130
+00:07:44,240 --> 00:07:49,600
+terza comunicazione del servizio, a giugno ci sarà la WWDC e quindi
+
+131
+00:07:49,600 --> 00:07:52,080
+ci saranno anche, presumibilmente, le novità.
+
+132
+00:07:52,080 --> 00:07:58,800
+Noi non ne parleremo probabilmente se non più avanti nella programmazione, proprio
+
+133
+00:07:58,800 --> 00:08:04,720
+per questo motivo, perché stiamo registrando in avanti, le puntate, presumibilmente, della
+
+134
+00:08:04,720 --> 00:08:09,440
+WWDC, ne parleremo a fine luglio per vari motivi, ma non voglio
+
+135
+00:08:09,600 --> 00:08:11,840
+mettere mano a troppa cose.
+
+136
+00:08:11,840 --> 00:08:16,720
+Ricordo che, se sei interessato, se siete interessati, la WWDC è il
+
+137
+00:08:16,720 --> 00:08:20,720
+5 di giugno e noi, presumibilmente, anche se non abbiamo ancora organizzato
+
+138
+00:08:20,720 --> 00:08:24,800
+nulla di specifico, ma direi all'80-90% è sicuro.
+
+139
+00:08:24,800 --> 00:08:30,880
+Io Roberto Davide Gatti, Alex Carcula e presumibilmente anche Daniele Borghi ci
+
+140
+00:08:30,880 --> 00:08:34,160
+collegheremo intorno alle 18.30, ora italiana.
+
+141
+00:08:34,160 --> 00:08:38,240
+Per iniziare, il kinota inizierà intorno alle 19.00.
+
+142
+00:08:38,240 --> 00:08:41,600
+E se tutto va bene, questo qui lo dico e qui lo
+
+143
+00:08:41,600 --> 00:08:42,160
+nego.
+
+144
+00:08:42,160 --> 00:08:47,200
+Ci siamo promessi e Alex anche di fare nottata, perché ovviamente per
+
+145
+00:08:47,200 --> 00:08:52,960
+loro è mattino e dopo pranzo, per noi è cena e notte
+
+146
+00:08:52,960 --> 00:08:56,480
+fonda, fare anche la parte dei
+
+147
+00:08:57,520 --> 00:09:01,560
+ricordo mai come si chiama, la parte per i developer, comunque quindi
+
+148
+00:09:01,640 --> 00:09:07,160
+non solo il keynote generale, quello delle ore 19 ore italiana, ma
+
+149
+00:09:07,160 --> 00:09:11,160
+faremo anche quello degli sviluppatori dove ci sono cose un po' più
+
+150
+00:09:11,160 --> 00:09:11,800
+tecniche.
+
+151
+00:09:11,800 --> 00:09:15,960
+Ma siccome appunto sono anch'io interessato, e Alex è proprio uno sviluppatore.
+
+152
+00:09:16,200 --> 00:09:21,320
+Se ce la facciamo, ci teniamo famiglia permettendo figli e così via,
+
+153
+00:09:21,320 --> 00:09:22,760
+cercheremo di fare nottata.
+
+154
+00:09:22,760 --> 00:09:26,440
+Secondo me non ce la faremo mai, ma almeno partiamo con delle
+
+155
+00:09:26,440 --> 00:09:27,320
+buone speranze.
+
+156
+00:09:27,320 --> 00:09:31,560
+Io invece sarò sicuramente non della vostra, perché è un argomento che
+
+157
+00:09:31,560 --> 00:09:34,680
+mi interessa fino a un certo punto, ma non mi interessa tanto
+
+158
+00:09:34,680 --> 00:09:36,280
+da farvi fare nottata.
+
+159
+00:09:36,280 --> 00:09:41,160
+In ogni caso, vi sarà molto interessante questo keynote, vedremo se si
+
+160
+00:09:41,160 --> 00:09:46,280
+avvereranno i miei sogni, ovvero di avere un MacBook 15 pollice con
+
+161
+00:09:46,280 --> 00:09:50,680
+un chip M3, ma molto probabilmente sarà con un chip M2.
+
+162
+00:09:50,760 --> 00:09:54,040
+Staremo a vedere quello che tireranno fuori questo keynote.
+
+163
+00:09:54,040 --> 00:09:55,800
+Vedremo anche i nuovi sistemi operativi.
+
+164
+00:09:55,800 --> 00:09:59,960
+Chissà cosa ci sarà di nuovo interessante, vediamo se tirano fuori un
+
+165
+00:09:59,960 --> 00:10:04,040
+visore o se si inventano qualcosa di nuovo che non sappiamo.
+
+166
+00:10:04,040 --> 00:10:04,840
+Chi lo sa.
+
+167
+00:10:04,840 --> 00:10:09,000
+In ogni caso, la cosa bella e interessante è che passeremo un'oretta
+
+168
+00:10:09,000 --> 00:10:13,160
+e mezza, magari due, in compagnia, ci faremo come sempre delle belle
+
+169
+00:10:13,160 --> 00:10:13,800
+risate.
+
+170
+00:10:13,800 --> 00:10:17,480
+E chi vuole essere la partita, sapete benissimo dove trovarci.
+
+171
+00:10:17,480 --> 00:10:21,880
+Molto, molto lietamente su YouTube, in diretta, fare quattro risate insieme.
+
+172
+00:10:21,880 --> 00:10:24,280
+Chiaramente le attese sono sempre alte.
+
+173
+00:10:24,360 --> 00:10:30,040
+Metà saranno perlomeno svelate dai vari rumors che da qui in avanti.
+
+174
+00:10:30,040 --> 00:10:33,480
+Noi adesso stiamo parlando verso la fine di aprile.
+
+175
+00:10:33,480 --> 00:10:38,600
+Penso che a maggio ci sarà un'escalation di notizie che riguarderanno i
+
+176
+00:10:38,600 --> 00:10:41,880
+vari hardware e software di casa Apple.
+
+177
+00:10:42,040 --> 00:10:45,760
+Noi, in ogni caso, ci tapperemo le orecchie perché vogliamo essere un
+
+178
+00:10:44,760 --> 00:10:47,760
+po' sorpresi da quello che potrebbe essere
+
+179
+00:10:44,840 --> 00:10:51,040
+il keynote alla WWDC.
+
+180
+00:10:51,200 --> 00:10:54,000
+In ogni caso, è ora di chiudere con le comunicazioni.
+
+181
+00:10:54,000 --> 00:10:57,200
+Se non ci sono altre novità, direi di passare tranquillamente e in
+
+182
+00:10:57,200 --> 00:11:03,040
+scioltezza alle espansioni del testo, l'argomento principe di questa puntata: questa puntata
+
+183
+00:11:03,120 --> 00:11:08,640
+divisa in due parti: la prima dedicata essenzialmente a cosa ce ne
+
+184
+00:11:08,640 --> 00:11:14,560
+facciamo di un espanditore di testo, invece, la seconda parte parleremo delle
+
+185
+00:11:14,560 --> 00:11:17,120
+soluzioni software e uno sguardo d'insieme.
+
+186
+00:11:17,120 --> 00:11:20,560
+Ma io continuo a parlare al Blu-Rale, ma in realtà starò ad
+
+187
+00:11:20,560 --> 00:11:24,480
+ascoltare come voi per sentire cosa c'è da dirci Filippo, ma soprattutto
+
+188
+00:11:24,480 --> 00:11:28,480
+perché mi devo convincere a utilizzare qualcosa che non sia all'interno del
+
+189
+00:11:28,480 --> 00:11:29,600
+sistema operativo Apple.
+
+190
+00:11:29,680 --> 00:11:34,720
+Come vi dicevo, io utilizzo le espansioni che ci sono all'interno di
+
+191
+00:11:34,720 --> 00:11:38,320
+macOS ed iOS in modo molto molto basico.
+
+192
+00:11:38,320 --> 00:11:42,720
+In realtà si possono fare tutta una serie di cose che permettono
+
+193
+00:11:42,720 --> 00:11:44,320
+appunto di lavorare col testo.
+
+194
+00:11:44,320 --> 00:11:47,920
+Io ci lavoro col testo, ma fino a un certo punto, nel
+
+195
+00:11:47,920 --> 00:11:50,640
+senso che non è il mio core business, nel senso che io
+
+196
+00:11:50,640 --> 00:11:55,920
+sono un progettista disegnatore e il testo, diciamo che fa da pandes,
+
+197
+00:11:55,920 --> 00:11:59,360
+mettiamola così, per rimanere in ambito architettonico.
+
+198
+00:11:59,360 --> 00:12:02,800
+Ma chi lavora molto col testo, questo può essere veramente una killer
+
+199
+00:12:02,960 --> 00:12:07,120
+feature perché vi permette di esprimere davvero tantissimo tempo.
+
+200
+00:12:07,120 --> 00:12:09,440
+Cosa riguarda questa espansione del testo?
+
+201
+00:12:09,440 --> 00:12:13,840
+Una cosa abbastanza semplice, ovvero digitare una serie di lettere, e a
+
+202
+00:12:13,840 --> 00:12:19,040
+queste viene sostituito automaticamente un testo differente, abitualmente più lungo.
+
+203
+00:12:19,040 --> 00:12:23,360
+L'esempio più classico che faccio è quello che utilizzo anch'io, ovvero quello
+
+204
+00:12:23,360 --> 00:12:29,360
+di associare alla digitazione di due volte la chiocciola, ovvero la A
+
+205
+00:12:29,360 --> 00:12:32,600
+a forma di chiocciola, che utilizziamo per indicare le mail.
+
+206
+00:12:32,760 --> 00:12:37,000
+Lo digito due volte e questo fa comparire automaticamente il mio indirizzo
+
+207
+00:12:37,000 --> 00:12:38,440
+di posta elettronica.
+
+208
+00:12:38,440 --> 00:12:42,600
+Un altro potrebbe anche essere, per esempio, la lettera maiuscola C e
+
+209
+00:12:42,600 --> 00:12:46,440
+la lettera maiuscola F, che una volta che sono digitati, fanno comparire
+
+210
+00:12:46,440 --> 00:12:47,960
+il proprio codice fiscale.
+
+211
+00:12:47,960 --> 00:12:51,800
+Però, ce ne sono tante altre che potete utilizzare.
+
+212
+00:12:51,800 --> 00:12:56,680
+Io non sono un grosso utilizzatore di questo, ci sono veramente una
+
+213
+00:12:56,680 --> 00:13:01,160
+miriade di cose, per esempio, la chiusura delle vostre lettere, delle vostre
+
+214
+00:13:01,160 --> 00:13:05,240
+mail, oppure far comparire il vostro numero di telefono.
+
+215
+00:13:05,240 --> 00:13:09,800
+Con una combinazione di tasti viene offerta questa possibilità di risparmiare del
+
+216
+00:13:09,800 --> 00:13:12,120
+tempo e la cosa diventa molto facile.
+
+217
+00:13:12,120 --> 00:13:15,720
+Pensate, ad esempio, tutte le volte che dovete digitare il vostro nome
+
+218
+00:13:15,720 --> 00:13:19,560
+e cognome o il vostro codice fiscale, che vabbè magari potete sapere
+
+219
+00:13:19,560 --> 00:13:21,560
+la memoria, lo sapete anche cantare.
+
+220
+00:13:21,560 --> 00:13:24,360
+Ma nel momento in cui dovete digitarlo tutte le volte, cominciate a
+
+221
+00:13:24,360 --> 00:13:27,480
+perdere anche un po' la voglia di digitarlo sempre e spesso.
+
+222
+00:13:27,480 --> 00:13:32,520
+Oppure per chi è portatore sano di partita IVA deve anche ricordarsi
+
+223
+00:13:32,520 --> 00:13:35,160
+il numero spesso non semplicissimo.
+
+224
+00:13:35,160 --> 00:13:39,880
+E quindi o avete la possibilità di ricordarlo a memoria se è
+
+225
+00:13:39,880 --> 00:13:44,840
+abbastanza semplice, se non ce l'avete incastonato nella memoria, potete utilizzare questi
+
+226
+00:13:44,840 --> 00:13:50,920
+trucchetti di espansione del testo che vi permette appunto di sostituire con
+
+227
+00:13:50,920 --> 00:13:54,040
+poche lettere magari un testo molto lungo.
+
+228
+00:13:54,040 --> 00:13:55,960
+Cosa vi permette di fare essenzialmente?
+
+229
+00:13:56,040 --> 00:14:00,920
+Quindi di togliervi dei lavori tediosi, perché voglio vedervi voi tutti quanti,
+
+230
+00:14:00,920 --> 00:14:04,760
+a mettervi lì a digitare da mano e a sera il proprio
+
+231
+00:14:04,760 --> 00:14:08,760
+codice fiscale, la partita IVA, il nome e cognome, dove siete dati,
+
+232
+00:14:08,760 --> 00:14:11,560
+il vostro numero di telefono e tutte queste cose.
+
+233
+00:14:11,560 --> 00:14:15,760
+E soprattutto una cosa che vi assicura un sistema di questo tipo
+
+234
+00:14:14,600 --> 00:14:16,640
+è l'assenza di
+
+235
+00:14:14,680 --> 00:14:17,280
+errori.
+
+236
+00:14:17,520 --> 00:14:21,680
+Perché può capitare spesso e sovente che magari per la fretta o
+
+237
+00:14:21,680 --> 00:14:26,320
+magari perché siamo distratti, o perché magari non becchiamo il tasto nel
+
+238
+00:14:26,320 --> 00:14:29,600
+modo giusto, quello che dovete scrivere magari non viene scritto bene.
+
+239
+00:14:29,920 --> 00:14:33,840
+Visto che sono anche i vostri dati nella fattispecie, negli esempi che
+
+240
+00:14:33,840 --> 00:14:38,640
+vi ho appena portato, può diventare magari un po' brutto avere un
+
+241
+00:14:38,640 --> 00:14:40,160
+errore nel proprio codice fiscale.
+
+242
+00:14:40,400 --> 00:14:41,680
+Poi ve lo portate avanti.
+
+243
+00:14:41,680 --> 00:14:44,720
+In altre comunicazioni non è sempre una cosa simpatica.
+
+244
+00:14:44,720 --> 00:14:49,440
+E ovviamente c'è una parte da considerare perché è una parte molto
+
+245
+00:14:49,440 --> 00:14:54,320
+importante, nella mia fatispecie è proprio un muro very, è quello di
+
+246
+00:14:54,720 --> 00:14:57,440
+ricordarsi le vostre abbreviazioni da tastiera.
+
+247
+00:14:57,440 --> 00:15:01,200
+Io ne ho proprio poche, appunto perché cerco di ricordarmi quelle.
+
+248
+00:15:01,200 --> 00:15:04,560
+D'altra parte, però, c'è da dire che nella mia fatispe sono un
+
+249
+00:15:04,560 --> 00:15:08,720
+po' scusato perché arrivando in un ambiente come quello del CAD, where
+
+250
+00:15:08,880 --> 00:15:12,880
+le abbreviazioni da tastiera vi permettono davvero di risparmiare un sacco di
+
+251
+00:15:12,880 --> 00:15:13,200
+tempo.
+
+252
+00:15:13,280 --> 00:15:17,680
+Io mi ricordo quelle abbreviazioni da tastiera, perché ho lavorato un sacco
+
+253
+00:15:17,760 --> 00:15:20,640
+di tempo e ho la memoria, diciamo, un po' occupata di queste
+
+254
+00:15:20,640 --> 00:15:24,960
+abbreviazione da tastiera, più quelle di macOS, che vi permettono appunto di
+
+255
+00:15:24,960 --> 00:15:30,480
+recuperare del tempo, e con tutte queste abbreviazioni da tastiera, infilare anche
+
+256
+00:15:30,480 --> 00:15:34,720
+queste espansioni per me diventa un po' diciamo difficoltoso.
+
+257
+00:15:34,720 --> 00:15:39,600
+Tuttavia, è un mio problema nel senso mio personale, che faccio fatica
+
+258
+00:15:39,600 --> 00:15:43,440
+a gestire tutta questa memoria di abbrevazione da tastiera e quindi faccio
+
+259
+00:15:43,440 --> 00:15:45,440
+fatica a ricordarmelo.
+
+260
+00:15:45,440 --> 00:15:51,520
+Quindi, un consiglio che potreste adottare per riuscire a scampare a questo
+
+261
+00:15:51,520 --> 00:15:56,480
+tipo di problematica è quella di iniziare da una o due o
+
+262
+00:15:56,480 --> 00:16:01,720
+tre abbrevazioni della tastiera che vi vengono incontro per togliervi la più
+
+263
+00:16:01,720 --> 00:16:05,880
+grande parte di lavoro tedioso che può essere, per esempio, il numero
+
+264
+00:16:05,880 --> 00:16:09,320
+di telefono, un codice fiscale o quello che volete, e iniziare da
+
+265
+00:16:09,320 --> 00:16:13,000
+due o tre scorciatori da tastiera e vedrete che magari così a
+
+266
+00:16:13,000 --> 00:16:17,240
+forza di ripeterle, vi rimangono in testa e da lì in avanti
+
+267
+00:16:17,240 --> 00:16:22,120
+potete iniziare a pensare a qualcosa di più elaborato, di più espanso,
+
+268
+00:16:22,120 --> 00:16:26,760
+o aggiungere nuove abbrevazioni da tastiera che vi permettono di espandere il
+
+269
+00:16:26,760 --> 00:16:28,600
+testo che vi interessa.
+
+270
+00:16:28,600 --> 00:16:33,160
+Invece, Filippo adesso ci racconterà che tipo di abbrevazioni da tastiera utilizza
+
+271
+00:16:33,240 --> 00:16:37,880
+e soprattutto di come le quali sono gli utilizzi delle espansioni del
+
+272
+00:16:37,880 --> 00:16:38,200
+testo.
+
+273
+00:16:38,680 --> 00:16:42,280
+Roberto ha fatto degli esempi semplici perché sono quelli che utilizza.
+
+274
+00:16:42,280 --> 00:16:47,640
+Diciamo che uno dei motivi per cui ci sono software specialistici per
+
+275
+00:16:47,960 --> 00:16:53,000
+questa attività rispetto a quello molto base di Apple, è il fatto
+
+276
+00:16:53,000 --> 00:16:58,360
+che, oltre a scrivere velocemente il testo, evitare errori e avere una
+
+277
+00:16:58,360 --> 00:17:04,120
+sorta di autocorrezione, cioè se espresso volentieri digita sbagliato un testo, e
+
+278
+00:17:04,120 --> 00:17:06,280
+si conosce che questo è un errore tipico.
+
+279
+00:17:06,280 --> 00:17:10,600
+Diciamo, la sostituzione del testo permette di risolvere senza pensarci.
+
+280
+00:17:10,600 --> 00:17:12,920
+Ma quindi, quali sono gli utilizzi?
+
+281
+00:17:13,240 --> 00:17:14,920
+Abbiamo visto scrivere
+
+282
+00:17:16,600 --> 00:17:23,560
+nel testo lungo velocemente, evitare errori, ma soprattutto, per esempio, inserire rapidamente
+
+283
+00:17:23,560 --> 00:17:24,360
+le date.
+
+284
+00:17:24,360 --> 00:17:26,520
+La data di oggi, la data di domani e la data di
+
+285
+00:17:26,520 --> 00:17:30,680
+ieri e qui entra in gioco i software specialistici
+
+286
+00:17:31,880 --> 00:17:36,680
+perché Apple, diciamo, non ha questa tipologia di espansione del testo.
+
+287
+00:17:36,680 --> 00:17:43,160
+L'altra cosa interessante è che rispetto, diciamo, alla versione base di Apple
+
+288
+00:17:43,320 --> 00:17:47,520
+c'è anche la possibilità di creare dei modelli, cioè del testo base
+
+289
+00:17:47,840 --> 00:17:53,760
+con dei campi da compilare o personalizzare o addirittura con varie differenti
+
+290
+00:17:53,760 --> 00:17:57,520
+risposte che si possono scegliere tra un elenco di risposte possibili.
+
+291
+00:17:57,520 --> 00:18:02,160
+Inoltre, da ultimo, se ci sarà tempo, ne accenerò a questa cosa:
+
+292
+00:18:02,160 --> 00:18:08,160
+la possibilità di lanciare script automazioni direttamente digitando il testo.
+
+293
+00:18:08,160 --> 00:18:13,760
+Quindi è ovvio che in questo caso la sostituzione test di Apple
+
+294
+00:18:14,480 --> 00:18:18,160
+non riesce non riesce a darti una mano.
+
+295
+00:18:18,160 --> 00:18:23,440
+Secondariamente, l'altra cosa interessante di tutto questo sistema è che ovviamente c'è
+
+296
+00:18:23,440 --> 00:18:29,760
+la possibilità di sincronizzare i cosiddetti snippet o frammenti di testo tra
+
+297
+00:18:29,760 --> 00:18:31,200
+più dispositivi.
+
+298
+00:18:31,200 --> 00:18:39,280
+Conseguentemente è possibile gestire su diversi dispositivi questa automazione quindi ogni volta
+
+299
+00:18:39,280 --> 00:18:44,880
+che ci spostiamo, poi lo vedremo con che limitazioni, ma tra differenti
+
+300
+00:18:44,880 --> 00:18:50,400
+Mac, per esempio, o differenti computer e dispositivi mobili, troveremo le nostre
+
+301
+00:18:50,400 --> 00:18:53,520
+scorciatoie a tastiera su tutti i dispositivi.
+
+302
+00:18:53,520 --> 00:18:56,960
+Che tipologia di espansioni è come creare queste espansioni?
+
+303
+00:18:56,960 --> 00:19:01,520
+Perché un altro problema che ci sirebbe potrebbe porre è il digito
+
+304
+00:19:02,000 --> 00:19:03,520
+dei testi specifici.
+
+305
+00:19:03,840 --> 00:19:09,280
+Abitualmente, appunto Roberto lo diceva prima: tutte queste scorciatoie devono essere chiamole
+
+306
+00:19:09,280 --> 00:19:11,040
+così, memorizzate.
+
+307
+00:19:11,040 --> 00:19:15,360
+E quindi le espansioni del testo devono essere anche acquisite nella memoria
+
+308
+00:19:15,360 --> 00:19:20,640
+muscolare delle mani, chiamiamolo così, per cui ci sono varie strategie, diciamo.
+
+309
+00:19:20,640 --> 00:19:25,280
+Nel mondo anglofono, perché sostanzialmente la tastiera americana, che per esempio è
+
+310
+00:19:25,280 --> 00:19:28,800
+quella che ho davanti qui a me, ha un tasto specifico che
+
+311
+00:19:28,800 --> 00:19:32,920
+è il punte virgola, cioè proprio digitando, premendo il tasto di fianco
+
+312
+00:19:32,920 --> 00:19:36,840
+alla L si digita il punte virgola, che spesso e volentieri non
+
+313
+00:19:36,840 --> 00:19:39,240
+è utilizzato per la scrittura troppo.
+
+314
+00:19:40,280 --> 00:19:46,280
+E quindi gli anglofoni utilizzano punte virgola e il testo e l'abbreviazione
+
+315
+00:19:46,280 --> 00:19:51,240
+del testo che vogliono utilizzare solitamente poche lettere, e anzi, io consiglio
+
+316
+00:19:51,240 --> 00:19:53,320
+sempre di utilizzare poche lettere.
+
+317
+00:19:53,320 --> 00:19:57,400
+Questo perché abitualmente il punte virgola non è mai, è sempre staccato.
+
+318
+00:19:57,400 --> 00:20:03,320
+Diciamo, quindi non è consecutivo a una lettera dell'alfabeto perché abitualmente c'è
+
+319
+00:20:03,320 --> 00:20:04,040
+lo spazio.
+
+320
+00:20:04,680 --> 00:20:11,480
+Quindi è difficile creare un conflitto, diciamo, tra quello che vogliamo scrivere
+
+321
+00:20:11,480 --> 00:20:14,280
+e questa tipologia di discorsare tastiera.
+
+322
+00:20:15,160 --> 00:20:20,440
+Peccato è che ovviamente nel mondo invece non anglofono, che è vero
+
+323
+00:20:20,440 --> 00:20:23,880
+che ormai è di minima parte, ma le punte virgono, non è
+
+324
+00:20:23,880 --> 00:20:28,680
+affatto comodo nella nostra tastiera, perché, se non ricordo male, si fa
+
+325
+00:20:29,320 --> 00:20:34,600
+premendo shift e due punti, quindi comunque richiede, è più macchinoso e
+
+326
+00:20:34,600 --> 00:20:40,120
+meno veloce da digitare, non ho mai capito poi questa distinzione, ma
+
+327
+00:20:40,440 --> 00:20:42,120
+così è, diciamo.
+
+328
+00:20:42,120 --> 00:20:44,040
+E in più c'è un altro problema.
+
+329
+00:20:44,040 --> 00:20:48,440
+Un altro problema è che se questo sistema è comodo se si
+
+330
+00:20:48,440 --> 00:20:51,880
+sta digitando con una tastiera americana, quindi utilizzare il punte e virgola,
+
+331
+00:20:51,880 --> 00:20:55,400
+se si va su un dispositivo mobile, quindi con una tastiera ridotta,
+
+332
+00:20:55,400 --> 00:21:00,200
+anche il discorso del punte virgola, cade, perché ovviamente nella tastiera ridotta
+
+333
+00:21:00,280 --> 00:21:01,880
+ci sono solo le lettere all'alfabeto.
+
+334
+00:21:01,880 --> 00:21:06,520
+Ma Raiman da cui ho preso e credo tantissimi abbiano preso questa
+
+335
+00:21:06,520 --> 00:21:10,600
+modalità, quindi ha deciso di evitare di utilizzare il punte e virgola,
+
+336
+00:21:10,600 --> 00:21:13,160
+ma di anporre una X all'abbreviazione.
+
+337
+00:21:13,160 --> 00:21:17,680
+Questo diventa molto comodo per due motivi: nel senso che abitualmente la
+
+338
+00:21:17,680 --> 00:21:23,040
+X italiano è poco utilizzata e raramente è l'inizio di una parola.
+
+339
+00:21:23,040 --> 00:21:27,520
+Raramente c'è un conflitto tra uno scorciatoia da tastiera che inizia con
+
+340
+00:21:27,520 --> 00:21:31,840
+la X e una parola di italiano in senso compiuto che potremmo
+
+341
+00:21:31,840 --> 00:21:32,480
+digitare.
+
+342
+00:21:32,480 --> 00:21:36,080
+Per cui io abitualmente tutte le mie scorciatorie da tastiera sono con
+
+343
+00:21:36,080 --> 00:21:40,320
+la X come prima lettera, diciamo, che mi permette poi di digitare
+
+344
+00:21:40,320 --> 00:21:45,040
+velocemente sia da tastiera mobile sia da tastiera fisica, diciamo, fissa.
+
+345
+00:21:45,040 --> 00:21:47,280
+E anche qui cosa faccio?
+
+346
+00:21:47,280 --> 00:21:51,840
+Cerco di tasti successivi, diciamo, sono un'abbreviazione.
+
+347
+00:21:51,840 --> 00:21:58,400
+Per esempio, appunto io digito XFS per Filippo Strozzi, oppure digito XCF,
+
+348
+00:21:58,400 --> 00:22:03,200
+tutto minuscolo, per il mio codice fiscale, X IV, credo per la
+
+349
+00:22:03,200 --> 00:22:04,480
+mia partita IVA.
+
+350
+00:22:05,680 --> 00:22:10,640
+Avendo più email, ho sempre X è una combinazione, per esempio, AM,
+
+351
+00:22:10,880 --> 00:22:15,040
+sta per la mail di avvocati Mac, mentre XM che sta per
+
+352
+00:22:15,040 --> 00:22:17,920
+email, sta per la mia mail professionale.
+
+353
+00:22:17,920 --> 00:22:21,680
+E come si vede c'è la X, diciamo che sta davanti a
+
+354
+00:22:21,680 --> 00:22:27,520
+tutto, ma segue una scorciatoia che nemicamente, diciamo, io mi sono ricordato.
+
+355
+00:22:27,520 --> 00:22:31,440
+E quindi è un'abbrevazione che ho memorizzato e che bene o male
+
+356
+00:22:31,440 --> 00:22:32,720
+ha un significato per me.
+
+357
+00:22:32,720 --> 00:22:37,120
+Per esempio, XCS sta per un caro saluto e quindi caro saluto
+
+358
+00:22:37,120 --> 00:22:43,440
+CS ovviamente che fa partire appunto in text spander, una serie di
+
+359
+00:22:43,440 --> 00:22:46,160
+opzioni differenti di saluti, chiamiamole così.
+
+360
+00:22:46,160 --> 00:22:51,280
+E invece, nella sostituzione del testo di Apple, un caro saluto Filippo.
+
+361
+00:22:51,280 --> 00:22:58,840
+Così, quando sono sui dispositivi mobili, ho velocizzato, seppur non tantissimo, chiusure,
+
+362
+00:22:58,800 --> 00:23:01,480
+diciamo, di email e messaggi e cose del genere.
+
+363
+00:23:01,800 --> 00:23:07,000
+Direi che su come approcciare le espansioni del testo, abbiamo detto più
+
+364
+00:23:07,000 --> 00:23:10,760
+o meno tutto, e invece, direi a questo punto, possiamo passare alla
+
+365
+00:23:10,760 --> 00:23:16,120
+seconda parte, diciamo, cioè vedere i software a disposizione e quale software
+
+366
+00:23:16,280 --> 00:23:21,160
+casomai può andare meglio per uno o l'altro scopo.
+
+367
+00:23:21,160 --> 00:23:22,200
+Cosa ne dici, Roberto?
+
+368
+00:23:22,360 --> 00:23:25,240
+Ti dico che sono un po' perplesso perché volevo anch'io fare una
+
+369
+00:23:25,240 --> 00:23:29,240
+carrellata di abbreviazioni che io ho sul Mac e come per magia,
+
+370
+00:23:29,240 --> 00:23:33,400
+con il nuovo aggiornamento, penso di esserme le perse tutte a parte
+
+371
+00:23:33,400 --> 00:23:34,600
+che non ce ne hanno molti.
+
+372
+00:23:36,600 --> 00:23:40,200
+Così entriamo subito a bomba nell'argomento.
+
+373
+00:23:40,200 --> 00:23:45,240
+Allora, Apple ha sempre avuto un grossissimo problema, cioè la sostituzione del
+
+374
+00:23:45,240 --> 00:23:51,800
+testo recentemente, dico recentemente, io ho avuto veramente pochi problemi di sincronizzazione.
+
+375
+00:23:51,800 --> 00:23:58,760
+Ma appunto la sostituzione del testo, si trova all'interno dell'interfaccia sia delle
+
+376
+00:23:59,000 --> 00:24:05,000
+impostazioni di macOS che di iOS e iPadOS, legato alla tastiera,
+
+377
+00:24:05,000 --> 00:24:06,040
+ovviamente.
+
+378
+00:24:06,040 --> 00:24:09,720
+È un tab apposta, chiamiamolo in questi termini.
+
+379
+00:24:10,040 --> 00:24:15,560
+Seppur ha sempre avuto la possibilità di sincronizzarsi tra i vari dispositivi,
+
+380
+00:24:15,560 --> 00:24:19,640
+fino a uno o due sistemi operativi fa, questo creava enormi problemi.
+
+381
+00:24:19,640 --> 00:24:24,840
+Quindi non si sincronizzavano correttamente, o spesso e volentieri e quindi spesso
+
+382
+00:24:24,840 --> 00:24:26,280
+e volentieri non funzionavano.
+
+383
+00:24:26,280 --> 00:24:29,400
+Le sostituzioni del testo su tutti i dispositivi.
+
+384
+00:24:29,400 --> 00:24:37,000
+Io recentemente, però, con anche dispositivi, diciamo che aggiornati in maniera conforme.
+
+385
+00:24:37,000 --> 00:24:41,720
+Quindi tu, per esempio, potresti aver fatto un aggiornamento a Microsoft Ventura
+
+386
+00:24:41,720 --> 00:24:45,600
+passando alla Big Sure, e sugli altri dispositivi Apple invece hai gli
+
+387
+00:24:45,600 --> 00:24:48,000
+aggiornamenti, diciamo, iOS 16 presumo.
+
+388
+00:24:44,680 --> 00:24:50,320
+Quindi, comunque potrebbe essere stato quello.
+
+389
+00:24:51,120 --> 00:24:54,720
+Comunque c'è sempre stato, ed è uno dei grossi limiti che è
+
+390
+00:24:54,720 --> 00:24:58,720
+sempre stato presente in Apple, questo grosso bug potenziale.
+
+391
+00:24:58,720 --> 00:25:03,280
+Recentemente dalla mia esperienza personale, però appunto me ne è accennato proprio
+
+392
+00:25:03,280 --> 00:25:03,760
+ora.
+
+393
+00:25:03,760 --> 00:25:08,640
+Quindi, io non soffro di questi problemi da qualche sistema operativo.
+
+394
+00:25:08,640 --> 00:25:13,440
+Bene, buono sapersi, perché cominciavo a preoccuparmi, ma in ogni caso, per
+
+395
+00:25:13,440 --> 00:25:18,400
+fortuna, ho l'appoggio di iPadOS, che ho il mio fido iPad,
+
+396
+00:25:18,400 --> 00:25:21,120
+qua, sempre con me, che invece le ha mantenute.
+
+397
+00:25:21,280 --> 00:25:26,320
+Vi racconto che io ho messo come sostituzione, invece di usare la
+
+398
+00:25:26,320 --> 00:25:31,760
+X, che è una soluzione molto interessante, io invece utilizzo soluzioni fantasiose
+
+399
+00:25:31,760 --> 00:25:39,120
+come scrivere vi, via, cioè due volte vi prima di via, essenzialmente
+
+400
+00:25:39,200 --> 00:25:43,600
+cioè V-I, A, che mi sostituisce la mia via, perché diciamo che
+
+401
+00:25:43,600 --> 00:25:46,800
+potrebbe essere un errore di battitura, ma io lo utilizzo con la
+
+402
+00:25:46,800 --> 00:25:51,200
+doppia iniziale per riuscire a ricordarmi di mettermi la mia via di
+
+403
+00:25:51,200 --> 00:25:52,080
+abitazione.
+
+404
+00:25:52,080 --> 00:25:58,080
+Poi trattino basso CF e il codice fiscale, punto e virgola, tell
+
+405
+00:25:58,080 --> 00:26:01,760
+e il telefono, che però ho fatto sul mobile.
+
+406
+00:26:02,960 --> 00:26:05,840
+Difatti, queste qui arrivano dalla tastiera sul mobile.
+
+407
+00:26:05,840 --> 00:26:10,480
+Lo uso pochissimo, però sulla tastiera di macOS lo uso tantissimo.
+
+408
+00:26:10,480 --> 00:26:15,520
+La doppia chiocciola per il mio indirizzo di posta elettronica personale, invece
+
+409
+00:26:15,520 --> 00:26:18,960
+chiocciola SM2, che invece è quello del mio studio.
+
+410
+00:26:18,960 --> 00:26:23,040
+E io ho finito con le abbreviazioni della tastiera, che adesso mi
+
+411
+00:26:23,040 --> 00:26:27,920
+dovrò aggiungere qui su macOS, perché se è tranquillamente bevuto.
+
+412
+00:26:27,920 --> 00:26:31,560
+Ah, tu consideri qui non mi dici neanche quante abbreviazioni da tastiera
+
+413
+00:26:31,560 --> 00:26:35,160
+ho, ma tu considera che credo di averne un centinaio o di
+
+414
+00:26:29,840 --> 00:26:35,400
+più.
+
+415
+00:26:36,680 --> 00:26:39,160
+Sì, sì, siamo due estremi io e te.
+
+416
+00:26:39,160 --> 00:26:41,960
+Non è vero che ne abuso, però comunque le uso molto.
+
+417
+00:26:41,960 --> 00:26:46,840
+Per esempio, io lavorando molto con la corrispondenza, soprattutto i mail, una
+
+418
+00:26:47,000 --> 00:26:51,480
+cosa che utilizzo tantissimo è X il numero della pratica che mi
+
+419
+00:26:51,480 --> 00:26:56,760
+espande, creando il numero della pratica, pippo contro Pluto e così via.
+
+420
+00:26:56,760 --> 00:27:00,280
+Che ovviamente mi permette poi di fare tutti i magggi che faccio
+
+421
+00:27:00,280 --> 00:27:02,760
+io con l'archiviazione delle email e quant'altro.
+
+422
+00:27:02,760 --> 00:27:07,240
+Proprio perché quando io faccio parte con email, l'email abitualmente se è
+
+423
+00:27:07,240 --> 00:27:11,720
+una mail del lavoro: il numero della pratica e tutto, quindi io
+
+424
+00:27:11,720 --> 00:27:15,480
+ci metto tre secondi a inserirlo proprio perché devo scrivere X il
+
+425
+00:27:15,560 --> 00:27:21,320
+numero della pratica, e quindi anche questo mi permette di velocizzare notevolmente
+
+426
+00:27:21,320 --> 00:27:22,840
+tutta una serie di cose.
+
+427
+00:27:22,840 --> 00:27:27,240
+Ho, per esempio, degli snippet per l'intestazione YAML
+
+428
+00:27:28,680 --> 00:27:32,200
+per creare i far Mark Down, compando che è latec.
+
+429
+00:27:32,360 --> 00:27:36,360
+Ho tutta una serie di cose, ovviamente tutta la gestione delle date.
+
+430
+00:27:36,360 --> 00:27:38,680
+Io qui faccio una cosa un po' particolare.
+
+431
+00:27:38,680 --> 00:27:43,080
+Abitualmente gli americani utilizzano dei sistemi diversi, racconto quello che è il
+
+432
+00:27:43,080 --> 00:27:47,640
+mio, X data e la data di oggi è quella che diciamo
+
+433
+00:27:47,880 --> 00:27:55,640
+è 2023-0426 con i trattini che mi permette poi di datare, se
+
+434
+00:27:55,640 --> 00:27:58,840
+non se lo voglio fare a mano, un documento che ho appena
+
+435
+00:27:59,320 --> 00:28:00,760
+scansionato e così via.
+
+436
+00:28:00,760 --> 00:28:05,000
+Quindi per la datazione dei documenti e per tutta l'organizzazione dei documenti
+
+437
+00:28:05,160 --> 00:28:05,720
+faccio così.
+
+438
+00:28:05,720 --> 00:28:09,640
+Se, per esempio, il documento è di ieri ma l'ho scansionato oggi,
+
+439
+00:28:09,640 --> 00:28:10,360
+cosa faccio?
+
+440
+00:28:10,360 --> 00:28:14,040
+Scrivo X ieri e mi fa la data di ieri, ovviamente X
+
+441
+00:28:14,040 --> 00:28:17,440
+altro ieri di due giorni fa, poi dopo invece vado a mano
+
+442
+00:28:14,920 --> 00:28:18,720
+perché non ha molto senso.
+
+443
+00:28:18,960 --> 00:28:23,920
+E anche questo mi velocizza molto l'inserimento della data in un documento
+
+444
+00:28:24,240 --> 00:28:25,200
+senza dover.
+
+445
+00:28:25,200 --> 00:28:28,160
+Ovviamente se sono documenti che sto lavorando in questi giorni.
+
+446
+00:28:28,640 --> 00:28:32,160
+Aggiungo una piccola cosa che si può fare su Meco S, che
+
+447
+00:28:32,400 --> 00:28:36,960
+forse, non so se le applicazioni di cui poi parlerai tu più
+
+448
+00:28:36,960 --> 00:28:41,840
+avanti, permette di fare, che è quella di associare delle abbrevazioni da
+
+449
+00:28:41,840 --> 00:28:46,400
+tastiera a delle singole applicazioni oppure per tutto il sistema operativo.
+
+450
+00:28:46,400 --> 00:28:49,360
+Io vi faccio un esempio: una me l'ha salvata e sono molto
+
+451
+00:28:49,360 --> 00:28:50,160
+contento di questo.
+
+452
+00:28:50,560 --> 00:28:52,640
+Le sostituzioni di testo.
+
+453
+00:28:52,640 --> 00:28:57,120
+No, però diciamo che rientrano come abbreviazioni da tastiera, visto che per
+
+454
+00:28:57,120 --> 00:29:00,480
+inserire la sostituzione da tastiera, da quello che ho capito, devo passare
+
+455
+00:29:00,480 --> 00:29:02,640
+da qua, da abbrevazioni up.
+
+456
+00:29:02,640 --> 00:29:07,360
+Tuttavia, sono sempre nella fase riscoperta del sistema operativo e potrei anche
+
+457
+00:29:07,360 --> 00:29:08,320
+sbagliarmi.
+
+458
+00:29:08,320 --> 00:29:10,880
+Tuttavia, volevo fare un accenno a questo: è una cosa diversa, vero
+
+459
+00:29:10,960 --> 00:29:11,360
+Roberto?
+
+460
+00:29:11,440 --> 00:29:15,200
+Sì, sì, sì, però volevo fare l'accenno al stesso perché sono gasatissimo.
+
+461
+00:29:15,200 --> 00:29:17,920
+Che magari potrà tornare utile a molti.
+
+462
+00:29:17,920 --> 00:29:22,320
+Ad esempio, è il command P che può essere associato a salva
+
+463
+00:29:22,480 --> 00:29:24,240
+come PDF puntini.
+
+464
+00:29:24,240 --> 00:29:27,200
+Per esempio, può capitare una cosa per una scocciatore velocissima.
+
+465
+00:29:27,280 --> 00:29:30,960
+Poi chiudo perché siamo fuori dal argomento e Filippo mi massacra.
+
+466
+00:29:30,960 --> 00:29:35,040
+Per esempio, se voi fate, avete un documento aperto, fate command P,
+
+467
+00:29:35,040 --> 00:29:39,360
+vi si apre la, diciamo l'interfaccia per la stampa.
+
+468
+00:29:39,360 --> 00:29:44,000
+E se avete messo anche questa ulteriore abbreviazione da tastiera, fate nuovo
+
+469
+00:29:44,160 --> 00:29:46,400
+command P e ve lo salvo come pdf.
+
+470
+00:29:46,400 --> 00:29:46,800
+Punto.
+
+471
+00:29:46,800 --> 00:29:47,760
+Basta, vai avanti.
+
+472
+00:29:47,920 --> 00:29:51,360
+Le abbreviazioni da tastiera sono una cosa.
+
+473
+00:29:51,360 --> 00:29:54,000
+Le sostituzioni di testa sono tutte un'altra.
+
+474
+00:29:54,000 --> 00:29:55,600
+No, è perché crei confusione.
+
+475
+00:29:55,680 --> 00:29:58,360
+Ma sto qua che sto cercando, non la trovo.
+
+476
+00:29:58,360 --> 00:30:00,840
+E sotto e metti testo,
+
+477
+00:30:01,960 --> 00:30:05,800
+visto che ci sono entrato in cosventura, nelle impostazioni di sistema si
+
+478
+00:29:59,680 --> 00:30:06,280
+va in tasti
+
+479
+00:29:59,920 --> 00:30:06,680
+era.
+
+480
+00:30:06,760 --> 00:30:10,600
+Dentro le impostazioni di tastiera c'è la prima parte che appunto è
+
+481
+00:30:10,760 --> 00:30:15,560
+navigazione da tastiera, e che appunto le abbrevazioni da tastiera servono per
+
+482
+00:30:15,560 --> 00:30:20,120
+navigare velocemente nell'interfaccia del sistema operativo e quindi il command P di
+
+483
+00:30:20,120 --> 00:30:21,640
+cui facevi riferimento.
+
+484
+00:30:21,640 --> 00:30:26,760
+Metti testo e la voce successiva, sorgenti input e sotto hai sostituzione
+
+485
+00:30:26,840 --> 00:30:28,920
+testo, che è quello che ci interessa a noi.
+
+486
+00:30:28,920 --> 00:30:30,120
+Ah, benissimo!
+
+487
+00:30:30,120 --> 00:30:31,480
+Allora me li ha salvati.
+
+488
+00:30:32,200 --> 00:30:34,760
+Non commentare, ma mi è cambiato un po'.
+
+489
+00:30:34,760 --> 00:30:39,640
+C'è da dire che mi ha cambiato molto l'interfaccia dell'impostazione di sistema
+
+490
+00:30:39,640 --> 00:30:43,720
+da Bixir Aventura proprio un altro mondo, e bisogna un po' più.
+
+491
+00:30:44,520 --> 00:30:46,120
+È molto più simile a iOS.
+
+492
+00:30:46,680 --> 00:30:51,080
+Ecco già che ci sono, già che ci sono, giusto per così
+
+493
+00:30:51,240 --> 00:30:51,560
+do
+
+494
+00:30:52,840 --> 00:30:58,120
+altri spunti interessanti per sostituzione a tastiera, perché non ci avevo badato,
+
+495
+00:30:58,120 --> 00:31:01,640
+ma diciamo io nelle sostituzioni a tastiera di Apple ho messo quelle
+
+496
+00:31:01,640 --> 00:31:05,400
+cose che mi servono spesso e volentieri anche su iOS e iPadOS,
+
+497
+00:31:05,640 --> 00:31:09,800
+dove non ho sostanzialmente un modo semplice e veloce.
+
+498
+00:31:09,800 --> 00:31:15,160
+Dopo spiegherò cosa si riesce a fare, ma piccolo barbatrucco, che chiamiamolo
+
+499
+00:31:15,160 --> 00:31:15,560
+così.
+
+500
+00:31:15,560 --> 00:31:19,640
+Per cui, per esempio, siccome io spesso e volentieri utilizzo tastiere americane
+
+501
+00:31:19,640 --> 00:31:23,320
+sia su Mac che su iOS, e ovviamente le lettere accentate a
+
+502
+00:31:23,320 --> 00:31:25,080
+volte non sono comode da fare.
+
+503
+00:31:25,080 --> 00:31:29,320
+Io ho messo l'accento A, per esempio, che mi crea, mi va
+
+504
+00:31:29,320 --> 00:31:32,600
+in sostituzione tastiera con la A accentata.
+
+505
+00:31:32,600 --> 00:31:37,640
+È molto comodo questo sistema, perché ovviamente non devo andare a cercare
+
+506
+00:31:37,640 --> 00:31:41,800
+fare: anzi, ALT, accento e poi la lettera, che spesso e volentieri
+
+507
+00:31:41,880 --> 00:31:44,280
+casomai non viene presa correttamente.
+
+508
+00:31:44,280 --> 00:31:49,920
+Un'altra cosa interessantissima per un professionista è digitare velocemente l'IBAN.
+
+509
+00:31:50,480 --> 00:31:54,400
+Anche quello lì può essere una scorciata a tastiera molto utile.
+
+510
+00:31:54,400 --> 00:31:55,360
+Bravo, bella idea!
+
+511
+00:31:55,360 --> 00:32:01,440
+Soprattutto per non sbagliarlo, per non sbagliarlo, poi un'altra cosa molto carina:
+
+512
+00:32:01,680 --> 00:32:06,080
+vabbè, si possono mettere le emoji, che può diventare anche comodo.
+
+513
+00:32:06,240 --> 00:32:10,880
+Anche se abitualmente: io, per esempio, ho fatto X bacio per mandare
+
+514
+00:32:10,880 --> 00:32:13,360
+un bacio, però non so quanto ne valga la pena.
+
+515
+00:32:13,520 --> 00:32:18,880
+Solitamente se metti bacio, automaticamente adesso il sistema operativo ti dà la
+
+516
+00:32:18,880 --> 00:32:19,840
+possibilità di.
+
+517
+00:32:19,840 --> 00:32:23,840
+Una cosa invece comodissima, questo è un po' particolare, ma può essere
+
+518
+00:32:23,840 --> 00:32:28,400
+utile a tanti, è, per esempio, XCMD, cioè X Command, che mi
+
+519
+00:32:28,400 --> 00:32:33,520
+fa il tasto speciale di comando di Apple, e così per Alt,
+
+520
+00:32:33,920 --> 00:32:38,240
+Shift e quant'altro, di modo che quando sto scrivendo degli articoli in
+
+521
+00:32:38,240 --> 00:32:42,000
+automatico mi va a sostituire correttamente tutto.
+
+522
+00:32:42,000 --> 00:32:46,080
+Ho, per esempio, gli URL di Avvocati e Mac, A2 Podcast e
+
+523
+00:32:46,080 --> 00:32:50,080
+così via, che mi permettono di inserire gli URL velocemente.
+
+524
+00:32:50,160 --> 00:32:52,320
+Anche questo può essere una cosa molto comoda.
+
+525
+00:32:52,320 --> 00:32:56,880
+Come ho tutta una serie di applicazioni di cui scrivo regolarmente, ho
+
+526
+00:32:56,960 --> 00:33:00,880
+per esempio XKM che sta per Kybo Maestro, che è lungo da
+
+527
+00:33:00,880 --> 00:33:05,200
+scrivere, Devon Zink che è scritto in maniera strana, l'ATEC che è
+
+528
+00:33:05,200 --> 00:33:08,800
+scritto con la L maiuscola, la T maiuscola e la X maiuscola,
+
+529
+00:33:08,800 --> 00:33:13,600
+io lo scrivo tutto in minuscolo, ma in autocorrezione sostanzialmente mi va
+
+530
+00:33:13,600 --> 00:33:14,640
+a fare tutto.
+
+531
+00:33:14,640 --> 00:33:18,240
+Quindi, questi possono essere già degli esempi, da un certo punto di
+
+532
+00:33:18,240 --> 00:33:22,480
+vista, forse banali, ma abbastanza utili di come funziona.
+
+533
+00:33:22,480 --> 00:33:28,080
+Questo sistema mi permette di lavorare anche senza Tax Expander, che è
+
+534
+00:33:28,080 --> 00:33:32,280
+attualmente lo strumento che utilizzo abitualmente per le espansioni del testo, ma
+
+535
+00:33:29,680 --> 00:33:36,360
+farò tutta una serie di piccole parentesi sull'argomento, ma non ora.
+
+536
+00:33:36,520 --> 00:33:41,400
+Condividendo appunto tra tutti i miei dispositivi iOS, iOS, Mac OS e
+
+537
+00:33:41,400 --> 00:33:45,800
+iPadOS, le scocciatoie e queste sono, chiamiamole così, le scocciatoie che io
+
+538
+00:33:45,800 --> 00:33:50,360
+definisco di base, cioè senza le quali io non potrei mai vivere.
+
+539
+00:33:50,360 --> 00:33:53,560
+Perché digitare la mail a mano è un dramma.
+
+540
+00:33:53,720 --> 00:33:58,120
+Tra l'altro, in iOS ti mette la lettera maiuscola della prima lettera,
+
+541
+00:33:58,120 --> 00:33:59,640
+è un delirio totale.
+
+542
+00:33:59,640 --> 00:34:03,000
+Personalmente, questo è qualcosa di indispensabile.
+
+543
+00:34:03,080 --> 00:34:09,240
+Infatti, le ho duplicate apposta per essere sicuro che l'espansione del testo
+
+544
+00:34:09,240 --> 00:34:11,720
+funzioni correttamente su tutti i miei dispositivi.
+
+545
+00:34:11,720 --> 00:34:16,680
+Arriviamo quindi al papà di tutti i programmi per l'espansione del testo,
+
+546
+00:34:16,680 --> 00:34:17,880
+perché è Tex Espander.
+
+547
+00:34:17,960 --> 00:34:22,360
+Su Tex Expander lo uso ormai, o dalla versione 4 alla versione
+
+548
+00:34:22,360 --> 00:34:23,480
+5, non mi ricordo più.
+
+549
+00:34:23,480 --> 00:34:27,480
+C'è però da dire una cosa che dico subito: ho smesso, non
+
+550
+00:34:27,480 --> 00:34:32,120
+ho aggiornato la versione 6, che è l'attuale, credo, perché è passato
+
+551
+00:34:32,120 --> 00:34:34,280
+in abbonamento o sottoscrizione.
+
+552
+00:34:34,280 --> 00:34:37,400
+Non costa una follia, è vero, perché non costa una follia.
+
+553
+00:34:37,400 --> 00:34:39,080
+Tuttavia, il mio ragionamento è doppio.
+
+554
+00:34:39,080 --> 00:34:42,520
+Diciamo, almeno dal mio punto di vista, il grosso problema di tutta
+
+555
+00:34:42,520 --> 00:34:46,840
+questa vicenda è che la sincronizzazione passa attraverso un server di text
+
+556
+00:34:46,840 --> 00:34:47,320
+expand.
+
+557
+00:34:47,400 --> 00:34:50,120
+Questo vuol dire che tutte le mie espansioni di testo ce le
+
+558
+00:34:50,200 --> 00:34:53,160
+hanno anche text expand e ovviamente non sono cifrate e così via.
+
+559
+00:34:53,160 --> 00:34:56,520
+Come dicevo prima, ho tutti i numeri della pratica, ma con tizio
+
+560
+00:34:56,600 --> 00:35:00,440
+contro Caio e quindi con dati, nome, cognome o nome delle parti
+
+561
+00:35:00,440 --> 00:35:01,160
+e così via.
+
+562
+00:35:01,160 --> 00:35:05,000
+Per cui, per cui nella sostanza il passaggio all'abbonamento che avrei potuto
+
+563
+00:35:05,000 --> 00:35:08,760
+anche ragionare di fare, diciamo, è stato sempre un no go, mettiamola
+
+564
+00:35:08,760 --> 00:35:10,520
+in questi termini, per questo motivo.
+
+565
+00:35:10,520 --> 00:35:10,760
+Sì.
+
+566
+00:35:10,760 --> 00:35:15,360
+Ricordo che mi infilo subito in gamba tesa, il costo è di
+
+567
+00:35:15,360 --> 00:35:22,640
+3,33 dollari al mese per la versione individuale, 8,33 dollari per la
+
+568
+00:35:22,640 --> 00:35:27,840
+versione business, sempre per mese, che permette anche di collaborare e comunicare
+
+569
+00:35:27,840 --> 00:35:30,080
+efficientemente col vostro team.
+
+570
+00:35:30,080 --> 00:35:36,400
+Oppure per quella imperiale, chiamiamola così, sono 10,83 dollari al mese.
+
+571
+00:35:36,400 --> 00:35:41,040
+Quindi sì, in effetti voi fate il conto che magari sono circa
+
+572
+00:35:41,040 --> 00:35:44,240
+3 dollari al mese, per 12 sono 36 dollari.
+
+573
+00:35:44,240 --> 00:35:49,840
+Facciamo il cambio, andiamo a favore, sono 35 euro all'anno per un'applicazione
+
+574
+00:35:49,840 --> 00:35:51,680
+di espansione del testo.
+
+575
+00:35:51,680 --> 00:35:55,760
+Che vi aiuta tantissimo, ma immagino che se iniziate a fare un
+
+576
+00:35:55,760 --> 00:36:00,160
+po' il peso su tutte le applicazioni che utilizzate e soprattutto tutti
+
+577
+00:36:00,160 --> 00:36:05,600
+gli abbonamenti che purtroppo per noi utenti finali ci dobbiamo caricare, ma
+
+578
+00:36:05,600 --> 00:36:09,360
+d'altra parte, se lo vediamo invece dalla parte dello sviluppatore, come abbiamo
+
+579
+00:36:09,360 --> 00:36:13,680
+fatto con Alex Raccuglia A2 Podcast, possiamo iniziare a capire che
+
+580
+00:36:13,680 --> 00:36:16,720
+in effetti come modello di business, purtroppo non è che ci sia
+
+581
+00:36:16,880 --> 00:36:21,520
+tanti altri modi per riuscire a mantenersi a galla e avere, come
+
+582
+00:36:21,520 --> 00:36:26,400
+sapete, noi popolo delle partite IV abbiamo bisogno almeno di un flusso
+
+583
+00:36:26,400 --> 00:36:29,520
+di cassa abbastanza omogeneo per riuscire a sopravvivere.
+
+584
+00:36:29,520 --> 00:36:33,840
+Per cui io sono fermo alla versione 5 che invece dava la
+
+585
+00:36:33,840 --> 00:36:39,200
+possibilità di sincronizzare i dati, ma non attraverso un server, chiamiamolo così,
+
+586
+00:36:39,200 --> 00:36:43,760
+esterno, e quindi da un certo punto di vista funziona meglio.
+
+587
+00:36:43,760 --> 00:36:48,800
+Lo dico già perché è uno dei futuri step, ma è anche
+
+588
+00:36:48,800 --> 00:36:51,840
+uno dei motivi per cui sono ancora rimasto su Tex Expander.
+
+589
+00:36:51,840 --> 00:36:57,440
+È ovvio che più la collezione di espansioni del testo diventa grande,
+
+590
+00:36:57,680 --> 00:37:02,680
+più hai inserito e sei abituato a utilizzare un determinato programma, più
+
+591
+00:36:59,280 --> 00:37:03,800
+è difficile abbandonarlo.
+
+592
+00:37:03,960 --> 00:37:08,360
+Quindi la versione 5 di Tax Spander credo che ormai sia piuttosto
+
+593
+00:37:08,360 --> 00:37:13,800
+vecchia, abbia 4-5 anni da quando non è stata più aggiornata.
+
+594
+00:37:13,800 --> 00:37:16,920
+Per ora sui sistemi operativi Mac funziona.
+
+595
+00:37:16,920 --> 00:37:22,360
+Ma ovviamente la possibilità che a breve non funzioni più sono elevate.
+
+596
+00:37:22,360 --> 00:37:26,600
+Ho deciso che appena avrò un attimo di tempo, farò il passaggio
+
+597
+00:37:26,600 --> 00:37:30,360
+a quello che sarà il mio futuro sistema di espansione testo.
+
+598
+00:37:30,360 --> 00:37:32,840
+Che consiglio anche a Roberto a dire la verità.
+
+599
+00:37:33,000 --> 00:37:37,320
+Che è espanso e di cui parleremo poi alla fine, chiamiamoli in
+
+600
+00:37:37,320 --> 00:37:37,960
+questi termini.
+
+601
+00:37:37,960 --> 00:37:43,480
+Quindi la cosa interessante di Texpandar è pensato ormai esclusivamente per le
+
+602
+00:37:43,480 --> 00:37:48,520
+imprese, quindi appunto la possibilità anche di condividere questi snippet di testo.
+
+603
+00:37:48,520 --> 00:37:53,720
+Quindi io ho un mega studio legale di 100.000 dipendenti, io posso
+
+604
+00:37:53,720 --> 00:38:00,920
+creare, ho per esempio un LPD, o Roberto vuole condividere con sua
+
+605
+00:38:00,920 --> 00:38:04,440
+moglie delle risposte standard per i clienti, per esempio.
+
+606
+00:38:04,440 --> 00:38:09,400
+È ovvio che poter condividere le espansioni del testo con dei collaboratori
+
+607
+00:38:09,560 --> 00:38:14,440
+diventa comodo perché tu generi la risposta standard, chiamiamolo così, con eventualmente
+
+608
+00:38:14,440 --> 00:38:18,680
+due o tre risposte personalizzabili, ma anche personalizzabili.
+
+609
+00:38:18,680 --> 00:38:21,400
+Cioè adesso dopo lo vedremo, Text Spander.
+
+610
+00:38:21,400 --> 00:38:24,760
+Proprio può ovviamente fare delle semplici espansioni del testo, ma può fare
+
+611
+00:38:24,760 --> 00:38:29,240
+proprio per esempio scriverti: non so, io, per esempio, l'ho utilizzato per
+
+612
+00:38:29,240 --> 00:38:34,440
+fare la testazione di conformità degli atti giudiziari, quindi dovevo inserire solo
+
+613
+00:38:34,440 --> 00:38:41,160
+determinate parti nell'atto, ma tutto il timbro, chiamiamola così, veniva autogenerato, dovevo
+
+614
+00:38:41,160 --> 00:38:45,440
+inserire, non so, il tribunale piuttosto che il cliente, piuttosto che il
+
+615
+00:38:45,440 --> 00:38:51,760
+numero di reg del giudizio, ma tutta la pappardella, chiamiamola così, sempre
+
+616
+00:38:51,760 --> 00:38:57,760
+uguale, invece veniva autogenerata e qui diventa veramente molto interessante perché è
+
+617
+00:38:57,760 --> 00:39:02,480
+ovvio che finché facciamo delle cose molto semplici, si va bene, puoi
+
+618
+00:39:02,480 --> 00:39:03,680
+anche digitarle.
+
+619
+00:39:03,680 --> 00:39:08,320
+Ma quando iniziano a essere un testo di 100-200 parole, il vantaggio
+
+620
+00:39:08,720 --> 00:39:11,920
+più o meno sempre uguale o comunque con delle variazioni sul tema,
+
+621
+00:39:11,920 --> 00:39:13,520
+chiamiamoli in questi termini.
+
+622
+00:39:13,520 --> 00:39:16,960
+Il vantaggio di utilizzare l'espansione del testo è evidente.
+
+623
+00:39:16,960 --> 00:39:22,400
+Io che spesso e volentieri scrivo delle cose che sono simili ma
+
+624
+00:39:23,040 --> 00:39:24,160
+non sempre uguali.
+
+625
+00:39:24,160 --> 00:39:27,280
+La cosiddetta document automation per me è fondamentale.
+
+626
+00:39:27,280 --> 00:39:34,080
+Sistema utilissimo per migliorare, velocizzare e soprattutto fare meno errori, qui Text
+
+627
+00:39:34,080 --> 00:39:36,640
+Espander può diventare veramente una manna dal cielo.
+
+628
+00:39:36,640 --> 00:39:41,920
+Ed è per questo che Roberto giustamente chiamiamolo così, non l'utilizza tantissimo.
+
+629
+00:39:41,920 --> 00:39:44,800
+Però io lo continuo a ripetere, è già anche solo.
+
+630
+00:39:44,800 --> 00:39:49,280
+Fare delle richieste standard, non so, al comune piuttosto che documenti che
+
+631
+00:39:49,280 --> 00:39:53,600
+devi chiedere sempre al cliente per fare una determinata pratica, tu hai
+
+632
+00:39:53,600 --> 00:39:58,240
+il tuo bello elenchino già organizzato, già con tutte le spiegazioni, questo
+
+633
+00:39:58,400 --> 00:40:01,520
+documento lo trovi qua facendo questo, questo, quest'altro.
+
+634
+00:40:01,520 --> 00:40:08,400
+Ecco, sembra banale, ma soprattutto per l'attività ripetitiva, diventa veramente già quando
+
+635
+00:40:08,400 --> 00:40:10,240
+l'hai dovuto scrivere 3-4 volte.
+
+636
+00:40:10,240 --> 00:40:15,440
+La papardella ci hai guadagnato e in più, appunto, si può utilizzare
+
+637
+00:40:15,440 --> 00:40:17,280
+il Texas Spann e molti piattaforma.
+
+638
+00:40:17,280 --> 00:40:23,360
+Quindi Windows, Mac e iOS, quindi veramente molto vantaggioso perché ti permette
+
+639
+00:40:23,360 --> 00:40:26,720
+di lavorare anche su altre piattaforme.
+
+640
+00:40:26,720 --> 00:40:29,840
+Quindi, per esempio, quello che fai su Macu, per esempio, lavoro
+
+641
+00:40:29,840 --> 00:40:33,560
+con PC Windows, lo puoi fare direttamente anche sul PC.
+
+642
+00:40:34,120 --> 00:40:37,320
+Stavo pensando a un caso di utilizzo che proprio mi è capitato
+
+643
+00:40:37,320 --> 00:40:38,280
+in questi giorni qua.
+
+644
+00:40:38,280 --> 00:40:44,040
+Che ho dovuto essenzialmente mandare sei email che devo fare praticamente ogni
+
+645
+00:40:44,040 --> 00:40:44,360
+mese
+
+646
+00:40:45,560 --> 00:40:50,200
+, con sempre lo stesso testo, con piccole variazioni che riguardano dei link
+
+647
+00:40:50,200 --> 00:40:51,960
+e altri dettagli.
+
+648
+00:40:51,960 --> 00:40:58,120
+E penso che in questo caso il mitico expansione che mi consiglia,
+
+649
+00:40:58,120 --> 00:41:00,840
+Filippo, penso che potrà tornarmi davvero utile.
+
+650
+00:41:00,840 --> 00:41:05,160
+Quindi, mi hai dato il la per installarmelo finalmente, finalmente, perché tu
+
+651
+00:41:05,160 --> 00:41:08,600
+non mi dai mai retta, è il tuo problema.
+
+652
+00:41:09,160 --> 00:41:10,680
+No, è questione di tempo.
+
+653
+00:41:11,640 --> 00:41:15,480
+Perché se avessi il tempo che potessi, farei tutto quello che mi
+
+654
+00:41:15,480 --> 00:41:19,160
+dici, ma purtroppo non riesco a avere pazienza con me.
+
+655
+00:41:19,160 --> 00:41:21,160
+Sono un caso clinico.
+
+656
+00:41:21,160 --> 00:41:25,960
+Comunque, appunto, sincronizzazione online che è un vantaggio da un certo punto
+
+657
+00:41:25,960 --> 00:41:29,960
+di vista, perché ovviamente ti permette di mantenere anche avere
+
+658
+00:41:31,000 --> 00:41:35,640
+un repository, un archivio di tutte le tue espansioni del testo, poterle
+
+659
+00:41:35,640 --> 00:41:39,480
+condividere in maniera selettiva con eventuali collaboratori e così via.
+
+660
+00:41:39,480 --> 00:41:43,160
+Dall'altro, ovviamente ti devi fidare di Tex Espanda, soprattutto se ci sono
+
+661
+00:41:43,160 --> 00:41:47,240
+dei dati personali all'interno di queste espansioni e quant'altro.
+
+662
+00:41:47,240 --> 00:41:52,920
+Cose particolari, adesso io non andrei troppo nel dettaglio, l'unica cosa che
+
+663
+00:41:52,920 --> 00:41:58,360
+segnalo sono funzioni, chiamiamole così avanzate, però nella sostanza,
+
+664
+00:41:59,560 --> 00:42:00,440
+quasi tutti
+
+665
+00:42:01,480 --> 00:42:06,360
+software, diciamo: oltre a fare delle espansioni chiamiamole di testo normale, hanno
+
+666
+00:42:06,360 --> 00:42:09,800
+la possibilità di lanciare anche programmi o lanciare script.
+
+667
+00:42:09,960 --> 00:42:11,480
+Appunto, con espanso.
+
+668
+00:42:11,480 --> 00:42:13,760
+Dopo spiegherò anche se c'è tempo.
+
+669
+00:42:13,720 --> 00:42:16,800
+Che l'ho usato perché ho fatto questo test e
+
+670
+00:42:14,920 --> 00:42:18,480
+cosa sono riuscito a fare.
+
+671
+00:42:18,720 --> 00:42:23,760
+Test Espander può fare altrettanto, quindi può lanciare script vari ed eventuali,
+
+672
+00:42:23,760 --> 00:42:25,680
+Apple script e quant'altro.
+
+673
+00:42:25,680 --> 00:42:31,440
+Diciamo che per l'utente veramente è un pelino sopra, però, spesso e
+
+674
+00:42:31,520 --> 00:42:37,280
+volentieri in determinate situazioni dove scrivere e scrivere velocemente è importante.
+
+675
+00:42:37,280 --> 00:42:40,480
+Non dover alzare le mani nella tastiera per lanciare qualche tipo di
+
+676
+00:42:40,480 --> 00:42:45,680
+automazione, ma poter lanciare questa automazione direttamente mentre si digita il testo.
+
+677
+00:42:45,680 --> 00:42:49,520
+Famoso X qualcosa, è veramente un salvatempo.
+
+678
+00:42:49,520 --> 00:42:53,920
+Altra applicazione di cui abbiamo già parlato quindi vado velocissimamente, ma va
+
+679
+00:42:53,920 --> 00:42:57,520
+citata perché anche lì non ne avevamo parlato più di tanto, proprio
+
+680
+00:42:57,520 --> 00:43:01,040
+perché non era il suo core business, ma è Kimbor Maestro.
+
+681
+00:43:01,040 --> 00:43:04,880
+King Maestro tra le varie funzioni, ne abbiamo parlato nella puntata 52,
+
+682
+00:43:04,880 --> 00:43:10,480
+dove abbiamo fatto un bell'approfondimento, ha la possibilità di far partire le
+
+683
+00:43:10,480 --> 00:43:14,400
+macro attraverso anche la digitazione del semplice testo.
+
+684
+00:43:14,400 --> 00:43:18,240
+Quindi, a volte con la combinazione del testo, a volte proprio mentre
+
+685
+00:43:18,240 --> 00:43:22,320
+si digita il testo, è possibile tenere il testo e far fare
+
+686
+00:43:22,320 --> 00:43:23,440
+le varie cose.
+
+687
+00:43:23,440 --> 00:43:28,960
+Se interessano, lo metterò nel link delle note all'episodio, ma nella scaletta
+
+688
+00:43:28,960 --> 00:43:30,000
+ancora non ce l'ho messo.
+
+689
+00:43:30,000 --> 00:43:34,960
+Recentemente appunto ho utilizzato Kybor Maestro proprio per fare questo: in pratica,
+
+690
+00:43:34,960 --> 00:43:40,400
+cosa ho fatto digitando un collega mi chiedeva: come avvocati, spesso e
+
+691
+00:43:40,400 --> 00:43:41,920
+volentieri cosa succede?
+
+692
+00:43:41,920 --> 00:43:50,080
+Come da fattura numero 100 del 2023 doc1, come da fattura 200
+
+693
+00:43:50,080 --> 00:43:54,960
+del 2023 doc 2, dobbiamo fare tutte queste spesso volentieri, scrivere doc
+
+694
+00:43:55,040 --> 00:43:58,400
+1, doc 2, doc 3, doc 4, e abitualmente, soprattutto quando si
+
+695
+00:43:58,400 --> 00:44:02,600
+fanno degli elenchi, il numero cresce, chiamiamoli in questi termini.
+
+696
+00:44:02,760 --> 00:44:10,840
+Ecco, ho creato un'automazione dove appunto facendo, credo che scrivendo x-doc perché
+
+697
+00:44:10,840 --> 00:44:15,080
+io sono molto lanciato con le automazioni.
+
+698
+00:44:15,080 --> 00:44:19,480
+Che il maestro fa tutta una serie di operazioni relativamente complicate, ma
+
+699
+00:44:19,480 --> 00:44:24,040
+in pratica prende il testo, anzi, seleziona tutto il testo, lo copia
+
+700
+00:44:24,040 --> 00:44:24,840
+negli appunti.
+
+701
+00:44:24,840 --> 00:44:29,400
+A questo punto parte un comando rapido che con una regex strappola
+
+702
+00:44:29,400 --> 00:44:34,360
+il doc punto il numero e strappola il numero e a quel
+
+703
+00:44:34,360 --> 00:44:37,320
+punto lì gli aggiunge un numero e quindi ti scrive doc 2
+
+704
+00:44:37,400 --> 00:44:41,000
+se prima ha trovato doc 1 o dock 3 o doc 4
+
+705
+00:44:41,160 --> 00:44:45,720
+in base all'ultimo numero che hai digitato all'interno del testo che stai
+
+706
+00:44:45,720 --> 00:44:46,200
+scrivendo.
+
+707
+00:44:46,200 --> 00:44:49,160
+E ti fa tutto questo in automatico senza che tu ci debba
+
+708
+00:44:49,320 --> 00:44:49,800
+pensare.
+
+709
+00:44:49,800 --> 00:44:57,080
+Quindi ovviamente rende molto facile e molto semplice la numerazione mentre si
+
+710
+00:44:57,080 --> 00:45:02,760
+scrive: stesso discorso sono riuscito a fare con espanso, appunto facendo tutto
+
+711
+00:45:02,760 --> 00:45:07,320
+un giro diverso, ma utilizzando appunto la possibilità di lanciare questi script
+
+712
+00:45:07,320 --> 00:45:08,520
+da espanso.
+
+713
+00:45:08,520 --> 00:45:13,320
+Se interessa, perché si vuole passare da text expander, esistono tutta una
+
+714
+00:45:13,320 --> 00:45:19,400
+serie di azioni che saranno poi linkate nelle note dell'episodio per la
+
+715
+00:45:19,400 --> 00:45:22,600
+conversione da tex expander a keyborg maestro.
+
+716
+00:45:22,600 --> 00:45:29,880
+Personalmente sono abbastanza sarei passato totalmente a keyborg maestro che già utilizzo
+
+717
+00:45:29,880 --> 00:45:32,520
+e aggiorno in anno in anno.
+
+718
+00:45:32,520 --> 00:45:37,240
+La cosa interessante di expanso, e adesso ne parliamo direttamente, è che
+
+719
+00:45:37,480 --> 00:45:42,520
+Expanso funziona anche su Windows, mentre ovviamente Kybor Maestro è solo per
+
+720
+00:45:42,560 --> 00:45:43,400
+macOS.
+
+721
+00:45:43,400 --> 00:45:47,600
+Quindi, la cosa interessante di expansion è che passando tutte le mie
+
+722
+00:45:47,680 --> 00:45:52,000
+sciolche le mie espansioni del testo ad expanso, avrò la possibilità di
+
+723
+00:45:52,000 --> 00:45:56,800
+lavorare in maniera indifferente tra macOS, Windows e Linux.
+
+724
+00:45:56,800 --> 00:45:59,280
+Il problema, però, è iOS epados.
+
+725
+00:45:59,520 --> 00:46:06,160
+Su iOS e Apado, diciamo, c'è l'unica vera soluzione Tex Expander, che
+
+726
+00:46:06,160 --> 00:46:11,920
+addirittura all'epoca, perché la versione 6 non l'ho mai installata, ha delle
+
+727
+00:46:11,920 --> 00:46:15,280
+tastiere apposta per la passione.
+
+728
+00:46:15,280 --> 00:46:21,680
+Quindi praticamente cambi tastiera attuale, utilizzi una tastiera di tex expander e
+
+729
+00:46:21,680 --> 00:46:26,080
+quindi se digiti, per esempio, XCS o XCF, ti viene fuori il
+
+730
+00:46:26,080 --> 00:46:27,040
+codice fiscale.
+
+731
+00:46:27,040 --> 00:46:31,760
+Ovviamente richiede la sincronizzazione appunto di tutto il sistema.
+
+732
+00:46:31,760 --> 00:46:36,720
+La cosa carina, che spesso e volentieri uso come scamotage finale se
+
+733
+00:46:36,720 --> 00:46:39,520
+sono disperato, mettiamolo in questi termini.
+
+734
+00:46:39,680 --> 00:46:45,200
+È che Draft, diciamo, l'idea di fondo di Tex Expander era un'idea
+
+735
+00:46:45,200 --> 00:46:49,120
+furba, ma di fatto è stata poco applicata, ha creato una sorta
+
+736
+00:46:49,120 --> 00:46:53,280
+di API per condividere le espansioni del testo.
+
+737
+00:46:53,280 --> 00:46:58,000
+Quindi, se tu hai installato Text Expander su iOS, sostanzialmente.
+
+738
+00:46:58,000 --> 00:47:02,480
+Drafts può accedere ai dati quindi alle espansioni del testo di Text
+
+739
+00:47:02,480 --> 00:47:06,720
+Expander e se scrivi le espansioni del testo in Drafts, queste si
+
+740
+00:47:07,120 --> 00:47:07,840
+aprono.
+
+741
+00:47:07,840 --> 00:47:11,520
+Quindi Drafts, ovviamente, funziona sia su macOS che su iOS.
+
+742
+00:47:11,600 --> 00:47:15,520
+E in questo caso può diventare comodo e a volte spesso volentieri,
+
+743
+00:47:15,520 --> 00:47:20,160
+se so che devo, per esempio, fare dei testi lunghi, utilizzo Draft
+
+744
+00:47:20,480 --> 00:47:22,880
+per inserire queste espansioni.
+
+745
+00:47:23,120 --> 00:47:27,200
+Quello è, diciamo, l'unico grande vincolo limite di tutta la vicenda che
+
+746
+00:47:27,200 --> 00:47:29,920
+dovrei trovare un modo per risolvere.
+
+747
+00:47:29,960 --> 00:47:33,800
+Tuttavia, devo dire la verità: le espansioni del testo fondamentali appunto su
+
+748
+00:47:34,360 --> 00:47:39,240
+iOS le uso con sostituzione testo, diciamo tutto il resto posso trovare
+
+749
+00:47:39,240 --> 00:47:46,680
+soluzioni alternative per farlo, effettivamente, adesso, soprattutto se sono cose relativamente complicate,
+
+750
+00:47:46,680 --> 00:47:50,840
+si può anche pensare di lanciare un comando rapido che appunto genera
+
+751
+00:47:50,840 --> 00:47:54,600
+questo testo, lo salva negli appunti, e poi dopo tu copi sostanzialmente
+
+752
+00:47:54,600 --> 00:47:56,840
+gli appunti dove devi digitare il testo.
+
+753
+00:47:56,840 --> 00:48:00,920
+Quindi, ci sono ovviamente trucchi, è ovvio che l'espansione del testo è
+
+754
+00:48:00,920 --> 00:48:04,520
+molto più rapida, molto più efficace, perché mentre stai scrivendo, non ti
+
+755
+00:48:04,520 --> 00:48:08,360
+devi fermare, lanciare un comando rapido, guardati di copia e incollare e
+
+756
+00:48:08,360 --> 00:48:09,240
+così via.
+
+757
+00:48:09,480 --> 00:48:12,920
+Per cui questo è un dato di fatto oggettivo.
+
+758
+00:48:12,920 --> 00:48:18,280
+Però, diciamo dei trucchi anche su iOS si possono utilizzare e ottimizzare
+
+759
+00:48:18,520 --> 00:48:19,880
+per cercare di fare questo.
+
+760
+00:48:19,880 --> 00:48:23,960
+Espanso espanso ha appunto ha il grosso vantaggio di essere multipiattaforma, quindi
+
+761
+00:48:23,960 --> 00:48:26,120
+funziona su Microsoft, su Windows e Linux.
+
+762
+00:48:26,120 --> 00:48:29,800
+Vabbè, è scritto in Rust, ma questo per non tecnici, poco interessa.
+
+763
+00:48:29,800 --> 00:48:30,680
+Comunque è un'applicazione.
+
+764
+00:48:30,920 --> 00:48:33,560
+Difatti, non so di cosa stai parlando.
+
+765
+00:48:33,560 --> 00:48:38,920
+Rust è il nuovo linguaggio di programmazione simile a Swift, cioè è
+
+766
+00:48:38,920 --> 00:48:45,080
+altamente performante e sostituisce il linguaggio C, che è uno dei linguaggi
+
+767
+00:48:45,080 --> 00:48:50,840
+più performanti, diciamo, nell'informatica, quindi che richiedono, sono richiesti, diciamo, da quei
+
+768
+00:48:50,840 --> 00:48:54,200
+programmi che devono girare velocemente, chiamiamoli in questo termine.
+
+769
+00:48:54,200 --> 00:48:59,080
+Ovviamente anche l'espansione del testo, se ci metti dieci minuti a fare
+
+770
+00:48:59,080 --> 00:49:03,880
+un'espansione del testo, diciamo che il risultato, allora, a quel punto lì
+
+771
+00:49:03,880 --> 00:49:04,760
+non è interessante.
+
+772
+00:49:04,800 --> 00:49:06,440
+Ecco, mettiamolo in questo termine.
+
+773
+00:49:06,440 --> 00:49:11,480
+L'altra cosa, piccole chicche espanso è open source.
+
+774
+00:49:11,480 --> 00:49:16,320
+Innanzitutto quindi gratuito, e quindi per il mio amico braccino Roberto
+
+775
+00:49:16,400 --> 00:49:16,560
+.
+
+776
+00:49:14,920 --> 00:49:20,000
+È l'applicazione che fa a caso suo, quindi non c'è il problema.
+
+777
+00:49:20,480 --> 00:49:21,600
+Se non per un problema
+
+778
+00:49:22,960 --> 00:49:25,920
+che è multipiattaforma, ma non proprio per tutte le parti.
+
+779
+00:49:26,320 --> 00:49:28,640
+Sì, non ce l'ha i suoi iOS e i suoi iPadOS, ma
+
+780
+00:49:28,640 --> 00:49:29,440
+questo l'abbiamo già detto.
+
+781
+00:49:29,920 --> 00:49:35,760
+Lo sviluppatore è italiano, italianissimo Federico Terzi, e quindi ha anche un'eccellenza
+
+782
+00:49:35,760 --> 00:49:39,360
+italiana, diciamo, per cui non si può dire nulla.
+
+783
+00:49:39,680 --> 00:49:43,120
+La particolarità, diciamo, che può dare fastidio.
+
+784
+00:49:43,120 --> 00:49:47,360
+Non l'abbiamo detto nelle altre applicazioni, ma tutte queste altre applicazioni, adesso
+
+785
+00:49:47,360 --> 00:49:52,800
+parleremo velocemente anche di altre, ma diciamo i meccanismi e i principi
+
+786
+00:49:52,800 --> 00:49:54,080
+sono abbastanza simili.
+
+787
+00:49:54,080 --> 00:49:58,640
+Hanno un'interfaccia grafica, quindi tu puoi proprio c'è una finestra dove digiti
+
+788
+00:49:58,640 --> 00:50:03,280
+l'espansione completa, c'è una finestra dove scrivi la scorciatoia a tastiera che
+
+789
+00:50:03,280 --> 00:50:07,760
+vuoi utilizzare, ci sono anche tutta una serie di possibilità di configurazione
+
+790
+00:50:08,000 --> 00:50:08,560
+e così via.
+
+791
+00:50:08,560 --> 00:50:11,920
+Insomma, c'è un'interfaccia grafica che ti permette di fare queste cose.
+
+792
+00:50:11,920 --> 00:50:15,280
+Espanso è una roba un po' più da smanettoni, chiamiamoli in questo
+
+793
+00:50:15,280 --> 00:50:20,880
+termine, perché devi andare a creare le espansioni del testo all'interno di
+
+794
+00:50:20,880 --> 00:50:25,280
+un file di configurazione testuale, in particolare scritto in YAML.
+
+795
+00:50:25,280 --> 00:50:31,200
+Non entro troppo nei dettagli, ma non è difficile, lo YAML sostanzialmente
+
+796
+00:50:31,200 --> 00:50:34,960
+è un linguaggio che ti permette di strutturare i dati.
+
+797
+00:50:34,960 --> 00:50:41,120
+Quindi, ovviamente, per creare questi snippet bisogna dare una struttura, deve esserci
+
+798
+00:50:41,120 --> 00:50:46,320
+il cosiddetto trigger, cioè il testo che fa partire l'automazione.
+
+799
+00:50:46,320 --> 00:50:50,800
+E ovviamente a fronte del trigger, ci deve essere l'espansione vera e
+
+800
+00:50:50,800 --> 00:50:55,680
+propria, o lo script, o l'operazione che deve fare, nel caso specifico
+
+801
+00:50:55,680 --> 00:51:00,280
+espanso per la conversione, per esempio, del testo in una data, perché
+
+802
+00:51:00,280 --> 00:51:05,240
+ovviamente deve catturare la data odierna o catturare la data odierna e
+
+803
+00:51:05,240 --> 00:51:09,240
+sottrarre 1, 2, 3, 4, 5, 6, 7, 8 giorni, mesi e
+
+804
+00:51:09,240 --> 00:51:09,800
+così via.
+
+805
+00:51:09,800 --> 00:51:16,360
+Questo viene fatto creando un sistema abbastanza banale in appunto YAML, che
+
+806
+00:51:16,360 --> 00:51:19,240
+però è veramente molto intuitivo e facile da leggere.
+
+807
+00:51:19,240 --> 00:51:22,920
+La particolarità, diciamo, per i non esperti, io lo utilizzo per il
+
+808
+00:51:22,920 --> 00:51:27,720
+Markdown e per Pandoc, per cui ho fatto degli approfondimenti anche abbastanza
+
+809
+00:51:27,720 --> 00:51:28,280
+seri.
+
+810
+00:51:28,280 --> 00:51:32,360
+Tuttavia, la cosa interessante, diciamo, dello YAML è che è veramente facile
+
+811
+00:51:32,360 --> 00:51:36,200
+e leggibile e siccome un sito, che però è in inglese, non
+
+812
+00:51:36,200 --> 00:51:38,440
+c'è la traduzione in italiano del sito.
+
+813
+00:51:38,440 --> 00:51:43,560
+Però veramente guardati due o tre snippet di base, diciamo, si possono
+
+814
+00:51:43,560 --> 00:51:46,040
+creare la maggior parte degli snippet.
+
+815
+00:51:46,040 --> 00:51:50,440
+Io, per esempio, per curiosità e perché, appunto, mi era stato chiesto
+
+816
+00:51:50,440 --> 00:51:53,640
+di creare la stessa cosa che ho fatto prima ma senza utilizzare
+
+817
+00:51:53,640 --> 00:51:57,960
+Kybo Maestro, che ovviamente è un'applicazione a pagamento, ho implementato il lancio
+
+818
+00:51:57,960 --> 00:52:01,400
+di uno script, in particolare di un Apple script, che fa appunto
+
+819
+00:52:01,400 --> 00:52:05,640
+tutto il giochino: di seleziona tutto il testo e grazie a una
+
+820
+00:52:05,640 --> 00:52:12,120
+regex estrappola numero il documento digitato e quindi me lo crea, diciamo,
+
+821
+00:52:12,120 --> 00:52:15,960
+mi aggiunge un'unità e quindi mi crea doc 2 al posto di
+
+822
+00:52:15,960 --> 00:52:19,880
+doc 1, chiamiamolo in questi termini, sono riuscito a farlo senza neanche
+
+823
+00:52:19,880 --> 00:52:21,000
+troppi problemi.
+
+824
+00:52:21,000 --> 00:52:26,120
+Tuttavia che chi ha le prime armi, cimentarsi diciamo, in queste cose
+
+825
+00:52:26,360 --> 00:52:27,160
+può essere.
+
+826
+00:52:27,160 --> 00:52:30,040
+E ci ho messo comunque un po' di tempo perché non mi
+
+827
+00:52:30,040 --> 00:52:32,040
+funzionava esattamente l'espansione.
+
+828
+00:52:32,920 --> 00:52:36,760
+Ho dovuto fare una serie di testi di test prima di trovare
+
+829
+00:52:36,760 --> 00:52:37,480
+la quadra.
+
+830
+00:52:37,480 --> 00:52:41,640
+Tuttavia, effettivamente, credo di aver fatto anche un video proprio dimostrativo del
+
+831
+00:52:41,640 --> 00:52:46,080
+fatto che tutto funziona, e in questa maniera, appunto, si riesce a
+
+832
+00:52:46,080 --> 00:52:50,880
+utilizzare su macOS un sistema a costo zero per fare quello quello
+
+833
+00:52:50,880 --> 00:52:55,840
+che invece, con Kymo Maestro, era necessario fare, ovviamente pagando un'applicazione.
+
+834
+00:52:55,840 --> 00:53:02,080
+Roberto, tu avevi dato un'occhiata espanso, diciamo, per te l'uomo della strada,
+
+835
+00:53:02,080 --> 00:53:07,680
+l'uomo qualunque l'uomo qualunque dice che è molto interessante.
+
+836
+00:53:07,680 --> 00:53:12,800
+Mi sono un po' spaventato da questa necessità di metterci di sporcarsi
+
+837
+00:53:12,800 --> 00:53:16,960
+un po' le mani, diciamo così, all'interno di questo file di configurazione,
+
+838
+00:53:16,960 --> 00:53:19,600
+che è una cosa che mi riporta un po' a Windows, per
+
+839
+00:53:19,600 --> 00:53:20,560
+essere sinceri.
+
+840
+00:53:20,560 --> 00:53:25,040
+Sì, beh, molto vicino a Vim, tutte queste queste cose, effettivamente.
+
+841
+00:53:25,280 --> 00:53:27,600
+Tuttavia, sembra davvero molto interessante.
+
+842
+00:53:27,600 --> 00:53:31,520
+Soprattutto mi fa molto piacere che sia un italiano che l'abbia sviluppato.
+
+843
+00:53:31,520 --> 00:53:36,880
+Questo simpatico Federico, la faccia è molto simpatica e una donazione, ricordo,
+
+844
+00:53:36,880 --> 00:53:40,240
+che è sempre ben accetta, perché comunque non lavora solo per la
+
+845
+00:53:40,240 --> 00:53:41,440
+gloria, quest'uomo.
+
+846
+00:53:41,440 --> 00:53:45,680
+Quindi, se volete contribuire, comunque troverete tutto quanto all'interno delle note dell'episodio,
+
+847
+00:53:45,680 --> 00:53:46,240
+come sempre.
+
+848
+00:53:46,400 --> 00:53:51,760
+L'installazione direi che funziona per quanto riguarda Mac OS sia su Intel
+
+849
+00:53:51,760 --> 00:53:53,680
+che su Apple Silicon.
+
+850
+00:53:53,680 --> 00:53:58,160
+Questa è una cosa interessante, soprattutto per chi ha la possibilità di
+
+851
+00:53:58,160 --> 00:54:02,560
+utilizzare computer Apple Sic che sono tutto sommato ancora recenti.
+
+852
+00:54:02,560 --> 00:54:07,040
+Stiamo aspettando ancora il passaggio totale di Apple e non parlare più
+
+853
+00:54:07,040 --> 00:54:09,280
+di Intel, ma prima o poi succederà.
+
+854
+00:54:09,280 --> 00:54:13,120
+E direi che comunque c'è anche un bel po' di documentazione che
+
+855
+00:54:13,120 --> 00:54:17,440
+potete trovare all'interno del sito di Expanso.
+
+856
+00:54:17,440 --> 00:54:21,200
+Vi consiglio anche questa di andarvelo a vedere giusto per capire di
+
+857
+00:54:21,200 --> 00:54:22,320
+che si tratta.
+
+858
+00:54:22,560 --> 00:54:26,960
+Poi ci sono anche, da quello che vedo, una serie di pacchetti,
+
+859
+00:54:26,960 --> 00:54:32,280
+chiamiamoli così, che vi possono facilitare un po' la vita all'interno di
+
+860
+00:54:29,920 --> 00:54:33,160
+questa applicazione.
+
+861
+00:54:33,480 --> 00:54:38,520
+Sembra un'applicazione molto simpatica, ma devo cercare un po' di superare questo
+
+862
+00:54:38,840 --> 00:54:44,440
+mio blocco dell'utilizzo di applicazioni di questo tipo che richiedono di sporcarsi
+
+863
+00:54:44,440 --> 00:54:46,040
+un po' le mani col codice.
+
+864
+00:54:46,040 --> 00:54:49,480
+Io non sono proprio portato per questo tipo di cose, visto che
+
+865
+00:54:50,040 --> 00:54:53,960
+sono un architetto, quindi è vietato per gli architetti digitare del codice,
+
+866
+00:54:53,960 --> 00:54:54,760
+essere all'interno.
+
+867
+00:54:54,840 --> 00:54:56,120
+No, non è codice,
+
+868
+00:54:57,160 --> 00:54:59,880
+lo YAML è un markup sostanzialmente.
+
+869
+00:54:59,880 --> 00:55:00,600
+Sì, un markup.
+
+870
+00:55:01,880 --> 00:55:06,440
+No, serve per strutturare i dati proprio, non c'è codice in senso
+
+871
+00:55:06,440 --> 00:55:08,040
+tecnico, semplicemente
+
+872
+00:55:09,080 --> 00:55:14,680
+crei una struttura dati abbastanza semplice per poter distinguere tra le varie
+
+873
+00:55:14,680 --> 00:55:15,160
+cose.
+
+874
+00:55:15,160 --> 00:55:19,400
+Una cosa che non avevo detto e che però può tornare utile,
+
+875
+00:55:19,640 --> 00:55:27,880
+sia Tax Expander che espanso, abitualmente hanno un'utility da ben un bar.
+
+876
+00:55:27,880 --> 00:55:29,400
+Cosa serve questa utility?
+
+877
+00:55:29,400 --> 00:55:36,280
+Credo che appunto possa tornare comoda molti, anche venire incontro delle giuste
+
+878
+00:55:36,440 --> 00:55:38,520
+osservazioni che ha fatto Roberto all'inizio.
+
+879
+00:55:38,520 --> 00:55:41,720
+Ti permette di cercare le espansioni del testo.
+
+880
+00:55:41,720 --> 00:55:44,600
+Cioè, mi ricordo che ho creato un'espansione, ma non mi ricordo che
+
+881
+00:55:44,600 --> 00:55:47,560
+espansione è, qual è la scorciata tastiera.
+
+882
+00:55:47,560 --> 00:55:51,400
+Ecco, c'è la possibilità sia con espans sia con text espanda sia
+
+883
+00:55:51,400 --> 00:55:56,360
+in parte con chi maestro di cercare direttamente questa espansione.
+
+884
+00:55:56,600 --> 00:56:02,360
+Quindi, ovviamente, anche rendere più semplice la memorizzazione, o lo dico chiaro
+
+885
+00:56:02,360 --> 00:56:05,800
+e tondo: a volte ho delle espansioni che creo, ma che non
+
+886
+00:56:05,800 --> 00:56:09,880
+utilizzo, cioè utilizzo salutariamente e ovviamente quelle tendo as scordate.
+
+887
+00:56:09,960 --> 00:56:12,680
+Sai che l'hai fatta, ma non ti ricordi più qual è la
+
+888
+00:56:12,680 --> 00:56:13,880
+scorciatoia giusta.
+
+889
+00:56:13,880 --> 00:56:19,600
+Non so, per esempio, recentemente ho avuto bisogno di alcune espansioni per
+
+890
+00:56:20,160 --> 00:56:24,880
+mandare delle comunicazioni al comitato dei creditori di un fallimento.
+
+891
+00:56:24,880 --> 00:56:26,000
+Le avevo già pronte.
+
+892
+00:56:26,000 --> 00:56:27,120
+Sapevo di avercele.
+
+893
+00:56:27,200 --> 00:56:31,520
+Da un po' che non le facevo, sono andato a cercarle direttamente
+
+894
+00:56:31,840 --> 00:56:32,800
+nella menu bar.
+
+895
+00:56:32,800 --> 00:56:35,920
+Le ho trovate, ho fatto tutto quel che dovevo fare velocemente.
+
+896
+00:56:35,920 --> 00:56:40,560
+E appunto, ho creato un'email dal niente senza troppi problemi.
+
+897
+00:56:40,560 --> 00:56:44,720
+Quindi, anche qui è molto utile il sistema, proprio per questo motivo
+
+898
+00:56:44,800 --> 00:56:52,240
+perché ti permette di anche aiutarti a cercare le cose, soprattutto per
+
+899
+00:56:52,240 --> 00:56:54,560
+quelle cose che non si fanno quotidianamente.
+
+900
+00:56:54,560 --> 00:56:56,800
+Certo, è sicuramente utilissimo.
+
+901
+00:56:56,800 --> 00:57:01,920
+Intanto, io stavo qui curiosando nella documentazione, stavo guardando appunto questa sintassi,
+
+902
+00:57:01,920 --> 00:57:04,720
+che per le cose semplici è abbastanza semplice,
+
+903
+00:57:05,920 --> 00:57:06,480
+tutte le cose.
+
+904
+00:57:06,480 --> 00:57:10,320
+Se volete poi andare a fare cose iperboliche, dovete fare un po'
+
+905
+00:57:10,320 --> 00:57:14,720
+anche voi, un po' di iperbole, chiamiamole così, per riuscire a seguire
+
+906
+00:57:14,720 --> 00:57:15,680
+questo linguaggio.
+
+907
+00:57:15,680 --> 00:57:17,280
+Comunque molto interessante.
+
+908
+00:57:17,280 --> 00:57:20,240
+Le espansioni base sono veramente banali.
+
+909
+00:57:20,240 --> 00:57:21,600
+Risco anch'io, penso.
+
+910
+00:57:21,600 --> 00:57:25,280
+Quelle più comode, diciamo, quelle che interessano di più, diciamo, che sono
+
+911
+00:57:25,280 --> 00:57:29,760
+il passino: in più, sono le espansioni delle date.
+
+912
+00:57:29,760 --> 00:57:32,880
+E quelle alla fine hanno un sistema abbastanza semplice.
+
+913
+00:57:32,880 --> 00:57:36,960
+Che una volta che hai capito come strutturare la data, come interessa
+
+914
+00:57:37,040 --> 00:57:41,280
+te fare i conti, è ovvio che su cose, come quelle dell'automazione
+
+915
+00:57:41,440 --> 00:57:44,720
+che ho creato, io richiedo un minimo, ma perché ci sono più
+
+916
+00:57:44,720 --> 00:57:47,520
+pezzi di movimento e quant'altro.
+
+917
+00:57:47,600 --> 00:57:51,200
+Quindi, quindi ovviamente, io, da una parte, con l'espansione del testo, faccio
+
+918
+00:57:51,200 --> 00:57:54,560
+lanciare lo script, dall'altra, devo creare lo script che faccia quello che
+
+919
+00:57:54,720 --> 00:57:58,960
+voglio io, e le due automazioni non si devono pestare i piedi
+
+920
+00:57:59,040 --> 00:57:59,920
+l'una con l'altra.
+
+921
+00:58:00,040 --> 00:58:03,960
+Il vero problema che ho avuto per farlo è stato proprio questo:
+
+922
+00:58:04,200 --> 00:58:08,360
+copi il testo, ma nel mentre copi il testo, l'espansione c'è l'espansione
+
+923
+00:58:08,360 --> 00:58:13,000
+del testo che cancella parte del testo, perché giustamente per espandere il
+
+924
+00:58:13,000 --> 00:58:16,360
+testo, devi cancellare le lettere che hai digitato per
+
+925
+00:58:17,400 --> 00:58:21,800
+scrivere l'abbreviazione, sostituirle con il testo espanso.
+
+926
+00:58:21,800 --> 00:58:26,920
+È un movimento che, però, può dare dei problemi, in questi termini.
+
+927
+00:58:26,920 --> 00:58:34,920
+L'ultima applicazione di cui parlo veramente velocemente, ma l'hanno aggiornata recentemente Tipinator.
+
+928
+00:58:34,920 --> 00:58:41,240
+Che ovviamente, come dice il nome, diciamo, è un superscrittore, mettiamola traducibile
+
+929
+00:58:41,720 --> 00:58:43,160
+come superscrittore.
+
+930
+00:58:43,400 --> 00:58:49,160
+Anche qui non è abbonamento, ma a licenza d'uso, quindi costa 36,59
+
+931
+00:58:49,160 --> 00:58:49,800
+euro.
+
+932
+00:58:50,040 --> 00:58:54,280
+Io non l'ho mai usato, ho dato un'occhiata veloce, è aggiornato quindi
+
+933
+00:58:54,440 --> 00:58:55,960
+è una cosa interessante.
+
+934
+00:58:55,960 --> 00:59:00,200
+E dall'altra ho visto che l'interfaccia è molto simile a quella di
+
+935
+00:59:00,360 --> 00:59:02,040
+Tex Espander sostanzialmente.
+
+936
+00:59:02,040 --> 00:59:05,880
+Sì, direi che anche in questo caso bisogna ovviamente farci un giro
+
+937
+00:59:05,880 --> 00:59:08,760
+sopra per renderci conto di quello che si tratta.
+
+938
+00:59:09,000 --> 00:59:14,200
+Speriamo in questa puntata di avervi dato un po' di idee sul
+
+939
+00:59:14,200 --> 00:59:14,760
+perché.
+
+940
+00:59:14,760 --> 00:59:19,480
+Bisogna uscire dalla situazione in cui sono io, che utilizzo magari delle
+
+941
+00:59:19,480 --> 00:59:26,040
+semplici espansioni di testo all'interno di MOS e di iOS per rimanere
+
+942
+00:59:26,040 --> 00:59:26,840
+in tema.
+
+943
+00:59:26,840 --> 00:59:30,040
+Ma come vi ha spiegato Filippo, le cose possono diventare davvero molto
+
+944
+00:59:30,040 --> 00:59:34,360
+interessanti quando si lavora col testo e soprattutto quando si ha a
+
+945
+00:59:34,360 --> 00:59:39,400
+che fare con azioni ripetitive, direi in larga parte, perché questo vi
+
+946
+00:59:39,400 --> 00:59:41,800
+può veramente salvare la giornata.
+
+947
+00:59:41,800 --> 00:59:45,120
+Io direi che a questo punto possiamo andare a concludere la puntata,
+
+948
+00:59:45,120 --> 00:59:46,320
+cosa dici Filippo?
+
+949
+00:59:46,320 --> 00:59:51,120
+Sì, diciamo a conclusione a chiosa di tutto questo discorso, è ovvio
+
+950
+00:59:51,120 --> 00:59:51,760
+che questa
+
+951
+00:59:53,040 --> 00:59:57,680
+è una tipologia di automazione molto verticale, cioè solo per il testo,
+
+952
+00:59:57,680 --> 00:59:58,640
+sostanzialmente.
+
+953
+00:59:58,640 --> 01:00:02,720
+Per chi però scrive testo quotidianamente è la mano dal cielo.
+
+954
+01:00:02,720 --> 01:00:07,520
+Per esempio, ormai anche tu, la gestione delle email, nel senso di
+
+955
+01:00:07,520 --> 01:00:12,560
+scrivere il testo via email, ce l'hai, non se ne fa più.
+
+956
+01:00:12,560 --> 01:00:16,640
+È raro un soggetto che non deve mandare un'email a nessuno, es
+
+957
+01:00:16,640 --> 01:00:21,040
+spesso volentieri se hai comunque dei flussi di lavoro più o meno
+
+958
+01:00:21,040 --> 01:00:28,960
+costanti, dire determinate cose a un cliente, fare determinate richieste.
+
+959
+01:00:28,960 --> 01:00:33,840
+Sono tutte cose che si possono automatizzare e che possono renderti la
+
+960
+01:00:33,840 --> 01:00:36,240
+vita veloce da un certo punto di vista.
+
+961
+01:00:36,240 --> 01:00:40,160
+E dall'altro, se hai fatto bene la prima volta il lavoro, ti
+
+962
+01:00:40,160 --> 01:00:46,160
+eviti della fatica inutile per il futuro, perché casomai, devi chiedere al
+
+963
+01:00:46,160 --> 01:00:50,320
+cliente determinati documenti che sono sempre più o meno quelli a parte
+
+964
+01:00:50,320 --> 01:00:54,480
+due che puoi mettere o non mettere, avercelo già pronto lì è
+
+965
+01:00:55,280 --> 01:00:56,160
+molto comodo.
+
+966
+01:00:56,160 --> 01:01:00,240
+Oppure hai un report che è bene o male strutturato nella stessa
+
+967
+01:01:00,240 --> 01:01:02,000
+maniera, devi solo cambiare i dati.
+
+968
+01:01:02,000 --> 01:01:06,000
+La struttura del report te la fai con espansione testo e vai
+
+969
+01:01:06,000 --> 01:01:09,840
+a inserire poi solo i dati, ti velocizza drasticamente la vita.
+
+970
+01:01:09,840 --> 01:01:14,560
+Ci sono tanti adesso, io sto facendo gli esempi così velocemente per
+
+971
+01:01:14,560 --> 01:01:15,520
+varie cose.
+
+972
+01:01:15,680 --> 01:01:21,280
+Tuttavia, io abitualmente, siccome dipendo un po' da tono che voglio dare
+
+973
+01:01:21,280 --> 01:01:26,800
+un'email, non ho la firma, chiamiamola così, direttamente sull'email, ma ho la
+
+974
+01:01:26,800 --> 01:01:31,400
+firma, diciamo, la firma la faccio con text expander perché posso dire
+
+975
+01:01:31,400 --> 01:01:35,480
+distinti saluti se voglio essere molto formale, cordiali saluti se voglio essere
+
+976
+01:01:29,920 --> 01:01:36,520
+formale ma non troppo.
+
+977
+01:01:36,760 --> 01:01:40,840
+Un caro saluto, se scrivo con un amico e così via.
+
+978
+01:01:40,840 --> 01:01:44,040
+E posso aggiungere o togliere pezzi.
+
+979
+01:01:44,040 --> 01:01:50,520
+So, siccome ho ricoperto varie cariche come amministratore di sostegno, curatore fallimentare
+
+980
+01:01:50,520 --> 01:01:55,400
+e così via, in base alla carica che ricoprivo, potevo anche firmarmi
+
+981
+01:01:55,400 --> 01:01:57,960
+come quella carica lì, chiamiamola in questo termine.
+
+982
+01:01:57,960 --> 01:02:00,280
+Insomma, si possono fare veramente tante cose.
+
+983
+01:02:00,280 --> 01:02:03,800
+Ovviamente io parlo delle automazioni che ho fatto per me, a mio
+
+984
+01:02:03,800 --> 01:02:04,760
+uso e consumo.
+
+985
+01:02:04,760 --> 01:02:09,240
+Basta un po' scervellarsi e sicuramente qualche idea viene a tutti.
+
+986
+01:02:09,240 --> 01:02:14,280
+Quindi il mio suggerimento è quello: l'unico vero limite è quello dato
+
+987
+01:02:14,520 --> 01:02:19,160
+dal pensare a queste automazioni, ma spesso e volentieri, quando ci si
+
+988
+01:02:19,160 --> 01:02:23,240
+accorge che un'operazione viene fatta 2, 3, 4, 5 volte, sempre nella
+
+989
+01:02:23,240 --> 01:02:27,160
+stessa maniera o in maniera molto simile, l'automazione in questo caso è
+
+990
+01:02:27,160 --> 01:02:29,880
+consigliabile, se non necessità.
+
+991
+01:02:30,120 --> 01:02:35,000
+Sono perfettamente d'accordo, anch'io non ero uno di quelli che volevo automatizzare
+
+992
+01:02:35,000 --> 01:02:37,480
+tutto, ma alla fine, a forza di stare con lo zoppo, si
+
+993
+01:02:37,480 --> 01:02:41,960
+inizia a zoppicare e bisogna dirlo che risparmia un secondo qua, risparmia
+
+994
+01:02:41,960 --> 01:02:47,320
+due minuti là, risparmia cinque minuti in una giornata e fate un
+
+995
+01:02:47,320 --> 01:02:51,400
+attimo il conto di quello che potete risparmiare la settimana e il
+
+996
+01:02:51,400 --> 01:02:54,280
+tempo alla fine si crea anche in questo modo.
+
+997
+01:02:54,280 --> 01:02:57,720
+Così potete avere anche più tempo per fare tante di quelle cose
+
+998
+01:02:57,720 --> 01:02:59,320
+come facciamo io e Filippo.
+
+999
+01:02:59,320 --> 01:03:03,560
+Ad esempio Filippo fa un sacco di cose, dico bene Filippo e
+
+1000
+01:03:03,560 --> 01:03:06,760
+ha anche sottoscritto, ma non è il momento di parlare di questo,
+
+1001
+01:03:06,760 --> 01:03:11,560
+perché ne parleremo magari più avanti o in separata sede, ma quello
+
+1002
+01:03:11,560 --> 01:03:15,840
+che dovete fare voi è trovare il tempo per supportare il podcast,
+
+1003
+01:03:15,840 --> 01:03:20,560
+semplicemente mettendo delle belle stelline oppure scrivendo una recensione di cui troverete
+
+1004
+01:03:20,560 --> 01:03:22,800
+la guida all'interno delle note dell'episodio.
+
+1005
+01:03:22,800 --> 01:03:26,560
+Invece, se volete essere proprio carini, carini, carini, e volete entrare in
+
+1006
+01:03:26,560 --> 01:03:31,760
+contatto con questi due simpatici professionisti che, comunque, nonostante il fatto che
+
+1007
+01:03:31,760 --> 01:03:36,320
+siano qua i microfoni, sono ben lieti di conoscervi direttamente, potete farlo
+
+1008
+01:03:36,320 --> 01:03:39,520
+scrivendoci all'indirizzo di posta elettronica.
+
+1009
+01:03:40,560 --> 01:03:43,440
+an chiocciolapodcast.it.
+
+1010
+01:03:43,440 --> 01:03:47,520
+Come sempre, troverete tutte quante le note dell'episodio con i link degli
+
+1011
+01:03:47,520 --> 01:03:51,840
+argomenti che abbiamo trattato in puntata e soprattutto i nostri riferimenti su
+
+1012
+01:03:51,840 --> 01:03:56,480
+aduepodcast.it slash 59 dove ci potete trovare.
+
+1013
+01:03:56,480 --> 01:03:59,920
+Dunque, io ho la mia casa digitale più o meno al mio
+
+1014
+01:03:59,920 --> 01:04:02,080
+blog che si chiama Mac Architettura.
+
+1015
+01:04:02,240 --> 01:04:06,240
+Potete trovare all'indirizzo marchonnet.wordpress.com.
+
+1016
+01:04:06,240 --> 01:04:10,000
+Ho un paio di podcast, forse anche tre, forse anche quattro, ma
+
+1017
+01:04:10,000 --> 01:04:11,600
+adesso è il momento di parlare.
+
+1018
+01:04:11,600 --> 01:04:15,760
+Ho anche un paio di altri blog, ma lasciamo perdere anche questo.
+
+1019
+01:04:15,760 --> 01:04:18,640
+Quello che volevo dire è che c'è anche un neonato canale YouTube
+
+1020
+01:04:18,720 --> 01:04:20,640
+che si chiama Architetto Digitale.
+
+1021
+01:04:20,640 --> 01:04:25,200
+Iscrivetevi che ci vediamo anche lì via video che non fa mai
+
+1022
+01:04:25,200 --> 01:04:25,440
+male.
+
+1023
+01:04:25,440 --> 01:04:26,640
+Invece filippo dove lo troviamo?
+
+1024
+01:04:27,680 --> 01:04:30,560
+Direi che per questa puntata è tutto e ci sentiamo tra due
+
+1025
+01:04:30,560 --> 01:04:31,040
+settimane.

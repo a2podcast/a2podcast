@@ -1,0 +1,3127 @@
+1
+00:00:00,000 --> 00:00:04,720
+Benvenuti all'episodio sessantise di A2, in cui scoprire come ottenere il massimo
+
+2
+00:00:04,720 --> 00:00:06,480
+dalla vostra tecnologia Apple.
+
+3
+00:00:06,480 --> 00:00:10,000
+Io sono Filippo Strozzi e sono il vostro ospite, assieme all'amico dal
+
+4
+00:00:10,000 --> 00:00:11,920
+vivo Roberto Marin.
+
+5
+00:00:12,320 --> 00:00:14,240
+Di che cosa parliamo oggi, Roberto?
+
+6
+00:00:14,240 --> 00:00:17,920
+Beh, intanto dobbiamo parlare del fatto che siamo in contemporanea, nella stessa
+
+7
+00:00:17,920 --> 00:00:21,680
+stanza a registrare, evento più unico che raro, giusto perché siamo in
+
+8
+00:00:21,680 --> 00:00:22,960
+una puntata 66.
+
+9
+00:00:22,960 --> 00:00:26,320
+Che il nome dice già che c'è un zampino del diavolo.
+
+10
+00:00:26,320 --> 00:00:27,440
+Infatti, siamo qua insieme.
+
+11
+00:00:27,680 --> 00:00:29,760
+Abbiamo appena grrigliato, abbiamo mangiato bene.
+
+12
+00:00:29,760 --> 00:00:31,280
+Spero Filippo che mi dai conferma.
+
+13
+00:00:31,280 --> 00:00:32,320
+Sì, confermo, confermo.
+
+14
+00:00:32,320 --> 00:00:33,680
+Ottimo, sono molto contento.
+
+15
+00:00:33,840 --> 00:00:38,000
+Sarà una puntata leggera perché siamo qua praticamente in vacanza, bene o
+
+16
+00:00:38,000 --> 00:00:41,200
+male, o nelle vicinanze delle vacanze, diciamo così.
+
+17
+00:00:41,200 --> 00:00:45,760
+E vi vogliamo raccontare essenzialmente due novità che ci sono capitate in
+
+18
+00:00:45,760 --> 00:00:47,760
+questo momento molto molto recente.
+
+19
+00:00:47,840 --> 00:00:51,440
+Dunque, per chi mi segue da vicino, chi segue Sna oppure segue
+
+20
+00:00:51,440 --> 00:00:53,200
+il canale Sper di Telegram?
+
+21
+00:00:53,200 --> 00:00:57,360
+Ha già capito di cui sto parlando, ovvero della novità per il
+
+22
+00:00:57,360 --> 00:01:04,000
+mio ufficio dell'ingresso come macchina principale del MacBook Air M213 pollici, in
+
+23
+00:01:04,000 --> 00:01:09,360
+sostituzione del mio vecchio MacBook Pro 13 pollici, sempre però Intel del
+
+24
+00:01:09,360 --> 00:01:10,320
+2019.
+
+25
+00:01:10,320 --> 00:01:13,840
+Come mai abbiamo avuto, almeno come mai ho avuto questa idea di
+
+26
+00:01:13,840 --> 00:01:17,120
+passare a questo nuovo hardware per il semplice fatto che il là
+
+27
+00:01:17,120 --> 00:01:22,400
+me l'ha dato l'ultimo WWDC in cui abbiamo visto praticamente la transizione
+
+28
+00:01:22,400 --> 00:01:26,400
+completa per quanto riguarda Apple nel mondo Apple Silicon.
+
+29
+00:01:26,400 --> 00:01:28,240
+Quindi gli Intel non li vediamo più.
+
+30
+00:01:28,240 --> 00:01:32,560
+Mi sono detto, forse è anche il momento di fare l'upgrade dal
+
+31
+00:01:32,560 --> 00:01:33,760
+mio punto di vista.
+
+32
+00:01:33,760 --> 00:01:37,280
+Ma la cosa interessante è che proprio nello stesso momento in cui
+
+33
+00:01:37,280 --> 00:01:42,080
+avevo praticamente deciso di cambiare hardware, è saltata fuori una promozione su
+
+34
+00:01:42,080 --> 00:01:46,640
+Amazon, molto probabilmente perché era uscito il MacBook AR 15 pollici, quindi
+
+35
+00:01:46,640 --> 00:01:50,640
+i 13 pollici incominciavano ad essere un po' scomodi da vendere, diciamo
+
+36
+00:01:50,720 --> 00:01:51,440
+le mie due.
+
+37
+00:01:51,440 --> 00:01:55,680
+E quindi c'è stato questo forte sconto che mi ha incentivato a
+
+38
+00:01:55,680 --> 00:01:57,520
+passare a questo nuovo hardware.
+
+39
+00:01:57,520 --> 00:02:02,920
+Questo assieme alla transizione, non poteva che essere, insomma, un segnale più
+
+40
+00:01:59,840 --> 00:02:05,080
+che chiaro che dovessi fare questo passaggio.
+
+41
+00:02:05,160 --> 00:02:09,320
+L'ho comprato nuovo, come vi dicevo, su Amazon e il mio nuovo
+
+42
+00:02:09,320 --> 00:02:13,800
+Mac che compro e l'ultimo che ho comprato nuovo è del 2008,
+
+43
+00:02:13,800 --> 00:02:18,360
+quindi dalca dal 2010 in avanti, fino a questo MacBook che ero
+
+44
+00:02:18,440 --> 00:02:21,240
+sempre acquistato computer usati, con molta soddisfazione.
+
+45
+00:02:21,240 --> 00:02:22,120
+Aggiungo perché.
+
+46
+00:02:22,120 --> 00:02:27,400
+Sei uno spendaccione, come al solito c'è un grosso risparmio dal punto
+
+47
+00:02:27,400 --> 00:02:28,600
+di vista monetario.
+
+48
+00:02:28,600 --> 00:02:32,280
+Per fortuna, in ambito Apple, quello che si trova sul mercato dell'usato
+
+49
+00:02:32,280 --> 00:02:36,920
+è tendenzialmente sempre in buone condizioni, perché ovviamente c'è un occhio di
+
+50
+00:02:36,920 --> 00:02:40,200
+riguardo da parte degli utenti Apple per il loro hardware e si
+
+51
+00:02:40,200 --> 00:02:41,480
+possono trovare delle buone occasioni.
+
+52
+00:02:41,480 --> 00:02:44,280
+Ci vuole ovviamente un po' di tempo, non è che appena si
+
+53
+00:02:44,280 --> 00:02:47,720
+apre la pagina della ricerca dell'usato si trova quello che si vuole,
+
+54
+00:02:47,720 --> 00:02:51,080
+ma si possono trovare delle buone occasioni con avendo un po' di
+
+55
+00:02:51,080 --> 00:02:51,960
+pazienza.
+
+56
+00:02:51,960 --> 00:02:57,400
+Comunque, io in questo caso ho deciso di passare al Mebookare M2
+
+57
+00:02:57,720 --> 00:03:04,040
+base, perché appunto l'offerta me l'ha offerta Amazon, che era quasi a
+
+58
+00:03:04,040 --> 00:03:07,560
+livello dell'usato che c'era, diciamo, sui mercati usati.
+
+59
+00:03:07,560 --> 00:03:11,720
+Insomma, io ero arrivato a circa appena sotto i 1000 euro per
+
+60
+00:03:11,720 --> 00:03:16,680
+quanto riguarda il Mabare M213 pollici usato e ho visto che aggiungendo
+
+61
+00:03:16,680 --> 00:03:20,360
+150 euro avrei comprato uno nuovo, quindi mi sono detto ma perché
+
+62
+00:03:20,360 --> 00:03:21,080
+non farlo?
+
+63
+00:03:21,080 --> 00:03:24,040
+E tra l'altro, visto che per essere sicuro ho anche aggiunto l'Apple
+
+64
+00:03:24,040 --> 00:03:29,640
+Care Plus, giusto per aggiungere un diciamo un'ulteriore sicurezza in più, ma
+
+65
+00:03:29,640 --> 00:03:32,440
+non peraltro, perché questa volta avevo proprio le possibilità di farlo e
+
+66
+00:03:32,440 --> 00:03:34,200
+non mi sono fatto tirare indietro.
+
+67
+00:03:34,200 --> 00:03:39,560
+Dunque, la scelta del MacBook Air M2 base è stata dettata da
+
+68
+00:03:39,560 --> 00:03:41,160
+un paio di questioni.
+
+69
+00:03:41,160 --> 00:03:46,320
+La prima è che l'AR M1 aveva lo chassis del BemBook Air
+
+70
+00:03:46,320 --> 00:03:50,320
+2010 che ho posseduto, quindi era una cosa già conosciuta per me,
+
+71
+00:03:50,320 --> 00:03:54,960
+era un computer che conoscevo già nonostante avesse l'hardware nuovo, quindi diciamo
+
+72
+00:03:54,960 --> 00:03:58,960
+ero un po' meno portato a questo tipo di scelta come lo
+
+73
+00:03:58,960 --> 00:04:03,520
+è stato per il Mebu Pro 13 pollici però versione M1 con
+
+74
+00:04:03,520 --> 00:04:04,960
+lo chassis vecchio.
+
+75
+00:04:04,960 --> 00:04:10,640
+Diciamo che la confezione era vecchia e non mi stava, diciamo, chiamando
+
+76
+00:04:10,640 --> 00:04:13,680
+più di tanto, anche perché sono andato a fare un giro nel
+
+77
+00:04:13,680 --> 00:04:18,000
+Apple Store e ho visto in effetti l'Air di fianco al pro
+
+78
+00:04:18,640 --> 00:04:22,320
+io parlo del Pro 14 pollici, con il nuovo modello, con la
+
+79
+00:04:22,320 --> 00:04:23,760
+nuova fisionia.
+
+80
+00:04:23,920 --> 00:04:27,200
+Mi è piaciuto molto di più l'Air e continuo a confermare che
+
+81
+00:04:27,200 --> 00:04:29,840
+l'air è decisamente molto più bello, almeno per i miei gusti.
+
+82
+00:04:29,840 --> 00:04:33,600
+Il MacBook Air invece 15 pollici, era troppo fresco, ma anche molto
+
+83
+00:04:33,600 --> 00:04:34,400
+più caro.
+
+84
+00:04:34,400 --> 00:04:40,080
+Parliamo di ricordo male 1600 euro di partenza con la versione base,
+
+85
+00:04:40,080 --> 00:04:43,840
+mentre il 14 pollici per me era decisamente troppo costoso.
+
+86
+00:04:43,840 --> 00:04:48,880
+Siamo oltre i 2000 euro, 2003, se non ricordo male, il 2003-2004,
+
+87
+00:04:48,880 --> 00:04:51,520
+ma in ogni caso era al di fuori del mio budget.
+
+88
+00:04:51,520 --> 00:04:56,880
+Conseguentemente ho preferito scendere dal punto di vista delle richieste con un
+
+89
+00:04:56,880 --> 00:05:00,560
+MacBooker 13 pollici M2 base e mi sono fatto andare bene anche
+
+90
+00:05:00,560 --> 00:05:02,960
+la questione dell'SD, che è una cosa che mi è rimasta un
+
+91
+00:05:02,960 --> 00:05:06,480
+po', come ho detto, più in altre sedi, mi è rimasto abbastanza
+
+92
+00:05:06,480 --> 00:05:07,360
+sullo stomaco.
+
+93
+00:05:07,360 --> 00:05:10,880
+Ma nonostante questo ho deciso di fare questo acquisto, perché, comunque, al
+
+94
+00:05:10,880 --> 00:05:14,880
+di là di tutto ci avrei solo guadagnato arrivando dall'Intel.
+
+95
+00:05:14,880 --> 00:05:18,800
+Probabilmente avessi dovuto fare il passaggio da M1, non sarei passato a
+
+96
+00:05:18,800 --> 00:05:23,360
+M2, ma arrivando dall'Intel avevo soltanto cose positive, tra cui ovviamente un
+
+97
+00:05:23,360 --> 00:05:26,480
+hardware che è supportato per molto più tempo da parte di Apple,
+
+98
+00:05:26,480 --> 00:05:31,880
+poi ho raddoppiato la dimensione dell'SSD e in ogni caso avrei guadagnato
+
+99
+00:05:31,880 --> 00:05:32,680
+in velocità.
+
+100
+00:05:29,920 --> 00:05:34,600
+Conseguentemente mi sono fatto andare bene.
+
+101
+00:05:34,760 --> 00:05:39,160
+Questa questione dell'SSD che va alla metà rispetto agli altri, e tra
+
+102
+00:05:39,160 --> 00:05:43,000
+altre cose ho avuto anche la possibilità di fare qualche piccolo, diciamo,
+
+103
+00:05:43,080 --> 00:05:47,320
+confronto dal punto di vista estetico con il mio vecchio MacBook Pro
+
+104
+00:05:47,480 --> 00:05:49,240
+13 polis 2019.
+
+105
+00:05:49,240 --> 00:05:52,680
+Intanto le dimensioni sono le stesse: sono praticamente identici.
+
+106
+00:05:52,680 --> 00:05:55,960
+Ne ho messo uno sopra l'altro e c'è proprio qualche decimo di
+
+107
+00:05:55,960 --> 00:05:59,400
+millimetro che differenza, ma sono della stessa dimensione.
+
+108
+00:05:59,400 --> 00:06:03,640
+Ovviamente il peso è a favore dell'air, che è decisamente più leggero,
+
+109
+00:06:03,640 --> 00:06:08,600
+sembra veramente che non ci sia niente all'interno del portatile, a parte,
+
+110
+00:06:08,600 --> 00:06:13,560
+diciamo, le batterie e poi una differenza sostanziale delle porte.
+
+111
+00:06:13,640 --> 00:06:16,920
+Se vi sembrerà poco, ma il fatto di avere il cavo Mag
+
+112
+00:06:16,920 --> 00:06:22,120
+Safes separato dalla porta USB C fa guadagnare una porta in più.
+
+113
+00:06:22,120 --> 00:06:25,080
+Quindi io ho guadagnato essenzialmente una porta in più grazie al fatto
+
+114
+00:06:25,080 --> 00:06:29,560
+che, comunque, quando sono in ufficio, l'utilizzo è collegato alla corrente e
+
+115
+00:06:29,560 --> 00:06:32,040
+quindi ho una porta in più da sfruttare nel caso in cui
+
+116
+00:06:32,040 --> 00:06:33,640
+ne avessi necessità.
+
+117
+00:06:33,640 --> 00:06:37,720
+Questa è una cosa, secondo me, molto molto importante perché comunque passare
+
+118
+00:06:37,720 --> 00:06:40,840
+da una a due porte hai già raddoppiato la quantità di porte
+
+119
+00:06:40,840 --> 00:06:41,560
+utilizzabili.
+
+120
+00:06:41,560 --> 00:06:46,440
+Per quanto riguarda, invece, il passaggio che ho fatto essenzialmente dal MacBoo
+
+121
+00:06:46,440 --> 00:06:50,680
+Pro Intel al Medbooker M2 è stato semplice perché, al di là
+
+122
+00:06:50,680 --> 00:06:53,400
+dei consigli che mi è stato dati da tutti quanti, ho tentato
+
+123
+00:06:53,400 --> 00:06:54,760
+la via più semplice.
+
+124
+00:06:55,080 --> 00:06:59,000
+Sapete che è un hardware con cui lavoro e quindi dovevo recuperare
+
+125
+00:06:59,000 --> 00:07:00,200
+il più tempo possibile.
+
+126
+00:07:00,200 --> 00:07:04,360
+Quindi ho fatto passaggio direttamente con il time machine, ho tirato tutto
+
+127
+00:07:04,360 --> 00:07:07,880
+quello che potevo su, dal time machine, ovvero ho aperto il portatile,
+
+128
+00:07:07,880 --> 00:07:12,360
+mi ha chiesto se volevo ripristinare la situazione precedente utilizzando un backup
+
+129
+00:07:12,440 --> 00:07:15,920
+di time machine, l'ho collegato e in un'ora e 20 ero operativo.
+
+130
+00:07:15,920 --> 00:07:20,560
+Un'ora e 20 che non è male come situazione perché è pochissimo
+
+131
+00:07:20,560 --> 00:07:20,800
+tempo.
+
+132
+00:07:20,800 --> 00:07:24,480
+Se ci pensate, è tempo di andare a pranzo e voi avete
+
+133
+00:07:24,480 --> 00:07:29,200
+il portatile sostituito, potete riprendere da dove eravate senza grossi problemi.
+
+134
+00:07:29,200 --> 00:07:34,080
+Nessun problema dal punto di vista delle funzionalità perché anche le applicazioni
+
+135
+00:07:34,080 --> 00:07:37,120
+hanno funzionato subito al primo colpo, ma hanno lasciato un po' diciamo
+
+136
+00:07:37,120 --> 00:07:41,040
+il cuore in sospeso quando ho mandato avanti le app Intel.
+
+137
+00:07:41,040 --> 00:07:45,520
+Perché ci sono alcune applicazioni che sono ancora in versione Intel, non
+
+138
+00:07:45,520 --> 00:07:50,640
+sono ancora native, e quindi hanno dovuto hanno richiesto l'utilizzo di Rosetta
+
+139
+00:07:50,640 --> 00:07:51,120
+2.
+
+140
+00:07:51,120 --> 00:07:53,840
+Quindi io ho lanciato l'applicazione e ho aspettato un attimo, ho detto
+
+141
+00:07:54,000 --> 00:07:56,000
+Oh oh, qui iniziano i primi problemi.
+
+142
+00:07:56,000 --> 00:07:58,960
+Ma in realtà era soltanto una questione di tempo perché bisogna dare
+
+143
+00:07:58,960 --> 00:08:02,080
+tempo a Rosetta 2 di entrare in gioco e trasformare quello che
+
+144
+00:08:02,080 --> 00:08:06,080
+doveva trasformare in compatibile in Apple Silicon e poi si partiva e
+
+145
+00:08:06,240 --> 00:08:08,320
+ovviamente non si vedeva più la differenza.
+
+146
+00:08:08,320 --> 00:08:12,160
+Fatta la prima volta, gli successivi AVI erano praticamente istantanei come se
+
+147
+00:08:12,160 --> 00:08:13,040
+fosse su Intel.
+
+148
+00:08:13,040 --> 00:08:17,360
+Detto questo, passo subito alle prestazioni: giusto per dare qualche idea per
+
+149
+00:08:17,360 --> 00:08:19,600
+far capire un po' la differenza.
+
+150
+00:08:19,600 --> 00:08:23,920
+Proprio di prima mano di chi ha utilizzato i portati di Intel
+
+151
+00:08:24,080 --> 00:08:28,560
+e diciamo si lamentava come sottoscritto, ma ha ragione veduta vedendo la
+
+152
+00:08:28,560 --> 00:08:29,200
+situazione.
+
+153
+00:08:29,200 --> 00:08:31,840
+Non ti sei mai lamentato in vita tua o dell'Intel?
+
+154
+00:08:32,000 --> 00:08:33,360
+Ma va mai, soprattutto
+
+155
+00:08:34,400 --> 00:08:36,640
+la stuffetta legna praticamente.
+
+156
+00:08:36,880 --> 00:08:40,160
+Ed è tutto vero, continuo a dire tutte le mie lamentele si
+
+157
+00:08:40,160 --> 00:08:44,160
+sono praticamente dissolte nel momento in cui si passa a Apple Silicon.
+
+158
+00:08:44,160 --> 00:08:48,880
+Questo giusto per darvi un'idea: il ripristino, l'aggiornamento del sistema operativo e
+
+159
+00:08:48,880 --> 00:08:52,960
+tutte le applicazioni che, ovviamente, si sono aggiornate per il nuovo sistema
+
+160
+00:08:52,960 --> 00:08:57,920
+operativo, hanno pesato per la bellezza dell'1% sulla batteria.
+
+161
+00:08:57,920 --> 00:08:58,720
+Cioè, quindi
+
+162
+00:09:00,040 --> 00:09:04,200
+con Intel non sarebbe andata così, insomma, sarebbe stato un disastro sotto
+
+163
+00:08:59,760 --> 00:09:05,160
+tutti i punti di vista.
+
+164
+00:09:05,320 --> 00:09:09,480
+Mentre aggiornava tutte queste cose qui, ho guardato la temperatura.
+
+165
+00:09:09,480 --> 00:09:14,120
+Perché, ad esempio, un'altra cosa interessante è che alcune applicazioni che utilizzavo
+
+166
+00:09:14,120 --> 00:09:15,880
+per Intel per tenerlo a bada.
+
+167
+00:09:15,960 --> 00:09:19,800
+Ad esempio, faccio un esempio tra tutti il turbo boost Switch che
+
+168
+00:09:19,880 --> 00:09:22,920
+mi permetteva di togliere il turbo boost di Intel e riuscire a
+
+169
+00:09:22,920 --> 00:09:26,280
+sopravvivere in qualche modo nel caso in cui non avessi la batteria
+
+170
+00:09:26,280 --> 00:09:30,200
+che era sufficiente, l'ho dovuta eliminare perché non mi serve più.
+
+171
+00:09:30,200 --> 00:09:34,200
+Invece ho tenuto, nonostante non ce ne sia necessità, l'utilità che utilizzo
+
+172
+00:09:34,200 --> 00:09:36,600
+per monitorare le ventole MAC fine control.
+
+173
+00:09:36,600 --> 00:09:37,160
+Questo perché?
+
+174
+00:09:37,160 --> 00:09:39,880
+Perché ha tutta una serie di sensori che mi permettono di controllare
+
+175
+00:09:39,880 --> 00:09:41,880
+la temperatura all'interno del.
+
+176
+00:09:41,880 --> 00:09:46,120
+Non è che ha dei sensori MAC control, ma utilizza i sensori
+
+177
+00:09:46,120 --> 00:09:49,320
+che ci sono già all'interno del Mac e ti dà essenzialmente il
+
+178
+00:09:49,320 --> 00:09:50,760
+dato che sta andando a leggere.
+
+179
+00:09:50,760 --> 00:09:53,800
+Io ho visto che durante questo processo di aggiornamento e tutto quanto
+
+180
+00:09:53,800 --> 00:09:57,160
+che vi ho raccontato prima, che è pesato l'1%, siamo stati intorno
+
+181
+00:09:57,160 --> 00:10:01,480
+a temperature tra i 33 e i 35 gradi, che io mi
+
+182
+00:10:01,480 --> 00:10:06,120
+ricordo che erano la temperatura di partenza appena accendevo il Mac Intel
+
+183
+00:10:06,280 --> 00:10:07,240
+senza fare un tubo.
+
+184
+00:10:07,320 --> 00:10:12,360
+Invece, questo lavorando a tutto spiano, è andato avanti decisamente a temperature
+
+185
+00:10:12,360 --> 00:10:13,240
+ragionevoli.
+
+186
+00:10:13,240 --> 00:10:17,000
+Altra cosa interessante che ho trovato ovviamente il sistema operativo, come dicono
+
+187
+00:10:17,000 --> 00:10:21,240
+gli americani, Snappy ed è veramente così, nel senso che è molto
+
+188
+00:10:21,240 --> 00:10:22,280
+più reattivo.
+
+189
+00:10:22,280 --> 00:10:26,520
+Si vede che il sistema operativo è tagliato su questo hardware e
+
+190
+00:10:26,520 --> 00:10:28,920
+gestisce veramente tutto quanto.
+
+191
+00:10:28,920 --> 00:10:32,600
+E poi ho fatto qualche piccolo test qui in là per riuscire
+
+192
+00:10:32,600 --> 00:10:35,000
+a tirare fuori qualche dato da darvi.
+
+193
+00:10:35,000 --> 00:10:37,320
+Anche se non ho fatto tutti i test che volevo fare io,
+
+194
+00:10:37,400 --> 00:10:40,440
+ma questione solo di tempo, adesso, penso che la prossima settimana, se
+
+195
+00:10:40,440 --> 00:10:43,960
+Dio vuole, ho qualche momento libero e metterò un po' sottotorio questo
+
+196
+00:10:43,960 --> 00:10:47,520
+M2, perché per adesso mi sta dando delle grosse soddisfazioni.
+
+197
+00:10:47,520 --> 00:10:51,760
+Ho utilizzato, diciamo, il workflow che utilizzo per la gestione delle immagini
+
+198
+00:10:51,760 --> 00:10:54,480
+di cantiere ed ero in quel momento a Torino, in un bar
+
+199
+00:10:54,560 --> 00:10:57,840
+perché capita di lavorare in mobilità, ero vicino ai pressi del cantiere.
+
+200
+00:10:57,840 --> 00:11:00,880
+Quindi, un attimo di pausa tra un cantiere e l'altro, mi fermo
+
+201
+00:11:00,880 --> 00:11:03,520
+in un bar magari a prendere un caffè o bere qualcosa di
+
+202
+00:11:03,520 --> 00:11:07,520
+fresco, visto che c'erano 30 gradi all'ombra quindi era abbastanza calduccio.
+
+203
+00:11:07,520 --> 00:11:11,920
+La cosa interessante è che avevo 595 foto da migliorare e ridimensionare.
+
+204
+00:11:11,920 --> 00:11:16,400
+Ho preso, ho fatto sempre il mio solito workflow classico che avrebbe
+
+205
+00:11:16,400 --> 00:11:21,120
+richiesto al mio MacBook Pro 13 Polci Intel di avere le ventole
+
+206
+00:11:21,200 --> 00:11:24,480
+non dico a stecca, ma probabilmente se avesse dato di più, avrebbe
+
+207
+00:11:24,480 --> 00:11:25,280
+anche dato di più.
+
+208
+00:11:25,280 --> 00:11:30,240
+Mentre questo simpatico Air, che continuo a ricordare, è fanless, quindi non
+
+209
+00:11:30,240 --> 00:11:35,840
+ha alcun tipo di dissipazione attiva, è arrivato al massimo a 55
+
+210
+00:11:35,840 --> 00:11:37,360
+gradi con 30 gradi.
+
+211
+00:11:37,360 --> 00:11:41,840
+Quindi un aumento di 25 gradi che direi che mi ha lasciato
+
+212
+00:11:41,840 --> 00:11:44,480
+letteralmente senza parole.
+
+213
+00:11:44,480 --> 00:11:47,840
+Anche perché continuo a dire era veramente un test abbastanza particolare, perché
+
+214
+00:11:47,840 --> 00:11:51,280
+adesso Filippo, poi, come vi confermerà, abito in un posto abbastanza fresco.
+
+215
+00:11:51,600 --> 00:11:52,400
+Confermo.
+
+216
+00:11:52,560 --> 00:11:56,960
+Quindi, diciamo la temperatura in cui è abituato a lavorare, tra virgolette,
+
+217
+00:11:57,040 --> 00:12:01,280
+questo è abbastanza decente, non ha bisogno di particolari indicazioni.
+
+218
+00:12:01,360 --> 00:12:05,360
+Invece, già a Torino, a 30 gradi all'ombra, mi aspettavo che ci
+
+219
+00:12:05,360 --> 00:12:08,720
+fosse un aumento della temperatura un po' più alta, anche perché, comunque,
+
+220
+00:12:08,720 --> 00:12:12,800
+vedendo lo sforzo che aveva bisogno l'Intel per riuscire a fare questo
+
+221
+00:12:12,800 --> 00:12:15,600
+tipo di workflow, mi aspettavo qualcosa di un po' più caldo.
+
+222
+00:12:15,600 --> 00:12:20,240
+Invece, 55 gradi direi che sono assolutamente una temperatura ma non costante,
+
+223
+00:12:20,240 --> 00:12:20,960
+era al massimo.
+
+224
+00:12:20,960 --> 00:12:24,400
+Cioè, in alcuni momenti arrivava a 55 gradi, poi scendeva a 50
+
+225
+00:12:24,560 --> 00:12:29,520
+e capite che comunque è un aumento risibile rispetto a quello che
+
+226
+00:12:29,520 --> 00:12:32,040
+può essere un utilizzo con Intel.
+
+227
+00:12:32,280 --> 00:12:36,040
+Altra cosa che ho fatto è stato quello di utilizzare Twin Motion,
+
+228
+00:12:36,040 --> 00:12:40,440
+Twin Motion, ricordo per chi non ci segue e non conosce quello
+
+229
+00:12:40,440 --> 00:12:41,000
+che faccio.
+
+230
+00:12:41,000 --> 00:12:44,600
+Ricordo, sono un architetto e faccio anche modellazione tridimensionale, tra le altre
+
+231
+00:12:44,600 --> 00:12:48,360
+cose, e Twin Motion è un software di rendering in real time.
+
+232
+00:12:48,360 --> 00:12:51,640
+Questo software di rendering in real time è molto molto interessante.
+
+233
+00:12:51,640 --> 00:12:55,000
+Ne ho parlato più volte su Snap, ma lo racconto praticamente a
+
+234
+00:12:55,000 --> 00:12:55,800
+tutti quanti.
+
+235
+00:12:55,800 --> 00:13:00,440
+E ho utilizzato un modello che è all'interno di Twin Motion come
+
+236
+00:13:00,600 --> 00:13:01,880
+diciamo come prova.
+
+237
+00:13:01,880 --> 00:13:04,600
+Nel senso che non ho caricato uno mio particolare, ma uno di
+
+238
+00:13:04,600 --> 00:13:05,960
+quelli che era già lì.
+
+239
+00:13:05,960 --> 00:13:11,160
+Di cui ho fatto i test grazie anche all'intervento di Matteo Scandolin,
+
+240
+00:13:11,160 --> 00:13:15,640
+ma anche di Mariano Di Benedetto, dove riusciamo a testare hardware PC
+
+241
+00:13:15,640 --> 00:13:19,720
+e hardware Mac per riuscire a capire con Twin Motion quali sono
+
+242
+00:13:19,720 --> 00:13:22,120
+i tempi in gioco del rendering.
+
+243
+00:13:22,120 --> 00:13:24,760
+E il mio vecchio MacBook Pro
+
+244
+00:13:25,880 --> 00:13:28,440
+lo chiamo vecchio, ma in realtà non è vecchio, però è vecchio
+
+245
+00:13:28,440 --> 00:13:29,400
+come concezione.
+
+246
+00:13:29,400 --> 00:13:34,200
+Il MacBook Pro 13 Pollici del 2019 per elaborare un'immagine che è
+
+247
+00:13:34,200 --> 00:13:36,280
+la stessa che abbiamo utilizzato per il test.
+
+248
+00:13:36,280 --> 00:13:39,720
+Nel mio caso, ci ha messo due minuti e 16 secondi.
+
+249
+00:13:39,720 --> 00:13:44,520
+L'ho lanciato senza neanche pensarci troppo, ma avevo delle applicazioni in background,
+
+250
+00:13:44,520 --> 00:13:45,720
+non l'avevo riabbiato.
+
+251
+00:13:45,720 --> 00:13:49,640
+Insomma, era un test non proprio puro come si dovrebbe fare, che
+
+252
+00:13:49,640 --> 00:13:52,840
+ho fatto con le altre volte e l'immagine l'ha tirata fuori in
+
+253
+00:13:52,840 --> 00:13:54,280
+24 secondi.
+
+254
+00:13:54,280 --> 00:13:57,640
+Io non so voi, però capite che passare da due minuti a
+
+255
+00:13:57,640 --> 00:14:02,200
+24 secondi la potenza in gioco c'è nonostante sia fanless.
+
+256
+00:14:02,360 --> 00:14:05,400
+Quindi sono molto molto intrigato da questo hardware.
+
+257
+00:14:05,400 --> 00:14:09,720
+Adesso, finalmente, visto che non ho più paura, posso anche mandare avanti
+
+258
+00:14:09,720 --> 00:14:13,560
+il test, perché, oltre al test di un'immagine, c'è anche il test
+
+259
+00:14:13,560 --> 00:14:15,760
+di 11 immagini messe in sequenza.
+
+260
+00:14:15,920 --> 00:14:18,880
+Quindi in quel punto mi aspetto: poi vedremo che ci sia un
+
+261
+00:14:18,880 --> 00:14:22,000
+po' di terminal trotting che magari rallenti un po', non sia proprio
+
+262
+00:14:22,000 --> 00:14:25,520
+lineare la gestione del tempo da parte di questo Mac, ma vediamo
+
+263
+00:14:25,680 --> 00:14:29,120
+e poi lo metteremo in confronto con magari il Mac Studio che
+
+264
+00:14:29,120 --> 00:14:30,720
+c'era in competizione.
+
+265
+00:14:30,720 --> 00:14:34,320
+Il mio Mac Boo Pro ovviamente era tirato fuori perché avevo paura
+
+266
+00:14:34,320 --> 00:14:37,680
+di mandarlo avanti più di dieci minuti con un carico del genere
+
+267
+00:14:37,760 --> 00:14:40,640
+perché avevo paura che la ventola non ce la facesse e dovesse
+
+268
+00:14:40,720 --> 00:14:42,640
+aspettare magari anche mezz'ora, chi lo sa.
+
+269
+00:14:42,640 --> 00:14:43,520
+Quindi l'ho escluso.
+
+270
+00:14:43,520 --> 00:14:47,280
+E poi ci sono gli altri computer con hardware per PC che
+
+271
+00:14:47,280 --> 00:14:51,600
+invece hanno messo ovviamente delle belle cifre in campo e secondo me
+
+272
+00:14:51,680 --> 00:14:52,400
+è interessante.
+
+273
+00:14:52,400 --> 00:14:55,840
+Di questo ne ho parlato su un articolo che potete trovare su
+
+274
+00:14:55,840 --> 00:15:02,640
+Mac e Architettura all'indirizzo marc.net.wordpress.com e che verrà aggiornato ovviamente con l'ingresso
+
+275
+00:15:02,640 --> 00:15:06,960
+del MebBooker 13 Pollice M2 e secondo me continuo a dire è
+
+276
+00:15:06,960 --> 00:15:08,480
+un risultato molto interessante.
+
+277
+00:15:08,480 --> 00:15:10,800
+Voglio vedere fino a che punto si spinge.
+
+278
+00:15:10,800 --> 00:15:14,560
+Altra cosa che ho notato è che l'editing del podcast è decisamente
+
+279
+00:15:14,560 --> 00:15:20,240
+molto più veloce, nel senso che ho notato tanti meno ritardi nell'editing,
+
+280
+00:15:20,240 --> 00:15:24,240
+nel senso, i tagli, lo spostamento della traccia, vi discorrendo è decisamente
+
+281
+00:15:24,240 --> 00:15:28,240
+molto più veloce, tant'è che ho dovuto un po' ricalibrare il movimento
+
+282
+00:15:28,240 --> 00:15:32,400
+del mouse rispetto a quello che ero abituato precedentemente.
+
+283
+00:15:32,400 --> 00:15:36,560
+E poi un'altra cosa che ho notato è che ha una batteria
+
+284
+00:15:36,560 --> 00:15:43,360
+veramente notevole sulla tua batteria esatto, come si è evoluta la vicenda,
+
+285
+00:15:43,360 --> 00:15:46,400
+nel senso che immagino che tu lavori molto anche in mobilità.
+
+286
+00:15:46,800 --> 00:15:47,760
+Assolutamente sì.
+
+287
+00:15:47,760 --> 00:15:51,760
+Nel caso sono andato in vacanza proprio recentemente la settimana scorsa e
+
+288
+00:15:51,760 --> 00:15:54,000
+sono partito con il MEC al 100%.
+
+289
+00:15:54,240 --> 00:15:58,560
+Abbiamo registrato una puntata A2 Podcast con Lucio Pragagnolo che avranno
+
+290
+00:15:58,560 --> 00:15:59,800
+sentito o sentiranno.
+
+291
+00:15:59,040 --> 00:16:03,880
+Sentiranno il 10 di luglio esatto, sentiranno
+
+292
+00:15:59,680 --> 00:16:05,080
+successivamente.
+
+293
+00:16:05,880 --> 00:16:08,840
+Ma questa la sentiranno a fosto.
+
+294
+00:16:09,480 --> 00:16:13,240
+Quindi il contrario, quindi avete già sentito la puntata a questo punto
+
+295
+00:16:13,240 --> 00:16:17,080
+di cui io parlo in questo momento ed ero in mobilità completamente
+
+296
+00:16:17,240 --> 00:16:21,160
+perché ero proprio fuori ufficio, non ero attaccato alla corrente ed ero
+
+297
+00:16:21,160 --> 00:16:23,880
+in una situazione un po' particolare che è la vacanza, e ho
+
+298
+00:16:23,880 --> 00:16:29,160
+visto che insomma la registrazione del podcast ha abbassato la percentuale di
+
+299
+00:16:29,160 --> 00:16:31,160
+una percentuale risibile.
+
+300
+00:16:31,480 --> 00:16:37,320
+Parliamo di circa l'11% dopo due ore, mentre l'intel aveva meno del
+
+301
+00:16:37,320 --> 00:16:39,400
+10% dopo una situazione del genere.
+
+302
+00:16:39,400 --> 00:16:44,280
+Quindi capite che il gioco, la potenza della batteria e la gestione
+
+303
+00:16:44,280 --> 00:16:47,480
+di un portatile in questo modo è decisamente diversa rispetto a quello
+
+304
+00:16:47,480 --> 00:16:49,000
+a cui erabituato con Intel.
+
+305
+00:16:49,000 --> 00:16:53,080
+E poi praticamente alla fine della settimana di vacanza, io me ne
+
+306
+00:16:53,080 --> 00:16:57,560
+sono andato via con il 29%, sono arrivato a casa, l'ho aperto,
+
+307
+00:16:57,560 --> 00:17:01,400
+avevo il 29% quindi in una settimana io non l'ho ricaricato nonostante
+
+308
+00:17:01,400 --> 00:17:02,360
+abbia lavorato.
+
+309
+00:17:04,280 --> 00:17:08,120
+Ci ho lavorato, ho fatto il podcast, come vi dicevamo, non ho
+
+310
+00:17:08,120 --> 00:17:11,000
+fatto lavori particolarmente pesanti e lunghi.
+
+311
+00:17:11,000 --> 00:17:16,520
+Però, insomma, iniziare a lavorare sulla documentazione, aprire qualche disegno e queste
+
+312
+00:17:16,520 --> 00:17:20,200
+cose di questo tipo l'ho fatto, anche qualcosa che riguarda, ad esempio,
+
+313
+00:17:20,200 --> 00:17:23,800
+chiamiamola la vita social, ma che comunque ha un certo peso sulla
+
+314
+00:17:23,880 --> 00:17:28,440
+batteria, ho notato che questo qui è davvero molto molto interessante.
+
+315
+00:17:28,440 --> 00:17:31,800
+Le altre cose, diciamo le caratteristiche tecniche, le sapete più o meno
+
+316
+00:17:31,800 --> 00:17:33,160
+tutti quanti di che si tratta.
+
+317
+00:17:33,160 --> 00:17:36,840
+Devo dire dal mio punto di vista che lo schermo è nettamente
+
+318
+00:17:36,840 --> 00:17:40,200
+migliorato rispetto a quello che avevo prima, che era già uno bello
+
+319
+00:17:40,200 --> 00:17:45,440
+schermo, ma in questo caso la luminosità, soprattutto quando sono in movimento,
+
+320
+00:17:45,440 --> 00:17:49,840
+ho notato che uso meno luminosità per vedere le stesse cose obiettivamente
+
+321
+00:17:44,840 --> 00:17:52,320
+hanno migliorato anche sotto questo punto di vista.
+
+322
+00:17:52,480 --> 00:17:57,920
+Io direi che sono molto molto soddisfatto della situazione, anche il colore,
+
+323
+00:17:57,920 --> 00:18:02,640
+nonostante lasci le dittate dappertutto, è davvero molto molto interessante, bello e
+
+324
+00:18:02,640 --> 00:18:06,160
+affascinante, diciamo, è un bel colore che non si vede spesso in
+
+325
+00:18:06,160 --> 00:18:06,720
+giro.
+
+326
+00:18:06,720 --> 00:18:10,800
+In definitiva, devo dire che i soldi che ho investito, che comunque
+
+327
+00:18:10,800 --> 00:18:13,200
+ci ho messo un po', nel senso non è che sono andato
+
+328
+00:18:13,200 --> 00:18:17,120
+come gli influencer che o glielo danno da provare o glielo regalano,
+
+329
+00:18:17,120 --> 00:18:18,800
+oppure hanno i soldi pronti.
+
+330
+00:18:18,800 --> 00:18:23,120
+Io ci ho lavorato praticamente da diciamo da dicembre dell'anno scorso con
+
+331
+00:18:23,120 --> 00:18:24,560
+l'idea di mettere via i soldi.
+
+332
+00:18:24,560 --> 00:18:27,760
+Piano piano li ho messi via e poi si è presentata questa
+
+333
+00:18:27,760 --> 00:18:33,280
+situazione e aggiungendo una piccola cifra, sono riuscito poi a comprarlo direttamente
+
+334
+00:18:33,280 --> 00:18:36,080
+nuovo e sono molto molto soddisfatto.
+
+335
+00:18:36,080 --> 00:18:38,880
+In generale, adesso tu che Filippo sei qui di fronte a me
+
+336
+00:18:38,880 --> 00:18:42,320
+e al tuo MacBook Pro 16 pollici, che è davvero molto bello,
+
+337
+00:18:42,320 --> 00:18:44,880
+comunque ha sempre il suo perché.
+
+338
+00:18:44,880 --> 00:18:47,760
+Adesso che vedi un MacBookare dal vivo, cosa ne pensi?
+
+339
+00:18:47,920 --> 00:18:51,840
+Allora, devo dirti la verità: è veramente piccolo rispetto al mio 16
+
+340
+00:18:51,840 --> 00:18:52,320
+pollici.
+
+341
+00:18:52,320 --> 00:18:56,800
+Quindi questa è la cosa che balza subito all'occhio, nero molto bello.
+
+342
+00:18:56,800 --> 00:18:59,360
+Le ditate si vedono purtroppo.
+
+343
+00:18:59,600 --> 00:19:04,400
+Credo sia un problema, tra virgolette, perché poi, alla fine è in
+
+344
+00:19:04,400 --> 00:19:07,360
+porta fino a quel momento.
+
+345
+00:19:07,360 --> 00:19:12,640
+Sicuramente una settimana, ovviamente, presumo non di lavoro intenso perché ero in
+
+346
+00:19:12,640 --> 00:19:16,480
+vacanza e così via, senza dover neanche ricaricare la batteria, è tipo
+
+347
+00:19:16,480 --> 00:19:19,600
+l'iPad e quindi diventa veramente uno strumento interessante.
+
+348
+00:19:19,600 --> 00:19:23,600
+Adesso, anche già solo fare otto ore di mobilità in una giornata
+
+349
+00:19:23,760 --> 00:19:28,560
+cambia drasticamente, secondo me, il modo di lavorare e soprattutto anche come
+
+350
+00:19:28,560 --> 00:19:29,280
+gestire tutto.
+
+351
+00:19:29,400 --> 00:19:34,680
+Io appunto ne parlavamo prima, chiamiamolo così Forondo, il mio MacBook Pro
+
+352
+00:19:34,920 --> 00:19:39,800
+16 pollici Intel, ha un alimentatore da più di 100 watt.
+
+353
+00:19:39,800 --> 00:19:44,440
+A prescindere dal costo, ha una quantità di energia non indifferente e
+
+354
+00:19:44,440 --> 00:19:49,880
+senza questo sistema, tra l'altro, non credo che duri più di 4-5
+
+355
+00:19:50,040 --> 00:19:54,440
+ore con uso molto blando, cioè senza fargli fare cose strane.
+
+356
+00:19:54,440 --> 00:19:58,520
+Per cui devo dire, poi appunto l'hai sentito quando l'ho acceso, perché
+
+357
+00:19:58,600 --> 00:20:02,120
+io abitualmente tengo le ventole al massimo, proprio perché se lo uso,
+
+358
+00:20:02,120 --> 00:20:07,640
+diciamo, in grambo o comunque in modalità portatile cheamiamolo così, il calore
+
+359
+00:20:07,640 --> 00:20:10,280
+si sente significativamente senza le ventole.
+
+360
+00:20:10,280 --> 00:20:14,440
+Per cui, sì, devo dire la verità, un bel cambiamento, sono molto
+
+361
+00:20:14,440 --> 00:20:18,440
+tentato, ma per ora non è il momento di dedicarsi al portatile
+
+362
+00:20:18,440 --> 00:20:21,240
+che io poi uso in maniera portatile veramente poco.
+
+363
+00:20:22,360 --> 00:20:27,240
+E infatti una cosa che mi ricordo del MacBook Pro 2019 è
+
+364
+00:20:27,320 --> 00:20:31,000
+che c'erano certi momenti che facevo magari delle lavorazioni particolari, che era
+
+365
+00:20:31,000 --> 00:20:33,720
+veramente caldo, non si riusciva a tenere sulle ginocchia.
+
+366
+00:20:33,720 --> 00:20:37,800
+Nel senso che delle volte volevo proprio alzarlo e spostarlo perché diventava
+
+367
+00:20:37,800 --> 00:20:43,000
+veramente, non dico incandescente, però era decisamente sensibile il calore che veniva
+
+368
+00:20:43,000 --> 00:20:43,960
+sprigionato.
+
+369
+00:20:43,960 --> 00:20:48,760
+E questa è una cosa che in questo MacBook adesso, adesso non
+
+370
+00:20:48,760 --> 00:20:53,560
+sto facendo niente perché sto guardando semplicemente sto guardando la mappa mentale,
+
+371
+00:20:53,560 --> 00:20:56,280
+invece sto demandando a Filippo la registrazione.
+
+372
+00:20:56,280 --> 00:21:01,720
+Considerate che è più freddo dell'ambiente, è una cosa veramente spettacolare.
+
+373
+00:21:01,720 --> 00:21:07,800
+Invece, ricollegandomi all'alimentatore una nota di colore, che in effetti bisogna segnalare,
+
+374
+00:21:07,800 --> 00:21:12,360
+perché non sempre sono tutte rose fiori, ho notato che il caricatore
+
+375
+00:21:12,360 --> 00:21:16,560
+del MacBook Air 13 pollici versione base M2 è un po' più
+
+376
+00:21:16,560 --> 00:21:20,880
+lento, ma giustamente perché ha un vantaggio molto più basso rispetto, per
+
+377
+00:21:20,880 --> 00:21:26,960
+esempio, al MacBook Pro M2 però con un livello superiore di SSD,
+
+378
+00:21:26,960 --> 00:21:27,840
+se non ricordo male.
+
+379
+00:21:27,840 --> 00:21:31,840
+Hanno un vantaggio diverso, di fatti, ho notato che il caricamento del
+
+380
+00:21:31,840 --> 00:21:35,360
+portatile è decisamente più lento rispetto a quello del 2019.
+
+381
+00:21:35,360 --> 00:21:38,960
+Quindi è una cosa che non avete bisogno perché lo usate molto
+
+382
+00:21:38,960 --> 00:21:39,520
+meno.
+
+383
+00:21:39,520 --> 00:21:43,680
+Però lo notate nel caso in cui siete abituati con l'Intel, che
+
+384
+00:21:43,680 --> 00:21:46,560
+in effetti è vero, la batteria scendeva anche tanto in fretta, ma
+
+385
+00:21:46,560 --> 00:21:50,480
+si caricava abbastanza in fretta, non è che era questo fulmine.
+
+386
+00:21:50,480 --> 00:21:54,800
+Però in ogni caso, la differenza è che il vattaggio del caricatore
+
+387
+00:21:54,800 --> 00:21:59,520
+della versione base dell'M2 è decisamente più bassa rispetto alla versione superiore,
+
+388
+00:21:59,760 --> 00:22:02,240
+se non mi sbaglio, è anche una porta aggiuntiva se vado così
+
+389
+00:22:02,240 --> 00:22:02,960
+a memoria.
+
+390
+00:22:02,960 --> 00:22:07,200
+Ma in ogni caso c'è una differenza e poi soprattutto ricordiamo che
+
+391
+00:22:07,200 --> 00:22:12,160
+né uno né l'altro, parlando del caricatore del MacBook Air, sono comunque
+
+392
+00:22:12,160 --> 00:22:15,840
+così potenti come quello che usa Filippo in questo momento, che comunque
+
+393
+00:22:15,840 --> 00:22:19,040
+100 watt spogione una bella potenza.
+
+394
+00:22:19,040 --> 00:22:22,240
+Invece, a proposito di Filippo, invece tu cosa ci racconti per quanto
+
+395
+00:22:22,240 --> 00:22:22,800
+riguarda?
+
+396
+00:22:22,800 --> 00:22:26,320
+Sì, prima ti volevo fare una domanda, non so se l'hai fatto,
+
+397
+00:22:26,320 --> 00:22:30,160
+ma questa tipologia di Mac si carica anche col Power Bank Bene.
+
+398
+00:22:30,160 --> 00:22:34,080
+Ecco, questa sarebbe una bella cosa da fare, da provare.
+
+399
+00:22:34,080 --> 00:22:38,880
+Dovrei staccare essenzialmente il cavo, che tra l'altro è colorato dello stesso
+
+400
+00:22:38,960 --> 00:22:43,040
+colore del Mac, che è bel punto di come si può dire,
+
+401
+00:22:43,040 --> 00:22:43,840
+di stile.
+
+402
+00:22:43,840 --> 00:22:49,200
+Molto interessante invece del bianco, tra virgolette, solito, ma è in fila
+
+403
+00:22:49,200 --> 00:22:50,480
+di trecce molto carino.
+
+404
+00:22:50,480 --> 00:22:53,840
+Ma al di là di quello, dovrei riuscire a staccare il jack,
+
+405
+00:22:53,920 --> 00:22:59,360
+diciamo che è una presa USB C, staccarlo dal trasformatore, mettergli un
+
+406
+00:22:59,360 --> 00:23:02,920
+adattatore e collegarlo a una powerbank perché ce l'ho tutte USB A,
+
+407
+00:23:02,920 --> 00:23:03,640
+chiamiamole.
+
+408
+00:23:03,640 --> 00:23:06,360
+Dovrei provare a vedere se riesce a funzionare.
+
+409
+00:22:59,760 --> 00:23:07,160
+Non ho mai provato.
+
+410
+00:23:07,400 --> 00:23:11,560
+Secondo me poi anche attaccare semplicemente il Powerbank a una porta USB
+
+411
+00:23:11,560 --> 00:23:11,880
+C.
+
+412
+00:23:11,880 --> 00:23:15,800
+Ovviamente perdi la porta, però dovrebbe caricare anche dalle porte USB C.
+
+413
+00:23:15,960 --> 00:23:18,040
+Ok, questa è una cosa che non sapevo e proverò.
+
+414
+00:23:18,040 --> 00:23:19,880
+Sicuramente sarà una delle cose che farò.
+
+415
+00:23:19,880 --> 00:23:23,320
+Quello che ti posso dire è una cosa che ho fatto invece
+
+416
+00:23:23,320 --> 00:23:27,240
+in mobilità: che questa è interessante, ho utilizzato invece il MyBook Air
+
+417
+00:23:27,320 --> 00:23:29,000
+come power bank dell'iPhone.
+
+418
+00:23:29,000 --> 00:23:29,640
+Incredibile!
+
+419
+00:23:29,640 --> 00:23:35,560
+Cioè, io avevo il portatile attorno al 90% in quel momento, ho
+
+420
+00:23:35,560 --> 00:23:41,000
+collegato l'iPhone al portatile e si è caricato più velocemente di quando
+
+421
+00:23:41,000 --> 00:23:42,440
+si carica sulla macchina.
+
+422
+00:23:42,440 --> 00:23:43,800
+E questa è una cosa particolare.
+
+423
+00:23:43,800 --> 00:23:46,120
+Non so per quale motivo quale sia la specifica.
+
+424
+00:23:46,120 --> 00:23:49,720
+Fatto sta che ci ho messo molto meno tempo a ricaricare quel
+
+425
+00:23:49,720 --> 00:23:53,640
+20 che mi serviva, quel 20% per portarlo da circa l'1 al
+
+426
+00:23:53,640 --> 00:23:56,120
+20% minimo, perché poi devo andare a fare le fotografie.
+
+427
+00:23:56,120 --> 00:24:00,760
+Con il MacBooker ci ho messo molto meno tempo rispetto a attaccarlo
+
+428
+00:24:00,760 --> 00:24:04,200
+al cavo della macchina, non direttamente al trasformatore, in questo caso, ma
+
+429
+00:24:04,200 --> 00:24:09,240
+al cavo USB che ho collegato alla macchina per diciamo usare Apple
+
+430
+00:24:09,560 --> 00:24:10,680
+Car Play.
+
+431
+00:24:10,680 --> 00:24:13,480
+E quindi è stata anche questa una bella sorpresa.
+
+432
+00:24:13,480 --> 00:24:15,800
+Si può utilizzare come power bank il MacBook.
+
+433
+00:24:16,040 --> 00:24:20,760
+Credo perché l'iPhone ha il fast charging e probabilmente il vattaggio delle
+
+434
+00:24:20,760 --> 00:24:24,840
+batterie dell'air sono comunque elevato e permette il fast charging.
+
+435
+00:24:25,240 --> 00:24:28,040
+Sui vattaggi e su quelle cose lì nulla ne so.
+
+436
+00:24:28,040 --> 00:24:33,320
+Ma probabilmente questo è uno dei motivi per cui tutto funziona.
+
+437
+00:24:33,320 --> 00:24:37,880
+Quindi, dalla prossima volta mi porto quando faremo di nuovo A2, farò
+
+438
+00:24:37,880 --> 00:24:40,280
+questa prova con il Power Bank.
+
+439
+00:24:40,280 --> 00:24:42,360
+Se lo carica o se non lo carica, vediamo un po'.
+
+440
+00:24:42,360 --> 00:24:46,080
+In ogni caso, sicuramente l'iPhone ha ringraziato di avere il mio booker
+
+441
+00:24:46,240 --> 00:24:48,480
+come Power Bank ed è stato molto utile.
+
+442
+00:24:48,480 --> 00:24:49,840
+È veramente una sorpresa.
+
+443
+00:24:44,920 --> 00:24:50,960
+Questo portatile.
+
+444
+00:24:51,200 --> 00:24:57,280
+Devo ancora vedere tutte le varie finezze che perdevo con Intel, perché
+
+445
+00:24:57,520 --> 00:25:02,160
+sapete il sistema operativo in base all'hardware su cui era equipaggiato, magari
+
+446
+00:25:02,160 --> 00:25:04,400
+perdeva delle funzionalità in cui mi ero abituato.
+
+447
+00:25:04,400 --> 00:25:08,240
+Quindi adesso devo cercare di recuperare quelle piccole finezze che non riuscivo
+
+448
+00:25:08,240 --> 00:25:13,120
+a utilizzare prima e poi, ovviamente, ne parleremo ancora a breve.
+
+449
+00:25:13,120 --> 00:25:16,080
+Perché è vero che è da un po' che ciò, sarà più
+
+450
+00:25:16,080 --> 00:25:19,840
+di un mese quasi, ma tra una cosa e l'altra, tra lavoro,
+
+451
+00:25:19,840 --> 00:25:23,840
+tra vacanze, podcast e tutte le cose che devo combinare sempre nella
+
+452
+00:25:23,840 --> 00:25:27,440
+vita, purtroppo non ho ancora avuto modo di esplorare tutto quanto, ma
+
+453
+00:25:27,440 --> 00:25:31,680
+ci arriveremo piano piano con tanta voglia e sagacia, diciamo.
+
+454
+00:25:31,680 --> 00:25:36,160
+Invece, tornando a bomba che di McBooker ne abbiamo parlato già abbastanza.
+
+455
+00:25:36,160 --> 00:25:39,680
+Invece, voglio proprio sentire cosa ci racconta Filippo perché ne ha di
+
+456
+00:25:39,680 --> 00:25:40,560
+cose da raccontare.
+
+457
+00:25:40,880 --> 00:25:45,360
+Oggi, ovviamente, l'argomento è specifico e quindi cercherò di parlarne.
+
+458
+00:25:45,520 --> 00:25:49,600
+Non abbiamo parlato, secondo me, quasi mai o forse incidentalmente nelle scorse
+
+459
+00:25:49,600 --> 00:25:55,040
+puntate, ma ho ordinato a maggio, all'11 maggio, ho ordinato il mio
+
+460
+00:25:55,360 --> 00:25:57,760
+primo standing desk.
+
+461
+00:25:57,760 --> 00:26:02,400
+La marca credo che sia FlexBit, un'arma del genere, comunque è un
+
+462
+00:26:02,400 --> 00:26:03,600
+produttore tedesco.
+
+463
+00:26:03,600 --> 00:26:08,160
+Diciamo la prima cosa che voglio raccontare è l'epopea che Roberto ha
+
+464
+00:26:08,160 --> 00:26:14,320
+seguito in diretta praticamente nella consegna dello standing desk, perché alla fine
+
+465
+00:26:14,320 --> 00:26:17,760
+ci sono stati una serie di piccoli, mettiamola così, problemi, e quindi
+
+466
+00:26:17,760 --> 00:26:21,360
+alla fine di tutto il risultato mi è arrivato completo lo standing
+
+467
+00:26:21,360 --> 00:26:25,840
+desk il 30 di maggio, che effettivamente non è proprio una consegna
+
+468
+00:26:26,240 --> 00:26:29,280
+da 3 a 7 giorni, come raccontavano.
+
+469
+00:26:29,280 --> 00:26:32,680
+Il problema grosso è stato che in pratica la prima consegna è
+
+470
+00:26:29,840 --> 00:26:34,680
+stata rallentata e ho dovuto sollecitarla.
+
+471
+00:26:34,840 --> 00:26:39,560
+Quando finalmente mi è arrivata, c'era il tavolo, il pianale del tavolo,
+
+472
+00:26:39,560 --> 00:26:40,760
+c'erano le ruote.
+
+473
+00:26:40,760 --> 00:26:44,520
+Ne parlerò più in dettaglio dopo del perché ho scelto le ruote
+
+474
+00:26:44,520 --> 00:26:47,320
+per il mio standing desk, ma non c'era lo standing desk.
+
+475
+00:26:47,560 --> 00:26:52,760
+Scrivo all'assistenza e mi dicono: Eh sì, lo standing desk sarà il
+
+476
+00:26:52,760 --> 00:26:56,600
+modello che ha scelto lei, che era nero invece che bianco, sarà
+
+477
+00:26:56,600 --> 00:26:59,400
+in consegna a fine giugno.
+
+478
+00:26:59,400 --> 00:27:02,280
+Se vuole, però può riceverlo quello bianco.
+
+479
+00:27:02,280 --> 00:27:05,240
+Che ovviamente ho detto: Sì, sì, grazie, datemi quello bianco, anzi, ma
+
+480
+00:27:05,240 --> 00:27:07,960
+perché non me l'avete detto quando ho fatto l'ordine, che era la
+
+481
+00:27:07,960 --> 00:27:08,680
+cosa più semplice.
+
+482
+00:27:08,680 --> 00:27:13,240
+Comunque, a parte questo piccolo inghippo, diciamo, dove alla fine ci ho
+
+483
+00:27:13,240 --> 00:27:17,240
+messo una ventina di giorni per avere lo standing desk, sono riuscito
+
+484
+00:27:17,240 --> 00:27:17,720
+a montarlo.
+
+485
+00:27:17,720 --> 00:27:20,840
+Le mie capacità di montaggio manuale sono praticamente pari a zero.
+
+486
+00:27:20,840 --> 00:27:23,240
+Quindi è veramente molto semplice da montare.
+
+487
+00:27:23,240 --> 00:27:24,520
+Mettiamoli in questi termini.
+
+488
+00:27:24,520 --> 00:27:26,920
+Lo standing desk è motorizzato.
+
+489
+00:27:27,160 --> 00:27:32,040
+Prima raccontare perché volevo lo standing desk, lo standing desk, diciamo sono
+
+490
+00:27:32,040 --> 00:27:38,280
+quei tavoli che possono cambiare di altezza, diciamo, piano del tavolo.
+
+491
+00:27:38,440 --> 00:27:43,720
+In questo caso è motorizzato, quindi schiacciando un tastierino, sostanzialmente si può
+
+492
+00:27:43,720 --> 00:27:46,760
+regolare o a manina bella, cioè quindi con un tasto più un
+
+493
+00:27:46,760 --> 00:27:52,200
+tasto meno, oppure credo fino a quattro altezze preimpostate, mettiamolo in questi
+
+494
+00:27:52,200 --> 00:27:52,680
+termini.
+
+495
+00:27:52,680 --> 00:27:57,560
+Diciamo che io è da molto che volevo testare, provare a utilizzare
+
+496
+00:27:57,560 --> 00:28:00,920
+uno standing desk, perché ho letto, e non è solo questo libro,
+
+497
+00:28:00,920 --> 00:28:05,080
+ma diciamo è il libro che consiglio se qualcuno vuole approfondire l'argomento:
+
+498
+00:28:05,080 --> 00:28:10,640
+La Mente estesa, di Annie Murphy Pau, che praticamente ragiona su varie
+
+499
+00:28:10,600 --> 00:28:14,440
+su varie cose, adesso qui non ci interessa, ma uno degli studi
+
+500
+00:28:14,440 --> 00:28:19,440
+scientifici che riporta e che, diciamo, mi ha sempre incuriosito, siccome di
+
+501
+00:28:19,440 --> 00:28:23,280
+fatto la mia attività è chiamamola così creativa, nel senso che sia
+
+502
+00:28:23,280 --> 00:28:28,000
+come legale, sia come scrittore di blog, sia come creatore di video
+
+503
+00:28:28,000 --> 00:28:34,320
+piuttosto che di podcast, diciamo, la creatività o comunque essere più creativo
+
+504
+00:28:34,320 --> 00:28:36,160
+è un plus, diciamo.
+
+505
+00:28:36,800 --> 00:28:40,400
+Per molti versi ci sono molti studi scientifici che dimostrano come noi
+
+506
+00:28:40,400 --> 00:28:46,480
+non siamo fatti per ragionare o comunque per creare seduti, ma l'uomo
+
+507
+00:28:46,880 --> 00:28:47,920
+si è evoluto
+
+508
+00:28:49,040 --> 00:28:51,120
+pensando in piedi, chiamiamolo in questi termini.
+
+509
+00:28:51,120 --> 00:28:57,440
+Quindi con maggiore mobilità, con maggiore possibilità poi di espandere la mente,
+
+510
+00:28:57,440 --> 00:28:58,560
+come è il titolo del libro.
+
+511
+00:28:58,640 --> 00:29:02,560
+Ovviamente il libro esamina svariati argomenti e così via.
+
+512
+00:29:02,560 --> 00:29:05,200
+Ruardo perché secondo me è molto interessante.
+
+513
+00:29:05,200 --> 00:29:07,680
+La questione di lavorare in piedi, perché è una cosa che seguo
+
+514
+00:29:07,760 --> 00:29:09,840
+molto da vicino perché mi piacerebbe davvero tanto.
+
+515
+00:29:09,840 --> 00:29:13,360
+Nelle poche volte che capita di avere un tavolo un po' più
+
+516
+00:29:13,360 --> 00:29:16,960
+in alto, io cerco di lavorare in piedi neanche con lo sgabello
+
+517
+00:29:17,040 --> 00:29:17,920
+diciamo alto.
+
+518
+00:29:17,920 --> 00:29:20,400
+Quindi cerco di lavorare anche io così perché mi piace molto.
+
+519
+00:29:20,400 --> 00:29:23,280
+Ma una cosa che riguarda invece, ad esempio, il podcast, che secondo
+
+520
+00:29:23,280 --> 00:29:25,440
+me è una cosa che non tutti sanno e non prendono in
+
+521
+00:29:25,440 --> 00:29:28,240
+considerazione, è che in questo momento sia io che Filippo abbiamo la
+
+522
+00:29:28,240 --> 00:29:30,480
+posizione sbagliata per parlare al podcast.
+
+523
+00:29:30,480 --> 00:29:34,880
+Perché in questo momento stiamo chiudendo il diaframma, perché siamo seduti male.
+
+524
+00:29:34,880 --> 00:29:39,120
+In realtà bisogna sedersi tendenzialmente sulla punta della sedia per riuscire a
+
+525
+00:29:39,120 --> 00:29:39,840
+stare retti.
+
+526
+00:29:39,840 --> 00:29:42,800
+E la cosa migliore, in realtà, quando si fa un podcast, è
+
+527
+00:29:42,800 --> 00:29:47,280
+quello di stare in piedi perché avete la cassa toracica completamente distesa.
+
+528
+00:29:47,280 --> 00:29:51,440
+Non siete piegati su se stessi o verso il microfono o comunque
+
+529
+00:29:51,440 --> 00:29:53,440
+verso qualche cosa come tipo il video.
+
+530
+00:29:53,440 --> 00:29:56,000
+E quello vi aiuta anche dal punto di vista della voce.
+
+531
+00:29:56,000 --> 00:29:59,440
+Quindi, è una cosa interessante quella di lavorare in piedi, oltre a
+
+532
+00:29:59,440 --> 00:30:02,840
+migliorare il ragionamento della testa, migliora anche la voce.
+
+533
+00:29:59,840 --> 00:30:04,440
+Quindi tornando a noi, diciamo,
+
+534
+00:30:04,600 --> 00:30:09,240
+ho scelto un tavolo molto piccolo perché è 120 cm di lunghezza
+
+535
+00:30:09,240 --> 00:30:15,160
+per 60 di larghezza, ma l'ho scelto volutamente piccolo perché volevo che
+
+536
+00:30:15,160 --> 00:30:21,080
+fosse maneggevole, appunto, perché la mia idea era di una scrivania da
+
+537
+00:30:21,080 --> 00:30:26,200
+una parte forzatamente minimale, quindi con poca roba sopra, e dall'altra comoda
+
+538
+00:30:26,520 --> 00:30:30,120
+da muovere perché è una scrivania per casa, io lavoro sia a
+
+539
+00:30:30,120 --> 00:30:33,800
+casa che in ufficio, e l'idea di fondo era quella di poter
+
+540
+00:30:33,800 --> 00:30:37,080
+spostare il mio stand in desk ovunque per la casa, più o
+
+541
+00:30:37,080 --> 00:30:41,720
+meno ovunque per la casa, proprio perché attualmente la casa mia è
+
+542
+00:30:41,720 --> 00:30:45,960
+strutturata in un ufficio, il vero e proprio un piccolo studiolo dove
+
+543
+00:30:45,960 --> 00:30:49,160
+lavoro abitualmente in tutto il periodo invernale, chiamiamolo così per
+
+544
+00:30:50,200 --> 00:30:53,000
+quando le temperature lo consentono, mettiamo in questi termini.
+
+545
+00:30:53,000 --> 00:30:57,400
+Ma purtroppo lo studiolo è senza area condizionata e vivendo in Emilia
+
+546
+00:30:57,400 --> 00:31:02,600
+Romagna e in pianura padana, diciamo che nel periodo estivo l'area condizionata
+
+547
+00:31:02,600 --> 00:31:06,040
+diventa abbastanza essenziale, soprattutto se si vuole lavorare.
+
+548
+00:31:06,200 --> 00:31:11,080
+Quindi l'idea di fondo era quella di poter utilizzare appunto lo standing
+
+549
+00:31:11,080 --> 00:31:16,120
+des un po' per tutta casa, soprattutto nel mio studio cosiddetto estivo,
+
+550
+00:31:16,120 --> 00:31:20,840
+dove ho uno split dove posso almeno sopravvivere e non boccheggiare.
+
+551
+00:31:20,840 --> 00:31:26,280
+Quindi, oltre allo standing desk semplice, ho comprato queste rotelline un po'
+
+552
+00:31:26,280 --> 00:31:29,240
+come il Mac Pro, diciamo che non costano come il Mac Pro,
+
+553
+00:31:29,240 --> 00:31:34,360
+che costassero 30 euro quindi lontano, esatto.
+
+554
+00:31:34,360 --> 00:31:38,440
+E a questo punto ho avuto la possibilità, e l'ho testato e
+
+555
+00:31:38,440 --> 00:31:42,280
+l'ho fatto anche vedere a Roberto nelle varie configurazioni, nei vari ambienti
+
+556
+00:31:42,280 --> 00:31:46,080
+della casa, ho avuto la possibilità appunto di muoverlo avanti e indietro.
+
+557
+00:31:46,240 --> 00:31:50,160
+A fronte di tutto questo, ho fatto anche un'altra piccola cosa che
+
+558
+00:31:50,160 --> 00:31:53,200
+effettivamente si è rivelata molto interessante.
+
+559
+00:31:53,200 --> 00:31:59,120
+Ovvero, da sempre l'iMac 27 Pollice 5K che è su un braccio
+
+560
+00:31:59,120 --> 00:32:03,120
+meccanico montato su un braccio ovesa, che sono sempre tenuto in ufficio,
+
+561
+00:32:03,120 --> 00:32:06,480
+diciamo, ho deciso di trasferirlo in casa.
+
+562
+00:32:06,720 --> 00:32:11,360
+Questo perché alla fine in ufficio non ci vado tantissimo, diciamo, e
+
+563
+00:32:11,360 --> 00:32:15,600
+soprattutto è il Mac con lo schermo più generoso, un 5K che
+
+564
+00:32:15,600 --> 00:32:19,200
+comunque è veramente un signore schermo.
+
+565
+00:32:19,200 --> 00:32:22,320
+Se siete interessati a vederlo, ho scritto un articolo.
+
+566
+00:32:22,960 --> 00:32:26,320
+All'articolo ci sono anche legate tutte le varie foto.
+
+567
+00:32:26,320 --> 00:32:30,720
+Quindi è possibile vedere tutto l'arzgogolo che ho fatto è un acquisto
+
+568
+00:32:30,720 --> 00:32:33,040
+del luglio 2018.
+
+569
+00:32:33,040 --> 00:32:37,440
+E quindi nello standing desk ho agganciato questo sistema che, tra l'altro,
+
+570
+00:32:37,600 --> 00:32:42,640
+è doppiamente comodo, perché ovviamente l'altezza del monitor quando sono seduto, l'altezza
+
+571
+00:32:42,640 --> 00:32:47,120
+del monitor quando sono in piedi, devono essere per essere ergonomici, devono
+
+572
+00:32:47,120 --> 00:32:47,760
+essere differenti.
+
+573
+00:32:47,760 --> 00:32:51,120
+E col Mac che si può alzare e abbassare in base alle
+
+574
+00:32:51,120 --> 00:32:56,080
+mie esigenze, proprio perché su un braccio mobile sostanzialmente ha creato un
+
+575
+00:32:56,080 --> 00:32:58,640
+sistema molto ergonomico e molto comodo.
+
+576
+00:32:58,640 --> 00:33:01,520
+Appunto, anche perché mentre lo sposto lo riesco a
+
+577
+00:33:02,960 --> 00:33:04,400
+chiudere su se stesso.
+
+578
+00:33:04,400 --> 00:33:09,440
+Quando invece devo lavorare posso espandere il braccio e gestirlo in maniera
+
+579
+00:33:09,440 --> 00:33:14,800
+molto più ingombrante, chiamiamolo così, quindi diventa piccolo mentre deve muoversi e
+
+580
+00:33:14,800 --> 00:33:15,120
+grande
+
+581
+00:33:16,320 --> 00:33:19,440
+quando invece non devo lavorarci sopra.
+
+582
+00:33:19,440 --> 00:33:22,880
+Tra l'altro, anche lì io su tutti i miei Mac di lavoro,
+
+583
+00:33:22,880 --> 00:33:27,520
+chiamiamoli in questi termini, ho un gruppo di continuità, perché, ovviamente, sia
+
+584
+00:33:28,080 --> 00:33:31,640
+la maggior parte dei Mac che ho io sono desktop, quindi comunque
+
+585
+00:33:29,920 --> 00:33:35,320
+non hanno una batteria sul dispositivo, ovviamente.
+
+586
+00:33:35,560 --> 00:33:38,040
+Dall'altra, recentemente ho anche avuto vari problemi.
+
+587
+00:33:38,600 --> 00:33:44,200
+Probabilmente sono stati anche registrati nelle precedenti puntate di due podcast e
+
+588
+00:33:44,200 --> 00:33:47,640
+quindi ho avuto dei problemi con l'elettricità soprattutto nel periodo estivo.
+
+589
+00:33:47,640 --> 00:33:51,640
+Per cui ho deciso comunque di montare il gruppo di continuità direttamente
+
+590
+00:33:51,640 --> 00:33:52,920
+sullo standing desk.
+
+591
+00:33:53,080 --> 00:33:57,560
+Questo mi ha permesso anche di muovere tutto senza neanche dover spegnere
+
+592
+00:33:57,560 --> 00:34:01,000
+l'attrezzatura, perché di fatto il gruppo di continuità, ovviamente per poco tempo,
+
+593
+00:34:01,000 --> 00:34:02,360
+ma è quello che mi interessa.
+
+594
+00:34:02,360 --> 00:34:05,880
+Mi permette di spostare lo stand in desk senza nessun tipo di
+
+595
+00:34:06,200 --> 00:34:10,200
+problema da una stanza all'altra, continuando a mantenere il computer acceso.
+
+596
+00:34:10,200 --> 00:34:15,480
+Addirittura posso alzare abbassare lo standing desk senza neanche avere la corrente
+
+597
+00:34:15,480 --> 00:34:16,120
+elettrica.
+
+598
+00:34:16,280 --> 00:34:19,800
+Da ultimo, questo setup è veramente minimale e complessivo.
+
+599
+00:34:19,800 --> 00:34:24,440
+Perché all'interno di questo setup sono riuscito ad agganciare anche il braccio
+
+600
+00:34:26,040 --> 00:34:29,720
+col microfono, ovviamente per fare podcast e quindi riesco a fare rispetto
+
+601
+00:34:29,720 --> 00:34:33,320
+a Roberto il podcast in piedi sostanzialmente.
+
+602
+00:34:33,560 --> 00:34:36,280
+Addirittura per i webinar una webcam.
+
+603
+00:34:36,280 --> 00:34:39,720
+Quindi ho anche la webcam, oltre a quella della Mac che ormai
+
+604
+00:34:39,720 --> 00:34:43,880
+è abbastanza anziana ed è abbastanza poco performante.
+
+605
+00:34:43,880 --> 00:34:46,040
+Invece sono riuscito a montarci anche sopra.
+
+606
+00:34:46,040 --> 00:34:49,480
+Addirittura anche le luci, anche se non è comodissimo, perché dopo diventa
+
+607
+00:34:49,480 --> 00:34:50,200
+un po' più.
+
+608
+00:34:50,200 --> 00:34:53,640
+Diciamo che quando avrò i soldi e la voglia, le legato light
+
+609
+00:34:53,800 --> 00:34:57,480
+sono molto più piccole, sono luci LD e quindi potrei utilizzare queste
+
+610
+00:34:57,480 --> 00:34:59,560
+che occupano veramente molto meno spazio.
+
+611
+00:34:59,560 --> 00:35:04,680
+Attualmente invece ho delle luci abbastanza ingombranti, che non sono comodissime, ma
+
+612
+00:35:04,680 --> 00:35:07,720
+comunque posso veramente fare un po' tutto quello che voglio.
+
+613
+00:35:07,720 --> 00:35:11,960
+Recentemente ho sperimentato sia con Lucio che con Roberto con esiti non
+
+614
+00:35:11,960 --> 00:35:13,320
+perfetti, mettiamola così.
+
+615
+00:35:13,320 --> 00:35:17,600
+L'utilizzo come webcam invece dell'iPhone montato su Gimbal, ma questo è tutto
+
+616
+00:35:17,600 --> 00:35:21,440
+un altro discorso che eventualmente approfondiremo più avanti.
+
+617
+00:35:14,840 --> 00:35:22,240
+Assolutamente sì.
+
+618
+00:35:22,560 --> 00:35:26,640
+Tra l'altro, Gimbal, che abbiamo avuto il modo di vederlo assieme, è
+
+619
+00:35:26,640 --> 00:35:28,000
+veramente una figata assurda.
+
+620
+00:35:28,000 --> 00:35:32,880
+Scusatemi, il francesismo perché, secondo me, è interessante non solo dal punto
+
+621
+00:35:32,880 --> 00:35:37,600
+di vista ludico, perché ha delle capacità che diventano interessanti anche dal
+
+622
+00:35:37,600 --> 00:35:42,080
+punto di vista professionale per chi deve utilizzare filmati o fare foto
+
+623
+00:35:42,080 --> 00:35:45,440
+a 360 gradi, le famose bubble view.
+
+624
+00:35:45,440 --> 00:35:47,920
+Ad esempio, nel mio caso, sarebbe davvero molto interessante.
+
+625
+00:35:47,920 --> 00:35:51,840
+Perché potrei portarmi in questo gimbal, metterlo lì in mezzo alla stanza,
+
+626
+00:35:51,840 --> 00:35:55,760
+fargli fare la scansione della stanza, cambiare stanza piano piano e ho
+
+627
+00:35:55,760 --> 00:35:58,880
+praticamente la scansione di tutto l'appartamento.
+
+628
+00:35:58,880 --> 00:36:01,440
+Diventa molto utile dal punto di vista del lavoro.
+
+629
+00:36:01,440 --> 00:36:05,280
+Altra cosa interessante di questo gimbal che abbiamo visto in azione, che
+
+630
+00:36:05,280 --> 00:36:08,720
+mi ha ripreso mentre stavo grillando, tra le altre cose, e che
+
+631
+00:36:08,720 --> 00:36:09,840
+è incredibile!
+
+632
+00:36:09,840 --> 00:36:14,880
+Che tiene l'inquadratura sulla faccia, che riesce a percepire e si muove
+
+633
+00:36:14,880 --> 00:36:19,040
+da solo, mantiene la verticalità della ripresa.
+
+634
+00:36:19,360 --> 00:36:27,440
+Fa veramente particolarmente affascinante vedere questo mezzo, come si può dire, semimeccanico
+
+635
+00:36:27,440 --> 00:36:32,560
+che riesce a seguire qualcosa grazie alle indicazioni che viene data dall'iPhone,
+
+636
+00:36:32,560 --> 00:36:36,880
+è un qualcosa che assomiglia veramente a qualcosa di cibernetico addirittura.
+
+637
+00:36:37,280 --> 00:36:40,480
+Pensa da solo, ragiona da solo e si autostabilizza.
+
+638
+00:36:40,480 --> 00:36:42,240
+È veramente spettacolare.
+
+639
+00:36:42,640 --> 00:36:46,800
+Altra cosa che secondo me è davvero spettacolare: questo standing desk che
+
+640
+00:36:46,800 --> 00:36:48,480
+è molto molto interessante.
+
+641
+00:36:48,800 --> 00:36:53,360
+È un modo di lavorare diverso, e anche semplicemente avere la possibilità
+
+642
+00:36:53,360 --> 00:36:57,760
+di passare dalla modalità seduta a quella in piedi vi può cambiare
+
+643
+00:36:57,760 --> 00:36:59,040
+decisamente la vita.
+
+644
+00:36:59,280 --> 00:37:04,120
+Negli uffici di un certo livello, soprattutto americani, potete trovare delle scrivanie
+
+645
+00:36:59,920 --> 00:37:06,600
+di questo tipo, in Italia ne ho viste pochissime.
+
+646
+00:37:06,840 --> 00:37:11,560
+In vari uffici si tende ancora a lavorare da seduto, ovviamente, quando
+
+647
+00:37:11,800 --> 00:37:15,800
+ci sono quelle società che hanno, però, ad esempio, degli spazi che
+
+648
+00:37:15,800 --> 00:37:19,720
+lasciano a disposizione dei dipendenti, degli spazi comuni, ce ne sono pochi,
+
+649
+00:37:19,720 --> 00:37:22,840
+però, quando ci sono, è più facile trovare degli spazi che ti
+
+650
+00:37:22,840 --> 00:37:24,840
+permettono anche di lavorare in piedi.
+
+651
+00:37:24,840 --> 00:37:31,320
+Quindi questa sua bella interpretazione di questa chiamiamola workstation mobile, che permette
+
+652
+00:37:31,320 --> 00:37:36,680
+addirittura di alzarsi autonomamente grazie al sistema di
+
+653
+00:37:38,360 --> 00:37:39,800
+un motore elettrico sostanzialmente.
+
+654
+00:37:39,960 --> 00:37:44,040
+No, il gruppo di continuità, grazie al gruppo di continuità, è molto
+
+655
+00:37:44,040 --> 00:37:44,520
+interessante.
+
+656
+00:37:44,520 --> 00:37:48,360
+È autonomo sotto tutti i punti di vista, girare per casa, cercare
+
+657
+00:37:48,360 --> 00:37:52,040
+in questo caso, vabbè, il punto migliore, più fresco per lavorare, ma
+
+658
+00:37:52,040 --> 00:37:55,960
+d'altra parte può diventare interessante per riuscire a trovare il punto più
+
+659
+00:37:55,960 --> 00:37:59,640
+isolato o quello che ti permette di concentrarti meglio in base alle
+
+660
+00:37:59,720 --> 00:38:02,920
+esigenze della famiglia, è davvero molto molto interessante.
+
+661
+00:38:03,160 --> 00:38:07,000
+Secondo me anche la questione che si possa far girare per casa,
+
+662
+00:38:07,000 --> 00:38:10,440
+è un qualcosa che ti può cambiare la vita, tanto quanto può
+
+663
+00:38:10,440 --> 00:38:16,920
+cambiare la vita della batteria del MacBookare in mobilità è sicuramente un
+
+664
+00:38:16,920 --> 00:38:18,040
+passaggio.
+
+665
+00:38:18,040 --> 00:38:21,160
+Diciamo che lo sentite veramente a livello di qualità di lavoro.
+
+666
+00:38:21,160 --> 00:38:25,000
+Sì, oggi non so se è effetto placebo oppure è diverso, però
+
+667
+00:38:25,080 --> 00:38:28,360
+devo dire la verità: ho scritto qualche atto in parte in piedi,
+
+668
+00:38:28,360 --> 00:38:33,000
+perché ovviamente stare poi in piedi troppo incide drasticamente sulla schiena.
+
+669
+00:38:33,000 --> 00:38:38,440
+Tutto, comunque appunto la possibilità di cambiare posizione, di non essere legati
+
+670
+00:38:38,440 --> 00:38:42,440
+fisicamente, soprattutto legati alla sedia, è un approccio anche mentale diverso.
+
+671
+00:38:42,440 --> 00:38:46,640
+Poi, appunto, non so se questo è legato all'acquisto, che non è
+
+672
+00:38:46,640 --> 00:38:50,560
+neanche stato eccessivamente dispendioso, perché ho speso meno di 400 euro che
+
+673
+00:38:50,560 --> 00:38:54,160
+complessivamente con spese di spedizione già comprese e tutto il resto, mio
+
+674
+00:38:54,240 --> 00:38:57,360
+ovviamente non era super carrozzato come sistema.
+
+675
+00:38:57,360 --> 00:39:01,600
+Addirittura questa casa produttrice ti dà la possibilità, se vuoi di avere
+
+676
+00:39:01,600 --> 00:39:06,880
+sotto lo standing desk di tapirano la bicicletta, la ciclette.
+
+677
+00:39:06,880 --> 00:39:11,280
+Quindi esistono delle soluzioni, diciamo, vabbè, anche un po' oltre, mettiamola in
+
+678
+00:39:11,280 --> 00:39:12,480
+questi termini.
+
+679
+00:39:12,720 --> 00:39:18,560
+Tuttavio dire la verità: anche facendo il podcast in piedi recentemente, mi
+
+680
+00:39:18,560 --> 00:39:25,120
+sono trovato molto più libero, molto più svincolato anche dalla postazione,
+
+681
+00:39:26,400 --> 00:39:30,880
+il fatto di poter cambiare stanza che è piacimento, anche se poi
+
+682
+00:39:30,880 --> 00:39:35,680
+è vero, fino a un certo punto, perché ovviamente lavorare da casa
+
+683
+00:39:35,920 --> 00:39:40,080
+però ormai è diventato un quando posso lavoro da casa perché alla
+
+684
+00:39:40,080 --> 00:39:44,560
+fine diventa quasi più comodo e mi permette di svolgere meglio certe
+
+685
+00:39:44,560 --> 00:39:45,120
+cose.
+
+686
+00:39:45,120 --> 00:39:49,920
+Diciamo, mi permette anche di cambiare luogo all'interno di un luogo fisicamente
+
+687
+00:39:49,920 --> 00:39:50,640
+limitato.
+
+688
+00:39:50,640 --> 00:39:55,120
+Quindi, comunque è interessante, probabilmente non per tutti, sicuramente non per tutti
+
+689
+00:39:55,120 --> 00:40:01,280
+gli uffici, ma può essere utile in alcune soluzioni, soprattutto se si
+
+690
+00:40:01,280 --> 00:40:05,840
+vuole essere flessibile o se addirittura adesso con le rotelle si vuole
+
+691
+00:40:05,840 --> 00:40:11,120
+avere la possibilità di spostare anche di riconfigurare gli uffici da un
+
+692
+00:40:11,120 --> 00:40:12,000
+certo punto di vista.
+
+693
+00:40:12,000 --> 00:40:18,160
+Comunque maggiori informazioni più avanti quando avrò anch'io ho avuto modo veramente
+
+694
+00:40:18,160 --> 00:40:22,160
+di testare tutto il sistema con calma per tempo.
+
+695
+00:40:22,240 --> 00:40:26,160
+Diciamo che questa è appunto una registrazione stemporanea da un certo punto
+
+696
+00:40:26,160 --> 00:40:26,800
+di vista.
+
+697
+00:40:26,800 --> 00:40:30,600
+Abbiamo di fuori di fuori bimbi che stanno giocando e è una
+
+698
+00:40:30,600 --> 00:40:35,800
+situazione diciamo inusuale, anche le registrazioni spero che sia venute decentemente perché
+
+699
+00:40:35,800 --> 00:40:39,160
+abbiamo fatto un po' di tutta improvvisata, mettiamola in questi termini.
+
+700
+00:40:39,160 --> 00:40:42,920
+Per cui da una parte è molto bello potersi vedere direttamente senza
+
+701
+00:40:42,920 --> 00:40:48,680
+i problemi di internet, tra l'altro dall'altro, però, ovviamente, non abbiamo minimamente
+
+702
+00:40:48,920 --> 00:40:52,600
+ragionato su come configurare correttamente la stanza, anzi, probabilmente ci sono dei
+
+703
+00:40:52,600 --> 00:40:55,000
+problemi che scoprirò in post produzione.
+
+704
+00:40:55,880 --> 00:41:00,040
+Sicuramente ci saranno, perché questa stanza non è assolutamente trattata, anzi, forse
+
+705
+00:41:00,040 --> 00:41:05,560
+è quella più sfortunata dell'intera casa, perché diciamo che è quasi un
+
+706
+00:41:05,560 --> 00:41:09,400
+semi interrato e a causa di questo c'è molto cemento armato.
+
+707
+00:41:09,560 --> 00:41:13,480
+Sapete benissimo che il cemento armato non è proprio il migliore per
+
+708
+00:41:14,600 --> 00:41:17,880
+abbattere le riflessioni delle nostre parole.
+
+709
+00:41:17,880 --> 00:41:18,600
+Pazienza!
+
+710
+00:41:18,600 --> 00:41:21,640
+La cosa bella è appunto che è stato improvvisato, è stata una
+
+711
+00:41:21,640 --> 00:41:23,160
+bella puntata, secondo me.
+
+712
+00:41:23,480 --> 00:41:28,920
+Oltre a parlarvi delle nostre impressioni con le novità, siamo veramente assieme
+
+713
+00:41:29,080 --> 00:41:29,880
+nella stessa stanza.
+
+714
+00:41:29,880 --> 00:41:31,560
+Raccontaci ci quogliamo negli occhi.
+
+715
+00:41:31,560 --> 00:41:34,200
+È la prima volta in assoluto in questo podcast.
+
+716
+00:41:34,680 --> 00:41:38,600
+Sì, direi che questa puntata 66 ce la possiamo ricordare tranquillamente, non
+
+717
+00:41:38,600 --> 00:41:41,320
+solo per la grigliata, che insomma è andata bene.
+
+718
+00:41:41,320 --> 00:41:44,760
+È sempre un punto interrogativo quando si cucina, sperare che quello che
+
+719
+00:41:44,760 --> 00:41:46,440
+viene cucinato sia apprezzato.
+
+720
+00:41:46,440 --> 00:41:49,400
+In questo caso mi sembra sia andato molto bene perché ho visto
+
+721
+00:41:49,400 --> 00:41:51,160
+che è rimasto molto molto molto poco.
+
+722
+00:41:51,160 --> 00:41:52,200
+Non è rimasto niente.
+
+723
+00:41:52,200 --> 00:41:56,920
+Esattamente, sono rimaste praticamente le briciole quindi indica che il cibo è
+
+724
+00:41:56,920 --> 00:41:59,800
+piaciuto e soprattutto la compagnia è piaciuta davvero tantissimo.
+
+725
+00:41:59,800 --> 00:42:03,240
+Tutti si stanno divertendo, è tutto molto leggero.
+
+726
+00:42:03,240 --> 00:42:05,520
+Anche registare il podcast.
+
+727
+00:42:05,520 --> 00:42:10,440
+Grazie all'ausilio delle nostre mogli, bisogna ricordarlo che queste sante che ci
+
+728
+00:42:10,760 --> 00:42:14,320
+non ascolteranno mai, ma che ringraziamo comunque, anche se non lo sanno.
+
+729
+00:42:14,320 --> 00:42:18,000
+Esatto, e oltretutto ci sopportano, che è la cosa più secondo me,
+
+730
+00:42:14,120 --> 00:42:19,520
+è faticosa di tutto quanto.
+
+731
+00:42:19,600 --> 00:42:22,960
+Perché comunque adesso vedo che in qualche modo hanno legato, hanno i
+
+732
+00:42:22,960 --> 00:42:26,080
+loro punti di vista in comune tante cose di cui parlare.
+
+733
+00:42:26,080 --> 00:42:29,120
+E ci ha permesso appunto di registrare questo podcast.
+
+734
+00:42:29,120 --> 00:42:32,800
+Che direi che a questo punto possiamo avviarci tranquillamente verso la conclusione.
+
+735
+00:42:32,800 --> 00:42:33,520
+Filippo cosa dici?
+
+736
+00:42:33,600 --> 00:42:37,200
+Direi di sì, anche perché siamo in 48 minuti di registrazione, quindi
+
+737
+00:42:37,200 --> 00:42:40,160
+questa è una puntata extra fragostana.
+
+738
+00:42:40,160 --> 00:42:45,840
+Teoricamente avremmo dovuto chiudere la parte estiva del mese d'agosto e invece
+
+739
+00:42:45,840 --> 00:42:47,120
+alla fine siamo detti.
+
+740
+00:42:47,200 --> 00:42:48,320
+E abbiamo fatto questo regalo
+
+741
+00:42:49,600 --> 00:42:52,640
+di questa puntata per non lasciarvi da soli, perché comunque i nostri
+
+742
+00:42:52,640 --> 00:42:54,560
+ascoltatori ci teniamo tutti quanti.
+
+743
+00:42:54,720 --> 00:42:59,520
+Vi ringraziamo anche in questa puntata di aver ascoltato queste due voci
+
+744
+00:42:59,520 --> 00:43:05,280
+che, nonostante non siano al 100%, hanno trovato modo di raccontarvi cose
+
+745
+00:43:05,280 --> 00:43:07,760
+e dirvi le loro impressioni.
+
+746
+00:43:07,760 --> 00:43:11,200
+Se volete supportare il podcast, vi chiediamo come sempre di lasciare una
+
+747
+00:43:11,200 --> 00:43:14,480
+recensione, oppure tante belle stelline a vostra scelta.
+
+748
+00:43:14,480 --> 00:43:16,000
+Bastano anche solo le stelline.
+
+749
+00:43:16,000 --> 00:43:19,440
+Se volete scrivere qualcosa, tanto meglio perché riusciamo a capire qual è
+
+750
+00:43:19,440 --> 00:43:24,240
+la direzione che deve prendere questo podcast, ma giudicare dalle vostre recensioni.
+
+751
+00:43:24,240 --> 00:43:27,440
+Direi che siamo sul punto giusto ed è giusto continuare così.
+
+752
+00:43:27,440 --> 00:43:32,320
+E se invece volete darci un'opinione, chiedere qualcosa, interagire direttamente con noi,
+
+753
+00:43:32,320 --> 00:43:38,960
+vi lasciamo la nostra mail che potete trovare all'indirizzo scrivi.a chiocciolapodcast.it.
+
+754
+00:43:38,960 --> 00:43:42,640
+Come sempre, troverete tutto quanto di cui abbiamo parlato, ma abbiamo parlato
+
+755
+00:43:42,640 --> 00:43:47,280
+essenzialmente del nostro hardware, ma lo troverete linkato all'interno delle note dell'episodio.
+
+756
+00:43:47,280 --> 00:43:54,320
+Oppure potete andare a cercare direttamente nel web all'indirizzo a2podcast.it/66.
+
+757
+00:43:54,320 --> 00:43:58,640
+Per quanto ci riguarda, vi potete trovare un po' dove volete, potete
+
+758
+00:43:58,640 --> 00:44:02,680
+partire come vi dicevo, già all'interno del podcast dalla mia casa digitale
+
+759
+00:43:59,920 --> 00:44:05,720
+che è il mio blog che si chiama Mac e Architettura.
+
+760
+00:44:05,960 --> 00:44:09,480
+Potete trovare all'indirizzo mardonnet.wordpress.com.
+
+761
+00:44:09,480 --> 00:44:12,440
+Non faccio solo questo, ci sono un sacco di podcast, oltre a
+
+762
+00:44:12,440 --> 00:44:12,760
+due.
+
+763
+00:44:12,760 --> 00:44:14,760
+In questo momento me ne vengono tre in mente, ma ce ne
+
+764
+00:44:14,760 --> 00:44:17,320
+sono quasi quattro, se non cinque.
+
+765
+00:44:17,320 --> 00:44:22,040
+Ma lasciamo perdere, troverete tutto quanto, come sempre, lì nel blog.
+
+766
+00:44:22,040 --> 00:44:25,000
+Poi c'è anche il canale YouTube che in questo momento è un
+
+767
+00:44:25,000 --> 00:44:28,840
+po' fermo, ma per il semplice fatto che cambiando hardware non poteva
+
+768
+00:44:28,840 --> 00:44:33,240
+essere diverso, anche perché vorrei fare una micro recensione video e devo
+
+769
+00:44:33,240 --> 00:44:37,960
+superare un po' la mia, diciamo, il mio problema atavico con la
+
+770
+00:44:37,960 --> 00:44:41,320
+mia immagine che continua a non andare ancora d'accordo.
+
+771
+00:44:41,320 --> 00:44:43,720
+Un po' come quando si inizia col podcast che la propria voce
+
+772
+00:44:43,720 --> 00:44:46,440
+non piace per niente, poi si inizia a scendere a patti.
+
+773
+00:44:46,440 --> 00:44:49,160
+Io devo fare la stessa cosa non solo con la voce, che
+
+774
+00:44:49,160 --> 00:44:52,600
+in questo momento tutto sommato riesco a supportare, a non a supportare,
+
+775
+00:44:52,600 --> 00:44:54,920
+ma a sopportare abbastanza bene.
+
+776
+00:44:54,920 --> 00:44:58,680
+Invece, con l'immagine ho ancora qualche difficoltà, e spero di riuscire a
+
+777
+00:44:58,680 --> 00:45:03,400
+divincolarmi da questo piccolo, chiamiamolo, problema mentale,amola così.
+
+778
+00:45:03,400 --> 00:45:04,840
+Invece, Filippo, dove ti troviamo?
+
+779
+00:45:04,840 --> 00:45:07,560
+Mi trovate come al solito a avvocatemec.tv.
+
+780
+00:45:07,560 --> 00:45:09,720
+Non ci rimane che augurarvi buone vacanze.
+
+781
+00:45:09,720 --> 00:45:11,880
+Esatto, e ci sentiamo tra due settimane.
+
+782
+00:45:11,880 --> 00:45:12,600
+Alla prossima!

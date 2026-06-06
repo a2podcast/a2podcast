@@ -1,0 +1,3515 @@
+1
+00:00:00,560 --> 00:00:05,200
+Benvenuti all'episodio 12 di A2, in cui scoprire come ottenere il massimo
+
+2
+00:00:05,200 --> 00:00:07,040
+dalla vostra tecnologia Apple.
+
+3
+00:00:07,040 --> 00:00:11,200
+Io sono Filippo Strozzi e sono il vostro ospite assieme all'amico Roberto
+
+4
+00:00:11,200 --> 00:00:12,240
+Main.
+
+5
+00:00:12,400 --> 00:00:15,840
+Di cosa parliamo in questo episodio, Roberto?
+
+6
+00:00:15,840 --> 00:00:21,600
+Ma speriamo di concludere la questione sulla digitalizzazione.
+
+7
+00:00:21,600 --> 00:00:26,160
+La digitalizzazione che c'è tanto cara, ma nella scorsa puntata siamo andati
+
+8
+00:00:26,160 --> 00:00:30,080
+un po' lunghi e abbiamo guardato un po' come si acquisisce il
+
+9
+00:00:30,080 --> 00:00:34,240
+materiale in digitale, mentre questa sera o oggi o questa mattina, o
+
+10
+00:00:34,240 --> 00:00:40,400
+dipende da quando lo ascoltate, vedremo come organizzare i documenti così acquisiti,
+
+11
+00:00:40,400 --> 00:00:42,800
+come abbiamo spiegato nella puntata precedente.
+
+12
+00:00:42,800 --> 00:00:48,160
+Dargli una nomenclatura che il nome tecnico è anche un po' desueto
+
+13
+00:00:48,240 --> 00:00:51,200
+perché io non lo uso mai, ma lo usano gli avvocati quindi
+
+14
+00:00:51,200 --> 00:00:56,160
+vuol dire che è quasi legalese per dargli essenzialmente un nome
+
+15
+00:00:58,400 --> 00:01:02,160
+e niente, questi sono gli obiettivi della puntata di questa sera.
+
+16
+00:01:02,160 --> 00:01:05,520
+Siamo un po' cottarelli entrambi.
+
+17
+00:01:05,520 --> 00:01:11,200
+Abbiamo avuto un bel po' di vicissitudini entrambi nelle scorse settimane.
+
+18
+00:01:11,200 --> 00:01:15,040
+Difatti, non ci avete sentito, mi pare che nessuno si sia tagliato
+
+19
+00:01:15,040 --> 00:01:15,600
+le vene.
+
+20
+00:01:15,600 --> 00:01:20,400
+Quindi possiamo andare tranquillamente a fare un bel follow up.
+
+21
+00:01:20,640 --> 00:01:21,920
+Cosa ci dici Filippo?
+
+22
+00:01:22,080 --> 00:01:26,400
+Anzi, due follow up, due follow up perché non solo uno, ma
+
+23
+00:01:26,400 --> 00:01:28,640
+due, uno per settimana.
+
+24
+00:01:29,600 --> 00:01:33,680
+Prima considerazione tecnica, ci siamo resi conto che comunque per tutta una
+
+25
+00:01:33,680 --> 00:01:38,160
+serie di problematiche varie ed eventuali della vita, diciamo, e della gestione
+
+26
+00:01:38,160 --> 00:01:39,360
+delle nostre cose.
+
+27
+00:01:39,600 --> 00:01:44,960
+La cadenza settimanale è un po' pesante e quindi penso che andremo
+
+28
+00:01:45,120 --> 00:01:46,960
+a cadenza bisettimanale.
+
+29
+00:01:46,960 --> 00:01:52,240
+Questo permetterci anche di avere una sorta di puntata tampone, diciamo, per
+
+30
+00:01:52,240 --> 00:01:56,560
+cui se non riusciamo tutte le settimane a registrare nell'ultimo periodo, ne
+
+31
+00:01:56,560 --> 00:02:04,040
+abbiamo lisciate abbastanza, diciamo, riusciremo comunque a darvi un effetto di continuità,
+
+32
+00:02:04,040 --> 00:02:09,080
+anche se noi casomai abbiamo qualche problema qui e là, soprattutto visto
+
+33
+00:02:09,080 --> 00:02:14,840
+che si avvicina l'estate e dobbiamo ancora capire come se interrompere, se
+
+34
+00:02:14,840 --> 00:02:19,400
+continuare, dipende tutto molto da cosa riusciamo a fare in queste settimane,
+
+35
+00:02:19,400 --> 00:02:21,560
+quanti episodi riusciamo a registrare.
+
+36
+00:02:21,560 --> 00:02:23,240
+Le dirette continueranno.
+
+37
+00:02:23,480 --> 00:02:27,560
+Se siete interessati, iscrivetevi al canale YouTube dove ci saranno le nostre
+
+38
+00:02:27,560 --> 00:02:32,840
+dirette e potrete sentire in anteprima, chiamiamolo così gli episodi e partecipare
+
+39
+00:02:32,840 --> 00:02:36,120
+con noi alla realizzazione degli episodi stessi.
+
+40
+00:02:36,120 --> 00:02:39,000
+Altrimenti a cadenza bisettimanale.
+
+41
+00:02:39,000 --> 00:02:43,560
+A questo punto sto ragionando ancora se uscirà questo lunedì, cioè il
+
+42
+00:02:43,560 --> 00:02:48,360
+9 credo di maggio, o addirittura farà fare slittare questa puntata alla
+
+43
+00:02:48,360 --> 00:02:49,480
+settimana ancora dopo.
+
+44
+00:02:49,480 --> 00:02:54,200
+Ma comunque questa è una questione interna che valuteremo anche in base
+
+45
+00:02:54,200 --> 00:02:59,800
+a questo weekend si evolverà per me per l'editing di questa puntata.
+
+46
+00:02:59,800 --> 00:03:05,400
+La seconda cosa che invece dovevamo precisare rispetto alla puntata precedente è
+
+47
+00:03:05,400 --> 00:03:10,520
+che vi ho parlato di come catturare a destra manca i documenti
+
+48
+00:03:10,520 --> 00:03:14,840
+in iOS e mi sono scordato una delle cose fondamentali, cioè o
+
+49
+00:03:14,840 --> 00:03:18,440
+meglio, me ne sono accorto tardivamente quindi a dimostrazione che poi non
+
+50
+00:03:18,440 --> 00:03:22,920
+è così semplice se non si sa dov'è, ma nella sostanza all'interno
+
+51
+00:03:22,920 --> 00:03:28,680
+di file se si va a cliccare nei tre puntini è presente
+
+52
+00:03:29,000 --> 00:03:33,880
+anche una funzione di cattura documenti, che è la stessa poi dell'intero
+
+53
+00:03:33,880 --> 00:03:38,360
+sistema operativo Apple, quindi di fatto è quella che utilizzo, e anche
+
+54
+00:03:38,360 --> 00:03:45,000
+altre applicazioni che di fatto utilizzano la cattura dei documenti di Apple.
+
+55
+00:03:45,120 --> 00:03:49,280
+Per cui anche qui se andate appunto sui tre puntini, avete altre
+
+56
+00:03:49,280 --> 00:03:53,920
+opzioni, ovviamente oltre a quella che citerò adesso, ma si aprirà un
+
+57
+00:03:53,920 --> 00:03:57,200
+menu a comparsa in cui la prima voce è Scansione documenti.
+
+58
+00:03:57,200 --> 00:04:00,960
+Che ovviamente fa questo, cioè fa l'acquisizione dei documenti.
+
+59
+00:04:00,960 --> 00:04:05,040
+Io che sono precisetti, non è la prima voce, ma è la
+
+60
+00:04:05,040 --> 00:04:09,920
+terza, forse è la terza, però io avevo scritto così e mi
+
+61
+00:04:09,920 --> 00:04:12,480
+sono fidato del mio passato.
+
+62
+00:04:12,480 --> 00:04:14,960
+No, vabbè, ma perché lo stavo guardando?
+
+63
+00:04:14,960 --> 00:04:18,800
+Perché ci sono anche altre voci interessanti come ad esempio Connet al
+
+64
+00:04:18,800 --> 00:04:23,920
+Server, server Samba per PC Windows e così via.
+
+65
+00:04:23,920 --> 00:04:28,320
+Che molto meglio esatto, che è una bella possibilità che hanno esplicitato
+
+66
+00:04:28,320 --> 00:04:31,120
+in modo migliore in questo iOS.
+
+67
+00:04:31,120 --> 00:04:34,880
+Perché io ho un iPad Air, come sapete, di prima generazione del
+
+68
+00:04:34,880 --> 00:04:37,120
+2013, se non ricordo male.
+
+69
+00:04:37,120 --> 00:04:42,000
+All'epoca iOS non so neanche quale fosse, ma fatto sa che l'ultimo
+
+70
+00:04:42,000 --> 00:04:43,920
+che è possibile installare su iPad
+
+71
+00:04:45,120 --> 00:04:50,720
+su quell'iPad, la connessione a un server samba, bisogna fare quasi delle
+
+72
+00:04:50,720 --> 00:04:52,880
+capriole per riuscire a beccarlo.
+
+73
+00:04:52,880 --> 00:04:58,640
+Invece, qua ce l'avete bello che esplicitato, con una semplice secondo me,
+
+74
+00:04:59,280 --> 00:05:03,520
+da due anni che c'è, da quando sostanzialmente c'è stato iPad hox.
+
+75
+00:05:04,400 --> 00:05:11,200
+E file è stato notevolmente migliorato perché nella iOS precedente era un
+
+76
+00:05:11,200 --> 00:05:14,640
+po' più difficile, comunque stiamo un po' divagando come al solito, quindi
+
+77
+00:05:14,640 --> 00:05:16,640
+torniamo a bomba?
+
+78
+00:05:17,600 --> 00:05:19,440
+Ma è giusto parlare anche di altre cose.
+
+79
+00:05:19,440 --> 00:05:23,360
+Insomma, non è che possiamo sempre stare sul pezzo e cacchio.
+
+80
+00:05:24,080 --> 00:05:27,120
+Ma il problema è che non ci stiamo mai, forse è il
+
+81
+00:05:27,120 --> 00:05:30,360
+contrario, ma adesso corriamo, non ti preoccupare, corriamo.
+
+82
+00:05:29,840 --> 00:05:34,200
+Prima di tutto, vi ricordo di sostenerci, assolutamente sì, perché siamo
+
+83
+00:05:30,000 --> 00:05:35,560
+bravi, simpatici.
+
+84
+00:05:36,200 --> 00:05:41,080
+Tra l'altro volevo anche ringraziare in questa sede un ascoltatore di Snap,
+
+85
+00:05:41,080 --> 00:05:48,200
+Architettura Imperfetta, che sotto sollecitazione di altri suoi colleghi del campo tecnico
+
+86
+00:05:48,360 --> 00:05:52,600
+ha stilato una bella lista di podcast da ascoltare, ha infilato dentro
+
+87
+00:05:52,600 --> 00:05:53,720
+anche a due.
+
+88
+00:05:53,720 --> 00:05:59,400
+Quindi grazie Fabrizio per averci infilato all'interno di questa bella compilation che
+
+89
+00:05:59,400 --> 00:06:00,040
+hai creato.
+
+90
+00:06:00,040 --> 00:06:02,920
+Tra l'altro ti ringrazio, e poi magari la faccio vedere anche a
+
+91
+00:06:02,920 --> 00:06:06,200
+Filippo così se le guarda e mi dice un po' se di
+
+92
+00:06:06,200 --> 00:06:06,520
+questi
+
+93
+00:06:07,720 --> 00:06:10,200
+podcast, cosa ascoltava.
+
+94
+00:06:10,200 --> 00:06:14,520
+Intanto, oltre a sostenerci in questo modo che ci fa assolutamente piacere,
+
+95
+00:06:14,520 --> 00:06:17,880
+dovete ricordarvi di supportare il podcast.
+
+96
+00:06:17,880 --> 00:06:20,600
+Perché noi siamo tanto bravi, siamo tanto belli.
+
+97
+00:06:20,600 --> 00:06:23,960
+Ma insomma, se ci date anche una recensione e ci date una
+
+98
+00:06:23,960 --> 00:06:27,720
+bella pacca sulla spalla, ci farebbe anche molto molto piacere.
+
+99
+00:06:27,720 --> 00:06:32,440
+Se non sapete, però ti interrompo velocemente perché abbiamo una nuova recensione
+
+100
+00:06:32,440 --> 00:06:34,440
+clavoso del 22 aprile.
+
+101
+00:06:34,440 --> 00:06:36,360
+Ma dai, leggiamola il nuovo,
+
+102
+00:06:38,680 --> 00:06:42,440
+spero di leggere giusto il nome, perché Foche Wolf.
+
+103
+00:06:44,760 --> 00:06:47,080
+Lo conosce anche tra l'altro,
+
+104
+00:06:48,680 --> 00:06:52,040
+e del pulmino perché vabbè, ok.
+
+105
+00:06:52,120 --> 00:06:56,120
+No, però non mi ricordo il nome nome, era quelli, non spiego
+
+106
+00:06:56,280 --> 00:06:57,720
+chi è.
+
+107
+00:06:57,800 --> 00:07:00,280
+Ok, ok, leggo io allora.
+
+108
+00:07:00,600 --> 00:07:04,600
+Ho vissuto i miei primi anni nell'ambiente Apple come una specie di
+
+109
+00:07:04,600 --> 00:07:05,640
+Fight Club.
+
+110
+00:07:05,640 --> 00:07:10,600
+Poi, girovagando per la rete, incontri due appassionati professionisti, un avvocato e
+
+111
+00:07:10,600 --> 00:07:11,800
+l'altro architetto.
+
+112
+00:07:11,800 --> 00:07:16,960
+Che a ruota libera parlano e spiegano come perché Apple e il
+
+113
+00:07:14,840 --> 00:07:20,560
+suo sistema li aiutano nelle rispettive professioni.
+
+114
+00:07:20,720 --> 00:07:24,000
+Il loro podcast ha una leggerezza di un incontro di amici al
+
+115
+00:07:24,000 --> 00:07:24,320
+bar.
+
+116
+00:07:24,320 --> 00:07:28,800
+Nonostante ciò spiegano alcuni segreti del computer Mac e del suo sistema.
+
+117
+00:07:28,800 --> 00:07:30,880
+Con e poi finisce.
+
+118
+00:07:30,880 --> 00:07:35,440
+Non so perché Apple che funziona sempre bene, o non c'erano più
+
+119
+00:07:35,440 --> 00:07:39,760
+caratteri, però, il codice, scopriremo nella prossima parte, sono due cose, o
+
+120
+00:07:39,760 --> 00:07:43,680
+hanno finito i caratteri, o ha finito la batteria dell'iPhone di colpo,
+
+121
+00:07:43,680 --> 00:07:45,360
+che potrebbe anche essere,
+
+122
+00:07:46,560 --> 00:07:48,160
+comunque, ringraziamolo.
+
+123
+00:07:48,160 --> 00:07:48,960
+Come al solito,
+
+124
+00:07:51,600 --> 00:07:54,720
+stiamo ricevendo recensioni a profusione
+
+125
+00:07:55,760 --> 00:07:56,000
+.
+
+126
+00:07:56,320 --> 00:08:02,160
+Se dopo averci rilasciato una bella recensione, volete entrare in contatto con
+
+127
+00:08:02,160 --> 00:08:02,400
+noi.
+
+128
+00:08:02,400 --> 00:08:06,880
+Avete solo da iscriverci, alla casella di posta elettronica scrivi.
+
+129
+00:08:10,240 --> 00:08:11,200
+it.
+
+130
+00:08:11,200 --> 00:08:19,280
+Fatta queste bellissime premesse, possiamo tranquillamente scivolare verso l'organizzazione dei documenti digitali
+
+131
+00:08:19,280 --> 00:08:23,280
+che la cosa interessa molto anche a me, perché ognuno ha il
+
+132
+00:08:23,280 --> 00:08:26,800
+suo modo di organizzare documenti digitali.
+
+133
+00:08:26,800 --> 00:08:31,920
+Noi vi diamo una diciamo una falsa riga che potete seguire nella
+
+134
+00:08:31,920 --> 00:08:37,840
+vostra digitalizzazione, ma siete anche liberissimi di comunicarci cosa vi viene in
+
+135
+00:08:37,840 --> 00:08:42,480
+mente o altri metodi alternativi, come per esempio, ne so, mettere gli
+
+136
+00:08:42,480 --> 00:08:47,520
+asterischi davanti al titolo del file, e in base al numero di
+
+137
+00:08:47,520 --> 00:08:52,400
+asterischi, capite che importanza ha nel vostro database.
+
+138
+00:08:52,560 --> 00:08:53,360
+Invento
+
+139
+00:08:56,680 --> 00:08:57,920
+random,
+
+140
+00:08:59,040 --> 00:09:02,840
+lasciamo parlare Filippo in questo momento che è sicuramente più serio di
+
+141
+00:08:59,840 --> 00:09:04,520
+me, e soprattutto è anche più bravo.
+
+142
+00:09:04,680 --> 00:09:07,000
+Quindi, vai, Filippo, e spacca le ossa!
+
+143
+00:09:07,000 --> 00:09:12,680
+Tutti, allora, piccola premessa: questa puntata l'ho preparata almeno 3-4 settimane fa.
+
+144
+00:09:12,680 --> 00:09:13,480
+Quindi spero di
+
+145
+00:09:14,840 --> 00:09:16,040
+troppo molto con la scaletta.
+
+146
+00:09:17,000 --> 00:09:19,480
+Esatto, siamo molto preparati in questo momento.
+
+147
+00:09:19,480 --> 00:09:24,840
+Vabbè, un periodo un po' così, va di vecchiaia, la vecchiaia, avanza!
+
+148
+00:09:25,080 --> 00:09:26,600
+Glormente galoppa!
+
+149
+00:09:26,600 --> 00:09:28,200
+La gioventù incipiente,
+
+150
+00:09:30,120 --> 00:09:35,240
+comunque, di fatto ci sono due filosofie di vita e modi di
+
+151
+00:09:35,240 --> 00:09:41,960
+archiviare di organizzare i documenti, quella degli old, secondo me, che però
+
+152
+00:09:41,960 --> 00:09:43,240
+è quella che uso anch'io.
+
+153
+00:09:43,400 --> 00:09:51,160
+Quindi lo dichiaro, è ovviamente la soluzione basica, ovvero struttura cartella organizzata
+
+154
+00:09:52,120 --> 00:09:56,920
+per cui utilizzare il file system in estrema sintesi con una struttura
+
+155
+00:09:57,000 --> 00:10:02,440
+cartella, ufficio, casa e poi all'interno, per esempio di ufficio, posizione A,
+
+156
+00:10:02,440 --> 00:10:04,680
+posizione B, posizione C e così via.
+
+157
+00:10:04,680 --> 00:10:10,040
+E all'interno di ogni singola posizione potete mettere tutto quello che volete.
+
+158
+00:10:10,040 --> 00:10:15,160
+Io vabbè, che sono abbastanza maniaco, ho di fatto virtualizzato i miei
+
+159
+00:10:15,160 --> 00:10:20,200
+fascicoli e quindi ho atti di parte, atti di controparte, la corrispondenza,
+
+160
+00:10:20,200 --> 00:10:25,160
+i documenti del cliente, le fatture, le proforme, i preventivi e tutto
+
+161
+00:10:25,160 --> 00:10:25,640
+il resto.
+
+162
+00:10:25,640 --> 00:10:26,760
+Tutto bene organizzato,
+
+163
+00:10:27,880 --> 00:10:30,120
+ed effettivamente è un cartella tipo
+
+164
+00:10:32,120 --> 00:10:38,280
+un'automazione ovviamente che mi genera sostanzialmente all'interno della cartella una cartella tipo.
+
+165
+00:10:38,280 --> 00:10:44,440
+Beh, sai che io poi le bestie usano copia e incolla dentro
+
+166
+00:10:44,520 --> 00:10:45,120
+la cartella.
+
+167
+00:10:45,280 --> 00:10:50,080
+Infatti, vedi che io sono praticamente il manovale del Mac.
+
+168
+00:10:44,920 --> 00:10:52,080
+Insomma, io faccio il mio lavoro.
+
+169
+00:10:53,040 --> 00:10:58,720
+Peraltro, giusto solo per segnalarlo, l'automazione l'ho resa disponibile sul avvocativo.
+
+170
+00:10:58,720 --> 00:11:02,480
+Ma è troppo complessa per me, di ragionare troppo,
+
+171
+00:11:04,400 --> 00:11:06,400
+no, è una roba semplicissima:
+
+172
+00:11:08,000 --> 00:11:11,920
+in realtà è facilissima da utilizzare, andatevela a vedere, sono solo io
+
+173
+00:11:11,920 --> 00:11:16,400
+che sono molto pigro più che altro perché una struttura, ho provato
+
+174
+00:11:16,480 --> 00:11:21,600
+grazie a questo simpatico articolo che ha messo Filippo, ho cercato di
+
+175
+00:11:21,600 --> 00:11:23,440
+dare un'organizzata anche alle cartelle.
+
+176
+00:11:23,440 --> 00:11:28,480
+Perché fino a Filippo l'organizzazione delle mie commesse era un po' come
+
+177
+00:11:28,480 --> 00:11:33,440
+dire, sportiva, definiamola così, in base alle esigenze.
+
+178
+00:11:33,440 --> 00:11:36,400
+E poi ho notato che in effetti c'era una serie di ricorrenze
+
+179
+00:11:36,480 --> 00:11:40,160
+tra dopo che ho fatto una centinaia di pratiche, mi sono reso
+
+180
+00:11:40,160 --> 00:11:43,520
+conto che in effetti c'era una serie di ricorrenza, sarebbe stato anche
+
+181
+00:11:43,520 --> 00:11:46,560
+il caso di creare una cartella con queste ricorrenze.
+
+182
+00:11:46,560 --> 00:11:50,240
+Spezzo una lancia a tua favore, spiego e cerco, ma a volte
+
+183
+00:11:50,240 --> 00:11:51,120
+razzo male.
+
+184
+00:11:51,120 --> 00:11:54,480
+E infatti me ne pento anche tendo a precisare.
+
+185
+00:11:54,720 --> 00:11:58,400
+Tant'è vero che è da almeno 5-6 mesi che sono lì che
+
+186
+00:11:58,400 --> 00:12:01,840
+dico: vabbè, ma adesso devo mettere a posto perché per tutta una
+
+187
+00:12:01,840 --> 00:12:06,240
+serie di motivi ho un vecchio file system che era legato al
+
+188
+00:12:06,240 --> 00:12:11,120
+server che usavamo, alla gestione che usavamo, che per pigrizia, appunto.
+
+189
+00:12:11,520 --> 00:12:17,280
+Al fine ho mantenuto, complicandomi semplicemente la vita e tutta una serie,
+
+190
+00:12:17,280 --> 00:12:21,200
+non so, di modelli e altre cose che sarebbero comodo organizzare in
+
+191
+00:12:21,200 --> 00:12:26,400
+maniera sensata, ma che è sempre lì bisogna farlo, devo trovare il
+
+192
+00:12:26,400 --> 00:12:29,400
+tempo per farlo e non viene mai fatto, ovviamente.
+
+193
+00:12:29,400 --> 00:12:34,440
+Perché poi questa è la vita, è la vita vera, così e
+
+194
+00:12:29,840 --> 00:12:35,400
+devo dire la verità.
+
+195
+00:12:35,560 --> 00:12:39,880
+Per esempio, ho ancora delle posizioni un po' vecchie che utilizzavano il
+
+196
+00:12:39,880 --> 00:12:45,000
+metodo a casaccio, chiamiamolo così, e adesso che torno indietro, ogni tanto
+
+197
+00:12:45,000 --> 00:12:49,000
+mi capita di tornare indietro, ti rendi conto quanto l'uniformità poi diventa
+
+198
+00:12:49,000 --> 00:12:49,640
+comoda.
+
+199
+00:12:49,640 --> 00:12:53,880
+Perché sai esattamente a colpo secco, sai che se vuoi cercare il
+
+200
+00:12:53,880 --> 00:12:56,840
+preventivo, è lì e se sai che non c'è il preventivo, vuol
+
+201
+00:12:56,840 --> 00:13:00,040
+dire che non l'hai fatto caso mai, e che hai fatto un
+
+202
+00:13:00,040 --> 00:13:03,240
+errore e diventa anche comodo oggettivamente.
+
+203
+00:13:03,240 --> 00:13:06,360
+La gestione del tutto, devi recuperare una fattura, non la vai a
+
+204
+00:13:06,360 --> 00:13:10,920
+cercare mille cartelle, ma vai nella posizione la fattura di quella pratica.
+
+205
+00:13:10,920 --> 00:13:17,480
+Sono stupidate, ma ovviamente ti velocizzano notevolmente il modo di lavorare e
+
+206
+00:13:17,480 --> 00:13:18,120
+la gestione.
+
+207
+00:13:18,200 --> 00:13:23,000
+Anche qui abbiamo parlato dell'attività professionale perché ovviamente è quella che è
+
+208
+00:13:23,000 --> 00:13:24,680
+la nostra quotidianità.
+
+209
+00:13:24,680 --> 00:13:28,760
+Però anche la gestione progressivamente, anch'io, per esempio, mi sono messo a
+
+210
+00:13:29,880 --> 00:13:34,600
+gestire le cose di casa un po' come una vera posizione, ma
+
+211
+00:13:34,600 --> 00:13:38,440
+per tanti motivi: la vacanza al mare, tutta la roba, la prenotazione
+
+212
+00:13:38,440 --> 00:13:41,160
+e così via, piuttosto che mille altre cose.
+
+213
+00:13:41,160 --> 00:13:46,360
+La gestione del pagamento delle tasse, dell'Imu, le assicurazioni varie ed eventuali,
+
+214
+00:13:46,360 --> 00:13:50,840
+avere tutto a comodo, a portata di mano e ben organizzato, ovviamente
+
+215
+00:13:50,840 --> 00:13:55,320
+ti permettono sul lungo periodo poi di risparmiare molto tempo e sicuramente
+
+216
+00:13:56,280 --> 00:14:00,120
+è necessario in un flusso di lavoro digitale perché trovare rapidamente i
+
+217
+00:14:00,120 --> 00:14:05,240
+documenti, è lo scopo principe di fare tutta la parte di acquisizione
+
+218
+00:14:05,320 --> 00:14:06,200
+sostanzialmente.
+
+219
+00:14:06,200 --> 00:14:10,200
+Ma non solo, perché per esempio potrebbero anche essere quasi una scaletta
+
+220
+00:14:10,760 --> 00:14:14,280
+delle cose che devi fare all'interno di una pratica.
+
+221
+00:14:14,520 --> 00:14:18,240
+Per esempio, a me può capitare che tutte le pratiche partano da
+
+222
+00:14:14,840 --> 00:14:20,880
+un accesso agli atti, allora quello potrebbe essere la cartella 1.
+
+223
+00:14:21,040 --> 00:14:24,880
+Poi due devi fare il giro sul piano regolatore, farti una serie
+
+224
+00:14:24,880 --> 00:14:31,200
+di altri controlli, che potrebbe essere in effetti anche una falsa riga
+
+225
+00:14:31,520 --> 00:14:33,840
+di quello che potrebbe essere un
+
+226
+00:14:34,960 --> 00:14:40,160
+workflow, quasi metterlo per cartelle, un workflow a cartelle, ma questo qui
+
+227
+00:14:40,160 --> 00:14:43,440
+abbiamo detto che è la versione per i vecchietti come me e
+
+228
+00:14:43,440 --> 00:14:44,000
+come te.
+
+229
+00:14:44,000 --> 00:14:46,080
+Invece i covani cosa fanno?
+
+230
+00:14:46,080 --> 00:14:50,560
+I giovani e non so se ne dobbiamo parlare a questo punto
+
+231
+00:14:50,640 --> 00:14:52,320
+perché siamo due anziani.
+
+232
+00:14:52,320 --> 00:14:53,680
+Tuttavia, usano i tag.
+
+233
+00:14:53,680 --> 00:14:57,840
+O meglio, c'è diciamo questa opzione che è interessante.
+
+234
+00:14:57,840 --> 00:15:01,920
+Io devo dire la verità, appunto, non essendo giovane, faccio fatica a
+
+235
+00:15:01,920 --> 00:15:04,960
+utilizzarla, ma ha un suo senso logico.
+
+236
+00:15:04,960 --> 00:15:09,520
+Diciamo, in tag che sono qualcosa di totalmente diametralmente opposto dalla struttura
+
+237
+00:15:09,520 --> 00:15:12,960
+cartella, perché per un semplice motivo.
+
+238
+00:15:12,960 --> 00:15:19,760
+Perché i tag permettono diciamo di appunto aggiungere un commento, una voce,
+
+239
+00:15:19,760 --> 00:15:22,320
+chiamiamolo così, a singoli file.
+
+240
+00:15:22,320 --> 00:15:26,640
+Questo ha il vantaggio grosso che io posso aggiungere un tag o
+
+241
+00:15:26,640 --> 00:15:28,240
+tag differenti allo stesso file.
+
+242
+00:15:28,240 --> 00:15:31,840
+Quindi se per esempio il file appartiene a una posizione A e
+
+243
+00:15:31,840 --> 00:15:37,440
+alla posizione B non dovrò andare a duplicare quel documento per ogni
+
+244
+00:15:37,440 --> 00:15:42,640
+singola posizione, ma con il tag, questi andando a ricercare con i
+
+245
+00:15:42,640 --> 00:15:47,280
+tag, ovviamente li troverò questo documento sia in una posizione che nell'altra.
+
+246
+00:15:47,280 --> 00:15:51,840
+Ovviamente il documento va salvato da qualche parte, però diciamo che l'approccio
+
+247
+00:15:52,000 --> 00:15:56,880
+tag vi permette anche di utilizzare un'organizzazione molto più blanda o molto
+
+248
+00:15:56,880 --> 00:16:01,960
+più semplice, piuttosto che una struttura molto gerarchica dall'alto verso il basso
+
+249
+00:16:02,040 --> 00:16:03,480
+diciamo dei file.
+
+250
+00:15:59,920 --> 00:16:06,200
+Quindi questo sicuramente è un approccio interessante.
+
+251
+00:16:06,440 --> 00:16:12,280
+Su macOS ormai è da Maverick credo che sia implementato su iOS
+
+252
+00:16:12,360 --> 00:16:17,800
+e iPadOS è implementato, devo dire la verità: non utilizzandolo, ammetto che
+
+253
+00:16:18,600 --> 00:16:21,640
+non ne sono molto, non ci sono molto addentro.
+
+254
+00:16:21,640 --> 00:16:25,560
+So che comunque la situazione non è così comoda da gestire perché
+
+255
+00:16:25,640 --> 00:16:27,400
+ascoltando i vari podcast.
+
+256
+00:16:27,480 --> 00:16:33,160
+Sì, no, intanto ti mentre pensi, stavo facendo una prova sull'iPhone per
+
+257
+00:16:33,160 --> 00:16:36,840
+mettere un tag su un file, basta andare su file appunto.
+
+258
+00:16:36,840 --> 00:16:43,400
+Aprisi il file che si interessa, tenere simpaticamente premuto il ditone sull'icona,
+
+259
+00:16:43,400 --> 00:16:47,480
+e a questo punto compare la voce alla 2 4.
+
+260
+00:16:47,480 --> 00:16:51,640
+Alla settima voce c'è la voce tag.
+
+261
+00:16:51,880 --> 00:16:55,960
+A questo punto ti permette di mettere il colore oppure altre vari
+
+262
+00:16:56,040 --> 00:16:57,800
+tipi di forme di tag.
+
+263
+00:16:58,120 --> 00:17:03,720
+Il problema è come faccio a creare un tag nel senso: su
+
+264
+00:17:03,880 --> 00:17:08,120
+iOS, devi trascinarlo nella barra dei tag, da quello che ne so
+
+265
+00:17:08,120 --> 00:17:08,280
+io.
+
+266
+00:17:09,640 --> 00:17:10,680
+Però è scomodissimo.
+
+267
+00:17:10,680 --> 00:17:14,360
+Da quel che ne so io, tutti si lamentano, tutti diciamo, quelli
+
+268
+00:17:14,360 --> 00:17:19,880
+che lavorano prevalentemente o comunque utilizza i tag che su iOS o
+
+269
+00:17:19,880 --> 00:17:22,120
+iPadOS, la cosa non è proprio comodo.
+
+270
+00:17:22,120 --> 00:17:27,080
+No, non sembra infatti so che ci devono essere delle shortcut, credo,
+
+271
+00:17:27,080 --> 00:17:31,320
+però devo dire la verità: non utilizzandolo, anch'io non ci sto molto
+
+272
+00:17:31,320 --> 00:17:31,640
+dietro.
+
+273
+00:17:31,720 --> 00:17:36,520
+Quindi se qualcuno lo utilizza, un feedback è più che apprezzato perché
+
+274
+00:17:36,760 --> 00:17:37,720
+assolutamente sì.
+
+275
+00:17:37,720 --> 00:17:41,600
+Ecco, ecco l'altro limite dei tag è che ovviamente sono legati.
+
+276
+00:17:41,600 --> 00:17:44,880
+Cioè, tranne il mondo Apple, che più o meno, come abbiamo visto,
+
+277
+00:17:44,840 --> 00:17:50,400
+con i limiti di iPadOS e iOS, comunque funziona tutto uniformemente.
+
+278
+00:17:50,800 --> 00:17:55,360
+Se avete Windows, per esempio, e un Mac e avete i dati
+
+279
+00:17:55,360 --> 00:17:56,480
+sincronizzati.
+
+280
+00:17:56,480 --> 00:18:02,160
+I tag di macOS non credo che si trasferiscano sull'altro dispositivo.
+
+281
+00:18:02,160 --> 00:18:07,600
+Quindi, comunque è una soluzione funzionale, cioè non è aperta, chiamiamola così,
+
+282
+00:18:07,600 --> 00:18:12,400
+ma è funzionale prevalentemente a chi lavora nel mondo Apple in maniera
+
+283
+00:18:12,400 --> 00:18:13,360
+esclusiva.
+
+284
+00:18:13,440 --> 00:18:16,960
+Stavo guardando la lista dei tag, forse si in qualche modo si
+
+285
+00:18:16,960 --> 00:18:19,600
+diramano tra i Mac e iOS.
+
+286
+00:18:19,600 --> 00:18:22,480
+Perché io su iOS non ho mai messo un tag, però mi
+
+287
+00:18:22,640 --> 00:18:23,440
+trovo tutte le link
+
+288
+00:18:24,640 --> 00:18:30,320
+su Mac esatto, il sistema ovviamente funziona ed è trasparente.
+
+289
+00:18:30,320 --> 00:18:32,720
+Il problema è da quel che ne so io.
+
+290
+00:18:32,720 --> 00:18:36,480
+Mettere i tag su iOS, iPadOS, è infernale.
+
+291
+00:18:36,480 --> 00:18:39,120
+Tra virgolette, mentre su Mac
+
+292
+00:18:40,320 --> 00:18:42,160
+riescono a fare tutta una serie di cose.
+
+293
+00:18:42,160 --> 00:18:46,160
+Per esempio, vabbè, ci sono sempre miti con Ezel che ti permette,
+
+294
+00:18:46,160 --> 00:18:49,520
+tra le varie cose, di impostare i tag in base al contenuto
+
+295
+00:18:49,520 --> 00:18:52,880
+dei documenti, al nome del documento e così via.
+
+296
+00:18:52,880 --> 00:18:57,520
+Quindi il discorso è digitalizzare vuol dire acquisire documenti.
+
+297
+00:18:57,520 --> 00:19:01,360
+Poi i documenti vanno inseriti o in una cartella o taggati, ed
+
+298
+00:19:01,360 --> 00:19:05,760
+è ovvio che tutto questo sistema deve essere il più fluido possibile,
+
+299
+00:19:05,760 --> 00:19:08,880
+perché è ovvio che se io devo acquisire 10 documenti e per
+
+300
+00:19:08,880 --> 00:19:12,960
+10 documenti mettere il tag a 10 documenti a manina tutte le
+
+301
+00:19:12,960 --> 00:19:18,000
+volte o spostare un file da una parte all'altra, in caso mai
+
+302
+00:19:18,240 --> 00:19:25,360
+in sottocartelle molto profonde nel file system, è ovvio che il divertimento,
+
+303
+00:19:25,440 --> 00:19:26,640
+diciamo, si perde.
+
+304
+00:19:26,640 --> 00:19:34,520
+Quindi poi una parte fondamentale, ovviamente, della digitalizzazione è l'automazione della digitalizzazione,
+
+305
+00:19:35,480 --> 00:19:38,680
+ma questo è un altro discorso, ancora,
+
+306
+00:19:40,120 --> 00:19:44,520
+a questo punto come nominare i documenti o usare la nomenclatura che
+
+307
+00:19:44,520 --> 00:19:50,680
+non mi sembrava così tremenda come cosa, allora, abitualmente il consiglio che
+
+308
+00:19:50,680 --> 00:19:53,800
+do io, che ho preso poi da altri, perché non è che
+
+309
+00:19:53,800 --> 00:19:56,360
+ho inventato la ruota, è
+
+310
+00:19:57,640 --> 00:20:03,080
+anporre al nome del file anno trattino mese, trattino giorno, ovviamente quindi
+
+311
+00:20:03,080 --> 00:20:04,760
+2021, oggi è il
+
+312
+00:20:06,520 --> 00:20:09,960
+7 maggio quindi 0507.
+
+313
+00:20:09,960 --> 00:20:16,520
+Abitualmente la data è utile in ambito legale perché è evidente che
+
+314
+00:20:16,520 --> 00:20:21,240
+comunque un documento si colloca anche spazio temporalmente e quindi è comodo
+
+315
+00:20:21,240 --> 00:20:26,680
+avere una cronistoria organizzata dei documenti che dobbiamo esaminare.
+
+316
+00:20:27,480 --> 00:20:31,560
+E a colpo d'occhio, tra l'altro, diventa comodo per esempio per un
+
+317
+00:20:31,560 --> 00:20:35,640
+legale come sottoscritto, dire l'atto fatto nel giorno tali dei tali e
+
+318
+00:20:35,640 --> 00:20:40,600
+non dover neanche aprire l'atto perché ovviamente c'è già sopra il nome.
+
+319
+00:20:40,600 --> 00:20:45,160
+La vera comodità di questa strutturazione è quella che, senza mettere i
+
+320
+00:20:45,160 --> 00:20:50,200
+file in ordine di data, anendo appunto anno, mese e giorno i
+
+321
+00:20:50,200 --> 00:20:55,560
+file automaticamente, tra virgolette, vengono messi in ordine di data e quindi
+
+322
+00:20:56,200 --> 00:21:01,960
+verranno messi per esempio prima gli atti del 2020, poi 2021 e
+
+323
+00:21:01,960 --> 00:21:05,880
+quando ci sarà il 2022 e così per giorno, cioè così per
+
+324
+00:21:05,880 --> 00:21:07,160
+mese e giorno.
+
+325
+00:21:07,160 --> 00:21:09,640
+Quindi diventa molto comodo per questo motivo.
+
+326
+00:21:09,640 --> 00:21:14,120
+Devo dire la verità: apro una parentesi per i talebani come il
+
+327
+00:21:14,120 --> 00:21:19,440
+sottoscritto del terminale, non è affatto comodo invece se utilizzate molto il
+
+328
+00:21:19,440 --> 00:21:26,480
+terminale, perché effettivamente ha più senso un approccio diverso con dei nomi
+
+329
+00:21:26,480 --> 00:21:28,320
+del file più brevi e più semplici.
+
+330
+00:21:28,320 --> 00:21:29,840
+Perché abitualmente
+
+331
+00:21:32,480 --> 00:21:38,320
+digitare un nome lungo dei file è ovviamente una roba abbastanza infernale.
+
+332
+00:21:38,320 --> 00:21:43,040
+Poi con l'autocompletamento e altri piccoli trucchetti si fa.
+
+333
+00:21:43,280 --> 00:21:48,160
+Però, anche per esempio, nominare un documento in terminale con tutto questo
+
+334
+00:21:48,160 --> 00:21:50,080
+sistema, non è comodissimo.
+
+335
+00:21:50,080 --> 00:21:54,400
+Anche su macOS, non è comodissimo normalmente, ma come al solito esistono
+
+336
+00:21:54,400 --> 00:21:59,760
+tutta una serie di automazioni per velocizzare tutte queste operazioni che altrimenti
+
+337
+00:21:59,840 --> 00:22:01,840
+appunto sono tediose.
+
+338
+00:22:01,840 --> 00:22:05,440
+Diciamo che se dovete nominare un documento ogni giorno non è un
+
+339
+00:22:05,440 --> 00:22:05,920
+problema.
+
+340
+00:22:05,920 --> 00:22:11,440
+Se già avete 10-15 documenti al giorno da rinominare con questo sistema,
+
+341
+00:22:11,840 --> 00:22:14,720
+inizia a diventare faticoso, mettiamola così.
+
+342
+00:22:14,720 --> 00:22:20,560
+Quindi dipende molto anche da quanti documenti digitalizzate in una giornata, in
+
+343
+00:22:20,560 --> 00:22:26,400
+uno studio legale, ovviamente capita di avere tanta roba e quindi l'automazione
+
+344
+00:22:26,560 --> 00:22:29,760
+diventa fondamentale se non essenziale poi per gestire il tutto.
+
+345
+00:22:30,080 --> 00:22:31,600
+Quindi, io, abitualmente, quando
+
+346
+00:22:33,440 --> 00:22:38,160
+racconto queste cose suggerisco a tutti di utilizzare al più possibile le
+
+347
+00:22:38,160 --> 00:22:39,360
+automazioni.
+
+348
+00:22:39,520 --> 00:22:43,840
+Nel caso specifico, io abitualmente uso Tex Expander che mi permette di
+
+349
+00:22:44,160 --> 00:22:47,680
+espandere la data di oggi, ieri, domani e così via.
+
+350
+00:22:47,680 --> 00:22:53,920
+E quindi automaticamente inserire questi dati senza dover mettermi lì a fare
+
+351
+00:22:53,920 --> 00:22:54,880
+le operazioni.
+
+352
+00:22:55,280 --> 00:23:00,280
+Cos'altro dobbiamo dire che c'è una terza via, c'è una terza via,
+
+353
+00:23:00,280 --> 00:23:04,520
+ma aspetta perché volevo dire anche un'altra roba, anzi, due altre cose,
+
+354
+00:23:04,520 --> 00:23:11,880
+ovviamente, oltre al nome, alla data del documento, e abitualmente la data
+
+355
+00:23:11,880 --> 00:23:14,440
+del documento deve essere la data, cioè non so se io ti
+
+356
+00:23:14,440 --> 00:23:15,720
+ho spedito una mail.
+
+357
+00:23:15,720 --> 00:23:17,080
+La data dell'email.
+
+358
+00:23:17,080 --> 00:23:20,520
+Se io ti ho spedito una lettera, anche se ormai è qualcosa
+
+359
+00:23:20,520 --> 00:23:21,880
+di solo gli legali
+
+360
+00:23:23,000 --> 00:23:27,400
+hanno presente, però la data all'interno della lettera che c'è scritta proprio
+
+361
+00:23:27,400 --> 00:23:31,960
+perché diventa più comodo e più facile recuperare il documento in questa
+
+362
+00:23:32,200 --> 00:23:36,360
+maniera: non so, il contratto di assicurazione è la data in cui
+
+363
+00:23:36,360 --> 00:23:42,600
+avete sottoscritto l'assicurazione, così avete già rapidamente, ovviamente, un riferimento temporale.
+
+364
+00:23:42,760 --> 00:23:48,200
+Una domanda per te, perché ovviamente vengono le domande mentre parliamo, fammela
+
+365
+00:23:48,200 --> 00:23:48,600
+pure.
+
+366
+00:23:49,720 --> 00:23:56,200
+Le mail meglio in formato PDF, archiviarlo in formato EML, allora, io
+
+367
+00:23:56,200 --> 00:24:01,080
+sono ProML, ma per deformazione professionale, nel senso che noi le depositiamo
+
+368
+00:24:01,080 --> 00:24:05,080
+in quel formato lì e quindi a me diventa più comodo farlo.
+
+369
+00:24:05,400 --> 00:24:12,200
+Ciò detto, se non avete necessità, diciamo, giuridiche di conservare l'email, mettiamola
+
+370
+00:24:12,200 --> 00:24:16,600
+così, la stampa PDF è molto più comodo e molto più semplice.
+
+371
+00:24:16,600 --> 00:24:20,120
+Considerate che la stampa PDF di un'email ha il valore legale di
+
+372
+00:24:20,120 --> 00:24:22,280
+una stampa qualunque, niente.
+
+373
+00:24:22,760 --> 00:24:23,560
+Altra domanda.
+
+374
+00:24:23,560 --> 00:24:24,920
+E gli allegati?
+
+375
+00:24:24,920 --> 00:24:30,200
+Gli allegati io solitamente li estrapolo e li inserisco invece dove devono
+
+376
+00:24:30,200 --> 00:24:30,600
+stare.
+
+377
+00:24:30,600 --> 00:24:34,360
+Cioè, se sono degli allegati del cliente, li mettono nella documentazione del
+
+378
+00:24:34,360 --> 00:24:34,840
+cliente.
+
+379
+00:24:34,840 --> 00:24:35,520
+No, esatto.
+
+380
+00:24:35,520 --> 00:24:39,640
+Cioè se le email all'interno degli allegati: dovrà essere stampata allora, o
+
+381
+00:24:39,640 --> 00:24:46,240
+li estrappolate dal file ML, tra virgolette, o ovviamente il file ML
+
+382
+00:24:46,240 --> 00:24:47,920
+vi salva anche i documenti alle
+
+383
+00:24:44,840 --> 00:24:50,080
+interno.
+
+384
+00:24:50,560 --> 00:24:54,880
+Lo svantaggio grosso è che poi un file ML dovete aprirlo esclusivamente
+
+385
+00:24:55,120 --> 00:24:58,640
+o meglio, dire la verità, si può aprire con qualsiasi text editor,
+
+386
+00:24:58,640 --> 00:24:59,920
+ma non è comodo.
+
+387
+00:24:59,920 --> 00:25:05,120
+Se no, dovete aprirlo con un programma di posta elettronica che ha
+
+388
+00:25:05,120 --> 00:25:09,120
+lo svantaggio di aprire un programma di posta elettronica, quindi, caso mai
+
+389
+00:25:09,680 --> 00:25:12,640
+vi complica il flusso di lavoro in varie maniere.
+
+390
+00:25:13,200 --> 00:25:14,960
+Sì, non più che altro perché
+
+391
+00:25:16,240 --> 00:25:21,600
+faccio così: per esempio, archivio in formato ML e se ho bisogno
+
+392
+00:25:22,240 --> 00:25:27,280
+di vedere qualcosa, essenzialmente faccio una bella barra spaziatrice e leggo il
+
+393
+00:25:27,280 --> 00:25:27,920
+testo.
+
+394
+00:25:27,920 --> 00:25:32,400
+Tuttavia, anche lì non sempre tutto viene visualizzato correttamente, è un po'
+
+395
+00:25:32,480 --> 00:25:33,200
+un dramma.
+
+396
+00:25:33,200 --> 00:25:40,000
+Comunque, curiosamente, io di fatto faccio così: addirittura già a questo punto,
+
+397
+00:25:40,080 --> 00:25:41,200
+visto che siamo andati
+
+398
+00:25:42,400 --> 00:25:48,800
+nella strada, una delle cose carine di un programma di Devon Think,
+
+399
+00:25:48,800 --> 00:25:53,840
+sia la versione 3 che quella che per me, sostanzialmente, che quella
+
+400
+00:25:53,840 --> 00:25:59,040
+per iOS, è il fatto che vi permette di vedere i file
+
+401
+00:25:59,200 --> 00:25:59,920
+ML.
+
+402
+00:25:59,920 --> 00:26:04,480
+Quindi, se salvate all'interno di Devon Think, che è la terza via,
+
+403
+00:26:04,480 --> 00:26:09,440
+potenzialmente come cosa, se non mi ricordo male, un programma professionale per
+
+404
+00:26:09,440 --> 00:26:16,640
+la gestione dei dati dei documenti digitali, e quindi cade a fagiolo,
+
+405
+00:26:16,640 --> 00:26:20,480
+tra virgolette, il vantaggio grosso è che non dovete, per esempio, un
+
+406
+00:26:20,480 --> 00:26:25,120
+file ML lo potete vedere e visualizzare direttamente dentro Devonsen, addirittura con
+
+407
+00:26:25,120 --> 00:26:28,960
+tutti i suoi allegati, quindi è molto comodo, senza entrare nel programma
+
+408
+00:26:28,960 --> 00:26:33,880
+di posta elettronica, che ha lo svantaggio, per esempio, di farvi vedere
+
+409
+00:26:33,880 --> 00:26:38,360
+casomai anche la posta elettronica, e quindi casomai vi fa perdere il
+
+410
+00:26:38,360 --> 00:26:40,280
+filo di quello che volevate fare.
+
+411
+00:26:40,760 --> 00:26:44,680
+È per quel motivo lì che io tendenzialmente dico di stare attenti
+
+412
+00:26:44,680 --> 00:26:51,000
+con i file ML, perché aprono automaticamente anche il client di posta,
+
+413
+00:26:51,160 --> 00:26:52,600
+mentre il PDF.
+
+414
+00:26:52,600 --> 00:26:58,040
+Ha il vantaggio di darvi sostanzialmente una stampa delle email.
+
+415
+00:26:58,040 --> 00:27:01,400
+Lo svantaggio è che poi, per esempio, se solo volete rispondere a
+
+416
+00:27:01,400 --> 00:27:04,920
+quella email, dovete andare nel programma di posta a cercare quella mail
+
+417
+00:27:04,920 --> 00:27:06,360
+e andare a fare i rispondi.
+
+418
+00:27:06,360 --> 00:27:10,920
+Quindi, comunque anche lì dei limiti logistici ci sono.
+
+419
+00:27:10,920 --> 00:27:14,120
+Dipende molto come utilizzate questi strumenti sostanzialmente.
+
+420
+00:27:14,120 --> 00:27:17,160
+Prima o poi faremo la famosa puntata sulle email, ma è un
+
+421
+00:27:17,160 --> 00:27:18,920
+altro argomento, va bene?
+
+422
+00:27:19,240 --> 00:27:25,080
+Venendo appunto alla terza via, cioè l'utilizzo di programmi professionali per l'archiviazione
+
+423
+00:27:25,080 --> 00:27:31,400
+e la gestione dei database di documenti, diciamo che appunto uno dei
+
+424
+00:27:31,560 --> 00:27:38,120
+più famosi in ambito Apple è DevonSync perché prevalentemente lavora è solo
+
+425
+00:27:38,120 --> 00:27:38,680
+Apple.
+
+426
+00:27:38,680 --> 00:27:44,600
+Il vantaggio grosso è che diciamo DevonTync, per esempio, permette di archiviare
+
+427
+00:27:44,600 --> 00:27:48,760
+la documentazione, di fare delle ricerche avanzate su questi documenti.
+
+428
+00:27:48,760 --> 00:27:52,680
+La cosa carina, per esempio, è che mantiene comunque i documenti in
+
+429
+00:27:52,680 --> 00:27:55,640
+un formato non proprietario, chiamiamolo così.
+
+430
+00:27:55,640 --> 00:27:59,880
+Quindi, oltre al database, diciamo, che vi serve per indicizzare e cercare
+
+431
+00:27:59,880 --> 00:28:04,520
+i documenti, i file sono fisicamente trascinabili fuori da Devoncing e non
+
+432
+00:28:04,520 --> 00:28:05,880
+dovete fare nient'altro.
+
+433
+00:28:05,880 --> 00:28:09,000
+Il contro, ovviamente, di tutti questi sistemi adesso.
+
+434
+00:28:09,000 --> 00:28:12,600
+Devoncing è ben pensato, e infatti, è una delle applicazioni che io
+
+435
+00:28:12,600 --> 00:28:14,280
+utilizzo abitualmente.
+
+436
+00:28:14,600 --> 00:28:17,600
+Ce ne sono altri meno ben pensati, l'
+
+437
+00:28:17,680 --> 00:28:23,360
+esempio potrebbe essere VerNot che per acquisire documenti è molto comodo, ma quando
+
+438
+00:28:23,360 --> 00:28:28,640
+si vuole cercare di estrapolare questi documenti in maniera massiva massiccia è
+
+439
+00:28:28,640 --> 00:28:30,240
+difficile da fare.
+
+440
+00:28:31,200 --> 00:28:36,960
+Questi software, però, ovviamente sono professionali abitualmente perché vengono pagati, quindi hanno
+
+441
+00:28:36,960 --> 00:28:41,520
+un costo e vi permettono una strutturazione diversa di questi documenti.
+
+442
+00:28:41,520 --> 00:28:47,520
+Solitamente una strutturazione di vario genere che vi permette anche di gestirli
+
+443
+00:28:47,680 --> 00:28:48,400
+meglio.
+
+444
+00:28:48,400 --> 00:28:53,280
+Lo svantaggio è che hanno un costo e sono proprietari, quindi a
+
+445
+00:28:53,280 --> 00:28:58,240
+volte non è così semplice passare da un sistema all'altro o tirare
+
+446
+00:28:58,240 --> 00:29:01,760
+fuori una grossa mole di dati da questi database.
+
+447
+00:29:01,760 --> 00:29:05,440
+Quindi, di fatto un effetto lock-into.
+
+448
+00:29:05,680 --> 00:29:13,280
+L'altra cosa, ovviamente, tutti questi software solitamente hanno anche le funzioni di
+
+449
+00:29:13,360 --> 00:29:15,440
+riconoscimento del testo.
+
+450
+00:29:15,440 --> 00:29:15,760
+Quindi
+
+451
+00:29:17,120 --> 00:29:22,480
+diventa comodo perché appunto, casomai, voi salvate un documento in Devon Thing
+
+452
+00:29:22,640 --> 00:29:28,640
+piuttosto che Evernote piuttosto che altri sistemi, all'interno di questi ci sono
+
+453
+00:29:28,720 --> 00:29:32,720
+strumenti avanzati di riconoscimento del testo e quindi, per esempio, voi avete
+
+454
+00:29:32,720 --> 00:29:35,920
+un'immagine salvata all'interno di una di queste cose.
+
+455
+00:29:36,320 --> 00:29:42,240
+Potete ricercare anche il testo all'interno dell'immagine perché, per esempio, Evernote fa
+
+456
+00:29:42,240 --> 00:29:43,520
+l'OCR di tutto.
+
+457
+00:29:43,520 --> 00:29:44,400
+Praticamente.
+
+458
+00:29:44,400 --> 00:29:48,720
+È infatti, uno dei motivi per cui è anche apprezzato, è perché
+
+459
+00:29:48,720 --> 00:29:53,760
+a prescindere dai contenuti che voi buttate dentro, diciamo, Evernot riesce a
+
+460
+00:29:53,760 --> 00:29:56,000
+indicizzare in maniera molto avanzata.
+
+461
+00:29:56,000 --> 00:29:57,440
+Proprio avendo queste caratteristiche.
+
+462
+00:29:57,440 --> 00:29:59,880
+C'è un ottimo software che io non uso, ovviamente, perché
+
+463
+00:30:04,120 --> 00:30:08,440
+non è questo il punto della situazione, ma piuttosto è cercare di
+
+464
+00:30:09,240 --> 00:30:13,320
+pensare a come fare a creare le cartelle.
+
+465
+00:30:13,320 --> 00:30:17,800
+Ad esempio, sul Mac, che è una cosa abbastanza semplice.
+
+466
+00:30:17,800 --> 00:30:20,040
+Ci sono anche le scorciatoie.
+
+467
+00:30:20,200 --> 00:30:23,720
+Se non ricordo male, dovrebbe essere il CTRL-SHIFT N.
+
+468
+00:30:23,800 --> 00:30:25,240
+Se vado a memoria così
+
+469
+00:30:26,440 --> 00:30:30,360
+però a questo punto dovete un attimo pensare anche a come gestire
+
+470
+00:30:30,360 --> 00:30:31,720
+la vostra struttura di cartelle.
+
+471
+00:30:31,720 --> 00:30:35,800
+Il consiglio è quello di non esagerare con le sottocartelle, cioè fare
+
+472
+00:30:36,040 --> 00:30:43,320
+l'albero genealogico della vostra famiglia fino alla ventiduesima generazione per riuscire soltanto
+
+473
+00:30:43,320 --> 00:30:49,640
+a incanalare un file di un'immagine, ad esempio, ma cercate di raggruppare
+
+474
+00:30:49,640 --> 00:30:53,240
+il più possibile e di non fare una cosa troppo complicata.
+
+475
+00:30:53,240 --> 00:30:57,960
+Diciamo che un limite sensato, sono 5-6 livelli, giusto per farci capire.
+
+476
+00:30:57,960 --> 00:31:03,240
+Andando invece per i Ciofani, con i tag la situazione è decisamente
+
+477
+00:31:03,240 --> 00:31:06,600
+ben diversa, come abbiamo cercato di spiegarvi.
+
+478
+00:31:06,760 --> 00:31:11,080
+Essenzialmente io non lo utilizzo molto, potete associare molti tag a un
+
+479
+00:31:11,080 --> 00:31:17,000
+semplice file, sicché quando andate a fare una ricerca sul Mac con
+
+480
+00:31:17,800 --> 00:31:21,960
+Spotlight, riuscite a trovare probabilmente
+
+481
+00:31:23,240 --> 00:31:26,840
+molti file che riguardano un determinato tag.
+
+482
+00:31:26,840 --> 00:31:30,840
+Vi lascio: mi piacerebbe lasciare note dell'episodio un
+
+483
+00:31:31,960 --> 00:31:34,920
+file con un sacco di tag e vedere come
+
+484
+00:31:36,360 --> 00:31:39,640
+vi trovate, ma non è questo il caso.
+
+485
+00:31:39,640 --> 00:31:45,520
+Considerate che questi tag, per esempio, sono utili anzi, sono derivati, secondo
+
+486
+00:31:45,520 --> 00:31:51,360
+me, dalla struttura di internet essenzialmente, dove per esempio un podcast come
+
+487
+00:31:51,360 --> 00:31:55,520
+il nostro utilizza i tag per dire ad esempio che tipi di
+
+488
+00:31:55,520 --> 00:31:59,440
+argomenti è cui è associato, oppure ad esempio come Instagram, che poi
+
+489
+00:31:59,440 --> 00:32:02,640
+mette una serie di tag per appunto indicare gli argomenti.
+
+490
+00:32:02,640 --> 00:32:07,760
+Essenzialmente possiamo in effetti dire che i tag sono una chiara derivazione
+
+491
+00:32:07,760 --> 00:32:13,040
+di questo utilizzo dei social, soprattutto di quelli che riguardano le immagini
+
+492
+00:32:13,040 --> 00:32:14,880
+e compagnia cantante.
+
+493
+00:32:15,200 --> 00:32:19,840
+Se invece andiamo a fare un giro su iPhone e iPad, qual
+
+494
+00:32:19,840 --> 00:32:21,680
+è la situazione che è
+
+495
+00:32:22,800 --> 00:32:23,440
+più complessa?
+
+496
+00:32:23,440 --> 00:32:28,560
+No, giustamente perché, come sappiamo benissimo, qua abbiamo due aree del lavoro
+
+497
+00:32:28,560 --> 00:32:33,840
+che uno è più tende verso il Mac e uno verso l'iPad.
+
+498
+00:32:34,480 --> 00:32:38,240
+Quindi, da parte mia, che ovviamente io pendo più sul Mac, ho
+
+499
+00:32:38,240 --> 00:32:42,160
+detto è chiaro che era più complesso sull'iPad, ma non è detta
+
+500
+00:32:42,320 --> 00:32:46,960
+l'ultima parola, perché sappiate che manca più poco ormai.
+
+501
+00:32:46,960 --> 00:32:49,280
+Per noi adesso che registriamo manca un mesetto.
+
+502
+00:32:49,360 --> 00:32:50,960
+Tuttavia, fra un po' arriveranno un po'.
+
+503
+00:32:50,960 --> 00:32:54,720
+Penso un po' di novità per quanto riguarda l'iPad, io ne sono
+
+504
+00:32:54,720 --> 00:32:56,320
+assolutamente sicuro.
+
+505
+00:32:56,320 --> 00:33:00,880
+Quindi queste mie parole potranno essere ribaltate da qui a un mese,
+
+506
+00:33:00,880 --> 00:33:03,600
+potrebbe avere la data di scadenza di 30 giorni.
+
+507
+00:33:03,600 --> 00:33:04,640
+Vi dico solo questo.
+
+508
+00:33:04,640 --> 00:33:11,440
+Comunque, il peccato originale di questi dispositivi, chiamiamolo così, è che l'archetipo
+
+509
+00:33:11,440 --> 00:33:16,560
+di funzionamento non è il documento, ma bensì l'app.
+
+510
+00:33:16,520 --> 00:33:21,120
+Perché, perché come sapete, essenzialmente si lavora a tutto schermo con una
+
+511
+00:33:21,120 --> 00:33:24,160
+singola app fino a poco tempo fa, adesso ci si può lavorare
+
+512
+00:33:24,160 --> 00:33:25,840
+anche con due app affiancate.
+
+513
+00:33:25,840 --> 00:33:30,200
+Ma essenzialmente l'idea è questa: tu utilizzi l'app per fare qualcosa e
+
+514
+00:33:29,840 --> 00:33:32,120
+il file è relativo.
+
+515
+00:33:32,600 --> 00:33:39,720
+Quando noi eravamo giovani, i file erano all'interno di una simpatica sandbox
+
+516
+00:33:39,720 --> 00:33:42,840
+all'interno dell'applicazione e non c'era
+
+517
+00:33:44,440 --> 00:33:48,280
+non c'era un sistema come file che insomma te li fa bene
+
+518
+00:33:48,280 --> 00:33:49,880
+o male navigare.
+
+519
+00:33:49,880 --> 00:33:56,600
+Tu se volevi fare facevi un'immagine e rimaneva all'interno dell'applicazione foto.
+
+520
+00:33:56,600 --> 00:34:03,240
+Poi, se per caso volevi applicarci un filtrovi salvarla, auguri a tutti
+
+521
+00:34:03,240 --> 00:34:05,560
+quanti perché era veramente un mezzo macello.
+
+522
+00:34:05,880 --> 00:34:09,400
+La copiavi una nuova applicazione che faceva quella e poi se la
+
+523
+00:34:09,400 --> 00:34:13,400
+volevi dovevi salvarla nel ruletto era quasi ridicolo.
+
+524
+00:34:13,960 --> 00:34:15,240
+E ovviamente avevi il
+
+525
+00:34:16,280 --> 00:34:20,200
+tre foto numerate, ma adesso le cose sono molto migliorate con file
+
+526
+00:34:20,360 --> 00:34:26,200
+per fortuna, e soprattutto c'è anche una specie di multitask all'interno di
+
+527
+00:34:26,200 --> 00:34:30,360
+iPadOS che è di sicuro d'aiuto in questi casi.
+
+528
+00:34:30,360 --> 00:34:34,600
+Comunque, in ogni caso, ogni app aveva un suo contenitore, giusto per
+
+529
+00:34:34,600 --> 00:34:39,880
+fare un attimino di storia, in cui praticamente venivano salvati all'interno di
+
+530
+00:34:39,880 --> 00:34:45,640
+questo contenitore tutti i documenti e questi documenti erano solo per quell'applicazione
+
+531
+00:34:45,640 --> 00:34:49,640
+singola e quindi diventa chiaramente molto difficile.
+
+532
+00:34:49,640 --> 00:34:53,880
+File ci ha aiutato tutti quanti perché, anche, tra l'altro, è un
+
+533
+00:34:53,880 --> 00:35:00,120
+document provider di terze parti, questa limitazione, la limitazione di cui vi
+
+534
+00:35:00,120 --> 00:35:02,680
+parlavamo prima è notevolmente diminuita.
+
+535
+00:35:02,680 --> 00:35:06,520
+Ma salvare i documenti non è ancora comodissimo, perché
+
+536
+00:35:08,120 --> 00:35:09,560
+non è comodissimo.
+
+537
+00:35:09,560 --> 00:35:14,520
+Penso per noi che siamo vecchi: perché per i cifani che utilizzano
+
+538
+00:35:14,800 --> 00:35:19,440
+l'iPad molto più di noi o l'iPhone molto più di noi, penso
+
+539
+00:35:19,440 --> 00:35:23,680
+che abbiano un concetto di penso proprio davvero che iniziino a maturare
+
+540
+00:35:23,680 --> 00:35:27,040
+un concetto diverso di salvataggio dei file che è diverso dalla nostra
+
+541
+00:35:27,040 --> 00:35:27,840
+epoca.
+
+542
+00:35:27,840 --> 00:35:32,080
+Molto probabilmente loro hanno anche un altro modo di pensare che è
+
+543
+00:35:32,080 --> 00:35:37,840
+distante da noi perché noi siamo abituati ancora a un sistema vecchio
+
+544
+00:35:38,160 --> 00:35:43,840
+che deriva dalla fisicità delle cose, cartelle e documenti.
+
+545
+00:35:43,840 --> 00:35:48,400
+Loro molto probabilmente lavorano già su app e ragionano in un modo
+
+546
+00:35:48,400 --> 00:35:49,280
+diverso.
+
+547
+00:35:50,160 --> 00:35:52,880
+Non è che ci sia un modo migliore o peggiore, ognuno lavora
+
+548
+00:35:52,880 --> 00:35:54,880
+col suo col suo modo.
+
+549
+00:35:54,880 --> 00:35:59,760
+Però io penso che da qui a dieci anni ho paura che
+
+550
+00:35:59,760 --> 00:36:06,400
+la struttura cartelle che conosciamo noi incomincerà a risentire veramente la pesantezza
+
+551
+00:36:06,400 --> 00:36:10,080
+del tempo che è passato, e magari si passerà a qualcosa che
+
+552
+00:36:10,080 --> 00:36:13,280
+è molto più vicino alla gestione che ha
+
+553
+00:36:14,400 --> 00:36:17,360
+attualmente o che avrà in futuro iPadOS.
+
+554
+00:36:17,360 --> 00:36:20,640
+Questa è una mia previsione, anche questa con la scadenza di 30
+
+555
+00:36:20,640 --> 00:36:22,400
+giorni, ma questa è molto più lunga.
+
+556
+00:36:22,400 --> 00:36:23,760
+Quindi staremo a vedere.
+
+557
+00:36:23,760 --> 00:36:28,560
+Io penso che l'informatica sarà continuamente in evoluzione.
+
+558
+00:36:28,560 --> 00:36:33,920
+Probabilmente il paradigma delle cartelle a breve inizierà a terminare.
+
+559
+00:36:34,160 --> 00:36:36,160
+Vediamo e staremo a vedere.
+
+560
+00:36:36,160 --> 00:36:41,360
+Comunque, di file che questo simpatico document provider, ne abbiamo già puntata
+
+561
+00:36:41,680 --> 00:36:45,840
+ne abbiamo già parlato: una puntata 4 e 5, dedicata rispettivamente ad
+
+562
+00:36:45,840 --> 00:36:48,320
+iOS ed iPadOS.
+
+563
+00:36:48,320 --> 00:36:51,920
+Quindi non mi sembra il caso di ritornarci, e anzi, possiamo andare
+
+564
+00:36:51,920 --> 00:36:56,880
+via più o meno scivolosamente bene per parlare del lavoro in digitale,
+
+565
+00:36:56,880 --> 00:36:59,840
+che è il vero focus della puntata.
+
+566
+00:36:59,880 --> 00:37:02,760
+A questo punto, io lascio di nuovo la parola al mio co-host
+
+567
+00:37:02,920 --> 00:37:08,200
+che ci racconterà cosa dobbiamo fare, ma soprattutto, come li tiriamo fuori
+
+568
+00:37:08,200 --> 00:37:09,240
+quando ci servono.
+
+569
+00:37:09,800 --> 00:37:16,040
+Ovviamente abbiamo fatto tutta l'attività di da una parte archiviare, salvare i
+
+570
+00:37:16,040 --> 00:37:20,600
+documenti in digitale, archiviarli, a questo punto dobbiamo anche tirarli fuori quando
+
+571
+00:37:20,600 --> 00:37:22,200
+sono necessari.
+
+572
+00:37:22,200 --> 00:37:28,280
+Diciamo che sia su macOS che su iOS e iPadOS, ci sono
+
+573
+00:37:28,280 --> 00:37:30,760
+funzioni di ricerca abbastanza evolute.
+
+574
+00:37:30,760 --> 00:37:35,480
+Quello, tuttavia, che fa la differenza è che nei nostri sistemi e
+
+575
+00:37:35,480 --> 00:37:40,760
+i nostri documenti sia stato fatto il cosiddetto Optical Character
+
+576
+00:37:41,800 --> 00:37:51,640
+Recognition, mi sono impapinato notevolmente, cioè OCR, ovvero riconoscimento ottico del testo.
+
+577
+00:37:51,640 --> 00:37:56,680
+In pratica, per i documenti che non nascono nativamente digitali, quindi che
+
+578
+00:37:57,000 --> 00:38:04,600
+non sono già del testo digitale, è possibile applicare con appositi software,
+
+579
+00:38:04,600 --> 00:38:09,800
+appunto, un livello nascosto al cui interno viene inserito invece il testo
+
+580
+00:38:09,800 --> 00:38:16,200
+contenuto nell'immagine del documento sostanzialmente e generato appunto da questi software.
+
+581
+00:38:16,760 --> 00:38:21,880
+Il riconoscimento del testo non era molto preciso, ma ormai è un'operazione
+
+582
+00:38:21,960 --> 00:38:28,360
+relativamente semplice, ormai abituale su macOS, su iOS e su iPadOS.
+
+583
+00:38:28,360 --> 00:38:34,120
+Ormai esistono vari strumenti e progetti gratuiti, tra cui anche quello stesso
+
+584
+00:38:34,120 --> 00:38:35,160
+di Apple.
+
+585
+00:38:35,160 --> 00:38:40,760
+Anche se bisogna lavorarci sopra un attimo perché non è così semplice,
+
+586
+00:38:40,760 --> 00:38:44,280
+ma diciamo che gli strumenti di Apple ci sono, basta solo implementarli
+
+587
+00:38:44,280 --> 00:38:49,120
+nelle varie applicazioni o utilizzare tutta una serie di piccoli accorgimenti, ma
+
+588
+00:38:49,120 --> 00:38:52,640
+che sono un po' di livello superiore quindi non entrerò troppo nel
+
+589
+00:38:52,640 --> 00:38:53,120
+dettaglio.
+
+590
+00:38:53,120 --> 00:38:56,880
+Una volta che nei nostri PDF, ovviamente, i nostri documenti, c'è del
+
+591
+00:38:56,880 --> 00:39:01,840
+testo da cercare, il finder così come file può eseguire delle ricerche
+
+592
+00:39:01,840 --> 00:39:08,320
+più o meno avanzate e quindi rendere facile trovare un documento che,
+
+593
+00:39:08,320 --> 00:39:10,160
+tra virgolette, abbiamo perso.
+
+594
+00:39:10,160 --> 00:39:17,120
+L'altro metodo, ovviamente, cercare documenti in base alla struttura cartelle costruita e
+
+595
+00:39:17,200 --> 00:39:21,120
+appunto dei secondi nomi che abbiamo dato al documento.
+
+596
+00:39:21,120 --> 00:39:26,400
+Ed effettivamente, secondo me, dobbiamo tenere a mente tutte e due le
+
+597
+00:39:26,400 --> 00:39:30,720
+strade: cioè con il finder, per esempio, è possibile fare tutta una
+
+598
+00:39:30,720 --> 00:39:37,040
+serie di ricerche anche relativamente mirate su determinate parole o determinate tipologie,
+
+599
+00:39:37,040 --> 00:39:39,040
+per esempio, di file da cercare.
+
+600
+00:39:39,360 --> 00:39:45,120
+Ma avere già un file nominato in modo corretto e quindi facile
+
+601
+00:39:45,120 --> 00:39:50,800
+da comprendere qual è il contenuto del documento, ovviamente questo agevola la
+
+602
+00:39:50,800 --> 00:39:57,600
+ricerca e velocizza ovviamente qualsiasi attività, prescindere dall'OCR- e così via.
+
+603
+00:39:57,600 --> 00:40:02,000
+Direi di non andare oltre anche perché stiamo già sforando i nostri
+
+604
+00:40:02,000 --> 00:40:03,120
+tempi lunghi.
+
+605
+00:40:03,600 --> 00:40:08,880
+Ma mi vedeva un attimo Filippo ero un attimo assorto, perché stavo
+
+606
+00:40:08,880 --> 00:40:14,880
+leggendo sulla chat della live che Daniele Borghi ci racconta che tempo
+
+607
+00:40:14,880 --> 00:40:19,920
+fa usavo un'app su SX per organizzare i documenti su Mac con
+
+608
+00:40:19,920 --> 00:40:20,640
+i tag.
+
+609
+00:40:20,880 --> 00:40:24,240
+Si chiama LIP, credo che sia dell'Aeronic Software.
+
+610
+00:40:24,240 --> 00:40:28,080
+E penso proprio che la casa produttrice sia proprio quella.
+
+611
+00:40:28,080 --> 00:40:30,000
+Io stavo facendo una veloce ricerca
+
+612
+00:40:30,000 --> 00:40:33,480
+su internet di quello che si tratta.
+
+613
+00:40:33,720 --> 00:40:38,920
+In effetti si chiama Lip For ed è per macOS, però vedo
+
+614
+00:40:38,920 --> 00:40:43,400
+che pare che sia supportata fino alla 10.12, quindi penso che sia
+
+615
+00:40:43,560 --> 00:40:46,120
+un po' vecchia e forse anche tralasciata.
+
+616
+00:40:46,120 --> 00:40:49,960
+Tuttavia, la cosa interessante è che se ho letto bene perché ho
+
+617
+00:40:50,040 --> 00:40:53,560
+letto un po' alla velocità della luce, questo ti convertiva tutti i
+
+618
+00:40:53,560 --> 00:40:57,560
+tuoi file utilizzando dei tag quindi avevi i file
+
+619
+00:40:58,760 --> 00:41:06,360
+organizzati per tag e conseguentemente era un altro modo di lavorare con
+
+620
+00:41:06,600 --> 00:41:07,800
+i file.
+
+621
+00:41:07,800 --> 00:41:12,040
+Sarebbe stato interessante provarlo, volevo più che altro vedere adesso se per
+
+622
+00:41:12,040 --> 00:41:12,760
+caso.
+
+623
+00:41:12,760 --> 00:41:18,440
+Secondo me è stato cannibalizzato da quando poi, su Maverick, che secondo
+
+624
+00:41:18,440 --> 00:41:21,720
+me è più o meno quel sistema operativo, adesso non mi ricordo
+
+625
+00:41:21,800 --> 00:41:27,800
+più, ma secondo me siamo al 10.15 o 11 e il 12
+
+626
+00:41:27,800 --> 00:41:30,040
+era lì da Maverick, secondo me.
+
+627
+00:41:30,280 --> 00:41:36,200
+Stavo cercando di capire se per caso era approdata al Mac App
+
+628
+00:41:36,440 --> 00:41:40,520
+Store, perché era segnato che sarebbe arrivato, ma mi sa che non
+
+629
+00:41:40,520 --> 00:41:42,360
+è arrivato ed è
+
+630
+00:41:43,560 --> 00:41:44,360
+non c'è più.
+
+631
+00:41:44,360 --> 00:41:46,760
+Essenzialmente, è un'applicazione che è morta.
+
+632
+00:41:46,760 --> 00:41:51,000
+Tutti era interessante come approccio, indubbiamente.
+
+633
+00:41:51,000 --> 00:41:53,480
+Grazie Daniele per avercelo fatto conoscere.
+
+634
+00:41:53,480 --> 00:41:56,280
+Questo software che non conoscevo, approccio interessante.
+
+635
+00:41:56,280 --> 00:42:01,240
+Peccato si è perso nell'etere, chiamiamo così: a questo punto, più o
+
+636
+00:42:01,320 --> 00:42:03,400
+meno, abbiamo visto come cercare i documenti.
+
+637
+00:42:03,400 --> 00:42:08,040
+Adesso non siamo entrati proprio nello specifico, esistono tutta una serie anche
+
+638
+00:42:08,040 --> 00:42:14,360
+di software per fare ricerche avanzate, ovviamente all'interno delle cartelle di indicizzazione.
+
+639
+00:42:14,360 --> 00:42:17,520
+Però devo dire la verità: Spotlight su macOS
+
+640
+00:42:18,880 --> 00:42:21,680
+, ma perché non ci sono abituato, devo dire la verità a fare
+
+641
+00:42:21,680 --> 00:42:26,000
+la ricerca con gli strumenti di file,
+
+642
+00:42:27,600 --> 00:42:32,320
+ha la possibilità di fare delle ricerche abbastanza avanzate e forse ne
+
+643
+00:42:32,320 --> 00:42:38,800
+abbiamo anche accennato nelle prime puntate di A2 quindi non ci ripetiamo.
+
+644
+00:42:38,800 --> 00:42:46,080
+A questo punto, l'altra parte fondamentale, soprattutto in quest'ultimo periodo dove siamo
+
+645
+00:42:46,080 --> 00:42:52,240
+iper connessi, è come condividere questi documenti che abbiamo digitalizzato e cosa
+
+646
+00:42:52,240 --> 00:42:52,800
+farne.
+
+647
+00:42:52,800 --> 00:42:56,560
+Ovviamente ci sono due modalità: una fisica che è evidente,
+
+648
+00:42:58,000 --> 00:42:59,600
+con modi virtuali.
+
+649
+00:42:59,600 --> 00:43:03,680
+Il modo fisico è la soluzione più semplice ed è anche attualmente
+
+650
+00:43:03,680 --> 00:43:07,200
+molto utilizzata pur troppo dal mio punto di vista.
+
+651
+00:43:07,200 --> 00:43:11,200
+Sono le cosiddette chiavette USB o un hard disk esterno.
+
+652
+00:43:11,200 --> 00:43:13,760
+È anche quella che è più sconsigliata.
+
+653
+00:43:13,760 --> 00:43:18,320
+Perché le chiavette USB o qualsiasi disco esterno sono facili da perdere
+
+654
+00:43:18,320 --> 00:43:18,560
+o
+
+655
+00:43:19,840 --> 00:43:22,880
+da rubare o si rompono, esatto.
+
+656
+00:43:23,040 --> 00:43:31,280
+Inoltre, tristemente, sono le fonti migliori di attacchi virali per i vostri
+
+657
+00:43:31,280 --> 00:43:32,560
+computer.
+
+658
+00:43:33,120 --> 00:43:35,680
+Per cui non so se
+
+659
+00:43:36,880 --> 00:43:40,400
+non mi ricordo più dove l'ho letto, ma uno dei modi più
+
+660
+00:43:40,400 --> 00:43:46,080
+semplici per attaccare un'azienda è quella di lanciare e lasciare vicino ai
+
+661
+00:43:46,080 --> 00:43:48,000
+parcheggi delle auto e così via.
+
+662
+00:43:48,000 --> 00:43:50,320
+Le chiavette USB con virus.
+
+663
+00:43:50,880 --> 00:43:54,000
+Perché la maggior parte dei dipendenti cosa fa?
+
+664
+00:43:54,000 --> 00:43:56,160
+Le prende e la prima cosa che fa è la mettere in.
+
+665
+00:43:56,320 --> 00:43:58,000
+Chissà cosa c'è lì dentro?
+
+666
+00:43:58,000 --> 00:43:59,920
+È un po' come un vaso di Pandora.
+
+667
+00:44:01,480 --> 00:44:02,120
+E quindi
+
+668
+00:44:03,240 --> 00:44:09,640
+tendenzialmente è la strada da evitare, o quantomeno, state attenti: siano solo
+
+669
+00:44:09,640 --> 00:44:14,040
+le vostre chiavette, comunque andrebbero cifrate, insomma, tutta una serie di cose
+
+670
+00:44:14,040 --> 00:44:16,600
+che abitualmente, se si iniziano a fare,
+
+671
+00:44:17,720 --> 00:44:19,800
+rendono il tutto poco piacevole.
+
+672
+00:44:19,800 --> 00:44:27,400
+L'alternativa, ovviamente, è quella: c'è anche airdrop di cui abbiamo parlato varie
+
+673
+00:44:27,400 --> 00:44:27,880
+volte.
+
+674
+00:44:28,360 --> 00:44:31,160
+C'è stato anche un problema recente di airdrop.
+
+675
+00:44:31,160 --> 00:44:36,280
+Quindi vale segnalarlo, c'è stato un buco di airdrop che ha dei
+
+676
+00:44:36,280 --> 00:44:36,600
+problemi.
+
+677
+00:44:36,600 --> 00:44:39,080
+E non so se è stato ancora risolto.
+
+678
+00:44:39,080 --> 00:44:43,800
+So che sono stati fatti sicuramente gli aggiornamenti di sicurezza recenti, ma
+
+679
+00:44:43,800 --> 00:44:49,400
+non mi ricordo se era per quello o per altre vulnerabilità gravi.
+
+680
+00:44:49,400 --> 00:44:53,080
+Comunque, un'alternativa è quella è sicuramente molto comoda.
+
+681
+00:44:53,080 --> 00:44:58,520
+Se sapete come utilizzarlo, avete strumenti Apple, l'altro è ovviamente il cloud.
+
+682
+00:44:58,520 --> 00:45:03,000
+Se avete salvato i vostri documenti in un cloud, sia Dropbox, iCloud,
+
+683
+00:45:03,000 --> 00:45:05,080
+Google Drive, OneDrive.
+
+684
+00:45:05,080 --> 00:45:09,880
+Io mi infilo subito qua perché parlando di cloud, occhio a quello
+
+685
+00:45:09,880 --> 00:45:10,680
+che fate.
+
+686
+00:45:10,680 --> 00:45:15,960
+Recentemente un mio cliente con il suo impeto di condividere le cose,
+
+687
+00:45:15,960 --> 00:45:21,160
+ha cominciato a buttare su una serie di dati sulla mia Dropbox
+
+688
+00:45:21,480 --> 00:45:25,880
+e da 2 giga sono arrivato a 3 giga e conseguentemente Dropbox
+
+689
+00:45:25,960 --> 00:45:27,160
+mi ha detto sai che c'è?
+
+690
+00:45:27,160 --> 00:45:31,480
+Adesso questo è il piano pagamento se vuoi arrivare ai tuoi dati.
+
+691
+00:45:31,480 --> 00:45:36,040
+Quindi occhio va bene condividere, ma fatelo con un po' di testa.
+
+692
+00:45:36,040 --> 00:45:39,320
+Sì, sì, vabbè, poi è ovvio che se tu non pagi il
+
+693
+00:45:39,320 --> 00:45:42,840
+tuo cliente invece lì che paga a Gigabyte come se non ci
+
+694
+00:45:42,840 --> 00:45:44,040
+fosse un domani.
+
+695
+00:45:44,040 --> 00:45:48,880
+Tuttavia, tendenzialmente Dropbox non ti permette di bloccare il caricaggio di alcune
+
+696
+00:45:48,880 --> 00:45:51,840
+cartelle, però tu proprio non le vedevi.
+
+697
+00:45:51,920 --> 00:45:57,280
+No, il problema è che se fosse stato condiviso il link alla
+
+698
+00:45:57,280 --> 00:45:59,840
+cartella non avrei avuto problemi.
+
+699
+00:46:00,240 --> 00:46:03,600
+Invece mi è stato condiviso la cartella perché con gli infami di
+
+700
+00:46:03,600 --> 00:46:04,720
+Dropbox.
+
+701
+00:46:04,720 --> 00:46:10,160
+Se tu condividi una cartella vuol dire che occupi proprio spazio, anche
+
+702
+00:46:10,160 --> 00:46:13,680
+se in realtà è occupato una volta sola, capito.
+
+703
+00:46:13,680 --> 00:46:18,080
+Comunque con tutti questi sistemi è possibile condividere con soggetti terzi in
+
+704
+00:46:18,080 --> 00:46:24,560
+maniera relativamente semplice, probabilmente l'avete fatto varie volte quindi non stiamo qui
+
+705
+00:46:24,560 --> 00:46:26,000
+a dilungarci.
+
+706
+00:46:26,240 --> 00:46:32,000
+È possibile, ovviamente, come abbiamo detto, di condividere singoli documenti o intere
+
+707
+00:46:32,000 --> 00:46:35,760
+cartelle, ma in questo caso, appunto, state attenti a quante cartelle.
+
+708
+00:46:35,760 --> 00:46:40,960
+Mandare il link alla cartella condivisa che è ancora meglio, ma vedi
+
+709
+00:46:41,040 --> 00:46:43,280
+lì è quello step ulteriormente complesso
+
+710
+00:46:44,320 --> 00:46:44,640
+che
+
+711
+00:46:46,000 --> 00:46:46,080
+.
+
+712
+00:46:46,240 --> 00:46:48,560
+Io ti condivido la cartella e chi si è visto si è
+
+713
+00:46:48,560 --> 00:46:49,040
+visto.
+
+714
+00:46:50,800 --> 00:46:53,520
+Lo spazio è tuo, poi arrangiati.
+
+715
+00:46:53,520 --> 00:46:57,680
+Segnalo solo perché è una cosa a cui sto guardando da un
+
+716
+00:46:57,680 --> 00:47:01,280
+po' di tempo questa parte, e di fatto è il nostro sistema.
+
+717
+00:47:01,920 --> 00:47:06,960
+Utilizzo questo podcast si regge su un server next cloud.
+
+718
+00:47:06,960 --> 00:47:14,400
+Esiste appunto un cloud personale, una soluzione sostanzialmente open source.
+
+719
+00:47:14,400 --> 00:47:20,880
+Che rispetto ai grandi giganti, diciamo di internet con soluzioni del genere,
+
+720
+00:47:20,880 --> 00:47:26,960
+potete condividere i vostri documenti dai vostri server e quindi questo rende
+
+721
+00:47:27,120 --> 00:47:32,360
+più semplice e più sicura la vicenda, e di fatto, da quello
+
+722
+00:47:32,360 --> 00:47:36,280
+che ho visto io, il grosso del sistema funziona in maniera molto
+
+723
+00:47:36,280 --> 00:47:41,160
+lineare, molto semplice e vi permette appunto di gestire in maniera molto
+
+724
+00:47:41,160 --> 00:47:43,400
+fluida tante soluzioni.
+
+725
+00:47:43,400 --> 00:47:48,120
+Appunto, noi lavoriamo su un piccolo server Next Cloud, che come messo
+
+726
+00:47:48,280 --> 00:47:53,080
+in piedi io, quindi non è che è un'operazione eccessivamente complicata, anche
+
+727
+00:47:53,080 --> 00:47:55,320
+se comunque richiede un minimo.
+
+728
+00:47:55,320 --> 00:48:00,840
+Beh, insomma, di fatti l'hai fatto tu, non l'ho fatto io, allora,
+
+729
+00:48:00,840 --> 00:48:04,280
+di backup ne abbiamo parlati, e se non lo sapete cosa abbiamo
+
+730
+00:48:04,280 --> 00:48:09,000
+fatto, vi beccate delle frostate perché andate dritti dritti nella puntata 8
+
+731
+00:48:09,000 --> 00:48:12,200
+a fare un bel ripasso del perché il backup è l'unica cosa
+
+732
+00:48:12,200 --> 00:48:14,840
+che vi salva in questa vita digitale.
+
+733
+00:48:14,840 --> 00:48:18,520
+Piccola nota per chi usa iPhone o iPad per fare i backup
+
+734
+00:48:20,200 --> 00:48:22,440
+, solo iPad e iPhone, perché se hai anche il
+
+735
+00:48:23,560 --> 00:48:27,320
+fare backup dei dati ci sono solo due strade,
+
+736
+00:48:29,240 --> 00:48:33,960
+mi risulta difficile utilizzare solo l'iPhone o l'iPad senza un Mac, però,
+
+737
+00:48:33,960 --> 00:48:37,480
+questo è un mio punto di vista perché in effetti è l'esperienza
+
+738
+00:48:37,560 --> 00:48:38,120
+castrata.
+
+739
+00:48:38,600 --> 00:48:41,400
+Vedo mia moglie che delle volte fa veramente fatica
+
+740
+00:48:42,680 --> 00:48:46,120
+a far parlare in Windows e il suo iPhone.
+
+741
+00:48:46,120 --> 00:48:48,680
+Comunque, questo è il mio punto di vista personale.
+
+742
+00:48:48,680 --> 00:48:51,880
+In ogni caso, cosa gli rimane da fare a mia moglie e
+
+743
+00:48:51,880 --> 00:48:57,400
+a tutti quegli utenti che hanno un dispositivo Apple Mobile e hanno
+
+744
+00:48:57,400 --> 00:48:59,160
+un PC Windows.
+
+745
+00:48:59,320 --> 00:49:03,160
+Fare una copia su disco esterno collegato ad iPhone iPad.
+
+746
+00:49:03,160 --> 00:49:05,240
+Se hanno, diciamo la
+
+747
+00:49:06,440 --> 00:49:07,640
+nuova porta, perché
+
+748
+00:49:08,680 --> 00:49:10,760
+lighting funziona perfettamente.
+
+749
+00:49:11,320 --> 00:49:13,720
+Deve avere l'adattatore USB.
+
+750
+00:49:14,120 --> 00:49:15,920
+Esatto, esatto, è quello che stavo dicendo.
+
+751
+00:49:16,160 --> 00:49:20,640
+Vabbè, ragazzo mio, chi non ce l'ha, chi non ce l'ha
+
+752
+00:49:22,240 --> 00:49:27,840
+di adattatori così, quello è uno di quegli oggetti che effettivamente, se
+
+753
+00:49:27,840 --> 00:49:32,720
+usi solo un iPad o solo un iPhone, io consiglierei di acquistare,
+
+754
+00:49:33,520 --> 00:49:34,720
+esattamente.
+
+755
+00:49:34,960 --> 00:49:39,040
+Tuttavia fare solo la manina, che è già un bel divertimento, fare
+
+756
+00:49:39,040 --> 00:49:40,960
+il backup così.
+
+757
+00:49:41,200 --> 00:49:44,560
+Non è proprio il massimo della semplicità, anche lì.
+
+758
+00:49:44,560 --> 00:49:48,240
+Se hai tutto in una cartella, trascini la cartella da destra a
+
+759
+00:49:48,320 --> 00:49:48,720
+sinistra.
+
+760
+00:49:49,680 --> 00:49:51,520
+Devi essere bene organizzato.
+
+761
+00:49:52,160 --> 00:49:57,200
+È una delle limitazioni di iOS iPad che aiutano a essere organizzati.
+
+762
+00:49:57,200 --> 00:50:01,840
+Vero, anche quello, oppure vi fate il segno della croce e vi
+
+763
+00:50:02,640 --> 00:50:05,680
+agganciate o sperate nel cloud.
+
+764
+00:50:05,680 --> 00:50:09,840
+Perché dico sperate perché ve lo ricordo: il computer di qualcun altro.
+
+765
+00:50:09,840 --> 00:50:15,120
+Se voi non avete linea internet o avete qualche oppure il computer
+
+766
+00:50:15,120 --> 00:50:20,000
+di qualcun altro ha qualche problema, questo qualche problema diventa anche vostro.
+
+767
+00:50:20,000 --> 00:50:21,520
+E quindi, insomma,
+
+768
+00:50:22,800 --> 00:50:25,440
+contarci va bene, ma non contatteci troppo.
+
+769
+00:50:25,600 --> 00:50:29,840
+Tuttavia, a questo punto abbiamo parlato di fare un sacco di cose
+
+770
+00:50:29,840 --> 00:50:35,280
+con il digitale, qualcosa di carta ci sarà rimasto, sicuramente, per esempio,
+
+771
+00:50:35,280 --> 00:50:39,920
+cosa potrebbero esserci rimasti: atti di acquisto degli immobili, assicurazioni, certificati di
+
+772
+00:50:39,920 --> 00:50:45,920
+matrimonio, prescrizione del diritto, potere di accertamento dell'agenzia delle entrate.
+
+773
+00:50:46,000 --> 00:50:50,640
+Questo me l'ha messo il nostro mitico avvocato, vuol dire semplicemente che
+
+774
+00:50:50,640 --> 00:50:52,640
+dovete tenere i documenti per un certo anno
+
+775
+00:50:53,880 --> 00:50:54,360
+di anni,
+
+776
+00:50:55,400 --> 00:50:57,120
+sono 5 o 10 in base alla
+
+777
+00:50:58,640 --> 00:50:59,200
+7.
+
+778
+00:50:59,200 --> 00:51:00,520
+Dipende comunque.
+
+779
+00:51:01,080 --> 00:51:05,160
+Da 5 a 10, mettiamola così: se non entriamo in una cosa,
+
+780
+00:50:59,600 --> 00:51:06,120
+anche perché anch'io sul leggo.
+
+781
+00:51:06,520 --> 00:51:09,960
+Anzi, diciamo una cosa: se avete bisogno di consulenza, chiamate il nostro
+
+782
+00:51:09,960 --> 00:51:10,680
+avvocato.
+
+783
+00:51:10,760 --> 00:51:14,200
+No, perché questo è il tributario, quindi è più complicato.
+
+784
+00:51:15,480 --> 00:51:18,840
+Mi rimanderà da un qualche amico esatto, esatto.
+
+785
+00:51:19,160 --> 00:51:21,720
+E poi ci sanno anche i documenti fiscali.
+
+786
+00:51:21,960 --> 00:51:25,560
+Quello che vi avevo rivelato qualche puntata fa, come faccio io a
+
+787
+00:51:25,800 --> 00:51:27,720
+cavarmela con queste cose?
+
+788
+00:51:28,040 --> 00:51:31,880
+Ho questo stratagemma infallibile che è quello di mettere un puntino con
+
+789
+00:51:31,880 --> 00:51:34,600
+la matita sui documenti digitalizzati.
+
+790
+00:51:34,600 --> 00:51:39,080
+Quindi, nel momento in cui digitalizzo qualcosa, però ho bisogno anche del
+
+791
+00:51:39,080 --> 00:51:45,240
+formato cartaceo, il formato cartaceo se è digitalizzato, vedo questo puntino in
+
+792
+00:51:45,240 --> 00:51:48,840
+alto a destra e conseguentemente quando lo sfoglio capisco se intanto è
+
+793
+00:51:48,840 --> 00:51:49,720
+digitalizzato.
+
+794
+00:51:49,720 --> 00:51:53,480
+Perché magari voi avete la vostra bella cartella con gli anelli con
+
+795
+00:51:53,480 --> 00:51:56,680
+tutti dentro i vostri documenti e non sapete di quei documenti cosa
+
+796
+00:51:56,680 --> 00:51:58,200
+avete già in digitale.
+
+797
+00:51:58,200 --> 00:52:02,280
+Quindi questo potrebbe essere un barbatrucco che vi potrebbe servire in tutte
+
+798
+00:52:02,280 --> 00:52:03,400
+le evenienze.
+
+799
+00:52:03,400 --> 00:52:06,520
+Io direi che a questo punto abbiamo fatto una certa ora, ci
+
+800
+00:52:06,520 --> 00:52:09,960
+siamo fatti la nostra bella simpatica chiacchierata di un'ora in scioltezza tra
+
+801
+00:52:09,960 --> 00:52:14,600
+una risata e l'altra, visto che abbiamo concluso in un tempo digitoso.
+
+802
+00:52:14,600 --> 00:52:16,520
+Adesso vado a vedere da quanto tempo siamo online.
+
+803
+00:52:16,600 --> 00:52:19,480
+Neanche un'ora, neanche un'ora, cerchiamo di stare sotto l'ora.
+
+804
+00:52:20,760 --> 00:52:25,800
+Sono stati grandissimi, grandissimi e abbiamo anche divagato e risposto a tutti
+
+805
+00:52:25,800 --> 00:52:26,600
+quanti.
+
+806
+00:52:26,600 --> 00:52:32,600
+Tra l'altro, tornando sempre sul follow up di Daniele Borghi ci dice
+
+807
+00:52:32,600 --> 00:52:39,960
+che nel blog c'è già nel blog dell'applicazione LIP c'è un update
+
+808
+00:52:39,960 --> 00:52:40,920
+per M1.
+
+809
+00:52:40,920 --> 00:52:41,240
+Quindi
+
+810
+00:52:42,720 --> 00:52:46,320
+allora è aggiornata aggiornato, io avevo visto solo la pagina iniziale.
+
+811
+00:52:46,320 --> 00:52:48,320
+Mi sono fermato a quello erroneamente.
+
+812
+00:52:48,320 --> 00:52:52,960
+Ma giustamente Daniele ci fa sapere che l'IP c'è la versione 4.04
+
+813
+00:52:53,200 --> 00:52:57,920
+che è già pronta per M1, e poi è possibile scaricare la
+
+814
+00:52:57,920 --> 00:53:03,120
+prova dell'ultima versione compatibile con 10.15 10.15
+
+815
+00:53:05,920 --> 00:53:07,760
+di sistema operativo e simpatico.
+
+816
+00:53:07,840 --> 00:53:12,080
+Cataclisma e invece meglio noto come Catalina.
+
+817
+00:53:12,240 --> 00:53:13,200
+Sì, Catalina.
+
+818
+00:53:13,200 --> 00:53:16,080
+Giustamente, il nome tecnico, è vero, Catalina.
+
+819
+00:53:17,040 --> 00:53:21,600
+Tu pensi di migrare a Big Sur a breve o ci sto
+
+820
+00:53:21,760 --> 00:53:26,080
+facendo due conti più che altro per un discorso di semplificazione.
+
+821
+00:53:26,080 --> 00:53:32,400
+Cioè, adesso devo essere su Moave sul mio Mac in ufficio.
+
+822
+00:53:32,400 --> 00:53:38,080
+E Catalina sul MacBook Pro a casa, a questo punto stavo ragionando
+
+823
+00:53:38,080 --> 00:53:43,040
+che non aveva senso passare a Catalina la iMac dell'ufficio, ma era
+
+824
+00:53:43,200 --> 00:53:50,080
+quasi più sensato passare direttamente a Big Sur facendo un'installazione fresca e
+
+825
+00:53:50,080 --> 00:53:56,800
+salvando ovviamente una copia di backup dell'i Mac, almeno così non devo
+
+826
+00:53:56,800 --> 00:53:58,080
+farlo per altri due anni.
+
+827
+00:53:58,080 --> 00:54:00,880
+Esatto, perché te lo chiedo, perché
+
+828
+00:54:02,880 --> 00:54:06,320
+incomincio a sentire odor di bruciato.
+
+829
+00:54:06,960 --> 00:54:15,520
+Ho notato che curiosamente, sono uscite sull'App Store delle applicazioni che sono
+
+830
+00:54:15,520 --> 00:54:18,000
+compatibili solo con Big Sur.
+
+831
+00:54:18,000 --> 00:54:21,600
+Faccio due nomi: Sharp 3D, ad esempio, che è un programma di
+
+832
+00:54:21,600 --> 00:54:25,360
+modellazione che è passato da iPad a Io,
+
+833
+00:54:26,480 --> 00:54:31,240
+ma io S, e un motore di rendering che è stato rilasciato
+
+834
+00:54:31,240 --> 00:54:34,680
+in modo del tutto gratuito che si chiama Octinx e questo è
+
+835
+00:54:29,920 --> 00:54:36,600
+compatibile solo con Big Sur.
+
+836
+00:54:36,680 --> 00:54:37,000
+Quindi
+
+837
+00:54:38,040 --> 00:54:43,720
+ma il problema grosso attuale è quello che, secondo me, poi alla
+
+838
+00:54:43,720 --> 00:54:47,480
+fine ti impone più o meno di andare sempre avanti con i
+
+839
+00:54:47,480 --> 00:54:54,680
+sistemi operativi, è che gli sviluppatori sviluppano sull'ultimo sistema operativo e solitamente
+
+840
+00:54:54,680 --> 00:55:03,160
+le nuove collozioni, nuovi framework e così via, bloccano delle retrocompabilità per
+
+841
+00:55:03,160 --> 00:55:07,080
+cui anche il nostro amico Alex appunto ha certe funzioni.
+
+842
+00:55:08,840 --> 00:55:12,920
+A proposito di Alex, mi diceva che una cosa del genere potrebbe
+
+843
+00:55:12,920 --> 00:55:21,400
+derivare dalla diversa implementazione delle librerie metal, conseguentemente stanno galoppando quelli di
+
+844
+00:55:21,400 --> 00:55:22,040
+Apple.
+
+845
+00:55:22,040 --> 00:55:26,760
+Bisogna tenere un po' le orecchie alzate, soprattutto per chi è possessore
+
+846
+00:55:26,760 --> 00:55:29,640
+di Mac vecchi come me, vecchi.
+
+847
+00:55:29,640 --> 00:55:33,320
+Tra virgolette, nel senso, tu, Filippo, ne sei molto più vecchi del
+
+848
+00:55:33,320 --> 00:55:33,720
+mio.
+
+849
+00:55:33,720 --> 00:55:38,920
+Tuttavia, già il mio 2019 incomincia a puzzare un po' di quello
+
+850
+00:55:38,920 --> 00:55:45,080
+che incomincio continuamente a dire che, nonostante la mia macchina sia decisamente
+
+851
+00:55:45,080 --> 00:55:49,800
+recente, incomincia già a puzzare di vecchio, è la cosa mi mette
+
+852
+00:55:49,800 --> 00:55:51,400
+in preallarme.
+
+853
+00:55:51,400 --> 00:55:55,480
+Comunque trovate tutto quanto l'episodio con i link degli argomenti che abbiamo
+
+854
+00:55:55,480 --> 00:55:59,880
+trattato in puntata e tutti i nostri riferimenti che potete trovare anche
+
+855
+00:55:59,880 --> 00:56:04,680
+sul nostro sito, che vi ricordo che è due podcast.it, e basta
+
+856
+00:56:04,680 --> 00:56:08,920
+che digitate con le vostre ditine slash 12 e arrivate a questa
+
+857
+00:56:08,920 --> 00:56:10,520
+simpatica puntata.
+
+858
+00:56:10,520 --> 00:56:13,280
+Dove ci potete trovare, noi sappiamo dove ci troviamo.
+
+859
+00:56:12,840 --> 00:56:15,760
+Noi siamo
+
+860
+00:56:13,080 --> 00:56:17,040
+Roberto,
+
+861
+00:56:17,120 --> 00:56:23,920
+che sono io, mi trovi su Mac Architettura, il mio sito blog,
+
+862
+00:56:23,920 --> 00:56:26,320
+che è un attimo in dismissione.
+
+863
+00:56:26,320 --> 00:56:30,080
+Cioè, non in dismissione, un po' poco curato, ma ci saranno delle
+
+864
+00:56:30,080 --> 00:56:30,880
+novità.
+
+865
+00:56:31,120 --> 00:56:36,880
+Ve ne parlerò probabilmente verso fine mese ne parleremo tutti quanti assieme.
+
+866
+00:56:37,120 --> 00:56:43,440
+Invece, sono anche autore del podcast che esce tendenzialmente il venerdì mattina:
+
+867
+00:56:43,440 --> 00:56:50,160
+si chiama Snap Architettura Imperfetta, dove parlo essenzialmente di tecnologia applicata al
+
+868
+00:56:50,160 --> 00:56:51,440
+campo dell'architettura.
+
+869
+00:56:51,440 --> 00:56:54,720
+Invece, il nostro buon Filippo cosa fa nella vita?
+
+870
+00:56:55,040 --> 00:56:57,520
+Ho anche un sitarello.
+
+871
+00:56:57,520 --> 00:56:58,160
+Avocato
+
+872
+00:56:59,200 --> 00:57:01,040
+, ti sminisci sempre.
+
+873
+00:57:01,360 --> 00:57:06,800
+Direi che in queste ultime note conclusive della nostra vecchietine che galoppa,
+
+874
+00:57:06,800 --> 00:57:11,520
+direi che ci sentiamo la settimana prossima, o tra due settimane, o
+
+875
+00:57:11,520 --> 00:57:13,360
+tra tre o tra quattro.
+
+876
+00:57:13,440 --> 00:57:14,880
+Sta diventando un podcast su
+
+877
+00:57:16,800 --> 00:57:17,120
+ale
+
+878
+00:57:26,800 --> 00:57:28,080
+diretta chiusura
+
+879
+00:57:31,920 --> 00:57:35,600
+bene, andata bene anche questa stoppa la registrazione.
