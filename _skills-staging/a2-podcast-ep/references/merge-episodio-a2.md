@@ -1,0 +1,78 @@
+# Fase 4 — Merge nel file episodio (A2)
+
+Obiettivo: aggiungere sinossi e link all'`index.md` **esistente** senza rompere nulla.
+
+## Struttura attuale di un episodio A2 (riferimento)
+
+```
++++
+... front matter TOML (NON toccare, lo gestisce ingest.py) ...
+tags = ["workflow", "produttivita", "task-manager"]
+[params]
+  hasTranscript = true
+  youtubeId = "..."
+  guest = "..."
++++
+
+> Teaser di apertura (= description del front matter)
+
+## Note dell’episodio
+- [link esistente](...)
+- ...
+```
+
+Dopo il merge la pagina avrà, nell'ordine:
+
+```
++++ front matter +++
+> teaser
+## Note dell’episodio        ← ESISTENTE, preservato
+- link esistenti...           ← + eventuali link nuovi della Fase 2 NON già presenti
+## Sinossi                    ← NUOVO (i blocchi H3 della Fase 3 vanno qui sotto)
+[nota IA fissa]
+### Capitolo 1 ...
+### Capitolo 2 ...
+```
+
+## Regole di merge (tassative)
+
+1. **Front matter**: non riscriverlo. Se proponi tag nuovi, modifica SOLO la riga `tags = [...]`
+   aggiungendo voci in kebab-case (vedi `tags-a2.md`), e chiedi conferma. Tutto il resto invariato.
+2. **Teaser `>` e `## Note dell’episodio`**: preservali esattamente come sono.
+3. **Link**: i link della Fase 2 già presenti nelle Note NON si duplicano. Aggiungi solo quelli
+   nuovi e pertinenti, in coda alla lista delle Note esistenti (stesso stile `- [Nome](url)`).
+   Se non ci sono link nuovi sensati, non aggiungere nulla.
+4. **Sezione Sinossi**: aggiungila in fondo (dopo le Note) come `## Sinossi` (H2). Sotto, la
+   nota fissa qui sotto, poi i blocchi `### Capitolo` della Fase 3.
+5. **Heading**: solo `##`/`###`. MAI `#` nel corpo.
+6. **Non** aggiungere player, badge, "dove trovarci", newsletter (li gestisce il template).
+
+## Nota fissa da inserire sotto `## Sinossi`
+
+```markdown
+## Sinossi
+
+> Questa sinossi è generata con l'intelligenza artificiale a partire dalla trascrizione
+> della puntata, per aiutarti a trovare gli argomenti che ti interessano.
+
+### [primo capitolo dalla Fase 3]
+...
+```
+
+(Se l'utente preferisce una formula diversa per la nota, è facilmente modificabile qui.)
+
+## Come applicare la modifica
+
+- Usa un editor che **inserisce** testo, non che riscrive il file (es. Edit con `old_string`
+  = ultima riga delle Note, `new_string` = stessa riga + sezione Sinossi).
+- Non rigenerare l'index.md con `ingest.py` dopo il merge: `ingest.py` ricostruisce il corpo
+  dai file note e cancellerebbe la sinossi. La sinossi vive solo nell'index.md.
+  - Se in futuro l'episodio venisse rigenerato, la sinossi andrebbe ri-aggiunta. (Alternativa
+    avanzata, fuori scope: spostare la sinossi in un file dati separato — non farlo ora.)
+
+## Checkpoint finale
+
+Mostra all'utente il risultato (o il diff). Ricorda:
+- `python3 scripts/test-site.py` o almeno `hugo --gc --minify` per validare la build.
+- Commit: `ep: Ep. NN: arricchimento sinossi e link` + push (utente `a2podcast`).
+- Verifica che la pagina abbia un solo `<h1>` (il titolo) dopo la build.
