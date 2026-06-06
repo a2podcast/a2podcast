@@ -124,6 +124,9 @@ Mostra all'utente il risultato (o il diff). Verifica:
 - `## Note dell’episodio` è subito dopo il teaser/descrizione;
 - i link seguono immediatamente `## Note dell’episodio`;
 - ogni link usa il formato `- [Nome](https://url): descrizione`;
+- il testo cliccabile di ogni link è titolo reale della pagina, nome ufficiale o titolo editoriale
+  normalizzato; non ci sono label grezze tipo `Sistema trasparente di Apple`, `Guida Apple`,
+  `link qui`, URL nudi o titoli interamente maiuscoli non giustificati;
 - nessuna descrizione link usa formule generiche come `risorsa citata nelle note originali`,
   `pagina di riferimento usata nelle note originali`, `risorsa Apple o Mac citata nelle note
   originali`, `episodio A2 collegato agli argomenti trattati`;

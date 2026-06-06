@@ -70,6 +70,18 @@ supporto Apple ufficiale, oppure ometti il link se è una funzione nativa ovvia.
 - Non usare URL nudi come testo del link (`https://...`). Se nelle note originarie il link è scritto
   come URL, ricostruisci un nome leggibile dalla pagina o dal contesto, ad esempio `Prezzi Notion`,
   `Profilo Instagram Soya`, `Backlink`.
+- Il testo cliccabile del link deve essere, in questo ordine:
+  1. il titolo reale della pagina verificata (`<title>`, H1, titolo YouTube o titolo App Store);
+  2. il nome ufficiale del prodotto, app, servizio, persona o progetto;
+  3. un titolo editoriale normalizzato dalla nota originaria, solo se già chiaro.
+- Non usare come testo link frasi descrittive interne alle vecchie note, per esempio `Sistema
+  trasparente di Apple` o `Guida Apple`. In quei casi sostituisci con il titolo reale della pagina
+  o con un nome specifico, ad esempio `Eseguire il backup del Mac con Time Machine`.
+- Normalizza maiuscole/minuscole dei titoli: non lasciare titoli interamente maiuscoli se non sono
+  acronimi o nomi ufficiali. Esempio: `HOW I USE NOTION AS AN ARCHITECT` diventa
+  `How I Use Notion as an Architect`.
+- Se non puoi ricostruire un titolo affidabile, non pubblicare il link nelle note finali: mettilo
+  nel checkpoint `DA_VALIDARE` con 2/3 opzioni per l'utente.
 - Link ad **altri episodi A2**: sempre `https://a2podcast.it/NN/` (con slash finale).
   MAI `a2podcast.fireside.fm` (vecchio dominio).
 - Escludi dalla sezione Note i link di servizio o di chiusura che non sono "cose trattate" nella
@@ -99,6 +111,8 @@ Non accettabile:
 - [Backblaze](https://www.backblaze.com/home-1.html): risorsa citata nelle note originali dell’episodio.
 - [Metodo BuJo](https://en.wikipedia.org/wiki/Bullet_journal): pagina di riferimento usata nelle note originali.
 - [Eric 30x40 template](https://courses.thirtybyforty.com/p/30x40-s-notion-template): risorsa citata nelle note originali dell’episodio.
+- [Sistema trasparente di Apple](https://support.apple.com/it-it/HT201250): guida Apple a Time Machine.
+- [HOW I USE NOTION AS AN ARCHITECT](https://thirtybyforty.com/blog/how-i-use-notion-as-an-architect): articolo 30x40.
 ```
 
 Accettabile:
@@ -107,4 +121,6 @@ Accettabile:
 - [Backblaze](https://www.backblaze.com/home-1.html): servizio di backup cloud citato come esempio di copia remota/off-site, con costi e tempi di ripristino da valutare.
 - [Metodo BuJo](https://en.wikipedia.org/wiki/Bullet_journal): metodo Bullet Journal usato come riferimento per organizzare attività, appuntamenti e note dentro Notion.
 - [Eric 30x40 template](https://courses.thirtybyforty.com/p/30x40-s-notion-template): template Notion per architetti da cui Roberto prende spunto per roadmap settimanale, ToDo e note.
+- [Eseguire il backup del Mac con Time Machine](https://support.apple.com/it-it/HT201250): guida Apple a Time Machine come backup automatico e incrementale di macOS.
+- [How I Use Notion as an Architect](https://thirtybyforty.com/blog/how-i-use-notion-as-an-architect): articolo 30x40 sul workspace Notion per architetti, con agenda, task list, SOP e wiki.
 ```
