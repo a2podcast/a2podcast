@@ -1,71 +1,99 @@
 # Fase 4 — Merge nel file episodio (A2)
 
-Obiettivo: aggiungere sinossi e link all'`index.md` **esistente** senza rompere nulla.
+Obiettivo: fondere note/link e sinossi nell'`index.md` **esistente** senza rompere front matter,
+teaser, template o contenuti editoriali utili.
 
-## Struttura attuale di un episodio A2 (riferimento)
+## Struttura finale richiesta
 
-```
+La pagina deve avere, nell'ordine:
+
+```markdown
 +++
-... front matter TOML (NON toccare, lo gestisce ingest.py) ...
-tags = ["workflow", "produttivita", "task-manager"]
-[params]
-  hasTranscript = true
-  youtubeId = "..."
-  guest = "..."
+... front matter TOML (NON riscrivere) ...
 +++
 
 > Teaser di apertura (= description del front matter)
 
 ## Note dell’episodio
-- [link esistente](...)
-- ...
+- [Nome prodotto / software / pagina web di riferimento](https://link.com): breve descrizione.
+- [Altro nome](https://link.com): breve descrizione.
+
+## Sinossi
+
+> Questa sinossi è generata con l'intelligenza artificiale a partire dalla trascrizione
+> della puntata, per aiutarti a trovare gli argomenti che ti interessano.
+
+### 1. Primo capitolo
+...
 ```
 
-Dopo il merge la pagina avrà, nell'ordine:
+`## Note dell’episodio` deve quindi stare **subito dopo il teaser/descrizione** e prima della
+sinossi. I link alle cose trattate nell'episodio devono seguire immediatamente sotto quella
+heading.
 
-```
-+++ front matter +++
-> teaser
-## Sinossi                    ← NUOVO, subito dopo il teaser
-[nota IA fissa]
-### Capitolo 1 ...
-### Capitolo 2 ...
-## Note dell’episodio        ← ESISTENTE, preservato dopo la sinossi
-- link esistenti...           ← + eventuali link nuovi della Fase 2 NON già presenti
-```
-
-Motivo: molte note storiche di A2 sono scalette grezze, research dump o elenchi di link. Se la
-sinossi viene messa in fondo, il lettore incontra prima un tono non rifinito e solo dopo il testo
-editoriale. La sinossi deve fare da introduzione strutturata; le note restano materiale di supporto.
-
-## Regole di merge (tassative)
+## Regole di merge tassative
 
 1. **Front matter**: non riscriverlo. Se proponi tag nuovi, modifica SOLO la riga `tags = [...]`
-   aggiungendo voci in kebab-case (vedi `tags-a2.md`), e chiedi conferma. Tutto il resto invariato.
-2. **Teaser `>` e `## Note dell’episodio`**: preservali esattamente come sono, ma la sezione
-   Sinossi va inserita **tra teaser e Note**.
-3. **Link**: i link della Fase 2 già presenti nelle Note NON si duplicano. Aggiungi solo quelli
-   nuovi e pertinenti, in coda alla lista delle Note esistenti (stesso stile `- [Nome](url)`).
-   Se non ci sono link nuovi sensati, non aggiungere nulla.
-4. **Sezione Sinossi**: aggiungila subito dopo il teaser come `## Sinossi` (H2). Sotto, la nota
-   fissa qui sotto, poi i blocchi numerati della Fase 3.
-5. **Heading**: solo `##`, `###`, `####`. MAI `#` nel corpo.
-6. **Numerazione**: i capitoli della sinossi devono restare numerati (`### 1. ...`,
-   `### 2. ...`); eventuali sottosezioni usano `#### 1.1 ...`, `#### 1.2 ...`. Il numero di
-   capitoli è proporzionale agli argomenti reali, non fisso.
-7. **Citazioni**: preserva i blockquote con virgolette e timestamp prodotti in Fase 3. Non
-   trasformarli in testo normale.
-8. **Link ospite**: se `[params] guest = "slug"` esiste, verifica che la prima occorrenza
-   dell'ospite nella sinossi punti a `https://a2podcast.it/ospiti/slug/`.
-9. **Ultimo capitolo**: deve riassumere l'ultimo argomento sostanziale della trascrizione, non
-   essere una sintesi, morale, bilancio o commento sulla puntata.
-10. **Densità**: minimo normale 1000 parole. Ogni capitolo deve superare il test "cosa impara
-   il lettore?": se contiene solo generalità, torna alla trascrizione e aggiungi dettagli.
-11. **Accenti**: prima di mostrare il diff, correggi eventuali apostrofi usati al posto degli
-   accenti (`e'`, `piu'`, `qualita'`, `perche'`, `puo'`).
-12. **Non** aggiungere player, badge, "dove trovarci", newsletter (li gestisce il template).
+   aggiungendo voci in kebab-case (vedi `tags-a2.md`) e chiedi conferma. Tutto il resto invariato.
+2. **Teaser**: preserva il blockquote iniziale `>`. Se manca, inserisci le sezioni subito dopo
+   il front matter.
+3. **Heading note**: crea o normalizza la sezione come `## Note dell’episodio` subito dopo il
+   teaser. Se nel file esiste `## Note episodio`, `## Note Episodio` o equivalente, trattala
+   come la stessa sezione e normalizzala.
+4. **Formato link note**: ogni link finale deve usare questo formato esatto:
+   `- [Nome prodotto / software / pagina web di riferimento](https://link.com): <breve descrizione>`
+5. **Merge dei link**: fondi i link già presenti nelle note iniziali con quelli emersi da
+   trascrizione e ricerche. Non duplicare URL, varianti dello stesso prodotto o link già presenti.
+   Se un link esistente non ha descrizione, aggiungi una descrizione breve e utile dal contesto.
+6. **Priorità link**: i link già inseriti dai conduttori hanno priorità editoriale. I link nuovi
+   devono essere verificati; se sono incerti, aggiungi `<!-- DA_VERIFICARE -->` a fine riga.
+7. **Mappe mentali, scalette, note convertite in Markdown e research dump**: non devono rimanere
+   come blocchi grezzi se la sinossi affronta già quegli argomenti.
+   - Se il contenuto è già coperto dalla trascrizione/sinossi, rimuovilo dal corpo finale.
+   - Se aggiunge dettagli utili non presenti nella trascrizione, integralo nel capitolo di
+     sinossi più pertinente.
+   - Se è ambiguo, contraddittorio o non riconciliabile con la trascrizione, non decidere in
+     silenzio: segnala il problema all'utente.
+8. **Sinossi**: inserisci `## Sinossi` dopo `## Note dell’episodio` e la lista link normalizzata.
+   Poi aggiungi la nota fissa e i capitoli numerati prodotti in Fase 3.
+9. **Heading**: nel corpo usa solo `##`, `###`, `####`. MAI `#`.
+10. **Numerazione**: i capitoli della sinossi devono restare numerati (`### 1. ...`,
+    `### 2. ...`); eventuali sottosezioni usano `#### 1.1 ...`, `#### 1.2 ...`.
+11. **Citazioni**: preserva i blockquote con virgolette e timestamp prodotti in Fase 3.
+12. **Link ospite**: se `[params] guest = "slug"` esiste, verifica che la prima occorrenza
+    dell'ospite nella sinossi punti a `https://a2podcast.it/ospiti/slug/`.
+13. **Ultimo capitolo**: deve riassumere l'ultimo argomento sostanziale della trascrizione, non
+    essere una sintesi, morale, bilancio o commento sulla puntata.
+14. **Densità**: minimo normale 1000 parole. Ogni capitolo deve superare il test "cosa impara
+    il lettore?": se contiene solo generalità, torna alla trascrizione e aggiungi dettagli.
+15. **Accenti**: prima di mostrare il diff, correggi eventuali apostrofi usati al posto degli
+    accenti (`e'`, `piu'`, `qualita'`, `perche'`, `puo'`).
+16. **Non** aggiungere player, badge, "dove trovarci", newsletter (li gestisce il template).
 
-## Nota fissa da inserire sotto `## Sinossi`
+## Quando segnalare incongruenze
+
+Segnala chiaramente all'utente, prima del merge definitivo, se trovi uno di questi casi:
+
+- le note iniziali contengono un tema o una risorsa importante che non appare nella trascrizione;
+- una mappa mentale contiene conclusioni o passaggi più forti di quelli effettivamente detti;
+- un link esistente sembra sbagliato, rotto, non ufficiale o riferito a un oggetto diverso;
+- la sinossi e le note rischiano di duplicare lo stesso contenuto in due toni diversi.
+
+Formato della segnalazione:
+
+```markdown
+## Questioni da validare
+
+1. [Problema concreto]
+   - Opzione A: ...
+   - Opzione B: ...
+   - Opzione C: ...
+```
+
+Le opzioni devono essere 2 o 3, concrete e valutabili dall'utente. Non inserire questa sezione
+nel file episodio salvo richiesta esplicita: è un checkpoint editoriale.
+
+## Nota fissa sotto `## Sinossi`
 
 ```markdown
 ## Sinossi
@@ -77,25 +105,31 @@ editoriale. La sinossi deve fare da introduzione strutturata; le note restano ma
 ...
 ```
 
-(Se l'utente preferisce una formula diversa per la nota, è facilmente modificabile qui.)
-
 ## Come applicare la modifica
 
-- Usa un editor che **inserisce** testo, non che riscrive il file. Inserisci `## Sinossi` tra
-  il teaser iniziale e la prima sezione di note/contenuti esistenti. Se il corpo non ha teaser,
-  inseriscila subito dopo il front matter.
-- Non rigenerare l'index.md con `ingest.py` dopo il merge: `ingest.py` ricostruisce il corpo
-  dai file note e cancellerebbe la sinossi. La sinossi vive solo nell'index.md.
-  - Se in futuro l'episodio venisse rigenerato, la sinossi andrebbe ri-aggiunta. (Alternativa
-    avanzata, fuori scope: spostare la sinossi in un file dati separato — non farlo ora.)
+- Usa un editor che **inserisce e riordina** testo senza rigenerare l'intero file.
+- Non rigenerare l'`index.md` con `ingest.py` dopo il merge: `ingest.py` ricostruisce il corpo
+  dai file note e cancellerebbe la sinossi.
+- Se la pagina contiene già una sinossi generata da una versione precedente della skill, sostituisci
+  quella sinossi e riordina le sezioni secondo la struttura finale richiesta.
+- Se la pagina contiene una sezione note grezza molto lunga, conserva nel corpo finale solo i link
+  normalizzati; integra il resto nella sinossi o segnala le incongruenze.
 
 ## Checkpoint finale
 
-Mostra all'utente il risultato (o il diff). Ricorda:
-- `python3 scripts/test-site.py` o almeno `hugo --gc --minify` per validare la build.
-- Commit: `ep: Ep. NN: arricchimento sinossi e link` + push (utente `a2podcast`).
-- Verifica che la pagina abbia un solo `<h1>` (il titolo) dopo la build.
-- Verifica che nel markdown non ci siano heading `# `, accenti scritti con apostrofo, link
-  duplicati aggiunti dalla skill, chiusure retoriche/generiche o capitoli finali di morale.
-- Verifica che la sinossi sia proporzionata alla densità della puntata, normalmente almeno 1000
-  parole, e che non contenga capitoli composti da frasi generiche senza insight.
+Mostra all'utente il risultato (o il diff). Verifica:
+
+- `## Note dell’episodio` è subito dopo il teaser/descrizione;
+- i link seguono immediatamente `## Note dell’episodio`;
+- ogni link usa il formato `- [Nome](https://url): descrizione`;
+- `## Sinossi` arriva dopo i link, non prima;
+- nel markdown non ci sono heading `# `;
+- non ci sono accenti scritti con apostrofo;
+- non ci sono link duplicati;
+- non restano mappe/scalette grezze ridondanti;
+- eventuali contenuti nota-only ambigui sono stati segnalati con 2/3 opzioni;
+- non ci sono chiusure retoriche/generiche o capitoli finali di morale;
+- la sinossi è proporzionata alla densità della puntata, normalmente almeno 1000 parole;
+- ogni capitolo contiene dettagli concreti dalla trascrizione.
+
+Poi valida con `python3 scripts/test-site.py` o almeno `hugo --gc --minify`, committa e pusha.

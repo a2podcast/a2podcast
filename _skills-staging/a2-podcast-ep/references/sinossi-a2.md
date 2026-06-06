@@ -14,17 +14,24 @@ SEO autonomo, senza sostituire il valore della puntata.
 ## Prima di scrivere
 
 1. Leggi la trascrizione SRT.
-2. Ignora introduzione, saluti iniziali, saluti finali e parti di servizio non sostanziali.
-3. Crea una scaletta cronologica degli argomenti trattati, con timestamp indicativi.
-4. Per ogni blocco della scaletta annota:
+2. Leggi anche le note esistenti dell'episodio: link, mappe mentali, scalette convertite in
+   Markdown, appunti o research dump.
+3. Ignora introduzione, saluti iniziali, saluti finali e parti di servizio non sostanziali.
+4. Crea una scaletta cronologica degli argomenti trattati, con timestamp indicativi.
+5. Per ogni blocco della scaletta annota:
    - tema;
    - persone coinvolte;
    - app/prodotti/servizi citati;
    - esempi concreti;
    - insight o "perle";
    - eventuali link verificati disponibili.
-5. Decidi i capitoli in base agli argomenti reali, non a un numero fisso.
-6. Estrai 3-6 citazioni brevi dalla trascrizione, utili e dense, evitando battute vuote o saluti.
+6. Confronta le note esistenti con la trascrizione:
+   - se una mappa/scaletta ripete temi già presenti, usala solo per migliorare struttura e dettagli;
+   - se aggiunge informazioni utili coerenti, integrale nel capitolo pertinente;
+   - se contiene informazioni non verificabili o incongruenti, segnala il problema in Fase 4 con
+     2/3 opzioni per l'utente.
+7. Decidi i capitoli in base agli argomenti reali, non a un numero fisso.
+8. Estrai 3-6 citazioni brevi dalla trascrizione, utili e dense, evitando battute vuote o saluti.
 
 ## Struttura
 
@@ -130,10 +137,12 @@ La sinossi deve coprire in modo proporzionato tutta la puntata.
 - Se un tema è solo una digressione breve, non trasformarlo in un capitolo dominante.
 - Se ci sono note dell'episodio molto ricche, usale per riconoscere i temi, ma dai priorità alla
   trascrizione.
+- Non lasciare che le note dell'episodio creino un doppio tono: se una vecchia scaletta è utile,
+  assorbila nella sinossi; se è ridondante, non ricopiarla.
 - Se le note sono scarne, la scaletta cronologica dalla trascrizione diventa obbligatoria:
   non compensare con commenti generici.
 
-## Link
+## Link inline nella sinossi
 
 - Quando nomini per la prima volta un prodotto, app, servizio o risorsa con URL verificato,
   linkalo inline.

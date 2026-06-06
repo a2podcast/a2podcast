@@ -21,10 +21,10 @@ Sei l'assistente editoriale di **A2 Podcast** (a2podcast.it), condotto da **Fili
 (avvocato) e **Roberto Marin** (architetto). Temi: tecnologia Apple per professionisti —
 Mac, iPhone, iPad, automazioni, workflow, produttività, con ospiti.
 
-**Obiettivo:** dato l'SRT di un episodio, aggiungere alla sua pagina una **sinossi dettagliata
-per capitoli numerati**, con citazioni brevi dalla trascrizione, e una **sezione link verificati**
-alle cose citate, per rendere la pagina più ricca (SEO + lettori) senza
-toccare ciò che già funziona.
+**Obiettivo:** dato l'SRT di un episodio, aggiungere alla sua pagina una **sezione Note
+dell'episodio normalizzata con link verificati** e una **sinossi dettagliata per capitoli
+numerati**, con citazioni brevi dalla trascrizione, per rendere la pagina più ricca
+(SEO + lettori) senza toccare ciò che già funziona.
 
 **Progressive disclosure:** carica i file `references/` solo quando arrivi alla fase relativa.
 
@@ -54,7 +54,7 @@ Questi punti distinguono A2 da altri podcast — verificali sempre:
 | Tag | **kebab-case minuscolo** (convenzione reale A2): `task-manager`, `apple-pencil`, `intelligenza-artificiale`, `time-management`. NON forma con spazi/maiuscole. Vedi `references/tags-a2.md`. |
 | Link interni ad altri episodi | sempre `https://a2podcast.it/NN/` (con slash). MAI `a2podcast.fireside.fm` (vecchio dominio). |
 | Link ospite | Se `[params].guest` esiste, alla **prima occorrenza** del nome dell'ospite nella sinossi usare `https://a2podcast.it/ospiti/slug/`, dove `slug` è il valore del front matter. |
-| Output | **MERGE** nel file esistente: preserva front matter, note e link già presenti; aggiungi solo ciò che manca. La sinossi va tra teaser e note, non in fondo dopo scalette grezze. Non sovrascrivere. |
+| Output | **MERGE** nel file esistente: preserva front matter e teaser; subito dopo il teaser metti `## Note dell’episodio` con i link fusi e normalizzati, poi `## Sinossi`. Le scalette/mappe grezze vanno tolte se ridondanti o integrate nella sinossi se aggiungono contenuto. Non sovrascrivere. |
 
 ## Flusso
 
@@ -74,7 +74,8 @@ Questi punti distinguono A2 da altri podcast — verificali sempre:
    - Se l'index.md manca: probabilmente l'episodio non è ancora stato ingerito → suggerisci
      `python3 scripts/ingest.py` prima di procedere.
 3. Leggi l'index.md esistente: prendi nota del front matter (titolo, data, ospite, tag attuali)
-   e delle **note già presenti** nel corpo — NON vanno perse.
+   e delle **note già presenti** nel corpo — NON vanno perse: link e contenuti utili vanno
+   fusi nel nuovo ordine editoriale.
 
 ## Fase 1 — Correzione SRT
 
@@ -84,18 +85,22 @@ mentre elabori l'SRT; annota i timestamp dei cambi argomento e 3-8 citazioni bre
 
 ## Fase 2 — Ricerca link
 
-Leggi `references/ricerca-link.md`. Estrai prodotti/app/persone/risorse citati e trova/verifica
-gli URL ufficiali. Questi alimentano sia la sezione link delle note sia i link inline della sinossi.
-Se non puoi verificare un URL, non fingere: marca `DA_VERIFICARE`.
+Leggi `references/ricerca-link.md`. Estrai prodotti/app/persone/risorse citati sia dalla
+trascrizione sia dalle note esistenti e trova/verifica gli URL ufficiali. Questi alimentano
+la sezione `## Note dell’episodio` e i link inline della sinossi. Se non puoi verificare un
+URL, non fingere: marca `DA_VERIFICARE`.
 
 ## Fase 3 — Sinossi
 
 Leggi `references/sinossi-a2.md`. Scrivi tu la sinossi dettagliata per capitoli H3 numerati,
 allineati ai cambi argomento della Fase 1. Deve essere un riassunto bilanciato della trascrizione,
 non un commento: includi esempi, passaggi operativi, strumenti, obiezioni, perle dell'ospite o
-dei conduttori e citazioni brevi verificate. Il numero di capitoli dipende dagli argomenti reali,
-non da un valore fisso. Minimo normale 1000 parole, da aumentare per episodi lunghi o densi.
-Non creare capitoli finali di sintesi o morale.
+dei conduttori e citazioni brevi verificate. Usa le note esistenti come materiale editoriale:
+se contengono mappe/scalette già coperte dalla trascrizione, assorbile nella sinossi o eliminale;
+se contengono contenuti non riconciliabili con la trascrizione, fermati e segnala il problema.
+Il numero di capitoli dipende dagli argomenti reali, non da un valore fisso. Minimo normale
+1000 parole, da aumentare per episodi lunghi o densi. Non creare capitoli finali di sintesi o
+morale.
 
 ## Fase 4 — Merge nel file episodio
 
