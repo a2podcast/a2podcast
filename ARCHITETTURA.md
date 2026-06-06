@@ -9,7 +9,7 @@ Per i comandi operativi quotidiani vedi [CLAUDE.md](./CLAUDE.md).
 
 | Strato | Tecnologia |
 |--------|-----------|
-| Generatore statico | Hugo v0.145+ |
+| Generatore statico | Hugo v0.145+ (sviluppo locale testato su 0.160) |
 | Audio hosting | Spreaker (show `6519470`) |
 | Deploy | Cloudflare Pages (build automatico su push a `main`) |
 | Analytics | Matomo self-hosted (`matomo.studiolegalestrozzi.it`) |
@@ -60,11 +60,13 @@ Per ogni episodio:
 → write_episode() → content/episodi/NN/index.md
 ```
 
-**`clean_body()`**: rimuove H1 iniziale, taglia sezione "Dove ci potete trovare", deduplica blockquote adiacenti identici, normalizza whitespace.
+**`clean_body()`**: rimuove H1 iniziale, **declassa a `##` ogni `# ` residuo nel corpo** (le note degli episodi usavano spesso `# Note dell'episodio`: un secondo H1 in pagina è un errore SEO, dato che il titolo episodio è già l'unico H1 — fix giugno 2026), taglia sezione "Dove ci potete trovare", deduplica blockquote adiacenti identici, normalizza whitespace.
 
 **`extract_description()`**: estrae il primo blockquote (`>`) come meta description (max 300 chars). Fallback: RSS description.
 
-Lo script è idempotente — ri-eseguirlo sovrascrive i file esistenti senza problemi. I campi `tags`, `guest` e `hasTranscript` vengono preservati solo se presenti nel file markdown delle note, perché ingest.py non li genera automaticamente.
+Lo script è idempotente — ri-eseguirlo sovrascrive i file esistenti senza problemi. I campi `tags`, `guest` e `youtubeId` vengono preservati dall'index.md esistente. `hasTranscript` viene impostato a `true` automaticamente se esiste già il file `static/trascrizioni/ep-NN.srt` (la funzione transcript ritorna `True` quando il file è presente): per questo, dopo aver aggiunto manualmente degli SRT, **basta rilanciare `ingest.py`** per allineare il flag su tutti gli episodi (fatto a giugno 2026: 76/77 episodi).
+
+⚠️ **`ingest.py` rigenera il corpo dell'episodio dai file note** (`../note episodi/`): eventuale contenuto aggiunto direttamente nell'index.md (es. una sinossi generata dalla skill `a2-podcast-ep`) verrebbe perso al rilancio. Le correzioni durature (es. link, refusi) vanno fatte nei file note sorgente, non nell'index.md generato.
 
 ---
 
@@ -118,13 +120,20 @@ a2podcast/
 │   ├── _headers                     # Cloudflare Pages: HTTP headers, CSP, cache
 │   ├── _redirects                   # /feed e /rss → Spreaker RSS
 │   └── trascrizioni/                # file SRT trascrizioni (ep-NN.srt)
-└── scripts/
-    ├── ingest.py                    # genera content/episodi/ da RSS + note MD
-    ├── tag-episodes.py              # aggiunge tag agli episodi via Claude API
-    ├── match-youtube.py             # associa video YouTube agli episodi (interattivo o --apply)
-    ├── normalize-tags.py            # normalizza tag esistenti verso lista canonica (dry-run / --apply)
-    ├── fix-fireside-links.py        # sostituisce link a2podcast.fireside.fm → a2podcast.it
-    └── requirements.txt             # feedparser, python-slugify
+├── scripts/
+│   ├── ingest.py                    # genera content/episodi/ da RSS + note MD
+│   ├── enrich.py                    # arricchisce frontmatter (description/tags/guest) via Claude CLI
+│   ├── tag-episodes.py              # aggiunge tag agli episodi via Claude API
+│   ├── match-youtube.py             # associa video YouTube agli episodi (interattivo o --apply)
+│   ├── normalize-tags.py            # normalizza tag esistenti verso lista canonica (dry-run / --apply)
+│   ├── fix-fireside-links.py        # sostituisce link a2podcast.fireside.fm → a2podcast.it negli episodi
+│   ├── test-site.py                 # test automatici (build + HTTP + frontmatter)
+│   └── requirements.txt             # feedparser, python-slugify, requests
+└── _skills-staging/                 # skill in staging per revisione (Hugo ignora il prefisso _)
+    └── a2-podcast-ep/               # skill: da SRT genera sinossi+link e li fonde nell'episodio
+        ├── SKILL.md                 # manifest (compatibile Claude Code + OpenAI Codex)
+        ├── README.md                # come attivarla (.claude/skills o .agents/skills) e testarla
+        └── references/              # glossario SRT, ricerca link, sinossi, tag A2, merge
 ```
 
 ---
@@ -189,6 +198,8 @@ Ogni pagina riceve:
 - JSON-LD `PodcastSeries` → `schema-podcast.html` (incluso in ogni pagina via `baseof.html`)
 - JSON-LD `PodcastEpisode` (con `BreadcrumbList`) → `schema-episode.html` (incluso in `episodi/single.html`)
 
+Gli episodi con `youtubeId` includono nel `PodcastEpisode` un `VideoObject` completo dei campi richiesti da Google (`name`, `description`, `thumbnailUrl` da `i.ytimg.com`, `uploadDate`, `contentUrl`, `embedUrl`): senza questi campi GSC segnalava *"Il video non si trova su una pagina di visualizzazione"* (fix giugno 2026). La thumbnail `i.ytimg.com` è già in `img-src` nella CSP (`static/_headers`).
+
 La sitemap usa un template custom (`layouts/sitemap.xml`) che **esclude i Kind `taxonomy`/`term`** (pagine `/tags/*`): quelle pagine sono `noindex`, quindi includerle in sitemap generava il warning GSC *"Esclusa in base al tag noindex"*. Il `robots.txt` è generato da Hugo con `enableRobotsTXT = true` + direttiva `Sitemap:` nel template.
 
 ---
@@ -203,6 +214,8 @@ Il template è già pronto. Workflow completo:
 4. (Opzionale) inserire `https://a2podcast.it/trascrizioni/ep-NN.srt` nel campo "URL di trascrizione" su Spreaker
 
 `Content-Type: text/plain; charset=utf-8` per i file SRT è già configurato in `static/_headers`.
+
+`transcript-inline.html` inietta il testo della trascrizione direttamente nel DOM (dentro un `<details>`): il contenuto è indicizzabile da Google anche se collassato. Questo è la leva SEO principale per gli episodi: il corpo delle note è breve (decine di parole), mentre la trascrizione aggiunge migliaia di parole reali e pertinenti per pagina — risolve gli episodi che GSC marcava *"Rilevata ma non indicizzata"* perché troppo "thin" (a giugno 2026 attivata su 76/77 episodi).
 
 ---
 
@@ -270,4 +283,5 @@ Lista canonica: apple, mac, macos, ios, ipad, iphone, ipados, apple-silicon, app
 - `unsafe = false` in goldmark: le note episodio sono markdown puro, nessun HTML inline
 - Le foto dei conduttori sono in `content/about/` come page bundle resources (non in `static/`)
 - Il `slug` nel frontmatter è il numero come stringa (`"74"`, non `74`) perché TOML lo richiede quoted
-- `ingest.py` non genera `tags`, `guest` né modifica `hasTranscript` se già impostato — questi campi si aggiungono ai file markdown delle note o manualmente
+- `ingest.py` preserva `tags`/`guest`/`youtubeId` dall'index.md e imposta `hasTranscript = true` se l'SRT esiste in `static/trascrizioni/`; rigenera invece il **corpo** dai file note, quindi le modifiche durature al testo vanno fatte nei note sorgente
+- Il dominio canonico è `a2podcast.it` **senza www**; `a2podcast.fireside.fm` è un vecchio dominio dismesso (i link interni vanno sempre a `a2podcast.it/NN/`)
