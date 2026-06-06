@@ -11,143 +11,148 @@ tags = ["ios", "ipados", "apple"]
 draft = false
 
 [params]
-  hasTranscript = true
-  youtubeId = "kE-ZRN-31r4"
+ hasTranscript = true
+ youtubeId = "kE-ZRN-31r4"
 +++
 
 > Roberto e Filippo parlano delle novità di iOS e iPadOS che usciranno dopo l’evento Apple del 12 Settembre.
 
 ## Note dell’episodio
+- [Preview iOS 17](https://www.apple.com/it/ios/ios-17-preview/): versione di iOS discussa per StandBy, Messaggi, tastiera, AirDrop e funzioni quotidiane.
+- [Preview iPadOS 17](https://www.apple.com/it/ipados/ipados-17-preview/): versione di iPadOS discussa per Stage Manager, PDF, Note, Freeform e widget interattivi.
+- [Se sì da iPhone 12 in avanti](https://support.apple.com/it-it/HT211829): documentazione Apple usata per verificare passaggi operativi o funzioni di sistema citate.
+- [Salute](https://www.apple.com/it/ios/health/): approfondimento collegato a Salute, utile per seguire il passaggio della puntata su 68: ios ed ipados 17 le novità.
+- [puntata 65](https://a2podcast.it/65/): puntata A2 n. 65 richiamata come precedente o approfondimento collegato.
+- [Lucio Bragagnolo](https://macintelligence.org): approfondimento collegato a Lucio Bragagnolo, utile per seguire il passaggio della puntata su 68: ios ed ipados 17 le novità.
+- [Freeform](https://www.apple.com/it/freeform/): lavagna collaborativa Apple usata per raccogliere appunti, immagini, documenti e idee in uno spazio condiviso.
+- [iOS 17](https://www.apple.com/it/ios/ios-17/): versione di iOS discussa per StandBy, Messaggi, tastiera, AirDrop e funzioni quotidiane.
+- [iPadOS 17](https://www.apple.com/it/ipados/ipados-17/): versione di iPadOS discussa per Stage Manager, PDF, Note, Freeform e widget interattivi.
+- [macOS Sonoma](https://www.apple.com/it/macos/sonoma/): versione di macOS discussa per widget, profili Safari, condivisione schermo, gaming e compatibilità.
+- [Stream Deck](https://www.elgato.com/us/en/s/welcome-to-stream-deck): controller hardware Elgato citato per automatizzare azioni, scene e comandi.
 
-🚨Se vuoi il nostro commento (assieme a Daniele Borghi, Davide Gatti e Alex Racuglia) puoi guardare [qui il nostro video commento in diretta del Keynote](https://www.youtube.com/watch?v=Sz-0imAArBA&ab_channel=RuntimeRadio).🚨
+## Sinossi[^sinossi-ai]
 
-## Quadro d’insieme
-Aggiornamento “tranquillo”.
-- Novità non particolarmente innovative ma migliorano la qualità della vita
-- Funzioni nuove avanzate legate solo ai dispositivi più recenti 3/4 anni fa
+### 1. Quadro d’insieme
 
-## Materiale informativo Apple
+> "Benvenuti all'episodio 68 di Adue, in cui scoprire come ottenere il massimo."
+> — Filippo e Roberto, 00:00:38
+In questa parte Filippo e Roberto seguono il tema “Quadro d’insieme” dentro il quadro dell’episodio su iOS ed
+iPadOS 17 le novità. I passaggi centrali riguardano ipad, generazione, novità, anni. In questa puntata
+parliamo delle novità che verranno introdotte da iPadOS 17 e ovviamente iOS 17. Tanto adesso me lo cerco al
+volo, l'iPad di sesta generazione di che anno è? Perché parliamo di un iPad mini di quinta generazione in su,
+l'iPad di sesta generazione in su, che adesso andando un po' a memoria, Filippo. Le novità sono comprese fino
+al 12, quindi tre anni, e stesso discorso vale praticamente per tutti gli iPad con chip. Il mio iPad Pro a
+compie quattro anni e secondo me è la sesta generazione. Sì, tra l'altro, non ho accennato che c'è anche
+l'iPad era terza generazione.
 
-- [Preview iOS 17](https://www.apple.com/it/ios/ios-17-preview/)
--  [Preview iPadOS 17](https://www.apple.com/it/ipados/ipados-17-preview/)
+### 2. Materiale informativo Apple
 
-## Solo iPad
+In questa parte Filippo e Roberto seguono il tema “Materiale informativo Apple” dentro il quadro dell’episodio
+su iOS ed iPadOS 17 le novità. I passaggi centrali riguardano manager, ipad, stage, ovviamente. Tuttavia,
+ovviamente buona parte delle funzioni non è supportata dagli iPad Pro vecchi, chiamiamoli così, come il mio,
+perché ovviamente la parte più interessante di Stage Manager adesso lo vediamo. Secondo me, Stage Manager
+diventa veramente molto comodo se si utilizza l'iPad, diciamo, come portati le chiamiamo in questi termini e
+se lo si utilizza quindi con uno schermo esterno. Ovviamente si possono sempre tenere massimo quattro finestre
+aperte contemporaneamente sull'iPad, e appunto se si possiede un M1 e se hai l'iPad collegato allo schermo
+esterno, a questo punto hai altre quattro finestre sullo schermo esterno. Stage Manager Stage Manager, che è
+quella simpatica modalità che sto utilizzando con molto audio e felicità all'interno del mio Mac, ma non posso
+usare sull'iPad. Per cui, personalmente appunto la novità di la cosiddetta novità, perché Stage Manager già è
+di iPadOS 16, c'è, ma non è così clamoroso almeno personalmente, ma io non sono un amante di stage manager. Ma
+anche in questo caso penso che Stage Manager incominci di nuovo a tagliare un po' fuori gli iPad di alcuni
+tipi.
 
-### Stage Manager
-- Layout più flessibili.
-- Usa una fotocamera esterna per le videochiamate FaceTime.
+### 3. Solo iPad
 
-## Solo iPhone
+> "è molto carino vederla l'animazione da una parte all'altra dell'iPhone che si."
+> — Filippo e Roberto, 00:23:00
+In questa parte Filippo e Roberto seguono il tema “Solo iPad” dentro il quadro dell’episodio su iOS ed iPadOS
+17 le novità. I passaggi centrali riguardano iphone, ovviamente, vedere, esempio. Quindi tu hai, addirittura
+mentre tu ti muovi, si rivolge sempre verso di te, ovviamente c'è un motore e utilizza la telecamera, secondo
+me, dell'iPhone per vedere per riconoscere i visi sostanzialmente. Quindi, anche qui hai la possibilità, per
+esempio, di avere avere l'iPhone, trasformare di sera, chiamiamo così l'iPhone, in una sorta di sveglia
+normale, digitale, analogica, con la luce sempre accesa, che ti fa vedere, per esempio, l'orario di notte.
+Probabilmente dobbiamo aspettare che gli sviluppatori implementino anche novità, perché poi questo sistema
+comunque è fatto pannibile, quindi le applicazioni possono approfittarne, diciamo, si possono creare
+sostanzialmente dei fondali apposta. Ovivi se tutto è certificato, quindi se tutto secondo le specifiche
+Apple, e immagino che viene pagata ovviamente la royalty ad Apple. E anche in questo caso sarei molto curioso
+di vedere come funziona, perché io a memoria non mi ricordo di aver visto il filmato che fa vedere le
+animazioni del passaggio del contat tra iPhone e. Diciamo che lo fa già, credo che la Steam Deck adesso ti dia
+qualche pulsante a gratis, tipo sei pulsanti a gratis, poi, ovviamente, se vuoi avere più roba sull'iPhone,
+devi poi pagare.
 
-### StandBy
-- Funziona con tutti gli iPhone ??
-	- Necessario MagSafe?
-	- [Se sì da iPhone 12 in avanti](https://support.apple.com/it-it/HT211829)
+### 4. Stage Manager
 
-## Airdrop migliorato
+In questa parte Filippo e Roberto seguono il tema “Stage Manager” dentro il quadro dell’episodio su iOS ed
+iPadOS 17 le novità. I passaggi centrali riguardano invece, interessante, funziona, telefono. Poi ovviamente
+lui non ha il PADOS 17, ma è interessante, l'idea invece, infatti, avere la disponibilità di avere l'app
+salute su iPad è comodissimo, ovviamente, avendo tutto sincronizzato con account i cloud sotto lo stesso
+account, ovviamente. Invece, quello che mi piacerebbe provare di share play e vedere se in effetti funziona
+perché potrebbe essere interessante con i figli, è quello di avere la possibilità di giocare una partita tutti
+insieme e ci pensa direttamente a Shareplay a tenere tutto quanto in sync. A prescindere dalle cose da
+giovani, diciamo che sicuramente nuove funzionalità hanno un funzionamento più semplice. Probabilmente nel
+mondo giovanile, dove lo scambio del numero di telefono e altre cose può essere di interesse, è più utile. Ma
+ero curioso di sapere invece come funziona questa questione della distanza. La cosa interessante, però appunto
+questo sarà disponibile più avanti, e soprattutto, non so, io voglio girarti un gigabyte di roba col telefono
+comodissimo.
 
-### Per scambiarsi i numeri c’è NameDrop.
-- Avvicina il tuo iPhone a quello di un’altra persona o al suo Apple Watch,3 e lascia fare a NameDrop. Potrete scegliere quali numeri di telefono o indirizzi email volete scambiarvi e condividerli all’istante insieme ai vostri Poster di contatto.
+### 5. Solo iPhone
 
-### Fai il gesto di condividere.
-- C’è un nuovo modo per condividere foto, file e altro con le persone nei paraggi: basta avvicinare due iPhone per iniziare il trasferimento via AirDrop.
+> "non c'è l'applicazione che tutti speravano uscisse, diciamo, anch'io perché devo dire."
+> — Filippo e Roberto, 00:38:20
+In questa parte Filippo e Roberto seguono il tema “Solo iPhone” dentro il quadro dell’episodio su iOS ed
+iPadOS 17 le novità. I passaggi centrali riguardano apple, comunque, quando, esempio. Questa miopia che
+incomincia a farmi veramente non sempre, però quando c'è una luce particolare, per esempio, se sono in una
+stanza buia con solo qualcosa su cui devo leggere ed è illuminato, faccio un po' fatica. Tra l'altro stavo
+notando una cosa: che l'applicazione di Arios, chiamiamola così, è pubblicizzata su iOS 17, ma non su iPadOS
+17. Sto vicino non per un motivo di cecità, allora, per esempio, quando guardo l'iPad sdraiato sul letto e ce
+l'ho in grembo, diciamo, non dà problemi. Se invece c'ho un'illuminazione che mi arriva da dietro e vedo lo
+schermo illuminato, allora lo vedo bene. Poi, ovviamente, solo Apple lo saprà quando distribuirà
+l'applicazione quant'altro. Mi lascia perplesso nel senso che già comunque Apple, non so, col discorso delle
+foto, dei luoghi, comunque ti suggerisce le foto.
 
-### Oplà: il trasferimento finisce via internet.
-- Può succedere: mentre stai condividendo qualcosa, devi uscire dal raggio d’azione di AirDrop. Se tu e l’altra persona avete fatto login su iCloud, il trasferimento continua via internet in modo sicuro e riservato, e senza perdere qualità.*
-- Disponibile più avanti …
+### 6. StandBy
 
-## App Salute
-Anche su iPad; [Link a novità pagina approfondimento](https://www.apple.com/it/ios/health/)
+In questa parte Filippo e Roberto seguono il tema “StandBy” dentro il quadro dell’episodio su iOS ed iPadOS 17
+le novità. I passaggi centrali riguardano appunto, password, apple, interessante. È vero che One Password ti
+fa a momenti anche il caffè, nel senso, ci sono le note grittate e via discorrendo, ma obiettivamente
+nell'ecosistema Apple, tutte queste cose qua volendo, ci sono. Ma nel momento in cui una persona li usa, o ha
+anche solo la possibilità di giocarci inizialmente, è ovvio che appunto in parte il prezzo, la tassa Apple,
+diciamo, viene pagata, si ripaga da sola. E la cosa interessante, diciamo, che in aggiunta, già quello che
+faceva, ed effettivamente per me, questa è una di quelle cose Apple che sono meravigliose. E aggiungo solo una
+questione che riguarda appunto la vista, che vedo che sarà anche su iOS 17, tutto qua. Sono ovviamente alcune
+cose possono essere interessanti, nel senso che hanno inserito una funzione che è abbastanza banale, che
+esiste quasi in tutte le altre piattaforme di messaggistica, che fare uno swipe sul messaggio per rispondere
+direttamente a quel messaggio. Per esempio, per accedere a Google ti viene chiesto il token e direttamente
+l'app portachiavi ti permette di generare un token che viene capito da Google e quindi è una cosa molto
+interessante.
 
-### Distanza dallo schermo
-- Testato su iPad funziona ed utile anche se a volte fastidioso
+### 7. Airdrop migliorato
 
-### Miopia / Passare tempo fuori
-- Sensore luminosità AppleWatch
+In questa parte Filippo e Roberto seguono il tema “Airdrop migliorato” dentro il quadro dell’episodio su iOS
+ed iPadOS 17 le novità. I passaggi centrali riguardano note, punto, invece, cose. Se invece devo pensare a
+qualcosa che tocca più punti, più argomenti, più cose diverse, tendenzialmente uso freeform. Invece, per
+esempio, per freeform mi viene molto utile come gestione per esempio collocare le visite di cantieri diversi e
+le varie cose che devo controllare nei vari cantieri. Quindi, se Roberto sta guardando una parte della mappa
+della lavagna di Freeform, se decido di seguirlo, chiamiamoli in questi termini, riesco a capire esattamente
+cosa sta guardando e cosa sta vedendo e quindi anche seguire logicamente quello che sta facendo. Quindi
+attendo molto questo aggiornamento di Freeform, che a questo punto possiamo dire che è la sua terza
+interazione. Però devo dire la verità: conversazioni con FaceTime, a parte appunto, nicchia veramente piccola
+di utenti Apple centrici, almeno Italia a me non è mai capitato di fare conversazioni. Note, ad esempio, se
+sto lavorando su un progetto e mi segno lì tutte le modifiche, le cose che devo fare e discorrendo.
 
-## Diario
-Disponibile più avanti …
-Ne abbiamo parlato nella [puntata 65](http://a2podcast.it/65) con [Lucio Bragagnolo](https://macintelligence.org).
+### 8. Per scambiarsi i numeri c’è NameDrop
 
-## Password e Passkey
+In questa parte Filippo e Roberto seguono il tema “Per scambiarsi i numeri c’è NameDrop” dentro il quadro
+dell’episodio su iOS ed iPadOS 17 le novità. I passaggi centrali riguardano widget, esempio, schermata,
+interessante. Perché, per esempio, ho un widget dedicato alle note, ma a tutte le note quindi ho notion o le
+note, e magari ho anche per memoria perché metto lì tutto quello che devo annotare. Per esempio, in notion
+diventa interessante perché è anche in note può puntare direttamente a una pagina e quindi non vi apre
+l'applicazione, ma va già all'interno dell'applicazione aperta su quel tipo di nota. Diventa, secondo me,
+utile, tanto utile che sul Mac, ad esempio, mi mancano questi widget, questi widget di terze parti a breve,
+non avrai neanche quel problema. Ad esempio, per me è diventato molto utile una stupidaggine che è il widget
+dei comandi rapidi. È il primo esempio che mi viene da fare, per cui utilizzandoli tantissimo, devo dire la
+verità, io non sono un amante di tutti questi sistemi, anche i widget che ho messo, per esempio, sulle iPad
+appunto è come se non ci fossero, mettiamoli in questi termini. Uno, ad esempio, è il memoria: che una volta
+che lo vedi lo clicchi e questo sparisce senza aprire l'applicazione, diventa utile.
 
-Non c’è ancora una app specifica
-- Crea un gruppo di persone fidate e scegli gli account da condividere. Le password restano sempre aggiornate per tutti, e puoi rimuovere una o più persone dal gruppo in qualsiasi momento.
-
-### Condivisione password sicura
-- Faremo nei prossimi mesi una puntata apposta
-	- Anche se ne abbiamo parlato nella Puntata 9 
-
-### I codici di verifica monouso che ricevi in Mail vengono inseriti in automatico, così puoi fare login nei siti senza uscire da Safari.
-- Dopo gli SMS adesso anche Mail
-
-## Profili di Safari
-Con i profili, Safari ti aiuta a separare il lavoro dal tempo libero: ciascun profilo avrà la sua cronologia, ed estensioni, gruppi di pannelli, cookie e preferiti distinti da quelli degli altri profili. E passare da uno all’altro mentre giri nel web è facilissimo e immediato.
-- Dividere casa ufficio hobby etc … utile
-
-## Tastiera
-
-### Un correttore ancora più precisino.
-- Ora puoi scrivere con l’aiuto di un correttore automatico più efficiente che mai. Le parole che corregge rimangono sottolineate per qualche momento, così puoi vedere cos’è cambiato e, se vuoi, ripristinare l’originale con un tap.
-- Disponibile per queste lingue: arabo, coreano, ebraico, francese, inglese, **italiano**, olandese, polacco, portoghese, rumeno, spagnolo, tedesco e thailandese. Per inglese, francese e spagnolo richiede un **iPhone 12 o successivo**.
-- Disponibile per queste lingue: arabo, coreano, ebraico, francese, inglese, **italiano**, olandese, polacco, portoghese, rumeno, spagnolo, tedesco e thailandese. Per inglese, francese e spagnolo richiede **iPad Pro 12,9" (quinta generazione e successive), iPad Pro 11" (terza generazione e successive), iPad (decima generazione), iPad Air (quarta generazione e successive) o iPad mini (sesta generazione)**.
-### Mentre scrivi, guarda le previsioni.
-- Solo in inglese e su iPhone 12 e successivi
-- Disponibile in SOLO inglese su iPad Pro 12,9" (quinta generazione e successive), iPad Pro 11" (terza generazione e successive), iPad (decima generazione), iPad Air (quarta generazione e successive) e iPad mini (sesta generazione).
-
-## Messaggi
-
-### Tutte le app che usi in Messaggi, eccole qui.
-- Tocca il nuovo pulsante “+” per vedere tutte le cose che condividi più spesso, come foto, messaggi audio o la tua posizione. Scorri verso l’alto per l’elenco delle altre app che hai aggiunto ad iMessage.
-
-### Mettiti in pari coi messaggi. E scorri per rispondere.
-- Una nuova freccina ti permette di saltare subito al primo messaggio non letto di una conversazione. E ora puoi scorrere verso destra su qualsiasi messaggio per rispondere.
-
-### Filtri di ricerca.
-- Trova subito il messaggio che ti serve, combinando più filtri per restringere la ricerca più velocemente.
-
-### Leggi la trascrizione di un vocale.
-- Ora i messaggi vocali vengono trascritti, così puoi leggerli subito e semmai ascoltarli quando hai tempo.
-- FS
-	- Testato da iOS 16 a iPadOS 17 senza esito
-
-## Adesivi …
-
-### Usa le tue foto per creare adesivi Live.
-
-## PDF e Note
-Ne abbiamo già parlato nella puntata con [Lucio sul WWDC 2023 puntata 65](http://a2podcast.it/65)
-
-## Freeform
-
-### Nuovi strumenti per disegnare.
-- Rendi ancora più creativi i brainstorming con i nuovi strumenti per disegnare, tra cui un pennello per acquerelli, una penna stilo e una con tratto a larghezza variabile, un evidenziatore e un righello. E grazie al ricono­scimento delle forme, puoi disegnare figure geometriche perfette anche a mano libera.
-
-### Lavora insieme al tuo team.
-- Vuoi sapere a cosa stanno lavorando le altre persone del gruppo? Se attivi la funzione Segui, sul tuo display vedrai esattamente quello che vedono loro mentre si muovono sulla tela infinita di Freeform.
-
-## FaceTime
-
-### iPhone ed iPad collegati ad Apple TV per fare call usando fotocamera dei dispositivi e vedere sullo schermo TV gli interlocutori
-- Disponibile su iPad Pro 12,9" (quinta generazione e successive), iPad Pro 11" (terza generazione e successive), iPad (decima generazione), iPad Air (quarta generazione e successive) e iPad mini (sesta generazione) utilizzando la fotocamera frontale.
-
-### Effetti speciali con un gesto.
-- Anima la conversazione e riempi tutto lo schermo con divertenti effetti 3D in realtà aumentata, come cuoricini, coriandoli e fuochi d’artificio. Per inviare una reazione ti basta un gesto.1
-	- Disponibile su iPhone XS, XR e successivi, e su Apple TV 4K (seconda generazione e successive).
-	- Disponibile su iPhone 12 e successivi utilizzando la fotocamera frontale.
-
-## Widget migliorati
-
-### Fai tap e fai tutto.
-- Usa i widget dalla schermata Home, dalla schermata di blocco o mentre l’iPhone è in StandBy e fai di tutto con un semplice tocco: puoi spuntare un promemoria, far partire musica e podcast o metterli in pausa, o accedere ai controlli dell’app Casa.
-
-### Widget sulla schermata di blocco.
-- Introdotti anche su iPad
-
-## Come potete sostenerci
-
-Se volete **supportare il podcast** vi chiediamo con il cuore di fare una **recensione su Apple Podcast.** In questo fase iniziale tante recensioni ci permetteranno di essere visti da più persone possibili.
-
-Se volete sapere come fare una recensione trovate qui il [link](https://www.avvocati-e-mac.it/podcast/itunes).
-
-Potete anche scriverci a scrivi.a🐌a2podcast.it
+[^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.

@@ -17,111 +17,73 @@ draft = false
 
 > In questa puntata Bianca, Roberto e Filippo vi parlano di che cos'è un backup, perché è importante farlo e quali sono le strategie e soluzioni migliori.
 
-È operativo anche il sito ufficiale con le note degli episodi
+## Note dell’episodio
 
-* [a2podcast.it](http://a2podcast.it)
-* [a2podcast.it/youtube](http://www.a2podcast.it/youtube) per il canale dove trovate le nostre dirette del venerdì sera.
+- [Eseguire il backup del Mac con Time Machine](https://support.apple.com/it-it/HT201250): guida Apple a Time Machine, usata nella puntata per spiegare backup automatici, incrementali e ripristino delle versioni precedenti su macOS.
+- [Backblaze](https://www.backblaze.com/home-1.html): servizio di backup cloud citato come esempio di copia remota/off-site, con attenzione a costi, tempi di recupero e cifratura dei dati.
+- [Come eseguire il backup del tuo iPhone, iPad e iPod touch](https://support.apple.com/it-it/HT203977): documentazione Apple sui metodi di backup tramite iCloud, Mac o PC per dispositivi iOS e iPadOS.
+- [iMazing](https://dev.imazing.com/it/backup-iphone-ipad): app di terze parti citata per backup locali, wireless e più controllabili di iPhone e iPad.
 
-Se volete **supportare il podcast** vi chiediamo con il cuore di fare una **recensione su Apple Podcast.** In questo fase iniziale tante recensioni ci permetteranno di essere visti da più persone possibili.
+## Sinossi[^sinossi-ai]
 
-Se volete sapere come fare una recensione trovate il [link qui](https://www.avvocati-e-mac.it/podcast/itunes).
+### 1. Perché il backup viene prima dello strumento
 
-## Note episodio
+La puntata apre con una definizione molto concreta: un backup è la possibilità di non perdere i dati quando il dispositivo principale smette di essere disponibile. Filippo, Roberto e Bianca partono da esempi familiari, come fotografie, video, documenti personali e file di lavoro, per spostare subito il discorso sul punto più importante: i dati non sono solo “file”, ma spesso sono ricordi, pratiche professionali, anni di lavoro o materiali che non possono essere ricostruiti in tempi ragionevoli.
 
-## 1. macOS
+Filippo insiste sul concetto di disaster recovery: non basta chiedersi dove siano i dati oggi, bisogna chiedersi cosa succede se il Mac, l’iPhone o l’iPad vengono distrutti, rubati, cifrati da un ransomware o semplicemente smettono di funzionare. Da qui deriva una priorità editoriale chiara: prima si fa almeno una copia, poi si discute quanto sofisticata debba essere la strategia.
 
-### Perché è importante un backup ?
+> "L'importante è fare almeno un backup."
+> — Filippo, 00:03:17
 
-* Rottura / compromissione disco fisso
-* Furto
-* Ransomware
+La conversazione distingue anche tra dati personali e professionali. Le foto possono avere un valore affettivo enorme; i documenti di lavoro, invece, possono incidere direttamente sulla continuità di uno studio o di un’attività. Per questo la domanda non è soltanto “quanto spazio mi serve?”, ma anche “quanto tempo posso permettermi di perdere prima di tornare operativo?”.
 
-Differenza tra:
+### 2. Manuale, automatico, completo, incrementale: le parole base del backup
 
-* backup manuale = l'utente deve ricordarsi di farlo ed avviare il programma di backup
-* backup automatico = il software si occupa automaticamente ad intervalli prestabiliti di fare un backup
+La prima distinzione operativa è tra backup manuale e backup automatico. Il backup manuale richiede memoria, disciplina e un gesto volontario: collegare un disco, avviare una procedura, copiare i file. Il backup automatico sposta invece il peso sull’applicazione o sul sistema operativo, che interviene a intervalli prestabiliti. La puntata non demonizza il manuale, ma evidenzia il limite più comune: se una procedura dipende dalla buona volontà dell’utente, prima o poi verrà saltata.
 
-Differenza tra:
+I conduttori passano poi ai tipi di copia. Il backup completo duplica l’intero disco o l’intero insieme di dati; è semplice da capire, ma può richiedere molto spazio. Il backup incrementale salva solo ciò che è cambiato rispetto all’ultimo backup, riducendo occupazione e tempi. Il backup differenziale conserva invece le modifiche rispetto all’ultimo backup completo. Roberto e Filippo usano esempi quotidiani per far capire che queste differenze non sono astratte: incidono sullo spazio necessario, sulla velocità e sul modo in cui si recuperano i file.
 
-* **backup completo** = copia dell'intero sistema o disco
-* **backup incrementale** = Un repository incrementale mira a rendere minore l'occupazione dello spazio per la memorizzazione delle copie dei dati in base alle differenze che ci sono tra i dati in uso e quelli che sono già nel repository. Questo elimina la necessità di memorizzare copie duplicate di dati invariati
-* **backup differenziale** = vengono salvati solo i dati che sono stati modificati dopo l'ultimo backup completo
+Anche i supporti vengono valutati in modo pratico. Il nastro magnetico viene citato come tecnologia storica ancora vista in alcuni ambienti; i dischi rigidi restano convenienti nel rapporto euro/gigabyte, ma possono rompersi; i supporti ottici sono ormai poco adatti per capacità e affidabilità; gli SSD sono resistenti agli urti, ma non sempre ideali per copie ripetute nel tempo. Il backup remoto aggiunge resilienza geografica, ma porta con sé dipendenza dalla connessione, costi e tema della riservatezza.
 
-Supporti di backup:
+### 3. Sincronizzazione, versioning e RAID non sono la stessa cosa
 
-* **Nastro magnetico** (vecchio)
-* **disco rigito** = soluzione più performanete Gb / costo, possibilità di rottura e smagnetizzazione
-* **Supporti ottici** (obsoleti ormai, non si smagnetizzano ma possono venire danneggiati dal tempo ossidazione o rottura, dimensioni limitare rispetto disco rigido)
-* **SSD** (dischi a stato solido) = come HD ma limitata capacità di riscrittura quindi non consigliati, minor rischio di rottura
-* **backup remoto / offsite** spazio su un server esterno, solitamente affittato, non si ha sicurezza completa dei dati (salvo cifratura più oltre) si evita che un disastro possa far perdere i dati
+Uno dei passaggi più utili della puntata è la distinzione tra backup e sincronizzazione. iCloud, Dropbox, OneDrive e servizi simili permettono di avere gli stessi file su più dispositivi, ma non garantiscono automaticamente una vera strategia di recupero. Se un file viene cancellato o danneggiato e la modifica si propaga su tutti i dispositivi, la sincronizzazione può replicare il problema invece di risolverlo.
 
-Differenza backup:
+> "La sincronizzazione non vuol dire backup."
+> — Filippo, 00:26:40
 
-* online: più efficienti e permettono automazione
-* offline: più sicuri rispetto a ransomware non sono collegati a PC attivi, abitualmente da fare manualmente o comunque collegare il backup manualmente
+Il versioning attenua il problema, perché consente di tornare a versioni precedenti di un documento o recuperare file cancellati entro un certo periodo. Ma anche qui i conduttori invitano a non confondere una funzione utile con una strategia completa. Se il periodo di recupero è limitato, o se il servizio non conserva abbastanza storia, il versioning aiuta solo entro una finestra temporale precisa.
 
-### Cosa non è un backup ?
+Il RAID viene trattato nello stesso modo: utile per la continuità operativa, non sufficiente come backup. Avere più dischi che replicano i dati può proteggere da un guasto fisico, ma non protegge necessariamente da cancellazioni, errori dell’utente, furti, incendi o malware. La ridondanza mantiene il sistema in piedi; il backup deve permettere di tornare indietro quando il sistema o i dati non sono più affidabili.
 
-La **sincronizzazione** ≠ backup
+### 4. La regola 3-2-1 come criterio minimo
 
-Ad esempio iCloud o Dropbox non sono un backup ma un modo per sincronizzare i dati da un PC ad un altro. Alcune di queste soluzione hanno un sistema di versioning (vedi dopo) che di fatto è una sorta di backup (è possibile ripristinare documenti a versioni di salvataggio precedenti / documenti cancellati) MA sono spesso limitati nel tempo (30 giorni abitualmente).
+Filippo introduce la regola 3-2-1 come base da cui partire: tre copie complessive, due copie on-site su supporti differenti e una copia off-site, conservata in un luogo diverso. L’esempio è quello dello studio: un backup Time Machine collegato al Mac, una seconda copia locale su supporto separato e una copia conservata altrove, per esempio a casa. Il senso non è accumulare dischi, ma coprire rischi diversi con copie diverse.
 
-Avere i dati in cloud meglio che non avere niente ma la sincronizzazione cloud non è un backup.
+> "La regola è quella del 321."
+> — Filippo, 00:29:21
 
-Dischi fissi ridondanti (**RAID**) non è in senso tecnico una forma di backup ma un sistema per garantire che i dati “operativi” non subiscano danni. È tuttavia una forma di protezione dei dati.
+La puntata chiarisce anche il problema dei backup sempre collegati. Una copia online, cioè un disco sempre connesso al computer, è comoda e favorisce l’automazione, ma se il Mac viene colpito da un ransomware può finire per salvare dati già cifrati. Una copia offline, scollegata dopo l’uso, è meno comoda ma più resistente a questo tipo di rischio. Per professionisti e studi, il punto pratico è bilanciare comodità e separazione: un backup che non viene mai fatto non serve, ma un backup sempre esposto può non bastare.
 
-### La regola 3, 2, 1.
+La regola 3-2-1 viene quindi presentata come una mappa dei rischi. Rottura del disco, furto, errore umano, ransomware e disastro fisico richiedono risposte differenti. Nessuna singola soluzione copre tutto; una strategia ragionevole combina più copie con ruoli diversi.
 
-**3** backup complessivi, **2** on site su supporti differenti (ad esempio bakcup timemachine e backup offline in un cassetto su disco rigido), **1** backup conservato in un luogo geografico differente da dove sono i dati di cui si vuole fare il backup.
+### 5. Time Machine, versioni precedenti e clonazione del disco
 
-### Time Machine
+La parte su [Time Machine](https://support.apple.com/it-it/HT201250) entra nel funzionamento più familiare agli utenti Mac. Time Machine è descritta come una soluzione trasparente, automatica e incrementale: una volta configurata, copia periodicamente i dati e consente di recuperare versioni precedenti di file e cartelle. Filippo usa l’esempio di un documento modificato e poi rimpianto: se il capo chiede la versione del giorno prima, il versioning permette di recuperarla senza riscriverla.
 
-[Sistema trasparente di Apple](https://support.apple.com/it-it/HT201250).
+> "Time Machine salva dati sull'hard disk finché c'è spazio sull'hard disk."
+> — Roberto, 00:33:37
 
-Backup, automatico ed incrementale su disco. Sisterma di versioning possibilità di “tornare indietro nel tempo” ad una versione precedente.
+Il vantaggio è particolarmente forte per documenti di testo e file piccoli: con un disco capiente, Time Machine può conservare anni di storia. Quando lo spazio finisce, elimina progressivamente i backup più vecchi. La puntata ricorda anche che Time Machine può lavorare con dischi di rete: la vecchia Time Capsule non esiste più, ma NAS e altri Mac possono essere configurati per diventare destinazioni di backup, riducendo l’attrito del cavo fisico.
 
-Possibilità di fare backup time-machine anche su dischi presenti in rete (non esiste più la time-capsule ma è possibile configurare NAS ed altri computer per un backup time-machine).
+Accanto a Time Machine viene citata la clonazione del disco. Qui la logica cambia: non si recupera solo un file, ma si crea una copia dell’intero disco. La copia “a caldo”, fatta con il computer acceso, è più comoda ma può essere meno pulita se durante la procedura i dati cambiano; la copia “a freddo”, con il disco non in uso, richiede più passaggi ma riduce il rischio di incoerenze. Per database e sistemi complessi, questa distinzione è importante.
 
-Time-machine fa anche una “fotografia del sistema operativo” è quindi possibile riavviare un mac con il disco fisso danneggiato direttamente dal backup di time machine.
+### 6. Backup remoto, iCloud, iMazing e dispositivi mobili
 
-### Clonazione del disco
+Nel backup remoto entra in gioco [Backblaze](https://www.backblaze.com/home-1.html), citato come servizio cloud relativamente economico per singolo computer e spazio ampio. La puntata però evita l’entusiasmo automatico: il backup remoto dipende dalla velocità della connessione, può essere lento in fase di primo caricamento e soprattutto può diventare scomodo quando bisogna recuperare grandi quantità di dati. Scaricare terabyte in emergenza non è la stessa cosa che ripristinare un singolo file.
 
-Copia dell’intero disco fisso di un computer. Possibile fare una **copia a caldo** (con il computer acceso) o **a freddo** (con il disco fisso del computer non acceso). La prima è più agile ma il disco viene scritto nel mentre che viene fatto il backup e quindi ci sono rischi di modifiche dello stesso (pericoloso in caso di database ad esempio), il secondo è meno comodo (necessità per esempio di avviare il Mac da un disco esterno con un sistema operativo ulteriore) ma garantisce copie “sicure”.
+Sul piano della riservatezza, Filippo sottolinea che un backup cloud richiede fiducia nel fornitore, salvo usare cifratura lato utente. Il servizio remoto è ottimo come copia off-site, ma va valutato con domande precise: chi può leggere i dati, quanto costa il ripristino, quanto tempo serve per tornare operativi e se la copia copre davvero tutti i file importanti.
 
-### Backup cloud / remoto
+La chiusura tecnica riguarda iPhone e iPad. Apple offre backup tramite iCloud oppure tramite Mac/PC, come riepilogato nella [guida ufficiale per iPhone, iPad e iPod touch](https://support.apple.com/it-it/HT203977). iCloud è comodo perché avviene in modo automatico quando il dispositivo è in carica e sotto Wi-Fi; il backup locale richiede più disciplina, ma può essere cifrato e conservato sotto controllo diretto. Per chi vuole più granularità viene citato [iMazing](https://dev.imazing.com/it/backup-iphone-ipad), che permette backup incrementali e recupero più mirato di contenuti come messaggi e chat.
 
-* Lento (legato al collegamento internet)
-* Meno sicuro (possibilità che l'hosting provider possa vedere i vostri dati – salvo che facciate backup cifrati)
-* potenzialmente costoso ([Backblaze](https://www.backblaze.com/home-1.html) relativamente poco costoso 6$ mese e spazio illimitato ma legato a solo un computer)
-* costoso recuperare i documenti (backblaze permette di scaricare i singoli file ma se necessario recuperare un intero disco allora i costi salgono e non è pensabile scaricare Gb o Tb di dati in breve tempo – salvo per Filippo che ha la FTTH 😆).
-
-#### Versioning
-
-Un file system di **controllo delle versioni** è qualsiasi file system di computer che consente a un file di computer di esistere in più versioni contemporaneamente. Quindi è una forma di controllo di revisione. I file system di controllo delle versioni più comuni mantengono un numero di vecchie copie del file. Alcuni limitano il numero di modifiche al minuto o all'ora per evitare di memorizzare un numero elevato di modifiche banali. Altri invece scattano istantanee periodiche ai cui contenuti è possibile accedere con una semantica simile al normale accesso ai file.
-
-Questo in se e per se non è un backup.
-
-## Backup iOS / iPadOS
-
-[Guida Apple](https://support.apple.com/it-it/HT203977)
-
-### Backup cloud: iCloud
-
-Unico presente, bisogna fidarsi di Apple (Apple ha concesso accesso ai backup dei dispositivi su iCloud alle forze dell’ordine Americane quindi questa soluzione deve essere considerata non sicura a livello di riservatezza dei dati).
-
-### Altre modalità di backup: iMazing
-
-[iMazing](https://dev.imazing.com/it/backup-iphone-ipad): Garantisci la sicurezza dei tuoi dati sul tuo Mac o PC con la tecnologia di backup unica di iMazing. Wireless, privata e automatica: è la migliore soluzione di backup per il controllo dei dati dei tuoi iPhone e iPad.
-
-## Dove ci possono trovare?
-
-### Bianca:
-Quando avrà quant'anni e dei figli potrete avere i suoi contatti 😜 (quantomeno così dice il padre Roberto).
-
-### Roberto:
-
-[Mac e architettura: mach - dot - net.wordpress.com](https://marchdotnet.wordpress.com/) [Podcast settimanale Snap - architettura imperfetta](https://www.spreaker.com/show/snap-archiettura-imperfetta)
-
-### Filippo:
-
-[Avvocati e Mac punto it](https://www.avvocati-e-mac.it/)
+[^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.

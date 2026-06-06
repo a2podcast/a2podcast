@@ -17,107 +17,108 @@ draft = false
 
 > In questa puntata Roberto e Filippo concludono l'approfondimento sulla digitalizzazione iniziato nella scorsa puntata.
 
-Concludiamo la serie di puntate legate alla digitalizzazione. Nella scorsa puntata abbiamo guardato come si acquisisce del materiale in digitale. Oggi vedremo come organizzare i documenti così acquisiti, che nomenclatura dargli, come lavorare in digitale e condividere i documenti ed infine cosa tenere in carta.
+## Note dell’episodio
+- [Tag su macOS — Supporto Apple](https://support.apple.com/it-it/guide/mac-help/mchlp15236/mac): guida ufficiale Apple all'uso dei tag in macOS per organizzare file e cartelle nel Finder.
+- [Tag su iPhone — Supporto Apple](https://support.apple.com/it-it/guide/iphone/iphab82e0798/ios): come aggiungere e gestire tag ai file nell'app File su iOS.
+- [Automator per la creazione di una nuova pratica — Avvocati e Mac](https://www.avvocati-e-mac.it/blog/2016/6/5/come-automatizzare-la-creazione-di-una-nuova-pratica-con-automator): articolo di Filippo su come automatizzare la generazione della struttura di cartelle per ogni nuova pratica legale con Automator.
+- [DEVONthink](https://www.devontechnologies.com/apps/devonthink): applicazione professionale per macOS e iOS per archiviare, indicizzare e ricercare documenti in formato non proprietario, con OCR integrato; preferita da Filippo per la gestione dello studio.
+- [Evernote](https://evernote.com/intl/it/): servizio di archiviazione e cattura documenti con OCR automatico su tutto il contenuto; citato come esempio di soluzione potente ma con problemi di lock-in all'esportazione massiva.
+- [Leap — Ironic Software](https://ironicsoftware.com/leap/): applicazione per macOS (aggiornata per M1 con la versione 4.04) che organizza i file tramite tag sovrapposti alla struttura cartelle esistente, senza spostare i documenti.
+- [Nextcloud](https://nextcloud.com): piattaforma cloud open-source self-hosted; usata da Roberto e Filippo per gestire il podcast, consigliata a chi vuole mantenere il controllo diretto sui propri dati.
 
-## Follow-up
+## Sinossi[^sinossi-ai]
 
-Nella parte di cattura acquisizione ci siamo scordati di una opzione presente di base in iOS / iPadOS ovvero la scansione da *File*.
+### 1. Follow-up: la scansione nascosta nell'app File
 
-Quando si apre l'app File premere sui tre puntini presenti nella barra di sinistra sopra il nome dell’applicazione File. Si aprirà un menù a scomparsa in cui la terza voce è "Scansiona documenti".
+Prima di entrare nel vivo della puntata, Filippo segnala un'omissione della scorsa puntata: nell'app File di iOS e iPadOS esiste una funzione di scansione documenti che molti non conoscono. Basta premere i tre puntini nella barra laterale sinistra per far comparire un menu in cui, alla terza voce, si trova "Scansiona documenti". Si tratta dello stesso motore di acquisizione usato dal sistema operativo Apple, condiviso con molte app di terze parti. Roberto, controllando in tempo reale sul proprio iPhone durante la diretta, conferma che il menu include anche voci interessanti come "Connetti al server" — una funzione per accedere a server Samba, resa molto più visibile nelle versioni recenti di iOS rispetto alle versioni precedenti dove era necessario fare vere e proprie capriole per trovarla.
 
+I conduttori approfittano del momento per annunciare il passaggio a una cadenza bisettimanale, motivato dalle vicissitudini personali delle settimane precedenti e dall'avvicinarsi dell'estate. Le dirette su YouTube continueranno a cadenza regolare e permetteranno agli ascoltatori di sentire gli episodi in anteprima.
 
-## 1. Organizzare i documenti digitali
+### 2. Come organizzare i documenti: cartelle o tag
 
-Abbiamo acquisito in digitale i nostri documenti e mo' che ci facciamo? Dove li mettiamo? Come li organizziamo?
+Il cuore della puntata inizia con la grande domanda: una volta acquisiti, dove si mettono i documenti e come si organizzano? Filippo illustra le due filosofie principali.
 
-Due possibili modi di salvare i nostri documenti:
+La prima è la struttura a cartelle gerarchica: una soluzione che definisce esplicitamente "degli old" ma che lui stesso usa quotidianamente. L'organizzazione per aree (ufficio, casa) con sottocartelle per ogni posizione o pratica è semplice, intuitiva e a prova di futuro. Nel suo studio legale, Filippo ha virtualizzato i fascicoli replicando la struttura fisica: atti di parte, atti di controparte, corrispondenza, documenti del cliente, fatture, preventivi. Una cartella tipo viene generata automaticamente tramite Automator, anche se Roberto ammette di usare ancora il copia-incolla manuale.
 
-* in una struttura a cartelle organizzata per aree
-* TAG
+> "Andare a recuperare una fattura, non la vai a cercare in mille cartelle, ma vai nella posizione e la fattura di quella pratica è lì. Sono stupidate, ma ti velocizzano notevolmente il modo di lavorare."
+> — Filippo, 00:12:49
 
-La prima è soluzione più semplice ed a prova di futuro. La seconda è moderna ma meno supportata. Ad esempio in [macOS il sistema a tag](https://support.apple.com/it-it/guide/mac-help/mchlp15236/mac) è supportato da [Maverick](https://www.chriswrites.com/use-tags-os-x-mavericks/) ma su [iOS ed iPadOS](https://support.apple.com/it-it/guide/iphone/iphab82e0798/ios) pur essendo supportato è relativamente complesso da gestire.
+L'uniformità del sistema paga sul lungo periodo: sapere esattamente dove cercare un preventivo, e capire dalla sua assenza che non è mai stato fatto, diventa un vantaggio operativo concreto. Filippo nota che la struttura a cartelle può anche funzionare come workflow implicito: se tutte le pratiche partono da un accesso agli atti, quella diventa la cartella 1, seguita dalle verifiche urbanistiche, e così via.
 
-Sistema di Tags non apple [Leap](https://ironicsoftware.com/leap/)
+Il consiglio pratico è di non esagerare con i livelli di annidamento: cinque o sei livelli sono un limite sensato oltre il quale la navigazione diventa faticosa e la struttura si rivolta contro chi l'ha creata.
 
-**Che nome dare ai documenti?**
+### 3. I tag: un approccio moderno con limiti pratici
 
-Abitualmente utilizzare il prefisso:
+La seconda filosofia è quella dei tag, che Filippo associa ironicamente ai "giovani". Il vantaggio fondamentale dei tag rispetto alle cartelle è che un singolo documento può appartenere a più insiemi contemporaneamente senza essere duplicato: basta associargli più etichette e, cercando per qualsiasi tag, il file viene trovato.
 
-```
-ANNO-MESE-GIORNO
-```
+Su macOS, i tag sono disponibili da OS X Mavericks e funzionano in modo abbastanza fluido. Su iOS e iPadOS, invece, la situazione è più scomoda: aggiungere un tag a un file richiede di tenere premuto sull'icona e navigare nel menu contestuale fino alla settima voce, e creare tag personalizzati o gestirli in modo sistematico è ritenuto da entrambi i conduttori un'operazione poco piacevole.
 
-Poi un nome significativo, ovvero un nome che descriva il contenuto del documento.
+> "Il problema è che mettere i tag su iOS e iPadOS è infernale, tra virgolette, mentre su Mac si riesce a fare tutta una serie di cose."
+> — Filippo, 00:18:30
 
-Non c’è limite alla lunghezza del nome ma è sempre meglio non avere file con nomi troppo lunghi. Se salvate delle email come PDF può essere utile mettere il nome del mittente e quello del ricevente prima dell'oggetto.
+Un limite strutturale dei tag Apple è la loro natura chiusa: funzionano bene nell'ecosistema Apple, ma non si trasferiscono su Windows o su sistemi non Apple. Per chi lavora esclusivamente su dispositivi Apple, la sincronizzazione tra Mac e iOS esiste (i tag assegnati su Mac compaiono su iOS), ma l'operazione inversa rimane problematica.
 
-**Una terza via**: esiste, e ricomprende tutti quei programmi che, specificamente si occupano di archiviare e catalogare i documenti. I PRO di queste soluzioni è che è il programma a preoccuparsi di strutturare il tutto. I CONTRO sono che i vostri dati sono all’interno di questo programma.
+Dall'audience della diretta arriva la segnalazione di **Leap** di Ironic Software, un'applicazione macOS che organizza i file per tag senza spostare fisicamente i documenti. Roberto la trova inizialmente ferma alla versione 10.12, ma Daniele Borghi — ascoltatore collegato in diretta — corregge: esiste la versione 4.04, compatibile con M1, e una versione per macOS 10.15 Catalina scaricabile in prova. Nonostante il buon approccio concettuale, l'app sembra aver perso slancio dopo che Apple ha integrato i tag nativamente in Mavericks.
 
-**Esempio** [Evernote](https://evernote.com/intl/it/) permette di catturare ed archiviare in taccuini fare OCR dei documenti ma estrarre grosse moli di documenti da *Evernote* è un inferno.
+### 4. La nomenclatura: come chiamare i file
 
-### Su Mac
+Indipendentemente dalla strategia di archiviazione, il nome del file è fondamentale. Il sistema consigliato da Filippo — adottato dalla comunità di produttività e non reinventato da zero — prevede un prefisso con la data in formato `ANNO-MESE-GIORNO` (es. `2021-05-07`), seguito da un nome descrittivo del contenuto.
 
-La gestione dei documenti è relativamente semplice. Se si usa una struttura a cartelle il consiglio è quello di non esagerare con le sotto-cartelle. Può diventare complicato navigare dopo 5 o 6 livelli di sotto insieme.
+Il vantaggio di questo schema è doppio: i file si ordinano automaticamente per data senza nessun intervento manuale, e a colpo d'occhio si colloca il documento nel tempo. Per un legale, sapere che un atto è datato in un certo giorno senza dover aprire il file è un risparmio di tempo concreto.
 
-Con i TAG la situazione è diversa. Il grosso vantaggio dei TAG è che possono essere dati più TAG al medesimo documento e quindi 1 documento può stare in più sottoinsiemi, mentre con la struttura a cartelle potremmo aver bisogno di duplicare i documenti.
+> "La vera comodità è che, avendo anno, mese e giorno, i file vengono messi automaticamente in ordine di data."
+> — Filippo, 00:20:00
 
-[Automazione di una pratica con Automator articolo di Filippo](https://www.avvocati-e-mac.it/blog/2016/6/5/come-automatizzare-la-creazione-di-una-nuova-pratica-con-automator).
+Filippo usa TextExpander per espandere automaticamente la data odierna, ieri o domani, evitando di digitarla a mano ogni volta — operazione che per chi digitalizza dieci o quindici documenti al giorno diventa altrimenti tediosa. Apre anche una parentesi per i terminale-dipendenti: nomi di file lunghi sono scomodi da digitare nel terminale, quindi chi usa molto la riga di comando potrebbe preferire convenzioni più brevi e pulite.
 
-### iPhone e iPad
+Sul formato delle email si apre una discussione: Filippo è pro-EML per deformazione professionale (in ambito legale il formato EML è spesso necessario per il deposito), ma per chi non ha esigenze giuridiche la stampa in PDF è più semplice e trasportabile. Il file EML ha il vantaggio di mantenere gli allegati integrati, ma richiede un client di posta per essere aperto comodamente, rischiando di interrompere il flusso di lavoro. Gli allegati, idealmente, vanno estratti e archiviati nella cartella pertinente del documento principale.
 
-La vita con i dispositivi mobili di Apple è più complessa. Il "peccato originale" è che su questi dispositivi l’archetipo di funzionamento non è il documento ma l’app. Per cui ogni app aveva il suo contenitore in cui salvava i propri documenti e questi documenti erano solo per quell’app. Al massimo era possibile copiare un documento da un’app all’altra.
+### 5. La terza via: software professionali di document management
 
-Con l’arrivo di File e dei *document provider* di terze parti questa limitazione è notevolmente diminuita ma salvare i documenti non è comodissimo.
+Esiste un terzo approccio che aggira la scelta tra cartelle e tag delegando tutta l'organizzazione a un programma dedicato. Il più citato nell'ecosistema Apple è **DEVONthink**, che Filippo usa abitualmente. I suoi punti di forza: ricerca avanzata su tutta la documentazione, OCR integrato, e — punto cruciale — i file restano in formato non proprietario e sono fisicamente trascinabili fuori dal database senza procedure speciali.
 
-Abbiamo già parlato di come funziona File nella puntata 4 e 5 dedicate rispettivamente ad iOS ed iPadOS quindi non ci ripetiamo qui.
+L'aspetto positivo di DEVONthink rispetto ad alternative come Evernote è proprio l'assenza di lock-in. Evernote, pur essendo potente e con un OCR che indicizza praticamente qualsiasi contenuto comprese le immagini, rende difficile l'esportazione massiva. Chi ci ha costruito dentro un archivio corposo si trova in una situazione scomoda nel momento in cui vuole uscirne.
 
-Per la gestione e movimentazione di molti documenti iPhone e iPad richiedono l’utilizzo di applicazioni come Comandi Rapidi o app come ToolBox Pro di cui ci occuperemo in future puntate.
+> "I vostri dati sono all'interno di questo programma. Estrarre grosse moli di documenti da Evernote è un inferno."
+> — Filippo, 00:28:05
 
-## 2. Lavorare in digitale
+Lo svantaggio comune a tutti questi software è il costo e l'effetto lock-in, anche se in gradi diversi. Il vantaggio è avere in un unico strumento archiviazione, ricerca avanzata, OCR e, nel caso di DEVONthink, anche la possibilità di visualizzare file EML con tutti gli allegati senza aprire il client di posta.
 
-Abbiamo archiviato i documenti che abbiamo acquisito ma **come li tiriamo fuori quando ci servono?**
+### 6. Trovare i documenti: OCR e ricerca
 
-### Trovare i documenti
+Archiviare è solo metà del lavoro: i documenti devono poter essere trovati rapidamente. La chiave è l'OCR — il riconoscimento ottico del testo — che trasforma una scansione in un PDF ricercabile. Senza OCR, Finder e l'app File possono cercare solo nel nome del file; con OCR, cercano anche nel contenuto.
 
-Sia in macOS che su iOS / iPadOS ci sono funzioni di ricerca abbastanza evolute. Quello tuttavia che fa la differenza è che i nostri documenti abbiano l’OCR ovvero l’optical character recognition, il riconoscimento ottico del testo.
+Su macOS e iOS gli strumenti di base per l'OCR ci sono, inclusi quelli nativi di Apple, ma richiedono una configurazione non sempre immediata. I software professionali come DEVONthink o Evernote includono OCR automatico che funziona su qualsiasi contenuto salvato, comprese le immagini. Roberto menziona che Spotlight su macOS permette ricerche abbastanza avanzate, e che l'app File su iOS ha funzioni di ricerca migliorate nelle versioni recenti.
 
-In pratica per i documenti che non nascono direttamente in digitale è possibile applicare con appositi software un livello nascosto al cui interno viene inserito il testo riconosciuto dal software. Se originariamente il riconoscimento del testo non era molto preciso oramai è un’operazione relativamente semplice sia su macOS che su iOS / iPadOS ed esistono anche progetti gratuiti.
+La combinazione ottimale è duplice: avere i file con OCR per la ricerca nel contenuto, e averli nominati correttamente per trovarli a colpo d'occhio nella struttura cartelle. Le due strategie si completano.
 
-Una volta che dentro i nostri documenti PDF c’è del testo da cercare il Finder così come File può eseguire delle ricerche anche nel contenuto dei documenti e quindi rendere più facile trovare un documento che abbiamo "perso".
+### 7. Condividere i documenti: fisico, AirDrop e cloud
 
-L’altro metodo è cercare i documenti in base alla struttura a cartelle da noi costruita e dalla nomenclatura che gli abbiamo dato.
+Archiviati e trovati i documenti, spesso è necessario condividerli. Il metodo fisico più diffuso — le chiavette USB — è anche il più sconsigliato: si perdono, si rompono, e sono un vettore classico di attacchi informatici. Roberto ricorda che una delle tecniche di social engineering più usate contro le aziende consiste nel lasciare chiavette USB infette vicino ai parcheggi, contando sulla curiosità dei dipendenti.
 
-## 3. Condividere i documenti
+AirDrop è un'alternativa comoda nell'ecosistema Apple, anche se al momento della registrazione era emersa una vulnerabilità non ancora del tutto risolta dagli aggiornamenti di sicurezza disponibili.
 
-Oltre ad acquisire, archiviare e trovare i documenti a volte dobbiamo condividerli con altri, come fare?
+Il cloud è la soluzione più pratica: Dropbox, iCloud, Google Drive, OneDrive permettono di condividere singoli file o intere cartelle con link. Roberto segnala un dettaglio tecnico importante: su Dropbox, condividere una cartella (e non solo un link a essa) fa contare il contenuto nella quota di chi riceve la condivisione, non solo di chi la possiede. Un suo cliente aveva caricato dati nella cartella condivisa portandolo da 2 a 3 GB e facendo scattare il piano a pagamento.
 
-Ci sono modi "fisici" e modi "virtuali"
+> "Occhio a quello che fate. Recentemente un mio cliente con il suo impeto di condividere le cose ha cominciato a buttare dati sulla mia Dropbox e da 2 giga sono arrivato a 3 giga."
+> — Roberto, 00:45:09
 
-### Il modo fisico
+Filippo introduce **Nextcloud** come alternativa open-source self-hosted: il podcast A2 stesso gira su un server Nextcloud che lui ha configurato. Il vantaggio è il controllo totale sui propri dati, senza che terze parti possano potenzialmente accedervi; lo svantaggio è che richiede un minimo di competenze per l'installazione e la manutenzione.
 
-La soluzione più semplice è una chiavetta USB. È anche la soluzione più sconsigliata di tutte. Le chiavette USB o per quanto vale i dischi esterni sono facili da perdere o da essere rubati. Inoltre possono essere veicolo di virus ed altro.
+### 8. Backup, iPhone/iPad-only e cosa tenere in carta
 
-Una soluzione Apple interessante e che molti non conoscono è AirDrop.
+Sui backup la puntata rimanda all'episodio 8, dedicato interamente all'argomento. Per chi usa solo iPhone o iPad senza un Mac, le opzioni si riducono a due: copia manuale su disco esterno collegato tramite adattatore USB, oppure affidarsi al cloud ricordando che il cloud non è un backup vero e proprio — è il computer di qualcun altro, con tutti i rischi che comporta in caso di problemi di connettività o del servizio.
 
-### Il cloud
+Sul cosa conservare in carta, Filippo è diretto: per saperlo con precisione bisogna parlare con il proprio commercialista o avvocato. In linea generale restano necessari in originale cartaceo gli atti di acquisto di immobili, le assicurazioni, i certificati di matrimonio e la documentazione fiscale soggetta ai termini di prescrizione dell'Agenzia delle Entrate (tipicamente cinque o dieci anni a seconda del caso).
 
-Se avete salvato i vostri documenti in *cloud* (Dropbox, iCloud, GoogleDrive, OneDrive etc …) condividere i dati con soggetti terzi è relativamente semplice. Potete condividere singoli documenti cosi come intere cartelle. Spesso scegliendo quando e quanto condividere.
+Roberto condivide il suo sistema pratico per gestire la transizione: mettere un punto a matita nell'angolo in alto a destra di ogni documento già digitalizzato. Sfogliando una cartella fisica si capisce immediatamente quali documenti sono già in digitale e quali mancano ancora, senza dover aprire il computer.
 
-Piccola nota per [Nextcloud.](htttps://nextcloud.com) È una soluzione open-source. La cosa interessante è che rispetto ai giganti di internet con una soluzione del genere potete gestire voi stessi i avere i vostri dati. Se svolgete attività sensibili o se non volete che altri possano potenzialmente ficcare il naso nei vostri affari questa è un’ottima soluzione. Esistono società che offrono dei server Nextcloud o potete fare come Filippo e farvi il vostro server.
+### 9. Il paradigma dell'app contro il paradigma del documento
 
-## 4. Backup
+Un tema trasversale emerge dalla discussione sulla gestione dei file su iPhone e iPad. Il "peccato originale" di iOS, come lo definisce Roberto, è che il sistema è costruito intorno all'app, non al documento. Per anni ogni applicazione aveva la sua sandbox chiusa e i file esistevano solo all'interno di quell'app. L'introduzione di File e dei document provider di terze parti ha ridotto notevolmente questo limite, ma la mentalità di fondo non è ancora quella del desktop.
 
-Abbiamo parlato più di 1 ora su come fare i backup nella **puntata 8** quindi vi rinviamo a quella.
+Roberto avanza una previsione: il paradigma delle cartelle, ereditato dalla fisicità degli archivi di carta, potrebbe iniziare a mostrare la propria età nei prossimi dieci anni. Le generazioni che usano l'iPad come strumento primario stanno sviluppando un rapporto con i file fondamentalmente diverso da quello di chi è cresciuto col Mac. Non è detto che uno dei due sia superiore — sono semplicemente modelli mentali diversi.
 
-Piccola nota per ch usa solo iPhone / iPad. Per fare i backup dei dati ci sono “solo” 2 strade:
+La discussione si chiude con una rapida riflessione sull'aggiornamento dei sistemi operativi: Roberto ragiona se valga la pena saltare direttamente a Big Sur con un'installazione pulita, evitando la tappa intermedia di Catalina. Il motivo pratico è che alcuni software di nuova generazione — come Shapr3D e il motore di rendering Octane X — sono già compatibili solo con Big Sur, e la tendenza degli sviluppatori a sfruttare i framework più recenti rende il divario tra versioni di macOS sempre più rilevante per chi ha Mac di qualche anno.
 
-1. **Fare una copia su disco esterno** collegato ad iPhone / iPad; non esistono soluzioni automatizzate di backup … bisogna fare la copia a manina trascinando i file dal dispositivo mobile al disco esterno collegato;
-2. **Usare il cloud**; come abbiamo già detto il *cloud* in senso tecnico non è un backup ma in questo caso è l’unico modo di avere una copia dei propri dati.
-
-## 5. Cosa tenere in carta ?
-
-Parlate con il vostro commercialista o legale … MA in generale:
-
-* Atti di acquisto di immobili, assicurazioni, certificati di matrimonio etc …
-* Prescrizione del diritto / potere di accertamento Ag. Entrate
-* Documentazione fiscale
+[^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.

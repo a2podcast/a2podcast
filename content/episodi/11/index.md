@@ -17,124 +17,121 @@ draft = false
 
 > In questo primo episodio sul paperless (ovvero digitalizzazione) Andrea, Roberto e Filippo vi parlano di come acquisire i documenti con iPhone ed iPad o con il vostro Mac.
 
+## Note dell’episodio
 
-## Follow-up
+- [Portable Document Format — Wikipedia](https://it.wikipedia.org/wiki/Portable_Document_Format): panoramica completa degli standard PDF, inclusi PDF/A, PDF/X e le sottocategorie meno note
+- [Acquisire documenti con Note su iPhone e iPad](https://support.apple.com/it-it/HT210336): guida Apple per usare l'app Note come scanner gratuito su iOS e iPadOS
+- [Usare la fotocamera con Continuity su Mac](https://support.apple.com/it-it/HT209037): come usare iPhone o iPad come scanner wireless per il Mac tramite la funzione Continuity (richiede macOS Mojave, iOS 12, autenticazione a due fattori, Wi-Fi e Bluetooth attivi)
+- [SwiftScan](https://swiftscan.app/en/index.html) (ex ScanPro): app di scansione avanzata con OCR e acquisizione multipagina, ora in abbonamento a 37,99 €/anno
+- [PDFpen per iOS](https://pdfpen.com/pdfpen-ios/): app con OCR e correzione avanzata delle immagini, disponibile anche in versione Mac
+- [Microsoft Lens per iOS](https://support.microsoft.com/it-it/office/microsoft-lens-per-ios-fbdca5f4-1b1b-4391-a931-dc1c2582397b): scanner gratuito Microsoft, consigliato in canale Telegram da Nicola Losito, ottimo anche per ambienti scolastici
+- [Adobe Scan](https://apps.apple.com/it/story/id1405448660): scanner gratuito Adobe con abbonamenti opzionali per funzioni avanzate
+- [Scanner Pro di Readdle](https://readdle.com/it/scannerpro): scelto dalla maggioranza nel sondaggio Telegram, versione Plus a 19,99 €
+- [ScanSnap di Fujitsu](https://www.scansnapit.com/it/): fascicolatore professionale con OCR integrato, scansione fronte-retro, rimozione pagine bianche e capacità di 50 fogli; modello iX500 usato da Filippo dal 2014
 
-Paolo, nel canale [Telegram di Avvocati e Mac](https://t.me/joinchat/WB-zm1-RbHCPQrCL), ci ha fatto notare che:
+---
 
-> Per inserire l’accento acuto "\`" (anche se nel contesto informatico ha più senso chiamarlo *backquote* o *backtick*) con la tastiera italiana su Mac basta premere `option+\`. Non è necessario usare la dead key `option+9` e spazio.
+## Sinossi[^sinossi-ai]
 
-## 1. Perché digitalizzare ?
+### 1. Introduzione e follow-up dalla puntata precedente
 
-* **Risparmiare**:
-  * stampare su carta costa
-  * archiviare la carte costa: fatica e spazio
-* **Organizzare**: minor confusione sulla scrivania e documenti in giro per casa o ufficio
-* **Lavorare di meno ed ovunque**:
-  * possibilità di stampare infinite copie di un documento digitalizzato
-  * inviarlo via email
-  * portarselo dietro ovunque basta avere uno spazio sul disco fisso o chiavetta
-* **Inquinare di meno**: la carta sono alberi tagliati e l’inchiostro inquina
+L'episodio 11 — numero palindromo, come fa notare Roberto in apertura — è il primo di due puntate dedicate al paperless, termine che i conduttori preferiscono nella pronuncia italiana "paperless" per via delle "papere". Prima di entrare nel vivo dell'argomento, Roberto legge un follow-up arrivato dal canale Telegram di Avvocati e Mac: l'ascoltatore Paolo segnala che l'accento acuto su Mac con tastiera italiana si ottiene anche con `option + \` (barra inversa), senza dover ricorrere alla sequenza `option + 9` seguita da spazio descritta nella puntata precedente. I conduttori ringraziano Paolo, definito "il nostro ascoltatore preferito che ci segue dall'inizio", e scherzano sul fatto di inserire deliberatamente delle "trappole" nelle puntate per identificare chi ascolta con attenzione.
 
-## 2. I passi per digitalizzare
+Seguono la lettura delle prime due recensioni arrivate su Apple Podcast. La prima elogia il linguaggio semplice e chiaro con cui vengono spiegate le caratteristiche dei sistemi Apple. La seconda, firmata da Alex Raccuglia, descrive i due conduttori come "due professionisti, due prospettive diverse" con "un linguaggio schietto e leggero", menzionando anche la partecipazione dei figli nelle dirette — in questo episodio è presente Andrea, figlio di Filippo, mentre Bianca Marin è assente perché stanca dopo una lunga settimana scolastica.
 
-Come si può affrontare la digitalizzazione di casa o dell’ufficio.
+### 2. Perché digitalizzare: i motivi pratici ed ecologici
 
-1. Catturare / acquisire (ne parlermo nell’episodio di oggi)
-2. Organizzare i documenti digitali (ne parleremo nel prossimo episodio)
-3. Lavorare con i documenti in digitale
-4. Condividere i documenti
-5. Backup dei documenti (ne abbiamo già parlato nella puntata 8 del podcast)
-6. Cosa tenere su carta ?
+Andrea introduce il cuore della puntata con una panoramica sulle ragioni per abbracciare il paperless. Il primo motivo è economico: la carta ha un costo diretto di acquisto e un costo indiretto legato alla sua produzione (un processo dispendioso che parte dal legno) e all'archiviazione fisica. Roberto porta l'esempio degli studi legali, dove i faldoni da 12-15 centimetri riempiono stanze intere e richiedono tempo per essere consultati.
 
-## 3. Catturare / acquisire in digitale
+Il secondo motivo è organizzativo. La carta occupa spazio fisico sulla scrivania, impedisce di lavorare agevolmente e rende difficile la ricerca di documenti specifici. Il digitale, invece, replica la logica delle cartelle del mondo fisico ma aggiunge la ricerca testuale, la duplicazione istantanea dei file e la possibilità di inviare documenti via email in pochi secondi.
 
-Assurdo partire digitalizzando tutto … MEGLIO approccio semplice di iniziare a digitalizzare quel che entra in casa o in ufficio.
+> "Una volta salvato il documento, potete duplicare, triplicare, quadruplicare le vostre copie in base a quello che vi serve."
+> — Andrea, 00:13:38
 
-**Formato preferito per digitalizzare è il PDF** (creato da Adobe ora standard "aperto") è di fatto il formato di file più utilizzato in tutto gli ambiti.
+Il terzo aspetto è la mobilità. Roberto racconta di aver lavorato per anni in completa mobilità, portando con sé al massimo due o tre fogli di carta per gli appunti, e di aver apprezzato enormemente la digitalizzazione delle pratiche comunali per gli architetti: non più necessario comprare un plotter, stampare tavole enormi o recarsi fisicamente agli uffici per la protocollazione.
 
-Esistono vari "guisti" (flavour) di PDF. Per ragioni di spazio non ne parleremo ma è opportuno sapere che esistono per non rimanere "impressionati" dalla cosa.
+Infine c'è la dimensione ecologica: Andrea ricorda che gli architetti sono "i maggiori responsabili della deforestazione del mondo intero" per le tavole tecniche di grande formato, e confessa di aver stampato in passato tavole lunghe fino a cinque metri. Roberto chiude il ragionamento con un paradosso ironico: si compra carta per archiviarla, poi si comprano mobili IKEA per contenere gli archivi — e i mobili IKEA richiedono legno, ricominciando il ciclo.
 
-Oltre ai PDF normali esistono gli altrettanto famosi **pdf/a** che sono prevalentemente pensati per l’archiviazione per lunghi periodi di tempo quindi sono "retro-compatibili".
+### 3. La roadmap della digitalizzazione in sei passi
 
-I PDF potenzialmente possono contenere anche elementi multimediali come audio e video (anche se non sono molto usati per questo).
+Prima di entrare nelle tecniche di acquisizione, Andrea espone la struttura complessiva del percorso verso il paperless, che i conduttori hanno deciso di distribuire su più episodi:
 
-Per approfondimenti trovete nelle note dell’episodio [link a Wikipedia](https://it.wikipedia.org/wiki/Portable_Document_Format) con i vari standard.
+1. **Catturare e acquisire** i documenti (oggetto di questa puntata)
+2. **Organizzare** i documenti digitali (puntata successiva)
+3. **Lavorare** con i documenti in digitale
+4. **Condividere** i documenti
+5. **Backup** (già affrontato nell'episodio 8)
+6. **Decidere cosa tenere su carta**, perché alcuni documenti mantengono valore legale e non vanno eliminati
 
-**2 tipologie di PDF**:
+Andrea sottolinea un punto metodologico importante: non ha senso cercare di digitalizzare tutto in una volta. L'approccio consigliato è iniziare a digitalizzare ciò che entra in casa o in ufficio da quel momento in poi, costruendo gradualmente l'abitudine.
 
-* acquisizioni = fotocopie digitali
-* PDF testuali dove il PDF viene generato da un programma (di video-scrittura ma non solo) e quindi già digitale.
+> "Assurdo partire digitalizzando tutto. Meglio un approccio semplice: iniziare a digitalizzare quello che entra in casa o in ufficio."
+> — Andrea, 00:21:48
 
-Una volta che sappiamo come salvare i documenti che catturiamo vediamo come farlo.
+Filippo aggiunge un trucchetto pratico: segnare con un piccolo pallino a matita nell'angolo in alto a destra del foglio fisico dopo averlo digitalizzato, così si sa immediatamente quali documenti sono già stati acquisiti. Filippo, invece, adotta un approccio più radicale: tutto ciò che viene digitalizzato e non è fondamentale viene direttamente eliminato.
 
-### 3.1 Dalla carta
+### 4. Il formato PDF: standard de facto e i suoi "gusti"
 
-Una volta catturare / acquisire un documento di carta era una attività legata prevalentemente all’acquisto di uno strumento apposta: lo scanner.
+Il formato prescelto per la digitalizzazione è il PDF, creato originariamente da Adobe e ora diventato uno standard aperto. Filippo ricorda che non è sempre stato così: per anni il formato era proprietario e aprire un PDF richiedeva obbligatoriamente Adobe Reader. L'apertura del formato ha semplificato enormemente le cose, soprattutto nell'ecosistema Apple, dove macOS consente di stampare qualsiasi documento in PDF da qualunque applicazione.
 
-Negli ultimi anni tuttavia tutti hanno a loro disposizione uno smartphone con la sua fotocamera.
+Roberto, consultando Wikipedia in diretta, resta sorpreso dalla proliferazione di varianti: esistono almeno sei categorie di PDF con almeno due sottocategorie ciascuna. I conduttori si soffermano sulle due più rilevanti per l'uso quotidiano:
 
-Usare uno iPhone per fare scansioni non è perfetto (non come uno scanner professionale dedicato a questo scopo) ma per piccole catture è uno strumento alla portata di tutti e, con le dovute accortezze, permette di ottenere dei buoni risultati.
+- **PDF da acquisizione** (fotocopie digitali): immagini scansionate, in formato bitmap, con risoluzione e dimensione del file dipendenti dalla qualità della fotocamera
+- **PDF testuale nativo**: generato direttamente da software come elaboratori di testo, in formato vettoriale, con qualità teoricamente illimitata di zoom e possibilità di estrarne il testo
 
-#### iPhone e iPad
+Roberto fa notare un aspetto tecnico rilevante per i progettisti: nelle versioni recenti di AutoCAD per Mac è possibile convertire un PDF vettoriale in un file DWG con pochi passaggi, vanificando la protezione della paternità del disegno che molti professionisti credevano garantita dal formato PDF. Fanno eccezione i file catastali, che vengono deliberatamente rasterizzati (trasformati in immagine bitmap) proprio per impedire questa operazione.
 
-NON FATE UNA FOTO AL DOCUMENTO però!
+### 5. Acquisire da carta con iPhone e iPad: le app di scansione
 
-Esistono svariati programmi per fare [acquisizioni tra cui il gratuito Note](https://support.apple.com/it-it/HT210336).
+Filippo illustra il metodo più accessibile per la digitalizzazione della carta: utilizzare la fotocamera di iPhone o iPad. Il punto di partenza obbligatorio è **non usare mai la fotocamera nuda** per fotografare un documento — i risultati sono di qualità inferiore rispetto alle app dedicate.
 
-I risultati di **Note** sono buoni ma non viene fatto l’OCR. Gli strumenti di Note sono vari, tra cui il riconoscimento degli angoli del documento ed un sistema di auto scontorno e "raddrizzamento" del foglio. Oltre la possibilità di convertire tra colori, scala di grigi e bianco e nero.
+L'app gratuita più semplice è **Note** di Apple: cliccando sull'icona della fotocamera all'interno di una nuova nota, si attiva una modalità di scansione che rileva automaticamente i bordi del foglio, lo raddrizza e permette di scegliere tra colore, scala di grigi e bianco e nero. Roberto la prova in diretta sulla propria scaletta e conferma che il risultato è ottimo anche con il foglio tenuto di traverso. Il limite principale di Note è l'assenza di OCR (riconoscimento ottico dei caratteri).
 
-*NOTA*: **Come acquisire al meglio un documento con l'iPhone o l’iPad**: se è un foglio di carta bianca cercare di fare l’acquisizione su una superficie NON bianca. In questo modo il sistema di riconoscimento dei bordi del foglio funzionerà meglio e non dovrete fare quasi nulla. È poi possibile abilitare il flash per ottenere un'immagine migliore soprattutto se il luogo in cui fare l’acquisizione non è ben illuminato o ci sono ombre proiettate sul foglio.
+> "Ho fatto la scansione e l'ha fatta ottimamente, tutto perfettamente dritto. Complimenti ad Apple, senza neanche richiedere operazioni di ritaglio o aggiustamento dei margini."
+> — Roberto, 00:35:05
 
-Una volta salvato in *Note* il documento è possibile esportarlo come PDF altrove.
+Un consiglio pratico di Filippo: per ottenere il rilevamento automatico dei bordi più preciso, scansionare un foglio bianco su una superficie scura. Se si usa bianco su bianco, il sistema di riconoscimento dei contorni fatica.
 
-Software a pagamento permetto cose più avanzate tipo:
+Roberto presenta poi i risultati di un sondaggio condotto nel canale Telegram di Avvocati e Mac sulle app più usate:
 
-* acquisizione multipla di pagine
-* riconoscimento del testo acquisito
-* correzzione avanzata delle immagini
+- **SwiftScan** (ex ScanPro): usato da Filippo, ora in abbonamento a 37,99 €/anno dopo aver cambiato nome e modello commerciale
+- **PDFpen 6**: app con OCR e funzioni avanzate, attualmente in sconto su App Store
+- **Microsoft Lens**: consigliato da Nicola Losito, gratuito, testato anche in contesti scolastici con ottimi risultati; Roberto conferma che funzionava bene anche con sua moglie
+- **Adobe Scan**: consigliato da Sergio, gratuito ma con pacchetti a pagamento che partono da 11 euro e arrivano a 102 euro
+- **Scanner Pro di Readdle**: il più votato nel sondaggio, versione Plus a 19,99 €
 
-Software per l’acquisizione dei documenti:
+Roberto menziona anche **TinyScan Plus** (uno dei primissimi scanner su iPhone, probabilmente ancora gratuito), **Scannable di Evernote** (gratuito, integrato con l'ecosistema Evernote), e due app più particolari per gli architetti: **Home Scan Pro** per scansionare ambienti e **Display Land** per creare nuvole di punti tridimensionali — quest'ultima probabilmente non più disponibile al momento della registrazione.
 
-* [Swiftscan](https://swiftscan.app/en/index.html) (ex ScanPro) che utilizza Filippo ora passato in abbonamento però (37,99 € l'anno)
-* [PDFpen 6](https://pdfpen.com/pdfpen-ios/) attualmente in sconto
-* [Microsoft Lens](https://support.microsoft.com/it-it/office/microsoft-lens-per-ios-fbdca5f4-1b1b-4391-a931-dc1c2582397b) (Nicola )
-* [Adobe Scan](https://apps.apple.com/it/story/id1405448660) (Sergio )
-* [Scanner Pro](https://readdle.com/it/scannerpro) (Paolo ) di Readdle la versione Plus 19,99 €
+### 6. Continuity Camera: iPhone come scanner per il Mac
 
-[Usare la Fotocamera con Continuity su Mac](https://support.apple.com/it-it/HT209037) è possibile usare iPhone ed iPad come scanner del Mac usando la funzione Continuty.
+Apple offre una funzione di integrazione tra dispositivi chiamata **Continuity** che consente di usare la fotocamera di iPhone o iPad direttamente come scanner per il Mac, senza passaggi intermedi. Roberto spiega il concetto di Continuity con un esempio familiare: è la stessa tecnologia che permette di iniziare a leggere un'email sul telefono e riprenderla sul Mac, dove appare automaticamente nel Dock.
 
-*Alcune limitazioni*: funziona con le app di Apple, Mojave ed iOS 12 requisiti minimi + autenticaizone a due fattori WiFi e Bluetooth attivi sia su Mac che dispositivo iOS.
+I requisiti minimi per usare Continuity Camera sono:
+- macOS Mojave e iOS 12
+- Autenticazione a due fattori attivata sull'account Apple
+- Wi-Fi e Bluetooth attivi su entrambi i dispositivi
 
-Possibilità di fare sia foto che scansione documenti.
+La funzione è compatibile solo con le app Apple native. Valerio, un ascoltatore, ha segnalato un'ulteriore possibilità: anche le app dei principali provider cloud consentono di avviare scansioni direttamente dalla loro interfaccia.
 
-SE utilizzate soluzioni Cloud possibilità di fare scansioni anche dalle app dei vari provider (Valerio).
+### 7. Scanner dedicati per il Mac: fascicolatori e duplex
 
-#### Mac + scanner dedicato
+Per chi deve processare grandi volumi di carta, l'iPhone non basta. Andrea e Filippo presentano gli scanner a fascicolatore (o ADF, automatic document feeder): dispositivi in cui si inseriscono i fogli dall'alto e vengono acquisiti automaticamente uno alla volta, con velocità e precisione nettamente superiori a uno smartphone.
 
-Su Mac non è possibile catturare autonomamente ma è necessario acquisire con un scanner.
+Filippo consiglia il suo **ScanSnap iX500 di Fujitsu**, acquistato nel 2014 a 500 euro e ancora perfettamente funzionante. I punti di forza:
+- OCR integrato che riconosce il testo durante la scansione
+- Rimozione automatica delle pagine bianche
+- Capacità di 50 fogli per ciclo
+- Gestione di quasi tutti i formati fino all'A4
+- Possibilità di connessione via Wi-Fi, senza cavo
+- Adatto a formati inusuali come cartoline di notifica e tagliandini postali
 
-NO scanner piano, ma con fascicolatore.
+> "Il 90% delle acquisizioni che faccio sono con lo ScanSnap. Ho la carta sulla scrivania, finisce lì dentro e il flusso di lavoro parte."
+> — Filippo, 00:54:42
 
-Rispetto ad iPhone e iPad scansioni più precise e con più opzioni, inoltre possibilità di scansionare grossa mole di documenti.
+Il secondo scanner consigliato è l'**Epson WorkForce duplex**, suggerito da David Sparks nel suo libro *Paperless* (2012) e nella successiva videoguida aggiornata. La funzione duplex consente di acquisire fronte e retro del foglio in un unico passaggio, poiché lo scanner ha sensori di lettura su entrambi i lati — eliminando il rischio di inceppamenti tipico dei vecchi sistemi che giravano fisicamente il foglio.
 
-Utile per un flusso di lavoro veloce e rapido (e permette di automatizzare – vedremo meglio nella prossima puntata).
+Per chi ha volumi ridotti, Roberto suggerisce una soluzione più economica: qualsiasi **stampante multifunzione con scanner piano** e la funzione Wi-Fi. Aprendo **Acquisizione Immagini** su macOS (con `Cmd + Spazio` e ricerca), è possibile scansionare senza installare software aggiuntivi. Roberto racconta di aver fatto scansionare un documento a sua figlia Bianca da remoto, mentre lui era a letto con un mal di schiena.
 
-* [ScanSnap Fujisu](https://www.scansnapit.com/it/): Filippo nel 2014 ha acquistato lo ScanSnap iX500 (non più in produzione) ma funziona perfettamente, costoso (500 €) ma super flessibile, fa OCR documenti, rimuove pagine bianche, 50 pagine e gestisce quasi tutti i formati dall’A4 in giù.
-* Epson WorkForce duplex: consigliato da David Sparks nella sua ultima Field Guide sul Paperless, costa un po' meno della ScanSnap.
+Il criterio generale per scegliere uno scanner, indipendentemente dal modello, è che abbia l'OCR integrato: riconoscere il testo durante l'acquisizione permette di ricercare il contenuto dei documenti in seguito e di costruire automazioni di archiviazione — tema che i conduttori rimandano alla puntata successiva.
 
-In generale scegliere uno scanner che acquisisca velocemente una mole sufficiente di documenti, gli scanner duplex scansionato ambo i lati del foglio. È anche importante che oltre alla scansione facciano l'OCR del documento (approfondiremo le ragioni nella prossima puntata ma fidatevi).
-
-### 3.2 In digitale
-
-**Quel che nasce digitale deve rimanere tale** (non deve essere stampato, possibilmente).
-
-#### Mac
-
-Stampare in PDF ogni qual volta è possibile. macOS permette in qualsiasi programma che abbia la possibilità di stampare da la possibilità di stampare in PDF.
-
-Come salvare le email ? Faremo puntata dedicata alle email ma tendenzialmente conviene salvare le email come PDF. Sappiate solo che se volete
-
-#### iOS / iPadOS
-
-Anche iOS / iPadOS ma è un po' più complicato … aprire dove è possibile la *sharesheet* (l'opzione di condivisione) tasto stampa aprire l’interfaccia di stampa ed, invece di stampare, fare il gesto di “ingrandisci” (pinch to zoom). Si aprirà il documento da stampare e, a questo punto, utilizzando la *sharesheet* sarà possibile salvare il documento come PDF.
+[^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.

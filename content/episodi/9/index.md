@@ -17,155 +17,103 @@ draft = false
 
 > In questo episodio Andrea, Roberto e Filippo vi parlano di sicurezza delle password e di come utilizzare i programmi di gestione delle password per renderci la vita più semplice!
 
-Potete ascoltare il podcast sia su [Apple Podcast](https://podcasts.apple.com/it/podcast/a2/id1555104264), che su [Spotify](spotify:show:33N9cTw7MHLk58MDt22Cx4) che su [Amazon Music](https://music.amazon.com/podcasts/27f05d96-44fc-42a9-9ef5-a5894c2fa4ce/A2).
+## Note dell’episodio
 
-Trovate tutti gli episodi passati con le relative note ai seguenti indirizzi:
+- [Bloccare o sbloccare le note su iPhone o iPad](https://support.apple.com/it-it/HT205794): guida Apple citata per spiegare perché le note protette possono essere un ripiego, ma non un vero password manager.
+- [Rendere disponibili le password e le passkey su tutti i dispositivi con il portachiavi iCloud](https://support.apple.com/it-it/guide/ipad/ipada39a7fa0/ipados): documentazione Apple su Portachiavi iCloud, sincronizzazione tra dispositivi e protezione delle password.
+- [Utilizzare Password iCloud in Chrome su computer Windows](https://support.apple.com/it-it/guide/icloud/mmfeee20145e/1.0/icloud): pagina Apple citata per il caso d’uso di Password iCloud fuori dall’ecosistema solo Apple.
+- [1Password](https://1password.com): password manager usato da Filippo, discusso per vault cifrati, sincronizzazione, estensioni browser e piani personali/famiglia.
+- [1Password per iPhone e iPad](https://apps.apple.com/it/app/1password-password-manager/id568903335): app iOS/iPadOS citata tra le opzioni multipiattaforma per usare 1Password su dispositivi mobili.
+- [Scarica 1Password per Mac](https://1password.com/downloads/mac/): pagina download richiamata per l’installazione diretta e le opzioni fuori dal solo App Store.
+- [LastPass](https://www.lastpass.com/it/): password manager citato come alternativa multipiattaforma non testata direttamente dai conduttori.
+- [Bitwarden](https://bitwarden.com): password manager open source citato come alternativa a 1Password, anche per chi vuole valutare self-hosting.
+- [Prezzi Bitwarden](https://bitwarden.com/pricing/): pagina prezzi richiamata per distinguere piano gratuito, premium personale e piano famiglia.
+- [KeePassXC](https://keepassxc.org): password manager open source desktop, citato per la gestione locale di database cifrati.
+- [KeePass Password Safe](https://keepass.info): progetto KeePass da cui deriva l’ecosistema compatibile con KeePassXC e app mobili.
+- [Syncthing](https://syncthing.net/): strumento di sincronizzazione citato da Filippo come possibile modo per spostare un database KeePass tra dispositivi senza cloud proprietario.
+- [KeePassium](https://keepassium.com): app iOS per usare database KeePass su iPhone e iPad con funzioni avanzate.
+- [Strongbox](https://strongboxsafe.com/): app iOS e macOS compatibile con KeePass, citata come alternativa per database locali.
+- [Prezzi e funzioni Strongbox](https://strongboxsafe.com/pricing/): pagina richiamata perché nella puntata si distingue tra funzioni gratuite e sblocco biometrico avanzato.
 
-* [a2podcast.it](http://a2podcast.it) e
-* [a2podcast.it/youtube](http://www.a2podcast.it/youtube) per il canale YouTube dove trovate le registrazioni delle nostre dirette.
+## Sinossi[^sinossi-ai]
 
-## il problema delle password
+### 1. Il problema quotidiano: troppe password, spesso troppo deboli
 
-Con lo sviluppo del web e dei servizi correlati l'importanza della password è progressivamente aumentata.
+Roberto, Filippo e Andrea Strozzi aprono la puntata dal problema più comune: ogni servizio digitale richiede credenziali, ma la memoria umana non è fatta per gestire decine o centinaia di password diverse, lunghe e robuste. Roberto ricorda il web degli anni Novanta, quando un indirizzo email poteva avere una password semplice e il rischio percepito era molto più basso. Oggi la situazione è diversa: email, Apple ID, social, account di lavoro, servizi cloud, dispositivi e app producono un numero di accessi che non si può più gestire “a mano” senza errori.
 
-Per la vostra email avete una password, per il vostro AppleID o per facebook, twitter e simili avete una password e così via.
+> "Le password sono un gran bel casino: bisogna crearne di nuove ogni tanto, ricordarsele e soprattutto farle difficili."
+> — Roberto, 00:03:08
 
-In un mondo di non informatici tuttavia si sono sviluppati costumi della “gestione” delle password tremendi.
+Il primo errore discusso è usare password banali. La classifica delle password più usate nel 2020, con esempi come `123456` e `password`, serve a mostrare che molte persone proteggono dati importanti con combinazioni presenti in qualsiasi dizionario di attacco. Roberto allarga il discorso anche ai router domestici: lasciare credenziali predefinite come `admin` e `password` può esporre la rete, soprattutto in condomini, uffici o contesti in cui il Wi-Fi è raggiungibile da più persone.
 
-**Password più usate del 2020** (nel mondo anglofono) che faresti meglio ad evitare:
+Filippo aggiunge il profilo giuridico e pratico: se qualcuno usa la rete di casa per attività illecite, il primo collegamento tecnico porta al titolare della linea. Dimostrare che l’accesso è stato abusivo può essere possibile, ma è comunque un problema serio. La sicurezza della password del router, quindi, non è un dettaglio da smanettoni: riguarda responsabilità, privacy e controllo della propria rete.
 
- 1. 123456
- 2. 123456789
- 3. picture1
- 4. password
- 5. 12345678
- 6. 111111
- 7. 123123
- 8. 12345
- 9. 1234567890
-10. senha
+### 2. Pensare come un attaccante: dizionari, dati personali e riuso
 
-L'altro grosso problema è il **riutulizzo della medesima password**
+Filippo racconta di aver seguito corsi pensati per capire gli strumenti usati dagli hacker. Non entra nel dettaglio operativo, ma usa quell’esperienza per spiegare un metodo: bisogna ragionare dal punto di vista di chi vuole entrare. Una password breve, solo numerica o composta da parole comuni, può essere testata rapidamente con attacchi a forza bruta o con dizionari di password già note.
 
-Provate a dare un'occhiata su iOS in Impostazioni - Password - Suggerimenti di sicurezza e abbiate paura
+> "Bisogna cercare di pensare come un hacker e quindi sapere le cose che un hacker può fare."
+> — Filippo, 00:13:32
 
-### Pensare come un hacker
+I dizionari non sono solo liste generiche in inglese. Possono contenere varianti locali e combinazioni prevedibili: stagioni, anni, nomi, date di nascita, parole italiane comuni, informazioni recuperabili dai social. Per questo Filippo sconsiglia password basate su compleanni, nomi di familiari, figli, coniugi o riferimenti visibili online. In molti casi non serve un attaccante sofisticato: basta qualcuno con poche informazioni personali e strumenti automatici.
 
-Ho frequentato alcuni corsi per hackers (non sono minimamente un hackers ma mi interessava sapere come “pensa” un hackers).
+La puntata richiama anche i suggerimenti di sicurezza di iOS, dove Apple segnala password riutilizzate o compromesse. Il riuso è uno dei problemi centrali: se la stessa password viene usata per email, social, servizi professionali e acquisti online, la compromissione di un sito può aprire la porta a tutti gli altri. La sicurezza non dipende solo dalla forza della singola password, ma anche dalla sua unicità.
 
-Una password con 4-6 cifre può essere scoperta nel giro di minuti. Inoltre se si usano le password più usate esistono dizionari di password da "testare".
+### 3. Come costruire password più robuste senza renderle ingestibili
 
-### Come dovrebbe essere fatta una password?
+La regola base proposta è combinare lunghezza e varietà: lettere maiuscole e minuscole, numeri, simboli speciali e almeno otto caratteri, con l’avvertenza che otto caratteri sono ormai un minimo molto basso. Filippo spiega il problema con un criterio matematico semplice: più caratteri e più tipi di caratteri aumentano le combinazioni possibili, quindi rendono più costoso trovare la password provando tutte le varianti.
 
-* usa numeri e lettere (maiuscole e minuscole) in combinazione
-* inserisce un simbolo speciale
-* rispetta la lunghezza minima di 8 caratteri
-* cambia password regolarmente (almeno ogni 6 mesi / 1 anno) e non usarne una per più account
+La puntata però non si ferma al modello “stringa impossibile da ricordare”. Roberto e Filippo parlano anche di passphrase: frasi o combinazioni di parole che possono risultare più lunghe, più facili da ricordare e più robuste di una password breve piena di simboli. Esempi come “1000 mari blu” o sequenze di parole casuali mostrano una via intermedia: aumentare l’entropia senza costringere l’utente a memorizzare codici impronunciabili.
 
-il problema: **ricordarsi le password è difficile, se non impossibile**
+Il punto pratico è che una password robusta non serve se l’utente la scrive su un foglietto visibile, la riusa ovunque o la comunica male. Roberto cita anche il rischio, visto durante videoconferenze, di post-it con credenziali lasciati alle spalle della persona in video. La sicurezza non è solo tecnica: è fatta anche di abitudini, ambiente di lavoro e attenzione ai dettagli.
 
-#### Un secondo approccio sicuro
+### 4. Autenticazione a due fattori e login social
 
-Le frasi come password: usare al posto di una password alfanumerica di 8 o più cifre una frase (non di senso compiuto) ad esempio: *1000 mari Blu*
+Filippo introduce l’autenticazione a due fattori come livello aggiuntivo rispetto a utente e password. L’OTP, cioè one-time password, è un codice temporaneo generato da un’app o inviato tramite SMS. Se un malintenzionato ottiene la password, deve comunque superare un secondo controllo legato a un dispositivo o a un canale separato.
 
-### Autenticazione a due fattori
+> "L'autenticazione a due fattori non è legata strettamente alla password, ma è un sistema di sicurezza aggiuntivo."
+> — Filippo, 00:27:24
 
-Password più un OTP (one time password - password momentanea che cambia ogni tot secondi). Se il maleintenzionato ha scoperto la vostra password (perché era debole) c'è una seconda difesa del vostro account ovvero il generatore di password “casuali” che, abitualmente, è sul vostro cellulare o su un apposito dispositivo.
+La puntata distingue anche tra soluzioni più e meno solide. L’SMS è comodo, ma passa su un canale meno robusto; un’app di autenticazione sullo smartphone o su un altro dispositivo è preferibile in molti scenari. Filippo cita il caso dei conti correnti e dello SPID per far capire che il secondo fattore è già entrato nella vita quotidiana, anche quando non lo si chiama con il suo nome tecnico.
 
-### Ultime avvertenze
+L’ultima avvertenza riguarda i login con Facebook, Google o servizi simili. Sono comodi, ma concentrano molto potere in un singolo account: se quell’account viene compromesso, l’attaccante può entrare nei servizi collegati. Apple viene citata come caso un po’ diverso, perché “Accedi con Apple” può generare indirizzi email fittizi e limitare la diffusione dell’indirizzo reale, ma il consiglio resta prudente: la comodità dei login federati va valutata insieme al rischio di dipendenza da un unico account.
 
-* non loggarsi con gli account facebook / google o simili su tutti i siti. Nel caso in cui la nostra password di Facebook dovesse venir scoperta, l’hacker potrebbe entrare in tutti i siti da noi frequentati
+### 5. A cosa serve davvero un password manager
 
-## il gestore delle password
+La seconda metà della puntata entra nel tema centrale: il gestore di password. Roberto lo definisce come un software pensato per custodire in modo sicuro le credenziali e rendere più semplice usare password robuste. Il vantaggio non è solo “ricordare al posto nostro”, ma cambiare il modo in cui si lavora con le credenziali.
 
-Un gestore di password è un programma software pensato per custodire in modo sicuro le vostre password e rendervi la vita più semplice con le password.
+Un password manager genera password casuali, le salva in una cassaforte cifrata, le inserisce nei siti tramite estensioni browser o autofill e può sbloccarsi con sistemi biometrici come Face ID e Touch ID. Questo riduce due cattive abitudini: scegliere password facili da ricordare e copiare/incollare password complesse negli appunti di sistema.
 
-Come permette di farlo?
+> "Un gestore di password è un programma software pensato per custodire in modo sicuro le vostre password."
+> — Roberto, 00:33:53
 
-1. Generatore di password sicure
-2. Estensione per i browser per inserire in modo facile la password complessa in un sito internet
-3. Integrazione con i sistemi biometrici (faceID o touchID di Apple as esempio) per sbloccare velocemente il gestore delle password
-4. Sincronizzazione delle password tra differenti dispositivi (PC, smarthphone e tablet) di modo da avere le vostre password sempre a portata di mano.
+Roberto spiega anche la distinzione tra gestione locale e gestione online. Nel modello locale, le password stanno in una cassaforte, cioè un file cifrato protetto da una master password. Quella password principale diventa fondamentale: se si perde, si perde l’accesso a tutto il resto. Nel modello web, il fornitore offre sincronizzazione tra dispositivi e funzioni di condivisione, spesso tramite abbonamento. È più comodo, soprattutto per famiglie e uffici, ma richiede fiducia nel servizio.
 
-### Locale
+### 6. Note protette e Portachiavi iCloud: le soluzioni Apple
 
-Le password vengono custodite in una “cassaforte“ un file cifrato una password (cosiddetta “Master Password ”o password principale) sul vostro computer o dispositivo mobile.
+Filippo parte da un chiarimento: le note protette di Apple possono essere meglio di un foglio di carta lasciato in vista, ma non sono un password manager. Le note cifrate servono a bloccare contenuti privati, non a generare password, compilarle nei siti, controllare riusi, gestire vault o sincronizzare credenziali in modo strutturato. Per questo nella sezione note resta la guida Apple sulle note protette, ma viene presentata come ripiego, non come soluzione consigliata.
 
-A questo punto è possibile sincronizzare in vari modi la “cassaforte” su vari dispositivi.
+Subito dopo si passa a Portachiavi iCloud, che Roberto usa perché è integrato e richiede pochissima manutenzione. Il sistema salva credenziali, le sincronizza tra dispositivi Apple e permette di inserirle con Touch ID o Face ID. Roberto sottolinea il miglioramento delle versioni recenti di macOS e iOS: quando si crea un account, il sistema propone una password robusta, la salva e poi la ripresenta automaticamente al login.
 
-### Web
+La comodità di Portachiavi iCloud è anche il suo limite: funziona molto bene dentro l’ecosistema Apple, meno quando la vita digitale comprende Windows, Android, browser diversi o condivisione avanzata con persone esterne. Filippo ricorda inoltre che l’Apple ID è il cardine dell’intero ecosistema: può bloccare o localizzare dispositivi, accedere a funzioni iCloud e, se configurato, intervenire anche su dischi cifrati. Per questo l’Apple ID deve avere una password forte e l’autenticazione a due fattori attiva.
 
-Negli ultimi anni i gestori di password, per rendere più vantaggioso il loro business, hanno implementato dei sistemi online di gestione e sincronizzazione delle password. Pagando un abbonamento mensile vi offrono uno spazio dove salvare la vostra “cassaforte” e da dove sincronizzare tutti i vostri dispositivi.
+### 7. 1Password: multipiattaforma, vault e costo dell’ecosistema
 
-Con uno spazio online poi è possibile “condividere” delle password tra più utenti (in famiglia così come in ufficio).
+Il software principale discusso è [1Password](https://1password.com), usato da Filippo e presentato come uno dei password manager più noti in ambiente Apple, ma ormai disponibile anche su Windows, Linux, iOS, iPadOS e Android. Filippo ne apprezza la storia, la maturità e la disponibilità multipiattaforma, soprattutto rispetto a chi non vive solo nell’ecosistema Apple.
 
-## I software di gestione delle password
+La puntata distingue tra il modello più vecchio, con vault cifrato sincronizzato tramite cloud esterni o soluzioni locali, e il modello più recente basato sul cloud di 1Password. Filippo preferisce un approccio più conservativo, con controllo maggiore sulla cassaforte, ma riconosce che la sincronizzazione proprietaria rende più semplice condividere password con familiari, collaboratori o altri utenti.
 
-### Note sicure di Apple (non è un password manager)
+> "Ho quasi 600 password salvate in 1Password."
+> — Filippo, 00:50:25
 
-Come si dice in dialetto al nord: **“Piutost che nient l’è mej piutost”** (Piuttosto che niente è meglio piuttosto)
+Questo numero mostra il costo di uscita da un password manager: una volta inserite centinaia di credenziali, migrare richiede tempo, affidabilità dell’importazione e verifica. Filippo cita la possibilità di passare a soluzioni open source, ma riconosce che 1Password funziona bene e che il vero problema non è solo il prezzo dell’abbonamento, ma l’intero flusso di lavoro costruito nel tempo.
 
-* [Link a guida Apple su come proteggere le note](https://support.apple.com/it-it/HT205794)
+### 8. LastPass, Bitwarden, KeePassXC e app compatibili
 
-### Portachiavi iCloud
+Nella parte finale Filippo elenca alternative non testate direttamente in modo approfondito. [LastPass](https://www.lastpass.com/it/) viene citato come password manager multipiattaforma con piano gratuito e premium, estensioni browser e funzioni simili a 1Password. La puntata non entra in una recensione completa, ma lo colloca tra le opzioni note del mercato.
 
-* [Introduzione a Portachiavi e Password iCloud](https://support.apple.com/it-it/guide/icloud/mm65f84b8b06/icloud)
-* [Configurare il portachiavi e password iCloud](https://support.apple.com/it-it/guide/icloud/mmd17774d0a8/1.0/icloud/1.0)
-* [Usare Portachiavi iCloud su iPhone, iPad o iPod touch](https://support.apple.com/it-it/guide/icloud/mm08cb488724/1.0/icloud/1.0)
-* [Usare Portachiavi iCloud su Mac](https://support.apple.com/it-it/guide/icloud/mmcbfbc1f009/1.0/icloud/1.0)
-* [Utilizzare Password iCloud in Chrome su computer Windows](https://support.apple.com/it-it/guide/icloud/mmfeee20145e/1.0/icloud/1.0)
+[Bitwarden](https://bitwarden.com) interessa perché è open source e offre sia un servizio online simile a 1Password sia possibilità più avanzate per chi vuole gestire in proprio l’infrastruttura. Filippo avverte però che il self-hosting richiede competenze e manutenzione: non pagare un servizio può significare assumersi direttamente responsabilità tecniche.
 
-### 1Password
+[KeePassXC](https://keepassxc.org) e [KeePass](https://keepass.info) rappresentano l’approccio opposto al cloud proprietario: un database locale cifrato, sincronizzabile con strumenti scelti dall’utente, per esempio [Syncthing](https://syncthing.net/). La flessibilità è alta, ma su iOS servono app compatibili come [KeePassium](https://keepassium.com) o [Strongbox](https://strongboxsafe.com/), spesso con funzioni avanzate a pagamento. Filippo nota che lo sblocco biometrico con Face ID o Touch ID diventa rapidamente una funzione difficile da abbandonare, perché rende pratico usare password robuste senza tornare ogni volta alla master password.
 
-Quello che usa Filippo ed il più “noto” in ambito Apple. Attualmente presente su Mac, Windows, Linux (sperimentale) iOS / iPadOS ed Android. Quindi multi piattaforma.
-
-[1Password](https://1password.com):
-
-* [Appstore](https://apps.apple.com/it/app/1password-password-manager/id568903335)
-* [macAppStore](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12)
-* [Scaricare 1Password per poi attivare licenza standalone](https://1password.com/downloads/mac/) (vedi dopo)
-
-#### Abbonamento as a service
-
-Le vostre password sono contenute su uno spazio web “sicuro” di 1Password e vengono sincronizzate sui vari dispositivi così.
-
-Abbonamento mensile o annuale (personale 2.99 $ e famiglia, fino a 5 persone, 4.99$ al mese)
-
-#### Licenza una tantum (ormai oscuro ma presente)
-
-È possibile ancora comprare una licenza di 1Passoword per Mac c.d. standalone. L'operazione non è così semplice (vogliono farvi fare l’abbonamento …) ma è possibile farlo da dentro l’applicazione, scaricata dal sito di 1Passowrd o con HomeBrew.
-
-In questo caso se volete sincronizzare più dispositivi dovete avere uno spazio cloud (iCloud, Dropbox o server WLAN). L'ultima opzione è la più sicura ma anche la più scomoda perché le password si sincronizzano sono quando siete nella vostra rete interna (casa / ufficio).
-
-
-### Lastpass (non testata direttamente)
-
-[Lastpass](https://www.lastpass.com/it/), account base gratuito e la versione premium che costa come in modo simile a 1Password. Multi-piattaforma e con estensioni del browser.
-
-Da quanto ha visto Filippo online molti se ne stanno andando via da Lastpass
-
-### Bitwarden (non testata direttamente)
-
-[Bitwarden](https://bitwarden.com): open-source, simile a 1Password (gestione delle cassaforti online) e [multipiattaforma](https://bitwarden.com/download/). Possibilità di self-hosting del software a costo zero (richiede capacità avanzate però).
-
-[Costi](https://bitwarden.com/pricing/): ratutito per uso personale con funzioni limitate, 1$ al mese per persona versione premium e 3,33 $ al mese per famiglia (6 utenti massimo).
-
-### KeepassXC (non testata direttamente)
-
-[KeepassXC](https://keepassxc.org) open-source (software ispezionabile dagli esperti) multipiattaforma (solo su fissi Mac, Windows e Linux) fork di [KeePass](https://keepass.info). Sincronizzazione sul dispositivo (possibilità di sincronizzare come si vuole - *Filippo* pensa di utilizzare nel caso [Syncthing](https://syncthing.net/)).
-
-Difetto su iOS se si vogliono utilizzare app con funzioni avanzate queste sono o in abbonamento o con acquisto relativamente “dispendioso” (intorno ai 50 €).
-
-* [KeePassium](https://keepassium.com)
-* [Strongbox](https://strongboxsafe.com/): [Prezzi e funzioni gratuite](https://strongboxsafe.com/pricing/) (Filippo suggerito ed usato dall’amico *Valerio Vertua*) nella versione gratuita manca lo sblocco con Face ID / Touch ID
-
-
-### Roberto:
-
-[Mac e architettura: mach - dot - net.wordpress.com](https://marchdotnet.wordpress.com/) [Podcast settimanale Snap - architettura imperfetta](https://www.spreaker.com/show/snap-archiettura-imperfetta)
-
-### Filippo:
-
-[Avvocati e Mac punto it](https://www.avvocati-e-mac.it/)
-
-Ci sentiamo la settimana prossima.
+[^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.
