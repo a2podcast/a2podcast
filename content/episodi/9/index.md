@@ -13,7 +13,6 @@ draft = false
 [params]
   hasTranscript = true
   youtubeId = "Mhq2YnKDih8"
-  guest = "andrea-ciraolo"
 +++
 
 > In questo episodio Andrea, Roberto e Filippo vi parlano di sicurezza delle password e di come utilizzare i programmi di gestione delle password per renderci la vita più semplice!

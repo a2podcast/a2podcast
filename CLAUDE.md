@@ -169,17 +169,26 @@ security: restringe img-src nella CSP
 
 ---
 
-## Check di fine attività (suggerire sempre a fine sessione)
+## Regola: workflow obbligatorio ad ogni modifica del sito
 
-Al termine di ogni sessione di lavoro significativa, suggerire proattivamente:
+**Ogni volta** che si apportano modifiche al sito (template, CSS, script, contenuti, config, SEO),
+eseguire SEMPRE questa sequenza completa, senza che l'utente debba chiederlo:
 
-```bash
-hugo --gc --minify   # build senza errori prima del commit finale
-```
+1. **Build pulita** — `hugo --gc --minify` deve completare senza errori.
+2. **Verifica locale** — controllare l'esito reale della modifica sul build in `public/`
+   (es. JSON-LD valido, un solo `<h1>` per pagina, sitemap senza `/tags/`, ecc.). Se la modifica
+   tocca le performance/UI, eseguire Lighthouse via Brave:
+   `export CHROME_PATH="/Applications/Brave Browser.app/Contents/MacOS/Brave Browser"` poi
+   `npx lighthouse <url-locale> --chrome-flags="--headless"`.
+3. **Aggiornare la documentazione** (con il *perché* della modifica, non solo il cosa):
+   - `SEO-ottimizzazione.md` — se modifiche SEO, UI o contenuti
+   - `ARCHITETTURA.md` — se aggiunti/modificati/rimossi file di sistema (template, script, CSS, partial)
+   - `CLAUDE.md` — se cambia un workflow operativo
+4. **Commit + push** di tutti i file modificati inclusi i documenti
+   (`gh auth switch --user a2podcast` se necessario). Vedi "Regole Git".
+5. **Verifica deploy live** — dopo ~1 min, confermare che la modifica sia online su `a2podcast.it`
+   (es. `curl -s https://a2podcast.it/<path> | grep <cosa-cercata>`).
+6. **Promemoria GSC** — se la modifica è SEO/structured-data, ricordare all'utente di usare
+   *Convalida correzione* nei report Google Search Console pertinenti dopo il deploy.
 
-E verificare che siano stati aggiornati:
-- `SEO-ottimizzazione.md` — se sono state fatte modifiche SEO, UI o ai contenuti
-- `ARCHITETTURA.md` — se sono stati aggiunti/modificati/rimossi file di sistema (template, script, CSS)
-- Commit e push di tutti i file modificati inclusi i documenti
-
-**Non aspettare che l'utente lo chieda.** Proporre il check al termine naturale di ogni attività.
+**Non aspettare che l'utente lo chieda.** Questo è il check di fine attività di default.
