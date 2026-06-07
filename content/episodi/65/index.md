@@ -37,12 +37,12 @@ draft = false
 
 Roberto, Filippo e [Lucio Bragagnolo](https://a2podcast.it/ospiti/lucio-bragagnolo/) riprendono la WWDC 2023 lasciando sullo sfondo l’episodio già dedicato a [Apple Vision Pro](https://www.apple.com/apple-vision-pro/). Il follow-up iniziale di Lucio non riguarda tanto il visore in sé, quanto una domanda pratica rimasta aperta: che formato useranno foto e video spaziali? Si potranno convertire contenuti 2D o video 3D prodotti con altre apparecchiature? Le risposte, al momento della registrazione, non sono chiare.
 
-> "Se prendo un video registrato con un'altra apparecchiatura 3D e la passo su Vision Pro posso usarla in 3D come se fosse fatta con Vision Pro e nessuno risponde."
+> "se fosse fatta con Vision Pro e nessuno risponde."
 > — Lucio, 00:02:26
 
 Da qui Lucio porta la conversazione su [Alliance for OpenUSD](https://aousd.org/), iniziativa legata allo standard Universal Scene Description. Il punto non è soltanto tecnico: se strumenti 3D molto diffusi iniziano a scambiarsi scene, materiali e strutture in un formato comune, Vision Pro può inserirsi in una filiera più ampia. Per professionisti 3D, studi di architettura, cinema, realtà aumentata e visualizzazione, l’interoperabilità può contare quanto l’hardware.
 
-> "Se va avanti, se si affina, se si raffina, se fa progressi significativi, diventa una svolta interessante."
+> "se va avanti, se si affina, se si raffina"
 > — Lucio, 00:05:20
 
 Lucio distingue così l’effetto keynote dall’effetto ecosistema: il visore attira l’attenzione, ma il lavoro vero passa anche da formati, strumenti e compatibilità tra applicazioni.
@@ -59,7 +59,7 @@ La parte audio viene toccata come differenza pratica tra macchine: la disposizio
 
 Il blocco su Mac Pro e Mac Studio è più teso, perché tocca le aspettative dei professionisti. Roberto parla di “elefante nella stanza”: Apple porta Apple Silicon sul Mac Pro, ma non apre davvero alla possibilità di usare GPU esterne o schede grafiche tradizionali come molti professionisti 3D avrebbero sperato.
 
-> "C'era un elefante nella stanza che si chiama Vision Pro e però hanno presentato dell'altro hardware."
+> "però hanno presentato dell'altro hardware."
 > — Roberto, 00:12:22
 
 La questione è particolarmente rilevante per architettura, rendering e visualizzazione. Roberto spiega che una parte del suo settore vive di GPU, motori di rendering e potenza grafica dedicata. Apple Silicon, con GPU integrata, mostra risultati molto forti e in alcuni benchmark supera vecchi Mac Pro Intel con schede Radeon, ma il tema resta aperto: chi ha bisogno di schede specifiche, acceleratori, flussi PCI o software ottimizzati per Nvidia e AMD potrebbe non trovare nel nuovo Mac Pro la libertà immaginata.
@@ -115,7 +115,7 @@ Nel finale Filippo segnala l’evoluzione delle passkey: Apple aveva già introd
 
 Lucio chiude il blocco software richiamando [watchOS 10](https://www.apple.com/newsroom/2023/06/watchos-10-brings-redesigned-apps-a-new-smart-stack-additional-watch-faces-new-cycling-and-hiking-features-and-tools-to-support-mental-health/), che considera proporzionalmente uno degli aggiornamenti più significativi della WWDC. Le app ridisegnate sfruttano meglio lo schermo, arrivano nuove logiche di navigazione, più attenzione a salute e benessere e una revisione dell’interfaccia che potrebbe cambiare davvero l’uso quotidiano dell’orologio.
 
-> "Watch OS 10 promette davvero di essere uno degli aggiornamenti più significativi su Watch OS nella sua storia."
+> "uno degli aggiornamenti più significativi su Watch OS nella sua storia."
 > — Lucio, 01:33:32
 
 L’ultimo tema sostanziale è [tvOS 17](https://www.apple.com/newsroom/2023/06/tvos-17-brings-facetime-and-video-conferencing-to-apple-tv-4k/): FaceTime arriva su Apple TV usando l’iPhone come camera. Filippo lo legge come una funzione potenzialmente comoda per chiamate sul televisore, soprattutto ora che le tecnologie di Continuity Camera si spostano anche sul salotto.

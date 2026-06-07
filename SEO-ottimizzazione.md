@@ -216,9 +216,14 @@ della proprietà `a2podcast.it`: 156 pagine indicizzate, 200 no. Cause individua
 - Motivo SEO: completata la bonifica degli episodi storici tecnici 54–58, con contenuti più leggibili e aderenti ai temi ricercabili
   rispetto alle descrizioni automatiche precedenti.
 
+### Controllo finale episodio 65
+- Verificata la sinossi già presente dell'episodio 65, dedicato alla WWDC 2023 con Lucio Bragagnolo.
+- Non rilevati pattern template o titoli-collage; corretti solo i blockquote troppo lunghi che attraversavano più sottotitoli SRT.
+- Motivo SEO/editoriale: mantenere una pagina già valida riducendo il rischio di citazioni non rintracciabili nei controlli automatici.
+
 ### Prossimi batch editoriali
 - Da riscrivere: nessuno tra 54–64 e 66–76.
-- Da verificare/rifinire: 65.
+- Da verificare/rifinire: nessuno tra 54–76.
 
 ---
 
