@@ -18,137 +18,76 @@ draft = false
 > In questa puntata Roberto e Filippo parlano delle novità di macOS 14 Sonoma che è uscito il 26 settembre 2023.
 
 ## Note dell’episodio
-- [Come attivare la modalità gaming in macOS Sonoma](https://www.macitynet.it/come-attivare-la-modalita-gaming-in-macos-sonoma/): versione di macOS discussa per widget, profili Safari, condivisione schermo, gaming e compatibilità.
-- [Informazioni sulla modalità di isolamento](https://support.apple.com/it-it/HT212650): funzione di sicurezza Apple citata per utenti esposti a minacce spyware mirate.
-- [Apple, come funziona la modalità isolamento per proteggersi dagli spyware governativi](https://www.macitynet.it/modalita-isolamento-apple/): funzione di sicurezza Apple citata per utenti esposti a minacce spyware mirate.
-- [Open-core](https://dortania.github.io/OpenCore-Legacy-Patcher/): progetto usato per installare macOS recente su Mac non più supportati ufficialmente.
-- [MacBook Air](https://www.apple.com/it/macbook-air/): portatile Apple discusso per mobilità, prestazioni e passaggio ad Apple Silicon nel lavoro quotidiano.
-- [Pages](https://www.apple.com/it/pages/): word processor Apple discusso per documenti, modelli e impaginazione nel lavoro professionale.
-- [Apple Vision Pro](https://www.apple.com/apple-vision-pro/): visore Apple discusso nelle puntate dedicate a spatial computing e WWDC.
-- [iOS 17](https://www.apple.com/it/ios/ios-17/): versione di iOS discussa per StandBy, Messaggi, tastiera, AirDrop e funzioni quotidiane.
-- [macOS Sonoma](https://www.apple.com/it/macos/sonoma/): versione di macOS discussa per widget, profili Safari, condivisione schermo, gaming e compatibilità.
+- [macOS Sonoma](https://www.apple.com/it/macos/sonoma/): versione di macOS discussa per widget, videochiamate, Game Mode, PDF, privacy e compatibilità.
+- [Game Mode in macOS Sonoma](https://support.apple.com/it-it/105118): funzione citata per dare priorità alle risorse di sistema durante il gioco.
+- [Modalità di isolamento](https://support.apple.com/it-it/105120): funzione di sicurezza Apple discussa per utenti esposti a minacce mirate.
+- [OpenCore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/): progetto citato per installare macOS recente su Mac non più supportati ufficialmente.
+- [Apple Vision Pro](https://www.apple.com/apple-vision-pro/): richiamato come possibile motivo di minore intensità degli aggiornamenti software 2023.
+- [Mac Power Users](https://www.relay.fm/mpu): podcast citato nel passaggio su AirPods, udito e accessibilità.
+- [AirPods Pro](https://www.apple.com/it/airpods-pro/): citati per funzioni di isolamento e miglioramento dell’ascolto in contesti rumorosi.
+- [InfoCert](https://www.infocert.it/): smart card testata da Filippo nel controllo di compatibilità con Sonoma.
+- [OpenSC](https://github.com/OpenSC/OpenSC): componente citato per l’uso di smart card e firma digitale.
 
 ## Sinossi[^sinossi-ai]
 
-### 1. Permessi migliorarti
+### 1. Sonoma come aggiornamento di allineamento
 
-> "Benvenuti all'episodio 69 col numero curioso di A2 in cui scoprire come."
-> — Filippo e Roberto, 00:00:20
-In questa parte Filippo e Roberto seguono il tema “Permessi migliorarti” dentro il quadro dell’episodio su
-macOS Sonoma. I passaggi centrali riguardano punto, vista, apple, hardware. Ma tutto sommato abbiamo visto
-delle grandissime cose dal punto di vista del connubio tra software e hardware. Quindi c'è Apple che si
-affaccia su questa, diciamo, nuova avventura del ray tracing hardware e vedremo se in effetti uno sarà
-all'altezza sarà tra AMD e Nvidia, sarà sotto AMD. Il Mac, sotto questo punto di vista, come sappiamo
-benissimo, non è stato né pensato né costruito per i giochi come abbiamo visto nel corso degli anni. Tuttavia,
-d'altro canto, come si voleva dimostrare, che nonostante sia AMD che sia da anni che fa schede grafiche, il
-suo ray tracing hardware non è ancora a livello del ray tracing hardware di Nvidia. Sono davvero molto curioso
-sotto questo punto di vista. Quindi non ha molto senso il mio punto di vista, perché è
+Filippo e Roberto dedicano l’episodio a macOS 14 Sonoma, uscito il 26 settembre 2023. Filippo lo ha testato su un MacBook Pro 16 Intel del 2019, non ancora sul Mac mini M1. La valutazione iniziale è prudente: alcune funzioni sono carine, ma non c’è nulla che cambi la vita alla maggior parte degli utenti.
 
-### 2. Modalità isolamento
+> "aggiornamento, secondo me, porta alcune cose carine, ma nulla di eclatante"
+> — Filippo Strozzi, 00:02:14
 
-In questa parte Filippo e Roberto seguono il tema “Modalità isolamento” dentro il quadro dell’episodio su
-macOS Sonoma. I passaggi centrali riguardano apple, windows, sistema, quello. E quindi, secondo me, anche in
-questo caso ho paura che Apple debba intervenire in qualche modo per riuscire a portare certi videogiochi da
-Windows, che sono nati in quella situazione, in questa parte. abbastanza al di fuori di quello che può essere
-un gioco all'interno dell'ecosistema Mac. Tutto quello che serve al sistema operativo è ridotto all'osso
-essenzialmente per riuscire a far funzionare un eseguibile in ambiente, diciamo, protetto all'interno del Mac.
-Unity che è stato preso un po' a braccetto da quel che sembra da Apple grazie all'utilizzo di Unity per Vision
-Pro, perciamo lo sviluppo di Vision OS. E quindi immagino dal punto di vista remunerativo che anche sotto
-questo aspetto sia da tenere in considerazione per i giochi che arriveranno probabilmente su Sonoma.
-Sostanzialmente Wine è un interprete per cui le chiamate di sistema che fa il file ex o comunque l'eseguibile
-di Windows, vengono interpretate e convogliate sul sistema ospite MacLinux, perché poi credo che Wine nasca
-come progetto open source per Linux.
+Roberto legge il testo promozionale Apple, centrato su lavoro, gioco, videochiamate e personalizzazione. Il commento è scettico: il Mac storicamente non è la piattaforma principale per giocare, sia per scelte hardware sia per assenza di Nvidia e per un ecosistema software meno maturo rispetto al mondo PC.
 
-### 3. Accessibilità
+### 2. Gaming, Game Mode e porting da Windows
 
-> "2, Giga, nel senso che l'ambiente chiamiamolo protetto, quello che c'è all'interno."
-> — Filippo e Roberto, 00:15:16
-In questa parte Filippo e Roberto seguono il tema “Accessibilità” dentro il quadro dell’episodio su macOS
-Sonoma. I passaggi centrali riguardano windows, comunque, widget, esempio. Adesso, per esempio, il Sonoma
-tutto si ha verso il basso, chiamiamolo così, e invece nella parte alta dello schermo, un po' simile all'iPad,
-hai invece l'orario. Sempre meglio rispetto ai non mi ricordo più quanti giga sia Windows normalmente, ma in
-ogni caso è comunque sempre meglio che utilizzare, ad esempio, VirtualBox che comunque ti portava via, mi se
-non ricordo male, una ventina di giga per tutto il lavoro. Quindi anche, per esempio, una cosa salva schermo
-barra schermata di apertura quando devi entrare in cost con l'utente, mentre prima avevi, diciamo, il cerchio
-con la tua foto o comunque con i vari segnaposto per l'utente con il nome utente e l'inserimento della
-password. Quindi, per esempio, alcune applicazioni che mentre le testo erano, non c'erano ancora le
-applicazioni diciamo, perfezionate per macOS o Noma, le ho potute comunque provare. Diciamo che appunto questo
-è un aggiornamento di allineamento con gli altri sistemi operativi, nel senso che tutta una serie di funzioni
-che già abbiamo visto su iOS all'inizio e poi su iPadOS. Se tu clicchi sulla scrivania e hai delle finestre
-aperte, le finestre fanno un po' come esposi, cioè si nascondono nei vari ai lati al bordo dello schermo.
+La prima parte sostanziale riguarda il gaming. Sonoma introduce Game Mode, pensata per dare priorità a CPU e GPU quando un gioco è in esecuzione. I conduttori discutono anche del porting di giochi Windows su Mac tramite strumenti legati a Wine e al Game Porting Toolkit. Roberto collega il tema a un uso professionale collaterale: far girare su Mac software Windows di nicchia, per esempio programmi catastali o di certificazione energetica.
 
-### 4. Condivisione Schermo
+> "hanno inserito un layer ulteriore di compatibilità"
+> — Filippo Strozzi, 00:11:27
 
-In questa parte Filippo e Roberto seguono il tema “Condivisione Schermo” dentro il quadro dell’episodio su
-macOS Sonoma. I passaggi centrali riguardano interessante, manager, nota, funzione. Una cosa invece molto
-interessante è che credo e dico credo non ci sia solo il padosso, comunque non me la ricordo tra le cose,
-inizia note e finisce in pages. Cioè, tu puoi iniziare a scrivere una nota appunto in note, ma poi
-sostanzialmente esportarla in pages e ovviamente diciamo andare con l'impaginazione vera e propria, che offre
-pages. Un'altra funzione che credo sia molto molto interessante. Sicuramente è molto interessante perché con
-l'aggiornamento che ci sono stati dei sistemi operativi, può cambiare davvero la vita a chi utilizza, ad
-esempio, applicativi come Notion o addirittura altri applicativi di terze parti per editare il PDF. Se io
-clicco o Stage Manager attivato, o le mie quattro finestre sulla sinistra, diciamo, messe lì da parte, o la
-finestra centrale a tutto schermo, diciamo qui davanti a me. Quindi, secondo me, questa può essere una
-funzione interessante.
+Il punto è che Apple Silicon ha eliminato Boot Camp, quindi chi deve usare software Windows ha meno strade. Se i layer di compatibilità migliorano, potrebbero diventare utili non solo per giochi, ma anche per applicazioni professionali non disponibili su macOS.
 
-### 5. Promemoria
+### 3. Widget, desktop e comportamento da Stage Manager
 
-> "All'inizio, proprio non mi sembrava funzionasse niente di queste funzioni, che, da."
-> — Filippo e Roberto, 00:29:40
-In questa parte Filippo e Roberto seguono il tema “Promemoria” dentro il quadro dell’episodio su macOS Sonoma.
-I passaggi centrali riguardano cose, sistema, vista, ovviamente. Quindi chi ha problemi uditivi, ovviamente
-non è tipo ampliphone che è fatta apposta, ma diciamo è comunque un sistema interessante anche perché sono
-dispositivi che costano una bella cifra e poterli utilizzare anche per questo motivo non è affatto male,
-secondo me. Sicuramente Apple farà training anche sugli errori, sulle problematiche nate sui vari dispositivi,
-se dai la possibilità appunto di condividere queste cose con Apple, ovviamente. Quindi, secondo me, sono
-funzioni che probabilmente sono aperte anche agli sviluppatori, ma devono essere in qualche maniera inserite
-dentro il sistema. Quindi queste sono cose che dopo per e probabilmente poi anche qui si svilupperanno meglio
-più avanti quando avranno una base dati, ovviamente essendo machine learning. Quindi per chi ha dei problemi
-di udito, si possono utilizzare questi sistemi anche sul Mac. Proprio perché con dei problemi uditivi
-particolari si riesce questi strumenti, gli AirPod riescono a pulirti sostanzialmente il suono e farti sentire
-cose che abitualmente, per esempio, non so, soprattutto chi ha problemi uditivi.
+Sonoma porta sul Mac molte funzioni già viste su iOS e iPadOS: widget, messaggi con adesivi, password condivise, salvaschermi dinamici e maggiore uniformità grafica. Filippo nota che i widget possono arrivare anche da app iPhone e iPad, purché supportati dagli sviluppatori. Lui però non è un grande utilizzatore della scrivania, perché usa gestori di finestre e tiene raramente libero il desktop.
 
-### 6. Mail
+La funzione che lo spiazza è il click sulla scrivania: anche senza Stage Manager attivo, le finestre si spostano ai lati per mostrare il desktop. Per chi usa Stage Manager ha senso; per chi non lo usa può essere fastidioso, soprattutto se l’opzione da disabilitare non è immediata.
 
-In questa parte Filippo e Roberto seguono il tema “Mail” dentro il quadro dell’episodio su macOS Sonoma. I
-passaggi centrali riguardano sistema, interessante, puoi, prima. Ti faccio una domanda prima di dire le
-compatibilità, come l'hai trovato il sistema? Questo è un bel sistema di gestione del tutto quindi sicuramente
-una funzione molto interessante. Ecco, una cosa che non abbiamo detto, però è interessante, invece, è se ti
-vengono mandati dei codici OTP via mail questi vengono visti dal sistema operativo e quindi ti vengono
-suggeriti nel completamento dell'OTP sul campo esatto. E anche soltanto in una piazza, se riesci a fotografare
-qualcosa, ti dà questa che diventa davvero molto interessante, soprattutto perché è molto curioso, come me, ad
-esempio. Allora, come tutte le beta di quest'anno, devo dire la verità, non è stato fatto un grosso lavoro,
-secondo me, probabilmente anche perché molte risorse di Apple sono ragionate per il Vision Pro e quant'altro.
-per chi vuole un database, ma per chi fa un utilizzo normale e medio, se si utilizza le applicazioni di
-sistema, può tranquillamente andare avanti.
+### 4. PDF in Note e riconoscimento dei contenuti
 
-### 7. Dettatura
+Una funzione concreta è il lavoro sui PDF: riconoscimento dei campi, compilazione assistita con dati dei contatti e possibilità di sfogliare PDF dentro Note. Roberto è interessato perché usa spesso documenti e appunti visuali; Filippo collega il tema a un uso professionale più ampio, dove PDF e annotazioni sono quotidiani.
 
-In questa parte Filippo e Roberto seguono il tema “Dettatura” dentro il quadro dell’episodio su macOS Sonoma.
-I passaggi centrali riguardano problema, sistema, sostanzialmente, operativo. Varie applicazioni che ne
-richiedevano la firma digitale come SLPT o Cassazione.net funzionano perfettamente senza nessun tipo di
-problema. Sostanzialmente simula, fa credere in pratica al sistema operativo che il tuo Mac sia un Mac più
-nuovo di quello che è, detto proprio in termini molto molto semplici. Posso confermare che tutto funziona
-senza alcun tipo di problema, non ho riscontrato sotto la scocca, da quello che ne sapevo, non era stato fatto
-niente, quindi non mi dava nessun tipo di dubbio sul fatto che la compatibilità fosse rimasta. Però diciamo
-che Open Core mi permetterebbe di utilizzare questo Mac senza nessun tipo di problema, senza spesa di un euro.
-Ma devo dire la verità: non ci sono stati nessun tipo di problema. ma ho sempre utilizzato il MacBook Pro
-appunto con Sonoma fino a oggi che l'ho staccato perché tanto a breve lo posso aggiornare, devo dire la
-verità: non ho avuto applicazioni in crush mai e non ho avuto problemi di nessun giorno.
+I conduttori discutono anche del riconoscimento visivo in Foto: l’icona informazioni può trasformarsi in una sorta di riconoscimento dell’oggetto, indicando fiori, razze o modelli di cane, opere d’arte e monumenti. Roberto lo vede come aiuto alla curiosità e alla conoscenza, non come funzione essenziale ma come dettaglio utile.
 
-### 8. Compatibilità
+### 5. Privacy, permessi e modalità di isolamento
 
-In questa parte Filippo e Roberto seguono il tema “Compatibilità” dentro il quadro dell’episodio su macOS
-Sonoma. I passaggi centrali riguardano apple, comunque, sistemi, dove. Quindi, comunque soprattutto se sono
-molto gravi, Apple cerca di, ma l'assistenza vera e propria è degli ultimi due sistemi operativi in quel
-momento specifico, considerati ultimi due sistemi operativi da Apple. Potete trovare l'indirizzo
-marc.net.wordpress.com, dove recentemente tra l'altro ho aggiornato la pagina podcast, dove ho inserito
-ovviamente Snap Architettura Imperfetta, ho messo ovviamente Archicad Talks, ma campeggia anche A2 Podcast.
-Fattibile, è ovvio che più i sistemi si aggiornano, ovviamente tutta una serie di funzioni che sono legate al
-processore ARM, sono comunque esclusa a prescindere. Certo, considerazioni tutte da tenere ben presenti quando
-si parla di sistemi operativi Apple, perché comunque vogliamo dirla tutta. Ricordatevi sempre che, l'altra
-sostanzialmente problematica di Apple. Ma se volete farvi un'idea più precisa, troverete tutti quanti i link
-all'interno delle note dell'episodio oppure andando a visitare l'indirizzo a due podcast.it slash 69 dove ci
-potete trovare di bello.
+Filippo segnala alcune novità lato privacy. Le app possono ottenere accesso limitato a specifiche foto invece che all’intera libreria; possono aggiungere eventi in calendario senza vedere tutti i dati. Sono piccoli miglioramenti, ma importanti perché riducono permessi eccessivi.
+
+> "Migliorati i permessi"
+> — Filippo Strozzi, 00:33:29
+
+La modalità di isolamento viene potenziata. È pensata per utenti ad alto rischio, come attivisti o giornalisti esposti a spyware e minacce mirate. Non riguarda la maggior parte degli utenti A2, ma è interessante perché mostra un macOS capace di sacrificare parte dell’esperienza utente in cambio di maggiore sicurezza.
+
+### 6. Accessibilità, AirPods e voce personale
+
+La sezione accessibilità è tra le più interessanti. Sonoma introduce funzioni come la voce personale per persone con difficoltà di linguaggio, utilizzabile in FaceTime o in conversazioni dal vivo. Inoltre, alcuni dispositivi acustici Made for iPhone possono essere usati anche con il Mac.
+
+Roberto collega il tema agli AirPods Pro e alla possibilità di migliorare l’ascolto in ambienti rumorosi, riprendendo un esempio ascoltato su Mac Power Users. Il punto è che molte funzioni nate come accessibilità diventano utili anche in scenari quotidiani: riunioni, ambienti rumorosi, persone con difficoltà uditive non necessariamente gravi.
+
+### 7. Compatibilità, Mac Intel e OpenCore
+
+La parte finale affronta la compatibilità. Sonoma supporta iMac dal 2019, MacBook Air e Mac mini dal 2018, MacBook Pro dal 2018, Mac Studio dal 2022 e iMac Pro dal 2017. Il problema di Filippo è l’iMac 5K del 2017, che resta fermo ufficialmente a Ventura pur essendo ancora valido come macchina e monitor.
+
+> "Venendo invece alla compatibilità, a questo punto, rullo di tamburi"
+> — Filippo Strozzi, 00:48:47
+
+Filippo cita OpenCore Legacy Patcher come strada non ufficiale per installare sistemi recenti su Mac non supportati. È una possibilità interessante, ma da usare a proprio rischio. In alternativa valuta un Mac mini e l’iMac come schermo o postazione secondaria. La discussione diventa più ampia: chi ha Intel deve ormai pianificare il passaggio ad Apple Silicon in modo consapevole.
+
+### 8. Firma digitale e valutazione finale
+
+Prima di chiudere, Filippo racconta i test professionali: processo telematico, smart card InfoCert, OpenSC, Safari, SLpct e Cassazione.net funzionano senza problemi su Sonoma. Per la piccola fascia di utenti che usa firma digitale e strumenti legali, questa compatibilità è più importante di widget o salvaschermi.
+
+La valutazione finale è chiara: Sonoma è stabile nelle prove di Filippo, ma non obbliga tutti ad aggiornare subito per le funzioni. Ha senso per chi ha Apple Silicon recente, fa molte videochiamate, vuole le novità di continuità o deve restare nel perimetro degli aggiornamenti di sicurezza. Per i Mac Intel, invece, è un segnale ulteriore che la transizione Apple è ormai completata.
 
 [^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.

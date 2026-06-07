@@ -174,8 +174,20 @@ della proprietà `a2podcast.it`: 156 pagine indicizzate, 200 no. Cause individua
 - Motivo SEO: le pagine recenti con ospiti e temi densi ora hanno contenuto editoriale leggibile,
   coerente con trascrizione e titolo, riducendo duplicazione generica e migliorando segnali di qualità.
 
+### Terzo batch corretto: episodi 66–69
+- Riscritte le sezioni `## Note dell’episodio` e `## Sinossi[^sinossi-ai]` di:
+  - episodio 66, speciale estivo su MacBook Air M2, Apple Silicon e standing desk mobile;
+  - episodio 67, introduzione a Podcasting 2.0, Value for Value, Bitcoin e Lightning;
+  - episodio 68, novità iOS 17 e iPadOS 17;
+  - episodio 69, novità macOS Sonoma, compatibilità, privacy, accessibilità e Mac Intel.
+- Rimosse sinossi automatiche con capitoli ripetuti o titoli-collage, sostituite da capitoli
+  cronologici basati sulle trascrizioni.
+- Normalizzate note e link, correggendo formule generiche e risorse imprecise.
+- Motivo SEO: le pagine ora distinguono chiaramente temi, funzioni e contesto operativo,
+  riducendo contenuto template e migliorando la leggibilità sopra la trascrizione integrale.
+
 ### Prossimi batch editoriali
-- Da riscrivere: 54–64 e 66–69.
+- Da riscrivere: 54–64.
 - Da verificare/rifinire: 65.
 
 ---

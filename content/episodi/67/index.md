@@ -18,133 +18,71 @@ draft = false
 > Roberto e Filippo, dopo lo speciale estivo in presenza ma non in diretta, affrontano un approfondimento sul concetto di Value 4 Value e sul suo funzionamento parlando anche delle Cryptomonete, Bitcoin e Lightning.
 
 ## Note dell’episodio
-- [Podcast 2.0](http://adam.curry.com/html/WhatIsPodcasting20-28mcN0CfHFRjZRpkjpSf56jDCkMjTb.html): pagina usata per introdurre podcasting aperto, tag moderni e modello Value 4 Value.
-- [Value4Value](http://value4value.io/): modello di sostegno diretto dei contenuti discusso insieme a Bitcoin e Lightning.
-- [zap](https://nostr.how/zaps): approfondimento collegato a zap, utile per seguire il passaggio della puntata su 67: value4value e crypto.
-- [Nostr](https://nostr.com/): approfondimento collegato a Nostr, utile per seguire il passaggio della puntata su 67: value4value e crypto.
-- [Blockchain](https://it.wikipedia.org/wiki/Blockchain): registro distribuito citato per spiegare il funzionamento tecnico delle criptovalute.
-- [bitcoin](https://it.wikipedia.org/wiki/Bitcoin): criptovaluta usata per spiegare pagamenti digitali, wallet e transazioni senza intermediari.
-- [Monero](https://www.getmonero.org/): criptovaluta citata nel confronto sulla privacy rispetto a Bitcoin.
-- [Lightning](https://it.wikipedia.org/wiki/Lightning_(connettore): pagina enciclopedica usata per inquadrare il concetto citato nella puntata.
+- [Podcasting 2.0](http://adam.curry.com/html/WhatIsPodcasting20-28mcN0CfHFRjZRpkjpSf56jDCkMjTb.html): introduzione al progetto e ai tag moderni usati nel contesto Value for Value.
+- [Value4Value](http://value4value.io/): modello discusso per restituire valore ai podcast senza pubblicità o abbonamenti tradizionali.
+- [Podcast Index](https://podcastindex.org/): infrastruttura aperta collegata all’ecosistema Podcasting 2.0.
+- [Nostr](https://nostr.com/): protocollo citato insieme agli zap e ai sistemi aperti di micropagamento.
+- [Zaps su Nostr](https://nostr.how/zaps): meccanismo di micropagamento richiamato nelle note originali.
+- [Bitcoin](https://bitcoin.org/it/): criptovaluta usata per spiegare wallet, blockchain e trasferimento di valore.
+- [Lightning Network](https://lightning.network/): rete di pagamento citata per microdonazioni rapide e a basso costo.
+- [Monero](https://www.getmonero.org/): criptovaluta citata nel confronto sulla privacy.
+- [Fireside](https://fireside.fm/): piattaforma di hosting podcast citata da Filippo per i costi e le funzionalità di A2.
+- [Castamatic](https://castamatic.com/): app podcast citata come esempio di player con supporto a funzioni Podcasting 2.0.
 
 ## Sinossi[^sinossi-ai]
 
-### 1. L’uomo in mezzo
+### 1. Perché parlare di Value for Value
 
-> "Dall'altro, secondo me, spoiler, non so quanto possa funzionare in Italia, mettiamola."
-> — Filippo e Roberto, 00:01:21
-In questa parte Filippo e Roberto seguono il tema “L’uomo in mezzo” dentro il quadro dell’episodio su
-Value4value e Crypto. I passaggi centrali riguardano ovviamente, modo, cose, tutti. Trovate ovviamente tutti
-quanti i link nelle note dell'episodio. Tra altre cose, seguendo un po' un attimo la scaletta, facciamo una
-piccola premessa perché, come avete sentito, in queste 67 puntate abbiamo toccato bene o male un sacco di
-argomenti. Sì, è un modo anche per contribuire al podcast, perché, come sapete, ha due podcast, come tutti i
-podcast, in ogni caso, hanno un costo. Perché ovviamente tutta la parte, soprattutto delle criptovalute,
-richiede o richiederebbe conoscenze anche matematiche da un certo punto di vista abbastanza complesse. In modo
-tale che anche per le prossime puntate potremo seguire i vostri suggerimenti. E quindi se avete suggerimenti
-per temi di future puntate, ovviamente diteci la vostra, sapete dove trovarci.
+Filippo e Roberto dedicano l’episodio a un futuro possibile del podcast: Podcasting 2.0 e Value for Value. Non è una puntata di annuncio operativo, ma un ragionamento su come i podcast possano ricevere sostegno fuori dai modelli classici di pubblicità, membership e piattaforme chiuse. Filippo chiarisce subito che il tema è complesso e che la spiegazione sarà semplificata, soprattutto nella parte sulle criptovalute.
 
-### 2. Il problema di PayPal Pateon e Co
+> "sarà una puntata introduttiva sul value for value"
+> — Filippo Strozzi, 00:01:07
 
-In questa parte Filippo e Roberto seguono il tema “Il problema di PayPal Pateon e Co” dentro il quadro
-dell’episodio su Value4value e Crypto. I passaggi centrali riguardano appunto, parte, lavoro, tempo. una
-diretta dove appunto registriamo al brucio, come si direbbe, ognuno la sua parte, se non la puntata scorsa,
-dove eravamo presenti entrambi, è stato molto divertente. Facendo anche un altro tipo di lavoro che non è il
-lavoro principale, vuol dire andarsi a prendere alla fine il tempo libero e il tempo libero ha anche un valore
-anche questo. Diciamo che il mondo del podcast sta avendo attualmente è esploso da una parte, e adesso sta la
-bolla, probabilmente americana, sta scemando in parte. Conseguentemente, gli ho dato questo appellativo: i pro
-snapper, che sono stati messi alla fine delle note dell'episodio, appunto per ricordare che comunque c'è gente
-che ci crede nel progetto e ci sta mettendo del suo. È ovvio che però, appunto a due ha dei costi. però,
-ovviamente, creare un podcast che rimanga che vada sul lungo periodo è un piccolo secondo lavoro, chiamiamolo
-in questi termini.
+A2 non nasce come progetto commerciale, ma ha costi: hosting, piattaforma, tempo, strumenti. Il Value for Value viene presentato come possibilità teorica di restituire valore a chi produce contenuti, non solo con denaro, ma anche con idee, suggerimenti, contatti e partecipazione.
 
-### 3. Inoltre siamo in 2
+### 2. Costi del podcast, libertà editoriale e limiti dei modelli esistenti
 
-> "Ma teoricamente se io vado all'estero, quell'euro potenzialmente non vale niente, o."
-> — Filippo e Roberto, 00:22:46
-In questa parte Filippo e Roberto seguono il tema “Inoltre siamo in 2” dentro il quadro dell’episodio su
-Value4value e Crypto. I passaggi centrali riguardano bitcoin, euro, termini, adesso. Vado a memoria, ma
-secondo me il bitcoin adesso vale in euro vale: vale 100.000. Crea una moneta virtuale che, però, valga per
-tutto il mondo a questo punto, e che ovviamente come tutte le monete fluttua, quindi il valore dei bitcoin
-piuttosto che altre criptovalute altalena. Un bitcoin vale 100.000 euro quindi inizia a essere piuttosto
-interessante come cosa. No, no, adesso un bitcoin vale dei soldi, adesso un bitcoin vale proprio dei soldi.
-Recentemente invece il Bitcoin ha avuto degli altri bassi notevoli e c'è gente che investendo in bitcoin ci ha
-perso il lusco il brusco, come si suol dire. Insomma, un bitcoin inizia a essere interessante.
+Filippo spiega che A2 usa Fireside nel piano più basso, ma alcune funzionalità più avanzate, come una migliore gestione degli ospiti, richiederebbero piani più costosi. La questione non è solo economica: se il podcast diventa un lavoro o un prodotto da monetizzare, cambia anche il rapporto con la libertà editoriale. I conduttori vogliono poter decidere temi, ritmo e durata senza dipendere da sponsor o obblighi di pubblicazione.
 
-### 4. La soluzione ipotizzata dal Podcast 2.0
+Il confronto con il mercato americano serve a mostrare un contesto diverso. Alcuni podcast hanno avuto pubblicità, membership e modelli economici strutturati; in Italia la situazione è più piccola e meno monetizzabile. Value for Value prova a rispondere a questa scala ridotta: chi ascolta può restituire qualcosa in modo proporzionato al valore percepito.
 
-In questa parte Filippo e Roberto seguono il tema “La soluzione ipotizzata dal Podcast 2.0” dentro il quadro
-dell’episodio su Value4value e Crypto. I passaggi centrali riguardano blockchain, ovviamente, appunto,
-sistema. Chi chiude per primo la blockchain, diciamo, si genera un bitcoin. Nel caso specifico dei podcast, si
-è deciso di non utilizzare il Bitcoin perché adesso dopo lo vedremo, ci sono tutta una serie di limiti di
-questa criptovaluta, ma di usare il Lightning, che è un milionesimo, un valore minimale, diciamo, del Bitcoin.
-L'idea è appunto comunque della blockchain è quella che per appunto validare questo database, ok, quindi i
-blocchi della blockchain, appunto dal nome, questa catena appunto chain è legata una all'altra, quindi la
-transazione A segue la transazione B è così all'infinito. Attualmente credo che la blockchain attuale sia tra
-un terabyte e due terabyte di dimensioni, perché ovviamente più si va avanti, più il passaggio di denaro va,
-più la blockchain diventa grossa, e ovviamente cosa succede? Ovviamente la sicurezza viene garantita anche da
-un sistema differente, un algoritmo matematico sostanzialmente. Tutte le aziende dicono che hanno la
-blockchain, che hanno l'intelligenza artificiale.
+### 3. Il problema del middleman: PayPal, Patreon e piattaforme
 
-### 5. Niente middle man (o uomo in mezzo)
+Il primo nodo è l’intermediario. Filippo cita PayPal, Patreon e piattaforme di monetizzazione come soggetti che possono prendere commissioni, bloccare pagamenti o imporre regole. Le microdonazioni con strumenti tradizionali spesso non hanno senso: se una persona dona pochi euro, le commissioni possono pesare troppo rispetto al valore trasferito.
 
-> "una remunerazione da questa attività, però, non c'è nessuno che possiede la."
-> — Filippo e Roberto, 00:34:20
-In questa parte Filippo e Roberto seguono il tema “Niente middle man (o uomo in mezzo)” dentro il quadro
-dell’episodio su Value4value e Crypto. I passaggi centrali riguardano bitcoin, ovviamente, appunto, lightning.
-Quindi, se io voglio dare 5 euro in Bitcoin, che non so cosa sia, ma comunque sono poca roba e 0, bitcoin a
-Roberto, è più il tempo che ci metto a fare il passaggio di denaro. Nella sostanza, avendo un nodo Lightning,
-io posso guadagnare o comunque far rendere i miei bitcoin che starebbero lì fermi a non fare niente finché non
-faccio un acquisto di un qualche genere, diciamo. Non c'è la blockchain, non c'è tutto il discorso di avere
-dei computer particolarmente performanti per minare i bitcoin. Quindi, ovviamente, per i piccoli pagamenti, il
-bitcoin, soprattutto adesso che il Bitcoin ha un valore elevato, non è efficace. Il protocollo Lightning è un
-sistema di interscambio di bitcoin più veloce, meno costoso, dove in pratica gli utenti fanno da microbanca.
-Cioè, fatevi conto che comunque come vi dicevo, in America hanno pagato una pizza con un Bitcoin quando valeva
-pochi euro o pochi dollari, e adesso con un bitcoin mi comprate una macchina essenzialmente.
+> "soliti noti, cioè Paypal, Patreon e così via"
+> — Filippo Strozzi, 00:21:25
 
-### 6. MA come funzionano le Crypto?
+Questo non significa che ogni intermediario sia inutile, ma che il modello Value for Value nasce proprio per ridurre l’uomo in mezzo. Nel podcasting, il sogno è permettere all’ascoltatore di mandare valore direttamente al podcast e, se previsto, dividerlo tra conduttori, ospiti o altri partecipanti.
 
-In questa parte Filippo e Roberto seguono il tema “MA come funzionano le Crypto?” dentro il quadro
-dell’episodio su Value4value e Crypto. I passaggi centrali riguardano lightning, appunto, ovviamente, sistema.
-Tutto questo sistema di interscambio che è molto veloce rispetto al Bitcoin, ma ovviamente ha dei costi però
-dei costi decisamente inferiori perché è solitamente lo 0, qualcosa. Tutto questo sistema è interessante
-perché a questo punto gli ascoltatori da una parte possono comunicare direttamente con noi facendo questi
-boost. Puoi inviare il boost con ovviamente parte di Lightning e quanti te ne servono, e soprattutto volendo
-poi anche metterci un messaggio e quindi diventa proprio una donazione molto personale, molto ritagliata e
-verticale sul podcasting. Invece, il discorso appunto di questo sistema, ovviamente è molto interessante, sì,
-e la cosa altra interessante, che adesso ci arriveremo, perché ovviamente, avendo parlato praticamente di
-valute, bisogna anche gestirle in qualche modo. In più applicazioni, per esempio, come quella dello stesso
-Franco, Custamatic, si implementano tutto il sistema, avendo un portafoglio Lightning è possibile, ovviamente
-fare tutto direttamente dall'applicazione. Tra l'altro nel sistema del podcast 2.0, addirittura se andate a
-vedere, adesso c'è una pagina dove appunto c'è un elenco dei podcast in base ai proventi, chiamiamoli così,
-dei boost e quant'altro.
+### 4. Blockchain spiegata come registro, non come magia
 
-### 7. Ne parliamo oggi!
+Prima di arrivare a Bitcoin, Filippo chiarisce la blockchain come registro. Non deve contenere solo transazioni: può teoricamente registrare dati di filiera, certificazioni o altri passaggi. Roberto porta l’esempio del BIM e della tracciabilità in ambito progettuale. Però Filippo nota che, fuori dalle criptovalute, molte aziende usano “blockchain” come parola di moda più che come tecnologia realmente implementata.
 
-In questa parte Filippo e Roberto seguono il tema “Ne parliamo oggi!” dentro il quadro dell’episodio su
-Value4value e Crypto. I passaggi centrali riguardano bitcoin, euro, appunto, criptovalute. Ovviamente, questo
-è il sistema che garantisce maggiore tutela, è ovvio anche che se io ho la chiave, diciamo, che mi dà la
-titolarità a 100.000 euro in bitcoin, e la perdo, ho perso 100.000 euro. Ci sono bloccati là migliaia di
-bitcoin e migliaia di euro o di dollari o quello che è. Quello che io invece suggerisco di più, e quello che
-ad oggi io non ho un euro in criptovalute, ma semmai lo farò, è avere invece il mio portafoglio virtuale, cioè
-su PC o chiavetta. Quindi, da una parte è più sicuro perché non affido a terzi e bitcoin, dall'altra,
-ovviamente rischio di perdere tutti i soldi. Quindi è ovvio come faccio a prendere, come faccio a comprare un
-Bitcoin o un mezzo bitcoin o quello che è. Proprio perché spesso e volentieri i cosiddetti wallet custodial,
-cioè gestiti da terzi, possono sembrare l'alternativa più semplice, ma abitualmente conviene le dovute
-accortezze ovviamente, gestire il bitcoin in maniera diversa.
+Il punto tecnico è l’integrità della catena: ogni blocco è legato al precedente e modificarlo richiederebbe una potenza computazionale enorme, mentre verificarlo è relativamente semplice. È questa asimmetria tra costo di modifica e facilità di verifica che rende interessante il modello, anche se non lo rende automaticamente utile per ogni problema.
 
-### 8. Le crypto valute spiegate semplici
+### 5. Bitcoin, limiti pratici e privacy
 
-In questa parte Filippo e Roberto seguono il tema “Le crypto valute spiegate semplici” dentro il quadro
-dell’episodio su Value4value e Crypto. I passaggi centrali riguardano euro, bitcoin, quello, ovviamente.
-Tant'è vero che appunto la mia idea di fondo è quando è mai se lo farò, comprerò 100-200 euro di Bitcoin.
-Quindi ovviamente il Bitcoin io in Italia non lo riesco a convertire in euro attraverso una banca, mettiamola
-in questi termini. Tuttavia, il discorso è che appunto è proprio quello: segnalo che per controvalori grossi,
-cioè più di 50.000 euro e qualcosa, invece vanno dichiarati nel. Tant'è vero che appunto chi adesso ha dei
-valori è perché l'ha fatto dieci anni fa, investendo cifre ridicole dicendo vabbè, ci provo al massimo sono
-100-200.000 euro, in dipendenza ovviamente dal portafoglio più o meno grande che hai che ho lanciato, è come
-giocare a casino. Faccio una domanda: se io ho il mio simpatico Bitcoin che l'ho comprato, diciamo a 10 euro
-ed è salito a 20.000 euro come più o meno circa adesso, e mi compro un'auto con quel Bitcoin. La verità è che
-l'80-90%, secondo me, di chi gestisce i Bitcoin ce li ha in portafogli custodia, il cosiddetti, cioè gestiti
-da terzi, che se comprati, capito niente, addirittura si fa propria speculazione.
+Filippo presenta Bitcoin come criptovaluta più nota, ma ne sottolinea subito i limiti pratici: valore molto alto, costi e tempi delle transazioni, complessità di gestione e scarsa utilizzabilità quotidiana in Italia. Roberto fa domande da non esperto, aiutando a distinguere valore finanziario, tecnologia e uso reale.
+
+Il tema privacy viene introdotto con Monero, citato come criptovaluta pensata per risolvere problemi che Bitcoin non risolve, perché la blockchain Bitcoin è pubblica. La conversazione non diventa investimento o consulenza finanziaria: è un’introduzione concettuale al fatto che “crypto” è un insieme di tecnologie, rischi e scelte molto diverse.
+
+### 6. Lightning e micropagamenti per i podcast
+
+Lightning entra come possibile soluzione al problema dei microtrasferimenti. Filippo lo descrive come un sistema più rapido ed economico per scambi di valore molto piccoli rispetto alla catena principale di Bitcoin. Nel contesto podcast, questo abilita due meccanismi: boost, cioè messaggi con donazione, e streaming sats, cioè valore inviato mentre si ascolta.
+
+> "Ed entra in gioco il protocollo Lightning."
+> — Filippo Strozzi, 00:41:20
+
+L’esempio è A2: un ascoltatore potrebbe mandare un boost al podcast, e il sistema potrebbe dividerlo automaticamente tra Filippo e Roberto. Oppure potrebbe inviare pochi satoshi per ogni minuto ascoltato. App come Castamatic integrano già parti di questo ecosistema, ma per i conduttori resta un mondo complesso da comprendere prima di adottare.
+
+### 7. Rischi, exchange e custodia
+
+La parte finale si concentra sui rischi. Filippo racconta casi di furti e perdite di Bitcoin, sottolineando che delegare la custodia a un exchange richiede fiducia in soggetti spesso esteri e non sempre solidi. Per cifre piccole può essere sperimentazione; per cifre importanti diventa un problema serio di sicurezza e responsabilità.
+
+> "queste cose che sembrano barzellette in realtà capitano"
+> — Filippo Strozzi, 01:00:06
+
+Il ragionamento resta prudente: se mai Filippo comprasse Bitcoin, lo farebbe per giocare e capire, non come investimento. Inoltre in Italia esistono questioni fiscali da valutare con un professionista. L’episodio si chiude distinguendo l’adozione tecnica del Value for Value, oggi poco sensata per A2, da una forma più ampia già praticabile: ricevere suggerimenti, temi, contatti e contributi dagli ascoltatori.
 
 [^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.
