@@ -205,8 +205,19 @@ della proprietà `a2podcast.it`: 156 pagine indicizzate, 200 no. Cause individua
 - Motivo SEO: il batch conteneva sinossi-collage con contenuti incrociati tra episodi 60 e 61; le pagine ora seguono gli SRT reali
   e riducono il rischio di segnali contraddittori tra testo indicizzabile e trascrizione.
 
+### Sesto batch corretto: episodi 54–58
+- Riscritte le sezioni `## Note dell’episodio` e `## Sinossi[^sinossi-ai]` di:
+  - episodio 54, Freeform con Lucio Bragagnolo, lavagna infinita e collaborazione FaceTime;
+  - episodio 55, launcher macOS, Spotlight, Sherlock, Alfred, Raycast e alternative;
+  - episodio 56, Hazel, regole, cartelle monitorate e archiviazione digitale automatica;
+  - episodio 57, ChatGPT e intelligenza artificiale con Lucio Bragagnolo;
+  - episodio 58, machine learning con Alex Raccuglia, Core ML, Create ML e modelli on-device.
+- Rimosse sinossi-collage e note generiche, sostituendole con capitoli cronologici basati sulle trascrizioni e citazioni verificabili.
+- Motivo SEO: completata la bonifica degli episodi storici tecnici 54–58, con contenuti più leggibili e aderenti ai temi ricercabili
+  rispetto alle descrizioni automatiche precedenti.
+
 ### Prossimi batch editoriali
-- Da riscrivere: 54–58.
+- Da riscrivere: nessuno tra 54–64 e 66–76.
 - Da verificare/rifinire: 65.
 
 ---
