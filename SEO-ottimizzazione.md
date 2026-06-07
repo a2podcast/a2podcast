@@ -186,8 +186,17 @@ della proprietà `a2podcast.it`: 156 pagine indicizzate, 200 no. Cause individua
 - Motivo SEO: le pagine ora distinguono chiaramente temi, funzioni e contesto operativo,
   riducendo contenuto template e migliorando la leggibilità sopra la trascrizione integrale.
 
+### Quarto batch corretto: episodi 63–64
+- Riscritte le sezioni `## Note dell’episodio` e `## Sinossi[^sinossi-ai]` di:
+  - episodio 63, confronto con Lucio Bragagnolo su Apple Vision Pro, spatial computing e visionOS;
+  - episodio 64, guida con Matteo Scandolin su progettazione, registrazione, microfoni, editing e pubblicazione podcast.
+- Normalizzate le note eliminando descrizioni generiche e chiarendo il ruolo di link, app e risorse citate.
+- Le sinossi ora seguono l'ordine reale della conversazione, con citazioni verificabili negli SRT e link alla prima occorrenza dell'ospite.
+- Motivo SEO: due episodi lunghi e con ospiti ora hanno contenuti editoriali coerenti con titolo, trascrizione e intento di ricerca,
+  senza capitoli automatici ripetuti o frasi-template.
+
 ### Prossimi batch editoriali
-- Da riscrivere: 54–64.
+- Da riscrivere: 54–62.
 - Da verificare/rifinire: 65.
 
 ---
