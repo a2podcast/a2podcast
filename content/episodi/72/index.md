@@ -19,98 +19,76 @@ draft = false
 > In questa puntata Roberto e Filippo chiacchierano con Valentina De Poli. Parleremo della sua esperienza corporate e da libera professionista ovviamente in salsa Apple.
 
 ## Note dell’episodio
-- [Pagina Wikipedia di Valentina](https://it.wikipedia.org/wiki/Valentina_De_Poli): pagina enciclopedica usata per inquadrare il concetto citato nella puntata.
-- [Lo spartiacque nella vita professionale di Valentina](https://fumettologica.it/2018/10/valentina-de-poli-topolino/): approfondimento collegato a Lo spartiacque nella vita professionale di Valentina, utile per seguire il passaggio della puntata su 72: lavorando con valentina de poli.
-- [Vita tra i paperi](https://open.spotify.com/show/3u5oV13BbkHkedThv1Xrg8?si=rpXFMnuJRv2Yxdjvprj5gQ): podcast o produzione audio citata nel percorso professionale dell’ospite.
-- [Organizzazione per Negati](https://www.negati.net/): approfondimento collegato a Organizzazione per Negati, utile per seguire il passaggio della puntata su 72: lavorando con valentina de poli.
-- [Andrea Ciraolo](https://www.ciraolo.me/): approfondimento collegato a Andrea Ciraolo, utile per seguire il passaggio della puntata su 72: lavorando con valentina de poli.
-- [Matteo Scandolin](https://scandol.in/): approfondimento collegato a Matteo Scandolin, utile per seguire il passaggio della puntata su 72: lavorando con valentina de poli.
-- [Atlante Sonoro degli Archivi Italiani](https://open.spotify.com/show/27Kimv8s1WpTQ48Hia6NRd?si=n1WSxnmzT6a6N8Ky3HIgUA): podcast o produzione audio citata nel percorso professionale dell’ospite.
-- [INSIEMI, Storie da abitare](https://open.spotify.com/show/5WpFoDHzltaYNMQdYQhjEv?si=4b14c90f8692498b): podcast o produzione audio citata nel percorso professionale dell’ospite.
-- [Sfacciate](https://open.spotify.com/show/1jVna1BN4q2JuG96gOoEVW?si=hd6AizP7Tl2r40W5YD5cdg): podcast o produzione audio citata nel percorso professionale dell’ospite.
-- [Un'educazione paperopolese - Dizionario sentimentale della nostra infanzia](https://amzn.to/45XapkZ): libro citato come riferimento per approfondire il metodo o il tema discusso.
-- [MacBook Air](https://www.apple.com/it/macbook-air/): portatile Apple discusso per mobilità, prestazioni e passaggio ad Apple Silicon nel lavoro quotidiano.
-- [Pages](https://www.apple.com/it/pages/): word processor Apple discusso per documenti, modelli e impaginazione nel lavoro professionale.
-- [Numbers](https://www.apple.com/it/numbers/): foglio di calcolo Apple discusso per tabelle, modelli e gestione visuale dei dati.
+- [Pagina Wikipedia di Valentina De Poli](https://it.wikipedia.org/wiki/Valentina_De_Poli): profilo biografico dell’ospite e del suo percorso professionale.
+- [Intervista a Valentina De Poli su Fumettologica](https://fumettologica.it/2018/10/valentina-de-poli-topolino/): approfondimento sul passaggio professionale legato a Topolino.
+- [Vita tra i paperi](https://open.spotify.com/show/3u5oV13BbkHkedThv1Xrg8?si=rpXFMnuJRv2Yxdjvprj5gQ): podcast citato per il racconto del mondo Disney e dell’esperienza editoriale di Valentina.
+- [Organizzazione per Negati](https://www.negati.net/): podcast e progetto condiviso da Valentina con Matteo Scandolin e Andrea Ciraolo.
+- [Matteo Scandolin](https://scandol.in/): autore e podcaster richiamato nel racconto dei legami professionali e personali dell’ospite.
+- [Andrea Ciraolo](https://www.ciraolo.me/): terzo componente di Organizzazione per Negati, citato nel confronto sui workflow.
+- [Atlante Sonoro degli Archivi Italiani](https://open.spotify.com/show/27Kimv8s1WpTQ48Hia6NRd?si=n1WSxnmzT6a6N8Ky3HIgUA): produzione audio citata tra i lavori podcast dell’ospite.
+- [INSIEMI, Storie da abitare](https://open.spotify.com/show/5WpFoDHzltaYNMQdYQhjEv?si=4b14c90f8692498b): podcast citato tra i progetti curati o seguiti da Valentina.
+- [Sfacciate](https://open.spotify.com/show/1jVna1BN4q2JuG96gOoEVW?si=hd6AizP7Tl2r40W5YD5cdg): produzione audio richiamata nel percorso dell’ospite.
+- [Un’educazione paperopolese](https://amzn.to/45XapkZ): libro citato nelle note della puntata sul rapporto con l’immaginario Disney.
+- [MacBook Air](https://www.apple.com/it/macbook-air/): portatile Apple discusso come possibile scelta per una libera professionista che scrive, registra e lavora in mobilità.
+- [iPad](https://www.apple.com/it/ipad/): dispositivo centrale nel flusso di consultazione, lettura e lavoro leggero di Valentina.
+- [Basecamp](https://basecamp.com/): piattaforma usata da Valentina per organizzare progetti podcast e materiali condivisi.
+- [Sonix](https://sonix.ai/): servizio di trascrizione citato nel flusso di lavoro audio.
+- [Audio Hijack](https://rogueamoeba.com/audiohijack/): app citata nel confronto sugli strumenti di registrazione audio.
 
 ## Sinossi[^sinossi-ai]
 
-### 1. Libro
+### 1. Valentina De Poli, Topolino e una vita professionale nata da lettrice
 
-> "c'è un po' di emozione che sarpeggia all'interno della puntata, perché abbiamo."
-> — Filippo, Roberto e Valentina De Poli, 00:00:42
-In questa parte Filippo e Roberto seguono il tema “Libro” dentro il quadro dell’episodio su Lavorando con
-[Valentina De Poli](https://a2podcast.it/ospiti/valentina-de-poli/). I passaggi centrali riguardano topolino, vita, tutti, sempre. È Topolino, nel senso che il
-mio primo amore, anche se non è quello su cui ho imparato a leggere, perché la lettura la devo a qui storie di
-paperi. No, io sono stato sempre un lettore, chiamiamolo così, casuale, nel senso che Topolino, nella mia
-infanzia, era in casa, credo in tante case mettiamole così, e quindi si leggeva a pezzi e bocconi. Infatti,
-devo dire che anche Mattia, che lo nomino senza dire il cognome oggi, che ha anni 42, quando oggi parlavamo di
-questo tema, fa, ma guarda che io faccio i calcoli e la pensione. Esatto, dagli anni 60 , ci sono state delle
-esperienze, però a poco a poco sono diventate sempre più blande. E quindi ho fatto un po' un percorso
-professionale che anche quando mi sono allontanata da quella redazione, era come se fosse rimasto sempre un
-po' un filo che mi teneva legata. E poi negli anni in cui ho conosciuto io il nostro Topolino, la nostra
-produzione di storie, ormai in America si pubblicava veramente poco.
+Filippo e Roberto accolgono [Valentina De Poli](https://a2podcast.it/ospiti/valentina-de-poli/) con una certa emozione: la conoscono attraverso podcast, amicizie comuni e un percorso professionale che incrocia editoria, comunicazione e tecnologia. Il primo blocco è dedicato a Topolino. Valentina racconta di essere entrata giovanissima in redazione, prima da lettrice appassionata e poi come professionista, fino a diventare direttrice del giornale.
 
-### 2. MacBook Air M2, Apple Silicon e mobilità
+> "Sono diventata direttore del giornale che abbiamo citato quindi direttore di Topolino."
+> — Valentina De Poli, 00:05:47
 
-In questa parte Filippo e Roberto seguono il tema “MacBook Air M2, Apple Silicon e mobilità” dentro il quadro
-dell’episodio su Lavorando con Valentina De Poli. I passaggi centrali riguardano quando, quello, quella,
-invece. No, quando si è imprenditori di se stessi ecco meglio, ecco, quella roba lì devo ancora impararla
-bene. di, quando devo accedere ai narcassa, che è la casa nazionale ingegneri e architetti, ti mettono sulla
-sinistra quanti anni ti mancano la pensione. Sì, è vero, sono convinta ancora di questa cosa, io sono più
-libera, però devo dire che quel sentimento lì l'ho vissuto in maniera così forte perché in realtà nel momento
-in cui è capitato che quando mi hanno licenziato, io non stavo bene dove lavoravo. Se sia quello il problema,
-invece il buon Ciraolo invece se la cava bene perché lui usa Windows e quindi è già sul pezzo. Se quella cosa
-lì fosse capitata anche solo cinque anni prima, probabilmente avrei fatto fatica a ridare la mia macchina non
-l'avrei vista come un ricatto, avrei detto mi state togliendo una delle cose più belle della mia vita. Per il
-resto, in realtà, e quindi di conseguenza la sicurezza economica, nonché benefit, nonché la mutua, nonché
-tutto quello, le ferie pagate, la malattia pagata, i buoni per andare a mangiare, ecco, quella cosa lì erano
-sicuramente un pro.
+La conversazione chiarisce quanto il fumetto Disney italiano sia stato un oggetto culturale condiviso: Roberto ricorda Topolino come presenza domestica, Filippo e Valentina discutono della differenza tra Paperino e Topolino, della perfezione del topo e della maggiore umanità dei paperi. Valentina porta il punto di vista di chi stava dietro la produzione: accademia, artisti italiani, storie prodotte anche per l’estero, personaggi riportati “con i piedi per terra”.
 
-### 3. MacBook Air M2, Apple Silicon e mobilità
+### 2. Dal lavoro dipendente alla libera professione
 
-> "No, l'ho fatta diventare un lavoro perché poi nell'agenzia di comunicazione dove."
-> — Filippo, Roberto e Valentina De Poli, 00:40:31
-In questa parte Filippo e Roberto seguono il tema “MacBook Air M2, Apple Silicon e mobilità” dentro il quadro
-dell’episodio su Lavorando con Valentina De Poli. I passaggi centrali riguardano inglese, sempre, quello,
-adesso. Per esempio, sull'organizzazione pernegati ha sempre il foglio e la penna in mano e ce l'aveva anche
-adesso. Io, per esempio, la sera quando mi corico a letto, non posso mettermi a leggere in inglese perché mi
-richiede troppa concentrazione, il mio cervello è completamente brasato la sera. Infatti, per esempio, io ho
-sempre leggiucchiato appunto, compravo fumetti americani in lingua originale quando ero giovine, come si suol
-dire. È semplicemente, guarda, quello è semplicissimo adesso. Sì, quando ho fatto i podcast di archivissima,
-per esempio, per raccontare alcune esperienze di archivi istituzionali, archivi italiani. No, sottotitoli in
-inglese, io su tante produzioni ancora adesso si lamentava.
+Il passaggio successivo è il cambio di vita professionale. Roberto lo collega alla propria esperienza: da dipendente a libero professionista, da struttura protetta a responsabilità personale. Valentina descrive la transizione come una zona oscura in cui non si finisce mai di imparare. Da dipendente aveva una cornice, strumenti forniti e responsabilità chiare; da libera professionista deve ricostruire identità, rete, metodo e sostenibilità economica.
 
-### 4. MacBook Air M2, Apple Silicon e mobilità
+Uno dei passaggi più concreti riguarda pensione, contributi e percezione di essere “punita” dal cambio di status. Valentina racconta la difficoltà di pensare a una prospettiva di lungo periodo mentre si affronta la necessità quotidiana di aggiornarsi. Nel campo della comunicazione, spiega, non si può rifiutare il cambiamento: tecnologie, pratiche e strumenti si trasformano, e chi lavora da solo deve restare abbastanza flessibile da non essere tagliato fuori.
 
-In questa parte Filippo e Roberto seguono il tema “MacBook Air M2, Apple Silicon e mobilità” dentro il quadro
-dell’episodio su Lavorando con Valentina De Poli. I passaggi centrali riguardano adesso, quando, l'ipad,
-comunque. Per cui poi sono passata a uno schermo grande, quindi quando sono sulla scrivania di lavoro io
-guardo in grande e invece tutta l'attività di consultazione, quindi non di videoscrittura, la faccio quasi
-esclusivamente sull'iPad. Comunque, tornando invece a Valentina, volevo chiederti: ad esempio, attualmente,
-come lo usi l'iPad nel tuo flusso di lavoro? Ma no, ma tu consideri che io lavoro anche con delle persone che
-non sto scherzando, quando vogliono trasferire dei documenti, loro usano le chiavette, e magari abbiamo due
-computer che prendono l'air por lo sanno neanche che esiste, non sanno neanche che tecnologia sia. Ma invece
-un'altra domanda per te e volevo chiederti: come computer abbiamo detto che abbiamo un bel book care, e volevo
-chiederti: adesso dovresti andare a comprare qualcosa, cosa faresti da libera professionista? Vabbè, comunque
-finché dura, adesso inizia a perdere un po' i colpi. Tuttavia per dare la spalla a Vale, allora tu consideri
-che io lavoro abitualmente, poi ovviamente quando sono in mobilità non posso.
+### 3. La responsabilità sugli altri e il sollievo di lavorare per sé
 
-### 5. Batteria, alimentazione e lavoro lontano dalla scrivania
+Quando Roberto chiede quale sia la parte migliore della partita IVA, Valentina risponde in modo netto: non dover più sopportare un contorno umano tossico. Non parla solo di superiori o colleghi, ma della responsabilità emotiva verso altre persone. Da direttrice, in anni complessi e con un settore editoriale in crisi, il peso delle decisioni, dell’ansia e della tutela del gruppo era diventato logorante.
 
-> "Ma lo riesce anche a attaccare all'iPhone, questo o l'iPad, sì, esatto,."
-> — Filippo, Roberto e Valentina De Poli, 01:27:52
-In questa parte Filippo e Roberto seguono il tema “Batteria, alimentazione e lavoro lontano dalla scrivania”
-dentro il quadro dell’episodio su Lavorando con Valentina De Poli. I passaggi centrali riguardano tutto,
-quello, tutti, dove. Invece, adesso, purtroppo per alcuni lavori devo collaborarci, ho sempre un paio di utree
-che perdo a fine giornata, quando devo lavorare con Pages e anche Numbers. Sì, quei due secchioni che la fanno
-facile, per loro è semplice, nel senso, ormai sono arrivati, hanno fatto tutto, invece, c'è gente che sta
-rancando ancora adesso e non è così semplice fare tutto quanto, quello che riescano a fare loro, ma questo è
-un altro discorso. Io con l'iPad riesco a fare tutto e non riesco a capire perché devo avere un tastiera e un
-mouse quando col tablet faccio tutto quello che voglio. Tutto in Pages non è male, come cosa, anche perché un
-libro è un libro, come si suol dire? Con lui, per esempio, forse potrei usare Pages, ma poi alla fine mi
-diventa una complicazione perché poi se gli stessi testi li devo passare a chi lavora con me. Tutto non
-invidio Filippo, che invece lui utilizza tutto un altro metodo per l'editing dell'audio che usa l'iPad per
-fare l'editing audio.
+> "la responsabilità per altri"
+> — Valentina De Poli, 00:32:59
+
+La libertà professionale porta un’altra ansia, quella economica e organizzativa, ma toglie un peso specifico: la responsabilità per altri. Questo passaggio è utile perché sposta il discorso dal semplice “essere autonomi” alla qualità della vita mentale. Valentina non idealizza la libera professione: dice di dover ancora imparare a essere imprenditrice di se stessa, a vendersi e a gestire la parte commerciale, ma riconosce che il nuovo assetto le consente di proteggersi da dinamiche che prima la facevano dormire male.
+
+### 4. MacBook Air, strumenti Apple e lavoro reale
+
+La parte tecnologica comincia con il MacBook Air. Valentina usa un modello Intel con ventola, segno di una macchina non recentissima. Filippo e Roberto la interrogano su cosa sceglierebbe oggi: lei pensa a un portatile con schermo più grande e più respiro, perché scrivere a lungo su un display piccolo ha avuto conseguenze su postura, vista e schiena. Roberto suggerisce il MacBook Air da 15 pollici come soluzione plausibile per chi scrive, registra podcast e non ha più bisogno quotidiano di strumenti pesanti come InDesign.
+
+Il confronto è concreto: una volta il datore di lavoro forniva macchine performanti e software professionali; oggi Valentina seleziona ciò che serve davvero. Per documenti e scrittura, la potenza estrema non è il criterio principale. Contano schermo, affidabilità, leggerezza, durata e semplicità. Apple entra non come oggetto di culto, ma come ecosistema abbastanza intuitivo da ridurre attrito a una persona che lavora con testi, audio, comunicazione e molti progetti.
+
+### 5. iPad come dispositivo trasversale
+
+L’iPad è il dispositivo a cui Valentina sembra più affezionata. Lo usa per consultazione, rassegna stampa, emergenze, lettura, videochiamate e lavoro leggero. Racconta di averlo avuto presto, anche in relazione all’app interattiva di Topolino, e di averlo portato con sé come primo device davvero sempre presente. Lo smartphone serve soprattutto alle comunicazioni, spesso su WhatsApp per ragioni di lavoro; l’iPad diventa invece uno spazio più ampio e più ordinato.
+
+> "L'iPad invece è un degno sostituto del MacBook"
+> — Valentina De Poli, 01:02:24
+
+Filippo e Roberto discutono di iPadOS, dei limiti professionali del tablet e della sua forza in mobilità. Per chi scrive, consulta, partecipa a riunioni e vuole un dispositivo meno ingombrante del portatile, l’iPad resta un “muletto” affidabile. Valentina lo descrive anche come un modo per sembrare più ordinata: non mostra le 102 cartelle aperte del Mac, ma un ambiente più contenuto.
+
+### 6. Scrittura, collaborazione e attrito degli strumenti
+
+La conversazione tocca Pages, Word, Excel, Drive e gli strumenti Apple. Filippo e Roberto riconoscono che gli strumenti preferiti funzionano finché non bisogna collaborare con altri. A quel punto Word, Excel e Drive entrano nel flusso perché sono lo standard del contesto, anche se creano attrito visivo e operativo. Valentina si riconosce in questa tensione: l’intuitività è fondamentale, ma il lavoro conto terzi impone compromessi.
+
+Roberto porta anche l’esempio della figlia, abituata all’iPad e poco interessata al computer perché tastiera e mouse le sembrano complicazioni. Il passaggio apre una riflessione generazionale: per chi è cresciuto con computer tradizionali, il tablet è un’estensione; per chi parte dal tablet, il computer può sembrare un dispositivo più difficile del necessario. Questo tema si collega bene alla posizione di Valentina: scegliere lo strumento non per status, ma per il tipo di gesto che rende più naturale.
+
+### 7. Podcast, organizzazione e strumenti audio
+
+Nell’ultima parte Roberto chiede a Valentina cosa usi per fare podcast. La risposta è pratica: microfono Rode, cuffie, registrazioni locali quando servono, QuickTime nella puntata con A2, Audio Hijack in alcuni contesti, e soprattutto strumenti organizzativi. Per gli scambi tecnici e i passaggi con Matteo usa Mixup; per condividere progetti e materiali usa Basecamp, che difende perché intuitivo e simile alla logica Apple: trascinare, mettere dentro, vedere le cose in modo semplice.
+
+> "Basecamp perché è il più intuitivo di tutti"
+> — Valentina De Poli, 01:23:48
+
+Per le trascrizioni cita Sonix, servizio a pagamento con cui si trova meglio dopo varie prove. Il racconto mostra un workflow da non tecnica che però lavora con strumenti tecnici ogni giorno: non le interessa il controllo assoluto sul montaggio, ma sapere dove stanno materiali, raccordi, file sonori, testi e comunicazioni. La puntata si chiude sui progetti attivi, sul profilo Instagram e LinkedIn, e sul ruolo di Valentina come voce e mente dietro progetti podcast personali e conto terzi.
 
 [^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.

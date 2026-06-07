@@ -160,8 +160,22 @@ della proprietà `a2podcast.it`: 156 pagine indicizzate, 200 no. Cause individua
 - Motivo SEO: pagine episodio più affidabili e dense riducono contenuto generico/duplicativo e
   migliorano la qualità indicizzabile oltre alla trascrizione integrale.
 
+### Secondo batch corretto: episodi 70–74
+- Riscritte le sezioni `## Note dell’episodio` e `## Sinossi[^sinossi-ai]` di:
+  - episodio 70, intervista a Claudia Mongini su esport, security e workflow;
+  - episodio 71, approfondimento con Giuseppe Pugliese su Windows, Bitcoin, Lightning e privacy;
+  - episodio 72, intervista a Valentina De Poli su Topolino, libera professione, iPad e podcast;
+  - episodio 73, redux sul Personal Knowledge Management, secondo cervello, CODE e PARA;
+  - episodio 74, flusso di lavoro di Andrea Ciraolo tra Windows, AI, Stream Deck, Calendar e Todoist.
+- Rimosse sinossi-collage con titoli automatici e frasi-template (`In questa parte...`,
+  `I passaggi centrali...`) sostituendole con capitoli cronologici basati sugli SRT.
+- Normalizzate le note: descrizioni specifiche dei link, rimozione di formule generiche e aggiunta
+  di risorse rilevanti emerse dalla conversazione.
+- Motivo SEO: le pagine recenti con ospiti e temi densi ora hanno contenuto editoriale leggibile,
+  coerente con trascrizione e titolo, riducendo duplicazione generica e migliorando segnali di qualità.
+
 ### Prossimi batch editoriali
-- Da riscrivere: 54–64 e 66–74.
+- Da riscrivere: 54–64 e 66–69.
 - Da verificare/rifinire: 65.
 
 ---

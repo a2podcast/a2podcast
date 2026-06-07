@@ -19,91 +19,71 @@ draft = false
 > In questa puntata Roberto e Filippo chiacchierano con Giuseppe Pugliese @MagnetarMan per fare un approfondimento su quanto già detto nella puntata 67.
 
 ## Note dell’episodio
-- [ChatGPT](https://chat.openai.com/): assistente conversazionale usato come riferimento pratico per discutere IA generativa e interfacce in linguaggio naturale.
-- [OpenAI](https://openai.com/): azienda citata nel contesto di ChatGPT, GPT-4 e modelli generativi.
-- [Bitcoin](https://it.wikipedia.org/wiki/Bitcoin): criptovaluta usata per spiegare pagamenti digitali, wallet e transazioni senza intermediari.
-- [Blockchain](https://it.wikipedia.org/wiki/Blockchain): registro distribuito citato per spiegare il funzionamento tecnico delle criptovalute.
+- [Episodio 67 di A2](https://a2podcast.it/67/): puntata richiamata come origine del confronto su criptovalute e value for value.
+- [PowerToys](https://learn.microsoft.com/it-it/windows/powertoys/): suite Microsoft open source citata da Giuseppe tra gli strumenti utili su Windows.
+- [Windows Package Manager](https://learn.microsoft.com/it-it/windows/package-manager/winget/): `winget`, il gestore pacchetti usato per installare e configurare rapidamente applicazioni Windows.
+- [Bitcoin](https://bitcoin.org/it/): sito ufficiale del protocollo Bitcoin discusso da Giuseppe.
+- [Bitcoin Core](https://bitcoincore.org/): client citato nel passaggio sui nodi, sulla validazione della blockchain e sul principio “don’t trust, verify”.
+- [Lightning Network](https://lightning.network/): rete di pagamento di secondo livello citata per spiegare transazioni Bitcoin rapide e a basso costo.
+- [Mempool](https://mempool.space/): esploratore citato per osservare transazioni, blocchi e stato della rete Bitcoin.
+- [CoinGecko](https://www.coingecko.com/): portale menzionato per capitalizzazione e andamento delle criptovalute.
+- [ChatGPT](https://chat.openai.com/): riferimento usato nel confronto su Copilot, OpenAI e interfacce in linguaggio naturale.
+- [MorroLinux](https://www.youtube.com/@MorroLinux): canale citato nel passaggio su privacy, account bloccati e controllo delle piattaforme.
 
 ## Sinossi[^sinossi-ai]
 
-### 1. MacBook Air M2, Apple Silicon e mobilità
+### 1. Un utente Windows in un podcast Apple
 
-> "Benvenuti all'episodio 71 di A2 Podcast in cui scoprire come ottenere il."
-> — Filippo, Roberto e Giuseppe Pugliese, 00:00:19
-In questa parte Filippo e Roberto seguono il tema “MacBook Air M2, Apple Silicon e mobilità” dentro il quadro
-dell’episodio su Crypto e Privacy con [Giuseppe Pugliese](https://a2podcast.it/ospiti/giuseppe-pugliese/). I passaggi centrali riguardano windows, sistema,
-computer, apple. Ne parlano tutti bene: che è molto stabile, funziona bene, vedo anche con mia moglie, anche
-lei a memoria, anch'io non mi ricordo quando è che gli ho installato l'ultimo sistema operativo Windows, e
-quindi è una cosa molto buona. Io quando lavoro con Windows, cioè, in questo momento c'è mia moglie che lavora
-con Windows e delle volte metto le mani sul suo sistema operativo, e francamente, mi trovo in difficoltà
-perché è cambiato molto da come l'ho visto. Infatti dico, se sei una persona che non ha conoscenze del
-computer, buttati su perché ti compri un bel MacBook here, soprattutto ora da quando è passato alla tecnologia
-ARM. È una doppia difficoltà, moglie Windows: hai messo assieme tutto. Un esempio stupido, Windows, è vero,
-c'è il blotter, c'è il problema. Ti dico solo che tra chi gli ha montato il computer che è un caso, il fatto
-che gli hanno installato male Windows, perché io basta che ho dovuto controllare le RAM.
+L’episodio nasce come seguito della puntata 67 su criptovalute e value for value. Filippo e Roberto invitano [Giuseppe Pugliese](https://a2podcast.it/ospiti/giuseppe-pugliese/) perché, dopo un dialogo nato attorno a quella puntata, emerge che sull’argomento ha molto più da dire dei conduttori. La premessa è volutamente “straniera” per A2: Giuseppe oggi è soprattutto utente Windows, anche se ha avuto un passato Mac tra il MacBook Pro 17 del 2009 e il periodo di OS X El Capitan.
 
-### 2. Windows Bitcoin Sistema
+La sua uscita dal mondo Apple è legata a esperienze negative con guasti hardware e garanzia. Da lì passa a Windows e racconta un ecosistema molto diverso da quello ricordato da molti utenti Mac: strumenti open su GitHub, PowerToys, script di configurazione, installazioni automatizzate, `winget` e utility per ripulire o riparare sistemi. Roberto riconosce che la sua immagine di Windows è ferma a 95, 98 e XP, mentre oggi la piattaforma è più stabile, più duratura e meno fragile di quanto molti ricordino.
 
-In questa parte Filippo e Roberto seguono il tema “Windows Bitcoin Sistema” dentro il quadro dell’episodio su
-Crypto e Privacy con Giuseppe Pugliese. I passaggi centrali riguardano windows, bitcoin, sistema, protocollo.
-Sì, sostanzialmente sì, anche perché è una tecnologia che, appunto, come dicevamo, tecnologie nuove, quindi
-AI, chat GPT, Bitcoin sono tutte tecnologie nuove che noi dobbiamo in tutti i sensi imparare a conoscere bene.
-Tutti i bitcoiner dicono che le altre monete sono shit coin perché è vero sostanzialmente, perché col fatto,
-capitalizzano quattro soldi. Quindi, tutto il resto, Ethereum, qualsiasi shit coin che vedete su Exchange o
-qualsiasi altro, Bitcoin, non l'avevo sentito, eh, ragazzi! Perché col fatto che come tecnologia, o meglio,
-come protocollo, perché io ancora vado a sottolineare una grossa differenza, Bitcoin viene visto come una
-tecnologia, non è una tecnologia, è un protocollo. Per cui la prima differenza è che Bitcoin è un protocollo.
-Il nostro grandissimo Giuseppe, invece ci ha dato qualche dritta, qualche dritta che, se non ricordo male, è
-partito appunto dal Bitcoin.
+### 2. Windows moderno, tool tecnici e il nodo delle vecchie dipendenze
 
-### 3. Bitcoin Lightning Protocollo
+Giuseppe difende Windows non come sistema perfetto, ma come ambiente molto lavorabile per chi sa usare gli strumenti giusti. Racconta installazioni automatizzate, script personali, tool come quello di Chris Titus Tech, e pacchetti che riducono ore di manutenzione a pochi passaggi. Il vantaggio è la possibilità di intervenire in profondità quando il sistema si sporca o si rompe.
 
-> "di essere risolte appunto con l'aggiornamento del protocollo, proprio perché c'è un."
-> — Filippo, Roberto e Giuseppe Pugliese, 00:40:46
-In questa parte Filippo e Roberto seguono il tema “Bitcoin Lightning Protocollo” dentro il quadro
-dell’episodio su Crypto e Privacy con Giuseppe Pugliese. I passaggi centrali riguardano bitcoin, lightning,
-protocollo, blockchain. È un problema gravissimo perché a livello proprio di mentalità del protocollo, è stato
-fatto che tu per gestire un nodo Bitcoin, quindi per avere la blockchain scaricata, per operare sul network,
-devi avere un hardware che sia economico. Quando tu installi da capo un nodo Bitcoin, visto che il motto,
-appunto di Bitcoin è don't trust verify, cioè, nel senso che tu stesso devi verificare che le cose siano
-realmente così, il nodo si va a scaricare e a validare da capo tutta la blockchain da capo. Una volta che voi
-avete fatto la transazione in uscita, questa va a finire in quelli che vengono chiamati i nodi Lightning, che
-sono sostanzialmente la rappresentazione alla Bitcoin maniera di quello che è il protocollo Bit Toro, cioè
-quello che utilizzate per scaricare i file. Quindi, io hai il nodo full bitcoin e quindi tieni scaricata la
-blockchain in memoria, si aggiorna attraverso gli altri nodi e te la valida da capo e te la tieni scaricata.
-Bitcoin Core si scarica la blockchain, la valida, poi tu dici guarda, senti, io non ce la faccio, cioè ho poco
-spazio, sono povero, mantieniti più 40 giga, 50 giga della blockchain, in modo che io possa tranquillamente
-tornare indietro. Proprio perché il protocollo non è definitivo, tu puoi decidere anche se dire guarda, io
-visto che magari sono, che vi devo dire, una persona molto conosciuta, molto famosa, lavoro con Bitcoin e
-lavoro molto con Lightning e ho aperti canali con centinaia di migliaia di persone.
+Al tempo stesso non nasconde il problema strutturale: Windows porta con sé decenni di dipendenze, retrocompatibilità e componenti vecchi. Questa eredità è un punto di forza per aziende e software legacy, ma anche un limite enorme. Il confronto con macOS diventa quindi meno ideologico: Apple offre un sistema più chiuso e coerente, Windows un sistema più aperto agli interventi e più esposto al peso della sua storia.
 
-### 4. Batteria, alimentazione e lavoro lontano dalla scrivania
+### 3. Copilot e l’intelligenza artificiale dentro il sistema operativo
 
-In questa parte Filippo e Roberto seguono il tema “Batteria, alimentazione e lavoro lontano dalla scrivania”
-dentro il quadro dell’episodio su Crypto e Privacy con Giuseppe Pugliese. I passaggi centrali riguardano
-bitcoin, quello, soldi, appunto. È quello un software, ci metti due secondi a fare un aggiornamento del
-software e di tant'è vero, un'altra cosa che a me non piace di Ethereum, che è una moneta speculare a Bitcoin,
-è molto utilizzata, ma ha preso un'altra strada, che Bitcoin è valore. Perché dopo FTX e dopo tanto quello che
-tenere il bitcoin là sopra è come se tu ti stessi affidando la banca, ma che non è una banca. Ed è quello che
-mi volevo appunto riallacciare prima: comprare bitcoin, niente exchange, per favore, diciamo come Binance,
-eccetera. Perché pure una cosa, appunto fondamentale è come detenere il bitcoin. Perché molti pensano che
-quando comprano bitcoin hanno il classico soldino che arriva nel sabatanaio. Ma con bitcoin e il fatto che
-appunto tu sei pseudonimo.
+La discussione passa a Copilot. Giuseppe lo presenta come l’integrazione del modello di OpenAI dentro l’ambiente Microsoft: non un assistente laterale, ma un’interfaccia che dovrebbe aiutare l’utente a configurare finestre, impostazioni e attività usando il linguaggio naturale. Filippo chiede subito se “chiama casa”, cioè quali siano le implicazioni di privacy e API. Giuseppe ammette che molte parti sono ancora tra beta e incertezza, ma vede l’integrazione come inevitabile.
 
-### 5. Batteria, alimentazione e lavoro lontano dalla scrivania
+Il punto pratico è che AI, ChatGPT, Copilot e strumenti simili non sono più curiosità: chi lavora nel web, nella comunicazione o nella progettazione dovrà capirli. Giuseppe li collega alle tecnologie che bisogna studiare prima che diventino obbligatorie; Roberto vede una continuità con l’uso professionale degli strumenti digitali, dove ignorare un passaggio tecnologico può significare trovarsi fuori mercato.
 
-> "L'esempio della pandemia è veramente calzante perché io, francamente, a memoria d'uomo,."
-> — Filippo, Roberto e Giuseppe Pugliese, 01:23:22
-In questa parte Filippo e Roberto seguono il tema “Batteria, alimentazione e lavoro lontano dalla scrivania”
-dentro il quadro dell’episodio su Crypto e Privacy con Giuseppe Pugliese. I passaggi centrali riguardano
-tutto, quello, cose, caso. Loro avevano la copia uno a uno di tutto quello che transitava in entrata e in
-uscita, tutti i livelli di qualsiasi cosa da chi andava nel bagno a fare quello che doveva fare, alla signora
-delle pulizie delle società più capitalizzate e che avevano più dati sul pianeta te. Hanno tolto il prisma
-perché ovviamente il caso Snowden aveva fatto esplodere tutta questa situazione. Tutto quello che poteva
-andare storto, è andato storto. Tempo zero senza far nulla, un segnale uno a uno di tutto quello che Gafam in
-entrata in uscita. Sottoscrivo e confermo tutto quanto, anche perché c'è una cosa che dico sempre, che deve
-entrarvi in testa: va tutto bene finché siamo in tempi di pace, siamo in democrazia, tutto quello che volete.
-Se poi voi dite che è andato tutto bene, due solo cose, come li ci sfotto io, o siete dipendenti statali e non
-ve ne frego un cazzo del resto del mondo, o probabilmente siete tarati.
+### 4. Bitcoin non come investimento, ma come protocollo
+
+Il cuore della puntata è Bitcoin. Giuseppe insiste su una distinzione: Bitcoin non va trattato prima di tutto come tecnologia o asset speculativo, ma come protocollo. Lo paragona a USB-C: un insieme di regole condivise che permette a dispositivi e soggetti diversi di comunicare. Bitcoin nasce per superare alcuni limiti del sistema monetario contemporaneo, dove la maggior parte del denaro è già virtuale, gestita da banche e soggetti centrali.
+
+> "Bitcoin è un protocollo, è nato come un protocollo e ha lo"
+> — Giuseppe Pugliese, 00:30:27
+
+Giuseppe spiega il tetto dei 21 milioni di Bitcoin, la volatilità legata a una massa monetaria ancora ridotta, la possibile entrata di ETF e grandi fondi, l’halving e il modo in cui nuova liquidità potrebbe cambiare il mercato. Filippo e Roberto lo riportano più volte dal piano finanziario a quello tecnico e pratico, ma il ragionamento resta chiaro: per Giuseppe Bitcoin è rilevante perché introduce scarsità, verificabilità e trasferimento di valore senza un intermediario centrale.
+
+### 5. Nodi, Lightning e “don’t trust, verify”
+
+La parte tecnica entra nel funzionamento dei nodi. Giuseppe spiega che un nodo Bitcoin scarica e valida la blockchain perché il principio non è fidarsi di qualcuno, ma verificare. Anche chi non conserva tutta la catena può usare modalità ridotte, ma l’idea rimane: il sistema è costruito per permettere ai partecipanti di controllare le regole.
+
+> "appunto di Bitcoin è don't trust verify"
+> — Giuseppe Pugliese, 00:46:25
+
+Lightning viene presentato come un livello ulteriore, utile per pagamenti più rapidi e meno costosi. Giuseppe lo avvicina, nella spiegazione, a un sistema distribuito di canali e nodi, e lo contrappone alla lentezza o ai costi della catena principale. La discussione tocca anche l’attacco del 51%: teoricamente possibile, ma economicamente e politicamente poco sensato su una rete abbastanza capitalizzata, perché un attacco distruggerebbe proprio il valore che l’attaccante vorrebbe controllare.
+
+### 6. Exchange, wallet e responsabilità personale
+
+Quando si arriva alla custodia, Giuseppe diventa netto: comprare Bitcoin e lasciarlo su un exchange significa affidarsi a un soggetto privato che non è una banca e può fallire, bloccare o perdere fondi. Cita Binance e FTX come esempi del rischio di confondere comodità e controllo. Il punto tecnico è semplice: chi non possiede le chiavi private non controlla davvero i propri Bitcoin.
+
+> "exchange, per favore, diciamo come Binance"
+> — Giuseppe Pugliese, 01:03:14
+
+Filippo, da avvocato, porta il discorso su legalità, responsabilità e strumenti istituzionali. Giuseppe risponde con una visione libertaria: ciò che è legale cambia nel tempo e nello spazio, mentre il controllo del proprio denaro è una forma di autonomia. Il passaggio non è privo di tensioni, ma chiarisce il nesso tra crypto e privacy: la tecnologia può dare più libertà solo se l’utente capisce davvero cosa sta facendo.
+
+### 7. Privacy, piattaforme e “non ho niente da nascondere”
+
+La chiusura sostanziale si concentra sulla privacy. Giuseppe parla di Google, Meta, account bloccati, scansione dei contenuti e casi in cui una foto inviata per ragioni mediche può essere interpretata da sistemi automatici in modo devastante. Il problema non è solo la sicurezza informatica, ma l’asimmetria di potere tra utenti e piattaforme.
+
+> "non ho niente da nascondere"
+> — Giuseppe Pugliese, 01:20:16
+
+Filippo smonta la frase “non ho niente da nascondere” con un esempio: oggi una cosa è irrilevante, domani un cambio politico o sociale può renderla pericolosa. La pandemia viene richiamata come caso estremo in cui eventi considerati impossibili sono diventati reali. La puntata si chiude quindi su un invito alla competenza: non delegare tutto a banche, piattaforme, cloud o app; capire gli strumenti, scegliere dove mettere dati e denaro, e accettare che libertà digitale e responsabilità personale viaggiano insieme.
 
 [^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.

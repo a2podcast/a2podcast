@@ -19,92 +19,81 @@ draft = false
 > In questa puntata Roberto e Filippo hanno l’onore di ospitare Andrea Ciraolo e parlare con lui del suo flusso di lavoro, della sua esperienza non riuscita con Apple ed altro ancora.
 
 ## Note dell’episodio
-- [Organizzazione per negati](https://www.negati.net): approfondimento collegato a Organizzazione per negati, utile per seguire il passaggio della puntata su 74: flusso di lavoro con andrea ciraolo.
-- [Todoist](https://todoist.com/it): task manager usato da Andrea Ciraolo nel suo flusso di lavoro per attività e progetti.
-- [StreamDeck](https://www.elgato.com/us/en/s/welcome-to-stream-deck): controller hardware Elgato citato per automatizzare azioni, scene e comandi.
-- [Full immersion su iPhone](https://support.apple.com/it-it/guide/iphone/iphd6288a67f/ios): funzione Apple per ridurre interruzioni e configurare modalità di concentrazione.
-- [Obsidian](https://obsidian.md/): app di note e PKM citata nel confronto sugli strumenti per gestire conoscenza e collegamenti.
+- [Andrea Ciraolo](https://a2podcast.it/ospiti/andrea-ciraolo/): pagina ospite A2 con il profilo di Andrea e i collegamenti ai suoi progetti.
+- [Organizzazione per Negati](https://www.negati.net): podcast citato come legame tra Andrea, Matteo Scandolin e Valentina De Poli.
+- [Todoist](https://todoist.com/it): task manager usato da Andrea per inbox, lavoro, scadenze e task condivisi.
+- [Stream Deck](https://www.elgato.com/us/en/s/welcome-to-stream-deck): controller Elgato citato per ridurre frizione nei comandi quotidiani e nelle comunicazioni.
+- [OBS Studio](https://obsproject.com/): software di registrazione e streaming discusso nel confronto tra Mac, Windows e creazione video.
+- [Ecamm Live](https://www.ecamm.com/mac/ecammlive/): alternativa citata da Roberto nel contesto delle dirette e dei webinar su Mac.
+- [ChatGPT](https://chat.openai.com/): riferimento nella discussione sull’uso dell’intelligenza artificiale come supporto creativo e operativo.
+- [DALL·E](https://openai.com/dall-e/): strumento citato da Roberto per generare immagini e stimoli progettuali.
+- [Midjourney](https://www.midjourney.com/): servizio di generazione immagini citato nel confronto sulla progettazione e sul brainstorming visuale.
+- [Autodesk Revit](https://www.autodesk.com/it/products/revit/overview): software BIM citato da Roberto nel passaggio sui plugin e sull’analisi di progetti precedenti.
+- [Calendly](https://calendly.com/): servizio usato da Andrea per far prenotare appuntamenti sulla base del calendario.
 
 ## Sinossi[^sinossi-ai]
 
-### 1. Windows Apple Punto
+### 1. L’arrivo di Andrea e la polemica sull’ordine degli inviti
 
-> "Sono d'accordo, difatti, nel mio caso, diciamo, la differenza l'ho sentita appunto."
-> — Filippo, Roberto e Andrea Ciraolo, 00:12:04
-In questa parte Filippo e Roberto seguono il tema “Windows Apple Punto” dentro il quadro dell’episodio su
-Flusso di lavoro con [Andrea Ciraolo](https://a2podcast.it/ospiti/andrea-ciraolo/). I passaggi centrali riguardano windows, apple, punto, appunto. E quindi
-mi sembrava molto carino sentire il tuo punto di vista, che appunto ha visto i due mondi e riuscire un po' a
-confrontarci e a parlare di questo tuo trascorso, da quello che ci ha detto Matteo, abbastanza negativo.
-Comunque, al di là di quello, la cosa interessante è che, appunto, non sapevamo di questo trascorso con il
-mondo Apple. Allora, questo io non lo sapevo, ma appunto, io ho detto: ma Andrea ha fatto tantissime cose, ma
-lavora solo con Windows. Sono d'accordo, difatti, nel mio caso, diciamo, la differenza l'ho sentita appunto da
-Windows a Mac, nel senso che è quella che hai sentito tu, la stessa diretta, solo che per me era importante
-riuscire a utilizzare questo sistema operativo. Raccontaci un po' appunto, perché hai provato Apple, quali
-sono i motivi per cui non ti sei trovato, perché poi questo è il risultato finale. La questione è: appunto,
-tendenzialmente, qua in due podcast, passano persone che utilizzano Apple nel loro lavoro.
+Filippo e Roberto aprono l’episodio completando idealmente il trittico di Organizzazione per Negati: dopo Matteo Scandolin e Valentina De Poli arriva [Andrea Ciraolo](https://a2podcast.it/ospiti/andrea-ciraolo/). Andrea entra subito con una polemica scherzosa: è stato invitato dopo i colleghi e vuole sapere perché A2 abbia preferito prima loro. La battuta serve a introdurre il rapporto tra i tre e il modo in cui Andrea viene percepito: creator, podcaster, formatore, persona molto organizzata ma anche ironica sul proprio ruolo.
 
-### 2. MacBook Air M2, Apple Silicon e mobilità
+Roberto ricorda la prima puntata del podcast di Andrea, aperta con l’ammissione di non essere capace a fare podcast. È un dettaglio utile perché mostra il tema della puntata: il workflow non nasce perfetto, ma si costruisce per tentativi, frizioni, strumenti scelti e abitudini personali. Prima di entrare nel metodo, però, i conduttori vogliono affrontare il suo rapporto con Apple.
 
-In questa parte Filippo e Roberto seguono il tema “MacBook Air M2, Apple Silicon e mobilità” dentro il quadro
-dell’episodio su Flusso di lavoro con Andrea Ciraolo. I passaggi centrali riguardano windows, quello,
-computer, bias. Ma quello che volevo definire io, perché secondo me fai tantissimo, ed è difficile riuscire a
-metterti dentro un cappello, volevo sapere da te a questo punto che lavoro fai, mettiti tu un cappello e
-spiegaci come usi il tuo computer Windows nel tuo lavoro, partendo dal lavoro. Tu fai conto che a un certo
-punto con comunque connessione buona e tutto il resto, adesso ti potrei anche mandare il link a uno di queste
-di queste cose, c'era proprio la desincronizzazione audio video, proprio perché il computer non riusciva a
-gestirlo. Però riconosco obiettivamente che il Windows di adesso non è paragonabile a quello dell'epoca, ma
-sicuramente è decisamente molto più stabile. Però dietro a questi acceleratori e questa intelligenza
-artificiale, in realtà si potrebbero nascondere un sacco di bias cognitivi che non sono impliciti di chi
-magari programma, perché magari ce li ha e non lo sa. Perché poi figurati, se io apro adesso qualsiasi forum,
-troverò sicuramente OBS non funziona sul Mac, OBS non funziona su Windows, OBS non funziona su Linux,
-ovviamente, al dirci questo software non funziona su questa piattaforma. No, vuol dire che quando noi
-valutiamo queste cose, siamo sempre guidati dai nostri bias.
+### 2. Windows, Mac e il problema dei bias
 
-### 3. Quello Artificiale Cose
+Andrea racconta di aver avuto un’esperienza non felice con il Mac e di lavorare oggi soprattutto su Windows, pur usando con soddisfazione anche dispositivi Apple. Roberto spiega il percorso opposto: attratto dall’interfaccia del Mac già ai tempi di Windows XP, poi convinto dalla stabilità e dal minor bisogno di smanettare. Il confronto diventa interessante quando Andrea sposta l’attenzione dai sistemi operativi ai bias degli utenti.
 
-> "faccio è ancora, diciamo, molto superiore all'utilità che mi può dare l'intelligenza."
-> — Filippo, Roberto e Andrea Ciraolo, 00:29:01
-In questa parte Filippo e Roberto seguono il tema “Quello Artificiale Cose” dentro il quadro dell’episodio su
-Flusso di lavoro con Andrea Ciraolo. I passaggi centrali riguardano quello, artificiale, cose, tutto. E una
-cosa che è carina, per esempio, del mio workflow rispetto a questo aspetto è che io utilizzo moltissimo uno
-Stream Deck, che è un tastierino con dei pulsanti programmabili sostanzialmente. È cavoli, lì cambierà la mia
-vita senza dubbio farò uno switch, perché a quel punto sarà molto più semplice fare determinate cose che oggi
-di fatto sono tutto purché intelligenti. Si tratta in realtà di una progettazione generativa, quella su cui si
-sta nascendo, nel senso che lui genera delle soluzioni all'inizio, ma poi è sempre l'interesse umano che
-modifica e trasforma quello che viene dato. Perché una volta che sono entrato con Chrome Navigazione in
-incognito, sono entrato in quei due o tre account che mi servivano e ho fatto tutto quello che devo fare. Ok,
-perché ad esempio, nel mio caso, faccio un esempio pratico: l'utilizzo dell'intelligenza artificiale, in
-effetti, accelera una fase che tendenzialmente nel workflow lavorativo, nel mio caso di architetto, era
-veramente una perdita di tempo, anche se era necessaria. Nel senso che tutta la parte di immagini, nel lavoro
-che faccio, nelle cose che faccio tutti i giorni, sono meno rilevanti.
+> "C’è un atteggiamento del tutto religioso e ricco di bias."
+> — Andrea Ciraolo, 00:12:27
 
-### 4. Cose Devo Quello
+Secondo Andrea, molti utenti Mac confrontano il Mac di oggi con Windows XP, non con Windows attuale. Allo stesso modo, chi passa da un ambiente conosciuto a uno nuovo può scambiare spaesamento per difetto oggettivo. La domanda giusta non è “qual è il sistema migliore”, ma se in un certo momento valga la pena pagare il costo cognitivo di cambiare abitudini.
 
-In questa parte Filippo e Roberto seguono il tema “Cose Devo Quello” dentro il quadro dell’episodio su Flusso
-di lavoro con Andrea Ciraolo. I passaggi centrali riguardano cose, devo, quello, stream. Infatti, lo stream
-deck appunto, io anche io prenderei quello enorme se devo prenderlo. Quando non hai lo stream deck, ti senti
-rallentato? Però poi appunto è un oggetto che non porti in giro, o se lo porti in giro è rischiosissimo
-romperlo, secondo me, e comunque non è che poi tiro fuori il portatile e lo stream deck e tutto il resto. Nel
-caso del portatile, addirittura a volte succede, anche se sporadicamente, che la mia mano sinistra vada a
-cercare uno stream deck che non c'è, a volte. Ma questo non vale solo per lo stream deck per me, ma vale
-proprio PC fisso verso PC portatile. Cioè, più è piccolo il dispositivo che sto usando, e meno funzioni ha,
-diciamo, fisiche, il mouse, la tastiera meccanica, lo stream deck, lo schermo da 34 pollici, quello che è, più
-i due schermi di supporto.
+### 3. OBS, streaming e generalizzazioni nate dall’esperienza personale
 
-### 5. Cose Lavoro Solo
+Roberto porta un caso concreto: su Mac Intel ha avuto problemi con OBS durante webinar e dirette, mentre su altre macchine l’esperienza è stata migliore. Andrea usa l’esempio per mostrare come nasce una generalizzazione: da “la mia esperienza con OBS Studio è stata negativa” a “OBS Studio non funziona bene sul Mac”. Non esclude che ci siano ottimizzazioni diverse tra piattaforme, ma chiede di distinguere il dato tecnico dal bias di conferma.
 
-> "in un'unica schermata: che sono l'inbox, dove butto dentro le cose man."
-> — Filippo, Roberto e Andrea Ciraolo, 01:01:13
-In questa parte Filippo e Roberto seguono il tema “Cose Lavoro Solo” dentro il quadro dell’episodio su Flusso
-di lavoro con Andrea Ciraolo. I passaggi centrali riguardano cose, lavoro, solo, faccio. Dopo ho la categoria
-che io definisco lavoro, che si chiama proprio lavoro, dove sostanzialmente non faccio altro che spostare da
-sopra sotto le cose che devo fare. In Twist ci scrivo le cose che devo fare e poi le faccio. E l'ultima cosa
-che faccio è a volte mettere delle scadenze, nel senso che se una cosa non la devo fare adesso, la metto con
-una scadenza nel futuro e con un filtro la tolgo dalla visualizzazione. Tuttavia, quindi struttura molto
-semplice, snella, per esempio, io come lo uso ormai da tempo, diciamo, anch'io ho preferito un approccio
-snello, prima ero adesso non so se conosci, ma Omnifocus è il super mega sistema del mondo Apple per la
-gestione dell'attività da fare. Perché la giustizia italiana è veloce, mettiamoli in questi termini, e quindi
-devo ricordarmi cose nel futuro non prossimo, ma lontano. Perché fare certi video che a volte devo fare per il
-mio lavoro, a volte rischio di essere molto noioso.
+> "mia esperienza con OBS Studio è stata negativa"
+> — Andrea Ciraolo, 00:23:55
+
+La discussione resta pratica. Roberto cita Ecamm Live come alternativa pensata per Mac, ma non giustificata economicamente per il suo uso. Andrea, che ha studiato OBS e la creazione video, ragiona sul contesto: gamer, streaming, piattaforme, hardware, codifica audio-video e carico della macchina. Il blocco serve a chiarire che un workflow professionale non dipende solo dall’app, ma da hardware, ottimizzazione, competenze e tipo di produzione.
+
+### 4. Intelligenza artificiale tra creatività e operatività
+
+La puntata passa poi all’intelligenza artificiale. Roberto parla di DALL·E, Midjourney e strumenti generativi come acceleratori di brainstorming visuale per architettura e progettazione. Non li descrive come sostituti dell’architetto: generano ipotesi, spunti e immagini da rielaborare con giudizio umano. Cita anche plugin legati a Revit capaci di confrontare progetti precedenti e proporre soluzioni simili.
+
+Andrea distingue il proprio uso: per lui oggi l’AI testuale è più interessante di quella visuale, ma il vero salto arriverà quando sarà operativa. ChatGPT è utile per creatività, brainstorming e incipit; Siri o Alexa realmente intelligenti cambierebbero invece la gestione quotidiana delle azioni. Filippo aggiunge una cautela: se un sistema usa i progetti precedenti per proporre soluzioni, bisogna chiedersi cosa faccia con quei dati e quanto dell’elaborazione resti davvero nostro.
+
+### 5. Un workflow cloud-first e comunicazioni sotto controllo
+
+Andrea descrive un modo di lavorare molto indipendente dalla singola macchina. Racconta un episodio: arriva a un evento con la custodia ma senza computer, una collega gli presta un Mac, entra in Chrome in incognito, accede agli account necessari e lavora comunque. Questo è possibile perché molti strumenti sono web e perché il suo flusso non dipende da un setup locale pesante.
+
+La parte più interessante riguarda gli input comunicativi. Andrea preferisce che le comunicazioni legate al lavoro passino dalla mail, mentre chat e messaggistica restano più personali. Toglie notifiche, separa canali e usa uno Stream Deck per aprire Telegram, WhatsApp, mail e poi chiuderli tutti con un tasto. Il suo obiettivo è leggere e rispondere, poi tornare al task senza lasciare finestre e notifiche aperte.
+
+> "io utilizzo moltissimo uno Stream Deck"
+> — Andrea Ciraolo, 00:42:18
+
+### 6. Scrivania, portatile e frizione fisica
+
+Roberto è incuriosito dallo Stream Deck ma teme di diventare dipendente da un accessorio non disponibile in mobilità. Andrea conferma che il rischio è reale: per lui fisso, portatile e telefono non sono semplicemente tre computer di dimensioni diverse, ma dispositivi con frizioni diverse. Più piccolo è il dispositivo, meno supporti fisici ha, più cose deve tenere in testa.
+
+Questo passaggio spiega perché Andrea sia molto scrivania-oriented. Mouse, tastiera meccanica, schermo grande, monitor di supporto e Stream Deck riducono carico cognitivo e motorio. Quando passa al portatile può persino capitare che la mano cerchi un tasto dello Stream Deck che non c’è. L’idea non è collezionare gadget, ma costruire un ambiente in cui le azioni frequenti costano meno energia.
+
+### 7. Gmail, Calendar, Todoist e la RAM del cervello
+
+Alla domanda sui tre strumenti indispensabili, Andrea risponde: Gmail, Google Calendar e Todoist. Gmail gestisce comunicazioni, Calendar appuntamenti e disponibilità, Todoist attività. Calendar è anche integrato con Calendly, così clienti e persone seguite possono prenotare slot autonomamente. Il time blocking entra soprattutto per proteggere momenti non prenotabili, come la palestra, più che come tecnica rigida di produttività.
+
+> "di scaricare la RAM del cervello"
+> — Andrea Ciraolo, 00:52:14
+
+Todoist è il punto più ricco. Andrea ha provato GTD, agile e vari metodi, ma da lavoratore singolo ha ridotto tutto a poche categorie: inbox per catturare, lavoro per le cose da fare, una sezione condivisa con collaboratrici, e scadenze future nascoste finché non servono. Se la lista supera la pagina e deve scrollare, per lui è un segnale che qualcosa non va: deve fare, delegare o cancellare.
+
+### 8. Creator, consulenze e supporto delle collaboratrici
+
+Filippo chiede di spiegare cosa faccia Andrea oltre al canale YouTube. Andrea chiarisce che il canale è un magnete di opportunità: porta consulenze, corsi, channel check, sponsorizzazioni, monetizzazione YouTube e progetti formativi. Fare video e fare consulenza richiedono competenze diverse, ma entrambe le attività hanno bisogno di creatività.
+
+> "specie di chat GPT on steroids"
+> — Andrea Ciraolo, 00:56:08
+
+Andrea parla anche delle collaboratrici, in particolare Francesca e Deborah. Alcune attività non richiedono la sua creatività diretta o non sono quelle che ama fare; altre richiedono una forma di responsabilizzazione. Con Francesca registra video che da solo rimanderebbe, perché il rispetto per il suo tempo lo obbliga a trovare energia. L’ultimo blocco sostanziale della puntata è quindi il lavoro con altre persone: anche chi lavora da solo può progettare un sistema in cui responsabilità, supporto e delega rendono sostenibile il workflow.
 
 [^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.
