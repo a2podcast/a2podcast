@@ -139,6 +139,33 @@ della proprietà `a2podcast.it`: 156 pagine indicizzate, 200 no. Cause individua
 
 ---
 
+## Fase 6 — Giugno 2026 (qualità editoriale sinossi episodi)
+
+### Audit sinossi episodi 54–76
+- Verificati gli episodi 54–76 dopo l’arricchimento automatico delle pagine episodio.
+- Individuato un pattern editoriale difettoso nelle sinossi di 54–64 e 66–76:
+  frasi-template come `In questa parte...` / `I passaggi centrali...`, titoli-collage e
+  note con descrizioni generiche.
+- L’episodio 65 non presenta lo stesso difetto strutturale; le citazioni risultano presenti
+  nell’SRT, anche se alcune sono spezzate su più sottotitoli.
+
+### Primo batch corretto: episodi 75 e 76
+- Riscritte le sezioni `## Note dell’episodio` e `## Sinossi[^sinossi-ai]` di:
+  - episodio 75, retrospettiva 2023 del tema dell’anno;
+  - episodio 76, programma 2024 del tema dell’anno.
+- Le nuove sinossi sono basate sugli SRT reali, con citazioni brevi verificate e capitoli
+  cronologici coerenti con la conversazione.
+- Normalizzate le note: rimossa la descrizione errata dello spinotto HDMI come libro e sostituite
+  formule generiche con descrizioni utili per lettori e motori di ricerca.
+- Motivo SEO: pagine episodio più affidabili e dense riducono contenuto generico/duplicativo e
+  migliorano la qualità indicizzabile oltre alla trascrizione integrale.
+
+### Prossimi batch editoriali
+- Da riscrivere: 54–64 e 66–74.
+- Da verificare/rifinire: 65.
+
+---
+
 ## Cosa è stato valutato e scartato
 
 | Intervento | Motivo del no |
