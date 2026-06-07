@@ -18,138 +18,51 @@ draft = false
 > In questa puntata Roberto e Filippo fanno un approfondimento sul programma di videoscrittura di Apple e su quello per i fogli di calcolo rispettivamente Pages e Numbers.
 
 ## Note dell’episodio
-- [ep. 17](https://a2podcast.it/17/): puntata A2 n. 17 richiamata come precedente o approfondimento collegato.
-- [File “Freelance 2023” per la gestione contabile](https://marchdotnet.wordpress.com/2017/04/03/numbers-modello-contabile-2-0-per-freelance/): approfondimento collegato a File “Freelance 2023” per la gestione contabile, utile per seguire il passaggio della puntata su 61: strumenti per lavorare concentrati (parte 1).
-- [Una tabella pivot è uno strumento analitico e di reporting necessario alla creazione di tabelle riassuntive. Uno dei fini principali di queste tabelle è l'organizzazione di dati, tramite una scelta opportuna dei campi e degli elementi che devono comporla](https://it.wikipedia.org/wiki/Tabella_pivot): pagina enciclopedica usata per inquadrare il concetto citato nella puntata.
-- [Supporto Apple : Pages](https://support.apple.com/it-it/pages): word processor Apple discusso per documenti, modelli e impaginazione nel lavoro professionale.
-- [Supporto Apple: Numbers](https://support.apple.com/it-it/numbers): foglio di calcolo Apple discusso per tabelle, modelli e gestione visuale dei dati.
-- [iWorks automation](https://iworkautomation.com): approfondimento collegato a iWorks automation, utile per seguire il passaggio della puntata su 61: strumenti per lavorare concentrati (parte 1).
-- [Full immersion su iPhone](https://support.apple.com/it-it/guide/iphone/iphd6288a67f/ios): funzione Apple per ridurre interruzioni e configurare modalità di concentrazione.
+- [Nessun essere umano è nato per leggere](https://www.abc.net.au/religion/maryanne-wolf-cultivating-deep-reading-in-a-digital-age/102001224): articolo di Maryanne Wolf citato per il rapporto tra lettura profonda, plasticità cerebrale e attenzione.
+- [Headspace su Netflix](https://www.netflix.com/it/title/81328829): serie richiamata nella parte su meditazione, respiro e gestione dell'attenzione.
+- [Brain.fm](https://www.brain.fm/): servizio musicale citato tra gli strumenti che possono aiutare alcune persone a concentrarsi.
+- [Il potere del quando](https://amzn.to/3qApmL0): libro sui cronotipi usato come spunto per scegliere i momenti migliori della giornata.
+- [Apple Watch e sonno](https://support.apple.com/it-it/guide/watch/apd364ffb9ec/watchos): riferimento utile per il tema del monitoraggio del sonno citato nella puntata.
 
 ## Sinossi[^sinossi-ai]
 
-### 1. A2 ep.60 - iWorks - Pages e Numbers
+### 1. La concentrazione come abilità, non come app
 
-> "fa anche lo stesso mio lavoro, quindi condividiamo l'ufficio, c'è un'ulteriore layer,."
-> — Filippo e Roberto, 00:02:54
-In questa parte Filippo e Roberto seguono il tema “A2 ep.60 - iWorks - Pages e Numbers” dentro il quadro
-dell’episodio su Strumenti per lavorare concentrati (Parte 1). I passaggi centrali riguardano concentrazione,
-mantenere, nostra, vita. Tra l'altro, vediamo anche che anche in auto, quando dobbiamo mantenere la
-concentrazione nella guida, questi smartphone cercano comunque di ottenere la nostra attenzione o da soli, o
-direttamente con carplay o altre amenità di questo tipo. Quindi, in una situazione del genere, capite bene che
-mantenere la concentrazione in una situazione di questo tipo è veramente un superpotere. Poi il problema è
-riuscire a mantenere questa concentrazione per lo meno per una mezz'oretta basterebbe e avanzerebbe, diciamo.
-Tra virgolette, diciamo che questi aggeggi tecnologici sono nati per attirare la nostra attenzione, sempre
-ogni giorno di più, e ci stanno anche riuscendo. Se per esempio state leggendo un libro, avete bisogno di
-concentrazione in qualche modo. Scopri come ottenere il massimo dalla tua tecnologia apple.
+Filippo e Roberto aprono la prima parte sugli strumenti per lavorare concentrati chiarendo subito il limite della tecnologia: un'app può aiutare, ma non può sostituire la volontà e l'allenamento. La concentrazione è una sfida quotidiana per professionisti che lavorano con notifiche, email, messaggi, telefonate, famiglia, traffico e dispositivi progettati per attirare attenzione.
 
-### 2. Punti di forza
+> "non c'è lo strumento magico che possa fare il miracolo"
 
-In questa parte Filippo e Roberto seguono il tema “Punti di forza” dentro il quadro dell’episodio su Strumenti
-per lavorare concentrati (Parte 1). I passaggi centrali riguardano comunque, quando, quello, concentrazione.
-Tuttavia, effettivamente, se ci fai caso, quando vai al ristorante, casomai, sei da solo, o casomai non ti
-interessa la conversazione che stai avendo al tavolo, spesso e volentieri l'orecchio ti cade sulle
-conversazioni altrui ed è naturale per noi. Tant'è che potete dire quello che volete, ma visto che siamo in
-ambito, diciamo, Apple, comunque Apple Watch ti dice: Guarda, per un'ora sei stato praticamente seduto tutto
-il tempo, datti un giro, alzati e fatti un giro. Mentre siete in giro a fare i nomadi digitali, ricordatevi
-che c'è un'altra parte che il nostro fisico richiede, che è quello di camminare e fare esercizio. Lo studio e
-la lettura, e quindi gli anni di scolarizzazione sostanzialmente sono uno dei modi migliori per imparare a
-concentrarsi, perché la concentrazione non è qualcosa che nasce spontaneo e così via. E quindi tutti andavano
-a letto al calare del comunque poco dopo il calare del sole perché comunque non si poteva fare molto, e questo
-è da quando esiste l'umanità sostanzialmente. Questo diventa una fonte di interesse, diciamo, di curiosità e
-ovviamente di carenza, di focus e di attenzione.
+Il tema viene trattato come un prerequisito del lavoro professionale. Non serve restare concentrati per otto ore consecutive: spesso basterebbe riuscire a proteggere mezz'ora o un'ora di lavoro profondo. Proprio per questo, mantenere l'attenzione diventa un vantaggio competitivo.
 
-### 3. Pages e Numbers
+> "è veramente un superpotere"
 
-> "e un'altra piccola chicca, che questa qui invece me l'hanno fatta scoprire."
-> — Filippo e Roberto, 00:22:07
-In questa parte Filippo e Roberto seguono il tema “Pages e Numbers” dentro il quadro dell’episodio su
-Strumenti per lavorare concentrati (Parte 1). I passaggi centrali riguardano magari, punto, vista, quando. In
-ogni caso, quello che vi devo dire è che anche sotto questo punto di vista, cosa che secondo me è interessante
-ed è un consiglio che mi diceva sempre mia mamma, ad esempio, che adesso stiamo registrando appena dopo la
-festa della mamma, mi sembrava giusto ricordarlo. Considerate che, secondo il mio punto di vista, come la mia
-esperienza, poi magari sentiamo Filippo che ne pensa: che lui emiliano ha un altro punto di vista
-sull'alimentazione perché lì si mangia troppo bene. Un'altra cosa che invece dovete stare attenti, anche
-questo ci ho fatto le spese anche sotto questo punto di vista: è l'alimentazione. Quindi, anche se c'è solo
-acqua, vi sembra di bere aranciata, vi sembra di bere caffè, Coca-Cola, vi discorrendo. Però nel momento in
-cui sono sopra, riesce a staccarmi sotto questo punto di vista dai vari pensieri e guadagnare un po' di
-concentrazione. Ma la cosa importante, secondo me, sopra qualsiasi cosa, che magari la mattina e il pomeriggio
-potete anche fare un po' quello che volete perché siete attivi.
+### 2. La crisi dell'attenzione
 
-### 4. Potenti
+I conduttori descrivono un ambiente in cui l'attenzione viene richiesta da ogni parte. Lo smartphone non interrompe solo quando arriva una notifica: influenza anche la guida, il lavoro, la lettura e i momenti di pausa. Apple, CarPlay, Apple Watch e gli strumenti digitali possono aiutare, ma sono anche parte del problema se non vengono governati.
 
-In questa parte Filippo e Roberto seguono il tema “Potenti” dentro il quadro dell’episodio su Strumenti per
-lavorare concentrati (Parte 1). I passaggi centrali riguardano quello, abitualmente, sonno, esempio. Diciamo,
-per esempio, Roberto diceva l'applicazione per ricordarsi di bere o comunque per monitorare quanto si beva.
-Sì, se ci sono dei problemi grossi, forse di idratazione, comunque ci sono delle necessità diciamo, mediche,
-ok, credo che sia un po' eccessiva come approccio, nel senso che però comprendo che in determinati casi,
-diciamo, se quello è il tuo problema, diciamo. Sì, allora vabbè sul sonno, sono un po' fetticista, mettiamola
-in questi termini, nel senso che ho letto vari libri sull'argomento e quindi so quanto possa impattare
-positivamente o negativamente sulla chiamiamo così capacità mattutina. Quando usavo, però, soltanto l'iPhone,
-non era così preciso, obviamente, l'Apple Watch ha portato a un livello decisamente molto più personalizzato e
-brinca tutto quello che deve brincare. Però, per esempio, vendono delle borracce che ti monitorano quanta
-acqua c'è dentro e quindi si sincronizzano via Bluetooth l'iPhone, quindi tu sai quanto hai bevuto la
-borraccia, e così via. La stessa Apple ha un'applicazione, chiamiamola così base, credo dall'ultima versione
-iOS, Apple Watch 9, credo dove è possibile monitorare il sonno.
+La crisi dell'attenzione non è presentata come lamento generazionale. Filippo e Roberto ragionano sul fatto che il cervello umano è naturalmente attratto da rumori, conversazioni e cambiamenti nell'ambiente. Concentrarsi significa andare contro una parte dei nostri automatismi, non semplicemente "decidere di impegnarsi".
 
-### 5. Interfaccia semplice
+### 3. Sonno, corpo e ambiente
 
-> "Tornando a bomba, invece sulla concentrazione è come vi dicevamo all'inizio, un."
-> — Filippo e Roberto, 00:35:34
-In questa parte Filippo e Roberto seguono il tema “Interfaccia semplice” dentro il quadro dell’episodio su
-Strumenti per lavorare concentrati (Parte 1). I passaggi centrali riguardano esempio, concentrazione,
-riuscire, potrebbe. Se iniziate magari da una routine per riuscire a dirvi a voi stessi che inizia il periodo
-di concentrazione, è molto facile che riuscite a recuperarla molto prima. Potrebbe essere una tattica anche
-questa interessante, che bisogna avere una routine per riuscire a concentrarsi. Che ne so, magari potrebbe
-anche essere fare una passeggiata prima di iniziare a lavorare, che ne so, qualsiasi altra cosa
-tendenzialmente evitate lo smartphone, che quello vi dà più preoccupazioni che altro. Se voi pensate, faccio
-un estremo esempio: se voi vi svegliate alle 5 e prendete la vostra mezz'ora per tirarvi su, o anche un'ora
-per riuscire a inquadrarvi. Se voi pensate anche semplicemente alla lettura prima di andare a dormire, anche
-quella è una forma di allenamento della concentrazione. Magari se mi alimentassi in modo diverso,
-probabilmente riuscirei ad essere più attivo intorno alle 2 alle 3 invece che essere attivo alle 5.
+La prima condizione pratica è fisica. Dormire abbastanza, camminare, fare esercizio, bere acqua e non appesantirsi con pasti troppo abbondanti sono elementi che incidono direttamente sulla capacità di lavorare. Roberto insiste sul sonno come base: quando manca, la soglia di distrazione si abbassa e ogni rumore diventa più forte.
 
-### 6. Un po’ di storia …
+> "devi dormire"
 
-In questa parte Filippo e Roberto seguono il tema “Un po’ di storia …” dentro il quadro dell’episodio su
-Strumenti per lavorare concentrati (Parte 1). I passaggi centrali riguardano lettura, lavoro, invece,
-concentrazione. Mentre il podcast, per esempio, puoi iniziare a farti una corsa, puoi andare in bicicletta,
-puoi guidare, puoi fare, tranne leggere, puoi fare praticamente tutto, se non anche dei lavori particolari che
-richiedono la tua concentrazione. Filippo mi metteva nella scaletta, ad esempio, che la lettura aiuta la
-concentrazione. Quindi, invece di venirmi a impostare il lavoro la mattina e quindi mettermi in difficoltà sia
-io che loro, perché non riuscivamo ad avere un meccanismo continuo. Quando si lavora, per esempio, in team, a
-me è capitato di lavorare in team, che magari all'inizio hai bisogno di una serie di informazioni, una dietro
-l'altra per portare avanti il lavoro. Perché alla fine la lettura è qualcosa di naturale per l'uomo, nel senso
-che a prescindere che le parole scritte sono qualcosa che è stato inventato dall'uomo e così via, sono uno
-strumento dell'uomo. Nel senso, io ho deciso che dalle 8 a luna non rispondo al telefono, e li fermo se non è
-un'emergenza che sta venendo giù un edificio, io per non ci sono, puoi telefonare quanto vuoi, non mi trovi.
+Apple Watch entra nel discorso come strumento di monitoraggio, non come soluzione. Può aiutare a vedere deficit di sonno e abitudini, ma poi resta da cambiare comportamento. Lo stesso vale per idratazione e movimento: promemoria e dati sono utili solo se portano a una routine più sostenibile.
 
-### 7. Pages
+### 4. Rumore, musica e contesto personale
 
-In questa parte Filippo e Roberto seguono il tema “Pages” dentro il quadro dell’episodio su Strumenti per
-lavorare concentrati (Parte 1). I passaggi centrali riguardano minuti, parte, vostro, cinque. Però, dopo
-cinque minuti cominciate a sentire che il vostro corpo ha iniziato a mettere in moto questo processo e vi
-addormentate molto molto più sereni. Io, ad esempio, ho sul cellulare un'applicazione che fa un po' di tutto,
-fa sia la meditazione guidata, sia in lingua inglese che in italiano, ma soprattutto quello che utilizzo è per
-la musica di sottofondo, perché sono musiche molto tranquille, ci sono anche i suoni bianchi. Cinque minuti
-fatti così vi vale decisamente di più per il vostro benessere psicofisico. Cinque minuti davvero sono
-un'eternità, ma la fortuna è che sono 5 minuti della vostra vita, che in 24 ore penso che possiate anche
-spenderle in queste cose, piuttosto che stare davanti a Instagram, per esempio. Una pausa che può mi tiro su
-dal tavolo e vado a bermi un bicchiere d'acqua da qualche parte, vado a prendermi il caffè per dire vado a
-fare una passeggiata fuori o per chi fuma, vado a fumarmi una sigaretta sul balcone, ad esempio. Ricordo anche
-delle volte che parlava di leggere, di come gestire, come facciamo noi ad esempio la concentrazione, spiega
-tutte queste cose, e poi c'era una parte meditativa che vi seguiva appunto nella parte finale.
+La concentrazione non richiede sempre silenzio assoluto. Roberto racconta che alcune voci vicine lo distraggono più di un rumore di fondo lontano; Filippo e Roberto discutono musica, podcast, suoni ripetitivi e servizi come Brain.fm. Il punto non è trovare una regola universale, ma capire quale ambiente permette a ciascuno di entrare nel lavoro.
 
-### 8. Per iPad
+Il rumore di fondo può aiutare se copre stimoli più invadenti; può danneggiare se contiene parole o elementi che catturano attenzione. Anche qui la tecnologia è uno strumento: cuffie, musica, app e podcast possono sostenere una routine, ma devono essere scelti in base alla risposta reale della persona.
 
-In questa parte Filippo e Roberto seguono il tema “Per iPad” dentro il quadro dell’episodio su Strumenti per
-lavorare concentrati (Parte 1). I passaggi centrali riguardano spesso, andare, quando, sonno. Quindi,
-soprattutto quando faccio fatica a dormire, ormai i podcast sono diventati il mio modo per una routine, anche
-quella, sì, sì, sì. Questa è una cosa che ci siamo dimenticati di dire, questa fa parte della concentrazione.
-Ma non ti chiedo, ma anch'io quando mi sveglio in mezzo alla notte e non riesco più a riprendere il sonno,
-vado subito sul podcast. Abbiamo tutti dei difetti del sonno, soprattutto l'utilizzo del cellulare prima di
-andare a dormire è un macello per il vostro cervello, per il vostro stato psicofisico. Spesso volentieri, il
-pomeriggio mi svegliavo che non sapevo se la mattina o pomeriggio, però, mi aiutava molto per fare le 8 ore di
-studiate quotidiane e così via. Siamo abbastanza quindi lascio andare avanti te che magari molto larga, lascio
-andare avanti te così dai una bella sforbiciata, arriviamo tranquillamente verso la fine.
+### 5. Lettura, meditazione e allenamento
+
+Nella parte finale Filippo collega la concentrazione alla lettura profonda. Leggere per mezz'ora o un'ora obbliga a restare dentro un argomento, seguire un ragionamento e resistere alla tentazione di saltare altrove. In questo senso la lettura è un esercizio, non solo un consumo di contenuti.
+
+> "La lettura aiuta la concentrazione"
+
+La meditazione viene discussa in modo pratico: non come soluzione mistica, ma come esercizio di osservazione del respiro e dei pensieri. Se il problema è accorgersi di quando l'attenzione scappa, allenarsi a vedere quel movimento può aiutare anche nel lavoro. La puntata chiude preparando la seconda parte: dopo fisiologia, ambiente e abitudini, serviranno strumenti concreti per proteggere il tempo.
+
 
 [^sinossi-ai]: Questa sinossi è generata con l’intelligenza artificiale a partire dalla trascrizione della puntata.

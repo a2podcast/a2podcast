@@ -195,8 +195,18 @@ della proprietà `a2podcast.it`: 156 pagine indicizzate, 200 no. Cause individua
 - Motivo SEO: due episodi lunghi e con ospiti ora hanno contenuti editoriali coerenti con titolo, trascrizione e intento di ricerca,
   senza capitoli automatici ripetuti o frasi-template.
 
+### Quinto batch corretto: episodi 59–62
+- Riscritte le sezioni `## Note dell’episodio` e `## Sinossi[^sinossi-ai]` di:
+  - episodio 59, espansioni di testo, sostituzioni Apple, TextExpander, Keyboard Maestro, Espanso e Typinator;
+  - episodio 60, Pages e Numbers secondo il contenuto effettivo dell'SRT;
+  - episodio 61, concentrazione parte 1: attenzione, sonno, ambiente, lettura e meditazione;
+  - episodio 62, concentrazione parte 2: timer, Pomodoro, automazioni, finestre, Stage Manager e Full immersion.
+- Normalizzate le note, eliminando descrizioni generiche e link non pertinenti al contenuto reale della trascrizione.
+- Motivo SEO: il batch conteneva sinossi-collage con contenuti incrociati tra episodi 60 e 61; le pagine ora seguono gli SRT reali
+  e riducono il rischio di segnali contraddittori tra testo indicizzabile e trascrizione.
+
 ### Prossimi batch editoriali
-- Da riscrivere: 54–62.
+- Da riscrivere: 54–58.
 - Da verificare/rifinire: 65.
 
 ---
