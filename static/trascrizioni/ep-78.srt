@@ -1,0 +1,443 @@
+1
+00:00:01,840 --> 00:00:07,040
+A due podcast, scopri come ottenere il massimo dalla tua tecnologia Apple.
+
+2
+00:00:07,040 --> 00:00:23,600
+Due professionisti, Filippo e Roberto te lo spiegano con argomenti monotematici ed ospiti che raccontano il loro flusso di lavoro, benvenuti all'episodio 78 di Adu Podcast in cui scoprire come ottenere il massimo dalla vostra tecnologia Apple.
+
+3
+00:00:23,600 --> 00:00:35,840
+Io sono Filippo Strozzi e sono il vostro ospite, assieme all'amico Roberto Marin di che cosa parliamo in questo episodio, Roberto Santo cielo, siamo tornati con a due podcast di questo parliamo.
+
+4
+00:00:35,840 --> 00:00:39,840
+Finalmente abbiamo ripreso le redini di questo podcast tra un impegno e l'altro.
+
+5
+00:00:39,840 --> 00:00:50,240
+Riprendendo la vita riprendendo non solo la vita normale, ma anche quella lavorativa, abbiamo trovato uno spazietto per due podcast e ci siamo chiesti, ma perché non tornare?
+
+6
+00:00:50,240 --> 00:00:51,840
+Allora, Filippo, come va?
+
+7
+00:00:51,840 --> 00:00:55,920
+Ma tutto bene, tutto bene, sono passati quasi due anni direi, forse tre.
+
+8
+00:00:55,920 --> 00:00:57,200
+Andiamo quasi verso i tre.
+
+9
+00:00:57,200 --> 00:00:57,840
+Direi.
+
+10
+00:00:58,400 --> 00:00:59,600
+Abbiamo fatto tante cose.
+
+11
+00:00:59,600 --> 00:01:01,600
+Diciamo, ecco, piccola premessa.
+
+12
+00:01:01,600 --> 00:01:02,800
+Comunicazione di servizio.
+
+13
+00:01:02,800 --> 00:01:07,680
+Ovviamente, questa è una puntata di riapertura, quindi sarà una puntata breve, mettiamola in questi termini.
+
+14
+00:01:07,680 --> 00:01:11,600
+Anzi, mi sono scordato, perché poi chiacchieravamo di mettere il timer di un'ora.
+
+15
+00:01:11,600 --> 00:01:14,080
+Ma dopo ne parleremo meglio, diciamo.
+
+16
+00:01:14,080 --> 00:01:15,600
+Quindi, riapriamo, diamo.
+
+17
+00:01:15,840 --> 00:01:18,800
+Riprendiamo le fila da dove avevamo lasciato.
+
+18
+00:01:18,800 --> 00:01:25,440
+E altra comunicazione di servizio è che ovviamente stiamo registrando live su YouTube, come al solito.
+
+19
+00:01:25,440 --> 00:01:30,160
+Se siete interessati, adesso, poi più avanti daremo dei calendari sensati.
+
+20
+00:01:30,480 --> 00:01:37,520
+Ma il podcast vero e proprio, cioè, noi stiamo registrando a giugno 2026, ma il podcast vero e proprio ripartirà a settembre.
+
+21
+00:01:37,520 --> 00:01:48,800
+Così abbiamo modo di, con calma, di macinare episodi, e quindi poi di avere il nostro solito buffer, che diciamo, ci permette poi di andare via meglio per il futuro.
+
+22
+00:01:48,800 --> 00:01:51,120
+Benissimo, direi che è un'ottima presentazione.
+
+23
+00:01:51,120 --> 00:02:19,080
+Dunque, avevamo parlato della durata, abbiamo pensato di accorciare un po' la durata delle puntate per rendere un po' più facile la fruizione di chi parte di chi ascolta e soprattutto di chi edita e registra in modo tale che non ci sia troppo tempo a lavorare di lavorarci sopra perché, come sapete, il tempo è sempre prezioso, non abbiamo mai abbastanza, e poi, come diceva, giustamente Filippo, di cose ne abbiamo fatte entrambi tantissime, abbiamo cambiato un po' di cose, soprattutto arrivata all'intelligenza artificiale.
+
+24
+00:02:19,080 --> 00:02:22,520
+Che forse due anni se ne si accennava due anni fa.
+
+25
+00:02:22,520 --> 00:02:27,800
+Si accennava un po' solo la questione dell'intelligenza artificiale, e adesso, però, ci siamo.
+
+26
+00:02:27,800 --> 00:02:31,960
+Soprattutto Filippo ci è sopra all'intelligenza artificiale.
+
+27
+00:02:31,960 --> 00:02:37,320
+Invece, ci sto ancora girando un po' attorno per riuscire a prendere il meglio di questa tecnologia.
+
+28
+00:02:37,320 --> 00:02:43,560
+Ma bando alle ciance, l'idea è quella di riprendere le fila a due podcast.
+
+29
+00:02:43,560 --> 00:02:51,320
+Che, insomma, intanto, prima di tutto, bisogna ringraziare Simone Pizzi, che ha dato una bella casetta a due podcast.
+
+30
+00:02:51,320 --> 00:03:05,640
+Siamo entrati anche con questo podcast all'interno della famiglia numerosa di Roundtime Radio e ne siamo tutti ben felici, abbiamo visto che comunque a giudicare dagli ascolti, sono comunque puntate apprezzate.
+
+31
+00:03:05,880 --> 00:03:15,400
+Come diceva giustamente Filippo: le famose puntate evergreen con temi verticali, sono sempre buoni da ascoltare per approfondire.
+
+32
+00:03:15,400 --> 00:03:28,280
+L'idea è sempre comunque di tenere delle puntate verticali, ma diciamo più corte, magari separate in più tronconi per riuscire un po' a magari approfondire anche di più, avendo più spazio.
+
+33
+00:03:28,280 --> 00:03:35,000
+Poi alla fine per raccontarci le cose e poi soprattutto renderle un po' più fruibili e un po' più leggere.
+
+34
+00:03:35,000 --> 00:03:41,240
+Chiamiamo così: diciamo che questa nuova veste di due podcast è all'insegna della leggerezza.
+
+35
+00:03:42,200 --> 00:03:56,400
+Per entrambi, perché, come vi dicevamo, ci sono stati un po' di cambiamenti qui e là, tra cui ad esempio il nuovo sito qui invece entra in gioco Filippo, perché se ne è occupato lui e gli faccio i complimenti in diretta.
+
+36
+00:03:56,400 --> 00:03:57,440
+Grazie, grazie.
+
+37
+00:03:57,760 --> 00:04:01,760
+Ovviamente non sono complimenti a me, perché devo dire la verità.
+
+38
+00:04:01,760 --> 00:04:08,320
+Se mi fossi dovuto mettere lì a fare io il sito, non l'avrei mai creato, diciamo.
+
+39
+00:04:08,320 --> 00:04:35,360
+Semplicemente in tutta una serie di attività con l'intelligenza artificiale che sto facendo, diciamo, e nell'ottica, ovviamente, di far ripartire il podcast il fatto che abbiamo cambiato casa, quindi, mentre prima il podcast, avevo uno spazio web, diciamo, dedicato, dato dall'hosting che avevamo, che era Fireside, credo che sia, credo che fosse, perché poi anche lì sono successe varie cose anche a Firesand, ma non ci interessano.
+
+40
+00:04:35,360 --> 00:04:55,200
+Volendo poi fare la traghettare, diciamo, anche avvocati Mac su un nuovo sistema di hosting, diciamo, ho fatto dei primissimi test con col sito di A due podcast, e nelle ultime settimane, sostanzialmente, mi sono lasciato prenda la mano come al mio solito.
+
+41
+00:04:55,200 --> 00:04:58,640
+E quindi, cosa è successo nella sostanza?
+
+42
+00:04:59,440 --> 00:05:11,920
+Siamo come casa Ranta Radio, però, Rantai Radio ha sostanzialmente un canale spreaker da dove poi vengono distribuiti tutti i nostri podcast, ma non c'è un sito internet.
+
+43
+00:05:11,920 --> 00:05:18,880
+Quindi ho trovato il modo: ho fatto fare in modo all'intelligenza artificiale di caricare dentro il sito.
+
+44
+00:05:18,880 --> 00:05:42,280
+Innanzitutto, tutte le puntate con i player di spreaker, quindi potrete ascoltare direttamente dal sito nelle singole puntate, ovviamente dal player di potete anche vedere le puntate se vi interessano, c'è anche il video di YouTube della registrazione, ovviamente sono le puntate non editati in questo caso.
+
+45
+00:05:42,520 --> 00:06:03,160
+Ma in più l'appetito vi è mangiando, oltre a fatto tutta questa cosa qui, siccome avevo già fatto degli esperimenti con Compendium di cui eventualmente parliamo dopo, ho anche fatto fare l'intelligenza artificiale, la trascrizione di tutte le puntate a due podcast, manca la 77 per motivi tecnici, mettiamola in questi termini.
+
+46
+00:06:03,160 --> 00:06:07,800
+Ma comunque tutte le prime 76 puntate sono trascritte completamente.
+
+47
+00:06:07,800 --> 00:06:17,560
+Addirittura ho fatto fare un passaggio all'intelligenza artificiale per migliorare il testo e quindi ottimizzare la trascrizione, diciamo con l'intelligenza artificiale.
+
+48
+00:06:17,800 --> 00:06:46,840
+Grazie a questo, tutte le puntate sono adesso dotate di una sinossi, diciamo, cioè di un breve riassunto che ti permette di leggere anche il podcast, mettiamolo in questi termini quindi avere tutta la parte contenutistica della puntata più o meno riassunta, con addirittura l'estrazione di alcune frasi, diciamo più significative e quindi c'è una parte testuale, oltre tutta la parte dei link.
+
+49
+00:06:46,840 --> 00:06:55,800
+Ovivi e quindi l'intelligenza artificiale di la verità ha armonizzato un po' tutto il sistema, sono abbastanza contento del risultato finale.
+
+50
+00:06:55,800 --> 00:06:58,600
+Ovviamente il feedback è sempre ben accetto.
+
+51
+00:06:58,600 --> 00:07:09,960
+Ma vi consiglio di andare a visitare il sito a due, due scritto in numero podcast.it o anche w due podcast punit dove troverete poi tutte le puntate.
+
+52
+00:07:09,960 --> 00:07:13,160
+Abbiamo anche finalmente la pagina per gli ospiti.
+
+53
+00:07:13,880 --> 00:07:20,880
+Anche qui, se volete andare a cercare le puntate in cui un ospite è stato presente, le potete trovare.
+
+54
+00:07:20,960 --> 00:07:27,760
+Insomma, è diventato un sito che ha una sua fruibilità e una sua utilità concreta.
+
+55
+00:07:27,760 --> 00:07:33,120
+Mettiamolo in questi termini spero e come quando ci mette le mani Filippo, diventa come per magia professionale.
+
+56
+00:07:33,120 --> 00:07:46,480
+Perché se aspettiamo me che io invece sono uno scappato di casa, non otteniamo una bella ceppa di niente, se non il logo a due che avevo rimaneggiato io in modalità veloce, ma visto che si trattava di cose veloci.
+
+57
+00:07:46,480 --> 00:07:58,160
+No, continuo a ripetere, io ho supervisionato tutto il resto, l'ha fatto tra Gemini e no, scusami, tra Codecs e Cloud Code.
+
+58
+00:07:58,160 --> 00:08:02,080
+Quindi, non ho meriti enormi, mettiamoli in questi termini.
+
+59
+00:08:02,240 --> 00:08:18,640
+Insomma, in ogni caso, c'è impiegato del tempo, e anche con l'aiuto dell'intelligenza artificiale, ma soprattutto chi non si fa aiutare da intelligenza artificiale in questo periodo, non so chi non si stia facendo aiutare, con i pro e con i contro, ma ne discuteremo anche questo in separata sede.
+
+60
+00:08:18,640 --> 00:08:22,000
+Che insomma, di carne al fuoco ce n'è davvero tantissimo.
+
+61
+00:08:22,000 --> 00:08:29,040
+Ci siamo sentiti poco tempo fa, tra l'altro per il chi no tempo della WDC 2026.
+
+62
+00:08:29,360 --> 00:08:31,680
+Insomma, anche qua ci sono state delle novità.
+
+63
+00:08:31,680 --> 00:08:36,080
+Ma approfondiremo quando sarà ora, tempo e luogo come sempre.
+
+64
+00:08:36,480 --> 00:08:47,040
+Invece, quello che volevo ancora precisare, un attimo, riguarda ancora il format, il format, come vi dicevamo, si attesterà intorno all'ora.
+
+65
+00:08:47,040 --> 00:08:55,920
+Possibilmente non di più, ma giustamente i motivi l'ho già spiegati, anche prima, ma si cercherà di usare un formato tipo a scala.
+
+66
+00:08:55,920 --> 00:08:57,040
+Cosa vuol dire questo?
+
+67
+00:08:57,040 --> 00:09:08,760
+Vuol dire che ci sarà una prima puntata generale dove si incomincia a introdurre l'argomento ed è valida per tutti, e invece, poi ci sarà una seconda parte un po' più approfondita.
+
+68
+00:09:08,760 --> 00:09:15,400
+Seconda, e se il caso, ovviamente perché ci saranno argomenti anche molto più lunghi, andremo anche con una terza, se è necessario.
+
+69
+00:09:15,400 --> 00:09:17,640
+In ogni caso, qual è l'idea?
+
+70
+00:09:17,640 --> 00:09:39,560
+È sempre quella di cercare di fare argomenti verticali che possono interessare il nostro mondo di professionisti che lavorano con tecnologia Apple, cercare di ascoltarla al meglio e soprattutto con le novità che ha introdotto Apple recentemente, ci sarà abbastanza da ridere temo perché ne avremo un po' per tutti.
+
+71
+00:09:39,560 --> 00:09:52,040
+In ogni caso, come dicevamo, sempre argomenti monotematici e cercheremo anche di prendere sotto la nostra ala protettrice, chiamiamo così degli ospiti.
+
+72
+00:09:52,040 --> 00:10:07,160
+Dunque, intanto, dobbiamo confessarlo: in questo momento il pali insesto, è ancora tutto in itinere, ancora tutto da fare, ancora tutto da pensare, da sperimentare e soprattutto dobbiamo cercare di infilare questi famosi ospiti.
+
+73
+00:10:07,160 --> 00:10:17,640
+Questi famosi ospiti, ovviamente, può essere qualsiasi uno di voi che ha voglia di mettersi al microfono e parlare con noi di come sfrutta la sua tecnologia Apple.
+
+74
+00:10:17,640 --> 00:10:31,000
+Abbiamo avuto un bel po' di ospiti precedentemente, come diceva, giustamente Filippo, basta andare a vedere sulla nostra pagina di due podcast, sulla parte degli ospiti, vedrete che abbiamo un bel par terre di ospiti.
+
+75
+00:10:31,000 --> 00:10:55,840
+Chissà che magari li richiamiamo, quelli che vogliono di nuovo partecipare, ma soprattutto chiediamo a chi vuole partecipare, di mandarci un'email o un suo feedback o anche basta un messaggio per dirci: mi piacerebbe partecipare a parlare con voi due pazzi e di come insieme riusciamo a sfruttare tutti quanti quella tecnologia pazza di Apple e quindi fare un po' di cacciara.
+
+76
+00:10:55,840 --> 00:11:06,640
+Ma detto questo, mi raccomando, se volete continuare, fatevi avanti, sicuramente ci sarà da ridere insieme per quanto riguarda la tecnologia, ma soprattutto da imparare.
+
+77
+00:11:06,640 --> 00:11:14,880
+Imparare perché ognuno ha un suo modo di sfruttare questa tecnologia in modo molto personale perché non facciamo tutti lo stesso lavoro.
+
+78
+00:11:14,880 --> 00:11:27,360
+Ma anche se facessimo lo stesso lavoro, sicuramente il mio flusso di lavoro potrebbe essere diverso da quello di un altro architetto, ad esempio, nel mio caso, ma sicuramente potrei imparare qualcosa di nuovo e qualcosa di interessante.
+
+79
+00:11:27,360 --> 00:11:51,520
+Questo può diventare sicuramente utile per tutti quanti, e dare spunti e nuovi punti di riferimento per quanto riguarda i nostri workflow lavorativi, con la nostra tecnologia preferita, almeno ad oggi preferito, mettiamola così, ma no, io continuo a ripetere, siamo ancora in una fase embrionale, però, per ora alcune cose.
+
+80
+00:11:51,840 --> 00:12:04,800
+Pur avendo avuto, diciamo, una doccia fredde, diciamo con il kinote recente, diciamo, adesso che sto approfondendo alcune cose, sto, sto iniziando a diventare un po' più ottimista.
+
+81
+00:12:04,800 --> 00:12:12,480
+Anche se i nuovi sistemi operativi 27, diciamo, gli os 27 avranno delle particolarità.
+
+82
+00:12:12,480 --> 00:12:21,920
+Ma insomma, secondo me ce n'è da parlare, le cose e le cose comunque non stanno andando così male come originariamente avevo pensato io.
+
+83
+00:12:22,560 --> 00:12:32,680
+Sicuramente sono tutti argomenti da approfondire, perché il keynote è stato veramente fresco, nel senso che l'hanno fatto, noi stiamo registrando di mercoledì ed è stato lunedì sera.
+
+84
+00:12:29,840 --> 00:12:34,280
+Quindi non abbiamo neanche le idee chiare.
+
+85
+00:12:34,440 --> 00:12:42,840
+Quello che è stato chiaro, almeno sotto il mio punto di vista, e che come spiegavo in altre sedi, è che l'aria è veramente cambiata in Apple.
+
+86
+00:12:42,840 --> 00:12:54,120
+Perché abbiamo visto un keynote diverso da quei precedenti e soprattutto c'è area di cambiamento: area di cambiamento che potrebbe essere l'unificazione del sistema operativo che magari vedremo il prossimo anno.
+
+87
+00:12:54,120 --> 00:13:05,560
+Ma queste queste sono tutte illazioni che approfondiremo poi nel corso del tempo, ma soprattutto ci sono una serie di tecnologie che sono interessanti, ma soprattutto.
+
+88
+00:13:05,560 --> 00:13:11,080
+Perché qui sta il vero problema della questione, che bisogna provarle.
+
+89
+00:13:11,160 --> 00:13:12,680
+Nel senso, dovremo provarle.
+
+90
+00:13:12,680 --> 00:13:17,240
+Io avendo i dispositivi che ho, non li proverò tantissimo.
+
+91
+00:13:17,240 --> 00:13:24,520
+Ma sicuramente Filippo, che magari ha un po' più capacità hardware, lo metterò sotto torto e gli farò un sacco di domande.
+
+92
+00:13:24,520 --> 00:13:25,880
+Quindi preparati, Filippo.
+
+93
+00:13:25,880 --> 00:13:27,640
+Molto volentieri, molto volentieri.
+
+94
+00:13:27,640 --> 00:13:55,800
+Ecco poi un'altra cosa che possiamo dire, perché diciamo abbiamo delle promesse, mettiamola così e è probabile, molto probabile, che l'amico Lucio Bragagnolo tornerà su queste su queste lidi, affronteremo varie cose adesso, casomai potremmo anche organizzare nel corso estivo, diciamo delle registrazioni, una puntata 3 casomai in preparazione poi dell'uscita a settembre dei nuovi sistemi operativi e così via.
+
+95
+00:13:55,800 --> 00:14:03,560
+Quindi, con una così retrospettiva dal nostro punto di vista, ma prospettiva da chi ascolterà in quel momento.
+
+96
+00:14:03,560 --> 00:14:05,720
+Insomma, ci sono tante cose in pentola.
+
+97
+00:14:05,720 --> 00:14:07,320
+Vediamo, vediamo.
+
+98
+00:14:07,320 --> 00:14:08,520
+Ci saranno.
+
+99
+00:14:08,760 --> 00:14:17,520
+Siamo d'accordo con anche ospiti già nuovi, mettiamoli in questi termini, creiamo un po' di attesa di aspettativa.
+
+100
+00:14:17,680 --> 00:14:29,200
+È una cosa che non so se Roberto aveva detto, è ovvio che alcuni argomenti necessiteranno per forza di cose più di un'ora di approfondimento, mettiamola in questi termini.
+
+101
+00:14:29,360 --> 00:14:35,520
+In questo caso abitualmente cercheremo ancora esattamente capire come è la formula.
+
+102
+00:14:35,520 --> 00:14:41,440
+Diciamo, ma di spezzare in due le puntate saranno due puntate.
+
+103
+00:14:41,440 --> 00:14:59,920
+Ma col medesimo argomento con il medesimo filo conduttore, mettiamola così soltanto che adesso l'idea, per esempio, è di approfondire di nuovo, fare un punto della situazione a più di due anni di distanza e con grandissimi cambiamenti all'orizzonte sull'intelligenza artificiale.
+
+104
+00:14:59,920 --> 00:15:07,040
+È ovvio che non si può fare in un'ora, mettiamola così almeno non credo che si riesca a fare in maniera completa.
+
+105
+00:15:07,040 --> 00:15:11,600
+Per cui anche qui valuteremo un po' come strutturare il tutto.
+
+106
+00:15:11,760 --> 00:15:15,680
+Quindi cercherò di concludere io velocemente la puntata.
+
+107
+00:15:15,680 --> 00:15:39,120
+Questo sarà appunto una puntata di inizio molto più breve di quello che abbiamo ipotizzato originariamente, perché appunto c'è stato un problema di linea a questo punto, e conseguentemente, alcune cose che volevamo discutere, diciamo in questa puntata di ripresa, mettiamola così.
+
+108
+00:15:39,120 --> 00:15:47,280
+Le approfondiremo eventualmente in una seconda puntata o una seconda registrazione quando sarà il caso.
+
+109
+00:15:47,280 --> 00:15:56,720
+Per cui preparatevi, sta per tornare a due podcast, ovviamente la puntata presumibilmente uscirà i primi di settembre è una puntata breve.
+
+110
+00:15:56,720 --> 00:21:40,320
+Quindi, diciamo, servirà solo per far ripartire motori e soprattutto per farvi sapere che siamo ancora presenti e ripartiamo benissimo è stato un piacere ci sentiamo alla prossima c'è stato un problema quindi me ne scuso ma non so se non vedo più Roberto io è un problema mio di non vedere Roberto o ha perso la linea e nel mentre sotto mi chiamavano quindi è andata via la luce perché c'è un tempaccio qua Allora, aspetta, stoppo questa registrazione e faccio un'altra registrazione.
+
+111
+00:21:42,240 --> 00:21:44,880
+E possiamo andare di nuovo in diretta, se vuoi.
