@@ -1,4 +1,5 @@
 {{ with .Params.spreakerEpisodeId }}
+{{ $audioUrl := printf "https://api.spreaker.com/v2/episodes/%s/download.mp3" . }}
 <div class="audio-player">
   <iframe
     src="https://widget.spreaker.com/player?episode_id={{ . }}&theme=light&playlist=false&playlist-continuous=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=false"
@@ -10,7 +11,13 @@
     allow="autoplay">
   </iframe>
   <p class="audio-player-fallback">
-    <a href="{{ $.Params.audioUrl }}" target="_blank" rel="noopener">Apri episodio su Spreaker ↗</a>
+    <a href="{{ $audioUrl }}" target="_blank" rel="noopener">Scarica l'audio</a>
   </p>
 </div>
+{{ else }}
+  {{ with .Params.audioUrl }}
+  <p class="audio-player-fallback">
+    <a href="{{ . }}" target="_blank" rel="noopener">Scarica l'audio</a>
+  </p>
+  {{ end }}
 {{ end }}

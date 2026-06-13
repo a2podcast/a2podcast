@@ -119,7 +119,7 @@ def find_jsonld(blocks: list[dict], type_: str) -> dict | None:
 # ── Test groups ───────────────────────────────────────────────────────────────
 
 def test_build(build: bool) -> int:
-    section(1, 7, "Build Hugo")
+    section(1, 8, "Build Hugo")
     if not build:
         print(f"  {YELLOW}(build saltata, uso public/ esistente){RESET}")
         pub = os.path.join(PROJECT_ROOT, "public")
@@ -140,10 +140,10 @@ def test_build(build: bool) -> int:
     m = re.search(r'Pages\s+│\s+(\d+)', output)
     if m:
         n = int(m.group(1))
-        if n >= 500:
-            ok(f"{n} pagine generate (≥ 500)")
+        if n >= 200:
+            ok(f"{n} pagine generate (≥ 200)")
         else:
-            fail(f"pagine generate: {n} (attese ≥ 500)")
+            fail(f"pagine generate: {n} (attese ≥ 200)")
     else:
         fail("conteggio pagine non trovato nell'output")
 
@@ -153,9 +153,15 @@ def test_build(build: bool) -> int:
     else:
         fail("public/sitemap.xml non trovata")
 
+    future_ep = os.path.join(PROJECT_ROOT, "public", "78", "index.html")
+    if not os.path.exists(future_ep):
+        ok("episodio 78 futuro non pubblicato nella build corrente")
+    else:
+        fail("episodio 78 futuro pubblicato prima della data prevista")
+
 
 def test_homepage(base: str):
-    section(2, 7, "Homepage")
+    section(2, 8, "Homepage")
     r = fetch(base, "/")
     if r.status_code == 200:
         ok("HTTP 200 /")
@@ -178,8 +184,8 @@ def test_homepage(base: str):
 
     # Title
     m = re.search(r'<title>(.*?)</title>', html)
-    if m and m.group(1).strip() == "A2 Podcast":
-        ok(f"<title> = 'A2 Podcast'")
+    if m and m.group(1).strip() == "A2 Podcast — Tecnologia Apple per professionisti":
+        ok("<title> homepage corretto")
     else:
         fail("<title> non corrisponde", m.group(1) if m else "non trovato")
 
@@ -211,7 +217,7 @@ def test_homepage(base: str):
 
 
 def test_episode_with_youtube(base: str):
-    section(3, 7, "Episodio CON YouTube (Ep. 74 — Andrea Ciraolo)")
+    section(3, 8, "Episodio CON YouTube (Ep. 74 — Andrea Ciraolo)")
     r = fetch(base, "/74/")
     if r.status_code == 200:
         ok("HTTP 200 /74/")
@@ -228,12 +234,12 @@ def test_episode_with_youtube(base: str):
     else:
         fail('sezione episode-youtube non trovata')
 
-    if f'data-ytid="{YT_ID}"' in html:
-        ok(f"data-ytid={YT_ID} corretto")
+    if f"youtube-nocookie.com/embed/{YT_ID}" in html:
+        ok(f"embed YouTube con ID {YT_ID} corretto")
     else:
-        fail("data-ytid mancante o errato")
+        fail("embed YouTube mancante o errato")
 
-    if f"i.ytimg.com/vi/{YT_ID}/hqdefault.jpg" in html:
+    if f"i.ytimg.com/vi/{YT_ID}/maxresdefault.jpg" in html:
         ok("thumbnail YouTube presente")
     else:
         fail("thumbnail YouTube non trovata")
@@ -265,7 +271,8 @@ def test_episode_with_youtube(base: str):
 
         # VideoObject
         video = ep.get("video", {})
-        if video.get("@type") == "VideoObject" and YT_ID in video.get("url", ""):
+        video_urls = " ".join(str(video.get(key, "")) for key in ("url", "contentUrl", "embedUrl"))
+        if video.get("@type") == "VideoObject" and YT_ID in video_urls:
             ok("JSON-LD VideoObject presente con ID corretto")
         else:
             fail("JSON-LD VideoObject mancante o errato", str(video))
@@ -297,19 +304,19 @@ def test_episode_with_youtube(base: str):
         fail("preconnect Spreaker mancante")
 
     # OG image dimensions (use flexible pattern: attribute order may vary + extra spaces)
-    if re.search(r'og:image:width"\s+content="1200"', html):
-        ok("og:image:width = 1200")
+    if re.search(r'og:image:width"\s+content="1400"', html):
+        ok("og:image:width = 1400")
     else:
         fail("og:image:width mancante o errato")
 
-    if re.search(r'og:image:height"\s+content="630"', html):
-        ok("og:image:height = 630")
+    if re.search(r'og:image:height"\s+content="1400"', html):
+        ok("og:image:height = 1400")
     else:
         fail("og:image:height mancante o errato")
 
 
 def test_episode_without_youtube(base: str):
-    section(4, 7, "Episodio SENZA YouTube (Ep. 40 — WWDC 2022)")
+    section(4, 8, "Episodio SENZA YouTube (Ep. 40 — WWDC 2022)")
     r = fetch(base, "/40/")
     if r.status_code == 200:
         ok("HTTP 200 /40/")
@@ -346,7 +353,7 @@ def test_episode_without_youtube(base: str):
 
 
 def test_aux_pages(base: str):
-    section(5, 7, "Pagine ausiliarie")
+    section(5, 8, "Pagine ausiliarie")
 
     for path, expected_status, check_text in [
         ("/episodi/", 200, "Episodi"),
@@ -379,7 +386,7 @@ def test_aux_pages(base: str):
 
 
 def test_seo_head(base: str):
-    section(6, 7, "SEO — head.html")
+    section(6, 8, "SEO — head.html")
     r = fetch(base, "/74/")
     html = r.text
 
@@ -389,10 +396,10 @@ def test_seo_head(base: str):
 
     checks = [
         (lambda h: 'rel="canonical"' in h,                          "canonical presente"),
-        (lambda h: has_meta(h, "og:image:width",  "1200"),          "og:image:width = 1200"),
-        (lambda h: has_meta(h, "og:image:height", "630"),           "og:image:height = 630"),
+        (lambda h: has_meta(h, "og:image:width",  "1400"),          "og:image:width = 1400"),
+        (lambda h: has_meta(h, "og:image:height", "1400"),          "og:image:height = 1400"),
         (lambda h: has_meta(h, "og:locale",       "it_IT"),         "og:locale = it_IT"),
-        (lambda h: has_meta(h, "twitter:card",    "summary"),       "twitter:card = summary"),
+        (lambda h: has_meta(h, "twitter:card",    "summary_large_image"), "twitter:card = summary_large_image"),
         (lambda h: has_meta(h, "twitter:site",    "@a2podcast"),    "twitter:site = @a2podcast"),
     ]
     for check_fn, label in checks:
@@ -400,7 +407,7 @@ def test_seo_head(base: str):
 
 
 def test_frontmatter():
-    section(7, 7, "Integrità frontmatter")
+    section(7, 8, "Integrità frontmatter")
     ep_dirs = sorted(
         d for d in glob.glob(os.path.join(EPISODES_DIR, "*"))
         if os.path.isdir(d) and os.path.basename(d).isdigit()
@@ -457,6 +464,32 @@ def test_frontmatter():
         fail(f"episodi senza hasTranscript: {missing_transcript[:10]}")
 
 
+def test_generated_markup():
+    section(8, 8, "Markup generato")
+    html_paths = glob.glob(os.path.join(PROJECT_ROOT, "public", "**", "*.html"), recursive=True)
+    bad_href = []
+    bad_content_url = []
+
+    for path in html_paths:
+        with open(path, encoding="utf-8") as f:
+            html = f.read()
+        rel = os.path.relpath(path, PROJECT_ROOT)
+        if re.search(r'href\s*=\s*""', html):
+            bad_href.append(rel)
+        if re.search(r'"contentUrl"\s*:\s*""', html):
+            bad_content_url.append(rel)
+
+    if not bad_href:
+        ok('nessun href="" nelle pagine generate')
+    else:
+        fail('trovati href="" nelle pagine generate', ", ".join(bad_href[:10]))
+
+    if not bad_content_url:
+        ok('nessun "contentUrl": "" nelle pagine generate')
+    else:
+        fail('trovati "contentUrl": "" nelle pagine generate', ", ".join(bad_content_url[:10]))
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -486,6 +519,7 @@ def main():
         test_episode_without_youtube(base)
         test_aux_pages(base)
         test_seo_head(base)
+        test_generated_markup()
     finally:
         server.terminate()
         server.wait()

@@ -1,4 +1,12 @@
 {{ if eq .Section "episodi" }}
+{{ $audioUrl := "" }}
+{{ with .Params.spreakerEpisodeId }}
+  {{ $audioUrl = printf "https://api.spreaker.com/v2/episodes/%s/download.mp3" . }}
+{{ else }}
+  {{ with .Params.audioUrl }}
+    {{ $audioUrl = . }}
+  {{ end }}
+{{ end }}
 {{/* Convert HH:MM:SS or MM:SS duration string to ISO 8601 (PT...) for schema.org */}}
 {{ $isoDuration := "" }}
 {{ with .Params.duration }}
@@ -37,12 +45,15 @@
   ],
   {{ with .Params.tags }}"keywords": "{{ delimit . ", " | htmlEscape }}",{{ end }}
   {{ with .Params.guest }}{{ $guestPage := $.Site.GetPage (printf "/ospiti/%s" .) }}"performer": {"@type": "Person", "name": "{{ if $guestPage }}{{ $guestPage.Title | htmlEscape }}{{ else }}{{ . | htmlEscape }}{{ end }}"{{ if $guestPage }}{{ with $guestPage.Params.website }}, "url": "{{ . }}"{{ end }}{{ end }}},{{ end }}
+  {{ if or $audioUrl $isoDuration }}
   "associatedMedia": {
-    "@type": "MediaObject",
-    "contentUrl": "{{ .Params.audioUrl }}",
-    "encodingFormat": "audio/mpeg"{{ if $isoDuration }},
-    "duration": "{{ $isoDuration }}"{{ end }}
+    "@type": "MediaObject"{{ with $audioUrl }},
+    "contentUrl": "{{ . }}"{{ end }}{{ if $isoDuration }}{{ if $audioUrl }},{{ end }}
+    "encodingFormat": "audio/mpeg",
+    "duration": "{{ $isoDuration }}"{{ else }},
+    "encodingFormat": "audio/mpeg"{{ end }}
   },
+  {{ end }}
   "partOfSeries": {
     "@type": "PodcastSeries",
     "name": "{{ .Site.Params.podcastTitle }}",
