@@ -70,6 +70,27 @@ Lo script è idempotente — ri-eseguirlo sovrascrive i file esistenti senza pro
 
 ---
 
+## Promozione episodi editati
+
+Quando un episodio è stato arricchito in una cartella di lavorazione iCloud (`078/`, `079/`, ecc.),
+non va promosso rilanciando `ingest.py`: quello script è idempotente per l'ingestion RSS/note, ma
+rigenera il corpo dell'episodio e può perdere sinossi e note normalizzate già revisionate.
+
+Il passaggio corretto è `scripts/promote-edited-episode.py`, da eseguire dal repo Hugo. Lo script è
+dry-run di default e copia solo con `--apply`:
+
+```bash
+python3 scripts/promote-edited-episode.py --episode 78 --source "/Users/filippostrozzi/Library/Mobile Documents/com~apple~CloudDocs/01 - podcast/A2/078"
+python3 scripts/promote-edited-episode.py --episode 78 --source "/Users/filippostrozzi/Library/Mobile Documents/com~apple~CloudDocs/01 - podcast/A2/078" --apply
+```
+
+Copia esclusivamente `index.md` e SRT nei percorsi Hugo, crea il page bundle se manca e rifiuta
+sovrascritture senza `--force`. Il CSV capitoli resta nella cartella sorgente perché serve solo
+per inserirlo nell'MP3. Dopo `--apply` esegue la build Hugo e, se disponibile,
+`scripts/test-site.py --no-build`. Non copia audio e non fa commit/push.
+
+---
+
 ## Struttura file completa
 
 ```
@@ -122,6 +143,7 @@ a2podcast/
 │   └── trascrizioni/                # file SRT trascrizioni (ep-NN.srt)
 ├── scripts/
 │   ├── ingest.py                    # genera content/episodi/ da RSS + note MD
+│   ├── promote-edited-episode.py    # promuove index/SRT da cartella iCloud editata
 │   ├── enrich.py                    # arricchisce frontmatter (description/tags/guest) via Claude CLI
 │   ├── tag-episodes.py              # aggiunge tag agli episodi via Claude API
 │   ├── match-youtube.py             # associa video YouTube agli episodi (interattivo o --apply)

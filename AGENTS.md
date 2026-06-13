@@ -52,6 +52,22 @@ Prima di implementare qualsiasi soluzione custom (partial, CSS, JavaScript), ver
 4. `git add content/episodi/NN/ && git commit -m "ep: Ep. NN: Titolo"`
 5. `git push` → Cloudflare Pages rebuild automatico (~1 min)
 
+## Workflow: promuovere episodio editato da iCloud
+
+Usare questo flusso quando una puntata è già stata arricchita/revisionata in una cartella di lavoro
+tipo `/Users/filippostrozzi/Library/Mobile Documents/com~apple~CloudDocs/01 - podcast/A2/078`.
+Non rilanciare `ingest.py`: sovrascriverebbe il corpo arricchito dell'episodio.
+
+```bash
+python3 scripts/promote-edited-episode.py --episode 78 --source "/Users/filippostrozzi/Library/Mobile Documents/com~apple~CloudDocs/01 - podcast/A2/078"
+python3 scripts/promote-edited-episode.py --episode 78 --source "/Users/filippostrozzi/Library/Mobile Documents/com~apple~CloudDocs/01 - podcast/A2/078" --apply
+```
+
+Il primo comando è dry-run. Il secondo copia solo `index.md` e SRT, valida front
+matter/description/H1/SRT, rifiuta sovrascritture senza `--force`, poi esegue build Hugo e test
+locali disponibili. Il CSV capitoli resta nella cartella sorgente perché serve solo per l'MP3.
+Non copia audio, non esegue `ingest.py`, non fa commit o push.
+
 ## Workflow: aggiungere trascrizione
 
 1. Carica il file SRT su Spreaker (dashboard episodio)
@@ -95,6 +111,7 @@ Richiede `ANTHROPIC_API_KEY` nell'ambiente. Installa con `pip3 install anthropic
 | `static/css/style.css` | tutto il CSS (~1100 righe) |
 | `static/_headers` | HTTP headers Cloudflare (CSP, HSTS) |
 | `scripts/ingest.py` | ingestione episodi da RSS |
+| `scripts/promote-edited-episode.py` | promozione controllata di episodi già editati |
 
 ---
 

@@ -22,9 +22,10 @@ Sei l'assistente editoriale di **A2 Podcast** (a2podcast.it), condotto da **Fili
 Mac, iPhone, iPad, automazioni, workflow, produttività, con ospiti.
 
 **Obiettivo:** dato l'SRT di un episodio, aggiungere alla sua pagina una **sezione Note
-dell'episodio normalizzata con link verificati** e una **sinossi dettagliata per capitoli
-numerati**, con citazioni brevi dalla trascrizione, per rendere la pagina più ricca
-(SEO + lettori) senza toccare ciò che già funziona.
+dell'episodio normalizzata con link verificati**, generare un **CSV capitoli per Podcast
+Chapters** e una **sinossi dettagliata per capitoli numerati**, con citazioni brevi dalla
+trascrizione, per rendere la pagina più ricca (SEO + lettori) senza toccare ciò che già
+funziona.
 
 **Progressive disclosure:** carica i file `references/` solo quando arrivi alla fase relativa.
 
@@ -48,6 +49,7 @@ Questi punti distinguono A2 da altri podcast — verificali sempre:
 | Chiusure | NON concludere i capitoli o la sinossi con frasi retoriche/generiche tipo "il risultato è...", "un workflow da artigiano", "una fotografia di...", "il valore della puntata sta...". L'ultimo capitolo deve riassumere l'ultimo argomento reale della trascrizione. |
 | Citazioni | Inserire citazioni brevi, virgolettate e verificate dalla trascrizione, in blockquote, quando contengono una perla o una formulazione forte. |
 | Heading sezioni | **`## ` (H2) o inferiore. MAI `# ` (H1)**: la pagina ha già un solo H1 (il titolo, dal template). Un H1 nel corpo è un bug SEO. |
+| CSV capitoli | Genera un CSV per Podcast Chapters con sole righe capitolo e senza metadata. Formato: `Titolo capitolo,MM:SS,URL`, oppure `Titolo capitolo,HH:MM:SS,URL` per puntate da almeno 1 ora. |
 | `description` | max **300 caratteri** (vincolo del sito). Non allungarla oltre. |
 | Player / badge | NON inserire badge o player nel markdown: il template A2 rende già il player Spreaker e l'iframe YouTube. |
 | Newsletter | A2 **non ha** newsletter. Non aggiungere inviti all'iscrizione. |
@@ -63,8 +65,10 @@ Questi punti distinguono A2 da altri podcast — verificali sempre:
 | 0 | Individua episodio e file | — (sotto) |
 | 1 | Correzione SRT + estrazione passaggi/citazioni | `references/correzione-srt-a2.md` |
 | 2 | Ricerca e verifica link delle cose citate | `references/ricerca-link.md` |
-| 3 | Sinossi dettagliata, densa e proporzionata | `references/sinossi-a2.md` |
-| 4 | Merge nel file episodio | `references/merge-episodio-a2.md` + `references/tags-a2.md` |
+| 3 | CSV capitoli per Podcast Chapters | `references/csv-capitoli-a2.md` |
+| 4 | Sinossi dettagliata, densa e proporzionata | `references/sinossi-a2.md` |
+| 5 | Merge nel file episodio | `references/merge-episodio-a2.md` + `references/tags-a2.md` |
+| 6 | Promozione nel sito Hugo | `references/promozione-hugo-a2.md` |
 
 ## Fase 0 — Individua episodio e file
 
@@ -90,7 +94,13 @@ trascrizione sia dalle note esistenti e trova/verifica gli URL ufficiali. Questi
 la sezione `## Note dell’episodio` e i link inline della sinossi. Se non puoi verificare un
 URL, non fingere: marca `DA_VERIFICARE`.
 
-## Fase 3 — Sinossi
+## Fase 3 — CSV capitoli
+
+Leggi `references/csv-capitoli-a2.md`. Genera il CSV capitoli nella cartella episodio grezza,
+con nome `NN/ep-NN-chapters.csv`. Non salvarlo nel repo Hugo: serve per inserirlo nell'MP3,
+non per il sito.
+
+## Fase 4 — Sinossi
 
 Leggi `references/sinossi-a2.md`. Scrivi tu la sinossi dettagliata per capitoli H3 numerati,
 allineati ai cambi argomento della Fase 1. Deve essere un riassunto bilanciato della trascrizione,
@@ -102,11 +112,17 @@ Il numero di capitoli dipende dagli argomenti reali, non da un valore fisso. Min
 1000 parole, da aumentare per episodi lunghi o densi. Non creare capitoli finali di sintesi o
 morale.
 
-## Fase 4 — Merge nel file episodio
+## Fase 5 — Merge nel file episodio
 
 Leggi `references/merge-episodio-a2.md` e `references/tags-a2.md`. Fondi sinossi e link
 nell'`index.md` esistente rispettando tutti i vincoli A2 sopra. Proponi (non imporre) eventuali
 tag mancanti in kebab-case. Mostra il diff/risultato come checkpoint finale.
 
-> Dopo il merge: ricordare all'utente di eseguire `hugo --gc --minify` e committare
-> (`ep: Ep. NN: arricchimento sinossi e link`).
+> Dopo il merge nella cartella di lavoro, fermarsi. La promozione nel sito Hugo è una fase separata
+> e richiede OK esplicito dell'utente.
+
+## Fase 6 — Promozione nel sito Hugo
+
+Leggi `references/promozione-hugo-a2.md`. Usa lo script `scripts/promote-edited-episode.py` solo
+dopo revisione finale e OK esplicito dell'utente. Prima mostra il dry-run; poi, solo se richiesto,
+riesegui con `--apply`. Non fare commit né push come parte di questa fase.
