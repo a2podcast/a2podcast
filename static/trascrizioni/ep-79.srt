@@ -1,0 +1,875 @@
+1
+00:00:01,840 --> 00:00:07,040
+A due podcast scopri come ottenere il massimo dalla tua tecnologia Apple.
+
+2
+00:00:07,040 --> 00:00:28,240
+Due professionisti, Filippo e Roberto, te lo spiegano con argomenti monotematici ed ospiti che raccontano il loro flusso di lavoro, benvenuti all'episodio 79 di A2 in cui scoprirete come ottenere il massimo dalla vostra tecnologia Apple.
+
+3
+00:00:28,240 --> 00:00:32,960
+Io sono Roberto Marin e sono il vostro ospite assieme all'amico Filippo Strozzi.
+
+4
+00:00:32,960 --> 00:00:48,960
+Di cosa parliamo in questo episodio, quanto tempo, Roberto che non ci sentiamo, da tantissimo, quasi un mancamento di luce dalla mia zona, e una chiamata irresistibile dalla tua.
+
+5
+00:00:48,960 --> 00:00:54,560
+Insomma, alla fine della puntata precedente a questa è passato circa due minuti.
+
+6
+00:00:54,560 --> 00:01:00,320
+Tempo che si riprendesse tutta la parte almeno mia tecnologica perché ci stanno elettrica, e quant'altro.
+
+7
+00:01:00,800 --> 00:01:06,880
+Ma siamo in un periodo concreto dove sono previsti forti temporali al nord.
+
+8
+00:01:06,880 --> 00:01:13,040
+Siamo siamo sempre, diciamo, in registrazione a metà inizi giù a 10 di giugno.
+
+9
+00:01:13,040 --> 00:01:13,200
+Dai.
+
+10
+00:01:13,680 --> 00:01:15,200
+Diamo dei riferimenti.
+
+11
+00:01:15,200 --> 00:01:16,800
+Riferimenti temporali.
+
+12
+00:01:16,800 --> 00:01:18,160
+È finita la scuola.
+
+13
+00:01:18,160 --> 00:01:19,440
+Esatto, è finita la scuola.
+
+14
+00:01:19,440 --> 00:01:20,320
+È finita la scuola.
+
+15
+00:01:20,320 --> 00:01:23,520
+Quindi, nella sostanza a due podcast è ripreso.
+
+16
+00:01:23,520 --> 00:01:24,880
+Diciamo che appunto.
+
+17
+00:01:24,880 --> 00:01:31,200
+Oggi dovevamo registrarne una puntata, ma visto un po' di problematiche che ci sono state.
+
+18
+00:01:31,440 --> 00:01:35,040
+Nel corso della puntata mettiamola in questi termini.
+
+19
+00:01:35,040 --> 00:01:40,320
+Abbiamo deciso che ne registriamo due saranno due puntate brevi a questo punto.
+
+20
+00:01:40,320 --> 00:01:42,560
+Sono due puntate brevi a questo punto.
+
+21
+00:01:42,560 --> 00:01:46,800
+E l'oggetto di questa puntata invece sarà un breve recap.
+
+22
+00:01:46,800 --> 00:01:54,480
+Diciamo, di siccome sono passati due anni e due anni e mezzo dall'ultima volta che ci siamo sentiti.
+
+23
+00:01:54,480 --> 00:01:57,920
+Un po' quella la tecnologia che utilizziamo attualmente.
+
+24
+00:01:57,920 --> 00:02:09,960
+Mettiamola in questi termini, e io direi a questo punto di cercare di fare un cosiddetto round robin, come lo chiamano gli americani, cioè un po' un po' te raccontiamo come siamo messi.
+
+25
+00:02:10,360 --> 00:02:15,160
+Inizi tu, che ne hai da raccontare, io di ribattere in qualche modo.
+
+26
+00:02:15,480 --> 00:02:26,600
+Allora innanzitutto, il 2026 è stato un anno particolare, nel senso che se gli anni scorsi ho tirato fino all'ultimo i miei Mac Intel.
+
+27
+00:02:26,600 --> 00:02:35,800
+Quest'anno a seguito anche di effettivamente offerte vantaggiose, ho sostituito: meglio, ho prima acquistato.
+
+28
+00:02:35,800 --> 00:02:46,200
+Perché poi nella sostanza il mio sistema è abbastanza particolare, mettiamola in questi termini, ma ho acquistato prima un Mac Mini M4.
+
+29
+00:02:46,200 --> 00:02:56,680
+Che originariamente ho utilizzato per lavorare quindi che era sul mio standing desk e sulla mia postazione, che in parte modificata se modificata nel tempo.
+
+30
+00:02:57,320 --> 00:02:59,640
+Ne abbiamo parlato in puntate precedenti.
+
+31
+00:02:59,640 --> 00:03:39,720
+Ne ho parlato più in dettaglio, adesso poi, se me lo ricordo, l'episodio, metterò anche i riferimenti ad Avocati Compendium, dove invece ho parlato proprio in dettaglio, diciamo, dello standing desk e del mio studiolo, attualmente il McMini M4 è diventato il mio piccolo server, mettiamolo in questi termini, collegato direttamente alla fibra, quella che Roberto non sa cos'è e che mi permette poi di sostanzialmente utilizzare questo computer da remoto in qualsiasi occasione, sia da mobile, mettiamola così, quindi sia sul portatile sia sull'iPad, per esempio.
+
+32
+00:03:39,720 --> 00:03:59,040
+Ma addirittura per chiudere il cerchio e per semplificarmi la vita, questo computer anche quando sono in casa, diciamo quando lavoro da casa, mi collego semplicemente per esempio fare i depositi telematici, c'è tutta la parte dedicata al lavoro, al backup di tutti i file di lavoro e così via.
+
+33
+00:03:59,040 --> 00:04:06,800
+Ho creato un sistemino per cui c'è un artist dedicato a tutte le posizioni di lavoro e poi un artist dedicato a time machine per il backup.
+
+34
+00:04:06,800 --> 00:04:12,800
+Ma qui lo dico qui lo nego, molto probabilmente faremo una puntata aggiornata sui backup.
+
+35
+00:04:12,800 --> 00:04:32,000
+Perché effettivamente mentre facevo la rivisitazione del sito di cui abbiamo parlato la puntata scorsa e guardavo un po' le puntate, effettivamente ci sono tutta una serie di cose che ormai hanno 3-4 anni sulle loro spalle sono appunto evergreen, ma effettivamente una ripresa più moderna.
+
+36
+00:04:32,000 --> 00:04:34,320
+Diciamo potrebbe essere comodo.
+
+37
+00:04:34,320 --> 00:04:45,680
+Come dicevamo nella puntata scorsa, stiamo ancora decidendo cosa la scaletta vera e propria di tutte le prossime puntate, ma intanto butto l'idea e spunti anche per Roberto.
+
+38
+00:04:45,680 --> 00:04:53,520
+Nel mentre, come con i due podcast, sono passato anch'io con il mio podcast Compendium a Ranta Radio.
+
+39
+00:04:53,520 --> 00:05:10,000
+Quindi ormai sia io che Roberto siamo nel mondo run time, anziché ringraziamo come al solito per l'ospitalità, e apro chiusa una piccola parentesi: ma dovreste sentire all'inizio o alla fine delle puntate della pubblicità.
+
+40
+00:05:10,000 --> 00:05:14,160
+È una pubblicità che ci serve per mantenere poi tutta la baracca, mettiamola così.
+
+41
+00:05:14,160 --> 00:05:25,000
+E ovviamente se volete contribuire a questi progetti, potete donare qualche cosina a runtime per fare ovviamente funzionare tutto il sistema.
+
+42
+00:05:25,000 --> 00:05:40,040
+Perché ovviamente ospitare podcast e tutto il resto a dei costi di infrastruttura, e quindi, ovviamente, sarebbe carino, apprezzato, diciamo, ovviamente dove è possibile farlo, una vostra contribuzione.
+
+43
+00:05:40,040 --> 00:05:53,240
+Certo, questo come dico anche sul mio podcast, noi utilizziamo la pubblicità perché c'è un piccolissimo ritorno economico per quanto riguarda il mantenimento dei server e del servizio di spreaker.
+
+44
+00:05:53,240 --> 00:05:55,880
+E ovviamente chi può fare una donazione.
+
+45
+00:05:56,200 --> 00:05:56,840
+Benvenuto.
+
+46
+00:05:56,840 --> 00:06:04,440
+Io, per esempio, ho fatto una lista di donatori direttamente per il mio canale Snap, si chiamano Pro Snapper.
+
+47
+00:06:04,600 --> 00:06:29,080
+Chissà che magari ci inventi anche noi qualche formula riconosciva per chi vorrà donare a runtime passando dai nostri canali o anche direttamente a time e ricordatevi solo di dire che fate riferimento a due post a due podcast, che è sempre utile capire da dove arrivano alla monetizzazione, ma anche perché riusciamo poi a ringraziarli in puntata, che è una cosa del tutto dovuta.
+
+48
+00:06:29,080 --> 00:06:31,480
+Vi ricordo che questo podcast è fatto.
+
+49
+00:06:31,480 --> 00:06:36,520
+Diciamo come spirito divulgativo, non veniamo pagati da nessuno.
+
+50
+00:06:36,760 --> 00:06:41,320
+Quindi, se ci volete anche offrire un semplice caffè, ci aiuterebbe davvero tantissimo.
+
+51
+00:06:41,320 --> 00:06:49,080
+E oltretutto, se divulgate il verbo, se fate aumentare gli ascolti, ovviamente con questo ci aiutate tantissimo.
+
+52
+00:06:49,080 --> 00:07:07,480
+Sotto, con le recensioni su podcast o anche su Spotify, in ogni caso, facciamo rinascere questo podcast, soprattutto dalla parte degli ascolti, che sono stati, secondo me, molto alti, non ci aspettavamo una risposta di questo tipo, e siamo molto contenti.
+
+53
+00:07:07,480 --> 00:07:07,960
+Entrambi.
+
+54
+00:07:07,960 --> 00:07:13,400
+Quindi, ritorniamo, veramente con nuova energia, soprattutto tanto ottimismo.
+
+55
+00:07:13,400 --> 00:07:15,920
+E speriamo che sia ricompensato in qualche modo.
+
+56
+00:07:15,920 --> 00:07:20,960
+Dunque, se abbiamo capito bene, il nostro Filippo ha cambiato un po' di hardware.
+
+57
+00:07:20,960 --> 00:07:36,800
+Ma secondo me, il nostro Filippo non ce l'ha raccontata tutta perché probabilmente si è dimenticato di raccontarci dei suoi dispositivi mobili, perché io, dal punto di vista di dispositivi fissi, per quanto possa essere fisso, il mio portatile, ma diciamo dal punto di vista del computer, non è cambiato assolutamente nulla.
+
+58
+00:07:36,800 --> 00:07:59,440
+Dalla puntata che avevamo registrato proprio qua a casa mia, assieme a Filippo, diciamo in viva presenza, vivo voce in presenza, sempre il mio MacBook Air M2 che ha suscitato una serie di improperio verso Apple, quando ha fatto uscire il MacBook Air M3.
+
+59
+00:07:59,440 --> 00:08:05,120
+Ma questo purtroppo è come sempre con il segno del poi ci si fa poco.
+
+60
+00:08:05,120 --> 00:08:33,920
+Io rimango col mio M2, dall'altra parte, però, c'è da dire che mi aspettavo l'M3, che ha preso in carico 16 GB di RAM che invece il mio ne ho 8, nonostante io in questo momento non riesca a renderene conto che ne abbia 8 e non trovo rallentamenti, comunque, mi avrebbe fatto piacere averne 16 allo stesso prezzo con un processore migliore, soprattutto perché questo processore ha preso in mano il ray tracing hardware.
+
+61
+00:08:33,920 --> 00:08:46,880
+Che, nonostante non ci sia alcun software che in questo momento lo utilizzi a parte un paio, ma non sono all'interno della sfera dei software preferiti dagli architetti.
+
+62
+00:08:46,880 --> 00:08:54,640
+Quindi, è come se non ce l'avessi, dei software che utilizza il ray tracing, in questo momento è come se non ci fosse questa funzionalità.
+
+63
+00:08:54,720 --> 00:08:57,680
+Quindi, da una parte mi fa piacere, da una parte, dispiacere.
+
+64
+00:08:57,680 --> 00:09:01,160
+In ogni caso, la tecnologia è andata avanti in questi anni.
+
+65
+00:08:59,920 --> 00:09:03,960
+Siamo arrivati all'M5 e Filippo.
+
+66
+00:09:04,200 --> 00:09:09,560
+So che, oltre all'hardware che è cambiato adesso, so che ha delle mire espansionistiche.
+
+67
+00:09:09,880 --> 00:09:18,920
+Sì, nella sostanza, nel corso dell'anno ho acquistato sia il MacBookare M4 perché era sotto 1000 euro.
+
+68
+00:09:18,920 --> 00:09:31,880
+Credo e effettivamente devo dirti: l'anno scorso credo di avere preso l'M4 e effettivamente è una macchina eccezionale, nel senso che a un circo migliaio di euro effettivamente fa tantissime cose.
+
+69
+00:09:31,880 --> 00:09:34,360
+Ne parlavamo in varie occasioni.
+
+70
+00:09:34,360 --> 00:09:47,720
+Io fatto addirittura una diretta streaming dalla montagna solo con il MacBook Air e il telefono ha gestito tutto tra cancellazione rumore, microfoni, videocamera e quant'altro.
+
+71
+00:09:47,720 --> 00:09:55,000
+Quindi sono rimasto veramente stupito da questa piccola macchina, che, però, effettivamente è molto molto performante.
+
+72
+00:09:55,000 --> 00:10:07,800
+Poi recentemente da un mesetto che ce l'ho, ho fatto una cosa che dovevo fare da tempo, ma che non avevo voglia di fare, ovvero che ho preso l'IPPA Pro M5.
+
+73
+00:10:08,040 --> 00:10:20,520
+Questo perché io poi stavo con il mio iPad Pro 2018, quindi sono passati la bellezza di 8 anni sostanzialmente sono proprio 8, 7 anni e mezzo, mettiamola così.
+
+74
+00:10:20,760 --> 00:10:31,240
+Dal mio precedente iPad Pro a quello attuale, però, effettivamente il Part Pro 2018, che, peraltro, non è andato in disuso, ma semplicemente l'ho passata a mia moglie.
+
+75
+00:10:31,240 --> 00:10:32,600
+Mettiamo anche questi termini.
+
+76
+00:10:32,600 --> 00:10:41,480
+Effettivamente, c'era bisogno di fare un cambio e purtroppo invece l'iPad però costa una follia dal mio punto di vista.
+
+77
+00:10:41,960 --> 00:10:55,520
+Spoiler alert, ma nella sostanza, grosse novità per i Pados 27, non ce ne sono su questo fronte, quindi non ci sono stati delle migliorie eccezionali, mettiamola così.
+
+78
+00:10:55,840 --> 00:11:07,600
+Ci ho detto per tutta una serie di motivi, tra cui il fatto che io sono abituato comunque ad avere il FSI D sull'iPad che sono abituato a avere 13 pollici che per me diventa comodo.
+
+79
+00:11:07,680 --> 00:11:08,480
+Tutto il resto.
+
+80
+00:11:08,480 --> 00:11:24,480
+Ho torto collo, ho dato credo mille quasi 1400 euro ad Apple col nuovo iPad però che è effettivamente una bella macchina, ma devo dire la verità, attualmente, secondo me, non vale la pena rispetto per esempio al MacBook.
+
+81
+00:11:24,720 --> 00:11:34,720
+Quello dipende, dipende, secondo me da quello che ci sarà, le novità di Apple Intelligence Serie AI, vediamo un po' come se la cava con le novità.
+
+82
+00:11:35,680 --> 00:11:38,480
+Ma vediamo, vediamo se sarà la nozione.
+
+83
+00:11:38,480 --> 00:11:48,720
+No, no, no, io continuo a ripetere, pur amando l'iPad, è un oggetto che io tengo in mano quotidianamente, almeno una o due ora al giorno, ok.
+
+84
+00:11:48,960 --> 00:11:52,880
+Quindi, è uno strumento che amo, effettivamente, ecco, casomai.
+
+85
+00:11:53,120 --> 00:12:07,360
+Se Roberto vuole posso parlare della Pencil che mi ha stupito invece che ha veramente stupito, perché non mi interessa minimamente a livello professionale, ma a livello lobbistico, e soprattutto per l'editing dei podcast.
+
+86
+00:12:07,360 --> 00:12:38,840
+Io lo dico sempre: io edito qualsiasi tutti i miei podcast utilizzando ferrite, che è un'applicazione esclusivamente per iPad, Ferite funziona, ti permette anche di utilizzare l'Apple Pencil per fare i tagli e per modificare, diciamo, l'audio del editing audio e nella sostanza, appunto, essendo attività collaterali, come la chiamo io, lobbistica, avere l'Apple Pencil mi permette di, per esempio, fare editing sdraiato sul divano, sul letto e così via.
+
+87
+00:12:39,080 --> 00:12:51,640
+Poi collateralmente sono appassionato, o meglio, ero appassionato sul disegno veramente poco, comunque mi piaceva disegnare, e quindi sei troppo generoso, mettiamola così.
+
+88
+00:12:51,640 --> 00:12:58,520
+E devo ammettere che invece sul lato, diciamo disegno, l'Apple Pencil Pro è qualcosa di eccezionale.
+
+89
+00:12:58,520 --> 00:13:13,640
+Cioè, io già venivo dall'Apple Pencil, quindi è l'ultima chiamare la generazione per il precedente pro, ma devo dire la verità, questo adesso non mi viene il nome tecnico giusto, ma tra il fatto che si avvicini la pencil il cursore del disegno si vede.
+
+90
+00:13:13,640 --> 00:13:50,680
+Quindi tu riesci a vedere dov'è il cursore dove sta andando il cursore, sia proprio la sensibilità della pencil, quindi la capacità di trasferire il tratto sul vetro, mettiamola così, sia che devo dire la verità, gli davo poco, mettiamola in questi termini, la possibilità di feedback attico della penna e quindi la possibilità di premere, chiamiamo così la penna e avere un effetto vibrazione che ti restituisce una sensibilità alla penna, e quindi anche la possibilità poi di modificare i pennelli, per esempio, o comunque strumenti che stai utilizzando disegnando.
+
+91
+00:13:50,680 --> 00:13:55,800
+Io prevalentemente uso Procreate quindi parlo prevalentemente di quello.
+
+92
+00:13:55,800 --> 00:14:02,240
+Devo dire la verità: se lo facessi a livello professionale o comunque lo facesse a livello ci dedicasse più tempo.
+
+93
+00:14:02,240 --> 00:14:16,160
+Anche se nei miei programmi bellicosi, dovrei dedicarne dedicare più tempo anche al disegno, devo dire la verità: è un oggetto notevole perché ti permette di fare cose che precedentemente non riuscivo a fare o non riuscivo a fare nella stessa maniera.
+
+94
+00:14:15,000 --> 00:14:22,320
+Sì, è un ottimo hardware e sono convinto che sia quella strada giusta.
+
+95
+00:14:22,400 --> 00:14:28,080
+Perché la Pencil ha fatto un grossissimo passo in avanti con le nuove iterazioni.
+
+96
+00:14:28,080 --> 00:14:44,240
+Tuttavia, c'è da dire che io sono convinto che ci sarà un futuro interessante anche per l'iPad, non magari quest'anno, ma magari il prossimo vedremo qualcosa di ancora più interessante con i sistemi operativi, da quel che pare dalle fantasie che mi sono fatto.
+
+97
+00:14:44,240 --> 00:14:52,080
+Ma in ogni caso, tornando con i piedi per terra, c'è da dire che in effetti, il MacBook Care è una macchina molto interessante.
+
+98
+00:14:52,080 --> 00:15:09,920
+Perché avendo preso spunto da quello che aveva fatto Filippo, semplicemente aprire il MacBookare e fare un video in diretta, ho preso la palla al balzo e anche il coraggio, e ho trasformato il podcast Snap Architettura Imperfetta in un video podcast.
+
+99
+00:15:09,920 --> 00:15:20,240
+Appunto, partendo da questo assunto, cioè registrando con la webcam del mio MacBook Care giusto per iniziare a impratichirmi e fare un po' di esperimenti.
+
+100
+00:15:20,240 --> 00:15:26,800
+E insomma, sarà quasi un anno a questo punto, sto portando avanti il podcast anche in video.
+
+101
+00:15:27,040 --> 00:15:34,880
+Sto divertendo in questo momento, anche perché è successa una cosa strana, particolare che mi ha accelerato il workflow.
+
+102
+00:15:34,960 --> 00:15:35,680
+Questo perché?
+
+103
+00:15:35,680 --> 00:15:51,680
+Perché essenzialmente registrando buona la prima, in diretta video essenzialmente, in qualche modo mi sono dato una reinquadrata, e non devo fare praticamente più tagli alla parte audio, chiamiamola così, perché mi occupo della parte video.
+
+104
+00:15:51,840 --> 00:15:55,600
+La parte video diventa anche un po' più interessante per quanto riguarda l'architettura.
+
+105
+00:15:55,560 --> 00:16:05,160
+Perché quando capita, metto all'interno le immagini che mi servono, sia parlando di tecnologia, sia parlando di architettura, quindi diventa qualcosa di un po' più fruibile.
+
+106
+00:16:05,160 --> 00:16:24,520
+Secondo il mio punto di vista mi diverto anche sotto questa parte, e quindi poi, diciamo, il contenuto video podcast, si trasforma in podcast facilmente perché basta esportarlo in formato audio e quindi riesco a fare un lavoro solo e ottengo due contenuti, e per me è stato veramente una scoperta.
+
+107
+00:16:24,520 --> 00:16:27,640
+Ho lottato un po' con l'illuminazione.
+
+108
+00:16:27,640 --> 00:16:40,120
+Qui arriva uno degli upgrade che ho fatto recentemente: mi sono preso una soft box apposita per fare i video podcast, consigliata da Alex Racuglia che ringrazio sentitamente per il consiglio.
+
+109
+00:16:40,120 --> 00:16:43,640
+Che mi ha aiutato anche tra l'altro per l'acquisto.
+
+110
+00:16:43,640 --> 00:16:44,840
+Ed è molto interessante.
+
+111
+00:16:44,840 --> 00:17:01,240
+Perché, finalmente, tra una cosa l'altra, torna a prova, l'altra, confrontarmi anche con Daniele Borgi del tirato del podcast del tiraline, ma anche per chi segue Snap, è uno degli imperfetti, mi ha aiutato un po' a dare qualche dritta sull'illuminazione come creare l'illuminazione corretta.
+
+112
+00:17:01,240 --> 00:17:06,040
+Finalmente, proprio in questi giorni di giugno, sono arrivato una quadra che mi soddisfa.
+
+113
+00:17:06,040 --> 00:17:09,480
+E finalmente, diciamo che il reparto video l'ho risolto.
+
+114
+00:17:09,480 --> 00:17:15,800
+Quindi, da questo punto di vista, fatto il reparto video di Snap, architettura imperfetta, sono un po' più sul pezzo.
+
+115
+00:17:15,800 --> 00:17:19,080
+Purtroppo, come dice il nostro Filippo, mi manca la banda.
+
+116
+00:17:19,080 --> 00:17:30,360
+Quindi, non posso neanche andare in diretta con i video, la cosa mi incomincia a darmi un po' fastidio realmente, perché, oltre ad avere questo problema di andare in diretta, c'è anche il caricamento dei video.
+
+117
+00:17:30,600 --> 00:17:37,800
+Che, comunque ridendo e scherzando, io ho provato a mandarli in bassa qualità e me la cavo abbastanza bene.
+
+118
+00:17:37,800 --> 00:17:58,800
+Il problema è che il risultato da chi guarda il video, non è che sia proprio eccellente, e quindi, per mandare una semplice puntata di un video podcast di 20 minuti, sono 3 giga che passano tranquillamente da caricare e non è proprio bellissimo per quanto mi riguarda, perché alla fine devo farlo fuori di casa per forza di cose, mi devo appoggiare alla rete cellulare.
+
+119
+00:17:58,800 --> 00:18:04,800
+Ma detto questo, e visto che parliamo di cellulari, mi parlo ancora del mio recentissimo upgrade.
+
+120
+00:18:04,800 --> 00:18:23,040
+Se vi ricordate, ho lavorato fino a poco tempo fa con il mio glorioso iPhone 11 che ha tenuto botta fino a poco tempo fa e l'ho dovuto sostituire non perché si è fermato, ma perché qualcuno in casa riceverà un cellulare per regalo di promozione, questo perché?
+
+121
+00:18:23,040 --> 00:18:35,920
+Perché giustamente il più piccolo della casa, come è stata per la più grande della casa dei figli, una volta conclusa le medie, sono riuscito a tenere botta e non dargli i cellulari fino alla fine della prima media.
+
+122
+00:18:35,920 --> 00:18:44,480
+Quindi adesso è arrivato proprio in questi giorni la fine della prima media, quindi ho cambiato il mio iPhone 11 che passerà quindi poi a lui.
+
+123
+00:18:44,480 --> 00:18:53,440
+Giustamente perché, essendo l'ultima diciamo della catena dei passaggi dei cellulari in casa, gli arriva l'ultimo il più vecchio.
+
+124
+00:18:53,440 --> 00:19:22,080
+Così almeno si fa le ossa, e se per caso lo spacco, glielo lo rubano, nessuno si mette a piangere in turco ottomano, o per lo meno, non si fa fregare un iPhone 17, giusto per dare dei numeri e invece, io, come sempre, mi sono tenuto con volo basso perché io ho un'idea di prezzo di quello che potrebbe essere un cellulare come ordine di grandezza di prezzo, ho acquistato un iPhone 14 ricondizionato, sto provando, lo sto utilizzando.
+
+125
+00:19:22,080 --> 00:19:45,880
+Intanto ha più spazio rispetto al precedente iPhone, questo è tanta roba, ma soprattutto dal punto di vista delle fotocamere, è decisamente un altro pianeta rispetto all'11, e tant'è che adesso recentemente sono passato appunto a registrare direttamente con l'iPhone 14 invece che la webcam del Medbookare e la qualità è decisamente migliore.
+
+126
+00:19:45,960 --> 00:19:52,680
+Anche la resa, soprattutto delle luci, la ripresa è decisamente meno piatta rispetto alla webcam ed è anche giusto che sia così.
+
+127
+00:19:52,680 --> 00:20:17,080
+Insomma, la webcam non è fatto per questo, ma l'iPhone 14 sta regalando grandissime soddisfazioni, anche perché ha il collegamento, come si dice satellitare, chissà che magari un giorno di questi non usi direttamente il mio iPhone 14 per fare il collegamento internet, non credo, non credo, non credo quello attualmente non credo che ci sia la possibilità di fare questo, mettiamolo così.
+
+128
+00:20:17,080 --> 00:20:37,800
+No, purtroppo no, però, chissà, in un futuro la tecnologia va avanti, magari un carrier si darà la banda ai personaggi che sono dispersi nel mondo come me dove arriva la DSL con i cricetti, lo ripeto, devi andare da Starlink, non c'è nient'altro da fare, è l'unica.
+
+129
+00:20:38,120 --> 00:20:52,600
+È l'unica strada, se non ancora i collegamenti radio di Bibelle che sto valutando in corso d'opera, ma anche lì non sono illuminato sufficientemente ho paura, perché ho visto dove sono i ripetitori.
+
+130
+00:20:52,600 --> 00:21:09,000
+Mi sa che rimane solo il cielo, oppure portami la fibra direttamente perché io lo ricordo ai nostri amici di team, compagnia cantante, compreso Fibber Cop che io ho un tombino della fibra a circa 500 metri da casa mia.
+
+131
+00:21:09,000 --> 00:21:13,000
+E maledizione se mi è collegano a quel cacchio di tombino.
+
+132
+00:21:13,000 --> 00:21:17,520
+Bisogna andare lì, pregare in turco ottomano, quasi quasi sai cosa vi dico?
+
+133
+00:21:14,760 --> 00:21:21,840
+Io me lo vado ad attaccare, lo porto io fisicamente, mi costa di meno.
+
+134
+00:21:22,080 --> 00:21:24,160
+Mi faccio, lo scavo, lo porto là.
+
+135
+00:21:24,160 --> 00:21:34,960
+Tanto sono un architetto, me la cavo, chiedo le cose che devo chiedere ai vari comuni, e mi collego alla fibra del comune limitrofo, così li frego tutti.
+
+136
+00:21:35,680 --> 00:21:39,920
+Secondo me forse la soluzione migliore a meno che tu non vuoi.
+
+137
+00:21:39,920 --> 00:21:44,560
+Secondo me spendi di meno a Starlink, io te lo ripeto da un po', ma comunque ci ho detto.
+
+138
+00:21:44,560 --> 00:21:47,040
+No, sai perché Starlink mi ha fermato?
+
+139
+00:21:47,040 --> 00:21:50,400
+Perché c'è una piccola spesa che nessuno ha preso in considerazione.
+
+140
+00:21:50,400 --> 00:22:00,160
+È vero, che invece sono andato un po' a indagare, ma perché giustamente l'offerta non è male, cioè è interessante, ma c'è un piccolo problema, che è il consumo elettrico.
+
+141
+00:22:00,160 --> 00:22:04,000
+Il consumo elettrico è come avere un boiler.
+
+142
+00:22:04,000 --> 00:22:10,960
+No, è più che altro perché da te c'è freddo e si scalda, quando c'è troppo freddo, si scalda, per sciogliere la neve, quelle cose.
+
+143
+00:22:11,280 --> 00:22:15,120
+È come avere un boiler in casa che ti lavora 24 ore su 24.
+
+144
+00:22:15,520 --> 00:22:25,920
+Francamente quello che spendo di infrastruttura, poi devo aggiungere anche la spesa che riguarda un boiler che consuma continuamente.
+
+145
+00:22:25,920 --> 00:22:38,880
+Non è che il boiler è come quelli che ci sono adesso da acqua calda, scaldano l'acqua quando serve, quelli è in continua funzione perché tu ce l'avresti attaccato 24 ore su 24 e la spesa non è proprio diciamo trascurabile.
+
+146
+00:22:38,880 --> 00:22:43,360
+In questo caso, fai anche i pannelli e tacca, è finito tutto.
+
+147
+00:22:43,520 --> 00:22:44,720
+Diventi.
+
+148
+00:22:45,120 --> 00:22:52,000
+Io ti do le soluzioni, autonomo, devo solo tappezzare la casa di pannelli, solo questo.
+
+149
+00:22:52,080 --> 00:22:58,400
+Io, per esempio, ci sto pensando seriamente di fare i pannelli da balcone, però sì, sì, sì, anch'io.
+
+150
+00:22:58,400 --> 00:23:01,000
+Quelli sono interessanti, poca spesa massima resa.
+
+151
+00:23:01,240 --> 00:23:27,320
+Sto pensando molto perché appunto, la tecnologia ha un grosso difetto energivora, e effettivamente, per mille motivi, anche io ho delle bollette abbastanza salate elettriche attualmente, sto valutando anche io come ottimizzare queste cose, poi ottimizzare una parola grossa, mettiamola così: come cercare di ridurre le spese, mettiamola nel vero senso della parola.
+
+152
+00:23:27,320 --> 00:23:31,720
+Invece, a proposito di ottimizzazione, so che è ottimizzato, però, la tua postazione.
+
+153
+00:23:31,720 --> 00:23:35,640
+Allora, sì, diciamo che ho fatto tutta una serie di piccole modifiche.
+
+154
+00:23:35,640 --> 00:23:38,120
+Adesso, dall'ultima volta che ne avevamo parlato.
+
+155
+00:23:38,120 --> 00:23:41,480
+Nella sostanza ho riorganizzato un po' tutto.
+
+156
+00:23:41,480 --> 00:23:44,520
+Quindi, ho messo un secondo computer.
+
+157
+00:23:44,520 --> 00:23:50,840
+Diciamo, meglio, ho messo il Mac Studio, comprato dal buon Matteo Scandolino che salutiamo.
+
+158
+00:23:50,840 --> 00:23:52,280
+Max Studio di Matteo Scandolino.
+
+159
+00:23:52,280 --> 00:23:55,640
+Secondo me c'è stata anche una puntata podcast dove parlava del Mac Studio.
+
+160
+00:23:55,640 --> 00:24:02,120
+Tra l'altro, l'ho comprato io, perché poi lui ha cambiato computer, ha preso un portatile e così via.
+
+161
+00:24:02,120 --> 00:24:14,440
+E l'avevo utilizzato come chiamiamolo in questi termini server per l'intelligenza artificiale, poi mi sono reso conto che effettivamente avere un Mac Studio M1 con 32 GB di RAM era anche utile a livello generale.
+
+162
+00:24:14,440 --> 00:24:21,800
+Attualmente, io ti sto parlando dal mio Mac Studio, nel senso che il Mac Studio sta facendo le registrazioni, fa le dirette streaming e tutto il resto.
+
+163
+00:24:21,800 --> 00:25:06,800
+Quindi ho capacità computazionali di un certo tipo e posso fare anche intelligenza artificiale locale, mettiamola così, e in più sono tornato al mio vecchio nuovo, mettiamola così: microfono che è l'audiotecnica, per cui alla fine, riorganizzando tutta la scrivania, sono uscito a far stare anche Tascam, che sostanzialmente la periferica audio per collegare il microfono XLR, in più nel tempo ho acquistato vari sappettini, mettiamola in questi termini, secondo me ne abbiamo parlato anche di ultimissima puntata di Snap dove ero ospite, ho acquistato sia un teleprompter perché ho fatto e ho fatto sostanzialmente webinar e quindi diventava comodo avere anche il teleprompto.
+
+164
+00:25:06,800 --> 00:25:13,920
+E recentemente ho aggiunto due Stream Deck a due anni di distanza l'uno dall'altro.
+
+165
+00:25:14,160 --> 00:25:36,000
+Nella sostanza riesco a pilotare attualmente i due Mac, perché in pratica ho ancora il Mac 27 Pollici, Intel che uso, diciamo, come schermo per il Mac Studio e lo uso anche come computer secondario, dipende un po' come mi girano le cose, mettiamole in questi termini.
+
+166
+00:25:36,160 --> 00:25:44,000
+E quindi ho uno Stream Deck che è collegato all'IMAC, uno stream deck collegato al Mac Studio.
+
+167
+00:25:44,000 --> 00:25:48,000
+E poi anch'io una luce che però uso poco, devo dire la verità.
+
+168
+00:25:48,000 --> 00:26:18,640
+Quella forse è stato l'acquisto meno sensato che ho fatto, però, ogni tanto, soprattutto la sera o quando effettivamente c'è poca luce diventa comodo perché non l'ho detto, ma effettivamente anche i parm di Apple, permettono di fare tutta una serie di migliorie anche alla qualità video, per cui appunto creare con il Mac Studio riesco a avere sia l'effetto sfocato, diciamo, della telecamera in hardware, cioè software hardware, mettiamola così, sia quello che si chiama.
+
+169
+00:26:19,040 --> 00:26:46,200
+Ogni volta meno scordo come si chiama correttamente, ma praticamente ti permette di migliorare le luci quindi stage fotografico, una roba del genere, in pratica riesce a staccare meglio la persona dallo sfondo, mettiamolo in questi termini quindi fa con l'intelligenza artificiale, sostanzialmente estrappola la figura umano, e a quel punto lì rende lo sfondo più scuro e invece più vivido, diciamo, la figura.
+
+170
+00:26:46,200 --> 00:26:50,920
+Quindi si riescono a fare cose interessanti ed effettivamente ti semplifica molto la vita.
+
+171
+00:26:50,920 --> 00:26:55,080
+Il discorso luce e così via, fanno sempre comodo, mettiamola in questi termini.
+
+172
+00:26:55,160 --> 00:26:58,760
+Ma per situazioni video call normali non le uso quasi mai.
+
+173
+00:26:58,760 --> 00:27:04,280
+Eccolo, mettiamola in questi termini e in più recentissimamente lo standing desk funziona sempre.
+
+174
+00:27:04,600 --> 00:27:18,040
+Adesso, per esempio, sto registrando in piedi, ma ho aggiunto una specie di vassoio estraibile dove invece ho trackpad e tastiera per cui nella sostanza sono riuscito a recuperare un po' di spazio.
+
+175
+00:27:18,360 --> 00:27:23,000
+Ovviamente ho riempito in maniera vergognosa sullo standing desk.
+
+176
+00:27:23,000 --> 00:27:27,400
+Quindi, il tavolo, diciamo, è coperto di oggetti e di altre cose.
+
+177
+00:27:27,400 --> 00:27:34,520
+Invece, sostanzialmente questo ripiano che va sotto il tavolo, tiene solo la tastiera e il trackpad.
+
+178
+00:27:34,520 --> 00:27:38,200
+Quindi quando non devo utilizzare, per esempio, la tastiera o il trackpad.
+
+179
+00:27:38,200 --> 00:27:39,560
+La nascondo sotto il tavolo.
+
+180
+00:27:39,560 --> 00:27:49,080
+Ed essendo poi lo standing desk mobile, sostanzialmente ho dovuto solo modificare l'altezza dello standing desk, sia da seduto che da in piedi.
+
+181
+00:27:49,240 --> 00:27:53,080
+Sì, dal punto di vista, stavo pensando al punto di vista della mia schermania, è cambiato poco niente.
+
+182
+00:27:53,080 --> 00:28:00,440
+O perlomeno ho dovuto cambiare qualcosa per il semplice fatto che ho cambiato le lenti degli occhiali che sono diventate progressione.
+
+183
+00:28:00,520 --> 00:28:10,520
+La gioventù che avanza purtroppo anche la mia età e i miei occhi nei risentui, non solo su quello, anche sul fisico, ma questo ne parliamo poi in un altro momento.
+
+184
+00:28:10,520 --> 00:28:23,600
+Tuttavia, ho dovuto praticamente togliere tutti i rialzi che avevo dei video, compreso quello del Med Booker: nel senso che io li appoggiavo su praticamente dei piani rialzati, ce l'avevo abbastanza alti.
+
+185
+00:28:23,600 --> 00:28:30,000
+Invece, avendo queste lenti, mi costringeva quindi a una postura della testa un po' inclinata verso l'indietro.
+
+186
+00:28:30,000 --> 00:28:32,320
+Passo un giorno, passo una settimana, passo due settimane.
+
+187
+00:28:32,400 --> 00:28:37,120
+È cominciato a prendermi male al collo e quindi ho imparato ad abbassare tutto quanto.
+
+188
+00:28:37,120 --> 00:28:40,960
+E adesso va molto meglio, non più male al pollo e la situazione migliorata.
+
+189
+00:28:40,960 --> 00:28:54,080
+Questo qui è una delle diciamo delle poche modifiche che ho fatto alla mia situazione, diciamo della scrivania, come sentite, non è che Filippo, sì, perché è sempre lì che ottimizza.
+
+190
+00:28:54,080 --> 00:29:05,600
+Invece, io, tutto sommato, sono sempre più o meno nella stessa, chiamiamo bagna, diciamo così, però non nella stessa bagna per quanto riguarda la realizzazione di contenuti.
+
+191
+00:29:05,600 --> 00:29:20,800
+La realizzazione di contenuti è un po' ritornata a quella che era quella di due anni fa, quindi sono ritornato a fare il podcast Archicad Talks come conduttore, ha ripreso quest'anno nel 2026.
+
+192
+00:29:20,800 --> 00:29:38,640
+Siamo a metà anno, l'idea è quella di concludere a dicembre, poi non so se mi rinnovano di nuovo, il contratto e l'impegno, mi raccomando, andatevelo ad ascoltare per chi è interessato a questi temi, perché così se c'è un rientro di ascolti, probabilmente lo porteranno avanti.
+
+193
+00:29:38,640 --> 00:29:51,120
+Questo è un lavoro che ha tutti gli effetti, quindi sono in effetti pagato per questo tipo di contenuti come sono pagato per il contenuto del blog di Archicare Italia e sono molto contento anche di questo.
+
+194
+00:29:51,120 --> 00:29:58,880
+Si è aggiunta anche una collaborazione con Luca Manelli per il suo blog, anche questo in ambito architettonico BIM.
+
+195
+00:29:59,040 --> 00:30:16,280
+So che parlo di cose tecniche, ma diciamo che non parlo solo di cose tecniche e sono più sulla parte lifestyle, diciamo che quello che fa un architetto, cosa utilizza tutti i giorni e via discorrendo, c'è una parte del suo blog che parla di questo, e anche questo è diventato un lavoro.
+
+196
+00:30:16,280 --> 00:30:25,320
+Diciamo che questo tipo di approccio del blog e del podcast, sta diventando attivo, è una cosa molto che mi fa molto molto piacere.
+
+197
+00:30:25,320 --> 00:30:42,840
+Immagino, quello che sto cercando di capire è appunto come mettere a frutto anche YouTube, YouTube, dal punto di vista degli iscritti, sono in crescita, ma non diciamo che non sono ancora a livello di quelli bravissimi e bravi e super seguiti.
+
+198
+00:30:42,920 --> 00:31:11,640
+Quindi, diciamo che un progetto a lungo termine, quello di YouTube, in compenso, dal punto di vista del sto facendo un po' di domande per quanto riguarda il futuro, il futuro è l'idea, quella di mettere su un servizio di consulenza, appunto, per chi vuole sfruttare il beam in ufficio, oppure semplicemente cercare di rendere più digitale l'esperienza della progettazione architettonica, che posso.
+
+199
+00:31:11,640 --> 00:31:27,320
+Si può appoggiare a me per quanto riguarda gli strumenti e i workflow e via discorrendo, essendo abbastanza sul pezzo, come avete sentito anche assieme a Filippo Strozzi e a tutti i contenuti che faccio, insomma, noto che molti studi di architettura hanno un po' un gradino da superare in questo senso.
+
+200
+00:31:27,320 --> 00:31:51,360
+E ho pensato, appunto, di mettere su un servizio di consulenza, proprio indirizzato a questo aspetto che delle volte viene sottovalutato, e delle volte si perde anche tempo a causa della, diciamo, del utilizzo o sbagliato delle tecnologie, o, perlomeno della conoscenza, di altre tecnologie che magari non costano nemmeno, ma che ti possono aiutare nel corso della progettazione.
+
+201
+00:31:51,360 --> 00:31:53,600
+Secondo me può essere interessante.
+
+202
+00:31:53,600 --> 00:32:01,600
+Sicuramente è un'esperienza che in parte ho già iniziato con qualche consulenza e mi sto divertendo, almeno ho visto la persona con cui ho lavorato.
+
+203
+00:32:01,600 --> 00:32:07,520
+Si è divertito molto, ci siamo fatti delle grandisate dei grossi miglioramenti per quanto riguarda l'ufficio.
+
+204
+00:32:07,520 --> 00:32:17,200
+E poi ultima mia novità, quella che potrebbe essere quella più dispendiosa dal punto di vista dell'impegno, ma chi lo sa, adesso vediamo anche un po'.
+
+205
+00:32:17,280 --> 00:32:25,200
+Sto ragionando anche sul podcast, come portarla avanti, ma diciamo che l'idea sarebbe quello di fare una newsletter, una newsletter.
+
+206
+00:32:25,200 --> 00:32:30,480
+Che principalmente l'idea è quella in questo caso di monetizzarla.
+
+207
+00:32:30,560 --> 00:33:00,640
+Possibilmente adesso vediamo un po' se si fa o se si riesce o se non si riesce dal punto di vista fiscale e discorrendo, ma diciamo che potrebbe essere un bel tramite per riuscire a mantenere un canale aperto, sia per quanto riguarda le consulenze, ma soprattutto per raggruppare un po' le cose che pubblico, perché mi rendo conto che in effetti di cose ne butto fuori nella rete delle volte mi perdo anch'io le cose, nel senso che le pubblico e poi tra virgolette non le pubblicizzo.
+
+208
+00:33:00,640 --> 00:33:37,160
+E diventa un po' fastidioso questo perché comunque ha un po' di impegno dietro, come tutti i contenuti che vengono fatti, e soprattutto a anche riuscire a dare un punto di vista e un collegamento più diretto con chi mi segue, anche perché io il blog in questo momento l'ho un po' abbandonato, ma non peraltro, ma per il semplice fatto che mi sono fatto anche un po' di domande per quanto riguarda mettere le informazioni nel formato testo sul blog, che può essere interessante, secondo me, trasferire questo tipo di comunicazione su una newsletter.
+
+209
+00:33:37,320 --> 00:33:40,200
+Potrebbe essere una prova, non è ancora niente di definito.
+
+210
+00:33:40,280 --> 00:34:03,080
+Comunque mi confronterò anche con Filippo, che ne sa sempre una più del diavolo, e a un punto di vista decisamente più pragmatico del mio, e poi mi confronterò anche con tante altre persone, direi che più o meno, queste qui sono le novità che mi riguardano, oltre al fatto di diventare vecchio, ma continuo ad andare sempre in giro in bici e poi altre cose particolari.
+
+211
+00:34:03,080 --> 00:34:06,760
+Nel caso, ve lo raccontiamo nel corso delle puntate.
+
+212
+00:34:06,760 --> 00:34:08,920
+Tu, Filippo, hai ancora qualcos'altro da aggiungere?
+
+213
+00:34:08,920 --> 00:34:18,040
+No, direi che a questo punto abbiamo fatto la nostra seconda introduzione, quindi direi anche per non andare troppo a lungo, di chiudere.
+
+214
+00:34:18,200 --> 00:34:26,120
+A questo punto, visto che saranno le prime puntate, visto soprattutto che non abbiamo preparato le autro, direi di salutare basta.
+
+215
+00:34:26,120 --> 00:34:30,840
+E poi, dopo, stiamo riprendendo a macinare.
+
+216
+00:34:30,840 --> 00:34:39,000
+Dateci un attimo di tempo e vedrete che la ruota che si è fermata, si rioglierà di nuovo.
+
+217
+00:34:39,240 --> 00:34:47,240
+Riusremo anche a migliorare, a ottimizzare anche le produzioni varie ed eventuali.
+
+218
+00:34:47,240 --> 00:34:52,680
+Ottimo, direi che siamo sulla strada giusta, a stendete le prossime puntate, noi vi salutiamo.
+
+219
+00:34:52,680 --> 00:34:54,280
+Al prossima, alla prossima.
