@@ -16,7 +16,9 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
+
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -28,7 +30,8 @@ NOTES_DIR      = os.path.join(os.path.dirname(__file__), "..", "..", "note episo
 OUTPUT_DIR     = os.path.join(os.path.dirname(__file__), "..", "content", "episodi")
 TRANSCRIPT_DIR = os.path.join(os.path.dirname(__file__), "..", "static", "trascrizioni")
 
-ROME_TZ = timezone(timedelta(hours=1))
+# ZoneInfo e non un offset fisso: +01:00 tutto l'anno sbagliava le date estive (ora legale).
+ROME_TZ = ZoneInfo("Europe/Rome")
 
 
 # ── helpers ──────────────────────────────────────────────────────────────────

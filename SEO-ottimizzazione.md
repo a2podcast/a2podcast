@@ -227,6 +227,91 @@ della proprietà `a2podcast.it`: 156 pagine indicizzate, 200 no. Cause individua
 
 ---
 
+## Fase 7 — Agosto 2026 (warning GSC dati strutturati Video + 404 reale)
+
+Avviato da 2 warning non critici in Google Search Console sui dati strutturati Video:
+*"Valore datetime di uploadDate non valido"* e *"Nella proprietà datetime uploadDate manca un fuso orario"*.
+
+### datePublished e uploadDate con fuso orario
+- `schema-episode.html`: `.Date.Format "2006-01-02"` → `.Date.Format "2006-01-02T15:04:05Z07:00"` per
+  `datePublished` (riga ~39) e `VideoObject.uploadDate` (riga ~71).
+- Il front matter aveva già l'offset orario nel campo `date`; era il template a troncarlo al solo
+  giorno. Riguarda i 73 episodi con `youtubeId`.
+
+### Escaping JSON-LD: da htmlEscape a jsonify | safeJS
+- `schema-episode.html` e `schema-podcast.html`: i campi stringa passano da `htmlEscape` a
+  `jsonify | safeJS`.
+- `htmlEscape` dentro una stringa JSON produceva entità HTML non decodificate nell'output
+  (`sull&#39;uso`, `&#34;` per le virgolette) in 4 description (episodi 20, 21, 30, 73).
+- `safeJS` è necessario perché senza di esso Go ri-codifica il JSON già prodotto da `jsonify`
+  dentro il blocco `<script>`, con doppia codifica delle virgolette (verificato in build).
+
+### VideoObject.name senza prefisso numerico
+- `schema-episode.html`: applicato `replaceRE "^\d+:\s*" ""` a `VideoObject.name`, come già fa l'H1
+  in `layouts/episodi/single.html`.
+- Lo schema dichiarava "74: Flusso di lavoro…" mentre l'H1 visibile diceva "Flusso di lavoro…":
+  disallineamento tra dato strutturato e contenuto visibile.
+
+### numberOfEpisodes corretto nel PodcastSeries
+- `schema-podcast.html`: `numberOfEpisodes` da `len .Site.RegularPages` a
+  `len (where .Site.RegularPages "Section" "episodi")`.
+- Contava anche le pagine ospiti e about: dichiarava 89 episodi invece di 77 (stesso bug già
+  corretto per la pagina `/episodi/` in Fase 4, qui riemerso nello schema PodcastSeries).
+
+### Video sitemap
+- `layouts/sitemap.xml`: aggiunto namespace `xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"`
+  e, per le pagine con `youtubeId`, un blocco `<video:video>` (thumbnail_loc, title, description,
+  player_loc con `allow_embed="yes"`, publication_date). 73 blocchi generati.
+- Motivo: la documentazione Google (developers.google.com/search/docs/appearance/video) indica il
+  video sitemap come via per far scoprire i video su una watch page propria; è la leva contro il
+  warning "Il video non si trova su una pagina di visualizzazione".
+- Nota tecnica: dentro `range .Pages` va usata una variabile `$page := .`, non `$` — `$` nel
+  template sitemap punta al contesto del template, non alla pagina corrente. Il primo tentativo
+  produceva un solo blocco con titolo vuoto e data `0001-01-01`.
+
+### 404 reale (era 200 con canonical alla home)
+- Nuovo `layouts/404.html` + `head.html` aggiornato: `noindex` e `<title>` dedicati per `.Kind "404"`.
+- Senza un `404.html` al livello superiore, Cloudflare Pages assume un'applicazione single-page e
+  risponde **200 con l'homepage** su qualunque URL inesistente, con canonical alla home
+  ("If your project does not include a top-level `404.html` file, Pages assumes that you are
+  deploying a single-page application" — documentazione Cloudflare Pages).
+- Causa più probabile delle voci GSC "Pagina alternativa con tag canonical appropriato" e
+  "Pagina scansionata, ma attualmente non indicizzata".
+
+### Fuso orario Europe/Rome invece di offset fisso
+- `hugo.toml`: aggiunto `timeZone = "Europe/Rome"`.
+- `scripts/ingest.py`: `ROME_TZ` da `timezone(timedelta(hours=1))` a `ZoneInfo("Europe/Rome")`
+  (import `from zoneinfo import ZoneInfo`, rimosso `timedelta` non più usato).
+- L'offset fisso +01:00 ignorava l'ora legale, generando date estive sbagliate (es. ep. 20 del
+  18 ottobre 2021 salvato con `+01:00` invece di `+02:00`). Le date storiche non sono state
+  rigenerate: restano valide come ISO 8601, il fix vale per i nuovi episodi.
+
+### Test aggiornati
+- `scripts/test-site.py`: 8 → 10 sezioni, 63/63 test passati. Nuove asserzioni: formato ISO con
+  fuso di `datePublished`/`uploadDate`, `VideoObject.name` senza prefisso numerico, assenza di
+  `&#` nei campi JSON-LD, `numberOfEpisodes` confrontato con i `<loc>` episodio della sitemap,
+  nuova sezione video sitemap, nuova sezione 404.
+
+### Valutato e scartato in questo batch
+- Facciata click-to-play per l'embed YouTube: la documentazione Google dice "Don't rely on user
+  actions (such as swiping, clicking, or typing) to load the video" — peggiorerebbe il warning video.
+- Allineare `embedUrl` a youtube.com: Google definisce `embedUrl` come "the `src` value of the
+  `<iframe>`"; l'iframe reale resta su `youtube-nocookie.com`, quindi cambiare `embedUrl` creerebbe
+  un disallineamento con l'iframe effettivo. Nessun cookie Google in più rispetto a prima.
+- `<img>` thumbnail nel DOM: non serve, `thumbnailUrl` nei dati strutturati basta.
+- `VideoObject.duration`: non aggiunto, il repo conosce solo la durata dell'audio Spreaker, diversa
+  da quella della diretta YouTube.
+- Il warning "Il video non si trova su una pagina di visualizzazione" può sopravvivere ai fix: per
+  un video ospitato su YouTube, Google tende ad attribuire il risultato alla watch page di YouTube.
+
+### Da fare lato infrastruttura
+- **Cloudflare**: redirect 301 `www.a2podcast.it` → `a2podcast.it` tramite Redirect Rule di zona
+  — il file `_redirects` di Pages non supporta i redirect per hostname
+  ("Domain-level redirects ❌" nella documentazione Cloudflare Pages).
+- **GSC**: *Convalida correzione* sui report structured-data Video dopo il deploy.
+
+---
+
 ## Cosa è stato valutato e scartato
 
 | Intervento | Motivo del no |

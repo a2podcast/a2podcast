@@ -117,6 +117,7 @@ a2podcast/
 │   ├── _default/single.html         # fallback pagine generiche
 │   ├── _default/list.html           # fallback liste
 │   ├── index.html                   # homepage
+│   ├── 404.html                     # pagina 404 (noindex, no fallback SPA di Cloudflare Pages)
 │   ├── about/single.html            # pagina chi siamo
 │   ├── episodi/single.html          # pagina singolo episodio
 │   ├── episodi/list.html            # lista /episodi/
@@ -222,7 +223,13 @@ Ogni pagina riceve:
 
 Gli episodi con `youtubeId` includono nel `PodcastEpisode` un `VideoObject` completo dei campi richiesti da Google (`name`, `description`, `thumbnailUrl` da `i.ytimg.com`, `uploadDate`, `contentUrl`, `embedUrl`): senza questi campi GSC segnalava *"Il video non si trova su una pagina di visualizzazione"* (fix giugno 2026). La thumbnail `i.ytimg.com` è già in `img-src` nella CSP (`static/_headers`).
 
+`datePublished` e `VideoObject.uploadDate` usano `.Date.Format "2006-01-02T15:04:05Z07:00"` (data-ora completa con fuso, non solo la data): il formato troncato al giorno faceva scattare in GSC *"Valore datetime di uploadDate non valido"* e *"...manca un fuso orario"* (fix agosto 2026). `VideoObject.name` applica `replaceRE "^\d+:\s*" ""` per togliere il prefisso numerico dell'episodio, coerente con l'H1 generato da `episodi/single.html`. I campi stringa dei due schema (`schema-episode.html`, `schema-podcast.html`) passano da `htmlEscape` a `jsonify | safeJS`: `htmlEscape` lasciava entità HTML non decodificate nella stringa JSON (`&#39;`, `&#34;`); `safeJS` evita che Go ri-codifichi il JSON già prodotto da `jsonify` quando viene iniettato nel `<script>`. `numberOfEpisodes` in `schema-podcast.html` è `len (where .Site.RegularPages "Section" "episodi")`, non `len .Site.RegularPages` (che include anche ospiti e about).
+
 La sitemap usa un template custom (`layouts/sitemap.xml`) che **esclude i Kind `taxonomy`/`term`** (pagine `/tags/*`): quelle pagine sono `noindex`, quindi includerle in sitemap generava il warning GSC *"Esclusa in base al tag noindex"*. Il `robots.txt` è generato da Hugo con `enableRobotsTXT = true` + direttiva `Sitemap:` nel template.
+
+La sitemap dichiara anche il namespace `xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"` e, per ogni pagina con `youtubeId`, un blocco `<video:video>` (thumbnail_loc, title, description, `player_loc allow_embed="yes"`, publication_date) — 73 blocchi (fix agosto 2026, leva contro il warning "video non su pagina di visualizzazione"). Nota implementativa: nel `range .Pages` del template va assegnata una variabile `$page := .`; usare `$` punta al contesto del template (la home), non alla pagina in iterazione, e produce un solo blocco vuoto con data `0001-01-01`.
+
+`layouts/404.html` (nuovo, agosto 2026) è necessario perché Cloudflare Pages, senza un `404.html` al livello superiore del sito, tratta il progetto come una single-page application e risponde 200 con l'homepage (canonical alla home incluso) su qualunque URL inesistente — causa più probabile dei warning GSC "Pagina alternativa con tag canonical appropriato" e "Pagina scansionata, ma attualmente non indicizzata". `head.html` imposta `noindex` e un `<title>` dedicato per `.Kind "404"`.
 
 ---
 
@@ -307,3 +314,4 @@ Lista canonica: apple, mac, macos, ios, ipad, iphone, ipados, apple-silicon, app
 - Il `slug` nel frontmatter è il numero come stringa (`"74"`, non `74`) perché TOML lo richiede quoted
 - `ingest.py` preserva `tags`/`guest`/`youtubeId` dall'index.md e imposta `hasTranscript = true` se l'SRT esiste in `static/trascrizioni/`; rigenera invece il **corpo** dai file note, quindi le modifiche durature al testo vanno fatte nei note sorgente
 - Il dominio canonico è `a2podcast.it` **senza www**; `a2podcast.fireside.fm` è un vecchio dominio dismesso (i link interni vanno sempre a `a2podcast.it/NN/`)
+- `hugo.toml` dichiara `timeZone = "Europe/Rome"` e `ingest.py` usa `ZoneInfo("Europe/Rome")` (non un offset fisso `+01:00`) per rispettare l'ora legale nelle date generate (fix agosto 2026)

@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   "@type": "PodcastSeries",
-  "name": "{{ .Site.Params.podcastTitle }}",
+  "name": {{ .Site.Params.podcastTitle | jsonify | safeJS }},
   "url": "{{ .Site.BaseURL }}",
-  "description": "{{ .Site.Params.description | htmlEscape }}",
+  "description": {{ .Site.Params.description | jsonify | safeJS }},
   "inLanguage": "it",
   "image": "{{ .Site.Params.podcastImage | absURL }}",
   "author": [
@@ -19,7 +19,9 @@
       "url": "https://youtube.com/@architecday"
     }
   ],
-  "numberOfEpisodes": {{ len .Site.RegularPages }},
+  {{/* Solo la sezione episodi: len .Site.RegularPages contava anche ospiti e about,
+       gonfiando il dato dichiarato a Google. */}}
+  "numberOfEpisodes": {{ len (where .Site.RegularPages "Section" "episodi") }},
   "webFeed": {
     "@type": "DataFeed",
     "url": "{{ .Site.Params.podcastFeedUrl }}"

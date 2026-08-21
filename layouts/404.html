@@ -1,0 +1,17 @@
+{{/* La presenza di public/404.html disattiva la modalità single-page application di
+     Cloudflare Pages, che altrimenti risponde 200 con l'homepage su qualunque URL
+     inesistente (soft 404 → "Pagina alternativa con tag canonical appropriato" in GSC). */}}
+{{ define "main" }}
+<div class="page-wrapper page-single">
+  <header class="page-header">
+    <h1>Pagina non trovata</h1>
+  </header>
+  <div class="page-content">
+    <p>L'indirizzo che hai aperto non esiste o non esiste più.</p>
+    <p>
+      Torna alla <a href="{{ .Site.BaseURL }}">home</a> oppure sfoglia
+      <a href="{{ "episodi/" | absURL }}">tutti gli episodi</a>.
+    </p>
+  </div>
+</div>
+{{ end }}

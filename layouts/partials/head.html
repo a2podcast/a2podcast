@@ -11,10 +11,14 @@
 {{ if and (eq .Section "episodi") .Params.episodeNumber }}
   {{ $title = printf "Ep. %d — %s | %s" .Params.episodeNumber .Title .Site.Title }}
 {{ end }}
+{{ if eq .Kind "404" }}
+  {{ $title = printf "Pagina non trovata — %s" .Site.Title }}
+  {{ $desc = "La pagina che cerchi non esiste o non esiste più." }}
+{{ end }}
 
 <title>{{ $title }}</title>
 <meta name="description" content="{{ $desc }}">
-{{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}<meta name="robots" content="noindex, follow">
+{{ if or (eq .Kind "taxonomy") (eq .Kind "term") (eq .Kind "404") }}<meta name="robots" content="noindex, follow">
 {{ end }}<link rel="canonical" href="{{ .Permalink }}">
 
 {{/* Open Graph */}}

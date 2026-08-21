@@ -119,7 +119,7 @@ def find_jsonld(blocks: list[dict], type_: str) -> dict | None:
 # ── Test groups ───────────────────────────────────────────────────────────────
 
 def test_build(build: bool) -> int:
-    section(1, 8, "Build Hugo")
+    section(1, 10, "Build Hugo")
     if not build:
         print(f"  {YELLOW}(build saltata, uso public/ esistente){RESET}")
         pub = os.path.join(PROJECT_ROOT, "public")
@@ -161,7 +161,7 @@ def test_build(build: bool) -> int:
 
 
 def test_homepage(base: str):
-    section(2, 8, "Homepage")
+    section(2, 10, "Homepage")
     r = fetch(base, "/")
     if r.status_code == 200:
         ok("HTTP 200 /")
@@ -206,6 +206,27 @@ def test_homepage(base: str):
             ok(f"numberOfEpisodes = {n}")
         else:
             fail("numberOfEpisodes mancante o non intero", str(n))
+            n = None
+
+        # Confronto con il numero reale di episodi pubblicati: contiamo i <loc> della
+        # sitemap che puntano a un URL episodio (permalink numerico "/NN/"), perché
+        # la sitemap riflette la build già filtrata (draft/data futura) esattamente
+        # come .Site.RegularPages usato dal template — più affidabile di riparsare
+        # a mano il frontmatter (draft, data futura, fuso orario) in questo script.
+        sitemap_path = os.path.join(PROJECT_ROOT, "public", "sitemap.xml")
+        if n is not None and os.path.exists(sitemap_path):
+            with open(sitemap_path, encoding="utf-8") as f:
+                sitemap_xml = f.read()
+            episode_locs = re.findall(r'<loc>https?://[^<]+/(\d+)/</loc>', sitemap_xml)
+            if len(episode_locs) == n:
+                ok(f"numberOfEpisodes coerente con la sitemap ({len(episode_locs)} episodi)")
+            else:
+                fail(
+                    "numberOfEpisodes non coerente con la sitemap",
+                    f"schema={n}, sitemap={len(episode_locs)}"
+                )
+        else:
+            fail("impossibile verificare numberOfEpisodes: sitemap.xml non trovata")
     else:
         fail("JSON-LD PodcastSeries non trovato")
 
@@ -217,7 +238,7 @@ def test_homepage(base: str):
 
 
 def test_episode_with_youtube(base: str):
-    section(3, 8, "Episodio CON YouTube (Ep. 74 — Andrea Ciraolo)")
+    section(3, 10, "Episodio CON YouTube (Ep. 74 — Andrea Ciraolo)")
     r = fetch(base, "/74/")
     if r.status_code == 200:
         ok("HTTP 200 /74/")
@@ -276,6 +297,49 @@ def test_episode_with_youtube(base: str):
             ok("JSON-LD VideoObject presente con ID corretto")
         else:
             fail("JSON-LD VideoObject mancante o errato", str(video))
+
+        # datePublished / uploadDate in ISO 8601 con fuso orario
+        ISO_TZ = r'^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{2}:\d{2}$'
+        date_published = ep.get("datePublished", "")
+        if re.match(ISO_TZ, date_published):
+            ok(f"datePublished ISO 8601 con fuso: {date_published}")
+        else:
+            fail("datePublished non in formato ISO 8601 con fuso", date_published)
+
+        upload_date = video.get("uploadDate", "")
+        if re.match(ISO_TZ, upload_date):
+            ok(f"VideoObject.uploadDate ISO 8601 con fuso: {upload_date}")
+        else:
+            fail("VideoObject.uploadDate non in formato ISO 8601 con fuso", upload_date)
+
+        # VideoObject.name senza prefisso numerico "NN: "
+        video_name = video.get("name", "")
+        if video_name and not re.match(r'^\d+:\s*', video_name):
+            ok(f"VideoObject.name senza prefisso numerico: {video_name!r}")
+        else:
+            fail("VideoObject.name contiene ancora il prefisso numerico", video_name)
+
+        # nessun residuo di htmlEscape (&#...) nei campi stringa del JSON-LD
+        def find_html_escape_residue(obj, path=""):
+            if isinstance(obj, str):
+                return [path] if "&#" in obj else []
+            if isinstance(obj, dict):
+                found = []
+                for k, v in obj.items():
+                    found += find_html_escape_residue(v, f"{path}.{k}")
+                return found
+            if isinstance(obj, list):
+                found = []
+                for i, v in enumerate(obj):
+                    found += find_html_escape_residue(v, f"{path}[{i}]")
+                return found
+            return []
+
+        residue = find_html_escape_residue(ep)
+        if not residue:
+            ok("nessun residuo &# (htmlEscape) nel JSON-LD PodcastEpisode")
+        else:
+            fail("trovato residuo &# nel JSON-LD (atteso jsonify)", ", ".join(residue[:10]))
     else:
         fail("JSON-LD PodcastEpisode non trovato")
 
@@ -316,7 +380,7 @@ def test_episode_with_youtube(base: str):
 
 
 def test_episode_without_youtube(base: str):
-    section(4, 8, "Episodio SENZA YouTube (Ep. 40 — WWDC 2022)")
+    section(4, 10, "Episodio SENZA YouTube (Ep. 40 — WWDC 2022)")
     r = fetch(base, "/40/")
     if r.status_code == 200:
         ok("HTTP 200 /40/")
@@ -353,7 +417,7 @@ def test_episode_without_youtube(base: str):
 
 
 def test_aux_pages(base: str):
-    section(5, 8, "Pagine ausiliarie")
+    section(5, 10, "Pagine ausiliarie")
 
     for path, expected_status, check_text in [
         ("/episodi/", 200, "Episodi"),
@@ -386,7 +450,7 @@ def test_aux_pages(base: str):
 
 
 def test_seo_head(base: str):
-    section(6, 8, "SEO — head.html")
+    section(6, 10, "SEO — head.html")
     r = fetch(base, "/74/")
     html = r.text
 
@@ -407,7 +471,7 @@ def test_seo_head(base: str):
 
 
 def test_frontmatter():
-    section(7, 8, "Integrità frontmatter")
+    section(7, 10, "Integrità frontmatter")
     ep_dirs = sorted(
         d for d in glob.glob(os.path.join(EPISODES_DIR, "*"))
         if os.path.isdir(d) and os.path.basename(d).isdigit()
@@ -465,7 +529,7 @@ def test_frontmatter():
 
 
 def test_generated_markup():
-    section(8, 8, "Markup generato")
+    section(8, 10, "Markup generato")
     html_paths = glob.glob(os.path.join(PROJECT_ROOT, "public", "**", "*.html"), recursive=True)
     bad_href = []
     bad_content_url = []
@@ -488,6 +552,72 @@ def test_generated_markup():
         ok('nessun "contentUrl": "" nelle pagine generate')
     else:
         fail('trovati "contentUrl": "" nelle pagine generate', ", ".join(bad_content_url[:10]))
+
+
+def test_sitemap_video():
+    section(9, 10, "Sitemap — video sitemap")
+    sitemap_path = os.path.join(PROJECT_ROOT, "public", "sitemap.xml")
+    if not os.path.exists(sitemap_path):
+        fail("public/sitemap.xml non trovata")
+        return
+
+    with open(sitemap_path, encoding="utf-8") as f:
+        xml = f.read()
+
+    if 'xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"' in xml:
+        ok("namespace xmlns:video presente")
+    else:
+        fail("namespace xmlns:video mancante")
+
+    video_blocks = re.findall(r'<video:video>(.*?)</video:video>', xml, re.DOTALL)
+    if video_blocks:
+        ok(f"{len(video_blocks)} blocchi <video:video> trovati")
+    else:
+        fail("nessun blocco <video:video> trovato")
+        return
+
+    if any("KFNWIq5vjTc" in b for b in video_blocks):
+        ok("blocco video per episodio 74 con video:player_loc corretto")
+    else:
+        fail("nessun blocco <video:video> con l'ID YouTube dell'episodio 74")
+
+    required_tags = (
+        "video:thumbnail_loc", "video:title", "video:description",
+        "video:player_loc", "video:publication_date",
+    )
+    incomplete = [
+        i for i, b in enumerate(video_blocks)
+        if not all(f"<{tag}" in b for tag in required_tags)
+    ]
+    if not incomplete:
+        ok("ogni <video:video> ha thumbnail_loc, title, description, player_loc, publication_date")
+    else:
+        fail(f"blocchi <video:video> incompleti (indici): {incomplete[:10]}")
+
+
+def test_404(base: str):
+    section(10, 10, "Pagina 404")
+
+    # Test HTTP: hugo server risponde ai path inesistenti con la propria pagina 404
+    # e status 404 (a differenza della modalità SPA di Cloudflare Pages, non
+    # riproducibile con hugo server: quella si verifica solo sul deploy live).
+    r = fetch(base, "/questo-url-non-esiste-12345/")
+    if r.status_code == 404:
+        ok("HTTP 404 per URL inesistente (hugo server)")
+    else:
+        fail(f"URL inesistente ritorna HTTP {r.status_code} invece di 404")
+
+    page_404 = os.path.join(PROJECT_ROOT, "public", "404.html")
+    if os.path.exists(page_404):
+        ok("public/404.html presente (disattiva la modalità SPA di Cloudflare Pages)")
+        with open(page_404, encoding="utf-8") as f:
+            html_404 = f.read()
+        if 'noindex' in html_404:
+            ok("public/404.html contiene noindex")
+        else:
+            fail("public/404.html non contiene noindex")
+    else:
+        fail("public/404.html non trovata")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -520,6 +650,8 @@ def main():
         test_aux_pages(base)
         test_seo_head(base)
         test_generated_markup()
+        test_sitemap_video()
+        test_404(base)
     finally:
         server.terminate()
         server.wait()

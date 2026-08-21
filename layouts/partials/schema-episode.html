@@ -33,18 +33,19 @@
 {
   "@context": "https://schema.org",
   "@type": "PodcastEpisode",
-  "name": "{{ .Title | htmlEscape }}",
+  "name": {{ .Title | jsonify | safeJS }},
   "url": "{{ .Permalink }}",
-  "datePublished": "{{ .Date.Format "2006-01-02" }}",
-  "description": "{{ .Params.description | htmlEscape }}",
+  {{/* ISO 8601 completo di fuso: GSC segnalava "manca un fuso orario" sul troncamento a YYYY-MM-DD */}}
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "description": {{ .Params.description | jsonify | safeJS }},
   "episodeNumber": {{ .Params.episodeNumber }},
   "inLanguage": "it",
   "author": [
     {"@type": "Person", "name": "Filippo Strozzi", "url": "https://www.avvocati-e-mac.it"},
     {"@type": "Person", "name": "Roberto Marin", "url": "https://youtube.com/@architecday"}
   ],
-  {{ with .Params.tags }}"keywords": "{{ delimit . ", " | htmlEscape }}",{{ end }}
-  {{ with .Params.guest }}{{ $guestPage := $.Site.GetPage (printf "/ospiti/%s" .) }}"performer": {"@type": "Person", "name": "{{ if $guestPage }}{{ $guestPage.Title | htmlEscape }}{{ else }}{{ . | htmlEscape }}{{ end }}"{{ if $guestPage }}{{ with $guestPage.Params.website }}, "url": "{{ . }}"{{ end }}{{ end }}},{{ end }}
+  {{ with .Params.tags }}"keywords": {{ delimit . ", " | jsonify | safeJS }},{{ end }}
+  {{ with .Params.guest }}{{ $guestPage := $.Site.GetPage (printf "/ospiti/%s" .) }}"performer": {"@type": "Person", "name": {{ if $guestPage }}{{ $guestPage.Title | jsonify | safeJS }}{{ else }}{{ . | jsonify | safeJS }}{{ end }}{{ if $guestPage }}{{ with $guestPage.Params.website }}, "url": "{{ . }}"{{ end }}{{ end }}},{{ end }}
   {{ if or $audioUrl $isoDuration }}
   "associatedMedia": {
     "@type": "MediaObject"{{ with $audioUrl }},
@@ -62,10 +63,12 @@
   "transcript": "{{ printf "%strascrizioni/ep-%d.srt" .Site.BaseURL .Params.episodeNumber }}"{{ end }}{{ with .Params.youtubeId }},
   "video": {
     "@type": "VideoObject",
-    "name": "{{ $.Title | htmlEscape }}",
-    "description": "{{ $.Params.description | htmlEscape }}",
+    {{/* Stesso strip del prefisso "NN: " applicato all'H1 in episodi/single.html:
+         schema e contenuto visibile devono coincidere. */}}
+    "name": {{ $.Title | replaceRE `^\d+:\s*` "" | jsonify | safeJS }},
+    "description": {{ $.Params.description | jsonify | safeJS }},
     "thumbnailUrl": "https://i.ytimg.com/vi/{{ . }}/maxresdefault.jpg",
-    "uploadDate": "{{ $.Date.Format "2006-01-02" }}",
+    "uploadDate": "{{ $.Date.Format "2006-01-02T15:04:05Z07:00" }}",
     "contentUrl": "https://www.youtube.com/watch?v={{ . }}",
     "embedUrl": "https://www.youtube-nocookie.com/embed/{{ . }}"
   }{{ end }}

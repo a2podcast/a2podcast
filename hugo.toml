@@ -1,5 +1,6 @@
 baseURL = "https://a2podcast.it/"
 languageCode = "it-IT"
+timeZone = "Europe/Rome"
 defaultContentLanguage = "it"
 title = "A2 Podcast"
 enableRobotsTXT = true

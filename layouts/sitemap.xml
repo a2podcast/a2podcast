@@ -1,6 +1,7 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   {{/* Escludiamo le pagine tassonomia (tags) e i singoli termini: sono noindex,
        quindi includerle in sitemap genera il warning GSC "Esclusa in base al tag noindex". */}}
   {{ range .Pages }}
@@ -10,6 +11,19 @@
     {{ if not .Lastmod.IsZero }}<lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>{{ end }}
     {{ with .Sitemap.ChangeFreq }}<changefreq>{{ . }}</changefreq>{{ end }}
     {{ if ge .Sitemap.Priority 0.0 }}<priority>{{ .Sitemap.Priority }}</priority>{{ end }}
+    {{/* Sitemap video: Google indica il video sitemap come via per far scoprire i video
+         su una watch page propria (developers.google.com/search/docs/appearance/video). */}}
+    {{/* $page e non $: dentro il range $ è il contesto del sitemap, non la pagina corrente. */}}
+    {{ $page := . }}
+    {{ with .Params.youtubeId }}
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/{{ . }}/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>{{ $page.Title | replaceRE `^\d+:\s*` "" | transform.XMLEscape | safeHTML }}</video:title>
+      <video:description>{{ $page.Params.description | transform.XMLEscape | safeHTML }}</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube-nocookie.com/embed/{{ . }}</video:player_loc>
+      <video:publication_date>{{ $page.Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}</video:publication_date>
+    </video:video>
+    {{ end }}
   </url>
     {{ end }}
   {{ end }}
