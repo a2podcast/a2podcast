@@ -260,11 +260,15 @@ Headers applicati da Cloudflare Pages a tutte le risposte:
 
 Lo script Matomo vive in `static/js/matomo.js` (file esterno) per evitare `'unsafe-inline'` nella CSP.
 
-Cloudflare Web Analytics (RUM, senza cookie) è attivo sulla zona con *auto-install*: il beacon viene
-iniettato da Cloudflare al volo, non è nel repo. Serve però che la CSP lo consenta, altrimenti il
-browser lo blocca: `static.cloudflareinsights.com` in `script-src` e `cloudflareinsights.com` in
-`connect-src`. Affianca Matomo (pagine viste, visitatori, Core Web Vitals); le analitiche di traffico
-lato server della zona sono separate e sempre attive perché il dominio è proxato.
+Cloudflare Web Analytics (RUM, senza cookie) usa il **setup manuale**: `layouts/partials/cloudflare-analytics.html`,
+incluso da `baseof.html`, con il token in `hugo.toml` (`params.cloudflareAnalyticsToken`).
+L'*auto-install* di zona era stato provato per primo ma non iniettava il beacon nelle risposte servite
+da Cloudflare Pages, quindi è stato disattivato per evitare doppia iniezione (Cloudflare ammette un
+solo snippet per pagina). La CSP deve consentirlo, altrimenti il browser lo blocca:
+`static.cloudflareinsights.com` in `script-src` e `cloudflareinsights.com` in `connect-src` — nel setup
+manuale il beacon riporta a `cloudflareinsights.com/cdn-cgi/rum`, non al dominio del sito.
+Affianca Matomo (pagine viste, visitatori, Core Web Vitals); le analitiche di traffico lato server della
+zona sono separate e sempre attive perché il dominio è proxato.
 
 ---
 

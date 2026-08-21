@@ -28,6 +28,7 @@ enableEmoji = false
   podcastAuthor  = "Filippo Strozzi e Roberto Marin"
   podcastFeedUrl = "https://www.spreaker.com/show/6519470/episodes/feed"
   spreakerShowId = "6519470"
+  cloudflareAnalyticsToken = "ba07bea200e24d1a87fb8906e81d5a80"
   podcastImage   = "/img/logo.jpg"
   network        = "Runtime Radio"
   networkUrl     = "https://runtimeradio.com"

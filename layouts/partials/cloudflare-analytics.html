@@ -1,0 +1,6 @@
+{{/* Cloudflare Web Analytics (RUM, senza cookie), setup manuale.
+     L'auto-install della zona non inietta il beacon sulle risposte servite da Cloudflare Pages,
+     quindi lo snippet sta qui. `type="module"` esclude i browser obsoleti (indicazione Cloudflare).
+     La CSP in static/_headers consente static.cloudflareinsights.com (script-src) e
+     cloudflareinsights.com (connect-src, endpoint del beacon nel setup manuale). */}}
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ .Site.Params.cloudflareAnalyticsToken }}"}'></script>
