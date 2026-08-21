@@ -304,10 +304,19 @@ Avviato da 2 warning non critici in Google Search Console sui dati strutturati V
 - Il warning "Il video non si trova su una pagina di visualizzazione" può sopravvivere ai fix: per
   un video ospitato su YouTube, Google tende ad attribuire il risultato alla watch page di YouTube.
 
-### Da fare lato infrastruttura
-- **Cloudflare**: redirect 301 `www.a2podcast.it` → `a2podcast.it` tramite Redirect Rule di zona
-  — il file `_redirects` di Pages non supporta i redirect per hostname
-  ("Domain-level redirects ❌" nella documentazione Cloudflare Pages).
+### Infrastruttura Cloudflare (fatto)
+- **Redirect 301 `www.a2podcast.it` → `a2podcast.it`** creato come Redirect Rule di zona
+  (phase `http_request_dynamic_redirect`, espressione `http.host eq "www.a2podcast.it"`, target
+  dinamico `concat("https://a2podcast.it", http.request.uri.path)`, query string preservata).
+  Serviva una regola di zona perché il file `_redirects` di Pages non supporta i redirect per
+  hostname ("Domain-level redirects ❌" nella documentazione Cloudflare Pages). Prima entrambi gli
+  host rispondevano 200 con lo stesso contenuto: `www` è un dominio custom del progetto Pages.
+- **Workflow di deploy riabilitato**: GitHub lo aveva messo in `disabled_inactivity`, quindi né il
+  push né il cron giornaliero facevano più partire il deploy (ultimo deploy 14 agosto 2026).
+  Da tenere d'occhio: la disattivazione per inattività blocca anche la pubblicazione programmata
+  degli episodi con data futura.
+
+### Da fare
 - **GSC**: *Convalida correzione* sui report structured-data Video dopo il deploy.
 
 ---

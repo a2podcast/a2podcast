@@ -4,7 +4,7 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Permissions-Policy: camera=(), microphone=(), geolocation=()
-  Content-Security-Policy: default-src 'self'; script-src 'self' https://matomo.studiolegalestrozzi.it; img-src 'self' data: https://*.spreaker.com https://a2podcast.it https://i.ytimg.com; frame-src https://widget.spreaker.com https://www.spreaker.com https://www.youtube-nocookie.com; connect-src 'self' https://matomo.studiolegalestrozzi.it; style-src 'self'; font-src 'self'
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://matomo.studiolegalestrozzi.it https://static.cloudflareinsights.com; img-src 'self' data: https://*.spreaker.com https://a2podcast.it https://i.ytimg.com; frame-src https://widget.spreaker.com https://www.spreaker.com https://www.youtube-nocookie.com; connect-src 'self' https://matomo.studiolegalestrozzi.it https://cloudflareinsights.com; style-src 'self'; font-src 'self'
 
 /trascrizioni/*.srt
   Content-Type: text/plain; charset=utf-8

@@ -12,7 +12,7 @@ Per i comandi operativi quotidiani vedi [CLAUDE.md](./CLAUDE.md).
 | Generatore statico | Hugo v0.145+ (sviluppo locale testato su 0.160) |
 | Audio hosting | Spreaker (show `6519470`) |
 | Deploy | Cloudflare Pages (build automatico su push a `main`) |
-| Analytics | Matomo self-hosted (`matomo.studiolegalestrozzi.it`) |
+| Analytics | Matomo self-hosted (`matomo.studiolegalestrozzi.it`) + Cloudflare Web Analytics |
 | Network | Runtime Radio (da feb 2025) |
 | Dominio | `a2podcast.it` su Cloudflare DNS |
 
@@ -259,6 +259,12 @@ Headers applicati da Cloudflare Pages a tutte le risposte:
 - `Content-Security-Policy` — whitelist di sorgenti permesse (no `unsafe-inline`)
 
 Lo script Matomo vive in `static/js/matomo.js` (file esterno) per evitare `'unsafe-inline'` nella CSP.
+
+Cloudflare Web Analytics (RUM, senza cookie) è attivo sulla zona con *auto-install*: il beacon viene
+iniettato da Cloudflare al volo, non è nel repo. Serve però che la CSP lo consenta, altrimenti il
+browser lo blocca: `static.cloudflareinsights.com` in `script-src` e `cloudflareinsights.com` in
+`connect-src`. Affianca Matomo (pagine viste, visitatori, Core Web Vitals); le analitiche di traffico
+lato server della zona sono separate e sempre attive perché il dominio è proxato.
 
 ---
 

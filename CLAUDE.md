@@ -184,6 +184,12 @@ security: restringe img-src nella CSP
 
 **Push → deploy automatico** su Cloudflare Pages (~1 min). Non serve altro.
 
+**Se dopo il push non parte nulla**, controllare che il workflow non sia stato disattivato da GitHub
+per inattività (`gh workflow list --all` → `disabled_inactivity`): succede dopo ~60 giorni senza
+attività nel repo e blocca sia il deploy su push sia il cron della pubblicazione programmata.
+Si riattiva con `gh workflow enable "Deploy to Cloudflare Pages"` e si lancia subito con
+`gh workflow run "Deploy to Cloudflare Pages"`.
+
 **Regola:** quando l'utente chiede di fare commit, merge o "pubblica/deploya", eseguire sempre anche `git push` (con `gh auth switch --user a2podcast` se necessario) senza aspettare ulteriore conferma.
 
 ---
