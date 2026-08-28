@@ -270,6 +270,20 @@ manuale il beacon riporta a `cloudflareinsights.com/cdn-cgi/rum`, non al dominio
 Affianca Matomo (pagine viste, visitatori, Core Web Vitals); le analitiche di traffico lato server della
 zona sono separate e sempre attive perché il dominio è proxato.
 
+Attenzione a non confondere `site_tag` e `site_token`: sono due valori distinti, entrambi stringhe
+esadecimali di 32 caratteri, il che li rende facili da scambiare. Il `site_tag` è l'identificatore
+della zona in Cloudflare Web Analytics e si usa per interrogare l'API/GraphQL; il `site_token` è il
+valore che va effettivamente in `data-cf-beacon` nello snippet e in `cloudflareAnalyticsToken`.
+Mettere il tag al posto del token produce un fallimento **silenzioso**: nessun errore, nessun avviso
+in console, il beacon compare regolarmente nell'HTML e parte senza errori di rete — semplicemente
+Cloudflare scarta gli eventi perché il valore non corrisponde a un token valido, e la dashboard
+resta vuota. Per questo la verifica che conta non è "il beacon è presente nell'HTML/nella pagina",
+ma la query GraphQL `rumPageloadEventsAdaptiveGroups` filtrata per `siteTag`, che mostra se gli
+eventi arrivano davvero. Nota per il futuro: `/zones/{id}/settings/rum` è tri-state (`on` / `off` /
+`manual`); gli altri siti manuali dell'account risultano in `manual`, mentre a2podcast.it risulta
+`on` — differenza non ancora spiegata, da tenere come sospetto secondario se i dati non dovessero
+arrivare nemmeno col token corretto.
+
 ---
 
 ## Deploy — Cloudflare Pages

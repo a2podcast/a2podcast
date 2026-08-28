@@ -2,5 +2,9 @@
      L'auto-install della zona non inietta il beacon sulle risposte servite da Cloudflare Pages,
      quindi lo snippet sta qui. `type="module"` esclude i browser obsoleti (indicazione Cloudflare).
      La CSP in static/_headers consente static.cloudflareinsights.com (script-src) e
-     cloudflareinsights.com (connect-src, endpoint del beacon nel setup manuale). */}}
+     cloudflareinsights.com (connect-src, endpoint del beacon nel setup manuale).
+     Attenzione: il valore del parametro è il site token dell'API (site_token), NON il site tag
+     (site_tag, che serve invece per le query GraphQL/API). Mettere il tag al posto del token fa
+     scartare i beacon senza alcun errore visibile: l'HTML sembra corretto, la console è pulita,
+     la dashboard resta vuota. */}}
 <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ .Site.Params.cloudflareAnalyticsToken }}"}'></script>
