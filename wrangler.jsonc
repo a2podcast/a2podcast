@@ -8,5 +8,15 @@
     "directory": "./public",
     "not_found_handling": "404-page",
     "html_handling": "auto-trailing-slash"
-  }
+  },
+  "routes": [
+    {
+      "pattern": "a2podcast.it/*",
+      "zone_name": "a2podcast.it"
+    },
+    {
+      "pattern": "www.a2podcast.it/*",
+      "zone_name": "a2podcast.it"
+    }
+  ]
 }

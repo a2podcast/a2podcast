@@ -332,9 +332,10 @@ GitHub main → Workers Builds → Hugo → wrangler deploy → Worker Static As
 ```
 
 `wrangler.jsonc` usa `not_found_handling: "404-page"` e
-`html_handling: "auto-trailing-slash"`. Il Worker è prima verificato sul dominio
-`a2podcast-site.twilight-glitter-a31d.workers.dev`; il dominio pubblico viene collegato soltanto
-dopo il collaudo. `_headers`, `_redirects` e `404.html` restano nel build Hugo e sono supportati
+`html_handling: "auto-trailing-slash"`. Dopo il collaudo sul dominio
+`a2podcast-site.twilight-glitter-a31d.workers.dev`, le Worker Routes temporanee
+`a2podcast.it/*` e `www.a2podcast.it/*` collegano il dominio pubblico mantenendo Pages come
+rollback. `_headers`, `_redirects` e `404.html` restano nel build Hugo e sono supportati
 nativamente da Workers Static Assets, quindi non esiste un Worker applicativo davanti agli asset.
 
 ### Ricostruzioni programmate e manuali
@@ -357,12 +358,11 @@ deduplicazione, errori 4xx/5xx e JSON non valido. Il Worker non espone endpoint 
 
 ### Cutover e rollback
 
-Durante il collaudo Pages resta l'origine di rollback e il workflow GitHub diventa
-`workflow_dispatch`-only con nome «Legacy Pages rollback». Dopo almeno un build su push, uno dal
-Comando Rapido e uno dal Cron riusciti, le route temporanee `a2podcast.it/*` e
-`www.a2podcast.it/*` servono il Worker. Dopo la pubblicazione automatica dell'episodio 79, le route
-vengono sostituite dai Custom Domains e i domini vengono rimossi da Pages. Il progetto legacy resta
-su `a2podcast.pages.dev` per 30 giorni.
+Pages resta l'origine di rollback e il workflow GitHub «Legacy Pages rollback» è
+`workflow_dispatch`-only. Dopo i build riusciti da push, Comando Rapido e Cron, le route temporanee
+`a2podcast.it/*` e `www.a2podcast.it/*` servono il Worker. Dopo la pubblicazione automatica
+dell'episodio 79, le route vengono sostituite dai Custom Domains e i domini vengono rimossi da
+Pages. Il progetto legacy resta su `a2podcast.pages.dev` per 30 giorni.
 
 Rollback nella fase route: rimuovere le Worker Routes e riattivare Pages. Rollback dopo il cutover:
 `npx wrangler rollback`; se il guasto riguarda la piattaforma, riassociare i domini al progetto
