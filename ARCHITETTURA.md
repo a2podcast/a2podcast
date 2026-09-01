@@ -40,6 +40,14 @@ baseof.html
 
 Ogni pagina episodio include anche `schema-episode.html` (JSON-LD PodcastEpisode) e i partial `audio-player.html`, `hosts-contact.html`, `transcript-inline.html`.
 
+La homepage ricava gli episodi pubblicati da `.Site.RegularPages`, li ordina per data decrescente e
+passa il primo elemento allo stesso partial `audio-player.html`. In questo modo il player in
+evidenza usa lo `spreakerEpisodeId` già sincronizzato nel front matter da Spreaker, senza fetch
+client-side né una seconda fonte dati. Le pagine con data futura sono escluse dal normale filtro di
+pubblicazione Hugo: alla data prevista il build successivo promuove automaticamente la nuova
+puntata anche in homepage. Il blocco si trova subito sotto la linea rossa dell'hero e prima del
+carosello evergreen.
+
 ---
 
 ## Come funziona `ingest.py`
@@ -121,7 +129,7 @@ a2podcast/
 │   ├── _default/baseof.html         # shell HTML comune
 │   ├── _default/single.html         # fallback pagine generiche
 │   ├── _default/list.html           # fallback liste
-│   ├── index.html                   # homepage
+│   ├── index.html                   # homepage: ultimo episodio + player, evergreen, card
 │   ├── 404.html                     # pagina 404 noindex usata da Workers Static Assets
 │   ├── about/single.html            # pagina chi siamo
 │   ├── episodi/single.html          # pagina singolo episodio
@@ -141,7 +149,7 @@ a2podcast/
 │       ├── transcript-inline.html   # trascrizione SRT inline con <details>
 │       └── matomo.html              # snippet analytics Matomo
 ├── static/
-│   ├── css/style.css                # CSS (~1270 righe, no framework, mobile-first)
+│   ├── css/style.css                # CSS (~1280 righe, no framework, mobile-first)
 │   ├── js/matomo.js                 # snippet Matomo estratto (richiesto da CSP)
 │   ├── img/logo.jpg                 # logo podcast (usato in OG e JSON-LD)
 │   ├── _headers                     # Workers Static Assets: HTTP headers, CSP, cache

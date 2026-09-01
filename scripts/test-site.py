@@ -22,6 +22,7 @@ import re
 import subprocess
 import sys
 import time
+from datetime import datetime
 from urllib.parse import unquote, urlparse
 
 import requests
@@ -104,6 +105,32 @@ def list_future_publish_targets() -> tuple[list[tuple[str, str]], str]:
         )
 
     return targets, ""
+
+
+def latest_published_episode_number() -> tuple[int | None, str]:
+    """Return the episode number with the newest published date according to Hugo."""
+    result = subprocess.run(
+        [HUGO_BIN, "list", "published"],
+        cwd=PROJECT_ROOT,
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        return None, result.stdout + result.stderr
+
+    episodes = [
+        row
+        for row in csv.DictReader(io.StringIO(result.stdout))
+        if row.get("kind") == "page" and row.get("section") == "episodi"
+    ]
+    if not episodes:
+        return None, "nessun episodio pubblicato restituito da Hugo"
+
+    latest = max(episodes, key=lambda row: datetime.fromisoformat(row["date"]))
+    try:
+        return int(latest["slug"]), ""
+    except (KeyError, TypeError, ValueError):
+        return None, f"slug episodio non valido: {latest.get('slug')!r}"
 
 
 def start_server(port: int) -> subprocess.Popen:
@@ -280,6 +307,72 @@ def test_homepage(base: str):
         ok("canonical presente")
     else:
         fail("canonical mancante")
+
+    # Ultimo episodio: Hugo deve scegliere la pagina pubblicata più recente e
+    # riusare lo stesso player Spreaker della relativa pagina episodio. La
+    # lista published di Hugo applica lo stesso filtro per draft e date future.
+    featured = re.search(
+        r'<section class="featured-episode" data-episode-number="(\d+)".*?</section>',
+        html,
+        re.DOTALL,
+    )
+    if not featured:
+        fail("sezione ultimo episodio con player non trovata in homepage")
+        return
+
+    featured_html = featured.group(0)
+    expected_number, latest_error = latest_published_episode_number()
+    if expected_number is None:
+        fail("impossibile determinare l'ultimo episodio pubblicato", latest_error)
+        return
+    actual_number = int(featured.group(1))
+    if actual_number == expected_number:
+        ok(f"ultimo episodio pubblicato selezionato dinamicamente: Ep. {actual_number}")
+    else:
+        fail(
+            "episodio in evidenza non è l'ultimo pubblicato",
+            f"homepage={actual_number}, atteso={expected_number}",
+        )
+
+    episode_response = fetch(base, f"/{expected_number}/")
+    episode_player = re.search(
+        r'widget\.spreaker\.com/player\?episode_id=(\d+)', episode_response.text
+    )
+    featured_player = re.search(
+        r'widget\.spreaker\.com/player\?episode_id=(\d+)', featured_html
+    )
+    if (
+        episode_player
+        and featured_player
+        and featured_player.group(1) == episode_player.group(1)
+    ):
+        ok(f"player homepage usa l'ID Spreaker dell'Ep. {expected_number}")
+    else:
+        fail("player homepage non coincide con il player dell'ultimo episodio")
+
+    if 'title="Ascolta ' in featured_html and 'loading="lazy"' in featured_html:
+        ok("iframe dell'ultimo episodio ha titolo accessibile e caricamento lazy")
+    else:
+        fail("iframe homepage privo di titolo accessibile o loading lazy")
+
+    if "Il podcast è attualmente in pausa" not in html:
+        ok("avviso obsoleto sulla pausa rimosso dalla homepage")
+    else:
+        fail("avviso obsoleto sulla pausa ancora presente in homepage")
+
+    if html.find('class="featured-episode"') < html.find('class="pause-notice"'):
+        ok("player dell'ultimo episodio precede il carosello evergreen")
+    else:
+        fail("player dell'ultimo episodio non precede il carosello evergreen")
+
+    css = fetch(base, "/css/style.css").text
+    featured_css = re.search(r'\.featured-episode\s*\{(.*?)\}', css, re.DOTALL)
+    if featured_css and re.search(
+        r'border-top:\s*3px\s+solid\s+var\(--color-brand\)', featured_css.group(1)
+    ):
+        ok("linea rossa sopra il player presente")
+    else:
+        fail("linea rossa sopra il player non trovata nel CSS")
 
 
 def test_episode_with_youtube(base: str):
