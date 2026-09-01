@@ -360,13 +360,10 @@ def test_homepage(base: str):
     else:
         fail("card dell'ultimo episodio mancante")
 
-    if (
-        "episode_image_position=" not in featured_html
-        and "hide-logo=true" in featured_html
-    ):
-        ok("player homepage senza copertina o branding duplicati")
+    if "hide-logo=true" in featured_html:
+        ok("player homepage senza branding Spreaker duplicato")
     else:
-        fail("player homepage ripete copertina o branding")
+        fail("player homepage ripete il branding Spreaker")
 
     if "Il podcast è attualmente in pausa" not in html:
         ok("avviso obsoleto sulla pausa rimosso dalla homepage")

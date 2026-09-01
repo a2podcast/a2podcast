@@ -368,22 +368,23 @@ configurazione Static Assets e dai test live. Dopo il cutover definitivo va comu
 - Gli episodi futuri restano esclusi fino alla loro data. Un build successivo alla pubblicazione
   aggiorna automaticamente sia il player sia il link a note e trascrizione.
 - `head.html` abilita `preconnect` e `dns-prefetch` verso il widget Spreaker anche sulla home, ora
-  che contiene un embed; il foglio stile usa la versione query `v=5` per superare la cache
+  che contiene un embed; il foglio stile usa la versione query `v=6` per superare la cache
   immutabile del percorso `/css/*`.
 - Rimosso il messaggio «Il podcast è attualmente in pausa», non più coerente con la ripartenza;
   il carosello evergreen resta invariato e segue il nuovo player.
 - Il blocco è racchiuso in una card con bordo e ombra leggeri per renderlo riconoscibile come
-  contenuto nuovo senza appesantire la pagina. Sui desktop il player resta a sinistra e testo,
-  metadati e link sono a destra: si usa meglio la larghezza senza perdere la gerarchia editoriale.
-  Sui piccoli schermi la sorgente mantiene l'ordine testo, poi player. La home omette copertina e
-  branding duplicati mediante i parametri ufficiali del player Spreaker; le pagine episodio no.
+  contenuto nuovo senza appesantire la pagina. Solo da 1024 px il player resta a sinistra e testo,
+  metadati e link sono a destra: la card estesa gli riserva la maggioranza della larghezza; sotto
+  la soglia la sorgente mantiene l'ordine testo, poi player, per non schiacciare i controlli su
+  tablet. La home omette il branding Spreaker duplicato mediante il parametro ufficiale; la
+  documentazione di Spreaker non offre invece un parametro per rimuovere la copertina interna.
 
 ### Verifiche automatiche
 
 `scripts/test-site.py` confronta l'episodio in evidenza con la pagina più recente restituita da
 `hugo list published`, verifica che l'ID del widget coincida con quello della pagina episodio, controlla titolo
-accessibile e lazy loading dell'iframe, card in evidenza, assenza della copertina e del branding
-duplicati, ordine rispetto agli evergreen, assenza del vecchio avviso e presenza della linea rossa
+accessibile e lazy loading dell'iframe, card in evidenza, assenza del branding Spreaker duplicato,
+ordine rispetto agli evergreen, assenza del vecchio avviso e presenza della linea rossa
 nel CSS.
 
 ---

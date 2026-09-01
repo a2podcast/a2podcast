@@ -227,7 +227,9 @@ a:hover { color: var(--color-link-hover); }
 }
 
 .featured-episode-inner {
-  max-width: 880px;
+  /* Il widget Spreaker conserva una copertina interna: una card troppo stretta
+     rende inutilizzabile la parte con i controlli. */
+  max-width: var(--wide-width);
 }
 
 .featured-episode-card {
@@ -311,11 +313,14 @@ a:hover { color: var(--color-link-hover); }
   }
 }
 
-@media (min-width: 760px) {
+/* L'affiancamento richiede spazio reale per il player e per una colonna
+   editoriale leggibile. Sotto questa soglia la sequenza naturale testo/player
+   evita di comprimere l'iframe su tablet e piccoli portatili. */
+@media (min-width: 1024px) {
   .featured-episode-card {
     display: grid;
-    grid-template-columns: minmax(0, 1.25fr) minmax(15rem, .75fr);
-    gap: var(--space-xl);
+    grid-template-columns: minmax(0, 1.7fr) minmax(19rem, .8fr);
+    gap: clamp(var(--space-xl), 4vw, var(--space-2xl));
     align-items: center;
   }
 
@@ -328,6 +333,10 @@ a:hover { color: var(--color-link-hover); }
     grid-column: 1;
     grid-row: 1;
     margin: 0;
+  }
+
+  .featured-episode .audio-player iframe {
+    height: 220px;
   }
 
   .featured-episode-link {

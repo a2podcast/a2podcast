@@ -46,10 +46,12 @@ evidenza usa lo `spreakerEpisodeId` già sincronizzato nel front matter da Sprea
 client-side né una seconda fonte dati. Le pagine con data futura sono escluse dal normale filtro di
 pubblicazione Hugo: alla data prevista il build successivo promuove automaticamente la nuova
 puntata anche in homepage. Il blocco si trova subito sotto la linea rossa dell'hero e prima del
-carosello evergreen, in una card visivamente separata. Sui desktop la card affianca il player a
-sinistra e le informazioni editoriali a destra, mentre sui piccoli schermi conserva l'ordine
-lineare delle informazioni seguito dal player. Nella home il player usa i parametri ufficiali
-Spreaker per non ripetere copertina e branding; le pagine episodio restano complete.
+carosello evergreen, in una card visivamente separata. L'affiancamento del player a sinistra e
+delle informazioni editoriali a destra è attivo solo da 1024 px: la card usa l'intera larghezza
+`--wide-width` e riserva al player una colonna più ampia, così i controlli del widget Spreaker non
+si comprimono. Sotto quella soglia conserva l'ordine lineare delle informazioni seguito dal
+player. Nella home il player usa il parametro ufficiale per non ripetere il branding Spreaker;
+la copertina dell'episodio non ha un'opzione ufficiale di rimozione e resta gestita dal widget.
 
 ---
 
