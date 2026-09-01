@@ -339,6 +339,9 @@ Avviato da 2 warning non critici in Google Search Console sui dati strutturati V
 - Build locale eseguita con Hugo Extended 0.160.0: 221 pagine e 63/63 test passati.
 - Collaudo su `workers.dev`: home, `/78/`, sitemap, RSS e SRT restituiscono 200; `/79/` resta 404;
   CSP, cache header, `Content-Type` SRT, `/feed` e `/rss` sono equivalenti al sito Pages.
+- Cutover route eseguito dopo build riusciti da push, Comando Rapido e Cron: `a2podcast.it/*` e
+  `www.a2podcast.it/*` servono ora il Worker Static Assets. La verifica live conserva HTTP 200 per
+  home, `/78/`, sitemap, RSS e SRT, HTTP 404 reale per `/79/`, redirect `www`, CSP e cache.
 - `scripts/test-site.py` non contiene più l'asserzione hardcoded «episodio 78 futuro»: legge
   `hugo list future` e verifica dinamicamente che nessuna pagina futura sia presente in `public/`.
   Questo impedisce che il test diventi obsoleto a ogni nuova puntata programmata.

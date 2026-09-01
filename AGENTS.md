@@ -172,9 +172,9 @@ Esistono due Deploy Hook distinti sul branch `main`:
 - `a2podcast-shortcut`, conservato in 1Password e nel Comando Rapido.
 
 Il Comando Rapido deve mostrare «Build avviata» e il `build_uuid`, non «Sito pubblicato»: la build è
-asincrona. Durante la finestra di collaudo, il workflow GitHub `Deploy to Cloudflare Pages` resta
-disponibile solo come `workflow_dispatch` con il nome «Legacy Pages rollback» e il vecchio progetto
-resta raggiungibile su `a2podcast.pages.dev`.
+asincrona. Nella fase route attiva, il workflow GitHub «Legacy Pages rollback» resta disponibile
+solo come `workflow_dispatch`; il vecchio progetto resta raggiungibile su `a2podcast.pages.dev`
+come rollback fino alla verifica della pubblicazione automatica dell'episodio 79.
 
 ---
 
