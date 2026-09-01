@@ -17,7 +17,7 @@
     {{ end }}
   </header>
 
-  {{ partial "audio-player.html" . }}
+  {{ partial "audio-player.html" (dict "page" . "showEpisodeImage" true) }}
 
   {{ with .Params.youtubeId }}
   <div class="episode-youtube">

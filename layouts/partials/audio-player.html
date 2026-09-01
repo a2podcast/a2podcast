@@ -1,12 +1,14 @@
-{{ with .Params.spreakerEpisodeId }}
+{{ $page := .page }}
+{{ $showEpisodeImage := .showEpisodeImage }}
+{{ with $page.Params.spreakerEpisodeId }}
 {{ $audioUrl := printf "https://api.spreaker.com/v2/episodes/%s/download.mp3" . }}
 <div class="audio-player">
   <iframe
-    src="https://widget.spreaker.com/player?episode_id={{ . }}&theme=light&playlist=false&playlist-continuous=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=false"
+    src="https://widget.spreaker.com/player?episode_id={{ . }}&theme=light&playlist=false&playlist-continuous=false&chapters-image=true{{ if $showEpisodeImage }}&episode_image_position=right{{ end }}&hide-logo=true&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=false"
     width="100%"
     height="200px"
     frameborder="0"
-    title="Ascolta {{ $.Title }} su Spreaker"
+    title="Ascolta {{ $page.Title }} su Spreaker"
     loading="lazy"
     allow="autoplay">
   </iframe>
@@ -15,7 +17,7 @@
   </p>
 </div>
 {{ else }}
-  {{ with .Params.audioUrl }}
+  {{ with $page.Params.audioUrl }}
   <p class="audio-player-fallback">
     <a href="{{ . }}" target="_blank" rel="noopener">Scarica l'audio</a>
   </p>

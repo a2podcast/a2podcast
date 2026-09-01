@@ -355,6 +355,19 @@ def test_homepage(base: str):
     else:
         fail("iframe homepage privo di titolo accessibile o loading lazy")
 
+    if 'class="featured-episode-card"' in featured_html:
+        ok("ultimo episodio racchiuso nella card in evidenza")
+    else:
+        fail("card dell'ultimo episodio mancante")
+
+    if (
+        "episode_image_position=" not in featured_html
+        and "hide-logo=true" in featured_html
+    ):
+        ok("player homepage senza copertina o branding duplicati")
+    else:
+        fail("player homepage ripete copertina o branding")
+
     if "Il podcast è attualmente in pausa" not in html:
         ok("avviso obsoleto sulla pausa rimosso dalla homepage")
     else:
@@ -373,6 +386,11 @@ def test_homepage(base: str):
         ok("linea rossa sopra il player presente")
     else:
         fail("linea rossa sopra il player non trovata nel CSS")
+
+    if ".featured-episode-card" in css:
+        ok("stile della card in evidenza presente")
+    else:
+        fail("stile della card dell'ultimo episodio mancante")
 
 
 def test_episode_with_youtube(base: str):

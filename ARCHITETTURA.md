@@ -46,7 +46,9 @@ evidenza usa lo `spreakerEpisodeId` già sincronizzato nel front matter da Sprea
 client-side né una seconda fonte dati. Le pagine con data futura sono escluse dal normale filtro di
 pubblicazione Hugo: alla data prevista il build successivo promuove automaticamente la nuova
 puntata anche in homepage. Il blocco si trova subito sotto la linea rossa dell'hero e prima del
-carosello evergreen.
+carosello evergreen, in una card visivamente separata. Nel player della home l'immagine della
+puntata e il branding Spreaker sono nascosti: il logo A2 è già presente nella hero; nelle pagine
+episodio resta invece visibile la copertina della puntata.
 
 ---
 

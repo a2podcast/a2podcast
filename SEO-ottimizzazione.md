@@ -365,17 +365,22 @@ configurazione Static Assets e dai test live. Dopo il cutover definitivo va comu
 - Gli episodi futuri restano esclusi fino alla loro data. Un build successivo alla pubblicazione
   aggiorna automaticamente sia il player sia il link a note e trascrizione.
 - `head.html` abilita `preconnect` e `dns-prefetch` verso il widget Spreaker anche sulla home, ora
-  che contiene un embed; il foglio stile usa la versione query `v=3` per superare la cache
+  che contiene un embed; il foglio stile usa la versione query `v=4` per superare la cache
   immutabile del percorso `/css/*`.
 - Rimosso il messaggio «Il podcast è attualmente in pausa», non più coerente con la ripartenza;
   il carosello evergreen resta invariato e segue il nuovo player.
+- Il blocco è racchiuso in una card con bordo e ombra leggeri per renderlo riconoscibile come
+  contenuto nuovo senza appesantire la pagina. Il player della home non ripete più la copertina A2
+  né il branding Spreaker, già rappresentati nella hero; sulle pagine episodio la copertina resta
+  disponibile.
 
 ### Verifiche automatiche
 
 `scripts/test-site.py` confronta l'episodio in evidenza con la pagina più recente restituita da
 `hugo list published`, verifica che l'ID del widget coincida con quello della pagina episodio, controlla titolo
-accessibile e lazy loading dell'iframe, ordine rispetto agli evergreen, assenza del vecchio avviso
-e presenza della linea rossa nel CSS.
+accessibile e lazy loading dell'iframe, card in evidenza, assenza della copertina e del branding
+duplicati, ordine rispetto agli evergreen, assenza del vecchio avviso e presenza della linea rossa
+nel CSS.
 
 ---
 

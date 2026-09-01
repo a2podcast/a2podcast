@@ -25,21 +25,23 @@
 {{ with index $episodes 0 }}
 <section class="featured-episode" data-episode-number="{{ .Params.episodeNumber }}" aria-labelledby="featured-episode-title">
   <div class="page-wrapper featured-episode-inner">
-    <div class="featured-episode-header">
-      <p class="featured-episode-eyebrow">Ultimo episodio</p>
-      <h2 id="featured-episode-title" class="featured-episode-title">
-        <a href="{{ .RelPermalink }}">Ep. {{ .Params.episodeNumber }} · {{ .Title | replaceRE `^\d+[\.:]\s*` "" }}</a>
-      </h2>
-      {{ with .Params.description }}
-      <p class="featured-episode-description">{{ . }}</p>
-      {{ end }}
-      <p class="featured-episode-meta">
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
-        {{ with .Params.duration }}<span> · {{ . }}</span>{{ end }}
-      </p>
-    </div>
-    {{ partial "audio-player.html" . }}
-    <p class="featured-episode-link"><a href="{{ .RelPermalink }}">Note, link e trascrizione dell’episodio →</a></p>
+    <article class="featured-episode-card">
+      <div class="featured-episode-header">
+        <p class="featured-episode-eyebrow">Ultimo episodio</p>
+        <h2 id="featured-episode-title" class="featured-episode-title">
+          <a href="{{ .RelPermalink }}">Ep. {{ .Params.episodeNumber }} · {{ .Title | replaceRE `^\d+[\.:]\s*` "" }}</a>
+        </h2>
+        {{ with .Params.description }}
+        <p class="featured-episode-description">{{ . }}</p>
+        {{ end }}
+        <p class="featured-episode-meta">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
+          {{ with .Params.duration }}<span> · {{ . }}</span>{{ end }}
+        </p>
+      </div>
+      {{ partial "audio-player.html" (dict "page" . "showEpisodeImage" false) }}
+      <p class="featured-episode-link"><a href="{{ .RelPermalink }}">Note, link e trascrizione dell’episodio →</a></p>
+    </article>
   </div>
 </section>
 {{ end }}

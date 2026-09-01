@@ -220,14 +220,22 @@ a:hover { color: var(--color-link-hover); }
 
 /* ── Ultimo episodio in homepage ── */
 .featured-episode {
-  background: #fff8f0;
+  background: linear-gradient(135deg, #fff8f0 0%, #fff3e4 100%);
   border-top: 3px solid var(--color-brand);
   border-bottom: 1px solid var(--color-border);
-  padding: var(--space-xl) 0;
+  padding: clamp(var(--space-xl), 5vw, var(--space-2xl)) 0;
 }
 
 .featured-episode-inner {
   max-width: 880px;
+}
+
+.featured-episode-card {
+  background: #fff;
+  border: 1px solid rgba(193, 58, 10, .18);
+  border-radius: 12px;
+  box-shadow: 0 12px 30px rgba(83, 37, 14, .12);
+  padding: clamp(var(--space-lg), 4vw, var(--space-xl));
 }
 
 .featured-episode-header {
@@ -272,11 +280,31 @@ a:hover { color: var(--color-link-hover); }
 
 .featured-episode .audio-player {
   background: #fff;
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  overflow: hidden;
   margin: var(--space-lg) 0 var(--space-sm);
 }
 
 .featured-episode-link {
   text-align: right;
+}
+
+.featured-episode-link a:focus-visible,
+.featured-episode-title a:focus-visible {
+  outline: 3px solid var(--color-brand);
+  outline-offset: 3px;
+}
+
+@media (max-width: 480px) {
+  .featured-episode-card {
+    border-radius: var(--radius);
+    padding: var(--space-md);
+  }
+
+  .featured-episode-link {
+    text-align: left;
+  }
 }
 
 /* ── Episodi evergreen / carosello ── */
