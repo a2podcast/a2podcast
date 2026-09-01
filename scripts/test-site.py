@@ -13,18 +13,22 @@ Eseguire dalla cartella a2podcast/.
 """
 
 import argparse
+import csv
 import glob
+import io
 import json
 import os
 import re
 import subprocess
 import sys
 import time
+from urllib.parse import unquote, urlparse
 
 import requests
 
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 EPISODES_DIR = os.path.join(PROJECT_ROOT, "content", "episodi")
+HUGO_BIN = os.environ.get("HUGO_BIN", "hugo")
 
 # Episodi noti senza live YouTube
 NO_YOUTUBE = {40, 44, 66, 77}
@@ -63,16 +67,48 @@ def run_build() -> bool:
     """Run hugo --gc --minify and return True on success."""
     print(f"  Esecuzione: hugo --gc --minify ...")
     result = subprocess.run(
-        ["hugo", "--gc", "--minify"],
+        [HUGO_BIN, "--gc", "--minify"],
         cwd=PROJECT_ROOT,
         capture_output=True, text=True
     )
     return result.returncode == 0, result.stdout + result.stderr
 
 
+def list_future_publish_targets() -> tuple[list[tuple[str, str]], str]:
+    """Return Hugo future pages and their expected files below public/."""
+    result = subprocess.run(
+        [HUGO_BIN, "list", "future"],
+        cwd=PROJECT_ROOT,
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        return [], result.stdout + result.stderr
+
+    targets = []
+    for row in csv.DictReader(io.StringIO(result.stdout)):
+        permalink = row.get("permalink", "")
+        path = unquote(urlparse(permalink).path)
+        if not path:
+            continue
+
+        relative_path = path.lstrip("/")
+        if path.endswith("/"):
+            relative_path = os.path.join(relative_path, "index.html")
+
+        targets.append(
+            (
+                row.get("path", permalink),
+                os.path.join(PROJECT_ROOT, "public", relative_path),
+            )
+        )
+
+    return targets, ""
+
+
 def start_server(port: int) -> subprocess.Popen:
     proc = subprocess.Popen(
-        ["hugo", "server", "--port", str(port), "--disableLiveReload"],
+        [HUGO_BIN, "server", "--port", str(port), "--disableLiveReload"],
         cwd=PROJECT_ROOT,
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
@@ -153,11 +189,20 @@ def test_build(build: bool) -> int:
     else:
         fail("public/sitemap.xml non trovata")
 
-    future_ep = os.path.join(PROJECT_ROOT, "public", "78", "index.html")
-    if not os.path.exists(future_ep):
-        ok("episodio 78 futuro non pubblicato nella build corrente")
+    future_targets, future_error = list_future_publish_targets()
+    if future_error:
+        fail("impossibile elencare le pagine future con Hugo", future_error[-300:])
     else:
-        fail("episodio 78 futuro pubblicato prima della data prevista")
+        published_early = [source for source, target in future_targets if os.path.exists(target)]
+        if published_early:
+            fail(
+                "pagine future pubblicate prima della data prevista",
+                ", ".join(published_early),
+            )
+        elif future_targets:
+            ok(f"{len(future_targets)} pagine future escluse dalla build corrente")
+        else:
+            ok("nessuna pagina futura indicata da Hugo")
 
 
 def test_homepage(base: str):
@@ -609,7 +654,7 @@ def test_404(base: str):
 
     page_404 = os.path.join(PROJECT_ROOT, "public", "404.html")
     if os.path.exists(page_404):
-        ok("public/404.html presente (disattiva la modalità SPA di Cloudflare Pages)")
+        ok("public/404.html presente (404-page in Workers Static Assets)")
         with open(page_404, encoding="utf-8") as f:
             html_404 = f.read()
         if 'noindex' in html_404:

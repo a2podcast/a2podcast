@@ -13,10 +13,13 @@ Ospitato su Spreaker, network Runtime Radio da feb 2025.
 ## Quick Start
 
 ```bash
+npm ci                          # Wrangler 4.127.1 e tool di verifica
 hugo server -D                  # dev server locale
 python3 scripts/ingest.py       # sincronizza episodi da RSS + note
 hugo --gc --minify              # build produzione
-python3 scripts/test-site.py   # test automatici completi (build + HTTP + frontmatter)
+python3 scripts/test-site.py    # test automatici completi (build + HTTP + frontmatter)
+npm run deploy:dry-run          # valida Workers Static Assets senza pubblicare
+npm run check:cron              # tipi + test del Worker Cron
 ```
 
 ---
@@ -50,7 +53,7 @@ Prima di implementare qualsiasi soluzione custom (partial, CSS, JavaScript), ver
      youtubeId = "ID_VIDEO"   # 11 caratteri dall'URL youtube.com/watch?v=XXXXX
    ```
 4. `git add content/episodi/NN/ && git commit -m "ep: Ep. NN: Titolo"`
-5. `git push` → Cloudflare Pages rebuild automatico (~1 min)
+5. `git push` → Cloudflare Workers Builds ricostruisce e pubblica il sito
 
 ## Workflow: promuovere episodio editato da iCloud
 
@@ -110,6 +113,9 @@ Richiede `ANTHROPIC_API_KEY` nell'ambiente. Installa con `pip3 install anthropic
 | `layouts/partials/schema-episode.html` | JSON-LD PodcastEpisode |
 | `static/css/style.css` | tutto il CSS (~1100 righe) |
 | `static/_headers` | HTTP headers Cloudflare (CSP, HSTS) |
+| `wrangler.jsonc` | Worker `a2podcast-site` con Static Assets da `public/` |
+| `package.json` / `package-lock.json` | Wrangler fissato e comandi build/test/deploy |
+| `workers/rebuild-cron/` | Worker schedulato che richiama il Deploy Hook orario |
 | `scripts/ingest.py` | ingestione episodi da RSS |
 | `scripts/promote-edited-episode.py` | promozione controllata di episodi già editati |
 
@@ -141,14 +147,34 @@ draft = false
 
 ---
 
-## Deploy (Cloudflare Pages)
+## Deploy (Cloudflare Workers Builds)
 
 | Parametro | Valore |
 |-----------|--------|
+| Worker sito | `a2podcast-site` (Static Assets) |
+| Repository | `github.com/a2podcast/a2podcast` |
 | Branch | `main` |
 | Build command | `hugo --gc --minify` |
-| Output directory | `public` |
-| Env var | `HUGO_VERSION = 0.145.0` |
+| Deploy command | `npx wrangler deploy` |
+| Asset directory | `public` |
+| Env var | `HUGO_VERSION = extended_0.160.0` |
+| Env var | `NODE_VERSION = 22` |
+| Build branch non-main | disabilitate |
+
+Il Worker `a2podcast-rebuild-cron` ha il Cron Trigger `5 * * * *`. Usa
+`event.scheduledTime` in `Europe/Rome` e richiama il Deploy Hook dedicato soltanto per gli slot
+05:05–22:05 inclusi. Il relativo URL è il secret Cloudflare `DEPLOY_HOOK_URL`: non va mai inserito
+nel repository o nei log.
+
+Esistono due Deploy Hook distinti sul branch `main`:
+
+- `a2podcast-schedule`, usato solo dal Worker Cron;
+- `a2podcast-shortcut`, conservato in 1Password e nel Comando Rapido.
+
+Il Comando Rapido deve mostrare «Build avviata» e il `build_uuid`, non «Sito pubblicato»: la build è
+asincrona. Durante la finestra di collaudo, il workflow GitHub `Deploy to Cloudflare Pages` resta
+disponibile solo come `workflow_dispatch` con il nome «Legacy Pages rollback» e il vecchio progetto
+resta raggiungibile su `a2podcast.pages.dev`.
 
 ---
 
@@ -182,13 +208,12 @@ feat: sezione newsletter in homepage
 security: restringe img-src nella CSP
 ```
 
-**Push → deploy automatico** su Cloudflare Pages (~1 min). Non serve altro.
+**Push → build e deploy automatici** tramite Cloudflare Workers Builds. Non serve avviare GitHub
+Actions; per una ricostruzione senza nuovo commit usare il Comando Rapido dedicato.
 
-**Se dopo il push non parte nulla**, controllare che il workflow non sia stato disattivato da GitHub
-per inattività (`gh workflow list --all` → `disabled_inactivity`): succede dopo ~60 giorni senza
-attività nel repo e blocca sia il deploy su push sia il cron della pubblicazione programmata.
-Si riattiva con `gh workflow enable "Deploy to Cloudflare Pages"` e si lancia subito con
-`gh workflow run "Deploy to Cloudflare Pages"`.
+**Se dopo il push non parte nulla**, controllare in Cloudflare Workers & Pages →
+`a2podcast-site` → Builds che la connessione GitHub sia attiva, che il branch di produzione sia
+`main` e che il build non sia fallito. Il workflow GitHub legacy non è il sistema di deploy ordinario.
 
 **Regola:** quando l'utente chiede di fare commit, merge o "pubblica/deploya", eseguire sempre anche `git push` (con `gh auth switch --user a2podcast` se necessario) senza aspettare ulteriore conferma.
 

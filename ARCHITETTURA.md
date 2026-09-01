@@ -9,9 +9,11 @@ Per i comandi operativi quotidiani vedi [CLAUDE.md](./CLAUDE.md).
 
 | Strato | Tecnologia |
 |--------|-----------|
-| Generatore statico | Hugo v0.145+ (sviluppo locale testato su 0.160) |
+| Generatore statico | Hugo Extended 0.160.0 (fissato durante la migrazione hosting) |
 | Audio hosting | Spreaker (show `6519470`) |
-| Deploy | Cloudflare Pages (build automatico su push a `main`) |
+| Build | Cloudflare Workers Builds dal branch GitHub `main` |
+| Hosting | Cloudflare Worker `a2podcast-site` con Static Assets |
+| Scheduler | Worker `a2podcast-rebuild-cron`, Cron orario filtrato su `Europe/Rome` |
 | Analytics | Matomo self-hosted (`matomo.studiolegalestrozzi.it`) + Cloudflare Web Analytics |
 | Network | Runtime Radio (da feb 2025) |
 | Dominio | `a2podcast.it` su Cloudflare DNS |
@@ -96,6 +98,9 @@ per inserirlo nell'MP3. Dopo `--apply` esegue la build Hugo e, se disponibile,
 ```
 a2podcast/
 ├── hugo.toml                        # config Hugo (baseURL, permalink, params podcast)
+├── wrangler.jsonc                   # Worker Static Assets a2podcast-site
+├── package.json                     # Wrangler 4.127.1 e comandi build/test/deploy
+├── package-lock.json                # dipendenze riproducibili per Workers Builds
 ├── CLAUDE.md                        # istruzioni operative (comandi, workflow)
 ├── ARCHITETTURA.md                  # questo file
 ├── content/
@@ -117,7 +122,7 @@ a2podcast/
 │   ├── _default/single.html         # fallback pagine generiche
 │   ├── _default/list.html           # fallback liste
 │   ├── index.html                   # homepage
-│   ├── 404.html                     # pagina 404 (noindex, no fallback SPA di Cloudflare Pages)
+│   ├── 404.html                     # pagina 404 noindex usata da Workers Static Assets
 │   ├── about/single.html            # pagina chi siamo
 │   ├── episodi/single.html          # pagina singolo episodio
 │   ├── episodi/list.html            # lista /episodi/
@@ -139,7 +144,7 @@ a2podcast/
 │   ├── css/style.css                # CSS (~1270 righe, no framework, mobile-first)
 │   ├── js/matomo.js                 # snippet Matomo estratto (richiesto da CSP)
 │   ├── img/logo.jpg                 # logo podcast (usato in OG e JSON-LD)
-│   ├── _headers                     # Cloudflare Pages: HTTP headers, CSP, cache
+│   ├── _headers                     # Workers Static Assets: HTTP headers, CSP, cache
 │   ├── _redirects                   # /feed e /rss → Spreaker RSS
 │   └── trascrizioni/                # file SRT trascrizioni (ep-NN.srt)
 ├── scripts/
@@ -152,6 +157,13 @@ a2podcast/
 │   ├── fix-fireside-links.py        # sostituisce link a2podcast.fireside.fm → a2podcast.it negli episodi
 │   ├── test-site.py                 # test automatici (build + HTTP + frontmatter)
 │   └── requirements.txt             # feedparser, python-slugify, requests
+├── workers/
+│   └── rebuild-cron/
+│       ├── wrangler.jsonc            # Cron 5 * * * *, secret obbligatorio, log/traces 100%
+│       ├── src/index.js              # filtro Europe/Rome + POST e validazione Deploy Hook
+│       ├── test/index.test.js        # CET/CEST, limiti orari, 200/4xx/5xx/JSON invalido
+│       ├── tsconfig.json             # checkJs rigoroso
+│       └── worker-configuration.d.ts # tipi generati da Wrangler
 └── _skills-staging/                 # skill in staging per revisione (Hugo ignora il prefisso _)
     └── a2-podcast-ep/               # skill: da SRT genera sinossi+link e li fonde nell'episodio
         ├── SKILL.md                 # manifest (compatibile Claude Code + OpenAI Codex)
@@ -229,7 +241,10 @@ La sitemap usa un template custom (`layouts/sitemap.xml`) che **esclude i Kind `
 
 La sitemap dichiara anche il namespace `xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"` e, per ogni pagina con `youtubeId`, un blocco `<video:video>` (thumbnail_loc, title, description, `player_loc allow_embed="yes"`, publication_date) — 73 blocchi (fix agosto 2026, leva contro il warning "video non su pagina di visualizzazione"). Nota implementativa: nel `range .Pages` del template va assegnata una variabile `$page := .`; usare `$` punta al contesto del template (la home), non alla pagina in iterazione, e produce un solo blocco vuoto con data `0001-01-01`.
 
-`layouts/404.html` (nuovo, agosto 2026) è necessario perché Cloudflare Pages, senza un `404.html` al livello superiore del sito, tratta il progetto come una single-page application e risponde 200 con l'homepage (canonical alla home incluso) su qualunque URL inesistente — causa più probabile dei warning GSC "Pagina alternativa con tag canonical appropriato" e "Pagina scansionata, ma attualmente non indicizzata". `head.html` imposta `noindex` e un `<title>` dedicato per `.Kind "404"`.
+`layouts/404.html` (nuovo, agosto 2026) evita che gli URL inesistenti ricadano sulla homepage con
+HTTP 200 e canonical alla home. In Workers Static Assets il comportamento è reso esplicito da
+`assets.not_found_handling = "404-page"`; `head.html` imposta `noindex` e un `<title>` dedicato per
+`.Kind "404"`.
 
 ---
 
@@ -250,7 +265,7 @@ Il template è già pronto. Workflow completo:
 
 ## Sicurezza: header HTTP (`static/_headers`)
 
-Headers applicati da Cloudflare Pages a tutte le risposte:
+Headers applicati nativamente da Workers Static Assets tramite `_headers` a tutte le risposte:
 - `X-Frame-Options: SAMEORIGIN` — previene clickjacking
 - `X-Content-Type-Options: nosniff` — previene MIME sniffing
 - `Referrer-Policy: strict-origin-when-cross-origin`
@@ -263,7 +278,7 @@ Lo script Matomo vive in `static/js/matomo.js` (file esterno) per evitare `'unsa
 Cloudflare Web Analytics (RUM, senza cookie) usa il **setup manuale**: `layouts/partials/cloudflare-analytics.html`,
 incluso da `baseof.html`, con il token in `hugo.toml` (`params.cloudflareAnalyticsToken`).
 L'*auto-install* di zona era stato provato per primo ma non iniettava il beacon nelle risposte servite
-da Cloudflare Pages, quindi è stato disattivato per evitare doppia iniezione (Cloudflare ammette un
+dal precedente hosting Pages, quindi è stato disattivato per evitare doppia iniezione (Cloudflare ammette un
 solo snippet per pagina). La CSP deve consentirlo, altrimenti il browser lo blocca:
 `static.cloudflareinsights.com` in `script-src` e `cloudflareinsights.com` in `connect-src` — nel setup
 manuale il beacon riporta a `cloudflareinsights.com/cdn-cgi/rum`, non al dominio del sito.
@@ -286,17 +301,62 @@ arrivare nemmeno col token corretto.
 
 ---
 
-## Deploy — Cloudflare Pages
+## Deploy — Cloudflare Workers Builds e Static Assets
 
 | Parametro | Valore |
 |-----------|--------|
-| Repository | `github.com/a2podcast` |
+| Worker sito | `a2podcast-site` |
+| Repository | `github.com/a2podcast/a2podcast` |
 | Branch | `main` |
 | Build command | `hugo --gc --minify` |
-| Output directory | `public` |
-| Env var | `HUGO_VERSION = 0.145.0` |
+| Deploy command | `npx wrangler deploy` |
+| Static Assets | `./public` |
+| Env var | `HUGO_VERSION = extended_0.160.0` |
+| Env var | `NODE_VERSION = 22` |
+| Branch non-main | build disabilitate |
 
-Push su `main` → build automatico in ~1 minuto.
+Il flusso ordinario è:
+
+```text
+GitHub main → Workers Builds → Hugo → wrangler deploy → Worker Static Assets
+```
+
+`wrangler.jsonc` usa `not_found_handling: "404-page"` e
+`html_handling: "auto-trailing-slash"`. Il Worker è prima verificato sul dominio
+`a2podcast-site.twilight-glitter-a31d.workers.dev`; il dominio pubblico viene collegato soltanto
+dopo il collaudo. `_headers`, `_redirects` e `404.html` restano nel build Hugo e sono supportati
+nativamente da Workers Static Assets, quindi non esiste un Worker applicativo davanti agli asset.
+
+### Ricostruzioni programmate e manuali
+
+Due Deploy Hook Workers Builds distinti puntano a `main`: `a2podcast-schedule` e
+`a2podcast-shortcut`. L'URL è una credenziale replayabile e non compare nel repository né nei log.
+Il primo è il secret `DEPLOY_HOOK_URL` del Worker `a2podcast-rebuild-cron`; il secondo vive in
+1Password e nel Comando Rapido.
+
+Il Cron Trigger Cloudflare è `5 * * * *` e opera in UTC. `scheduled()` converte
+`event.scheduledTime` in `Europe/Rome` e invia il POST solo se l'ora locale è tra 5 e 22 incluse:
+questo produce 18 slot giornalieri, dalle 05:05 alle 22:05, senza dover cambiare cron al passaggio
+CET/CEST e senza dipendere dall'ora effettiva, potenzialmente ritardata, di esecuzione. Il `fetch` è
+atteso; status HTTP, JSON, `success` e `build_uuid` vengono validati. I log strutturati contengono
+`build_uuid`, `already_exists` e stato, mai l'URL del hook.
+
+Lo scheduler ha Workers Logs e traces al 100%. I test coprono CET/CEST, 04:05/05:05/22:05/23:05,
+deduplicazione, errori 4xx/5xx e JSON non valido. Il Worker non espone endpoint HTTP:
+`workers_dev` e preview URL sono disabilitati.
+
+### Cutover e rollback
+
+Durante il collaudo Pages resta l'origine di rollback e il workflow GitHub diventa
+`workflow_dispatch`-only con nome «Legacy Pages rollback». Dopo almeno un build su push, uno dal
+Comando Rapido e uno dal Cron riusciti, le route temporanee `a2podcast.it/*` e
+`www.a2podcast.it/*` servono il Worker. Dopo la pubblicazione automatica dell'episodio 79, le route
+vengono sostituite dai Custom Domains e i domini vengono rimossi da Pages. Il progetto legacy resta
+su `a2podcast.pages.dev` per 30 giorni.
+
+Rollback nella fase route: rimuovere le Worker Routes e riattivare Pages. Rollback dopo il cutover:
+`npx wrangler rollback`; se il guasto riguarda la piattaforma, riassociare i domini al progetto
+Pages legacy.
 
 ---
 

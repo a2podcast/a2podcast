@@ -321,6 +321,38 @@ Avviato da 2 warning non critici in Google Search Console sui dati strutturati V
 
 ---
 
+## Fase 8 — Settembre 2026 (migrazione Pages → Workers Static Assets)
+
+### Hosting senza variazioni di URL o markup
+
+- Il sito passa a `GitHub main → Cloudflare Workers Builds → Worker Static Assets`; non cambiano
+  dominio canonico, permalink, contenuti, template o structured data.
+- `wrangler.jsonc` rende espliciti `not_found_handling: "404-page"` e
+  `html_handling: "auto-trailing-slash"`. Il primo conserva il 404 reale e `noindex`; il secondo
+  mantiene gli URL canonici Hugo con slash finale, evitando duplicati.
+- Workers Static Assets interpreta nativamente `_headers`, `_redirects` e `404.html`: CSP, header
+  di sicurezza/cache e redirect `/feed`/`/rss` restano quindi allineati al deploy Pages senza
+  JavaScript o partial aggiuntivi.
+
+### Test di parità
+
+- Build locale eseguita con Hugo Extended 0.160.0: 221 pagine e 63/63 test passati.
+- Collaudo su `workers.dev`: home, `/78/`, sitemap, RSS e SRT restituiscono 200; `/79/` resta 404;
+  CSP, cache header, `Content-Type` SRT, `/feed` e `/rss` sono equivalenti al sito Pages.
+- `scripts/test-site.py` non contiene più l'asserzione hardcoded «episodio 78 futuro»: legge
+  `hugo list future` e verifica dinamicamente che nessuna pagina futura sia presente in `public/`.
+  Questo impedisce che il test diventi obsoleto a ogni nuova puntata programmata.
+
+### Impatto SEO atteso
+
+La migrazione è intenzionalmente neutra per Google: stesso hostname, stessi URL, status code e
+header. Il rischio principale del cambio hosting era reintrodurre il fallback SPA con HTTP 200 o
+modificare la canonicalizzazione degli slash; entrambe le condizioni sono coperte dalla
+configurazione Static Assets e dai test live. Dopo il cutover definitivo va comunque eseguita
+*Convalida correzione* in Google Search Console sui report Video e indicizzazione già aperti.
+
+---
+
 ## Cosa è stato valutato e scartato
 
 | Intervento | Motivo del no |

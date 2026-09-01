@@ -1,0 +1,19 @@
+{
+  "name": "a2podcast-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "hugo --gc --minify",
+    "deploy": "wrangler deploy",
+    "deploy:dry-run": "wrangler deploy --dry-run",
+    "test:cron": "node --test workers/rebuild-cron/test/*.test.js",
+    "types:cron": "wrangler types workers/rebuild-cron/worker-configuration.d.ts --config workers/rebuild-cron/wrangler.jsonc --include-runtime false",
+    "check:cron": "npm run types:cron && tsc --project workers/rebuild-cron/tsconfig.json && npm run test:cron"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "5.20260901.1",
+    "@types/node": "22.20.1",
+    "typescript": "5.9.2",
+    "wrangler": "4.127.1"
+  }
+}
