@@ -368,14 +368,15 @@ configurazione Static Assets e dai test live. Dopo il cutover definitivo va comu
 - Gli episodi futuri restano esclusi fino alla loro data. Un build successivo alla pubblicazione
   aggiorna automaticamente sia il player sia il link a note e trascrizione.
 - `head.html` abilita `preconnect` e `dns-prefetch` verso il widget Spreaker anche sulla home, ora
-  che contiene un embed; il foglio stile usa la versione query `v=4` per superare la cache
+  che contiene un embed; il foglio stile usa la versione query `v=5` per superare la cache
   immutabile del percorso `/css/*`.
 - Rimosso il messaggio «Il podcast è attualmente in pausa», non più coerente con la ripartenza;
   il carosello evergreen resta invariato e segue il nuovo player.
 - Il blocco è racchiuso in una card con bordo e ombra leggeri per renderlo riconoscibile come
-  contenuto nuovo senza appesantire la pagina. Il player della home non ripete più la copertina A2
-  né il branding Spreaker, già rappresentati nella hero; sulle pagine episodio la copertina resta
-  disponibile.
+  contenuto nuovo senza appesantire la pagina. Sui desktop il player resta a sinistra e testo,
+  metadati e link sono a destra: si usa meglio la larghezza senza perdere la gerarchia editoriale.
+  Sui piccoli schermi la sorgente mantiene l'ordine testo, poi player. La home omette copertina e
+  branding duplicati mediante i parametri ufficiali del player Spreaker; le pagine episodio no.
 
 ### Verifiche automatiche
 

@@ -387,10 +387,10 @@ def test_homepage(base: str):
     else:
         fail("linea rossa sopra il player non trovata nel CSS")
 
-    if ".featured-episode-card" in css:
-        ok("stile della card in evidenza presente")
+    if ".featured-episode-card" in css and "grid-template-columns" in css:
+        ok("card in evidenza con layout desktop a due colonne presente")
     else:
-        fail("stile della card dell'ultimo episodio mancante")
+        fail("layout desktop a due colonne della card mancante")
 
 
 def test_episode_with_youtube(base: str):

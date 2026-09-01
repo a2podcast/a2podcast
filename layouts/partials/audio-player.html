@@ -4,7 +4,7 @@
 {{ $audioUrl := printf "https://api.spreaker.com/v2/episodes/%s/download.mp3" . }}
 <div class="audio-player">
   <iframe
-    src="https://widget.spreaker.com/player?episode_id={{ . }}&theme=light&playlist=false&playlist-continuous=false&chapters-image=true{{ if $showEpisodeImage }}&episode_image_position=right{{ end }}&hide-logo=true&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=false"
+    src="https://widget.spreaker.com/player?episode_id={{ . }}&theme=light&playlist=false&playlist-continuous=false&chapters-image=true{{ if $showEpisodeImage }}&episode_image_position=right{{ end }}&hide-logo={{ if $showEpisodeImage }}false{{ else }}true{{ end }}&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=false"
     width="100%"
     height="200px"
     frameborder="0"

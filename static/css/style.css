@@ -238,6 +238,10 @@ a:hover { color: var(--color-link-hover); }
   padding: clamp(var(--space-lg), 4vw, var(--space-xl));
 }
 
+.featured-episode-content {
+  min-width: 0;
+}
+
 .featured-episode-header {
   max-width: var(--content-width);
 }
@@ -303,6 +307,31 @@ a:hover { color: var(--color-link-hover); }
   }
 
   .featured-episode-link {
+    text-align: left;
+  }
+}
+
+@media (min-width: 760px) {
+  .featured-episode-card {
+    display: grid;
+    grid-template-columns: minmax(0, 1.25fr) minmax(15rem, .75fr);
+    gap: var(--space-xl);
+    align-items: center;
+  }
+
+  .featured-episode-content {
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  .featured-episode .audio-player {
+    grid-column: 1;
+    grid-row: 1;
+    margin: 0;
+  }
+
+  .featured-episode-link {
+    margin-top: var(--space-lg);
     text-align: left;
   }
 }
