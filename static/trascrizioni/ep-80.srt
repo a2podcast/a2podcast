@@ -1,0 +1,1199 @@
+1
+00:00:01,840 --> 00:00:07,040
+A, due podcast: scopri come ottenere il massimo dalla tua tecnologia Apple.
+
+2
+00:00:07,040 --> 00:00:15,760
+Due professionisti, Filippo e Roberto te lo spiegano con argomenti monotematici ed ospiti che raccontano il loro flusso di lavoro.
+
+3
+00:00:17,920 --> 00:00:23,280
+Benvenuti all'episodio 80 di A2 in cui scoprire come ottenere il massimo dalla vostra tecnologia Apple.
+
+4
+00:00:23,280 --> 00:00:27,200
+Io sono Filippo Strozi e sono il vostro ospite assieme all'amico Roberto Marin.
+
+5
+00:00:27,200 --> 00:00:29,280
+Di che cosa parliamo in questo episodio, Roberto?
+
+6
+00:00:29,280 --> 00:00:47,680
+Oggi parliamo di una cosa che meno male abbiamo sentito da tutte le parti perché ormai siamo immersi nell'intelligenza artificiale, e penso che qualsiasi ascoltatore del nostro podcast, ma anche chi ci segue da vicino, ci sia chiesto se è il caso di parlare di automazione in questo momento storico.
+
+7
+00:00:47,680 --> 00:00:55,440
+Ma non solo automazione, la domanda che voglio porci a entrambi e quindi cercare di rispondere è una sola.
+
+8
+00:00:55,440 --> 00:01:02,720
+L'automazione classica di Apple, visto che siamo all'interno a due podcast in cui vi raccontiamo la tecnologia Apple per i professionisti.
+
+9
+00:01:02,720 --> 00:01:06,640
+Parliamo quindi di automazione classica di Apple come shortcuts.
+
+10
+00:01:06,640 --> 00:01:11,600
+Che i board maestro Aids, Apple Script e chi più ne ha più ne metta.
+
+11
+00:01:11,600 --> 00:01:16,960
+Se è ancora rilevante nel 2026, nell'era dell'intelligenza artificiale generative.
+
+12
+00:01:17,200 --> 00:01:17,920
+Cosa facciamo?
+
+13
+00:01:17,920 --> 00:01:19,840
+Buttaamo tutto e impariamo a chattare con voi.
+
+14
+00:01:19,840 --> 00:01:20,480
+Che un'idea!
+
+15
+00:01:20,640 --> 00:01:21,040
+Un'idea.
+
+16
+00:01:21,040 --> 00:01:27,760
+No, io sono ancora della teoria che le automazioni vecchio stile siano utili.
+
+17
+00:01:27,760 --> 00:01:37,200
+Diciamo che è un piccolo spoiler, ma la mia personale convinzione è quella che le due cose possano essere gestite assieme.
+
+18
+00:01:37,200 --> 00:01:53,520
+E probabilmente per molti utenti, l'unione fa la forza, nel senso che appunto, si possono utilizzare i punti di forza di entrambe le situazioni per risolvere tante problematiche.
+
+19
+00:01:53,520 --> 00:02:06,760
+Breve premessa di comunicazione di servizio, diciamo, abbiamo già affrontato quindi l'argomento in varie puntate di due podcast, diciamo, ma sono passati due o tre anni sostanzialmente e appunto è cambiata molto la vicenda.
+
+20
+00:02:07,160 --> 00:02:30,360
+Visto che sono io quello che deve andare via veloce e però mi sembra corretto, dare soprattutto per chi non diciamo nuovo della trasmissione mettiamola in questi termini, dare un minimo il quadro generale, nella sostanza nella puntata 14, abbiamo proprio parlato a livello introduttivo, di cosa significa automazione.
+
+21
+00:02:30,360 --> 00:02:35,080
+Poi abbiamo dedicato ben tre puntate a comandi rapidi: la 22, la 24 e la 26.
+
+22
+00:02:35,080 --> 00:02:45,400
+Quindi ovviamente non ci ripeteremo particolarmente, diamo per scontate se poi all'ascoltatore interessa approfondire, diciamo, ci sono le puntate di riferimento.
+
+23
+00:02:45,640 --> 00:02:56,600
+Tra l'altro probabilmente in un futuro prossimo faremo un punto, soprattutto con gli OS 27, diciamo delle novità di comandi rapidi.
+
+24
+00:02:56,600 --> 00:03:02,200
+Perché lì forse ha senso riprendere in mano un po' tutta la vicenda, mettiamola in questi termini.
+
+25
+00:03:02,200 --> 00:03:05,080
+Poi nella puntata 52 abbiamo parlato di Kibbo Maestro.
+
+26
+00:03:05,080 --> 00:03:16,840
+Nella puntata 56 abbiamo parlato di maestro, diciamo, mentre comandi rapidi è l'interfaccia moderna, diciamo per automatizzare con Apple, giusto per chi proprio nulla sa di niente.
+
+27
+00:03:16,840 --> 00:03:22,520
+Kybo maestro è un'applicazione solo per Mac quindi funziona solo su Mac.
+
+28
+00:03:22,520 --> 00:03:57,520
+Mentre comandi rapidi funziona intrapiattaforme così, con limiti reciproci quindi non tutto quello che funziona su Mac, funziona su iOS e Pados e alla stessa maniera, diciamo, non tutto quello che funziona su IOS e Padossa funziona su Mac, Kim Maestro invece funziona solo su Mac e diciamo, permette di fare veramente tante cose, molte più cose, diciamo, di quello che riesce a fare con comandi rapidi, è un po' più impegnativo, diciamo, nella parte iniziale, ma riesce a fare anche molte più cose.
+
+29
+00:03:57,520 --> 00:04:03,360
+Hazel invece è un sistema di automazione, diciamo documentale, mettiamole in questi termini.
+
+30
+00:04:03,680 --> 00:04:11,840
+Quindi, in base al file che viene caricato su una determinata cartella che viene controllata da Hazel, si possono fare N cose.
+
+31
+00:04:12,000 --> 00:04:15,200
+Anche qui la parte iniziale è molto semplice.
+
+32
+00:04:15,280 --> 00:04:25,680
+In base a determinati pattern, per esempio, si può rinominare un file o spostare il file, ma non solo perché io ci ho fatto fare praticamente anche il caffè, mettiamolo in questi termini.
+
+33
+00:04:25,920 --> 00:04:30,400
+Abbiamo parlato poi di espansione del testo nella puntata 59.
+
+34
+00:04:30,400 --> 00:04:36,400
+Anche qui sono forse le automazioni più semplici da introdurre, quindi la puntata 59.
+
+35
+00:04:36,400 --> 00:04:48,800
+Io la consiglio, perché se non vuoi fare null'altro di automazione l'automazione testuale anche per l'utilizzo l'intelligenza artificiale, è un Mast have come si suol dire.
+
+36
+00:04:48,800 --> 00:04:51,040
+Non abbiamo mai parlato invece.
+
+37
+00:04:51,360 --> 00:05:18,560
+Oggi ne parleremo di straforo, proprio perché è legato all'intelligenza artificiale, alle capacità che ti permette di acquisire l'utilizzo dell'intelligenza artificiale, invece di Apple Script, Apple Script è un linguaggio di programmazione pensato esclusivamente per il sistema operativo Mac sostanziamente per MEC OS, non abbiamo fatto mai puntate, non credo che ne faremo mai perché è abbastanza ostica come cosa, diciamo.
+
+38
+00:05:18,800 --> 00:05:20,760
+Io ci ho giocato nel tempo.
+
+39
+00:05:20,760 --> 00:05:30,840
+E devo dire la verità: permette di fare delle automazioni molto interessanti, spesso e volentieri in concomitanza con Hazel o con Kibor maestro e così via.
+
+40
+00:05:31,160 --> 00:05:44,040
+Tuttavia, oggettivamente diciamo che l'Apple Script teoricamente nasce come un linguaggio di programmazione chiaro, nel senso che sia utilizzabile in maniera chiara utilizzando delle frasi, sostanzialmente.
+
+41
+00:05:44,040 --> 00:05:55,160
+Nella concretezza se non capisci se capisci il programmazione, fai fatica utilizzarlo, perché utilizzano archetipo diverso, se non sai nulla di programmazione, comunque fai fatica perché non sai nulla di programmazione.
+
+42
+00:05:55,400 --> 00:06:05,080
+Diciamo che io lo consiglio di utilizzare solo in aggiunta, diciamo, all'intelligenza artificiale che ti scrive lo script.
+
+43
+00:06:05,080 --> 00:06:07,000
+In questo caso, piccolo spoiler.
+
+44
+00:06:07,000 --> 00:06:18,920
+Ma sostanzialmente AppleScript diventa un collante notevole sotto la scocca di MECOS e ti permette veramente di fare cose clamorose di passare dati da un'applicazione all'altro senza troppi problemi.
+
+45
+00:06:18,920 --> 00:06:34,520
+Abbiamo poi Automator che non credo anche qui abbiamo utilizzato, non abbiamo mai fatto una puntata dedicata, mettiamola in questi termini per un semplice fatto che ormai automator sta morendo, nel senso che i comandi rapidi è andato poi a sostituire automator.
+
+46
+00:06:34,520 --> 00:06:59,960
+Appunto, diciamo, era un modo visuale di creare appunto con piccole automazioni, ma adesso sicuramente comandi rapidi permette di fare molte più cose, anche se anche qui automator, per esempio, ha delle funzioni che i comandi rapidi non ha e quindi anche qui certe cosettine, diciamo, sono più comode in automator piuttosto che in comandi rapido almeno così per me.
+
+47
+00:06:59,960 --> 00:07:10,600
+Io, per esempio, utilizzo ancora dei servizi fatti con automator, proprio perché mi permette, per esempio, di avere una finestra interattiva dove posso spostare i documenti in base all'ordine che decido io.
+
+48
+00:07:10,600 --> 00:07:13,720
+Roberto, tu sull'argomento automator volevi dire una cosa?
+
+49
+00:07:13,720 --> 00:07:45,040
+Sì, che automator io l'ho trovato quando l'ho usato pre-comandi rapidi, insomma, era un'interfaccia un po' diversa, secondo me era molto interessante come software, tanto che sono riuscito a utilizzarlo addirittura anche io senza sapere un H di programmazione, avevo automatizzato anch'io nel mio piccolo qualcosa, nel senso che avevo creato una piccola applicazione perché si potevano creare anche delle piccole applicazioni, delle app, diciamo che lanciavano un comando automatizzato.
+
+50
+00:07:45,040 --> 00:07:54,480
+Nel mio caso creavo praticamente un backup degli ultimi file modificati all'interno di una cartella come quella può essere quella di lavoro.
+
+51
+00:07:54,480 --> 00:08:06,640
+Trovano direttamente lui i file modificati, gli ultimi modificati rispetto al backup precedente, li copiava, li criptava e li salvavo in uno spazio cloud a mia scelta.
+
+52
+00:08:06,640 --> 00:08:19,120
+Quindi, io quella routine la mandavo in esecuzione quando mi serviva, tendenzialmente potevo automatizzare anche quella routine, ma preferivo farlo a mano perché dipendeva dalla connessione essenzialmente.
+
+53
+00:08:19,120 --> 00:08:28,480
+E quindi riuscivo a fare questa piccola automatizzazione avendo un backup criptato, dove volevo io ed era molto molto facile e molto semplice, tra l'altro.
+
+54
+00:08:28,480 --> 00:08:37,360
+No, no, infatti, alla fine, appunto, sono tutti piccoli strumenti che casomai non sai che esistono, ovviamente non li utilizzi.
+
+55
+00:08:37,360 --> 00:08:43,840
+Se sai che esistono, in determinate situazioni, per determinati scopi specifici, diventano molto molto comodi.
+
+56
+00:08:43,840 --> 00:08:48,240
+Faccio una piccola parentesi perché poi non lo so se l'abbiamo detto a questo punto.
+
+57
+00:08:48,240 --> 00:08:54,160
+Perché oggi registriamo il 2 di luglio, questa puntata uscirà a settembre inoltrato, mettiamola così.
+
+58
+00:08:54,160 --> 00:09:18,040
+Ma abbiamo già registrato due puntate nel mentre ma li abbiamo registrate a metà giugno, quindi è passato un po' di tempo e la mia memoria ormai andando verso il 50 inizia a cedere, ma segnalo anche che se diciamo, non si vuole andare ad ascoltare tutte le puntate, mettiamola in questi termini, abbiamo col nuovo sito di A2 podcast w duepodc.
+
+59
+00:09:19,000 --> 00:09:41,720
+Con due scritto in numero A2, ci sono i singoli episodi, ma per tutti i singoli episodi è stata fatta la trascrizione da una parte, ma dall'altra la sinossi, quindi sostanzialmente c'è il modo di leggere velocemente gli argomenti trattati e più o meno avere un quadro generale di quello che abbiamo raccontato nella puntata.
+
+60
+00:09:41,720 --> 00:09:48,200
+Quindi anche qui appunto nella nuova edizione 2.0 di A due podcast, abbiamo fatto un po' di miglioramenti.
+
+61
+00:09:48,360 --> 00:10:06,520
+Anche questa puntata verrà strutturata nella stessa maniera, utilizzerà lo stesso così flusso di lavoro, per cui lo segnalo perché può diventare una risorsa anche utile per chi diciamo ascolta questa puntata, ma non si vuole mettere ad ascoltare tutte le puntate precedenti e così via.
+
+62
+00:10:06,520 --> 00:10:11,080
+Tornando al nostro argomento generale, quindi al recap generale.
+
+63
+00:10:11,080 --> 00:10:18,120
+L'ultima cosa che dobbiamo tenere presente per intelligenza artificiale sono le cosiddette automazioni in cloud.
+
+64
+00:10:18,120 --> 00:10:35,080
+Anche qui non abbiamo parlato, forse oggi non ha tutto questo senso parlare in maniera approfondita, mettiamola così, anche se in determinate condizioni, anche qui queste automazioni sono molto utili e si possono agganciare, tra l'altro all'intelligenza artificiale.
+
+65
+00:10:35,080 --> 00:10:44,840
+Abbiamo servizi come Zapier o Zapier, dipende da come lo si legge: Make, if the Z, quindi IFTT e N8N.
+
+66
+00:10:45,040 --> 00:10:58,880
+Io ho prevalentemente giocato con N8n perché a livello di gestione, diciamo, ti permette di fare cose più interessanti, anche perché mi permette anche di fare il self host e quindi riuscivo a non farla pagamento.
+
+67
+00:10:58,880 --> 00:11:06,880
+Questi servizi sostanzialmente sono inizialmente gratuiti, nella maggior parte dei casi hanno dei tir a pagamento, mettiamoli in questi termini.
+
+68
+00:11:06,880 --> 00:11:09,920
+Si sono tutti dotati più o meno di intelligenza artificiale.
+
+69
+00:11:09,920 --> 00:11:13,760
+Quindi è possibile collegare cose con l'intelligenza artificiale.
+
+70
+00:11:13,760 --> 00:11:24,400
+La cosa comoda di questi servizi cloud, diciamo è che in pratica tu puoi mettere in automatizzare, diciamo differenti servizi cloud.
+
+71
+00:11:24,400 --> 00:11:30,400
+Quindi, giusto per fare degli esempi veramente molto banali, ma che possono essere utili.
+
+72
+00:11:30,400 --> 00:11:42,400
+Io voglio salvare in Todoist, che è un'applicazione web per gestire le attività da fare un'attività contemporaneamente generare, per esempio.
+
+73
+00:11:42,800 --> 00:12:04,720
+O se no, inserire un appuntamento in calendario, diciamo casomai facendo compilare il forum a un format al cliente Zapier piuttosto che Make piuttosto che gli altri, ti permettono appunto di fare questo: cioè di collegare servizi online quindi artable piuttosto che sono milioni, veramente.
+
+74
+00:12:05,040 --> 00:12:11,200
+E in questa maniera, diciamo, possono essere manipolati e possono essere fatte tutta una serie di automazioni.
+
+75
+00:12:11,200 --> 00:12:16,720
+I dati possono passare da un'applicazione all'altra, anche in maniera in maniera trasparente.
+
+76
+00:12:17,040 --> 00:12:23,120
+Lo vedremo anche qui l'uso di intelligenza artificiale, non lo vedremo in maniera determinata oggi.
+
+77
+00:12:23,120 --> 00:12:28,080
+Tuttavia, diciamo che l'uso di intelligenza artificiale ha modificato profondamente con gli MCP sostanzialmente.
+
+78
+00:12:28,080 --> 00:12:29,160
+Questi meccanismi.
+
+79
+00:12:29,160 --> 00:12:39,480
+Perché di fatto con il Model Context Protocol se dall'altra parte c'è un server operativo, diciamo, si possono fare esattamente le stesse cose.
+
+80
+00:12:39,480 --> 00:12:56,760
+Tant'è vero che, giusto per fare degli esempi, VTC contava di comeva spostato le sue attività da toist a Pro Memoria e da Pro Memoria to do varie volte utilizzando semplicemente gli MCP tra appunto le due applicazioni.
+
+81
+00:12:56,760 --> 00:13:00,360
+Quindi anche qui lo vedremo un po' meglio più avanti.
+
+82
+00:13:00,360 --> 00:13:03,480
+L'intelligenza artificiale può fare veramente tante cose.
+
+83
+00:13:03,480 --> 00:13:16,760
+Proprio perché, tra l'altro, l'intelligenza artificiale generativa sulla programmazione eccella in maniera notevole adesso e quindi questo, secondo me, il cambio di paradigma che abbiamo avuto fino adesso.
+
+84
+00:13:16,760 --> 00:13:35,080
+Direi l'unica per andare veloce, però facciamo un punto veloce su il discorso di cosa si intende per automatizzare, perché è importante automatizzare il lavoro e quando ha senso automatizzare il lavoro, perché, se no, stiamo parlando più o meno del niente, mettiamola così.
+
+85
+00:13:35,400 --> 00:13:36,360
+Vuoi andare tu?
+
+86
+00:13:36,360 --> 00:13:46,600
+Sì, visto che è facile, me ne occupo io che facile, questa parte, perché come avete sentito Filippo, quello sempre sul pezzo, io sono quello che va a tappare i buchi, quelli semplici, diciamo.
+
+87
+00:13:46,600 --> 00:13:55,960
+Dunque automatizzare cosa significa semplicemente una cosa, cioè delegare a un sistema una sequenza ripetibile di azioni.
+
+88
+00:13:56,840 --> 00:14:10,920
+Quindi, nel momento in cui voi state lavorando, immagino che chiunque di voi abbia a che fare con delle ripetizioni di azioni che facciamo durante il nostro lavoro durante la giornata.
+
+89
+00:14:10,920 --> 00:14:21,520
+Questo è un tipico esempio di quello che si può automatizzare, cercano di fare un attimo di mente locale, capire quello che continuiamo a fare con azioni ripetute.
+
+90
+00:14:21,920 --> 00:14:24,000
+Adesso vi faccio anche qualche esempio pratico.
+
+91
+00:14:24,000 --> 00:14:30,400
+Quello che, però, non deve spaventare è il fatto che non vuol dire necessariamente programmare.
+
+92
+00:14:30,400 --> 00:14:50,480
+Questo, secondo me, è un aspetto fondamentale, perché spesso quando si parla di automatizzazione, spesso si scappo o si rimane bloccati, perché si pensa che sia un qualcosa di estremamente difficile, perché bisogna andare a cercare qualcosa che sia la programmazione e andare a cercare strumenti particolari.
+
+93
+00:14:50,480 --> 00:15:07,040
+Ma io vi porto qualche esempio semplice, giusto per farvi capire: immagino che a tutti quanti sia capitato di rinominare i file, non solo uno, ma magari più file e magari con una struttura che deve essere ripetuta, che magari c'è calato dall'alto.
+
+94
+00:15:07,200 --> 00:15:20,320
+Nel mio caso, nel mondo dell'architettura, questo è un tipico esempio di quelli che viene utilizzato all'interno del mondo BIM per quanto riguarda la rinomina dei file, perché hanno una loro codifica.
+
+95
+00:15:20,320 --> 00:15:25,680
+Ma chiunque può essere, diciamo, può ricadere in questo caso.
+
+96
+00:15:25,680 --> 00:15:44,480
+Permagino che se qualcuno vuole dare un numero consecutivo a una serie di file, da uno a 10, invece di andarsi a rinominare uno per volta il file, può automatizzare la questione e mettergli un numero progressivo davanti al nome del file.
+
+97
+00:15:44,480 --> 00:15:59,080
+Un'altra cosa possono essere, ad esempio, lo spostamento di allegati che possa arrivare dalle mail o che si ricevono in qualche modo, creare note di testo, cioè creare note da un testo, preparare una mail standard.
+
+98
+00:15:59,080 --> 00:16:08,040
+È quello lì è un altro esempio che ricade molto all'interno del mondo architettonico, perché essenzialmente noi dal punto di vista del disegno digitale.
+
+99
+00:16:08,040 --> 00:16:09,960
+Parlo di CAD, parlo di Bim.
+
+100
+00:16:10,200 --> 00:16:14,040
+Si parla sempre, si parte, scusate, sempre da un template.
+
+101
+00:16:14,040 --> 00:16:23,320
+Un template non è niente che un file standard di partenza, con all'interno, già tutto quanto pronto, che noi dobbiamo semplicemente mettere a disegnare.
+
+102
+00:16:23,320 --> 00:16:36,680
+Un esempio pratico è proprio, non so, gli stili di disegno, il testo, il font, le viste, i tipi di retini discorrendo, ma può ovviamente ricadere per quanto riguarda le mie standard.
+
+103
+00:16:36,680 --> 00:16:46,680
+Che, ad esempio, possono essere quelli di un brief, diciamo, un riassunto di riunione, che voi sapete quali sono i punti.
+
+104
+00:16:46,680 --> 00:16:53,880
+Però, sapete già in precedenza chi sono, magari i partecipanti, perché è una riunione che si perpetua nel corso del tempo.
+
+105
+00:16:53,880 --> 00:17:07,480
+E poi, ovviamente, tutte le varie diciamo, parti che vanno ripetute forzatamente nelle mail, ma che potete ovviamente saltare perché non è il caso di perdere tempo della ripetizione delle mail standard, diciamo.
+
+106
+00:17:07,480 --> 00:17:16,280
+Un altro esempio abbastanza banalotto può essere quello di salvare e riordinare screenshot perché ne fa in quantità smodata e si occupa di content come me, Filippo.
+
+107
+00:17:16,440 --> 00:17:16,760
+Esatto.
+
+108
+00:17:17,000 --> 00:17:21,080
+Negli articoli ne facciamo veramente un sacco mucchio, come si dice.
+
+109
+00:17:21,080 --> 00:17:30,200
+E poi, ad esempio, abbastanza interessante per chi fa content come noi è trasformare una registrazione in materiale editoriale.
+
+110
+00:17:30,200 --> 00:17:33,320
+Questo può essere utilissimo, come ha già fatto Filippo.
+
+111
+00:17:33,320 --> 00:17:38,280
+Appunto, come vi ha spiegato prima nel sito di due podcast, dove trovate lo script.
+
+112
+00:17:38,280 --> 00:17:47,760
+Chiamiamo così: che in realtà è la trascrizione di quello che abbiamo detto e poi formatato per quanto riguarda il diciamo il sito in questione.
+
+113
+00:17:48,240 --> 00:18:12,560
+L'automazione è utile quando riduci attrito, soprattutto evitate tanti errori e soprattutto il lavoro ripetitivo, che il lavoro ripetitivo, io penso che sia quello che ammazzi, diciamo il modo di pensare il ragionamento, perché nel momento in cui entrate nel loop di fare sempre le stesse cose, secondo me, un po' perdete un po' di brio dal punto di vista del pensare.
+
+114
+00:18:12,880 --> 00:18:46,960
+Un altro aspetto, però, che da considerare, secondo me, e da sottolineare, perché questa è una parte importantissima, che l'automazione è molto interessante, è molto utile, ma può diventare dannosa quando richiede decisamente più manutenzione del lavoro che dovrebbe risparmiare, questo è da sottolineare, perché nel momento in cui si entra in questa tana del bianconiglio, dove è vero che si può iniziare con cose piccole, ma una volta che ci si prende gusto, incominci ad allargarti, e magari perdi più tempo di quello che potresti risparmiare.
+
+115
+00:18:47,120 --> 00:18:58,560
+Qui faccio subito una domanda, giusto per portare il nostro Filippo in puntata, volevo chiedergli qual è stata la prima automazione che ti ricordi, che ti è rimasta davvero utile e che ti ha fatto capire il valore della.
+
+116
+00:18:59,280 --> 00:19:02,480
+Sai che non me lo ricordo, nel senso che ne ho fatte così tante.
+
+117
+00:19:02,640 --> 00:19:05,360
+Tanto tanto tempo fa, ne fate così tante.
+
+118
+00:19:05,360 --> 00:19:15,840
+Diciamo che appunto, una delle primissime automazioni, diciamo, che mi ha dato molta soddisfazione, è legato al mondo al mondo del lavoro, in particolare al processo civile telematico.
+
+119
+00:19:15,840 --> 00:19:24,560
+Una delle cose che c'è sempre da fare è quella di ordinare i documenti allegati, diciamo, con docuno, doc due, doc tre.
+
+120
+00:19:24,560 --> 00:19:31,960
+Quindi, una volta che hai tutti i documenti che vuoi depositare, li devi rinominare scrivendoci davanti.
+
+121
+00:19:32,120 --> 00:19:39,880
+Docuno, DOC 2, ovviamente in base alla momento in cui questi documenti sono stati elencati nel lato e così via.
+
+122
+00:19:39,880 --> 00:20:00,600
+Ecco, uno dei primissimi script, tra virgolette di automatic che ho fatto è proprio quello: è un sistema per cui io mi si apre una finestra, in pratica io li posso trascinare dentro questa finestra i documenti quindi col nome originale, mettiamola in questi termini, li posso riorganizzare visivamente in base a rileggendo sostanzialmente l'atto.
+
+123
+00:20:00,760 --> 00:20:11,720
+E a questo punto, quando gli dico di procedere, l'automazione li rinomina nell'ordine in cui li ho messo io manualmente e anteponendo doc uno, doc due, doc tre, quattro.
+
+124
+00:20:11,720 --> 00:20:36,840
+Anche qui è molto comodo perché ti velocizza notevolmente il lavoro e ovviamente ti velocizza, sono quei piccoli task che ti bloccano, perché comunque sono ripetitivi, non sono di valore, sì, esatto, non sono di qualità esatto, esatto, non c'è un valore dietro, ma ti richiede tempo e automatizzare vuol dire anche ridurre gli errori.
+
+125
+00:20:36,840 --> 00:20:43,400
+Quindi, se lo fai sempre nella stessa maniera, ovviamente ottiene un risultato migliore e più continuativo.
+
+126
+00:20:44,520 --> 00:20:56,280
+In questa maniera, tra l'altro non ti devi ricordare come lo facevi, perché l'automazione spesso volentieri vuol dire anche formalizzare il flusso di lavoro che stai avendo e stai utilizzando in quel determinato momento.
+
+127
+00:20:56,280 --> 00:21:11,320
+Che è un'analisi non banale, tra l'altro cose, perché comunque non sempre facile rivisitare il proprio flusso di lavoro a mente fredda, però, si può fare e valutando il proprio flusso di lavoro, si può anche capire dove intervenire con l'automazione.
+
+128
+00:21:11,320 --> 00:21:16,400
+Ma soprattutto un altro argomento che dobbiamo assolutamente toccare è perché bisogna rivisitare l'automazione.
+
+129
+00:21:16,640 --> 00:21:24,800
+Dopo che ne abbiamo parlato così tanto nelle scorse puntate, con l'avvento dell'intelligenza artificiale generativa.
+
+130
+00:21:24,800 --> 00:21:25,920
+Beh, questo è.
+
+131
+00:21:26,000 --> 00:21:27,680
+Ti interrompo solo un attimo.
+
+132
+00:21:27,680 --> 00:21:29,680
+Il buon Daniele fa una domanda.
+
+133
+00:21:29,680 --> 00:21:31,600
+È ancora valido Ezzel e così via.
+
+134
+00:21:31,600 --> 00:21:36,480
+Ne parleremo nella puntata, appunto, e l'idea è proprio questo.
+
+135
+00:21:36,480 --> 00:21:54,000
+Oggi fare questo della situazione sul fatto perché alcune automazioni, diciamo, hanno più senso, diciamo, anche nel mondo dell'intelligenza artificiale, pur potendo fare tutto anche l'intelligenza artificiale da sola, mettiamola in questi terzi.
+
+136
+00:21:54,000 --> 00:21:57,600
+Sì, l'intelligenza artificiale è, come dico sempre, un acceleratore.
+
+137
+00:21:57,600 --> 00:22:01,280
+Non pensiate che vi risolva i problemi, ve ne può anche creare.
+
+138
+00:22:01,280 --> 00:22:25,520
+Ma diciamo che bisogna iniziare a scendere a patti, perché comunque è un tool che utilizziamo in qualche modo addirittura anche nelle normali giornate, almeno io mi ritrovo anche così a utilizzarlo nelle normali giornate non lavorative, pensate nel lavoro, può diventare davvero accelerante e vi può liberare un po' le mani per fare anche qualcos'altro o dedicarvi al meglio.
+
+139
+00:22:25,520 --> 00:22:40,880
+Quindi io penso che la domanda di Daniele sia corretta e bisogna anche, però, cercare di stare al passo in qualche modo con le tecnologie che si stanno evolvendo.
+
+140
+00:22:40,880 --> 00:22:42,000
+Perché questo ve lo dico?
+
+141
+00:22:42,000 --> 00:22:58,080
+Per il semplice fatto che almeno nel mondo dell'architettura abbiamo visto una cosa simile e penso che questo sia valido per tutti, anche per chi non ha fatto il mio mestiere, ma l'ha visto in qualche modo passare dell'avvento dal passaggio dai tecnicari al CAD.
+
+142
+00:22:58,080 --> 00:23:04,360
+E certo, qualcuno si sarà chiesto: ma perché devo continuare a utilizzare il tecnicrafo se ho il CAD?
+
+143
+00:23:04,360 --> 00:23:05,480
+È bella domanda.
+
+144
+00:23:05,480 --> 00:23:06,360
+Questo perché?
+
+145
+00:23:06,360 --> 00:23:13,240
+Perché il CAD, questo in caso l'intelligenza artificiale generativa si pone più o meno nello stesso filone.
+
+146
+00:23:13,240 --> 00:23:20,920
+È vero che poi utilizzare Edel, ma è anche vero che l'intelligenza artificiale generativa può magari accelerare.
+
+147
+00:23:20,920 --> 00:23:24,520
+Ma la cosa interessante è che apre dei mondi nuovi.
+
+148
+00:23:24,520 --> 00:23:41,000
+Perché e probabilmente certe cose non le può fare se Ezer stesso non si appoggia all'intelligenza artificiale, mentre l'intelligenza artificiale generativa, come abbiamo sentito anche da Filippo con l'CP, può fare un sacco di cose diverse che in alternativa non si riesce a fare.
+
+149
+00:23:41,000 --> 00:24:04,040
+Quindi il mio consiglio è continuate a utilizzare magari i vostri strumenti tradizionali, ma cercate di buttare un occhio su quelli nuovi e cercare di tradurre quello che state facendo con strumenti magari avanzati che avete usato finora e cercare di trasformarlo in qualcosa con magari l'intelligenza artificiale generativa per riuscire anche ad avere una porta su quello che può essere il futuro.
+
+150
+00:24:04,040 --> 00:24:10,280
+Un futuro che è galoppante e galo, l'abbiamo visto anche per quanto riguarda nel mondo Apple.
+
+151
+00:24:10,280 --> 00:24:18,920
+Perché prima l'automazione Apple permetteva, diciamo a chiamiamoli così i power user, ma diciamo gli smanettoni, quelli che erano un po' più sul pezzo.
+
+152
+00:24:18,920 --> 00:24:26,760
+Diciamo che se io sono un utente normale Filippo è il power user quindi, giusto per darvi il gradino tra me e Filippo.
+
+153
+00:24:26,760 --> 00:24:37,160
+Comunque come avete anche sentito in questa puntata, il power user, che prima poteva fare delle cose particolari, con diciamo gli strumenti Apple che erano riservati tendenzialmente ai programmatori.
+
+154
+00:24:37,240 --> 00:24:42,840
+Adesso Filippo si è messo anche a fare interfacce, come avete visto nella nostra diretta.
+
+155
+00:24:42,840 --> 00:24:45,120
+Che magari ha avuto un impuntamento.
+
+156
+00:24:44,920 --> 00:24:48,960
+Ma, ragazzi miei, io l'ho visto, l'ho seguito e ci ha messo davvero poco.
+
+157
+00:24:49,200 --> 00:24:58,160
+E ha fatto qualcosa che tendenzialmente prima immagino che Filippo non poteva neanche sognarlo di metterlo a posto con le sue mani.
+
+158
+00:24:58,160 --> 00:25:12,800
+Quindi oggi l'intelligenza artificiale generativa abbassato la barriera, come abbiamo visto, perché consente di descrivere un risultato in linguaggio naturale, e secondo me, da qui nascono un sacco di problemi.
+
+159
+00:25:12,800 --> 00:25:16,960
+Perché è tanto bello parlare tra gli umani perché ci si capisce.
+
+160
+00:25:16,960 --> 00:25:27,760
+Ma nel momento in cui tu parli a una macchina, che è un computer che magari si è addestrato sul linguaggio naturale umano, non è proprio così semplice farsi capire.
+
+161
+00:25:27,760 --> 00:25:38,960
+Quindi, diciamo che il problema grosso, se bisogna andare proprio nel nocciolo, è cercare di spiegare bene il problema, verificare anche l'output.
+
+162
+00:25:38,960 --> 00:25:43,600
+Perché una volta che voi avete descritto il problema, vi arriva una risposta.
+
+163
+00:25:43,600 --> 00:25:51,920
+E magari la risposta voi la considerate sbagliata, ma in realtà è corretta in base al problema che avete sposto o come lo avete esposto.
+
+164
+00:25:52,080 --> 00:25:58,000
+Quindi è sempre questo la questione, secondo me, che è un po' un attrito.
+
+165
+00:25:58,000 --> 00:26:07,680
+Perché l'abbiamo visto nel corso del tempo: sono sempre migliorate le intelligenze artificiali, generative, ma l'output va sempre e comunque verificato.
+
+166
+00:26:07,680 --> 00:26:22,480
+Abbiamo visto anche l'intelligenza artificiale Emma di qualche tempo fa che era più facile che desse una risposta sbagliata che giusta, giusto per citarne una, ma diciamo era un pre-lancio, era Emma 5, se non ricordo male.
+
+167
+00:26:23,120 --> 00:26:38,360
+Non so se quando stiamo registrando, non è ancora uscita, ma attendiamo Emma 6 e speriamo che risponda decisamente meglio, ma soprattutto bisogna anche capire quanto la soluzione può essere fragile, tra virgolette e soprattutto per chi si occupa anche di agenti.
+
+168
+00:26:38,360 --> 00:26:41,160
+Che un aspetto da sottolineare.
+
+169
+00:26:41,160 --> 00:27:11,640
+Io sono sempre un po' quello diciamo che tira su gli allarmi rossi prima che ci siano dei problemi, perché preferisco spostare l'argomentazione su argomenti, diciamo che vado a criticare nel senso non il critico nel senso di mettere le cose pessimistiche, ma semplicemente di dare un punto di vista scevro da altri insegnamenti che ci danno ad esempio il marketing, giusto per dire.
+
+170
+00:27:11,640 --> 00:27:25,240
+E quindi bisogna anche pensare a questi agenti che bisogna mettere in condizione di lavorare in spazi che non possano rovinare i vostri file.
+
+171
+00:27:25,240 --> 00:27:27,560
+Ad esempio, perché possono creare danni.
+
+172
+00:27:27,560 --> 00:27:38,440
+Se voi create un agente che vi magari vi rinomina i file e per qualche motivo invece di rinominare, cancella i file, ragazzi miei, qua siamo in un bel problema.
+
+173
+00:27:38,440 --> 00:27:40,600
+Perché può creare in effetti dei danni.
+
+174
+00:27:40,600 --> 00:27:56,440
+In ogni caso, la cosa interessante è che chi ha già seguito, magari i nostri le nostre puntate precedenti, ha magari iniziato ad automatizzare, può sicuramente ottenere di più con la leva di intelligenza artificiale.
+
+175
+00:27:56,440 --> 00:28:10,680
+Invece, chi non ha mai automatizzato perché aveva appunto questo gradino che pensava di programmare, secondo me, questo è il momento migliore per cercare di fare un po' di mente locale sul proprio lavoro e cercare di capire quali sono gli aspetti in cui si può intervenire.
+
+176
+00:28:10,840 --> 00:28:21,520
+Iniziare da piccole cose e cercare di divertirsi con questo tipo di tool che, come vi ho detto, si chiamano intelligenza artificiale, ma secondo me sono degli acceleratori.
+
+177
+00:28:22,000 --> 00:28:26,640
+Ma una domanda che faccio subito al nostro Filippo che voglio sentire cosa ne pensa.
+
+178
+00:28:26,960 --> 00:28:30,560
+Io ho già un'idea ben precisa riguardo a questo.
+
+179
+00:28:30,880 --> 00:28:45,840
+Secondo te se l'intelligenza artificiale democratizza davvero, o rende più forti quelli che erano già bravi, o ancora peggio, crea una divisione molto più grossa tra chi può permettersi certi strumenti e chi non può permettere.
+
+180
+00:28:46,480 --> 00:28:55,840
+Diciamo che in generale l'intelligenza artificiale generativa e l'arte language mobile in particolare, democratizzano in questi termini.
+
+181
+00:28:56,400 --> 00:29:04,320
+Il vero limite, secondo me, appunto, è la fantasia dell'utente e sapere che si possono utilizzare questi strumenti.
+
+182
+00:29:04,320 --> 00:29:16,960
+Dopo la modalità, ovvio che qualsiasi strumento devi impararla a conoscere e devi imparare ad apprezzare le potenzialità e anche i limiti.
+
+183
+00:29:16,960 --> 00:29:24,160
+Quindi, come le automazioni, diciamo, la piattaforma Apple, mettiamola così, possono essere sconosciute.
+
+184
+00:29:24,240 --> 00:29:40,960
+A più ci sono automazioni basilari, per esempio, la possibilità di rinominare i file selezionandoli e avendo un piccolo menu a tendina che ti permette sostanzialmente di fare una microautomazione e di semplificare questa automazione, usando il tasto destro e così via.
+
+185
+00:29:40,960 --> 00:29:45,280
+Ma se non sai che esiste, ovviamente, non puoi approfittare.
+
+186
+00:29:45,280 --> 00:29:49,040
+Anche se fa parte del sistema operativo e tutto il resto.
+
+187
+00:29:49,040 --> 00:29:57,440
+Quindi l'utilizzo dell'intelligenza artificiale generativa, diciamo, deve essere veicolato e devono essere e deve essere conosciuta.
+
+188
+00:29:57,440 --> 00:30:04,680
+Giusto proprio per questo motivo, anche perché appunto non voglio andare oltre il limite che ci siamo dati, diciamo.
+
+189
+00:30:05,160 --> 00:30:11,800
+Secondo me ci sono due barra treci scalini che uno può affrontare.
+
+190
+00:30:11,800 --> 00:30:27,160
+Il primo è lavorare con l'intelligenza artificiale generativa in chat, ovviamente con tutta una serie di limiti, perché a questo punto, per esempio, poi far generare degli script, puoi farti dare delle istruzioni più o meno azzeccate, diciamo per fare cose.
+
+191
+00:30:27,160 --> 00:30:39,480
+Ma se tu materialmente che devi eseguire i compiti, mettiamola in questi termini, l'IA generativa non può interfacciarsi con il tuo computer o con il tuo device e così via.
+
+192
+00:30:39,880 --> 00:31:00,280
+Se si usano invece altri strumenti, diciamo ci sono due opzioni, diciamo, quella che consiglio io, perché alla fine è la migliore, di utilizzare gli assistenti IAR che ricomando, perché sono molto più potenti, possono interfacciarsi in maniera più avanzata e più potente sul sistema operativo.
+
+193
+00:31:00,280 --> 00:31:15,800
+Se no, diciamo, la versione per poveri mettiamola in questi termini, ma che secondo me, nasconde pericoli e comunque diciamo non ti fa poi apprezzare completamente il sistema, sono le cosiddette applicazioni desktop.
+
+194
+00:31:15,800 --> 00:31:31,960
+Quindi, per intenderci Clube, desktop, Codes per chat GPT, credo che per Germin non ce ne sia una specifica, diciamo, nel mondo Apple, ma sono applicazioni di varia natura, Cloud desktop è un'applicazione Electron.
+
+195
+00:31:31,960 --> 00:32:05,520
+Mentre Codex, per esempio, è scritta e sviluppata, diciamo nativa, diciamo, per piattaforma Apple, permettono invece di avere l'accesso al computer anche in maniera anche abbastanza importante, nel senso che adesso Perplexity, per esempio, aveva una sua applicazione desktop, credo che l'abbiamo modificata con Perplexity Computer, anzi, personal computer, si chiama, una roba del genere che fa più o meno le stesse cose poi di quello che fa Open AI e Claude sostanzialmente.
+
+196
+00:32:05,520 --> 00:32:18,560
+L'idea è appunto quella di dare accesso al proprio computer a questi sistemi che possono fare cose, possono fare cose, perché sono strumenti che conoscono l'informatica mena dito, giusto?
+
+197
+00:32:18,640 --> 00:32:29,360
+Una piccola chicca, diciamo, che è eccessivamente avanti, mettiamola così, ma che spiega anche bene cosa sono riuscito a fare con questi strumenti.
+
+198
+00:32:29,600 --> 00:32:34,160
+Lo diceva Roberto in prediretta mentre chattavamo fuori.
+
+199
+00:32:34,160 --> 00:32:40,240
+Prima di parlare qui, ho messo mano al mio server Proxmos che aveva avuto dei problemi.
+
+200
+00:32:40,240 --> 00:32:45,680
+Ha avuto dei problemi tali per cui non sapevo che cavolo fare mettiamola in questi termini.
+
+201
+00:32:45,680 --> 00:32:46,800
+Quindi cosa ho fatto?
+
+202
+00:32:46,800 --> 00:33:01,280
+Mi sono collegato in remoto al server via SSH, non spiego neanche che cos'è, ma diciamo, è un'interfaccia riga di comando per accedere al server, ho installato Cloud, Cloud Code in particolare, gli ho spiegato uno dei miei problemi.
+
+203
+00:33:01,280 --> 00:33:08,160
+Mi ho detto: Guarda, questa è la macchina, guarda un po' nella macchina e dimmi dove sono stati i problemi così via.
+
+204
+00:33:08,240 --> 00:33:21,680
+Sostanzialmente è riuscita a esaminare i log del sistema, mi ha detto: sì, effettivamente la macchina ha avuto un blocco in data tal d'Italia, è successo questo, questo, quest'altro, gli ho chiesto varie cose.
+
+205
+00:33:21,680 --> 00:33:40,280
+E sostanzialmente ad ora però è passata solo un'ora quindi non garantisco nulla, ma il problema grosso, che probabilmente di sud riscaldamento, me lo dovrebbe aver risolto perché ma generato sostanzialmente uno script che ha aumentato la velocità con cui girano le vento della macchina, e quindi mi ha abbassato le temperature della macchina.
+
+206
+00:33:40,280 --> 00:34:01,880
+Siamo in un periodo particolarmente caldo, e non essendo abituato a utilizzare PC, non avevo ragionato che effettivamente queste macchine non sono pensate come i Mac per cui viaggiava a 90 gradi A24, e probabilmente non gli ha fatto molto bene a tutti i componenti interni, soprattutto perché è un mini PC e quindi c'è poco ricercolo dell'area.
+
+207
+00:34:02,040 --> 00:34:08,680
+Problema di tutta la vicenda è che adesso ha l'evento al massimo sostanzialmente e quindi fa un casino: la madonna che non è proprio comodo.
+
+208
+00:34:08,680 --> 00:34:10,200
+Ma questo è un altro discorso.
+
+209
+00:34:10,280 --> 00:34:18,760
+Io non sarei riuscito a fare nulla di tutto questo senza dare le chiavi della casa, diciamo, all'intelligenza artificiale.
+
+210
+00:34:18,760 --> 00:34:27,480
+È vero, anche, però, che dando le chiavi di casa all'intelligenza artificiale, potenzialmente questa poteva fare dei danni ancora più grossi di quelli che avevo già.
+
+211
+00:34:27,480 --> 00:34:32,360
+Ed è questo il ragionamento di fondo che bisogna avere e che bisogna capire.
+
+212
+00:34:32,360 --> 00:34:41,080
+Sostanzialmente: questi strumenti sono veramente potenti, vanno guidati, mettiamoli in questi termini, si possono fare cose veramente interessanti.
+
+213
+00:34:41,080 --> 00:35:02,920
+Un'altra cosa che qui dico, però vi segnalo di non fare, o meno di fare solo con dovute accortez, tutte le varie applicazioni di Open AI, Cloud Code, Clude e così via, possono prendere oggi come oggi controllo del tuo computer, cioè possono lavorare sull'interfaccia grafica del tuo computer.
+
+214
+00:35:03,880 --> 00:35:13,560
+Questo vuol dire automazione al 100% da un certo punto di vista, cioè gli puoi chiedere di aprire un file, fare le modifiche, inviartelo via mail e così via.
+
+215
+00:35:13,560 --> 00:35:18,240
+Tutto verbalmente verbalmente sia con l'audio che col testo sostanzialmente.
+
+216
+00:35:18,800 --> 00:35:32,640
+È ovvio che, però, gli dai accesso alle chiavi di casa sostanzialmente del tuo computer, della roba più intima possibile, ok, può per esempio, addirittura anche accedere alle foto in foto di Apple e così via.
+
+217
+00:35:32,640 --> 00:35:41,200
+È ovvio che il consiglio che tutti danno, per esempio, è quello di dedicare un computer quindi un Mac, tant'è vero che qui c'è stata.
+
+218
+00:35:41,520 --> 00:36:04,880
+Ci sono stati vari problemi, diciamo di approvvigionamento Apple, ma tra gli altri, per esempio in America non si trovavano più i Mac Mini proprio perché molte persone installavano questi sistemi sui MacMini, non gli davano accesso completo ovviamente, ma creavano sostanzialmente un dominio per la macchina, mettiamola in questi termini, e in questa maniera potevano far fare cose alla macchina.
+
+219
+00:36:04,880 --> 00:36:13,360
+Sicuramente diciamo questi strumenti sono veramente potenti, mettiamoli in questi termini, è ovvio che bisogna starci un attimo attenti.
+
+220
+00:36:13,360 --> 00:36:17,680
+Io personalmente lo sconsiglio caldamente di fare una roba del genere.
+
+221
+00:36:17,920 --> 00:36:28,240
+Il mio suggerimento invece è quello di utilizzarli in maniera più parsimoniosa, diciamo, ma per fare cose che effettivamente solo questi strumenti possono fare.
+
+222
+00:36:28,240 --> 00:36:36,560
+L'esempio che ho fatto all'inizio è proprio un esempio secondo me molto interessante, cioè avevo un problema inaffrontabile per me sostanzialmente.
+
+223
+00:36:36,560 --> 00:36:46,960
+È un computer di cui se è un computer Linux, quindi, tra l'altro, la mia conoscenza di Linux non è così approfondita da permettermi di fare diagnostica di un certo tipo.
+
+224
+00:36:46,960 --> 00:36:49,600
+Ho fatto fare la diagnostica all'intelligenza artificiale.
+
+225
+00:36:49,600 --> 00:36:50,760
+Mi ha risolto un problema.
+
+226
+00:36:50,760 --> 00:36:57,360
+Spero, perché adesso lo scopriremo tra due o tre settimane se la situazione è stabilizzata o meno.
+
+227
+00:36:57,360 --> 00:37:02,920
+Ha fatto cose che io non sarei riuscito a fare in mille milioni di anni sostanzialmente.
+
+228
+00:37:03,080 --> 00:37:21,960
+Anche l'interfaccia grafica che state vedendo nella diretta YouTube, nella sostanza, questa interfaccia grafica è stata fatta dall'intelligenza artificiale, io non ho le capacità tecniche per farla, ma ho avuto l'idea, sarebbe carino farla in questa maniera, ha ancora tutta una serie di glitch e di problematiche.
+
+229
+00:37:21,960 --> 00:37:31,320
+È proprio una versione introduttiva, ma appunto, sono queste, secondo me, gli utilizzi utili in questo senso.
+
+230
+00:37:31,320 --> 00:38:06,440
+Un discorso diverso invece quando devi fare automazione file e quant'altro, dove secondo me, invece non ha senso reinventare la ruota, lì per esempio, chiedere all'intelligenza artificiale, casomai di fare uno script a terminale o a righe di comando, o un bash script e così via, che sono tutte automazioni di livello medio alto, nel senso che devi saper programmare, devi saper scrivere codice o comunque semicodice, ma che ti permettono poi di far fare tutto in maniera deterministica al sistema.
+
+231
+00:38:06,600 --> 00:38:29,400
+Anche qui attenzione: l'intelligenza artificiale è un sistema non deterministico e tutte le automazioni di cui abbiamo parlato all'inizio, puntata sono deterministiche: cioè, dato una regola, dato una condizione specifica, hai la certezza matematica a meno che la regola non l'hai creata poco specifica, mettiamola in questi termini, che otterrai sempre il medesimo risultato.
+
+232
+00:38:29,400 --> 00:38:37,960
+Dato un comando all'intelligenza artificiale, non è detto che quel comando porti tutte le volte, tutte le dieci volte allo stesso risultato.
+
+233
+00:38:37,960 --> 00:38:55,440
+E questo deve essere tenuto presente, giusto perché c'è Daniel in chat che ha fatto varie domande e probabilmente le approfondiremo in una puntata a parte, ne volevo parlare quindi in separata sede con Roberto, ma ne parliamo, li accenno qui in diretta.
+
+234
+00:38:55,440 --> 00:39:07,680
+Poi dopo, ovviamente, se anche Daniele è disponibile a fare una chiacchiera, ma appunto, Daniele ha tutta una serie di problemi, diciamo che vorrebbe affrontare e utilizzare intelligenza artificiale.
+
+235
+00:39:07,680 --> 00:39:42,080
+Mi sembra un'idea carina a ragionare su una puntata specifica, dove appunto Daniele porti i suoi problemi e ragioniamo assieme su quali sono le possibili soluzioni, ma anche come il fatto che appunto, sì, certe soluzioni possono essere sicuramente affrontate con l'uso di intelligenza artificiale, ma probabilmente l'80-90% dei suoi problemi possono essere risolti con un'automazioni semplici, normali, diciamo, dove non si sparano informazioni online, dove non si fanno cose assurde.
+
+236
+00:39:42,080 --> 00:40:01,680
+Diciamo, comunque non si utilizza un trattore per fare un metro quadro di terreno, ma si usa la zappa che si sarà scomoda da un certo punto di vista, ma la zappa ben affilata per un metro quadrato ci metti 5-10 minuti di tempo ed è questo il discorso.
+
+237
+00:40:02,320 --> 00:40:10,480
+L'intelligenza artificiale può fare cose di livello anche abbastanza elevato, mettiamola in questi termini, e secondo me va utilizzato in questa maniera.
+
+238
+00:40:10,640 --> 00:40:20,720
+Le automazioni di base vanno utilizzate invece quando poi, alla fine questi strumenti possono già fare quello che fanno.
+
+239
+00:40:20,720 --> 00:40:24,520
+Chiudo anche perché così do la parola a Roberto.
+
+240
+00:40:24,760 --> 00:40:32,360
+Cerchiamo di fare un recap della puntata perché siamo ormai in zona Cesarini, chiudo facendo questo esempio, sostanzialmente.
+
+241
+00:40:32,600 --> 00:40:37,800
+Una cosa che ho fatto fare, appunto l'intelligenza artificiale, l'ha detto in puntata Roberto.
+
+242
+00:40:37,800 --> 00:40:49,400
+Cioè, sostanzialmente ho preso le puntate vecchie a due podcast, le ho fatte trascrivere, e poi ho fatto generare la sinossi di queste trascrizioni.
+
+243
+00:40:49,400 --> 00:40:49,960
+Benissimo.
+
+244
+00:40:49,960 --> 00:41:03,160
+L'approccio che ho avuto io è sì, ho utilizzato l'intelligenza artificiale, ma l'ho utilizzata in questa maniera: cioè ho fatto creare all'intelligenza artificiale una skill, ne parleremo poi in futuro di cosa sono le skill e così via.
+
+245
+00:41:03,160 --> 00:41:30,440
+Comunque, è sostanzialmente una ricetta di come fare le cose, gli ho fatto generare una skill con dentro all'interno di questa skill uno script, uno script da terminale che veniva eseguito sul mio computer per fare quello, cioè per fare la trascrizione dal mio Mac Studio della puntata del file MIP3 a due podcast, quindi non l'ha fatta l'intelligenza artificiale remota, ma l'ho fatta fare direttamente sul mio computer, ok?
+
+246
+00:41:30,760 --> 00:42:07,000
+A fronte della trascrizione, ok, gli ho fatto fare altre due o tre cose che è un po' più complicate, ma a fronte di questa trascrizione gli ho fatto anche generale la sinossi, e qui, invece, una volta che appunto avevo il testo a disposizione, diciamo, sì, lì l'intelligenza artificiale per fare la sinossi, tra virgolette, leggere tutto il testo grezzo della puntata e renderla un piccolo articolo, diciamo, strutturato con determinate caratteristiche e mantenendo i contenuti della puntata sostanzialmente, abbellendola e rendendola più leggibile.
+
+247
+00:42:07,000 --> 00:42:19,600
+È lì, per esempio, è un'automazione che non sarebbe fattibile in alcuna maniera con gli strumenti ordinari, diciamo, e a quel punto lì l'ho demandata all'intelligenza artificiale.
+
+248
+00:42:19,920 --> 00:42:43,920
+Tuttavia, tutta la parte precedente, diciamo, l'ho fatta fare dal mio computer e da automazioni basinari diciamo perché nella sostanza, anche qui non è per tutti, ma invece di scaricare un'applicazione a pagamento, gli ho fatto scaricare un'applicazione MLX gli ho fatto fare dei comandi a terminale sostanzialmente per prendere il file MP3 e convertirlo in testo.
+
+249
+00:42:44,400 --> 00:43:00,400
+E anche qui il ragionamento è stato ottimizzare il flusso di lavoro per quello che poteva già fare il mio computer in maniera pacifica senza dover sparare in giro puntate del podcast e così via, anche se quello che raccontiamo io Roberto non ha questioni di riservatezza o d'altro.
+
+250
+00:43:00,400 --> 00:43:13,360
+Ma casomai invece, per esempio, per il mio lavoro, a prescindere che non è tipico la registrazione di conversazione col cliente, però, ovviamente sarebbe necessario mantenere certi livelli di segretezza di tranquillità.
+
+251
+00:43:13,360 --> 00:43:33,120
+Quindi, anche qui l'automazione locale è molto importante, soprattutto quando si ha tutta una serie di problemi di vincoli, riservatezza, segreto professionale, in generale GDPR, quindi tutto il lavoro dei professionisti, poter lavorare in locale è fondamentale.
+
+252
+00:43:33,120 --> 00:43:53,360
+Tuttavia, un argomento che non apro neanche, ma dico incidentalmente, attualmente con gli strumenti Apple di fascia medio alta quindi non con i Mac Base, ma con i Mac già da 2-3.000 euro, sostanzialmente si possono iniziare a ragionare e di fare attività di intelligenza artificiale in locale.
+
+253
+00:43:53,360 --> 00:44:24,520
+E quindi anche qui, con tutta una serie di limiti abitualmente, ma invece di utilizzare una data center enorme chissà dove si sparano tutti questi dati, ecco, poterlo fare localmente si può fare, tornando anche alle richieste di Daniele, tra virgolette, un'altra cosa da tenere presente perché fa tutto parte di questo discorso è che per poter, per esempio, rinominare un documento correttamente, l'intelligenza artificiale deve leggere il contenuto del documento.
+
+254
+00:44:24,520 --> 00:44:43,960
+Se si utilizza un'intelligenza artificiale o locale, non è un grosso problema, con però ovviamente dei limiti se online il contenuto di quel documento viene sparato in server dove non si sa dove, con tutta una serie di problematiche potenziali piuttosto grosse.
+
+255
+00:44:43,960 --> 00:44:55,320
+Tra l'altro, far leggere, non so, un file di non so, 10.000 parole per creare il nome del file è diciamo quella che io ritengo un'attività sproporzionata.
+
+256
+00:44:55,320 --> 00:44:57,720
+Prescindere dalla comodità della vicenda.
+
+257
+00:44:58,120 --> 00:45:20,440
+Quindi spesso e volentieri, tra l'altro, sì, si riescono a fare cose si è comodo, ma spesso volentieri è un abuso di questi strumenti che hanno comunque dei costi non trasparenti che noi non vediamo, non solo il costo proprio dell'abbonamento e così via, ma un costo energetico e ambientale notevole.
+
+258
+00:45:20,600 --> 00:45:24,440
+A questo punto direi io mi fermo e direi che abbiamo concluso la puntata.
+
+259
+00:45:24,440 --> 00:45:40,320
+In realtà l'abbiamo conclusa, ma secondo me è stata molto ricca di spunti, nel senso che io, almeno ho intenzione di rivedere un attimo la scaletta ascoltando la puntata, e poi dare le parti che magari hanno bisogno di più approfondimento.
+
+260
+00:45:40,320 --> 00:45:48,400
+Più respiro in un'altra puntata, cercare di toccarli in qualche modo, perché comunque abbiamo parlato di MCP e ci ritorneremo.
+
+261
+00:45:48,960 --> 00:46:02,080
+Una mia speranza, visto che parliamo sempre di ambito Apple, chissà che magari un giorno di questi comandi rapidi si trasformi e se stesso, in MCP sarebbe veramente molto molto interessante.
+
+262
+00:46:02,320 --> 00:46:08,080
+Non credo, però diciamo adesso, mi hai lanciato l'assis.
+
+263
+00:46:08,960 --> 00:46:10,080
+Troppo buono.
+
+264
+00:46:10,080 --> 00:46:18,480
+Probabilmente quando uscirà questa puntata sarà già uscito il nuovo IOS 27 così via di vari os 27.
+
+265
+00:46:18,800 --> 00:46:34,320
+Attualmente ho fatto qualche test veloce, devo dire la verità, il sistema di intelligenza artificiale, cioè dove descrivi quello che vuoi fare a far fare da iOS dal sistema operativo e ti genera i comandi rapidi, qualcosa riesce a fare.
+
+266
+00:46:34,320 --> 00:46:37,040
+Quindi stiamo andando in una direzione particolare.
+
+267
+00:46:37,040 --> 00:46:44,160
+Apple ha fatto delle scelte tecniche, ovviamente lontane dalla quelle che sono le scelte tecniche generali.
+
+268
+00:46:44,160 --> 00:46:48,880
+Quindi l'MCP, io anche da quello che ho visto, ascoltando Federico Viticci.
+
+269
+00:46:48,880 --> 00:46:50,560
+Ma a questo punto, diciamo.
+
+270
+00:46:50,880 --> 00:46:57,920
+Se Roberto è d'accordo e facciamo la chiacchierata con anche Daniele, l'approfondiremo in quel contesto.
+
+271
+00:46:58,400 --> 00:47:02,160
+Diciamo sta andando in una direzione diversa da quella che speri tu.
+
+272
+00:47:02,400 --> 00:47:06,800
+Mettiamola in questi termini, però, sta facendo cose.
+
+273
+00:47:06,800 --> 00:47:09,440
+Bisogna vedere se queste cose sono.
+
+274
+00:47:09,760 --> 00:47:35,400
+Diciamo che come al solito, Apple ragiona per milioni di utenti, ecco e non sempre per la fascia per la fascia elevata, giustamente perché appunto comunque anche a due ha un pubblico che di nicchia, proprio perché è gente che è già interessata a fare un salto di livello, mettiamola così, e quindi non tutti vogliono utilizzare in questa maniera.
+
+275
+00:47:35,560 --> 00:48:01,480
+Diciamo che come si è visto con tutte le sue applicazioni, Apple lo sta utilizzando, propone sistemi facili per tutti e per esigenze medie, mettiamola così per chi ha esigenze molto elevate, ha anche degli strumenti più avanzati, ma diciamo non vengono utilizzati da tutti, e quindi, comunque diciamo, su questi strumenti si va molto più lenti.
+
+276
+00:48:01,880 --> 00:48:02,920
+E tra l'altro.
+
+277
+00:48:03,160 --> 00:48:17,320
+Con questa puntata è nata, questo, diciamo, format che speriamo di portare avanti con Daniele, che è un esempio di quello che si può fare con un ascoltatore, che fa domande e lo portiamo direttamente in puntata e magari li risolviamo la giornata così.
+
+278
+00:48:17,320 --> 00:48:21,400
+In ogni caso, ora è ora di andare a chiudere la puntata.
+
+279
+00:48:21,400 --> 00:48:41,160
+Vi lascio comunque l'idea che l'automazione è importante nel mondo del lavoro e soprattutto bisogna iniziare a utilizzare gli strumenti di intelligenza artificiale, almeno provare, insomma, chiudete fuori l'intelligenza artificiale in questo senso con, ma iniziate a provare per le piccole cose.
+
+280
+00:48:41,160 --> 00:48:49,160
+Quindi, se fate delle cose una volta sola e non lo fate più, chiaramente basta un sistema che si appoggia alla chat.
+
+281
+00:48:49,240 --> 00:48:59,240
+Se invece avete da fare sempre la stessa cosa, spesso la regola è la stessa, allora si può automatizzare facilmente in modo deterministico.
+
+282
+00:48:59,240 --> 00:49:05,800
+Ma se per esempio cambia il contenuto, l'intelligenza artificiale più automazione può risolvere la questione.
+
+283
+00:49:06,120 --> 00:49:21,360
+Cosa che io ho imparato a mie spese sottovalutando la questione all'inizio, quando facevo i miei primi esperimenti, di ottenere lo stesso risultato cambiando magari qualche parola sulla generazione di un'immagine che volevo utilizzare come render.
+
+284
+00:49:21,520 --> 00:49:27,360
+Quindi a partire da un'immagine che avevo renderizzato per conto mio, utilizzando uno script.
+
+285
+00:49:27,520 --> 00:49:42,640
+Mi sono dovuto proprio imbattere in questo, dal fatto che non basta cambiare una virgola, e soprattutto è molto facile ottenere delle risposte diverse e risultati diversi rispetto a un approccio con l'intelligenza artificiale, solo basato su quello.
+
+286
+00:49:42,640 --> 00:49:48,400
+Quindi il mio invito, ma anche quello di Filippo è quello di sperimentare più che potete.
+
+287
+00:49:48,400 --> 00:49:58,880
+Se volete vedere le note dell'episodio, sapete dove trovarle all'indirizzo www.podcast.it numero della puntata, che questa volta è l'ottanta.
+
+288
+00:49:58,880 --> 00:50:00,640
+Se volete iscriverci, è probabile.
+
+289
+00:50:00,640 --> 00:50:01,680
+Chi lo sa, Filippo.
+
+290
+00:50:02,320 --> 00:50:08,080
+Tra un esperimento e l'altro, ci butta dentro uno form sul sito dove scrivere.
+
+291
+00:50:08,080 --> 00:50:14,480
+Oppure potete iscriverci via mail all'indirizzo scrivi at due podcast.it.
+
+292
+00:50:14,800 --> 00:50:22,880
+Ci raccomandiamo come sempre, se queste puntate vi sono piaciute, di lasciare una recensione su Apple podcast o dove vi capita, anche ad esempio su Spotify.
+
+293
+00:50:22,880 --> 00:50:34,560
+Insomma, fate in modo di far sentire il vostro calore, il vostro apprezzamento per queste puntate di questi due professionisti che si mettono in gioco e vi raccontano come migliorare la vita con gli strumenti Apple.
+
+294
+00:50:34,800 --> 00:50:42,080
+Vi ricordo che vi potete iscrivervi al canale YouTube, sia di due podcast, sia di quello di Filippo, che quello del sottoscritto.
+
+295
+00:50:42,080 --> 00:50:46,560
+Troverete tutto quanto all'interno del note dell'episodio.
+
+296
+00:50:46,560 --> 00:50:49,280
+E ovviamente non vi costa assolutamente niente.
+
+297
+00:50:49,280 --> 00:50:51,680
+Iscrivervi, e a noi fa un sacco piacere.
+
+298
+00:50:51,680 --> 00:50:54,000
+Io direi che per questa puntata è tutta.
+
+299
+00:50:54,000 --> 00:50:56,600
+Ci sentiamo nella prossima puntata di A Due Podcast.
+
+300
+00:50:56,600 --> 00:50:57,560
+Alla prossima!
