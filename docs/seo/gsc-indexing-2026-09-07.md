@@ -126,7 +126,9 @@ Checklist da completare sul commit destinato alla pubblicazione:
 - [x] `python3 -m unittest scripts/test_ingest.py` — 4/4 test riusciti il 7 settembre 2026
 - [x] `python3 scripts/test-site.py` — 88/88 controlli locali riusciti il 7 settembre 2026
 - [x] `npm run deploy:dry-run` — Wrangler 4.127.1 ha validato 617 asset il 7 settembre 2026
-- [ ] dopo il push: `python3 scripts/test-site.py --no-build --live-base-url https://a2podcast.it`
+- [x] dopo il push: `python3 scripts/test-site.py --no-build --live-base-url https://a2podcast.it`
+  — 98/98 controlli riusciti il 7 settembre 2026; `/60/`, `/73/` e `/74/` rispondono `200`
+  con canonical HTTPS apex e slash corretta
 
 La suite verifica: assenza dei feed Hugo; unico feed Spreaker in autodiscovery; sitemap priva di
 tag/feed/SRT/HTTP/`www`; canonical con HTTPS apex e slash; link interni e tag risolti; titoli senza
