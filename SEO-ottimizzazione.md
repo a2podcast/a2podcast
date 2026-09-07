@@ -389,6 +389,42 @@ nel CSS.
 
 ---
 
+## Fase 10 — 7 settembre 2026 (audit GSC e segnali di indicizzazione)
+
+L'audit parte da quattro report GSC aggiornati al 4 settembre e dal contesto della recente
+rigenerazione del sito. I conteggi `88 / 13 / 12 / 46` sono conservati come fotografia storica,
+non come KPI da ridurre indiscriminatamente. Analisi, campione delle 22 canoniche, evidenze,
+decisioni e calendario dei controlli sono nel
+[dossier GSC](docs/seo/gsc-indexing-2026-09-07.md).
+
+### Correzioni minime e verificabili
+
+- Spreaker è l'unico feed ufficiale: Hugo produce solo HTML e l'autodiscovery punta soltanto al
+  feed Spreaker. I vecchi endpoint feed noti restano redirect 301; i vecchi feed di tag e ospiti
+  restano 404.
+- Le trascrizioni SRT rimangono accessibili ma ricevono `X-Robots-Tag: noindex`; tag e termini
+  rimangono pagine HTML `noindex, follow` escluse dalla sitemap.
+- Titoli e link dei tag usano una normalizzazione e i permalink Hugo comuni, evitando numeri
+  duplicati e varianti interne non canoniche.
+- Sono corrette soltanto le 20 description troncate e quella non pertinente dell'episodio 60.
+  Solo queste pagine ricevono `lastmod`; `dateModified` e `article:modified_time` dipendono dal
+  campo esplicito.
+- `extract_description` preferisce una frase completa e ripulisce Markdown/URL, senza più tagli
+  ciechi a 300 caratteri.
+- `scripts/test-site.py` ricava le aspettative dal build e dai contenuti e offre anche
+  `--live-base-url https://a2podcast.it` per verificare redirect, 404, feed, canonical, `noindex`
+  e header SRT realmente pubblicati.
+
+### Decisioni da non riproporre senza nuove evidenze
+
+Sono stati scartati: una nuova regola Cloudflare 308, la disattivazione degli alias `/page/1/`,
+correlati automatici, la riscrittura in blocco delle 22 canoniche e `lastmod` retroattivi derivati
+da rigenerazione o commit. Questi interventi avrebbero alterato soprattutto i conteggi o ampliato
+il perimetro, senza affrontare i segnali incoerenti osservati. 404, redirect e `noindex`
+intenzionali continueranno correttamente a comparire tra le pagine escluse.
+
+---
+
 ## Cosa è stato valutato e scartato
 
 | Intervento | Motivo del no |

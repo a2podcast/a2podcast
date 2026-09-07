@@ -18,7 +18,7 @@ draft = false
 > In questa puntata Roberto e Filippo esaminano gli editor di testo dopo aver esaminato nella puntata precedente i programmi di video-scrittura.
 
 ## Note dell’episodio
-- [A2 episodio 10: Markdown](https://a2podcast.it/10): puntata richiamata da Filippo per approfondire il Markdown come livello minimo di formattazione del testo semplice.
+- [A2 episodio 10: Markdown](https://a2podcast.it/10/): puntata richiamata da Filippo per approfondire il Markdown come livello minimo di formattazione del testo semplice.
 - [Byword](https://www.bywordapp.com): editor minimale per macOS e iOS citato come porta d’ingresso semplice alla scrittura in testo semplice e Markdown.
 - [Drafts](https://getdrafts.com/): applicazione per catturare rapidamente testo, link e bozze, con azioni avanzate e sincronizzazione tra dispositivi Apple.
 - [Screencast su Drafts](https://www.youtube.com/playlist?list=PLJ_odbyIW_Rc-hvHnyvFg6k2Jy-6qW_iB): playlist citata nelle note originali per vedere esempi pratici di uso di Drafts.

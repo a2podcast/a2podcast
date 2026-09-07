@@ -1,7 +1,7 @@
 <article class="episode-card">
   <div class="episode-card-number">Ep. {{ .Params.episodeNumber }}</div>
   <h2 class="episode-card-title">
-    <a href="{{ .Permalink }}">{{ .Title | replaceRE `^\d+:\s*` "" }}</a>
+    <a href="{{ .Permalink }}">{{ partial "episode-title.html" . }}</a>
   </h2>
   {{ with .Params.description }}
   <p class="episode-card-description">{{ . | truncate 130 }}</p>

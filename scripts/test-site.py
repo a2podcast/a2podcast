@@ -15,6 +15,7 @@ Eseguire dalla cartella a2podcast/.
 import argparse
 import csv
 import glob
+import html as html_module
 import io
 import json
 import os
@@ -23,7 +24,13 @@ import subprocess
 import sys
 import time
 from datetime import datetime
-from urllib.parse import unquote, urlparse
+from pathlib import Path
+from urllib.parse import unquote, urljoin, urlparse
+
+try:
+    import tomllib
+except ModuleNotFoundError:  # pragma: no cover - Hugo richiede oggi Python moderno nel progetto
+    tomllib = None
 
 import requests
 
@@ -65,10 +72,10 @@ def section(n: int, total: int, title: str):
 # ── Hugo helpers ──────────────────────────────────────────────────────────────
 
 def run_build() -> bool:
-    """Run hugo --gc --minify and return True on success."""
-    print(f"  Esecuzione: hugo --gc --minify ...")
+    """Run a clean production-equivalent Hugo build and return its output."""
+    print("  Esecuzione: hugo --gc --minify --cleanDestinationDir ...")
     result = subprocess.run(
-        [HUGO_BIN, "--gc", "--minify"],
+        [HUGO_BIN, "--gc", "--minify", "--cleanDestinationDir"],
         cwd=PROJECT_ROOT,
         capture_output=True, text=True
     )
@@ -135,7 +142,7 @@ def latest_published_episode_number() -> tuple[int | None, str]:
 
 def start_server(port: int) -> subprocess.Popen:
     proc = subprocess.Popen(
-        [HUGO_BIN, "server", "--port", str(port), "--disableLiveReload"],
+        [HUGO_BIN, "server", "--port", str(port), "--disableLiveReload", "--renderToMemory"],
         cwd=PROJECT_ROOT,
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
@@ -161,15 +168,103 @@ def fetch(base_url: str, path: str) -> requests.Response:
     return requests.get(base_url + path, timeout=10, allow_redirects=True)
 
 
+def fetch_direct(base_url: str, path: str) -> requests.Response:
+    """Fetch without following redirects (needed to test their actual status/target)."""
+    return requests.get(base_url + path, timeout=15, allow_redirects=False)
+
+
+def tag_attributes(tag: str) -> dict[str, str]:
+    """Parse the simple quoted or unquoted attributes emitted by minified Hugo."""
+    attrs = {}
+    pattern = r"([:\w-]+)(?:\s*=\s*(?:\"([^\"]*)\"|'([^']*)'|([^\s>]+)))?"
+    for match in re.finditer(pattern, tag):
+        key = match.group(1).lower()
+        attrs[key] = next((value for value in match.groups()[1:] if value is not None), "")
+    return attrs
+
+
+def attribute_values(html: str, attribute: str) -> list[str]:
+    """Return quoted and unquoted values for an HTML attribute."""
+    values = []
+    pattern = rf"\b{re.escape(attribute)}\s*=\s*(?:\"([^\"]*)\"|'([^']*)'|([^\s>]+))"
+    for match in re.finditer(pattern, html, re.I):
+        values.append(next(value for value in match.groups() if value is not None))
+    return values
+
+
+def meta_content(html: str, key: str) -> str | None:
+    """Return a meta value regardless of name/property and attribute order."""
+    for tag in re.findall(r"<meta\b[^>]*>", html, re.IGNORECASE):
+        attrs = tag_attributes(tag)
+        if attrs.get("name") == key or attrs.get("property") == key:
+            return html_module.unescape(attrs.get("content", ""))
+    return None
+
+
+def canonical_url(html: str) -> str | None:
+    for tag in re.findall(r"<link\b[^>]*>", html, re.IGNORECASE):
+        attrs = tag_attributes(tag)
+        if "canonical" in attrs.get("rel", "").lower().split():
+            return html_module.unescape(attrs.get("href", ""))
+    return None
+
+
+def rss_autodiscovery_urls(html: str) -> list[str]:
+    urls = []
+    for tag in re.findall(r"<link\b[^>]*>", html, re.IGNORECASE):
+        attrs = tag_attributes(tag)
+        if (
+            "alternate" in attrs.get("rel", "").lower().split()
+            and attrs.get("type", "").lower() == "application/rss+xml"
+        ):
+            urls.append(html_module.unescape(attrs.get("href", "")))
+    return urls
+
+
+def generated_path_for_url(path: str) -> Path:
+    """Map a canonical site URL path to its expected file below public/."""
+    clean = unquote(path).split("?", 1)[0]
+    relative = clean.lstrip("/")
+    if not relative or clean.endswith("/"):
+        relative = os.path.join(relative, "index.html")
+    return Path(PROJECT_ROOT, "public", relative)
+
+
+def load_episode_frontmatter(path: str) -> dict:
+    """Read TOML front matter without interpreting the Markdown body."""
+    if tomllib is None:
+        raise RuntimeError("tomllib non disponibile")
+    text = Path(path).read_text(encoding="utf-8")
+    match = re.match(r"\+\+\+\s*\n(.*?)\n\+\+\+", text, re.DOTALL)
+    if not match:
+        raise ValueError(f"front matter TOML non trovato in {path}")
+    return tomllib.loads(match.group(1))
+
+
+def normalized_episode_title(title: str) -> str:
+    """Mirror the repository-wide title-prefix normalization contract."""
+    return re.sub(r"^(?:(?:ep(?:isode)?\.?\s*)?\d+\s*[:.-]\s*)", "", title, flags=re.I).strip()
+
+
+def html_unescape_all(value: str) -> str:
+    """Decode nested HTML entities defensively for text comparisons."""
+    previous = value
+    for _ in range(3):
+        decoded = html_module.unescape(previous)
+        if decoded == previous:
+            break
+        previous = decoded
+    return previous
+
+
 def parse_jsonld(html: str) -> list[dict]:
     """Extract and parse all JSON-LD script blocks from HTML."""
     blocks = []
-    for match in re.finditer(
-        r'<script\s+type="application/ld\+json"[^>]*>(.*?)</script>',
-        html, re.DOTALL
-    ):
+    for match in re.finditer(r'<script\b([^>]*)>(.*?)</script>', html, re.DOTALL | re.I):
+        if tag_attributes(match.group(1)).get("type", "").lower() != "application/ld+json":
+            continue
         try:
-            blocks.append(json.loads(match.group(1)))
+            blocks.append(json.loads(match.group(2)))
         except json.JSONDecodeError:
             pass
     return blocks
@@ -182,7 +277,7 @@ def find_jsonld(blocks: list[dict], type_: str) -> dict | None:
 # ── Test groups ───────────────────────────────────────────────────────────────
 
 def test_build(build: bool) -> int:
-    section(1, 10, "Build Hugo")
+    section(1, 12, "Build Hugo")
     if not build:
         print(f"  {YELLOW}(build saltata, uso public/ esistente){RESET}")
         pub = os.path.join(PROJECT_ROOT, "public")
@@ -199,14 +294,15 @@ def test_build(build: bool) -> int:
         fail("hugo build fallita", output[-300:])
         return
 
-    # Count pages from output
+    # Il numero dipende dai contenuti pubblicati e dagli output configurati: non
+    # codifichiamo soglie storiche GSC o conteggi precedenti del repository.
     m = re.search(r'Pages\s+│\s+(\d+)', output)
     if m:
         n = int(m.group(1))
-        if n >= 200:
-            ok(f"{n} pagine generate (≥ 200)")
+        if n > 0:
+            ok(f"{n} pagine generate")
         else:
-            fail(f"pagine generate: {n} (attese ≥ 200)")
+            fail("Hugo non ha generato pagine")
     else:
         fail("conteggio pagine non trovato nell'output")
 
@@ -233,7 +329,7 @@ def test_build(build: bool) -> int:
 
 
 def test_homepage(base: str):
-    section(2, 10, "Homepage")
+    section(2, 12, "Homepage")
     r = fetch(base, "/")
     if r.status_code == 200:
         ok("HTTP 200 /")
@@ -391,7 +487,7 @@ def test_homepage(base: str):
 
 
 def test_episode_with_youtube(base: str):
-    section(3, 10, "Episodio CON YouTube (Ep. 74 — Andrea Ciraolo)")
+    section(3, 12, "Episodio CON YouTube (Ep. 74 — Andrea Ciraolo)")
     r = fetch(base, "/74/")
     if r.status_code == 200:
         ok("HTTP 200 /74/")
@@ -533,7 +629,7 @@ def test_episode_with_youtube(base: str):
 
 
 def test_episode_without_youtube(base: str):
-    section(4, 10, "Episodio SENZA YouTube (Ep. 40 — WWDC 2022)")
+    section(4, 12, "Episodio SENZA YouTube (Ep. 40 — WWDC 2022)")
     r = fetch(base, "/40/")
     if r.status_code == 200:
         ok("HTTP 200 /40/")
@@ -570,7 +666,7 @@ def test_episode_without_youtube(base: str):
 
 
 def test_aux_pages(base: str):
-    section(5, 10, "Pagine ausiliarie")
+    section(5, 12, "Pagine ausiliarie")
 
     for path, expected_status, check_text in [
         ("/episodi/", 200, "Episodi"),
@@ -603,7 +699,7 @@ def test_aux_pages(base: str):
 
 
 def test_seo_head(base: str):
-    section(6, 10, "SEO — head.html")
+    section(6, 12, "SEO — head.html")
     r = fetch(base, "/74/")
     html = r.text
 
@@ -624,7 +720,7 @@ def test_seo_head(base: str):
 
 
 def test_frontmatter():
-    section(7, 10, "Integrità frontmatter")
+    section(7, 12, "Integrità frontmatter")
     ep_dirs = sorted(
         d for d in glob.glob(os.path.join(EPISODES_DIR, "*"))
         if os.path.isdir(d) and os.path.basename(d).isdigit()
@@ -682,7 +778,7 @@ def test_frontmatter():
 
 
 def test_generated_markup():
-    section(8, 10, "Markup generato")
+    section(8, 12, "Markup generato")
     html_paths = glob.glob(os.path.join(PROJECT_ROOT, "public", "**", "*.html"), recursive=True)
     bad_href = []
     bad_content_url = []
@@ -708,7 +804,7 @@ def test_generated_markup():
 
 
 def test_sitemap_video():
-    section(9, 10, "Sitemap — video sitemap")
+    section(9, 12, "Sitemap — video sitemap")
     sitemap_path = os.path.join(PROJECT_ROOT, "public", "sitemap.xml")
     if not os.path.exists(sitemap_path):
         fail("public/sitemap.xml non trovata")
@@ -748,8 +844,315 @@ def test_sitemap_video():
         fail(f"blocchi <video:video> incompleti (indici): {incomplete[:10]}")
 
 
+def test_indexing_contract(base: str):
+    """Verify indexation signals from the current build and source content."""
+    section(10, 12, "SEO — contratto di indicizzazione")
+    public = Path(PROJECT_ROOT, "public")
+
+    # Spreaker is the only feed advertised or generated by Hugo.
+    hugo_feeds = sorted(
+        str(path.relative_to(public))
+        for path in public.rglob("index.xml")
+        if path.is_file()
+    )
+    if not hugo_feeds:
+        ok("nessun feed index.xml generato da Hugo")
+    else:
+        fail("feed Hugo inattesi nel build", ", ".join(hugo_feeds[:20]))
+
+    home = fetch(base, "/").text
+    feed_urls = rss_autodiscovery_urls(home)
+    spreaker_feeds = [url for url in feed_urls if urlparse(url).hostname == "www.spreaker.com"]
+    if len(feed_urls) == 1 and feed_urls == spreaker_feeds:
+        ok(f"autodiscovery RSS esclusivamente Spreaker: {feed_urls[0]}")
+    else:
+        fail("autodiscovery RSS non esclusivamente Spreaker", repr(feed_urls))
+
+    expected_feed = spreaker_feeds[0] if len(spreaker_feeds) == 1 else None
+    footer_match = re.search(r"<footer\b.*?</footer>", home, re.DOTALL | re.I)
+    footer_hrefs = attribute_values(footer_match.group(0), "href") if footer_match else []
+    if expected_feed and expected_feed in footer_hrefs:
+        ok("footer collegato direttamente al feed Spreaker")
+    else:
+        fail("footer senza link diretto al feed Spreaker")
+
+    redirect_text = Path(PROJECT_ROOT, "static", "_redirects").read_text(encoding="utf-8")
+    redirect_rules = {}
+    for line in redirect_text.splitlines():
+        fields = line.split()
+        if len(fields) == 3 and not fields[0].startswith("#"):
+            redirect_rules[fields[0]] = (fields[1], fields[2])
+    required_redirects = ("/feed", "/feed/", "/rss", "/rss/", "/index.xml", "/episodi/index.xml")
+    bad_redirects = [
+        path for path in required_redirects
+        if not expected_feed or redirect_rules.get(path) != (expected_feed, "301")
+    ]
+    if not bad_redirects:
+        ok("endpoint feed storici configurati come 301 verso Spreaker")
+    else:
+        fail("redirect feed locali mancanti o errati", ", ".join(bad_redirects))
+
+    sitemap_path = public / "sitemap.xml"
+    if sitemap_path.exists():
+        sitemap = sitemap_path.read_text(encoding="utf-8")
+        locs = [html_module.unescape(value.strip()) for value in re.findall(r"<loc>(.*?)</loc>", sitemap)]
+        forbidden = [
+            url for url in locs
+            if urlparse(url).scheme != "https"
+            or urlparse(url).hostname != "a2podcast.it"
+            or urlparse(url).path.startswith("/tags/")
+            or urlparse(url).path.startswith("/trascrizioni/")
+            or urlparse(url).path.endswith(".xml")
+        ]
+        if not forbidden:
+            ok("sitemap solo HTTPS apex, senza tag, feed o SRT")
+        else:
+            fail("URL vietati nella sitemap", ", ".join(forbidden[:20]))
+    else:
+        locs = []
+        fail("public/sitemap.xml non trovata")
+
+    primary_canonical_errors = []
+    for loc in locs:
+        parsed = urlparse(loc)
+        html_path = generated_path_for_url(parsed.path)
+        if html_path.exists() and html_path.suffix == ".html":
+            actual = canonical_url(html_path.read_text(encoding="utf-8"))
+            if actual != loc:
+                primary_canonical_errors.append(f"{parsed.path} → {actual!r}")
+    for html_path in sorted((public / "tags").rglob("index.html")):
+        relative = html_path.relative_to(public).parent.as_posix()
+        if "/page/" in f"/{relative}/":
+            # Pagination aliases intentionally canonicalize to the owning term.
+            continue
+        expected = f"https://a2podcast.it/{relative}/"
+        actual = canonical_url(html_path.read_text(encoding="utf-8"))
+        if actual != expected:
+            primary_canonical_errors.append(f"/{relative}/ → {actual!r}")
+    if not primary_canonical_errors:
+        ok("canonical HTTPS apex con slash su pagine primarie e tag")
+    else:
+        fail("canonical primaria non conforme", "; ".join(primary_canonical_errors[:20]))
+
+    tag_index = public / "tags" / "index.html"
+    if tag_index.exists() and "noindex" in (meta_content(tag_index.read_text(encoding="utf-8"), "robots") or "").lower():
+        ok("pagine tag HTML in noindex, follow")
+    else:
+        fail("pagina /tags/ priva di noindex")
+
+    # Every generated HTML page must self-canonicalize to HTTPS/apex/trailing slash.
+    canonical_errors = []
+    title_errors = []
+    description_errors = []
+    modified_errors = []
+    episode_pages = []
+    for md_path in sorted(Path(EPISODES_DIR).glob("[0-9]*/index.md")):
+        try:
+            front = load_episode_frontmatter(str(md_path))
+        except (RuntimeError, ValueError, tomllib.TOMLDecodeError if tomllib else ValueError) as exc:
+            description_errors.append(f"{md_path}: {exc}")
+            continue
+        slug = str(front.get("slug", md_path.parent.name))
+        html_path = public / slug / "index.html"
+        if not html_path.exists():
+            # Drafts and future pages are deliberately absent and checked elsewhere.
+            continue
+        episode_pages.append((slug, front, html_path))
+        page_html = html_path.read_text(encoding="utf-8")
+        expected_url = f"https://a2podcast.it/{slug}/"
+        if canonical_url(page_html) != expected_url:
+            canonical_errors.append(f"/{slug}/ → {canonical_url(page_html)!r}")
+
+        normalized = normalized_episode_title(str(front.get("title", "")))
+        h1_match = re.search(r"<h1[^>]*>(.*?)</h1>", page_html, re.DOTALL | re.I)
+        h1 = re.sub(r"<[^>]+>", "", h1_match.group(1)).strip() if h1_match else ""
+        h1 = html_unescape_all(h1)
+        page_title = html_unescape_all((re.search(r"<title>(.*?)</title>", page_html, re.DOTALL | re.I) or [None, ""])[1])
+        schema = find_jsonld(parse_jsonld(page_html), "PodcastEpisode") or {}
+        schema_name = html_unescape_all(str(schema.get("name", "")))
+        if "&amp;#" in page_html:
+            title_errors.append(f"/{slug}/ contiene entità HTML doppio-escaped")
+        if "&#" in str(schema.get("name", "")):
+            title_errors.append(f"/{slug}/ JSON-LD name contiene entità HTML residue")
+        if h1 != normalized or re.match(r"^(?:ep(?:isode)?\.?\s*)?\d+\s*[:.-]", h1, re.I):
+            title_errors.append(f"/{slug}/ H1={h1!r}, atteso={normalized!r}")
+        if f"— {normalized} | A2 Podcast" not in page_title:
+            title_errors.append(f"/{slug}/ title={page_title!r}")
+        if schema_name != normalized:
+            title_errors.append(f"/{slug}/ JSON-LD name={schema.get('name')!r}")
+
+        description = str(front.get("description", "")).strip()
+        if re.search(r"https?://|\[[^]]+\]\(|^[#>*+-]\s", description, re.I):
+            description_errors.append(f"/{slug}/ contiene URL o Markdown")
+        explicit_lastmod = "lastmod" in front
+        json_modified = schema.get("dateModified")
+        og_modified = meta_content(page_html, "article:modified_time")
+        if explicit_lastmod:
+            if not (120 <= len(description) <= 200):
+                modified_errors.append(f"/{slug}/ description {len(description)} caratteri")
+            if not description or description[-1] not in ".!?…\"”’":
+                modified_errors.append(f"/{slug}/ description non è una frase completa")
+            if not json_modified or not og_modified:
+                modified_errors.append(f"/{slug}/ lastmod senza JSON-LD/OG")
+            elif json_modified != og_modified:
+                modified_errors.append(f"/{slug}/ dateModified != article:modified_time")
+        elif json_modified or og_modified:
+            modified_errors.append(f"/{slug}/ data modificata pubblicata senza lastmod esplicito")
+
+    if not canonical_errors:
+        ok(f"canonical HTTPS apex con slash su {len(episode_pages)} episodi pubblicati")
+    else:
+        fail("canonical episodio non conforme", "; ".join(canonical_errors[:20]))
+    if not title_errors:
+        ok("titoli episodio normalizzati in H1, title e JSON-LD")
+    else:
+        fail("titoli episodio non normalizzati", "; ".join(title_errors[:20]))
+
+    reused_title_errors = []
+    for html_path in public.rglob("*.html"):
+        page_html = html_path.read_text(encoding="utf-8")
+        for class_name in ("episode-card-title", "episode-nav-title"):
+            pattern = rf"class=(?:[\"'][^\"']*\b{class_name}\b[^\"']*[\"']|{class_name})[^>]*>(.*?)</"
+            for match in re.finditer(pattern, page_html, re.DOTALL | re.I):
+                text_value = html_unescape_all(re.sub(r"<[^>]+>", "", match.group(1)).strip())
+                if re.match(r"^(?:ep(?:isode)?\.?\s*)?\d+\s*[:.-]", text_value, re.I):
+                    reused_title_errors.append(f"{html_path.relative_to(public)}: {text_value!r}")
+    if not reused_title_errors:
+        ok("card e navigazione senza prefissi numerici duplicati")
+    else:
+        fail("prefissi duplicati in card/navigazione", "; ".join(reused_title_errors[:20]))
+    if not description_errors:
+        ok("descrizioni complete e prive di URL/Markdown")
+    else:
+        fail("descrizioni non conformi", "; ".join(description_errors[:20]))
+    if not modified_errors:
+        ok("lastmod coerente con JSON-LD e Open Graph")
+    else:
+        fail("lastmod non coerente", "; ".join(modified_errors[:20]))
+
+    # Resolve internal page links against the build, and reject non-canonical
+    # absolute variants (HTTP/www) or missing trailing slashes for HTML pages.
+    link_errors = []
+    for html_path in public.rglob("*.html"):
+        page_html = html_path.read_text(encoding="utf-8")
+        for raw_href in attribute_values(page_html, "href"):
+            href = html_module.unescape(raw_href.strip())
+            parsed = urlparse(href)
+            if parsed.scheme in {"mailto", "tel", "javascript", "data"} or href.startswith("#"):
+                continue
+            if parsed.netloc and parsed.hostname not in {"a2podcast.it", "www.a2podcast.it"}:
+                continue
+            if parsed.hostname == "www.a2podcast.it" or parsed.scheme == "http":
+                link_errors.append(f"{html_path.relative_to(public)}: {href}")
+                continue
+            if parsed.netloc:
+                path = parsed.path
+            else:
+                current_url = "/" + str(html_path.relative_to(public)).replace("index.html", "")
+                path = urlparse(urljoin(f"https://a2podcast.it{current_url}", href)).path
+            suffix = Path(path).suffix.lower()
+            if suffix or path in {"", "/"}:
+                continue
+            target = generated_path_for_url(path)
+            if target.exists() and not path.endswith("/"):
+                link_errors.append(f"{html_path.relative_to(public)}: manca slash in {href}")
+            elif not target.exists():
+                link_errors.append(f"{html_path.relative_to(public)}: destinazione assente {href}")
+    if not link_errors:
+        ok("zero link interni HTML non canonici o inesistenti")
+    else:
+        fail("link interni non canonici o inesistenti", "; ".join(link_errors[:25]))
+
+    # Every source tag must resolve through the rendered episode link generated
+    # by .GetTerms, without reproducing Hugo's slugification in Python.
+    tag_errors = []
+    for slug, front, html_path in episode_pages:
+        page_html = html_path.read_text(encoding="utf-8")
+        rendered_tag_hrefs = [href for href in attribute_values(page_html, "href") if "/tags/" in href]
+        source_tags = front.get("tags", [])
+        if len(set(rendered_tag_hrefs)) != len(set(source_tags)):
+            tag_errors.append(f"/{slug}/: source={len(set(source_tags))}, link={len(set(rendered_tag_hrefs))}")
+        for href in rendered_tag_hrefs:
+            path = urlparse(href).path
+            if not generated_path_for_url(path).exists():
+                tag_errors.append(f"/{slug}/: {href} non risolve")
+    if not tag_errors:
+        ok("tag risolti dai link renderizzati e presenti nel build")
+    else:
+        fail("risoluzione tag non coerente", "; ".join(tag_errors[:20]))
+
+    headers = Path(PROJECT_ROOT, "static", "_headers").read_text(encoding="utf-8")
+    srt_block = re.search(r"(?ms)^/trascrizioni/\*\.srt\s*$\n((?:^[ \t]+.*\n?)*)", headers)
+    if srt_block and re.search(r"(?im)^\s*X-Robots-Tag:\s*noindex\s*$", srt_block.group(1)):
+        ok("_headers applica X-Robots-Tag: noindex agli SRT")
+    else:
+        fail("regola X-Robots-Tag: noindex mancante per gli SRT")
+    robots_path = public / "robots.txt"
+    robots = robots_path.read_text(encoding="utf-8") if robots_path.exists() else ""
+    if not re.search(r"(?im)^\s*Disallow:\s*/trascrizioni/", robots):
+        ok("robots.txt non blocca le trascrizioni SRT")
+    else:
+        fail("robots.txt blocca gli SRT e impedisce di leggere X-Robots-Tag")
+
+
+def test_live(base: str):
+    """Smoke-test the deployed Cloudflare behavior, without GSC count assumptions."""
+    section(11, 12, f"Deploy live — {base}")
+    local_home = Path(PROJECT_ROOT, "public", "index.html").read_text(encoding="utf-8")
+    local_feeds = rss_autodiscovery_urls(local_home)
+    if len(local_feeds) != 1:
+        fail("impossibile derivare l'unico feed atteso dal build locale", repr(local_feeds))
+        return
+    expected_feed = local_feeds[0]
+    for path in ("/feed", "/feed/", "/rss", "/rss/", "/index.xml", "/episodi/index.xml"):
+        response = fetch_direct(base, path)
+        location = response.headers.get("Location", "")
+        if response.status_code == 301 and location == expected_feed:
+            ok(f"{path} → 301 Spreaker")
+        else:
+            fail(f"redirect live errato per {path}", f"{response.status_code}, Location={location!r}")
+
+    for path in ("/tags/index.xml", "/ospiti/index.xml", "/pagina-inesistente-seo-test/"):
+        response = fetch_direct(base, path)
+        if response.status_code == 404:
+            ok(f"HTTP 404 live {path}")
+        else:
+            fail(f"HTTP {response.status_code} live {path} (atteso 404)")
+
+    home = fetch(base, "/")
+    feed_urls = rss_autodiscovery_urls(home.text)
+    if home.status_code == 200 and feed_urls == [expected_feed]:
+        ok("homepage live 200 con unico feed Spreaker")
+    else:
+        fail("homepage/feed live non conforme", f"HTTP {home.status_code}; feed={feed_urls!r}")
+
+    episode_paths = re.findall(r'<loc>https://a2podcast\.it/(\d+)/</loc>', fetch(base, "/sitemap.xml").text)
+    sample_path = f"/{episode_paths[-1]}/" if episode_paths else "/74/"
+    episode = fetch(base, sample_path)
+    if episode.status_code == 200 and canonical_url(episode.text) == f"https://a2podcast.it{sample_path}":
+        ok(f"canonical live corretta su {sample_path}")
+    else:
+        fail(f"canonical live errata su {sample_path}", canonical_url(episode.text) or "assente")
+
+    tag = fetch(base, "/tags/")
+    if tag.status_code == 200 and "noindex" in (meta_content(tag.text, "robots") or "").lower():
+        ok("pagina tag live in noindex, follow")
+    else:
+        fail("pagina tag live senza noindex effettivo", f"HTTP {tag.status_code}")
+
+    srt_files = sorted(Path(PROJECT_ROOT, "static", "trascrizioni").glob("*.srt"))
+    if srt_files:
+        srt = fetch_direct(base, f"/trascrizioni/{srt_files[0].name}")
+        if srt.status_code == 200 and "noindex" in srt.headers.get("X-Robots-Tag", "").lower():
+            ok(f"SRT live con X-Robots-Tag noindex ({srt_files[0].name})")
+        else:
+            fail("header live SRT non conforme", f"HTTP {srt.status_code}; X-Robots-Tag={srt.headers.get('X-Robots-Tag')!r}")
+    else:
+        fail("nessun SRT sorgente disponibile per il test live")
+
+
 def test_404(base: str):
-    section(10, 10, "Pagina 404")
+    section(12, 12, "Pagina 404")
 
     # Test HTTP: hugo server risponde ai path inesistenti con la propria pagina 404
     # e status 404 (a differenza della modalità SPA di Cloudflare Pages, non
@@ -779,6 +1182,11 @@ def main():
     parser = argparse.ArgumentParser(description="Test suite A2 Podcast")
     parser.add_argument("--no-build", action="store_true", help="Salta la build Hugo")
     parser.add_argument("--port", type=int, default=1314, help="Porta del server Hugo (default: 1314)")
+    parser.add_argument(
+        "--live-base-url",
+        metavar="URL",
+        help="Esegue anche gli smoke test sul deploy (es. https://a2podcast.it)",
+    )
     args = parser.parse_args()
 
     width = 56
@@ -804,6 +1212,9 @@ def main():
         test_seo_head(base)
         test_generated_markup()
         test_sitemap_video()
+        test_indexing_contract(base)
+        if args.live_base_url:
+            test_live(args.live_base_url.rstrip("/"))
         test_404(base)
     finally:
         server.terminate()

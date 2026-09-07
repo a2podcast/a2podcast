@@ -1,12 +1,13 @@
 +++
 title = "6: Montaggio video con iMovie"
 date = "2021-03-08T06:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 6
 slug = "6"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336051/c8a36891_1e23_4acf_8954_e04b334c4dd0.mp3"
 spreakerEpisodeId = "64336051"
 duration = "1:04:50"
-description = "In questa puntata il nostro ospite Alex Raccuglia parla di come montare i nostri video attraverso il programma gratuito di Apple: iMovie. Comunicazioni di servizio È operativo anche il sito ufficiale con le note degli episodi a2podcast.it (http://a2podcast.it) a2podcast.it/youtube (http://www.a2podc"
+description = "Con il regista e sviluppatore Alex Raccuglia, una guida al montaggio video con iMovie: organizzazione del materiale, strumenti essenziali e limiti dell'app Apple."
 tags = ["video", "apple"]
 draft = false
 

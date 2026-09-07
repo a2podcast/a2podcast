@@ -43,6 +43,45 @@ Prima di implementare qualsiasi soluzione custom (partial, CSS, JavaScript), ver
 
 ---
 
+## Regola repository-wide: orchestratore e subagenti
+
+Per ogni attività non banale scomponibile in almeno due sottoproblemi indipendenti, l’agente
+principale deve operare come orchestratore e utilizzare i subagenti messi a disposizione dalla
+piattaforma, salvo incompatibilità con istruzioni di livello superiore. La regola vale per Codex,
+Claude e qualsiasi sistema analogo.
+
+Ogni delega deve contenere obiettivo, perimetro, vincoli, risultato atteso, controlli richiesti ed
+eventuale proprietà esclusiva dei file. I subagenti devono ricevere soltanto il contesto necessario
+e non devono modificare contemporaneamente gli stessi file.
+
+Quando è possibile scegliere il modello, usare il modello meno costoso capace di completare
+correttamente il subtask; aumentare capacità e costo soltanto quando complessità, rischio o
+risultati insufficienti lo rendono necessario. Usare il numero minimo utile di subagenti.
+
+L’agente principale deve leggere personalmente `AGENTS.md`, `CLAUDE.md`, `SKILL.md` e le altre
+istruzioni obbligatorie. Non può delegarne la lettura o interpretazione. Rimane responsabile di
+piano esecutivo, integrazione, risoluzione dei conflitti, red teaming, test e risultato finale.
+
+Commit, push, deploy e altre operazioni esterne con effetti condivisi restano responsabilità
+dell’agente principale dopo l’integrazione e i test. I subagenti non possono ampliare
+autonomamente il perimetro o le autorizzazioni ricevute.
+
+Per attività atomiche, strettamente sequenziali o quando la piattaforma non dispone di subagenti,
+l’agente principale può procedere direttamente, annotando brevemente il motivo per cui la delega
+non è appropriata.
+
+Controlli di accettazione:
+
+- Il piano di un task non banale identifica i sottoproblemi delegati, il modello scelto e il
+  risultato atteso.
+- Nessun file viene modificato contemporaneamente da più agenti.
+- L’agente principale integra personalmente i risultati ed esegue red team e test conclusivi.
+- L’assenza di delega in un task non banale viene motivata.
+- Le istruzioni sono neutrali rispetto al fornitore e funzionano con Codex, Claude o sistemi
+  equivalenti.
+
+---
+
 ## Workflow: nuovo episodio
 
 1. Crea `../note episodi/NN - Titolo episodio.md` con le note in markdown

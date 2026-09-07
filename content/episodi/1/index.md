@@ -1,12 +1,13 @@
 +++
 title = "1: Passare a Mac nel 2021: come scegliere il vostro Mac"
 date = "2021-02-22T08:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 1
 slug = "1"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336044/f69ff6f7_cd39_44a9_8a3c_591aed7e35be.mp3"
 spreakerEpisodeId = "64336044"
 duration = "1:12:39"
-description = "In questo primo episodio vi parliamo di: - Come scegliere il vostro nuovo Mac nel 2021; - Come affrontare il passaggio dal vostro vecchio PC ad un Mac; - Come funziona macOS e quali sono i trucchi utili per imparare velocemente. Se avete domande o richieste potete farcele direttamente in chat in dir"
+description = "Filippo e Roberto inaugurano A2 con una guida pratica alla scelta del Mac nel 2021, al passaggio da Windows e ai vantaggi e limiti dell'ecosistema Apple."
 tags = ["mac", "macos"]
 draft = false
 

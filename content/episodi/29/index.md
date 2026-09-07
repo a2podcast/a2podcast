@@ -1,12 +1,13 @@
 +++
 title = "29: Email (Introduzione): il problema delle email e come cercare di risolverlo"
 date = "2022-02-28T06:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 29
 slug = "29"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336024/e4e53bf7_426c_4918_b120_ca00de308dc8.mp3"
 spreakerEpisodeId = "64336024"
 duration = "1:13:18"
-description = "Oggi parliamo di email. È la prima puntata di una serie (ma non credo che le registreremo in successione) in cui inizieremo ad affrontare l’argomento delle email, come funzionano, quali sono i programmi ed i servizi utili etc … ma prima di fare ciò, nella puntata di oggi, vedremo perché le email son"
+description = "Filippo e Roberto introducono il problema della gestione delle email, analizzando perché la posta pesa sul lavoro e quali abitudini possono ridurne l'impatto."
 tags = ["email", "produttivita", "organizzazione"]
 draft = false
 

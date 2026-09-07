@@ -11,7 +11,7 @@
       <span class="episode-duration">{{ . }}</span>
       {{ end }}
     </div>
-    <h1 class="episode-title" itemprop="name">{{ .Title | replaceRE `^\d+:\s*` "" }}</h1>
+    <h1 class="episode-title" itemprop="name">{{ partial "episode-title.html" . }}</h1>
     {{ with .Params.description }}
     <p class="episode-description" itemprop="description">{{ . }}</p>
     {{ end }}
@@ -24,7 +24,7 @@
     <h2 class="episode-youtube-title">Guarda la diretta</h2>
     <div class="episode-youtube-embed">
       <iframe src="https://www.youtube-nocookie.com/embed/{{ . }}?rel=0"
-              title="Diretta YouTube: {{ $.Title | htmlEscape }}"
+              title="Diretta YouTube: {{ partial "episode-title.html" $ }}"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
               loading="lazy"></iframe>
@@ -50,10 +50,10 @@
   {{ end }}
   {{ end }}
 
-  {{ with .Params.tags }}
+  {{ with .GetTerms "tags" }}
   <div class="episode-tags">
     {{ range . }}
-    <a href="{{ printf "/tags/%s/" . | relURL }}" class="tag">{{ . }}</a>
+    <a href="{{ .RelPermalink }}" class="tag">{{ .LinkTitle }}</a>
     {{ end }}
   </div>
   {{ end }}
@@ -64,13 +64,13 @@
     {{ with .PrevInSection }}
     <a href="{{ .Permalink }}" class="episode-nav-link episode-nav-prev">
       <span class="episode-nav-label">← Precedente</span>
-      <span class="episode-nav-title">{{ .Title | replaceRE `^\d+:\s*` "" }}</span>
+      <span class="episode-nav-title">{{ partial "episode-title.html" . }}</span>
     </a>
     {{ else }}<div></div>{{ end }}
     {{ with .NextInSection }}
     <a href="{{ .Permalink }}" class="episode-nav-link episode-nav-next">
       <span class="episode-nav-label">Successivo →</span>
-      <span class="episode-nav-title">{{ .Title | replaceRE `^\d+:\s*` "" }}</span>
+      <span class="episode-nav-title">{{ partial "episode-title.html" . }}</span>
     </a>
     {{ end }}
   </nav>

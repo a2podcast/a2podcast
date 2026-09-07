@@ -1,12 +1,13 @@
 +++
 title = "7: Manutenzione del Mac: procedure ed utility"
 date = "2021-03-15T06:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 7
 slug = "7"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336034/50020470_14b4_4ed1_9888_81ddff04d8d9.mp3"
 spreakerEpisodeId = "64336034"
 duration = "59:35"
-description = "In questa puntata Roberto e Filippo vi parlano di come tenere il vostro Mac in perfetta forma. 1. Antivirus ? Ha senso installare un antivirus / anti-malware??? Sicurezza su macOS (https://www.apple.com/it/macos/security/) Gatekeeper supporto Apple (https://support.apple.com/it-it/guide/deployment-r"
+description = "Come mantenere il Mac efficiente e sicuro: antivirus, Gatekeeper, aggiornamenti, pulizia, backup e utility da valutare senza ricorrere a interventi inutili."
 tags = ["mac", "sicurezza", "app"]
 draft = false
 

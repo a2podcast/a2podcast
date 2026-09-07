@@ -1,12 +1,13 @@
 +++
 title = "4: Le basi di iOS"
 date = "2021-02-25T09:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 4
 slug = "4"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336052/98a996b4_6655_4ce6_9a2b_6a5f119ebf59.mp3"
 spreakerEpisodeId = "64336052"
 duration = "1:32:22"
-description = "In questa puntata Roberto e Filippo aprono le danze con iOS, la sua storia, come funzionano i “gesti” del sistema touch di Apple e come è possibile passare da Android ad iOS. Poi esaminano le più importanti impostazioni di iOS per passare alle principali applicazioni pre-installate sull’iPhone. Con "
+description = "Un'introduzione pratica a iOS: storia, gesti fondamentali, passaggio da Android, impostazioni principali, applicazioni preinstallate e sicurezza dell'iPhone."
 tags = ["ios", "apple", "sicurezza"]
 draft = false
 

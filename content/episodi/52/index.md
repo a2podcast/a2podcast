@@ -1,12 +1,13 @@
 +++
 title = "52: Introduzione a Keyboard Maestro"
 date = "2023-02-06T08:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 52
 slug = "52"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335998/45a7a928_8347_4683_8d48_48407381cfdf.mp3"
 spreakerEpisodeId = "64335998"
 duration = "1:14:50"
-description = "In questa puntata di inizio anno Roberto e Filippo approfondiscono una delle applicazioni (a pagamento) più utili per automatizzare e velocizzare lo svolgimento di attività su macOS: Keyboard Maestro Comunicazioni di servizio Libro su come fare podcast dell’amico Matteo Scandolin (https://amzn.to/3i"
+description = "Un'introduzione a Keyboard Maestro, l'app per macOS che crea macro e automazioni capaci di velocizzare attività ripetitive, dal lavoro quotidiano alla produzione del podcast."
 tags = ["automazione", "macos", "produttivita", "apple"]
 draft = false
 

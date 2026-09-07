@@ -77,7 +77,9 @@ Per ogni episodio:
 
 **`clean_body()`**: rimuove H1 iniziale, **declassa a `##` ogni `# ` residuo nel corpo** (le note degli episodi usavano spesso `# Note dell'episodio`: un secondo H1 in pagina è un errore SEO, dato che il titolo episodio è già l'unico H1 — fix giugno 2026), taglia sezione "Dove ci potete trovare", deduplica blockquote adiacenti identici, normalizza whitespace.
 
-**`extract_description()`**: estrae il primo blockquote (`>`) come meta description (max 300 chars). Fallback: RSS description.
+**`extract_description()`**: estrae il primo blockquote (`>`) come meta description, ripulisce
+Markdown e URL, preferisce una frase completa e, se deve accorciare, tronca al confine di parola.
+Fallback: RSS description. Questo evita che l'ingestione produca tagli ciechi o markup nei meta tag.
 
 Lo script è idempotente — ri-eseguirlo sovrascrive i file esistenti senza problemi. I campi `tags`, `guest` e `youtubeId` vengono preservati dall'index.md esistente. `hasTranscript` viene impostato a `true` automaticamente se esiste già il file `static/trascrizioni/ep-NN.srt` (la funzione transcript ritorna `True` quando il file è presente): per questo, dopo aver aggiunto manualmente degli SRT, **basta rilanciare `ingest.py`** per allineare il flag su tutti gli episodi (fatto a giugno 2026: 76/77 episodi).
 
@@ -146,6 +148,7 @@ a2podcast/
 │       ├── header.html              # nav con brand color
 │       ├── footer.html
 │       ├── episode-card.html        # card riusabile (home + lista)
+│       ├── episode-title.html       # titolo episodio senza prefisso numerico
 │       ├── audio-player.html        # embed Spreaker iframe
 │       ├── hosts-contact.html       # "Dove ci potete trovare" da data/hosts.toml
 │       ├── host-icon.html           # SVG inline per icone link host (web/twitter/linkedin/youtube/podcast)
@@ -158,7 +161,7 @@ a2podcast/
 │   ├── js/matomo.js                 # snippet Matomo estratto (richiesto da CSP)
 │   ├── img/logo.jpg                 # logo podcast (usato in OG e JSON-LD)
 │   ├── _headers                     # Workers Static Assets: HTTP headers, CSP, cache
-│   ├── _redirects                   # /feed e /rss → Spreaker RSS
+│   ├── _redirects                   # endpoint feed legacy → Spreaker RSS
 │   └── trascrizioni/                # file SRT trascrizioni (ep-NN.srt)
 ├── scripts/
 │   ├── ingest.py                    # genera content/episodi/ da RSS + note MD
@@ -169,6 +172,7 @@ a2podcast/
 │   ├── normalize-tags.py            # normalizza tag esistenti verso lista canonica (dry-run / --apply)
 │   ├── fix-fireside-links.py        # sostituisce link a2podcast.fireside.fm → a2podcast.it negli episodi
 │   ├── test-site.py                 # test automatici (build + HTTP + frontmatter)
+│   ├── test_ingest.py               # test unitari estrazione description
 │   └── requirements.txt             # feedparser, python-slugify, requests
 ├── workers/
 │   └── rebuild-cron/
@@ -246,9 +250,24 @@ Ogni pagina riceve:
 - JSON-LD `PodcastSeries` → `schema-podcast.html` (incluso in ogni pagina via `baseof.html`)
 - JSON-LD `PodcastEpisode` (con `BreadcrumbList`) → `schema-episode.html` (incluso in `episodi/single.html`)
 
+Spreaker è l'unica sorgente RSS pubblica. Hugo genera soltanto HTML per home, section, taxonomy,
+term e page; `head.html` espone un unico link RSS autodiscovery al feed Spreaker e il footer usa lo
+stesso URL. `_redirects` conserva la compatibilità di `/feed[/]`, `/rss[/]`, `/index.xml` e
+`/episodi/index.xml`; non vengono rigenerati feed Hugo per tag o ospiti.
+
+I titoli episodio passano da un solo partial di normalizzazione, che rimuove prefissi storici come
+`74:`, `78.` o `Episode 36:`. Il valore normalizzato è condiviso da title SEO, H1, card,
+navigazione e structured data, così il numero viene presentato una sola volta. I link ai tag sono
+risolti da Hugo con `.GetTerms "tags"` e `.RelPermalink`, non ricostruendo manualmente gli slug.
+
+`lastmod` ha significato editoriale ed è sempre esplicito nel front matter. Solo in sua presenza
+`head.html` pubblica `article:modified_time` e `schema-episode.html` pubblica `dateModified`; la
+data di build, di ingestione o del commit non viene usata come surrogato. La sitemap eredita
+quindi una data di modifica soltanto quando la pagina la dichiara realmente.
+
 Gli episodi con `youtubeId` includono nel `PodcastEpisode` un `VideoObject` completo dei campi richiesti da Google (`name`, `description`, `thumbnailUrl` da `i.ytimg.com`, `uploadDate`, `contentUrl`, `embedUrl`): senza questi campi GSC segnalava *"Il video non si trova su una pagina di visualizzazione"* (fix giugno 2026). La thumbnail `i.ytimg.com` è già in `img-src` nella CSP (`static/_headers`).
 
-`datePublished` e `VideoObject.uploadDate` usano `.Date.Format "2006-01-02T15:04:05Z07:00"` (data-ora completa con fuso, non solo la data): il formato troncato al giorno faceva scattare in GSC *"Valore datetime di uploadDate non valido"* e *"...manca un fuso orario"* (fix agosto 2026). `VideoObject.name` applica `replaceRE "^\d+:\s*" ""` per togliere il prefisso numerico dell'episodio, coerente con l'H1 generato da `episodi/single.html`. I campi stringa dei due schema (`schema-episode.html`, `schema-podcast.html`) passano da `htmlEscape` a `jsonify | safeJS`: `htmlEscape` lasciava entità HTML non decodificate nella stringa JSON (`&#39;`, `&#34;`); `safeJS` evita che Go ri-codifichi il JSON già prodotto da `jsonify` quando viene iniettato nel `<script>`. `numberOfEpisodes` in `schema-podcast.html` è `len (where .Site.RegularPages "Section" "episodi")`, non `len .Site.RegularPages` (che include anche ospiti e about).
+`datePublished` e `VideoObject.uploadDate` usano `.Date.Format "2006-01-02T15:04:05Z07:00"` (data-ora completa con fuso, non solo la data): il formato troncato al giorno faceva scattare in GSC *"Valore datetime di uploadDate non valido"* e *"...manca un fuso orario"* (fix agosto 2026). `VideoObject.name` usa lo stesso `episode-title.html` dell'H1 e degli altri punti di presentazione. I campi stringa dei due schema (`schema-episode.html`, `schema-podcast.html`) passano da `htmlEscape` a `jsonify | safeJS`: `htmlEscape` lasciava entità HTML non decodificate nella stringa JSON (`&#39;`, `&#34;`); `safeJS` evita che Go ri-codifichi il JSON già prodotto da `jsonify` quando viene iniettato nel `<script>`. `numberOfEpisodes` in `schema-podcast.html` è `len (where .Site.RegularPages "Section" "episodi")`, non `len .Site.RegularPages` (che include anche ospiti e about).
 
 La sitemap usa un template custom (`layouts/sitemap.xml`) che **esclude i Kind `taxonomy`/`term`** (pagine `/tags/*`): quelle pagine sono `noindex`, quindi includerle in sitemap generava il warning GSC *"Esclusa in base al tag noindex"*. Il `robots.txt` è generato da Hugo con `enableRobotsTXT = true` + direttiva `Sitemap:` nel template.
 
@@ -271,6 +290,9 @@ Il template è già pronto. Workflow completo:
 4. (Opzionale) inserire `https://a2podcast.it/trascrizioni/ep-NN.srt` nel campo "URL di trascrizione" su Spreaker
 
 `Content-Type: text/plain; charset=utf-8` per i file SRT è già configurato in `static/_headers`.
+Lo stesso blocco assegna `X-Robots-Tag: noindex`: il file rimane raggiungibile e linkabile, ma non
+diventa un risultato di ricerca separato dalla pagina episodio. Gli SRT non sono bloccati in
+`robots.txt`, perché il crawler deve poter leggere l'header.
 
 `transcript-inline.html` inietta il testo della trascrizione direttamente nel DOM (dentro un `<details>`): il contenuto è indicizzabile da Google anche se collassato. Questo è la leva SEO principale per gli episodi: il corpo delle note è breve (decine di parole), mentre la trascrizione aggiunge migliaia di parole reali e pertinenti per pagina — risolve gli episodi che GSC marcava *"Rilevata ma non indicizzata"* perché troppo "thin" (a giugno 2026 attivata su 76/77 episodi).
 
@@ -412,3 +434,6 @@ Lista canonica: apple, mac, macos, ios, ipad, iphone, ipados, apple-silicon, app
 - `ingest.py` preserva `tags`/`guest`/`youtubeId` dall'index.md e imposta `hasTranscript = true` se l'SRT esiste in `static/trascrizioni/`; rigenera invece il **corpo** dai file note, quindi le modifiche durature al testo vanno fatte nei note sorgente
 - Il dominio canonico è `a2podcast.it` **senza www**; `a2podcast.fireside.fm` è un vecchio dominio dismesso (i link interni vanno sempre a `a2podcast.it/NN/`)
 - `hugo.toml` dichiara `timeZone = "Europe/Rome"` e `ingest.py` usa `ZoneInfo("Europe/Rome")` (non un offset fisso `+01:00`) per rispettare l'ora legale nelle date generate (fix agosto 2026)
+- `scripts/test-site.py --live-base-url https://a2podcast.it` aggiunge ai test locali gli smoke
+  test sul deploy Cloudflare: redirect/404, feed, header SRT, canonical e `noindex`. Le aspettative
+  di contenuto derivano dalla build e dal front matter, mai dai conteggi storici GSC.

@@ -1,12 +1,13 @@
 +++
 title = "23: Il flusso di lavoro di Alex Raccuglia"
 date = "2021-12-06T06:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 23
 slug = "23"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336043/a38f5366_8825_4d12_b469_9b2263e85bc1.mp3"
 spreakerEpisodeId = "64336043"
 duration = "1:25:01"
-description = "In questa puntata Roberto e Filippo sono in compagnia dell’amico Alex Raccuglia che ci racconterà la sua esperienza con i Mac e come, grazie alle sue capacità di programmatore, ha creato delle piccole utility (e non solo!) per velocizzare il suo flusso di lavoro di video-maker. La chiacchierata meri"
+description = "Alex Raccuglia racconta il suo flusso di lavoro da videomaker e sviluppatore, spiegando come crea utility su misura per risolvere problemi reali e lavorare più velocemente."
 tags = ["mac", "workflow", "video", "automazione"]
 draft = false
 

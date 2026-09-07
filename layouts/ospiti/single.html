@@ -55,7 +55,7 @@
         <li>
           <a href="{{ $ep.Permalink }}">
             <span class="guest-ep-number">Ep. {{ $epNum }}</span>
-            <span class="guest-ep-title">{{ $ep.Title | replaceRE `^\d+:\s*` "" }}</span>
+            <span class="guest-ep-title">{{ partial "episode-title.html" $ep }}</span>
           </a>
         </li>
         {{ else }}

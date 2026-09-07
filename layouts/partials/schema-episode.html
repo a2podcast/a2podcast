@@ -1,4 +1,5 @@
 {{ if eq .Section "episodi" }}
+{{ $episodeTitle := partial "episode-title.html" . }}
 {{ $audioUrl := "" }}
 {{ with .Params.spreakerEpisodeId }}
   {{ $audioUrl = printf "https://api.spreaker.com/v2/episodes/%s/download.mp3" . }}
@@ -33,10 +34,11 @@
 {
   "@context": "https://schema.org",
   "@type": "PodcastEpisode",
-  "name": {{ .Title | jsonify | safeJS }},
+  "name": {{ $episodeTitle | jsonify | safeJS }},
   "url": "{{ .Permalink }}",
   {{/* ISO 8601 completo di fuso: GSC segnalava "manca un fuso orario" sul troncamento a YYYY-MM-DD */}}
   "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  {{ if not .Lastmod.IsZero }}"dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",{{ end }}
   "description": {{ .Params.description | jsonify | safeJS }},
   "episodeNumber": {{ .Params.episodeNumber }},
   "inLanguage": "it",
@@ -63,9 +65,7 @@
   "transcript": "{{ printf "%strascrizioni/ep-%d.srt" .Site.BaseURL .Params.episodeNumber }}"{{ end }}{{ with .Params.youtubeId }},
   "video": {
     "@type": "VideoObject",
-    {{/* Stesso strip del prefisso "NN: " applicato all'H1 in episodi/single.html:
-         schema e contenuto visibile devono coincidere. */}}
-    "name": {{ $.Title | replaceRE `^\d+:\s*` "" | jsonify | safeJS }},
+    "name": {{ $episodeTitle | jsonify | safeJS }},
     "description": {{ $.Params.description | jsonify | safeJS }},
     "thumbnailUrl": "https://i.ytimg.com/vi/{{ . }}/maxresdefault.jpg",
     "uploadDate": "{{ $.Date.Format "2006-01-02T15:04:05Z07:00" }}",

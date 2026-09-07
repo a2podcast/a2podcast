@@ -1,12 +1,13 @@
 +++
 title = "32: Email (parte II): gli aspetti tecnici"
 date = "2022-04-11T05:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 32
 slug = "32"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336041/04862468_92b5_4038_89a5_8988cdb9f6a6.mp3"
 spreakerEpisodeId = "64336041"
 duration = "59:11"
-description = "Oggi parleremo delle email ma con un taglio più tecnico rispetto alla puntata 29. Infatti approfondiremo il funzionamento sotto il cofano delle email (cos'è IMAP e POP3), alcune particolarità dei servizi di posta elettronica più famosi , come rendere più sicure le email, come salvare le email sul vo"
+description = "Un viaggio sotto il cofano della posta elettronica: differenze tra IMAP e POP3, ruolo di client e server, sicurezza, archiviazione e scelta del servizio email."
 tags = ["email", "sicurezza"]
 draft = false
 

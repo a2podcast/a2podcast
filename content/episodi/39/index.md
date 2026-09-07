@@ -26,8 +26,8 @@ draft = false
 - [StoryFlint: Personal Knowledge Management in Notion](https://www.storyflint.com/blog/personal-knowledge-management-notion): articolo citato nelle note originali per approfondire l’uso di Notion come sistema di PKM.
 - [Roam Research](https://roamresearch.com/): applicazione citata da Filippo tra gli strumenti basati su collegamenti tra note, backlink e costruzione di reti di conoscenza.
 - [Obsidian](https://obsidian.md/): applicazione usata da Filippo per raccogliere note in Markdown, collegarle tra loro e recuperare rapidamente procedure e informazioni verticali.
-- [A2 episodio 30: Prendere note con l’iPad con Apple Pencil](http://www.a2podcast.it/30): puntata richiamata da Roberto parlando di note scritte a mano, iPad e Apple Pencil.
-- [A2 episodio 31: Note con l’iPad ed Apple Pencil, i programmi e bullet journal](http://www.a2podcast.it/31): episodio citato per l’approfondimento su applicazioni di note e Bullet Journal.
+- [A2 episodio 30: Prendere note con l’iPad con Apple Pencil](https://a2podcast.it/30/): puntata richiamata da Roberto parlando di note scritte a mano, iPad e Apple Pencil.
+- [A2 episodio 31: Note con l’iPad ed Apple Pencil, i programmi e bullet journal](https://a2podcast.it/31/): episodio citato per l’approfondimento su applicazioni di note e Bullet Journal.
 - [Nebo](https://www.nebo.app/it/): app segnalata da Roberto per scrivere a mano con Apple Pencil e convertire la scrittura in testo con grande precisione.
 
 ## Sinossi[^sinossi-ai]

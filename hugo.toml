@@ -10,9 +10,16 @@ enableEmoji = false
   pagerSize = 20
 
 [outputs]
-  home    = ["HTML", "RSS"]
-  section = ["HTML", "RSS"]
-  page    = ["HTML"]
+  home     = ["HTML"]
+  section  = ["HTML"]
+  taxonomy = ["HTML"]
+  term     = ["HTML"]
+  page     = ["HTML"]
+
+# Non derivare Lastmod dalla data di pubblicazione: viene valorizzato soltanto
+# quando il front matter contiene un lastmod esplicito.
+[frontmatter]
+  lastmod = ["lastmod"]
 
 [taxonomies]
   tag = "tags"

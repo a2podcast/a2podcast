@@ -1,0 +1,2 @@
+{{- $title := .Title | replaceRE `(?i)^(episode[[:space:]]+)?[0-9]+[.:][[:space:]]*` "" -}}
+{{- return $title -}}

@@ -1,12 +1,13 @@
 +++
 title = "60: iWorks: Pages e Numbers"
 date = "2023-05-29T05:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 60
 slug = "60"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336008/2b1991a5_fc4a_4c78_9e6d_b069a4c9d188.mp3"
 spreakerEpisodeId = "64336008"
 duration = "55:50"
-description = "In questa puntata Roberto e Filippo parlano del perché è importante concentrarsi, le possibili tecniche e trucchi per farlo al meglio."
+description = "Una panoramica pratica di Pages e Numbers, dalle interfacce e dai modelli alla collaborazione, con un confronto ragionato con Word ed Excel e uno sguardo alle automazioni."
 tags = ["focus", "produttivita"]
 draft = false
 

@@ -30,7 +30,7 @@
         <div class="featured-episode-header">
           <p class="featured-episode-eyebrow">Ultimo episodio</p>
           <h2 id="featured-episode-title" class="featured-episode-title">
-            <a href="{{ .RelPermalink }}">Ep. {{ .Params.episodeNumber }} · {{ .Title | replaceRE `^\d+[\.:]\s*` "" }}</a>
+            <a href="{{ .RelPermalink }}">Ep. {{ .Params.episodeNumber }} · {{ partial "episode-title.html" . }}</a>
           </h2>
           {{ with .Params.description }}
           <p class="featured-episode-description">{{ . }}</p>

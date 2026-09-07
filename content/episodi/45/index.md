@@ -1,12 +1,13 @@
 +++
 title = "45: Minimalismo su iPhone ed iPad"
 date = "2022-10-31T06:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 45
 slug = "45"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336003/1fdc0228_8514_40fc_aa5f_2e1a18a91862.mp3"
 spreakerEpisodeId = "64336003"
 duration = "1:03:54"
-description = "In questa puntata Roberto e Filippo fanno un approfondimento su come configurare il tuo iPhone o iPad in modo minimalista per ottenere di più con meno. 1. Cosa intendiamo per Minimalismo? iPhone ed iPad sono potenziali strumento di distrazione Usare bene pochi strumenti Utilizzare solo quel che è es"
+description = "Come configurare iPhone e iPad in modo minimalista per ridurre distrazioni e confusione, scegliere pochi strumenti essenziali e lavorare con maggiore intenzionalità."
 tags = ["minimalismo", "iphone", "ipad", "produttivita"]
 draft = false
 

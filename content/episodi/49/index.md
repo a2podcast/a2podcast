@@ -1,12 +1,13 @@
 +++
 title = "49: iPad 2022: quale scegliere?"
 date = "2022-12-26T06:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 49
 slug = "49"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335995/ba2e1356_3b0d_484d_a696_4c06fe03d379.mp3"
 spreakerEpisodeId = "64335995"
 duration = "1:31:43"
-description = "In questa puntata Roberto e Filippo, accompagnati da Daniele Borghi parlano dei modelli di iPad acquistabili nel 2022 ed inizio 2023 e delle loro differente. iPad super longevi Budget o longevità? Consumare contenuti o crearli? Attività specifiche Esiste un software fondamentale per quel che si vuol"
+description = "Con Daniele Borghi, un confronto tra gli iPad disponibili tra 2022 e 2023 per scegliere in base a budget, longevità, accessori, software e attività previste."
 tags = ["ipad", "apple", "hardware", "produttivita"]
 draft = false
 

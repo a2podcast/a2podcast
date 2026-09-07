@@ -1,12 +1,13 @@
 +++
 title = "54: Freeform con Lucio Bragagnolo"
 date = "2023-03-06T06:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 54
 slug = "54"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335983/d1a8f550_2380_44a1_aae2_d9c578274f12.mp3"
 spreakerEpisodeId = "64335983"
 duration = "1:20:52"
-description = "In questa puntata Roberto e Filippo, assieme all’amico Lucio Bragagnolo, ti racconteranno la loro esperienza con Freeform. Freeform è uno spazio flessibile in cui riunire tutti gli elementi, come foto, forme, appunti e altro, e visualizzare rapidamente i concetti. Note episodio Cosa abbiamo fatto? T"
+description = "Con Lucio Bragagnolo, una prova sul campo di Freeform come lavagna collaborativa per raccogliere appunti, immagini e link, valutarne punti di forza e limiti."
 tags = ["app", "apple", "ospite", "produttivita", "brainstorming"]
 draft = false
 

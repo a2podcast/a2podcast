@@ -1,12 +1,13 @@
 +++
 title = "14: Introduzione all’automazione"
 date = "2021-06-14T05:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 14
 slug = "14"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336046/6a5b12ed_a519_41ca_b938_a19012f6dbf7.mp3"
 spreakerEpisodeId = "64336046"
 duration = "52:04"
-description = "In questa puntata introduciamo un argomento molto caro a Filippo: l’automazione! Oggi non entreremo troppo nel dettaglio di come creare una automazione o degli specifici programmi per automatizzare con macOS e iOS / iPadOS ma ci soffermeremo sul perché è importante automatizzare e quali “trappole” d"
+description = "Un'introduzione all'automazione come ricetta affidata al computer, con criteri per scegliere cosa automatizzare, risparmiare tempo ed evitare le trappole più comuni."
 tags = ["automazione", "macos", "ios", "produttivita", "workflow"]
 draft = false
 

@@ -12,6 +12,7 @@ Run from the project root (a2podcast/):
     python3 scripts/ingest.py
 """
 
+import html
 import os
 import re
 import sys
@@ -146,7 +147,10 @@ def clean_body(raw: str) -> str:
 
 def extract_description(raw: str, fallback: str = "") -> str:
     """
-    Return the first blockquote block as the episode description (≤ 300 chars).
+    Return a plain-text description from the first blockquote (≤ 300 chars).
+
+    Markdown and URLs are removed before selecting the longest complete sentence
+    that fits. If no useful sentence boundary exists, truncate at a word boundary.
     Falls back to the RSS description if no blockquote is found.
     """
     lines = raw.splitlines()
@@ -165,9 +169,49 @@ def extract_description(raw: str, fallback: str = "") -> str:
     if not result:
         result = fallback
 
-    # Collapse whitespace and cap length
-    result = re.sub(r'\s+', ' ', result)[:300]
-    return result
+    # Markdown links keep their human-readable labels; images keep their alt text.
+    result = html.unescape(result)
+    result = re.sub(r'!\[([^]]*)\]\([^)]*\)', r'\1', result)
+    result = re.sub(r'\[([^]]+)\]\([^)]*\)', r'\1', result)
+    result = re.sub(r'<(?:https?://|www\.)[^>]+>', '', result)
+
+    # Preserve punctuation following a bare URL so sentence detection still works.
+    def remove_url(match: re.Match) -> str:
+        url = match.group(0)
+        trailing = ""
+        while url and url[-1] in ".,;:!?":
+            trailing = url[-1] + trailing
+            url = url[:-1]
+        return trailing
+
+    result = re.sub(r'(?:https?://|www\.)[^\s<>()]+', remove_url, result)
+    result = re.sub(r'<[^>]+>', ' ', result)
+    result = re.sub(r'`([^`]*)`', r'\1', result)
+    result = re.sub(r'[*_~]+', '', result)
+    result = re.sub(r'(^|\s)(?:#{1,6}|[-+]|\d+[.)])\s+', r'\1', result)
+    result = re.sub(r'\(\s*\)', '', result)
+    result = re.sub(r'\s+', ' ', result).strip(' -')
+    result = re.sub(r'\s+([.,;:!?])', r'\1', result)
+
+    max_chars = 300
+    if len(result) <= max_chars:
+        return result
+
+    # Prefer a substantial, complete sentence to an arbitrary character cut.
+    sentence_ends = [
+        match.end()
+        for match in re.finditer(r'[.!?](?=\s|$)', result)
+        if 120 <= match.end() <= max_chars
+    ]
+    if sentence_ends:
+        return result[:sentence_ends[-1]].strip()
+
+    # No suitable sentence: reserve one character for an ellipsis and never split
+    # the last word when a word boundary is available.
+    truncated = result[:max_chars - 1].rsplit(' ', 1)[0].rstrip(' ,;:-')
+    if not truncated:
+        truncated = result[:max_chars - 1]
+    return f"{truncated}…"
 
 
 def toml_str(s: str) -> str:

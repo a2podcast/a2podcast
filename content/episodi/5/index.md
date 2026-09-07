@@ -1,12 +1,13 @@
 +++
 title = "5: Le basi di iPadOS"
 date = "2021-03-01T06:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 5
 slug = "5"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335990/a3e71ece_9fc6_46ec_b846_17df2f0e62bc.mp3"
 spreakerEpisodeId = "64335990"
 duration = "1:21:43"
-description = "In questa puntata Roberto e Filippo vi introducono alle particolarità di iPadOS il sistema operativo degli iPad. Oltre a parlare di come funziona il multitasking di iPadOS esamineranno in dettaglio l'app File, come navigare con Safari con la modalità desktop ed infine dell'utilizzo di iPad con l’_Ap"
+description = "Filippo e Roberto presentano le peculiarità di iPadOS, dal multitasking all'app File, passando per Safari desktop, Apple Pencil, mouse e trackpad."
 tags = ["ipados", "ipad", "apple-pencil", "hardware"]
 draft = false
 

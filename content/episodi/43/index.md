@@ -1,12 +1,13 @@
 +++
 title = "43: Mappe Mentali: approfondimento"
 date = "2022-10-03T05:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 43
 slug = "43"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64336021/855c6d13_0d0e_4383_b925_2abef9f2513c.mp3"
 spreakerEpisodeId = "64336021"
 duration = "49:44"
-description = "Una mappa mentale (mind map) è una forma di rappresentazione grafica del pensiero teorizzata dal cognitivista inglese Tony Buzan, a partire da alcune riflessioni sulle tecniche per prendere appunti. Il fine consiste nell'implementare la memoria visiva e quindi la memorizzazione di concetti e informa"
+description = "Un approfondimento sulle mappe mentali: origini del metodo, principi visivi, differenze dalle mappe concettuali e applicazioni pratiche per organizzare le idee."
 tags = ["pkm", "produttivita", "note", "organizzazione"]
 draft = false
 

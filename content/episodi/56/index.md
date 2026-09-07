@@ -1,12 +1,13 @@
 +++
 title = "56: Automazione dell'archiviazione digitale con Hazel"
 date = "2023-04-03T05:00:00+01:00"
+lastmod = "2026-09-07T12:00:00+02:00"
 episodeNumber = 56
 slug = "56"
 audioUrl = "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64335997/ce677938_b1e5_4320_80ec_d066bd87012c.mp3"
 spreakerEpisodeId = "64335997"
 duration = "1:01:35"
-description = "Hazel sorveglia qualsiasi cartella tu gli dica, organizzando automaticamente i tuoi file in base alle regole che gli hai dato. Chiedi a Hazel di spostare i file in base a nome, data, tipo, da quale sito proviene e molto altro. Ordina automaticamente i tuoi film o archivia le tue bollette. Tieni i tu"
+description = "Filippo e Roberto mostrano come Hazel automatizza cartelle e archivi sul Mac, usando regole per rinominare, spostare e classificare documenti in sicurezza."
 tags = ["automazione", "macos", "organizzazione", "produttivita"]
 draft = false
 
