@@ -1,0 +1,1383 @@
+1
+00:00:01,840 --> 00:00:07,040
+A2 Podcast, scopri come ottenere il massimo della tua tecnologia Apple.
+
+2
+00:00:07,040 --> 00:00:16,800
+Due professionisti, Filippo e Roberto, te lo spiegano con argomenti monotematici ed ospiti che raccontano il loro flusso di lavoro.
+
+3
+00:00:16,800 --> 00:00:19,920
+Benvenuti all'episodio 82 di A2 Podcast.
+
+4
+00:00:19,920 --> 00:00:23,760
+Il podcast in cui scopriamo come tenere il massimo dalla nostra tecnologia Apple.
+
+5
+00:00:23,760 --> 00:00:27,920
+Io sono Filippo Strozzi, sono il vostro ospite assieme all'amico Roberto Marin.
+
+6
+00:00:27,920 --> 00:00:41,440
+Nella puntata precedente, siamo partiti dal caso concreto di Daniele con dischi cloud, documenti note, contenuti prodotti con l'intelligenza artificiale, vecchi lavori, materiali personali e tutto il resto.
+
+7
+00:00:41,440 --> 00:00:44,160
+Oggi cerchiamo di arrivare a un dunque.
+
+8
+00:00:44,160 --> 00:00:58,000
+Mettiamola così e chiudere questo doppio episodio, mettiamola in questi termini, e proviamo a fare un passo più piccolo, ma più utile, cioè non a sistemare tutto, perché effettivamente ci abbiamo ragionato in questa settimana tra una registrazione e l'altra.
+
+9
+00:00:58,240 --> 00:01:02,240
+Ma invece, cercheremo un approccio un po' più concreto da un certo punto di vista.
+
+10
+00:01:02,240 --> 00:01:07,920
+E parleremo anche degli ultimi argomenti che avevamo più o meno in scaletta, mettiamola in questi termini.
+
+11
+00:01:07,920 --> 00:01:09,280
+Proprio perché appunto.
+
+12
+00:01:09,280 --> 00:01:12,640
+Oggi cerchiamo di esaminare nella concretezza.
+
+13
+00:01:12,640 --> 00:01:13,840
+Diciamo il caso pratico.
+
+14
+00:01:13,840 --> 00:01:16,160
+E provare a qualche maniera a risolverlo.
+
+15
+00:01:16,160 --> 00:01:23,520
+Poi casomai Daniele ci verrà a ritrovare tra non so, sei mesi dicendoci che questo ha funzionato, questo non ha funzionato.
+
+16
+00:01:23,520 --> 00:01:25,120
+Questi sono gli ulteriori problemi.
+
+17
+00:01:25,680 --> 00:01:26,640
+Può andarvi bene.
+
+18
+00:01:26,640 --> 00:01:32,000
+Intanto, benvenuti a tutti e due, gli host con me, sia Daniele che Roberto.
+
+19
+00:01:32,000 --> 00:01:33,520
+Ma grazie, grazie ancora.
+
+20
+00:01:33,680 --> 00:01:40,160
+Vi ringrazio ancora del invito per la nuova puntata, e spero di risolvere la stazione.
+
+21
+00:01:40,240 --> 00:01:44,640
+Poi, giustamente tra qualche mese, anche dopo le vacanze.
+
+22
+00:01:44,640 --> 00:01:55,520
+Visto che così ho più tempo per far girare magari qualche script, che magari riesco a trovare o riesco anche a inventarmi con l'intelligenza artificiale.
+
+23
+00:01:55,520 --> 00:01:56,240
+Poi, vediamo.
+
+24
+00:01:56,640 --> 00:02:18,280
+Io intanto, rinnovo il benvenuto a Daniele, che si è prestato per questa nuova puntata, come dicevamo sulla puntata 81, abbiamo parlato di molti strumenti, ma abbiamo anche scoperto che il problema non è scegliere l'app, ma il problema vero che a Daniele, ma molti di noi ce l'hanno, che non si fida più del sistema adottato.
+
+25
+00:02:18,280 --> 00:02:41,960
+Perché quando uno va a cercare qualcosa, non lo trova, non sa dov'è, tra tutti i vari strumenti che ci sono e tutti quelli nuovi che escono, insomma, ce n'è sempre una nuova, non si sa dove si lasciano le cose, anche perché, comunque, oltre alla vita informatica, c'è anche la vita vera che ti presta più alla vita professionale, quello che dobbiamo chiedere a Daniele, cosa dobbiamo fare a questo punto?
+
+26
+00:02:41,960 --> 00:02:53,720
+Dobbiamo togliere tutto, ripartire da capo, e dice soprattutto quali sono le due o tre cose su cui vuoi davvero lavorare in questo mese, nel prossimo mese, o via discorrendo, a te la parola.
+
+27
+00:02:53,720 --> 00:02:56,520
+Sono tante le cose su cui vorrei lavorare.
+
+28
+00:02:56,520 --> 00:03:05,560
+Allora, innanzitutto devo lavorare sulla documentazione, per il momento, quella che è già esistente.
+
+29
+00:03:05,560 --> 00:03:22,680
+Quindi, come ho detto l'episodio precedente, ho un sacco di documenti, vecchi, direi definirei anche antichi, perché parliamo anche di documenti del 2007, anche del 2000.
+
+30
+00:03:22,680 --> 00:03:36,280
+Quindi, roba roba vecchia, uno potrebbe dire anche: butta via, perché ormai è passata, ma come si sa, il metodo Marie Kondo, è sempre dietro l'angolo, ma è sempre difficile da attuare.
+
+31
+00:03:36,280 --> 00:04:21,040
+Invece devo mettere in ordine: prima di tutto, la documentazione che mi serve per il mio podcast, quindi ho veramente mille e mille documentazioni, stracci di stralci di articoli, white paper, che insomma, dovrei guardare sapere dove mettere, anche per poter anche capire cosa ho, perché uno accumula scarica, e alla fine, o la lascia nel cartella download oppure cerca di dargli un certo senso di organizzazione.
+
+32
+00:04:21,040 --> 00:04:49,040
+Ma alla fine poi mi dimentico dove sono, perché poi ne arriva l'altra roba e poi magari vieni preso come focus per un altro argomento e ti dimentichi che hai lasciato lì, magari scritto da riguardare e non lo riguardi più, invece avrei bisogno proprio di un metodo che semplifichi un po' un po' le cose.
+
+33
+00:04:49,040 --> 00:04:55,840
+Allora, io direi partiamo da questo primo punto, poi andiamo verso altri.
+
+34
+00:04:55,840 --> 00:05:06,240
+Secondo me il tuo problema attuale è che non hai un inbox, cioè un posto dove va a finire tutto quello che ti segni, l'inbox.
+
+35
+00:05:06,240 --> 00:05:25,760
+Poi, però, ha un problema grossissimo che va affrontato, ovvero tu l'inbox non è che poi usarlo come un cestino, cioè buttarsi dentro tutto e poi non darci più a guardare, devi anche fissarti una volta a settimana o anche di più, dipende molto da come sei organizzato, da quanto materiale raccogli.
+
+36
+00:05:26,000 --> 00:05:38,920
+Un momento dove lo guardi, lo guardi, e dove a questo punto quantomeno fai una prima operazione di scrematura, è qualcosa che mi interessa sul serio, è qualcosa che forse in un futuro mi interesserà.
+
+37
+00:05:38,920 --> 00:05:49,080
+E a questo punto ne approfittiamo, diciamo, per parlare velocemente del sistema PARA a linee massime, poi dopo lo vedremo lo vedremo più in dettaglio.
+
+38
+00:05:49,080 --> 00:06:05,080
+Ma secondo me, appunto, io ritengo che il sistema di Tiago Forte è utile non per spiaggiarci sopra, mettiamola così, ma come spunto per ragionare un'organizzazione più strutturata, sostanzialmente.
+
+39
+00:06:05,080 --> 00:06:12,920
+Perché poi i principi di base del sistema PARA sono abbastanza basilari e scontati una volta che li conosci.
+
+40
+00:06:12,920 --> 00:06:23,080
+Cioè l'idea di Tiago Forte è di organizzare la propria attività, le cose che devi organizzare, diciamo in qualcosa di concreto.
+
+41
+00:06:23,080 --> 00:06:43,480
+Quindi c'è un primo punto che è la P che sta per progetti, project in lingua inglese, che sono sostanzialmente appunto che è una cartella all'interno della quale vivono le cose che devi fare, i singoli progetti che devi portare avanti, diciamo, e che hanno un inizio e una fine, ok.
+
+42
+00:06:43,800 --> 00:07:02,600
+Quindi, nella sostanza, non so, vuoi realizzare la puntata N del tuo podcast, c'è una cartella all'interno di progetti col numero da puntata, ipotizziamo, e lì hai tutto il materiale che ti sei costruito, chiamamolo in questi termini, per quella singola puntata, e l'idea è questa, ok?
+
+43
+00:07:02,920 --> 00:07:04,680
+Poi hai le aree.
+
+44
+00:07:04,680 --> 00:07:11,480
+Le aree sono, appunto, invece non sono progetti, quindi sono qualcosa che va avanti indeterminatamente nel tempo.
+
+45
+00:07:11,480 --> 00:07:34,080
+Quindi l'area potrebbe essere invece una cartella del podcast, mettiamola in questi termini, e lì casomai hai sia da una parte eventuali materiali di riferimento che utilizzi e così via, ma dall'altra, hai anche caso mai l'archivio, così sai che nell'area hai appunto il podcast e il tiraline, e a quel punto lì dentro ci sono tutte le tue puntate e quant'altro.
+
+46
+00:07:34,240 --> 00:07:45,280
+Sì, perché scusa se ti interrompo, ma perché in effetti quando ho cercato di capire questo sistema, io purtroppo vado, diciamo in tilt proprio su questa cosa.
+
+47
+00:07:45,280 --> 00:07:47,840
+Perché ho sempre pensato che il progetto.
+
+48
+00:07:47,840 --> 00:07:54,800
+Il progetto è una cosa a lungo termine, e invece no, invece fanno proprio il contrario.
+
+49
+00:07:55,440 --> 00:08:01,040
+L'idea è perché teoricamente diciamo nelle buone regole di organizzazione.
+
+50
+00:08:01,040 --> 00:08:03,360
+Quale è il concetto di fondo?
+
+51
+00:08:03,360 --> 00:08:12,000
+È che non tieni aperto 100 progetti contemporaneamente, anche perché se hai 100 progetti aperti contemporaneamente, non ne stai gestendo neanche uno.
+
+52
+00:08:12,000 --> 00:08:16,560
+Abitualmente il discorso è hai due o tre progetti per la settimana.
+
+53
+00:08:16,560 --> 00:08:24,240
+Voglio dire adesso, o comunque al massimo tre o quattro, anche perché la settimana poi è limitata temporalmente.
+
+54
+00:08:24,240 --> 00:08:36,320
+Su quelli lavori su tutto il resto, che appunto su cui oggi non puoi lavorare, diciamo messo in un'altra sezione, e di fatto i progetti sono il punto.
+
+55
+00:08:36,400 --> 00:08:38,880
+Cioè, tu parti dai progetti, cioè cosa devo fare oggi?
+
+56
+00:08:38,880 --> 00:08:47,760
+Apri la cartella progetti e sai che non so, è la puntata del podcast, non so, hai la stampa 3D, quindi stai lavorando su un modello 3D, che ne so, e così via.
+
+57
+00:08:47,760 --> 00:08:50,000
+Vuoi approfondire un argomento?
+
+58
+00:08:50,000 --> 00:08:54,400
+Vuoi leggere un white paper perché ti interessa per future episodi?
+
+59
+00:08:54,400 --> 00:09:05,800
+Benissimo, quello è l'attività che questa settimana fai ed è ovvio che fisicamente tra lavoro e attività collaterali, diciamo, non è che puoi metterci dentro l'infinito oltre.
+
+60
+00:09:06,120 --> 00:09:22,360
+Le aree invece sono quelle zone, non so, per esempio, l'area è l'area familiare, quindi, non so, devi organizzare la vacanza, anche lì la vacanza, casomai nel tempo accumuli materiale per la vacanza, prenotazioni preventive e così via.
+
+61
+00:09:22,360 --> 00:09:37,560
+Poi eventualmente appunto anche qui nel momento in cui devi devi finalizzare la vacanza, per esempio, diventa un progetto, cioè prenoto la vacanza, ho fatto tutte le ricerche, ho fatto le ricerche sull'itinerario sui prezzi migliori per l'albergo o che ne so io.
+
+62
+00:09:37,560 --> 00:09:59,560
+A quel punto lì diventa un progetto, finalizzo finalizzo il progetto, e nel caso specifico della vacanza di quest'anno casomai dopo va nell'archivio, la sposti, perché a quel punto lì non te ne frega più niente le vacanza che hai già fatto, o eventualmente ti può diventare utile, appunto, per vedere, non so, l'anno scorso sono andato in Giappone, ho speso 10.000 euro.
+
+63
+00:10:00,040 --> 00:10:08,040
+Quest'anno voglio andare in Giappone, ma spendere 6 e quindi devo controllare i preventivi, se sono aumentati e abbassati, e così via, ed è quello il concetto.
+
+64
+00:10:08,040 --> 00:10:11,400
+Poi di fondo di tutto questo sistema, ok.
+
+65
+00:10:11,640 --> 00:10:25,400
+E infine, visto che abbiamo parlato più o meno di tutto il PARA, la R sta per risorse, risorse, cioè tutti i template, non so, per esempio, tutta la sigla della puntata se ce l'hai.
+
+66
+00:10:25,720 --> 00:10:27,800
+La scaletta, vanno nelle risorse.
+
+67
+00:10:27,800 --> 00:10:39,880
+Quindi, tu sai che in risorse ci sono, non so, c'è la cartella e il tiralino, e con dentro tutta la musica di sottofondo, le immagini, tipo, e a quel punto lì hai solo il materiale legato.
+
+68
+00:10:39,880 --> 00:11:06,800
+Però, per esempio, a quella cosa lì, per cui a quel punto, alla fine, tutto il resto va nell'archivio, ma nell'archivio che, diciamo nel tuo caso specifico, visto che hai tantissima roba, io non mi metterei a mettere ordine subito in un momento unico, diciamo nell'archivio, ma io prenderei chiamiamolo così tutto quello che hai il grosso di quello che hai lo caccerai nell'archivio.
+
+69
+00:11:06,800 --> 00:11:15,200
+Poi è ovvio che un progetto che a questo punto dovrebbe diventare un progetto lungo termine è quello di ottimizzare questo archivio.
+
+70
+00:11:15,200 --> 00:11:52,720
+Quindi, non so, appunto, hai un pomeriggio, una domenica libera e vuoi mettere apposta tutto il materiale delle assicurazioni delle varie macchine, auto, moto e così via, ti prendi quel pomeriggio per organizzare quel fetta di archivio, non so se mi spiega o casomai non so, stai affrontando una nuova puntata del tiraline, sai che avevi salvato da qualche parte qualcosa, inizia a cercare la roba, diciamo, e mentre cerchi, casomai trovi dell'altro materiale che non c'entra niente, diciamo con la tua ricerca specifica.
+
+71
+00:11:52,720 --> 00:12:03,120
+Ma casomai dici, intanto che sono qua, intanto inizio a cercare di strutturare l'archivio in maniera che nel futuro riesco poi a strutturarlo meglio.
+
+72
+00:12:03,120 --> 00:12:09,760
+Quindi anche qui l'archivio dipende un po' da di fatto sono i materiali che vuoi andare a trovare in maniera sensata.
+
+73
+00:12:09,760 --> 00:12:15,440
+Quindi, non so, ci sarà l'archivio con materiali utili per il podcast, il tiraline.
+
+74
+00:12:15,600 --> 00:12:17,840
+Quindi lì dentro ci butta tutta quella roba lì.
+
+75
+00:12:18,640 --> 00:12:27,760
+Le bollette, per esempio, della casa, invece, o della famiglia, della vita familiare, ci sarà una cartella casa.
+
+76
+00:12:27,760 --> 00:12:28,400
+A questo punto.
+
+77
+00:12:28,400 --> 00:12:30,280
+Chiamiamola così, io, per esempio.
+
+78
+00:12:29,840 --> 00:12:34,120
+L'esempio tipico che faccio, il mio, diciamo, per la gestione familiare.
+
+79
+00:12:34,280 --> 00:12:48,680
+Io utilizziamo iCloud, che è sincronizzato visto che iCloud è familiare sostanzialmente, ho condiviso la cartella casa con mia moglie, e quindi, non so, tutte le bollette sono in fornitori servizi.
+
+80
+00:12:48,920 --> 00:12:55,800
+Ci sono le bollette e i pagamenti delle bollette, se faccio i bonifici o i vari pago PA e così via.
+
+81
+00:12:55,800 --> 00:13:05,160
+Appunto, le vacanze, io le spese alle vacanze, le salvo in vacanza anno vacanza, le spese o gli acconti dati per quella vacanza.
+
+82
+00:13:05,160 --> 00:13:21,640
+Così eventualmente se mi serve, abbiamo avuto altre vicessitudini familiari, non so, le varie eredità sono tutte dentro ho una cartella specifica per il singolo parente morto, con dentro tutto il materiale, ovviamente legato a quella roba lì.
+
+83
+00:13:21,640 --> 00:13:43,800
+In quella maniera, poi anche qui la perfezione è il nemico, nel senso ha più senso avere un minimo di organizzazione, mettiamola così piuttosto che non aver niente o piuttosto che essere terrorizzati dal fatto che per organizzare ci metterai una giornata, quindi ti dici no, non c'ho tempo di perderci una giornata.
+
+84
+00:13:43,800 --> 00:13:50,440
+Il concetto è proprio quello, cioè la mia idea sulla digitalizzazione, per esempio, dello studio legale, cosa ho fatto?
+
+85
+00:13:50,440 --> 00:14:14,360
+Non è che dal giorno alla notte ho preso tutti i miei fascicoli di tutte le cause che avevo le ho digitalizzate e le ho messi nei singoli fascicoli, no, io ho iniziato la digitalizzazione dello studio a fine 2014, cosa ho fatto, man mano che mi arrivava la carta, la digitalizzavo quindi mi arrivava una lettera, ok, io la prendevo, la digitalizzavo e la salvavo nella pratica.
+
+86
+00:14:14,880 --> 00:14:50,720
+È ovvio che oggi hai metà: anzi, il grosso dell'archivio non digitalizzato e tre o quattro cose digitalizzate, ma tra 5-10 anni, io attualmente di fatto, la carta nell'ufficio, non ce l'ho, praticamente: cioè, solo quella, tengo, non so, le robe cartacee dell'ufficio, le tengo, diciamo, quelle che nascono, cartacei le scansiono, ma le metto nel fascicoletto della pratica, ma per il resto, io non stampo niente, tutto viene salvato nella pratica e tutto viene tenuto in digitale.
+
+87
+00:14:50,720 --> 00:15:04,560
+Quindi, tra l'altro, io ormai da anni, io, per esempio, quando c'è stato il Covid, non ho avuto nessun tipo di problema a lavorare da casa e tuttora lavoro alla casa per la maggior parte del tempo, perché io ho digitalizzato completamente tutto, quindi, io non ho nessun tipo di problema.
+
+88
+00:15:04,560 --> 00:15:11,280
+È ovvio che se me ne avessi, se il Covid ci fosse stato nel 2020, ma nel 2014.
+
+89
+00:15:11,520 --> 00:15:14,640
+Quando ho iniziato, non sarei stato in questa stessa situazione.
+
+90
+00:15:14,880 --> 00:15:35,760
+Ma delle pratiche vecchissime, perché ogni tanto ho delle pratiche molto lunghe che si prolungano nel tempo, per esempio, sono ancora dei fascicoloni grossi, mentre le pratiche nuove, praticamente a volte non ho niente di materialmente fisico, è l'unica cosa fisica, per sicurezza è la stampa della fattura finale, praticamente un fascicoletto con dentro la fattura, quello è quanto, hai capito?
+
+91
+00:15:35,920 --> 00:15:46,160
+E secondo me deve essere quello l'indirizzo: non devi pensare: oh, mamma mia, complicarti la vita inutilmente così via, devi proprio andare un pezzettino alla volta.
+
+92
+00:15:46,160 --> 00:15:50,480
+Poi, ovvio, che sono cose che progrediscono nel tempo.
+
+93
+00:15:50,480 --> 00:15:59,520
+Quindi, anche qui, non so, per esempio, un altro esempio che ti faccio della mia attività all'inizio, io non salvavo le email nella pratica, nella parte digitale.
+
+94
+00:15:59,520 --> 00:16:01,160
+Poi, per esempio, per lavoro.
+
+95
+00:16:01,320 --> 00:16:24,920
+Comunque è diventato chiamiamolo così abbastanza utile averci aver salvati i file e ML delle mail, a quel punto lì cosa ho fatto, prima lo facevo quasi manualmente, quindi mettevo manualmente salvavo nella pratica nella sottocartella della pratica corrispondenza file e ML.
+
+96
+00:16:24,920 --> 00:16:26,280
+Assieme per esempio, caso mai.
+
+97
+00:16:26,280 --> 00:16:41,400
+Poi ai fax una volta quando c'erano, anche lì i fax, per esempio, avevo preso un sistema per cui i fax mi arrivavano di fatto sul computer e quindi venivano automatico digitalizzati, anche stampati, diciamo, ma digitalizzati.
+
+98
+00:16:41,400 --> 00:16:46,360
+Quindi, io avevo il PDF del fax all'epoca dei fax, non so se mi spiego.
+
+99
+00:16:46,360 --> 00:17:02,360
+Poi progressivamente gli LML prima ce li mettevo manualmente poi nel tempo ho creato un'automazione per cui in parte salvo ancora manualmente, diciamo, quindi salvo il file ML, però in pratica, poi attraverso cosa fa?
+
+100
+00:17:02,360 --> 00:17:13,480
+Salvo il file ML in una cartella dei download, ho un'automazione di Hazel che me la sposta in quella che io ho chiamato email da archiviare, cioè l'inbox delle email per intenderci.
+
+101
+00:17:13,480 --> 00:17:31,400
+A quel punto lì la mail si sincronizza via sync e c'è una macchina che sta sempre accesa, che il mio Mac mini server che ha una regola invece di Hazel che estrappola sostanzialmente tutta una serie di informazioni dall'email e me l'archivia è nella pratica, giusta.
+
+102
+00:17:31,400 --> 00:18:00,240
+Quindi basta solo che ci sia il numero della pratica all'interno dell'oggetto del nome del file, e in automatico ho fatto tutta una serie di operazioni per cui data correttamente la mail in automatico estrapolandola dal file, perché il file ML è un file di testo per intenderci e così via, e me la sposto in automatico nella cartella non so, la pratica 100, io salvo l'email in da lui in automatico, facendo tutta questa serie di procedimenti.
+
+103
+00:18:00,240 --> 00:18:09,680
+Mi va a finire nella pratica 100 nella sottocartella corrispondenza già datata e già tolto via.
+
+104
+00:18:09,680 --> 00:18:16,160
+Per esempio, io solitamente faccio il numero della pratica, Pippo Contropluto e poi l'oggetto della pratica.
+
+105
+00:18:16,160 --> 00:18:21,920
+Siccome Pippo Contropluto non mi serve a niente, posto che già nella pratica, glielo faccio cancellare quel pezzo lì.
+
+106
+00:18:21,920 --> 00:18:24,800
+Così, io invece ho l'oggetto della mail.
+
+107
+00:18:24,800 --> 00:18:28,000
+Diciamo quindi contratto, revisione contratto, per esempio.
+
+108
+00:18:28,880 --> 00:18:36,800
+Quindi ho la data delle mail, ho il numero della pratica, che comunque è sempre utile perché se faccio una ricerca con Spotlight o così via.
+
+109
+00:18:36,800 --> 00:18:49,120
+Con numero della pratica, io riesco a trovare tutta quella materiale lì, anche se fosse andato fuori posto, mettiamola in questi termini, e poi ho l'oggetto della mail e quindi riesco a capire cosa è il contenuto di quella mail sostanziale.
+
+110
+00:18:49,120 --> 00:19:00,240
+Se no, è chiaro, perché poi devo dire la verità perché poi anche ci sta ascoltando, io sono un adepto di Filippo, quindi seguo da qualche tempo.
+
+111
+00:19:00,400 --> 00:19:13,440
+Infatti, credo che forse una delle poche automazioni che ancora funziona con Hazel, sia quella che legge alcune cose nei PDF che credo che avevi messo sul tuo blog.
+
+112
+00:19:13,440 --> 00:19:15,760
+Sì, sì, sì, ma funziona ancora bene.
+
+113
+00:19:16,080 --> 00:19:17,760
+Adesso il solito discorso.
+
+114
+00:19:17,760 --> 00:19:35,160
+Purtroppo, ma anche qui io lo ripeto: l'intelligenza artificiale può diventare molto utile non per fare queste lavori, cioè lo potrebbe fare, ma è utilizzare un trattore per scavare una buca con la zappa, è quello il concetto.
+
+115
+00:19:35,400 --> 00:19:42,600
+Tutto, per esempio, non so, per fare quell'automazione di cui ho parlato prima, ho creato anche un AppleScript.
+
+116
+00:19:42,600 --> 00:19:49,320
+O meglio, non l'ho creato, l'ho copiato, abbastonate, diciamo, martellate, l'ho fatto funzionare.
+
+117
+00:19:49,320 --> 00:20:14,760
+Ecco, su quel fronte lì, per esempio, l'intelligenza artificiale può venirti molto da senso che riesce poi a trovati soluzioni software che puoi agganciare a Hazel e quindi alla fine non utilizzare intelligenza artificiale per l'archiviazione, per esempio, ma puoi utilizzare Hazel e casomai l'intelligenza artificiale per aiutare a creare queste automazioni o per anche solo esplorare la possibilità.
+
+118
+00:20:14,760 --> 00:20:40,280
+C'è un'altra cosa che per esempio adesso non so se l'hai comprato o meno, ma di fatto è una versione comoda, diciamo, di creare degli script apposta, teoricamente tu puoi non comprare Hazel, far fare degli script all'intelligenza artificiale, far creare gli script di intelligenza artificiale che ti ha sostanzialmente ti va a cercare con delle rejax che non devi sapere.
+
+119
+00:20:40,280 --> 00:21:05,880
+E anche Hazel funziona con delle rejax sotto, cioè quando tu ti estrapola la data dal PDF, per esempio, tu gli dai un modello di data sostanzialmente all'interno di Hazel, o quando, non so, tu gli dici i file che hanno questo numero della pratica, diciamo, cattura e spostali dentro la pratica per fare un esempio molto semplice, che si capisce anche nel podcast, diciamo.
+
+120
+00:21:05,880 --> 00:21:17,440
+Il discorso è che la stessa cosa la puoi far fare da una espressione regolare appunto rejax, utilizzando per esempio Python, io e te non sapremo scrivere questa cosa, ma l'intelligenza artificiale si.
+
+121
+00:21:17,600 --> 00:21:37,600
+Quindi, se tu gli dici: guarda, io voglio che tu vai a aprirmi tutti i file, leggi il file ML o leggi il file PDF, cerchi questa tipologia di partner pattern, e a questo punto se trovi questo pattern, lo sposti in questa cartella e gliela racconti, proprio come te l'ho raccontata io sostanzialmente.
+
+122
+00:21:38,320 --> 00:21:55,760
+Abitualmente l'intelligenza artificiale non ha grossi problemi a fare queste cose, e a quel punto lì, dopo c'è solo da abilitare, diciamo queste funzioni, nel senso che se io appunto la famosa inbox perché è utile perché abitualmente questo l'ho imparato da David Spark.
+
+123
+00:21:55,760 --> 00:22:10,080
+Appunto, se tu hai una cartella dove va a finire tutto, diciamo in questa cartella, tu gli puoi dire ogni volta che c'è un nuovo file in questa cartella, esaminano e vedi se metcia una di queste regole.
+
+124
+00:22:10,320 --> 00:22:14,720
+A quel punto lì se metcia la regola, parte la regola e fa quelle cose.
+
+125
+00:22:14,720 --> 00:22:24,320
+Quindi, alla fine tu hai un cestino dove va a finire tutto, mettiamolo in questi termini, e da lì partono, poi tutte le eventuali automazioni, ok.
+
+126
+00:22:24,560 --> 00:22:53,280
+E anche lì progressivamente, cioè per farti la breve, è ovvio che all'inizio avrai un'automazione, due automazioni, tre automazioni che non è tanta roba se ci pensi, ma quando casomai, tra due anni hai 100 automazioni che hai avuto nel tempo modo di immaginare che ti sono utili e vedere che si sono utili, è ovvio che il lavoro è esponenziale, nel senso, ottimizzi molto di più.
+
+127
+00:22:53,280 --> 00:23:09,080
+Ed è per quello che non so, per esempio, non vuoi salvare sempre nel tirare nella cartella dell'archivio, tirare linea un documento che invece ritieni utili, se tu lo salvi nella cartella in box e casomai nel nome del file ci metti per tirare linea adesso.
+
+128
+00:23:09,080 --> 00:23:19,000
+Io ho inventato, poi puoi decidere tu sostanzialmente un pattern specifico che tu inserisci volontariamente e lui te lo sposta, ti toglie via quel partner.
+
+129
+00:23:19,000 --> 00:23:35,800
+Quindi ti toglie via quella cosa lì e te la va a serviare, per esempio, nell'archivio per il tirare e già lì non sembra, ma ti velocizza notevolmente la cosa, anche perché, per esempio, non so, all'inizio tu cosa puoi fare, non hai voglia di leggere tutto, crei questa regola.
+
+130
+00:23:35,800 --> 00:23:38,280
+Inizia a guardare 10 file.
+
+131
+00:23:38,600 --> 00:23:50,040
+Se il file è quello che dice che pensi tu che serve per il tirare linea, semplicemente modifichi il file con quel nome lì o quel tag, anche perché per esempio funziona anche con i tag.
+
+132
+00:23:50,040 --> 00:23:53,720
+Quindi, se tu gli metti il tag rosso, per esempio, va a finire nel terra linea.
+
+133
+00:23:54,280 --> 00:24:15,000
+Quindi semplicemente tu quel file lì nell'inbox gli metti il tag rosso, e in automatico e te lo sposta nella cartella, giusta, tra virgolette, hai capito, e già così, hai fatto un bel lavoro di scrematura, beh, certo, sicuramente è quello.
+
+134
+00:24:15,000 --> 00:24:17,800
+Quello che mi hai contato è quello che mi serve.
+
+135
+00:24:19,560 --> 00:24:20,840
+Devo dire la verità.
+
+136
+00:24:20,840 --> 00:24:33,400
+In parte hai anche descritto la mia paura nella mia ansia, quando ha detto che sono lì davanti, vedo un sacco di cose da mettere a posto, e poi mi faccio prendere dall'Axio.
+
+137
+00:24:33,400 --> 00:24:36,760
+Infatti, sono talmente tra virgolette, spaventato.
+
+138
+00:24:37,720 --> 00:24:41,640
+Non pensate che sia ti ferma.
+
+139
+00:24:41,640 --> 00:24:46,720
+Perché poi dici: non c'ho il tempo, non c'è la voglia, capita anche a me.
+
+140
+00:24:48,480 --> 00:25:04,000
+Perché il buon Filippo, ad esempio, nello script che stiamo seguendo, insomma, per la puntata, lo sto leggendo e dico: ragazzi, tu mi hai descritto, mi hai messo tutti gli esempi delle aree o delle risorse.
+
+141
+00:25:04,000 --> 00:25:06,640
+Io molte volte mi sono messo lì.
+
+142
+00:25:06,640 --> 00:25:23,840
+Ho detto adesso cosa scrivo come le divido, e quando poi guardo di fianco oppure vado a prendere le cartelle che ho in un hard disk o in un SSD ti giuro, vengo preso da questa da questa paura che mi blocca completamente.
+
+143
+00:25:24,000 --> 00:25:44,240
+Forse è partire come detto te da un documento vivo insomma, da qualcosa che è più diciamo più giovane come archiviazione nel proprio disco invece di partire da roba vecchia del 2000 anche perché poi il solito discorso ne possiamo accennare velocemente.
+
+144
+00:25:44,240 --> 00:25:45,680
+Ma capita anche a me.
+
+145
+00:25:45,680 --> 00:25:54,400
+Quindi lo ripeto, non è una cosa, non ho una critica a te, ma una critica in generale anche perché capita, siamo tendenzialmente accumulatori seriali, bravo.
+
+146
+00:25:54,720 --> 00:25:57,200
+Ma questa cosa potrebbe un domani servirmi mai.
+
+147
+00:25:57,440 --> 00:26:12,640
+Io ormai sono alla terzo trasloco, quindi sto diventando abbastanza telebano sulle cose materiali sto, ho buttato via un sacco di roba e sto cercando di non accumulare cose, anche se poi mi capita lo stesso di accumulare, soprattutto a livello tecnologico.
+
+148
+00:26:12,640 --> 00:26:20,560
+Tuttavia, a livello proprio di file, spesso e volentieri, tra virgolette, non occupano spazio, se non sull'hard disk, diciamo.
+
+149
+00:26:20,560 --> 00:26:39,560
+Quindi dice: Vabbè, ma dai, non so, il mio peccato che sto ragionando di risolvere è spesso e volentieri, io ricevo una dalla mia banca dati giuridica, ricevo una newsletter dove ci sono tutta una serie di casi recenti giuridici che io spulcio.
+
+150
+00:26:39,560 --> 00:26:46,520
+Alcuni mi possono interessare, cosa faccio e così intanto ragioniamo assieme su tecniche per farlo.
+
+151
+00:26:46,760 --> 00:26:52,920
+Io utilizzo il web clipper di Obsidian quindi sono pagina web quindi cosa faccio.
+
+152
+00:26:52,920 --> 00:26:57,560
+Apro la pagina web faccio il login perché ovviamente ci vuole che devi fare il login.
+
+153
+00:26:57,560 --> 00:27:00,760
+Poi se leggo un attimo velocemente l'argomento.
+
+154
+00:27:00,920 --> 00:27:07,160
+Se è una cosa che mi può interessare perché, ovviamente, io leggo solo i titoloni quindi do una spulciata veloce.
+
+155
+00:27:07,400 --> 00:27:12,200
+E poi se vedo che potenzialmente in un futuro mi potrà interessare faccio?
+
+156
+00:27:12,280 --> 00:27:15,160
+Utilizzo il web clipper di Obsidian che cosa fa?
+
+157
+00:27:15,240 --> 00:27:52,360
+Semplicemente strappola tutte le informazioni dalla pagina web, le converto in Markdown e me le salva in un clippings, una cartella Clippings di Obsidian, ovviamente qual è il problema di tutta la vicenda è che se io non aziono quella cartella e apro qui una parentesi, non l'ho mai azionata in vita mia ad oggi, diciamo che è un'attivinutile, nel senso che ho adesso va bene per fortuna sono fai in Markdown quindi occupano un poco spazio, però, effettivamente, il risultato è abbastanza inutile.
+
+158
+00:27:52,360 --> 00:27:53,640
+Mettiamola in questi termini.
+
+159
+00:27:53,640 --> 00:28:02,280
+Poi la cosa carina eventualmente è che questo sistema ti permette anche di mettere dei tag volendo quindi potrei anche tutto organizzare.
+
+160
+00:28:02,280 --> 00:28:23,440
+Tuttavia, alla fine, lo faccio in diretta solo per fare outing, diciamo, andiamo in Obsidian e se vado a vedere la cartella Clippings, vediamo che roba viene fuori, ho solo 1434, no, scusami, non è questo, aspetta, sono qua dentro.
+
+161
+00:28:23,440 --> 00:28:40,880
+Ho solo, ho solo 220 elementi, solo, l'ultimo del 10 di luglio, il primo è dell'11 novembre 2024, il discorso è quello lì.
+
+162
+00:28:41,200 --> 00:29:06,800
+L'unico modo vero che anche qui è la cosa più fastidiosa e il mio unico consiglio che è di fare quello che ti dico e non fare come faccio, è che dovresti prenderti o chiunque dovrebbe prendersi una almeno mezz'oretta, diciamo a fine settimana o a fine giornata per andare a spucciare questi inbox e decidere cosa tenere, cosa non tenere, dove mettere le cose, perché poi al solito i discorso.
+
+163
+00:29:06,800 --> 00:29:26,480
+Adesso è vero che con i sistemi digitali, spotlight e così via, è possibile fare ricerche in questo materiale, soprattutto se sono materiali testuali, diciamo, dove effettivamente il sistema, comunque se proprio avesogno, infatti, uno dei motivi per cui poi non ci ho messo particolarmente mano.
+
+164
+00:29:26,480 --> 00:29:35,760
+Mettiamola in questi termini, è perché effettivamente, se ne ho bisogno posso andare a fare delle ricerche velocemente se voglio, senza intelligenza artificiale.
+
+165
+00:29:35,760 --> 00:29:40,160
+Poi eventualmente dicendo all'intelligenza, cioè se mi trovo totalmente in difficoltà.
+
+166
+00:29:40,160 --> 00:29:44,240
+Già avere il far Markdown con l'intelligenza artificiale, un minimo mi aiuta.
+
+167
+00:29:44,240 --> 00:29:46,560
+Tuttavia, il discorso di fondo è proprio quello.
+
+168
+00:29:46,560 --> 00:29:57,960
+Cercare sempre a fine settimana, prendersi un momento dove mettere a posto le cose, a me, per esempio, capita che ho delle settimane impegnative al lavoro e non archivio l'email.
+
+169
+00:29:57,840 --> 00:30:05,400
+Quindi, quindi poi, anche qui le mie tecniche, diciamo di recupero, sono quando devo affrontare quel problema.
+
+170
+00:30:05,480 --> 00:30:15,240
+Che spesso volentieri, poi vuol dire che devo devo vedere tutta la corrispondenza email e quindi recuperare tutte le mail a rileggere da capo, perché nel mentre sono passate due settimane.
+
+171
+00:30:15,240 --> 00:30:16,840
+Ok, cosa faccio?
+
+172
+00:30:16,840 --> 00:30:38,120
+A un certo punto il primo step a prendere in mano quella posizione, andare nel programma di mail, trovare le varie mail riferite a quella posizione e salvarle di modo che almeno il primo lavoro l'ho fatto, diciamo, il lavoro sporco, non ho fatto un pezzettino alla volta, lo faccio subito.
+
+173
+00:30:38,120 --> 00:30:41,880
+Perché poi a quel punto lì mi serve per affrontare quella singola posizione.
+
+174
+00:30:42,280 --> 00:30:42,680
+Sì, sì.
+
+175
+00:30:43,160 --> 00:30:59,800
+Infatti, devo proprio prendere il coraggio a due mani, quindi poi passare a uno, un punto alla volta di questo metodo, perché poi, tra l'altro, come sapevi, detto l'altra volta.
+
+176
+00:30:59,800 --> 00:31:03,640
+Ho cercato di usare un metodo con la numerazione delle cartelle.
+
+177
+00:31:04,520 --> 00:31:27,080
+Sì, però non me ne volere, è abbastanza scomodo, mettiamola in questi termini, secondo me ti complica la vita inutilmente a meno che non ti ricordi a memoria i numeri delle cartelle, no, ecco, credo credo che allora il numero delle cartelle non lo faccio, almeno da quello che ho visto dal tizio che aveva da cui ho preso spunto per fare questa cosa.
+
+178
+00:31:27,800 --> 00:31:39,240
+Era più una questione per metterle in ordine, nel senso che te ne metti in ordine numerico, quindi ce le hai da 1 a 99 e ce l'hai lì, è detto.
+
+179
+00:31:39,240 --> 00:31:47,680
+Però, sì, infatti, nel senso, come vedi, sono alla ricerca di un nuovo metodo, perché non è che proprio mi abbia soddisfatto a pieno la cosa.
+
+180
+00:31:48,560 --> 00:31:58,800
+La cosa che mi serve, giustamente tu mi hai già mi hai dgli spunti, quindi, anche lì il fatto di doversi mettere e anche imparare un po'.
+
+181
+00:31:59,120 --> 00:32:06,560
+L'automazione già presente in macOS, quindi con gli AppleScript, con magari.
+
+182
+00:32:06,560 --> 00:32:08,240
+Tu considera per esempio, adesso.
+
+183
+00:32:08,240 --> 00:32:16,720
+Visto che siamo in ambito Apple, ci sono comunque anche senza Hazel, diciamo, c'è la possibilità di far partire.
+
+184
+00:32:17,120 --> 00:32:20,800
+Script, sostanzialmente da una specifica cartella.
+
+185
+00:32:20,800 --> 00:32:25,360
+Quindi, ovviamente diventa più semplice come interfaccia, mettiamola in questi termini.
+
+186
+00:32:25,360 --> 00:32:27,920
+Il vantaggio di Hazel, è quello lì.
+
+187
+00:32:28,480 --> 00:32:35,360
+Si possono fare comunque già partire degli script senza troppi problemi, e quindi poi alla fine diventa diventa utile.
+
+188
+00:32:35,360 --> 00:32:38,320
+Bisogna solo abituarsi a fare queste cose.
+
+189
+00:32:38,560 --> 00:32:45,280
+Ma il mio suggerimento appunto il vero vantaggio, è quello di fare un pezzettino alla volta, un passo alla volta.
+
+190
+00:32:45,280 --> 00:32:52,640
+Solitamente non è che in montagna, quando devi andare a un rifugio, non è che arrivi a rifuso in 5 minuti.
+
+191
+00:32:52,640 --> 00:32:58,960
+Abitualmente una passeggiata di 2-3 ore, e ovviamente è una curva dopo l'altra, è un passo dopo l'altro.
+
+192
+00:32:59,120 --> 00:33:03,280
+Arrivi in fondo, se tu non ti metti a iniziare, non ci arriverai mai.
+
+193
+00:33:03,280 --> 00:33:14,480
+Ed è quello il discorso: solo nel tempo ottieni dei grandi risultati e spesso volentieri sono dei risultati incrementali ed è quello che secondo me va ragionata come cosa.
+
+194
+00:33:14,960 --> 00:33:18,000
+Altro punto, perché poi ne avevamo parlato alla puntata scorsa.
+
+195
+00:33:18,000 --> 00:33:25,360
+Secondo me poi non so se ne avevamo parlato, forse anche fuori, diciamo, ma poi note, probabilmente non è il top per te.
+
+196
+00:33:25,680 --> 00:33:37,880
+Nel senso è abbastanza ingombrante a livello se ci salvi dentro il PDF e quant'altro può essere utile come sistema, diciamo, per tenere traccia delle cose.
+
+197
+00:33:37,880 --> 00:33:44,520
+Ma forse l'automazione ti aiuta di più su altri fronti, poi vedi tu.
+
+198
+00:33:44,520 --> 00:33:49,880
+Nel senso, o ti investi molto in automazioni come comandi e così via.
+
+199
+00:33:49,880 --> 00:33:53,560
+E allora per catturare velocemente in Apple note queste cose.
+
+200
+00:33:53,560 --> 00:33:59,400
+Oppure effettivamente, secondo me, il Markdown diventa più comodo, una roba che poi anche lì Obsidian.
+
+201
+00:33:59,400 --> 00:34:00,600
+Io lo dico sempre.
+
+202
+00:34:00,600 --> 00:34:05,000
+Io parlo di Obsidian perché tendenzialmente la versione che utilizzo io è gratuita.
+
+203
+00:34:05,240 --> 00:34:31,000
+Tuttavia, considerate che le cose sensate, secondo me, da utilizzare di Obsidian sono le cose minimali, i wikilink, quindi la possibilità di collegare, diciamo, file velocemente, creare questi link da un file all'altro, in pratica, per avere sostanzialmente una sorta di pagina che si collega da una pagina all'altra, quindi una nota si collega all'altra.
+
+204
+00:34:31,000 --> 00:34:33,880
+Ma questi sistemi ormai ce li hanno tantissimi programmi.
+
+205
+00:34:33,880 --> 00:34:43,240
+Io spesso volentieri, non so, uso iA Writer per fare queste cose, ma ci sono mille sistemi similari.
+
+206
+00:34:43,240 --> 00:34:47,560
+Il mio suggerimento è quello di non abbracciare invece troppo Obsidian.
+
+207
+00:34:47,800 --> 00:34:53,320
+Obsidian dopo ha tutta una storia di cose sue particolari, diciamo, quello diventa un po' più complicato.
+
+208
+00:34:53,320 --> 00:35:04,120
+Perché se tu inizi a utilizzare proprio tutto quello che ti offre Obsidian, che da una parte comodo a precisare, ma dall'altra ti vincola, poi perché funziona solo dentro Obsidian.
+
+209
+00:35:04,120 --> 00:35:20,800
+Ma ormai tantissime cose, tantissimi concetti, diciamo, scrivere in testo semplice è universale e quello è un vantaggio innegabile sia per l'intelligenza artificiale che senza intelligenza artificiale perché lo ripeto: l'intelligenza artificiale, poi tendenzialmente cosa fa?
+
+210
+00:35:20,800 --> 00:35:28,000
+Utilizza la programmazione, quindi se tu sai utilizzare due o tre script, comunque con i file di testo, riesce a gestire meglio.
+
+211
+00:35:28,000 --> 00:35:38,480
+Un PDF, per esempio, è molto più complicato, perché non è un semplice file di testo, ma un file vettoriale con all'interno tutta una serie di altre cose, quindi è più complicato da gestire.
+
+212
+00:35:38,480 --> 00:35:44,640
+Il file di testo è quello che è universale, ci si può fare qualunque cosa, occupa meno spazio possibile.
+
+213
+00:35:44,640 --> 00:36:03,520
+Adesso, giusto per fare adesso forse l'ho chiuso, aspettando, adesso giusto per fare un esempio, riapro il mio vault che andrebbe organizzato meglio: apro chiudo una parentesi, ma il mio vault attuale, adesso vediamo se ottieni informazioni.
+
+214
+00:36:03,520 --> 00:36:32,800
+Considero che ci sono anche dei PDF dentro occupa 1,4 GB, ma secondo me il grosso è dovuto prevalentemente a no, ho capito cos'è il grosso, è dovuto prevalentemente alle immagini del newsletter, nel senso che per un discorso mio, le newsletter di avvocati Mac, le faccio direttamente in Obsidian o meglio, poi lo dico tanto può essere utile come sistema.
+
+215
+00:36:32,800 --> 00:36:34,560
+Io cosa faccio abitualmente?
+
+216
+00:36:34,560 --> 00:36:50,480
+La mia newsletter è fatta da un articolo, chiamiamolo così, o comunque qualche mio pensiero mettiamola in questi termini assieme ai miei pensieri spesso e volentieri ci sono anche delle mini tutorial, mettiamola così, o cose che ho fatto e quindi faccio vedere le immagini sostanzialmente.
+
+217
+00:36:50,800 --> 00:36:55,760
+Ma diciamo, la newsletter come la creo di fatto è un insieme.
+
+218
+00:36:55,760 --> 00:37:13,480
+La parte finale della newsletter invece è tutta una serie di link che io di risorse che ho trovato interessanti nel corso del mese e io catturo pian piano, diventa una sorta di appunto conoscenza o comunque informazioni utili che ho letto e così via.
+
+219
+00:37:13,480 --> 00:37:15,000
+Io cosa faccio sostanzialmente?
+
+220
+00:37:15,000 --> 00:37:34,200
+Ho creato da una parte un'automazione in comandi rapidi che cosa fa quando newswire non mi ricordo mai come si chiama, comunque il mio lettore di RSS, vedo un articolo interessante, io ho un comando rapido che prende il link e strappa il titolo dell'articolo.
+
+221
+00:37:34,200 --> 00:37:41,960
+Se è un articolo in inglese abitualmente leggo in inglese me lo traduce già in italiano e mi crea il link in Markdown.
+
+222
+00:37:41,960 --> 00:38:09,720
+Quindi mi fa parentesi quadre il titolo dell'articolo e tra parentesi invece il link, me lo salvo negli appunti, a questo punto, io apro abitualmente iA Writer perché è quello che uso su iPad, e appunto apro il file di quella newsletter, diciamo adesso sto scrivendo, cioè sto catturando link per la newsletter di luglio siamo a inizio luglio, stiamo registrando a metà luglio.
+
+223
+00:38:09,960 --> 00:38:25,560
+A questo punto aggiungo in fondo ai link questo link sostanzialmente quindi copio incollo, anzi il link, e poi eventualmente, siccome ho appena letto l'articolo, scrivo due cose di commento, se ritengo di dover commentare la cosa, ok.
+
+224
+00:38:25,800 --> 00:38:36,920
+È ovvio che nel corso del mese, io di fatto costruisco costruisco questa parte della newsletter in questa maniera quindi un pezzettino alla volta, che è proprio l'esempio che è tipico.
+
+225
+00:38:37,320 --> 00:38:43,360
+Soni, ok, perché alla fine, dopo questo file viene sincronizzato.
+
+226
+00:38:43,240 --> 00:39:03,600
+Quindi, quindi io quando inizia ad essere l'ora di pubblicare la newsletter, a volte mi segno addirittura quale sarà l'articolo o comunque la cosa che voglio raccontare nella newsletter, e poi sviluppo la newsletter e ho già rivedo velocemente gli articoli che ho segnalato, capito, chiaro, chiaro, ma è progressivo.
+
+227
+00:39:03,840 --> 00:39:11,440
+Faccio molta meno fatica in questa maniera, ovviamente, sto ascoltandoti, poi dopo, perché devo dirti la verità.
+
+228
+00:39:11,440 --> 00:39:26,560
+Io Obsidian l'avevo già usato, solo che poi, come tu hai ben specificato, entri dentro in una specie di transa agonistica con tutti i plugin, con tutte le cose.
+
+229
+00:39:26,560 --> 00:39:35,360
+Infatti, poi mi ero reso conto anche di aver installato qualsiasi come plugin, Obsidia è stato pesante.
+
+230
+00:39:35,360 --> 00:39:40,720
+Poi ho avuto problemi di sync con la cartella.
+
+231
+00:39:40,720 --> 00:40:02,320
+Tu, l'altra volta mi ha giustamente suggerito Think Thinkronizzare una cartella su una cosa fissa, potrei farlo su un Nasra o qualcosa del genere, non lo so, perché poi avevo utilizzato Apple Note per giustamente una semplificazione di archiviazione.
+
+232
+00:40:02,320 --> 00:40:12,080
+Quindi, avevo tutto lì potevo editare in modo semplice tra iPad e Mac, oppure aggiungere una cosa al volo.
+
+233
+00:40:12,320 --> 00:40:17,200
+Anche una nota vocale dall'iPhone se mi viene in mente qualcosa.
+
+234
+00:40:17,680 --> 00:40:20,400
+Questa cosa qui era appunto.
+
+235
+00:40:20,400 --> 00:40:27,040
+Tuttavia, quanto pare, mi stai cassando l'idea di utilizzarlo come second brain il discorso.
+
+236
+00:40:27,280 --> 00:40:30,520
+No, no, il mio discorso è se lo vuoi fare il mio suggerimento.
+
+237
+00:40:30,600 --> 00:40:57,000
+Poi valuta tu, è però di investire casomai, allora appunto con automazioni per Apple Note, e in questa maniera anche lì, per esempio, non so, hai vuoi avere una serie di articoli di riferimento per la successiva puntata del tuo podcast, quindi hai comunque una nota per riferimenti ad articoli di interesse o che vuoi approfondire in un futuro e così via.
+
+238
+00:40:57,000 --> 00:40:58,440
+Deve essere a frazione zero.
+
+239
+00:40:58,440 --> 00:41:05,640
+Cioè, tu schiacci un pulsante, lui ti salva in quella nota quell'articolo lì, in modo che domani tu lo trovi.
+
+240
+00:41:05,640 --> 00:41:09,560
+Cioè, il concetto, poi io ti dico Obsidian alla fine perché è un file di testo.
+
+241
+00:41:09,720 --> 00:41:14,280
+Quindi, alla fine, poi dopo farci un po' quello che vuoi.
+
+242
+00:41:14,600 --> 00:41:22,280
+Per esempio e lì forse può essere utile l'intelligenza artificiale, non so, non hai voglia tempo di leggere articoli.
+
+243
+00:41:22,280 --> 00:41:26,120
+Tuttavia, alcuni articoli ti possono ti sembran interessanti.
+
+244
+00:41:26,120 --> 00:41:35,240
+Tu li salvi in un qualunque tipo di file con il link e poi puoi creare una skill o un'automazione con l'intelligenza artificiale.
+
+245
+00:41:35,320 --> 00:41:36,200
+Che cosa fa?
+
+246
+00:41:36,200 --> 00:41:45,160
+Semplicemente prende, estrappola il link, estrappola il testo dell'articolo, te lo riassume, ti fa una, gli dai dei parametri.
+
+247
+00:41:45,160 --> 00:41:56,200
+Diciamo per esempio, di cosa ti può interessare, cosa no, e poi ti fa un riassunto veloce di tutta quella roba lì, adesso giusto, inventata sul momento.
+
+248
+00:41:56,200 --> 00:42:05,720
+Ma io ci ho ragionato per esempio, di aggiungere alla mia newslettera anche qualcosa dove c'è una breve sintesi dell'articolo.
+
+249
+00:42:05,680 --> 00:42:07,720
+Tuttavia, però non volevo complicarmi troppo la vita.
+
+250
+00:42:07,760 --> 00:42:10,040
+E ho deciso che alla fine spesso e volentieri.
+
+251
+00:42:10,040 --> 00:42:13,080
+Se ti interessa, la vai a leggere, se non ti interessa, non lo leggi.
+
+252
+00:42:13,160 --> 00:42:16,560
+Tanto anche lì, poi bisogna essere pratici, secondo me.
+
+253
+00:42:14,920 --> 00:42:19,760
+Roberto, sei stato silenzioso, di qualcosa anche tu.
+
+254
+00:42:20,400 --> 00:42:30,320
+Sentivo che avevi da dire, ti ho lasciato andare, tanto comunque siamo verso la conclusione della puntata, aggiungo solo un paio di cose, giusto per dare un'inquadratura un po' più semplice, un po' più facile alla mano.
+
+255
+00:42:30,320 --> 00:42:42,480
+Essenzialmente le aree, se penso al mio lavoro, sono ad esempio quello che mi occupo di architettura energetica urbanistica, e all'interno di queste aree inserisco i progetti, che sono in effetti dei progetti che riguardano quelle cose lì.
+
+256
+00:42:42,480 --> 00:42:46,000
+E poi ovviamente archivio tutto quanto giusto per dare un'idea.
+
+257
+00:42:46,000 --> 00:42:55,840
+Confermo e sottoscrivo il fatto che comunque non bisogna prendere archiviare, a un meglio, mettere ordine nell'archivio una volta che i buoi sono scappati perché è inutile, tempo perso.
+
+258
+00:42:56,080 --> 00:43:01,840
+Come dicevi giustamente Filippo, bisogna prendere e mettere mano all'archivio quando ce n'è bisogno.
+
+259
+00:43:01,840 --> 00:43:08,080
+Cioè, una volta che hai chiviato tutto quanto, perché comunque ti occupa spazio, comunque non c'è tempo e comunque non c'è voglia.
+
+260
+00:43:08,080 --> 00:43:14,160
+Quando ci devi ritornare, ci ritorni e metti un pelino di ore rispetto a quel caos che c'è prima, sicuramente.
+
+261
+00:43:14,160 --> 00:43:18,320
+Invece, per quanto riguarda noti, in effetti, confermo e sottoscrivo.
+
+262
+00:43:18,320 --> 00:43:25,120
+Purtroppo non è il metodo giusto per, cioè, non è lo strumento giusto per archiviare cose in generale.
+
+263
+00:43:25,120 --> 00:43:40,720
+Va benissimo ad esempio per utilizzare un sistema simile a quello che si utilizza, diciamo, delle cartelle archivate con il sistema che noi chiamiamo PARA, ma in realtà ce l'abbiamo tutti un sistema simile, solo che è il sistema del proprietario per intenderci.
+
+264
+00:43:40,720 --> 00:43:54,400
+Secondo me è interessante utilizzarlo in parallelo, nel senso che puoi avere una struttura molto simile a quello che si utilizza per il sistema PARA anche per le note, e quindi lì riesci a mettere non le cose da archiviare, ma magari le cose veloci che ti servono, gli appunti.
+
+265
+00:43:54,480 --> 00:43:59,520
+Via discorrente sono in fine conti note e di conseguenza, lì ci dovrebbe andare a finire le cose.
+
+266
+00:43:59,520 --> 00:44:07,560
+Invece, come ultima nota finale, qua vado a chiudere perché stiamo andando allegamente verso l'ora della puntata e poi mi taccio.
+
+267
+00:44:08,200 --> 00:44:19,320
+La questione che è interessante, secondo me, dal punto di vista dell'intelligenza artificiale, è riuscire a fare un attimo di momento di pulizia mentale.
+
+268
+00:44:19,320 --> 00:44:21,080
+Essenzialmente cosa intendo questo?
+
+269
+00:44:21,080 --> 00:44:37,080
+Intendo questo che una volta che avete il vostro simpatico sistema PARA che sarà il vostro sistema Roberto, Filippo, Daniele, quello che volete, ognuno ha il suo collaudato e che funzioni, sicuramente il passo successivo è avere delle procedure.
+
+270
+00:44:37,080 --> 00:44:43,400
+Le famose SOP, questo ne abbiamo parlato più di una volta in A2 Podcast, sono utilissime.
+
+271
+00:44:43,400 --> 00:44:50,120
+Queste SOP sono praticamente una procedura standard che fate per la cosa più semplice nei lavori.
+
+272
+00:44:50,120 --> 00:44:58,280
+Nei lavori capita spesso di avere dei lavori, cioè delle cose che fate tutte le volte che iniziate un progetto.
+
+273
+00:44:58,280 --> 00:45:05,640
+In questo caso, che nel mio caso aderisce sia dal punto di vista lavorativo che dal punto di vista di questa famosa schema PARA.
+
+274
+00:45:05,640 --> 00:45:24,280
+Quindi il progetto, alla fine, poi all'interno, magari può già avere delle cartelle già predefinite, che magari non ci avete voglia di automatizzare e fate bene, aggiungo io, perché a volte sono delle perdite di tempo, basta semplicemente farsi una cartella da parte con tutte le cartelle che vi servono, la copiate, la incollate e il problema risolto.
+
+275
+00:45:24,280 --> 00:45:27,960
+Tempo speso due secondi, tempo di automatizzare non ho idea.
+
+276
+00:45:27,960 --> 00:45:32,440
+Tempo di ricordarsi dell'automatizzazione, probabilmente lì perdete un po' anche la voglia.
+
+277
+00:45:32,440 --> 00:45:46,720
+In ogni caso, le SOP sono fondamentali non solo per riuscire a portare avanti i lavori in modo veloce e concreto, nel senso che una volta che le iniziate a mettere giù, iniziate a seguirle, intanto non vi dimenticate più le cose.
+
+278
+00:45:44,520 --> 00:45:54,960
+Come ad esempio, può capitare spesso a me che quando inizio a fare la registrazione del video podcast, magari mi dimentico di mettere il cellulare in modalità aereo.
+
+279
+00:45:54,960 --> 00:46:02,080
+Questa è una stupidaggine, ma nel momento in cui avete uno schema davanti e la seguite, siete anche più veloci e soprattutto anche più tranquilli.
+
+280
+00:46:02,080 --> 00:46:12,960
+Ma la cosa interessante è che uno standard operation protocol che può diventare utile per tutti quanti, le famose SOP che queste si adattano benissimo alle skill.
+
+281
+00:46:12,960 --> 00:46:33,600
+Le skill che io continuo a dire: ne ho provata a farne qualcuna, sono di una semplicità imbarazzante, nel mio senso della parola, perché basta parlare con Claude e Claude viciamo vi accompagna nella formazione di questa skill, e potete utilizzare tutte le volte che avete una ovviamente una procedura, ad esempio.
+
+282
+00:46:33,600 --> 00:46:41,360
+Quindi, ad esempio, potrebbe anche essere semplice, fargli creare un'email standard che vi serve per mandare un preventivo.
+
+283
+00:46:41,360 --> 00:46:53,040
+La faccio banale così e voi la potete personalizzare semplicemente parlando, perché comunque di questo si tratta, di parlare con Claude, personalizzarla e fare in modo che lavori nel modo che vogliate voi.
+
+284
+00:46:53,040 --> 00:47:23,520
+Perché magari nella prima release, chiamiamolo così della skill funziona, ma non funziona esattamente con il vostro carattere, la vostra capacità, le vostre idee che volete metterci dentro, la vostra impronta digitale, voi potete intervenire sempre parlando con Claude e automaticamente, nel senso che lui direttamente mette mano alla skill e vi permette di creare questa non so chiamarla, una microautomazione, un aiuto, forse più un aiuto che un'attuazione.
+
+285
+00:47:23,520 --> 00:47:24,880
+Di fatto sono.
+
+286
+00:47:24,880 --> 00:47:35,320
+Io le skill le vedo come delle ricette: cioè nel senso, ingredienti e spiegazione di come mettere assieme questi ingredienti per fare una torta.
+
+287
+00:47:35,560 --> 00:47:39,240
+È proprio è l'esempio più semplice da comprendere.
+
+288
+00:47:39,240 --> 00:47:45,160
+Perché alla fine è questo: abitualmente la skill, appunto è utilissima per due motivi.
+
+289
+00:47:45,160 --> 00:47:56,200
+Uno, perché ovviamente formalizza il flusso di lavoro e rende l'intelligenza artificiale quando la usi un'ottima assistente, perché di fatto fa quello che tu gli ho insegnato in estrema sintesi.
+
+290
+00:47:56,200 --> 00:48:00,680
+Cioè parlando con l'intelligenza artificiale, tu gli spieghi quel flusso di lavoro.
+
+291
+00:48:00,680 --> 00:48:19,640
+L'altra cosa comodissima è che ti permette anche di chiarirti anche mentalmente il flusso di lavoro che hai anche qui non so se ne abbiamo parlato nelle puntate scorse, ma tutto quello, tutte le note dell'episodio, mentre stiamo registrando, diciamo, le puntate non sono ancora live le nuove.
+
+292
+00:48:19,640 --> 00:48:44,040
+Ma tutte le puntate precedenti, io ho utilizzato una skill per generare dalla trascrizione, tutte tutte le sinossi di tutti gli episodi, e questo ovviamente vuol dire che io una volta che ho trovato la formulazione che mi piaceva, mettiamola in questi termini, l'intelligenza artificiale, in questo caso, mi ha fatto i riassunti come volevo io secondo i parametri che gli avevo dato io dialogando con questo sistema.
+
+293
+00:48:44,120 --> 00:48:59,640
+L'altra cosa che segnalo velocemente è che Roberto parlava di Claude, ma tendenzialmente le skill ormai sono qualcosa di generale, mettiamone in questi termini, quindi a Claude, sostituite intelligenza artificiale agentica sostanzialmente.
+
+294
+00:48:59,800 --> 00:49:17,920
+Quindi ChatGPT piuttosto che altri strumenti, hanno di fatto, appunto, le skill, non sono altro che fare il Markdown, perché di questo stiamo parlando, con all'interno specificate attività da svolgere in un certo ordine, in una certa modalità e così via.
+
+295
+00:49:18,080 --> 00:49:23,120
+Perfetto, direi che la chiusura ci sta, utilizzate intelligenza artificiale.
+
+296
+00:49:23,120 --> 00:49:33,280
+Ultime cose, chiedo al nostro Daniele se questa puntata ti è servito, oppure pensi di avi complicato ancora di più le cose.
+
+297
+00:49:33,280 --> 00:49:44,800
+No, sicuramente mi è servita anche per calmarmi quello, sì, tutta la spiegazione, poi, soprattutto, anche una spiegazione pratiche.
+
+298
+00:49:44,800 --> 00:49:47,680
+Quindi, anche con esempi.
+
+299
+00:49:48,240 --> 00:49:51,280
+A me, familiari, mi hanno dato lo spunto.
+
+300
+00:49:51,280 --> 00:49:58,240
+Già, mentre parlava a Filippo, mi spiegava le varie aree, quindi i progetti, l'area, l'archivio, le risorse.
+
+301
+00:49:58,240 --> 00:50:07,840
+Quindi, piano piano, in parte perché, grazie a lui le messe anche in scrittura, quindi in un file Markdown, mi sono venuto in mente.
+
+302
+00:50:07,840 --> 00:50:10,080
+Quindi mi è stato anche utile.
+
+303
+00:50:10,080 --> 00:50:25,040
+Uno, per capire dove vanno le cose, e seconda cosa, anche per avere una certa rilassatezza nel riordinare i pensieri e soprattutto le aree.
+
+304
+00:50:25,040 --> 00:50:57,040
+Quindi, mi è utile anche, soprattutto per capire che il lavoro che volevo fare io con l'intelligenza artificiale, non è sicuramente il lavoro, forse il lavoro più pratico e veloce, ma la via veloce, come si sente, come dicono gli anziani, non è mai quella giusta, e invece, magari devo spendere un po' di più di tempo nelle automazioni, nella creazione di script locali, che mi danno una mano.
+
+305
+00:50:57,840 --> 00:51:11,000
+Sì, più che un altro, secondo me, proprio ragionare sul tuo flusso di lavoro, perché una volta che poi hai il tuo flusso di lavoro a prescindere che sia agenti che ha script o anche solo manuale.
+
+306
+00:51:11,000 --> 00:51:23,560
+Una che poi non dico che vai sui binari, ma comunque sei abituato, hai ragionato quali sono i pro e i contro di una vicenda e hai trovato il tuo approccio, che può essere appunto dal super manuale al super tecnologico.
+
+307
+00:51:23,560 --> 00:51:29,240
+Mettiamoli in questi termini, è quello l'importante, secondo me, in tutta la vicenda, avere le idee chiare.
+
+308
+00:51:29,240 --> 00:51:41,400
+Una volta che le idee chiare, sai che in quella maniera per come sei fatto tu, per come ragioni tu, per come hai i tuoi dati, mettiamola in questi termini, è il modo giusto per te.
+
+309
+00:51:41,400 --> 00:51:46,440
+Alla fine che si appara, che sia qualcos'altro, poco ti interessa.
+
+310
+00:51:46,440 --> 00:52:16,040
+No, no, in effetti, sì, poi devo dire la verità, sto cercando con un po' più di forza in questo periodo, un po' perché in parte sono un po' spaventato, perché il mio figlio l'anno prossimo inizierà le scuole e io ho sempre sofferto da quando ho iniziato le scuole, l'organizzazione mentale di tutti i progetti, i lavori e i compiti, via dicendo.
+
+311
+00:52:16,200 --> 00:52:35,200
+Sono sempre stato abbastanza distratto su questa cosa, non ho mai avuto nessuno che me lo insegnasse, ma soprattutto non mi sono mai buttato, non mi sono mai reso conto che questa cosa qua soprattutto poi oggi con la quantità in mano di informazioni.
+
+312
+00:52:35,200 --> 00:52:54,000
+Magari quando ero piccolo, io nel 76, non erano così tante le informazioni e adesso, magari è anche una semplice input anche per crearsi lui poi un suo modo di organizzarsi.
+
+313
+00:52:54,000 --> 00:53:00,880
+Tuttavia, devo partire, io già organizzato: giustamente devi dare: non è mai semplice.
+
+314
+00:53:00,880 --> 00:53:03,040
+No, no, molto utilissima, ragazzi.
+
+315
+00:53:03,040 --> 00:53:07,840
+Questa veramente mi avete veramente calmato l'ansia da prestazione.
+
+316
+00:53:07,840 --> 00:53:11,280
+Ottimo, ne sono molto contento, ma anche Filippo, sicuramente.
+
+317
+00:53:11,440 --> 00:53:33,840
+Spero che anche tutti gli ascoltatori e chi ci ha seguito in diretta abbia trovato qualcosa per i propri denti che riesca ad applicare nella propria vita professionale, nella vita lavorativa nella vita anche semplice, come può anche essere quella ovviamente organizzare il lavoro dei figli che non è mai semplice, anche perché qua poi ti dovrai scontrare con il metodo che poi insegneranno a scuola.
+
+318
+00:53:33,840 --> 00:53:39,680
+Quindi te la dovrai prendere con le maestre e tutti i gradi superiori, perché qua ce n'è da vendere e da ridere.
+
+319
+00:53:39,680 --> 00:53:53,680
+Quindi ne parleremo poi, magari di un'altra puntata di questa questione di come hanno trovato un equilibrio tra l'organizzazione delle informazioni e l'insegnamento, che anche questo non è mai semplice, dovremmo anche forse prenderlo anche noi in mano, giusto per parlarne.
+
+320
+00:53:53,680 --> 00:53:55,280
+Ma direi che per questa puntata è tutta.
+
+321
+00:53:55,280 --> 00:53:59,920
+Come sempre trovate nelle note dell'episodio che trovate all'indirizzo A2 Podcast.
+
+322
+00:54:00,800 --> 00:54:03,680
+Numero la puntata, in questo caso, se non ricordo male, è l'82.
+
+323
+00:54:04,000 --> 00:54:07,760
+Quindi troverete tutti quanti le note che vi servono.
+
+324
+00:54:08,560 --> 00:54:10,800
+Come sempre, potete trovarci dove volete.
+
+325
+00:54:10,800 --> 00:54:16,640
+Insomma, siamo tutti e tre ricercabili in qualche modo, magari su A2 Podcast, sapete dove trovarci.
+
+326
+00:54:16,640 --> 00:54:18,800
+Invece, il nostro Daniele, dove lo troviamo?
+
+327
+00:54:18,800 --> 00:54:24,240
+Sicuramente mi trovate su qualsiasi lettore di podcast cercando il Tiraline.
+
+328
+00:54:24,240 --> 00:54:36,280
+Oppure su Substack trovate Pillole di CAD e anche un abbozzo di newsletter personale che si chiama Parole in linee.
+
+329
+00:54:36,440 --> 00:54:41,640
+Quindi cercate queste cose qui su Substack direttamente.
+
+330
+00:54:41,640 --> 00:54:50,760
+E vabbè, foch.it è il mio blog ormai che l'angu da parecchio tempo in ascoltato.
+
+331
+00:54:50,760 --> 00:54:58,600
+E da mettere a posto appunto, è tra le cose da mettere a posto a tutti i vari file che c'è: un pezzo alla volta.
+
+332
+00:54:58,600 --> 00:55:00,360
+Un pezzo alla volta, un pezzo alla volta.
+
+333
+00:55:00,360 --> 00:55:01,960
+Ricordati, un pezzo alla volta.
+
+334
+00:55:02,360 --> 00:55:07,160
+Sì, una pezzo alla volta ci ne sono di cose da mettere a posto, ma soprattutto cose da seguire.
+
+335
+00:55:07,160 --> 00:55:17,640
+Quindi sapete dove trovarci, quindi sapete anche come contattarci nel caso in cui vogliate affrontare un problema simile a quello di Daniele, o magari anche qualche altra cosa.
+
+336
+00:55:17,640 --> 00:55:22,680
+In ogni caso, vi esortiamo a fare qualche recensione su Apple Podcast e Spotify e compagnia cantante.
+
+337
+00:55:22,680 --> 00:55:26,360
+Basta che ci mettete tante belle stelline che ci fanno sempre un sacco bene.
+
+338
+00:55:26,360 --> 00:55:32,680
+C'è il canale YouTube dove potete ovviamente registrarvi senza spendere una lira, ma soprattutto seguirci.
+
+339
+00:55:32,680 --> 00:55:35,480
+E anche in questo caso potete scrivere qualcosa sotto le puntate.
+
+340
+00:55:35,480 --> 00:55:39,400
+Noi leggiamo e rispondiamo senza grossi problemi.
+
+341
+00:55:39,400 --> 00:55:53,240
+E poi, per il resto, se invece voi scrivere in modo diciamo tradizionale, ormai diventato tradizionale perché tutti i vari sistemi di messaggisti messaggistica avanzati ci sono parlati, ci sono passati sopra.
+
+342
+00:55:53,240 --> 00:55:56,200
+Parliamo di mandare una semplice mail.
+
+343
+00:55:56,200 --> 00:56:00,280
+L'indirizzo è scrivichola a due podcast.it.
+
+344
+00:56:00,280 --> 00:56:02,200
+Direi che per questa puntata è tutto.
+
+345
+00:56:02,200 --> 00:56:05,480
+Io vi saluto, ci sentiamo nella prossima puntata di A2 Podcast.
+
+346
+00:56:05,480 --> 00:56:07,320
+Alla prossima, alla prossima!

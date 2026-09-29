@@ -1,0 +1,1159 @@
+1
+00:00:01,840 --> 00:00:07,040
+A2 Podcast, scopri come ottenere il massimo della tua tecnologia Apple.
+
+2
+00:00:07,040 --> 00:00:29,040
+Due professionisti, Filippo e Roberto te lo spiegano con argomenti monotematici ed ospiti che raccontano il loro flusso di lavoro, benvenuti all'episodio 81 di A2 il podcast in cui scopriamo come ottenere il massimo dalla nostra tecnologia Apple.
+
+3
+00:00:29,040 --> 00:00:34,080
+Io sono Roberto Marin e sono il vostro ospite assieme all'amico Filippo Strozzi.
+
+4
+00:00:34,080 --> 00:00:35,200
+Oggi parliamo.
+
+5
+00:00:35,200 --> 00:00:47,040
+Anzi, partiamo da una richiesta molto concreta, arrivata da qualcuno di mia conoscenza, ma anche di conoscenza di Filippo, ma soprattutto la conoscenza di tutti quanti quelli che seguono il circolo ristretto di Snap.
+
+6
+00:00:47,040 --> 00:00:54,400
+Parliamo ovviamente di Daniele Borghi, che è un host di snap architettura imperfetta, e ha posto qualche domanda.
+
+7
+00:00:54,400 --> 00:01:01,360
+Ad esempio, come si mette ore nei documenti del Mac negli SSD esterni nel cloud, e dove capita, ad esempio, note.
+
+8
+00:01:01,520 --> 00:01:07,360
+Quindi, la sua idea è come usare l'intelligenza artificiale senza farsi travolgere il sistema.
+
+9
+00:01:07,600 --> 00:01:11,040
+Lo scopriremo in questa meravigliosa puntata.
+
+10
+00:01:11,360 --> 00:01:14,720
+Intanto, diamo il benvenuto al nostro amico Daniele Borghi.
+
+11
+00:01:14,720 --> 00:01:17,200
+Benvenuto su A2 Podcast.
+
+12
+00:01:17,440 --> 00:01:19,680
+Buongiorno a tutti, anzi, buonasera.
+
+13
+00:01:19,680 --> 00:01:28,720
+Insomma, quando ascolterete questo episodio, naturalmente, io sono sempre felicissimo di partecipare a A2 Podcast.
+
+14
+00:01:28,720 --> 00:01:46,800
+Perché è tra i podcast che ho ascoltato sin dall'inizio, sin dalla sua creazione, e quindi, a volte mi sento un po' una specie di stalker, quindi detto, non pensiate che sia così molto morboso, ma è, se come detto, è i due ragazzi.
+
+15
+00:01:47,280 --> 00:02:06,120
+Che di A2 Podcast, parlano molto spesso di tecnologia che serve, soprattutto per poter districarsi da questo mondo digitale dove in praticamente siamo sommersi da informazioni, file e quant'altro.
+
+16
+00:02:06,680 --> 00:02:20,040
+Sicuramente so che benissimo che Filippo è molto bravo in questo, lui è un PARA evangelist, poi diremo cos'è il famoso PARA.
+
+17
+00:02:20,040 --> 00:02:31,000
+An Roberto usano tutti questi sistemi, soprattutto Apple, quasi al meglio che io conosca, insomma, grazie ancora per avermi ospito.
+
+18
+00:02:31,240 --> 00:02:32,200
+Figurati, ma figurati!
+
+19
+00:02:32,200 --> 00:02:33,480
+È un piacere averti qui.
+
+20
+00:02:33,480 --> 00:02:38,840
+E poi effettivamente, tutto è nato per chi diciamo sta ascoltando solo questa puntata.
+
+21
+00:02:38,840 --> 00:02:50,200
+Dalla precedente puntata, appunto, Daniele era tra le persone in diretta, ci ascoltava in diretta su YouTube e in particolare in chat, quindi ci ha fatto tutta una serie di domande.
+
+22
+00:02:50,200 --> 00:03:06,840
+La puntata scorsa aveva dei temi collegati a questa, ma diciamo era necessario almeno fare una breve introduzione, oggi invece, l'idea è quella di vedere quali sono i problemi di Daniele e cercare di affrontarli assieme di ragionarli assieme.
+
+23
+00:03:06,840 --> 00:03:25,080
+Sperando ovviamente di risolvere una parte i problemi di Daniele e contemporaneamente anche risolvere eventualmente i problemi di chi ci ascolta, o comunque di dare degli spunti utili per poi risolvere meglio la gestione documentale, la gestione delle note così via.
+
+24
+00:03:25,080 --> 00:03:38,120
+Ma a questo punto, visto che dobbiamo stare, perché la nostra regola è di fare una puntata di circa un'ora, direi di partire subito, Daniele, e quindi scusami, ma sono abitato con Roberto, come si suol dire.
+
+25
+00:03:38,120 --> 00:03:45,360
+Daniele, raccontaci, innanzitutto, quali sono i tuoi problemi, quali sono i punti chiave che vorresti affrontare in questa puntata oggi?
+
+26
+00:03:45,360 --> 00:04:18,000
+Allora, credo che sia un problema distribuito a molte persone, soprattutto per chi anche utilizza i device digitali anche per informarsi per creare il famoso secondo brain, il secondo cervello, quindi tutta una serie di informazioni che si raccolgono durante tutti i giorni, insomma, a partire dalle informazioni personali, dalle informazioni per lavoro per i propri hobby.
+
+27
+00:04:18,560 --> 00:05:05,200
+Io in questo momento sono, tra l'altro, pieno di informazioni, perché, oltre ad avere un sacco di informazioni odierne, ho un sacco di informazioni datate, nel senso che ho accumulato negli anni che comunque ho utilizzato i miei computer, quindi ho un sacco di informazioni, informazioni video, informazioni testuali, immagini, soprattutto adesso, poi, con il fatto che faccio il podcast anche audio, quello che ho sempre fatto, che ho sempre utilizzato, credo che al momento non funzioni più perché c'è troppa roba, o troppo, non so più come distribuirla.
+
+28
+00:05:05,200 --> 00:05:50,360
+Vorrei ottenere in pratica qualcosa di più semplice, ma allo stesso tempo organizzato perché, naturalmente, in modo tale da poter distinguere subito i documenti, le note, soprattutto, anche io ho praticamente un DAS, che è che al contrario del NAS, è un è un disco un disco storage locale diretto collegato direttamente al Mac Mini, ma praticamente circa un centinaio di terabyte lì dentro perché ci sono dentro 800 terabyte e tanta roba posso arrivare fino a 128, con questo, a dire la verità.
+
+29
+00:05:50,360 --> 00:06:08,840
+Perché sono quattro dischi SSD e quattro dischi che possono essere sia SSD da due e mezzo, oppure i dischi da tre e mezzo, quelli, quelli analogici, quelli che girano, come si dicono come diceva una volta.
+
+30
+00:06:10,600 --> 00:06:14,440
+Ti faccio un'ulteriore domanda, perché a questo punto mi hai stimolato.
+
+31
+00:06:14,440 --> 00:06:24,440
+Ma i dischi ce li hai già sono in parte perché adesso sono cresciuti a manetta, stiamo registrando i primi di lui.
+
+32
+00:06:24,440 --> 00:06:25,720
+No, no, i dischi ce li ho già.
+
+33
+00:06:25,720 --> 00:06:27,720
+I dischi ce li ho già.
+
+34
+00:06:27,720 --> 00:06:52,200
+Solo che sto cercando di concentrare tutto ciò che ho in giro dai vecchi hard disk e poi anche per evitare di perdere dati, sto buttando tutto lì e poi faccio un backup sui NAS, che ho i due NAS che ho a casa, più un terzo terzo che ho super strutturato, ottimo ottimo adesso.
+
+35
+00:06:52,200 --> 00:06:56,840
+Poi parlavo con Roberto, ma prima o poi faremo almeno.
+
+36
+00:06:56,840 --> 00:07:02,120
+Io ho un programma di ragionare le strategie di backup, ma oggi non ne parleremo.
+
+37
+00:07:02,120 --> 00:07:09,240
+Quindi, Daniele, domanda nella sostanza, quindi, tu hai sia comunque da quello che ho capito io.
+
+38
+00:07:09,240 --> 00:07:18,640
+Matale personale, materiale lavorativo, e quindi vorresti cercare di organizzare tutto nel modo migliore o meglio per trovare più rapidamente la roba che hai.
+
+39
+00:07:19,040 --> 00:07:28,240
+Allora, diciamo che di materiale lavorativo ormai ho progetti obsoleti, nel senso che sono i progetti quando ero freelancer.
+
+40
+00:07:28,400 --> 00:07:38,880
+Quando lavoravo da libero professionista quindi è tutta roba terminata, ma comunque voglio tenerla lì, anche per esatto.
+
+41
+00:07:38,880 --> 00:07:45,840
+Tuttavia, la maggior parte al momento perché volevo organizzare proprio localmente sul mio Mac mini.
+
+42
+00:07:45,840 --> 00:07:50,320
+Quindi, la maggior parte, diciamo che sono materiale personale.
+
+43
+00:07:50,320 --> 00:08:05,760
+Sì, rispondo già a una tua domanda che mi farai: è anche del materiale diciamo sensibile, ma si tratta quindi so di l'assicurazione della moto, la sicurazione dell'auto, le finanze, un po' insomma, gli estratti conto della banca e tutto il resto.
+
+44
+00:08:06,080 --> 00:08:09,120
+Quello ci sono anche questi documenti.
+
+45
+00:08:09,120 --> 00:08:22,080
+Che bene o male, comunque riesco a mettere a posto, però, c'è un po' sparsi dappertutto, ok, altri discorso che forse non abbiamo fatto, ma che opportuno fare.
+
+46
+00:08:22,320 --> 00:08:51,120
+La tua idea originale, tra virgolette, era quella comunque di automat per automatizzare, appunto, perché la puntata scorsa si parlava di automatizzazioni e di utilizzare l'intelligenza artificiale, in particolare, diciamo, Claude o similari, nella versione diciamo cosiddetta desktop, cioè quelli che sostanzialmente hanno accesso al tuo computer e ai tuoi dati, ovviamente, per movimentare, rinominare, archiviare sostanzialmente tutti questi documenti.
+
+47
+00:08:51,120 --> 00:09:12,120
+Era questa l'idea che avevi in testa originariamente: sì, esatto, esatto, perché la mole di documenti è tanta, nel senso che praticamente dovrei passare 8 ore al giorno a guardare tutti i documenti e a capire qual è rinominarli, metterli.
+
+48
+00:09:12,120 --> 00:09:17,240
+Perché poi, ad esempio, nel tempo mi sono dato una specie di nomenclatura.
+
+49
+00:09:17,240 --> 00:09:35,080
+Quindi, di un modo di nominare i file in una certa maniera quindi con le date nel nome del file, ottimo e uso praticamente un programmino del buon Alex Raccuglia, che mi ha gentilmente donato.
+
+50
+00:09:35,720 --> 00:09:38,280
+Ed è utilissimo ancora oggi.
+
+51
+00:09:38,760 --> 00:09:40,840
+Quindi lo uso tantissimo.
+
+52
+00:09:42,120 --> 00:09:46,120
+Il tax respanda di Alex, salutiamo anche Alex.
+
+53
+00:09:46,120 --> 00:09:52,280
+No, no, aspetta, aspetta, è un programmino ancora più.
+
+54
+00:09:52,280 --> 00:09:57,560
+Aspetta, adesso lo cerco, ce l'ho quasi tutti per dire, ce l'ho ce l'ho, ce l'ho manca.
+
+55
+00:10:00,680 --> 00:10:01,400
+Fa solo questo.
+
+56
+00:10:01,720 --> 00:10:05,720
+Praticamente rinomina i file, tu gli dai come rinominarli.
+
+57
+00:10:05,800 --> 00:10:09,080
+Lui ti mette il suffisso o il prefisso.
+
+58
+00:10:09,400 --> 00:10:10,440
+È velocissimo.
+
+59
+00:10:10,920 --> 00:10:23,000
+Gai 100 file, lui ti va a leggere la data di modifica o di salvataggio, e lui ti mette quella data lì quindi è fantastico.
+
+60
+00:10:24,200 --> 00:10:28,040
+Vado per la tangente, ma giusto solo come informazione generale.
+
+61
+00:10:28,040 --> 00:10:35,720
+Ne abbiamo probabilmente parlato in una puntata di Hazel che adesso, ovviamente non mi ricordo più qual era, ma me lo ero segnato.
+
+62
+00:10:35,880 --> 00:10:38,360
+E comunque ci saranno le note l'episodio.
+
+63
+00:10:38,360 --> 00:10:49,280
+Ma una cosa interessante che si può fare in locale con Hazel è quella di per esempio, documenti dove ovviamente all'interno del documento sono presenti date del documento stesso, ok.
+
+64
+00:10:49,440 --> 00:11:00,640
+Adesso io faccio l'esempio tipico da avvocato, quindi la defida o un contratto e così via, si possono trovare all'interno di questi documenti abitualmente la data del documento.
+
+65
+00:11:00,640 --> 00:11:30,160
+Hazel può estrapolarla a determinate condizioni, soprattutto se sono file di testo o comunque sono file diciamo con del testo già scritto, mettiamola così i PDF un po' più complicato perché deve fare delle operazioni deve esserci almeno l'OCR o deve essere un PDF testuale, a questo punto dare la data invece del documento stesso, che a volte può diventare comodo, anche lì si fa utilizzando di fatto delle espressioni regolari.
+
+66
+00:11:30,160 --> 00:11:36,160
+Sostanzialmente si va a catturare in pratica la struttura della data tipica di questi documenti.
+
+67
+00:11:36,160 --> 00:11:38,000
+Quindi, dal mio punto di vista.
+
+68
+00:11:38,000 --> 00:11:50,160
+Poi adesso andiamo un po' saltiamo un po' di impare in frasca, mettiamola così, però quello che tu dici è complicato da fare e quindi lo devolverei all'intelligenza artificiale.
+
+69
+00:11:50,480 --> 00:11:58,000
+Secondo me una volta che si sa esattamente come sono strutturati questi documenti.
+
+70
+00:11:58,000 --> 00:12:12,880
+Probabilmente si può fare molto più velocemente e a minor spesa utilizzando strumenti come Hazel adesso vedremo ne esistono gli altri per automatizzare, ovviamente l'archiviazione, lo spostamento di questi documenti.
+
+71
+00:12:12,880 --> 00:12:31,080
+Per poi anche qui è possibile, ovviamente utilizzando dei sistemi a match, cioè sostanzialmente, non so, c'è scritto fattura e quindi hai una cartella con dentro tutte le fatture per intenderci, oppure non solo c'è la cartella con le fatture, ma la cartella delle fatture con le fatture del 2025.
+
+72
+00:12:31,240 --> 00:12:43,960
+Quindi, se c'è la data del documento scritto 2025, ovviamente, quel documento viene spostato non solo nella carta della fattura, ma nella carta della fattura con la sottocartella 2025.
+
+73
+00:12:43,960 --> 00:13:07,560
+Tuttavia, prima di andare troppo in là, mettiamola in questi termini, facciamo un passo indietro e parliamo quindi sia di documenti da archiviare, ma da quello che ho capito, hai anche tutto un discorso di note, e qui è meglio che intervenga Roberto, perché tu e Roberto utilizzate lo stesso sistema, utilizzate l'app note.
+
+74
+00:13:07,560 --> 00:13:10,680
+Che io invece aborro così.
+
+75
+00:13:11,480 --> 00:13:18,440
+In realtà usiamo note, facciamo un po' di premessa, chi non ha ascoltato A2 Podcast precedentemente.
+
+76
+00:13:18,440 --> 00:13:23,560
+Io arrivo da Notion essenzialmente e mi sono trovato molto bene.
+
+77
+00:13:23,720 --> 00:13:30,040
+A un certo punto, con l'aggiornamento di iOS, non mi ricordo più quale fosse, comunque.
+
+78
+00:13:30,040 --> 00:13:37,000
+Fatto sta che hanno fatto un aggiornamento corposo per quanto riguarda note, promemoria e calendario, che li stavano facendo parlare tutte assieme.
+
+79
+00:13:37,000 --> 00:13:43,320
+Sembrava molto interessante allora sono approdato note, mi trovo attualmente ancora molto bene.
+
+80
+00:13:43,320 --> 00:13:59,240
+Tuttavia, in questo momento storico, probabilmente note, visto che avremo dei problemi qui in Europa con le novità Apple per quanto riguarda intelligenza artificiale, rimane un po' diciamo limitato anche se può importare e esportare Markdown.
+
+81
+00:13:59,240 --> 00:14:06,600
+Quindi incomincio di nuovo a guardare con occhio l'anguidor Notion per il diciamo per la gestione della conoscenza.
+
+82
+00:14:06,600 --> 00:14:09,960
+Ma diciamo che note è molto interessante.
+
+83
+00:14:09,960 --> 00:14:39,120
+Molto interessante sotto vari punti di vista, uno perché è gratuito, due, perché ti permette di centralizzare la gestione della conoscenza sui vari dispositivi senza perdere un colpo, ma soprattutto che a me la cosa che interessa di più, in quanto perché c'è una questione che riguarda la mia professione, è la possibilità di prendere note a mano e disegnare, cosa che su Notion a meno di plugin diciamo di terze parti o diciamo collegamenti terze parti, questo non è possibile.
+
+84
+00:14:39,120 --> 00:14:48,480
+Tuttavia, la differenza grossa in questo momento è che ad esempio, Notion ha la possibilità di essere integrato con Claude e quindi diventa molto interessante con il corritore MCP.
+
+85
+00:14:48,480 --> 00:14:54,640
+E praticamente stiamo alzando l'asticella mentre Note rimane un po' ferma.
+
+86
+00:14:54,640 --> 00:15:02,400
+Note è molto interessante anche perché c'è stato qualcun altro che ha insegnato un metodo molto interessante.
+
+87
+00:15:02,400 --> 00:15:28,960
+Questo qualcun altro è il signor Matthias Hilse che ha fatto un simpatico sistema che si chiama Forever Notes, che io ho guardato molto interessante, nel senso che ingloba molti diciamo molti sistemi all'interno di qualcosa di molto semplice, però anche quello l'ho abbandonato abbastanza in fretta perché non si adattava molto al mio schema di cartelle.
+
+88
+00:15:28,960 --> 00:15:33,360
+Adesso poi passeremo poi anche a cosa ne pensa il nostro amico Daniele.
+
+89
+00:15:33,360 --> 00:15:54,000
+Diciamo che dal punto di vista del consiglio in generale che do sia Daniele per quanto riguarda la sua gestione, ma anche chi sta ascoltando, almeno dal mio punto di vista personale, che praticamente ho una gestione separata, diciamo, ho una concessione separata di quello che possono essere i documenti di lavoro, da quei documenti personali.
+
+90
+00:15:54,000 --> 00:16:25,080
+Questa qui, secondo me, è la grossa distinzione da fare, perché i documenti di lavoro prendono una strada di gestione delle cartelle e diciamo in struttura, mentre per quanto riguarda quello personale forse più semplice, perché va, diciamo, nel mio caso, va abbastanza perciamo cose consecutive, come nella vita in fin dei conti, giusto per dire una stupidaggine, ho una cartella delle scuole elementari dei ragazzi, e una cartella delle scuole medie dei ragazzi, adesso, anche quelle delle superiori.
+
+91
+00:16:25,080 --> 00:17:04,760
+Quindi, diciamo che è proprio temporare, la mia descrizione delle cartelle all'interno del mio sistema, diciamo di archiviazione, che, secondo me, questo qui è un po' più diciamo il focus, ma quello che voglio chiedere io a Daniele se vuole aggiungere qualcosa sul metodo, diciamo, Forever Notes e il benvenuto, ma quello che volevo chiedere, secondo me, forse la cosa più interessante per capire anche come gestire questi archivi, che ovviamente non possono diminuire, ma aumenteranno sempre di più, cioè il tuo attrito da cosa deriva, da trovare le cose, decidere dove metterle, o ricordarti di mantenerlo?
+
+92
+00:17:04,840 --> 00:17:32,720
+Credo che siano entrambe le cose, perché sicuramente l'ordine ti consente anche di poterle trovare, in questo modo, avere anche un metodo sempre uguale, un po' spalmato su tutti i device, o su tutte le situazioni dove si archivia, sicuramente aiuta anche personalmente a trovare le cose.
+
+93
+00:17:32,960 --> 00:18:08,560
+Anche in un caso di uso, un po' più pervasivo anche dell'intelligenza artificiale o degli MCP che si possono utilizzare dalle applicazioni desktop delle varie intelligenze artificiali, quindi già di dagli una cartella dove tu sai che c'è dentro tutto quel materiale per quel progetto, allora già puoi dire all'intelligenza artificiale, di trovare tutto lì e di essere anche ordinato.
+
+94
+00:18:09,120 --> 00:18:13,920
+Io ho un sacco di documenti un po' sparsi che si accumulano.
+
+95
+00:18:13,920 --> 00:18:26,560
+Quindi, quando piccolo particolare, mi è venuta questa cosa quest'ansia quando ho cominciato a utilizzare un po' più approfonditamente i vari progetti.
+
+96
+00:18:26,560 --> 00:18:52,800
+In questo caso li utilizzo su Claude perché dopo aver provato ChatGPT Gemini Perplexity e Claude, credo che Claude, esempio a livello testuale per la creazione di soprattutto script per il podcast, per gli articoli della newsletter, insomma, sia in certo senso, un passo avanti in confronto agli altri.
+
+97
+00:18:52,960 --> 00:19:28,560
+Gemini è molto generalista, anche ChatGPT non ha sempre il controllo dell'output, quindi mentre Claude, visto in questi mesi che sono approdato al suo modo di ragionare di creare il progetto, ottengo un output molto più vicino al mio modo anche di esprimermi e di parlare, di poter portare i miei i miei contenuti del podcast, e però in questo caso sto accumulando tantissimo.
+
+98
+00:19:28,560 --> 00:19:37,160
+Poi, ad esempio, io sono uno generazione X e quindi la chat di Claude, mi sembra molto sempre un po' evanescente.
+
+99
+00:19:37,240 --> 00:19:40,360
+Nel senso è lì e non è lì, non si sa mai se rimane.
+
+100
+00:19:41,240 --> 00:19:48,760
+Quindi, come molti della metà, salvano, per fortuna.
+
+101
+00:19:48,760 --> 00:20:02,920
+Non stampo perché come fanno molti della mia età, se no, abbatterei completamente l'Amazzonia, ma accumulo in questo caso un sacco di documenti in Markdown.
+
+102
+00:20:03,240 --> 00:20:11,480
+Perché giustamente dopo aver usato Obsidian che magari parleremo più tardi, mi sono innamorato di scrivere in Markdown.
+
+103
+00:20:11,640 --> 00:20:12,840
+Scrivo ancora tuttora.
+
+104
+00:20:12,840 --> 00:20:18,200
+Anche in ufficio, ormai scrivo mail e tutto il resto, sempre in Markdown.
+
+105
+00:20:18,360 --> 00:20:25,800
+Ma qui è Filippo che mi ha colpa mia: colpa mia esatto, mi ha portato verso il lato scuro.
+
+106
+00:20:27,000 --> 00:20:33,720
+E quindi ho un sacco di documenti che devono essere comunque archiviati in un certo senso.
+
+107
+00:20:33,720 --> 00:20:41,560
+Quindi, dare di un certo senso anche proprio di lo script, della ricerca, del prompt anche a salvarti solamente.
+
+108
+00:20:41,560 --> 00:20:47,160
+Perché poi a volte purtroppo nella versione free non li puoi salvare.
+
+109
+00:20:47,720 --> 00:21:05,880
+Hai solo cinque progetti e non puoi farne altri in Claude, e quindi anche poi le immagini, perché poi faccio le immagini con Nano Banana, le immagini delle varie cover del podcast, quindi anche lì.
+
+110
+00:21:05,880 --> 00:21:19,920
+Immagini che si accumulano, che devono essere messe in un certo senso, e comunque capire anche poi un progetto, cos'è un'è diventato un archivio.
+
+111
+00:21:20,080 --> 00:21:28,160
+Cos'è una risorsa per poi dare senso al second brain.
+
+112
+00:21:28,400 --> 00:21:44,640
+Insomma, è una questione che mi sono trovato, sopraffatto da una quantità di dati che piano piano, mese su mese è diventata 10 100 volte importanti e più onerosa di prima.
+
+113
+00:21:45,200 --> 00:21:47,760
+Prima avevi poche informazioni.
+
+114
+00:21:48,000 --> 00:22:49,520
+Adesso ovunque, hai quella sensazione di perderle, perché poi, naturalmente la mia età avanza, non ho più la memoria giovane e fresca di un trentenne, e quindi questa cosa qui mi ha portato anche a utilizzare prima Obsidian, poi avevo avuto problemi di sync tramite iCloud, perché in ufficio uso Windows e non so perché iCloud per Windows non è sicuramente quello per macOS, quindi mi si formavano doppi documenti, documenti non sincronizzati a metà, insomma, un casino, e quindi sono passato a Apple Note per non finire in Notion o Craft o altri simili, perché secondo me hanno veramente troppo almeno a me mi spaventa, mi spaventano ancora tuttora perché c'è talmente tanta roba lì dentro che non riesco proprio anche a orientarmi.
+
+115
+00:22:49,680 --> 00:23:00,840
+Apple Note è più semplice, poi integrazione massima con i device Apple, quindi con l'iPad con il Mac Mini e l'iPhone.
+
+116
+00:23:01,480 --> 00:23:19,000
+Finisco da una parte, inizio dall'altra, la nota è lì pronta per essere modificata, e ho scoperto naturalmente credo che forse l'avevi segnalato tu, Roberto, questa cosa di Forever Notes.
+
+117
+00:23:19,000 --> 00:23:31,720
+E quindi, lì mi è piaciuto tantissimo perché poi replica in una certa maniera manuale, quello che poi capita succede in Notion o anche in Obsidian.
+
+118
+00:23:31,720 --> 00:23:49,720
+Quindi, con la creazione di link in modo testuale, quindi si riesce anche a navigare senza dover utilizzare le cartelle, non l'ho usato completamente perché c'è anche una parte che la chiamano journal.
+
+119
+00:23:49,720 --> 00:24:04,440
+Quindi una parte quasi da diario giornaliero fin troppo complicato, lì proprio si arriva a livelli di ossessione.
+
+120
+00:24:04,920 --> 00:24:07,080
+Quindi quella parte lì non l'ho usata.
+
+121
+00:24:07,080 --> 00:24:34,040
+Tuttavia, poi ho visto conoscendo Filippo, soprattutto, ascoltando e leggendo il suo blog sul metodo PARA di Tiago Forte ho visto che comunque Forever Notes bene o male ne ha copiato un po' la distribuzione delle macro aree che poi sono simili.
+
+122
+00:24:34,040 --> 00:24:40,680
+Hanno un altro nome, ma meno male hanno la stessa funzione, quindi è molto simile, molto simile.
+
+123
+00:24:40,680 --> 00:24:41,360
+Sì, sì, sì, sì.
+
+124
+00:24:41,760 --> 00:24:47,440
+Ne hanno cambiato i nomi, ma in pratica, attribuzioni e le aree sono le stesse.
+
+125
+00:24:44,840 --> 00:24:48,960
+Io mi sono trovato bene adesso.
+
+126
+00:24:49,120 --> 00:25:16,480
+In questo momento praticamente diciamo che il mio second brain è Apple Note, ho dentro di tutto, poi è vero, come ho detto prima ho poco materiale lavorativo vero e proprio, perché comunque lavorando per un'azienda uso in ufficio, usiamo OneNote perché abbiamo Office 365, quindi l'azienda ha quella cosa lì quindi, la questione lavorativa è proprio completamente a parte.
+
+127
+00:25:16,480 --> 00:25:27,040
+In questo momento io ho molto materiale personale, qualche materiale, diciamo sensibile, come abbiamo detto prima.
+
+128
+00:25:27,040 --> 00:25:42,480
+E quindi per il resto è più materiale ovbistico di informazione mia di crescita professionale, quindi corsi, annotazioni, video su YouTube, insomma, tutta questa serie di materiali.
+
+129
+00:25:42,480 --> 00:25:46,640
+Mentre Daniele parlava, ho recuperato se interessa.
+
+130
+00:25:46,640 --> 00:25:51,760
+La puntata è la 42, quello che abbiamo fatto su Note per Daniele chiedevo una cosa.
+
+131
+00:25:51,920 --> 00:26:01,760
+Quindi, però, su note di fatto tieni solo gli appunti, o anche carichi i documenti perché teoricamente è possibile farlo, c'è carica anche dentro il PDF quant'altro.
+
+132
+00:26:01,760 --> 00:26:07,040
+Quindi organizza anche i documenti, o i documenti sono chiamiamo così a parte.
+
+133
+00:26:07,040 --> 00:26:10,000
+No, no, io metto anche i documenti.
+
+134
+00:26:10,000 --> 00:26:41,720
+Perché è vero che esiste iCloud Drive, cioè il drive di iCloud di Apple, ma tendenzialmente mi è più veloce e facile trovare il documento su Apple Note perché magari utilizzando anche i tag, quindi magari sono molto più veloce a cercare invece andare tramite l'iPhone ad esempio, che è il device più piccolo.
+
+135
+00:26:41,720 --> 00:26:53,080
+Quindi cercare un documento, ne so, un documento della moto o il tagliando dell'auto la trovo molto più velocemente.
+
+136
+00:26:53,080 --> 00:26:58,600
+Questi documenti meno male li metto su su Apple Note, non metto tutti i documenti.
+
+137
+00:26:58,600 --> 00:27:17,400
+Quindi, per il podcast metto le immagini del vari cover: mi serve anche per avere uno storico per avere anche una bellezza vedere la cover all'inizio quindi è bello anche vedere il documento.
+
+138
+00:27:17,400 --> 00:27:30,280
+Non tutti i documenti, non proprio tutti sono su Apple Note, diciamo quelli della gestione di casa, sì, perché mi servono appunto per cercare velocemente.
+
+139
+00:27:30,280 --> 00:27:48,040
+Mentre tutto il resto, rimane una ricerca essenziale da locale su permetto solo di aggiungere un po' di cose su note, perché io sono sempre il bastian Contrariano come si dice da questa zona di quello che naviga contro.
+
+140
+00:27:48,040 --> 00:27:52,920
+Perché note in effetti, ha questa possibilità sono delle capacità molto interessanti.
+
+141
+00:27:52,920 --> 00:28:08,120
+Però ha dei risvolti negativi, uno perché ad esempio, occupa tantissimo spazio una nota con i documenti dentro, nel senso che se li porta dietro e quindi questo va a pesare sul vostro spazio al cloud, giusto per partire.
+
+142
+00:28:08,120 --> 00:28:19,920
+E un'altra cosa che invece mi ha dato recentemente fastidio abbastanza, perché abbiamo tutti assistito agli aggiornamenti che ha fatto Apple e siamo tutti molto contenti di quello che ha fatto.
+
+143
+00:28:20,080 --> 00:28:32,160
+Ha aggiornato anche Numbers e Pages, Keynote e via discorrendo e compagnia cantante, ha fatto tante belle cose, ma si è dimenticato un pezzo perlomeno io non lo vedo più applicato.
+
+144
+00:28:32,160 --> 00:28:49,040
+Tanto tempo fa, non tanto tempo fa, visto che sul mio iPad che non ho aggiornato è ancora possibile, c'era la possibilità di esportare la nota in formato pages, che però conteneva anche il documento e per me diventava veramente molto utile.
+
+145
+00:28:49,040 --> 00:28:58,160
+Perché, ad esempio, potevo fare potevo implementare una pianta, come un'immagine o un PDF, potevo importare direttamente lì dentro.
+
+146
+00:28:58,160 --> 00:29:08,160
+Prendere le note sopra all'immagine o al PDF, e questo veniva esportato come un file pages di appunti che mi serviva come backup.
+
+147
+00:29:08,160 --> 00:29:10,720
+In questo momento non è più possibile farlo.
+
+148
+00:29:10,720 --> 00:29:17,440
+Nel senso che, soprattutto per i documenti, non riesce più a importarlo correttamente, quindi bisogna esportarlo manualmente.
+
+149
+00:29:17,440 --> 00:29:19,760
+Questo secondo me è una grossa perdita.
+
+150
+00:29:19,760 --> 00:29:25,280
+Che magari non tutti gli utenti Apple lo utilizzano, ma in ogni caso rimane questo problema.
+
+151
+00:29:25,520 --> 00:29:36,400
+Il secondo problema di note che ho notato è che nel momento in cui tu vai a prendere gli appunti a mano, anche questi qui vengono trattati praticamente come delle immagini e anche qui l'archivio esplode.
+
+152
+00:29:36,400 --> 00:29:45,280
+Nel senso che superi tranquillamente il gigabyte in scioltezza nel momento in cui usi un po', diciamo sportivamente note.
+
+153
+00:29:45,440 --> 00:29:55,760
+Questo non è un grosso problema, nel senso che nel momento in cui ne si hai conoscenza, riesci a gestirlo, ma ovviamente è un lato, diciamo, abbastanza nascosto.
+
+154
+00:29:55,760 --> 00:30:04,520
+Che poi, però, si ripercuote sul portafogli, perché se non hai spazio su iCloud, poi alla fine rimani senza qualcosa, quello sicuramente.
+
+155
+00:30:05,320 --> 00:30:39,800
+Dal mio punto di vista, aggiungo alla critica di Roberto, anche il fatto che comunque di fatto note è un database, quindi, tutti pro e contro di database, nel senso che ovviamente andando a inserire molti dati e molte note, credo però vada a memoria che David Spartan avesse creato addirittura 3.000 di note in Apple note, però la garanzia che tutto il sistema funzioni correttamente è abbastanza incerta.
+
+156
+00:30:39,800 --> 00:31:04,760
+E tra l'altro, non c'è un modo da quello che ne so, io però, qui non sono esperto, di fare un backup di tutte le note in una botta sola, cioè di esportarli, diciamo, in una botta sola per salvare sul disco, per esempio: non sai dove sono archiviate, c'è un database, quindi nel database, poi ovviamente potresti andare a ravanare, ma da quello che ho capito io.
+
+157
+00:31:05,080 --> 00:31:22,200
+Secondariamente venendo alle richieste di Daniele effettivamente se tu vuoi utilizzare anche l'intelligenza artificiale, quindi poter diciamo lavorare su queste note, sicuramente, diciamo, uno devi iniziare a ragionare.
+
+158
+00:31:22,200 --> 00:31:27,000
+Purtroppo, so che se tu che Roberto non siete davanti di spendere di spendere soldi.
+
+159
+00:31:27,000 --> 00:31:37,840
+Ma tendenzialmente per poter fare quello che vuoi fare tu, un abbonamento anche basico, credo che sia necessario, perché a quel punto lì riesci a gestire meglio.
+
+160
+00:31:37,840 --> 00:32:25,200
+Tutto esistono, per esempio del si chiamano MCP, Model Context Protocol che sono i sistemi per fare dialogare per esempio Claude, ma anche altri sistemi con le note, e a quel punto lì a prescindere dal problema di riservatezza, che caso me affrontiamo dopo, avresti maggiore autonomia e soprattutto è credo forse l'unico modo diciamo, per automatizzare l'esportazione di una sorta di backup, chiamiamolo così di note fuori, perché a quel punto lì, a prescindere dai tu che consumerai a fare un'operazione del genere, però, nella sostanza, Claude è in grado, la versione desktop: è in grado di appunto una volta che gli dai accesso alle note, di salvartele.
+
+161
+00:32:25,440 --> 00:32:29,040
+Presumibilmente anche salvare i documenti, c'è sarebbe da vederlo.
+
+162
+00:32:29,040 --> 00:32:36,400
+Sul tuo hard disk, e quindi poi a quel punto lì chiamano così una sorta di backup vero, reale e tutto il resto.
+
+163
+00:32:36,400 --> 00:32:46,160
+Il discorso che, secondo me, c'è da fare all'inizio è quanto vuoi integrare l'intelligenza artificiale, cioè se i tuoi flussi di lavoro funzionano molto con l'intelligenza artificiale.
+
+164
+00:32:46,160 --> 00:32:47,280
+Mettiamola così.
+
+165
+00:32:47,280 --> 00:32:54,480
+Parlavi appunto di tutta la parte creativa, diciamo, comunque di ausilio della creatività con Claude e cosa del genere.
+
+166
+00:32:54,480 --> 00:32:57,920
+Il mio suggerimento è di andare su qualcosa di fisico.
+
+167
+00:32:57,920 --> 00:33:16,480
+Nel senso di presenza sull'hard disk per intenderci, di modo che nella sostanza, puoi dare accesso a determinate cartelle, a Claude e compagnia briscola, e a quel punto lì possono leggere i documenti e eventualmente scrivere i documenti.
+
+168
+00:33:16,800 --> 00:33:28,400
+Altra cosa che segnalo, perché è una cosa che l'ho condivisa per ora solo con la newsletter di Avocati e Mac, ma devo fare il passaggio di avvocati e Mac alla nuova gestione del sito.
+
+169
+00:33:28,400 --> 00:33:44,360
+A per chiudo una parentesi, mi è arrivata ieri la mail di Squarespace che ha aumentato ulteriormente i prezzi quindi devo scappare, devo scappare, 204 dollari all'anno adesso sono arrivati quindi inizia a diventare caruccio, come si suol dire.
+
+170
+00:33:44,360 --> 00:33:52,040
+Comunque tornando a noi nella sostanza, per esempio, ci sono tutta una serie di trucchi progressivamente.
+
+171
+00:33:52,040 --> 00:33:56,680
+Per cui, per esempio, è possibile utilizzare Perplexity.
+
+172
+00:33:57,400 --> 00:34:00,680
+Diciamo che è solo web, nasce solo web.
+
+173
+00:34:00,680 --> 00:34:05,560
+E anche a me effettivamente dava fastidio perché io lo uso abbastanza intensamente.
+
+174
+00:34:05,880 --> 00:34:16,520
+Ma in pratica questo mi vincola perché tutte le ricerche che ho fatto e che ho salvato sono dentro degli spazi di Perplexity e quindi ovviamente sono tutti nel cloud.
+
+175
+00:34:16,760 --> 00:34:41,400
+Ecco, esiste questo MCP, e nella sostanza è un hack, cioè nel senso che praticamente fa una cosa che secondo me non si potrebbe fare e non credo non sono mai andato a controllare, diciamo, ma nella sostanza ti permette di collegare il tuo abbonamento anche free a dire la verità di Perplexity e di utilizzare la riga di comando, o addirittura di darlo in mano.
+
+176
+00:34:41,400 --> 00:34:45,400
+Un large language mod, sempre ovviamente desktop e così via.
+
+177
+00:34:45,400 --> 00:34:58,680
+Quindi, attraverso un sistema MCP quindi prevalentemente su Mac, e in questa maniera, però, tu puoi, da una parte fare ricerche con Perplexity, quindi aumentare le capacità dei modelli base, diciamo Claude, ChatGPT e così via.
+
+178
+00:34:58,680 --> 00:35:13,480
+Poi fare, ovviamente se hai l'abbonamento pro le ricerche avanzate di Perplexity, ma poi accedere anche a tutti i thread vengono chiamati, a tutte le conversazioni, diciamo, che sono presenti su Perplexity.
+
+179
+00:35:13,640 --> 00:35:23,600
+Anche qui non l'ho ancora testato direttamente, ma a questo punto credo che sia altamente fattibile, puoi salvare tutte le conversazioni su disco.
+
+180
+00:35:24,080 --> 00:35:29,840
+Ovviamente consumando token come se non ci fosse un domani, ma quello è un altro argomento.
+
+181
+00:35:30,160 --> 00:35:34,640
+Quindi, il discorso è secondo me adesso come adesso.
+
+182
+00:35:34,640 --> 00:36:13,520
+Se vuoi utilizzare in maniera seria, diciamo, i large language model, la chat, io le escluderei sempre a meno che ti complichi effettivamente troppo la vita, avere tutto sulle chat di questi sistemi vuol dire poi perdere o comunque complicarti la vita e non poter archiviare, o dover archiviare due volte le cose, giusto per farvi un esempio, diciamo, in preparazione alla puntata, o come hanno visto, tra virgolette, sia Daniele che Roberto, ho fatto generare l'intelligenza artificiale, quelle che sono poi le immagini, diciamo, di copertina del cosiddette thumb di YouTube, ho preparato una scaletta.
+
+183
+00:36:13,840 --> 00:36:44,800
+Tutto questo sistema l'ho fatto fare nel caso specifico a Codex, che è la versione di Claude, diciamo Claude Desktop è la versione di OpenAI e nella sostanza, gli ho fatto fare tutto il lavoro, ce l'ho tutto salvato, ovviamente cartelle relative a questa puntata di A2 Podcast, dove poi andrò anche a salvare le tracce, ovviamente audio di Daniele e di Roberto e da dove poi farò tutte le successive operazioni.
+
+184
+00:36:45,120 --> 00:36:46,720
+Questo per dire cosa?
+
+185
+00:36:47,040 --> 00:37:17,400
+Tendenzialmente appunto se si vuole utilizzare intelligenza artificiale per queste necessità, cioè quindi avere comunque il materiale sul proprio computer e non vivere nelle chat, diciamo, le alternative sono poche, nel senso che appunto l'applicazione Claude Desktop dove c'è dentro anche Cowork e Claude Code, l'applicazione Codex app di ChatGPT credo che ci sia una versione, ma è abbastanza costosa.
+
+186
+00:37:17,400 --> 00:38:20,840
+Io avevo fatto un'applicazione ma non me l'hanno mai attivata di Perplexity, ma con questo trucco si può trucco che vi ho raccontato l'MCP finché dura, come si suol dire, si può, si può aggirare il problema, anche qui l'autore che ha fatto questo server MCP, ha fatto la stessa cosa anche per NotebookLM, quindi anche qui si può interagire con i notebook, gratuiti o a pagamento dipende da tipologia di abbonamento si ha, direttamente dall'interfaccia del chat barra del sistema, e in questo caso è molto comodo, perché anche qui puoi sia dialogare con i notebook che hai creato, ma soprattutto poi anche scaricare le informazioni da questi notebook che diventa molto comodo appunto se si utilizzano in questa maniera, mettiamola in questi termini, fatte queste premesse, quindi, il grande divario, diciamo, è decidere se lavorare tutto in locale e anche qui una cosa di cui parlavi prima.
+
+187
+00:38:21,000 --> 00:38:27,000
+Io non utilizzo iCloud per la sincronizzazione della cassaforte di Obsidian.
+
+188
+00:38:27,320 --> 00:38:29,320
+Io ti consiglio di utilizzare.
+
+189
+00:38:29,320 --> 00:38:39,880
+Si chiama Syncthing è gratuito, nel senso che è open source e permette sostanzialmente di fare un ne ho parlato in una puntata di compendium.
+
+190
+00:38:39,880 --> 00:38:45,760
+Ma permette sostanzialmente da N computer di sincronizzarli peer-to-peer, cioè da computer a computer.
+
+191
+00:38:44,520 --> 00:38:50,720
+Quindi, se tu vai a modificare un file nel tuo computer di casa, è a singole cartelle.
+
+192
+00:38:44,840 --> 00:38:52,160
+L'altro vantaggio grosso è quello lì.
+
+193
+00:38:52,320 --> 00:38:59,760
+Quindi tu puoi dire, solo la cartella di Obsidian mi va sincronizzato sul PC Windows per intenderci.
+
+194
+00:39:00,080 --> 00:39:17,840
+La cosa comoda, qual è che tu puoi appunto quando il computer a casa è acceso e quando deve esserci anche il computer dell'ufficio acceso, sostanzialmente i file si sincronizzano con un sistema di sincronizzazione automatizzato e cifrato, quindi si sincronizzano online.
+
+195
+00:39:18,000 --> 00:39:22,560
+Il vantaggio grosso se hai lo spazio, perché è l'unico difetto di questa vicenda.
+
+196
+00:39:22,560 --> 00:39:23,840
+Io conosco Roberto.
+
+197
+00:39:23,840 --> 00:39:35,600
+Quindi io sono scusami se ti interrompo, ma sono nella stessa situazione di Roberto, perché sono anch'io proprietario di un disco da 256 GB.
+
+198
+00:39:35,600 --> 00:39:39,200
+Esatto, però Syncthing funziona anche con i dischi esterni.
+
+199
+00:39:40,080 --> 00:39:45,520
+Basta che il disco sia collegato fisicamente al computer, lo puoi utilizzare.
+
+200
+00:39:45,600 --> 00:39:48,640
+Io, per esempio, lo dico molto tranquillamente.
+
+201
+00:39:48,960 --> 00:39:57,040
+L'ultimo che ho comprato, credo che sia il Mac mini M4, il Mac Mini M4 ha 256 GB.
+
+202
+00:39:57,040 --> 00:40:06,560
+La prima cosa che ho fatto, gli ho preso un hard disk esterno, ho collegato l'ardist esterno e sostanzialmente tutte le mie pratiche.
+
+203
+00:40:06,720 --> 00:40:13,600
+Quindi 60-70 GB sono sincronizzati via Syncthing sul disco esterno.
+
+204
+00:40:13,600 --> 00:40:18,240
+Ovviamente nel momento in cui il disco estero si scollega, non sincronizza più niente.
+
+205
+00:40:18,240 --> 00:40:21,200
+Non so se mi spiego perché non vede più le cartelle.
+
+206
+00:40:21,200 --> 00:40:24,560
+Tuttavia, in la normalità della vicenda.
+
+207
+00:40:24,560 --> 00:40:27,840
+Poi tranquillamente basta che sia montato il disco.
+
+208
+00:40:27,840 --> 00:40:36,040
+Quindi, che comunque Macos lo veda, o all'eventuale Windows o anche Linux perché funziona su tutti i sistemi operativi.
+
+209
+00:40:36,200 --> 00:40:42,440
+E ovviamente i due computer siano operativi, mettiamoli in questi termini e tutto funziona.
+
+210
+00:40:42,760 --> 00:40:46,360
+L'unica cosa che io consiglio se si fa con questo sistema.
+
+211
+00:40:46,840 --> 00:40:55,640
+È quello che ci vorrebbe sempre un computer acceso, nel senso che io appunto, questo Mac mini lo utilizzo, diciamo come server, mettiamolo in questi termini.
+
+212
+00:40:55,640 --> 00:41:21,080
+Quindi lui rimane senza monitor senza niente, sempre acceso, collegato ai dischi collegato via cavo alla fibra e praticamente ogni computer su cui lavoro al collegamento a Syncthing e quindi, io praticamente se genero un file sul portatile automaticamente viene sincronizzato lì sopra e poi da lì si propaga per tutti gli altri computer.
+
+213
+00:41:21,080 --> 00:41:28,680
+Quindi, io in qualunque momento e con qualunque dispositivo faccia determinate cose funziona.
+
+214
+00:41:28,920 --> 00:41:53,080
+Su iOS c'è un'applicazione lì a pagamento invece, anche se questo è un software open source che si chiamiamo Möbius Sync, una roba del genere, che invece è un wrapper per Syncthing e ti permette di sincronizzarlo anche sui dispositivi Apple e funziona, tra l'altro, non l'ho ancora provato, ma ho letto che funziona, ti permette di condividere anche le cartelle delle applicazioni.
+
+215
+00:41:53,080 --> 00:42:09,640
+Quindi Obsidian se tu su iOS o iPad OS hai una cartella diciamo di Obsidian, basta che sia fisicamente sull'iPad o sull'iPhone e poi condivida questa cartella con Syncthing e quindi fare tutti i sincronizzazioni del caso.
+
+216
+00:42:09,640 --> 00:42:19,360
+Questa, probabilmente è la soluzione attualmente, diciamo, migliore, che ha il vantaggio di essere tutto Markdown da una parte sincronizzata, è ovvio che l'unico vero problema.
+
+217
+00:42:19,520 --> 00:42:31,120
+Dopo sono gli spazi sui dispositivi, certo, e quindi è ovvio che se hai poco spazio sull'iPad o sul sull'iPhone, allora lì casca l'asino.
+
+218
+00:42:31,360 --> 00:42:58,880
+Io, per esempio, per l'utilizzo di Obsidian che lo dichiaro adesso ne parleremo velocemente anche perché poi stiamo andando verso le sette, dopo dobbiamo chiudere la diretta, però, ho fatto delle scelte specifiche: nel senso su Obsidian, io ho solo fai di testo e quindi non mi occupano tantissimo spazio, mettiamolo in questi termini, per cui non ho problemi a fare questa sincronizzazione sia sui iPad, sia sui iPhone, sia sui vari computer.
+
+219
+00:42:58,880 --> 00:43:19,040
+Non so, per esempio, le posizioni dell'ufficio, non lo farei mai, perché comunque andrei a riempire, saturare completamente il disco dei dispositivi mobili, e quindi ho anche qui il vantaggio di Syn Thing che tu li puoi dire sincronizza questa cartella, ma non sincronizzare l'altra cartella.
+
+220
+00:43:19,040 --> 00:43:32,720
+Quindi potendo scegliere, diciamo cosa sincronizzare e su che macchina, condividere questa sincronizzazione, è ovvio che riesci a essere molto separato.
+
+221
+00:43:33,920 --> 00:43:52,400
+Allora, direi che a questo punto dobbiamo fare una puntata numero 2, perché sono quasi le sette mentre stiamo registrando, quindi, io direi chiudiamo, ragionando invece sul futuro: non abbiamo ancora trattato, tratteremo nella prossima puntata.
+
+222
+00:43:52,400 --> 00:43:57,920
+Se va tutti bene, io so che Roberto vuole essere preciso sull'orario.
+
+223
+00:43:57,920 --> 00:44:00,680
+Quindi, io sono preciso a mia volta.
+
+224
+00:43:59,920 --> 00:44:02,920
+Tratteremo invece di come archiviare.
+
+225
+00:44:03,000 --> 00:44:13,960
+Perché diciamo il problema grosso è scegliere la tipologia di archiviazione, ma dopo c'è anche darci un metodo di come gestire questa cosa.
+
+226
+00:44:14,280 --> 00:44:18,040
+Effetamente, anche qui lo dico.
+
+227
+00:44:18,040 --> 00:44:24,760
+Il metodo PARA, io ne ho sempre parlato, ma lo uso, non si adegua sufficientemente alle mie necessità, mettiamola così lavorativa.
+
+228
+00:44:24,920 --> 00:44:36,280
+Ho un mio metodo, chiamiamo così abbastanza semplice di struttura cartelle proprio per le singole posizioni, speculare per singola posizione quindi lavoro su singola posizione.
+
+229
+00:44:36,280 --> 00:44:42,440
+Tuttavia, appunto, credo che sia un ragionamento utile da fare se approfondire l'argomento.
+
+230
+00:44:42,440 --> 00:44:46,840
+Adesso sento tutti e due se avete voglia, di continuare.
+
+231
+00:44:47,080 --> 00:45:08,440
+Ma sicuramente da parte mia, sì, perché naturalmente, io sto iniziando a conoscere il sistema, l'ho sentito parlare sui tuoi canali, sia su Compendi, che sia anche qua su A2 Podcast, allora, sto cercando di capirlo, quindi di vedere se funziona.
+
+232
+00:45:08,920 --> 00:46:01,120
+Infatti, l'ho utilizzato per mettere a posto almeno, capirlo i Dropbox, ad esempio o Box.com, che fondamentalmente non sono necessari, sono proprio veramente degli archivi che c'è roba veramente del 2007 non utilizzo più nel senso, ma mi è servito anche per capire come suddividere le cartelle, i progetti, i vari documenti che c'erano lì dentro e, naturalmente, io mi è piaciuta la fase di automazione che raccontate, perché volevo farmi aiutare dall'automazione con Claude, in modo tale da non passare delle nottate a mettere a posto le cose.
+
+233
+00:46:01,120 --> 00:46:12,480
+Comunque, io personalmente anche per capire anche come funziona, visto che magari tu hai letto anche il libro, io devo prenderlo e purtroppo leggerlo in inglese sarà un po' più dura per me.
+
+234
+00:46:12,480 --> 00:46:20,080
+Vederlo e sentirlo, magari può essere un metodo che potrebbe funzionare per me.
+
+235
+00:46:20,320 --> 00:46:24,480
+Invece penso che ci saranno non solo una puntata, ma due puntate di approfondimento.
+
+236
+00:46:24,480 --> 00:46:26,960
+Perché gli argomenti sono decisamente interessanti.
+
+237
+00:46:26,960 --> 00:46:35,600
+Ma come sapete, mano a mano ci aggiorniamo per le puntate con gli argomenti perché abbiamo ripreso da poco e stiamo approfondendo un po' tutto.
+
+238
+00:46:35,600 --> 00:46:39,680
+E ovviamente con l'intelligenza artificiale si pone il classico problema.
+
+239
+00:46:39,680 --> 00:46:41,680
+Nel senso che alcune cose.
+
+240
+00:46:41,680 --> 00:46:50,640
+Che dice Daniele di quella esigenza, probabilmente Hazel potrebbe fare a caso suo, per altre cose, probabilmente l'intelligenza artificiale potrebbe aiutarlo.
+
+241
+00:46:50,640 --> 00:47:02,000
+Sicuramente è una cosa che poi scoprirà anche per conto suo, ma vedrà che il metodo PARA veramente molto molto simile a quello che sta usando di Forever Notes.
+
+242
+00:47:02,240 --> 00:47:04,160
+Se riusciamo, mettiamo anche il link.
+
+243
+00:47:04,160 --> 00:47:07,040
+È un metodo interessante, facile, semplice.
+
+244
+00:47:07,280 --> 00:47:16,080
+Visto che stiamo andando in chiusura, vi lascio con così un pensiero che mi sta circolando ancora adesso in testa, che è tutto tranne che digitale.
+
+245
+00:47:16,080 --> 00:47:26,160
+Che forse è il caso di riprendere in mano il di carta di cominciare di nuovo a scrivere a mano per riprendere un po' di nuovo coscienza di se stessi, andare avanti nella vita.
+
+246
+00:47:26,240 --> 00:47:33,480
+Questo qui è uno dei tanti pensieri che mi è circola nella testa, ma io adesso lascerei un attimino il microfono al nostro Daniele.
+
+247
+00:47:33,480 --> 00:47:43,320
+Che io ringrazio tantissimo per essere venuto al microfono A2 Podcast e averci raccontato i suoi problemi, ma soprattutto averci interpellato per risolvere questi problemi.
+
+248
+00:47:43,320 --> 00:47:51,560
+Intanto, ti ringrazio prima di tutto per tutto questo, e poi ti lascio il microfono per i saluti finali, almeno di questa puntata rimandando a una prossima.
+
+249
+00:47:51,560 --> 00:47:52,200
+Vi ringrazio.
+
+250
+00:47:52,360 --> 00:47:58,360
+Naturalmente è sempre un piacere parlare con voi, perché poi mi aprite tantissime possibilità.
+
+251
+00:47:58,680 --> 00:48:03,640
+Poi la mia testa comincia a farsi progetti a lungo termine, a breve termine.
+
+252
+00:48:04,120 --> 00:48:21,320
+Sempre una fonte di informazioni, ma anche di progetti, insomma, di spunti personali, anche per poter capire come utilizzare i device oggi, soprattutto, come ha detto Roberto, con l'avvento dell'intelligenza artificiale.
+
+253
+00:48:21,320 --> 00:48:32,680
+Le informazioni hanno cambiato passo, quindi sono molto più veloci, molto più immediate di prima, che già lo erano veloci, adesso lo sono ancora di più.
+
+254
+00:48:32,920 --> 00:48:46,920
+Sì, sicuramente spero tanto di fare anche altre puntate, magari anche due, poi sono uno che si butta sempre nella mischia, soprattutto quando si tratta di parlare attraverso il microfono.
+
+255
+00:48:46,920 --> 00:48:58,680
+Quindi vi ringrazio comunque di avermi ascoltato e di aver cercato di capire e magari datemi delle indicazioni tramite i commenti al podcast, magari avete anche altre idee.
+
+256
+00:48:58,680 --> 00:49:04,440
+Ma soprattutto dove ti troviamo, Daniele, cosa fai nella vita, giusto, giusto, dimenticavo.
+
+257
+00:49:04,440 --> 00:49:17,360
+Allora, io sono l'hosting, la voce del tiraline, e naturalmente, lo potete trovare su Spreaker nella grande famiglia di Runtime Radio mi trovate lì.
+
+258
+00:49:17,520 --> 00:49:35,840
+Oppure mi trovate su Substack con Pillone Cad o Parole in linee che sono le mie due newsletter, una molto più tecnica, che praticamente è un compendio al podcast, e l'altra un po' più generalista e un po' più personale.
+
+259
+00:49:35,840 --> 00:49:37,840
+Quindi mi trovate lì ottimo.
+
+260
+00:49:37,840 --> 00:49:47,360
+Ma non sono lì, anche su Architettura Imperfetta, perché è l'host di linee imperfette, la rubrica dedicata a chi usa il CAD come professione.
+
+261
+00:49:47,360 --> 00:49:51,600
+Invece, noi dove ci potete trovare per seguire le questioni.
+
+262
+00:49:51,600 --> 00:49:53,120
+Intanto, le note l'episodio.
+
+263
+00:49:53,360 --> 00:49:59,040
+Trovate sul sito di A2 Podcast che ricordo essere www.podcast.
+
+264
+00:49:59,760 --> 00:50:00,960
+Numero della puntata.
+
+265
+00:50:00,960 --> 00:50:02,560
+In questo caso, è l'81.
+
+266
+00:50:02,560 --> 00:50:03,520
+Vi ricordo.
+
+267
+00:50:03,520 --> 00:50:08,880
+Potete iscriverci in attesa che il nostro mitico Filippo Strozzi.
+
+268
+00:50:08,880 --> 00:50:15,040
+Tra un'impresa e l'altra, riesca a utilizzare l'intelligenza artificiale per buttare un form sul sito.
+
+269
+00:50:15,040 --> 00:50:18,480
+Intanto, potete scrivere seguendo un indirizzo mail.
+
+270
+00:50:18,480 --> 00:50:20,080
+Che adesso vi sto per dare.
+
+271
+00:50:20,480 --> 00:50:21,120
+Scrivici.
+
+272
+00:50:21,120 --> 00:50:22,640
+Chiocciola a due podcast.
+
+273
+00:50:23,920 --> 00:50:26,960
+Vi, come sempre, vi chiediamo se vi è piaciuta la puntata.
+
+274
+00:50:26,960 --> 00:50:29,200
+Ma sicuramente vi sarà piaciuta perché abbiamo visto gli ascolti.
+
+275
+00:50:29,520 --> 00:50:31,520
+Siete molto molto bravi ad ascoltare.
+
+276
+00:50:31,520 --> 00:50:37,760
+Ma dovete anche lasciare qualche recensione su Apple Podcast o su Spotify o dove vi capita.
+
+277
+00:50:37,760 --> 00:50:40,720
+Diffondete il verbo perché è sempre utile.
+
+278
+00:50:41,120 --> 00:50:47,520
+Ci sono, oltre i nostri podcast, parlo dei nostri perché tutti e tre facciamo parte di Runtime Radio.
+
+279
+00:50:47,520 --> 00:50:50,400
+Ce ne sono tantissimi sul sito di Runtime, andatevi vedere.
+
+280
+00:50:50,400 --> 00:50:53,920
+Ma in ogni caso, ti fate forte per noi, che fa sempre piacere.
+
+281
+00:50:53,920 --> 00:51:03,560
+E poi, ovviamente, ci sono i canali YouTube di A2 Podcast, non solo quello di A2 Podcast, c'è quello di Filippo, c'è il mio, e ovviamente c'è anche quello di Daniele.
+
+282
+00:51:03,720 --> 00:51:24,360
+Tutti da seguire, tutti da iscriversi, soprattutto, quello che diciamo sempre in tutte le puntate che questo è un podcast ed è un po' difficile, diciamo, entrare in contatto con le persone perché purtroppo richiede uno sforzo aggiuntivo, ovvero aprire un client di posta elettronica e scrivere qualcosa.
+
+283
+00:51:24,360 --> 00:51:29,640
+Oppure andare su Apple Podcast o Spotify o dove volete scrivere una recensione.
+
+284
+00:51:29,640 --> 00:51:36,680
+Se volete essere più diretti, ovviamente c'è YouTube che appena state guardando il video, potete mettere sotto un bel commento.
+
+285
+00:51:36,680 --> 00:51:43,960
+Noi leggiamo tutto quanto e siamo ben felici di seguire e capire cosa avete bisogno e soprattutto se avete argomenti da proporre.
+
+286
+00:51:43,960 --> 00:51:46,200
+Noi siamo sempre qua con le orecchie ben aperte.
+
+287
+00:51:46,440 --> 00:51:48,440
+Io vi ringrazio come sempre anche Filippo.
+
+288
+00:51:48,760 --> 00:51:49,880
+Oviamente anche Daniele.
+
+289
+00:51:49,880 --> 00:51:55,400
+Vi ringraziamo tutti quanti per aver ascoltato fino a qui e ci sentiamo nella prossima puntata di A2 Podcast.
+
+290
+00:51:55,400 --> 00:51:56,680
+Ciao, alla prossima.

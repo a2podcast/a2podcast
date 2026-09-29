@@ -1,0 +1,1483 @@
+1
+00:00:01,840 --> 00:00:07,040
+A2 Podcast, scopri come ottenere il massimo della tua tecnologia Apple.
+
+2
+00:00:07,040 --> 00:00:27,120
+Due professionisti, Filippo e Roberto te lo spiegano con argomenti monotematici ed ospiti che raccontano il loro flusso di lavoro, benvenuti all'episodio 83 di A2, in cui scoprire come ottenere il massimo dalla vostra tecnologia Apple.
+
+3
+00:00:27,120 --> 00:00:31,440
+Io sono Roberto Marin e sono il vostro ospite assieme all'amico Filippo Strozzi.
+
+4
+00:00:31,440 --> 00:00:33,600
+Di cosa parliamo in questo episodio, Filippo?
+
+5
+00:00:33,600 --> 00:00:51,040
+Allora, in questa puntata riprendiamo l'argomento della voce a testo, mettiamola così, ma in questo giro, visto che è il periodo ormai questo, in salsa ai, noi abbiamo accennato più che altro la dettatura vocale nella puntata 47.
+
+6
+00:00:51,280 --> 00:01:04,000
+Che quindi, nel caso, consiglio di andare ad ascoltare, ovviamente, non riapprofondiremo tutti gli argomenti già trattati in quella puntata, che, però, era legata prevalentemente alla dettatura.
+
+7
+00:01:04,000 --> 00:01:04,800
+Lo vedremo.
+
+8
+00:01:04,800 --> 00:01:06,960
+Questa puntata è diversa.
+
+9
+00:01:06,960 --> 00:01:19,040
+Dice, e cerca di sostanzialmente essere un tre di union tra le due cose, perché lo vedremo più avanti, la differenza tra dettatura e trascrizione, perché sono di fatto due cose diverse.
+
+10
+00:01:19,040 --> 00:01:25,280
+E bisogna appunto capire esattamente cosa sono e perché si differenziano.
+
+11
+00:01:25,280 --> 00:01:31,200
+È vero, anche perché sembra la stessa cosa, ma essenzialmente funzionano, anzi, hanno funzioni diverse.
+
+12
+00:01:31,200 --> 00:01:39,520
+Che può sembrare intuitivo che sia semplicemente una questione di usare la voce e trovarsi il testo, ma sono due cose diverse.
+
+13
+00:01:39,520 --> 00:01:47,440
+Dunque, essenzialmente, giusto per andare dritti al sodo, la differenza tra dettatura e trascrizione è fondamentale.
+
+14
+00:01:47,440 --> 00:01:53,360
+Perché una dettatura è praticamente la trascrizione parola per parola mentre si parla.
+
+15
+00:01:53,360 --> 00:01:59,760
+Tipicamente quando lo usate, per chi usa i vocali, mandate i vocali e pazienza dannate voi.
+
+16
+00:01:59,960 --> 00:02:13,560
+Ma volendo, se non potete diciamo mandare dei vocali, potete semplicemente attivare la funzione di dettatura che c'è su iPhone mentre mandate un messaggio o anche sul Mac e praticamente.
+
+17
+00:02:13,880 --> 00:02:20,040
+Mentre voi parlate, viene trascritto direttamente sul messaggio quello che state dicendo.
+
+18
+00:02:20,040 --> 00:02:52,120
+Devo dire che nel corso degli anni nel mondo Apple, la dettatura ha fatto passi da gigante, perché mi ricordo qualche anno fa che era veramente inutile utilizzarla, ma adesso si utilizza molto meglio, soprattutto anche perché si fa peggio in questo senso, ma la dettatura che arriva, diciamo usando una tastiera, chiamiamo così, ovvero quando avete il Mac davanti, oppure avete l'iPhone o l'iPad con la funzione di tastiera che dovete scrivere, invece, in quel caso, la dettatura è migliorata molto nel corso degli anni.
+
+19
+00:02:52,120 --> 00:03:01,400
+Mentre la trascrizione invece è qualcosa che arriva dopo, non prima, nel senso, o meglio, non mentre si parla.
+
+20
+00:03:01,400 --> 00:03:10,200
+Quindi, la trascrizione è una trasformazione in parole di un file audio di una registrazione.
+
+21
+00:03:10,200 --> 00:03:26,680
+Per chi è vecchio come noi, penso che il pensiero sia volato molto velocemente a un'app che c'era molto prima di tutti questi sistemi, se non addirittura, se non ricordo male.
+
+22
+00:03:26,680 --> 00:03:35,160
+Addirittura prima dell'iPhone, se non ricordo male, oppure era proprio nato lì in mezzo, adesso non mi ricordo più precisamente.
+
+23
+00:03:35,160 --> 00:03:42,280
+Comunque la Dragon Dictation è un'applicazione che esiste da tantissimo tempo.
+
+24
+00:03:42,280 --> 00:03:52,160
+Tant'è vero che prima del mio ingresso in Mac, quindi prima del 2006, credo di averla addirittura acquistata, devo dire la verità.
+
+25
+00:03:52,320 --> 00:04:02,960
+All'epoca comunque era abbastanza zgogolata come sistema, dovevi addirittura tale robe, dovevi fare prima il training sostanzialmente sulla tua voce per il conoscimento della dettatura.
+
+26
+00:04:02,960 --> 00:04:07,680
+Eh sì, era una cosa molto particolare, erano proprio gli albori di questa tecnologia.
+
+27
+00:04:07,680 --> 00:04:14,000
+E poi dovevi avere un computer veramente potente per farla andare decentemente, tant'è vero che io l'avevo acquistata e poi praticamente tra l'altro.
+
+28
+00:04:14,000 --> 00:04:31,680
+Poi, tra l'altro, ci vuole anche un po' di potenza, che all'epoca ce n'era poco, adesso ne abbiamo abbastanza per farlo funzionare addirittura sugli iPhone, funziona tranquillamente, mentre all'epoca non era così semplice farlo funzionare, era vista un po' come una tecnologia un po' spaziale.
+
+29
+00:04:31,680 --> 00:04:37,440
+Era una delle prime tecnologie che ci avvicinava ai temi della fantascienza, inciampando.
+
+30
+00:04:37,440 --> 00:04:47,680
+Invece adesso la fantascienza siamo, nel senso che la stiamo vivendo in pratica con l'intelligenza artificiale che c'è in questo periodo, ma tornando diciamo ai sistemi Apple.
+
+31
+00:04:47,680 --> 00:04:51,680
+Abbiamo visto però la dettatura che è entrata nei sistemi Apple da molto tempo.
+
+32
+00:04:51,680 --> 00:04:58,320
+Parliamo di OS X 10.8 Mountain Lion che è veramente vecchio.
+
+33
+00:04:58,400 --> 00:05:08,480
+Siamo nel 2012, e poi, invece, nel 2016 è arrivata l'opzione di dettatura offline e questa è molto utile.
+
+34
+00:05:08,480 --> 00:05:22,560
+Io non so voi, ma quando è arrivata su sul Mac un po' di relazioni tecniche, almeno la bozza, l'avevo già iniziata a utilizzare, era molto semplice, era molto valida.
+
+35
+00:05:22,800 --> 00:05:24,400
+L'uso a volte ancora adesso.
+
+36
+00:05:24,400 --> 00:05:27,600
+Invece di utilizzare Siri, mi sono sempre trovato bene.
+
+37
+00:05:27,600 --> 00:05:33,640
+Tu l'hai usata di recente o lo usavi all'epoca appena arrivata la dettatura di Apple sui Mac.
+
+38
+00:05:34,440 --> 00:05:44,280
+Allora, diciamo che è una di quelle cose che ho testato, ma appunto sarà il mio live motiv di questa puntata, ma come lo era nella puntata 47.
+
+39
+00:05:44,280 --> 00:05:47,080
+Tendenzialmente io scrivo abbastanza velocemente.
+
+40
+00:05:47,160 --> 00:05:48,040
+Con la tastiera.
+
+41
+00:05:48,040 --> 00:06:08,280
+Ormai scrivo con la tastiera addirittura il cosiddetto touch typing: senza guardare i tasti della tastiera e quindi per me la dettatura vocale non è mai stata una un'attività, diciamo in cui alla fine ho dedicato troppo tempo, anche perché lo dicevo nella puntata 47.
+
+42
+00:06:08,280 --> 00:06:12,680
+Una delle cose fondamentali per dettare correttamente al computer.
+
+43
+00:06:12,680 --> 00:06:27,480
+Bisogna cambiare il flusso di lavoro sostanzialmente di come ragioni, perché ovviamente devi dettare una frase di senso compiuto e quindi devi pensare una frase di senso al computer direttamente perché, se no, la dettatura è complicata, mettiamola in questi termini.
+
+44
+00:06:27,640 --> 00:06:38,760
+Altra considerazione da fare che all'epoca dovevi anche dettare la punteggiatura, e per esempio, se volevi andare a capo, devi dire nuova linea, credo una roba del genere.
+
+45
+00:06:38,760 --> 00:06:43,320
+Comunque c'era un comando apposta vocale, diciamo per fare tutta questa cosa.
+
+46
+00:06:43,320 --> 00:06:45,720
+Lo dico lo dico qui perché lo vedremo.
+
+47
+00:06:45,720 --> 00:06:49,240
+Poi invece oggi la situazione è cambiata molto.
+
+48
+00:06:49,240 --> 00:06:51,480
+Assolutamente sì, è molto evoluta.
+
+49
+00:06:51,480 --> 00:06:52,840
+Facciamo un po' di storia.
+
+50
+00:06:52,840 --> 00:07:06,680
+Abbiamo visto qualcosa di un po' più valido, almeno come risultati, è stato quello di Whisper di OpenAI nel 2022, era un sistema open source, ma il suo problema era che era un po' lentino.
+
+51
+00:07:06,920 --> 00:07:16,080
+Poi è arrivato anche Parakeet di Nvidia che io non ho utilizzato, sinceramente, mi era passato un po' sotto i ponti in quel periodo, non mi ricordo per quello.
+
+52
+00:07:14,840 --> 00:07:18,480
+Comunque parliamo dell'annuncio del 2024.
+
+53
+00:07:18,640 --> 00:07:30,080
+Poi è uscito nell'aprile del 2024, era piccolo e veloce, ma aveva dei risultati simili a Whisper, quindi era sicuramente migliore di quello di Whisper che abbiamo detto prima che era lento.
+
+54
+00:07:30,080 --> 00:07:31,920
+Tu l'avevi utilizzato invece Parakeet.
+
+55
+00:07:32,080 --> 00:07:40,320
+Ho utilizzato sia Whisper che Parakeet e attualmente io uso solo Parakeet, perché tu considera.
+
+56
+00:07:40,320 --> 00:07:43,200
+Poi ne parleremo meglio più avanti.
+
+57
+00:07:43,200 --> 00:07:52,720
+Ma tu considera che la trascrizione di 30-40, anche un'oretta di podcast, avviene in due-tre minuti al massimo.
+
+58
+00:07:52,720 --> 00:07:54,800
+Quindi, veramente molto rapido.
+
+59
+00:07:55,040 --> 00:08:02,320
+Con Whisper invece se vuoi avere dei buoni risultati, perché adesso ne parleremo poi meglio dopo.
+
+60
+00:08:02,320 --> 00:08:07,200
+Ma in sostanza esistono varie gradazioni di questi modelli di intelligenza artificiale.
+
+61
+00:08:07,200 --> 00:08:54,800
+Tuttavia per ottenere risultati migliori, devi avere un modello più grosso e quindi ovviamente il modello più grosso richiede sia maggiore spazio su Hardisk perché il modello lo devi avere anche in hard disk, ma anche in memoria e quindi anche lì a fronte del modello grosso, diciamo, il tuo computer deve avere caratteristiche maggiori, diciamo per farlo girare, quindi spesso e volentieri esistevano due, chiamavano così versioni di Whisper, quella dove ottenvi ottimi risultati con la trascrizione, ma praticamente era una uno con l'audio, quindi trascriveva più o meno un minuto di un minuto di audio con un minuto di lavoro sostanzialmente, a volte forse addirittura anche di più.
+
+62
+00:08:55,120 --> 00:09:19,320
+Quindi iniziava, un discorso fare tre minuti di trascrizione, un discorso fare una puntata del podcast, per esempio, che abitualmente richiedeva ben più tempo per essere trascritto, giusto per farti un esempio, tutte le trascrizioni del podcast che ho aggiunto, sostanzialmente due podcast, li ho fatte in due o tre ore per dare un'idea dei tempi sul mio Mac Studio.
+
+63
+00:09:19,320 --> 00:09:34,920
+Peraltro, comunque un computer ormai vecchio, ma abbastanza carozzato per l'epoca, assolutamente sì, e poi ti permette di fare un sacco di cose con l'intelligenza artificiale, almeno tu che lo vuoi usare dell'inferenza locale, stai facendo già grandi cose.
+
+64
+00:09:34,920 --> 00:09:49,240
+In ogni caso, tornando sul diciamo, mondo Apple, abbiamo visto, però, anche delle evoluzioni che io, francamente, non ho visto in prima persona, perché come sapete, un po' perché ho l'hardware leggermente datato.
+
+65
+00:09:49,560 --> 00:09:54,440
+Dall'altra parte non mi piace sprecare spazio per questo tipo di cose.
+
+66
+00:09:54,760 --> 00:10:02,280
+Sto parlando proprio con riferimento ad Apple Intelligence che non ho ancora utilizzato da quando è uscito nel 2024.
+
+67
+00:10:02,280 --> 00:10:18,360
+Quindi non ho la minima idea di come funzioni, ma in ogni caso, sicuramente è migliorato, perché, oltre alla dettatura, mette anche la punteggiatura in base alla voce, questo è interessante, ma è una situazione che ho trovato molto simile anche nella dettatura normale nei messaggi.
+
+68
+00:10:18,360 --> 00:10:23,880
+Nel senso che spesso e sovente non ho neanche bisogno di mettere le virgole, perché decide lui di dove metterle.
+
+69
+00:10:23,880 --> 00:10:34,600
+Funzionato, non so se tu hai mai provato una cosa del genere, se hai provato i messaggi, di fatto, io abitualmente ho detto i messaggi.
+
+70
+00:10:34,600 --> 00:10:51,040
+Quindi utilizzo Siri e Apple Intelligence, con risultati altalenanti, mettiamoli in questi termini, perché purtroppo, appunto, ci sono a volte problemi un po' per il riconoscimento.
+
+71
+00:10:51,120 --> 00:11:49,040
+Quindi se parli in maniera non ben cadenziata, non in maniera chiara, diciamo, credo che lo dicesse Alex nei suoi vari podcast, Siri tendenzialmente ti riconosce male la voce, poi Apple Intelligence o comunque il riconoscimento di dettatura, visto che questa puntata non mi ricorda neanche più quando verrà pubblicata, ma sicuramente sarà già uscito, saranno usciti parte almeno degli OS 27, diciamo, è previsto poi, tra l'altro, una nuova versione, diciamo, una versione migliorata, diciamo, per i sistemi tra settembre e ottobre, anche qui non ne parliamo in dettaglio perché non è ben chiaro sui vari fronti, cioè sicuramente per la versione migliorata di Siri con anche voce e dettatura saranno richiesti comunque hardware specifici e non sarà per tutti, e in più da quello che ho capito io ma prendetela con le pinze, diciamo, c'è tutto il problema dell'Euro e dell'italiano.
+
+72
+00:11:49,040 --> 00:12:00,880
+Quindi credo che la dettatura migliorata sia solo in inglese attualmente, ma sia prevista più avanti in italiano, poi c'è tutto il problema, appunto di Siri e di Apple Intelligence in Europa.
+
+73
+00:12:01,200 --> 00:12:07,840
+Questo siccome sono funzioni, diciamo che viaggiano assieme, mettiamolo in questi termini.
+
+74
+00:12:08,320 --> 00:12:20,960
+Ci sono tutte queste problematiche che vanno vanno affrontati, giusto per curiosità, ho prima di iniziare la registrazione, ho fatto dei test con il mio MacBook Air M4.
+
+75
+00:12:20,960 --> 00:12:29,240
+Qui ho installato la beta di Golden Gate, quindi è macOS 27 per intenderci, devo dire la verità.
+
+76
+00:12:29,480 --> 00:12:33,080
+Uno i microfoni del MacBook Air sono ottimi.
+
+77
+00:12:33,320 --> 00:12:57,240
+Ne abbiamo parlato forse in altre puntate, barra in altre situazioni, in altri momenti, ma devo dire la verità, ovviamente, avendo un buon microfono, o una buona serie di microfoni da verità perché poi il MacBook Air ha più microfoni, avendo un buon livello di cancellazione del rumore, l'audio che viene trasmesso, diciamo a questi sistemi è migliore.
+
+78
+00:12:57,480 --> 00:13:13,320
+Ovviamente con audio migliore il riconoscimento vocale o la trascrizione vocale migliora, devo dire la verità: appunto, ho fatto una prova veloce, ma i risultati non erano fatto male e gestiva bene la punteggiatura.
+
+79
+00:13:13,320 --> 00:13:21,240
+Quindi, poi non ti so dire se utilizzasse la versione vecchia di Apple Intelligence o quella nuova, proprio per questo motivo.
+
+80
+00:13:21,240 --> 00:13:23,640
+Quindi, però, devo dire la verità.
+
+81
+00:13:23,640 --> 00:13:27,640
+Il sistema, secondo me, ne va la pena, mettiamoli in questi termini.
+
+82
+00:13:27,640 --> 00:13:42,120
+Io credo appunto, non so se da sera, ma da quando è possibile scaricare, lavorare anche offline con questi sistemi, perché attenzione, anche qui dipende dai modelli che si caricano e dal sistema.
+
+83
+00:13:42,120 --> 00:13:49,720
+Ma nella sostanza, Apple ha un doppio binario, diciamo, puoi decidere di scaricare.
+
+84
+00:13:49,720 --> 00:13:56,520
+I modelli per la trascrizione barra dettatura sul device e in quel caso lavorano offline.
+
+85
+00:13:56,520 --> 00:14:32,720
+Chiamoli così, anche se poi il device è caso mai collegato a internet, poi invece evitati di scaricare questi modelli, e in questo caso, ovviamente, la trascrizione avviene lo stesso, ma devi avere una connessione via internet, sostanzialmente, e quindi tutto l'audio viene poi passato a un server Apple che fa poi la vera e propria trascrizione, quindi, anche qui, a volte, per essere sicuri, diciamo che la trascrizione sia fatta in locale, il top sarebbe quello di togliere il wifi barra la connessione cellulare e verificare.
+
+86
+00:14:32,720 --> 00:14:35,760
+Però, per esempio, per mandare un messaggio, non ha molto senso.
+
+87
+00:14:36,160 --> 00:14:47,280
+No, assolutamente no, però sono due questioni molto interessanti, perché comunque l'aspetto della dettatura ha qualche problema, sia che si usi in locale che in cloud.
+
+88
+00:14:47,520 --> 00:14:57,760
+Nel senso, in locale, hai un problema probabilmente di hardware e probabilmente di spazio, e soprattutto in base al modello che si utilizza, chiaramente.
+
+89
+00:14:58,000 --> 00:15:00,000
+Tuttavia, dall'altra parte sul cloud.
+
+90
+00:15:00,320 --> 00:15:07,040
+Nel mio caso, è un problema avere la connessione internet che permette di mandare un audio a un altro server.
+
+91
+00:15:07,040 --> 00:15:36,480
+Quindi c'è una doppia diciamo un doppio problema nel senso da considerare, poi nel caso in cui abbiate spazio da vendere e fibra, avete solo l'imbarazzo della scelta, ma chi magari deve fare una scelta di questo tipo, queste due caratteristiche, secondo me, vanno sottolineate e rese chiare, perché comunque possono indicare più di scegliere la parte locale o la parte cloud.
+
+92
+00:15:36,480 --> 00:15:40,800
+Adesso, questo qui dipende un po' dalle rispettive preferenze.
+
+93
+00:15:40,800 --> 00:16:07,400
+E poi, ovviamente, dobbiamo anche parlare dell'intelligenza artificiale, che in effetti potrebbe aiutare l'equazione che può intervenire prima dell'invio a un altro server, perché potrebbe anche ripulire e dagli una ripulita all'audio e poi riuscire a mandarlo a magari anche ottimizzato e riuscite anche a mandare via il file come se voi abitaste in SAR, come sono io.
+
+94
+00:16:07,800 --> 00:16:09,080
+È lievamente diverso.
+
+95
+00:16:09,080 --> 00:16:14,840
+Il concetto è il contrario: nel senso, attualmente il sistema come funziona.
+
+96
+00:16:16,360 --> 00:16:18,840
+Così facciamo alcune precisazioni.
+
+97
+00:16:18,840 --> 00:16:47,240
+Di fatto Whisper nasce come open source, ma poi OpenAI e tutti quelli che utilizzano questo sistema o sistemi paralleli, perché poi non entreremo proprio nel dettaglio, ma ovviamente vari provider e hai, hanno poi implementato funzioni simili a quelle di Whisper sostanzialmente, Whisper nasce open source e nasce con la possibilità di funzionare, diciamo, in locale.
+
+98
+00:16:47,240 --> 00:16:52,280
+Ma i modelli più avanzati di riconoscimento di trascrizione del testo, diciamo.
+
+99
+00:16:52,280 --> 00:16:59,320
+Adesso sono via API, quindi attraverso un sistema web sostanzialmente.
+
+100
+00:17:00,040 --> 00:17:49,680
+Richiedono ovviamente di inviare, ovviamente pagare, perché mettiamolo in chiaro o paghi o diciamo, paghi collateralmente, perché poi l'audio viene eventualmente passato ai vari sistemi per avere testo da mangiare da far mangiare all'intelligenza artificiale dei vari LLM, avendo la possibilità di avere dei server, diciamo questi sistemi simulano la velocità, nel senso, sembrano fare trascrizione in tempo reale, semplicemente perché il passaggio dati è talmente veloce, mettiamola così, che in pratica mentre tu detti, parte dell'audio viene mandato a questi server, il server trascrive progressivamente e rimanda il testo che è velocissimo, perché ovviamente il testo si muove molto velocemente.
+
+101
+00:17:50,320 --> 00:18:00,960
+Una cosa, ovviamente parlando come parliamo adesso, abbiamo appunto tutte queste frasi idiomatiche, gli em e così via.
+
+102
+00:18:01,280 --> 00:18:29,200
+Spesso e volentieri, soprattutto con la trascrizione utilizzando Whisper e modelli simili, alcune cose vengono cancellate direttamente dal modello, che utilizza comunque intelligenza artificiale rispetto ai modelli, diciamo canonici, dove, per esempio, dovevi proprio come Dragon Dictation, dove proprio invece dovevi insegnare come parlavi sostanzialmente a questi sistemi algoritmici, poi perché sono diversi da large language model sostanzialmente.
+
+103
+00:18:29,200 --> 00:18:51,120
+Certo, ma una cosa che volevo sottolineare è un'esperienza direttamente mia, non si parla proprio di dettatura, ma diciamo che è una cosa un po' particolare, visto che parliamo di intelligenza artificiale, ho avuto una simpatica conversazione con l'intelligenza artificiale, mentre stavo andando in un posto, in una mezz'oretta di trasporto.
+
+104
+00:18:51,120 --> 00:18:59,280
+E la cosa mi ha molto affascinato, perché in effetti era un bot a risposta e il tutto era anche trascritto in tempo reale.
+
+105
+00:18:59,280 --> 00:19:01,040
+E la cosa mi ha molto affascinato.
+
+106
+00:19:01,040 --> 00:19:07,040
+Perché oltre a sentire la voce, sembrava veramente di avere una persona in macchina di raccontare le cose.
+
+107
+00:19:07,040 --> 00:19:14,400
+Ma la cosa interessante è che appunto tutta la chat vocale si è trasformata come per magia in testo e quindi riutilizzabile.
+
+108
+00:19:14,400 --> 00:19:37,240
+E la cosa impressionante è che allora tu consideri che è una finzione, cioè nel senso il tuo audio veniva trascritto, ma l'intelligenza artificiale scriveva prima il testo e poi veniva convertito in audio che tu ascoltivi quindi di fatto che comunque era molto la risposta era impressionante, nel senso che ti trovavi la risposta subito.
+
+109
+00:19:37,560 --> 00:19:56,920
+E questa qui potrebbe anche essere un altro tipo, sto pensando appunto, da voce al testo, perché in effetti, in qualche modo comunque, se gli poni una domanda, gli spieghi un problema è quasi una trascrizione del tuo pensiero, che poi può essere, diciamo, allargato dall'intervento dell'intelligenza artificiale.
+
+110
+00:19:56,920 --> 00:20:03,560
+Esatto, comunque tornando all'argomento di prima, nella sostanza, cosa si fa, cioè cosa si può fare, diciamo?
+
+111
+00:20:03,560 --> 00:20:13,720
+Siccome appunto il testo trascritto, comunque vada, diciamo, non è mai perfetto, sia perché appunto parlando, comunque fai delle perifrasie e così via.
+
+112
+00:20:14,360 --> 00:20:50,200
+Questa prima trascrizione, che come dicevo, non è perfetta casomai, appunto non riconosce tipicamente, quando faccio le trascrizioni, Filippo lo riconosce, ma Strozzi, solitamente viene a strozzi, roba del genere, si riescono, si riesce a fare un secondo passaggio con il large language model, in cui nella sostanza il large language model può da una parte migliorare il testo proprio a livello di comprensibilità, una frase che casomai non era perfetta a livello di senso compiuto o struttura grammaticale della frase, perché appunto casomai ho detto.
+
+113
+00:20:50,360 --> 00:20:57,480
+Adesso ho appena detto appunto, che in un testo scritto, diciamo, non ci starebbe, mettiamola in questi termini.
+
+114
+00:20:57,720 --> 00:22:12,720
+Ebbene, l'intelligenza artificiale e il large language model riescono a ottimizzare e migliorare il testo, quindi, nella sostanza, il testo che viene dettato può essere ripulito da una parte, facendo un doppio passaggio, ovviamente, prima passa dal modello che trascrive da audio a testo, e poi da un large language model, che sia GPT piuttosto che anche un modello locale, ovviamente i tempi si allungano per una pulizia, ma addirittura per un'ottimizzazione e trasformazione, per cui, per esempio, lo vedremo con le applicazioni poi più performanti e che abitualmente richiedono anche un abbonamento, ma teoricamente si può fare anche in locale, accettando ovviamente dei compromessi tecnici, mettiamola così, nella sostanza, io posso, per esempio, dettare un'email molto randomico, addirittura utilizzare dei termini gergali e così via, e poi fare un passaggio al large language model per cui, non so, gli chiedo di dire le stesse cose, ma in tono professionale, in modo logico, in modo chiaro, utilizzando un tono neutro, quindi non so, dico non capisci niente.
+
+115
+00:22:12,880 --> 00:22:22,000
+Invece, il large language model trasforma dicendo: Sono rimasto un po' perplesso da questa tua affermazione, non so se mi spiego.
+
+116
+00:22:22,240 --> 00:22:34,400
+Quindi, anche qui diciamo un doppio utilizzo di questi differenti strumenti, ma che ti permettono un flusso di lavoro molto diciamo avanzato potenzialmente.
+
+117
+00:22:34,400 --> 00:22:42,640
+Certamente, tra le altre cose, stavo pensando che comunque alla fine scrivere un pensiero è diverso che dirlo.
+
+118
+00:22:42,640 --> 00:22:45,760
+Non so se mi sono spiegato, c'è proprio.
+
+119
+00:22:46,400 --> 00:22:55,360
+Mi sono scontato anch'io sotto questo punto di vista con la dettatura, che una cosa dettare, una cosa iscrivere sono due cose diverse.
+
+120
+00:22:55,520 --> 00:23:06,280
+Per esempio, come bozza, esatto, tendenzialmente detti parlando, quindi appunto, utilizzi quello che stiamo facendo, noi, sostanzialmente stiamo chiacchierando io e te assieme.
+
+121
+00:23:06,520 --> 00:23:49,320
+Abitualmente, però, non scrivere, anche i dialoghi, diciamo quelli più famosi, socratici e così via, sono scritti e pensati e non raccontati come due chiacchiere al bar, il large model effettivamente possono diciamo reinstradare, e meno male, per esempio, le sinossi delle puntate del podcast, sono questo: io ho passato la trascrizione della puntata, addirittura appunto, ho fatto fare un doppio passaggio, gli ho fatto ottimizzare le parole tecniche che abitualmente sbaglia nella trascrizione, mettere a posto delle cose e poi, dopo da quella ho estrapolato, diciamo la sinossi poi delle episodi.
+
+122
+00:23:50,120 --> 00:24:20,280
+Ma adesso direi di passare tranquillamente al mondo Apple, perché nel mondo Apple, tra altre cose, è tutto incluso nei sistemi operativi, volevo appunto chiederti a questo punto come utilizzarli, cosa si può utilizzare nel mondo Mac, io Sai da OS dove e come, ma soprattutto una domanda fondamentale, è immagino che si chiedono un po' tutti perché dovrei registrare un memo invece di aprire note e dettare.
+
+123
+00:24:20,280 --> 00:24:26,440
+Esatto, nella sostanza, quello che abbiamo, la parte chiamano così più teorica che abbiamo fatto all'inizio.
+
+124
+00:24:26,440 --> 00:24:32,120
+Adesso andiamo nella parte così detta pratica, di utilizzare i propri strumenti al meglio, mettiamola così.
+
+125
+00:24:32,280 --> 00:24:46,720
+Tutti questi strumenti che hai appena accennato, c'è anche comandi rapidi, giusto per chiudere il cerchio delle applicazioni che si possono utilizzare nel mondo Apple, sostanzialmente poi utilizzano dentro lo stesso sistema.
+
+126
+00:24:47,120 --> 00:25:00,240
+Quindi è ovvio che il sistema di dettatura di Apple si declina in differenti vari applicazioni che ovviamente possono essere utilizzati per scopiamo così differenti e modalità differenti.
+
+127
+00:25:00,240 --> 00:25:08,000
+Diciamo che appunto la dettatura Apple una volta attivata si deve andare in impostazioni sostanzialmente.
+
+128
+00:25:08,320 --> 00:25:20,320
+In un posto stranissimo, diciamo che in un posto che non è automatico, ma nel sottomenu tastiera e all'interno del sottomenu tastiera si trova detatura.
+
+129
+00:25:20,320 --> 00:25:33,360
+Nella dettatura è possibile utilizzare appunto la dettatura per scrivere va abilitata, solitamente quando l'abiliti poi scarica anche tutto il materiale si può scegliere la lingua.
+
+130
+00:25:33,360 --> 00:25:45,040
+Addirittura teoricamente non l'ho mai provato in senso tecnico, anche perché il mio inglese non è seppur lo leggo e scrivo in maniera e lo ascolto senza problemi lo parlo poco.
+
+131
+00:25:45,040 --> 00:25:50,640
+Tuttavicamente puoi utilizzare anche la dettatura in più linguaggi, diciamo.
+
+132
+00:25:51,120 --> 00:26:06,640
+Ovviamente se stiamo parlando del Mac, da avere un microfono e quindi selezionare il microfono che si vuole utilizzare e poi c'è la possibilità di scegliere l'abilitazione tastiera che si vuole utilizzare.
+
+133
+00:26:06,640 --> 00:26:38,440
+Perché in estrema sintesi, se si utilizzano le tastiere nuovi di Apple, in pratica ci sono due modi per attivare la detatura vocale, ovvero cliccare o premere due volte in sequenza abbastanza veloce il tasto globo, diciamo che è un tasto specifico di Apple ormai, oppure F5, cioè il microfono, e in questo caso appunto si avvia sostanzialmente alla dettatura vocale su Mac, ma anche su iOS si vede la dettatura vocale.
+
+134
+00:26:38,440 --> 00:26:51,720
+Perché praticamente nell'area, diciamo dove si è attivata la dettatura vocale, sotto il cursore c'è un'icona di un microfono verde o blu dipende poi dagli accenti dell'interfaccia.
+
+135
+00:26:51,880 --> 00:26:54,680
+A questo punto si può iniziare a dettare.
+
+136
+00:26:54,680 --> 00:27:16,440
+Apro qui una parentesi, perché adesso non mi ricordo più in quale sistema operativo da quale sistema operativo funziona, ma credo appunto da iOS 18 e da non mi ricordo più quale Mac, sostanzialmente la nuova funzione di dettatura ha anche un'opzione per cui io se vedo che la dettatura non sta andando come voglio io.
+
+137
+00:27:16,440 --> 00:27:23,720
+O per altri motivi devo scrivere, non so, una parola per esempio, Marin casomai non me lo becca il primo colpo.
+
+138
+00:27:24,360 --> 00:27:32,120
+Se voglio scrivere la parola Marin lo posso fare direttamente con la tastiera e non mi interrompe la dettatura e questo è molto comodo.
+
+139
+00:27:32,520 --> 00:27:35,480
+Mi ricordo che quando era uscita, ti aveva stupito molto.
+
+140
+00:27:35,480 --> 00:27:38,040
+Effettivamente è effettivamente molto molto comodo.
+
+141
+00:27:38,280 --> 00:27:50,600
+Perché un doppio sistema diventa molto intuitivo una volta che sai che esista, esattamente, un po' come tutti i sistemi o le scorciature da tastiza.
+
+142
+00:27:51,080 --> 00:27:53,480
+Quando te le ricordi, le usi.
+
+143
+00:27:53,640 --> 00:27:54,360
+Attenzione!
+
+144
+00:27:54,360 --> 00:28:07,320
+Perché un discorso di dettatura un discorso di controllo vocale soprattutto su Mac, ma penso che sia presente anche su iOS, non ne parliamo oggi e sono due cose diverse quindi bisogna bisogna tenerle separati.
+
+145
+00:28:07,320 --> 00:28:28,960
+Abbiamo già detto appunto che progressivamente lo strumento in generale è migliorato molto e probabilmente con gli OS 27, cioè quelli che stanno che usciranno a settembre-ottobre 2026, dovrebbero esserci delle migliori, sicuramente in lingua inglese, probabilmente se non subito, forse anche in lingua italiana.
+
+146
+00:28:29,120 --> 00:28:35,280
+Quindi, comunque già i risultati gratuiti di Apple sono, secondo me, notevoli.
+
+147
+00:28:35,280 --> 00:28:56,240
+A questo punto, quindi, diciamo, con questo sistema si può sostanzialmente utilizzare la dettatura in qualsiasi parte dell'OS, diciamo, e abitualmente viene utilizzato almeno dovrebbe essere utilizzato in quelle applicazioni che, diciamo, non hanno in sé per sé la dettatura, ma che possono utilizzarla.
+
+148
+00:28:56,240 --> 00:29:05,760
+Nella sostanza, per esempio, in iOS, HOS, c'è il pulsante del microfono, e quindi è possibile, cliccando su quel pulsante lì, si attiva la dettatura vocale.
+
+149
+00:29:05,760 --> 00:29:13,120
+Appunto, come dicevo, in macOS, invece si utilizzano i tasti, addirittura si possono scegliere dei tasti diversi.
+
+150
+00:29:13,120 --> 00:29:29,200
+Io, per esempio, per macOS, appunto quando non ho la tastiera di ordinanza Apple, mettiamola in questi termini, ho messo una scacciato a tastiera specifica perché, se no, non avrei la funzione non riuscirei a farla partire.
+
+151
+00:29:29,360 --> 00:29:31,840
+E poi ci sono anche altre applicazioni.
+
+152
+00:29:31,840 --> 00:29:39,040
+Tra l'altro, ma ce n'era una che mi incuriosiva, che memo vocali, tendenzialmente viene utilizzata per la registrazione delle memo.
+
+153
+00:29:39,040 --> 00:30:03,080
+Però può anche fare la trascrizione, diciamo: di fatto, ormai la fa in automatica, ma una cosa che ti volevo chiedere, perché giustamente leggendo la scaletta, c'era un punto che non ho mai utilizzato, e volevo chiederti due particolarità se le conosci, ovvero l'utilizzo di Apple Watch per iniziare la memo vocale.
+
+154
+00:30:03,080 --> 00:30:15,480
+La domanda è: la memo vocale viene registrata sull'Apple Watch o su iPhone, quale dei due microfoni utilizza quello dell'Apple Watch, se la via Apple Watch o su iPhone?
+
+155
+00:30:15,480 --> 00:30:21,960
+E coglio impreparato perché questa è una domanda difficile, bisogna fare delle prove.
+
+156
+00:30:21,960 --> 00:30:27,000
+No, allora devo dirti la verità: non lo utilizzo per vari motivi.
+
+157
+00:30:27,000 --> 00:31:07,320
+Come ti dicevo di fatto la detaltura vocale io lo uso pochissimo, devo dirti la verità: ho utilizzato i memo vocali, ma quello direttamente su iPhone, perché c'è un grosso vantaggio su iPhone, soprattutto quelli che più nuovi, più recenti, ovvero tutti i dispositivi Apple in generale abbastanza recenti, ha la possibilità di quello che adesso ogni volta me lo scordo come si chiama: dell'isolamento vocale e l'isolamento vocale migliora notevolmente, ovviamente, la cattura dell'audio e conseguentemente poi la trascrizione.
+
+158
+00:31:07,320 --> 00:31:11,960
+Per cui ho fatto varie prove, non so se non te ne avevo neanche parlato.
+
+159
+00:31:11,960 --> 00:31:15,880
+O forse sì, forse ne avevamo parlato in chat con Lucio Barragnolo.
+
+160
+00:31:15,880 --> 00:31:22,440
+Sostanzialmente mentre uso il Tapirulan, o comunque faccio, perché poi le passeggiate sono più complicati.
+
+161
+00:31:22,440 --> 00:31:25,160
+Mi sembra mi sembra di essere un po' mongoloide.
+
+162
+00:31:25,400 --> 00:31:37,320
+Tuttavia, parlo da solo, mettiamola in questi termini, utilizzo appunto il microfono dell'iPhone per catturare la voce, e in questi casi invece è utile, diciamo, perché penso ad alta voce sostanzialmente.
+
+163
+00:31:37,320 --> 00:31:43,880
+Ed è uno dei modi, secondo me, anche molto utili di utilizzare sia la trascrizione che l'intelligenza artificiale.
+
+164
+00:31:43,880 --> 00:31:48,160
+Penso e ragiono le mie cose, parlo ruota libera, mettiamola in questi termini.
+
+165
+00:31:44,840 --> 00:31:50,720
+A questo punto ho la trascrizione in memo vocale e così via.
+
+166
+00:31:50,880 --> 00:31:58,960
+Il vantaggio dei memo vocali è che per esempio posso registrare sull'iPhone, ma poi la trascrizione.
+
+167
+00:31:58,960 --> 00:32:05,520
+Se ovviamente ho messo la sincronizzazione nel cloud, me la ritrovo anche sui vari computer.
+
+168
+00:32:05,520 --> 00:32:09,120
+Quindi dal computer poi posso estrapolare la trascrizione e così via.
+
+169
+00:32:09,120 --> 00:32:18,000
+Poi è ovvio che si possono fare anche automazioni con comandi rapidi insomma, si possono fare svariate cose volendo la fare così.
+
+170
+00:32:18,000 --> 00:32:19,600
+Tuttavia, tendenzialmente.
+
+171
+00:32:19,760 --> 00:32:26,880
+In questa maniera appunto con il memo vocale hai tutto lì lì in maniera semplice e riesce a fare tutto.
+
+172
+00:32:26,960 --> 00:32:35,840
+L'altra cosa comoda dei memo vocali è che registra anche dagli auricolari quindi se hai AirPods o roba del genere hanno un microfono.
+
+173
+00:32:35,840 --> 00:32:51,120
+È ovvio che l'audio peggiorerà in questo caso perché l'audio Bluetooth sostanzialmente salvo gli AirPods Pro credo, la registrazione audio degrada molto e quindi è per quello che ti dicevo sul Tapiroland per esempio che fa molto confusione.
+
+174
+00:32:51,120 --> 00:32:53,440
+L'isolamento vocale diventava molto comodo.
+
+175
+00:32:53,440 --> 00:33:03,600
+Perché a quel punto lì invece mi isolava la voce dal rumore, diciamo del tapirulan che va sostanzialmente quindi in questi casi lo trovo molto comodo.
+
+176
+00:33:03,920 --> 00:33:12,080
+Ammetto che ormai, anche se non piace, è molto sdoganata le persone che parlano al telefono tenendosi il telefono in mano.
+
+177
+00:33:12,080 --> 00:33:17,760
+Quindi, in questo caso, per esempio, può diventare molto comodo utilizzare così l'iPhone.
+
+178
+00:33:17,760 --> 00:33:24,000
+Il memo vocale appunto sull'Apple Watch, non l'ho mai utilizzato, proprio con un motivo lì.
+
+179
+00:33:24,000 --> 00:33:36,920
+Perché comunque sostanzialmente sembri lo 007 che parla con l'orologio, peraltro, ho fatto delle telefonate con l'Apple Watch e tutti mi hanno guardato piuttosto male.
+
+180
+00:33:36,920 --> 00:33:39,480
+Quindi direi che non è il top.
+
+181
+00:33:39,560 --> 00:33:44,440
+Mettiamola così restare 20 minuti a parlare con l'Apple Watch, potresti sembrare un'imica normale.
+
+182
+00:33:44,440 --> 00:33:47,080
+A prescindere che è scomodo perché devi tenerlo.
+
+183
+00:33:47,080 --> 00:33:52,520
+Cioè, comunque per una buona registrazione, dovresti avvicinare il polso alla bocca.
+
+184
+00:33:54,280 --> 00:33:55,160
+Dal mio punto di vista.
+
+185
+00:33:55,400 --> 00:33:58,200
+Se devi fare una registrazione ricordati di fare questo.
+
+186
+00:33:58,200 --> 00:34:04,200
+Non so, io spesso volentiero uso l'Apple Watch per mandare messaggi a mia moglie, però sono messaggi brevi.
+
+187
+00:34:04,360 --> 00:34:08,280
+Sto tornando a casa, è successo questa cosa qua.
+
+188
+00:34:08,280 --> 00:34:14,200
+Quindi, sì, per brevissime registrazioni, ma a quel punto lì, non so quanto ne vaga la pena usare il memorale per fare una roba del genere.
+
+189
+00:34:14,200 --> 00:34:16,360
+Tuttavia, sono riuscito a trovare la risposta.
+
+190
+00:34:16,360 --> 00:34:21,160
+Come sempre, aiutato l'intelligenza artificiale, che può commettere errori, quindi bisogna verificare.
+
+191
+00:34:21,160 --> 00:34:37,720
+Dice che se tu avvi il memo vocale da Apple Watch, utilizza in effetti il microfono di Apple Watch, lascia momentaneamente la registrazione sull'Apple Watch, che poi viene sincronizzata con il dispositivo iPhone.
+
+192
+00:34:37,720 --> 00:34:38,600
+Poteva essere utile.
+
+193
+00:34:38,600 --> 00:35:03,000
+Ad esempio, sto pensando alla tipica situazione di architetto che magari ha un blocco note in mano per prendere appunti, o sta facendo dei rilievi e discorrendo, allora hai già l'Apple Watch sul posto sinistra che ti tiene sulla cartellina per scrivere, quindi è già messo in posizione molto più alta rispetto che lungo il corpo e quindi poteva essere utile come possibile punto di registrazione.
+
+194
+00:35:03,000 --> 00:35:08,840
+Ma era solo una mia curiosità, si, però, tu considera anche questa cosa.
+
+195
+00:35:08,880 --> 00:35:11,160
+Poi anche lì sarebbe da verificare.
+
+196
+00:35:11,160 --> 00:35:16,400
+Ma se sei fuori, mettiamola in questi termini, l'Apple Watch, si collega via Bluetooth al telefono.
+
+197
+00:35:16,480 --> 00:35:34,240
+Quindi, tra l'altro, trascrivere a prescindere dallo spazio che è sull'Apple Watch, che non deve essere infinito, anzi, soprattutto se l'Apple Watch è vecchio, ma secondariamente, se fai un vocale lungo, diciamo 10 minuti, hai anche il problema che il trasferimento sull'iPhone richiederà poi molto tempo.
+
+198
+00:35:34,400 --> 00:35:48,960
+Perché via Bluetooth comunque nella sostanza, credo che sia molto più comodo l'utilizzo dell'iPhone, salvo casi eccezionali piuttosto, appunto, conviene utilizzare wireless, diciamo per registrare la voce.
+
+199
+00:35:48,960 --> 00:35:49,920
+Secondo me poi.
+
+200
+00:35:49,920 --> 00:35:59,120
+Dopo ognuno, poi come al solito ognuno ha il suo modo di approcciare la cosa, le comodità o le particolarità specifiche.
+
+201
+00:35:59,120 --> 00:36:05,840
+Noi cerchiamo di fare più esempi possibili, ma in base anche alle nostre specifiche esigenze.
+
+202
+00:36:05,840 --> 00:36:06,400
+Certamente.
+
+203
+00:36:06,400 --> 00:36:14,400
+E tra altre cose, adesso se vuoi parlare ancora di Apple Note o comandi rapidi nello specifico, vuoi passare alle app a pagamili?
+
+204
+00:36:14,640 --> 00:36:21,040
+Un cenno, io lo farei, diciamolo, Apple note comunque ha le funzioni di trascrizione.
+
+205
+00:36:21,280 --> 00:36:26,080
+Una cosa che segnalo, perché, per esempio, invece potrebbe interessare a te sono comandi rapidi.
+
+206
+00:36:26,080 --> 00:36:33,840
+Comandi rapidi ha due funzioni, due azioni specifiche, sono, tra altre cose, molto semplice da utilizzare: o la funzione di trascrizione.
+
+207
+00:36:34,000 --> 00:36:44,080
+Quindi tu gli passi direttamente il file da trascrivere, e a quel punto lì ti genera poi la trascrizione e eventualmente tu la salvi dove vuoi salvarla.
+
+208
+00:36:44,400 --> 00:36:54,880
+Ma l'altra cosa che potrebbe interessarti è la dettatura del testo, che appunto un comando rapido, per esempio, può essere invocato utilizzando Siri.
+
+209
+00:36:54,880 --> 00:37:14,840
+Quindi poi attivare la dettatura vocale invocando e i Siri e il nome del comando rapido, e ovviamente con la dettatura del testo hai varie opzioni, io solitamente utilizzando se devo utilizzare il tocco, perché mi attiva la dettatura va avanti fino a che io non do il tocco.
+
+210
+00:37:14,840 --> 00:37:48,600
+Tuttavia, c'è la possibilità, per esempio, di aspettare una breve pausa o addirittura quando smetti di parlare in automatico viene salvato il testo, viene fatta la trascrizione finale, diciamo, a questo punto, poi per esempio puoi impostare questo comando che una volta che la trascrizione è stata finita, venga salvata in una cartella specifica dell'iPhone, piuttosto che la sincronizzazione cloud o robe del genere e quindi in questa maniera velocizzi molto, è già tutto salvato e sai dove è salvato, tra virgolette, ed è anche già sincronizzata e così via.
+
+211
+00:37:48,600 --> 00:38:00,520
+Quindi, secondo me, questo aspetto è da tenere presente perché appunto, per esempio in cantiere addirittura tu hai l'iPhone 14 ce l'ha il nuovo tasto, quello programmabile di Apple.
+
+212
+00:38:00,520 --> 00:38:21,560
+No, no, no, no, sono ancora anziano come, per esempio, appunto, puoi utilizzare il tasto per far partire per esempio la registrazione, o addirittura avere sul telefono, per esempio, un comando rapido di quelli che puoi pigiare, diciamo, a quel punto lì farlo partire dalla home per esempio.
+
+213
+00:38:21,560 --> 00:38:24,440
+Quindi, dopo si possono fare varie cose interessanti.
+
+214
+00:38:24,440 --> 00:38:28,600
+Segnalo per chi fosse interessato, ovviamente i comandi rapidi oggi.
+
+215
+00:38:28,920 --> 00:38:32,040
+In accenno velocemente sono azioni molto semplici.
+
+216
+00:38:32,040 --> 00:38:37,320
+Quindi, comunque non richiedono chissà cosa, diciamo, si riescono a fare molto facilmente.
+
+217
+00:38:37,320 --> 00:38:49,040
+Ma se interessa, abbiamo fatto due puntate: la 24 e la 26, la 24 sulle basi, la 26 invece sui flussi, si chiamiamo così più avanzati per utilizzare comandi rapidi.
+
+218
+00:38:49,680 --> 00:39:05,600
+Se c'è interesse, tra l'altro, possiamo anche fare una nuova, o più nuove puntate di approfondimento, anche perché effettivamente con OS 27, diciamo, ci sono delle cose interessanti che vanno valutate.
+
+219
+00:39:05,600 --> 00:39:28,400
+Direi, però, a questo punto di andare a vedere invece applicazioni un po' più un po' più interessanti, mettiamola così, un po' più fuori dal mondo Apple, ma ancora gratuite, perché noi qui viviamo sul non vogliamo pagare niente, come avete sentito, Filippo è rimasto influenzato dal mio modo di percepire l'informatica.
+
+220
+00:39:28,400 --> 00:39:32,880
+Vado io, sì, sì, vai pure tu, sono due applicazioni, tra l'altro che non conosco.
+
+221
+00:39:33,200 --> 00:39:34,560
+Devo dire la verità.
+
+222
+00:39:34,560 --> 00:39:44,480
+La prima l'ho testata velocemente, la seconda l'ho trovata nel momento in cui abbiamo fatto questi approfondimenti per la preparazione di questa puntata.
+
+223
+00:39:44,480 --> 00:39:50,480
+La prima applicazione si chiama FluidVoice e devo dire la verità: mi è piaciuta molto.
+
+224
+00:39:50,480 --> 00:40:06,640
+Perché, nella sostanza, fa buona parte di quello che fanno già le applicazioni a pagamento, ma è gratuita e open source, nella sostanza, questa applicazione permette di fare veramente una quantità di cose eccezionali da un certo punto di vista.
+
+225
+00:40:06,640 --> 00:40:44,600
+Cioè innanzitutto, poi è un'interfaccia grafica che ti permette di utilizzare appun i modelli di cui abbiamo parlato inizialmente, ovvero Parakeet, Whisper, Whisper addirittura Apple Speech che è il modo di definire il sistema di riconoscimento vocale di Apple, e quindi questo sostanzialmente permette anche all'utente inesperto, perché apro qui una parentesi, non l'abbiamo detto all'inizio, ma il piccolo cavillo di poter utilizzare gratuitamente Whisper piuttosto che Parakeet e altri sistemi, è che tutti questi sistemi però funzionavano in righe di comando.
+
+226
+00:40:45,080 --> 00:41:05,800
+Diciamo a livello di comodità, non è il massimo, mettiamola così, addirittura giusto solo per dare contezza della vicenda, Whisper funziona solo esclusivamente con i file di WAV, cioè la registrazione grezza, diciamo, non funziona invece con gli MP3.
+
+227
+00:41:05,800 --> 00:41:22,040
+Per cui oltre a dover fare tutta righe di comando, non solo c'era da fare tutta righe di comando, ma c'era anche da fare spesso e volentieri la conversione da MP3, il formato diciamo così, lo stai ascoltando, stai ascoltando questo podcast in MP3.
+
+228
+00:41:22,120 --> 00:41:25,480
+Il formato che viene utilizzato più spesso per registrare audio.
+
+229
+00:41:25,480 --> 00:41:50,520
+Quindi, comunque l'utilizzo di questi strumenti non era per tutti, anzi, pochi smanettoni, anche io devo dire la verità, ho sempre preferito utilizzare l'interfaccia grafica che mi rendesse le cose più semplici, anche perché anche qui, per esempio, ci sono differenti modelli, devi poi scegliere differenti tipologie di modelli con pesi differenti, con caratteristiche differenti.
+
+230
+00:41:50,520 --> 00:41:56,920
+I modelli di base, per esempio, di Whisper sono solo per l'inglese, ci sono anche modelli multilingua come anche l'italiano.
+
+231
+00:41:56,920 --> 00:42:04,280
+Quindi anche lì devi sapere cosa vuoi cosa vuoi utilizzare, scaricarlo, installarlo e così via.
+
+232
+00:42:04,280 --> 00:42:27,680
+Quindi, effettivamente, diciamo le versioni diciamo open ma gratuite, soprattutto fino a qualche annetto fa, erano in affrontabili, mettiamoli in questi termini, tornando a Fluid a FluidVoice, sostanzialmente è gratuito, open source, funziona come COS, è un'applicazione di dettatura, quindi funziona nelle funzioni locali.
+
+233
+00:42:27,680 --> 00:42:30,960
+Innanzitutto, ovviamente anche qui il solito discorso.
+
+234
+00:42:30,960 --> 00:43:03,120
+Il tuo computer deve avere le caratteristiche idonee per farlo funzionare, ha una serie di funzioni aggiuntive che si chiamano Fluid Intelligence, che però sono separate quindi si possono non utilizzare, anzi, io consiglio di non utilizzare, ovviamente, essendo un'applicazione che utilizza, deve registrare la voce, nei Mac moderni, sostanzialmente bisogna dare accesso al microfono e eventualmente l'accessibilità perché anche FluidVoice, poi sostanzialmente collegarla a una scocciato a tastiera.
+
+235
+00:43:03,120 --> 00:43:17,040
+Quindi poi premere un tasto, poi sostituire in pratica il tasto per esempio per la dettatura vocale di Apple con FluidVoice, e a questo punto utilizzare questi modelli per dettare, devo dire la verità.
+
+236
+00:43:17,040 --> 00:43:35,200
+Io ho fatto qualche esperimento su modelli di piccole dimensioni, apre e chiudo un'ulteriore parentesi, anche per Roberto che non è un amante di queste cose, ma il modello più piccolo di Parakeet che funziona relativamente bene, ha una buona velocità e un buon riconoscimento.
+
+237
+00:43:35,200 --> 00:43:42,880
+Si parla del 92% che non è malaccio ed è multilingua, occupa meno di 500 MB.
+
+238
+00:43:43,200 --> 00:43:54,880
+Comunque esatto, poi ovvio che se vuoi andare su modelli con capacità migliori di riconoscimento, allora lo spazio aumenta.
+
+239
+00:43:55,160 --> 00:44:13,800
+Però, insomma, è un'applicazione Cina che non pesa tantissimo, arriverà a pesare secondo me col modello intorno ai 700 megabyti quindi una cosa abbastanza interessante, comoda, scarica, ovviamente si scarica non è nell'app store, ma si scarica direttamente dal sito e così via.
+
+240
+00:44:13,800 --> 00:44:41,720
+L'altra applicazione che è simile di fatto fa più o meno le stesse cose: si chiama WhisperDictation tutte queste applicazioni, anche quelle a pagamento lo scopriremo poi dopo, ma sostanzialmente cosa hanno fatto di base, utilizzavano, poi nel tempo hanno aggiunto vari pezzi, ma utilizzavano il Whisper e semplicemente sopra Whisper veniva creato un'interfaccia grafica per funzionare.
+
+241
+00:44:41,720 --> 00:45:02,360
+Ovviamente prima sono nate le applicazioni, che chiamavano così a pagamento, mettiamola così e poi anche a fronte del fatto che alcune applicazioni hanno caratteristiche molto particolari che vedremo dopo queste applicazioni invece sono nate appunto perché quelle a pagamento per esempio adesso ne parleremo dopo.
+
+242
+00:45:02,360 --> 00:45:07,880
+Ma MacWhisper per esempio a pagamento è un pagamento unico, diciamo.
+
+243
+00:45:08,120 --> 00:45:11,720
+Quindi tu paghi oggi e avrai il MacWhisper per sempre.
+
+244
+00:45:11,720 --> 00:45:18,440
+Altre applicazioni con funzioni più avanzate invece sono in abbonamento e quindi iniziano a diventare meno interessanti.
+
+245
+00:45:18,440 --> 00:45:21,800
+Diciamo per chi le utilizza, mettiamola così sono interessanti.
+
+246
+00:45:21,800 --> 00:45:36,200
+Ma diventano abbastanza dispendiose, diciamo vanno valutati in base a quello che effettivamente è il vantaggio economico che l'uso di un abbonamento del genere ti porta.
+
+247
+00:45:36,440 --> 00:45:37,720
+Direi che a questo punto.
+
+248
+00:45:37,720 --> 00:45:45,000
+Tuttavia, prima facciamo ragioniamo assieme, anche se ne abbiamo già accennato poi quali sono gli usi professionali.
+
+249
+00:45:45,520 --> 00:46:01,360
+Diciamo come possono essere utilizzate queste applicazioni in maniera professionale e poi facciamo una carellata veloce, perché poi effettivamente non ha senso entrare troppo nel dettaglio di questa applicazione, se non per cose particolari che offrono, vediamo quella a pagamento.
+
+250
+00:46:02,240 --> 00:46:17,120
+Io faccio io farei una carellata abbastanza veloce come spunti per l'uso professionale, giusto perché, se no, arriviamo un po' lunghi nella puntata, almeno che non la vogliamo spezzare in due, ma qui ho capito Filippo, non preferisce stare sul pezzo.
+
+251
+00:46:17,360 --> 00:46:21,280
+Quindi io faccio una cosa molto semplice essenzialmente.
+
+252
+00:46:21,280 --> 00:46:35,840
+Prima di tutto, essendo delle registrazioni, chiedo sempre la conferma al mio interlocutore se posso registrare prima di tutto, perché secondo me, questo qui è la base fondamentale e non fare registrazioni di straforo perché non sono mai carine, tra l'altro.
+
+253
+00:46:36,160 --> 00:46:39,600
+Quindi, normalmente sul lavoro cosa faccio?
+
+254
+00:46:39,600 --> 00:46:48,880
+Lo faccio sul sopralluogo quando vado a fare il sopraluogo del cantiere o dal cliente e come magari memo finale, mentre sono in auto, faccio un po' il riassunto della questione.
+
+255
+00:46:48,880 --> 00:46:50,320
+Quindi cosa faccio?
+
+256
+00:46:50,320 --> 00:46:54,560
+Parlo dei problemi delle decisioni e delle attività che devono essere fatte.
+
+257
+00:46:54,560 --> 00:47:13,680
+Oppure quando faccio anche le riunioni con la committenza, come può essere utile per fare poi un'email di riepilogo che può essere inviato per mantenere tutti quanti aggiornati sulle decisioni che sono state prese o anche solo i punti che sono stati toccati nella riunione.
+
+258
+00:47:13,680 --> 00:47:34,040
+Poi questo va a braccetto perché essenzialmente, essendo una registrazione si può utilizzare anche con software di intelligenza artificiale che ti permettono anche di fare un riassunto, selezionare i punti principali, ma anche indicare in modo molto preciso le decisioni prese, ma soprattutto le azioni futuri da prendere, perché questo è molto interessante.
+
+259
+00:47:29,920 --> 00:47:36,920
+Ha utilizzato più di una volta ed è molto valido.
+
+260
+00:47:37,160 --> 00:47:48,200
+E poi ovviamente soprattutto anche le azioni, ma anche chi deve fare quelle azioni deve perché riesce anche a riconoscere le persone che parlano.
+
+261
+00:47:48,200 --> 00:47:53,960
+Quindi riesce a suddividere praticamente i ruoli dei partecipanti.
+
+262
+00:47:53,960 --> 00:47:58,360
+E poi un altro cosa molto utile, come vi dicevo, è la mail di riepilogo.
+
+263
+00:47:58,360 --> 00:48:02,600
+Che può essere confezionata, ovviamente secondo magari uno schema che avete già.
+
+264
+00:48:02,600 --> 00:48:13,640
+E quindi potete utilizzare una skill per fare questo, ad esempio, per chi come noi è anche un content creator, parlate, avete voce, parlate, fate video, insomma, fate contenuti di qualsiasi tipo.
+
+265
+00:48:13,880 --> 00:48:23,640
+Quindi trasformare tutto questo in testo, permette di fare delle ricerche, anche creare capitoli sottotitoli, citazioni, via discorrendo.
+
+266
+00:48:23,640 --> 00:48:34,200
+Insomma, di cose ne nascono per chi usa fare dei contenuti che magari sono audio e video, ma possono essere utilizzati tranquillamente in scritto.
+
+267
+00:48:34,200 --> 00:48:48,680
+Con tutto quello che ne viene, comunque ad esempio, la questione è anche riuscire a caricare questo testo in giro per il mondo, è sicuramente molto più maneggevole rispetto a un file audio, ad esempio.
+
+268
+00:48:48,680 --> 00:48:51,480
+E quindi può essere utile anche in questo senso.
+
+269
+00:48:51,480 --> 00:48:55,640
+E poi, ovviamente, termini architettonici, che non ce n'è mai abbastanza.
+
+270
+00:48:55,640 --> 00:49:08,040
+Anche con i nomi dei prodotti, bisogna cercare sempre di stare un po' sul pezzo e ricontrollare tutto quanto, perché è un attimo prendere Roma per Toma, in un contesto del genere professionale, non è proprio il meglio.
+
+271
+00:49:08,040 --> 00:49:09,960
+Invece, tu, Filippo, su cosa le utilizzi?
+
+272
+00:49:10,280 --> 00:49:15,000
+Direi che sono l'opposto è contrario, ma per motivi che sono presto detto.
+
+273
+00:49:16,000 --> 00:49:25,360
+Io ho un problema grosso, cioè il problema del segreto professionale quindi registrare conversazioni col cliente diventa complicato mettiamolo in questi termini.
+
+274
+00:49:25,360 --> 00:49:38,560
+Teoricamente anche con l'assenso del cliente per registrare le conversazioni, c'è da fare tutta una procedura, tendenzialmente tutte le trascrizioni andrebbero crittografate a riposo così detto.
+
+275
+00:49:38,720 --> 00:49:54,640
+L'audio dovrebbe essere ok, viene fatta la trascrizione, viene registrato l'audio e poi l'audio viene sostanzialmente compresso all'interno di un file che viene cifrato e a questo punto ogni volta che voglio riascoltare l'audio ho una password per accedere a quel testo.
+
+276
+00:49:54,640 --> 00:50:16,320
+Quindi diventa relativamente scomodo dal mio punto di vista, anche perché appunto buona parte delle cose comode del sistema, ovvero che casomai non so, registro col telefono la conversazione, se però utilizzasse per esempio il memo vocale, non andrebbe bene, perché il memo vocale si sincronizza in automatica e in cloud e quindi quell'audio potenzialmente può andare in giro.
+
+277
+00:50:16,560 --> 00:50:21,360
+È vero che Apple, se lo vuoi, poi ci farà l'intero contenuto di i cloud e così via.
+
+278
+00:50:21,360 --> 00:50:25,040
+Però insomma, diventa una situazione abbastanza complessa.
+
+279
+00:50:25,360 --> 00:50:32,480
+Ci sono applicazioni, per esempio, lo segnalo per chi volesse proprio immergersi in una vicenda del genere.
+
+280
+00:50:32,480 --> 00:50:42,800
+Io, per esempio, come dico tantissime volte, utilizzo Ferrite per l'editing del podcast dei miei podcast, compreso A2 Podcast.
+
+281
+00:50:43,200 --> 00:50:46,080
+Ferrite ce l'ho anche su iPhone.
+
+282
+00:50:46,960 --> 00:50:55,840
+Se l'utilizzi per registrare, salva direttamente sul telefono, diciamo o sulla memoria di massa del dispositivo.
+
+283
+00:50:55,840 --> 00:51:11,880
+È ovvio che in questo caso è tutto locale, si può utilizzare per esempio applicazioni come Ferrite e poi, ovviamente spostare il file o utilizzando AirDrop o utilizzando altri sistemi come sistemi sicuri, mettiamola così, si riesce a fare quello che si vuole.
+
+284
+00:51:11,880 --> 00:51:15,560
+Tuttavia, diciamo, abitualmente è più complicato che altro.
+
+285
+00:51:15,560 --> 00:51:16,680
+Dal mio punto di vista.
+
+286
+00:51:16,680 --> 00:51:18,840
+Io poi ammetto ho una buona memoria.
+
+287
+00:51:18,840 --> 00:51:31,160
+Quindi, tendenzialmente quando parlo col cliente eventualmente butto giù due appunti subito dopo la telefonata o il colloquio, o mi prendo due punti a mano mentre stiamo parlando.
+
+288
+00:51:31,160 --> 00:51:36,040
+Per cui tutto questo settore, diciamo, per me è esula dalla vicenda.
+
+289
+00:51:36,040 --> 00:51:41,880
+E lo segnalo, perché ovviamente non tutti possono registrare senza nessun tipo di problema.
+
+290
+00:51:41,880 --> 00:51:49,640
+Giustamente Roberto diceva, chiede sempre di poter registrare la conversazione prima di farlo.
+
+291
+00:51:49,640 --> 00:51:53,000
+Apro un ulteriore parentesi, giusto solo per dirlo.
+
+292
+00:51:53,000 --> 00:52:25,560
+Attenzione, molte call ci sono le funzioni di registrazione, ma anche lì, perché queste funzioni si sono comode da una parte, ma dall'altra, poi questi file e questi audio vengono salvati, non si sa bene dove così via, anche qui se proprio dovete, cercate di utilizzare gli strumenti, per esempio, QuickTime, è un buon strumento gratuito per registrare quantomeno l'audio di una conversazione che si sta avendo sul computer.
+
+293
+00:52:27,000 --> 00:52:35,160
+Diciamo, i modi per fare il podcast, diciamo, possono essere utilizzati anche per fare questa tipologia di registrazioni.
+
+294
+00:52:35,480 --> 00:52:38,280
+Questo è un'altra questione.
+
+295
+00:52:38,280 --> 00:52:50,560
+Io tendenzialmente utilizzo questi strumenti tantissimo invece per tutta la parte legata al podcast e quant'altro, che, però, credo che esuli in parte ne ho già parlato.
+
+296
+00:52:50,880 --> 00:53:16,080
+La cosa che, secondo me, può essere interessante per chi non si può permettere di registrare conversazioni con altri, mettiamola così, invece è quella di registrare il proprio pensiero, cioè pensare ad alta voce, sostanzialmente, fare la trascrizione e utilizzare, in questo caso, io lo utilizzo spesso in questa maniera: utilizzare l'intelligenza artificiale più che altro per estraporare la sintesi, non so se mi spiego.
+
+297
+00:53:16,080 --> 00:53:26,880
+Quindi, una volta che ho blatterato casomai per 20-30 minuti, poi da questa registrazione io estraggo il succo, diciamo, il contenuto vero che casomai è molto meno.
+
+298
+00:53:27,040 --> 00:53:31,760
+A questo punto invece ho un'idea di scaletta o un'idea anche degli.
+
+299
+00:53:31,760 --> 00:53:36,400
+Io l'ho fatto anche per alcune per i convegni prevalentemente.
+
+300
+00:53:36,400 --> 00:53:45,680
+Quindi idee di contenuti e così via per creare, ma nulla vieta, diciamo di utilizzarlo per anche attività lavorative.
+
+301
+00:53:45,680 --> 00:54:07,920
+Diciamo, di solito discorso, anche qui, per discorso di privacy e quant'altro, sarebbe sempre meglio evitare di mettere i nomi soprattutto i cognomi delle persone vere e eventualmente invece di parlare di Marin dire leone piuttosto che gazzella e così via, cioè mettere degli pseudonimi.
+
+302
+00:54:08,560 --> 00:54:17,440
+A questo punto, anche qui l'utilizzo anche, diciamo, non solo in locale, può essere fatto tranquillamente.
+
+303
+00:54:17,440 --> 00:54:21,200
+Sapendo che ovviamente tizio e Gazzella e Caio e leone.
+
+304
+00:54:21,200 --> 00:54:25,920
+Esattamente è una bella strategia, assolutamente.
+
+305
+00:54:25,920 --> 00:54:29,600
+Ma a questo punto direi di passare tranquillamente alle app a pagamento.
+
+306
+00:54:29,960 --> 00:54:41,800
+Abbiamo già parlato praticamente una buona parte delle app di cui abbiamo parlato prima del diciamo toccando, ma alla fine non so se è il caso di aggiungere ancora qualcosa su queste app a pagamento.
+
+307
+00:54:42,200 --> 00:54:47,000
+Allora, si, due cose, uno abbiamo Alex, quindi dobbiamo parlarne.
+
+308
+00:54:47,400 --> 00:54:50,360
+Ah, certo, sulle menzioni d'onore, certamente.
+
+309
+00:54:50,360 --> 00:54:56,840
+No, no, allora, una cosa che chiedo ad Alex da un po' e che invece MacWhisper per fatto.
+
+310
+00:54:57,000 --> 00:55:01,320
+Allora, MacWhisper è quella chiamando così più famosa.
+
+311
+00:55:01,320 --> 00:55:07,320
+Non me ne voglia Alex nel mondo Apple, anche perché credo che sia una delle prime applicazioni.
+
+312
+00:55:07,320 --> 00:55:16,600
+Che ha fatto il discorso di diciamo, creare un'interfaccia grafica per macOS per Whisper e poi adesso utilizza Parakeet.
+
+313
+00:55:16,600 --> 00:55:45,080
+La cosa interessante è che MacWhisper, tra le varie cose, per esempio, ha implementato anche se è una versione beta, che può interessare per chi fa podcast, ma anche per chi registra le riunioni, per esempio, di riconoscere i differenti soggetti, ovviamente non è perfetto, ma diciamo, se hai un audio a più voci, abitualmente il sistema non solo fa la trascrizione, ma suddivide le voci in differenti soggetti.
+
+314
+00:55:45,080 --> 00:55:48,920
+A questo punto, tu li puoi mettere il nome Roberto Filippo e così via.
+
+315
+00:55:48,920 --> 00:56:02,040
+E i dialoghi, diciamo, a questo punto vengono convertiti in sottotitoli, piuttosto che in testo e così via, possono essere anche divisi, diciamo, per chi parla, mettiamole in questi termini.
+
+316
+00:56:02,040 --> 00:56:08,440
+Ti dà tutta una serie di funzioni aggiuntive, come la possibilità di agganciare, diciamo l'audio al testo.
+
+317
+00:56:08,440 --> 00:56:12,680
+Quindi mentre tu stai ascoltando l'audio, vedi le parole sottolineate.
+
+318
+00:56:12,680 --> 00:56:16,800
+Eventualmente, se vedi uno strafalcione, lo puoi modificare, ci sono i dizionari.
+
+319
+00:56:17,040 --> 00:56:34,240
+Ma la cosa che a me interessa di più a dire la verità è che recentemente hai introdotto anche la CLI, cioè, praticamente invece di utilizzare MacWhisper come applicazione, diciamo, con l'interfaccia grafica, poi richiamarla a riga di comando.
+
+320
+00:56:34,240 --> 00:56:42,240
+Questo perché è comodo, perché ovviamente permette di fare tutta una serie di automazioni, tra cui soprattutto automazioni con l'intelligenza artificiale.
+
+321
+00:56:42,240 --> 00:57:19,520
+Perché a questo punto i vari Claude Cowork, ChatGPT Work, Codex, Claude Code e così via, possono accedere al terminale e possono utilizzare MacWhisper con appunto la CLI per fare tutta una serie di operazioni, quindi, non so, io gli dico, in questa cartella ci sono questi file, fai la trascrizione di tutti i file, ok, in questa maniera, sostanzialmente i vari assistenti a riga di comando, fanno tutto questo, tu non devi imparare la riga di comando.
+
+322
+00:57:19,760 --> 00:57:44,960
+Segnalo, però, per chi fosse interessato, e non volesse spendere i soldi perché noi siamo così, che nella sostanza questo sistema, utilizzare gli assistenti a riga di comando per l'intelligenza artificiale, ti permette anche di bypassare totalmente l'acquisto di MacWhisper perché nella sostanza, ho creato una skill, la lascerò poi nei link nelle note dell'episodio.
+
+323
+00:57:44,960 --> 00:57:58,240
+Ma sostanzialmente attraverso una skill, è possibile far scaricare, per esempio, Parakeet per MLX per Mac, e far fare le trascrizioni all'intelligenza artificiale.
+
+324
+00:57:58,240 --> 00:58:19,480
+Io devo dire la verità, di fatto A2 Podcast, li ho trascritti così, avevo la cartella con tutti i file MMP3 puntati A2 Podcast, in pratica, gli ho detto: questa è la cartella, trascrivi in questo caso come SRT, perché mi interessava avere anche i timestam di quando uno diceva qualcosa, mettiamola così.
+
+325
+00:58:19,480 --> 00:58:33,800
+Appunto, ho potuto anche strapolare delle frasi specifiche dette da me da Roberto o dagli ospiti in uno specifico momento, diciamo, e in questa maniera, diciamo, ho fatto tutto automatizzare e così via, che credo sia molto molto comodo.
+
+326
+00:58:33,800 --> 00:58:45,160
+Altra applicazione degna di nota è Wispr Flow, non perché faccia cose diverse o meglio, sì, perché fare cose diverse, la funzione base, diciamo è uguale.
+
+327
+00:58:45,160 --> 00:58:58,360
+Il vantaggio grosso è che in questo caso lo può fare anche MacWhisper per meno, diciamo, un po' più arz gogolato, Wispr Flow, nella sostanza, ha anche dei workflow agentici.
+
+328
+00:58:58,360 --> 00:59:22,840
+Cioè, una volta che io che fa la trascrizione audio che può essere fatta o in locale o esternamente, anche un MacWhisper ha la possibilità ti dà la possibilità, se non hai un computer, diciamo che ha le capacità di utilizzare modelli, poi inserire dei flussi di lavoro con l'intelligenza artificiale, faccio un esempio veloce, ma molto interessante.
+
+329
+00:59:22,840 --> 00:59:55,280
+Ho visto un video di questo insegnante che di fatto guardava i compiti degli allievi, a prescindere dai problemi di privacy che oggi non approfondiamo, mettiamola così in questo momento, ma sostanzialmente leggeva i compiti degli studenti, faceva un commento orale a tutti i compiti, e in pratica, grazie a un prompt specifico, poi nella sostanza generava un documento di restituzione dove spiegava.
+
+330
+00:59:55,520 --> 01:00:08,480
+Diciamo, lui parlava a voce, ma nella sostanza, veniva fuori uno scritto anche ben strutturato dove spiegava gli errori commessi dallo studente e il motivo perché, per come e quant'altro.
+
+331
+01:00:08,480 --> 01:00:11,120
+Quindi in questa maniera praticamente generava un'email.
+
+332
+01:00:11,200 --> 01:00:33,040
+Adesso non mi ricordo più che cosa facesse, ma comunque generava un documento per lo studente di restituzione nel compito, e quindi anche qui, per esempio, diventa molto più semplice, perché invece di commentare o dover scrivere tutto, diciamo, a penna in questa maniera ha digitalizzato tutto il suo flusso di lavoro e ovviamente diventava interessante.
+
+333
+01:00:33,280 --> 01:00:55,200
+Abbiamo poi anche superwhisper, che di fatto è più o meno una cosa similare, e quindi non approfondiamo ulteriormente, anche perché abbiamo lievemente sforato, mettiamola in questi termini, menzione d'onore, visto che c'è Alex, all'ottimo transcriber di Alex Raccuglia, salvo che non ha la CLI, chiedo da un po' a Alex.
+
+334
+01:00:56,160 --> 01:01:04,000
+Diciamo l'unica particolarità di Transcriber è che diciamo Alex giustamente lavora nel mondo video audio.
+
+335
+01:01:04,000 --> 01:01:30,440
+Io l'ho utilizzato tantissimo, ma tendenzialmente è pensato più in quell'ottica, anche lui, per esempio, ha inserito tutta una serie di funzioni prompt di ottimizzazione o di estrapolazione di contenuti, diciamo, ma più legato, non so, per fare la thumbnail del podcast, altre cose che casomai in un mondo, dipende se fai podcast professionalmente può essere utile.
+
+336
+01:01:29,920 --> 01:01:33,480
+Diciamo che per esempio nel mio mondo legale non ha molto senso.
+
+337
+01:01:33,720 --> 01:01:41,800
+Altra cosa che altra applicazione che segnalo, proprio mi scivolata è Transcriptionist dell'autore di Ferrite.
+
+338
+01:01:42,040 --> 01:01:49,480
+Appunto, come dicevo, utilizzo questa applicazione, sono anche beta tester, quindi ho avuto la possibilità poi di utilizzare Transcriptionist.
+
+339
+01:01:49,480 --> 01:01:59,080
+Il vantaggio grosso di Transcriptionist è che se usi anche Ferrite, soprattutto sui podcast o comunque sulla registrazione a più voci, quando le voci, ovviamente sono separate.
+
+340
+01:01:59,080 --> 01:02:08,840
+Il sistema trascrive le voci direttamente dall'interfaccia di Ferrite e quindi praticamente con gli audio separati diventa molto comodo.
+
+341
+01:02:08,840 --> 01:02:14,200
+Tuttavia, diciamo che è molto verticale come cosa in più credo sia in abbonamento.
+
+342
+01:02:14,760 --> 01:02:18,200
+Non rientra tra le mie preferenze particolari.
+
+343
+01:02:18,200 --> 01:02:34,120
+E infine, da ultimo, perché lo stiamo utilizzando per registrare, Audio Hijack, che è un programma specifico per registrare l'audio del Mac ha la possibilità della cattura, della trascrizione del testo, oltre che della cattura dell'audio, diciamo.
+
+344
+01:02:34,120 --> 01:02:40,040
+E il vantaggio grosso è che se le fonti sono separate dell'audio, quindi non sono mischiate in un unico audio.
+
+345
+01:02:40,040 --> 01:02:44,920
+Quai, quando viene fatta la trascrizione, te le separa e quindi hai l'audio doppio.
+
+346
+01:02:45,320 --> 01:02:59,400
+Adesso non lo faccio per le nostre puntate, perché poi, per esempio, se abbiamo l'ospite, non riesco a separare la traccia audio dell'ospite o più comunque abitualmente registriamo separatamente le tracce quindi non è un grosso problema dal mio punto di vista.
+
+347
+01:02:59,720 --> 01:03:13,400
+Tuttavia, anche qui con Audio Hijack, si potrebbe appunto, registrare il podcast, l'audio di Roberto da una parte con il nome Roberto, il mio audio, dall'altra, con la relativa trascrizione.
+
+348
+01:03:13,400 --> 01:03:20,960
+Quindi, diciamo che se si utilizzano questi strumenti, appunto, ci sono stati integrate ormai queste forze.
+
+349
+01:03:21,360 --> 01:03:28,560
+Che la panoramica è bella completa, rimane soltanto di andare a chiudere la puntata facendoci qualche domanda.
+
+350
+01:03:28,560 --> 01:03:30,560
+Nel senso, quale dobbiamo scegliere?
+
+351
+01:03:30,560 --> 01:03:34,560
+Beh, intanto, come sempre, dipende dalle esigenze che avete.
+
+352
+01:03:34,560 --> 01:03:41,600
+Come avete sentito, vi abbiamo fatto una bella panoramica tra tool gratuiti e a pagamento.
+
+353
+01:03:41,600 --> 01:03:48,480
+Chiaramente gratuiti, se la trascrizione dettatura e la priorità e si pensa di fare un passaggio di rilettura.
+
+354
+01:03:48,480 --> 01:03:54,880
+Invece, se volete appoggiarvi a quelle pagamento, sono chiaramente indirizzati i flussi di lavoro più complessi e flessibili.
+
+355
+01:03:54,880 --> 01:03:58,480
+Oppure se avete un uso intenso della voce al posto della scrittura.
+
+356
+01:03:58,480 --> 01:04:04,640
+Questo dipende sempre come dicevamo all'inizio di questa parte, dipende molto dalle vostre esigenze.
+
+357
+01:04:04,640 --> 01:04:13,520
+Ma sicuramente, in puntata avete trovato un bel po' di tool e idee su come utilizzare questi sistemi di trascrizione o dettatura.
+
+358
+01:04:13,520 --> 01:04:39,760
+La scelta del modello anche quello dipende da cosa avete in casa, da cosa avete come hardware e soprattutto al risultato che volete ottenere, secondo me, riascoltando un po' la puntata, o perlomeno pensiamo di aver fatto la cosa migliore spiegandovi un bel po' di tool e come utilizzarli nel mondo reale e soprattutto nel mondo Apple, dando una panoramica di come si può fare un lavoro di questo tipo.
+
+359
+01:04:39,760 --> 01:04:49,040
+Chiaramente sapete cosa fare nel caso in cui abbiate dubbi, scriverci, magari quando ci sarà un forum sul sito molto volentieri e un sistema.
+
+360
+01:04:49,040 --> 01:04:55,280
+Ma per adesso potete scrivere all'indirizzo, scrive A2 Podcast.it.
+
+361
+01:04:55,280 --> 01:05:07,800
+Per quanto riguarda invece le note dell'episodio che vi verranno utili per cercare tutte e quante le informazioni, soprattutto i software che vi abbiamo elencato, potete andare a cercare all'indirizzo www.podcast.it.
+
+362
+01:05:08,280 --> 01:05:12,360
+Numero della puntata, che ricordo in questo caso è la 83.
+
+363
+01:05:12,360 --> 01:05:23,960
+Se vi è piaciuto il podcast, sapete cosa fare, ovvero fare una bella recensione, mettere più pallini possibile, stelline insomma, darci il vostro feedback che ci aiuta davvero tantissimo.
+
+364
+01:05:23,960 --> 01:05:33,000
+Iscrivetevi al canale YouTube così avete anche le notifiche dirette per quanto riguarda la registrazione in diretta che facciamo come in questo momento.
+
+365
+01:05:33,240 --> 01:05:42,280
+Invece, sui podcast troverete la versione indiferita e editata dal grandissimo Filippo Strozzi, che fa un lavoro veramente certosino.
+
+366
+01:05:42,280 --> 01:05:54,680
+Sotto questo punto di vista e carica tutto quanto nei vari punti dove si può sia prendere la parte audio, ma in questo caso anche nel video, mi raccomando, iscrivetevi al canale YouTube.
+
+367
+01:05:54,680 --> 01:06:00,440
+Scrivete ovviamente nei commenti se volete approfondimenti di qualsiasi tipo e genere, forma e dimensione.
+
+368
+01:06:00,520 --> 01:06:09,240
+Noi siamo qua che vi ascoltiamo, e soprattutto che cerchiamo di risolvere i vostri problemi e trovare anche degli spunti interessanti per le prossime puntate.
+
+369
+01:06:09,240 --> 01:06:10,920
+Direi che è tutto da parte mia.
+
+370
+01:06:10,920 --> 01:06:12,920
+Vi saluto a te la parola, Filippo.
+
+371
+01:06:12,920 --> 01:06:14,840
+Come sempre, ci sentiamo alla prossima.

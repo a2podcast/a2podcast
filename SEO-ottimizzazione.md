@@ -441,3 +441,20 @@ intenzionali continueranno correttamente a comparire tra le pagine escluse.
 - **Tag cleanup**: ✅ fatto (Fase 4) — 60 tag canonici
 - **Immagine copertina**: aggiornare a 1400×1400 su Spreaker dashboard
 - **Descrizioni episodi**: alcune sono troncate nel frontmatter — allungarle a 150–300 caratteri migliora CTR
+
+
+## Episodi 81–83 — 29 settembre 2026
+
+Promosse le pagine editoriali preparate dai montaggi definitivi, con sinossi dettagliate,
+citazioni dalla trascrizione e link verificati, per rendere accessibili i contenuti anche
+attraverso lettura e ricerca. Sono associati i tre episodi Spreaker e le rispettive dirette
+YouTube pubbliche. Aggiunti gli SRT corretti e, nel bundle 83, la skill di trascrizione
+scaricabile citata nella puntata. CSV e audio restano nelle cartelle di lavorazione.
+
+Le tre puntate sono programmate per il 30 settembre, il 12 ottobre e il 26 ottobre 2026
+alle 07:00 Europe/Rome, con il cambio da +02:00 a +01:00 per la 83; tutte hanno `draft = false`. Nessuna pagina futura deve apparire nel build di produzione
+prima della data prevista. Verifiche: build di produzione e suite del sito, più rendering
+separato delle tre pagine future per controllare JSON-LD, player, SRT e ZIP.
+Build minificato riuscito; suite completa **88/88**. Verificati date e fusi corretti,
+esclusione dal build pubblico prima della data, un solo H1, riferimenti Spreaker/YouTube
+e corrispondenza dei file sorgente/destinazione; ZIP 83 disponibile nel build futuro.
