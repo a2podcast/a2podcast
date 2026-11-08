@@ -458,3 +458,14 @@ separato delle tre pagine future per controllare JSON-LD, player, SRT e ZIP.
 Build minificato riuscito; suite completa **88/88**. Verificati date e fusi corretti,
 esclusione dal build pubblico prima della data, un solo H1, riferimenti Spreaker/YouTube
 e corrispondenza dei file sorgente/destinazione; ZIP 83 disponibile nel build futuro.
+
+## Episodio 84 — 8 novembre 2026
+
+Aggiunte la pagina di «iOS, iPadOS e macOS 27 con Lucio Bragagnolo» e la trascrizione
+SRT del montaggio definitivo. La sinossi e i riferimenti sono consultabili anche senza
+riprodurre l’audio. Il front matter collega l’episodio Spreaker e la diretta YouTube.
+
+La pagina è programmata per il 9 novembre 2026 alle 07:00, ora italiana. La build
+di produzione e gli 85 test del sito sono passati. Un build con l’orologio Hugo
+impostato dopo il rilascio ha confermato l’URL canonico, un solo H1, i due player,
+il JSON-LD e il collegamento al file SRT.

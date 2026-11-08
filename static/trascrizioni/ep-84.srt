@@ -1,0 +1,1239 @@
+1
+00:00:01,840 --> 00:00:03,520
+A2 podcast.
+
+2
+00:00:03,520 --> 00:00:07,040
+Scopri come ottenere il massimo dalla tua tecnologia Apple.
+
+3
+00:00:07,040 --> 00:00:14,480
+Due professionisti, Filippo e Roberto, te lo spiegano con argomenti monotematici ed ospiti che raccontano il loro flusso di lavoro.
+
+4
+00:00:14,800 --> 00:00:21,360
+Benvenuti all'episodio 84 di A2 in cui scoprire come ottenere il massimo dalla vostra tecnologia Apple.
+
+5
+00:00:21,360 --> 00:00:25,760
+Io sono Filippo Strozzi e sono il vostro ospite assieme all'amico Roberto Marin.
+
+6
+00:00:25,760 --> 00:00:28,320
+Di che cosa parliamo in questo episodio, Roberto?
+
+7
+00:00:28,320 --> 00:00:40,160
+In questo episodio non parleremo dei miei problemi con TIM e la mia linea che ha deciso di abbandonarmi per due settimane, ma parliamo di cose più interessanti per fortuna, perché parliamo di qualcosa che è arrivato ora.
+
+8
+00:00:40,160 --> 00:00:43,680
+Nel senso che nel momento in cui registriamo saranno passati qualche giorno.
+
+9
+00:00:43,680 --> 00:00:50,320
+È disponibile dal download tutto ciò che finisce in 27 per gli OS di Apple.
+
+10
+00:00:50,320 --> 00:00:57,120
+E ovviamente non potevamo che chiamare con noi il grandissimo amico Lucio Bragagnolo.
+
+11
+00:00:57,120 --> 00:01:07,600
+Benvenuto benvenuto, grazie, buonasera, ciao a tutti, grandissimo, non relativamente al peso, mi sono riguardato in vacanza.
+
+12
+00:01:08,240 --> 00:01:16,720
+No, no, la grandissima, diciamo, di stazza di conoscenza Apple, ma soprattutto di personalità, perché è una grandissima personalità.
+
+13
+00:01:16,720 --> 00:01:23,600
+Io continuo a dire, tutte le volte che leggo il tuo blog, mi chiedo come fai a scrivere così tanto.
+
+14
+00:01:23,600 --> 00:01:32,400
+Io ci provo ogni tanto, però non ce la posso fare, ma soprattutto con una profondità di ragionamento, di pensiero di campo che è veramente invidiabile.
+
+15
+00:01:32,400 --> 00:01:34,400
+Quindi, è in tutto il nostro massimo rispetto.
+
+16
+00:01:35,360 --> 00:01:45,920
+Come amo dire, si va un po' controcorrente, perché è tutto fatto con intelligenza naturale, c'è quel che c'è in casa, insomma.
+
+17
+00:01:45,920 --> 00:02:42,440
+Che è una gran cosa, assolutamente, soprattutto in questo periodo dove parliamo spesso di intelligenza artificiale, sia qua su A2 Podcast, che sui vari podcast, ormai e sulla lingua di tutti, ma soprattutto sulle dita, sotto le dita di tutti quanti, compresi i figli, con la scuola e anche i professori, cominciano a pensarci e chiaramente incominciare a trovare un po' di intelligenza naturale incomincia a diventare sempre un po' più difficile, anche perché è una cosa di cui si discuteva tanto tempo fa, della possibilità del fatto che comunque è una cosa ricorsiva, nel senso che l'intelligenza artificiale crea degli articoli artificiosi che vengono messi in rete su cui si appropria per altri contenuti, quindi ritorna a creare dei contenuti fasulli, diventa una cosa ricorsiva e il famoso slop, che parlano bene o male tutti quanti, di questa possibilità che internet possa incominciare a diventare ancora peggio di come lo conosciamo.
+
+18
+00:02:42,520 --> 00:03:13,800
+Secondo me, una cosa bella di stasera è che parleremo anche un po' di intelligenza artificiale nativa su Mac, su iPad, su iPhone, su Apple Watch e vedremo se è un bene o un male, non tanto dal punto di vista della classifica degli LLM più performanti, quanto in quella dei sistemi più amichevoli e più facili da usare, che è il marchio di fabbrica di Apple.
+
+19
+00:03:13,800 --> 00:03:17,960
+Ma stavo rubando la conduzione a Filippo e quindi gliela restituisco.
+
+20
+00:03:17,960 --> 00:03:27,080
+No, no, andate tranquilli, anche perché io vengo da quattro ore di slide, quindi sono abbastanza cotto, diciamo.
+
+21
+00:03:27,480 --> 00:03:29,400
+Con gli occhi incrociati, come se su.
+
+22
+00:03:29,560 --> 00:03:33,080
+Ma sì, ma secondo me, il punto di vista che ha dato al nostro Lucio è ottimo.
+
+23
+00:03:33,080 --> 00:03:38,920
+Perché Apple ha preso una strada, se posso dire, un po' diversa da tutti quanti.
+
+24
+00:03:38,920 --> 00:03:54,960
+Giustamente, forse ci aspettavamo un'intelligenza artificiale by Apple, ma forse è meglio tenere questa dritta che ha preso, nel senso che svilupparne una, probabilmente o è troppo tardi, o comunque in ogni caso, è poco remunerativo.
+
+25
+00:03:54,960 --> 00:04:10,800
+Tant'è che giustamente anche io dovessi fare i conti in tasca ai vari bit che creano intelligenza artificiale, sappiamo tutti quanti bene che sono in rosso, incominciano a grattare il fondo del barriere chiedendo anche aiuti da parte dello Stato americano.
+
+26
+00:04:10,800 --> 00:04:22,640
+E quindi secondo me Apple, sotto questo punto di vista, ha fatto molto bene a non sbilanciarsi, anche se ha tirato con sé un po' di critiche, ma qualcosa è arrivato all'interno dei dispositivi Apple.
+
+27
+00:04:22,640 --> 00:04:40,960
+Ma diciamo che partendo invece diciamo così dal quella che è stata la presentazione, che, secondo me, è un punto focale fondamentale di questo sistema operativo, incomincio a parlare al singolare, perché, appunto, è stato un po' strano.
+
+28
+00:04:40,960 --> 00:04:57,680
+E questo è quello che bene o male a tutti, è capitato sotto gli occhi, soprattutto a chi seguiva i, diciamo, i keynote precedenti, e adesso sentiamo Lucio se anche lui ha avuto la stessa diciamo sensazione, perché ne abbiamo parlato anche con Filippo.
+
+29
+00:04:57,680 --> 00:04:59,840
+L'idea sembra proprio quella.
+
+30
+00:04:59,840 --> 00:05:26,320
+Abbiamo notato che non sono stati nominati i sistemi operativi in modo singolo, ma diciamo sembrava che fosse qualcosa di molto distribuito, diciamo così, e qualcosa che sembrava che portasse fosse l'apertura della strada a magari a un OS unificato, magari il famoso Apple OS, e magari anche a quello che potrebbe essere la strada del nuovo CEO.
+
+31
+00:05:26,320 --> 00:05:27,600
+Cosa ne pensi, Lucio?
+
+32
+00:05:27,680 --> 00:05:31,880
+Devo dire, hai descritto perfettamente la situazione.
+
+33
+00:05:31,880 --> 00:05:55,640
+Non so se andrà davvero a finire in questo modo perché sono tanti anni che si pronostica l'Apple OS, ma poi le identità dei sistemi per i vari apparecchi continuano a rimanere diverse così come cambiano le modalità di implementazione delle stesse funzioni sui vari apparecchi.
+
+34
+00:05:55,640 --> 00:06:28,120
+La mia impressione è che effettivamente si si è scelto di concentrare la presentazione del keynote sullo spettro di modifiche che è stato apportato alle varie declinazioni diciamo del sistema del metasistema operativo che sta dietro a tutti quanti i device prima che arrivi il sistema a installarsi effettivamente.
+
+35
+00:06:28,360 --> 00:06:40,840
+E poi, però pare che gli apparecchi continuino a conservare una propria identità, una propria voglia di rimanere distinti.
+
+36
+00:06:41,080 --> 00:06:56,120
+Una volta Microsoft aveva detto Windows Everywhere, la stessa versione per tutti, e non so se questa cosa abbia avuto successo da un punto di vista di esperienza dell'utente.
+
+37
+00:06:56,120 --> 00:07:28,720
+Poi non è che tecnicamente non si possa fare, credo, e finisco e passo la parola, che l'obiettivo di Apple fosse attirare l'attenzione sulle migliorie, sulle modifiche, prima ancora che fare un elenco di migliorie apparecchio per apparecchio, che poi in gran parte sono sempre quelle a cominciare magari da Liquid Glass.
+
+38
+00:07:28,720 --> 00:07:35,040
+Però sentiamo sentiamo Filippo se si sveglia di nuovo che mi sa che si è addormentato.
+
+39
+00:07:35,680 --> 00:08:04,400
+No, no, sono sveglio, sono sveglio, ma secondo me hai ragione: nel senso, la cosa, per esempio, interessante è che per l'iPhone Duo hanno, tra virgolette, modificato l'interfaccia proprio per il dispositivo e quindi diciamo rispetto a iOS classico, chiamiamolo così, hanno spostato il dock a destra, hanno fatto tutta una serie di implementazioni del sistema operativo.
+
+40
+00:08:04,400 --> 00:08:11,440
+Che poi è quello che è il vantaggio, secondo me, competitivo di Apple, cioè hardware e software viaggiano insieme.
+
+41
+00:08:11,440 --> 00:08:23,120
+Ed effettivamente quello che abbiamo visto è tra virgolette un ulteriore sistema operativo, anche se poi forse è più grafica che altro, mettiamola in questi termini.
+
+42
+00:08:23,120 --> 00:08:38,160
+Tuttavia, per esempio, l'iPhone Duo, quando è chiuso, diciamo, appunto il dock laterale, hanno anche cambiato proprio tutta l'interfaccia grafica, per esempio, di tutta la parte della connettività e quant'altro.
+
+43
+00:08:38,160 --> 00:09:04,600
+Invece, quando è aperto, si comporta in maniera simile ma non uguale all'iPad, quindi effettivamente, in base a come è il dispositivo, l’OS cambia o si adatta più che altro al dispositivo, che credo sia una soluzione più confacente, appunto, a poter poi utilizzare correttamente il dispositivo A rispetto al dispositivo B, che effettivamente sono dispositivi comunque diversi.
+
+44
+00:09:05,240 --> 00:09:19,640
+No, dicevo che poi dire grafica è anche limitativo perché diventa quasi un fattore identitario siccome Apple ha deciso quest'anno di optare per la possibilità di personalizzare Liquid Glass.
+
+45
+00:09:19,640 --> 00:09:25,160
+Io ho visto, giuro, incontri di persone che: Ciao, come va, tutto a posto?
+
+46
+00:09:25,160 --> 00:09:26,600
+Tutto bene, tutto ok.
+
+47
+00:09:26,600 --> 00:09:30,360
+E poi senti, ma tu Liquid Glass come l'hai impostato?
+
+48
+00:09:30,360 --> 00:09:35,560
+Più opaco, meno opaco, più lucido, meno lucido, più trasparente, meno trasparente.
+
+49
+00:09:35,560 --> 00:09:45,480
+E questa è una novità che magari si limita all'aspetto, non va troppissimo in profondità, anche se ci sarebbe qualcosa da dire.
+
+50
+00:09:45,720 --> 00:09:48,200
+E però ha decisamente lasciato il segno.
+
+51
+00:09:48,200 --> 00:09:53,800
+Condivido anche io la stessa cosa, nel senso che se ne parla tantissimo di questo Liquid Glass.
+
+52
+00:09:53,800 --> 00:10:12,120
+Io per deformazione professionale, ma più che altro, perché quando si parla di modelli tridimensionali e lavoro col computer e quindi tutto quello che riguarda i dispositivi, la grafica è bella, ma non deve portarmi via risorse.
+
+53
+00:10:12,200 --> 00:10:18,520
+Quindi, tendo sempre a metterlo, sempre un po' verso lo zero in liquid, ma questa qui è una preferenza personale.
+
+54
+00:10:18,520 --> 00:10:24,280
+C'è da dire che, però, la questione duo, io non mi ha sorpreso molto, devo dire.
+
+55
+00:10:24,280 --> 00:10:32,840
+Non tanto per l'hardware in sé, che insomma, a me piace, come idea è interessante, voglio vedere fino a che punto si spinge Apple.
+
+56
+00:10:32,840 --> 00:10:36,440
+Mi è piaciuto anche per questa piccola chiamiamola animazione.
+
+57
+00:10:36,440 --> 00:10:43,960
+Quando si apre l'iPhone Duo, che sembra veramente che galleggi questa apertura, sembra quasi un libro.
+
+58
+00:10:43,960 --> 00:10:45,920
+Veramente ha dato questa impressione.
+
+59
+00:10:46,160 --> 00:11:02,880
+Ma quello che, secondo me, è da sottolineare, perché ho paura che sarà questa la strada, credo, da questo iPhone, da questo hardware, secondo me, di iOS, di come l'abbiamo conosciuto, possiamo tranquillamente dimenticarcelo da qui in avanti.
+
+60
+00:11:02,880 --> 00:11:21,200
+Perché ho sospetto che questa modifica così radicale di iOS che si amplia direttamente su un dispositivo con lo schermo più grande, un po' come possiamo pensare a quello che è diventato iPadOS, è molto interessante.
+
+61
+00:11:21,520 --> 00:11:24,640
+Ricordiamoci appunto di come è nato iOS.
+
+62
+00:11:24,640 --> 00:11:54,480
+iOS era, diciamo, forse il sistema operativo più granitico quando è nato, nel senso che quello era e quello non lo potevi muovere, nel senso che era congelato, invece, aveva un po' rotto gli schemi dell'epoca, perché comunque iOS era qualcosa di estremamente congelato, tant'è che erano poi nati i jailbreak, appunto perché erano cose molto rigide.
+
+63
+00:11:54,480 --> 00:12:05,680
+Invece, questa apertura, che potrà dire, io ho sospetto che ci sia anche Ternus dietro a questa apertura, a me è piaciuta molto perché è un altro modo di vedere iOS.
+
+64
+00:12:05,680 --> 00:12:07,760
+IOS si sta trasformando.
+
+65
+00:12:07,760 --> 00:12:24,720
+iOS è diventato iPadOS, e se vogliamo metterla così è diventato un duo OS, per intenderci, perché in effetti l'aspetto è molto diverso, è quasi una via di mezzo tra iPadOS e iOS classico.
+
+66
+00:12:24,720 --> 00:12:45,320
+Tuttavia, io penso che anche qua è un'altra martellata, quello che poteva essere iOS, che è vecchio come noi, se lo ricorda, parlo dell'iPhone 3GS per intenderci, è un'altra martellata che porterà, secondo me, a vedere questo sistema operativo a essere più flessibile di come è nato, e a darci ancora ulteriori sorprese.
+
+67
+00:12:45,320 --> 00:12:46,280
+Cosa ne pensate?
+
+68
+00:12:46,280 --> 00:13:00,680
+Intanto, noto che Roberto non piace troppo Liquid Glass, perché l'architetto giustamente vorrebbe, ma lo spessore del vetro, ma è vetro temperato, ma è vetro rinforzato o vetro antiproiettile?
+
+69
+00:13:01,960 --> 00:13:02,520
+Non mi piace.
+
+70
+00:13:02,760 --> 00:13:39,720
+Esatto, al di là della battuta, invece, hai detto una cosa molto significativa, secondo me, che è uno dei marchi di fabbrica dell'esperienza Apple, il modo in cui funzioni magari previste ad hoc per un nuovo apparecchio che prima non c'era, poi mano a mano percolano verso intanto gli altri tipi di apparecchio, e poi anno dopo anno verso anche gli apparecchi meno recenti, meno potenti.
+
+71
+00:13:40,040 --> 00:14:10,200
+Qui nelle varie versioni 27 si vede per esempio in iPadOS che è cambiata molto in meglio la modalità di visualizzazione delle app fatte solo per iPhone, che adesso possono essere ridimensionate, magari più con un aspetto orizzontale se stiamo tenendo l'iPad attaccato a una tastiera oppure tenere il verticale se ce l'abbiamo in mano.
+
+72
+00:14:10,200 --> 00:14:12,520
+E da dove arriva questo?
+
+73
+00:14:12,840 --> 00:14:44,000
+Dalla maggiore flessibilità che le app devono avere su iOS una volta che esiste un iPhone Duo che ti fa cambiare lo schermo di utilizzo da un momento all'altro con almeno quattro modalità diverse di rappresentazione tra schermo singolo, schermo doppio, schermo interno, schermo esterno e se vogliamo poi anche lo split screen.
+
+74
+00:14:44,000 --> 00:15:15,200
+Quindi quello che hai detto lo condivido assolutamente e lo vedo come un buon segno dell'Eratus, perché vuol dire che Apple non sta costruendo per arrivare alla scadenza dell'altro ieri di presentazione di iPhone Duo, ma continua a costruire in prospettiva con la visione di un futuro ben più ampio di quello che è l'uscita del prossimo modello.
+
+75
+00:15:15,200 --> 00:15:18,240
+Sì, sicuramente soprattutto l'hardware MAC.
+
+76
+00:15:18,240 --> 00:15:40,000
+Io nell'ultimo periodo sto tenendo monitorato più quello per le mie derive di intelligenza artificiale locale, però, soprattutto su quell'hardware, Apple, secondo me, sta facendo un lavoro di lungo respiro, ma che nel tempo porterà secondo me non dico una supremazia, ma comunque essere tra i migliori sulla piazza.
+
+77
+00:15:40,000 --> 00:15:51,920
+E non è roba da poco, ho visto che effettivamente c'è tutto l'aspetto dell'aumento del carro delle RAM che ha inciso anche sulle già care RAM di Apple.
+
+78
+00:15:51,920 --> 00:15:59,920
+Stavo vedendo un video ieri dove al Gigabyte davano 25 dollari al Gigabyte di RAM di Apple.
+
+79
+00:16:00,040 --> 00:16:16,200
+C'è una cosa che volevo aggiungere: che secondo me è molto interessante sotto questo punto di vista, la questione che adesso cerco di farmi in mente, perché ascoltando della RAM, mi è venuto altre aree della questione da raccontare.
+
+80
+00:16:16,200 --> 00:16:27,080
+Adesso mi verrà in mente e vi rilascio la prova, ma diciamo che tornando invece alla questione dell'ottimizzazione, Filippo, tu che l'hai provato perché io non l'ho ancora provato.
+
+81
+00:16:27,080 --> 00:16:33,080
+Tuttavia, adesso che mi è venuto in mente, a proposito di ottimizzazione, sono riuscito a fare il collegamento che avevo in testa.
+
+82
+00:16:33,080 --> 00:16:39,320
+E scusatemi se sono un po' così, ma è un po' il periodo, abbiate pazienza, soprattutto per gli ospiti.
+
+83
+00:16:39,640 --> 00:16:43,080
+Stavo pensando che parlavi di hardware.
+
+84
+00:16:43,080 --> 00:16:52,200
+E la cosa interessante è che ho letto proprio, in realtà non l'ho letto, non ho approfondito, ma ho letto soltanto il titolo, e ho detto: bene ci siamo.
+
+85
+00:16:52,200 --> 00:17:13,240
+Perché ho letto il titolo dell'articolo su DD che esordiva così parlando dei nuovi Mac, soprattutto i nuovi Apple Silicon, dove titolava qualcosa di simile a quello che vi sto per dire, ovvero Apple Silicon M6, due punti, ciao NVIDIA.
+
+86
+00:17:13,240 --> 00:17:26,280
+Quindi vuol dire che dal punto di vista non solo riguardo all'intelligenza artificiale, ma soprattutto dal punto di vista grafico, qui incominciamo a diventare davvero cattivi sotto il punto di vista hardware.
+
+87
+00:17:26,280 --> 00:17:34,920
+Perché è vero, l'intelligenza artificiale ha bisogno della sua parte, diciamo, hardware che riesca a macinare token a più non posso.
+
+88
+00:17:34,920 --> 00:18:15,440
+Tuttavia, la questione grafica sotto sotto, che in questo momento si dà più, diciamo che il faro è più spostato sulle capacità hardware dell'intelligenza artificiale, ma io che guardo la parte grafica, vedere un chip, un SoC in realtà, tutto saldato insieme, tutto con la grafica insieme alla CPU e che va a battere il tempo a una scheda grafica discreta, secondo me, questo è qualcosa di realmente epocale, perché questa cosa qua non si è mai vista nella storia dell'hardware.
+
+89
+00:18:15,440 --> 00:18:23,920
+Tuttavia in questo momento non se ne parla perché c'è l'intelligenza artificiale che impera, ma in realtà è un grossissimo passo in avanti.
+
+90
+00:18:23,920 --> 00:18:34,320
+Cioè, l'ottimizzazione hardware che è riuscito a fare Apple sotto questo punto di vista è davvero, davvero qualcosa di impressionante, almeno sotto il mio punto di vista.
+
+91
+00:18:34,320 --> 00:18:38,480
+Ma non stiamo parlando di hardware in questo momento, stiamo parlando più di software.
+
+92
+00:18:38,720 --> 00:18:45,520
+E so che Filippo voleva parlarci un po' come stanno andando, diciamo, i sistemi operativi.
+
+93
+00:18:45,520 --> 00:18:48,080
+Perché ovviamente lui li ha provati io non ancora.
+
+94
+00:18:48,080 --> 00:19:01,920
+Perché un po' perché lui gli piace fare il beta tester e un po' perché io aspetto sempre la versione 1 dei sistemi operativi e quindi lascio sempre Filippo allo sbando perché lui parte, va e prova tutto quanto.
+
+95
+00:19:01,920 --> 00:19:05,360
+Hai qualche dritta da darci su questi sistemi operativi?
+
+96
+00:19:05,360 --> 00:19:17,760
+Allora, diciamo che piccola premessa, credo di aver installato le developer beta a metà giugno, cioè dopo l'evento Apple, è stato più per curiosità che altro.
+
+97
+00:19:17,920 --> 00:19:27,200
+E quindi le uso sui Mac, diciamo, di lavoro non le ho montate, le ho montate sul MacBook Air M4 che è effettivamente di lavoro.
+
+98
+00:19:27,200 --> 00:19:38,840
+Ma nella sostanza, avevo già visto come sia l'anno scorso che devo dire la verità, quest'anno già dalla prima beta, io non ho avuto grossi problemi di nessun tipo.
+
+99
+00:19:39,160 --> 00:19:43,000
+Questo onora al merito di questi sistemi operativi.
+
+100
+00:19:43,000 --> 00:19:52,920
+Si era parlato, se è parlato, comunque di un Golden Gate, diciamo come sistema Simile Snow Leopard.
+
+101
+00:19:53,400 --> 00:19:58,280
+Questo non lo so dire, ma sicuramente devo.
+
+102
+00:19:58,280 --> 00:20:14,520
+Le prime cose che ho notato appena installato il sistema operativo è che sul MacBook Air l'interfaccia era molto più reattiva visivamente a pelle, non ho fatto nessun tipo di test reale, però.
+
+103
+00:20:14,760 --> 00:20:18,600
+A sentimento il risultato si vedeva adesso, devo dire la verità.
+
+104
+00:20:18,600 --> 00:20:32,040
+Nell'ultimo periodo non me ne accorgo più, nel senso che ormai sono passato a Golden Gate anche sul Mac Studio, il MacBook Air comunque un M4 quindi è sufficientemente potente.
+
+105
+00:20:32,040 --> 00:20:39,000
+Quindi non ho notato il sì, sì, proprio si vedono su alcune piccole cose.
+
+106
+00:20:39,000 --> 00:20:56,520
+Ma per esempio sul Mac Studio non ho notato differenze di nessun genere, ma già una macchina molto reattiva all'epoca, è tuttora una macchina, seppur vecchia, comunque con un processore abbastanza potente, quindi non mi sono mai preoccupato di tutto.
+
+107
+00:20:56,520 --> 00:22:05,280
+Quello che invece ho notato e che è peggiorato, ma che comunque è un problema che, secondo me, almeno sui tagli bassi, Apple dovrebbe risolvere una qualche maniera, è il fatto dello spazio sul disco che viene mangiato dal sistema operativo, nella sostanza, c'è stato sicuramente un problema perché hanno riportato molti sviluppatori della gestione dello spazio dell'hard disk con le versioni beta di Golden Gate, ma questo problema sta continuando anche dopo la beta, adesso, giusto per dirlo, sostanzialmente con l'uscita delle versioni base, sono ritornato al ciclo normale, quindi ho passato alla versione, diciamo, finale, mettiamola in questi termini, ma per esempio sul mio MacBook Air M4 con 256 GB di RAM e di hard disk, io continuo ad avere problemi non indifferenti, cioè io ho la bellezza di nella mappa mentale che ho gestito, diciamo, ho 131 GB occupati da dati di sistema.
+
+108
+00:22:05,280 --> 00:22:19,760
+Ora, in parte sono giustificati, nel senso che per tutta la parte di intelligenza artificiale, per esempio, i modelli vanno in quei dati di sistema e così via, ma per tanti altri motivi no.
+
+109
+00:22:19,760 --> 00:22:34,640
+È vero anche che qui vado un po' sul tecnico, ma nella sostanza, da non so quando, però, sostanzialmente sicuramente da APFS, cioè da quando c'è il nuovo file system.
+
+110
+00:22:34,880 --> 00:22:45,360
+Il sistema operativo di Apple fa delle si chiamano snapshot, cioè delle fotografie del sistema anche sull'hardisk.
+
+111
+00:22:45,680 --> 00:22:51,680
+Ovviamente va a impattare sui famosi dati di sistema.
+
+112
+00:22:52,000 --> 00:23:06,680
+Però appunto su un hard disk da 128 GB da 256 GB e 131 GB di dati di sistema occupati oggettivamente mi sembrano un'esagerazione.
+
+113
+00:23:06,920 --> 00:23:21,720
+Poi, ovviamente, quando vai ad aprire le risorse di sistema o al meglio l'impostazione di sistema, io spesso volentieri faccio partire DaisyDisk, che è un sistema per vedere come sono allocati, come è allocato lo spazio sul disco.
+
+114
+00:23:21,960 --> 00:23:43,800
+Improvvisamente il sistema libera spazio, però devo dire la verità: negli ultimi mesi, sostanzialmente mi sono trovato spesso e volentieri, con macOS che mi diceva che non avevo più spazio sul disco, cosa che in parte era vera, in parte no, perché anche qui la gestione, secondo me, è veramente un po' faraginosa.
+
+115
+00:23:43,800 --> 00:23:56,760
+In pratica, parte del disco, parte dell'occupazione del disco è reale, ma poi il sistema operativo dice: Vabbè, questa roba qua ci puoi scrivere sopra quindi di fatto è libero.
+
+116
+00:23:56,760 --> 00:24:00,680
+Ma ovviamente sul disco quello spazio non è libero ma occupato.
+
+117
+00:24:00,680 --> 00:24:06,920
+Quindi ci sono applicazioni che dicono: guarda che non c'è più spazio per scrivere, e altre che invece non hanno questi problemi.
+
+118
+00:24:06,920 --> 00:24:19,960
+Insomma, morale della favola, però sui cosiddetti tagli base, sta avendo secondo me dei problemi e non sono stati risolti con questo nuovo sistema operativo che oggettivamente è un po' fastidioso, almeno dal mio punto di vista.
+
+119
+00:24:19,960 --> 00:24:26,200
+Su iPadOS, che è l'altro sistema operativo dove ho fatto dei test, devo dire la verità.
+
+120
+00:24:26,200 --> 00:24:53,840
+Nel mentre sono passato all'iPad Pro M5 e lì, invece, proprio già non mi sono accorto di nulla, ma oggettivamente è una macchina che è talmente potente, diciamo, per il sistema operativo che ha, che già non avevo problemi sul mio iPad Pro del 2018, quindi su quello del 2000, quello più recente, diciamo, non si è sentito nulla, diciamo.
+
+121
+00:24:54,080 --> 00:25:13,440
+Sì, io sono ho provato le beta un po' con con più prudenza di Filippo, ma perché mi trovavo in una situazione estiva di scarsissima connessione, e quindi già scaricare le beta, costituiva un problema di per sé.
+
+122
+00:25:13,440 --> 00:25:22,880
+Adesso, chiaramente sono utente di qualunque cosa 27 su tutti i device.
+
+123
+00:25:23,200 --> 00:25:32,320
+Sul problema di cui parla Filippo, posso solo corroborare, che è una parola che ho scelto apposta in base alla mia dizione della R.
+
+124
+00:25:33,760 --> 00:26:10,080
+Corroborare lo ripeto, anche, corroborare la sua versione perché è un problema che c'è da sempre e non è stato affrontato e andrebbe affrontato qui con un approccio che prendesse in considerazione l'effettiva capacità del disco a bordo della specifica macchina, perché io sono arretratissimo come processore sulla macchina principale perché non ho bisogno di fare grandi upgrade hardware e quindi sono ancora su un M1.
+
+125
+00:26:10,080 --> 00:26:17,760
+Però ho un terabyte di disco e quindi so benissimo che esiste il problema.
+
+126
+00:26:18,080 --> 00:26:28,480
+Me ne frego altamente perché, comunque, la quantità di dati di sistema che si accumula prima che ci sia la pulizia, non mi pone problemi.
+
+127
+00:26:28,480 --> 00:26:48,200
+La pulizia dovrebbe avvenire più spesso sulle macchine meno capaci e dovrebbe essere attuata in maniera tale che il problema che lamentava Filippo è che talvolta il sistema operativo e le app non si capiscono su questo.
+
+128
+00:26:48,200 --> 00:26:59,160
+O che uno spazio che potrebbe essere scrivibile finisce per, a tutti gli effetti, essere considerato invece non scrivibile.
+
+129
+00:26:59,640 --> 00:27:35,080
+Tutto questo dovrebbe essere reso più lineare, più chiaro e più frequente, perché poi tutti quelli che hanno questo problema sanno benissimo che lo si può risolvere momentaneamente per portare a casa la pellaccia a salvare la giornata e poi il giorno dopo siamo da capo perché quei dati di sistema non sono spazzatura che si accumula, ma sono cache, sono dati di cui il sistema qualcosa si fa e che poi a un certo punto vengono buttati via quando non servono più.
+
+130
+00:27:35,240 --> 00:27:46,120
+Il problema è che questa operazione di ripulitura dovrebbe avvenire più spesso con più chiarezza.
+
+131
+00:27:46,120 --> 00:28:06,200
+Qui Mercro S27 non è differente dai sistemi precedenti, è meglio Liquid Glass, insomma, giustamente, questo, però, mi tiene come si allegro perché non ero solo io che mi ero accorto di questa cosa.
+
+132
+00:28:06,200 --> 00:28:31,280
+Il fatto che sia un problema distribuito, come si dice, ma il comune, o mezzo gara, non è soltanto il mio piccolo, perché io tendo ad avere invece le versioni base dell'hardware Apple, e quindi pensavo fosse un problema dovuto al mio hard disk piccolo, ma il fatto che si vanno a saturare anche hard disk come quelli di Filippo, su un certo punto di vista, mi dice OK, qui il problema non è solo il mio dell'hard disk piccolo, ma evidentemente c'è un diciamo un errore.
+
+133
+00:28:31,360 --> 00:28:50,400
+Cioè, bisogna cambiare un po' l'approccio sotto questo punto di vista, perché non è bellissimo trovarsi il messaggio di errore dove c'è l'hard disk pieno e magari devi ancora salvare cose e fare ancora un po', magari mezzogiornata, ti viene un po' come dire il patema d'animo e non lavori serenamente.
+
+134
+00:28:50,400 --> 00:28:54,160
+Ma volevo aggiungere a questo discorso dell'occupazione dello spazio.
+
+135
+00:28:54,160 --> 00:29:06,960
+Perché proprio oggi ho letto l'articolo e ammetto anche in questo caso, non ho approfondito come vorrei fare, ma diciamo che i soliti noti, con questo parlo delle persone che sono in America che scrivono di Apple.
+
+136
+00:29:06,960 --> 00:29:17,520
+Quindi avete la lista delle testate più in vista, hanno notato una cosa che riguarda appunto Apple Intelligence Siri.
+
+137
+00:29:17,680 --> 00:29:38,240
+Essenzialmente pare che nel momento in cui si installi la versione appunto ultima 27 del macOS, praticamente viene installato automaticamente qualcosa che si aggira tra i 14 e i 30 GB diciamo di modello di intelligenza artificiale.
+
+138
+00:29:38,240 --> 00:29:59,360
+La cosa curiosa che spero che venga messa a posto anche da Apple in questo senso, è che questa non esista un'opzione in questa fase, almeno per chi abita in America, di evitare il download e l'installazione di questi, di queste chiamiamole, librerie per l'intelligenza artificiale.
+
+139
+00:29:59,360 --> 00:30:02,680
+Chiamiamole così per farla corta e che si capisca.
+
+140
+00:30:02,920 --> 00:30:12,120
+Ma diciamo che fino almeno io, sicuramente fino a Sequoia, io non ho installato Siri e non è stato installato.
+
+141
+00:30:12,200 --> 00:30:17,720
+Cioè, scusate, Apple Intelligence non l'ho installato, e di conseguenza non si è portato dietro tutto quanto.
+
+142
+00:30:18,040 --> 00:30:31,800
+Chiaro è che se in effetti la cosa si ripercuote anche magari a noi, devono installarsi magari qualcosa come magari 14 G, perché varia in base al tipo di hardware.
+
+143
+00:30:31,800 --> 00:30:42,120
+Quindi immagino che io avendo l'hardware base mi aspetto un 14 GB di occupazione sul sistema, aggiungiamo questo problema della saturazione dell'hard disk.
+
+144
+00:30:42,120 --> 00:30:53,400
+Io, insomma, quando ho letto questo articolo, ero entusiasta, volevo praticamente installare 27 domani, ma letto questo, ho alzato un po' il piede.
+
+145
+00:30:53,400 --> 00:30:55,400
+E la cosa mi dà un po' da pensare.
+
+146
+00:30:55,400 --> 00:31:04,040
+Nel senso, secondo me, ovviamente, essendo americani, hanno già trovato subito il sistema per riuscire a risolvere la questione.
+
+147
+00:31:04,280 --> 00:31:10,280
+Non è, ovviamente, all'interno delle linee guida Apple, chiaramente, ma un sistema c'è.
+
+148
+00:31:10,280 --> 00:31:27,000
+Nel caso, poi, magari metto un link all'articolo da qualche parte nel caso in cui voleste fare l'esperimento di cui non mi assumo le responsabilità, questa questione mi dà un po' da pensare perché, davvero, sapere che i sistemi operativi sono ottimizzati mi ha fatto molto ben sperare.
+
+149
+00:31:27,000 --> 00:31:40,280
+Anche perché su questa Scia ho installato 26, in realtà, sul mio iPad di nona generazione, che ero un po' lì lì per non installarlo.
+
+150
+00:31:40,280 --> 00:31:51,520
+Perché avevo paura appunto di Liquid Glass che appunto impattasse in modo forte su un hardware vecchio e non supportato al 100%.
+
+151
+00:31:52,240 --> 00:32:10,080
+Ma devo dire dal mio punto di vista che ho installato il 26 sul mio iPad e ho visto che funziona veramente bene e quindi ero veramente molto molto interessato a installare 27, perché, essendo l'ottimizzazione di 26, ero sicuro di installarlo.
+
+152
+00:32:10,080 --> 00:32:27,680
+Io adesso spero che Apple corra ai ripari e possa dare la possibilità di evitare di installare tutto l'ambaradano dietro Apple Intelligence se uno non lo vuole utilizzare, che è un'opzione, uno potrebbe anche decidere di non volerlo fare, sarebbe anche da parte mia, da utente, giusto?
+
+153
+00:32:27,760 --> 00:32:31,280
+Avere l'opzione di non installarlo se non lo uso.
+
+154
+00:32:31,520 --> 00:32:35,680
+Un'altra cosa che, però, è stata tagliata con le gambe di brutto.
+
+155
+00:32:36,000 --> 00:32:45,920
+Che io, personalmente, da ex utente Intel, posso solo essere felice, è il taglio alle gambe per quanto riguarda le app Intel.
+
+156
+00:32:46,240 --> 00:32:49,840
+Abbiamo vissuto un periodo un po' traballante con Intel.
+
+157
+00:32:49,840 --> 00:33:12,960
+Adesso vediamo che con Apple Silicon abbiamo visto veramente galoppare l'hardware e vedere Apple nel suo splendore, secondo me, in questo momento non perché mi piace Apple, ma dal punto di vista tecnico, come sottolineavo prima per quanto riguarda le schede grafiche, direi che è veramente lo splendore dell'hardware Apple in questi computer, qualcosa di incredibile.
+
+158
+00:33:12,960 --> 00:33:25,720
+Io, come sapete, ho un Air M2 senza ventole e lavorare al fresco, non sentire il rumore e fare le cose più velocemente di prima, io rimango tutti i giorni senza parole.
+
+159
+00:33:25,720 --> 00:33:33,880
+E io questo direi che su questo direi di non aggiungere nient'altro appunto perché siamo più o meno concordi su questo.
+
+160
+00:33:34,040 --> 00:33:47,320
+Invece, volevo far rientrare ancora un attimo Filippo a bomba, perché ho accennato di Siri e dei probabili problemi che si porta dietro, eventuali, continuo a dire questo qui sono test americani.
+
+161
+00:33:47,320 --> 00:33:52,120
+Io non ho ancora visto un italiano, quando lo vedo ne riparliamo almeno qui in Europa.
+
+162
+00:33:52,120 --> 00:33:57,480
+Volevo appunto chiedere a Filippo le sue esperienze con questa famosa Siri AI.
+
+163
+00:33:57,480 --> 00:33:58,440
+Come è andata?
+
+164
+00:33:58,920 --> 00:34:13,160
+Non è stata un'esperienza, nel senso che attualmente il grosso problema di tutta la vicenda, diciamo, tutti gli OS 27 sono stati sbandierati come la Siri AI, ma in Europa non è presente adesso.
+
+165
+00:34:13,160 --> 00:34:23,720
+A prescindere dall'Europa è brutta e cattiva, Apple poverina, o il contrario, mettiamola così grosso di tutta questa vicenda, e secondo me è anche l’autogol.
+
+166
+00:34:23,800 --> 00:34:36,760
+Che in questo caso si è fatto Apple, che alla fine ha sbandiarato un sistema operativo basato sull'intelligenza artificiale dopo due anni che l'aveva già dichiarato, dimentiamola in questi termini.
+
+167
+00:34:37,320 --> 00:34:52,040
+Ma questo sistema operativo funziona solo in America sostanzialmente, perché credo che anche in Cina ci siano dei vincoli, e forse in altri in altre nazioni che comunque siano esterne all'Europa.
+
+168
+00:34:52,040 --> 00:35:06,920
+A parte che ovviamente funziona solo in inglese attualmente quindi comunque solo nel mondo anglofono, per cui nella sostanza, la possibilità di utilizzare la cosiddetta Apple Intelligence è abbastanza ridotta.
+
+169
+00:35:06,920 --> 00:35:11,760
+L'unico posto dove eventualmente si può utilizzare.
+
+170
+00:35:11,760 --> 00:35:31,360
+Ma devo dire la verità, qui ci sarebbe una parentesi un po' più grossa, ma nella sostanza i modelli Apple sono modelli relativamente piccoli e sono distillati, cioè quindi sono stati creati utilizzando i modelli di Gemini di Google.
+
+171
+00:35:31,680 --> 00:35:41,280
+Sono modelli diciamo pensati nell'ottica Apple, quindi comunque per interfacciarsi bene sia col sistema operativo sia soprattutto con le app.
+
+172
+00:35:41,280 --> 00:35:56,320
+Quindi anche riescono a vedere sostanzialmente la disposizione hanno una parte di visione, mettiamola in questi termini, quindi riescono a vedere anche gli screenshot, per esempio, dello schermo, ma sono relativamente stupidi, mettiamola in questa maniera.
+
+173
+00:35:56,400 --> 00:36:30,080
+Quindi sono modelli piccoli che non hanno molta conoscenza, mettiamola così, non hanno molti parametri legati alle informazioni, ma riescono a gestire bene invece tutto quello che è il mondo App, sono modelli pensati solo per il mondo Apple e questi si possono utilizzare esclusivamente sul Mac, soltanto che sul Mac ci sono modelli open decisamente più potenti e decisamente più performanti, anche su hardware Apple non enorme.
+
+174
+00:36:30,320 --> 00:36:41,920
+Quindi, dal mio punto di vista sì, ci ho dato un occhio di interesse iniziale, ma poi sono andato su t'altra altra linea e così via.
+
+175
+00:36:42,240 --> 00:37:09,960
+Quero da una parte è comprensibile, perché ovviamente questi modelli Apple sono sostanzialmente pensati per la fascia consumer, non per utenti professionali, mettiamoli in questi termini, e appunto dalle recensioni degli americani, Siri effettivamente ha recuperato finalmente buona parte del gap che aveva.
+
+176
+00:37:09,960 --> 00:37:31,240
+Tutto questo, però, ovviamente, diciamo, vale sulla parola degli americani, mettiamola in questi termini, e da quello che ho capito io, però non ci sono applicato più di tanto, in pratica, in Europa riesci a farla funzionare solo passando tutto in inglese e avendo un account americano.
+
+177
+00:37:31,240 --> 00:37:35,720
+Quindi insomma, diventa una cosa da viticiamola in questi idea.
+
+178
+00:37:35,720 --> 00:37:38,280
+Lucio, invece, tu cosa ne pensi di questa Siri?
+
+179
+00:37:38,440 --> 00:37:51,880
+Potrebbe essere intanto il momento di parlare male, sia di Apple che dell'Europa, invece che di una sola delle due scelta, perché è una situazione abbastanza vergognosa.
+
+180
+00:37:51,880 --> 00:38:19,240
+Ahimè, devo dire che se per un attimo ci si dimentica di essere noi quelli danneggiati, e si guarda la cosa da un punto di vista più generale, viene fuori che purtroppo se io fossi John Ternus data, direi: sì: l'Europa fa così.
+
+181
+00:38:19,240 --> 00:38:30,600
+Noi abbiamo delle questioni di sviluppo globali, sai che c'è, che finché non la smettono di complicarci la vita, noi ce la semplifichiamo.
+
+182
+00:38:30,920 --> 00:38:43,400
+E disgraziatamente il danno che questo può provocare alle finanze di Apple, come testimoniano anche i risultati finanziari, non è apprezzabile.
+
+183
+00:38:43,400 --> 00:39:23,920
+Questo vuol dire che da una parte Apple potrebbe sì fare un passo in avanti verso l'Europa e dire Veniamoci incontro, dall'altra parte anche l'Europa dovrebbe fare un passo avanti verso Apple e dire capiamo meglio queste situazioni, perché si fa un sacco di confusione tra quelli che sembrano dei monopoli o delle situazioni di non concorrenza arbitrarie o dei vantaggi indebiti, e che cosa invece sono opzioni superiori a quelle della concorrenza.
+
+184
+00:39:23,920 --> 00:39:47,840
+Noi tuttora in Europa, anche se non fa parte dei 27, non abbiamo l'iPhone Mirroring, perché, in qualche modo, uno non può prendere un Android e farci Android mirroring con un Mac, e questa è una roba a mio modestissimo giudizio, completamente assurda.
+
+185
+00:39:47,840 --> 00:39:51,360
+È una funzione di concorrenza.
+
+186
+00:39:51,360 --> 00:39:58,160
+Tu non hai un iPhone, bene hai comprato un Android, nessuno te lo vieta.
+
+187
+00:39:58,160 --> 00:40:08,800
+Scusa tanto, su un Mac hai una possibilità, hai una possibilità in più, ma questo non è un vantaggio indebito di iPhone.
+
+188
+00:40:08,800 --> 00:40:14,240
+È un ecosistema, un ecosistema che funziona meglio, offre più cose e offre migliori.
+
+189
+00:40:14,560 --> 00:40:25,520
+Qui siamo in questa situazione dove non possiamo avere un vantaggio che avremo sull'iPhone, perché non si può avere su Android.
+
+190
+00:40:25,920 --> 00:40:29,360
+Ho comprato iPhone apposta per avere delle cose migliori.
+
+191
+00:40:29,360 --> 00:40:57,000
+Detto questo, tornando a Siri, intanto, questo è un momento, uno spirito del tempo, un'annata, un lustro in cui l'intelligenza artificiale inevitabilmente fa una parte del leone, quindi il fatto che ci installino giga e giga di modelli c'è poco da fare.
+
+192
+00:40:57,000 --> 00:41:25,160
+Come si diceva prima, è opportuno andare a vedere come si fa a toglierli eventualmente, ma va così per chi non lo sapesse, magari qualcuno ancora non lo sa, per il solo fatto di installare Chrome su un Mac o su un PC, Chrome non dice niente e installa un modello da 5 giga sul computer, perché così si trova un po' meglio.
+
+193
+00:41:25,160 --> 00:41:37,480
+Frima quando noi andiamo a cercare qualcosa su Google e riceviamo la modalità AI di Google.
+
+194
+00:41:37,800 --> 00:41:46,920
+Non tutti sanno che ci sono questi 5GB solo per il fatto che c'è Chrome sul computer.
+
+195
+00:41:46,920 --> 00:41:51,400
+Ovviamente Google non ha fatto una grandissima pubblicità.
+
+196
+00:41:52,040 --> 00:41:59,720
+Fortunatamente Apple sta lavorando da questo punto di vista abbastanza con coscienza.
+
+197
+00:41:59,720 --> 00:42:06,280
+Certo, i modelli arrivano, però intanto arrivano fino a un certo punto.
+
+198
+00:42:06,280 --> 00:42:11,960
+Perché poi ce ne sono cinque, se non sbaglio, di modelli di Apple.
+
+199
+00:42:11,960 --> 00:42:49,040
+Due sono locali e due invece si appoggiano al Private Cloud Compute, che è la funzione che ha messo in piedi Apple per riuscire a far andare i modelli online quando il processore e la GPU non ce la fa, ma mantenere la privacy e insomma, proteggerci da tutto quello che nel mondo esterno vorrebbe sbirciare, e quindi questo problema è un po' contenuto.
+
+200
+00:42:49,040 --> 00:43:06,400
+Poi c'è da dire che Siri AI è una cosa, l'app Siri è un'altra cosa, Visual Intelligence o i vecchi Writing Tools, che adesso si chiama in un altro modo è un'altra cosa.
+
+201
+00:43:06,720 --> 00:43:15,840
+Per il fatto stesso che Apple, differentemente dagli altri sistemi, poi ce ne sono due, uno l'intelligenza artificiale non ce l'ha.
+
+202
+00:43:16,000 --> 00:43:57,280
+Dicevo Apple diversamente da Windows, per non fare nomi, integra effettivamente l'intelligenza artificiale dentro il sistema operativo, e questo non è ci infila dentro un LLM, perché avere una finestrella con dentro Claude, ChatGPT siamo buoni tutti, invece fa sì che grazie appunto all'app di Siri, grazie a Visual Intelligence, grazie a tanti punti di contatto che ci sono nel sistema, possiamo approfittare delle AI fornita da Apple con buoni risultati.
+
+203
+00:43:57,280 --> 00:44:33,320
+Non solo i risultati di frontiera quelli che ci dà Claude o ci dà ChatGPT, ma sono buoni risultati che sul 90% delle ricerche che facciamo che riguardano una singola questione, ma alla fine il pipistrello è un mammifero o un animale, dà la risposta giusta e non c'è bisogno di scomodare token, di scomodare grandi risorse.
+
+204
+00:44:33,320 --> 00:44:43,160
+Questo inevitabilmente richiede che ci sia un modello dedicato sotto il cofano.
+
+205
+00:44:43,480 --> 00:44:52,200
+Quindi, ahimè, qualche prezzo in termini di gigabyte ci tocca pagarlo.
+
+206
+00:44:52,200 --> 00:45:28,120
+Va detto che, secondo me, in questo momento non va così male, il compromesso è buono e certe ricerche portano via alla fine 5 secondi, grazie all'interazione attraverso il sistema operativo quando la stessa ricerca lanciando un ChatGPT dentro una finestra apposta o dentro l'app, ne porterebbe via 30 o 40, perché comunque azioniamo il bazooka per sparare la formica.
+
+207
+00:45:28,120 --> 00:45:40,440
+Invece, se passiamo da macOS o da iPadOS, la formica è lì e usiamo qualcosa di più proporzionato.
+
+208
+00:45:40,440 --> 00:45:49,040
+Quindi, la mia conclusione, oltre a essere stata eccessivamente prolissa, e mi scuso, è moderatamente positiva.
+
+209
+00:45:49,280 --> 00:46:06,960
+Apple si sta muovendo bene, certo se pretendiamo dei risultati di frontiera, o pretendiamo il mondo degli agenti collegato a macOS, questo ancora non ce l'abbiamo e non ce l'avremo ancora per un anno o due, non lo so.
+
+210
+00:46:07,200 --> 00:46:14,960
+L'altra cosa interessante è effettivamente noi non possiamo utilizzare attualmente, ma le premesse sono ottime.
+
+211
+00:46:14,960 --> 00:46:27,920
+È che con il discorso di App Intents e la possibilità sostanzialmente di far dialogare questi modelli con le applicazioni i risultati che si possono ottenere sono molto molto interessanti.
+
+212
+00:46:27,920 --> 00:47:04,080
+Proprio perché a questo punto l'intelligenza artificiale, o meglio, i large language model, hanno accesso anche e soprattutto a tutta una serie di informazioni che sono sul telefono piuttosto che sul computer e che quindi permettono poi di fare cose che fino a ieri l'altro, o appunto erano relegate a modelli decisamente più potenti, ma soprattutto a cui bisognava dare le chiavi d'accesso a praticamente tutto, hard disk e applicazioni e quindi database e quant'altro.
+
+213
+00:47:04,080 --> 00:47:07,200
+Questo effettivamente è qualcosa di molto interessante.
+
+214
+00:47:07,360 --> 00:47:18,040
+Ve ne accennavo nelle nostre chat quotidiane, ma attualmente io ho installato sul mio Mac Studio un sistema di gestione di MCP che si chiama Macuse.
+
+215
+00:47:18,040 --> 00:47:33,160
+E praticamente attraverso un modello locale io riesco a accedere alle note, ai promemoria, al calendario, a varie cose dell'ecosistema Apple, tutto in locale e effettivamente, i risultati iniziano a diventare interessanti.
+
+216
+00:47:33,480 --> 00:47:51,800
+Io devo dire che, da parte mia, intanto ringrazio come sempre Lucio per le ottime riflessioni, aprono sempre riflessioni e spunti, ti metti nella condizione di rivedere i propri pensieri, secondo me, questo è veramente illuminante e lo apprezzo davvero tantissimo.
+
+217
+00:47:51,800 --> 00:48:05,960
+Questo aspetto di Lucio che apre la vista, che è una cosa che non è così facile fare, soprattutto in questo modo delicato, nell'accompagnarti nel ragionamento e da sottolineare questo.
+
+218
+00:48:05,960 --> 00:48:11,720
+Apple Intelligence, io purtroppo, come sempre, non ho fatto grossi esperimenti, ammetto.
+
+219
+00:48:11,720 --> 00:48:13,000
+È molto interessante.
+
+220
+00:48:13,000 --> 00:48:28,280
+Io bramo la possibilità e spero veramente tantissimo che magari un giorno di questi Comandi Rapidi si trasformi per magia in un mega MCP e permetta di collegare tutto quanto in giro per il mondo.
+
+221
+00:48:28,280 --> 00:48:48,200
+Sarebbe veramente per me fantastico con l'intelligenza artificiale di Apple, con tutte le applicazioni che ci sono all'interno del sistema operativo e passare da Comandi Rapidi, chi lo sa, magari sarebbe veramente un anzi, MCP sarebbe veramente qualcosa di fenomenale, vediamo come si muove in questo senso.
+
+222
+00:48:48,200 --> 00:48:58,600
+Io di tutto quello che mi ha stupito tantissimo, perché appunto utilizzando la fotografia praticamente tutti i giorni è stato vedere il cambiamento dell'inquadratura per me.
+
+223
+00:48:58,600 --> 00:49:05,880
+È stato mi è caduta proprio la mandibola, ha fatto proprio caduta per terra e la sto ancora recuperando adesso.
+
+224
+00:49:05,880 --> 00:49:18,240
+Questo è veramente un bellissimo aspetto che mi è piaciuto davvero tanto, e in generale, io continuo a dire, secondo me, siamo davanti a qualcosa di diverso.
+
+225
+00:49:18,960 --> 00:49:26,080
+Non so quanto ringraziare Ternus, quanto sia un lavoro dietro alle quinte, magari di Cook e Compagnia Brisco.
+
+226
+00:49:26,240 --> 00:49:27,920
+Intendo con i dirigenti.
+
+227
+00:49:27,920 --> 00:49:37,920
+Chi lo sa, questo progetto da quanto era in piedi, o se addirittura, in una delle sue visioni, il nostro Steve aveva pensato a qualcosa del genere.
+
+228
+00:49:37,920 --> 00:49:49,120
+Chi lo sa, sarebbe veramente bello averlo qua, magari ancora in vita, che avere un suo punto di vista o capire quale potrebbe essere il futuro di Apple.
+
+229
+00:49:49,120 --> 00:50:00,000
+Io per continuo a dire, ho avuto un approccio tardivo al Mac, perché sono arrivato tardi e in giro di un anno è morto.
+
+230
+00:50:00,000 --> 00:50:08,880
+Quindi non ho avuto modo di conoscerlo bene, nel senso, utilizzando altri sistemi operativi, erano argomenti che mi toccavano fino a un certo punto.
+
+231
+00:50:08,880 --> 00:50:14,320
+Mi piacerebbe, ma questa è una domanda che faccio alla fine, volevo soltare una piccola parentesi.
+
+232
+00:50:14,320 --> 00:50:18,400
+Devo dire che il ragionamento di Lucio è correttissimo.
+
+233
+00:50:18,400 --> 00:50:40,080
+Forse sarebbe stato meglio che l'Europa intervenisse quando veramente ce n'era bisogno all'epoca, intorno agli anni 2000, quando praticamente il Mac non poteva praticamente dialogare con niente se non con se stesso, perché all'epoca c'era Windows che imperava.
+
+234
+00:50:40,080 --> 00:50:48,800
+Attualmente 2026, io posso dirlo direttamente perché in modo proprio recente ho ripreso in mano Windows per lavoro.
+
+235
+00:50:48,800 --> 00:51:12,520
+E nonostante utilizzi iPhone, iPad e Mac continuamente comunque per lavoro, vedere comunque che c'è un approccio molto più aperto per quanto riguarda il collegamento anche basilare di Windows con iPhone, direi che la situazione è decisamente diversa rispetto a quello che vedevo negli anni 2000, dove veramente il Mac era relegato.
+
+236
+00:51:12,520 --> 00:51:19,960
+Ve lo dico chiaramente perché per venere un'idea: era legato nell'angolo più oscuro della facoltà di architettura.
+
+237
+00:51:19,960 --> 00:51:30,920
+Proprio in un angolo lasciato lì con tre computer e Mac e tutto il resto della facoltà andava avanti a Windows e la cosa era lì, forse da intervenire.
+
+238
+00:51:30,920 --> 00:51:33,640
+Ma adesso la situazione è un po' diversa.
+
+239
+00:51:33,960 --> 00:51:35,800
+Siamo in mano all'Europa.
+
+240
+00:51:35,800 --> 00:51:43,160
+Speriamo anche che sia Apple che l'Europa trovino un compromesso perché fa bene a entrambi poi alla fine.
+
+241
+00:51:43,160 --> 00:51:56,360
+Invece, tornando alla domanda che volevo fare a Lucio, che sicuramente lui è molto più esperienza, ha avuto modo di conoscere, non dico direttamente, ma sicuramente ha avuto modo di capire qual è l'indole di Steve.
+
+242
+00:51:56,360 --> 00:52:03,240
+Secondo il suo parere, quale potrebbe essere l'idea di questo possibile sistema operativo?
+
+243
+00:52:03,240 --> 00:52:06,760
+Secondo te potrebbero essere una sua idea, o sarebbe stato?
+
+244
+00:52:06,760 --> 00:52:09,560
+Non dico contrario, ma avrebbe avuto delle riserve.
+
+245
+00:52:09,560 --> 00:52:21,000
+Così proprio una tua idea personale, non è detto che sia vera, ma volevo capire cosa ne pensi tu, che hai avuto più modo di averlo sotto mano, diciamo.
+
+246
+00:52:21,000 --> 00:52:39,880
+Steve in generale, preferiva avere cose su misura, quindi l'idea di un sistema singolo che valga per tutti mi sarebbe piaciuta un po' meno che quella di tanti sistemi operativi distinti.
+
+247
+00:52:39,880 --> 00:52:54,000
+Non dobbiamo dimenticarci che lui è stato un grande e comunque i tempi cambiano adesso ormai siamo da 15 anni senza Steve.
+
+248
+00:52:54,240 --> 00:53:05,760
+Io continuo a pubblicare una melina su X il 5 ottobre di ogni anno che passa, e ne ho pubblicate 15.
+
+249
+00:53:05,760 --> 00:53:09,200
+Nel frattempo le cose vanno avanti.
+
+250
+00:53:09,200 --> 00:53:15,360
+Io non so che cosa avrebbe pensato lui: dell'intelligenza artificiale.
+
+251
+00:53:15,360 --> 00:53:29,120
+So che lui sacrosantamente presentò l'iPhone dicendo: Ma chi è che lo vuole uno stilo sul telefono?
+
+252
+00:53:30,320 --> 00:53:40,240
+Oggi che c'è iPhone Duo, iPhone Duo è compatibile con Apple Pencil, però quante cose sono cambiate?
+
+253
+00:53:40,240 --> 00:53:53,280
+Pensiamo all'iPhone che aveva in mano Steve, e all'iPhone Duo, non c'è confronto, e su un iPhone 18 Pro Max l'Apple Pencil non la usi.
+
+254
+00:53:53,600 --> 00:54:00,240
+Quindi dobbiamo un po' tenere presenti queste cose.
+
+255
+00:54:00,240 --> 00:54:31,720
+Quello che mi piace vedere se cerco un carattere di continuità rispetto all'opera di Jobs, che poi è diventata l'opera di Cook, che adesso diventa l'opera di Ternus e non è banale che un'azienda abbia avuto tre amministratori delegati in 30 anni, e che il terzo sia lì da tre settimane.
+
+256
+00:54:31,720 --> 00:54:33,160
+Questo vuol dire qualcosa.
+
+257
+00:54:33,160 --> 00:55:02,600
+Però dicevo, alla fine Apple era diventata l'azienda di think different, dei pioli quadrati nel buco rotondo, quelli che contestano lo status quo, e ancora più avanti, rielaborando i vecchi slogan, è diventata l'azienda che cambia il mondo una persona alla volta.
+
+258
+00:55:02,600 --> 00:55:22,600
+È diventata l'azienda che abilita le persone da un punto di vista commerciale a fare lavori meravigliosi e da un punto di vista umano a fornire una accessibilità fuori dal comune che nessun altro sistema è in grado di emulare.
+
+259
+00:55:22,920 --> 00:55:24,680
+Dove voglio arrivare.
+
+260
+00:55:25,000 --> 00:56:25,600
+Il Mac, così poi come anche iPad e iPhone, però ci sarebbe da fare un discorso lungo, rimane una macchina per individui interessati a, tra virgolette, cambiare il mondo, ma che vuol dire migliorarsi, vuol dire fare di più, vuol dire, e allora in questo senso una logica di fornire una dotazione di intelligenza artificiale fatta su misura, fatta integrandola con il resto del software e con l'hardware, che non è la prima, la migliore, la più grossa, la più veloce, ma è quella più amichevole, quella che ti risolve davvero un problema semplice subito invece che dover porti la domanda di che cosa devo fare e dove devo andare, ti risolvo il problema.
+
+261
+00:56:25,600 --> 00:56:34,640
+E in prospettiva non lontanissima, funziona in locale il più possibile.
+
+262
+00:56:34,880 --> 00:56:54,000
+Se proprio ha bisogno, si prende un pezzo di cloud privato, schermato, cifrato, che nessun altro, nessun cattivo in ascolto, ma nessun maligno in ascolto può cercare di carpirci.
+
+263
+00:56:54,320 --> 00:57:23,360
+Ecco, questa dimensione di Mac, di macOS, come macchina individuale rivolta alle persone, con tanto anche adesso che ci vuole di intelligenza artificiale, questo lo vedo molto in continuità con quello che era il 1998, ma con quello che era poi nel 1984, una bicicletta della mente potenziata, oserei dire.
+
+264
+00:57:23,360 --> 00:57:38,640
+Secondo me hai centrato il punto, lo penso anch'io così, penso anche che nel corso del tempo io non ho avuto modo di apprezzare questa cosa, ma di sicuro ho apprezzato l'intelligenza di Steve.
+
+265
+00:57:38,640 --> 00:57:47,280
+E penso che su certe cose, se fossero state sbagliate, avrebbe anche non dico cambiato completamente rotto, ma sicuramente aggiustato la rotta.
+
+266
+00:57:47,280 --> 00:57:50,920
+Sono molto contento di quello che mi hai raccontato.
+
+267
+00:57:50,920 --> 00:57:58,360
+Perché quando parli di Steve, per me è un'apertura sulla storia che non ho conosciuto per errore mio.
+
+268
+00:57:58,360 --> 00:58:04,440
+E sapere sentirmi raccontare queste cose, mi fa veramente molto piacere, ti ringrazio davvero tantissimo, Lucio, per le tue parole.
+
+269
+00:58:04,600 --> 00:58:30,120
+Io adesso, chiedo a Filippo se voleva aggiungere qualcosa, altre domande o idee su cui discutere ma io direi che siccome ci siamo dati l'ora di puntata, e siamo arrivati a 58 minuti di registra, e l'ore tarda, come si suol dire, mi avvicinerei alla conclusione, anche se ovviamente con Lucio starei a chiacchierare tutta sera.
+
+270
+00:58:31,160 --> 00:58:32,360
+Posso dire un'ultima cosa?
+
+271
+00:58:34,920 --> 00:58:36,840
+L'ultimissimo pensiero.
+
+272
+00:58:37,160 --> 00:58:50,360
+La struttura di AI di macOS e iPadOS: prevede la creazione di un grafo di contesto personale legato allo stato dello schermo.
+
+273
+00:58:50,360 --> 00:58:52,360
+Tradotto in italiano.
+
+274
+00:58:52,360 --> 00:59:01,960
+La AI locale in privacy, senza che nessuno ne possa approfittare, sa che cosa abbiamo sullo schermo.
+
+275
+00:59:02,280 --> 00:59:16,680
+Querette di interrogare Siri in modi molto più immediati, producenti e smart di quello che può farci fare qualunque agente.
+
+276
+00:59:16,680 --> 00:59:44,280
+Apple è dietro la frontiera e dietro tutto quello che volete su cui si vuole fare una classifica per intelligenza artificiale, ma sull'interazione dentro il sistema operativo tra quello che c'è sullo schermo e le AI è avantissimo e non troverete una roba del genere da nessun'altra parte.
+
+277
+00:59:44,280 --> 00:59:59,600
+Con questo inizio a dare i miei saluti e i miei ringraziamenti per avermi sopportato, mentre poi ringrazio Filippo e Roberto per avermi supportato in questa serata.
+
+278
+00:59:59,600 --> 01:00:00,800
+Lascio la parola a loro.
+
+279
+01:00:00,800 --> 01:00:07,520
+Lucio, come sempre, è un grossissimo piacere per noi altro che supportarti o sopportarti.
+
+280
+01:00:08,000 --> 01:00:14,800
+Noi non dico che è oro colato quello che dici, ma è veramente per qualcosa di speciale.
+
+281
+01:00:14,800 --> 01:00:18,800
+Preferisco definirlo speciale perché non ci sono tante parole per definirlo.
+
+282
+01:00:18,800 --> 01:00:26,720
+È un'esperienza che a me lascia sempre qualcosa di importante e non è mai banale.
+
+283
+01:00:26,960 --> 01:00:32,000
+Per noi è veramente motivo di vanto e orgoglio averti qui il microfono con noi su A2 Podcast.
+
+284
+01:00:32,160 --> 01:00:35,280
+Ti ringraziamo tantissimo per il tempo che ci hai dedicato.
+
+285
+01:00:35,680 --> 01:00:42,240
+Non solo a noi, ma anche agli ascoltatori, che sicuramente ha fatto un sacco piacere sentire i tuoi punti di vista.
+
+286
+01:00:42,240 --> 01:01:16,400
+Soprattutto quest'ultimo che hai detto, in effetti, aggiungo questa piccola parentesi, mi ricordo che era uscito, non dico il brevetto, ma c'erano forse le API che erano uscite l'anno scorso o l'anno ancora prima, e io vedere qualcosa che riuscisse a capire cosa avevo sullo schermo, è qualcosa di impressionante e che apre il mondo veramente a una diciamo, a un'interazione così personale che nessuna intelligenza artificiale in questo momento 2026 può permettersi.
+
+287
+01:01:16,400 --> 01:01:29,680
+Perché può lavorare sui tuoi file, può lavorare con i tuoi programmi, può lavorare con quello che gli dai in pasto, ma di capire quello che stai facendo sullo schermo, non è ancora in grado di capirlo.
+
+288
+01:01:29,680 --> 01:01:42,920
+E ricordo infine che se voi avete un dispositivo smartphone o tablet che avete sotto mano, potete vedere quant'è la percentuale di schermo che utilizzate all'interno delle vostre giornate.
+
+289
+01:01:42,920 --> 01:01:44,760
+È tutto praticamente schermo.
+
+290
+01:01:44,760 --> 01:01:51,080
+Quindi vuol dire che questa possibilità vi può cambiare veramente il paradigma di interazione con l'intelligenza artificiale.
+
+291
+01:01:51,080 --> 01:01:55,160
+Io qua concludo, ringrazio ancora tantissimo il nostro Lucio.
+
+292
+01:01:55,160 --> 01:02:05,000
+Spero veramente di averti di nuovo qua, di nuovo ai microfoni di A2 Podcast, perché i motivi te li ho appena detti, ma ci sono sicuro che anche gli ascoltatori sono dello stesso avviso.
+
+293
+01:02:05,000 --> 01:02:19,640
+Andando in conclusione di questa bellissima puntata, direi che potete trovare le note dell'episodio seguendo il link, o meglio, l'indirizzo www.a2podcast.it/numero-della-puntata, in che puntata siamo?
+
+294
+01:02:19,640 --> 01:02:22,840
+Se ve lo siete persi, siamo alla puntata 84.
+
+295
+01:02:23,160 --> 01:02:28,520
+Mentre se hai voglia di iscriverci, prima o poi nascerà il forum sul sito.
+
+296
+01:02:28,520 --> 01:02:32,040
+Perché il nostro Filippo che se ne occupa e sta già facendo milioni.
+
+297
+01:02:32,280 --> 01:02:45,960
+Ma penso penso che saranno i commenti più che il forum a questo punto, anche secondo me, ma sta già aggiungo una cosa: sta facendo un milione di cose per lA2 Podcast e non solo veramente complimenti.
+
+298
+01:02:45,960 --> 01:02:53,080
+Perché se potete vedere le dirette, capirete anche che questa cosa qua se l'è inventata lui, quello che vedete a video.
+
+299
+01:02:53,080 --> 01:02:57,240
+È una cosa che fino all'anno scorso era qualcosa di impossibile.
+
+300
+01:02:57,480 --> 01:03:01,400
+Filippo, grazie all'utilizzo di intelligenza artificiale, ha reso possibile.
+
+301
+01:03:01,640 --> 01:03:06,360
+Io lo ringrazio perché è riuscito ancora a venire incontro alle mie esigenze.
+
+302
+01:03:06,360 --> 01:03:24,080
+Anzi, non alle mie esigenze, diciamo, a una velocità internet imposta dal mondo delle telecomunicazioni che fa ridere i polli, è riuscito anche a rendere le comunicazioni tra di noi molto fluide, sempre utilizzando intelligenza artificiale e sbattendoci la testa.
+
+303
+01:03:24,080 --> 01:03:25,200
+È un grandissimo.
+
+304
+01:03:25,200 --> 01:03:34,160
+Se volete fargli complimenti, potete mandare un bel grandissimo all'indirizzo mail scrivi@a2podcast.it.
+
+305
+01:03:34,160 --> 01:03:44,160
+Non potete scrivere non solo quello, potete anche proporvi se volete parlare di Apple oppure darci i vostri commenti, una pacca sulla spalla, quello che vi viene in mente.
+
+306
+01:03:44,160 --> 01:03:47,520
+Potete farlo anche con la recensione su Apple Podcast.
+
+307
+01:03:47,520 --> 01:04:04,240
+E mi raccomando, visto che siamo in diretta, siamo in diretta su YouTube, iscrivetevi che non costa niente, trovate le notifiche e siamo tutti più contenti perché dobbiamo far crescere questo simpatico podcast che vi accompagna da un bel po' di tempo con puntate che so sicuro che vi sono piaciute.
+
+308
+01:04:04,240 --> 01:04:06,880
+Io direi che per questa puntata è tutto.
+
+309
+01:04:06,880 --> 01:04:10,240
+Io vi saluto assieme ai nostri amici qua con noi.
+
+310
+01:04:10,240 --> 01:04:13,520
+Alla prossima, ciao a tutti, grazie.
